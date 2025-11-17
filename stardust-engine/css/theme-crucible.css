@@ -1,0 +1,78 @@
+/* /assets/stardust-engine/css/theme-crucible.css */
+/* Theme: The Crucible (Homecoming / Maroon & Orange) */
+
+:root {
+  /* --- TYPOGRAPHY (Shared) --- */
+  --bs-font-sans-serif: "Impact", "Arial Black", system-ui, -apple-system, sans-serif;
+  --bs-body-font-family: "Courier New", Courier, monospace;
+
+  /* --- LIGHT MODE: "Collegiate" --- */
+  /* (Letterman Jacket / University Notebook) */
+  
+  --bs-body-bg: #F8F9FA;
+  --bs-body-color: #212529;
+  --bs-secondary-color: #4B5563;
+  --bs-border-color: #DEE2E6;
+  --bs-tertiary-bg: #FFFFFF;
+
+  /* --- THE CPI COLORS (Light Mode) --- */
+  
+  /* Primary: CPI Maroon */
+  --bs-primary: #86000A;
+  --bs-primary-rgb: 134, 0, 10;
+  --bs-primary-text-emphasis: #FFFFFF;
+  --bs-primary-bg-subtle: #FADEDF;
+  --bs-primary-border-subtle: #F0B6B9;
+
+  /* Warning/Accent: CPI Orange */
+  --bs-warning: #E87722;
+  --bs-warning-rgb: 232, 119, 34;
+  --bs-warning-text-emphasis: #FFFFFF;
+  --bs-warning-bg-subtle: #FCEADC;
+  --bs-warning-border-subtle: #F8C39E;
+
+  /* Secondary: Neutral Grey */
+  --bs-secondary: #4B5563;
+  
+  /* Link Colors */
+  --bs-link-color: var(--bs-primary);
+  --bs-link-hover-color: #5A0007;
+  
+  --bs-navbar-brand-color: var(--bs-primary);
+}
+
+/* --- DARK MODE: "Crucible Fire" --- */
+/* (Matching the album art's dark stadium & nebula) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Base Colors */
+    --bs-body-bg: #1A1A1A;           /* Dark Charcoal (not pure black) */
+    --bs-body-color: #E0E0E0;
+    --bs-secondary-color: #9ca3af;
+    --bs-border-color: #444444;
+    --bs-tertiary-bg: #2A2A2A;       /* Card Background */
+
+    /* --- THE CPI COLORS (Dark Mode) --- */
+
+    /* Primary: Ember Red (Glowing Maroon) */
+    --bs-primary: #D72C00;
+    --bs-primary-rgb: 215, 44, 0;
+    --bs-primary-text-emphasis: #FFFFFF;
+    --bs-primary-bg-subtle: #3A0C00;
+    --bs-primary-border-subtle: #731800;
+
+    /* Warning/Accent: Bright Orange */
+    --bs-warning: #FFA500;
+    --bs-warning-rgb: 255, 165, 0;
+    --bs-warning-text-emphasis: #000000; /* Black text on bright orange */
+    --bs-warning-bg-subtle: #332100;
+    --bs-warning-border-subtle: #664200;
+
+    /* Secondary: Lighter Grey */
+    --bs-secondary: #888888;
+    
+    /* Link Colors */
+    --bs-link-color: var(--bs-warning); /* Orange links pop better on black */
+    --bs-link-hover-color: #FFFFFF;
+  }
+}

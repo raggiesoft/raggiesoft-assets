@@ -1,0 +1,8 @@
+# =================================================
+# Ignore all audio files
+# These are uploaded directly to the DigitalOcean Space
+# and do not need to be in version control.
+# =================================================
+*.wav
+*.mp3
+*.ogg
