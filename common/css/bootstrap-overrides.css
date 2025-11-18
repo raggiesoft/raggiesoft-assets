@@ -188,6 +188,7 @@ body {
     /* HARD-CODED BRAND COLOR (Stardust Engine Pink) */
     border-bottom: 1px solid #ff2a6d !important; 
     backdrop-filter: blur(10px);
+    z-index: 1030; /* <-- ADD THIS LINE */
 }
 
 /* Ensure navbar text is legible */
