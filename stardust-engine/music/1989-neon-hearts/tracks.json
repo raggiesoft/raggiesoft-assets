@@ -1,0 +1,64 @@
+{
+  "tracks": [
+    {
+      "fileName": "01-neon-hearts.wav",
+      "title": "Neon Hearts",
+      "disc": 1,
+      "track": 1
+    },
+    {
+      "fileName": "02-hollow-sound.wav",
+      "title": "Hollow Sound",
+      "disc": 1,
+      "track": 2
+    },
+    {
+      "fileName": "03-side-by-side.wav",
+      "title": "Side by Side",
+      "disc": 1,
+      "track": 3
+    },
+    {
+      "fileName": "04-if-you-walked-away.wav",
+      "title": "If You Walked Away",
+      "disc": 1,
+      "track": 4
+    },
+    {
+      "fileName": "05-same-old-song.wav",
+      "title": "Same Old Song",
+      "disc": 1,
+      "track": 5
+    },
+    {
+      "fileName": "06-chain-reaction.wav",
+      "title": "Chain Reaction",
+      "disc": 1,
+      "track": 6
+    },
+    {
+      "fileName": "07-not-your-doll.wav",
+      "title": "Not Your Doll",
+      "disc": 1,
+      "track": 7
+    },
+    {
+      "fileName": "08-quiet-on-the-set.wav",
+      "title": "Quiet on the Set",
+      "disc": 1,
+      "track": 8
+    },
+    {
+      "fileName": "09-shadow-dancing.wav",
+      "title": "Shadow Dancing",
+      "disc": 1,
+      "track": 9
+    },
+    {
+      "fileName": "10-after-the-show.wav",
+      "title": "After the Show",
+      "disc": 1,
+      "track": 10
+    }
+  ]
+}

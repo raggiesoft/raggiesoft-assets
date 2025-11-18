@@ -75,6 +75,16 @@ body {
   }
   /* --- End Alert Fix --- */
 
+  /* --- FIX: Link color on dark backgrounds --- */
+  /* This fixes .link-body-emphasis (used in footer) */
+  .link-body-emphasis {
+     color: var(--bs-body-color) !important; /* Force it to be the light-grey body text color */
+  }
+  .link-body-emphasis:hover {
+     color: var(--bs-link-hover-color) !important; /* Use the theme's link hover color (white) */
+  }
+  /* --- End Link Fix --- */
+
 
 } /* End of Dark Mode Media Query */
 

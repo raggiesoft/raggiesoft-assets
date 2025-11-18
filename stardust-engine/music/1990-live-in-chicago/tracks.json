@@ -1,0 +1,46 @@
+{
+  "tracks": [
+    {
+      "fileName": "01-the-stardust-engine-live.wav",
+      "title": "The Stardust Engine (Live in Chicago)",
+      "disc": 1,
+      "track": 1
+    },
+    {
+      "fileName": "02-neon-hearts-live.wav",
+      "title": "Neon Hearts (Live in Chicago)",
+      "disc": 1,
+      "track": 2
+    },
+    {
+      "fileName": "03-dancing-in-the-neon-live.wav",
+      "title": "Dancing in the Neon (Live in Chicago)",
+      "disc": 1,
+      "track": 3
+    },
+    {
+      "fileName": "04-if-you-walked-away-live.wav",
+      "title": "If You Walked Away (Live in Chicago)",
+      "disc": 1,
+      "track": 4
+    },
+    {
+      "fileName": "05-light-up-the-night-live.wav",
+      "title": "Light Up the Night (Live in Chicago)",
+      "disc": 1,
+      "track": 5
+    },
+    {
+      "fileName": "06-my-anchor-holds-live.wav",
+      "title": "My Anchor Holds (Live in Chicago)",
+      "disc": 1,
+      "track": 6
+    },
+    {
+      "fileName": "07-electric-color-live.wav",
+      "title": "Electric Color (Live in Chicago)",
+      "disc": 1,
+      "track": 7
+    }
+  ]
+}

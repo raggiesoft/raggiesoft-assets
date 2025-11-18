@@ -1,0 +1,40 @@
+{
+  "tracks": [
+    {
+      "fileName": "01-static.wav",
+      "title": "Static",
+      "disc": 1,
+      "track": 1
+    },
+    {
+      "fileName": "02-garbage.wav",
+      "title": "Garbage",
+      "disc": 1,
+      "track": 2
+    },
+    {
+      "fileName": "03-not-your-saint.wav",
+      "title": "Not Your Saint",
+      "disc": 1,
+      "track": 3
+    },
+    {
+      "fileName": "04-atmosphere-warehouse-demo.wav",
+      "title": "Atmosphere (Warehouse Demo)",
+      "disc": 1,
+      "track": 4
+    },
+    {
+      "fileName": "05-the-fortress.wav",
+      "title": "The Fortress",
+      "disc": 1,
+      "track": 5
+    },
+    {
+      "fileName": "06-escape-velocity-ad-astra.wav",
+      "title": "Escape Velocity (Ad Astra)",
+      "disc": 1,
+      "track": 6
+    }
+  ]
+}
