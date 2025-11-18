@@ -1,92 +1,33 @@
 /**
  * RaggieSoft Audio Player <rs-audio-player>
  *
- * This file defines a custom HTML element (a Web Component) that acts as a
- * site-wide audio player. It is designed to be self-contained, reusable,
- * and configurable via data attributes and a central JSON file.
- *
- * --- Core Concepts of a Web Component ---
- * 1.  Custom Element: A custom HTML tag (<rs-audio-player>) that we define.
- * 2.  Shadow DOM: An encapsulated DOM tree for the component. Its styles
- * and scripts don't leak out, and outside styles don't leak in.
- * 3.  Lifecycle Callbacks: Special methods that run at different points,
- * like `connectedCallback()` when the element is added to the page.
- *
- * --- Slots & Customization ---
- * This component uses named slots to allow for custom buttons and UI.
- * To replace a default control, provide an element with the corresponding `slot` attribute.
- * The component will automatically attach the correct event listener to any element
- * inside a slot that has a `data-action` attribute.
- *
- * To allow the component to update your custom icon, add a `data-role="icon"`
- * attribute to the icon element itself (e.g., <i class="fa-pro-play" data-role="icon">).
- * The component will then update its `name` (for <wa-icon>) or `class` (for <i>).
- *
- * Available Slots & Required `data-action` attributes:
- * - slot="prev-button": Needs an element with `data-action="prev"`
- * - slot="play-pause-button": Needs an element with `data-action="play-pause"`
- * - slot="next-button": Needs an element with `data-action="next"`
- * - slot="mute-button": Needs an element with `data-action="mute"`
- * - slot="volume-slider": Needs a range input/component that emits an `input` or `sl-input` event.
- *
- * If you do not provide an element for a slot, a default <wa-button> will be rendered.
+ * REFACTORED (v2) to be DRY.
+ * This component now reads the same album.json and tracks.json files
+ * used by the transcoding script.
  */
 class RaggieSoftAudioPlayer extends HTMLElement {
 
-    /**
-     * The constructor is the first thing that runs when an instance of this
-     * element is created (either by JavaScript or by the HTML parser).
-     *
-     * Its primary job is to:
-     * - Set up the initial state of the component (e.g., creating the audio object).
-     * - Attach the Shadow DOM, which provides encapsulation.
-     * - Bind the `this` context for all event handler methods. This is crucial
-     * to ensure that when a method like `togglePlayPause` is called by an
-     * event listener, `this` still refers to the component instance.
-     */
     constructor() {
-        // `super()` MUST be the first call in the constructor. It calls the
-        // constructor of the class we are extending (HTMLElement).
         super();
-
-        // Attach a Shadow DOM tree to this element.
-        // - `mode: 'open'` means you can access the shadow DOM from outside
-        //   JavaScript (e.g., element.shadowRoot), which is useful for debugging.
         this.attachShadow({ mode: 'open' });
 
-        // --- Internal State Properties ---
-        // These properties will hold the state of our player throughout its lifecycle.
-
-        // The core HTML <audio> element that will handle playback.
         this.audio = new Audio();
-
-        // An array to hold the track objects from our JSON file.
         this.playlist = [];
-
-        // The index of the currently loaded or playing track in the playlist array.
         this.currentTrackIndex = 0;
-
-        // An object to hold the entire parsed JSON data (album title, artwork, etc.).
         this.albumData = {};
         
-        // --- Project-Agnostic Local Storage ---
-        // Get a unique ID from an attribute to create a project-specific key.
-        // This makes the component reusable across different websites.
+        // --- Get Project-Agnostic Storage Key ---
         const storageId = this.getAttribute('data-storage-key-id') || 'rs-audio-player';
         this.storageKey = `${storageId}MusicEnabled`;
-
-        // The user's master opt-in preference, loaded from localStorage.
         this.musicEnabled = localStorage.getItem(this.storageKey) === 'true';
 
-        // An object to hold the UI configuration (e.g., show/hide buttons).
-        this.uiConfig = {};
-
-        // Stores the volume level before muting, so we can restore it.
+        // --- Internal State ---
+        this.jsonBaseUrl = '';
+        this.albumPath = '';
+        this.showControls = true; // Default to 'album' mode
         this.lastVolume = 1;
 
         // --- Method Binding ---
-        // We explicitly bind `this` for all methods that will be used as
-        // event handlers. This ensures they don't lose their context.
         this.togglePlayPause = this.togglePlayPause.bind(this);
         this.toggleMasterMusic = this.toggleMasterMusic.bind(this);
         this.playNext = this.playNext.bind(this);
@@ -96,156 +37,148 @@ class RaggieSoftAudioPlayer extends HTMLElement {
     }
 
     /**
-     * This is a lifecycle callback that is automatically invoked when the
-     * custom element is connected to the document's DOM.
-     *
-     * Think of it as the "start" or "initialize" function for the component.
-     * It's the perfect place to fetch data and render the initial UI.
+     * OBSERVED ATTRIBUTES
+     * Watch for changes to these attributes.
+     */
+    static get observedAttributes() {
+        // --- UPDATED: We now watch the *path* to the album folder ---
+        return ['data-album-path', 'data-track-index', 'data-storage-key-id', 'data-json-base-url'];
+    }
+
+    /**
+     * LIFECYCLE CALLBACK
+     * Runs when the element is added to the page.
      */
     connectedCallback() {
-        // Once the component is on the page, we start the data loading process.
         this.loadData();
     }
 
     /**
-     * This static getter is part of the custom element specification.
-     * It tells the browser which attributes to "watch" for changes.
-     * If any of these attributes are added, removed, or changed, the
-     * `attributeChangedCallback()` method will be invoked.
-     *
-     * @returns {string[]} An array of attribute names to observe.
-     */
-    static get observedAttributes() {
-        // We are watching these attributes to know what music to load.
-        return ['data-album-name', 'data-track-index', 'data-storage-key-id', 'data-json-base-url'];
-    }
-
-    /**
-     * Asynchronously fetches and processes the album JSON data.
-     * This is the main logic driver for the component. It determines
-     * whether to run in "Album Mode" or "Ambient Mode".
+     * [REFACTORED]
+     * Asynchronously fetches and processes album.json and tracks.json.
      */
     async loadData() {
-        // Get the path to the album JSON from the element's attribute.
-        const albumPath = this.getAttribute('data-album-name');
-        if (!albumPath) return; // Exit if the attribute isn't set.
+        const albumPath = this.getAttribute('data-album-path');
+        if (!albumPath) return;
 
-        // Check for the track-index attribute to determine the mode.
+        // --- Store paths for later use (building URLs) ---
+        this.albumPath = albumPath;
+        this.jsonBaseUrl = this.getAttribute('data-json-base-url') || '';
+        
+        // --- Check for Ambient Mode ---
         const trackIndexAttr = this.getAttribute('data-track-index');
         const isAmbientMode = trackIndexAttr !== null;
         const ambientTrackIndex = parseInt(trackIndexAttr, 10);
-        
-        // --- Dynamic Base URL ---
-        // The base URL for the JSON file is now provided by an attribute,
-        // making the component independent of any specific CDN.
-        const jsonBaseUrl = this.getAttribute('data-json-base-url') || '';
 
         try {
-            // Fetch the JSON file using the provided base URL and path.
-            const response = await fetch(jsonBaseUrl + albumPath);
-            const data = await response.json();
-            this.albumData = data; // Store the entire dataset.
+            // --- UPDATED: Fetch both JSON files concurrently ---
+            const [albumResponse, tracksResponse] = await Promise.all([
+                fetch(`${this.jsonBaseUrl}${this.albumPath}/album.json`),
+                fetch(`${this.jsonBaseUrl}${this.albumPath}/tracks.json`)
+            ]);
+
+            const albumData = await albumResponse.json();
+            const tracksData = await tracksResponse.json();
+            
+            this.albumData = albumData; // Store album metadata
 
             // --- Mode Selection Logic ---
             if (isAmbientMode) {
                 // AMBIENT MODE: The playlist is just a single track.
-                this.playlist = [data.tracks[ambientTrackIndex]];
-                this.audio.loop = true; // Ambient tracks should loop automatically.
-                this.uiConfig = data.ui.ambientMode; // Load UI config for ambient mode.
+                this.playlist = [tracksData.tracks[ambientTrackIndex]];
+                this.audio.loop = true;
+                this.showControls = false; // Hide prev/next/volume
             } else {
                 // ALBUM MODE: The playlist is the full list of tracks.
-                this.playlist = data.tracks;
-                this.audio.loop = false; // Tracks in album mode play one after another.
-                this.uiConfig = data.ui.albumMode; // Load UI config for album mode.
+                this.playlist = tracksData.tracks;
+                this.audio.loop = false;
+                this.showControls = true; // Show all controls
             }
 
-            // Now that we have data, render the component's HTML.
             this.render();
-            // After rendering, set up all the event listeners.
             this.setupPlayer();
 
         } catch (error) {
             console.error('Error loading audio data:', error);
-            // If fetching fails, render the player with an error message.
             if (!this.shadowRoot.innerHTML) this.render();
             this.shadowRoot.querySelector('[part="title"]').textContent = 'Error Loading';
+            this.shadowRoot.querySelector('[part="artist"]').textContent = 'Check Console';
         }
     }
 
     /**
-     * Attaches all necessary event listeners to the player's UI elements
-     * and the browser's Media Session API.
+     * Attaches all necessary event listeners.
      */
     setupPlayer() {
-        // If the user has opted out of music, hide the component entirely.
         if (!this.musicEnabled) {
             this.style.display = 'none';
             return;
         }
-        this.style.display = 'block'; // Make sure it's visible if enabled.
+        this.style.display = 'block';
 
-        // --- Attach Event Listeners to Shadow DOM Elements ---
         this.playPauseControl.addEventListener('click', this.togglePlayPause);
-        this.audio.addEventListener('ended', this.playNext); // For playlist progression
+        this.audio.addEventListener('ended', this.playNext);
         this.audio.addEventListener('play', () => this.updatePlayPauseIcon(false));
         this.audio.addEventListener('pause', () => this.updatePlayPauseIcon(true));
 
-        // Conditionally add listeners for controls that might not exist.
-        if (this.prevControl) this.prevControl.addEventListener('click', this.playPrev);
-        if (this.nextControl) this.nextControl.addEventListener('click', this.playNext);
-        // Listen for both native `input` and Web Awesome's `sl-input`
-        if (this.volumeSlider) this.volumeSlider.addEventListener('input', this.handleVolumeChange);
-        if (this.volumeSlider) this.volumeSlider.addEventListener('sl-input', this.handleVolumeChange);
-        if (this.muteControl) this.muteControl.addEventListener('click', this.toggleMute);
+        if (this.showControls) {
+            if (this.prevControl) this.prevControl.addEventListener('click', this.playPrev);
+            if (this.nextControl) this.nextControl.addEventListener('click', this.playNext);
+            if (this.volumeSlider) this.volumeSlider.addEventListener('input', this.handleVolumeChange);
+            if (this.volumeSlider) this.volumeSlider.addEventListener('sl-input', this.handleVolumeChange);
+            if (this.muteControl) this.muteControl.addEventListener('click', this.toggleMute);
+        }
 
-        // --- Set up Media Session API Handlers ---
-        // These connect the player to the OS (lock screen, media keys).
         navigator.mediaSession.setActionHandler('play', this.togglePlayPause);
         navigator.mediaSession.setActionHandler('pause', this.togglePlayPause);
         
-        // Only register next/prev handlers if we are in Album Mode.
-        if (this.albumData.tracks.length > 1 && !this.audio.loop) {
+        if (this.showControls && this.playlist.length > 1) {
             navigator.mediaSession.setActionHandler('nexttrack', this.playNext);
             navigator.mediaSession.setActionHandler('previoustrack', this.playPrev);
         }
         
-        // If we have tracks, load the first one but don't play it yet.
-        // This preloads the metadata for a faster start.
         if (this.playlist.length > 0) {
             this.loadTrack(0, false);
         }
     }
     
     /**
-     * Loads a specific track into the audio element and updates the UI.
-     * @param {number} index - The index of the track to load from the playlist.
-     * @param {boolean} [shouldPlay=true] - Whether to start playing immediately.
+     * [REFACTORED]
+     * Loads a track and *builds the stream URL* based on transcode logic.
      */
     loadTrack(index, shouldPlay = true) {
         if (index < 0 || index >= this.playlist.length) return;
         this.currentTrackIndex = index;
-        const track = this.playlist[index];
         
-        // Construct the full URL using the base URL and the dedicated stream file.
-        this.audio.src = `${this.albumData.assetBaseUrl}/${track.sources.stream}`;
+        const track = this.playlist[index]; // { fileName, title, disc, track }
         
-        // Update the player's text display and the OS media session.
-        this.updateUIText(track.title, this.albumData.artist);
+        // --- NEW: Build stream URL to match transcode-all.sh ---
+        const title = track.title;
+        
+        // JS equivalent of: tr '[:upper:]' '[:lower:]' | tr -s '[:punct:]' '' | tr ' ' '-'
+        const webSafeTitle = title.toLowerCase()
+                                .replace(/[^\w\s-]/g, '') // Remove non-word, non-space, non-hyphen
+                                .replace(/[\s_]+/g, '-')   // Replace spaces/underscores with one hyphen
+                                .replace(/-+/g, '-');      // Collapse multiple hyphens
+        
+        const trackPadded = String(track.track).padStart(2, '0');
+        const outputBaseName = `${track.disc}-${trackPadded}-${webSafeTitle}`;
+        
+        // Use OGG for streaming, as defined in transcode script
+        this.audio.src = `${this.jsonBaseUrl}/${this.albumPath}/ogg/${outputBaseName}.ogg`;
+        // --- END: URL Builder ---
+
+        // --- UPDATED: Read from album.json keys ---
+        this.updateUIText(track.title, this.albumData.albumArtist);
         this.updateMediaSession(track);
 
         if (shouldPlay) {
-            // The `.catch()` is important to prevent console errors if the browser
-            // blocks autoplay before the user has interacted with the page.
             this.audio.play().catch(e => console.warn("Audio play prevented by browser."));
         }
     }
     
-    /**
-     * Toggles the playback state between play and pause.
-     */
     togglePlayPause() {
         if (this.audio.paused) {
-            // If the src isn't set, this is the first play action.
             if (!this.audio.src) this.loadTrack(0, true);
             else this.audio.play().catch(e => console.warn("Audio play prevented by browser."));
         } else {
@@ -253,52 +186,32 @@ class RaggieSoftAudioPlayer extends HTMLElement {
         }
     }
     
-    /**
-     * Toggles the master music enabled/disabled state. This is called
-     * by the external button in the site's footer.
-     */
     toggleMasterMusic() {
         this.musicEnabled = !this.musicEnabled;
-        // Use the generic, project-agnostic storage key.
         localStorage.setItem(this.storageKey, this.musicEnabled);
         
         if (this.musicEnabled) {
-            // If music was just enabled, show the player.
             this.style.display = 'block';
-            // If no track is loaded, load the first one (paused).
             if (!this.audio.src && this.playlist.length > 0) this.loadTrack(0, false);
         } else {
-            // If music was just disabled, pause and hide the player.
             this.audio.pause();
             this.style.display = 'none';
         }
-        // Notify the external button to update its icon.
         this.updateMasterToggleIcon();
     }
     
-    /**
-     * Plays the next track in the playlist. Does nothing in Ambient Mode.
-     */
     playNext() {
-        if (this.audio.loop) return; // In ambient mode, `ended` event will just loop.
+        if (this.audio.loop) return;
         const newIndex = (this.currentTrackIndex + 1) % this.playlist.length;
         this.loadTrack(newIndex);
     }
     
-    /**
-     * Plays the previous track in the playlist. Does nothing in Ambient Mode.
-     */
     playPrev() {
         if (this.audio.loop) return;
-        // The `+ this.playlist.length` handles the case where the index is 0.
         const newIndex = (this.currentTrackIndex - 1 + this.playlist.length) % this.playlist.length;
         this.loadTrack(newIndex);
     }
 
-    /**
-     * Handles input from the volume slider.
-     * @param {Event} event - The `sl-input` or `input` event from the range control.
-     */
     handleVolumeChange(event) {
         const volume = event.target.value;
         this.audio.volume = volume;
@@ -306,19 +219,14 @@ class RaggieSoftAudioPlayer extends HTMLElement {
         this.updateMuteIcon(volume == 0);
     }
 
-    /**
-     * Toggles the mute state of the audio.
-     */
     toggleMute() {
         if (this.audio.muted || this.audio.volume === 0) {
-            // Unmuting: restore to the last known volume, or 100% if unknown.
             const newVolume = this.lastVolume > 0 ? this.lastVolume : 1;
             this.audio.volume = newVolume;
             if (this.volumeSlider) this.volumeSlider.value = newVolume;
             this.audio.muted = false;
             this.updateMuteIcon(false);
         } else {
-            // Muting: store the current volume, then set to 0.
             this.lastVolume = this.audio.volume;
             this.audio.volume = 0;
             if (this.volumeSlider) this.volumeSlider.value = 0;
@@ -329,55 +237,36 @@ class RaggieSoftAudioPlayer extends HTMLElement {
 
     // --- UI Update Helper Methods ---
 
-    /**
-     * Updates the play/pause icon based on playback state.
-     * It intelligently handles <wa-icon> and <i> tags.
-     * @param {boolean} isPaused - Whether the audio is currently paused.
-     */
     updatePlayPauseIcon(isPaused) { 
         const iconElement = this.playPauseControl.querySelector('[data-role="icon"]');
         if (!iconElement) return;
-
         const playIcon = 'fa-pro-play';
         const pauseIcon = 'fa-pro-pause';
-
-        if (iconElement.tagName === 'WA-ICON') {
-            iconElement.name = isPaused ? playIcon : pauseIcon;
-        } else { // Assume it's an <i> tag or similar
+        if (iconElement.tagName === 'WA-ICON') iconElement.name = isPaused ? playIcon : pauseIcon;
+        else {
             iconElement.classList.toggle(playIcon, isPaused);
             iconElement.classList.toggle(pauseIcon, !isPaused);
         }
     }
     
-    /**
-     * Updates the mute/volume icon based on mute state.
-     * @param {boolean} isMuted - Whether the audio is currently muted.
-     */
     updateMuteIcon(isMuted) { 
         if (!this.muteControl) return;
         const iconElement = this.muteControl.querySelector('[data-role="icon"]');
         if (!iconElement) return;
-
         const volumeIcon = 'fa-pro-volume';
         const muteIcon = 'fa-pro-volume-slash';
-
-        if (iconElement.tagName === 'WA-ICON') {
-            iconElement.name = isMuted ? muteIcon : volumeIcon;
-        } else {
+        if (iconElement.tagName === 'WA-ICON') iconElement.name = isMuted ? muteIcon : volumeIcon;
+        else {
             iconElement.classList.toggle(muteIcon, isMuted);
             iconElement.classList.toggle(volumeIcon, !isMuted);
         }
     }
     
-    /**
-     * Dispatches a custom event to notify the external opt-in button
-     * that the music enabled state has changed.
-     */
     updateMasterToggleIcon() {
         const event = new CustomEvent('music-toggle', {
             detail: { enabled: this.musicEnabled },
-            bubbles: true,  // Allows the event to bubble up through the DOM
-            composed: true // Allows the event to cross the Shadow DOM boundary
+            bubbles: true,
+            composed: true
         });
         this.dispatchEvent(event);
     }
@@ -390,55 +279,44 @@ class RaggieSoftAudioPlayer extends HTMLElement {
     }
     
     /**
-     * Updates the browser's Media Session with the current track's metadata.
-     * This controls what is shown on the OS lock screen, media controls, etc.
-     * @param {object} track - The current track object.
+     * [REFACTORED]
+     * Updates Media Session with keys from album.json and assumes JPG art.
      */
     updateMediaSession(track) {
-        const fullArtworkUrl = `${this.albumData.assetBaseUrl}/${this.albumData.artwork}`;
+        // --- UPDATED: Build artwork URL from base paths and known filename ---
+        const fullArtworkUrl = `${this.jsonBaseUrl}/${this.albumPath}/album-art.jpg`;
 
         navigator.mediaSession.metadata = new MediaMetadata({
+            // --- UPDATED: Use keys from album.json ---
             title: track.title,
-            artist: this.albumData.artist,
-            album: this.albumData.albumTitle,
+            artist: this.albumData.albumArtist,
+            album: this.albumData.albumName,
             artwork: [
-                { src: fullArtworkUrl, sizes: '512x512', type: 'image/png' }
+                { src: fullArtworkUrl, sizes: '512x512', type: 'image/jpeg' } // Assume JPG
             ]
         });
         navigator.mediaSession.playbackState = this.audio.paused ? "paused" : "playing";
     }
 
     /**
-     * Finds the interactive element for a given control, whether it was
-     * provided by the user via a slot or is the default fallback content.
-     * @param {string} slotName - The name of the slot to check.
-     * @returns {HTMLElement | null} The interactive element or null if not found.
+     * Finds the interactive element for a given control.
      */
     _getControlElement(slotName) {
         const slot = this.shadowRoot.querySelector(`slot[name="${slotName}"]`);
         if (!slot) return null;
-
-        // Check if the user has provided their own element(s) in the slot.
         const assignedElements = slot.assignedElements({ flatten: true });
-        if (assignedElements.length > 0) {
-            // Return the first element the user provided.
-            return assignedElements[0];
-        }
-
-        // If no element was provided, find the default element within the slot.
+        if (assignedElements.length > 0) return assignedElements[0];
         return slot.querySelector('[data-action]');
     }
 
     /**
-     * Renders the component's internal HTML structure into the Shadow DOM.
-     * It uses the `this.uiConfig` object to conditionally show/hide controls.
+     * [REFACTORED]
+     * Renders the HTML. Now uses `this.showControls` to toggle UI.
      */
     render() {
-        // This uses a template literal to build the HTML and CSS string.
         this.shadowRoot.innerHTML = `
             <style>
-                /* Scoped CSS: These styles ONLY apply inside this component. */
-                :host { /* ':host' selects the <rs-audio-player> element itself */
+                :host {
                     display: block;
                     position: fixed;
                     bottom: 0;
@@ -468,13 +346,12 @@ class RaggieSoftAudioPlayer extends HTMLElement {
                 .track-info .title { display: block; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
                 .track-info .artist { display: block; font-size: 0.8em; color: #a0a0a0; }
                 .volume-controls { display: flex; align-items: center; gap: 0.5rem; }
-                /* Default styling for a slotted range input */
                 ::slotted(input[type="range"]) {
                     width: 100px;
                 }
             </style>
             <div class="player-container" part="base">
-                ${this.uiConfig.showNextPrev ? `
+                ${this.showControls ? `
                     <slot name="prev-button">
                         <wa-button part="prev-button" data-action="prev">
                             <wa-icon name="fa-pro-backward-step" data-role="icon"></wa-icon>
@@ -487,7 +364,7 @@ class RaggieSoftAudioPlayer extends HTMLElement {
                     </wa-button>
                 </slot>
                 
-                ${this.uiConfig.showNextPrev ? `
+                ${this.showControls ? `
                     <slot name="next-button">
                         <wa-button part="next-button" data-action="next">
                             <wa-icon name="fa-pro-forward-step" data-role="icon"></wa-icon>
@@ -496,10 +373,10 @@ class RaggieSoftAudioPlayer extends HTMLElement {
                 
                 <div class="track-info" part="track-info">
                     <span class="title" part="title">Music Paused</span>
-                    <span class="artist" part="artist">Knox Ambience</span>
+                    <span class="artist" part="artist">${this.albumData.albumArtist || 'The Stardust Engine'}</span>
                 </div>
                 
-                ${this.uiConfig.showVolume ? `
+                ${this.showControls ? `
                 <div class="volume-controls" part="volume-controls">
                     <slot name="mute-button">
                         <wa-button part="mute-button" data-action="mute">
@@ -515,21 +392,14 @@ class RaggieSoftAudioPlayer extends HTMLElement {
         `;
 
         // --- Element Caching ---
-        // After rendering, we find the interactive controls (slotted or default)
-        // and store references for easy access.
         this.playPauseControl = this._getControlElement('play-pause-button');
-        this.prevControl = this._getControlElement('prev-button');
-        this.nextControl = this._getControlElement('next-button');
-        this.muteControl = this._getControlElement('mute-button');
-        this.volumeSlider = this._getControlElement('volume-slider');
+        if (this.showControls) {
+            this.prevControl = this._getControlElement('prev-button');
+            this.nextControl = this._getControlElement('next-button');
+            this.muteControl = this._getControlElement('mute-button');
+            this.volumeSlider = this._getControlElement('volume-slider');
+        }
     }
 }
 
-/**
- * Finally, we register our custom element with the browser.
- * This tells the browser that whenever it encounters the tag '<rs-audio-player>',
- * it should use our `RaggieSoftAudioPlayer` class to power it.
- * The tag name MUST contain a hyphen.
- */
 customElements.define('rs-audio-player', RaggieSoftAudioPlayer);
-
