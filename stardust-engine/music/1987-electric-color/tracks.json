@@ -1,82 +1,17 @@
 {
   "tracks": [
-    {
-      "fileName": "01-electric-color.wav",
-      "title": "Electric Color",
-      "disc": 1,
-      "track": 1
-    },
-    {
-      "fileName": "02-plastic-sky.wav",
-      "title": "Plastic Sky",
-      "disc": 1,
-      "track": 2
-    },
-    {
-      "fileName": "03-my-anchor-holds.wav",
-      "title": "My Anchor Holds",
-      "disc": 1,
-      "track": 3
-    },
-    {
-      "fileName": "04-dancing-in-the-neon.wav",
-      "title": "Dancing in the Neon",
-      "disc": 1,
-      "track": 4
-    },
-    {
-      "fileName": "05-running-on-the-edge.wav",
-      "title": "Running on the Edge",
-      "disc": 1,
-      "track": 5
-    },
-    {
-      "fileName": "06-just-a-girl.wav",
-      "title": "Just a Girl",
-      "disc": 1,
-      "track": 6
-    },
-    {
-      "fileName": "07-light-up-the-night.wav",
-      "title": "Light Up the Night",
-      "disc": 1,
-      "track": 7
-    },
-    {
-      "fileName": "08-break-the-walls.wav",
-      "title": "Break the Walls",
-      "disc": 1,
-      "track": 8
-    },
-    {
-      "fileName": "09-worlds-apart.wav",
-      "title": "Worlds Apart",
-      "disc": 1,
-      "track": 9
-    },
-    {
-      "fileName": "10-another-night.wav",
-      "title": "Another Night",
-      "disc": 1,
-      "track": 10
-    },
-    {
-      "fileName": "11-out-of-time.wav",
-      "title": "Out of Time",
-      "disc": 1,
-      "track": 11
-    },
-    {
-      "fileName": "12-rearview-mirror.wav",
-      "title": "Rearview Mirror",
-      "disc": 1,
-      "track": 12
-    },
-    {
-      "fileName": "13-the-stardust-engine.wav",
-      "title": "The Stardust Engine",
-      "disc": 1,
-      "track": 13
-    }
+    { "fileName": "01-01-electric-color.wav", "title": "Electric Color", "disc": 1, "track": 1 },
+    { "fileName": "01-02-plastic-sky.wav", "title": "Plastic Sky", "disc": 1, "track": 2 },
+    { "fileName": "01-03-my-anchor-holds.wav", "title": "My Anchor Holds", "disc": 1, "track": 3 },
+    { "fileName": "01-04-dancing-in-the-neon.wav", "title": "Dancing in the Neon", "disc": 1, "track": 4 },
+    { "fileName": "01-05-running-on-the-edge.wav", "title": "Running on the Edge", "disc": 1, "track": 5 },
+    { "fileName": "01-06-just-a-girl.wav", "title": "Just a Girl", "disc": 1, "track": 6 },
+    { "fileName": "01-07-light-up-the-night.wav", "title": "Light Up the Night", "disc": 1, "track": 7 },
+    { "fileName": "01-08-break-the-walls.wav", "title": "Break the Walls", "disc": 1, "track": 8 },
+    { "fileName": "01-09-worlds-apart.wav", "title": "Worlds Apart", "disc": 1, "track": 9 },
+    { "fileName": "01-10-another-night.wav", "title": "Another Night", "disc": 1, "track": 10 },
+    { "fileName": "01-11-out-of-time.wav", "title": "Out of Time", "disc": 1, "track": 11 },
+    { "fileName": "01-12-rearview-mirror.wav", "title": "Rearview Mirror", "disc": 1, "track": 12 },
+    { "fileName": "01-13-the-stardust-engine.wav", "title": "The Stardust Engine", "disc": 1, "track": 13 }
   ]
 }
