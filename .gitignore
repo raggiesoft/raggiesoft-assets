@@ -1,23 +1,55 @@
 # =================================================
-# Ignore all audio files
-# These are uploaded directly to the DigitalOcean Space
-# and do not need to be in version control.
+# 
+# RaggieSoft Assets - Git Ignore Rules
+# 
 # =================================================
+# 
+# --- Audio Source Files ---
+# These are the master files used for transcoding.
+
 *.wav
-*.mp3
-*.ogg
-*.7z
-*.zip
-*.tar.gz
-*.flac
-*.aac
-*.m4a
 *.aiff
+*.flac
 *.alac
-*.wma
 *.dsd
 *.dff
 *.dsf
-*.cue
+
+# --- Generated Audio Files ---
+# These are the output files created by the transcoder script.
+
+*.mp3
+*.ogg
+*.aac
+*.m4a
+*.wma
+
+# --- Archives & Compressed Files ---
+# These are the large downloadable packages for users.
+
+*.7z
+*.zip
+*.tar.gz
+*.rar
+*.gz
+
+# --- Disc Image & Binary Data ---
+# These formats are often large and not needed in version control.
+
 *.iso
 *.bin
+*.cue
+*.img
+*.dmg
+
+# --- OS Generated Files ---
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- IDE / Editor Configs ---
+
+.vscode/
+.idea/
+*.swp
