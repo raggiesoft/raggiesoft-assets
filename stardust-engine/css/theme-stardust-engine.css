@@ -92,24 +92,7 @@
   }
 }
 
-/* --- GLOBAL COMPONENT STYLES (Applied to both modes) --- */
 
-/* Navbar: Always keep it dark/transparent for that "Head-Up Display" feel */
-.navbar {
-    background-color: rgba(5, 5, 8, 0.9) !important;
-    border-bottom: 1px solid var(--bs-primary) !important;
-    backdrop-filter: blur(10px);
-}
-/* Ensure navbar text is legible even in Light Mode since we forced a dark background */
-.navbar-brand, .nav-link {
-    color: #e0e0e0 !important;
-}
-.nav-link:hover {
-    color: var(--bs-warning) !important;
-}
-.navbar-toggler-icon {
-    filter: invert(1); /* Force white icon */
-}
 
 /* Buttons: Add the 80s Glow */
 .btn-primary {

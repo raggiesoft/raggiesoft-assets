@@ -169,3 +169,23 @@ body {
         background: var(--bs-body-color); /* Use the light text color in dark mode */
     }
 }
+
+/* --- GLOBAL "STARDUST ENGINE" NAVBAR --- */
+/* This is forced on all pages, regardless of theme */
+
+.navbar {
+    background-color: rgba(5, 5, 8, 0.9) !important;
+    /* HARD-CODED BRAND COLOR (Stardust Engine Pink) */
+    border-bottom: 1px solid #ff2a6d !important; 
+    backdrop-filter: blur(10px);
+}
+
+/* Ensure navbar text is legible */
+.navbar-brand, .nav-link {
+    color: #e0e0e0 !important;
+}
+
+/* HARD-CODED BRAND COLOR (Stardust Engine Cyan) */
+.nav-link:hover {
+    color: #05d9e8 !important;
+}
