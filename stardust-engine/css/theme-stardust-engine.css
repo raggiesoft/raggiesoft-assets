@@ -30,6 +30,12 @@
     /* --- Bootstrap Overrides (Mapped to Theme Colors) --- */
     --bs-body-bg: var(--color-space-dark);
     --bs-body-color: var(--color-starlight-light);
+    
+    /* Utilities & Components Mappings */
+    --bs-secondary-color: var(--color-starlight-medium);
+    --bs-tertiary-color: var(--color-starlight-medium);
+    --bs-emphasis-color: var(--color-starlight-light);
+    --bs-heading-color: var(--color-starlight-light);
     --bs-link-color: var(--color-nebula-cyan);
     --bs-link-hover-color: var(--color-nebula-cyan-dark);
     --bs-border-color: var(--color-space-light);
@@ -39,28 +45,44 @@
     --bs-success: var(--color-nebula-green);
     --bs-info: var(--color-nebula-blue);
     --bs-warning: var(--color-nebula-orange);
-    --bs-danger: var(--color-nebula-red); /* Using primary red for danger */
-    --bs-dark: var(--color-space-medium); /* Dark components like alerts/cards */
+    --bs-danger: var(--color-nebula-red);
+    --bs-dark: var(--color-space-medium);
 
-    /* Custom Gradients for Glow/Impact */
+    /* Fix: Tertiary Backgrounds (Sidebar/Footer) */
+    --bs-tertiary-bg: var(--color-space-medium);
+
+    /* Fix: Modals */
+    --bs-modal-bg: var(--color-space-medium);
+    --bs-modal-color: var(--color-starlight-light);
+    --bs-modal-border-color: var(--color-space-light);
+    --bs-modal-header-border-color: var(--color-space-light);
+    --bs-modal-footer-border-color: var(--color-space-light);
+
+    /* --- FIX: Warning Subtles (The Alert Fix) --- */
+    /* We map these to dark values so 'subtle' doesn't mean 'white' */
+    --bs-warning-bg-subtle: #2E1A05; /* Deep Dark Amber */
+    --bs-warning-border-subtle: var(--color-nebula-orange-dark);
+    --bs-warning-text-emphasis: var(--color-nebula-orange);
+
+    /* Custom Gradients */
     --gradient-primary: linear-gradient(90deg, var(--color-nebula-red) 0%, var(--color-nebula-orange) 100%);
     --gradient-secondary: linear-gradient(90deg, var(--color-nebula-cyan) 0%, var(--color-nebula-blue) 100%);
 }
 
 /* --- Base Body Styling --- */
 body {
-    font-family: 'Space Mono', monospace, sans-serif; /* Using a more thematic font */
+    font-family: 'Space Mono', monospace, sans-serif;
     background-color: var(--bs-body-bg);
     color: var(--bs-body-color);
     line-height: 1.6;
-    display: flex; /* For sticky footer */
-    flex-direction: column; /* For sticky footer */
-    min-height: 100vh; /* For sticky footer */
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* --- Typography --- */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Montserrat', sans-serif; /* Stronger headings */
+    font-family: 'Montserrat', sans-serif;
     color: var(--color-starlight-light);
     font-weight: 700;
 }
@@ -70,7 +92,9 @@ h1, h2, h3, h4, h5, h6 {
 .text-warning { color: var(--bs-warning) !important; }
 .text-info { color: var(--bs-info) !important; }
 .text-success { color: var(--bs-success) !important; }
-.text-muted { color: var(--color-starlight-medium) !important; } /* Custom muted for better contrast */
+.text-muted { color: var(--color-starlight-medium) !important; }
+/* Fix text-body to be light */
+.text-body { color: var(--bs-body-color) !important; }
 
 .text-glow-primary {
     background: var(--gradient-primary);
@@ -79,13 +103,12 @@ h1, h2, h3, h4, h5, h6 {
     filter: drop-shadow(0 0 5px var(--color-nebula-red));
 }
 
-.text-glow-warning { /* Specific for Escape Velocity */
+.text-glow-warning {
     background: var(--gradient-secondary);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     filter: drop-shadow(0 0 5px var(--color-nebula-cyan));
 }
-
 
 /* --- Links --- */
 a {
@@ -93,93 +116,51 @@ a {
     text-decoration: none;
     transition: color 0.3s ease, text-shadow 0.3s ease;
 }
-
 a:hover {
     color: var(--bs-link-hover-color);
     text-decoration: underline;
     text-shadow: 0 0 5px var(--bs-link-hover-color);
 }
-
 .nav-link {
     color: var(--color-starlight-light);
     font-weight: 500;
     transition: all 0.2s ease-in-out;
 }
-
 .nav-link:hover, .nav-link.active {
     color: var(--color-nebula-cyan) !important;
     transform: translateX(5px);
     text-shadow: 0 0 8px var(--color-nebula-cyan);
 }
-
-.nav-link.link-secondary { /* For less prominent sidebar links */
+.nav-link.link-secondary {
     color: var(--color-starlight-medium) !important;
 }
-
 .nav-link.link-secondary:hover, .nav-link.link-secondary.active {
     color: var(--color-nebula-blue) !important;
     text-shadow: 0 0 5px var(--color-nebula-blue);
 }
 
-
 /* --- Buttons --- */
-.btn-outline-primary {
-    color: var(--bs-primary);
-    border-color: var(--bs-primary);
-    transition: all 0.2s ease-in-out;
-}
-.btn-outline-primary:hover {
-    background-color: var(--bs-primary);
-    color: var(--color-space-dark);
-    box-shadow: 0 0 10px var(--bs-primary);
-}
+.btn-outline-primary { color: var(--bs-primary); border-color: var(--bs-primary); transition: all 0.2s ease-in-out; }
+.btn-outline-primary:hover { background-color: var(--bs-primary); color: var(--color-space-dark); box-shadow: 0 0 10px var(--bs-primary); }
 
-.btn-outline-secondary {
-    color: var(--color-starlight-medium);
-    border-color: var(--color-starlight-medium);
-}
-.btn-outline-secondary:hover {
-    background-color: var(--color-starlight-medium);
-    color: var(--color-space-dark);
-    box-shadow: 0 0 10px var(--color-starlight-medium);
-}
+.btn-outline-secondary { color: var(--color-starlight-medium); border-color: var(--color-starlight-medium); }
+.btn-outline-secondary:hover { background-color: var(--color-starlight-medium); color: var(--color-space-dark); box-shadow: 0 0 10px var(--color-starlight-medium); }
 
-/* Custom button variants mapping to new colors */
-.btn-outline-success {
-    color: var(--color-nebula-green);
-    border-color: var(--color-nebula-green);
-}
-.btn-outline-success:hover {
-    background-color: var(--color-nebula-green);
-    color: var(--color-space-dark);
-    box-shadow: 0 0 10px var(--color-nebula-green);
-}
+.btn-outline-success { color: var(--color-nebula-green); border-color: var(--color-nebula-green); }
+.btn-outline-success:hover { background-color: var(--color-nebula-green); color: var(--color-space-dark); box-shadow: 0 0 10px var(--color-nebula-green); }
 
-.btn-outline-warning {
-    color: var(--color-nebula-orange);
-    border-color: var(--color-nebula-orange);
-}
-.btn-outline-warning:hover {
-    background-color: var(--color-nebula-orange);
-    color: var(--color-space-dark);
-    box-shadow: 0 0 10px var(--color-nebula-orange);
-}
+.btn-outline-warning { color: var(--color-nebula-orange); border-color: var(--color-nebula-orange); }
+.btn-outline-warning:hover { background-color: var(--color-nebula-orange); color: var(--color-space-dark); box-shadow: 0 0 10px var(--color-nebula-orange); }
 
-.btn-outline-info {
-    color: var(--color-nebula-blue);
-    border-color: var(--color-nebula-blue);
-}
-.btn-outline-info:hover {
-    background-color: var(--color-nebula-blue);
-    color: var(--color-space-dark);
-    box-shadow: 0 0 10px var(--color-nebula-blue);
-}
+.btn-outline-info { color: var(--color-nebula-blue); border-color: var(--color-nebula-blue); }
+.btn-outline-info:hover { background-color: var(--color-nebula-blue); color: var(--color-space-dark); box-shadow: 0 0 10px var(--color-nebula-blue); }
 
-/* Solid buttons also get new colors */
+/* Fix Button Contrast */
 .btn-primary {
     background-color: var(--bs-primary);
     border-color: var(--bs-primary);
-    color: var(--color-space-dark);
+    color: var(--color-space-dark) !important;
+    font-weight: 700;
 }
 .btn-primary:hover {
     background-color: var(--color-nebula-red-dark);
@@ -187,16 +168,14 @@ a:hover {
     box-shadow: 0 0 15px var(--bs-primary);
 }
 
-
 /* --- Cards & Alerts --- */
 .card {
-    background-color: var(--color-space-medium); /* Darker background for cards */
+    background-color: var(--color-space-medium);
     border-color: var(--color-space-light) !important;
     color: var(--color-starlight-light);
 }
-
 .card-header {
-    background-color: var(--color-space-light) !important; /* Slightly lighter header for contrast */
+    background-color: var(--color-space-light) !important;
     border-color: var(--color-space-light) !important;
     color: var(--color-starlight-light);
 }
@@ -206,14 +185,12 @@ a:hover {
     border-color: var(--color-space-light);
     color: var(--color-starlight-light);
 }
-
-.alert-info { /* Special info alerts */
-    background-color: rgba(var(--bs-info-rgb), 0.1);
+.alert-info {
+    background-color: rgba(77, 122, 255, 0.1);
     border-color: var(--color-nebula-blue);
     color: var(--color-starlight-light);
 }
-
-.alert-dark { /* Used for 2018 refusal, 404 under construction */
+.alert-dark {
     background-color: var(--color-space-medium);
     border-color: var(--color-space-light);
     color: var(--color-starlight-light);
@@ -226,6 +203,29 @@ a:hover {
     color: var(--color-nebula-orange) !important;
 }
 
+/* --- FIX: Override 'Subtle' utilities for the Welcome Alert --- */
+/* Ensure the class uses the dark variable we defined */
+.bg-warning-subtle {
+    background-color: var(--bs-warning-bg-subtle) !important;
+}
+.border-warning-subtle {
+    border-color: var(--bs-warning-border-subtle) !important;
+}
+/* Ensure text inside subtle alerts matches the emphasis color or body color */
+.alert-warning .alert-heading, .alert-warning strong {
+    color: var(--bs-warning-text-emphasis) !important;
+}
+
+/* --- Modals --- */
+.modal-content {
+    background-color: var(--bs-modal-bg);
+    border: 1px solid var(--color-space-light);
+    color: var(--bs-modal-color);
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%);
+}
 
 /* --- Table --- */
 .table {
@@ -236,35 +236,34 @@ a:hover {
     --bs-table-bg: var(--color-space-light);
 }
 
-
-/* --- Custom Components / Specific elements --- */
-
-/* Album Art Header variant for Apex Era (Electric Color) */
+/* --- Custom Components --- */
 .album-art-header.variant-pact .card {
     border-color: var(--color-nebula-red) !important;
     box-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.5);
 }
-
-/* Album Art Header variant for Warehouse Era (Warehouse Tapes) */
 .album-art-header.variant-warning .card {
     border-color: var(--color-nebula-orange) !important;
     box-shadow: 0 0 15px rgba(var(--bs-warning-rgb), 0.5);
 }
-
-/* Specific background for track 13 of Electric Color */
 .list-group-item[style*="rgba(255, 42, 109, 0.05)"] {
-    background: rgba(var(--bs-primary-rgb), 0.15) !important; /* Use theme primary color */
+    background: rgba(var(--bs-primary-rgb), 0.15) !important;
     border-color: var(--color-nebula-red) !important;
     box-shadow: inset 0 0 10px rgba(var(--bs-primary-rgb), 0.2);
 }
-
-/* Specific background for track 6 of Warehouse Tapes */
 .list-group-item[style*="rgba(5, 217, 232, 0.05)"] {
-    background: rgba(var(--color-nebula-cyan-rgb), 0.15) !important; /* Use theme cyan color */
+    background: rgba(var(--color-nebula-cyan-rgb), 0.15) !important;
     border-color: var(--color-nebula-cyan) !important;
     box-shadow: inset 0 0 10px rgba(var(--color-nebula-cyan-rgb), 0.2);
 }
 
+/* Fix Sidebar Links in Dark Mode */
+.bg-body-tertiary .nav-link {
+    color: var(--color-starlight-medium) !important;
+}
+.bg-body-tertiary .nav-link:hover, .bg-body-tertiary .nav-link.active {
+    color: var(--color-nebula-cyan) !important;
+    background-color: rgba(0, 240, 255, 0.1);
+}
 
 /* --- Footer --- */
 footer {
@@ -273,8 +272,6 @@ footer {
     border-top: 1px solid var(--color-space-light);
     padding-top: 2rem;
     padding-bottom: 2rem;
-    margin-top: auto; /* Pushes footer to bottom */
+    margin-top: auto;
 }
-
-/* --- Utility Classes (Specific to Theme) --- */
 .opacity-25 { opacity: 0.25; }

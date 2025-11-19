@@ -68,6 +68,47 @@
     /* Links */
     --bs-link-color: var(--color-cpi-orange-light);
     --bs-link-hover-color: #FFFFFF;
+
+    /* --- FIX: Modals in Dark Mode --- */
+    --bs-modal-bg: var(--color-cpi-maroon-dark);
+    --bs-modal-color: var(--color-stadium-white);
+    --bs-modal-border-color: var(--color-cpi-maroon);
+  }
+
+  /* --- FIX: Dark Mode Alerts (Prevent White text on Light Orange/Grey) --- */
+  
+  /* 1. Warning Alert */
+  .alert-warning {
+      background-color: #3D1000; /* Deep Maroon/Brown */
+      border-color: var(--color-cpi-orange);
+      color: var(--color-stadium-white);
+  }
+  .alert-warning .alert-heading,
+  .alert-warning .fa-duotone, 
+  .alert-warning .fa-solid {
+      color: var(--color-cpi-orange-light) !important; /* Glowy Orange text */
+  }
+
+  /* 2. Info Alert */
+  .alert-info {
+      background-color: #001A33; /* Deep Dark Blue */
+      border-color: #4D7AFF;
+      color: var(--color-stadium-white);
+  }
+
+  /* 3. Dark Alert (The Specific Fix you Requested) */
+  .alert-dark {
+      background-color: #25030F; /* Very dark Maroon (almost black) */
+      border-color: var(--color-cpi-maroon);
+      color: var(--color-stadium-white);
+  }
+  /* Force the 'text-muted' inside this alert to be light grey */
+  .alert-dark .text-muted {
+      color: var(--color-stadium-grey) !important;
+  }
+  /* Ensure the header (text-warning) pops against the dark background */
+  .alert-dark .text-warning {
+      color: var(--color-cpi-orange) !important;
   }
 }
 
