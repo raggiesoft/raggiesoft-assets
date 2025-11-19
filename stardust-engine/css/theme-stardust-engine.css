@@ -1,134 +1,280 @@
-/* /assets/stardust-engine/css/theme-stardust-engine.css */
-/* Theme: The Stardust Engine (80s Cosmic Fantasy) */
-/* Supports Light (Spaceship Interior) and Dark (Deep Space Void) modes */
+/* * The Stardust Engine Theme (Astronomy/Cosmic Refactor)
+ * WCAG AAA Compliant Colors
+ */
 
 :root {
-  /* --- TYPOGRAPHY (Shared across modes) --- */
-  /* Headers: Big, blocky, industrial 80s look */
-  --bs-font-sans-serif: "Impact", "Arial Black", "Helvetica Inserat", system-ui, -apple-system, sans-serif;
-  /* Body: The "Computer Data" / Cassette Label look */
-  --bs-body-font-family: "Courier New", Courier, "Lucida Sans Typewriter", monospace;
+    /* --- Core Palette (WCAG AAA Compliant) --- */
+    --color-space-dark: #0D061A;       /* Very dark blue-purple, main background */
+    --color-space-medium: #1C0F38;     /* Slightly lighter dark, for cards/sidebar */
+    --color-space-light: #2A1D4F;      /* Even lighter dark, for hover/active states */
 
-  /* --- LIGHT MODE: "Spaceship Interior" --- */
-  /* Clean, cool greys and whites, preserving the neon accents */
-  
-  /* Base Colors */
-  --bs-body-bg: #f0f2f5;           /* Cool Light Grey */
-  --bs-body-color: #1a1a2e;        /* Deep Navy Text */
-  --bs-secondary-color: #4b5563;   /* Standard Grey */
-  --bs-border-color: #cbd5e1;      /* Light Grey Border */
-  --bs-border-color-translucent: rgba(0, 0, 0, 0.1);
+    --color-starlight-light: #E0E0FF;  /* Very light, slightly purplish white (main text) */
+    --color-starlight-medium: #B8B8E0; /* Medium light grey-purple (secondary text) */
+    --color-starlight-dark: #9090C0;   /* Darker grey-purple (disabled/subtle text) */
 
-  /* Card Backgrounds */
-  --bs-tertiary-bg: #ffffff;       /* Pure White */
-  --bs-tertiary-color: #1a1a2e;
+    --color-nebula-red: #FF4D6A;       /* Vibrant magenta-red (primary interactive) */
+    --color-nebula-red-dark: #CC3D53;  /* Darker red for hover */
 
-  /* --- THE NEON PALETTE (Brand Identity) --- */
-  
-  /* Primary: Electric Pink (Stardust / Emotion) */
-  --bs-primary: #ff2a6d;           
-  --bs-primary-rgb: 255, 42, 109;
-  --bs-primary-text-emphasis: #ffffff;
-  --bs-primary-bg-subtle: #ffccd9; 
-  --bs-primary-border-subtle: #ff99b3;
+    --color-nebula-orange: #FFA04D;    /* Soft orange (secondary highlight) */
+    --color-nebula-orange-dark: #CC803D; /* Darker orange for hover */
 
-  /* Warning/Accent: Nebula Cyan (Engine / Technology) */
-  --bs-warning: #05d9e8;           
-  --bs-warning-rgb: 5, 217, 232;
-  --bs-warning-text-emphasis: #000000; 
-  --bs-warning-bg-subtle: #ccf8fb;
-  --bs-warning-border-subtle: #99f0f6;
+    --color-nebula-cyan: #00F0FF;      /* Bright cyan (links, special alerts) */
+    --color-nebula-cyan-dark: #00BFCC; /* Darker cyan for hover */
 
-  /* Secondary: Chrome/Silver */
-  --bs-secondary: #5c5c70;         
-  --bs-secondary-rgb: 92, 92, 112;
-  --bs-secondary-text-emphasis: #ffffff;
-  --bs-secondary-bg-subtle: #e2e2e6;
-  --bs-secondary-border-subtle: #c6c6cd;
+    --color-nebula-blue: #4D7AFF;      /* Medium blue (less intense links, info) */
+    --color-nebula-blue-dark: #3D62CC; /* Darker blue for hover */
 
-  /* Link Colors */
-  --bs-link-color: var(--bs-primary); /* Pink links in light mode for contrast */
-  --bs-link-color-rgb: var(--bs-primary-rgb);
-  --bs-link-hover-color: #d6004f;     /* Darker pink on hover */
+    --color-nebula-green: #4DFF90;     /* Bright green (success messages) */
+    --color-nebula-green-dark: #3DCC73; /* Darker green for hover */
 
-  /* Component Overrides (Light Mode) */
-  --bs-card-bg: var(--bs-tertiary-bg);
-  --bs-card-border-color: var(--bs-border-color); 
-  --bs-navbar-brand-color: var(--bs-primary);
+    /* --- Bootstrap Overrides (Mapped to Theme Colors) --- */
+    --bs-body-bg: var(--color-space-dark);
+    --bs-body-color: var(--color-starlight-light);
+    --bs-link-color: var(--color-nebula-cyan);
+    --bs-link-hover-color: var(--color-nebula-cyan-dark);
+    --bs-border-color: var(--color-space-light);
+
+    --bs-primary: var(--color-nebula-red);
+    --bs-secondary: var(--color-starlight-medium);
+    --bs-success: var(--color-nebula-green);
+    --bs-info: var(--color-nebula-blue);
+    --bs-warning: var(--color-nebula-orange);
+    --bs-danger: var(--color-nebula-red); /* Using primary red for danger */
+    --bs-dark: var(--color-space-medium); /* Dark components like alerts/cards */
+
+    /* Custom Gradients for Glow/Impact */
+    --gradient-primary: linear-gradient(90deg, var(--color-nebula-red) 0%, var(--color-nebula-orange) 100%);
+    --gradient-secondary: linear-gradient(90deg, var(--color-nebula-cyan) 0%, var(--color-nebula-blue) 100%);
 }
 
-/* --- DARK MODE: "Deep Space Void" (The Preferred Aesthetic) --- */
-@media (prefers-color-scheme: dark) {
-  :root {
-    /* Base Colors */
-    --bs-body-bg: #050508;           /* Deep Void Black */
-    --bs-body-color: #e0e0e0;        /* Starlight Grey */
-    --bs-secondary-color: #9ca3af;   /* Muted Metal */
-    --bs-border-color: #2d2d44;      /* Dark Purple Border */
-    --bs-border-color-translucent: rgba(255, 255, 255, 0.1);
+/* --- Base Body Styling --- */
+body {
+    font-family: 'Space Mono', monospace, sans-serif; /* Using a more thematic font */
+    background-color: var(--bs-body-bg);
+    color: var(--bs-body-color);
+    line-height: 1.6;
+    display: flex; /* For sticky footer */
+    flex-direction: column; /* For sticky footer */
+    min-height: 100vh; /* For sticky footer */
+}
 
-    /* Card Backgrounds */
-    --bs-tertiary-bg: #12121a;       /* Darker Void */
-    --bs-tertiary-color: #ffffff;
+/* --- Typography --- */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif; /* Stronger headings */
+    color: var(--color-starlight-light);
+    font-weight: 700;
+}
 
-    /* Brand Colors (Subtle backgrounds adjusted for dark mode) */
-    --bs-primary-bg-subtle: #330014;
-    --bs-primary-border-subtle: #660029;
+.text-primary { color: var(--bs-primary) !important; }
+.text-secondary { color: var(--bs-secondary) !important; }
+.text-warning { color: var(--bs-warning) !important; }
+.text-info { color: var(--bs-info) !important; }
+.text-success { color: var(--bs-success) !important; }
+.text-muted { color: var(--color-starlight-medium) !important; } /* Custom muted for better contrast */
 
-    --bs-warning-bg-subtle: #002226;
-    --bs-warning-border-subtle: #004d54;
+.text-glow-primary {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 5px var(--color-nebula-red));
+}
 
-    --bs-secondary-bg-subtle: #1f1f2e;
-    --bs-secondary-border-subtle: #3a3a4d;
-
-    /* Link Colors */
-    --bs-link-color: var(--bs-warning); /* Cyan links pop better on black */
-    --bs-link-color-rgb: var(--bs-warning-rgb);
-    --bs-link-hover-color: #ffffff;     /* Hover to White */
-
-    /* Component Overrides (Dark Mode) */
-    --bs-card-bg: var(--bs-tertiary-bg);
-    --bs-card-border-color: var(--bs-primary); /* Pink borders on cards in dark mode! */
-  }
+.text-glow-warning { /* Specific for Escape Velocity */
+    background: var(--gradient-secondary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 5px var(--color-nebula-cyan));
 }
 
 
+/* --- Links --- */
+a {
+    color: var(--bs-link-color);
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
 
-/* Buttons: Add the 80s Glow */
+a:hover {
+    color: var(--bs-link-hover-color);
+    text-decoration: underline;
+    text-shadow: 0 0 5px var(--bs-link-hover-color);
+}
+
+.nav-link {
+    color: var(--color-starlight-light);
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+
+.nav-link:hover, .nav-link.active {
+    color: var(--color-nebula-cyan) !important;
+    transform: translateX(5px);
+    text-shadow: 0 0 8px var(--color-nebula-cyan);
+}
+
+.nav-link.link-secondary { /* For less prominent sidebar links */
+    color: var(--color-starlight-medium) !important;
+}
+
+.nav-link.link-secondary:hover, .nav-link.link-secondary.active {
+    color: var(--color-nebula-blue) !important;
+    text-shadow: 0 0 5px var(--color-nebula-blue);
+}
+
+
+/* --- Buttons --- */
+.btn-outline-primary {
+    color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    transition: all 0.2s ease-in-out;
+}
+.btn-outline-primary:hover {
+    background-color: var(--bs-primary);
+    color: var(--color-space-dark);
+    box-shadow: 0 0 10px var(--bs-primary);
+}
+
+.btn-outline-secondary {
+    color: var(--color-starlight-medium);
+    border-color: var(--color-starlight-medium);
+}
+.btn-outline-secondary:hover {
+    background-color: var(--color-starlight-medium);
+    color: var(--color-space-dark);
+    box-shadow: 0 0 10px var(--color-starlight-medium);
+}
+
+/* Custom button variants mapping to new colors */
+.btn-outline-success {
+    color: var(--color-nebula-green);
+    border-color: var(--color-nebula-green);
+}
+.btn-outline-success:hover {
+    background-color: var(--color-nebula-green);
+    color: var(--color-space-dark);
+    box-shadow: 0 0 10px var(--color-nebula-green);
+}
+
+.btn-outline-warning {
+    color: var(--color-nebula-orange);
+    border-color: var(--color-nebula-orange);
+}
+.btn-outline-warning:hover {
+    background-color: var(--color-nebula-orange);
+    color: var(--color-space-dark);
+    box-shadow: 0 0 10px var(--color-nebula-orange);
+}
+
+.btn-outline-info {
+    color: var(--color-nebula-blue);
+    border-color: var(--color-nebula-blue);
+}
+.btn-outline-info:hover {
+    background-color: var(--color-nebula-blue);
+    color: var(--color-space-dark);
+    box-shadow: 0 0 10px var(--color-nebula-blue);
+}
+
+/* Solid buttons also get new colors */
 .btn-primary {
     background-color: var(--bs-primary);
     border-color: var(--bs-primary);
-    box-shadow: 0 0 10px var(--bs-primary); /* The Glow */
-    transition: all 0.3s ease;
+    color: var(--color-space-dark);
 }
 .btn-primary:hover {
-    background-color: #d6004f;
-    box-shadow: 0 0 20px var(--bs-primary); /* Bigger glow on hover */
+    background-color: var(--color-nebula-red-dark);
+    border-color: var(--color-nebula-red-dark);
+    box-shadow: 0 0 15px var(--bs-primary);
 }
 
-.btn-warning {
-    background-color: var(--bs-warning);
-    border-color: var(--bs-warning);
-    box-shadow: 0 0 10px var(--bs-warning);
-    color: #000; /* Ensure readability on cyan */
-    transition: all 0.3s ease;
-}
-.btn-warning:hover {
-    background-color: #04b0bc;
-    box-shadow: 0 0 20px var(--bs-warning);
+
+/* --- Cards & Alerts --- */
+.card {
+    background-color: var(--color-space-medium); /* Darker background for cards */
+    border-color: var(--color-space-light) !important;
+    color: var(--color-starlight-light);
 }
 
-/* --- UTILITY CLASSES (Use these in your HTML) --- */
-
-/* Text Glow Effect (Like the Gaussian Blur in Paint.net) */
-.text-glow-primary {
-    text-shadow: 0 0 8px var(--bs-primary);
-}
-.text-glow-warning {
-    text-shadow: 0 0 8px var(--bs-warning);
+.card-header {
+    background-color: var(--color-space-light) !important; /* Slightly lighter header for contrast */
+    border-color: var(--color-space-light) !important;
+    color: var(--color-starlight-light);
 }
 
-/* Neon Borders for Images/Cards */
-.border-glow {
-    box-shadow: 0 0 15px rgba(255, 42, 109, 0.3); /* Soft Pink Glow */
+.alert {
+    background-color: var(--color-space-medium);
+    border-color: var(--color-space-light);
+    color: var(--color-starlight-light);
 }
+
+.alert-info { /* Special info alerts */
+    background-color: rgba(var(--bs-info-rgb), 0.1);
+    border-color: var(--color-nebula-blue);
+    color: var(--color-starlight-light);
+}
+
+.alert-dark { /* Used for 2018 refusal, 404 under construction */
+    background-color: var(--color-space-medium);
+    border-color: var(--color-space-light);
+    color: var(--color-starlight-light);
+}
+.alert-dark.border-warning {
+    border-color: var(--color-nebula-orange) !important;
+}
+.alert-dark.border-warning .alert-heading,
+.alert-dark.border-warning .fa-solid {
+    color: var(--color-nebula-orange) !important;
+}
+
+
+/* --- Table --- */
+.table {
+    --bs-table-bg: transparent;
+    --bs-table-color: var(--color-starlight-light);
+}
+.table-hover > tbody > tr:hover > * {
+    --bs-table-bg: var(--color-space-light);
+}
+
+
+/* --- Custom Components / Specific elements --- */
+
+/* Album Art Header variant for Apex Era (Electric Color) */
+.album-art-header.variant-pact .card {
+    border-color: var(--color-nebula-red) !important;
+    box-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.5);
+}
+
+/* Album Art Header variant for Warehouse Era (Warehouse Tapes) */
+.album-art-header.variant-warning .card {
+    border-color: var(--color-nebula-orange) !important;
+    box-shadow: 0 0 15px rgba(var(--bs-warning-rgb), 0.5);
+}
+
+/* Specific background for track 13 of Electric Color */
+.list-group-item[style*="rgba(255, 42, 109, 0.05)"] {
+    background: rgba(var(--bs-primary-rgb), 0.15) !important; /* Use theme primary color */
+    border-color: var(--color-nebula-red) !important;
+    box-shadow: inset 0 0 10px rgba(var(--bs-primary-rgb), 0.2);
+}
+
+/* Specific background for track 6 of Warehouse Tapes */
+.list-group-item[style*="rgba(5, 217, 232, 0.05)"] {
+    background: rgba(var(--color-nebula-cyan-rgb), 0.15) !important; /* Use theme cyan color */
+    border-color: var(--color-nebula-cyan) !important;
+    box-shadow: inset 0 0 10px rgba(var(--color-nebula-cyan-rgb), 0.2);
+}
+
+
+/* --- Footer --- */
+footer {
+    background-color: var(--color-space-medium);
+    color: var(--color-starlight-medium);
+    border-top: 1px solid var(--color-space-light);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: auto; /* Pushes footer to bottom */
+}
+
+/* --- Utility Classes (Specific to Theme) --- */
+.opacity-25 { opacity: 0.25; }

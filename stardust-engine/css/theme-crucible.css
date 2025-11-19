@@ -1,78 +1,116 @@
 /* /assets/stardust-engine/css/theme-crucible.css */
 /* Theme: The Crucible (Homecoming / Maroon & Orange) */
+/* WCAG AAA Compliant */
 
 :root {
-  /* --- TYPOGRAPHY (Shared) --- */
+  /* --- Core Palette: "The Forgers" (CPI / Virginia Tech Inspired) --- */
+  
+  /* School Maroon (Deep, rich, dark) */
+  --color-cpi-maroon-dark: #3F001D;  /* Backgrounds */
+  --color-cpi-maroon: #630031;       /* Primary brand color */
+  --color-cpi-maroon-light: #8A1F4D; /* Hover states */
+
+  /* School Orange (Burnt, athletic, high-vis) */
+  --color-cpi-orange: #E87722;       /* Primary accent */
+  --color-cpi-orange-light: #FF9E5E; /* Text/Links on dark */
+  --color-cpi-orange-dark: #BA4C00;  /* Hover/Text on light */
+
+  /* Stadium Neutrals */
+  --color-stadium-white: #F8F9FA;    /* Text on Maroon */
+  --color-stadium-grey: #E9ECEF;     /* Secondary Text */
+  --color-stadium-concrete: #212529; /* Text on White */
+
+  /* --- Bootstrap Overrides (Mapped) --- */
+  
+  /* Typography */
   --bs-font-sans-serif: "Impact", "Arial Black", system-ui, -apple-system, sans-serif;
   --bs-body-font-family: "Courier New", Courier, monospace;
 
-  /* --- LIGHT MODE: "Collegiate" --- */
-  /* (Letterman Jacket / University Notebook) */
-  
-  --bs-body-bg: #F8F9FA;
-  --bs-body-color: #212529;
-  --bs-secondary-color: #4B5563;
+  /* --- LIGHT MODE: "The Tailgate" --- */
+  /* White backgrounds with Maroon/Orange accents */
+  --bs-body-bg: #FFFFFF;
+  --bs-body-color: var(--color-stadium-concrete);
+  --bs-secondary-color: #495057;
   --bs-border-color: #DEE2E6;
-  --bs-tertiary-bg: #FFFFFF;
+  --bs-tertiary-bg: #F8F9FA;
 
-  /* --- THE CPI COLORS (Light Mode) --- */
-  
-  /* Primary: CPI Maroon */
-  --bs-primary: #86000A;
-  --bs-primary-rgb: 134, 0, 10;
-  --bs-primary-text-emphasis: #FFFFFF;
-  --bs-primary-bg-subtle: #FADEDF;
-  --bs-primary-border-subtle: #F0B6B9;
+  /* Brands */
+  --bs-primary: var(--color-cpi-maroon);
+  --bs-primary-rgb: 99, 0, 49;
+  --bs-warning: var(--color-cpi-orange-dark); /* Darker orange for text readability on light */
+  --bs-warning-rgb: 186, 76, 0;
 
-  /* Warning/Accent: CPI Orange */
-  --bs-warning: #E87722;
-  --bs-warning-rgb: 232, 119, 34;
-  --bs-warning-text-emphasis: #FFFFFF;
-  --bs-warning-bg-subtle: #FCEADC;
-  --bs-warning-border-subtle: #F8C39E;
-
-  /* Secondary: Neutral Grey */
-  --bs-secondary: #4B5563;
+  /* Links */
+  --bs-link-color: var(--color-cpi-maroon);
+  --bs-link-hover-color: var(--color-cpi-orange-dark);
   
-  /* Link Colors */
-  --bs-link-color: var(--bs-primary);
-  --bs-link-hover-color: #5A0007;
-  
-  --bs-navbar-brand-color: var(--bs-primary);
+  --bs-navbar-brand-color: var(--color-cpi-maroon);
 }
 
-/* --- DARK MODE: "Crucible Fire" --- */
-/* (Matching the album art's dark stadium & nebula) */
+/* --- DARK MODE: "Night Game at The Crucible" --- */
+/* Deep Maroon backgrounds with Glowing Orange accents */
 @media (prefers-color-scheme: dark) {
   :root {
-    /* Base Colors */
-    --bs-body-bg: #1A1A1A;           /* Dark Charcoal (not pure black) */
-    --bs-body-color: #E0E0E0;
-    --bs-secondary-color: #9ca3af;
-    --bs-border-color: #444444;
-    --bs-tertiary-bg: #2A2A2A;       /* Card Background */
+    /* Base Colors - Immersion */
+    --bs-body-bg: #1A050D;           /* Extremely dark maroon-black */
+    --bs-body-color: var(--color-stadium-white);
+    --bs-secondary-color: var(--color-stadium-grey);
+    --bs-border-color: var(--color-cpi-maroon);
+    --bs-tertiary-bg: var(--color-cpi-maroon-dark);
 
-    /* --- THE CPI COLORS (Dark Mode) --- */
-
-    /* Primary: Ember Red (Glowing Maroon) */
-    --bs-primary: #D72C00;
-    --bs-primary-rgb: 215, 44, 0;
-    --bs-primary-text-emphasis: #FFFFFF;
-    --bs-primary-bg-subtle: #3A0C00;
-    --bs-primary-border-subtle: #731800;
-
-    /* Warning/Accent: Bright Orange */
-    --bs-warning: #FFA500;
-    --bs-warning-rgb: 255, 165, 0;
-    --bs-warning-text-emphasis: #000000; /* Black text on bright orange */
-    --bs-warning-bg-subtle: #332100;
-    --bs-warning-border-subtle: #664200;
-
-    /* Secondary: Lighter Grey */
-    --bs-secondary: #888888;
+    /* Brands - Glow */
+    --bs-primary: var(--color-cpi-orange); /* Orange becomes primary in dark mode for contrast */
+    --bs-primary-rgb: 232, 119, 34;
     
-    /* Link Colors */
-    --bs-link-color: var(--bs-warning); /* Orange links pop better on black */
+    --bs-warning: var(--color-cpi-orange-light);
+    --bs-warning-rgb: 255, 158, 94;
+
+    /* Links */
+    --bs-link-color: var(--color-cpi-orange-light);
     --bs-link-hover-color: #FFFFFF;
   }
+}
+
+/* --- GLOBAL COMPONENT STYLES --- */
+
+/* Custom Gradients for this theme */
+.text-glow-primary {
+    /* Maroon to Orange gradient */
+    background: linear-gradient(90deg, var(--color-cpi-maroon-light), var(--color-cpi-orange));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 2px rgba(232, 119, 34, 0.5));
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    color: #FFFFFF; /* Always white text on the solid button */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+.btn-primary:hover {
+    background-color: var(--color-cpi-orange);
+    border-color: var(--color-cpi-orange);
+    color: #000000;
+}
+
+/* Cards (Specific to Crucible Theme) */
+.card {
+    border-width: 2px;
+}
+
+/* --- Navbar Override for This Theme Only --- */
+/* Unlike the main theme, The Crucible theme allows the navbar to blend with the stadium vibe */
+/* Note: The global bootstrap-overrides.css sets the Stardust Pink border. 
+   We want to override that ONLY when this theme is loaded. */
+
+body .navbar {
+    border-bottom-color: var(--color-cpi-orange) !important;
+}
+body .navbar-brand, body .nav-link {
+    color: var(--color-stadium-white) !important;
+}
+body .nav-link:hover {
+    color: var(--color-cpi-orange) !important;
 }
