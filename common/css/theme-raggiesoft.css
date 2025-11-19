@@ -1,0 +1,117 @@
+/* * RaggieSoft Master Theme Template
+ * Use this to define the color palette for a new narrative.
+ */
+
+:root {
+    /* --- 1. Core Palette (Define your Brand Colors Here) --- */
+    --color-bg-dark: #121212;       /* Main Background */
+    --color-bg-medium: #1E1E1E;     /* Cards / Sidebars */
+    --color-bg-light: #2C2C2C;      /* Hover States / Headers */
+
+    --color-text-main: #E0E0E0;     /* Primary Text */
+    --color-text-muted: #A0A0A0;    /* Secondary Text */
+
+    /* Brand Colors (Default: Blue/Grey/Cyan) */
+    --color-accent-primary: #0d6efd;   
+    --color-accent-secondary: #6c757d; 
+    --color-accent-highlight: #0dcaf0; 
+    --color-accent-warning: #ffc107;   
+    --color-accent-danger: #dc3545;    
+
+    /* --- 2. Bootstrap Variable Mapping (Do Not Touch Logic, Just Values) --- */
+    
+    /* Body & Text */
+    --bs-body-bg: var(--color-bg-dark);
+    --bs-body-color: var(--color-text-main);
+    --bs-secondary-color: var(--color-text-muted);
+    --bs-heading-color: var(--color-text-main);
+    
+    /* Links */
+    --bs-link-color: var(--color-accent-highlight);
+    --bs-link-hover-color: var(--color-text-main);
+    --bs-border-color: var(--color-bg-light);
+
+    /* Component Backgrounds */
+    --bs-tertiary-bg: var(--color-bg-medium); /* Sidebar/Footer */
+    --bs-card-bg: var(--color-bg-medium);
+    --bs-card-color: var(--color-text-main);
+    --bs-card-border-color: var(--color-bg-light);
+    
+    /* Modals */
+    --bs-modal-bg: var(--color-bg-medium);
+    --bs-modal-color: var(--color-text-main);
+    --bs-modal-border-color: var(--color-bg-light);
+
+    /* Brand Colors Mapped */
+    --bs-primary: var(--color-accent-primary);
+    --bs-secondary: var(--color-accent-secondary);
+    --bs-info: var(--color-accent-highlight);
+    --bs-warning: var(--color-accent-warning);
+    --bs-danger: var(--color-accent-danger);
+    --bs-dark: var(--color-bg-medium);
+
+    /* --- 3. Specific Override Fixes (For Dark Mode Visibility) --- */
+    
+    /* Fix: Ensure "Subtle" backgrounds are dark enough for light text */
+    --bs-primary-bg-subtle: #0a2e5a; 
+    --bs-warning-bg-subtle: #332701; 
+    --bs-danger-bg-subtle: #42080d;
+    
+    /* Fix: Ensure emphasis text is light */
+    --bs-primary-text-emphasis: #9ec5fe;
+    --bs-warning-text-emphasis: #f1c40f;
+    --bs-danger-text-emphasis: #f8d7da;
+}
+
+/* --- 4. Global Typography & Layout --- */
+
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 700;
+    color: var(--bs-heading-color);
+}
+
+/* --- 5. Component Logic (Enforcing Contrast) --- */
+
+/* Buttons: Force dark text on bright backgrounds for AA compliance */
+.btn-primary, .btn-warning, .btn-info {
+    color: #000000 !important; 
+    font-weight: 600;
+}
+
+/* Footer & Sidebar */
+.bg-body-tertiary {
+    background-color: var(--bs-tertiary-bg) !important;
+}
+footer {
+    border-top: 1px solid var(--bs-border-color);
+    padding: 2rem 0;
+    margin-top: auto;
+}
+
+/* Modals */
+.modal-content {
+    background-color: var(--bs-modal-bg);
+    border: 1px solid var(--bs-border-color);
+}
+.btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%); /* White 'X' */
+}
+
+/* Alerts (Fixing Light-on-Light issues) */
+.alert {
+    background-color: var(--bs-card-bg); /* Fallback */
+    border-color: var(--bs-border-color);
+    color: var(--bs-body-color);
+}
+/* Explicitly map the subtle classes to our dark overrides */
+.alert-primary { background-color: var(--bs-primary-bg-subtle); color: var(--bs-primary-text-emphasis); }
+.alert-warning { background-color: var(--bs-warning-bg-subtle); color: var(--bs-warning-text-emphasis); }
+.alert-danger  { background-color: var(--bs-danger-bg-subtle);  color: var(--bs-danger-text-emphasis); }
