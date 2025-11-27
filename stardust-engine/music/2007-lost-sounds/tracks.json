@@ -1,0 +1,40 @@
+{
+  "tracks": [
+    {
+      "fileName": "01-the-promise-sermon-demo.wav",
+      "title": "The Promise (1989 'Sermon' Demo)",
+      "disc": 1,
+      "track": 1
+    },
+    {
+      "fileName": "02-atmosphere-1992-demo.wav",
+      "title": "Atmosphere (1992 Demo)",
+      "disc": 1,
+      "track": 2
+    },
+    {
+      "fileName": "03-midnight-drivers.wav",
+      "title": "Midnight Drivers",
+      "disc": 1,
+      "track": 3
+    },
+    {
+      "fileName": "04-ill-be-your-home.wav",
+      "title": "I'll Be Your Home",
+      "disc": 1,
+      "track": 4
+    },
+    {
+      "fileName": "05-harbor-in-the-storm.wav",
+      "title": "Harbor in the Storm",
+      "disc": 1,
+      "track": 5
+    },
+    {
+      "fileName": "06-we-own-the-night.wav",
+      "title": "We Own the Night (Pre-1987 Demo)",
+      "disc": 1,
+      "track": 6
+    }
+  ]
+}
