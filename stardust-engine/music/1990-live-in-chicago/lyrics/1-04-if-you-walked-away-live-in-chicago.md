@@ -1,7 +1,9 @@
 **LORE NOTE:**
-For Cassidy, who is autistic, the lyrics of this song were not a performance—they were a terrifying "what-if" scenario that she experienced viscerally every time she sang it. While the studio marketed it as a romantic breakup ballad, Cassidy sang it as a desperate plea to her brother. The fear in her voice on this recording is real.
+For Cassidy, who is autistic, the lyrics of this song were not a performance—they were a terrifying "what-if" scenario that she experienced viscerally every time she sang it. While the studio marketed it as a romantic breakup ballad, Cassidy sang it as a desperate plea to her brother. **The fear in her voice on this recording is real.**
 
-Ryan, who is also autistic, understood her need for absolute certainty better than anyone. He famously had to reassure her after *every single concert*—often using the exact same phrase, "Family sticks together"—to ground her back in reality and confirm that he was never going to leave her.
+Ryan, who is also autistic, understood her need for absolute certainty better than anyone. He famously had to reassure her after *every single concert*—often using the exact same phrase, **"Family sticks together"**—to ground her back in reality and confirm that he was never going to leave her.
+
+**Note: After this specific performance, Cassidy broke down in tears backstage. Ryan had to hold her in a deep pressure hug for twenty minutes to help her reset and remind her that he was right there.**
 
 **LYRICS:**
 
