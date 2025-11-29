@@ -1,0 +1,310 @@
+/* /assets/css/theme-ad-astra.css */
+/* Theme: Escape Velocity (Ad Astra) - The Prog Epic Special Edition */
+/* v1.0 - Deep Space / Violet & Gold Palette */
+
+/* --- 1. UNIVERSAL BRAND PALETTE (Ad Astra Exclusive) --- */
+:root {
+    /* The Ad Astra Palette - Deep Space & Starlight */
+    
+    /* Primary: The Void / The Depth (Deep Indigo/Violet) */
+    --color-astra-primary: #7000FF;      
+    --color-astra-primary-dark: #3A0085; 
+    
+    /* Warning/Ignition: Rocket Fire (Burning Gold/Amber) */
+    --color-astra-gold: #FFD700;    
+    --color-astra-gold-dark: #B8860B;
+    --color-astra-gold-burnt: #8A6500; /* Text Contrast */
+
+    /* Accent: Guidance Systems (Electric Cyan) */
+    --color-astra-cyan: #00FFFF;      
+    --color-astra-cyan-dark: #00CED1;
+
+    /* Info: Telemetry (Tech Blue) */
+    --color-astra-blue: #4D7AFF;      
+    --color-astra-blue-dark: #3D62CC;
+    --color-astra-blue-deep: #002855; 
+
+    /* Gradients */
+    /* The "Ignition" Gradient: Violet to Gold */
+    --gradient-primary: linear-gradient(135deg, var(--color-astra-gold) 0%, var(--color-astra-primary) 100%);
+    /* The "Nebula" Gradient: Cyan to Violet */
+    --gradient-secondary: linear-gradient(90deg, var(--color-astra-cyan) 0%, var(--color-astra-primary) 100%);
+}
+
+/* --- 2. LIGHT MODE DEFAULTS ("Launch Pad") --- */
+:root {
+    /* Backgrounds - Stark White/Grey */
+    --bs-body-bg: #F0F2F5;
+    --bs-body-color: #0B0B15; 
+    
+    --bs-secondary-color: #4B4B60; 
+    --bs-border-color: #C0C0D0;
+    
+    /* Components */
+    --bs-tertiary-bg: #E0E0E8;
+    --bs-card-bg: #FFFFFF;
+    --bs-card-color: #0B0B15;
+    
+    /* Links */
+    --bs-link-color: var(--color-astra-primary); 
+    --bs-link-hover-color: var(--color-astra-primary-dark);
+
+    /* Brand Mapping */
+    --bs-primary: var(--color-astra-primary);
+    --bs-warning: var(--color-astra-gold);
+    --bs-info: var(--color-astra-cyan-dark);
+    --bs-success: #00FF9D;
+    --bs-danger: #FF0055;
+    
+    /* Modals */
+    --bs-modal-bg: #FFFFFF;
+    --bs-modal-color: #0B0B15;
+    --bs-modal-border-color: #C0C0D0;
+    
+    /* Alerts */
+    --bs-warning-bg-subtle: #FFF8C0;
+    --bs-warning-border-subtle: #FFE066;
+    --bs-warning-text-emphasis: #664D00;
+}
+
+/* FIX: Text Utilities in Light Mode */
+.text-light { color: #0B0B15 !important; } 
+.text-body { color: #0B0B15 !important; }
+.text-muted { color: #4B4B60 !important; }
+
+/* FIX: Utility Contrast */
+.text-warning { color: var(--color-astra-gold-burnt) !important; }
+.border-warning { border-color: var(--color-astra-gold-dark) !important; }
+.text-primary { color: var(--color-astra-primary) !important; }
+.text-info { color: var(--color-astra-blue-deep) !important; }
+
+/* FIX: Button Colors in Light Mode */
+.btn-outline-info {
+    color: var(--color-astra-blue-deep) !important;
+    border-color: var(--color-astra-blue-dark) !important;
+}
+.btn-outline-info:hover {
+    background-color: var(--color-astra-blue-dark) !important;
+    color: #FFFFFF !important;
+}
+
+
+/* --- 3. DARK MODE OVERRIDES ("Deep Space" - The True Experience) --- */
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Core Palette - The Void */
+        --color-void-dark: #020205;       /* Purest Black/Blue */
+        --color-void-medium: #0F0F1A;     /* Deep Navy */
+        --color-void-light: #1A1A2E;      /* Starfield Grey */
+
+        --color-starlight: #E0E0FF;  
+        --color-starlight-dim: #A0A0C0; 
+        
+        /* Body Mapping */
+        --bs-body-bg: var(--color-void-dark);
+        --bs-body-color: var(--color-starlight);
+        
+        --bs-secondary-color: var(--color-starlight-dim); 
+        --bs-border-color: var(--color-void-light);
+        
+        /* Components */
+        --bs-tertiary-bg: var(--color-void-medium);
+        --bs-tertiary-color: var(--color-starlight);
+        --bs-card-bg: var(--color-void-medium);
+        --bs-card-color: var(--color-starlight);
+        --bs-card-border-color: var(--color-void-light);
+        
+        /* Links - Cyan for guidance */
+        --bs-link-color: var(--color-astra-cyan);
+        --bs-link-hover-color: var(--color-astra-cyan-dark);
+
+        /* Modals */
+        --bs-modal-bg: var(--color-void-medium);
+        --bs-modal-color: var(--color-starlight);
+        --bs-modal-border-color: var(--color-void-light);
+        --bs-modal-header-border-color: var(--color-void-light);
+        --bs-modal-footer-border-color: var(--color-void-light);
+
+        /* Alerts */
+        --bs-warning-bg-subtle: #1A1500; /* Deep Gold/Black */
+        --bs-warning-border-subtle: var(--color-astra-gold-dark);
+        --bs-warning-text-emphasis: var(--color-astra-gold);
+    }
+    
+    /* FIX: Text Utilities in Dark Mode */
+    .text-light { color: var(--color-starlight) !important; }
+    .text-body { color: var(--color-starlight) !important; }
+    .text-muted { color: var(--color-starlight-dim) !important; }
+
+    /* FIX: Utility Contrast */
+    .text-warning { color: var(--color-astra-gold) !important; }
+    .border-warning { border-color: var(--color-astra-gold) !important; }
+    .text-primary { color: #A855F7 !important; /* Lighter Violet for Dark Mode */ }
+    .text-info { color: var(--color-astra-cyan) !important; }
+
+    /* FIX: Button Colors in Dark Mode */
+    .btn-outline-secondary {
+        color: var(--color-starlight) !important;
+        border-color: var(--color-starlight-dim) !important;
+    }
+    .btn-outline-secondary:hover {
+        background-color: var(--color-starlight-dim) !important;
+        color: var(--color-void-dark) !important;
+    }
+
+    /* Restore Bright Info Button in Dark Mode */
+    .btn-outline-info {
+        color: var(--color-astra-cyan) !important;
+        border-color: var(--color-astra-cyan) !important;
+    }
+    .btn-outline-info:hover {
+        background-color: var(--color-astra-cyan) !important;
+        color: var(--color-void-dark) !important;
+        box-shadow: 0 0 10px var(--color-astra-cyan);
+    }
+
+    /* Alert Fixes */
+    .alert-dark { background-color: #0A0A10 !important; border-color: var(--color-void-light) !important; color: var(--color-starlight) !important; }
+
+    /* General Fixes */
+    .btn-close { filter: invert(1) grayscale(100%) brightness(200%); }
+    .bg-body-tertiary .nav-link { color: var(--color-starlight-dim) !important; }
+    .bg-body-tertiary .nav-link:hover, .bg-body-tertiary .nav-link.active { color: var(--color-astra-cyan) !important; background-color: rgba(0, 255, 255, 0.1); }
+}
+
+/* --- 4. GLOBAL TYPOGRAPHY & LAYOUT --- */
+
+body {
+    /* Use a more "Sci-Fi" font stack if available, falling back to Mono */
+    font-family: 'Exo 2', 'Space Mono', monospace, sans-serif;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Audiowide', 'Montserrat', sans-serif; /* Audiowide for Headers */
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+/* --- 5. COMPONENT STYLES (Universal) --- */
+
+/* Primary Buttons (Violet) */
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    color: #FFFFFF !important; 
+    font-weight: 700;
+}
+.btn-primary:hover {
+    background-color: var(--color-astra-primary-dark);
+    border-color: var(--color-astra-primary-dark);
+    box-shadow: 0 0 15px var(--bs-primary);
+}
+
+/* Warning Buttons (Gold) */
+.btn-warning {
+    background-color: var(--bs-warning);
+    border-color: var(--bs-warning);
+    color: #000000 !important;
+    font-weight: 700;
+}
+.btn-warning:hover {
+    background-color: var(--color-astra-gold-dark);
+    border-color: var(--color-astra-gold-dark);
+    box-shadow: 0 0 15px var(--bs-warning);
+}
+
+/* Cards */
+.card {
+    background-color: var(--bs-card-bg);
+    color: var(--bs-card-color);
+    border-color: var(--bs-border-color) !important;
+}
+
+/* Footer */
+footer {
+    background-color: var(--bs-tertiary-bg);
+    border-top: 1px solid var(--bs-border-color);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    margin-top: auto;
+}
+
+/* Custom Gradients */
+.text-glow-primary {
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 5px rgba(112, 0, 255, 0.5)); /* Violet Glow */
+}
+
+/* Album Art Header Variants */
+.album-art-header.variant-pact .card {
+    border-color: var(--color-astra-primary) !important;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.3);
+}
+.album-art-header.variant-axiom .card {
+    border-color: var(--color-astra-gold) !important;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.3);
+}
+
+/* Navbar Toggler */
+.navbar-toggler .hamburger-bar {
+    background-color: #E0E0FF !important;
+}
+
+/* --- 6. CRITICAL UTILITY OVERRIDES --- */
+
+/* FIX: When .text-light is used inside .bg-dark */
+.bg-dark .text-light,
+.dropdown-menu.bg-dark .dropdown-item.text-light {
+    color: #E0E0FF !important; 
+}
+
+/* --- HUD TRANSPARENCY UTILITY (Ad Astra Violet) --- */
+.bg-hud-blue {
+    /* Override standard Blue with Astral Violet */
+    background-color: rgba(112, 0, 255, 0.15) !important; 
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
+    
+    border: 1px solid rgba(112, 0, 255, 0.3) !important;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.1);
+    color: #E0E0FF; 
+}
+
+.bg-hud-blue:hover {
+    background-color: rgba(112, 0, 255, 0.25) !important;
+    border-color: rgba(112, 0, 255, 0.6) !important;
+    box-shadow: 0 0 20px rgba(112, 0, 255, 0.3);
+    transition: all 0.3s ease;
+}
+
+/* --- HUD TRANSPARENCY UTILITY (Ad Astra Gold) --- */
+.bg-hud-orange {
+    /* Override standard Orange with Star Gold */
+    background-color: rgba(255, 215, 0, 0.1) !important; 
+    backdrop-filter: blur(10px); 
+    -webkit-backdrop-filter: blur(10px);
+    
+    border: 1px solid rgba(255, 215, 0, 0.3) !important;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.1);
+    color: #E0E0FF; 
+}
+
+.bg-hud-orange:hover {
+    background-color: rgba(255, 215, 0, 0.2) !important;
+    border-color: rgba(255, 215, 0, 0.6) !important;
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+/* FIX: Reset text-fill for icons inside Gradient Headers */
+.text-glow-primary i {
+    -webkit-text-fill-color: initial !important; 
+    background: none; 
+    color: inherit; 
+}
