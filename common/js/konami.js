@@ -1,13 +1,12 @@
 document.addEventListener('DOMContentLoaded', () => {
     // The Konami Code Sequence
-    // Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start (Enter)
+    // Up, Up, Down, Down, Left, Right, Left, Right, B, A
     const konamiCode = [
         'ArrowUp', 'ArrowUp', 
         'ArrowDown', 'ArrowDown', 
         'ArrowLeft', 'ArrowRight', 
         'ArrowLeft', 'ArrowRight', 
-        'b', 'a',
-        'Enter' // Represents "Start"
+        'b', 'a'
     ];
     
     let currentPosition = 0;
