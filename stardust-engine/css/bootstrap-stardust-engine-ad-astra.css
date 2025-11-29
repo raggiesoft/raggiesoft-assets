@@ -11943,50 +11943,57 @@ textarea.form-control-lg {
     }
 }
 
-:root,
-[data-bs-theme=light] {
+/* root-ad-astra.css */
+/* The Stardust Engine - "Escape Velocity" Theme */
+/* Concept: The Void. Infinite Black. Neon Highlights. */
+
+:root {
   /* --- AD ASTRA PALETTE --- */
-  --bs-blue: #7000FF;
-  --bs-purple: #7000FF;
-  --bs-red: #FF0055;
-  --bs-orange: #fd7e14;
-  --bs-yellow: #FFD700;
-  --bs-green: #00FF9D;
-  --bs-cyan: #00FFFF;
-  --bs-black: #000;
-  --bs-white: #fff;
-  
-  /* --- THEME MAPPING --- */
-  --bs-primary: #7000FF;       /* Deep Violet */
-  --bs-secondary: #B0B0C0;     /* Starlight Grey */
-  --bs-success: #00FF9D;       /* Neon Green */
-  --bs-info: #00FFFF;          /* Electric Cyan */
-  --bs-warning: #FFD700;       /* Burning Gold */
-  --bs-danger: #FF0055;        /* Red Alert */
-  --bs-light: #E0E0FF;         /* Starlight White */
-  --bs-dark: #050508;          /* The Void */
-
-  /* --- RGB VALUES --- */
-  --bs-primary-rgb: 112, 0, 255;
-  --bs-secondary-rgb: 176, 176, 192;
-  --bs-success-rgb: 0, 255, 157;
-  --bs-info-rgb: 0, 255, 255;
-  --bs-warning-rgb: 255, 215, 0;
-  --bs-danger-rgb: 255, 0, 85;
-  --bs-light-rgb: 224, 224, 255;
-  --bs-dark-rgb: 5, 5, 8;
-
-  /* --- FORCED DARK MODE --- */
-  --bs-body-color: #E0E0FF;
-  --bs-body-color-rgb: 224, 224, 255;
-  --bs-body-bg: #050508;
-  --bs-body-bg-rgb: 5, 5, 8;
-  
-  --bs-border-color: #4B4B60;
-  --bs-link-color: #00FFFF;
-  --bs-link-hover-color: #FFFFFF;
+  --astra-void: #050508;       /* Deepest Black */
+  --astra-text: #E0E0FF;       /* Starlight White */
+  --astra-primary: #7000FF;    /* Deep Violet (The Engine) */
+  --astra-secondary: #B0B0C0;  /* Hull Grey */
+  --astra-success: #00FF9D;    /* HUD Green */
+  --astra-info: #00FFFF;       /* HUD Cyan */
+  --astra-warning: #FFD700;    /* Star Gold */
+  --astra-danger: #FF0055;     /* Alert Red */
 }
 
+/* FORCE OVERRIDE: Apply to ALL modes */
+:root,
+[data-bs-theme="light"],
+[data-bs-theme="dark"] {
+    
+    /* --- BOOTSTRAP MAPPING --- */
+    --bs-primary: var(--astra-primary);
+    --bs-primary-rgb: 112, 0, 255;
+    
+    --bs-secondary: var(--astra-secondary);
+    --bs-secondary-rgb: 176, 176, 192;
+
+    --bs-success: var(--astra-success);
+    --bs-info: var(--astra-info);
+    --bs-warning: var(--astra-warning);
+    --bs-danger: var(--astra-danger);
+    
+    --bs-light: var(--astra-text);
+    --bs-dark: var(--astra-void);
+
+    /* --- THE VOID (Forced Dark Mode) --- */
+    --bs-body-bg: var(--astra-void);
+    --bs-body-bg-rgb: 5, 5, 8;
+    
+    --bs-body-color: var(--astra-text);
+    --bs-body-color-rgb: 224, 224, 255;
+    
+    --bs-border-color: #4B4B60;
+    
+    /* Links (High Contrast for Space) */
+    --bs-link-color: var(--astra-info);
+    --bs-link-hover-color: #FFFFFF;
+}
+
+/* extras-ad-astra.css */
 /* --- AD ASTRA EXTRAS --- */
 /* Starfield & Glassmorphism Utilities */
 
@@ -12004,114 +12011,279 @@ textarea.form-control-lg {
 
 .btn-primary {
     box-shadow: 0 0 15px rgba(112, 0, 255, 0.4);
+    border: 1px solid rgba(255,255,255,0.2);
 }
 .btn-primary:hover {
     box-shadow: 0 0 25px rgba(112, 0, 255, 0.8);
+    color: #fff;
 }
 
-/* --- 1. CRITICAL THEME OVERRIDES (INLINED TO BYPASS CACHE) --- */
+/* --- 1. CRITICAL THEME OVERRIDES --- */
 
-    
-    
-    /* FORCE Sidebar & Footer to be Dark */
-    .bg-body-tertiary {
-        background-color: rgba(5, 5, 10, 0.9) !important; /* Match Starfield */
-        color: #E0E0FF !important; /* Light Text */
-        border-color: #7000FF !important; /* Astra Violet Borders */
-    }
+/* FORCE Sidebar & Footer to be Dark */
+.bg-body-tertiary {
+    background-color: rgba(5, 5, 10, 0.9) !important; /* Match Starfield */
+    color: #E0E0FF !important; /* Light Text */
+    border-color: #7000FF !important; /* Astra Violet Borders */
+}
 
-    /* Fix Sidebar Links */
-    .bg-body-tertiary .nav-link {
-        color: #B0B0C0 !important; /* Light Grey */
-    }
-    .bg-body-tertiary .nav-link:hover, 
-    .bg-body-tertiary .nav-link.active {
-        color: #00FFFF !important; /* Astra Cyan */
-        background-color: rgba(112, 0, 255, 0.2); /* Violet Highlight */
-    }
-    
-    /* Fix Footer Text */
-    .bg-body-tertiary .text-body-secondary,
-    .bg-body-tertiary .text-white {
-        color: #A0A0C0 !important; /* Readable Dim Text */
-    }
-    .bg-body-tertiary a {
-        color: #FFD700 !important; /* Astra Gold Links */
-    }
+/* Fix Sidebar Links */
+.bg-body-tertiary .nav-link {
+    color: #B0B0C0 !important; /* Light Grey */
+}
+.bg-body-tertiary .nav-link:hover, 
+.bg-body-tertiary .nav-link.active {
+    color: #00FFFF !important; /* Astra Cyan */
+    background-color: rgba(112, 0, 255, 0.2); /* Violet Highlight */
+}
 
-    /* --- 2. STARFIELD BACKGROUND --- */
-    @keyframes move-twink-back { from {background-position:0 0;} to {background-position:-10000px 5000px;} }
-    .starfield-container { position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: block; z-index: -1; background: #050508 url('https://assets.raggiesoft.com/common/patterns/stars-transparent.png') repeat top center; }
-    .starfield-twinkling{ background: transparent url('https://assets.raggiesoft.com/common/patterns/twinkling.png') repeat top center; z-index: -1; position: absolute; top: 0; left: 0; width: 100%; height: 100%; animation: move-twink-back 200s linear infinite; opacity: 0.3; }
-    
-    /* --- 3. UI COMPONENT FIXES --- */
-    
-    /* Glass Container (Main Content) */
-    .glass-container {
-        position: relative;
-        background: rgba(5, 5, 8, 0.85); 
-    }
-    .glass-container::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        z-index: -1;
-        backdrop-filter: blur(10px); 
-    }
+/* Fix Footer Text */
+.bg-body-tertiary .text-body-secondary,
+.bg-body-tertiary .text-white {
+    color: #A0A0C0 !important; /* Readable Dim Text */
+}
+.bg-body-tertiary a {
+    color: #FFD700 !important; /* Astra Gold Links */
+}
 
-    /* Glass Card (Tracklist) - Allows Fixed Children */
-    .glass-card {
-        position: relative;
-        background: rgba(5, 5, 8, 0.85);
-        border: 1px solid #7000FF; /* Violet Border */
-        overflow: visible; 
-    }
-    .glass-card::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        z-index: -1;
-        backdrop-filter: blur(10px);
-        border-radius: var(--bs-card-border-radius);
-    }
+/* --- 2. STARFIELD BACKGROUND --- */
+@keyframes move-twink-back { from {background-position:0 0;} to {background-position:-10000px 5000px;} }
 
-    /* Terminal Style */
-    .terminal-card {
-        background-color: rgba(10, 20, 10, 0.95); 
-        border: 1px solid #00FF41; 
-        font-family: 'Courier New', Courier, monospace;
-        color: #00FF41;
-        box-shadow: 0 0 15px rgba(0, 255, 65, 0.15);
-        font-size: 0.9rem;
-        line-height: 1.4;
-    }
-    .terminal-header {
-        border-bottom: 1px solid #00FF41;
-        padding-bottom: 10px;
-        margin-bottom: 15px;
-        font-weight: bold;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-    }
-    
-    .timestamp-link { cursor: pointer; transition: all 0.2s ease; text-decoration: none; }
-    .timestamp-link:hover { color: #00FFFF !important; text-shadow: 0 0 8px #00FFFF; }
-	
-	/* --- AD ASTRA SAFETY NET --- */
-/* Force overrides to kill Light Mode behaviors */
+.starfield-container { 
+    position: fixed; 
+    top: 0; left: 0; 
+    width: 100%; height: 100%; 
+    display: block; 
+    z-index: -1; 
+    background: #050508 url('https://assets.raggiesoft.com/common/patterns/stars-transparent.png') repeat top center; 
+}
+.starfield-twinkling { 
+    background: transparent url('https://assets.raggiesoft.com/common/patterns/twinkling.png') repeat top center; 
+    z-index: -1; 
+    position: absolute; 
+    top: 0; left: 0; 
+    width: 100%; height: 100%; 
+    animation: move-twink-back 200s linear infinite; 
+    opacity: 0.3; 
+}
 
-.text-body { color: var(--bs-body-color) !important; }
-.text-light { color: var(--bs-light) !important; opacity: 1 !important; }
-.text-dark { color: var(--bs-dark) !important; }
-.text-muted { color: var(--bs-secondary) !important; }
+/* --- 3. UI COMPONENT FIXES --- */
 
-.bg-light { background-color: var(--bs-tertiary-bg) !important; color: var(--bs-body-color) !important; }
-.bg-body-tertiary { background-color: rgba(20, 20, 35, 0.8) !important; color: var(--bs-body-color) !important; }
+/* Glass Container (Main Content) */
+.glass-container {
+    position: relative;
+    background: rgba(5, 5, 8, 0.85); 
+}
+.glass-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    backdrop-filter: blur(10px); 
+}
 
-/* Navbar Fixes */
-.navbar-toggler .hamburger-bar { background-color: #E0E0FF !important; }
+/* Glass Card (Tracklist) - Allows Fixed Children */
+.glass-card {
+    position: relative;
+    background: rgba(5, 5, 8, 0.85);
+    border: 1px solid #7000FF; /* Violet Border */
+    overflow: visible; 
+}
+.glass-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    backdrop-filter: blur(10px);
+    border-radius: var(--bs-card-border-radius);
+}
+
+/* Terminal Style */
+.terminal-card {
+    background-color: rgba(10, 20, 10, 0.95); 
+    border: 1px solid #00FF41; 
+    font-family: 'Courier New', Courier, monospace;
+    color: #00FF41;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.15);
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.terminal-header {
+    border-bottom: 1px solid #00FF41;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.timestamp-link { cursor: pointer; transition: all 0.2s ease; text-decoration: none; }
+.timestamp-link:hover { color: #00FFFF !important; text-shadow: 0 0 8px #00FFFF; }
+
+/* bootstrap-header.css (NUCLEAR OPTION) */
+/* Forces Dark Header on All Themes */
+
+/* 1. Force Dark Background on Navbar */
+/* Specificity: 0,1,2 (Tag + Class + Class) -> Beats 0,1,0 */
+body header .navbar {
+    background-color: #050508 !important; /* Void Black */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 2. Force Light Text */
+body header .navbar .navbar-brand,
+body header .navbar .nav-link,
+body header .navbar .btn-link {
+    color: #E0E0FF !important;
+}
+
+/* 3. Hover States */
+body header .navbar .nav-link:hover,
+body header .navbar .nav-link.active {
+    color: #00FFFF !important; /* Cyan Glow */
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* 4. Hamburger Menu */
+body header .navbar-toggler .hamburger-bar {
+    background-color: #E0E0FF !important;
+}
+body header .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 5. Dropdowns */
+body header .dropdown-menu {
+    background-color: #1a1a2e !important;
+    border-color: #444 !important;
+}
+body header .dropdown-item {
+    color: #E0E0FF !important;
+}
+body header .dropdown-item:hover {
+    background-color: var(--bs-primary) !important;
+    color: #fff !important;
+}
+
+/* ==========================================================================
+ * GLOBAL FOOTER & KONAMI MODULE (Always Dark Identity)
+ * ========================================================================== */
+
+/* 1. Force Dark Footer Background & Text */
+footer {
+    background-color: #050508 !important; /* Void Black */
+    color: #E0E0FF !important;            /* Stardust White */
+    border-top: 1px solid var(--bs-primary) !important;
+}
+
+/* 2. Fix Muted Text in Footer (Copyrights) */
+footer .text-body-secondary,
+footer .text-muted {
+    color: #B0B0C0 !important; /* Readable Grey on Black */
+}
+
+/* 3. Footer Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: #E0E0FF !important;
+    text-decoration: none;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: #00FFFF !important; /* Cyan Glow */
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
+}
+
+/* 4. Ensure Font Awesome Icons Inherit Color */
+footer i {
+    color: inherit !important;
+}
+
+/* ==========================================================================
+ * KONAMI CODE MODAL (Secret Module)
+ * Forces a Sci-Fi Dark Theme regardless of the page setting
+ * ========================================================================== */
+
+/* 1. Modal Dialog Container */
+#konamiModal .modal-content {
+    background-color: #0D061A !important; /* Deep Purple/Black */
+    border: 2px solid #7000FF !important; /* Astra Violet Border */
+    color: #E0E0FF !important;            /* Light Text */
+    box-shadow: 0 0 30px rgba(112, 0, 255, 0.3) !important; /* Violet Glow */
+}
+
+/* 2. Modal Header */
+#konamiModal .modal-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+#konamiModal .modal-title {
+    color: #FFD700 !important; /* Gold Title */
+    font-family: 'Audiowide', cursive !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 3. Close Button (Force White) */
+#konamiModal .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%) !important;
+}
+
+/* 4. Modal Body Text */
+#konamiModal .modal-body .text-muted {
+    color: #B0B0C0 !important;
+}
+
+/* 5. Action Button (Launch Mission) */
+#konamiModal .btn-primary {
+    background-color: #7000FF !important; /* Force Astra Violet */
+    border-color: #7000FF !important;
+    color: #FFFFFF !important;
+    font-family: 'Audiowide', cursive !important;
+    letter-spacing: 1px;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.4);
+    transition: all 0.2s ease-in-out;
+}
+
+#konamiModal .btn-primary:hover {
+    background-color: #8A2BE2 !important;
+    box-shadow: 0 0 25px rgba(112, 0, 255, 0.8);
+    transform: translateY(-2px);
+}
+
+/* safety-net-ad-astra.css */
+/* Overrides for The Void */
+
+/* 1. Typography (Sci-Fi) */
+body { 
+    font-family: 'Exo 2', monospace; /* Tech feel */
+}
+h1, h2, h3, h4, h5, h6, .navbar-brand { 
+    font-family: 'Audiowide', cursive; /* Headers */
+    color: #FFFFFF;
+}
+
+/* 2. Component Textures (Glassmorphism compatibility) */
+.card {
+    background-color: rgba(255, 255, 255, 0.05); /* Faint Glass */
+    border-color: var(--bs-secondary);
+    backdrop-filter: blur(5px); /* Frost effect */
+}
+
+/* 3. Navbar Visibility */
+/* Force the brand and hamburger to be visible against space */
 .navbar-brand { color: #FFFFFF !important; }
+.navbar-toggler .hamburger-bar { background-color: #FFFFFF !important; }
 
-/* Font Overrides */
-body { font-family: 'Exo 2', monospace; }
-h1, h2, h3, h4, h5, h6 { font-family: 'Audiowide', sans-serif; color: #FFFFFF; }
+/* 4. Light Mode Kill Switch */
+/* If a class explicitly requests .bg-light, we force it dark/glass anyway */
+.bg-light { 
+    background-color: rgba(255, 255, 255, 0.1) !important; 
+    color: var(--bs-body-color) !important; 
+}
+.text-dark { 
+    color: #FFFFFF !important; 
+}

@@ -1,63 +1,4 @@
-/* RaggieSoft Build: bootstrap-sites-common.css */
-/* Context: sites :: common */
-/* Date: Sat, Nov 29, 2025 10:39:01 AM */
-:root {
-    /* --- RaggieSoft Custom Color Swatches --- */
-    --mpr-blue-50: rgb(245 250 253);
-    --mpr-blue-100: rgb(220 239 248);
-    --mpr-blue-200: rgb(194 227 243);
-    --mpr-blue-300: rgb(164 214 237);
-    --mpr-blue-400: rgb(122 195 229);
-    --mpr-blue-500: rgb(66 170 219);   /* PRIMARY */
-    --mpr-blue-600: rgb(37 141 189);
-    --mpr-blue-700: rgb(30 115 155);
-    --mpr-blue-800: rgb(25, 95, 128);
-    --mpr-blue-900: rgb(18 68 91);
-    --mpr-blue-950: rgb(11, 42, 56);
-}
-
-:root,
-[data-bs-theme=light] {
-    /* --- BOOTSTRAP MAPPING --- */
-    
-    /* Primary = RaggieSoft Blue 500 */
-    --bs-primary: #42AADB; 
-    --bs-primary-rgb: 66, 170, 219;
-    
-    /* Secondary = Slate Grey */
-    --bs-secondary: #6c757d;
-    --bs-secondary-rgb: 108, 117, 125;
-
-    /* Success/Info/Warning/Danger (Standard Clean) */
-    --bs-success: #198754;
-    --bs-info: #0dcaf0;
-    --bs-warning: #ffc107;
-    --bs-danger: #dc3545;
-    
-    /* Body (Clean Professional Light) */
-    --bs-body-bg: #f8f9fa;
-    --bs-body-color: #212529;
-    --bs-body-bg-rgb: 248, 249, 250;
-    --bs-body-color-rgb: 33, 37, 41;
-
-    /* Links */
-    --bs-link-color: #42AADB;
-    --bs-link-hover-color: #258DBD; /* Blue 600 */
-
-    /* Component Vars */
-    --bs-border-color: #dee2e6;
-    --bs-border-radius: 0.375rem;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        /* Dark Mode Auto-Switch */
-        --bs-body-bg: #121212;
-        --bs-body-color: #e0e0e0;
-        --bs-border-color: #2c2c2c;
-        --bs-secondary: #adb5bd;
-    }
-}*,
+*,
 *::before,
 *::after {
   box-sizing: border-box;
@@ -583,7 +524,7 @@ progress {
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "ï¿½ï¿½";
 }
 
 .img-fluid {
@@ -11921,20 +11862,388 @@ textarea.form-control-lg {
   }
 }
 
-/*# sourceMappingURL=bootstrap.css.map *//* --- RAGGIESOFT COMMON SAFETY NET --- */
+/*# sourceMappingURL=bootstrap.css.map */
 
-/* Enforce Font Stack */
+/* /assets/css/bootstrap-overrides.css */
+/* Contains rules to ensure Bootstrap components use theme variables correctly */
+
+/*
+ * ========================================
+ * Animated Hamburger Icon Fix (v2)
+ * ========================================
+ */
+
+/* 1. Reset the default Bootstrap toggler and set up our spans */
+.navbar-toggler {
+    /* Remove default Bootstrap icon */
+    background-image: none;
+    border: none;
+    padding: 0;
+    width: 30px; /* Set a fixed size for the icon */
+    height: 24px;
+    position: relative;
+    transform: rotate(0deg);
+    transition: .5s ease-in-out;
+    cursor: pointer;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none; /* Remove the Bootstrap focus ring */
+}
+
+/* 2. Style the three hamburger bars */
+.hamburger-bar {
+    display: block;
+    position: absolute;
+    height: 3px;
+    width: 100%;
+    background: var(--bs-body-color); /* Use theme's text color */
+    border-radius: 3px;
+    opacity: 1;
+    left: 0;
+    transform: rotate(0deg);
+    transition: .25s ease-in-out;
+}
+
+/* 3. This is the default "hamburger" state (button.collapsed) */
+.hamburger-bar:nth-child(1) {
+    top: 0px;
+}
+
+.hamburger-bar:nth-child(2) {
+    top: 10px;
+}
+
+.hamburger-bar:nth-child(3) {
+    top: 20px;
+}
+
+/* 4. This is the "X" state (button:not(.collapsed)) */
+.navbar-toggler:not(.collapsed) .hamburger-bar:nth-child(1) {
+    top: 10px;
+    transform: rotate(135deg);
+    background: var(--bs-danger); /* Optional: Change color to red on 'X' */
+}
+
+.navbar-toggler:not(.collapsed) .hamburger-bar:nth-child(2) {
+    opacity: 0; /* Hide the middle bar */
+    transform: translateX(-20px);
+}
+
+.navbar-toggler:not(.collapsed) .hamburger-bar:nth-child(3) {
+    top: 10px;
+    transform: rotate(-135deg);
+    background: var(--bs-danger); /* Optional: Change color to red on 'X' */
+}
+
+/* 5. Fix for dark mode (the default bar color) */
+@media (prefers-color-scheme: dark) {
+    .hamburger-bar {
+        background: var(--bs-body-color); /* Use the light text color in dark mode */
+    }
+}
+
+/* root-raggiesoft.css */
+/* RaggieSoft Corporate Identity - The "Common" Theme */
+
+:root {
+    /* --- Brand Palette --- */
+    --mpr-blue-500: #42AADB;   /* Primary Brand Blue */
+    --mpr-blue-600: #258DBD;   /* Hover State */
+    
+    /* --- Utility Bases --- */
+    --bs-white: #fff;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-black: #000;
+    --bs-black-rgb: 0, 0, 0;
+}
+
+/* --- LIGHT MODE (Default) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Bootstrap Mapping */
+    --bs-primary: #42AADB;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    
+    /* RGB Values (Crucial for Glass/HUDs) */
+    --bs-primary-rgb: 66, 170, 219;
+    --bs-secondary-rgb: 108, 117, 125;
+    --bs-info-rgb: 13, 202, 240;
+    --bs-warning-rgb: 255, 193, 7;
+    --bs-danger-rgb: 220, 53, 69;
+    
+    /* Corporate Light Base */
+    --bs-body-bg: #ffffff;          /* Pure White Paper */
+    --bs-body-color: #212529;       /* Standard Dark Grey */
+    --bs-body-bg-rgb: 255, 255, 255;
+    --bs-body-color-rgb: 33, 37, 41;
+
+    --bs-link-color: #42AADB;
+    --bs-link-hover-color: #258DBD;
+    --bs-border-color: #dee2e6;
+}
+
+/* --- DARK MODE --- */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bs-body-bg: #121212;      /* Corporate Dark */
+        --bs-body-color: #e0e0e0;   /* Off-White Text */
+        --bs-body-bg-rgb: 18, 18, 18;
+        --bs-body-color-rgb: 224, 224, 224;
+
+        --bs-border-color: #2c2c2c;
+        --bs-secondary: #adb5bd;
+        --bs-link-color: #66c2ff;   /* Lighter blue for contrast */
+        --bs-link-hover-color: #ffffff;
+        --bs-tertiary-bg: #1f1f1f;
+    }
+}
+
+[data-bs-theme="dark"] {
+    --bs-body-bg: #121212;
+    --bs-body-color: #e0e0e0;
+    --bs-body-bg-rgb: 18, 18, 18;
+    --bs-body-color-rgb: 224, 224, 224;
+    --bs-border-color: #2c2c2c;
+    --bs-secondary: #adb5bd;
+    --bs-link-color: #66c2ff;
+    --bs-link-hover-color: #ffffff;
+    --bs-tertiary-bg: #1f1f1f;
+}
+
+/* extras-raggiesoft.css */
+/* Clean Glass Utilities for Corporate Theme */
+
+/* 1. Professional Text Gradient (Subtle) */
+.text-glow-primary {
+    background: linear-gradient(120deg, var(--bs-primary), #258DBD);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* No glow filter for corporate look, just clean gradient */
+}
+
+/* 2. HUD System (Corporate Glass) */
+/* These match the Stardust names but look cleaner/flatter */
+
+.bg-hud-blue {
+    background-color: rgba(var(--bs-info-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-info-rgb), 0.2);
+    border-left: 4px solid var(--bs-info); /* Professional Accent */
+    color: var(--bs-body-color);
+}
+/* Fix for Dark Header Requirement: If this is used in a dark area, text must be light */
+[data-bs-theme="dark"] .bg-hud-blue,
+@media (prefers-color-scheme: dark) {
+    .bg-hud-blue { color: #fff !important; }
+}
+
+.bg-hud-green {
+    background-color: rgba(var(--bs-success-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-success-rgb), 0.2);
+    border-left: 4px solid var(--bs-success);
+    color: var(--bs-body-color);
+}
+
+.bg-hud-orange, .bg-hud-warning {
+    background-color: rgba(var(--bs-warning-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-warning-rgb), 0.2);
+    border-left: 4px solid var(--bs-warning);
+    color: var(--bs-body-color);
+}
+
+.bg-hud-red {
+    background-color: rgba(var(--bs-danger-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-danger-rgb), 0.2);
+    border-left: 4px solid var(--bs-danger);
+    color: var(--bs-body-color);
+}
+
+/* 3. Subtle Container Styles */
+.border-glow {
+    border: 1px solid var(--bs-border-color) !important;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Standard Drop Shadow, not Glow */
+}
+.shadow-glow {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* 4. Font Awesome */
+.fa-duotone {
+    --fa-primary-color: var(--bs-primary);
+    --fa-secondary-color: var(--bs-secondary);
+}
+
+/* bootstrap-header.css (NUCLEAR OPTION) */
+/* Forces Dark Header on All Themes */
+
+/* 1. Force Dark Background on Navbar */
+/* Specificity: 0,1,2 (Tag + Class + Class) -> Beats 0,1,0 */
+body header .navbar {
+    background-color: #050508 !important; /* Void Black */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 2. Force Light Text */
+body header .navbar .navbar-brand,
+body header .navbar .nav-link,
+body header .navbar .btn-link {
+    color: #E0E0FF !important;
+}
+
+/* 3. Hover States */
+body header .navbar .nav-link:hover,
+body header .navbar .nav-link.active {
+    color: #00FFFF !important; /* Cyan Glow */
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* 4. Hamburger Menu */
+body header .navbar-toggler .hamburger-bar {
+    background-color: #E0E0FF !important;
+}
+body header .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+/* 5. Dropdowns */
+body header .dropdown-menu {
+    background-color: #1a1a2e !important;
+    border-color: #444 !important;
+}
+body header .dropdown-item {
+    color: #E0E0FF !important;
+}
+body header .dropdown-item:hover {
+    background-color: var(--bs-primary) !important;
+    color: #fff !important;
+}
+
+/* ==========================================================================
+ * GLOBAL FOOTER & KONAMI MODULE (Always Dark Identity)
+ * ========================================================================== */
+
+/* 1. Force Dark Footer Background & Text */
+footer {
+    background-color: #050508 !important; /* Void Black */
+    color: #E0E0FF !important;            /* Stardust White */
+    border-top: 1px solid var(--bs-primary) !important;
+}
+
+/* 2. Fix Muted Text in Footer (Copyrights) */
+footer .text-body-secondary,
+footer .text-muted {
+    color: #B0B0C0 !important; /* Readable Grey on Black */
+}
+
+/* 3. Footer Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: #E0E0FF !important;
+    text-decoration: none;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: #00FFFF !important; /* Cyan Glow */
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
+}
+
+/* 4. Ensure Font Awesome Icons Inherit Color */
+footer i {
+    color: inherit !important;
+}
+
+/* ==========================================================================
+ * KONAMI CODE MODAL (Secret Module)
+ * Forces a Sci-Fi Dark Theme regardless of the page setting
+ * ========================================================================== */
+
+/* 1. Modal Dialog Container */
+#konamiModal .modal-content {
+    background-color: #0D061A !important; /* Deep Purple/Black */
+    border: 2px solid #7000FF !important; /* Astra Violet Border */
+    color: #E0E0FF !important;            /* Light Text */
+    box-shadow: 0 0 30px rgba(112, 0, 255, 0.3) !important; /* Violet Glow */
+}
+
+/* 2. Modal Header */
+#konamiModal .modal-header {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+#konamiModal .modal-title {
+    color: #FFD700 !important; /* Gold Title */
+    font-family: 'Audiowide', cursive !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 3. Close Button (Force White) */
+#konamiModal .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%) !important;
+}
+
+/* 4. Modal Body Text */
+#konamiModal .modal-body .text-muted {
+    color: #B0B0C0 !important;
+}
+
+/* 5. Action Button (Launch Mission) */
+#konamiModal .btn-primary {
+    background-color: #7000FF !important; /* Force Astra Violet */
+    border-color: #7000FF !important;
+    color: #FFFFFF !important;
+    font-family: 'Audiowide', cursive !important;
+    letter-spacing: 1px;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.4);
+    transition: all 0.2s ease-in-out;
+}
+
+#konamiModal .btn-primary:hover {
+    background-color: #8A2BE2 !important;
+    box-shadow: 0 0 25px rgba(112, 0, 255, 0.8);
+    transform: translateY(-2px);
+}
+
+/* safety-net-raggiesoft.css */
+/* RaggieSoft Corporate Overrides */
+
+/* 1. Enforce System Font Stack (Fast, Clean, Native) */
 body {
     font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.02em; /* Modern tight tracking */
+}
 
-/* Fix Button Contrast on Primary */
+/* 2. Fix Button Contrast */
+/* RaggieSoft Blue is light, so text must be WHITE */
 .btn-primary {
-    color: #ffffff;
+    color: #ffffff !important;
     background-color: var(--bs-primary);
     border-color: var(--bs-primary);
 }
-.btn-primary:hover {
-    background-color: var(--mpr-blue-600);
-    border-color: var(--mpr-blue-600);
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: var(--mpr-blue-600) !important;
+    border-color: var(--mpr-blue-600) !important;
+    color: #ffffff !important;
+}
+
+/* 3. Navbar Safety Net (Redundant Check) */
+/* Even though bootstrap-base.css handles this, we ensure it here */
+header .navbar {
+    background-color: #050508 !important; 
+}
+header .navbar-brand, 
+header .nav-link {
+    color: #E0E0FF !important;
 }
