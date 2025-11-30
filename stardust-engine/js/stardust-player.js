@@ -1,10 +1,10 @@
 /**
- * Stardust Player Engine v2.1
- * Features:
- * - Media Session API (Lock Screen)
- * - Robust Lyrics Parser (Regex Headers)
- * - Repeat / Shuffle Logic
- * - Time Remaining Fix (.load())
+ * Stardust Player Engine v2.2 (The "Ad Astra" Stability Patch)
+ * Changes:
+ * - Switched from Streaming (src=URL) to Blob Fetch (fetch -> blob -> objectURL)
+ * - This forces HTTP 200 OK downloads, bypassing HTTP 206 Partial Content errors.
+ * - Added "Buffering" UI states to Player and Playlist rows.
+ * - Added memory management (revokeObjectURL) to prevent RAM leaks.
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const playlist = window.STARDUST_PLAYLIST;
     let currentIndex = -1;
+    let currentBlobUrl = null; // Track the memory object to clean it up later
 
     // 2. State & Settings
     const REPEAT_MODES = ['none', 'all', 'one', 'album'];
@@ -43,7 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         btnShuffle: document.getElementById('player-shuffle'),
         btnLyrics: document.getElementById('player-lyrics'),
         btnClose: document.getElementById('btn-close-player'),
-        // Modal (Note: We use the Bootstrap API)
+        // Modal
         modalElement: document.getElementById('lyricsModal'),
         modalTitle: document.getElementById('lyricsModalTitle'),
         modalContent: document.getElementById('lyricsContent')
@@ -107,19 +108,30 @@ document.addEventListener('DOMContentLoaded', () => {
         dom.btnNext.disabled = (repeatMode !== 'all' && repeatMode !== 'album' && !isShuffle && currentIndex === playlist.length - 1);
     }
 
-    // --- CORE: LOAD TRACK ---
+    // --- CORE: LOAD TRACK (FETCH AS BLOB) ---
     window.loadTrack = function(index, autoPlay = true) {
         if (index < 0 || index >= playlist.length) return;
+
+        // A. Garbage Collection: Revoke previous blob to free RAM
+        if (currentBlobUrl) {
+            URL.revokeObjectURL(currentBlobUrl);
+            currentBlobUrl = null;
+        }
 
         currentIndex = index;
         const track = playlist[index];
 
-        // UI
+        // B. UI Feedback: "We are working on it"
         dom.player.classList.remove('d-none');
-        dom.title.textContent = track.title;
+        
+        // 1. Update Player Bar to "Buffering..."
+        dom.title.innerHTML = `
+            <span class="spinner-border spinner-border-sm text-primary me-2" role="status"></span>
+            <span class="text-muted fst-italic">Buffering ${track.title}...</span>
+        `;
         dom.art.src = track.artwork;
 
-        // Highlight Active Row
+        // 2. Highlight Active Row with Spinner
         document.querySelectorAll('.track-row').forEach(row => {
             row.classList.remove('bg-primary', 'bg-opacity-25');
             const icon = row.querySelector('.play-indicator');
@@ -130,40 +142,62 @@ document.addEventListener('DOMContentLoaded', () => {
         if(activeRow) {
             activeRow.classList.add('bg-primary', 'bg-opacity-25');
             const icon = activeRow.querySelector('.play-indicator');
-            if(icon) icon.className = 'fa-duotone fa-volume-high fs-4 text-white play-indicator';
+            if(icon) icon.className = 'spinner-border spinner-border-sm text-light play-indicator'; // Spinner
         }
-
-        // Audio State Reset
-        dom.audio.pause();
-        dom.audio.src = track.src;
-        dom.audio.load(); // Forces browser to dump old duration/buffer
 
         // Update Metadata Buttons
         dom.btnLyrics.setAttribute('data-title', track.title);
         dom.btnLyrics.setAttribute('data-url', track.lyrics);
+        updateControlUI(); // Disable buttons while loading if you prefer, or leave active
 
-        // Media Session
-        if ('mediaSession' in navigator) {
-            navigator.mediaSession.metadata = new MediaMetadata({
-                title: track.title, artist: track.artist, album: track.album,
-                artwork: [
-                    { src: track.artwork, sizes: '96x96', type: 'image/jpeg' },
-                    { src: track.artwork, sizes: '128x128', type: 'image/jpeg' },
-                    { src: track.artwork, sizes: '192x192', type: 'image/jpeg' },
-                    { src: track.artwork, sizes: '256x256', type: 'image/jpeg' },
-                    { src: track.artwork, sizes: '384x384', type: 'image/jpeg' },
-                    { src: track.artwork, sizes: '512x512', type: 'image/jpeg' }
-                ]
+        // C. THE NETWORK FETCH
+        // Instead of setting src=URL, we download the whole file.
+        fetch(track.src)
+            .then(response => {
+                if (!response.ok) throw new Error(`HTTP Error ${response.status}`);
+                return response.blob();
+            })
+            .then(blob => {
+                // D. Success: Convert Blob to ObjectURL
+                currentBlobUrl = URL.createObjectURL(blob);
+                dom.audio.src = currentBlobUrl;
+                
+                // Visual Success State
+                dom.title.textContent = track.title;
+                if(activeRow) {
+                    const icon = activeRow.querySelector('.play-indicator');
+                    if(icon) icon.className = 'fa-duotone fa-volume-high fs-4 text-white play-indicator';
+                }
+
+                // Play
+                dom.audio.load(); 
+                if (autoPlay) {
+                    dom.audio.play().catch(e => console.warn("Autoplay blocked:", e));
+                }
+
+                // Setup Media Session (Lock Screen)
+                if ('mediaSession' in navigator) {
+                    navigator.mediaSession.metadata = new MediaMetadata({
+                        title: track.title, artist: track.artist, album: track.album,
+                        artwork: [
+                            { src: track.artwork, sizes: '96x96', type: 'image/jpeg' },
+                            { src: track.artwork, sizes: '512x512', type: 'image/jpeg' }
+                        ]
+                    });
+                    navigator.mediaSession.setActionHandler('previoustrack', () => loadTrack(getNextIndex(-1)));
+                    navigator.mediaSession.setActionHandler('nexttrack', () => loadTrack(getNextIndex(1)));
+                    navigator.mediaSession.setActionHandler('play', () => dom.audio.play());
+                    navigator.mediaSession.setActionHandler('pause', () => dom.audio.pause());
+                }
+            })
+            .catch(err => {
+                console.error("Playback Error:", err);
+                dom.title.innerHTML = `<span class="text-danger"><i class="fa-duotone fa-triangle-exclamation me-2"></i>Load Failed</span>`;
+                if(activeRow) {
+                    const icon = activeRow.querySelector('.play-indicator');
+                    if(icon) icon.className = 'fa-duotone fa-circle-exclamation fs-4 text-danger play-indicator';
+                }
             });
-            navigator.mediaSession.setActionHandler('previoustrack', () => loadTrack(getNextIndex(-1)));
-            navigator.mediaSession.setActionHandler('nexttrack', () => loadTrack(getNextIndex(1)));
-            navigator.mediaSession.setActionHandler('play', () => dom.audio.play());
-            navigator.mediaSession.setActionHandler('pause', () => dom.audio.pause());
-        }
-
-        updateControlUI();
-
-        if (autoPlay) dom.audio.play().catch(e => console.warn("Autoplay blocked:", e));
     };
 
     // --- FEATURE: ROBUST LYRICS PARSER ---
@@ -183,9 +217,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return response.text();
             })
             .then(text => {
-                // Sanitize
                 let safeText = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                // Split by double newline (Paragraph blocks)
                 let blocks = safeText.split(/\n\s*\n/);
 
                 let htmlOutput = blocks.map(block => {
@@ -196,19 +228,16 @@ document.addEventListener('DOMContentLoaded', () => {
                     let contentLines = lines;
                     let firstLine = lines[0].trim();
 
-                    // Detect Main Headers (LORE NOTE:)
                     if (firstLine.match(/^\*\*[A-Z ]+:\*\*$/)) {
                         let cleanHeader = firstLine.replace(/\*\*/g, '');
                         headerHtml = `<h4 class="text-warning fw-bold border-bottom border-secondary pb-2 mb-3 mt-2">${cleanHeader}</h4>`;
                         contentLines = lines.slice(1);
                     }
-                    // Detect Section Headers (Verse/Chorus)
                     else if (firstLine.match(/^[\(\[].*?[\)\]]$/)) {
                         headerHtml = `<h5 class="text-info fw-bold text-uppercase mb-2 mt-2">${firstLine}</h5>`;
                         contentLines = lines.slice(1);
                     }
 
-                    // Process Bold Text in Body
                     let processedBody = contentLines.map(line => {
                         return line.replace(/\*\*(.*?)\*\*/g, '<strong class="text-body fw-bold">$1</strong>');
                     });
@@ -231,7 +260,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- EVENT BINDINGS ---
     
-    // Direct Bindings for List Buttons
     document.querySelectorAll('.btn-play-index').forEach(btn => {
         btn.addEventListener('click', (e) => {
             e.stopPropagation();

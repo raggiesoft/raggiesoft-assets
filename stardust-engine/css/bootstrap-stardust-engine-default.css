@@ -11943,8 +11943,9 @@ textarea.form-control-lg {
     }
 }
 
-/* root-standard.css */
-/* The Stardust Engine - Standard Identity */
+/* ==========================================================================
+ * STEP 2: ROOT VARIABLES (Theme: Standard / Default)
+ * ========================================================================== */
 
 :root {
   /* 1. Global Palette */
@@ -12026,8 +12027,9 @@ textarea.form-control-lg {
     --bs-tertiary-bg: #1C0F38;
 }
 
-/* extras-standard.css */
-/* Visual FX for the Default Stardust Theme */
+/* ==========================================================================
+ * STEP 3: EXTRAS (Visual FX)
+ * ========================================================================== */
 
 /* --- 1. Text Glows --- */
 .text-glow-primary {
@@ -12099,8 +12101,9 @@ textarea.form-control-lg {
     }
 }
 
-/* bootstrap-header.css (NUCLEAR OPTION) */
-/* Forces Dark Header on All Themes */
+/* ==========================================================================
+ * STEP 4: HEADER (Always Dark)
+ * ========================================================================== */
 
 /* 1. Force Dark Background on Navbar */
 /* Specificity: 0,1,2 (Tag + Class + Class) -> Beats 0,1,0 */
@@ -12145,7 +12148,7 @@ body header .dropdown-item:hover {
 }
 
 /* ==========================================================================
- * GLOBAL FOOTER & KONAMI MODULE (Always Dark Identity)
+ * STEP 5: FOOTER & PLAYER (Always Dark)
  * ========================================================================== */
 
 /* 1. Force Dark Footer Background & Text */
@@ -12181,12 +12184,7 @@ footer i {
     color: inherit !important;
 }
 
-/* ==========================================================================
- * KONAMI CODE MODAL (Secret Module)
- * Forces a Sci-Fi Dark Theme regardless of the page setting
- * ========================================================================== */
-
-/* 1. Modal Dialog Container */
+/* --- Konami Modal --- */
 #konamiModal .modal-content {
     background-color: #0D061A !important; /* Deep Purple/Black */
     border: 2px solid #7000FF !important; /* Astra Violet Border */
@@ -12194,7 +12192,6 @@ footer i {
     box-shadow: 0 0 30px rgba(112, 0, 255, 0.3) !important; /* Violet Glow */
 }
 
-/* 2. Modal Header */
 #konamiModal .modal-header {
     border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
 }
@@ -12206,17 +12203,14 @@ footer i {
     letter-spacing: 1px;
 }
 
-/* 3. Close Button (Force White) */
 #konamiModal .btn-close {
     filter: invert(1) grayscale(100%) brightness(200%) !important;
 }
 
-/* 4. Modal Body Text */
 #konamiModal .modal-body .text-muted {
     color: #B0B0C0 !important;
 }
 
-/* 5. Action Button (Launch Mission) */
 #konamiModal .btn-primary {
     background-color: #7000FF !important; /* Force Astra Violet */
     border-color: #7000FF !important;
@@ -12233,7 +12227,70 @@ footer i {
     transform: translateY(-2px);
 }
 
-/* safety-net-standard.css */
+/* --- Sticky Audio Player (FIXED POSITION & COLORS) --- */
+#sticky-audio-player {
+    /* 1. Visual Identity (The Void) */
+    background-color: #050508 !important; 
+    color: #E0E0FF !important;            
+    border-top: 1px solid #7000FF !important; /* Astra Violet Top Border */
+    
+    /* 2. Positioning & Layering */
+    position: fixed !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    z-index: 1060 !important; /* Higher than Bootstrap Modals (1055) */
+    
+    /* 3. Reset Box Model for stability */
+    box-sizing: border-box !important;
+    box-shadow: 0 -5px 25px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Force inner text elements to be light */
+#sticky-audio-player strong,
+#sticky-audio-player span,
+#sticky-audio-player i,
+#sticky-audio-player .text-truncate {
+    color: #E0E0FF !important;
+}
+
+/* Subtext styling */
+#sticky-audio-player .text-secondary, 
+#sticky-audio-player .text-muted {
+    color: #B0B0C0 !important;
+}
+
+/* Buttons: Ensure visibility against Void Black */
+#sticky-audio-player .btn-outline-secondary {
+    color: #B0B0C0;
+    border-color: #4B4B60;
+}
+#sticky-audio-player .btn-outline-secondary:hover,
+#sticky-audio-player .btn-outline-secondary.active {
+    color: #FFFFFF;
+    background-color: #4B4B60;
+    border-color: #E0E0FF;
+}
+
+/* Buffering Spinner: Force Cyan for high visibility */
+#sticky-audio-player .spinner-border {
+    color: #00FFFF !important; 
+    border-width: 0.15em;
+}
+
+/* Close Button: Force White Filter */
+#sticky-audio-player .btn-close {
+    filter: invert(1) grayscale(100%) brightness(200%) !important;
+    opacity: 0.8;
+}
+#sticky-audio-player .btn-close:hover {
+    opacity: 1;
+}
+
+/* ==========================================================================
+ * STEP 6: SAFETY NET (Overrides & Utility Fixes)
+ * ========================================================================== */
 
 /* 1. Typography (Kills Times New Roman) */
 body {
