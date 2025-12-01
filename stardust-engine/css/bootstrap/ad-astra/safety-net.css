@@ -1,0 +1,33 @@
+/* safety-net-ad-astra.css */
+/* Overrides for The Void */
+
+/* 1. Typography (Sci-Fi) */
+body { 
+    font-family: 'Exo 2', monospace; /* Tech feel */
+}
+h1, h2, h3, h4, h5, h6, .navbar-brand { 
+    font-family: 'Audiowide', cursive; /* Headers */
+    color: #FFFFFF;
+}
+
+/* 2. Component Textures (Glassmorphism compatibility) */
+.card {
+    background-color: rgba(255, 255, 255, 0.05); /* Faint Glass */
+    border-color: var(--bs-secondary);
+    backdrop-filter: blur(5px); /* Frost effect */
+}
+
+/* 3. Navbar Visibility */
+/* Force the brand and hamburger to be visible against space */
+.navbar-brand { color: #FFFFFF !important; }
+.navbar-toggler .hamburger-bar { background-color: #FFFFFF !important; }
+
+/* 4. Light Mode Kill Switch */
+/* If a class explicitly requests .bg-light, we force it dark/glass anyway */
+.bg-light { 
+    background-color: rgba(255, 255, 255, 0.1) !important; 
+    color: var(--bs-body-color) !important; 
+}
+.text-dark { 
+    color: #FFFFFF !important; 
+}

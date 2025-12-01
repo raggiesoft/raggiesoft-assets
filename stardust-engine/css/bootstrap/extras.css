@@ -1,0 +1,72 @@
+/* extras-standard.css */
+/* Visual FX for the Default Stardust Theme */
+
+/* --- 1. Text Glows --- */
+.text-glow-primary {
+    background: linear-gradient(45deg, var(--bs-primary), var(--bs-info));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 2px rgba(var(--bs-primary-rgb), 0.3));
+}
+
+/* --- 2. HUD System (The Fix) --- */
+/* Concept: Semi-transparent colored glass. 
+   ALWAYS light text, regardless of Light/Dark mode. */
+
+/* Blue HUD (Info) */
+.bg-hud-blue {
+    background-color: rgba(var(--bs-info-rgb), 0.15); /* Slight tint */
+    border: 1px solid rgba(var(--bs-info-rgb), 0.3);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important; /* FORCE WHITE TEXT */
+}
+.bg-hud-blue .text-muted {
+    color: rgba(255, 255, 255, 0.7) !important; /* Fix muted text too */
+}
+
+/* Green HUD (Success) */
+.bg-hud-green {
+    background-color: rgba(var(--bs-success-rgb), 0.15);
+    border: 1px solid rgba(var(--bs-success-rgb), 0.3);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+/* Red HUD (Danger) */
+.bg-hud-red {
+    background-color: rgba(var(--bs-danger-rgb), 0.15);
+    border: 1px solid rgba(var(--bs-danger-rgb), 0.3);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+/* Orange HUD (Warning) */
+.bg-hud-orange {
+    background-color: rgba(var(--bs-warning-rgb), 0.15);
+    border: 1px solid rgba(var(--bs-warning-rgb), 0.3);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+/* --- 3. Card & Container Glows --- */
+.border-glow {
+    border: 1px solid rgba(var(--bs-primary-rgb), 0.5) !important;
+    box-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.15);
+}
+
+.shadow-glow {
+    box-shadow: 0 5px 15px rgba(var(--bs-primary-rgb), 0.25);
+}
+
+/* --- 4. Font Awesome Overrides --- */
+.fa-duotone {
+    --fa-primary-color: var(--bs-primary);
+    --fa-secondary-color: var(--bs-secondary);
+}
+
+/* --- 5. Responsive Utilities --- */
+@media (min-width: 768px) {
+    .border-start-md {
+        border-left: var(--bs-border-width) solid var(--bs-border-color) !important;
+    }
+}

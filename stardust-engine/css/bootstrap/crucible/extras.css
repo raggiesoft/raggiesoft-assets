@@ -1,0 +1,64 @@
+/* extras-crucible.css */
+/* Visual FX for the Crucible Theme */
+
+/* 1. Text Glows (Maroon to Orange Fire) */
+.text-glow-primary {
+    background: linear-gradient(135deg, var(--bs-warning), var(--bs-primary));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 2px rgba(232, 119, 34, 0.3));
+}
+
+/* 2. HUD System (High Contrast Industrial Glass) */
+/* Note: color: #fff !important is critical here too */
+
+.bg-hud-blue, .bg-hud-info {
+    background-color: rgba(var(--bs-info-rgb), 0.2);
+    border: 1px solid rgba(var(--bs-info-rgb), 0.4);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+.bg-hud-green, .bg-hud-success {
+    background-color: rgba(var(--bs-success-rgb), 0.2);
+    border: 1px solid rgba(var(--bs-success-rgb), 0.4);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+.bg-hud-red, .bg-hud-danger {
+    background-color: rgba(var(--bs-danger-rgb), 0.2);
+    border: 1px solid rgba(var(--bs-danger-rgb), 0.4);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+.bg-hud-orange, .bg-hud-warning {
+    background-color: rgba(var(--bs-warning-rgb), 0.2);
+    border: 1px solid rgba(var(--bs-warning-rgb), 0.4);
+    backdrop-filter: blur(5px);
+    color: #ffffff !important;
+}
+
+/* 3. Container Glows */
+.border-glow {
+    border: 2px solid var(--bs-warning) !important; /* Thicker industrial border */
+    box-shadow: 0 0 20px rgba(var(--bs-warning-rgb), 0.2);
+}
+
+.shadow-glow {
+    box-shadow: 0 5px 15px rgba(var(--bs-primary-rgb), 0.4);
+}
+
+/* 4. Font Awesome */
+.fa-duotone {
+    --fa-primary-color: var(--bs-warning);
+    --fa-secondary-color: var(--bs-primary);
+}
+
+/* 5. Responsive Utilities */
+@media (min-width: 768px) {
+    .border-start-md {
+        border-left: 3px solid var(--bs-primary) !important; /* Thicker line */
+    }
+}

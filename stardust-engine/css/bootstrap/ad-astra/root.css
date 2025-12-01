@@ -1,0 +1,49 @@
+/* root-ad-astra.css */
+/* The Stardust Engine - "Escape Velocity" Theme */
+/* Concept: The Void. Infinite Black. Neon Highlights. */
+
+:root {
+  /* --- AD ASTRA PALETTE --- */
+  --astra-void: #050508;       /* Deepest Black */
+  --astra-text: #E0E0FF;       /* Starlight White */
+  --astra-primary: #7000FF;    /* Deep Violet (The Engine) */
+  --astra-secondary: #B0B0C0;  /* Hull Grey */
+  --astra-success: #00FF9D;    /* HUD Green */
+  --astra-info: #00FFFF;       /* HUD Cyan */
+  --astra-warning: #FFD700;    /* Star Gold */
+  --astra-danger: #FF0055;     /* Alert Red */
+}
+
+/* FORCE OVERRIDE: Apply to ALL modes */
+:root,
+[data-bs-theme="light"],
+[data-bs-theme="dark"] {
+    
+    /* --- BOOTSTRAP MAPPING --- */
+    --bs-primary: var(--astra-primary);
+    --bs-primary-rgb: 112, 0, 255;
+    
+    --bs-secondary: var(--astra-secondary);
+    --bs-secondary-rgb: 176, 176, 192;
+
+    --bs-success: var(--astra-success);
+    --bs-info: var(--astra-info);
+    --bs-warning: var(--astra-warning);
+    --bs-danger: var(--astra-danger);
+    
+    --bs-light: var(--astra-text);
+    --bs-dark: var(--astra-void);
+
+    /* --- THE VOID (Forced Dark Mode) --- */
+    --bs-body-bg: var(--astra-void);
+    --bs-body-bg-rgb: 5, 5, 8;
+    
+    --bs-body-color: var(--astra-text);
+    --bs-body-color-rgb: 224, 224, 255;
+    
+    --bs-border-color: #4B4B60;
+    
+    /* Links (High Contrast for Space) */
+    --bs-link-color: var(--astra-info);
+    --bs-link-hover-color: #FFFFFF;
+}

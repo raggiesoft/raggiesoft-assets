@@ -1,0 +1,54 @@
+/* safety-net-crucible.css */
+/* Overrides for "Live at The Crucible" */
+
+/* 1. Typography (Sports / Industrial Feel) */
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .display-4 {
+    font-family: "Impact", "Arial Black", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 2. Dark Mode Fixes */
+@media (prefers-color-scheme: dark) {
+    .alert-warning {
+        background-color: #3D1000;
+        border-color: #E87722;
+        color: #F8F9FA;
+    }
+    /* Fix Button Contrast: Black text on Orange button */
+    .btn-primary {
+        color: #000000 !important; 
+        background-color: var(--bs-primary);
+        border-color: var(--bs-primary);
+    }
+    
+    /* Fix Card transparency for Stadium Atmosphere */
+    .card {
+        background-color: rgba(255, 255, 255, 0.05);
+        border-color: var(--bs-border-color);
+    }
+    
+    /* Ensure Navbar text is white against the dark header */
+    .navbar-brand { color: #FFFFFF !important; }
+}
+
+[data-bs-theme="dark"] .alert-warning {
+    background-color: #3D1000;
+    border-color: #E87722;
+    color: #F8F9FA;
+}
+[data-bs-theme="dark"] .btn-primary {
+    color: #000000 !important;
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+}
+[data-bs-theme="dark"] .card {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: var(--bs-border-color);
+}
+[data-bs-theme="dark"] .navbar-brand { 
+    color: #FFFFFF !important; 
+}
