@@ -1,0 +1,43 @@
+/* safety-net.css (Theme: Gloom) */
+/* Overrides for High Contrast Dark Mode */
+
+/* 1. Navbar Override (Kill the Leather Look) */
+header .navbar {
+    background-color: #05000a !important; /* Deepest Black/Purple */
+    border-bottom: 1px solid #4A235A !important; /* Dim Purple Border */
+}
+
+header .navbar-brand {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 10px rgba(155, 89, 182, 0.5); /* Purple Glow */
+}
+
+header .nav-link {
+    color: #B0B0B0 !important; /* Dim Silver */
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: #FFFFFF !important;
+    background-color: rgba(74, 35, 90, 0.3) !important;
+}
+
+/* 2. Text Visibility Safety */
+/* Ensure no text accidentally stays dark brown from the default theme */
+body, p, li, span {
+    color: #E0E0E0;
+}
+
+.text-muted {
+    color: #888888 !important; /* Make sure muted text is readable on black */
+}
+
+/* 3. Button Overrides */
+.btn-outline-dark {
+    color: #C0C0C0;
+    border-color: #C0C0C0;
+}
+.btn-outline-dark:hover {
+    background-color: #C0C0C0;
+    color: #000;
+}

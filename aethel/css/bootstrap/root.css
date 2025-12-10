@@ -1,0 +1,50 @@
+/* root.css (Aethel - Default) */
+/* Theme: Sunstead / The Golden Sun */
+
+:root {
+  /* --- Global Fantasy Palette --- */
+  --aethel-gold: #D4AF37;       /* Sol-Aura */
+  --aethel-silver: #C0C0C0;     /* Lun-Argent */
+  --aethel-parchment: #F5E6C4;  /* Paper Background */
+  --aethel-ink: #2B1D1D;        /* Dark Brown Text (Softer than black) */
+  --aethel-rust: #8B4513;       /* Leather/Earth */
+  --aethel-void: #15051a;       /* For dark mode elements */
+  
+  /* --- Typography (Fantasy Standard) --- */
+  --font-fantasy-header: 'Cinzel', serif;
+  --font-fantasy-body: 'Crimson Text', serif;
+}
+
+/* Light Mode (The "Book" Look) */
+:root,
+[data-bs-theme="light"] {
+  /* Bootstrap Mapping */
+  --bs-primary: var(--aethel-rust);
+  --bs-secondary: #5c5c5c;
+  --bs-success: #2E8B57; 
+  --bs-info: var(--aethel-silver);
+  --bs-warning: var(--aethel-gold);
+  --bs-danger: #8B0000;
+  
+  /* Backgrounds */
+  --bs-body-bg: var(--aethel-parchment);
+  --bs-body-color: var(--aethel-ink);
+  
+  /* RGB Values for Glass/Opacity */
+  --bs-primary-rgb: 139, 69, 19;
+  --bs-warning-rgb: 212, 175, 55;
+  --bs-body-bg-rgb: 245, 230, 196;
+  
+  --bs-link-color: #5A3A22;
+  --bs-link-hover-color: #8B4513;
+  --bs-border-color: #D4C5A9;
+}
+
+/* Dark Mode Support (Optional) */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bs-body-bg: #2b1d1d; /* Dark Leather */
+    --bs-body-color: #F5E6C4;
+    --bs-border-color: #5A3A22;
+  }
+}

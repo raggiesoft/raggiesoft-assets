@@ -1,0 +1,151 @@
+{
+  "title": "The Silver Gauntlet of Aethel",
+  "base_path": "/library/aethel/aethel-book",
+  "structure": [
+    {
+      "id": "book-1",
+      "title": "Book I: The Silver Gauntlet",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "Chapter 1: The Age of Twilight",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Scholar of the Twin Suns" },
+            { "id": "part-2", "title": "Part 2: The Heresy of Order" },
+            { "id": "part-3", "title": "Part 3: The Flight of the Guardians" },
+            { "id": "part-4", "title": "Part 4: The Northern Wastes" },
+            { "id": "part-5", "title": "Part 5: The Foundlings of Sunstead" },
+            { "id": "part-6", "title": "Part 6: The Separation" }
+          ]
+        },
+        {
+          "id": "chapter-2",
+          "title": "Chapter 2: The Sundering of Sunstead",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: A Home in the Hearth" },
+            { "id": "part-2", "title": "Part 2: The First Spark" },
+            { "id": "part-3", "title": "Part 3: The Night of the Bowls" },
+            { "id": "part-4", "title": "Part 4: The Weaver's Lesson" },
+            { "id": "part-5", "title": "Part 5: The Wolf in the Canyon" },
+            { "id": "part-6", "title": "Part 6: The Merchant of Questions" },
+            { "id": "part-7", "title": "Part 7: The Unripe Fruit" },
+            { "id": "part-8", "title": "Part 8: The Last Sunset" }
+          ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "Chapter 3: The Silence of the Hearth",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Fading of the Guardian" },
+            { "id": "part-2", "title": "Part 2: The Cage of Silence" },
+            { "id": "part-3", "title": "Part 3: The Weight of the Shield" },
+            { "id": "part-4", "title": "Part 4: The Hollow Silence" },
+            { "id": "part-5", "title": "Part 5: The Armory of the Free" },
+            { "id": "part-6", "title": "Part 6: One Step at a Time" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "book-2",
+      "title": "Book II: The Shadow's Heart",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "Chapter 1: The Hunted and the Caged",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Hunter and the Hunted" },
+            { "id": "part-2", "title": "Part 2: A Cage of Silver Light" },
+            { "id": "part-3", "title": "Part 3: The Mirror and the Void" },
+            { "id": "part-4", "title": "Part 4: The Trial of the Crystal Spiders" },
+            { "id": "part-5", "title": "Part 5: The Sunken City of Sorrows" },
+            { "id": "part-6", "title": "Part 6: The Whispering Woods" },
+            { "id": "part-7", "title": "Part 7: The Unbroken Moon" },
+            { "id": "part-8", "title": "Part 8: Seeds of Rebellion" }
+          ]
+        },
+        {
+          "id": "chapter-2",
+          "title": "Chapter 2: The Tyrant's Throne",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: A Lord's Manifesto" },
+            { "id": "part-2", "title": "Part 2: A Question of Chaos" },
+            { "id": "part-3", "title": "Part 3: Sacrifice or Queen?" },
+            { "id": "part-4", "title": "Part 4: The Silverwing's Flight" }
+          ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "Chapter 3: The Last Temptation",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Oasis of Lies" },
+            { "id": "part-2", "title": "Part 2: The Broken Pawn" }
+          ]
+        },
+        {
+          "id": "chapter-4",
+          "title": "Chapter 4: The Bridge of a Thousand Truths",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Guardian's Gate" },
+            { "id": "part-2", "title": "Part 2: The Crucible" },
+            { "id": "part-3", "title": "Part 3: The Vision and the Vow" },
+            { "id": "part-4", "title": "Part 4: A Path of Light" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "book-3",
+      "title": "Book III: The Dawn of the Twins",
+      "chapters": [
+        {
+          "id": "chapter-1",
+          "title": "Chapter 1: The Siege of the Shadowspire",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: Embers of Hope" },
+            { "id": "part-2", "title": "Part 2: The Hall of Shattered Heroes" },
+            { "id": "part-3", "title": "Part 3: A Fortress Divided" },
+            { "id": "part-4", "title": "Part 4: The Ascent" }
+          ]
+        },
+        {
+          "id": "chapter-2",
+          "title": "Chapter 2: The Heart of the Gloom",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: Reunion" },
+            { "id": "part-2", "title": "Part 2: The Duel of the Eclipse" },
+            { "id": "part-3", "title": "Part 3: The Battle of Wills" },
+            { "id": "part-4", "title": "Part 4: The Circuit" },
+            { "id": "part-5", "title": "Part 5: An Empathetic Victory" }
+          ]
+        },
+        {
+          "id": "chapter-3",
+          "title": "Chapter 3: The Long Road Home",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The First Night" },
+            { "id": "part-2", "title": "Part 2: The River and the Dawn" },
+            { "id": "part-3", "title": "Part 3: The Shelter in the Woods" },
+            { "id": "part-4", "title": "Part 4: The Changing of the Leaves" }
+          ]
+        },
+        {
+          "id": "chapter-4",
+          "title": "Chapter 4: The Scouring of Sunstead",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Steward's Law" },
+            { "id": "part-2", "title": "Part 2: The Queen of Red Dust" },
+            { "id": "part-3", "title": "Part 3: The Town That Roared" }
+          ]
+        },
+        {
+          "id": "chapter-5",
+          "title": "Chapter 5: The Aftermath",
+          "parts": [
+            { "id": "part-1", "title": "Part 1: The Sound of Water" }
+          ]
+        }
+      ]
+    }
+  ]
+}

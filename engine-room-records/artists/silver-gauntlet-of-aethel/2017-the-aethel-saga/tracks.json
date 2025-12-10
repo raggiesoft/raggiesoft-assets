@@ -1,0 +1,196 @@
+{
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 1,
+      "title": "A Sister's Love (Main Theme)",
+      "fileName": "1-01-a-sisters-love"
+    },
+    {
+      "disc": 1,
+      "track": 2,
+      "title": "The Scholar of the Twin Suns",
+      "fileName": "1-02-the-scholar-of-the-twin-suns"
+    },
+    {
+      "disc": 1,
+      "track": 3,
+      "title": "The Heresy of Order",
+      "fileName": "1-03-the-heresy-of-order"
+    },
+    {
+      "disc": 1,
+      "track": 4,
+      "title": "Flight of the Guardians",
+      "fileName": "1-04-flight-of-the-guardians"
+    },
+    {
+      "disc": 1,
+      "track": 5,
+      "title": "The Northern Wastes",
+      "fileName": "1-05-the-northern-wastes"
+    },
+    {
+      "disc": 1,
+      "track": 6,
+      "title": "Foundlings of Sunstead",
+      "fileName": "1-06-foundlings-of-sunstead"
+    },
+    {
+      "disc": 1,
+      "track": 7,
+      "title": "Hearth-Song (Lullaby)",
+      "fileName": "1-07-hearth-song-lullaby"
+    },
+    {
+      "disc": 1,
+      "track": 8,
+      "title": "The Abduction",
+      "fileName": "1-08-the-abduction"
+    },
+    {
+      "disc": 1,
+      "track": 9,
+      "title": "One Step at a Time (The Gauntlet's Path)",
+      "fileName": "1-09-one-step-at-a-time"
+    },
+    {
+      "disc": 1,
+      "track": 10,
+      "title": "Sunken City of Sorrows",
+      "fileName": "1-10-sunken-city-of-sorrows"
+    },
+    {
+      "disc": 1,
+      "track": 11,
+      "title": "The Whispering Woods",
+      "fileName": "1-11-the-whispering-woods"
+    },
+    {
+      "disc": 2,
+      "track": 1,
+      "title": "Hunter and the Hunted",
+      "fileName": "2-01-hunter-and-the-hunted"
+    },
+    {
+      "disc": 2,
+      "track": 2,
+      "title": "A Cage of Silver Light",
+      "fileName": "2-02-a-cage-of-silver-light"
+    },
+    {
+      "disc": 2,
+      "track": 3,
+      "title": "Trial of the Crystal Spiders",
+      "fileName": "2-03-trial-of-the-crystal-spiders"
+    },
+    {
+      "disc": 2,
+      "track": 4,
+      "title": "Seeds of Rebellion",
+      "fileName": "2-04-seeds-of-rebellion"
+    },
+    {
+      "disc": 2,
+      "track": 5,
+      "title": "The Tyrant's Throne (Shadow's Heart)",
+      "fileName": "2-05-the-tyrants-throne"
+    },
+    {
+      "disc": 2,
+      "track": 6,
+      "title": "Sacrifice or Queen?",
+      "fileName": "2-06-sacrifice-or-queen"
+    },
+    {
+      "disc": 2,
+      "track": 7,
+      "title": "The Silverwing's Flight",
+      "fileName": "2-07-the-silverwings-flight"
+    },
+    {
+      "disc": 2,
+      "track": 8,
+      "title": "Guardian of the Bridge",
+      "fileName": "2-08-guardian-of-the-bridge"
+    },
+    {
+      "disc": 2,
+      "track": 9,
+      "title": "The Bridge of a Thousand Truths",
+      "fileName": "2-09-the-bridge-of-a-thousand-truths"
+    },
+    {
+      "disc": 2,
+      "track": 10,
+      "title": "I Can't Live Without You (Kaela's Theme)",
+      "fileName": "2-10-i-cant-live-without-you"
+    },
+    {
+      "disc": 2,
+      "track": 11,
+      "title": "A Path of Light",
+      "fileName": "2-11-a-path-of-light"
+    },
+    {
+      "disc": 3,
+      "track": 1,
+      "title": "Embers of Hope",
+      "fileName": "3-01-embers-of-hope"
+    },
+    {
+      "disc": 3,
+      "track": 2,
+      "title": "Hall of Shattered Heroes",
+      "fileName": "3-02-hall-of-shattered-heroes"
+    },
+    {
+      "disc": 3,
+      "track": 3,
+      "title": "The Ascent",
+      "fileName": "3-03-the-ascent"
+    },
+    {
+      "disc": 3,
+      "track": 4,
+      "title": "Reunion (The Highest Tower)",
+      "fileName": "3-04-reunion-the-highest-tower"
+    },
+    {
+      "disc": 3,
+      "track": 5,
+      "title": "Battle of Wills",
+      "fileName": "3-05-battle-of-wills"
+    },
+    {
+      "disc": 3,
+      "track": 6,
+      "title": "An Empathetic Victory",
+      "fileName": "3-06-an-empathetic-victory"
+    },
+    {
+      "disc": 3,
+      "track": 7,
+      "title": "A New Dawn (Finale)",
+      "fileName": "3-07-a-new-dawn-finale"
+    },
+    {
+      "disc": 3,
+      "track": 8,
+      "title": "The Long Road Home",
+      "fileName": "3-08-the-long-road-home"
+    },
+    {
+      "disc": 3,
+      "track": 9,
+      "title": "The Steward's Law",
+      "fileName": "3-09-the-stewards-law"
+    },
+    {
+      "disc": 3,
+      "track": 10,
+      "title": "The Twin Suns' Hearth (Epilogue)",
+      "fileName": "3-10-the-twin-suns-hearth-epilogue"
+    }
+  ]
+}

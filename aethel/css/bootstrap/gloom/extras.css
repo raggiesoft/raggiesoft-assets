@@ -1,0 +1,35 @@
+/* extras.css (Theme: Gloom) */
+/* Visual FX for Malakor's Void */
+
+/* 1. The Dark Tome Container */
+/* Overrides the parchment look with a deep, translucent purple glass */
+.tome-container {
+    background-color: rgba(21, 5, 26, 0.95) !important;
+    border: 1px solid var(--bs-border-color) !important;
+    color: var(--bs-body-color) !important;
+    box-shadow: 
+        0 0 40px rgba(46, 0, 62, 0.6), /* Purple outer glow */
+        inset 0 0 100px rgba(0, 0, 0, 0.8); /* Inner vignette */
+}
+
+/* 2. Silver Drop Caps */
+/* Replaces the Gold drop cap with Silver */
+.drop-cap {
+    color: #C0C0C0 !important; /* Silver */
+    text-shadow: 0 0 10px rgba(192, 192, 192, 0.4);
+    font-family: 'Cinzel', serif;
+}
+
+/* 3. Header Borders */
+h1, h2, h3, .display-1, .display-2, .display-3, .display-4 {
+    border-bottom-color: var(--bs-primary) !important; /* Dark Purple border */
+    color: #E0E0E0 !important; /* Force light text */
+}
+
+/* 4. Alert Box Override */
+/* Ensures alerts match the gloomy aesthetic */
+.alert-dark {
+    background-color: #0a020d;
+    border-color: #4A235A;
+    color: #C0C0C0;
+}

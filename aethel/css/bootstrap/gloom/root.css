@@ -1,0 +1,22 @@
+/* root.css (Theme: Gloom) */
+/* Context: The Shadowspire / Malakor's Perspective */
+
+:root,
+[data-bs-theme="light"], /* Override light mode settings */
+[data-bs-theme="dark"] {
+    
+    /* Gloom Palette */
+    --bs-primary: #9b59b6;      /* Dark Magic Purple */
+    --bs-secondary: #7f8c8d;    /* Stone Grey */
+    --bs-warning: #C0C0C0;      /* Silver (The only light allowed) */
+    --bs-info: #2E003E;         /* Deep Gloom */
+    
+    /* The Void Background */
+    --bs-body-bg: #15051a;      /* Deepest Purple/Black */
+    --bs-body-color: #E0D0E0;   /* Faded Silver Text */
+    --bs-body-bg-rgb: 21, 5, 26;
+    
+    --bs-link-color: #C0C0C0;
+    --bs-link-hover-color: #FFFFFF;
+    --bs-border-color: #4A235A;
+}

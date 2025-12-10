@@ -1,0 +1,64 @@
+{
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 1,
+      "title": "A Sister's Love (Main Theme)",
+      "fileName": "1-01-a-sisters-love-main-theme"
+    },
+    {
+      "disc": 1,
+      "track": 2,
+      "title": "The Legend of Aethel (Prologue)",
+      "fileName": "1-02-the-legend-of-aethel-prologue"
+    },
+    {
+      "disc": 1,
+      "track": 3,
+      "title": "One Step at a Time",
+      "fileName": "1-03-one-step-at-a-time"
+    },
+    {
+      "disc": 1,
+      "track": 4,
+      "title": "Shadows in the Woods (The Kidnapping)",
+      "fileName": "1-04-shadows-in-the-woods-the-kidnapping"
+    },
+    {
+      "disc": 1,
+      "track": 5,
+      "title": "The Tyrant's Throne (Shadow's Heart)",
+      "fileName": "1-05-the-tyrants-throne-shadows-heart"
+    },
+    {
+      "disc": 1,
+      "track": 6,
+      "title": "Crossing the Voidlands",
+      "fileName": "1-06-crossing-the-voidlands"
+    },
+    {
+      "disc": 1,
+      "track": 7,
+      "title": "I Can't Live Without You (Kaela's Theme)",
+      "fileName": "1-07-i-cant-live-without-you-kaelas-theme"
+    },
+    {
+      "disc": 1,
+      "track": 8,
+      "title": "Duel of the Eclipse",
+      "fileName": "1-08-duel-of-the-eclipse"
+    },
+    {
+      "disc": 1,
+      "track": 9,
+      "title": "Sunstead Restored (Finale)",
+      "fileName": "1-09-sunstead-restored-finale"
+    },
+    {
+      "disc": 1,
+      "track": 10,
+      "title": "A Sister's Love (Instrumental Reprise)",
+      "fileName": "1-10-a-sisters-love-instrumental-reprise"
+    }
+  ]
+}

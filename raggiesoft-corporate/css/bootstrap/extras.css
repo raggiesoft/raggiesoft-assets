@@ -1,0 +1,119 @@
+/* extras-raggiesoft.css */
+/* Clean Glass Utilities for Corporate Theme */
+
+/* 1. Professional Text Gradient (Subtle) */
+.text-glow-primary {
+    background: linear-gradient(120deg, var(--bs-primary), #258DBD);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    /* No glow filter for corporate look, just clean gradient */
+}
+
+/* 2. HUD System (Corporate Glass) */
+/* These match the Stardust names but look cleaner/flatter */
+
+.bg-hud-blue {
+    background-color: rgba(var(--bs-info-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-info-rgb), 0.2);
+    border-left: 4px solid var(--bs-info); /* Professional Accent */
+    color: var(--bs-body-color);
+}
+/* Fix for Dark Header Requirement: If this is used in a dark area, text must be light */
+[data-bs-theme="dark"] .bg-hud-blue,
+@media (prefers-color-scheme: dark) {
+    .bg-hud-blue { color: #fff !important; }
+}
+
+.bg-hud-green {
+    background-color: rgba(var(--bs-success-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-success-rgb), 0.2);
+    border-left: 4px solid var(--bs-success);
+    color: var(--bs-body-color);
+}
+
+.bg-hud-orange, .bg-hud-warning {
+    background-color: rgba(var(--bs-warning-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-warning-rgb), 0.2);
+    border-left: 4px solid var(--bs-warning);
+    color: var(--bs-body-color);
+}
+
+.bg-hud-red {
+    background-color: rgba(var(--bs-danger-rgb), 0.1);
+    border: 1px solid rgba(var(--bs-danger-rgb), 0.2);
+    border-left: 4px solid var(--bs-danger);
+    color: var(--bs-body-color);
+}
+
+/* 3. Subtle Container Styles */
+.border-glow {
+    border: 1px solid var(--bs-border-color) !important;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05); /* Standard Drop Shadow, not Glow */
+}
+.shadow-glow {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+}
+
+/* 4. Font Awesome */
+.fa-duotone {
+    --fa-primary-color: var(--bs-primary);
+    --fa-secondary-color: var(--bs-secondary);
+}
+
+/* ==========================================================================
+   RAGGIESOFT GLOBAL EXTRAS
+   Path: assets.raggiesoft.com/common/css/bootstrap-common/raggiesoft-extras.css
+   Purpose: Global UI patches and component restoration across the network.
+   ========================================================================== */
+
+/* --- Blockquote Footer Override --- */
+/* Restores the standard citation styling for quotes (Bootstrap 5 fix) */
+
+.blockquote-footer {
+    display: block;
+    font-size: 0.875em; /* Slightly smaller than body text */
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    /* GENERIC FONT: Inherits from the specific website's body font */
+    font-family: inherit;
+    opacity: 0.8;
+}
+
+    /* Adds the "—" dash automatically before the name */
+    .blockquote-footer::before {
+        content: "\2014\00A0"; /* \2014 is an Em Dash, \00A0 is a non-breaking space */
+    }
+
+/* --- Missing Bootstrap Utilities (Backfill) --- */
+
+/* .btn-outline-light */
+/* Required for "Crash of '90" navigation buttons on dark backgrounds */
+.btn-outline-light {
+    --bs-btn-color: #f8f9fa;
+    --bs-btn-border-color: #f8f9fa;
+    --bs-btn-hover-color: #000;
+    --bs-btn-hover-bg: #f8f9fa;
+    --bs-btn-hover-border-color: #f8f9fa;
+    --bs-btn-focus-shadow-rgb: 248, 249, 250;
+    --bs-btn-active-color: #000;
+    --bs-btn-active-bg: #f8f9fa;
+    --bs-btn-active-border-color: #f8f9fa;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #f8f9fa;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #f8f9fa;
+    --bs-gradient: none;
+}
+
+/* --- Global Layout Fixes --- */
+/* Temporary fix: Force disable horizontal scrolling on all devices */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.font-handwriting {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 1.5rem; /* It needs to be slightly larger to be readable */
+    transform: rotate(-1deg); /* Slight tilt adds realism */
+}
