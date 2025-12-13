@@ -1,0 +1,42 @@
+/* /portfolio/css/bootstrap/root.css */
+:root {
+    /* Brand Identity */
+    --brand-blue: #0d6efd;
+    --brand-dark: #212529;
+    
+    /* Global Font Stack (System Native for Speed) */
+    --bs-body-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Light Mode (Default) */
+:root, [data-bs-theme="light"] {
+    --bs-primary: #0d6efd;
+    --bs-secondary: #6c757d;
+    --bs-success: #198754;
+    --bs-body-bg: #ffffff;
+    --bs-body-color: #212529;
+    
+    /* RGBs for Glassmorphism */
+    --bs-primary-rgb: 13, 110, 253;
+    --bs-body-bg-rgb: 255, 255, 255;
+    
+    --bs-link-color: #0d6efd;
+    --bs-link-hover-color: #0a58ca;
+    --bs-border-color: #dee2e6;
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bs-body-bg: #0d1117; /* GitHub Dark Dim */
+        --bs-body-color: #c9d1d9;
+        --bs-border-color: #30363d;
+        --bs-secondary: #8b949e;
+        
+        --bs-primary: #58a6ff; /* Lighter blue for dark mode contrast */
+        --bs-link-color: #58a6ff;
+        
+        --bs-card-bg: #161b22;
+    }
+}

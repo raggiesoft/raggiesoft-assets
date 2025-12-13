@@ -1,0 +1,10 @@
+/* /portfolio/css/bootstrap/header.css */
+header .navbar {
+    backdrop-filter: blur(10px);
+    background-color: rgba(var(--bs-body-bg-rgb), 0.9) !important;
+    border-bottom: 1px solid var(--bs-border-color);
+}
+header .navbar-brand {
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}

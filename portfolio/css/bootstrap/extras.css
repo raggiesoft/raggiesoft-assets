@@ -1,0 +1,36 @@
+/* /portfolio/css/bootstrap/extras.css */
+
+/* 1. Skill Pills (Tech Stack Badges) */
+.skill-pill {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.35em 0.8em;
+    border-radius: 50rem;
+    background-color: var(--bs-tertiary-bg);
+    color: var(--bs-body-color);
+    border: 1px solid var(--bs-border-color);
+    display: inline-block;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+/* 2. Timeline Card (Employment/Education) */
+.timeline-card {
+    border-left: 4px solid var(--bs-primary);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+/* 3. Project Cards */
+.project-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.project-card .card-footer {
+    background: transparent;
+    border-top: 1px solid var(--bs-border-color-translucent);
+}

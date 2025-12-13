@@ -1,0 +1,17 @@
+/* /portfolio/css/bootstrap/safety-net.css */
+
+/* Enforce Focus Indicators for Accessibility */
+:focus-visible {
+    outline: 3px solid var(--bs-primary);
+    outline-offset: 2px;
+}
+
+/* Ensure sufficient contrast for text-muted */
+.text-muted {
+    color: #6c757d !important; /* WCAG AA Large compatible on white */
+}
+@media (prefers-color-scheme: dark) {
+    .text-muted {
+        color: #8b949e !important; /* Compatible on dark */
+    }
+}
