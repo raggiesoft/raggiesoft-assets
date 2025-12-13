@@ -1,0 +1,128 @@
+/* =========================================
+   1. FONTS IMPORT
+   ========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Space+Mono:wght@400;700&display=swap');
+
+/* =========================================
+   2. GLOBAL VARIABLES (System UI)
+   These respect the user's OS Dark/Light mode preference.
+   ========================================= */
+:root {
+  /* Typography */
+  --font-header: 'Cinzel', serif;
+  --font-body: 'EB Garamond', serif;
+  --font-ui: 'Space Mono', monospace;
+
+  /* Default Light Mode (System) */
+  --sys-bg: #ffffff;
+  --sys-text: #1a1a1a;
+  --sys-accent: #2563eb; /* Standard Web Blue */
+  --sys-border: #e5e7eb;
+}
+
+/* System Dark Mode Override */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sys-bg: #121212;
+    --sys-text: #e0e0e0;
+    --sys-accent: #60a5fa;
+    --sys-border: #333333;
+  }
+}
+
+/* Apply System Variables to the 'App Shell' (Nav, Footer, Home Page) */
+body {
+  background-color: var(--sys-bg);
+  color: var(--sys-text);
+  font-family: var(--font-ui); /* UI uses Mono by default */
+  margin: 0;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* =========================================
+   3. NARRATIVE THEME ENGINE
+   These variables only activate when [data-theme] is present
+   on the wrapper, overriding the system defaults.
+   ========================================= */
+
+/* A. Sunstead (Warm, Safety, Earth) */
+[data-theme="sunstead"] {
+  --nar-bg: #fdf6e3;          /* Warm Parchment */
+  --nar-text: #2c241b;        /* Deep Loam Brown */
+  --nar-accent: #b58900;      /* Amber/Gold */
+  --nar-border: #e0d6c0;
+  --nar-header-glow: none;
+}
+
+/* B. Sunstead Scour (The Occupation - Sickly, Rust) */
+[data-theme="sunstead-scour"] {
+  --nar-bg: #eaddcf;          /* Dusty, dull beige */
+  --nar-text: #1a0505;        /* Harsh Black */
+  --nar-accent: #8a1c1c;      /* Crimson Banners */
+  --nar-border: #ccaca9;
+  --nar-header-glow: none;
+}
+
+/* C. The Gloom (Entropy, Cold, Desolation) */
+[data-theme="gloom"] {
+  --nar-bg: #222529;          /* Cold Slate */
+  --nar-text: #dbe4eb;        /* Frosted Silver */
+  --nar-accent: #8ca0b3;      /* Glacial Blue */
+  --nar-border: #4f5b66;
+  --nar-header-glow: 0 0 15px rgba(140, 160, 179, 0.3); /* Faint cold mist */
+}
+
+/* D. Shadowspire (80s Fantasy Evil - Neon, Obsidian) */
+[data-theme="shadowspire"] {
+  --nar-bg: #050505;          /* Absolute Void */
+  --nar-text: #f0f0f0;        /* Stark White */
+  --nar-accent: #9d00ff;      /* Electric Violet */
+  --nar-border: #333333;
+  /* The Glow is crucial for the 80s Villain vibe */
+  --nar-header-glow: 0 0 10px rgba(157, 0, 255, 0.8), 0 0 20px rgba(157, 0, 255, 0.4);
+}
+
+/* =========================================
+   4. THE READER COMPONENT
+   This isolates the narrative styles from the rest of the site.
+   ========================================= */
+.narrative-reader {
+  /* Force the component to use Narrative variables, IGNORING system preferences */
+  background-color: var(--nar-bg);
+  color: var(--nar-text);
+  font-family: var(--font-body); /* Switch to Garamond for reading */
+  padding: 4rem 2rem;
+  min-height: 100vh;
+  transition: background-color 1s ease, color 1s ease; /* Slow, cinematic fade */
+}
+
+.narrative-reader h1,
+.narrative-reader h2,
+.narrative-reader h3 {
+  font-family: var(--font-header); /* Cinzel */
+  color: var(--nar-accent);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  text-shadow: var(--nar-header-glow);
+  margin-top: 2em;
+}
+
+/* The Drop Cap - Essential for Fantasy Novels */
+.narrative-reader .drop-cap {
+  float: left;
+  font-family: var(--font-header);
+  font-size: 3.8rem;
+  line-height: 0.8;
+  margin-right: 0.15em;
+  margin-bottom: -0.1em;
+  color: var(--nar-accent);
+  text-shadow: var(--nar-header-glow);
+}
+
+/* Images within the story */
+.narrative-reader img {
+  border: 2px solid var(--nar-accent);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+  max-width: 100%;
+  border-radius: 2px;
+}

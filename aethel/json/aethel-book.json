@@ -10,38 +10,118 @@
           "id": "chapter-1",
           "title": "Chapter 1: The Age of Twilight",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Scholar of the Twin Suns" },
-            { "id": "part-2", "title": "Part 2: The Heresy of Order" },
-            { "id": "part-3", "title": "Part 3: The Flight of the Guardians" },
-            { "id": "part-4", "title": "Part 4: The Northern Wastes" },
-            { "id": "part-5", "title": "Part 5: The Foundlings of Sunstead" },
-            { "id": "part-6", "title": "Part 6: The Separation" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Scholar of the Twin Suns",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Heresy of Order",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Flight of the Guardians",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Northern Wastes",
+              "theme": null
+            },
+            { 
+              "id": "part-5", 
+              "title": "Part 5: The Foundlings of Sunstead",
+              "theme": null
+            },
+            { 
+              "id": "part-6", 
+              "title": "Part 6: The Separation",
+              "theme": null
+            }
           ]
         },
         {
           "id": "chapter-2",
           "title": "Chapter 2: The Sundering of Sunstead",
           "parts": [
-            { "id": "part-1", "title": "Part 1: A Home in the Hearth" },
-            { "id": "part-2", "title": "Part 2: The First Spark" },
-            { "id": "part-3", "title": "Part 3: The Night of the Bowls" },
-            { "id": "part-4", "title": "Part 4: The Weaver's Lesson" },
-            { "id": "part-5", "title": "Part 5: The Wolf in the Canyon" },
-            { "id": "part-6", "title": "Part 6: The Merchant of Questions" },
-            { "id": "part-7", "title": "Part 7: The Unripe Fruit" },
-            { "id": "part-8", "title": "Part 8: The Last Sunset" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: A Home in the Hearth",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The First Spark",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Night of the Bowls",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Weaver's Lesson",
+              "theme": null
+            },
+            { 
+              "id": "part-5", 
+              "title": "Part 5: The Wolf in the Canyon",
+              "theme": null
+            },
+            { 
+              "id": "part-6", 
+              "title": "Part 6: The Merchant of Questions",
+              "theme": null
+            },
+            { 
+              "id": "part-7", 
+              "title": "Part 7: The Unripe Fruit",
+              "theme": null
+            },
+            { 
+              "id": "part-8", 
+              "title": "Part 8: The Last Sunset",
+              "theme": null
+            }
           ]
         },
         {
           "id": "chapter-3",
           "title": "Chapter 3: The Silence of the Hearth",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Fading of the Guardian" },
-            { "id": "part-2", "title": "Part 2: The Cage of Silence" },
-            { "id": "part-3", "title": "Part 3: The Weight of the Shield" },
-            { "id": "part-4", "title": "Part 4: The Hollow Silence" },
-            { "id": "part-5", "title": "Part 5: The Armory of the Free" },
-            { "id": "part-6", "title": "Part 6: One Step at a Time" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Fading of the Guardian",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Cage of Silence",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Weight of the Shield",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Hollow Silence",
+              "theme": null
+            },
+            { 
+              "id": "part-5", 
+              "title": "Part 5: The Armory of the Free",
+              "theme": null
+            },
+            { 
+              "id": "part-6", 
+              "title": "Part 6: One Step at a Time",
+              "theme": null
+            }
           ]
         }
       ]
@@ -54,42 +134,114 @@
           "id": "chapter-1",
           "title": "Chapter 1: The Hunted and the Caged",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Hunter and the Hunted" },
-            { "id": "part-2", "title": "Part 2: A Cage of Silver Light" },
-            { "id": "part-3", "title": "Part 3: The Mirror and the Void" },
-            { "id": "part-4", "title": "Part 4: The Trial of the Crystal Spiders" },
-            { "id": "part-5", "title": "Part 5: The Sunken City of Sorrows" },
-            { "id": "part-6", "title": "Part 6: The Whispering Woods" },
-            { "id": "part-7", "title": "Part 7: The Unbroken Moon" },
-            { "id": "part-8", "title": "Part 8: Seeds of Rebellion" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Hunter and the Hunted",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: A Cage of Silver Light",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Mirror and the Void",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Trial of the Crystal Spiders",
+              "theme": null
+            },
+            { 
+              "id": "part-5", 
+              "title": "Part 5: The Sunken City of Sorrows",
+              "theme": null
+            },
+            { 
+              "id": "part-6", 
+              "title": "Part 6: The Whispering Woods",
+              "theme": null
+            },
+            { 
+              "id": "part-7", 
+              "title": "Part 7: The Unbroken Moon",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-8", 
+              "title": "Part 8: Seeds of Rebellion",
+              "theme": "gloom"
+            }
           ]
         },
         {
           "id": "chapter-2",
           "title": "Chapter 2: The Tyrant's Throne",
           "parts": [
-            { "id": "part-1", "title": "Part 1: A Lord's Manifesto" },
-            { "id": "part-2", "title": "Part 2: A Question of Chaos" },
-            { "id": "part-3", "title": "Part 3: Sacrifice or Queen?" },
-            { "id": "part-4", "title": "Part 4: The Silverwing's Flight" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: A Lord's Manifesto",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: A Question of Chaos",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: Sacrifice or Queen?",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Silverwing's Flight",
+              "theme": "gloom"
+            }
           ]
         },
         {
           "id": "chapter-3",
           "title": "Chapter 3: The Last Temptation",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Oasis of Lies" },
-            { "id": "part-2", "title": "Part 2: The Broken Pawn" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Oasis of Lies",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Broken Pawn",
+              "theme": "gloom"
+            }
           ]
         },
         {
           "id": "chapter-4",
           "title": "Chapter 4: The Bridge of a Thousand Truths",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Guardian's Gate" },
-            { "id": "part-2", "title": "Part 2: The Crucible" },
-            { "id": "part-3", "title": "Part 3: The Vision and the Vow" },
-            { "id": "part-4", "title": "Part 4: A Path of Light" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Guardian's Gate",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Crucible",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Vision and the Vow",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: A Path of Light",
+              "theme": null
+            }
           ]
         }
       ]
@@ -102,47 +254,115 @@
           "id": "chapter-1",
           "title": "Chapter 1: The Siege of the Shadowspire",
           "parts": [
-            { "id": "part-1", "title": "Part 1: Embers of Hope" },
-            { "id": "part-2", "title": "Part 2: The Hall of Shattered Heroes" },
-            { "id": "part-3", "title": "Part 3: A Fortress Divided" },
-            { "id": "part-4", "title": "Part 4: The Ascent" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: Embers of Hope",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Hall of Shattered Heroes",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: A Fortress Divided",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Ascent",
+              "theme": null
+            }
           ]
         },
         {
           "id": "chapter-2",
           "title": "Chapter 2: The Heart of the Gloom",
           "parts": [
-            { "id": "part-1", "title": "Part 1: Reunion" },
-            { "id": "part-2", "title": "Part 2: The Duel of the Eclipse" },
-            { "id": "part-3", "title": "Part 3: The Battle of Wills" },
-            { "id": "part-4", "title": "Part 4: The Circuit" },
-            { "id": "part-5", "title": "Part 5: An Empathetic Victory" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: Reunion",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Duel of the Eclipse",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Battle of Wills",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Circuit",
+              "theme": "gloom"
+            },
+            { 
+              "id": "part-5", 
+              "title": "Part 5: An Empathetic Victory",
+              "theme": "gloom"
+            }
           ]
         },
         {
           "id": "chapter-3",
           "title": "Chapter 3: The Long Road Home",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The First Night" },
-            { "id": "part-2", "title": "Part 2: The River and the Dawn" },
-            { "id": "part-3", "title": "Part 3: The Shelter in the Woods" },
-            { "id": "part-4", "title": "Part 4: The Changing of the Leaves" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The First Night",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The River and the Dawn",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Shelter in the Woods",
+              "theme": null
+            },
+            { 
+              "id": "part-4", 
+              "title": "Part 4: The Changing of the Leaves",
+              "theme": null
+            }
           ]
         },
         {
           "id": "chapter-4",
           "title": "Chapter 4: The Scouring of Sunstead",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Steward's Law" },
-            { "id": "part-2", "title": "Part 2: The Queen of Red Dust" },
-            { "id": "part-3", "title": "Part 3: The Town That Roared" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Steward's Law",
+              "theme": null
+            },
+            { 
+              "id": "part-2", 
+              "title": "Part 2: The Queen of Red Dust",
+              "theme": null
+            },
+            { 
+              "id": "part-3", 
+              "title": "Part 3: The Town That Roared",
+              "theme": null
+            }
           ]
         },
         {
           "id": "chapter-5",
           "title": "Chapter 5: The Aftermath",
           "parts": [
-            { "id": "part-1", "title": "Part 1: The Sound of Water" }
+            { 
+              "id": "part-1", 
+              "title": "Part 1: The Sound of Water",
+              "theme": null
+            }
           ]
         }
       ]
