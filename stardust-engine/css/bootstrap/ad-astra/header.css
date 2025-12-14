@@ -1,0 +1,64 @@
+/* bootstrap-header.css (Dynamic Theme Support) */
+
+/* 1. Navbar Base */
+/* We use variables with a fallback to Dark Mode for safety */
+header .navbar {
+    background-color: var(--bs-body-bg, #050508) !important;
+    border-bottom: 1px solid var(--bs-border-color, rgba(255, 255, 255, 0.1)) !important;
+    transition: background-color 0.3s ease;
+}
+
+/* 2. Text Colors */
+/* Inherit from the theme's body/link colors instead of forcing white */
+header .navbar-brand {
+    color: var(--bs-heading-color, var(--bs-body-color)) !important;
+}
+
+header .nav-link {
+    color: var(--bs-secondary) !important;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--bs-primary) !important;
+}
+
+/* 3. Hamburger Menu */
+header .navbar-toggler {
+    border-color: var(--bs-border-color) !important;
+}
+header .navbar-toggler .hamburger-bar {
+    background-color: var(--bs-body-color) !important;
+}
+
+/* 4. Dropdowns */
+header .dropdown-menu {
+    background-color: var(--bs-body-bg) !important;
+    border-color: var(--bs-border-color) !important;
+}
+header .dropdown-item {
+    color: var(--bs-body-color) !important;
+}
+header .dropdown-item:hover {
+    background-color: var(--bs-secondary-bg) !important; 
+    color: var(--bs-primary) !important;
+}
+
+
+/* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
+.navbar-brand-corporate-img {
+    /* Default (Light Mode): 
+       'Multiply' makes the white background disappear, 
+       leaving crisp black text. */
+    mix-blend-mode: multiply; 
+}
+
+/* Dark Mode Override */
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
+    filter: invert(1) grayscale(100%); 
+    
+    /* Step 2: 'Screen' makes the new Black background disappear,
+       leaving crisp WHITE text. */
+    mix-blend-mode: screen; 
+}

@@ -8,3 +8,23 @@ header .navbar-brand {
     font-weight: 700;
     letter-spacing: -0.5px;
 }
+
+/* includes/common/css/bootstrap/stardust-engine/header.css */
+
+/* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
+.navbar-brand-corporate-img {
+    /* Default (Light Mode): 
+       'Multiply' makes the white background disappear, 
+       leaving crisp black text. */
+    mix-blend-mode: multiply; 
+}
+
+/* Dark Mode Override */
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
+    filter: invert(1) grayscale(100%); 
+    
+    /* Step 2: 'Screen' makes the new Black background disappear,
+       leaving crisp WHITE text. */
+    mix-blend-mode: screen; 
+}
