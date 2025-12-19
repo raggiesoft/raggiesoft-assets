@@ -130,3 +130,47 @@ html, body {
     font-size: 1.5rem; /* It needs to be slightly larger to be readable */
     transform: rotate(-1deg); /* Slight tilt adds realism */
 }
+
+/* --- 6. Skill Pills (Credentials & Stats) --- */
+/* Used for Holly's credentials and Timeline tags */
+
+.skill-pill {
+    display: inline-flex;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    
+    padding: 0.4em 0.85em;
+    margin-right: 0.35rem;
+    margin-bottom: 0.35rem;
+    
+    /* Glassy Dark Theme Look */
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--bs-border-color);
+    color: var(--bs-body-color);
+    border-radius: 50rem; /* Pill shape */
+    
+    transition: all 0.2s ease;
+    cursor: default;
+}
+
+/* Hover Effect for Interactivity */
+.skill-pill:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+    border-color: var(--bs-primary);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    color: #fff;
+}
+
+/* Icon Spacing */
+.skill-pill i {
+    opacity: 0.7;
+    margin-right: 0.5rem;
+}
+.skill-pill:hover i {
+    opacity: 1;
+    color: var(--bs-primary);
+}
