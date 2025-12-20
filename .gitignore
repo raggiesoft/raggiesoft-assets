@@ -53,3 +53,17 @@ Desktop.ini
 .vscode/
 .idea/
 *.swp
+
+# --- WORKSPACE SECURITY ---
+# Ignore the real keys
+_workspace/build-tools/rclone/rclone.conf
+
+# Do NOT ignore the example config
+!_workspace/build-tools/rclone/rclone.conf.example
+
+# --- WORKSPACE & TOOLS ---
+# Ignore all binaries and configs in build-tools
+_workspace/build-tools/
+
+# Exception: Keep the example config so we know where to put keys
+!_workspace/build-tools/rclone/rclone.conf.example
