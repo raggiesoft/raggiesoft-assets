@@ -1,0 +1,38 @@
+/* raggiesoft-logo.css */
+
+/* 1. THE "GHOST" CLASS (For RaggieSoft & Engine Room)
+   Light Mode: Shows original colors (Blue or Black).
+   Dark Mode: Forces the image to pure WHITE. 
+*/
+.brand-img-adaptive-white {
+    transition: filter 0.3s ease;
+}
+
+[data-bs-theme="dark"] .brand-img-adaptive-white {
+    /* Step 1: brightness(0) turns every pixel BLACK.
+       Step 2: invert(1) turns every black pixel WHITE.
+    */
+    filter: brightness(0) invert(1);
+}
+
+/* 2. THE "X-RAY" CLASS (Optional for Miller Center) 
+   Light Mode: Normal (Green/Black/White).
+   Dark Mode: Inverts colors (Black lines become White).
+   *Note: This might make Green look Pink/Purple. Use with caution.*
+*/
+.brand-img-invert {
+    transition: filter 0.3s ease;
+}
+
+[data-bs-theme="dark"] .brand-img-invert {
+    filter: invert(1);
+}
+
+/* 3. STANDARD SIZE UTILITY 
+   Ensures the 512px image doesn't blow up the navbar.
+*/
+.navbar-brand img {
+    height: 40px; /* Adjust based on your navbar height */
+    width: auto;
+    object-fit: contain;
+}
