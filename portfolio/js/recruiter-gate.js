@@ -1,11 +1,19 @@
 // assets/portfolio/js/recruiter-gate.js
 // The RaggieSoft "Recruiter Gate"
 // Filters inquiries based on Resume, Location, and Salary.
-// Features Microsoft Bookings integration for successful candidates.
 
-document.addEventListener('DOMContentLoaded', () => {
+// FIX: Support both Hard Refreshes and Turbo Navigation
+function bootstrapGate() {
+    // Prevent double-initialization if Turbo fires twice
+    if (document.getElementById('gate-container').getAttribute('data-initialized') === 'true') return;
     initGate();
-});
+}
+
+// 1. Initial Load (Hard Refresh)
+document.addEventListener('DOMContentLoaded', bootstrapGate);
+
+// 2. Turbo Navigation (Link Clicks)
+document.addEventListener('turbo:load', bootstrapGate);
 
 // Default Config (Overwritten by JSON)
 let CONFIG = {
