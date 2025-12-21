@@ -1,21 +1,19 @@
 /* root.css (The Silver Gauntlet of Aethel) */
-/* v2.0 - Dual Mode: Sunstead Day vs. Shadowspire Night */
+/* v3.0 - Full Bootstrap 5.3 Compatibility + Mood Engine */
 
-/* --- 1. GLOBAL TYPOGRAPHY --- */
+/* --- 1. GLOBAL SETTINGS & FONTS --- */
 :root {
-    /* Font Definitions */
+    /* Fonts */
     --bs-font-sans-serif: 'EB Garamond', Georgia, serif;
     --bs-body-font-family: 'EB Garamond', Georgia, serif;
     --font-fantasy-header: 'Cinzel', serif;
-    
-    /* Global Brand Colors (Constant) */
+
+    /* Brand Colors (Constant) */
     --aethel-gold: #D4AF37;
-    --aethel-rust: #8B4513;
-    --aethel-void: #050505;
     --aethel-toxic: #9333ea;
 }
 
-/* Headers always use Cinzel */
+/* Typography Overrides */
 h1, h2, h3, h4, h5, h6, 
 .display-1, .display-2, .display-3, .display-4, 
 .navbar-brand, .cinzel-font {
@@ -24,107 +22,136 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 700;
 }
 
-/* Body text adjustments for readability */
-p.lead, .card-text, .book-content p {
-    font-size: 1.15rem;
-    line-height: 1.7;
-}
-
 /* --- 2. LIGHT MODE: SUNSTEAD DAY --- */
-/* Vibe: Parchment, Leather, Warmth, Safety */
-:root, 
+/* Vibe: Parchment, Leather, Warm Sunlight */
 [data-bs-theme="light"] {
-    --bs-body-bg: #F9F5EB;        /* Warm Parchment */
-    --bs-body-color: #2B1D1D;     /* Dark Leather Brown (Softer than black) */
+    /* Body Background & Text */
+    --bs-body-bg: #F9F5EB;
+    --bs-body-bg-rgb: 249, 245, 235; /* Required for transparency */
     
-    /* Bootstrap Overrides */
-    --bs-primary: #8B4513;        /* Leather Brown */
+    --bs-body-color: #2B1D1D;
+    --bs-body-color-rgb: 43, 29, 29;
+
+    /* Primary Colors */
+    --bs-primary: #8B4513;        /* Saddle Brown */
     --bs-primary-rgb: 139, 69, 19;
     
     --bs-secondary: #5c5c5c;      /* Stone Grey */
-    --bs-success: #2E8B57;        /* Garden Green */
-    --bs-info: #2c7596;           /* River Blue */
-    --bs-warning: #D4AF37;        /* Sun Gold */
-    --bs-danger: #8B0000;         /* Dried Blood Red */
+    --bs-secondary-rgb: 92, 92, 92;
     
-    /* UI Elements */
+    --bs-warning: #D4AF37;        /* Gold */
+    --bs-warning-rgb: 212, 175, 55;
+    
     --bs-border-color: #D4C5A9;   /* Paper Border */
+    
+    /* Links */
     --bs-link-color: #8B4513;
     --bs-link-hover-color: #D4AF37;
-    
-    /* Card/Container Overrides */
-    --bs-card-bg: #ffffff;
-    --bs-card-border-color: #E5DCC5;
+
+    /* COMPONENT: Navbar (The "Leather Binding" Look) */
+    --bs-navbar-bg: #3B2F2F;
+    --bs-navbar-color: #F5E6C4;
+    --bs-navbar-active-color: #D4AF37;
+    --bs-navbar-brand-color: #D4AF37;
 }
 
 /* --- 3. DARK MODE: SHADOWSPIRE NIGHT --- */
 /* Vibe: Void, Obsidian, Cold, Toxic Magic */
 [data-bs-theme="dark"] {
-    --bs-body-bg: #050505;        /* Pure Void */
-    --bs-body-color: #d1d5db;     /* Bone White */
+    /* Body Background & Text */
+    --bs-body-bg: #050505;        /* Void Black */
+    --bs-body-bg-rgb: 5, 5, 5;
     
-    /* Bootstrap Overrides */
-    --bs-primary: #9333ea;        /* Toxic Purple (Malakor's Magic) */
+    --bs-body-color: #d1d5db;     /* Bone White */
+    --bs-body-color-rgb: 209, 213, 219;
+
+    /* Primary Colors */
+    --bs-primary: #9333ea;        /* Toxic Purple */
     --bs-primary-rgb: 147, 51, 234;
     
     --bs-secondary: #4b5563;      /* Basalt Grey */
-    --bs-success: #065f46;        /* Deep Moss */
-    --bs-info: #67e8f9;           /* Ice Blue */
+    --bs-secondary-rgb: 75, 85, 99;
+    
     --bs-warning: #fbbf24;        /* Fading Ember */
-    --bs-danger: #ef4444;         /* Fresh Blood */
+    --bs-warning-rgb: 251, 191, 36;
     
-    /* UI Elements */
     --bs-border-color: #262626;   /* Dark Stone */
-    --bs-link-color: #c084fc;     /* Purple Haze */
-    --bs-link-hover-color: #ffffff;
     
-    /* Card/Container Overrides */
-    --bs-card-bg: #0a0a0a;        /* Obsidian Slab */
-    --bs-card-border-color: #333333;
+    /* Links */
+    --bs-link-color: #c084fc;
+    --bs-link-hover-color: #ffffff;
+
+    /* COMPONENT: Navbar (The "Obsidian" Look) */
+    --bs-navbar-bg: #000000;
+    --bs-navbar-color: #9ca3af;
+    --bs-navbar-active-color: #9333ea;
+    --bs-navbar-brand-color: #9333ea;
 }
 
-/* --- 4. COMPONENT OVERRIDES --- */
+/* --- 4. NAVIGATION BAR STYLING --- */
+/* This bridges the gap between Bootstrap variables and the specific look you want */
+header .navbar {
+    background-color: var(--bs-navbar-bg) !important;
+    border-bottom: 2px solid var(--bs-warning) !important; /* Gold/Ember border always */
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
 
-/* The "Era Cards" need to look good in both modes */
+header .navbar-brand {
+    color: var(--bs-navbar-brand-color) !important;
+}
+
+header .nav-link {
+    color: var(--bs-navbar-color) !important;
+}
+
+header .nav-link.active, header .nav-link:hover {
+    color: var(--bs-navbar-active-color) !important;
+}
+
+/* --- 5. ERA CARDS (Interactive Elements) --- */
 .era-card {
     transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Light Mode Card */
 [data-bs-theme="light"] .era-card {
-    background: #ffffff;
+    background-color: #ffffff;
     border: 1px solid #E5DCC5;
     box-shadow: 0 4px 6px rgba(139, 69, 19, 0.05);
 }
 [data-bs-theme="light"] .era-card:hover {
     transform: translateY(-5px);
     border-color: var(--bs-warning);
-    box-shadow: 0 10px 15px rgba(212, 175, 55, 0.2);
+    box-shadow: 0 10px 15px rgba(212, 175, 55, 0.2); /* Gold Glow */
 }
 
+/* Dark Mode Card */
 [data-bs-theme="dark"] .era-card {
     background: linear-gradient(180deg, #1a1a1a 0%, #0d0d0d 100%);
     border: 1px solid #333;
 }
 [data-bs-theme="dark"] .era-card:hover {
     transform: translateY(-5px);
-    border-color: var(--bs-primary); /* Glows Purple in Dark Mode */
-    box-shadow: 0 0 20px rgba(147, 51, 234, 0.2);
+    border-color: var(--bs-primary); 
+    box-shadow: 0 0 20px rgba(147, 51, 234, 0.2); /* Purple Glow */
 }
 
-/* Hero Section Adjustments */
-/* Note: The hero image logic remains in the PHP file, but we set the base here */
+/* --- 6. HERO SECTION --- */
 .aethel-hero {
     position: relative;
     overflow: hidden;
-    border-bottom: 4px solid var(--bs-warning); /* Gold border in both modes */
+    border-bottom: 4px solid var(--bs-warning);
+    transition: background-color 0.3s ease;
 }
 
+/* Light Mode Hero (High Contrast Dark for readability against cover art) */
 [data-bs-theme="light"] .aethel-hero {
-    background-color: #1a1a1a; /* Keep Hero dark even in light mode for contrast with cover art */
+    background-color: #1a1a1a; 
     color: #f0f0f0;
 }
 
+/* Dark Mode Hero (Pure Void) */
 [data-bs-theme="dark"] .aethel-hero {
     background-color: #000000;
-    border-bottom-color: var(--bs-primary); /* Switch border to Purple in Dark Mode? Optional. */
+    border-bottom-color: var(--bs-primary); /* Switch border to Purple */
 }
