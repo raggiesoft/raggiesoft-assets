@@ -1,19 +1,29 @@
-// assets/js/salary-negotiator.js
+// assets/portfolio/js/salary-negotiator.js
 // RaggieSoft Salary Negotiation Logic (2025 Edition)
 
 document.addEventListener('DOMContentLoaded', () => {
     initSalaryCalculator();
 });
 
-const CONFIG = {
-    minSalary: 75000,    // Hard floor
-    targetSalary: 85000, // The "Happy" number
-    hourlyThreshold: 200 // If input is below this, assume hourly rate
+let CONFIG = {
+    // Defaults to prevent crash before load
+    minSalary: 75000,    
+    targetSalary: 85000, 
+    hourlyThreshold: 200,
+    salaryJson: 'https://assets.raggiesoft.com/portfolio/json/salary.json'
 };
 
-function initSalaryCalculator() {
+async function initSalaryCalculator() {
     const container = document.getElementById('salary-negotiator-container');
     if (!container) return;
+
+    try {
+        const response = await fetch(CONFIG.salaryJson);
+        const data = await response.json();
+        CONFIG = { ...CONFIG, ...data };
+    } catch (e) {
+        console.error("Using default salary config due to fetch error.");
+    }
 
     // Render Initial Form
     container.innerHTML = `
@@ -30,7 +40,7 @@ function initSalaryCalculator() {
                 <div class="input-group mb-3">
                     <span class="input-group-text bg-body-tertiary border-end-0">$</span>
                     <input type="number" id="salaryInput" class="form-control form-control-lg border-start-0 ps-1" 
-                           placeholder="Yearly Amount (e.g. 80000)" aria-label="Salary">
+                           placeholder="Yearly Amount (e.g. ${CONFIG.targetSalary})" aria-label="Salary">
                     <button class="btn btn-primary" type="button" id="checkSalaryBtn">
                         Check Alignment
                     </button>
@@ -52,29 +62,23 @@ function initSalaryCalculator() {
 
 function processSalary(value) {
     const zone = document.getElementById('feedback-zone');
-    const amount = parseFloat(value.replace(/,/g, '')); // Strip commas if user typed them
+    const amount = parseFloat(value.replace(/,/g, ''));
 
-    // 1. Validation
     if (!amount || isNaN(amount) || amount <= 0) {
         renderFeedback('warning', 'fa-triangle-exclamation', 'Input Error', 'Please enter a valid numeric salary amount.');
         return;
     }
 
-    // 2. Hourly Check (Did they type "40" instead of "80000"?)
     if (amount < CONFIG.hourlyThreshold) {
-        // Auto-convert hourly to yearly (approx 2080 hours)
         const annualized = amount * 2080;
         renderFeedback('info', 'fa-calculator', 'Hourly Detected', 
             `It looks like you entered an hourly rate ($${amount}/hr).<br>That annualizes to roughly <strong>${formatMoney(annualized)}</strong>. Calculating based on that...`);
         
-        // Small delay then process the annualized amount
         setTimeout(() => processSalary(annualized.toString()), 2000);
         return;
     }
 
-    // 3. The Logic (Red vs Green)
     if (amount >= CONFIG.minSalary) {
-        // SUCCESS
         const isTarget = amount >= CONFIG.targetSalary;
         const icon = isTarget ? 'fa-traffic-light-go' : 'fa-check-circle';
         const color = isTarget ? 'success' : 'primary';
@@ -101,7 +105,6 @@ function processSalary(value) {
             </div>`;
             
     } else {
-        // REJECTION
         zone.innerHTML = `
             <div class="alert alert-danger mt-4 text-start border-danger" role="alert">
                 <div class="d-flex">

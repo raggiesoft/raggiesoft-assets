@@ -1,0 +1,5 @@
+{
+  "minSalary": 75000,
+  "targetSalary": 85000,
+  "hourlyThreshold": 200
+}
