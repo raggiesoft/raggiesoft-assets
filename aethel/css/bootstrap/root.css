@@ -1,18 +1,16 @@
 /* root.css (The Silver Gauntlet of Aethel) */
-/* v5.0 - Fixed Light Mode Priority */
+/* v5.1 - Fixed: Hero now respects Light/Dark Mode variables */
 
 /* --- 1. GLOBAL FONTS & CONSTANTS --- */
 :root {
     --bs-font-sans-serif: 'EB Garamond', Georgia, serif;
     --bs-body-font-family: 'EB Garamond', Georgia, serif;
     --font-fantasy-header: 'Cinzel', serif;
-
-    /* Transition for the mood switch */
     --transition-speed: 0.5s;
 }
 
 /* Base Transition Setup */
-body, .navbar, .card, .tome-container, .era-card {
+body, .navbar, .card, .tome-container, .era-card, .aethel-hero, #toc, #soundtrack {
     transition: background-color var(--transition-speed) ease, 
                 color var(--transition-speed) ease, 
                 border-color var(--transition-speed) ease,
@@ -28,7 +26,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* --- 2. LIGHT MODE (SUNSTEAD DAY) --- */
-/* Applied to :root by default AND explicit light theme */
 :root,
 [data-bs-theme="light"] {
     color-scheme: light;
@@ -62,7 +59,7 @@ h1, h2, h3, h4, h5, h6,
     --bs-card-bg: #ffffff;
     --bs-card-border-color: #E5DCC5;
     
-    /* Navbar specific: Dark Brown Leather look in Light Mode */
+    /* Navbar: Dark Brown Leather look in Light Mode */
     --bs-navbar-bg: #3B2F2F;
     --bs-navbar-color: #F5E6C4;
     --bs-navbar-active-color: #D4AF37;
@@ -70,7 +67,6 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* --- 3. DARK MODE (SHADOWSPIRE NIGHT) --- */
-/* Only applied when explicitly Dark */
 [data-bs-theme="dark"] {
     color-scheme: dark;
 
@@ -103,21 +99,20 @@ h1, h2, h3, h4, h5, h6,
     --bs-card-bg: #0a0a0a;
     --bs-card-border-color: #333333;
     
-    /* Navbar specific: Pitch Black in Dark Mode */
+    /* Navbar: Pitch Black in Dark Mode */
     --bs-navbar-bg: #000000;
     --bs-navbar-color: #9ca3af;
     --bs-navbar-active-color: #9333ea;
     --bs-navbar-brand-color: #9333ea;
 }
 
-/* --- 4. COMPONENT OVERRIDES (The Glue) --- */
+/* --- 4. COMPONENT OVERRIDES --- */
 
-/* Force Navbar to use variables defined in themes above */
+/* Navbar */
 header .navbar {
     background-color: var(--bs-navbar-bg) !important;
     border-bottom: 2px solid var(--bs-warning) !important; 
 }
-/* Dark mode border override */
 [data-bs-theme="dark"] header .navbar {
     border-bottom-color: var(--bs-primary) !important;
 }
@@ -130,6 +125,8 @@ header .nav-link.active, header .nav-link:hover { color: var(--bs-navbar-active-
 .era-card {
     background-color: var(--bs-card-bg);
     border: 1px solid var(--bs-card-border-color);
+    /* Transition for text colors inside cards */
+    color: var(--bs-body-color);
 }
 [data-bs-theme="light"] .era-card {
     box-shadow: 0 4px 6px rgba(139, 69, 19, 0.05);
@@ -139,7 +136,7 @@ header .nav-link.active, header .nav-link:hover { color: var(--bs-navbar-active-
     border: 1px solid #333;
 }
 
-/* Hover States for Cards */
+/* Hover States */
 [data-bs-theme="light"] .era-card:hover {
     transform: translateY(-5px);
     border-color: var(--bs-warning);
@@ -156,12 +153,11 @@ header .nav-link.active, header .nav-link:hover { color: var(--bs-navbar-active-
     position: relative;
     overflow: hidden;
     border-bottom: 4px solid var(--bs-warning);
+    /* Uses body-bg by default now (Parchment in Light, Black in Dark) */
+    background-color: var(--bs-body-bg); 
+    color: var(--bs-body-color);
 }
-[data-bs-theme="light"] .aethel-hero {
-    background-color: #1a1a1a; /* Always dark for contrast with cover art */
-    color: #f0f0f0;
-}
+
 [data-bs-theme="dark"] .aethel-hero {
-    background-color: #000000;
     border-bottom-color: var(--bs-primary);
 }

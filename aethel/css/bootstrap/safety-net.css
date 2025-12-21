@@ -5,10 +5,7 @@ body {
     font-family: 'Crimson Text', Georgia, serif;
     font-size: 1.15rem;
     line-height: 1.8;
-    
-    /* ADD THIS TO FORCE LIGHT MODE COLORS */
-    background-color: #F9F5EB !important; /* Parchment */
-    color: #2B1D1D !important;            /* Dark Leather Text */
+
 }
 
 h1, h2, h3, h4, h5, h6, .navbar-brand {
