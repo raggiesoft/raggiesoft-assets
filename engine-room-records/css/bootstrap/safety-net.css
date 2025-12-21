@@ -1,0 +1,17 @@
+/* safety-net.css (Engine Room Records) */
+
+/* Ensure text is always readable even if Bootstrap fails slightly */
+body {
+    font-family: sans-serif;
+    line-height: 1.6;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Force dark mode legibility if JS fails */
+[data-bs-theme="dark"] body {
+    background-color: #121212;
+    color: #eee;
+}

@@ -1,0 +1,31 @@
+/* footer.css (Engine Room Records) */
+
+footer {
+    margin-top: 5rem;
+    padding: 3rem 0;
+    border-top: 4px solid var(--bs-secondary); /* Thick industrial top border */
+    background-color: var(--bs-body-bg);
+}
+
+[data-bs-theme="dark"] footer {
+    background-color: #000; /* Pure black footer */
+    border-top-color: #333;
+}
+
+footer h5 {
+    font-family: var(--font-industrial);
+    color: var(--bs-primary);
+    margin-bottom: 1.5rem;
+}
+
+footer .nav-link {
+    padding-left: 0;
+    color: var(--bs-secondary);
+    font-family: var(--font-tech);
+    font-size: 0.85rem;
+}
+
+footer .nav-link:hover {
+    color: var(--bs-primary);
+    text-decoration: underline;
+}
