@@ -5,7 +5,8 @@
   },
   {
     "value": "norfolk-va",
-    "label": "In-Office: Norfolk, VA"
+    "label": "In-Office: Norfolk, VA",
+    "is_home": true
   },
   {
     "value": "vb-va",
@@ -14,5 +15,9 @@
   {
     "value": "chesapeake-va",
     "label": "In-Office: Chesapeake, VA"
+  },
+  {
+    "value": "relocate-va",
+    "label": "Open to Relocation (Virginia Only - To Maintain In-State Tuition)"
   }
 ]
