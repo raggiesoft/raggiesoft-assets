@@ -1,19 +1,24 @@
 /* root.css (The Silver Gauntlet of Aethel) */
-/* v3.0 - Full Bootstrap 5.3 Compatibility + Mood Engine */
+/* v5.0 - Fixed Light Mode Priority */
 
-/* --- 1. GLOBAL SETTINGS & FONTS --- */
+/* --- 1. GLOBAL FONTS & CONSTANTS --- */
 :root {
-    /* Fonts */
     --bs-font-sans-serif: 'EB Garamond', Georgia, serif;
     --bs-body-font-family: 'EB Garamond', Georgia, serif;
     --font-fantasy-header: 'Cinzel', serif;
 
-    /* Brand Colors (Constant) */
-    --aethel-gold: #D4AF37;
-    --aethel-toxic: #9333ea;
+    /* Transition for the mood switch */
+    --transition-speed: 0.5s;
 }
 
-/* Typography Overrides */
+/* Base Transition Setup */
+body, .navbar, .card, .tome-container, .era-card {
+    transition: background-color var(--transition-speed) ease, 
+                color var(--transition-speed) ease, 
+                border-color var(--transition-speed) ease,
+                box-shadow var(--transition-speed) ease;
+}
+
 h1, h2, h3, h4, h5, h6, 
 .display-1, .display-2, .display-3, .display-4, 
 .navbar-brand, .cinzel-font {
@@ -22,50 +27,62 @@ h1, h2, h3, h4, h5, h6,
     font-weight: 700;
 }
 
-/* --- 2. LIGHT MODE: SUNSTEAD DAY --- */
-/* Vibe: Parchment, Leather, Warm Sunlight */
+/* --- 2. LIGHT MODE (SUNSTEAD DAY) --- */
+/* Applied to :root by default AND explicit light theme */
+:root,
 [data-bs-theme="light"] {
-    /* Body Background & Text */
+    color-scheme: light;
+
+    /* Backgrounds: Warm Parchment */
     --bs-body-bg: #F9F5EB;
-    --bs-body-bg-rgb: 249, 245, 235; /* Required for transparency */
+    --bs-body-bg-rgb: 249, 245, 235;
     
+    /* Text: Dark Leather Brown */
     --bs-body-color: #2B1D1D;
     --bs-body-color-rgb: 43, 29, 29;
 
-    /* Primary Colors */
+    /* Accents */
     --bs-primary: #8B4513;        /* Saddle Brown */
     --bs-primary-rgb: 139, 69, 19;
     
     --bs-secondary: #5c5c5c;      /* Stone Grey */
     --bs-secondary-rgb: 92, 92, 92;
     
-    --bs-warning: #D4AF37;        /* Gold */
+    --bs-warning: #D4AF37;        /* Sun Gold */
     --bs-warning-rgb: 212, 175, 55;
     
     --bs-border-color: #D4C5A9;   /* Paper Border */
-    
+    --bs-border-color-translucent: rgba(43, 29, 29, 0.175);
+
     /* Links */
     --bs-link-color: #8B4513;
     --bs-link-hover-color: #D4AF37;
 
-    /* COMPONENT: Navbar (The "Leather Binding" Look) */
+    /* Components */
+    --bs-card-bg: #ffffff;
+    --bs-card-border-color: #E5DCC5;
+    
+    /* Navbar specific: Dark Brown Leather look in Light Mode */
     --bs-navbar-bg: #3B2F2F;
     --bs-navbar-color: #F5E6C4;
     --bs-navbar-active-color: #D4AF37;
     --bs-navbar-brand-color: #D4AF37;
 }
 
-/* --- 3. DARK MODE: SHADOWSPIRE NIGHT --- */
-/* Vibe: Void, Obsidian, Cold, Toxic Magic */
+/* --- 3. DARK MODE (SHADOWSPIRE NIGHT) --- */
+/* Only applied when explicitly Dark */
 [data-bs-theme="dark"] {
-    /* Body Background & Text */
-    --bs-body-bg: #050505;        /* Void Black */
+    color-scheme: dark;
+
+    /* Backgrounds: Void Black */
+    --bs-body-bg: #050505;
     --bs-body-bg-rgb: 5, 5, 5;
     
-    --bs-body-color: #d1d5db;     /* Bone White */
+    /* Text: Bone White */
+    --bs-body-color: #d1d5db;
     --bs-body-color-rgb: 209, 213, 219;
 
-    /* Primary Colors */
+    /* Accents */
     --bs-primary: #9333ea;        /* Toxic Purple */
     --bs-primary-rgb: 147, 51, 234;
     
@@ -76,82 +93,75 @@ h1, h2, h3, h4, h5, h6,
     --bs-warning-rgb: 251, 191, 36;
     
     --bs-border-color: #262626;   /* Dark Stone */
+    --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
     
     /* Links */
     --bs-link-color: #c084fc;
     --bs-link-hover-color: #ffffff;
 
-    /* COMPONENT: Navbar (The "Obsidian" Look) */
+    /* Components */
+    --bs-card-bg: #0a0a0a;
+    --bs-card-border-color: #333333;
+    
+    /* Navbar specific: Pitch Black in Dark Mode */
     --bs-navbar-bg: #000000;
     --bs-navbar-color: #9ca3af;
     --bs-navbar-active-color: #9333ea;
     --bs-navbar-brand-color: #9333ea;
 }
 
-/* --- 4. NAVIGATION BAR STYLING --- */
-/* This bridges the gap between Bootstrap variables and the specific look you want */
+/* --- 4. COMPONENT OVERRIDES (The Glue) --- */
+
+/* Force Navbar to use variables defined in themes above */
 header .navbar {
     background-color: var(--bs-navbar-bg) !important;
-    border-bottom: 2px solid var(--bs-warning) !important; /* Gold/Ember border always */
-    transition: background-color 0.3s ease, border-color 0.3s ease;
+    border-bottom: 2px solid var(--bs-warning) !important; 
+}
+/* Dark mode border override */
+[data-bs-theme="dark"] header .navbar {
+    border-bottom-color: var(--bs-primary) !important;
 }
 
-header .navbar-brand {
-    color: var(--bs-navbar-brand-color) !important;
-}
+header .navbar-brand { color: var(--bs-navbar-brand-color) !important; }
+header .nav-link { color: var(--bs-navbar-color) !important; }
+header .nav-link.active, header .nav-link:hover { color: var(--bs-navbar-active-color) !important; }
 
-header .nav-link {
-    color: var(--bs-navbar-color) !important;
-}
-
-header .nav-link.active, header .nav-link:hover {
-    color: var(--bs-navbar-active-color) !important;
-}
-
-/* --- 5. ERA CARDS (Interactive Elements) --- */
+/* Era Cards */
 .era-card {
-    transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+    background-color: var(--bs-card-bg);
+    border: 1px solid var(--bs-card-border-color);
 }
-
-/* Light Mode Card */
 [data-bs-theme="light"] .era-card {
-    background-color: #ffffff;
-    border: 1px solid #E5DCC5;
     box-shadow: 0 4px 6px rgba(139, 69, 19, 0.05);
 }
-[data-bs-theme="light"] .era-card:hover {
-    transform: translateY(-5px);
-    border-color: var(--bs-warning);
-    box-shadow: 0 10px 15px rgba(212, 175, 55, 0.2); /* Gold Glow */
-}
-
-/* Dark Mode Card */
 [data-bs-theme="dark"] .era-card {
     background: linear-gradient(180deg, #1a1a1a 0%, #0d0d0d 100%);
     border: 1px solid #333;
 }
+
+/* Hover States for Cards */
+[data-bs-theme="light"] .era-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--bs-warning);
+    box-shadow: 0 10px 15px rgba(212, 175, 55, 0.2);
+}
 [data-bs-theme="dark"] .era-card:hover {
     transform: translateY(-5px);
     border-color: var(--bs-primary); 
-    box-shadow: 0 0 20px rgba(147, 51, 234, 0.2); /* Purple Glow */
+    box-shadow: 0 0 20px rgba(147, 51, 234, 0.2);
 }
 
-/* --- 6. HERO SECTION --- */
+/* Hero Section */
 .aethel-hero {
     position: relative;
     overflow: hidden;
     border-bottom: 4px solid var(--bs-warning);
-    transition: background-color 0.3s ease;
 }
-
-/* Light Mode Hero (High Contrast Dark for readability against cover art) */
 [data-bs-theme="light"] .aethel-hero {
-    background-color: #1a1a1a; 
+    background-color: #1a1a1a; /* Always dark for contrast with cover art */
     color: #f0f0f0;
 }
-
-/* Dark Mode Hero (Pure Void) */
 [data-bs-theme="dark"] .aethel-hero {
     background-color: #000000;
-    border-bottom-color: var(--bs-primary); /* Switch border to Purple */
+    border-bottom-color: var(--bs-primary);
 }

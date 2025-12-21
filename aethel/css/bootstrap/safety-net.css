@@ -1,0 +1,21 @@
+/* safety-net.css (Aethel) */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
+body {
+    font-family: 'Crimson Text', Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.8;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: 'Cinzel', serif;
+}
+
+/* Force Navbar to look like Leather binding */
+header .navbar {
+    background-color: #3B2F2F !important;
+    border-bottom: 2px solid #D4AF37 !important;
+}
+header .navbar-brand, header .nav-link {
+    color: #F5E6C4 !important;
+}
