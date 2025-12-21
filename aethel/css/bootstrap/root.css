@@ -48,3 +48,21 @@
     --bs-border-color: #5A3A22;
   }
 }
+
+/* SAGA TYPOGRAPHY */
+:root {
+    --bs-font-sans-serif: 'EB Garamond', serif; /* Overrides Bootstrap Default for this page */
+    --bs-body-font-family: 'EB Garamond', serif;
+}
+
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4, .navbar-brand {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 1px;
+}
+
+/* Make the reading text larger for comfort */
+p.lead, .card-text, .book-content p {
+    font-family: 'EB Garamond', serif;
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
