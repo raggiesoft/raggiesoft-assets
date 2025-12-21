@@ -197,6 +197,40 @@ function revealContactInfo(salary) {
     const color = isTarget ? 'success' : 'primary';
     const container = document.getElementById('gate-container');
 
+    // Logic: Do we have a Booking URL?
+    let actionArea = '';
+    
+    if (CONFIG.bookingUrl) {
+        // OPTION A: Show Booking Button + Email
+        actionArea = `
+            <div class="d-grid gap-3 d-sm-flex justify-content-center mb-4">
+                <a href="${CONFIG.bookingUrl}" target="_blank" class="btn btn-${color} btn-lg px-5 py-3 fw-bold shadow-sm hover-lift">
+                    <i class="fa-duotone fa-calendar-clock me-2"></i> Schedule Interview
+                </a>
+            </div>
+            <div class="text-muted small mb-3">
+                Prefer email? <a href="mailto:hireme@michaelpragsdale.com" class="text-decoration-none text-secondary fw-bold">hireme@michaelpragsdale.com</a>
+            </div>
+        `;
+    } else {
+        // OPTION B: Email Only (Fallback)
+        actionArea = `
+            <div class="bg-body-tertiary p-4 rounded border mb-4">
+                <h5 class="text-secondary text-uppercase small fw-bold ls-1">Direct Contact</h5>
+                <div class="fs-4 fw-bold mt-2">
+                    <a href="mailto:hireme@michaelpragsdale.com?subject=Interview Request (Pre-Screened)" class="text-decoration-none">
+                        hireme@michaelpragsdale.com
+                    </a>
+                </div>
+            </div>
+            <div class="d-grid gap-2 d-sm-flex justify-content-center">
+                <a href="mailto:hireme@michaelpragsdale.com" class="btn btn-${color} btn-lg px-4">
+                    <i class="fa-solid fa-paper-plane me-2"></i> Send Email
+                </a>
+            </div>
+        `;
+    }
+
     container.innerHTML = `
         <div class="card shadow border-${color} fade-in-up">
             <div class="card-body p-5 text-center">
@@ -204,24 +238,14 @@ function revealContactInfo(salary) {
                 <h2 class="h3 fw-bold text-${color} mb-3">Access Granted</h2>
                 <p class="lead mb-4">
                     Thank you for confirming alignment on location and compensation.<br>
-                    I would be happy to discuss this role.
+                    My calendar is open for a preliminary discussion.
                 </p>
                 
-                <div class="bg-body-tertiary p-4 rounded border mb-4">
-                    <h5 class="text-secondary text-uppercase small fw-bold ls-1">Direct Contact</h5>
-                    <div class="fs-4 fw-bold mt-2">
-                        <a href="mailto:hireme@michaelpragsdale.com?subject=Interview Request (Pre-Screened)" class="text-decoration-none">
-                            hireme@michaelpragsdale.com
-                        </a>
-                    </div>
-                </div>
+                ${actionArea}
 
-                <div class="d-grid gap-2 d-sm-flex justify-content-center">
-                    <a href="mailto:hireme@michaelpragsdale.com?subject=Interview Request (Pre-Screened)" class="btn btn-${color} btn-lg px-4">
-                        <i class="fa-solid fa-paper-plane me-2"></i> Send Email
-                    </a>
-                    <a href="https://linkedin.com/in/michael-ragsdale-raggiesoft" target="_blank" class="btn btn-outline-secondary btn-lg px-4">
-                        <i class="fa-brands fa-linkedin me-2"></i> LinkedIn
+                <div class="mt-4 pt-3 border-top">
+                     <a href="https://linkedin.com/in/michael-ragsdale-raggiesoft" target="_blank" class="btn btn-sm btn-link text-secondary text-decoration-none">
+                        <i class="fa-brands fa-linkedin me-1"></i> View LinkedIn Profile
                     </a>
                 </div>
             </div>

@@ -1,5 +1,6 @@
 {
   "minSalary": 75000,
   "targetSalary": 85000,
-  "hourlyThreshold": 200
+  "hourlyThreshold": 200,
+  "bookingUrl": "https://outlook.office.com/bookwithme/user/67bc6cb4baa248959b3303fa54ee7239@michaelpragsdale.com/meetingtype/QJPG_FQxOUOnFjCcEgu4sw2?anonymous&ismsaljsauthenabled&ep=mlink"
 }
