@@ -1,6 +1,7 @@
 // assets/portfolio/js/recruiter-gate.js
 // The RaggieSoft "Recruiter Gate"
 // Filters inquiries based on Resume, Location, and Salary.
+// Features Microsoft Bookings integration for successful candidates.
 
 document.addEventListener('DOMContentLoaded', () => {
     initGate();
@@ -12,7 +13,8 @@ let CONFIG = {
     targetSalary: 85000,
     hourlyThreshold: 200,
     locationsJson: 'https://assets.raggiesoft.com/portfolio/json/locations.json',
-    salaryJson: 'https://assets.raggiesoft.com/portfolio/json/salary.json'
+    salaryJson: 'https://assets.raggiesoft.com/portfolio/json/salary.json',
+    bookingUrl: null // Will be populated from salary.json if present
 };
 
 let locationsData = [];
@@ -36,7 +38,7 @@ async function initGate() {
 
     } catch (e) {
         console.error("Failed to load gate configuration", e);
-        container.innerHTML = `<div class="alert alert-danger">Error loading configuration. Please try refreshing.</div>`;
+        container.innerHTML = `<div class="alert alert-danger">Error loading configuration. Please try refreshing the page.</div>`;
         return;
     }
 
@@ -139,6 +141,7 @@ function handleLocation() {
 // --- STEP 3: SALARY CHECK ---
 function renderStep3() {
     const container = document.getElementById('gate-container');
+    // Using neutral placeholder to avoid anchoring
     container.innerHTML = `
         <div class="card shadow-sm border-0 fade-in-up">
             <div class="card-body p-5 text-center">
@@ -150,7 +153,7 @@ function renderStep3() {
                     <div class="col-md-6">
                         <div class="input-group input-group-lg mb-3">
                             <span class="input-group-text">$</span>
-                            <input type="number" id="salaryInput" class="form-control" placeholder="e.g. ${CONFIG.targetSalary}">
+                            <input type="number" id="salaryInput" class="form-control" placeholder="Enter yearly amount">
                             <button class="btn btn-primary" onclick="handleSalary()">Check</button>
                         </div>
                     </div>
@@ -197,11 +200,11 @@ function revealContactInfo(salary) {
     const color = isTarget ? 'success' : 'primary';
     const container = document.getElementById('gate-container');
 
-    // Logic: Do we have a Booking URL?
+    // Logic: Do we have a Booking URL from the JSON?
     let actionArea = '';
     
     if (CONFIG.bookingUrl) {
-        // OPTION A: Show Booking Button + Email
+        // OPTION A: Show Booking Button + Email Backup
         actionArea = `
             <div class="d-grid gap-3 d-sm-flex justify-content-center mb-4">
                 <a href="${CONFIG.bookingUrl}" target="_blank" class="btn btn-${color} btn-lg px-5 py-3 fw-bold shadow-sm hover-lift">
@@ -213,7 +216,7 @@ function revealContactInfo(salary) {
             </div>
         `;
     } else {
-        // OPTION B: Email Only (Fallback)
+        // OPTION B: Email Only (Fallback if Booking URL missing)
         actionArea = `
             <div class="bg-body-tertiary p-4 rounded border mb-4">
                 <h5 class="text-secondary text-uppercase small fw-bold ls-1">Direct Contact</h5>
