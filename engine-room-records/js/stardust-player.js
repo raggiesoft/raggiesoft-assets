@@ -308,21 +308,79 @@
         dom.btnNext.disabled = (repeatMode !== 'all' && repeatMode !== 'album' && !isShuffle && currentIndex === ((window.STARDUST_PLAYLIST || []).length - 1));
     }
 
+    /**
+     * FEATURE: openLyrics()
+     * Fetches the Markdown (.md) lyrics file and converts it into styled HTML on the fly.
+     * This handles custom headers like **LORE NOTE:**
+     */
     window.openLyrics = function(title, url) {
-        if (!bsModal) return;
+        if (!bsModal) return; // Guard if modal missing
+
+        // 1. Set Loading State
         dom.modalTitle.textContent = title;
-        dom.modalContent.innerHTML = `<div class="text-center py-5"><div class="spinner-border text-primary"></div></div>`;
+        dom.modalContent.innerHTML = `
+            <div class="text-center py-5">
+                <div class="spinner-border text-primary" role="status"></div>
+                <p class="mt-2 font-monospace">Retrieving data from the Vault...</p>
+            </div>`;
+        
         bsModal.show();
 
+        // 2. Fetch MD File (with cache busting ?v=timestamp to ensure fresh lore)
         fetch(url + "?v=" + Date.now())
-            .then(r => r.text())
-            .then(text => {
-                let html = text.replace(/</g, '&lt;')
-                               .replace(/\*\*(.*?)\*\*/g, '<strong class="text-body fw-bold">$1</strong>')
-                               .replace(/\n/g, '<br>');
-                dom.modalContent.innerHTML = `<div class="p-3 font-monospace">${html}</div>`;
+            .then(response => {
+                if (!response.ok) throw new Error("Lore file not found.");
+                return response.text();
             })
-            .catch(() => dom.modalContent.innerHTML = `<div class="alert alert-warning">Lyrics Unavailable</div>`);
+            .then(text => {
+                // 3. Parse Markdown
+                // Sanitize HTML tags to prevent XSS
+                let safeText = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                
+                // Split file by double newlines (paragraphs)
+                let blocks = safeText.split(/\n\s*\n/);
+
+                // Process each block
+                let htmlOutput = blocks.map(block => {
+                    let lines = block.trim().split(/\n/);
+                    if (lines.length === 0) return '';
+
+                    let headerHtml = '';
+                    let contentLines = lines;
+                    let firstLine = lines[0].trim();
+
+                    // Detect "**HEADER:**" pattern (e.g., **LORE NOTE:**)
+                    if (firstLine.match(/^\*\*[A-Z ]+:\*\*$/)) {
+                        let cleanHeader = firstLine.replace(/\*\*/g, ''); // Strip stars
+                        headerHtml = `<h4 class="text-warning fw-bold border-bottom border-secondary pb-2 mb-3 mt-2">${cleanHeader}</h4>`;
+                        contentLines = lines.slice(1); // Remove header from body
+                    }
+                    // Detect "[Section Header]" pattern (e.g., [Chorus])
+                    else if (firstLine.match(/^[\(\[].*?[\)\]]$/)) {
+                        headerHtml = `<h5 class="text-info fw-bold text-uppercase mb-2 mt-2">${firstLine}</h5>`;
+                        contentLines = lines.slice(1);
+                    }
+
+                    // Bold specific text within lines
+                    let processedBody = contentLines.map(line => {
+                        return line.replace(/\*\*(.*?)\*\*/g, '<strong class="text-body fw-bold">$1</strong>');
+                    });
+
+                    if (contentLines.length === 0) return `<div class="mb-4">${headerHtml}</div>`;
+
+                    return `
+                        <div class="lyrics-block mb-4">
+                            ${headerHtml}
+                            <div style="line-height: 1.6;">${processedBody.join('<br>')}</div>
+                        </div>`;
+                }).join('');
+
+                // 4. Render
+                dom.modalContent.innerHTML = `<div class="p-3">${htmlOutput}</div>`;
+            })
+            .catch(err => {
+                dom.modalContent.innerHTML = `<div class="alert alert-warning m-3">Data Corrupted. Unable to retrieve lyrics.</div>`;
+            });
     };
 
 })();
