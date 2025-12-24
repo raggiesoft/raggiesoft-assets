@@ -1,8 +1,16 @@
 #!/bin/bash
-# --- Engine Room Records: MASTER TRANSCODER (v17) ---
-# Updated for _workspace structure
 
-echo "Starting Engine Room Records Label Transcode (v17)..."
+# --- HARPER: THE STUDIO ENGINEER (v18) ---
+# "I live in the studio. I take raw master tapes and press them for the airwaves."
+#
+# ROLE:
+# Harper is the heavy lifter. She recursively scans the workspace for Master WAV files.
+# She uses FFmpeg to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
+# She also creates the Download Zips for the "License Gated" area.
+#
+# PERSONALITY: High-Energy, Efficient, Loud.
+
+echo "🎧 HARPER: Alright! Firing up the mixing board (v18)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -10,18 +18,17 @@ cd "$WORKSPACE_DIR" || exit
 ROOT_DIR=$(pwd) # This is now .../raggiesoft-assets/_workspace
 
 # --- PATH CONFIGURATION ---
-# We go UP one level to finding the assets
+# We go UP one level to find the assets
 SEARCH_PATH="../engine-room-records/artists"
 METADATA_FILE="../engine-room-records/artists/metadata.json"
-TEMP_SEARCH_INDEX="temp_search_index.jsonl" # Keep temp file in workspace
+TEMP_SEARCH_INDEX="temp_search_index.jsonl" 
 
-echo "Targeting: $SEARCH_PATH"
+echo "   🎚️  Targeting Studio Archives: $SEARCH_PATH"
 
 # Initialize Index
 echo "" > "$TEMP_SEARCH_INDEX" 
 
 # --- LOCATE 7-ZIP BINARY ---
-# Look in local build-tools first
 SEVEN_ZIP_LOCAL="./build-tools/7zip"
 USE_SEVEN_ZIP=false
 
@@ -43,19 +50,19 @@ else
 fi
 
 if [ "$USE_SEVEN_ZIP" = true ]; then
-    echo "  [OK] 7-Zip found: $SEVEN_ZIP_CMD"
+    echo "   ✅ HARPER: 7-Zip loaded: $SEVEN_ZIP_CMD"
 else
-    echo "  [WARN] 7-Zip not found. WAV archives will be skipped."
+    echo "   ⚠️  HARPER: I can't find 7-Zip! I'll skip the zip files for now."
 fi
 
 ffmpeg_flag="-n" 
 if [[ "$1" == "--rebuild" || "$1" == "-y" ]]; then
   ffmpeg_flag="-y"
-  echo "  WARNING: Rebuild flag detected."
+  echo "   ⚡ HARPER: Rebuild flag detected! Overwriting old tracks."
 fi
 
 if [ ! -d "$SEARCH_PATH" ]; then
-    echo "  ERROR: Directory not found at $SEARCH_PATH"
+    echo "   ❌ HARPER: Whoops! Directory not found at $SEARCH_PATH"
     exit 1
 fi
 
@@ -63,7 +70,6 @@ fi
 find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     
     album_dir=$(dirname "$tracks_file")
-    # We must jump to album dir to process, but remember to come back
     pushd "$album_dir" > /dev/null
     
     ALBUM_JSON="album.json"
@@ -90,7 +96,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     ARCHIVE_BASE_NAME="${NARRATIVE_YEAR}-${SAFE_ALBUM_NAME}"
 
     echo ""
-    echo "Processing: $ALBUM_ARTIST - $ALBUM_NAME"
+    echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
 
     # Art Param
     if [ ! -f "$ART_FILE" ]; then
@@ -126,13 +132,6 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         TRACK_NUM=$(echo "$track_json" | jq -r '.track')
 
         echo "$TRACK_NUM. $TITLE" >> "$README_FILE"
-        
-        # Add to Search Index (Append to temp file in WORKSPACE, using absolute path from ROOT_DIR variable)
-        # Note: We are currently inside album_dir, so we need to reference TEMP_SEARCH_INDEX via full path or relative step back
-        # Easier: Just cat to the file we defined earlier using the variable passed down? 
-        # Actually, variable scope in pipe loops in bash is tricky.
-        # FIX: We write to a temporary file inside the ALBUM dir, then cat it later?
-        # BETTER: Just append to the file using the absolute path we captured at start.
         
         # Capturing content for index
         LYRICS_CONTENT=""
@@ -184,7 +183,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "$ZIP_WAV" ./wav/*.wav "$README_FILE" "$ART_FILE" > /dev/null
         if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -t7z -mx=9 "$ZIP_WAV" ./lyrics/*.md > /dev/null; fi
         
-        echo "  -> Archives Created."
+        echo "   📦 HARPER: Archives zipped and locked."
     fi
     
     rm "$README_FILE"
@@ -192,11 +191,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 done
 
 # --- FINALIZE SEARCH INDEX ---
-echo "Building Search Index..."
+echo "🎧 HARPER: Finalizing the Search Index..."
 if [ -f "$TEMP_SEARCH_INDEX" ]; then
     jq -s '.' "$TEMP_SEARCH_INDEX" > "$METADATA_FILE"
     rm "$TEMP_SEARCH_INDEX"
-    echo "  [OK] Index built at: $METADATA_FILE"
+    echo "   ✅ HARPER: Index saved to $METADATA_FILE"
 fi
 
-echo "--- Complete ---"
+echo "🎧 HARPER: Session complete! The tracks are hot and ready for the radio."
