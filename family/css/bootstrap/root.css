@@ -47,7 +47,7 @@
 }
 
 /* --- 3. LIGHT MODE OVERRIDES --- */
-:root, [data-bs-theme="light"] {
+[data-bs-theme="light"] {
     --bs-primary: #0d6efd;
     --bs-body-bg: #ffffff;
     --bs-body-color: #212529;
