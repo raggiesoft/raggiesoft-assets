@@ -1,0 +1,43 @@
+/* /raggiesoft/css/bootstrap/family/extras.css */
+
+/* --- 1. DARK MODE LINK FIX --- */
+/* CRITICAL FIX: When a link has class="text-dark" inside a card in dark mode, we force it white. */
+[data-bs-theme="dark"] .card .text-dark {
+    color: #e9ecef !important;
+}
+
+/* --- 2. FAMILY CARD STYLES --- */
+.card {
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+    border: 1px solid var(--bs-border-color-translucent);
+    overflow: hidden; 
+}
+
+/* Hover Lift Effect */
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.175) !important;
+    z-index: 2;
+}
+
+/* --- 3. SISTER-SPECIFIC BORDERS --- */
+/* Adds a subtle glow based on the sister's color */
+.border-info { border-color: var(--family-paige) !important; }
+.border-success { border-color: var(--family-jessica) !important; }
+.border-warning { border-color: var(--family-sarah) !important; }
+.border-primary { border-color: var(--family-michael) !important; }
+
+/* In Dark Mode, make the borders slightly transparent so they glow */
+[data-bs-theme="dark"] .card[class*="border-"] {
+    border-width: 1px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+/* --- 4. GLASS HEADER --- */
+/* Used for the "Hero" sections */
+.glass-header {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--glass-border);
+}

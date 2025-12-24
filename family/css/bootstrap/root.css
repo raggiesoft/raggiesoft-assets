@@ -1,0 +1,58 @@
+/* /raggiesoft/css/bootstrap/family/root.css */
+
+/* --- 1. THE FAMILY PALETTE --- */
+:root {
+    /* Michael (Architect) - Blue */
+    --family-michael: #0d6efd;
+    
+    /* Paige (Editor/Safe Person) - Cyan/Teal */
+    --family-paige: #0dcaf0;
+    
+    /* Jessica (Foundation) - Green */
+    --family-jessica: #198754;
+    
+    /* Sarah (Guardian) - Yellow/Warning */
+    --family-sarah: #ffc107;
+    
+    /* Harper (Studio) - Indigo/Purple */
+    --family-harper: #6610f2;
+    
+    /* Jenna (Dev Twin) - Orange */
+    --family-jenna: #fd7e14;
+    
+    /* Amanda/Elara (Router) - Teal */
+    --family-amanda: #20c997;
+
+    /* Global Font Stack */
+    --bs-body-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* --- 2. DARK MODE OVERRIDES --- */
+[data-bs-theme="dark"] {
+    --bs-body-bg: #121212; /* Soft Black */
+    --bs-body-color: #dee2e6;
+    
+    /* RGB Override for Header Glass Effect */
+    --bs-body-bg-rgb: 18, 18, 18;
+    
+    /* Fix: In Dark Mode, 'text-dark' links usually vanish. 
+       We redefine this variable locally to flip high-contrast. */
+    --bs-dark: #f8f9fa;
+    --bs-dark-rgb: 248, 249, 250;
+    
+    /* Glassmorphism Variables for Dark Mode */
+    --glass-bg: rgba(0, 0, 0, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+/* --- 3. LIGHT MODE OVERRIDES --- */
+:root, [data-bs-theme="light"] {
+    --bs-primary: #0d6efd;
+    --bs-body-bg: #ffffff;
+    --bs-body-color: #212529;
+    
+    /* Glassmorphism Variables for Light Mode */
+    --glass-bg: rgba(255, 255, 255, 0.85);
+    --glass-border: rgba(0, 0, 0, 0.1);
+}
