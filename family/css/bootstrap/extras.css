@@ -1,7 +1,6 @@
 /* /raggiesoft/css/bootstrap/family/extras.css */
 
 /* --- 1. DARK MODE LINK FIX --- */
-/* CRITICAL FIX: When a link has class="text-dark" inside a card in dark mode, we force it white. */
 [data-bs-theme="dark"] .card .text-dark {
     color: #e9ecef !important;
 }
@@ -13,7 +12,6 @@
     overflow: hidden; 
 }
 
-/* Hover Lift Effect */
 .card:hover {
     transform: translateY(-5px);
     box-shadow: 0 1rem 3rem rgba(0,0,0,0.175) !important;
@@ -21,23 +19,46 @@
 }
 
 /* --- 3. SISTER-SPECIFIC BORDERS --- */
-/* Adds a subtle glow based on the sister's color */
 .border-info { border-color: var(--family-paige) !important; }
 .border-success { border-color: var(--family-jessica) !important; }
 .border-warning { border-color: var(--family-sarah) !important; }
 .border-primary { border-color: var(--family-michael) !important; }
 
-/* In Dark Mode, make the borders slightly transparent so they glow */
 [data-bs-theme="dark"] .card[class*="border-"] {
     border-width: 1px;
     box-shadow: 0 0 15px rgba(0,0,0,0.3);
 }
 
 /* --- 4. GLASS HEADER --- */
-/* Used for the "Hero" sections */
 .glass-header {
     background: var(--glass-bg);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--glass-border);
+}
+
+/* --- 5. TERMINAL THEME (Forced Dark) --- */
+/* This ignores the global Light/Dark toggle and enforces a terminal look */
+.theme-terminal {
+    background-color: #0d1117 !important; /* GitHub Dark Dimmed */
+    color: #c9d1d9 !important;            /* GitHub Light Text */
+    border-color: var(--family-jessica) !important;
+}
+
+.theme-terminal .card-header {
+    background-color: rgba(25, 135, 84, 0.15) !important; /* Low-opacity green tint */
+    border-bottom: 1px solid var(--family-jessica) !important;
+    color: #2ea043 !important; /* Terminal Green */
+}
+
+/* Force specific colors for "muted" text inside the terminal so it doesn't disappear */
+.theme-terminal .text-muted, 
+.theme-terminal .opacity-75 {
+    color: #8b949e !important; /* GitHub Slate Grey */
+    opacity: 1 !important;     /* Reset opacity since we are setting the color directly */
+}
+
+/* Force the cursor to be green */
+.theme-terminal .blink-cursor {
+    color: #2ea043 !important;
 }
