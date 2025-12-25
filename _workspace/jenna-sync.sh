@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v4) ---
-# "I live on your machine, keeping your local workspace and the cloud in perfect harmony."
-# Usage: ./jenna-sync.sh --push | --pull
+# --- JENNA: THE DEVELOPMENT LIAISON (v5.5 - The "Smoking Gun" Fix) ---
+# "Okay, I was looking in the wrong drawer. Found them now!"
+# Usage: ./jenna-sync.sh --push "Message"
 
-# 1. ESTABLISH ABSOLUTE PATHS
+# 1. ESTABLISH PATHS (Relative for PHP)
 WORKSPACE_DIR=$(cd "$(dirname "$0")" && pwd)
 ASSETS_ROOT=$(cd "$WORKSPACE_DIR/.." && pwd)
 HUB_ROOT=$(cd "$ASSETS_ROOT/../raggiesoft-hub" && pwd)
@@ -36,15 +36,95 @@ if [ ! -f "$RCLONE_CONF" ]; then
     exit 1
 fi
 
-# 2. JENNA'S LOGIC
+# 3. JENNA'S BRAIN
+
 function show_help() {
-    echo "========================================"
-    echo "   👱‍♀️ JENNA (Dev Sync)"
-    echo "========================================"
-    echo "Hey! Tell me what to do:"
-    echo "  ./jenna-sync.sh --pull   (I'll grab the latest from Sarah/GitHub)"
-    echo "  ./jenna-sync.sh --push   (I'll send your work up to the cloud)"
-    echo ""
+    echo "Usage: ./jenna-sync.sh --push \"Commit Message\""
+}
+
+# --- THE QA VALIDATOR ---
+function run_integrity_check() {
+    echo "👱‍♀️ JENNA: QA Protocol Initiated..."
+    echo "          (Scanning routes for broken links and accessibility violations...)"
+
+    # Pass the relative path to the PHP script
+    RELATIVE_HUB_PATH="../raggiesoft-hub"
+
+    php -r "
+        // Resolve absolute path from PHP side (100% reliable on Windows)
+        \$hubRoot = realpath(__DIR__ . '/../../raggiesoft-hub');
+
+        if (!\$hubRoot || !is_dir(\$hubRoot)) {
+             echo \"❌ CRITICAL: PHP could not find the Hub folder!\\n\";
+             echo \"   Attempted to resolve: \" . __DIR__ . '/../../raggiesoft-hub' . \"\\n\";
+             exit(1);
+        }
+
+        \$hasErrors = false;
+        
+        // 1. Find all Route JSONs (UPDATED PATH: /data/routes)
+        \$pattern = \$hubRoot . '/data/routes/*.json';
+        \$files = glob(\$pattern);
+        
+        if (empty(\$files)) {
+            echo \"❌ CRITICAL: No route files found!\\n\";
+            echo \"   Looking in: \$pattern\\n\";
+            exit(1);
+        }
+
+        foreach(\$files as \$f) {
+            \$filename = basename(\$f);
+            \$json = file_get_contents(\$f);
+            \$data = json_decode(\$json, true);
+            
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                echo \"❌ JSON SYNTAX ERROR: \$filename is malformed!\\n\";
+                \$hasErrors = true;
+                continue;
+            }
+
+            foreach(\$data as \$route => \$config) {
+                
+                // CHECK A: WCAG / Section 508 (Alt Text)
+                if (isset(\$config['navbarBrandLogo']) && !empty(\$config['navbarBrandLogo'])) {
+                    if (!isset(\$config['navbarBrandAlt']) || empty(trim(\$config['navbarBrandAlt']))) {
+                        echo \"❌ WCAG FAIL: [\$filename] Route '\$route' has a Logo but NO Alt Text!\\n\";
+                        \$hasErrors = true;
+                    }
+                }
+
+                // CHECK B: Broken Views (PHP File Missing)
+                if (isset(\$config['view'])) {
+                    \$viewPath = \$hubRoot . '/' . \$config['view'] . '.php';
+                    
+                    // Normalize slashes for Windows check
+                    \$viewPath = str_replace('/', DIRECTORY_SEPARATOR, \$viewPath);
+                    
+                    if (!file_exists(\$viewPath)) {
+                        echo \"❌ 404 FAIL:  [\$filename] Route '\$route' points to missing file: \\n\";
+                        echo \"             -> \$viewPath\\n\";
+                        \$hasErrors = true;
+                    }
+                }
+            }
+        }
+
+        if (\$hasErrors) {
+            exit(1); 
+        }
+        exit(0); 
+    "
+
+    if [ $? -ne 0 ]; then
+        echo ""
+        echo "========================================"
+        echo "🛑 JENNA: INTEGRITY CHECK FAILED."
+        echo "========================================"
+        echo "I cannot push broken code. See errors above."
+        exit 1
+    else
+        echo "✅ JENNA: Integrity check passed. Proceeding..."
+    fi
 }
 
 function do_pull() {
@@ -71,14 +151,27 @@ function do_pull() {
 }
 
 function do_push() {
-    echo "👱‍♀️ JENNA: Alright, let's ship this! Sending it up..."
+    COMMIT_MSG="$1"
+
+    # 1. GUARDRAIL
+    if [[ -z "$COMMIT_MSG" ]]; then
+        echo "🛑 JENNA: MISSING COMMIT MESSAGE"
+        echo "Usage: ./jenna-sync.sh --push \"Your message here\""
+        exit 1
+    fi
+
+    # 2. QA Check
+    run_integrity_check
+
+    # 3. HUB PUSH
+    echo "👱‍♀️ JENNA: Shipping it! Message: \"$COMMIT_MSG\""
     
-    echo "   1. Packaging the Code (Hub)..."
+    echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then
         cd "$HUB_ROOT"
         git add .
         if ! git diff-index --quiet HEAD --; then
-             git commit -m "Jenna: Automated sync commit"
+             git commit -m "$COMMIT_MSG"
              git push origin main
              echo "      ✓ Code sent to GitHub."
         else
@@ -86,17 +179,19 @@ function do_push() {
         fi
     fi
     
-    echo "   2. Packaging the Workspace (Assets)..."
+    # 4. ASSETS PUSH
+    echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
     git add .
     if ! git diff-index --quiet HEAD --; then
-        git commit -m "Jenna: Workspace update"
+        git commit -m "$COMMIT_MSG"
         git push origin main
         echo "      ✓ Workspace synced to GitHub."
     else
         echo "      (Assets repo looks unchanged.)"
     fi
     
+    # 5. CDN SYNC
     echo "   3. Beaming heavy assets to the CDN..."
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \
@@ -105,12 +200,12 @@ function do_push() {
         --exclude ".gitignore" \
         -P --transfers=8
         
-    echo "👱‍♀️ JENNA: Success! Sarah should see these changes on the server soon."
+    echo "👱‍♀️ JENNA: Success! Sarah will pick this up shortly."
 }
 
-# 3. EXECUTE
+# 4. EXECUTE
 case "$1" in
     --pull) do_pull ;;
-    --push) do_push ;;
+    --push) do_push "$2" ;; 
     *) show_help ;;
 esac
