@@ -24,13 +24,3 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
     border-color: var(--mpr-blue-600) !important;
     color: #ffffff !important;
 }
-
-/* 3. Navbar Safety Net (Redundant Check) */
-/* Even though bootstrap-base.css handles this, we ensure it here */
-header .navbar {
-    background-color: #050508 !important; 
-}
-header .navbar-brand, 
-header .nav-link {
-    color: #E0E0FF !important;
-}
