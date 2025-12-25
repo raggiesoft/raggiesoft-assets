@@ -1,20 +1,25 @@
-/* bootstrap-header.css (Dynamic Theme Support) */
+/* bootstrap-header.css (Dynamic Theme Support - Fixed for Light Mode Default) */
 
 /* 1. Navbar Base */
-/* We use variables with a fallback to Dark Mode for safety */
 header .navbar {
-    background-color: var(--bs-body-bg, #050508) !important;
-    border-bottom: 1px solid var(--bs-border-color, rgba(255, 255, 255, 0.1)) !important;
-    transition: background-color 0.3s ease;
+    /* FIXED: Fallback is now White (#ffffff) to match root.css :root default.
+       var(--bs-body-bg) will automatically switch this to #121212 in Dark Mode. */
+    background-color: var(--bs-body-bg, #ffffff) !important;
+    
+    /* FIXED: Fallback is now Light Grey (#dee2e6) for visibility on white backgrounds. */
+    border-bottom: 1px solid var(--bs-border-color, #dee2e6) !important;
+    
+    transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 /* 2. Text Colors */
-/* Inherit from the theme's body/link colors instead of forcing white */
+/* We use body-color variables so text automatically flips Black <-> White */
 header .navbar-brand {
-    color: var(--bs-heading-color, var(--bs-body-color)) !important;
+    color: var(--bs-body-color) !important;
 }
 
 header .nav-link {
+    /* Use secondary color variable (Grey) */
     color: var(--bs-secondary) !important;
 }
 
@@ -28,6 +33,7 @@ header .navbar-toggler {
     border-color: var(--bs-border-color) !important;
 }
 header .navbar-toggler .hamburger-bar {
+    /* This ensures the bars are Black in Light Mode, White in Dark Mode */
     background-color: var(--bs-body-color) !important;
 }
 
@@ -40,25 +46,21 @@ header .dropdown-item {
     color: var(--bs-body-color) !important;
 }
 header .dropdown-item:hover {
-    background-color: var(--bs-secondary-bg) !important; 
+    /* Uses tertiary-bg (defined in root.css) for the hover state */
+    background-color: var(--bs-tertiary-bg, #f8f9fa) !important; 
     color: var(--bs-primary) !important;
 }
 
-
-/* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
+/* 5. CORPORATE LOGO MAGIC */
+/* This handles the Engine Room / Corporate JPG logos with white backgrounds */
 .navbar-brand-corporate-img {
-    /* Default (Light Mode): 
-       'Multiply' makes the white background disappear, 
-       leaving crisp black text. */
+    /* Light Mode: Multiply makes the white background transparent */
     mix-blend-mode: multiply; 
 }
 
 /* Dark Mode Override */
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
-    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
+    /* Dark Mode: Invert colors (White bg -> Black bg) then Screen (Black bg -> Transparent) */
     filter: invert(1) grayscale(100%); 
-    
-    /* Step 2: 'Screen' makes the new Black background disappear,
-       leaving crisp WHITE text. */
     mix-blend-mode: screen; 
 }
