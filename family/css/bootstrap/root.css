@@ -1,6 +1,6 @@
 /* /raggiesoft/css/bootstrap/family/root.css */
 
-/* --- 1. THE FAMILY PALETTE --- */
+/* --- 1. THE FAMILY PALETTE (Default/Light) --- */
 :root {
     /* Michael (Architect) - Blue */
     --family-michael: #0d6efd;
@@ -14,7 +14,7 @@
     /* Sarah (Guardian) - Yellow/Warning */
     --family-sarah: #ffc107;
     
-    /* Harper (Studio) - Indigo/Purple */
+    /* Harper (Studio) - Indigo/Purple (Dark for Light Mode) */
     --family-harper: #6610f2;
     
     /* Jenna (Dev Twin) - Orange */
@@ -30,16 +30,12 @@
 
 /* --- 2. DARK MODE OVERRIDES --- */
 [data-bs-theme="dark"] {
-    --bs-body-bg: #121212; /* Soft Black */
+    --bs-body-bg: #121212; 
     --bs-body-color: #dee2e6;
-    
-    /* RGB Override for Header Glass Effect */
     --bs-body-bg-rgb: 18, 18, 18;
     
-    /* Fix: In Dark Mode, 'text-dark' links usually vanish. 
-       We redefine this variable locally to flip high-contrast. */
-    --bs-dark: #f8f9fa;
-    --bs-dark-rgb: 248, 249, 250;
+    /* Fix: Override Harper's purple to be lighter in Dark Mode for contrast */
+    --family-harper: #d0bfff; 
     
     /* Glassmorphism Variables for Dark Mode */
     --glass-bg: rgba(0, 0, 0, 0.7);
@@ -52,7 +48,6 @@
     --bs-body-bg: #ffffff;
     --bs-body-color: #212529;
     
-    /* Glassmorphism Variables for Light Mode */
     --glass-bg: rgba(255, 255, 255, 0.85);
     --glass-border: rgba(0, 0, 0, 0.1);
 }
