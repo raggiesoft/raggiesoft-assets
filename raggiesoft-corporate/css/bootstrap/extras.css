@@ -128,3 +128,12 @@ html, body {
     --fa-primary-color: var(--bs-primary);
     --fa-secondary-color: var(--bs-secondary);
 }
+/* Utility: Turn any image pure white */
+.img-white {
+    filter: brightness(0) invert(1);
+}
+
+/* Specific: White Logo with Glow (combines your requested effects) */
+.logo-white-glow {
+    filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+}
