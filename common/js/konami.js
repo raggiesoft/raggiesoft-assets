@@ -17,16 +17,26 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Get expected key from sequence
         let requiredKey = konamiCode[currentPosition];
-        if (requiredKey.length === 1) requiredKey = requiredKey.toLowerCase();
+        if (requiredKey && requiredKey.length === 1) requiredKey = requiredKey.toLowerCase();
 
         if (key === requiredKey) {
             currentPosition++;
             
             // If the full sequence is entered
             if (currentPosition === konamiCode.length) {
+                
                 // Trigger the Bootstrap Modal
-                const secretModal = new bootstrap.Modal(document.getElementById('konamiModal'));
-                secretModal.show();
+                const modalElement = document.getElementById('konamiModal');
+                if (modalElement && window.bootstrap) {
+                    // Check if a modal instance already exists to avoid toggling issues
+                    let secretModal = bootstrap.Modal.getInstance(modalElement);
+                    if (!secretModal) {
+                        secretModal = new bootstrap.Modal(modalElement);
+                    }
+                    secretModal.show();
+                } else {
+                    console.warn("Konami Activated, but modal element or Bootstrap is missing.");
+                }
                 
                 // Reset sequence
                 currentPosition = 0;
@@ -36,23 +46,4 @@ document.addEventListener('DOMContentLoaded', () => {
             currentPosition = 0;
         }
     });
-
-    // Page Loader Logic (Existing)
-    const loader = document.getElementById('page-loader');
-    if(loader) {
-        document.querySelectorAll('a').forEach(link => {
-            link.addEventListener('click', function(e) {
-                const href = this.getAttribute('href');
-                const target = this.getAttribute('target');
-                if (href && target !== '_blank' && !href.startsWith('#') && !href.startsWith('javascript:') && !href.startsWith('mailto:') && !href.startsWith('tel:') && !this.hasAttribute('download')) {
-                    const currentUrl = window.location.pathname;
-                    if (href.startsWith('#') || (href.includes(currentUrl) && href.includes('#'))) return;
-                    loader.classList.add('active');
-                }
-            });
-        });
-        window.addEventListener('pageshow', function(event) {
-            if (event.persisted) loader.classList.remove('active');
-        });
-    }
 });
