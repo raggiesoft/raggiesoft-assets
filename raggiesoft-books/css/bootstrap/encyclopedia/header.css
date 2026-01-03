@@ -1,0 +1,59 @@
+/* bootstrap-header.css (Encyclopedia Theme) */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/header.css */
+
+/* 1. Navbar Base */
+header .navbar {
+    background-color: var(--bs-body-bg) !important;
+    /* Encyclopedia Twist: Double border for a "Stationery" feel */
+    border-bottom: 3px double var(--bs-border-color) !important;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* 2. Text Colors */
+header .navbar-brand {
+    color: var(--bs-body-color) !important;
+    font-weight: 700;
+}
+
+header .nav-link {
+    color: var(--bs-secondary) !important;
+    font-weight: 500;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--bs-primary) !important;
+}
+
+/* 3. Hamburger Menu */
+header .navbar-toggler {
+    border-color: var(--bs-border-color) !important;
+}
+header .navbar-toggler .hamburger-bar {
+    background-color: var(--bs-body-color) !important;
+}
+
+/* 4. Dropdowns */
+header .dropdown-menu {
+    background-color: var(--bs-body-bg) !important;
+    border: 1px solid var(--bs-border-color) !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+header .dropdown-item {
+    color: var(--bs-body-color) !important;
+}
+header .dropdown-item:hover {
+    background-color: var(--bs-tertiary-bg) !important; 
+    color: var(--bs-primary) !important;
+}
+
+/* 5. Encyclopedia Logo Handling */
+header .navbar-brand-img {
+    /* Ensure logos look integrated on the paper background */
+    mix-blend-mode: multiply; 
+}
+
+/* In Dark Mode, switch to normal blending for visibility */
+[data-bs-theme="dark"] header .navbar-brand-img {
+    mix-blend-mode: normal;
+}

@@ -1,0 +1,37 @@
+/* bootstrap-footer.css (Encyclopedia Theme) */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/footer.css */
+
+footer {
+    background-color: var(--bs-body-bg) !important; 
+    color: var(--bs-body-color) !important;            
+    border-top: 1px solid var(--bs-border-color) !important;
+}
+
+/* Text Muting - Uses the Slate Scale from root.css */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--bs-secondary) !important; 
+    opacity: 0.8;
+}
+
+/* Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--bs-link-color) !important;
+    text-decoration-color: var(--bs-border-color); /* Subtle underline */
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--bs-link-hover-color) !important;
+    text-decoration: underline;
+}
+
+/* Admin Modal (The Console) */
+#konamiModal .modal-content {
+    background-color: var(--bs-body-bg) !important;
+    border: 2px solid var(--bs-primary) !important;
+    color: var(--bs-body-color) !important;
+    font-family: monospace; /* Encyclopedia console should feel raw */
+}

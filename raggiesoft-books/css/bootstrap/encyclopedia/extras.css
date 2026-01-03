@@ -1,0 +1,42 @@
+/* extras-encyclopedia.css */
+/* Component Overrides for the Narrative Encyclopedia */
+/* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/extras.css */
+
+/* --- 1. The Level 5 "Blackout" Card --- */
+/* Forces a "True Black" environment regardless of theme settings */
+.card-blackout {
+    background-color: #000000 !important;
+    border-color: var(--bs-danger) !important;
+    color: #ffffff !important;
+}
+
+.card-blackout .card-header {
+    background-color: var(--bs-danger) !important;
+    color: #ffffff !important;
+    border-bottom: 1px solid #000 !important;
+}
+
+.card-blackout .card-body {
+    background-color: #000000 !important;
+}
+
+/* FORCE overrides for text utilities inside the blackout card */
+.card-blackout .text-white,
+.card-blackout .text-white-50,
+.card-blackout .text-muted, 
+.card-blackout .text-body-secondary {
+    color: #ffffff !important; /* Force true white */
+    opacity: 0.8; /* Re-add the "muted" feel via opacity instead of gray color */
+}
+
+.card-blackout h1, .card-blackout h2, .card-blackout h3, 
+.card-blackout h4, .card-blackout h5, .card-blackout h6 {
+    color: #ffffff !important;
+}
+
+/* --- 2. Encyclopedia HUD Elements --- */
+.badge-ref-code {
+    font-family: monospace;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}

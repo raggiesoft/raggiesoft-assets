@@ -1,0 +1,50 @@
+/* safety-net-encyclopedia.css */
+/* RaggieSoft Encyclopedia Overrides */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/safety-net.css */
+
+/* 1. Academic Typography */
+/* Import Crimson Text for that "Reference Book" feel */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+body {
+    /* Keep body sans-serif for screen readability, but shift to a cleaner stack */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6; /* Increased line-height for reading long entries */
+}
+
+/* Headings use the Serif Brand Font */
+h1, h2, h3, h4, h5, h6, .navbar-brand, .brand-font {
+    font-family: "Crimson Text", "Georgia", "Times New Roman", serif;
+    font-weight: 700;
+    letter-spacing: -0.01em; 
+}
+
+.lead {
+    font-family: "Crimson Text", serif; /* Make lead paragraphs feel like book intros */
+    font-size: 1.35rem;
+}
+
+/* 2. Button Overrides */
+/* Ensure buttons are legible against the slate/paper backgrounds */
+.btn-primary {
+    color: #ffffff !important;
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    /* Darken slightly on hover */
+    filter: brightness(0.9); 
+    color: #ffffff !important;
+}
+
+/* 3. Card Tweaks for Encyclopedia */
+/* Makes cards feel more like "Index Cards" */
+.card {
+    border-radius: 4px; /* Sharper corners */
+}

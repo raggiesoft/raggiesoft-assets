@@ -1,0 +1,59 @@
+/* root-encyclopedia.css */
+/* Theme: RaggieSoft Encyclopedia (System Reference) */
+/* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/root.css */
+
+:root {
+    /* --- Brand Palette (Encyclopedia Specific) --- */
+    --enc-ink-500: #42AADB;   /* Standard RaggieSoft Blue */
+    --enc-paper-bg: #f8f9fa;  /* Light Gray Paper */
+    --enc-ink-text: #2c3e50;  /* Deep Slate Text */
+    
+    /* --- Utility Bases --- */
+    --bs-white: #ffffff;
+    --bs-white-rgb: 255, 255, 255;
+    --bs-black: #000000;
+    --bs-black-rgb: 0, 0, 0;
+}
+
+/* --- LIGHT MODE --- */
+:root,
+[data-bs-theme="light"] {
+    --bs-primary: #42AADB;
+    --bs-primary-rgb: 66, 170, 219;
+    
+    --bs-body-bg: #ffffff;
+    --bs-body-color: #2c3e50; /* Sharper contrast for reading */
+    
+    --bs-link-color: #2980b9;
+    --bs-link-hover-color: #3498db;
+    
+    --bs-border-color: #dee2e6;
+    --bs-tertiary-bg: #f8f9fa;
+}
+
+/* --- DARK MODE --- */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bs-body-bg: #0f172a; /* Slate-900 (Rich Dark Blue/Black) */
+        --bs-body-color: #cbd5e1; /* Slate-300 */
+        
+        --bs-primary: #38bdf8; /* Sky-400 */
+        
+        --bs-border-color: #1e293b; /* Slate-800 */
+        --bs-tertiary-bg: #1e293b;
+
+        /* RaggieSoft Root Override for Dark Mode White */
+        /* We keep this slightly off-white for general text comfort... */
+        --bs-white: #f1f5f9; 
+        --bs-white-rgb: 241, 245, 249;
+    }
+}
+
+[data-bs-theme="dark"] {
+    --bs-body-bg: #0f172a;
+    --bs-body-color: #cbd5e1;
+    --bs-primary: #38bdf8;
+    --bs-border-color: #1e293b;
+    --bs-tertiary-bg: #1e293b;
+    --bs-white: #f1f5f9; 
+}
