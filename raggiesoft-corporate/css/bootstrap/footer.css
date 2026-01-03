@@ -7,6 +7,7 @@ footer {
 }
 
 /* Fix Muted Text */
+/* Uses the corrected --bs-secondary from root.css */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
