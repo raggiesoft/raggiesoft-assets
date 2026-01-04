@@ -7,24 +7,30 @@ header .navbar {
     transition: background-color 0.3s ease;
 }
 
-/* 2. Text Colors (THE FIX) */
-/* We explicitly force the text to be White/Light by referencing --astra-text if available,
-   falling back to white. This overrides any "navbar-light" defaults. */
+/* 2. Text Colors (THE HARD FIX) */
+/* We are abandoning the Bootstrap variable for the brand because it keeps resolving to black.
+   We now explicitly force it to White. */
 
 header .navbar-brand {
-    color: var(--bs-navbar-brand-color, #FFFFFF) !important;
-    font-family: 'Audiowide', cursive; /* Ensure font consistency */
+    color: #FFFFFF !important; /* Force White */
+    font-family: 'Audiowide', cursive;
     text-shadow: 0 0 10px rgba(112, 0, 255, 0.5); /* Subtle glow */
 }
 
+header .navbar-brand:hover {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 15px rgba(112, 0, 255, 0.8);
+}
+
 header .nav-link {
-    color: var(--bs-navbar-color, #E0E0FF) !important; /* Starlight White */
+    /* Use Astra Text (Blue-White) instead of generic Bootstrap variable */
+    color: var(--astra-text, #E0E0FF) !important; 
 }
 
 header .nav-link:hover,
 header .nav-link.active,
 header .nav-link:focus {
-    color: var(--bs-navbar-active-color, #00FFFF) !important; /* Astra Cyan */
+    color: var(--astra-info, #00FFFF) !important; /* Astra Cyan */
     text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);
 }
 
