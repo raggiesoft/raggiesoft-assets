@@ -10,7 +10,7 @@
     --font-industrial: 'Oswald', sans-serif;
     --font-tech: 'Roboto Mono', monospace;
     
-    --transition-speed: 0.3s; /* Faster, snappier transitions for tech feel */
+    --transition-speed: 0.3s;
 }
 
 /* Base Transition */
@@ -41,17 +41,14 @@ h1, h2, h3, h4, h5, h6,
     --bs-body-color: #212529;
     --bs-body-color-rgb: 33, 37, 41;
 
-    /* Accents: "Safety" Colors */
-    --bs-primary: #0d6efd;        /* Corporate Blue */
+    /* Accents */
+    --bs-primary: #0d6efd;
     --bs-primary-rgb: 13, 110, 253;
-    
-    --bs-secondary: #6c757d;      /* Concrete Grey */
+    --bs-secondary: #6c757d;
     --bs-secondary-rgb: 108, 117, 125;
-    
-    --bs-warning: #ffc107;        /* Hazard Yellow */
+    --bs-warning: #ffc107;
     --bs-warning-rgb: 255, 193, 7;
-    
-    --bs-danger: #dc3545;         /* Emergency Red */
+    --bs-danger: #dc3545;
     --bs-danger-rgb: 220, 53, 69;
 
     --bs-border-color: #dee2e6;
@@ -65,52 +62,89 @@ h1, h2, h3, h4, h5, h6,
     --bs-card-bg: #ffffff;
     --bs-card-border-color: #ced4da;
     
-    /* Navbar: Clean White Professional */
+    /* Navbar */
     --bs-navbar-bg: #ffffff;
     --bs-navbar-color: #212529;
     --bs-navbar-active-color: #0d6efd;
     --bs-navbar-brand-color: #000000;
 }
 
-/* --- 3. DARK MODE (STUDIO NIGHT) --- */
+/* --- 3. DARK MODE ADAPTATION (Missing Piece) --- */
+/* This block ensures users with "Dark Mode" OS settings see the correct theme immediately */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bs-body-bg: #121212; 
+        --bs-body-bg-rgb: 18, 18, 18;
+        --bs-body-color: #e0e0e0;
+        --bs-body-color-rgb: 224, 224, 224;
+
+        --bs-primary: #00d4ff;
+        --bs-primary-rgb: 0, 212, 255;
+        --bs-secondary: #495057;
+        --bs-secondary-rgb: 73, 80, 87;
+        --bs-warning: #ff9900;
+        --bs-warning-rgb: 255, 153, 0;
+        --bs-danger: #ff3333;
+        --bs-danger-rgb: 255, 51, 51;
+        
+        --bs-border-color: #333333;
+        --bs-border-color-translucent: rgba(255, 255, 255, 0.1);
+        
+        --bs-link-color: #00d4ff;
+        --bs-link-hover-color: #ffffff;
+
+        --bs-card-bg: #1a1a1a;
+        --bs-card-border-color: #444444;
+        
+        --bs-navbar-bg: #000000;
+        --bs-navbar-color: #a0a0a0;
+        --bs-navbar-active-color: #00d4ff;
+        --bs-navbar-brand-color: #ffffff;
+
+        /* CRITICAL FIX: Redefine "Light" utility for Dark Mode */
+        /* This forces .bg-light to become Dark Gray instead of White */
+        --bs-light: #2b3035; 
+        --bs-light-rgb: 43, 48, 53;
+        --bs-dark: #f8f9fa; /* Invert 'dark' to be light for contrast */
+        --bs-dark-rgb: 248, 249, 250;
+    }
+}
+
+/* --- 4. FORCED DARK MODE (If triggered via JS/Header) --- */
 [data-bs-theme="dark"] {
     color-scheme: dark;
 
-    /* Backgrounds: Matte Studio Black */
     --bs-body-bg: #121212; 
     --bs-body-bg-rgb: 18, 18, 18;
-    
-    /* Text: LCD Grey */
     --bs-body-color: #e0e0e0;
     --bs-body-color-rgb: 224, 224, 224;
 
-    /* Accents: "Glowing LEDs" */
-    --bs-primary: #00d4ff;        /* Signal Blue (LED) */
+    --bs-primary: #00d4ff;
     --bs-primary-rgb: 0, 212, 255;
-    
-    --bs-secondary: #495057;      /* Rackmount Grey */
+    --bs-secondary: #495057;
     --bs-secondary-rgb: 73, 80, 87;
-    
-    --bs-warning: #ff9900;        /* Amber Light */
+    --bs-warning: #ff9900;
     --bs-warning-rgb: 255, 153, 0;
-    
-    --bs-danger: #ff3333;         /* Overload Red */
+    --bs-danger: #ff3333;
     --bs-danger-rgb: 255, 51, 51;
     
     --bs-border-color: #333333;
     --bs-border-color-translucent: rgba(255, 255, 255, 0.1);
     
-    /* Links */
     --bs-link-color: #00d4ff;
     --bs-link-hover-color: #ffffff;
 
-    /* Components */
-    --bs-card-bg: #1a1a1a;        /* Dark Grey Equipment */
-    --bs-card-border-color: #444444; /* Brushed Metal Edge */
+    --bs-card-bg: #1a1a1a;
+    --bs-card-border-color: #444444;
     
-    /* Navbar: Rackmount Interface */
     --bs-navbar-bg: #000000;
     --bs-navbar-color: #a0a0a0;
     --bs-navbar-active-color: #00d4ff;
     --bs-navbar-brand-color: #ffffff;
+
+    /* CRITICAL FIX: Redefine "Light" utility for Dark Mode */
+    --bs-light: #2b3035; 
+    --bs-light-rgb: 43, 48, 53;
+    --bs-dark: #f8f9fa;
+    --bs-dark-rgb: 248, 249, 250;
 }
