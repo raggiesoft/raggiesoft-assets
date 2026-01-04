@@ -7,42 +7,72 @@ header .navbar {
     transition: background-color 0.3s ease;
 }
 
-/* 2. Text Colors (UPDATED) */
-/* Use specific navbar variables so root.css can control them */
+/* 2. Text Colors (THE FIX) */
+/* We explicitly force the text to be White/Light by referencing --astra-text if available,
+   falling back to white. This overrides any "navbar-light" defaults. */
+
 header .navbar-brand {
-    color: var(--bs-navbar-brand-color, #ffffff) !important;
+    color: var(--bs-navbar-brand-color, #FFFFFF) !important;
+    font-family: 'Audiowide', cursive; /* Ensure font consistency */
+    text-shadow: 0 0 10px rgba(112, 0, 255, 0.5); /* Subtle glow */
 }
 
 header .nav-link {
-    color: var(--bs-navbar-color, #e0e0e0) !important;
+    color: var(--bs-navbar-color, #E0E0FF) !important; /* Starlight White */
 }
 
 header .nav-link:hover,
-header .nav-link.active {
-    color: var(--bs-navbar-active-color, #00d4ff) !important;
+header .nav-link.active,
+header .nav-link:focus {
+    color: var(--bs-navbar-active-color, #00FFFF) !important; /* Astra Cyan */
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);
 }
 
 /* 3. Hamburger Menu */
 header .navbar-toggler {
-    border-color: var(--bs-border-color) !important;
+    border-color: var(--astra-info, #00FFFF) !important; /* Cyan Border */
 }
 
 /* TARGET THE SPANS CORRECTLY */
 header .navbar-toggler .hamburger-icon span {
-    background-color: var(--bs-navbar-color, #ffffff) !important; 
+    background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
+    box-shadow: 0 0 5px var(--astra-info);
+}
+
+/* When Active (The X) */
+header .navbar-toggler[aria-expanded="true"] .hamburger-icon span {
+    background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
+    box-shadow: 0 0 8px var(--astra-danger);
 }
 
 /* 4. Dropdowns */
 header .dropdown-menu {
-    background-color: var(--bs-body-bg) !important;
-    border-color: var(--bs-border-color) !important;
+    background-color: rgba(5, 5, 8, 0.95) !important; /* Deep Void */
+    border: 1px solid var(--astra-primary, #7000FF) !important;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.2);
 }
+
 header .dropdown-item {
-    color: var(--bs-body-color) !important;
+    color: var(--astra-text, #E0E0FF) !important;
+    font-family: 'Exo 2', monospace; /* Tech font for menus */
+    transition: all 0.2s ease;
 }
+
 header .dropdown-item:hover {
-    background-color: var(--bs-secondary-bg, rgba(255,255,255,0.1)) !important; 
-    color: var(--bs-primary) !important;
+    background-color: rgba(112, 0, 255, 0.2) !important; 
+    color: #FFFFFF !important;
+    padding-left: 1.5rem; /* Slight slide animation */
+}
+
+header .dropdown-header {
+    color: var(--astra-secondary, #B0B0C0) !important;
+    font-family: 'Audiowide', cursive;
+    letter-spacing: 1px;
+}
+
+header .dropdown-divider {
+    border-top: 1px solid var(--astra-secondary, #4B4B60) !important;
+    opacity: 0.3;
 }
 
 /* CORPORATE LOGO MAGIC */
@@ -52,49 +82,4 @@ header .dropdown-item:hover {
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
     filter: invert(1) grayscale(100%); 
     mix-blend-mode: screen; 
-}
-
-/* --- AD ASTRA SPECIFIC OVERRIDES --- */
-/* These ensure the HUD look is enforced regardless of mode */
-
-/* FORCE WHITE BRAND TEXT (The Fix) */
-header .navbar-brand {
-    color: #FFFFFF !important;
-    text-shadow: 0 0 10px rgba(0, 255, 255, 0.3); /* Subtle glow for readability */
-}
-
-/* FORCE HUD COLORS for Navbar Toggler */
-header .navbar-toggler {
-    border: 1px solid var(--astra-info, #00FFFF) !important;
-    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
-}
-
-/* The Hamburger Bars themselves */
-header .hamburger-icon span {
-    background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
-    box-shadow: 0 0 5px var(--astra-info, #00FFFF);
-}
-
-/* When Active (The X) */
-header .navbar-toggler[aria-expanded="true"] .hamburger-icon span {
-    background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
-    box-shadow: 0 0 8px var(--astra-danger, #FF0055);
-}
-
-/* Dropdown Menus in Space */
-header .dropdown-menu {
-    background-color: rgba(5, 5, 8, 0.95) !important;
-    border: 1px solid var(--astra-primary, #7000FF) !important;
-}
-header .dropdown-item {
-    color: var(--astra-text, #E0E0FF) !important;
-    font-family: 'Audiowide', sans-serif;
-    font-size: 0.85rem;
-    text-transform: uppercase;
-}
-header .dropdown-item:hover {
-    background-color: rgba(112, 0, 255, 0.2) !important;
-    color: #FFF !important;
-    padding-left: 1.5rem;
-    transition: all 0.2s ease;
 }
