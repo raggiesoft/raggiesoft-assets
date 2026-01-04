@@ -62,3 +62,41 @@ header .dropdown-item:hover {
        leaving crisp WHITE text. */
     mix-blend-mode: screen; 
 }
+
+/* header.css - Ad Astra Overrides */
+
+/* FORCE HUD COLORS for Ad Astra Navigation */
+[data-bs-theme="dark"] .navbar-toggler {
+    border: 1px solid var(--astra-info, #00FFFF) !important;
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+}
+
+/* The Hamburger Bars themselves */
+[data-bs-theme="dark"] .hamburger-icon span {
+    background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
+    box-shadow: 0 0 5px var(--astra-info, #00FFFF);
+}
+
+/* When Active (The X) */
+[data-bs-theme="dark"] .navbar-toggler[aria-expanded="true"] .hamburger-icon span {
+    background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
+    box-shadow: 0 0 8px var(--astra-danger, #FF0055);
+}
+
+/* Dropdown Menus in Space */
+[data-bs-theme="dark"] .dropdown-menu {
+    background-color: rgba(5, 5, 8, 0.95) !important;
+    border: 1px solid var(--astra-primary, #7000FF) !important;
+}
+[data-bs-theme="dark"] .dropdown-item {
+    color: var(--astra-text, #E0E0FF) !important;
+    font-family: 'Audiowide', sans-serif; /* Sci-Fi Font */
+    font-size: 0.85rem;
+    text-transform: uppercase;
+}
+[data-bs-theme="dark"] .dropdown-item:hover {
+    background-color: rgba(112, 0, 255, 0.2) !important;
+    color: #FFF !important;
+    padding-left: 1.5rem; /* Slight slide animation */
+    transition: all 0.2s ease;
+}
