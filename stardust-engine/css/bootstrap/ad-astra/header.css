@@ -1,7 +1,6 @@
 /* bootstrap-header.css (Dynamic Theme Support) */
 
 /* 1. Navbar Base */
-/* We use variables with a fallback to Dark Mode for safety */
 header .navbar {
     background-color: var(--bs-body-bg, #050508) !important;
     border-bottom: 1px solid var(--bs-border-color, rgba(255, 255, 255, 0.1)) !important;
@@ -9,26 +8,27 @@ header .navbar {
 }
 
 /* 2. Text Colors */
-/* Inherit from the theme's body/link colors instead of forcing white */
 header .navbar-brand {
-    color: var(--bs-heading-color, var(--bs-body-color)) !important;
+    color: var(--bs-navbar-brand-color) !important;
 }
 
 header .nav-link {
-    color: var(--bs-secondary) !important;
+    color: var(--bs-navbar-color) !important;
 }
 
 header .nav-link:hover,
 header .nav-link.active {
-    color: var(--bs-primary) !important;
+    color: var(--bs-navbar-active-color) !important;
 }
 
-/* 3. Hamburger Menu */
+/* 3. Hamburger Menu (THE FIX) */
 header .navbar-toggler {
     border-color: var(--bs-border-color) !important;
 }
-header .navbar-toggler .hamburger-bar {
-    background-color: var(--bs-body-color) !important;
+
+/* TARGET THE SPANS CORRECTLY */
+header .navbar-toggler .hamburger-icon span {
+    background-color: var(--bs-navbar-color) !important; /* Uses the fixed light color */
 }
 
 /* 4. Dropdowns */
@@ -40,63 +40,54 @@ header .dropdown-item {
     color: var(--bs-body-color) !important;
 }
 header .dropdown-item:hover {
-    background-color: var(--bs-secondary-bg) !important; 
+    background-color: var(--bs-secondary-bg, rgba(255,255,255,0.1)) !important; 
     color: var(--bs-primary) !important;
 }
 
-
-/* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
+/* CORPORATE LOGO MAGIC */
 .navbar-brand-corporate-img {
-    /* Default (Light Mode): 
-       'Multiply' makes the white background disappear, 
-       leaving crisp black text. */
     mix-blend-mode: multiply; 
 }
-
-/* Dark Mode Override */
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
-    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
     filter: invert(1) grayscale(100%); 
-    
-    /* Step 2: 'Screen' makes the new Black background disappear,
-       leaving crisp WHITE text. */
     mix-blend-mode: screen; 
 }
 
-/* header.css - Ad Astra Overrides */
+/* --- AD ASTRA SPECIFIC OVERRIDES --- */
+/* These ensure the HUD look is enforced regardless of mode */
 
-/* FORCE HUD COLORS for Ad Astra Navigation */
-[data-bs-theme="dark"] .navbar-toggler {
+/* FORCE HUD COLORS for Navbar Toggler */
+header .navbar-toggler {
     border: 1px solid var(--astra-info, #00FFFF) !important;
-    box-shadow: 0 0 10px rgba(0, 255, 255, 0.2);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
 }
 
 /* The Hamburger Bars themselves */
-[data-bs-theme="dark"] .hamburger-icon span {
+header .hamburger-icon span {
     background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
     box-shadow: 0 0 5px var(--astra-info, #00FFFF);
 }
 
 /* When Active (The X) */
-[data-bs-theme="dark"] .navbar-toggler[aria-expanded="true"] .hamburger-icon span {
+header .navbar-toggler[aria-expanded="true"] .hamburger-icon span {
     background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
     box-shadow: 0 0 8px var(--astra-danger, #FF0055);
 }
 
 /* Dropdown Menus in Space */
-[data-bs-theme="dark"] .dropdown-menu {
+header .dropdown-menu {
     background-color: rgba(5, 5, 8, 0.95) !important;
     border: 1px solid var(--astra-primary, #7000FF) !important;
 }
-[data-bs-theme="dark"] .dropdown-item {
+header .dropdown-item {
     color: var(--astra-text, #E0E0FF) !important;
-    font-family: 'Audiowide', sans-serif; /* Sci-Fi Font */
+    font-family: 'Audiowide', sans-serif;
     font-size: 0.85rem;
     text-transform: uppercase;
 }
-[data-bs-theme="dark"] .dropdown-item:hover {
+header .dropdown-item:hover {
     background-color: rgba(112, 0, 255, 0.2) !important;
     color: #FFF !important;
-    padding-left: 1.5rem; /* Slight slide animation */
+    padding-left: 1.5rem;
     transition: all 0.2s ease;
 }

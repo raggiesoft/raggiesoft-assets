@@ -46,4 +46,12 @@
     /* Links (High Contrast for Space) */
     --bs-link-color: var(--astra-info);
     --bs-link-hover-color: #FFFFFF;
+
+    /* --- NAVBAR OVERRIDES (The Fix) --- */
+    /* Forces the navbar to use light text against the void, 
+       even if the system thinks it is in Light Mode */
+    --bs-navbar-color: var(--astra-text);
+    --bs-navbar-active-color: var(--astra-info);
+    --bs-navbar-brand-color: var(--astra-text);
+    --bs-navbar-disabled-color: var(--astra-secondary);
 }
