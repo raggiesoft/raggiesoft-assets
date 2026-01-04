@@ -5,6 +5,7 @@
 body {
     font-family: "Courier New", Courier, monospace;
 }
+/* Headers get the Impact font for that "Varsity" look */
 h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .display-4 {
     font-family: "Impact", "Arial Black", sans-serif;
     text-transform: uppercase;
@@ -14,20 +15,22 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .disp
 /* 2. Dark Mode Fixes */
 @media (prefers-color-scheme: dark) {
     .alert-warning {
-        background-color: #3D1000;
+        background-color: #3D1000; /* Dark Orange bg */
         border-color: #E87722;
-        color: #F8F9FA;
+        color: #F8F9FA; /* White text for contrast */
     }
-    /* Fix Button Contrast: Black text on Orange button */
+    
+    /* Fix Button Contrast: BLACK text on Orange button is mandatory */
     .btn-primary {
         color: #000000 !important; 
         background-color: var(--bs-primary);
         border-color: var(--bs-primary);
+        font-weight: bold;
     }
     
-    /* Fix Card transparency for Stadium Atmosphere */
+    /* Fix Card transparency - must be dark enough for white text */
     .card {
-        background-color: rgba(255, 255, 255, 0.05);
+        background-color: rgba(30, 10, 15, 0.85); /* 85% opacity */
         border-color: var(--bs-border-color);
     }
     
@@ -35,6 +38,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .disp
     .navbar-brand { color: #FFFFFF !important; }
 }
 
+/* Force Dark Mode Classes */
 [data-bs-theme="dark"] .alert-warning {
     background-color: #3D1000;
     border-color: #E87722;
@@ -44,9 +48,10 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .disp
     color: #000000 !important;
     background-color: var(--bs-primary);
     border-color: var(--bs-primary);
+    font-weight: bold;
 }
 [data-bs-theme="dark"] .card {
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: rgba(30, 10, 15, 0.85);
     border-color: var(--bs-border-color);
 }
 [data-bs-theme="dark"] .navbar-brand { 
