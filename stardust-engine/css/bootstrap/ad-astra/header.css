@@ -7,28 +7,29 @@ header .navbar {
     transition: background-color 0.3s ease;
 }
 
-/* 2. Text Colors */
+/* 2. Text Colors (UPDATED) */
+/* Use specific navbar variables so root.css can control them */
 header .navbar-brand {
-    color: var(--bs-navbar-brand-color) !important;
+    color: var(--bs-navbar-brand-color, #ffffff) !important;
 }
 
 header .nav-link {
-    color: var(--bs-navbar-color) !important;
+    color: var(--bs-navbar-color, #e0e0e0) !important;
 }
 
 header .nav-link:hover,
 header .nav-link.active {
-    color: var(--bs-navbar-active-color) !important;
+    color: var(--bs-navbar-active-color, #00d4ff) !important;
 }
 
-/* 3. Hamburger Menu (THE FIX) */
+/* 3. Hamburger Menu */
 header .navbar-toggler {
     border-color: var(--bs-border-color) !important;
 }
 
 /* TARGET THE SPANS CORRECTLY */
 header .navbar-toggler .hamburger-icon span {
-    background-color: var(--bs-navbar-color) !important; /* Uses the fixed light color */
+    background-color: var(--bs-navbar-color, #ffffff) !important; 
 }
 
 /* 4. Dropdowns */
@@ -55,6 +56,12 @@ header .dropdown-item:hover {
 
 /* --- AD ASTRA SPECIFIC OVERRIDES --- */
 /* These ensure the HUD look is enforced regardless of mode */
+
+/* FORCE WHITE BRAND TEXT (The Fix) */
+header .navbar-brand {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 10px rgba(0, 255, 255, 0.3); /* Subtle glow for readability */
+}
 
 /* FORCE HUD COLORS for Navbar Toggler */
 header .navbar-toggler {
