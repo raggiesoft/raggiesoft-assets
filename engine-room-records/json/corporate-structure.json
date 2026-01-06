@@ -19,61 +19,7 @@
       "icon": "fa-duotone fa-record-vinyl",
       "color": "danger",
       "link": "/engine-room",
-      "meta": "Manager: The O'Connell Family, LLC",
-      "children": [
-        {
-          "title": "Stardust Studios",
-          "role": "Recording Studio / Production",
-          "icon": "fa-duotone fa-microphone-lines",
-          "color": "warning",
-          "link": "/engine-room/corporate/stardust-studios"
-        }
-      ]
-    },
-    {
-      "title": "Artists First Management, LLC",
-      "role": "Talent & Touring Operations",
-      "icon": "fa-duotone fa-users-viewfinder",
-      "color": "danger",
-      "link": "/engine-room/corporate/artists-first-management",
-      "meta": "Manager: The O'Connell Family, LLC",
-      "children": [
-        {
-          "title": "The Stardust Engine",
-          "role": "Legacy Artist",
-          "icon": "fa-duotone fa-guitar",
-          "color": "warning",
-          "link": "https://thestardustengine.com"
-        },
-        {
-          "title": "Mirage",
-          "role": "Artist",
-          "icon": "fa-duotone fa-music",
-          "color": "warning",
-          "meta": "Signed: 2000",
-          "children": [
-            {
-              "title": "The Arctic Symphony Project",
-              "role": "Artist Pseudonym (DBA)",
-              "icon": "fa-duotone fa-snowflake", 
-              "color": "info",
-              "meta": "Holiday Catalog & IP"
-            }
-          ]
-        },
-        {
-          "title": "Origin",
-          "role": "Artist",
-          "icon": "fa-duotone fa-music",
-          "color": "warning"
-        },
-        {
-          "title": "The Winter Palace",
-          "role": "Artist",
-          "icon": "fa-duotone fa-music",
-          "color": "warning"
-        }
-      ]
+      "meta": "Manager: The O'Connell Family, LLC"
     },
     {
       "title": "Stardust Properties, LLC",
@@ -85,16 +31,39 @@
       "children": [
         {
           "title": "Stardust Blacksburg, LLC",
-          "role": "Residential Portfolio",
-          "icon": "fa-duotone fa-house-user",
+          "role": "Student Housing Portfolio",
+          "icon": "fa-duotone fa-graduation-cap",
           "color": "warning",
-          "link": "/engine-room/corporate/stardust-blacksburg"
+          "link": "/engine-room/corporate/stardust-blacksburg",
+          "description": "DBA 'The Ironwood Collective'. Subsidized, high-quality housing for CPI students."
+        },
+        {
+          "title": "Stardust Strategic Assets, LLC",
+          "role": "Corporate Infrastructure",
+          "icon": "fa-duotone fa-chess-rook",
+          "color": "secondary",
+          "link": "/engine-room/corporate/strategic-assets",
+          "description": "Holds the private and operational real estate assets (HQ, Residence, Fleet Storage).",
+          "children": [
+            {
+               "title": "The Fortress",
+               "link": "/engine-room/corporate/strategic-assets/the-fortress",
+               "icon": "fa-duotone fa-house-chimney",
+               "role": "Private Residence"
+            },
+            {
+               "title": "Stardust Studios",
+               "link": "/engine-room/corporate/strategic-assets/stardust-studios",
+               "icon": "fa-duotone fa-warehouse",
+               "role": "Global HQ"
+            }
+          ]
         },
         {
           "title": "Pacific Rim Properties, LLC",
           "role": "Commercial Portfolio",
           "icon": "fa-duotone fa-building",
-          "color": "warning",
+          "color": "primary",
           "link": "/pacific-rim"
         }
       ]
@@ -108,11 +77,9 @@
     },
     {
       "title": "Aethelgard Holdings",
-      "role": "Strategic Acquisitions & Legal Enforcement",
+      "role": "Strategic Acquisitions",
       "icon": "fa-duotone fa-gavel",
-      "color": "secondary",
-      "meta": "Status: Active // Purpose: Asset Protection & Hostile Defense",
-      "description": "Originally formed to liquidate Omni-Global, Aethelgard now serves as the family's 'Iron Hand,' managing high-stakes litigation and acquiring distressed assets that threaten the ecosystem of the Trust."
+      "color": "secondary"
     }
   ]
 }
