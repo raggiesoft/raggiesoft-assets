@@ -1,0 +1,121 @@
+JENNA'S PAGE AUDIT REPORT
+Generated: 2026-01-07 23:09:53 (System Local Time)
+Summary:   38 Orphans | 0 Drafts
+
+===================================================
+⚠️  ORPHANED PAGES (Not linked in any JSON)
+===================================================
+File:  pages/dev/overview.php
+Title: (No H1 Found)
+---------------------------------------------------
+File:  pages/engine-room/about.php
+Title: Built for Protection.
+---------------------------------------------------
+File:  pages/engine-room/artists/mirage/2001-static-and-silence.php
+Title: MIRAGE
+---------------------------------------------------
+File:  pages/engine-room/artists/mirage/overview.php
+Title: MIRAGE
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/about.php
+Title: Mission Profile
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/contact.php
+Title: Subspace Relay
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/license.php
+Title: Project Licensing
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/radio.php
+Title: Engine Room Radio
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/cpi/overview.php
+Title: Commonwealth Polytechnic Institute
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/hard-reset-tour/london-discovery.php
+Title: The Discovery
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/hard-reset-tour/paternoster-incident.php
+Title: The Paternoster
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/nine-figure-refusal/chapter-7-conversion-order.php
+Title: The Death Warrant
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/nine-figure-refusal/staff-retention.php
+Title: THE "BRIDGE" OFFER
+---------------------------------------------------
+File:  pages/engine-room/artists/stardust-engine/story/nine-figure-refusal/sun-ray-catalog-transfer.php
+Title: LOT 200: THE JOURNEY
+---------------------------------------------------
+File:  pages/engine-room/artists/the-winter-palace/discography/1996-tales-of-the-solstace.php
+Title: Upon This Winter's Night
+---------------------------------------------------
+File:  pages/engine-room/artists/the-winter-palace/overview.php
+Title: The Winter Palace
+---------------------------------------------------
+File:  pages/engine-room/assets/iron-horse/delivery.php
+Title: The First Lift
+---------------------------------------------------
+File:  pages/engine-room/assets/iron-horse/negotiation.php
+Title: The Sainte-Claire Protocol
+---------------------------------------------------
+File:  pages/engine-room/assets/overview.php
+Title: Strategic Assets
+---------------------------------------------------
+File:  pages/engine-room/corporate/pacific-rim/overview.php
+Title: Pacific Rim Properties
+---------------------------------------------------
+File:  pages/engine-room/corporate/security/sensory-scale.php
+Title: Sensory Distress Scale
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/amenities.php
+Title: Built for the Dean's List
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/accessibility.php
+Title: Barrier-Free Living
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/apartment-amenities.php
+Title: The Standard Spec
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/competitor-analysis.php
+Title: (No H1 Found)
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/furniture-philosophy.php
+Title: Why We Don't Furnish
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/policies.php
+Title: The Household Protocol
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/documents/welcome-letter.php
+Title: Stardust Blacksburg, LLC
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/leasing.php
+Title: Rent a Home, Not a Bunk
+---------------------------------------------------
+File:  pages/engine-room/corporate/stardust-blacksburg/location.php
+Title: The 15-Minute Rule
+---------------------------------------------------
+File:  pages/engine-room/corporate/strategic-assets/overview.php
+Title: Stardust Strategic Assets, LLC
+---------------------------------------------------
+File:  pages/engine-room/corporate/strategic-assets/stardust-studios.php
+Title: Stardust Studios
+---------------------------------------------------
+File:  pages/engine-room/corporate/strategic-assets/the-fortress.php
+Title: The Fortress
+---------------------------------------------------
+File:  pages/engine-room/corporate/strategic-assets/the-vault.php
+Title: The Engine Room Archives
+---------------------------------------------------
+File:  pages/oconnell-trust/overview.php
+Title: The O'Connell FamilyRevocable Trust
+---------------------------------------------------
+File:  pages/raggiesoft-books/aethel-saga/aethel-book/overview.php
+Title: The Silver Gauntlet of Aethel
+---------------------------------------------------
+File:  pages/raggiesoft-books/aethel-saga/aethel-book/viewer.php
+Title: 
+---------------------------------------------------
+File:  pages/raggiesoft-books/aethel-saga/lore/overview.php
+Title: The Archives
+---------------------------------------------------

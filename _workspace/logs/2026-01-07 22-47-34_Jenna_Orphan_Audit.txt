@@ -1,0 +1,268 @@
+JENNA'S ORPHANED PAGE REPORT
+Generated: 2026-01-07 22:47:34 (System Local Time)
+Found 66 pages not referenced in any Route JSON.
+
+---------------------------------------------------
+Directory: pages/dev
+File:      overview.php
+Title:     (No H1 Found)
+---------------------------------------------------
+Directory: pages/engine-room
+File:      about.php
+Title:     Built for Protection.
+---------------------------------------------------
+Directory: pages/engine-room/artists/mirage
+File:      2001-static-and-silence.php
+Title:     MIRAGE
+---------------------------------------------------
+Directory: pages/engine-room/artists/mirage
+File:      overview.php
+Title:     MIRAGE
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine
+File:      about.php
+Title:     Mission Profile
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine
+File:      contact.php
+Title:     Subspace Relay
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine
+File:      license.php
+Title:     Project Licensing
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine
+File:      radio.php
+Title:     Engine Room Radio
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/cpi
+File:      overview.php
+Title:     Commonwealth Polytechnic Institute
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story
+File:      crash-of-90.php
+Title:     The Crash of '90
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/hard-reset-tour
+File:      london-discovery.php
+Title:     The Discovery
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/hard-reset-tour
+File:      paternoster-incident.php
+Title:     The Paternoster
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      chapter-7-conversion-order.php
+Title:     The Death Warrant
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      forensic-audit.php
+Title:     Holly's Homework
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      frost-interview.php
+Title:     The Interview: The "Cultural Fit" Assessment
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      liquidation-auction.php
+Title:     Asset Liquidation
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      overview.php
+Title:     THE NINE FIGURE REFUSAL
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      staff-retention.php
+Title:     THE "BRIDGE" OFFER
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      sun-ray-catalog-transfer.php
+Title:     LOT 200: THE JOURNEY
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      target-profile.php
+Title:     Omni-Global Media Corp.
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-approach.php
+Title:     THE APPROACH VECTOR
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-autopsy.php
+Title:     THE LIVE AUTOPSY
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-bus-memo.php
+Title:     THE "BUS MEMO"
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-counter-offer.php
+Title:     The "Kill Switch"
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-extraction.php
+Title:     PROTOCOL: "SAFE HARBOR"
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-jessica-miller-center.php
+Title:     The Jessica Miller Center
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-non-profit-model.php
+Title:     The "Zero Extraction" Model
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-offer-letter.php
+Title:     THE $150,000,000 LIE
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-smoking-gun.php
+Title:     The $0.50 Insult
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      the-trigger.php
+Title:     The Trigger: Slide 14
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal
+File:      ucc-search-report.php
+Title:     (No H1 Found)
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal/zenith-report
+File:      omni-global-chapter-11.php
+Title:     IMPLOSION: Omni-Global Files Chapter 11; CEO Ousted Amid Fraud & Civil Rights Probe
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story/nine-figure-refusal/zenith-report
+File:      stardust-bus-ride.php
+Title:     The Public Record
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine/story
+File:      overview.php
+Title:     The Archives
+---------------------------------------------------
+Directory: pages/engine-room/artists/stardust-engine
+File:      template.php
+Title:     Page Title Here
+---------------------------------------------------
+Directory: pages/engine-room/artists/the-winter-palace/discography
+File:      1996-tales-of-the-solstace.php
+Title:     Upon This Winter's Night
+---------------------------------------------------
+Directory: pages/engine-room/artists/the-winter-palace
+File:      overview.php
+Title:     The Winter Palace
+---------------------------------------------------
+Directory: pages/engine-room/assets/iron-horse
+File:      delivery.php
+Title:     The First Lift
+---------------------------------------------------
+Directory: pages/engine-room/assets/iron-horse
+File:      negotiation.php
+Title:     The Sainte-Claire Protocol
+---------------------------------------------------
+Directory: pages/engine-room/assets
+File:      overview.php
+Title:     Strategic Assets
+---------------------------------------------------
+Directory: pages/engine-room/corporate/pacific-rim
+File:      overview.php
+Title:     Pacific Rim Properties
+---------------------------------------------------
+Directory: pages/engine-room/corporate/security
+File:      sensory-scale.php
+Title:     Sensory Distress Scale
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg
+File:      amenities.php
+Title:     Built for the Dean's List
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      accessibility.php
+Title:     Barrier-Free Living
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      apartment-amenities.php
+Title:     The Standard Spec
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      competitor-analysis.php
+Title:     (No H1 Found)
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      furniture-philosophy.php
+Title:     Why We Don't Furnish
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      policies.php
+Title:     The Household Protocol
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg/documents
+File:      welcome-letter.php
+Title:     Stardust Blacksburg, LLC
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg
+File:      leasing.php
+Title:     Rent a Home, Not a Bunk
+---------------------------------------------------
+Directory: pages/engine-room/corporate/stardust-blacksburg
+File:      location.php
+Title:     The 15-Minute Rule
+---------------------------------------------------
+Directory: pages/engine-room/corporate/strategic-assets
+File:      overview.php
+Title:     Stardust Strategic Assets, LLC
+---------------------------------------------------
+Directory: pages/engine-room/corporate/strategic-assets
+File:      stardust-studios.php
+Title:     Stardust Studios
+---------------------------------------------------
+Directory: pages/engine-room/corporate/strategic-assets
+File:      the-fortress.php
+Title:     The Fortress
+---------------------------------------------------
+Directory: pages/engine-room/corporate/strategic-assets
+File:      the-vault.php
+Title:     The Engine Room Archives
+---------------------------------------------------
+Directory: pages/engine-room/history/friction
+File:      overview.php
+Title:     The Friction Catastrophe
+---------------------------------------------------
+Directory: pages/engine-room/history/friction
+File:      the-lost-title-track.php
+Title:     Friction
+---------------------------------------------------
+Directory: pages/engine-room/jessica-miller-center
+File:      destination-dispatch-elevators.php
+Title:     Destination Dispatch
+---------------------------------------------------
+Directory: pages/engine-room/jessica-miller-center
+File:      overview.php
+Title:     Work without friction.
+---------------------------------------------------
+Directory: pages/engine-room/jessica-miller-center
+File:      the-quiet-floor.php
+Title:     The Quiet Floor
+---------------------------------------------------
+Directory: pages/oconnell-trust
+File:      overview.php
+Title:     The O'Connell FamilyRevocable Trust
+---------------------------------------------------
+Directory: pages/raggiesoft-books/aethel-saga/aethel-book
+File:      overview.php
+Title:     The Silver Gauntlet of Aethel
+---------------------------------------------------
+Directory: pages/raggiesoft-books/aethel-saga/aethel-book
+File:      viewer.php
+Title:     
+---------------------------------------------------
+Directory: pages/raggiesoft-books/aethel-saga/lore
+File:      overview.php
+Title:     The Archives
+---------------------------------------------------
+Directory: pages/raggiesoft-books/encyclopedia
+File:      sensory-scale.php
+Title:     The Sensory Distress Scale
+---------------------------------------------------
+Directory: pages
+File:      template.php
+Title:     Page Title Here
