@@ -51,10 +51,12 @@ done
 
 # Set Rclone Performance Flags based on mode
 if [ "$USE_PUBLIC_WIFI" = true ]; then
-    # STEALTH MODE: Looks like standard browser traffic.
-    # 1 transfer at a time, limited 'chatter' (tps), longer timeout for laggy connections.
-    RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s"
-    CONNECTION_MSG="☕ PUBLIC WIFI MODE: Low profile, single stream."
+    # STEALTH MODE: 
+    # 1. Single stream (looks like a file download)
+    # 2. Slowed down (tpslimit)
+    # 3. SPOOFED USER AGENT (The Secret Weapon): Identifies as Chrome on Mac to bypass simple firewalls
+    RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s --user-agent \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\""
+    CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent."
 else
     # STANDARD MODE: Full speed ahead.
     RCLONE_PERF_FLAGS="-P --transfers=8"
