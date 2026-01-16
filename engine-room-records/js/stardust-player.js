@@ -1,11 +1,11 @@
 /**
  * ============================================================================
- * THE STARDUST PLAYER ENGINE (v4.0 - Turbo Drive Edition)
+ * THE STARDUST PLAYER ENGINE (v4.1 - WCAG Edition)
  * ============================================================================
- * UPDATED FOR SINGLE PAGE APPLICATIONS (SPA):
- * 1. Persistent State: The player logic lives in the footer and never reloads.
- * 2. Event-Driven Handoff: Listens for 'stardust:playlist-update' to switch albums.
- * 3. Dynamic Binding: Re-attaches click listeners to new "Play" buttons on every page navigation.
+ * UPDATED FOR ACCESSIBILITY:
+ * 1. Live Regions: Track title now announces "Buffering" and Song Names.
+ * 2. Aria-Current: Playlist rows now strictly identify the active track.
+ * 3. Page Title: Browser tab updates to reflect playback state.
  */
 
 (function() {
@@ -56,6 +56,10 @@
     function initEngine() {
         if (!dom.player) return; // Safety check
 
+        // WCAG FIX: Make the track title a Live Region so screen readers announce song changes/errors
+        dom.title.setAttribute('aria-live', 'polite');
+        dom.title.setAttribute('aria-atomic', 'true');
+
         // Initialize Bootstrap Modal
         if (dom.modalElement) {
             bsModal = new bootstrap.Modal(dom.modalElement);
@@ -83,6 +87,8 @@
         dom.btnClose.onclick = () => {
             dom.audio.pause();
             dom.player.classList.add('d-none');
+            // Reset page title on close
+            document.title = dom.originalPageTitle || document.title;
         };
 
         // Auto-Advance Logic
@@ -95,6 +101,9 @@
                 if(idx !== -1) loadTrack(idx); 
             }
         };
+        
+        // Store original title for restoration
+        dom.originalPageTitle = document.title;
         
         updateControlUI();
     }
@@ -127,6 +136,9 @@
         
         // 3. Highlight currently playing track (if it exists on this page)
         updateTracklistUI();
+        
+        // Update original title ref on navigation
+        dom.originalPageTitle = document.title;
     }
 
     // --- TURBO EVENT: PLAYLIST HANDOFF ---
@@ -207,14 +219,15 @@
         // Reset all rows
         document.querySelectorAll('.track-row').forEach(row => {
             row.classList.remove('bg-primary', 'bg-opacity-25');
+            // WCAG FIX: Remove the 'current' marker from inactive rows
+            row.removeAttribute('aria-current');
+            
             const icon = row.querySelector('.play-indicator');
             if(icon) icon.className = 'fa-duotone fa-play-circle fs-4 text-primary opacity-50 play-indicator';
         });
 
         // Highlight active row (if it exists on current page)
         const activeRow = document.getElementById('track-row-' + currentIndex);
-        // Only highlight if the song playing actually matches the song in the row!
-        // (Prevents highlighting "Track 1" of Album B when "Track 1" of Album A is playing)
         const playlist = window.STARDUST_PLAYLIST || [];
         const currentTrack = playlist[currentIndex];
         
@@ -223,6 +236,10 @@
             const rowTitle = activeRow.querySelector('strong').innerText;
             if (rowTitle.trim() === currentTrack.title.trim()) {
                  activeRow.classList.add('bg-primary', 'bg-opacity-25');
+                 
+                 // WCAG FIX: Mark this row as the 'current' item for screen readers
+                 activeRow.setAttribute('aria-current', 'true');
+
                  const icon = activeRow.querySelector('.play-indicator');
                  if(icon) icon.className = 'spinner-border spinner-border-sm text-light play-indicator';
                  // If playing, change spinner to volume icon
@@ -248,7 +265,11 @@
 
         // UI Updates
         dom.player.classList.remove('d-none');
-        dom.title.innerHTML = `<span class="spinner-border spinner-border-sm text-primary me-2"></span>Buffering...`;
+        
+        // NOTE: Because we added aria-live='polite' in initEngine, 
+        // this text change will be announced by the screen reader.
+        dom.title.innerHTML = `<span class="spinner-border spinner-border-sm text-primary me-2" aria-hidden="true"></span>Buffering...`;
+        
         if(dom.artist) dom.artist.textContent = track.artist;
         dom.art.src = track.artwork;
         
@@ -269,6 +290,10 @@
                 dom.audio.src = currentBlobUrl;
                 
                 dom.title.textContent = track.title;
+                
+                // WCAG FIX: Update Browser Title so users know music is playing in this tab
+                document.title = `▶ ${track.title} | ${dom.originalPageTitle}`;
+
                 updateTracklistUI(); // Update icon from spinner to Volume
 
                 dom.audio.load();
@@ -298,6 +323,10 @@
         const rIcon = dom.btnRepeat.querySelector('i');
         dom.btnRepeat.className = 'btn btn-sm ' + (repeatMode === 'none' ? 'btn-outline-secondary' : 'btn-outline-primary active');
         
+        // ARIA: Add Pressed state for toggles
+        dom.btnRepeat.setAttribute('aria-pressed', repeatMode !== 'none');
+        dom.btnShuffle.setAttribute('aria-pressed', isShuffle);
+
         if (repeatMode === 'one') rIcon.className = 'fa-solid fa-repeat-1';
         else if (repeatMode === 'album') rIcon.className = 'fa-duotone fa-compact-disc';
         else rIcon.className = 'fa-solid fa-repeat';
