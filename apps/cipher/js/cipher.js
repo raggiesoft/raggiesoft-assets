@@ -57,13 +57,18 @@ stealthToggle.addEventListener('change', function() {
         toggleVisBtn.disabled = false;
     }
 
-    // B. Logic Notification
+    // B. Logic Notification (Bootstrap Toast)
     // We only notify if a game is currently active (Results are visible)
-    // because that is when the user might expect the logs to vanish instantly.
     const resultBox = document.getElementById('resultBox');
     
     if (!resultBox.classList.contains('d-none')) {
-        alert("Stealth Protocol preference updated.\n\nChanges to the Logic Log will take effect on your next analysis.");
+        // Initialize and Show the Toast
+        const toastEl = document.getElementById('stealthToast');
+        if (toastEl) {
+            // We use the bootstrap object which is globally available in Bootstrap 5 projects
+            const toast = new bootstrap.Toast(toastEl);
+            toast.show();
+        }
     }
 });
 
