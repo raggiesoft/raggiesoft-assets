@@ -1,0 +1,51 @@
+JENNA'S PAGE AUDIT REPORT
+Generated: 2026-01-16 09:05:20
+Summary:   40 Orphans | 1 Drafts | 0 EXPOSED
+
+
+🚧 DETECTED DRAFTS
+=================
+overview.php (The O'Connell FamilyRevocable Trust)
+
+⚠️ ORPHANED PAGES
+=================
+phys-100-report.php ((No H1 Found))
+overview.php (The Archives)
+overview.php (The Silver Gauntlet of Aethel)
+viewer.php ()
+overview.php ((No H1 Found))
+overview.php (Pacific Rim Properties)
+sensory-scale.php (Sensory Distress Scale)
+leasing.php (Rent a Home, Not a Bunk)
+location.php (The 15-Minute Rule)
+policies.php (The Household Protocol)
+competitor-analysis.php ((No H1 Found))
+accessibility.php (Barrier-Free Living)
+welcome-letter.php (Stardust Blacksburg, LLC)
+furniture-philosophy.php (Why We Don't Furnish)
+apartment-amenities.php (The Standard Spec)
+amenities.php (Built for the Dean's List)
+the-vault.php (The Engine Room Archives)
+stardust-studios.php (Stardust Studios)
+overview.php (Stardust Strategic Assets, LLC)
+the-fortress.php (The Fortress)
+overview.php (MIRAGE)
+2001-static-and-silence.php (MIRAGE)
+overview.php (The Winter Palace)
+1996-tales-of-the-solstace.php (Upon This Winter's Night)
+radio.php (Engine Room Radio)
+contact.php (Subspace Relay)
+license.php (Project Licensing)
+about.php (Mission Profile)
+overview.php (Commonwealth Polytechnic Institute)
+london-discovery.php (The Discovery)
+paternoster-incident.php (The Paternoster)
+sun-ray-catalog-transfer.php (LOT 200: THE JOURNEY)
+chapter-7-conversion-order.php (The Death Warrant)
+staff-retention.php (THE "BRIDGE" OFFER)
+about.php (Built for Protection.)
+delivery.php (The First Lift)
+negotiation.php (The Sainte-Claire Protocol)
+overview.php (Strategic Assets)
+rules.php (Decryption Protocols)
+history.php (Origins of the Cipher)
