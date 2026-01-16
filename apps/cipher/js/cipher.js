@@ -1,5 +1,5 @@
-// Stardust Cipher - Uplink Script v2.0
-// Now supports Stealth Mode and Adaptive Difficulty
+// Stardust Cipher - Uplink Script v2.1
+// Includes Stealth Notification Logic
 
 // --- 1. CONFIGURATION HANDLERS ---
 const diffRadios = document.querySelectorAll('input[name="difficulty"]');
@@ -20,12 +20,9 @@ const rules = {
 diffRadios.forEach(radio => {
     radio.addEventListener('change', function() {
         const rule = rules[this.value];
-        // Update Badge
         rulesBadge.textContent = rule.label;
-        // Update Inputs
         secretInput.setAttribute('pattern', rule.pattern);
         guessInput.setAttribute('pattern', rule.pattern);
-        // Update Hint
         secretHint.textContent = rule.hint;
     });
 });
@@ -48,16 +45,25 @@ toggleVisBtn.addEventListener('click', function() {
     }
 });
 
-// Stealth Mode Switch logic is handled during submission (hiding logs)
-// But we also enforce password type when enabled
+// Stealth Switch Logic
 stealthToggle.addEventListener('change', function() {
+    // A. Immediate UI Update (The inputs themselves)
     if(this.checked) {
         secretInput.type = 'password';
         eyeIcon.classList.remove('fa-eye-slash');
         eyeIcon.classList.add('fa-eye');
-        toggleVisBtn.disabled = true; // Lock the eye in stealth mode? (Optional, let's keep it strict)
+        toggleVisBtn.disabled = true; 
     } else {
         toggleVisBtn.disabled = false;
+    }
+
+    // B. Logic Notification
+    // We only notify if a game is currently active (Results are visible)
+    // because that is when the user might expect the logs to vanish instantly.
+    const resultBox = document.getElementById('resultBox');
+    
+    if (!resultBox.classList.contains('d-none')) {
+        alert("Stealth Protocol preference updated.\n\nChanges to the Logic Log will take effect on your next analysis.");
     }
 });
 
@@ -68,13 +74,11 @@ if (cipherForm) {
     cipherForm.addEventListener('submit', function(e) {
         e.preventDefault();
 
-        // Get Values
         const secretCode = secretInput.value;
         const guess = guessInput.value;
         const difficulty = document.querySelector('input[name="difficulty"]:checked').value;
         const isStealth = stealthToggle.checked;
 
-        // Fetch
         fetch('/includes/components/apps/cipher/logic.php', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
