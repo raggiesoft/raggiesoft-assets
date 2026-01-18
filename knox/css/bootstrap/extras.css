@@ -1,0 +1,50 @@
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/extras.css */
+
+/* 1. Threat Profile Card (The Dossier) */
+.card {
+    border-radius: 0; /* Brutalist corners */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Axiom State (Red/Alert) */
+.card.border-danger {
+    border-width: 2px;
+    box-shadow: 0 0 15px rgba(220, 53, 69, 0.1);
+}
+
+/* Reality State (Green/Nature) */
+.card.border-success {
+    border-width: 2px;
+    box-shadow: 0 0 15px rgba(42, 157, 143, 0.2);
+}
+
+.card-header {
+    border-bottom-width: 2px;
+    font-family: var(--bs-font-monospace);
+    letter-spacing: 1px;
+}
+
+/* 2. Skill Pills / Tech Specs */
+.skill-pill {
+    font-family: var(--bs-font-monospace);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    border: 1px solid var(--bs-border-color);
+    background: transparent;
+    color: var(--bs-body-color);
+    padding: 2px 8px;
+}
+
+/* 3. Hero Typography */
+.display-1, .display-2, .display-3 {
+    font-weight: 900;
+    /* Optional: Gives a slight "worn" look to large text if using an image mask, 
+       but standard solid color is safer for readability. */
+}
+
+/* 4. Immersive Background Helper */
+.bg-glass-dark {
+    background: rgba(11, 12, 16, 0.85); /* Matches --knox-obsidian with opacity */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}

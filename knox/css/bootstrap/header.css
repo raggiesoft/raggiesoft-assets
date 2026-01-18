@@ -1,0 +1,60 @@
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
+
+/* 1. Navbar Container */
+header .navbar {
+    background-color: var(--bs-body-bg) !important;
+    border-bottom: 2px solid var(--bs-primary) !important;
+    font-family: var(--bs-font-monospace); /* Terminal Aesthetic */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    transition: all 0.3s ease;
+}
+
+/* 2. Brand Identity */
+header .navbar-brand {
+    font-weight: 800;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    color: var(--bs-body-color) !important;
+}
+
+/* 3. Navigation Links */
+header .nav-link {
+    font-weight: 600;
+    color: var(--bs-body-color) !important;
+    opacity: 0.7;
+    transition: opacity 0.2s, color 0.2s;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    opacity: 1;
+    color: var(--bs-primary) !important;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* 4. Dropdowns (The Data Tapes) */
+header .dropdown-menu {
+    background-color: var(--bs-tertiary-bg) !important;
+    border: 1px solid var(--bs-border-color) !important;
+    border-radius: 0;
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.2);
+}
+
+header .dropdown-item {
+    font-family: var(--bs-font-monospace);
+    font-size: 0.9rem;
+    color: var(--bs-body-color) !important;
+}
+
+header .dropdown-item:hover {
+    background-color: var(--bs-primary) !important;
+    color: var(--bs-body-bg) !important; /* Invert text on hover */
+}
+
+header .dropdown-header {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}

@@ -1,0 +1,71 @@
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/root.css */
+/* Theme: K.N.O.X. (Aerie-Hold / Port Telsus) */
+
+:root {
+    /* --- Concept Art Palette --- */
+    
+    /* The Weave (Organic / Native) */
+    --knox-mist: #e8ece9;       /* Atmospheric White */
+    --knox-canopy: #344e41;     /* Deep Jungle Green */
+    --knox-fern: #a3b18a;       /* Sage Green */
+    --knox-bark: #583101;       /* Deep Brown */
+    
+    /* The Spire (Industrial / Axiom) */
+    --knox-obsidian: #0b0c10;   /* Void Black */
+    --knox-steel: #1f2833;      /* Gunmetal Grey */
+    --knox-rust: #c66b3d;       /* Oxidized Orange */
+    --knox-axiom-red: #8a1c1c;  /* Alert Red */
+    --knox-neon: #66fcf1;       /* Terminal Cyan */
+
+    /* --- Global Utils --- */
+    --bs-border-radius: 2px;    /* Brutalist/Military feel */
+    --bs-font-monospace: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* --- LIGHT MODE: AERIE-HOLD (The Sanctuary) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Mapping */
+    --bs-primary: var(--knox-canopy);
+    --bs-secondary: #6c757d;
+    --bs-success: #2a9d8f;
+    --bs-info: #219ebc;
+    --bs-warning: #e9c46a;
+    --bs-danger: #d00000;
+    
+    /* Backgrounds: The Mist */
+    --bs-body-bg: var(--knox-mist);
+    --bs-body-color: #1a1a1a;
+    
+    /* UI Surfaces */
+    --bs-tertiary-bg: #dad7cd; /* Organic Card BG */
+    --bs-border-color: #a3b18a;
+    
+    /* Links */
+    --bs-link-color: var(--knox-canopy);
+    --bs-link-hover-color: #263c33;
+}
+
+/* --- DARK MODE: PORT TELSUS (The Occupation) --- */
+[data-bs-theme="dark"] {
+    /* Core Mapping */
+    --bs-primary: var(--knox-rust); /* Rust is the primary accent in the dark */
+    --bs-secondary: #8d99ae;
+    --bs-success: #1b4332;      /* Dark Green (Resistance) */
+    --bs-danger: var(--knox-axiom-red);
+    
+    /* Backgrounds: The Spire */
+    --bs-body-bg: var(--knox-obsidian);
+    --bs-body-color: #e0e0e0;
+    
+    /* UI Surfaces */
+    --bs-tertiary-bg: var(--knox-steel);
+    --bs-border-color: #45a29e; /* Faint Cyan glow on borders */
+    
+    /* Links */
+    --bs-link-color: var(--knox-neon);
+    --bs-link-hover-color: #fff;
+    
+    /* Overrides for specific Axiom Aesthetics */
+    --bs-card-bg: var(--knox-steel);
+}

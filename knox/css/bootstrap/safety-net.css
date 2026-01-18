@@ -1,0 +1,38 @@
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/safety-net.css */
+
+/* 1. Font Stack Override */
+/* We want a distinct "Typewriter/Terminal" feel for the prose and UI */
+body {
+    font-family: "Courier New", Courier, monospace; 
+    /* Fallback to system-ui only if monospace fails drastically */
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, sans-serif; /* Headings stay legible/bold */
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+/* 2. Button Sharpness */
+/* Axiom doesn't do soft corners. */
+.btn {
+    border-radius: 0 !important; 
+    font-family: var(--bs-font-monospace);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* 3. Form Controls (Search/Login if present) */
+.form-control {
+    border-radius: 0;
+    background-color: var(--bs-tertiary-bg);
+    border-color: var(--bs-border-color);
+    color: var(--bs-body-color);
+}
+
+.form-control:focus {
+    background-color: var(--bs-body-bg);
+    border-color: var(--bs-primary);
+    box-shadow: none; /* No soft glow, hard borders only */
+}
