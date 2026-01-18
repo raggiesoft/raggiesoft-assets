@@ -1,0 +1,70 @@
+/* Theme: Aerie-Hold (Day/Night Cycle) */
+/* Concept: The living breath of the Weave. */
+
+:root {
+    /* --- The Palette (Day - High Canopy) --- */
+    --aerie-mist: #e6f2f2;      /* Pale Atmospheric Blue/White */
+    --aerie-sunlight: #f0f4c3;  /* Filtered Sunlight */
+    --aerie-leaf: #386641;      /* Healthy Green */
+    --aerie-wood: #5d4037;      /* Warm Bark */
+    
+    /* --- The Palette (Night - Bioluminescence) --- */
+    --aerie-void: #05161a;      /* Deepest Jungle Dark */
+    --aerie-night-sky: #072e33; /* Canopy Shadow */
+    --aerie-glow-cyan: #29bf12; /* Fungal Green (Active) */
+    --aerie-glow-blue: #0cce6b; /* River Glow */
+    --aerie-spore: #abff4f;     /* Toxic/Warning Yellow-Green */
+
+    /* --- Global Utils --- */
+    --bs-border-radius: 4px;    /* Slightly softened edges (organic) */
+    --bs-border-width: 1px;
+}
+
+/* --- LIGHT MODE: The Canopy (Day) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Bootstrap Mapping */
+    --bs-primary: var(--aerie-leaf);
+    --bs-primary-rgb: 56, 102, 65;
+    
+    --bs-secondary: #6a994e;
+    --bs-success: #31572c;
+    --bs-info: #90a955;
+    --bs-warning: #bc4749; /* Berry Red */
+    
+    /* Backgrounds */
+    --bs-body-bg: var(--aerie-mist);
+    --bs-body-color: #1a2f23; /* Dark Green-Black text */
+    
+    /* Surfaces */
+    --bs-tertiary-bg: #ffffff;
+    --bs-border-color: #a7c957; /* Pale green borders */
+    
+    /* Links */
+    --bs-link-color: var(--aerie-leaf);
+    --bs-link-hover-color: #132a13;
+}
+
+/* --- DARK MODE: The Bioluminescence (Night) --- */
+[data-bs-theme="dark"] {
+    /* Core Bootstrap Mapping */
+    --bs-primary: var(--aerie-glow-blue); /* The "River" guides you */
+    --bs-primary-rgb: 12, 206, 107;
+    
+    --bs-secondary: #2c6e49;
+    --bs-success: var(--aerie-glow-cyan);
+    --bs-info: #4ecdc4;
+    --bs-warning: var(--aerie-spore);
+    
+    /* Backgrounds */
+    --bs-body-bg: var(--aerie-void);
+    --bs-body-color: #e0fbfc; /* Pale Cyan Text (Moonlight) */
+    
+    /* Surfaces */
+    --bs-tertiary-bg: var(--aerie-night-sky);
+    --bs-border-color: #14591d; /* Deep green structural borders */
+    
+    /* Links */
+    --bs-link-color: var(--aerie-glow-cyan);
+    --bs-link-hover-color: #fff;
+}

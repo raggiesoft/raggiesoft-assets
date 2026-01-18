@@ -1,0 +1,60 @@
+/* extras.css - Aerie-Hold Specific Elements */
+
+/* 1. Skill Pills (Organic Tags) */
+.skill-pill {
+    font-family: var(--bs-font-monospace);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border: 1px solid var(--bs-border-color);
+    border-radius: 50px; /* Fully rounded, organic seeds */
+    color: var(--bs-body-color);
+    background-color: rgba(var(--bs-primary-rgb), 0.1);
+    padding: 4px 12px;
+    display: inline-block;
+    margin: 2px;
+}
+
+/* 2. Cards (The Pods) */
+.card {
+    background-color: var(--bs-tertiary-bg);
+    border: 1px solid var(--bs-border-color);
+    border-radius: 4px;
+    /* Soft shadow for day, Glow for night via variables */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05); 
+}
+
+/* 3. Hero Typography (Atmospheric) */
+.display-1, .display-2 {
+    font-weight: 900;
+    letter-spacing: -1px;
+    /* In dark mode, this needs to glow */
+}
+
+/* 4. Immersive Glass (The Mist) */
+.bg-glass-dark {
+    background: rgba(5, 22, 26, 0.7); /* Deep Void Tint */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.bg-glass-light {
+    background: rgba(230, 242, 242, 0.7); /* Mist Tint */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* 5. Buttons (Crafted Tools) */
+.btn-primary {
+    background-color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    color: #fff; /* Always white text on primary buttons */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.btn-primary:hover {
+    filter: brightness(1.1);
+    box-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.6); /* Biolum glow on hover */
+}
