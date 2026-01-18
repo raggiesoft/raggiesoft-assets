@@ -288,12 +288,20 @@ function do_push() {
     if [ -d "$HUB_ROOT" ]; then
         cd "$HUB_ROOT"
         git add .
+        
+        # Check A: Are there uncommitted changes?
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
              git push origin main
-             echo "      ✓ Code sent to GitHub."
+             echo "      ✓ Code committed and sent to GitHub."
+        # Check B: Are there committed changes that haven't been pushed yet?
+        # (This catches the "Public Wifi Ghost Commit" scenario)
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending commits from a previous run. Pushing now..."
+             git push origin main
+             echo "      ✓ Pending code sent to GitHub."
         else
-             echo "      (Nothing new in the Hub code, skipping.)"
+             echo "      (Hub is clean and up to date.)"
         fi
     fi
     
@@ -301,17 +309,22 @@ function do_push() {
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
     git add .
+    
+    # Same logic for Assets
     if ! git diff-index --quiet HEAD --; then
         git commit -m "$COMMIT_MSG"
         git push origin main
         echo "      ✓ Workspace synced to GitHub."
+    elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+        echo "      ⚠️  Found pending commits. Pushing now..."
+        git push origin main
+        echo "      ✓ Pending workspace changes sent to GitHub."
     else
         echo "      (Assets repo looks unchanged.)"
     fi
     
     # 5. CDN SYNC
     echo "   3. Beaming heavy assets to the CDN..."
-    # UPDATED: Using variable flags
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
