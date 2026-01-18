@@ -1,0 +1,53 @@
+/* safety-net.css - Industrial Standards */
+
+/* 1. Font Stack */
+/* Monospace Priority: The "Terminal" / "Manifest" aesthetic */
+body {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1.0rem; 
+    line-height: 1.5;
+}
+
+/* Headings: Stamped/Stencil feel */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, sans-serif;
+    font-weight: 900;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+}
+
+/* 2. Selection (Scanner Data) */
+::selection {
+    background: var(--bs-primary);
+    color: #000;
+}
+
+/* 3. Scrollbar (The Conveyor Belt) */
+/* Chrome/Safari/Edge */
+::-webkit-scrollbar {
+    width: 12px;
+    background: #1a1a1a;
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--bs-secondary);
+    border: 2px solid #1a1a1a; /* Tracks */
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--bs-primary);
+}
+
+/* 4. Form Controls (Data Entry) */
+.form-control {
+    background-color: var(--bs-body-bg);
+    border: 2px solid var(--bs-border-color);
+    color: var(--bs-body-color);
+    font-family: var(--bs-font-monospace);
+    border-radius: 0;
+}
+
+.form-control:focus {
+    background-color: #000;
+    color: var(--bs-primary);
+    border-color: var(--bs-primary);
+    box-shadow: none; /* No soft glow, hard borders only */
+}

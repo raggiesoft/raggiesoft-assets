@@ -1,0 +1,70 @@
+/* Theme: Port Telsus (The Wound) */
+/* Concept: Industrial decay, warning lights, and toxic runoff. */
+
+:root {
+    /* --- The Blight Palette (Light Mode - Smog) --- */
+    --port-smog: #e8e6d1;       /* Sickly Yellow-Grey Sky */
+    --port-rust: #a63c06;       /* Deep Oxidized Iron */
+    --port-concrete: #8c92ac;   /* Weathered Landing Pad */
+    --port-sludge: #4a5d23;     /* Toxic Runoff Green */
+    
+    /* --- The Cross-Way Palette (Dark Mode - Neon/Oil) --- */
+    --port-oil: #0a0a0c;        /* Slick, iridescent Black */
+    --port-warning: #ffb703;    /* Hazard Tape Yellow */
+    --port-neon-pink: #f72585;  /* "Open" Signs */
+    --port-neon-cyan: #4cc9f0;  /* Monitor Glow */
+    --port-axiom-red: #d00000;  /* Compliance Red */
+
+    /* --- Global Utils --- */
+    --bs-border-radius: 0px;    /* ZERO radius. Manufactured, sharp edges. */
+    --bs-border-width: 2px;     /* Heavy, structural borders. */
+}
+
+/* --- LIGHT MODE: The Blight Zone (Day) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Bootstrap Mapping */
+    --bs-primary: var(--port-rust); /* Rust is the dominant feature */
+    --bs-primary-rgb: 166, 60, 6;
+    
+    --bs-secondary: #5f6c7b;
+    --bs-success: var(--port-sludge); /* "Success" looks like mossy rot */
+    --bs-danger: #9e2a2b;
+    --bs-info: #98c1d9;
+    
+    /* Backgrounds */
+    --bs-body-bg: var(--port-smog);
+    --bs-body-color: #292929; /* Soot-colored text */
+    
+    /* Surfaces */
+    --bs-tertiary-bg: #d6d3c0; /* Stained Concrete */
+    --bs-border-color: #8d99ae; /* Dull Steel */
+    
+    /* Links */
+    --bs-link-color: var(--port-rust);
+    --bs-link-hover-color: #000;
+}
+
+/* --- DARK MODE: The Spire & Market (Night) --- */
+[data-bs-theme="dark"] {
+    /* Core Bootstrap Mapping */
+    --bs-primary: var(--port-warning); /* Safety Yellow guides you in the dark */
+    --bs-primary-rgb: 255, 183, 3;
+    
+    --bs-secondary: #3d405b;
+    --bs-success: var(--port-neon-cyan); /* Synthetic "Go" lights */
+    --bs-danger: var(--port-axiom-red);
+    --bs-info: var(--port-neon-pink);
+    
+    /* Backgrounds */
+    --bs-body-bg: var(--port-oil);
+    --bs-body-color: #adb5bd; /* Dim emergency lighting text */
+    
+    /* Surfaces */
+    --bs-tertiary-bg: #161a1d; /* Dark Metal */
+    --bs-border-color: #343a40; /* Grimy borders */
+    
+    /* Links */
+    --bs-link-color: var(--port-warning);
+    --bs-link-hover-color: #fff;
+}

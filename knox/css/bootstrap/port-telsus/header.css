@@ -1,0 +1,73 @@
+/* header.css */
+
+/* 1. Navbar Container */
+header .navbar {
+    background-color: var(--bs-tertiary-bg) !important;
+    border-bottom: 4px solid var(--bs-primary) !important; /* The Hazard Strip */
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    /* Hard, industrial shadow */
+    box-shadow: 0 4px 0 rgba(0,0,0,0.3);
+}
+
+/* 2. Brand Identity */
+header .navbar-brand {
+    font-family: 'Impact', 'Haettenschweiler', sans-serif; /* Stamped Metal Look */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--bs-body-color) !important;
+    border: 2px solid var(--bs-body-color); /* Framed logo */
+    padding: 2px 8px;
+}
+
+/* 3. Navigation Links */
+header .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    color: var(--bs-body-color) !important;
+    opacity: 0.6;
+    border-right: 1px solid var(--bs-border-color); /* Vertical separators */
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    opacity: 1;
+    background-color: var(--bs-primary);
+    color: var(--bs-body-bg) !important; /* Invert text for contrast */
+}
+
+/* 4. Dropdowns (The Cargo Manifest) */
+header .dropdown-menu {
+    background-color: var(--bs-body-bg) !important;
+    border: 2px solid var(--bs-primary) !important;
+    border-radius: 0;
+    margin-top: 4px; /* Disconnected floating menu */
+    box-shadow: 8px 8px 0 rgba(0,0,0,0.5); /* Hard block shadow */
+}
+
+header .dropdown-item {
+    font-family: var(--bs-font-monospace);
+    font-size: 0.8rem;
+    color: var(--bs-body-color) !important;
+    border-bottom: 1px dotted var(--bs-border-color);
+    padding: 8px 15px;
+}
+
+header .dropdown-item:hover {
+    background-color: rgba(var(--bs-primary-rgb), 0.2) !important;
+    color: var(--bs-primary) !important;
+    padding-left: 20px; /* Mechanical shift */
+    transition: padding 0.1s linear;
+}
+
+header .dropdown-header {
+    background-color: var(--bs-tertiary-bg);
+    color: var(--bs-body-color);
+    font-weight: 900;
+    border-bottom: 2px solid var(--bs-border-color);
+    text-transform: uppercase;
+}

@@ -1,0 +1,42 @@
+/* footer.css */
+
+footer {
+    background-color: #000 !important; /* Void black */
+    color: #6c757d !important;
+    border-top: 2px solid var(--bs-secondary) !important;
+    font-family: var(--bs-font-monospace);
+    letter-spacing: -0.5px;
+    position: relative;
+}
+
+/* Hazard Stripe Top Border (CSS Gradient) */
+footer::before {
+    content: '';
+    display: block;
+    height: 10px;
+    width: 100%;
+    /* Repeating yellow/black hazard stripes */
+    background: repeating-linear-gradient(
+        45deg,
+        var(--bs-primary),
+        var(--bs-primary) 10px,
+        #000 10px,
+        #000 20px
+    );
+    margin-bottom: 2rem;
+    opacity: 0.8;
+}
+
+/* Footer Links */
+footer a {
+    color: var(--bs-primary) !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+footer a:hover {
+    background-color: var(--bs-primary);
+    color: #000 !important;
+    box-shadow: 0 0 10px var(--bs-primary); /* Neon flicker effect */
+}
