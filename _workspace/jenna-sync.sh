@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v6.7 - The "Public Wifi" Protocol) ---
+# --- JENNA: THE DEVELOPMENT LIAISON (v6.8 - Ghostbuster Edition) ---
 # Usage: ./jenna-sync.sh --push "Message" [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
@@ -40,7 +40,6 @@ fi
 # 3. JENNA'S BRAIN
 
 # --- CONFIGURATION: CONNECTION MODE ---
-# We scan all arguments for the flag to avoid positional strictness
 USE_PUBLIC_WIFI=false
 for arg in "$@"; do
     if [ "$arg" == "--public-wifi" ]; then
@@ -49,12 +48,8 @@ for arg in "$@"; do
     fi
 done
 
-# Set Rclone Performance Flags based on mode
 if [ "$USE_PUBLIC_WIFI" = true ]; then
-    # STEALTH MODE: 
-    # 1. Single stream (looks like a file download)
-    # 2. Slowed down (tpslimit)
-    # 3. SPOOFED USER AGENT (The Secret Weapon): Identifies as Chrome on Mac to bypass simple firewalls
+    # STEALTH MODE: Single stream, user-agent spoofing
     RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s --user-agent \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\""
     CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent."
 else
@@ -65,19 +60,15 @@ fi
 
 function show_help() {
     echo "Usage: "
-    echo "  ./jenna-sync.sh --push \"Commit Message\"  (Syncs code, assets, and runs checks)"
-    echo "  ./jenna-sync.sh --pull                   (Downloads everything to local)"
-    echo "  ./jenna-sync.sh --audit                  (Runs the Page Orphan Audit only)"
-    echo ""
-    echo "Options:"
-    echo "  --public-wifi    Use slower, stealthier connection settings for restrictive firewalls."
+    echo "  ./jenna-sync.sh --push \"Commit Message\""
+    echo "  ./jenna-sync.sh --pull"
+    echo "  ./jenna-sync.sh --audit"
+    echo "Options: --public-wifi (Stealth mode)"
 }
 
 # --- THE QA VALIDATOR ---
 function run_integrity_check() {
     echo "👱‍♀️ JENNA: QA Protocol Initiated..."
-    echo "          (Scanning routes for broken links and accessibility violations...)"
-
     (
         cd "$WORKSPACE_DIR" && php -r "
             \$hubRoot = realpath('../../raggiesoft-hub');
@@ -93,14 +84,12 @@ function run_integrity_check() {
                 if (json_last_error() !== JSON_ERROR_NONE) { \$hasErrors = true; continue; }
 
                 foreach(\$data as \$route => \$config) {
-                    // CHECK A: WCAG
                     if (isset(\$config['navbarBrandLogo']) && !empty(\$config['navbarBrandLogo'])) {
                         if (!isset(\$config['navbarBrandAlt']) || empty(trim(\$config['navbarBrandAlt']))) {
                             echo \"❌ WCAG FAIL: [\$filename] Route '\$route' missing Alt Text!\\n\";
                             \$hasErrors = true;
                         }
                     }
-                    // CHECK B: Broken Views
                     if (isset(\$config['view'])) {
                         \$viewPath = \$hubRoot . '/' . \$config['view'] . '.php';
                         if (!file_exists(str_replace('/', DIRECTORY_SEPARATOR, \$viewPath))) {
@@ -114,7 +103,6 @@ function run_integrity_check() {
             exit(0); 
         "
     )
-
     if [ $? -ne 0 ]; then
         echo "🛑 JENNA: INTEGRITY CHECK FAILED."
         exit 1
@@ -138,10 +126,7 @@ function run_orphan_audit() {
             \$hubRoot = realpath('../../raggiesoft-hub');
             \$logsDir = __DIR__ . '/logs'; 
             
-            // [LOGIC CONDENSED FOR BREVITY - FULL AUDIT LOGIC REMAINS HERE]
-            // ... (Same audit logic as V6.6) ...
-            
-             // 2. GATHER ALL DEFINED VIEWS
+            // 2. GATHER ALL DEFINED VIEWS
             \$definedViews = [];
             \$routesDir = \$hubRoot . '/data/routes';
             
@@ -255,7 +240,6 @@ function do_pull() {
     cd "$ASSETS_ROOT" && git pull origin main
     
     echo "   3. Hauling the heavy boxes (DigitalOcean Spaces)..."
-    # UPDATED: Using variable flags
     "$RCLONE_BIN" sync do-spaces:assets.raggiesoft.com "$ASSETS_ROOT" \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
@@ -270,7 +254,7 @@ function do_push() {
 
     if [[ -z "$COMMIT_MSG" ]]; then
         echo "🛑 JENNA: MISSING COMMIT MESSAGE"
-        echo "Usage: ./jenna-sync.sh --push \"Your message here\" [--public-wifi]"
+        echo "Usage: ./jenna-sync.sh --push \"Your message here\""
         exit 1
     fi
 
@@ -310,7 +294,6 @@ function do_push() {
     cd "$ASSETS_ROOT"
     git add .
     
-    # Same logic for Assets
     if ! git diff-index --quiet HEAD --; then
         git commit -m "$COMMIT_MSG"
         git push origin main
@@ -335,8 +318,6 @@ function do_push() {
     echo "👱‍♀️ JENNA: Success! Sarah will pick this up shortly."
 }
 
-# 4. EXECUTE
-# We still switch on $1, but we already parsed public-wifi above.
 case "$1" in
     --pull) do_pull ;;
     --push) do_push "$2" ;;
