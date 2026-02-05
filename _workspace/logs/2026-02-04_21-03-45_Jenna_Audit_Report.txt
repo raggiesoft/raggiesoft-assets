@@ -1,0 +1,52 @@
+JENNA'S PAGE AUDIT REPORT
+Generated: 2026-02-04 21:03:45
+Summary:   41 Orphans | 1 Drafts | 0 EXPOSED
+
+
+🚧 DETECTED DRAFTS
+=================
+overview.php (The O'Connell FamilyRevocable Trust)
+
+⚠️ ORPHANED PAGES
+=================
+history.php (Origins of the Cipher)
+rules.php (Decryption Protocols)
+phys-100-report.php ((No H1 Found))
+overview.php ((No H1 Found))
+about.php (Built for Protection.)
+2001-static-and-silence.php (MIRAGE)
+overview.php (MIRAGE)
+about.php (Mission Profile)
+contact.php (Subspace Relay)
+license.php (Project Licensing)
+radio.php (Engine Room Radio)
+overview.php (Commonwealth Polytechnic Institute)
+london-discovery.php (The Discovery)
+paternoster-incident.php (The Paternoster)
+chapter-7-conversion-order.php (The Death Warrant)
+staff-retention.php (THE "BRIDGE" OFFER)
+sun-ray-catalog-transfer.php (LOT 200: THE JOURNEY)
+1996-tales-of-the-solstace.php (Upon This Winter's Night)
+overview.php (The Winter Palace)
+delivery.php (The First Lift)
+negotiation.php (The Sainte-Claire Protocol)
+overview.php (Strategic Assets)
+overview.php (Pacific Rim Properties)
+sensory-scale.php (Sensory Distress Scale)
+amenities.php (Built for the Dean's List)
+accessibility.php (Barrier-Free Living)
+apartment-amenities.php (The Standard Spec)
+competitor-analysis.php ((No H1 Found))
+furniture-philosophy.php (Why We Don't Furnish)
+policies.php (The Household Protocol)
+welcome-letter.php (Stardust Blacksburg, LLC)
+leasing.php (Rent a Home, Not a Bunk)
+location.php (The 15-Minute Rule)
+overview.php (Stardust Strategic Assets, LLC)
+stardust-studios.php (Stardust Studios)
+the-fortress.php (The Fortress)
+the-vault.php (The Engine Room Archives)
+overview.php (The Silver Gauntlet of Aethel)
+viewer.php ()
+overview.php (The Archives)
+overview.php (The Toy Box)
