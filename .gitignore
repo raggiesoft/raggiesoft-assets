@@ -57,6 +57,7 @@ Desktop.ini
 # --- WORKSPACE SECURITY ---
 # Ignore the real keys
 _workspace/build-tools/rclone/rclone.conf
+_workspace/build-tools/ssh_keys.txt
 
 # Do NOT ignore the example config
 !_workspace/build-tools/rclone/rclone.conf.example
