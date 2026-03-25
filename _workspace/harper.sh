@@ -29,7 +29,7 @@ echo "   🎚️  Targeting Studio Archives: $SEARCH_PATH"
 echo "" > "$TEMP_SEARCH_INDEX" 
 
 # --- LOCATE 7-ZIP BINARY ---
-SEVEN_ZIP_LOCAL="./build-tools/7zip"
+SEVEN_ZIP_LOCAL="$ROOT_DIR/build-tools/7zip"
 USE_SEVEN_ZIP=false
 
 if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
@@ -133,6 +133,9 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 
         echo "$TRACK_NUM. $TITLE" >> "$README_FILE"
         
+        # Let Harper announce the track!
+        echo "      🎙️  HARPER: Patching through Track $TRACK_NUM - '$TITLE'..."
+
         # Capturing content for index
         LYRICS_CONTENT=""
         if [ -f "lyrics/${FILE_BASE}.md" ]; then LYRICS_CONTENT=$(cat "lyrics/${FILE_BASE}.md"); fi
@@ -149,9 +152,13 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 
         # Transcoding
         WAV_FILE="wav/${FILE_BASE}.wav"
-        if [ ! -f "$WAV_FILE" ]; then continue; fi
+        if [ ! -f "$WAV_FILE" ]; then 
+            echo "         ⚠️  WHOA! Master tape missing: $WAV_FILE. Skipping!"
+            continue
+        fi
 
         # MP3 (V0)
+        echo "         -> Cutting MP3..."
         ffmpeg -nostdin -loglevel error $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
         -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
         -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
@@ -159,6 +166,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         "mp3/$FILE_BASE.mp3"
 
         # OGG (Q9)
+        echo "         -> Pressing OGG..."
         ffmpeg -nostdin -loglevel error $ffmpeg_flag -i "$WAV_FILE" \
         -codec:a libvorbis -q:a 9 \
         -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \

@@ -1,0 +1,184 @@
+{
+  "tracks": [
+    {
+      "disc": 1,
+      "track": 1,
+      "title": "Overture of the Frost",
+      "fileName": "1-01-overture-of-the-frost"
+    },
+    {
+      "disc": 1,
+      "track": 2,
+      "title": "The False Horizon",
+      "fileName": "1-02-the-false-horizon"
+    },
+    {
+      "disc": 1,
+      "track": 3,
+      "title": "Diesel and Dust",
+      "fileName": "1-03-diesel-and-dust"
+    },
+    {
+      "disc": 1,
+      "track": 4,
+      "title": "Appalachian Shadows",
+      "fileName": "1-04-appalachian-shadows"
+    },
+    {
+      "disc": 1,
+      "track": 5,
+      "title": "The Nashville Panic",
+      "fileName": "1-05-the-nashville-panic"
+    },
+    {
+      "disc": 1,
+      "track": 6,
+      "title": "A River of Iron",
+      "fileName": "1-06-a-river-of-iron"
+    },
+    {
+      "disc": 1,
+      "track": 7,
+      "title": "The Gateway Arch",
+      "fileName": "1-07-the-gateway-arch"
+    },
+    {
+      "disc": 1,
+      "track": 8,
+      "title": "Cold Tile (The Fall)",
+      "fileName": "1-08-cold-tile-the-fall"
+    },
+    {
+      "disc": 1,
+      "track": 9,
+      "title": "The Longest Shadow",
+      "fileName": "1-09-the-longest-shadow"
+    },
+    {
+      "disc": 1,
+      "track": 10,
+      "title": "Midnight Lullaby",
+      "fileName": "1-10-midnight-lullaby"
+    },
+    {
+      "disc": 2,
+      "track": 1,
+      "title": "The Frozen Plains",
+      "fileName": "2-01-the-frozen-plains"
+    },
+    {
+      "disc": 2,
+      "track": 2,
+      "title": "The Secret Fire",
+      "fileName": "2-02-the-secret-fire"
+    },
+    {
+      "disc": 2,
+      "track": 3,
+      "title": "Salt Lake Despair",
+      "fileName": "2-03-salt-lake-despair"
+    },
+    {
+      "disc": 2,
+      "track": 4,
+      "title": "The Broken Lift",
+      "fileName": "2-04-the-broken-lift"
+    },
+    {
+      "disc": 2,
+      "track": 5,
+      "title": "Emerald City (The Trigger)",
+      "fileName": "2-05-emerald-city-the-trigger"
+    },
+    {
+      "disc": 2,
+      "track": 6,
+      "title": "The Rain in the Sound",
+      "fileName": "2-06-the-rain-in-the-sound"
+    },
+    {
+      "disc": 2,
+      "track": 7,
+      "title": "Dead Weight",
+      "fileName": "2-07-dead-weight"
+    },
+    {
+      "disc": 2,
+      "track": 8,
+      "title": "A House Divided",
+      "fileName": "2-08-a-house-divided"
+    },
+    {
+      "disc": 2,
+      "track": 9,
+      "title": "Shield of Empathy",
+      "fileName": "2-09-shield-of-empathy"
+    },
+    {
+      "disc": 2,
+      "track": 10,
+      "title": "The Thaw",
+      "fileName": "2-10-the-thaw"
+    },
+    {
+      "disc": 3,
+      "track": 1,
+      "title": "First Class Sanctuary",
+      "fileName": "3-01-first-class-sanctuary"
+    },
+    {
+      "disc": 3,
+      "track": 2,
+      "title": "Above the Clouds",
+      "fileName": "3-02-above-the-clouds"
+    },
+    {
+      "disc": 3,
+      "track": 3,
+      "title": "Descent into the Hub",
+      "fileName": "3-03-descent-into-the-hub"
+    },
+    {
+      "disc": 3,
+      "track": 4,
+      "title": "The Prismatic Corridor",
+      "fileName": "3-04-the-prismatic-corridor"
+    },
+    {
+      "disc": 3,
+      "track": 5,
+      "title": "Blind Faith",
+      "fileName": "3-05-blind-faith"
+    },
+    {
+      "disc": 3,
+      "track": 6,
+      "title": "Gate C22",
+      "fileName": "3-06-gate-c22"
+    },
+    {
+      "disc": 3,
+      "track": 7,
+      "title": "Upon This Winter's Night",
+      "fileName": "3-07-upon-this-winters-night"
+    },
+    {
+      "disc": 3,
+      "track": 8,
+      "title": "The Anchor's Hold",
+      "fileName": "3-08-the-anchors-hold"
+    },
+    {
+      "disc": 3,
+      "track": 9,
+      "title": "Flight 818",
+      "fileName": "3-09-flight-818"
+    },
+    {
+      "disc": 3,
+      "track": 10,
+      "title": "The Polaris Dawn (Finale)",
+      "fileName": "3-10-the-polaris-dawn-finale"
+    }
+  ]
+}
