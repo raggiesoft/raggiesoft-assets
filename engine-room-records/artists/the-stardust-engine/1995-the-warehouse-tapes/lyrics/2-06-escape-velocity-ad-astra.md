@@ -1,0 +1,182 @@
+**LORE NOTE:**
+The "Magnum Opus" and the grand finale of the *Hard Reset* double album. This monumental 15-minute and 33-second progressive rock epic was originally written and recorded in 1995, during the financial struggle of the band's "Wilderness Years" (a full year before the 1996 lottery windfall). It is entirely Cassidy O'Connell's creation—she wrote the music, penned the lyrics, and directed her family through the complex arrangement. 
+
+The four-movement suite serves as her autobiography, charting her visceral escape from the trauma of the 1992 'Friction' trial ("The Cage") to the transcendence of total artistic freedom ("The Cosmos"). The track features a distinct "mechanical cutoff" sound between Part II and Part III; this wasn't a studio effect, but Ryan O'Connell physically pulling the plug on his guitar amplifier mid-recording to simulate the violent silence of a rocket's Main Engine Cutoff (MECO). By including the full suite here in 1997, the band ensures Cassidy's defining artistic statement finally reaches the global audience it always deserved.
+
+**BONUS LORE (The K.N.O.X. Cinematic Universe):**
+Twenty years later, in 2017, the O'Connell family used the vast resources of the Forger Nation Trust to fully fund and produce a science fiction feature film titled *K.N.O.X.* Alongside producing the film, The Stardust Engine composed the official Industrial/Score soundtrack. 
+
+In the film's narrative, The Stardust Engine portrays an in-universe band forced by the oppressive Telsan Axiom corporation to perform a residency of shows in Port Telsus—a gritty, miserable collection of rusting platforms and biodomes situated on a massive geological formation rising 16 kilometers above the ocean. To survive the toxic mix of ozone, synth-fuel, and rot in the port's air, the band must wear Axiom-patented filter masks while playing in the neon-lit Cross-Way market. 
+
+During these forced performances, the band plays the full 15-minute suite of *Escape Velocity (Ad Astra)*. However, it isn't just a performance; the song acts as a coded transmission broadcast directly from Port Telsus. The track's distinct sonic shifts are actually encoded navigational coordinates sent to the native resistance fighters hidden 1.5 to 3 kilometers high in the canopy of the Weave. The broadcast aids the real "Knox"—not the heavy-set, scarred male veteran the Axiom believes they are hunting, but the symbiotic trio of Kael, Anya, and Pip—in their fight against corporate oppression.
+
+**LYRICS:**
+
+[Part I: The Cage]
+*(Whispered, over a dark, shimmering synth pad)*
+The walls are cold, the air is thin
+The noise outside is closing in
+A single light, a buzzing sound
+Another day in the underground
+
+I'm running from the face I see
+The "victim-saint" they made of me
+The "wholesome girl," so sad and worn
+A "David" for their Goliath's scorn
+
+This rage is just a heavy stone
+A gravity I've outgrown
+Shedding skin, shedding weight
+Escaping from this world of hate
+
+They loved the trial, the "family" torn
+They loved the story, a new star born
+But not from music, not from grace
+From the "hot-chocolate-drinking" "angel face"
+
+The "Shark" was right, the "nuke" went off
+We won the battle, but at what cost?
+We're "radioactive," we're "litigious"
+We're just the joke, the "victim-saints"
+
+*(Slightly louder)*
+I'm trapped inside this "Wilderness"
+This "Fortress" built on bitterness
+This isn't freedom, this is a cell
+This "righteous hell"...
+This "righteous hell"...
+
+[Part II: Ignition (Ad Astra)]
+*(The dark synth pad is suddenly cut by a rapid, driving analog synth sequencer. A pounding, 80s acoustic drum beat kicks in, locked with a driving bassline. Vocals become strong, clear, and melodic.)*
+
+I see a signal in the endless black
+A single light, no turning back
+The pull of the old world fades away
+A new horizon, a new day
+
+The countdown's running in my head
+Ignoring all the things they said
+The "Engine" roars, a crimson light
+A pillar of fire in the night
+
+The pressure builds, I'm pinned to the seat
+My heart is pounding with the beat
+The G-force pulling, a heavy stone
+The last chain breaks, I'm not alone
+
+[Chorus]
+I'm climbing! Climbing!
+Past the point of no return
+I'm flying! Flying!
+With a fire I let burn
+Just a signal, a distant light
+Burning through the endless night
+Ad astra... (To the stars!)
+Ad astra!
+
+[Instrumental Break]
+*(A short, fast, synthesizer and guitar riff-heavy section. Pure 80s prog-rock energy.)*
+
+The sky is tearing at the seams
+Awake now from their broken dreams
+The "Stardust" is just a trail of dust
+The "Stardust" is the thing I trust
+
+The clouds are falling far below
+A place of pain I used to know
+The blue gives way to endless black
+There is no thought of turning back
+
+[Chorus]
+I'm climbing! Climbing!
+Past the point of no return
+I'm flying! Flying!
+With a fire I let burn
+Just a signal, a distant light
+Burning through the endless night
+Ad astra... (To the stars!)
+Ad astra!
+
+[Part III: The Cosmos]
+*(The driving beat cuts off abruptly as Ryan pulls the plug on his amplifier. Tempo slows to a crawl. Vast, sweeping synth pads take over the silent vacuum.)*
+
+I'm floating now, the engine's off
+The silence is a holy sound
+The rage is gone, the fear is lost
+In this new universe I've found
+
+The "Cage" is just a distant star
+A tiny light I left behind
+I finally know just who you are
+The other half of my own mind
+
+*(Ethereal, layered vocals swell)*
+I'm loved by the sun
+I'm held by the void
+An orbit just begun
+A life not destroyed
+
+I'm loved by the moon
+I'm cradled by the black
+My heart is back in tune
+There is no turning back
+
+And the stars are singing
+A song I understand
+I'm finally, finally
+Reaching for your hand
+
+[Instrumental Bridge]
+*(Music swells. A long, beautiful, melodic, and highly emotional electric guitar solo. Full of hope, not rage.)*
+
+*(Ethereal, layered vocals return)*
+I see the colors of the nebula
+A place I've only seen in dreams
+The reds, the blues, the purples call
+Flowing in majestic streams
+
+This is the place I was meant to be
+This is the "Stardust" that is me
+The cosmos and the rocket's fire
+My one, my only true desire
+
+*(Ethereal, layered vocals)*
+I'm loved by the sun
+I'm held by the void
+An orbit just begun
+A life not destroyed
+
+And the stars are singing
+A song I understand
+I'm finally, finally
+Reaching for your hand
+
+[Part IV: Re-entry (The New World)]
+*(Music slowly fades back to just the shimmering synth pads and ethereal, whispered vocals)*
+
+The walls are gone
+The air is clear
+There is no noise
+There is no fear
+
+The "Stardust" is a forgotten ghost
+The "Engine" has delivered me to the coast
+Of a new world, a new shore
+A place I've never been before
+
+The "Cage" is broken, the "Victim-Saint" is dead
+A new, clean script is in my head
+The "Friction" burned away in the fire
+Leaving only my true desire
+
+*(Ethereal, layered vocals swell for the finale)*
+I'm loved by the sun...
+I'm held by the void...
+My orbit has begun...
+My life is not destroyed...
+
+Ad astra...
+Ad astra...
+(To the stars...)
+
+*(Song fades out on a final, sustained, peaceful synthesizer chord)*

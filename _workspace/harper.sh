@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v18) ---
+# --- HARPER: THE STUDIO ENGINEER (v18.1) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
@@ -8,9 +8,11 @@
 # She uses FFmpeg to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
 # She also creates the Download Zips for the "License Gated" area.
 #
+# NEW RULE: Skip existing files to save time, unless forced!
+#
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v18)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v18.1)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -55,10 +57,13 @@ else
     echo "   ⚠️  HARPER: I can't find 7-Zip! I'll skip the zip files for now."
 fi
 
+# --- OVERWRITE LOGIC ---
+OVERWRITE=false
 ffmpeg_flag="-n" 
 if [[ "$1" == "--rebuild" || "$1" == "-y" ]]; then
   ffmpeg_flag="-y"
-  echo "   ⚡ HARPER: Rebuild flag detected! Overwriting old tracks."
+  OVERWRITE=true
+  echo "   ⚡ HARPER: Rebuild flag detected! Overwriting old tracks and archives."
 fi
 
 if [ ! -d "$SEARCH_PATH" ]; then
@@ -134,7 +139,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         echo "$TRACK_NUM. $TITLE" >> "$README_FILE"
         
         # Let Harper announce the track!
-        echo "      🎙️  HARPER: Patching through Track $TRACK_NUM - '$TITLE'..."
+        echo "      🎙️  HARPER: Checking Track $TRACK_NUM - '$TITLE'..."
 
         # Capturing content for index
         LYRICS_CONTENT=""
@@ -158,20 +163,28 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
 
         # MP3 (V0)
-        echo "         -> Cutting MP3..."
-        ffmpeg -nostdin -loglevel error $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-        -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
-        -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-        -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" \
-        "mp3/$FILE_BASE.mp3"
+        if [ ! -f "mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 🎚️ Cutting MP3..."
+            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+            -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
+            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+            -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+            "mp3/$FILE_BASE.mp3"
+        else
+            echo "         ⏭️  MP3 already exists! Fast-forwarding."
+        fi
 
         # OGG (Q9)
-        echo "         -> Pressing OGG..."
-        ffmpeg -nostdin -loglevel error $ffmpeg_flag -i "$WAV_FILE" \
-        -codec:a libvorbis -q:a 9 \
-        -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-        -metadata date="$NARRATIVE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
-        "ogg/$FILE_BASE.ogg"
+        if [ ! -f "ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 🎚️ Pressing OGG..."
+            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
+            -codec:a libvorbis -q:a 9 \
+            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+            -metadata date="$NARRATIVE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
+            "ogg/$FILE_BASE.ogg"
+        else
+            echo "         ⏭️  OGG already exists! Fast-forwarding."
+        fi
 
     done
 
@@ -180,18 +193,40 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         ZIP_MP3="archives/${ARCHIVE_BASE_NAME}-mp3.zip"
         ZIP_OGG="archives/${ARCHIVE_BASE_NAME}-ogg.zip"
         ZIP_WAV="archives/${ARCHIVE_BASE_NAME}-wav.7z"
-        rm -f "$ZIP_MP3" "$ZIP_OGG" "$ZIP_WAV"
 
-        "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./mp3/*.mp3 "$README_FILE" "$ART_FILE" > /dev/null
-        if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./lyrics/*.md > /dev/null; fi
+        echo "      🎙️  HARPER: Booting up the Archiver. Turning on the studio monitors so you can hear the crunch..."
 
-        "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./ogg/*.ogg "$README_FILE" "$ART_FILE" > /dev/null
-        if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./lyrics/*.md > /dev/null; fi
+        # Pack MP3 Archive
+        if [ ! -f "$ZIP_MP3" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing MP3 Archive..."
+            rm -f "$ZIP_MP3"
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./mp3/*.mp3 "$README_FILE" "$ART_FILE"
+            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./lyrics/*.md; fi
+        else
+            echo "         ⏭️  MP3 Archive already exists! Skipping."
+        fi
 
-        "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "$ZIP_WAV" ./wav/*.wav "$README_FILE" "$ART_FILE" > /dev/null
-        if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -t7z -mx=9 "$ZIP_WAV" ./lyrics/*.md > /dev/null; fi
+        # Pack OGG Archive
+        if [ ! -f "$ZIP_OGG" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing OGG Archive..."
+            rm -f "$ZIP_OGG"
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./ogg/*.ogg "$README_FILE" "$ART_FILE"
+            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./lyrics/*.md; fi
+        else
+            echo "         ⏭️  OGG Archive already exists! Skipping."
+        fi
+
+        # Pack WAV Archive
+        if [ ! -f "$ZIP_WAV" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing massive WAV Archive (Ultra Compression active, hold tight!)..."
+            rm -f "$ZIP_WAV"
+            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "$ZIP_WAV" ./wav/*.wav "$README_FILE" "$ART_FILE"
+            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -t7z -mx=9 "$ZIP_WAV" ./lyrics/*.md; fi
+        else
+            echo "         ⏭️  WAV Archive already exists! Skipping."
+        fi
         
-        echo "   📦 HARPER: Archives zipped and locked."
+        echo "   📦 HARPER: Archive checks complete."
     fi
     
     rm "$README_FILE"

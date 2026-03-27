@@ -1,0 +1,100 @@
+ {
+  "tracks": [
+    {
+      "fileName": "1-01-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "disc": 1,
+      "track": 1
+    },
+    {
+      "fileName": "1-02-hard-reset",
+      "title": "Hard Reset",
+      "disc": 1,
+      "track": 2
+    },
+    {
+      "fileName": "1-03-brand-new-scene",
+      "title": "Brand New Scene",
+      "disc": 1,
+      "track": 3
+    },
+    {
+      "fileName": "1-04-static-on-the-dial",
+      "title": "Static on the Dial",
+      "disc": 1,
+      "track": 4
+    },
+    {
+      "fileName": "1-05-the-fortress",
+      "title": "The Fortress",
+      "disc": 1,
+      "track": 5
+    },
+    {
+      "fileName": "1-06-Inertia-unstoppable",
+      "title": "Inertia (Unstoppable)",
+      "disc": 1,
+      "track": 6
+    },
+    {
+      "fileName": "1-07-thunderhead",
+      "title": "Thunderhead",
+      "disc": 1,
+      "track": 7
+    },
+    {
+      "fileName": "1-08-redline",
+      "title": "Redline",
+      "disc": 1,
+      "track": 8
+    },
+    {
+      "fileName": "1-09-echoes-in-the-wire",
+      "title": "Echoes in the Wire",
+      "disc": 1,
+      "track": 9
+    },
+    {
+      "fileName": "1-10-my-anchor-the-sail",
+      "title": "My Anchor (The Sail)",
+      "disc": 1,
+      "track": 10
+    },
+    {
+      "fileName": "2-01-apoapsis",
+      "title": "Apoapsis",
+      "disc": 2,
+      "track": 1
+    },
+    {
+      "fileName": "2-02-second-apoapsis",
+      "title": "Second Apoapsis",
+      "disc": 2,
+      "track": 2
+    },
+    {
+      "fileName": "2-03-the-spectrum-true-color",
+      "title": "The Spectrum (True Color)",
+      "disc": 2,
+      "track": 3
+    },
+    {
+      "fileName": "2-04-moon-1-tidal-lock",
+      "title": "Moon 1 (Tidal Lock)",
+      "disc": 2,
+      "track": 4
+    },
+    {
+      "fileName": "2-05-moon-2-roche-limit",
+      "title": "Moon 2 (Roche Limit)",
+      "disc": 2,
+      "track": 5
+    },
+    {
+      "fileName": "2-06-escape-velocity-ad-astra",
+      "title": "Escape Velocity (Ad Astra)",
+      "disc": 2,
+      "track": 6
+    }
+  ]
+}
