@@ -1,26 +1,27 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v18.1) ---
+# --- HARPER: THE STUDIO ENGINEER (v18.5) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
 # Harper is the heavy lifter. She recursively scans the workspace for Master WAV files.
 # She uses FFmpeg to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
-# She also creates the Download Zips for the "License Gated" area.
+# She creates the Download Zips for the "License Gated" area.
+# She drafts Markdown metadata files for commercial streaming distribution.
+# NEW: Stripped LLC for legal compliance. Integrated engineroom-records.com vanity URL.
 #
 # NEW RULE: Skip existing files to save time, unless forced!
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v18.1)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v18.5)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
 cd "$WORKSPACE_DIR" || exit
-ROOT_DIR=$(pwd) # This is now .../raggiesoft-assets/_workspace
+ROOT_DIR=$(pwd)
 
 # --- PATH CONFIGURATION ---
-# We go UP one level to find the assets
 SEARCH_PATH="../engine-room-records/artists"
 METADATA_FILE="../engine-room-records/artists/metadata.json"
 TEMP_SEARCH_INDEX="temp_search_index.jsonl" 
@@ -40,7 +41,6 @@ if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
          USE_SEVEN_ZIP=true
      fi
 else
-    # Mac/Linux: Check System first, then local
     if command -v 7zz &> /dev/null; then
         SEVEN_ZIP_CMD="7zz"
         USE_SEVEN_ZIP=true
@@ -99,6 +99,10 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     WEB_URL="/engine-room/artists/$ARTIST_SLUG/albums/$ALBUM_SLUG"
     SAFE_ALBUM_NAME=$(echo "$ALBUM_NAME" | tr '[:upper:]' '[:lower:]' | tr -d '[:punct:]' | tr ' ' '-')
     ARCHIVE_BASE_NAME="${NARRATIVE_YEAR}-${SAFE_ALBUM_NAME}"
+    
+    # Date variables
+    CURRENT_DATETIME=$(date +"%m-%d-%Y %I:%M:%S %p")
+    CURRENT_YEAR=$(date +"%Y")
 
     echo ""
     echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
@@ -114,7 +118,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     HAS_LYRICS=false
     if [ -d "lyrics" ]; then HAS_LYRICS=true; fi
 
-    mkdir -p mp3 ogg archives
+    # Create directories
+    mkdir -p mp3 ogg archives streaming-services
 
     # Generate Readme
     README_FILE="read-me.txt"
@@ -122,9 +127,16 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         echo "=================================================================="
         echo "  $ALBUM_NAME ($NARRATIVE_YEAR)"
         echo "  by $ALBUM_ARTIST"
+        echo "  Published by Engine Room Records"
         echo "=================================================================="
         echo "Genre: $GENRE"
-        echo "Website: https://raggiesoft.com$WEB_URL"
+        echo "Label Website: https://engineroom-records.com"
+        echo "Album URL: https://raggiesoft.com$WEB_URL"
+        echo ""
+        echo "LICENSE & COPYRIGHT:"
+        echo "This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)."
+        echo "Full License Details: https://raggiesoft.com/about/license"
+        echo "Copyright (c) $CURRENT_YEAR Michael P. Ragsdale / RaggieSoft."
         echo ""
         echo "TRACKLIST:"
     } > "$README_FILE"
@@ -138,7 +150,6 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 
         echo "$TRACK_NUM. $TITLE" >> "$README_FILE"
         
-        # Let Harper announce the track!
         echo "      🎙️  HARPER: Checking Track $TRACK_NUM - '$TITLE'..."
 
         # Capturing content for index
@@ -162,6 +173,49 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             continue
         fi
 
+        # --- STREAMING METADATA GENERATION ---
+        STREAMING_MD="streaming-services/${FILE_BASE}.md"
+
+        if [ ! -f "$STREAMING_MD" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📝 Drafting Streaming Metadata (AI Disclosures attached)..."
+            {
+                echo "# $TITLE - Distribution Metadata"
+                echo ""
+                echo "## Core Track Information"
+                echo "* **Album / Release Title:** $ALBUM_NAME"
+                echo "* **Track Number:** $TRACK_NUM"
+                echo "* **Primary Artist (Release Persona):** $ALBUM_ARTIST"
+                echo "* **Real-World / Legal Artist:** Michael P. Ragsdale"
+                echo "* **Genre:** $GENRE"
+                echo "* **Explicit Content:** No (Clean)"
+                echo "* **Vocal Language:** English (EN-US)"
+                echo "* **Fictional Narrative Year:** $NARRATIVE_YEAR"
+                echo "* **Real-World Release Year:** $CURRENT_YEAR"
+                echo "* **Generated On:** $CURRENT_DATETIME"
+                echo "* **Master File Located At:** ../wav/${FILE_BASE}.wav"
+                echo ""
+                echo "## Distribution & AI Disclosure Notes"
+                echo ""
+                echo "**1. Rights & Clearances**"
+                echo "* **Commercial Rights:** 100% cleared. Generated using a commercial-tier Suno Premium subscription."
+                echo "* **Copyright Ownership:** The underlying narrative, lyrics, and the '$ALBUM_ARTIST' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution."
+                echo "* **Impersonation/Voice Cloning:** NONE. All vocals are entirely synthetic and do not clone, mimic, or impersonate any real-world artist or person."
+                echo ""
+                echo "**2. Creative Process & Human Contribution**"
+                echo "* This track is a human-directed production."
+                echo "* **Human/Author Contribution:** Original narrative concept, thematic direction, lyric writing, and persona creation."
+                echo "* **AI Assistance (Gemini):** Lyric refinement and style prompting."
+                echo "* **AI Generation (Suno):** AI-assisted instrumentation, composition, and vocal generation."
+                echo ""
+                echo "**3. Suggested DDEX Credits (For Spotify/Apple Music)**"
+                echo "* Lyrics: Human"
+                echo "* Instrumentation/Music: AI-Generated"
+                echo "* Vocals: AI-Generated"
+            } > "$STREAMING_MD"
+        else
+            echo "         ⏭️  Streaming Metadata already exists! Fast-forwarding."
+        fi
+
         # MP3 (V0)
         if [ ! -f "mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
             echo "         -> 🎚️ Cutting MP3..."
@@ -169,6 +223,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
             -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata comment="Website: https://engineroom-records.com | Licensing: https://raggiesoft.com/about/license" \
             "mp3/$FILE_BASE.mp3"
         else
             echo "         ⏭️  MP3 already exists! Fast-forwarding."
@@ -181,6 +237,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             -codec:a libvorbis -q:a 9 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
             -metadata date="$NARRATIVE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata comment="Website: https://engineroom-records.com | Licensing: https://raggiesoft.com/about/license" \
             "ogg/$FILE_BASE.ogg"
         else
             echo "         ⏭️  OGG already exists! Fast-forwarding."
@@ -230,7 +288,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     fi
     
     rm "$README_FILE"
-    popd > /dev/null # Return to workspace
+    popd > /dev/null
 done
 
 # --- FINALIZE SEARCH INDEX ---
@@ -241,4 +299,4 @@ if [ -f "$TEMP_SEARCH_INDEX" ]; then
     echo "   ✅ HARPER: Index saved to $METADATA_FILE"
 fi
 
-echo "🎧 HARPER: Session complete! The tracks are hot and ready for the radio."
+echo "🎧 HARPER: Session complete! The tracks and paperwork are hot and ready for the radio."
