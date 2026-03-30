@@ -1,100 +1,108 @@
 {
   "tracks": [
     { 
-      "fileName": "1-01-neon-hearts", 
-      "title": "Neon Hearts", 
+      "fileName": "1-01-electric-color", 
+      "title": "Electric Color", 
       "disc": 1, 
       "track": 1,
       "legacyTier": "Chart Smash",
-      "loreNote": "The 'safe' title track. Apex forced the band to include a callback lyric to their first hit to ensure brand consistency."
+      "loreNote": "The solid #2 hit. It sat at the runner-up spot for six weeks, famously blocked from #1 by a novelty song."
     },
     { 
-      "fileName": "1-02-hollow-sound", 
-      "title": "Hollow Sound", 
+      "fileName": "1-02-plastic-sky", 
+      "title": "Plastic Sky", 
       "disc": 1, 
       "track": 2,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's act of 'malicious compliance.' A 5:31 protest track explicitly calling out the studio's panic over the canceled 'Promise' single."
+      "loreNote": "Ryan's first act of 'malicious compliance.' Anti-corporate lyrics hidden inside a polished, studio-approved pop-rock wrapper."
     },
     { 
-      "fileName": "1-03-side-by-side", 
-      "title": "Side by Side", 
+      "fileName": "1-03-my-anchor-holds", 
+      "title": "My Anchor Holds", 
       "disc": 1, 
       "track": 3,
-      "legacyTier": "The Dud",
-      "loreNote": "The studio's furious overcorrection. An absurdly short, manic 1:54 'bubblegum' pop track demanded to fix the album's pacing."
+      "legacyTier": "Chart Smash",
+      "loreNote": "A power ballad the studio marketed as a romance, but which the band actually wrote about their unbreakable family bond."
     },
     { 
-      "fileName": "1-04-if-you-walked-away", 
-      "title": "If You Walked Away", 
+      "fileName": "1-04-dancing-in-the-neon", 
+      "title": "Dancing in the Neon", 
       "disc": 1, 
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "Marketed as a romance, this late-night radio ballad was actually Cassidy's genuine, terrifying plea to her brother not to abandon her."
+      "loreNote": "A safe, polished synth-pop single pushed heavily by Apex Records, prioritizing high energy over the band's rock roots."
     },
     { 
-      "fileName": "1-05-same-old-song", 
-      "title": "Same Old Song", 
+      "fileName": "1-05-running-on-the-edge", 
+      "title": "Running on the Edge", 
       "disc": 1, 
       "track": 5,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's 'Trojan Horse.' A bright, optimistic keyboard hook masking a scathing critique of the studio's formulaic songwriting process."
+      "loreNote": "A protest song featuring angsty, anti-corporate lyrics hidden inside a 'safe' pop-rock wrapper."
     },
     { 
-      "fileName": "1-06-chain-reaction", 
-      "title": "Chain Reaction", 
+      "fileName": "1-06-just-a-girl", 
+      "title": "Just a Girl", 
       "disc": 1, 
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The start of the 'Side B Rebellion.' This pure rock track proved to the executives that the 'Engine' sound was what the audience actually wanted."
+      "loreNote": "Cassidy's quiet rebellion. Dismissed by executives as filler, it became a massive grassroots anthem for female fans."
     },
     { 
-      "fileName": "1-07-not-your-doll", 
-      "title": "Not Your Doll", 
+      "fileName": "1-07-light-up-the-night", 
+      "title": "Light Up the Night", 
       "disc": 1, 
       "track": 7,
-      "legacyTier": "Fan Anthem",
-      "loreNote": "Cassidy's arena rock anthem where she fiercely rejects the 'Stardust' persona Apex forced upon her."
+      "legacyTier": "The Dud",
+      "loreNote": "The song Apex poured all their marketing money into. It was meant to be the 'Big One' but completely failed to connect."
     },
     { 
-      "fileName": "1-08-quiet-on-the-set", 
-      "title": "Quiet on the Set", 
+      "fileName": "1-08-break-the-walls", 
+      "title": "Break the Walls", 
       "disc": 1, 
       "track": 8,
-      "legacyTier": "Studio Filler",
-      "loreNote": "The 'Punishment' begins. Apex forced Ryan to record this quiet, introspective ballad to kill the rock momentum built on Side B."
+      "legacyTier": "Fan Anthem",
+      "loreNote": "The one 'pure rock' anthem Apex allowed on the album. It became an immediate fan-favorite for its raw energy."
     },
     { 
-      "fileName": "1-09-shadow-dancing", 
-      "title": "Shadow Dancing", 
+      "fileName": "1-09-worlds-apart", 
+      "title": "Worlds Apart", 
       "disc": 1, 
       "track": 9,
-      "legacyTier": "Studio Filler",
-      "loreNote": "The studio strikes back. An atmospheric synth track where electric guitars were explicitly banned from the mix."
+      "legacyTier": "Deep Cut",
+      "loreNote": "A soaring duet that served as meta-commentary on the studio's attempt to separate their 'Stardust' and 'Engine' personas."
     },
     { 
-      "fileName": "1-10-after-the-show", 
-      "title": "After the Show", 
+      "fileName": "1-10-another-night", 
+      "title": "Another Night", 
       "disc": 1, 
       "track": 10,
-      "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's final laugh. Forbidden from using 'pounding drums,' he recorded the rhythm by percussively slapping his acoustic guitar."
+      "legacyTier": "Studio Filler",
+      "loreNote": "A safe filler track demanded by Apex to pad the runtime. Ryan was explicitly banned from playing guitar on it."
     },
     { 
-      "fileName": "1-11-the-promise-corporate-demo", 
-      "title": "The Promise (1989 Corporate Demo)", 
+      "fileName": "1-11-out-of-time", 
+      "title": "Out of Time", 
       "disc": 1, 
       "track": 11,
-      "legacyTier": "Vault Track",
-      "loreNote": "The exact sound Apex wanted: safe, sterile, and ready for a televangelist broadcast. Scrapped after the 'Worship' video controversy."
+      "legacyTier": "Deep Cut",
+      "loreNote": "Ryan's punk-inspired vent. Apex gleefully cut this raw track from the original vinyl release to save space."
     },
     { 
-      "fileName": "1-12-the-promise-sabotage-demo", 
-      "title": "The Promise (1989 Sabotage Demo)", 
+      "fileName": "1-12-rearview-mirror", 
+      "title": "Rearview Mirror", 
       "disc": 1, 
       "track": 12,
-      "legacyTier": "Vault Track",
-      "loreNote": "Ryan's malicious compliance. He played the synth-gospel track but snuck a blistering, unholy rock solo into the bridge, terrifying the executives."
+      "legacyTier": "Deep Cut",
+      "loreNote": "A moody synth-pop track Cassidy used to express her feeling of being a suppressed 'passenger' in her own career."
+    },
+    { 
+      "fileName": "1-13-the-stardust-engine", 
+      "title": "The Stardust Engine", 
+      "disc": 1, 
+      "track": 13,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "Buried at the album's end, this true anthem perfectly blended synth and rock. It could have spent 11 weeks at #1."
     }
   ]
 }

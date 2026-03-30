@@ -12,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 2025
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 08:42:23 PM
+* **Generated On:** 03-29-2026 10:37:48 PM
 * **Master File Located At:** ../../wav/2-05-the-tyrants-throne.wav
 
 ## Distribution & AI Disclosure Notes
