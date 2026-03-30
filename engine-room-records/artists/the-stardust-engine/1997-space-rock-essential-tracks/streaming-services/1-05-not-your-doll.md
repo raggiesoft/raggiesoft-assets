@@ -1,7 +1,9 @@
 # Not Your Doll - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Not Your Doll
 * **Album / Release Title:** Space Rock: Essential Tracks (1987-1997)
+* **Disc Number:** 1
 * **Track Number:** 5
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1997
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:19:56 AM
+* **Generated On:** 03-29-2026 01:23:46 PM
 * **Master File Located At:** ../wav/1-05-not-your-doll.wav
 
 ## Distribution & AI Disclosure Notes

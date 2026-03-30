@@ -1,11 +1,14 @@
 /**
  * ============================================================================
- * THE STARDUST PLAYER ENGINE (v4.1 - WCAG Edition)
+ * THE STARDUST PLAYER ENGINE (v4.3 - WCAG Lore Edition)
  * ============================================================================
- * UPDATED FOR ACCESSIBILITY:
+ * UPDATED FOR ACCESSIBILITY & LORE:
  * 1. Live Regions: Track title now announces "Buffering" and Song Names.
  * 2. Aria-Current: Playlist rows now strictly identify the active track.
  * 3. Page Title: Browser tab updates to reflect playback state.
+ * 4. Legacy Tiers: Dynamically injects color-coded lore badges into the UI.
+ * 5. WCAG Lore Badges: Fully keyboard focusable (tabindex="0") and explicitly 
+ * labeled for screen readers using robust aria-labeling.
  */
 
 (function() {
@@ -289,7 +292,32 @@
                 currentBlobUrl = URL.createObjectURL(blob);
                 dom.audio.src = currentBlobUrl;
                 
-                dom.title.textContent = track.title;
+                // --- THE LORE ENGINE: Dynamic Legacy Badges (WCAG Compliant) ---
+                let titleHtml = track.title;
+                if (track.legacyTier) {
+                    let badgeClass = 'bg-secondary text-white'; // Fallback
+                    if (track.legacyTier === 'Chart Smash') badgeClass = 'bg-success text-white';
+                    if (track.legacyTier === 'Fan Anthem') badgeClass = 'bg-warning text-dark';
+                    if (track.legacyTier === 'Deep Cut') badgeClass = 'bg-info text-dark';
+                    if (track.legacyTier === 'Vault Track') badgeClass = 'bg-dark text-warning border border-warning';
+                    if (track.legacyTier === 'The Dud' || track.legacyTier === 'Studio Filler') badgeClass = 'bg-danger text-white';
+
+                    // Prepare safe string for HTML attributes
+                    let safeLore = track.loreNote ? track.loreNote.replace(/"/g, '&quot;') : '';
+                    
+                    // WCAG FIX: 
+                    // 1. tabindex="0" makes it accessible to keyboard navigation.
+                    // 2. aria-label feeds the explicit context to the screen reader.
+                    // 3. title attribute provides the visual hover tooltip.
+                    // 4. aria-hidden="true" on the inner text prevents the screen reader from reading the tier twice.
+                    let wcagAttributes = safeLore 
+                        ? `title="${safeLore}" aria-label="Legacy Tier: ${track.legacyTier}. Lore Note: ${safeLore}" tabindex="0"`
+                        : `aria-label="Legacy Tier: ${track.legacyTier}" tabindex="0"`;
+
+                    titleHtml += ` <span class="badge ${badgeClass} ms-2 align-text-bottom" style="font-size: 0.6em; letter-spacing: 0.5px; cursor: help;" ${wcagAttributes}><span aria-hidden="true">${track.legacyTier.toUpperCase()}</span></span>`;
+                }
+                
+                dom.title.innerHTML = titleHtml;
                 
                 // WCAG FIX: Update Browser Title so users know music is playing in this tab
                 document.title = `▶ ${track.title} | ${dom.originalPageTitle}`;

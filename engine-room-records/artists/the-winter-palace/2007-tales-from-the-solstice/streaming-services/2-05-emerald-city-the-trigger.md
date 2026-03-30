@@ -1,7 +1,9 @@
 # Emerald City (The Trigger) - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Emerald City (The Trigger)
 * **Album / Release Title:** Tales from the Solstice
+* **Disc Number:** 2
 * **Track Number:** 5
 * **Primary Artist (Release Persona):** The Winter Palace
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 2007
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:27:41 AM
+* **Generated On:** 03-29-2026 01:32:14 PM
 * **Master File Located At:** ../wav/2-05-emerald-city-the-trigger.wav
 
 ## Distribution & AI Disclosure Notes

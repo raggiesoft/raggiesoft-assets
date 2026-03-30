@@ -1,7 +1,9 @@
 # The Stardust Engine - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** The Stardust Engine
 * **Album / Release Title:** Hard Reset
+* **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1997
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:09:45 AM
+* **Generated On:** 03-29-2026 01:13:00 PM
 * **Master File Located At:** ../wav/1-01-the-stardust-engine.wav
 
 ## Distribution & AI Disclosure Notes

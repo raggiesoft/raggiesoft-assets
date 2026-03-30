@@ -1,7 +1,9 @@
 # Dancing in the Neon - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Dancing in the Neon
 * **Album / Release Title:** Space Rock: Essential Tracks (1987-1997)
+* **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1997
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:19:56 AM
+* **Generated On:** 03-29-2026 01:23:46 PM
 * **Master File Located At:** ../wav/1-04-dancing-in-the-neon.wav
 
 ## Distribution & AI Disclosure Notes

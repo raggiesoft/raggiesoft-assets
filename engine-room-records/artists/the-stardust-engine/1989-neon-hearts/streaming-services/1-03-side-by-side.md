@@ -1,7 +1,9 @@
 # Side by Side - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Side by Side
 * **Album / Release Title:** Neon Hearts
+* **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1989
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:51:25 AM
+* **Generated On:** 03-29-2026 03:09:20 PM
 * **Master File Located At:** ../wav/1-03-side-by-side.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,7 +1,9 @@
 # Dancing in the Neon (Live in Chicago) - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Dancing in the Neon (Live in Chicago)
 * **Album / Release Title:** The Stardust Engine: Live in Chicago
+* **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1990
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:56:40 AM
+* **Generated On:** 03-29-2026 03:14:02 PM
 * **Master File Located At:** ../wav/1-03-dancing-in-the-neon-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

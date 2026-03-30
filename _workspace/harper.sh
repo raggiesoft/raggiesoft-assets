@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v18.5) ---
+# --- HARPER: THE STUDIO ENGINEER (v19.0) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
@@ -8,13 +8,12 @@
 # She uses FFmpeg to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
 # She creates the Download Zips for the "License Gated" area.
 # She drafts Markdown metadata files for commercial streaming distribution.
-# NEW: Stripped LLC for legal compliance. Integrated engineroom-records.com vanity URL.
-#
-# NEW RULE: Skip existing files to save time, unless forced!
+# NEW: Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
+# NEW: Generates sanitized DSP lyrics and structures the /streaming-services package.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v18.5)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v19.0)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -55,6 +54,35 @@ if [ "$USE_SEVEN_ZIP" = true ]; then
     echo "   ✅ HARPER: 7-Zip loaded: $SEVEN_ZIP_CMD"
 else
     echo "   ⚠️  HARPER: I can't find 7-Zip! I'll skip the zip files for now."
+fi
+
+# --- LOCATE UPSCALER BINARY ---
+UPSCALER_BASE="$ROOT_DIR/build-tools/realesrgan"
+USE_UPSCALER=false
+
+if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    if [ -f "$UPSCALER_BASE/windows/realesrgan-ncnn-vulkan.exe" ]; then
+        UPSCALER_CMD="$UPSCALER_BASE/windows/realesrgan-ncnn-vulkan.exe"
+        USE_UPSCALER=true
+    fi
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+    if [ -f "$UPSCALER_BASE/macos/realesrgan-ncnn-vulkan" ]; then
+        UPSCALER_CMD="$UPSCALER_BASE/macos/realesrgan-ncnn-vulkan"
+        chmod +x "$UPSCALER_CMD" # Ensure execution rights on Mac
+        USE_UPSCALER=true
+    fi
+elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
+    if [ -f "$UPSCALER_BASE/ubuntu/realesrgan-ncnn-vulkan" ]; then
+        UPSCALER_CMD="$UPSCALER_BASE/ubuntu/realesrgan-ncnn-vulkan"
+        chmod +x "$UPSCALER_CMD" # Ensure execution rights on Linux
+        USE_UPSCALER=true
+    fi
+fi
+
+if [ "$USE_UPSCALER" = true ]; then
+    echo "   ✅ HARPER: Upscaler loaded: $UPSCALER_CMD"
+else
+    echo "   ⚠️  HARPER: Upscaler missing from $UPSCALER_BASE. Skipping art enhancement."
 fi
 
 # --- OVERWRITE LOGIC ---
@@ -107,7 +135,38 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     echo ""
     echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
 
-    # Art Param
+    # Create directories
+    mkdir -p mp3 ogg archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
+
+    # --- HARPER: ARTWORK UPSCALING ---
+    RAW_ART="album-art.jpg"
+    UPSCALED_ART="streaming-services/album-art/album-art-upscaled.jpg"
+    MODEL_NAME="realesrgan-x4plus"
+
+    if [ "$USE_UPSCALER" = true ] && [ -f "$RAW_ART" ]; then
+        if [ ! -f "$UPSCALED_ART" ] || [ "$OVERWRITE" = true ]; then
+            echo "      🖼️  HARPER: Artwork detected. Firing up the upscaler to 4K..."
+            
+            if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+                # Windows/Git Bash: Convert paths to strict Windows format
+                WIN_IN=$(cygpath -w "$(pwd)/$RAW_ART")
+                WIN_OUT=$(cygpath -w "$(pwd)/$UPSCALED_ART")
+                WIN_MODELS=$(cygpath -w "$(dirname "$UPSCALER_CMD")/models")
+                
+                "$UPSCALER_CMD" -i "$WIN_IN" -o "$WIN_OUT" -m "$WIN_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
+            else
+                # Mac/Linux: Native POSIX execution
+                UNIX_MODELS="$(dirname "$UPSCALER_CMD")/models"
+                "$UPSCALER_CMD" -i "$RAW_ART" -o "$UPSCALED_ART" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
+            fi
+            
+            echo "      ✅ HARPER: Artwork successfully upscaled to /streaming-services/album-art/"
+        else
+            echo "      ⏭️  Upscaled 4K Artwork already exists! Fast-forwarding."
+        fi
+    fi
+
+    # Art Param for FFmpeg (Using original art to keep MP3/OGG file size down)
     if [ ! -f "$ART_FILE" ]; then
         ART_FILE_PARAM=""
     else
@@ -117,9 +176,6 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     # Lyrics Check
     HAS_LYRICS=false
     if [ -d "lyrics" ]; then HAS_LYRICS=true; fi
-
-    # Create directories
-    mkdir -p mp3 ogg archives streaming-services
 
     # Generate Readme
     README_FILE="read-me.txt"
@@ -174,7 +230,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
 
         # --- STREAMING METADATA GENERATION ---
-        STREAMING_MD="streaming-services/${FILE_BASE}.md"
+        STREAMING_MD="streaming-services/song-metadata/${FILE_BASE}.md"
 
         if [ ! -f "$STREAMING_MD" ] || [ "$OVERWRITE" = true ]; then
             echo "         -> 📝 Drafting Streaming Metadata (AI Disclosures attached)..."
@@ -182,7 +238,9 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 echo "# $TITLE - Distribution Metadata"
                 echo ""
                 echo "## Core Track Information"
+                echo "* **Track Title:** $TITLE"
                 echo "* **Album / Release Title:** $ALBUM_NAME"
+                echo "* **Disc Number:** $DISC_NUM"
                 echo "* **Track Number:** $TRACK_NUM"
                 echo "* **Primary Artist (Release Persona):** $ALBUM_ARTIST"
                 echo "* **Real-World / Legal Artist:** Michael P. Ragsdale"
@@ -192,7 +250,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 echo "* **Fictional Narrative Year:** $NARRATIVE_YEAR"
                 echo "* **Real-World Release Year:** $CURRENT_YEAR"
                 echo "* **Generated On:** $CURRENT_DATETIME"
-                echo "* **Master File Located At:** ../wav/${FILE_BASE}.wav"
+                echo "* **Master File Located At:** ../../wav/${FILE_BASE}.wav"
                 echo ""
                 echo "## Distribution & AI Disclosure Notes"
                 echo ""
@@ -214,6 +272,23 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             } > "$STREAMING_MD"
         else
             echo "         ⏭️  Streaming Metadata already exists! Fast-forwarding."
+        fi
+
+        # --- DSP LYRICS GENERATION ---
+        LYRIC_MD="lyrics/${FILE_BASE}.md"
+        LYRIC_TXT="streaming-services/lyrics/${FILE_BASE}.txt"
+
+        if [ -f "$LYRIC_MD" ]; then
+            if [ ! -f "$LYRIC_TXT" ] || [ "$OVERWRITE" = true ]; then
+                echo "         -> 📝 Scrubbing Lyrics for DSP delivery..."
+                
+                sed '1,/\*\*LYRICS:\*\*/d' "$LYRIC_MD" | \
+                sed '/^[[:space:]]*[\[(].*[\])][[:space:]]*$/d' | \
+                cat -s | sed '/^[[:space:]]*$/{N;/^\n$/D;}' > "$LYRIC_TXT"
+                
+            else
+                echo "         ⏭️  DSP Lyrics already clean! Fast-forwarding."
+            fi
         fi
 
         # MP3 (V0)

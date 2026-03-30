@@ -1,7 +1,9 @@
 # Nineteen and Invincible - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Nineteen and Invincible
 * **Album / Release Title:** Static & Silence
+* **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** Mirage
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 2001
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:29:25 AM
+* **Generated On:** 03-29-2026 02:48:39 PM
 * **Master File Located At:** ../wav/1-01-nineteen-and-invincible.wav
 
 ## Distribution & AI Disclosure Notes

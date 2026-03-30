@@ -1,7 +1,9 @@
 # The Fortress - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** The Fortress
 * **Album / Release Title:** Ad Astra (Single)
+* **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1995
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:01:00 AM
+* **Generated On:** 03-29-2026 01:03:04 PM
 * **Master File Located At:** ../wav/1-04-the-fortress.wav
 
 ## Distribution & AI Disclosure Notes

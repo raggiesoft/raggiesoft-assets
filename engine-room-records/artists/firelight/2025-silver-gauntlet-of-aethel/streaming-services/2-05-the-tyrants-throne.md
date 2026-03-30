@@ -1,7 +1,9 @@
 # The Tyrant's Throne (Shadow's Heart) - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** The Tyrant's Throne (Shadow's Heart)
 * **Album / Release Title:** The Silver Gauntlet of Aethel
+* **Disc Number:** 2
 * **Track Number:** 5
 * **Primary Artist (Release Persona):** Firelight
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 2025
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:26:47 AM
+* **Generated On:** 03-29-2026 02:45:47 PM
 * **Master File Located At:** ../wav/2-05-the-tyrants-throne.wav
 
 ## Distribution & AI Disclosure Notes

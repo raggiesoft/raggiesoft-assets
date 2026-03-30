@@ -1,7 +1,9 @@
 # Not Your Saint - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Not Your Saint
 * **Album / Release Title:** The Warehouse Tapes
+* **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1995
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:05:08 AM
+* **Generated On:** 03-29-2026 01:07:26 PM
 * **Master File Located At:** ../wav/1-03-not-your-saint.wav
 
 ## Distribution & AI Disclosure Notes

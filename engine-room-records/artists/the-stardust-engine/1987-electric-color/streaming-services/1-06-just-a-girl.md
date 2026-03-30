@@ -1,7 +1,9 @@
 # Just a Girl - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Just a Girl
 * **Album / Release Title:** Electric Color
+* **Disc Number:** 1
 * **Track Number:** 6
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 1987
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:45:38 AM
+* **Generated On:** 03-29-2026 03:04:02 PM
 * **Master File Located At:** ../wav/1-06-just-a-girl.wav
 
 ## Distribution & AI Disclosure Notes

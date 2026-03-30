@@ -1,7 +1,9 @@
 # Upon This Winter's Night - Distribution Metadata
 
 ## Core Track Information
+* **Track Title:** Upon This Winter's Night
 * **Album / Release Title:** Tales from the Solstice
+* **Disc Number:** 3
 * **Track Number:** 7
 * **Primary Artist (Release Persona):** The Winter Palace
 * **Real-World / Legal Artist:** Michael P. Ragsdale
@@ -10,7 +12,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Year:** 2007
 * **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:27:41 AM
+* **Generated On:** 03-29-2026 01:32:14 PM
 * **Master File Located At:** ../wav/3-07-upon-this-winters-night.wav
 
 ## Distribution & AI Disclosure Notes
