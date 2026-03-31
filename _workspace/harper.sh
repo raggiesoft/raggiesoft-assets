@@ -1,19 +1,19 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v19.0) ---
+# --- HARPER: THE STUDIO ENGINEER (v20.0 - The Vault Edition) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
 # Harper is the heavy lifter. She recursively scans the workspace for Master WAV files.
-# She uses FFmpeg to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
-# She creates the Download Zips for the "License Gated" area.
+# NEW: Generates 128kbps "Radio Edits" for the free public web player.
+# NEW: Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
 # She drafts Markdown metadata files for commercial streaming distribution.
-# NEW: Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
-# NEW: Generates sanitized DSP lyrics and structures the /streaming-services package.
+# Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
+# Generates sanitized DSP lyrics and structures the /streaming-services package.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v19.0)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v20.0)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -68,13 +68,13 @@ if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
 elif [[ "$OSTYPE" == "darwin"* ]]; then
     if [ -f "$UPSCALER_BASE/macos/realesrgan-ncnn-vulkan" ]; then
         UPSCALER_CMD="$UPSCALER_BASE/macos/realesrgan-ncnn-vulkan"
-        chmod +x "$UPSCALER_CMD" # Ensure execution rights on Mac
+        chmod +x "$UPSCALER_CMD"
         USE_UPSCALER=true
     fi
 elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
     if [ -f "$UPSCALER_BASE/ubuntu/realesrgan-ncnn-vulkan" ]; then
         UPSCALER_CMD="$UPSCALER_BASE/ubuntu/realesrgan-ncnn-vulkan"
-        chmod +x "$UPSCALER_CMD" # Ensure execution rights on Linux
+        chmod +x "$UPSCALER_CMD"
         USE_UPSCALER=true
     fi
 fi
@@ -135,8 +135,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     echo ""
     echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
 
-    # Create directories
-    mkdir -p mp3 ogg archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
+    # Create new Vault directories and public Web MP3 directory
+    mkdir -p web-mp3 vault/mp3 vault/ogg vault/archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
 
     # --- HARPER: ARTWORK UPSCALING ---
     RAW_ART="album-art.jpg"
@@ -148,14 +148,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             echo "      🖼️  HARPER: Artwork detected. Firing up the upscaler to 4K..."
             
             if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
-                # Windows/Git Bash: Convert paths to strict Windows format
                 WIN_IN=$(cygpath -w "$(pwd)/$RAW_ART")
                 WIN_OUT=$(cygpath -w "$(pwd)/$UPSCALED_ART")
                 WIN_MODELS=$(cygpath -w "$(dirname "$UPSCALER_CMD")/models")
-                
                 "$UPSCALER_CMD" -i "$WIN_IN" -o "$WIN_OUT" -m "$WIN_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
             else
-                # Mac/Linux: Native POSIX execution
                 UNIX_MODELS="$(dirname "$UPSCALER_CMD")/models"
                 "$UPSCALER_CMD" -i "$RAW_ART" -o "$UPSCALED_ART" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
             fi
@@ -166,7 +163,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
     fi
 
-    # Art Param for FFmpeg (Using original art to keep MP3/OGG file size down)
+    # Art Param for FFmpeg (Using original art to keep file size down)
     if [ ! -f "$ART_FILE" ]; then
         ART_FILE_PARAM=""
     else
@@ -229,51 +226,6 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             continue
         fi
 
-        # --- STREAMING METADATA GENERATION ---
-        STREAMING_MD="streaming-services/song-metadata/${FILE_BASE}.md"
-
-        if [ ! -f "$STREAMING_MD" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📝 Drafting Streaming Metadata (AI Disclosures attached)..."
-            {
-                echo "# $TITLE - Distribution Metadata"
-                echo ""
-                echo "## Core Track Information"
-                echo "* **Track Title:** $TITLE"
-                echo "* **Album / Release Title:** $ALBUM_NAME"
-                echo "* **Disc Number:** $DISC_NUM"
-                echo "* **Track Number:** $TRACK_NUM"
-                echo "* **Primary Artist (Release Persona):** $ALBUM_ARTIST"
-                echo "* **Real-World / Legal Artist:** Michael P. Ragsdale"
-                echo "* **Genre:** $GENRE"
-                echo "* **Explicit Content:** No (Clean)"
-                echo "* **Vocal Language:** English (EN-US)"
-                echo "* **Fictional Narrative Year:** $NARRATIVE_YEAR"
-                echo "* **Real-World Release Year:** $CURRENT_YEAR"
-                echo "* **Generated On:** $CURRENT_DATETIME"
-                echo "* **Master File Located At:** ../../wav/${FILE_BASE}.wav"
-                echo ""
-                echo "## Distribution & AI Disclosure Notes"
-                echo ""
-                echo "**1. Rights & Clearances**"
-                echo "* **Commercial Rights:** 100% cleared. Generated using a commercial-tier Suno Premium subscription."
-                echo "* **Copyright Ownership:** The underlying narrative, lyrics, and the '$ALBUM_ARTIST' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution."
-                echo "* **Impersonation/Voice Cloning:** NONE. All vocals are entirely synthetic and do not clone, mimic, or impersonate any real-world artist or person."
-                echo ""
-                echo "**2. Creative Process & Human Contribution**"
-                echo "* This track is a human-directed production."
-                echo "* **Human/Author Contribution:** Original narrative concept, thematic direction, lyric writing, and persona creation."
-                echo "* **AI Assistance (Gemini):** Lyric refinement and style prompting."
-                echo "* **AI Generation (Suno):** AI-assisted instrumentation, composition, and vocal generation."
-                echo ""
-                echo "**3. Suggested DDEX Credits (For Spotify/Apple Music)**"
-                echo "* Lyrics: Human"
-                echo "* Instrumentation/Music: AI-Generated"
-                echo "* Vocals: AI-Generated"
-            } > "$STREAMING_MD"
-        else
-            echo "         ⏭️  Streaming Metadata already exists! Fast-forwarding."
-        fi
-
         # --- DSP LYRICS GENERATION ---
         LYRIC_MD="lyrics/${FILE_BASE}.md"
         LYRIC_TXT="streaming-services/lyrics/${FILE_BASE}.txt"
@@ -281,85 +233,97 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         if [ -f "$LYRIC_MD" ]; then
             if [ ! -f "$LYRIC_TXT" ] || [ "$OVERWRITE" = true ]; then
                 echo "         -> 📝 Scrubbing Lyrics for DSP delivery..."
-                
                 sed '1,/\*\*LYRICS:\*\*/d' "$LYRIC_MD" | \
                 sed '/^[[:space:]]*[\[(].*[\])][[:space:]]*$/d' | \
                 cat -s | sed '/^[[:space:]]*$/{N;/^\n$/D;}' > "$LYRIC_TXT"
-                
             else
                 echo "         ⏭️  DSP Lyrics already clean! Fast-forwarding."
             fi
         fi
 
-        # MP3 (V0)
-        if [ ! -f "mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 🎚️ Cutting MP3..."
+        # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
+        if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
+            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+            -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
+            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+            -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
+            "web-mp3/$FILE_BASE.mp3"
+        else
+            echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
+        fi
+
+        # --- PREMIUM TIER: V0 MP3 (Vault) ---
+        if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
             ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
             -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
             -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
             -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
-            -metadata comment="Website: https://engineroom-records.com | Licensing: https://raggiesoft.com/about/license" \
-            "mp3/$FILE_BASE.mp3"
+            -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+            "vault/mp3/$FILE_BASE.mp3"
         else
-            echo "         ⏭️  MP3 already exists! Fast-forwarding."
+            echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
         fi
 
-        # OGG (Q9)
-        if [ ! -f "ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 🎚️ Pressing OGG..."
+        # --- PREMIUM TIER: Q9 OGG (Vault) ---
+        if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
             ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
             -codec:a libvorbis -q:a 9 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
             -metadata date="$NARRATIVE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
             -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
-            -metadata comment="Website: https://engineroom-records.com | Licensing: https://raggiesoft.com/about/license" \
-            "ogg/$FILE_BASE.ogg"
+            -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+            "vault/ogg/$FILE_BASE.ogg"
         else
-            echo "         ⏭️  OGG already exists! Fast-forwarding."
+            echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
         fi
 
     done
 
-    # Archives (7-Zip)
+    # Archives (7-Zip) -> Routing to Vault
     if [ "$USE_SEVEN_ZIP" = true ]; then
-        ZIP_MP3="archives/${ARCHIVE_BASE_NAME}-mp3.zip"
-        ZIP_OGG="archives/${ARCHIVE_BASE_NAME}-ogg.zip"
-        ZIP_WAV="archives/${ARCHIVE_BASE_NAME}-wav.7z"
+        ZIP_MP3="vault/archives/${ARCHIVE_BASE_NAME}-mp3.zip"
+        ZIP_OGG="vault/archives/${ARCHIVE_BASE_NAME}-ogg.zip"
+        ZIP_WAV="vault/archives/${ARCHIVE_BASE_NAME}-wav.7z"
 
-        echo "      🎙️  HARPER: Booting up the Archiver. Turning on the studio monitors so you can hear the crunch..."
+        echo "      🎙️  HARPER: Booting up the Archiver. Securing files into the Vault..."
 
         # Pack MP3 Archive
         if [ ! -f "$ZIP_MP3" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📦 Packing MP3 Archive..."
+            echo "         -> 📦 Packing Premium MP3 Archive..."
             rm -f "$ZIP_MP3"
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./mp3/*.mp3 "$README_FILE" "$ART_FILE"
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./vault/mp3/*.mp3 "$README_FILE" "$ART_FILE"
             if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./lyrics/*.md; fi
         else
-            echo "         ⏭️  MP3 Archive already exists! Skipping."
+            echo "         ⏭️  Premium MP3 Archive already exists! Skipping."
         fi
 
         # Pack OGG Archive
         if [ ! -f "$ZIP_OGG" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📦 Packing OGG Archive..."
+            echo "         -> 📦 Packing Premium OGG Archive..."
             rm -f "$ZIP_OGG"
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./ogg/*.ogg "$README_FILE" "$ART_FILE"
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./vault/ogg/*.ogg "$README_FILE" "$ART_FILE"
             if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./lyrics/*.md; fi
         else
-            echo "         ⏭️  OGG Archive already exists! Skipping."
+            echo "         ⏭️  Premium OGG Archive already exists! Skipping."
         fi
 
         # Pack WAV Archive
         if [ ! -f "$ZIP_WAV" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📦 Packing massive WAV Archive (Ultra Compression active, hold tight!)..."
+            echo "         -> 📦 Packing massive WAV Master Archive (Ultra Compression active!)..."
             rm -f "$ZIP_WAV"
             "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "$ZIP_WAV" ./wav/*.wav "$README_FILE" "$ART_FILE"
             if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -t7z -mx=9 "$ZIP_WAV" ./lyrics/*.md; fi
         else
-            echo "         ⏭️  WAV Archive already exists! Skipping."
+            echo "         ⏭️  WAV Master Archive already exists! Skipping."
         fi
         
-        echo "   📦 HARPER: Archive checks complete."
+        echo "   📦 HARPER: Vault secure. Archives packed."
     fi
     
     rm "$README_FILE"
@@ -374,4 +338,4 @@ if [ -f "$TEMP_SEARCH_INDEX" ]; then
     echo "   ✅ HARPER: Index saved to $METADATA_FILE"
 fi
 
-echo "🎧 HARPER: Session complete! The tracks and paperwork are hot and ready for the radio."
+echo "🎧 HARPER: Session complete! The radio edits are public, and the master tapes are locked in the vault."
