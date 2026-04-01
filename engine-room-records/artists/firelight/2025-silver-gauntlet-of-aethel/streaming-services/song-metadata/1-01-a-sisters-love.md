@@ -2,7 +2,7 @@
 
 ## Core Track Information
 * **Track Title:** A Sister's Love (Main Theme)
-* **Album / Release Title:** The Silver Gauntlet of Aethel
+* **Album / Release Title:** The Silver Gauntlet of Aethel (Original Motion Picture Soundtrack)
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** Firelight
@@ -10,9 +10,9 @@
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 2025
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:37:48 PM
+* **Fictional Narrative Release Date:** 2017-11-21
+* **Real-World DSP Release Date:** YYYY-MM-DD
+* **Generated On:** 03-31-2026 11:20:21 PM
 * **Master File Located At:** ../../wav/1-01-a-sisters-love.wav
 
 ## Distribution & AI Disclosure Notes

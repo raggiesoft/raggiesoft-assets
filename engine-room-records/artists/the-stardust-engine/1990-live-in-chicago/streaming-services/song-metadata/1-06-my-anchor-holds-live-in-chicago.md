@@ -10,9 +10,9 @@
 * **Genre:** 80s Synth-Pop
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1990
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:07:42 PM
+* **Fictional Narrative Release Date:** 1990-05-15
+* **Real-World DSP Release Date:** 2026-04-01
+* **Generated On:** 03-31-2026 11:57:58 PM
 * **Master File Located At:** ../../wav/1-06-my-anchor-holds-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

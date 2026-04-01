@@ -1,19 +1,22 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v20.0 - The Vault Edition) ---
+# --- HARPER: THE STUDIO ENGINEER (v20.4 - The Distribution Fix) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
 # Harper is the heavy lifter. She recursively scans the workspace for Master WAV files.
-# NEW: Generates 128kbps "Radio Edits" for the free public web player.
-# NEW: Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
-# She drafts Markdown metadata files for commercial streaming distribution.
+# Generates 128kbps "Radio Edits" for the free public web player.
+# Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
+# Drafts Markdown metadata files for commercial streaming distribution.
+# Binds individual lyric markdown files into a master album-level markdown booklet.
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
+# Parses Narrative (Lore) dates and Real-World (DSP) release dates.
+# NEW: Stamps real-world release years onto audio files for DSP compliance.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v20.0)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v20.4)... Let's make some noise!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -27,8 +30,8 @@ TEMP_SEARCH_INDEX="temp_search_index.jsonl"
 
 echo "   🎚️  Targeting Studio Archives: $SEARCH_PATH"
 
-# Initialize Index
-echo "" > "$TEMP_SEARCH_INDEX" 
+# Initialize Index (Fixed: No leading blank line)
+> "$TEMP_SEARCH_INDEX" 
 
 # --- LOCATE 7-ZIP BINARY ---
 SEVEN_ZIP_LOCAL="$ROOT_DIR/build-tools/7zip"
@@ -116,8 +119,18 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     # Parse Album Data
     ALBUM_ARTIST=$(jq -r '.albumArtist' "$ALBUM_JSON")
     ALBUM_NAME=$(jq -r '.albumName' "$ALBUM_JSON")
-    NARRATIVE_YEAR=$(jq -r '.narrativeReleaseDate' "$ALBUM_JSON")
     GENRE=$(jq -r '.genre' "$ALBUM_JSON")
+    
+    # --- HARPER: TIME WEAVER DATE LOGIC ---
+    NARRATIVE_DATE=$(jq -r '.narrativeReleaseDate' "$ALBUM_JSON")
+    REAL_RELEASE_DATE=$(jq -r '.realReleaseDate // empty' "$ALBUM_JSON")
+    
+    # Fallback to today if realReleaseDate is missing
+    if [ -z "$REAL_RELEASE_DATE" ]; then REAL_RELEASE_DATE=$(date +"%Y-%m-%d"); fi
+
+    # Extract just the 4-digit years for standard tagging and zip naming
+    NARRATIVE_YEAR=${NARRATIVE_DATE:0:4}
+    REAL_RELEASE_YEAR=${REAL_RELEASE_DATE:0:4}
     
     # Slugs
     ALBUM_SLUG=$(basename "$album_dir")
@@ -130,7 +143,6 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     
     # Date variables
     CURRENT_DATETIME=$(date +"%m-%d-%Y %I:%M:%S %p")
-    CURRENT_YEAR=$(date +"%Y")
 
     echo ""
     echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
@@ -163,7 +175,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
     fi
 
-    # Art Param for FFmpeg (Using original art to keep file size down)
+    # Art Param for FFmpeg
     if [ ! -f "$ART_FILE" ]; then
         ART_FILE_PARAM=""
     else
@@ -189,7 +201,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         echo "LICENSE & COPYRIGHT:"
         echo "This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)."
         echo "Full License Details: https://raggiesoft.com/about/license"
-        echo "Copyright (c) $CURRENT_YEAR Michael P. Ragsdale / RaggieSoft."
+        echo "Copyright (c) $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft."
         echo ""
         echo "TRACKLIST:"
     } > "$README_FILE"
@@ -205,6 +217,15 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         
         echo "      🎙️  HARPER: Checking Track $TRACK_NUM - '$TITLE'..."
 
+        # Transcoding
+        WAV_FILE="wav/${FILE_BASE}.wav"
+        
+        # Ensure WAV exists BEFORE indexing the track
+        if [ ! -f "$WAV_FILE" ]; then 
+            echo "         ⚠️  WHOA! Master tape missing: $WAV_FILE. Skipping!"
+            continue
+        fi
+
         # Capturing content for index
         LYRICS_CONTENT=""
         if [ -f "lyrics/${FILE_BASE}.md" ]; then LYRICS_CONTENT=$(cat "lyrics/${FILE_BASE}.md"); fi
@@ -219,11 +240,49 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             --arg content "$LYRICS_CONTENT" \
             '{id: $id, title: $title, artist: $artist, album: $album, url: $url, type: $type, content: $content}' >> "$ROOT_DIR/$TEMP_SEARCH_INDEX"
 
-        # Transcoding
-        WAV_FILE="wav/${FILE_BASE}.wav"
-        if [ ! -f "$WAV_FILE" ]; then 
-            echo "         ⚠️  WHOA! Master tape missing: $WAV_FILE. Skipping!"
-            continue
+        # --- DSP METADATA GENERATION ---
+        METADATA_MD="streaming-services/song-metadata/${FILE_BASE}.md"
+
+        if [ ! -f "$METADATA_MD" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📋 Drafting DDEX Metadata sheet..."
+            cat <<EOF > "$METADATA_MD"
+# $TITLE - Distribution Metadata
+
+## Core Track Information
+* **Track Title:** $TITLE
+* **Album / Release Title:** $ALBUM_NAME
+* **Disc Number:** $DISC_NUM
+* **Track Number:** $TRACK_NUM
+* **Primary Artist (Release Persona):** $ALBUM_ARTIST
+* **Real-World / Legal Artist:** Michael P. Ragsdale
+* **Genre:** $GENRE
+* **Explicit Content:** No (Clean)
+* **Vocal Language:** English (EN-US)
+* **Fictional Narrative Release Date:** $NARRATIVE_DATE
+* **Real-World DSP Release Date:** $REAL_RELEASE_DATE
+* **Generated On:** $CURRENT_DATETIME
+* **Master File Located At:** ../../wav/${FILE_BASE}.wav
+
+## Distribution & AI Disclosure Notes
+
+**1. Rights & Clearances**
+* **Commercial Rights:** 100% cleared. Generated using a commercial-tier Suno Premium subscription.
+* **Copyright Ownership:** The underlying narrative, lyrics, and the '$ALBUM_ARTIST' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution.
+* **Impersonation/Voice Cloning:** NONE. All vocals are entirely synthetic and do not clone, mimic, or impersonate any real-world artist or person.
+
+**2. Creative Process & Human Contribution**
+* This track is a human-directed production.
+* **Human/Author Contribution:** Original narrative concept, thematic direction, lyric writing, and persona creation.
+* **AI Assistance (Gemini):** Lyric refinement and style prompting.
+* **AI Generation (Suno):** AI-assisted instrumentation, composition, and vocal generation.
+
+**3. Suggested DDEX Credits (For Spotify/Apple Music)**
+* Lyrics: Human
+* Instrumentation/Music: AI-Generated
+* Vocals: AI-Generated
+EOF
+        else
+            echo "         ⏭️  DSP Metadata sheet already exists! Fast-forwarding."
         fi
 
         # --- DSP LYRICS GENERATION ---
@@ -247,8 +306,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
             -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
             -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
             "web-mp3/$FILE_BASE.mp3"
         else
@@ -261,8 +320,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
             -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$NARRATIVE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
             -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
             "vault/mp3/$FILE_BASE.mp3"
         else
@@ -275,8 +334,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
             -codec:a libvorbis -q:a 9 \
             -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$NARRATIVE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft" \
+            -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
+            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
             -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
             "vault/ogg/$FILE_BASE.ogg"
         else
@@ -284,6 +343,37 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
 
     done
+
+    # --- HARPER: BINDING THE LYRIC BOOKLET ---
+    if [ "$HAS_LYRICS" = true ]; then
+        COMBINED_LYRICS_FILE="${SAFE_ALBUM_NAME}.md"
+        
+        if [ ! -f "$COMBINED_LYRICS_FILE" ] || [ "$OVERWRITE" = true ]; then
+            echo "      📝  HARPER: Binding the master lyric booklet ($COMBINED_LYRICS_FILE)..."
+            
+            # Initialize with a couple of blank lines to match the requested format
+            echo "" > "$COMBINED_LYRICS_FILE"
+            echo "" >> "$COMBINED_LYRICS_FILE"
+
+            # Loop through tracks.json to guarantee 100% accurate album order
+            jq -c '.tracks[]' "tracks.json" | while read -r track_json; do
+                FILE_BASE=$(echo "$track_json" | jq -r '.fileName')
+                LYRIC_MD="lyrics/${FILE_BASE}.md"
+                
+                if [ -f "$LYRIC_MD" ]; then
+                    echo "***" >> "$COMBINED_LYRICS_FILE"
+                    echo "### **${FILE_BASE}.md**" >> "$COMBINED_LYRICS_FILE"
+                    echo "***" >> "$COMBINED_LYRICS_FILE"
+                    echo "" >> "$COMBINED_LYRICS_FILE"
+                    cat "$LYRIC_MD" >> "$COMBINED_LYRICS_FILE"
+                    echo "" >> "$COMBINED_LYRICS_FILE"
+                    echo "" >> "$COMBINED_LYRICS_FILE"
+                fi
+            done
+        else
+            echo "      ⏭️  Master lyric booklet already bound! Fast-forwarding."
+        fi
+    fi
 
     # Archives (7-Zip) -> Routing to Vault
     if [ "$USE_SEVEN_ZIP" = true ]; then
@@ -297,8 +387,19 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         if [ ! -f "$ZIP_MP3" ] || [ "$OVERWRITE" = true ]; then
             echo "         -> 📦 Packing Premium MP3 Archive..."
             rm -f "$ZIP_MP3"
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./vault/mp3/*.mp3 "$README_FILE" "$ART_FILE"
-            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_MP3" ./lyrics/*.md; fi
+            mkdir -p vault/archives/staging_mp3/lyrics
+            cp vault/mp3/*.mp3 vault/archives/staging_mp3/
+            cp "$README_FILE" vault/archives/staging_mp3/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_mp3/
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md vault/archives/staging_mp3/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_mp3/
+            fi
+            
+            pushd vault/archives/staging_mp3 > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-mp3.zip" * > /dev/null
+            popd > /dev/null
+            rm -rf vault/archives/staging_mp3
         else
             echo "         ⏭️  Premium MP3 Archive already exists! Skipping."
         fi
@@ -307,8 +408,19 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         if [ ! -f "$ZIP_OGG" ] || [ "$OVERWRITE" = true ]; then
             echo "         -> 📦 Packing Premium OGG Archive..."
             rm -f "$ZIP_OGG"
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./vault/ogg/*.ogg "$README_FILE" "$ART_FILE"
-            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -tzip -mx=5 "$ZIP_OGG" ./lyrics/*.md; fi
+            mkdir -p vault/archives/staging_ogg/lyrics
+            cp vault/ogg/*.ogg vault/archives/staging_ogg/
+            cp "$README_FILE" vault/archives/staging_ogg/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_ogg/
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md vault/archives/staging_ogg/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_ogg/
+            fi
+            
+            pushd vault/archives/staging_ogg > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-ogg.zip" * > /dev/null
+            popd > /dev/null
+            rm -rf vault/archives/staging_ogg
         else
             echo "         ⏭️  Premium OGG Archive already exists! Skipping."
         fi
@@ -317,8 +429,19 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         if [ ! -f "$ZIP_WAV" ] || [ "$OVERWRITE" = true ]; then
             echo "         -> 📦 Packing massive WAV Master Archive (Ultra Compression active!)..."
             rm -f "$ZIP_WAV"
-            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "$ZIP_WAV" ./wav/*.wav "$README_FILE" "$ART_FILE"
-            if [ "$HAS_LYRICS" = true ]; then "$SEVEN_ZIP_CMD" a -t7z -mx=9 "$ZIP_WAV" ./lyrics/*.md; fi
+            mkdir -p vault/archives/staging_wav/lyrics
+            cp wav/*.wav vault/archives/staging_wav/
+            cp "$README_FILE" vault/archives/staging_wav/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_wav/
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md vault/archives/staging_wav/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_wav/
+            fi
+            
+            pushd vault/archives/staging_wav > /dev/null
+            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "../${ARCHIVE_BASE_NAME}-wav.7z" * > /dev/null
+            popd > /dev/null
+            rm -rf vault/archives/staging_wav
         else
             echo "         ⏭️  WAV Master Archive already exists! Skipping."
         fi
@@ -332,10 +455,13 @@ done
 
 # --- FINALIZE SEARCH INDEX ---
 echo "🎧 HARPER: Finalizing the Search Index..."
-if [ -f "$TEMP_SEARCH_INDEX" ]; then
+if [ -s "$TEMP_SEARCH_INDEX" ]; then
     jq -s '.' "$TEMP_SEARCH_INDEX" > "$METADATA_FILE"
     rm "$TEMP_SEARCH_INDEX"
     echo "   ✅ HARPER: Index saved to $METADATA_FILE"
+else
+    echo "   ⚠️  HARPER: Search index was empty. Skipping metadata generation."
+    rm -f "$TEMP_SEARCH_INDEX"
 fi
 
 echo "🎧 HARPER: Session complete! The radio edits are public, and the master tapes are locked in the vault."

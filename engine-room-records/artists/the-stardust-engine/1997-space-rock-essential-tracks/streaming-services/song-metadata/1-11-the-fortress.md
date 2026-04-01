@@ -2,7 +2,7 @@
 
 ## Core Track Information
 * **Track Title:** The Fortress
-* **Album / Release Title:** Space Rock: Essential Tracks (1987-1997)
+* **Album / Release Title:** Space Rock: Essential Tracks
 * **Disc Number:** 1
 * **Track Number:** 11
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -10,9 +10,9 @@
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1997
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:31:22 PM
+* **Fictional Narrative Release Date:** 1997
+* **Real-World DSP Release Date:** 2026-04-01
+* **Generated On:** 04-01-2026 12:25:37 AM
 * **Master File Located At:** ../../wav/1-11-the-fortress.wav
 
 ## Distribution & AI Disclosure Notes

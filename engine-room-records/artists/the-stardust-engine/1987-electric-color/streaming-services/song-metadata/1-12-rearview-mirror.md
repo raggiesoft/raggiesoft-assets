@@ -10,9 +10,9 @@
 * **Genre:** 80s Synth-Rock
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1987
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 10:56:10 PM
+* **Fictional Narrative Release Date:** 1987-08-25
+* **Real-World DSP Release Date:** 2026-03-29
+* **Generated On:** 03-31-2026 11:44:19 PM
 * **Master File Located At:** ../../wav/1-12-rearview-mirror.wav
 
 ## Distribution & AI Disclosure Notes

@@ -10,9 +10,9 @@
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 2007
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:38:59 PM
+* **Fictional Narrative Release Date:** 2007
+* **Real-World DSP Release Date:** 2026-04-01
+* **Generated On:** 04-01-2026 12:35:15 AM
 * **Master File Located At:** ../../wav/2-05-emerald-city-the-trigger.wav
 
 ## Distribution & AI Disclosure Notes

@@ -10,9 +10,9 @@
 * **Genre:** 80s Synth-Pop
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1989
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:02:20 PM
+* **Fictional Narrative Release Date:** 1989-04-18
+* **Real-World DSP Release Date:** 2026-03-31
+* **Generated On:** 03-31-2026 11:51:38 PM
 * **Master File Located At:** ../../wav/1-02-hollow-sound.wav
 
 ## Distribution & AI Disclosure Notes

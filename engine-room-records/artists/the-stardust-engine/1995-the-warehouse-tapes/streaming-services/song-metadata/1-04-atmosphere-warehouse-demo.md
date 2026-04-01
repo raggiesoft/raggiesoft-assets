@@ -10,9 +10,9 @@
 * **Genre:** 80s Rock
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1995
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:16:20 PM
+* **Fictional Narrative Release Date:** 1995-10-03
+* **Real-World DSP Release Date:** 2026-04-02
+* **Generated On:** 04-01-2026 12:03:15 AM
 * **Master File Located At:** ../../wav/1-04-atmosphere-warehouse-demo.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,6 +1,7 @@
 {
   "albumName": "The Warehouse Tapes",
   "albumArtist": "The Stardust Engine",
-  "narrativeReleaseDate": "1995",
-  "genre": "80s Rock"
+  "genre": "80s Rock",
+  "narrativeReleaseDate": "1995-10-03",
+  "realReleaseDate": "2026-04-02"
 }

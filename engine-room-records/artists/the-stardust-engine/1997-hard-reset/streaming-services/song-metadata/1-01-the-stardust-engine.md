@@ -10,9 +10,9 @@
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Year:** 1997
-* **Real-World Release Year:** 2026
-* **Generated On:** 03-29-2026 11:21:06 PM
+* **Fictional Narrative Release Date:** 1997-11-18
+* **Real-World DSP Release Date:** 2026-04-05
+* **Generated On:** 04-01-2026 12:13:57 AM
 * **Master File Located At:** ../../wav/1-01-the-stardust-engine.wav
 
 ## Distribution & AI Disclosure Notes
