@@ -1580,11 +1580,31 @@ She stood by, a nervous but resolute guard, as Alex, his hands shaking from a co
 
 Chloé Mason was just finishing a quick breakfast before needing to catch the Transit Authority of the Puget Sound express bus that would begin her commute into Seattle for her 9:00 AM Socio-Linguistics lecture at NPU, when her landline jangled. An unknown Washington number. She answered cautiously. "Hello?"
 
-Aunt Carol, standing near Alex in the kitchen, heard the clear, friendly "Hello?" from the receiver. Then, she watched as Alex, his face a mask of desperate urgency, began to use his device. The synthesized voice that emerged was not English. It was a flowing, melodic language she didn't recognize at all – but it was clearly a language, structured and filled with emotion. "CHLOÉ! C'est Alex!" his device pleaded, the unfamiliar words tumbling out, faint and tinny, but filled with undeniable panic. "AU SECOURS! JE SUIS PRIS À KENT. CHEZ LA TANTE DE VERA. \[He rapidly voiced the full address he had memorized in this strange tongue\]. VERA EST… TRÈS MÉCHANTE. J'AI PEUR. IL FAUT QUE TU VIENNES M'AIDER. MAINTENANT!" (*Translation for the reader: CHLOÉ! It's Alex! HELP! I'M TRAPPED IN KENT. AT VERA'S AUNT'S HOUSE. VERA IS… VERY MEAN/NASTY. I'M SCARED. YOU HAVE TO COME HELP ME. NOW!*)
+Aunt Carol, standing near Alex in the kitchen, heard the clear, friendly "Hello?" from the receiver. Then, she watched as Alex, his face a mask of desperate urgency, began to use his device. The synthesized voice that emerged was not English. It was a flowing, melodic language she didn't recognize at all – but it was clearly a language, structured and filled with emotion.
 
-Aunt Carol stared, completely taken aback. It wasn't English, but it wasn't "gibberish" as Vera had dismissively claimed earlier when ranting about Alex trying to talk to Chloé. This was structured, it had inflection, it was communication. And Alex sounded absolutely terrified. A cold knot of unease tightened in her stomach. Why would he be speaking in another language unless Vera wasn't supposed to understand? What was Vera hiding?
+"CHLOÉ ! C'EST ALEX !" his device pleaded, the unfamiliar words tumbling out, faint and tinny, but filled with undeniable panic.
 
-The line went dead abruptly. Alex had heard the shower stop in the distant bathroom. He looked at Carol, his eyes wide with panic. "Alex? Alex!" Chloé stared at her phone, the dead phone line a blaring alarm. Kent. Vera méchante. Au secours. She didn't hesitate for a second. This was the call she had subconsciously dreaded. Knowing Alex, "Vera méchante" meant it was critical. She scribbled down the address he’d voiced.
+Chloé gasped, nearly dropping her coffee mug. She knew the synthesized voices of Alex's AAC device intimately. If he had manually navigated the menus to switch from English to Québécois French, it meant one horrifying thing: he was terrified of being understood by someone in the room.
+
+Switching instantly to her native tongue, she pressed the receiver hard against her ear. "Alex?!" she cried out. "Alex, pourquoi tu parles en français ? T'es où ? T'es censé être en Virginie !" *(Alex, why are you speaking in French? Where are you? You're supposed to be in Virginia!)*
+
+Alex didn't have time to explain the cross-country nightmare. His hands shook as he painstakingly hit the keys. "AU SECOURS ! JE SUIS PRIS À KENT, WASHINGTON. CHEZ LA TANTE DE VERA. AS-TU DE QUOI ÉCRIRE ? PRENDS L'ADRESSE EN NOTE !" *(HELP! I'M TRAPPED IN KENT, WASHINGTON. AT VERA'S AUNT'S HOUSE. DO YOU HAVE SOMETHING TO WRITE WITH? TAKE DOWN THE ADDRESS!)*
+
+"Kent ? Washington ?!" Chloé scrambled, her heart hammering against her ribs as she grabbed a notebook and pen from her backpack. "Oui, oui, j'ai un crayon ! Vas-y !" *(Yes, yes, I have a pencil! Go!)*
+
+"QUATRE-VINGT-DOUZE, AVENUE MAPLE. KENT." *(NINETY-TWO, MAPLE AVENUE. KENT.)* Alex paused, his eyes darting terrified toward the hallway. "L'AS-TU NOTÉE ?" *(DID YOU GET IT DOWN?)*
+
+"Quatre-vingt-douze, avenue Maple, Kent," Chloé repeated back to him rapidly in French, her handwriting frantic. "Je l'ai. Alex, qu'est-ce qui se passe ?" *(I have it. Alex, what's going on?)*
+
+"VERA EST… VRAIMENT MÉCHANTE. J'AI PEUR. FAUT QUE TU VIENNES M'AIDER. LÀ, TOUT DE SUITE !" *(VERA IS… REALLY MEAN. I'M SCARED. YOU HAVE TO COME HELP ME. RIGHT NOW!)*
+
+Aunt Carol stared, completely taken aback. It wasn't English, but it wasn't "gibberish" as Vera had dismissively claimed earlier when ranting about Alex trying to talk to Chloé. This was structured, it had inflection, it was communication. And Alex sounded absolutely terrified. A cold knot of unease tightened in her stomach. Why would he be speaking in his best friend's native dialect unless Vera wasn't supposed to understand? What was Vera hiding?
+
+Just as Chloé's voice echoed faintly through the receiver—"Je m'en viens, lâche pas—" *(I'm on my way, hang in there—)*—the distant, rhythmic drumming of the shower abruptly ceased. The pipes groaned as the water was shut off.
+
+Alex’s eyes widened in sheer terror. He looked at Carol, panicked, and slammed the heavy receiver back onto the cradle, cutting the line dead.
+
+"Alex? Alex!" Chloé stared at her phone, the silent dial tone a blaring alarm. *Kent. Vera méchante. Au secours.* She didn't hesitate for a second. This was the call she had subconsciously dreaded. Knowing Alex, "Vera méchante" meant it was critical. She stared at the address she had just scribbled down, grabbed her keys, and bolted for the door.
 
 ### Part 2: Race to Kent
 
