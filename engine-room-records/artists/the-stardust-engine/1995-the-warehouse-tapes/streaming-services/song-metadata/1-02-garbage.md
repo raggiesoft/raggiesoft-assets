@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Garbage
+* **Engine Room ID:** ERR-001-1995-102
+* **ISRC:** QZTB92611632
+* **Track Length:** 1:49
 * **Album / Release Title:** The Warehouse Tapes
 * **Disc Number:** 1
 * **Track Number:** 2
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 04-01-2026 12:03:15 AM
+* **Generated On:** 04-20-2026 06:06:17 PM
 * **Master File Located At:** ../../wav/1-02-garbage.wav
 
 ## Distribution & AI Disclosure Notes

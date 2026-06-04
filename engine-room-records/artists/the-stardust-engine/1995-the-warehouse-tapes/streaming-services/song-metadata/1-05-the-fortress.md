@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** The Fortress
+* **Engine Room ID:** ERR-001-1995-105
+* **ISRC:** QZTB62697619
+* **Track Length:** 3:19
 * **Album / Release Title:** The Warehouse Tapes
 * **Disc Number:** 1
 * **Track Number:** 5
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 04-01-2026 12:03:15 AM
+* **Generated On:** 04-20-2026 06:06:17 PM
 * **Master File Located At:** ../../wav/1-05-the-fortress.wav
 
 ## Distribution & AI Disclosure Notes

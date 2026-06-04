@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Moon 1 (Tidal Lock)
+* **Engine Room ID:** ERR-001-1997-204
+* **ISRC:** QZTB92611796
+* **Track Length:** 5:29
 * **Album / Release Title:** Hard Reset
 * **Disc Number:** 2
 * **Track Number:** 4
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 04-01-2026 12:13:57 AM
+* **Generated On:** 04-20-2026 06:29:29 PM
 * **Master File Located At:** ../../wav/2-04-moon-1-tidal-lock.wav
 
 ## Distribution & AI Disclosure Notes

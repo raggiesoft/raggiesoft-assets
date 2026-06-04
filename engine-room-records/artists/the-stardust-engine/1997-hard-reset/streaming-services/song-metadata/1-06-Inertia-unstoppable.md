@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Inertia (Unstoppable)
+* **Engine Room ID:** ERR-001-1997-106
+* **ISRC:** QZTBE2640379
+* **Track Length:** 4:27
 * **Album / Release Title:** Hard Reset
 * **Disc Number:** 1
 * **Track Number:** 6
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 04-01-2026 12:13:57 AM
+* **Generated On:** 04-20-2026 06:29:29 PM
 * **Master File Located At:** ../../wav/1-06-Inertia-unstoppable.wav
 
 ## Distribution & AI Disclosure Notes

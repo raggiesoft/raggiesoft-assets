@@ -1,0 +1,59 @@
+/* 1. Main Sign-In Box: Aethel Parchment / Silver Moon */
+.ext-sign-in-box {
+    background-color: rgba(248, 246, 240, 0.95) !important;
+    border: 2px solid #CFA951 !important; /* Aethel Gold */
+    border-radius: 8px !important;
+    box-shadow: 0px 8px 32px rgba(0, 0, 0, 0.8) !important;
+}
+
+/* 2. Text: Midnight Space Blue for high contrast */
+body, .ext-sign-in-box, .ext-text,
+.text-title, .text-body, .text-base,
+.identity, .identityBanner,
+.form-group, label, div[role="heading"] {
+    color: #0D1126 !important; 
+}
+
+/* 3. The Identity Banner (Email Pill) */
+.identityBanner, .identity {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    border: 1px solid #CCCCCC !important;
+}
+
+/* 4. Input Fields */
+.ext-input.ext-text-box {
+    background-color: #FFFFFF !important;
+    color: #0D1126 !important;
+    border: 1px solid #888888 !important;
+}
+
+/* 5. Primary Button: Aethel Gold */
+.ext-button.ext-primary {
+    background-color: #CFA951 !important; 
+    color: #0D1126 !important; 
+    border: none !important;
+    font-weight: bold !important;
+}
+.ext-button.ext-primary:hover, .ext-button.ext-primary:focus {
+    background-color: #E2C275 !important; 
+}
+
+/* 6. Secondary Button: Silver/Iron */
+.ext-button.ext-secondary {
+    background-color: #EAEAEA !important;
+    color: #0D1126 !important;
+    border: 1px solid #888888 !important;
+}
+.ext-button.ext-secondary:hover, .ext-button.ext-secondary:focus {
+    background-color: #CCCCCC !important; 
+}
+
+/* 7. Links: Deep Royal Blue */
+.ext-link {
+    color: #1A365D !important;
+    text-decoration: none !important;
+    font-weight: 600 !important;
+}
+.ext-link:hover {
+    text-decoration: underline !important;
+}

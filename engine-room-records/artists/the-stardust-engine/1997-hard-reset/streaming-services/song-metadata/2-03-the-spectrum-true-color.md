@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** The Spectrum (True Color)
+* **Engine Room ID:** ERR-001-1997-203
+* **ISRC:** QZTBE2640383
+* **Track Length:** 7:54
 * **Album / Release Title:** Hard Reset
 * **Disc Number:** 2
 * **Track Number:** 3
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 04-01-2026 12:13:57 AM
+* **Generated On:** 04-20-2026 06:29:29 PM
 * **Master File Located At:** ../../wav/2-03-the-spectrum-true-color.wav
 
 ## Distribution & AI Disclosure Notes

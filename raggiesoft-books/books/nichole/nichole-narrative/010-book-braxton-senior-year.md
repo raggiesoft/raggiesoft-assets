@@ -1,0 +1,266 @@
+# Book: Braxton Senior Year
+
+## Chapter 1: Graduation
+
+### Part 1: The Protocol Negotiation
+
+#### Date: April 10, 2008 (Senior Year) Location: Office of the Commencement Director, Braxton State University The Goal: Secure permission to deviate from the script.
+
+Mrs. Gable, the Director of Commencement, was a woman who lived for clipboards and alphabetical order. She looked at the two students sitting across from her desk.
+
+"I understand you have concerns," Mrs. Gable said, tapping her pen. "But the procession is a time-honored tradition. All 2,000 graduates march into the Bull Ring while the band plays *Pomp and Circumstance*. It symbolizes the journey."
+
+Patrick sat forward. He didn't look angry; he looked like an engineer explaining why a bridge was going to collapse.
+
+"For us," Patrick said calmly, "that song doesn't symbolize a journey. It symbolizes the worst twenty minutes of our lives."
+
+"I don't understand," Mrs. Gable said. "It's just a march."
+
+Nichole tapped her *ConvertiBook*. She had pre-written this explanation because typing it in the moment would be too stressful.
+
+PROJECTOR TEXT: JUNE 2003. NORTHWOOD HIGH SCHOOL GRADUATION. VIRGINIA BEACH.
+
+THE GYM WAS OVER CAPACITY. THE BAND PLAYED THAT SONG ON A LOOP FOR 45 MINUTES.
+
+Patrick took over the narrative, his voice dropping to a low, tight register.
+
+"We were eighteen," Patrick said. "The crowd surged when the doors opened. In the crush, I got shoved one way, and she got shoved the other. I lost my grip on her push handles."
+
+He stared at Mrs. Gable, making her hold his gaze.
+
+"I fought my way back against the flow of the crowd. It took me five minutes just to get back to where we were standing. And when I got there, I found her wheelchair."
+
+He paused.
+
+"But the chair was empty."
+
+Mrs. Gable’s hand went to her mouth. "Oh my god."
+
+"I searched that gym for twenty minutes," Patrick continued. "The band was blasting *Pomp and Circumstance* the entire time. It was so loud I couldn't hear myself scream her name. I thought she had been trampled. I thought she was dead."
+
+He leaned forward.
+
+"I was about to run outside to find a cop when I looked down. purely by dumb luck, I saw a flash of white under the bleachers."
+
+Nichole tapped the screen again.
+
+PROJECTOR TEXT: I HAD BEEN KNOCKED OUT OF THE CHAIR. I DRAGGED MYSELF UNDER THE METAL SEATS TO AVOID BEING STEPPED ON. I WAS CURLED IN A BALL. I COULDN'T SCREAM. I JUST LISTENED TO THE HORNS AND WAITED TO DIE.
+
+The room was dead silent. The hum of the air conditioner seemed deafening.
+
+"When I pulled her out," Patrick said softly, "she was catatonic. She didn't speak—well, she didn't communicate—for three days. To this day, if she hears the opening horns of March No. 1, her heart rate spikes to 160. It triggers a fight-or-flight response. It is a psychological hazard."
+
+Mrs. Gable blinked rapidly, looking at the young woman in the wheelchair, realizing the sheer terror behind the request.
+
+"We want to graduate," Patrick said firmly. "We earned these degrees. But we will not walk during that music. And I will never, ever be separated from her in a crowd again."
+
+Mrs. Gable put her pen down. She pushed the clipboard aside.
+
+"Okay," she whispered. "No music. We'll figure it out."
+
+He laid out the Bennett Plan.
+
+1.  The Hold-Back: Patrick and Nichole will wait in the Air Conditioned Field House (the locker rooms under the stadium) while the procession takes place.
+
+2.  The Silent Entry: Once the band stops playing and the speeches begin, they will slip into their seats.
+
+3.  The Seating: They will *not* sit in the designated "Accessibility Area" (which was usually a roped-off section in the back). They will sit with the College of Engineering, at the end of the row.
+
+4.  The Walk: When the names are called, Patrick pushes Nichole across the stage. They exit together.
+
+Mrs. Gable frowned, looking at her seating chart. "But the Engineering section is on the turf. The accessibility section is on the track. If you sit on the turf, how will you manage the heat? The ceremony is three hours long. Those black gowns are like ovens."
+
+Patrick smiled. It was the smile of a man who had spent four years in a lab.
+
+"I've handled the heat," Patrick said. "I modified the gowns."
+
+### Part 2: The "Cool Suit" Modification
+
+#### Date: May 17, 2008 (Graduation Day) Time: 11:00 AM Location: The Field House (Tunnel Waiting Area)
+
+Outside, in the Bull Ring, the temperature was a sweltering 88°F with 90% humidity. The Narragansett Bay breeze was dead calm. Parents in the stands were fanning themselves with programs. The band had just started the endless loop of *Pomp and Circumstance*.
+
+Inside the concrete tunnel, it was cool and quiet.
+
+Patrick and Nichole stood (and sat) by the water cooler, listening to the muffled thumping of the drums outside.
+
+They were wearing their graduation regalia: standard black gowns with the Braxton State Bull emblem on the shoulder. But they didn't look standard.
+
+The Bennett Capstone Modification:
+
+1.  The Intake: Patrick had cut a discreet vent into the back of Nichole’s gown, right where it pressed against the wheelchair’s backrest.
+
+2.  The Hardware: Mounted to the back of the *Titan AeroMotion* was a rig of four 120mm Computer Case Fans (harvested from old desktop towers). They were powered by a 12V drill battery strapped to the frame.
+
+3.  The Airflow: The fans pulled air from the bottom, pushed it through a mesh cooling pad (soaked in water for evaporative cooling), and blasted it directly up the back of the gown.
+
+4.  The Exhaust: The air circulated around her torso and exited through the loose sleeves and neck, creating a constant, positive-pressure microclimate.
+
+Nichole checked her internal temperature gauge (a small digital thermometer Patrick had rigged to her armrest).
+
+TEMP: 72°F.
+
+She looked at Patrick. He had rigged a smaller, belt-mounted fan for himself, blowing air up his own shirt.
+
+She typed on her screen.
+
+THE MUSIC IS STILL PLAYING.
+
+"I hear it," Patrick said, checking his watch. "They have about ten more minutes of marching. We stay here until the last tuba stops."
+
+He handed her a bottle of water with a long straw.
+
+"We beat the heat," Patrick said. "We beat the music. And we beat the segregation."
+
+He looked at the tunnel exit, where the bright sunlight was waiting.
+
+"You ready to be an alum?"
+
+Nichole took a sip of water. She adjusted her mortarboard cap, which she had secured with bobby pins so it wouldn't slide during the "Stage Run."
+
+She tapped the armrest twice. *Ready.*
+
+The Music Stopped.
+
+A cheer went up from the crowd. The "National Anthem" began.
+
+"That's our cue," Patrick said.
+
+He unlocked the brakes. He didn't push her like a patient; he pushed her like a partner. They moved toward the light, cool, calm, and together.
+
+The Result:
+
+- They slipped into the back row of the Engineering section unnoticed during the opening prayer.
+
+- When "Bennett, Nichole" and "Bennett, Patrick" were called, the announcer paused.
+
+- Patrick rolled her up the ramp. He stopped center stage.
+
+- The Dean handed Nichole her diploma (she took it with her left hand).
+
+- The Dean handed Patrick his diploma.
+
+- They didn't shake hands. They did the "Bennett Nod."
+
+- They rolled off the stage to thunderous applause—not because she was "brave," but because they were Engineers, and the modifications to her chair (the visible fans and battery packs) were the coolest thing the department had ever seen.
+
+Part 20: The Subsurface Route
+
+Date: May 17, 2008 Time: 1:45 PM Location: Entrance to "The Bull Run" (Beneath the College of Engineering)
+
+The loading dock air was getting stifling. The "Cool Suit" battery was running low, and the fans were starting to whine.
+
+Patrick looked at the stadium exit. A sea of people was flowing toward the Narragansett Esplanade Station. He could see the queue for the Blue Line Metro snaking out the door and down the block. The ARTS Commuter Rail platform was a crush of bodies.
+
+"Metro is a no-go," Patrick assessed. "Buses will be standing room only."
+
+He looked at Nichole. She was slumped in the chair, her energy battery at 0%. She couldn't handle a crowded bus. She couldn't handle being touched by strangers.
+
+"We take the tunnels," Patrick decided.
+
+He spun the chair around and headed for the service elevator of the Engineering Building.
+
+He swiped his student ID. The doors opened. They rolled inside. He hit B1.
+
+The Transition
+
+The doors opened, and the world changed.
+
+Gone was the 88°F heat. Gone was the screaming humidity. Gone were the seagulls and the sirens.
+
+The air in The Bull Run was a constant, machine-regulated 68°F. It smelled of floor wax and ozone. The lighting was fluorescent and steady.
+
+"Atmospheric stabilizers active," Patrick joked weakly.
+
+He pushed her out into the wide concrete corridor. It was officially Sub-University Avenue.
+
+Because everyone else was rushing for the surface transit or their cars, the tunnels were practically deserted. It was a long, echoing hallway of peace.
+
+Patrick disconnected the cooling fans from the drill battery on the back of her chair.
+
+"Suit down," Patrick said. "We're in the AC now."
+
+Nichole sat up straighter. She took a deep breath of the cool, recycled air. She tapped her armrest. *Better.*
+
+The Long Walk
+
+They began the trek.
+
+Normally, this would be a three-stop Metro ride:
+
+1.  Narragansett Esplanade (Campus)
+
+2.  Convention Center
+
+3.  Foundry Square
+
+Walking it underground was about 2.5 miles. But for the Bennetts, the distance didn't matter. The isolation was the luxury.
+
+They rolled past "The Pit"—the sunken amphitheater at the intersection of Sub-University and Sub-College. Usually, it was filled with buskers or study groups. Today, it was empty, save for a janitor sweeping up confetti.
+
+They crossed the invisible boundary line where The Bull Run (Campus jurisdiction) turned into The Braxton Link (City jurisdiction). The floor tiles changed from BSU Blue to Municipal Grey. The signage switched from "Campus Sans" to the standard "City Helvetia."
+
+Patrick kept a steady pace. The rhythmic click-clack of his dress shoes and the hum of the *Titan AeroMotion’s* tires were the only sounds.
+
+"You okay?" Patrick asked, his voice echoing slightly.
+
+Nichole nodded. She was tired, but safe.
+
+She opened her *ConvertiBook*.
+
+HOW FAR
+
+"We just passed Sub-High Street," Patrick said, checking a wall marker. "We're under the Financial District. About twenty minutes to Foundry."
+
+GOOD NO PEOPLE JUST US
+
+"Just us," Patrick agreed.
+
+The Arrival
+
+They reached Sub-Foundry Square. The corridor widened. To the left was the public entrance to the Metro station—they could hear the rumble of a train arriving, likely packed with miserable, sweaty graduates.
+
+Patrick ignored the station. He steered right, down a quieter residential spur marked PRIVATE RESIDENCES.
+
+He stopped in front of a heavy steel door marked: THE LOFTS AT FOUNDRY SQUARE - RESIDENT ACCESS ONLY.
+
+Patrick pulled out his keyfob. BEEP. CLICK.
+
+The heavy door swung open automatically.
+
+They rolled into the carpeted lobby of their building's basement level. It was silent. Safe. Home.
+
+They took the elevator up to the 3rd floor.
+
+Patrick unlocked their apartment door—Unit 304.
+
+As soon as they were inside, the "Adult World" officially began.
+
+The apartment was sparse. It was a "Student Budget" loft—exposed brick, big windows (with blackout curtains), and an open floor plan that made wheelchair maneuvering easy.
+
+Patrick locked the deadbolt.
+
+He walked Nichole to the living area. He helped her transfer from the *Titan AeroMotion* to the sofa.
+
+He sat down next to her, loosening his tie. He pulled off his graduation gown and threw it in the corner.
+
+"We made it," Patrick exhaled.
+
+Nichole leaned her head on his shoulder. She reached for the remote and turned on the TV. Not for the news. Not for a show. Just for background noise to fill the silence.
+
+She typed on her screen, which was still on her lap.
+
+WE ARE DONE NO MORE SCHOOL NO MORE CROWDS
+
+Patrick put his arm around her.
+
+"Now we just have to find jobs," Patrick said, staring at the ceiling. "In the worst economy since the Great Depression."
+
+Nichole found his hand. She squeezed it.
+
+WE BUILT THE FORTRESS WE WILL DEFEND IT
+
+Patrick squeezed back.
+
+"Yeah. We will."
+

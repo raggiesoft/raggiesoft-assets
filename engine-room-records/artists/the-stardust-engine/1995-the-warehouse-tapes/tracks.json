@@ -3,6 +3,8 @@
     {
       "fileName": "1-01-static",
       "title": "Static",
+      "isrc": "QZTB92611631",
+      "masterWavPath": "studio/static",
       "disc": 1,
       "track": 1,
       "legacyTier": "Fan Anthem",
@@ -11,6 +13,8 @@
     {
       "fileName": "1-02-garbage",
       "title": "Garbage",
+      "isrc": "QZTB92611632",
+      "masterWavPath": "studio/garbage",
       "disc": 1,
       "track": 2,
       "legacyTier": "Deep Cut",
@@ -19,6 +23,8 @@
     {
       "fileName": "1-03-not-your-saint",
       "title": "Not Your Saint",
+      "isrc": "QZTB92611633",
+      "masterWavPath": "studio/not-your-saint",
       "disc": 1,
       "track": 3,
       "legacyTier": "Fan Anthem",
@@ -27,6 +33,8 @@
     {
       "fileName": "1-04-atmosphere-warehouse-demo",
       "title": "Atmosphere (Warehouse Demo)",
+      "isrc": "QZTB62697618",
+      "masterWavPath": "alternate-takes/atmosphere-warehouse-demo",
       "disc": 1,
       "track": 4,
       "legacyTier": "Vault Track",
@@ -35,6 +43,8 @@
     {
       "fileName": "1-05-the-fortress",
       "title": "The Fortress",
+      "isrc": "QZTB62697619",
+      "masterWavPath": "studio/the-fortress",
       "disc": 1,
       "track": 5,
       "legacyTier": "Fan Anthem",
@@ -43,6 +53,8 @@
     {
       "fileName": "1-06-escape-velocity-ad-astra",
       "title": "Escape Velocity (Ad Astra)",
+      "isrc": "QZTB62697616",
+      "masterWavPath": "studio/escape-velocity-ad-astra",
       "disc": 1,
       "track": 6,
       "legacyTier": "Fan Anthem",

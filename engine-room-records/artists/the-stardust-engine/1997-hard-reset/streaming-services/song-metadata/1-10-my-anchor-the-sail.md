@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** My Anchor (The Sail)
+* **Engine Room ID:** ERR-001-1997-110
+* **ISRC:** QZTBE2640380
+* **Track Length:** 3:51
 * **Album / Release Title:** Hard Reset
 * **Disc Number:** 1
 * **Track Number:** 10
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 04-01-2026 12:13:57 AM
+* **Generated On:** 04-20-2026 06:29:29 PM
 * **Master File Located At:** ../../wav/1-10-my-anchor-the-sail.wav
 
 ## Distribution & AI Disclosure Notes

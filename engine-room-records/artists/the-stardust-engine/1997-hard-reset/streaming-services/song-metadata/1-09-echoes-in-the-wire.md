@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Echoes in the Wire
+* **Engine Room ID:** ERR-001-1997-109
+* **ISRC:** QZTB92611797
+* **Track Length:** 4:41
 * **Album / Release Title:** Hard Reset
 * **Disc Number:** 1
 * **Track Number:** 9
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 04-01-2026 12:13:57 AM
+* **Generated On:** 04-20-2026 06:29:29 PM
 * **Master File Located At:** ../../wav/1-09-echoes-in-the-wire.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,0 +1,191 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-electric-color",
+      "title": "Electric Color",
+      "isrc": "QZTB52600719",
+      "masterWavPath": "studio/electric-color",
+      "disc": 1,
+      "discName": "",
+      "track": 1,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-02-light-up-the-night",
+      "title": "Light Up the Night",
+      "isrc": "QZTB52600725",
+      "masterWavPath": "studio/light-up-the-night",
+      "disc": 1,
+      "discName": "",
+      "track": 2,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-03-neon-hearts",
+      "title": "Neon Hearts",
+      "isrc": "QZTB92611792",
+      "masterWavPath": "studio/neon-hearts",
+      "disc": 1,
+      "discName": "",
+      "track": 3,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-04-dancing-in-the-neon",
+      "title": "Dancing in the Neon",
+      "isrc": "QZTB52600722",
+      "masterWavPath": "studio/dancing-in-the-neon",
+      "disc": 1,
+      "discName": "",
+      "track": 4,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-05-not-your-doll",
+      "title": "Not Your Doll",
+      "isrc": "QZTB92611793",
+      "masterWavPath": "studio/not-your-doll",
+      "disc": 1,
+      "discName": "",
+      "track": 5,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-06-my-anchor-holds",
+      "title": "My Anchor Holds",
+      "isrc": "QZTB52600721",
+      "masterWavPath": "studio/my-anchor-holds",
+      "disc": 1,
+      "discName": "",
+      "track": 6,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-07-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "isrc": "QZTB52600731",
+      "masterWavPath": "studio/the-stardust-engine",
+      "disc": 1,
+      "discName": "",
+      "track": 7,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-08-static",
+      "title": "Static",
+      "isrc": "QZTB92611631",
+      "masterWavPath": "studio/static",
+      "disc": 1,
+      "discName": "",
+      "track": 8,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-09-garbage",
+      "title": "Garbage",
+      "isrc": "QZTB92611632",
+      "masterWavPath": "studio/garbage",
+      "disc": 1,
+      "discName": "",
+      "track": 9,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-10-escape-velocity-ad-astra-radio-edit",
+      "title": "Escape Velocity (Ad Astra) [Radio Edit]",
+      "isrc": "QZTB62697617",
+      "masterWavPath": "alternate-takes/escape-velocity-ad-astra-radio-edit",
+      "disc": 1,
+      "discName": "",
+      "track": 10,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-11-the-fortress",
+      "title": "The Fortress",
+      "isrc": "QZTB62697619",
+      "masterWavPath": "studio/the-fortress",
+      "disc": 1,
+      "discName": "",
+      "track": 11,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-12-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "QZTBC2635158",
+      "masterWavPath": "studio/no-hidden-gravity",
+      "disc": 1,
+      "discName": "",
+      "track": 12,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-13-thunderhead",
+      "title": "Thunderhead",
+      "isrc": "QZTB92611794",
+      "masterWavPath": "studio/thunderhead",
+      "disc": 1,
+      "discName": "",
+      "track": 13,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-14-redline",
+      "title": "Redline",
+      "isrc": "QZTB92611795",
+      "masterWavPath": "studio/redline",
+      "disc": 1,
+      "discName": "",
+      "track": 14,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-15-moon-1-tidal-lock",
+      "title": "Moon 1 (Tidal Lock)",
+      "isrc": "QZTB92611796",
+      "masterWavPath": "studio/moon-1-tidal-lock",
+      "disc": 1,
+      "discName": "",
+      "track": 15,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-16-echoes-in-the-wire",
+      "title": "Echoes in the Wire",
+      "isrc": "QZTB92611797",
+      "masterWavPath": "studio/echoes-in-the-wire",
+      "disc": 1,
+      "discName": "",
+      "track": 16,
+      "suiteName": "",
+      "suiteTrack": ""
+    },
+    {
+      "fileName": "1-17-brand-new-scene",
+      "title": "Brand New Scene",
+      "isrc": "QZTB92611798",
+      "masterWavPath": "studio/brand-new-scene",
+      "disc": 1,
+      "discName": "",
+      "track": 17,
+      "suiteName": "",
+      "suiteTrack": ""
+    }
+  ]
+}

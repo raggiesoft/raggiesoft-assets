@@ -1,0 +1,71 @@
+/* extras.css (Fractured Prisms) */
+
+/* Typography & Glows */
+.gothic-font {
+    font-family: var(--font-gothic) !important;
+}
+
+.text-glow-prism {
+    text-shadow: 0 0 15px rgba(177, 156, 217, 0.6), 0 0 30px rgba(177, 156, 217, 0.4);
+    color: #e6e6fa !important;
+}
+
+.border-prism {
+    border-color: var(--bs-border-prism) !important;
+}
+
+.bg-prism-dark {
+    background-color: var(--bs-bg-prism) !important;
+}
+
+/* Narrative Lore Cards */
+.lore-card {
+    background-color: rgba(255, 255, 255, 0.03);
+    border-left: 4px solid var(--bs-primary);
+    color: #e0e0e0;
+}
+
+/* Recovered Artifact Paper (Queen's English Journals) */
+.artifact-paper {
+    background-color: #dcdcd5; 
+    color: #111;
+    font-family: 'Georgia', serif;
+    border-left: 5px solid #6c757d;
+    box-shadow: inset 0 0 20px rgba(0,0,0,0.05);
+}
+
+/* The Polaroid Component */
+.polaroid-prism {
+    background: #fff;
+    padding: 10px 10px 25px 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    transform: rotate(-1deg);
+    transition: transform var(--transition-speed) ease;
+}
+.polaroid-prism:hover {
+    transform: rotate(0deg) scale(1.02);
+}
+.polaroid-prism img {
+    width: 100%;
+    border: 1px solid #111;
+    filter: sepia(20%) contrast(1.1);
+}
+.polaroid-caption {
+    font-family: var(--font-tech);
+    color: #111;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 0.85rem;
+}
+
+/* Animations */
+@keyframes pulse-prism {
+    0% { opacity: 1; }
+    50% { opacity: 0.4; }
+    100% { opacity: 1; }
+}
+.pulse-icon {
+    animation: pulse-prism 2s infinite;
+    color: var(--bs-primary);
+}

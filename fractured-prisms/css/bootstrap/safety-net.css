@@ -1,0 +1,13 @@
+/* safety-net.css (Fractured Prisms) */
+
+body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    background-color: #0b0914; /* Deep purple-black */
+    color: #e0e0e0;
+}
+
+a {
+    text-decoration: none;
+    color: #b19cd9;
+}

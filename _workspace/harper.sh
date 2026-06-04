@@ -1,10 +1,15 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v20.4 - The Distribution Fix) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.2 - Master Catalog & ERR-ID Integration) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
-# Harper is the heavy lifter. She recursively scans the workspace for Master WAV files.
+# Harper is the heavy lifter. She recursively scans the workspace for tracks.json.
+# Pulls pristine master audio from the centralized Artist Vault (master-wav/).
+# Uses ffprobe to calculate exact track runtimes for metadata sheets.
+# Parses ISRC codes and Suite Logic for DDEX and Archive Readmes.
+# NEW: Generates universal ERR-ID tracking numbers for the Master Catalog.
+# NEW: Compiles the Tri-State DSP Status (Released, Pending, Vault Exclusive).
 # Generates 128kbps "Radio Edits" for the free public web player.
 # Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
 # Drafts Markdown metadata files for commercial streaming distribution.
@@ -12,11 +17,10 @@
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
 # Parses Narrative (Lore) dates and Real-World (DSP) release dates.
-# NEW: Stamps real-world release years onto audio files for DSP compliance.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v20.4)... Let's make some noise!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.2)... Let's hit the Vault!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -27,11 +31,13 @@ ROOT_DIR=$(pwd)
 SEARCH_PATH="../engine-room-records/artists"
 METADATA_FILE="../engine-room-records/artists/metadata.json"
 TEMP_SEARCH_INDEX="temp_search_index.jsonl" 
+TEMP_CATALOG_INDEX="temp_catalog_index.jsonl" 
 
 echo "   🎚️  Targeting Studio Archives: $SEARCH_PATH"
 
-# Initialize Index (Fixed: No leading blank line)
+# Initialize Indices
 > "$TEMP_SEARCH_INDEX" 
+> "$TEMP_CATALOG_INDEX"
 
 # --- LOCATE 7-ZIP BINARY ---
 SEVEN_ZIP_LOCAL="$ROOT_DIR/build-tools/7zip"
@@ -88,13 +94,29 @@ else
     echo "   ⚠️  HARPER: Upscaler missing from $UPSCALER_BASE. Skipping art enhancement."
 fi
 
-# --- OVERWRITE LOGIC ---
+# --- OVERWRITE & METADATA LOGIC ---
 OVERWRITE=false
+METADATA_ONLY=false
 ffmpeg_flag="-n" 
-if [[ "$1" == "--rebuild" || "$1" == "-y" ]]; then
-  ffmpeg_flag="-y"
-  OVERWRITE=true
-  echo "   ⚡ HARPER: Rebuild flag detected! Overwriting old tracks and archives."
+
+for arg in "$@"; do
+  case $arg in
+    --rebuild|-y)
+      ffmpeg_flag="-y"
+      OVERWRITE=true
+      ;;
+    --metadata)
+      METADATA_ONLY=true
+      ;;
+  esac
+done
+
+if [ "$OVERWRITE" = true ]; then
+    if [ "$METADATA_ONLY" = true ]; then
+        echo "   ⚡ HARPER: Rebuild Metadata flag detected! Overwriting JSON & Markdown only."
+    else
+        echo "   ⚡ HARPER: Rebuild flag detected! Overwriting old tracks and archives."
+    fi
 fi
 
 if [ ! -d "$SEARCH_PATH" ]; then
@@ -111,7 +133,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     ALBUM_JSON="album.json"
     ART_FILE="album-art.jpg"
 
-    if [ ! -f "$ALBUM_JSON" ] || [ ! -d "wav" ]; then
+    if [ ! -f "$ALBUM_JSON" ]; then
         popd > /dev/null
         continue
     fi
@@ -120,6 +142,10 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     ALBUM_ARTIST=$(jq -r '.albumArtist' "$ALBUM_JSON")
     ALBUM_NAME=$(jq -r '.albumName' "$ALBUM_JSON")
     GENRE=$(jq -r '.genre' "$ALBUM_JSON")
+    
+    # NEW: Grab Distro and Clearance from album.json
+    ALBUM_DISTRO=$(jq -r '.distributor // "DistroKid"' "$ALBUM_JSON")
+    ALBUM_CLEARANCE=$(jq -r '.aiClearance // "Cleared - Suno Commercial Premium License"' "$ALBUM_JSON")
     
     # --- HARPER: TIME WEAVER DATE LOGIC ---
     NARRATIVE_DATE=$(jq -r '.narrativeReleaseDate' "$ALBUM_JSON")
@@ -155,7 +181,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     UPSCALED_ART="streaming-services/album-art/album-art-upscaled.jpg"
     MODEL_NAME="realesrgan-x4plus"
 
-    if [ "$USE_UPSCALER" = true ] && [ -f "$RAW_ART" ]; then
+    if [ "$USE_UPSCALER" = true ] && [ -f "$RAW_ART" ] && [ "$METADATA_ONLY" = false ]; then
         if [ ! -f "$UPSCALED_ART" ] || [ "$OVERWRITE" = true ]; then
             echo "      🖼️  HARPER: Artwork detected. Firing up the upscaler to 4K..."
             
@@ -210,23 +236,112 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     jq -c '.tracks[]' "tracks.json" | while read -r track_json; do
         FILE_BASE=$(echo "$track_json" | jq -r '.fileName')
         TITLE=$(echo "$track_json" | jq -r '.title')
-        DISC_NUM=$(echo "$track_json" | jq -r '.disc')
+        DISC_NUM=$(echo "$track_json" | jq -r '.disc // 1')
         TRACK_NUM=$(echo "$track_json" | jq -r '.track')
+        SUITE_NAME=$(echo "$track_json" | jq -r '.suiteName // empty')
+        SUITE_TRACK=$(echo "$track_json" | jq -r '.suiteTrack // empty')
 
-        echo "$TRACK_NUM. $TITLE" >> "$README_FILE"
+        # Format README with Suite Headers if applicable
+        if [ -n "$SUITE_NAME" ]; then
+            if [ "$SUITE_TRACK" == "1" ]; then
+                echo "" >> "$README_FILE"
+                echo "  --- $SUITE_NAME ---" >> "$README_FILE"
+            fi
+            echo "  $TRACK_NUM. $TITLE" >> "$README_FILE"
+        else
+            echo "  $TRACK_NUM. $TITLE" >> "$README_FILE"
+        fi
         
         echo "      🎙️  HARPER: Checking Track $TRACK_NUM - '$TITLE'..."
 
-        # Transcoding
-        WAV_FILE="wav/${FILE_BASE}.wav"
+        # --- HARPER v21.2: MASTER CATALOG & ERR-ID LOGIC ---
+        MASTER_WAV_PATH=$(echo "$track_json" | jq -r '.masterWavPath // empty')
+        ISRC_CODE=$(echo "$track_json" | jq -r '.isrc // empty')
+        DSP_STATUS_OVERRIDE=$(echo "$track_json" | jq -r '.dspStatus // empty')
+        ./
+        # 1. Assign the Roster Prefix based on the Artist
+        case "$ALBUM_ARTIST" in
+            "The Stardust Engine") ROSTER_PREFIX="ERR-001" ;;
+            "Fractured Prisms") ROSTER_PREFIX="ERR-002" ;;
+            "The Paper Wall"|"Mirage") ROSTER_PREFIX="ERR-003" ;;
+            "Firelight") ROSTER_PREFIX="ERR-004" ;;
+            "The Winter Palace") ROSTER_PREFIX="ERR-005" ;;
+            *) ROSTER_PREFIX="ERR-999" ;; # Fallback for new signings
+        esac
+
+        # 2. Format Track Number (Ensure 2 digits)
+        FORMATTED_TRACK=$(printf "%d%02d" "$DISC_NUM" "$TRACK_NUM")
         
+        # 3. Construct the Internal Catalog ID
+        ERR_ID="${ROSTER_PREFIX}-${NARRATIVE_YEAR}-${FORMATTED_TRACK}"
+
+        # 4. Determine the DSP Distribution Status
+        if [ "$ALBUM_DISTRO" == "Internal Vault" ] || [ "$DSP_STATUS_OVERRIDE" == "vault" ]; then
+            RELEASE_STATUS="Vault Exclusive"
+        elif [ -n "$ISRC_CODE" ] && [ "$ISRC_CODE" != "null" ]; then
+            RELEASE_STATUS="Released"
+        else
+            RELEASE_STATUS="Pending DSP"
+        fi
+
+        # 5. Push to the Catalog Index
+        jq -n -c \
+            --arg err_id "$ERR_ID" \
+            --arg isrc "$ISRC_CODE" \
+            --arg title "$TITLE" \
+            --arg artist "$ALBUM_ARTIST" \
+            --arg slug "$ARTIST_SLUG" \
+            --arg album "$ALBUM_NAME" \
+            --arg r_date "$REAL_RELEASE_DATE" \
+            --arg status "$RELEASE_STATUS" \
+            --arg owner "Michael P. Ragsdale / RaggieSoft" \
+            --arg distro "$ALBUM_DISTRO" \
+            --arg ai "$ALBUM_CLEARANCE" \
+            --arg vocals "Synthetic / Non-Cloned" \
+            '{
+                err_id: $err_id, 
+                isrc: $isrc, 
+                trackTitle: $title, 
+                albumTitle: $album, 
+                artistPersona: $artist,
+                artistSlug: $slug,
+                legalOwner: $owner, 
+                distributor: $distro, 
+                aiClearance: $ai, 
+                vocalType: $vocals, 
+                realReleaseDate: $r_date, 
+                status: $status
+            }' >> "$ROOT_DIR/$TEMP_CATALOG_INDEX"
+        # ----------------------------------------------------
+
+        # --- VAULT AUDIO PULL LOGIC ---
+        # Route UP one level to the artist root, then into the vault
+        MASTER_DIR="../master-wav" 
+        SOURCE_WAV="$MASTER_DIR/$MASTER_WAV_PATH.wav"
+        LOCAL_WAV="wav/${FILE_BASE}.wav"
+
         # Ensure WAV exists BEFORE indexing the track
-        if [ ! -f "$WAV_FILE" ]; then 
-            echo "         ⚠️  WHOA! Master tape missing: $WAV_FILE. Skipping!"
+        if [ ! -f "$SOURCE_WAV" ]; then 
+            echo "         ⚠️  WHOA! Master tape missing from central vault: $SOURCE_WAV"
             continue
         fi
 
-        # Capturing content for index
+        # Pull from the vault and press to the local album folder
+        if [ "$METADATA_ONLY" = false ]; then
+            if [ ! -f "$LOCAL_WAV" ] || [ "$OVERWRITE" = true ]; then
+                echo "         -> 💾 Pulling $MASTER_WAV_PATH from the vault to $LOCAL_WAV..."
+                mkdir -p wav
+                cp "$SOURCE_WAV" "$LOCAL_WAV"
+            fi
+        fi
+        
+        # Calculate precise track runtime for metadata
+        RUNTIME=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$SOURCE_WAV" | awk '{printf "%d:%02d\n", $1/60, $1%60}')
+        echo "      ⏱️  HARPER: Track runtime clocked at $RUNTIME"
+        
+        WAV_FILE="$LOCAL_WAV"
+
+        # Capturing content for search index
         LYRICS_CONTENT=""
         if [ -f "lyrics/${FILE_BASE}.md" ]; then LYRICS_CONTENT=$(cat "lyrics/${FILE_BASE}.md"); fi
 
@@ -250,6 +365,9 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 
 ## Core Track Information
 * **Track Title:** $TITLE
+* **Engine Room ID:** $ERR_ID
+* **ISRC:** $ISRC_CODE
+* **Track Length:** $RUNTIME
 * **Album / Release Title:** $ALBUM_NAME
 * **Disc Number:** $DISC_NUM
 * **Track Number:** $TRACK_NUM
@@ -300,46 +418,50 @@ EOF
             fi
         fi
 
-        # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
-        if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
-            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-            -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
-            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-            -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
-            "web-mp3/$FILE_BASE.mp3"
-        else
-            echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
-        fi
+        if [ "$METADATA_ONLY" = false ]; then
+            # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
+            if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+                echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
+                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+                -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
+                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
+                "web-mp3/$FILE_BASE.mp3"
+            else
+                echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
+            fi
 
-        # --- PREMIUM TIER: V0 MP3 (Vault) ---
-        if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
-            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-            -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
-            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-            -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
-            "vault/mp3/$FILE_BASE.mp3"
-        else
-            echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
-        fi
+            # --- PREMIUM TIER: V0 MP3 (Vault) ---
+            if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+                echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
+                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+                -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
+                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+                "vault/mp3/$FILE_BASE.mp3"
+            else
+                echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
+            fi
 
-        # --- PREMIUM TIER: Q9 OGG (Vault) ---
-        if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
-            ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
-            -codec:a libvorbis -q:a 9 \
-            -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-            -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
-            -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-            -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
-            "vault/ogg/$FILE_BASE.ogg"
+            # --- PREMIUM TIER: Q9 OGG (Vault) ---
+            if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
+                echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
+                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
+                -codec:a libvorbis -q:a 9 \
+                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
+                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+                "vault/ogg/$FILE_BASE.ogg"
+            else
+                echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
+            fi
         else
-            echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
+            echo "         ⏭️  Metadata-Only mode active. Skipping audio encoding."
         fi
 
     done
@@ -376,7 +498,7 @@ EOF
     fi
 
     # Archives (7-Zip) -> Routing to Vault
-    if [ "$USE_SEVEN_ZIP" = true ]; then
+    if [ "$USE_SEVEN_ZIP" = true ] && [ "$METADATA_ONLY" = false ]; then
         ZIP_MP3="vault/archives/${ARCHIVE_BASE_NAME}-mp3.zip"
         ZIP_OGG="vault/archives/${ARCHIVE_BASE_NAME}-ogg.zip"
         ZIP_WAV="vault/archives/${ARCHIVE_BASE_NAME}-wav.7z"
@@ -397,7 +519,7 @@ EOF
             fi
             
             pushd vault/archives/staging_mp3 > /dev/null
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-mp3.zip" * > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-mp3.zip" *
             popd > /dev/null
             rm -rf vault/archives/staging_mp3
         else
@@ -418,7 +540,7 @@ EOF
             fi
             
             pushd vault/archives/staging_ogg > /dev/null
-            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-ogg.zip" * > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-ogg.zip" *
             popd > /dev/null
             rm -rf vault/archives/staging_ogg
         else
@@ -439,7 +561,7 @@ EOF
             fi
             
             pushd vault/archives/staging_wav > /dev/null
-            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "../${ARCHIVE_BASE_NAME}-wav.7z" * > /dev/null
+            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "../${ARCHIVE_BASE_NAME}-wav.7z" *
             popd > /dev/null
             rm -rf vault/archives/staging_wav
         else
@@ -464,4 +586,23 @@ else
     rm -f "$TEMP_SEARCH_INDEX"
 fi
 
-echo "🎧 HARPER: Session complete! The radio edits are public, and the master tapes are locked in the vault."
+# --- FINALIZE MASTER CATALOG ---
+CATALOG_DIR="../engine-room-records/json"
+mkdir -p "$CATALOG_DIR"
+CATALOG_FILE="$CATALOG_DIR/master-catalog.json"
+
+echo "🎧 HARPER: Compiling the Master ISRC/ERR Catalog..."
+if [ -s "$TEMP_CATALOG_INDEX" ]; then
+    jq -s '.' "$TEMP_CATALOG_INDEX" > "$CATALOG_FILE"
+    rm "$TEMP_CATALOG_INDEX"
+    echo "   ✅ HARPER: Catalog saved to $CATALOG_FILE"
+else
+    echo "   ⚠️  HARPER: Catalog index was empty. Skipping generation."
+    rm -f "$TEMP_CATALOG_INDEX"
+fi
+
+if [ "$METADATA_ONLY" = true ]; then
+    echo "🎧 HARPER: Session complete! Metadata repacked and ready for the distro network."
+else
+    echo "🎧 HARPER: Session complete! The radio edits are public, and the master tapes are locked in the vault."
+fi

@@ -1,0 +1,15 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-moon-2-roche-limit",
+      "title": "Moon 2 (Roche Limit)",
+      "isrc": "QZTBE2640384",
+      "masterWavPath": "studio/moon-2-roche-limit",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 1,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The spark that ignited Ryan's solo orbit. A dark, aggressive rock track using the Roche limit to describe a toxic, fatal attraction, setting the high-friction, destructive tone for the rest of the record."
+    }
+  ]
+}

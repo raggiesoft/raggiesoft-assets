@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Out of Time
+* **Engine Room ID:** ERR-001-1987-111
+* **ISRC:** QZTB52600729
+* **Track Length:** 1:35
 * **Album / Release Title:** Electric Color
 * **Disc Number:** 1
 * **Track Number:** 11
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 03-31-2026 11:44:19 PM
+* **Generated On:** 04-20-2026 05:46:55 PM
 * **Master File Located At:** ../../wav/1-11-out-of-time.wav
 
 ## Distribution & AI Disclosure Notes

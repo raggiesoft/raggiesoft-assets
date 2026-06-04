@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** The Stardust Engine
+* **Engine Room ID:** ERR-001-1987-113
+* **ISRC:** QZTB52600731
+* **Track Length:** 4:16
 * **Album / Release Title:** Electric Color
 * **Disc Number:** 1
 * **Track Number:** 13
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 03-31-2026 11:44:19 PM
+* **Generated On:** 04-20-2026 05:46:55 PM
 * **Master File Located At:** ../../wav/1-13-the-stardust-engine.wav
 
 ## Distribution & AI Disclosure Notes

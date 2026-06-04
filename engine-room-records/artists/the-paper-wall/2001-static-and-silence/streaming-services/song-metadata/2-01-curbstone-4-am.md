@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Curbstone, 4 AM
+* **Engine Room ID:** ERR-003-2001-201
+* **ISRC:** 
+* **Track Length:** 6:01
 * **Album / Release Title:** Static & Silence
 * **Disc Number:** 2
 * **Track Number:** 1
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 03-31-2026 11:23:41 PM
+* **Generated On:** 04-20-2026 05:26:01 PM
 * **Master File Located At:** ../../wav/2-01-curbstone-4-am.wav
 
 ## Distribution & AI Disclosure Notes

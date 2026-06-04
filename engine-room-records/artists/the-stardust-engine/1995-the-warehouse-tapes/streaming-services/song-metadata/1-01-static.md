@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Static
+* **Engine Room ID:** ERR-001-1995-101
+* **ISRC:** QZTB92611631
+* **Track Length:** 3:56
 * **Album / Release Title:** The Warehouse Tapes
 * **Disc Number:** 1
 * **Track Number:** 1
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 04-01-2026 12:03:15 AM
+* **Generated On:** 04-20-2026 06:06:17 PM
 * **Master File Located At:** ../../wav/1-01-static.wav
 
 ## Distribution & AI Disclosure Notes

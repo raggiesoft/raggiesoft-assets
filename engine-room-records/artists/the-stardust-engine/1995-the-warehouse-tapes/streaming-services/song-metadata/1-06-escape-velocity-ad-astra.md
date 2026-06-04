@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Escape Velocity (Ad Astra)
+* **Engine Room ID:** ERR-001-1995-106
+* **ISRC:** QZTB62697616
+* **Track Length:** 15:33
 * **Album / Release Title:** The Warehouse Tapes
 * **Disc Number:** 1
 * **Track Number:** 6
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 04-01-2026 12:03:15 AM
+* **Generated On:** 04-20-2026 06:06:17 PM
 * **Master File Located At:** ../../wav/1-06-escape-velocity-ad-astra.wav
 
 ## Distribution & AI Disclosure Notes

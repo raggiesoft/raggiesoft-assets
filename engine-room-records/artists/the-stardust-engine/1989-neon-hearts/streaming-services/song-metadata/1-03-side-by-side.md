@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Side by Side
+* **Engine Room ID:** ERR-001-1989-103
+* **ISRC:** QZTBA2678352
+* **Track Length:** 1:54
 * **Album / Release Title:** Neon Hearts
 * **Disc Number:** 1
 * **Track Number:** 3
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 03-31-2026 11:51:38 PM
+* **Generated On:** 04-20-2026 05:54:37 PM
 * **Master File Located At:** ../../wav/1-03-side-by-side.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v6.8 - Ghostbuster Edition) ---
+# --- JENNA: THE DEVELOPMENT LIAISON (v6.9 - SEO & Sync Edition) ---
 # Usage: ./jenna-sync.sh --push "Message" [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
@@ -86,14 +86,14 @@ function run_integrity_check() {
                 foreach(\$data as \$route => \$config) {
                     if (isset(\$config['navbarBrandLogo']) && !empty(\$config['navbarBrandLogo'])) {
                         if (!isset(\$config['navbarBrandAlt']) || empty(trim(\$config['navbarBrandAlt']))) {
-                            echo \"❌ WCAG FAIL: [\$filename] Route '\$route' missing Alt Text!\\n\";
+                            echo \"❌ WCAG FAIL: [\$filename] Route '\$route' missing Alt Text!\n\";
                             \$hasErrors = true;
                         }
                     }
                     if (isset(\$config['view'])) {
                         \$viewPath = \$hubRoot . '/' . \$config['view'] . '.php';
                         if (!file_exists(str_replace('/', DIRECTORY_SEPARATOR, \$viewPath))) {
-                            echo \"❌ 404 FAIL:  [\$filename] Route '\$route' missing PHP file.\\n\";
+                            echo \"❌ 404 FAIL:  [\$filename] Route '\$route' missing PHP file.\n\";
                             \$hasErrors = true;
                         }
                     }
@@ -205,27 +205,85 @@ function run_orphan_audit() {
                 \$filename = \$timestamp . '_Jenna_Audit_Report.txt';
                 \$logPath = \$logsDir . '/' . \$filename;
                 
-                \$output = \"JENNA'S PAGE AUDIT REPORT\\nGenerated: \" . \$prettyDate . \"\\nSummary:   \" . count(\$orphans) . \" Orphans | \" . count(\$drafts) . \" Drafts | \" . count(\$exposed) . \" EXPOSED\\n\\n\";
+                \$output = \"JENNA'S PAGE AUDIT REPORT\nGenerated: \" . \$prettyDate . \"\nSummary:   \" . count(\$orphans) . \" Orphans | \" . count(\$drafts) . \" Drafts | \" . count(\$exposed) . \" EXPOSED\n\n\";
                 
                 if (!empty(\$exposed)) {
-                    \$output .= \"🚨 EXPOSED DRAFTS (Linked!)\\n=================\\n\";
-                    foreach (\$exposed as \$e) { \$output .= \$e['file'] . \" (\" . \$e['title'] . \")\\n\"; }
-                    echo \"🚨 JENNA ALERT: Found \" . count(\$exposed) . \" EXPOSED Drafts!\\n\";
+                    \$output .= \"🚨 EXPOSED DRAFTS (Linked!)\n=================\n\";
+                    foreach (\$exposed as \$e) { \$output .= \$e['file'] . \" (\" . \$e['title'] . \")\n\"; }
+                    echo \"🚨 JENNA ALERT: Found \" . count(\$exposed) . \" EXPOSED Drafts!\n\";
                 }
                 if (!empty(\$drafts)) {
-                    \$output .= \"\\n🚧 DETECTED DRAFTS\\n=================\\n\";
-                    foreach (\$drafts as \$d) { \$output .= \$d['file'] . \" (\" . \$d['title'] . \")\\n\"; }
+                    \$output .= \"\n🚧 DETECTED DRAFTS\n=================\n\";
+                    foreach (\$drafts as \$d) { \$output .= \$d['file'] . \" (\" . \$d['title'] . \")\n\"; }
                 }
                 if (!empty(\$orphans)) {
-                    \$output .= \"\\n⚠️ ORPHANED PAGES\\n=================\\n\";
-                    foreach (\$orphans as \$o) { \$output .= \$o['file'] . \" (\" . \$o['title'] . \")\\n\"; }
+                    \$output .= \"\n⚠️ ORPHANED PAGES\n=================\n\";
+                    foreach (\$orphans as \$o) { \$output .= \$o['file'] . \" (\" . \$o['title'] . \")\n\"; }
                 }
                 file_put_contents(\$logPath, \$output);
-                echo \"⚠️  Audit found items. Report saved to: /logs/\" . \$filename . \"\\n\";
+                echo \"⚠️  Audit found items. Report saved to: /logs/\" . \$filename . \"\n\";
             } else {
-                echo \"✅ JENNA: Clean ship! No orphans, drafts, or exposed files.\\n\";
+                echo \"✅ JENNA: Clean ship! No orphans, drafts, or exposed files.\n\";
             }
         " -- "$TIMESTAMP" "$PRETTY_DATE"
+    )
+}
+
+# --- THE SITEMAP GENERATOR ---
+function generate_sitemap() {
+    echo "👱‍♀️ JENNA: Generating XML Sitemap and robots.txt..."
+    (
+        cd "$WORKSPACE_DIR" && php -r "
+            // Use relative pathing so Windows PHP resolves it natively (C:\Users\...)
+            \$hubRoot = realpath('../../raggiesoft-hub');
+            if (!\$hubRoot || !is_dir(\$hubRoot)) {
+                echo '      ❌ ERROR: Could not resolve Hub directory path.' . PHP_EOL;
+                exit(1);
+            }
+            
+            \$routesDir = \$hubRoot . '/data/routes';
+            \$sitemapPath = \$hubRoot . '/sitemap.xml';
+            \$robotsPath = \$hubRoot . '/robots.txt';
+            
+            \$urls = [];
+            
+            if (is_dir(\$routesDir)) {
+                \$iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator(\$routesDir));
+                foreach (\$iterator as \$file) {
+                    if (\$file->isFile() && strtolower(\$file->getExtension()) === 'json') {
+                        \$jsonContent = file_get_contents(\$file->getPathname());
+                        \$json = json_decode(\$jsonContent, true);
+                        if (json_last_error() === JSON_ERROR_NONE && is_array(\$json)) {
+                            foreach (\$json as \$route => \$config) {
+                                // Skip 'common' configs and ensure it starts with a slash
+                                if (\$route !== 'common' && strpos(\$route, '/') === 0) {
+                                    \$urls[] = 'https://raggiesoft.com' . \$route;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            
+            \$urls = array_unique(\$urls);
+            
+            // Build the XML using PHP_EOL for safety in bash subshells
+            \$xml = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>' . PHP_EOL;
+            \$xml .= '<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">' . PHP_EOL;
+            
+            foreach (\$urls as \$url) {
+                \$xml .= '  <url>' . PHP_EOL . '    <loc>' . htmlspecialchars(\$url) . '</loc>' . PHP_EOL . '  </url>' . PHP_EOL;
+            }
+            \$xml .= '</urlset>';
+            
+            file_put_contents(\$sitemapPath, \$xml);
+            
+            \$robotsContent = 'User-agent: *' . PHP_EOL . 'Sitemap: https://raggiesoft.com/sitemap.xml' . PHP_EOL;
+            file_put_contents(\$robotsPath, \$robotsContent);
+            
+            echo '      ✓ Generated sitemap.xml with ' . count(\$urls) . ' dynamic routes.' . PHP_EOL;
+            echo '      ✓ Generated robots.txt pointer.' . PHP_EOL;
+        "
     )
 }
 
@@ -264,10 +322,13 @@ function do_push() {
     # 2. Orphan Audit
     run_orphan_audit
 
+    # 3. Generate Sitemap (NEW STEP)
+    generate_sitemap
+
     echo "👱‍♀️ JENNA: Shipping it! Message: \"$COMMIT_MSG\""
     echo "          $CONNECTION_MSG"
 
-    # 3. HUB PUSH
+    # 4. HUB PUSH
     echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then
         cd "$HUB_ROOT"
@@ -289,24 +350,30 @@ function do_push() {
         fi
     fi
     
-    # 4. ASSETS PUSH
+    # 5. ASSETS PUSH
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
-    git add .
+    
+    echo "      > Indexing files (Verbose mode active)..."
+    # Added -v so Git prints every file it stages to the terminal
+    git add -v .
     
     if ! git diff-index --quiet HEAD --; then
+        echo "      > Committing changes..."
         git commit -m "$COMMIT_MSG"
-        git push origin main
+        echo "      > Pushing to remote..."
+        # Added --progress to force Git to show upload percentages
+        git push --progress origin main
         echo "      ✓ Workspace synced to GitHub."
     elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
         echo "      ⚠️  Found pending commits. Pushing now..."
-        git push origin main
+        git push --progress origin main
         echo "      ✓ Pending workspace changes sent to GitHub."
     else
         echo "      (Assets repo looks unchanged.)"
     fi
     
-    # 5. CDN SYNC
+    # 6. CDN SYNC
     echo "   3. Beaming heavy assets to the CDN..."
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \

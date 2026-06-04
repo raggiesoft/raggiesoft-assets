@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** The High Desert
+* **Engine Room ID:** ERR-003-2001-111
+* **ISRC:** 
+* **Track Length:** 4:05
 * **Album / Release Title:** Static & Silence
 * **Disc Number:** 1
 * **Track Number:** 11
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 03-31-2026 11:23:41 PM
+* **Generated On:** 04-20-2026 05:26:01 PM
 * **Master File Located At:** ../../wav/1-11-the-high-desert.wav
 
 ## Distribution & AI Disclosure Notes

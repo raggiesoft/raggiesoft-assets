@@ -1,7 +1,9 @@
 {
-  "albumName": "The Stardust Engine: Live in Chicago",
   "albumArtist": "The Stardust Engine",
-  "genre": "80s Synth-Pop",
-  "narrativeReleaseDate": "1990-05-15",
-  "realReleaseDate": "2026-04-01"
+  "albumName": "The Stardust Engine: Live in Chicago",
+  "narrativeReleaseDate": "1990",
+  "realReleaseDate": "2026-04-01",
+  "distributor": "Internal Vault",
+  "aiClearance": "Cleared - Internal Web Stream Only",
+  "status": "Lore Archive"
 }

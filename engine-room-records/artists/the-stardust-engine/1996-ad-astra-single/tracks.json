@@ -3,26 +3,42 @@
     {
       "fileName": "1-01-escape-velocity-ad-astra",
       "title": "Escape Velocity (Ad Astra) [Full Suite]",
+      "isrc": "QZTB62697616",
+      "masterWavPath": "studio/escape-velocity-ad-astra",
       "disc": 1,
       "track": 1
     },
     {
       "fileName": "1-02-escape-velocity-ad-astra-radio-edit",
       "title": "Escape Velocity (Ad Astra) (Radio Edit)",
+      "isrc": "QZTB62697617",
+      "masterWavPath": "alternate-takes/escape-velocity-ad-astra-radio-edit",
       "disc": 1,
       "track": 2
     },
     {
       "fileName": "1-03-atmosphere-warehouse-demo",
       "title": "Atmosphere (1992 Demo)",
+      "isrc": "QZTB62697618",
+      "masterWavPath": "alternate-takes/atmosphere-warehouse-demo",
       "disc": 1,
       "track": 3
     },
     {
       "fileName": "1-04-the-fortress",
       "title": "The Fortress",
+      "isrc": "QZTB62697619",
+      "masterWavPath": "studio/the-fortress",
       "disc": 1,
       "track": 4
+    },
+    {
+      "fileName": "1-05-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "QZTBC2635158",
+      "masterWavPath": "studio/no-hidden-gravity",
+      "disc": 1,
+      "track": 5
     }
   ]
 }

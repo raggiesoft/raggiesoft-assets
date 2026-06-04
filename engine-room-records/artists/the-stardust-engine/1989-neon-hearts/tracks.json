@@ -3,6 +3,8 @@
     { 
       "fileName": "1-01-neon-hearts", 
       "title": "Neon Hearts", 
+      "isrc": "QZTB92611792",
+      "masterWavPath": "studio/neon-hearts",
       "disc": 1, 
       "track": 1,
       "legacyTier": "Chart Smash",
@@ -11,6 +13,8 @@
     { 
       "fileName": "1-02-hollow-sound", 
       "title": "Hollow Sound", 
+      "isrc": "QZTBA2678351",
+      "masterWavPath": "studio/hollow-sound",
       "disc": 1, 
       "track": 2,
       "legacyTier": "Deep Cut",
@@ -19,6 +23,8 @@
     { 
       "fileName": "1-03-side-by-side", 
       "title": "Side by Side", 
+      "isrc": "QZTBA2678352",
+      "masterWavPath": "studio/side-by-side",
       "disc": 1, 
       "track": 3,
       "legacyTier": "The Dud",
@@ -27,6 +33,8 @@
     { 
       "fileName": "1-04-if-you-walked-away", 
       "title": "If You Walked Away", 
+      "isrc": "QZTBA2678353",
+      "masterWavPath": "studio/if-you-walked-away",
       "disc": 1, 
       "track": 4,
       "legacyTier": "Chart Smash",
@@ -35,6 +43,8 @@
     { 
       "fileName": "1-05-same-old-song", 
       "title": "Same Old Song", 
+      "isrc": "QZTBA2678354",
+      "masterWavPath": "studio/same-old-song",
       "disc": 1, 
       "track": 5,
       "legacyTier": "Deep Cut",
@@ -43,6 +53,8 @@
     { 
       "fileName": "1-06-chain-reaction", 
       "title": "Chain Reaction", 
+      "isrc": "QZTBA2678355",
+      "masterWavPath": "studio/chain-reaction",
       "disc": 1, 
       "track": 6,
       "legacyTier": "Fan Anthem",
@@ -51,6 +63,8 @@
     { 
       "fileName": "1-07-not-your-doll", 
       "title": "Not Your Doll", 
+      "isrc": "QZTB92611793",
+      "masterWavPath": "studio/not-your-doll",
       "disc": 1, 
       "track": 7,
       "legacyTier": "Fan Anthem",
@@ -59,6 +73,8 @@
     { 
       "fileName": "1-08-quiet-on-the-set", 
       "title": "Quiet on the Set", 
+      "isrc": "QZTBA2678356",
+      "masterWavPath": "studio/quiet-on-the-set",
       "disc": 1, 
       "track": 8,
       "legacyTier": "Studio Filler",
@@ -67,6 +83,8 @@
     { 
       "fileName": "1-09-shadow-dancing", 
       "title": "Shadow Dancing", 
+      "isrc": "QZTBA2678357",
+      "masterWavPath": "studio/shadow-dancing",
       "disc": 1, 
       "track": 9,
       "legacyTier": "Studio Filler",
@@ -75,6 +93,8 @@
     { 
       "fileName": "1-10-after-the-show", 
       "title": "After the Show", 
+      "isrc": "QZTBA2678358",
+      "masterWavPath": "studio/after-the-show",
       "disc": 1, 
       "track": 10,
       "legacyTier": "Deep Cut",
@@ -82,7 +102,9 @@
     },
     { 
       "fileName": "1-11-the-promise-corporate-demo", 
-      "title": "The Promise (1989 Corporate Demo)", 
+      "title": "The Promise (Corporate Demo)", 
+      "isrc": "QZTBA2678359",
+      "masterWavPath": "alternate-takes/the-promise-corporate-demo",
       "disc": 1, 
       "track": 11,
       "legacyTier": "Vault Track",
@@ -90,7 +112,9 @@
     },
     { 
       "fileName": "1-12-the-promise-sabotage-demo", 
-      "title": "The Promise (1989 Sabotage Demo)", 
+      "title": "The Promise (Sabotage Demo)", 
+      "isrc": "QZTBA2678360",
+      "masterWavPath": "alternate-takes/the-promise-sabotage-demo",
       "disc": 1, 
       "track": 12,
       "legacyTier": "Vault Track",

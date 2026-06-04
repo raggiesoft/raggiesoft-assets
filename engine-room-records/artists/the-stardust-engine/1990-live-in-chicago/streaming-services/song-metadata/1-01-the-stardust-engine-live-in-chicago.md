@@ -2,17 +2,20 @@
 
 ## Core Track Information
 * **Track Title:** The Stardust Engine (Live in Chicago)
+* **Engine Room ID:** ERR-001-1990-101
+* **ISRC:** 
+* **Track Length:** 4:39
 * **Album / Release Title:** The Stardust Engine: Live in Chicago
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
-* **Genre:** 80s Synth-Pop
+* **Genre:** null
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Release Date:** 1990-05-15
+* **Fictional Narrative Release Date:** 1990
 * **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 03-31-2026 11:57:58 PM
+* **Generated On:** 04-20-2026 06:01:39 PM
 * **Master File Located At:** ../../wav/1-01-the-stardust-engine-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

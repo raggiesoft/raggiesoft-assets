@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** If You Walked Away
+* **Engine Room ID:** ERR-001-1989-104
+* **ISRC:** QZTBA2678353
+* **Track Length:** 4:11
 * **Album / Release Title:** Neon Hearts
 * **Disc Number:** 1
 * **Track Number:** 4
@@ -12,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 03-31-2026 11:51:38 PM
+* **Generated On:** 04-20-2026 05:54:37 PM
 * **Master File Located At:** ../../wav/1-04-if-you-walked-away.wav
 
 ## Distribution & AI Disclosure Notes

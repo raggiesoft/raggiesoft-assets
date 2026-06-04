@@ -3,6 +3,8 @@
     { 
       "fileName": "1-01-electric-color", 
       "title": "Electric Color", 
+      "isrc": "QZTB52600719",
+      "masterWavPath": "studio/electric-color",
       "disc": 1, 
       "track": 1,
       "legacyTier": "Chart Smash",
@@ -11,6 +13,8 @@
     { 
       "fileName": "1-02-plastic-sky", 
       "title": "Plastic Sky", 
+      "isrc": "QZTB52600720",
+      "masterWavPath": "studio/plastic-sky",
       "disc": 1, 
       "track": 2,
       "legacyTier": "Deep Cut",
@@ -19,6 +23,8 @@
     { 
       "fileName": "1-03-my-anchor-holds", 
       "title": "My Anchor Holds", 
+      "isrc": "QZTB52600721",
+      "masterWavPath": "studio/my-anchor-holds",
       "disc": 1, 
       "track": 3,
       "legacyTier": "Chart Smash",
@@ -27,6 +33,8 @@
     { 
       "fileName": "1-04-dancing-in-the-neon", 
       "title": "Dancing in the Neon", 
+      "isrc": "QZTB52600722",
+      "masterWavPath": "studio/dancing-in-the-neon",
       "disc": 1, 
       "track": 4,
       "legacyTier": "Chart Smash",
@@ -35,6 +43,8 @@
     { 
       "fileName": "1-05-running-on-the-edge", 
       "title": "Running on the Edge", 
+      "isrc": "QZTB52600723",
+      "masterWavPath": "studio/running-on-the-edge",
       "disc": 1, 
       "track": 5,
       "legacyTier": "Deep Cut",
@@ -43,6 +53,8 @@
     { 
       "fileName": "1-06-just-a-girl", 
       "title": "Just a Girl", 
+      "isrc": "QZTB52600724",
+      "masterWavPath": "studio/just-a-girl",
       "disc": 1, 
       "track": 6,
       "legacyTier": "Fan Anthem",
@@ -51,6 +63,8 @@
     { 
       "fileName": "1-07-light-up-the-night", 
       "title": "Light Up the Night", 
+      "isrc": "QZTB52600725",
+      "masterWavPath": "studio/light-up-the-night",
       "disc": 1, 
       "track": 7,
       "legacyTier": "The Dud",
@@ -59,6 +73,8 @@
     { 
       "fileName": "1-08-break-the-walls", 
       "title": "Break the Walls", 
+      "isrc": "QZTB52600726",
+      "masterWavPath": "studio/break-the-walls",
       "disc": 1, 
       "track": 8,
       "legacyTier": "Fan Anthem",
@@ -67,6 +83,8 @@
     { 
       "fileName": "1-09-worlds-apart", 
       "title": "Worlds Apart", 
+      "isrc": "QZTB52600727",
+      "masterWavPath": "studio/worlds-apart",
       "disc": 1, 
       "track": 9,
       "legacyTier": "Deep Cut",
@@ -75,6 +93,8 @@
     { 
       "fileName": "1-10-another-night", 
       "title": "Another Night", 
+      "isrc": "QZTB52600728",
+      "masterWavPath": "studio/another-night",
       "disc": 1, 
       "track": 10,
       "legacyTier": "Studio Filler",
@@ -83,6 +103,8 @@
     { 
       "fileName": "1-11-out-of-time", 
       "title": "Out of Time", 
+      "isrc": "QZTB52600729",
+      "masterWavPath": "studio/out-of-time",
       "disc": 1, 
       "track": 11,
       "legacyTier": "Deep Cut",
@@ -91,6 +113,8 @@
     { 
       "fileName": "1-12-rearview-mirror", 
       "title": "Rearview Mirror", 
+      "isrc": "QZTB52600730",
+      "masterWavPath": "studio/rearview-mirror",
       "disc": 1, 
       "track": 12,
       "legacyTier": "Deep Cut",
@@ -99,6 +123,8 @@
     { 
       "fileName": "1-13-the-stardust-engine", 
       "title": "The Stardust Engine", 
+      "isrc": "QZTB52600731",
+      "masterWavPath": "studio/the-stardust-engine",
       "disc": 1, 
       "track": 13,
       "legacyTier": "Fan Anthem",

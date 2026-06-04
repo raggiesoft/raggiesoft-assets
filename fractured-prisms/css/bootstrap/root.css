@@ -1,0 +1,54 @@
+/* root.css (Fractured Prisms) */
+/* Theme: 1883 Gothic / 1983 Art Rock / Fog */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+    /* Custom Brand Variables */
+    --font-gothic: 'Playfair Display', serif;
+    --font-tech: 'Courier New', monospace;
+    
+    --bs-bg-prism: #0b0914; /* Deep purple-black */
+    --bs-border-prism: rgba(177, 156, 217, 0.3);
+    
+    --transition-speed: 0.3s;
+}
+
+/* Base Transitions */
+body, .navbar, .card, .btn, .list-group-item {
+    transition: all var(--transition-speed) ease-in-out;
+}
+
+/* Force Dark Mode Override (Fractured Prisms is inherently dark) */
+:root,
+[data-bs-theme="light"],
+[data-bs-theme="dark"] {
+    color-scheme: dark;
+
+    --bs-body-bg: var(--bs-bg-prism);
+    --bs-body-color: #e0e0e0;
+
+    /* Primary is now Lavender/Ghostly */
+    --bs-primary: #b19cd9;
+    --bs-primary-rgb: 177, 156, 217;
+    
+    --bs-secondary: #6c757d;
+    --bs-secondary-rgb: 108, 117, 125;
+    
+    --bs-border-color: #333333;
+    --bs-border-color-translucent: rgba(177, 156, 217, 0.15);
+    
+    --bs-link-color: #b19cd9;
+    --bs-link-hover-color: #e6e6fa;
+
+    --bs-card-bg: rgba(255, 255, 255, 0.03);
+    --bs-card-border-color: var(--bs-border-prism);
+    
+    --bs-navbar-bg: rgba(11, 9, 20, 0.95);
+    --bs-navbar-color: #a0a0a0;
+    --bs-navbar-active-color: #e6e6fa;
+    --bs-navbar-brand-color: #e6e6fa;
+
+    --bs-light: #1a1a24; 
+    --bs-dark: #f8f9fa; 
+}

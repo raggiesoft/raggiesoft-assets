@@ -19,10 +19,10 @@
         "year": "1989",
         "url": "/engine-room/artists/stardust-engine/discography/1989-neon-hearts",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/album-art.jpg",
-        "spotifyId": "",
-        "appleId": "",
-        "amazonId": "",
-        "youtubeId": ""
+        "spotifyId": "w5XSjWEwvPTSQd9qAQkgG",
+        "appleId": "1891383771",
+        "amazonId": "B0GW96M9X2",
+        "youtubeId": "OLAK5uy_nXmBKNOpa6GdEqNExjM9j6GDFhBqKLnAA&"
       },
       {
         "title": "Live in Chicago",
@@ -58,40 +58,50 @@
         "url": "/engine-room/artists/stardust-engine/discography/1995-the-warehouse-tapes",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/album-art.jpg",
         "spotifyId": "2rKpE0vqHjB7awjOOVfNIE",
-        "appleId": "",
-        "amazonId": "",
-        "youtubeId": ""
+        "appleId": "890922755",
+        "amazonId": "B0GW3LQT9L",
+        "youtubeId": "OLAK5uy_nRjE2QuS--YtWs_8PSodnDgSnHnNRjbWk"
       },
       {
         "title": "Ad Astra (Single)",
         "year": "1996",
-        "url": "/engine-room/artists/stardust-engine/discography/1996-ad-astra",
+        "url": "/engine-room/artists/stardust-engine/discography/1996-escape-velocity-ad-astra",
         "folder": "1996-ad-astra-single",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1996-ad-astra-single/album-art.jpg",
         "spotifyId": "1j58ruMuWa1DQ07aYQ3GMP",
         "appleId": "1890575104",
-        "amazonId": "",
-        "youtubeId": ""
+        "amazonId": "B0GWJ1QRKM",
+        "youtubeId": "OLAK5uy_kLQWvvMLuBXvl7tsHxZQNeAh6fNxnNGEQ"
       },
       {
         "title": "Hard Reset",
         "year": "1997",
         "url": "/engine-room/artists/stardust-engine/discography/1997-hard-reset",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1997-hard-reset/album-art.jpg",
-        "spotifyId": "",
-        "appleId": "",
-        "amazonId": "",
-        "youtubeId": ""
+        "spotifyId": "7fvqPK2GboverWkvttAhpC",
+        "appleId": "1893078377",
+        "amazonId": "B0GWRXCYW8",
+        "youtubeId": "OLAK5uy_nkHJIKW-2bpzPKXLd9VLyd-b1O6GVf5Jc"
       },
       {
-        "title": "Space Rock: Essential Tracks",
+        "title": "Forger Nation War Chest",
         "year": "1997",
-        "url": "/engine-room/artists/stardust-engine/discography/1997-space-rock-essential-tracks",
-        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1997-space-rock-essential-tracks/album-art.jpg",
-        "spotifyId": "",
+        "url": "/engine-room/artists/stardust-engine/discography/1997-forger-nation-war-chest",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/album-art.jpg",
+        "spotifyId": "3u68SNtT6RCLSpw9PiEPu0",
+        "appleId": "1893709111",
+        "amazonId": "B0GXC2TYX7",
+        "youtubeId": "OLAK5uy_nB7P4pRLyatOLTo5O3Bbi-8yrTkrB8AQ8"
+      },
+      {
+        "title": "Midnight Drivers",
+        "year": "2001",
+        "url": "/engine-room/artists/stardust-engine/discography/2001-midnight-drivers",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2001-midnight-drivers/album-art.jpg",
+        "spotifyId": "6mcBFvyYz9ycs8qVaj4tBa",
         "appleId": "",
-        "amazonId": "",
-        "youtubeId": ""
+        "amazonId": "B0GZCH6RCG",
+        "youtubeId": "OLAK5uy_mMcJzsH_nSEcWkv9sj50pGaHpKvswrmzA"
       }
     ]
   },

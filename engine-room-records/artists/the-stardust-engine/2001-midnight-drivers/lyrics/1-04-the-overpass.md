@@ -1,0 +1,56 @@
+**LORE NOTE:**
+If *Concrete Angels* was Ryan’s roaring stadium showcase, *The Overpass* belongs entirely to Evan Wright. Constructed during the 2001 sessions, this track was designed to replicate the driving, bass-heavy momentum of 80s New Wave deep cuts. 
+
+In the fictionalized narrative of the "lost" 1987 album, this is the track that the hardcore fans (The Ironheads) would point to as proof of the band's underlying musicianship beneath the corporate pop sheen. Evan’s melodic, driving bass guitar sits front and center in the mix, acting as the primary engine of the song while Ryan delivers a tense, high-speed vocal performance. It perfectly captures the feeling of looking down at the gridlock of the 1980s music industry while cruising at top speed above it.
+
+**LYRICS:**
+
+[Intro]
+*(Instrumental - Evan's driving, melodic bassline starts the track completely solo. Tyler's tight, gated snare drops in, setting a fast, aggressive highway tempo before bright analog synths wash over the rhythm.)*
+
+[Verse 1]
+Look at the gridlock bleeding in red
+A million lost souls with a heavy tread
+But we caught the ramp and we took the flight
+Now we're cutting a line right through the night
+
+[Chorus]
+Up on the overpass, elevated and free
+Leaving the ghosts in the machinery
+A blur of neon and a steady hum
+We're beating the rhythm of a different drum
+Up on the overpass, watch us fly
+
+[Verse 2]
+The concrete ribbon is a perfect track
+Got the pedal down and we're not looking back
+Hear the frequency rising from the street below
+But we're riding a current that they’ll never know
+
+[Chorus]
+Up on the overpass, elevated and free
+Leaving the ghosts in the machinery
+A blur of neon and a steady hum
+We're beating the rhythm of a different drum
+Up on the overpass, watch us fly
+
+[Bridge]
+Suspended in the air
+Without a single care
+The altitude is climbing
+Perfect in our timing
+
+[Guitar Solo]
+*(Instrumental - Ryan delivers a sharp, staccato rock solo that weaves perfectly in and out of Evan's relentless bass groove.)*
+
+[Chorus]
+Up on the overpass, elevated and free
+Leaving the ghosts in the machinery
+A blur of neon and a steady hum
+We're beating the rhythm of a different drum
+Up on the overpass, watch us fly
+
+[Outro]
+High above the grid
+Watch us fly
+*(The synths fade out, leaving Evan's bassline to carry the final few seconds before abruptly stopping)*
