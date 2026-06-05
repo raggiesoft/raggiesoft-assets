@@ -425,7 +425,7 @@
 
                         // 1. Handle Bold (**text** or __text__)
                         // Swap 'text-body' for a color that pops against your dark/light themes
-                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-warning fw-bold">$2</strong>');
+                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-warning-emphasis fw-bold">$2</strong>');
                         
                         // 2. Handle Italics (*text* or _text_)
                         // Note: We do this AFTER bold so the double asterisks are already converted!
