@@ -419,8 +419,21 @@
                     }
 
                     // Bold specific text within lines
+                    // Process text formatting within lines
                     let processedBody = contentLines.map(line => {
-                        return line.replace(/\*\*(.*?)\*\*/g, '<strong class="text-body fw-bold">$1</strong>');
+                        let parsedLine = line;
+
+                        // 1. Handle Bold (**text** or __text__)
+                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-body fw-bold">$2</strong>');
+                        
+                        // 2. Handle Italics (*text* or _text_)
+                        // Note: We do this AFTER bold so the double asterisks are already converted!
+                        parsedLine = parsedLine.replace(/(\*|_)(.*?)\1/g, '<em class="text-body">$2</em>');
+
+                        // 3. (Optional) Handle Strikethrough (~~text~~)
+                        parsedLine = parsedLine.replace(/~~(.*?)~~/g, '<del>$1</del>');
+
+                        return parsedLine;
                     });
 
                     if (contentLines.length === 0) return `<div class="mb-4">${headerHtml}</div>`;
