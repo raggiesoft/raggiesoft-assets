@@ -1,26 +1,28 @@
-/* extras.css (Engine Room Records) */
+/* extras.css (Engine Room Records - Industrial Update) */
 
 /* 1. Technical Text (Track Lists, Metadata) */
 .tech-font, .metadata, .track-number {
     font-family: var(--font-tech);
     font-size: 0.85rem;
     letter-spacing: -0.5px;
+    text-transform: uppercase;
 }
 
-/* 2. "Studio Rack" Card Style */
+/* 2. "Studio Rack" Card Style (Containment Units) */
 .studio-card {
-    border-radius: 2px; /* Sharper corners */
+    border-radius: 0; /* Cut steel. No soft corners. */
     position: relative;
     overflow: hidden;
+    border: 1px solid var(--bs-border-color);
 }
 
 [data-bs-theme="dark"] .studio-card {
-    background: linear-gradient(180deg, #222 0%, #1a1a1a 100%);
-    border: 1px solid #444;
-    box-shadow: inset 0 1px 0 rgba(255,255,255,0.05); /* Bevel top */
+    background: linear-gradient(180deg, #1a1c20 0%, #0d0f12 100%);
+    border: 1px solid #2b3035;
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.02); /* Very subtle top bevel */
 }
 
-/* 3. LED Indicators */
+/* 3. LED Indicators (Control Panel Lights) */
 .led {
     display: inline-block;
     width: 8px;
@@ -30,21 +32,24 @@
 }
 .led-on {
     background-color: var(--bs-primary);
-    box-shadow: 0 0 5px var(--bs-primary);
+    box-shadow: 0 0 8px var(--bs-primary); /* Intense Red Glow */
 }
 .led-busy {
     background-color: var(--bs-warning);
-    box-shadow: 0 0 5px var(--bs-warning);
+    box-shadow: 0 0 8px var(--bs-warning); /* Sodium Vapor Orange */
 }
 .led-off {
-    background-color: #333;
-    border: 1px solid #555;
+    background-color: #1a1d20;
+    border: 1px solid #343a40;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.5); /* Recessed dead bulb look */
 }
 
 /* 4. Hero Section - "The Warehouse" */
 .engine-hero {
-    border-bottom: 1px solid var(--bs-border-color);
+    border-bottom: 2px solid var(--bs-primary); /* Harsh perimeter line */
 }
+
 [data-bs-theme="dark"] .engine-hero {
-    background: radial-gradient(circle at center, #1a1a1a 0%, #000000 100%);
+    /* Mimics a dimly lit concrete room with a single floodlight */
+    background: radial-gradient(circle at top center, #1c1f24 0%, #000000 100%);
 }

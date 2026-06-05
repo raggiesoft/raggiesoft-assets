@@ -1,17 +1,23 @@
-/* safety-net.css (Engine Room Records) */
+/* safety-net.css (Engine Room Records - Industrial Update) */
 
 /* Ensure text is always readable even if Bootstrap fails slightly */
 body {
     font-family: sans-serif;
     line-height: 1.6;
+    margin: 0;
+    padding: 0;
 }
 
 a {
     text-decoration: none;
 }
 
-/* Force dark mode legibility if JS fails */
+/* Force dark mode legibility if JS or custom CSS variables fail */
 [data-bs-theme="dark"] body {
-    background-color: #121212;
-    color: #eee;
+    background-color: #0d0f12; /* Deep gunmetal fallback */
+    color: #e9ecef; /* Light ash fallback */
+}
+
+[data-bs-theme="dark"] a {
+    color: #ff6b6b; /* Hazard red fallback */
 }
