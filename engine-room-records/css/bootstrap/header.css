@@ -1,5 +1,17 @@
 /* header.css (Engine Room Records - Industrial Update) */
 
+/* 1. Force the entire header wrapper above the main content */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1040; /* Sits just below the 1050 audio player */
+}
+
+/* 2. Enforce dropdown supremacy */
+.dropdown-menu {
+    z-index: 1050 !important;
+}
+
 header .navbar {
     font-family: var(--font-industrial);
     letter-spacing: 1px; /* Slightly wider for the stamped look */
