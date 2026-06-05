@@ -424,7 +424,8 @@
                         let parsedLine = line;
 
                         // 1. Handle Bold (**text** or __text__)
-                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-body fw-bold">$2</strong>');
+                        // Swap 'text-body' for a color that pops against your dark/light themes
+                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-info fw-bold">$2</strong>');
                         
                         // 2. Handle Italics (*text* or _text_)
                         // Note: We do this AFTER bold so the double asterisks are already converted!
