@@ -53,14 +53,28 @@ async function navigateTo(url, pushState = true) {
         const parser = new DOMParser();
         const doc = parser.parseFromString(htmlString, 'text/html');
 
-        // Target exactly what we need to swap
-        const newMain = doc.querySelector('#main-content');
         const newTitle = doc.querySelector('title')?.innerText;
 
-        if (newMain) {
-            // Perform the surgical swap on the live DOM
-            const currentMain = document.querySelector('#main-content');
-            currentMain.replaceWith(newMain);
+        // Define the specific structural zones we want to safely swap
+        // (This explicitly leaves out the audio player so the music keeps playing)
+        const swapZones = [
+            'header',                    // Swaps the navigation bar & siteName
+            '#elara-layout-wrapper',     // Swaps the main layout (toggling the sidebar on/off)
+            '#visual-footer-container'   // Swaps the dynamic footer
+        ];
+
+        let hasCoreLayout = doc.querySelector('#elara-layout-wrapper');
+
+        if (hasCoreLayout) {
+            // Loop through our zones and execute the live DOM replacement
+            swapZones.forEach(selector => {
+                const newEl = doc.querySelector(selector);
+                const currentEl = document.querySelector(selector);
+                
+                if (newEl && currentEl) {
+                    currentEl.replaceWith(newEl);
+                }
+            });
 
             // Update the browser tab title
             if (newTitle) document.title = newTitle;
@@ -76,7 +90,7 @@ async function navigateTo(url, pushState = true) {
             // Fire event to hide the loader and re-bind Stardust Engine JS
             document.dispatchEvent(new CustomEvent('elara:loaded'));
         } else {
-            // Safety Net: If the fetched page doesn't have a #main-content, force a hard reload
+            // Safety Net: If the fetched page is missing our wrapper, force a hard reload
             window.location.href = url;
         }
     } catch (error) {
