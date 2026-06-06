@@ -9,13 +9,20 @@ document.addEventListener('DOMContentLoaded', () => {
         const link = e.target.closest('a');
         if (!link) return;
 
+        // THE FIX: Is this a Bootstrap component? 
+        // Let Bootstrap's native event listeners handle it entirely.
+        if (link.hasAttribute('data-bs-toggle') || link.hasAttribute('data-bs-dismiss')) {
+            return; 
+        }
+
         const href = link.getAttribute('href');
         
-        // THE FIX 1: Explicitly ignore exact '#' links
-        if (!href || href === '#' || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
-
-        // THE FIX 2: Ignore Bootstrap UI toggles (Dropdowns, Modals, Tabs, etc.)
-        if (link.hasAttribute('data-bs-toggle')) return;
+        // THE FIX: Ignore dead links and utility protocols
+        if (!href || href === '#' || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) {
+            // Prevent the browser from jumping to the top of the page for empty hashes
+            if (href === '#') e.preventDefault();
+            return;
+        }
 
         // Ignore new tabs or modifier-key clicks
         if (link.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey) return;
@@ -26,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Ignore external links
         if (targetUrl.origin !== currentUrl.origin) return;
         
-        // Ignore same-page anchor hash links
+        // Ignore same-page anchor hash links (e.g., jump links to headers)
         if (targetUrl.pathname === currentUrl.pathname && targetUrl.hash !== '') return;
 
         // Prevent the hard reload
@@ -35,6 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Execute the soft navigation
         await navigateTo(targetUrl.href);
     });
+
 
     // 2. Handle Browser Back/Forward Buttons
     window.addEventListener('popstate', async (e) => {
