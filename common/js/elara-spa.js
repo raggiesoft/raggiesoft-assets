@@ -44,58 +44,99 @@ async function navigateTo(url, pushState = true) {
     document.dispatchEvent(new CustomEvent('elara:navigating'));
 
     try {
-        // Fetch the new page HTML behind the scenes
         const response = await fetch(url);
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const htmlString = await response.text();
 
-        // Parse the raw text into a virtual DOM
         const parser = new DOMParser();
         const doc = parser.parseFromString(htmlString, 'text/html');
 
         const newTitle = doc.querySelector('title')?.innerText;
-
-        // Define the specific structural zones we want to safely swap
-        // (This explicitly leaves out the audio player so the music keeps playing)
-        const swapZones = [
-            'header',                    // Swaps the navigation bar & siteName
-            '#elara-layout-wrapper',     // Swaps the main layout (toggling the sidebar on/off)
-            '#visual-footer-container'   // Swaps the dynamic footer
-        ];
-
         let hasCoreLayout = doc.querySelector('#elara-layout-wrapper');
 
         if (hasCoreLayout) {
-            // Loop through our zones and execute the live DOM replacement
+            // --- 1. HEAD & META SYNC ENGINE ---
+            
+            // Sync HTML tag attributes (Critical for forced dark-mode themes)
+            Array.from(doc.documentElement.attributes).forEach(attr => {
+                document.documentElement.setAttribute(attr.name, attr.value);
+            });
+
+            // Diff and Update Stylesheets
+            const getBaseHref = (link) => link.href.split('?')[0]; // Ignore ?v= timestamps for diffing
+            const newLinks = Array.from(doc.querySelectorAll('link[rel="stylesheet"]'));
+            const oldLinks = Array.from(document.querySelectorAll('link[rel="stylesheet"]'));
+
+            // Add new stylesheets
+            newLinks.forEach(newLink => {
+                if (!oldLinks.some(old => getBaseHref(old) === getBaseHref(newLink))) {
+                    document.head.appendChild(newLink.cloneNode(true));
+                }
+            });
+
+            // Remove obsolete stylesheets
+            oldLinks.forEach(oldLink => {
+                if (!newLinks.some(newEl => getBaseHref(newEl) === getBaseHref(oldLink))) {
+                    oldLink.remove();
+                }
+            });
+
+            // Update Inline Styles (This fixes your dynamic brand fonts)
+            const newStyles = doc.querySelectorAll('style');
+            const oldStyles = document.querySelectorAll('style');
+            newStyles.forEach((newStyle, index) => {
+                if (oldStyles[index]) oldStyles[index].innerHTML = newStyle.innerHTML;
+            });
+
+
+            // --- 2. LOADER STATE UPDATE ---
+            // Silently update the loader text so it displays correctly on the *next* click
+            const newLoaderTitle = doc.querySelector('#page-loader h4');
+            const oldLoaderTitle = document.querySelector('#page-loader h4');
+            if (newLoaderTitle && oldLoaderTitle) {
+                oldLoaderTitle.innerHTML = newLoaderTitle.innerHTML;
+            }
+
+
+            // --- 3. DOM ZONE SWAPPING ---
+            const swapZones = [
+                'header',                    
+                '#elara-layout-wrapper',     
+                '#visual-footer-container'   
+            ];
+
             swapZones.forEach(selector => {
                 const newEl = doc.querySelector(selector);
                 const currentEl = document.querySelector(selector);
                 
                 if (newEl && currentEl) {
                     currentEl.replaceWith(newEl);
+
+                    // Re-evaluate injected scripts so the audio player fires
+                    const newlyInjectedEl = document.querySelector(selector);
+                    const scripts = newlyInjectedEl.querySelectorAll('script');
+                    
+                    scripts.forEach(oldScript => {
+                        const newScript = document.createElement('script');
+                        Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
+                        newScript.appendChild(document.createTextNode(oldScript.innerHTML));
+                        oldScript.parentNode.replaceChild(newScript, oldScript);
+                    });
                 }
             });
 
-            // Update the browser tab title
+            // Update title and URL
             if (newTitle) document.title = newTitle;
+            if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            // Update the URL bar cleanly
-            if (pushState) {
-                window.history.pushState({ url: url }, newTitle, url);
-            }
-
-            // Snap the user back to the top of the new page
             window.scrollTo(0, 0);
-
-            // Fire event to hide the loader and re-bind Stardust Engine JS
             document.dispatchEvent(new CustomEvent('elara:loaded'));
+
         } else {
-            // Safety Net: If the fetched page is missing our wrapper, force a hard reload
             window.location.href = url;
         }
     } catch (error) {
         console.error('Elara SPA Error:', error);
-        // Safety Net: If the network drops or fetch fails, force a hard reload
         window.location.href = url;
     }
 }
