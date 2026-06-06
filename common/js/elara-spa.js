@@ -10,8 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!link) return;
 
         const href = link.getAttribute('href');
-        // Ignore javascript, mailto, tel, and empty links
-        if (!href || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+        
+        // THE FIX 1: Explicitly ignore exact '#' links
+        if (!href || href === '#' || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) return;
+
+        // THE FIX 2: Ignore Bootstrap UI toggles (Dropdowns, Modals, Tabs, etc.)
+        if (link.hasAttribute('data-bs-toggle')) return;
 
         // Ignore new tabs or modifier-key clicks
         if (link.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey) return;
