@@ -32,7 +32,7 @@
     }
 
     // --- 2. DOM CACHE (Persistent Elements Only) ---
-    // These elements exist in footer.php and are NEVER destroyed by Turbo.
+    // These elements exist in footer.php and are NEVER destroyed by Elara.
     const dom = {
         player: document.getElementById('sticky-audio-player'),
         audio: document.getElementById('main-audio-element'),
@@ -170,8 +170,8 @@
         bindPageEvents(); // Catch initial page load
     });
 
-    // Run on every Turbo Navigation
-    document.addEventListener('turbo:load', bindPageEvents);
+    // Run on every Elara SPA Navigation
+    document.addEventListener('elara:loaded', bindPageEvents);
 
 
     // ========================================================================
@@ -235,9 +235,11 @@
         const currentTrack = playlist[currentIndex];
         
         if(activeRow && currentTrack) {
-            // Check if title matches (Weak check, but functional for UI)
-            const rowTitle = activeRow.querySelector('strong').innerText;
-            if (rowTitle.trim() === currentTrack.title.trim()) {
+            // Check if title matches (Safely fallback if no strong tag exists)
+            const titleElement = activeRow.querySelector('strong');
+            const rowTitle = titleElement ? titleElement.innerText : activeRow.innerText;
+            
+            if (rowTitle.includes(currentTrack.title.trim())) {
                  activeRow.classList.add('bg-primary', 'bg-opacity-25');
                  
                  // WCAG FIX: Mark this row as the 'current' item for screen readers
