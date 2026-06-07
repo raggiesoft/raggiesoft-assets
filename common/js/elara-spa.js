@@ -51,6 +51,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+
+
 async function navigateTo(url, pushState = true) {
     // Fire event to trigger your UI loader animation
     document.dispatchEvent(new CustomEvent('elara:navigating'));
@@ -152,3 +154,35 @@ async function navigateTo(url, pushState = true) {
         window.location.href = url;
     }
 }
+
+// --- ELARA SECURE MAIL OBFUSCATOR ---
+function initializeSecureEmails() {
+    document.querySelectorAll('.elara-secure-mail').forEach(link => {
+        // Prevent double-binding on SPA transitions
+        if (link.dataset.secured === "true") return;
+        
+        const user = link.getAttribute('data-u');
+        const domain = link.getAttribute('data-d');
+        const tld = link.getAttribute('data-t');
+        
+        if (user && domain && tld) {
+            // Assemble the email in memory
+            const email = `${user}@${domain}.${tld}`;
+            
+            // Set the href for the user
+            link.setAttribute('href', `mailto:${email}`);
+            
+            // Optional: Uncomment the next line if you want the link's visible text to magically turn into the email address upon loading
+            // link.innerText = email; 
+
+            // Mark as processed so it doesn't run again on this specific link
+            link.dataset.secured = "true";
+        }
+    });
+}
+
+// 1. Run on initial hard load
+document.addEventListener('DOMContentLoaded', initializeSecureEmails);
+
+// 2. Run every time Elara fetches a new page via soft navigation
+document.addEventListener('elara:loaded', initializeSecureEmails);
