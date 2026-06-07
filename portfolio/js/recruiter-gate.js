@@ -2,18 +2,26 @@
 // The RaggieSoft "Recruiter Gate"
 // Filters inquiries based on Resume, Location, and Salary.
 
-// FIX: Support both Hard Refreshes and Turbo Navigation
+// FIX: Support Hard Refreshes, Elara SPA, and dynamic script injection
 function bootstrapGate() {
-    // Prevent double-initialization if Turbo fires twice
-    if (document.getElementById('gate-container').getAttribute('data-initialized') === 'true') return;
+    const container = document.getElementById('gate-container');
+    if (!container) return; // Not on the contact page
+    
+    // Prevent double-initialization if Elara triggers multiple times
+    if (container.getAttribute('data-initialized') === 'true') return;
+    container.setAttribute('data-initialized', 'true');
+    
     initGate();
 }
 
-// 1. Initial Load (Hard Refresh)
+// 1. Self-Execute (Catches late injections by Elara SPA)
+bootstrapGate();
+
+// 2. Initial Load (Hard Refresh)
 document.addEventListener('DOMContentLoaded', bootstrapGate);
 
-// 2. Turbo Navigation (Link Clicks)
-document.addEventListener('turbo:load', bootstrapGate);
+// 3. Elara SPA Navigation (Soft Navigations)
+document.addEventListener('elara:loaded', bootstrapGate);
 
 // Default Config (Overwritten by JSON)
 let CONFIG = {
@@ -29,7 +37,6 @@ let locationsData = [];
 
 async function initGate() {
     const container = document.getElementById('gate-container');
-    if (!container) return;
 
     try {
         // Parallel Fetch: Get Locations AND Salary at the same time
