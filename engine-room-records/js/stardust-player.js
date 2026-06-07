@@ -156,7 +156,7 @@
                 dom.title.innerText = "Ready to Play";
                 dom.artist.innerText = first.album; // Show Album Name as Artist initially
                 dom.art.src = first.artwork;
-                dom.player.classList.remove('d-none');
+            //    dom.player.classList.remove('d-none');
             }
             
             // Re-bind buttons for the new HTML
