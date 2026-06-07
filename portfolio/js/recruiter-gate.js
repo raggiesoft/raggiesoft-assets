@@ -2,28 +2,7 @@
 // The RaggieSoft "Recruiter Gate"
 // Filters inquiries based on Resume, Location, and Salary.
 
-// FIX: Support Hard Refreshes, Elara SPA, and dynamic script injection
-function bootstrapGate() {
-    const container = document.getElementById('gate-container');
-    if (!container) return; // Not on the contact page
-    
-    // Prevent double-initialization if Elara triggers multiple times
-    if (container.getAttribute('data-initialized') === 'true') return;
-    container.setAttribute('data-initialized', 'true');
-    
-    initGate();
-}
-
-// 1. Self-Execute (Catches late injections by Elara SPA)
-bootstrapGate();
-
-// 2. Initial Load (Hard Refresh)
-document.addEventListener('DOMContentLoaded', bootstrapGate);
-
-// 3. Elara SPA Navigation (Soft Navigations)
-document.addEventListener('elara:loaded', bootstrapGate);
-
-// Default Config (Overwritten by JSON)
+// 1. GLOBAL VARIABLES (Must be initialized before functions are called)
 let CONFIG = {
     minSalary: 75000,
     targetSalary: 85000,
@@ -34,6 +13,18 @@ let CONFIG = {
 };
 
 let locationsData = [];
+
+// 2. CORE FUNCTIONS
+function bootstrapGate() {
+    const container = document.getElementById('gate-container');
+    if (!container) return; // Not on the contact page
+    
+    // Prevent double-initialization if Elara triggers multiple times
+    if (container.getAttribute('data-initialized') === 'true') return;
+    container.setAttribute('data-initialized', 'true');
+    
+    initGate();
+}
 
 async function initGate() {
     const container = document.getElementById('gate-container');
@@ -59,6 +50,16 @@ async function initGate() {
 
     renderStep1();
 }
+
+// 3. EVENT LISTENERS & EXECUTION
+// Self-Execute (Catches late injections by Elara SPA)
+bootstrapGate();
+
+// Initial Load (Hard Refresh)
+document.addEventListener('DOMContentLoaded', bootstrapGate);
+
+// Elara SPA Navigation (Soft Navigations)
+document.addEventListener('elara:loaded', bootstrapGate);
 
 // --- STEP 1: RESUME CHECK ---
 function renderStep1() {
