@@ -148,11 +148,16 @@ async function navigateTo(url, pushState = true) {
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            // Force the browser to wait for the DOM paint cycle to finish
-            setTimeout(() => {
-                window.scrollTo(0, 0);
-                document.dispatchEvent(new CustomEvent('elara:loaded'));
-            }, 0);  
+            // The Edge/Chromium Nuclear Option: Double frame wait
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    // Force an instant, hard snap to the top
+                    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                    
+                    // Dispatch the event after the scroll is guaranteed
+                    document.dispatchEvent(new CustomEvent('elara:loaded'));
+                });
+            });  
 
         } else {
             window.location.href = url;
