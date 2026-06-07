@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <defs>
+    <radialGradient id="spaceGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B28CC"/>
+      <stop offset="100%" stop-color="#1A104A"/>
+    </radialGradient>
+  </defs>
+
+  <circle cx="250" cy="250" r="220" fill="url(#spaceGlow)" stroke="#4D2D9F" stroke-width="15" />
+  <circle cx="250" cy="250" r="190" fill="none" stroke="#25126B" stroke-width="10" />
+
+  <circle cx="250" cy="250" r="150" fill="none" stroke="#4DB8FF" stroke-width="25" stroke-dasharray="30 15" opacity="0.6"/>
+
+  <g transform="rotate(45 250 250)">
+    
+    <path d="M 225 310 L 210 460 L 240 400 L 250 490 L 260 400 L 290 460 L 275 310 Z" fill="#B34DFF" opacity="0.9"/>
+    <path d="M 235 310 L 230 420 L 245 380 L 250 440 L 255 380 L 270 420 L 265 310 Z" fill="#E699FF" />
+    <path d="M 245 310 L 240 370 L 250 400 L 260 370 L 255 310 Z" fill="#FFFFFF" />
+
+    <path d="M 220 230 L 160 290 L 220 290 Z" fill="#1C5E8A" />
+    <path d="M 280 230 L 340 290 L 280 290 Z" fill="#1C5E8A" />
+    
+    <path d="M 250 80 Q 285 140 280 280 L 220 280 Q 215 140 250 80 Z" fill="#2986CC" />
+    <path d="M 250 80 Q 285 140 280 280 L 250 280 Z" fill="#4DB8FF" opacity="0.8"/>
+    
+    <path d="M 230 280 L 270 280 L 280 310 L 220 310 Z" fill="#1A104A" />
+
+    <path d="M 248 260 L 250 330 L 252 260 Z" fill="#1A104A" /> 
+    
+    <circle cx="250" cy="170" r="25" fill="#1A104A" />
+    <circle cx="250" cy="170" r="18" fill="#4DB8FF" />
+    <circle cx="243" cy="163" r="6" fill="#FFFFFF" /> </g>
+
+  <path d="M 140 140 L 145 155 L 160 160 L 145 165 L 140 180 L 135 165 L 120 160 L 135 155 Z" fill="#FFFFFF" />
+  <path d="M 360 360 L 363 370 L 373 373 L 363 376 L 360 386 L 357 376 L 347 373 L 357 370 Z" fill="#E699FF" />
+  <circle cx="170" cy="240" r="3" fill="#4DB8FF" />
+  <circle cx="340" cy="150" r="4" fill="#FFFFFF" />
+  <circle cx="180" cy="350" r="2" fill="#FFFFFF" />
+</svg>
