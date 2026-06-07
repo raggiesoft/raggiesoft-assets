@@ -3,6 +3,11 @@
  * Replaces Turbo for lightweight, native page transitions.
  */
 
+// Tell the browser to let Elara handle scroll positions natively
+if ('scrollRestoration' in history) {
+    history.scrollRestoration = 'manual';
+}
+
 document.addEventListener('DOMContentLoaded', () => {
     // 1. Intercept all link clicks
     document.body.addEventListener('click', async (e) => {
@@ -143,8 +148,11 @@ async function navigateTo(url, pushState = true) {
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            window.scrollTo(0, 0);
-            document.dispatchEvent(new CustomEvent('elara:loaded'));
+            // Force the browser to wait for the DOM paint cycle to finish
+            setTimeout(() => {
+                window.scrollTo(0, 0);
+                document.dispatchEvent(new CustomEvent('elara:loaded'));
+            }, 0);  
 
         } else {
             window.location.href = url;
