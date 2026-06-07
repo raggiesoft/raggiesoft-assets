@@ -148,23 +148,28 @@ async function navigateTo(url, pushState = true) {
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            // THE SLEDGEHAMMER: Defeat Edge's layout thrashing
-            setTimeout(() => {
-                // 1. Tell the window to snap instantly
-                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                
-                // 2. Overwrite the scroll position on the root document node
-                document.documentElement.scrollTop = 0;
-                
-                // 3. Overwrite the scroll position on the body node
-                document.body.scrollTop = 0;
-                
-                // 4. Physically force the body to the top of the viewport
-                document.body.scrollIntoView({ behavior: 'instant', block: 'start' });
+            // 1. Temporarily assassinate CSS smooth scrolling
+            document.documentElement.style.scrollBehavior = 'auto';
 
-                // Dispatch the event ONLY when the dust has settled
+            // 2. Bump the timeout to 50ms to outlast layout shifts from rendering images
+            setTimeout(() => {
+                // Force the scroll axes to 0
+                window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
+                document.documentElement.scrollTop = 0;
+                document.body.scrollTop = 0;
+
+                // 3. THE ANCHOR: Physically move the browser's active focus to the top of the body.
+                // This forces the viewport to snap to the element, regardless of what the scrollbar wants.
+                document.body.setAttribute('tabindex', '-1');
+                document.body.focus();
+                document.body.removeAttribute('tabindex');
+
+                // 4. Resurrect smooth scrolling for the user
+                document.documentElement.style.scrollBehavior = '';
+
+                // Dispatch the event
                 document.dispatchEvent(new CustomEvent('elara:loaded'));
-            }, 15); // 15ms is the magic number to outlast the Chromium paint cycle
+            }, 50);
 
         } else {
             window.location.href = url;
