@@ -1,8 +1,21 @@
 {
-  "albumName": "Escape Velocity (Ad Astra)",
-  "albumArtist": "The Stardust Engine",
-  "upc": "825486804399",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Escape Velocity (Ad Astra)",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/EPRelease",
   "genre": "Prog Rock / Space Rock",
-  "narrativeReleaseDate": "1996-07-16",
-  "realReleaseDate": "2026-04-03"
+  "datePublished": "2026-04-03",
+  "temporalCoverage": "1996-07-16",
+  "gtin12": "825486804399",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

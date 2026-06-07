@@ -1,8 +1,4 @@
 {
-  "albumArtist": "The Paper Wall",
-  "albumName": "Static & Silence",
-  "narrativeReleaseDate": "2001",
-  "genre": "Rock Opera / Industrial / 80s Pop",
   "tracks": [
     {
       "fileName": "1-01-nineteen-and-invincible",
@@ -15,7 +11,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:44"
     },
     {
       "fileName": "1-02-a-new-light",
@@ -28,7 +25,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:06"
     },
     {
       "fileName": "1-03-painted-smile",
@@ -41,7 +39,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:23"
     },
     {
       "fileName": "1-04-the-unspoken-word",
@@ -54,7 +53,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:08"
     },
     {
       "fileName": "1-05-westward-broken",
@@ -67,7 +67,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "2:34"
     },
     {
       "fileName": "1-06-nashville",
@@ -80,7 +81,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:33"
     },
     {
       "fileName": "1-07-the-colby-turn",
@@ -93,7 +95,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:29"
     },
     {
       "fileName": "1-08-mile-high",
@@ -106,7 +109,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:28"
     },
     {
       "fileName": "1-09-pressure-and-lies",
@@ -119,7 +123,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:02"
     },
     {
       "fileName": "1-10-the-idaho-line",
@@ -132,7 +137,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:17"
     },
     {
       "fileName": "1-11-the-high-desert",
@@ -145,7 +151,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:05"
     },
     {
       "fileName": "1-12-the-pasco-lock",
@@ -158,7 +165,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:58"
     },
     {
       "fileName": "1-13-the-ellensburg-burn",
@@ -171,7 +179,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:03"
     },
     {
       "fileName": "1-14-stewart-street",
@@ -184,7 +193,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:17"
     },
     {
       "fileName": "1-15-a-night-in-kent",
@@ -197,7 +207,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "1:19"
     },
     {
       "fileName": "1-16-shattered-voice-silent-explosion",
@@ -210,7 +221,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:59"
     },
     {
       "fileName": "2-01-curbstone-4-am",
@@ -223,7 +235,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "6:01"
     },
     {
       "fileName": "2-02-165-to-burien",
@@ -236,7 +249,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:16"
     },
     {
       "fileName": "2-03-a-tty-lifeline",
@@ -249,7 +263,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:42"
     },
     {
       "fileName": "2-04-the-anchor-holds",
@@ -262,7 +277,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "7:50"
     },
     {
       "fileName": "2-05-airside-sanctuary",
@@ -275,7 +291,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:09"
     },
     {
       "fileName": "2-06-homeward-on-this-day",
@@ -288,7 +305,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:09"
     },
     {
       "fileName": "2-07-a-song-of-homecoming",
@@ -301,7 +319,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:09"
     },
     {
       "fileName": "2-08-flight-1138-sanctuary-in-the-sky",
@@ -314,7 +333,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:45"
     },
     {
       "fileName": "2-09-midway-to-norfolk-the-final-leg",
@@ -327,7 +347,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:36"
     },
     {
       "fileName": "2-10-sanctuary",
@@ -340,7 +361,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:39"
     },
     {
       "fileName": "2-11-haven-city",
@@ -353,7 +375,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:08"
     },
     {
       "fileName": "2-12-guiding-stars-reprise",
@@ -366,7 +389,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "5:36"
     },
     {
       "fileName": "2-13-ill-drag-you-back",
@@ -379,7 +403,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:19"
     },
     {
       "fileName": "2-14-the-scar-remains",
@@ -392,7 +417,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:34"
     },
     {
       "fileName": "2-15-this-house-stands",
@@ -405,7 +431,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "2:39"
     }
   ]
 }

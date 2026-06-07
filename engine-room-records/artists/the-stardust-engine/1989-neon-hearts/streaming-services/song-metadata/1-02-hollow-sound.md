@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 04-20-2026 05:54:37 PM
+* **Generated On:** 06-07-2026 10:38:05 AM
 * **Master File Located At:** ../../wav/1-02-hollow-sound.wav
 
 ## Distribution & AI Disclosure Notes

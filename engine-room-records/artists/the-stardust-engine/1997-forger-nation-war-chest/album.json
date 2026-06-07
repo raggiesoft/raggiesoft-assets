@@ -1,7 +1,22 @@
 {
-  "albumName": "Forger Nation War Chest",
-  "albumArtist": "The Stardust Engine",
-  "narrativeReleaseDate": "1997",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Forger Nation War Chest",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/CompilationAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "80s Arena Rock / Progressive Pop",
-  "description": "The definitive chronicle of the band's escape velocity. From the gilded cage of their studio-mandated pop hits to the uncompromised rock anthems of their independent era, this single-disc compilation captures the true sound of the Engine."
+  "datePublished": "2026-04-14",
+  "temporalCoverage": "1997",
+  "description": "The definitive chronicle of the band's escape velocity. From the gilded cage of their studio-mandated pop hits to the uncompromised rock anthems of their independent era, this single-disc compilation captures the true sound of the Engine.",
+  "gtin12": "825417256518",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

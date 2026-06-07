@@ -1,9 +1,19 @@
 {
-  "albumArtist": "The Stardust Engine",
-  "albumName": "The Stardust Engine: Live in Chicago",
-  "narrativeReleaseDate": "1990",
-  "realReleaseDate": "2026-04-01",
-  "distributor": "Internal Vault",
-  "aiClearance": "Cleared - Internal Web Stream Only",
-  "status": "Lore Archive"
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "The Stardust Engine: Live in Chicago",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/LiveAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "datePublished": "2026-04-01",
+  "temporalCoverage": "1990",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Internal Vault"
+  },
+  "conditionsOfAccess": "Cleared - Internal Web Stream Only",
+  "creativeWorkStatus": "Lore Archive"
 }

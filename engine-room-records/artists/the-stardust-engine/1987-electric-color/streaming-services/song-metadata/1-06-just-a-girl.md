@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 04-20-2026 05:46:55 PM
+* **Generated On:** 06-07-2026 10:30:15 AM
 * **Master File Located At:** ../../wav/1-06-just-a-girl.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,8 +1,21 @@
 {
-  "albumName": "The Warehouse Tapes",
-  "albumArtist": "The Stardust Engine",
-  "upc": "825626429581",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "The Warehouse Tapes",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/EPRelease",
   "genre": "80s Rock",
-  "narrativeReleaseDate": "1995-10-03",
-  "realReleaseDate": "2026-04-02"
+  "datePublished": "2026-04-02",
+  "temporalCoverage": "1995-10-03",
+  "gtin12": "825626429581",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

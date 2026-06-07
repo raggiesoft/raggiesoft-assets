@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1996-07-16
 * **Real-World DSP Release Date:** 2026-04-03
-* **Generated On:** 04-20-2026 06:12:57 PM
+* **Generated On:** 06-07-2026 10:57:15 AM
 * **Master File Located At:** ../../wav/1-04-the-fortress.wav
 
 ## Distribution & AI Disclosure Notes

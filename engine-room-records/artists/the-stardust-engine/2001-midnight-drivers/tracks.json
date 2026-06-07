@@ -9,7 +9,8 @@
       "discName": "Side A: The City Lights",
       "track": 1,
       "legacyTier": "Chart Smash",
-      "loreNote": "The explosive album opener. Fast-paced and driven by bright, arpeggiated synths, setting the stage for a vibrant night out in the city."
+      "loreNote": "The explosive album opener. Fast-paced and driven by bright, arpeggiated synths, setting the stage for a vibrant night out in the city.",
+      "duration": "4:38"
     },
     {
       "fileName": "1-02-static-on-the-wire",
@@ -20,7 +21,8 @@
       "discName": "Side A: The City Lights",
       "track": 2,
       "legacyTier": "Chart Smash",
-      "loreNote": "A catchy, danceable lead single featuring detached vocals over a driving drum machine and shimmering analog synthesizers."
+      "loreNote": "A catchy, danceable lead single featuring detached vocals over a driving drum machine and shimmering analog synthesizers.",
+      "duration": "4:22"
     },
     {
       "fileName": "1-03-concrete-angels",
@@ -31,7 +33,8 @@
       "discName": "Side A: The City Lights",
       "track": 3,
       "legacyTier": "Fan Anthem",
-      "loreNote": "A massive, triumphant stadium-ready rock anthem leaning heavily into Tyler's 'Human Metronome' timing and explosive 80s gated reverb snare."
+      "loreNote": "A massive, triumphant stadium-ready rock anthem leaning heavily into Tyler's 'Human Metronome' timing and explosive 80s gated reverb snare.",
+      "duration": "4:32"
     },
     {
       "fileName": "1-04-the-overpass",
@@ -42,7 +45,8 @@
       "discName": "Side A: The City Lights",
       "track": 4,
       "legacyTier": "Deep Cut",
-      "loreNote": "A driving, altitude-heavy anthem built entirely around Evan Wright’s prominent, melodic bass guitar."
+      "loreNote": "A driving, altitude-heavy anthem built entirely around Evan Wright’s prominent, melodic bass guitar.",
+      "duration": "3:52"
     },
     {
       "fileName": "1-05-the-horizon-line",
@@ -53,7 +57,8 @@
       "discName": "Side A: The City Lights",
       "track": 5,
       "legacyTier": "Deep Cut",
-      "loreNote": "The sweeping, hopeful closer to Side A. Features a rare sibling harmony duet that builds into a massive crescendo of synth brass before abruptly ending at twilight."
+      "loreNote": "The sweeping, hopeful closer to Side A. Features a rare sibling harmony duet that builds into a massive crescendo of synth brass before abruptly ending at twilight.",
+      "duration": "4:12"
     },
     {
       "fileName": "1-06-midnight-drivers",
@@ -64,7 +69,8 @@
       "discName": "Side B: The Night Shift",
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The title track and the anchor of Side B. A moody, pulsing Darkwave track about finding sanctuary in a moving car at night."
+      "loreNote": "The title track and the anchor of Side B. A moody, pulsing Darkwave track about finding sanctuary in a moving car at night.",
+      "duration": "4:26"
     },
     {
       "fileName": "1-07-shatterproof",
@@ -75,7 +81,8 @@
       "discName": "Side B: The Night Shift",
       "track": 7,
       "legacyTier": "Deep Cut",
-      "loreNote": "A cold, rhythmic track heavily influenced by European industrial synth-pop, featuring a detached, robotic vocal delivery from Ryan."
+      "loreNote": "A cold, rhythmic track heavily influenced by European industrial synth-pop, featuring a detached, robotic vocal delivery from Ryan.",
+      "duration": "4:26"
     },
     {
       "fileName": "1-08-terminal-velvet",
@@ -86,7 +93,8 @@
       "discName": "Side B: The Night Shift",
       "track": 8,
       "legacyTier": "Deep Cut",
-      "loreNote": "Engineered utilizing The Cosmic Tidal Lock Sound™. A brooding, zero-gravity space-rock ballad showcasing Cassidy's crystal clear vocals and lush spatial reverb."
+      "loreNote": "Engineered utilizing The Cosmic Tidal Lock Sound™. A brooding, zero-gravity space-rock ballad showcasing Cassidy's crystal clear vocals and lush spatial reverb.",
+      "duration": "4:52"
     },
     {
       "fileName": "1-09-digital-ghosts",
@@ -97,7 +105,8 @@
       "discName": "Side B: The Night Shift",
       "track": 9,
       "legacyTier": "Deep Cut",
-      "loreNote": "An ethereal, haunting duet with heavy spatial reverb. The rhythm section is reduced to a sparse, echoing click track, leaving plenty of empty space in the mix."
+      "loreNote": "An ethereal, haunting duet with heavy spatial reverb. The rhythm section is reduced to a sparse, echoing click track, leaving plenty of empty space in the mix.",
+      "duration": "4:17"
     },
     {
       "fileName": "1-10-fade-to-dawn",
@@ -108,7 +117,8 @@
       "discName": "Side B: The Night Shift",
       "track": 10,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The epic 1987 album closer. Features a massive 50-second instrumental progressive build leading into a stadium-shaking guitar solo, transitioning the Darkwave tension into pure cathartic rock."
+      "loreNote": "The epic 1987 album closer. Features a massive 50-second instrumental progressive build leading into a stadium-shaking guitar solo, transitioning the Darkwave tension into pure cathartic rock.",
+      "duration": "4:48"
     },
     {
       "fileName": "1-11-midnight-drivers-basement-demo",
@@ -119,7 +129,8 @@
       "discName": "2001 Archival Bonus Tracks",
       "track": 11,
       "legacyTier": "Archive",
-      "loreNote": "A raw, lo-fi 1986 cassette tape recording of Cassidy and Ryan writing the title track on an upright piano in their parents' basement."
+      "loreNote": "A raw, lo-fi 1986 cassette tape recording of Cassidy and Ryan writing the title track on an upright piano in their parents' basement.",
+      "duration": "3:10"
     },
     {
       "fileName": "1-12-neon-pulse-12-inch-extended-club-mix",
@@ -130,7 +141,8 @@
       "discName": "2001 Archival Bonus Tracks",
       "track": 12,
       "legacyTier": "Archive",
-      "loreNote": "A hypnotic, 5-minute DJ remix engineered for underground dance clubs, featuring a heavy four-on-the-floor beat and extended instrumental synthesizer breaks."
+      "loreNote": "A hypnotic, 5-minute DJ remix engineered for underground dance clubs, featuring a heavy four-on-the-floor beat and extended instrumental synthesizer breaks.",
+      "duration": "5:06"
     },
     {
       "fileName": "1-13-static-on-the-wire-instrumental-b-side",
@@ -141,7 +153,8 @@
       "discName": "2001 Archival Bonus Tracks",
       "track": 13,
       "legacyTier": "Archive",
-      "loreNote": "The original B-Side to the 45 RPM single. A vocal-free version showcasing the band's raw synthesizer programming and studio engineering."
+      "loreNote": "The original B-Side to the 45 RPM single. A vocal-free version showcasing the band's raw synthesizer programming and studio engineering.",
+      "duration": "3:07"
     },
     {
       "fileName": "1-14-the-engine-room-studio-jam",
@@ -152,7 +165,8 @@
       "discName": "2001 Archival Bonus Tracks",
       "track": 14,
       "legacyTier": "Archive",
-      "loreNote": "A gritty, unpolished studio outtake of Evan and Tyler laying down a heavy drum and bass jam in a closed session. Pure rhythm section muscle."
+      "loreNote": "A gritty, unpolished studio outtake of Evan and Tyler laying down a heavy drum and bass jam in a closed session. Pure rhythm section muscle.",
+      "duration": "2:24"
     }
   ]
 }

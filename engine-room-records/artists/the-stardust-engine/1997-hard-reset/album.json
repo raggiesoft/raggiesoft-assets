@@ -1,9 +1,21 @@
 {
-  "albumName": "Hard Reset",
-  "albumArtist": "The Stardust Engine",
-  "upc": "825486792528",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Hard Reset",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "80s Arena Rock / Progressive Pop",
-  "narrativeReleaseDate": "1997-11-18",
-  "realReleaseDate": "2026-04-05",
-  "description": "The definitive chronicle of the band's escape velocity. From the gilded cage of their studio-mandated pop hits to the uncompromised rock anthems of their independent era, this single-disc compilation captures the true sound of the Engine."
+  "datePublished": "2026-04-05",
+  "temporalCoverage": "1997-11-18",
+  "gtin12": "825486792528",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

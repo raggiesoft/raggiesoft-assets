@@ -1,26 +1,27 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v21.2 - Master Catalog & ERR-ID Integration) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.3 - Schema.org & Track Length Integration) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
 # Harper is the heavy lifter. She recursively scans the workspace for tracks.json.
 # Pulls pristine master audio from the centralized Artist Vault (master-wav/).
 # Uses ffprobe to calculate exact track runtimes for metadata sheets.
+# NEW: Injects those calculated track runtimes back into tracks.json for persistence.
 # Parses ISRC codes and Suite Logic for DDEX and Archive Readmes.
-# NEW: Generates universal ERR-ID tracking numbers for the Master Catalog.
-# NEW: Compiles the Tri-State DSP Status (Released, Pending, Vault Exclusive).
+# Generates universal ERR-ID tracking numbers for the Master Catalog.
+# Compiles the Tri-State DSP Status (Released, Pending, Vault Exclusive).
 # Generates 128kbps "Radio Edits" for the free public web player.
 # Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
 # Drafts Markdown metadata files for commercial streaming distribution.
 # Binds individual lyric markdown files into a master album-level markdown booklet.
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
-# Parses Narrative (Lore) dates and Real-World (DSP) release dates.
+# NEW: Parses Schema.org standard JSON-LD properties from album.json.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v21.2)... Let's hit the Vault!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.3)... Let's hit the Vault!"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -138,20 +139,18 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         continue
     fi
 
-    # Parse Album Data
-    ALBUM_ARTIST=$(jq -r '.albumArtist' "$ALBUM_JSON")
-    ALBUM_NAME=$(jq -r '.albumName' "$ALBUM_JSON")
-    GENRE=$(jq -r '.genre' "$ALBUM_JSON")
+    # Parse Album Data (SCHEMA.ORG INTEGRATION)
+    ALBUM_ARTIST=$(jq -r '.byArtist.name // empty' "$ALBUM_JSON")
+    ALBUM_NAME=$(jq -r '.name // empty' "$ALBUM_JSON")
+    GENRE=$(jq -r '.genre // empty' "$ALBUM_JSON")
     
-    # NEW: Grab Distro and Clearance from album.json
-    ALBUM_DISTRO=$(jq -r '.distributor // "DistroKid"' "$ALBUM_JSON")
-    ALBUM_CLEARANCE=$(jq -r '.aiClearance // "Cleared - Suno Commercial Premium License"' "$ALBUM_JSON")
+    ALBUM_DISTRO=$(jq -r '.publisher.name // "DistroKid"' "$ALBUM_JSON")
+    ALBUM_CLEARANCE=$(jq -r '.conditionsOfAccess // "Cleared - Suno Commercial Premium License"' "$ALBUM_JSON")
     
-    # --- HARPER: TIME WEAVER DATE LOGIC ---
-    NARRATIVE_DATE=$(jq -r '.narrativeReleaseDate' "$ALBUM_JSON")
-    REAL_RELEASE_DATE=$(jq -r '.realReleaseDate // empty' "$ALBUM_JSON")
+    NARRATIVE_DATE=$(jq -r '.temporalCoverage // empty' "$ALBUM_JSON")
+    REAL_RELEASE_DATE=$(jq -r '.datePublished // empty' "$ALBUM_JSON")
     
-    # Fallback to today if realReleaseDate is missing
+    # Fallback to today if realReleaseDate is missing or set to standard schema blanks
     if [ -z "$REAL_RELEASE_DATE" ]; then REAL_RELEASE_DATE=$(date +"%Y-%m-%d"); fi
 
     # Extract just the 4-digit years for standard tagging and zip naming
@@ -232,6 +231,10 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         echo "TRACKLIST:"
     } > "$README_FILE"
     
+    # Initialize temp file for track durations rewrite
+    TEMP_TRACKS_JSONL="temp_tracks_update.jsonl"
+    > "$TEMP_TRACKS_JSONL"
+
     # Process Tracks
     jq -c '.tracks[]' "tracks.json" | while read -r track_json; do
         FILE_BASE=$(echo "$track_json" | jq -r '.fileName')
@@ -258,7 +261,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         MASTER_WAV_PATH=$(echo "$track_json" | jq -r '.masterWavPath // empty')
         ISRC_CODE=$(echo "$track_json" | jq -r '.isrc // empty')
         DSP_STATUS_OVERRIDE=$(echo "$track_json" | jq -r '.dspStatus // empty')
-        ./
+        
         # 1. Assign the Roster Prefix based on the Artist
         case "$ALBUM_ARTIST" in
             "The Stardust Engine") ROSTER_PREFIX="ERR-001" ;;
@@ -315,30 +318,36 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         # ----------------------------------------------------
 
         # --- VAULT AUDIO PULL LOGIC ---
-        # Route UP one level to the artist root, then into the vault
         MASTER_DIR="../master-wav" 
         SOURCE_WAV="$MASTER_DIR/$MASTER_WAV_PATH.wav"
         LOCAL_WAV="wav/${FILE_BASE}.wav"
+        RUNTIME=""
 
         # Ensure WAV exists BEFORE indexing the track
         if [ ! -f "$SOURCE_WAV" ]; then 
             echo "         ⚠️  WHOA! Master tape missing from central vault: $SOURCE_WAV"
-            continue
-        fi
+        else
+            # Calculate precise track runtime for metadata
+            RUNTIME=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$SOURCE_WAV" | awk '{printf "%d:%02d\n", $1/60, $1%60}')
+            echo "      ⏱️  HARPER: Track runtime clocked at $RUNTIME"
 
-        # Pull from the vault and press to the local album folder
-        if [ "$METADATA_ONLY" = false ]; then
-            if [ ! -f "$LOCAL_WAV" ] || [ "$OVERWRITE" = true ]; then
-                echo "         -> 💾 Pulling $MASTER_WAV_PATH from the vault to $LOCAL_WAV..."
-                mkdir -p wav
-                cp "$SOURCE_WAV" "$LOCAL_WAV"
+            # Pull from the vault and press to the local album folder
+            if [ "$METADATA_ONLY" = false ]; then
+                if [ ! -f "$LOCAL_WAV" ] || [ "$OVERWRITE" = true ]; then
+                    echo "         -> 💾 Pulling $MASTER_WAV_PATH from the vault to $LOCAL_WAV..."
+                    mkdir -p wav
+                    cp "$SOURCE_WAV" "$LOCAL_WAV"
+                fi
             fi
         fi
         
-        # Calculate precise track runtime for metadata
-        RUNTIME=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$SOURCE_WAV" | awk '{printf "%d:%02d\n", $1/60, $1%60}')
-        echo "      ⏱️  HARPER: Track runtime clocked at $RUNTIME"
-        
+        # Inject the calculated duration back into the track JSON object
+        if [ -n "$RUNTIME" ]; then
+            echo "$track_json" | jq -c --arg rt "$RUNTIME" '. + {duration: $rt}' >> "$TEMP_TRACKS_JSONL"
+        else
+            echo "$track_json" >> "$TEMP_TRACKS_JSONL"
+        fi
+
         WAV_FILE="$LOCAL_WAV"
 
         # Capturing content for search index
@@ -465,6 +474,13 @@ EOF
         fi
 
     done
+    
+    # Overwrite tracks.json with updated lengths
+    if [ -s "$TEMP_TRACKS_JSONL" ]; then
+         jq -s '{tracks: .}' "$TEMP_TRACKS_JSONL" > "tracks.json"
+         echo "      💾 HARPER: tracks.json successfully updated with exact audio runtimes."
+    fi
+    rm -f "$TEMP_TRACKS_JSONL"
 
     # --- HARPER: BINDING THE LYRIC BOOKLET ---
     if [ "$HAS_LYRICS" = true ]; then

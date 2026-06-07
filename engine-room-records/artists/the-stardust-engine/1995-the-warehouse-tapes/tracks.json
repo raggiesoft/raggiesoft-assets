@@ -8,7 +8,8 @@
       "disc": 1,
       "track": 1,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The opening statement of the 'Freedom Era.' The line 'I am the static! I am the noise!' became the definitive rallying cry for the Ironheads."
+      "loreNote": "The opening statement of the 'Freedom Era.' The line 'I am the static! I am the noise!' became the definitive rallying cry for the Ironheads.",
+      "duration": "3:56"
     },
     {
       "fileName": "1-02-garbage",
@@ -18,7 +19,8 @@
       "disc": 1,
       "track": 2,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's raw, unfiltered rage track immortalizing the 'dirty mirror' incident from the 1992 Friction photo shoot. A blistering middle finger to the industry."
+      "loreNote": "Ryan's raw, unfiltered rage track immortalizing the 'dirty mirror' incident from the 1992 Friction photo shoot. A blistering middle finger to the industry.",
+      "duration": "1:49"
     },
     {
       "fileName": "1-03-not-your-saint",
@@ -28,7 +30,8 @@
       "disc": 1,
       "track": 3,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Cassidy's fierce arena-rock rejection of the media's 'Victim-Saint' narrative following the 1994 trial. A declaration of independence."
+      "loreNote": "Cassidy's fierce arena-rock rejection of the media's 'Victim-Saint' narrative following the 1994 trial. A declaration of independence.",
+      "duration": "2:59"
     },
     {
       "fileName": "1-04-atmosphere-warehouse-demo",
@@ -38,7 +41,8 @@
       "disc": 1,
       "track": 4,
       "legacyTier": "Vault Track",
-      "loreNote": "The 'Lost Gem' from the canceled 1992 Friction sessions. Julian Vance's misinterpretation of these literal space-shuttle lyrics caused the catastrophic contract fallout."
+      "loreNote": "The 'Lost Gem' from the canceled 1992 Friction sessions. Julian Vance's misinterpretation of these literal space-shuttle lyrics caused the catastrophic contract fallout.",
+      "duration": "5:01"
     },
     {
       "fileName": "1-05-the-fortress",
@@ -48,7 +52,8 @@
       "disc": 1,
       "track": 5,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Dedicated to the fans who crowdfunded their legal defense and studio rent. 'The Fortress' represents both the warehouse and the impenetrable wall the fans built."
+      "loreNote": "Dedicated to the fans who crowdfunded their legal defense and studio rent. 'The Fortress' represents both the warehouse and the impenetrable wall the fans built.",
+      "duration": "3:19"
     },
     {
       "fileName": "1-06-escape-velocity-ad-astra",
@@ -58,7 +63,8 @@
       "disc": 1,
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The 15-minute Magnum Opus that consumed all of Side B. Cassidy's autobiographical progressive rock suite charting her escape from the trial to artistic freedom."
+      "loreNote": "The 15-minute Magnum Opus that consumed all of Side B. Cassidy's autobiographical progressive rock suite charting her escape from the trial to artistic freedom.",
+      "duration": "15:33"
     }
   ]
 }

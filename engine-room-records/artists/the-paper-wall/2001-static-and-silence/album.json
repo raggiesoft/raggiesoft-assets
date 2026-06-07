@@ -1,8 +1,22 @@
 {
-  "albumName": "Static & Silence",
-  "albumArtist": "The Paper Wall",
-  "narrativeReleaseDate": "2001-11-20",
-  "realReleaseDate": "2026-03-31",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Static & Silence",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Paper Wall"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "Rock Opera / Industrial / 80s Pop",
-  "description": "The defining masterpiece of the post-grunge era. A harrowing, autobiographical concept album detailing frontman Julian Croft's survival of abuse, his cross-country escape, and his return to the 'Safe Harbor'."
+  "datePublished": "",
+  "temporalCoverage": "2001-11-20",
+  "description": "The defining masterpiece of the post-grunge era. A harrowing, autobiographical concept album detailing frontman Julian Croft's survival of abuse, his cross-country escape, and his return to the 'Safe Harbor'.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release"
 }

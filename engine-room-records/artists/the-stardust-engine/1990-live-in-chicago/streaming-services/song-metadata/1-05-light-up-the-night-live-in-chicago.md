@@ -10,12 +10,12 @@
 * **Track Number:** 5
 * **Primary Artist (Release Persona):** The Stardust Engine
 * **Real-World / Legal Artist:** Michael P. Ragsdale
-* **Genre:** null
+* **Genre:** 
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1990
 * **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 04-20-2026 06:01:39 PM
+* **Generated On:** 06-07-2026 10:45:19 AM
 * **Master File Located At:** ../../wav/1-05-light-up-the-night-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

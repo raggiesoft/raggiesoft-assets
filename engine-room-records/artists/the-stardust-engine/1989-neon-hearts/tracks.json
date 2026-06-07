@@ -1,124 +1,136 @@
 {
   "tracks": [
-    { 
-      "fileName": "1-01-neon-hearts", 
-      "title": "Neon Hearts", 
+    {
+      "fileName": "1-01-neon-hearts",
+      "title": "Neon Hearts",
       "isrc": "QZTB92611792",
       "masterWavPath": "studio/neon-hearts",
-      "disc": 1, 
+      "disc": 1,
       "track": 1,
       "legacyTier": "Chart Smash",
-      "loreNote": "The 'safe' title track. Apex forced the band to include a callback lyric to their first hit to ensure brand consistency."
+      "loreNote": "The 'safe' title track. Apex forced the band to include a callback lyric to their first hit to ensure brand consistency.",
+      "duration": "3:03"
     },
-    { 
-      "fileName": "1-02-hollow-sound", 
-      "title": "Hollow Sound", 
+    {
+      "fileName": "1-02-hollow-sound",
+      "title": "Hollow Sound",
       "isrc": "QZTBA2678351",
       "masterWavPath": "studio/hollow-sound",
-      "disc": 1, 
+      "disc": 1,
       "track": 2,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's act of 'malicious compliance.' A 5:31 protest track explicitly calling out the studio's panic over the canceled 'Promise' single."
+      "loreNote": "Ryan's act of 'malicious compliance.' A 5:31 protest track explicitly calling out the studio's panic over the canceled 'Promise' single.",
+      "duration": "5:31"
     },
-    { 
-      "fileName": "1-03-side-by-side", 
-      "title": "Side by Side", 
+    {
+      "fileName": "1-03-side-by-side",
+      "title": "Side by Side",
       "isrc": "QZTBA2678352",
       "masterWavPath": "studio/side-by-side",
-      "disc": 1, 
+      "disc": 1,
       "track": 3,
       "legacyTier": "The Dud",
-      "loreNote": "The studio's furious overcorrection. An absurdly short, manic 1:54 'bubblegum' pop track demanded to fix the album's pacing."
+      "loreNote": "The studio's furious overcorrection. An absurdly short, manic 1:54 'bubblegum' pop track demanded to fix the album's pacing.",
+      "duration": "1:54"
     },
-    { 
-      "fileName": "1-04-if-you-walked-away", 
-      "title": "If You Walked Away", 
+    {
+      "fileName": "1-04-if-you-walked-away",
+      "title": "If You Walked Away",
       "isrc": "QZTBA2678353",
       "masterWavPath": "studio/if-you-walked-away",
-      "disc": 1, 
+      "disc": 1,
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "Marketed as a romance, this late-night radio ballad was actually Cassidy's genuine, terrifying plea to her brother not to abandon her."
+      "loreNote": "Marketed as a romance, this late-night radio ballad was actually Cassidy's genuine, terrifying plea to her brother not to abandon her.",
+      "duration": "4:11"
     },
-    { 
-      "fileName": "1-05-same-old-song", 
-      "title": "Same Old Song", 
+    {
+      "fileName": "1-05-same-old-song",
+      "title": "Same Old Song",
       "isrc": "QZTBA2678354",
       "masterWavPath": "studio/same-old-song",
-      "disc": 1, 
+      "disc": 1,
       "track": 5,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's 'Trojan Horse.' A bright, optimistic keyboard hook masking a scathing critique of the studio's formulaic songwriting process."
+      "loreNote": "Ryan's 'Trojan Horse.' A bright, optimistic keyboard hook masking a scathing critique of the studio's formulaic songwriting process.",
+      "duration": "3:31"
     },
-    { 
-      "fileName": "1-06-chain-reaction", 
-      "title": "Chain Reaction", 
+    {
+      "fileName": "1-06-chain-reaction",
+      "title": "Chain Reaction",
       "isrc": "QZTBA2678355",
       "masterWavPath": "studio/chain-reaction",
-      "disc": 1, 
+      "disc": 1,
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The start of the 'Side B Rebellion.' This pure rock track proved to the executives that the 'Engine' sound was what the audience actually wanted."
+      "loreNote": "The start of the 'Side B Rebellion.' This pure rock track proved to the executives that the 'Engine' sound was what the audience actually wanted.",
+      "duration": "4:01"
     },
-    { 
-      "fileName": "1-07-not-your-doll", 
-      "title": "Not Your Doll", 
+    {
+      "fileName": "1-07-not-your-doll",
+      "title": "Not Your Doll",
       "isrc": "QZTB92611793",
       "masterWavPath": "studio/not-your-doll",
-      "disc": 1, 
+      "disc": 1,
       "track": 7,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Cassidy's arena rock anthem where she fiercely rejects the 'Stardust' persona Apex forced upon her."
+      "loreNote": "Cassidy's arena rock anthem where she fiercely rejects the 'Stardust' persona Apex forced upon her.",
+      "duration": "3:21"
     },
-    { 
-      "fileName": "1-08-quiet-on-the-set", 
-      "title": "Quiet on the Set", 
+    {
+      "fileName": "1-08-quiet-on-the-set",
+      "title": "Quiet on the Set",
       "isrc": "QZTBA2678356",
       "masterWavPath": "studio/quiet-on-the-set",
-      "disc": 1, 
+      "disc": 1,
       "track": 8,
       "legacyTier": "Studio Filler",
-      "loreNote": "The 'Punishment' begins. Apex forced Ryan to record this quiet, introspective ballad to kill the rock momentum built on Side B."
+      "loreNote": "The 'Punishment' begins. Apex forced Ryan to record this quiet, introspective ballad to kill the rock momentum built on Side B.",
+      "duration": "3:49"
     },
-    { 
-      "fileName": "1-09-shadow-dancing", 
-      "title": "Shadow Dancing", 
+    {
+      "fileName": "1-09-shadow-dancing",
+      "title": "Shadow Dancing",
       "isrc": "QZTBA2678357",
       "masterWavPath": "studio/shadow-dancing",
-      "disc": 1, 
+      "disc": 1,
       "track": 9,
       "legacyTier": "Studio Filler",
-      "loreNote": "The studio strikes back. An atmospheric synth track where electric guitars were explicitly banned from the mix."
+      "loreNote": "The studio strikes back. An atmospheric synth track where electric guitars were explicitly banned from the mix.",
+      "duration": "3:51"
     },
-    { 
-      "fileName": "1-10-after-the-show", 
-      "title": "After the Show", 
+    {
+      "fileName": "1-10-after-the-show",
+      "title": "After the Show",
       "isrc": "QZTBA2678358",
       "masterWavPath": "studio/after-the-show",
-      "disc": 1, 
+      "disc": 1,
       "track": 10,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's final laugh. Forbidden from using 'pounding drums,' he recorded the rhythm by percussively slapping his acoustic guitar."
+      "loreNote": "Ryan's final laugh. Forbidden from using 'pounding drums,' he recorded the rhythm by percussively slapping his acoustic guitar.",
+      "duration": "2:53"
     },
-    { 
-      "fileName": "1-11-the-promise-corporate-demo", 
-      "title": "The Promise (Corporate Demo)", 
+    {
+      "fileName": "1-11-the-promise-corporate-demo",
+      "title": "The Promise (Corporate Demo)",
       "isrc": "QZTBA2678359",
       "masterWavPath": "alternate-takes/the-promise-corporate-demo",
-      "disc": 1, 
+      "disc": 1,
       "track": 11,
       "legacyTier": "Vault Track",
-      "loreNote": "The exact sound Apex wanted: safe, sterile, and ready for a televangelist broadcast. Scrapped after the 'Worship' video controversy."
+      "loreNote": "The exact sound Apex wanted: safe, sterile, and ready for a televangelist broadcast. Scrapped after the 'Worship' video controversy.",
+      "duration": "3:48"
     },
-    { 
-      "fileName": "1-12-the-promise-sabotage-demo", 
-      "title": "The Promise (Sabotage Demo)", 
+    {
+      "fileName": "1-12-the-promise-sabotage-demo",
+      "title": "The Promise (Sabotage Demo)",
       "isrc": "QZTBA2678360",
       "masterWavPath": "alternate-takes/the-promise-sabotage-demo",
-      "disc": 1, 
+      "disc": 1,
       "track": 12,
       "legacyTier": "Vault Track",
-      "loreNote": "Ryan's malicious compliance. He played the synth-gospel track but snuck a blistering, unholy rock solo into the bridge, terrifying the executives."
+      "loreNote": "Ryan's malicious compliance. He played the synth-gospel track but snuck a blistering, unholy rock solo into the bridge, terrifying the executives.",
+      "duration": "3:38"
     }
   ]
 }

@@ -1,134 +1,147 @@
 {
   "tracks": [
-    { 
-      "fileName": "1-01-electric-color", 
-      "title": "Electric Color", 
+    {
+      "fileName": "1-01-electric-color",
+      "title": "Electric Color",
       "isrc": "QZTB52600719",
       "masterWavPath": "studio/electric-color",
-      "disc": 1, 
+      "disc": 1,
       "track": 1,
       "legacyTier": "Chart Smash",
-      "loreNote": "The solid #2 hit. It sat at the runner-up spot for six weeks, famously blocked from #1 by a novelty song."
+      "loreNote": "The solid #2 hit. It sat at the runner-up spot for six weeks, famously blocked from #1 by a novelty song.",
+      "duration": "3:09"
     },
-    { 
-      "fileName": "1-02-plastic-sky", 
-      "title": "Plastic Sky", 
+    {
+      "fileName": "1-02-plastic-sky",
+      "title": "Plastic Sky",
       "isrc": "QZTB52600720",
       "masterWavPath": "studio/plastic-sky",
-      "disc": 1, 
+      "disc": 1,
       "track": 2,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's first act of 'malicious compliance.' Anti-corporate lyrics hidden inside a polished, studio-approved pop-rock wrapper."
+      "loreNote": "Ryan's first act of 'malicious compliance.' Anti-corporate lyrics hidden inside a polished, studio-approved pop-rock wrapper.",
+      "duration": "3:04"
     },
-    { 
-      "fileName": "1-03-my-anchor-holds", 
-      "title": "My Anchor Holds", 
+    {
+      "fileName": "1-03-my-anchor-holds",
+      "title": "My Anchor Holds",
       "isrc": "QZTB52600721",
       "masterWavPath": "studio/my-anchor-holds",
-      "disc": 1, 
+      "disc": 1,
       "track": 3,
       "legacyTier": "Chart Smash",
-      "loreNote": "A power ballad the studio marketed as a romance, but which the band actually wrote about their unbreakable family bond."
+      "loreNote": "A power ballad the studio marketed as a romance, but which the band actually wrote about their unbreakable family bond.",
+      "duration": "4:24"
     },
-    { 
-      "fileName": "1-04-dancing-in-the-neon", 
-      "title": "Dancing in the Neon", 
+    {
+      "fileName": "1-04-dancing-in-the-neon",
+      "title": "Dancing in the Neon",
       "isrc": "QZTB52600722",
       "masterWavPath": "studio/dancing-in-the-neon",
-      "disc": 1, 
+      "disc": 1,
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "A safe, polished synth-pop single pushed heavily by Apex Records, prioritizing high energy over the band's rock roots."
+      "loreNote": "A safe, polished synth-pop single pushed heavily by Apex Records, prioritizing high energy over the band's rock roots.",
+      "duration": "2:24"
     },
-    { 
-      "fileName": "1-05-running-on-the-edge", 
-      "title": "Running on the Edge", 
+    {
+      "fileName": "1-05-running-on-the-edge",
+      "title": "Running on the Edge",
       "isrc": "QZTB52600723",
       "masterWavPath": "studio/running-on-the-edge",
-      "disc": 1, 
+      "disc": 1,
       "track": 5,
       "legacyTier": "Deep Cut",
-      "loreNote": "A protest song featuring angsty, anti-corporate lyrics hidden inside a 'safe' pop-rock wrapper."
+      "loreNote": "A protest song featuring angsty, anti-corporate lyrics hidden inside a 'safe' pop-rock wrapper.",
+      "duration": "4:00"
     },
-    { 
-      "fileName": "1-06-just-a-girl", 
-      "title": "Just a Girl", 
+    {
+      "fileName": "1-06-just-a-girl",
+      "title": "Just a Girl",
       "isrc": "QZTB52600724",
       "masterWavPath": "studio/just-a-girl",
-      "disc": 1, 
+      "disc": 1,
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Cassidy's quiet rebellion. Dismissed by executives as filler, it became a massive grassroots anthem for female fans."
+      "loreNote": "Cassidy's quiet rebellion. Dismissed by executives as filler, it became a massive grassroots anthem for female fans.",
+      "duration": "3:01"
     },
-    { 
-      "fileName": "1-07-light-up-the-night", 
-      "title": "Light Up the Night", 
+    {
+      "fileName": "1-07-light-up-the-night",
+      "title": "Light Up the Night",
       "isrc": "QZTB52600725",
       "masterWavPath": "studio/light-up-the-night",
-      "disc": 1, 
+      "disc": 1,
       "track": 7,
       "legacyTier": "The Dud",
-      "loreNote": "The song Apex poured all their marketing money into. It was meant to be the 'Big One' but completely failed to connect."
+      "loreNote": "The song Apex poured all their marketing money into. It was meant to be the 'Big One' but completely failed to connect.",
+      "duration": "3:29"
     },
-    { 
-      "fileName": "1-08-break-the-walls", 
-      "title": "Break the Walls", 
+    {
+      "fileName": "1-08-break-the-walls",
+      "title": "Break the Walls",
       "isrc": "QZTB52600726",
       "masterWavPath": "studio/break-the-walls",
-      "disc": 1, 
+      "disc": 1,
       "track": 8,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The one 'pure rock' anthem Apex allowed on the album. It became an immediate fan-favorite for its raw energy."
+      "loreNote": "The one 'pure rock' anthem Apex allowed on the album. It became an immediate fan-favorite for its raw energy.",
+      "duration": "4:08"
     },
-    { 
-      "fileName": "1-09-worlds-apart", 
-      "title": "Worlds Apart", 
+    {
+      "fileName": "1-09-worlds-apart",
+      "title": "Worlds Apart",
       "isrc": "QZTB52600727",
       "masterWavPath": "studio/worlds-apart",
-      "disc": 1, 
+      "disc": 1,
       "track": 9,
       "legacyTier": "Deep Cut",
-      "loreNote": "A soaring duet that served as meta-commentary on the studio's attempt to separate their 'Stardust' and 'Engine' personas."
+      "loreNote": "A soaring duet that served as meta-commentary on the studio's attempt to separate their 'Stardust' and 'Engine' personas.",
+      "duration": "4:12"
     },
-    { 
-      "fileName": "1-10-another-night", 
-      "title": "Another Night", 
+    {
+      "fileName": "1-10-another-night",
+      "title": "Another Night",
       "isrc": "QZTB52600728",
       "masterWavPath": "studio/another-night",
-      "disc": 1, 
+      "disc": 1,
       "track": 10,
       "legacyTier": "Studio Filler",
-      "loreNote": "A safe filler track demanded by Apex to pad the runtime. Ryan was explicitly banned from playing guitar on it."
+      "loreNote": "A safe filler track demanded by Apex to pad the runtime. Ryan was explicitly banned from playing guitar on it.",
+      "duration": "2:42"
     },
-    { 
-      "fileName": "1-11-out-of-time", 
-      "title": "Out of Time", 
+    {
+      "fileName": "1-11-out-of-time",
+      "title": "Out of Time",
       "isrc": "QZTB52600729",
       "masterWavPath": "studio/out-of-time",
-      "disc": 1, 
+      "disc": 1,
       "track": 11,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's punk-inspired vent. Apex gleefully cut this raw track from the original vinyl release to save space."
+      "loreNote": "Ryan's punk-inspired vent. Apex gleefully cut this raw track from the original vinyl release to save space.",
+      "duration": "1:35"
     },
-    { 
-      "fileName": "1-12-rearview-mirror", 
-      "title": "Rearview Mirror", 
+    {
+      "fileName": "1-12-rearview-mirror",
+      "title": "Rearview Mirror",
       "isrc": "QZTB52600730",
       "masterWavPath": "studio/rearview-mirror",
-      "disc": 1, 
+      "disc": 1,
       "track": 12,
       "legacyTier": "Deep Cut",
-      "loreNote": "A moody synth-pop track Cassidy used to express her feeling of being a suppressed 'passenger' in her own career."
+      "loreNote": "A moody synth-pop track Cassidy used to express her feeling of being a suppressed 'passenger' in her own career.",
+      "duration": "4:04"
     },
-    { 
-      "fileName": "1-13-the-stardust-engine", 
-      "title": "The Stardust Engine", 
+    {
+      "fileName": "1-13-the-stardust-engine",
+      "title": "The Stardust Engine",
       "isrc": "QZTB52600731",
       "masterWavPath": "studio/the-stardust-engine",
-      "disc": 1, 
+      "disc": 1,
       "track": 13,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Buried at the album's end, this true anthem perfectly blended synth and rock. It could have spent 11 weeks at #1."
+      "loreNote": "Buried at the album's end, this true anthem perfectly blended synth and rock. It could have spent 11 weeks at #1.",
+      "duration": "4:16"
     }
   ]
 }

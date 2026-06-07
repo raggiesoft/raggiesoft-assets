@@ -1,8 +1,21 @@
 {
-  "albumName": "Neon Hearts",
-  "albumArtist": "The Stardust Engine",
-  "upc": "825626667310",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Neon Hearts",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "80s Synth-Pop",
-  "narrativeReleaseDate": "1989-04-18",
-  "realReleaseDate": "2026-03-31"
+  "datePublished": "2026-03-31",
+  "temporalCoverage": "1989-04-18",
+  "gtin12": "825626667310",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

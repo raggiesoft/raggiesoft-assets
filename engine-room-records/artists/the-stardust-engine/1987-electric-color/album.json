@@ -1,8 +1,21 @@
 {
-  "albumName": "Electric Color",
-  "albumArtist": "The Stardust Engine",
-  "upc": "825628586596",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Electric Color",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "80s Synth-Rock",
-  "narrativeReleaseDate": "1987-08-25",
-  "realReleaseDate": "2026-03-29"
+  "datePublished": "2026-03-29",
+  "temporalCoverage": "1987-08-25",
+  "gtin12": "825628586596",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
 }

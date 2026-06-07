@@ -1,9 +1,22 @@
 {
-  "albumName": "Sanctuary (Zero-G)",
-  "albumArtist": "The Stardust Engine",
-  "upc": "",
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Sanctuary (Zero-G)",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
   "genre": "Atmospheric Synth-Pop / Ambient / Space Rock",
-  "narrativeReleaseDate": "2003-10-10",
-  "realReleaseDate": "2026-05-01",
-  "description": "The first half of the 2003 'Twin Moons' project. Acting as the 'Anchor', this album features exclusively female vocals from Cassidy O'Connell. It is the ultimate showcase of The Cosmic Tidal Lock Sound™—a mathematically precise, zero-gravity atmospheric masterpiece recorded while the band constructed their permanent Blacksburg studio. It represents finding a peaceful, silent sanctuary in the endless black."
+  "datePublished": "",
+  "temporalCoverage": "2003-10-10",
+  "description": "The first half of the 2003 'Twin Moons' project. Acting as the 'Anchor', this album features exclusively female vocals from Cassidy O'Connell. It is the ultimate showcase of The Cosmic Tidal Lock Sound™—a mathematically precise, zero-gravity atmospheric masterpiece recorded while the band constructed their permanent Blacksburg studio. It represents finding a peaceful, silent sanctuary in the endless black.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release"
 }

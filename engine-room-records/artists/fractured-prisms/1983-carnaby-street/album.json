@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "Carnaby Street",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Fractured Prisms"
+  },
+  "albumProductionType": "https://schema.org/StudioAlbum",
+  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "genre": "Progressive Rock / Art Pop",
+  "datePublished": "2026-04-17",
+  "temporalCoverage": "1983-10-03",
+  "description": "The masterpiece that defined an era. Blending atmospheric progressive rock with sharp, melodic pop sensibilities, this 1983 release cemented Fractured Prisms as architects of the modern rock landscape. Originally envisioned as a self-titled record, 'Carnaby Street' perfectly captures the band's iconic shapes era.",
+  "gtin12": "825393798187",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Cleared for Distribution",
+  "creativeWorkStatus": "Active Release"
+}

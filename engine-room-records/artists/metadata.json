@@ -1,16 +1,70 @@
 [
   {
-    "id": "2-05-the-tyrants-throne",
-    "title": "The Tyrant's Throne (Shadow's Heart)",
+    "id": "1-01-a-sisters-love",
+    "title": "A Sister's Love (Main Theme)",
     "artist": "Firelight",
     "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
-    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
     "type": "track",
     "content": ""
   },
   {
-    "id": "1-01-a-sisters-love",
-    "title": "A Sister's Love (Main Theme)",
+    "id": "1-02-the-scholar-of-the-twin-suns",
+    "title": "The Scholar of the Twin Suns",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-03-the-heresy-of-order",
+    "title": "The Heresy of Order",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-04-flight-of-the-guardians",
+    "title": "Flight of the Guardians",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-05-the-northern-wastes",
+    "title": "The Northern Wastes",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-06-foundlings-of-sunstead",
+    "title": "Foundlings of Sunstead",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-07-hearth-song-lullaby",
+    "title": "Hearth-Song (Lullaby)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-08-the-abduction",
+    "title": "The Abduction",
     "artist": "Firelight",
     "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
     "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
@@ -27,11 +81,218 @@
     "content": ""
   },
   {
+    "id": "1-10-sunken-city-of-sorrows",
+    "title": "Sunken City of Sorrows",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-11-the-whispering-woods",
+    "title": "The Whispering Woods",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-i",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-01-hunter-and-the-hunted",
+    "title": "Hunter and the Hunted",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-02-a-cage-of-silver-light",
+    "title": "A Cage of Silver Light",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-03-trial-of-the-crystal-spiders",
+    "title": "Trial of the Crystal Spiders",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-04-seeds-of-rebellion",
+    "title": "Seeds of Rebellion",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-05-the-tyrants-throne",
+    "title": "The Tyrant's Throne (Shadow's Heart)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-06-sacrifice-or-queen",
+    "title": "Sacrifice or Queen?",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-07-the-silverwings-flight",
+    "title": "The Silverwing's Flight",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-08-guardian-of-the-bridge",
+    "title": "Guardian of the Bridge",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-09-the-bridge-of-a-thousand-truths",
+    "title": "The Bridge of a Thousand Truths",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-10-i-cant-live-without-you",
+    "title": "I Can't Live Without You (Kaela's Theme)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-11-a-path-of-light",
+    "title": "A Path of Light",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-01-embers-of-hope",
+    "title": "Embers of Hope",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-02-hall-of-shattered-heroes",
+    "title": "Hall of Shattered Heroes",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-03-the-ascent",
+    "title": "The Ascent",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-04-reunion-the-highest-tower",
+    "title": "Reunion (The Highest Tower)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-05-battle-of-wills",
+    "title": "Battle of Wills",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-06-an-empathetic-victory",
+    "title": "An Empathetic Victory",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-07-a-new-dawn-finale",
+    "title": "A New Dawn (Finale)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-08-the-long-road-home",
+    "title": "The Long Road Home",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-09-the-stewards-law",
+    "title": "The Steward's Law",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-10-the-twin-suns-hearth-epilogue",
+    "title": "The Twin Suns' Hearth (Epilogue)",
+    "artist": "Firelight",
+    "album": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel-book-iii",
+    "type": "track",
+    "content": ""
+  },
+  {
     "id": "1-01-the-hollow-square",
     "title": "The Hollow Square",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -39,8 +300,8 @@
     "id": "1-02-a-prophecy-unfolds",
     "title": "A Prophecy Unfolds",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -48,8 +309,8 @@
     "id": "1-03-strangers-in-the-stream",
     "title": "Strangers in the Stream",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -57,8 +318,8 @@
     "id": "1-04-the-masquerade",
     "title": "The Masquerade",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -66,8 +327,8 @@
     "id": "1-05-fractured-prisms",
     "title": "Fractured Prisms",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -75,8 +336,8 @@
     "id": "1-06-mirrors-of-yesterday",
     "title": "Mirrors of Yesterday",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -84,8 +345,8 @@
     "id": "1-07-the-fading-spark",
     "title": "The Fading Spark",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -93,8 +354,8 @@
     "id": "1-08-kaleidoscope-sun",
     "title": "Kaleidoscope Sun",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": "**LORE NOTE:**\r\nReleased on **Origin's** self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: *\"We hear you, and we're getting you out now.\"*\r\n\r\n**LYRICS:**\r\n\r\n[Intro]\r\n*(Begins with a distinctive, slightly melancholic keyboard arpeggio, joined by a driving bassline and crisp drumming. A soaring guitar melody enters, then fades as Rhys Manning's vocals begin.)*\r\n\r\n[Verse 1]\r\nThe city sleeps in shades of grey, another dawn begins\r\nAnother street, another day, where no one ever wins\r\nA hollow echo in the square, a promise whispered low\r\nOf somewhere else, beyond compare, a place where true things grow.\r\nThe faces blur, a passing stream, a river deep and wide\r\nLost in a half-forgotten dream, where do the lost ones hide?\r\n\r\n[Chorus]\r\n*(Music swells, becoming more layered, with harmonies. The tempo lifts slightly.)*\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Short Instrumental Break]\r\n*(This is where the specific, brief, and distinctive FLUTE MELODY plays. It is poignant, clear, and memorable—the exact melody Luna uses as Leo's lifeline.)*\r\n\r\n[Verse 2]\r\nWe chase the shadows on the wall, illusions that we build\r\nAfraid to leap, afraid to fall, a prophecy fulfilled.\r\nThe painted smiles, a masquerade, to hide the fading spark\r\nA fragile fortress we have made, against the growing dark.\r\nBut in the distance, I can see a shimmer in the air\r\nA different kind of mystery, a world beyond compare.\r\n\r\n[Chorus]\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Bridge]\r\n*(Music becomes more atmospheric, layered keyboards, a searching guitar line, and more prominent bass. Tempo slows slightly before building again.)*\r\nThrough fractured prisms, light divides, in patterns sharp and bright\r\nA thousand paths, where fate presides, between the day and night.\r\nIs it a vision, just a trace? A trick of weary eyes?\r\nOr is there truly such a place, beneath those shifting skies?\r\nA shelter from the endless rain, a refuge from the cold…\r\nA story waiting to unfold, a legend to be told.\r\n\r\n[Instrumental Section]\r\n*(A prominent keyboard solo and a soaring guitar lead interlock, building in intensity. The flute melody is subtly re-incorporated and echoed here.)*\r\n\r\n[Chorus]\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Outro]\r\n*(Music begins to fade, the initial keyboard arpeggio returning. Rhys Manning's voice becomes softer, more distant)*\r\nHome is always near...\r\nKaleidoscope Sun...\r\n*(The distinctive flute melody plays one last time, very softly, as the song fades to silence)*"
   },
@@ -102,8 +363,8 @@
     "id": "1-09-the-silent-storm",
     "title": "The Silent Storm",
     "artist": "Fractured Prisms",
-    "album": "Fractured Prisms",
-    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "album": "Carnaby Street",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": ""
   },
@@ -666,6 +927,15 @@
     "content": "**LORE NOTE:**\r\nA love letter between siblings disguised as a power ballad. While Apex Records marketed this as a romantic duet to sell records, the \"Ironheads\" in the audience knew the truth. When Ryan and Cassidy sang this to each other on stage, it wasn't about romance; it was about survival. It was their public promise that no matter what the studio threw at them, they would be each other's anchor in the storm.\r\n\r\n**LYRICS:**\r\n\r\n(Spoken Intro)\r\nThis is a song for that one person who keeps you sane... the one who's your anchor.\r\n\r\n(Verse 1)\r\nThe lights are bright, but the room is cold\r\nAnother story that's bought and sold\r\nI'm trying to find a reason why\r\nBeneath this plastic, empty sky\r\n\r\n(Chorus)\r\nBut when the world is spinning out of my control\r\nYou're the one true thing that I can hold\r\nThrough the static and the driving rain\r\nYou're the one who keeps me sane\r\nYou are the shelter, you are the truth\r\nMy anchor in this crazy youth\r\n\r\n(Verse 2)\r\nThey pull us under, they push us high\r\nThey build us up just to watch us die\r\nIt's hard to know who you can trust\r\nWhen all the promises turn to dust\r\n\r\n(Chorus)\r\nBut when the world is spinning out of my control\r\nYou're the one true thing that I can hold\r\nThrough the static and the driving rain\r\nYou're the one who keeps me sane\r\nYou are the shelter, you are the truth\r\nMy anchor in this crazy youth\r\n\r\n(Guitar Solo)\r\n(A soaring, melodic solo that Ryan plays while standing back-to-back with Cassidy at the piano)\r\n\r\n(Bridge)\r\nSo let them talk, let them stare\r\nAs long as you are standing there\r\nI'm not afraid of what's to come\r\nI know where I belong...\r\n\r\n(Chorus)\r\n'Cause when the world is spinning out of my control\r\nYou're the one true thing that I can hold\r\nThrough the static and the driving rain\r\nYou're the one who keeps me sane\r\nYou are the shelter, you are the truth\r\nMy anchor in this crazy youth\r\n\r\n(Outro)\r\nMy anchor...\r\nMy anchor holds...\r\n(Spoken) We love you, Chicago!"
   },
   {
+    "id": "1-07-electric-color-live-in-chicago",
+    "title": "Electric Color (Live in Chicago)",
+    "artist": "The Stardust Engine",
+    "album": "The Stardust Engine: Live in Chicago",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/1990-live-in-chicago",
+    "type": "track",
+    "content": "**LORE NOTE:**\r\nThe Grand Finale. Because The Stardust Engine was the opening act with a strict 30-minute slot, there was no \"fake exit\" or encore. They had to transition straight from the emotional weight of \"My Anchor Holds\" directly into this high-energy closer. The performance is frantic and joyful, designed to leave the audience buzzing for the headliner while proving that the \"opening act\" could steal the show.\r\n\r\n**LYRICS:**\r\n\r\n(Spoken Intro)\r\nThank you, Chicago! You've been beautiful!\r\nThis is our last song!\r\n\r\n(Verse 1)\r\nWoke up this morning, the world was gray\r\nDidn't know the colors had all faded away\r\nBeen living in a room with the curtains drawn tight\r\nThen you flipped a switch and turned on the light\r\n\r\n(Chorus)\r\nOh, I'm seeing in electric color\r\nFinding a rhythm I never knew\r\nDancing in a brand new summer\r\nMy whole world feels bright and new\r\nIt's an electric-colored feeling\r\nAnd it all started with you!\r\n\r\n(Verse 2)\r\nThe city sounds were just a buzz in my ear\r\nA static station I could never quite hear\r\nBut now the noise is turning into a song\r\nAnd I finally feel like I belong\r\n\r\n(Chorus)\r\nOh, I'm seeing in electric color\r\nFinding a rhythm I never knew\r\nDancing in a brand new summer\r\nMy whole world feels bright and new\r\nIt's an electric-colored feeling\r\nAnd it all started with you!\r\n\r\n(Bridge)\r\nThe beat is getting stronger\r\nI can't hide it any longer\r\nMy heart is playing catch-up\r\nTo the music turning way up!\r\n\r\n(Guitar Solo)\r\n\r\n(Chorus)\r\nOh, I'm seeing in electric color\r\nFinding a rhythm I never knew\r\nDancing in a brand new summer\r\nMy whole world feels bright and new\r\nIt's an electric-colored feeling\r\nAnd it all started with you!\r\n\r\n(Outro)\r\nElectric color\r\nFeeling so new\r\nIt's all because of you\r\n(Spoken) Thank you! Goodnight, everybody! We're The Stardust Engine!"
+  },
+  {
     "id": "1-01-static",
     "title": "Static",
     "artist": "The Stardust Engine",
@@ -1204,5 +1474,329 @@
     "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2003-sanctuary-zero-g",
     "type": "track",
     "content": "**LORE NOTE:**\r\nAs the opening track of her 2003 solo orbit, *Sanctuary (Zero-G)*, \"Moon 1 (Tidal Lock)\" expands from a single standout deep-cut into the foundational thesis of Cassidy's entire musical architecture. This is the ultimate, undiluted presentation of **The Cosmic Tidal Lock Sound™**. By kicking off the album with this 1980s Cosmic Pop masterpiece, she establishes the zero-gravity environment for the rest of the record—a sanctuary built on unwavering loyalty, sweeping spatial reverb, and mathematically perfect analog synthesizers. It is the sound of the \"Anchor\" finding her perfect, peaceful center of gravity.\r\n\r\n**LYRICS:**\r\n\r\n[Intro]\r\n*(A tight, driving 1980s drum beat enters. A pulsing synth bassline locks into the rhythm, perfectly anchoring the track as shimmering analog synth pads slowly rise in the background.)*\r\n\r\n[Verse 1]\r\nWe crossed the line into the dark\r\nLeft the atmosphere, a fading spark\r\nBut I can feel the pull of where you are\r\nA heavy gravity from a distant star\r\nThey tried to spin us out of control\r\nBut we found the center, we found the soul\r\n\r\n[Pre-Chorus]\r\nThe telemetry is clear tonight\r\nHalf in the shadow, half in the light\r\nI'm caught in the orbit, spinning around\r\nA million miles above the ground\r\n\r\n[Chorus]\r\nAnd I'm in a tidal lock with you!\r\nSuspended in the velvet and the blue\r\nNo matter how I turn, no matter where I fly\r\nYou are the only anchor in my sky\r\nYeah, I'm in a tidal lock with you!\r\n\r\n[Verse 2]\r\nThe radio is quiet, the signal is dead\r\nBut I hear the rhythm inside my head\r\nWe don't need the sun to show us the way\r\nWe left the noise of the terrestrial day\r\nWe're charting the math that they couldn't see\r\nPerfect alignment in the zero-G\r\n\r\n[Pre-Chorus]\r\nThe telemetry is clear tonight\r\nHalf in the shadow, half in the light\r\nI'm caught in the orbit, spinning around\r\nA million miles above the ground\r\n\r\n[Chorus]\r\nAnd I'm in a tidal lock with you!\r\nSuspended in the velvet and the blue\r\nNo matter how I turn, no matter where I fly\r\nYou are the only anchor in my sky\r\nYeah, I'm in a tidal lock with you!\r\n\r\n[Instrumental Spacewalk]\r\n*(Evan steps into the spotlight, playing a melodic, sliding fretless bass solo over Tyler's driving drum beat. Cassidy's analog synths sparkle in the background like passing satellites, creating a lush, unmistakably 80s soundscape.)*\r\n\r\n[Chorus]\r\n'Cause I'm in a tidal lock with you!\r\nSuspended in the velvet and the blue\r\nNo matter how I turn, no matter where I fly\r\nYou are the only anchor in my sky\r\nYeah, I'm in a tidal lock with you!\r\n\r\n[Outro]\r\nHalf in the shadow.\r\nHalf in the light.\r\nTidal lock.\r\n*(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*"
+  },
+  {
+    "id": "01-the-promise-sermon-demo.wav",
+    "title": "The Promise (1989 'Sermon' Demo)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "02-atmosphere-1992-demo.wav",
+    "title": "Atmosphere (1992 Demo)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "03-midnight-drivers.wav",
+    "title": "Midnight Drivers",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "04-ill-be-your-home.wav",
+    "title": "I'll Be Your Home",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "05-harbor-in-the-storm.wav",
+    "title": "Harbor in the Storm",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "06-we-own-the-night.wav",
+    "title": "We Own the Night (Pre-1987 Demo)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/2007-lost-sounds",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-01-overture-of-the-frost",
+    "title": "Overture of the Frost",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": "[Instrumental Intro]\r\n[Symphonic Strings]\r\n\r\n[Heavy Cello Build]\r\n[Rock Drum Beat]\r\n\r\n[Distorted Guitar Entrance]\r\n[Epic Orchestral Drop]\r\n\r\n[Choir]\r\nAhhh, Ohhh\r\nAhhh, Ohhh\r\n\r\n[Massive Symphonic Rock Climax]\r\n[Heavy Rhythm Section]\r\n\r\n[Sudden Stop]\r\n[Lonely Piano Outro]\r\n[Fade to Silence]"
+  },
+  {
+    "id": "1-02-the-false-horizon",
+    "title": "The False Horizon",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": "[Verse 1]\r\nRolling south down Hampton line\r\nTracing the grid inside the mind\r\nThe hospital glass is coming near\r\nThe transfer point is almost here\r\nThe air brakes hiss, the yellow cord is pulled\r\nFollowing the rules, just like we were told\r\n\r\n[Pre-Chorus]\r\nA sudden hand upon the arm\r\nA sweet smile to disarm the alarm\r\nWe're staying on, skipping the door\r\nThere's a little something more\r\n\r\n[Chorus]\r\nLook at the false horizon!\r\nA detour in the master plan!\r\nThe curfew clock begins to fade\r\nJust trying to play the easy hand\r\nIgnore the warnings in the chest\r\nFor a spontaneous request\r\nSwallow the panic, take the lead\r\nInto the emerald greed!\r\n\r\n[Verse 2]\r\nOlney and Granby, stepping in the cold\r\nThis isn't the story we were told\r\nA concrete fortress standing tall\r\nThe diesel fumes, the echoing hall\r\nWayfarer silver, Pathfinder blue\r\nWhat exactly are we going to do?\r\n\r\n[Bridge]\r\nTwo tickets out! Next bus to ride!\r\nRichmond is waiting on the other side!\r\nThe borders break, the tether tears!\r\nThe armor's left upon the stairs!\r\n\r\n[Outro]\r\nA sudden twist, an outstretched hand\r\nWalking blind into the sand\r\nA quiet nod, the closing eyes\r\nThe heavy gate locks on the prize!\r\n(The trap locks shut!)\r\n(The trap locks shut!)\r\n\r\n[Sudden Heavy Orchestral Hit]\r\n[End]"
+  },
+  {
+    "id": "1-03-diesel-and-dust",
+    "title": "Diesel and Dust",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-04-appalachian-shadows",
+    "title": "Appalachian Shadows",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-05-the-nashville-panic",
+    "title": "The Nashville Panic",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-06-a-river-of-iron",
+    "title": "A River of Iron",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-07-the-gateway-arch",
+    "title": "The Gateway Arch",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-08-cold-tile-the-fall",
+    "title": "Cold Tile (The Fall)",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-09-the-longest-shadow",
+    "title": "The Longest Shadow",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-10-midnight-lullaby",
+    "title": "Midnight Lullaby",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-01-the-frozen-plains",
+    "title": "The Frozen Plains",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-02-the-secret-fire",
+    "title": "The Secret Fire",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-03-salt-lake-despair",
+    "title": "Salt Lake Despair",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-04-the-broken-lift",
+    "title": "The Broken Lift",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-05-emerald-city-the-trigger",
+    "title": "Emerald City (The Trigger)",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": "[Verse 1]\r\nLooking through the rain-streaked glass\r\nWaiting for the gray to pass\r\nThey say there's a place where the colors shine\r\nSomewhere past the border line\r\nA quiet dream above the rain\r\nTo wash away the miles of pain\r\n\r\n[Pre-Chorus]\r\nBut the sky turns black and the tires whine\r\nWelcome to the end of the line\r\n\r\n[Chorus]\r\nThe neon burns and the skyline bleeds!\r\nTrapped inside the emerald greed!\r\nThe sepia fades to a blinding light!\r\nSwallowed by the city tonight!\r\nThere is no magic at the end of the road!\r\nJust a heavy, crushing load!\r\n\r\n[Verse 2]\r\nI watched the gray world disappear\r\nBut there is only terror here\r\nThe towering glass and the glowing green\r\nWaking up inside the machine\r\nThe walls are high and the gates are locked\r\nWith every single hour mocked\r\n\r\n[Bridge]\r\nI can't go back, the bridge is burned!\r\nEvery single lesson learned!\r\nThe vibrant colors suffocate!\r\nDriven by a silent fate!\r\n\r\n[Outro]\r\nI just want to go home\r\nI just want to go home\r\nThe emerald light is blinding me\r\nI just want to go home\r\nI just want to go home"
+  },
+  {
+    "id": "2-06-the-rain-in-the-sound",
+    "title": "The Rain in the Sound",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-07-dead-weight",
+    "title": "Dead Weight",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-08-a-house-divided",
+    "title": "A House Divided",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-09-shield-of-empathy",
+    "title": "Shield of Empathy",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-10-the-thaw",
+    "title": "The Thaw",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-01-first-class-sanctuary",
+    "title": "First Class Sanctuary",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-02-above-the-clouds",
+    "title": "Above the Clouds",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-03-descent-into-the-hub",
+    "title": "Descent into the Hub",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-04-the-prismatic-corridor",
+    "title": "The Prismatic Corridor",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-05-blind-faith",
+    "title": "Blind Faith",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-06-gate-c22",
+    "title": "Gate C22",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-07-upon-this-winters-night",
+    "title": "Upon This Winter's Night",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": "\\[Intro]\n(Sudden, heavy driving cello riff enters)\n(Concussive rock drum kit and distorted rhythm guitar crash in)\n\n\\[Verse 1]\n(symphonic rock music backs off to allow glockenspiel to take over the melody)\nThe clock upon the mantel chimes\nReminding me of better times\nThe window pane is frosted white\nI'm searching for a sign tonight\n\n\\[Pre-Chorus]\n(Strings build tension, symphonic rock slowly kicks back in)\nCan you hear me calling?\nCan you see the glow?\nThrough the miles of silence\nAnd the drifting snow?\n\n\\[Chorus]\n(Symphonic Rock detonates with full authority back in at the word Candle)\nSo keep a candle burning bright\nUpon this winter's night\nThough you've wandered far and wide\nTime remains upon your side\nFollow the star, follow the light\nAnd make it home tonight (Make it home tonight!)\n\n\\[Instrumental Break]\n(Dramatic Cello Solo)\n\n\\[Verse 2]\nThe world is cold and full of fear\nBut sanctuary waits in here\nDon't let the shadows steal your way\nDon't listen to the words they say\nThe journey’s hard, the road is steep\nBut promises are yours to keep\nSo lift your head and face the wind\nAnd let the journey home begin\n\n\\[Chorus]\nSo keep a candle burning bright\nUpon this winter's night\nThough you've wandered far and wide\nTime remains upon your side\nFollow the star, follow the light\nAnd make it home tonight\n\n\\[Bridge]\n(Tempo speeds up - Rock Opera style)\n(Male Lead) I’m sending out a prayer!\n(Choir) (Bring him home! Bring him home!)\n(Male Lead) To vanish all despair!\n(Choir) (You are not alone!)\n(Male Lead) No matter where you are No matter how far!\n(Male Lead) Just look to the Northern Star!\n\n\\[Guitar Solo]\n(Soaring, melodic electric guitar solo with orchestral backing)\n\n\\[Chorus]\nSo keep a candle burning bright\nUpon this winter's night\nThough you've wandered far and wide\nTime remains upon your side\nFollow the star, follow the light\nAnd make it home tonight\n\n\\[Outro]\nMake it home tonight...\n(Follow the light...)\nMake it home tonight...\n(Upon this winter's night...)\n\n\\[Big Finish]\n(Orchestral hit) (Symphonic Rock gives way to a music box that is reminiscent of Johannes Brahms's Wiegenlied to finish the song)"
+  },
+  {
+    "id": "3-08-the-anchors-hold",
+    "title": "The Anchor's Hold",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-09-flight-818",
+    "title": "Flight 818",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-10-the-polaris-dawn-finale",
+    "title": "The Polaris Dawn (Finale)",
+    "artist": "The Winter Palace",
+    "album": "Tales from the Solstice",
+    "url": "C:/Program Files/Git/engine-room/artists/the-winter-palace/albums/2007-tales-from-the-solstice",
+    "type": "track",
+    "content": ""
   }
 ]

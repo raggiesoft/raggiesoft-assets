@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 04-20-2026 06:06:17 PM
+* **Generated On:** 06-07-2026 10:50:15 AM
 * **Master File Located At:** ../../wav/1-06-escape-velocity-ad-astra.wav
 
 ## Distribution & AI Disclosure Notes

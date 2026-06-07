@@ -2,6 +2,9 @@
 
 ## Core Track Information
 * **Track Title:** Upon This Winter's Night
+* **Engine Room ID:** ERR-005-2007-307
+* **ISRC:** 
+* **Track Length:** 
 * **Album / Release Title:** Tales from the Solstice
 * **Disc Number:** 3
 * **Track Number:** 7
@@ -11,8 +14,8 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2007
-* **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 04-01-2026 12:35:15 AM
+* **Real-World DSP Release Date:** 2026-06-07
+* **Generated On:** 06-07-2026 11:38:07 AM
 * **Master File Located At:** ../../wav/3-07-upon-this-winters-night.wav
 
 ## Distribution & AI Disclosure Notes

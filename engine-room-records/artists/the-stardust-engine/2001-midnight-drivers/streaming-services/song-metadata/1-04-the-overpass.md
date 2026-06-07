@@ -3,7 +3,7 @@
 ## Core Track Information
 * **Track Title:** The Overpass
 * **Engine Room ID:** ERR-001-2001-104
-* **ISRC:** 
+* **ISRC:** QZWFW2601359
 * **Track Length:** 3:52
 * **Album / Release Title:** Midnight Drivers
 * **Disc Number:** 1
@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-10-30
 * **Real-World DSP Release Date:** 2026-05-01
-* **Generated On:** 05-01-2026 07:17:51 PM
+* **Generated On:** 06-07-2026 11:26:19 AM
 * **Master File Located At:** ../../wav/1-04-the-overpass.wav
 
 ## Distribution & AI Disclosure Notes

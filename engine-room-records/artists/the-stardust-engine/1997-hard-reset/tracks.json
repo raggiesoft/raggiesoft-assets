@@ -11,7 +11,8 @@
       "suiteName": "The Stardust Suite",
       "suiteTrack": 1,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The reclaimed 1987 anthem. Opening movement of The Stardust Suite, kicking down the door to their independent era."
+      "loreNote": "The reclaimed 1987 anthem. Opening movement of The Stardust Suite, kicking down the door to their independent era.",
+      "duration": "4:16"
     },
     {
       "fileName": "1-02-hard-reset",
@@ -24,7 +25,8 @@
       "suiteName": "The Stardust Suite",
       "suiteTrack": 2,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Second movement of The Stardust Suite. A metaphor for surviving the vacuum of true independence after escaping corporate gravity."
+      "loreNote": "Second movement of The Stardust Suite. A metaphor for surviving the vacuum of true independence after escaping corporate gravity.",
+      "duration": "3:44"
     },
     {
       "fileName": "1-03-brand-new-scene",
@@ -37,7 +39,8 @@
       "suiteName": "The Stardust Suite",
       "suiteTrack": 3,
       "legacyTier": "Deep Cut",
-      "loreNote": "The resolved, peaceful conclusion to The Stardust Suite. The sound of an engine humming perfectly in the open vacuum."
+      "loreNote": "The resolved, peaceful conclusion to The Stardust Suite. The sound of an engine humming perfectly in the open vacuum.",
+      "duration": "4:46"
     },
     {
       "fileName": "1-04-static-on-the-dial",
@@ -48,7 +51,8 @@
       "discName": "Terrestrial Velocity",
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "A quintessential driving anthem about the freedom of the open road, cementing them as a unified rock band."
+      "loreNote": "A quintessential driving anthem about the freedom of the open road, cementing them as a unified rock band.",
+      "duration": "4:02"
     },
     {
       "fileName": "1-05-the-family",
@@ -59,7 +63,8 @@
       "discName": "Terrestrial Velocity",
       "track": 5,
       "legacyTier": "Fan Anthem",
-      "loreNote": "A pure 1980s rock anthem dedicated to their survival, canonizing manager Holly O'Connell as the architect of their family."
+      "loreNote": "A pure 1980s rock anthem dedicated to their survival, canonizing manager Holly O'Connell as the architect of their family.",
+      "duration": "4:43"
     },
     {
       "fileName": "1-06-Inertia-unstoppable",
@@ -70,7 +75,8 @@
       "discName": "Terrestrial Velocity",
       "track": 6,
       "legacyTier": "Deep Cut",
-      "loreNote": "A high-BPM translation of Newtonian physics into a driving rock anthem, celebrating their unstoppable forward momentum."
+      "loreNote": "A high-BPM translation of Newtonian physics into a driving rock anthem, celebrating their unstoppable forward momentum.",
+      "duration": "4:27"
     },
     {
       "fileName": "1-07-thunderhead",
@@ -81,7 +87,8 @@
       "discName": "Terrestrial Velocity",
       "track": 7,
       "legacyTier": "Deep Cut",
-      "loreNote": "A slow, thunderous, sludgy arena-rock track aimed directly at the pristine, over-produced sound of their Apex Records days."
+      "loreNote": "A slow, thunderous, sludgy arena-rock track aimed directly at the pristine, over-produced sound of their Apex Records days.",
+      "duration": "6:02"
     },
     {
       "fileName": "1-08-redline",
@@ -92,7 +99,8 @@
       "discName": "Terrestrial Velocity",
       "track": 8,
       "legacyTier": "Deep Cut",
-      "loreNote": "A frantic, technically demanding duel between Ryan's guitar and Cassidy's synth, pushing the band to the absolute edge of control."
+      "loreNote": "A frantic, technically demanding duel between Ryan's guitar and Cassidy's synth, pushing the band to the absolute edge of control.",
+      "duration": "3:32"
     },
     {
       "fileName": "1-09-echoes-in-the-wire",
@@ -103,7 +111,8 @@
       "discName": "Terrestrial Velocity",
       "track": 9,
       "legacyTier": "Chart Smash",
-      "loreNote": "Replaced the traumatic 'If You Walked Away.' An 80s power ballad transforming past anxiety into a triumphant celebration of unity."
+      "loreNote": "Replaced the traumatic 'If You Walked Away.' An 80s power ballad transforming past anxiety into a triumphant celebration of unity.",
+      "duration": "4:41"
     },
     {
       "fileName": "1-10-my-anchor-the-sail",
@@ -114,7 +123,8 @@
       "discName": "Terrestrial Velocity",
       "track": 10,
       "legacyTier": "Fan Anthem",
-      "loreNote": "A rewrite of their 1987 hit, shedding codependency for equality. A massive power ballad sailing into their Freedom Era."
+      "loreNote": "A rewrite of their 1987 hit, shedding codependency for equality. A massive power ballad sailing into their Freedom Era.",
+      "duration": "3:51"
     },
     {
       "fileName": "2-01-apoapsis",
@@ -127,7 +137,8 @@
       "suiteName": "The Apoapsis Suite",
       "suiteTrack": 1,
       "legacyTier": "Deep Cut",
-      "loreNote": "First movement of The Apoapsis Suite. A pure ambient synth-rock instrumental representing the silent, zero-gravity vacuum of space."
+      "loreNote": "First movement of The Apoapsis Suite. A pure ambient synth-rock instrumental representing the silent, zero-gravity vacuum of space.",
+      "duration": "5:21"
     },
     {
       "fileName": "2-02-second-apoapsis",
@@ -140,7 +151,8 @@
       "suiteName": "The Apoapsis Suite",
       "suiteTrack": 2,
       "legacyTier": "Deep Cut",
-      "loreNote": "Unbroken continuation of Apoapsis. Introduces the cinematic tension of deep-space exploration, building to a towering crescendo."
+      "loreNote": "Unbroken continuation of Apoapsis. Introduces the cinematic tension of deep-space exploration, building to a towering crescendo.",
+      "duration": "3:41"
     },
     {
       "fileName": "2-03-the-spectrum-true-color",
@@ -153,7 +165,8 @@
       "suiteName": "The Apoapsis Suite",
       "suiteTrack": 3,
       "legacyTier": "Deep Cut",
-      "loreNote": "The 7-minute finale to the suite. A sprawling, cosmic reimagining of their 1987 corporate pop hit, 'Electric Color'."
+      "loreNote": "The 7-minute finale to the suite. A sprawling, cosmic reimagining of their 1987 corporate pop hit, 'Electric Color'.",
+      "duration": "7:54"
     },
     {
       "fileName": "2-04-moon-1-tidal-lock",
@@ -164,7 +177,8 @@
       "discName": "The Twin Moons",
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "Cassidy's masterpiece of 80s Cosmic Pop. Uses a tidal lock as a gorgeous metaphor for unwavering loyalty."
+      "loreNote": "Cassidy's masterpiece of 80s Cosmic Pop. Uses a tidal lock as a gorgeous metaphor for unwavering loyalty.",
+      "duration": "5:29"
     },
     {
       "fileName": "2-05-moon-2-roche-limit",
@@ -175,7 +189,8 @@
       "discName": "The Twin Moons",
       "track": 5,
       "legacyTier": "Deep Cut",
-      "loreNote": "Ryan's dark, aggressive rock counterpart to Tidal Lock, using the Roche limit to describe a toxic, fatal attraction."
+      "loreNote": "Ryan's dark, aggressive rock counterpart to Tidal Lock, using the Roche limit to describe a toxic, fatal attraction.",
+      "duration": "4:15"
     },
     {
       "fileName": "2-06-escape-velocity-ad-astra",
@@ -186,7 +201,8 @@
       "discName": "The Twin Moons",
       "track": 6,
       "legacyTier": "Fan Anthem",
-      "loreNote": "Cassidy's 15-minute autobiographical progressive rock epic. Later used as coded rebel transmissions in the 2017 sci-fi film K.N.O.X."
+      "loreNote": "Cassidy's 15-minute autobiographical progressive rock epic. Later used as coded rebel transmissions in the 2017 sci-fi film K.N.O.X.",
+      "duration": "15:33"
     }
   ]
 }

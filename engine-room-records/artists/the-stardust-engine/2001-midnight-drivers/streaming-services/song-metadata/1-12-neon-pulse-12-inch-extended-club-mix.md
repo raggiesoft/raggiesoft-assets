@@ -3,7 +3,7 @@
 ## Core Track Information
 * **Track Title:** Neon Pulse (12" Extended Club Mix)
 * **Engine Room ID:** ERR-001-2001-112
-* **ISRC:** 
+* **ISRC:** QZWFW2601367
 * **Track Length:** 5:06
 * **Album / Release Title:** Midnight Drivers
 * **Disc Number:** 1
@@ -15,7 +15,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-10-30
 * **Real-World DSP Release Date:** 2026-05-01
-* **Generated On:** 05-01-2026 07:17:51 PM
+* **Generated On:** 06-07-2026 11:26:19 AM
 * **Master File Located At:** ../../wav/1-12-neon-pulse-12-inch-extended-club-mix.wav
 
 ## Distribution & AI Disclosure Notes
