@@ -148,16 +148,23 @@ async function navigateTo(url, pushState = true) {
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            // The Edge/Chromium Nuclear Option: Double frame wait
-            requestAnimationFrame(() => {
-                requestAnimationFrame(() => {
-                    // Force an instant, hard snap to the top
-                    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                    
-                    // Dispatch the event after the scroll is guaranteed
-                    document.dispatchEvent(new CustomEvent('elara:loaded'));
-                });
-            });  
+            // THE SLEDGEHAMMER: Defeat Edge's layout thrashing
+            setTimeout(() => {
+                // 1. Tell the window to snap instantly
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                
+                // 2. Overwrite the scroll position on the root document node
+                document.documentElement.scrollTop = 0;
+                
+                // 3. Overwrite the scroll position on the body node
+                document.body.scrollTop = 0;
+                
+                // 4. Physically force the body to the top of the viewport
+                document.body.scrollIntoView({ behavior: 'instant', block: 'start' });
+
+                // Dispatch the event ONLY when the dust has settled
+                document.dispatchEvent(new CustomEvent('elara:loaded'));
+            }, 15); // 15ms is the magic number to outlast the Chromium paint cycle
 
         } else {
             window.location.href = url;
