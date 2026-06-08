@@ -4,8 +4,11 @@
 * **Track Title:** The Silent Storm
 * **Engine Room ID:** ERR-002-1983-109
 * **ISRC:** QZWFJ2690394
+* **Album UPC / GTIN-12:** 825393798187
 * **Track Length:** 4:59
 * **Album / Release Title:** Carnaby Street
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 9
 * **Primary Artist (Release Persona):** Fractured Prisms
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1983-10-03
 * **Real-World DSP Release Date:** 2026-04-17
-* **Generated On:** 06-07-2026 10:00:57 AM
+* **Generated On:** 06-07-2026 07:39:27 PM
 * **Master File Located At:** ../../wav/1-09-the-silent-storm.wav
 
 ## Distribution & AI Disclosure Notes

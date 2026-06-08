@@ -4,8 +4,11 @@
 * **Track Title:** Static on the Wire (Instrumental B-Side)
 * **Engine Room ID:** ERR-001-2001-113
 * **ISRC:** QZWFW2601368
+* **Album UPC / GTIN-12:** 825324114857
 * **Track Length:** 3:07
 * **Album / Release Title:** Midnight Drivers
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 13
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-10-30
 * **Real-World DSP Release Date:** 2026-05-01
-* **Generated On:** 06-07-2026 11:26:19 AM
+* **Generated On:** 06-07-2026 05:15:48 PM
 * **Master File Located At:** ../../wav/1-13-static-on-the-wire-instrumental-b-side.wav
 
 ## Distribution & AI Disclosure Notes

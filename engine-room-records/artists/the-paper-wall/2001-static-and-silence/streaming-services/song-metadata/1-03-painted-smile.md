@@ -4,8 +4,11 @@
 * **Track Title:** Painted Smile
 * **Engine Room ID:** ERR-003-2001-103
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 5:23
 * **Album / Release Title:** Static & Silence
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Paper Wall
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 10:08:59 AM
+* **Generated On:** 06-07-2026 07:48:01 PM
 * **Master File Located At:** ../../wav/1-03-painted-smile.wav
 
 ## Distribution & AI Disclosure Notes

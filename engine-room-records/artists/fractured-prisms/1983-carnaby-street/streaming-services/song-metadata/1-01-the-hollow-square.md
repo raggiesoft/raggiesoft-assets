@@ -4,8 +4,11 @@
 * **Track Title:** The Hollow Square
 * **Engine Room ID:** ERR-002-1983-101
 * **ISRC:** QZWFJ2690386
+* **Album UPC / GTIN-12:** 825393798187
 * **Track Length:** 4:49
 * **Album / Release Title:** Carnaby Street
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** Fractured Prisms
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1983-10-03
 * **Real-World DSP Release Date:** 2026-04-17
-* **Generated On:** 06-07-2026 10:00:57 AM
+* **Generated On:** 06-07-2026 07:39:27 PM
 * **Master File Located At:** ../../wav/1-01-the-hollow-square.wav
 
 ## Distribution & AI Disclosure Notes

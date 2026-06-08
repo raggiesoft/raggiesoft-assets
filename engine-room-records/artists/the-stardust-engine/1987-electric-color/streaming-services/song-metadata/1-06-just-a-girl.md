@@ -4,8 +4,11 @@
 * **Track Title:** Just a Girl
 * **Engine Room ID:** ERR-001-1987-106
 * **ISRC:** QZTB52600724
+* **Album UPC / GTIN-12:** 825628586596
 * **Track Length:** 3:01
 * **Album / Release Title:** Electric Color
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 6
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 06-07-2026 10:30:15 AM
+* **Generated On:** 06-07-2026 08:12:05 PM
 * **Master File Located At:** ../../wav/1-06-just-a-girl.wav
 
 ## Distribution & AI Disclosure Notes

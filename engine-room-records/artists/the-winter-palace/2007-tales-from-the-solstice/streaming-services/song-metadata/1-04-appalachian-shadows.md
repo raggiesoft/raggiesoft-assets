@@ -4,8 +4,11 @@
 * **Track Title:** Appalachian Shadows
 * **Engine Room ID:** ERR-005-2007-104
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Album / Release Title:** Tales from the Solstice
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** The Winter Palace
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2007
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 11:38:07 AM
+* **Generated On:** 06-07-2026 05:27:21 PM
 * **Master File Located At:** ../../wav/1-04-appalachian-shadows.wav
 
 ## Distribution & AI Disclosure Notes

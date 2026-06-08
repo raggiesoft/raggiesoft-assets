@@ -4,8 +4,11 @@
 * **Track Title:** I'll Be Your Home
 * **Engine Room ID:** ERR-999--104
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Album / Release Title:** 
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** 
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 11:37:56 AM
+* **Generated On:** 06-07-2026 05:27:11 PM
 * **Master File Located At:** ../../wav/04-ill-be-your-home.wav.wav
 
 ## Distribution & AI Disclosure Notes

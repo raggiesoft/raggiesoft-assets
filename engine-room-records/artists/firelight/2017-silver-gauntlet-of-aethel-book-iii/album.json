@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "Firelight"
   },
-  "albumProductionType": "https://schema.org/SoundtrackAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "SoundtrackAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Soundtrack / 80s Rock / Orchestral",
   "datePublished": "2026-05-08",
   "temporalCoverage": "2017-11-21",

@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "The Stardust Engine: Live in Chicago",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "https://schema.org/LiveAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
   "datePublished": "2026-04-01",
   "temporalCoverage": "1990",
   "publisher": {

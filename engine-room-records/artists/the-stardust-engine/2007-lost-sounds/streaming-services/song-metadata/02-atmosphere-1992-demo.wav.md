@@ -4,8 +4,11 @@
 * **Track Title:** Atmosphere (1992 Demo)
 * **Engine Room ID:** ERR-999--102
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Album / Release Title:** 
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 2
 * **Primary Artist (Release Persona):** 
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 11:37:56 AM
+* **Generated On:** 06-07-2026 05:27:11 PM
 * **Master File Located At:** ../../wav/02-atmosphere-1992-demo.wav.wav
 
 ## Distribution & AI Disclosure Notes

@@ -4,8 +4,11 @@
 * **Track Title:** My Anchor Holds (Live in Chicago)
 * **Engine Room ID:** ERR-001-1990-106
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:18
 * **Album / Release Title:** The Stardust Engine: Live in Chicago
+* **Release Type:** AlbumRelease
+* **Production Type:** LiveAlbum
 * **Disc Number:** 1
 * **Track Number:** 6
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1990
 * **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 06-07-2026 10:45:19 AM
+* **Generated On:** 06-07-2026 08:29:08 PM
 * **Master File Located At:** ../../wav/1-06-my-anchor-holds-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

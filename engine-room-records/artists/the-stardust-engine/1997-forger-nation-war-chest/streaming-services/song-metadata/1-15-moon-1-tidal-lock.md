@@ -4,8 +4,11 @@
 * **Track Title:** Moon 1 (Tidal Lock)
 * **Engine Room ID:** ERR-001-1997-115
 * **ISRC:** QZTB92611796
+* **Album UPC / GTIN-12:** 825417256518
 * **Track Length:** 5:29
 * **Album / Release Title:** Forger Nation War Chest
+* **Release Type:** AlbumRelease
+* **Production Type:** CompilationAlbum
 * **Disc Number:** 1
 * **Track Number:** 15
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997
 * **Real-World DSP Release Date:** 2026-04-14
-* **Generated On:** 06-07-2026 11:03:13 AM
+* **Generated On:** 06-07-2026 08:48:28 PM
 * **Master File Located At:** ../../wav/1-15-moon-1-tidal-lock.wav
 
 ## Distribution & AI Disclosure Notes

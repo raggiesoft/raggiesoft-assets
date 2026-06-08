@@ -4,8 +4,11 @@
 * **Track Title:** Dancing in the Neon
 * **Engine Room ID:** ERR-001-1987-104
 * **ISRC:** QZTB52600722
+* **Album UPC / GTIN-12:** 825628586596
 * **Track Length:** 2:24
 * **Album / Release Title:** Electric Color
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 06-07-2026 10:30:15 AM
+* **Generated On:** 06-07-2026 08:12:05 PM
 * **Master File Located At:** ../../wav/1-04-dancing-in-the-neon.wav
 
 ## Distribution & AI Disclosure Notes

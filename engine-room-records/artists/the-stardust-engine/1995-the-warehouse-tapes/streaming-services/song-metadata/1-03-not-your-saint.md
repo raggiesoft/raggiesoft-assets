@@ -4,8 +4,11 @@
 * **Track Title:** Not Your Saint
 * **Engine Room ID:** ERR-001-1995-103
 * **ISRC:** QZTB92611633
+* **Album UPC / GTIN-12:** 825626429581
 * **Track Length:** 2:59
 * **Album / Release Title:** The Warehouse Tapes
+* **Release Type:** EPRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1995-10-03
 * **Real-World DSP Release Date:** 2026-04-02
-* **Generated On:** 06-07-2026 10:50:15 AM
+* **Generated On:** 06-07-2026 08:34:27 PM
 * **Master File Located At:** ../../wav/1-03-not-your-saint.wav
 
 ## Distribution & AI Disclosure Notes

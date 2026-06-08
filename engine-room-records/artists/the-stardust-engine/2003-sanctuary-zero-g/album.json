@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Sanctuary (Zero-G)",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Atmospheric Synth-Pop / Ambient / Space Rock",
   "datePublished": "",
   "temporalCoverage": "2003-10-10",

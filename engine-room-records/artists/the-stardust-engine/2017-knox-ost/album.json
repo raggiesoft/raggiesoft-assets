@@ -1,6 +1,25 @@
 {
-  "albumName": "Knox (Original Soundtrack)",
-  "albumArtist": "The Stardust Engine",
-  "narrativeReleaseDate": "2017",
-  "genre": "Industrial / Score"
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Knox (Original Soundtrack)",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "SoundtrackAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Industrial / Score",
+  "datePublished": "",
+  "temporalCoverage": "2017",
+  "description": "The official industrial score and sonic backdrop for the Project: KNOX narrative universe.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release"
 }

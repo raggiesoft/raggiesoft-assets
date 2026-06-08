@@ -4,8 +4,11 @@
 * **Track Title:** Chain Reaction
 * **Engine Room ID:** ERR-001-1989-106
 * **ISRC:** QZTBA2678355
+* **Album UPC / GTIN-12:** 825626667310
 * **Track Length:** 4:01
 * **Album / Release Title:** Neon Hearts
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 6
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 06-07-2026 10:38:05 AM
+* **Generated On:** 06-07-2026 08:20:50 PM
 * **Master File Located At:** ../../wav/1-06-chain-reaction.wav
 
 ## Distribution & AI Disclosure Notes

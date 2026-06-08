@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "The Warehouse Tapes",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/EPRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "EPRelease",
   "genre": "80s Rock",
   "datePublished": "2026-04-02",
   "temporalCoverage": "1995-10-03",

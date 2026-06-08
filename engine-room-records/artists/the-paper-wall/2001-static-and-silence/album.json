@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Static & Silence",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Paper Wall"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Rock Opera / Industrial / 80s Pop",
   "datePublished": "",
   "temporalCoverage": "2001-11-20",

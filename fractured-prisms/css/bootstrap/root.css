@@ -52,3 +52,26 @@ body, .navbar, .card, .btn, .list-group-item {
     --bs-light: #1a1a24; 
     --bs-dark: #f8f9fa; 
 }
+/* Add to root.css */
+
+:root, [data-bs-theme="dark"] {
+    /* Artifact Paper (Dark Mode / Default) */
+    --prism-artifact-bg: #dcdcd5;
+    --prism-artifact-color: #111111;
+    --prism-artifact-muted: #333333;
+    --prism-artifact-border: #6c757d;
+}
+
+[data-bs-theme="light"] {
+    /* Base theme overrides for Light Mode */
+    --bs-bg-prism: #f4f4f9;
+    --bs-border-prism: rgba(177, 156, 217, 0.8);
+    --bs-body-bg: var(--bs-bg-prism);
+    --bs-body-color: #212529;
+    
+    /* Artifact Paper (Light Mode) */
+    --prism-artifact-bg: #fdfdf8;
+    --prism-artifact-color: #212529;
+    --prism-artifact-muted: #495057;
+    --prism-artifact-border: #adb5bd;
+}

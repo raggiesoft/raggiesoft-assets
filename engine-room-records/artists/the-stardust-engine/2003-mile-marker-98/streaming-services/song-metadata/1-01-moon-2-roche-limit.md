@@ -4,8 +4,11 @@
 * **Track Title:** Moon 2 (Roche Limit)
 * **Engine Room ID:** ERR-001-2003-101
 * **ISRC:** QZTBE2640384
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:15
 * **Album / Release Title:** Mile Marker 98
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2003-10-10
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 11:35:25 AM
+* **Generated On:** 06-07-2026 05:24:45 PM
 * **Master File Located At:** ../../wav/1-01-moon-2-roche-limit.wav
 
 ## Distribution & AI Disclosure Notes

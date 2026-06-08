@@ -4,8 +4,11 @@
 * **Track Title:** Hall of Shattered Heroes
 * **Engine Room ID:** ERR-004-2017-302
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Album / Release Title:** The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins (Original Motion Picture Soundtrack)
+* **Release Type:** AlbumRelease
+* **Production Type:** SoundtrackAlbum
 * **Disc Number:** 3
 * **Track Number:** 2
 * **Primary Artist (Release Persona):** Firelight
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-05-08
-* **Generated On:** 06-07-2026 09:59:12 AM
+* **Generated On:** 06-07-2026 07:37:38 PM
 * **Master File Located At:** ../../wav/3-02-hall-of-shattered-heroes.wav
 
 ## Distribution & AI Disclosure Notes

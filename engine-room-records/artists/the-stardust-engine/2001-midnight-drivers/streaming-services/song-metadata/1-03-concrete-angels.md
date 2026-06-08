@@ -4,8 +4,11 @@
 * **Track Title:** Concrete Angels
 * **Engine Room ID:** ERR-001-2001-103
 * **ISRC:** QZWFW2601358
+* **Album UPC / GTIN-12:** 825324114857
 * **Track Length:** 4:32
 * **Album / Release Title:** Midnight Drivers
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-10-30
 * **Real-World DSP Release Date:** 2026-05-01
-* **Generated On:** 06-07-2026 11:26:19 AM
+* **Generated On:** 06-07-2026 05:15:48 PM
 * **Master File Located At:** ../../wav/1-03-concrete-angels.wav
 
 ## Distribution & AI Disclosure Notes

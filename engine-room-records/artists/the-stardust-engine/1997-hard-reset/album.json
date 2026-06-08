@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Hard Reset",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "80s Arena Rock / Progressive Pop",
   "datePublished": "2026-04-05",
   "temporalCoverage": "1997-11-18",

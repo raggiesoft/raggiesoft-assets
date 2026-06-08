@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Carnaby Street",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "Fractured Prisms"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Progressive Rock / Art Pop",
   "datePublished": "2026-04-17",
   "temporalCoverage": "1983-10-03",

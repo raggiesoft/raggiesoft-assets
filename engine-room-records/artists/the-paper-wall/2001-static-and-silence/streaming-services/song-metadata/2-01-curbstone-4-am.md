@@ -4,8 +4,11 @@
 * **Track Title:** Curbstone, 4 AM
 * **Engine Room ID:** ERR-003-2001-201
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 6:01
 * **Album / Release Title:** Static & Silence
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 2
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Paper Wall
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 10:08:59 AM
+* **Generated On:** 06-07-2026 07:48:01 PM
 * **Master File Located At:** ../../wav/2-01-curbstone-4-am.wav
 
 ## Distribution & AI Disclosure Notes

@@ -4,8 +4,11 @@
 * **Track Title:** My Anchor (The Sail)
 * **Engine Room ID:** ERR-001-1997-110
 * **ISRC:** QZTBE2640380
+* **Album UPC / GTIN-12:** 825486792528
 * **Track Length:** 3:51
 * **Album / Release Title:** Hard Reset
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 10
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 06-07-2026 11:14:41 AM
+* **Generated On:** 06-07-2026 05:03:46 PM
 * **Master File Located At:** ../../wav/1-10-my-anchor-the-sail.wav
 
 ## Distribution & AI Disclosure Notes

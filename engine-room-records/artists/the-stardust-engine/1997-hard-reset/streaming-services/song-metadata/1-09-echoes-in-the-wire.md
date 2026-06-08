@@ -4,8 +4,11 @@
 * **Track Title:** Echoes in the Wire
 * **Engine Room ID:** ERR-001-1997-109
 * **ISRC:** QZTB92611797
+* **Album UPC / GTIN-12:** 825486792528
 * **Track Length:** 4:41
 * **Album / Release Title:** Hard Reset
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 9
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 06-07-2026 11:14:41 AM
+* **Generated On:** 06-07-2026 05:03:46 PM
 * **Master File Located At:** ../../wav/1-09-echoes-in-the-wire.wav
 
 ## Distribution & AI Disclosure Notes

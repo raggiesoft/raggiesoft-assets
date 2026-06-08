@@ -4,8 +4,11 @@
 * **Track Title:** Static on the Dial
 * **Engine Room ID:** ERR-001-1997-104
 * **ISRC:** QZTBE2640377
+* **Album UPC / GTIN-12:** 825486792528
 * **Track Length:** 4:02
 * **Album / Release Title:** Hard Reset
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 4
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 06-07-2026 11:14:41 AM
+* **Generated On:** 06-07-2026 09:00:50 PM
 * **Master File Located At:** ../../wav/1-04-static-on-the-dial.wav
 
 ## Distribution & AI Disclosure Notes

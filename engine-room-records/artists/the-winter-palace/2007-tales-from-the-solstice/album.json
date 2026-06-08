@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Tales from the Solstice",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Winter Palace"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Symphonic Rock / Rock Opera / Holiday",
   "datePublished": "",
   "temporalCoverage": "2007",

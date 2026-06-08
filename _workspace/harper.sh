@@ -1,13 +1,13 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v21.3 - Schema.org & Track Length Integration) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.5 - B2B License & Chrono Update) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
 # Harper is the heavy lifter. She recursively scans the workspace for tracks.json.
 # Pulls pristine master audio from the centralized Artist Vault (master-wav/).
 # Uses ffprobe to calculate exact track runtimes for metadata sheets.
-# NEW: Injects those calculated track runtimes back into tracks.json for persistence.
+# Injects those calculated track runtimes back into tracks.json for persistence.
 # Parses ISRC codes and Suite Logic for DDEX and Archive Readmes.
 # Generates universal ERR-ID tracking numbers for the Master Catalog.
 # Compiles the Tri-State DSP Status (Released, Pending, Vault Exclusive).
@@ -17,11 +17,17 @@
 # Binds individual lyric markdown files into a master album-level markdown booklet.
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
-# NEW: Parses Schema.org standard JSON-LD properties from album.json.
+# Deep parses Schema.org standard JSON-LD properties (UPC, Production & Release Types) from album.json.
+# NEW: Session timing added (12-hour format) and licensing tags updated to RaggieSoft Media B2B portal.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v21.3)... Let's hit the Vault!"
+# --- RECORD START TIME ---
+START_EPOCH=$(date +%s)
+START_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
+
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.5)... Let's hit the Vault!"
+echo "   ⏰ Session Started: $START_TIME_STR"
 
 # Define Root relative to script location
 WORKSPACE_DIR=$(dirname "$0")
@@ -139,7 +145,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         continue
     fi
 
-    # Parse Album Data (SCHEMA.ORG INTEGRATION)
+    # Parse Album Data (DEEP SCHEMA.ORG INTEGRATION)
     ALBUM_ARTIST=$(jq -r '.byArtist.name // empty' "$ALBUM_JSON")
     ALBUM_NAME=$(jq -r '.name // empty' "$ALBUM_JSON")
     GENRE=$(jq -r '.genre // empty' "$ALBUM_JSON")
@@ -149,6 +155,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     
     NARRATIVE_DATE=$(jq -r '.temporalCoverage // empty' "$ALBUM_JSON")
     REAL_RELEASE_DATE=$(jq -r '.datePublished // empty' "$ALBUM_JSON")
+
+    # New Schema.org Properties
+    ALBUM_UPC=$(jq -r '.gtin12 // .identifier // empty' "$ALBUM_JSON")
+    ALBUM_PRODUCTION=$(jq -r '.albumProductionType // "StudioAlbum"' "$ALBUM_JSON")
+    ALBUM_RELEASE=$(jq -r '.albumReleaseType // "AlbumRelease"' "$ALBUM_JSON")
     
     # Fallback to today if realReleaseDate is missing or set to standard schema blanks
     if [ -z "$REAL_RELEASE_DATE" ]; then REAL_RELEASE_DATE=$(date +"%Y-%m-%d"); fi
@@ -220,12 +231,13 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         echo "  Published by Engine Room Records"
         echo "=================================================================="
         echo "Genre: $GENRE"
+        if [ -n "$ALBUM_UPC" ]; then echo "UPC / Barcode: $ALBUM_UPC"; fi
         echo "Label Website: https://engineroom-records.com"
         echo "Album URL: https://raggiesoft.com$WEB_URL"
         echo ""
         echo "LICENSE & COPYRIGHT:"
         echo "This work is licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)."
-        echo "Full License Details: https://raggiesoft.com/about/license"
+        echo "Full License Details: https://raggiesoftmedia.com/licensing"
         echo "Copyright (c) $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft."
         echo ""
         echo "TRACKLIST:"
@@ -257,7 +269,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         
         echo "      🎙️  HARPER: Checking Track $TRACK_NUM - '$TITLE'..."
 
-        # --- HARPER v21.2: MASTER CATALOG & ERR-ID LOGIC ---
+        # --- HARPER v21.4: MASTER CATALOG & ERR-ID LOGIC ---
         MASTER_WAV_PATH=$(echo "$track_json" | jq -r '.masterWavPath // empty')
         ISRC_CODE=$(echo "$track_json" | jq -r '.isrc // empty')
         DSP_STATUS_OVERRIDE=$(echo "$track_json" | jq -r '.dspStatus // empty')
@@ -291,6 +303,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         jq -n -c \
             --arg err_id "$ERR_ID" \
             --arg isrc "$ISRC_CODE" \
+            --arg upc "$ALBUM_UPC" \
             --arg title "$TITLE" \
             --arg artist "$ALBUM_ARTIST" \
             --arg slug "$ARTIST_SLUG" \
@@ -304,6 +317,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             '{
                 err_id: $err_id, 
                 isrc: $isrc, 
+                albumUPC: $upc,
                 trackTitle: $title, 
                 albumTitle: $album, 
                 artistPersona: $artist,
@@ -376,8 +390,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 * **Track Title:** $TITLE
 * **Engine Room ID:** $ERR_ID
 * **ISRC:** $ISRC_CODE
+* **Album UPC / GTIN-12:** ${ALBUM_UPC:-None}
 * **Track Length:** $RUNTIME
 * **Album / Release Title:** $ALBUM_NAME
+* **Release Type:** $ALBUM_RELEASE
+* **Production Type:** $ALBUM_PRODUCTION
 * **Disc Number:** $DISC_NUM
 * **Track Number:** $TRACK_NUM
 * **Primary Artist (Release Persona):** $ALBUM_ARTIST
@@ -450,7 +467,7 @@ EOF
                 -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
                 -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
                 -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+                -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
                 "vault/mp3/$FILE_BASE.mp3"
             else
                 echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
@@ -464,7 +481,7 @@ EOF
                 -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
                 -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
                 -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                -metadata comment="Premium Archive | Licensing: https://raggiesoft.com/about/license" \
+                -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
                 "vault/ogg/$FILE_BASE.ogg"
             else
                 echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
@@ -617,8 +634,18 @@ else
     rm -f "$TEMP_CATALOG_INDEX"
 fi
 
+# --- RECORD END TIME & DURATION ---
+END_EPOCH=$(date +%s)
+END_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
+DURATION_SEC=$((END_EPOCH - START_EPOCH))
+DURATION_MIN=$((DURATION_SEC / 60))
+DURATION_REM_SEC=$((DURATION_SEC % 60))
+
 if [ "$METADATA_ONLY" = true ]; then
     echo "🎧 HARPER: Session complete! Metadata repacked and ready for the distro network."
 else
     echo "🎧 HARPER: Session complete! The radio edits are public, and the master tapes are locked in the vault."
 fi
+
+echo "   ⏰ Session Ended: $END_TIME_STR"
+echo "   ⏱️  Total Processing Time: ${DURATION_MIN}m ${DURATION_REM_SEC}s"

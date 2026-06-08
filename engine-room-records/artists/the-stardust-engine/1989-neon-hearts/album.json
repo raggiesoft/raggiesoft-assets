@@ -1,13 +1,16 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Neon Hearts",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "https://schema.org/StudioAlbum",
-  "albumReleaseType": "https://schema.org/AlbumRelease",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "80s Synth-Pop",
   "datePublished": "2026-03-31",
   "temporalCoverage": "1989-04-18",

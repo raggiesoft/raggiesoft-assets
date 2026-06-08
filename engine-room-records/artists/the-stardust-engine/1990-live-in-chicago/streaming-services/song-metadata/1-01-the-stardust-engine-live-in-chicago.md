@@ -4,8 +4,11 @@
 * **Track Title:** The Stardust Engine (Live in Chicago)
 * **Engine Room ID:** ERR-001-1990-101
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:39
 * **Album / Release Title:** The Stardust Engine: Live in Chicago
+* **Release Type:** AlbumRelease
+* **Production Type:** LiveAlbum
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1990
 * **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 06-07-2026 10:45:19 AM
+* **Generated On:** 06-07-2026 08:29:08 PM
 * **Master File Located At:** ../../wav/1-01-the-stardust-engine-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

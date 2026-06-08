@@ -4,8 +4,11 @@
 * **Track Title:** Atmosphere (1992 Demo)
 * **Engine Room ID:** ERR-001-1996-103
 * **ISRC:** QZTB62697618
+* **Album UPC / GTIN-12:** 825486804399
 * **Track Length:** 5:01
 * **Album / Release Title:** Escape Velocity (Ad Astra)
+* **Release Type:** EPRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 3
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1996-07-16
 * **Real-World DSP Release Date:** 2026-04-03
-* **Generated On:** 06-07-2026 10:57:15 AM
+* **Generated On:** 06-07-2026 08:42:07 PM
 * **Master File Located At:** ../../wav/1-03-atmosphere-warehouse-demo.wav
 
 ## Distribution & AI Disclosure Notes

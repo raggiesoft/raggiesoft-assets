@@ -328,6 +328,37 @@ function do_push() {
     echo "👱‍♀️ JENNA: Shipping it! Message: \"$COMMIT_MSG\""
     echo "          $CONNECTION_MSG"
 
+    # =========================================================
+    # --- PRE-FLIGHT: MEET EMILY (THE COMPILED ROUTER) ---
+    # =========================================================
+    echo "   [Pre-Flight] Waking up Emily (Compiling Elara's Brain)..."
+    
+    DATA_DIR="$HUB_ROOT/data"
+    ROUTES_DIR="$DATA_DIR/routes"
+    SETTINGS_FILE="$DATA_DIR/settings.json"
+    TEMP_ROUTES="$DATA_DIR/temp_routes.json"
+    EMILY_FILE="$DATA_DIR/emily.json"
+    
+    if [ -d "$ROUTES_DIR" ] && [ -f "$SETTINGS_FILE" ]; then
+        # 1. Safely find and merge all route fragments into a single temporary JSON object.
+        # jq reads the concatenated text stream, slurps it into an array (-s), and merges it ('add').
+        find "$ROUTES_DIR" -type f -name "*.json" -exec cat {} + | jq -s 'add' > "$TEMP_ROUTES"
+        
+        # 2. Combine settings.json and the merged routes into the master emily.json file.
+        # The -c flag strictly minifies the output to save space and reduce server disk I/O.
+        jq -c -s '{settings: .[0], routes: .[1]}' "$SETTINGS_FILE" "$TEMP_ROUTES" > "$EMILY_FILE"
+        
+        # 3. Clean up the temporary file
+        rm "$TEMP_ROUTES"
+        
+        # Calculate file count for the console output
+        ROUTE_COUNT=$(find "$ROUTES_DIR" -type f -name "*.json" | wc -l | tr -d '[:space:]')
+        echo "      ✓ Emily is online. Merged settings and $ROUTE_COUNT route fragments into emily.json"
+    else
+        echo "      ⚠️  Missing data/routes directory or settings.json! Emily compilation aborted."
+    fi
+    # =========================================================
+
     # 4. HUB PUSH
     echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then

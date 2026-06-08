@@ -4,8 +4,11 @@
 * **Track Title:** I Can't Live Without You (Kaela's Theme)
 * **Engine Room ID:** ERR-004-2017-210
 * **ISRC:** 
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Album / Release Title:** The Silver Gauntlet of Aethel, Book II: The Shadow's Heart (Original Motion Picture Soundtrack)
+* **Release Type:** AlbumRelease
+* **Production Type:** SoundtrackAlbum
 * **Disc Number:** 2
 * **Track Number:** 10
 * **Primary Artist (Release Persona):** Firelight
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-04-24
-* **Generated On:** 06-07-2026 09:56:21 AM
+* **Generated On:** 06-07-2026 07:34:43 PM
 * **Master File Located At:** ../../wav/2-10-i-cant-live-without-you.wav
 
 ## Distribution & AI Disclosure Notes

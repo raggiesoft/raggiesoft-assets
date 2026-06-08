@@ -4,8 +4,11 @@
 * **Track Title:** No Hidden Gravity
 * **Engine Room ID:** ERR-001-1996-105
 * **ISRC:** QZTBC2635158
+* **Album UPC / GTIN-12:** 825486804399
 * **Track Length:** 5:22
 * **Album / Release Title:** Escape Velocity (Ad Astra)
+* **Release Type:** EPRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 5
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1996-07-16
 * **Real-World DSP Release Date:** 2026-04-03
-* **Generated On:** 06-07-2026 10:57:15 AM
+* **Generated On:** 06-07-2026 08:42:07 PM
 * **Master File Located At:** ../../wav/1-05-no-hidden-gravity.wav
 
 ## Distribution & AI Disclosure Notes

@@ -4,8 +4,11 @@
 * **Track Title:** Moon 1 (Tidal Lock)
 * **Engine Room ID:** ERR-001-2003-101
 * **ISRC:** QZTB92611796
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 5:29
 * **Album / Release Title:** Sanctuary (Zero-G)
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 1
 * **Primary Artist (Release Persona):** The Stardust Engine
@@ -15,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2003-10-10
 * **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 11:36:36 AM
+* **Generated On:** 06-07-2026 05:25:53 PM
 * **Master File Located At:** ../../wav/1-01-moon-1-tidal-lock.wav
 
 ## Distribution & AI Disclosure Notes

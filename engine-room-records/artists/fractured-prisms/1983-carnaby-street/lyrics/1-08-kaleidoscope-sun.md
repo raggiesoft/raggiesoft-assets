@@ -1,7 +1,13 @@
 **LORE NOTE:**
-Released on **Origin's** self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: *"We hear you, and we're getting you out now."*
+Released on Fractured Prisms' 1983 album, Carnaby Street. Following the devastating loss of their four bandmates and siblings in a 1981 crash, and Claire’s subsequent escape from an abusive, legally fraudulent relationship in Romford, the surviving siblings fled to their father's childhood home in Williamsport, Maryland.
+
+Written in the safety of that transatlantic sanctuary, "Kaleidoscope Sun" is a literal call to come home. Claire penned the lyrics as a beacon of hope for anyone trapped in a false reality, urging them toward where the "true light gleams." The track represents a massive emotional breakthrough for Claire. After struggling to play her late cousin Gwen’s salvaged wooden flute on earlier tracks, she finally feels ready to properly play it here. She delivers a distinct flute melody from 1:45 to 2:00, a returning leitmotif at 3:50, and most importantly, a soaring flute solo from 4:00 to 4:32 that completely replaces a traditional rock guitar solo.
+
+In the extended timeline of the Ocean View Archives, this track transcends its 1983 origins. Luna uses the exact melody from the 1:45 mark—either played on her own instrument or simply hummed—as a non-verbal lifeline for her brother, Leo, communicating: "We hear you, and we're getting you out now."
 
 **LYRICS:**
+
+*(Vocal Style: British Pop, male and female duet)*
 
 [Intro]
 *(Begins with a distinctive, slightly melancholic keyboard arpeggio, joined by a driving bassline and crisp drumming. A soaring guitar melody enters, then fades as Rhys Manning's vocals begin.)*
@@ -24,7 +30,7 @@ Will you come back?
 To where the true light gleams, and home is always near?
 
 [Short Instrumental Break]
-*(This is where the specific, brief, and distinctive FLUTE MELODY plays. It is poignant, clear, and memorable—the exact melody Luna uses as Leo's lifeline.)*
+*(From 1:45 to 2:00, the specific, brief, and distinctive FLUTE MELODY plays. It is poignant, clear, and memorable—the exact melody Luna uses as Leo's lifeline.)*
 
 [Verse 2]
 We chase the shadows on the wall, illusions that we build
@@ -52,7 +58,7 @@ A shelter from the endless rain, a refuge from the cold…
 A story waiting to unfold, a legend to be told.
 
 [Instrumental Section]
-*(A prominent keyboard solo and a soaring guitar lead interlock, building in intensity. The flute melody is subtly re-incorporated and echoed here.)*
+*(At 3:50, the flute leitmotif echoes subtly. Then, from 4:00 to 4:32, Claire takes center stage with a sweeping, virtuoso FLUTE SOLO, fully replacing the traditional guitar lead and cementing her emotional return.)*
 
 [Chorus]
 Do you hear it?
@@ -63,7 +69,7 @@ Will you come back?
 To where the true light gleams, and home is always near?
 
 [Outro]
-*(Music begins to fade, the initial keyboard arpeggio returning. Rhys Manning's voice becomes softer, more distant)*
+*(Music begins to fade, the initial keyboard arpeggio returning. The vocals become softer, more distant)*
 Home is always near...
 Kaleidoscope Sun...
 *(The distinctive flute melody plays one last time, very softly, as the song fades to silence)*
