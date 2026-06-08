@@ -328,51 +328,6 @@ function do_push() {
     echo "👱‍♀️ JENNA: Shipping it! Message: \"$COMMIT_MSG\""
     echo "          $CONNECTION_MSG"
 
-    # =========================================================
-    # --- PRE-FLIGHT: MEET EMILY (THE COMPILED ROUTER) ---
-    # =========================================================
-    echo "   [Pre-Flight] Waking up Emily (Compiling Elara's Brain)..."
-    
-    DATA_DIR="$HUB_ROOT/data"
-    ROUTES_DIR="$DATA_DIR/routes"
-    SETTINGS_FILE="$DATA_DIR/settings.json"
-    EMILY_FILE="$DATA_DIR/emily.json"
-    
-    if [ -d "$ROUTES_DIR" ] && [ -f "$SETTINGS_FILE" ]; then
-        
-        # Use PHP to safely merge the routes AND apply the "common" inheritance per file
-        php -r "
-            \$routesDir = '$ROUTES_DIR';
-            \$emilyFile = '$EMILY_FILE';
-            \$mergedRoutes = [];
-            
-            \$iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator(\$routesDir));
-            foreach (\$iterator as \$file) {
-                if (\$file->isFile() && strtolower(\$file->getExtension()) === 'json') {
-                    \$json = json_decode(file_get_contents(\$file->getPathname()), true);
-                    if (is_array(\$json)) {
-                        // Extract and remove the common block
-                        \$common = \$json['common'] ?? [];
-                        unset(\$json['common']);
-                        
-                        // Apply the common block properties to every route in this specific file
-                        foreach (\$json as \$route => \$config) {
-                            \$mergedRoutes[\$route] = array_merge(\$common, \$config);
-                        }
-                    }
-                }
-            }
-            // Save ONLY the fully compiled routes to emily.json
-            file_put_contents(\$emilyFile, json_encode(['routes' => \$mergedRoutes]));
-        "
-        
-        ROUTE_COUNT=$(find "$ROUTES_DIR" -type f -name "*.json" | wc -l | tr -d '[:space:]')
-        echo "      ✓ Emily is online. Merged $ROUTE_COUNT route fragments into emily.json"
-    else
-        echo "      ⚠️  Missing data/routes directory or settings.json! Emily compilation aborted."
-    fi
-    # =========================================================
-
     # 4. HUB PUSH
     echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then
