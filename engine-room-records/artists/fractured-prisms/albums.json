@@ -1,0 +1,29 @@
+{
+  "sanctuary": {
+    "label": "The Sanctuary Era",
+    "heading": "1983-1984: The Sanctuary Era",
+    "description": "Following the 1981 Shap Fell disaster, Rhys and Claire retreated to a soundproofed ranch house in Williamsport, Maryland. Refusing to hire session musicians, the siblings physically played every instrument themselves, recording these sweeping progressive concepts in total isolation.",
+    "albums": [
+      {
+        "title": "Carnaby Street",
+        "year": "1983",
+        "url": "/engine-room/artists/fractured-prisms/discography/1983-carnaby-street",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/1983-carnaby-street/album-art.jpg",
+        "spotifyId": "4G2HvFggcDQf4q3vomSHH6",
+        "appleId": "1895041529",
+        "amazonId": "B0GXQCF3HD",
+        "youtubeId": "OLAK5uy_l9MGSqq5RiP6E3xlFPfsZQ2_ZVTtp-xJ4"
+      },
+      {
+        "title": "1883",
+        "year": "1984",
+        "url": "/engine-room/artists/fractured-prisms/discography/1984-1883",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/1984-1883/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": ""
+      }
+    ]
+  }
+}
