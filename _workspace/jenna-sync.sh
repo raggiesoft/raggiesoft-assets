@@ -336,24 +336,38 @@ function do_push() {
     DATA_DIR="$HUB_ROOT/data"
     ROUTES_DIR="$DATA_DIR/routes"
     SETTINGS_FILE="$DATA_DIR/settings.json"
-    TEMP_ROUTES="$DATA_DIR/temp_routes.json"
     EMILY_FILE="$DATA_DIR/emily.json"
     
     if [ -d "$ROUTES_DIR" ] && [ -f "$SETTINGS_FILE" ]; then
-        # 1. Safely find and merge all route fragments into a single temporary JSON object.
-        # jq reads the concatenated text stream, slurps it into an array (-s), and merges it ('add').
-        find "$ROUTES_DIR" -type f -name "*.json" -exec cat {} + | jq -s 'add' > "$TEMP_ROUTES"
         
-        # 2. Combine settings.json and the merged routes into the master emily.json file.
-        # The -c flag strictly minifies the output to save space and reduce server disk I/O.
-        jq -c -s '{settings: .[0], routes: .[1]}' "$SETTINGS_FILE" "$TEMP_ROUTES" > "$EMILY_FILE"
+        # Use PHP to safely merge the routes AND apply the "common" inheritance per file
+        php -r "
+            \$routesDir = '$ROUTES_DIR';
+            \$emilyFile = '$EMILY_FILE';
+            \$mergedRoutes = [];
+            
+            \$iterator = new RecursiveIteratorIterator(new RecursiveDirectoryIterator(\$routesDir));
+            foreach (\$iterator as \$file) {
+                if (\$file->isFile() && strtolower(\$file->getExtension()) === 'json') {
+                    \$json = json_decode(file_get_contents(\$file->getPathname()), true);
+                    if (is_array(\$json)) {
+                        // Extract and remove the common block
+                        \$common = \$json['common'] ?? [];
+                        unset(\$json['common']);
+                        
+                        // Apply the common block properties to every route in this specific file
+                        foreach (\$json as \$route => \$config) {
+                            \$mergedRoutes[\$route] = array_merge(\$common, \$config);
+                        }
+                    }
+                }
+            }
+            // Save ONLY the fully compiled routes to emily.json
+            file_put_contents(\$emilyFile, json_encode(['routes' => \$mergedRoutes]));
+        "
         
-        # 3. Clean up the temporary file
-        rm "$TEMP_ROUTES"
-        
-        # Calculate file count for the console output
         ROUTE_COUNT=$(find "$ROUTES_DIR" -type f -name "*.json" | wc -l | tr -d '[:space:]')
-        echo "      ✓ Emily is online. Merged settings and $ROUTE_COUNT route fragments into emily.json"
+        echo "      ✓ Emily is online. Merged $ROUTE_COUNT route fragments into emily.json"
     else
         echo "      ⚠️  Missing data/routes directory or settings.json! Emily compilation aborted."
     fi
