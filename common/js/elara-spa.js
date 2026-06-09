@@ -146,7 +146,7 @@ async function navigateTo(url, pushState = true) {
             const swapZones = [
                 'header',                    
                 '#elara-layout-wrapper',     
-                '#visual-footer-container'   
+                '#elara-master-footer'   
             ];
 
             swapZones.forEach(selector => {
