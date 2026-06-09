@@ -162,25 +162,26 @@ async function navigateTo(url, pushState = true) {
             // 1. Temporarily assassinate CSS smooth scrolling
             document.documentElement.style.scrollBehavior = 'auto';
 
-            // 2. Bump the timeout to 50ms to outlast layout shifts from rendering images
-            setTimeout(() => {
-                // Force the scroll axes to 0
-                window.scrollTo({ top: 0, left: 0, behavior: 'auto' });
-                document.documentElement.scrollTop = 0;
-                document.body.scrollTop = 0;
+            // 2. Wait for the browser to calculate the layout, then wait for the actual paint
+            requestAnimationFrame(() => {
+                requestAnimationFrame(() => {
+                    // Force the scroll axes to 0
+                    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                    document.documentElement.scrollTop = 0;
+                    document.body.scrollTop = 0;
 
-                // 3. THE ANCHOR: Physically move the browser's active focus to the top of the body.
-                // This forces the viewport to snap to the element, regardless of what the scrollbar wants.
-                document.body.setAttribute('tabindex', '-1');
-                document.body.focus();
-                document.body.removeAttribute('tabindex');
+                    // 3. THE ANCHOR: Physically move the browser's active focus
+                    document.body.setAttribute('tabindex', '-1');
+                    document.body.focus({ preventScroll: true }); 
+                    document.body.removeAttribute('tabindex');
 
-                // 4. Resurrect smooth scrolling for the user
-                document.documentElement.style.scrollBehavior = '';
+                    // 4. Resurrect smooth scrolling for the user
+                    document.documentElement.style.scrollBehavior = '';
 
-                // Dispatch the event
-                document.dispatchEvent(new CustomEvent('elara:loaded'));
-            }, 50);
+                    // Dispatch the event
+                    document.dispatchEvent(new CustomEvent('elara:loaded'));
+                });
+            });
 
         } else {
             window.location.href = url;
