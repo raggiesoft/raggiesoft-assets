@@ -1,14 +1,14 @@
 /**
  * ============================================================================
- * THE STARDUST PLAYER ENGINE (v4.3 - WCAG Lore Edition)
+ * THE STARDUST PLAYER ENGINE (v4.4 - SPA Race Condition Fix)
  * ============================================================================
  * UPDATED FOR ACCESSIBILITY & LORE:
  * 1. Live Regions: Track title now announces "Buffering" and Song Names.
  * 2. Aria-Current: Playlist rows now strictly identify the active track.
  * 3. Page Title: Browser tab updates to reflect playback state.
  * 4. Legacy Tiers: Dynamically injects color-coded lore badges into the UI.
- * 5. WCAG Lore Badges: Fully keyboard focusable (tabindex="0") and explicitly 
- * labeled for screen readers using robust aria-labeling.
+ * 5. WCAG Lore Badges: Fully keyboard focusable.
+ * 6. Global Event Delegation: Prevents "Ghost DOM" bugs during Elara SPA navigations.
  */
 
 (function() {
@@ -109,39 +109,28 @@
         dom.originalPageTitle = document.title;
         
         updateControlUI();
-    }
 
-    // --- TURBO EVENT: PAGE LISTENERS ---
-    // Runs every time a new page is rendered to attach clicks to the new tracklist.
-    function bindPageEvents() {
-        // 1. Play Buttons
-        document.querySelectorAll('.btn-play-index').forEach(btn => {
-            // Remove old listeners to be safe (though Turbo usually wipes them)
-            const newBtn = btn.cloneNode(true);
-            btn.parentNode.replaceChild(newBtn, btn);
-            
-            newBtn.addEventListener('click', (e) => {
+        // --- THE CURE FOR THE GHOST DOM: GLOBAL EVENT DELEGATION ---
+        // This completely replaces bindPageEvents and catches clicks flawlessly.
+        document.body.addEventListener('click', (e) => {
+            // 1. Play Buttons
+            const playBtn = e.target.closest('.btn-play-index');
+            if (playBtn) {
+                e.preventDefault();
                 e.stopPropagation();
-                loadTrack(parseInt(newBtn.getAttribute('data-index')));
-            });
-        });
+                loadTrack(parseInt(playBtn.getAttribute('data-index')));
+                return;
+            }
 
-        // 2. Lyrics Buttons
-        document.querySelectorAll('.btn-view-lyrics').forEach(btn => {
-            const newBtn = btn.cloneNode(true);
-            btn.parentNode.replaceChild(newBtn, btn);
-
-            newBtn.addEventListener('click', (e) => {
+            // 2. Lyrics Buttons
+            const lyricsBtn = e.target.closest('.btn-view-lyrics');
+            if (lyricsBtn) {
+                e.preventDefault();
                 e.stopPropagation();
-                openLyrics(newBtn.getAttribute('data-title'), newBtn.getAttribute('data-url'));
-            });
+                openLyrics(lyricsBtn.getAttribute('data-title'), lyricsBtn.getAttribute('data-url'));
+                return;
+            }
         });
-        
-        // 3. Highlight currently playing track (if it exists on this page)
-        updateTracklistUI();
-        
-        // Update original title ref on navigation
-        dom.originalPageTitle = document.title;
     }
 
     // --- TURBO EVENT: PLAYLIST HANDOFF ---
@@ -156,22 +145,23 @@
                 dom.title.innerText = "Ready to Play";
                 dom.artist.innerText = first.album; // Show Album Name as Artist initially
                 dom.art.src = first.artwork;
-            //    dom.player.classList.remove('d-none');
             }
             
-            // Re-bind buttons for the new HTML
-            bindPageEvents();
+            // Simply update the active track highlighting
+            updateTracklistUI();
         }
     });
 
     // Run Once on Load
     document.addEventListener('DOMContentLoaded', () => {
         initEngine();
-        bindPageEvents(); // Catch initial page load
     });
 
     // Run on every Elara SPA Navigation
-    document.addEventListener('elara:loaded', bindPageEvents);
+    document.addEventListener('elara:loaded', () => {
+        updateTracklistUI();
+        dom.originalPageTitle = document.title;
+    });
 
 
     // ========================================================================

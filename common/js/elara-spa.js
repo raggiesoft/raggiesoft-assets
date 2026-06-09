@@ -14,32 +14,36 @@ document.addEventListener('DOMContentLoaded', () => {
         const link = e.target.closest('a');
         if (!link) return;
 
-        // THE FIX: Is this a Bootstrap component? 
-        // Let Bootstrap's native event listeners handle it entirely.
+        const href = link.getAttribute('href');
+
+        // 1. Let Bootstrap Native JS handle its own components
         if (link.hasAttribute('data-bs-toggle') || link.hasAttribute('data-bs-dismiss')) {
+            // Prevent the browser from jumping to the anchor hash
+            if (href && href.startsWith('#')) e.preventDefault();
             return; 
         }
-
-        const href = link.getAttribute('href');
         
-        // THE FIX: Ignore dead links and utility protocols
+        // 2. Ignore dead links and utility protocols
         if (!href || href === '#' || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) {
-            // Prevent the browser from jumping to the top of the page for empty hashes
             if (href === '#') e.preventDefault();
             return;
         }
 
-        // Ignore new tabs or modifier-key clicks
+        // 3. Ignore new tabs or modifier-key clicks
         if (link.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey) return;
 
         const targetUrl = new URL(link.href, window.location.href);
         const currentUrl = new URL(window.location.href);
 
-        // Ignore external links
+        // 4. Ignore external links
         if (targetUrl.origin !== currentUrl.origin) return;
         
-        // Ignore same-page anchor hash links (e.g., jump links to headers)
-        if (targetUrl.pathname === currentUrl.pathname && targetUrl.hash !== '') return;
+        // 5. Robustly ignore same-page anchor hash links
+        if (targetUrl.pathname === currentUrl.pathname) {
+            if (targetUrl.hash !== '' || link.href.endsWith('#')) {
+                return; // Let the browser handle intra-page navigation
+            }
+        }
 
         // Prevent the hard reload
         e.preventDefault();
@@ -128,6 +132,16 @@ async function navigateTo(url, pushState = true) {
             }
 
 
+            // --- 2A. PRE-SCROLL LOCK ---
+            // Assassinate smooth scrolling BEFORE the DOM height changes
+            document.documentElement.style.scrollBehavior = 'auto';
+
+            // Snap to top while the old (potentially taller) DOM is still intact
+            window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+            document.documentElement.scrollTop = 0;
+            document.body.scrollTop = 0;
+
+
             // --- 3. DOM ZONE SWAPPING ---
             const swapZones = [
                 'header',                    
@@ -159,23 +173,21 @@ async function navigateTo(url, pushState = true) {
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
-            // 1. Temporarily assassinate CSS smooth scrolling
-            document.documentElement.style.scrollBehavior = 'auto';
-
-            // 2. Wait for the browser to calculate the layout, then wait for the actual paint
+            // --- 4. POST-SCROLL ENFORCEMENT & FOCUS ---
             requestAnimationFrame(() => {
                 requestAnimationFrame(() => {
-                    // Force the scroll axes to 0
+                    // Enforce the 0,0 scroll axes again after layout calculation
                     window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                     document.documentElement.scrollTop = 0;
                     document.body.scrollTop = 0;
 
-                    // 3. THE ANCHOR: Physically move the browser's active focus
-                    document.body.setAttribute('tabindex', '-1');
-                    document.body.focus({ preventScroll: true }); 
-                    document.body.removeAttribute('tabindex');
+                    // THE ANCHOR: Physically move the browser's active focus to the main content area
+                    const mainContent = document.getElementById('main-content') || document.body;
+                    mainContent.setAttribute('tabindex', '-1');
+                    mainContent.focus({ preventScroll: true }); 
+                    if (mainContent === document.body) mainContent.removeAttribute('tabindex');
 
-                    // 4. Resurrect smooth scrolling for the user
+                    // Resurrect smooth scrolling for the user
                     document.documentElement.style.scrollBehavior = '';
 
                     // Dispatch the event
