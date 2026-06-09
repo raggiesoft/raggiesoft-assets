@@ -9,6 +9,7 @@
     "@type": "MusicGroup",
     "name": "The Paper Wall"
   },
+  "isRockOpera": true,
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "Rock Opera / Industrial / 80s Pop",

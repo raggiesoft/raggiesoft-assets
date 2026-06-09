@@ -1,0 +1,20 @@
+{
+  "debut": {
+    "label": "The Escape",
+    "heading": "2001: Breaking the Wall",
+    "description": "The foundational era of The Paper Wall. A raw, industrial, and autobiographical rock project driven by frontman Julian Croft.",
+    "albums": [
+      {
+        "title": "Static & Silence",
+        "year": "2001",
+        "url": "/engine-room/artists/the-paper-wall/discography/2001-static-and-silence",
+        "folder": "2001-static-and-silence",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": ""
+      }
+    ]
+  }
+}
