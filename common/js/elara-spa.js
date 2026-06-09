@@ -115,12 +115,12 @@ async function navigateTo(url, pushState = true) {
                 }
             });
 
-            // Update Inline Styles (This fixes your dynamic brand fonts)
-            const newStyles = doc.querySelectorAll('style');
-            const oldStyles = document.querySelectorAll('style');
-            newStyles.forEach((newStyle, index) => {
-                if (oldStyles[index]) oldStyles[index].innerHTML = newStyle.innerHTML;
-            });
+            // Update Inline Styles (Head only, to avoid interfering with swapped body styles)
+            const newHeadStyles = Array.from(doc.head.querySelectorAll('style'));
+            const oldHeadStyles = Array.from(document.head.querySelectorAll('style'));
+
+            oldHeadStyles.forEach(style => style.remove());
+            newHeadStyles.forEach(style => document.head.appendChild(style.cloneNode(true)));
 
 
             // --- 2. LOADER STATE UPDATE ---
@@ -174,26 +174,29 @@ async function navigateTo(url, pushState = true) {
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
             // --- 4. POST-SCROLL ENFORCEMENT & FOCUS ---
-            requestAnimationFrame(() => {
-                requestAnimationFrame(() => {
-                    // Enforce the 0,0 scroll axes again after layout calculation
-                    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
-                    document.documentElement.scrollTop = 0;
-                    document.body.scrollTop = 0;
+            
+            // Force a synchronous layout calculation so the browser knows the exact height of the new DOM
+            void document.documentElement.offsetHeight;
 
-                    // THE ANCHOR: Physically move the browser's active focus to the main content area
-                    const mainContent = document.getElementById('main-content') || document.body;
-                    mainContent.setAttribute('tabindex', '-1');
-                    mainContent.focus({ preventScroll: true }); 
-                    if (mainContent === document.body) mainContent.removeAttribute('tabindex');
+            // A 15ms timeout ensures the main thread's render queue has fully cleared
+            setTimeout(() => {
+                // Enforce the 0,0 scroll axes
+                window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+                document.documentElement.scrollTop = 0;
+                document.body.scrollTop = 0;
 
-                    // Resurrect smooth scrolling for the user
-                    document.documentElement.style.scrollBehavior = '';
+                // THE ANCHOR: Physically move the browser's active focus to the main content area
+                const mainContent = document.getElementById('main-content') || document.body;
+                mainContent.setAttribute('tabindex', '-1');
+                mainContent.focus({ preventScroll: true }); 
+                if (mainContent === document.body) mainContent.removeAttribute('tabindex');
 
-                    // Dispatch the event
-                    document.dispatchEvent(new CustomEvent('elara:loaded'));
-                });
-            });
+                // Resurrect smooth scrolling for the user
+                document.documentElement.style.scrollBehavior = '';
+
+                // Dispatch the event
+                document.dispatchEvent(new CustomEvent('elara:loaded'));
+            }, 15);
 
         } else {
             window.location.href = url;
@@ -221,9 +224,6 @@ function initializeSecureEmails() {
             // Set the href for the user
             link.setAttribute('href', `mailto:${email}`);
             
-            // Optional: Uncomment the next line if you want the link's visible text to magically turn into the email address upon loading
-            // link.innerText = email; 
-
             // Mark as processed so it doesn't run again on this specific link
             link.dataset.secured = "true";
         }
