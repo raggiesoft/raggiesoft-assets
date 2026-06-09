@@ -75,9 +75,20 @@ async function navigateTo(url, pushState = true) {
 
         if (hasCoreLayout) {
             // --- 1. HEAD & META SYNC ENGINE ---
-            
+
             // Sync HTML tag attributes (Critical for forced dark-mode themes)
-            Array.from(doc.documentElement.attributes).forEach(attr => {
+            const newHtmlAttrs = Array.from(doc.documentElement.attributes);
+            const currentHtmlAttrs = Array.from(document.documentElement.attributes);
+
+            // 1. Purge stale attributes that exist on the current DOM but NOT on the new page
+            currentHtmlAttrs.forEach(attr => {
+                if (!doc.documentElement.hasAttribute(attr.name)) {
+                    document.documentElement.removeAttribute(attr.name);
+                }
+            });
+
+            // 2. Add or update attributes from the new page
+            newHtmlAttrs.forEach(attr => {
                 document.documentElement.setAttribute(attr.name, attr.value);
             });
 
