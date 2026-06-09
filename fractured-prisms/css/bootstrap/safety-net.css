@@ -3,11 +3,14 @@
 body {
     font-family: 'Times New Roman', serif;
     line-height: 1.6;
-    background-color: #0b0914; /* Deep purple-black */
-    color: #e0e0e0;
+    /* Wire into dynamic background with a dark mode fallback */
+    background-color: var(--bs-body-bg, #0b0914); 
+    /* Wire into dynamic text color with a dark mode fallback */
+    color: var(--bs-body-color, #e0e0e0);
 }
 
 a {
     text-decoration: none;
-    color: #b19cd9;
+    /* Wire into dynamic link color */
+    color: var(--bs-link-color, #b19cd9);
 }
