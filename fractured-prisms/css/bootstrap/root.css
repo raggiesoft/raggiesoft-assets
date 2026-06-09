@@ -8,9 +8,6 @@
     --font-gothic: 'Playfair Display', serif;
     --font-tech: 'Courier New', monospace;
     
-    --bs-bg-prism: #0b0914; /* Deep purple-black */
-    --bs-border-prism: rgba(177, 156, 217, 0.3);
-    
     --transition-speed: 0.3s;
 }
 
@@ -19,16 +16,22 @@ body, .navbar, .card, .btn, .list-group-item {
     transition: all var(--transition-speed) ease-in-out;
 }
 
-/* Force Dark Mode Override (Fractured Prisms is inherently dark) */
+/* ====================================================================
+   1983 STUDIO (DARK MODE)
+   The cold, mechanical isolation of the Williamsport sanctuary.
+   Deep purple-black, ghostly lavender, glowing synths.
+==================================================================== */
 :root,
-[data-bs-theme="light"],
 [data-bs-theme="dark"] {
     color-scheme: dark;
+
+    --bs-bg-prism: #0b0914; /* Deep purple-black base */
+    --bs-border-prism: rgba(177, 156, 217, 0.3);
 
     --bs-body-bg: var(--bs-bg-prism);
     --bs-body-color: #e0e0e0;
 
-    /* Primary is now Lavender/Ghostly */
+    /* Primary is Ghostly Lavender */
     --bs-primary: #b19cd9;
     --bs-primary-rgb: 177, 156, 217;
     
@@ -47,31 +50,51 @@ body, .navbar, .card, .btn, .list-group-item {
     --bs-navbar-bg: rgba(11, 9, 20, 0.95);
     --bs-navbar-color: #a0a0a0;
     --bs-navbar-active-color: #e6e6fa;
-    --bs-navbar-brand-color: #e6e6fa;
 
-    --bs-light: #1a1a24; 
-    --bs-dark: #f8f9fa; 
-}
-/* Add to root.css */
-
-:root, [data-bs-theme="dark"] {
-    /* Artifact Paper (Dark Mode / Default) */
-    --prism-artifact-bg: #dcdcd5;
-    --prism-artifact-color: #111111;
-    --prism-artifact-muted: #333333;
-    --prism-artifact-border: #6c757d;
+    /* Artifact Paper Logic (Looks like paper inside the dark studio) */
+    --prism-artifact-bg: #f4f1ea;
+    --prism-artifact-color: #2c2c2c;
+    --prism-artifact-border: #b19cd9;
+    --prism-artifact-muted: #5c5c5c;
 }
 
+/* ====================================================================
+   1883 ARCHIVE (LIGHT MODE)
+   The Hollow Square psychological sanctuary.
+   Aged parchment, charcoal ink, deep Victorian plum accents.
+==================================================================== */
 [data-bs-theme="light"] {
-    /* Base theme overrides for Light Mode */
-    --bs-bg-prism: #f4f4f9;
-    --bs-border-prism: rgba(177, 156, 217, 0.8);
+    color-scheme: light;
+
+    --bs-bg-prism: #f4f1ea; /* Warm, aged parchment base */
+    --bs-border-prism: rgba(74, 51, 80, 0.3); /* Plum border */
+
     --bs-body-bg: var(--bs-bg-prism);
-    --bs-body-color: #212529;
+    --bs-body-color: #2b2826; /* Charcoal ink for high legibility */
+
+    /* Primary shifts to a deep, bruised Victorian Plum */
+    --bs-primary: #4a3350;
+    --bs-primary-rgb: 74, 51, 80;
     
-    /* Artifact Paper (Light Mode) */
-    --prism-artifact-bg: #fdfdf8;
-    --prism-artifact-color: #212529;
-    --prism-artifact-muted: #495057;
-    --prism-artifact-border: #adb5bd;
+    --bs-secondary: #5c5957; /* Antique grey */
+    --bs-secondary-rgb: 92, 89, 87;
+    
+    --bs-border-color: rgba(74, 51, 80, 0.2);
+    --bs-border-color-translucent: rgba(74, 51, 80, 0.1);
+    
+    --bs-link-color: #4a3350;
+    --bs-link-hover-color: #2b1d2f;
+
+    --bs-card-bg: #fcfcfb; /* Slightly brighter paper so cards stand out */
+    --bs-card-border-color: rgba(74, 51, 80, 0.15);
+    
+    --bs-navbar-bg: rgba(244, 241, 234, 0.95);
+    --bs-navbar-color: #4a3350;
+    --bs-navbar-active-color: #2b2826;
+
+    /* Artifact Paper Logic (Blends into the light mode naturally) */
+    --prism-artifact-bg: #ffffff; 
+    --prism-artifact-color: #2c2c2c;
+    --prism-artifact-border: #4a3350;
+    --prism-artifact-muted: #666666;
 }
