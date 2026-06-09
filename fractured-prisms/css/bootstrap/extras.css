@@ -6,8 +6,10 @@
 }
 
 .text-glow-prism {
-    text-shadow: 0 0 15px rgba(177, 156, 217, 0.6), 0 0 30px rgba(177, 156, 217, 0.4);
-    color: #e6e6fa !important;
+    /* Uses the dynamic body text color (Light/Dark) */
+    color: var(--bs-body-color) !important; 
+    /* The glow dynamically pulls the RGB values from our Primary color */
+    text-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.6), 0 0 30px rgba(var(--bs-primary-rgb), 0.3);
 }
 
 .border-prism {
@@ -20,9 +22,11 @@
 
 /* Narrative Lore Cards */
 .lore-card {
-    background-color: rgba(255, 255, 255, 0.03);
+    /* Wired to our dynamic card background variable */
+    background-color: var(--bs-card-bg);
     border-left: 4px solid var(--bs-primary);
-    color: #e0e0e0;
+    /* Wired to dynamic text color */
+    color: var(--bs-body-color);
 }
 
 /* Recovered Artifact Paper (Queen's English Journals) */
