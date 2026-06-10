@@ -1,10 +1,12 @@
 /* root-raggiesoft.css */
-/* RaggieSoft Corporate Identity - The "Common" Theme */
+/* RaggieSoft Media - Frutiger Aero / Dark Aero Identity */
 
 :root {
-    /* --- Brand Palette --- */
-    --mpr-blue-500: #42AADB;   /* Primary Brand Blue */
-    --mpr-blue-600: #258DBD;   /* Hover State */
+    /* --- Aero Brand Palette --- */
+    --mpr-blue-500: #0082E6;   /* Classic Glossy Ocean Blue */
+    --mpr-blue-600: #005BB5;   /* Deep Water Hover State */
+    --mpr-cyan-400: #00E5FF;   /* Dark Aero Neon Cyan */
+    --mpr-grass-500: #38E54D;  /* Bliss Wallpaper Green */
     
     /* --- Utility Bases (Global Defaults) --- */
     --bs-white: #ffffff;
@@ -13,67 +15,80 @@
     --bs-black-rgb: 0, 0, 0;
 }
 
-/* --- LIGHT MODE (Default) --- */
+/* --- LIGHT MODE (Frutiger Aero) --- */
 :root,
 [data-bs-theme="light"] {
-    --bs-primary: #42AADB;
-    --bs-primary-rgb: 66, 170, 219;
-    --bs-secondary: #6c757d;
-    --bs-secondary-rgb: 108, 117, 125;
-    --bs-success: #198754;
-    --bs-success-rgb: 25, 135, 84;
-    --bs-info: #0dcaf0;
-    --bs-info-rgb: 13, 202, 240;
-    --bs-warning: #ffc107;
-    --bs-warning-rgb: 255, 193, 7;
-    --bs-danger: #dc3545;
-    --bs-danger-rgb: 220, 53, 69;
-    --bs-light: #f8f9fa;
-    --bs-dark: #212529;
+    --bs-primary: var(--mpr-blue-500);
+    --bs-primary-rgb: 0, 130, 230;
+    --bs-secondary: #5F7A8C; /* Slightly bluer slate for aero feel */
+    --bs-secondary-rgb: 95, 122, 140;
+    --bs-success: var(--mpr-grass-500);
+    --bs-success-rgb: 56, 229, 77;
+    --bs-info: #00C3FF;
+    --bs-info-rgb: 0, 195, 255;
+    --bs-warning: #FFB300;
+    --bs-warning-rgb: 255, 179, 0;
+    --bs-danger: #E63946;
+    --bs-danger-rgb: 230, 57, 70;
+    --bs-light: #F0F6FA; /* Very light icy/watery white */
+    --bs-dark: #101E2B;
     
-    --bs-body-bg: #ffffff;
-    --bs-body-color: #212529;
-    --bs-body-bg-rgb: 255, 255, 255;
-    --bs-body-color-rgb: 33, 37, 41;
+    --bs-body-bg: #F4F9FD; /* Cloud-like off-white */
+    --bs-body-color: #1A2A3A;
+    --bs-body-bg-rgb: 244, 249, 253;
+    --bs-body-color-rgb: 26, 42, 58;
 
-    /* Subtle Backgrounds & Borders (Required for BS 5.3) */
-    --bs-secondary-bg: #e9ecef;
-    --bs-tertiary-bg: #f8f9fa;
-    --bs-secondary-color: rgba(33, 37, 41, 0.75);
-    --bs-tertiary-color: rgba(33, 37, 41, 0.5);
-    --bs-border-color: #dee2e6;
-    --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
+    /* Semantic Fixes */
+    --bs-secondary-bg: #E3EDF6;
+    --bs-tertiary-bg: #F0F6FA;
+    --bs-border-color: #CBE0F0;
     
     /* Links */
-    --bs-link-color: #42AADB;
-    --bs-link-hover-color: #258DBD;
+    --bs-link-color: var(--mpr-blue-500);
+    --bs-link-hover-color: var(--mpr-blue-600);
+
+    /* --- CUSTOM AERO TOKENS (For Header/Footer/Buttons) --- */
+    --raggie-glass-bg: rgba(255, 255, 255, 0.45);
+    --raggie-glass-border: rgba(255, 255, 255, 0.8);
+    --raggie-glass-shadow: 0 8px 32px rgba(0, 85, 150, 0.1);
+    --raggie-gloss-highlight: rgba(255, 255, 255, 0.6);
 }
 
-/* --- DARK MODE (Adaptive & Forced) --- */
+/* --- DARK MODE (Dark Aero / Bioluminescence) --- */
 @media (prefers-color-scheme: dark) {
     :root {
-        --bs-body-bg: #121212;
-        --bs-body-color: #e0e0e0;
-        --bs-body-bg-rgb: 18, 18, 18;
-        --bs-body-color-rgb: 224, 224, 224;
+        --bs-body-bg: #070B14; /* Deep void space */
+        --bs-body-color: #E2F1FF; /* Starlight white */
+        --bs-body-bg-rgb: 7, 11, 20;
+        --bs-body-color-rgb: 226, 241, 255;
     }
 }
 
 [data-bs-theme="dark"] {
     /* Core Background & Text */
-    --bs-body-bg: #121212;
-    --bs-body-color: #e0e0e0;
-    --bs-body-bg-rgb: 18, 18, 18;
-    --bs-body-color-rgb: 224, 224, 224;
+    --bs-body-bg: #070B14; 
+    --bs-body-color: #E2F1FF;
+    --bs-body-bg-rgb: 7, 11, 20;
+    --bs-body-color-rgb: 226, 241, 255;
 
-    /* Primary Overrides */
-    --bs-primary: #42AADB; 
-    --bs-primary-rgb: 66, 170, 219;
+    /* Primary Overrides - Pushing into Neon */
+    --bs-primary: var(--mpr-cyan-400); 
+    --bs-primary-rgb: 0, 229, 255;
+    --bs-secondary: #859DB3; 
+    --bs-secondary-rgb: 133, 157, 179;
     
+    /* Dark Mode Semantic Fixes */
+    --bs-secondary-bg: #101926;
+    --bs-tertiary-bg: #0A111C;
+    --bs-border-color: #1A2B40;
+
     /* Links */
-    --bs-link-color: #6bcdfd; 
+    --bs-link-color: var(--mpr-cyan-400); 
     --bs-link-hover-color: #ffffff;
 
-    /* BS 5.3 Dark Mode Semantic Fixes */
-    --bs-secondary: #adb5bd; 
-    --bs-secondary
+    /* --- CUSTOM DARK AERO TOKENS --- */
+    --raggie-glass-bg: rgba(7, 11, 20, 0.65);
+    --raggie-glass-border: rgba(0, 229, 255, 0.25); /* Cyan specular highlight */
+    --raggie-glass-shadow: 0 8px 32px rgba(0, 229, 255, 0.08);
+    --raggie-gloss-highlight: rgba(0, 229, 255, 0.2);
+}

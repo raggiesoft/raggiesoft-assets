@@ -1,21 +1,39 @@
-/* bootstrap-header.css (Dynamic Theme Support) */
+/* bootstrap-header.css (Frutiger Aero / Dark Aero Glass Edition) */
 
-/* 1. Navbar Base */
+/* 1. Navbar Base - The Frosted Glass Pane */
 header .navbar {
-    /* Use the variable directly so root.css controls the switch */
-    background-color: var(--bs-body-bg) !important;
-    border-bottom: 1px solid var(--bs-border-color) !important;
-    transition: background-color 0.3s ease, border-color 0.3s ease;
+    /* Drop the solid background and pull the translucent variables from root.css */
+    background-color: var(--raggie-glass-bg) !important;
+    
+    /* The signature Aero blur and saturation effect */
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%); /* Safari support */
+    
+    /* The glossy specular highlight on the bottom edge */
+    border-bottom: 1px solid var(--raggie-glass-border) !important;
+    
+    /* Soft, glowing drop shadow to separate it from the page */
+    box-shadow: var(--raggie-glass-shadow);
+    
+    transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
 /* 2. Text Colors */
 header .navbar-brand {
     color: var(--bs-body-color) !important;
+    /* Slight white text shadow for that glossy depth */
+    text-shadow: 0 1px 2px rgba(255, 255, 255, 0.3); 
+}
+
+[data-bs-theme="dark"] header .navbar-brand {
+    /* Glowing neon cyan text shadow for Dark Aero */
+    text-shadow: 0 1px 5px rgba(0, 229, 255, 0.4);
 }
 
 header .nav-link {
-    /* Now uses the lighter gray defined in root.css for dark mode */
     color: var(--bs-secondary) !important;
+    font-weight: 500;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
 }
 
 header .nav-link:hover,
@@ -23,34 +41,56 @@ header .nav-link.active {
     color: var(--bs-primary) !important;
 }
 
-/* 3. Hamburger Menu */
-header .navbar-toggler {
-    border-color: var(--bs-border-color) !important;
-}
-header .navbar-toggler .hamburger-bar {
-    background-color: var(--bs-body-color) !important;
+/* Add a subtle bioluminescent glow on hover in dark mode */
+[data-bs-theme="dark"] header .nav-link:hover,
+[data-bs-theme="dark"] header .nav-link.active {
+    text-shadow: 0 0 8px var(--bs-primary);
 }
 
-/* 4. Dropdowns */
-header .dropdown-menu {
-    background-color: var(--bs-body-bg) !important;
-    border-color: var(--bs-border-color) !important;
+/* 3. Hamburger Menu (Adapted for Glass) */
+header .navbar-toggler {
+    /* Give the button its own tiny glass housing */
+    border: 1px solid var(--raggie-glass-border) !important;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px; /* Softer, pill-like edges */
 }
+
+header .navbar-toggler .hamburger-icon span {
+    background: var(--bs-body-color) !important;
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+/* 4. Dropdowns - Extending the Glass */
+header .dropdown-menu {
+    background-color: var(--raggie-glass-bg) !important;
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%);
+    border: 1px solid var(--raggie-glass-border) !important;
+    border-radius: 8px;
+    box-shadow: var(--raggie-glass-shadow);
+}
+
 header .dropdown-item {
     color: var(--bs-body-color) !important;
+    transition: background-color 0.2s ease, color 0.2s ease;
 }
+
 header .dropdown-item:hover {
-    background-color: var(--bs-tertiary-bg) !important; 
+    /* A glossy highlight instead of a flat background color */
+    background-color: var(--raggie-gloss-highlight) !important; 
     color: var(--bs-primary) !important;
 }
 
 /* 5. CORPORATE LOGO MAGIC */
 header .navbar-brand-corporate-img {
-    mix-blend-mode: multiply; 
+    mix-blend-mode: multiply;
+    /* Helps it pop off the blurred background */
+    filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.5));
 }
 
-/* In Dark Mode, we invert the logo or add a background to make it visible */
 [data-bs-theme="dark"] header .navbar-brand-corporate-img {
     mix-blend-mode: normal;
-    border: 1px solid #fff;
+    /* Drops the boxy white border from your original file and replaces it with a neon glow */
+    filter: invert(1) drop-shadow(0 0 8px var(--mpr-cyan-400));
+    border: none; 
 }

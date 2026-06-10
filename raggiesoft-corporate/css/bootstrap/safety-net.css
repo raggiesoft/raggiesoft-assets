@@ -1,26 +1,80 @@
 /* safety-net-raggiesoft.css */
-/* RaggieSoft Corporate Overrides */
+/* RaggieSoft Aero / Dark Aero Overrides - THE NUCLEAR OPTION */
 
-/* 1. Enforce System Font Stack (Fast, Clean, Native) */
+/* 1. Enforce Brand Font Stack Globally */
+/* Overrides standard system fonts to ensure the humanist/Aero feel is always present */
 body {
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-}
-h1, h2, h3, h4, h5, h6, .navbar-brand {
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-    font-weight: 700;
-    letter-spacing: -0.02em; /* Modern tight tracking */
+    font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
 }
 
-/* 2. Fix Button Contrast */
-/* RaggieSoft Blue is light, so text must be WHITE */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.01em !important; /* Slightly tighter for a modern polish */
+}
+
+/* 2. Global Button Reshaping (The Aero Pill) */
+.btn {
+    /* Frutiger Aero loves pill shapes over sharp rectangles */
+    border-radius: 50rem !important; 
+    transition: all 0.2s ease-in-out !important;
+    font-weight: 600 !important;
+}
+
+/* 3. The Frutiger Aero Gel Button (Light Mode) */
 .btn-primary {
     color: #ffffff !important;
-    background-color: var(--bs-primary);
-    border-color: var(--bs-primary);
+    
+    /* The classic 2000s glossy gradient with a "horizon" split in the middle */
+    background: linear-gradient(180deg, #42AADB 0%, #0082E6 48%, #005BB5 52%, #004b96 100%) !important;
+    border: 1px solid #003e7a !important;
+    
+    /* Inset shadow creates the shiny glass lip; outer shadow lifts it */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) !important; /* Engraves the text into the gel */
 }
+
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: var(--mpr-blue-600) !important;
-    border-color: var(--mpr-blue-600) !important;
+    /* Brightens the gradient */
+    background: linear-gradient(180deg, #5ebcf0 0%, #1a96f0 48%, #006dd9 52%, #005bb5 100%) !important;
+    /* Enhances the inner shine and outer shadow */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 4px 8px rgba(0, 0, 0, 0.3) !important;
     color: #ffffff !important;
+    transform: translateY(-1px) !important; /* Physical push effect */
+}
+
+.btn-primary:active {
+    /* Inverts to look "pressed" */
+    background: linear-gradient(180deg, #004b96 0%, #005BB5 100%) !important;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.5) !important;
+    transform: translateY(1px) !important;
+}
+
+/* 4. The Dark Aero Neon Button (Dark Mode) */
+[data-bs-theme="dark"] .btn-primary {
+    /* shifts to our neon cyan */
+    background: linear-gradient(180deg, #00e5ff 0%, #00c6dd 48%, #00a4b8 52%, #008393 100%) !important;
+    border: 1px solid #005c66 !important;
+    
+    /* High contrast text for neon buttons */
+    color: #000000 !important; 
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5) !important;
+    
+    /* Glowing cyan drop shadow */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 0 12px rgba(0, 229, 255, 0.4) !important;
+}
+
+[data-bs-theme="dark"] .btn-primary:hover,
+[data-bs-theme="dark"] .btn-primary:focus {
+    /* Pushes to an almost pure white-hot cyan at the top */
+    background: linear-gradient(180deg, #80f2ff 0%, #00e5ff 48%, #00c6dd 52%, #00a4b8 100%) !important;
+    /* Intensifies the neon bloom */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 0 25px rgba(0, 229, 255, 0.8) !important;
+    color: #000000 !important;
+}
+
+[data-bs-theme="dark"] .btn-primary:active {
+    background: linear-gradient(180deg, #008393 0%, #00a4b8 100%) !important;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.6), 0 0 5px rgba(0, 229, 255, 0.3) !important;
 }
