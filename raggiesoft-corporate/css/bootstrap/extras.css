@@ -168,3 +168,16 @@ html, body {
         box-shadow: 0 0 50px rgba(0, 229, 255, 1), inset 0 0 30px rgba(0, 229, 255, 0.8);
     }
 }
+
+/* Theme-Aware Image Swapping Utilities */
+.theme-img-dark { 
+    display: none; 
+}
+
+[data-bs-theme="dark"] .theme-img-light { 
+    display: none; 
+}
+
+[data-bs-theme="dark"] .theme-img-dark { 
+    display: block; 
+}
