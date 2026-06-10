@@ -96,6 +96,13 @@ async function navigateTo(url, pushState = true) {
                 document.documentElement.setAttribute(attr.name, attr.value);
             });
 
+            // 3. THE SYSTEM RESTORE: Re-apply OS preference if Elara purged the theme
+            if (!doc.documentElement.hasAttribute('data-bs-theme')) {
+                const storedTheme = localStorage.getItem('theme');
+                const preferredTheme = storedTheme ? storedTheme : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+                document.documentElement.setAttribute('data-bs-theme', preferredTheme);
+            }
+
             // Diff and Update Stylesheets
             const getBaseHref = (link) => link.href.split('?')[0]; // Ignore ?v= timestamps for diffing
             const newLinks = Array.from(doc.querySelectorAll('link[rel="stylesheet"]'));
