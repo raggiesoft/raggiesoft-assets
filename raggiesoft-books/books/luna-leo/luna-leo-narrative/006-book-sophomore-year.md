@@ -248,7 +248,7 @@ The cocky Freshman paled, looking toward the cafeteria serving line with newfoun
 
 "Single spaced," the Senior confirmed. "She is a linguistic superweapon. Do not test her. Just ask Kevin Schmidt about the German incident."
 
-Leo, listening from his chair a few feet away, felt a spark of amusement. He remembered that day vividly—the look on Josh's face, the way Mrs. DeMarco had switched effortlessly between Parisian French with Chloe and lethal English with Josh . He hadn't known about Stan Henderson's Pig Latin essay, but it sounded exactly like her style.
+Leo, listening from his chair a few feet away, felt a spark of amusement. He remembered that day vividly—the look on Josh's face, the way Mrs. DeMarco had switched effortlessly between Parisian French with Chloé and lethal English with Josh . He hadn't known about Stan Henderson's Pig Latin essay, but it sounded exactly like her style.
 
 He tapped a quick note on his screen, showing it to Mr. Peters with a grin.
 

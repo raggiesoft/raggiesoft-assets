@@ -1532,6 +1532,10 @@ Meanwhile, at Sea-Tac Airport, Leo managed to find the signs for payphones near 
 
 It looked intimidating and nothing like his familiar device, but Stella had said it was a possibility. Desperation overriding uncertainty, he maneuvered closer.
 
+The ambient noise of the landside terminal at 6:00 AM on the Wednesday before Thanksgiving was a chaotic, escalating roar. The sharp clatter of rolling suitcases echoed off the high ceilings, mingling with the anxious, rushed hum of thousands of travelers. Overhead, the PA system cut through the din with sterile authority: *"Attention all passengers. The Transportation Security Administration reminds you that unattended baggage is subject to search and immediate removal. Gateway Airlines Flight 214 to Phoenix is now boarding..."*
+
+Beneath the announcements and the roar of the crowd, the airport's sound system piped in festive cheer that felt entirely at odds with Leo's terror. The upbeat, jingling pop-synth of Darla Vance’s *"Solo on Christmas Eve"* drifted through the concourse, a cheery soundtrack to his nightmare.
+
 He picked up the receiver, expecting a screen to light up, but was met only with a dial tone. Confused, he looked at the device built into the enclosure. It had a small keyboard and a tiny screen above it displaying a blinking cursor. *How does this work?* He tentatively tried typing Stella’s number, but nothing happened beyond letters appearing slowly on the tiny, dim screen. Frustration mounted. He scanned the minimal instructions printed beside the device, words blurring through his anxiety. *Collect call? Operator?*
 
 At this point, a surge of desperate hope shot through him. *Olivia!* He knew she was here, somewhere in this state. If he could just call her, she would come. He squeezed his eyes shut, frantically trying to remember her Washington state phone number. He had seen it, typed it into his Communicator weeks ago. But now, under the crushing weight of exhaustion and terror, the number was a meaningless jumble in his mind, a piece of vital data stored on a hard drive that was now shattered and useless. It was no use. The number was gone.
@@ -1542,171 +1546,201 @@ He wiped sweat from his brow and followed the instruction to dial 0 for the oper
 
 Leo stared, bewildered. *What was GA?* He hesitated, then driven by sheer panic, typed his urgent need, his fingers clumsy on the unfamiliar keys: EMERGENCY NEED COLLECT CALL PLEASE
 
-The screen responded: OK UNDERSTOOD EMERGENCY COLLECT CALL PLS TYPE NUMBER YOU ARE CALLING GA. Okay, *GA* again. Maybe it means 'Go Ahead'? Leo painstakingly typed Stella’s Virginia phone number.
+The screen responded: OK UNDERSTOOD EMERGENCY COLLECT CALL PLS TYPE NUMBER YOU ARE CALLING GA. Okay, GA again. Maybe it means 'Go Ahead'? Leo painstakingly typed Stella’s Virginia phone number.
 
 OK DIALING EMERGENCY COLLECT CALL TO \[Stella's Number\] PLS WAIT GA.
 
-Leo watched, his knuckles white as he gripped the receiver. The seconds stretched into an eternity. Then, new text scrolled across the screen as the operator relayed the conversation:
+Leo watched, his knuckles white as he gripped the receiver. The seconds stretched into an eternity.
 
-RINGING... HELLO THIS IS THE OPERATOR I HAVE AN EMERGENCY TTY COLLECT CALL FROM LEO PORTER WILL YOU ACCEPT CHARGES Q GA
+Thousands of miles away in Virginia Beach, the phone rang. Stella grabbed the receiver, her brow furrowing as the caller ID flashed **OUT OF AREA**.
 
-Leo held his breath. Please say yes, Stella. Please.
+"Hello?" Stella answered.
 
-YES OPERATOR I ACCEPT
+Instead of a voice she recognized, a highly professional, neutral voice spoke. "Hello, this is Operator 934 with the Telecommunications Relay Service. I have an emergency TTY collect call from a person using a text telephone. The name is Leo Porter. Will you accept the charges?"
 
-Relief flooded Leo, so intense it was almost dizzying.
+Stella froze, the blood draining from her face. "Yes... yes, operator, I accept!"
 
-OK CONNECTING FOR HEARING CARRY OVER (HCO). YOU WILL HEAR THEIR VOICE DIRECTLY. I WILL VOICE YOUR TYPED REPLIES. PLS SAY GA WHEN READY TO CONNECT GA.
+"Thank you," the operator replied. "Connecting for Hearing Carry Over. Please hold."
 
-This was it. He would be able to hear her. He quickly typed: GA
+Back in Seattle, the text scrolled across Leo's tiny screen: CHARGES ACCEPTED. CONNECTING FOR HEARING CARRY OVER (HCO). YOU WILL HEAR THEIR VOICE DIRECTLY. I WILL VOICE YOUR TYPED REPLIES. PLS SAY GA WHEN READY TO CONNECT GA.
 
-And then, through the receiver pressed hard against his ear, he heard her voice, real and immediate, cutting through the electronic haze.
+This was it. He quickly typed: GA
 
-"Leo? Leo, is that you?! Are you okay?! Where are you? Are you still in Portsmouth?" Stella's voice was a torrent of worry, grounded in the belief he was just a 45-minute drive away.
+The operator pressed a button, and the acoustic barrier dropped. The line went fully live.
 
-He held the receiver tight, tears of overwhelming relief blurring his vision as he typed on the strange keyboard. The operator’s clear, calm voice read his words to Stella.
+Suddenly, the sterile silence in Stella's ear vanished, replaced by the raw, unfiltered audio of the Sea-Tac terminal. She heard the echoing TSA announcements, the clack of rolling luggage, the faint, upbeat strains of Darla Vance singing over the PA, and beneath it all—the ragged, panicked breathing of her brother.
 
-(LEO IS TYPING) AIRPORT. SEATTLE. NEED HOME. AAC BROKEN. GA.
+"Leo?! Leo, is that you?! Are you okay?! Where are you?!" Stella's voice erupted through the receiver pressed against Leo's ear, a torrent of desperate worry. In the background, he could hear Luna's frantic voice echoing her sister: "Leo?! Is he there?!"
 
-He heard Stella's shocked gasp. A long, stunned silence. Then her voice, no longer just worried but sharp with a new, terrifying panic, exploded in his ear.
+At the sound of their voices—real, immediate, and filled with fierce love—the dam inside Leo completely shattered. The terrifying isolation of the past five days evaporated. He wasn't alone in the void anymore.
 
-"Seattle?! Leo, what are you talking about?! How did you get to Seattle? What happened? Are you hurt?! Go ahead!"
+He pressed the receiver hard against his ear and let out a loud, distinct, stuttering cry. It was a raw, non-verbal vocalization of pure, overwhelming relief and joy. It wasn't a cry of pain; it was the specific, high-pitched keening sound he only made when his heart was bursting with happiness, a sound that said, *I found you.*
 
-Simultaneously, Leo watched in confusion as the operator’s fingers flew, the text scrolling rapidly across his tiny TTY screen, a near-instant transcript of the panicked questions he was already hearing directly from Stella in his ear:
+Through the receiver, 3,000 miles away, Stella gasped, instantly recognizing the familiar sound. It hit her like a physical blow. "Oh my god, buddy, we hear you! We hear you, it's okay!"
 
-(OPERATOR IS TYPING) SEATTLE Q LEO WHAT ARE YOU TALKING ABOUT Q HOW DID YOU GET TO SEATTLE Q WHAT HAPPENED Q ARE YOU HURT Q GA
+Luna burst into tears in the background. "He's there! Stella, he's really there!"
 
-Leo stared at the screen, completely bewildered. He was hearing Stella's voice, but the operator was also typing her words. *Why is the operator typing what I'm already hearing? Is this how it works?* The dual input was disorienting, adding a layer of technical confusion on top of his raw terror. He was so overwhelmed by her frantic questions and the strange process that he couldn't formulate a response to any of them.
+Trembling, shaking with adrenaline and happy tears, Leo's clumsy fingers hit the rigid TTY keys. The operator’s clear, calm voice read his words to his sisters in real-time, contrasting sharply with the emotional chaos of the live microphone.
 
-He was trembling, his body exhausted. He cut through the noise with a simpler, more direct plea:
+(TTY OPERATOR): "LEO IS TYPING... AIRPORT. SEATTLE. NEED HOME. DELORES LEFT ME. PLEASE HELP. GA."
 
-(TTY OPERATOR): "LEO IS TYPING... DELORES LEFT ME. PLEASE HELP. GA."
+He heard Stella's shocked gasp. A long, stunned silence. Then her voice, no longer just worried but sharp with a new, terrifying panic, exploded in his ear. "Seattle?! Leo, what are you talking about?! How did you get to Seattle?!"
 
 In the background, Luna's voice was a confused echo. "Seattle? Huh? What's he doing out there?"
 
-Stella's mind was a maelstrom. A thousand plans exploded at once. The surprise. The carefully orchestrated, life-altering reunion for Thanksgiving. It was all gone, replaced by a single, stark, and terrible clarity. Olivia.
+Stella's mind was a maelstrom. A thousand plans exploded at once. The surprise. The carefully orchestrated, life-altering reunion for Thanksgiving. It was all gone, replaced by a single, stark, and terrible clarity. *Olivia.*
 
-Then, Luna's confusion sharpened into horrified understanding, her voice rising with a sudden, desperate urgency. "STELLA, WAKE OLIVIA! SCRAP THE SURPRISE!"
+Luna's confusion sharpened into horrified understanding, her voice rising with a sudden, desperate urgency. "STELLA, WAKE OLIVIA! SCRAP THE SURPRISE!"
 
 The shared, frantic realization solidified their next move. When Stella's voice came back on the line, it was no longer just panicked. It was the focused, ice-cold voice of a general taking command.
 
-"Operator," she said, her tone sharp and urgent, "I need to add a third person to this call. This is the number."
+"Operator," she said, her tone sharp and urgent. "Please hold the line. I am using my phone to conference in a third person. Do not disconnect."
 
-The operator typed back to Leo, keeping him in the loop: (OPERATOR IS TYPING) OK. STAND BY. PLACING CALL TO 3RD PARTY. GA.
+A sharp *click* echoed in Leo's ear as Stella pressed the "Flash" button on her end, plunging his line into dead silence. The operator's text raced across his tiny screen, keeping him tethered to the process:
 
-He heard Stella give the number, then the operator's text continued on his screen:
+(OPERATOR IS TYPING) STELLA IS PUTTING US ON HOLD TO CONFERENCE IN 3RD PARTY. PLEASE WAIT. GA.
 
-(OPERATOR IS TYPING) OK STAND BY FOR 3-WAY CONFERENCE CALL. DIALING NOW GA.
+Leo gripped the receiver, his knuckles white. The seconds stretched out, each one feeling like an eternity.
 
-Leo held his breath, hearing only a faint click and then silence on his end. The TTY screen was his only connection to what was happening.
+*Click.*
 
-(OPERATOR IS TYPING) RINGING... GA
+The line crackled back to life, the merge complete. A new voice, sleepy but impossibly familiar, was already echoing through the receiver in Leo's ear. Olivia's voice.
 
-The seconds felt like an eternity. It was so early.
+"Hello?" Olivia mumbled, sounding groggy.
 
-(OPERATOR IS TYPING) 3RD PARTY ON LINE. CONNECTING CONFERENCE NOW GA.
+"Olivia? It's Stella Porter. I am so sorry to wake you."
 
-Then, a new voice, sleepy but familiar, joined Stella's on the line, and he heard it in his own ear. Olivia's voice.
+The sleep vanished from Olivia's voice, instantly alert with concern. "Stella? What's wrong? Is everything okay? It's not even 6 AM out here."
 
-Olivia: "Hello?"
+"No. Nothing is okay." Stella's voice was tight and urgent. "It's an emergency. It's Leo. He's near you. He's in Seattle. He's at Sea-Tac Airport."
 
-Stella: "Olivia? It's Stella Porter. I am so sorry to wake you."
+"Wait... Sea-Tac? As in, Seattle?" Olivia's voice was now filled with profound confusion and disbelief. "Stella, why on earth would he be at the airport in Seattle?"
 
-Olivia: (Her voice instantly alert with concern) "Stella? What's wrong? Is everything okay? It's not even 6 AM out here."
-
-Stella: (Her voice tight and urgent) "No. Nothing is okay. It's an emergency. It's Leo."
-
-Olivia: (The brightness in her voice vanishes, replaced by focused alarm) "Leo? What happened? Is he okay? Where is he?"
-
-Stella: "That's the problem, Liv. He's near *you*. He's in Seattle. He's at Sea-Tac Airport."
-
-Olivia: (Her voice is now filled with profound confusion and disbelief) "Wait... Sea-Tac? As in, *Seattle*? Stella, why on earth would he be at the airport in Seattle?"
-
-Stella: (Her voice a mix of panic and a hammer blow of certainty) "I don't know *how* he got there, Liv! He just typed that Delores abandoned him. He's using a TTY, so his talker must be broken. He's alone at Sea-Tac."
+"I don't know how he got there, Liv! He just typed that Delores abandoned him. He's alone at Sea-Tac."
 
 A sharp, choked sound came through the phone, a mixture of a gasp and pure rage. Then, the dam broke.
 
-"She *what?!*" Olivia's voice was a blade of cold fury, followed immediately by a venomous, rapid-fire volley, the raw sound of her Québécois accent stripped of all its usual warmth. "*Tabarnak! Câlisse! Ostie de... cette maudite folle!*" (That damned madwoman!)
+"She what?!" Olivia's voice was a blade of cold fury, followed immediately by a venomous, rapid-fire volley, the raw sound of her Québécois accent stripped of all its usual warmth. *"Tabarnak! Câlisse! Ostie de... cette maudite folle!"* (That damned madwoman!)
 
-The line went silent for a half-second, filled only with the sound of Olivia's ragged, angry breathing. Then her voice returned, the earlier confusion gone, replaced by that same cold fury, now directed at the geography. "He's in Seattle? *Now*?"
+The line went silent for a half-second, filled only with the sound of Olivia's ragged, angry breathing. Then her voice returned, the earlier confusion gone, replaced by that same cold fury, now directed at the geography. "He's in Seattle? Now?"
 
-"I'm on the Gateway website right now, Liv!" Stella's voice was a frantic counterpoint, the sound of furious keyboard clicking audible. "I'm looking at *your* flight—the one you were supposed to take home. Gateway 1138 to Midway, connecting to 412 to Norfolk..." Her voice was tight with tension as she searched. "Liv, listen to me... there is one seat left. One. It's a miracle. I am booking it for him right now."
+"I'm on the Gateway Airlines website right now, Liv!" Stella's voice was a frantic counterpoint, the sound of furious keyboard clicking audible. "I'm looking at your flight—the one you were supposed to take home to surprise him. Gateway 1138 to Midway, connecting to 412 to Norfolk..."
+
+Her voice was tight with tension as she searched. "Liv, listen to me... there is one seat left. One. On the Wednesday before Thanksgiving, it is a literal miracle. I am booking it for him right now."
 
 Her frantic clicking paused, replaced by a low growl of pure frustration as she navigated the booking portal. "No, damn it! I don’t want a rental car! No, fuck! NO HOTEL!" she yelled, clearly fighting with the website's attempts to bundle add-ons.
 
-After another furious burst of typing, her voice returned, sharp with success. "He is getting on that plane with you. Just get to the airport, find him, and get him to that gate."
+After another furious burst of typing, her voice returned, sharp with success. "Got it. He is getting on that plane with you. Liv, do you have a pen? Write this down."
 
-"That woman is a monster," she finished in English, her voice now dangerously calm. "Stella, what's he wearing? How do I find him?"
+"Hold on," Olivia said. A rapid rustling sound came through the phone. "Okay, ready."
 
-Before Stella could answer that she didn't know, the TTY operator's voice cut in again with Leo's own words. (TTY OPERATOR): "LEO IS TYPING... WEARING MY FAVORITE HOODED NAVY BLUE SWEATSHIRT. THE ONE WITH MY PICTURE WITH LUNA. IT IS SOAKED. FROM THE RAIN. I AM SHIVERING. AND JEANS. GA."
+"The confirmation code is G-W-seven-three-niner-K-L," Stella dictated, her voice a mix of adrenaline and relief.
 
-"Oh, Leo..." Stella's voice cracked. The image of him, cold and alone in his favorite sweatshirt—his tangible link to his sister—was devastating. Her voice hardened with purpose. "Okay, Liv, listen. He's cold and he's hungry. I'm transferring \$500 to your account right now. The funds should be available for you immediately. First thing you do when you get him is go to one of those airport shops and buy him a new, warm sweatshirt. I know it'll be expensive, but I don't care. He needs to get warm. I don't care the cost. And get him a hot meal. But Liv," her voice became firm, the conservator taking over, "this is coming from the trust fund. I need a receipt for everything—the sweatshirt, the food, all of it. We're adding it to the bill we're sending Delores, and I need it for the records. Whatever you don't use, we'll put right back."
+"G-W-seven-three-niner-K-L. Got it," Olivia repeated, the sound of scribbling audible over the line. "Stella, my bags are already packed. The moment I hang up, I'm calling a cab straight to the airport."
 
-"Got it," Olivia said, her own voice a low, determined command. "Soaked navy sweatshirt with their picture. Find him, get him a new warm sweatshirt and food, keep all the receipts. Understood. I'm on my way." She paused, her voice softening as she spoke to Leo through the conference call. "Leo... I am so, so sorry this is how you're finding out. The surprise... I was coming home. For good. We can talk about it on the plane. Just stay on the line with Stella. I've got you."
+Before Stella could say another word, the TTY operator's voice cut in again with Leo's own text. (TTY OPERATOR): "LEO IS TYPING... WEARING MY FAVORITE HOODED NAVY BLUE SWEATSHIRT. THE ONE WITH MY PICTURE WITH LUNA. IT IS SOAKED. FROM THE RAIN. I AM SHIVERING. AND JEANS. GA."
 
-The line clicked as she hung up to mobilize. Leo was left on the line with his sisters, his mind reeling. *Coming home for good.* Olivia was coming for him. He was going home. With *her*. The nightmare was twisting into a desperate, miraculous, and real plan for rescue.
+"Oh, Leo..." Stella's voice cracked. Her voice hardened with purpose. "Okay, Liv, listen. He's cold and he's hungry. First thing you do when you get him is go to one of those airport shops and buy him a new, warm sweatshirt. I don't care the cost. And get him a hot meal."
+
+"Got it," Olivia said, her own voice a low, determined command. "Soaked navy sweatshirt with their picture. Find him, get him a new warm sweatshirt and food. Understood. I'm on my way."
+
+Then, Olivia spoke directly into the phone, her voice softening, aimed right at Leo through the conference call.
+
+"Leo?" Olivia's voice was steady, fierce, and radiating a protective love that cut right through the roaring airport noise. "Are you listening to me? I am right here in Washington. My bags are packed, and I'm calling a cab the second we hang up. You stay right where you are. I'm coming to take you home."
+
+The words hit Leo like a lightning strike. *Olivia.* His best friend. She wasn't just a distant hope; she was here, and she was coming for him. The terror of the morning, the freezing rain, the fear of navigating the airport alone—it vanished entirely, eclipsed by a blinding, impossible joy.
+
+He squeezed his eyes shut, his entire body vibrating with an emotion so large his chest could barely contain it. He opened his mouth and let out an even louder, more powerful cry—a soaring, vocalized burst of absolute, overwhelming ecstasy. It was a sound of pure triumph, a wordless shout of unadulterated, triumphant happiness that rang out over the payphone receiver and echoed through the TTY line, drowning out the holiday music and the terminal announcements.
+
+On the other end, all three women heard it. The sheer, naked happiness in that sound brought fresh tears to all of their eyes.
+
+"I hear you, mon ami," Olivia whispered fiercely, her own voice cracking with emotion. "I'm on my way."
 
 ### Part 4: The Longest Hour
 
-The line clicked, and Olivia's voice was gone, replaced by the quiet hum of the open line. Leo was still holding the receiver, his knuckles white. The TTY screen was a blank, blinking cursor.
+The line clicked, and Olivia's voice was gone, replaced by the quiet, hollow hum of the open connection. Leo was still holding the receiver, his knuckles white. The TTY screen blinked back to life with the operator's sterile text.
 
-OPERATOR: 3RD PARTY DISCONNECTED. DO YOU WISH TO CONTINUE YOUR CALL? GA
+(OPERATOR IS TYPING) 3RD PARTY DISCONNECTED. DO YOU WISH TO CONTINUE YOUR CALL? GA
 
-He heard Stella take a deep, steadying breath on the other end. "Leo? Honey, are you there?"
-
-He fumbled with the keys. YES. GA
-
-STELLA SAYS: OKAY. OLIVIA IS ON HER WAY. IT WILL TAKE HER A WHILE, PROBABLY AN HOUR, MAYBE MORE. TRAFFIC WILL BE BAD. BUT SHE IS COMING FOR YOU. DO YOU UNDERSTAND? GA
+He fumbled with the keys, his fingers stiff from the cold.
 
 YES. GA
 
-And so, the long wait began. For the next hour, Stella and Luna took turns on the phone, their voices a constant, reassuring presence in his ear. They didn't ask a lot of questions. They just talked. Luna told him about a funny movie she'd watched. Stella described the sunrise over the Atlantic in Virginia Beach. They were painting a picture of home for him, a verbal sanctuary to shield him from the chaos of the airport, which was now beginning to swell with the holiday crowds.
+Through the receiver pressed tightly to his ear, he heard Stella take a deep, steadying breath. Because the Hearing Carry Over (HCO) was still active, there was no text on the screen to translate her words. He just heard her voice, direct and real, cutting through the background roar of the airport.
 
-Leo mostly listened, the sound of their voices a lifeline. He was exhausted, the adrenaline of the initial escape giving way to a bone-deep weariness. The burning pain in his hip was a constant, throbbing reminder of his physical vulnerability. He watched the river of travelers flow past—families laughing, business people rushing—and for the first time, he allowed a fragile, terrifying flicker of hope to ignite. Olivia was coming.
+"Okay, buddy," Stella said softly, her voice steady but honest. "Olivia is calling a cab right now. She’s got the money I wired her, so she’s set. But she’s all the way up in Lynnwood—that’s a long way north of you. And Leo, it’s the Wednesday before Thanksgiving. Everyone is trying to get out of town, and you know how it rains in Washington this time of year. It's going to be a slog on the highway. It’s going to take her at least an hour, maybe an hour and fifteen minutes. Do you understand?"
 
-LUNA SAYS: I BET SHE'S ALMOST THERE, LEO. JUST HANG ON. I LOVE YOU. GA
+He tapped the keys. YES. GA
 
-And then, through the crowd, he saw her. She was moving with a speed and purpose that parted the sea of travelers. Her eyes scanned the terminal, a fierce, determined huntress. Their eyes met.
+"Okay," Stella murmured. "We are staying right here on the line with you. We're not going anywhere."
 
-A sound that was half-sob, half-laugh escaped his lips. He heard Stella's voice in his ear, "Leo? What is it?"
+And so, the long, agonizing wait began.
 
-He fumbled with the keys one last time, his fingers shaking with a new, joyful energy.
+For the next seventy-five minutes, Stella and Luna took turns on the phone, their voices a constant, reassuring presence in his ear. They didn't ask him to type much; they knew how exhausted he was. They just talked. Luna told him about a funny movie she'd watched on TV the night before. Stella described the sunrise over the Atlantic in Virginia Beach, painting a picture of home for him. They were building a verbal sanctuary to shield him from the chaos of the airport.
+
+The contrast was jarring. In his ear, there was warmth and safety. But in his physical reality, he was freezing. The heavy cotton of his soaked navy sweatshirt clung to his chest, and his jeans were icy against his legs. The burning pain in his hip—the pressure sore—was a constant, throbbing reminder of his vulnerability. He sat at the payphone and watched the river of travelers flow past—families laughing, business people rushing for early flights. The holiday music piped over the PA system felt like a cruel joke, but his sisters' voices were the only things that mattered.
+
+But for the first time in five days, he allowed a fragile, terrifying flicker of hope to ignite. *Olivia is coming.*
+
+"I bet she's getting close, Leo," Luna's voice echoed warmly in his ear. "Just hang on. I love you."
+
+And then, through the dense, swirling crowd of holiday travelers, he saw her.
+
+She was moving with a speed and purpose that parted the sea of people. Her eyes scanned the terminal—a fierce, determined huntress looking for her charge.
+
+Their eyes met.
+
+A sound that was half-sob, half-laugh escaped Leo's lips.
+
+"Leo?" Stella's voice asked sharply in his ear. "What is it?"
+
+He fumbled with the TTY keys one last time, his fingers shaking with a violent, joyful energy.
 
 OLIVIA. SHES HERE. GA
 
-He hung up the phone without waiting for a reply. She was there in a second, kneeling in front of his chair, her arms wrapping around him in a fierce, protective hug that was pure Olivia. He collapsed against her, the tension of the last five days finally breaking in a wave of silent, wracking sobs.
+He didn't wait for the operator to read it. He hung up the receiver, severing the electronic bridge because the real thing was finally in front of him.
 
-"I've got you," she whispered into his hair, her own tears now falling freely. "It's okay. I've got you. You're safe now."
+Olivia was there in a second. She dropped her bags, fell to her knees in front of his wheelchair, and wrapped her arms around him in a fierce, protective hug that was pure Olivia. He collapsed forward against her, the tension of the last five days finally shattering in a wave of silent, wracking sobs.
 
-After a long moment, she pulled back, her hands framing his face, her eyes searching his. "Did she hurt you?"
+"I've got you," she whispered into his damp hair, her own tears now falling freely. "It's okay. I've got you. You're safe now."
 
-Leo’s expression shuttered. The exhaustion was replaced by a look of deep, profound violation. He couldn't speak, not just because he was voiceless, but because the act itself was about being silenced. His gaze flickered down to his backpack, where the shattered pieces of his AAC device lay—the physical remnants of the assault.
+After a long moment, she pulled back. Her hands framed his face, her eyes intensely searching his pale, exhausted features. Her voice dropped to a whisper. "Did she hurt you?"
 
-Olivia understood instantly. It wasn't just a broken machine. It was a violation. A cold, hard fury settled deep in her bones. "Okay," she said, her voice shifting into a calm, practical command.
+Leo’s expression shuttered. The exhaustion was briefly replaced by a look of deep, profound violation. He couldn't speak, not just because he was voiceless, but because the act itself was about being silenced. His gaze flickered downward, gesturing weakly to his soaked backpack resting on his lap, where the shattered pieces of his AAC device lay—the physical remnants of the assault.
 
-As Olivia gently wheeled a still-trembling Leo away, she pulled out her phone, her hands shaking. She dialed the number that was a permanent fixture in her memory.
+Olivia understood instantly. It wasn't just a broken machine. It was a violation. A cold, hard fury settled deep in her bones.
 
-"Hello?" Stella's voice was tight with panic.
+"Okay," she said, her voice shifting instantly from emotional comfort to calm, practical command. She stood up and grabbed the handles of his wheelchair. "First things first. Let's get you out of the middle of this concourse."
+
+She quickly wheeled a still-trembling Leo away from the chaotic bank of payphones, scanning the terminal until she spotted the blue sign for a Family Restroom. She pushed him inside, the heavy door clicking shut and locking behind them.
+
+The sudden silence of the small, sterile room was a blessed relief. The roaring airport was shut out.
+
+Olivia pulled out her cell phone, her hands shaking slightly from adrenaline, and dialed the number that was a permanent fixture in her memory. She hit the speakerphone button and placed it on the sink counter so Leo could hear.
+
+"Hello?!" Stella's voice answered on the first ring, tight with panic.
 
 "Stella? It's Olivia."
 
 A sharp, ragged sob of pure, unadulterated relief exploded from the other end of the line. "Olivia? Oh my God, Olivia, do you have him?"
 
-"I have him," Olivia said, her voice breaking with the weight of those three perfect words. At that moment, Leo, overwhelmed at hearing his sister's voice and feeling the safety of Olivia's presence, let out a choked, ragged sob of his own. The raw, wordless sound was faint but unmistakable through the phone's speaker.
+"I have him," Olivia said, her voice breaking with the weight of those three perfect words.
+
+At that moment, Leo, overwhelmed at hearing his sister's voice filling the small, safe room, let out a choked, ragged sob of his own. The raw, wordless sound was faint but unmistakable through the phone's speaker.
 
 "What was that?!" Luna's voice cried out from the background in Virginia. "Was that him?! Leo?!"
 
-"Yes," Olivia said, her own tears now flowing freely as she moved the phone closer to Leo's face. "He's right here. Listen."
+"Yes," Olivia said, her own tears now flowing freely as she picked up the phone and moved it closer to Leo. "He's right here. Listen."
 
-The phone now clearly transmitted the sound of Leo's raw, wordless cries of pure relief and exhaustion. On the other end, Stella and Luna could hear their brother, not his words, but his sound, his grief, his safety.
+The phone clearly transmitted the sound of Leo's raw, wordless cries of pure relief and exhaustion. On the other end, Stella and Luna could hear their brother—not his words, but his sound, his grief, his safety.
 
 "Oh, Leo..." Stella's voice was a choked whisper, full of a love that spanned a continent. "We hear you, buddy. We hear you. You're safe."
 
-"I've got him, Stella," Olivia said, pulling the door closed, "I'm bringing him home."
+"I've got him, Stella," Olivia promised, leaning against the locked door of their temporary sanctuary. "I'm bringing him home."
 
 ### Part 5: Sanctuary in a Sterile Room
 
-The family restroom was a small, sterile, and blessedly quiet haven. The door clicked shut, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
+The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
 
 Olivia's movements were a study in gentle, practiced efficiency. She still had Stella on the line, her phone wedged between her ear and shoulder. "Stella? I'm here with him in the family restroom," she said, her voice a calm report from a battlefield. She hit the speakerphone button, placing the phone on the small counter so Leo could hear, so they could all be in this together.
 
@@ -1726,31 +1760,35 @@ A string of furious, choked curses came through the phone. It was Stella, her vo
 
 "We've got him now," Olivia said calmly. "What's the plan? How do we get him home?"
 
-"Your flight," Stella said, her voice now a blade of ice-cold command. "It’s Gateway 1138 to Midway then Gateway 412 to Norfolk, Correct?"
+"Your flight," Stella said, her voice now a blade of ice-cold command. "Gateway 1138 to Midway, then Gateway 412 to Norfolk, correct?"
 
-“Yes,” Olivia replied.
+"Yes," Olivia replied.
 
-"And Liv," Stella's voice continued, the sound of a lawyer preparing for war. "That AAC device she smashed? That's an eight-thousand-dollar piece of medical equipment. That, plus whatever this last-minute flight costs... oh, I'm going after her. Legally. I am going to make sure she pays for every single second of this."
+"And Liv," Stella's voice continued, the sound of a conservator preparing for war. "That AAC device she smashed? That's an eight-thousand-dollar piece of medical equipment. That, plus whatever this last-minute flight costs... oh, I'm going after her. Legally. I am going to make sure she pays for every single second of this."
 
 "Good," Olivia said simply. "She deserves it."
 
-Olivia, who had finished helping Leo and was now washing his face with a damp paper towel, held her breath. Leo watched the phone as if his life depended on it.
+Stella took a deep, steadying breath, pivoting back to the immediate logistics. "Okay. You still have that confirmation code I gave you on the phone earlier?"
 
-"Got it!" Stella's voice was a cry of pure, exhausted triumph. "Okay, Liv, get a pen. He's on your flight."
+Olivia pulled the small slip of paper from her pocket where she had frantically scribbled it during her cab ride. "G-W-seven-three-niner-K-L. I've got it right here."
 
-Olivia grabbed a small notepad and pen from her purse. "Ready."
+"Perfect," Stella confirmed, a wave of exhausted triumph in her voice. "I've flagged his ticket for full assistance. Can you get him to the gate?"
 
-"The confirmation code is G-W-seven-three-niner-K-L," Stella said, her voice a mix of adrenaline and relief. "Gateway Flight 1138 to MDW, connecting to ORF on Gateway Flight 412. I've flagged him for full assistance. Can you get him to the gate?"
+"I'm on it," Olivia promised.
 
-"I'm on it," Olivia confirmed, scribbling the code down.
+"Okay. Just... just take care of my brother."
 
-"Okay," Stella took another deep, steadying breath. "Just... just take care of my brother."
+"Always."
 
-"Always," Olivia promised.
+Olivia didn't just say the word; she breathed it like a solemn vow. It carried the weight of years of shared history, a quiet testament to every single time she had stepped in to protect him when Stella or Luna couldn't be there. It wasn't just a promise for today; it was an absolute, unbreakable truth.
 
-She ended the call, her touch gentle, her presence a silent, unwavering shield. He was clean, he was safe, and for the first time in what felt like a lifetime, he was being cared for. He looked at his reflection in the mirror—pale, exhausted, but with a flicker of his old self returning. He met Olivia's gaze in the mirror, his eyes conveying a universe of gratitude.
+Olivia ended the call. She finished helping Leo, then took a damp paper towel and gently washed his face, wiping away the grime, the sweat, and the tears of the morning. Her touch was gentle, her presence a silent, unwavering shield. He was clean, he was safe, and for the first time in what felt like a lifetime, he was being cared for.
 
-She just smiled, a small, sad, and deeply loving smile. "Come on," she said softly. "First things first. You're starving. Let's get you some real food."
+He looked at his reflection in the mirror—pale, exhausted, but with a flicker of his old self returning. He met Olivia's gaze in the mirror, his eyes conveying a universe of gratitude.
+
+She just smiled, a small, sad, and deeply loving smile.
+
+"Come on," she said softly. "First things first. You're starving. Let's get you some real food."
 
 ### Part 6: The First Meal
 
@@ -1774,91 +1812,183 @@ When he was finally finished, a deep, bone-weary contentment had settled over hi
 
 ### Part 7: A Virtual Sanctuary
 
-Leo was resting in the quiet of the airport food court, the pressure finally off his hip as he sat at the table. He was safe, but a continent still separated him from his sisters. Olivia, seeing the look of profound, weary longing on his face after he finished his breakfast, had an idea. She opened her laptop, a slightly bulky portable computer with a built-in webcam.
+Olivia cleared the wrappers from their table, then unzipped her carry-on bag and pulled out her bulky laptop. "Let's show your sisters how well you're doing," she said softly.
 
-"Hey, Stella," she typed into a chat application. "Leo's fed and safe with me. Do you and Luna have a minute for a video call?"
+She booted up the machine. The hard drive whirred to life, bringing up the complex, icon-filled desktop of Quantum OS. Finding a wireless internet connection in an airport was a newly available luxury in 2003, but it was neither fast nor cheap. Olivia opened her web browser, waiting patiently as the terminal's clunky splash page slowly loaded. She pulled her wallet from her purse and audibly groaned at the extortionate \$9.95 price tag for a 24-hour day pass. But as she glanced at Leo’s exhausted, hopeful face, she didn't hesitate. If it meant Leo got to see his sisters, and they got to see he was safe, it was worth every single penny. She typed in her credit card information.
 
-A moment later, a reply popped up. YES. CALL US.
+After a minute of processing, the screen refreshed. *Connection Established.*
 
-Olivia initiated the video call. A few seconds later, the grainy, slightly delayed image of Stella and Luna's faces filled the screen, their expressions a mix of profound relief and deep, aching worry.
+Olivia launched InfoLink Messenger. The familiar running-man icon appeared, and a moment later, the sharp, distinctive *door-opening* sound effect chimed from the laptop’s small speakers. Her buddy list populated. *STELLA_P* was online.
 
-"Oh, Leo," Stella breathed, her voice crackling slightly through the laptop's speakers. "Look at you. You're safe."
+She quickly typed a message into the chat box. **O_Walker:** *We’re eating. He’s doing okay. Are you and Luna at the computer?*
 
-Olivia positioned the laptop on the table so Leo could see the screen clearly. He looked at the image of his two sisters, his anchors, his sanctuary, and a fresh wave of tears welled in his eyes. They were real. They were right there.
+A few seconds later, the incoming message chime sounded. **STELLA_P:** *Yes! We've been sitting right here since we got off the phone. Tell him we love him.*
 
-"We love you so much," Luna said, her own voice thick with emotion.
+Olivia dug into her bag again and produced a small, silver USB webcam. She clipped it to the top of her laptop screen, plugging the cord into a side port.
 
-Leo reached out a slightly trembling hand and began to type on the laptop's keyboard, his words appearing in the chat window for his sisters to read.
+"Okay, look right here," Olivia said, adjusting the lens to frame Leo sitting in his wheelchair. He was fed, and the sheer terror had left his eyes, but he still looked completely exhausted.
 
-I LOVE YOU TOO.
+The webcam snapped a grainy, 640x480 pixel image. Olivia navigated the menus to initiate a file transfer through the messenger client. A small progress bar appeared on the screen: *Sending 'Leo_SeaTac.jpg' to STELLA_P...*
 
-IT WAS SO BAD.
+Over the slow airport Wi-Fi, it took nearly thirty seconds for the bar to fill.
 
-"I know, honey," Stella said, her own eyes glistening as she read his message. "I know. But you're safe now. That's all that matters." She took a deep, steadying breath, shifting into her role as the logistical commander, a triumphant, almost giddy smile breaking through her worry. "And you're coming home. Today. Leo, listen. When I was booking your ticket, I managed to get you on Olivia's flight. The one she was already supposed to be on to come surprise you for Thanksgiving. Do you understand? You're not just coming home. You're coming home with her. You'll be together the whole way."
+The chime sounded again. **STELLA_P:** *Oh, Leo. Look at you. We see you, buddy.* **STELLA_P:** *But Liv, look at him. He's shivering. Like I said on the phone earlier, please go get him a new, warm sweatshirt as soon as you're done here. Don't let him sit in that wet one.*
 
-Leo stared at the screen, the words sinking in. *With her.* He wasn't going to be handed off to strangers. He wouldn't be alone on the plane. Olivia was coming with him. The relief was so profound, so explosive, it completely overwhelmed his exhaustion. A sound—a raw, joyful cry—was torn from his chest. He turned to Olivia, his eyes shining with more emotion than she had ever seen, and simply opened his arms.
+**O_Walker:** *I will. As soon as we log off, that's our next stop.*
+
+A moment later, another file transfer request popped up on Olivia's screen: *STELLA_P wants to send you 'Home.jpg'.*
+
+Olivia clicked accept. The image slowly rendered, line by blocky line, until it filled the center of the screen.
+
+It was a dark, grainy webcam shot illuminated mostly by the harsh glow of the CRT monitor in Stella's home office. But the subjects were unmistakable. Stella and Luna were huddled close together, leaning into the frame. Their faces were etched with deep exhaustion and worry, but their smiles were profound and genuine. Luna was holding up a piece of lined notebook paper where she had used a thick black marker to write: *WE LOVE YOU LEO!*
+
+Leo reached out, his trembling fingers gently touching the laptop screen right over Luna's pixelated face. A fresh wave of tears welled in his eyes. They were real. They were right there, waiting for him.
+
+He tapped Olivia's arm urgently, pointing to the keyboard.
+
+Navigating the chaotic, overlapping windows and complex menus of Quantum OS was a sensory nightmare for Leo—he desperately missed the simple, single-tasking interface of the vintage MagnaByte Opus computers Stella had sourced for him and Luna back home. He couldn't operate the laptop itself, but a blinking cursor in a ready text box? That he could do.
+
+Olivia slid the laptop closer to him. Leo placed his hands on the keys and slowly typed his own reply, hitting the Enter key with a decisive tap.
+
+**O_Walker:** *I LOVE YOU TOO. IT WAS SO BAD.*
+
+**STELLA_P:** *I know, honey. I know. But it's over now. Delores can't hurt you anymore.* **STELLA_P:** *And you're coming home. Today. Leo, listen to me.*
+
+Olivia paused, reading the incoming text. She looked up from the screen to Leo, a slow, triumphant smile breaking across her face.
+
+**STELLA_P:** *When I booked your ticket this morning, I got you on Gateway Flight 1138.* **STELLA_P:** *Liv, tell him.*
+
+Olivia turned the laptop slightly so Leo had a clear view of her face, then placed her hand gently over his.
+
+"Leo," she said, her voice thick with emotion. "Flight 1138 is my flight. The one I was already supposed to take today."
+
+Leo stared at the screen, and then up at Olivia, his exhausted brain struggling to process the logistics.
+
+"The surprise," Olivia continued softly. "The reason your sisters were so excited for Thanksgiving. I wasn't just coming for a visit, Leo. I was coming home. For good. To transfer to a school in Virginia and live *with* you guys. Under the same roof."
+
+He stared at her, the words finally sinking in. *With her.* He wasn't going to be handed off to an airline employee. He wouldn't be alone on the plane. Olivia wasn't just taking him to the gate; she was coming with him. All the way.
+
+The relief was so profound, so explosive, it completely overwhelmed his exhaustion. A sound—a raw, joyful cry—was torn from his chest. He turned to Olivia, his eyes shining with more emotion than she had ever seen, and simply opened his arms.
 
 Olivia was on him in an instant, meeting his desperate need with her own fierce affection. He hugged her with a strength she didn't know he still possessed, a tight, powerful embrace of pure, unadulterated joy. It wasn't just a hug; it was an anchor, a promise, and a celebration all at once.
 
-Through the speakers, Stella's voice, now also thick with happy tears, continued with the details. "The flight is Gateway Airlines, Flight 1138. It connects in Chicago, at Midway airport. It will get you both into Norfolk late tonight. We will be there at the airport waiting for you."
+The messenger chime pinged again. Olivia leaned back just enough to read the screen, letting Leo type the next message.
 
-The concrete details—the airline, the flight number, the destination—were a powerful anchor. This wasn't a vague hope anymore; it was a plan.
+**O_Walker:** *OLIVIA IS MY HERO.*
 
-Leo, still holding onto Olivia, looked back at the screen. He typed again, his gratitude immense.
+Olivia laughed, a wet, emotional sound. "I'm just taking my best friend home," she whispered to him. She took the keyboard back, navigating the software to send one final message.
 
-OLIVIA IS MY HERO.
+**O_Walker:** *Okay, we need to log off. We have a mission to get this guy a dry sweatshirt, then get our boarding passes.*
 
-Olivia just smiled and squeezed him tighter. He looked at his sisters on the screen. The static of the last five days was finally beginning to fade, replaced by the warm, clear signal of the two sanctuaries—the one he was in and the one waiting for him at home—coming together to bring him back to life.
+**STELLA_P:** *Go. Keep us updated. We love you both.*
 
-I'M SAFE, he typed, one final message. THANK YOU.
+Olivia closed the laptop, the screen going dark. The static of the last five days was finally completely gone, replaced by the warm, clear signal of the two sanctuaries—the one he was in and the one waiting for him at home—coming together to bring him back to life.
+
+She packed the heavy machine away, then turned back to Leo. He was staring blankly at the dark screen, his breathing shallow.
+
+Olivia didn't rush him. She gently rested her hand on his knee, waiting.
+
+Inside Leo's mind, a quiet, devastating war was waging. He was safe now. He was going home. He knew he was supposed to be completely happy. But beneath the overwhelming relief, his autistic brain was caught in a brutal, cyclical loop, trying to process an impossible contradiction.
+
+*Delores was my girlfriend.*
+
+The word itself felt like a lie now, a corrupted file in his mind. Girlfriends were supposed to hold your hand. They were supposed to smile at you. They weren't supposed to shatter your voice on the floor and lock you out in the freezing rain.
+
+For months, he had been pretending. Pretending she loved him the way he needed. Pretending the yelling was his fault. Pretending his ship wasn't sinking. He had been the absolute king of wishful thinking, desperate to have the normal, romantic life that neurotypical people seemed to find so easily.
+
+Now, surrounded by the bustling airport, the wishful thinking finally died, leaving only a hollow, aching grief for something he never really had to begin with.
+
+He looked down at Olivia's hand resting on his knee—steady, warm, demanding absolutely nothing in return. This was what love actually felt like.
+
+He took a slow, shuddering breath, forcibly closing the file on Delores in his mind, and looked up at his best friend. He gave her a single, resolute nod. He was ready.
+
+"Okay," Olivia whispered, reading the shift in his eyes. She stood up and grabbed the handles of his chair. "Let's go get you some dry clothes."
 
 ### Part 8: The Boarding Pass
 
-The video call with his sisters was a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when it ended, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
+The InfoLink Messenger chat with his sisters had been a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when Olivia packed her laptop away, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
 
 Olivia saw the weary slump of his shoulders, the way his eyes darted nervously at the growing holiday crowds. "Okay," she said, her voice a gentle but firm command. "Sitting here is not the plan. Let's get our boarding passes. Let's make this real. One step closer to home."
 
-They navigated to the Gateway Airlines check-in counter. The main line was a chaotic snake of travelers, but Olivia spotted a shorter queue designated for "Passengers Requiring Special Assistance." When their turn came, Olivia approached the agent, a woman with a kind but professional demeanor.
+They navigated to the Gateway Airlines check-in counter. The main line was a chaotic snake of holiday travelers, but Olivia spotted a shorter queue designated for "Passengers Requiring Special Assistance." When their turn came, Olivia approached the agent, a woman with a kind but professional demeanor.
 
 "Hi," Olivia began, her voice calm and organized. "I need to check in for myself and also for my friend, Leo Porter. We're both on Flight 1138 to Midway. I have two separate confirmation numbers; his was an emergency booking made by his sister this morning."
 
 The agent smiled. "Of course, let me get those pulled up for you." She typed the first code, then the second. Her professional smile faltered for a moment, replaced by an expression of serious, focused concern as she read the detailed notes on Leo's booking. She looked up from her monitor, her gaze meeting Leo's with a new softness.
 
-"Okay, Leo," she said, addressing him directly and kindly. "I see everything here. We've got you. And I see the notes from your guardian, Stella." Her eyes flickered to Olivia. "It's very fortunate you were already scheduled on the same flight. She was very clear about the situation."
+"Okay, Leo," she said, addressing him directly and kindly. "I see everything here. We've got you. And I see the notes from your guardian, Stella." Her eyes flickered to Olivia. "It's a literal miracle she managed to grab that last seat for him today, and very fortunate you were already scheduled on the same flight. She was very clear about the situation."
 
-She efficiently printed two boarding passes and slid them across the counter. "I've also confirmed that our gate staff, the flight crew for this flight to Midway, and our team in Norfolk are all aware of the situation and will be ready to assist," she said, handing the documents to Olivia. "You're in good hands now."
+She efficiently printed two boarding passes onto thick, cardstock Gateway paper and slid them across the counter. "Because Leo is flagged for an aisle chair transfer, you both legally qualify for pre-boarding. Since Gateway has an open seating policy, that means you'll be the very first passengers on the aircraft. You can pick whatever seats you want together."
 
-Olivia took the two boarding passes, her own heart aching with a gratitude that was as much for Stella's competence as it was for the agent's kindness. She turned to Leo, a brilliant, triumphant smile on her face, and held them up so he could see.
+She gave Leo another warm, reassuring smile. "I've also confirmed that our gate staff, the flight crew to Midway, and our ground team in Norfolk are all aware of the situation and will be ready to assist," she said, handing the documents to Olivia. "You're in good hands now."
 
-He looked at the two slips of paper in Olivia's hand—his name and hers, side-by-side, destined for the same flight. It was real. He wasn't just being escorted to the gate; she was coming with him. All the way. The last, terrifying hurdle of flying alone had just vanished.
+Olivia took the two boarding passes, her own heart aching with a gratitude that was as much for Stella's ruthless logistical competence as it was for the agent's kindness. She turned to Leo, a brilliant, triumphant smile on her face, and held them up so he could see.
+
+He looked at the two slips of paper in Olivia's hand—his name and hers, side-by-side, destined for the exact same flight. It was real. He wasn't just being escorted to the gate; she was coming with him. And because of the airline's rules, he wouldn't be wedged between strangers. They were going to sit together. The last, terrifying hurdle of flying alone had just completely vanished.
 
 "See?" she said softly, her hand resting reassuringly on the back of his chair. "I told you I've got you. All the way home. Come on, let's go get you one step closer."
 
 ### Part 9: Airside Sanctuary
 
-Armed with both of their boarding passes, tangible proof of their shared journey home, Olivia led Leo towards the Transportation Security Administration (TSA) checkpoint. The lines were long and intimidating, the air filled with the echoing sounds of announcements and the clatter of bins. Leo tensed, the sheer sensory input of the crowded space threatening to overwhelm him again.
+Armed with both of their boarding passes, tangible proof of their shared journey home, Olivia led Leo towards the Transportation Security Administration checkpoint.
 
-Olivia gave his arm a reassuring squeeze. "Okay, Leo," she said, her voice a low, steady anchor. "This is the next step. I'm with you the whole time. We've got this."
+The lines were long and intimidating, the air filled with the echoing sounds of PA announcements, the sharp clatter of plastic bins, and the relentless *beep-beep-beep* of the metal detectors. Leo tensed, the sheer sensory input of the crowded space threatening to overwhelm him again.
 
-She guided them to a lane designated for travelers with medical needs, speaking calmly and clearly to the first TSA agent. She presented both their boarding passes and explained the situation with quiet confidence. The agents, seeing the notes on Leo's ticket and his visible distress, were professional and patient. The process was still stressful—the loud commands, the need for Leo to undergo a careful pat-down while Olivia stood by, the separate screening of his wheelchair—but Olivia’s unwavering presence was a constant, protective buffer. She never left his side, her gaze a silent promise: *I'm here. I'm not leaving you.*
+But beneath the sensory overload was a deeper, colder dread. The ghost of Delores still clung to him. He tried to put on a brave front, desperately trying to shut down the lingering anxiety that she somehow still controlled his fate, but his mind raced with worst-case scenarios. She had thrown him into the freezing rain, discarding him like trash—but what if she changed her mind? What if her twisted need for control sent her chasing after him to drag him back? *What if she's here? What if they won't let me through?*
 
-Finally, they were through. The moment they stepped out of the checkpoint and into the secure "airside" of the concourse, it felt like passing through a membrane into a different, more controlled world.
+Olivia felt the sudden, rigid tension in his shoulders. She gave his arm a reassuring squeeze. "Okay, Leo," she said, her voice a low, steady anchor. "This is the next step. I'm with you the whole time. We've got this."
 
-### Part 10: Airside Mission - Clothing
+She guided them away from the main chaotic snake of passengers and into a designated lane for travelers with medical needs and mobility devices. She presented both their boarding passes and Leo's ID to the document checker, her voice projecting quiet confidence. The checker nodded and waved them through to the screening area.
 
-Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside and dialed Stella.
+Because Leo couldn't walk through the standard metal detector, he had to undergo an alternative inspection. A male TSA officer approached them. He took one look at Leo’s pale, terrified face and Olivia’s fiercely protective stance, and his standard bureaucratic demeanor softened instantly.
 
-"Stel, it's me," Olivia said the moment the call connected. "We're through security. He's safe." She took a breath, her voice lowering slightly as she looked at Leo's soaked and disheveled state. "I know we talked about just getting him a sweatshirt, but his clothes are completely soaked through and just filthy. He really needs a full change of everything to get through this trip comfortably. I'm at a shop now, and I think I should get him everything: a t-shirt, the new hooded sweatshirt, sweatpants, a pack of underwear, and some socks. Is that okay?"
+"Good morning, folks. First time flying today?" the officer asked gently, his tone conversational and calm.
+
+Leo gave a jerky, terrified nod.
+
+"Alright, no problem at all. My name is Officer Davis," he said, crouching down slightly to be closer to Leo's eye level. "I see you've got some special assistance notes here. Because you're in the chair, the metal detector is going to beep, so we bypass that. Instead, I just need to do a manual inspection of you and your wheelchair. I'm going to tell you exactly what I'm doing before I do it, okay? Nobody is going to rush you."
+
+Leo looked at Olivia, his eyes wide. She stepped right to the side of his chair, keeping herself fully in his line of sight. "I'm right here, Leo. I'm not moving."
+
+"Okay, sir," Officer Davis began, keeping his voice low and soothing. "First, I'm just going to use the back of my hands to pat down your legs and your sides. Just checking your pockets."
+
+True to his word, the officer moved slowly and predictably, his touches light and purely professional, constantly checking Leo's face for signs of distress. "You're doing great. Now I'm just going to run my hands along the back and bottom of your wheelchair."
+
+Finally, the officer took a small white cloth swab. "Last step. I'm just wiping this little cloth on the handles and wheels of your chair to test for chemicals, and then you're all set." He placed the swab into a machine, which flashed green a few seconds later.
+
+Officer Davis smiled warmly and stepped back. "All clear. You guys have a great, safe flight home for Thanksgiving."
+
+"Thank you so much," Olivia said earnestly, profound relief in her voice.
+
+She grabbed her bags off the X-ray belt, took the handles of Leo's chair, and pushed him out of the checkpoint.
+
+The moment they stepped off the sterile rubber mats and onto the carpeted concourse of the secure "airside" terminal, it felt like passing through a membrane into a different, untouchable world.
+
+Leo let out a massive, shuddering sigh, his entire body deflating as the tension finally left his muscles. He looked back at the security checkpoint they had just crossed. He knew the post-9/11 rules: only ticketed passengers were allowed past that line.
+
+The realization hit him with a profound, beautiful finality. Delores had thrown him out, but his exhausted mind had still been terrified she might show up to cause a scene or pull one last vindictive stunt to stop him from leaving. But it didn't matter now. Stella had bought the very last seat on that airplane. The flight was completely sold out. Even if Delores tracked him to Sea-Tac, she couldn't get past that invisible wall. There was no ticket for her to buy. There was no way for her to reach him.
+
+He was inside the fortress now. And he was safe.
+
+### Part 10: Airside Mission – Clothing
+
+Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside, parked him near a rack of thick sweatshirts, and dialed Stella.
+
+"Stel, it's me," Olivia said the moment the call connected. "We're through security. He's safe." She took a breath, her voice lowering slightly as she looked down at Leo's soaked and disheveled state. "I know we talked about just getting him a sweatshirt, but his clothes are completely soaked through and just filthy. He really needs a full change of everything to get through this trip comfortably. I'm at a shop now, and I think I should get him everything: a t-shirt, the new hooded sweatshirt, sweatpants, a pack of underwear, and some socks. Is that okay?"
 
 "Liv, if you think that's what he needs, then that's what we'll do. Absolutely," Stella's voice came back, full of confidence in Olivia's assessment. "I trust your judgment completely. Get him whatever you think is best." Her voice then hardened with grim purpose. "But Olivia, please, remember to get a receipt for everything. This is all coming from the trust fund, so I need it for the records. And I am adding every single cent to the bill we're sending Delores."
 
 "Understood," Olivia said, her own voice firm. "Full set of clothes, keep the receipts. I'm on it."
 
-After ending the call, she turned to Leo. Even in his exhausted state, she made sure he was part of the process. "Okay," she said softly, holding up two sweatshirts. "Gray or black?"
+After ending the call, she turned to Leo. Olivia knew exactly how Delores had restricted him, belittling his preferences and stripping away his identity. Getting him dry was the physical priority, but Olivia recognized a crucial psychological one, too: she was going to make sure he chose his own clothes.
 
-Leo looked at them for a moment, then pointed weakly to the gray one. They continued this way, with Olivia presenting options and Leo making the final choice for each item. It was a small act, but it was another step in restoring his agency.
+"Okay," she said softly, holding up two thick, fleece-lined sweatshirts from the rack. "Gray or black?"
 
-At the register, Olivia paid for the items and carefully tucked the long receipt into her wallet. With the bag of new, warm clothes in hand, she turned to Leo with a reassuring smile.
+Leo looked at them for a moment. He pointed weakly but definitively to the **light grey** hooded sweatshirt. It was clean, simple, and a world away from the heavy, dark blue cotton currently clinging to his skin.
+
+"Gray it is," Olivia smiled, draping it over her arm. She then held up the matching **light grey** sweatpants. "Matching set?"
+
+Leo gave a small, resolute nod. They continued this way, with Leo selecting a fresh white t-shirt and thick socks. At the register, Olivia paid for the items and carefully tucked the long receipt into her wallet. With the bag of new, warm clothes in hand, she turned to Leo with a triumphant smile.
 
 "Okay, mission accomplished. Let's go find a family restroom and get you changed."
 

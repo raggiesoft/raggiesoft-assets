@@ -1312,7 +1312,7 @@ Jessica checked her watch, her tactical transit radar pinging. "If we hustle, we
 
 We burst out of Broil's and sprinted down the sidewalk.
 
-"There’s our bus coming off I-405!" Jess called out as the shelter came into view. "We just made it."
+"There’s our bus coming around the corner!" Jess called out as the shelter came into view. "We just made it."
 
 We rolled up the hydraulic ramp. Jessica flashed her Quantum Blue Badge to the operator. "I need to pay my brother’s fare. He’s going Two-Zone."
 
@@ -1384,7 +1384,7 @@ We reversed our route, dropping my visitor badge in the lobby bin and making the
 
 A few minutes later, the heavy articulated doors of a TAPS express bus hissed open. We rolled up the hydraulic ramp.
 
-Jessica smoothly flashed her glossy Quantum Blue Badge to the operator, covering her own fare with frictionless corporate ease. "I'm paying for my brother," she instructed, pulling cash from her wallet. "Two-zone, transfer please."
+Jessica smoothly flashed her glossy Quantum Blue Badge to the operator, covering her own fare with frictionless corporate ease. "I'm paying for my brother," she instructed, pulling cash from her wallet. "Two-zone transfer please."
 
 The driver grabbed the paper transfer ticket, tearing it off the pad and handing it down to me. I folded it carefully into my pocket, securing our transit lifeline, and took a seat near the accessible bay.
 

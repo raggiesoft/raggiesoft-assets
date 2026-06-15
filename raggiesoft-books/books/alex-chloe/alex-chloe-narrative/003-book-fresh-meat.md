@@ -640,7 +640,7 @@ Chloé and Alex exchanged a look of profound relief and shared, incredulous amus
 
 Across the room, Luna Porter let out a slow breath she hadn't realized she was holding. "Okay," she whispered to Leo, who was using his Quantum Communicator XT with a grin. "Mrs. DeMarco is officially my new hero. Did you see that? French and German? Josh and Kevin looked like they were going to wet their pants!" Leo typed, his own amusement evident: SHE IS VERY… EFFECTIVE. AND CHLOÉ… VERY BRAVE. LIKE YOU. GOOD TO SEE BULLIES GET WHAT THEY DESERVE. THE TRASH DUTY PART IS FUNNY. HOPE THEY HAVE TO SORT RECYCLING. Luna snickered. "Totally. Maybe Mrs. DeMarco will make them do it in French." She watched Chloé and Alex, who were now actually starting to eat their lunch, a visible sense of safety settled around them. "You know, Leo," Luna said thoughtfully, "that Chloé girl… she's alright. Really alright." Leo Porter nodded, a thoughtful expression on his face as he observed the other pair. YES. SHE IS. The day, and freshman year, suddenly felt a little less daunting, knowing there were unexpected allies and such effective forms of justice to be found, even in the chaotic world of the Northwood High cafeteria.
 
-## Chapter 2: A First Winter
+### Chapter 2: A First Winter
 
 ### Part 1: A Canadian Word (Winter 1999)
 

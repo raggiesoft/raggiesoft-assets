@@ -478,7 +478,7 @@ I fed the coins into the mechanical farebox, the heavy *clink-clink-clink* echoi
 
 As the bus merged onto the wet highway, speeding toward the massive corporate tech hubs of King County, Jessica leaned in close to deliver the final logistics.
 
-"I'm putting the maximum tier Horizon Pass on my corporate card for you on December first, so you won't have to carry all that metal in your pocket much longer," Jessica whispered, giving me a reassuring smile. Her voice then dropped into its authoritative, technical register. "If you two hop off at the Bellevue Transit Center, it is a very short walk to the First Continental Bank branch on NE 8th Street. You will get there about thirty minutes before they open."
+"I'm putting the maximum tier Horizon Pass on my corporate card for you on December first, so you won't have to carry all that metal in your pocket much longer," Jessica whispered, giving me a reassuring smile. Her voice then dropped into its authoritative, technical register. "Bellevue Transit Center is coming up next. You two hop off there, and it is a very short walk to the First Continental Bank branch on NE 8th Street. You will get there about thirty minutes before they open."
 
 "Got it," Kristin nodded, her posture straightening as she mentally assumed command of the escort detail.
 
@@ -486,21 +486,23 @@ As the bus merged onto the wet highway, speeding toward the massive corporate te
 
 "I have the route memorized," Kristin assured her. "I'll have us take the 230 from the transit center. I will text you the second we board the bus leaving Bellevue."
 
-"Perfect," Jessica said. The bus began to decelerate as it approached the Overlake exits. "I will be at the stop waiting for you."
+"Perfect," Jessica said.
 
-"Bye, Jess," Kristin and I said in unison as Jessica stood up.
+The bus began to decelerate as it approached the downtown Bellevue exits.
 
-Jessica gave me one last, fierce smile before stepping off the bus into the rain to head to the Quantum campus.
+"Bye, Jess," Kristin and I said in unison as we stood up and moved toward the aisle.
 
-The doors hissed shut. The bus lurched forward, carrying Kristin and me deeper into the grid toward Downtown Bellevue. I took a deep breath, my hands resting on my knees, feeling the heavy roll of spare quarters pressing against my thigh. I was about to walk into a bank and permanently cut off Delores's access to my life. I was terrified, but sitting next to Kristin, I knew my perimeter was absolutely secure.
+Jessica gave me one last, fierce smile from her seat. "I will be at the Overlake stop waiting for you."
+
+Kristin and I stepped off the bus onto the covered concrete platform of the Bellevue Transit Center, bracing against the rain. The doors hissed shut behind us, and the heavy vehicle lurched forward, carrying Jessica further north toward the Quantum campus.
+
+I took a deep breath, my hands resting in my jacket pockets, feeling the heavy roll of spare quarters pressing against my thigh. I was about to walk into a bank and permanently cut off Delores's access to my life. I was terrified, but standing next to Kristin, I knew my perimeter was absolutely secure.
 
 ### Part 2: The Sentinel's Shield – 8:15 AM (PST)
 
-The TAPS 565 pulled into the Bellevue Transit Center, its heavy air brakes hissing as it knelt to the wet curb.
+As the heavy diesel roar of the TAPS 565 faded into the drone of the morning traffic, Kristin and I stood together under the massive, sweeping concrete awnings of the transit island. The morning commuter rush was in full swing. Hundreds of tech workers and students carrying umbrellas hurried across the wet asphalt, funneling onto the dozen different TAPS buses idling in their respective bays.
 
-Kristin and I stepped off the bus and under the massive, sweeping concrete awnings of the transit island. The morning commuter rush was in full swing. Hundreds of tech workers and students carrying umbrellas hurried across the wet asphalt, funneling onto the dozen different TAPS buses idling in their respective bays.
-
-I pulled the collar of my heavy winter coat up against the biting wind. I checked the time on my newly activated silver flip phone.
+I pulled the collar of my heavy winter coat up against the biting wind and checked the time on my newly activated silver flip phone.
 
 "We have about forty-five minutes until First Continental Bank unlocks their doors," I said, my voice tight with nervous energy. "We should just stay under the shelter here until it's time to walk up to Northeast 8th Street."
 
@@ -592,7 +594,7 @@ At 9:00 AM sharp, the security guard unlocked the heavy glass doors. We walked s
 
 "Good morning," the bank employee smiled politely. "How can I help you today?"
 
-I took a deep, shuddering breath, pulling my Washington State ID from my wallet and sliding it under the glass partition.
+I took a deep, shuddering breath, pulling my Virginia Drivers License from my wallet and sliding it under the glass partition.
 
 "I need to close a joint checking account," I said, my voice tight but resolute. "The account I have is with my ex, and my two sisters want me to close it before something bad happens."
 
@@ -804,15 +806,15 @@ I stared at the coolers, my mind blown all over again. I grabbed an ice-cold sod
 
 Jessica and Kyle simultaneously hit Ctrl + Shift + B on their keyboards.
 
-A split second later, a loud, obnoxious Windows error *'ding'* erupted from Kyle's laptop.
+A split second later, a loud, obnoxious Quantum OS error *'ding'* erupted from Kyle's laptop.
 
-Kyle threw his hands up in the air, groaning loudly as he read the red text at the bottom of his screen. "CS0266: Cannot implicitly convert type 'double' to 'int'. An explicit conversion exists... I forgot the damn cast!"
+Kyle threw his hands up in the air with just a fraction too much dramatic flair, groaning loudly as he read the red text at the bottom of his screen. "CS0266: Cannot implicitly convert type 'double' to 'int'. An explicit conversion exists... I forgot the damn cast!"
 
 The table absolutely erupted.
 
 "PIZZA! PIZZA! PIZZA!" the team chanted, pointing relentlessly at Kyle.
 
-"Alright, alright, I yield! Lunch is on me for the whole group!" Kyle laughed, pulling out his wallet. He pointed a finger at Jessica, grinning deviously. "And yes, before you ask, I'm ordering one with extra anchovies just for our fearless TPM."
+"Alright, alright, I yield! Lunch is on me for the whole group!" Kyle laughed, pulling out his wallet. He caught Jessica's eye for a split second—a microscopic, knowing look passing between them—before pointing a finger at her, grinning deviously. "And yes, before you ask, I'm ordering one with extra anchovies just for our fearless TPM."
 
 "Don't you dare," Jessica shot back, laughing as she closed her laptop. "I will revoke your server access, Kyle."
 
@@ -918,7 +920,7 @@ I wrapped my arm around Kristin’s waist, let out a long, shuddering exhale, an
 
 We met Jessica in the sprawling, glass-walled lobby of Quantum Building 35 just after four o'clock. She signed us in at the security kiosk, printing two fresh visitor badges before escorting us up to the third floor.
 
-Her office was a testament to her rank. It wasn't a standard cubicle; it was a private corner suite with massive monitors displaying real-time server loads for the *Aegis Protocol* matchmaking network.
+Her office was a testament to her rank. It wasn't a standard cubicle; it was a private corner suite with massive monitors displaying real-time server loads for the Aegis Protocol matchmaking network.
 
 "I have about forty-five minutes of crunch-time fires to put out before the holiday code freeze goes into effect," Jessica said, wheeling behind her massive desk. She pulled a pristine, wiped laptop from a charging rack and handed it to me. "It's sandboxed and off the main corporate network. You can use it to check your email."
 
@@ -928,7 +930,7 @@ My stomach instantly dropped. My processor spiked with terror.
 
 My inbox was a warzone. There were thirty-four new emails, all from Delores, sent in rapid succession starting right around 9:05 AM—the exact moment the First Continental teller had handed me my \$294.87.
 
-*WHERE IS THE MONEY?* *MICHAEL ANSWER ME RIGHT NOW.* *YOU ARE A THIEF. YOU STOLE MY MONEY.* *CALL ME IMMEDIATELY OR I AM CALLING THE POLICE.* *HOW DARE YOU DO THIS TO ME. YOU OWE ME.*
+*WHERE IS THE MONEY? MICHAEL ANSWER ME RIGHT NOW.* *YOU ARE A THIEF. YOU STOLE MY MONEY. CALL ME IMMEDIATELY OR I AM CALLING THE POLICE. HOW DARE YOU DO THIS TO ME. YOU OWE ME.*
 
 My hands started shaking. Even thousands of miles away, the digital screaming made my chest tight. For two years, an email like this meant I was about to be screamed at for hours, starved, or punished.
 
@@ -956,7 +958,9 @@ It wasn't just a corporate command center. It was a shrine.
 
 Every single wall, every corkboard, and the entire perimeter of her massive mahogany desk was covered in framed photographs. And there wasn't a single solo portrait among them. Every picture featured the pack.
 
-I stood up slowly, walking over to a large corkboard near the door. Pinned to the center was a faded, curled photograph from 1993—Rachel and me huddled under the heavy red quilt of the bottom bunk bed on Delaney Street, with a thirteen-year-old Jessica hanging upside down over the mattress to look at us.
+The absolute centerpiece—the very first thing anyone saw when they crossed the threshold of the glass door—was a massive, prominently displayed silver frame sitting squarely on her desk. It was a photo of the three of us, captured in mid-scream. It was the exact moment Jessica had opened the envelope confirming she had won the full-ride scholarship to Northwest Pacific University, securing her guaranteed employment track at Quantum. Rachel and I were practically tackling her, our faces illuminated with absolute, life-altering triumph.
+
+I stood up slowly, walking over to a large corkboard near the door. Pinned next to a network topology map was a faded, curled photograph from 1993—Rachel and me huddled under the heavy red quilt of the bottom bunk bed on Delaney Street, with a thirteen-year-old Jessica hanging upside down over the mattress to look at us.
 
 Next to it was a photo from 1995. The three of us were squished onto the pull-out sofa bed in our living room, trapped in our rigid medical binders but fiercely holding hands over the pillow wall.
 
@@ -970,7 +974,7 @@ But three thousand miles away, inside one of the most highly secured, globally p
 
 "That's why," I whispered, the revelation snapping into place as I turned to look at Jessica. "Café 34. Tyler, Kyle... they didn't even ask who I was. They already knew."
 
-"Of course they knew," Jessica said softly, wheeling back behind her desk. She reached out and straightened a silver-framed photo of Rachel and me sitting at the kitchen table. "When my team comes into this office to review code or report on server loads, they don't get to look at whiteboards. They look at my family. My entire department knows exactly who my world revolves around."
+"Of course they knew," Jessica said softly, wheeling back behind her desk. She reached out and straightened the massive silver frame from the NPU acceptance day. "When my team comes into this office to review code or report on server loads, they don't get to look at whiteboards. They look at my family. My entire department knows exactly who my world revolves around."
 
 I stared at her, a thick, hot lump forming in my throat. The game testers rallying around me during my meltdown, offering me the first slice of pizza—it wasn't just generic corporate politeness. It was respect. They were taking care of their boss's little brother.
 
@@ -1030,7 +1034,7 @@ Rachel and Jessica both looked at Kristin, the weight of what she had done settl
 
 "Michael," Jessica said, her voice dropping into that fierce, older-sister tone. "Listen to me. You are a survivor. But if you ever feel like you are ready to open that door, if you ever want to explore physical intimacy with Kristin, you have my absolute blessing."
 
-"Mine too," Rachel added fiercely, gripping my hand tight. "Kristin is my best friend. There is no one on this planet I trust more with your safety."
+"Mine too," Rachel added fiercely, gripping my hand tight. "Kristin is my best friend. I trust her just as much as I trust Ashley."
 
 I looked across the aisle at Kristin.
 
@@ -1052,7 +1056,7 @@ I sat on one of the plush barstools, watching my big sister expertly flip the bu
 
 Jessica plated the first two burgers, turned off the grill, and wheeled over to my stool. She reached up, pulling me down slightly to press a warm, lingering kiss to my right cheek.
 
-"She is a Sentinel, Michael," Jessica whispered softly, leaving absolutely no room for doubt. "You are completely safe with her."
+"She is a Sentinel, Michael," Jessica whispered softly, leaving absolutely no room for doubt. "You are completely safe with her. Just as safe as you were with Ashley."
 
 A second later, Rachel stepped up to my left side. She wrapped her arm tightly around my shoulders and pressed a firm, affectionate kiss to my left cheek.
 

@@ -40,7 +40,7 @@ Sure enough, within seconds, a uniformed attendant approached her window. "Fill 
 
 Remembering it was her first long trip with the car, Stella nodded. "Uh, yes, please. That would be great."
 
-The attendant efficiently popped the hood latch from inside, went to the front, raised the hood, pulled out the diTAPSick, wiped it, reinserted it, and checked the level. He then lowered the hood and came back to the window as the pump clicked off. "Oil looks perfect," he reported, before washing the front windshield. Stella paid him through the window when he was done, the full-service experience feeling quite thorough.
+The attendant efficiently popped the hood latch from inside, went to the front, raised the hood, pulled out the dipstick, wiped it, reinserted it, and checked the level. He then lowered the hood and came back to the window as the pump clicked off. "Oil looks perfect," he reported, before washing the front windshield. Stella paid him through the window when he was done, the full-service experience feeling quite thorough.
 
 Stella then carefully followed the signs to merge back onto the northbound Turnpike. As the ramp fed them onto the main highway, she saw exactly what Arthur had described: the wide expanse of asphalt splitting into two distinct roadways. Large overhead signs clearly directed trucks and buses right, while indicating "Cars Only" for the lanes to the left.
 

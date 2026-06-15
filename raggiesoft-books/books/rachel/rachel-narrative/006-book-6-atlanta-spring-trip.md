@@ -148,7 +148,7 @@ Jessica let out a sharp, disgusted sigh. She locked her eyes on me and Rachel, g
 
 We didn't hesitate. We slipped out of the dining room, following her wheelchair into the living room. We gathered right next to the massive, pulled-out sofa bed—the heavy floral mattress that had become the permanent, shared Base Camp for all three of us ever since Jessica came home from the hospital after her fall.
 
-Jessica reached over to the end table and grabbed the heavy, beige cordless phone off its charging cradle.
+Jessica reached over to the end table and grabbed the heavy, black cordless phone off its charging cradle.
 
 "Jess," I whispered, my analytical brain instantly catching the breach in protocol. "It's barely four-thirty in the afternoon. Dad is going to lose his mind if you make a long-distance call before nine o'clock."
 
@@ -218,7 +218,7 @@ She hung up the phone. In the dining room, Dad was still loudly complaining to M
 
 "Thank you so much for your help," Jessica said warmly into the receiver. "I'll see you in the fall."
 
-She hit the 'Off' button on the heavy beige cordless phone and lowered it to her lap, letting out a long, shuddering exhale.
+She hit the 'Off' button on the heavy black cordless phone and lowered it to her lap, letting out a long, shuddering exhale.
 
 "You got the apartment?"
 
