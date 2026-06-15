@@ -1,0 +1,54 @@
+# Part 8: The Checkpoint – Thursday, October 20, 2044 – ~04:50
+
+Wyatt tossed his empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
+
+The Checkpoint was a severe, fortified bottleneck. A thick wall of bulletproof glass separated the S.H.O.P. Marine contractors from the Apex Supervisors (S.H.O.P. Foremen)—heavily armored men in ballistic vests holding combat shotguns.
+
+He stepped up to the yellow line. He knew the drill. He had done this exact song and dance on deep-sea rigs and off-world refineries a dozen times before. The corporate logos changed, but the hellholes were always the same.
+
+"Name, serial, age, and retinal scan," the Supervisor barked through the two-way speaker, not even looking up from his terminal.
+
+"Colton, Wyatt J. Contractor ID: 884-Bravo. Age twenty-three," Wyatt said flatly. He leaned down, letting the red laser sweep across his right eye.
+
+The scanner beeped green. A heavy metal transfer drawer slid open under the glass. Inside was a battered Level 1 PDA and a heavy, Mark-IV industrial flashlight. No sidearm. He grabbed the gear.
+
+"Sector 4 Perimeter Patrol," the Supervisor droned. "Take a seat on the bench past the turnstile and wait for your partner.".
+
+Wyatt pushed through the heavy metal turnstile, walked over to a bolted-down steel bench, and sat heavily. He checked the battery on his flashlight, waiting for whoever Apex management decided to chain him to for the next twelve hours.
+
+A few minutes later, the turnstile clunked loudly.
+
+He looked up. It was the young woman from the showers.
+
+She pushed through the metal gate, clutching her own heavy flashlight to her chest like a shield. In her clean, slate-blue Helios uniform, she looked incredibly small amidst the sea of abrasive black and hazard-yellow. She stepped up to the yellow line on the other side of the glass, her eyes darting nervously toward the armed guard.
+
+"Name, serial, age, retinal scan," the Supervisor repeated, taking a sip from his mug.
+
+"Um... Hayes, Sarah M.," she stammered, leaning into the scanner. "Contractor ID: 912-Echo. Age... age eighteen.".
+
+Hearing her say it out loud hit Wyatt harder than he expected. Eighteen. Fresh out of high school and sold into a corporate meat grinder millions of miles from anything resembling a normal life. This was her first hellhole.
+
+She finished at the glass, pushed through the turnstile, and nearly tripped over her own steel-toed boots. She looked up, realizing he was the one waiting for her.
+
+She recognized him immediately from the showers—the one guy who didn't stare at her. She froze, her posture instantly turning defensive.
+
+Wyatt stood up to his full 6'1" height. He knew exactly what she saw: a massive, scarred, hardened twenty-three-year-old veteran in a place where the veterans were usually predators. If he didn't defuse this right now, she was going to spend the next twelve hours jumping at her own shadow.
+
+He made a conscious decision. He wasn't going to be another monster in her day.
+
+He kept his distance, leaving a wide, respectful gap between them. He didn't try to force a smile—that would just look unnatural and creepy. Instead, he offered a simple, grounding nod. Professional and calm.
+
+"You're Hayes, right?" he asked, keeping his voice low and even to cut through the harsh buzzing of the overhead lights. "I'm Colton. Supervisor says we're partnered up for Sector 4.".
+
+She blinked, processing the lack of hostility in his voice. She looked at the nametape on his chest, then back up to his face. The defensive tension in her shoulders dropped just a fraction of an inch.
+
+"Y-yes," she stammered, clearing her throat to find a steadier voice. "Sarah Hayes. It's... it's my first day.".
+
+"I know," he said softly. He gestured down the long, dimly lit corridor with his flashlight. "Stay close, keep your head down, and we'll get through the shift. I've got your back.".
+
+She looked at him, really looking this time, and realized he meant it. For the first time since she stepped off that transport shuttle, a tiny sliver of relief washed over her face.
+
+"Okay," she breathed. "Right behind you, Colton.".
+
+
+

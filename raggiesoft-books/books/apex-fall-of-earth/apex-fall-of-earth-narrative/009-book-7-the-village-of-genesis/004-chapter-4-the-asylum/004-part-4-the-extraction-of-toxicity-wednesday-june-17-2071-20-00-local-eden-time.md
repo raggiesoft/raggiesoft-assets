@@ -1,0 +1,110 @@
+# Part 4: The Extraction of Toxicity – Wednesday, June 17, 2071 – 20:00 (Local Eden Time)
+
+The golden hour had faded into a cool, starry night over the Village of Genesis.
+
+Jack Colton stood on the wooden porch of Guest Cabin Four, the ambient light from the cabin’s windows casting long shadows across the timber deck. He had just escorted Sloane back from the communal dining pavilion, maintaining his polite, diplomatic duties despite the incredibly tense morning at the Lunar Embassy.
+
+Sloane stood in the doorway, her arms wrapped around herself. The fragile, terrified refugee mask was still perfectly in place, but there was a desperate, calculating edge to her dark eyes tonight.
+
+"Jack," Sloane murmured, her voice a soft, pleading whisper. She took a step closer, invading his personal space. "Please don't go back to the Main Residence tonight. Just stay here. I can't close my eyes without seeing those Syndicate mercenaries."
+
+Jack offered a gentle, empathetic smile, but he didn't cross the threshold into the cabin. His boundaries were set in stone. "You're perfectly safe here, Sloane. The perimeter is monitored. But I have to go home. Willow and the twins are waiting for me."
+
+Sloane’s jaw tightened. The mention of the thirteen-year-old girl and his sisters ignited a flash of pure, toxic frustration. The gentle, traumatized scavenger act hadn't worked. It was time to escalate the tactics.
+
+She dropped her arms from her chest. Her entire posture shifted, the fragile victim melting away into something sharply seductive. She took another step forward, closing the distance until she was practically flush against him. She reached up, resting her hands on the broad, muscular expanse of his chest, her fingers tracing the collar of his Henley.
+
+"Jack," Sloane purred, her voice dropping an octave, laced with a heavy, transactional promise. "You've been so good to me. Let me be good to you. You spend your whole life taking care of everyone else. Stay with me tonight. I can show you things... things you've never experienced in this quiet little village."
+
+Jack froze.
+
+At twenty-one, Jack’s exposure to romantic love was entirely theoretical. His entire universe of women consisted of his fierce, commanding older sisters, his brilliant younger twins, his deeply loving mother, and his best friend, Willow. He had never been propositioned, and he had certainly never experienced physical intimacy.
+
+Sloane fully expected his inexperience to be his downfall. She expected the young, isolated pioneer to completely crumble at the offer of a wild, physical escape.
+
+Instead, Jack took a deliberate, firm step backward, physically removing her hands from his chest.
+
+His gravitational empathy didn't read her offer as affection; it read it as a cold, desperate transaction. It felt entirely wrong. The Colton family's love language was built on unconditional, unbroken loyalty, not leveraging one's body for security.
+
+"I don't operate like that, Sloane," Jack said softly, his melodic voice completely devoid of temptation. "You don't owe me anything. You don't have to buy your safety."
+
+Sloane’s eyes flashed with genuine, unadulterated anger. He was actually turning her down. Her ultimate trump card had just bounced harmlessly off his absolute, unshakeable moral compass.
+
+"Then let's leave," Sloane blurted out, her frustration overriding her careful script. "Jack, you don't need them. You don't need the Commander breathing down your neck, or those creepy twins watching your every move. We could take one of your family's ships. We could leave Eden right now. Just you and me. We could go anywhere in the galaxy. You're wasted on this dirt rock."
+
+The air on the porch instantly turned to ice.
+
+Jack’s diplomatic warmth vanished, replaced by a cold, sudden, piercing clarity. The illusion completely shattered.
+
+"Leave?" Jack asked, his dark eyes narrowing into a sharp, analytical stare. "You spent the entire morning crying in terror, begging us not to hand you over to the Syndicate. You said you were running for your life. Why would a terrified refugee want to steal a ship and run away from the most heavily fortified, impenetrable fortress in the galaxy?"
+
+Sloane opened her mouth, stammering as she realized her massive, catastrophic tactical error. "I... I just meant—"
+
+"She meant," a cold, lethal voice interrupted from the shadows, "that she realized the only way to pay off a two-million-credit syndicate debt and secure her own freedom was to steal a Colton asset."
+
+Sloane gasped, spinning around.
+
+Stepping out from the dark perimeter of the pine trees was twenty-five-year-old Ellie Colton. The Commander's dark eyes were burning with a fierce, terrifying satisfaction. Flanking her on either side, moving in perfect, eerie synchronization, were nineteen-year-old Molly and Claire.
+
+And standing a few feet behind them, her arms crossed over her chest, was Willow.
+
+"We breached the Earth Remnant's encrypted subspace logs regarding outer-rim bounties," Molly stated, her voice polite, analytical, and utterly devastating.
+
+"The mercenary at the Embassy was entirely truthful," Claire added, adjusting her posture to mirror her twin. "Sloane owes the Crimson Syndicate exactly two million credits. She is a documented grifter and smuggler. She didn't randomly crash here. She aimed for the system, hoping to manipulate a localized asset to pay her debts."
+
+Ellie marched up the wooden steps of the porch, stopping right next to Jack. She didn't look at him; her dead-eyed stare was fixed entirely on the refugee.
+
+"I gave you an order this morning, Sloane," Ellie demanded, her voice ringing with the authority of an executioner. "I told you to tell the truth. I am giving you exactly five seconds to confess, because I have half a mind to hail that Syndicate frigate and invite them down to the landing pad."
+
+Sloane backed up against the doorframe, her face pale, her mask completely ripped away. But instead of apologizing, her true, toxic nature flared up. She sneered, glaring at Ellie, and then shot a venomous look toward Willow.
+
+"You people are pathetic," Sloane spat, folding her arms defensively. "You sit on a multi-billion-credit planet playing house, acting like you're the saviors of the universe. I do what I have to do to survive! I would have made him happy! I would have taken him away from this suffocating, inbred little cult!"
+
+Jack stared at her. The toxicity radiating from Sloane was thick and suffocating.
+
+He thought back to the university archives he had read in the mahogany library. Aria had curated dozens of psychological case studies for his diplomatic training—specifically, the archival histories of men named Leo Porter and Alex Miller. They were cautionary tales of men whose profound empathy had been weaponized by deeply manipulative, toxic women who isolated them from their families, tore them away from their support systems, and slowly drained their souls.
+
+Jack looked at Sloane. She was exactly the same archetype. A parasite looking for a host.
+
+He refused to be the host.
+
+Jack turned his head, his eyes bypassing Sloane entirely to look out into the yard. He locked eyes with thirteen-year-old Willow. Her dark eyes were worried, her hands gripping the fabric of her flannel shirt. Jack didn't say a word. He just offered her a slow, absolute, reassuring nod. *The perimeter is holding. The threat is leaving.*
+
+Willow’s shoulders instantly dropped, a fierce, relieved smile touching her lips.
+
+Jack turned his gaze back to Sloane. His deep, gravitational empathy was completely shut off. In its place was the cold, unshakeable granite of Wyatt Colton's son.
+
+"Commander," Jack said, his voice completely flat, addressing his sister directly. "The diplomatic liaison formally requests that this individual's Level-1 Civilian Asylum be permanently revoked."
+
+Ellie didn't hesitate for a microsecond.
+
+"Request granted," Ellie declared instantly. "Asylum revoked. Status updated to Hostile Alienation."
+
+Ellie pointed her customized heavy plasma sidearm directly at the dirt path.
+
+"Pack your bag, Sloane," Ellie ordered. "Your scrap-runner has been patched. The hull is sealed, and the life-support will function exactly long enough for you to reach the nearest transit relay. We did not refill your weapons, and we did not upgrade your drives."
+
+"You're sending me out there?" Sloane gasped, genuine terror returning. "The Syndicate is waiting!"
+
+"What happens beyond the Aegis shield is not our jurisdiction," Jack replied coldly, stepping off the porch and turning his back on her. "You broke the rules of the house. You have to leave."
+
+Thirty minutes later, the Colton family stood in the Operations Center of the mountain estate.
+
+On the massive holographic table, they watched the telemetry of Sloane’s battered, sputtering scrap-runner break orbit. The ship passed through the hexagonal iris of the planetary deflector shield.
+
+The moment the scrap-runner cleared the threshold, the Aegis grid snapped shut with absolute, brilliant blue finality.
+
+"She has cleared the perimeter, Administrator," Aria reported smoothly. "Wait. Detecting a massive spatial anomaly directly outside the lunar orbit."
+
+The glowing red icon of the Crimson Syndicate frigate materialized on the board. They hadn't left the system. They had been sitting perfectly still in the dark, waiting for the shield gate to open.
+
+On the telemetry map, a thick, green tractor-beam engaged from the frigate, locking instantly onto Sloane's crippled ship and reeling it into their holding bay. A few seconds later, the Syndicate vessel spun up its sub-light drives and vanished into the black, taking their prisoner with them.
+
+Jack stood beside Ellie, his arms crossed over his chest, watching the empty space where the ships had been.
+
+"I'm sorry I brought her down here, El," Jack murmured quietly. "I should have seen it."
+
+"You did exactly what you were supposed to do, Jack," Ellie corrected softly, her tactical edge softening as she bumped her shoulder against his. "You offered a lifeline. It’s not your fault she chose to hang herself with it. The perimeter is clean."
+
+Jack nodded, a profound sense of relief washing over him. The toxicity was gone. The unit was intact. And the village of Genesis was safe once again.
+

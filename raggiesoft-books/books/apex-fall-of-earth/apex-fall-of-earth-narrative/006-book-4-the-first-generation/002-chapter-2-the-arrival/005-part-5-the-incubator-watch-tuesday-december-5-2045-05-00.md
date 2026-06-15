@@ -1,0 +1,64 @@
+# Part 5: The Incubator Watch – Tuesday, December 5, 2045 – 05:00
+
+The automated medical bay had settled into a quiet, rhythmic hum. The flashing crimson lights were gone, replaced by the soft, warm amber glow of the localized night-cycle illumination.
+
+On the primary bio-bed, Sarah was completely submerged in a deep, medically induced restorative sleep. Her body had been pushed past the absolute limits of human endurance, and Aria was strictly regulating her vitals to ensure a smooth, uninterrupted recovery.
+
+Wyatt Colton hadn't slept a single second.
+
+He was sitting on the rolling metal stool, positioned perfectly so he could see Sarah’s rising and falling chest to his left, and the three transparent neonatal incubators lined up along the wall to his right.
+
+He leaned forward, resting his heavy forearms on his knees, his dark eyes tracking the glowing digital readouts above the bassinets.
+
+At exactly thirty-one weeks gestation, the triplets were nine weeks premature. They were incredibly small, their skin fragile and translucent, with tiny, molecularly printed CPAP masks delivering perfectly calibrated oxygen to their underdeveloped lungs. They were hooked up to a terrifying array of biometric sensors and intravenous nutrient lines.
+
+"Their metabolic baselines are stabilizing, Wyatt," Aria’s synthesized voice murmured softly from the ceiling, keeping the volume low. "Despite the severe prematurity and the traumatic intervals of Subject B and C, their genetic resilience is remarkable. They are actively fighting. I project a one hundred percent survival and stabilization rate over the next seventy-two hours."
+
+"They're Coltons," Wyatt whispered, his voice thick with a mixture of profound exhaustion and absolute, unshakable pride. "They don't know how to quit."
+
+But as he watched them, his S.H.O.P. Marine instincts kept snagging on a persistent, underlying current of distress in the room.
+
+None of the three babies were sleeping peacefully.
+
+In Bassinet 1, Ellie was thrashing. Her tiny arms continuously fought against the snug, thermal swaddle Aria had wrapped her in. She would grunt, her face turning red behind the CPAP mask, and forcefully kick her legs. Her tiny fingers constantly splayed open, grasping blindly and agitatedly at the empty air inside the incubator.
+
+She’s just got a temper, Wyatt thought, a tired, affectionate smile touching his lips. She hates being restricted by the swaddle. She wants to move.
+
+He reached into the incubator's access port, gently resting his massive, calloused finger against Ellie’s chest to soothe her. She instantly grabbed his finger with a surprisingly strong grip, but she didn't stop squirming. Her biometric monitor continued to pulse with an elevated, agitated heart rate.
+
+Next to her, in Bassinet 2, Nora was faring no better. She wasn't fighting the swaddle, but she was whimpering—a thin, reedy, continuous sound of deep distress. Her tiny head rolled back and forth against the mattress, her eyes squeezed shut.
+
+Wyatt moved his stool over. It’s the trauma, his mechanic’s brain rationalized, his chest aching as he watched his middle daughter suffer. Her cord was compressed. She had a brutal delivery, and now she’s surrounded by loud, beeping machines and bright lights. It’s sensory overload. He hummed a low, vibrating tune, lightly stroking Nora’s head. The whimpering quieted to a soft hiccup, but her tiny body remained tense, completely unable to settle into the restorative sleep she desperately needed.
+
+But it was Bassinet 3 that broke Wyatt’s heart completely.
+
+Leo was entirely silent. After the horrific, manual extraction and the terrifying minutes of severe hypoxia, the boy was alive, but he looked absolutely petrified.
+
+He lay in the center of the incubator, his body rigid. His tiny fists were balled so tightly his knuckles were white, and his eyes were wide open, staring blankly up at the ceiling of the medical bay. The heart rate monitor above his bassinet was erratic, spiking and dipping in a clear display of pure, unadulterated newborn panic.
+
+Wyatt reached through the port, cupping his heavy hand gently over his son’s tiny, trembling head.
+
+"I'm right here, little lion," Wyatt whispered, tears pricking the corners of his eyes. "You're safe. The shield is up. Nothing is going to hurt you ever again."
+
+Leo didn't relax. He remained locked in that rigid, terrifying state of shock.
+
+Wyatt let out a long, frustrated exhale, pulling his hands out of the access ports and dragging them down his bearded face. He felt entirely useless. He had built a god-tier planetary defense grid, but he couldn't even figure out how to comfort his own premature children.
+
+He assumed it was just the brutal reality of being born nine weeks early. They were cold, they were traumatized from the chaotic delivery, and they were hooked up to a terrifying array of medical machinery.
+
+Wyatt looked up at the ceiling, thinking of the sprawling, beautifully painted nursery waiting upstairs. He thought of the three massive, heavily timbered cribs he had spent hundreds of hours meticulously hand-milling, spacing the slats to a perfect sixty millimeters, ensuring they each had their own distinct, flawless space to grow.
+
+We just need to get them out of these plastic boxes, Wyatt reasoned with himself, staring at the sterile clinical equipment. Once they get stronger... once I can carry them upstairs and put them in their own comfortable, separate cribs, they’ll finally be able to sleep.
+
+A soft rustle of fabric drew his attention away from the bassinets.
+
+On the bio-bed, Sarah shifted. The heavy sedatives were finally wearing off. Her dark eyes fluttered open, blinking against the amber light as she slowly processed the profound, empty lightness in her abdomen.
+
+She turned her head, her exhausted gaze locking onto Wyatt.
+
+"Wyatt?" she rasped, her voice incredibly weak, panic instantly beginning to flare in her eyes as she remembered the absolute chaos of the deliveries. "Where... are they?"
+
+Wyatt’s entire demeanor softened. He abandoned his logistical worries and crossed the room, dropping to his knees right beside her bed. He took both of her hands in his, pressing a deep, reverent kiss to her knuckles.
+
+"They're right here, Sarah," Wyatt smiled, his dark eyes shining with tears of absolute triumph. "Ellie, Nora, and Leo. They are all right here. And they are perfect."
+

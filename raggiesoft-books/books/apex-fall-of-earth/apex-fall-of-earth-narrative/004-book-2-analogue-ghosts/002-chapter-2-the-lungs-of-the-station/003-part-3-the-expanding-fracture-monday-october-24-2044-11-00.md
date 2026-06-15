@@ -1,0 +1,57 @@
+# Part 3: The Expanding Fracture – Monday, October 24, 2044 – ~11:00
+
+Wyatt stood up from the rusted supply crate, the sweet, earthy taste of the strawberry still lingering on his tongue. For a fleeting, miraculous moment, the absolute horror of their situation had been completely neutralized by a 1970s water pump and a handful of clay pebbles.
+
+He took a breath of the thick, humid air, ready to head to the cargo hold to find Sarah a notebook.
+
+Then, the station screamed.
+
+*BEEEEEEP. BEEEEEEP. BEEEEEEP.*
+
+The sound didn't come from Operations this time. It blasted directly out of the heavy, grated PA speaker bolted above the Hydroponics bulkhead door. Because the comms system was hardwired into the primary life-support telemetry, the automated broadcast was shotgunning the signal through every open channel on the outpost.
+
+The harsh, dual-tone alarm physically vibrated the heavy PVC piping of the ebb-and-flow system.
+
+Sarah jumped, instinctively taking a step back from the nutrient station. The warm, radiant energy in the room instantly evaporated, replaced by the freezing, metallic dread of the Nevada Test and Training Range.
+
+The alarm tones cut out, replaced by the heavy hiss of deep-space static. Then, the cold, synthesized text-to-speech voice echoed through the humid bay.
+
+*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE FEDERAL EMERGENCY MANAGEMENT AGENCY AND THE DEPARTMENT OF DEFENSE."*
+
+Wyatt walked over to Sarah, stepping between her and the speaker, his jaw clenched tight. The broadcast had escalated. It wasn't the localized Nevada agency anymore. The federal government had taken over the grid.
+
+*"THE SUBTERRANEAN ANOMALY ORIGINATING IN SECTOR FOUR HAS EXCEEDED MAXIMUM CONTAINMENT PARAMETERS. THE MOJAVE GEOLOGICAL SHELF IS EXPERIENCING CATASTROPHIC, WIDESPREAD COLLAPSE. THE CITIES OF PAHRUMP, NEVADA; KINGMAN, ARIZONA; AND ST. GEORGE, UTAH, ARE CLASSIFIED AS LOST. BIOMASS ASSIMILATION IS ONE HUNDRED PERCENT."*
+
+Sarah’s hand reached out, her fingers gripping the fabric of Wyatt's black undershirt. "Lost," she whispered, the sheer scale of the destruction failing to compute. Those weren't just towns; they were entire metropolitan hubs spanning three separate states.
+
+The robotic voice didn't care. It coldly continued its apocalyptic census.
+
+*"THIS IS A MANDATORY EVACUATION ORDER FOR ALL RESIDENTS OF SOUTHERN CALIFORNIA, INCLUDING SAN BERNARDINO, RIVERSIDE, AND LOS ANGELES COUNTIES. THE ORGANIC MASS IS UTILIZING SUBTERRANEAN AQUIFERS TO ACCELERATE EXPANSION TACTICS. SEISMIC ACTIVITY INDICATES THE ANOMALY WILL BREACH THE LOS ANGELES BASIN WITHIN FORTY-EIGHT HOURS."*
+
+Wyatt stared up at the rusted PA speaker. He could picture the tactical map in his head. The thing they had dug up wasn't just spreading like a sinkhole anymore; it was following the water. It was hunting the densest populations of biomass it could find.
+
+*"DO NOT SHELTER IN PLACE. SHELTER IN PLACE ORDERS ARE REVOKED. FLEE NORTH OR EAST BY ANY SURFACE MEANS NECESSARY. DO NOT UTILIZE SUBWAYS OR UNDERGROUND TRANSIT NETWORKS. I REPEAT. DO NOT GO UNDERGROUND."*
+
+A burst of heavy, distorted static chopped through the audio feed, a terrifying hint that the automated transmitters on Earth were physically being ripped apart by the shifting bedrock.
+
+*"MILITARY DEFENSIVE LINES AT THE COLORADO RIVER HAVE FALLEN. AVOID ALL CONTACT WITH ORGANIC SINKHOLES. MAY GOD BE WITH YOU."*
+
+*\<TRANSMISSION TERMINATED\>*
+
+The speaker clicked, plunging the Hydroponics Bay back into the rushing, mechanical sound of the water pumps. But the room didn't feel like a sanctuary anymore. It felt like a glass bottle floating in the dark.
+
+Sarah let go of Wyatt's shirt, her hand dropping to her side. She looked down at the bright red strawberries still sitting on the edge of the galvanized steel tray. Just two minutes ago, they were a symbol of life and the future. Now, they were a terrifying reminder of how fragile that life was.
+
+Millions of people were jamming the California highways right now, staring at the ground, waiting for the earth to open up and swallow them. And the company that caused it—Apex Defense Solutions—was entirely powerless to stop it.
+
+"The Colorado River," Wyatt muttered, the strategic reality setting in. "It crossed the water table. It's not localized anymore. It's going to eat the entire West Coast."
+
+Sarah turned away from the plants, her eyes locking onto Wyatt. The fear in her expression had hardened into something cold and sharp. The trauma of the NTTR was real, but the guilt of escaping it was suddenly infinitely heavier.
+
+"We're on a lifeboat," Sarah said, her voice completely devoid of its previous warmth. She looked around the thick, heavy iron bulkheads of Delta 9. "Earth is dying, Wyatt. And we're sitting in a multi-trillion-dollar corporate lifeboat watching it happen."
+
+Wyatt didn't offer a hollow comfort. He couldn't. He stepped forward and pulled her into a tight, grounding embrace. The heavy thud of the water pumps echoed around them like a ticking clock.
+
+They had survived the NTTR, but the nightmare was far from over.
+
+

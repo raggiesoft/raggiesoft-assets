@@ -1,0 +1,40 @@
+# Part 6: The Drive Away & A Fitting Finale
+
+The final hours of December 31, 2002, at Richard and Elizabeth Porter’s Virginia Beach home had devolved into a special kind of nightmare for seventeen-year-old Leo and Luna. The quiet family evening their paternal grandparents had promised to Stella had been a blatant deception. Shortly after Stella’s departure, their grandparents’ house had transformed into a pulsating, out-of-control teenage party, fueled by alcohol Richard Porter himself provided to the underage guests.
+
+For Leo and Luna, both autistic and highly sensitive to sensory input, the scene was an agonizing assault. The music was a thumping, physical force, so loud it hurt. The living room was a suffocating crush of unfamiliar, increasingly intoxicated teenagers shouting, their movements erratic and unpredictable. Flashing decorative lights added to the visual chaos. The cloying smell of spilled beer and teenage sweat was thick in the air. They had watched in horrified disbelief as kids their age got belligerently drunk, argued, became physically ill, and engaged in behaviors that were both unsettling and frightening. Their polite but firm refusals of alcohol were often met with pressure or derision from the other teens.
+
+Trapped and overwhelmed, Luna had finally managed to reach Stella on the phone, her voice a frantic, tangled plea over the din, describing the disaster and begging for rescue. They had taken refuge in a small guest bedroom, locking the door, the thumping bass from the party a menacing heartbeat against their fragile sanctuary, awaiting Stella's arrival.
+
+When Stella’s headlights finally swept across the window of their temporary prison, it felt like a lifeline. Her arrival at the house was swift and decisive. She had cut through the chaos of the party, confronted a blustering Richard and a dismissive Elizabeth with icy fury, and announced she was taking Luna and Leo home immediately. Her words about their deception, endangerment of minors, and the irrevocable breaking of trust had hung in the air, a chilling counterpoint to the party's din.
+
+Now, the cool night air of New Year’s Eve felt like a physical balm as Stella, Luna, and Leo hurried from the oppressive pandemonium of Richard and Elizabeth Porter’s house to the familiar, blessed sanctuary of Stella’s dark blue 2001 Holt Sentinel (Sent). The thumping bass and shrill party noises pursued them down the driveway, a nightmarish soundtrack to their hasty retreat.
+
+But as Stella opened the front passenger door for someone to get in, a figure leaned out from the shadows of the car's interior, a figure Leo and Luna hadn't expected, a figure that shifted the entire landscape of the disastrous evening.
+
+"Need a hand, guys?" a warm, familiar voice asked.
+
+Leo, who was about to be helped into the back seat by Stella, froze mid-transfer, his head snapping up. Luna, already halfway into the back, gasped.
+
+Standing there, leaning out of the passenger seat of Stella’s Sent, was Olivia Walker, her smile a beacon of calm and genuine affection in the disorienting aftermath of the party.
+
+"Olivia!" Luna breathed, a wave of stunned, joyful disbelief washing over her.
+
+Leo stared, his own eyes wide. Olivia. His best friend. Here. Now. The contrast between the suffocating chaos they had just escaped and Olivia’s steady, kind presence was so profound, so unexpected, it felt surreal.
+
+Stella, who had clearly orchestrated this wonderful surprise, offered a small, almost tired, but deeply satisfied smile. "Thought you two could use a friendly face to properly ring in the New Year. Olivia was amazing enough to agree to join our emergency extraction team and subsequent sanity-restoration party."
+
+Olivia stepped out fully, giving Luna a quick, comforting hug before turning her warm gaze to Leo. "Rough night, huh? Don't worry, the real party's just getting started, and it involves way less terrible music and definitely better company." She winked, then instinctively moved to help Stella ensure Leo was comfortably and safely settled in the Sent. Given the night's events, Stella made sure Leo was in the front passenger seat this time for easiest access and comfort, with Olivia and Luna climbing into the spacious back.
+
+As Stella pulled the Sentinel away from the curb, the chaotic noise from Richard and Elizabeth’s house began to fade, replaced by the quiet hum of the engine and the immense, shared relief inside the car. Just as they turned the corner, the distinct flash of blue and red lights sliced through the darkness behind them – two police cruisers, sirens silent, were turning onto the Porters' street, heading directly for the house they had just fled. An annoyed neighbor, it seemed, had made the inevitable call. A grimly satisfied smirk touched Stella's lips; Richard and Elizabeth were about to have their irresponsible festivities officially reckoned with.
+
+But inside the Sent, the focus was entirely on the future, on the hours remaining of New Year’s Eve. Leo turned in his seat as much as he could to look back at Olivia, a wide, shaky smile finally breaking through his earlier tension. The sheer, unexpected joy of her presence, the promise of spending a safe, happy New Year’s Eve with his sisters and his best friend, was an almost overwhelming relief. He reached for his Quantum Communicator XT, his fingers moving with renewed energy.
+
+"OLIVIA! BEST. SURPRISE. EVER!" his communicator declared, the synthesized voice filled with an emotion that was purely Leo. "YOU ARE HERE! DIDN'T KNOW! SO HAPPY!"
+
+Olivia laughed, her own relief for them evident. "Happy to be here, Leo! Wouldn't miss ringing in 2003 with my favorite people for anything. Especially after hearing Stella's SOS call. We’ve got snacks, Stella has some truly terrible old movies, and I believe there's a strict 'no underage drinking parties hosted by irresponsible grandparents' rule in effect for the rest of the night."
+
+Luna, leaning forward from the back, added, "And Olivia’s staying over, Leo! Proper sleepover!"
+
+Leo’s smile, if possible, grew wider. This disastrous New Year’s Eve, which had started with such profound deception and discomfort, was now transforming. The drive away from his paternal grandparents’ house, with Stella at the wheel, Luna’s reassuring presence, and now, the incredible, unexpected gift of Olivia Walker beside him, felt like a truly fitting finale to that awful chapter. The rest of the night, he knew, would be filled with the easy laughter, the comforting companionship, and the deep, platonic trust that defined his friendship with Olivia and his unbreakable bond with his sisters – the perfect, safe, and joyful way to welcome whatever the new year might bring.
+

@@ -1,0 +1,74 @@
+# Part 8: The Iron Record
+
+## January 9, 2006 Iron Point Registry of Deeds – Iron Point, RI 11:45 AM
+
+The Registry of Deeds was a quiet place that smelled of old paper and dust. Rows of heavy, leather-bound ledgers lined the walls, containing the history of every square inch of land in the county going back to the colonial charter.
+
+Stella stood at the high wooden counter. Beside her was **Mr. Sterling**, the local attorney Arthur had hired to oversee the transaction.
+
+"The wire transfer just hit the escrow account," Mr. Sterling said, checking his pager. "Funds are verified. We are clear to record."
+
+He slid the heavy, crisp document across the counter to **Mrs. Higgins**, the County Clerk.
+
+"Recording the Warranty Deed for Lot 4B, Ocean View Lane," Mr. Sterling said. "And pay special attention to the Grantees. We need this indexed strictly."
+
+Mrs. Higgins adjusted her glasses. She read the ownership block. Her eyebrows went up.
+
+## The Document: Warranty Deed
+
+BOOK 402, PAGE 88
+
+**GRANTOR:** THE ESTATE OF ELIAS THORNE, SR.
+
+**GRANTEES** (The Owners):
+
+1.  **STELLA MARIE PORTER**, an unmarried woman, as to a 25% undivided interest;
+
+2.  **OLIVIA WALKER PORTER**, an unmarried woman, as to a 25% undivided interest;
+
+3.  **LUNA ELEANOR PORTER**, an unmarried individual, by and through her Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order \#2006-GC-001, as to a 25% undivided interest;
+
+4.  **LEO ARTHUR PORTER**, an unmarried individual, by and through his Co-Conservators, Stella Marie Porter and Olivia Walker Porter, pursuant to Iron Point Probate Court Order \#2006-GC-002, as to a 25% undivided interest.
+
+**TENANCY**: Joint Tenants with Rights of Survivorship.
+
+**RESTRICTIONS AND ENCUMBRANCES: *NOTICE IS HEREBY GIVEN that the interests of LUNA ELEANOR PORTER and LEO ARTHUR PORTER are subject to the exclusive jurisdiction of the PROBATE COURT OF THE TOWN OF IRON POINT. No alienation, mortgage, transfer, or encumbrance of this property shall be valid without a specific Order of the Court authorizing such action in the best interest of the Protected Persons.***
+
+"That's a specific setup," she noted. "Four owners? And two conservatorships? We haven't seen one like this since the Hazard estate."
+
+"It's a protective measure," Stella said quietly, her Newport accent slipping in on the word 'measure.' "We want the encumbrance to be visible from space."
+
+Mrs. Higgins nodded. She understood. In a small Rhode Island town, "Protective Measure" meant "Keep the sharks away."
+
+She picked up her heavy, mechanical time-stamp machine. She aligned the deed.
+
+KA-CHUNK.
+
+The stamp hit the paper in purple ink.
+
+IRON POINT REGISTRY OF DEEDS RECORDED: JAN 09 2006 @ 11:47 AM BOOK: 402 PAGE: 88 STATE OF RHODE ISLAND AND PROVIDENCE PLANTATIONS
+
+"It's done," Mrs. Higgins said. "It's public record. Congratulations, Ms. Porter. You own the dirt."
+
+Stella looked at the document. It wasn't just a receipt; it was a shield.
+
+## 12:00 PM The Parking Lot
+
+Stella walked out into the cold January sun. The air smelled of salt and snow—the specific scent of a Rhode Island winter.
+
+She pulled out her phone and dialed the number for the twins back in Virginia.
+
+"Hello?" Luna answered.
+
+"It's stamped," Stella said, her voice steady. "Book 402, Page 88. The poison pill is active."
+
+"So if a developer looks it up?" Luna asked.
+
+"If a developer looks it up," Stella said, grinning, "they'll see that to buy our house, they have to sue the **State of Rhode Island and Providence Plantations**. We are officially radioactive."
+
+Leo’s voice came through the background, via his Communicator.
+
+"FORTRESS SECURE."
+
+"Fortress secure," Stella agreed. "Now I just have to go find a contractor who knows how to pour concrete in a nor'easter."
+

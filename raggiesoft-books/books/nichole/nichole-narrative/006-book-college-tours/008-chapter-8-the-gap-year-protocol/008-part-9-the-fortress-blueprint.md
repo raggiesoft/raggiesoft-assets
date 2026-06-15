@@ -1,0 +1,62 @@
+# Part 9: The Fortress Blueprint
+
+## Date: October 4, 2003 Time: 4:00 PM Location: 95 West Main Road, Portsmouth, Rhode Island
+
+The driveway was officially at capacity.
+
+Tom and Ellen’s heavy transport van sat next to Aunt Carol’s packed sedan. The moving trucks would arrive on Monday, but the people were here. The Virginia Beach house was empty, staged, and under contract. Carol’s New Jersey house was sold. The consolidation was complete.
+
+For the first time since 1985, the three Reynolds siblings—Mark, Ellen, and Carol—were back under the same roof on Aquidneck Island, alongside Tom, Grandma Helen, and the twins.
+
+Inside the house, the energy was electric.
+
+"The kitchen smells like sawdust," Ellen noted happily, carrying a box of groceries into the main living room.
+
+"Get used to it, El," Mark laughed from the kitchen island. "The basement contractors start on Tuesday. You, Tom, and Carol are going to have a 1,500-square-foot blank canvas down there. Sub-flooring, drywall, plumbing... you name it."
+
+Tom looked at Mark, his accountant brain still trying to process the finances. "Mark, you're sure about the money? You’re fronting the construction costs for our apartment down there?"
+
+"The house is paid off, Tom. Free and clear," Mark said, leaning against the counter. "My government contract covers everything. I just need you to pay the heating bill and keep my niece and nephew out of trouble."
+
+Mark set his coffee cup down and picked up a glossy, heavy-cardstock brochure from the counter. He walked over to where Grandma Helen was sitting in her silver manual wheelchair, parked next to Nichole.
+
+"Now, the basement starts Tuesday," Mark said, tapping the brochure. "But the really fun contractor starts on Monday."
+
+Mark pushed Grandma Helen’s chair, leading the whole family down the main hallway toward the Bennett Wing. He stopped at the standard coat closet. He opened the wooden door, revealing the empty five-by-five space and the reinforced plywood floor.
+
+"Grandma, you're taking the main guest room on the first floor," Mark said. "But you're not going to be trapped here."
+
+He opened the brochure and held it down for Helen and Nichole to see.
+
+It showed a cross-section of a high-end, commercial-grade residential elevator.
+
+"Nine-hundred-and-fifty-pound capacity roped hydraulic," Mark beamed, pointing to the specs. "The contractor cuts through this plywood on Monday. By the end of the month, this closet is a three-story vertical shaft."
+
+Helen looked at the picture. She adjusted her glasses. "Mark, my hands aren't what they used to be. I can't be pulling heavy iron gates open."
+
+"You won't touch a thing," Mark said. He pointed to a feature on the glossy page: Automated Power Door Package. "It's commercial spec. Single Automatic Push-Button. You roll up to this wall, hit the call button, and the hallway door swings open on a mechanical arm. Inside, the accordion cab gate slides open automatically. You roll in, hit '2', and the doors shut behind you. In other words, it works just like a regular elevator at the store."
+
+Helen looked at the empty closet, her eyes going wide. For the last three years, she had been a prisoner to gravity in her Newport apartment.
+
+"I can... I can go to the basement to see the workshop?" Helen whispered. "I can come up to the second floor?"
+
+"Any time you want," Mark confirmed. "With one exception: my apartment upstairs is open to the family, but at the end of my living room is a heavy steel door with a red light above it. Very mysterious. That door is out of bounds for everyone. No exceptions."
+
+"Good," Helen said, sitting up a little straighter in her chair. "Because if I see that red light, I'm turning my new elevator right around."
+
+The family laughed, the tension of the massive move finally breaking.
+
+"Alright, let's go over the grid," Mark said, clapping his hands together. "Basement is the construction zone starting Tuesday. Tom, Ellen, and Carol, you guys camp out in the spare first-floor bedrooms until your suite is finished. The elevator shaft goes live in four weeks."
+
+Mark looked around the living room. He looked at the wide doorways, the flat floors, the blueprint for the automated lift, and the family that had rallied together to make it all happen.
+
+Nichole looked at the empty closet. She looked at Patrick, who wasn't exhausted from working a double shift at a grocery store, but was instead standing tall, looking at the structural specs in the brochure.
+
+They weren't fighting the environment anymore. The environment was bending to them.
+
+She tapped her screen.
+
+"THE. FORTRESS. IS. SEALED."
+
+"That it is, Nikki," Patrick smiled, looking down at his sister. "Now... we have ten months to get ready for college."
+

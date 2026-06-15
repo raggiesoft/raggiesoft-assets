@@ -1,0 +1,39 @@
+# Part 2: A Simple Offer
+
+When the bell finally rang, signaling the end of the period, Hannah began to pack her bag with a slow, listless energy, clearly trying to avoid talking to anyone. Alex waited patiently. As the rest of the class filed out, he turned his chair slightly to face her.
+
+She looked up, startled, and tried to force a watery smile. "Hey, Alex."
+
+He didn't ask what was wrong. He just looked at her, his own eyes full of a quiet, profound empathy. He typed a simple, direct message on his AAC.
+
+YOU ARE SAD.
+
+Hannah's fragile composure crumbled. A fresh wave of tears welled in her eyes, and she nodded, unable to speak.
+
+I AM SORRY, his device voiced. He was quiet for a moment, remembering the similar, quiet comfort she had offered him in the past. He typed again. SOMETIMES... A HUG HELPS.
+
+He looked at her, his expression open and vulnerable, and then, he opened his arms.
+
+Hannah stared at him for a moment, the simple, kind gesture a welcome anchor. She let out a small, choked sob and, without a word, leaned forward and accepted his offer.
+
+It wasn't a "big squeeze" hug like Chloé's, but a familiar, gentle, comforting embrace between friends. He held her as she cried quietly against his shoulder, his presence a steady, non-judgmental support. He didn't offer advice or ask for details. He just offered comfort, just as she had for him.
+
+When she finally pulled back, wiping her eyes, she looked at him with a deep, raw gratitude. "My boyfriend... he broke up with me this morning," she whispered. "He said I was... too serious about school."
+
+Alex's heart ached for her. He typed a new message, his response immediate and unequivocal. HE IS AN IDIOT.
+
+A real, genuine, watery laugh escaped Hannah. "Yeah," she said, a small, true smile finally breaking through her tears. "He really is."
+
+She looked at him, at his kind, steady presence. "Thank you, Alex," she said softly. "That... that really did help. A lot."
+
+Just then, Chloé appeared in the doorway, her expression full of a familiar, happy energy that faltered the moment she saw Hannah's tear-streaked face. "Hannah? What's wrong?"
+
+"Boyfriend trouble," Hannah managed, her voice still a little shaky. "But Alex was just being a really, really good friend."
+
+Chloé looked from Hannah's face to Alex's, and a wave of profound love and pride washed over her. She saw the open, caring expression on his face, and she understood. He was learning to be an anchor for someone else, too.
+
+"I'm so sorry, Hannah," Chloé said, her voice full of genuine sympathy. She came over and gave Hannah's shoulder a comforting squeeze. "His loss. Seriously."
+
+The three of them stood there for a moment, a small, supportive triangle in the quiet of the empty classroom. Alex knew, with a quiet certainty, that Hannah had made his ninety minutes without Chloé bearable. And today, he had been able to return the favor, offering a small piece of the comfort and safety that Chloé had so freely given him, proving that a good friendship, like a good line of code, could make even the most difficult problems a little easier to solve.
+
+

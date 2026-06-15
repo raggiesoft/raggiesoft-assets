@@ -1,0 +1,38 @@
+# Part 10: The Return Journey (Summer 2000)
+
+After a whirlwind day spent marveling at the historic architecture of Old Montréal, exploring the bustling shops on Sainte-Catherine Street, and indulging in legendary smoked meat sandwiches that lived up to their reputation, the minivan made the two-hour drive south from the city. A comfortable, contented silence filled the vehicle, punctuated by the occasional sleepy murmur. The grand adventure had been a resounding success, but everyone was looking forward to the quiet comfort of their hotel rooms in Derby Line.
+
+As they approached the U.S. Port of Entry, the familiar green signs of Vermont welcomed them back. James Miller leaned forward from the middle row.
+
+"So, Tom," he asked, "I'm guessing that 'Montréal Rule' works both ways? We'll all need our passports ready for this side, too?"
+
+"You got it, James," Thomas confirmed with a nod. "Same exact deal. Since we're coming from deep inside Canada and not just popping over from Stanstead, they'll need to check us all in properly."
+
+The line was short, and as Thomas pulled the minivan forward, a U.S. Customs officer stepped into the booth. He was a tall man with kind eyes and a welcoming, easygoing smile.
+
+"Evening, Tom. Sophie," the officer said, leaning on the windowsill of his booth.
+
+"Evening, Frank," Thomas replied. "We took our friends here up to Montréal for the day."
+
+Frank's relaxed demeanor instantly sharpened with professional focus, though his friendly tone remained. "Oh, Montréal! Sounds like a great trip. In that case, you know the drill. Let's see everyone's documents, please."
+
+Thomas had already collected the stack. He passed the documents up to the officer: five U.S. passports for himself, Chloé, and the Millers, and for Sophie, her Canadian passport with her U.S. Permanent Resident Card tucked neatly inside. Frank took the mixed stack, a familiar sight for any officer working the northern border, and began the process. His movements were professional and unhurried as he checked each document, looking from the photo to each tired but happy face in the van.
+
+"Anything to declare, folks?" Frank asked. "Bringing back any purchases from Montréal?"
+
+"Just some maple candies for the kids and a couple of t-shirts," James Miller answered from the middle row.
+
+Thomas chimed in with a wry grin, clearly for the officer's benefit. "And nope, Frank, not a single Koko-Kapsel in the car, I swear. Wouldn't want to start an international incident over some chocolate and a tiny toy."
+
+Frank let out a hearty chuckle, shaking his head. "Appreciate you sparing me the paperwork, Tom. You know how the folks in Washington get about those things. A real threat to national security, those little plastic capsules."
+
+In the back seat, Alex looked confused. He caught Chloé's eye, a quizzical expression on his face. *Koko-Kapsels? International incident?* Chloé just gave him a small, conspiratorial smile and a tiny shrug, as if to say, *I'll explain later. It's a long, silly story.*
+
+"Any produce, meat products, or plants?" Frank continued, his tone returning to business.
+
+"No, sir," Thomas replied.
+
+"Okay then," Frank said, satisfied as he handed the stack of documents back. "Looks like you're all set. Good to see you folks. Drive safe now, and enjoy the rest of your visit."
+
+With that, they were back in the United States. As they drove towards the hotel, Alex was already formulating the question on his AAC about the mysterious, apparently dangerous, chocolate eggs. The day continued to be full of new and confusing wonders.
+

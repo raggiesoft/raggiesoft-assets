@@ -1,0 +1,44 @@
+# Part 9: Electives, Echoes of French, and an Informal Tutor (Mid-Late Summer 1999)
+
+The rhythm of Alex and Chloé's summer continued its easy, companionable beat. As August approached, bringing with it the tangible reality of high school registration, a new layer was added to their shared world. One sunny afternoon, they were settled comfortably on the Millers' living room sofa, official-looking Northwood High course catalogs spread open on the coffee table before them.
+
+"Okay, so for my electives," Chloé said, tapping a pencil thoughtfully against the glossy page, "I definitely want to continue with French. Madame Dubois at my old middle school in Vermont was amazing, and Mom says the French teacher at Northwood, a 'Madame Beaumont,' is supposed to be really good too. Plus," she grinned, giving Alex a friendly nudge with her shoulder, "it’s kind of fun being able to understand what Mom and her side of the family are saying when they really get going in Québécois!"
+
+Alex, who had been listening intently, felt a spark of genuine interest. OH, he typed on his AAC. YOUR MOM IS CANADIAN?
+
+"Yup! Born and raised in Stanstead, Québec," Chloé said proudly. "That's why I'm a dual citizen. I have two passports and everything."
+
+Alex's eyes widened. He had read about dual citizenship in books, but he'd never met anyone who actually had it. TWO PASSPORTS? FOR REAL? LIKE A SPY?
+
+Chloé let out a delighted laugh. "Haha, not quite like a spy! It just means I'm a citizen of both countries. Because I was born in Vermont, that makes me American automatically. And because my mom is a Canadian citizen, that also makes me Canadian. So, I get both." She leaned in, her expression conspiratorial and a little proud. "My dad is a dual citizen too, actually."
+
+REALLY? HOW? Alex typed, fascinated.
+
+"Well, he grew up in Derby Line, right across the line from where my mom lived. After they got married, he moved to Stanstead with her for a few years so he could get his Canadian citizenship. He wanted our whole family to be able to live and work on either side of the border without any issues. So now, he and I have both passports. Mom is still just Canadian for now, but she has her Green Card, and she's planning on becoming a U.S. citizen too, now that we live here for her new job."
+
+THAT, Alex typed, his voice full of genuine awe, IS THE COOLEST THING I HAVE EVER HEARD. He looked at her, this girl whose family life was as fascinating and unique as she was. It was just another incredible layer to the most amazing person he had ever met.
+
+"It is pretty neat," she admitted with a grin. She then nudged the course catalog. "So, back to the French thing. Mom's is Québécois French, which has its own awesome rhythm and some different words. School French, like what Madame Beaumont will probably teach, is usually more like Metropolitan French, which is what you hear on that classical station. But they’re super related! And no, it's not too hard, especially if you have someone to practice with." She gave him a pointed, hopeful look, perhaps gently shaking his shoulder. "Are you thinking about taking it, Alex? We could be in the same French I class! That would be amazing!"
+
+James and Emily exchanged a subtle, pleased glance. This was an unexpected but wonderful development.
+
+"Well, Alex," James said encouragingly from his armchair, "if you're interested, that's fantastic. Learning a language is a great skill. And being in a class with Chloé would certainly make it more fun, I imagine."
+
+Alex looked at Chloé, her enthusiasm infectious, her arm still a comforting weight around him. The idea of sharing another class, another experience, was incredibly appealing. And the thought of understanding Sophie Mason’s cheerful Québécois exclamations, or maybe even surprising Chloé by learning a few phrases himself… it felt exciting.
+
+He nodded, a decisive look on his face. YES. I WANT TO TRY. FRENCH I. WITH YOU, CHLOÉ.
+
+"YES!" Chloé cheered, pulling him into a full, joyous "big squeeze" hug right there on the sofa. "This is going to be the best! We can be study buddies! Nous allons être des 'study buddies' formidables!" (We are going to be awesome study buddies!) she added, already slipping into a bit of French, her eyes sparkling as she pulled back, though her arm naturally settled around his shoulders again.
+
+And so, it was decided. Alex Miller and Chloé Mason, already inseparable, would embark on their high school journey with a shared elective: French I with Madame Beaumont.
+
+In the remaining weeks of summer, Chloé, brimming with excitement at Alex's decision, naturally began to informally introduce him to the sounds and basic phrases of her mother’s Québécois French. It wasn’t structured lessons, but rather woven into their everyday interactions, making learning feel like just another part of their comfortable companionship, often while they were just hanging out in the Millers' living room or their own.
+
+As they played their favorite Quantum OS computer games, Chloé might cheer, "Bon travail, Alex! Excellente stratégie!" (Good job, Alex! Excellent strategy!) or groan, "Oh, non! Les méchants arrivent! Vite, vite!" (Oh, no! The bad guys are coming! Quick, quick!)
+
+While sharing cookies Sophie had baked, which Chloé might bring over still warm from her own kitchen, she might say, "Veux-tu un autre biscuit, Alex? Ils sont délicieux, n'est-ce pas?" (Do you want another cookie, Alex? They're delicious, aren't they?) Alex, listening intently, would pick up words and phrases, his quick mind making connections. He’d use his AAC to ask Chloé what certain words meant, or how to say simple things like "yes," "no," "thank you" ("oui," "non," "merci") in her dialect, or to ask her to repeat a phrase slowly.
+
+Chloé was a patient and enthusiastic informal tutor. She never pressured him, simply incorporating her maternal language into their shared world naturally, joyfully. She taught him playful Québécois slang her mother used, explained how some words were different from the more formal French she was also used to, and celebrated every small attempt he made to try out a new word or phrase via his AAC. His synthesized voice, programmed with a standard American English phonetic set, attempting Québécois pronunciation often resulted in giggles from both of them, hugs of encouragement from Chloé, but she always praised his effort.
+
+This informal immersion became another layer of their bond. Québécois French wasn't just a school subject they would soon share; it was becoming another facet of their friendship, a comfortable, playful code understood between them and Chloé’s family, long before they ever stepped into Madame Beaumont’s classroom. The "Summer of Discovery" was now filled not just with shared video games and ice cream, but with the lilting, expressive sounds of a new language, a new way for Alex and Chloé to connect, side by side, as always, under the warm, supportive umbrella of their loving families.
+

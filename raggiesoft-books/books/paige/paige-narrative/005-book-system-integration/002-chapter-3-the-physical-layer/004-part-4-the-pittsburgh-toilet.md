@@ -1,0 +1,80 @@
+# Part 4: The Pittsburgh Toilet
+
+## Monday, June 25, 2007 — 12:00 PM 105 Pepper Street SE, Christiansburg, VA
+
+The "Mega-Bed" specifications were locked. The Thru-Floor Lift was in the cart. The digital architecture of the new basement was taking shape on the screen of the *MagnaByte* laptop.
+
+"Okay," Jessica said, scrolling through a home improvement website. "Phase Three: Environment. We have a lift and a bed. But we are putting them into a concrete box."
+
+She pulled up a listing for drywall and framing lumber.
+
+"If we're going to make this a permanent habitat," Jessica suggested, "we should probably finish it. Put up studs. Drywall. Paint. Make it look like a real room instead of a dungeon."
+
+"Objection," Jenna said immediately, raising her hand. "Denied."
+
+"Clarification?" Jessica asked.
+
+"I like the dungeon," Jenna stated, gesturing wildly. "It’s raw. It’s industrial. The exposed rafters? That’s where I hang the lights. The concrete walls? That’s my canvas. If you put up drywall, I can’t drill into it without finding a stud. Concrete takes a masonry bit anywhere I want."
+
+Sarah nodded in agreement, though for entirely different reasons.
+
+"Drywall hides pests," Sarah noted. "It hides moisture. With the open concrete, I can visually inspect the foundation for cracks or water intrusion instantly. It is a transparent system."
+
+Freddie considered this. He looked at the ceiling of the living room—smooth, painted white drywall. It was clean, but it was also a barrier.
+
+"The industrial aesthetic aligns with the ship," Freddie murmured. "Exposed conduit. Structural beams. It looks like... Engineering."
+
+"Exactly!" Jenna beamed. "It looks like the *Sanctuary* engine room. We keep it raw. We just clean it."
+
+"Okay," Jessica conceded, closing the drywall tab. "We keep the bunker look. But we have a sanitation issue."
+
+She pointed to the floor plan Freddie had sketched. In the far corner of the basement, near the laundry hookups, sat a lone, porcelain fixture.
+
+It was a toilet. Just a toilet. Sitting out in the open on the concrete floor, with no walls, no sink, and no context.
+
+"The Pittsburgh Toilet," Jessica said. "It’s a plumber’s early warning system for sewer backups. But if Freddie is going to be spending time down there... if we're *all* going to be sleeping down there... we can't just have a loose toilet in the corner."
+
+"It lacks... infrastructure," Freddie agreed. "No handwashing station. No shower. Hygiene protocol cannot be completed."
+
+"And while I appreciate the 'No Secrets' policy," Sarah added, adjusting her glasses, "hygiene requires containment. Vapors. Splashes. It needs a perimeter."
+
+"We build a bathroom," Jenna decided. "We frame *that* in. Just that corner."
+
+"A wet room," Jessica suggested. "Since we're on concrete, we don't need a tub. We can build a roll-in shower. A wide stall with a trench drain. Freddie can roll *The Rover* right in."
+
+Freddie’s eyes lit up. "Zero barrier entry," he whispered. "No lip to step over."
+
+"Yes," Jessica said. "We frame a small room around the existing toilet stack. We add a sink. We add the shower head. We tile the whole thing so it’s waterproof."
+
+"Enclosed?" Paige asked. "Door or curtain?"
+
+"Door," Sarah insisted. "For vapor control. But..." She looked at Freddie. She remembered the clear shower curtain upstairs. She remembered Paige telling her about the panic in his eyes when he couldn't see them.
+
+"Maybe a door with a window?" Sarah offered. "Frosted glass? So light gets in, but it's still a room?"
+
+"Or just a wide door we can leave open," Jenna shrugged. "Like upstairs. If Freddie is in there, we just guard the door. We’re good at that."
+
+"We are," Paige smiled, squeezing Freddie’s hand.
+
+"Okay," Jessica summarized. "We build a Bathroom Module in the corner. Sink, toilet, roll-in shower. The rest of the basement stays raw."
+
+"And the floor?" Sarah asked, looking at the cold concrete. "Thermal regulation for the Mega-Bed. We cannot put mattresses on cold stone. It will wick the heat away."
+
+"Carpet," Freddie said. "But not wall-to-wall. That traps dust."
+
+"Area rugs?" Paige suggested.
+
+"No," Jenna said. "Carpet tiles. Industrial squares. We buy a box of grey office carpet. We glue them down *just* under the bed platform and the walking area around it. We create a 'Soft Zone' in the middle of the concrete."
+
+"Zone control," Freddie approved. "Hard perimeter, soft core."
+
+"Perfect," Jessica said. "We have the plan. TFL for access. Mega-Bed for sleeping. Bathroom Module for hygiene. Raw concrete for aesthetics."
+
+She looked at her siblings.
+
+"We aren't just renovating a basement," Jessica realized. "We're building a command center."
+
+"The Bridge," Freddie corrected softly. "We are building the Bridge."
+
+"The Bridge," Paige agreed. "Let's order the lumber."
+

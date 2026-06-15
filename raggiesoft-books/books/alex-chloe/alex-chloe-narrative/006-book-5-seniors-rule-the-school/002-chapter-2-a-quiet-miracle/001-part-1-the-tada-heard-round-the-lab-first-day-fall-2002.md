@@ -1,0 +1,30 @@
+# Part 1: The TADA Heard 'Round the Lab (First Day, Fall 2002)
+
+The first day of AP Computer Science was a quiet affair. The teacher, Mr. Davies, a man with a genuine passion for technology, had been briefed by the guidance department: he would have a non-verbal student named Alex Miller, who used a wheelchair and an AAC device to communicate. Mr. Davies was prepared to be accommodating and patient.
+
+The students, all seniors, filed in and found their assigned seats. Alex Miller navigated his "Quantum OS Tablet Pro" to his accessible workstation at the end of a row. He saw that his friend from sophomore year, Hannah Peterson, was seated at the desk next to his, and they exchanged warm, friendly hugs in greeting.
+
+Mr. Davies watched Alex with a quiet, professional curiosity. The device on his chair looked sleek and modern. As he began to outline the syllabus, he saw Alex begin his own setup. Alex, for his part, was already counting the seconds. Ninety minutes. An eternity. He knew the first day would be all talk and no coding, so he had decided to entertain himself, a small, private joke to get him through the long period without Chloé.
+
+He woke his AAC device up from sleep. But instead of the familiar, modern startup chime of Quantum OS XN, a different, much older sound suddenly echoed through the quiet lab—a tinny, digital, but iconic fanfare.
+
+TADA.WAV
+
+Mr. Davies stopped mid-sentence. His head snapped up, a look of pure, baffled recognition on his face. He scanned the room, his eyes finally landing on Alex's workstation. Alex, for his part, looked the picture of innocence, as if the sound had come from somewhere else entirely.
+
+Mr. Davies walked slowly down the aisle, his curiosity piqued. He peered over Alex's shoulder at the screen of his AAC device. He blinked. He blinked again. What he saw was not a modern operating system, but instead he was looking at the blocky, pixelated, unmistakably archaic desktop of Quantum OS for Workgroups 3.11. Open on the screen was a document in Quantum WritePad 6.0, the last 16-bit version of the word processor, ready for note-taking.
+
+A slow, incredulous grin spread across Mr. Davies' face. He looked at Alex, who finally met his gaze, a mischievous twinkle in his own eyes.
+
+"Mr. Miller," Mr. Davies said, his voice a mixture of awe and profound amusement. "The guidance office told me you used a communication device. They failed to mention it was apparently a museum piece from 1993. Are you... are you running a virtual machine of a ten-year-old operating system on your state-of-the-art communication device, just to amuse yourself on the first day of class?"
+
+Alex just smiled and typed a single, perfect, deadpan response. IT'S A VERY STABLE AND EFFICIENT OPERATING SYSTEM, MR. DAVIES.
+
+Mr. Davies let out a single, sharp bark of laughter. He shook his head, a look of deep, genuine respect on his face. "Okay, Miller," he said, clapping him gently on the shoulder. "You win. You win the entire year. Just... try to use a 32-bit compiler for your assignments, will you?"
+
+As Mr. Davies turned to walk back to the front of the class, Alex, with a final, playful flourish, hit ALT-TAB. The archaic 3.11 desktop vanished, instantly replaced by the modern, professional interface of his host OS, Quantum OS XN Professional. Open and waiting was Quantum Studio 6.0 Professional, displaying the "Create New Project" screen, ready for serious 32-bit development.
+
+Mr. Davies, catching the change out of the corner of his eye, stopped, turned back, and saw the new screen. He stared for a moment, his professional composure completely shattering. He threw his head back and let out a loud, genuine, almost hysterical laugh, clutching the edge of a desk for support. The sheer, multi-layered audacity of the prank—the retro sound, the perfectly virtualized old OS, and the instant switch to a modern professional development environment—was too much. After a moment, he wiped a tear of mirth from his eye, regained his composure, and, without another word, just shook his head and returned to the front of the class to continue his lecture.
+
+Hannah Peterson looked over at Alex, a look of pure, impressed amusement on her own face. The first day of their last year of computer class had begun, and Alex Miller had already established, without a doubt, that he was in a league of his own.
+

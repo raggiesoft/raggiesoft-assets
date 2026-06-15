@@ -1,0 +1,78 @@
+# Part 5: The Hydroponics Breach – Monday, February 15, 2049 – 13:15
+
+The Colton estate was operating at peak efficiency. The Aegis shield was humming at a flawless one hundred percent capacity, the geothermal reactors were perfectly balanced, and Wyatt and Sarah were finally sitting down to eat a quiet lunch in the residential kitchen.
+
+The triplets were nearly three years old. They had been placed in the sprawling, heavily baby-proofed living room for their mandatory independent play cycle. Wyatt had personally secured the heavy timber doors, locking the magnetic seals.
+
+He had just taken a bite of his sandwich when the kitchen’s ambient lighting suddenly flashed a bright, urgent yellow.
+
+"Warning. Localized internal perimeter breach," Aria’s voice blared from the ceiling array, devoid of her usual pleasantries. "Unauthorized motion detected in Sub-Level 2, Sector 4: Primary Hydroponics Bay."
+
+Wyatt froze, his S.H.O.P. Marine instincts instantly flooding his system with adrenaline.
+
+Sub-Level 2 was strictly off-limits. It housed the massive, automated vertical farming towers that kept the estate supplied with fresh produce. It was filled with deep water-reclamation tanks, heavy nutrient-dosing machinery, and high-voltage UV grow lights. It was incredibly dangerous for toddlers, which was exactly why Wyatt had secured the elevator access with a biometric scanner placed exactly five feet off the ground.
+
+"Aria, who is in Hydroponics?" Wyatt barked, already out of his chair and sprinting for the hallway, with Sarah right on his heels.
+
+"Biometric identification confirms Subjects A, B, and C," Aria reported calmly.
+
+"How?" Wyatt gasped, his massive boots pounding against the stone floor as he and Sarah threw themselves into the pneumatic elevator. "How did they get the elevator to cycle? They can't reach the scanner!"
+
+"Security playback indicates Subject A executed a highly coordinated tactical bypass," Aria explained. "Subject A pushed the mobility wagon into the elevator alcove. She then instructed Subject B to lock the rear wheels. Subject A climbed onto the wagon's push-bar, utilizing Subject C's seated weight as a counterbalance, and successfully pressed her palm against the biometric sensor."
+
+Wyatt stared at the elevator doors as they plummeted into the bedrock, his jaw literally hanging open. Sarah covered her mouth with both hands, her eyes wide with a mixture of absolute horror and profound, undeniable maternal pride.
+
+"She used the wagon as a siege tower," Wyatt whispered, his mechanic's brain completely short-circuiting.
+
+"And she used her brother as a sandbag," Sarah added, a hysterical, breathless laugh escaping her lips.
+
+The elevator hissed open on Sub-Level 2.
+
+Wyatt and Sarah sprinted down the grated steel corridor, following the flashing yellow lights to the open door of the Hydroponics Bay.
+
+Wyatt skidded to a halt in the doorway, his massive chest heaving. Sarah stopped right beside him.
+
+The vast, humid room was bathed in the warm, pinkish-purple glow of the UV lights. And sitting perfectly in the center of the aisle, surrounded by towering vertical columns of alien ferns and synthesized tomatoes, was the Vanguard.
+
+Ellie was standing ankle-deep in a tray of nutrient-rich hydroponic mud. She was holding a perfectly ripe, squished tomato in her tiny hand, her dark eyes wide and alert.
+
+Behind her, safely parked on the dry steel grating, was the Chariot. Nora was standing at the back of the wagon, her hands gripping the push-bar tightly. She looked incredibly anxious, her lower lip trembling slightly as she looked from the mud to her father. She clearly hadn't wanted to break the rules, but the chain of command was absolute: where Ellie went, the Vanguard went.
+
+And in the center seat, completely unbothered by the rule-breaking, Leo was happily secured in his five-point harness. The vibrating hum of the massive water pumps and the warm UV lights provided a massive, soothing sensory input for his neurodivergent brain. He let out a low, vibrating grunt of approval, completely oblivious to his parents' panic.
+
+"Eleanor Grace Colton," Wyatt rumbled, stepping into the humid room. He intentionally pitched his voice deep and stern, projecting the absolute, uncompromising authority of a father whose heart had just stopped beating. "What are you doing?"
+
+The three toddlers froze.
+
+Ellie looked at the squished tomato in her hand. She looked at her muddy boots. She looked at the flashing yellow lights of the security breach she had masterminded. Then, she looked up at the towering, heavily scarred S.H.O.P. Marine standing in the doorway.
+
+She didn't cry. She didn't cower.
+
+Ellie slowly lowered her hand, dropping the ruined tomato into the mud. She wiped her dirty palm on her canvas overalls, took a step back toward the wagon, and looked up at Wyatt. She widened her dark eyes to their absolute maximum capacity, entirely erasing the fierce, tactical glint of the ringleader, replacing it with the flawless, wide-eyed innocence of a helpless two-year-old.
+
+She pointed a tiny, muddy finger at the vertical farming column.
+
+"Plant," Ellie stated simply. She offered a soft, angelic blink.
+
+Wyatt physically bit the inside of his cheek to stop the massive, booming laugh from erupting out of his chest. It was a perfect, flawlessly executed toddler defense mechanism. She knew exactly what she was doing. She knew exactly which buttons to push, and she was playing him like a cheap fiddle.
+
+Sarah let out a heavy sigh, crossing her arms over her chest, though the corners of her mouth were twitching violently.
+
+"You are in so much trouble," Sarah said, stepping forward to pull a muddy Ellie away from the water tanks. "All three of you. This is a restricted zone."
+
+Nora immediately began to whimper, guilt instantly crushing her empathetic heart. She buried her face into the back of Leo's seat, completely folding under the gentle reprimand.
+
+"Don't cry, Nora, it's okay," Wyatt instantly surrendered, his stern facade completely evaporating the second his middle daughter got upset. He stepped forward, effortlessly scooping Nora up into his left arm, then grabbed the front handle of the wagon with his right.
+
+He looked down at Ellie, who was now being carried under Sarah’s arm like a muddy football, still maintaining her perfectly innocent, wide-eyed stare.
+
+Wyatt was disappointed that the perimeter had been breached, and he was terrified of the safety hazards in the room. But as he pulled the wagon back toward the elevator, looking at the complex, three-foot-tall biometric scanner Ellie had successfully bypassed, he couldn't help the fierce, overwhelming surge of S.H.O.P. Marine pride.
+
+"Aria," Wyatt murmured as the elevator doors closed. "Upgrade all restricted sector biometric scanners to Level-5 encryption. And move them to seven feet off the floor."
+
+"Acknowledged, Administrator," Aria chimed. "Shall I also lock the wheels on the mobility wagon when not in use?"
+
+Wyatt looked at Ellie. The two-year-old narrowed her eyes at the ceiling speaker, completely dropping the innocent act as she silently threatened the AI.
+
+"No," Wyatt smirked, wrapping his massive arm around Sarah's shoulders. "Leave the wagon operational. I want to see what she figures out next."
+

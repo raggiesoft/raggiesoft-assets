@@ -1,0 +1,74 @@
+# Part 2: The Confrontation (January 2000)
+
+The first week back after Winter Break always felt like a reboot. The school smelled of damp wool coats and cleaning fluid. Outside, the Virginia sky was a flat, miserable gray, leaking a freezing rain that turned the sidewalks into slush.
+
+But Freddie did not mind the cold. He was carrying a piece of the sun in his pocket.
+
+It was a 4x6 glossy print, picked up from the pharmacy the day before. The colors were vibrant—the green of the Douglas Fir, the silver of the tinsel, and the two of them standing together. In the photo, Freddie looked confident, his arm around Courtney’s shoulder, and she was leaning into him, safe and happy.
+
+He walked into the band hallway on Tuesday afternoon, his thumb brushing the edge of the photo in his pocket. He couldn't wait to give it to her. He had put it in a protective plastic sleeve so it wouldn't get bent.
+
+He spotted her near the trophy case, talking to two other girls from the Guard.
+
+Freddie smiled, the memory of her sitting on his living room floor surrounded by his siblings still fresh in his mind. She was part of the system now. She had survived the Avery chaos.
+
+"Courtney?" Freddie said, stepping up to the group.
+
+The conversation stopped dead.
+
+Usually, Courtney would turn and smile. Today, she turned, and her face was unrecognizable. It was pale, drawn, and looking at him with a mixture of humiliation and fury.
+
+"Courtney?" Freddie repeated, his smile faltering. He reached into his pocket. "I got the pictures back. The one by the tree came out really—"
+
+"Don't," Courtney interrupted. Her voice was sharp, brittle. She took a step back, as if he were holding a weapon instead of a photograph. "Don't you dare show me that."
+
+Freddie froze. The input did not match the expected output. "But... it’s the Christmas picture. You said you wanted a copy."
+
+"That was before I knew," Courtney hissed. The girls next to her glared at Freddie, their arms crossed like castle walls.
+
+"Knew what?" Freddie asked, his voice shrinking.
+
+"I know about the bet, Freddie," Courtney said, her voice rising. Tears welled up in her eyes, hot and angry. "I know what you told Derek and the guys in the locker room. I know that you were bragging about... about scoring with me."
+
+The word hung in the damp air of the hallway. Score.
+
+Freddie blinked. His mind raced back to the concession stand, to the football games. "I don't play sports," he whispered, confused. "I don't keep score."
+
+"Stop lying!" Courtney shouted. She reached into her bag and pulled out the box of fine-point ink pens she had given him two weeks ago. She shoved them into his chest. "Take them back."
+
+Freddie automatically grabbed the box to stop it from falling. "Courtney, these were a gift. For the schematics."
+
+"It was all a game to you, wasn't it?" Courtney was crying now, ignoring the students who were stopping to watch. "You invited me to your house. You introduced me to your sisters. You acted so sweet and innocent, just so you could go back to school and tell everyone I was easy? That I was just some... some achievement?"
+
+"No," Freddie stammered. The photo in his pocket felt heavy now, like lead. "You are the Diplomat. We are friends."
+
+"We aren't friends," Courtney choked out. "You're a liar. And you're gross. I actually thought you were different, but you're just meaner than the rest of them because you pretend to be nice."
+
+She wiped her face aggressively with her sleeve. "Stay away from me, Freddie. Don't look at me. Don't talk to me. Just leave me alone."
+
+She turned and ran down the hall toward the restrooms, her friends chasing after her.
+
+Freddie stood alone in the hallway. The bell rang, and the flood of students poured out of the classrooms, jostling him, bumping his shoulders. He didn't move. He stood clutching the box of pens against his chest, the plastic edges digging into his skin.
+
+The Christmas memory—the warmth of the living room, the smell of the pine tree, the feeling of her head on his shoulder—curdled in his stomach. It didn't make sense. The data was corrupted. How could the girl who hugged him on his porch look at him with that much hate?
+
+He felt the tears before he felt the sadness. They were hot and blinding.
+
+He backed up until he hit the wall, sliding down until he was sitting on the dirty linoleum floor. He pulled his knees to his chest, burying his face in his arms, the box of pens clutched tight. He began to rock, a rhythmic, desperate motion to try and restart his crashing system.
+
+"Freddie?"
+
+He didn't look up. He couldn't stop the shaking.
+
+"Freddie!"
+
+It was Paige. She had found him. She dropped her heavy backpack on the wet floor and fell to her knees in front of him. She didn't ask what happened. She didn't ask who did it. She saw the pens. She saw the rocking. She saw the absolute devastation in the way he was trying to hide from the world.
+
+"I don't understand," Freddie choked out into his knees, his voice broken. "She gave me the pens. She came to the house."
+
+"Shh," Paige whispered, her own eyes filling with tears of rage on his behalf.
+
+She reached out and wrapped her arms around him. It wasn't a gentle hug; it was maximum force. She squeezed him as tightly as she physically could, using her entire body weight to compress him, to hold his shattering pieces together.
+
+"I've got you," Paige said, her voice fierce and trembling into his ear. She pressed her cheek against the top of his head, squeezing harder, providing the deep pressure he needed to survive the crash. "I'm right here. I'm not letting go."
+

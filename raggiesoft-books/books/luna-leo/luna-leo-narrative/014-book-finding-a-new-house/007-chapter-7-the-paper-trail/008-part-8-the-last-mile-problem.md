@@ -1,0 +1,79 @@
+# Part 8: The Last Mile Problem
+
+## August 22, 2006 Iron Point Station - Platform 05:15 PM
+
+The **South Shore Line** train hissed to a halt. The doors slid open.
+
+"Okay," Stella said, bracing herself. "Unload."
+
+They stepped off the train onto the high-level platform. The air in Iron Point was cooler than the city, smelling of low tide and pine trees.
+
+But the "Fortress" didn't look like a sleek military unit right now. They looked like refugees from a library fire.
+
+- **Stella:** Carrying her own bag plus the massive stack of **Luna’s Music History** books (which wouldn't fit in the gig bag).
+
+- **Luna:** Shouldering her flute case on one side and a canvas tote of French textbooks on the other, walking with a pronounced limp from the uneven weight.
+
+- **Olivia:** The heavy lifter. She was carrying **Leo’s Engineering Stack**—30 pounds of dense calculus and physics hardcovers—in a plastic bookstore bag that was stretching dangerously thin.
+
+- **Leo:** Sitting in his **Titan X-Treme**, his lap empty because the joystick needed clearance, feeling useless.
+
+"The bus?" Luna asked, looking at the **Route 200** bay.
+
+Stella checked the digital sign. **NEXT BUS: 25 MIN.**
+
+"We can't wait twenty minutes," Stella said. "My arms are going to fall off. It's two blocks. We walk."
+
+They started the trek down the ramp to the sidewalk.
+
+## The Struggle
+
+The sidewalk on Ocean View Lane was wide and smooth—Stella had ensured that when she bought the land. But the physics of the load were brutal.
+
+Olivia shifted the heavy bag of engineering books. The plastic handle snapped.
+
+"Crap!" she gasped, catching the books before they hit the pavement. She had to cradle the stack against her chest like a baby.
+
+Leo stopped his chair. He watched his best friend struggling to carry *his* books. He watched Luna limping under the weight of *his* French text (which she was carrying for him).
+
+He revved his motors slightly. He had the horsepower. The Titan could tow a car. But he had no mounting points. He was a tractor without a trailer.
+
+He tapped his **Quantum Communicator**.
+
+*"INEFFICIENT DISTRIBUTION,"* the robotic voice barked. *"I HAVE THE POWER. YOU HAVE THE CARGO. WE ARE MISMATCHED."*
+
+"We're fine, Leo," Olivia grunted, adjusting her grip on the *Structural Analysis* tome. "It's just cardio."
+
+*"IT IS ILLOGICAL,"* Leo insisted. *"I AM A VEHICLE. I SHOULD CARRY THE LOAD."*
+
+He looked at the back of his chair again. He visualized the frame rails. He mentally projected a CAD drawing of an aluminum bracket system with a quick-release latch.
+
+*Input: Backpack.* *Input: Instrument Case.* *Output: Hands-free transport.*
+
+He started driving again, matching Olivia’s pace. He wasn't just rolling home; he was designing.
+
+## The Arrival
+
+They turned into the driveway of **8 Ocean View Lane**. They trudged up the ramp. Stella unlocked the front door.
+
+They dumped the books on the kitchen table with a collective groan of relief.
+
+"Never again," Luna said, rubbing her shoulder. "Next semester, we bring a wagon."
+
+Leo rolled up to the table. He looked at the mountain of books.
+
+*"NO WAGON,"* he typed.
+
+He pulled up the sketch he had started in the food court. He showed it to Olivia.
+
+*"PROJECT M.U.L.E.,"* he typed. *"MODULAR UNIVERSAL LOAD EXTENDER."*
+
+"You're going to build a cargo rack?" Olivia asked, looking at the diagram.
+
+*"I AM GOING TO BUILD A FREIGHT TRAIN,"* Leo corrected. *"TOMORROW. MACHINE SHOP. FIRST PRIORITY."*
+
+Stella massaged her wrists. "Approved. Build it strong, Leo. Because these books aren't getting any lighter."
+
+Leo looked at his chair. It was a great machine, but it was incomplete. Tomorrow, he would finish it.
+
+

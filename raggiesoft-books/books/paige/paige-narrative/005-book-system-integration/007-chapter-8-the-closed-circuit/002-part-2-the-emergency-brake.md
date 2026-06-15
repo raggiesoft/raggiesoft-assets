@@ -1,0 +1,58 @@
+# Part 2: The Emergency Brake
+
+## Friday, November 14, 2008 — 20:15 PM The Living Room
+
+They ate the pizza in the living room, picnicking on the floor. Or rather, the sisters ate on the floor.
+
+Freddie sat on the sofa. Harper sat next to him.
+
+Usually, Harper was the satellite—orbiting the room, grabbing a slice, moving to the TV. Tonight, she was static.
+
+She had engaged her own Emergency Brake.
+
+She sat with her left side pressed completely against Freddie’s right side. Her arm was looped through his. Her head was resting on his shoulder. Whenever she took a bite of pizza, she did it quickly, then immediately returned her hand to his arm, re-establishing the circuit.
+
+"Status?" Paige asked, handing Freddie a napkin.
+
+"She is... docked," Freddie said. "Hard lock."
+
+He looked down at Harper. Her eyes were closed. She was chewing slowly. She wasn't vibrating. She wasn't manic. She was just... clinging.
+
+"I'm sorry," Harper mumbled, swallowing her bite. "Am I squishing you?"
+
+"Negative," Freddie said. "Structural integrity is 100%."
+
+He rested his cheek on the top of her head.
+
+"Why me?" Freddie asked quietly. "There are seven females in this room. Statistically, they are safer targets."
+
+Harper opened her eyes. She looked at the sisters scattered around the room.
+
+"They're safe," Harper agreed. "But... they're soft."
+
+She knocked her knuckles gently against Freddie’s chest.
+
+"You're solid," Harper said. "You don't flutter. You don't panic. You just... sit."
+
+She shivered, remembering the chaotic energy of Travis—the pacing, the shouting, the unpredictable violence of the chair throw.
+
+"Travis was like static," Harper whispered. "He was all over the place. I never knew what he was going to do next."
+
+She squeezed Freddie’s arm.
+
+"You're the dial tone," she said. "You're always the same. I know you aren't going to jump up. I know you aren't going to yell. You're just... The Base."
+
+Freddie processed the data. Consistency as a safety feature.
+
+"I am a fixed point," Freddie confirmed.
+
+"Yeah," Harper sighed, closing her eyes again. "And right now? I really need a fixed point. I feel like I'm floating away."
+
+"Gravity increased," Freddie said.
+
+He shifted his weight, leaning into her, pressing her down into the sofa cushions. He applied the Deep Pressure technique Paige used on him.
+
+Harper let out a long breath. Her shoulders dropped. The tension that had been holding her rigid since Fishersville finally melted.
+
+"Thanks, Captain," she whispered.
+

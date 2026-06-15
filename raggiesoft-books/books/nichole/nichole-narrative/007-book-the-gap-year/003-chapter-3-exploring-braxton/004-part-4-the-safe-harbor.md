@@ -1,0 +1,158 @@
+# Part 4: The Safe Harbor
+
+## Date: April 18, 2004 Time: 1:00 PM Location: The Blue Line (Underground)
+
+The descent into Narragansett Esplanade Station felt like sliding into a warm bath. As soon as the glass elevator doors hissed shut, cutting off the wind and the diesel fumes of the ferry terminal, Nichole’s shoulders dropped an inch.
+
+She was done. The wieners, the mapping, the sensory overload of the construction site—it was all amazing, but her battery was blinking red. Her brain felt like a browser with too many tabs open.
+
+They rolled onto the Blue Line train. It was quiet at midday. The rhythmic thrum-whoosh of the train moving through the tunnel was hypnotic.
+
+"Three stops," Patrick whispered, sensing her fatigue. He stood next to her chair, holding the overhead rail, his body blocking the view of the rest of the car. He was already creating a perimeter.
+
+Foundry Square Station arrived in six minutes. They exited the train, took the elevator up to Level B1, rolled past the credit union, and took the residential elevator up to the 4th floor.
+
+## Time: 1:15 PM Location: Unit 404
+
+Patrick unlocked the heavy steel door. They rolled inside.
+
+The loft was quiet. The sun had shifted, casting long, lazy shadows across the polished concrete floors.
+
+Patrick locked the deadbolt. Clunk. The world was officially locked out.
+
+He looked down at her. She wasn't typing. She was just sitting there, staring at the floor, her hands resting limply in her lap.
+
+"Crash landing?" Patrick asked softly.
+
+Nichole nodded slowly. She didn't want the bed—that felt too much like "medical" rest. She wanted... comfort.
+
+She looked at the oversized sectional sofa they had bought. It was deep, soft, and covered in a plush, slate-gray microfiber.
+
+She pointed to it.
+
+"COUCH. CRASH."
+
+"You got it," Patrick said.
+
+He didn't make her drive. He unlocked her brakes and pushed her the ten feet to the sofa. He parked her, unbuckled the chest strap, and swung the leg rests away.
+
+"One, two, three," Patrick counted, scooping her up.
+
+He didn't just dump her on the cushions. He sat down first, settling into the corner of the sectional, and then arranged her. He pulled her legs up onto the sofa, tucking her back against his chest.
+
+It was the "Anchor Position."
+
+Nichole let out a long, shaky breath. She leaned her head back, resting it in the hollow of his shoulder. Her right arm draped over his chest. His left arm came around her waist, holding her securely against him.
+
+The silence of the apartment wrapped around them.
+
+For the first few minutes, she just focused on the physical relief. Her spine, which had been fighting gravity in the chair for five hours, finally relaxed. The low-level hum of spasticity in her legs quieted down as Patrick’s heavy arm provided the deep pressure input her nervous system craved.
+
+But then, the feeling shifted.
+
+She closed her eyes. She could feel the steady, slow rhythm of Patrick’s breathing against her back. She could feel the warmth radiating from him.
+
+It wasn't just that he was her brother. It wasn't just that he was her caregiver.
+
+It was that he was the only place in the world where she didn't have to perform.
+
+Out there, on the street, she had to be the "inspiring disabled girl." She had to be the navigator. She had to be tough. She had to pretend the stares didn't bother her.
+
+Here, in the circle of his arms, she was just a soul.
+
+A thought bubbled up in her quieted mind, clearer than any line of code she had ever written.
+
+This is it.
+
+She snuggled closer, burying her nose in his hoodie. It smelled like the laundry detergent they had bought together—fresh rain and safety.
+
+This wasn't just nice. This was her favorite thing in the entire world. Better than coding. Better than the wieners. Better than the acceptance letter.
+
+It was the absolute, unshakeable knowledge that as long as she was right here, nothing could hurt her. The Machine was docked. The Engine was idling.
+
+Patrick shifted slightly, pulling the throw blanket over her legs with his free hand.
+
+"You okay, Nikki?" he murmured, his voice rumbling in his chest against her back.
+
+Nichole didn't reach for her screen. She didn't want to break the connection. She just nodded against his shoulder and squeezed his arm.
+
+They stayed like that for the rest of the afternoon, watching the dust motes dance in the sunlight, two halves of the same system finally at rest.
+
+## Date: April 18, 2004 Time: 3:24 PM Location: The Living Room, Unit 404
+
+The afternoon sun had turned the loft into a greenhouse. It was warm, quiet, and perfect.
+
+But biology doesn't care about the perfect cuddle.
+
+Nichole shifted. She tried to ignore it, but the pressure in her bladder was hitting critical mass. The coffee milk from lunch had worked its way through the system.
+
+She tapped Patrick’s chest with a specific, urgent rhythm. One-two. One-two.
+
+Patrick opened his eyes. He didn't ask. He knew the signal.
+
+"Pit stop?" he mumbled.
+
+Nichole nodded, grimacing slightly.
+
+Patrick didn't reach for the wheelchair. The bathroom was twenty feet away. The floor was smooth concrete. And honestly, he didn't feel like messing with brakes and footrests.
+
+He stood up, lifting her with him in one fluid motion. It was a deadlift carry—his left arm under her knees, his right arm around her back. She wrapped her arms around his neck, burying her face in his shoulder.
+
+He carried her to the master bathroom.
+
+The routine was seamless. He set her down, managed her clothing, and assisted her transfer to the toilet. He waited, right there in the room, leaning against the sink. There was no "stepping out for privacy." Privacy was a concept for people who could walk. For them, presence was safety.
+
+When she was done, he cleaned her, adjusted her, and lifted her back up. Then, without a word, he used the toilet himself.
+
+It was the ultimate level of comfort. No barriers. No "your turn, my turn." Just two biological systems maintaining equilibrium in the same space.
+
+## Time: 3:35 PM Location: The Sofa
+
+He carried her back to the living room. But before he sat down, he paused.
+
+"It's roasting in here," Patrick noted. The south-facing windows were doing their job a little too well.
+
+He set her gently on the cushions. He reached down and pulled her heavy hoodie over her head, tossing it onto the floor. She was left in her soft cotton undershirt.
+
+He pulled his own hoodie off, throwing it on top of hers.
+
+He sat back down in the corner of the sectional.
+
+This time, Nichole didn't just lean against him. She maneuvered herself so she was lying directly across his lap, her head resting on his chest, her legs draped over his thighs.
+
+She felt the steady beat of his heart under his t-shirt. She felt his hands settle instinctively—one on her back, one resting on her hip, holding her in place so she wouldn't slide.
+
+She closed her eyes.
+
+This, she thought. This is what they wanted to take away.
+
+Her mind drifted back to the intake interview at the Roosevelt Rehabilitation Center. The stern-faced case manager who had watched Patrick adjust Nichole’s shirt and frowned, scribbling "concerns regarding boundaries" on her clipboard.
+
+Then Putney College. The Resident Director who had looked at them with thinly veiled suspicion, lecturing them on "age-appropriate independence" and hinting that a brother sharing a room with his sister was "improper" and potentially "abusive."
+
+Abusive?
+
+Nichole tightened her arms around Patrick.
+
+Abuse was leaving her alone in a room where she couldn't move. Abuse was forcing her to wet herself because she couldn't call for a stranger to help her. Abuse was stripping her of the one person who understood her language, her body, and her soul, all in the name of "safety."
+
+This wasn't abuse. This was the antidote.
+
+Patrick shifted slightly, adjusting his grip to make her more comfortable.
+
+"You good, Nikki?" he whispered, his chin resting on the top of her head.
+
+Nichole nodded against his chest.
+
+She realized with crystal clarity that Uncle Mark was right. Caring for her—the lifting, the bathing, the wiping, the carrying—was a full-time job. It was heavy, unglamorous, physical labor.
+
+And Patrick didn't just do it. He embraced it. He made it look easy. He made her feel like she wasn't a burden, but a partner.
+
+She was 100% dependent on him. She couldn't walk to the fridge. She couldn't speak a sentence. She couldn't wipe her own body.
+
+And lying here, in the quiet of their fortress, that dependence didn't feel scary. It felt like a promise kept.
+
+She let out a long, happy sigh, her entire body going limp in his arms. She was safe. She was dry. She was loved.
+
+And for the next four years, no one was ever going to tell them "no" again.
+

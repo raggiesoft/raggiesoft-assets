@@ -1,0 +1,44 @@
+# Part 2: The Journey North and Boston Greetings
+
+Getting everyone settled into the Holt Rancher was a masterclass in loving coordination. David and Grandpa Arthur carefully secured Luna’s and Leo’s toddler car seats into the cavernous back. Leo, who needed to be lifted and settled, gurgled happily as David buckled him in, tucking a soft block beside him. Luna, insisting on climbing into her own seat with a little help from Karen, chattered, "Car! Go car, Dada!" Stella, backpack clutched, chose her window seat. With Karen and David in the middle row keeping an eye on the toddlers, and Grandma Eleanor beside Grandpa Arthur up front, the big wagon felt like a cozy, adventure-bound ship.
+
+As Grandpa Arthur expertly navigated the familiar roads from Middletown, heading north towards Massachusetts, the conversation in the car was a pleasant hum. The adults talked about the logistics of the upcoming move to Virginia Beach in July – the movers, finding a new house, Stella starting fourth grade at a new school. Stella listened, a thrill of excitement about a new place mixing with a pang of sadness about leaving her familiar room and the tire swing in their backyard. Karen might have mentioned quietly to Eleanor, "We're seeing Dr. Evans next week about Leo's speech... and the walking. Just to see." Eleanor would have nodded with gentle understanding, perhaps sharing a reassuring word.
+
+"It'll be a big change," Karen said to Eleanor, her voice a little softer than usual. "But David has that good job prospect, and Stella will make new friends in no time."
+
+"And think of the milder winters!" David added with a grin, trying to keep the mood light. "No more shoveling three feet of snow just to get the Holt out of the driveway, eh, Arthur?"
+
+Grandpa Arthur chuckled. "Something to be said for that, son. But this New England girl," he winked at Stella in the rearview mirror, "is going to show Boston a thing or two for her birthday first!"
+
+To distract from any moving-day anxieties, Eleanor started a round of silly songs. Luna clapped along, a bit off-beat, her enthusiastic but sometimes jumbled words joining in. Leo bounced in his seat, his wide eyes taking everything in, occasionally letting out a happy squeal that served as his joyful chorus. Stella, feeling very grown-up, sang all the words she knew, leaning against her mom.
+
+The drive seemed to fly by. Soon, the skyline of Boston appeared in the distance, a cluster of tall buildings reaching for the sky. "There she is, Stella!" Grandpa Arthur announced. "Beantown, in all her glory!"
+
+Stella pressed her face to the window, her heart doing a happy little flip. The city looked enormous, bustling with cars and people. She couldn't wait to explore.
+
+As Grandpa Arthur’s big Holt Rancher wagon, following the signs for downtown Boston, began to merge onto the elevated highway, the free-flowing traffic suddenly condensed. The car slowed, then crawled, then stopped altogether, surrounded by a sea of other vehicles. Stella craned her neck. Ahead, as far as she could see, was a ribbon of cars, trucks, and buses, inching forward between looming buildings and a tangle of green steel girders.
+
+"Well, folks," Grandpa Arthur announced with a sigh that was part resignation, part familiar exasperation, "welcome to Boston's famous parking lot, otherwise known as the Central Artery!"
+
+Grandma Eleanor let out a small, knowing "Oh, dear."
+
+David, from the middle row, chuckled without humor. "Should have known we wouldn't escape it, even on a Saturday. Some things never change."
+
+Karen, trying to keep a restless Leo entertained with a soft toy, peeked out. "Is it always this bad, Arthur?"
+
+"Pretty much, Karen, pretty much," Grandpa Arthur grumbled good-naturedly, tapping his fingers on the steering wheel. "Doesn't matter the day or time. This old elevated monstrosity just wasn't built for this many Holts and Horizons." He gestured vaguely at the dense traffic around them. "They keep talking about putting it underground someday, but I'll believe that when I see it."
+
+Stella peered out, fascinated by the sheer volume of stationary vehicles. Horns blared intermittently, a frustrated urban chorus. From her window, she could see into other cars – people reading newspapers, tapping on dashboards, looking just as stuck as they were. The air filtering in, even with the windows mostly up, smelled different here – heavy with exhaust fumes.
+
+Luna, who had been dozing, woke up and looked around, her brow furrowing at the sudden stop-and-go lurching. "Car stop?" she asked, her voice a little sleepy and confused.
+
+"Just a little Boston traffic, sweetie," Karen reassured her, though her own smile was a bit tight. "We'll be moving again soon."
+
+Leo, however, seemed unfazed by the delay. He pointed a chubby finger at a bright yellow taxi inching along beside them, letting out an excited "Ooooh!" sound. The novelty of being surrounded by so many big vehicles was an adventure in itself for him.
+
+"That's right, Leo, big taxi!" David said, glad for the small distraction.
+
+The adults exchanged more grumbles about the infamous Artery. "Well, Stella," Grandpa Arthur said, glancing back at her with an apologetic smile, "this wasn't exactly on the birthday itinerary, but you're getting the full, authentic Boston experience now, traffic jam and all!"
+
+Stella just nodded, taking it all in. This was the *big city*, and even its traffic felt important.
+

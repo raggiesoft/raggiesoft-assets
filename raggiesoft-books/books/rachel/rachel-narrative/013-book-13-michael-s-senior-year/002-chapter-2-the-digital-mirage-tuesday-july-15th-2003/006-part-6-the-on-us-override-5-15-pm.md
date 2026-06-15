@@ -1,0 +1,78 @@
+# Part 6: The On-Us Override – 5:15 PM
+
+The strategic high of the mini-storage inventory evaporated the second Mom parked the sedan back in the ground-floor garage of the Ghent Villas.
+
+As we walked up the wooden exterior decking toward Unit 2E, the oppressive reality of the seventy-two-hour holding pattern settled heavily onto my shoulders. The math was inescapable. We had secured the extraction point, but until the physical banking system processed the paper check, we were still completely trapped in Greg Lawson’s territory.
+
+Mom pushed the front door open, and the claustrophobia of the narrow, carpeted entryway hit my processor instantly.
+
+Greg was already home from work. He was standing in the galley kitchen, pouring a glass of water. His practical, neurotypical eyes immediately locked onto us as we stepped inside. He didn't see three people who had just survived a targeted social engineering hack and successfully secured a new lease; he saw two teenagers who had been gone all day and a girlfriend who looked exhausted.
+
+"Evening," Greg said, setting his glass down on the granite counter. He looked directly at me. "I assume since you were out all afternoon, you hit the pavement hard? Tell me you got some actual applications in today, Michael. No more bus rides just to come home empty-handed."
+
+The familiar, suffocating dread spiked in my chest.
+
+He was immediately deploying the impossible parameters again. My right leg twitched, the CP spasticity flaring as my nervous system prepared for another round of the Catch-22 lecture. The Gray Area Freeze locked my vocal cords.
+
+Ashley stepped directly in front of me, her Sentinel posture squaring up to the kitchen island. She was preparing to run interference and translate the hostility into hard data, but before she could speak, the sharp, electronic trill of Mom’s cell phone interrupted the silence.
+
+Mom dug into her purse, looking at the caller ID on the small digital screen. She frowned slightly.
+
+"It's Dave," Mom said, answering the call. "Hello? Yes, Dave, this is Ellen. Is something wrong with the paperwork?"
+
+Ashley and I froze. My breathing turned incredibly shallow. If the landlord was calling back less than two hours after we signed the lease, my catastrophic processor immediately assumed the worst. *He changed his mind. He doesn't want teenagers in the building. The perimeter is compromised.*
+
+But Mom’s tight, defensive expression suddenly relaxed into a look of absolute confusion.
+
+"Wait, really?" Mom asked, pacing a few steps into the tiny living room. "I thought you said it would take three days... You're kidding. Right now?"
+
+A massive, genuine smile broke across her exhausted face.
+
+"We'll be right there. Thank you."
+
+Mom snapped her cell phone shut and looked at Ashley and me. The heavy, suffocating dread in the condo shattered instantly.
+
+"What happened?" Ashley demanded, her voice tight.
+
+"Standard check clearing takes two to three business days because the physical paper has to be sent out to a clearinghouse," Mom explained, her voice practically vibrating with relief. "But Dave just took the deposit straight to the bank before they closed at five. It turns out, Dave and Deb’s LLC uses the exact same local bank branch that I use for my checking account."
+
+My brain ran the new variable, struggling to process the implications of the banking algorithm. "What does that mean?"
+
+"It’s an 'on-us' transaction," Mom laughed, a fierce, protective energy flooding back into her posture. "The money never had to leave the institution. The teller just verified my account and transferred the funds on their internal ledger. The check cleared instantly."
+
+The math hit me with the force of a physical shockwave.
+
+*Instantly.* "The seventy-two hours," I whispered.
+
+"Canceled," Mom confirmed. She didn't put her purse down. She turned her attention directly to Ashley and me, shifting into full executive command. "Your duffel bags are still sitting at the top of the stairs. You never unpacked them. Grab them right now and get back in the car."
+
+Greg stood in the kitchen, completely bewildered by the rapid shift in parameters. "Wait, get in the car? Ellen, what is going on?"
+
+"We found an apartment for Michael, Greg," Mom stated firmly. She wasn't asking for his permission or apologizing for the logistics. She was delivering an undeniable fact. "He is moving out. Tonight."
+
+I didn't wait to hear Greg’s reaction to the news, and I didn't care about his lectures regarding the job hunt anymore. The impossible paradox of Baldwin Avenue was officially broken.
+
+Ashley grabbed my hand, completely bypassing the standard-hardware rules of polite exits. We jogged up the narrow, carpeted stairs, grabbed the heavy canvas bags we had dumped on the floor that morning, and hauled them right back down.
+
+Ten minutes later, Mom’s sedan pulled back into the decal-controlled parking lot of 801 Greenway Court.
+
+Waiting for us on the front walkway was a woman with a warm, no-nonsense smile. Deb.
+
+"Dave told me the good news," Deb said as we practically leaped out of the car. She reached into her pocket and pulled out a heavy metal keyring. She slid two standard brass keys off the ring and held them out. "Welcome to the building, you two."
+
+Ashley took one, sliding it securely into her pocket. I took the second one. The metal felt heavy and jagged against my palm. It wasn't an empty promise or a vague corporate buzzword. It was a mechanical tool that granted absolute control over a physical space.
+
+"Thank you," I rasped, my vocal cords tight with disbelief.
+
+We walked up the three heavy-duty rubber steps, stood in front of Unit A5, and pushed the brass key into the lock. The deadbolt gave a heavy, satisfying *thunk*. I pushed the door open, and Ashley and I stepped into the empty, rectangular studio.
+
+The perimeter was officially ours.
+
+Mom stepped in behind us, looking around the bare carpet. The furniture was still locked in the storage unit until we could arrange a truck.
+
+"Okay, phase one is complete," Mom announced, spinning her car keys around her finger. "But we have a logistical problem. You can't sleep on bare carpet, and your CP legs need thermal support."
+
+"We go to MegaMart," Ashley stated, already knowing the algorithm.
+
+"Exactly," Mom smiled. "Leave the bags here. We're getting back in the car, we're driving to MegaMart, and we are buying a queen-sized air mattress, two brand new pillows, and the heaviest blanket we can find. You are holding the perimeter tonight."
+

@@ -1,0 +1,20 @@
+# Part 2: The True Light
+
+The track **"Kaleidoscope Sun"** began. It started with a distinctive, slightly melancholic keyboard arpeggio, joined quickly by a driving bassline and crisp drumming.
+
+Leo leaned back against the sofa, closing his eyes. He loved the rhythm of this song. It felt like movement, like a journey.
+
+**Rhys Manning’s** voice filled the room, singing the opening verse about a city sleeping in shades of grey and hollow echoes in the square.
+
+Luna sat with her knees pulled to her chest, listening to the lyrics. They hit differently today.
+
+"The painted smiles, a masquerade, to hide the fading spark," Manning sang. "A fragile fortress we have made, against the growing dark."
+
+Luna looked at Stella, then at the walls of their house. A fragile fortress. It felt like he was singing about them—about the life they had built out of the wreckage of their parents' neglect.
+
+Then came the chorus, swelling with harmonies.
+
+"Do you hear it? A whisper on the wind, a melody so clear... Will you come back? To where the true light gleams, and home is always near?"
+
+Leo tapped his hand on his knee in time with the beat. He liked the concept of the "true light." It felt safe.
+

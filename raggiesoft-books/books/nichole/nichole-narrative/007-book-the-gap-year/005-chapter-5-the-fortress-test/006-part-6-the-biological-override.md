@@ -1,0 +1,32 @@
+# Part 6: The Biological Override
+
+## Date: July 16, 2004 Time: 12:20 AM Location: The Master Bedroom
+
+As sleep began to pull at the edges of her consciousness, Nichole’s mind did one final system check.
+
+She shifted her leg. It slid smoothly against Patrick’s calf. No cotton. No flannel. No resistance.
+
+A quiet wave of gratitude washed over her—not just for the apartment, or the schedule, or the storm shutters, but for the tiny medical decision they had made back in Portsmouth.
+
+The Override.
+
+She thought about the birth control prescription sitting in her med file. It wasn't for dates. It wasn't for a boyfriend. It was for this.
+
+If she had a normal cycle, this "Zero Friction" protocol would be impossible one week out of every month. She would be forced back into the tyranny of underwear, pads, and pajama pants. She would have to worry about leaks. She would have to wake up in a panic, checking the sheets.
+
+The anxiety of a "menstrual incident" would have destroyed the sanctuary of the bed. It would have introduced a variable of mess and stress that the Bennett Machine didn't have time for.
+
+But the medication had flattened that curve. It had engineered the biology right out of the equation.
+
+No cycle. No incidents. No pajamas.
+
+She pressed her cheek against the pillow, feeling the total, uninterrupted freedom of her own skin.
+
+They had flood-proofed the apartment. They had schedule-proofed the semester. And they had biologically-proofed her body.
+
+There were no variables left. Just the smooth, quiet hum of a system running at perfect efficiency.
+
+She let out a long, final sigh, her body completely limp and heavy in the safety of the bed.
+
+The Machine is waterproof, she thought again. Inside and out.
+

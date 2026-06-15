@@ -1,0 +1,131 @@
+# Part 2: The Static Stack
+
+## Spring 200 4 Tuesday, January 20, 2004 — 15:00 PM
+
+The transition from the academic rigor of Copernicus Hall to the social hub of **Newman Hall** was a sensory shift Freddie usually found jarring.
+
+The air in Newman smelled of floor wax, old coffee, and the grease of the fryers. The ambient noise was a chaotic mix of student chatter, the clatter of pool balls from the game room, and the hum of vending machines.
+
+But today, the "Group 4" formation held the line.
+
+"Refueling is required before data entry," Jessica announced as they entered the atrium. "The **Burger Hub** is open. Meal plans are active."
+
+They approached the counter. It was a standard quick-service setup—stainless steel counters, backlit menus, and student workers in visors.
+
+"I have the orders," Jessica said, taking charge. "Freddie, you want the Standard?"
+
+"Chicken tenders. Three count. Fries. Mega-Cola. No ice," Freddie recited automatically.
+
+"Got it," Jessica said. She looked at Vanessa. "Do you have a meal plan?"
+
+"I do," Vanessa said, pulling a pristine **PolyPass** from her bag. "I'll get a garden salad and a water. I try to keep it light in the afternoon."
+
+They swiped their cards. *Beep. Beep. Beep. Beep.*
+
+Trays loaded, they navigated the crowded seating area. Freddie scanned for a "Low Density" zone.
+
+"Sector 4," Freddie pointed toward a corner near the large windows overlooking the Drillfield. "Corner table. Maximum visibility. Minimum traffic."
+
+"Lead the way," Vanessa said, stepping back to let Freddie and Paige walk ahead.
+
+They claimed the round table. Freddie took the seat facing the room (so no one could sneak up on him). Paige sat on his right, thigh-to-thigh. Jessica sat on his left.
+
+Vanessa sat across from them. She unpacked her salad with surgical precision, arranging her napkin and fork in perfect alignment.
+
+"Okay," Jessica said, popping a fry into her mouth. "The assignment. 'Design a Solar System.' We need an outline by Thursday."
+
+"We need a format," Vanessa corrected gently. She opened her notebook. "Professor Haldeman said we could submit a written report, a poster, or a presentation."
+
+Freddie stopped chewing his chicken tender. He looked at the heavy **Iron-Logic** laptop sitting in his bag.
+
+He thought about a paper report. Static. Linear. Boring. He thought about a poster. Messy. Glue sticks. Imperfect alignment.
+
+"Negative," Freddie stated.
+
+The three women looked at him.
+
+"A paper report is dead data," Freddie explained, wiping his hands carefully on a napkin. "A solar system is a dynamic environment. It requires navigation. It requires structure."
+
+He pulled his laptop out of the bag. He set up the **Digi-Track** mouse with its glowing red ball.
+
+"I will build a website," Freddie announced.
+
+"A website?" Vanessa asked, her eyes widening slightly behind her wire-rimmed glasses. "For a class project? Isn't that... ambitious?"
+
+"It is logical," Freddie countered. "The University provides server space. I have already mapped the directory."
+
+He booted up the laptop. The screen flickered to life. He opened the FTP client (**WS_FTP LE**) to show them the login screen.
+
+**Host:** student-web.cpi.internal **Directory:** /students/~mrags002/public_html **Quota:** 100 MB
+
+"I have one hundred megabytes," Freddie said, pointing to the stats bar. "That is sufficient for text and optimized JPEGs."
+
+"Can you work on it from the apartment?" Jessica asked. "Like, upload it tonight while we watch TV?"
+
+Freddie frowned. He shook his head.
+
+"Security restriction," Freddie explained, his voice dropping with professional seriousness. "The student server is on the **Internal Network**. It resolves only to local IP addresses. It is not accessible from the public internet."
+
+"No VPN?" Jessica asked.
+
+"Student accounts are not authorized for VPN tunneling," Freddie confirmed. "To upload, I must be physically connected to the campus grid. Wired or Wireless."
+
+He pointed to the ethernet jack on the wall near their table.
+
+"This is the airlock. I can write the code at home on the local drive. But to deploy... to make it live... we must be here. We must be on site."
+
+Vanessa nodded, understanding the workflow immediately.
+
+"So, Tuesdays and Thursdays," Vanessa said. "We meet here. We build the data offline. We review. Then you upload."
+
+"A synchronous deployment cycle," Freddie agreed.
+
+"Can you use a database?" Jessica asked, pivoting back to the tech. "Like that PHP stuff you play with?"
+
+Freddie shook his head again.
+
+"Another restriction," he sighed. "The Student Server environment is locked down. The SysAdmins have disabled server-side scripting. No PHP. No Perl. No SQL. It is a security precaution to prevent students from crashing the node."
+
+"So... how do you build it?" Paige asked, confused. "If you can't use the code you like?"
+
+"Hard-coded HTML," Freddie said, sounding like a blacksmith describing forging iron by hand. "Static pages. I will use **Tables** for the layout. It will be rigid. It will be unbreakable."
+
+He looked at Vanessa.
+
+"If we do this... the data must be formatted perfectly. I cannot pull from a database. I have to type the atmospheric composition into the HTML code for every single planet. If we change a number, I have to edit the file and re-upload while on campus."
+
+Vanessa didn't look scared. She didn't look bored. She looked... impressed.
+
+She leaned forward, resting her chin on her hand.
+
+"You're going to hand-code the entire solar system?" she asked softly. "That’s incredible dedication, Freddie. Most people would just staple five pages together and call it a day."
+
+"Dedication yields accuracy," Freddie said.
+
+"I can help," Vanessa offered. "I don't know HTML, but I know how to format data. I can write the descriptions for the planets in a text file. I'll make sure the character counts are identical so your tables line up perfectly."
+
+Freddie blinked. *Character counts.* She understood the geometry of the table cells.
+
+"You understand the grid," Freddie whispered.
+
+"I love the grid," Vanessa smiled. It was a warm, safe smile. "Order is beautiful."
+
+She looked at Paige and Jessica.
+
+"You two are lucky," Vanessa said. "He’s brilliant. I’m just glad I got into this group before the frat guys tried to recruit him to do their homework."
+
+Paige relaxed. She smiled back. "Yeah. He's pretty cool."
+
+"Okay," Jessica said, opening her notebook. "Project: Helios is a go. Freddie handles the architecture. Vanessa handles the math and the data entry. Paige and I will handle the creative writing—naming the planets, the history, the 'lore'."
+
+"Acceptable," Freddie said.
+
+He opened **Notepad**. He typed the first tag.
+
+\<html\>
+
+The cursor blinked. The page was blank. The server was waiting on the other end of the campus network.
+
+"We begin," Freddie said.
+
+

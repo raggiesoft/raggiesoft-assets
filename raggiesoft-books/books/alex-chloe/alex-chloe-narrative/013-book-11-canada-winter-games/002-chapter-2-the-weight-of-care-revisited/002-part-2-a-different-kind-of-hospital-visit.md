@@ -1,0 +1,38 @@
+# Part 2: A Different Kind of Hospital Visit
+
+The ride in the ambulance to the hospital was a surreal, terrifying echo of a memory from a decade prior. It was Chloé on the gurney, her face pale with pain. But Alex was not beside her. His large, complex power wheelchair was too big to fit. And this time, there was another person in the equation.
+
+As the paramedics loaded Chloé into the back, a moment of swift, urgent decision-making occurred on the walkway.
+
+"I'll go with her," Megan said, her voice a calm, steady command in the middle of the chaos. "Alex, you meet us there. Call me as soon as you're on your way, I'll keep you updated."
+
+It was the only logical solution. Chloé couldn't go alone. Alex couldn't fit. Alex, watching Megan climb into the ambulance without a second's hesitation, felt a wave of profound gratitude for their third musketeer.
+
+"I'LL MEET YOU THERE!" his AAC device blared as the ambulance doors closed, the synthesized voice a raw shout. "I PROMISE!"
+
+He watched the ambulance pull away, its sirens wailing, and then his mind snapped into a mode of pure, focused logistics. Megan's car was here, but he couldn't legally drive. An accessible taxi would take too long. There was only one option. He pulled out his phone, his fingers flying as he brought up the Transit Authority of the Puget Sound (TAPS) bus schedule. He had to get to the hospital. Now.
+
+The journey on the city bus was an agonizing ordeal of its own. Every stop, every traffic light felt like an eternity. Alex finally arrived at the hospital, wheeling himself into the emergency room just as Chloé was being taken back for X-rays, with Megan walking steadfastly beside her gurney.
+
+The moment Chloé was out of sight, Megan immediately shifted into the role of logistical commander. She met Alex in the waiting room, her expression a perfect blend of calm efficiency and profound, sisterly concern.
+
+"Okay," she said, her voice a low, steady anchor. "She's getting her X-rays. I already gave the front desk all of her insurance information. And I just got off the phone with your parents and her parents. They know what's happening, and they're all on standby."
+
+She had handled everything, allowing Alex to arrive and focus on a single, crucial task: being there for Chloé.
+
+In the ER, the familiar, sterile environment brought back a flood of painful memories. But this time, it was different.
+
+When a radiology technician came to take Chloé for X-rays, he looked at Alex. "Sir, for radiation safety, you'll need to wait out here. We'll have her back in just a few minutes."
+
+Alex nodded, giving Chloé's hand a reassuring squeeze. This separation felt completely different from the one in the pediatric wing. That had been a blanket policy that excluded him. This was a procedural necessity based on safety.
+
+Later, after the doctor confirmed the severe fracture would require surgery, a nurse came to prep Chloé. "Sir," she said to Alex, "you can wait in our surgical waiting area. The doctor will come find you there as soon as the procedure is over." She then looked at Megan. "And you are?"
+
+"I'm his cousin," Megan said, her voice clear and confident. "I'm with him." The nurse just nodded, accepting the simple, unshakeable reality of their family unit.
+
+As they sat together in the quiet surgical waiting room, Megan continued her quiet, essential work. She made sure Alex had a bottle of water. She updated the four parents via a group text. She was his buffer, his protector, his connection to the outside world. Her presence allowed him the space and the quiet to process the profound, full weight of their decision from six years ago.
+
+He remembered the terror of being in the pediatric waiting room, a helpless teenager desperate for any scrap of information. Now, he was here, unquestioned, his presence a legal right. He was not a "visitor"; he was her husband, her next-of-kin, the designated point of contact. Their platonic marriage, born from a practical need, had just revealed its most powerful, immediate truth: it was a shield. It was a key. It was the legal tool that ensured that in a moment of crisis, they would never, ever be truly separated again.
+
+He looked at the simple gold band on his own finger. The last, lingering shadow of Vera's attempt to poison the word "marriage" for him vanished in that moment, replaced by a wave of pure, unadulterated gratitude. *This,* he thought, his gaze shifting to Megan, his steadfast guardian, *this is why we did it. This is what it's really for.*
+

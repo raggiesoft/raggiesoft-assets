@@ -1,0 +1,42 @@
+# Part 5: A Debrief in the Dark
+
+The interior of Megan’s Holt sedan was a quiet, moving sanctuary. The only sounds were the soft hum of the tires on the interstate and the rhythmic thump of the windshield wipers clearing a light mist. The angry, claustrophobic atmosphere of Vera's apartment was a million miles away. Alex leaned his head against the cool glass of the passenger window, a profound sense of relief washing over him. He was safe.
+
+They drove in a comfortable silence for nearly half an hour, crossing the tunnel then the bridge from Portsmouth into Norfolk. As they passed the exit for Downtown and VDU, Megan finally broke the quiet, her voice gentle.
+
+"You wanna talk about it, cuz?"
+
+Alex was quiet for a long moment, gathering his thoughts. He trusted Megan with anything. He knew, with an absolute certainty, that this was a safe space. He reached for his Quantum Note, the small device a familiar comfort in his hands.
+
+SHE DOESN'T LIKE ME TALKING TO CHLOÉ, he typed.
+
+Megan's hands tightened slightly on the steering wheel, but her voice remained calm. "That's weird," she said, her tone carefully neutral. "Chloé is your best friend. The Chloé I know would want you to talk to everyone. She'd never try to cut you off from your family."
+
+SHE MONITORS MY CALLS, Alex typed, the admission a quiet, shameful confession. SHE SAYS MY HOMEWORK TAKES TOO MUCH TIME AWAY FROM HER.
+
+"Wait," Megan said, a note of disbelief in her voice. "Your *homework*? Alex, Chloé used to sit with you for hours, helping you study. She was your biggest cheerleader when it came to school."
+
+The contrast was stark, and hearing Megan lay it out so plainly was like a light being turned on in a dark room. Each point she made was a quiet, irrefutable comparison between the healthy, supportive love he knew from Chloé and the strange, possessive control Vera exerted.
+
+SHE HATES MY MOVIES, he typed, the confession feeling almost silly, but deeply true.
+
+"The terrible sci-fi ones?" Megan asked, a small, incredulous laugh escaping her. "But... that's like, your and Chloé's *thing*. Watching bad movies and making fun of them is your love language."
+
+He had no response to that. She was right.
+
+SHE SAYS I'M LACTOSE INTOLERANT. THAT I CAN'T HAVE MILK, he typed, the lie sounding even more absurd now that he was saying it to someone else.
+
+That was the one that made Megan's expression harden. "Alex," she said, her voice now deadly serious. "Your mom has been giving you a glass of milk before bed since you were a baby. That's not just a lie; that's... that's cruel."
+
+He just sat in the darkness, the truth of his situation, reflected back at him through Megan's clear, logical eyes, finally beginning to sink in.
+
+IT'S... NOT RIGHT. IS IT? he typed, the words a raw, vulnerable question.
+
+"No, cuz," Megan said, her voice full of a deep, aching love for him. "It's not right. It's not what love is supposed to feel like."
+
+She drove in silence for another few minutes, her mind clearly working. As they took the exit for Lisa Court, she spoke again, her voice now full of a new, quiet purpose.
+
+"Listen," she said. "There's an Open House at VDU in a few weeks. A big one, for prospective students. I was thinking... what if you came? Spent the whole weekend with me, at my dorm. Just to get away. To get a breath of fresh air. We'll tell Vera it's an official school thing you have to go to. It'll be our secret."
+
+The offer hung in the air: a lifeline. An escape hatch. A weekend of pure, uncomplicated safety, with the one person who had just proven, without a shadow of a doubt, that she would always, always be on his team.
+

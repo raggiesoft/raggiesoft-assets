@@ -1,0 +1,32 @@
+# Part 5: A Canadian Landing (December 22, 2003)
+
+The atmosphere inside the Norfolk International Airport (ORF) arrivals terminal was a familiar holiday hum of cheerful reunions. Alex and Chloé, flanked by Thomas, Sophie, and a beaming Megan Carter, stood anxiously near the gate, their eyes scanning the stream of passengers emerging from the jet bridge.
+
+"There they are!" Chloé suddenly squealed, her face breaking into a radiant smile.
+
+A moment later, the Leclerc family appeared: Tante Geneviève and Oncle David, their faces beaming; Mémère Madeleine, looking elegant and happy; and Mathieu and Isabelle, now young adults, looking around the unfamiliar Virginia airport with wide, curious eyes.
+
+The reunion was a joyful, chaotic collision of hugs and a rapid-fire mix of French and English. After the initial flurry of greetings, Chloé took Megan's arm, pulling her forward.
+
+"*Tante Geneviève, Oncle David,*" she said in proud, happy French, "*je vous présente Megan. C'est la cousine d'Alex.*" (Aunt Geneviève, Uncle David, I'd like you to meet Megan. She's Alex's cousin.)
+
+Megan, who didn't speak a word of French, just smiled warmly and extended her hand. "It is so wonderful to finally meet all of you," she said, her voice genuine. "Alex and Chloé have told me so much."
+
+Geneviève and David enveloped her in warm, welcoming hugs, immediately treating her like another member of the family.
+
+After David and Thomas headed to the rental car counter, the rest of the group navigated the bustling baggage claim. Soon, they were all outside in the crisp December air, loading luggage into two minivans.
+
+That evening, Lisa Court was transformed. The Masons' house was filled with the warm, boisterous energy of a full-blown family gathering as the Millers and Megan came over for a big welcome dinner. The conversation was a lively, wonderful cacophony of Québécois French and English. Megan, seated between Alex and Chloé, was a happy and engaged observer, laughing at the family's boisterous stories and relying on Chloé and Emily for quick, whispered translations. James and Emily proudly used the French they had learned, much to the delight of the Leclercs, who were charmed by their efforts.
+
+As the evening wound down, the new sleeping arrangements were settled.
+
+"It is so good of you to let the kids stay here, Chloé," Geneviève said. "The hotel is not far, but they will have more fun with you."
+
+"Are you kidding? It'll be great!" Chloé replied. "My room is officially the 'Cousins' Suite' for the holidays."
+
+Later, after the adults had departed for their hotel, the extended family found their places for the night. Mathieu and Isabelle claimed the bed in Chloé's familiar bedroom, turning the room into a cozy, late-night haven of whispered jokes.
+
+Across the lawn, in the quiet of the Millers' house, Megan settled into the guest room just down the hall from Alex. A few minutes later, Chloé, having said goodnight to her cousins, walked across the familiar patch of grass and slipped quietly into the Miller house. She went directly to Alex's room and climbed into bed with him, a ritual as natural and necessary as breathing.
+
+The knowledge that her cousins were just a stone's throw away in one direction, and his cousin was just down the hall in the other—that their entire, united, cross-border family was finally gathered under the same starry Virginia sky—brought a profound sense of peace and rightness to the start of their holiday.
+

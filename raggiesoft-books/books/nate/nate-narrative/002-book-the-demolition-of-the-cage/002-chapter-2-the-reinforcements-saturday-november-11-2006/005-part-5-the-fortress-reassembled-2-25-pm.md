@@ -1,0 +1,59 @@
+# Part 5: The Fortress Reassembled (2:25 PM)
+
+The heavy, frosted glass doors of the TSA exit slid open and closed, releasing a steady rhythm of business travelers and returning vacationers. With every hiss of the automated sensors, Nate’s grip on his push-rims tightened.
+
+Then, the doors slid open again, and the rhythm of the entire world seemed to stop.
+
+Coming through the threshold was Brittany. She was leaning heavily into the rubberized handles of a standard-issue, black leatherette airport wheelchair, using the sturdy frame to perfectly offset her limp. Sitting in the chair, her disassembled aluminum forearm crutches resting across her lap, was Megan.
+
+They looked exhausted. They looked battered by the emotional toll of the last forty-eight hours. But the second Megan’s eyes scanned the lobby and locked onto Nate, the exhaustion vanished.
+
+"NATE!" Megan's voice cracked, echoing across the polished terminal floor.
+
+Nate didn't even realize he had pushed himself forward until his wheelchair was rolling rapidly across the lobby. Brittany shoved Megan’s chair forward with a sudden burst of adrenaline, meeting him halfway.
+
+The moment the two wheelchairs bumped footplates, the remaining distance evaporated. Nate threw his upper body forward. Megan dropped her disassembled crutches onto the floor with a loud clatter and lunged toward him. Brittany practically collapsed over the back of Megan’s chair to wrap her arms around both of their shoulders.
+
+It was a fierce, desperate collision of limbs. They gripped each other with a terrifying tightness, as if they were physically afraid that letting go would cause the universe to pull them apart again. Nate buried his face into Megan’s shoulder, his fingers digging into the fabric of Brittany’s jacket. He could feel both of them crying, their tears mixing with his own.
+
+The 8:38 triplets were finally, physically together. The missing pieces of his own mind had just clicked back into place.
+
+After a long, breathless minute, Brittany pulled her head up from the huddle, her tear-streaked face scanning the lobby until she found exactly who she was looking for. Sarah was standing a few feet back with Evelyn, giving them the space they needed, her hands shoved into her jacket pockets as she fought back her own tears.
+
+"Sarah," Brittany choked out, reaching one arm out toward her. "Get over here."
+
+Megan instantly shifted her grip, opening the circle. "You don't get to stand on the outside, Sarah. Come here."
+
+Growing up, Sarah had never just been Nate’s older sister; she had been the designated chaperone and protector for all three of them. Whenever the sensory input of a family gathering got too loud, or whenever the physical toll of their shared CP diagnoses got too heavy, Sarah was the one who had shielded them.
+
+Sarah let out a wet, shaky laugh and closed the distance. She dropped to her knees right there on the terminal floor, wrapping her long arms around all three of them at once. It was a chaotic, beautiful, four-person puppy pile right in the middle of Concourse A.
+
+"I've got you," Sarah whispered fiercely into the huddle. "I've got all of you."
+
+Evelyn walked up quietly beside them, her heart swelling at the sight of the impenetrable shield her daughter and nieces had just formed around her son.
+
+Megan slowly pulled back from the hug, wiping her eyes. She reached into her duffel bag, pulled out her dead cell phone, and held it up to Evelyn.
+
+"Auntie Ev," Megan said, her voice dropping into a dead serious register. "I turned this off in St. Louis. I never want to hear Chris's voice again. I am completely done."
+
+Evelyn took the phone with absolute, matriarchal authority and dropped it into the depths of her own purse. "Consider it handled, sweetheart. He is permanently locked out."
+
+Evelyn looked down at the standard manual wheelchair Megan was sitting in, noting the large rear wheels with the push-rims. "Logistics question, girls. Megan, are you rolling full-time now, or is this just an airport courtesy chair?"
+
+"Courtesy chair," Megan sighed, rubbing her aching thighs. "I still use my crutches, but the flight just completely drained me. My legs feel like lead."
+
+"And honestly, it's a lifesaver for me," Brittany admitted, leaning her weight affectionately against the push-handles. "Having something sturdy to lean on completely balances out my limp. It makes walking so much easier."
+
+Evelyn nodded thoughtfully, the wheels in her head already turning. "Good to know. It's something we can talk about when we get home. The garage apartment has plenty of room if we need to make some permanent mobility upgrades."
+
+Sarah stood up, dusting off the knees of her jeans, and grabbed the handles of Nate’s wheelchair.
+
+"Alright, garrison," Sarah announced, officially shifting back into commander mode. "Let's go get your bags and go home."
+
+Brittany gripped the handles of Megan's courtesy chair, and the five of them moved out as a single, unified column. They headed toward the pedestrian skybridge, stepping onto the metallic, interlocking platforms of the moving walkway.
+
+As the mechanical *clack-clack-clack* of the escalator-style floor carried them smoothly across the roadway toward the Arrivals building, Nate looked to his left and his right. His sister was right behind him, his mother was leading the way, and his two best friends were rolling right beside him.
+
+The fortress wasn't just secure. It was impenetrable.
+
+

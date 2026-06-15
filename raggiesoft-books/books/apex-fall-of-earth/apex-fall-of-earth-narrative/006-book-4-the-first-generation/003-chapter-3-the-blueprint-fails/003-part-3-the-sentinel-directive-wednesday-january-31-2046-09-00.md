@@ -1,0 +1,54 @@
+# Part 3: The Sentinel Directive – Wednesday, January 31, 2046 – 09:00
+
+The morning sun filtered brightly through the hydro-glass windows of the residential kitchen.
+
+Upstairs in the nursery, the triplets were finally, miraculously, sleeping completely through the morning cycle, anchored entirely by their new, huddled formation in the center of Leo’s crib.
+
+Down in the kitchen, Wyatt and Sarah were sitting at the polished stone island, savoring their first hot cups of coffee in over twenty-four hours. Sarah was resting in her wheelchair, a warm mug cupped in her hands, while Wyatt stood leaning against the counter. His S.H.O.P. Marine brain, finally unburdened by the immediate panic of the nursery, had shifted back to planetary defense.
+
+He took a slow sip of his black coffee, his dark eyes staring thoughtfully out the window at the pristine, untouched alien forest beyond the estate.
+
+"Aria," Wyatt rumbled, his deep voice breaking the quiet hum of the kitchen appliances. "Run a historical sociological diagnostic. Has there ever been a recorded population in human history that successfully demanded absolute, lethal isolation? A society that just completely refused to be contacted by the outside world?"
+
+"Query recognized, Administrator," Aria’s synthesized voice chimed from the ceiling array. "There are several minor historical examples, but the most prominent and enduring instance in human history was the Sentinelese people of North Sentinel Island."
+
+The kitchen’s secondary holographic projector flared to life above the center island.
+
+A glowing blue, three-dimensional topographical map of Earth’s ancient Indian Ocean appeared, zooming in on a small, heavily forested island surrounded by treacherous coral reefs.
+
+"The Sentinelese were a voluntary, uncontacted hunter-gatherer society," Aria explained, her digital cadence shifting into a clinical, historical lecture. "For thousands of years, they vehemently rejected all interaction with the outside world. Any external vessels, aircraft, or individuals that breached their shores or low-altitude airspace were met with immediate, lethal force—typically volleys of arrows and spears. By the late twentieth century, global governments formally recognized their right to absolute isolation. Approaching the island was heavily criminalized to protect their ecosystem."
+
+Sarah leaned forward, her brow furrowing as she looked at the tiny holographic island. "They just wanted to be left alone to raise their families. Just like us."
+
+"Correct, Sarah. However, their absolute refusal to adapt to a changing galaxy ultimately dictated their fate," Aria noted, the blue light of the hologram flickering slightly. "When the Apex Megacorporation destabilized Earth’s core during the Resource Wars, global evacuation protocols were initiated. Rescue flotillas were dispatched to every sector. But when the atmospheric drop-ships approached North Sentinel Island to evacuate the population... the Sentinelese fired upon them. They refused to engage, and they refused to board."
+
+Wyatt’s jaw tightened, his massive hand wrapping securely around his ceramic coffee mug.
+
+"The rescue fleets were forced to abandon the sector to save the rest of the surrounding populace," Aria concluded softly. "The Sentinelese were entirely lost when the planet was destroyed. They died because they refused to open a channel."
+
+The kitchen fell completely silent. The holographic map of the lost island slowly faded out, leaving only the morning sunlight.
+
+Wyatt stared at the empty space above the island, the heavy, tragic parallel settling deep into his bones. He had vaporized two corporate siege fleets in the span of a month. He had built a planetary shield that functioned exactly like those ancient coral reefs, shredding anyone who got too close. Planet Eden was a fortress of isolation.
+
+"Well," Wyatt finally grunted, taking another slow, dark sip of his coffee. "At least I'm willing to open a hailing frequency. Even if those corporate bastards ignored it twice."
+
+"They didn't come to talk, Wyatt," Sarah pointed out gently, reaching across the stone counter to rest her hand over his. "They came to conquer. You gave them a chance to state their business, and they answered by firing on our home. You did exactly what you had to do."
+
+"I know," Wyatt agreed, his dark eyes locking onto hers. "But we can't be the Sentinelese forever, Sarah. Right now, it's just you, me, the Vanguard, and an AI. We have zero infrastructure outside of this estate. We have no population. If we drop the Aegis shield today, the corporations will strip-mine this planet and sell our children to the highest bidder."
+
+"So we stay dark," Sarah said firmly, her maternal instincts mirroring his S.H.O.P. Marine discipline perfectly. She thought of the three tiny, fragile babies sleeping upstairs, fiercely clinging to each other for survival. "We stay completely closed off. We don't open the gates until we actually have a civilization capable of defending itself. Until we have a functioning government, a real population, and a fleet of our own."
+
+Wyatt nodded slowly, a profound sense of clarity washing over him. The blueprint for the planet's future was officially set.
+
+He looked up at the ceiling array.
+
+"Aria, log the Sentinel Directive," Wyatt commanded, establishing the absolute, uncompromising law of Planet Eden. "The Aegis grid remains locked at maximum capacity. We are a closed system. However, if any unidentified vessel approaches our orbit, we will always offer one audio-only hailing frequency. We will always give them the chance to talk peacefully."
+
+"Directive logged, Administrator," Aria confirmed. "And if they demonstrate hostile intent?"
+
+"If they ignore the hail, or if they fire a single shot against our shield," Wyatt rumbled, his voice dropping into a cold, lethal promise that would define the Colton family legacy for generations to come, "you don't offer a warning. You turn them into cosmic dust."
+
+Sarah squeezed his hand, a fierce, beautiful smile touching her lips. "Agreed."
+
+Planet Eden was officially off the map. They were isolated, heavily armed, and perfectly willing to talk—but absolutely prepared to destroy anyone who threatened their peace.
+

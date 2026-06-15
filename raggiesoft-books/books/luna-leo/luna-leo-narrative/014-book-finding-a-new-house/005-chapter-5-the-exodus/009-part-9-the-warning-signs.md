@@ -1,0 +1,47 @@
+# Part 9: The Warning Signs
+
+## September 2006 8 Ocean View Lane - The Driveway Saturday Morning
+
+The grass was green. The house was finished. The **Holt Sentinel** was parked in the garage next to the new **Titan X-Treme** charging station.
+
+Stella stood at the end of the driveway with a cordless drill.
+
+Leo watched from the porch.
+
+"Okay," Stella said. "Layer One."
+
+She screwed a heavy, custom-cast bronze plaque into the stone pillar at the end of the driveway. It had been made by a local foundry in Oakhaven, the same one that made the town’s historical markers. It looked official, permanent, and intimidating.
+
+**PRIVATE PROPERTY** **THE PORTER TRUST** *No Trespassing - No Solicitation* *Violators Subject to Prosecution*
+
+"That's for the lawyers," Stella said, admiring the weight of it. "Now for the salesmen."
+
+She walked up the driveway to the front door. Right next to the doorbell, she mounted a smaller, high-contrast metal sign she had ordered from **InfoLink Trade**.
+
+**NOTICE TO SOLICITORS:** *This household charges **\$50.00 per minute** to listen to sales pitches, religious messages, or fundraising requests.* *THIS FEE IS PAYABLE IN ADVANCE.* *By knocking on this door or ringing this bell, you agree to these terms.*
+
+Leo rolled up to read it. He grinned.
+
+*"IT HAS NO LEGAL WEIGHT,"* he typed on his MagnaByte Scribe.
+
+"I know," Stella laughed, wiping dust off the sign. "But it stops them for about ten seconds while they do the math. And the look on their face when they realize they can't afford to say hello? Priceless."
+
+She patted the sign.
+
+"The Deed stops the developers. The Trust stops the lawsuits. The Wall stops the gaze. And this sign stops the guy trying to sell us windows."
+
+Leo looked at the layers of defense.
+
+1.  **The Deed:** Poison Pill (Probate Court).
+
+2.  **The Trust:** Corporate Shield.
+
+3.  **The Wall:** Visual Block.
+
+4.  **The Sign:** The Joke (but also a threat).
+
+*"FORTRESS COMPLETE,"* he typed.
+
+"Complete," Stella agreed, pocketing her drill. "Now let's go inside. I think it's time to make some coffee milk."
+
+

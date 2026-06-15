@@ -1,0 +1,36 @@
+# Part 2: The Subprime Shield – 8:15 PM (EST)
+
+By late May 2007, the national news was dominated by a single, terrifying headline: the subprime mortgage crisis.
+
+The housing market was beginning to bleed. Lenders were filing for bankruptcy, foreclosure signs were popping up like weeds across Virginia Beach, and a heavy, suffocating financial panic was settling over the civilian world. For the average family, the collapsing market was a nightmare.
+
+But Jessica Ragsdale wasn't an average family. She was the Director of Defense Integration for Quantum Corporation, commanding an entire floor of the Armada Hoffler Tower in Town Center, holding an exorbitant corporate salary, and possessing an absolute, zero-debt financial portfolio. To her, the housing crash wasn't a crisis. It was a clearance sale.
+
+The townhouse at 3701 Canadian Arch had been the perfect temporary bunker, but the physical geometry was failing us. Five traumatized, neurodivergent adults operating on a zero-privacy, high-compression baseline simply could not sustainably exist in a standard three-bedroom unit without constantly tripping over each other. Jessica knew we needed a massive, permanent sanctuary. She just needed the right plot of land.
+
+We paid the bill at the restaurant, leaving Pembroke Mall and walking out into the humid, warm Virginia evening air.
+
+I was behind the wheel of our new pack transport. Because hauling Jessica’s manual wheelchair in and out of sedan trunks was rapidly destroying my lower back, Jessica had completely bypassed the issue. She had bought a heavy-duty, wheelchair-accessible transit van, completely outfitted with a motorized hydraulic side-lift. It was massive, secure, and drove like a tank.
+
+The seating geometry was perfectly locked in. I was in the driver's seat, piloting the rig. Jessica was locked into the front passenger tie-down bay, her manual chair secured directly next to me. In the wide bench seat in the back, the trio was anchored. Rachel was sitting dead center, completely sandwiched between the warm, protective weights of Ashley on her left and Kristin on her right.
+
+"Traffic is flowing nicely," I noted, checking my mirrors as I steered the heavy van southbound down Independence Boulevard, heading for home.
+
+The standard, predictable route was permanently burned into my processor: stay southbound on Independence, pass the commercial strips, make a left onto Buckner Boulevard, and then a quick left onto Canadian Arch. Our unit was the very first driveway on the left. It was a simple, frictionless line of transit.
+
+But as we approached the major Holland-Independence split, the horizon violently lit up.
+
+A sea of flashing red and blue strobe lights painted the wet Virginia asphalt. A massive, multi-vehicle wreck had completely shut down the southbound lanes of Independence Boulevard just past the junction. Traffic was at a dead, agonizing standstill, the air thick with the smell of burnt rubber and exhaust.
+
+"Roadblock," Jessica announced from the passenger bay, her analytical brain immediately calculating the delay.
+
+A Virginia Beach police officer was standing in the intersection waving a bright orange flashlight, aggressively forcing all southbound traffic to execute a mandatory right turn onto Silverleaf Drive.
+
+"Taking the detour," I muttered, gripping the steering wheel and guiding the heavy transit van onto Silverleaf.
+
+The moment we made the turn, my internal geographical map redlined. The police were funneling hundreds of cars down a two-lane residential street. I knew this grid perfectly. Every single one of these redirected cars was going to push straight down Silverleaf and bottleneck massively at the Green Meadows Drive intersection. We would be trapped in bumper-to-bumper gridlock for an hour.
+
+"I'm bypassing the bottleneck," I told the pack, checking my passenger-side mirror.
+
+Before we hit the impending traffic jam at Green Meadows, I hit the turn signal and executed a sharp right turn onto the very next cross street: Moosewood Drive.
+

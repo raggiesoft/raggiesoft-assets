@@ -1,0 +1,32 @@
+# Part 5: The Neon Quarter – 1:45 PM
+
+The Emerald Creek Mall food court was a vast, echoing cavern of clattering plastic trays, scraping metal chairs, and the overwhelming smell of greasy fries and baked pretzels. It was the designated meeting point for the entire extended family, which meant it was the absolute last place we wanted to be.
+
+Jessica didn't even slow down as we approached the seating area. She steered us right past the rows of crowded tables, aiming for the far end of the food court near the heavy steel doors of the street elevator.
+
+Tucked into the corner was the entrance to The Neon Quarter.
+
+Walking from the bright, skylit food court into the arcade was like stepping onto another planet. The overhead lights were entirely turned off, leaving the dark, carpeted room illuminated only by the frantic, pulsing glow of dozens of CRT monitors and flashing marquee signs.
+
+It was loud. Incredibly loud. But as we stepped onto the geometric neon carpet, the buzzing anxiety in my chest actually began to settle.
+
+The noise in the mall concourse was chaotic, unpredictable human noise. The noise in The Neon Quarter was mechanical. It was the predictable, looping 16-bit soundtracks, the rhythmic *clack-clack-clack* of plastic buttons being mashed, and the heavy, programmed bass drops of the game cabinets. It was a massive, humming system, and my brain immediately understood it.
+
+"Stay here," Jessica instructed, gently prying me and Rachel apart just enough to wedge us into a quiet alcove near a row of empty Alley-Roller machines. "Do not move."
+
+She walked a few feet away to the change machine. The heavy *ka-chunk* of her dollar bills turning into brass tokens was instantly comforting.
+
+Rachel was still pressing her shoulder against my ribs, her eyes wide as she took in the flashing lights. Toward the front of the arcade, a massive crowd of older teenagers was clustered tightly around a brand-new *Lethal Combat II* cabinet, shouting and shoving each other as the announcer's booming, digitized voice echoed across the room. Next to it, two high schoolers were aggressively slamming the steering wheels of the new twin *Apex Drifter* racing games.
+
+Jessica returned, her hand heavy with tokens. She didn't guide us toward the loud, crowded games at the front. She knew exactly what we needed. She led us to the very back wall, away from the screaming teenagers, to an older, quieter cabinet: *Pixel Frenzy*.
+
+She dropped two tokens into the slot. The machine let out a cheerful, familiar electronic jingle.
+
+"Take the joystick, Michael," Jessica said softly. She looked down at Rachel, who was still locked onto my arm. "Rachel, you press the jump button when he tells you to. Okay?"
+
+Rachel didn't speak, but she slowly reached her free hand out toward the glowing blue button on the control panel.
+
+"You guys play," Jessica said, taking a step back and crossing her arms as she turned her attention toward the food court entrance. "I'll keep an eye out for Mom and Dad."
+
+I wrapped my hand around the red plastic ball of the joystick. The bright, 8-bit maze lit up the screen in front of us. Behind me, the mall was a warzone of holiday stress, but right here, bathed in the warm glow of the cathode-ray tube, the universe made perfect, mathematical sense. Rachel’s hand hovered over the button, waiting for my signal. We were safe in the dark, letting the machines drown out the rest of the world.
+

@@ -1,0 +1,36 @@
+# Part 1: Sanctuary – 9:30 PM
+
+The Delaney Street house was not built to hold this much noise.
+
+I was eight years old, and the sheer volume of our home had been pushed well past my neurological breaking point. The house was jam-packed, vibrating with the overlapping conversations and chaotic energy of our extended family. Downstairs, Uncle Eddy—Mom’s only brother—was already staking his claim on the living room sofa bed. Aunt Chris had wisely evacuated to Aunt Janet’s house across Virginia Beach, while Dad's mother, Grandma Helen, and his older sister, Aunt Betsy, were dragging out their long goodbyes before finally retreating to their hotel.
+
+But Aunt Betsy’s son, Joey, wasn't going to the hotel. He was staying here. And worse, he was staying in *my* room.
+
+Joey and I operated on two entirely different frequencies. He was loud, unpredictable, and thrived in the holiday chaos. I was currently surviving purely by avoiding him. Losing my bedroom to him meant losing my only designated quiet space in the house. The geographic center of my routine had been completely hijacked.
+
+My only escape route was on the second floor.
+
+I pushed open the door to my sisters’ bedroom, stepping out of the noisy hallway and pulling the door firmly shut behind me. The sudden drop in decibels was an instant, physical relief.
+
+The room was dominated by a heavy, silver metal-tube bunk bed. Up top, buried under a bright teal comforter with a pink rose pillow, was thirteen-year-old Jessica. She was safely out of the fray, reading a paperback in the quiet sanctuary of the upper bunk, having scrambled up the metal rungs to claim the highest vantage point in the room.
+
+"Joey driving you crazy?" Jessica asked quietly, not looking up from her pages.
+
+"Yes," I muttered, rubbing my eyes beneath my glasses.
+
+"Get in," she instructed, flipping a page. "Before someone asks you to do something."
+
+I didn't need to be told twice. I crawled onto the lower bunk, sinking into the heavy, red quilted blanket. The bottom bunk felt like a self-contained pod, shielded by the metal slats of Jessica's mattress above.
+
+I wasn't alone down there.
+
+Six-year-old Rachel was already tucked against the wall, her knees pulled up to her chest. The massive influx of loud adults and the disruption of our daily routine had pushed her entirely into silence. She hadn't spoken a single spontaneous word all week, her situational mutism locking her jaw tight against the sensory avalanche of the holidays.
+
+When I crawled under the red blanket, she didn't hesitate. She immediately uncoiled from the wall and latched onto me.
+
+A few years ago, I would have complained about the "cooties" or tried to squirm away, but at eight years old, I already understood the mechanics of what she was doing. She didn't have the vocabulary to say the house was too loud or that the strangers in the living room terrified her. Instead, she threw her small arms around my torso and squeezed with a desperate, suffocating tightness.
+
+I wrapped my arms around her and squeezed back, applying the deep, heavy pressure she needed to regulate her nervous system.
+
+It was a perfectly symbiotic system. Her tight, silent hugs grounded the frantic, buzzing anxiety in my own chest, and my presence acted as the physical anchor she needed to stop spiraling. We lay there on the bottom bunk in silence, perfectly hidden beneath the red quilt, letting the muffled sounds of Uncle Eddy settling into the living room and Joey taking over my bedroom fade away into the background.
+

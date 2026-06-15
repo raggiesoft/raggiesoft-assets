@@ -1,0 +1,50 @@
+# Part 4: The Transport – 1:30 PM
+
+Discharge was delayed by three agonizing hours.
+
+Following our catastrophic meltdown, the trauma attending physician refused to sign the release paperwork until a fresh set of portable ultrasounds was performed. When the radiologist finally gave the all-clear, confirming my hernia hadn't strangulated and Rachel's spleen hadn't ruptured, the collective sigh of relief in the trauma bay was audible.
+
+As Nurse Sarah began pulling the IV lines from our arms, the heavy, narcotic haze of the sedatives kept my panic entirely suppressed. Lying flat on my back, staring at the ceiling tiles, the absolute absurdity of our situation slowly washed over me.
+
+We were grounded until Christmas. We were facing four months of bedpan logistics, homebound tutoring, and paralyzing physical restriction. Our entire childhood had been derailed. And all of it—the torn fascia, the swelling organ, the blinding agony—was the result of a single, barefoot man shifting his weight. Master Curtis hadn't used a weapon. He hadn't thrown us off a roof. He had simply stepped on us. The sheer, devastating physics of that realization were terrifying.
+
+"Dad?" I mumbled, my voice thick and groggy from the muscle relaxers.
+
+Dad stepped up to the railing immediately. "I'm right here, buddy."
+
+"The sofa," I whispered. "The doctor said we have to have a barrier. What kind of barrier?"
+
+Mom stepped up next to Dad, offering a soft, reassuring smile. "I'm going to take the three long, firm body pillows from the hall closet. We're going to lay them directly down the center of the queen mattress. It will be a physical wall. You take the right, Rachel takes the left. You both can reach right over the top of it, and your hands can stay locked together the entire night."
+
+Rachel blinked, a tiny, microscopic release of tension dropping her shoulders. We could still hold hands. The perimeter wasn't completely broken.
+
+The trauma attending physician walked back in, holding a thick stack of discharge papers.
+
+"Alright, Tom, Ellen," the doctor said, handing Mom the clipboard. "You are cleared to take them home. But because they must remain perfectly flat, and because their injuries are so highly unstable, hospital protocol prohibits us from discharging them to a personal vehicle. The risk of sudden braking in a passenger sedan is too high."
+
+Dad frowned. "How do we get them to Virginia Beach?"
+
+"We've already booked a private non-emergency medical transport," the doctor explained. "Because of their psychological dependency, I specifically requested a dual-cot transport van. It’s a commercial medical vehicle with two parallel locking tracks so they can ride side-by-side. The transport techs will secure them, and you and Ellen will follow behind them."
+
+Twenty minutes later, two transport technicians wearing private company polos wheeled heavy stretchers into the trauma bay. With agonizing, synchronized care, they lifted Rachel and me from the hospital beds and strapped us down.
+
+We were rolled out through the loading dock and loaded into the back of a massive, elongated white commercial van. It didn't have the flashing red-and-blue lights or the chaotic medical cabinets of an emergency ambulance. It was just a wide, climate-controlled box built purely for safe logistics.
+
+They locked my stretcher into the heavy steel track on the right side of the floor, and rolled Rachel’s stretcher up the ramp, locking hers into the parallel track on the left. The aisle between us was only about eighteen inches wide. When the technicians gave us the okay, I reached my hand over the metal railing of my cot. Rachel reached across the narrow aisle, and we locked our fingers together right over the center console before the heavy rear doors slammed shut.
+
+The ride from the Children's Hospital in Norfolk to the house on Delaney Street was still stressful, but the specialized van was built for it. The heavy, commercial suspension of the vehicle absorbed the worst of the jolts as we merged onto I-264 and I-64. I could feel the rumble of the highway, but the padded stretcher and the medical binder kept my core perfectly flat and secure.
+
+When the white transport van finally turned off Brandon Boulevard and idled down the familiar asphalt of Delaney Street, a profound exhaustion settled into my bones.
+
+The van backed into the driveway of 1852 Delaney Street.
+
+The technicians opened the rear doors, unlatched our stretchers, and wheeled us right up the concrete walkway. Dad had already run inside and propped the front door wide open.
+
+They wheeled us straight into the living room, which had been completely transformed. The coffee table was gone. The sofa was pulled out into a massive queen bed, with the three body pillows forming a perfect, straight wall right down the middle. To the left and right of the sofa bed, Dad had hauled down the two twin mattresses from the girls' upstairs bedroom, creating a fully padded, wall-to-wall base camp on the living room floor.
+
+The technicians lifted us one last time, transferring us from the stretchers down to the mattress. They set Rachel on the left, and me on the right.
+
+As the transport crew packed up their gear and walked out the front door, leaving us in the quiet, air-conditioned safety of our own home, I reached over the pillow wall. Rachel’s hand was waiting. Our fingers locked together.
+
+We were trapped on this sofa for the next four months, but we were finally, truly safe.
+

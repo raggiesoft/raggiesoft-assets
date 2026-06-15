@@ -1,0 +1,56 @@
+# Part 6: The Hub Dilemma
+
+## Thursday, May 13, 2004 — 10:45 AM (PST) Gate C10, SeaTac Airport
+
+The waiting area for Flight 492 was a sea of humanity. The "open seating" policy meant that while the siblings had pre-board status, everyone else was jockeying for position in the dreaded "A," "B," and "C" boarding groups.
+
+Freddie was parked near the podium, his wheelchair brakes locked. He was clutching the plastic bag from *Emerald City News*, his knuckles white around the neck of a plastic cola bottle.
+
+To his right, two businessmen in grey suits were loudly discussing their itinerary.
+
+"I don't know why they routed this flight into O'Hare," the taller one complained, snapping his newspaper. "It’s a zoo. Midway is so much easier. You get off the plane and you're in a cab in ten minutes."
+
+"Tell me about it," the other groaned. "O'Hare is a black hole. You land in one zip code and taxi to another. By the time we get to the gate, we could have driven to the Loop."
+
+Paige, sitting on the metal bench next to Freddie, frowned. She looked at Jessica.
+
+"Everyone keeps saying that," Paige whispered. "That Midway is the 'good' airport and O'Hare is the 'bad' one. Did we mess up?"
+
+Jessica looked at the boarding passes in her hand. For a second, a flicker of doubt crossed her face. She hated inefficiency. If she had booked them into a logistical nightmare when an easier option existed, she would be furious with herself.
+
+"Midway is smaller," Jessica admitted. "It's closer to the city. Less traffic."
+
+Freddie turned his head. His sunglasses reflected the grey light of the tarmac.
+
+"Irrelevant," Freddie stated, his voice muffled slightly by the high collar of his hoodie.
+
+"How is it irrelevant?" Paige asked. "If we're walking into a 'black hole'?"
+
+"The destination is not Chicago," Freddie corrected. "The destination is Roanoke (ROA)."
+
+He tapped his temple, accessing the route map stored in his memory.
+
+"Gateway Airlines does not fly between Midway and Roanoke," Freddie explained. "No carrier does. Roanoke is a regional spur. The only major hub that connects to Roanoke is O'Hare."
+
+He looked at the businessmen with a distinct lack of sympathy.
+
+"They are terminating in Chicago," Freddie said. "For them, O'Hare is a bug. For us, it is a feature. It is the only door that opens to Virginia."
+
+Jessica let out a sigh of relief. The logic held.
+
+"You're right," she said, smoothing out the boarding passes. "We didn't have a choice. We have to slay the beast to get home."
+
+"The beast is big," Freddie warned. "O'Hare has seven runways. It handles 2,700 operations per day. It is chaotic."
+
+"But we have the Chariot," Paige reminded him, patting the armrest of the wheelchair. "And we have the Sandwich formation."
+
+"And honey-roasted peanuts," Freddie added, clutching the bag of nuts tighter.
+
+**"Good morning, folks,"** the gate agent announced over the PA system. **"We are ready to begin pre-boarding for Gateway Flight 492 to Chicago O'Hare. We welcome any passengers needing special assistance or extra time down the jetway to board at this time."**
+
+Jessica stood up. She grabbed the handles of the wheelchair.
+
+"That's us," she said. "Ignore the grumbling. We're on the only path that leads home."
+
+She released the brakes. They rolled past the businessmen, past the long lines of impatient travelers, and headed into the tunnel that would take them to the busiest machine on earth.
+

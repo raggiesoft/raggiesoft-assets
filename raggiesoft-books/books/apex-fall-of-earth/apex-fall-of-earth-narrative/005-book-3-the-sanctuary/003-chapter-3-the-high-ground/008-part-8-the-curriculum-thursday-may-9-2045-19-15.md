@@ -1,0 +1,52 @@
+# Part 8: The Curriculum – Thursday, May 9, 2045 – 19:15
+
+The last bite of truffle pasta vanished, and Wyatt set their empty ceramic plates into the massive, automated sanitization basin built into the marble island.
+
+The cooking was done, the threat of spitting hot oil was gone, and the heavy, humid air of the valley was a distant memory. Inside the mountain, the estate's climate control maintained a flawless, incredibly comfortable **21.6°C**.
+
+Sarah looked down at her t-shirt, her denim shorts, and then over at Wyatt. The unspoken rule of their new life immediately took effect.
+
+"The Eden Rule," Sarah smiled, pulling her shirt over her head. She unhooked her bra, tossing it onto the marble counter, and stepped out of her shorts and shoes.
+
+Wyatt followed suit, stripping off the heavy cotton apron, his t-shirt, shorts, and boots. Standing completely nude in the warm, ambient air of the massive kitchen felt incredibly freeing. There were no cameras, no corporate overseers, and no need to carry the weight of clothes they didn't need.
+
+Sarah gathered their discarded garments into a neat pile. "Aria, where does the laundry go? I don't exactly want to leave a pile of denim on the kitchen island."
+
+*"There is a localized pneumatic disposal chute recessed into the wall adjacent to the pantry, Sarah,"* Aria guided her, a soft blue LED illuminating a sleek steel panel nearby.
+
+Sarah carried the bundle over and opened the chute, dropping everything inside—shirts, shorts, underwear, shoes, and her bra.
+
+*"The estate utilizes a fully automated, intelligent sanitization system,"* Aria explained as the panel hissed shut. *"The sensors will physically separate the materials. Delicate or un-washable items, such as your canvas boots and the structural undergarment, have automatically triggered the reject protocol. They are currently being routed via secondary pneumatics directly to the clean collection bin in the master suite's dressing room. The denim, cotton shirts, and standard undergarments have been accepted into the primary wash and thermal-dry cycle. They will join the rejected items in the collection bin perfectly clean and folded in exactly forty-two minutes. The original architect thought of everything."*
+
+"He really did," Wyatt chuckled, shaking his head as he wrapped his arm around Sarah's bare waist. "I have never in my life had my laundry digitally sorted for me."
+
+Leaving the kitchen behind, they began the slow, deeply relaxed walk down the wide, polished stone corridor toward the living room and the indoor geothermal pool. The ambient lighting of the estate dimmed perfectly to match the evening hours, casting a warm, fire-lit glow across their bare skin. Outside the camouflaged hydro-glass windows, the super-cell storm continued to rage, sheets of rain violently lashing the mountain while they remained entirely untouched inside.
+
+As they approached the gentle, echoing sound of the indoor waterfall, Wyatt’s brow furrowed slightly in thought. The mechanical logistics of their future were already spinning in his head.
+
+"Sarah," Wyatt started, his voice echoing softly over the sound of the cascading water. "The Genesis Vault. Fifty thousand kids, plus our own. We have the space, and we have the food. But... how do we actually teach them? I can teach them how to weld a pressure valve, and you can teach them how to grow crops, but we aren't teachers. How do they learn math? Or history? Or medicine?"
+
+Sarah stopped at the edge of the beautifully illuminated pool, the steam rising gently from the heated, crystal-clear water. She looked up at the ceiling.
+
+"Aria?" Sarah asked, knowing the billionaire wouldn't have overlooked the most critical aspect of rebuilding civilization.
+
+*"The Genesis mainframe is equipped with a comprehensive, multi-tiered digital curriculum,"* Aria answered, her voice reflecting the immense depth of the estate's databanks. *"It contains the entirety of recorded human knowledge prior to the Earth's destabilization. The educational program spans from early childhood cognitive development and basic literacy all the way through advanced post-doctorate university degrees. It utilizes interactive, holographic lectures and adaptive testing. When the children are ready, the estate itself becomes their academy."*
+
+Wyatt let out a low whistle, entirely impressed.
+
+*"Furthermore,"* Aria added seamlessly, *"the digital curriculum is not restricted to the Genesis cohort. As primary Administrators, you both have unrestricted access to the university archives. If you wish to further your own education, the system is fully at your disposal."*
+
+Wyatt looked at Sarah, a genuine spark of intellectual excitement lighting up his eyes. For his entire life, the megacorporation had pigeonholed him as a physical laborer. He was never allowed to ask *why* things worked, only *how* to fix them.
+
+"If we have a massive digital university at our fingertips," Wyatt mused, stepping down onto the first submerged stone tier of the pool, the warm water washing perfectly over his calves. "I could actually study the advanced physics behind the ship's FTL drives and repulsorlifts. The S.H.O.P. Marines only taught me how to patch the bulkheads; they never let me study the actual physics of gravity manipulation."
+
+Sarah smiled brilliantly, stepping into the water right behind him. The geothermal heat felt incredible, instantly relaxing the lingering tension in her muscles.
+
+"And I could study network design and software architecture," Sarah added, wading deeper into the pool and wrapping her arms around his neck as the water rose to their chests. "If we're going to be managing a smart-estate, a highly advanced AI, and a cryogenic vault, understanding the digital framework of Aria's mainframes would be incredibly useful. I could practically design our own localized web networks for the facility."
+
+They had the rest of their lives, absolute safety, and the combined knowledge of the entire human race waiting for them whenever they wanted it.
+
+Wyatt pulled his wife close, the gentle cascade of the indoor waterfall drowning out the violent storm outside. They were completely bare, held perfectly by the warm water, with a limitless future stretching out before them.
+
+"Advanced physics and network design," Wyatt murmured, leaning down to press a soft, lingering kiss against her lips. "I think the Coltons are going to be very busy."
+

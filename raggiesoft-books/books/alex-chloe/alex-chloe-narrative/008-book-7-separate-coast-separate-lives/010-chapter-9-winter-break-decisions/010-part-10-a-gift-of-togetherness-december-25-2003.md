@@ -1,0 +1,28 @@
+# Part 10: A Gift of Togetherness (December 25, 2003)
+
+The emotional high from the parents' incredibly thoughtful "Adventure Package" still lingered in the Millers' living room, a warm and happy glow amidst the festive chaos of wrapping paper. After a round of grateful hugs, Chloé looked at Alex and smiled.
+
+"Okay," she said. "Now it's our turn."
+
+She and Alex had pooled their modest savings to get gifts for everyone. They handed out the neatly wrapped packages. The first ones went to their four parents: elegant silver picture frames, each holding the same candid photograph of Alex and Chloé from the Réveillon, laughing together at the cookie-decorating table.
+
+Next came the gifts for the Canadian contingent, all chosen to be easily packable. For Mathieu and Isabelle, t-shirts from a popular Virginia Beach surf shop. For Geneviève and David, a handsome coffee table book. And for Mémère Madeleine, a luxurious, cream-colored pashmina shawl.
+
+Finally, Chloé handed a small, carefully wrapped gift to Megan. Inside was a simple frame, but the photo was different. It was a picture taken during the VDU open house weekend, a selfie Megan had snapped of the three of them—Alex, Chloé on the video call screen, and Megan herself, all grinning. "For the three musketeers," Chloé said softly.
+
+Megan's eyes welled up as she hugged them both. "I love it. Thank you." She then reached under the tree for a gift of her own, one addressed simply to "Alex."
+
+"This is from me, cuz," she said, her voice full of a quiet, serious love. "It's not very exciting, but I think it's important."
+
+Alex unwrapped the gift. Inside were two items. The first was a heavy, brick-like object: a state-of-the-art external battery pack, one of the first high-capacity models on the market, with a custom-made adapter to fit his "Quantum Communicator XT." The second was a small, simple, and incredibly durable Runic 515 cell phone, with its own pre-paid service plan.
+
+A profound, shuddering understanding passed through Alex. He looked up at Megan, his eyes wide.
+
+"The big one," Megan explained, pointing to the battery pack, "is so you never, ever have to be chained to a wall again. So your voice never runs out of power in the middle of a class... or anywhere else." Her gaze was intense. "And the little one," she continued, tapping the rugged cell phone, "is your lifeline. It's on its own plan, completely separate from anything else. It lives in your backpack, fully charged, at all times. It's the phone you use if you ever, for any reason, feel unsafe and can't use your main device. It's the phone you use to call for help. To call me. To call Chloé. To call your parents. It's your escape hatch, in your pocket."
+
+The thoughtfulness, the sheer, profound understanding of his deepest fears, was overwhelming. This wasn't just a gift of technology; it was the gift of security. It was a promise that he would never be powerless and incommunicado again.
+
+He didn't need his device for this. He just reached out and pulled his cousin into a long, fierce, and deeply grateful hug.
+
+They sat back down together amidst the happy sounds of their family. They looked around the room at their entire, sprawling, cross-border family, all together, all safe. The trauma of the past few months felt, for the first time, like a distant storm that had finally, truly passed, leaving behind the clear, bright, and hopeful morning of a new beginning.
+

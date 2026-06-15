@@ -1,0 +1,47 @@
+# Part 9: The Welcome Home
+
+The slow, stop-and-go crawl of the express bus finally gave way to the open roads of Lynnwood. The three of them—Alex, Chloé, and Megan—walked the final few blocks from the transit center to their new apartment, a comfortable, happy exhaustion having settled deep in their bones. The day had been a perfect first adventure.
+
+As Chloé unlocked the front door, the first thing that hit them wasn't the smell of fresh paint, but the rich, comforting aroma of a home-cooked meal.
+
+They stepped inside and stopped dead in their tracks, their jaws collectively dropping in stunned, disbelieving awe. The chaotic maze of cardboard boxes from that morning was gone. The living room was set up, their sofa perfectly arranged, the television connected. The kitchen was a miracle of organization—dishes were in the cupboards, silverware was in the drawers. Their shared office had all three desks assembled and in place.
+
+James Miller and Sophie Mason were sitting at their new kitchen table, sipping glasses of wine, beaming at them with looks of pure, unadulterated pride.
+
+"Welcome home, kids," James said, his voice full of a quiet, satisfied joy.
+
+"We, uh... you..." Chloé stammered, completely overwhelmed. "How did you do all this?"
+
+"While you three were off being tourists," Sophie explained, her eyes twinkling, "we decided to be magicians. We unpacked. And," she gestured to the stove, "we made dinner."
+
+A wave of profound, tearful gratitude washed over the three of them. After five long days on the road and a full day of exploring, this was the greatest gift they could have ever received.
+
+They all sat down to their first official meal in their new home, a simple but delicious roast chicken that Sophie had prepared. As they were eating, James set up a laptop on the table. A moment later, the smiling faces of Emily and Thomas appeared on the screen via a video call from Virginia.
+
+"We see you made it!" Emily's voice chirped from the speakers, full of relief and happiness. "And it looks like you've already unpacked everything!"
+
+The two halves of their family, separated by three thousand miles, spent the next hour sharing a meal together through the magic of a video screen. They recounted the final leg of the journey, the beauty of the mountains, and the chaos of the Seattle traffic.
+
+After the call ended and James and Sophie had left for their hotel, the three of them stood in the middle of their living room. It was no longer an empty apartment. It was a home, filled with their things, imbued with the love of their incredible family.
+
+The great road west had come to an end. Their new life had truly begun.
+
+Part 10: The First Night
+
+After the video call with the "home guard" in Virginia ended and James and Sophie had left for their hotel, a profound, bone-deep exhaustion settled over the three occupants of the new Lynnwood apartment. The adrenaline of the cross-country drive, the excitement of their first day as tourists, and the simple, biological reality of a three-hour time difference all hit them at once.
+
+They were tired. Utterly and completely.
+
+Without much conversation, they began their familiar, practiced bedtime routine. Megan and Chloé worked as a seamless team, helping Alex with his evening toileting and bathing needs in the new, spacious, and wonderfully accessible bathroom. Their movements were a quiet, efficient ballet of care, a testament to the deep, platonic trust they had built over the past two years.
+
+A little while later, all three of them were in their pajamas, ready for the first night of sleep in their new home. They stood for a moment in the master bedroom, looking at the brand-new, inviting king-sized bed.
+
+Alex, feeling the full weight of the journey, was the first to move, transferring from his wheelchair onto the bed and settling into his customary spot in the middle. Chloé climbed in on one side, and Megan climbed in on the other.
+
+It wasn't a temporary arrangement for a hotel or a special circumstance anymore. This was their home. This was their nest.
+
+Alex was in the middle, the place of ultimate safety. Chloé immediately curled up beside him, her arm resting protectively around him. Megan, on his other side, mirrored the gesture, her own presence a solid, grounding weight. He was completely and utterly flanked, wrapped in a cocoon of safety and security provided by the two most important people in his entire world.
+
+The long road west was over. Their new life had begun. And in the quiet darkness of their very first night in their very own home, surrounded by love, Alex Miller slept more soundly and more peacefully than he had in years.
+
+

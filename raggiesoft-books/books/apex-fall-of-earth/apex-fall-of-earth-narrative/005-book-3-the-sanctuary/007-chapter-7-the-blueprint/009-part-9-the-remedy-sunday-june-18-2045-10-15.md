@@ -1,0 +1,76 @@
+# Part 9: The Remedy – Sunday, June 18, 2045 – 10:15
+
+The silver runabout shot through the camouflaged holographic rock face and slammed down onto the polished stone floor of the primary hangar.
+
+Wyatt didn't even wait for the repulsorlifts to fully cycle down. He popped the gull-wing door, unbuckled Sarah's harness, and scooped her effortlessly out of the co-pilot's seat.
+
+Sarah's head lolled against his chest, her skin pale and clammy to the touch. The violent, relentless purging in the valley had completely drained her reserves, leaving her dangerously dehydrated and shivering despite the warmth of the day.
+
+Wyatt sprinted through the docking umbilical and down the wide estate corridors, his heavy boots pounding a frantic rhythm against the stone until he reached the pneumatic elevator.
+
+"Sub-Level 1," Wyatt commanded, his breath coming in sharp, controlled exhales. "Medical wing."
+
+The doors hissed shut, dropping them instantly.
+
+As they stepped out into the sterile, brilliantly lit facility, Wyatt carried her straight to the primary examination room and gently laid her down on the plush, memory-foam surface of the diagnostic bio-bed. It instantly adjusted to her form, the fabric warming to combat her shivering.
+
+Wyatt looked up at the ceiling array, his S.H.O.P. Marine focus locking into absolute, uncompromising clarity.
+
+"Aria," Wyatt barked out, stepping up to the sleek medical console. "Listen to me closely. I know your core safety guidelines by heart. I am not asking you for an official medical diagnosis, and I am not asking you to prescribe a treatment."
+
+"Understood, Wyatt. My diagnostic capabilities remain passive," Aria responded smoothly, the blue ring on the console pulsing in standby mode.
+
+"Good. Because I am the acting physician on this planet," Wyatt stated, his hands gripping the edge of the bio-bed. "But as the physician, I am asking my automated assistant to point me toward the exact sterilized compartment that contains an intravenous hydration kit, and a synthesized antiemetic that is generally considered safe for human females experiencing severe hyperemesis gravidarum."
+
+There was a microsecond of processing silence. Aria's programming flawlessly accepted the administrative workaround.
+
+"Acknowledged, Doctor Colton," Aria chimed, a faint hint of digital respect in her tone. "Illuminating Storage Bay 4. It contains pre-synthesized, medical-grade lactated Ringer's solution to rapidly restore electrolyte balance, alongside a safe, highly effective anti-nausea compound."
+
+A sleek glass drawer on the far wall illuminated with a soft white glow.
+
+Wyatt immediately crossed the room, pulling out the sealed IV bags, sterile tubing, and a pre-loaded hypodermic port. He had spent years patching up injured contractors on deep-sea rigs before Apex; finding a vein was second nature to him.
+
+He returned to the bio-bed, swiftly securing a tourniquet around Sarah's upper arm.
+
+"Little pinch, sweetheart," Wyatt murmured softly, swabbing the inside of her elbow with a sterile wipe.
+
+Sarah let out a faint, exhausted hum of acknowledgment, her eyes remaining closed.
+
+Wyatt slid the needle in with practiced precision, taped it securely to her skin, and hooked the line to the automated IV stand hovering beside the bed.
+
+Within seconds, the cool, life-saving fluids and the anti-nausea medication began to flow directly into her bloodstream.
+
+Wyatt pulled up a rolling stool, sitting right beside her pillow. He grabbed a cool, damp cloth from a nearby sanitization tray and began gently wiping the sweat and river dust from her forehead.
+
+Slowly, the color began to return to her cheeks. The rigid, agonizing tension in her abdomen relaxed as the antiemetic took the edge off her violently spinning equilibrium.
+
+Sarah let out a long, shuddering sigh. She finally opened her dark eyes, looking at the clear fluid dripping through the chamber of the IV line, and then over at Wyatt.
+
+"I'm sorry," Sarah whispered, her voice incredibly weak and raspy. "We were supposed to celebrate our one-month anniversary... and I didn't even make it ten minutes."
+
+"Hey," Wyatt hushed her immediately, his thumb gently stroking her cheek. "Do not apologize. You have absolutely nothing to be sorry for."
+
+"I just feel so broken," Sarah admitted, a frustrated tear slipping down her cheek. "I couldn't even walk back up the hill."
+
+"Sarah, look at me," Wyatt said, his voice dropping into a low, fiercely earnest rumble. He leaned forward, holding her gaze so she couldn't look away. "Your body isn't broken. It's working overtime. You aren't just carrying a baby. You're carrying three."
+
+Sarah’s hand slowly moved to rest over her pronounced bump, the undeniable reality of the triplet gestation settling over her.
+
+"Building three human lives from scratch requires a massive amount of biological energy," Wyatt continued softly, pressing a kiss to her knuckles. "Your hormones are redlining right now. You are doing the hardest job on this entire planet, and it is perfectly okay if it knocks you off your feet."
+
+"I just wanted to see our garden," she murmured, leaning her head into his touch.
+
+"The garden can wait," Wyatt told her, his tone leaving no room for debate. "The estate can wait. The Fab-Foundry can wait. As of right now, you are officially on mandatory bed rest."
+
+Sarah managed a weak, protesting smile. "Wyatt, I can't just lay in bed for the next six months."
+
+"You can, and you will, for as long as your body tells you to," Wyatt corrected her, his protective instincts forming an absolute, unyielding wall around her. "You have three tiny lives relying on you right now, Sarah. They need you to rest. Which means I am doing all the heavy lifting, all the cooking, and all the cleaning. Your only job is to lay there and let them grow."
+
+Sarah looked at his broad, scarred shoulders, and the deep, unwavering devotion in his eyes. He wasn't just humoring her; he was entirely prepared to carry the weight of their entire world so she could carry their children.
+
+The lingering nausea faded a little more, replaced by a profound, overwhelming sense of safety.
+
+"Okay," Sarah breathed, letting her eyes drift shut as the IV fluids completely stabilized her. "Bed rest."
+
+"Good," Wyatt smiled, leaning over to kiss her forehead. "Just sleep, Sarah. I'm right here."
+

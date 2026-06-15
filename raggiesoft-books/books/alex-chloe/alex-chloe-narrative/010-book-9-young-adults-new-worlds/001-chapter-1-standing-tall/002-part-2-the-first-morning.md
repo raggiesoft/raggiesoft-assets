@@ -1,0 +1,38 @@
+# Part 2: The First Morning
+
+The morning after Delivery Day, Alex woke before the alarm, his mind buzzing with new possibilities. He looked around their small apartment, a space he had only ever been able to navigate, not truly interact with. He decided to do something he had never been able to do in his entire life: make a warm drink for his two favorite women.
+
+He quietly transferred into his new chair. As he drove into the kitchen, he saw Megan already sitting at the kitchen table, her laptop open, the soft glow of the screen illuminating her face. She looked up, a warm, conspiratorial smile on her face. "And where do you think you're going, Mister?" she whispered playfully. "Big plans this morning?"
+
+He smiled back and typed on his Quantum Note. MAKING HOT CHOCOLATE. A SURPRISE. FOR CHLOÉ.
+
+Megan's smile widened. "I'm in," she whispered back. "I'll be your silent partner in crime, just in case something goes wrong."
+
+He engaged the elevating seat function to get to a comfortable counter height. Then, with a deep, anticipatory breath, he engaged the standing function. For the first time, he opened the top cupboard himself. He took down three mugs—his blue one, Chloé's green one, and Megan's yellow one.
+
+He navigated to the refrigerator, opened it from a standing position, and took out the carton of milk. At the counter, Megan came to stand beside him. She knew the story of Vera's fabricated lactose intolerance, and she knew the simple act of Alex using milk was a quiet declaration of freedom. She also knew that his hands, due to his Cerebral Palsy, could be shaky.
+
+"You're the head chef," she said softly, "I'm just the steady hands."
+
+Alex held the measuring cup, and Megan gently placed her hands over his, providing a firm, steadying support so that not a single drop was spilled as he poured the milk. He was in charge, but she was his rock. He measured out the cocoa and turned on the stove, the entire process slow, deliberate, and for him, utterly revolutionary.
+
+When Chloé finally woke to the rich, sweet aroma of chocolate, she walked into the kitchen to find an impossible, beautiful scene. Alex was standing at the counter, a proud, triumphant smile on his face, carefully pouring three steaming mugs of rich, creamy hot chocolate, with Megan standing by like a proud co-conspirator.
+
+"Oh, Alex," Chloé whispered, her voice thick with emotion. She took the green mug he offered her, their fingers brushing. The three of them stood there for a long moment, just sipping the rich, sweet drink in a comfortable, shared silence. It was a beautiful Saturday morning, and they had the whole day ahead of them.
+
+Chloé took another sip, her eyes never leaving Alex's face. "So," she began softly, "how are you feeling? Your first morning with the new chair."
+
+Alex's smile widened. He gestured for them to follow him to the kitchen table. He sat, the chair smoothly lowering him to a perfect height, and typed on his new Quantum Communicator Pro V.
+
+TALL, the device voiced, a note of simple wonder in its more natural tone. I FEEL TALL. AND... CAPABLE. He paused, then added, IT WAS GOOD. MAKING THE HOT CHOCOLATE. I FELT... USEFUL.
+
+The word "useful" hung in the air, so full of a quiet, profound longing that it made both Chloé's and Megan's hearts ache. Chloé reached across the table and took his hand. "You've always been useful, Alex. You're the smartest person I know."
+
+"But this is different," she added, her voice full of a bright, new excitement. "This is a whole new thing for us." Her eyes lit up with an idea. "Are you hungry? Do you want to... I don't know... help me make some pancakes? For real this time? As a team?"
+
+A look of pure, unadulterated joy spread across Alex's face. YES.
+
+For the next half-hour, their small kitchen was filled with the sounds and smells of their first true culinary collaboration. Chloé mixed the batter, and Alex, standing at his accessible counter section with Megan providing a steady hand when needed, was in charge of the electric griddle. He carefully poured the batter, and for the very first time in his life, he flipped a pancake.
+
+They ate at their small kitchen table, the stacks of slightly misshapen but delicious pancakes a testament to their morning's adventure. It was more than just breakfast. It was a new frontier. It was the first of a thousand small, wonderful, everyday moments of partnership that his new freedom had just unlocked. It was the first meal they had ever truly made together.
+

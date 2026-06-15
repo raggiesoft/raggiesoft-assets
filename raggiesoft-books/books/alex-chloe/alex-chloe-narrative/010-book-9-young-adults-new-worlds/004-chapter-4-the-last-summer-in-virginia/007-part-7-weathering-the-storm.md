@@ -1,0 +1,34 @@
+# Part 7: Weathering the Storm
+
+They went through the routine of changing. Alex, with his newfound confidence, handled the men's locker room by himself, retrieving his main AAC device from his locker. He met Chloé and Megan in the hallway, and they helped him quickly towel-dry his hair as another flash of lightning lit the windows. They then headed down the massive concrete ramp to the first floor.
+
+The Adult Lounge at Fairlawn was quiet, almost reverent, a stark contrast to the boisterous energy of the Youth Lounge. A few older men were playing a serious game of chess. The three of them found a small table in the corner and settled in to wait out the storm. Alex looked from Chloé to Megan, a deep, contented happiness on his face. He was just so happy to be here, with his two favorite women, about to start the biggest adventure of their lives.
+
+Outside, the sky was a bruised, angry purple. Every few minutes, a fresh crack of thunder would rattle the windows, resetting the thirty-minute countdown for the pool closure. After nearly an hour, a brief lull settled over the building. Chloé looked at the weather radar on her phone.
+
+"It looks like we've got a break," she said, "but the map is showing another, even bigger band of storms coming. Round two is on its way." She looked at Alex and Megan, her expression decisive. "I think we should make a run for it. I don't want to get caught here if it gets really bad again."
+
+They all agreed. They said their goodbyes and headed out into the damp, charged air. The drive back to Lisa Court was tense, the sky a dark, ominous grey. They pulled into the Masons' driveway just as the first fat drops of the next squall line began to fall.
+
+By the time they were safely inside, the heavens opened. Round three of the storm arrived with a terrifying, apocalyptic fury. The wind howled, whipping the trees into a frenzy. Rain came down in blinding, horizontal sheets, and the sky was lit by an almost constant, strobing display of lightning.
+
+Inside the Mason house, however, all was calm and bright. Sophie had prepared a massive farewell feast, and the Millers and Megan were already there. The "family of seven" gathered around the dining table for the last time, the raging storm outside a dramatic backdrop to their warm, loving farewell. The conversation was full of happy memories, tearful expressions of love, and excited plans for their parents' first visit to Seattle.
+
+By the end of the evening, after the storm had finally rumbled its way out to sea, Alex, Chloé, and Megan crossed the familiar patch of grass to the Miller house one last time. For their final night in Virginia, they chose to sleep in Alex's childhood bedroom, a room full of the ghosts of their shared history.
+
+The moving truck was packed. The apartment was empty. Their new life was waiting for them at the end of a three-thousand-mile road.
+
+They lay together in his familiar full-sized bed, the three of them a comfortable, familiar tangle of limbs. The air was cool and clean after the storm.
+
+ARE YOU SCARED? Alex's Quantum Note voiced from the nightstand, its simple, synthesized tone a quiet question in the dark.
+
+Chloé, nestled on one side of him, turned and wrapped her arm around him. "A little," she whispered, her voice full of a nervous, thrilling hope. "It's big. It's a whole new world out there." She paused, then squeezed his hand, her own fear completely overshadowed by a profound sense of peace. "But mostly, I'm just… happy. Happy that this time, we're going together. No horrible buses. Just us, and our van, and our team, with a real plan."
+
+Megan, on his other side, added her own quiet reassurance. "And with hotels with comfortable beds every night," she murmured, a sleepy, practical smile in her voice.
+
+Alex let out a soft, contented sigh, the last vestiges of his own fear melting away at their words. The little bit of fear they all felt was nothing compared to the overwhelming joy and security of knowing they were facing this adventure as a team, fully prepared and completely safe.
+
+The chapter closed on the three of them holding hands, ready for the dawn and the long, exciting, and wonderfully planned road to Washington.
+
+
+

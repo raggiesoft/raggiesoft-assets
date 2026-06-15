@@ -1,0 +1,24 @@
+# Part 5: The Lingering Aroma of Justice (Second Day of Freshman Year, Fall 1999)
+
+The second day of freshman year at Northwood High dawned with slightly less chaos than the first, though the hallways still buzzed with the energy of newly minted high schoolers. For Alex Miller and Chloé Mason, and for Luna and Leo Porter, the "unofficial orientation" from the upperclassmen and the very public takedown of Josh Riley by Mrs. DeMarco in the cafeteria for his "Penis Game" stunt were fresh, vivid memories. The legend of cafeteria justice was already proving potent.
+
+As Chloé and Alex were navigating the crowded corridor between first and second period, heading towards their shared accessible locker, Mark, the lanky upperclassman who had delivered much of the previous day's "real orientation," passed by with his friends, Sarah and Ben. Mark was in mid-sentence, complaining about an upcoming history test, when he suddenly stopped, his nose wrinkling in obvious distaste.
+
+"Whoa, dude, what is that smell?" he muttered, looking around for the source of the offensive odor. His gaze then fell upon a dejected-looking Josh Riley, who was trying to make himself invisible as he shuffled past, clutching his books, heading in the opposite direction. Even from several feet away, a faint but unmistakable aroma of… well, dumpster, with distinct undertones of stale mystery meat and something vaguely, unpleasantly organic, clung to Josh like a second, very unwelcome skin.
+
+Mark stared at Josh for a moment, a slow, knowing grin spreading across his face. He remembered his own group’s warnings to the freshmen about Mrs. DeMarco and the dire consequences of lunchtime transgressions.
+
+He leaned towards his friends, snickering, but pitched his voice loud enough for Josh (and the nearby freshmen, including Alex, Chloé, Luna, and Leo, who had paused to let the Riley-scented cloud pass) to hear clearly.
+
+"Well, well, well," Mark drawled, his eyes glinting with amusement as he watched Josh hurry away, reeking. "Looks like someone got a firsthand lesson in advanced sanitation studies on the very first day. Mrs. DeMarco issued trash duty on day one, eh, Riley? Told ya newbies she doesn't mess around." He shook his head, still grinning. "Guess you didn't believe us about 'The Penis Game' being a bad idea. Some people gotta learn the hard way… and smell like it for a week."
+
+Sarah and Ben chuckled, also clearly recognizing the tell-tale fragrance of Mrs. DeMarco’s particular brand of justice. "Dude, he really stinks," Ben added, waving a hand in front of his nose after Josh had passed. "Twenty showers won't get that out anytime soon."
+
+Josh Riley, if he heard them, didn't react beyond his shoulders hunching further and his pace quickening, the cloud of unfortunate odor trailing behind him like a badge of shame and a potent olfactory warning to all other freshmen.
+
+Chloé caught Alex’s eye, and they shared a small, almost imperceptible smile of grim satisfaction. Luna and Leo, who were also nearby heading to their next class, exchanged a similar look. The upperclassmen hadn't been exaggerating. Mrs. DeMarco’s justice was not only swift but also, apparently, very, very fragrant and publicly noticeable.
+
+The unspoken rules of Northwood High were becoming clearer by the hour: Rule Number One, Subsection A: The punishment for crossing Mrs. DeMarco often involved a lingering, personal reminder of your transgression that could not be easily ignored, by you or anyone within a ten-foot radius.
+
+The legend continued to grow, now with its own signature scent.
+

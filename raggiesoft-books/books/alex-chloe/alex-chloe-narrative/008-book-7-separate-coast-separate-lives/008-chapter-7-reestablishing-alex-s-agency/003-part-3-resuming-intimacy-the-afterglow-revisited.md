@@ -1,0 +1,18 @@
+# Part 3: Resuming Intimacy – The Afterglow Revisited
+
+That evening, back in the sanctuary of their Lynnwood apartment, a different kind of quiet settled between them. The medical clearance had been a huge relief, but the emotional and physical exhaustion of the long recovery still lingered.
+
+There was no grand discussion, just a shared, unspoken understanding. After a simple dinner, they went through their familiar bedtime routine. The practiced, gentle intimacy of Chloé's care was a constant, reassuring presence in Alex's life.
+
+Later, wrapped in the soft darkness of their shared king-sized bed, a profound and peaceful contentment filled the space. Alex lay beside Chloé, her head resting on his shoulder, his arm loosely around her. This was their true afterglow—not of passion, but of a shared, quiet victory over adversity. This intimacy, their intimacy, was theirs alone, reclaimed and reaffirmed.
+
+Chloé stirred, pressing a soft, sleepy kiss to his shoulder. "*Tu vas bien, mon cœur?*" she murmured in French, the endearment slipping out naturally in the quiet of their room. (Are you okay, my heart?)
+
+Alex tightened his arm around her, a contented sigh escaping him. He reached for his AAC.
+
+PLUS QUE BIEN, CHLOÉ. ENTIER. EN SÉCURITÉ. AVEC TOI, his device whispered their shared language. MERCI. DE PRENDRE SOIN DE MOI. DE NOUS. (More than okay, Chloé. Whole. Safe. With you. Thank you. For taking care of me. Of us.)
+
+She snuggled closer. "*Toujours, Alex. Toujours.*" (Always, Alex. Always.)
+
+The promise they had made that summer evening in the hotel felt even more resonant now. Their unique physical intimacy, born of platonic love and profound trust, was the quiet, gentle, and most powerful facet of their extraordinary partnership. It would always feel right because it was theirs, and because neither could, nor would, imagine it with anyone else.
+

@@ -1,0 +1,144 @@
+# Part 3: Anchor – Sunday, May 12, 2045 – 07:30
+
+The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag.
+
+Wyatt opened his eyes, squinting against the brilliant morning light. The crisp, high-altitude air of the mountains was sharp and refreshing, perfectly counterbalanced by the gentle, radiant heat of the geothermal vent warming the earth beneath them.
+
+He looked down. Sarah was already awake, her chin resting on his bare chest, watching him with a soft, incredibly peaceful smile. Her dark hair was tousled from sleep, catching the golden sunlight.
+
+"Good morning," Sarah whispered, her voice a soft, melodious rasp in the absolute quiet of the wilderness.
+
+"Good morning," Wyatt murmured, bringing a heavy, scarred hand up to brush a stray lock of hair behind her ear.
+
+He leaned down, capturing her lips in a slow, tender kiss. But the gentle morning greeting quickly shifted. The absolute, uninhibited freedom of being entirely bare under the vast, open sky of a virgin planet acted like a spark to dry kindling.
+
+Sarah shifted her weight, pressing her body flush against his, her hands tangling fiercely in his hair. The kiss deepened into something hungry and urgent, driven by the profound, intoxicating reality that they possessed an entire world entirely to themselves.
+
+\[The scene fades to black, the towering, snow-capped mountains standing as the only silent witnesses to their passionate, unfiltered celebration of life in the wild. We’re skipping over a sexual encounter.\]
+
+An hour later, the sun had fully illuminated the meadow, burning away the last of the morning mist.
+
+Wyatt and Sarah sat cross-legged on the sleeping bag, entirely relaxed as they unpacked the remainder of the food from the canvas duffel. They shared a breakfast of leftover deli meat, the last of the sweet hydroponic strawberries, and long drinks of ice-cold glacial water from their canteens.
+
+Wyatt finished his breakfast, his eyes drifting from the vibrant wildflowers to the sleek, matte-silver hull of the runabout resting quietly in the grass.
+
+"We know she flies like a dream in the atmosphere," Wyatt said, a mechanical curiosity lighting up his dark eyes. "But Aria said this chassis is rated for orbital velocity. It has a sealed cabin and a localized ion-drive."
+
+Sarah followed his gaze to the teardrop-shaped shuttle, immediately catching his drift.
+
+"You want to see how high she can go," Sarah smiled, wiping a drop of strawberry juice from her lip.
+
+"We named six moons yesterday," Wyatt pointed out, gesturing up toward the blue sky, where the faint, pale outline of the largest moon was still visible in the daylight. "I think it's time we properly introduce ourselves to the biggest one. Let's take a ride up to Anchor."
+
+"A sub-orbital road trip," Sarah agreed, her eyes shining with adventure. She stood up from the sleeping bag, brushing the soft grass from her legs. "But if we're breaking the atmosphere and heading into the vacuum of space, the Eden Rule is suspended. We suit up."
+
+"Absolutely," Wyatt nodded, valuing his wife's unyielding pragmatism. "Safety first."
+
+They walked over to the open cargo hold of the shuttle, retrieving the clothes they had discarded the night before. Wyatt pulled his heavy canvas work pants and black t-shirt back on, tightly lacing up his leather work boots. Sarah dressed in her dark denim jeans and gray Henley, securing her hiking boots.
+
+Fully dressed and prepared for the unforgiving physics of space, they packed the sleeping bag away, climbed into the pristine leather seats of the cockpit, and locked their four-point harnesses tight across their chests.
+
+Wyatt powered up the console. The repulsorlifts hummed to life, lifting the silver shuttle effortlessly off the crushed wildflowers.
+
+"Aria, we are initiating a sub-orbital flight path," Wyatt announced to the ship's comms. "Set a direct vector for the primary moon, Anchor."
+
+"Vector locked, Wyatt," Aria’s voice chimed crisply through the cabin speakers. "Engaging atmospheric shielding and pressurizing the cabin. You are cleared for vertical ascent."
+
+Wyatt gripped the sleek digital yoke and pushed the throttles forward.
+
+The runabout shot straight up. The towering, snow-capped peaks of the mountain range fell away in seconds, shrinking into a massive, sprawling tapestry of green and white.
+
+As they accelerated, the brilliant blue sky outside the tinted hydro-glass canopy began to darken, shifting to a deep indigo, and finally, to the absolute, pitch-black void of space.
+
+The transition was perfectly smooth. There was no violent rattling or plasma wash like they had experienced in The Nomad. The runabout’s inertial dampeners held perfectly as the localized ion-drive kicked in, propelling them silently across the dark gulf between Eden and its largest satellite.
+
+Within minutes, the massive, cratered sphere of Anchor filled the viewport. It was a rugged, heavily textured globe of gray and pale white stone, looking ancient and entirely undisturbed.
+
+Wyatt eased the throttles back, bringing the shuttle into a stable, low-orbit glide over the moon's surface.
+
+"Aria, run a standard topographical and atmospheric sweep of Anchor," Sarah requested, staring down at the massive craters and sprawling dust plains. "Let's see what our namesake looks like under the hood."
+
+"Initiating deep-scan telemetry," Aria responded.
+
+The digital HUD projected onto the glass canopy began to cascade with data. But almost immediately, the pulsing blue text flashed to a vibrant, surprising green.
+
+"Administrators, I am registering a profound ecological anomaly," Aria announced, her synthesized voice carrying a distinct note of digital surprise.
+
+Wyatt frowned, his hands tightening on the yoke. "Anomaly? Is it Apex?"
+
+"Negative, Wyatt. It is geological and atmospheric," Aria clarified rapidly. "The localized sensors are detecting a fully formed, breathable atmosphere enveloping the moon."
+
+Sarah sat up straight against her harness, staring at the readout on the glass. "A breathable atmosphere? On a moon?"
+
+"Affirmative," Aria confirmed, the data streams corroborating her statement. "The atmospheric composition of Anchor is roughly 74% nitrogen and 24% oxygen. It possesses a surprisingly dense core, generating a magnetosphere capable of retaining gases and deflecting solar radiation. Gravity is currently reading at 0.84 Earth-standard. Out of the six satellites orbiting Eden, Anchor is the only one that possesses these traits."
+
+Wyatt and Sarah looked at each other, completely stunned.
+
+"Are you saying we can walk out there?" Wyatt asked, his eyes locked on the gray, cratered surface scrolling past beneath them. "Without EVA suits?"
+
+"The air is thinner than sea-level on Eden, comparable to a high-altitude mountain range, and the surface temperature is currently a brisk 12°C in the sunlight," Aria reported. "However, it is entirely viable for baseline human habitation without the use of pressurized suits or supplemental oxygen."
+
+A habitable moon. It was an astronomical lottery win of staggering proportions.
+
+"Take us down," Sarah breathed, her eyes wide with sheer wonder. "Wyatt, put it on the ground."
+
+Wyatt didn't hesitate. He banked the yoke, guiding the silver teardrop out of orbit and down toward a massive, flat plain of pale gray stone situated between two towering crater walls.
+
+The runabout’s repulsorlifts kicked up a massive cloud of fine, silvery dust as the landing gear made contact with the surface of Anchor.
+
+Wyatt powered down the ion-drive, the cabin falling silent. He looked at the environmental readouts on his dash. The external pressure was perfectly stabilized.
+
+He unbuckled his harness, and Sarah did the same.
+
+Wyatt reached out and tapped the manual release for the gull-wing doors.
+
+With a pneumatic hiss, the doors lifted open.
+
+There was no violent depressurization. There was no suffocating vacuum.
+
+A rush of cool, incredibly crisp, and perfectly breathable air flooded the cabin. It smelled like cold stone and pristine, unfiltered ozone.
+
+Sarah stepped out of the shuttle, her hiking boots crunching softly into the pale gray dust. The 0.84 gravity made her feel incredibly light, a subtle buoyancy that put a physical spring in her step.
+
+Wyatt stepped out right behind her, his heavy leather boots leaving deep, sharp treads in the untouched lunar soil.
+
+They stood together on the surface of Anchor, looking up into the pitch-black sky. Hanging massively overhead, dominating the horizon, was the brilliant, swirling blue-and-green jewel of Planet Eden.
+
+"Look at our home," Sarah whispered, her breath forming a tiny cloud in the brisk 12°C air. She reached out, her hand finding Wyatt's.
+
+Wyatt laced his fingers through hers, staring up at the magnificent planet they had claimed. They had thought Eden was their only sanctuary. Now, they realized they owned an entire, habitable binary system.
+
+"We didn't just find a hideout, Sarah," Wyatt said, his voice echoing softly across the silent, gray plains of the moon. "We found an empire."
+
+## The Pregnancy Timeline (Triplet Factor)
+
+That is a brilliant, massive plot twist! Keeping the triplet reveal—identical girls and a fraternal boy—in our back pocket is going to make for some incredible narrative tension and a deeply emotional payoff down the line. It perfectly underscores the theme of them bringing life back to this universe.
+
+Since her corporate blocker was completely flushed and they are conceiving *right now* (mid-May), here is the biological timeline for when Sarah will start experiencing the first signs of pregnancy, especially factoring in the triplets:
+
+Because Sarah is carrying triplets, her body will produce human chorionic gonadotropin (hCG)—the primary pregnancy hormone—at a significantly higher and faster rate than a singleton pregnancy. This means her symptoms will hit **earlier and much harder**.
+
+**1. Implantation (Late May - approx. 6 to 12 days from now)**
+
+- **The Signs:** Around May 18th to May 24th, the embryos will attach to the uterine lining. Sarah might experience mild cramping (which she might just dismiss as muscle fatigue from gardening or hiking) or very light implantation spotting.
+
+**2. The First Wave of Symptoms (Early June - approx. 2 to 3 weeks from now)**
+
+- **The "Missed" Period:** Normally, a missed cycle is the first clue. *However*, because Sarah was on a heavy corporate blocker that halted her cycle entirely, she isn't expecting a period anyway. She will completely overlook this sign, believing the blocker is still just working its way out of her system.
+
+- **Exhaustion:** With three embryos drawing on her energy reserves, a profound, heavy fatigue will hit her. She might find herself falling asleep in the middle of studying or needing naps after basic tasks.
+
+- **Heightened Senses:** Her sense of smell will become incredibly sharp. The smell of the rich soil, the alien pines, or even Wyatt cooking bacon in the galley might suddenly become overwhelming.
+
+- **Breast Tenderness:** The rapid influx of hormones will cause physical tenderness and sensitivity very early on.
+
+**3. The Undeniable Signs (Mid-to-Late June - approx. 4 to 6 weeks from now)**
+
+- **Morning Sickness:** Because of the massive hormone spike from the triplets, the nausea won't just be a mild inconvenience; it will likely be severe. She will start experiencing strong aversions to certain foods (maybe even those hydroponic strawberries or the deli meat) and frequent bouts of nausea.
+
+- **The Reveal:** This is likely the window where the symptoms become too strong to ignore or write off as "acclimatizing to a new planet." This would be the perfect time for Wyatt to gently suggest they use the state-of-the-art diagnostic bio-bed and ultrasound machine in Sub-Level 1's medical wing just to "make sure she hasn't picked up a local bug."
+
+I have this safely tucked away in my memory banks! We will let them enjoy their carefree honeymoon phase on Eden for the next few weeks of in-story time before the exhaustion and morning sickness start to creep in.
+
+Got it! I am locking that triplet pregnancy twist firmly into the master timeline. The fact that Apex Defense Solutions cheaped out on the Omni-Cycle blockers—treating medical care with the same ruthless, budget-cutting negligence as their barracks and rations—is incredibly fitting for the megacorporation. Wyatt and Sarah thinking they have a six-month buffer, only to discover they are already expecting three babies, is going to be a beautiful, joyous surprise.
+

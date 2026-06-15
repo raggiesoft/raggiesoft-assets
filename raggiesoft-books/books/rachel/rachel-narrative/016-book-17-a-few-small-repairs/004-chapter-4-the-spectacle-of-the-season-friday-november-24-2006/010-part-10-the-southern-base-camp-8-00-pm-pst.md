@@ -1,0 +1,103 @@
+# Part 10: The Southern Base Camp – 8:00 PM (PST)
+
+The heavy, emotional exhaustion in the living room eventually gave way to the quiet, inevitable ticking of the clock.
+
+Outside the ground-floor windows of Chambers Creek Estates, the freezing Pacific Northwest night had completely taken over. The ambient noise of University Place was minimal, lacking the chaotic, siren-filled roar of downtown Seattle. Inside the apartment, the atmosphere was perfectly static and secure.
+
+But at eight o'clock, Jessica’s internal Quantum scheduling software booted up. She reached into her messenger bag, pulled out her sleek corporate smartphone, and tapped the screen to check the regional transit grid.
+
+"Alright, pack," Jessica announced, her voice dropping into its familiar, pragmatic register. "We’ve successfully executed the Black Friday offensive, but the transit math is shifting. If Michael and I are going to make it back to Renton tonight, we need to catch the Route 2 back up to Downtown Tacoma to intercept the northbound 594 before the evening schedule throttles down to hourly service."
+
+The words hit the room like a sudden drop in cabin pressure.
+
+Rachel, who was currently sitting on the floor leaning back against my legs, completely froze. Her dark eyes darted from the television screen up to Jessica.
+
+"Renton?" Rachel rasped, her voice instantly laced with a heavy, panicked resistance.
+
+"We have to," I said softly, resting my hand on her shoulder to keep her grounded. "My command center is up there. Our clothes are up there."
+
+Kristin sighed, running a hand through her blonde hair from her spot on the armchair. "I wish you guys could just stay. But Rachel and I both have to clock in tomorrow morning. It's the Saturday after Thanksgiving. Retail is going to be an absolute warzone. I have an opening shift at Franklin's Market, and Rachel has to be at The Spot by eight."  
+
+My analytical processor instantly ran the variables, and the geographical reality crushed my chest.
+
+If Rachel and Kristin had to be at work in Lakewood by 8:00 AM on a Saturday, they absolutely could not come back to Renton with us tonight. The weekend transit schedules for the TAPS express coaches were notoriously sparse. To get from King County all the way down to Pierce County in time for a morning retail shift would require them to be on a bus before the sun even came up.  
+
+It meant the pack had to separate.
+
+I looked down at Rachel. The sheer, overwhelming devastation on her face mirrored the exact, heavy ache forming in my own stomach. We had just survived the most emotionally taxing forty-eight hours of our lives. The idea of walking out that front door, boarding a northbound bus, and leaving my little sister behind felt like a physical amputation. My heart rate spiked, the familiar, buzzing static of separation anxiety flooding my processor.
+
+"I don't want to go back without you," I whispered, the words tumbling out of my mouth before my logical filters could stop them. My hand tightened on Rachel's shoulder. "I just got you back."
+
+Rachel squeezed her eyes shut, letting out a soft, distressed hum that vibrated against my knee. She reached up, locking both of her hands over mine, absolutely refusing to let go.
+
+Jessica watched the interaction. As a Senior Technical Program Manager, her entire job revolved around identifying systemic bottlenecks and engineering immediate, frictionless workarounds. She saw the emotional redline spiking between her siblings, and she instantly threw the original schedule in the trash.
+
+"Stop," Jessica commanded smoothly, slipping her phone back into her bag. "Cancel the transit route. The 594 is dead to us tonight. Nobody is getting on a bus."
+
+I looked up, my processor stalling. "But Jess... we live in Renton."
+
+"We sleep in Renton," Jessica corrected, a brilliant, highly calculated smirk spreading across her face. "But we are a mobile unit. We are staying right here."
+
+Rachel gasped, her eyes flying open.
+
+"But where are you guys going to sleep?" Kristin asked, her practical radar catching the immediate logistical flaw in the audible. "We don't have an air mattress, and if we pull the sofa out into a bed, it completely blocks the hallway to the bathroom."
+
+"I don't need the sofa bed pulled out," Jessica stated, dismissing the variable entirely. "I am perfectly fine sleeping on the sofa exactly as it is. I've slept in much worse configurations on corporate deployments. It's comfortable, and it keeps the perimeter locked."
+
+Rachel immediately scrambled up from the floor, her dark eyes locking onto mine.
+
+"I have a Queen bed," Rachel rasped, her voice vibrating with absolute, unfiltered relief. "When Kristin and I signed the lease, we specifically saved up for a Queen mattress for my room, just in case you or Jessica ever came to visit. You are sleeping with me."
+
+The relief that washed over me was so profound it almost buckled my knees. I didn't have to leave her. The Bug and her Bear were staying together.
+
+"Okay," I agreed, a massive smile breaking across my face. "But I don't have any pajamas."
+
+Rachel waved her hand, completely unbothered by the detail. "We're both exactly five-foot-seven. You can borrow my sleepwear. I have oversized, tagless shirts and soft lounge pants. They will fit you perfectly."
+
+With the sleeping arrangements finalized, Kristin stood up from the armchair to outline the morning exit strategy.
+
+"Alright, let's map out tomorrow," Kristin said, her tone shifting into a focused, logistical cadence. "My opening shift at Franklin's Market starts at six. Since the store is directly across Bridgeport Way, I don't need to catch a bus. I'm just going to walk across the street at 5:45 AM. I'll slip out quietly so I don't wake you guys."  
+
+"And then we move as a unit," Jessica added, pointing to Rachel. "When Rachel has to leave for her shift, Michael and I will exit the apartment with her. We will all ride the local bus together to the Lakewood Transit Center. We'll drop her off at The Spot, and then Michael and I will catch the 594 north back to King County."  
+
+The timeline was flawless. We wouldn't be separated until the absolute last possible second tomorrow morning.
+
+"Let's get ready for bed," Rachel urged, grabbing my hand and pulling me down the narrow hallway toward her bedroom.
+
+The space was exactly as I had seen it earlier—dimly lit, perfectly organized, and radiating absolute sensory safety. Rachel unzipped a drawer on her dresser and pulled out a pair of soft, worn-in cotton sleep pants and an oversized, dark blue t-shirt. She handed them to me.
+
+We didn't turn our backs. We didn't step into the bathroom or ask for privacy.
+
+The neurotypical rules of modesty had been completely eradicated by the trauma of our past. We stood face-to-face in the quiet bedroom, stripping off our heavy winter layers and pulling on our soft sleepwear. We maintained an absolute, unbroken visual tether the entire time. I needed to see that she was real, that she wasn't a phantom produced by my exhausted processor. She needed to verify that my chest was rising and falling, proving that her anchor hadn't vanished into the night. It was the ultimate, unfiltered vulnerability, and it proved our environment was entirely threat-free.
+
+Once we were changed, we walked back out into the living room to lock the perimeter for the night.
+
+Jessica was already situated on the sofa, a thick fleece blanket pulled up to her chin. I leaned down, wrapping my arms around her shoulders.
+
+"Goodnight, Michael," Jessica smiled warmly, pressing a quick, affectionate peck against my cheek. "Sleep well. You earned it."
+
+"Goodnight, Jess," I whispered back.
+
+I stood up and turned to my right. Kristin was standing near the hallway, waiting.
+
+I didn't hesitate. I stepped into her space, and she immediately wrapped her arms around my neck. It wasn't the heavy, utilitarian compression hold I used with my sisters. It was soft, intentional, and undeniably romantic. I wrapped my arms around her waist, pulling her flush against me, and leaned down.
+
+We shared a slow, lingering kiss in the quiet living room. My trauma-wired brain didn't throw a single error code. There was no panic, no ghost of Delores whispering in the back of my mind. There was only the warm, consensual reality of the woman holding me.
+
+"Sleep well, Michael," Kristin whispered softly against my lips, her blue eyes shining with quiet affection in the dim light.
+
+"You too," I murmured, giving her waist one last, gentle squeeze before she turned and disappeared into her own bedroom.
+
+I walked back down the hall and stepped into Rachel's room. She was already waiting for me, having pulled the heavy, weighted blanket back on the Queen-sized mattress.
+
+I climbed into the bed, and the geometry locked into place instantly. Rachel rolled onto her side, pressing herself completely flush against my ribs. She threw her arm securely across my chest and hooked her leg over mine. I wrapped both of my arms around her back, pulling her in tight.
+
+The deep, restrictive pressure of her weight against my side sent a massive wave of regulation straight through my central nervous system.
+
+"Goodnight, Bear," Rachel rasped softly, burying her face perfectly into the crook of my neck.
+
+"Goodnight, Bug," I whispered back, resting my chin on top of her dark hair.
+
+I closed my eyes, the heavy exhaustion of the day finally pulling me under. I was wearing my sister's clothes, sleeping in a different county than my command center, but as her steady heartbeat thumped against my chest, the math was completely perfect. The pack was safe.
+
+

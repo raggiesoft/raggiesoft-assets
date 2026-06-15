@@ -1,0 +1,22 @@
+# Part 10: Navigating the City (Summer 2006)
+
+The morning of their first planned day trip to Montréal, Chloé was in her element, a large paper tourist map spread across the bed in their Stanstead hotel room. Megan, looking over her shoulder, pointed to the colorful, spidery lines of the subway system.
+
+"Whoa, they have a Métro?" Megan asked, her voice full of a tourist's excitement. "That's so cool! Can we take it? It would be way easier than trying to find parking downtown."
+
+Chloé looked up from the map with a sympathetic sigh. "I wish, Meg. I did a ton of research. The problem isn't that the system is that old, it's how it was built back in the sixties. They didn't design any of the original stations with elevators. So, for us," she said, gesturing to include Alex, "it's not an option."
+
+OH, Alex's Quantum Communicator Pro V voiced, a note of disappointment in the tone. DRIVING IT IS, THEN.
+
+"Driving it is," Chloé confirmed with a determined smile. "It just means our first adventure of the day will be 'The Hunt for the Mythical Accessible Parking Space.'"
+
+An hour and a half later, after a pleasant drive into the city, that adventure was in full swing. Navigating the narrow, crowded streets of Old Montréal was a challenge, but after fifteen minutes of circling, Chloé’s sharp eyes spotted a designated accessible spot on a side street just a block from Rue Saint-Paul. It was a small victory, but a crucial one.
+
+They set off to explore the historic district. The new power wheelchair handled the bumpy cobblestones much better than Alex's old manual chair ever could have, but it was still a jostling ride. Chloé and Megan instinctively flanked him, acting as a protective buffer against the bustling tourist crowds, their presence a quiet, steady shield.
+
+For Megan, the city was a revelation. "This is incredible," she breathed, looking up at the centuries-old stone buildings. "It feels like we're in Europe."
+
+Their main destination was the magnificent, twin-towered facade of the Basilique Sainte-Anne-de-Montréal. Chloé found the designated accessible entrance, and they moved from the bright, noisy square into the cool, hushed interior.
+
+They were immediately enveloped by a world of breathtaking beauty. The cavernous nave was bathed in a deep, ethereal blue light, reflecting off a ceiling dotted with countless golden stars. The logistical challenges of the city fell away, replaced by the shared, silent awe they felt looking up at the majestic altar. It was a powerful callback to their first visit here as teenagers, a quiet affirmation that while much in their lives had changed, the beauty of this place—and their shared appreciation for it—remained a constant.
+

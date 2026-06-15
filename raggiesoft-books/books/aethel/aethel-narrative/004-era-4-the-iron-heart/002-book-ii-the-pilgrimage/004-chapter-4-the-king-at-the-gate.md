@@ -1,0 +1,222 @@
+# Chapter 4: The King at the Gate
+
+## Part 1: The Tax Collector with an Army
+
+Theme: sunstead-war
+
+Location: The Main Gate
+
+POV: Kaela
+
+=
+
+The Council of Neighbors had been in power for exactly three weeks when the first war arrived.
+
+It didn't come with a declaration. It came with a cloud of dust on the southern horizon that resolved into two thousand soldiers wearing the gold-and-black livery of the Southeastern Lowlands.
+
+Kaela stood on the ridge, looking down at the spectacle.
+
+"King Roderick," she identified, her eyes narrowing. "Of the Gilded Plains. He’s a expansionist. He thinks land is something you collect like coins."
+
+"He's blocking the trade road," Kaelan noted, wiping garden dirt from his hands. "The Miller won't be able to get his flour out."
+
+Down below, the army had deployed in a classic siege formation. Archers in the back, heavy infantry in the front, and a command tent made of silk that cost more than the entire town of Sunstead.
+
+A rider approached the gate—a herald with a trumpet.
+
+"Open the gate!" the herald screamed. "Make way for His Majesty, King Roderick the Conqueror! Prepare your tribute!"
+
+Horg stood on top of the gatehouse wall. He wasn't wearing a crown. He was wearing his leather apron and holding a sledgehammer.
+
+"We don't have tribute!" Horg shouted down. "And we don't have a King! Turn around, or you'll trip over the rocks!"
+
+"Insolence!" the herald sputtered. "Sunstead lies within the natural borders of the Gilded Kingdom! You are subjects!"
+
+"We are a sovereign collective!" the Miller shouted from beside Horg, checking a ledger. "And you are trespassing on agricultural land!"
+
+King Roderick rode forward on a white warhorse. He was a large man in gilded plate armor, arrogant and impatient.
+
+"Burn the gate," Roderick commanded his archers. "Teach these peasants their place."
+
+On the ridge, Kaelan sighed. It was a heavy, tired sound.
+
+"They're going to shoot fire arrows at the thatch," he said.
+
+"They're going to hurt Horg," Kaela added.
+
+Kaelan unlatched the garden gate.
+
+"I guess we're joining the Council meeting," he said.
+
+## Part 2: The Heat of the Argument
+
+Theme: sunstead-battle
+
+Location: The Battlefield (Outside the Gate)
+
+POV: Kaelan
+
+=
+
+The archers drew their bows. The tips of their arrows were wrapped in oil-soaked rags, lit by torches.
+
+"Loose!" the commander shouted.
+
+Five hundred flaming arrows arced into the sky, aiming for the dry thatched roofs of the town.
+
+They never landed.
+
+Kaelan walked out of the wicket gate. He didn't run. He walked. He wasn't wearing armor; he was wearing his gardening tunic and trousers.
+
+He looked up at the cloud of arrows.
+
+He snapped his fingers.
+
+FLASH.
+
+A pulse of intense, directed heat erupted from his hand, sweeping across the sky like a invisible broom.
+
+The arrows disintegrated. The wood vaporized. The iron tips melted into slag and rained down harmlessly into the dirt.
+
+The army froze.
+
+Kaelan walked forward, placing himself between the town gate and the two thousand soldiers. Kaela walked beside him, her hands empty, her face serene.
+
+"You dropped something," Kaelan called out to the King.
+
+King Roderick stared. "Who are you?"
+
+"I'm a resident," Kaelan said. "And you are blocking my view."
+
+"Kill him!" Roderick screamed, pointing his sword. "Cavalry! Charge!"
+
+The heavy cavalry—two hundred armored knights on massive destriers—thundered forward. The ground shook.
+
+"My turn," Kaela whispered.
+
+She didn't use heat. She used Mass.
+
+She waited until the horses were fifty yards away. Then, she clenched her fist.
+
+She increased the gravitational pull in a specific, rectangular strip of ground right under the charging horses.
+
+Suddenly, the soldiers weighed three times as much. The horses couldn't lift their legs. The charge collapsed instantly as two hundred horses stumbled, buckled, and sank into the dirt as if it were quicksand.
+
+Armor crunched. Men screamed as their own weight pinned them to the earth.
+
+"Gravity is a harsh mistress," Kaela noted dryly.
+
+The infantry behind them faltered. They looked at the two figures in cotton clothes who had just stopped an army without drawing a weapon.
+
+"Advance!" Roderick howled, his face purple. "They are sorcerers! Cut them down!"
+
+The infantry surged forward, spears lowered.
+
+Kaelan looked at Kaela. "Lethal?"
+
+"Only if they touch the wall," Kaela decided. "Right now? Disarmament."
+
+Kaelan nodded. He walked toward the shield wall.
+
+He extended his hands. He engaged the Induction.
+
+He focused on the metal. The iron spear tips. The steel swords. The chainmail shirts.
+
+He heated them.
+
+He didn't melt them—that would kill the men instantly. He just heated them to about 200 degrees Fahrenheit. The temperature of a hot teapot.
+
+A wave of panic rippled through the army as their weapons suddenly became too hot to hold.
+
+"Aagh!"
+
+Thousands of soldiers dropped their spears. They tore at their buckles, ripping off helmets and throwing down shields that were searing their skin.
+
+The formation broke. It became a chaotic dance of men stripping off their armor as fast as they could, leaving them standing in their under-tunics, defenseless.
+
+Kaelan kept walking. He walked right through the pile of discarded, smoking weapons. He walked up to King Roderick.
+
+The King’s horse was panicking. Roderick raised his gilded sword.
+
+"I am the King!" Roderick shouted, swinging the blade at Kaelan’s head.
+
+Kaelan caught the blade.
+
+He caught it with his bare hand.
+
+His grip tightened. The heat flared.
+
+The steel sword turned orange, then yellow, then white. It drooped like soft wax. Kaelan twisted his wrist, and the King’s weapon snapped, dripping molten steel onto the dirt.
+
+Kaelan looked up at the King on his horse. His eyes were burning gold.
+
+"We tried to tell you," Kaelan said, his voice overlapping with the harmonics of the sun. "Sunstead bows to no one."
+
+## Part 3: The Long Walk Home
+
+Theme: sunstead-victory
+
+Location: The Southern Road
+
+POV: Kaela
+
+=
+
+The battle—if it could be called that—lasted ten minutes.
+
+The "casualties" on Sunstead's side were zero.
+
+The casualties on Roderick’s side were high, but strange. No one had died from a sword wound. Hundreds had broken legs from the gravity crush. Hundreds more had second-degree burns on their hands from holding hot spears.
+
+And the King’s ego was dead on arrival.
+
+Kaelan grabbed the bridle of the King’s horse. He looked at the terrified monarch.
+
+"Go," Kaelan said.
+
+"But... my army..." Roderick stammered, looking at his soldiers, who were currently fleeing across the fields in their underwear.
+
+"Your army is resigning," Kaelan said. "Take your tent. Take your wounded. And tell the Southeast that if you come back, I won't just heat the swords next time."
+
+He leaned in close.
+
+"Next time, I heat the blood."
+
+Roderick turned his horse and fled. He rode hard, abandoning his silk tent, abandoning his dignity.
+
+On the walls of Sunstead, the town militia cheered. Horg was banging his hammer against the stone battlements in a rhythm of victory.
+
+Kaelan sighed and let the heat fade from his hands. He looked at the field of discarded armor and weapons.
+
+"That's a lot of scrap metal," he noted.
+
+"Horg will be pleased," Kaela said. "He needs new hinges for the bakery."
+
+They turned and walked back to the gate.
+
+The Council was waiting for them. The Miller looked pale. Mrs. Gable looked proud. Horg looked like he wanted to hug them.
+
+"You said you wouldn't rule," the Miller said, eyes wide.
+
+"We didn't rule," Kaela said, stepping through the gate. "We neighbors helped neighbors."
+
+"We just took out the trash," Kaelan added. "It was blocking the driveway."
+
+"Still," Horg grinned, clapping Kaelan on the back. "Nice of you to join the meeting."
+
+"Don't get used to it," Kaelan warned. "I have carrots to wash."
+
+They walked back up the ridge path. The adrenaline was fading, leaving them tired.
+
+"They'll talk," Kaela said softly. "The King will tell everyone a Demon and a Witch live here."
+
+"Good," Kaelan said. "Maybe the next King will think twice."
+
+He unlatched their private gate. They stepped into the garden. The steam was still rising from the tub. The water was still warm.
+
+"Finish our bath?" Kaelan asked.
+
+"Finish our bath," Kaela agreed.
+
+They stripped off their dusty clothes and slid back into the water, while down in the valley, the broken army of the Gilded Plains limped home, carrying the terrifying news that Sunstead had no King, but it had something much, much worse.
+

@@ -1,0 +1,20 @@
+# Part 5: The Cocoon of Safety
+
+After the bath, wrapped in a warm towel, the tension had visibly drained from Leo's body. The process of getting him ready for bed was just as practiced and gentle as getting him into the tub.
+
+"Okay, my turn for a shower," Stella announced with a soft smile. "I'll be quick." She gave Leo a kiss on his damp forehead and then disappeared into her en-suite bathroom, the soft sound of her shower starting a moment later.
+
+Luna and Olivia remained in the large, accessible bathroom with Leo. This had become a familiar routine, born from the quiet, unspoken understanding that Leo was still frightened of being left alone, especially in the vulnerable moments after a bath. He waited patiently in his wheelchair, a warm towel draped over his shoulders, while Olivia started her own shower. As the steam filled the room, Luna began the gentle process of drying Leo off, her movements slow and careful, her presence a constant, reassuring anchor.
+
+By the time Olivia was finished and wrapped in a towel, Luna had Leo mostly dry. They traded places seamlessly. While Luna took her turn in the shower, Olivia took over, helping Leo into his soft, comfortable pajamas, carefully guiding his limbs to avoid any discomfort.
+
+Once all the showers were done, the three of them were a cozy, quiet trio in the warm, steamy bathroom. Luna and Olivia finished drying themselves off and changed into their own pajamas. It was finally bedtime. As Olivia helped Leo get situated back in his wheelchair for the short trip to the bedroom, Luna's expression was soft but resolute. "I'm staying with you guys tonight," she said, a statement of fact, not a question. "I just... I feel like I need to be close."
+
+"Of course," Olivia said without a moment's hesitation, her understanding absolute. "We wouldn't have it any other way."
+
+The three of them rolled into the living room to find Stella, now in her own pajamas, waiting for them. They said their good nights, a quiet, sleepy ritual of warm, affectionate hugs.
+
+Luna then joined Olivia and Leo in their bedroom. On the large, queen-sized bed, their unspoken arrangement was simple and immediate. Leo settled into the middle, and Luna and Olivia flanked him on either side. They pulled the covers up, and he felt their presence, a warm, solid wall of safety on his left and his right. Luna rested a hand gently on his arm, while Olivia's was a comforting weight on his shoulder.
+
+He was cocooned. Wrapped in a profound sense of security that no fear could penetrate. The lingering anxiety about the upcoming trials, the potential stress of the loud noises from New Year's Eve celebrations in a few days—it all faded into a distant, manageable hum. Here, in the absolute center of his Safe Harbor, held by his twin and his *ma blonde*, he was simply Leo. And he was completely at ease.
+

@@ -1,0 +1,100 @@
+# Part 1: The Winter Siege
+
+## **Date:** Tuesday, January 17, 2006 (3 Weeks Post-Op) **Time:** 10:00 AM **Location:** Unit 404, The Foundry Lofts
+
+The novelty of the "New Year" had worn off. The adrenaline of the surgery was gone. Now, it was just the **Grind**.
+
+Outside the massive industrial windows, the Rhode Island winter was living up to its reputation. The sky was a flat, bruised gray, and the wind whipped snow against the brickwork.
+
+Inside, the loft was a warm, regulated capsule.
+
+Patrick had established a **"Battle Rhythm"** on the whiteboard near the kitchen:
+
+- **08:00:** Meds & Breakfast.
+
+- **09:00:** Hygiene & Dressing.
+
+- **10:00:** Prone Positioning (Tummy Time) - *Current Activity*.
+
+- **12:00:** Lunch.
+
+- **14:00:** Nap.
+
+- **16:00:** Passive Range of Motion (PROM).
+
+**The Activity: Prone Lying** Nichole was currently lying on her stomach on the living room rug, which was padded with three comforters to protect her hips.
+
+This was the most important—and most hated—part of the day.
+
+Because she spent her life sitting in a wheelchair, her **hip flexors** (the muscles at the front of her hips) were chronically tight. Now that her hamstrings were loose, Patrick had to stretch the front of her hips to match.
+
+"Fifteen more minutes," Patrick called out from the kitchen, where he was washing the breakfast dishes.
+
+Nichole groaned into her arm. She hated prone lying. It was boring. It put pressure on her chest.
+
+She reached out with a trembling hand and pulled her "voice" closer.
+
+It wasn't a high-tech computer. It was **The Board**.
+
+It was a relic from elementary school—a heavy, black plastic kitchen cutting board with a handle on the left side. Over the years, it had become an extension of her body.
+
+- **The Center:** A grid of yellow-on-black QWERTY keyboard stickers, worn smooth from years of pointing.
+
+- **The Left Flank (Green Tape):** Shortcuts for **YES**, **BATHROOM**, and **THIRST**.
+
+- **The Right Flank (Red Tape):** Shortcuts for **NO**, **PAIN**, and **MOVE ME**.
+
+- **The Borders:** Thick strips of glow-in-the-dark tape, ensuring she could speak even in the pitch black of a power outage.
+
+She tapped the board hard. *Thwack. Thwack.*
+
+Patrick dried his hands and walked over. He didn't stand over her; he squatted down, bringing his eyes level with the floor.
+
+"I know," Patrick said, rubbing her back. "Gravity sucks."
+
+Nichole didn't look at him. She looked at the board. Her index finger hovered, then struck.
+
+**B - O - R - E - D**
+
+She moved her finger to the top right corner, tapping the red **PAIN** box, then moved it back to the letters.
+
+**H - I - P - S**
+
+"I know the hips hurt," Patrick said softly. "But if we don't stretch them, the hamstrings will just tighten up again to compensate. It’s physics."
+
+Nichole sighed, her breath dusting the floorboards. She moved her finger again.
+
+**T - V ?**
+
+"You've watched every episode of that science explosion show twice," Patrick smiled. "And we finished the audiobook."
+
+He checked the timer on his watch.
+
+"Tell you what. Ten more minutes of prone, then we do a transfer to the recliner. I'll get the laptop tray, and we can work on the story. I have an idea for how to get Kae and Bram out of the airlock."
+
+Nichole’s eyes lit up. *Creative work.* That was the energy she had back.
+
+But she had one more question.
+
+She pointed to her legs, still encased in the massive **Blue Foam Immobilizers**.
+
+Then, she moved her hand back to the board. She didn't spell. She slammed her finger onto the bottom right corner shortcut:
+
+**MOVE ME**
+
+She hit it again. **MOVE ME**.
+
+She wasn't asking to be repositioned on the rug. She was asking to be moved out of the braces. Out of the apartment. Out of the siege.
+
+"Dr. Evans says two more weeks for the day shift," Patrick reminded her gently. "We go down to 'Night Only' on February 1st. Until then, you're a statue."
+
+Nichole glared at the board. She tapped **N - O**.
+
+"I know," Patrick said, reaching out to squeeze her hand, grounding her. "But we have supplies. We have heat. And we have the story. We don't need the outside world."
+
+He stood up to prep the lunch meds.
+
+Nichole lay there, her cheek pressed against the comforter. Her hand rested on the cool plastic of the cutting board, her finger tracing the glow-in-the-dark border.
+
+She wasn't just surviving anymore. She was waiting to live.
+

@@ -1,0 +1,76 @@
+# Part 4: The Chariot – Friday, September 4, 2048 – 10:00
+
+Sub-Level 4 smelled of hot ozone, melted synthetic rubber, and freshly milled alien pine.
+
+Wyatt Colton was hunched over the primary heavy-assembly workbench, a pair of precision calipers in his hand. He was completely absorbed in the mechanical tolerances of a custom axle assembly when the soft, rhythmic sound of footsteps echoed against the grated steel floor.
+
+He didn't hear the hum of a battery or the squeak of brushed-aluminum wheels.
+
+Wyatt turned around, wiping grease from his forehead with the back of his canvas sleeve.
+
+Sarah was standing in the doorway of the Fab-Foundry. The wheelchair that had defined her existence for the last ten months was parked upstairs, entirely empty. Her physical therapy had been grueling, but her body had completely healed from the catastrophic toll of the triplet pregnancy. She was standing tall, her weight evenly distributed, a brilliant, triumphant smile lighting up her face.
+
+"Look at you," Wyatt breathed, tossing the calipers onto the bench. He crossed the room in three massive strides, wrapping his arms around her waist and lifting her right off her newly recovered feet.
+
+"Put me down, you brute, I just got these working again," Sarah laughed, slapping his broad shoulder affectionately before melting into the kiss. When he finally set her back down, she looked over his massive bicep at the workbench. "What are you building down here? Aria said you rerouted ten percent of the planetary printing grid for a 'tactical transport vehicle.'"
+
+"I did," Wyatt grinned, stepping aside to reveal the frame resting on the bench.
+
+It was a masterpiece of over-engineered, fiercely protective fatherhood.
+
+Wyatt hadn't built a toy; he had built a highly specialized pediatric mobility platform. The wagon was incredibly low to the ground to ensure a zero-percent rollover risk. The center compartment was a custom-molded, shock-absorbing memory-foam seat equipped with a medical-grade five-point harness, perfectly designed to keep Leo’s rigid, scissored legs secure and supported.
+
+On the front was a heavy-duty, ergonomic pull-handle set at the exact height for Ellie. On the back was a thick, padded push-bar designed for Nora, allowing her to lean her weight against it to support her weaker left leg while she walked.
+
+"They won't be separated, Sarah," Wyatt explained, his mechanic's brain perfectly aligning with his children's neurodivergent reality. "But the girls are getting too fast, and they can't keep dragging Leo across the floor. If they want to move as a unit, I'm going to give them the armor to do it."
+
+Thirty minutes later, Wyatt and Sarah carried the newly christened "Chariot" up to the residential level and set it down on the plush rug of the nursery.
+
+The Vanguard immediately paused their activities.
+
+Ellie, the scout, approached the wagon first. She patted the solid pine siding, tested the tension of the pull-handle, and gave it a firm, aggressive shake. Satisfied that it was structurally sound, she let out a sharp grunt of approval.
+
+Nora limped over next. She completely ignored the handles, reaching directly into the center of the wagon to pat the memory-foam seat, checking the sensory texture.
+
+"Alright, Leo. Let's load up," Wyatt murmured, scooping his son off the floor.
+
+Leo’s body was tight, his eyes locked in their usual distant stare, but as Wyatt lowered him into the custom seat and clicked the five-point harness into place, the boy didn't panic. The deep, physical pressure of the harness mimicked the feeling of his sisters holding him. He let out a soft, vibrating hum of contentment.
+
+Seeing her brother secured, Nora immediately moved to the back of the wagon. She gripped the padded push-bar, leaning her weight against it, perfectly stabilizing her weaker leg.
+
+Ellie grabbed the front handle in both hands. She leaned forward, her flat-footed, confident stance digging into the carpet, and gave a mighty tug.
+
+The wagon rolled forward seamlessly on its frictionless bearings.
+
+Leo’s eyes widened slightly as the room began to move around him, his humming shifting up an octave in excitement. Nora pushed from the back, her limp completely mitigated by the rolling support, while Ellie steered them triumphantly toward the open nursery door.
+
+"It works," Sarah whispered, tears of joy pricking her eyes as she watched the three of them operate the machine in perfect, unbroken harmony. "Wyatt, you're a genius."
+
+"Just adapting to the battlefield," Wyatt smiled, crossing his arms over his chest.
+
+He stepped forward, intending to manage the logistical flow of the afternoon. "Okay, squad. Let's take the wagon down to the kitchen. Nora, let go of the bar for a second. Dada needs to change your diaper before we deploy."
+
+Wyatt reached down, gently grasping Nora’s waist to lift her away from the back of the wagon.
+
+He didn't even get her an inch off the ground.
+
+Ellie instantly dropped the front handle. She stomped her tiny boot against the floor, a sound like a miniature gunshot echoing in the room.
+
+Wyatt froze.
+
+Ellie marched around the side of the wagon, placing herself directly between Wyatt and Nora. She slapped Wyatt’s massive hands away from her sister with absolute, unfiltered toddler authority. She didn't scream. She didn't throw a tantrum. She simply stared up at the towering S.H.O.P. Marine with dark, fiercely uncompromising eyes.
+
+She pointed a tiny, dictatorial finger at Leo, locked in the center seat. Then she pointed at Nora. Finally, she pointed firmly at the floor beneath her own boots.
+
+"No," Ellie stated. The single syllable was sharp enough to cut glass.
+
+She grabbed Nora's hand and physically placed it back onto the wagon's push-bar. Then she marched back to the front, grabbing her own handle. She looked back over her shoulder, locking eyes with Wyatt and Sarah to ensure the chain of command was perfectly understood.
+
+"All," Ellie commanded, her two-year-old voice carrying the absolute, unshakeable law of the Vanguard. "All go."
+
+Wyatt slowly lowered his empty hands, exchanging a stunned, defeated look with his fully recovered wife. The boundaries had been set. There would be no individual diaper changes. There would be no individual snacks. If one of them needed maintenance, the entire unit went to the maintenance bay.
+
+"Understood, Commander," Wyatt surrendered, stepping out of the doorway and gesturing down the hall. "All go."
+
+Ellie gave a satisfied grunt. She leaned into the handle, and the Chariot rolled smoothly out into the corridor, a perfectly self-contained, inseparable force of nature.
+

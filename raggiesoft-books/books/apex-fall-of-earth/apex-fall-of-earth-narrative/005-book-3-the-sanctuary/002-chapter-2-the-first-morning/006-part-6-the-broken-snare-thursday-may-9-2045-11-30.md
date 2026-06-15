@@ -1,0 +1,72 @@
+# Part 6: The Broken Snare – Thursday, May 9, 2045 – 11:30
+
+The crystal-clear water of the river had washed away the heavy, dark soil of their new garden, leaving Wyatt and Sarah refreshed, clean, and completely energized.
+
+They walked back up the gentle, sunlit slope hand-in-hand, their bare feet moving easily over the soft alien grass. They had left their dirty clothes in the cargo bay, opting to simply let the warm **23.8°C** breeze dry their bare skin as they headed back to *The Nomad*.
+
+The morning had been perfect. But as they walked up the heavy steel ramp and stepped into the cool, shadowed interior of the ship's hub, the ambient lighting in the corridor shifted to a pulsing, urgent yellow.
+
+*"Administrators,"* Aria’s voice echoed through the bulkheads, her tone clipped and highly professional. *"I apologize for the interruption. However, I have just intercepted an unencrypted, maximum-range subspace broadcast originating from the Perseus Sector. It is repeating on all open frequencies, and it directly names Contractor Hayes, S."*
+
+Wyatt’s entire demeanor instantly changed. The relaxed, peaceful pioneer vanished, and the lethal, fiercely protective S.H.O.P. Marine took his place. He stepped in front of Sarah instinctively.
+
+"Play it in the tech room," Wyatt ordered, his voice a low, dangerous rumble.
+
+They moved quickly down the corridor, the heavy frosted glass doors sliding open. Wyatt leaned over the slate-gray desk, staring at the amber CRT monitor as the audio file began to play.
+
+The voice that filled the room wasn't the synthesized tone of an emergency broadcast. It was the cold, dictatorial sneer of an Apex Sub-Commander.
+
+*"By order of High Director Kael, this is an open-air corporate mandate. Colonists Tom and Ellen Hayes of the Perseus Sector Agricultural Colony have been detained. They are hereby charged with Corporate Treason by Proxy, harboring fugitive assets, and conspiracy against the Apex empire. They are currently being transferred to the sovereign world of Acheron, where they will undergo full neural-reeducation and subsequent reassignment to the deep-crust labor camps. Any attempt to intercept the prisoner transport will be met with lethal force."*
+
+The message clicked, looping back to the beginning.
+
+Wyatt’s stomach completely dropped.
+
+He stared at the speaker, a sickening wave of dread washing over him. He knew exactly what this was. They hadn't found the ship, so they were trying to draw them out. They were using her parents as bait.
+
+Wyatt slowly turned to look at Sarah, his heart breaking for the agonizing choice he assumed she was about to face. He was fully prepared to fire up the fission reactor, drop the camouflage, and fly the dreadnought straight into the Perseus Sector to tear the Apex transport apart.
+
+"Sarah..." Wyatt started, his voice incredibly gentle, bracing himself to catch her.
+
+But Sarah wasn't crying. She wasn't trembling. She wasn't staring at the speaker in horror.
+
+She was staring at the amber screen with a look of profound, absolute coldness.
+
+Then, she let out a short, sharp scoff.
+
+"He really doesn't know," Sarah murmured, shaking her head. The corner of her mouth twitched into a bitter, humorless smile.
+
+Wyatt blinked, completely thrown off guard. "Know what?"
+
+Sarah looked up at him, her eyes hard and entirely devoid of grief. She stepped away from the desk, crossing her bare arms over her chest.
+
+"Apex looks at a corporate registry and sees a biological match," Sarah explained, her voice steady and unapologetically blunt. "High Director Kael thinks he just put a gun to my head. He thinks I'm going to risk my life, my freedom, and *this ship* to save my loving family."
+
+She walked over to Wyatt, reaching out to rest her hand flat against his chest, feeling the frantic, protective beating of his heart.
+
+"Tom and Ellen Hayes aren't my family, Wyatt," Sarah told him, the dark reality of her past surfacing without an ounce of regret. "They were my first wardens. They were abusive, they were cruel, and they treated me like a quota long before the megacorporation ever did. The only reason I signed my life away to the S.H.O.P. Marines in the first place was to get as far away from them as the universe would allow."
+
+Wyatt stared at her, the realization slowly clicking into place. The tension in his massive shoulders evaporated, replaced by a deep, fierce wave of relief and an intense, burning respect for the woman standing in front of him.
+
+"So..." Wyatt said, a slow, predatory grin starting to form on his face. "Kael just arrested your abusers."
+
+"And he's paying to transport them to a deep-crust labor camp," Sarah nodded, the bitter smile finally reaching her eyes. "If he wants to mind-wipe Tom and Ellen and hand them pickaxes, he can be my guest. I cut ties with them the day I boarded the transport to Earth. As far as I'm concerned, Apex just did me a favor."
+
+Wyatt let out a loud, booming laugh that echoed off the heavy bulkheads. It was the laugh of a man who realized they had completely, unconditionally won. The great Apex empire was shadowboxing in the dark.
+
+"Good luck pulling that trick twice," Wyatt smirked, leaning against the desk. "My entire family is long dead. There isn't a single biological relative left in the galaxy for him to grab. He has absolutely zero leverage on either of us."
+
+"Aria," Sarah called out, turning her face up toward the ceiling microphone. Her voice was lighter, freer than it had ever been. "Mute the subspace receiver. Block the channel."
+
+*"I apologize, Sarah,"* Aria chimed in, her tone apologetic but firm. *"While I can reduce the audio playback volume in the living quarters to zero, my core architecture prohibits me from physically blocking or ignoring a Class-1 Corporate Mandate broadcast. The billionaire hardwired the analog receiver array to maintain an open loop for emergency intercepts. Short of going outside and physically severing the ship's primary antenna, the broadcast will continue to ping the terminal."*
+
+Sarah looked at the scrolling amber text on the screen, and then back at Wyatt.
+
+If they couldn't block it, they would just have to listen to it. But now, the context had completely shifted. It wasn't a threat anymore. It was a front-row seat to High Director Kael's inevitable meltdown.
+
+"Leave it open, Aria," Wyatt decided, a dark amusement settling into his voice. He wrapped his arm around Sarah's bare shoulders, pulling her close. "Just log the transcripts to this terminal. I want to read the exact moment Kael realizes nobody is coming to save Tom and Ellen."
+
+"Let him scream into the void," Sarah agreed, resting her head against Wyatt's chest. Kael's trap had completely shattered before it even deployed.
+
+"Now," Sarah murmured, closing her eyes as she listened to the gentle hum of their untouchable fortress. "I believe we have a garden that needs watering."
+

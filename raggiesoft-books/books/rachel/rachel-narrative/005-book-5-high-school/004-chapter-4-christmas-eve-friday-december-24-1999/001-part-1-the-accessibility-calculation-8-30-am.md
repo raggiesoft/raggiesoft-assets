@@ -1,0 +1,48 @@
+# Part 1: The Accessibility Calculation – 8:30 AM
+
+The morning routine at 1852 Delaney Street operated with rigid, mechanical precision.
+
+Waking up on the living room sofa bed was a heavily choreographed process. Because the Black Friday drop had permanently altered the physics of our household, gravity was the first obstacle we had to negotiate every single day. Mom came downstairs right at 8:30 AM to initiate the hygiene protocols.
+
+Jessica went first. Mom rolled the heavy manual wheelchair right up to the edge of the mattress. Jessica, fiercely independent but fundamentally constrained by the pulverized bones in her heels, executed a flawless pivot-transfer from the slick pajama fabric to the chair. Mom wheeled her down the main hallway and into the Downstairs Bathroom—our designated hygiene station—to help her shower and use the toilet.
+
+While Jessica was in the bathroom, Rachel and I remained perfectly anchored to the sofa bed. We waited in the quiet of the living room until the bathroom door clicked open and Mom wheeled Jessica out. Then, relying on our established turn-based system, Rachel and I took our respective showers, utilizing the standing shower unit to reset our sensory baselines for the day.
+
+By 9:30 AM, the pack was fully dressed and assembled in the dining room.
+
+We sat around the dark-stained wooden dining table. Jessica's wheelchair was seamlessly docked into the empty space where the removed modular chair usually sat, granting her absolute tactical control over her position. As we ate breakfast, the atmosphere in the room grew tense. The variable on the table wasn't the food; it was the logistics of the 5:00 PM family dinner.
+
+"I am going," Jessica stated flatly, setting her fork down on her plate. Her tone left absolutely zero room for interpretation.
+
+Mom sighed, leaning against the counter of the narrow galley kitchen. "Jess, we aren't trying to leave you out. But Grandma Loretta's house is not built for a wheelchair. It’s tight, it’s crowded, and there are steps."
+
+"Uncle Dan can bump the chair up the front step," Jessica countered instantly, her pragmatic mind already overriding the architectural barriers. "I'm not spending Christmas Eve trapped in this living room while the rest of you go to dinner."
+
+The house in question belonged to Grandma Loretta, the matriarch of the family. It was currently packed to the structural limits. Not only did Grandma Loretta live there, but Aunt Janet, her husband Dan, and my four cousins—Katherine, Maria, Janette, and Michelle—all occupied the space.
+
+"The front step isn't the primary bottleneck, Jess," Mom said gently, stepping into the dining room threshold. "It's the powder room. If you have to use the bathroom tonight, you know exactly what that hallway looks like."
+
+I stopped chewing my cereal, my processor instantly visualizing the floor plan of Grandma Loretta's house. Mom was right. The only accessible bathroom on the ground floor was a tiny, cramped powder room tucked midway down a narrow hallway. A standard manual wheelchair could not physically fit through the doorframe, let alone provide the required turning radius for Jessica to execute a safe lateral transfer to the toilet.
+
+"If I have to go, I will make it work," Jessica insisted, crossing her arms. She was the absolute adult in the room, and she refused to let her new physical reality sever her from our holiday traditions.
+
+"Jess, you can't put weight on your feet," Mom reminded her, her voice laced with maternal anxiety. "If you try to transfer in that tight space and slip, you could ruin the titanium plates the surgeons just put in. It's too dangerous."
+
+"Then I'll regulate my fluid intake," Jessica fired back, deploying her ruthless logistical logic. "I'll stop drinking water at 1:00 PM. I won't have anything to drink at dinner. If I don't have to use the powder room, the hallway width doesn't matter."
+
+Rachel, sitting silently next to me, reached under the table and grabbed the hem of my shirt. The tension between Mom and Jessica was escalating the hum in the room, pushing Rachel's internal telemetry from Green to Yellow.
+
+"If she has to go, I can help her," I blurted out, breaking my silence.
+
+Mom and Jessica both looked at me.
+
+"I've watched how you do the transfers," I explained, the mechanical workaround fully forming in my head. "If her chair can't fit through the door, she can park it in the hallway parallel to the frame. I can stand inside the powder room, lock my knees, and she can use my shoulders as a pivot-point to swing onto the toilet. I can anchor her."
+
+Jessica looked at me, her expression softening. She knew exactly what I was offering. I was offering to be the physical cargo strap she needed to bypass the hostile architecture.
+
+"See?" Jessica said, looking back at Mom with a triumphant, undeniable finality. "Michael has the transfer logistics handled. I'm going to dinner."
+
+Mom looked at the two of us, recognizing the unbroken pack integrity. She let out a long, defeated exhale, knowing she couldn't win an argument against our combined stubbornness.
+
+"Fine," Mom conceded. "But Tom is working his shift at Baja Taco until 4:30. He's driving straight to Loretta's house from work. So we are going to have to load the wheelchair into the trunk of my car ourselves."
+

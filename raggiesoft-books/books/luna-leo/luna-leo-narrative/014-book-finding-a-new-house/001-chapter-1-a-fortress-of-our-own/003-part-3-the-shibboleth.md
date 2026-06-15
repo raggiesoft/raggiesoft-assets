@@ -1,0 +1,66 @@
+# Part 3: The Shibboleth
+
+The Next Morning Braxton State University - The Fine Arts Center *Dean* Sterling’s Office
+
+Dean Elise Sterling was staring at a stack of audition tapes from high school seniors. She rubbed her temples. If she heard one more botched attempt at the Chaminade *Concertino* played on a nickel-plated student flute with leaky pads, she was going to scream.
+
+There was a knock at her door.
+
+"Come in," she sighed.
+
+Dr. Aris, the Dean of Engineering, breezed in. He looked far too energetic for a Monday morning. He was holding a tablet and a cup of coffee.
+
+"Good morning, Elise," Aris chirped, sitting in the guest chair. "How is the hunt for woodwinds going?"
+
+"Bleak," Sterling admitted. "Plenty of marching band kids who play loud and flat. Very few musicians. Why? Did you find me a drummer who can count to four?"
+
+"Better," Aris said. "I found you a flutist. And I think she’s a unicorn."
+
+Sterling raised an eyebrow. "An engineer who plays flute? I have ten of them. They’re great at rhythm, terrible at phrasing."
+
+"No," Aris corrected. "She’s a transfer. Coming from CCHR in Virginia. Her brother is an Engineering prodigy—I'm already drafting his acceptance letter—but she’s the one you need to see."
+
+He placed his tablet on her desk. On the screen was a high-resolution photo taken in a gymnasium.
+
+It showed a cherry wood case, open on a velvet table. Inside lay a flute.
+
+Sterling leaned forward. Her eyes narrowed. She recognized the cut of the headjoint immediately. She saw the pointed key arms. She saw the B-footjoint. And she saw the luster. That wasn't plating. That was solid silver.
+
+"Is that..." she whispered.
+
+"She told me it's an Orpheus 680," Aris said. "Conservatory model. Her sister bought it for her in cash. Said she wanted the one she wouldn't outgrow."
+
+Sterling looked up, her interest piqued. "A transfer student with a three-thousand-dollar professional instrument? That’s... rare. Who is she?"
+
+"Luna Porter," Aris said. "But here is the kicker."
+
+He reached into his breast pocket and pulled out the small slip of paper Luna had given him.
+
+"She told me to give you this note. She said to tell you she’s currently working on..." He squinted at his own handwriting. "...Debussy’s *Syrinx*?"
+
+Dean Sterling went still.
+
+Syrinx.
+
+It was the password.
+
+A high school band student would have bragged about playing "The Flight of the Bumblebee" or some fast, flashy technical exercise.
+
+But *Syrinx*? That was unaccompanied. It was impressionist. It required immense breath control, subtle tonal coloring, and emotional maturity. It was a piece that exposed every single flaw in a player’s technique. If you tried to play *Syrinx* on a bad flute, or with bad lungs, you sounded like a dying goose.
+
+By naming that piece, Luna wasn't just telling the Dean what she played; she was telling the Dean *how* she played.
+
+"She's playing *Syrinx*?" Sterling asked, taking the note. "Voluntarily?"
+
+"She said she wants to know about audition repertoire," Aris added.
+
+Sterling looked at the email address scrawled on the paper. She didn't put the note in her "To Do" pile. She put it in the center of her desk. She turned to her computer and opened her email client.
+
+"Elias," Sterling said, typing rapidly. "If her brother is as good at engineering as she seems to be at flute, do whatever you have to do to get them here."
+
+"I already gave the brother the accessibility guide," Aris grinned, standing up. "He fell in love with the train map. I think we have them hooked."
+
+"Good," Sterling said, hitting *Send* on an email subject-lined AUDITION INVITATION / REPERTOIRE CONSULTATION. "Because if she can actually play that Orpheus, I might have found my freshman Principal Chair."
+
+Dr. Aris walked out, whistling. He had secured a genius for his department, and he had handed the Music Dean a prodigy on a silver platter. It was a good day to be a Bull.
+

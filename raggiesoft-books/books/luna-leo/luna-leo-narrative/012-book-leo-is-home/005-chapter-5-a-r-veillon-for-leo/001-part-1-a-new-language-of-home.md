@@ -1,0 +1,50 @@
+# Part 1: A New Language of Home
+
+The first week of December settled into a peaceful rhythm, a welcome balm after the storms of November. The legal machinery was in motion, but in the house on Daniel Maloney Drive, the focus was on healing.
+
+One evening, Olivia was on the phone with her parents in Stanstead, the conversation flowing in the rapid, musical cadence of Québécois French. Stella, Luna, and Leo listened, intrigued by the unfamiliar sounds.
+
+When she hung up, a thoughtful, determined expression was on her face. She thought back to that awful morning in the chaos of Sea-Tac, when her first instinct was to soothe Leo in her heart language, and the quiet, fierce vow she had made to herself in that moment. *When he's better, when he's safe, I'm going to teach them. All of them. So they can all share this safe place.*
+
+Now was the time.
+
+"Hey, guys?" she began, her voice soft but full of purpose. "I was just thinking... I'd really like to teach you some French, if you're interested. My French. So... so you can all have that language, too."
+
+Luna's eyes lit up. "Yes! I was just thinking that! Your voice sounds so cool when you speak it."
+
+Stella smiled, sensing the deeper meaning behind Olivia's offer. "We'd love that, Liv."
+
+And so, the lessons began. Olivia started with the basics, her voice patient and warm. Leo participated eagerly, using his MagnaByte Scribe. Olivia would say a word, and he would carefully type it, listening to the Scribe's robotic voice attempt the French pronunciation, which often sent them into fits of gentle laughter.
+
+Then Olivia’s gaze settled on Leo. "Okay, now for an important one. For you," she said softly, "I am *ton amie*. Your friend. And you are *mon ami*. My friend."
+
+Leo carefully typed the new phrase, a small, happy smile on his face. It was more than a language lesson; it was an act of weaving her world into theirs, fulfilling the promise she had made to give them all access to her safest place.
+
+"You guys are getting good!" Olivia said, her eyes sparkling with a new idea. "You know, if you really want to have a proper Québécois holiday, we have to do a Réveillon on Christmas Eve."
+
+"A Réveillon?" Luna asked, her brow furrowed in confusion. "What's that?"
+
+Olivia's face lit up, eager to share one of her favorite traditions. "It's a huge party on Christmas Eve," she explained. "It's a big feast, a late-night supper. Traditionally, you go to midnight mass, and then you come home and eat and celebrate with family until the early hours of the morning. There's music, and presents, and just... so much food."
+
+"What kind of food?" Stella asked, intrigued.
+
+"Oh, all the best stuff," Olivia said with a nostalgic smile. "There's always a *tourtière*, which is this amazing spiced meat pie. And for dessert, a *bûche de Noël*—a Yule log cake. And, of course, the most important part... poutine."
+
+Leo, who had been listening intently, immediately lit up. He had been hoping she would say that. He grabbed his MagnaByte Scribe, his fingers moving with excited energy.
+
+"POUTINE! LIKE THE KIND WE HAD IN D.C.? THE RESTAURANT WITH THE HOCKEY JERSEYS?"
+
+Olivia laughed, her eyes sparkling. "The very same! The real deal."
+
+Stella, ever the pragmatist, immediately jumped to the logistics. "Wait, but the cheese curds... I remember you saying they had to be super fresh. Can we even get those here?"
+
+"That's the tricky part," Olivia admitted, her expression serious but her eyes twinkling. "They have to be super fresh, or they don't 'squeak' right. There's no compromise on this. We have to get them shipped overnight, directly **from Québec**."
+
+"We can do that," Stella said without hesitation, already making a mental note. If it was this important to Leo, they would find a way.
+
+Leo, seeing his dream was within reach, typed again, his message an enthusiastic demand.
+
+"WE HAVE TO HAVE POUTINE FOR THE RÉVEILLON! PLEASE?"
+
+"Absolutely," Olivia laughed, her heart swelling. "It wouldn't be a real Réveillon without it."
+

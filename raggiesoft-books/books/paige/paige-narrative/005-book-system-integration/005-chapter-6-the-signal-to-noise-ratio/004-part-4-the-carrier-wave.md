@@ -1,0 +1,72 @@
+# Part 4: The Carrier Wave
+
+## Tuesday, November 11, 2008 — 20:15 PM Suite 200A
+
+Harper slammed the door to her room. Her roommate, Kayla, wasn't there—she was probably still in the hall gossiping about the fight.
+
+Harper was alone. But she felt unsafe. The vibration of the chair hitting the wall was still in her bones.
+
+She pulled out her phone. Her hands were trembling so hard she almost dropped it.
+
+She scrolled to Captain.
+
+She hit send.
+
+"Hello?" Freddie’s voice answered on the first ring. It was calm. It was flat. It was perfect.
+
+"It's awful," Harper whispered, hunched over her phone in the dark room. "Freddie, it's a zoo."
+
+"Clarify," Freddie said. "Is the facility dirty?"
+
+"No," Harper said, tears spilling over. "The facility is fine. It’s the people. The clients. They... they scream. They fight."
+
+She squeezed her eyes shut.
+
+"There was a fight in the lounge. Over the wrestling show. A guy threw a chair."
+
+"Physical violence?" Freddie asked, his voice tightening.
+
+"He hit the wall," Harper said. "But it was loud. It was so loud."
+
+"Ah," Freddie said. "Entropy. Disorder."
+
+"I hate it," Harper admitted. "I like the soldering. I like the evaluation. But the unstructured time? The 'Free Time'? It makes my skin crawl. I just want to go home."
+
+There was a pause on the line. She could hear the faint hum of the server rack in the background at Pepper Street. It sounded like the ocean.
+
+"Harper," Freddie said. "Activate the Firewall."
+
+"How?"
+
+"You are a Satellite," Freddie reminded her. "Satellites do not engage with the atmosphere. They orbit above it."
+
+He paused.
+
+"Put on your headphones," Freddie commanded. "Play the playlist I made you. 'Orbital Mechanics'. It is instrumental. No lyrics. No drama."
+
+"Okay," Harper sniffled.
+
+"Do not engage with the chaos," Freddie continued. "Observe it. Catalog it. Treat it like a nature documentary. 'Here we see the humans creating unnecessary conflict.'"
+
+Harper giggled. A wet, shaky sound. "They are loud humans."
+
+"You are Avery," Freddie said firmly. "You thrive on clean data. If the data is corrupted, do not process it. Just filter it out."
+
+"Filter it out," Harper repeated.
+
+"I will stay on the line," Freddie offered. "I will not speak. I will just keep the connection open. You put the phone in your pocket. Put on the headphones. I will be the carrier wave."
+
+"You'd do that?"
+
+"Affirmative," Freddie said. "Leaving the line open."
+
+Harper put her earbuds in. She plugged them into the phone. She put the phone in her hoodie pocket.
+
+She could hear it—the faint, rhythmic breathing of her brother three hours away. A steady, white-noise presence.
+
+She turned on her own music, low, mixing it with the open line.
+
+She lay back on the bed. She closed her eyes.
+
+She wasn't in Fishersville anymore. She was in the Unit.
+

@@ -1,0 +1,59 @@
+# Part 6: The Regulated Sanctuary – 10:00 PM
+
+The emotional high of the escrow reveal eventually gave way to the heavy, physical exhaustion of the day. The clock on the kitchen microwave clicked over to 10:00 PM. The rain was still falling steadily outside, but the Federal Way apartment was warm and perfectly still.
+
+Jessica carefully closed the manila folder and rested it on her lap, shifting the atmosphere in the room from the future back to the immediate present.
+
+"Alright, pack," Jessica announced, wheeling herself backward slightly from the coffee table. "Tomorrow is a holiday, and we have a turkey to roast. It's time for bed."
+
+Because this was a one-bedroom apartment, the logistics of the night required a specific workaround. But Jessica was a master of modifying environments to perfectly regulate our needs. She understood that while Rachel desperately needed physical proximity to feel safe, her rigid need for privacy was absolute and unquestionable.
+
+"We are all sharing my bed tonight," Jessica stated, establishing the rule. "But first, the changing protocol. Michael, go stand by the living room window and face the blinds. Do not turn around. Rachel and I will go into the bedroom and face the closet."
+
+It was a simple, flawless algorithm for modesty. I grabbed my worn-out, tagless sleep shorts and an oversized t-shirt from my duffel bag and walked over to the window. I turned my back to the room, staring straight ahead at the plastic blinds.
+
+Behind me, I heard the rustle of cotton and the quiet squeak of Jessica's wheelchair tires as she and Rachel moved into the bedroom.
+
+"Once everyone is in their pajamas," Jessica instructed from the other room, "tell us that you're ready. Do not turn around until everyone has confirmed."
+
+"Understood," I said quietly.
+
+I changed quickly, letting the soft, familiar texture of my sleep clothes replace the stiff denim of my jeans. I pulled my shirt over my head, keeping my eyes locked firmly on the windowpane.
+
+"I'm ready," I announced to the empty living room.
+
+A few seconds of rustling fabric followed.
+
+"I'm ready," Rachel whispered softly from the hallway.
+
+"I'm ready, too," Jessica confirmed. "Okay. You can turn around."
+
+I turned back toward the room. Rachel was standing near the doorway, swallowed up in one of her oversized, sensory-safe nightgowns. Jessica was in her flannel pajama pants and a t-shirt, having successfully transferred from her chair to the edge of her mattress.
+
+The protocol had been executed perfectly. The privacy boundary had been respected without question, completely eliminating the anxiety that usually accompanied sharing a small space.
+
+I walked into the bedroom. Jessica’s bed was a massive, heavy mattress piled high with thick quilts.
+
+"Middle," Rachel demanded softly, pointing directly at me.
+
+It wasn't a request; it was a structural necessity. Both of my sisters needed to anchor themselves, and I was the designated weight. I climbed into the absolute center of the mattress, the heavy blankets immediately providing a grounding effect over my spastic legs.
+
+My sisters didn't hesitate. They both closed the distance immediately. Jessica settled in on my left side, pulling the quilt up to her chin and resting her head gently against my shoulder. Rachel climbed in on my right, practically fusing herself to my side. She threw her arm across my ribs, burying her face into the crook of my neck.
+
+I wrapped my arms around both of them, pulling them in flush against my sides.
+
+The physical geometry of the bed was completely locked in. I was the central anchor, and the deep, restrictive pressure of having my sisters pressed against my ribs from both sides instantly sent a massive wave of regulation through my nervous system.
+
+For two months, my brain had been operating in a state of high-alert, solitary survival in Virginia, terrified of the ticking clock of the custody arrangement. But tonight, squeezed tightly in the center of the bed, listening to the synchronized rhythm of their breathing, the threat level finally dropped to absolute zero.
+
+"Goodnight, Michael. Goodnight, Rachel," Jessica whispered into the dark room, her voice soft and content.
+
+Rachel shifted her arm, her fingers curling tightly into the fabric of my t-shirt directly over my heart.
+
+"Goodnight," Rachel breathed against my neck, the friction of her voice sounding incredibly peaceful.
+
+I tightened my arms around them both, closing my eyes. The adult world, with its lawyers, its broken doorknobs, and its screaming girlfriends, was locked entirely outside. Inside this room, the perimeter was perfectly secure.
+
+"Goodnight," I whispered back.
+
+

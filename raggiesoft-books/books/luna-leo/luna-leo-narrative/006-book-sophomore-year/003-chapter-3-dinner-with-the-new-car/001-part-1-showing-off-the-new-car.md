@@ -1,0 +1,32 @@
+# Part 1: Showing Off the New Car
+
+Stella gripped the steering wheel of the Holt Sentinel, feeling the difference immediately. Compared to her trusty old blue Avalon, this car felt substantial, solid, almost boat-like on the road, but in a reassuring way. The V8 engine under the hood purred quietly at cruising speed but offered a satisfying surge of power when she needed to merge onto the highway heading back towards her neighborhood. She glanced in the rearview mirror, seeing her grandfather's car following steadily behind. Getting used to the controls – the position of the blinker, the feel of the brakes, the layout of the dashboard with its new AM/FM/CD player – took focus, but by the time she turned onto her own street, she was starting to feel comfortable.
+
+As she pulled the sedan into her driveway, the front door of the house burst open. Luna and Leo emerged, Grandmother close behind them, all three peering eagerly at the new arrival. Stella grinned, putting the car in park and cutting the engine. Grandpa pulled in behind her.
+
+"Wow, Stella! Is that it?" Luna asked excitedly, already heading towards the car, her limp barely noticeable in her eagerness. Leo wheeled quickly down the driveway ramp beside her, eyes wide with appreciation for the big, blue vehicle.
+
+"This is it," Stella confirmed, getting out and stretching. "What do you think?"
+
+While the twins started inspecting the car – checking out the roomy back seat, admiring the color – Grandpa joined Grandma on the porch.
+
+"Took you long enough!" Grandma teased him gently.
+
+He chuckled, shaking his head. "Tell me about it. Had to fight off the financing vultures at three different dealerships. First Olympus, then Summit – neither wanted to talk a straight cash deal. Had to walk out on both of them. We stopped for lunch to regroup before trying Holt." He nodded towards the Sent. "Third time was the charm, though. Didn't take them long to see sense once I explained how things were going to be."
+
+Grandma smiled knowingly, clearly familiar with her husband's negotiation skills. "Well, it's a fine car, looks sturdy. Good choice."
+
+"Can we go for a ride, Stella? Please?" Luna begged, peering in the window. Leo echoed the sentiment with enthusiastic gestures and typed *"RIDE NOW?"* on his AAC device.
+
+Stella laughed, feeling the stress of the day melt away in the face of their excitement. "Okay, okay! How about this? We take the new car out for its first official trip – we'll all go grab some dinner somewhere. My treat."
+
+"Dinner!" Luna cheered. Leo gave an energetic thumbs-up.
+
+"We'll follow you," Grandpa said, already heading back towards his own car with Grandma. "And Stella, don't you worry about that old Avalon sitting at the curb. I'll come by tomorrow or the next day, pick it up, handle the selling of it for you, and make sure the money goes straight into the twins' trust fund where it belongs."
+
+"Oh, Grandpa, thank you! That would be amazing," Stella said, relieved to have that task taken care of.
+
+"Least I can do," he winked.
+
+A few minutes later, Stella carefully helped Leo transfer into the front passenger seat of the Sent– already noticeably easier than it had been with the Avalon – while Luna climbed excitedly into the spacious back seat. With a final wave to her grandparents, Stella started the engine, backed the big blue sedan out of the driveway, and headed off towards a nearby restaurant, the twins chattering happily beside and behind her, ready for dinner and their first real ride in the new family car.
+

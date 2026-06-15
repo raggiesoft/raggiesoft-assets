@@ -1,0 +1,20 @@
+# Part 3: The Slow Encroachment
+
+The weeks following the "Video Call Interruption" saw a subtle but decisive shift. Vera, having been so thoroughly shut down by the Millers' united, bilingual front, changed her tactics. She stopped trying to confront Alex's connection to Chloé at his house and instead began to pull him more and more into her own world.
+
+"It's just easier at my place in Portsmouth, sweetie," she'd say, her voice full of a sweet reason that was hard to argue with. "My mom's out most of the time, so we have real privacy. We don't have to worry about... interruptions."
+
+Alex, still smarting from the awkwardness of the video call and desperate to avoid any more conflict, found himself agreeing. He began spending more and more time at her apartment. At first, it was just after their shared class. Then, it was entire afternoons. Soon, he was staying for dinner, and then, more and more frequently, he was spending the entire weekend there.
+
+His academic work at CCHR began to suffer. An assignment he should have spent Saturday working on was forgotten in the haze of a movie marathon with Vera. A study session was cut short because Vera wanted to go out. He was still passing, but the sharp, focused edge of his intellect was being dulled by the constant distraction.
+
+The sexual intimacy, which had at first felt thrilling and new, was becoming the central, almost transactional, part of their time together. If he seemed distant or sad, thinking of Chloé, Vera's solution was always physical. "Don't be sad, Alex," she'd murmur, her hands already on him. "Let me make you feel better. I can give you everything you need, right here."
+
+He was beginning to feel a deep, gnawing misery, a sense of being trapped. But he was terrified. He still had to see her in their Student Development class every week, and the thought of facing her anger after a breakup was daunting. But the deeper fear, the one that kept him paralyzed, was the thought of being alone again. This miserable connection felt better than no connection at all.
+
+One evening, as they were lying in her bed, Vera brought up a new idea, her voice casual. "You know, Alex, this driving back and forth is getting to be a pain. And my mom is thinking of moving soon. I was thinking... maybe we should look into getting our own place. And you know, CCHR has that big campus right here in Portsmouth. We could take all our classes together next semester. Wouldn't that be great?"
+
+She then added, her voice taking on a dismissive, almost pitying tone, "And then you wouldn't have to waste so much time on the phone with that mousy little friend of yours. Why do you even still talk to her so much, anyway? Shouldn't I be enough for you?"
+
+The words—"mousy," "waste so much time"—were a direct, venomous assault on the most important person in his life. A flicker of his old, protective anger flared, but it was quickly extinguished by the cold wave of fear. He was in her bed, in her apartment, miles from his own home. He was trapped. And in that moment, he knew, with a sickening certainty, that he was in very, very deep trouble.
+

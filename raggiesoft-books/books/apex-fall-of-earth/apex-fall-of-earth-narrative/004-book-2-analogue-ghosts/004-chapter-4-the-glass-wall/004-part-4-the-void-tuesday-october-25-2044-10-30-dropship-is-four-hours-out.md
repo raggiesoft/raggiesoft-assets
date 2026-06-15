@@ -1,0 +1,64 @@
+# Part 4: The Void – Tuesday, October 25, 2044 – ~10:30 (Dropship is four hours out)
+
+The frantic energy of their realization immediately funneled into cold, methodical action. They had less than four hours before an Apex hit squad breached the station, and to turn this rusted listening post back into a heavy freighter, they had to break its chains.
+
+They sprinted from the Operations center down the curved corridor to the Primary Airlock. The heavy iron wheel on the bulkhead door was freezing under Wyatt's hands as he spun it, throwing his weight against the seal to crack it open.
+
+The EVA Bay smelled like cold dust and stale oxygen. Hanging in the rusted wire-mesh lockers were the station's only two extravehicular activity suits. They were relics. There were no sleek, form-fitting polymers here. They were massive, heavily armored, Apollo-era diving suits made of thick, off-white canvas and reinforced rubber, topped with bulbous brass-and-glass helmets.
+
+"I have to blow the physical blast-caps off the main thruster cones," Wyatt said, his voice tight as he pulled the canvas laundry bag of breaching charges from a nearby supply crate. "When Apex parked this rig, they welded heavy iron covers over the exhaust ports to permanently anchor it. If I don't blow those welds before we ignite the drive core, the reactor thrust will backfire, and the entire station will turn into a localized nuclear bomb."
+
+Sarah stared at the bulky, terrifying space suit. The sheer weight of what he was about to do slammed into her. The "Anchor Rule" was about to be broken. He was going outside, into the absolute, silent zero-gravity void, and she had to stay behind the glass.
+
+"How long will it take?" she asked, her voice betraying a tremor.
+
+"To crawl the length of the hull, set the charges on all four thrusters, and get back inside? An hour, if the magnetic boots hold," Wyatt said. He looked at her, seeing the raw terror of separation in her eyes. He stepped close, resting his hands on her shoulders. "Sarah, look at me. I'm just going out the front door. You are going to be on the comms the entire time. I will not break the radio link."
+
+Sarah swallowed hard, nodding once. "Okay. Get in the suit."
+
+It took both of them twenty minutes just to get him sealed inside the archaic armor. Wyatt climbed into the heavy canvas legs, and Sarah had to physically muscle the thick brass collar over his shoulders, locking the heavy industrial latches into place. She lifted the massive glass-domed helmet, her eyes meeting his one last time before she lowered it over his head.
+
+With a heavy, metallic *CLACK*, she threw the locking lever.
+
+Wyatt was instantly isolated. The ambient noise of the station vanished, replaced entirely by the loud, rhythmic hiss of his own recycled breathing and the crackle of the suit's short-range radio.
+
+*"Radio check. Can you hear me?"* Wyatt's voice echoed with a tinny, distorted edge from the control panel on the wall.
+
+"I hear you," Sarah said, picking up the heavy analog receiver mounted next to the airlock controls. "Oxygen flow is green. Pressure is holding."
+
+Wyatt gave her a clumsy, heavily padded thumbs-up. He turned and stepped into the cramped, circular airlock, his heavy magnetic boots locking onto the grated floor with a loud *thud-thud*.
+
+Sarah pulled the heavy inner blast door shut and spun the locking wheel. She looked through the thick, scratched porthole glass at him.
+
+"Pumping the atmosphere now," Sarah said, her voice shaking slightly as she grabbed the heavy hydraulic lever on the wall. It wasn't automated. She had to manually pump the lever up and down, listening to the agonizingly slow screech of the pressure bleeding out of the chamber and into the station's reserves.
+
+Inside the lock, Wyatt watched the pressure gauge drop to zero. The heavy canvas of his suit instantly stiffened as the vacuum of space tried to pull the air out of him.
+
+He reached out and grabbed the massive iron wheel of the outer door. He braced his boots against the grating and turned.
+
+The door swung outward.
+
+Absolute, terrifying darkness rushed in to meet him. Wyatt stepped out onto the exterior hull of Outpost Delta 9. The sun was eclipsed by the massive, rotating parabolic dish above him, casting the entire station in cold, harsh shadows. Below him, the infinite, terrifying void of deep space stretched out forever.
+
+There was no sound. There was no wind. There was only the harsh glare of the cosmos and the deafening sound of his own heart hammering against his ribs.
+
+*"Wyatt?"* Sarah's voice crackled in his ear, tight with anxiety.
+
+*"I'm out,"* Wyatt breathed, his breath fogging the corner of his brass helmet. *"The mag-boots are engaged. I'm moving toward the aft section."*
+
+Every single step was a calculated risk. He had to physically break the magnetic seal of his right boot, slide it forward along the rusted exterior hull plating, and wait for the solid click before moving his left. If a boot failed, there was no tether. He would simply float away into the dark, screaming into his radio until his oxygen ran out.
+
+It took him twenty agonizing minutes just to crawl the length of the central ring. His muscles burned against the stiff, pressurized resistance of the suit.
+
+Finally, he reached the aft section—the massive, cylindrical engine block that housed the fission reactor. He looked down over the edge of the hull.
+
+There they were. Four massive, archaic thruster cones, each the size of a small house. And just as he predicted, thick, heavy iron plates had been crudely welded over the exhaust ports.
+
+*"I'm at the thrusters,"* Wyatt reported, his breathing heavy over the comms. *"The welds are thick. I'm going to have to place a breaching charge directly on the center seam of all four caps to shatter the iron."*
+
+*"You have exactly two hours and forty minutes left until the dropship is in visual range,"* Sarah warned, her voice a lifeline in the dark. *"Please hurry."*
+
+Wyatt reached into his canvas satchel, pulling out the first heavy block of plastic explosive. His thick, padded gloves made the delicate work of setting the detonators incredibly clumsy. He knelt on the edge of the engine block, the vast emptiness of the universe pulling at his back, and pressed the charge against the cold, dead iron of the first thruster.
+
+One down. Three to go. And the clock was mercilessly ticking.
+

@@ -1,0 +1,25 @@
+# Part 6: The Three Musketeers
+
+On the final Saturday of their Spring Break, the sun was shining, and the air was warm with the promise of spring. After a week of practical errands and quiet domesticity, Alex had an idea.
+
+FAIRLAWN, his Quantum Communicator XT announced at the breakfast table. ALL THREE OF US. TODAY.
+
+Megan, who was planning a quiet day of reading, looked up, a surprised smile on her face. "Me too? Are you sure?"
+
+"Absolutely," Chloé said, her own face breaking into a grin. "It's a requirement. And we're getting you a membership. It's non-negotiable."
+
+An hour later, they arrived at the familiar, beloved recreation center. After enthusiastically sponsoring a new membership for Megan, they headed for the second floor. This time, however, the routine was different. Alex had a plan. He was already wearing his swimsuit bottoms, water shoes, and a comfortable swim shirt top under his regular clothes.
+
+"You guys go on ahead," he said to Chloé and Megan, a look of quiet, determined independence on his face. "I've got this. I'll meet you on the pool deck."
+
+He didn't need their help in a private restroom this time. He confidently wheeled himself into the men's locker room. He was able to transfer to a bench, change out of his street clothes, and pack everything, including his AAC device, into a locker by himself. It was a simple act, but for him, it was a monumental declaration of independence.
+
+He met them out on the pool deck a few minutes later, a look of profound, quiet victory on his face.
+
+The next hour was pure, uncomplicated joy. The three of them—Alex, his wife, and his favorite cousin—swam, and splashed, and floated in the warm, chlorinated water. They were not a patient and his caregivers; they were just three young adults enjoying a beautiful Saturday.
+
+They all met in the shallow end. Alex, standing steady on the pool floor, looked at Chloé, his anchor, and then at Megan, his guardian. He opened his arms wide, a silent, joyful invitation. He wanted this hug from Chloé just as much as he wanted it from Megan. They both swam into his embrace at the same time, the result a happy, chaotic, and laughing tangle of limbs. It was a perfect, three-person standing hug that was a testament to the new, unshakeable foundation of his life.
+
+For Alex, the moment was perfect. He was in his favorite place, surrounded by his two favorite people in the entire world. The struggles of the past, the anxieties of the future—they all melted away in the warm, buoyant water. There was only this: the simple, profound, and absolutely perfect joy of being safe, loved, and together.
+
+

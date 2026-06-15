@@ -1,0 +1,70 @@
+# Part 4: The Cage
+
+## Location: Room 104 (Model Room), Rothrock Hall Time: 1:25 PM
+
+Swayne swiped a keycard to open the double doors. The lock buzzed—a harsh, electric sound that made Nichole jump.
+
+They entered the unit. It didn't look like a dorm. It looked like a sub-acute ward. The nurses' station was a high, curved counter behind glass, where staff in scrubs were typing on computers.
+
+"We have a model room set up right here," Swayne said, marching them to the first door on the right. "This showcases the standard living arrangement for a Rothrock client."
+
+He pushed the door open.
+
+The room was large, but the space felt cold. The floor was speckled beige linoleum—easy to mop. The walls were painted a generic institutional cream. But it was the furniture that sucked the air out of the room.
+
+There were two beds.
+
+They weren't dorm beds. They were hospital beds. Narrow. High off the ground. Thick, industrial power cords coiled underneath them. And they were flanked by full-length, heavy plastic side rails.
+
+*Click. Click. Click.*
+
+Nichole’s tongue hit the roof of her mouth faster. Her shoulders rose higher, practically touching her earlobes. Turtle Mode.
+
+She looked at the beds. They looked like cages.
+
+And they were far apart.
+
+One bed was pushed against the left wall. The other was against the right wall. Between them was a chasm of at least eight feet of empty linoleum, bisected by a ceiling track for a privacy curtain.
+
+"As you can see," Swayne said, patting the plastic footboard of the nearest bed, "we prioritize safety. These are fully adjustable medical beds with entrapment-proof side rails. Clients are required to sleep with the rails up to prevent falls."
+
+Patrick stared at the rails.
+
+*Rails up.*
+
+At home, in their Fortress, they slept in a King-sized bed. No rails. No gaps.
+
+They slept together because it was the only way the machine worked. When Nichole’s legs seized up at 3:00 AM, Patrick didn't have to get out of bed and walk across a cold room. He just shifted his weight. He threw a heavy leg over hers to anchor the spasm. He rubbed the knot out of her hamstring while half-asleep. He was her living weighted blanket.
+
+Here?
+
+Patrick looked at the eight-foot gap. He looked at the plastic barriers.
+
+If she seized in the middle of the night here, she would be alone in a plastic box. She would have to press a call button. She would have to wait for a stranger in scrubs to walk in, turn on the fluorescent lights, and touch her with cold, latex-gloved hands.
+
+"And just to clarify," Patrick said, his voice tight. "If she needs help at night... I'm not here."
+
+"Correct," Swayne said, moving to the window. "You are in Barnett Hall, across the quad. If Nichole needs assistance, she presses this call bell. Our staff response time is under three minutes."
+
+*Three minutes.*
+
+A spasm could dislocate a hip in three minutes. A silent seizure could stop her breathing in three minutes.
+
+Patrick looked at Nichole. He saw the terror in her eyes. It wasn't just the fear of the seizure; it was the fear of the separation. They had never slept apart. Not since they were toddlers. The bed was their sanctuary, the one place where they could drop the armor and just be.
+
+Swayne and Sarah were smiling, waiting for them to be impressed by the motorized head-elevation features. They had no idea.
+
+Patrick and Nichole didn't say a word about the King bed. They didn't tell Swayne that they slept tangled together like puppies. That was *their* business. That was the core of the Bennett Machine, and these bureaucrats wouldn't understand. They would call it "inappropriate." They would call it "codependent."
+
+They wouldn't understand that it was survival.
+
+Nichole tapped her armrest. Hard. *Get me out.*
+
+"I think we've seen enough of the bedroom," Patrick said, turning the chair around before Swayne could demonstrate the tray table. "It's very... clinical."
+
+"It's state-of-the-art," Swayne corrected, seemingly offended that they didn't appreciate the entrapment-proof rails.
+
+"Let's see the Rec Hall," Tom interrupted, stepping between Swayne and the kids. "We're on a tight schedule."
+
+Patrick pushed Nichole out of the room, listening to the hum of the hospital bed receding behind them. He felt sick. It wasn't a room. It was a storage unit for broken parts. And he wasn't going to let them store his sister there.
+

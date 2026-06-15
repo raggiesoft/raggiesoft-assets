@@ -1,0 +1,92 @@
+# Part 4: The Laws of War – Tuesday, May 2, 2051 – 08:45 (Standard Galactic Time)
+
+While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential level, executing his most important duty of the morning.
+
+He walked into the sprawling living room. The geothermal fireplace crackled warmly, casting a soft amber glow over the plush rugs. Sarah was sitting comfortably on the oversized leather sofa, sixteen-month-old Jack resting on her hip. Jack was happily gnawing on a synthesized apple slice, entirely oblivious to the fact that his father had just decapitated a galactic empire before breakfast.
+
+Down on the floor, however, the Vanguard was waiting for a full tactical debriefing.
+
+At five and a half years old, Ellie, Nora, and Leo were positioned in their standard defensive formation. Leo sat in the center of the rug, his rigid legs supported by the heavy, plush cushions Sarah had arranged. Nora was wedged firmly against his right side, her cheek resting against his shoulder to provide the deep, grounding pressure his spastic muscles required.
+
+Ellie stood squarely in front of them. She was wearing her miniature canvas S.H.O.P. Marine coveralls, her dark eyes flashing with sharp, intense calculation. She had been down in the CIC. She had seen the massive red hologram of the *Tartarus* shatter. She knew the enemy had fallen.
+
+And she knew Wyatt had sent the drones to pick up the pieces.
+
+Wyatt dropped heavily to his knees in front of his children, making his massive, 6'1" frame as small and approachable as possible.
+
+"Alright, squad," Wyatt rumbled gently, resting his heavy forearms on his thighs. "The perimeter is entirely secure. The bad men are out of the sky. The drones are bringing the survivors down to the basement cells."
+
+Ellie didn't celebrate. Her brow furrowed into a deep, highly skeptical V. She crossed her arms over her chest, stepping a fraction of an inch closer to her father. She was the commanding officer of the nursery, and the logistical logic of his actions simply did not compute.
+
+"Bad men broke the sky," Ellie stated, her articulation crisp and uncompromising. She pointed a tiny finger at the floor, referencing the subterranean cells. "Why keep them? Why give them base?"
+
+From the sofa, Sarah watched her husband with a soft, intensely proud smile. This was the defining moment. This was where the children of Planet Eden learned what separated their father from the monsters who had destroyed Earth.
+
+Wyatt looked into Ellie's dark, intelligent eyes. He didn't brush off the question, and he didn't offer a sanitized, childish deflection. She was asking a tactical question, and he gave her a commander's answer.
+
+"Because we are not like them, Ellie," Wyatt explained, his voice dropping into a low, profoundly earnest register. "The men who flew that ship—the Apex Megacorporation—they don't see people as human beings. To them, people are just inventory. Tools to be used up and thrown away. When they fought wars, they didn't care who got hurt. They broke our old planet just to hide a mistake."
+
+Nora’s breath caught slightly. She reached over, her small hand firmly gripping Leo's wrist. Leo let out a low, vibrating hum, his eyes darting toward Wyatt.
+
+"If someone is trying to hurt our family, I will stop them," Wyatt vowed, his jaw tightening with absolute certainty. "I will shatter their ships, and I will knock them out of the sky. But the second their ship is broken, and they don't have a weapon in their hands... the fight is over."
+
+He reached out, resting his heavy, calloused hands gently on Ellie's small shoulders.
+
+"There is an old, ancient rule from Earth. It's called the Third Geneva Convention," Wyatt told her, speaking the words like a sacred vow. "It’s a Law of War. It says that when you capture an enemy, you do not torture them. You do not starve them. You give them a warm bed, you heal their injuries, and you treat them with basic human dignity."
+
+Ellie’s brow remained furrowed. "But they are bad."
+
+"They are," Wyatt agreed smoothly. "But if we lock them in the dark and starve them, or if we execute them in the dirt when they can't fight back... then we become exactly like them, Ellie. We become the monsters. We win the battle by surviving, but we win the war by being better than them. We hold ourselves to a standard they don't even understand."
+
+Ellie stared at her father. Her highly structured, neurodivergent brain processed the moral logistics. The rules of engagement weren't just about neutralizing a target; they were about maintaining the honor of the unit. The Colton family had rules. Apex did not. Therefore, the Colton family was superior.
+
+The heavy skepticism finally melted from her face. She dropped her arms, giving her father a single, firm, deeply respectful nod.
+
+"Good rules," Ellie decided. "We feed them."
+
+Behind her, Nora let out a soft, breathy sigh of relief, her highly empathetic heart perfectly aligned with the concept of mercy. She guided Leo's shaking index finger down to his ruggedized AAC tablet resting in his lap.
+
+Leo slammed his palm against the bright blue square.
+
+*"Safe,"* the tablet's automated voice announced clearly into the living room.
+
+"Exactly, buddy," Wyatt smiled, his chest aching with a fierce, overwhelming pride for his children. "We keep them safe from the forest, and we keep the forest safe from them."
+
+Wyatt stood back up, letting out a long, heavy exhale. He walked over to the sofa, leaning down to kiss Sarah deeply before ruffling Jack's dark hair.
+
+"You handled that perfectly," Sarah murmured, her dark eyes shining. "But Ellie brings up a very valid long-term logistical point, Wyatt. What exactly are we going to do with High Director Kael? Apex is a totalitarian dictatorship on Acheron. They don't have a functioning democratic government. There is no one to negotiate a prisoner exchange with. We can't keep the ruler of a galactic empire in our basement for the next forty years."
+
+Wyatt frowned, dragging a heavy hand down his bearded jaw. The S.H.O.P. Marine knew how to run a holding cell, but he wasn't a planetary warden.
+
+He looked up at the ceiling array.
+
+"Aria. Run a geopolitical diagnostic on the current state of the galaxy," Wyatt instructed. "If Apex Defense Solutions is essentially a rogue fascist state, who actually has the legal, recognized jurisdiction to put High Director Kael on trial for the destruction of Earth?"
+
+The server towers on Sub-Level 3 hummed softly.
+
+"Cross-referencing intercepted subspace transmissions and global diaspora records," Aria’s synthesized voice echoed through the living room. "Following the catastrophic mantle fracture of Earth in 2044, the surviving governments of the United Nations and the Global Defense Coalition successfully evacuated to the staging flotillas beyond the Lunar orbit."
+
+"They survived," Sarah breathed, a wave of profound relief washing over her. They had read the final dot-matrix printouts six years ago, but hearing that the remnants of humanity were still actively organized was incredibly grounding.
+
+"Affirmative, Sarah," Aria continued. "Those staging flotillas have since consolidated into a nomadic, heavily armed sovereign coalition known as the Earth Remnant. And according to their open-air judicial broadcasts, they have issued a galaxy-wide, Class-1 Tribunal Warrant for High Director Kael and the executive board of Apex Defense Solutions, charging them with planetary genocide and crimes against humanity."
+
+Wyatt’s dark eyes lit up with a slow, deeply satisfied, predatory gleam.
+
+He didn't have to be Kael's judge, jury, or executioner. The High Director had burned his own planet to the ground to hide a mistake, and the people who had lost their homes were actively looking for him.
+
+"Aria," Wyatt rumbled, crossing his massive arms over his chest. "Where is the nearest Earth Remnant deep-space tribunal outpost?"
+
+"The closest verified Coalition staging ground is located in the Perseus Arm, approximately three standard FTL jump-cycles from our current coordinates," Aria calculated.
+
+Wyatt looked down at Sarah. The terrifying ghost of the megacorporation had haunted them for six years. They had stolen a dreadnought, fortified a mountain, and built an impenetrable energy shield just to keep Apex away from their children.
+
+Now, the Sovereign of Acheron was tied up in their basement.
+
+"Well, Mrs. Colton," Wyatt smiled, the heavy, lingering weight of their corporate trauma finally, permanently lifting from his shoulders. "I think once the High Director wakes up and answers a few of my questions... we're going to package him up in a stasis pod, fire up *The Nomad*, and personally deliver him to the people he tried to exterminate."
+
+Sarah’s face broke into a massive, brilliant smile. She reached out, gripping his taped hand tightly.
+
+"I think the Earth Remnant would be very happy to see him," Sarah agreed fiercely.
+
+The Vanguard was briefed. The moral high ground was completely secured. And Wyatt Colton was finally ready to walk down to Sub-Level 5 and introduce himself to the dictator who had accidentally handed him the greatest life in the universe.
+

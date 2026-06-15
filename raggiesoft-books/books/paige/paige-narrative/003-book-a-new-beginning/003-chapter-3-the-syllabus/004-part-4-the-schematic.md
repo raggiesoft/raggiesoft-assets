@@ -1,0 +1,36 @@
+# Part 4: The Schematic
+
+## Monday, June 23, 2003 14:00 PM
+
+The silver Avalon crunched into the gravel driveway of **105 Pepper Street**. The house was quiet, the air conditioner humming its steady, protective rhythm.
+
+They unloaded the cargo. Jessica carried the bag from the Bursar’s office (receipts and paperwork). Paige carried the PolyPasses. Freddie carried the books.
+
+He walked straight to the living room and sat on the beige carpet, using the coffee table as a desk. He pulled the heavy, glossy textbook out of the bag. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Weight:** 4.2 lbs. **Status:** The Manual.
+
+He cracked the spine. The smell of new paper and binding glue wafted up—a sensory input he usually loved. He skipped the Preface. He skipped the Introduction. He went straight to Chapter 3: Anatomy and Physiology.
+
+Jessica and Paige sat on the sofa behind him, kicking off their shoes. "How is the data?" Jessica asked, opening a can of soda.
+
+"The diagrams are... two-dimensional," Freddie noted, tracing a line drawing of the female reproductive system with his finger. He frowned. The diagram was a cross-section. It was color-coded (pink for muscle, blue for veins, yellow for nerves), but it looked like a map of a subway system, not a biological entity.
+
+He looked up at the TV, which was off. He looked at the VCR. When he learned to wire the entertainment center, he didn't just look at the diagram in the manual. He looked at the ports on the back of the device. He traced the cables. He verified the input/output physically. *Theory is useless without verification.*
+
+He turned around to face his sisters. He held the book up, pointing to the diagram. "This schematic," Freddie stated, tapping the page. "It represents the internal and external architecture. But it is an abstraction. It is a drawing."
+
+"It is," Paige agreed. "It is a model."
+
+"I have difficulty translating 2D models into 3D reality without a reference point," Freddie admitted. "The 'Robert Virus' says looking is wrong. But the 'Science Class' protocol says verification is necessary."
+
+He looked at Jessica. "If we are to demystify the hardware... if I am to understand the mechanics so I do not freeze up or react with error..."
+
+Jessica set her soda down. She understood the request immediately. It wasn't about gratification. It was about calibration. He was an engineer trying to understand the engine. "You want to compare the schematic to the actual unit," Jessica stated flatly.
+
+"Affirmative," Freddie whispered. "Visual confirmation only. To map the vocabulary to the reality."
+
+Jessica looked at Paige. Paige nodded. She didn't look scared. She looked like she was ready to help him study for a test. "It is just biology, Freddie," Paige said. "We promised. No secrets. No shame."
+
+"Okay," Jessica said, standing up. She walked over to the windows and adjusted the blinds, ensuring they were fully closed. The room dimmed. "Class is in session," Jessica announced. "Bring the book."
+
+**\[NARRATIVE GAP: CLINICAL OBSERVATION & INSTRUCTION\]** *Time Elapsed: 45 Minutes*
+

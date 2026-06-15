@@ -1,0 +1,32 @@
+# Part 6: The First Boundary (Late Summer 1999)
+
+A few weeks into their inseparable summer, after a long afternoon spent exploring the creek behind their houses, Alex, Chloé, and Megan were settled in the Masons' living room. The sun was beginning to set, and Sophie Mason came in from the kitchen, a gentle but purposeful look on her face. She paused by Chloé's chair.
+
+"*Chloé, ma belle, il est temps,*" she said quietly, her Québécois French a private, mother-daughter code. (Chloé, my sweet, it's time.)
+
+Chloé looked up from the book she was reading aloud and gave a small, understanding, but slightly weary nod. "Okay, Maman." She turned to Alex, carefully switching to English, her voice taking on a gentle, reassuring tone. "Hey, I've got to... go do something for a little while. I'll be back."
+
+She started to get up, but a look of immediate, sharp anxiety flashed across Alex's face. His world, which had felt so calm and centered, suddenly tilted. She was leaving. He didn't understand why. His hands, which had been resting in his lap, began to fidget.
+
+WHERE ARE YOU GOING? his AAC device voiced, the synthesized English a little sharper than usual.
+
+"I just... I have to go to the bathroom for a bit," Chloé said, trying to keep her voice light.
+
+I CAN WAIT OUTSIDE, he typed immediately. The thought of her being behind a closed door, separated from him, was a new and deeply unwelcome feeling.
+
+Megan, who had been quietly reading on the other end of the sofa, saw his distress and immediately moved closer. She sat beside his wheelchair and put a firm, grounding arm around his shoulders. "It's okay, cuz," she said softly. "I'm right here. I'm not going anywhere."
+
+Alex leaned into his cousin's familiar, comforting hug, but his anxious gaze was still fixed on Chloé. WHY? his device asked, the question simple but full of a genuine, hurt confusion. *Why do you need to be away from me?*
+
+Chloé knelt in front of his wheelchair, her expression full of a patience that was far beyond her fourteen years. She took his free hand, stilling its nervous movement.
+
+"Alex, look at me," she said softly. "It's... it's a private girl thing. Something I have to do. By myself. It has nothing to do with you, I promise. It's just my own routine."
+
+She saw the fear and confusion still swirling in his eyes. She had to rely on the trust they had already built.
+
+"I know this is hard for you," she said, her voice full of an empathy that validated his feelings completely. "And I hate that it makes you feel anxious. I really do. But I need you to trust me. I will be in the bathroom, and I will be back in exactly thirty minutes. I promise."
+
+She gave him a final, fierce, grounding hug, the kind she knew helped to quiet the static in his mind. "I'll be right back," she whispered.
+
+She stood up and walked to the bathroom, closing the door softly behind her. Alex was left in the living room, the echo of her promise in his ears. He was still anxious, his body still humming with a nervous energy. He hated the feeling of separation, even with Megan's arm wrapped securely around him. He leaned heavily into his cousin's embrace, letting her cuddle him, a silent anchor in his moment of deep unease. He trusted Chloé more than he feared being alone. And so, with Megan's steady presence beside him, he waited.
+

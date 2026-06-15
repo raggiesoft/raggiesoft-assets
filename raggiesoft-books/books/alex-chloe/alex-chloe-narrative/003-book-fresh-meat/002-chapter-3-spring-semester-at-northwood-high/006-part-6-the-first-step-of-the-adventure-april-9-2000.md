@@ -1,0 +1,29 @@
+# Part 6: The First Step of the Adventure (April 9, 2000)
+
+The morning after their birthday party was quiet and slow. After waking up at the Masons' house, Alex and Chloé had made their way back across the lawn to the Millers' for a big, celebratory Sunday breakfast. The six of them were gathered around the kitchen table, the two families now an inseparable unit, enjoying Emily's famous pancakes and the easy, comfortable chatter that had come to define their time together.
+
+The conversation naturally turned to the events of the previous evening.
+
+"That was a wonderful party," Sophie said, a warm smile on her face. "It was so good to see your family, James, Emily. And to see our two birthday kids so happy."
+
+James nodded, looking first at Chloé, then at his son. "It really was. And Chloé," he continued, "what you said to Alex last night, about taking a trip up to see your home... your mother and I have been talking. We think it's a fantastic idea."
+
+Alex looked up from his plate, his heart giving a hopeful leap. Chloé, sitting beside him, broke into a wide, excited grin.
+
+Emily reached across the table and placed her hand on Alex's. "Alex, honey," she began, her voice full of gentle purpose, "if we're going to make that amazing adventure happen this summer, there's a very important and official first step we all need to take."
+
+"We need to get our passports," James stated, his tone making it clear this was no longer a hypothetical wish, but the start of a real plan. "All three of us. You, me, and your Mom."
+
+The reality of it hit Alex with a happy jolt. This wasn't just a dream Chloé had spun anymore. It was real. They were really going. Passports. The word itself felt so adult, so full of the promise of travel and new experiences.
+
+PASSPORTS? FOR REAL? he typed, his excitement palpable. WE’RE REALLY GOING TO CANADA?
+
+"For real," Thomas Mason confirmed with a chuckle from across the table. "You can't get into my wife's home country without the proper paperwork, you know."
+
+"We'll have to get your official photos taken this week, Alex," Emily explained. "And then next Saturday, we can all go down to the post office together to submit the applications. It has to be done in person for a first-time application for a minor."
+
+Chloé was practically vibrating with excitement. "This is really happening! We have to start making a list of all the places I need to show you!" she exclaimed. "Oh! We're going to need so much film for the camera!"
+
+The parents all laughed. The plan, born from a quiet, heartfelt conversation between two best friends at the end of a long and wonderful day, was now in motion. The passport application wasn't just a bureaucratic chore; it was the official, tangible beginning of their next great adventure together.
+
+

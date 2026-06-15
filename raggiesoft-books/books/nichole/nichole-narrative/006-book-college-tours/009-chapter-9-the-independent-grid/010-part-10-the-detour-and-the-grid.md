@@ -1,0 +1,120 @@
+# Part 10: The Detour and The Grid
+
+## **Date:** November 15, 2003 **Time:** 2:15 PM **Location:** The Braxton Link (Sub-University Avenue)
+
+The wind outside had shifted from a brisk autumn chill to a howling gale.
+
+Deep underground, walking through the climate-controlled corridors of The Braxton Link, the twins only knew the weather had turned because of the digital service boards.
+
+As they emerged from the tunnels into the main Concourse Level (Level C) of the Narragansett Esplanade Station, a red banner flashed across the Solari departure board: **SERVICE ALERT: HARBOR FERRY SUSPENDED DUE TO HIGH WINDS.**
+
+Patrick stopped the wheelchair. He looked at the board, then down at Nichole.
+
+Six months ago, a suspended transit line would have meant a panic attack, a frantic call to Uncle Mark for a rescue mission, and the humiliating feeling of being stranded.
+
+Today, Patrick just pulled a folded paper schedule out of his back pocket.
+
+"Okay, Nikki," Patrick said calmly. "The Newport Flyer is grounded. So we take the long way around the bay. We need to get up to Braxton Central to catch the OSTA Route 14. That means we need the Sky Platform."
+
+Nichole tapped her screen. **"ROUTING."**
+
+They rolled over to the fare gates. Patrick held up Nichole’s BTA Zone 15 RegionLink smart card and tapped it against the glowing blue reader. He tapped his own. The gates parted.
+
+They took the massive glass elevator up to **Level 2: The Sky Platform**. Stepping out of the elevator, they felt the station's architectural power. The elevated viaduct ran parallel to the coastline, offering a dramatic view of Narragansett Bay through the floor-to-ceiling glass walls. The water was churning with whitecaps, confirming the ferry suspension.
+
+An **ARTS Northeast Regional** train glided into the station. It was the 2:30 PM train heading north to the city, and under the BTA/ARTS agreement, local riders could board the intercity trains for one-stop hops within the metro area.
+
+The doors slid open. Because the platform was raised to match the floor height of the coaches perfectly, there was 100% level boarding. Patrick pushed Nichole straight on—no bridge plates, no ramps.
+
+When the conductor came through, Patrick didn't buy a ticket. He just held up their BTA LinkPasses. Since they were in the Coach section, the conductor simply nodded; no upgrade fee was required for the one-stop ride to Braxton Central Terminal.
+
+At **2:45 PM**, the ARTS Northeast Regional train didn't glide into a glass cathedral. It rumbled into a construction site.
+
+**Braxton Central Terminal** was midway through a massive, billion-dollar modernization project scheduled for completion in 2005. The "Glass Cathedral" the brochures promised was currently a skeleton of raw steel and orange safety netting.
+
+As the train decelerated, Patrick and Nichole looked out the window. They weren't underground, but they weren't in a finished station either. They were on a temporary wooden platform built adjacent to the future **Level 5 Sky Deck**. To their left, the massive steel ribs of the future glass tube soared into the sky, unglazed and open to the freezing wind.
+
+Sparks showered down from a welder working on a girder sixty feet above them. The air didn't smell like ozone and floor wax; it smelled of wet concrete, diesel fumes, and acetylene torches.
+
+"Watch the gap," the conductor warned as the doors opened.
+
+Patrick pushed Nichole off the train and onto the temporary plywood decking. The wind whipped through the open steel skeleton, rattling the plastic sheeting that acted as a wall.
+
+They rolled toward the center of what would one day be the Grand Concourse. Right now, it was a dizzying abyss. Looking down through the gaps in the steel, Patrick could see excavators digging in the mud 120 feet below, carving out the future subterranean hall of **Level 1—"The Deep."**
+
+"It's a skeleton," Patrick shouted over the roar of a jackhammer. "It's going to be incredible in two years, but right now it's a mess."
+
+Nichole adjusted her scarf. She looked at the chaos—the cranes, the workers in hardhats, the temporary wayfinding signs spray-painted on plywood. It wasn't pretty, but it was active. It was a machine being built in real-time.
+
+They navigated the "maze"—a narrow, plywood-walled corridor marked **TEMPORARY ACCESS TO BUS TERMINAL**. There were no glass elevators yet. Instead, they took a rattling, industrial freight elevator operated by a union worker who waved them in with a grimy glove.
+
+"Going down to street?" the operator asked, chewing a cigar.
+
+"Bus terminal," Patrick said.
+
+The elevator clanked down to the street level. They rolled out into the temporary bus bays—a series of jersey barriers and canvas tents set up amidst the construction equipment.
+
+"Switching networks," Patrick announced, pulling his collar up against the wind.
+
+The BTA passes were useless here; OSTA and BTA were agency "frenemies" and did not share fare products. As the white-and-blue **OSTA Route 14** bus pulled into the temporary Bay 8, Patrick and Nichole flashed their laminated OSTA Monthly Passes to the driver.
+
+Route 14 was the "Braxton Express," the vital bus bridge connecting the city to the Wickford Junction void. The bus roared north up the US-1 corridor, leaving the steel skeleton of the future station behind.
+
+An hour later, at **3:50 PM**, it pulled into the major regional transit hub: the **I-895 Jamestown Bridge Park & Ride**.
+
+They were dropped off in the freezing wind, but only for ten minutes. This was the border checkpoint where the state's regional routes converged. At the adjacent bays were the other lifelines: Route 12 (connecting Newport to PVD Airport and Providence) and Route 64 (connecting Newport to Rhode Island State University and Kingston Station).
+
+**OSTA Route 64**, running its 90-minute cycle, pulled into the lot. They boarded at **4:00 PM**, flashing their OSTA passes again for the trip across the bridges toward Newport.
+
+Now came the hardest physical test of the day: **Interstate 895**. The highway over the bay was known as "The Waiver," four narrow lanes squeezed onto a bridge deck designed for three, with zero shoulders and a strict 45 MPH speed limit. The bus was buffeted by the high winds as it crossed the Jamestown Bridge and the towering Newport Bridge, the massive suspension cables groaning in the gale.
+
+Nichole didn't flinch. She watched the churning grey water below. The system was holding.
+
+By **4:45 PM**, they were at the **Newport Gateway Center**.
+
+They transferred one last time to the **OSTA Route 60**. Patrick made sure the electronic sign read **60 PROVIDENCE VIA WEST MAIN**.
+
+As darkness fell completely, the bus rolled through Portsmouth.
+
+"Next stop, Willow Lane," the automated voice called out at **5:15 PM**.
+
+The bus kneeled into the gutter across the street from 95 West Main Road. The wind was whipping dead leaves across the asphalt.
+
+Patrick pushed Nichole down the ramp onto the sidewalk. The bus roared away into the dark.
+
+For the first time all day, they faced a physical obstacle: crossing a four-lane, 45 MPH state highway in the dark, in the wind, in a wheelchair.
+
+Patrick rolled Nichole up to the metal pole on the corner.
+
+"Your honor," Patrick said, gesturing to the button.
+
+Nichole reached out. Her hand was cold, but it didn't shake. She pressed the silver button.
+
+Immediately, the newly installed traffic signal above them turned yellow, then solid red. Traffic on West Main Road screeched to a halt. The pedestrian sign illuminated the glowing white walking figure, and an audible chirp began to sound for the visually impaired.
+
+Uncle Mark had fought the Rhode Island Department of Transportation for three months for this signal.
+
+Patrick pushed her into the crosswalk. They rolled across the asphalt, up the curb cut on the other side, and directly onto the concrete pathway leading to the front ramp of the house.
+
+The heavy front door opened before they even reached the porch.
+
+Uncle Mark stood in the doorway, the warm, yellow light of the house spilling out behind him. The air blowing out from the hallway didn't just feel warm; it carried the rich, savory scent of a slow-cooked pot roast and freshly baked bread.
+
+"Ferry got canceled, huh?" Mark called out over the wind.
+
+"Wind speeds exceeded maritime safety limits," Patrick reported, pushing Nichole up the ramp and into the warm hallway. "We audibled to the BCT interchange, took the Route 14 to the Route 64 across the bridges, and transferred to the 60."
+
+Mark closed the door, sealing out the wind. He looked at the twins. They had traveled over seventy miles, navigated three different transit agencies, successfully changed their routing on the fly, and arrived home without making a single distress call.
+
+Mark looked down at Nichole. "How'd it hold up, Nikki?"
+
+Nichole looked at the glowing elevator doors down the hall, and then up at her uncle.
+
+She tapped her screen.
+
+**"I. GOT. INTO. COLLEGE."**
+
+Mark smiled. He clapped Patrick on the shoulder.
+
+"Damn right you did," Mark said. "And your mom has had a pot roast in the oven for five hours just waiting for you two. Let's go eat and do the debrief."
+

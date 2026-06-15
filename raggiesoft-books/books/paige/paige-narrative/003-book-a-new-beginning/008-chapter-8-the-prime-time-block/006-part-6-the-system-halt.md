@@ -1,0 +1,70 @@
+# Part 6: The System Halt
+
+## Tuesday, July 15, 2003 10:15 AM
+
+The silence in the living room had stretched on for fifteen minutes. It was peaceful, but Jessica, ever the manager, felt the urge to introduce a new variable.
+
+She picked up the remote control from the armrest of the recliner.
+
+"Maybe some background noise?" Jessica suggested softly. "WNRV usually runs old cartoons right now. Something low impact."
+
+She pressed the power button.
+
+*Click.*
+
+The **MagnaView** screen crackled to life. A burst of static was followed immediately by the bright colors and frantic orchestral score of a chase scene.
+
+It wasn't loud—Volume 12—but it was sudden.
+
+On the sofa, Freddie reacted instantly. He didn't just flinch; he engaged the **Emergency Brake**.
+
+He turned his head sharply away from the screen, burying his face directly into the soft cotton of Paige’s t-shirt, pressing his forehead hard against her stomach. His entire body went rigid, his legs locking into a curled position. He gripped the fabric of Paige’s shorts with a white-knuckled intensity.
+
+It was a full stop. A rejection of all external input.
+
+"Off," Paige whispered, her hand immediately going to the back of his neck to shield him. "Jessica, kill it."
+
+Jessica didn't hesitate. She hit the power button.
+
+*Click.*
+
+The TV died. The room plunged back into silence.
+
+"My bad," Jessica murmured, setting the remote down as if it were a loaded weapon. "Input rejected."
+
+She looked at Freddie. He hadn't relaxed. He was still buried in Paige's lap, hiding from the world. His breathing was shallow.
+
+"Battery check?" Jessica asked quietly.
+
+Paige shook her head. "One percent," she estimated, running her hand down his spine in a slow, firm massage. "Maybe less. The nightmare really drained him. He's running on fumes."
+
+Jessica sighed. She looked at the bowl of dry Honey Oat Rings sitting on the floor. Freddie hadn't touched them in ten minutes.
+
+She stood up and walked over to the sofa. She picked up the bowl and placed it on the coffee table, right next to his head. It was a strategic move—he wouldn't have to sit up to reach it. He could just reach out a hand.
+
+"Fuel is staged," Jessica said. "If you want it."
+
+Freddie didn't move. He didn't reach for the cereal. The Emergency Brake was applied, and the wheels were locked. He wasn't eating. He wasn't watching TV. He was just holding on.
+
+Jessica sat back down in the recliner. She glanced at the stack of textbooks on the floor—*Human Sexuality*, *Intro to Astronomy*.
+
+"We have reading to do," Jessica noted, mostly to herself. "The Physiology chapter is dense. Dr. Thorne expects us to know the endocrine system by Wednesday."
+
+Paige looked at the books, then down at Freddie. "Not right now," she said softly. "The server is down for maintenance. If we try to run a complex program like 'Endocrine Systems' right now, he'll crash."
+
+"I know," Jessica agreed. She leaned back, pulling her legs up into the chair.
+
+She looked at the three of them.
+
+They were in their "Safe Mode" uniforms—flannel, jersey cotton, worn-out t-shirts. No bras, no jeans, no shoes. They were soft. They were vulnerable.
+
+But they were together.
+
+"We wait," Jessica decided. "We have twenty-four hours until the next class. We spend as many of them as he needs right here."
+
+Paige continued the massage, her thumb working a knot out of Freddie’s shoulder blade. Freddie let out a tiny, shuddering breath against her stomach, the first sign that the brake might be easing, just a fraction.
+
+"We're here," Paige whispered to him. "Nowhere to go. Just us."
+
+The homework sat on the floor, ignored. The TV stared blankly at them. But in the quiet room, the most important work was already being done. The Unit was holding the line until the Captain could come back online.
+

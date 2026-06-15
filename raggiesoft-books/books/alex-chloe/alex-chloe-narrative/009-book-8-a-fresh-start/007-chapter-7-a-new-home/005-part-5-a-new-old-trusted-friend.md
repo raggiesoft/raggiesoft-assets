@@ -1,0 +1,25 @@
+# Part 5: A New (Old) Trusted Friend 
+
+A few months into their first semester back at CCHR, the small apartment across from the campus had become a true sanctuary. One evening in April, it was also a bustling study hall. The three of them—Alex, Chloé, and their new friend, Sarah Jenkins—were spread out around the living room, surrounded by textbooks and notebooks, preparing for their shared statistics final. The mood was one of comfortable, collaborative focus.
+
+Just after six, the front door opened, and Megan Carter walked in, looking tired but happy after a long in-office day at her new job.
+
+"Hey, team," she said, dropping her work bag by the door. "Smells like someone's been hitting the books hard. I brought pizza."
+
+"Megan, you're a lifesaver," Chloé said, looking up from her notes with a grateful smile. "We were just about to give up and order one ourselves."
+
+Alex’s face lit up the moment he saw his cousin. He wheeled over to her, and she met him halfway, leaning down to give him a big, familiar hug. As she pulled back, Alex’s gaze shifted to Sarah, who was watching the exchange with a warm, friendly smile.
+
+This was it. The moment. Alex looked at Sarah, then back at Megan. He knew, with a quiet, certain instinct, that this was the right time.
+
+SARAH, his Quantum Communicator XT voiced, its tone clear and proud. I WANT YOU TO MEET SOMEONE. THIS IS MEGAN CARTER. SHE IS MY FAVORITE COUSIN. He paused, his gaze full of a profound, uncomplicated love as he looked at Megan. AND MY MOST FAVORITE WOMAN IN THE WHOLE WIDE WORLD.
+
+Chloé watched the exchange, a quiet, knowing smile on her face. The test had been deployed.
+
+Sarah's smile didn't falter for a second. It widened, full of a genuine, heartfelt warmth. She stood up and extended a hand to Megan. "It is an absolute honor to finally meet you, Megan," she said, her voice full of sincere respect. "Anyone who holds that kind of place in this man's heart must be a truly extraordinary person. He's told me so much about you."
+
+Megan, in turn, looked at Sarah, at the pure, uncomplicated sincerity in her eyes, and she knew instantly. *She gets it*, Megan thought, a wave of profound relief and approval washing over her. She took Sarah's hand, her own grip firm and welcoming. "It's great to meet you, too, Sarah. Alex has told me a lot about you, too. All good things."
+
+The test had been passed with flying colors. The last, crucial piece of their new, healthy social life had just clicked into place. They spent the rest of the evening eating pizza on the floor, laughing and quizzing each other for their exam. Sarah Jenkins was officially in. She had been welcomed into the fortress, not as a threat, but as a trusted and valued new ally.
+
+

@@ -1,0 +1,69 @@
+# Part 11: Return to The Sanctuary – Friday, October 21, 2044 – ~13:30 (Setting up camp in the abandoned break room)
+
+Wyatt lay in the dim, quiet shadows of the barricaded break room, their abrasive black Apex armor and crisp slate-blue Helios uniform hastily arranged into a makeshift pallet on the floor. The heavy, industrial roar of Sector 4 was nothing more than a muffled vibration in the floorboards.
+
+Sarah was resting fully against his chest, her bare skin warm against his. The adrenaline and the desperate, fiery passion of the last hour had slowly melted into a deep, profound peace. She traced a slow, idle circle over his collarbone, her breathing steady and relaxed. She didn't just feel physically close; she felt completely, entirely anchored to him. In his arms, the terror of the Nevada facility simply ceased to exist. She felt utterly safe. She felt secure.
+
+In the quiet dark, the remaining walls completely came down. They both finally opened up, laying out the raw, unedited stories of how they had ended up hundreds of feet underground, cut off from a normal life.
+
+"It was just me," Sarah whispered, her voice echoing softly in the empty room. "My parents passed away a few years ago. I didn't have any siblings to call, no aunts or uncles to take me in. And I didn't have a boyfriend to help share the load. When the money dried up, the Helios recruiter was the only one offering a roof."
+
+"A thirty-inch mattress on a concrete floor," Wyatt replied quietly, his taped hand gently stroking her hair.
+
+"It was a bed," she murmured. "I had nothing else."
+
+"I know exactly how that feels," Wyatt told her, his voice a low rumble vibrating against her cheek. "I'm an only child, too. No parents left, no wife, no girlfriend waiting for my contract to end. Just a guy bouncing from one deep-sea rig to the next because it didn't matter where I was. Nobody was looking for me."
+
+"I'm looking for you now," she said softly, lifting her head just enough to press a tender, lingering kiss to his jaw.
+
+As they lay there, the conversation naturally shifted away from the grim reality of Apex Defense Solutions and toward the things they used to do to escape the loneliness back home. Wyatt quickly discovered a bizarre, perfect alignment in how they both saw the world.
+
+She told him how she used to cope with the silence of her empty apartment by playing archived audio broadcasts—vintage 1980s synth-anthems and heavy classic rock guitar riffs. Wyatt laughed quietly, admitting that he had spent his teenage years wiring together salvaged tech just so he could watch digitized files of old 1980s fantasy-adventure movies—the dark ones with the practical puppet monsters, cursed swamps, and labyrinth mazes.
+
+Sarah’s eyes lit up. She immediately countered by nerding out over archived 90s television, specifically those eccentric, rapid-fire science education shows featuring guys in lab coats and weird sidekicks in giant animal suits. It was a wildly specific, incredibly nostalgic connection. They were two blue-collar survivors who found comfort in the exact same retro media, entirely out of place in a hyper-corporate, futuristic meat grinder.
+
+Eventually, the chill of the abandoned room began to creep over their bare shoulders.
+
+"We should probably get cleaned up," Wyatt murmured, brushing a strand of hair out of her eyes.
+
+Sarah nodded, but as he started to sit up, she tightened her grip on his arm. "Don't close the door," she said, her voice suddenly carrying a note of absolute certainty. She looked up at him. "Actually... come with me."
+
+Wyatt didn't hesitate. They had spent their entire lives isolated; neither of them had any desire to put a wall between them tonight, even for five minutes.
+
+They both stood up and walked into the small, dusty executive washroom. They stepped into the rusted fiberglass tub together. Sarah turned the squeaking valve, and the freezing, iron-smelling water hit them both. It was cramped, cold, and the plumbing groaned in protest, but washing the grime and sweat of Sector 4 off each other in the tiny stall was incredibly intimate.
+
+After Wyatt shut the water off, they dried off with the scratchy, company-issued towels they had pulled from their canvas duffel bags. The last shreds of awkwardness completely evaporated as they simply took turns using the rusted toilet, utterly comfortable with the raw, human reality of surviving together.
+
+As they stepped back out into the break area to set up camp, Sarah noticed a rusted, half-open metal locker tucked into the shadows beside the vending machine. Curious, she stepped over and pulled the squeaking door wide.
+
+Inside, collecting years of pale Nevada dust, hung a complete female S.H.O.P. Marine uniform.
+
+Wyatt walked over, shining his flashlight on the heavy, black-and-hazard-yellow armor. It was an older issue, the stiff fabric practically mummified by disuse.
+
+Sarah reached out, brushing the thick layer of dust off the chest plate. She froze, her breath catching in her throat. Stitched right over the right breast pocket was a faded, blocky nametape: *HAYES*.
+
+Wyatt stared at it, a slow, disbelieving smirk crossing his face. It was a massive, impossible coincidence. Some poor contractor with the exact same last name had been stationed in this sector years ago, leaving her spare gear behind to rot.
+
+Sarah didn't hesitate. She grabbed the uniform off the hook. She shed her bright, slate-blue Helios uniform, folding it up and shoving it deep to the bottom of her canvas duffel bag. She pulled on the stiff black cargo pants and the heavy utility shirt. It was one size too small, the fabric pulling tight across her shoulders and hips, but she managed to make it fit. She zipped up the front, adjusting the heavy collar.
+
+"At least I look like a S.H.O.P. Marine now," Sarah murmured, looking down at the heavy armor, then back up at him. "I just hope nobody says anything about the fit."
+
+"They won't," Wyatt assured her, his eyes dragging appreciatively over the tight black uniform before he met her gaze with a protective warmth. "And if they do, they'll have to deal with me."
+
+With the uniform crisis miraculously solved, Wyatt pulled a heavy, insulated Apex deployment sleeping bag from his duffel, spreading it out over the cracked vinyl sofa and tossing a couple of thin foam pillows at the head.
+
+Before he settled in, he walked over to the heavy blast door. He gripped the decommissioned steel pipe he had wedged under the handle and threw his entire body weight against the door. It didn't yield a millimeter.
+
+"It's secure," he told her, turning around. "Nobody is getting in."
+
+Sarah was already sitting on the edge of the sofa, watching him with a soft, affectionate smile. "Come here," she said.
+
+Wyatt walked over and climbed into the sleeping bag with her. It was a single-person bag laid over a narrow sofa. To make it work, they had to completely entangle themselves. He took the outside edge, keeping his broad frame between her and the rest of the room, while Sarah tucked her head under his chin, her leg thrown over his, her arms locked around his waist.
+
+It was exactly as cramped as the thirty-inch Twin XL mattress back in Barracks 4.
+
+But as Wyatt pulled the heavy zipper up, enclosing them both in the shared warmth, the context was entirely different. They weren't two terrified strangers forced together by corporate cruelty. He was holding the woman he loved, hidden away in a secret sanctuary that belonged entirely to them.
+
+Sarah let out a long, contented sigh against his chest, her breathing already starting to slow. Wyatt wrapped his arms completely around her, resting his cheek against the top of her head, and let the exhaustion of Day 2 pull him down into the dark.
+
+

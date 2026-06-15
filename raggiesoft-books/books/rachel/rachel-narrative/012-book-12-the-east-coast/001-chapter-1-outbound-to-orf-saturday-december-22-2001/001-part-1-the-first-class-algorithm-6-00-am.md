@@ -1,0 +1,64 @@
+# Part 1: The First Class Algorithm – 6:00 AM
+
+(Note: The following section shifts the narrative perspective to Rachel’s point of view, focusing on her sensory experiences and internal processing.)
+
+The hydraulic brakes of the TAPS Route 194 bus exhaled a loud, sharp hiss, echoing violently against the concrete drop-off curb of the Seattle-Tacoma International Airport.
+
+I hated that sound. It was sudden and unpredictable, an acoustic spike that made the muscles in my neck completely lock up. But as the bus doors opened, spilling us out into the freezing, gray Pacific Northwest morning, I didn't cover my ears. I couldn't.
+
+Both of my hands were clamped tightly around the textured rubber push-handles of Jessica’s wheelchair.
+
+Jessica did not need me to push her. Her upper body strength was formidable, and she was fiercely independent when navigating the friction of the adult world. She could easily propel her manual chair up the concrete ramps and through the automatic doors.
+
+But today, my hands on her chair was a mandatory, non-negotiable rule.
+
+"You are the engine today, Rachel," Jessica had instructed me the moment we stepped off the bus. "This airport is going to be a sensory nightmare. But if your hands are firmly on my chair, the crowd cannot physically separate us. You are my anchor, and I am yours. We move as a single unit."
+
+It was a brilliant algorithm. Pushing the heavy chair provided deep, regulating proprioceptive feedback into my shoulders and wrists, grounding my nervous system. And Jessica was right: as we moved through the sliding glass doors into the ticketing lobby, the sheer volume of human bodies was terrifying.
+
+It was a sea of chaotic, overlapping motion. People were rushing, shouting, and dragging heavy, squeaking luggage over the hard tile floors. National Guard soldiers stood near the pillars, holding heavy black rifles.
+
+I kept my head down, staring directly at the back of Jessica's jacket. If I looked at the crowd, the visual input would overwhelm my processor. So, I just looked at Jessica, focusing on the mechanical resistance of the wheelchair tires rolling over the grout lines in the tile.
+
+"Meridian Airlines, Rachel," Jessica said, her voice calm and authoritative, cutting right through the ambient roar of the lobby. "Turn us toward the red and blue signs."
+
+I adjusted my grip and pushed the chair to the right, navigating us toward the massive ticketing counter.
+
+My breathing was shallow. My chest felt tight. I was surviving the environment, but the ghost of my last airport experience was heavily overlaying my reality.
+
+In September, Dad had dragged me through an airport just like this. He had pulled me by the wrist, his heavy, angry strides completely ignoring my panic. He had shoved me into a tiny, suffocating middle seat in Coach. It smelled like stale coffee and his angry, nervous sweat. I had been trapped between two strangers, completely unmedicated, vibrating with a terror so deep I couldn't breathe. And the worst part, the absolute most agonizing parameter of that September flight, was the trajectory. Every single mile that airplane flew took me further away from my brother.
+
+But today, the trajectory was reversed.
+
+I pushed Jessica up to the Meridian Airlines desk. The ticket agent, a woman with a strained, exhausted smile, looked down over the high counter.
+
+"Good morning," Jessica said politely, handing over our identification and the heavy cardstock itineraries. "Checking in for the 8:00 AM flight to Chicago O'Hare, connecting to Norfolk."
+
+The agent typed rapidly on her keyboard. "Alright, Ms. Ragsdale. I see you both here. Two bags to check?"
+
+"Yes," Jessica confirmed.
+
+The agent tagged our heavy suitcases and placed them on the conveyor belt. Then, she printed our actual boarding passes and handed them down to Jessica. The paper was stamped with a large, bold **ZONE 1**.
+
+"Your First Class seating is confirmed all the way through to Virginia," the agent smiled. "You can use the priority security lane just down the hall."
+
+I blinked, my brain snagging on the data. First Class.
+
+I didn't know much about the logistics of commercial aviation, but I knew Dad always complained about the cost of tickets and how we had to sit in the very back of the plane.
+
+As I turned the wheelchair away from the counter, headed toward the security checkpoint, I leaned down slightly. "First Class?" I rasped, my vocal cords tight.
+
+Jessica looked over her shoulder at me, a highly calculated, protective smile on her face.
+
+"I remember what Dad put you through in September, Rachel," Jessica said quietly, ensuring only I could hear her. "I know how much this environment hurts you. So, I fixed the parameters."
+
+She tapped the bold lettering on her boarding pass.
+
+"First Class means we board the airplane before anyone else. We don't have to stand in a crowded aisle while people hit us with their bags. The seats are wider, so no strangers will touch you. And we are at the very front of the plane, completely isolated from the noise of the main cabin. It is a controlled environment."
+
+I stared at the boarding pass in her hand, profoundly overwhelmed by the sheer scale of her protection. She had weaponized her Quantum salary to buy a physical, acoustic barrier between me and the neurotypical world. She had engineered a sanctuary at thirty thousand feet.
+
+I gripped the rubber handles of her wheelchair tighter. The noise of the Seattle airport was still deafening, and the long, winding security line ahead of us looked exhausting, but the panic in my chest began to recede.
+
+I wasn't being dragged. I was the engine. And at the end of this algorithm, waiting for us on the other side of the country, was Michael.
+

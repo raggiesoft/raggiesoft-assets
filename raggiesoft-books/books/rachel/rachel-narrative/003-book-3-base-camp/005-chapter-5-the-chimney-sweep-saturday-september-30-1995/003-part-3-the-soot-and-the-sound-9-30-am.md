@@ -1,0 +1,28 @@
+# Part 3: The Soot and the Sound – 9:30 AM
+
+The visual threat of the adult male was mitigated by Dad's presence, but the auditory assault was impossible to block.
+
+The sweep taped a heavy plastic drop cloth over the opening of the fireplace to catch the soot, leaving just enough room to insert his tools. He flipped the switch on the industrial shop vacuum.
+
+The machine roared to life. It was a deafening, abrasive whine that instantly filled the living room, bouncing off the drywall and vibrating through the floorboards.
+
+Rachel violently flinched. The sudden, chaotic noise sent her nervous system into pure overdrive. Her hand clamped down on mine over the pillow barrier with bone-crushing force. She squeezed her eyes shut, her breathing turning rapid and shallow.
+
+I squeezed her hand back just as hard, my own pulse hammering in my ears.
+
+Then came the rods. The sweep shoved the heavy wire brush up into the flue. The sound of the stiff metal bristles violently scraping against the inside of the brick chimney was horrific. It sounded like claws tearing at the walls of the house. *Scrape. Grind. Shhhk.*
+
+Rachel let out a tiny, muffled whimper, burying her free hand deep into the thick fur on top of Baby’s head. Baby didn't flinch at the noise. He just pressed his heavy jaw tighter against the mattress, absorbing her panic like a living grounding pad.
+
+Jessica leaned forward from her floor mattress, raising her voice just enough to be heard over the roaring vacuum. "You're okay! Look at Dad! He's right there!"
+
+I opened my eyes and looked past the foot of the bed.
+
+Dad hadn't moved an inch. He was standing with his feet planted shoulder-width apart, his eyes locked on the sweep. His posture was so incredibly solid, so utterly devoid of fear, that it created a gravitational pull of safety. The scraping was loud, and the man was strange, but Dad was in control.
+
+I tapped Rachel's knuckles twice. *Look.*
+
+Rachel slowly opened her eyes. She looked past the pillows and saw Dad standing guard. The frantic, shallow heaving of her chest began to slow. The noise was still overwhelming, but the absolute terror of a physical threat melted away. The vault door of her mutism remained locked, but the panic attack was successfully aborted.
+
+For the next forty-five minutes, we lay perfectly flat against our wedges, enduring the harsh, industrial symphony of the chimney sweep. We didn't break, because the perimeter didn't break.
+

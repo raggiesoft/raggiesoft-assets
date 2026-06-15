@@ -1,0 +1,60 @@
+# Part 1: The Loophole
+
+## Sunday, June 22, 2003 09:00 AM
+
+The morning sun filtered through the blinds of 105 Pepper Street, slicing the living room into strips of light and shadow. The air conditioner hummed a steady, white-noise drone that kept the humid Virginia summer at bay.
+
+In the kitchen, the mood was quiet but stable. They were in pajamas—their soft armor against the morning. Jessica wore a worn CPI t-shirt and flannel pants. Paige was in an oversized shirt and shorts. Freddie wore his standard grey sleep pants and a fresh grey t-shirt, his orange hoodie draped over the back of his stool like a sentry.
+
+Breakfast was a sensory baseline: bowls of cereal (Honey Oat Rings) and tall glasses of chocolate milk. The high viscosity and sugar content of the milk were grounding.
+
+Freddie sat at the island, staring at the milk swirling in his glass. His throat felt tight, the muscles still locked from yesterday’s meltdown. He had not spoken since the shower. He tapped the counter twice. *Tap-tap.*
+
+"Status check," Jessica said from the sink, where she was rinsing a spoon. She turned around, leaning against the counter with a folder in her hand. "We have a logistical problem, and I found a loophole."
+
+Freddie looked up. He tilted his head. *Problem?*
+
+"Mobility," Jessica said, sliding a printout across the island. "The buses are free for students, but only if you have an active **PolyPass**. Your IDs do not activate until the Fall Semester starts in August. That leaves us stranded for two months unless we pay cash fares every single time. And I am not driving you to **Valu-Mart** for every soda run."
+
+Paige groaned into her cereal. "I am not walking to the mall in July heat."
+
+"Agreed," Jessica said. "However..." She tapped the paper. "If you are enrolled in a **Summer Session** course, your PolyPass is active immediately upon tuition payment."
+
+Freddie reached for the paper. His hand shook slightly, but he pulled it closer. *Session 1: Closed.* *Session 3: Closed.* *Session 2: July 7 – August 15.*
+
+"Session Two starts in two weeks," Jessica explained. "It is a six-week accelerated track. If we enroll, we get our IDs tomorrow. The buses become free. We get full access to the grid."
+
+Paige looked at Freddie. "That sounds good. But what class? Geology? Intro to listening to music?"
+
+Jessica straightened up. She looked from Paige to Freddie. Her expression was serious, devoid of mockery.
+
+"No," she said softly. "I think we should take **HPE 204: Dimensions of Human Sexuality**."
+
+Freddie froze. His spoon stopped halfway to his mouth. The memory of yesterday—the panic, the bathroom, the shower, the exposure—flashed through his mind. They had seen everything. They had broken the ultimate social barrier of siblings to stop him from crashing.
+
+"Look," Jessica continued, her voice clinical and calm. "We saw each other yesterday. We broke the seal. But we do not have the *data* to process it. We are scared of our own biology because Robert weaponized it. He made us think bodies were shameful."
+
+She pointed to the course description on the paper. "This class is not about shame. It is about mechanics. Psychology. Anatomy. If we take this *now*, together... we can fix the code. We can turn the 'Secret' into 'Data'."
+
+Paige looked at Freddie. "She is right, Freddie. If we wait until August, we will just be awkward for two months. If we do this... we normalize it. We learn the manual."
+
+Freddie stared at the chocolate milk. *Data.* *Normalize.* *Access to Transit.* *Repair the Unit.*
+
+He felt a grinding sensation in his throat. The vocal cords were rusty, unused for twenty-four hours. He pushed air through them. It hurt, but he needed to confirm the variable.
+
+"L..." Freddie croaked. The sound was a cracked whisper. He swallowed and tried again. "Log... ic."
+
+Paige smiled, reaching out to squeeze his forearm. "There he is."
+
+Freddie took a deep breath. "The... logic... is... sound."
+
+Jessica let out a breath she had been holding. "Okay. Good. I will handle the registration online. But we need materials."
+
+She checked her watch. "The Campus Bookstore is open today for the summer intake. If we go now, we can buy the textbooks, pick up our PolyPasses, and drop off your disability paperwork at the Dean of Students' office."
+
+"Paperwork?" Freddie whispered, his voice gaining a little more traction.
+
+"CP and ADHD," Jessica confirmed. "We have the files from Northwood. We get those in the system today so you have your accommodations for the summer class. The Autism diagnosis..." She paused. "We do not have that yet. But we will. I am working on finding a local doctor."
+
+"Okay," Freddie said. He took a long drink of chocolate milk, coating his raw throat. "Let's... execute."
+

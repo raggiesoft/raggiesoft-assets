@@ -1,0 +1,46 @@
+# Part 6: How I Met Her Mother
+
+Alex, still caught in the confusing swirl of new physical intimacy and the underlying guilt about Chloé, looked at Vera. Meet her mother? The thought sent a fresh wave of nervousness through him. This was all moving so incredibly fast. But Vera’s expectant smile, her hand still holding his, was persuasive. He was already here. And he did want to make her happy.
+
+OKAY, his Quantum Communicator XT voiced. I CAN STAY FOR A LITTLE WHILE.
+
+Vera beamed. "Wonderful! Mom will be so pleased."
+
+True to Vera's timing, the sound of a key in the front door announced her mother's arrival about fifteen minutes later. A pleasant-faced woman, perhaps in her late fifties, entered, her arms full of grocery bags.
+
+"Vera, honey, I'm home! Traffic was a nightmare over by the tunnel." She stopped short upon seeing Alex. "Oh! You have company. Hello there!"
+
+Vera rushed to help. "Mom, this is Alex. Alex, this is my mother, Robyn Kowalski."
+
+"Alex, it's so lovely to finally meet you!" Robyn’s smile was warm and genuine. "Vera's told me a little about the bright young man she met in her college class."
+
+Alex offered a polite greeting: NICE TO MEET YOU TOO, MS. KOWALSKI.
+
+"Oh, it's a pleasure, Alex," she said. "Now, you two haven't eaten, have you? Would you stay for dinner, Alex? I make a pretty decent pan-fried flounder."
+
+The offer was so normal, so... motherly. Before he could formulate a polite refusal, Vera chimed in. "That sounds wonderful, Mom! Alex would love to stay, wouldn't you, sweetie?" Trapped, Alex typed, THAT'S VERY KIND. THANK YOU.
+
+Dinner was a pleasant affair. Robyn was an easy conversationalist, asking Alex about his college courses with genuine curiosity. Vera sat close to Alex, her hand often on his arm, her gaze affectionate. Afterward, she drove him home.
+
+"Mom really liked you," Vera said as she pulled up to his curb. "See? I told you." She leaned over and kissed him deeply. "There'll be more of this, Alex. Much more."
+
+When Alex got inside, he told his parents he had met Vera's mother. "Meeting her mother already?" Emily said, a hint of maternal curiosity in her voice. "Things seem to be moving along."
+
+Later, in his room, Alex initiated a video call to Chloé. Her face filled the screen, bright and beloved, and his heart ached with a familiar pang. He told her about the class, about Vera, and about meeting her mother.
+
+"She sounds... really nice, Alex," Chloé said, and he could see the genuine happiness for him in her eyes. "I'm so glad you're meeting people. It makes me feel better knowing you're not alone."
+
+Her sincere support made the knot of guilt in his stomach tighten. IT’S GOOD, he typed, BUT IT'S NOT THE SAME AS HAVING YOU HERE. I MISS YOU A LOT, CHLOÉ.
+
+"Oh, Alex, I miss you like crazy too!" Chloé’s voice was thick with emotion. "But hey, Christmas isn't that far away. And when I come home, we'll have tons of time to catch up properly. We can sleep together in your room, just like we always did, and I can hear all about Vera then, okay? It'll be just like old times."
+
+A few houses down, Vera sat in her car, parked in the shadows. She had told Alex she was heading home, but she had simply driven around the block, a need to linger, to watch, keeping her there. His bedroom light was on, the window open slightly to the warm night air. She couldn't see the screen, but she could hear the faint, tinny sound of Chloé's voice from his computer speakers, and then Alex's synthesized reply.
+
+She heard Chloé's promise clearly through the quiet night: "...sleep together in your room, just like we always did..."
+
+Vera's warm, possessive smile faltered. Her expression became still, thoughtful. She heard Alex's device voice his final words of the call, full of an earnest longing that was unmistakable even through the speaker. I CAN'T WAIT, CHLOÉ. REALLY. COUNTING THE DAYS.
+
+Vera didn't move for a long moment after the call ended and Alex's light went out. The warmth she had projected all evening was gone, replaced by something cool and unreadable in her eyes. Without another glance at the house, she put the car in drive and pulled away from the curb, disappearing silently into the night.
+
+Inside, Alex lay in his bed, the space beside him feeling vast and empty. The comfort of Chloé's promise was a powerful solace, a steady light on the horizon. He was completely unaware of the new, complex shadow that had just been cast over it.
+

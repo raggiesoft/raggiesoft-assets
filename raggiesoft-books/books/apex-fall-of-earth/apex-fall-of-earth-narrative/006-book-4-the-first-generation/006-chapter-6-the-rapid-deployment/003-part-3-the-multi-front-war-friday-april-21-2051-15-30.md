@@ -1,0 +1,102 @@
+# Part 3: The Multi-Front War – Friday, April 21, 2051 – 15:30
+
+The Sub-Level 4 Fab-Foundry was a symphony of automated industry.
+
+Wyatt Colton was completely dialed in. He had his heavy welding goggles pulled down, a plasma cutter in one hand, and a pair of digital calipers in the other. He wasn't modifying the original Chariot; the Vanguard needed that for interior patrols. He was building an entirely new tactical transport from the ground up.
+
+"Aria, what’s the tensile strength on the new axle assembly?" Wyatt grunted, cutting a precise angle into a piece of salvaged titanium.
+
+"The new alloy is rated to withstand a localized impact of four thousand pounds per square inch, Administrator," Aria chimed. "The independent coil-over suspension will entirely mitigate the jarring sensory feedback Subject C experienced during the previous excursion. The pneumatic, deep-tread tires will provide optimal traction for Subject B."
+
+Wyatt nodded, satisfied. He was building a tank for his children.
+
+Upstairs on the residential level, however, Sarah was fighting a completely different kind of battle.
+
+The nursery was dimly lit, the localized ambient temperature raised to a comfortable 74 degrees.
+
+Jack Colton, the robust, rapidly developing sixteen-month-old, was currently miserable. He was lying in his standard crib, his face flushed, a steady stream of clear mucus running from his nose. He let out a wet, pathetic cough, rubbing his eyes with chubby fists. It was just a common localized rhinovirus—a cold—but for a toddler who had never experienced a compromised respiratory system, it was a terrifying betrayal of his own body.
+
+Sarah was sitting on the edge of the Mega-Bed, gently wiping Jack's nose with a warm cloth.
+
+"I know, buddy. I know it hurts," Sarah murmured sympathetically, offering him a small cup of synthesized juice.
+
+The Vanguard was observing the medical crisis with intense, rigid concern.
+
+Because of their severe prematurity, the triplets had spent the first six months of their lives in heavily sterilized environments. They had never actually been sick. They didn't understand why the recruit's nose was leaking, or why his breathing sounded like a rattling engine.
+
+Ellie was standing on the Mega-Bed, perfectly flush against the wooden slats of Jack's crib. She wasn't holding his hand—Sarah had strictly forbidden them from touching him to prevent the spread of the virus—but she was maintaining her defensive perimeter.
+
+She stared down at her little brother, her brow furrowing deeply. She didn't like the wet cough. It was a sign of structural weakness in her unit.
+
+She looked up at Sarah. "Fix."
+
+"Mama's trying, El," Sarah sighed, tossing the used cloth into the reclamation chute. "It's just a cold. He has to fight it off."
+
+Ellie didn't accept that answer. She pointed a tiny, dictatorial finger at Jack's red, runny nose. "Broken. Fix now."
+
+"We can't just fix a virus, Ellie," Sarah explained gently.
+
+Nora limped over to the edge of the bed, her empathetic heart breaking at the sound of Jack's whimper. She looked at Ellie, then back at Jack. She didn't have the medical vocabulary, but she understood that the recruit was suffering. She leaned over and patted the edge of the mattress, offering a soft, encouraging smile.
+
+Leo was sitting in the center of the Mega-Bed, his legs scissored tight. The sound of Jack's wet, rattling cough was an incredibly harsh sensory input. He let out a sharp, distressed hum, his hands covering his ears. He hated the noise, but he refused to let Nora or Ellie pull him away from the crib. If the unit stayed, he stayed.
+
+He violently shook his arm, forcing his hand down to the ruggedized AAC tablet resting next to his hip. He slammed his palm against the red square depicting a medical cross.
+
+"Help," the tablet announced loudly.
+
+"I'm helping him, Leo, I promise," Sarah soothed, her heart aching for her fiercely loyal, entirely confused neurodivergent children.
+
+Suddenly, the ambient lighting in the nursery flashed a rapid, brilliant blue.
+
+"Warning. Administrator Colton. Atmospheric anomaly detected," Aria’s voice cut through the localized nursery speakers. The warm, maternal tone was instantly replaced by her cold, clipped tactical cadence.
+
+Down in the Fab-Foundry, Wyatt froze, the plasma cutter still humming in his hand. He pushed his goggles up, his S.H.O.P. Marine instincts instantly taking over.
+
+"Report, Aria," Wyatt barked, dropping the cutter onto the heavy workbench.
+
+"A hostile fleet has dropped out of sub-light transit in the upper thermosphere," Aria stated calmly. "Signature analysis indicates a heavily armed mercenary armada, likely contracted by Apex Defense Solutions. They are currently charging orbital bombardment arrays."
+
+Wyatt didn't even flinch. He walked over to the primary holographic holotable.
+
+"Open the hailing frequency," Wyatt commanded, his voice a low, lethal rumble. "Audio only. Standard Sentinel Directive protocol."
+
+"Channel open."
+
+"Unidentified vessels, you have entered the restricted airspace of Planet Eden," Wyatt stated, his tone devoid of any emotion. "Power down your weapons arrays immediately and state your intentions. This is your only warning."
+
+The response was a deafening burst of static, followed by the immediate, overwhelming roar of thirty heavy-plasma cannons firing simultaneously from orbit.
+
+The armada didn't care about warnings. They were there to crack the planet open.
+
+Wyatt stared at the holotable. He didn't shout. He didn't panic. He just slowly shook his head, a profound, tired disappointment settling in his chest.
+
+"Aria," Wyatt grunted, turning his back on the holotable and picking up his plasma cutter. "Engage the Aegis grid. Return fire. Maximum yield."
+
+"Executing," Aria chimed.
+
+Upstairs in the nursery, the localized blue alert lights faded back to the soft amber glow.
+
+Miles above their heads, in the cold vacuum of space, a catastrophic, apocalyptic battle erupted. Thirty massive, super-heated plasma bolts slammed directly into the invisible hard-light barrier of the Aegis shield. The sheer kinetic energy of the impact was enough to vaporize a continent.
+
+Simultaneously, the planetary defense batteries hidden beneath the emerald forests roared to life, unleashing a devastating, pinpoint-accurate volley of anti-matter charges that tore the mercenary armada into a billion pieces of burning, microscopic dust.
+
+Down in the residential living room, Sarah was sitting on the edge of the Mega-Bed. She had a cup of water resting on the polished stone nightstand right next to her knee.
+
+The water in the cup didn't even ripple.
+
+The advanced inertial dampeners absorbed the entire kinetic shockwave of the orbital bombardment. The acoustic shielding perfectly muted the roaring defense batteries. The apocalypse happened, and inside the heavily fortified walls of the estate, it didn't even register as a mild breeze.
+
+"Aria," Sarah asked casually, wiping Jack's nose again. "Did Wyatt handle the perimeter?"
+
+"The hostile fleet has been entirely neutralized, Sarah," Aria confirmed warmly. "The orbital space is clear. Administrator Colton has returned to the fabrication of the tactical transport."
+
+"Thank you, Aria," Sarah smiled, tossing another tissue into the chute.
+
+She looked down at her three-year-old commanding officer. Ellie was still standing at attention, entirely unaware that the planet had just been saved from total annihilation. Her dark eyes were still locked intensely on Jack's runny nose, her toddler brain entirely focused on the only true crisis that mattered.
+
+"Fix," Ellie repeated stubbornly, pointing at the recruit.
+
+Sarah let out a breathless, exhausted laugh, kissing Ellie's forehead. "I know, El. The perimeter is perfectly secure. Now we just have to wait out the cold."
+
+The Vanguard didn't care about corporate armadas or orbital bombardments. As long as the unit was intact, the rest of the galaxy could burn.
+

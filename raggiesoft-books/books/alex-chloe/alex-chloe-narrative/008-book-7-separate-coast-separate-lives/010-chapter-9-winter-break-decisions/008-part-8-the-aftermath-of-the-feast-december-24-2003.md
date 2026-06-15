@@ -1,0 +1,24 @@
+# Part 8: The Aftermath of the Feast (December 24, 2003)
+
+By 10:30 PM, the magnificent Réveillon feast at the Mason house was winding down, though the happy, bilingual chaos lingered. The remains of the *tourtières*, the *Pâté Chinois*, and Emily's green bean casserole sat on the dining table alongside the decimated *Tarte au Sucre*. The adults were still gathered, nursing cups of coffee, their conversation a warm, lazy hum.
+
+The sting of the Brawlers' last-minute victory, however, had not entirely faded.
+
+"*Le vol du siècle,*" Uncle David muttered into his coffee cup for the fifth time that hour, shaking his head. "That referee was definitely on the Boston payroll." (Translation for the reader: "The robbery of the century.")
+
+James Miller, sitting across from him, just took a quiet, satisfied sip of his own coffee. Beside him, Megan did the same, a small, knowing smile playing on her lips. They didn't have to say a word. They were being perfectly gracious winners, of course. (Conspiratorial wink.)
+
+Across the room, the cousins were slumped on the living room sofa, the initial excitement of their *Kart Kraze* tournament having long since worn off. Mathieu and Isabelle, now facing the imminent prospect of returning to the shared full-sized bed in Chloé's room, looked particularly grumpy.
+
+"*J'peux pas croire qu'on doit encore dormir ensemble,*" Isabelle whispered to her brother, just loud enough for Chloé to overhear. "*Il prend toute la place.*" (Translation for the reader: "I can't believe we have to sleep together again. He takes up all the space.")
+
+"*Toi, tu ronfles comme un tracteur,*" Mathieu shot back without opening his eyes. (You snore like a tractor.)
+
+Alex, sitting near them, overheard the exchange and typed a quick message on his AAC, a perfect deadpan observation. SHARING A BED ISN'T SO BAD. YOU GET USED TO IT.
+
+Chloé, catching the message, let out a snort of laughter, which earned her a half-hearted glare from both of her cousins.
+
+Finally, Mémère Madeleine clapped her hands together, her voice a warm, authoritative presence that cut through the lingering hockey gloom and teenage grumbling. "*Bon, c'est assez!*" she declared. "Time to clear these plates. We still have one present to open before Santa Claus comes for the Americans!" (Alright, that's enough!)
+
+The announcement sparked a fresh wave of energy. The family worked together to clear the table, their movements a practiced, easy rhythm. The long, wonderful, and slightly contentious Réveillon was officially over. As they all migrated into the living room and settled around the brightly lit Christmas tree for their "one present" compromise, a deep sense of peace and belonging filled the house, powerful enough to overcome even the most tragic of hockey losses and the most awkward of sleeping arrangements.
+

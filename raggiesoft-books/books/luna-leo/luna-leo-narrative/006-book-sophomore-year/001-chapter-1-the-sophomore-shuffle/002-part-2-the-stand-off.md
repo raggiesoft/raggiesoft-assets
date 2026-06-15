@@ -1,0 +1,70 @@
+# Part 2: The Stand-Off
+
+## Section 1: 07:10 AM Northwood High School Drop-Off
+
+The drop-off loop was a chaotic snarl of exhaust fumes and brake lights. Stella maneuvered the blue Horizon Avalon to the curb, the small sedan dwarfed by the line of SUVs.
+
+"Go, go, go," Stella said, popping the trunk.
+
+The extraction was the usual struggle—fighting gravity to get the wheelchair out of the low trunk, the awkward transfer of Leo from the low seat to his chair—but they moved with practiced speed.
+
+"Have a good day," Stella called out as she jumped back into the driver's seat to avoid the wrath of the crossing guard. "I love you guys!"
+
+Luna took the handles of Leo's chair, her backpack heavy on her shoulder. "Seven-fifteen," she muttered, checking her watch. "We have five minutes to get across the building."
+
+They navigated the crowded Commons, weaving through the throngs of students rushing to their lockers. At the entrance to the clinic, they performed their swift hand-off.
+
+"See you inside," Luna said, squeezing Leo's shoulder before handing the chair over to Mr. Peters.
+
+She turned and hurried toward the girls' locker room, her limp more pronounced in her rush to beat the bell.
+
+## Section 2: 07:20 AM The Gymnasium
+
+The gym was a cavernous box of noise and echoes, painted in broad stripes of **Purple and Gold**. At this hour, it was filled with nearly a hundred groggy Freshmen and Sophomores, a sea of grey t-shirts and maroon shorts moving in a sluggish, counter-clockwise current around the perimeter.
+
+The rule was absolute: **Class starts at 07:15**. You dress out. You hit the floor. You keep moving.
+
+Leo was parked just inside the heavy double doors of the main entrance that led out to the Commons, where Mr. Peters had deposited him. Because the general student population flooded in from the locker rooms on the opposite side of the gym, this area was an island of calm, well removed from the traffic flow.
+
+By the strict letter of the law, however, he was supposed to immediately begin pushing his own laps the moment he rolled through those doors to keep his heart rate up.
+
+But Leo wasn't moving. He sat like a stone on the bank of the river, his wheelchair braked, tucked neatly against the wall near the doors. His eyes were fixed intently across the vast expanse of the court on the single open door of the girls' locker room.
+
+A young male teacher, new to Northwood High this year and eager to make an impression, spotted him. He blew his whistle sharply, jogging over across the empty center court.
+
+"Let's go! Let's go!" the new teacher barked, clapping his hands. "No loitering in the doorway, son. You gotta keep moving. Laps. Let's go."
+
+Leo didn't even look at him. He kept his gaze locked on the far wall, his hand resting firmly on his brake lever. He gave a tiny, almost imperceptible shake of his head.
+
+"I said let's go," the new teacher pressed, stepping closer, looming slightly. "We don't sit out during warm-ups. Get those wheels turning."
+
+"Evans! Back off," a weary voice called out.
+
+Coach Miller, the veteran Adapted PE teacher who had taught the twins freshman year, walked over, clipboard in hand. She put a hand on the new teacher’s arm, stopping him.
+
+"He's refusing to participate, Miller," Evans argued, gesturing at the stationary student who was perfectly out of the way but perfectly motionless. "He's just sitting there. He needs to be doing laps."
+
+"He's waiting for his sister," Coach Miller said flatly. "He does it every morning. You could try to move him, you could write him up, you could call the Principal. I promise you, he is more stubborn than all of us combined. He will not budge an inch until Luna gets here. Let it go."
+
+Evans looked at Leo, then at Miller, baffled by the open defiance. "Seriously? We just let him sit?"
+
+"Seriously," Miller said, turning away to check her squad list. "He'll do double the work once she gets here. Just wait."
+
+Across the gym, the girls' locker room door opened. Luna emerged, breathless from the quick change. She stepped onto the court, her eyes scanning the room until they landed on the main entrance. She saw Leo, parked and waiting, and felt the familiar click of relief.
+
+She stepped into the flow of students. She didn't cut across the court—that was against the rules, and she refused to run—but joined the perimeter walk. She rounded the far corner, passing the bleachers, her steady gait carrying her around the loop until she reached the main doors.
+
+She arrived at his side, breathless but beaming. She didn't hesitate; she leaned down and wrapped her arms around his shoulders for a quick, fierce hug—their non-negotiable reunion ritual after any forced separation.
+
+Leo squeezed her back, the tension of the stand-off instantly evaporating. They held it for a beat longer than necessary, re-establishing their unit.
+
+She pulled back, resting her hand on the handle of his chair to ground herself. "You're holding up traffic," she teased, even though he was completely out of the way.
+
+Leo looked up, the tension leaving his shoulders. He released his brakes immediately, shooting a brief look at Mr. Evans, who was watching them with a confused expression.
+
+"READY," Leo tapped on his **Quantum Communicator**.
+
+"Okay," Luna said, falling into step beside him. "Let's go."
+
+They merged back into the flow of students, side-by-side. This was their ritual. For the next ten minutes, the architectural hostility of the building and the rigid rules of the clinic didn't matter. They were together, and the school day could officially begin.
+

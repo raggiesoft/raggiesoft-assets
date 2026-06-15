@@ -1,0 +1,42 @@
+# Part 2: Operating Systems
+
+## 10:00 AM
+
+Dr. Arrington’s office was lined with bookshelves stuffed with medical texts and psychology journals. There was a leather couch and two armchairs. On his desk sat a beige Quantum workstation with a bulky CRT monitor that hummed with a high-pitched frequency only Freddie seemed to hear.
+
+Freddie sat on the leather couch. Paige sat right next to him, her shoulder pressed into his.
+
+"So," Dr. Arrington started, sitting in his armchair and crossing his legs. "The referral says you suspect Autism. Tell me why."
+
+Freddie took a breath. He squeezed Paige’s hand.
+
+"I process sensory input at a higher resolution than standard hardware," he began. "Light. Sound. Texture. It does not get filtered. It accumulates until the buffer overflows."
+
+"And when it overflows?" Dr. Arrington asked, taking notes.
+
+"System crash," Freddie said. "Meltdown."
+
+Dr. Arrington nodded. He didn't write that down; he just watched Freddie’s face. He reached for a small wooden box on the table, took out a set of colored blocks, and placed them on the coffee table.
+
+"Organize these," Dr. Arrington said. "Any way you like."
+
+Freddie looked at the blocks. He didn't build a tower. He didn't build a house. He sorted them by color spectrum—Red, Orange, Yellow, Blue—and aligned the edges perfectly, ensuring the spacing between each block was equidistant. Exactly 5 millimeters.
+
+"Done," Freddie said. "The geometry is consistent."
+
+Dr. Arrington watched him. "Pattern recognition. Excellent. Now, tell me about the social aspect. Eye contact?"
+
+"Inefficient," Freddie stated, looking at Dr. Arrington’s tie knot. "Eyes provide too much variable data. Micro-expressions. Pupil dilation. It introduces noise."
+
+Dr. Arrington leaned back. "You speak in systems metaphors. Computers. Architecture."
+
+"It is the only language that follows the rules," Freddie said. "Code executes exactly what is written. If I write a script in Quantum Basic, and it fails, it is a syntax error. I can find it. If a conversation fails, it is a mystery."
+
+Dr. Arrington smiled. "It's not a mystery, Freddie. It's just a different operating system. You are running MagnaDesk or Open Systems in a Quantum OS world."
+
+Freddie froze. That was exactly it.
+
+"Am I... broken?" Freddie whispered.
+
+"No," Dr. Arrington said firmly. "You are not broken. You are specialized hardware."
+

@@ -1,0 +1,166 @@
+# Part 3: The Null Hypothesis
+
+## Monday, May 24, 2004 — 11:00 AM Newman Library, CPI Campus
+
+Jessica walked through the automatic sliding doors of Newman Library. She wasn't wearing her usual student attire of jeans and a Forger t-shirt. She was wearing "Business Armor"—black slacks, a crisp blouse, and boots that clicked with authority on the tile floor.
+
+She carried a thick, cream-colored envelope bearing the return address of **Sterling & Associates, Attorneys at Law**.
+
+She scanned the first-floor study area. It was the "Quiet Zone," usually populated by stressed engineering students. Today, it was mostly empty, save for a few summer session stragglers.
+
+*Target Acquisition.*
+
+She found her.
+
+Vanessa was holed up in a study carrel in the far back corner, hidden behind a barricade of unread periodicals. She wasn't studying. She was sleeping, her head resting on her folded arms. Her large duffel bag—her entire life—was wedged under the desk, guarded by her leg.
+
+She looked rough. Her hair was greasy, pulled back into a messy bun. She was wearing the same flannel shirt she had worn on the porch yesterday.
+
+Jessica walked over. She didn't stomp; she moved with the silent, lethal grace of a predator closing in.
+
+She stopped at the carrel. She looked down at the girl who had slapped her brother.
+
+Jessica raised the heavy legal envelope and dropped it flat onto the table.
+
+*WHACK.*
+
+Vanessa jolted awake, gasping. She wiped a line of drool from her cheek, her eyes darting around in panic. She saw Jessica standing over her like a monolith.
+
+Instantly, the mask slammed back into place. Vanessa slumped in her chair, hunching her shoulders. She placed a protective hand over her stomach, arching her back slightly against the chair to simulate the "bump" she had tried to sell yesterday.
+
+"Jessica," Vanessa whispered, her voice trembling. "I... I haven't eaten. The baby needs food."
+
+Jessica stared at her. She didn't blink. She looked at the hand clutching the flannel.
+
+"Drop the act, Vanessa."
+
+"I'm not acting!" Vanessa cried, though she kept her voice low to avoid the librarian. "I'm carrying his child! You can't just abandon us! I have nowhere to go!"
+
+Jessica pulled out the chair opposite her and sat down. She looked relaxed, almost bored.
+
+"Open the envelope."
+
+Vanessa hesitated. Her hand shook as she reached for the cream-colored linen paper. She tore the seal.
+
+She pulled out the documents.
+
+1.  **Cease and Desist Order:** Formally banning her from 105 Pepper Street.
+
+2.  **The Medical Record:** A photocopy of a lab report from 1999.
+
+"Read the highlighted section," Jessica commanded.
+
+Vanessa looked at the yellow highlighter mark.
+
+**DIAGNOSIS: Azoospermia (Congenital).** **SPERM COUNT: 0.00** **CONCLUSION: Absolute Sterility.**
+
+Vanessa read it. She frowned. She read it again. The color didn't drain from her face immediately; first, there was confusion.
+
+"What... what is this?"
+
+"It's a lab report from 1999," Jessica explained calmly. "It means Freddie is sterile. He has zero sperm count. He cannot father a child. Biologically, physically, absolutely impossible."
+
+Jessica leaned forward, resting her elbows on the table.
+
+"So," she said, her voice dropping to a conspiratorial whisper. "We know you're lying about Freddie. The math proves it. The biology proves it."
+
+She looked at Vanessa’s hand, still clutching her stomach.
+
+"But here is the question, Vanessa: Are you pregnant by someone else and trying to pin it on him? Or are you just lying about the whole thing to get a free room?"
+
+Vanessa froze. The gambit had failed. The ace she thought she was holding—Freddie's guilt—had been trumped by hard medical data.
+
+She looked at the paper. She looked at Jessica’s cold, knowing eyes.
+
+She realized there was no point in the posture anymore. The con was dead.
+
+She dropped the act.
+
+She sat up straight. She took her hand off her stomach. The "bump" vanished as she stopped arching her back. Her face shifted from "tragic victim" to "cornered rat."
+
+"Fine," Vanessa spat, tossing the paper onto the table. "You win. I'm not pregnant."
+
+Jessica raised an eyebrow. "I figured. The timeline was sloppy. Sixteen days doesn't look like four months, Vanessa. You oversold the bump."
+
+"I just needed a place to stay!" Vanessa hissed, her desperation turning into anger. "I have no money. My aunt kicked me out in Seattle. I spent my last dollar getting back here. The dorms don't open until August. What was I supposed to do? Sleep under a bridge?"
+
+"The shelter is on Roanoke Street," Jessica reminded her. "The Valley Mission."
+
+"I am a student!" Vanessa snapped, glancing around to make sure no one heard her. "I don't belong in a shelter with... with junkies!"
+
+"You don't belong in my house, either," Jessica said, standing up. "Freddie isn't your ATM, Vanessa. And he isn't your housing plan. He's done with you."
+
+Jessica tapped the Cease and Desist letter on the table.
+
+"This is official notice. If you come to Pepper Street again, I show this to the Dean of Students. Fraud. Harassment. Attempted extortion. You’ll be expelled before the Fall semester starts."
+
+Jessica looked down at her one last time.
+
+"Find a new mark, Vanessa. The Avery Unit is closed."
+
+Jessica turned and walked away, her boots clicking rhythmically on the tile floor. She didn't look back. She walked out of the library, into the bright May sunshine, leaving the threat neutralized.
+
+## 11:15 AM
+
+Vanessa sat alone in the carrel. She was fuming. Her hands were shaking with rage and adrenaline.
+
+*Sterile,* she thought bitterly. *Of course he is. Just another way he’s broken.*
+
+She grabbed her stomach as a sudden, sharp cramp twisted her insides.
+
+*Stress,* she told herself. *Just stress and hunger.*
+
+She reached into her bag to grab a bottle of water. As she dug past her wallet and her keys, her hand brushed against a small box she had stolen from a drugstore in Roanoke two days ago.
+
+**Early-Read Pregnancy Test.**
+
+She had stolen it as a prop. The plan had been to get into the Avery house, use the bathroom, and leave the positive test in the trash can for Paige to find later. A little piece of physical evidence to back up her lie.
+
+She looked at the box. She looked at the library bathroom sign across the room.
+
+The thought crept in, unbidden. *What if?*
+
+She remembered the party at Westgate. The guy with the tattoo. The guy in the kitchen. She remembered the nausea on the bus ride home from Seattle.
+
+*I might as well check,* she thought, a dark, cynical laugh bubbling up in her throat. *Just to be sure I'm not actually carrying some frat boy's mistake.*
+
+She stood up, grabbing her bag. She walked to the bathroom. It was empty. She went into the large stall and locked the door.
+
+She tore open the box. She followed the instructions. She set the stick on the toilet paper dispenser.
+
+She waited three minutes, leaning against the graffiti-covered wall, arms crossed. She stared at the ceiling tiles, counting the water stains.
+
+*This is stupid,* she told herself. *I'm not pregnant. I just said that to get in the house. I'm just stressed.*
+
+*Tick. Tick. Tick.*
+
+She looked down at the stick.
+
+**One pink line.**
+
+Control line only.
+
+**Negative.**
+
+Vanessa let out a breath she didn't realize she was holding. Her shoulders sagged.
+
+She wasn't pregnant.
+
+There was no baby. There was no "miracle." There was no leverage.
+
+She was just... empty.
+
+She picked up the stick and tossed it into the sanitary bin. It landed with a hollow *clatter*.
+
+She looked at herself in the mirror above the sink. She saw the greasy hair. She saw the flannel shirt she had been wearing for three days. She saw a girl who had tried to play a high-stakes game and lost everything.
+
+"Nothing," Vanessa whispered to her reflection. "I have nothing."
+
+She washed her hands, the cold water stinging her skin. She picked up her bag.
+
+She walked out of the bathroom and back into the library. She had three months to kill before the dorms opened. She had no money. She had no friends. And the one person who might have cared about her—Freddie—was now locked behind a legal wall she couldn't breach.
+
+She sat back down at the carrel and put her head on the desk.
+
+The trap had sprung. But it was empty. And so was she.
+

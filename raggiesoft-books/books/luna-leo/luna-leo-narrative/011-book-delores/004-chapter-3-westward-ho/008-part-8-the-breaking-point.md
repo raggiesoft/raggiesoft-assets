@@ -1,0 +1,87 @@
+# Part 8: The Breaking Point
+
+The third morning in Kent dawned with a drumming sound against the window – a cold, relentless November rain. Inside the guest room, it was still pitch black, but Leo was wide awake. He hadn't slept.
+
+He lay rigid on his side of the bed, listening to Delores breathing beside him. The memory of the previous evening—the weight of her body pinning him, the suffocating pressure of her mouth, and the terrifying slide of her hand before she abruptly stopped—was a loop playing over and over in his mind. She had stopped, but the safety of the room had been obliterated. He knew, with a cold, crystal clarity, that he was not safe here.
+
+Delores stirred. She woke up angry. The "cold feet" from the night before had curdled into a sour, resentful mood. She felt rejected, and in her narcissism, rejection was an attack.
+
+She threw back the covers and sat up, ignoring him. She started slamming drawers, getting dressed with aggressive, jerky movements.
+
+Leo watched her from the bed. His heart was hammering. He knew he was walking on a knife's edge, but the terror of staying was now greater than the fear of her anger. He had to know if there was a way out.
+
+He reached for his AAC device on the nightstand. He unplugged it from the wall. His hands were shaking so badly he almost dropped the stylus.
+
+Delores whipped around. "What are you doing?" she snapped. "Stop making noise."
+
+Leo froze. He turned the screen toward her. He had typed a single, desperate question.
+
+BUS TICKETS? WHEN DO WE GO HOME?
+
+Delores stared at the screen. The question—the proof that his only thought was escaping her—was the spark that lit the fuse.
+
+"Are you serious?" she hissed, her voice rising. "Is that all you can think about? Getting away from me? After everything I did for you?"
+
+She stepped closer to the bed, looming over him.
+
+"I brought you on an adventure. I tried to be nice. I tried to be... romantic," she spat the word like a curse. "And you just laid there like a victim. And now you want to leave?"
+
+Leo shrank back against the headboard, clutching the device to his chest like a shield. He shook his head, trying to convey No, I just want to go home.
+
+"You ungrateful little cripple," she screamed.
+
+She lunged.
+
+She grabbed the handle of the AAC device. Leo tried to hold on, but she was standing and furious. She ripped it from his grasp with a violent tug that nearly pulled him out of bed.
+
+"You want to talk to your sisters?" she shrieked, holding the heavy, beige machine above her head. "You want to tell them how mean I am? You want to tattle?"
+
+"No!" Leo tried to vocalize, a strangled sound of pure terror.
+
+"Maybe you're better off silent!"
+
+She hurled the device down.
+
+It hit the linoleum floor with a sickening, explosive CRACK. The heavy plastic casing shattered. The screen spiderwebbed into a thousand shards. There was a terrible, grinding crunch as the internal hard drive—the drive holding his vocabulary, his phrases, his voice—slammed against the concrete subfloor.
+
+Leo stared at the broken pieces. The green power light flickered once and died.
+
+Silence filled the room.
+
+Delores stood there, heaving. She looked at the broken machine, then at Leo. She didn't look sorry. She looked satisfied.
+
+"See what you made me do?" she yelled, pointing a shaking finger at him. "This is your fault! You ruin everything!"
+
+She grabbed his wheelchair from the corner and shoved it against the bed.
+
+"Get out," she commanded.
+
+Leo looked up, stunned.
+
+"I said GET OUT!" she screamed. "I'm done with you! Get out of my aunt's house! I don't want to see you ever again!"
+
+She grabbed his arm and hauled him into the chair. She didn't help him transfer; she dumped him into it. She threw his backpack into his lap.
+
+She wheeled him down the hallway, ignoring his terrified grip on the wheels. She threw open the front door.
+
+The pre-dawn air was freezing. The rain was coming down in sheets.
+
+"Go find your own way home!" she shouted.
+
+She shoved the chair over the threshold, onto the wet concrete of the porch.
+
+SLAM.
+
+The door locked.
+
+Leo sat there, stunned, soaked instantly by the freezing rain. He was three thousand miles from Virginia. He had no voice. He had no medication. And he was alone in the dark.
+
+He looked at the closed door. Then he looked at the dark street.
+
+He realized, with a jolt of pure survival instinct, that staying on this porch was death. She wasn't coming back.
+
+He gripped his wet push rims. He turned his chair toward the street.
+
+He didn't know where he was going. But he knew he had to move.
+
+

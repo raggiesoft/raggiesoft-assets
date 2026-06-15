@@ -1,0 +1,122 @@
+# Part 10: The Safe Harbor
+
+## August 28, 2006 Fine Arts Center - The Music Library 06:30 PM
+
+The library doors opened. Luna walked in, her Orpheus 680 case over her shoulder, still buzzing from the adrenaline of the Wind Symphony rehearsal.
+
+She scanned the room. She found the corner table.
+
+It was full.
+
+Stella was typing code. Olivia was sketching a diagram on a napkin. And Leo...
+
+Leo was parked between Sarah and Amanda. He wasn't shrinking away. He wasn't hiding behind his screen. He was leaning in, pointing at a CAD drawing on Amanda’s laptop.
+
+Luna stopped. She watched him.
+
+She saw the way Sarah laughed at something he typed. She saw the way Amanda nodded respectfully at his math.
+
+She realized something profound. Leo didn't have "guy friends." He didn't bond over sports or posturing. He bonded with women. He had been raised by a matriarchy—Stella (The General), Eleanor (The Matriarch), and Luna (The Twin). Then came Olivia.
+
+He understood the rhythm of female friendship. It was safer. It was communicative. It was collaborative, not competitive.
+
+Sarah and Amanda weren't threats; they were just... more sisters.
+
+Luna smiled. She walked over.
+
+"Principal Chair," Stella announced, looking up. "Report?"
+
+"We crushed it," Luna said, dropping her bag. "And I fixed the chair situation. We have lumbar support now."
+
+She looked at Sarah and Amanda. "And I see the Engineering Department has infiltrated the perimeter."
+
+"We're just here for the French lessons," Sarah grinned. "And the robot designs."
+
+## The Escort
+
+Stella checked her watch. "06:45 PM. The rain is picking up. We need to move."
+
+"We should walk you guys back," Olivia said to Sarah and Amanda. "You live in Roebling Hall, right?"
+
+"Yeah," Amanda said. "But it's pouring."
+
+"We don't do rain," Leo typed.
+
+They packed up. They took the elevator down to the basement level. They entered the Bull Run.
+
+The tunnel was warm and bright. They walked down Arts Alley, turned left onto The Stampede (the housing corridor), and followed the signs to the Engineering Dorms.
+
+They reached the secure door for Roebling Hall.
+
+"This is us," Sarah said. "Thanks for the escort. And the French tips."
+
+Leo rolled forward. He stopped in front of Sarah.
+
+He didn't type. He reached out his arms.
+
+Sarah smiled. She leaned down and hugged him—a real, solid hug.
+
+"See you tomorrow, Leo," she said.
+
+He turned to Amanda. He hugged her too.
+
+Luna watched. It was seamless. No awkwardness. Just affection.
+
+"GOOD NIGHT, COHORT," Leo typed.
+
+"Night, Leo," Amanda said. "Dream of aluminum brackets."
+
+## The Express Home
+
+The Fortress turned back. They navigated the tunnels to the Oceanfront Esplanade Station elevators.
+
+They rode up to Level 3 (The Sky Platform).
+
+The rain was hammering the glass roof.
+
+"Check the board," Stella said.
+
+**BTA SOUTH SHORE (Local) - 07:10 PM ARTS COASTAL 94 (Southbound) - 07:05 PM**
+
+The silver ARTS train was already gliding into the station on the express track, its headlight cutting through the gloom.
+
+"Silver train," Luna called.
+
+"Bull Pass ready," Stella commanded.
+
+They boarded the Coach car. It was warm and dry. They found their table.
+
+The train pulled out.
+
+"Next stop: BCI Airport," the conductor announced.
+
+The train accelerated. It blew past the local stops, the rain blurring the lights of the suburbs into streaks.
+
+Ten minutes later, they stopped briefly at the Airport station (underground). A few travelers with suitcases got on.
+
+Then, the train launched again.
+
+## 07:25 PM Iron Point Station
+
+They arrived. The rain had slowed to a drizzle.
+
+They walked the two blocks to the Fortress.
+
+Stella unlocked the door. The APS Wall greeted them.
+
+They walked into the living room. The house was silent and safe.
+
+Leo rolled to the center of the room. He spun a circle. He had survived the first day. He had built a team. He had ridden the express train.
+
+He looked at Luna. He tapped his Scribe.
+
+"DAY ONE: COMPLETE."
+
+"We did it," Luna said, collapsing onto the sofa. "We're really doing this."
+
+Stella walked to the kitchen to start the kettle.
+
+"Get some rest," the General ordered. "Tomorrow is Tuesday. We have French class at 2:00. And I expect everyone to be fluent by then."
+
+Leo smiled. He parked his chair. He was home.
+

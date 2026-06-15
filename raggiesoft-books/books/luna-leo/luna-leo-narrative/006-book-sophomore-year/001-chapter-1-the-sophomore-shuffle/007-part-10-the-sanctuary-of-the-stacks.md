@@ -1,0 +1,74 @@
+# Part 10: The Sanctuary of the Stacks
+
+## Section 1: 12:15 PM – The Cardboard Feast
+
+With Josh Riley banished to the grease traps and order restored to the serving line, the flow of students resumed. Luna and Leo made their way through the line.
+
+Luna grabbed a slice of the infamous rectangular pizza. It sat on the styrofoam plate, glistening with a suspicious sheen of grease, the pepperoni cubes perfectly equidistant. She also grabbed a carton of chocolate milk and a red apple that looked like it had been polished with floor wax.
+
+Leo, opting for safety over culinary adventure, chose a cup of yogurt, a soft pretzel, and apple juice. He looked at Luna's tray and raised an eyebrow.
+
+"Don't look at me like that," Luna said as they found an accessible table near the window. "It's tradition. It builds character. And immune systems."
+
+They settled in. The cafeteria was a roar of noise—hundreds of students shouting over each other, the clatter of trays, the screech of chairs. For two autistic teenagers, it was a lot. They sat on the same side of the table, creating a small, private wall against the room.
+
+Luna picked up her pizza. It drooped sadly. She took a bite, chewed thoughtfully, and swallowed.
+
+"Yep," she confirmed. "Tastes like Tuesday."
+
+Leo smirked, opening his yogurt. He tapped his **Quantum Communicator**.
+
+"AT LEAST IT IS NOT GREASE TRAP DUTY."
+
+"Amen to that," Luna laughed.
+
+## Section 2: 12:35 PM – The Study Hall Decision
+
+As they finished eating, the bell rang, signaling the transition. For most students, the second half of Fourth Period was "Study Hall," which usually meant loitering in the Commons, gossiping, or trying to sneak outside.
+
+For Luna and Leo, their IEPs gave them a choice: brave the chaos of the Commons, or retreat to the School Library.
+
+The Commons was currently filling up with students who had just been released from their lunch shift. The volume was rising. Leo looked at the crowd, his hands tightening on his armrests. He looked at Luna.
+
+*"LIBRARY?"* he typed.
+
+"Library," Luna agreed instantly.
+
+They disposed of their trash (carefully, lest Mrs. DeMarco appear from the shadows) and headed across the Commons to the glass-walled entrance of the Media Center.
+
+## Section 3: 12:40 PM – Mrs. Periwinkle’s Domain
+
+Pushing through the library doors was like stepping into a vacuum. The noise of the school cut out instantly, replaced by the smell of old paper and the aggressive hum of the air conditioning.
+
+Sitting behind the high circulation desk was **Mrs. Periwinkle**.
+
+She was a small woman with steel-gray hair cut in a severe bob and glasses that magnified her eyes to owl-like proportions. She didn't just watch the library; she patrolled it with her gaze.
+
+As Luna wheeled Leo in, Mrs. Periwinkle looked up. Her eyes narrowed behind her lenses. She scanned them for contraband—food, gum, loud headphones. Finding none, her gaze softened, just a fraction.
+
+"Good afternoon, Porters," she whispered. Her voice was like dry leaves rustling.
+
+"Afternoon, Mrs. Periwinkle," Luna whispered back.
+
+They moved deeper into the stacks. While Josh Riley and the troublemakers feared this place—viewing the Dewey Decimal System as a form of torture—Leo found it soothing. Here, everything had a place. Every book had a number. The world was ordered and logical.
+
+They found a quiet table in the back corner, near the oversized atlases. Luna pulled out her Latin homework. Leo parked his chair and pulled out his own binder.
+
+A few minutes later, a Junior boy in a varsity jacket wandered in, laughing loudly with a friend.
+
+"Shhh!"
+
+The sound cut through the air like a whip crack. Mrs. Periwinkle was standing at the end of the aisle, pointing a single, accusatory finger at the offender.
+
+"This is a place of study, Mr. Henderson," she hissed. "If you wish to bellow like a barn animal, you may do so in the Commons. If you wish to remain here, you will be silent."
+
+The boy paled. It was Stan Henderson's younger brother. Clearly, the fear ran in the family. "Sorry, Mrs. P," he mumbled, retreating to a table and sitting in silence.
+
+Leo watched the interaction, then looked at Luna. He tapped his screen, turning it so only she could see.
+
+"SHE IS SCARY. I LIKE HER."
+
+Luna grinned behind her hand. "She keeps the chaos out. She's like a force field."
+
+For the next forty-five minutes, while the rest of the school swirled in chaotic social currents outside the glass, the twins sat in the silence of the stacks, protected by the terrifying, benevolent power of the librarian.
+

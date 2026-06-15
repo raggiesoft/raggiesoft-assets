@@ -1,0 +1,122 @@
+# Part 4: The Carbohydrate Loading
+
+## Monday, June 21, 2004 — 18:30 PM 105 Pepper Street SE
+
+The convoy returned to Base. The minivan and the sedan pulled into the driveway, unloading nine tired, hungry, but victorious Averys. The adrenaline of the bowling alley was wearing off, replaced by the primal need for fuel.
+
+Aunt Linda dropped her purse on the counter. "Okay, birthday girls. You have the conn. What is the menu?"
+
+Jenna didn't hesitate. "I want grease. I want cheese. I want Tony’s."
+
+Sarah adjusted her glasses. "Pizza is the most logical caloric distribution system for a group of this magnitude. It minimizes dishwashing protocols."
+
+"Pizza it is," Jessica agreed, grabbing the cordless phone and the thick phone book. "But we have a conflict of interest. What are the toppings?"
+
+This was the annual debate.
+
+"I want the Garbage Truck," Jenna declared. "Sausage, pepperoni, onions, peppers, mushrooms, jalapenos. If it fell on the floor, I want it on the pie."
+
+"Disgusting," Sarah wrinkled her nose. "I require structural integrity. I want the White Garden. Garlic sauce, spinach, chicken. No tomato interference."
+
+"And the rest of the troops?" Jessica asked, looking at the younger ones.
+
+"Plain cheese!" Harper, Amanda, and Elara shouted in unison.
+
+"And for the Captain?" Jessica looked at Freddie, who was parked at the head of the table, with Paige already sitting next to him.
+
+"Standard pepperoni," Freddie requested. "Predictable variables."
+
+"Okay," Jessica dialed the number. "One Garbage Truck, one White Garden, two large Cheese, one Pepperoni. And... five liters of soda. God help us."
+
+## 19:15 PM
+
+The doorbell rang.
+
+The delivery driver was a teenager named Kyle. He stood on the porch holding five massive, steaming cardboard boxes. He looked terrified as the door opened and he was greeted not by an adult, but by a wall of excited girls.
+
+"Pizza!" Elara screamed.
+
+"Make a hole!" Jenna shouted, grabbing the top two boxes. "Hazardous materials coming through!"
+
+They loaded the dining room table. It was a tight squeeze. The table was extended to its limit, but with nine people and five pizzas, there was barely room for elbows.
+
+The Seating Chart:
+
+- Head of Table: Freddie (The Core).
+
+- Right Flank: Paige (The Anchor). She served Freddie his slice (Pepperoni), cutting it into strips for him so he didn't have to struggle with the floppy crust.
+
+- Left Flank: Jessica (The Shield).
+
+- Center Stage: Sarah and Jenna (The Birthday Girls).
+
+- The Satellites: Harper, Amanda, Elara, and Aunt Linda filled in the gaps.
+
+"A toast!" Aunt Linda announced, raising a red plastic cup of Citrus-Pop.
+
+Everyone raised their cups (or juice boxes).
+
+"To Sarah and Jenna," Linda smiled. "Fifteen. You survived middle school. You survived the move. You survived the... family drama."
+
+"We survived the genes," Jenna grinned, taking a massive bite of her loaded pizza. A piece of sausage fell onto her plate. "Oops. Casualty."
+
+"To the Unit," Sarah corrected, clinking her cup against Freddie’s. "Status: Operational."
+
+"Operational," Freddie agreed, taking a bite of his pepperoni slice.
+
+The room filled with the sounds of chewing, laughing, and the specific chaos of a large family dinner.
+
+Jenna ate with enthusiasm, getting sauce on her chin. Sarah ate methodically, folding her thin-crust white pizza in half to prevent spillage. Harper tried to see how far she could stretch the cheese from her slice before it snapped (record: 14 inches).
+
+Freddie sat in the middle of it all.
+
+He watched Amanda steal a pepperoni off Elara’s plate. He watched Paige wipe a crumb off his own shirt before he even noticed it was there. He listened to Jenna describing her "epic" strike in frame 7 (conveniently forgetting the bumpers).
+
+He felt full. Not just from the pizza, but from the noise.
+
+"Freddie," Harper called out from the end of the table. "Do you like the pepperoni?"
+
+"Affirmative," Freddie said. "The spice level is nominal. The crust is optimal."
+
+"Good," Harper beamed. "Because we saved you the last piece."
+
+Freddie looked at the decimated boxes. They were greasy cardboard skeletons now. But true to her word, in the center of the pepperoni box, one single slice remained, guarded by Harper like a treasure.
+
+"Thank you, Harper," Freddie smiled.
+
+## 19:45 PM
+
+The boxes were cleared. The table was wiped down (mostly).
+
+"Okay," Jessica stood up, exchanging a quick, subtle glance with Aunt Linda. "The main course is demolished. Now, for the procedure."
+
+"Procedure?" Jenna asked, burping quietly.
+
+"The Cake Protocol," Jessica said seriously. "Now, listen. Linda and I discussed this. We know you guys wanted fifteen individual candles."
+
+"Yeah," Jenna nodded. "One for every year of suffering."
+
+"Well," Jessica sighed, shaking her head. "We did a risk assessment. Fifteen open flames in a small room with this many people wearing flannel? It’s a fire hazard. The insurance won't cover it."
+
+Sarah pushed her glasses up. "That is a valid safety concern. The heat output of fifteen wicks could trigger the smoke detector. Furthermore, the melted wax distribution would ruin the icing integrity."
+
+"Exactly," Jessica said, keeping her face perfectly neutral. "So, we compromised. We got the big number candles. A '1' and a '5'. It’s safer. Less fire. Easier to blow out."
+
+"Boring," Jenna rolled her eyes. "But fine. Bring out the sugar."
+
+"Prepare the table," Aunt Linda commanded. "Lights out!"
+
+Harper ran to the light switch. The room plunged into darkness, save for the ambient street light filtering through the front window.
+
+Jessica went into the kitchen. She struck a match.
+
+Fzzzt.
+
+She lit the large blue 1. She lit the large blue 5.
+
+The wicks caught, and the numbers glowed with a steady yellow flame.
+
+Jessica lifted the heavy sheet cake.
+
+"Incoming!" Jessica sang out, walking the glowing cake into the dining room.
+

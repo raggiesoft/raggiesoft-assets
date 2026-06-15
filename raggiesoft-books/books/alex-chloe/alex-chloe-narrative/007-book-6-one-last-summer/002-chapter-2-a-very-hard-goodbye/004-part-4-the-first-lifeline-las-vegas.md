@@ -1,0 +1,22 @@
+# Part 4: The First Lifeline (Las Vegas)
+
+Hours later, Alex was dozing in a shallow, restless sleep in Chloé's bed when the shrill ring of a telephone pierced the quiet of the Mason house. His heart leaped. He quickly transferred back into his wheelchair, his mind foggy with sleep and grief, and raced across the lawn to his own house, but the phone had already stopped ringing. He found his parents in the kitchen, a look of profound urgency on their faces.
+
+"That was her, Alex!" Emily said, her voice a hushed rush of excitement and worry. "She's in Las Vegas for her layover! She's okay! We told her you were next door, and she said she'd call our house right back!"
+
+They stood there, the four of them—James, Emily, Thomas, and Sophie, who had come over the moment she heard the phone—in a tense, hopeful circle. A moment later, the phone rang again.
+
+Emily snatched it up. "Chloé, honey! You're on speaker!"
+
+Chloé's voice, tired but clear, filled the room. "I'm okay. We just landed in Vegas. I have a two-hour layover. Can... can I please talk to Alex?"
+
+Emily held the phone out to him. "Alex?" Chloé's voice was a lifeline across two thousand miles. "Are you okay?"
+
+He reached for his AAC, his fingers fumbling in their haste.
+
+I MISS YOU SO MUCH, the device voiced, the words raw and full of the night's loneliness.
+
+"Oh, Alex, I miss you too," she said, and he could hear the tears in her voice. "So, so much. I hate this. But I'm okay. And you're going to be okay. It's just until Christmas, remember? I promise."
+
+They talked for the entire layover. He told her about finding her hair on the pillow, and she cried a little. She told him about the movie on the plane, and he was comforted by the simple, normal detail. Her voice was a steady, calming presence that slowly began to chase away the terror.
+

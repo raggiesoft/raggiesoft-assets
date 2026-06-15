@@ -1,0 +1,70 @@
+# Part 4: The Victory Lap & The Blueprint
+
+## December 27, 2005 The University Inn - Room 101 05:45 PM
+
+The excitement of the Dean’s business card had finally faded, replaced by the heavy, crushing weight of travel exhaustion. The adrenaline that had powered Leo through the station and the encounter with Dr. Sterling drained away, leaving his nerves raw and exposed.
+
+The hotel room was quiet. Outside, the wind whipped against the glass, but inside, the air was still. Too still.
+
+Leo sat in his manual chair near the window. He wasn't looking at the view anymore. He was rocking slightly—a rhythmic, self-soothing motion. His hands were clenched on his armrests.
+
+Luna, sitting on the edge of the queen bed, saw it first. She knew the signs. The "static" was building up in his system.
+
+"Leo?" she whispered.
+
+He didn't type. He just looked at her. His eyes were wide, glassy, and filled with a sudden, desperate need for containment. The new city was too big. The room was too strange. He felt like he was floating away.
+
+Luna moved instantly. She walked over and knelt in front of his chair, placing her hands firmly on his knees.
+
+"Grounding?" she asked softly.
+
+He nodded, a jerky, desperate movement.
+
+"Liv," Luna called out quietly to Olivia, who was unpacking her bag. "He needs us."
+
+Olivia dropped the sweater she was holding and was there in a second. She knelt beside him, wrapping her long arms around his shoulders, pulling him into a deep, compressing hug. She buried her face in his neck, humming a low, steady note against his skin—a physical vibration to counter the buzzing in his head.
+
+"I've got you, *mon chum*," she murmured. "You're here. You're safe. We're in the Fortress."
+
+Stella, watching from the desk where she had been reviewing the real estate listing, stood up. She crossed the room and placed her hand on the back of his neck, her thumb rubbing the tension knot at the base of his skull.
+
+"It's the crash," Stella said gently. "Too much input today. New train, new city, new people."
+
+Leo leaned into Olivia’s hold, his rocking slowing as he matched her breathing. He closed his eyes, soaking in the pressure. He needed this more than food. He needed to feel the physical boundaries of his family to know where he ended and the world began.
+
+After a long moment, he opened his eyes. He looked at the two queen beds in the room.
+
+He reached for his **Quantum Communicator**. His fingers were slow, heavy with fatigue.
+
+"TOO BIG," he typed. "THE ROOM IS TOO BIG."
+
+He looked at Olivia, then at Luna.
+
+"I CANNOT SLEEP ALONE. NOT TONIGHT. THE WALLS ARE WRONG."
+
+"You don't have to," Luna said immediately. "We already know the drill."
+
+She looked at Stella. "Fortress formation?"
+
+"Fortress formation," Stella agreed. "I'll take the bed by the window. You three take the one by the wall."
+
+They moved with practiced efficiency. Olivia and Luna helped Leo transfer out of his chair and onto the bed. He settled into the middle—the protected position.
+
+Luna climbed in on his left. She didn't just lie next to him; she curled into him, her arm thrown over his chest, her leg hooked over his. She needed the contact just as much as he did. The new city was scary for her, too. Anchoring him anchored her.
+
+Olivia took the right side. She wrapped her arm around him, her hand clasping Luna’s hand on his chest, creating a literal chain of connection across him.
+
+Leo let out a long, shuddering breath. The "floaty" feeling vanished. He was pinned down by love. He was heavy. He was safe.
+
+Stella walked over to the side of the bed. She leaned down and kissed Leo’s forehead—a long, firm press of her lips.
+
+"Good work today, Leo," she whispered. "You were brave. Now you just be safe."
+
+She kissed Luna’s cheek, then Olivia’s.
+
+"Sleep," Stella commanded gently. "We build the rest tomorrow."
+
+Leo looked up at them. He felt Luna’s heartbeat against his side. He smelled Olivia’s shampoo. He felt Stella’s hand smoothing his hair.
+
+He didn't need to type. He just closed his eyes and let the darkness take him, held tight in the center of the only geography that mattered.
+

@@ -1,0 +1,94 @@
+# Part 3: The Concourse Encounter
+
+December 27, 2005 Narraganset Esplanade Station - The Concourse (Level 1) 05:30 PM
+
+The "Fortress" had settled into the hotel, but the twins were restless. The excitement of the train ride and the new city was buzzing in their veins.
+
+"Key card," Stella said, handing a plastic rectangle to Luna. "Don't leave the building. Stay in the Concourse. It's safer and warmer."
+
+"Understood," Luna promised. She grabbed the handles of Leo's manual chair. "We're going exploring."
+
+They took the elevator down from the hotel lobby to the **Concourse Tunnel**. They walked past the student art displays, moving into the main ticket hall of the station. It was massive, bright, and buzzing with evening commuters heading home.
+
+Leo looked at the digital displays showing train times.
+
+SOUTH SHORE LINE - IRON POINT - 5:45 PM (ON TIME) NORTH COAST LINE - REGALIS PARK - 5:40 PM (ON TIME)
+
+*"SYSTEM IS EFFICIENT,"* Leo typed on his communicator, which was strapped to his armrest.
+
+"It's huge," Luna marveled, looking up at the high ceiling. "And the acoustics... listen to the echo."
+
+She hummed a low note. It reverberated clearly.
+
+Suddenly, a voice cut through the crowd noise.
+
+"Luna? Are you Luna Porter?"
+
+Luna stopped. She spun Leo’s chair around.
+
+Standing near the ticket kiosks was a woman in a sharp wool coat and a silk scarf. She was holding a briefcase and looked like she was in a hurry to catch the 5:40 train.
+
+Luna blinked. She recognized the face from the website photos Dr. Aris had shown her.
+
+"Dr. Sterling?" Luna gasped.
+
+Dean Elise Sterling stopped dead in her tracks. She looked at Luna, then at Leo in the chair.
+
+"It is you," Sterling said, her professional demeanor cracking into genuine surprise. "Dr. Aris showed me your photo. I thought you were in Virginia."
+
+"We are," Luna stammered. "I mean, we were. We're visiting. Winter Break. Checking out the city."
+
+"Reconnaissance," Leo typed, grinning.
+
+Sterling laughed, a sharp, delighted sound. She glanced up at the departure board. Her train—the **North Coast Line**—was flashing **BOARDING**.
+
+She looked back at Luna. "I was just heading home for the break. But... since you're here. Do you have your instrument with you?"
+
+"Not right now," Luna said. "It's in the hotel room. Upstairs."
+
+"Is it really an **Orpheus 680**?" Sterling asked, her voice dropping to a whisper. "Solid silver?"
+
+"Yes, ma'am," Luna said proudly. "B-foot. French arms."
+
+Sterling shook her head in disbelief. "I haven't seen a freshman walk in with a 680 in ten years. Listen to me."
+
+She ignored the **FINAL CALL** chime for her train. She dug into her purse and pulled out a heavy, cream-colored business card. She handed it to Luna.
+
+ELISE STERLING, D.M.A. Dean, Braxton Conservatory Office: Fine Arts Center, Room 400
+
+"I wasn't planning on coming in tomorrow," Sterling said. "Technically, the break starts now. But I *need* to hear that flute. Can you come to my office tomorrow morning? 10:00 AM?"
+
+Luna’s eyes went wide. "Tomorrow? Yes. Absolutely."
+
+"Bring the Debussy," Sterling commanded. "I want to hear the low register on that silver tube."
+
+She looked at Leo. "And bring your brother. Dr. Aris said he has a mind for structure. He might appreciate the architecture of the Fine Arts building."
+
+Leo nodded enthusiastically. *"I WILL INSPECT THE RAMPS,"* he typed.
+
+"Good," Sterling smiled.
+
+Behind her, the **5:40 PM** train to Regalis Park pulled out of the station.
+
+"You missed your train," Luna noted, feeling guilty.
+
+"There's another one in ten minutes," Sterling dismissed it with a wave of her hand. "That's the beauty of the Regional Rail. Go get some rest. You have an audition tomorrow."
+
+She turned and walked toward the platform for the next train, leaving the twins stunned in the middle of the bustling concourse.
+
+Luna looked at the card in her hand. It felt heavy. It felt like a ticket.
+
+"Leo," she whispered. "Did that just happen?"
+
+"THE DEAN INTERCEPTED US," Leo typed. "SHE MISSED A TRAIN FOR YOU."
+
+"We have to tell Stella," Luna said, grabbing his handles. "We have to tell everyone."
+
+She spun the chair around. They raced back down the Concourse Tunnel, ignoring the "No Running" signs, their hearts pounding faster than the wheels.
+
+"She wants to hear *Syrinx*," Luna said, breathless. "Live."
+
+"SHE WANTS THE SIGNAL," Leo typed.
+
+They burst into the elevator, hitting the button for the lobby. They had come for a vacation. They were leaving with a career.
+

@@ -1,0 +1,134 @@
+# Part 6: The Iron Giants & The Safe Mode
+
+## Monday, May 10, 2004 — 21:00 PM (PST) Cabin 4, The Iron Creek Lodge
+
+The rain continued to drum against the skylights, a steady rhythm that sealed the cabin off from the rest of the world. The difficult conversation was over. The tears had been dried. The "Pasco Lock" was broken.
+
+Now, it was time to plan the parameters for the next day.
+
+Jessica pulled out a brochure she had grabbed from the front office rack.
+
+"Tomorrow's forecast is overcast but dry," Jessica reported. "We have options nearby. There is a place called **Iron Spirit Park**. It says here it’s a 'sculpture garden of recycled heavy machinery.'"
+
+Freddie perked up, leaning forward on the rug. "Recycled machinery? Define."
+
+"It says it was created by an artist named Dan Klennert," Jessica read, tilting the paper toward the firelight. "He takes junk—old logging trucks, rusty gears, driveshafts, tractor parts—and welds them into sculptures. Dinosaurs, giants, birds."
+
+"Acceptable," Freddie noted, nodding slowly. "Reassigning function to obsolete hardware. Taking something broken and making it structural again. I like that."
+
+"We'll go there first," Jessica promised. "Right after breakfast. You can inspect the welds."
+
+"And right down the road in Elbe," Jessica continued, "is the train depot. They have steam locomotives parked on the tracks. Static display."
+
+"Steam power," Freddie said, a faint smile returning. "High pressure. Mechanical linkage. Approved."
+
+"There is also a historic site," Jessica added, flipping the brochure to the back panel. "The Little White Church. It says here it’s the smallest church in the state. It seats forty people. It’s supposed to be—"
+
+"Negative," Freddie cut in. His voice was sharp, the frequency spiking.
+
+Jessica stopped immediately. "Negative?"
+
+"No churches," Freddie said, staring into the glowing embers of the woodstove. "Vanessa... she used a code I did not understand."
+
+He frowned, looking down at his hands.
+
+"She said Sunday mornings are for 'cleaving.' She kept using that word. 'Leave and Cleave.'"
+
+He looked up at Paige, genuine confusion and fear in his eyes.
+
+"Does that not mean... to chop? Like a meat cleaver?" Freddie asked, his voice trembling. "She said I had to 'cleave' to her. I thought she meant I had to cut you off. Like an amputation. She made it sound like... violence. Like the only way to be with her was to sever the limb that connects me to you."
+
+He shuddered.
+
+"I do not understand why a church would want people to be amputated. It is a hostile algorithm."
+
+"It’s an old saying, Freddie," Jessica said softly, her face hardening as she realized how Vanessa had twisted the scripture to terrify him. "But the way she used it? Yes. It was violence."
+
+"I do not want to cleave," Freddie whispered. "I do not want to be cut."
+
+"Then we delete the church," Jessica said firmly, crumpling the brochure slightly and tossing it onto the table. "We stick to the machines. Iron and steam. Things that are welded *together*, not cut apart."
+
+"Welded is better," Freddie agreed.
+
+## 21:30 PM — The Decontamination
+
+The plans were set. The fire was dying down.
+
+Freddie looked at the bathroom door. He felt the sweat of the panic attack, the residue of the tears, and the lingering, phantom touch of the motel room in Pasco.
+
+He stood up. He looked at his sisters.
+
+"I require... full decontamination," Freddie stated.
+
+"A bath?" Paige asked.
+
+"Assisted," Freddie clarified. He looked down at his hands. "I cannot reach the back. I cannot... I don't want to be alone in the water."
+
+"You don't have to be," Jessica said softly. "We're here."
+
+They moved into the bathroom. It was spacious, with a deep soaking tub and slate floors.
+
+They stripped off the day clothes—the jeans, the wool socks, the t-shirts. They left them in a pile by the door.
+
+There was no shame. There was no awkwardness. They were the Unit. Clothing was armor for the Outside World—for airports, buses, and strangers. In the Bear's Den, armor was unnecessary.
+
+Jessica started the water, making it hot—steaming hot. She poured in a capful of the lodge’s cedar bath soak.
+
+Freddie stepped into the water. He sank down until the water lapped at his chin.
+
+Paige knelt on the bathmat behind him. Jessica knelt by the side.
+
+They washed him.
+
+Paige took the washcloth. She scrubbed his back, moving in slow, firm circles. She washed away the pressure sore’s memory. She washed away the bus seat. She washed away the fear.
+
+"Clean," Paige whispered.
+
+Jessica washed his hair, massaging the shampoo into his scalp, her fingers strong and sure.
+
+Freddie closed his eyes. He didn't feel like an invalid. He felt like a king being tended to by his guard. He felt cherished.
+
+"Status?" Jessica asked, rinsing the suds from his hair with a cup.
+
+"Purified," Freddie breathed.
+
+When he was done, he stepped out and wrapped himself in a thick towel. He sat on the closed toilet lid, waiting while Jessica and Paige took their turns in the water, washing off their own stress, their own worry.
+
+When they were all clean, dried, and warm from the steam, they dropped the towels.
+
+## 22:00 PM — The Alaska King
+
+They turned off the lights in the main room. The only illumination came from the dying embers in the woodstove and the grey moonlight filtering through the rain on the skylight.
+
+They walked into the bedroom. The massive bed waited—nine feet of white flannel.
+
+"Formation," Freddie whispered.
+
+They climbed in.
+
+They didn't wear pajamas. Pajamas were just another layer of static, another barrier between the components of the system.
+
+Freddie lay in the center.
+
+Jessica climbed in on his left. She pressed her back against the cool air of the room, her front pressed against Freddie’s side. Skin to skin. Warmth to warmth.
+
+Paige climbed in on his right. She curled into him, her leg hooking over his, her arm draping across his chest to hold Jessica’s hand.
+
+The Sandwich Configuration. Optimized.
+
+Freddie felt the beat of Paige’s heart against his ribs. He felt the slow rise and fall of Jessica’s breathing against his shoulder.
+
+There were no secrets here. No "Pasco Lock." No Vanessa. No hidden agendas.
+
+There was just the biological reality of the three of them, huddled together against the vastness of the world.
+
+"Safe?" Freddie whispered into the darkness.
+
+"Safe," Paige mumbled into his neck.
+
+"Safe," Jessica confirmed, squeezing his hand.
+
+Freddie closed his eyes. For the first time in a week, the map in his head was clear. There were no monsters in the dark. Just the Unit.
+
+And that was enough.
+

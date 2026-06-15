@@ -1,0 +1,26 @@
+# Part 3: The Call for Help
+
+The silence in Vera's bedroom was absolute. She lay with her back to him, a rigid, unmoving wall of refusal. Alex sat on the edge of the bed, his heart hammering against his ribs. He was trapped. The thought was cold and sharp. He was in her apartment, in a part of Portsmouth he didn't know, and she would not take him home. The memory of Megan's safe, unconditional affection was the only thing that gave him the courage to act. He had a lifeline. He just had to be brave enough to use it.
+
+He waited, his senses on high alert, until he felt like Vera was in a deep enough sleep. This was his chance.
+
+Moving as quietly as he could, he transferred from the bed to his wheelchair. He navigated the unfamiliar, cramped apartment, his push rims making terrifyingly loud-seeming noises on the floor. He found the landline phone on a small table in the living room, its cord coiled like a snake. His hands trembled as he picked up the receiver, his mind racing to remember Megan's number. He punched in the digits, his heart in his throat.
+
+The phone on the other end rang several times before a groggy, sleepy voice answered. "H'lo?"
+
+Alex held the receiver precariously between his shoulder and his ear, his AAC’s own voice a low, desperate whisper. "Megan? It's Alex. I... I'm at Vera's. In Portsmouth. And I need you to come get me. Now."
+
+There was no hesitation on the other end of the line. Megan's voice was instantly awake, sharp, and full of a quiet, protective fury. "Stay right there," she said, her tone leaving no room for argument. "Don't engage with her. Don't argue. Just get back to the bedroom and wait for my knock when I'm outside. I'm leaving VDU right now. I'll be there in twenty minutes."
+
+"Okay," Alex breathed, a profound wave of relief washing over him. "Okay, Megan."
+
+"I'm on my way," she said, and hung up.
+
+In her dorm room at VDU, Megan didn't just grab her keys. She was already in motion, pulling on a pair of jeans, her mind a steel trap of logistics. She sent two quick, crucial text messages, one to her Uncle James and one to her Aunt Emily, waking them up:
+
+Alex is in trouble at Vera's. She won't bring him home. I'm going to get him now. Will bring him to Lisa Court.
+
+Then, she grabbed her car keys and was out the door. The cavalry was on its way.
+
+Back in Vera's apartment, Alex quietly replaced the receiver and wheeled himself back to the bedroom. He sat in the tense darkness, his body trembling with a mixture of fear and a new, fragile hope. He just had to wait.
+

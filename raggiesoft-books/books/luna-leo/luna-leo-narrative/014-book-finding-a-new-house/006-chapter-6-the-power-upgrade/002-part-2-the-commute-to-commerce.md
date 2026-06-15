@@ -1,0 +1,24 @@
+# Part 2: The Commute to Commerce
+
+## 09:15 AM South Shore Line - Inbound
+
+They boarded the train. They tapped their new cards at the platform validator. *BEEP. "Valid."*
+
+They rode the **BiLevel** coach north. Leo watched the scenery change from the trees of Iron Point to the industrial sprawl of the airport, and finally, the skyline of **Braxton City**.
+
+They bypassed **Narraganset Esplanade** (BSU). Today wasn't for school; it was for business.
+
+**09:50 AM** **Braxton Central Terminal - Level 3 (Bus Wing)**
+
+They descended from the Sky Deck to the Bus Terminal.
+
+"Okay," Stella said, checking the route map. "**Metro Mobility** is on Main Street, about two miles west of here. The Metro doesn't run that way."
+
+She pointed to **Bay 4**.
+
+"We need **BTA Route 4**. It runs straight down Main."
+
+The bus pulled in—a low-floor **Stalwart**. They boarded, tapping their fresh LinkPasses. The reader flashed **TRANSFER OK**.
+
+Leo rolled into the securement bay. He looked out the window as the bus navigated the busy city streets. He wasn't just going to a store; he was going to get his legs.
+

@@ -1,0 +1,126 @@
+# Part 7: High Voltage
+
+## Sunday, May 9, 2004 — 16:30 PM (PST) The Cascade Suites, Room 412
+
+The door to Room 412 clicked shut, sealing out the hallway.
+
+Freddie wasn't walking. He was suspended between his sisters, his arms draped over their shoulders, his feet dragging slightly on the carpet. The "Hill Climb" from the waterfront—even with the elevator assist—had drained the last reserves of his physical battery. His legs were offline.
+
+"Easy," Jessica grunted, adjusting her grip on his waist. "Almost there. Sofa first, then we strip the gear."
+
+"You did good, Captain," Paige said, her voice breathless but proud. "See? If you had walked the aquarium, you would have collapsed on the pier. The chair saved your energy for the climb."
+
+Freddie nodded weakly, his head lolling against Paige’s shoulder. "Logic... confirmed. Chair was... efficient."
+
+They shuffled him into the main living area. To get to the sofa, they had to pass the large picture window.
+
+Jessica had left the curtains open earlier to let in the light.
+
+As they pivoted Freddie to lower him onto the beige cushions, his head turned. His gaze tracked past the sofa, through the glass, and down to the street below.
+
+He saw it.
+
+Directly across Stewart Street, inside the open-air bay of the terminal, a massive silver bus was idling. The logo on the side was unmistakable: **Pathfinder**.
+
+Blue diesel smoke curled up from its exhaust pipe, drifting toward the hotel window.
+
+The "Overwrite Protocol" failed. The "Good Data" from the aquarium vanished instantly, deleted by the raw, visceral trauma of the visual trigger.
+
+Freddie didn't see a vehicle. He saw a cage. He saw the miles of vibration. He saw the bathroom in Pasco. He saw Vanessa dragging him.
+
+"Ah!" Freddie yelped. It was a sharp, high-pitched sound of physical pain, as if he had been burned.
+
+Then, the air in his lungs compressed. A low, guttural rumble started deep in his chest, vibrating against Paige’s side. It rose in pitch and intensity until it tore out of his throat—a scream of absolute, primal terror.
+
+"NO! NO! NO!"
+
+He violently recoiled, trying to twist away from the window, his body spasming so hard he nearly pulled his sisters down.
+
+"Freddie!" Jessica shouted, tightening her grip.
+
+"THE VESSEL!" Freddie shrieked, his eyes rolling back, lost in the static. "IT IS HERE! IT IS WAITING!"
+
+He wasn't in the hotel room anymore. He was back in the terminal.
+
+"Code Red!" Paige yelled. "Meltdown! Get him to the bed! NOW!"
+
+They abandoned the sofa. They hauled him toward the sleeping area, dragging him as his legs kicked out involuntarily. He was thrashing, fighting them, fighting the air, fighting the invisible restraints of his own mind.
+
+They reached the King bed.
+
+"Down!" Jessica commanded.
+
+They pushed him onto the mattress. Freddie scrambled, trying to curl into a ball, his hands clawing at his ears to block out the sound of the bus engine that only he could hear. He was hyperventilating, short, sharp gasps that sounded like a dying engine.
+
+"Restrain him!" Jessica shouted.
+
+Paige didn't hesitate. She climbed onto the bed.
+
+"On your back, Freddie!" Paige ordered, grabbing his shoulders and forcing him flat.
+
+He fought her. "LET GO! TRAP! TRAP!"
+
+"It's me!" Paige screamed over his noise. "It's Paige!"
+
+She threw her leg over his hips. She climbed directly on top of him, straddling his waist, then lowered her entire body weight onto his. She pressed her chest against his chest, her stomach against his stomach.
+
+She wrapped her arms around his head, pinning his arms to his sides with her elbows. She locked her legs around his thighs.
+
+She became a human straitjacket.
+
+"Jessica!" Paige gasped. "Shield!"
+
+Jessica climbed onto the bed beside them. She didn't pin him; there wasn't room. She sat cross-legged right next to Freddie’s head, placing her hands firmly on his shoulders, adding her weight to the anchor.
+
+"We have you," Jessica said, her voice dropping to a low, commanding chant. "We have you. You are in the Silo. You are safe."
+
+Freddie bucked beneath Paige. He was strong—hysterical strength fueled by adrenaline. He arched his back, sobbing, a high, keen sound of misery.
+
+"GET IT OFF! GET IT OFF!"
+
+"I'm not getting off," Paige whispered fiercely into his ear. She pressed down harder, using gravity to compress his ribcage. "I am the ground wire, Freddie. Send the voltage to me."
+
+He was vibrating with electricity. His muscles were rock hard, firing random signals. He tried to turn his head, to bite, to scream, but Paige held him fast.
+
+"Breathe," Paige commanded. She exaggerated her own breathing, expanding her chest against his. *In. Out. In. Out.* "Match me. Find the rhythm."
+
+"Paige..." Freddie choked out, his voice broken. "Paige... Paige..."
+
+"I'm right here," she promised, locking her arms tighter. "It's Paige. It's just Paige. And Jessica. No one else. The bus is gone."
+
+"Vanessa..." he sobbed.
+
+"Deleted," Jessica said, stroking his hair with a firm, repetitive motion. "She is gone. She can't get in here. We are the firewall."
+
+They held him. They rode the wave of the meltdown. It was violent. It was loud. It was ugly.
+
+But they didn't let go.
+
+Ten minutes passed. Fifteen.
+
+Freddie’s thrashing began to slow. The screams turned into ragged, wet sobs. The electrical storm in his nerves began to ground out into Paige’s body.
+
+Twenty minutes.
+
+Freddie went limp. His head fell back against the pillow. His hands stopped clawing and uncurled. He lay there, gasping for air, sweat soaking his grey t-shirt.
+
+He was exhausted. Physically and mentally depleted.
+
+Paige felt his muscles release beneath her. She felt his heart rate drop from 'Critical' to just 'High.'
+
+But she didn't move.
+
+She knew the protocol. If she got up now—if she removed the weight too quickly—the sudden loss of pressure would trigger a rebound. His system was rebooting; it needed stability.
+
+"Holding," Paige whispered to Jessica.
+
+"Holding," Jessica confirmed. She kept her hands on his shoulders, wiping the sweat from his forehead with her thumb.
+
+Paige kept her arms locked around him. She kept her legs tangled with his. She pressed her cheek against his damp hair.
+
+"I'm staying right here," Paige murmured into his ear. "I'm staying until you tell me to move. You are the Captain. You give the signal."
+
+Freddie lay under the crushing, saving weight of his sister. He focused on the pressure. It was heavy. It was real. It was the only thing keeping him from floating away.
+
+He couldn't speak yet. The words were gone. So he just lay there, safe in the press, waiting for the world to stop spinning.
+

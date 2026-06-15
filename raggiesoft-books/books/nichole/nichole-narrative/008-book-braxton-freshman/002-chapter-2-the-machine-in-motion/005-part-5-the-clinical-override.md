@@ -1,0 +1,146 @@
+# Part 5: The Clinical Override
+
+## Date: October 12, 2004 Time: 5:34 AM Location: The Master Suite, Unit 404
+
+The room was still dark. The alarm hadn't gone off yet.
+
+Patrick was in a deep sleep, but his subconscious was always online, tuned to a specific frequency: the sound of his sister breathing.
+
+Then, the rhythm broke.
+
+“Ungh… nnngh.”
+
+It wasn’t a loud cry. It was a low, guttural groan—a sound of grinding frustration and discomfort.
+
+Patrick’s eyes snapped open. He froze, listening.
+
+He felt Nichole shift beside him. It wasn’t the smooth, sliding motion of a relaxed sleeper. It was jerky. She was squirming, trying to twist her hips away from something, but she couldn't escape it.
+
+“Hnnnng.”
+
+Patrick sat up instantly. He knew that sound. That wasn't a nightmare. That was physical distress.
+
+"Nikki?" Patrick whispered, reaching out to touch her shoulder. "You okay?"
+
+She didn't look at him. She had her head thrown back against the pillow, her eyes squeezed shut, her teeth gritted.
+
+She let out a sharp, hissing breath through her teeth. She slammed her hand against the mattress. Thump. Thump.
+
+Hurts. Hurts.
+
+"Where?" Patrick asked, his voice calm but alert. "Legs? Spasm?"
+
+He moved his hand to her quad, expecting to feel the rock-hard tension of a cramp. But the muscle was loose.
+
+Nichole shook her head violently. She moved her hand. She clawed vaguely at her hip, trying to reach the source of the fire, but her motor control wasn't precise enough to scratch the exact spot. She just hit her own hipbone in frustration.
+
+She let out a sob of pure sensory overload. It was burning. It felt like sandpaper rubbing against a sunburn.
+
+Patrick saw the hand movement. He saw her trying to dig at her upper thigh.
+
+"Skin?" Patrick asked. "Is it burning?"
+
+Nichole nodded, a tear leaking out of her eye. She made a desperate, pleading sound. Fix it.
+
+Patrick threw the covers back. He reached for the bedside lamp.
+
+"Okay," Patrick said, shifting instantly from 'brother' to 'medic.' "Let's see what's attacking you."
+
+He turned the light on.
+
+"Morning Audit," he announced, but this time, it wasn't routine. It was a tactical search.
+
+Nichole rolled onto her stomach. It wasn't a sexual movement; it was a clinical presentation. She trusted him to look.
+
+Patrick scanned her back. He checked her shoulder blades. Clear.
+
+He moved his gaze down to her lower back and hips—the danger zones for anyone who spent sixteen hours a day sitting in a wheelchair.
+
+He moved to the gluteal fold. He stopped.
+
+He didn't just look; he leaned in, adjusting the bedside lamp to get a true color rendering.
+
+"Hold on," Patrick said, his voice dropping an octave. It wasn't his 'brother' voice; it was his 'mechanic' voice when the engine made a sound he didn't like.
+
+He saw a patch of redness in the crease of her groin. At first glance, it looked like simple chafing—maybe the seam of her jeans had rubbed her the wrong way yesterday.
+
+But Patrick knew what chafing looked like. Chafing was a solid, angry red line.
+
+This was different. The main red patch was there, but scattered around the edges, like tiny islands on a map, were small, pinpoint red dots.
+
+Satellite Lesions.
+
+Patrick felt a cold spike of adrenaline. He knew exactly what that meant. It wasn't friction. It wasn't hygiene. It was Candida.
+
+He pressed his thumb gently near the rash. Nichole flinched. Her hip flexor spasmed, her leg jerking up.
+
+Guarding. She was in pain.
+
+"I know, I know," Patrick soothed, putting a hand on her back to ground her. "I'm sorry."
+
+He sat back. He looked at the rash again. He ran the logic tree in his head:
+
+- Can I fix this with zinc oxide? No. That traps moisture.
+
+- Can I fix this with air drying? No. It's already established.
+
+- Is this my fault? He checked the mental log. He had washed her perfectly last night. He had dried her completely. But she had been sitting in a warm lecture hall for three hours yesterday in tight jeans. Darkness + Moisture + Heat = Yeast. It was simple biology.
+
+But biology moved fast on compromised skin. If that skin broke down, it became an open wound. An open wound near an incontinence brief was a highway for bacteria.
+
+Patrick looked at the clock. 5:39 AM.
+
+Dr. Lin's office didn't open until 8:00 AM.
+
+Patrick stood up. He walked to the dresser and grabbed his clothes. He didn't grab his "class" clothes. He grabbed his "mission" clothes—heavy cargo pants and a tactical belt.
+
+"Nikki," Patrick said, turning back to the bed.
+
+Nichole rolled over, pulling the sheet up. She looked at him, confused by the sudden shift in energy. She tapped the mattress. Shower?
+
+"No shower," Patrick said firmly. "We are scrubbing the launch."
+
+He sat on the edge of the bed. He looked her dead in the eye.
+
+"You have a rash. It has satellite lesions. That means it's fungal. It’s yeast."
+
+Nichole frowned. She tapped her hip. Clean. She knew she was clean.
+
+"I know you're clean," Patrick said, intercepting the thought. "I washed you myself. This isn't dirt. It's a biological attack. And I can't fight it with soap."
+
+He reached for the phone on the nightstand.
+
+"If we wait, the skin breaks. If the skin breaks, we get infection. We are not waiting."
+
+He looked at the clock again.
+
+"We wait for 0800. Then I'm calling Dr. Lin's emergency line. We are skipping English 101. We are taking the first ferry to the island."
+
+Nichole’s eyes went wide. Class? They never skipped class. The "Gen-Ed Pact" was sacred.
+
+Patrick saw the hesitation. He leaned in, his hands resting on either side of her shoulders, locking her into the reality of the situation.
+
+"Nikki, listen to me. I can carry you. I can wash you. I can protect you from creeps."
+
+He gestured to the red mark on her hip.
+
+"But I am not a doctor. I don't have the ammo for this. We need a prescription antifungal, and we need it now, before that skin opens up."
+
+He picked up the phone as it started to ring.
+
+"The Machine is down for maintenance," Patrick said, his voice leaving no room for argument. "We are going to the shop."
+
+Nichole looked at him. She saw the absolute, rigid determination in his jaw.
+
+He wasn't panicking. He was executing a higher-level protocol. Preservation of the Asset.
+
+She nodded. She reached for her mouse and clicked a single word.
+
+"GO."
+
+Patrick nodded back. He dialed the number, waiting for the answering service to pick up.
+
+"Hello? This is Patrick Bennett. I'm calling for Nichole Bennett. We have a suspected cutaneous candidiasis presenting with satellite lesions and guarding. We need an immediate slot."
+
+He didn't ask. He told. And as he spoke, he was already pulling her clothes out of the drawer, ready to mobilize. The Fortress was going on the offensive.
+

@@ -1,0 +1,28 @@
+# Part 9: The Ride Home
+
+The ride home in Stella's Holt Sentinel was a quiet, comforting cocoon after the sensory overload of the first day. Without a word, Luna slid into the back seat with Leo, a silent offer of support. The moment she was settled, Leo leaned his head against her shoulder, and she immediately wrapped an arm around him, letting him cuddle with her for the entire ride home. It was a familiar, grounding ritual, a physical reassurance that his fortress was intact.
+
+"So," Stella began, her voice a low murmur as she navigated the downtown Norfolk traffic, "Delores. What's the official assessment?"
+
+"I'm... cautiously optimistic," Luna said from the back, her voice thoughtful. "She seems nice enough, and if she can help Leo with algebra, that's a huge plus. But..."
+
+"But her reaction to Olivia was weird," Stella finished, her own protective instincts clearly still humming. "I saw it too. It was a small thing, but it was there."
+
+Just as they were leaving the downtown area, getting ready to hop on the highway back to Virginia Beach, Stella pointed to a bus shelter ahead. "There she is."
+
+Luna and Leo looked. It was Delores, sitting alone at the bus stop, waiting for her long ride back to Portsmouth. The sight of her, a solitary figure against the backdrop of the bustling city, was a strange, disconnected image.
+
+"Leo," Stella asked gently, her eyes meeting his in the rearview mirror. "What do you think of Delores? Your honest answer."
+
+He was quiet for a moment, processing. He then reached for his Quantum Communicator. The synthesized voice was practical and to the point.
+
+"SHE IS GOOD AT MATH. I AM BAD AT MATH. THE TUTORING WILL BE HELPFUL."
+
+It was a simple, logical assessment, devoid of any real emotional investment. His interest was in the utility she offered, not in a deep connection.
+
+Luna, sensing his lingering sadness, decided to bring up the one thing that she knew would truly make him happy. "You know what the first thing we're doing when we get home is, right?" she said, her voice bright. "We are calling Olivia."
+
+The effect was instantaneous and profound. A brilliant, genuine smile broke across Leo's face, the first one they had seen all day that truly reached his eyes. The thought of hearing Olivia's voice, of connecting with his best friend across the miles, was a beacon of pure joy.
+
+OLIVIA! The name was a silent, happy shout in his mind. He was going to talk to OLIVIA tonight! That meant more to him than anything. He turned to his sister, a wave of profound gratitude washing over him. He gently grabbed Luna's hand and adjusted her arm, pulling her into a tighter, more comfortable cuddle. It was a perfect, non-verbal "thank you" for understanding exactly what he needed most.
+

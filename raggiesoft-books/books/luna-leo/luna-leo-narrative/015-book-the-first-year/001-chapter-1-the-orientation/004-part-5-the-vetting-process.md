@@ -1,0 +1,100 @@
+# Part 5: The Vetting Process
+
+## August 30, 2006 The Foundry Dining Hall - The "Bull Pen" Table 12:10 PM
+
+The Fortress had claimed their usual large round table in the center of the dining hall. Stella was reviewing a contract on her laptop. Olivia was unwrapping a sandwich. Luna was reviewing her French vocabulary cards.
+
+Leo rolled up to the table. But he wasn't alone.
+
+Flanking him were two girls in BSU Engineering hoodies.
+
+Stella stopped typing. Her "Guardian Bear" radar pinged instantly. She scanned them.
+
+- Target 1 (Sarah): Messy bun, safety glasses perched on her head, grease smudge on her cheek. Mechanical vibes.
+
+- Target 2 (Amanda): Sharp eyes, carrying a tube of blueprints. Civil vibes.
+
+They didn't look like Delores. They didn't look like predators. They looked tired and hungry.
+
+Leo tapped his Quantum Communicator.
+
+"STELLA. OLIVIA. LUNA. THIS IS THE COHORT."
+
+He pointed to his left.
+
+"SARAH. MECHANICAL. SHE IS IN FR-Q WITH US."
+
+He pointed to his right.
+
+"AMANDA. CIVIL. SHE UNDERSTANDS STATIC LOADS."
+
+"Hi," Sarah said, giving a small, respectful wave. "Leo said you guys held the table. Hope it's okay if we crash. The line for the pizza station is insane."
+
+Stella didn't smile yet. She sat back, crossing her arms. "You're in his classes?"
+
+"All of them," Amanda confirmed, dropping her heavy bag of books. "Structural, Calc III, and Physics. We're the 'Freshman Block.' We basically live in the same hallway."
+
+"And French," Sarah added, looking at Luna. "Leo says you guys are taking the dialect track with Gagnon? Me too."
+
+"You are?" Olivia asked, perking up.
+
+"My grandmother was Acadian," Sarah explained, pulling out a chair. "I grew up hearing it in Maine, but I can't spell it to save my life. I figured Gagnon was the only one who wouldn't fail me for saying 'blonde' instead of 'copine'."
+
+Olivia smiled, recognizing the linguistic marker immediately. "He's a good prof. He's from the Townships."
+
+Sarah blinked, looking confused. "The... townships? Like, out in the county?"
+
+Olivia laughed gently. "No, the Eastern Townships. Les Cantons-de-l'Est. It's the region in Québec just north of the Vermont border. It's where the dialect is... specific. It’s where I grew up."
+
+"Oh," Sarah said, realizing she was talking to a native. "So you're the expert. I'm just trying not to embarrass my grandmother."
+
+"We'll get you there," Olivia promised. "We're a study group now."
+
+Stella was still watching them. She looked at Leo. She looked at the silver ring on his finger. Then she looked at Sarah.
+
+"Leo tells us you're helping him with a project," Stella said neutrally. "Something about a rack?"
+
+"The M.U.L.E.," Sarah corrected immediately, her face lighting up with engineering enthusiasm. "Modular Universal Load Extender. We noticed his center of gravity was off when he carried books on his lap. Dangerous on the ramps."
+
+"So we're fabricating a rear-mount bracket," Amanda continued, pulling a napkin and sketching a quick diagram. "6061 Aluminum. Bolts directly to the frame rails here and here. It transfers the load to the rear axle so he doesn't tip backward on a 10% grade."
+
+Stella looked at the sketch. It wasn't a drawing of a "helper" pushing a wheelchair. It was a schematic of a suspension modification.
+
+They weren't trying to help him because he was helpless. They were optimizing him because he was inefficient.
+
+"We're cutting the metal tomorrow during open shop," Sarah said. "Leo sent us the CAD files this morning. His tolerance specs are insane, by the way. In a good way."
+
+Leo tapped his screen.
+
+"PRECISION IS SAFETY."
+
+"Exactly," Amanda agreed.
+
+Stella’s shoulders dropped an inch. The tension left her jaw. These weren't girls looking for a "broken boy" to fix. These were engineers looking for a problem to solve. And they respected Leo’s code.
+
+"Well," Stella said, finally smiling. "If you're building hardware for the Fortress, you better eat. Do you have meal plans?"
+
+"We do," Sarah said. "But we don't have Autocrat."
+
+She pointed to the pitcher of coffee milk in the center of the table.
+
+"Leo said you guys bring the good stuff."
+
+"Help yourself," Stella offered, sliding a stack of cups over. "Welcome to the table."
+
+Sarah and Amanda sat down. They didn't crowd Leo. They didn't baby him. They started arguing with him about the shear strength of the bolts for the rack.
+
+Leo looked at Olivia. He tapped his hand on her arm. Tap. Tap. Tap.
+
+I am good.
+
+Olivia squeezed his hand, her ring clicking against his. She looked at Sarah and Amanda. They saw the ring. They smiled—a clear acknowledgement of the boundary.
+
+"So," Luna said to Sarah. "About French class. Did Gagnon warn you about the 'Joual' slang unit?"
+
+"He terrified me," Sarah admitted, pouring coffee milk. "I'm going to need a tutor."
+
+"We've got you," Olivia said. "We're a package deal."
+
+The Fortress had expanded. It hadn't let down the drawbridge; it had just issued two new visitor passes.
+

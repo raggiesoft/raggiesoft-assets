@@ -1,0 +1,88 @@
+# Part 10: The Captaincy Protocol
+
+## Wednesday, July 23, 2003 21:30 PM — 105 Pepper Street
+
+The credits for *The New Era* had finished, but the TV was still on. Jessica, in a moment of curiosity, hit the "Previous Channel" button on the remote.
+
+The screen flickered to **Channel 24**, a retro-rerun station.
+
+Grainy, Technicolor footage filled the screen. The aspect ratio was 4:3, the colors oversaturated in that distinct 1960s way.
+
+And then, the music started.
+
+It wasn't the soaring, orchestral French horn fanfare of *The New Era*.
+
+It was a strange, warbling theremin melody overlaid with bongos and a jazzy brass section.
+
+*Wooo-weee-oooo... Dum-da-dum-da-dum...*
+
+Freddie winced. He physically recoiled.
+
+"Audio dissonance," Freddie stated, his nose wrinkling. "This sounds like a game show in space. It lacks... gravitas."
+
+"It’s the original," Jessica explained, watching the screen where a spaceship—clearly a model on a string—wobbled past a papier-mâché planet. " *Stellar Voyage: The First Missions* . 1966."
+
+On screen, the bridge of the ship appeared. It was colorful, filled with jellybean buttons and blinking lights that didn't seem to do anything.
+
+Sitting in the center chair was **Captain Sterling**.
+
+He was wearing a gold velour shirt that was slightly too tight. He was leaning forward, grinning at a female alien with green skin and a silver miniskirt.
+
+The dialogue was melodramatic.
+
+*"But you see, Princess... in my world... we know how to love."*
+
+Sterling grabbed the alien’s shoulders. He pulled her in for a dramatic, music-swelling kiss. He didn't ask. He just took.
+
+Freddie stiffened. He felt a sudden, sharp spike of revulsion.
+
+He looked at the way Sterling held the woman. It wasn't the protective, grounding hold Freddie used with Paige. It wasn't the "Sandwich Configuration."
+
+It was predatory. It was... *Krystal*.
+
+"He is a variable of chaos," Freddie whispered, pointing a trembling finger at the screen.
+
+"Captain Sterling?" Paige asked, looking down at him.
+
+"He operates on impulse," Freddie analyzed, his voice hardening. "He ignores the Prime Directive to engage in romantic friction. He endangers the crew for the sake of his own ego. He is not a diplomat. He is a cowboy."
+
+He shifted his weight, settling deeper into the sofa.
+
+He was lying on his side, his head resting comfortably in Paige’s lap, his face turned toward the television.
+
+Paige had her arm draped over his chest, her palm resting flat and warm directly over his heart. It was her signature move—a physical promise that she was there, that she was the anchor.
+
+Usually, Freddie required this configuration to survive. He needed the weight to stop his heart from racing, to keep his batteries from draining to zero.
+
+But tonight, his batteries were fine. He wasn't crashing. He wasn't panicked.
+
+He realized, with a quiet sense of wonder, that he didn't *need* to be here. He *wanted* to be here. He was staying in her lap simply because he enjoyed the affection.
+
+He looked at Sterling on the screen, who was now punching a lizard-man in the face while winking at the camera.
+
+"He treats the crew like accessories," Freddie noted. "Captain Miller asks for input. Captain Sterling gives orders and takes what he wants."
+
+"He's a bit of a womanizer," Jessica agreed, reaching for the remote. "Different era. Different coding."
+
+"It is flawed coding," Freddie stated firmly.
+
+He felt the gentle rise and fall of Paige’s breathing against the back of his head. He felt the steady pressure of her hand on his heart.
+
+He realized with absolute clarity that he never wanted to be a man like Sterling. He never wanted to look at a woman—especially the women who kept him safe—and see a conquest.
+
+He wanted to be Miller. The man who sat in his ready room, drinking tea, listening to his officers, and respecting the structure of the ship.
+
+"Change the input," Freddie requested. "Return to the *New Era* theme. I require the French horns."
+
+Jessica smiled and hit the power button on the VCR to eject the tape, but not before switching the TV input back to the blue screen of silence.
+
+"Captain Miller it is," Jessica said.
+
+"Miller," Freddie confirmed.
+
+He didn't move from Paige's lap. He stayed right there, secure under the weight of her hand, choosing the safety of the Unit over the chaos of the cowboy.
+
+In his mind, the debate was settled. The 1960s were noise. The *New Era* was music.
+
+"System purged," Freddie whispered, closing his eyes and enjoying the hug. "We stick to the Next Generation."
+

@@ -1,0 +1,28 @@
+# Part 2: The Reunion – Food, Family, and French (Summer 2000)
+
+The moment Alex wheeled through the Leclercs' back door and onto the sprawling wooden deck, he was enveloped in a wave of sensory information. The backyard was a vibrant tapestry of life, teeming with people of all ages—aunts, uncles, cousins, and family friends. The air was thick with the savory aroma of sausages sizzling on a large barbecue, the boisterous, musical sound of rapid-fire Québécois French, and the cheerful folk-rock melodies of a popular Québec band playing from a portable stereo perched on the railing.
+
+It was loud, chaotic, and wonderfully, overwhelmingly welcoming.
+
+The centerpiece of the gathering was a series of long picnic tables groaning under the weight of a magnificent potluck feast. Sophie and Geneviève quickly added their own contributions—the sausages from the *boucherie* and the bags of cheese curds and chips. Alex’s eyes widened as he took in the spread. There were dishes he’d never seen before: a deep-dish meat pie that Sophie identified as Tourtière, a layered casserole of beef, corn, and potatoes that she called Pâté Chinois, and an array of colorful salads. On another table, a formidable dessert section was already taking shape, anchored by a glistening Tarte au sucre (sugar pie).
+
+Uncle David, a spatula in hand, was presiding over the grill. "Ah, les Millers!" he boomed, his smile genuine. "*Bienvenue, bienvenue!* Can I get you folks something to drink? A beer? Some *liqueur*?"
+
+James and Emily exchanged a brief, confused glance at the offer of liquor in the middle of the afternoon. "Oh, no alcohol for us, thank you, David," James replied politely, gesturing vaguely at the teens. "We have the long drive back to Virginia tomorrow."
+
+David let out a hearty laugh, realizing the misunderstanding. "Ah, non, non! My mistake! Here in Québec, *la liqueur*, it's what you call soda or pop! Of course!" He winked. "I will get you some Habitant, our local cola. The best! You must try it."
+
+"Oh!" Emily said, a relieved smile breaking out on her face. "Of course. We'd love to try it, thank you." It was a small, amusing lesson in the nuances that went far beyond their language books.
+
+A few minutes later, after a flurry of introductions, David wiped his hands on his apron and gestured towards a cleared patch of lawn where several older men were tossing steel balls into a patch of sand.
+
+"James, Alex," he said, his gaze warm and inclusive. "*On va jouer à la pétanque.* You want to play? It's easy. You just try to get your balls closest to the little one."
+
+Mathieu, Chloé's older cousin, trotted over with a set of the heavy, silver *boules*. "*C’est le fun, Alex, tu vas voir,*" he said with a grin. (It's fun, Alex, you'll see.)
+
+It was a perfect game for Alex. He could position his chair at the edge of the playing area and, with his strong arms, toss the *boules* with surprising accuracy. James joined in, his competitive spirit emerging as David and Mathieu patiently explained the finer points of the game in a mix of French and English. The Millers weren't just guests; they were immediately participants.
+
+As the game of pétanque got underway, Chloé led her parents and Alex’s mom on a tour of the food. Emily Miller, adventurous and eager, used her year of French lessons to ask Geneviève about the different dishes, her efforts met with delighted and encouraging replies.
+
+The afternoon settled into a comfortable rhythm. The sounds of laughter, the clink of pétanque balls, and the constant, lively chatter of French created a warm, immersive backdrop. Alex found himself at the center of a world that was entirely new, yet thanks to the year of preparation and the unwavering presence of Chloé by his side, it didn't feel intimidating. It felt like family.
+

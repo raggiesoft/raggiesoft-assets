@@ -1,0 +1,74 @@
+# Part 20: The Prime-Time Réveillon
+
+At 6 PM on Christmas Eve, Arthur and Eleanor's house was a beacon of warmth and festive chaos. The dining room, with its long table extended to its absolute maximum, was the heart of the celebration, beautifully set and ready for the entire expanded family. The air was a symphony of incredible smells—roasting turkey, the rich spices of the *tourtière*, and the savory aroma of the poutine gravy simmering on the stove.
+
+As the Canadian family arrived from the hotel, Arthur, the proud host, first took Luna and Leo aside. He led them to a cozy den just off the dining room. "Now, you two," he said gently, "your grandmother and I have set this up as your designated safe room. There are comfortable chairs, some books, and a music player. If it gets too loud or overwhelming out there, you come in here to decompress. No questions asked. This is your quiet space."
+
+This thoughtful act of preparation was another layer of security, allowing both Luna and Leo to relax and fully embrace the celebration, knowing they had an escape route if needed.
+
+The feast began. The long table was a beautiful, boisterous mix of two families, with happy conversations flowing in a blend of French and English. At the center of it all sat Leo, with Olivia a constant, reassuring presence at his side. She never wavered from her assignment. She was his anchor in the happy storm, helping him get his food, leaning in to translate a French joke from one of her cousins, and subtly shielding him from the overwhelming sensory tide.
+
+Finally, the moment Leo had been waiting for arrived. Olivia placed a steaming bowl in front of him: a perfect pile of crispy, golden fries and fresh, squeaky cheese curds, all smothered in the authentic, savory gravy her Tante Isabelle had helped her prepare. He took his first bite.
+
+His eyes went wide, and he looked at Olivia with an expression of pure, unadulterated bliss. It was salty, savory, cheesy, and absolutely perfect. It was even better than he had imagined. Surrounded by the warmth and laughter of his entire fortress, tasting this wonderful new food for the first time, Leo felt a wave of happiness so pure it washed away the last lingering shadows of the past month. This was home. This was family. This was joy.
+
+As the Réveillon feast continued, the big dining table at Arthur and Eleanor's house was alive with a happy symphony of laughter and conversation. Olivia's Tante Isabelle, seated next to Stella, smiled warmly.
+
+"Stella, *merci*. Thank you for welcoming us into your family's celebration. It is so wonderful," she said, her English carrying a soft, musical Québécois accent.
+
+This was the opening Stella had been waiting for. She smiled, took a breath, and carefully replied in her best, practiced French. "*De rien, Isabelle. Nous sommes très heureux que vous soyez ici.*" (You're welcome, Isabelle. We are very happy that you are here.)
+
+Isabelle's eyes widened in delighted surprise, and a ripple of impressed murmurs went through the Canadian side of the table.
+
+Luna, not wanting to be left out, chimed in enthusiastically, pointing to the meat pie. "*Oui! Et la tourtière est très, très délicieuse!*" (Yes! And the meat pie is very, very delicious!)
+
+Olivia was beaming, her heart fit to burst with pride as she watched her two families connect through her language.
+
+Then came the moment that sealed it all. Leo, who had been listening with a happy, focused expression, lifted his MagnaByte Scribe. He had been practicing this phrase with Olivia. The robotic voice, clear in a momentary lull in the conversation, spoke the words he had typed.
+
+"MERCI DE VISITER. C'EST BON D'AVOIR LA FAMILLE DE MA BLONDE ICI." (Thank you for visiting. It is good to have my girlfriend's family here.)
+
+A collective, happy gasp went around the table. The public, confident use of the term "*ma blonde*" (my girlfriend) in front of her entire family was a profound declaration. Olivia's Tante Isabelle looked from Leo to a blushing, incredibly proud Olivia, and her eyes filled with happy tears.
+
+"*Oh, c'est si gentil, Leo!*" (Oh, that is so sweet, Leo!) she said, her voice thick with emotion. The cousins all grinned, thinking it was the coolest, sweetest thing they had ever seen.
+
+Olivia simply reached over and squeezed Leo's hand, her heart overflowing. The French lessons weren't just about learning words anymore; they were about building bridges, and at that moment, they had just completed a beautiful, unbreakable one.
+
+The room was dimly lit, the only sound the soft hum of a tabletop fountain Eleanor had set up. Luna sank into a plush armchair, closing her eyes and just breathing for a moment.
+
+Leo, needing a deeper level of comfort to regulate himself, looked at the small sofa. He then looked at his sister and his girlfriend, his need clear in his eyes.
+
+"Come on," Olivia said softly, understanding immediately.
+
+She and Luna settled onto the small sofa first, and then Stella helped Leo transfer between them. He sank into the cushions, the overwhelming sensory input of the party beginning to recede, replaced by the familiar, grounding presence of his fortress. He immediately leaned into Olivia, his head finding the familiar comfort of her shoulder, and simultaneously reached for Luna on his other side, pulling her arm around him. He wanted to fully cuddle with both his twin and his blonde, needing the complete, 360-degree security of their embrace.
+
+The four of them sat in the quiet dark for the next ten minutes. There was no need for words. Stella gently rubbed Leo's back in slow, steady circles, while Olivia and Luna held him close. Surrounded by the three women he trusted most in the world, the chaotic energy of the party washed away, leaving only a profound sense of safety and peace.
+
+After ten minutes in the quiet den, the steady, grounding presence of his fortress had worked its magic. Leo took a deep, calming breath, the tension finally gone from his shoulders. He gently squeezed Luna's hand and gave Olivia a small nod. He was ready. Luna, looking equally refreshed, smiled at Stella. "Okay," she said softly. "I'm good now."
+
+The four of them re-entered the dining room, their return seamless and unnoticed in the happy, festive flow of the party. The main course was winding down, and the table was a beautiful mess of empty plates and satisfied smiles.
+
+"Just in time!" Arthur boomed, seeing them. "Isabelle is about to bring out the *bûche de Noël*!"
+
+The Yule log cake was a masterpiece, and the celebration continued with dessert and coffee. Finally, with the feast concluded, Olivia stood and clapped her hands. "*Ok tout le monde!* It's time for the presents!"
+
+A look of happy confusion passed between Stella and her grandparents. "Presents?" Stella asked with a smile. "Already? It's not Christmas morning yet."
+
+Olivia's Tante Isabelle laughed, a warm, musical sound. "Ah, but this is a Réveillon!" she explained, her accent adding a lovely lilt to her words. "In Québec, the big celebration is tonight! We stay up late, we eat, and we open our gifts together after the feast. We do not wait for Père Noël to come in the morning."
+
+"I love that!" Luna declared immediately. "Why wait?"
+
+"A new tradition it is, then!" Arthur announced cheerfully.
+
+With the custom explained, the cousins joyfully passed out the beautifully wrapped packages from under the tree. The living room filled with the happy sounds of tearing paper and delighted exclamations. Leo and Luna were showered with thoughtful gifts from their new Canadian family—warm scarves, books, and specialty maple candies.
+
+Leo, in turn, presented the gifts he had carefully chosen. For Olivia's cousins, he had picked out albums from his favorite rock bands, a gesture that was deeply appreciated. For Olivia herself, he had a special gift he'd had Stella help him order: a framed, high-quality print of a beautiful, serene landscape of the Québec countryside.
+
+As the night wound down and the Canadian family prepared to head back to their grand hotel, Olivia's Tante Isabelle gave Leo a warm hug. "*Joyeux Noël, Leo. Bienvenue dans la famille,*" she whispered. (Merry Christmas, Leo. Welcome to the family.)
+
+Leo, surrounded by his two families, his heart full and his stomach full of poutine, typed a final message on his Scribe, the robotic voice clear and steady in the quiet room.
+
+"BEST CHRISTMAS EVER."
+
+It truly was. He was safe. He was loved. He was home.
+

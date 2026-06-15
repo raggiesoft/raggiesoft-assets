@@ -1,0 +1,22 @@
+# Part 7: The Quiet Dawn
+
+Sunday morning arrived not with the jarring ring of an alarm, but with the soft, gentle light of a new day filtering through the blinds of Stella's bedroom. True to her word, there were no alarms. There was only a profound, healing quiet.
+
+Leo surfaced slowly from a sleep that had eventually come, deep and dreamless in the aftermath of his terror. He woke to the gentle, rhythmic rise and fall of breathing around him. He was still safely cocooned on the waterbed, with Olivia a warm, solid presence on one side, and Stella and Luna on the other. The phantom feel of chains and cold stone was gone, replaced by the reality of soft blankets and the unwavering security of his fortress.
+
+He didn't feel the need to move or speak. For a long time, he just lay there, soaking in the peace, re-calibrating his senses to the simple fact that he was safe.
+
+Olivia woke next, her movements slow and careful so as not to disturb him. She saw his eyes were open and gave him a soft, sleepy smile that asked a silent question: *You okay?* He gave the smallest, almost imperceptible nod. *Okay now.*
+
+There was no rush to start the day. The frantic energy of Black Friday was a distant memory. Today was for healing. One by one, the sisters woke, and the four of them remained on the bed, a quiet island in the morning light. No one pushed him to talk or get up. Luna simply reached for one of her music players and a headphone splitter, and soon the quiet, intricate melodies of an Origin album filled their shared space, another layer of calming, familiar sensory input.
+
+Stella, sensing he might need it, gently began to rub his back in slow, steady circles, the firm, predictable pressure a grounding force. Olivia mirrored the action on his arm, her touch just as steady and reassuring. They didn't speak; they simply offered comfort, letting him regulate himself at his own pace.
+
+After nearly an hour of quiet music and gentle, grounding touch, Leo finally felt ready. He reached for his Scribe and typed a simple request.
+
+"HUNGRY."
+
+Stella smiled, the first bright, genuine smile of the morning. "Okay, buddy," she said softly. "I think we can manage that. How about some pancakes?"
+
+He nodded, a sense of real, uncomplicated normalcy beginning to return. The nightmare had been a storm, but the morning after was a quiet, gentle dawn, and his protectors had weathered it with him, guiding him safely back to shore.
+

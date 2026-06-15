@@ -1,0 +1,27 @@
+# Part 7: The Silo (Standard Ops)
+
+## 22:15 PM
+
+The door to the Master Bedroom clicked shut. The blackout curtains were drawn, sealing the room into a protective, cool twilight. The **King Bed** dominated the space. It was a massive, 76-inch plain of maroon jersey sheets—a landscape of safety.
+
+"Armor off," Jessica said, dropping her towel by the hamper. She climbed into the bed on the left side, pulling the sheet up to her waist. Paige followed suit, claiming the right side.
+
+Freddie stood by the edge of the bed. Yesterday, this moment had been terrifying. Yesterday, he had woken up screaming because he thought he had broken a rule. Today, he knew there were no rules. There was only the System they built.
+
+He dropped his towel. He didn't scramble to cover himself. He walked calmly to the side of the bed. He climbed into the center.
+
+He lay on his back. The mattress absorbed his weight. "Formation," Freddie whispered.
+
+Jessica rolled onto her side, pressing against his left arm. Paige rolled in from the right, resting her head on his shoulder, draping her arm over his chest to lock him in. They collapsed the empty space. They became a single thermal unit.
+
+Freddie closed his eyes. He ran a system diagnostic. *Heart Rate:* Nominal. *Anxiety:* Zero. *Shame:* Not Detected.
+
+He felt Paige’s breathing. He felt the weight of Jessica’s arm. It wasn't sexual. It wasn't weird. It was **Gravity**. It was the force that held him to the earth.
+
+"Textbooks on the nightstand?" Freddie asked into the dark. "Right there," Paige whispered. "Ready for class." "Good," Freddie said.
+
+He let out a long, slow breath. The static in his head—the white noise of fear that had been running in the background for eighteen years—finally went silent. He was safe. He was funded. He was understood.
+
+"Goodnight, Admins," Freddie whispered. "Goodnight, Navigator," they replied in unison.
+
+

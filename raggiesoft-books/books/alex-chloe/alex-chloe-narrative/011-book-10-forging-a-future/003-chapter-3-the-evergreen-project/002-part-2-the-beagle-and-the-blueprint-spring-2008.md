@@ -1,0 +1,14 @@
+# Part 2: The Beagle and the Blueprint (Spring 2008)
+
+The catalyst for change arrived on a drizzly spring Saturday. The shelter had taken in a sweet-natured beagle mix with a sad story; a spinal injury had left one of his back legs completely paralyzed. He was a happy, affectionate dog, but he moved by awkwardly dragging his useless limb behind him.
+
+The three of them met him in the shelter's play yard. Chloé knelt, stroking the beagle's soft ears, her heart aching for him. Megan was asking the shelter director, a kind woman named Maria, a series of practical, concerned questions about his long-term prognosis.
+
+Alex, however, wasn't just seeing a sad case. He was looking at the way the dog tried to move, the awkward angle of the dragging leg, the friction sores already starting to form. He wasn't seeing a problem; he was seeing a design flaw.
+
+That evening, back in their apartment, Alex was quiet and intensely focused. He pulled up a 3D modeling program on his computer.
+
+WE NEED TO GO BACK TOMORROW, he typed. I NEED TO TAKE SOME MEASUREMENTS.
+
+The next day, while Chloé kept the beagle calm with treats and Megan carefully wrote down the numbers, Alex used a soft measuring tape, meticulously noting the height of the dog's hips, the width of his body, and the length of his good leg. Back home, he translated those numbers into a blueprint. For the next week, their apartment was filled with the low hum of their home 3D printer as Alex prototyped piece after piece, with Megan and Chloé acting as his quality control team, testing different wheel sizes and harness connection points.
+

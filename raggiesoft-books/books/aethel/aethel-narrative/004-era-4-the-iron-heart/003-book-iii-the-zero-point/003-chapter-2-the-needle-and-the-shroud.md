@@ -1,0 +1,221 @@
+# Chapter 2: The Needle and the Shroud
+
+## Part 1: The Signal in the Water
+
+Theme: cosmic-detection
+
+Location: The Garden Bath
+
+POV: Kaela
+
+=
+
+The water in the granite tub was trying to freeze. A thin skin of ice kept forming on the surface, cracking only when Kaelan sent a pulse of heat through the stone.
+
+They sat submerged to their chins, eyes closed, hands clasped underwater.
+
+"I can see Him," Kaela whispered, her mind projected into the astral layer. "Or... I can see where He isn't."
+
+The Unseen was not a physical being standing on a hill. He was a Shroud. A vast, blanket-like field of dampening energy that was wrapping around the upper atmosphere of Earth, choking off the solar connection.
+
+"He's insulating us," Kaelan realized, his jaw tight. "He's cutting the power lines. The suns are shining, but the energy isn't getting through."
+
+"We have to punch a hole in the shroud," Kaela said. "If we can break the dampening field for just a second, the solar wind will rush back in and burn him away."
+
+"We need altitude," Kaelan said. "We can't do it from this valley. The atmosphere is too thick here. We need to get closer to the vacuum."
+
+He scanned the mental map of the world.
+
+"The Spire," he decided. "The Zenith Peak in the Northern Wastes. It’s the highest point on the crust. It pierces the stratosphere."
+
+"That's a thousand miles North," Kaela noted. "Through the blizzard."
+
+"Then we better drive fast."
+
+Kaelan opened his eyes. The gold was dim, flickering like a dying candle.
+
+"Kaela," he said softly. "He's invisible. How do we fight something we can't target?"
+
+Kaela looked at the water. She watched how the water bent around her fingers.
+
+"Gravity bends light," she said. "If I pull hard enough... I can wrap the light around him. I can outline him in shadow. I can make the Unseen seen."
+
+"You paint the target," Kaelan nodded. "And I pull the trigger."
+
+## Part 2: The Last Supply Run
+
+Theme: sunstead-farewell
+
+Location: The Forge
+
+POV: Kaelan
+
+=
+
+They found Horg inside the forge. He wasn't working. He was huddled near the dying embers of his fire, wrapped in three blankets.
+
+The town was silent. The cold had driven everyone indoors. The sky was a terrifying, flat grey.
+
+"Horg," Kaelan said, stepping into the warmth.
+
+Horg looked up. His beard was frosted.
+
+"The fire won't stay lit, lad," Horg whispered, shivering. "I pump the bellows, but the heat just... vanishes."
+
+"We know," Kaelan said. He walked over and placed his hand on Horg’s shoulder. He poured a steady stream of thermal energy into the blacksmith, warming him instantly.
+
+Horg sighed, the color returning to his face. "That's better. You're a walking furnace."
+
+"We have to leave, Horg," Kaela said gently. "We have to go North. To the Spire."
+
+"To fight the Cold?" Horg asked.
+
+"To turn the suns back on," Kaelan corrected.
+
+Horg nodded. He didn't argue. He knew that hammers couldn't fix the sky.
+
+"You'll need the boat," Horg said, standing up. "And you'll need warm gear. Not that scratchy wool rubbish."
+
+He went to a heavy cedar chest in the corner of the shop. He pulled out two bundles.
+
+"Bear fur," Horg said, handing them over. "Lined with silk. I traded for these last winter, thinking you might want winter coats. Soft as a cloud, warm as a hearth."
+
+Kaelan took the coat. He ran his hand over the lining. It was incredibly soft.
+
+"Thank you, Horg," Kaelan said earnestly. "No itching."
+
+"No itching," Horg agreed. "Now go. Before my toes freeze again."
+
+Kaelan looked at his old friend.
+
+"Keep them inside, Horg. Share the body heat. We'll be back before the wood runs out."
+
+"Just come back," Horg said gruffly. "I can't run this Council by myself. The Miller talks too much."
+
+## Part 3: The Drag of the Void
+
+Theme: adventure-struggle
+
+Location: The Frozen Plains (North of Sunstead)
+
+POV: Kaela
+
+=
+
+The *Iron Keel* was moving, but it felt like they were driving through molasses.
+
+Kaelan was at the controls, his hands gripping the iron levers white-knuckled. He wasn't just steering; he was powering the magnetic rails manually. The earth's natural magnetic field was sluggish, dampened by the Unseen's influence.
+
+"Come on," Kaelan gritted out, sweat beading on his forehead despite the freezing wind. "Spin!"
+
+The boat skimmed over the ice, the runners shrieking.
+
+They were heading North, toward the jagged black tooth on the horizon that was the Zenith Peak.
+
+But the Unseen knew they were coming.
+
+He didn't send monsters. He sent Physics.
+
+"The air," Kaela gasped, clutching the dashboard. "It's getting... heavy."
+
+The wind resistance increased. The air pressure dropped. It felt like invisible hands were grabbing the hull of the boat, trying to drag it to a halt.
+
+"He's increasing the friction coefficient," Kaelan analyzed. "He's trying to stop us by making movement impossible."
+
+The boat slowed. 60 mph. 40 mph. 20 mph.
+
+"I can't push through it!" Kaelan shouted. "The drag is too high!"
+
+"Then we make a tunnel!" Kaela yelled over the wind.
+
+She stood up in the passenger seat. She grabbed her staff (which she had brought this time).
+
+She pointed it forward, directly in front of the boat's prow.
+
+"Vacuum Tunnel!" she commanded.
+
+She engaged the Lunar Pull. She didn't pull the boat; she pulled the *air* in front of the boat away. She created a localized vacuum tube, a tunnel of zero-resistance directly ahead of them.
+
+*WHOOSH.*
+
+With the air resistance gone, the *Iron Keel* shot forward like a bullet.
+
+"That's it!" Kaelan cheered, feeling the acceleration pin him to the seat. "Keep it open, Moon!"
+
+"I'm holding it!" Kaela gritted her teeth, her silver eyes glowing.
+
+They rocketed across the wastes, a streak of iron and will, boring a hole through the thick, syrupy atmosphere of the Unseen.
+
+## Part 4: The Ascent
+
+Theme: epic-climb
+
+Location: The Slopes of Zenith Peak
+
+POV: Kaelan
+
+=
+
+They reached the base of the mountain at twilight (though "twilight" was just a slightly darker shade of grey).
+
+The Zenith Peak was a vertical spike of rock reaching thirty thousand feet into the sky. There was no road. There was only a sheer, icy face.
+
+Kaelan stopped the boat.
+
+"We can't drive up that," Kaela said, looking up at the impossible incline.
+
+"We don't drive," Kaelan said, unbuckling his harness. "We climb. And we jump."
+
+They abandoned the boat. They stood at the base of the cliff.
+
+The cold here was absolute. It was close to -50°F. Even with Horg’s silk-lined furs, Kaelan had to keep his internal Engine running at 110% just to keep their blood liquid.
+
+"Ready?" Kaelan asked, offering his hand.
+
+Kaela took it.
+
+"Up," she said.
+
+She manipulated their personal gravity. She reduced their weight to almost nothing.
+
+Kaelan crouched and launched them upwards.
+
+They leaped. Not a human jump, but a Scion jump. They soared five hundred feet into the air, landing on a narrow ledge.
+
+"Again," Kaelan said.
+
+They leaped again.
+
+But as they climbed higher, the Unseen attacked.
+
+Not with wind. With Silence.
+
+Suddenly, Kaelan couldn't hear Kaela's breathing. He couldn't hear his own heartbeat. The sensory deprivation was disorienting. He felt dizzy, untethered.
+
+*He's cutting the senses,* Kaelan realized. *He's trying to make us forget we exist.*
+
+He squeezed Kaela's hand. He focused on the heat of her palm. That was real. That was motion.
+
+*Don't let go,* his mind projected.
+
+*Never,* she answered.
+
+They climbed the silent mountain, fighting the nothingness with every step.
+
+Finally, they reached the summit—a needle of rock piercing the cloud layer.
+
+They stood on the roof of the world.
+
+Above them, the Shroud was visible. It was a swirling, grey nebula blocking the stars. It was heavy, suffocating, and hateful.
+
+"There," Kaela pointed.
+
+In the center of the Shroud, directly above the peak, there was a density. A knot in the fabric.
+
+The Unseen was hovering there, invisible to the eye, but massive to the soul.
+
+"He's waiting," Kaelan said. He began to strip off his gloves. His hands were smoking.
+
+"He thinks we're just batteries," Kaela said, planting her feet. "He thinks he can just blow us out."
+
+"Let's show him," Kaelan growled, his eyes turning into twin supernovas, "what happens when you overcharge the circuit."

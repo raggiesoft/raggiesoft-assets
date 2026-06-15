@@ -1,0 +1,70 @@
+# Part 1: The Illusion of Control – Saturday, October 22, 2044 – 05:00 (PDA alarm goes off at 0500 hours)
+
+The harsh, two-tone wail of the facility’s shift-change klaxon didn’t reach Wyatt. Deep inside the lead-lined walls of the abandoned filtration sector, behind a heavy blast door wedged shut with a steel pipe, the morning arrived in absolute, undisturbed silence.
+
+Instead, it was the muted, rhythmic vibration of his Level 1 PDA against the grated floorboard that woke him.
+
+Wyatt opened his eyes. The room was still cast in the dim, ambient glow of the emergency lights. He was zipped tightly into the insulated sleeping bag on the cracked vinyl sofa. Sarah was asleep with her head resting on his chest, her bare arm draped securely across his torso, her breathing slow and peaceful. The cramped, thirty-inch space of the sofa didn't bother either of them; after yesterday, the total lack of distance was exactly what they both wanted.
+
+He reached down, silencing the alarm on his datapad. The screen read 0500 hours. It was time to clock in for Day 3.
+
+Wyatt gently stroked Sarah’s shoulder, his thumb tracing the line of her spine. "Hey," he murmured, his voice a low, raspy rumble in the quiet room. "Time to wake up."
+
+She stirred, letting out a soft groan of protest. She didn't pull away. Instead, she pressed her face tighter against his neck, completely refusing to acknowledge the corporate reality waiting outside the door.
+
+"Five more minutes," she whispered against his skin, her fingers naturally tangling in the hair at the nape of his neck. "Tell Apex we're busy."
+
+A genuine, effortless laugh rumbled in Wyatt's chest. He wrapped his arms around her, squeezing her tight. The contrast between this hidden, intimate sanctuary and the rusted, blood-grinding machine of the Nevada facility was jarring. He wanted nothing more than to stay locked in this room with her, ignoring the drills, the Supervisors, and the failing infrastructure.
+
+But they both still had to play the corporate illusion.
+
+"If we don't scan our biometrics at the Mess Hall," he reminded her gently, kissing the top of her head, "the system logs us as AWOL. They'll lock our ration cards, and a Supervisor will start pinging our last known coordinates. We have to go get counted."
+
+Sarah sighed, the heavy reality of the contract finally pulling her awake. She lifted her head, looking down at him with a soft, affectionate smile that completely belied the hellhole they were trapped in.
+
+"Fine," she conceded, leaning down to give him a slow, lingering kiss to start the day. "But tonight, we are coming right back here."
+
+"Right back here," Wyatt promised.
+
+They both slid out of the warmth of the sleeping bag, the chill of the dead air recyclers hitting their bare skin. Wyatt quickly pulled on his abrasive black and hazard-yellow S.H.O.P. Marine armor. Beside him, Sarah shimmied into the stiff, dusty uniform they had found the night before. It was definitely a size too small, the heavy black fabric pulling tight across her shoulders and hips, but she managed to zip it up. The faded nametape reading *HAYES* sat squarely over her breast pocket.
+
+Wyatt packed the sleeping bag into his canvas duffel, leaving the room exactly as they had found it. He walked over to the heavy blast door, gripped the decommissioned steel pipe, and kicked it loose from the grated floor. He looked back at Sarah. She was standing a few feet behind him, her heavy Mark-IV flashlight clipped to her belt, her posture completely shifting. The soft, vulnerable woman from the sofa vanished, seamlessly replaced by a stoic, hyper-competent contractor.
+
+He heaved the blast door open.
+
+The deafening, ambient roar of Sector 4 violently crashed over them. But today, the noise was different. It wasn't just the rhythmic thud of the deep-core drills. There was a high-pitched, mechanical whine underscoring the vibration, and the air rolling down the catwalk hit him like a physical wave of heat. It smelled intensely of sulfur and melting copper.
+
+"The thermal output is worse today," Sarah murmured, stepping out onto the catwalk beside him, her professional mask firmly in place.
+
+"Keep your head down," Wyatt told her, lacing his fingers with hers just for a fleeting second before letting go as they stepped into the view of the main corridor. "Let's go get our gray paste and get back on the patrol route."
+
+They navigated the maze of catwalks, ascending the main elevators toward Sector 1. The moment they crossed the threshold out of the lead-lined filtration zone, their PDAs buzzed simultaneously. The network trackers reconnected, logging their presence on the grid just in time for the morning rush. As far as the Apex automated HR algorithm was concerned, they had just woke up in Barracks 4 and walked straight to breakfast.
+
+Wyatt merged into the chaotic, sweating herd of contractors funneling into the cavernous Mess Hall. The room was a powder keg today. The veterans looked exhausted, and the massive wave of two hundred new recruits they had seen last night looked absolutely terrified, jumping at every loud clank of the machinery.
+
+But as they moved through the crowd, Wyatt noticed an immediate difference. Yesterday, Sarah had stuck out like a sore thumb in her bright slate-blue Helios colors. Today, wrapped in the tight, dark armor of a S.H.O.P. Marine, she blended perfectly into the miserable gray tide. No one stared. No one whispered.
+
+He guided Sarah to the wall dispensers. *Clunk.* He scanned his thumb. *Clunk.* She scanned her wrist.
+
+*ATTENDANCE LOGGED. SHIFT 02 COMMENCING.* The green text flashed on the dispenser screens. They were officially present. Management had its data points.
+
+They grabbed their nutrient bricks and headed toward the Security Checkpoint to receive their patrol sector.
+
+As they stepped up to the yellow line, Wyatt subtly angled his body, ready to draw the red-banded Supervisor's attention if the guard noticed Sarah's sudden wardrobe change or the tight fit of the armor.
+
+The armored Supervisor didn't even look up from his terminal. He just rubbed his heavy jaw, his eyes fixed nervously on a blinking thermal alert on his screen.
+
+"Name, serial, age, retinal scan," the guard droned.
+
+Wyatt went first, grabbing his flashlight and PDA from the transfer drawer and stepping through the turnstile. He stood on the other side, his muscles tense.
+
+Sarah stepped up to the glass. "Hayes, Sarah M. Contractor ID: 912-Echo. Age eighteen."
+
+The scanner beeped green. The Supervisor didn't bat an eye at the S.H.O.P. uniform. He didn't care that her nametape looked a decade older than she was. To him, she was just another expendable body in black armor. The heavy metal drawer slid open.
+
+Sarah grabbed her gear and pushed through the turnstile, letting out a tiny, nearly imperceptible breath of relief as she joined Wyatt. She looked up at him, a spark of absolute appreciation in her eyes. The disguise had worked flawlessly.
+
+They were both completely unaware that the bored, terrified Supervisor behind the bulletproof glass didn't care if they actually walked the perimeter today. They were completely unaware that, having just satisfied the biometric scan, they could turn right around, walk back into their hidden break room, and spend the next twelve hours locked together on that sofa without a single alarm going off.
+
+Instead, Wyatt unclipped his flashlight, ready to march back down into the suffocating heat of the failing facility, determined to keep up the charade just to keep her safe.
+

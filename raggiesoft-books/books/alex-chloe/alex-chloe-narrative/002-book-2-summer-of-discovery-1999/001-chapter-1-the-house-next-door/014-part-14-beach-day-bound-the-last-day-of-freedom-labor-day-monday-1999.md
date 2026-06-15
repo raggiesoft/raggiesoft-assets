@@ -1,0 +1,28 @@
+# Part 14: Beach Day Bound – The Last Day of Freedom (Labor Day Monday, 1999)
+
+Monday morning, the official Labor Day holiday and the very last day of their summer freedom, dawned bright and promising. The anxieties about high school were still present, but they were overlaid with a fresh layer of excitement for the planned family beach trip. Alex and Chloé had woken up in Alex’s full-sized bed, the now-familiar comfort of their shared platonic sleep arrangement a solid anchor against any lingering nerves.
+
+After a quick breakfast, the two families coordinated their departure. It was decided Alex and Chloé would ride with the Millers on the way there and with the Masons on the way back. Sunscreen, towels, a big picnic basket, and Alex’s AAC device were all packed and ready.
+
+They set off, James and Emily in their sedan with Alex and Chloé in the back, and Thomas and Sophie following in their own car. As they drove eastward on I-264, Alex was practically vibrating with excitement to share the experience with Chloé.
+
+They pulled into the large municipal parking lot at 19th Street and Pacific Avenue, the salty tang of the ocean already in the air. A moment later, another car pulled in beside them, and Megan Carter hopped out, a wide, sunny grin on her face.
+
+"Couldn't let you guys have the last beach day of the summer without me!" she called out, immediately coming over to give Alex a big hug.
+
+Alex beamed, his own excitement spilling over. He immediately began typing on his Quantum Communicator XT. MEGAN! YOU'RE NOT GOING TO BELIEVE IT! CHLOÉ STAYED OVER LAST NIGHT! I HAD A NIGHTMARE, AND SHE STAYED IN MY BED WITH ME AND HUGGED ME AND I WASN'T SCARED ANYMORE!
+
+Megan’s smile softened, her eyes full of a deep, knowing affection. She looked at Chloé with a new level of respect and gratitude. "Oh, yeah?" she said, her voice warm. "Sounds like you've got another pro hugger on your team, cuz."
+
+Emily Miller, who had overheard, came over and put an arm around Chloé’s shoulders. "She was wonderful, Megan," Emily said, her voice thick with emotion. "She was just like you used to be with him when he was little. A fierce, protective older sister."
+
+The group, now complete, made their way to the 17th Street access to get one of the city's beach wheelchairs. With Alex comfortably settled in the wide-wheeled chair, they found the perfect spot on the packed sand near the water's edge.
+
+For Chloé, whose previous "beach" experiences involved the rocky shores of Lake Memphremagog, this was a whole new world. Alex and Megan acted as enthusiastic co-tour guides, pointing out the fishing pier in the distance and explaining the mysteries of the tides.
+
+"You're going to love the boardwalk," Alex typed, his enthusiasm infectious. "It goes for miles! And the waves… they’re huge!"
+
+Megan grinned. "And later, we'll get you some proper boardwalk fries. They're a mandatory part of the Oceanfront experience."
+
+The air smelled distinctly of salt and sunscreen. Music drifted from nearby souvenir shops, and the distant cry of gulls could be heard. It was a beautiful day, bright and breezy, perfect for their last grand adventure before the structure of freshman year descended. Alex couldn't wait. He was about to show Chloé the ocean, with his favorite cousin and his new best friend right by his side. It was the perfect end to a perfect summer.
+

@@ -1,0 +1,10 @@
+# Part 3: Bay State Marine Center Wonders
+
+Eventually, their Holt Rancher began to inch forward more consistently. Grandpa Arthur, a skilled navigator, found a parking garage near the waterfront. "Alright, adventurers!" he announced. "First stop, as requested by the birthday queen: the Bay State Marine Center!"
+
+The walk to the Marine Center was invigorating. Inside, it was dimmer, cooler, and filled with the mesmerizing blue glow of massive tanks. Stella gasped. Fish of every imaginable color and shape glided past. "Wow!" was all she could manage. Luna pointed a chubby finger. "Fishy!" she declared. "Big fishy, Mama!" Leo, in his stroller, gurgled and reached out a hand towards the glass.
+
+They spent hours wandering. Grandpa Arthur read information plaques aloud. Grandma Eleanor patiently pointed out colorful anemones to Luna and made soft "bloop bloop" sounds that made Leo giggle. Stella’s favorite part was the huge, cylindrical ocean tank, with its spiraling ramp that made it feel like they were descending into the ocean itself. They saw playful seals, and Stella giggled as one seemed to wave a flipper at her.
+
+For lunch at the Marine Center’s cafe, Stella declared the clam chowder the best thing she’d ever tasted.
+

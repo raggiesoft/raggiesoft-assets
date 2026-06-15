@@ -1,0 +1,32 @@
+# Part 4: Settlement
+
+## 22:00 PM
+
+The house had settled into a hum of activity.
+
+Downstairs, the sound of electric pumps filled the air as the air mattresses inflated—WHIRRRRRRR. The girls were setting up their camp, giggling and complaining about the cold floor.
+
+In the living room, Aunt Linda was wrestling with the sofa bed mechanism.
+
+"Why do they make these things out of cast iron?" she grumbled, finally getting it to snap open.
+
+In the Silo, the Triad prepared for shutdown.
+
+Freddie lay in the center of the King bed. The door was closed. He could hear the muffled thumps of his sisters below the floorboards.
+
+"They are loud," Freddie noted.
+
+"They're excited," Paige smiled, climbing in next to him.
+
+"And they're terrified of that toilet," Jessica laughed, turning off the lamp. "I saw Jenna running up the stairs three times already."
+
+Freddie stared at the ceiling. He liked the noise. He liked that the house was full.
+
+"The Base is at capacity," Freddie whispered.
+
+"And the perimeter holds," Paige agreed.
+
+They closed their eyes. Below them, five sisters slept in a concrete bunker, safe in the knowledge that their brother would never invade their space, and above them, the Triad slept in their fortress, guarding the door.
+
+The reunion had begun. And the Pittsburgh Toilet remained, fortunately, unused.
+

@@ -1,0 +1,100 @@
+# Part 4: The Awakening
+
+## 02:46 AM
+
+Freddie’s eyes flew open.
+
+He gasped, a sharp, desperate intake of air that sounded like he was drowning. He bolted upright, his heart hammering against his ribs so hard it hurt.
+
+He was in the dark. He was trapped.
+
+"No!" he choked out, scrambling backward, his hands flailing, trying to push the phantom girl away. "No access! Access denied!"
+
+He hit something soft. A wall of pillows.
+
+He blinked, his chest heaving. The air didn't smell of bleach. It smelled of lavender laundry detergent and cool air conditioning.
+
+He wasn't in a closet. He was in the **Silo**.
+
+But the terror didn't fade. The image of the flashlight, the feel of the cold hand on his chest—it was still firing in his brain.
+
+"Freddie?"
+
+The voice came from his right. Sleepy, but instantly alert.
+
+Freddie let out a sob. It wasn't a scream; it was the sound of something breaking. He brought his knees to his chest and buried his face in his hands, shaking violently.
+
+"Crying," Paige announced, her voice shifting from drowsy to tactical in a split second. "Code Blue."
+
+She sat up. She didn't ask what was wrong. She knew the sound. She had heard it a hundred times in their childhood bedrooms. This wasn't the blank stare of a night terror; this was the raw pain of a nightmare.
+
+"Lights," Jessica whispered from the left. She reached out and clicked the bedside lamp on to its lowest setting—a dim, warm yellow glow.
+
+Both women sprang into action. They didn't need to communicate; they knew the protocol.
+
+**The Comfort Protocol:**
+
+1.  **Contact:** Establish physical presence immediately.
+
+2.  **Pressure:** Apply weight to ground the system.
+
+3.  **Validation:** Confirm safety.
+
+Paige moved first. She scooted across the mattress and wrapped her arms around Freddie’s shaking shoulders. She didn't just hug him; she compressed him. She pulled him hard against her chest.
+
+"I've got you," Paige whispered, pressing her cheek against his wet hair. "You're here. You're at 105 Pepper. You're in the Silo."
+
+Jessica moved in from the other side. She saw the tears streaming through Freddie’s fingers. She saw the way he was recoiling from an invisible touch.
+
+She placed her hand firmly on his back, right between his shoulder blades—the structural center. She rubbed in slow, heavy circles.
+
+"Breathe, Freddie," Jessica commanded gently. "In through the nose. Out through the mouth. Feel the bed. Feel us."
+
+Freddie sobbed, leaning into Paige’s hold. "The closet," he gasped. "She locked the door. The siren..."
+
+"No siren," Paige said firmly, rocking him slightly. "Listen to the room. Just the AC. Just the hum."
+
+"She touched me," Freddie whispered, his voice trembling with violation. "She wouldn't stop."
+
+Paige’s eyes flashed with a momentary, terrifying anger at the dream-girl, but she pushed it down. She needed to be soft right now.
+
+"She's not here," Paige promised. "She can't get in here. The firewall is active. Jessica locked the door. I checked it myself."
+
+"I checked it too," Jessica added, leaning her head on Freddie’s shoulder, sandwiching him completely. "Nobody gets in this room without getting past us. And nobody gets past us."
+
+Freddie lowered his hands slowly. He looked at Paige. He looked at Jessica.
+
+They were there. Real. Warm. Safe.
+
+He let out a long, shuddering breath. The panic began to recede, replaced by the crushing weight of exhaustion and the lingering sadness of the dream.
+
+"It felt real," Freddie sniffled. "The data... was vivid."
+
+"That's a nightmare," Paige explained softly, wiping his tears with her thumb. "It's a glitch in the memory file. But we flushed it. It's gone."
+
+"Reset?" Freddie asked weakly.
+
+"Reset," Jessica confirmed.
+
+She reached over and turned off the lamp, plunging the room back into the protective darkness. But she didn't move away.
+
+"Configuration Delta," Jessica whispered.
+
+They lay back down. Freddie lay in the center.
+
+Paige curled around him from the right, throwing her heavy leg over his legs to pin him down, wrapping her arm across his chest to protect his heart.
+
+Jessica curled around him from the left, pressing her back against his side, creating a solid wall of defense.
+
+"Squeeze," Freddie requested, his voice barely audible.
+
+"Squeezing," both sisters whispered.
+
+They tightened the hold. The pressure was immense. It was perfect. It pushed the memory of the closet out of his mind and replaced it with the absolute certainty of the bed.
+
+"Safe," Freddie breathed.
+
+"Always," Paige murmured into his ear.
+
+Held tight in the center of the Avery Unit, Freddie finally closed his eyes. The nightmare was deleted. The system was secure.
+

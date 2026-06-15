@@ -1,0 +1,138 @@
+# Part 3: The Soft Trap
+
+## Date: September 1999 Location: Northwood High School Grade: 9th Grade
+
+The transition to High School was a sensory nightmare. Everything was bigger, louder, and more aggressive. The bells were shrill electronic buzzers. The hallways were mosh pits.
+
+Nichole was in Adapted PE, housed in the Wrestling Room because the padded floors were considered "safer."
+
+But for Nichole, the room was a trap.
+
+The air smelled sharply of industrial disinfectant and old sweat—a chemical tang that coated the back of her throat. Beneath her, the Titan AeroMotion didn't roll; it sank. The soft, purple foam mats grabbed at her wheels, making every movement feel like driving through mud.
+
+"Come on, Nichole, let's keep moving," Mrs. Hatcher chirped.
+
+Mrs. Hatcher was new. She was kind, but she was loud. Her voice was too high, a sharp frequency that scraped against Nichole’s eardrums like a wire brush.
+
+Nichole stopped pushing. Her arms burned from fighting the foam. She dropped her chin to her chest, trying to make the world smaller. She started clicking her tongue against the roof of her mouth—*tchk, tchk, tchk*—a rhythmic metronome to block out the chaotic noise of the gym.
+
+"Nichole?" Mrs. Hatcher stepped closer, invading her personal space. "Use your words, honey. Are we tired?"
+
+*Use your words.*
+
+The phrase was a jagged rock. Nichole couldn't find the words. Her brain felt sticky, processing speed dropping to zero. The menu on her VocaLink seemed miles deep. It would take too long to find "STOP."
+
+She retreated. She hunched her shoulders up to her ears, entering "Turtle Mode." A low, vibrating hum started in her chest: *Mmmmmmmmmm.*
+
+It was a warning siren. It meant *Back Off.*
+
+Mrs. Hatcher, untrained in the specific language of the Bennett family, interpreted the hum as sadness.
+
+"It's okay," Mrs. Hatcher cooed.
+
+She reached out and lightly patted the back of Nichole’s hand.
+
+It was the wrong move.
+
+To a system already vibrating with overload, that light, feathery touch wasn't comforting. It felt like a burn. It was the spark that blew the fuse.
+
+Nikki didn't pull away; she exploded.
+
+Her legs shot straight out, locking rigid against the footplates in a violent spastic extension. She threw her head back against the headrest with a crack. A raw, high-pitched shriek tore out of her throat—not a word, just a sound of pure sensory agony.
+
+"Whoa, okay!" Mrs. Hatcher jumped back, terrified. "Calm down, Nichole. Quiet hands!"
+
+Nikki slammed her fists against her own thighs. She couldn't see the room anymore. The visuals had cut out. She was just a raw nerve ending on fire, thrashing against the chest strap, the chair lurching in the suffocating purple foam.
+
+Mrs. Hatcher grabbed her walkie-talkie, her voice trembling. "Clinic? This is Hatcher. She's... she's having an episode."
+
+## The Main Gym
+
+Patrick Bennett wiped sweat from his forehead. He was fourteen now, taller, lankier, but with the same watchful eyes. The gym was a cacophony—sneakers squeaking on the high-gloss wood, basketballs thudding against the backboards.
+
+He jogged over to Coach Miller.
+
+"Coach? Bathroom," Patrick said, pointing toward the double doors.
+
+The coach nodded without looking up from his clipboard. "Take the pass. Three minutes, Bennett."
+
+Patrick grabbed the wooden pass. He pushed through the heavy double doors, stepping out of the noise of the gym and into the cool silence of the Locker Room Corridor.
+
+## The Corridor
+
+Patrick walked down the hallway. To his right, the heavy metal door of the Wrestling Room stood propped open by a rubber wedge.
+
+He knew he wasn't supposed to look. The 1996 Federal Agreement was burned into his brain: *Sibling must remain with his assigned cohort. Sibling is not a safety asset.*
+
+He was just walking to the bathroom. He was following the rules.
+
+But as he passed the open doorway, the sound hit him.
+
+It wasn't a cry for help. It was a shriek. It was the sound of an animal caught in a trap.
+
+Patrick stopped. He turned his head.
+
+Through the open door, he saw the purple mats. He saw the Titan AeroMotion sunk deep into the foam, tilted at an awkward angle. He saw Mrs. Hatcher backing away with her hands raised, paralyzed by indecision.
+
+And he saw Nikki.
+
+She was gone. Her eyes were squeezed shut, her legs locked out so hard her heels were hammering the metal footplates. Her head was thrashing side to side. She was hitting herself, her fists striking her quads in a desperate attempt to find sensation, to find a boundary in the chaos.
+
+Patrick looked at the wooden bathroom pass in his hand. He looked at the imaginary Federal mandate floating in the air. He looked at his sister.
+
+*Secret Agent,* his dad had said. *You only break cover if it's real.*
+
+Patrick dropped the wooden pass on the floor. It clattered loudly against the tile.
+
+He pivoted and bolted through the doorway.
+
+## The Intervention
+
+"Get back!" Patrick yelled at the aide as he crossed the threshold.
+
+Mrs. Hatcher jumped. "You can't be in here! This is a restricted—"
+
+Patrick ignored her. He crossed the squishy purple mats in three strides, his sneakers sinking deep. He dropped to his knees beside the chair.
+
+Nikki didn't know he was there. She was lost in the static.
+
+Patrick moved with the muscle memory of a lifetime. He didn't grab her hands; that would make it worse. He wrapped his arms around her rigid torso, pinning her flailing arms gently but firmly against her ribs. He leaned his entire weight into her, pressing his chest against her shoulder.
+
+He became a human straightjacket, but one made of love, not restriction. He provided the one thing she needed: gravity.
+
+He buried his face in the crook of her neck. He held the squeeze.
+
+"I got you," he said, his voice a low rumble against her skin. "I'm here."
+
+Nikki gasped. The scream died in her throat, replaced by a wet, ragged sob. She felt the heavy, crushing weight. She felt the anchor.
+
+Her body recognized the signal. *I am solid. I am here. The world has edges again.*
+
+The spastic rigidity in her legs began to tremble, then release. Her head slumped sideways, knocking heavily against Patrick’s shoulder.
+
+"Patrick Bennett!"
+
+The School Nurse, Mrs. Vance, stood in the doorway now, alerted by the radio call. She held a clipboard like a weapon.
+
+"Step away from the student," Mrs. Vance ordered. "You are in violation of the District Safety Plan. Step away immediately."
+
+Patrick didn't let go. He kept his arms locked around his sister, shielding her from the room, from the purple mats, from the people who thought "giving space" was the answer to abandonment.
+
+He looked up at the Nurse, his chin resting on his sister's shoulder.
+
+"She's not a safety plan," Patrick snapped. "She's suffocating."
+
+He held the squeeze for another ten seconds, until he felt Nikki’s breathing sync with his own. Only then did he pull back, just enough to look at her face. He reached out and straightened her glasses, which were hanging off one ear.
+
+"Bathroom break," Patrick whispered to her, a small, sad smile on his face. "Lucky timing, huh?"
+
+Nikki looked at him. She let out a long, shuddering breath and tapped her armrest twice. *Stay.*
+
+"I got you."
+
+The Nurse stepped onto the mat. "Patrick, I am documenting this. You are performing an uncertified restraint on a special education student. You are unauthorized to be in this room."
+
+Patrick stood up. He unlocked the brakes of the Titan, putting his back into it to shove the wheels out of the sucking foam.
+
+"I didn't restrain her," Patrick said, wiping a tear from his sister's cheek with his thumb. "I grounded her. And we're going to Latin."
+

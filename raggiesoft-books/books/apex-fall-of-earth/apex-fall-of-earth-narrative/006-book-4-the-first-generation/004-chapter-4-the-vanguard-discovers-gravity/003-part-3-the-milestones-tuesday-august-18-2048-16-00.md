@@ -1,0 +1,94 @@
+# Part 3: The Milestones – Tuesday, August 18, 2048 – 16:00
+
+By late summer, the sprawling, sage-green nursery on the residential level had evolved from a quiet sanctuary into a highly active, chaotic proving ground.
+
+At two and a half years old, the developmental disparities among the triplets were no longer subtle quirks; they were glaring, daily realities that kept Wyatt Colton awake at night.
+
+Wyatt was sitting cross-legged on the thick, plush rug in the center of the room, his heavy canvas work pants covered in a dusting of alien pine shavings from his morning in the Fab-Foundry. Sarah was parked in her brushed-aluminum wheelchair near the massive hydro-glass window, a datapad resting in her lap as she documented their progress.
+
+"Come on, El," Wyatt encouraged, holding his massive hands out like a catcher's mitt. "You've got the perimeter clear. Move up."
+
+Five feet away, Ellie stood completely unassisted. She didn't wobble. She didn't hesitate. Her dark eyes, fierce and calculating, scanned the distance between her and Wyatt’s hands. She locked onto her target, let out a sharp, decisive grunt, and marched forward.
+
+Her steps were heavy, flat-footed, and remarkably steady for a toddler. She didn't just walk; she patrolled. She crossed the five feet of open carpet and slapped her tiny hands triumphantly into Wyatt’s palms.
+
+"Dada," Ellie announced clearly, her voice sharp and commanding. She didn't offer a babbling stream of nonsense. When Ellie spoke, it was always purposeful, identifying key logistical assets in her environment. "Mama. Door. Up."
+
+"Good job, scout," Wyatt grinned, his chest swelling with pride. He scooped her up and tossed her lightly into the air, earning a rare, brilliant shriek of laughter from his oldest daughter.
+
+He set her down, and she immediately spun around, her tactical focus instantly shifting back to her siblings.
+
+A few feet to Wyatt’s left, Nora was pulling herself up using the heavy timber rungs of the Mega-Crib.
+
+Wyatt’s smile softened slightly, the S.H.O.P. Marine pride seamlessly giving way to a fierce, protective anxiety. He shifted his weight on the rug, moving closer to his middle daughter, ready to catch her if she fell.
+
+"Take your time, Nora," Sarah encouraged softly from her wheelchair, her dark eyes tracking the distinct difference in her daughter's biomechanics.
+
+Nora gripped the wooden rail tightly, her knuckles white. She pulled herself to a standing position, but the fluid, confident strength that Ellie possessed was completely absent. Nora favored her right side heavily. When she tried to shift her weight onto her left leg, the limb visibly trembled, the muscle tone significantly lower, a permanent echo of the terrifying seconds of hypoxia she had suffered during delivery.
+
+Nora bit her lip, her brow furrowing in deep concentration. She let go of the rail with one hand, reaching out toward the empty air.
+
+"Ba," Nora whispered, her voice incredibly soft, thin, and breathy. She struggled immensely with the physical mechanics of speech, her jaw working hard just to form the single syllable. "Ba... ba."
+
+"I'm right here, baby," Wyatt murmured, closing the distance and offering his thick index fingers for her to hold.
+
+Nora grabbed his fingers like a lifeline. She didn't march like Ellie. She dragged her left foot slightly, a very pronounced, permanent limp disrupting her gait. But she was incredibly determined. She took three shaky, uneven steps forward, heavily reliant on Wyatt’s physical support, before her left leg gave out entirely.
+
+Wyatt caught her effortlessly under the arms before she even hit the carpet, pulling her securely against his chest.
+
+"You did it," Wyatt praised, pressing a kiss to her dark hair. "Three steps. That's a new record, Nora."
+
+Nora didn't celebrate. She didn't laugh. She simply buried her face into the crook of Wyatt's neck, her tiny hands gripping his gray t-shirt tightly. The sheer sensory and physical effort of walking and speaking had completely drained her.
+
+"She's trying so hard, Wyatt," Sarah sighed, her voice laced with a heavy, maternal worry as she logged the data on her pad. "Her gross motor skills are so far behind Ellie's. And she barely babbles."
+
+"She's just taking her time, Sarah," Wyatt rationalized, his deep voice vibrating comfortingly against Nora's chest. "Her cord was compressed. She had a rough start. We just have to be patient."
+
+But as Wyatt held his middle daughter, his dark eyes inevitably drifted to the center of the plush rug.
+
+Leo was sitting exactly where Wyatt had placed him twenty minutes ago.
+
+He wasn't attempting to pull himself up on the crib. He wasn't army-crawling like his sisters had. Because of his severe spastic diplegia, his legs were tightly scissored, his muscles rigidly locked. He couldn't transition from sitting to crawling without agonizing physical assistance.
+
+But it wasn't just the physical limitation that terrified Wyatt; it was the profound, silent isolation of his son's mind.
+
+Leo didn't look at Wyatt. He didn't look at Sarah. He was sitting completely upright, his back rigidly straight, intensely focused on a small, wooden block Wyatt had milled for them. He wasn't playing with it; he was simply turning it over and over in his hands, his eyes locked on the repetitive motion with a mesmerizing, unbreakable intensity.
+
+"Leo," Wyatt called softly, leaning forward slightly. "Look here, buddy. Look at Dada."
+
+Leo didn't flinch. He didn't blink. The verbal command didn't even seem to register in his auditory processing. He just continued to turn the block, letting out a soft, low, vibrating hum deep in his chest.
+
+"He's completely locked in," Sarah whispered, the datapad resting forgotten in her lap. The fear in her voice was palpable, a stark contrast to the brilliant, sunlit nursery. "He hasn't made eye contact all day, Wyatt. And he hasn't made a single consonant sound. Not a babble. Nothing. Just... humming."
+
+Wyatt swallowed hard, the S.H.O.P. Marine completely powerless against the silent, invisible barrier separating him from his son. He knew how to fix an engine. He knew how to build a planetary shield. He didn't know how to reach a boy who seemed perfectly content to exist entirely within his own mind.
+
+"Aria," Wyatt finally grunted, his voice thick with a defeated, heavy exhaustion. "Run a pediatric diagnostic. Cross-reference Nora's speech delay and Leo's lack of verbalization and eye contact against standard developmental baselines."
+
+"Administrator, I must remind you that I am an engineering and tactical AI," Aria chimed softly, her digital tone unusually gentle. "I am not programmed for complex pediatric neurological assessments."
+
+"Just run the data, Aria," Wyatt commanded, staring at Leo's rigid, humming form.
+
+"Based on the raw biometric data," Aria processed slowly, "Subject B exhibits significant delays in expressive language and gross motor function, likely stemming from the localized hypoxic event at birth. Subject C, however, exhibits profound, systemic atypical neurological development. The absence of joint attention, the intense repetitive motor behaviors, and the complete lack of expressive communication strongly correlate with a diagnosis on the severe end of the autism spectrum."
+
+The word hung heavily in the air of the nursery.
+
+Wyatt slowly closed his eyes, his heavy arms tightening protectively around Nora. He didn't care about the labels. He didn't care about the clinical definitions. He only cared that his son was trapped behind a wall he didn't know how to breach.
+
+Suddenly, a heavy, flat-footed slap echoed on the rug.
+
+Ellie marched directly into the center of the room. She didn't ask for permission. She didn't hesitate. She dropped to her knees right in front of Leo, completely shattering his intense focus on the wooden block.
+
+She reached out, her tiny hands firmly grabbing the sides of Leo's face.
+
+Leo didn't recoil. He didn't panic. He instantly dropped the block.
+
+Ellie leaned forward, pressing her forehead directly against his. She didn't speak. She didn't make a sound. But as their foreheads touched, Leo's rigid back slowly began to uncurl. The intense, repetitive humming stopped. He let out a soft, relaxed sigh, his tight, scissored legs loosening just a fraction of an inch as he melted into his sister's physical presence.
+
+From Wyatt's arms, Nora let out a soft, breathy grunt. She squirmed out of his lap, heavily dragging her left leg as she crawled over to her siblings. She wedged herself tightly against Leo's right side, wrapping her arm around his waist, completing the circuit.
+
+Wyatt and Sarah watched in absolute, awestruck silence.
+
+The clinical definitions didn't matter. The delays didn't matter. Wyatt couldn't reach his son with words or eye contact, but the Vanguard didn't need either. They had their own language, built entirely on physical pressure, absolute loyalty, and a profound, unbroken neurodivergent bond.
+
+"They're okay, Sarah," Wyatt whispered, a massive, tearful smile breaking across his scarred face as he watched his three children anchor each other in the center of the sunlit room. "They're going to be just fine."
+

@@ -1,0 +1,72 @@
+# Part 5: The Grocery Side – 8:30 AM (PST)
+
+The TAPS Route 2 bus hissed to a stop at the curb. The automated voice chimed, "Bridgeport Way West & 67th Avenue West."
+
+"Wheelchair getting off!" Rachel called forward to the operator, her voice carrying easily over the idling engine.
+
+I stood up, keeping my hand securely linked with Rachel's, and walked forward to unhook Jessica's tie-downs. I piloted the wheelchair down the hydraulic ramp and onto the damp concrete sidewalk.
+
+Directly to our right, sprawling across a massive parking lot, was the brightly lit facade of *Franklin's Market*.
+
+"Alright," Jessica smiled, adjusting her coat. "Lead the way, Rachel."
+
+As we approached the massive superstore, I hesitated. The building was enormous, and there were two distinct, identical sets of automatic sliding glass doors spaced far apart along the front.
+
+"Which door?" I asked, my internal processor slightly snagging on the unexpected choice.
+
+Rachel didn't even break stride. She pointed firmly toward the doors on the far right.
+
+"Grocery side," Rachel explained, her retail-wired brain effortlessly navigating the architecture. "The left doors go straight into Home and Apparel. The right doors go straight to the produce, the main registers, and the Customer Service desk."
+
+"And that's where we find the Sentinel," I grinned.
+
+We pushed through the right-side doors, instantly met by the warm, slightly overwhelming sensory mix of fresh produce, baking bread, and the ambient beep of a dozen cash registers.
+
+Rachel grabbed a metal shopping cart from the corral. I pushed Jessica's wheelchair alongside her as we navigated past the floral department and headed straight for the Customer Service desk.
+
+Standing behind the raised counter, currently sorting through a stack of return slips, was Kristin. She was wearing her dark *Franklin's Market* uniform polo and a nametag, her blonde hair pulled back neatly.
+
+She looked up as we approached, her eyes widening in immediate surprise.
+
+"What are you guys doing here?" Kristin asked, quickly scanning our perimeter. She looked from me to Rachel. "I thought you were at work."
+
+"The Spot is broken," Rachel rasped softly, a massive, uncontainable smile spreading across her face.
+
+Kristin blinked. "Broken?"
+
+"Massive power failure," Jessica clarified smoothly, parking her wheelchair at the counter. "The entire Lakewood Towne Center grid is down. They sent her home until Tuesday."
+
+"Are you serious?" Kristin laughed, the disbelief turning into immediate, thrilled excitement. "That's incredible! So... you guys didn't go back up to Renton?"
+
+"And miss a chance for the pack to ride the bus together?" I asked, leaning against the counter. "We're going to grab some groceries for your apartment to kill the morning, and then we're going to wait for you to clock out."
+
+Kristin checked her watch. "I'm off at twelve-thirty."
+
+"Perfect," Jessica nodded. "We'll be across the street at the apartment."
+
+"I'll see you guys then," Kristin smiled warmly, giving Rachel a quick, affectionate wave before turning to help a customer approaching the desk.
+
+With our check-in complete, we turned our attention to the grocery aisles.
+
+For the next hour, Rachel flawlessly navigated the massive store. She knew exactly what she and Kristin needed for the week, tossing boxes of cereal, pasta, and fresh vegetables into the cart.
+
+As we approached the checkout lanes, my analytical brain quickly reviewed the established retail parameters.
+
+"We need a standard cashier," I muttered to Rachel, steering clear of the lane nearest the Customer Service desk.
+
+Rachel nodded in absolute agreement.
+
+It was a rigid, unspoken rule of retail ethics that Rachel had strictly adhered to since she started cashiering at age eighteen. You absolutely do not ring up your friends or family, and you never ring up yourself. Even if Kristin wasn't currently trapped behind the Customer Service counter, we wouldn't have gone to her lane. And we certainly couldn't ask for her employee discount while she was actively on the clock. It was a firm boundary that kept her professional perimeter secure.
+
+We found an open register and loaded our groceries onto the belt. Jessica handled the transaction, swiping her debit card with her usual, frictionless corporate ease.
+
+Once the bags were loaded back into the cart, we made our way toward the exit doors. We paused briefly as we passed the Customer Service desk. Kristin was currently assisting a manager with a register override, but she caught our eye and offered a bright, silent nod.
+
+"See you at twelve-thirty," I mouthed.
+
+Kristin gave a quick thumbs-up.
+
+We pushed the heavy cart out the automatic doors and back into the damp, gray morning. The sky over University Place was still overcast, but as we walked across Bridgeport Way toward Chambers Creek Estates, the air felt incredibly light.
+
+The morning panic of the power outage had completely vanished. We had groceries, we had a warm apartment waiting for us, and in just a few hours, the Sentinel would be officially off the clock, and the pack would be whole.
+

@@ -1,0 +1,46 @@
+# Part 8: The Soft Interview
+
+On a quiet Tuesday morning in mid-December, the fortress four were not at home or school, but at a non-descript office building in Norfolk. This was the local Victim Advocacy Center, a neutral, safe facility chosen specifically for Leo's formal forensic interview. The very idea of the meeting had sent a spike of terror through him; despite his family’s constant reassurances, a deep, primal fear had taken root—the fear that this was all an elaborate trick, a legal process to send him back to Delores.
+
+The "soft interview room" was designed to feel like a calm, comfortable living room, with soft armchairs, a sofa, warm lighting, and discreetly placed cameras and microphones. But to Leo, it felt like a trap. He sat stiffly in his wheelchair, his new **Quantum Communicator** on its mount before him, his entire body trembling. Inside the room with him were all the essential pillars of his support system: **Stella, Luna, Olivia**, and his lawyer **Sarah Jenkins**. The most critical presence, however, was a beautiful, calm golden retriever, a trained **courthouse comfort dog** named Gus, who had immediately sensed Leo's distress and rested his heavy head on Leo's lap. Leo’s hand was buried in the dog’s thick, soft fur, gripping it like a lifeline.
+
+The only other person in the room was a woman with a kind, gentle demeanor. She was a **forensic interviewer**, a specialist named Ms. Anya Sharma. In an adjacent observation room, Special Agents Davies and Chen, along with a federal prosecutor, watched the proceedings on a live feed.
+
+Ms. Sharma began by speaking not to Leo, but to the dog. "Well hello there, handsome," she said softly, "What a good boy you are, Gus." She then turned her calm attention to Leo.
+
+"Leo," she said, "we are here today so you can tell us, in your own words, what happened. I want you to know that you are safe here. You are not in any trouble. We just want to hear your story. We have all the time in the world."
+
+Leo barely heard her words over the frantic pounding in his chest. *They’re lying. They’re going to take me back.* He looked at Stella, his eyes wide with panic, and she gave him a slow, deliberate nod. *Trust us.* He took a shaky breath and forced his fingers to the keyboard.
+
+Using his new communicator, he began. He recounted the miserable bus trip, the neglect, the lack of medication, and the constant fear. Ms. Sharma guided him with patient, non-leading questions, allowing him to tell the story at his own pace. Every time his breathing grew ragged, Gus the comfort dog would shift his weight or nudge his hand, a silent, grounding reminder to stay in the present.
+
+Finally, Ms. Sharma steered the conversation to the most difficult topic. "Leo," she said, her voice even softer, "I need to ask you some very personal questions now about what happened in Kent. You are safe here. Can we talk about this?"
+
+Leo took a shaky breath, his hand dropping from the keyboard to rest in the dog's thick fur. He gave a small, hesitant nod.
+
+**Ms. Sharma:** "In your statement, you wrote that Delores held you down and kissed you in a way that felt like choking. Can you tell me more about that moment?"
+
+Leo’s fingers trembled slightly as he typed. The memory was vivid, terrifying.
+
+**Leo's Communicator:** "IT WAS IN THE BED. IN THE GUEST ROOM. SHE WAS ANGRY. I DID NOT WANT HER TO. SHE GOT ON TOP OF ME AND HELD MY SHOULDERS. I COULD NOT MOVE. **THE BED WAS OLD. IT MADE LOUD CREAKING NOISES WHEN SHE HELD ME DOWN.** HER MOUTH WAS HARD. IT HURT. I COULD NOT BREATHE. I WAS SCARED."
+
+**Ms. Sharma:** "Thank you for telling me that, Leo. That was very brave. Were there other times she touched you in a way you did not like?"
+
+Leo typed again, describing the possessive way Delores would grab his hand and the painful hickey she had given him during the Sibling Weekend.
+
+**Ms. Sharma:** "Okay, Leo. Thank you for being so clear. I have to ask one more very important and personal question now. Did Delores ever touch you on the parts of your body that your pajamas cover?"
+
+Leo flinched. It was a sharp, violent recoil, as if he'd been struck. His eyes went wide with a look of pure shock and revulsion. The very idea, the mental image the question created, was horrifying to him. He started to tremble, his gaze darting to Olivia, who subtly squeezed his hand. Gus, sensing the spike in his anxiety, sat up straighter and began to gently lick his other hand, a warm, wet, distracting sensation.
+
+Ms. Sharma, seeing his reaction but needing to be certain, rephrased the question with clinical gentleness. "Leo, did she ever touch your private parts?"
+
+Leo, shaking his head with frantic energy, began to type on his laptop. The clear voice that came out was flat, but the words were a torrent of denial.
+
+**Leo's Communicator:** "NO. NEVER. SHE NEVER TOUCHED ME THERE. NEVER. THAT IS... DISGUSTING. NO. SHE DID NOT."
+
+The agents and the prosecutor in the next room exchanged a look. His flinch wasn't a memory of trauma; it was a reaction of pure horror to the *concept*. He wasn't reliving an act; he was repulsed by the suggestion of it. They had their answer.
+
+**Ms. Sharma:** "Okay, Leo. Thank you for being so clear with us. We understand. We won't ask you about that again."
+
+The interview lasted for over an hour. It was emotionally exhausting for Leo, but he had done it. He had told his story, on his own terms, in a safe space, surrounded by his fortress. His recorded testimony was now a permanent, powerful part of the official record. It confirmed Delores’s one truthful statement, but more importantly, it provided prosecutors with a firsthand, unshakable account of the kidnapping, abuse, and the specific acts of sexual battery. The detail about the **creaky bed** would later corroborate Carol's own testimony that while she heard a brief struggle, she heard nothing to indicate a prolonged sexual encounter, further solidifying the timeline of events and the precise nature of Delores's crimes.
+

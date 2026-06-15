@@ -1,0 +1,45 @@
+# Part 12: The Forbidden Fruit (Summer 2000)
+
+The morning after their grand Montréal adventure, a relaxed, happy energy filled the two adjoining rooms at the Derby Line Inn. There was no pre-dawn rush today, no long drive home to prepare for. Instead, the day held the promise of a different kind of excitement: the Leclerc family reunion.
+
+"Alright everyone," Sophie announced after breakfast, clapping her hands together. "The party at Geneviève's starts this afternoon. I promised her I would bring the famous sausages we bought, and it simply wouldn't be a proper Québec reunion without fresh cheese curds and ketchup chips. We must make a supply run to the *dépanneur*!"
+
+And so, the Mason minivan, with all six of them inside, made another familiar, casual crossing into Québec. They were waved through by a smiling Jean-Guy, the gesture as comfortable as a neighborly nod.
+
+The Stanstead *dépanneur* was a small, charmingly cluttered corner store, its aisles packed with a mix of everyday necessities and distinctly Canadian treats. As Sophie and Emily headed for the refrigerated section to find the famously squeaky cheese curds, and Thomas and James discussed the merits of various local microbrews, Chloé tugged on Alex's arm.
+
+"Come on," she whispered, a mischievous glint in her eye. "There's something I have to show you."
+
+She led him to the candy aisle. And there, in a brightly colored cardboard display box right next to the register, was the source of the previous night's mysterious conversation. A tempting array of chocolate eggs, wrapped in colorful foil, sat under a cheerful sign that read Koko-Kapsels.
+
+Alex stared at them. They looked so ordinary, so appealing. He could see pictures on the box of the little toys hidden inside. He looked at Chloé, his expression a mix of curiosity and confusion.
+
+SO THAT’S THEM, he typed on his AAC. THE DANGEROUS INTERNATIONAL CONTRABAND.
+
+Chloé giggled, but then her expression became serious, echoing the conversation from their hotel room. "That's them," she confirmed. "The forbidden fruit."
+
+THEY LOOK… NORMAL, Alex typed. FUN.
+
+"They are fun," Chloé agreed, her voice dropping to a conspiratorial whisper. "The toys are awesome. But remember what I told you. This is one of those things that seems silly, but it's a super serious, zero-tolerance rule for the U.S. border. We look, we admire, and we absolutely do not buy."
+
+She picked one up, letting Alex feel the weight of it in his hand for a moment before placing it carefully back in the box. "It's the one souvenir that has to stay in Canada," she said firmly, but with a friendly squeeze of his shoulder to soften the rule.
+
+Just then, Sophie returned, her arms laden with bags of cheese curds, ketchup-flavored potato chips, and some maple sugar candies. "Alright, everyone," she announced cheerfully. "I have secured the essential supplies for the reunion. Geneviève will be very happy!"
+
+She glanced at the Koko-Kapsels display and then at the two teens, a knowing, understanding smile on her face. "Ah, the famous Koko-Kapsels. So tempting, non? But these little treasures do not have a passport for America." She winked at Alex. "Some things are best enjoyed right where you find them."
+
+Alex, ever the logical thinker, processed this. A new question formed, and he typed it out on his AAC. BUT WHAT IF WE ATE THE CHOCOLATE HERE? IN CANADA? THEN IT'S NOT CANDY WITH A TOY INSIDE ANYMORE. JUST A TOY. CAN WE BRING JUST THE TOY?
+
+Chloé, having already been through this line of questioning with her own parents years ago, immediately shook her head, her expression serious.
+
+"Good question, Alex, but nope. Still illegal," she explained in a low, conspiratorial voice. "It's a total ban on the whole thing. My dad says the U.S. government thinks the little toy parts themselves are a choking hazard for babies, so the toy, even by itself, is *also* considered illegal to bring in, even without the chocolate."
+
+Sophie nodded, confirming her daughter's explanation. "Chloé is right, Alex. The toy, the little plastic capsule, the chocolate... at the border, they see it all as one illegal product. It is a very silly rule, yes, but it is one we do not break."
+
+With their legal snacks paid for, they all piled back into the minivan. But instead of turning towards the U.S. border, Thomas turned deeper into the streets of Stanstead.
+
+"Alright," he said cheerfully, "with the snacks for the party secured, let's head over to Geneviève and David's place. The party is probably already getting started!"
+
+Alex felt a fresh wave of excitement mixed with a flutter of nerves. The trip wasn't over; in fact, a whole new part of it was just beginning. He was about to meet Chloé's extended family—her aunt, uncle, and cousins. He felt he had learned so much about the unique community built on trust and unwritten rules, and the world of written laws that were absolute and baffling. Now, he was about to step into the heart of it all: a true Québécois family reunion. He glanced at Chloé, who gave him a bright, reassuring smile, and he knew that, as always, they would navigate this new adventure together.
+
+

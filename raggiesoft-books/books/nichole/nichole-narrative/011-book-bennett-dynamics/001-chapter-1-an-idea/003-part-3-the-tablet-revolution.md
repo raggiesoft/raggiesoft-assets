@@ -1,0 +1,42 @@
+# Part 3: The Tablet Revolution
+
+## Date: April 3, 2010 Event: The Launch of the MagnaPad 
+
+For years, Nichole’s voice had been a heavy laptop. The *ConvertiBook* was great, but it was five pounds of plastic and hinges. It created a physical barrier between her and the world.
+
+Then, the MagnaByte Special Event aired.
+
+Patrick watched the keynote stream on his center monitor. On stage, the CEO held up a device that looked like a piece of science fiction.
+
+- The Device: A 9.7-inch sheet of glass and aluminum.
+
+- The Name: The MagnaPad.
+
+- The Interface: Multi-touch. No stylus required.
+
+- The Weight: 1.5 pounds.
+
+Patrick didn't see a gadget. He saw a vocal cord.
+
+"Nikki," Patrick called out. "Come look at this."
+
+Nichole rolled over. She watched the demo video. A man was swiping through photos with his finger. He was typing on a virtual keyboard that appeared on the glass. It was running a mobile version of magnaOS.
+
+Patrick did the math instantly.
+
+- It could mount flat to her wheelchair tray.
+
+- It had no hinge to break.
+
+- It turned on instantly—no boot-up time.
+
+- It was a MagnaByte device, meaning the hardware was solid.
+
+"If I write a custom app for that," Patrick muttered, "I can give you a voice board that fits in your purse."
+
+Nichole stared at the screen. She saw the future. A future where she wasn't hiding behind a laptop lid.
+
+She tapped her armrest. *Get it.*
+
+
+

@@ -1,0 +1,22 @@
+# Part 5: The Quiet Before the Move
+
+Friday was a day of quiet, purposeful domesticity. With the major errands done and their move-in date just over a week away, the three of them settled into the easy rhythm of life on Lisa Court. The day was a preview of the life they were about to build, a blend of shared responsibilities and easy companionship.
+
+The morning was dedicated to "The Great Purge." Megan, a veteran of several dorm move-outs, was the designated taskmaster. She helped Chloé go through her childhood bedroom, sorting items into three piles: "Keep," "Donate," and "What were you even thinking?"
+
+Alex, from his wheelchair, was the official, and often ruthless, judge. Chloé would hold up an old, forgotten t-shirt from a middle school band.
+
+"Keep or donate?" she'd ask, a nostalgic smile on her face.
+
+DONATE, Alex's Quantum Note would voice, its tone deadpan. UNLESS YOU PLAN ON RELIVING YOUR AWKWARD PHASE.
+
+Megan would laugh, tossing the shirt into the donation bag. "He's right. No mercy."
+
+In the afternoon, they migrated across the lawn to the Miller house to tackle Alex's room. The process was the same, a comfortable and efficient team effort. Megan, who was just as at home in the Miller house as she was in the Mason house, would pull a box of old video games from Alex's closet.
+
+"Okay, cuz," she'd say, "time to make some hard choices. *Starship Sentinels* is a definite keep, but what about *Galaxy Marauders 3*?"
+
+KEEP, Alex and Chloé would say in near-perfect unison, a shared, fond memory of their movie night at VDU passing between them.
+
+The day was filled with these small, intimate moments. They weren't just packing boxes; they were sifting through their shared history, their separate pasts now completely and joyfully intertwined. They were a single, cohesive unit, moving seamlessly between the two houses that had become one combined home. The quiet, happy work was the perfect, peaceful interlude, another brick laid in the foundation of the new life they were all about to build, together.
+

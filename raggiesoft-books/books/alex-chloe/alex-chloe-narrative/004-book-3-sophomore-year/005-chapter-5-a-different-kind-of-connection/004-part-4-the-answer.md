@@ -1,0 +1,28 @@
+# Part 4: The Answer
+
+Alex looked from Hannah's hopeful, well-intentioned face to Chloé's protective one. He knew Hannah wasn't being malicious. She was a nice person who simply didn't understand. And he knew, with a sudden, absolute clarity, that he had to be the one to answer.
+
+He took a deep breath and began to type, his message slow, deliberate, and incredibly honest.
+
+HANNAH, his device voiced, its tone gentle but firm. YOU ARE A VERY NICE PERSON. AND I AM VERY FLATTERED THAT YOU ASKED ME. BUT... CHLOÉ IS NOT "JUST" MY FRIEND.
+
+He paused, making sure he had both of their full attention.
+
+SHE IS MY PERSON. MY EVERYTHING. THE SOCIAL PART OF MY LIFE... IT'S HER. A QUIET MOVIE NIGHT WITH CHLOÉ IS BETTER FOR ME THAN ANY BIG, LOUD DANCE. WHAT WE HAVE... IT'S DIFFERENT. IT'S COMPLETE. I AM NOT LOOKING FOR ANYTHING ELSE. I'M SORRY.
+
+The words were a quiet, profound declaration. He wasn't just rejecting a dance; he was rejecting the entire premise of needing a different kind of social fulfillment. He was affirming the absolute, all-encompassing nature of his bond with Chloé.
+
+Hannah stared at him for a long moment, the full weight of his words sinking in. She looked at the way Chloé was standing by his side, not as a guard, but as a natural extension of him. And she finally, truly, understood.
+
+"Oh," she said again, but this time, the word was full of a quiet, dawning comprehension. A sad but understanding smile touched her lips. "I get it. I'm... I'm sorry if I made things awkward."
+
+IT'S OKAY, Alex typed. THANK YOU FOR ASKING.
+
+"Yeah," Hannah said, offering a small, genuine smile. "Well... I'll see you in class." She gave them a final, respectful nod and walked away.
+
+Chloé let out a slow breath she hadn't realized she was holding. She looked at Alex, her heart swelling with a love and pride that was so immense it almost hurt. He hadn't just rejected a date; he had defined their relationship to the world, and to himself, with a beautiful, unwavering clarity.
+
+She didn't say anything. She just reached out and took his hand, her grip firm and sure. The winter formal was in two weeks. And they would be having their own quiet movie night. Together.
+
+
+

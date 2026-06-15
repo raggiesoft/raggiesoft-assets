@@ -1,0 +1,72 @@
+# Part 8: Dead Language, Live Connection
+
+## Section 1: 09:55 AM – The Fine Arts Wing
+
+The bell rang, ending Second Period.
+
+Deep in the Fine Arts wing, behind the auditorium stage, Leo rolled out of the Band Room. The hallway here was long and narrow, running the entire length of the stage and auditorium. It was a backstage world of concrete and acoustics, separated from the academic hustle.
+
+As he exited the Band Room, the layout of the school’s limited accessibility features was laid out directly in front of him. Across the hall lay the backstage entrance. To his left was the door to the **Men's single-stall restroom**—one of the few private bathrooms in the school. Directly in front of him were the three steep steps leading down to the stage level. And to the right of those steps stood the **vertical platform lift**, a clunky mechanical box reserved solely for getting wheelchairs down to the stage for assemblies or performances.
+
+He didn't need the lift right now. He just needed to get to class.
+
+Mr. Peters, the aide, walked beside him as Leo turned right, heading down the long corridor. They passed the Music Theory classroom and the Chorus room. Further down, across from the second backstage entrance (which lacked a lift entirely), they passed the Women's single-stall restroom and the water fountain.
+
+It was a long trek. They navigated the turn at the end of the hall, leaving the arts wing behind.
+
+## Section 2: 10:00 AM – The Commons
+
+They emerged into the bright, open space of the Commons. To their left were the double doors leading into the auditorium audience seating. To their right lay the glass-walled entrance to the **School Library**.
+
+As they rolled past, Leo instinctively sat up straighter. Inside, visible at the circulation desk, was **Mrs. Periwinkle**.
+
+If Mrs. DeMarco was the warden of the cafeteria, Mrs. Periwinkle was the iron-fisted dictator of the stacks. She was a strict disciplinarian who tolerated zero nonsense. The rumor in the band room was that Josh Riley lived in fear of her; he had once told Kevin Schmidt he would rather scrub grease traps for a month than endure Mrs. Periwinkle’s glare for returning a book late.
+
+Leo glanced at the library, grateful he had no overdue fines, and continued across the Commons toward the Academic Wing.
+
+## Section 3: 10:05 AM – Room 104
+
+They entered the main Academic hallway, the noise level spiking as students rushed to third period. Mr. Peters guided him to the first left, down the long corridor lined with lockers.
+
+Just before the heavy fire doors halfway down the hall, they turned into the last classroom on the right: **Room 104**. **Latin II.**
+
+Luna was already there, standing by the door, binder in hand. She had rushed from Algebra II to beat him here.
+
+"Hey," she said, her face brightening the moment she saw him. She nodded to Mr. Peters. "Thanks, Mr. Peters. I've got him."
+
+She took the handles of his wheelchair, and the world snapped back into place. She leaned down for a quick, grounding squeeze of his shoulder. "Make it okay?"
+
+Leo tapped his **Quantum Communicator**. "LONG WALK. PERIWINKLE WAS WATCHING."
+
+"Scary," Luna agreed, steering him into the room.
+
+Magistra Reed was at her desk. She looked up and smiled as the twins entered. She had taught them both Freshman year and knew their routine perfectly. She had already arranged a table in the front row, pushing two desks together to accommodate Leo's chair and Luna's seat right beside him.
+
+"Salvete, discipuli," Magistra Reed said warmly.
+
+"Salve, Magistra," Luna replied, parking Leo and dropping her bag.
+
+Unlike the immersion-heavy Spanish classes down the hall, Latin was taught in English. They analyzed the language rather than conversing in it, which leveled the playing field for Leo.
+
+"Today," Magistra announced, "we are tackling the dative case. Remember: the dative is the case of the indirect object. *To* or *for*."
+
+Leo loved this class. It was logic and structure, a puzzle to be solved.
+
+"Who can translate the first sentence?" Magistra asked. "*Puer puellae donum dat.*"
+
+Leo didn't wait. He typed quickly. Luna watched him work, a small smile on her face. She knew he had this.
+
+Magistra Reed scanned the room, saw Leo’s eyes on her, and nodded. "Leo?"
+
+Leo hit the button. His synthesized voice cut through the quiet room, clear and precise.
+
+"THE BOY GIVES A GIFT TO THE GIRL."
+
+"Optime," Magistra Reed beamed.
+
+Luna leaned over and bumped her shoulder against his. "Showoff," she whispered.
+
+Leo typed a quick reply just for her, grinning. "LOGIC."
+
+For the next fifty minutes, there was no separation, no "liability" concerns, and no architectural barriers. In Room 104, they were just two smart kids learning an ancient language, together.
+

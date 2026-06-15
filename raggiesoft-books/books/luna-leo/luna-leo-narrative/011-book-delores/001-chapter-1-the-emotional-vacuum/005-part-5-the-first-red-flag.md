@@ -1,0 +1,34 @@
+# Part 5: The First Red Flag
+
+The third-floor food court of the mall was a noisy, bustling hub of lunchtime activity. Stella was waiting for them at a table near the windows, and her face lit up the moment she saw them approaching. The twins immediately broke away from Delores and enveloped their sister in fierce, loving hugs, a much-needed moment of connection after their first, separate classes.
+
+"There they are!" Stella said, hugging them back tightly. "How was it? Did you survive?"
+
+"Barely," Luna groaned dramatically. "Algebra is the worst."
+
+Leo, now with Delores a few feet behind them, made the introduction with his Quantum Communicator. "STELLA, THIS IS DELORES. A CLASSMATE FROM MY ALGEBRA CLASS. SHE IS VERY GOOD AT MATH."
+
+"It's so nice to meet you, Stella," Delores said, her smile a perfect picture of charm. "Leo has told me so much about you."
+
+Stella returned the smile, though her eyes did a quick, assessing scan. "He has?" she replied politely.
+
+"He was just saying how much he's struggling," Delores continued, her tone full of seemingly genuine concern as she looked at Leo. "I was just offering to help him study sometime. Be his tutor."
+
+"That's very kind of you," Stella said, her expression neutral. "Alright, I'm starving. Let's get some food."
+
+They all headed toward a popular burger joint. Stella pulled out her wallet. "My treat for the two of you," she said, looking pointedly at Luna and Leo. Her plan had always been to treat her siblings to lunch. A flicker of annoyance crossed Delores's face—the thought that it was unfair—before she quickly masked it with a polite smile, sitting down at the table with the small, packed lunch she had brought. For all Delores knew, Stella simply didn't have enough money for an unexpected guest.
+
+The conversation during the meal was easy and familiar, focusing on how their morning classes had gone. Delores listened, occasionally chiming in with a supportive comment, but she was an outsider to their shared history.
+
+Even amidst the happy chatter, Stella could see it in Leo's eyes: he still really missed Olivia. A quiet sadness lingered behind his smile. "You're thinking about Liv, aren't you?" Stella asked him gently.
+
+Leo gave a small, sad nod. At the mention of the unfamiliar name, Delores's attention sharpened. "OLIVIA," Leo typed, a new energy in his expression. He fumbled for his wallet, pulled it from his backpack, and carefully extracted a worn, folded photograph. He held it out proudly for Delores to see. It was a picture of him and a very tall, smiling girl, their arms wrapped around each other in a joyful, easy hug.
+
+"THIS IS OLIVIA," his Communicator announced. "SHE IS MY BEST FRIEND."
+
+Delores's facial expression changed. The shift was almost imperceptible, a slight tightening around her eyes, a flicker of something cold and appraising. In her mind, the equation was simple: another female must mean a romantic rival. The idea that this "best friend" was the source of the sadness she was trying to fill was a direct threat. But she knew she had to be careful.
+
+She forced her smile to remain in place. "Oh," she said, her voice a carefully crafted note of polite interest. "She's very... tall. It's nice that you have a friend like that."
+
+The moment was small, almost unnoticeable. But Stella, whose "guardian bear" senses were always on a low, quiet alert, saw it. It was the first, tiny alarm bell. *Why does she have a problem with his best friend being a girl?* The thought was a small, quiet data point, filed away for future reference. It was the first red flag.
+

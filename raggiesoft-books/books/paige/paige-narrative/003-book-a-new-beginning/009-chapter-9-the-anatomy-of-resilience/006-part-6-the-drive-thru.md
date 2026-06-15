@@ -1,0 +1,54 @@
+# Part 6: The Drive-Thru
+
+## Wednesday, July 23, 2003 17:00 PM
+
+The silver **Horizon Avalon** merged off the highway and back onto the main drag of Christiansburg. The transition from the cool, pine-scented air of the mountain to the humid, asphalt-scented air of the valley was abrupt.
+
+Freddie sat in the passenger seat, his body cooling down. But with the cooling came the stiffness.
+
+The adrenaline that had powered him up the trail was gone, replaced by a heavy, leaden fatigue. His spastic muscles, agitated by the uneven terrain, were beginning to tighten up like shrinking leather.
+
+"Status report," Jessica said, downshifting as they hit the first traffic light on Roanoke Street. "How are the legs?"
+
+"Seized," Freddie admitted, staring at the dashboard. "Mobility is... compromised. If I stand up now, I might not sit down again."
+
+"Hunger level?" Paige asked from the back.
+
+"Critical," Freddie said. "Caloric deficit is high."
+
+"We need food," Jessica decided. "But we need it fast. I don't think you can handle a sit-down restaurant wait."
+
+"Negative," Freddie said. "I request... minimal transitions. I want to get out of the car exactly one time: when we reach Base."
+
+"Drive-thru it is," Jessica nodded. She signaled left.
+
+Directly ahead, at the corner of Roanoke Street and First Street—practically in the shadow of their own neighborhood—stood the familiar, backlit sign of **Brawny Burger**.
+
+In 2003, Brawny Burger was in the middle of a rebranding revolution. They were moving away from the smaller burgers of the 90s and doubling down on massive, charbroiled beasts known as the **Thick-Stack**.
+
+"Target acquired," Jessica said, pulling the Avalon into the loop. "103 Roanoke Street. It is literally walking distance from our house, but today, we drive."
+
+"Efficiency," Freddie murmured, grateful he didn't have to walk the hundred yards.
+
+They pulled up to the speaker box. The tinny voice crackled. *"Welcome to Brawny Burger. Try our new 1/3 Pound Thick-Stack today."*
+
+"Order protocol," Jessica said, looking at Freddie.
+
+"The **1/3 lb. Original Thick-Stack**," Freddie ordered clearly. "Cheese. Ketchup only. Large fries. Large **Mega-Cola**."
+
+"Classic," Jessica said. She leaned out the window. "One Original Thick-Stack combo, large, Mega-Cola. Ketchup only."
+
+"I'll take the **Mushroom & Swiss**," Paige added from the back. "And a Strawberry Shake."
+
+"And let me get a **Crispy Chicken Sandwich**," Jessica finished. She checked the menu board, confirming the breakfast menu was long gone—hidden behind the plastic slats of the lunch board. "And a side of onion rings."
+
+"Pull around," the voice said.
+
+Jessica paid with cash from the Avery Grant fund. She handed the warm, grease-stained paper bags to Freddie.
+
+The smell of charbroiled beef and salty fries filled the cabin. It was intoxicating.
+
+"Hold the payload," Jessica commanded. "We are two minutes from docking."
+
+She pulled out of the Brawny Burger lot, turned right onto First Street, and then made the immediate left onto Pepper Street.
+

@@ -1,0 +1,34 @@
+# Part 3: The Flash and the Photograph – 8:00 AM
+
+The drive from Virginia Beach up Interstate 64 to James City County took exactly one hour. The yellow school bus rattled over the highway seams, the cabin thick with the smell of diesel exhaust, cheap teenage body spray, and the deafening roar of forty eighth-graders talking over each other.
+
+Trapped in the middle of the green vinyl bench seat, my processor was working in absolute overdrive trying to categorize the physical data happening on my right side.
+
+Bonnie had fully initiated a cuddle. I had shared pack cuddles with her dozens of times in the back of the band room, but this was entirely different. Her long, dark hair spilled over her shoulder, brushing lightly against my collarbone. She didn’t drop her dead weight against my ribs to create a boundary. Instead, she just leaned in close, her shoulder maintaining a soft, electric friction against mine. She was looking forward, but I could see her bright, genuine smile and her dark eyes tracking the passing trees.
+
+And I could physically feel the heat radiating off her. She was blushing furiously.
+
+A moment later, Ashley shifted on my left side. She let out a comfortable sigh and leaned her head heavily against my left shoulder, wrapping her arm securely through mine.
+
+This was the baseline. This was the Pack Cuddle. Ashley's weight was a solid, grounding anchor, pulling me down into gravity and acting as a physical shield against the chaotic noise of the bus.
+
+Sitting perfectly still between them, my brain actively analyzed the profound contrast. On my left, I had the heavy, sisterly gravity that kept my nervous system from overloading. On my right, I had this new, weightless proximity that made my heart race in a way that felt completely terrifying, yet undeniably *right*. I could feel the heat coming off Ashley’s face, too. The two girls were silently sharing the weight of a massive secret, and the physical temperature between us was literally rising because of it.
+
+I didn't pull away from either of them. I just closed my eyes, letting the vibration of the highway hum through my sneakers, accepting the new parameters of the trio.
+
+Suddenly, the distinct, high-pitched *whirrrrr-click* of a disposable camera winding up sounded from the aisle.
+
+I opened my eyes just as a blinding flash of white light exploded in the dim cabin of the bus.
+
+"Gotcha!" a girl from the flute section laughed, lowering her bright yellow disposable camera. She was standing in the aisle a few rows up, snapping candids of everyone for the end-of-year band collage.
+
+We all blinked away the purple spots in our vision. Ashley groaned playfully, hiding her face against my shoulder, while Bonnie just laughed, her blush deepening as she lightly bumped her shoulder against mine again.
+
+I didn't know it then, but when that cheap roll of film was finally developed at the local pharmacy a week later, that glossy 4x6 photograph would perfectly document the exact moment the perimeter expanded.
+
+If you looked closely at the picture, the anatomical difference in the physical touch was undeniable. On the left side of the frame, Ashley is leaning into me with all her weight, her posture fiercely protective and deeply grounded—the absolute picture of a loyal, sisterly anchor. But on the right side of the frame, Bonnie isn't leaning *on* me; she is leaning *toward* me. Her long dark hair is draped near my collar, and she's looking up with a soft, radiant smile that completely lacks the heavy utility of a pack boundary.
+
+It was a three-way cuddle, perfectly captured on film: one half rooted in survival, and the other half stepping effortlessly into romance.
+
+We rode the rest of the way to James City County just like that, anchored together until the towering, looping metal tracks of the Brewster Gardens rollercoasters finally appeared over the tree line.
+

@@ -1,0 +1,30 @@
+# Part 1: A Quiet Conversation (Lynnwood, Weekend After Thanksgiving 2003)
+
+The days following Thanksgiving in Chloé’s Lynnwood apartment were a cocoon of quiet healing for Alex. Sunlight streamed into the small living room, illuminating dust motes dancing in the air. Alex had spent the morning attempting some of his remote Virginia community college assignments, Chloé quietly studying nearby, their shared silence companionable, a familiar rhythm from years past.
+
+A lull had settled. Alex looked over at Chloé, who was curled up on the sofa with a textbook, her brow furrowed in concentration. He watched her for a moment, a wave of profound gratitude washing over him. Vera’s coercive actions in Kent had been a horrifying violation. The need to ensure his health, to reclaim his own body, felt pressing.
+
+He reached for his Quantum Communicator XT AAC device, his fingers moving with a newfound resolve.
+
+"Chloé?" his synthesized Québécois French voice was soft.
+
+She looked up from her book, her expression immediately warm and attentive. "Oui, Alex?"
+
+He hesitated for a moment, gathering his courage. The subject was difficult, born from a place of fear and violation, but with Chloé, he felt safe enough to voice it. "Ce qui s'est passé à Kent avec Vera…" Alex began, his gaze vulnerable, "…le fait qu'elle m'ait forcé… je pense… je pense que je devrais faire des tests, Chloé. Pour les ITS. Juste pour être sûr. Pour ma santé." *(Translation: What happened in Kent with Vera… the fact that she forced me… I think… I think I should get tested, Chloé. For STIs. Just to be sure. For my health.)*
+
+Chloé’s heart ached at the quiet bravery in his words. She closed her textbook, moving from the sofa to sit on the floor beside his wheelchair, taking his hand. Her voice, when she spoke, was incredibly gentle, still in their shared French.
+
+"Alex, mon cher ami," she began, her thumb stroking the back of his hand. "C'est une décision très courageuse et très responsable. Tu as absolument raison. C'est important de vérifier, pour ta tranquillité d'esprit et pour ta santé. Je suis tellement désolée que tu doives même penser à ça à cause d'elle." *(Translation: Alex, my dear friend. That is a very brave and very responsible decision. You are absolutely right. It's important to check, for your peace of mind and for your health. I am so sorry you even have to think about this because of her.)*
+
+She squeezed his hand gently. "Bien sûr que nous allons le faire. Je chercherai une clinique ici à Lynnwood, ou peut-être près de NPU à Seattle si c'est plus facile, qui est accessible et très discrète. J'irai avec toi, à chaque étape du chemin. Tu n'es pas seul dans tout ça." *(Translation: Of course, we will do it. I’ll find a clinic here in Lynnwood, or maybe near NPU in Seattle if that’s easier, that’s accessible and very discreet. I’ll go with you, every step of the way. You are not alone in this.)*
+
+Alex nodded slowly, absorbing her unwavering support. As Chloé spoke, another thought, an extension of this sudden focus on his sexual health, began to form. He looked at her, his expression pensive. He knew about her infertility; it was a fact they had both understood when they had shared their own first, gentle intimate experiences that past summer before Vera, a context of trust and shared knowledge.
+
+"Chloé," his device voiced again. "Pendant que... pendant que je fais ces tests... pour les ITS... je me demandais..." He paused. "Tu sais pour toi, pour ta fertilité. Et après tout ça avec Vera... je pense que j'aimerais savoir pour moi aussi. Juste... pour savoir. Pour avoir une image complète de ma propre santé. Serait-ce possible de vérifier ça aussi? Ma fertilité?" *(Translation: Chloé... While... while I'm doing these tests... for the STIs... I was wondering... You know about yourself, about your fertility. And after all this with Vera... I think I'd like to know about myself too. Just... to know. To have a complete picture of my own health. Would it be possible to check that too? My fertility?)*
+
+Chloé’s eyes softened with immediate understanding. She recognized Alex’s thoughtful nature, his need for comprehensive knowledge, especially now. After such a profound violation, wanting a full understanding of his own physical self was a way of reclaiming agency.
+
+"Oui, Alex, mon cher," Chloé replied gently, her hand still holding his. "Oui, bien sûr, c'est possible. C'est une très bonne idée, en fait. C'est important de connaître son propre corps, surtout après ce que tu as vécu. Quand je chercherai la clinique, je demanderai aussi s'ils peuvent faire un test de fertilité, ou nous orienter vers quelqu'un qui peut le faire en même temps. On affrontera ça ensemble, comme tout le reste. Pour que tu aies toutes les informations dont tu as besoin." *(Translation: Yes, Alex, my dear. Yes, of course, it's possible. It's a very good idea, actually. It's important to know one's own body, especially after what you've been through. When I look for the clinic, I'll also ask if they can do a fertility test, or refer us to someone who can do it at the same time. We'll face this together, like everything else. So you have all the information you need.)*
+
+Alex gave her a small, grateful smile. The path ahead felt a little less daunting knowing Chloé would be there, advocating for him, supporting him, and that he would soon have a fuller understanding of himself.
+

@@ -1,0 +1,74 @@
+# Part 1: The Cavalry Arrives
+
+The Friday of the VDU Open House weekend was a day of quiet, internal warfare for Alex. He woke up with a knot of anxiety in his stomach that had nothing to do with his classes and everything to do with the conversation he knew he had to have at the end of the day.
+
+Throughout his morning classes, his mind was a chaotic whirlwind. He kept replaying the plan in his head. *Megan is picking me up. I am spending the weekend with her.* The words were a simple, powerful mantra. But every time he felt a flicker of resolve, the ghost of Vera’s potential reaction would rise to smother it. He could already hear her voice, her sharp, wounded accusations, her talent for twisting his needs into a personal betrayal of her.
+
+He was so distracted that he barely registered the lectures. He was completely unsure how he was managing to keep his plan a secret, to maintain a mask of normalcy. His entire being was focused on the final class of the day, the 2:00 PM Student Development course, the one he shared with her. It felt less like a class and more like a final countdown to a confrontation.
+
+As he wheeled himself to the classroom, the anxiety was a physical thing, a cold, coiling serpent in his gut. But then, a different thought, a better one, cut through the fear. He thought of Megan’s unwavering, uncomplicated hugs. He thought of the sound of Chloé’s voice on their video calls, a warm, steady anchor across three thousand miles. He thought of the weekend ahead: a quiet dorm room, bad sci-fi movies, and the simple, profound peace of being with someone who didn’t demand anything from him, who just… loved him.
+
+The thought was a powerful, fortifying force. The fear didn’t vanish, but for the first time, it was balanced by a fierce, protective desire for something better. He had been worn down by weeks of her passive aggression and her subtle attempts to isolate him. He was tired of being managed. He had made a plan with his cousin, and he was going to see it through, no matter what Vera said.
+
+The final class of the week, a shared Student Development course, ended with a mercifully early dismissal. As students began to pack their bags, Vera Kowalski turned to Alex with a possessive, expectant smile.
+
+"Ready to go?" she asked, already reaching for the handles of his wheelchair. "My mom's working late, so we have the whole apartment to ourselves tonight." Her voice was a low, suggestive murmur, her meaning clear. She had been looking forward to this, to a full weekend of uninterrupted physical intimacy.
+
+Alex stopped her with a small, almost imperceptible shake of his head. He had been dreading this conversation all day, but also, in a strange way, looking forward to it. He had been worn down by weeks of her passive aggression and her subtle attempts to isolate him. He was tired of being managed. He had made a plan with his cousin, and he was going to see it through, no matter what Vera said. He reached for his Quantum Note.
+
+I'M NOT GOING WITH YOU TONIGHT, VERA, he typed, the words a quiet declaration of independence.
+
+Vera's smile froze, a flicker of anger instantly replacing it. "What do you mean, you're not coming with me? We always spend Friday nights together."
+
+MY COUSIN, MEGAN, IS PICKING ME UP, he continued, his thumbs moving with a slow, deliberate purpose. I AM GOING TO SPEND THE WEEKEND WITH HER. AT HER DORM. FOR THE VDU OPEN HOUSE.
+
+"Your cousin?" Vera repeated, the word dripping with suspicion. "Why didn't you tell me about this?"
+
+I AM TELLING YOU NOW, he typed. He then took a deep breath and deployed the test, a single, carefully chosen sentence designed to gauge the very nature of her affection. SHE IS MY MOST FAVORITE WOMAN IN THE WHOLE WIDE WORLD. I HAVEN'T PROPERLY SEEN HER SINCE THE SUMMER, AND I MISS HER.
+
+Vera's reaction was immediate and venomous. Her face contorted into a mask of pure, jealous rage. "Your *favorite* woman?" she hissed, her voice a low, dangerous whisper. "What is that supposed to mean? What about me? *I'm* your girlfriend! You should be spending the weekend with *me*, not running off to have a sleepover with your 'favorite' cousin!"
+
+In her mind, the situation was clear and ugly. An overnight trip. A dorm room. To her, this wasn't a family visit; it was a planned romantic and sexual tryst. The thought that Alex would do this, with his own cousin no less, was a profound and infuriating betrayal.
+
+"I can't believe you," she spat, her voice thick with a self-righteous, misplaced fury. "You're going to go have sex with your cousin all weekend and just leave me here?"
+
+The accusation was so monstrous, so completely divorced from the pure, platonic reality of his relationship with Megan, that Alex just stared at her, a look of stunned, horrified disbelief on his face.
+
+He had his answer.
+
+SHE WILL BE HERE ANY MINUTE, he typed, the message a simple, unarguable statement of fact. I AM GOING TO WAIT FOR HER OUTSIDE.
+
+Without another word, he turned his wheelchair and navigated his way out of the classroom, leaving Vera standing there, fuming. He made his way to the curb outside the main academic building, the cool, crisp autumn air a welcome relief after the suffocating toxicity of the classroom. He was free. At least, for a moment. He knew she would follow. He knew the confrontation wasn't over. But for the first time, he had stood his ground. And he knew, with a certainty that was both terrifying and liberating, that his cavalry was on its way.
+
+The air on the CCHR Virginia Beach campus was crisp with the scent of autumn. Alex was waiting by the curb outside the main academic building for Megan to pick him up. He was not, however, waiting alone.
+
+Vera stood beside him, her arms crossed, a thunderous expression on her face. Her presence was a suffocating, possessive cloud. "I still don't see why you have to go," she said for the tenth time. "It's a college you're not even going to. You should be spending the weekend with me."
+
+Before Alex could formulate a weary response, a familiar Holt sedan pulled up to the curb. Megan Carter leaned over from the driver's side and rolled down the passenger window, her face breaking into a wide, genuinely happy smile. "Alex! Hey, cuz! Ready for an adventure?"
+
+The sight of another attractive, confident woman smiling at Alex sent a jolt of pure, venomous rage through Vera. She didn't bother to place the face from that blurry, humiliating night a few weeks ago. In her mind, this was just another female threat to be neutralized.
+
+"Who the hell are you?" Vera hissed, her voice a low, dangerous snarl.
+
+Megan’s friendly smile faltered as she took in the raw hostility radiating from the woman beside her cousin. Alex, however, summoned a new and unfamiliar courage.
+
+THIS IS MY COUSIN, MEGAN, his Quantum Communicator XT voiced, its tone calm and steady. I TOLD YOU. WE ARE GOING TO SPEND THE WEEKEND TOGETHER.
+
+Megan, unfazed, got out of the car and walked around to Alex. "It's so good to see you," she said, her voice warm, completely ignoring Vera. She leaned down and wrapped Alex in a big, familiar, loving hug.
+
+The sight of it—another woman touching him—made Vera's control snap.
+
+"Don't touch my husband!" she shrieked.
+
+The word "husband" hung in the air, a shocking, toxic bomb. It was the first time she had used it; a blatant, unhinged lie designed to poison the very concept of marriage and assert a level of ownership she did not possess.
+
+Megan pulled back slowly, her expression shifting from warm affection to a look of pure, icy disdain. She looked Vera up and down, her voice dripping with a quiet, dismissive authority. "Excuse me? I've been hugging my cousin since he was in diapers. And he is not your husband. Who are you, again?"
+
+Vera was so taken aback by the direct challenge that she was momentarily speechless. Alex, meanwhile, just looked at her, his expression now one of tired, steely finality. He had made his decision. He was going.
+
+IT IS JUST FOR THE WEEKEND, VERA, his device stated, the words not an apology, but a simple, unarguable fact. I WILL SEE YOU IN CLASS ON MONDAY.
+
+Without another word, he allowed Megan to help him get his bag stowed before he transferred into the passenger seat. He didn't look back as Megan closed the door, gave Vera one last, withering glare, and got behind the wheel.
+
+They pulled away from the curb, leaving Vera standing on the sidewalk, a lone figure consumed by her own impotent fury. Inside the car, Alex let out a long, shuddering breath he didn't realize he'd been holding. He was free.
+

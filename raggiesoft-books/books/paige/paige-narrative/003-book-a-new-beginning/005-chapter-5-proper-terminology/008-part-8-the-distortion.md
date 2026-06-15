@@ -1,0 +1,132 @@
+# Part 8: The Distortion
+
+## Wednesday, July 9, 2003 14:15 PM
+
+The heavy glass doors of Newman Hall swung shut, cutting off the cool air conditioning. Krystal stepped out into the humid heat of the afternoon, her heels clicking angrily on the concrete.
+
+She walked to the low brick wall near the entrance and dug into her purse. She pushed past her lip gloss and her ID card until her fingers brushed against the cellophane of a pack of cigarettes.
+
+She didn't smoke. Not really. A girl from her dorm—some drama major named Ashley—had shoved the pack into her hand last week, saying, *"For when the stress gets real."*
+
+Krystal looked at the pack. She felt ridiculous holding it. But the rage in her chest was so hot it felt like heartburn, and she needed to do something with her hands. She needed to look like she didn't care.
+
+She fumbled with the lighter, taking three tries to get a flame. She put the white stick between her lips and inhaled, just like she’d seen in movies. **Mistake.**
+
+The smoke hit her throat like tear gas. She gagged, doubling over as a violent coughing fit wracked her body. Her eyes watered, ruining her mascara. It tasted like burnt paper and chemicals.
+
+"Gross," she wheezed, wiping her mouth.
+
+She wanted to throw it away. But she didn't. She straightened up, holding the burning stick away from her body with awkward, stiff fingers. She forced herself to take a tiny, shallow puff, just to prove she could. She needed the prop. She needed to feel like the bad girl, the one who didn't care.
+
+"Freaks," she whispered, her voice raspy from the smoke.
+
+She replayed the scene in her head. She analyzed the data, but through the corrupted processor of her own insecurity.
+
+She saw Freddie. He didn't stutter—that would have been too simple. It was worse. It was the way he paused, his mouth opening and closing like a fish while he searched for words that wouldn't come, only to blurt out something weird and robotic like "Variable rejected."
+
+He had a limp. He had zero game. He was the kind of guy who should have been on his knees thanking God that a girl like Krystal even looked in his direction.
+
+But he wasn't. He was... secure.
+
+Why?
+
+*Because of the sister.*
+
+Krystal took another tiny, distasteful drag, narrowing her eyes as she stared at the glass doors. She thought about the way the sister (Paige) held him. The way she stroked his hair. The way she let him lay his head in her lap in the middle of the student center.
+
+"It's sick," Krystal muttered.
+
+But then, her mind twisted the logic to protect herself.
+
+Freddie hadn't rejected Krystal because she wasn't attractive. That was impossible. She was hot. She knew she was hot. Her shirt was tight; her jeans were expensive. The math was on her side.
+
+No, Freddie had rejected her because he was *forcing* his sister to fill that role.
+
+The narrative clicked into place in Krystal's mind, dark and twisted but comforting to her bruised ego.
+
+*He's a manipulator,* she thought. *He knows he can't get a real girlfriend. He knows no normal girl wants to deal with his... pausing and his walking. So he uses the sister.*
+
+She remembered Paige’s face. The defiance. The protectiveness.
+
+To Krystal, that wasn't love. That was **Stockholm Syndrome**.
+
+*He's making her do it,* Krystal decided, flicking the ash (and almost burning her thumb). *He probably plays the 'I'm disabled and lonely' card until she feels so sorry for him that she lets him treat her like a girlfriend. He's trapped her.*
+
+A new emotion bubbled up in Krystal’s chest. It wasn't just jealousy anymore. It was a twisted kind of self-righteous indignation.
+
+She wasn't the predator. She was the *liberator*.
+
+"That poor girl," Krystal whispered, tossing the half-smoked cigarette onto the pavement and crushing it with her heel to stop the awful smell. "She's stuck with him. She probably wants a boyfriend, but she can't because she has to babysit her creepy brother who wants to cuddle all day."
+
+If she could get Freddie... if she could show him what *real* sex was like... maybe he would stop clinging to his sister. Maybe she could break that weird, incestuous little bubble they lived in.
+
+She wasn't just trying to get laid anymore. She was on a crusade.
+
+She looked at the slip of paper she’d shoved in his pocket in her mind's eye.
+
+"Call me," she whispered to the closed doors. "Call me when you realize your sister can't give you what you actually need."
+
+She adjusted her top, pulling it lower to maximize her geometry, and walked toward the dorms. She hadn't lost. She had just found a new angle of attack.
+
+## 14:30 PM (Inside Newman Hall)
+
+Inside Newman Hall, the air was cool and scrubbed clean. Freddie remained horizontal on the plush sofa, his head resting comfortably in Paige’s lap.
+
+He reached into the pocket of his orange hoodie and pulled out the slip of paper Krystal had violated his personal space with. He held it by the very corner, as if the purple gel ink were radioactive.
+
+He didn't want to stand up. His legs were currently "offline," resting in recharge mode. He looked to his right. A large blue recycling bin sat directly next to the arm of the sofa, just within reach.
+
+"Disposal protocol," Freddie whispered, holding the paper up to Paige.
+
+Paige didn't look up from her book immediately. She reached down, took the slip of paper from his fingers, and leaned over the armrest to drop it into the bin.
+
+As she leaned, her line of sight cleared the edge of the sofa and aligned perfectly with the glass wall of the atrium.
+
+She froze.
+
+"Ugh," Paige said, her nose scrunching up in immediate, visceral disgust.
+
+"Status?" Freddie asked, feeling her muscles tense beneath his head.
+
+"Visual confirmation on the glitch," Paige murmured, nodding toward the window. "She's right outside the doors. And she's smoking."
+
+Freddie flinched. He didn't even have to smell it to feel the revulsion. Smoking was a "Class A" sensory violation. It was particulate matter. It was a chemical assault on the olfactory system. It was dirty.
+
+"Smoke," Freddie shuddered. "Contamination."
+
+"She looks ridiculous," Paige noted, watching Krystal cough and hack through the glass. "She doesn't even know how to hold it. She’s just... polluting herself."
+
+Freddie ran the simulation in his head. *Scenario A:* Accept Krystal's offer. Result: Exposure to smoke, erratic behavior, overwhelming sensory friction, and the chaotic unknown of sexual performance with a stranger. *Scenario B:* Remain here. Result: Clean air (scented only of Paige’s detergent), deep pressure, structural stability, and absolute safety.
+
+The choice wasn't even a choice. It was a survival instinct.
+
+He turned his face inward, pressing his cheek directly into the soft fabric of Paige’s jeans, burying his nose against her stomach to block out even the *idea* of the smoke outside. He wrapped his arm tightly around her waist, deepening the hug, anchoring himself to the only solid ground he knew.
+
+"I have made a calculation," Freddie mumbled into her lap.
+
+Paige looked down at him. She dropped her hand to the back of his neck, her fingers threading through his dark hair, scratching gently at the base of his skull—a stim she knew calmed him instantly.
+
+"What's the calculation, Navigator?" she asked softly.
+
+"I would rather spend the next fifty years holding you," Freddie stated, his voice muffled but absolute, "than spend one night engaging in friction with her."
+
+He squeezed her waist, pulling her down slightly so he could feel the weight of her existence.
+
+"She offers smoke," Freddie whispered. "You offer oxygen."
+
+Paige smiled. It wasn't a triumphant smile; it was a peaceful one. She looked out the window at Krystal, who was stomping out her cigarette in frustration, and felt a wave of pity. Krystal was chasing a currency that had no value here.
+
+Paige looked back down at her brother. She smoothed his hair, shielding his eyes from the overhead lights.
+
+"Then stay," Paige whispered. "You can hug me for the rest of your life, Freddie. I'm not going anywhere."
+
+"Promise?"
+
+"Promise," Paige said. "Infinite loop. No exit condition."
+
+Freddie let out a long, slow breath. The static in his head cleared completely.
+
+"System optimized," he murmured.
+
+He kept his face buried in her lap, ignoring the world, ignoring the girl outside, and focusing entirely on the perfect, stable rhythm of his sister’s breathing.
+

@@ -1,0 +1,52 @@
+# Part 4: The Reckoning
+
+## Location: Principal Harrison’s Office
+
+Principal Harrison sat behind his desk, the "Bennett Settlement" file open in front of him. The office was quiet, insulated from the chaos of the class changeover happening in the hallways.
+
+On one side of the room sat Mrs. Vance, looking flushed and vindicated. On the other side sat Patrick. He was still in his gym clothes—shorts and a t-shirt—because Mrs. Vance hadn’t let him go back to the locker room.
+
+"He violated the Federal Consent Decree, sir," Mrs. Vance said, tapping the paper on the desk. "The 1996 ruling is explicit. *'Sibling must remain with his assigned cohort.'* Patrick left the gym, entered a restricted Special Education area, and performed an uncertified physical hold on a student. We have to suspend him. If the District finds out we let this slide, the liability is enormous."
+
+Harrison looked at Patrick. "Patrick, tell me about the hold."
+
+"It wasn't a hold," Patrick said, his voice tight. "She was screaming. She was hitting herself. She couldn't breathe because she was crying so hard. I just... I squeezed her. I gave her deep pressure until she stopped shaking."
+
+"He restrained her movement," Mrs. Vance corrected. "Without certification."
+
+Harrison rubbed his temples. He looked at the clock. 10:55 AM. Third period was over. The bell for Fourth Period had just rung.
+
+"Patrick," Harrison asked. "Where are you supposed to be right now?"
+
+"Latin," Patrick said. "Mrs. Dalloway's class."
+
+"And where is Nichole?"
+
+"She's in Latin too," Patrick said. "It's the only Latin I section. She's supposed to be there by now."
+
+Harrison looked at the Nurse. He saw a bureaucrat who saw students as lawsuits waiting to happen. Then he looked at Patrick. He saw a fourteen-year-old boy who had walked out of a gym class to stop his sister from hurting herself.
+
+Harrison picked up his pen. He looked at the detention slip Mrs. Vance had filled out: *Insubordination. Violation of Safety Plan.*
+
+"Mrs. Vance," Harrison said, his voice deep and calm. "The Federal decree prevents us from *assigning* Patrick a duty. It prevents us from *ordering* him to help."
+
+He leaned forward.
+
+"It does not prevent him from being a human being."
+
+"But the liability—"
+
+"If a student sees another student choking in the cafeteria and performs the Heimlich maneuver, do we suspend him for practicing medicine without a license?" Harrison asked.
+
+Mrs. Vance went silent, her mouth pressing into a thin line.
+
+"Patrick was on a sanctioned bathroom break," Harrison declared. "He acted as a Good Samaritan to assist a student in medical distress. The incident is closed."
+
+Harrison ripped the referral form in half. The sound was loud in the quiet office. He dropped the pieces into his wastebasket.
+
+"Mrs. Vance, you may return to the clinic."
+
+The Nurse stood up, stiff and angry, and marched out of the room.
+
+Harrison stood up and grabbed his walkie-talkie. "Come on, son. Let's get you to class."
+

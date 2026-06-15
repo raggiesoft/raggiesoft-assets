@@ -1,0 +1,16 @@
+# Part 5: Lunch on the Mall
+
+By the time they emerged from the Lincoln Memorial back into the bright sunlight, their stomachs were beginning to rumble. It was well past noon, and the morning's adventures had worked up a serious appetite.
+
+"Okay, team," Stella announced, a new mission in her voice. "I think it's time to find some lunch."
+
+Instead of a sit-down restaurant, they opted for the classic D.C. experience: lunch from a street vendor on the National Mall. They walked a short distance to where a line of simple but inviting food carts were parked, their colorful umbrellas offering small patches of shade. The air was filled with the delicious, salty smell of hot dogs and roasting nuts.
+
+The menu was simple and perfect for a quick, satisfying meal. They had hot dogs, soft pretzels, chips, and sodas.
+
+"This is perfect," Olivia said, her eyes lighting up. "A real American hot dog on the Mall. You can't get more classic than this."
+
+They all got hot dogs, loaded with their favorite toppings, and bags of chips. They found a park bench under a large, shady tree, creating their own private picnic spot with a stunning view of the Washington Monument.
+
+The meal was simple, but it was perfect. They ate and talked, laughing as a particularly bold squirrel made a daring attempt to get a stray potato chip. For Leo, this was another new, wonderful experience. He was sitting in the heart of the nation's capital, eating a hot dog with his sister, his twin, and his best friend. The food was simple, the setting was magnificent, and the company was everything. It was a perfect, happy, and completely normal moment in the middle of their grand adventure.
+

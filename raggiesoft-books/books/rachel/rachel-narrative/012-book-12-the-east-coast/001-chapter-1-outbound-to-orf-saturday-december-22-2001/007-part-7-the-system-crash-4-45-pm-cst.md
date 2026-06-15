@@ -1,0 +1,44 @@
+# Part 7: The System Crash – 4:45 PM (CST)
+
+(Rachel's POV)
+
+The elevator ascended, the heavy metal doors shielding me for a few desperate seconds from the flashing horror of the underground tunnel. My breathing was ragged, my hands shaking violently where they gripped Jessica's push-handles.
+
+I thought the worst was over. I thought returning to the main level would mean returning to the predictable, manageable friction of a standard airport.
+
+But as the doors slid open onto Concourse C, the reality of the holiday travel hub crashed into me like a physical wall.
+
+It was a sea of absolute chaos. The concourse was packed shoulder-to-shoulder with thousands of delayed, exhausted travelers. The ambient roar of overlapping voices, the screech of hundreds of rolling suitcases, and the sharp, blaring electronic tones of the public address system all slammed into my already shattered auditory processor.
+
+My system couldn't take it. The delayed trauma of the Prismatic Corridor collided with the sheer density of Concourse C, and my internal algorithms simply failed.
+
+My hands slipped off the rubber grips of the wheelchair. My knees gave out.
+
+"Rachel," Jessica gasped, feeling the sudden loss of my weight against her chair.
+
+She spun her casters around, her eyes darting frantically across the massive, sprawling concourse. I could see her analytical brain running at maximum capacity, desperately searching the architecture for an out-of-the-way alcove, an empty boarding gate, a closed storefront—any shadowed corner where she could hide me and let my nervous system safely reboot.
+
+But this was Chicago two days before Christmas. There were no empty spaces. There was no sanctuary.
+
+The pressure in my lungs expanded until I couldn't hold it in anymore. A loud, guttural rumble tore out of my chest—a raw, vibrating vocalization of pure sensory agony. I didn't care who heard it. I didn't care about the neurotypical rules of public behavior. The tears started flowing hot and fast down my cheeks, blinding me.
+
+I collapsed onto the hard, dirty tile floor right in the middle of the pedestrian traffic, pulling my knees tightly against my chest and burying my face in my arms.
+
+Jessica realized instantly that she couldn't extract me from the environment. So, she became the environment.
+
+She forcefully reversed her wheelchair, wedging the heavy metal frame directly between my crumpled body and the relentless flow of the crowd. She locked her brakes, transforming her mobility device into an immovable, physical barricade so no one could accidentally step on me or bump into me.
+
+She leaned down over the side of her armrest, pressing her hand firmly against the back of my neck.
+
+I sobbed, my shoulders heaving as another guttural hum vibrated against my knees. I needed my anchor. When the world shattered and the sensory input became lethal, there was only one permanent fix: Michael. I needed my brother to wrap his arms around me in a suffocatingly tight, heavy hug. I needed his deep, unyielding pressure to manually force my nervous system to reset.
+
+But he wasn't here. I was completely unanchored in the middle of the loudest room in the world.
+
+"I know," Jessica whispered fiercely, her voice cutting through the roar of the concourse, meant only for me. She leaned further down, wrapping her arm around my shaking shoulders, shielding me as best she could with her own body. "I know it hurts, Rachel. I know he isn't here."
+
+Travelers walked past us, some staring, some intentionally looking away. Jessica ignored every single one of them. She didn't shush me. She didn't tell me to stand up. She just held the perimeter.
+
+"He is waiting for us," Jessica promised, her hand gripping my shoulder with a heavy, steadying pressure. "He is at the airport in Virginia right now, and he is waiting for you. We just have to ride out the storm. And then we get on the plane, and we go to Michael."
+
+I focused all of my remaining conscious energy on those words. *Virginia. Michael.* I kept my eyes squeezed shut, letting the tears soak into the fabric of my coat, and allowed the guttural rumble in my chest to slowly transition into a long, broken hum. I couldn't fix the environment, and Jessica couldn't stop the noise, but she was holding the line. We were going to sit right here on the floor of Concourse C until I could finally breathe again.
+

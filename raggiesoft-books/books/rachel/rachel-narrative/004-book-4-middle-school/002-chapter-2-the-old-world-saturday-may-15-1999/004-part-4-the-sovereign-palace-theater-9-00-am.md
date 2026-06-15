@@ -1,0 +1,46 @@
+# Part 4: The Sovereign Palace Theater – 9:00 AM
+
+The heavy air brakes of the yellow school buses hissed loudly, signaling our arrival.
+
+Stepping off the rubber stairs and back into the muggy, sweltering heat of James City County, the chaos immediately resumed. Ms. Pitizer stood near the grassy median of the massive, sprawling parking lot, wielding her heavy plastic clipboard like a weapon.
+
+"Alright, eighth grade! Line up by section! I need a final headcount before I hand out the tickets!" she shouted, her voice echoing over the roar of the idling engines.
+
+Our trio gravitated toward the cluster of percussionists. The physical distance between Bonnie and me had completely vanished on the hour-long bus ride. We were standing shoulder-to-shoulder, not officially holding hands yet, but the proximity was undeniably electric.
+
+A moment later, Julia marched over from the first bus.
+
+Julia had known Ashley and me for five years, which meant she had an infuriatingly sharp eye for our baseline behaviors. She took one look at Bonnie’s bright, flushed face, and then looked at the lingering, magnetic proximity between the three of us. She realized instantly that the data had shifted during the drive.
+
+"Well, look at this," Julia announced loudly, planting her hands on her hips and wearing a massive, triumphant smirk. She looked directly at Ashley, then at Bonnie, and finally at me. "Are you guys starting a commune? When are the three of you getting married?"
+
+My chest instantly tightened, the unmapped social data causing my processor to completely stall. She was directing the tease at all three of us because my pack-level affection was visibly enveloping both girls.
+
+Ashley didn't even blink. "Shut up, Julia," Ashley fired back, her face contorting into a mask of absolute, authentic disgust. "Michael is literally my brother. That is the grossest thing you've ever said. You need help."
+
+Julia just laughed, completely unfazed by Ashley’s deflection, and turned her sharp, teasing gaze squarely onto Bonnie.
+
+Bonnie’s face flushed a brilliant, panicked crimson. She opened her mouth to defend herself, but the words completely failed her. She was utterly paralyzed by the spotlight, her dark eyes darting nervously down to the asphalt.
+
+Ashley stepped smoothly into the gap, throwing her arm out to physically shield Bonnie. Ashley was carrying a massive, encrypted secret about the two of us, but her wingman protocol was flawless. She wasn't going to let Julia spoil the operation by spilling the truth early.
+
+"Leave her alone, Julia. Don't be weird just because you don't have a group," Ashley snapped, her tone carrying the fierce, protective weight of a guard dog.
+
+Julia rolled her eyes, but the defensive perimeter held. She offered one last annoying smirk and wandered back toward the clarinets.
+
+"Alright, listen up!" Ms. Pitizer called out, finally breaking up the chatter. She began walking down the line, handing out heavy paper tickets from a massive roll. "These are your admission passes. The park opens in ten minutes. You have free reign of the park, but you must remain in your groups of at least two! The Spring Sound Showcase begins this evening. You are required to report to the Sovereign Palace Theater in the 'France' section at exactly six o'clock to get into uniform. Our performance is at seven o'clock sharp. Do not be late!"
+
+Ms. Pitizer slapped three tickets into my hand as she walked past. I handed one to Ashley and one to Bonnie.
+
+"Six o'clock," Ashley repeated, tapping her ticket. "That gives us nine hours of rollercoasters."
+
+The massive, wrought-iron gates of Brewster Gardens finally swung open, and the crowd of eighth graders instantly surged forward.
+
+As we walked through the turnstiles, we spotted Sloane. He was strutting down the cobblestone path of the 'England' hamlet, surrounded by the trombone players who made up the section's Wrong Crowd. He had his chest puffed out, loudly bragging about sneaking onto rides or breaking park rules, desperately trying to project a macho image that completely failed to match his fifth-grade height.
+
+"He's going to get himself suspended before noon," Bonnie muttered, watching Sloane purposefully bump his shoulder into a passing tourist.
+
+"Let him," Ashley said dismissively, immediately turning her back on the toxic percussion drama. "Not our group, not our problem."
+
+None of us liked him anyway. Our perimeter was closed, the toxic middle school energy was officially locked out, and the adrenaline of the Old World was waiting. Ashley grabbed my left arm, Bonnie stepped perfectly into the space on my right, and we headed straight for the rollercoasters.
+

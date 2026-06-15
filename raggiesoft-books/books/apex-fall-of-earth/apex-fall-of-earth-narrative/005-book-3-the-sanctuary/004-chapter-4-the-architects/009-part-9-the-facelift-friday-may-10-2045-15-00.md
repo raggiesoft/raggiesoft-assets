@@ -1,0 +1,56 @@
+# Part 9: The Facelift – Friday, May 10, 2045 – 15:00
+
+The pneumatic elevator carried them swiftly away from the freezing, sterile blue light of the Genesis Vault and back up into the warm, flawless **21.6°C** climate of the main estate.
+
+As the brushed-steel doors parted, Sarah stepped out into the softly illuminated corridor. She took a deep, grounding breath of the clean air. They had just secured the biological future of humanity, but her mind briefly drifted back to the past she had completely left behind.
+
+Apex Defense Solutions was still out there, lightyears away, ravaging the outer arms of the galaxy. By now, High Director Kael would have realized his trap had completely failed. Tom and Ellen Hayes, the two people who had made her childhood a living nightmare, were undoubtedly sitting in the dark of an Acheron transport ship, bound for the deep-crust labor camps.
+
+Sarah felt absolutely nothing for them. Not a shred of guilt, not a single pang of regret. They had abused her until she was legally old enough to walk out the door, and now, the universe had balanced the scales.
+
+"You know," Sarah said, lacing her fingers through Wyatt's as they walked bare down the hall. "Back on the ship, when Kael was broadcasting his threats, we had to listen to it. The billionaire hardwired *The Nomad's* receiver so the crew couldn't accidentally block an emergency corporate mandate."
+
+She looked up at the ceiling array, a fierce, protective autonomy locking into her voice.
+
+"Aria. We aren't on the ship right now. We are in the master estate. Does the same hardwired restriction apply to the mountain's communication grid?"
+
+*"Negative, Sarah,"* Aria responded smoothly. *"The estate's subspace arrays are fully customizable and subject to your direct administrative override. You have absolute control over incoming and outgoing frequencies."*
+
+"Perfect," Sarah smiled, a cold, absolute finality in her eyes. "Block them. Block Apex Defense Solutions, block Acheron Command, and block any frequency transmitting from the Sol System. I never want to hear High Director Kael's voice, or my parents' voices, ever again."
+
+*"Executing permanent firewall protocols,"* Aria confirmed. *"All corporate and dictatorial frequencies are now completely blocked. This sanctuary is digitally impenetrable."*
+
+Wyatt let out a low, incredibly satisfied laugh, pulling her flush against his side and kissing her temple. The final, invisible tether to their old lives had just been severed.
+
+"Good riddance," Wyatt murmured. He looked out the massive hydro-glass window at the raging super-cell storm, his mechanic's mind suddenly shifting gears.
+
+"Speaking of the ship," Wyatt said, leading her back toward the sunken, mahogany-paneled library. "Aria's ghost protocol worked perfectly. If an Apex scout pings the dreadnought, the digital handshake tells them it's a privately registered vessel named *The Nomad*. And we know Kael won't send another tracker squadron to Exoplanet 4."
+
+"He's too cheap," Sarah agreed, perfectly understanding the megacorporation's ruthless logistics. "Apex ran the sweep, saw a solar-freighter buried in the woods, and completely dismissed it. Kael would never authorize spending the credits to sweep a cleared planet twice."
+
+"Exactly," Wyatt nodded, walking down the carpeted steps into the library. "We are completely off their radar. But... what if we eventually want to fly her again? What if we want to explore the southern hemisphere, or take a trip to the planet's moons?"
+
+Sarah sat down on the edge of the plush leather sofa, looking up at him. "The digital handshake says we're a private vessel, but underneath that active camouflage, the physical hull still looks exactly like an Apex Legacy Asset. It has that blocky, rusted fuselage."
+
+Wyatt’s eyes gleamed with a massive, ambitious spark. He leaned over the holographic glass table, waking the terminal.
+
+"Not for long," Wyatt grinned. "We have a fully automated Fabrication Foundry sitting on Sub-Level 2, packed with raw titanium, tungsten, and high-tensile polymers. We have 5-axis CNC machines and molecular 3D printers that can build anything we want."
+
+He tapped the glass, bringing up the massive, three-dimensional wireframe schematic of *The Nomad*. The heavy, utilitarian cylinder of the retrofitted Apex listening post hovered in the air between them.
+
+"We don't just have to hide the ship, Sarah," Wyatt declared, his hands resting on the edge of the table. "We can completely rebuild the outer shell. We can strip off the rusted Apex armor plating and have the foundry print a brand new, custom aerodynamic hull. We can make *The Nomad* look like a completely different class of dreadnought."
+
+Sarah’s eyes lit up with sheer delight. She slid closer to the holographic table, entirely bare and entirely captivated by the idea.
+
+"A total facelift," Sarah breathed, reaching her hand into the hologram and rotating the blocky ship. "Aria, can the foundry's manufacturing arms handle heavy aerospace plating?"
+
+*"Affirmative, Sarah,"* Aria confirmed, a new menu of structural alloys and aerodynamic rendering tools populating the table. *"The foundry can smelt, print, and shape custom hull plating to your exact specifications. Furthermore, the estate's automated maintenance drones can seamlessly install the new shell over The Nomad's existing superstructure while it remains docked in the hangar."*
+
+"Let's do it," Sarah laughed, fully embracing her new role as an architect. "I want her sleek. I want her to look like she belongs to us, not a megacorporation."
+
+For the next two hours, the library transformed into a cutting-edge aerospace design studio. They completely ignored the storm outside, losing themselves in the creative freedom of the holographic interface.
+
+Wyatt handled the structural physics, ensuring the new aerodynamic curves wouldn't interfere with the vertical repulsorlifts or the massive, unfolding solar wings. Sarah focused on the aesthetics, dragging and dropping sleek, swept-back titanium plating over the blunt, ugly nose of the original hauler, transforming it from a flying metal brick into a beautiful, predatory dreadnought.
+
+They were erasing the last physical footprint of Apex Defense Solutions, molding their stolen ship into a permanent, undeniable symbol of their absolute freedom.
+

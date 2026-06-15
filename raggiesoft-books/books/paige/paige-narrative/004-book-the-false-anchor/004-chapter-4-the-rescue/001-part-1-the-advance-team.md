@@ -1,0 +1,296 @@
+# Part 1: The Advance Team
+
+## Wednesday, May 5, 2004 — 15:30 PM (PST) Seattle-Tacoma International Airport (SEA)
+
+The rain in Seattle wasn't like the rain in Virginia. It wasn't a storm; it was a pervasive, mist-like drizzle that soaked everything instantly.
+
+Jessica and Paige stepped out of the sliding doors at the Rental Car Center. They were exhausted, but the clock was on their side. They had flown across the country in seven hours, chasing the sun west, landing while it was still afternoon.
+
+"Reservation for Avery," Jessica told the agent at the counter. "Mid-size."
+
+They were given the keys to a mid-sized sedan.
+
+Jessica threw her bag in the trunk. She got in the driver's seat. She didn't check the mirrors. She didn't adjust the seat. She just put the car in drive.
+
+"GPS says twenty minutes to downtown," Jessica said, peeling out of the garage. "Traffic is light."
+
+Paige sat in the passenger seat. She had the orange pill bottle in her lap. She was turning it over and over in her hands.
+
+"He's quiet now," Paige whispered, staring at the rain-streaked window. "I can't feel him screaming anymore. He's just... hurting."
+
+"He's conserving energy," Jessica said, merging onto **I-5 North**. "He's shutting down non-essential systems. It’s a survival mechanism."
+
+They drove in silence, the windshield wipers slapping a steady rhythm against the glass. *Slap-swish. Slap-swish.*
+
+As the skyline of Seattle rose up out of the mist—the Sky-Spire glowing white in the distance—neither of them remarked on the view.
+
+They weren't tourists. They were a retrieval team.
+
+They took the **Stewart Street** exit.
+
+"There," Jessica pointed.
+
+On the left, a gritty, low-slung building with buses idling in the bays. **The Pathfinder Terminal**.
+
+Directly across the street, a generic brick high-rise. **The Cascade Suites**.
+
+Jessica pulled into the hotel garage.
+
+"Check-in," Jessica commanded. "Then we establish the lookout."
+
+## Wednesday, May 5, 2004 — 16:00 PM (PST) The Cascade Suites, Seattle
+
+The mid-sized white sedan, a generic fleet model from "Blue Sky Rentals," pulled into the covered garage of **The Cascade Suites**.
+
+Jessica put the car in park. She turned off the engine. For a moment, neither of them moved. The silence in the car was heavy, a stark contrast to the roar of the jet engines that had filled their ears for the last seven hours.
+
+"We're here," Paige whispered. "We're actually here."
+
+"We beat him," Jessica said, unbuckling her seatbelt. "Now we dig in."
+
+They grabbed their bags and took the elevator to the lobby. It was a functional, slightly dated space with beige tile and fake Ficus trees, but it smelled clean.
+
+Jessica approached the front desk. The clerk, a young man with a name tag reading *DAVE*, looked up.
+
+"Checking in," Jessica said, sliding her credit card across the marble. "Reservation for Avery."
+
+"Ah, yes," Dave typed. "Grand Suite. One King Bed. For two adults?"
+
+"Three," Jessica corrected firmly. "Myself, my sister here, and my brother, Freddie Avery. He will be arriving on Friday."
+
+"Okay, I'll add him to the registry," Dave said. "And how many nights will you be staying?"
+
+"We aren't sure," Jessica said. "Put us down for three nights for now, but keep it open-ended. We might need... recovery time."
+
+"No problem," Dave said, handing over two key cards. "Room 412. Fourth floor, street view."
+
+"Perfect," Jessica said. "Thank you."
+
+## Wednesday, May 5, 2004 — 17:00 PM (PST) Room 412 & "Market Street Grocery"
+
+Jessica dropped the duffel bags on the floor. The room smelled of lemon disinfectant and aggressive air conditioning—a sterile, manufactured scent that was infinitely preferable to the air outside.
+
+She went straight to the window. It was a large, single pane of heavy glass, looking directly down onto Stewart Street.
+
+Below them, the city was a wet, grey river of traffic. Directly across the street sat the Pathfinder Terminal. It was a low, ugly building of beige brick and grime-streaked windows. The bus bays were open to the air, covered only by a corrugated metal roof that dripped rainwater onto the idling silver coaches.
+
+Clouds of blue diesel smoke drifted up from the bays, swirling in the wind before smashing against the hotel glass.
+
+"Can you smell it?" Paige asked, standing near the kitchenette, afraid to come closer.
+
+Jessica pressed her hand against the cold glass, checking the seal. "No. The seal is tight. But I can see it. It looks like a factory down there."
+
+She watched a driver in a uniform smoking a cigarette by a wheel well. The exhaust from the idling buses hung heavy in the alleyway, a toxic fog that Freddie would have choked on instantly.
+
+"Line of sight confirmed," Jessica noted, stepping back but keeping her eyes on the arrival lane. "We can see the buses coming in from the highway. But we keep this window closed. Not for sun, not for air. We keep this room a clean room. When he gets here... he's going to need clean air."
+
+"I can't just sit here," Paige said, pacing the small kitchenette area behind her. "I feel like I need to do something. He's out there somewhere, hungry and hurting, and I'm just... standing on carpet."
+
+Jessica turned from the window. She looked at the empty kitchenette—the bare counters, the hollow refrigerator. It was too sterile. It didn't look like safety; it looked like a waiting room.
+
+"We need supplies," Jessica decided, opening the empty refrigerator. "When he gets here on Friday, he is going to be starving. He won't have eaten a real meal in three days. We need immediate calories. No cooking, no waiting."
+
+## 17:15 PM — Market Street Grocery
+
+They left the hotel and walked two blocks to Market Street Grocery, a local urban market that smelled of damp cardboard and produce.
+
+They grabbed a cart. They didn't shop for themselves; they shopped for the Freddie Protocol.
+
+"Soft foods," Paige muttered, scanning the aisles with laser focus. "He's going to be too tired to chew anything tough."
+
+They loaded the cart with the essentials of the Avery diet:
+
+- Two loaves of soft white bread.
+
+- A jar of smooth peanut butter (no crunchy; texture risk).
+
+- Grape jelly.
+
+- Three boxes of "Honey Oat Rings" (his safe cereal).
+
+- Two gallons of whole milk.
+
+- A package of mild cheddar cheese slices.
+
+- A bag of frozen chicken tenders (easy to heat in the kitchenette oven).
+
+Then, Jessica stopped in the beverage aisle. She reached for the most critical item on the shelf.
+
+"Comfort fuel," Jessica said, dropping a canister of White Hot Chocolate mix into the cart. "The second he walks in that door, we get a mug in his hand."
+
+They paid and hauled the heavy bags back to the hotel, ignoring the misting rain. They rode the elevator up to the fourth floor and began stocking the kitchenette.
+
+They filled the fridge. They lined up the cereal boxes. They put the white hot chocolate on the counter next to the kettle.
+
+When they were done, the room didn't look like a generic hotel suite anymore. It looked like a forward operating base.
+
+"Ready," Jessica said, looking at the stocked shelves. "Now we just need the refugee."
+
+## Wednesday, May 5, 2004 — 19:00 PM (PST) The Pathfinder Terminal (Recon)
+
+"One last thing," Jessica said after the groceries were put away. "We need eyes on the ground."
+
+They walked across the wet street to the bus station.
+
+Up close, the terminal was grim. It smelled of diesel fumes, wet wool, and floor wax. The lighting was a harsh, buzzing fluorescent yellow.
+
+"It's loud," Paige noted, wincing at the echo of a loudspeaker announcement. "He's going to hate this."
+
+They walked to the arrival gates. Jessica mapped it out.
+
+"Okay," she pointed. "Buses from the east unload at Gates 1, 2, or 3. They come in through that tunnel there. We can stand right here by the glass partition. We'll see him the second he steps off."
+
+"Gate 3," Paige whispered, touching the cold glass. "We'll be right here."
+
+They stood there for a long moment, visualizing the bus that was currently hundreds of miles away, carrying their broken brother toward them.
+
+"Friday," Jessica said. "We hold the line until Friday."
+
+## Thursday, May 6, 2004 — 10:00 AM (PST) The Cascade Suites, Room 412
+
+Thursday was the hardest day. The travel adrenaline had worn off, leaving only the waiting.
+
+Paige sat on the King bed, surrounded by pamphlets she had grabbed from the hotel lobby rack.
+
+"Jess," Paige said, looking at a brochure for the **Seattle Sky-Spire**. "I've been thinking."
+
+"About?" Jessica was at the table, re-checking the Pathfinder schedule for the tenth time.
+
+"When he gets here... he's going to be a wreck," Paige said. "If we just throw him on a plane immediately and fly back to Virginia, that's another six hours of travel trauma on top of the bus ride. He might snap."
+
+"So?"
+
+"So, we stay," Paige said. "Just for a few days. We turn this into a trip. We overwrite the bad data with good data."
+
+She held up a brochure for the **Bayfront Aquarium**.
+
+"Look. Quiet. Blue lights. Fish. He loves aquariums. It's sensory soothing."
+
+She held up another one for the **Great Wheel**.
+
+"Smooth rotation. A view of the city from above—like Wind Rock, but without the hike. He likes elevation."
+
+Jessica looked at the brochures. She thought about Freddie's love for *Stellar Voyage* and systems.
+
+"We treat him like a tourist," Jessica mused. "Not a victim. We show him the city. We show him that the world is big and cool, not just a scary bus ride."
+
+"Exactly," Paige said. "We act like this was the plan all along. 'Hey, you made it to Seattle! Let's go see the fish.'"
+
+Jessica smiled. It was the first time she had smiled in two days.
+
+"Operation: Decompression," Jessica said. "Approved. Map out the itinerary. Low sensory impact only."
+
+## Thursday, May 6, 2004 — 23:00 PM (PST) The Cascade Suites, Room 412
+
+The room was typical for an extended stay—beige walls, generic art, a kitchenette.
+
+But it had the asset Jessica required: A large window facing Stewart Street.
+
+She pulled the curtains back.
+
+Directly across the street, she could see the arrival bays of the bus station. She could see the passengers getting off, dragging their luggage, hugging their families.
+
+"Visual confirmed," Jessica said. "We have a clear line of sight on Bay 1 through 4."
+
+She set up a chair by the window. She placed a notebook and a pen on the sill.
+
+"We take shifts," Jessica ordered. "Two hours on, two hours off. The bus is scheduled to arrive tomorrow at 18:00, but schedules change. We do not miss the arrival."
+
+Paige was sitting on the edge of the King bed. She placed the orange pill bottle on the nightstand.
+
+"Jess," Paige said softly. "What if he doesn't want to come back?"
+
+Jessica turned from the window. Her face was hard, shadowed by the streetlights.
+
+"He left a note saying he wanted to be free," Paige whispered. "What if... what if we drag him back and he hates us for it?"
+
+"Did you feel him in the bathroom?" Jessica asked. "Did you feel him screaming?"
+
+Paige nodded, tears welling up. "Yes."
+
+"Then he isn't free," Jessica stated. "He's a hostage. And we don't negotiate for hostages. We extract them."
+
+She turned back to the window.
+
+"Get some sleep, Lieutenant. I'll take the first watch."
+
+Paige curled up on the bed, fully clothed. She clutched a pillow to her chest—the same travel pillow Jessica had packed for Freddie.
+
+Across the street, a bus pulled in. Jessica leaned forward, scanning the passengers.
+
+It wasn't him.
+
+She sat back. She waited.
+
+The rain fell on Seattle, washing over the hotel, the bus station, and the miles of highway where a broken brother was counting the seconds until he could come home.
+
+## Friday, May 7, 2004 — 14:10 PM (PST) The Cascade Suites, Room 412, Seattle
+
+The rain had picked up again, drumming a steady, nervous rhythm against the glass of the hotel window.
+
+Jessica sat in the armchair, her laptop open, though she wasn't really looking at the screen. She was staring at the clock on the wall, tracking the minutes like radar blips.
+
+Paige was sitting on the edge of the King bed. She was holding the orange pill bottle in her hands, turning it over and over. Click-rattle. Click-rattle.
+
+She wasn't just fidgeting. She was calculating.
+
+Her mind was three hundred miles away in Pasco, Washington. She wasn't seeing a vision; she was running a physics simulation based on hard data.
+
+- Variable A: Freddie has been on a vibrating bus for seventy-two hours.
+
+- Variable B: He has had zero doses of Baclofen.
+
+- Result: His spasticity is critical. His legs are locked. He is dead weight.
+
+"14:15," Paige whispered, staring at the bottle. "Pasco. Restroom stop."
+
+She closed her eyes. She built the scene in her head with terrifying clarity. She visualized the hard tile of a bus station bathroom. She visualized Vanessa—impatient, aggressive, needing to be in control.
+
+The simulation ran: Vanessa tells him to move. Freddie, overwhelmed and stiff, engages the "Emergency Brake." He drops to the floor. He curls up. With me.
+
+Paige’s grip on the bottle tightened. Vanessa doesn't know the protocol, Paige thought. She doesn't know how to wait him out. She’ll get angry.
+
+Suddenly, Paige gasped.
+
+It was a sharp, sucking sound, involuntary and violent. She dropped the pill bottle. It hit the carpet with a muffled thud. Her hand flew to her left cheek, covering it instantly, her eyes snapping open in shock.
+
+"Paige?" Jessica was out of the chair in a second. "What is it?"
+
+Paige wasn't bleeding, but she was trembling. She wasn't feeling magic; she was feeling the inevitable conclusion of the logic chain. She knew Vanessa’s temper. She knew Freddie’s silence.
+
+She hit him, Paige realized. The thought was so loud, so certain, that she flinched from the phantom impact.
+
+"She hit him," Paige choked out, rubbing her cheek furiously. "He wouldn't answer her... and she hit him. In the face."
+
+Jessica froze. She didn't ask how Paige knew. She knew Paige’s accuracy rating regarding Freddie was 100%.
+
+"And now..." Paige’s breathing hitched. Her mind raced forward. If he's on the floor... and the bus is leaving... she has to move him. She isn't strong enough to lift him.
+
+Paige’s body jerked forward on the mattress. She gasped again, a wet, ragged sound of distress. She grabbed her left shoulder, her fingers digging into the muscle, then arched her back, her hand flying to her lower spine.
+
+In her mind, she saw the physics of it. She saw Vanessa grabbing his hoodie. She saw the friction of denim against industrial tile. She saw the fragile skin on his lower back—already stressed from the bus ride—tearing under the drag force.
+
+"His back," Paige whispered, tears spilling over her lashes. "She’s dragging him, Jess."
+
+She looked up at Jessica, her face pale with the visceral horror of the math.
+
+"He can't walk. His legs are locked. So she’s dragging him across the floor. I can feel it... the skin... it’s ripping."
+
+She sobbed, curling in on herself to protect the wound that she knew, with absolute certainty, was bleeding three hundred miles away.
+
+"She's hurting him because she has to get him on that bus. She’s forcing him."
+
+Jessica stared out the window at the empty bus bay across the street. She didn't question the intel. She processed it as fact. The abuser was escalating. The hostage was injured.
+
+Her jaw set so hard a muscle feathered in her cheek.
+
+"She's bringing him," Jessica said, her voice lethal. "She isn't leaving him there. She needs him as a trophy. She’s dragging him onto that bus."
+
+"He's terrified," Paige wept, rocking back and forth, holding her arm where she imagined Vanessa’s grip digging in. "He's just doing what she says because she hurt him."
+
+"Good," Jessica said, though her eyes were wet with fury. "Let her bring him. If she drags him onto that bus... she delivers him to us."
+
+She walked over to the bed and sat next to Paige. She wrapped her arm around her sister’s shoulders, pulling her into a tight, grounding squeeze.
+
+"Four hours," Jessica promised, staring at the terminal like a sniper waiting for a target. "That bus arrives in four hours. And when it does... we extract him. Immediately."
+

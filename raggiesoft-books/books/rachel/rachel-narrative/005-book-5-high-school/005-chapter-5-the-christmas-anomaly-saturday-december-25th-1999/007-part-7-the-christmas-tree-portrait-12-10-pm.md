@@ -1,0 +1,50 @@
+# Part 7: The Christmas Tree Portrait – 12:10 PM
+
+"Okay, before you leave, we need a picture," Ashley announced, suddenly stepping into the center of the room. She was holding a bright yellow disposable camera, taking absolute directorial command of the living room.
+
+Ashley pointed toward the front-wall brick fireplace. "Michael, Bonnie. Stand right there, between the hearth and the tree."
+
+The panic instantly flared back up. Posing for neurotypical photographs was an agonizing exercise in forced mimicry and masking. I never knew what to do with my hands, my posture always felt incredibly rigid, and forcing a smile usually looked like a grimace.
+
+I shuffled over to the Christmas tree, my feet sinking into the dark blue polyester carpet. Bonnie stepped up right beside me. She looked just as nervous as I did, her hands fidgeting slightly with the hem of her gray sweatshirt.
+
+"Okay, Michael, listen to my voice," Ashley instructed, stepping back and raising the yellow camera to her eye. "Step one: turn your body slightly towards her."
+
+I mechanically shifted my sneakers on the carpet.
+
+"Step two: put your arm around her waist," Ashley continued smoothly, verbally guiding my processor through the unwritten expectations of the standard-hardware dating world. "Don't lock your elbow. Just rest it there."
+
+I swallowed hard. I reached out, stiffly wrapping my right arm around Bonnie's waist. My posture was completely rigid, my shoulders locked in tension as I stared awkwardly at the plastic lens of the disposable camera. I felt incredibly stiff, the high-tone spasticity from my Cerebral Palsy fighting the required fluidity of the pose.
+
+"Step three: lean in," Ashley coached.
+
+Bonnie didn't pull away. Despite her own visible nerves, she naturally leaned her weight into my side, her shoulder pressing warmly against my chest. She rested her hand lightly on my back, looking up at the camera with a soft, genuine smile, her cheeks still dusted with a pretty pink blush.
+
+"Perfect," Ashley grinned from across the room. "On three. One... two... three."
+
+*Click-Fwump.*
+
+The blinding white flash of the disposable camera exploded in the dim living room, searing purple spots into my vision for a fraction of a second.
+
+"Got it," Ashley declared, winding the plastic gear on the camera with a loud, ratcheting sound.
+
+"I really have to go," Bonnie said regretfully, stepping back from the tree. She turned to address the rest of the room. "Bye, Jessica! Bye, Rachel! Thank you so much for letting me crash your Christmas morning!"
+
+"Bye, Bonnie! Merry Christmas!" Jessica called out from her manual wheelchair parked near the blue recliner.
+
+Rachel gave a tiny, silent wave from her spot on the floor.
+
+Ashley stepped up and gave Bonnie another quick, fiercely loyal hug. "See you later, Bonnie."
+
+I walked her to the front door. We didn't hug again—my processor was already overloaded by the sheer magnitude of the first one—but she offered a final, lingering smile before stepping out onto the concrete porch.
+
+"I'll see you before winter break is over?" Bonnie asked, her breath pluming in the cold air.
+
+"Yeah," I nodded, my vocal cords still tight. "I'll call you."
+
+Bonnie offered a sympathetic smile. Because she was enrolled in the Math and Science Academy magnet program, she attended Ocean Lakes High School, while Ashley, Jessica, and I were all anchored to our neighborhood school, Northwood High School.
+
+"I know Ocean Lakes feels far away," Bonnie said softly, her dark eyes reflecting the chill of the afternoon. "But we'll figure out the weekends. Merry Christmas, Michael."
+
+"Merry Christmas," I replied, watching her jog down the driveway to her parents' waiting car.
+

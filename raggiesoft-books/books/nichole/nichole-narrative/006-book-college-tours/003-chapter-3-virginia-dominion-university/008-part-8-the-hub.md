@@ -1,0 +1,110 @@
+# Part 8: The Hub
+
+## Location: Webb University Center Time: 2:45 PM
+
+"Okay, leaving the future, heading to the present!" Megan announced, leading them away from the Maglev construction site.
+
+They followed the wide concrete path toward the center of campus. To their right, the University Quad opened up—a massive green lawn anchored by a large, brutalist concrete fountain that was currently dry for cleaning.
+
+"Ramp is to the left!" Megan pointed.
+
+While the main stairs led up to the second floor, a long, gentle ramp hugged the left side of the building, leading directly into the ground floor entrance.
+
+"This is Webb University Center," Megan said as they rolled through the automatic doors. "Or just 'Webb.' This is the living room of the campus."
+
+## The Feeding Frenzy
+
+They entered directly into the main food court. Even in the summer, it was buzzing with activity—summer school students, staff, and construction workers grabbing lunch. The smell was an intoxicating mix of fryer grease, coffee, and baking bread.
+
+"We have all the major food groups here," Megan joked, gesturing to the line of fast-food counters.
+
+She pointed them out one by one, using their campus-specific names:
+
+- SubStation: A sandwich shop where a line of students was ordering footlongs.
+
+- Pizza Piazza: Serving personal pan pizzas that looked suspiciously familiar.
+
+- The Wok: A steam-table Chinese place piling orange chicken onto styrofoam plates.
+
+- Squeeze: A brightly colored stand blending fruit smoothies.
+
+"And if you head down that hallway," Megan pointed toward the south end, "we have a Chicken Coop Express for your waffle fry needs, and a Campus Grind coffee shop that serves all the fancy lattes."
+
+"And for those on a meal plan," Megan continued, pointing to a set of closed glass doors, "that is Cafe 1201. It’s the main all-you-can-eat cafeteria. It’s closed for the summer, but during the semester, it’s the place to load up on carbs."
+
+She lowered her voice slightly, acting like she was sharing a secret.
+
+"There’s also The Norfolk Room tucked away in the back. That’s where the professors eat. It’s got tablecloths. Don't go in there unless you’re invited by a Dean."
+
+## The Logistics Check
+
+As the tour group admired the food options, Nichole felt a familiar, sharp pressure in her lower abdomen. The combination of the heat, the water she’d chugged at the library, and the stress of the day had caught up with her.
+
+It wasn't just a "need to pee." It was a Code Orange. Her digestive system, always sensitive due to her muscle tone, was active.
+
+She tapped Patrick’s arm. Hard.
+
+He looked down. She gave him the signal—a specific, tight grimace and a tap on her hip bone.
+
+Bathroom. Now. Big one.
+
+Patrick nodded. He didn't panic. He just went into logistics mode.
+
+"Hey Megan," Patrick interrupted the spiel about meal points. "Quick question. Restrooms?"
+
+"Oh, sure!" Megan pointed to a large bank of restrooms near the pizza place. "Right there."
+
+Patrick looked at them. He saw the steady stream of guys walking into the Men's room and girls walking into the Women's room. Multi-stall. High traffic. Zero privacy.
+
+He couldn't take his eighteen-year-old sister into a busy Men's restroom, and he certainly couldn't walk into the Women's room to help her transfer.
+
+"I can't use those," Patrick said, keeping his voice low but firm. "Is there a single-stall somewhere? Or a private bathroom? I have to help her."
+
+Megan paused, her brow furrowing as she mentally scanned the building layout. Single-occupancy bathrooms weren't exactly a standard feature on the tour script.
+
+"Umm," Megan thought for a second. "Actually, yes. Back hallway, near the Norfolk Room. There are two small bathrooms. They’re marked Men and Women, but they’re single rooms with a lock on the door."
+
+"Perfect," Patrick said. "Catch up with you in ten."
+
+## The Field Expedient
+
+Patrick rolled Nichole briskly away from the tour group, past the closed doors of Cafe 1201, and down the quiet carpeted hallway designated for faculty dining.
+
+He found the doors. MEN and WOMEN.
+
+He tried the Men's door. Unlocked.
+
+He pushed the door open. It was a small, tiled room with a single toilet and a sink. It wasn't ADA-perfect—the grab bar was a little high—but it was private.
+
+"We're good," Patrick muttered, locking the door behind them.
+
+The next fifteen minutes were the unglamorous reality of their lives. Transfers in a tight space. Managing clothing. Dealing with bodily functions that didn't care about tour schedules. Patrick worked with the efficiency of a nurse and the tenderness of a brother, maintaining her dignity in a room that smelled faintly of industrial soap.
+
+"You good?" Patrick asked, washing his hands afterward.
+
+Nichole adjusted her shirt. She felt lighter. The cramping was gone.
+
+She tapped her armrest.
+
+BETTER.
+
+## The Tech Check
+
+They exited the restroom, rejoining the world.
+
+As they headed back toward the food court to find the group, they passed a glass-walled store: Lion Tech.
+
+It was filled with the latest 2003 gear: chunky Dell laptops, towers of blank CD-Rs, and heavy CRT monitors.
+
+"Look at that," Patrick slowed down, eyeing a display of Ethernet cables and wireless routers. "They have an on-campus hardware store. If my router dies during finals, I can just buy one here."
+
+It was another point for VDU. At Roosevelt, "technology" meant a Speak & Spell. Here, it meant buying a motherboard between classes.
+
+They spotted Megan and the group near the exit.
+
+"Ready?" Patrick asked.
+
+Nichole nodded. Bladder empty. Tech store spotted.
+
+READY.
+

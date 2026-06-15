@@ -1,0 +1,82 @@
+# Part 4: The Circuit Barn
+
+## Date: Saturday, July 16, 1994 Time: 9:05 AM Location: Circuit Barn, Newport Mall (Connell Highway)
+
+The 1988 Holt Workmaster pickup truck rumbled into the parking lot of the Newport Mall. It was a beast of a vehicle—faded navy blue paint, a bed lined with scratched plywood, and a suspension that felt every pebble on Connell Highway.
+
+Uncle Mark pulled into the accessible spot near the East Entrance. He didn't just park; he executed a sequence that Patrick and Nichole had watched with wide eyes the entire ride over. Mark pushed the third pedal on the floor (the clutch), grabbed the long, black stick rising from the floorboard, and shifted it into Neutral. The engine idle dropped to a low growl. Then he pulled the handbrake with a ratchet-like *crrr-click*.
+
+"Flight check complete," Mark announced, killing the engine.
+
+Patrick, sitting in the middle of the bench seat, looked at the gear shift. In their minivan at home, the gear shifter was a boring lever on the steering column. This was different. This was mechanical. "It's a manual transmission," Mark explained, seeing Patrick staring at the shift pattern printed on the knob. "You have to tell the truck when to think. Someday I'll teach you how to drive it."
+
+"Okay, extraction team," Mark said, opening his door. This wasn't a minivan with a ramp. This was a truck. Mark hopped out, walked around to the passenger side, and opened the door. Nichole was waiting. "Ready, Nik?" Nichole nodded. She wrapped her arms around Mark’s neck. Mark leaned in, scooped her up in one fluid motion, and lifted her out of the cab. He set her gently into her manual wheelchair, which he had already pulled from the truck bed.
+
+Patrick scrambled out from the middle seat, his feet hitting the hot asphalt. He clutched his piece of construction paper against his chest. It was 9:05 AM. The mall had just unlocked its doors. The air was already thick with humidity, but inside, the AC would be blasting.
+
+They rolled through the automatic sliding doors. The mall was waking up. The metal security gates were rolling up with a clatter. The smell of floor wax was sharp and fresh, mixing with the scent of baking pretzels from the food court.
+
+They passed Toy Universe, where an employee was just turning on the battery-operated ferret in the window. Patrick didn't look. He was on a mission. They stopped in front of a storefront with wood-paneled walls and a sign that buzzed with electric potential: CIRCUIT BARN. The windows were cluttered with Holt remote control trucks and police scanners.
+
+Mark held the door open. The bell didn't ding. It buzzed—a low, oscillating tone. "Custom 555 circuit," Patrick whispered, recognizing the sound from the night before. "Variable pitch."
+
+They entered. The air inside didn't smell like the rest of the mall. It smelled of ozone, warm plastic, and dust. It was the smell of things being made.
+
+Behind the high counter stood Mr. Rossi. He was a man in his fifties with wire-rimmed glasses and a tan vest filled with screwdrivers, alignment tools, and a plastic pocket protector stained with ink. He was just flipping the sign on the register to "OPEN."
+
+He looked up as the buzzer sounded. His eyes lit up when he saw Mark. "Mr. Reynolds," Rossi smiled. "9:06 AM. You don't waste daylight." "Not when we have a project on the bench, Frank," Mark grinned, leaning against the counter. "I'm here for C-cells and supervision. I brought the Virginia branch of the family." Mark gestured to the twins. "This is my niece, Nichole. And this is her brother, Patrick. He’s the foreman on this job."
+
+Mr. Rossi didn't do the "adult thing." He didn't coo at them or ask them how school was. He came out from behind the counter, wiped his hands on a rag, and looked directly at Patrick. "The Foreman, huh?" Rossi asked seriously. "What are we building today?"
+
+Patrick swallowed his nervousness. He placed the construction paper on the glass counter, right on top of a display for an Astro CB Radio. "A blinker," Patrick said, his voice small but steady. "For my sister's chair. So cars see her in the dark."
+
+Mr. Rossi adjusted his glasses. He leaned over the crayon drawing. He studied the wobbly lines and the heavy wax circles. He treated it with the same gravity he would give a schematic from the space program.
+
+"Standard astable multivibrator," Rossi nodded approvingly. "555 Timer chip. Good choice. Stable. Low power draw."
+
+He looked at Nichole. "And the client?" Rossi asked. "What does she spec for the output?"
+
+Nichole looked at the man. Most strangers ignored her. Rossi was asking for her input. She pointed to the red LED on a display scanner. Then she pointed to the strobe light on the shelf. *Bright. Red.*
+
+"High-intensity red," Rossi confirmed. "Safety first."
+
+He turned to the back of the store. The Parts Corral. It was a massive wall of floor-to-ceiling metal cabinets, painted in alternating stripes of industrial red and battleship gray. It looked like a library of electricity.
+
+Mr. Rossi walked over. He didn't check a computer. He didn't look up a SKU. He knew. He pulled a gray drawer open. *Shhh-CLACK.* "You need a 10k resistor to control the flash rate," Rossi said, plucking a tiny component from a perfectly organized bin. "Brown-Black-Orange. You know your color codes, son?"
+
+"Yes sir," Patrick said. "But... I thought I needed a potentiometer? To change the speed?"
+
+Rossi paused. He looked at Patrick. Then he looked at Mark. "He's sharp, Mark. You got a sharp one here." Rossi pulled another drawer. "You're right. 100k trim pot. Let's you dial it in."
+
+He moved down the line. "10 microfarad capacitor. Electrolytic," Rossi instructed, handing the small cylinder to Patrick. "Now, listen to me. This has polarity. See the stripe with the minus sign?"
+
+Patrick nodded, his eyes locked on the small black cylinder. "That's the negative leg."
+
+"Correct. If you hook this up backwards to a 9-volt battery, it doesn't just fail. It pops like a firecracker. And it smells terrible." Mr. Rossi paused for effect, peering over the rim of his glasses at Uncle Mark. "Ask your uncle how he knows that."
+
+Mark laughed, leaning back against a display of Astro walkie-talkies. "One time, Frank. That happened one time."
+
+"One time is all it takes," Rossi said, turning back to Patrick. "It was 1982. Your uncle was trying to build a high-fidelity power supply for his college dorm room. He wired the main filter capacitor backward. *POW.*" Rossi mimed a mushroom cloud with his hands. "It shot the aluminum casing right through the acoustic ceiling tile. Rained wet paper and chemicals all over his bed."
+
+"It smelled like burning tuna fish," Mark admitted, grinning at Nichole. "The RA thought I was cooking seafood on a hot plate. Evacuated the whole floor."
+
+"The smell lingers, Patrick," Rossi warned, his face dead serious again. "You don't want that smell in your sister's room. Check your connections twice."
+
+"I will," Patrick promised, looking at the capacitor with a newfound respect. It wasn't just a battery; it was a potential missile.
+
+Rossi handed over the capacitor. "And you'll need a heat sink for that transistor if you run it off a 9-volt. It gets hot."
+
+He didn't upsell. He didn't try to sell Patrick a toy. He ensured the project would *work*.
+
+Mark pulled out his wallet. "Put it on my account, Frank. And throw in a pack of fresh batteries for the AudioStar."
+
+Mr. Rossi rang it up on the chunky beige register. *Ka-chunk, ka-chunk.* He put the small components into a small brown paper bag. He folded the top over and handed it directly to Patrick. "You bring it back when it's done," Rossi commanded. "I want to see it work."
+
+Patrick took the bag. It smelled of metal and potential. "Yes sir," Patrick beamed.
+
+He looked at Nichole. She was smiling, her eyes wide. She had enjoyed the story about Uncle Mark blowing up his dorm room. They had the parts. They had the plan.
+
+Mark put a hand on Patrick’s shoulder. "Let's go, Engineer. We've got a Vulcan soldering iron to warm up. And I promise not to help with the capacitor."
+
+As they walked out into the mall, the buzzer sounded again. Patrick clutched the bag to his chest. For the first time, he didn't feel like a kid with a disability. He felt like a maker.
+

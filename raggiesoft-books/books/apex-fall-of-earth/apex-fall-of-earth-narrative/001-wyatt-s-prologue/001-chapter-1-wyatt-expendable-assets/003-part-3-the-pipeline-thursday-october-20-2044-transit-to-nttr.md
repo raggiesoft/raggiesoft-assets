@@ -1,0 +1,36 @@
+# Part 3: The Pipeline – Thursday, October 20, 2044 (Transit to NTTR)
+
+The FIPS hauler slammed into the docking cradle at the Las Vegas Interplanetary Spaceport with a bone-jarring thud that rattled the fillings in Wyatt’s teeth. The heavy pneumatic locks engaged, and the sub-light engines finally whined down into silence.
+
+Wyatt unbuckled his five-point harness and stood up in the cramped aisle. The first thing that hit him wasn't the desert heat bleeding through the hull—it was Earth’s gravity. The unyielding pull of 1G instantly dragged at his bones, making his heavy boots feel like they were cast in lead. After months suspended in the low-gravity environments of off-world oceanic rigs, the sheer density of the planet felt physically oppressive.
+
+He slung his cheap canvas duffel bag over his shoulder and joined the sluggish, exhausted march out of the airlock.
+
+There was no grand welcoming committee waiting in the terminal. As Wyatt stepped into the concourse, the environment shifted instantly from cheap interstellar freight to cold, hyper-militarized efficiency. This was an Apex-controlled secure terminal. The walls were stark, poured concrete illuminated by harsh, buzzing fluorescent lights. Everywhere he looked, the aggressive black and hazard-yellow branding of Apex Defense Solutions dominated the sightlines.
+
+He followed the scuffed yellow line painted on the floor, merging with hundreds of other drab-clad contractors as they funneled toward the Department of Defense security checkpoint. It was the only shared bottleneck in the entire transit system, a rigid wall of ballistic glass and armed military personnel.
+
+The DoD officers didn't care about corporate rivalries, and they didn't care about the contractors' names. They only cared about the clearance.
+
+Wyatt stepped up to the line and held up his badge. The scanner’s red laser swept over the gray band and the blocky *C0-BASIC* text. The machine gave a muted chirp and flashed green. The officer didn't look up, simply waving a dismissive hand to send him through the heavy metal turnstiles.
+
+On the other side of the glass, the climate-controlled air of the terminal vanished, replaced by the blistering, suffocating pre-dawn heat of the Nevada tarmac where the gray-and-red livery of a waiting atmospheric shuttle was waiting.
+
+It belonged to Sierra Pacific Aviation. A contractor-only transport line, entirely segregated from the public.
+
+Apex supervisors—wearing black tactical gear and vivid red armbands—were already stationed at the base of the boarding ramp. They weren't welcoming the new hires; they were herding them.
+
+"Move it!" a supervisor barked, his voice cracking through a handheld megaphone. "Form a single line! Do not deviate from the perimeter markers! Find a seat and strap in! You are on Apex time now!"
+
+Wyatt didn't blink. He had dealt with foremen who screamed louder and hit harder. He just lowered his head against the blinding spotlights and marched up the ramp.
+
+The interior of the Sierra Pacific shuttle was no better than the FIPS hauler. It was utilitarian, hot, and aggressively cramped. Wyatt found an empty seat near the back, shoving his canvas bag beneath his boots. As the rest of the S.H.O.P. Marine recruits piled in—some of them looking around with wide, nervous eyes—Wyatt simply stared out the scratched plexiglass window.
+
+The shuttle’s atmospheric thrusters ignited with a deafening roar, pressing him back into the rigid seat as the craft lifted off the tarmac. As they banked away from the sprawling grid of Las Vegas, the landscape below rapidly gave way to the endless, darkened expanse of the Nevada desert.
+
+They were heading straight for the Nevada Test and Training Range.
+
+Wyatt crossed his thick, scarred arms over his chest and closed his eyes as the cabin temperature steadily climbed. Another black site. Another eighteen months of walking the line.
+
+He let the roar of the atmospheric engines completely drown out the nervous chatter of the rookies vibrating in the seats around him. He didn't know what kind of black-budget nightmare Apex was running out in the Nevada desert, and he didn't care. He didn't look out the window at the sprawling, darkened wasteland below. He just kept his head down, waiting for the drop, ready to start the clock on another hellhole.
+

@@ -1,0 +1,188 @@
+# Part 3: The War Room
+
+## Date: June 15, 2003 Time: 2:00 PM Location: The Kitchen Table
+
+By the afternoon, the silence of trauma had been replaced by the rustle of brochures.
+
+Ellen Bennett sat at the head of the table. She wasn't just a mother today; she was a campaign manager. Spread out before her was a map of the East Coast and a stack of glossy college prospectuses.
+
+"Okay," Ellen said, clicking a pen. "We are not letting yesterday define the future. We are moving forward. Aggressively."
+
+She pulled out a fresh legal pad.
+
+"We have six targets," Ellen announced. "We are looking for accessibility, technology, and—most importantly—respect."
+
+She held up the first two brochures. They were flashy, printed on high-gloss cardstock.
+
+## 1. TechStream Institute (Norfolk Campus) 
+
+"This one is local," Ellen said. "They advertise heavily on TV. 'Accelerated Degrees for the Digital Age.' They claim to have a cutting-edge media program." "And it's a flat building," Patrick noted, looking at the photo. "No stairs." "We see them tomorrow," Ellen decided, writing *MONDAY - 9:00 AM* on the pad.
+
+## 2. Atlantic Coast Polytechnic (Virginia Beach) 
+
+"Also local," Tom chimed in. "I know a few guys at the firm who took night classes there. It's strictly business and IT. Very practical." "Do they have dorms?" Patrick asked. "No," Ellen said. "Commuter campus. It’s basically an office park. But it’s an option if we want to stay close."
+
+She set those aside and picked up two thicker, more traditional course catalogs.
+
+## 3. Virginia Dominion University (Norfolk)
+
+"The Big One," Ellen said, tapping the blue cover with the lion mascot. "VDU. It’s a real, Tier 1 research university right here in town." Patrick looked at the map of the campus. It was huge. Forty thousand students. Massive lecture halls. A sprawling web of concrete and brick. "It's a city," Patrick muttered. "Navigating that... it would be a combat mission every day." "But it has the resources," Tom argued. "Disability Services office, accessible shuttles, real labs. If you want a serious engineering degree, this is the heavyweight."
+
+## 4. Community College of Hampton Roads (CCHR) 
+
+"The Safety Net," Ellen said, placing the modest pamphlet on the table. "It's affordable. It's close. You could ease into it. Take two classes at a time, see how the stamina holds up."
+
+Nichole looked at the CCHR brochure. It showed smiling students walking under the pine trees at the Virginia Beach campus. It looked nice. It looked... safe.
+
+But she knew what everyone called it.
+
+*"Northwood Country Club."*
+
+The joke was that CCHR wasn't a college; it was just Grade 13 for Northwood High. If they went there, they would see the same people they had just graduated with. The same cliques. The same bullies. The only difference was that now they could smoke in the parking lot.
+
+It meant living in her childhood bedroom for another two years. It meant running into the people who had stepped on her in the gym at the student union.
+
+It wasn't a new chapter. It was a rerun.
+
+She looked at Patrick. He made a face—a slight grimace that said, *Please don't make me go to 13th Grade.*
+
+Ellen pushed those brochures aside and pulled out the "Heavy Hitters"—the specialized schools that required a road trip.
+
+## 5. Roosevelt Rehabilitation Center (Fishersville, VA)
+
+"This is the wild card," Ellen said, sliding the tri-fold brochure across the table.
+
+The cover didn't look like a college. It looked like a hospital newsletter. It showed a group of people in wheelchairs playing basketball in a gym that looked vaguely institutional. The headline read: *Commonwealth of Virginia: Roosevelt Rehabilitation Center.*
+
+"It's not a university," Patrick noted immediately, picking it up. "It's a state agency. Vocational Rehab."
+
+"It's a trade school," Tom corrected gently. "But a specialized one."
+
+Nichole felt a prickle of resistance. "Vocational Rehab" usually meant assembly line work or greeting customers at ValuMart. It felt like a step backward from "Valedictorian."
+
+But then Patrick flipped the brochure to the Business and Information Technology section.
+
+His eyes widened.
+
+"Wait a minute," Patrick murmured. "Look at this track. Web Applications Developer."
+
+He read the course list aloud. *"Advanced HTML & CSS. SQL Database Management. Client-Side Scripting. E-Commerce Architecture."*
+
+He looked up at Nichole. "Nikki, this isn't basket weaving. This is the exact stack we want to learn. This is backend dev."
+
+Nichole leaned in. She looked at the curriculum. It was intense. It was specific. It was exactly what they needed to build Bennett Dynamics. Unlike the generic "Computer Science" at the community college, this was job training for the internet age.
+
+"Okay," Nichole tapped her armrest. *Good code.*
+
+"But where do we live?" Patrick asked, flipping to the housing insert.
+
+He pulled out a separate sheet for Rothrock Hall.
+
+The photos showed wide, linoleum-floored rooms that looked more like hospital suites than dorms. There were grab bars everywhere. There were roll-in showers. There were nurses stations.
+
+"It says 'Medically Supported Housing,'" Patrick read. "For students with complex physical needs."
+
+He looked at the photo of a double room. It showed two twin-sized hospital beds pushed against opposite walls, separated by a beige privacy curtain on a ceiling track.
+
+Patrick frowned. He tapped the gap between the beds.
+
+"That spacing is wrong," he muttered, his mind already working the problem. "I can't reach you if I'm six feet away on the other side of a curtain."
+
+He looked closer at the photo.
+
+"But they're on wheels," Patrick noted, pointing to the locking casters on the bed frames. "And they're standard medical frames."
+
+He looked at Ellen, his plan forming in real-time.
+
+"This could work. If I tell them I'm her 24/7 care attendant, we get assigned one of these doubles. But we aren't keeping them like that. We push the two beds together in the middle of the room. I’ll bring some heavy-duty zip ties to lock the frames together so they don't drift apart. We bring our own King-sized sheets to span the gap."
+
+It made perfect sense to him. If the facility was designed for severe disabilities, surely they understood that spasticity management was a contact sport. He needed to be close enough to feel her tremors start, close enough to throw a leg over hers to anchor her down without getting out of bed.
+
+"It seems... logical," Ellen agreed, looking at the '24-Hour Nursing' bullet point. "If they handle spinal cord injuries, they won't be scared of your routine. And if the furniture is movable, you can configure it how you need."
+
+Nichole looked at the photo of Rothrock Hall. It was sterile. It was ugly. But it was *safe*. And the classes were exactly what she wanted.
+
+She imagined sitting in that double room—beds zipped together into a makeshift fortress—writing code on their laptops while the nurses patrolled the hall. It wasn't the Ivy League, but it was a functional launchpad.
+
+She reached for her VocaLink.
+
+*THE. CODE. IS. GOOD.* *WE. CAN. HACK. THE. ROOM.*
+
+"Add it to the list," Patrick said, placing the brochure on top of the 'Maybe' pile. "If Putney is too expensive, this is the backup. We learn to code, we start the business, we get out."
+
+Ellen picked up the final brochure. It was thick, printed on expensive paper, featuring a photo of a brick library nestled in the Green Mountains.
+
+## 6. Putney College (Vermont)
+
+"The Holy Grail," Patrick whispered, picking up the heavy, matte-finish brochure.
+
+Putney wasn't just a college; it was a legend in the disability community. It was the only accredited college in the country designed from the ground up exclusively for students with learning differences and physical disabilities.
+
+The cover didn't show a football team or a frat party. It showed a student in a power chair leading a seminar discussion. It showed a campus nestled in the lush, green mountains of Vermont, where every single path was paved and graded.
+
+"Listen to this," Patrick read aloud. *"At Putney, we don't 'accommodate' the student. We built the world for them. Universal Design is our baseline."*
+
+Nichole leaned over the armrest to look at the photos.
+
+- Automatic doors on every building.
+
+- Classrooms with tiered, accessible seating.
+
+- A "Neurodiversity Center" open 24/7.
+
+It looked like a paradise. After the "High School with Ashtrays" vibe of the community college and the sterile office park of Atlantic Coast, this looked like a place where she could actually breathe.
+
+But it was the page about Residential Life that made them stop.
+
+*"Living Support,"* Patrick read. *"Our residential advisors are trained to support complex medical needs. We offer single rooms, suites, and customized housing plans to ensure every student can sleep safely."*
+
+Patrick and Nichole exchanged a look. A long, silent, loaded look.
+
+For every other school, the "Sleeping Arrangement" was the dealbreaker. If they told a standard university housing director that Patrick needed to sleep in the same bed as his twin sister to perform deep-pressure therapy during a 3:00 AM spasticity crisis, they would be met with horror. They would be cited for fire codes. They might even get a visit from Adult Protective Services.
+
+But Putney?
+
+Patrick tapped the brochure. "They get it," he whispered. "If I tell VDU I need to manage your spasms at night, they'll call it 'inappropriate.' But these guys? They'll probably just ask what firmness mattress we need."
+
+Nichole felt a surge of hope so strong it made her chest ache. A place where they didn't have to explain. A place where "The Bennett Machine" wasn't seen as weird, but as a valid, supported adaptive strategy.
+
+She looked at the winding paths in the photos. She imagined rolling down them, surrounded by people who wouldn't step on her, people who wouldn't stare.
+
+She reached for her VocaLink.
+
+*THE. ANSWER.*
+
+"It's a thirteen-hour drive," Ellen reminded them, looking at the map. "And the tuition is... significant. But if they can actually support the two of you living together?"
+
+"We have to go," Patrick said. He wasn't whispering anymore. He looked at the brochure like it was a map to the Promised Land. "We have to see it."
+
+Tom nodded, sensing the shift in the room. The cynicism of the morning was gone.
+
+"Okay," Tom said. "I'll call for a tour. We head north on Wednesday."
+
+Patrick looked at Nichole. He grinned—a real, genuine grin that reached his eyes for the first time since the gym floor.
+
+"Pack your winter coat, Nikki," Patrick said. "We're going to Vermont."
+
+Nichole looked at the six options spread out on the table like a buffet of potential futures.
+
+- The Strip Mall (TechStream).
+
+- The Office Park (Atlantic Coast).
+
+- The Giant (VDU).
+
+- The Safety Net (CCHR).
+
+- The Rehab Center (Roosevelt).
+
+- The Sanctuary (Putney).
+
+She reached for her VocaLink. The screen glowed in the afternoon light.
+
+*WE. NEED. A. HOME.*
+
+"We'll find one," Patrick promised, tightening the newly repaired brake on her chair. "We start looking tomorrow."
+
+
+

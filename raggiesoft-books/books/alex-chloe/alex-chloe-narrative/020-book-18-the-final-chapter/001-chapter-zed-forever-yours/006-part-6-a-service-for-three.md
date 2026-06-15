@@ -1,0 +1,94 @@
+# Part 6: A Service for Three
+
+The large, sunlit multipurpose room of *Le Centre de Découverte et de Soin des Cantons-de-l’Est* was filled to capacity. Through the large windows, the snow-covered shores of Lake Memphremagog sparkled, a peaceful, natural backdrop to the gathering.
+
+At the front of the room, on a simple table draped in velvet, sat three elegant urns, side-by-side. The display was a perfect, silent testament to their unique and beautiful life together. On the far left, beside Chloé's urn, rested her beloved Montréal Voyageurs toque. In the middle, between Chloé's urn and Alex's, was the red and white Canada "beanie" he had won in their legendary 2010 bet. On the other side, between Alex's urn and Megan's, was the matching Canada "beanie" she had also been forced to wear. And finally, on the far right, beside Megan's urn, sat her own well-worn, black Boston Brawlers beanie.
+
+The memorial service was, like their lives, a bilingual and deeply personal affair. Their found family and their legacy was there: Lily, now the esteemed director of the Western Center, sat with her half-brother, Ethan. And their birth family, the Leclercs and the Carters, filled the front pews.
+
+Their cousin Mathieu, his own hair now grey, stood and walked to the podium. He looked out at the crowd, his eyes glistening.
+
+"My cousin Chloé brought this quiet American boy into our lives when they were just teenagers," he began in French, "and he became my brother. And with him," he continued, his gaze falling lovingly on Megan's urn, "came his own guardian angel, his cousin Megan, who became our sister. They learned our language, our culture... they became one of us."
+
+Later, it was Lily's turn. She stood, a woman whose quiet strength was a testament to the very sanctuary the three of them had built.
+
+"Alex, Chloé, and Megan showed me the meaning of healing," she said, her voice clear and steady. "They showed me that family is not just about biology, but about who shows up, who protects you, and who gives you a safe place to land. They built bridges of understanding, and the world is a better place because the three of them were in it."
+
+She paused, then looked at the three urns and the collection of hats, a small, fond smile touching her lips. "And they taught me about the importance of a good, friendly argument."
+
+She shared the story of the 2011 championship game in Boston, of Chloé's defeat and her good-natured humiliation. She told them about the hats.
+
+"To Alex and Megan," she concluded, her voice full of a deep, loving affection, "that was, and always will be, a beanie."
+
+From his seat in the front row, Mathieu's voice, though thick with his own tears, called out in a playful, reflexive correction that was pure love. "*Pardon, ma chère, mais c'est une tuque!*" (Excuse me, my dear, but it's a toque!)
+
+A wave of soft, watery, and deeply understanding laughter rippled through the room.
+
+Lily smiled, her own eyes now overflowing. "And that," she said, her voice breaking with love, "that right there was their entire sixty-year life together in a nutshell."
+
+The service concluded. As the mourners filed out into the cold, bright Québec afternoon, the feeling was not one of crushing sadness, but of a story beautifully, completely told. They were Alex, Chloé, and Megan. A boy from Rhode Island and two girls, one from Vermont and one from Massachusetts. Two Americans and a Canadian. A husband, a wife, and a Best Woman. And, for all of eternity, two beanies and a toque.
+
+
+The world, if it could be called that, was a soft, warm, and gentle light. Alex stood, his body whole and free, his legs steady beneath him, his lungs filling with an easy, unlabored breath. He felt… light. But his heart was a hollow, aching void. He was alone.
+
+He had arrived and done as he was told, checking in with the lanky, long-limbed timekeeper who had greeted him with a kind, skeletal smile. The Timekeeper had consulted a large, cosmic-looking ledger.
+
+"Alexander James Miller," he'd said, his voice the gentle rustle of old pages. "Welcome. We've been expecting you." He'd made a few notes. "Alright, my boy. For you, we're setting the clock to a very good year. You'll be twenty-five for the duration. Strong legs, clear voice, no more chair. And your home will be waiting for you in the Orchard District. It's an exact duplicate of that first apartment you three loved so much in Lynnwood."
+
+Alex had found the small, perfect house, but the vibrant, chaotic joy of The Great Beyond was a meaningless blur to him. He didn't want a new home; he wanted his team.
+
+For three long, eternal days, he was inconsolable. The terror of his new loneliness was a sharp, familiar pain, a perfect, agonizing echo of that day at the airport in 2003. His only focus became the Arrivals platform and the patient Timekeeper who managed it. "Is she here yet? Is it time?" he would ask, a dozen times a day.
+
+And every single time, The Timekeeper, who knew with perfect certainty the exact minute Chloé was scheduled to arrive, would peer at his list. "Not yet, my boy," he would say. "Not yet. Be patient."
+
+On the third day, after another tearful, desperate inquiry, the Timekeeper's skeletal face broke into a wide, kind grin. "Ah," he said, tapping his list with a long, bony finger. "Right on schedule. Look lively, son. Your party is about to begin."
+
+And then, he saw her.
+
+She was walking onto the platform, her face full of a soft, patient wonder. And in her hands, held carefully, was an old, well-loved, red and white knit hat. He saw the moment she recognized him, her eyes widening with a joy so pure it was like the sun breaking through the clouds. It was Chloé. His Chloé. He took a step forward, a cry of pure relief on his lips.
+
+But The Timekeeper held up a gentle, bony hand, stopping him. "Patience, my boy. She has to check in first. It's the rule for everyone."
+
+Alex froze, his heart a frantic drum against his ribs. He had to wait. He watched, every second an agony, as Chloé was gently guided to the Timekeeper's desk. And then, just as she reached the desk, another figure appeared on the platform, walking with a familiar, confident stride, a black knit hat clutched in her hand.
+
+Megan.
+
+Alex let out a sound that was half-sob, half-laugh. They were both here. His entire world had arrived.
+
+He watched as Chloé was processed, The Timekeeper smiling and making notes in his grand ledger, setting her age to twenty-five. Then Megan stepped up, and the Timekeeper did the same for her, setting her age to a perfect, "cool older sister" twenty-eight. The process took only a minute, but for Alex, it was the longest, most excruciating minute of his entire existence. They were right there, whole and real and perfect, and he couldn't touch them.
+
+Finally, The Timekeeper made a final notation and nodded, gesturing for them both to go.
+
+They turned. They saw him. And they ran.
+
+He ran to them, and they met him in the middle, the three of them crashing together in a hug that was everything their earthly hugs had ever been, but a thousand times more. It was a hug of reunion, of eternity, of a love that had transcended every barrier.
+
+They held each other for a long, timeless moment, a perfect, three-person knot of joy and relief. When they finally pulled back, Chloé looked up at his face, her eyes shining, ready to finally hear his real voice.
+
+He looked down at her, his eyes twinkling with the same mischievous, loving light she had known for sixty years. He took a breath, and the voice that came out was warm, and real, and perfect.
+
+And the first words he ever spoke to her were:
+
+"See? I told you it was a beanie."
+
+Chloé stared at him, the sound of his voice, the perfect, playful stubbornness of his first words, washing over her in a wave of pure, overwhelming love. She let out a sound that was half-sob, half-laugh.
+
+"It is a TOQUE, you stubborn, uncivilized American man!" she cried, her own voice full of more joy than she had ever known.
+
+Just then, Megan, her own eyes shining with happy, triumphant tears, held up her own black hat. "Sorry, Chloé," she said, her own voice a perfect, loving echo of a lifelong allegiance. "I'm with him on this one. It's a beanie."
+
+
+He just grinned, the sound of his real, genuine laughter filling the space around them. He gently took the hat from Chloé's hands and placed it on his own head. "Nope," he said. "Beanie."
+
+Megan, standing right beside them with a triumphant, loving grin, chimed in, her voice a perfect, unwavering echo of a lifelong allegiance. "He's right, you know. It's a beanie."
+
+Alex then pulled them both into a massive, final hug. "And we have all of eternity to argue about it." And Chloé knew, with the absolute, joyous certainty of a woman who was happily and forever outvoted, that they would.
+
+
+He just grinned, the sound of his real, genuine laughter filling the space around them. He gently took the hat from Chloé's hands and placed it on his own head. "Nope," he said. "Beanie."
+
+Megan, standing right beside them with a triumphant, loving grin, chimed in, her voice a perfect, unwavering echo of a lifelong allegiance. "He's right, you know. It's a beanie."
+
+Alex then pulled them both into a massive, final hug. "And we have all of eternity to argue about it." And Chloé knew, with the absolute, joyous certainty of a woman who was happily and forever outvoted, that they would.
+
+But for the record, here in Canada, it was, and always will be, a toque.

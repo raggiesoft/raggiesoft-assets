@@ -1,0 +1,72 @@
+# Part 6: The 101% Secret – 1:30 PM
+
+The apartment was filled with the heavy, savory aroma of roasting turkey, creating a thick blanket of sensory comfort over the living room. Jessica was sitting at the dining table with a thick university textbook spread open, enjoying the profound luxury of a quiet afternoon.
+
+I walked into the living room and dropped onto the carpet next to Rachel. She was sitting cross-legged in front of the television, staring at the title screen of *Gorilla Kingdom* on the Super Nova 16. The game was an absolute masterpiece of pre-rendered, 16-bit platforming, and for a neurodivergent brain that craved completion and structure, it was the ultimate puzzle.
+
+"Co-op?" I asked, tapping the gray plastic of the second controller resting on the carpet.
+
+Rachel nodded eagerly. "Yes."
+
+Her voice was still soft, the friction of her vocal cords producing a raspy, whispered quality, but she was using it effortlessly. There was no hesitation or fear of being reprimanded for speaking too loudly.
+
+I picked up the controller and pressed start. We loaded into a new save file, entirely dedicated to achieving the elusive 101% completion rate. We fell into an immediate, synchronized rhythm. In cooperative mode, the tag-team mechanics were flawless. I usually played as Titan, the heavy, silverback gorilla who could crush larger enemies, while Rachel always played as Pip, the agile, red-hatted chimp who could jump higher and move faster.
+
+We crushed the first three worlds with ruthless efficiency. Rachel’s muscle memory was impeccable; she knew exactly how many frames she had to hit the jump button to clear the spike pits.
+
+Then, we hit world four. The industrial sector.
+
+The screen transitioned into the grimy, barrel-filled level known as Sludge Drum Alley.
+
+"Wait," I said, pausing the game. The cheerful, rhythmic jungle music froze.
+
+Rachel looked at me, tilting her head.
+
+"There's a rule for this level," I explained, leaning forward. "There is a secret in here that is so well hidden, almost nobody finds it. But if you mess up the sequence, or if you've already beaten Sludge Drum Alley, the level state saves. You *must* reach over and physically hit the reset button on the console to wipe the RAM and try again. So we have to do it perfectly on the first try."
+
+Rachel’s eyes widened. A permanent, missable secret was the ultimate high-stakes scenario. She gripped her controller tighter, giving me a sharp, determined nod.
+
+I unpaused the game. We navigated the first half of the level, dodging flaming oil drums until we found the weak patch of ground. We blasted through it, dropping down into the first bonus room.
+
+It was a standard slot-machine mini-game. Three spinning barrels.
+
+"Okay," I instructed. "You have to time this perfectly. You need to stop the slots so they show exactly one single banana on all three barrels. Nothing else."
+
+Rachel stared at the screen, her eyes tracking the blindingly fast rotation. *Click. Click. Click.*
+
+She nailed it flawlessly. A heavy, iron-banded wooden barrel materialized and dropped onto the floor of the cave.
+
+Rachel instinctively moved Pip toward the exit on the right side of the screen.
+
+"Stop," I said. "Look at the wall next to the exit."
+
+Rachel paused her character. There, mapped out in hovering, glowing bananas, was an arrow pointing directly at the solid rock wall.
+
+"None of the other bonus rooms have an arrow at the exit," I pointed out, revealing the subtle environmental hint the developers had hidden in the pixel art. "The game is telling you that the exit isn't the end."
+
+Rachel gasped softly. "A secret... inside a secret."
+
+"Exactly. Switch to Pip," I said.
+
+She tapped the select button, putting the agile chimp in the front.
+
+"Grab the barrel," I coached her. "Now, this is the trick. If you just throw it at the wall, it bounces off. You have to jump up *before* you hit the wall. As you come down from the peak of your jump, Pip will smash the barrel against the rock face."
+
+Rachel didn't hesitate. Her brain processed the spatial geometry and the physics engine of the game instantly. She ran Pip forward, scooped up the heavy wooden barrel, and launched her character into the air.
+
+At the exact apex of the jump, right as gravity began to pull the chimp back down, the barrel clipped the rocky wall.
+
+CRASH.
+
+The wood splintered and the rock shattered. The screen flashed white, and the classic, triumphant bonus room jingle played a second time as Pip was sucked into the hidden opening.
+
+We had successfully breached the double bonus room.
+
+Rachel dropped her controller into her lap, absolutely vibrating with excitement. She let out a loud, joyous hum and immediately bumped her shoulder hard against mine.
+
+"We got it!" she rasped, a massive, uncontainable smile taking over her face. "101 percent!"
+
+"101 percent," I confirmed, bumping her shoulder right back.
+
+From the dining table, Jessica looked over the top of her textbook, watching us celebrate the digital victory. She didn't tell us to quiet down. She didn't complain about the noise of the television. She just smiled, turned the page of her book, and let us enjoy the absolute, uninterrupted freedom of our sanctuary.
+

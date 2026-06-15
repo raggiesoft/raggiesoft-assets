@@ -1,0 +1,32 @@
+# Part 4: The Long Road to a Dream (January 2010)
+
+The year 2009 bled into 2010, and the Lynnwood Discovery and Care Center transformed from a shared dream into a shared obsession. Their small apartment became a dedicated command center for their future.
+
+On a cold, rainy Saturday in late January, just a couple of weeks before their planned winter trip to visit Chloé's family, the scene was one of quiet, intense focus. The living room was no longer just a living room; it was their headquarters.
+
+Chloé was at the dining table, which was completely covered in a neat, organized chaos of textbooks on non-profit law, binders filled with grant application templates, and a spreadsheet on her laptop detailing a meticulous five-year budget. She was deep in the unglamorous but essential work of building their dream on paper.
+
+Alex, at his own specialized computer desk, was in his element. On his large monitor was a 3D rendering of a lightweight, articulated brace for a German Shepherd with a degenerative hip condition—his latest project for the Evergreen Animal Shelter. The low hum of their 3D printer was a constant, productive backdrop.
+
+And Megan, at her own desk, was the bridge between their two worlds. She was meticulously editing Chloé's latest grant proposal, her professional technical writer's eye transforming the passionate prose into a polished, irrefutable business document. Her work at Quantum paid the bills, but this—being the project manager for their shared dream—was her life's work.
+
+Their lives had found a new rhythm. Every spare dollar from their paychecks went into a dedicated joint savings account simply labeled "LDCC." Friday nights were for balancing their projected budget. Sunday afternoons were for volunteering at the shelter. The dream was no longer a distant lighthouse; it was a structure they were building, one tedious grant proposal and one millimeter-perfect 3D model at a time.
+
+Chloé let out a long sigh, rubbing her tired eyes. "I think if I read the phrase 'fiduciary responsibility' one more time, my brain is going to melt," she said, stretching her arms over her head.
+
+Alex looked up from his design, a small, empathetic smile on his face. He typed a quick message on his AAC. WE NEED THIS VACATION.
+
+"You can say that again," Megan said, not even looking up from her screen, a real smile finally breaking through her focus. "A whole week of no grant proposals, no 3D printing, and absolutely no corporate jargon. I can't wait."
+
+Chloé got up and walked over to Alex, wrapping her arms around his shoulders from behind and leaning down to look at his screen. "How's the brace coming?"
+
+ALMOST THERE, he voiced. THE JOINT MECHANISM IS THE TRICKY PART. IT NEEDS TO BE STRONG BUT NOT RESTRICTIVE.
+
+"You'll figure it out. You always do," she said, kissing the top of his head. She looked around their apartment, at the organized piles of work, the humming printer, the shared purpose that filled every corner. "You know," she said softly, her gaze including Megan, "this trip to Stanstead is coming at the perfect time. We need a break. We need to just... be us for a week. See the family. Yell at a hockey game."
+
+Alex reached up and placed his hand over hers on his shoulder. YES. A BREAK. THEN WE COME BACK AND KEEP BUILDING.
+
+"Exactly," Chloé whispered, her own resolve hardening as she looked back at her mountain of paperwork. The trip wasn't an escape; it was a refueling stop on the long, difficult, but wonderful road they had chosen to travel, together.
+
+
+

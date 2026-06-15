@@ -1,0 +1,87 @@
+# Part 1: The Curb Trap
+
+Date: August 28, 1996 (Three days before 6th Grade)
+
+Time: 10:00 AM
+
+Location: Morrison Middle School (Main Entrance)
+
+The heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the asphalt of the school driveway shimmered in the haze.
+
+They had lived in The Highlands since the twins were in second grade. They knew these streets. They knew which houses gave out full-size candy bars on Halloween, and they knew the back field of this school better than their own backyard. For four years, they had come here after hours to let their dogs run off-leash in the open grass.
+
+But they had always experienced this route as pedestrians, stepping casually over curbs, or from the backseat of the minivan. They had never navigated it alone as commuters.
+
+Nikki sat in her Titan AeroMotion Lite—a bright purple manual frame with sparkly spoke guards that caught the sun. It was lighter than the loaner they had used in elementary school, but it still required assembly.
+
+They moved Nichole from the backseat. She settled into the purple chair, adjusting her glasses. She looked ready, wearing her new Mammoth denim shorts and a t-shirt that was slightly too big.
+
+She tapped her armrest twice. Let's go.
+
+"Okay," Ellen said, slamming the trunk. "You guys know the way. Straight shot down Morrison to the stop sign at Delaney. Cross the street, and you’re in the driveway. I'll meet you there with lemonade."
+
+"We got it, Mom," Patrick said, gripping the black rubber push handles. "It's literally three blocks. We could do this blindfolded."
+
+They reached the corner of the school property—the spot where the school driveway met Morrison Street. Patrick stopped.
+
+## The Trap
+
+The sidewalk simply ended. Ahead of them, painted on the black asphalt of the driveway, was a white crosswalk. But between the sidewalk and the crosswalk, there was a six-inch drop. A sheer concrete cliff.
+
+Patrick looked down. He looked across the driveway entrance. The sidewalk picked up again on the other side, but it was guarded by another six-inch curb.
+
+There was no ramp. None.
+
+"Are you kidding?" Patrick muttered. "We walk the dogs here every weekend. How have I never noticed there's no ramp?"
+
+"I guess we just... stepped down it," Patrick realized aloud. "But I can't get you down that. If I tip you, the anti-tippers will catch on the lip. If I just push, you dump out."
+
+He looked back the way they came. The only way down to street level was back where they started.
+
+"We have to go back," Patrick said. "To the security desk."
+
+They rolled past the security desk, now on the road surface. Ahead of them lay the school’s speed control: The Speed Humps.
+
+These weren't the gentle bumps of a shopping mall. These were tall mounds of asphalt designed to kill a sedan's suspension.
+
+Patrick approached the first one. He had to stop. He stepped on the tipping lever at the back of the chair, hauling the front casters up into the air. He balanced Nikki on her rear wheels—a precarious angle. "Hold on," he grunted.
+
+He pushed the rear wheels over the hump. Bump. The chair rattled. Nikki’s head bobbled against the headrest. He set the front wheels down.
+
+The Gauntlet. "We have to stay in the road," Patrick said. "The sidewalk is useless."
+
+They turned onto Morrison Street. Patrick kept the chair close to the curb. The gutter was filled with gravel and dead leaves. He had to steer slightly toward the center line to avoid the debris, which meant they were taking up a quarter of the lane.
+
+They rolled down the long straightaway of Morrison Street. The sun was beating down on Patrick’s neck. His shirt was sticking to his back.
+
+"This road is rougher than it looks from the car," Patrick hissed, feeling the vibration of the aggregate asphalt in his hands.
+
+Finally, they saw the red octagon ahead. The stop sign at Delaney Street.
+
+"Land ho," Patrick said.
+
+Directly across the intersection sat 1850 Delaney Street—their house. It was a modest, single-story structure with pale vinyl siding, sitting quiet in the sun. It looked tantalizingly close, but they still had to navigate the intersection.
+
+They rolled up to the stop sign. Patrick checked for traffic—left, right, left again. The coast was clear.
+
+"Go."
+
+They hurried across the intersection. Patrick hit the apron of their own driveway with a satisfying thump.
+
+Ellen was waiting on the front porch steps, a pitcher of lemonade next to her. She checked her watch as they rolled up the concrete slab.
+
+Patrick parked the chair at the bottom of the porch steps. He wiped sweat from his eyes. His bad leg was throbbing from the uneven asphalt of the road.
+
+Nikki looked furious. Her face was flushed red.
+
+"There's no ramp," Patrick said, pointing back down Morrison Street. "At the corner. We got stuck. We had to go all the way back to the front door, go down the driveway, and walk in the street the whole way."
+
+Ellen’s face went pale. "You walked in the street? On Morrison?"
+
+"We had to," Patrick said. "The sidewalk is a trap."
+
+Nikki slapped her armrest. STUPID, she would have typed if her machine was set up. Instead, she just glared back toward the school.
+
+Ellen looked down the street at the school, then at her kids. "I'm calling the city tomorrow."
+
+

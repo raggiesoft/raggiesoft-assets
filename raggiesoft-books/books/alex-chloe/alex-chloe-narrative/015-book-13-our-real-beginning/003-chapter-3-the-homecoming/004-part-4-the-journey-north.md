@@ -1,0 +1,33 @@
+# Part 4: The Journey North
+
+The morning of the flight to Canada was a masterclass in organized chaos. Two large shuttle vans ferried the entire "Team USA" contingent—the Millers, the Carters, and the "three musketeers"—to Norfolk International Airport. The journey from ORF to Montréal (YUL), with a smooth connection in Philadelphia (PHL), was long but filled with a happy, anticipatory energy.
+
+The real test came after they landed at Montréal-Trudeau International Airport and made their way to the Canada Border Services Agency (CBSA) inspection hall. They approached the primary inspection line as a large, sprawling family group.
+
+When their turn came, a professional, bilingual CBSA officer greeted them from his booth. "Good afternoon, welcome to Canada," he said in clear English.
+
+Chloé immediately stepped forward, a calm, happy confidence on her face. "*Bonjour, Monsieur,*" she said, her Québécois French flawless. "*Nous sommes citoyens canadiens et américains. Nous préférerions continuer en français, s'il vous plaît.*" (Hello, sir. We are Canadian and American citizens. We would prefer to continue in French, please.)
+
+The officer, as was Chloé’s right under Canadian law, switched seamlessly. "*Absolument, Madame. Vos passeports, s'il vous plaît.*" (Absolutely, Ma'am. Your passports, please.)
+
+The process was smooth and flawless. One by one, the family members presented their documents. When it was Alex's turn, the officer asked him the standard questions in French about the purpose and length of his stay. Alex, using his Echo Bridge Axon software, responded with perfect, fluent Québécois. The officer then turned to Megan.
+
+"Et vous, Mademoiselle?" (And you, Miss?)
+
+Megan, drawing on the years of immersion and Chloé's dedicated tutoring, answered with a confidence that surprised everyone but her two best friends. "*Je suis ici pour le mariage de mon cousin,*" she replied, her accent good, her grammar perfect. "*Je suis sa 'Best Woman'.*" (I am here for my cousin's wedding. I am his 'Best Woman'.)
+
+The CBSA officer's professional demeanor cracked for just a second, a small, impressed smile touching his lips as he stamped their passports. "*Bienvenue au Canada, et félicitations à vous tous,*" he said. (Welcome to Canada, and congratulations to you all.)
+
+After collecting their luggage and picking up their three pre-booked rental minivans, the American contingent began the final leg of their journey, a beautiful drive from the city into the rolling hills of the Eastern Townships.
+
+They arrived in Stanstead to a massive, joyous welcome at the Leclerc house. The entire Canadian side of the family was there, and the reunion was a loud, happy, bilingual chaos.
+
+As the evening wound down and a happy exhaustion settled over the travelers, the sleeping arrangements were made.
+
+"*Mes chéris,*" Aunt Geneviève said, pulling Alex, Chloé, and Megan aside. "Our house is your house. We would be honored if the three of you would stay here with us tonight."
+
+The rest of the family—the Millers and the Carters—headed off to the comfortable block of rooms that had been pre-booked at a charming inn in nearby North Hatley.
+
+In the quiet of the Leclerc house, the three of them found their familiar rhythm. The day had been a long, triumphant journey. They had crossed a border, navigated an airport, and officially brought their two worlds together. And now, on the eve of their real wedding, they were exactly where they were supposed to be: home.
+
+

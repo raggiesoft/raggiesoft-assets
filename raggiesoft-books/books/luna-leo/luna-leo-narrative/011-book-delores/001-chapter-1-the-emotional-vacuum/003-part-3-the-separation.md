@@ -1,0 +1,46 @@
+# Part 3: The Separation
+
+As students began to file out of the American Literature class, the reality of the next part of the day hit Leo with a jolt of raw panic. He looked at his schedule, then at Luna's. Her next class was just down the hall. His was a 90-minute College Algebra I class, across the street in the Andrews Building.
+
+For the first time since Olivia had left, he was going to be completely and truly alone.
+
+"You'll be okay," Luna said, her own heart aching for him as she gave him a fierce, desperate hug. "It's just for a little while. I'll meet you right outside after my class is over. Promise."
+
+He knew she was right, but the thought of navigating a new building, a new classroom, and a subject he was terrible at without his anchor felt like stepping off a cliff.
+
+Leo's solo journey across the street felt like crossing a continent. He found his classroom, a standard room with tables arranged in pairs. He parked his chair at an accessible workstation, feeling small and terribly isolated as he watched other students chatter and laugh.
+
+The class began, and within minutes, Leo was lost. The professor was moving at a rapid pace, scrawling equations on the whiteboard, the numbers and symbols a meaningless, overwhelming jumble. A cold, familiar dread settled in his stomach. He was going to fail this class.
+
+He was so lost in his own miserable, anxious thoughts that he didn't notice the young woman who slipped into the seat next to him until she spoke, her voice a soft, unexpected sound that cut through his fog.
+
+"Hey," she said, a kind, almost gentle smile on her face. "You look as lost as I felt last week. Don't worry, this professor moves fast, but once you get his rhythm, it's not so bad."
+
+He looked up, startled. It was a girl from his orientation group. She had a friendly, open face. He managed a small, hesitant smile.
+
+"I'm Delores, by the way," she said, her voice full of a disarming warmth. She watched him reach for his Quantum Communicator. "
+
+He nodded, relieved she wasn't making a big deal about his device, and typed a simple reply. "HELLO. YES. LEO."
+
+Throughout the lecture, she was a quiet, competent presence. She took meticulous notes, and once, when the professor erased a crucial step too quickly, she noticed Leo's flash of panic and discreetly slid her notebook over so he could see what he'd missed.
+
+When the class ended, Leo felt completely defeated. He started to pack his things, the weight of the impossible semester pressing down on him.
+
+"That was brutal, right?" Delores said, her tone full of genuine empathy.
+
+Leo looked at her, and the honesty of the moment, the shared experience of the difficult lecture, made him feel safe enough to be vulnerable. He typed on his Communicator, his message a simple, despairing admission.
+
+"I AM HORRIBLE AT MATH. I AM GOING TO FAIL THIS CLASS."
+
+Delores didn't laugh or dismiss his fear. She looked at him with a serious, thoughtful expression. "No, you're not," she said simply. She then offered a solution so casually, so kindly, that it felt like a lifeline. "I'm actually really good at this stuff. If you want, I could help you out. We could study together sometime. Be your tutor. No big deal."
+
+A wave of profound, almost dizzying relief washed over Leo. He stared at her, at this kind, smart, and pretty girl who was offering not just help, but partnership. In the vast, lonely ocean of his grief for Olivia, her simple, generous offer was a small, unexpected island.
+
+He managed a small, genuine smile in return, the first real one of the day. He typed back, his fingers moving with a new, hopeful energy.
+
+"REALLY? THAT WOULD BE... AMAZING. THANK YOU."
+
+"Of course," she said, her smile widening. "What are classmates for?"
+
+For the first time since he had said goodbye to his best friend, a fragile glimmer of hope was planted in the Olivia-sized hole in Leo's heart.
+

@@ -1,0 +1,52 @@
+# Part 3: The Quiet Harbor
+
+December 29, 2005 Narraganset Esplanade Station - Concourse Level 10:45 AM
+
+They emerged from the **Bull Run** tunnel back into the main station concourse. The walk had been long, but warm.
+
+The station felt different today. Usually, it was a cathedral of motion—thousands of feet, hundreds of announcements. Today, it was a library. The silence was heavy, amplified by the vast space.
+
+Leo rolled to the center of the atrium. He looked up at the digital status board.
+
+BTA SYSTEM STATUS: CODE WHITE (ACTIVE)
+
+**METRO:** Underground Only (Every 30 Min)
+
+**BUS:** SUSPENDED
+
+REGIONAL RAIL: SUSPENDED
+
+HARBOR FERRY: LIMITED SERVICE RESTORED (Navy Yard / Portside Only)
+
+"THE BOATS ARE RUNNING," Leo typed, surprised.
+
+"Water doesn't need plowing," Stella noted. "The wind died down. The captains are tough."
+
+They headed to **The Daily Grind**, the station’s anchor coffee shop. Usually, the line here wrapped around the corner. Today, there was no line. The barista, a young guy leaning on the counter reading a textbook, jumped when they walked in.
+
+"Whoa," he said. "Actual customers. I thought I was going to hallucinate from boredom."
+
+"Five hot chocolates," Stella ordered. "The real stuff. And do you have any pastries left from yesterday?"
+
+"I have everything," the barista said, gesturing to the full case. "Take whatever you want. If you don't eat it, it goes stale."
+
+They took their cups and a stack of cinnamon rolls to a table near the glass wall overlooking the lower platform.
+
+Below them, in **The Deep**, a **Red Line** train sat idling, waiting for its scheduled departure time. The operator was in the cab, eating a sandwich.
+
+"It's peaceful," Olivia said, wrapping her hands around the warm mug.
+
+"It's a pause button," Luna agreed. "The whole city just... stopped."
+
+Leo looked around the empty concourse. He saw the clean lines of the architecture, the logical signage, the elevators humming silently in their glass shafts. Even when it was empty—*especially* when it was empty—the system made sense.
+
+He thought about Virginia Beach, where a storm like this would have caused panic, power outages, and chaos. Here, the lights were on. The tunnels were warm. The coffee was hot.
+
+He tapped his Quantum Communicator.
+
+"THE MACHINE WORKS," he typed. "EVEN WHEN IT IS SLEEPING."
+
+"That's why we picked it," Stella said, breaking a cinnamon roll in half. "Reliability. Now eat up. We have to be back at the hotel before the plows clear the streets and the noise comes back."
+
+They sat there for a long time, sipping chocolate and watching the lonely Red Line train finally close its doors and slide into the dark tunnel, keeping the heartbeat of the city alive.
+

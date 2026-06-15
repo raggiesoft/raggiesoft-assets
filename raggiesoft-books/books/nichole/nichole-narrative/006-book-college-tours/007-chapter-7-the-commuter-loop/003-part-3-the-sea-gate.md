@@ -1,0 +1,60 @@
+# Part 3: The Sea Gate
+
+## Date: July 6, 2003 Time: 9:35 AM Location: Narragansett Bay, Aboard the Newport Flyer
+
+Neither Patrick nor Nichole had ever been on a ferry before.
+
+They bought their tickets at the Perrotti Park booth, handing over thirty-two heavy quarters. The ticket agent didn’t blink. He just printed two receipts and waved them toward the gangway.
+
+Boarding was effortless. A massive, hydraulic aluminum ramp bridged the gap between the concrete pier and the catamaran. It adjusted automatically with the tide, keeping the incline perfectly flat. Patrick pushed the Titan AeroMotion right onto the lower deck.
+
+"Welcome aboard the BTA Harbor Ferry," a deep, recorded voice announced over the intercom, cutting through the harbor wind. "Service to Narraganset Esplanade Station. Please remain seated or hold a handrail while the vessel is in motion."
+
+Patrick locked Nichole’s brakes into the designated wheelchair tie-down area near the large picture windows.
+
+With a low, powerful thrum of diesel engines, the *Newport Flyer* detached from the dock.
+
+It wasn't a slow, sightseeing cruise. This was a BTA commuter transit vehicle. As soon as the boat cleared the harbor breakwater, the captain opened the throttles. The twin hulls of the catamaran sliced through the open water of Narragansett Bay, kicking up a massive white wake.
+
+Nichole’s eyes were wide. The sensation was incredible. It wasn't the rattling, bone-jarring vibration of the transport van. It was a smooth, floating speed. She watched the massive span of the Newport Bridge glide past the windows, shrinking in the distance.
+
+For thirty minutes, the world was just blue water, salty wind, and the hum of the boat. It felt like flying.
+
+## Time: 10:05 AM Location: Approaching Braxton, Rhode Island
+
+"Look at that," Patrick whispered, pointing out the front windows.
+
+Emerging from the morning haze was the City of Braxton. It was enormous. High-rise office towers and historic brick spires dominated the skyline, rivaling Boston or Chicago.
+
+But as the ferry banked left, the true destination came into focus.
+
+Jutting out into the bay on a massive, flat peninsula was Braxton State University. It wasn’t a sequestered, walled-off academic bubble like Putney. It was a coastal metropolis of brick, glass, and steel.
+
+The edge of the campus met the water not with fences, but with the "Esplanade"—a stunning, extra-wide paved pedestrian promenade that hugged the seawall. It was lined with trees, benches, and students riding bicycles. There wasn't a single car in sight.
+
+"They built a car-free park right on the ocean," Patrick said, his engineering brain doing backflips. "Nikki, you could roll for miles out here."
+
+At the center of the Esplanade sat their destination: Narraganset Esplanade Station.
+
+It didn't look like a standard transit stop. It looked like a modern art museum. Soaring white tensile-fabric roofs mimicked the shape of sails, and the walls facing the ocean were made entirely of floor-to-ceiling glass, glowing in the morning sun.
+
+"Now arriving at... Narraganset Esplanade," the ferry intercom announced. "Transfer to Blue, Red, and Silver Metro lines, and Regional Rail service. Welcome to Braxton State University."
+
+The ferry slowed, maneuvering into a concrete slip built directly into the seawall. The hydraulic gangway deployed, locking onto the pier with a heavy, satisfying *clunk*.
+
+Patrick unlocked Nichole’s chair. He pushed her off the boat and onto the wide, sun-drenched concrete of the Esplanade.
+
+Nichole stopped her chair the moment the wheels hit the pavement. She took a deep breath of the salt air. The campus was alive. Students were drinking coffee on the seawall. A professor was reading a book on a bench. The roar of the city traffic was muted, replaced by the sound of seagulls and the lapping tide.
+
+She looked up at the massive glass station. Just inside the doors, she could see the BSU Welcome Center. Above that, through the glass ceiling, she could see the underside of the Sky Platform, where the heavy regional trains were waiting.
+
+It was perfect. It was a machine that worked.
+
+She looked at Patrick. A huge, unfiltered smile broke across her face. She hit the VocaLink.
+
+"EXPLORE. NOW."
+
+"Roger that," Patrick grinned, grabbing the push handles. "Let's go see what the Ocean State has to offer."
+
+They rolled through the automatic glass doors of the station, leaving the harbor wind behind and stepping into their future.
+

@@ -1,0 +1,45 @@
+# Part 3: The Base
+
+## June 14, 2003 19:30 PM
+
+The silver Avalon pulled away from the highway and turned down a quiet residential street in Christiansburg. It was a different world from the humid, crowded sprawl of Virginia Beach. Here, the air was thin and smelled of pine needles. The Blue Ridge Mountains stood silent in the distance, a fortress wall protecting the valley.
+
+Jessica slowed the car as they approached the intersection of First and Pepper. "Target acquired," Jessica announced. "Look to your left." Freddie looked out the window. Directly across the street wasn't a parking lot; it was a hub of infrastructure. **Pepper Plaza Transit Center.** It was a proper terminal with a sawtooth curb design, allowing three buses to dock simultaneously without blocking traffic. A heavy shelter with a glass windscreen stood waiting. "That is the node," Jessica explained, pointing. "Blue Ridge Transit. Route 1 goes straight to campus. Route 3 goes to Radford. You can see the bus arrive from your front porch. Visual confirmation." Freddie nodded, entranced by the efficiency of the sawtooth bays. "Optimal geometry," he noted. "No guessing."
+
+Jessica turned the wheel to the right and pulled into the driveway of a small, white house directly diagonally across from the transit center. "And this," Jessica said, killing the engine, "is The Base." **105 Pepper Street.** It was a modest, detached single-story house with a small porch and white siding. It looked solid. Unpretentious. Private. "Low density," Freddie noted, approving of the lack of shared walls. "And high security," Jessica added. "Grab your bags."
+
+They walked up the short concrete path. Jessica pulled out a keyring with three brass keys. She handed one to Freddie and one to Paige. "Protocol One," Jessica said, sliding her key into the deadbolt. "This is a private residence. No buzzer. No landlord walking the halls. You control the perimeter." *Click-thunk.* The door swung open. "Secure," Freddie whispered, stepping onto the hardwood floor. It smelled of lemon polish and old wood—the smell of safety.
+
+## The Base of Operations
+
+The interior was deceptively spacious. The living room had soft carpet and a large window looking out toward the tree line in the backyard. The kitchen had a small island with three bar stools. But the most important feature was the short hallway that branched off to the bedrooms. "Okay," Jessica said, dropping her keys on the counter. "Briefing time. Drop the bags." Freddie and Paige set their duffel bags down. Ellen, who was carrying a bag of groceries she’d insisted on buying at the last stop, set them on the island.
+
+Jessica hopped up onto the counter, swinging her legs. She looked at her siblings—not as a parent, not as a babysitter, but as a squad leader addressing her team. "Welcome to the Iron City," Jessica smiled. "This is a new system. The rules of 1852 Delaney Street do not apply here. We have a new Constitution."
+
+## Article 1: The Resources
+
+"First," Jessica pointed to the ceiling. "Rent. Utilities. Internet." "We need jobs," Paige said immediately. "I can wait tables. Freddie can do tech support." "Negative," Jessica shook her head. "We have a sponsor." She reached into her back pocket and pulled out a folded document. She placed it on the counter. **Lease Agreement.** **Rent: \$1.00 per annum.** "Mom’s Great Aunt Margaret," Jessica explained. "She moved to assisted living last month. She owns this place. She hates Dad. She drafted this lease herself." Ellen nodded from the kitchen. "She wants you safe. She’s covering the utilities and the high-speed cable internet. She’s also depositing a stipend for food and books every month." Freddie blinked. "We are... fully funded?" "You are fully funded," Jessica confirmed. "Your job is to get the grades. That’s it."
+
+## Article 2: The Quarters
+
+Jessica hopped off the counter and led them down the hall. "There are two rooms. One is the Ops Room." She pointed to the smaller bedroom on the right, where three desks were already pushed against the walls, creating a U-shaped command center. "That’s where we work. Computers, printers, homework." She walked to the door at the end of the hall. "And this is the Silo." She pushed the door open. The Master Bedroom was dominated by a massive piece of furniture. **A King-Sized Bed.** It took up almost the entire room. "76 inches," Jessica stated the spec. "Enough for three." Freddie froze. He looked at Jessica. "Three?" "Three," Jessica confirmed. "We aren't doing shifts. We aren't doing 'Jessica sleeps on the floor.' We are a unit. We sleep together. Every night. Safety in numbers." She looked at Paige. "If you're okay with that?" Paige looked at the vast expanse of the mattress. She imagined the nights without the static. She imagined the safety of the wall. "I'm okay with it," Paige whispered. "I prefer it." Freddie looked at the bed. The logic was undeniable. Maximum regulation. Maximum security. "Accepted," Freddie said. "The King configuration is optimal."
+
+## Article 3: The Code of Conduct
+
+They walked back into the living room. "Guests," Jessica listed. "Mom is welcome anytime. She has a key." She looked at Ellen, then back at the twins. Her expression hardened. "Robert is banned. He doesn't know this address. The lease is in a trust. If he shows up, you do not open the door. He has no jurisdiction here. This is a secure facility." "Understood," Freddie said, his voice cold. "Robert is blocked."
+
+"Substances," Jessica continued. "No smoking. No drinking. No drugs. I don't want this place smelling like an ashtray." "We do not partake," Freddie confirmed. "Those variables introduce chaos."
+
+"And finally," Jessica said, grabbing a water bottle from the fridge. "We’re adults. We’re siblings. We’ve changed diapers, we’ve cleaned up vomit, and we’ve survived a war. There is no modesty here. If you need to change, change. If you need to shower, shower. We don't hide from each other. We just live." She took a sip of water. "Any questions?" "The fridge," Freddie asked, eyeing the stainless steel appliance. "Common stock," Jessica said. "Unless you put a name on it, it’s fair game. But don't eat my yogurt if you value your life."
+
+## 19:45 PM
+
+The briefing was adjourned. Freddie and Paige took their bags into the Silo. It was perfect. The King bed sat against the far wall, dressed in maroon sheets. The blackout curtains were already drawn. The walk-in closet was empty, waiting for their clothes.
+
+Freddie unzipped his duffel bag. He felt sticky from the graduation gown, the sweat of the meltdown, and the long car ride. He didn't ask Paige to leave. He didn't turn around. He simply pulled his shirt over his head and tossed it on the bed. He unbuckled his belt and stepped out of his dress pants. He stood there in his boxers, grabbing a pair of soft gym shorts from his bag. Paige was doing the same. She shucked off her jeans and the blouse she’d worn for graduation, revealing a simple bra and panties. She didn't flinch. She didn't look away. It was just skin. It was just Freddie. She pulled on an oversized t-shirt and cotton shorts.
+
+"The air conditioning is optimal," Freddie noted, pulling on his orange hoodie—not for warmth, but for comfort. "It’s quiet," Paige agreed, tossing her clothes into the hamper. She walked over to him. She didn't hug him; she just leaned her forehead against his shoulder. "We’re here, Freddie. 105 Pepper."
+
+Freddie looked around the room. No parents fighting downstairs. No Robert trying to drag him to a basement. Just Jessica in the kitchen, Paige at his side, and a fully funded future waiting for them. And across the street, the buses were waiting in their sawtooth bays. "The launch code is accepted," Freddie whispered. "Systems are go."
+
+

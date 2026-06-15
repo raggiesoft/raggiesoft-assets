@@ -1,0 +1,12 @@
+# Part 1: The Morning After
+
+Christmas Day at 1091 Daniel Maloney Drive began not with the frantic energy of tearing open presents, but with the quiet, contented calm that follows a wonderful celebration. The gifts had all been exchanged the night before during their grand Réveillon, leaving the morning free of obligations.
+
+The four of them—Stella, Luna, Leo, and Olivia—woke late in their own beds, the house peaceful. The first to stir, Stella and Olivia, put on a pot of coffee and declared that breakfast would be "Réveillon Leftovers." The star of the morning was the leftover *tourtière*, which they heated up and served in savory slices alongside the rich, chocolatey *bûche de Noël*. It was an unconventional but delicious Christmas brunch.
+
+Arthur, Eleanor, and the Canadian family arrived mid-morning, not with a flurry of activity, but with a desire for a relaxed day. The cousins, who had been fascinated by Leo's description of his MagnaByte Opus, were thrilled when he offered to show it to them. The den was soon filled with the nostalgic sounds of old video games, with Leo, in his element, happily sharing his world.
+
+The adults settled in the living room, a classic Christmas movie playing quietly on the television. The day was mild for a Virginia December, and later, the whole group took a quiet, bundled-up walk, with some heading down to the nearby beach to watch the winter waves roll in.
+
+For Leo, the day was a study in peaceful normalcy. He was surrounded by his entire, expanded family. The conversations were a low, happy murmur of French and English. The activities were quiet and calm. There were no demands, no overwhelming sensory input, just the simple, profound comfort of being home and safe. It was the perfect, gentle follow-up to the "Best Christmas Ever," a day dedicated not to grand events, but to the quiet, steady joy of simply being together.
+

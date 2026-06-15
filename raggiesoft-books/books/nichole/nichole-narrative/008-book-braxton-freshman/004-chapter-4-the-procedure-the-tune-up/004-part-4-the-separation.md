@@ -1,0 +1,108 @@
+# Part 4: The Separation
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 07:15 AM **Location:** Pre-Op Holding Bay 4 -\> OR Hallway
+
+The Anesthesiologist, Dr. Liu, stepped into the bay. He was holding a syringe labeled **MIDAZOLAM**.
+
+He looked at Nichole, then at Patrick standing guard with his binder. He read the room instantly. This wasn't a "Happy Juice" family. This was a clinical team.
+
+"Okay, Nichole," Dr. Liu said, his voice respectful and direct. "We're about fifteen minutes out from transport. I'm going to administer an anxiolytic into your IV now. It’s Midazolam."
+
+Nichole looked at the syringe, then at Patrick. Her fingers hovered over her VocaLink keyboard. She didn't want to be "relaxed." She wanted to be in control.
+
+"What's the effect?" Patrick asked, his tone professional. He knew the drug, but he needed Nichole to hear the parameters from the attending.
+
+"It’s a central nervous system depressant," Dr. Liu explained, skipping the 'wine' analogy entirely. "It’s going to lower your sensory processing speed. You’ll feel a physical 'distance' from the room. It also causes anterograde amnesia—meaning your brain will stop recording new memories in about two minutes."
+
+Nichole’s eyes widened. The idea of her "recorder" stopping was terrifying. *System shut down.*
+
+She typed frantically, the keys clacking loudly in the quiet bay.
+
+**DO. NOT. TURN. ME. OFF.**
+
+Patrick stepped in. He didn't offer false comfort. He offered data.
+
+"It's okay, Nikki," Patrick said, placing his hand over hers, gently stopping the typing. "Think of it as pausing the hard drive. It stops the anxiety loop so your heart rate stays down for induction. It protects the system."
+
+He looked at Dr. Liu. "Dosage?"
+
+"2 milligrams," Dr. Liu confirmed. "Pushing now."
+
+He slid the medication into the port.
+
+Patrick watched the monitor. He saw her heart rate tick up to 110, then—as the drug hit—drift down to 85.
+
+Nichole tried to type again. She wanted to type *SENSORS OFFLINE*.
+
+Her right hand lifted, but her index finger missed the 'S' key. It slid off the keyboard and landed heavily on the mattress. The drug was acting fast. Her motor planning was gone.
+
+She looked at Patrick, her eyes wide with the realization that she was trapped in a slowing body. She couldn't type. She couldn't sign.
+
+She blinked rapidly. *Three times.* (I'm scared).
+
+Patrick dropped the side rail (with a quick nod to Dr. Liu). He leaned over the bed, wrapping his arms around her shoulders, pulling her head into his chest.
+
+He applied the **Deep Pressure**. He squeezed tight, grounding her floating sensation.
+
+"I'm going to be there," Patrick whispered into her hair, fierce and low. "I have the badge. I have the clearance. The second you reboot in recovery, I am the first thing you see. You will not wake up alone."
+
+Nichole buried her face in his neck. She smelled the familiar scent of laundry detergent and coffee—the scent of safety.
+
+She squeezed his forearm. It was a weak, clumsy squeeze, but Patrick felt it.
+
+"Promise?" she mouthed, no sound coming out.
+
+"Authorized and verified," Patrick said. "I'm your nurse, Nikki. I don't clock out."
+
+He held her for ten more seconds, until he felt her body go heavy with the sedation.
+
+"Okay," Dr. Liu said gently. "We need to roll."
+
+Patrick pulled back. He smoothed her hair back from her forehead. He picked up her VocaLink device and tucked it into his bag for safekeeping.
+
+"See you on the other side, Nikki."
+
+The orderlies unlocked the wheels. The bed began to move.
+
+Patrick stepped back to the doorway. He didn't look away. He watched as they wheeled her down the long, sterile hallway. He watched until the double doors swung shut behind her, the red **RESTRICTED AREA** sign flashing above them.
+
+## The Waiting Room, Time: 07:30 AM
+
+Patrick walked into the Surgical Waiting Room.
+
+Through the large windows, the sky was a heavy, bruised purple-gray. The snow had stopped falling for now, leaving a thin, pristine layer on the visitor parking lot, but the clouds promised a second round later in the afternoon.
+
+The room was filled with anxious families flipping through three-year-old magazines and staring at the TV, which was playing a post-Christmas clearance commercial.
+
+Patrick didn't sit in the soft chairs. He found a table in the corner near an outlet.
+
+He didn't pace. He didn't wring his hands.
+
+He set up his command post.
+
+1.  **Laptop:** Open to the hospital's guest Wi-Fi.
+
+2.  **The Binder:** Open to the *Post-Op Pain Management* section.
+
+3.  **The Clock:** Synced.
+
+He had two hours. Most families would use the time to eat or sleep. Patrick used the time to work.
+
+He pulled out a pen. He began drafting the **24-Hour Post-Op Schedule**:
+
+- 09:30 - Estimated PACU Arrival.
+
+- 10:00 - First Pain Assessment (Visual/Non-Verbal).
+
+- 10:15 - Ice Pack Application (20 min on / 20 off).
+
+- 12:00 - Discharge to Home.
+
+He looked at the clock on the wall. *07:35.*
+
+She was under.
+
+Patrick took a breath. He touched the LPN badge clipped to his chest.
+
+"I'm right here," he whispered to the empty air. "Running the numbers."
+

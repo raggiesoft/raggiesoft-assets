@@ -1,0 +1,66 @@
+# Part 3: The Call of the Bull
+
+## Date: November 15, 2003 Time: 9:00 AM Location: Grand Ballroom, BSU Student Union (Level 2)
+
+The Grand Ballroom of the Student Union lived up to the university’s reputation for "Universal Design."
+
+In most auditoriums, wheelchair seating was an afterthought—a lonely pen at the very back or a segregated row at the very front that required a special lift key to access. But as Patrick pushed Nichole through the double doors, he saw a different layout.
+
+The ballroom was tiered, but gently ramped aisles cut through the center sections, weaving between the rows of seats. There were cutouts for wheelchairs integrated into the middle of the crowd, right next to standard seats.
+
+Patrick parked Nichole in row G, seat 4—dead center. He sat in the chair next to her. They weren't isolated on the fringe; they were in the pack.
+
+The lights dimmed. A hush fell over the crowd of five hundred prospective students and anxious parents.
+
+On the massive projection screen, the university seal faded in: a stylized, charging Bull in navy blue and silver, underscored by the Latin motto: *Ex Terra Vires*.
+
+"Strength from the Earth," Patrick whispered, translating the motto he had read in the brochure.
+
+A spotlight hit the podium. The University President, Dr. Marcus Thorne, walked out. He didn't look like an academic in a tweed jacket. He looked like a retired linebacker who had pivoted to engineering—broad-shouldered, wearing a sharp suit without a tie.
+
+"Good morning," Thorne’s voice boomed. "And welcome to the Point."
+
+He gestured to the floor-to-ceiling windows behind him, which offered a panoramic view of Narragansett Bay and the massive steel infrastructure of the Narragansett Esplanade Station.
+
+"Look at the window behind me," Thorne said. "You see the Metro. You see the ferry dock. You see the city. That is not an accident. At Braxton State, there is no wall between the classroom and the real world. We are connected directly to the grid."
+
+The image on the screen shifted to a montage: BSU students in hardhats at the shipyard, nurses sprinting through the corridors of University Medical Center, and students in the subterranean "Pit" of the Pedestrian Link coding on laptops.
+
+"Our mascot is the Bull," Thorne said, pacing the stage. "Bulls are not known for being flashy. Bulls are known for carrying heavy loads. They are known for their persistence. When the mud gets deep, a Bull lowers its head, finds its footing, and pushes through."
+
+Nichole stared at the man on stage.
+
+At Putney College, the director had looked at her wheelchair and seen a liability. He had seen something delicate that needed to be "managed."
+
+Dr. Thorne was looking at a room full of teenagers and asking for grit. He wasn't asking if she could walk. He was asking if she could push.
+
+"This is a public university," Thorne continued, his voice echoing in the large hall. "That means we take the raw potential of this city—and of you—and we forge it into action. We do not care where you come from. We do not care what obstacles you had to cross to get into this room. The only thing that matters on this campus is what you are willing to build."
+
+He paused, looking directly out into the center rows of the crowd.
+
+"We have one rule here," Thorne concluded. "No passengers. Everyone drives. Whether you are studying philosophy or computer science, you carry your own weight. If that excites you... then welcome to the herd."
+
+The room erupted in applause. It wasn't polite golf claps; it was loud, enthusiastic cheering.
+
+Patrick looked at Nichole. Her eyes were locked on the screen, where the blue Bull logo was pulsing.
+
+She reached for her mouse. Her hand wasn't shaking.
+
+"NO. PASSENGERS."
+
+Patrick grinned, leaning close to her ear over the applause. "He's talking our language, Nikki."
+
+"MY. HERD."
+
+"Yeah," Patrick agreed, looking around at the diverse crowd of students—some in hoodies, some in hijabs, some looking terrified, some looking hungry. "Our herd."
+
+The house lights came up.
+
+"Alright," Thorne said, checking his watch. "Breakout sessions start in ten minutes. Nursing in the East Wing. Engineering... take the Link underground to the West Wing. Computer Science... you guys are in the Tech Core, third floor. Go run with the Bulls."
+
+Patrick stood up. He grabbed the handles of the Titan AeroMotion.
+
+"Tech Core," Patrick said. "Third floor. Let's see if their code is as good as their speeches."
+
+They rolled into the aisle, merging seamlessly with the flow of students moving toward the future.
+

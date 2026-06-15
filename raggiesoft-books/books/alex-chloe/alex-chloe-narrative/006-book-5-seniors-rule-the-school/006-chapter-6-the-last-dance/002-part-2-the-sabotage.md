@@ -1,0 +1,24 @@
+# Part 2: The Sabotage
+
+The night of the prom, the gymnasium was a glittering, chaotic sea of taffeta and rented tuxedos. Alex and Chloé, looking elegant in their own simple, coordinated outfits, were having a surprisingly good time. They had found a quiet table with their friends, the Porter twins, and were enjoying the people-watching.
+
+Across the room, Josh Riley was seething. He had watched Alex and Chloé all night, and the sight of them, so happy and so obviously beloved by their friends, was a bitter pill to swallow. He couldn't stand it. He decided, in a final, petty act of high school villainy, to ruin their night.
+
+He saw the table where the ballots for Prom King and Queen were being collected. When no one was looking, he sidled over, a cup of dark, syrupy punch in his hand. With a single, deliberate "stumble," he "accidentally" spilled the entire cup of sticky, staining liquid all over the ballot box and the pristine white tablecloth.
+
+"Oh, whoops!" he said, his voice dripping with false sincerity. "So clumsy!"
+
+A wave of groans went through the nearby students. The ballots were a soggy, illegible mess.
+
+But Josh hadn't counted on one thing. He hadn't counted on the chaperones. A familiar, dangerously calm voice cut through the air.
+
+"Mr. Riley."
+
+Josh froze. Mrs. DeMarco, a vision of unexpected elegance in a formal dress, was standing right behind him, her arms crossed, her expression a mask of pure, unadulterated fury.
+
+"It seems," she said, her voice a low, dangerous purr, "that your long and storied career in after-school sanitation has not yet taught you the basic principles of not being a complete and utter menace. You have just deliberately and maliciously destroyed school property and sabotaged a student event. I believe a final, memorable lesson is in order."
+
+She leaned in, her voice a whisper that was somehow more terrifying than a shout. "Report to me. Monday morning. 6 AM. By the dumpsters. You, me, and four years' worth of accumulated cafeteria grease. We are going to have a very long, very thorough, and very, *very* aromatic conversation about your future. Consider it... your graduation gift."
+
+Josh Riley's face, for the last time in the hallways of Northwood High, went completely, utterly pale. He had finally, truly, been checkmated.
+

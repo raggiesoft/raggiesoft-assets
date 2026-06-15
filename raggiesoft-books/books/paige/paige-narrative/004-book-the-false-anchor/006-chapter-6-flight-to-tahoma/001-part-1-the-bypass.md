@@ -1,0 +1,102 @@
+# Part 1: The Bypass
+
+## Monday, May 10, 2004 — 10:00 AM (PST) The Cascade Suites, Seattle
+
+Jessica dropped the room key on the front desk counter. The *clack* of plastic on marble was the final punctuation mark of their time in the city.
+
+"Checking out," Jessica told Dave the clerk. "We’re heading for the trees."
+
+"Safe travels," Dave said.
+
+They took the elevator down to the garage. The white **Vanguard Senator** rental car waited in the concrete gloom.
+
+"Keys," Paige demanded, holding out her hand. "I need to drive. I need to do something with my hands besides worry."
+
+Jessica tossed her the keys. "All yours, Lieutenant. Get us out of the grid."
+
+Paige climbed into the driver's seat. She adjusted the mirrors and reached for the gear stick. She gripped it, her foot instinctively stomping on the floorboard for a clutch pedal that wasn't there.
+
+Her foot hit empty carpet.
+
+"Ugh," Paige groaned, wiggling the shifter in its gate. "It’s a slushbox. An automatic. It feels like driving a golf cart."
+
+"It’s a rental, Paige," Jessica laughed, opening the back door. "They don't trust tourists with clutches."
+
+"It’s boring," Paige muttered, putting the car in Drive with a look of disdain. "No torque control. Just... mush."
+
+Freddie stood by the open back door. He looked at the front passenger seat where he usually sat as the Navigator. Then he looked at the back seat where Jessica was sliding in.
+
+He thought about the last few days. Paige had held him in the hotel bed. Paige had grounded him in the lobby.
+
+He looked at Jessica. She was the Shield. She had organized the rescue, booked the flights, and scrubbed the bus dirt off his back. He missed her gravity.
+
+"Change of formation," Freddie announced.
+
+He climbed into the back seat next to Jessica.
+
+"Backseat driver?" Jessica teased, scooting over to give him room.
+
+"I require... equal time," Freddie whispered. "The Shield needs to be deployed."
+
+He buckled his seatbelt, pulling it snug across his hips. Then, he slid across the bench seat until he was pressed against Jessica’s side. He wrapped his arm through hers, leaning his head on her shoulder.
+
+Jessica smiled, a warm, bright expression that lit up the dim garage. She wrapped her arm around him, pulling him in tight.
+
+"I've got you," Jessica said, resting her cheek on top of his head. "I'm right here."
+
+"Secure," Freddie breathed, closing his eyes.
+
+Paige navigated out of the garage, grumbling about the car's turning radius. They turned onto Stewart Street one last time, driving past the **Pathfinder Terminal**.
+
+Freddie didn't flinch. He felt the solid warmth of Jessica’s arm. He felt the steady rhythm of her breathing. The terminal was just a building.
+
+"Ghost town," Freddie whispered into Jessica’s sweater.
+
+"Ghost town," Jessica agreed, squeezing his hand.
+
+## 10:20 AM — The Interchange (Tukwila)
+
+They reached the massive junction south of the city. The traffic on **I-5 South** was heavy—a river of red taillights and grey steel.
+
+"Navigation update," Jessica called out from the back, playing the role of Navigator now. "We aren't taking I-5 all the way. Take Exit 154B. Merge onto **I-405 North**."
+
+"North?" Paige asked, checking her blind spot. "We're going south."
+
+"Just for a minute," Jessica explained. "To catch the drop to the valley."
+
+Paige executed the merge, the automatic transmission whining as it downshifted aggressively. "Come on, shift," she muttered. "Find a gear."
+
+A mile later, she took **Exit 2**, sweeping onto the ramp for **SR-167 South**.
+
+## 10:35 AM — Kent, Washington
+
+Freddie stiffened slightly. "Kent," he read aloud.
+
+"That’s where she said she was going," Jessica whispered, rubbing his arm. "The aunt's trailer park."
+
+"If there even *is* an aunt," Paige muttered from the driver's seat, her eyes narrowing as she glared at the exit sign. "Knowing Vanessa, she probably made the whole thing up. She’s probably sitting on a curb somewhere wondering why her life isn't a movie."
+
+"It is a valid hypothesis," Freddie murmured, looking out at the sprawling, bleak expanse of the suburb. It wasn't the romantic, sleepless city Vanessa had promised. It wasn't the mountains. It was just... parking lots. Fast food. Concrete.
+
+He thought about Vanessa standing at the payphone in the terminal, desperate and alone. He thought about her lies—about New York, about Italy, about the "freedom" she claimed to offer.
+
+And he thought about where he was right now—warm, safe, held by his sister in a car driven by his twin.
+
+A sound bubbled up in his throat. A chuckle.
+
+"She missed the exit," Freddie said.
+
+"What?" Jessica asked, looking down at him.
+
+"She wanted a life," Freddie said, a real smile breaking across his face for the first time since the bus station. "She wanted to be free. She wanted to be the hero. And she ended up... in Kent."
+
+He laughed. It was a dry, dark, satisfied laugh.
+
+"Or she ended up nowhere," Freddie added. "Maybe the aunt is a fiction. Maybe she is just... deleted."
+
+"Fate," Jessica grinned, pressing a kiss to the top of his head. "The variable resolved itself. She is static. We are the signal."
+
+"We are just passing through," Paige agreed, pressing the accelerator.
+
+The Vanguard roared past the exit. They left Kent—and the ghost of Vanessa—in the dust, just a blur of grey in the side mirror.
+

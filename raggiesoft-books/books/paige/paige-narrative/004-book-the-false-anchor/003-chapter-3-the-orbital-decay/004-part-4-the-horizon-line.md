@@ -1,0 +1,214 @@
+# Part 4: The Horizon Line
+
+## Tuesday, May 4, 2004 — 21:10 PM
+
+The **Pathfinder** bus hissed, its pneumatic suspension lifting the heavy chassis off the grime of the Campbell Court pavement.
+
+"Departure," Freddie whispered.
+
+He was sitting in the window seat, Row 4. Vanessa was the barrier between him and the aisle.
+
+The bus lurched forward, winding through the tight, smoggy turns of the parking garage before bursting out into the Roanoke night.
+
+Freddie pressed his forehead against the cold glass. The city lights smeared into streaks of sodium-orange and fluorescent white.
+
+*Adventure,* he told himself. *This is a Stellar Voyage. I am leaving the starbase.*
+
+He felt a vibration in the floorboards—the massive diesel engine roaring as they hit the on-ramp for **I-581**. They were moving north, then west. Toward the mountains. Toward the future.
+
+## 21:30 PM — 105 Pepper Street
+
+On the television, the credits for *Stellar Voyage: The New Era* were rolling. The majestic orchestral theme swelled, filling the living room.
+
+Paige stretched her arms over her head, letting out a long yawn, her bare feet propped up on the coffee table.
+
+"That was a good one," she said. "I love the episodes where the Captain gets trapped in the holodeck and has to outsmart the computer."
+
+She looked down the short, dark hallway. The bathroom door was open and empty. The bedroom door—the only bedroom in the small house—was pulled shut.
+
+"He never came back out," Paige noted, checking her watch. "He’s been in there for... thirty minutes?"
+
+Jessica stood up and gathered the empty pizza box and soda cans.
+
+"He was exhausted, Paige," Jessica said quietly. "Did you see him after the presentation? He was gray. He probably stripped down, crawled under the weighted blanket, and initiated a hard reset."
+
+"I should check on him," Paige said, instinctively standing up.
+
+"Don't," Jessica ordered gently. "You know the protocol for a Presentation Crash. If he's under the heavy blanket, he needs zero sensory input. If we open the door and let the light in, or try to cuddle him too soon, we'll wake him up and reset the cycle."
+
+Paige hesitated. She looked at the closed door.
+
+Usually, the nightly ritual involved the three of them stripping down, climbing into the massive King bed that took up ninety percent of the room, and tangling their limbs together until they fell asleep. It was their safe space.
+
+But she remembered the look in Freddie's eyes in the lobby. The way he had pulled his arm away. *Sensory Overload.*
+
+"Okay," Paige sighed, accepting the logic. "We'll let him charge. Sensory Quarantine tonight."
+
+Jessica walked toward the kitchen to throw away the pizza box.
+
+"Wait," Paige said, reaching out to click off the living room lamp. "Don't go in there. The fluorescent light hums. He might hear it through the wall."
+
+Jessica paused. She was standing in the entryway darkness. The kitchen counter was just five feet away, shrouded in deep shadow.
+
+"Good call," Jessica whispered.
+
+Instead of walking into the kitchen—where she might have seen the counter—she turned and stuffed the pizza box into the tall recycling bin by the front door.
+
+"Night, Jess," Paige whispered, tiptoeing toward the bedroom.
+
+"Night, Lieutenant," Jessica replied, locking the front door.
+
+They opened the bedroom door with practiced silence.
+
+The room was pitch black. The heavy blackout curtains Freddie insisted on blocked every photon of streetlamp light.
+
+Paige navigated by memory. She moved to the side of the bed. She could see the dark, heavy mound of the 20-pound weighted blanket bunched up in the center of the mattress.
+
+*He's deep in the cocoon,* she thought affectionately.
+
+She stripped off her clothes, leaving them in a pile on the floor. Jessica did the same on the other side.
+
+They climbed into the bed with infinite care.
+
+Usually, they would slide to the middle. Tonight, respecting the "Quarantine," they stayed on the perimeter.
+
+Paige lay on her side, facing the center. She reached out a hand and gently patted the heavy velvet of the weighted blanket. It felt solid. It felt full.
+
+"Sleep well, Captain," she whispered into the dark.
+
+She pulled her own sheet up. Across the vast expanse of the mattress, she heard Jessica settle in.
+
+"Love you guys," Jessica murmured sleepily.
+
+"Love you too," Paige replied.
+
+The Avery sisters closed their eyes, drifting off to sleep on the edges of the bed, giving their brother the space they thought he needed, unaware that they were guarding an empty cocoon.
+
+## 22:00 PM — I-81 South, Mile Marker 118
+
+The bus was cruising at 65 miles per hour. The rhythm was hypnotic. *Thump-thump. Thump-thump.*
+
+Freddie watched the green highway signs flash by in the headlights.
+
+**EXIT 118 - CHRISTIANSBURG / BLACKSBURG**
+
+Freddie’s heart seized.
+
+That was the exit. That was the road to Pepper Street. That was the road to the bed where he should be sleeping.
+
+He felt a sudden, sharp panic. A physical urge to grab his phone and text Paige. *I made a mistake. Turn around. Come get me.*
+
+He reached for his pocket. It was empty.
+
+"Vanessa," Freddie whispered, turning to her. "We are passing the perimeter. I should... I should have informed them. They will worry."
+
+Vanessa was reading a magazine by the overhead reading light. She looked at him calmly.
+
+"If you told them," Vanessa said, keeping her voice low so the other passengers wouldn't hear, "they would have stopped you. They would have cried. They would have guilt-tripped you into staying in the cage."
+
+"But they will panic," Freddie said.
+
+"They'll find the note in the morning," Vanessa soothed. "By then, we'll be in Nashville. You're ripping the band-aid off, Freddie. It stings for a second, but then it heals."
+
+She reached out and took his hand.
+
+"Look forward," she commanded gently. "Don't look at the exit. Look at the road ahead."
+
+Freddie looked back at the window. The exit sign disappeared into the darkness behind them.
+
+The gravity of home was gone. He was drifting.
+
+## 23:15 PM — Marion, Virginia
+
+The bus slowed. It pulled off the highway into the small town of **Marion**.
+
+"Stop?" Freddie asked.
+
+"Pick up," Vanessa checked the schedule. "Near the **Appalachian Youth Corps** center."
+
+They watched as a group of young men in denim jackets boarded the bus. They looked tired. They carried duffel bags.
+
+"Like me," Freddie thought. "Travelers."
+
+The bus merged back onto the highway. The excitement began to bleed back in, replacing the guilt. He was part of a crew now. A crew of the night.
+
+## Midnight — Bristol, Virginia/Tennessee
+
+The bus drifted off the dark ribbon of Interstate 81, its brakes hissing as it descended into a pool of harsh, sodium-vapor white light.
+
+Freddie blinked awake, the sudden brightness stinging his eyes behind his glasses. Through the condensation on the window, the terminal came into view. It was a low, brick building, utterly unremarkable except for the sign glowing in block letters above the idling bay: **BRISTOL**.
+
+For a heartbeat, the word felt like a warm blanket. It felt familiar. Safe.
+
+He had been to Bristol with Jessica and Paige more times than he could count. It was a standard waypoint on the Avery map—a place of shopping trips, family drives, and stopping for milkshakes at that retro diner on State Street before heading deeper into the mountains. Bristol was a known quantity. It was still within the perimeter of *Home*.
+
+Then his eyes adjusted, catching the smaller, less forgiving letters beneath the city name.
+
+**TN**.
+
+There was a half-second delay in his processing, a glitch in the visual recognition software, followed by a sharp, audible click in his brain. A recalibration.
+
+This wasn’t the Virginia side.
+
+This wasn’t the familiar parking lot where he had stood with his sisters, sharing a basket of fries and laughing at the touristy gimmick of the "Twin Cities." This was the other Bristol—the shadow side, the one across the line.
+
+And he had crossed that line without them.
+
+"State line," Vanessa announced, stretching her arms over her head with the lazy, fluid grace of a cat waking from a nap. "See it? Look out the left side. That street right there is the border. One side Virginia, one side Tennessee."
+
+Freddie pressed his forehead against the cold glass, feeling the vibration of the idling engine rattle his teeth. He looked down at State Street.
+
+He saw the brass markers embedded in the pavement, the ones he used to hop across as a kid. He could see the memory playing out like a hologram on the asphalt: a younger version of himself hopping back and forth—*Virginia foot, Tennessee foot*—giggling uncontrollably while Paige stood with her arms crossed, pretending to be a stern customs officer demanding to see his papers.
+
+It had been a game then. A funny line on the ground.
+
+Now, as the bus lurched forward and rolled over those markers with a low, humming vibration, a shiver ran up his spine that had nothing to do with the bus's air conditioning.
+
+He imagined the wheels slipping through a force field, the kind he used to draw in the margins of his astronomy notebooks. It wasn't just a street. It was a heliopause—the boundary where the solar wind of his home system stopped, and the cold, crushing silence of interstellar space began.
+
+He was crossing a boundary between galaxies. And he was doing it in a vessel he didn't control, with a pilot he didn't trust.
+
+"We are in the void," Freddie whispered, the words fogging the glass.
+
+Vanessa laughed softly, patting his knee. "We’re in Tennessee, Captain. It's just new map data. We’ll be in Knoxville in two hours."
+
+But Freddie barely heard her. His chest felt tight, hollowed out, as if the gravity he had left behind had taken his breath with it.
+
+He wasn’t just in Tennessee—he was *out* of Virginia. He was out of the jurisdiction of the only two people who knew how to calibrate his world. He had crossed the border with someone who saw him as a project, not a person. Someone who didn't know that he needed white hot chocolate, or that he rocked when he was anxious, or that silence was sometimes the loudest noise in the room.
+
+He looked at Vanessa. She was smiling at the road ahead, oblivious to the hull breach in his chest.
+
+For the first time, the trip felt real. The adrenaline of the "secret mission" evaporated, leaving only a cold, hard residue of truth.
+
+This wasn't an adventure. This wasn't a mistake he could fix with a phone call.
+
+This was a departure. A one-way trajectory into the dark.
+
+He swallowed hard, gripping the strap of his backpack until his knuckles turned white. He tried to visualize the mountains of Seattle, but all he could see was the invisible line on the pavement receding into the distance behind them.
+
+The first seed of regret hadn't just germinated; it had taken root, deep and thorny, right in the center of his heart.
+
+## Wednesday, May 5, 2004 — 01:45 AM
+
+The lights of **Knoxville** appeared on the horizon—a glowing orange nebula in the valley.
+
+The bus navigated the interchange and pulled into the Knoxville terminal.
+
+"Bus change," the driver announced over the intercom. "All passengers for Nashville, St. Louis, and points West, transfer to Bus 104 in Bay 6."
+
+Freddie stood up. His legs were stiff. He grabbed his small bag.
+
+He stepped off the bus into the cool Tennessee air. It smelled different here. It smelled like humidity and distant pine.
+
+"We made it to the first waypoint," Vanessa said, standing beside him. She looked energized. She looked proud of him.
+
+"How are you holding up, Captain?"
+
+Freddie adjusted his glasses. He looked at the new bus waiting in Bay 6. It was huge. Silver. Powerful.
+
+"Systems nominal," Freddie said, the thrill of the unknown temporarily overpowering the silence of his phone. "Ready for the next jump."
+
+"That's my guy," Vanessa said.
+
+She led him toward the next leg of the journey, while three hundred miles behind them, the sun began to creep toward the horizon of a house that was about to wake up to a nightmare.
+

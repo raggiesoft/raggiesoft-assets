@@ -1,0 +1,110 @@
+# Part 6: The Silver Standard
+
+## December 28, 2005 Fine Arts Center - Dean’s Office 10:05 AM
+
+The office was spacious, lined with bookshelves filled with orchestral scores. A grand piano sat in the corner. Through the floor-to-ceiling windows, the blizzard was a white curtain, erasing the world outside. Inside, it was dead silent.
+
+The Fortress (plus Arthur and Eleanor) sat on the leather sofas lining the wall. They were the audience.
+
+Luna stood in the center of the room, near the piano. She hadn't assembled the flute yet. She held the cherry wood case in her hands.
+
+Dean Sterling sat on the edge of her desk, arms crossed. She looked at the case.
+
+"May I?" Sterling asked.
+
+Luna placed the case on the desk. She popped the brass latches.
+
+Sterling lifted the lid. She didn't gasp—she was too professional for that—but her eyes widened slightly. She reached out, checking her hands were clean, and lifted the body joint.
+
+She inspected it like a jeweler. She looked at the tone holes. She checked the soldering on the key arms. She turned it over to look at the serial number engraved near the barrel.
+
+"Serial number matches the 2005 production run," Sterling murmured. "Hand-cut headjoint. Straubinger pads."
+
+She looked up at Stella.
+
+"This is brand new," Sterling said. "You didn't buy this used from a professional. You bought this off the shelf."
+
+"We bought it two months ago," Stella confirmed from the sofa. "Full retail. We don't do secondhand."
+
+Sterling shook her head, a small smile playing on her lips. "Do you have any idea how rare that is? Most *professionals* take out loans for a 680. For a student to own one outright..."
+
+She carefully placed the flute back in the velvet.
+
+"The instrument is perfect," Sterling said, looking at Luna. "Now you have to prove you deserve it. A silver flute has a heavy tone. If you don't support it with enough air, it sounds dead. If you push too hard, it cracks."
+
+"I know," Luna said.
+
+She assembled the flute. The click of the segments locking together echoed in the quiet room.
+
+Luna took her stance. She planted her feet. She adjusted her posture—shoulders down, chest open. She looked at Leo.
+
+Leo was sitting in his manual chair, parked right in her line of sight. He wasn't typing. He was just watching her, his face calm and expectant. He was her anchor.
+
+Luna closed her eyes. She didn't think about the snow, or the move, or the money. She thought about the moment in the song—the signal.
+
+She took a breath. Invisible. Silent.
+
+She began.
+
+Baa-da-da-da-da...
+
+The opening chromatic descent of *Syrinx* hung in the air. It wasn't breathy. It was rich, dark, and mournful. The solid silver tube vibrated, projecting the sound into every corner of the room without Luna having to force it.
+
+Sterling froze. She stopped analyzing the technique and started listening to the music.
+
+Luna moved into the middle section. The rhythm was complex—triplets against straight notes, rubato (stretching time) that felt improvised but was actually mathematically precise. She didn't rush. She let the silence between the phrases speak as loudly as the notes.
+
+Arthur reached out and took Eleanor’s hand. He didn't know Debussy, but he knew beauty.
+
+Then came the finale. The descent into the abyss.
+
+Luna’s fingers moved with fluid grace. She navigated the final, treacherous slur down to the **Low B**.
+
+Most students faded out here. They ran out of air. The note would wobble or go sharp.
+
+Luna hit the bottom. The note bloomed. It was a deep, woody, resonant vibration that sounded more like a cello than a flute. She held it, tapering the volume down... down... down... until it dissolved into the atoms of the air.
+
+She held her pose.
+
+One second. Two seconds. Three seconds of absolute silence.
+
+Then, she lowered the flute.
+
+Dean Sterling let out a breath she didn't realize she had been holding. She looked at the flute, then at Luna.
+
+"You didn't breathe," Sterling said quietly. "In the B section. You played that entire phrase in one breath."
+
+"Swimming lessons," Luna said, a little breathless now. "And marching band. Tenor Sax takes a lot of air."
+
+"And the tone," Sterling continued, standing up. "That wasn't a student tone. That was a dark sound. That was a *mature* sound."
+
+She walked over to Luna.
+
+"I see hundreds of students, Luna. They play fast. They play loud. They try to impress me with gymnastics."
+
+Sterling gestured to the sheet music on the piano (which Luna hadn't looked at once).
+
+"You played the *silence*," Sterling said. "You played the tragedy of the piece. That is something I cannot teach. You either have it, or you don't."
+
+She turned to Stella.
+
+"Ms. Porter," Sterling said, her voice all business. "The audition is waived. The acceptance letter is a formality at this point. I am placing her directly into the Wind Symphony for the Fall 2006 semester."
+
+Luna gasped. "Wind Symphony? The top ensemble?"
+
+"Yes," Sterling said. "And I'm putting you on the shortlist for the Principal chair. You'll have to fight the grad students for it, but with that tone? And that flute? You'll win."
+
+Leo tapped his **Quantum Communicator**. The sound was loud in the quiet room.
+
+"SHE IS THE SIGNAL."
+
+Sterling looked at Leo. "She certainly is."
+
+She reached into her desk drawer and pulled out a heavy, embossed folder.
+
+"Welcome to the Braxton Conservatory," Sterling said, handing it to Luna. "Now, put that silver away before it gets cold. We have paperwork to do."
+
+Luna hugged the flute to her chest. She looked at Arthur and Eleanor. Eleanor was dabbing her eyes with a handkerchief. Arthur gave a sharp, firm nod of approval.
+
+They had come to see if the city was right. The city had just answered back: *Yes.*
+

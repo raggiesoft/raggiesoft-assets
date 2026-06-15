@@ -1,0 +1,24 @@
+# Part 5: The Departure and The Reflection
+
+Thursday morning arrived too quickly. The three of them gathered in the Millers' kitchen for breakfast, a meal Megan insisted on making for them before she had to leave. The air was filled with the comforting scent of pancakes and the easy, familiar chatter of people who are completely at home with one another.
+
+After they had eaten, Megan began to gather her things, a reluctant sigh escaping her. "Well," she said, a playful, teasing glint in her eye, "as much as I'd love to stay here and be a professional slacker with you two, my Poli-Sci professor will probably notice if I skip another day." It was a joke, of course; she hadn't missed a single one of her classes, driving back to VDU each evening after her time with them.
+
+She zipped up her duffel bag and turned to them. She gave Chloé a warm, friendly hug first. "Thanks for letting me crash your week of freedom," she said. "It was a blast."
+
+Then, she knelt beside Alex's wheelchair for her real goodbye. She pulled him into a long, firm, and deeply loving hug. "Be good, cuz," she whispered. "I'll call you guys tonight after I get back to the dorm."
+
+Alex hugged her back just as tightly, a profound sense of sadness settling over him. He hated that she had to leave. Her presence had been a bright, steadying light, a reminder of a world of easy, uncomplicated fun and safety.
+
+I WILL MISS YOU, his device voiced, the words full of a genuine, quiet sorrow.
+
+"I'll miss you too," she said, giving his shoulder one last, affectionate squeeze. "But I'll see you in a couple of days."
+
+With a final, cheerful wave, she was out the door. Alex and Chloé watched from the living room window as her Holt sedan pulled out of the driveway and disappeared down the street.
+
+The moment she was gone, the house felt different. It was quieter. Emptier. The vibrant, confident energy she brought with her had vanished, leaving a noticeable void. Alex let out a small, sad sigh.
+
+Chloé, seeing the look on his face, came and sat on the arm of his wheelchair, her own arm resting comfortably around his shoulders. "I know," she said softly. "I miss her already, too."
+
+They sat there for a long time, just watching the empty street, the quiet of the house settling around them. Megan's visit, a wonderful and restorative interlude, was over. Now, it was just the two of them again, left alone with their thoughts and the dawning realization of what this week of "playing house" truly meant for their future.
+

@@ -1,0 +1,14 @@
+# Part 1: A Family's Resolve (January 2004)
+
+The week after the lawyer's letter arrived was a period of quiet, focused preparation. The initial shock and terror had been replaced by a cold, hard resolve. The six of them—the Millers and the Masons—were a united front, their mission clear: protect Alex and Chloé from Vera's malicious attack.
+
+James Miller took the lead. He spent a full day researching and vetting family law attorneys in the Hampton Roads area, finally settling on a sharp, no-nonsense lawyer named Ms. Albright, who had a reputation for being a fierce advocate for her clients.
+
+The first meeting took place in Ms. Albright's downtown Norfolk office. James and Emily went, and they insisted that Alex and Chloé come with them. This was their fight, too. They arrived armed with a folder containing every piece of documentation they had: the letter from Vera's lawyer, the complete medical records confirming Alex's infertility, and a new, powerfully worded document: a signed and notarized witness statement from Megan Carter.
+
+Ms. Albright listened to the entire story with a calm, professional focus, her expression growing grimmer with each detail of Vera's neglect and manipulation. She read through Megan's statement, which detailed Vera's hostile, possessive behavior at CCHR and the profound, positive change in Alex's demeanor when he was away from her during the VDU Open House weekend.
+
+When James finished speaking, Ms. Albright looked down at the medical report, then back up at them.
+
+"This is an open-and-shut case of paternity fraud," she stated, her voice devoid of any ambiguity. "Ms. Kowalski's claim is not just false; it's malicious. The medical documentation is irrefutable, and your cousin's statement," she said, nodding towards Alex, "paints a very clear picture of coercive control." She looked at James. "Your warning to her on the phone was appropriate, but now that she has engaged counsel, our response must be formal and final."
+

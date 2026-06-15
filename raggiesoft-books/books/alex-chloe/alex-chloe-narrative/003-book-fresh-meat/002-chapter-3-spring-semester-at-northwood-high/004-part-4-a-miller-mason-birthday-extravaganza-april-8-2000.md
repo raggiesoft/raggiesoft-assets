@@ -1,0 +1,42 @@
+# Part 4: A Miller-Mason Birthday Extravaganza (April 8, 2000)
+
+The Saturday of their fifteenth birthday dawned bright and unseasonably warm. The Miller house was transformed. Balloons in blue and green—Alex’s and Chloé’s favorite colors—bobbed against the ceiling, and a large, hand-painted banner reading “Happy 15th Birthday, Alex & Chloé!” was strung across the living room doorway. By early afternoon, the backyard was filled with the happy sounds of a party in full swing.
+
+This was the first time the Masons had met the extended Miller and Carter clans. For Alex’s relatives, it was the first time they had seen Alex in his new element. His grandparents, his Aunt Karen and Uncle Steve Carter, and his female cousins—including his favorite, Megan, and her younger sister, Cassie—were all accustomed to a different Alex at family gatherings. They loved him dearly, but they knew his quiet reserve.
+
+Today, however, they were meeting a new Alex.
+
+"James," Grandma Miller whispered to her son, her eyes wide with happy disbelief as they watched the scene on the patio. "He's... holding court."
+
+And he was. Alex was in the center of a circle with his younger cousins, including a rapt Cassie Carter, a video game controller on his lap, his AAC device glowing. Chloé was perched on the arm of his wheelchair, laughing as he patiently explained a tricky maneuver in *Kart Kraze*. The catalyst for this transformation was undeniably Chloé, his constant, orbiting satellite of warmth and encouragement. Their frequent, easy hugs were a source of quiet amazement for the relatives, a testament to a bond of profound trust.
+
+About an hour into the party, Chloé noticed Alex starting to look overwhelmed by the rising noise level. In a moment of silent, perfect communication, she gently guided his chair towards the quiet patio swing at the edge of the yard. From the kitchen window, Emily and Sophie watched as Chloé wrapped him in a firm, grounding hug, a quiet island of calm in the sea of the party. "That," Emily said softly to Sophie, "is what safety looks like."
+
+The highlight of the afternoon was the cake. As everyone gathered and sang "Happy Birthday," Alex and Chloé sat side-by-side. They shared a look—a silent acknowledgment of this incredible, shared moment—and together, they blew out the fifteen candles.
+
+After everyone had a slice of cake, it was time for presents. Alex received a new game for his computer from his parents. Then, Sophie came forward with a small, neatly wrapped box and placed it on Alex’s lap.
+
+"This is from our family, Alex," she said, her voice full of affection.
+
+Alex opened it carefully. Inside was a software CD-ROM, its packaging written entirely in French. Alex looked up, his expression a mixture of confusion and intrigue.
+
+Sophie smiled. "*C'est une nouvelle voix pour ton ordinateur, mon cher,*" she explained softly. (It's a new voice for your computer, my dear.) "It is a Québécois French voice synthesizer. And a Metropolitan French one, too. I had to order it from a company in Montréal. I thought... I thought your voice should be able to speak our language, too."
+
+A stunned silence fell over Alex as the weight of the gift settled in. This wasn't just software; this was a key to a whole part of Chloé's world. Chloé let out a gasp of pure, ecstatic delight. "No way! Mom, you found one? That's amazing!"
+
+Megan, who had come to stand behind her cousin, was equally thrilled. "Are you kidding me? That's the coolest gift ever, Aunt Sophie! He can be bilingual now, for real!"
+
+James and Emily Miller looked at Sophie, their faces filled with a profound gratitude for a gift that was so much more than a disc in a box. It was a gift of belonging, of complete and total acceptance into their family.
+
+Alex looked from Sophie to Chloé, then back to the small box in his hands. He typed on his AAC, his synthesized voice filled with an emotion that went beyond simple thanks. MERCI, SOPHIE. C'EST… LE MEILLEUR CADEAU. (Thank you, Sophie. It is... the best gift.)
+
+Later, as the party wound down, Alex and Chloé found themselves on the swing again. The yard was filled with the warm, happy glow of a day that had been more than just a success; it had been a breakthrough.
+
+THAT WASN’T… SO BAD, Alex typed, a deep contentment in the words.
+
+Chloé leaned her head on his shoulder. "It was great, Alex. You were great. You were the life of the party."
+
+I WASN’T ALONE, he typed, turning to look at her, his eyes full of a gratitude that went beyond words.
+
+"Never," Chloé whispered, and she pulled him into one last, perfect birthday hug. Sharing a birthday, a happy accident of timing, wasn't about dividing the attention. It was about having a teammate, an anchor who made it possible to not just endure the party, but to truly enjoy it.
+

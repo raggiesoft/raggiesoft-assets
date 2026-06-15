@@ -1,0 +1,42 @@
+# Part 5: Home Base on the Hill
+
+The room at The Statesman Hotel was their sanctuary after a long day of travel. Stella swiped the key card, and the door swung open to reveal a spacious, beautifully appointed, and—most importantly—fully accessible room.
+
+There were wide pathways for Leo's wheelchair to navigate with ease and a large window with a stunning view of the Capitol Hill neighborhood. The room featured two plush queen beds, and the sleeping arrangements were an unspoken, natural decision. Olivia and Leo would share one bed, a continuation of the comforting arrangement from their journey, while Stella and Luna would take the other.
+
+Stella's primary focus, however, was the bathroom. She wheeled Leo inside to inspect it and let out a small sigh of relief. It was perfect. The centerpiece was a large, roll-in shower with grab bars and a built-in shower seat. The space was generous, easily large enough for two fully grown adults, meaning whoever was helping Leo could assist him comfortably without a struggle. This was the result of Stella's meticulous planning, ensuring that Leo's daily care would be as easy and dignified as possible.
+
+As they all began to unpack their small overnight bags, a sense of calm and contentment settled over the room. The stress of the train delay was forgotten, replaced by the quiet luxury of their temporary home.
+
+Leo sat in his chair by the window, looking out at the bustling city, Olivia perched on the edge of their bed beside him. He was tired, but it was a good tired. He was in a new city, surrounded by his fortress, in a room that was perfectly designed for his needs. The great adventure had truly begun.
+
+Part 6: Navigating to the National Zoo
+
+After settling into their hotel, the group's collective hunger led them to a nearby sandwich shop that Stella had scouted, a bustling place with a welcoming atmosphere. As they sat at a large table, waiting for their food, Stella pulled out the zoo map she had printed.
+
+"Okay," she said, spreading it out. "We have a few hours before it closes. We can't see everything, so what are the top priorities? What animals are we absolutely not missing?"
+
+Luna, who had been bouncing in her seat with excitement, answered immediately. "The big cats! I want to see the tigers and the lions."
+
+"Good choice," Olivia said, pointing to a different section of the map. "I want to see the Great Ape House. Gorillas are amazing."
+
+All eyes turned to Leo. He looked at the map, a thoughtful expression on his face. He then picked up his Quantum Communicator, his fingers moving with purpose. A moment later, the synthesized voice spoke his choice.
+
+"PANDAS. AND THE REPTILES."
+
+"Pandas and reptiles it is," Stella confirmed, circling the locations on the map with a pen. "Okay, so we'll hit the Asia Trail for the pandas first, then loop around to the Great Ape House and the big cats, and finish at the Reptile Discovery Center. It's a solid plan."
+
+The arrival of their sandwiches put a temporary pause on the planning. The meal was a happy, relaxed affair, a moment of fuel and final preparation before their first big outing. With their mission now clearly defined, a new wave of excitement rippled through the group.
+
+After a quick and easy lunch at a sandwich shop near their hotel, Stella pulled out her District Area Transit Authority (DATA) maps, a renewed sense of purpose in her eyes. "Alright, team," she announced. "Time for the zoo. And our first big transit test."
+
+She spread the map on their table. "Now, the District Rail map shows a 'Zoo' station, but my research says the walk from there is really long and all uphill. It's not a good option for us." She pointed to a different route she had highlighted. "The best, most accessible way is to take our Red Line train a few stops to Farragut North. Right outside that station, we can transfer to an L2 District Bus. The bus will drop us off right at the front gate on Connecticut Avenue."
+
+It was another example of Stella's meticulous planning, choosing not the most obvious route, but the one that was best for Leo.
+
+Their journey was a smooth success. They navigated back to the Judiciary Square station and boarded a Red Line train, which, to everyone's relief, had no delays this time. At Farragut North, they ascended to the bustling street level and found the bus stop with ease.
+
+When the L2 bus arrived, the driver expertly deployed the ramp for Leo's wheelchair. The bus ride was a new adventure, offering a street-level view of the city's beautiful architecture. A short time later, the bus hissed to a stop, and the automated voice announced, "Connecticut Avenue and the National Zoo."
+
+They disembarked directly in front of the grand, sprawling entrance to the zoo. They had successfully navigated a multi-stage journey on a complex public transit system in a strange new city. It was a huge victory, a powerful confirmation that with the right planning and their fortress intact, the world was theirs to explore.
+

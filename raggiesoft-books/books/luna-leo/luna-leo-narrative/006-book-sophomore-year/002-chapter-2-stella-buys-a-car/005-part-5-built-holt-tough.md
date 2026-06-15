@@ -1,0 +1,47 @@
+# Part 5: Built Holt Tough
+
+Refreshed from lunch and armed with her grandfather's insights, Stella felt more prepared as they walked into the Holt dealership. Her eyes immediately scanned the showroom floor, and then she saw it. A **Sentinel LS**, exactly the model they'd discussed, roomy and practical-looking. And the color – a perfect Starry Night Blue Metallic. Stella let out a small sigh of relief. It was the first car they'd seen all day in a shade of blue she actually liked and that met the practical needs for the twins. *Please let this one work out,* she thought fervently.
+
+As they examined it, Arthur nodding approvingly at the fit and finish ("They still build these body-on-frame models solid," he remarked), a salesman in a slightly-too-shiny suit approached them, beaming. "See you're admiring the new **Sent LS**! Excellent vehicle. Lots of car for the money. We've got some fantastic financing offers running right now..."
+
+Stella braced herself, but her grandfather smoothly stepped in. "Afternoon," he said politely but with unmistakable authority. "We know the car. My granddaughter needs something reliable and accessible for her siblings she's raising. Now, about the price..."
+
+The salesman started again, "Absolutely! And with our current financing..."
+
+Arthur held up a hand, stopping him firmly. "Son," he said, "Let's be very clear, saving us both some time after visiting your competitors down the road. We are paying cash. C-A-S-H. No financing. No loans. No talk of monthly payments. My granddaughter likes this specific **blue LS**. What is the final, out-the-door cash price, including freight and standard prep, but *before* any dealer add-ons or financing chatter?"
+
+The salesman blinked, clearly recognizing this wasn't a typical customer. "Uh, cash... right. Let me just pull up the figures..."
+
+"And while you're doing that," Arthur added, his voice hardening slightly, "remember I owned a top Holt dealership in New England for thirty-five years, back when the **Sparrow** was still a headache on the service drive. I know the invoice, I know the holdback, I know what reasonable prep involves. Give me a fair, straightforward cash price reflecting current incentives, or we'll just thank you for your time and be on our way." He mentioned a reasonable figure based on his quick calculations of likely dealer cost plus a fair profit.
+
+The salesman, looking thoroughly intimidated now, nodded quickly. "Yes, sir. Understood completely, sir. Let me just confirm with my manager for a cash deal like this. Be right back." He hurried off towards the glass-walled manager's office at the back of the showroom.
+
+Stella watched him go, holding her breath slightly. She looked at her grandfather. "Think this one will work?" she asked hopefully. Her grandfather smiled faintly, "He knows we're serious now, honey. And he knows we know the business."
+
+A minute later, the salesman returned, accompanied by an older man in a sharper suit – the Sales Manager. The manager approached, looking first at the salesman, then his eyes fell on Arthur Bennett. His face lit up with immediate recognition.
+
+"Mr. Bennett?" the manager exclaimed, breaking into a wide, genuine smile. "Arthur Bennett, from Keystone Motors of Middletown? Is that really you?"
+
+Arthur chuckled, equally surprised and pleased as he instantly recognized the man. "Robert Davies! Well, I'll be. One of my top sales guys for ten years! What are you doing down here?"
+
+"Managing this place now, sir," Robert replied, shaking Arthur's hand warmly. "It's fantastic to see you again! Learned everything from you back then." He glanced at the younger salesman who looked utterly bewildered.
+
+"You taught us right, Mr. Bennett," Robert continued, his tone becoming more serious. "Customer service first. It wasn't the same after you sold the place in '89. All corporate greed, focused only on the bottom line. I stayed on for a bit but couldn't stand it. Lost its heart." He paused, a nostalgic smile returning. "Still catch myself humming that jingle sometimes... *'There’s only one choice: Keystone Motors!'*"
+
+Arthur smiled warmly at the memory. "Those were good days, Robert. Glad to hear you landed on your feet here." He gestured to the Sentinel. "My granddaughter needs this car."
+
+"Did Mr. Bennett make you an offer?" Robert asked the salesman sharply.
+
+"Y-yes, sir," the salesman stammered. "A cash offer."
+
+"Then you take it," Mr. Davies instructed firmly, clapping the salesman lightly on the shoulder. "No financing push, no add-ons unless they ask. Just draw up the paperwork for the cash price Mr. Bennett requested. He knows exactly what the car is worth, and he knows how business should be done." He turned back to Arthur with a respectful smile. "We'll get this handled for you immediately, Mr. Bennett. Anything for the man who taught me the value of a straight deal and prioritizing the customer."
+
+Stella felt a huge wave of relief and amazement wash over her. Her grandfather's reputation, built on years of integrity and treating people right, had just paved the way.
+
+The rest of the transaction was smooth and efficient. They signed the necessary papers, the price exactly what Arthur had stated was fair. As they finished signing and stood up to leave while the car was being prepped, Stella turned to her grandfather. "Grandpa," she asked quietly, "back there, you mentioned the Sparrow?"
+
+He chuckled softly, shaking his head as they walked towards the showroom exit, Mr. Davies wishing them well again. "Ah, the **Holt Sparrow**. Yes, indeed. Holt marketed it as 'Your Ticket to Ride' back in the seventies. Cheap to buy, cheap to run, supposed to be simple." He paused, a wry look on his face. "Turned out 'ticket' wasn't exactly the right word for it. They had a rather unfortunate design with the fuel tank. Didn't hold up well in rear-end collisions. Caused quite a few fires, a big scandal. Gave service departments like mine plenty of headaches, let me tell you. Got Holt into a world of trouble." He shrugged slightly. "Different times, different cars. This **Sent**," he nodded towards where they were prepping Stella's new blue one, "is built like a tank compared to that thing. You made a good, safe choice, sweetheart."
+
+Stella nodded, absorbing the piece of automotive history from someone who'd truly lived it. "Wow. Okay." They stepped out into the afternoon sun, ready to arrange bringing the new car home soon, another significant step taken care of, made surprisingly easier by her grandfather's well-earned, far-reaching reputation.
+
+

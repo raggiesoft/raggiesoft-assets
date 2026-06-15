@@ -1,0 +1,56 @@
+# Part 4: Stripping the Titles – 10:15 AM
+
+The heavy wooden door swung shut, sealing the kitchen off from the living room.
+
+The moment the latch clicked, Aunt Janet completely crumbled. She leaned back against the kitchen counter, covering her face with her hands as a quiet, horrified sob wrecked her shoulders. Grandma Loretta immediately wrapped her arms around her daughter, while Mom walked over to the sink to pour a glass of cold water.
+
+"I'm so sorry, Ellen," Aunt Janet choked out, taking the glass with a shaking hand. "I had no idea. I just thought she was being shy. Stepped on her? How does a grown man step on an eight-year-old girl?"
+
+Maria and Katherine were standing near the kitchen table. Until this exact moment, they only knew that Michael and Rachel were sick and had to go to the hospital. Now, looking at the pale, tear-streaked faces of the adults, the terrifying reality of the situation was finally breaching their understanding.
+
+"Wait," Maria said, her ten-year-old voice trembling as she looked at Dad. "Someone stepped on Michael? Like... on purpose?"
+
+"He walked on them?" Katherine echoed, her wide eyes filling with innocent, absolute confusion.
+
+Dad let out a heavy breath, his massive shoulders slumping for just a fraction of a second before the fierce protector took over. He looked at Mom, who nodded gently. They had to explain the horror of the world to their nieces without completely shattering their sense of safety.
+
+Mom knelt down on the linoleum floor so she was exactly eye-level with Maria and Katherine. She took both of their hands in hers.
+
+"Listen to me, girls," Mom said, her voice incredibly soft, steady, and safe. "You know how Michael and Rachel take martial arts, right? And you know how everyone takes their shoes off and is completely barefoot on the mats?"
+
+Maria and Katherine both nodded slowly.
+
+"The man who ran the classes... he was supposed to be a teacher," Mom explained, carefully filtering the brutal medical reality into a truth that a child's brain could process. "Teachers are supposed to protect you. But this man was a bully. He made Michael and Rachel lay down on the floor for an exercise, and he used his bare feet to walk on their stomachs."
+
+Katherine gasped, her hands flying to her own stomach in reflex. "But he's big!"
+
+"He is very big," Dad rumbled from his spot by the counter. "He used all of his weight. It hurt Michael very badly. And when Rachel used her brave voice to tell the man to stop hurting her brother, the man got angry. So he stepped on her, too."
+
+"Why?" Maria asked, tears finally spilling over her cheeks. It defied every rule of the playground, every lesson they had ever been taught about adults. "Why would he do that just because she told him to stop?"
+
+"Because bullies don't like it when you stand up to them," Dad answered simply. "But you need to know this: that man is locked inside a jail cell right now, and he is never, ever going to be allowed near Michael or Rachel again."
+
+Aunt Janet gripped the edge of the kitchen counter, her knuckles turning white. The sheer, senseless cruelty of it was impossible to digest. A martial arts instructor—a man entrusted with the safety of children—had nearly crushed an eight-year-old girl to death purely to punish her for calling him mean.
+
+"I don't understand how Master Ray could let that happen," Aunt Janet whispered, her voice shaking with rage. "He owns the school. Master Curtis works for him. How could they—"
+
+"Stop."
+
+Dad’s voice wasn't loud, but it cut through the kitchen like a steel blade.
+
+He looked at Aunt Janet, then at Mom, and finally at Grandma Loretta. His jaw was set in a rigid, unforgiving line.
+
+"We are not calling them that anymore," Dad stated, his tone carrying the weight of an absolute, permanent law. "Never again."
+
+Aunt Janet blinked. "Calling them what?"
+
+"Master," Dad replied, the word dripping with profound disgust. "A Master is a teacher. A Master is someone who builds children up, who teaches them discipline and protects them. The man who crushed my children is a monster. And the man who stood by and watched him do it is a coward."
+
+Dad looked around the kitchen, ensuring the entire extended pack understood the new rule of engagement.
+
+"They lost the right to those titles the second that bare foot touched my son's stomach," Dad declared fiercely. "From this moment forward, in this house, and in that courtroom, they are just Curtis and Ray. Nothing more. They are just two abusive men who are going to pay for what they broke."
+
+Grandma Loretta slowly nodded, a terrifying, matriarchal fire lighting up in her eyes. She reached out and squeezed Dad’s forearm.
+
+"Just Curtis and Ray," Grandma Loretta agreed, her voice hardening into stone. She looked at Mom. "I am staying the night. Since Michael is downstairs, I will sleep in his empty bed upstairs. Tomorrow morning, when you pick up that telephone to call those lawyers, I am going to sit right next to you at this table. And we are going to take everything they have."
+

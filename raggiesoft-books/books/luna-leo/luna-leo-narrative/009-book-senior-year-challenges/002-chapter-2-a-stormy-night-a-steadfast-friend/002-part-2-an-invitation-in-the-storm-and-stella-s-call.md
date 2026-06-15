@@ -1,0 +1,24 @@
+# Part 2: An Invitation in the Storm – And Stella's Call
+
+Just as Olivia finished her sentence, a much louder, more definitive clap of thunder echoed, this one feeling significantly closer, making both of them jump. Simultaneously, the heavens opened, and rain began to fall in earnest, quickly escalating to a torrential downpour that lashed against the windows with a sudden, fierce intensity. Leo flinched visibly, his focus on their government project completely shattered. Thunderstorms, especially powerful ones that arrived with such ferocity and particularly as night approached, were a well-known and significant trigger for his anxiety.
+
+Olivia looked from Leo’s increasingly anxious face to the maelstrom raging outside. "Okay, new plan," she said, trying for a light tone to mask her own slight unease at the storm's violence. "Definitely *not* walking home in that. That came on fast!"
+
+Leo managed a small, grateful nod, already looking towards his Quantum Communicator XT to type something, when the landline phone in the living room began to ring, its shrill sound cutting through the storm's noise. A moment later, Luna called out, her voice raised to be heard over a fresh onslaught of thunder, "Leo? Olivia? Phone for Olivia! It's your mom!"
+
+Olivia hurried to the living room, Leo following in his wheelchair, Luna already there. Olivia’s mother, calling from the local hospital where she and Olivia's father were both starting a long weekend duty shift, had seen the severe weather alerts rapidly intensifying and was calling to check on her.
+
+"Hi, Mom! Yeah, I'm still at Leo's... No, I was just about to leave, but this storm hit like a freight train out of nowhere... Oh, wow, you're stuck there all night then? Dad too?... Okay... No, that's completely fine, I understand. Stella will be home soon, I'm absolutely sure it's okay if I just wait it out here for a bit... Yeah, the roads are probably going to be a mess... Okay, love you too, be safe and try to stay dry yourselves!"
+
+She hung up, a thoughtful but slightly concerned expression on her face. "Well," she announced to Leo and Luna, "that settles that. My parents are officially 'stormed in' at the hospital for their entire shift. They won't be home until sometime tomorrow morning, and they made it very clear they do *not* want me trying to get home alone in this, even if it does clear up later tonight."
+
+Just then, the front door opened, and Stella arrived home, shaking rain from her coat, her own expression concerned as she took in the intensity of the storm still raging outside. "Wow, this is absolutely wild out there! Olivia, you're still here? Thank goodness! I was getting really worried about you trying to walk home in this!"
+
+Quickly, Olivia and Luna explained the situation: the storm’s sudden, severe onset, Olivia’s parents being unreachable and unable to pick her up due to being on hospital duty all night.
+
+"Right then," Stella said decisively, her gaze shifting from the storm-lashed windows to Olivia’s slightly anxious face, and then to Leo’s, where his fear of the thunder was now plainly evident. "Olivia, you are absolutely not going anywhere tonight. It's not safe, and with your parents at the hospital, there's no question. You're officially staying over. No arguments." Her tone was firm but deeply warm, the responsible adult taking immediate, reassuring charge.
+
+Luna beamed, despite the storm. "Yes! Olivia’s first official Porter sleepover!" she declared, trying to inject some lightness, especially for Leo's benefit. "Stella, you can make your emergency bad-weather pasta, and we can watch that cheesy alien invasion movie Olivia actually likes!"
+
+Leo looked from Stella’s reassuring face to Olivia’s, a mixture of profound relief that Olivia would be staying (especially with the storm escalating his anxiety) and his ever-present storm-induced fear churning within him. He typed on his communicator: "THANK YOU, STELLA. OLIVIA, REALLY GLAD YOU ARE STAYING. MUCH SAFER HERE WITH US."
+

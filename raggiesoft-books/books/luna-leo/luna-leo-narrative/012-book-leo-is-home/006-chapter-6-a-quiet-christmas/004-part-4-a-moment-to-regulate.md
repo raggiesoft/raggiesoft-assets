@@ -1,0 +1,30 @@
+# Part 4: A Moment to Regulate
+
+The American Christmas feast was a resounding success, a warm and happy affair that left everyone feeling full and content. However, as the dinner plates were cleared and the conversation continued to flow, the cumulative effect of two massive holiday celebrations in twenty-four hours began to weigh on Leo. The constant social interaction, the rich food, the sheer number of people—it was all wonderful, but it was also deeply exhausting.
+
+He started to feel a familiar sense of being overwhelmed, the sounds of the room blurring into a low, buzzing hum. He unconsciously gripped the armrests of his chair, a small, tell-tale sign of his growing distress.
+
+Olivia, ever-watchful, noticed the subtle shift immediately. She leaned in close, her voice a low, private murmur. "Hey, you're looking a little tired. Want to go home?"
+
+Leo was about to nod, his first instinct to retreat to the ultimate safety of his own room. But then he remembered the quiet den. He wanted to stay, to keep being a part of this wonderful day. He gave a small shake of his head and then looked towards the den.
+
+"You want to try the safe room first?" Olivia asked, immediately understanding. "Just to see if a little quiet helps?"
+
+Leo gave a small, hopeful nod. He would give it a try.
+
+"Okay," she whispered back. "Let's go."
+
+She quietly excused them from the table, and the two of them slipped into the designated quiet room. The moment the door closed, muffling the happy chaos of the party, Leo let out a shaky, overwhelmed breath.
+
+Olivia didn't waste a second. "Come on," she said softly, kneeling in front of his chair. He immediately leaned forward, and she wrapped him in a fierce, grounding hug, her arms a strong, secure band around him. It wasn't a gentle, comforting hug; it was a firm, therapeutic embrace, providing the deep pressure input he needed to calm his overstimulated nervous system. She held him tightly, her cheek pressed against his, silently anchoring him in the present moment.
+
+For several minutes, they stayed like that, Leo clinging to her, his anchor in the sensory storm. Slowly, she felt the tension leave his body, his breathing evening out. The buzzing in his ears faded, replaced by the simple, profound reality of her presence.
+
+When she finally loosened her embrace, he felt grounded again. He wasn't tired; he had just been overwhelmed. He turned to her and gave her a bright, genuine smile. He picked up his Scribe and typed a simple message.
+
+"I FEEL BETTER. CAN WE GO BACK NOW? I DON'T WANT TO MISS DESSERT."
+
+Olivia laughed softly, a happy, relieved sound. "Of course, *mon chum*," she said, squeezing his hand. "Let's go get some pie."
+
+They re-entered the dining room, the brief, effective retreat having given Leo the strength he needed to rejoin the celebration, ready for the final, sweet part of the evening.
+

@@ -1,0 +1,50 @@
+# Part 3: The Brush with Danger
+
+The discouraging day of failed apartment tours left them feeling deflated. The next afternoon, trying to clear their heads, Chloé and Alex went for a long, winding drive through the sprawling residential heart of Virginia Beach. As they turned onto Indian River Road, a large, familiar-looking complex came into view.
+
+"Wait a second," Alex typed on his Quantum Note, his head turning to get a better look. PULL IN HERE, CHLOÉ.
+
+"Here?" she asked, looking at the sign. "Chesapeake Crossings? Do you know this place?"
+
+I USED TO LIVE HERE, his device voiced, a note of surprise in the synthesized tone. WHEN I WAS A LITTLE KID. FROM 1989 TO 1991. I REMEMBER IT.
+
+Chloé pulled their Avalon into the complex, driving slowly. The two-story buildings, with their weathered vinyl siding, were older, but the grounds were well-kept. As they meandered through the parking lots, Alex suddenly pointed, his hand trembling slightly.
+
+STOP. RIGHT THERE.
+
+Chloé brought the car to a halt. He was pointing at a ground-floor apartment, number 1640 Maize Court. There, breaking the line of the curb, was a simple, asphalt curb cut ramp, weathered and cracked with age.
+
+CHLOÉ. THAT RAMP, Alex typed, his voice full of a dawning, disbelieving awe. THE LANDLORD PUT THAT IN FOR US. SO I COULD GET MY CHAIR ONTO THE SIDEWALK. THAT WAS MY APARTMENT. I CAN'T BELIEVE IT'S STILL HERE.
+
+Chloé stared, her own eyes wide with wonder. The ramp was a tangible piece of his history. On the surface, the complex now looked more than perfect; it felt like destiny.
+
+IT FEELS… LIKE A SIGN, Alex typed. MAYBE WE SHOULD LOOK.
+
+A new sense of hope bloomed. They drove to the leasing office and scheduled a tour for the following afternoon, feeling more optimistic than they had in weeks.
+
+That evening, the seven of them—the Millers, the Masons, and Megan—were gathered in the Millers' living room, watching the ten o'clock news. The lead story came on, the familiar "breaking news" graphic flashing across the screen.
+
+"We're live on the scene of a two-alarm fire at the Chesapeake Crossings apartment complex on Indian River Road..."
+
+The screen cut to dramatic, live footage. Flames licked from the roof of a two-story vinyl-sided building, a plume of thick, black smoke billowing into the night sky. The building, though not the one Alex had lived in, was horrifyingly familiar in its design.
+
+"My God," Emily whispered, her hand flying to her mouth. "James... that's... that's the complex. That's where you three were going to tour tomorrow."
+
+Alex stared at the screen, his body rigid, his earlier hope turning to ice in his veins. A reporter was interviewing a fire chief.
+
+"...the fire-rated walls did their job on the first and second floors," the chief was explaining, "but as you can see, once the fire reached the shared attic space, there was nothing to stop it. It just ran the length of the building through the roof."
+
+The words hit Alex with the force of a physical blow. *A shared attic space. Nothing to stop it.* He thought of his own vulnerability, of the terrifying chaos of an emergency. He remembered the feeling of being trapped.
+
+He looked at Chloé, whose face was pale with the same horrified realization. Megan, sitting beside them, shook her head, her expression grim. "That's a deathtrap," she said, her voice low and furious. "Can you imagine trying to evacuate him from a place like that in a panic? It would be impossible. It's not safe."
+
+Her words solidified the fear they were all feeling. Chloé immediately agreed. "She's right. We can't live there."
+
+Alex, hearing their immediate, protective consensus, reached for his AAC, his fingers moving with a slow, deliberate finality.
+
+CALL THEM IN THE MORNING, his device stated, its voice calm but carrying the unshakeable weight of a commander issuing a final order. CANCEL THE TOUR. WE ARE NOT LIVING THERE. EVER.
+
+Thomas Mason nodded grimly from his chair. "He's right. If one building has that flaw, they all have it. It's a tinderbox."
+
+There was no argument. The decision was absolute. For Alex, a home had to be more than just accessible. It had to be a sanctuary, a fortress. And he knew, with a certainty born from the deepest parts of his trauma, that he would never, ever feel safe sleeping under a roof that was designed to burn.
+

@@ -1,0 +1,78 @@
+# Part 1: The Pattern Disruption – Wednesday, September 18, 2052 – 15:00 (Standard Galactic Time)
+
+The residential living room was bathed in the warm, golden light of mid-afternoon. At exactly 15:00, the estate was operating in a state of quiet, focused domesticity.
+
+Over by the massive hydro-glass windows, nearly-three-year-old Jack was diligently showing his four-month-old twin sisters, Molly and Claire, how to properly stack soft, molecularly printed blocks. The infant girls were lying on their padded floor mat, entirely captivated by their diplomatic big brother.
+
+Wyatt Colton was leaning against the back of the oversized leather sofa. His mechanic's brain was quietly reviewing agricultural expansion blueprints on his datapad, but his dark, protective eyes constantly swept the room, checking his family's perimeter.
+
+Sarah was sitting comfortably on the sofa, a warm cup of herbal tea resting on the reclaimed-wood coffee table in front of her. She was wearing a loose, soft gray tunic and comfortable denim. Wyatt and Sarah had a meticulously planned logistical operation scheduled for 18:00 that evening: during family dinner, they were finally going to announce that their squad was expanding one last time.
+
+But they had fundamentally underestimated the Vanguard.
+
+Leo was sitting on the plush rug directly in front of Sarah’s knees. At nearly seven years old, he was perfectly anchored by his usual deep-pressure support system—Nora was sitting flush against his right side, her arm securely wrapped around his waist. Leo was humming a low, steady, rhythmic note, rhythmically tapping a smooth river stone against his thigh.
+
+Suddenly, Leo’s humming stopped.
+
+His hand froze in mid-air. He blinked, his dark eyes locking entirely onto Sarah’s midsection.
+
+To Leo’s profoundly neurodivergent brain, the entire universe was a complex, rigid system of patterns and geometries. He knew the exact layout of the room, the exact acoustic frequency of the geothermal hum, and the exact physical silhouette of his mother.
+
+And right now, that silhouette was wrong.
+
+The soft gray tunic Sarah was wearing wasn't draping flat against her lap the way it had a month ago. There was a subtle, but undeniable, geometric disruption. A small, firm, distinct curve was pushing outward from her lower abdomen.
+
+Leo didn't panic, but his intense curiosity overrode his usual stationary focus. He leaned forward, his scissored legs shifting slightly against the rug. Very slowly, his trembling, calloused little hand reached out.
+
+Sarah froze, her breath catching in her throat as she looked down.
+
+Leo didn't grab her. He gently, lightly pressed his open palm directly against the small, newly formed baby bump hidden beneath her shirt. He tilted his head to the side, his brow furrowing in deep, analytical concentration as he felt the firm, unnatural tension of the expanding uterine wall.
+
+He pulled his hand back and immediately slammed his palm down on his ruggedized AAC tablet resting next to his knee.
+
+"Different," the automated voice chimed clearly into the quiet living room.
+
+Wyatt lowered his datapad, a slow, completely busted smile spreading across his scarred face. He looked at Sarah, offering a silent, highly amused shrug. Their secret dinner announcement hadn't even made it to the afternoon snack.
+
+Nora, feeling the sudden shift in Leo's posture, leaned forward to see what had disrupted his pattern.
+
+She looked at Leo’s tablet, and then followed his line of sight directly to Sarah’s stomach. Nora’s highly empathetic, deeply observant mind immediately began connecting the dots. She possessed an incredibly sharp memory, and she distinctly remembered the physical changes her mother had gone through before Molly and Claire arrived.
+
+Nora’s dark eyes went completely wide. She gasped softly, her hand flying up to cover her mouth.
+
+She looked up at Sarah, and then over her shoulder at Wyatt. The realization hit her like a lightning bolt.
+
+"Mama," Nora whispered, her breathy, fragile voice trembling with sudden, overwhelming excitement. She pointed a shaking finger at Sarah’s stomach. "Baby?"
+
+Sarah let out a bright, defeated laugh, her hands coming down to rest proudly over the small bump.
+
+"You guys are way too smart," Sarah smiled, tears of pure joy instantly pricking the corners of her eyes. She looked at Nora, and then down at Leo, gently brushing her hand over her son's dark hair. "Yes. Mama is having a baby."
+
+The word "baby" acted like a tactical flare in the living room.
+
+Ellie, who had been quietly observing Jack's block-stacking lesson from the perimeter, instantly spun around. Her heavy canvas boots stomped against the rug as she marched directly over to the sofa, completely bypassing her siblings to conduct her own visual inspection.
+
+The seven-year-old commanding officer stared at the small curve of her mother's stomach. She placed her hands firmly on her hips, her tactical brain processing the sudden influx of new logistics. They already had Jack. They had just integrated Molly and Claire. The roster was getting incredibly dense.
+
+Ellie looked up at Wyatt, her eyes narrowing with a look of intense, administrative scrutiny.
+
+"More?" Ellie demanded, pointing an accusatory finger at Sarah's bump. "We have babies. Why more?"
+
+Wyatt let out a massive, booming laugh, stepping around the sofa to drop to one knee right in front of his oldest daughter.
+
+"Because we have a whole planet to run, Commander," Wyatt grinned, his deep voice radiating absolute, fierce pride. He tapped the center of Ellie’s tactical vest. "And the Vanguard is going to need a lot of recruits to keep the perimeter secure when you all grow up."
+
+Ellie chewed on her bottom lip, evaluating the long-term strategic value of adding more personnel to her unit. She looked over at Molly and Claire, who were currently cooing happily at Jack, and then back at the bump. An expanded roster meant more logistical oversight, but it also meant a stronger, larger force.
+
+She uncrossed her arms and reached out, placing her hand exactly where Leo had touched moments before.
+
+She gave the small bump a firm, commanding pat.
+
+"Okay," Ellie authorized, giving Wyatt and Sarah a sharp, official nod of approval. "Last ones. Unit is full."
+
+"Last ones, El. We promise," Sarah laughed, wiping a tear from her cheek as she pulled her eldest daughter into a tight hug.
+
+Wyatt smiled, resting his massive hand over the top of Nora's head as she leaned happily against his knee. Their perfectly timed dinner announcement had been completely hijacked by the sheer, terrifyingly observant intelligence of their children, but he wouldn't have traded the moment for the galaxy.
+
+The Colton family was growing one final time. And the Vanguard was already preparing to whip the new recruits into shape.
+

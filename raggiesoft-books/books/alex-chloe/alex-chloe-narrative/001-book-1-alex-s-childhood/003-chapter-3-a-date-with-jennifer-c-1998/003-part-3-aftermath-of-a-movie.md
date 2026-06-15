@@ -1,0 +1,48 @@
+# Part 3: Aftermath of a Movie
+
+After the movie, the group of girls spilled out into the bright, noisy lobby of the Riverbend Plaza Cinemas. The awkward hand-hold between Alex and Jennifer had long since been abandoned, but now, a new and far more terrifying ordeal was about to begin.
+
+"See, Jennifer?" Ashley Parker said, her voice a loud, performative stage whisper. "You're too shy! You have to show him you like him!"
+
+Before Alex could process what was happening, he was swarmed. Ashley and the other girls descended on him in a sudden, overwhelming barrage of unwanted physical affection. For Alex, it was a sensory nightmare. He froze, his body rigid, his mind shutting down in a state of pure, panicked defense.
+
+The situation escalated. Ashley, high on her own cruelty, pointed to the single-stall family restroom down the hall.
+
+"I dare someone to take him in there!" she said loudly. "See how friendly he can *really* be." The other girls erupted in a fresh wave of cruel, suggestive giggles.
+
+Alex, in his panicked state, overheard the dare. His mind latched onto the one familiar concept: the family bathroom. He was completely, terrifyingly confused. To him, that was a safe, clinical space where his mother Emily, his aunt Karen, or his cousin Megan would take him to assist with his toileting needs. It was a place of care, not a place for... whatever this was. *But I don't have to go to the bathroom,* he thought, a layer of deep, innocent confusion mixing with his terror. *Why are they daring each other to take me in there? Do they want to help me?*
+
+The thought was instantly dismissed. No. He did not trust them. Not at all. And if he *did* have to go to the toilet, he knew exactly what he would do: ask to use the theater's phone, call his mother who was waiting right outside in the parking lot, and have her come in to help him. The idea of these strange, cruel girls taking him into that private space for their own amusement did not feel right. It felt dangerous. He just wanted to get into the car with his mother and go home.
+
+"That's enough."
+
+The voice was not loud, but it cut through the girls' tittering laughter with the sharp, cold authority of a breaking icicle. A tall, stern-looking man in a manager's uniform was standing there, his arms crossed, his expression a mask of pure, unadulterated fury. He had clearly overheard the entire, disgusting dare.
+
+A profound, overwhelming wave of relief washed over Alex, so intense it was almost dizzying. He had been on the edge of a terrifying abyss, and this stranger, this kind, decent man, had pulled him back from the brink. The ordeal was over. He was safe.
+
+The manager took in the scene instantly: a group of rowdy girls surrounding a single, clearly distressed and non-verbal boy in a wheelchair who just wanted to get away. He also noticed one girl, Jennifer, hanging back from the main group, her face a mask of pure mortification. He correctly identified the aggressors.
+
+"You," he said, pointing directly at Ashley and her two closest friends. "And you, and you. Step aside. Over here. Now. The rest of you, scatter."
+
+The other girls, their faces pale with shock and fear, scattered like cockroaches in the light. The manager calmly took out a small notepad. "I will have your names and your parents' phone numbers. You will wait here quietly while I make a call. Then I will be escorting you out of my theater." He then turned his attention to Jennifer, his tone softening slightly. "Young lady, you seem to have found yourself in some very poor company. I suggest you wait for your ride on that bench over there."
+
+He then knelt down, his expression kind as he addressed Alex, who was still trembling. "Are you alright, son? Is there someone I can call for you?"
+
+Alex, his mind still reeling, just managed a shaky, grateful nod. He fumbled for his wallet and pulled out a small, laminated card with his parents' emergency contact numbers. The manager took it gently. With a trembling finger, he pointed directly to the first line under PRIMARY CONTACTS: Emily Miller (Mother).
+
+The manager understood immediately. He took the card gently, read the number, and Alex nodded. The manager picked up the phone from behind the concession counter and started to dial.
+
+A moment later, outside in the parking lot, Emily Miller’s cell phone buzzed in her purse. She was already there, waiting in her car. Her original plan was simple: Alex would wheel himself out to the curb when he was ready, a small, easy step of independence for him. The call was a jarring surprise.
+
+"Hello?"
+
+"Mrs. Miller? This is John Fleming, the manager at the Riverbend Plaza Cinemas," the man's voice said, calm and professional. "I have your son Alex here with me. He's physically unharmed, but there was an incident with a group of other teenagers. He's very shaken up. I wanted to prepare you before you came in."
+
+Emily’s blood ran cold. "An incident? What happened?"
+
+"A group of girls was harassing him, ma'am," the manager said, his voice tight with a barely controlled anger. "It was a very ugly piece of bullying. I've handled the girls, but your son is quite distressed. I just thought you should know before you see him."
+
+"Thank you," Emily said, her own voice a tight, grateful whisper. "Thank you so much for stepping in. I'm right outside. I'll be there in a moment."
+
+She hung up the phone, her heart pounding with a mixture of pure, white-hot fury and a profound, aching love for her son. The manager's call had been a kindness, but it had also been a warning. She now knew she wasn't just picking up her son from a movie; she was walking into the aftermath of a battlefield.
+

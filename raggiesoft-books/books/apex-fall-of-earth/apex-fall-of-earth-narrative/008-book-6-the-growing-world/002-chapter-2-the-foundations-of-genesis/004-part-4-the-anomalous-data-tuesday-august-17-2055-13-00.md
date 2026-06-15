@@ -1,0 +1,82 @@
+# Part 4: The Anomalous Data – Tuesday, August 17, 2055 – 13:00
+
+The mahogany-paneled library of The Sanctuary was cool and quiet, serving as the Vanguard’s primary classroom for the afternoon.
+
+In the center of the room, the massive holographic glass table was projecting a high-definition, three-dimensional archival video from Earth. Wyatt and Sarah were sitting on the plush leather sofa, carefully reviewing the cultural preservation curriculums that Aria was preparing for the future Genesis village.
+
+Currently, the hologram was playing a restored 1990s acoustic performance. A young woman with bright, expressive eyes and a gentle smile was strumming a guitar, her clear, melodic voice filling the library.
+
+The Vanguard was stationed exactly three feet from the edge of the glass table.
+
+They were an inseparable, heavily armored organism. Leo sat in the center in his titanium Daily Driver wheelchair. Nora stood flush against his right wheel, leaning heavily on her custom titanium forearm crutches. Ellie stood on his left, her arms crossed tightly over her chest, maintaining absolute watchfulness over the room's perimeter.
+
+But as the holographic girl sang, a strange, unprecedented physiological glitch began to occur within the core of the unit.
+
+Leo’s low, steady hum suddenly hitched.
+
+He stared at the glowing blue projection of the girl playing the guitar. His dark eyes went wide, his pupils dilating. A sudden, intense flush of red crept up his neck and flooded his cheeks. His breathing grew shallow and rapid, and his scissored legs tensed sharply against the footboards of his wheelchair.
+
+To Leo’s profoundly neurodivergent brain, the universe was an absolute binary. There was the Vanguard, and there was the outside. He loved his sisters, his parents, and his younger siblings. Everyone else was irrelevant data.
+
+But right now, his biology was aggressively introducing a brand new, terrifying variable. His brain was hyper-fixating on the girl in the projection. He felt a sudden, bizarre flutter in his stomach, and an intense, magnetic urge to keep looking at her face. It was his very first, purely biological pre-teen crush, and it completely shattered his rigid worldview.
+
+Panicking at the loss of internal control, Leo’s hands began to flap wildly. He let out a loud, high-pitched, vibrating wail of absolute confusion.
+
+Nora dropped her crutches instantly. They clattered loudly against the stone floor as she threw her arms around Leo's chest, burying her face into his neck. But her own nine-year-old body was currently swimming in a volatile soup of new hormones. Her empathy, always profound, was completely redlining. Feeling Leo's intense, confusing panic, Nora instantly burst into heavy, empathetic tears, sobbing into his shoulder as she tried to compress him.
+
+"L-Leo, s-safe," Nora stammered through her tears, her breathy voice struggling against her slight speech impediment. She reached down, her shaking fingers tapping the AAC device strapped to her forearm.
+
+"There are no threats in the room. You are safe. I am right here," Nora's AAC chimed, perfectly articulating her desperate need to comfort him.
+
+Ellie didn't cry, but her own biological updates were making her incredibly irritable. She aggressively pulled at the front of her canvas vest, the fabric pulling uncomfortably tight across the tender, newly developing breast buds on her chest. Her center of gravity felt off, her boots felt too tight again, and now her brother was under attack from an invisible enemy.
+
+Ellie climbed up onto the left wheel of the chair, throwing her weight over Leo's shoulder to lock the perimeter down with Nora.
+
+"Threat assessment negative!" Ellie barked, glaring at the walls. "Aria! Scan for acoustic hazards! The unit is glitching!"
+
+On the sofa, Wyatt and Sarah were instantly on their feet. Wyatt’s veteran reflexes flared, but as he looked at Leo’s flushed face and rapid breathing, the mechanic’s brain quickly diagnosed the actual problem.
+
+There was no threat. There was just a nine-year-old boy experiencing the terrifying onset of puberty.
+
+"Aria, pause the projection," Wyatt commanded softly.
+
+The singing girl froze in mid-strum.
+
+Leo let out a massive, shuddering gasp. Anchored by the crushing, desperate weight of his two sisters, his frantic flapping slowed. His hands dropped heavily to his lap tray. With trembling, sweaty fingers, his highly articulate mind raced across his ruggedized tablet to explain the horrific system failure he had just experienced.
+
+"My face is burning and my chest is tight. The data is contradicting my perimeter," Leo's tablet announced into the quiet library, the digital voice loud and frantic. "My brain wants to look at the girl in the projection. I like looking at her. But she is not in our unit. It is a terrifying contradiction. I do not want to leave the Vanguard. Am I broken?"
+
+Sarah’s heart absolutely shattered with love and empathy. She walked over, kneeling down on the stone floor right in front of the wheelchair. She didn't try to touch him—she knew he only accepted deep pressure from his sisters right now—but she made sure she was perfectly in his line of sight.
+
+"Oh, Leo," Sarah whispered gently, her dark eyes shining. "You aren't broken, sweetheart. Not even a little bit."
+
+Leo looked at her, his chest still heaving, tears of sheer confusion welling in his eyes. He kept one hand firmly gripping Nora's arm, terrified that this new feeling was going to pull him away from her.
+
+"Your body is just getting a massive software update right now," Sarah explained, using the mechanical logic his brain preferred. "It's called puberty. It means you're growing into a young man. And part of that update means your brain is going to start noticing people outside of our family. You're going to start thinking girls are pretty. It's perfectly normal biology."
+
+Leo processed this. He looked at his tablet, typing furiously.
+
+"I do not authorize this update. It is highly disruptive," Leo's AAC declared flatly. "I only require Ellie and Nora."
+
+Wyatt let out a warm, booming chuckle, crouching down next to Sarah. "I know it's disruptive, buddy. Believe me, Dada remembers that update. It feels like your brain is short-circuiting. But noticing a pretty girl doesn't mean you're leaving your sisters. You can think someone is nice to look at, and still be exactly where you belong. Your perimeter hasn't changed."
+
+Leo’s dark eyes darted from Wyatt to the frozen hologram of the girl, and then down to Nora, who was still crying softly against his neck, her own hormonal volatility making her overly emotional.
+
+Leo reached over, resting his heavy hand on top of Nora's head to comfort her. He looked at Ellie, who was still scowling and adjusting the uncomfortable straps of her vest.
+
+He understood. The Vanguard wasn't dissolving. He was just experiencing new sensory input.
+
+"The update is terrifying," Leo typed, his body finally relaxing fully against the memory-foam seat. "But I will process the new data. Please resume the projection. I wish to observe the anomaly again."
+
+"You got it, Leo," Wyatt smiled, completely busted by his son's sudden, brave curiosity. "Aria, resume playback."
+
+The hologram flared back to life, the girl's acoustic song filling the room once again.
+
+Leo’s face flushed red immediately, and his humming pitch spiked, but this time, he didn't panic. He just gripped Nora's arm a little tighter, perfectly anchored by his sisters as he stared wide-eyed at the confusing, beautiful anomaly of growing up.
+
+Wyatt stood up, offering his hand to pull Sarah off the floor. They walked quietly back to the sofa, watching the triplets navigate the treacherous waters of their changing bodies together.
+
+"Well," Sarah whispered, leaning into Wyatt's side as she watched Ellie aggressively yank at her canvas vest again. "Puberty has officially breached the hull. God help us all."
+
+"We'll just reinforce the armor," Wyatt smiled, kissing the top of her head. "They're doing great."
+

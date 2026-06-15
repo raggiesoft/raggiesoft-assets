@@ -1,0 +1,32 @@
+# Part 12: A Quiet Day of Decompression (Summer 2006)
+
+The morning after their second trip to Montréal, a profound quiet settled in their Stanstead hotel room. The previous two days of city noise, bustling crowds, and the intense social energy of the deli had been wonderful, but for Alex, it had come at a cost. He woke feeling the familiar, lingering hum of a sensory and social hangover. He was quiet and withdrawn, the world feeling a little too loud, a little too bright.
+
+Chloé and Megan, with their deep, intuitive understanding of his needs, knew this wasn't a day for big plans. This was a day for decompression. Chloé saw him sitting in his chair by the window, his gaze distant, his hands clenched slightly in his lap. Without a word, she came over and knelt in front of him.
+
+He looked at her, his eyes conveying a silent plea for calm.
+
+"I've got you," she whispered, and wrapped her arms around him in a firm, grounding hug. She held him tightly, providing the steady, deep pressure that she knew was more than just a hug for him; it was a lifeline. Alex leaned into her embrace, his body slowly relaxing under the secure weight of her hold. Megan stood by, a quiet, supportive guardian, her presence a second, unspoken layer of safety.
+
+Later that afternoon, when Alex was feeling more regulated, Chloé suggested a low-key outing. "How about a short walk?" she asked gently. "We need to get some ketchup chips for the family dinner tonight."
+
+As they were getting ready to leave, Megan spoke up, a look of genuine, academic curiosity on her face. "Okay, I have to ask," she said to Chloé. "You keep saying we're going to the *dépanneur*. I get that it's a convenience store, but is that a brand name? Or is it just the word for it?"
+
+Chloé's face lit up, happy to share a piece of her culture. "It's the word for it," she explained. "It's Québécois French. It literally means 'one who helps you out of a jam' or 'a troubleshooter.' It's not just a store; it's a neighborhood institution."
+
+"A troubleshooter," Megan repeated, a grin spreading across her face. "Okay, I love that. So much better than 'convenience store.'"
+
+The quiet walk through the familiar town was a welcome change from the chaos of the city. Inside the corner store, they gathered their snacks and then, inevitably, paused at the candy aisle. There, in a brightly colored display, were the classic Koko-Kapsels.
+
+They exchanged a knowing, reminiscent smile. Megan, now in on the joke, shook her head. "The forbidden fruit," she said with a laugh.
+
+STILL A FEDERAL CRIME, Alex's device commented, a hint of humor in the synthesized voice.
+
+Chloé's eyes then scanned the display. "Wait a second..." She pointed to a bag of Koko-Bons. "Look. No toy. Just the chocolate."
+
+OUR TRADITION? Alex's AAC device asked, though he already knew the answer.
+
+"*Bien sûr,*" Chloé replied with a grin, tossing a bag of Koko-Bons into their basket. (Of course.)
+
+After paying for their items, they went directly to their favorite park bench. Chloé tore open the bag of the toy-free chocolate eggs. They sat together, the three of them, eating the creamy, hazelnut-filled chocolates, a familiar and cherished "Canada-only" treat. When they were finished, Chloé bunched up the empty wrapper and tossed it decisively into a nearby Canadian trash can, leaving no evidence to take back across the border. This was simply a small, sweet pleasure they enjoyed one last time before heading back to the United States.
+

@@ -1,0 +1,50 @@
+# Part 7: Wash the Dojang Away – 6:00 PM
+
+The massive family hug in the center of the kitchen finally broke apart.
+
+As the adrenaline of Rachel’s breakthrough began to fade, the physical reality of what we were wearing suddenly caught up to us. Jessica was coated in a fine, powdery layer of white gymnastics chalk, and Rachel and I were still encased in our heavy, sweat-soaked cotton doboks, smelling sharply of the Dojang's linoleum and exertion.
+
+"Okay," Mom laughed, wiping her eyes and standing up from the floor. She affectionately patted Rachel’s shoulder. "I am incredibly proud of you, baby. But all three of you smell terrible. Go get washed up before dinner."
+
+Before we could even move, the sharp clatter of heavy claws scrambling for traction on the hardwood floor echoed from the living room.
+
+Our two black Labs had finally realized we were home.
+
+Baby rounded the corner first. He was a purebred black Lab, but an absolute genetic anomaly in terms of size—he was built like a small Great Dane, a massive, imposing shadow of a dog with the gentlest disposition on the planet. He immediately shoved his massive head directly into my chest, nearly knocking me off balance, his tail thumping rhythmically against the kitchen cabinets.
+
+Archie trotted in right behind him. Archie was from the litter born the year after Baby, making him the younger brother. He was average-sized for a Lab, but he was missing the vision in one eye, leaving it a milky, cloudy blue. He didn't let the blind side slow him down, mostly because his entire existence revolved around a single, absolute mission: showing off his toys.
+
+Archie pranced up to Rachel, proudly holding a frayed, slobber-soaked rope toy in his mouth. He let out a muffled, happy whine through the rope.
+
+"Hi, Archie," Rachel rasped softly. She reached down and scratched him behind his good ear. He didn't drop the toy—he never did—he just wanted her to acknowledge how excellent it was. With Archie, his absolute favorite toy in the world was always whichever one you were currently looking at.
+
+"Alright, shower logistics," Jessica announced, stepping over Archie to take command of the sibling rotation. Privacy was an absolute rule in the house now that we were getting older, meaning the three of us had to carefully coordinate the two available bathrooms. "I call dibs on the upstairs shower."
+
+"Fine," I agreed, scratching Baby’s massive neck. "I’ll take the downstairs."
+
+"Rachel, you come upstairs with me," Jessica instructed. "You can get changed while I shower, and then you can go after me."
+
+Jessica and Rachel headed up the wooden staircase to the second floor, making their way to the bedroom they shared. Jessica would grab her clothes and head straight for the upstairs bathroom. I knew the exact layout of that room by heart: you walked in through the hallway door, and immediately to the left was the sink and the medicine cabinet. Right past the sink was the secondary door that connected straight into Mom and Dad’s master bedroom. Next to that door was the toilet, and tucked into the far wall was the standard tub-and-shower combo.
+
+I left the dogs in the kitchen with Mom and Dad and headed toward my own bedroom on the first floor.
+
+I closed my bedroom door behind me, immediately stripping off the heavy, rigid canvas belt—my brown belt—and letting it drop to the floor. I grabbed a pair of comfortable, loose-fitting sweatpants and a soft cotton t-shirt from my dresser. After the suffocating, scratchy fabric of the martial arts uniform, I needed my day clothes to be as soft and sensory-friendly as possible.
+
+Clothes in hand, I walked down the short hall to the downstairs bathroom.
+
+It was a smaller, more utilitarian space than the one upstairs. I locked the door behind me, the mechanical click offering a profound sense of isolation and safety. Directly in front of me was the sink and medicine cabinet, the toilet tucked tightly beside it, and a standalone shower stall in the corner.
+
+I turned on the water, letting it heat up, and began the agonizing process of peeling off the rest of the Dojang armor.
+
+I pulled the heavy white V-neck top over my head. I untied the drawstring of the pants, letting them fall to the linoleum, and finally reached down to unstrap the hard plastic groin protector I had been wearing underneath.
+
+I tossed the plastic cup onto the sink counter with a loud clatter.
+
+Stepping into the hot water, I closed my eyes and leaned my forehead against the wet fiberglass wall. The steam filled the small bathroom, loosening the tight, spastic muscles in my legs that had been locked up since Master Ray tried to force me through Basic Form V.
+
+The water washed away the smell of the Dojang, the salt from the water fountain, and the echoing memory of Master Curtis’s voice.
+
+Rachel had spoken. She had looked a terrifying adult directly in the eye and defended us.
+
+As the hot water beat down on the back of my neck, I realized I wasn't just washing away a bad practice. I was washing away an entire era of our childhood. The silent, suffocating rules that had governed us were officially broken. We were home, the dogs were happy, and tomorrow, everything was going to be different.
+

@@ -1,0 +1,90 @@
+# Part 2: The Emergency Brake
+
+## Monday, July 14, 2003 21:00 PM
+
+The credits for *Stellar Voyage: The New Era* rolled silently up the screen. The music had faded, replaced by the low hum of the air conditioner and the ticking of the hallway clock.
+
+The "Prime Time Block" was over. The mission was complete.
+
+"Show's over," Jessica announced softly from the recliner. She stood up and stretched, her joints popping in the quiet room. "Time to dock, Captain."
+
+On the sofa, there was no movement.
+
+Freddie lay curled on his side, his head resting heavily in Paige's lap. He didn't lift his head at Jessica's voice. Instead, he did the opposite.
+
+He turned his face inward, pressing his forehead directly into the soft cotton of Paige's t-shirt, burying himself against her stomach. He let out a long, shaky exhale that shuddered through his frame.
+
+Paige looked down at him. She felt the tension in his shoulders, the way his hand gripped the fabric of her shorts.
+
+"He's engaging the brake," Paige whispered to Jessica.
+
+Jessica walked over and looked down at her brother. She saw the signs. The day had taken too much. The Human Sexuality class, the confrontation with Krystal, the tornado siren, the sensory overload of the storm—it had all drained his battery to absolute zero.
+
+He wasn't being stubborn. He was stuck. He was safe right here, in the "Recharge Mode," and the thought of moving, of standing up, of transitioning to the bedroom felt like climbing a mountain without oxygen.
+
+"Battery critical?" Jessica asked gently.
+
+Freddie nodded against Paige's stomach, a tiny, almost imperceptible movement.
+
+"Okay," Jessica said. "Manual override."
+
+She didn't tell him to get up. She didn't tell him to be a man. She simply moved into position.
+
+"Paige, you hold the head," Jessica instructed. "I've got the legs."
+
+Paige shifted her hands, sliding one under Freddie's neck and the other under his shoulder blades. "I've got him," she whispered, stroking his hair with her thumb. "It's okay, Freddie. We're just moving the nest."
+
+Jessica bent down and scooped her arms under Freddie’s knees.
+
+"On three," Jessica counted. "One. Two. Lift."
+
+They hoisted him. Freddie was dead weight, limp with exhaustion. He didn't try to help, but he didn't fight them. He simply kept his eyes squeezed shut, trusting the system.
+
+They carried him down the short hallway—a clumsy, shuffling procession of love. Jessica walked backward, guiding the way. Paige walked forward, cradling his upper body against her chest.
+
+"Watch the doorframe," Jessica warned as they reached the **Silo**.
+
+They navigated the turn into the master bedroom. The room was cool and dark, the blackout curtains already drawn tight.
+
+They lowered him onto the massive King Bed. The mattress absorbed his weight with a soft *whump*.
+
+Freddie immediately curled into a ball, pulling his knees to his chest. He was still wearing his grey lounge pants and t-shirt.
+
+"Armor off," Paige whispered, sitting on the edge of the bed next to him. "You can't sleep in the day clothes."
+
+Freddie groaned, a sound of pure fatigue. He tried to lift his arm, but it flopped back onto the mattress.
+
+"I got it," Jessica said. She moved efficiently. She pulled his socks off. She unbuttoned his pants. "Lift your hips, Freddie."
+
+He managed a weak lift. Jessica slid the pants and underwear down and off.
+
+Paige handled the shirt. She gently lifted his head, pulling the fabric up and over. Freddie let her move him like a doll.
+
+He was left in birthday suit. He shivered slightly in the cool air.
+
+"Cover," Paige said, pulling the heavy duvet up over him.
+
+Now came the final step.
+
+Jessica and Paige stripped off their own clothes quickly in the dark, tossing them into the hamper. There was no hesitation, no modesty. Just the urgent need to complete the circuit.
+
+They climbed into the bed.
+
+Jessica took the left flank. She slid under the covers and immediately wrapped her arm over Freddie’s chest, pressing him down into the mattress.
+
+Paige took the right flank. She slid in and pulled Freddie’s head onto her shoulder. She hooked her leg over his legs, pinning him in place.
+
+They collapsed the space. They pressed in tight, creating a solid wall of warmth and skin on both sides.
+
+"Brake release," Paige whispered into his ear. "You're docked."
+
+Freddie let out a breath he felt like he had been holding since he woke up that morning. The pressure was perfect. The weight of his sisters anchored him to the bed, to the room, to the earth.
+
+He wasn't back at Newman Hall. He wasn't in the storm. He was here.
+
+"Zero percent," Freddie mumbled, his voice thick with sleep.
+
+"We know," Jessica whispered from the other side, squeezing his hand. "Recharging now."
+
+Safe in the sandwich configuration, held by the only two people who knew how to carry him when he couldn't walk, Freddie finally let go. The system entered Sleep Mode.
+

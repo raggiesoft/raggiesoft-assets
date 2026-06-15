@@ -1,0 +1,24 @@
+# Part 10: The Feast of Homecoming
+
+Arthur’s toast and Leo’s heartfelt typed message hung in the warm air, weaving threads of gratitude and relief around the laden dining room table. Now, finally, it was time to simply be together, to savor the normalcy of a shared holiday meal.
+
+The table itself was a testament to Eleanor’s and Arthur’s loving efforts. The turkey, roasted to a perfect golden brown, took center stage, surrounded by bowls overflowing with mashed potatoes, gravy, fragrant sage stuffing, and green bean casserole. Eleanor had carefully slid the jellied cranberry sauce out onto a small dish, where it stood proudly displaying the clear ridges from the can.
+
+Plates were filled generously. For the first time in years, the siblings weren’t navigating a tense holiday overshadowed by their parents' neglect. Here, there was only warmth. Leo ate with an appetite Stella hadn't seen in a long time, his eyes lighting up with particular delight as Stella spooned a generous, perfectly shaped slice of the jellied cranberry sauce onto his plate. Luna, catching his expression, chuckled. "Still your favorite part, huh Leo?" He gave an enthusiastic nod before diving into it first.
+
+Arthur, playing the cheerful patriarch, kept the conversation flowing, while Olivia, sitting between Leo and Luna, kept a quiet, watchful eye on her best friend, her presence a comforting constant. She made sure his water glass was full and passed him the rolls, her focus entirely on his well-being.
+
+Stella leaned back in her chair, savoring not just the delicious food but the atmosphere itself. She watched her siblings interacting comfortably, saw the genuine affection exchanged across the table, and glanced at Olivia, whose easy, natural presence felt as if she had always been there. This simple, loving normalcy was the very thing she had fought so hard to give them.
+
+As they gathered around the table, a moment of profound, grateful quiet settled over them.
+
+Arthur cleared his throat, raising his water glass. "To Stella," he said, his voice thick with pride, "and to Olivia. For bringing our family home." Eleanor echoed the sentiment, her eyes shining.
+
+As everyone murmured their agreement, Olivia leaned closer to Leo. "I meant what Stella and I talked about, Leo," she said softly, so only he and Luna could hear. "I take being a co-guardian very seriously. I'll always be here to help protect you and Luna. Always."
+
+Leo looked at her, his expression one of profound gratitude and relief. He reached for Luna's AAC device. The synthesized voice was quiet but clear: THANK YOU LIV. MEANS A LOT. GLAD YOU ARE HERE.
+
+Luna, who had heard Olivia’s promise, put her arm around her friend's shoulder. "We're both glad," she said, her voice full of a deep, sisterly affection. "It's good to have you on the team. Officially."
+
+Here, surrounded by unconditional love, having faced down the fear and been brought home, there was no need for a painted smile. The relief wasn't just about escaping danger; it was the profound freedom of finally being able to let the mask fall, to simply be, safe and accepted, with the people who truly saw him. He didn't have to pretend anymore. He was home.
+

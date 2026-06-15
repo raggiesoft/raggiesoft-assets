@@ -1,0 +1,46 @@
+# Part 5: The Captain's Quarters – Monday, October 24, 2044 – ~07:30
+
+Wyatt turned away from the glowing amber CRT monitor and the heavy silence of the command center. He followed Sarah down the narrow, curved corridor of Outpost Delta 9.
+
+As they walked, Wyatt ran his taped hand along the heavy, brushed-steel bulkheads. You could tell just by looking at the architecture that when this station was first launched into the dark, it wasn't a forgotten relic; it was the absolute bleeding edge of corporate technology. Decades ago, Delta 9 had been the crown jewel of Apex's frontier expansion. It was built with pride, designed to be a state-of-the-art, impenetrable fortress at the edge of the known territories.
+
+Sarah stopped at the end of the corridor in front of a heavy, pressurized door marked *QUARTERS - COMMANDER*. She didn't have to scan a biometric tracker or wait for an algorithm to grant her permission. She just reached out, gripped the heavy mechanical latch, and pulled it down with a satisfying metallic *clank*.
+
+The door slid open with a pneumatic hiss. Wyatt stepped into the room behind her, and for a moment, they both just stopped and stared.
+
+It was a massive upgrade from anything Apex Defense Solutions offered its modern workforce. The room was spacious, lined with retro-futuristic wood-grain laminate and heavy, carpeted flooring that completely muted the metallic hum of the station. Built into the wall was a personal viewport, currently shielded by a heavy, manual blast shutter.
+
+But the centerpiece of the room was the bed.
+
+It was a massive, genuine queen-sized mattress set into a recessed, padded alcove. It was flanked by analog control panels with heavy yellow and white toggle switches for the room's lighting and temperature. It was made up with thick, real fabric blankets, not the stiff, scratchy material of a corporate deployment bag.
+
+Wyatt let out a low, disbelieving breath. This room was built for a high-ranking pioneer, a Captain or a Director who demanded luxury while overseeing the edge of civilization. It was explicitly, undeniably *not* designed for a minimum-wage S.H.O.P. Marine and a Helios Field Safety Technician.
+
+And it certainly wasn't designed for two terrified grunts who had fallen hopelessly in love in forty-eight hours.
+
+Sarah walked over to the edge of the mattress. In her bright, slate-blue Helios uniform, she looked entirely out of place in the dark, heavy-duty military aesthetics of the station, but Wyatt thought she had never looked more perfect.
+
+She pressed her hand into the mattress. It actually gave way, soft and supportive. She looked back at Wyatt, her eyes shining with a mix of exhaustion and sheer, unadulterated joy.
+
+"It's a real bed," she whispered, a breathless laugh escaping her lips. "Wyatt, we don't have to sleep on a cracked vinyl sofa. We don't have to share thirty inches of a Twin XL."
+
+Wyatt dropped his canvas duffel bag onto the carpeted floor. He unclipped the heavy Mark-IV flashlight from his belt, setting it down on the wood-grain nightstand. The crushing, claustrophobic survival instincts that had kept his muscles coiled tight for four days finally, completely unspooled.
+
+He closed the distance between them, stepping right into her space. He reached out, his hands resting on her waist.
+
+"It's all ours," he told her, his voice a quiet, deeply grounding rumble. "No shift klaxons. No armed guards. Just us."
+
+Sarah didn't hesitate. she threw her arms around his neck, pulling him down into a slow, incredibly tender kiss. There was no desperate, adrenaline-fueled panic behind it this time. They weren't kissing like the world was ending; they were kissing like their lives were finally beginning.
+
+When they finally broke apart, they didn't bother unpacking. They kicked off their heavy boots and climbed right into the center of the queen-sized bed.
+
+For the first time since they had met, they actually had the physical space to stretch out. They could have slept on completely opposite sides of the mattress without touching.
+
+But as Wyatt lay back against the thick pillows, Sarah immediately closed the gap. The luxury of space didn't matter. She crawled right against his side, resting her head on his chest, her arm wrapping tightly around his torso. Wyatt wrapped his broad arm around her shoulders, holding her securely against him, his chin resting on the top of her head.
+
+They had sixty inches of state-of-the-art, retro-futuristic comfort, and they were still sleeping exactly the way they had on that cramped, vinyl sofa. They were completely, undeniably anchored to each other.
+
+Wyatt reached out, flipping the heavy analog switch on the nightstand. The amber lights of the cabin clicked off, plunging the room into a quiet, peaceful darkness. He held the woman he loved, listening to the steady, mechanical hum of Outpost Delta 9, and finally let himself sleep.
+
+
+

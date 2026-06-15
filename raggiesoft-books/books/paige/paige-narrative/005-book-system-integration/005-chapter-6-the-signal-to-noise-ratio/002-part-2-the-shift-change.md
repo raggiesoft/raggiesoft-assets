@@ -1,0 +1,34 @@
+# Part 2: The Shift Change
+
+## Tuesday, November 11, 2008 — 17:15 PM WWRC Dining Hall
+
+The Signal died the moment she walked out of the lab. The Static took over.
+
+The Dining Hall was the epicenter of the chaos. It was a large, echoey room divided by an invisible timeline.
+
+17:00 - 17:45: PERT Students (High Schoolers). 17:45 - 18:30: Adult Vocational Clients.
+
+Harper sat at a round table near the exit, her tray guarding her space like a shield wall. She was eating mashed potatoes, trying to make herself as small as possible.
+
+Around her, the high schoolers were vibrating with drama.
+
+"I told you," a girl with aggressive eyeliner shrieked at a boy two tables over. "If you sit with her, we are done."
+
+"It's just a seat, Ashley!" the boy shouted back, slamming his tray down.
+
+Harper winced. Volume spike, she noted. Emotional regulation: Failed.
+
+To her left, a group of girls were whispering furiously about a rumor involving a stolen MP3 player. To her right, a guy was bragging loudly about how he was going to sneak out past curfew to meet a girl from the Nursing Assistant program.
+
+It’s inefficient, Harper thought, stabbing her green beans. It’s just noise.
+
+She checked her watch. 17:40.
+
+The doors opened. The adult clients began to line up in the foyer, waiting for the PERT students to clear out.
+
+Harper watched them through the glass partition. It wasn't any better. She saw a man and a woman arguing intensely near the vending machines, their body language sharp and jagged.
+
+Adults are just tall teenagers, Harper realized with a sinking feeling. The drama doesn't stop. It just gets louder.
+
+She finished her food quickly. She didn't want to linger. She wanted to get back to the one place that was supposed to be safe.
+

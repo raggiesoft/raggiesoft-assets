@@ -1,0 +1,14 @@
+# Part 1: The World Shuts Down (March 2020)
+
+The Leclerc living room in Stanstead was a haven of warmth and laughter, a welcome escape from the lingering late-winter chill. Alex, Chloé, and Megan, now 34 and 37 respectively, were in the middle of a week-long visit with Chloé's family, their first in years. It was a trip filled with the comfortable joy of rediscovering old haunts and reconnecting with loved ones.
+
+On the afternoon of March 20th, 2020, they were all gathered, watching the news. A somber report came on, the words hitting the quiet room like a physical blow: effective at midnight, the U.S.-Canada land border would be closing to all non-essential travel to combat the growing COVID-19 pandemic.
+
+For a moment, there was just stunned silence.
+
+"*C'est pas possible,*" Aunt Geneviève whispered, her hand going to her mouth. (It's not possible.)
+
+The implications crashed down on all three of them in a tidal wave of panic. Their flight home to Seattle was booked out of Montréal in three days. They had a Canadian rental car. And the world was shutting down around them, trapping them on the wrong side of a suddenly hardened border.
+
+"Okay," Chloé said, her voice tight with an adrenaline she hadn't felt in years. "Okay, we have to go. Right now. We have to get across before midnight."
+

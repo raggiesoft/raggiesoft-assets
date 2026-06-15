@@ -1,0 +1,58 @@
+# Part 9: The Sanctuary – Friday, October 21, 2044 – 11:00 (With two hours left on the twelve-hour clock)
+
+With two hours left on the twelve-hour clock, Wyatt subtly steered the patrol route back through the neglected outer filtration banks. The deafening thud of the deep-core drills faded into a distant, manageable throb. He kept his hand firmly laced with Sarah’s, their thumbs tracing slow circles against each other as they navigated the rusted, dust-choked corridors.
+
+They reached the heavy, unlatched blast door of the abandoned break area. Wyatt released her hand just long enough to grip the rusted handle, throwing his weight backward to heave it open. They both slipped inside, and he immediately pulled the door shut behind them, cutting off the noise of Sector 4.
+
+The silence of the room enveloped them like a physical blanket.
+
+"Alright," Wyatt said, keeping his voice low as he unclipped his heavy Mark-IV flashlight. "Let's make sure this wasn't just a fluke. Check your pad."
+
+Sarah pulled out her battered Apex datapad. The screen flickered, struggling to find a network connection through the thick, lead-lined walls of the filtration sector. A red *SIGNAL LOST* banner flashed across the top.
+
+"GPS coordinates are completely blank," she confirmed, a triumphant smile touching her lips. "The automated grid thinks we're just standing in a blind spot on the upper catwalk."
+
+Wyatt shone his flashlight into the upper corner of the room. The automated security camera was still a dead, drooping husk. The frayed power cable hadn't magically reconnected. They were utterly alone.
+
+Sarah stepped past the cracked vinyl sofa and the humming vending machine, her own flashlight beam sweeping the back wall of the room.
+
+"Wyatt," she called out softly. "There's another door back here."
+
+He stepped up behind her. It was a narrow, unmarked metal door tucked into a recessed alcove. Wyatt reached out, turned the latch, and pushed it open. They both froze, staring into the small, grimy room.
+
+It was an executive-tier, private washroom, likely built for the filtration engineers before Apex Defense Solutions fully automated the sector and abandoned the area. There was a rusted metal sink, a standard-issue toilet, and, most unbelievably, a small, enclosed shower and tub combo tucked into the corner.
+
+Sarah stepped inside, her boots crunching slightly on the dusty tiles. She reached out to the shower controls, hesitating for a second before gripping the squeaking, oxidized valve. She turned it hard.
+
+The pipes behind the wall groaned violently. A second later, a sputtering burst of freezing, iron-smelling water shot from the showerhead, splashing against the faded fiberglass tub. After a few seconds, the flow steadied into a consistent, heavy stream.
+
+Sarah turned off the valve, the sudden quiet rushing back in. She looked at the sink, then at the toilet, and finally turned around to look at Wyatt. Her eyes were wide with sheer disbelief.
+
+"It works," she whispered. "All of it works."
+
+Wyatt leaned against the doorframe, a slow, incredulous smirk spreading across his scarred face. He thought back to the absolute misery of the communal washroom in Sector 1—the dead-eyed contractors, the total lack of partitions, the feeling of being completely stripped of your humanity.
+
+"We don't have to go back to the barracks," Wyatt said, his voice thick with realization. "We don't have to fight for that thirty-inch mattress, and we don't have to shower with an armed Supervisor watching the door. We can just... stay here."
+
+"Our own camp," Sarah breathed out, the reality of it hitting her all at once.
+
+She crossed the small, tiled space in two strides, throwing her arms around his neck. Wyatt caught her immediately, his hands gripping her waist as he pulled her flush against him. She kissed him—not the tentative, exploring kiss from earlier, but a deep, fiery, completely uninhibited kiss fueled by the absolute thrill of pulling one over on the massive corporate machine.
+
+Wyatt kissed her back just as hard, his tongue meeting hers, tasting the adrenaline and the sudden, overwhelming joy. In the middle of the most hostile, soul-crushing environment on Earth, they had just carved out a private paradise.
+
+"We have to finish the shift," Wyatt murmured against her lips, his breath hot against her skin. "If we don't clock out at the checkpoint, they'll lock our ration cards."
+
+"I know," Sarah whispered, resting her forehead against his chin, completely reluctant to let him go. "But then we come right back here."
+
+"Right back here," Wyatt promised, giving her one last, tight squeeze before stepping back.
+
+They both exited the washroom, crossed the dusty break area, and heaved the heavy blast door open. They stepped back out onto the grated catwalk, the noise of Sector 4 crashing over them once again.
+
+But as they resumed the final leg of the patrol, the crushing weight of the facility was entirely gone. There was a new, undeniable spring in Wyatt's step. His blood was pumping, and the exhaustion in his legs had vanished. Sarah walked beside him, her chin held high, the terrified rookie completely replaced by a confident, capable woman who knew exactly what she was fighting for.
+
+They both knew the rules, though. This wasn't just about hiding a smile from management. The glaring visual contrast between Wyatt's heavy, black-and-yellow S.H.O.P. Marine armor and Sarah's bright slate-blue Helios FST uniform made them a walking corporate violation. Fraternization was frowned upon generally, but crossing departmental lines like this was strictly forbidden. If a red-banded Supervisor caught a hardened security veteran involved with an acquisition transfer, they wouldn't just be separated—they'd be heavily disciplined, interrogated, and likely reassigned to the most hazardous zones in the facility as punishment.
+
+So, as they approached a lit intersection, they both consciously dropped the smiles. They let the stoic, dead-eyed contractor masks slide perfectly back over their faces. They stopped holding hands in the open, keeping a disciplined six inches of space between their shoulders. To the broken automated cameras and the terrified, shotgun-toting guards, they looked like just another pair of exhausted grunts counting the seconds until the twelve-hour klaxon.
+
+But out of their line of sight, hidden in the narrow space between their bodies, Sarah’s pinky finger reached out and quietly hooked around his. Wyatt squeezed it once. The secret was completely safe.
+

@@ -1,0 +1,46 @@
+# Part 1: The Descent – Monday, October 24, 2044 – ~11:15
+
+The heavy, metallic dread of the emergency broadcast still hung in the air as Wyatt and Sarah left the Hydroponics Bay. They didn't speak about Los Angeles or the Colorado River. They didn't need to. The sheer scale of the nightmare had pushed them past the point of panic and straight into cold, mechanical survival.
+
+If Earth was sinking, they needed to make absolutely sure Delta 9 was watertight.
+
+"Alright," Wyatt said, his voice cutting through the quiet hum of the central corridor. He stopped at the heavy, grated hatch set into the floor of the primary hub. "The ebb-and-flow timer needs a new gear, and we need to check the primary life-support scrubbers. Both of those are down in the pit."
+
+He grabbed the heavy iron locking wheel, muscles straining against decades of rusted inertia, and spun it. With a violent *CLANG*, the locking pins disengaged. Wyatt hauled the heavy hatch upward on its massive hinges, revealing a vertical drop into the lowest gravitational ring of the station.
+
+A wave of blistering heat instantly rolled up from the shaft, hitting them like a physical wall. It didn’t smell like the rich, wet earth of the gardens or the sterile ozone of the command center. It smelled like burnt copper, atomized machine grease, and the raw, vibrating energy of splitting atoms.
+
+Wyatt looked at Sarah. The heat radiating from the open hatch was intense. "It's going to be around ninety-five degrees down there. You don't have to—"
+
+"I'm coming," Sarah interrupted, her tone leaving absolutely zero room for negotiation. She had her new, heavily weathered corporate notebook tucked securely under her arm.
+
+Wyatt just nodded. He understood completely. After the meat-grinder of Sector 4, "Line of Sight" wasn't just a preference; it was a biological imperative. The idea of him climbing down into the blind, deafening belly of the station while she waited alone in the quiet corridors above was a psychological impossibility for both of them.
+
+"Watch your step," Wyatt warned, swinging his legs over the edge and gripping the thick iron rungs welded into the bulkhead. "The metal is slick."
+
+Sarah followed right behind him, the heavy iron hatch remaining open above them.
+
+As they descended into the Engineering Deck, the ambient noise of the station vanished, swallowed entirely by a deafening, rhythmic roar. Delta 9 didn't run on sleek, silent anti-matter drives. The room at the bottom of the ladder was dominated by a massive, lead-lined containment cylinder—an archaic, localized fission reactor that powered the entire grid.
+
+Wyatt’s boots hit the grated floor plates, and the physical vibration of the reactor traveled straight up his legs and into his teeth.
+
+The room was a terrifying, chaotic tangle of exposed primary coolant lines, heavy brass pressure valves, and thick black cabling zip-tied to the bulkheads. The lighting was harsh, flickering amber, casting long, erratic shadows across the grease-stained walls.
+
+Sarah reached the bottom, wiping a sudden bead of sweat from her forehead. She looked around the claustrophobic, mechanical hellscape. It was the absolute antithesis of her Hydroponics Bay.
+
+"It's loud!" Sarah shouted over the heavy, rhythmic thrum of the reactor.
+
+Wyatt didn't look intimidated. In fact, as he looked up at the massive, shuddering containment cylinder, the tight knot of anxiety that had been sitting in his chest since the EBS broadcast finally started to loosen.
+
+This was his domain. Down here, there were no unkillable biological anomalies or falling cities. There was only torque, pressure, and physics. It was a language he spoke fluently.
+
+Wyatt reached back, grabbed the hem of his black undershirt, and pulled it over his head, tossing it onto a rusted railing. The ambient heat of the room was already making his skin gleam with sweat in the amber light. He walked over to a massive, heavily dented red toolbox bolted to the floor and kicked the latches open.
+
+"Find a spot clear of the steam vents!" Wyatt yelled back to her, pulling a massive, heavy iron wrench from the bottom drawer. It looked more like a medieval weapon than a precision tool. "I'm going to bleed the secondary coolant lines before we start pulling parts for your water pump!"
+
+Sarah scanned the room and found a heavy, overturned supply crate tucked safely into a corner near the primary ladder, well away from the blistering hot pipes. She sat down, opening her weathered notebook.
+
+She wasn't a mechanic, and she couldn't hear herself think over the roar of the reactor. But as she watched Wyatt step up to the massive machine, his muscles flexing as he locked the heavy wrench onto a seized pressure valve and threw his entire body weight into breaking it loose, a profound sense of security settled over her.
+
+He was in his element. He was keeping their lifeboat afloat. And most importantly, he was right there where she could see him.
+

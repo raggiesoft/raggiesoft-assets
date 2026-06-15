@@ -1,0 +1,16 @@
+# Part 3: Quantum Communicators Arrive - Finding Their Voices
+
+Just two days later, Ms. Collier called. "Stella? The Quantum Communicators are in. They're programmed with the core vocabulary we discussed, and they're ready for Luna and Leo. Can you bring them in this afternoon?"
+
+The excitement was palpable as Stella drove them to Ms. Collier's office later that day, Leo navigating his new wheelchair with a surprising confidence and fluidity that already spoke volumes.
+
+Ms. Collier greeted them warmly and presented two sleek, new devices. "Alright, Leo, this Quantum Communicator is an XT model, very robust, with excellent voice output. We've loaded it with a strong core vocabulary and some pages specific to school subjects to get you started."
+
+Leo reached for it, his expression one of intense focus. His experience with the MagnaByte Opus at school, though a different system, had given him a foundational understanding of keyboard-based communication. As Ms. Collier guided him through the initial power-up, Leo’s fingers explored the touch screen and keypad with an almost hungry curiosity. He quickly found the main communication page and typed, "Hello, Ms. Collier. Thank you." The clear, synthesized voice filled the room, and Leo’s smile was radiant. He then, without prompting, began navigating through menus, exploring icons, his learning curve astonishingly rapid. It was as if a door he’d been pushing against for years had suddenly swung wide open.
+
+Then, Ms. Collier turned to Luna, handing her a slightly different Quantum Communicator model, perhaps an ST with a more streamlined interface. "And Luna, this one's for you. We've focused on quick access to vocabulary that can help when you're formulating complex sentences or if you're in a situation where you want to ensure absolute clarity. Think of it as your backup, your clarifier."
+
+Luna held the device, looking slightly overwhelmed but intrigued. She’d always been verbal, but the frustration of her words tangling, especially when she was nervous or had a lot to say, was a familiar burden. She tentatively typed, "My name is Luna Porter. I play the tenor saxophone." The device spoke her words perfectly, without a hint of her usual occasional stumble. A look of quiet amazement crossed her face.
+
+"You'll both have learning curves," Ms. Collier cautioned gently, "getting used to them, customizing the vocabulary. But these are powerful tools. They'll open up a lot of doors for you, especially in high school." She scheduled follow-up appointments for more in-depth training and personalization. Stella diligently took notes on her laptop, ensuring she had all the details for follow-up.
+

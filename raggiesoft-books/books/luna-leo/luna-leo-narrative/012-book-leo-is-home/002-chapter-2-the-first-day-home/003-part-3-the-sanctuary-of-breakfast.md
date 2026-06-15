@@ -1,0 +1,20 @@
+# Part 3: The Sanctuary of Breakfast
+
+The half hour it took for their grandparents to arrive was a period of quiet, gentle transition. Luna, having helped Leo with his morning routine, now sat with him on the sofa. Olivia, who had quickly showered and changed, joined them, settling on his other side. They didn't talk much; their presence was the conversation. They created a warm, living fortress around him, their easy physical closeness a constant, unspoken promise of safety.
+
+The doorbell chimed, and Stella opened it to Arthur and Eleanor Bennett, their arms laden not with shopping bags, but with boxes of donuts, a bag of fresh bagels, and a large thermos.
+
+"Reinforcements have arrived!" Arthur announced cheerfully, his gaze immediately finding Leo on the sofa. "And we come bearing gifts!"
+
+Eleanor, bypassing everyone else, went straight to her grandson. "Morning, dear boy," she said softly, cupping his clean-shaven cheek. "Stella said you had a special request?" She held up the large thermos, a knowing, loving smile on her face. "One extra-large, extra-chocolatey hot chocolate, just for you."
+
+Leo’s eyes lit up with a pure, uncomplicated joy that the whole room could feel. He gave her a small, grateful nod. It was such a simple thing—a hot chocolate—but after months of having his smallest comforts and choices denied, the act of asking for something and having it delivered with such love felt monumental.
+
+Soon, they were all gathered around the kitchen table. The chaos of a typical Black Friday morning was happening all over Norfolk, but inside the house on Lisa Court, there was only a profound sense of peace. The table was laden with a simple feast: a colorful assortment of donuts, warm bagels with cream cheese, and steaming mugs of coffee for the adults.
+
+And in front of Leo sat his prize: a huge mug of rich, steaming hot chocolate, just as he had wanted.
+
+The three women maintained their loving vigil. Stella sat across from him, her eyes rarely leaving his, her expression one of deep, watchful relief. Luna and Olivia flanked him, their chairs pulled a little closer than necessary, their easy chatter and occasional reassuring touches creating an impenetrable bubble of security. They weren't just having breakfast; they were actively rebuilding his sanctuary, one donut and one sip of hot chocolate at a time.
+
+He ate with a quiet, focused enjoyment, a boy who was finally, simply, being allowed to exist without fear. He was home. He was safe. And for the first time in a very long time, that was more than enough.
+

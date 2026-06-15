@@ -1,0 +1,34 @@
+# Part 2: Boardwalk Blasts & Budding Bonds (A Few Days Later, Summer 1999)
+
+The "later this week" for ice cream, proposed by Chloé during their very first meeting, turned out to be a warm Saturday afternoon just a few days later. The memory of Chloé’s unexpected, warm "big squeeze" hug still lingered with Alex, a novel and deeply comforting sensation that was at war with a more recent, painful memory. Chloé, spotting Alex in his yard again, had bounded over, her enthusiasm infectious. "Boardwalk Blasts & Cones! Today? Are you free, Alex?"
+
+Alex, with a newfound eagerness tempered by a cautious hesitation, had readily agreed via his AAC.
+
+Naturally, the parents were looped in. Emily Miller had called Sophie Mason, and the two mothers, already observing the magnetic pull between their only children, quickly decided to make it a joint family excursion.
+
+So, on Saturday, the six of them walked the few short blocks from Lisa Court to the Woods Corner Shopping Center. The mood was light, filled with the easy chatter of new acquaintances. Alex and Chloé walked (and wheeled) slightly ahead. Chloé was animatedly describing a particularly disastrous attempt she’d once made at building a treehouse. Alex, listening intently, would type out witty observations on his AAC. He was enjoying himself, but a part of his mind remained on high alert, a quiet, anxious sentinel scanning for any sign of a trick, a dare, a hidden motive.
+
+Boardwalk Blasts & Cones was a cheerful, slightly old-fashioned parlor, its walls adorned with faded photos of the Virginia Beach Oceanfront. The powerful blast of air conditioning was a welcome relief from the sweltering summer heat. They found a large booth in the corner, Alex easily maneuvering his wheelchair to the head of the table.
+
+As they all looked over the colorful menu board, Chloé turned to Alex, her eyes sparkling. "Okay, my new friend," she said, leaning in and giving him another quick, affectionate squeeze-hug around his shoulders. "My treat for you today, for being such an awesome neighborhood guide!"
+
+Alex flinched, almost imperceptibly, at the sudden, public display of affection. His mind flashed back to the movie theater lobby, to the feeling of being swarmed. But this was different. It wasn't performative. It was just... Chloé. He forced a small, hesitant smile.
+
+The parents, charmed by her earnestness, smiled. "That’s very sweet of you, Chloé," James Miller said. "But why don't you just treat Alex, and we adults will get our own?"
+
+"Okay!" Chloé agreed readily, beaming at Alex.
+
+Chloé proudly ordered two "Boardwalk Blasts"—towering concoctions of blue raspberry and lemon slushie layered with vanilla soft-serve—and carefully paid with her own allowance money. Soon, they were all settled with their frozen delights.
+
+Alex took his first spoonful. The intensely sweet and sour flavor was a jolt of pure, childish joy. He looked over at Chloé, who was watching him with a happy, expectant grin. She took a big spoonful of her own and then, with a playful, mischievous look, stuck her tongue out. It was a bright, shocking, electric blue.
+
+Alex laughed, a real, unforced sound. He took another spoonful and then, without a second thought, stuck his own tongue out. It was just as blue. They both giggled, two fourteen-year-olds in a silent, perfect, and completely silly moment of connection.
+
+This was a profound moment of healing for Alex. This was what a "date," what spending time with a girl, was supposed to feel like. It wasn't the cold, awkward, and performative hand-holding with Jennifer. It wasn't the cruel, mocking laughter of Ashley Parker and her friends. This was just... fun. It was easy, and it was real.
+
+As they enjoyed their ice cream, Chloé could sense a subtle shift in him. The anxious sentinel in his mind had finally, truly, stood down. She had noticed his initial tension and had made a silent promise to always be a safe person for him. Watching him now, so relaxed and genuinely happy, she knew she was succeeding. The kind of hug she gave him, a hug that was just a hug, felt as safe to him as the ones he got from his cousin Megan, a difference his entire nervous system was beginning to recognize and cherish.
+
+The six of them walked back towards Lisa Court in the late afternoon sun. For the parents, this simple ice cream outing was a confirmation. Their children had found something truly special in each other. The foundation of a lifelong platonic partnership was being joyfully laid, one shared, ridiculously blue slushie and one heartfelt, healing hug at a time.
+
+For James, Emily, Thomas, and Sophie, this simple ice cream outing was more than just a pleasant afternoon. It was a confirmation. Their children, two only children who had perhaps carried a quiet loneliness, had found something truly special in each other. The bond was instant, easy, and undeniably genuine. As they watched Alex and Chloé, already inseparable, already communicating with an understanding that transcended words, they knew this summer was going to be different, and that their lives, and their children's lives, had just become immeasurably richer. The foundation of a lifelong platonic partnership was being joyfully laid, one boardwalk blast (Chloé’s treat for her new best friend) and one heartfelt hug at a time.
+

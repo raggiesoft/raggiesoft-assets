@@ -1,0 +1,28 @@
+# Part 4: An Uneasy Evening (Friday)
+
+Pulling into the driveway of the small house on Daniel Maloney Drive felt less like arriving home and more like bringing the tension indoors. The moment the car stopped, Stella and Luna got out to help Leo, the transfer out of the back seat just as awkward as getting in. Delores retrieved her own bag from the trunk and surveyed the house with a critical eye.
+
+"It's... small," she commented as they entered. "Are you sure there's room for all of us?"
+
+"We'll manage," Stella replied shortly. "The sofa pulls out. Linens are in the closet."
+
+The atmosphere was immediately strained. Luna, still maintaining her protective bubble around her brother, refused to leave his side. She kept a firm, loving grip on the back of his wheelchair, an unspoken, non-verbal challenge to Delores. We are at my house now, her posture seemed to say. Delores, recognizing the shift in territory and still wary of Stella's authority, didn't dare comment on the hug, but her resentment was a palpable, chilling presence in the small living room.
+
+Leo didn't even wait for the tour or pleasantries. Bypassing the living room, he immediately wheeled himself towards the familiar corner housing the dual MagnaByte Opus setup. He hadn't just sought refuge; he'd genuinely *missed* his machine. Back at Delores's place, homework meant struggling with a clunky Quantum OS NX machine running WritePad 2003 – a system he *hated* for its confusing interface and lack of intuitive controls, made worse by Delores often dictating *when* he was allowed to work on assignments. Here, finally, was his chance to use the tools he was comfortable and competent with, free from both the frustrating Quantum environment and Delores's control over his work time. After navigating college assignments on that difficult system, he craved the comfort and competence he felt using the MagnaByte – the satisfying click of the keys, the predictable interface of MagnaSuite. Here, at least, was an environment where he felt capable and could actually focus on the homework he needed to do, on his *own* terms.
+
+Stella watched him go straight to the computers, bypassing any social interaction. A sudden thought struck her, connecting his immediate need for the familiar MagnaByte with the subtle decline she’d noticed in his recent college grades. *Could this be why?* she wondered silently, a knot of worry tightening in her stomach. *Is he struggling that much with the Quantum computer at Delores's? Is she making it hard for him to even get his work done?*
+
+Her thoughts were interrupted as Delores followed Leo over to the computer corner. "Leo, maybe you should rest first? Instead of playing on that old thing?"
+
+"He's fine, Delores," Stella intervened, stepping between them. "He likes to unwind here. Why don't you get settled on the couch?"
+
+Delores gave Stella a challenging look but eventually backed off, dropping her bag near the sofa. The battle lines were drawn.
+
+Dinner was pizza, ordered by Stella – quick, easy, and minimizing shared kitchen time. They ate mostly in silence at the dining room table. Luna ate quickly in the living room, eyes glued to the TV. Delores complained about the lack of vegetarian options. Leo picked at his food, looking exhausted.
+
+After the awkward meal, Delores claimed the sofa and the TV remote, flipping through channels dismissively. Leo tried to retreat to his MagnaByte corner again, but Delores called him back. "Leo, come sit here. We can watch this movie." He hesitated, looking towards his computers, then reluctantly parked his chair near the couch, clearly not wanting to cause a scene.
+
+Luna, seeing this, stood up abruptly. "I've got homework," she announced, and retreated pointedly to the MagnaByte corner, pulling up the second chair, powering on her machine with a decisive click. The familiar whirring of the drive was a small act of defiance, creating a bubble of normalcy in the strained atmosphere.
+
+Stella watched the dynamic, frustration simmering. Delores wasn't just a guest; she was an occupying force, disrupting their routines and trying to control Leo even here.
+

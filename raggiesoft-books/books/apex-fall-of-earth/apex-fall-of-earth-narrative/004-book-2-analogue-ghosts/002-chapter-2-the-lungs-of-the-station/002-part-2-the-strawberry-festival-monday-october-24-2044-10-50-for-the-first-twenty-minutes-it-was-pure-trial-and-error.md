@@ -1,0 +1,56 @@
+# Part 2: The Strawberry Festival – Monday, October 24, 2044 – ~10:50 (For the first twenty minutes, it was pure trial and error)
+
+Wyatt shifted his weight on the rusted supply crate, leaning his head back against the warm iron bulkhead. He watched as Sarah completely immersed herself in the archaic mechanics of the bay.
+
+For the first twenty minutes, it was pure trial and error. She traced the thick PVC lines back to the glass carboys, her brow furrowed in deep concentration. She gingerly turned a heavy brass valve, watching an analog pH needle tremble and spike before quickly dialing it back. She muttered to herself, applying half-remembered science facts about capillary action and root biology, treating the 1970s plumbing like a delicate surgical instrument.
+
+Slowly, the underlying logic of the ebb-and-flow system started to click.
+
+Satisfied that she hadn't accidentally poisoned the water reservoir, Sarah finally wiped her hands on her canvas pants and began walking slowly down the central aisle, inspecting the sprawling canopy of the deep-space yields.
+
+She ducked under a low-hanging UV bulb, pushing aside the thick, broad leaves of a soybean plant. She stopped, a soft gasp escaping her lips.
+
+"Wyatt," she called out, her voice echoing over the steady hum of the water pumps.
+
+"Everything okay?" he asked, instantly sitting up, his mechanic's brain ready to jump up and fix a blown seal.
+
+"It's more than okay," Sarah said, turning around. She walked quickly back down the aisle toward him, both hands cupped together like she was holding something incredibly fragile.
+
+She stopped in front of his crate and opened her hands. Resting in her palms were three massive, perfectly ripe strawberries. They were a brilliant, vibrant ruby red, their skin tight and shining under the pink and purple lights of the bay.
+
+After weeks of chewing through chalky, foil-wrapped, freeze-dried nutrient blocks that tasted like salted cardboard, the sheer color of the fruit looked almost completely alien.
+
+Sarah picked one up by its green stem. She hesitated for a second, then took a bite.
+
+Her eyes widened instantly. The bright, explosive burst of natural sugar, the tart acidity, and the sheer volume of fresh juice were overwhelming. It was the taste of actual, unfiltered life. She covered her mouth with her hand, letting out a muffled, delighted laugh that went straight to Wyatt's chest.
+
+"Oh my god," she breathed, swallowing. "Wyatt, you have to try this. It's... it's a thousand times better than the freeze-dried rations."
+
+She picked up the largest strawberry and held it out to him.
+
+Wyatt took it, his fingers brushing against hers. He popped the whole thing into his mouth. The moment his teeth broke the skin, a massive wave of flavor hit him. It was sweet, earthy, and impossibly fresh. It didn't just taste good; it tasted like sunlight.
+
+"Wow," Wyatt murmured, genuinely stunned. He looked at the remaining berry in her hand, then up at her bright, triumphant smile. "Sarah, these are amazing."
+
+He leaned forward, resting his elbows on his knees, a distant, bittersweet look crossing his eyes. The mechanical hum of the station seemed to fade into the background.
+
+"The southern continent of my home planet was almost entirely agricultural," Wyatt said, his voice dropping into a quiet, reflective rumble. "Every orbital cycle, right at the peak of the season, they threw this massive Strawberry Festival. They’d shut down the primary transit hubs, and thousands of people from the northern sectors would travel down just to eat them fresh off the vine. It was the best part of the year."
+
+Sarah listened intently, her heart aching slightly at the raw nostalgia in his voice.
+
+"When you sign an Apex contract, you kind of accept that you're never going to taste something like that again," Wyatt continued, looking around the heavy, industrial room. "You get used to the ozone and the nutrient paste. But this..." He looked back at her, his eyes locking onto hers with absolute sincerity. "You just brought a piece of my home all the way out here. Keep going, Sarah. Whatever you just did, keep doing it."
+
+The weight of his words settled over her. Earth was a graveyard. The NTTR was gone. And the agricultural continent Wyatt was talking about was lightyears away across the cold, unforgiving vacuum of space. The homes they remembered were completely out of reach.
+
+But this room wasn't. The seeds were right here. The water was right here.
+
+Sarah looked down at the last strawberry in her hand, and then over to the terrifying, complex array of glass carboys and brass valves at the chemistry station. The intimidation was completely gone, instantly replaced by a fierce, burning determination.
+
+She wasn't just managing a food supply anymore. She was keeping the ghost of his home planet alive in the dark, just for him.
+
+"I'm going to need a notebook," Sarah said, her voice dropping into a tone of absolute, unbreakable resolve. She looked up at the UV lights, her analytical mind already calculating optimal harvest cycles and pH balances. "And I'm going to need to figure out how to calibrate the secondary water pump. If these are just the first bloom, I can double the yield by next week."
+
+Wyatt couldn't help but smile, leaning back against the bulkhead. The woman who had just survived a subterranean apocalypse was now ready to go to war for a strawberry patch, and he had absolutely no doubt she was going to win.
+
+"I'll find you a notebook," Wyatt promised. "And I'll get my wrenches for that pump."
+

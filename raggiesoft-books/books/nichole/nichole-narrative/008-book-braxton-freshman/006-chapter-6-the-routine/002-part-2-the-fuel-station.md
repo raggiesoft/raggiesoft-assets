@@ -1,0 +1,64 @@
+# Part 2: The Fuel Station
+
+## **Date:** Tuesday, January 17, 2006 **Time:** 12:00 PM **Location:** The Kitchen Island, Unit 404
+
+"Lunch in five," Patrick announced, drying his hands on a dish towel.
+
+He walked over to where Nichole was still lying prone on the rug. The timer on his watch beeped. *12:00.*
+
+"Okay, session complete," Patrick said. "Let's get you vertical."
+
+He executed the transfer—a low, careful lift from the floor to the wheelchair. He didn't just dump her in the seat; he checked her alignment. Hips back. Legs straight on the elevated rests.
+
+He wheeled her to the kitchen island.
+
+The menu wasn't exciting. It was strategic.
+
+Dr. Evans had been very clear: *“She’s not moving, so her gut isn't moving. If she gets constipated while on narcotics, she’s going to be in agony. High fiber, high hydration, easy to digest.”*
+
+Patrick placed two identical bowls on the counter.
+
+- **The Main:** A warm, pureed lentil and vegetable soup. (Easy to swallow, high protein for tissue repair, massive fiber content).
+
+- **The Side:** A small scoop of soft scrambled eggs (Albumin for healing).
+
+- **The Drink:** A tall glass of water with a measured scoop of Miralax dissolved in it (The "Stool Softener Cocktail").
+
+Patrick sat down on the barstool next to her. He had the exact same bowl. The exact same eggs.
+
+Nichole looked at her bowl. She looked at his bowl.
+
+She moved her hand to her letter board, which he had placed on the counter next to her.
+
+**B - L - A - N - D**
+
+"I know," Patrick admitted, taking a spoonful of his own soup. "It's not pizza. But pizza is a 'binding agent.' If we eat pizza, you don't poop for three days. If you don't poop, your stomach pushes on your diaphragm, and your spasticity goes through the roof."
+
+He took another bite.
+
+"We are fueling the machine, Nikki. We aren't dining out."
+
+Nichole sighed. She picked up her spoon. Her hand had a slight intention tremor—a side effect of the muscle fatigue—but she guided it to her mouth.
+
+She swallowed. It was warm. It was savory. It wasn't bad, just... clinical.
+
+She looked at Patrick. He was eating the same "clinical" sludge with gusto. He wasn't sneaking a burger while she suffered through the lentils. He was in the trenches with her.
+
+She tapped the board again.
+
+**S - O - L - I - D - A - R - I - T - Y**
+
+Patrick smiled, clinking his spoon against hers.
+
+"Always," he said. "If you eat mush, I eat mush. If you suffer, I suffer."
+
+He pointed to the glass of water.
+
+"Hydration check. Half the glass before you get the eggs."
+
+Nichole rolled her eyes, but she grabbed the glass. She drank. The water was cool and clean.
+
+"Good," Patrick nodded. "Now, eat up. We have a plot hole to fix in Chapter Seven."
+
+Nichole ate the lentils. They tasted a little better now.
+

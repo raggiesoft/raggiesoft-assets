@@ -1,0 +1,46 @@
+# Part 2: The Frequency
+
+The ceremony ended. The Atlantic Dome disgorged the graduates into the blinding June sunlight of the parking lot. The air was hot—90 degrees and heavy with salt spray. Freddie stripped off his cap immediately, throwing it on the ground. "Air," he gasped, loosening the gown. "Too hot. System overheating." "We're done," Paige said, grabbing his arm to steady him. "We did it. We're free."
+
+They found their mother near the fountain. Ellen was holding a bouquet of flowers, crying soft, happy tears. "You made it," she sobbed, hugging them both. "I am so proud. You survived." "We need to evacuate," Freddie said, scanning the chaotic parking lot. "The crowd density is critical." "We're going to lunch," Ellen said, wiping her eyes. "Just us. And Jessica. She’s bringing the car around." "Jessica is here?" Freddie felt a wave of relief. Jessica meant the Avalon. Jessica meant safety.
+
+"Well, isn't this a touching scene."
+
+The voice didn't match the sunlight. It was cold, grey, and sounded like rain in Washington. Freddie froze. The vibration in his chest stopped, then restarted at double speed. He turned. Standing near the fountain, wearing a wrinkled suit that looked like it had slept on an airplane, was Robert. He looked older. His face was puffier, his eyes bloodshot. He was holding a lit cigarette, ignoring the *No Smoking* sign, his hand shaking slightly as he brought it to his mouth. He wasn't smiling. But he was trying to look successful. He was trying to look like a man with a plan.
+
+"Robert," Ellen said, her voice turning into ice. "What are you doing here?" "I'm here for my kids," Robert said, flicking ash onto the pavement. He didn't look at Ellen. He couldn't look at Ellen—because if he did, he would crumble. The ex-girlfriend in Washington had been right; he was still obsessed with her. "Get your bags," Robert commanded, turning to the twins. "I have a rental car. We're going to the airport. My flight leaves at 4:00."
+
+Freddie took a step back, bumping into Paige. "Flight?" Freddie whispered. "You're coming to Washington," Robert stated, stepping forward. He put on a smile—a salesman's smile. It didn't reach his eyes. "I have a house now," he lied. "A big place in Orchards. It’s got a basement. A finished basement. You two can have the whole floor to yourselves. Private entrance. Everything."
+
+It was a total fabrication. There was no house. There was no basement. There was just a rented room in a stranger’s split-level with a shared bathroom and a landlord who hated noise. But Robert needed this. He needed to win *something*.
+
+"I'm not paying child support anymore, Ellen," Robert continued, the lie gaining momentum. "I'm taking custody. They're eighteen. They can choose." He looked at Freddie with a sneer, trying to bully him into compliance. "You need a father, Freddiey. Not a... whatever this is. You need to toughen up. Washington will be good for you. Rain. Work. No more coddling." "No," Paige said. She stepped in front of Freddie. "We aren't going anywhere with you." "I didn't ask you, Paige," Robert snapped, his desperation leaking through. "I'm telling you. I'm your father. You get in the car."
+
+Behind them, the school band had moved outside to play for the departing families. They struck up the song again. *Da-da-da-DAAA... da-da-da-DAAA...*
+
+The trigger pulled. The combination of the heat, the flashing cameras, the shouting, the Lie, and now that song—that relentless, looping, unresolved nightmare—crashed the system. Freddie’s vision tunneled. The face of his father became a distorted monster. The music became a siren. *Da-da-da-DAAA...*
+
+"NO!" Freddie screamed. It wasn't a word. It was a release of pressure. He dropped to his knees on the hot asphalt. He slammed his hands over his ears, digging his fingers into his scalp. "MAKE IT STOP! THE LOOP! STOP THE LOOP!"
+
+"Get up!" Robert yelled, looking around nervously. This wasn't part of the fantasy. "Stop acting like a retard! Get up and get in the car!" "DON'T YOU CALL HIM THAT!" Ellen screamed, dropping the flowers. She lunged at Robert, shoving him back.
+
+But Freddie couldn't hear them. He was gone. He was rocking violently, slamming his forehead against his knees. *Da-da-da-DAAA...* The music was inside him now. It was rewriting his code. It was pain. Pure, white-hot, sonic pain. "SYSTEM FAILURE!" Freddie shrieked, tears streaming down his face. "INVALID INPUT! ABORT! ABORT!"
+
+Tires screeched. A silver Avalon mounted the curb, scattering a group of parents. The driver’s door flew open. Jessica jumped out. She wasn't wearing graduation clothes. She was wearing jeans and a black t-shirt. She looked like a soldier. She didn't look at Robert. She went straight to the ground. She dropped to her knees in the grit, right next to Freddie. She didn't try to pull him up. She leaned in close, blocking out the sun, blocking out the father. "Freddie!" Jessica shouted, her voice cutting through the static. "The terminal is open! Look at me! The cursor is blinking!"
+
+Freddie rocked, sobbing. "The loop... the music..." "We are cutting the cord," Jessica promised. She looked up at Paige. "Load him. Now."
+
+"You aren't taking them!" Robert shouted, stepping toward the car. "I have a house! I have a plan!" Jessica stood up. She was taller than him in her boots. She was angrier than him. She reached into her pocket and pulled out a folded piece of paper. She stepped up to Robert and slammed the paper against his chest. But she held it tight, her thumb deliberately pressing over the top header where the street address was typed.
+
+"Read it, Dad," Jessica hissed. "It’s a lease. A private residence in Christiansburg, Virginia." She pointed to the signature line at the bottom. "Tenant 1: Jessica Avery. Tenant 2: Paige Avery. Tenant 3: Freddie Avery." "They signed it. They are adults. They are residents of the Iron City." She stepped closer, invading his space, piercing his lie with the truth. "They don't belong to you. They belong to themselves. And if you ever—ever—try to touch them again, I will get a restraining order so fast your head will spin."
+
+Robert stared at the paper. He saw the legal signatures. He saw the reality of his failure staring back at him. He tried to look at the top line, to memorize the location, but Jessica’s thumb was an unmoving bar of iron over the words *105 Pepper Street*. He thought about the room in Orchards with the stained carpet. He thought about going back there alone. He crumbled.
+
+"Fine," Robert spat, throwing his cigarette on the ground to mask his defeat. "Take the broken one. See how long you last." He turned and walked away, disappearing into the crowd, a man walking toward a terminal to catch a flight back to nothing.
+
+"Load," Jessica repeated, turning back to the twins. Paige grabbed Freddie’s arm. "Freddie," she whispered, her voice fierce. "We're leaving. We're going to the Base. The King bed is there. It’s waiting." Freddie looked up. His face was a mask of terror, red and wet. "The... bed?" "The King bed," Paige promised. "76 inches of safety. And silence. No music."
+
+She helped him stand. He stumbled, dead weight, but they shoved him into the backseat of the Avalon. Paige climbed in after him, pulling the door shut. She immediately pulled his head down into her lap, covering his ears with her hands. "Drive," Paige commanded.
+
+Jessica slammed the car into gear. The Avalon peeled out of the parking lot, leaving the Atlantic Dome, the father, and the looping nightmare of *Pomp and Circumstance* behind in the dust. They hit the highway. West. Toward the mountains. Toward the Dollar Contract. Toward home.
+

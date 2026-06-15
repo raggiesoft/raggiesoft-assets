@@ -1,0 +1,52 @@
+# Part 10: The Anchor Point
+
+## 10:15 AM The Living Room
+
+Upstairs, the house was quiet, save for the muffled rumble of the washer below the floorboards.
+
+Freddie sat on the sofa. He was completely surrounded.
+
+- Port Side: Paige was glued to him. She was reading a book, but her head was on his shoulder, and her hand was holding his hand, tracing the lines of his palm.
+
+- Starboard Side: Amanda sat cross-legged next to him. She was drawing in a sketchbook, occasionally resting her head on his knee to check in.
+
+- Forward Position: Elara sat on the floor, leaning back against his legs, reading a comic book.
+
+Freddie felt the weight of them. It was heavy. It was hot.
+
+"Status?" Paige whispered, turning a page with her free hand.
+
+"Grounding is at 100%," Freddie reported. "The signal is clear."
+
+He looked at Paige. He saw the tension in her neck.
+
+"You are guarding me," Freddie stated softly.
+
+Paige didn't look up from her book. "She tried to get in, Freddie. She tried to take you."
+
+"She failed," Freddie reminded her. "The math won."
+
+"I know," Paige said. She looked up then, her eyes fierce. "But she made you doubt. She made you think you were broken. I felt it, Freddie. I felt your panic. I am not letting that happen again."
+
+She squeezed his hand so hard it almost hurt.
+
+"You are the Core," Paige whispered. "If the Core crashes, the whole system goes down. I am the firewall. No one touches you unless they have clearance."
+
+Freddie looked at Amanda drawing on his left. He looked at Elara leaning on his legs. He looked at Paige.
+
+"You have clearance," Freddie said. "All of you."
+
+"Yeah," Paige softened, resting her head back on his shoulder. "We do."
+
+Amanda looked up from her drawing. She saw the serious look on their faces. She put her pencil down.
+
+She stood up on the sofa cushions. She climbed onto Freddie’s lap, careful not to hurt his legs. She wrapped her arms around his neck and buried her face in his shirt.
+
+"Anchoring," Elara narrated from the floor.
+
+Freddie wrapped his free arm around Amanda. He held Paige’s hand with the other.
+
+"Anchoring received," Freddie whispered.
+
+Downstairs, the washing machine hit the spin cycle, vibrating the floor. Upstairs, the Avery Unit held onto each other, refusing to let go, proving that the strongest gravity wasn't physics—it was family.
+

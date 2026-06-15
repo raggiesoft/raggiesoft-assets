@@ -1,0 +1,34 @@
+# Part 2: The Attire
+
+With a venue in Stanstead now secured thanks to Aunt Geneviève's tireless "boots on the ground" reconnaissance, the next phase of planning began: the wedding attire. For an event this important, video calls and online shopping would not suffice. In a coordinated, cross-country effort, both sets of parents flew out to Seattle for a long weekend dedicated to a single, joyful mission.
+
+The weekend was split into two distinct operations. On Saturday morning, "Team Bride" assembled. Chloé, Megan, Sophie, and Emily descended upon a chic but understated bridal boutique in downtown Seattle. The atmosphere was a happy, bubbling mixture of excitement and nervous energy.
+
+Chloé was initially overwhelmed by the sea of white and ivory dresses, but her team was a perfect blend of support. Sophie provided the quiet, maternal reassurance. Emily, the practical and organized one, kept track of the different styles. And Megan was the perfect "Best Woman," offering honest but loving feedback and keeping the mood light and fun.
+
+After trying on several dresses—some too fussy, some too plain—the consultant brought out one more. It was a simple, elegant A-line gown with a delicate lace overlay and a graceful, flowing skirt that was beautiful without being cumbersome. It was perfect for traveling and perfect for a heartfelt ceremony overlooking a lake.
+
+The moment Chloé stepped out of the dressing room, a hushed, reverent silence fell over their small corner of the boutique. She looked radiant, a perfect, beautiful bride.
+
+"Oh, *ma belle*," Sophie whispered, her eyes immediately filling with tears.
+
+Megan just shook her head, a slow, awestruck grin on her face. "Yep," she said, her voice thick with emotion. "That's the one."
+
+Chloé looked at her reflection, and for the first time, the "real wedding" felt truly, breathtakingly real.
+
+Meanwhile, "Team Groom" was on a different, but no less important, mission. Alex, his father James, his father-in-law Thomas, and his Best Woman Megan, arrived at a high-end custom tailor's shop in the city. They knew a standard, off-the-rack suit would never work for the unique requirements of Alex's "Quantum Glide" power chair.
+
+The tailor, a distinguished older gentleman with a measuring tape draped around his neck, treated the consultation with the seriousness of an engineering project.
+
+"The key," the tailor explained, "is the drape. The jacket must be cut in a way that doesn't bunch at the waist when you are seated, but hangs perfectly when you are standing. The trousers need a clean, unbroken line in both positions."
+
+Alex, with his own deep appreciation for design and function, was an active participant in the process. He chose a beautiful, deep charcoal grey fabric. They discussed the cut, the lining, and every minute detail.
+
+The "moment" came when the tailor had him in a mock-up of the suit, pinning the fabric to his exact measurements while he was in his standing chair. Alex looked in the three-way mirror. He saw not just a man in a wheelchair, but a groom. A tall, confident, and incredibly handsome groom. He saw the man that Chloé saw.
+
+James and Thomas stood back, watching their son, their faces a mixture of profound pride and a deep, quiet joy. Megan just beamed, giving him a huge, unqualified thumbs-up.
+
+They left the shop having commissioned a piece of clothing that wasn't just a suit, but a masterpiece of adaptive design, a perfect fusion of style and function.
+
+That evening, the entire family gathered back at the Lynnwood apartment for a celebratory dinner. No details about the dress or the suit were shared—those were to be a surprise for the big day. But the two separate, successful missions had filled the small apartment with a new, powerful sense of reality. The clothes were chosen. The wedding was no longer just a plan; it was a tangible, beautiful event, waiting for them, just across the border.
+

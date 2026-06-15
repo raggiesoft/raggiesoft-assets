@@ -1,0 +1,524 @@
+# Chapter 1: The Tide and the Torch
+
+## Part 1: The Blacksmith's Secret
+
+##### Scene 1: The Iron Keel
+
+Theme: sunstead
+
+Location: The River Docks
+
+POV: Kaelan
+
+=
+
+The river that ran past Sunstead was usually a lazy, shallow thing, muddy with the red runoff of the plateau. But Horg led them three miles downstream, to a deep-water cove hidden by weeping willows.
+
+"I built her five years ago," Horg said, pushing aside a curtain of moss. "Thought I might need to run if the King ever came back. But... well, I'm too heavy for running."
+
+Bobbing in the dark water was a boat.
+
+It wasn't a graceful elven skiff, nor was it a merchant's barge. It was a blacksmith’s boat. It was squat, wide-beamed, and reinforced with bands of black iron. It looked less like it was floating and more like it was daring the water to sink it.
+
+"She's ugly," Kaelan said, but he was grinning. He liked ugly things. Ugly things lasted.
+
+"She's sturdy," Horg corrected, patting the hull with a sound like a gong. "Double-hulled oak. Iron keel. And I installed a stove in the cabin so you don't freeze."
+
+Kaelan stepped onto the gunwale. The boat barely rocked. It felt solid under his boots—a small island of earth in an enemy element.
+
+He hated water. He was a creature of friction and heat; water was the silence that smothered him. But looking at the map in Kaela’s hand, he knew they had no choice.
+
+"It will do," Kaelan said.
+
+"It's perfect," Kaela added, stepping aboard. She moved differently on the wood. She didn't stomp; she flowed. She adjusted her weight instantly to the rhythm of the current.
+
+They spent the morning loading.
+
+They didn't need to communicate with words. They were the Circuit.
+
+Kaelan would lift a heavy crate of supplies. Kaela would already be clearing a space in the hold before he even turned around. He would reach for a rope; she would hand it to him.
+
+They moved around each other in the tight confines of the deck without colliding, a seamless dance of two bodies sharing one intent. They didn't need "excuse me" or "watch out." They occupied each other's personal space as naturally as they occupied their own skin.
+
+"Supplies are stowed," Kaela reported, popping her head out of the small cabin hatch. "It's... cozy."
+
+"Small?" Kaelan asked, tightening a cleat.
+
+"Concentrated," she corrected with a smile.
+
+Horg stood on the bank, wiping his hands on a rag. He looked worried.
+
+"The Glass Sea is wild, little ones. The currents don't make sense down there. And the things that live deep..." He trailed off. "Just... watch the water."
+
+"I'll watch the water," Kaela promised. "He'll watch the fire."
+
+Kaelan cast off the lines. He channeled a low, steady pulse of heat into the iron keel, warming the water around the hull to reduce drag—a trick he’d learned in the Sunken City.
+
+The current caught them.
+
+They drifted away from the bank, waving to Horg until the blacksmith was just a speck of soot against the green willows.
+
+They were alone.
+
+Kaelan looked South, where the river widened into the delta, and beyond that, the ocean. He felt a spike of anxiety—the fear of the deep, cold dark.
+
+Then he felt a hand on his back. Kaela was there, leaning against him, her shoulder pressed into his spine.
+
+*I have the helm,* she projected into his mind, her mental voice cool and salty like the sea air. *You just keep the engine running.*
+
+Kaelan relaxed into her touch. The anxiety faded. He wasn't drifting alone; he was anchored.
+
+"Aye, Captain," he whispered.
+
+##### Scene 2: The Circuit at Rest
+
+Theme: ocean-night
+
+Location: The Cabin of the *Iron Keel*
+
+POV: Kaela
+
+=
+
+The cabin of the *Iron Keel* was roughly the size of a large closet.
+
+It was dominated by the iron stove Horg had promised, which was currently radiating a dry, pleasant heat thanks to Kaelan’s touch. The rest of the space was taken up by crates of dried meat, sacks of flour, and a single, wide bunk built into the bow.
+
+It was night. The river was calm, the boat drifting on a slow anchor.
+
+Kaelan sat on the edge of the bunk, pulling off his boots. He looked green. The gentle rocking of the boat, which Kaela found soothing, was messing with his inner ear.
+
+"Stop thinking about the motion," Kaela advised, sitting cross-legged on the mattress behind him. She was brushing her hair, the copper strands catching the glow of the stove.
+
+"I'm not thinking about it," Kaelan grunted, closing his eyes. "My stomach is thinking about it. And my stomach is an idiot."
+
+He tossed his boots into the corner. He stood up—carefully, so he wouldn't hit his head on the low beams—and began to undress.
+
+There was no hesitation. No turning away to hide.
+
+He stripped off his tunic and trousers, tossing them onto a hook. He stood there for a moment, stretching his back, the firelight playing over the muscles of his shoulders.
+
+He turned to her. "Your turn. Give me the dress. It smells like river mud."
+
+Kaela handed him her dress. She didn't need to ask him to look away. Why would she? He was her brother. He was her other half. Seeing him was as mundane and necessary as seeing her own hand.
+
+She stripped down quickly in the cool air, shivering slightly before diving under the heavy wool blankets of the bunk.
+
+Kaelan hung her dress near the stove to dry. Then he climbed in.
+
+The bunk was narrow, but for them, it was spacious.
+
+Kaelan lay on his back, letting out a long groan as the mattress absorbed his weight. Kaela immediately shifted, curling into his side, draping her arm over his chest and hooking her leg over his.
+
+It wasn't a conscious decision. It was magnetism.
+
+Kaelan rolled onto his side, wrapping his arms around her, pulling her into the "spoon" position that shielded his back from the open room.
+
+He buried his face in her hair.
+
+"Better?" she whispered.
+
+"The rocking stops when I hold you," Kaelan murmured. "You're heavy. You anchor the boat."
+
+"I am not heavy," she poked his ribs. "I am substantial."
+
+"You're a rock," he agreed sleepily.
+
+They lay there in the dark, breathing in sync. There was no privacy in the cabin. If one of them moved, the other moved. If one of them sighed, the other felt the vibration.
+
+For anyone else, it might have been claustrophobic. For the twins, it was the only way they could sleep. After the separation, after the cage and the bridge, distance was physical pain.
+
+"Kaela?"
+
+"Hmm?"
+
+"Do we really have to go to the ocean? Can't we just find a really big lake?"
+
+Kaela smiled against his arm. She felt his anxiety—a sharp, orange spike in the hum of their bond. She smoothed it out with a wave of cool blue thought.
+
+*We have to go,* she projected. *But you don't have to swim. I'll be the water.*
+
+Kaelan squeezed her tighter. "Okay. You be the water. I'll just be the heat that dries you off."
+
+"Deal."
+
+They drifted off, the small boat rocking gently on the black water, two halves of a whole tangled together in the dark, safe in the absolute lack of space between them.
+
+## Part 2: The Delta
+
+Theme: ocean-day
+
+Location: The River Delta
+
+POV: Kaela
+
+=
+
+The river widened. The familiar red banks of the Sunstead plateau receded, replaced by the flat, silty expanse of the Delta.
+
+The air changed. The dry, dusty scent of home vanished, swallowed by a new smell: salt.
+
+Kaela stood at the bow of the *Iron Keel*. She gripped the forestay, her copper hair whipping in the wind. She wore a simple tunic of undyed linen, having packed away her heavier wools for the tropical heat.
+
+She had seen maps. She had heard stories. But nothing prepared her for the reality of the Endless Water.
+
+Ahead of them, the river mouth opened up into the Glass Sea. It was vast. It was a flat, shimmering sheet of turquoise that stretched to the curve of the world.
+
+"It's... big," Kaela whispered.
+
+Behind her, at the tiller, Kaelan was tense. He was shirtless, his skin bronzed by the sun, but the muscles in his shoulders were knotted tight. His internal temperature was running high—she could feel the heat radiating off him from ten feet away.
+
+"It's too much water," Kaelan muttered, his knuckles white on the steering arm. "There's no land. If we sink, we just... keep going down."
+
+"We won't sink," Kaela said, projecting a wave of calm toward him. "Horg built this boat. It's an anvil that floats."
+
+She walked back to the cockpit. She sat on the bench next to him, leaning her shoulder against his arm. The contact grounded him instantly.
+
+"We have to do this, Kaelan," she said softly.
+
+Kaelan looked at the horizon. "I know. The map."
+
+"The map," Kaela agreed. "And the energy. Can't you feel it?"
+
+She closed her eyes. Even here, miles from the source, she could feel a discordant vibration coming from the South. It wasn't the cold, empty silence of Malakor. It was a jagged, frantic screeching—like a violin being played with a saw.
+
+"Seraphina isn't just hiding," Kaela said. "She's hungry. If she finds what she's looking for... if she wakes the Star-Eater... she won't just be a Queen. She'll be a god."
+
+"Malakor was a god," Kaelan grunted. "We broke him."
+
+"Malakor was arrogant," Kaela corrected. "Seraphina is desperate. Desperate things are dangerous."
+
+Suddenly, the boat lurched.
+
+It wasn't a wave. The water around them boiled.
+
+"Kaelan!" Kaela shouted, pointing off the port bow.
+
+Something massive was rising from the depths. It wasn't a monster; it was a reef. But it wasn't made of coral. It was made of jagged, black glass—obsidian shards jutting up from the seabed like spears.
+
+The current had them. It was dragging the *Iron Keel* straight toward the teeth.
+
+"Turn!" Kaela yelled.
+
+"I can't!" Kaelan grunted, shoving the tiller with all his enhanced strength. "The current is too strong! The rudder isn't biting!"
+
+They were drifting sideways. Ten seconds to impact.
+
+Kaela looked at the water. She looked at Kaelan.
+
+"Don't fight the water," she commanded. "Change it."
+
+"What?"
+
+"Heat the port side!" Kaela ordered. "Flash boil it! Create a pressure wave!"
+
+Kaelan didn't argue. He abandoned the tiller. He rushed to the port gunwale.
+
+He placed his hands on the iron hull.
+
+*Burn.*
+
+He dumped a massive, concentrated pulse of solar energy into the metal.
+
+*KA-POW.*
+
+The water against the hull instantly turned to steam. The sudden expansion of gas acted like a thruster rocket.
+
+The *Iron Keel* was shoved violently to the starboard side, riding a cushion of bubbles.
+
+They missed the obsidian spire by inches. The sound of scraping glass vibrated through the hull, but they were clear.
+
+Kaelan slumped against the rail, panting. Steam curled off the water around them.
+
+"That," Kaelan gasped, "was loud."
+
+"That was physics," Kaela corrected, her heart hammering. She looked at him with a wild grin. "We just drift-turned a boat with steam."
+
+Kaelan looked at the endless ocean. He looked at his hands.
+
+"Maybe," he said, a slow smile forming, "I can work with water."
+
+They sailed on, the Engine and the Steering adapting to their new world, heading deeper into the blue where the Queen of Red Dust waited to become something much worse.
+
+## Part 3: The Mirror of the Deep
+
+Theme: ocean-night
+
+Location: The Open Sea (Coordinates: 3 Days South)
+
+POV: Kaelan
+
+=
+
+The Glass Sea earned its name at night.
+
+When the wind died, the water became a perfect, black mirror. It reflected the stars with such absolute clarity that it was impossible to tell where the sky ended and the ocean began.
+
+Kaelan sat on the deck of the *Iron Keel*. He was steering by the stars, or at least, by the reflection of them. It felt like sailing through space.
+
+He was naked from the waist up, the night air warm and humid on his skin. He didn't sweat here like he did in the Voidlands. The heat of his body was balanced by the infinite cool of the water.
+
+"It's quiet," he whispered.
+
+"It's holding its breath," Kaela said.
+
+She came up from the cabin. She was wearing one of his spare tunics, which hung on her frame like a robe. She held two mugs of tea—brewed on the iron stove Kaelan kept hot with a thought.
+
+She sat beside him on the bench. She didn't hand him the tea immediately. She leaned into him, her shoulder pressing against his bare arm.
+
+"Drink," she said, passing the mug. "You're running hot."
+
+"I'm keeping the engine warm," Kaelan defended, taking a sip. It was mint and ginger—good for the seasickness he refused to admit he still had.
+
+He looked at the map spread out on his knees. The red circle Seraphina had marked was still weeks away.
+
+"What is a Star-Eater, Kaela?" Kaelan asked, tracing the spidery writing. "Is it a beast? Like the Bear?"
+
+"No," Kaela said, her eyes fixed on the black water. "A bear is an animal. It wants food. This... this feels like a hunger that doesn't have a stomach."
+
+She reached out with the Circuit. She dipped her mind into the ocean.
+
+Usually, water was full of life—fish, whales, currents. But as they sailed South, the life was thinning. The fish were gone. The whales avoided this latitude.
+
+There was a silence down there. A deep, heavy silence that felt like gravity.
+
+"It feels old," Kaela whispered. "Older than Malakor. Older than the Temple."
+
+"Epic," Kaelan muttered dryly. "Why can't we ever fight a goblin? Just a normal goblin with a stick."
+
+"Because we aren't normal," Kaela said. She finished her tea and set the mug on the deck.
+
+She shifted, turning on the bench to face him. She wrapped her arms around his waist, resting her head on his chest.
+
+"I'm tired, Sun," she murmured.
+
+"Go to sleep," Kaelan said, resting his chin on her head. "I'll take the watch."
+
+"No," she said, tightening her grip. "We sleep together. The boat drifts at night. It's safe."
+
+Kaelan looked at the endless, flat horizon. He checked the anchor line. It was deep, holding them steady in the void.
+
+"Okay," he agreed.
+
+They went down into the cabin.
+
+The space was small, smelling of wood oil and the faint, pleasant scent of ozone that always clung to Kaelan.
+
+They stripped off the day. There was no hesitation. The modesty of the mainland felt ridiculous out here, where they were two specks of life in an infinite blue desert.
+
+They climbed into the V-berth at the bow.
+
+Kaelan lay back, the boat rocking gently. Kaela curled into him, her skin cool against his heat. She draped her leg over his, anchoring herself.
+
+"Kaelan?"
+
+"Yeah?"
+
+"If Seraphina wakes this thing... what happens?"
+
+Kaelan wrapped his arms around her, creating the wall, the shield, the fortress.
+
+"Then we put it back to sleep," Kaelan said, his voice rumbling in his chest. "We burn it until it learns to close its eyes."
+
+"That sounds like a plan," she mumbled, drifting off.
+
+Kaelan lay awake for a while longer, listening to the water lap against the hull. He felt the immense depth beneath them. He felt the cold.
+
+But here, tangled with his sister in the dark, he was the hottest thing in the universe. And that was enough.
+
+## Part 4: The Archipelago of Fire
+
+Theme: ocean-volcanic
+
+Location: The Sunken Isles
+
+POV: Kaelan
+
+=
+
+Three days south of the Delta, the ocean changed.
+
+The water lost its clarity. It turned a dark, bruised purple, churning with sediment and ash. The air grew heavy and sulfurous, tasting of rotten eggs and copper.
+
+And the temperature spiked.
+
+Kaelan stood at the bow of the *Iron Keel*, his shirt off, sweat glistening on his chest. For the first time since leaving the Voidlands, he wasn't cold. He wasn't even comfortable; he was hot. And he loved it.
+
+"Volcanoes," Kaelan said, taking a deep breath of the acrid air. "Active ones."
+
+Ahead of them, rising from the steam-shrouded sea, was the Archipelago.
+
+It wasn't a tropical paradise. It was a hellscape of black rock and fire. Jagged cones of basalt jutted out of the water, spewing plumes of grey ash into the sky. Rivers of orange lava cascaded down the cliffs, hissing violently as they hit the ocean, creating massive banks of scalding fog.
+
+"It looks dangerous," Kaela called from the tiller. She had tied a wet cloth around her nose to block the sulfur smell. "And the currents are erratic. The heat is messing with the water density."
+
+"It's not dangerous," Kaelan grinned, leaning over the rail. "It's breathing."
+
+He reached out with his mind. He didn't feel the cold, heavy silence of the deep ocean here. He felt the roar of the earth. He felt the magma pushing up from the mantle, seeking the surface.
+
+It sang to the Engine in his chest.
+
+"Steer for the middle island," Kaelan directed, pointing to a massive, shattered caldera that looked like a broken tooth. "The big one."
+
+"Why?"
+
+"Because that's where the heat is strongest," Kaelan said. "If Seraphina is trying to wake a Star-Eater, she needs energy. She needs a forge."
+
+Kaela adjusted the course. The *Iron Keel* groaned as it cut through the choppy, boiling water.
+
+They navigated through a maze of steam vents. Geysers of scalding water erupted randomly around them, shooting fifty feet into the air.
+
+"Kaelan!" Kaela shouted. "Starboard! Vent!"
+
+Kaelan didn't need to see it. He felt the pressure buildup.
+
+He ran to the starboard rail. He threw his hand out. He didn't try to stop the geyser; he dispersed it. He pushed a pulse of thermal kinetic energy into the rising bubble, forcing it to detonate underwater rather than in the air.
+
+*WHUMP.*
+
+The ocean burped. A massive dome of bubbles surfaced, rocking the boat, but the scalding jet that would have stripped the flesh from their bones was neutralized.
+
+"Nice catch," Kaela yelled, wrestling the tiller to keep them straight.
+
+"I like this place," Kaelan laughed, wiping salt and ash from his face. "It's loud."
+
+They reached the central lagoon of the caldera. The water here was oddly calm, protected by the ring of high cliffs. But it was hot—steaming hot.
+
+And there, anchored near a black sand beach, was a ship.
+
+It wasn't a Sunstead barge. It was a sleek, black galleon with crimson sails furled tight. It looked like a predator resting in the dark.
+
+"Seraphina," Kaelan whispered. The joy of the volcanoes vanished, replaced by the cold, hard focus of the hunt.
+
+"She's here," Kaela confirmed, her eyes scanning the beach. "And she's not hiding."
+
+Kaelan looked at the black ship. He looked at the smoking peak of the volcano above it.
+
+"She's digging," Kaelan realized. "She's tapping the mountain."
+
+He turned to Kaela. "Drop the anchor. We're going ashore."
+
+"Into the fire?" Kaela asked, eyeing the lava flows.
+
+"Into the fire," Kaelan confirmed, reaching for his sword. "My turf."
+
+## Part 5: The Black Beach
+
+Theme: ocean-volcanic
+
+Location: The Black Beach (Seraphina's Excavation)
+
+POV: Kaela
+
+=
+
+The skiff ground against the black sand.
+
+Kaela jumped out, the water warm around her ankles. She hauled the bow line up the beach, tying it securely to a piece of driftwood that looked like a bleached ribcage.
+
+The air here was suffocating. It was a physical weight of heat, sulfur, and a low-frequency vibration that rattled her teeth.
+
+*Thump... Thump...*
+
+It wasn't a heartbeat. It was a geological spasm. The island was trying to vomit something up.
+
+"Stay close," Kaelan said, drawing his sword. The blade glowed a dull, angry orange, reacting to the ambient thermal energy of the volcano. "The heat signatures are everywhere. I can't distinguish a guard from a steam vent."
+
+They moved up the beach, using the jagged basalt formations for cover. They climbed a ridge of hardened lava and looked down into the caldera.
+
+Seraphina’s camp was not a temporary shelter. It was an industrial excavation site.
+
+Dozens of crimson-clad mercenaries—the remnants of her Sunstead force—were working alongside creatures that looked like obsidian gargoyles. They were hauling massive iron cauldrons toward a glowing fissure in the center of the crater.
+
+Kaela focused her eyes. She zoomed in.
+
+The cauldrons weren't filled with soup. They were filled with a glowing, iridescent blue sludge.
+
+"What is that?" Kaela whispered.
+
+"It feels cold," Kaelan noted, frowning. "Even from here. It feels like... the Void."
+
+"She's feeding it," Kaela realized, horror dawning on her. "She's pouring cold Void-matter directly into the magma. She's creating a thermal shock on a planetary scale."
+
+"To crack the shell," Kaelan finished. "She wants to break the crust so the Star-Eater can crawl out."
+
+Suddenly, a horn blew.
+
+It wasn't a warning. It was a summoning.
+
+From the lava pools surrounding the fissure, shapes began to rise.
+
+They weren't gargoyles. They were Magma Golems.
+
+Ten feet tall, made of semi-solid rock and flowing lava, they pulled themselves out of the molten earth. Their eyes were burning pits of white fire.
+
+Seraphina stood on a ridge overlooking the pit. She looked haggard, her burns from the Tower still healing, but her eyes were manic.
+
+"Protect the extraction!" she shrieked. "Kill the intruders!"
+
+The Golems turned. They didn't see with eyes; they sensed life. They sensed the massive, dual-core energy source crouching behind the basalt ridge.
+
+"They see us," Kaelan said, standing up.
+
+"Can you burn them?" Kaela asked, gripping her quarterstaff.
+
+"They *are* fire," Kaelan said. "If I hit them with heat, I just feed them. I have to cool them down."
+
+He looked at the ocean behind them. He looked at Kaela.
+
+"I need water," Kaelan said. "Lots of it."
+
+"I can't lift the ocean, Kaelan. I'm not a god."
+
+"No," Kaelan grinned, a reckless spark in his eyes that reminded her of the boy who charged a bear. "But you can steer. I'll be the pump. You be the hose."
+
+He sheathed his sword. He ran toward the Golems.
+
+"Hey! Slag-heaps!" Kaelan roared, waving his arms.
+
+The Golems roared back—a sound like rocks in a blender—and charged. They moved surprisingly fast, their magma-blood flowing like liquid.
+
+"Kaela! Now!"
+
+Kaelan slammed his hands into the black sand. He didn't push heat out; he pulled it *in*. He created a massive thermal vacuum, a cold spot so intense it created a pressure drop.
+
+The wind howled as air rushed to fill the void.
+
+Kaela seized the opportunity. She reached out with her mind, grabbing the moisture in the humid air, the steam from the vents, and the spray from the surf.
+
+She wove it. She spun the water vapor into a tight, high-pressure cyclone directly above Kaelan.
+
+*Circuit engaged.*
+
+Kaelan fed the vacuum. Kaela fed the water.
+
+A massive waterspout formed, tearing in from the ocean, guided by Kaela’s will. It arched over the ridge like a striking cobra.
+
+"Cool off!" Kaelan shouted.
+
+Kaela dropped the hammer.
+
+The waterspout crashed down onto the charging Magma Golems.
+
+*HISSSSSSS-CRACK.*
+
+The explosion of steam was blinding. The thermal shock was catastrophic.
+
+The Golems froze instantly. Their molten cores solidified into brittle obsidian. They halted mid-stride, turning into statues of black glass.
+
+One of them, caught with its arm raised, grew too heavy for its own structure. It tipped over and shattered into a thousand pieces.
+
+Silence fell over the beach, save for the hissing of cooling rock.
+
+Seraphina stared down from her ridge, her mouth open.
+
+Kaelan stood up, shaking wet sand from his hands. He looked at Kaela.
+
+"See?" he panted. "Physics."
+
+"Show off," she said, but she was smiling.
+
+They turned toward the Queen.
+
+"Round two, Seraphina," Kaelan called out. "And this time, there's nowhere to run."
+

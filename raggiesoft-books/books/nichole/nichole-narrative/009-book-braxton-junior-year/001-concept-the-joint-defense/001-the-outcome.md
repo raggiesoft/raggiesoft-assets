@@ -1,0 +1,18 @@
+# The Outcome
+
+They spent Junior year living in the lab and the library.
+
+- Patrick learned to code primarily in C++ (for the microcontroller) and learned to solder delicate sensors into the upholstery of the wheelchair without ruining the comfort.
+
+- Nichole learned Adobe FrameMaker and industrial design standards. She didn't just write text; she created vector diagrams of her own chair, labeling every sensor array.
+
+The Final Grade:
+
+- Patrick: A (Engineering Capstone). The device worked perfectly during the demo. When Nichole simulated a spasm, the wristband on Patrick’s arm buzzed instantly.
+
+- Nichole: A (English Capstone). The manual was cited by the department as "The standard for accessibility documentation."
+
+The Legacy: This project wasn't just homework. The BHI (Bennett Haptic Interface) became a permanent part of the Bennett Machine. Patrick wore that wristband every day for the next decade. It was the digital leash that allowed them to finally relax, knowing the machine was watching even when they were asleep.
+
+
+

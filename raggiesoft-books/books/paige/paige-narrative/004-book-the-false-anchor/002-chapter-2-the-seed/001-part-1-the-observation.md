@@ -1,0 +1,108 @@
+# Part 1: The Observation
+
+## Spring 2004 Thursday, February 19, 2004 — 16:15 PM
+
+The solar system project was 60% complete. The website—Project Helios—was a masterpiece of static HTML tables and hand-coded CSS.
+
+The group sat in their usual spot in **Newman Library**, a secluded table near the windows. The winter sun was low, casting long shadows across the stacks.
+
+Freddie was typing. He was in "The Zone." His fingers flew across the keyboard of his **Iron-Logic** laptop, coding the description for *Planet 3: The Forge*.
+
+On his right, Paige sat thigh-to-thigh with him. She was reading a paperback novel, her left hand resting absently on the back of Freddie’s neck, playing with the hem of his hoodie. It was a constant, subconscious stream of tactile data: *I am here. You are safe.*
+
+On his left, Jessica was reviewing the lore document.
+
+Across the table, Vanessa sat watching them.
+
+She had been part of the group for a month. She had been perfect. She was diligent, quiet, and respectful. But she was calculating.
+
+To Vanessa, the Avery Unit was an anomaly. She had a brother at the **University of the Piedmont**, and she hadn't spoken to him since Christmas. That was *normal*. This... this tangled knot of codependency... was fascinating. And inefficient.
+
+"You guys really do everything together, don't you?" Vanessa asked softly, closing her notebook.
+
+Freddie paused his typing. He looked up. "Clarification?"
+
+"Your schedules," Vanessa said, gesturing to the printouts spread on the table. "I noticed when we were comparing availability. You and Paige... it’s not just similar. It’s a mirror. Same classes. Same sections. Same professors. Even your free blocks align."
+
+"We are a binary system," Freddie stated simply. "We orbit a common center."
+
+"It’s efficient for logistics," Jessica added without looking up. "One car. One gas bill. They live in the same house, they go to the same class."
+
+"Right," Vanessa nodded slowly. "Efficient."
+
+She turned her gaze to Paige. Her expression shifted to one of gentle, pitying admiration.
+
+"I saw you guys at the **Daily Grind** yesterday," Vanessa said. "With those girls from your English Lit section?"
+
+Paige looked up. "Oh. Yeah. Sarah and Emily."
+
+"I was a few tables away," Vanessa lied smoothly (or perhaps she was stalking; the distinction was blurring). "They were so excited. They were trying to get you to go to that concert in Richmond this weekend. The indie band?"
+
+Paige shrugged, her hand still resting on Freddie’s neck. "Yeah. They invited us."
+
+"They invited *you*," Vanessa corrected gently. "And you said no. Instantly. You didn't even check the date. You just looked at Freddie... saw he was covering his ears because the espresso machine was too loud... and you shut it down. You said you had plans."
+
+Freddie stiffened. He stopped typing.
+
+He remembered the coffee shop. He remembered the noise. He remembered Paige saying, *"Sorry, guys. Not our scene."*
+
+"I didn't want to go," Paige said defensively, tightening her grip on Freddie. "Concerts are loud. They're crowded. It’s a sensory nightmare."
+
+"For Freddie," Vanessa pointed out. Her voice was soft, like she was explaining a difficult diagnosis. "It’s a nightmare for *Freddie*."
+
+She leaned forward, dropping her voice to an intimate whisper.
+
+"It’s really noble, Paige. Most sisters—especially twins—spend college trying to find their own identity. Trying to be... just Paige. But you don't do that. You stay right there. You clear the path for him."
+
+She looked at Freddie.
+
+"You're lucky, Freddie. She loves you so much. She gives up everything—parties, concerts, having her own schedule, having her own *life*—just to make sure you don't get scared."
+
+The seed hit the soil.
+
+*She gives up everything.*
+
+Freddie felt a cold spike of static in his chest. He looked at Paige.
+
+He saw the twin sister who was born twelve minutes before him. The sister who, according to family lore, had kicked her way out first to make sure the coast was clear.
+
+"I... I do not require her to decline events," Freddie stammered, his voice small. "If she requires... a solo mission..."
+
+"She would never leave you," Vanessa cut in, her voice sweet and poisonous. "That’s the point. She’s too good. She knows you can't function without your Safe Person. So she makes herself small to fit inside your world."
+
+Paige slammed her book shut. The noise made Freddie jump.
+
+"Stop," Paige said. Her voice wasn't soft. It was sharp.
+
+She turned to Freddie. She didn't pull away. She did the opposite. She wrapped both arms around him, pulling him into a aggressive cuddle right there in the library. She buried her face in his neck.
+
+"Don't listen to her," Paige whispered fiercely into his ear. "I didn't want to go to Richmond. I hate traffic. I hate crowds. I wanted to stay home and build the solar system with you."
+
+She looked up at Vanessa, her eyes flashing.
+
+"I promised him," Paige said to Vanessa. "When we were twelve. I promised I would always clear the path. I'm not stuck with him. I *am* his path. And he is mine."
+
+"I know," Vanessa said quickly, raising her hands in surrender. "I know! I didn't mean to UDSet you. I just think it’s... tragic. In a beautiful, Shakespearean way. The devotion is overwhelming."
+
+She smiled. "I wish my brother cared enough to let me hold him like that."
+
+Freddie buried his face in Paige’s shoulder. He smelled her shampoo. He felt the solid, undeniable reality of her protection.
+
+*Signal confirmed.*
+
+But the static remained.
+
+He thought about Sarah and Emily. He thought about the concert. Even if Paige *said* she hated crowds... did she hate them because she really hated them? Or did she hate them because she knew *he* couldn't handle them?
+
+Was he the reason she didn't have a boyfriend? Was he the reason she didn't have a "normal" college life?
+
+"Your hypothesis is flawed," Freddie mumbled into Paige’s shirt, trying to convince himself. "We are a Unit."
+
+"Of course you are," Vanessa soothed, picking up her pen. "And it’s working perfectly. Look at the website. A perfect, closed system."
+
+She went back to work.
+
+Paige held him for a long time, rubbing his back, glaring at the top of Vanessa’s head.
+
+But for the first time, Freddie wondered if the "closed system" was a sanctuary... or a cage.
+

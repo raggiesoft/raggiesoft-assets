@@ -1,0 +1,79 @@
+# Part 6: The ARTS-Box
+
+## July 26, 2006 ARTS Newport News Station (NPN) 05:25 AM
+
+Having survived the dash across Warwick Boulevard, the Fortress stood on the concrete slab of the station grounds.
+
+The station building itself was an insult to architecture. It wasn't a "Terminal" or a "Station." It was a tiny, flat-roofed brick rectangle with flickering fluorescent lights and barred windows.
+
+Local commuters called it **"The ARTS-Box."** It looked less like a gateway to the Northeast Corridor and more like a public restroom at a highway rest stop.
+
+"Charming," Olivia noted, adjusting her grip on her suitcase.
+
+Inside the cramped waiting room, a line of twenty frustrated passengers snaked out the door. The single ticket agent was typing slowly on a computer that looked older than Leo. People were checking their watches, grumbling about missed connections.
+
+"Do we need to get in line?" Luna asked, eyeing the crowd.
+
+Stella didn't even break stride. She patted her bag.
+
+"I printed our tickets three days ago," Stella said. "We don't wait for the box. We go straight to the track."
+
+They bypassed the miserable queue and walked around the side of the building to the platform gate.
+
+## The Boarding
+
+The silver **ARTS Coastal Service** train was waiting on the tracks, its engine humming—a sleek, modern machine parked next to a relic of a station.
+
+The conductor saw them coming. He spotted the wheelchair.
+
+"Morning," he said, unlocking the gate. "You folks organized? Need the lift?"
+
+"We do," Stella said.
+
+The conductor rolled the manual lift over to the Business Class car.
+
+"Alright, young man," the conductor said to Leo. "Up you go."
+
+Leo rolled onto the lift. As he rose above the platform level, he looked down at the "ARTS-Box" one last time. He saw the peeling paint and the weeds growing through the cracks in the concrete.
+
+*"DELETING ASSET,"* he typed on his Scribe.
+
+He rolled into the vestibule of the train. The air conditioning hit him instantly—cool, dry, and smelling of coffee.
+
+## The Configuration
+
+They moved into the Business Class car. It was empty; most of the people in the "Box" were still fighting to buy tickets.
+
+They found their spot at the rear of the car.
+
+**The Conference Table (The Fortress):**
+
+- **Stella & Luna:** Rear-facing bench.
+
+- **Leo & Olivia:** Forward-facing bench.
+
+Leo transferred out of his manual chair and slid into the window seat next to Olivia. He loved this seat. It had an outlet, a massive table for his Scribe, and Olivia right next to him.
+
+**The Annex (Eleanor):** Across the aisle was the **Designated Accessible Seat**—a single seat with a massive amount of legroom and a tie-down area.
+
+- **The Stowage:** Stella folded Leo’s titanium Aero Z chair. It collapsed into a neat, compact package. She stowed it securely in the tie-down space.
+
+- **Eleanor:** Sat in the seat next to the stowage area, keeping a watchful eye on the "wheels" and the urn (which she held in her lap for takeoff before placing it on the table).
+
+"Everyone secure?" Stella asked, plugging in her laptop.
+
+"Secure," Olivia said, putting her arm around Leo.
+
+Leo plugged his Scribe into the wall. He looked at the table. It was their command center for the next 13 hours.
+
+He looked out the window. The sun was just starting to crack the horizon, illuminating the grim industrial skyline of Newport News.
+
+The train whistle blew—a loud, triumphant chord. The car lurched gently.
+
+*"MOVING,"* Leo typed.
+
+"Next stop, Iron Point," Stella said, opening her book. "We aren't stopping until we see the ocean."
+
+The train pulled out of the station, leaving the ARTS-Box, the humidity, and the past behind in a cloud of diesel smoke. They were northbound.
+
+

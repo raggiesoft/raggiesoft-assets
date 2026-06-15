@@ -1,0 +1,44 @@
+# Part 2: The Deployment – Sunday, October 23, 2044 – ~05:15 (Given twenty minutes to collect gear)
+
+The electronic screech of microphone feedback echoed through the Mess Hall, slicing through the darkness just as the emergency backup lights painfully flickered to life. The cavernous room was silenced completely.
+
+All around Wyatt and Sarah, the terrified whispers of the crowd bled into the quiet. The rumors had been spreading like wildfire since the power grid surged.
+
+"The military evacuated Groom Lake yesterday," a frantic contractor muttered somewhere behind them.
+
+"I haven't seen a single Apex executive since Tuesday," another voice hissed. "The other defense contractors pulled out. We're the only ones left on the grid."
+
+The rumors were terrifying, unconfirmed, and spreading absolute panic. In the face of whatever was waking up beneath the Nevada Test and Training Range, the rigid corporate divisions completely dissolved. No one in the room cared who was wearing the abrasive black armor of a S.H.O.P. Marine, the bright slate-blue of a Helios Field Safety Technician, or the muted colors of a dozen other acquired companies. They were all just expendable meat, and they all just wanted to get out.
+
+The District Commander stepped up to the central podium, flanked by two guards with riot shields. He was the last high-level person left on the entire NTTR, but he didn't look like a man in control; he looked like a terrified middle-manager following blind orders from a Board of Directors who were already safely thousands of miles away.
+
+"Listen up," the Commander barked, his voice hard and uncompromising, amplifying over the PA system. "Effective immediately, all deep-core excavation levels in the Nevada grid are under Level 5 corporate lockdown. No contractor is to approach Sector 4 or the lower maintenance levels. Perimeter patrols are permanently suspended. The staging phase of your contracts is over."
+
+A heavy, terrified murmur rippled through the crowd. Wyatt caught Sarah's eye. Sector 4 was exactly where they had been yesterday. Whatever those scientists were panicking about, it had finally broken through the bedrock. Management was abandoning the lower levels to rot.
+
+"Prepare for immediate off-world transit," the Commander continued, shouting over the rising noise. "Scan your datapads at the deployment kiosks. You have twenty minutes to collect your gear and report to the atmospheric transport bays. Anyone missing their shuttle will be in breach of contract. Dismissed."
+
+The Mess Hall erupted into a chaotic scramble as hundreds of panicked contractors surged toward the exits. Wyatt stepped in front of Sarah, using his broad shoulders to physically break a path through the crushing crowd. In the frantic press of bodies, his hand found hers, their fingers lacing together in a fierce, protective grip as he guided her toward one of the glowing blue deployment kiosks bolted to the concrete wall.
+
+Wyatt pressed his Apex datapad against the scanner. It chimed, and his new orders flooded the screen.
+
+- **DESTINATION:** Apex Frontier Outpost Delta-Niner.
+
+- **LOCATION:** Outer Sol System, Deep Space Observation.
+
+- **PERSONNEL REQUIREMENT:** 2.
+
+Sarah reached around him, pressing her own datapad to the glass. The exact same destination flashed on her screen in blocky green text.
+
+Wyatt read the fine print. It was an isolated, deep-space monitoring station millions of miles from Earth. No science teams. No heavily armored shotgun guards. No corporate oversight. Just a rusted tin can floating in the dark, acting as the automated eyes and ears of Apex's frontier expansion. And out of the thousands of expendable contractors in this facility, he and Sarah were the only two assigned to it.
+
+Wyatt looked down at her. She looked up at him.
+
+The heavy, stoic masks they both wore for Apex almost cracked. Wyatt didn't say a word out loud, but the massive knot of anxiety in his chest completely dissolved. To the terrified recruits and hardened veterans shoving past them, they looked like two grunts processing a terrible, isolated exile.
+
+But beneath the surface, their hearts were racing with pure, adrenaline-fueled triumph. Apex Defense Solutions wasn't punishing them; the company was handing them the exact future they had promised each other on that vinyl sofa. An entire outpost to themselves. Millions of miles from the corporate meat grinder, the hot-bunking, and the constant fear of discovery. They both silently prayed that the automated security cameras out there were just as broken and neglected as the ones in Sector 4. No more hiding in barricaded washrooms. No more rationing their affection for the shadows. They would finally be free to just be in love.
+
+"Pack your bags, Wyatt," Sarah whispered, a small, fiercely private smile tugging at the corner of her mouth, completely ignoring the armed guards and the chaos around them. Her eyes shone with absolute adoration. "Looks like we found our apartment."
+
+"Stay close," Wyatt replied, the heavy tension in his shoulders finally dropping as he gave her a firm nod. He let his thumb brush against her knuckles one last time before releasing her hand, stepping back into professional mode to navigate the crowd. "Let's go catch our ride."
+

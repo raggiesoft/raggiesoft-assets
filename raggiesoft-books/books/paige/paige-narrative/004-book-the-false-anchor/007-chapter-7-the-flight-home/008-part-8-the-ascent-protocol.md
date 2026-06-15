@@ -1,0 +1,88 @@
+# Part 8: The Ascent Protocol
+
+## Thursday, May 13, 2004 — 11:15 AM (PST) Flight 492, Climbing out of SeaTac
+
+The aircraft turned onto the runway. The pilot didn't wait. He pushed the throttles forward, and the engines screamed.
+
+Freddie felt the invisible hand of physics slam him back into Seat 2B. The g-forces were heavier than he expected—a crushing weight on his chest that made it hard to breathe.
+
+He squeezed his eyes shut. He tried to lean left, to bury his face in Paige’s shoulder immediately.
+
+"Not yet," Paige said, her voice strained by the vibration. She gripped his hand tightly, but she kept her body upright, forcing him to stay centered. "Eyes open, Freddie. Process the data. You have to ride it out."
+
+The nose of the plane lifted. The ground fell away. The sensation of "falling up" washed over them.
+
+"Unnatural," Freddie gasped. "We are defying gravity."
+
+"We are using lift," Jessica corrected from the aisle seat, her hand clamped over his right wrist. "It's just math."
+
+The plane banked hard to the left, circling back over the Puget Sound. The grey water and green islands spun beneath them.
+
+Then came the pressure.
+
+As they climbed through 5,000 feet, the air density dropped rapidly. Freddie clawed at his ears.
+
+"Internal error," Freddie winced, shaking his head. "My head is inflating. The pressure is unequal."
+
+"It's the pressurization system catching up," Jessica explained calmly. "You need to equalize. Swallow."
+
+"I can't," Freddie panicked. "It's stuck."
+
+"Drink," Jessica commanded. She cracked the seal on one of the cola bottles she had bought. The hiss of escaping gas sounded loud in the quiet cabin. She handed it to him. "Take three big gulps. Force the swallow."
+
+Freddie grabbed the bottle. He chugged the cold, sugary liquid. *Gulp. Gulp. Gulp.*
+
+*Pop.*
+
+His right ear cleared with a sharp crack. Then his left. The pain vanished, replaced by a dull, muffled hum.
+
+"Equalized," Freddie breathed, lowering the bottle.
+
+"Good," Paige said, watching the horizon tilt. "We're almost there."
+
+"Time?" Freddie asked.
+
+"We've been flying for six minutes," Jessica noted, checking her watch. "We just passed 8,000 feet. The first milestone is 10,000."
+
+"Four more minutes?" Freddie asked, doing the math.
+
+"Roughly," Jessica nodded. "Depending on air traffic."
+
+The plane punched through the thick layer of grey clouds. Suddenly, the cabin was flooded with brilliant, blinding sunlight. They were above the weather. The ride smoothed out instantly.
+
+*Bing-Bong.*
+
+The chime echoed through the cabin. The overhead sign flashed, but the "Fasten Seatbelt" light stayed illuminated.
+
+"Ladies and gentlemen," the pilot announced. "We have reached 10,000 feet. You may now use approved electronic devices. However, we ask that you keep your seatbelts fastened while we continue our climb to our cruising altitude of 35,000 feet, which should take another fifteen minutes."
+
+Freddie looked at Paige.
+
+"The bell," Freddie whispered. "The bell rang."
+
+"Permission granted," Paige smiled softly, lifting her arm. "Engage the emergency brake."
+
+Freddie didn't hesitate. He collapsed.
+
+He slumped to his left, dropping his heavy head onto Paige’s shoulder. He curled his legs up as much as the tight pitch would allow. He let all the tension—the terror of the checkpoint, the noise of the terminal, the g-forces of the climb—drain out of his muscles.
+
+"System... shutdown," Freddie mumbled.
+
+Paige wrapped her arm around him, pulling him in tight. She rested her chin on the top of his head, smelling the faint scent of the hotel shampoo and the airport air.
+
+She felt him shake slightly. A single, hot tear leaked from Freddie’s closed eye, soaking into the fabric of her t-shirt.
+
+It wasn't a tear of pain. It was a tear of absolute, overwhelming gratitude. He wasn't alone in the sky. He wasn't being told to "man up" or "stop acting like a child." He was being held.
+
+"I've got you," Paige whispered, pressing a kiss to his hair. "I'm right here. I'm not going anywhere."
+
+Across the aisle, passengers began clicking their seatbelts open to stretch or reach for bags.
+
+"Stay buckled," Jessica ordered quietly, tightening her own strap. "We are still climbing. The air is thin. Turbulence is unpredictable."
+
+"Confirmed," Freddie whispered into Paige’s shirt. "Strap stays on. Anchor is secure."
+
+"Just sleep, Freddie," Paige soothed, rubbing his arm. "We have fifteen minutes until we level off, and three hours after that. I'll wake you when we see Chicago."
+
+Freddie let the darkness take him, safe in the sandwich, hurtling toward Virginia at 500 miles per hour, held by the sacred vow of a sister who would never let him fall.
+

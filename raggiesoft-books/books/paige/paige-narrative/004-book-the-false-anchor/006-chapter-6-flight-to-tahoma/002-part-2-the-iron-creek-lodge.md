@@ -1,0 +1,58 @@
+# Part 2: The Iron Creek Lodge
+
+## Monday, May 10, 2004 — 12:30 PM (PST) State Route 7
+
+The drive south on SR-167 had turned into SR-161, winding through the Puyallup Valley.
+
+Then, they hit the turn for **State Route 7**.
+
+The four-lane highway narrowed. The concrete median disappeared. The road became a simple, two-lane blacktop winding through the trees.
+
+The warehouses vanished. The strip malls disappeared. They were replaced by Douglas firs that towered two hundred feet into the air.
+
+Freddie sat up straight in the back seat. He looked out the window.
+
+"Two lanes," Freddie whispered. "Yellow line in the middle. Trees on the shoulder."
+
+"Just like home," Jessica said, squeezing his hand.
+
+"It looks like the New River Valley," Freddie said, his voice full of wonder. "It looks like Route 8 to Riner. Or the road to Wind Rock."
+
+He relaxed completely. The knot of "city tension" that had been in his chest since Seattle finally unraveled. This was a scale he understood. One lane forward. One lane back. No merging. No chaos.
+
+"Approaching target," Paige announced from the front. "Ashford. Population: Small."
+
+They turned off the main road onto a gravel drive marked by a heavy wooden sign: **THE IRON CREEK LODGE**.
+
+It wasn't a hotel. It was a collection of heavy timber cabins nestled deep in the woods, spaced far enough apart that you couldn't see your neighbors.
+
+"Cabin 4," Jessica read the key packet she had picked up. "The Bear's Den."
+
+Paige pulled the car up to a sturdy log cabin with a wide front porch and a stone chimney. She put the car in Park.
+
+"Engine off," Paige said.
+
+The silence was instant. No sirens. No bus engines. No traffic drone. Just the sound of the wind in the trees and the rushing water of the Nisqually River nearby.
+
+"Audio check," Freddie whispered, stepping out of the car.
+
+"Clear," Jessica said, standing beside him. "Zero static."
+
+They walked into the cabin. It smelled of cedar and woodsmoke. The main room was cozy, with a leather sofa and a fireplace. But the main attraction was through the bedroom door.
+
+There it was. **The California King.**
+
+It was massive. Bigger than the one at the Cascade Suites. A vast expanse of flannel sheets and heavy quilts.
+
+"72 by 84 inches," Freddie recited the specs, a smile touching his lips. "Maximum capacity."
+
+"We fit," Paige said, dropping her bag.
+
+Freddie walked to the window. He looked out at the forest. He couldn't see the road. He couldn't see a single bus stop.
+
+"We stay here," Freddie decided. "Until the battery is 100%."
+
+"As long as it takes," Jessica agreed, locking the heavy deadbolt on the front door.
+
+They were off the grid. The rescue was over. The vacation had begun.
+

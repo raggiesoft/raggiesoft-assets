@@ -278,6 +278,100 @@ I stood up, gave Archie one last silent pat on the head, and began the slow, ago
 
 - **Logistics for the Drop Zone:** Because the siblings naturally clustered into a single room with the door firmly shut, Tom’s standard Christmas Eve stealth operations were highly successful and low-risk during these years. The 1999 migration to the open-concept living room was the first time their trauma-bonded sleeping arrangements actively threatened the holiday logistics.
 
+# Lore Bible Update: The 7th Period Sanctuary (Spring 2000)
+
+**Timestamp:** January 2000 – June 2000 **Location:** Northwood High School (Band Room / Stage) **Subject:** The Panoff Override, The Veteran's Guidance, & The Afternoon Extraction
+
+## I. The Administrative Override (7th Period)
+
+Mr. Panoff is not just a band director; he is a fully vetted, trusted adult who actively manipulates the Northwood High School bureaucracy to protect his students.
+
+- **The Schedule Shift:** Recognizing that Jessica cannot safely navigate the crowded morning hallways in her manual wheelchair, he intentionally moves the entire Concert Band Percussion section’s designated class time to 7th period (1:10 PM – 2:00 PM).
+
+- **The Roster:** This 7th period roster consolidates the core freshman percussionists (Michael, Ashley, and Leo) under the direct command of their senior Section Leader, Jessica.
+
+- **The Arrival:** Because her core academics are handled by the Homebound Tutor on the living room sofa bed, Jessica does not arrive at the school until 1:00 PM. She is dropped off at the loading dock doors, bypassing the school population entirely and rolling directly into the band room where Michael, Ashley, and Leo are waiting for class to begin.
+
+## II. The Parallel Pack & The Veteran's Guidance
+
+The 7th period percussion section immediately establishes a highly insulated micro-ecosystem, shielded from standard-hardware teenage drama.
+
+- **Leo Porter (Freshman, Percussion):** A fellow percussionist who navigates the room in a wheelchair. Because his words remain permanently trapped behind a physical barrier, he relies entirely on an AAC device to communicate. For Rachel and Michael, Leo is a profoundly safe variable; his existence normalizes their own mechanics.
+
+- **The Veteran and the Rookie:** While Jessica is the undisputed tactical and musical leader of the section, Leo is the absolute veteran of mobility. Having been a lifelong wheelchair user, he recognizes that Jessica is a raw rookie fighting her chair. He uses his AAC to quietly teach her the gritty, practical physics of survival: how to pop a micro-wheelie to clear door thresholds, how to angle her casters to avoid getting stuck in commercial carpet, and how to preserve her shoulder momentum on a long incline. It is a profound, ego-less exchange of knowledge.
+
+## III. The Tuesday Rehearsal (The Stage)
+
+- **The Geometry:** The Northwood High School auditorium stage is located directly across the hall from the band room doors.
+
+- **The Consolidation:** On Tuesdays, the full Concert Band rehearses from 2:30 PM to 4:30 PM. At the 2:00 PM dismissal bell, the percussion pack does not leave. Instead, they are joined by **Luna Porter** (Leo's twin sister). As a freshman tenor saxophone player, Luna has her designated Woodwind section during 4th period, but she immediately regroups with her brother and the Ragsdales when the final bell rings.
+
+- **The Execution:** All five of them (Jessica, Michael, Ashley, Leo, and Luna) simply cross the empty hallway together and ramp up to the stage for rehearsal. Because Jessica is already on campus from 7th period, the logistical friction of transporting her back and forth is completely eliminated.
+
+## IV. The Extraction Protocol (M, W, Th, F)
+
+On non-rehearsal days, the 2:00 PM dismissal bell triggers a massive, chaotic surge of standard-hardware teenagers flooding the hallways toward the buses.
+
+- **The Holding Pattern:** Instead of fighting the crush of students to reach the front pickup loop, the combined pack initiates a strict holding pattern. Mr. Panoff remains in his office doing administrative work, leaving the band room open as a dedicated, quiet sanctuary.
+
+- **The Sentinel’s Choice:** Ashley Raybourn completely abandons the chaotic, deafening environment of the yellow school buses. She voluntarily stays behind in the band room every single day, keeping the perimeter locked down tight alongside Luna.
+
+- **The Exit:** Once the hallways have completely emptied and the acoustic volume of the school drops to absolute zero, the two packs move together out to the pickup loop. Stella Porter (the older sister) arrives to extract Leo and Luna, while Grandma Loretta (or Tom/Ellen) pulls up to the curb to extract Jessica, Michael, and Ashley.
+
+# Lore Bible Update: The Zero-Bell Ambush
+
+**Timestamp:** Spring 2000 **Location:** Northwood High School (The Band Room) **Subject:** Mr. Les Fortune, *Cohen v. California*, and the 7th Period Delivery
+
+## I. The Faculty Conspiracy
+
+Mr. Les Fortune knows exactly why Jessica’s desk in his CP Government class has been empty since November. As one of the most beloved teachers in the building, he is entirely plugged into the faculty network. When Mr. Panoff engineered the massive administrative override to move the freshman percussionists to 7th period, Fortune immediately realized that the band room was Jessica’s only physical footprint on campus.
+
+Refusing to let his brightest student miss the magic of CP Government, Fortune coordinates a tactical strike with Panoff.
+
+## II. The 7th Period Ambush
+
+It is a standard, quiet Thursday afternoon. Jessica, Michael, Ashley, and Leo are safely locked in the 7th-period percussion sanctuary. Mr. Panoff is sitting in his glass-walled office, doing administrative paperwork.
+
+Suddenly, the heavy double doors of the band room fly open.
+
+Mr. Fortune strides in, carrying a battered leather briefcase and a boombox. He doesn't say hello. He doesn't ask for permission. He walks straight past the bewildered freshman percussionists, drops the boombox onto a music stand, hits 'Play' to blast a booming, orchestral backing track, and vaults himself directly onto Mr. Panoff’s elevated Director's Podium.
+
+Panoff simply looks up from his office desk, takes a sip of his coffee, and goes right back to his grading.
+
+## III. The Performance
+
+Standing on the podium, looking down at Jessica in her manual wheelchair, Mr. Fortune launches into an unhinged, flawless, Broadway-level rendition of the First Amendment.
+
+*"Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech!"* he belts out, using a snare drum stick as a makeshift microphone.
+
+Jessica sits frozen in her chair, a massive, stunned grin breaking across her face as the sheer theatrical electricity of the moment completely shatters the sterile routine of her Homebound isolation.
+
+## IV. *Cohen v. California* (The Lesson)
+
+Fortune cuts the music, dropping the theatrics for absolute, razor-sharp academic intensity. He hops down from the podium, pulls up a folding chair, and sits backward on it, directly facing Jessica.
+
+"The First Amendment isn't just about polite disagreements, Ragsdale," Fortune lectures, his voice echoing in the band room. "It’s about the gritty, uncomfortable friction of a free society. 1971. *Cohen versus California*. A nineteen-year-old kid walks into a Los Angeles courthouse wearing a jacket that says exactly what he thinks about the Vietnam draft. Do you know what it said?"
+
+Jessica’s brilliant processor immediately retrieves the exact Supreme Court case file. She knows the answer. She opens her mouth, but the pragmatic, rule-abiding senior inside her catches the syntax before it leaves her throat. She glances sideways at the wide-eyed freshmen sitting nearby, offering a wry, hesitant smirk.
+
+"I know exactly what it said, Mr. Fortune," Jessica replies smoothly, resting her hands on the wheels of her chair. "But I'm pretty sure I can't say that word in a public high school without getting suspended."
+
+"Ah, but that's the absolute beauty of the ruling!" Fortune beams, his eyes lighting up with rebellious academic pride. "It said 'Fuck the Draft,'" he declares loudly, dropping the word like a live grenade right in the middle of the Northwood High School band room.
+
+Michael, Ashley, and Leo’s jaws hit the floor.
+
+"And the Supreme Court of the United States," Fortune continues, completely unfazed by the localized shockwave, "ruled that the state could not criminalize the display of that word. Because one man's vulgarity is another's lyric. The Constitution protects the emotion and the absolute, raw intensity of the speech just as much as the cognitive idea."
+
+## V. The Capstone
+
+Fortune stands up, grabbing a thick, heavily tabbed CP Government study guide from his briefcase. He drops it directly onto Jessica’s lap.
+
+"You are fighting a massive, bureaucratic machine right now, Jessica," Fortune says, his tone softening into profound, genuine respect. He looks at her wheelchair, and then at the fierce determination in her eyes. "You are fighting for your ADA rights, you are fighting the Quantum Catalyst deadline, and you are fighting a system that wants you to be quiet and compliant. Don't you ever let them censor your fight. You make them hear you."
+
+He gives her shoulder a firm tap, shoots a wink at the completely shell-shocked freshmen, grabs his boombox, and marches right back out the double doors.
+
+Jessica looks down at the study guide in her lap. The crushing grief of missing out on her senior year completely evaporates. She wasn't forgotten. The magic had come to her.
+
 # Lore Bible Update: The Quantum Catalyst Initiative 
 
 **Timestamp:** Annual Event (October Announcement – March 15th Deadline) **Location:** Quantum Headquarters (Redmond, WA) / Global **Subject:** QDC, The Vanguard Scholarship, and The Enterprise Challenge

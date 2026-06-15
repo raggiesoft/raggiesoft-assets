@@ -1,0 +1,78 @@
+# Part 5: The System Architecture
+
+## Wednesday, July 9, 2003 20:45 PM
+
+The double feature of *Stellar Voyage: The New Era* was halfway through its second episode. The living room at **105 Pepper Street** was pitch black, save for the cool, flickering blue light of the MagnaView screen.
+
+Freddie was no longer leaning back in the "Safe Harbor" position. He was sitting on the edge of the beige sofa, his body tense with focus, a notepad and pen in his hands—tools he usually reserved for lecture halls.
+
+He wasn't taking notes on the plot. He didn't care that the Romulan-analogue aliens were threatening the Neutral Zone. He was taking notes on the *interface*.
+
+On the screen, **Officer Echo** (the pale-skinned android operations officer) tapped a console. The screen displayed a massive, beautiful schematic of the ship’s warp core. It wasn't cluttered. It was a masterpiece of information design: a stark black background, glowing amber curves for data streams, and crisp, legible purple text for labels.
+
+"It is moving too fast," Freddie hissed, his eyes darting across the screen. "I cannot capture the hierarchy before the camera cuts away."
+
+"Memorize the shape," Jessica advised, watching him panic slightly. "Don't try to read the text. Just get the structure."
+
+Freddie stared unblinking at the screen, burning the image into his retinas.
+
+"Stark background," he muttered, sketching frantically. "Amber data streams. Purple labels. No bevels. Pure geometry."
+
+The camera cut away to Captain Miller’s face.
+
+"Signal lost," Freddie sighed, dropping his pen. He looked down at his crude drawing. He had managed to capture the signature "header rail"—the sweeping curve that contained the navigation buttons on the left side of the screen.
+
+"It optimizes screen real estate," Freddie whispered, tracing the curve on his paper. "Top-level navigation is curved. Sub-menus are linear. It is efficient. There are no wasted pixels. Just data."
+
+"It looks cool," Paige agreed, squinting at the TV. "Very... futuristic."
+
+"I require this aesthetic," Freddie murmured. "When I construct the archive... when I build the portfolio... it must look like this. Dark mode. High contrast. Logical grouping."
+
+"You want your website to look like a starship computer?" Jessica asked.
+
+"I want my life to function like a starship computer," Freddie replied. "Predictable. Color-coded. Alert status indicators."
+
+He pointed at the android on the screen. "And he understands the code. He does not guess."
+
+The episode continued. The ship warped away, leaving a trail of light across the starfield.
+
+As the credits rolled at 9:00 PM, the house was silent again. But Freddie’s mind was loud—not with static, but with calculation.
+
+"Future variable analysis," Freddie announced suddenly, capping his pen.
+
+"What variable?" Paige asked, stretching her arms over her head.
+
+"The Spring 2004 schedule," Freddie said. "Our Fall 2003 classes are locked. We are registered for the Introduction to Programming logic. But for Spring... I will require a Laboratory Science credit."
+
+Jessica groaned, rubbing her temples. "Don't remind me. I pushed my science elective off until Spring of my Junior year because I didn't want to deal with it. I was going to register for Biology. Dissecting frogs. It’s going to be gross."
+
+Freddie shuddered visibly. "Biology is wet. It involves fluids and unpredictable organic textures. I do not wish to engage with amphibian internal organs."
+
+He gestured toward the TV, which was now showing a commercial, but the image of the stars was still burned into his mind.
+
+"Astronomy," Freddie stated. "Course Code: **PHY 102**."
+
+The sisters looked at him.
+
+"Astronomy?" Jessica repeated. "Instead of Bio?"
+
+"It is the study of systems on a macro scale," Freddie explained, his hands moving to shape the air. "Orbits are mathematical loops. Gravity is a constant variable. Stars are just fusion reactors with predictable life cycles."
+
+He looked at the notepad, where he had drawn a small Saturn-like ringed planet in the corner.
+
+"And the labs," Freddie added, a hopeful note entering his voice. "Astronomy labs occur at night. In the dark. While looking through telescopes. It is quiet. It is solitary."
+
+"That actually sounds perfect," Paige realized, looking at Jessica. "No bright lights. No loud noises. Just us and the math. And since Freddie and I are taking all our Gen-Eds together anyway..."
+
+"We could all take it," Jessica finished the thought. "I still need the credit. You guys need the credit. We could register for the same section."
+
+"The Avery Unit in space," Freddie said softly.
+
+Jessica smiled. The idea of spending a semester looking at stars instead of cutting open dead frogs was infinitely more appealing.
+
+"Okay, Captain," Jessica agreed. "Mental note made. When Spring registration opens in October, we are all signing up for PHY 102. No frogs. Just stars."
+
+Freddie stood up. He felt tired, but it was a good tired. The day had been full of friction—Krystal, the smoke, the heat—but he had neutralized the threats. He had his Safe People. He had a mission. And now, he had a destination.
+
+"Course laid in," Freddie whispered to himself. "Engage."
+

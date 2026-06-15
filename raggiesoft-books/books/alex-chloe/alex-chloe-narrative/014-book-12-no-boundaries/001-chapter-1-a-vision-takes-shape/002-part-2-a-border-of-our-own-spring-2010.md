@@ -1,0 +1,27 @@
+# Part 2: A Border of Our Own (Spring 2010)
+
+The decision to focus on the Pacific Northwest brought a new clarity to their brainstorming session. Chloé sat back down at the table, a thoughtful expression on her face as she looked at the newly circled "Pacific Northwest" section of their blueprint.
+
+"Okay," she said, tapping her pen. "So we focus here. The Puget Sound, the Cascade Mountains, the temperate rainforests..." She paused, her mind clearly picturing the map. "But you know," she said, looking at Alex and Megan, "the Pacific Northwest... it doesn't just stop at the 49th parallel."
+
+Alex looked up, catching her meaning immediately. The border. It was always there, a line that had defined her past and was now shaping their future.
+
+"The ecosystems we have here in Washington," Chloé continued, a new excitement building in her voice, "they don't just end at the border. They continue right up into British Columbia. It's all one cohesive region, the Salish Sea. To only show the Washington side... it's like only telling half the story."
+
+Megan, who had been listening with a focused, strategic intensity, leaned forward, her own eyes lighting up. "Okay, hold on," she said, her project manager brain kicking into high gear. "That's not just an idea. That's a brand. That's our unique mission."
+
+Chloé and Alex looked at her, intrigued.
+
+"Think about it," Megan continued, her passion matching Chloé's. "Every other nature center is just 'local.' But we're not just local. We are, by our very nature, a cross-border family. That's our story. What if that's what makes our Center special? What if we embrace that? What if we're proudly, intentionally, both American and Canadian?"
+
+A slow, brilliant smile spread across Alex's face. This was it. This was the idea that tied everything together. Their personal history wasn't a "back burner" idea; it was the very soul of their mission. They would build their own version of Derby Line and Stanstead, a place where the border was a line of connection, not division.
+
+ONE ECOSYSTEM. TWO COUNTRIES, his AAC device voiced, the words a perfect summary of their new mission statement. IT'S OUR STORY.
+
+"It's our story," Chloé echoed, her voice full of a quiet, powerful conviction.
+
+"And it's the perfect hook for donors and for the community," Megan added, her mind already racing with marketing slogans. She picked up a pen and, next to the bold circle around the Pacific Northwest, she drew two flags—a small American one and a small Canadian one, side by side.
+
+The Lynnwood Discovery and Care Center now had its unique identity. It wouldn't just be a local animal rescue; it would be a cross-border institution, a testament to a shared ecosystem and a celebration of the invisible lines that connect, rather than divide.
+
+

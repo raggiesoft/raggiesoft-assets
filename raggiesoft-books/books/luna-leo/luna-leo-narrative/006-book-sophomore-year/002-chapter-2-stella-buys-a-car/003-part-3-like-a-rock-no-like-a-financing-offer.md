@@ -1,0 +1,12 @@
+# Part 3: Like a Rock? No, Like a Financing Offer
+
+Their next stop was the Summit dealer. They looked over a new Gazelle – decent size, seemed practical. Again, a salesperson approached, and again, the conversation immediately pivoted to financing options and "attractive monthly payments."
+
+"Look," Arthur said, his patience clearly thinner this time, "let's save us all some time. We are paying cash. No financing, no loans. What is the final price for this car? Bottom line."
+
+The salesperson looked almost confused. "But sir, our financing rates are excellent right now, you'd barely notice the payment..."
+
+"We notice," Arthur stated flatly, his tone leaving no doubt he understood profit centers. "Cash price. Yes or no?"
+
+After another brief, fruitless exchange where the salesperson seemed unable or unwilling to discuss a simple cash transaction without trying to loop in financing, Arthur sighed and shook his head. "Unbelievable. Two in a row. Come on, Stella. One more stop." He guided a slightly discouraged Stella back out to their car.
+

@@ -1,0 +1,87 @@
+# Part 3: The Exception
+
+## Friday, November 14, 2008 — 22:00 PM The Silo (Master Bedroom)
+
+The house was winding down. The younger twins, Amanda and Elara, were asleep on air mattresses in the living room upstairs (the "Overflow Protocol").
+
+But the core of the house—the heat source—was down below.
+
+In the unfinished basement, the Mega-Bed dominated the room. It was a ten-foot-wide island of maroon duvet and memory foam, resting on its custom-built carpeted platform. The LED lights from Jenna’s server rack cast a soft, rhythmic blue glow against the concrete walls.
+
+The "Regulars" were already assembling.
+
+Sarah was organizing her pillows on the far left edge (The West Wing). Jenna was flopping onto the far right (The East Wing). Jessica and Paige were arranging the center.
+
+Freddie sat on the edge of the mattress in his flannel pajamas. He was transferring from The Rover, his movements slow and stiff.
+
+Harper stood at the bottom of the wooden stairs. She was wearing her oversized sleep shirt. She looked at the massive bed. She looked at the five adults who usually occupied it.
+
+"Can I..." Harper hesitated, her voice small in the large room. "Can I stay in the Bridge tonight? I don't want to be upstairs. It's too open."
+
+Jessica looked up from fluffing a pillow. "Clearance granted," she said softly. "We have the square footage."
+
+Harper walked to the bed.
+
+Usually, the formation was fixed: Sarah - Paige - Freddie - Jessica - Jenna.
+
+But tonight, the architecture shifted.
+
+"I need the middle," Harper said, looking at Freddie. "I need the Core."
+
+Freddie looked at her. He saw the tremor in her hands. He saw the way she was hugging her own ribs.
+
+"Adjusting formation," Freddie announced.
+
+He scooted over. He didn't just make room; he created a gravity well.
+
+Harper climbed into the dead center of the massive bed. The memory foam absorbed her weight. She lay down.
+
+"Freddie," she whispered. "Left flank."
+
+Freddie lay down on her left. He rolled onto his side, facing her.
+
+Harper grabbed his arm. She didn't just hold it; she pulled it over her, draping his heavy forearm across her chest like a seatbelt. She tucked her head under his chin.
+
+"Shields up," Harper murmured.
+
+Jessica took the right flank. She pressed against Harper’s back, sandwiching her.
+
+Paige took the far left, pressing against Freddie’s back, locking the formation.
+
+Sarah and Jenna filled in the edges, closing the ranks.
+
+They were a six-person layer cake of protection on a bed built for five. It was tight. It was warm. It was perfect.
+
+Harper lay in the dark. She breathed in the scent of Freddie’s laundry detergent. She felt the heavy, dead weight of his arm pinning her to the mattress. She felt the bridge—the foam wedge connecting the two Queen mattresses—beneath her hip, but the thick topper smoothed it out so it felt like one continuous surface.
+
+She thought about Travis. She thought about his hands grabbing her chair. She thought about his laugh.
+
+Then she felt Freddie’s heartbeat against her cheek. Slow. Steady. Logical.
+
+He is the only one, Harper thought. The only boy who doesn't want to take. The only boy who just wants to hold.
+
+"Freddie?" Harper whispered.
+
+"Listening," Freddie murmured into her hair.
+
+"If he comes here..." Harper’s voice trembled. "If he finds out where I live..."
+
+Freddie’s arm tightened on her chest. It wasn't a spasm. It was a reflex of pure defense.
+
+"He will encounter the Firewall," Freddie stated, his voice devoid of sleepiness, sharp as a blade. "I will not let him breach the perimeter. I will run him over."
+
+Harper giggled. A tiny, wet sound. "With The Rover?"
+
+"Titanium frame," Freddie noted. "High impact velocity. I will aim for the tibia."
+
+"And if he gets past the Rover," Sarah’s voice came from the dark on the far left, "he has to get past the Laundry Brigade."
+
+"And the Server Rack," Jenna added from the far right. "I have cables. I can bind him."
+
+Harper smiled in the dark. She snuggled closer, wrapping her legs around Freddie's.
+
+"Okay," she whispered. "Break his legs."
+
+"Affirmative," Freddie said.
+
+Safe in the arms of the only male she trusted, surrounded by the sisters who built a bed big enough to hold them all, Harper Avery finally closed her eyes. The countdown to midnight—to Travis’s 18th birthday—ticked away, but it didn't matter anymore. She was in the Bridge. She was with the Unit. And she was safe.

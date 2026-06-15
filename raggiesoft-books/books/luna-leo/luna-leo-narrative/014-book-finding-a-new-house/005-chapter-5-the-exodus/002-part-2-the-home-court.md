@@ -1,0 +1,88 @@
+# Part 2: The Home Court
+
+## July 27, 2006 Iron Point Town Hall - Probate Court 09:00 AM
+
+The walk from the Grey Gull to Town Hall was a pleasant quarter-mile stroll under the summer maples. Leo pushed his manual chair, enjoying the smooth, flat sidewalks of his new hometown.
+
+They arrived at the Town Hall. It was quiet. No metal detectors, no bailiffs shouting. Just Mrs. Higgins waving from the Clerk’s office as they headed up the stairs to the courtroom.
+
+The courtroom was small, paneled in dark oak, with dusty sunlight streaming through the tall windows. It smelled of old books and lemon polish.
+
+Stella organized her binder on the plaintiff’s table. "Okay," she whispered. "This is the **Final Transfer Hearing**. Once the Judge signs the 'Order Accepting Jurisdiction,' Virginia is legally erased. We answer only to Iron Point."
+
+The door to the judge's chambers opened.
+
+A man in a black robe walked out. He was in his sixties, with shock-white hair and a face that looked like it had been carved out of New England granite.
+
+Stella blinked. She recognized him.
+
+Earlier that morning, when they had walked past their new house to check the mailbox, this man had been in the yard of the house next door—**12 Ocean View Lane**. He had been aggressively pruning a rhododendron bush and cursing at a squirrel.
+
+He sat behind the bench. He put on his reading glasses. He looked down at the file, then up at Stella.
+
+"Morning," the Judge said. His voice was a deep, gravelly rumble. "I'm **Judge Silas Miller**. I believe we're neighbors."
+
+"Judge Miller," Stella said, standing up. "We are. I'm Stella Porter."
+
+"I know who you are," Judge Miller said, a glint of amusement in his eyes. "You're the woman who walked into Elias Thorne's office with a briefcase full of cash and told Seaside Estates to go to hell."
+
+Luna stifled a giggle.
+
+"News travels fast," Stella said.
+
+"In Iron Point?" Miller chuckled. "It travels faster than the train. Elias is an old friend of mine. He told me you saved his grandfather's oaks. I appreciate that. I hate those plastic condos. They ruin the drainage."
+
+He opened the file. He became serious, but not scary. It was the seriousness of a mechanic checking an engine.
+
+"I have reviewed the **Provisional Order** from the Virginia Circuit Court," Judge Miller said. "And I have reviewed your petition to transfer the Guardianship and Conservatorship of **Luna Eleanor Porter** and **Leo Arthur Porter** to this jurisdiction."
+
+He looked at Leo.
+
+"Leo," the Judge said. "You understand that by moving this case here, I become the ultimate authority over your affairs? If your sister wants to sell your house or make a major change to your trust, she has to ask me first."
+
+Leo nodded. He typed on his **MagnaByte Scribe**.
+
+*"I UNDERSTAND. YOU ARE THE FIREWALL."*
+
+Judge Miller read the screen. He smiled.
+
+"The Firewall. I like that. Better than 'Your Honor.'"
+
+He turned to the deed in the file.
+
+"I see you've already recorded the deed with the specific restriction tying the property to this court," Miller noted. "That's a 'Poison Pill' for developers. Smart."
+
+"We intend to stay, Judge," Stella said. "Permanently."
+
+"Good," Miller said. "Because if any developer tries to petition this court to break that conservatorship so they can build a duplex, I'll throw them out the window myself."
+
+He picked up his pen. He signed the **Order Accepting Jurisdiction**.
+
+*Scritch-scratch.*
+
+"So Ordered," Judge Miller declared. "The Guardianship is hereby transferred to the **Town of Iron Point Probate Court**. Virginia is closed. You are officially Rhode Islanders."
+
+He took off his glasses.
+
+"Now, Ms. Porter, a word of advice about the neighborhood," Miller said, leaning forward. "Trash day is Tuesday. If you put your bins out on Monday night, the raccoons will get them. They're organized."
+
+"Noted," Stella smiled. "Tuesday morning."
+
+"Welcome to the neighborhood," Miller said, standing up. "Court adjourned."
+
+## 09:30 AM Main Street
+
+They walked out of Town Hall. The sun was shining. The air was salty.
+
+Stella held the certified copy of the Court Order.
+
+"It's done," she said. "We're legal. And our Judge lives next door."
+
+Leo looked back at the brick building. In Virginia, the court had been a place of fear—where they had to fight to prove their parents were negligent. Here, the court was just a neighbor who hated condos and raccoons.
+
+He tapped his Scribe.
+
+*"HOME COURT ADVANTAGE,"* he typed.
+
+"The ultimate advantage," Olivia agreed. "Now, let's go check the tracking on the moving truck. I think our furniture is crossing the George Washington Bridge."
+

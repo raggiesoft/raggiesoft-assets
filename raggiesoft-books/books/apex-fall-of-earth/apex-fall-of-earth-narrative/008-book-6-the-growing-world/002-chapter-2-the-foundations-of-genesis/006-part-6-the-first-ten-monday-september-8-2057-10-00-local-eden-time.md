@@ -1,0 +1,62 @@
+# Part 6: The First Ten – Monday, September 8, 2057 – 10:00 (Local Eden Time)
+
+The mahogany-paneled library of The Sanctuary was operating at maximum tactical capacity.
+
+At eleven years old, the Vanguard had fully entered the throes of adolescence. The physical changes were impossible to ignore, but the unit’s unbreakable perimeter had successfully adapted to the chaotic biological updates.
+
+Leo Colton was a commanding physical presence, his shoulders broad and his frame stretching rapidly in his titanium Daily Driver wheelchair. His voice had permanently dropped into a deep, resonant baritone, but his need for absolute structure remained unchanged. He sat in the center of the room, flanked on both sides by his sisters.
+
+Nora, balancing smoothly on her lengthened titanium forearm crutches, stood flush against his right wheel. Ellie stood on his left, her canvas tactical vest let out to its maximum adjustments to accommodate her eleven-year-old frame. She maintained a light but firm grip on Leo’s shoulder, providing the constant, grounding physical pressure he required to stay regulated while his hormones surged.
+
+"The timeline is approaching," Ellie announced, her voice crisp and entirely authoritative. She looked across the massive holographic glass table at her parents. "We are less than a year from the twelve-year mark. We require a logistical briefing on the Genesis decanting protocols."
+
+Wyatt and Sarah sat on the leather sofa, exchanging a deeply proud look. Their children weren't just participating in the colony's founding; they were actively demanding the blueprints.
+
+"You're right, Commander. It's time to lock in the roster," Wyatt agreed, his veteran instincts perfectly aligned with his daughter's need for preparation. "Aria, bring up the Sub-Level 6 cryogenic schematics."
+
+The glass table flared to life. A glowing blue, three-dimensional projection of the Genesis Vault materialized, displaying rows upon rows of thousands of sleeping embryos.
+
+"We originally planned to wake a cohort of fifty," Sarah explained, leaning forward and tracing the edge of the hologram. "But Dad and I ran the logistics. Fifty infants is a massive shock to the estate's ecosystem. It would overwhelm the Fab-Foundry's output for supplies, and it would stretch our command perimeter too thin."
+
+"Fifty is a mob," Ellie grunted her agreement, her tactical brain instantly recognizing the chaos of managing fifty new assets at once. "Unacceptable risk."
+
+"Exactly," Wyatt nodded. "So, we are initiating a pilot program. We are scaling the first cohort down to exactly ten individuals. Five boys, and five girls. A perfect, balanced squad to act as the foundation for the Genesis village."
+
+Leo looked at the ten glowing pods highlighted on the table. He processed the number. It was a clean, manageable geometric pattern. He reached down to his lap tray, his heavy fingers moving with practiced speed across his AAC tablet.
+
+"Ten is a highly acceptable integer," Leo’s deep, synthesized voice echoed in the library. "The Vanguard can maintain an overwatch perimeter for ten localized assets without risking sensory overload."
+
+Nora smiled warmly, keeping her position against his wheel. She tapped the sleek AAC device strapped to her forearm, bypassing her slight speech impediment to keep the meeting moving efficiently.
+
+"It will be wonderful to have new faces in the mountain," Nora's AAC chimed. "But how will they learn? Will they go to school in the library with us?"
+
+"They will," Sarah smiled, looking over at the far corner of the room.
+
+Seven-year-old Jack was sitting at a smaller desk, helping four-year-old Tyler and Evan construct a mechanically complex puzzle, while five-year-old Molly and Claire read quietly beside them. Jack looked up, his incredibly advanced, diplomatic mind instantly tuning into the conversation.
+
+"But they won't just learn from us," Sarah continued, looking back at the Vanguard. "We want Genesis to be a beautiful, diverse world. If they only ever hear our voices, we lose the history of Earth. So, Aria is going to assign them a specialized holographic teacher."
+
+"Aria, activate the Cultural Preservation Matrix for Cohort One," Wyatt commanded. "Region: Oceania. City: Sydney, New South Wales."
+
+The glowing blue pods on the table dissolved. In their place, a life-sized, high-definition hologram of a young woman materialized. She wore a bright, welcoming smile and comfortable, practical Earth clothing.
+
+"G'day, everyone," the hologram spoke. Her voice was incredibly warm, bright, and carried a thick, authentic, rolling Sydney accent. "How are we going today? I'm so keen to get started with our lessons. It's going to be brilliant."
+
+The entire room went quiet. The phonetic shift was staggering. After eleven years of hearing nothing but the standard American accents of their parents and siblings, the musical, energetic cadence of the Australian hologram was entirely captivating.
+
+Jack stood up from his puzzle. The seven-year-old diplomat walked slowly over to the glass table, his bright eyes wide with absolute fascination. He stared at the holographic teacher, his highly empathetic brain instantly absorbing the melodic inflections and the easy, outgoing mannerisms of the projection.
+
+"She sounds... happy," Jack murmured, completely enchanted by the sound. "She sounds like the sun."
+
+"She does, Jack," Sarah laughed softly. "And because she is going to be the primary teacher for those ten babies, they are going to grow up sounding exactly like her. They will learn our language, but they will carry the accent of Sydney, Australia."
+
+Jack looked at the ten glowing pods that had reappeared at the edge of the table. He thought about the five girls and five boys sleeping down in the freezing dark. In a few years, they were going to walk out into the valley, and they were going to speak with that exact, brilliant, sunlit cadence.
+
+He couldn't wait to meet them.
+
+"Ten recruits," Ellie finalized, bringing the meeting back to strict operational parameters. She crossed her arms, looking at Wyatt and Sarah. "Five male. Five female. Sydney cultural matrix authorized. The Vanguard accepts the mission parameters. We will be ready."
+
+"I know you will be, El," Wyatt smiled, his chest aching with fierce pride as he looked at his eleven-year-old command staff.
+
+The blueprints were drawn. The roster was locked. The cultural history of Earth was queued up and ready to broadcast. The countdown to their twelfth birthday—and the official dawn of a new civilization—had officially begun.
+

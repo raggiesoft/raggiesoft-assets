@@ -1,0 +1,50 @@
+# Part 2: The Dungeon
+
+The tour of the main floor was quick. The kitchen (small), the living room (beige), and the Master Bedroom (The Silo).
+
+Then came the logistics briefing.
+
+"Okay, listen up," Jessica announced, standing at the door to the basement stairs. "We have high occupancy and low square footage. We have to be strategic."
+
+She pointed to the living room sofa.
+
+"Aunt Linda, you have the fold-out sofa bed. It’s lumpy, but it’s close to the coffee pot."
+
+"Sold," Linda said, dropping her bag.
+
+"Freddie, Paige, and I remain in the Silo," Jessica continued. "We do not disrupt the Core."
+
+She opened the door to the basement. A draft of cool, earthy air drifted up.
+
+"You guys," Jessica pointed to her five younger sisters, "are in the Underworld."
+
+They descended the wooden stairs. The basement was unfinished—a cavern of concrete floors, exposed rafters, and cinder block walls. It smelled of damp earth and laundry detergent.
+
+Jessica and Paige had set it up as best they could. Five vinyl air mattresses were arranged on the floor, covered in bright sleeping bags. A string of Christmas lights hung from the copper pipes to banish the gloom.
+
+"It’s like a bunker!" Jenna shouted, her voice echoing off the concrete. "Awesome!"
+
+"It’s cold," Sarah noted, pulling her cardigan tighter.
+
+"It’s thermal regulation," Freddie called down from the top of the stairs. He did not descend. "The temperature is constant."
+
+Then, Harper saw it.
+
+In the far corner of the basement, sitting all by itself against the cement wall, was a porcelain toilet.
+
+There were no walls around it. No curtain. No stall. Just a lonely toilet plumbed directly into the floor, sitting next to a deep utility sink and the furnace.
+
+"What," Harper asked, pointing a trembling finger, "is that?"
+
+"That," Jessica explained, trying not to laugh, "is a Pittsburgh Toilet. Miners used to use them to clean up before going upstairs."
+
+"It’s... naked," Elara whispered, horrified.
+
+"It is fully functional," Jessica promised. "But, as you can see... it offers zero visual cover."
+
+Sarah stared at it. She imagined sitting there while her four sisters played cards on the air mattresses ten feet away.
+
+"Absolutely not," Sarah declared. "I will hold it for three days if I have to."
+
+"If you really have to go," Paige offered, "it’s right there. But yeah... it’s the Throne of Shame."
+

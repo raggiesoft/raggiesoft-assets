@@ -1,0 +1,18 @@
+# Part 7: An Unexpected Family Lockdown (March 2020)
+
+The days following their dramatic return to Virginia were surreal. The world outside was a landscape of fear and uncertainty, with daily news of lockdowns and closures. But inside the two houses on Lisa Court, a unique, multi-generational family unit settled into a quiet, protective bubble. Alex, Chloé, and Megan, along with all four parents, were now officially in a 14-day quarantine, a strange, forced period of togetherness.
+
+The Miller house living room had become the central command post. The queen-sized pull-out sofa bed, once a temporary solution, was now the permanent "nest" for the three musketeers, an arrangement everyone understood was non-negotiable for Alex's peace of mind.
+
+One of their first priorities was to reassure their family in Canada. The seven of them gathered around a laptop for a video call, and soon the worried faces of Geneviève, David, and their cousins filled the screen.
+
+"We're okay, Tante," Chloé said, her voice a calm, reassuring anchor. "We're all safe. We're home."
+
+Megan, sitting on the other side of Alex, chimed in, a warm, steadying smile on her face. "It was a crazy trip, but we're all here now. Safe and sound. The parents are taking amazing care of us."
+
+WE ARE OKAY, Alex's device voiced, the simple words a profound comfort to the worried faces on the screen. WE ARE ALL TOGETHER.
+
+The daily routine in the Miller house quickly adapted to their new reality. While the parents handled the cooking and the difficult logistics of no-contact grocery pickups, the three younger adults focused on their own teamwork. With Alex's routine disrupted by the travel and stress, his care needs were a priority. Chloé and Megan fell into a seamless, supportive partnership. Helping Alex with his daily bathing and toileting needs became a two-person job, their combined efforts a quiet, efficient ballet of care. There was no awkwardness, just the practical, loving work of ensuring their third member was safe, clean, and comfortable.
+
+The small acts of care, the shared space of the sofa bed, the constant, loving presence of both his wife and his cousin—it was a powerful, restorative medicine for Alex. The terror of the last few days began to recede, replaced by the profound, unshakable security of being in the heart of his fortress, surrounded on all sides by the people he trusted most in the entire world.
+

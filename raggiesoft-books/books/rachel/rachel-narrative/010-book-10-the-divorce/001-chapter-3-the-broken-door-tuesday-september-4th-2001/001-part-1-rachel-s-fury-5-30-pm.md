@@ -1,0 +1,98 @@
+# Part 1: Rachel's Fury – 5:30 PM
+
+The two-week reprieve was officially over. Mom was back from her work trip, the house was no longer ours, and the terrifying reality of the legal separation had finally arrived at the front door.
+
+We were huddled together on the bottom mattress of the bunk bed in Rachel’s room, my arms locked tightly around her, when the shouting started downstairs. We had dragged the cordless phone upstairs with us, keeping Jessica on speakerphone, needing our older sister's presence to anchor us as the volume in the kitchen escalated.
+
+Then, heavy footsteps pounded up the wooden stairs.
+
+"I’m here to collect my daughter, then I’ll leave!" Dad’s voice boomed from the hallway.
+
+The court order was finalized. The terms were set. Rachel was to live with Dad, and I was to stay with Mom. But sitting there on the bed, feeling Rachel shaking violently against my chest, we had already made our pact. Court orders be damned. We were not going to be separated.
+
+Dad’s heavy fist pounded against the painted wood of the bedroom door. We had locked it the second he pulled into the driveway.
+
+"Rachel, it’s time to go," Dad yelled through the wood.
+
+Rachel didn't cower. The sheer, overwhelming terror in her nervous system suddenly flipped a switch, bypassing panic and igniting into pure, unadulterated fight-or-flight rage.
+
+"I will not!" Rachel snarled angrily, her voice tearing from her throat.
+
+A heavy, metallic scraping sound echoed from the hallway. I stared at the brass doorknob, my brain struggling to process the visual data. He wasn't just turning it. He had a screwdriver.
+
+A second later, the brass doorknob completely detached, clattering heavily onto the carpeted floor. The mechanism gave way, and the door swung wide open.
+
+The absolute violation of our safe space shattered whatever restraint Rachel had left.
+
+Dad entered the room, his jaw set, and reached out to grab her arm to force her to come with him. He didn't even get his hand around her wrist.
+
+Rachel snapped. Right before my eyes, moving faster than I had ever seen her move, my little sister lunged forward. She slapped our father squarely across the face with a loud, stinging *crack*.
+
+"Get the fuck out of my bedroom!" Rachel screamed, her face flushed red with absolute, blinding rage.
+
+Dad staggered back a half-step, completely shocked. At that exact moment, Mom rushed through the open doorway, reaching out to intervene. But Rachel’s system was entirely overloaded. She was lashing out at the source of the threat, unable to distinguish between the two adults tearing her world apart. Still full of anger and sheer panic, Rachel swung her hand again and slapped our mother, too.
+
+The room dissolved into absolute chaos.
+
+I jumped off the bed, putting my body directly between my sister and our parents. I puffed my chest out, ignoring the tightness in my legs, and screamed at the top of my lungs.
+
+"Both of you, leave this house!" I roared, my voice breaking with fury. "Get out!!! Just get out!"
+
+Behind me, the adrenaline suddenly burned out of Rachel's system. She collapsed onto the carpet, her knees giving out, and broke into heavy, gasping sobs. She couldn’t believe she had just slapped both of her parents, and she couldn't believe we had both just screamed at them. The rigid, predictable rules of our childhood had just been violently destroyed.
+
+From the mattress, the small speaker of the cordless phone crackled to life.
+
+Jessica had heard everything.
+
+"Mom and Dad, you both are being fucking assholes," Jessica snarled over the phone, her voice shaking with protective fury. "Yes, I just called both of you 'assholes!' Get out of my sister’s room… now!"
+
+Mom stood in the doorway, holding her cheek, looking down at us with a mixture of shock and exhaustion. "Rachel, can we be reasonable?"
+
+But Dad was already gone. He had turned around and walked out, his heavy footsteps retreating down the stairs.
+
+I decided right then and there that my sister and I were in no mood to talk to either parent. We were completely done.
+
+"Get out of the house and leave us be!" I yelled at Mom, pointing toward the hallway.
+
+Mom didn't argue. She turned around and slowly walked out. A few minutes later, I walked over to the bedroom window and looked down at the driveway. Dad’s truck was gone. Mom’s car was backing out into the street. They had both completely retreated, running away from the explosion they had caused.
+
+I walked back to the bed and sat down next to Rachel. I looked at her, sobbing on the floor, and made a permanent decision. I didn’t care how bad the legal fallout would get, or what the courts said. From this second forward, I was going to be extremely protective of my sister. We loved each other too much, and we absolutely refused to be separated.
+
+"They are gone, Jess," I said, picking up the phone. "They both went to work. It is just Rachel and I right now. And the slapping you heard... was Rachel slapping both of them."
+
+"Good!" our older sister replied fiercely. "If I had money, I’d bring both of you to Seattle with me right now. I'd get an apartment and you'd never have to see them again." Jessica let out a frustrated, tearful sigh. "Now I need to get going because I have an evening class. If anything happens, report it to me immediately."
+
+"Will do," Rachel and I sobbed together. We said our goodbyes and hung up the phone.
+
+The house was dead silent, the broken doorknob still resting on the floor.
+
+"Let's go downstairs and pour two quick bowls of cereal," I said quietly, trying to re-establish our coping routine. "When we get back upstairs, I’m going to quickly gather something to wear for tomorrow. Then I don’t mind sleeping with you tonight. Would you like to be in my room, since my door can still lock?"
+
+"Please do," Rachel sobbed as we walked downstairs to the kitchen. "I’m afraid of being alone."
+
+"That’s no problem," I said, setting the cereal boxes on the counter. "How about we take turns taking showers, then we will try to catch some sleep?"
+
+"I think I need a bath," Rachel whimpered, her hands shaking as she tried to hold her spoon. "To relax my muscles. Everything hurts."
+
+"That’s fine," I said gently. I knew the neurotypical rules of high schoolers and modesty, and I tried to apply them. "I can wait in my room, so I don’t invade your privacy. I’ll still be right here. If you need me, you can wrap a towel around yourself and call for me."
+
+Rachel dropped her spoon into the ceramic bowl. She belted out the biggest, most agonizing wail I had ever heard. The sheer panic of abandonment ripped through her all over again.
+
+"I don’t care about privacy!" Rachel cried, tears streaming down her face. "Please don’t leave my side!"
+
+"Okay," I surrendered instantly. "If that’s what you really want."
+
+To make absolutely sure I understood her, she reached out, grabbed my wrist, and physically dragged me down the hallway toward the bathroom.
+
+I didn't fight her. The concept of privacy had been completely eradicated by the terror of the court order. I walked into the bathroom and immediately turned my back, staring at the closed door while she turned on the faucet. I listened to the rushing water and the heavy splash of half a bottle of bubble bath being poured in.
+
+I waited until I heard the sloshing sound of her sinking into the tub.
+
+"Okay," she sobbed.
+
+I turned around. I sat down on the closed toilet lid, fully dressed in my t-shirt and jeans. Rachel was completely submerged up to her chin in a thick, white mountain of soap bubbles, her knees pulled up to her chest beneath the water, crying her eyes out.
+
+She didn't want a bath for the hygiene. She wanted the heavy warmth of the water to regulate her overloaded sensory system, and she needed her Safe Person to anchor her to reality.
+
+I leaned forward, resting my elbows on my knees, and locked my eyes firmly with hers. I didn't look anywhere else. I just held her gaze, offering the steady, undeniable proof that I was right there, keeping the world from dragging her away.
+

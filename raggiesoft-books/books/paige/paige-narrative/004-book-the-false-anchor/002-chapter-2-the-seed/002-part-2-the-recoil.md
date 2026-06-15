@@ -1,0 +1,94 @@
+# Part 2: The Recoil
+
+## Spring 2004 Thursday, February 19, 2004 — 16:20 PM
+
+The silence in the corner of Newman Library was thick, heavy, and dangerous.
+
+Paige hadn't let go of Freddie. Her arms were still locked around him, her chin resting defiantly on his shoulder. But she wasn't just holding him for comfort anymore; she was holding him like a weapon she was ready to use.
+
+She lifted her head. Her eyes, usually warm and laughing, were narrowed into slits of pure, protective aggression.
+
+"You know what?" Paige said, her voice shaking slightly—not with fear, but with adrenaline. "Maybe you *should* hug your brother more often."
+
+Vanessa blinked, taken aback by the sudden counter-attack. "I—"
+
+"Seriously," Paige interrupted, her voice rising just enough to turn heads at the nearby tables. "You think this is tragic? You think I'm missing out?"
+
+She tightened her grip on Freddie, pressing her cheek against his temple.
+
+"Do you know what it's like out there, Vanessa?" Paige demanded. "Do you know what it's like to go to a party or a bar in this town? Every guy I meet is running a calculation. They're looking at my chest. They're trying to figure out how many drinks it takes to get me into bed. They don't want *me*. They want a conquest."
+
+Freddie stayed perfectly still, his eyes wide behind his glasses. He felt the vibration of her anger in his chest.
+
+"It is rather nice," Paige hissed, "having a man in my life who isn't interested in my breasts. Who isn't desperately trying to have sex with me. Who just wants me to be *there* because I make him feel safe."
+
+She looked down at Freddie, softening for a split second, before snapping her gaze back to Vanessa.
+
+"He's the only guy I know who doesn't want something *from* me," Paige said. "He just wants *us*. So don't you dare tell me I'm the one losing out."
+
+Across the table, Jessica slowly lowered her red pen.
+
+She didn't speak. She didn't have to. She turned her head and fixed Vanessa with a look that was colder than liquid nitrogen.
+
+It was the "Matriarch Gaze." It was a calculation of utility versus threat.
+
+- **Utility:** Vanessa does the math. She organizes the data.
+
+- **Threat:** Vanessa is destabilizing the Core.
+
+The look said clearly: *One more strike. One more word against the Unit, and you are deleted. I don't care if you have a 4.0 GPA. I will drag you out of this library myself.*
+
+Vanessa froze.
+
+She looked at Paige, fierce and trembling. She looked at Jessica, silent and lethal. She looked at Freddie, huddled in the center, looking terrified not of his sisters, but of *her*.
+
+*Miscalculation,* Vanessa thought. *Severe error.*
+
+Her mind flashed back to her own home in Portsmouth, Virginia. She thought about her brother, David. The screaming matches over the remote. The time he locked her out of the house in the rain. The way they flinched if they accidentally brushed arms in the hallway. *Hug him?* She would sooner hug a cactus.
+
+To Vanessa, affection was a weakness. It was leverage. But here... looking at Paige... she realized she was looking at something she couldn't break with logic.
+
+She couldn't shame Paige into leaving Freddie. Paige didn't see it as a burden. She saw it as her sanctuary.
+
+*They will never separate voluntarily,* Vanessa realized. *The bond is structural. You cannot untie a knot that has been fused.*
+
+She needed to retreat. Immediately.
+
+Vanessa’s face crumpled. The arrogant pity vanished, replaced by a look of contrite, wide-eyed innocence.
+
+"I... I am so sorry," Vanessa whispered, her voice trembling perfectly.
+
+She reached out a hand, palm up, in a gesture of peace.
+
+"Paige, please. You're right. I was projecting. I was..." She looked down at the table. "I was jealous. Me and David... we fought every single day. I don't think he ever made me feel safe. Not once."
+
+She looked up, tears shimmering in her eyes (a calculated physiological response).
+
+"I see what you have, and I don't understand it because I've never had it," Vanessa said. "I didn't mean to insult you. I was just... trying to make sense of how lucky Freddie is."
+
+She looked at Jessica, silently pleading for mercy.
+
+"Please don't kick me out," Vanessa whispered. "I really want to finish Project Helios. I like being part of the team. I promise... no more amateur psychology. Just math."
+
+Jessica held the gaze for three seconds. Then, slowly, the ice thawed.
+
+"Just math," Jessica confirmed, her voice flat.
+
+She looked at Paige. "Stand down, Lieutenant."
+
+Paige took a deep breath. She let it out slowly. She lowered her chin back onto Freddie’s shoulder, resuming her post.
+
+"Just math," Paige agreed, though she didn't smile.
+
+"Accepted," Freddie whispered, his heart rate slowly returning to normal.
+
+Vanessa picked up her pencil. Her hand wasn't shaking.
+
+She had lost the skirmish. She had nearly been exiled. But she had learned a valuable piece of data: *The sisters are the firewall. And firewalls cannot be reasoned with.*
+
+*They must be bypassed.*
+
+"Okay," Vanessa said softly, looking at the spreadsheet. "Let's calculate the orbital resonance of Planet 4."
+
+She went back to work. She was quiet. She was helpful. She was safe. But behind her wire-rimmed glasses, she was already planning her next move.
+

@@ -1,0 +1,38 @@
+# Part 3: Stranded in Vermont
+
+The wave of relief at being on U.S. soil was a brief, powerful current that immediately crashed against the rocky shore of their new reality. They were in Derby Line, Vermont. It was nearly 10 PM on a cold March night. And the three of them were sitting in a Canadian rental van they couldn't legally return, with a flight home out of a now-unreachable airport in another country.
+
+"Okay," Chloé said, her voice tight with a forced calm she didn't feel. She pulled the van into the parking lot of a closed gas station, the only light coming from a humming soda machine. "First things first. We find a hotel for the night. We'll figure out the rest in the morning."
+
+Megan, ever the project manager, immediately pulled out her own cell phone. "I'll start calling," she said, her voice a mask of professional efficiency over her own rising anxiety.
+
+For the next twenty minutes, Chloé and Megan worked their phones in a frantic, parallel effort. The answer was a monotonous, soul-crushing chorus of rejection.
+
+"I'm sorry, ma'am, we're completely full." "No, nothing available. We've been booked solid for hours." "People sleeping in their cars in the parking lot, honey. Haven't seen anything like it."
+
+Every hotel, every motel, every bed and breakfast was a logjam of other panicked travelers. There were no rooms. Anywhere.
+
+CHLOÉ? MEGAN? Alex's device voiced from the back of the van, his tone calm but the question heavy with their shared, unspoken terror. WHAT DO WE DO?
+
+Chloé took a deep, shuddering breath. "Okay," she said again, the word now a fragile mantra. "Okay. New plan." She pulled the rental agreement from the glove compartment. "Megan, you try the 1-800 number. My battery is about to die."
+
+Megan dialed, putting the call on speakerphone. The hold music was a tinny, cheerful tune that felt like a personal insult. After forty-five excruciating minutes, a harried-sounding agent finally answered. Chloé explained their situation in a rush: they were U.S. citizens, they had just legally re-entered their home country, and they were now stranded in Derby Line, Vermont, with a van that belonged at the Montréal airport.
+
+The agent's response was a script-driven recitation of corporate policy. "I see. As per your rental agreement, the vehicle must be returned to the YUL airport location. Failure to do so will result in..."
+
+"We can't return it there," Chloé cut in, her voice sharp with desperation. "The border is closed. We are physically unable to get back into Canada."
+
+Another long hold. Finally, the agent returned, his voice flat. "A one-time cross-border drop-off exception can be authorized. The nearest corporate return center is at Burlington International Airport. You will be subject to a cross-border drop fee, a wrong-location fee, and any mileage overages. We cannot guarantee what rental options will be available for you there."
+
+The call ended. The verdict was clear: their only option was to drive two hours south, deeper into the night, deeper into their home country, with no guarantee of shelter or a way forward when they got there.
+
+Chloé dropped her dead phone into her lap and finally let out a single, choked sob. Megan just stared at the road ahead, her own face a mask of grim, weary resolve.
+
+Alex reached forward and placed his hand on Chloé's arm, his grip firm and steady.
+
+WE CAN DO THIS, his device stated, its voice a beacon of calm in their sea of uncertainty. TOGETHER. WE DRIVE TO BURLINGTON.
+
+Chloé looked at him, at his unwavering, trusting face, and found a new reserve of strength. She nodded, wiping her eyes. "You're right," she said, her voice shaking but resolute. "We drive to Burlington."
+
+Megan started the van. "Okay, team," she said, her voice full of a quiet, fierce determination. "Burlington it is."
+

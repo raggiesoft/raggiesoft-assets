@@ -1,0 +1,40 @@
+# Part 2: The Morning Ration – Friday, October 21, 2044 – ~01:15
+
+Wyatt merged into the sluggish stream of gray-clad contractors heading down the neon-lit corridors toward the Mess Hall. The harsh fluorescent lights hummed their usual migraine-inducing tune, and the air smelled like the same stale mix of sweat, floor wax, and industrial dust.
+
+As he walked, Wyatt noticed it wasn't just Row 42 that was suffering from Apex's administrative incompetence. He passed dozens of other contractors complaining quietly to each other about the forced double-bunking. The HR algorithm hadn't just glitched on Sarah's schedule; it had systematically over-assigned the entire staging facility to maximize the excavation timeline, completely ignoring physical bed space. It was a massive, base-wide clerical failure that management was simply ignoring because fixing it would halt production.
+
+Wyatt and Sarah exchanged a quiet, knowing look. The system was entirely broken, which meant no one was going to notice two contractors quietly taking advantage of it to stay together.
+
+They stepped through the wide archway into the cavernous Mess Hall. The deafening, overlapping roar of conversations and scraping metal benches washed over them. The massive digital billboard was still looping its blinding *BE A MARINE™* recruitment ad.
+
+But as Wyatt guided Sarah toward the wall dispensers, the veteran instincts he'd honed on deep-sea rigs started to quietly ping.
+
+He pressed his thumb against the biometric scanner. The machine whirred, ground heavily for a few seconds longer than it did yesterday, and unceremoniously dispensed a dented, gray brick of nutrient paste. Sarah stepped up, scanned her wrist, and got her brick.
+
+Wyatt steered her away from the crowded center of the room, finding an empty spot at a bolted metal table near a massive concrete support pillar. It put a solid wall to their backs and gave them a clear line of sight to the Security Checkpoint. They both sat down.
+
+"Look at the Supervisors," Wyatt told her quietly, unwrapping his foil brick.
+
+Sarah took a bite of her tasteless ration and subtly swept her eyes across the room. The armed Apex guards were still stationed behind the bulletproof glass and by the main exits. They weren't in full tactical gear yet, and they weren't actively aiming their combat shotguns, but their posture had completely changed. Yesterday, they were bored, leaning against the walls and drinking coffee. Today, they were standing rigid. Their eyes kept drifting away from the contractors, fixing nervously on the heavy elevator banks leading down to Sector 4.
+
+"They look tense," Sarah murmured, her brow furrowing. "And the ventilation scrubbers... they sound louder today."
+
+Wyatt chewed his food methodically, his face remaining completely stoic. "They're running a cycle higher than normal. You can feel the vibration in the table."
+
+Sarah placed her plastic spork down, her appetite completely gone. She looked at him, the memory of the panicking scientists from yesterday's patrol flashing in her eyes. "You think whatever they found down there is causing problems?"
+
+"I think Apex is very good at hiding problems until they can't anymore," Wyatt replied, his voice a low, steady rumble. He leaned in slightly over the scratched metal table, making sure she heard every word over the din of the hall. "When the corporate chain of command gets nervous, the grunts are the last to know and the first to pay for it."
+
+Sarah paled slightly, but she didn't panic. She just tightened her grip on the edge of the metal table.
+
+"I don't trust this facility, and I don't trust those guards to protect us if the deep-core drills hit something volatile," Wyatt continued, holding her gaze with absolute seriousness. "So we are changing our protocol. If the alarms go off this week, or if the lights drop, or if those red-banded Supervisors start shouting orders to separate the contractors into different containment sectors—you completely ignore them. You don't follow Apex directives. You look for me. We do not get separated. Understood?"
+
+Hearing him lay out a concrete, unwavering rule visibly grounded her. The fact that his absolute first priority was making sure she wasn't left alone sent a sudden, unexpected warmth blooming in her chest, pushing the rising anxiety back down.
+
+She reached across the table, her smaller hand briefly resting over his scarred knuckles. Her grip was surprisingly firm.
+
+"Understood," Sarah said, her voice steadying as she looked right into his eyes. "I stick with you. No matter what."
+
+Wyatt gave her hand a short, reassuring squeeze before pulling back, picking up his plastic spork. "Good. Now eat your paste. We've got a twelve-hour patrol ahead of us, and we need the calories."
+

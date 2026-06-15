@@ -1,0 +1,34 @@
+# Part 5: A Declaration of Commitment
+
+At the front of the beautifully decorated ceremony space, **Arthur Bennett** stood, his expression one of profound, grandfatherly love. As Olivia and her father reached him, Daniel Walker placed his daughter's hand in Arthur's, a symbolic transfer of trust, before taking his seat. Arthur then gently guided Olivia to stand opposite Leo.
+
+Arthur smiled, his gaze encompassing not just Leo and Olivia, but the entire room. "Welcome," he would begin. "We are gathered here today, not under the law of the state, but in the sight of family and friends. We are here to celebrate two profound and joyous occasions: the declaration of a lifelong commitment between Leo and Olivia, and the nineteenth birthday of the wonderful young woman who has brought so much light into all of our lives. Today is a day of new beginnings, in every sense of the word."
+
+He looked from Leo to Olivia, his eyes shining. "This is not a marriage contract. It is something more personal. It is a promise. A promise of partnership, of unwavering support, and of a lifetime of friendship and love. And now, they would like to share the vows they have written for each other."
+
+Olivia turned her full attention to Leo, her own eyes welling with happy tears. She spoke from the heart, her voice clear and full of emotion.
+
+"Leo," she began, "my *mon chum*. From the first moment we met, you saw me. Not just the tall girl, but me. You became my best friend, my anchor, and my home. You taught me what it means to truly trust someone. I promise to always be your safe harbor. I promise to be your partner in every adventure, to celebrate your triumphs, and to hold you through any storm. I promise to love you, completely and unconditionally, for all the days of my life."
+
+A profound silence filled the room as Leo, his own eyes shining, typed his response. His clear, confident voice filled the space via his **Quantum Communicator**.
+
+"Olivia. My *ma blonde*. Before you, my world was small and quiet. You came into my life like a kaleidoscope sun, full of light and color and laughter. You are not just my best friend; you are my everything. You make me brave. I promise to always be your *mon chum*. I promise to share my quiet with your wonderful noise. I promise to love you more than poutine. I will be by your side, always."
+
+Tears were now openly streaming down Stella's and Luna's faces. Arthur cleared his throat, his own voice thick with emotion. "And now, as a symbol of these promises, you will exchange rings."
+
+Stella, as Best Woman, stepped forward and handed Arthur the simple, elegant bands.
+
+Arthur handed the first ring to Olivia. "Olivia," he said, "place this ring on Leo's finger as a sign of your commitment, a circle with no end, a symbol of your promise to be his constant, from this day forward."
+
+Olivia gently took Leo's hand and slid the ring onto his finger.
+
+Arthur then gave the second ring to Leo. Luna subtly assisted him in taking it. "Leo," Arthur said, "place this ring on Olivia's finger as a sign of your commitment, a symbol of your promise to be her safe harbor, always."
+
+With a steady hand, Leo slid the ring onto Olivia's finger.
+
+Arthur beamed at them, his joy radiating throughout the room. He did not say 'by the power vested in me.' He said something far more meaningful.
+
+"And so," he declared, his voice full of love, "with the unwavering support of your entire fortress as witness, it is my absolute joy to honor and celebrate your declaration of lifelong commitment. You may now share a kiss."
+
+Leo looked up at his beautiful *ma blonde*. Olivia leaned down, and they met in a tender, loving kiss that sealed their promise, not in law, but in a bond far stronger. The room erupted in joyful, heartfelt applause.
+

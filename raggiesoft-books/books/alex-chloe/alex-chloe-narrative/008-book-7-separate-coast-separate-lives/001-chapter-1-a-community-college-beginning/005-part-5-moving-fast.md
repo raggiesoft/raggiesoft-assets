@@ -1,0 +1,48 @@
+# Part 5: Moving Fast
+
+The third Student Development class felt almost like a blur to Alex. His anticipation was centered entirely on Vera. As soon as Dr. Albright dismissed them, Vera was at his side, her smile intimate and knowing.
+
+"My place?" she murmured, her hand lightly brushing his arm. There was no talk of coffee this time, no pretense of discussing linguistics. The question was a statement, an expectation.
+
+Alex, still buzzing from their last encounter and her promise of "more," simply nodded, a thrill mixing with a now-familiar nervousness. YES, his Quantum Communicator XT voiced.
+
+The drive to her Portsmouth apartment in her Holt Automotive sedan was filled with a light, charged energy. Once inside the apartment – again, blessedly empty – there was no lingering in the living room. Vera’s hand found his, her touch electric, and she led him directly to the bedroom.
+
+\[Sex Scene Skipped per Safety Guidelines\]
+
+Afterward, lying in the rumpled sheets of Vera’s bed, Alex felt the physical pleasure, a comforting warmth against the persistent chill of loneliness he felt without Chloé. He watched Vera as she hummed softly, getting dressed across the room. Outwardly, he mirrored the contentment she seemed to expect, offering a small smile when she glanced his way.
+
+But inwardly, a subtle disquiet had taken root. This was happening so *fast*. The gentle, trusting intimacy he had shared with Chloé had been built over four years of deep friendship. This was their third meeting. A cold knot of guilt began to form in his stomach; it felt like he was somehow betraying the sanctity of his bond with Chloé, even though she was miles away and this was a different kind of connection.
+
+Vera, oblivious to his internal turmoil, finished dressing and came to sit on the edge of the bed, bright and energetic. "That was wonderful, wasn't it?" she said, leaning down to kiss him.
+
+YES, Alex typed, pushing the unsettling thoughts firmly to the back of his mind. He focused on the present, on the feeling of being wanted. VERY WONDERFUL.
+
+"I have a little time before Mom gets home," Vera said, glancing at her watch. "Anything you need to do? Call anyone?"
+
+The mention of calling someone immediately brought Chloé to the forefront of his mind. He did need to talk to her, to hear her voice. It felt like an anchor he desperately needed. I SHOULD CALL CHLOÉ, he typed. JUST TO CATCH UP.
+
+"Of course," Vera said, her smile a little tight but still accommodating. "The phone's in the living room."
+
+Alex maneuvered into his wheelchair and went to the living room. He used the landline, punching in Chloé’s number, his heart aching with a sudden wish that he could see her face. His AAC was ready beside the phone.
+
+"*Allo?*" Chloé’s voice, clear and familiar, was a balm to his frayed nerves.
+
+CHLOÉ! IT'S ALEX! his device voiced. "Alex! Hey! How are you?"
+
+They talked for several minutes, catching up on classes, and for a moment, the thousands of miles between them seemed to disappear. He was grounded again.
+
+Vera appeared in the doorway, her expression gentle. She waited for a slight pause. "Alex, honey," she said softly, "I don't mean to rush you, but Mom will be home in about twenty minutes."
+
+Alex looked up, startled. He quickly typed a farewell. CHLOÉ, I HAVE TO GO. VERA'S MOM WILL BE HOME SOON. BUT IT WAS SO GOOD TO TALK TO YOU. I MISS YOU.
+
+"Miss you too, Alex! Call me again soon, okay?" I WILL. BYE.
+
+He hung up, the lingering warmth from Chloé's call mixing uncomfortably with the reactivated anxiety of Vera's mother's imminent arrival. He turned to Vera. THANK YOU FOR LETTING ME CALL HER.
+
+Vera smiled. "Of course. It's important to keep in touch with old friends." She then moved closer, taking his hand. "Actually, Alex, I was thinking… Mom’s really looking forward to meeting you. I’ve told her a bit about this wonderful, intelligent man who’s come into my life." She squeezed his hand. "Why don't you stay? Just for a little while longer. Meet her. I think she’d really like you, and it would mean a lot to me."
+
+Meet her mother? Now? The thought sent a fresh wave of nervousness through Alex. This was all moving so incredibly fast. But Vera’s eyes were pleading, her expression soft and hopeful. He was still trying to hold onto that initial feeling of things "looking up," of the emptiness in his heart finally starting to fill again. He didn't want to disappoint her.
+
+He hesitated, the guilt about Chloé and the speed of everything vying with his desire to please Vera and solidify this new, exciting relationship.
+

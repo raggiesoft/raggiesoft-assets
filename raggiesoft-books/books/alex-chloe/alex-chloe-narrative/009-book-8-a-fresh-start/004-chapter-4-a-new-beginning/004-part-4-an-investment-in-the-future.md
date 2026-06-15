@@ -1,0 +1,40 @@
+# Part 4: An Investment in the Future
+
+A few weeks into the spring semester, the rhythm of Alex, Chloé, and Megan's life had become a comforting, predictable melody. Mornings were a flurry of activity as the three of them got ready for their respective days—Alex and Chloé for class, Megan for her job hunt. Evenings were for shared dinners, homework, and the quiet, supportive presence of their unique, three-person household.
+
+One Friday afternoon, as Chloé pulled the Avalon into her driveway, they saw Emily Miller on her front porch, a warm, excited smile on her face.
+
+"There you are, you three," she said, her voice full of a happy, almost conspiratorial energy as Megan pulled in behind them in her own car. "I was just talking with Sophie and the dads. We've all been so thrilled watching you all thrive this semester, and we have an idea we're really excited about. Something for your future. Can you come on over to our place? We're all gathering in the living room."
+
+Her approach was so gentle and positive that it completely defused any potential anxiety. This wasn't a summons; it was an invitation to something good.
+
+Fifteen minutes later, all seven of them were gathered in the Millers' comfortable living room. James and Emily sat in their usual armchairs, while Thomas and Sophie had taken a spot on the sofa. Alex, Chloé, and Megan sat together on the loveseat, a tangible sense of positive anticipation filling the room.
+
+It was James who began, his voice full of a quiet, paternal pride. "Kids," he said, his gaze encompassing all three of them. "Your mothers and I have been watching you. We've seen you tackle college, Megan, you starting your job search... we're so incredibly proud of how you've built this new life after... well, after everything."
+
+Sophie nodded, her eyes shining. "*Oui*, so proud," she said. "To see the light back in your eyes, Alex. And to see you all working as such a wonderful team. It is a joy for all of us."
+
+Thomas, ever the pragmatist, leaned forward slightly. "And because you're such a great team, and because you're all young adults building a life together, we've been talking about the next logical step."
+
+"We see you all making it work between two houses," Emily continued gently. "And while it has been a wonderful, healing thing to have you all so close, we also know you deserve more. You deserve a real space that is entirely your own."
+
+A stunned silence fell as Alex, Chloé, and Megan looked at each other, trying to process where this was going.
+
+"What we're saying," James said, a loving smile breaking through his serious expression, "is that we think it's time the three of you got your own place."
+
+Alex's eyes widened. An apartment? For them? The thought was both thrilling and terrifying. Chloé’s jaw dropped in surprise. He immediately thought of the cost, the logistics. BUT... COLLEGE... MONEY..., he began to type.
+
+Thomas held up a hand, anticipating the question. "That's the other part of this, son," he said. "This isn't us kicking you out. This is us wanting to invest in your future. All four of us. We want to fund a two-bedroom apartment for you. One room for you and Chloé, and one for Megan. We'll take care of the rent and utilities so that you can all focus on what's important: your health, your studies, and learning how to be partners in your own home."
+
+Chloé turned to Alex, her face a mirror of his own shocked gratitude. Her first thought was for him. "Alex," she said, her voice full of excitement, "isn't that perfect? Megan could have her own room! We'd all be together, just like now, but in our own place. You'd always have both of us." She couldn't imagine a better, safer scenario for him while he was still healing.
+
+The sheer generosity of the offer, the profound vote of confidence from their united family, was overwhelming. This wasn't just about being given a place to live; it was about their parents fully understanding and supporting their unique, three-person sanctuary.
+
+YOU... YOU WOULD REALLY DO THAT? FOR US? Alex's device voiced, the synthesized words full of a quiet, profound awe.
+
+"Without a second's hesitation," James Miller said, his voice thick with emotion. "You three are the best part of all of us. You deserve a happy, independent life. And we want to help you build it."
+
+Chloé finally found her voice, her eyes shimmering with tears. "I... I don't know what to say. Thank you. All of you. That's... the most amazing gift we could ever imagine."
+
+The decision was made. The next chapter wasn't just a vague future hope anymore. It had a name, and soon, it would have an address. They were going to find their first home, together.
+

@@ -1,0 +1,23 @@
+# Part 7: Birthday Cake and Sweet Memories on Ludlow Road
+
+As Grandpa Arthur turned the big Holt Rancher onto their quiet street in Middletown, the late afternoon sun cast long shadows. "Home sweet home, adventurers!"
+
+Inside, the house felt cozy. Karen and Grandma Eleanor got dinner started – Stella’s favorite baked ziti. While it cooked, Stella and Grandpa Arthur spread out a Boston map, Stella excitedly pointing out all they’d visited. Dinner was a relaxed, happy affair.
+
+Then came the cake, baked by Grandma Eleanor – yellow with chocolate frosting, nine colorful candles flickering. "Make a wish, sweetie!" Karen said. Stella squeezed her eyes shut. She wished for another fun family trip, happiness in Virginia, and a puppy. She blew out the candles in one puff! Everyone cheered and sang "Happy Birthday."
+
+As the evening wound down, Arthur and Eleanor prepared to leave. "Happy ninth, Stella-girl," Grandpa Arthur hugged her. "Don’t you ever forget your Boston adventure."
+
+"I won't, Grandpa! Thank you for the best birthday!"
+
+David and Karen walked them out. Stella watched her grandparents drive off into the quiet Rhode Island night. Back inside, Karen gently carried a sleeping Luna upstairs, while David carefully lifted an equally sleepy Leo. Stella followed, her heart full. This ninth birthday, her last one in Rhode Island before the big move to Virginia, felt special. It was a day of city adventures, subway rides, amazing sights, and the unwavering love of her family. It was, she thought as she climbed into her own bed, a perfect memory to keep, her wish for a puppy still a happy little secret tucked away in her heart.
+
+
+
+The house felt perpetually dim, mirroring the lack of warmth from Luna and Leo’s parents. Money seemed to evaporate on fleeting whims and unnecessary purchases, leaving little for essentials, let alone the specialized support the twins required. Resources were so mismanaged that all three children – Stella, Luna, and Leo – were crammed into a single shared bedroom, sleeping on bare mattresses directly on the floor. Stella, even in her mid-teens, did her best to create a semblance of separation, hanging sheets or arranging furniture to form makeshift privacy barriers, acutely aware that opposite-gender siblings needed their own space, a concept lost on their parents.
+
+Days bled together in a routine devoid of tailored support. Both twins lived with cerebral palsy. Leo's was more severe; navigating the world from his wheelchair with extremely limited voluntary leg movement making independent repositioning difficult, he was also completely non-verbal. Simple tasks were an exercise in frustration, and expressing his thoughts through writing was incredibly laborious and slow before the discovery of assistive technology. Luna, while more mobile, walked with a noticeable limp and often leaned heavily on Leo's wheelchair for support, using it like a walker when moving around the house. Her speech could also become tangled, a challenge compounded by the lack of patience from those meant to care for her most. Their parents, wrapped up in their own lives, offered little more than basic sustenance, dismissing the twins' unique needs as inconveniences. They were heavy drinkers, and the house often reflected this, littered with empty beer cans and bottles. Specialized tools like Augmentative and Alternative Communication (AAC) devices were completely unknown and unavailable to them during these years.
+
+The burden of care often fell on Stella. Bath time was a particular challenge. The standard tub was completely inaccessible for Leo, and Stella, young but determined, learned how to safely lift and transfer her brother in and out of the bath, a physically demanding task that highlighted their parents' neglect. She and Luna also frequently helped Leo reposition his legs, as doing so himself was a significant struggle, putting him at constant risk for pressure sores from sitting. Stella became the default helper, the one who patiently assisted with dressing, untangled Luna's words, or simply offered a comforting presence when parental support was absent. Visiting whenever she could break away from school or her part-time job, Stella felt a knot tighten in her stomach with each observed instance of neglect – the ignored request for help, the dismissed frustration, the complete lack of engagement with their therapies or school accommodations. She was only in her late teens, but the seeds of a difficult decision were being sown, watered by the daily reality of her siblings' unmet needs.
+
+

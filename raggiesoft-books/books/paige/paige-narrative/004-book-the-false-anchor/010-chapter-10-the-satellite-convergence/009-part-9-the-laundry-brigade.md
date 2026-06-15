@@ -1,0 +1,100 @@
+# Part 9: The Laundry Brigade
+
+## 10:00 AM The Underworld (Basement)
+
+The Laundry Brigade descended into the cool, concrete depths.
+
+They carried baskets overflowing with flannel shirts, jeans, and colorful t-shirts. The pile was massive. It looked like a fabric explosion.
+
+Sarah marched to the utility corner. The washer and dryer were sturdy, white metal beasts—older models, brand name Titan-Wash, known for being loud but indestructible.
+
+"Okay," Sarah organized. "We sort by structural integrity. Jeans and heavy fabrics in Pile A. Shirts and delicates in Pile B. Socks and underwear in Pile C."
+
+"This is boring," Jenna groaned, dumping her basket onto the floor in a chaotic heap. "Why do we have to separate them? Just shove it all in."
+
+"Negative," Sarah corrected, channeling Freddie. "If you wash jeans with t-shirts, the zippers chew up the cotton. Do you want holes in your favorite shirt?"
+
+Jenna rolled her eyes. "Fine, Lieutenant."
+
+Harper stood by the dryer. She was trying very hard not to look at the Pittsburgh Toilet in the corner. It loomed there like a white porcelain monument to her shame. She kept her back to it, as if acknowledging its existence would make the memory of last night reappear.
+
+"Harper," Sarah said kindly, noticing her staring at the wall. "Focus on the socks. Match them up."
+
+"Right," Harper whispered. She sat on the concrete floor (far away from the toilet) and started sorting socks.
+
+"How many loads?" Jenna asked, kicking a pile of jeans.
+
+"At least four," Sarah calculated. "The washer capacity is limited. We'll be down here for hours."
+
+"At least it's cool," Harper offered. "It's hot upstairs."
+
+"And no parents," Jenna added, pouring a cup of Fresh-Breeze detergent into the machine. "Just us."
+
+Sarah started the washer. KA-CHUNK. WHOOSH. The water began to fill, and the heavy agitator began to churn. The noise was significant—a rhythmic, mechanical thrum that echoed off the cinder blocks.
+
+"Okay," Sarah said, sitting on an overturned milk crate. "First load is running. Now we wait. And fold."
+
+Ten minutes passed. Jenna was pacing. She had finished a can of Citrus-Pop on the drive over and had just guzzled a bottle of water.
+
+She stopped pacing. She did a little hop.
+
+"Ugh," Jenna groaned. "My bladder is full."
+
+She looked at the wooden stairs. They looked steep. Then she looked at the ceiling, imagining the hallway bathroom.
+
+"Freddie said the upstairs bathroom is a 'bottleneck,'" Jenna noted. "And I don't feel like walking up there just to find out Aunt Linda is in there doing her hair."
+
+Jenna turned and looked at the corner.
+
+Harper froze. She watched Jenna look at the Pittsburgh Toilet.
+
+"Jenna, don't," Harper whispered. "It's... out in the open."
+
+"So?" Jenna shrugged. "We're all sisters. Besides, listen to that washer."
+
+THUNKA-THUNKA-WHOOSH.
+
+"It's loud," Jenna pointed out. "It's basically a sound barrier. Sonic privacy."
+
+Jenna made a decision. She walked over to the toilet.
+
+"Turn around, troops," Jenna commanded, waving her hand. "Eyes on the laundry."
+
+Sarah calmly turned her back, picking up a flannel shirt to inspect a button. Harper hesitated, eyes wide, then quickly spun around to face the dryer.
+
+"I am using the asset," Jenna announced dramatically.
+
+Harper heard the rustle of denim. She heard the seat creak.
+
+She waited for the shame. She waited for the awkwardness to suffocate the room.
+
+But nothing happened. Sarah was humming to herself. The washer was roaring. Jenna was just... peeing.
+
+"You know," Jenna called out casually from the corner, her voice echoing slightly. "This is actually kind of efficient. No doors to open. No waiting. It's a power move."
+
+Harper blinked. Jenna wasn't dying of embarrassment. She was making a review.
+
+"Flush incoming!" Jenna warned.
+
+KA-WHOOSH.
+
+The pipes banged, shaking the rafters.
+
+Jenna walked back to the group, adjusting her jeans. She washed her hands in the utility sink with the bar of harsh yellow soap.
+
+"See?" Jenna said, flicking water at Harper. "I survived. No lightning struck me."
+
+Sarah looked at Harper over the rim of her glasses.
+
+"It is a toilet, Harper," Sarah said, her voice gentle but practical. "It is a tool. If you have to go, you go. It doesn't matter if there are walls or not. Biology doesn't care about architecture."
+
+"And honestly," Jenna added, sitting back down on a pile of dirty clothes. "Whatever happened last night? Forget it. If I'm willing to use it in broad daylight, you don't need to worry about using it in the dark."
+
+Harper looked at the toilet. It didn't look like a monster anymore. It just looked like a toilet.
+
+"Okay," Harper whispered. She relaxed her shoulders.
+
+"Good," Sarah said. She tossed a pair of socks at Jenna. "Now get back to work. Pile C isn't going to sort itself."
+
+The Laundry Brigade resumed operations. The washer churned, the dryer hummed, and the Pittsburgh Toilet sat in the corner—no longer a throne of shame, just another part of the plumbing.
+

@@ -1,0 +1,30 @@
+# Part 3: The Permission Slip
+
+## February 10, 2006 Virginia Beach Circuit Court 09:00 AM
+
+The courtroom was familiar. It was the same room where Stella had fought for custody years ago. But today, the atmosphere wasn't one of conflict; it was one of graduation.
+
+Stella stood before the bench with **Sarah Jenkins**. Luna and Leo sat behind them.
+
+"Your Honor," Sarah said, presenting the thick binder. "We are petitioning to transfer the Guardianship and Conservatorship of Luna and Leo Porter to the **State of Rhode Island**. Specifically, the **Probate Court of the Town of Iron Point**."
+
+The Judge, an older man who remembered the original neglect case, looked over his glasses at Stella.
+
+"Rhode Island?" he asked. "That's a long way, Ms. Porter."
+
+"It's home, Your Honor," Stella said firmly. "We have purchased a property. We are building a single-story, fully accessible home within rolling distance of a transit station. It is a permanent relocation."
+
+Sarah handed up the **Affidavits of Intent** signed by Leo and Luna, along with the **Recorded Deed** from Iron Point showing their ownership interest.
+
+"The infrastructure in place for them there exceeds what is available here," Sarah noted. "Better transit, a specialized Conservatory program for Luna, and an Engineering program for Leo."
+
+The Judge looked at the twins. He saw Leo in his manual chair and Luna standing tall beside him. They weren't the scared kids he had seen years ago. They were adults.
+
+"The Commonwealth of Virginia has no interest in holding you back," the Judge ruled, signing the order. "I am issuing a **Provisional Order of Transfer**. Once you file this with the Rhode Island court and they issue a **Provisional Acceptance**, we will terminate jurisdiction here."
+
+He handed the order to the clerk.
+
+"Good luck in the North," the Judge said. "It sounds like you've built quite a fortress."
+
+"We have, Your Honor," Stella smiled. "Thank you."
+

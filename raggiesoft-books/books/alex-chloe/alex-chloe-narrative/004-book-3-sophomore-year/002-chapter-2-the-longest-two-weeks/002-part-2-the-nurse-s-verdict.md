@@ -1,0 +1,24 @@
+# Part 2: The Nurse's Verdict
+
+The Northwood High clinic was a small, quiet oasis of calm. Nurse Davison, a kind, no-nonsense woman with decades of experience, looked up from her paperwork as Alex and Chloé came in. It was their scheduled time to pick up their daily medications—a routine part of their day.
+
+"Right on time, you two," she said with a warm, familiar smile. "I have your meds right here, Chloé." She then looked at Alex, and her smile faltered as he was wracked by a deep, wet-sounding cough that left him breathless for a moment. "Goodness, Alex. That doesn't sound good at all. What's going on with that cough?"
+
+"That's what I wanted you to check," Chloé said, her voice tight with worry. "He's had it for a few days, and it sounds wet. And he's really tired."
+
+Nurse Davison's friendly demeanor immediately became more focused and professional. "Alright, Alex, let's have a listen."
+
+She placed her stethoscope on his chest and back, listening intently as he took a few deep, ragged breaths. Her brow furrowed. "You're right, Chloé," she said, her voice serious. "There's definitely some congestion in there. Let's check your oxygen levels, sweetie."
+
+She took a small device, a pulse oximeter, and clipped it onto Alex's finger. They all watched the small digital screen as it flickered, trying to get a reading. After a moment, a number appeared: 89%.
+
+Nurse Davison's face went from serious to grave. She took the reading again. 88%.
+
+"What is it?" Chloé asked, a knot of fear tightening in her stomach.
+
+"His oxygen saturation is too low, Chloé," the nurse explained, her voice calm but urgent. "For a healthy person, it should be 95% or higher. For a young man with Cerebral Palsy, a respiratory infection can become very serious, very quickly. This isn't just a cold anymore; I'm worried about pneumonia. He needs to be at a hospital."
+
+The word "hospital" landed with a heavy thud in the quiet room.
+
+"I'm calling 911, and then I'm calling your parents," Nurse Davison stated, her actions swift and decisive. "This is an emergency."
+

@@ -1,0 +1,63 @@
+# Part 3: The Architecture of the Fortress (8:30 PM)
+
+The transition from the late-summer heat of the Virginia Beach plaza to the quiet, predictable hum of their neighborhood was exactly the kind of environmental regulation Nate’s nervous system needed. By the time they finished the grocery run at Harbor Farms and their mother picked them up in the old family sedan, the exhaustion of the outing had settled comfortably in his bones. He was tired, but it was a "good" tired—the kind earned from existing safely in the world, rather than surviving a battle.
+
+Dinner was a quiet, domestic affair, the kind of mundane peace Nate was still learning to trust. But as the evening wore on, the hum of anticipation began to replace the exhaustion.
+
+Tomorrow was Friday. The first day of the Fall semester at the Community College of Hampton Roads.
+
+He was going back. Valerie had spent years actively sabotaging his attempts at education, using his autism and his physical limitations as weapons to keep him isolated and dependent. Tomorrow, he was walking—or rather, wheeling—back into an academic environment, entirely on his own terms. Well, almost on his own terms. Sarah would be right there, enrolled in the same classes, standing watch.
+
+"Alright," Sarah said, clapping her hands together as she cleared the last of the dinner plates. "Big day tomorrow. Hydration, regulation, and sanitation. Let's hit the baths."
+
+The bedtime routine was the cornerstone of Nate's fortress. It was a highly structured, carefully choreographed sequence of events that signaled to his brain that the day was over, the perimeter was secure, and he was allowed to power down.
+
+Sarah wheeled him down the short hallway of their mother's house to their shared bedroom. The familiar smell of clean laundry and old paperbacks instantly grounded him. Sarah moved with efficient, practiced purpose. She went to his tall dresser, pulling out a pair of soft, worn cotton pajamas, then stepped over to her own dresser for hers.
+
+Wheeling him back out, she paused at the hallway linen closet, snagging two heavy towels.
+
+"Standard operating procedure," Sarah announced, tossing the towels over his lap. "You get the tub first. Then I shower. We'll be asleep by ten."
+
+"Copy that," Nate replied.
+
+Inside the small, functional bathroom, the routine continued. For a wheelchair user, bathing—especially after experiencing abuse—can be an incredibly vulnerable and fraught process. But with Sarah, the anxiety was entirely absent. She was his protector, and her assistance was purely clinical and deeply caring.
+
+Sarah undressed quickly, tossing her clothes into the hamper, then turned her attention to Nate. She helped him strip out of his day clothes, her movements steady and respectful.
+
+She angled his custom manual chair parallel to the edge of the tub, locking the brakes with a solid *clack-clack*.
+
+Nate braced his hands on his armrests. He had some upper body strength, but a standard pivot-transfer into a deep tub was dangerous. Instead, they relied on their preferred method: the deadlift carry.
+
+Sarah stepped close, hooking one arm securely under his knees and wrapping the other tightly around his upper back. She braced her core and lifted.
+
+For Nate, this was the best part of the routine. For the brief few seconds it took to move him from the chair and lower him into the tub, he was completely enveloped in his sister's strength. It wasn't just a transfer; it felt like a massive, grounding hug. It was the physical manifestation of her promise at Waverly's: *No one hurts you again.*
+
+She lowered him gently onto the bath mat at the bottom of the tub. She turned the faucet, expertly adjusting the knobs until the water was exactly the warm, regulating temperature he preferred.
+
+As the water filled the tub, she set to work, washing his hair and scrubbing his back. She was thorough and efficient, talking quietly about their class schedule for the next day, keeping his mind occupied and focused on the future.
+
+Once she was finished, the extraction protocol began. Sarah laid one towel flat across the seat of his wheelchair and draped the second one over the backrest. She reached into the tub, executing the deadlift carry once more, hauling his wet weight up and settling him securely into the towel-lined chair. She immediately wrapped the towel around his shoulders, cocooning him.
+
+"Alright, my turn," Sarah said. She reached past him, turning the water back on and cranking the hot water valve until the small room began to fill with steam. She popped the drain plug, letting the bathwater out as the showerhead engaged.
+
+Nate sat in his chair, safely wrapped in his towel, the steam warming the air around him. He used the edges of his towel to dry his arms and chest, perfectly content to wait in the humid, safe space while Sarah showered.
+
+Ten minutes later, the water shut off. Sarah wrapped herself in her towel and stepped out. She dried her hair quickly, then helped Nate finish drying his legs and feet, places he couldn't easily reach.
+
+The dressing routine was as smooth as the bathing. Sarah helped him maneuver into his soft pajamas before throwing on her own oversized t-shirt and flannel pants.
+
+She wheeled him back down the hall to their bedroom. The room was dark, save for the small lamp on the nightstand casting a warm, golden glow across the queen-sized bed that dominated the space.
+
+Sarah locked his brakes one last time. She stepped in, executed the final deadlift of the day, and deposited him onto the left side of the mattress.
+
+Nate dragged his legs up, adjusting the pillows behind his head. The mattress dipped slightly as Sarah walked around to the right side and climbed under the covers.
+
+Sharing a bed was a necessity born out of trauma. Valerie had made the dark terrifying. She had made sleeping alone a nightmare. Sharing a bed with Sarah was the ultimate safety net; if he woke up panicked, or if a spasm locked his legs, she was immediately there.
+
+Nate took a deep breath, the exhaustion finally pulling him under. He slid across the sheets, closing the distance between them, and cuddled up against his sister's side. Sarah didn't miss a beat; she draped an arm over him, pulling him close, her presence a solid wall between him and the rest of the world.
+
+"Get some sleep, Nate," Sarah whispered into the dark room. "Tomorrow, we take the campus."
+
+Nate closed his eyes, the hum of the air conditioner lulling him to sleep. The fortress was locked. The perimeter was secure. He was ready for Friday.
+
+

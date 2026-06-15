@@ -1,0 +1,47 @@
+# Part 5: The Shattered Fog – 11:45 PM (PST)
+
+The glowing red numbers on the digital clock resting on Brandi’s dresser shifted to 11:45 PM.
+
+For the rest of the Pacific Northwest, it was just late Friday night. But for my exhausted, traumatized biology, it was nearly three o'clock in the morning. My internal clock was screaming, completely scrambled by the time zones, the travel, and the sheer, crushing terror of the last few hours.
+
+I lay absolutely, perfectly still on the edge of the full-sized mattress.
+
+I was shoved against the wall, trapped in the dark with Delores and Brandi. The air in the cramped, second-floor bedroom was heavy and suffocating. I kept my breathing slow and shallow, artificially matching the rhythmic, sleeping breaths of the two women beside me.
+
+I had to play dead. If my breathing hitched, or if I let a single one of the hot, terrified tears burning the corners of my eyes fall, Delores would wake up. If she realized I was upset, the psychological torture would instantly resume. She would twist my trauma into a weapon, accusing me of ruining her night, and the cycle of punishment would start all over again.
+
+So, I detached. I retreated so deep into the furthest, darkest corners of my own mind that I felt entirely disconnected from my physical body. It was the ultimate, desperate survival mechanism of an autistic nervous system that had been pushed miles past the point of systemic failure.
+
+I stared blankly at a crack in the ceiling above me, the horrifying reality of what had just happened settling over me like a suffocating layer of ash.
+
+It wasn't just Delores. It was the entire house. The sickening realization hit me that Aunt Lynne hadn't just turned a blind eye to this; she had actively set the trap. She had cleared the upstairs, offered the bedroom, and explicitly given them permission to use me. The absolute moral rot of this family was staggering. It perfectly matched the physical squalor of the house. The literal cat feces I had been forced to tiptoe around in the bathroom earlier that morning wasn't an anomaly; it was a direct reflection of the toxic, filthy reality these people lived in.
+
+I swallowed hard, silently fighting back a wave of nausea.
+
+For two years, Delores had meticulously conditioned me to believe that I was worthless, that I was lucky she tolerated my disabilities, and that no one else would ever want me. She had built a cage around my mind so thick that I couldn't see the exit.
+
+But sitting in the Quantum corporate lobby this afternoon, Jessica had cracked the glass.
+
+I closed my eyes, desperately clinging to the memory of my older sister. I thought about the sharp sting of her hand against my cheek. It hadn't been an act of abuse; it had been a desperate, terrified attempt to perform CPR on a brother she was watching drown.
+
+Leave her and come to Renton.
+
+The fog in my brain finally, permanently shattered.
+
+I wasn't going to spend another night in this house. I was going to survive until the sun came up, and then I was going to run.
+
+My analytical mind, which had been paralyzed by fear for months, suddenly booted up with a fierce, singular focus. I began calculating the logistical parameters of my escape.
+
+But the geography of my current prison was a massive hurdle.
+
+Aunt Lynne’s house was buried deep in a sprawling, confusing suburban maze of Kent. We were miles away from the nearest TAPS bus stop. I couldn't just slip out the front door in the middle of the night; Aunt Lynne was sleeping on the couch downstairs, effectively guarding the exit. If the deadbolt clicked, she would wake up, and the alarm would be raised before I even made it to the sidewalk.
+
+I needed daylight. I needed a plausible, mundane excuse to walk out the front door, something that wouldn't trigger Delores's paranoid, controlling radar until I was already out of her reach.
+
+I carefully uncurled my fingers, letting my hands rest flat against the mattress. The terror was still there, a cold block of ice in my stomach, but it was no longer paralyzing me. It was fueling me.
+
+I stared at the red numbers on the clock, silently counting the seconds. I just had to hold the line for a few more hours. Tomorrow, I was getting my life back.
+
+\[Note to the AI: fade to black; RCW 9A.44.050 happens here; Chapter 3 picks up at 4 AM with the aftermath\] 
+
+

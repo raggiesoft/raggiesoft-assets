@@ -1,0 +1,108 @@
+# Part 3: The Surgical Consult
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 06:30 AM **Location:** Pre-Op Holding Bay 4, University Medical Center
+
+Outside the narrow window of the pre-op bay, the world was pitch black. The sun hadn't risen yet, but if you looked closely, you could see snowflakes swirling in the halo of the parking lot floodlights.
+
+Inside, a nurse named Sarah dropped a plastic bag on the foot of the stretcher.
+
+"Okay, hon," Sarah said kindly. "We need you in the 'fashion statement' gown. Everything off, open to the back. I'll give you some privacy."
+
+She swooped the curtain shut, sealing them in the small, beige cubicle.
+
+Nichole sat on the edge of the bed, shivering slightly—partly from the hospital air, partly from nerves. She looked at the folded gown with disdain.
+
+"I know," Patrick said, picking up the gown. "It's ugly. But it's the uniform. Arms up."
+
+He didn't make a big deal of it. He moved with the practiced efficiency of a brother who had been helping with buttons and zippers for nineteen years.
+
+- **Step 1:** He helped her shimmy out of her soft pajama top, careful not to let her elbows catch.
+
+- **Step 2:** He guided her arms into the stiff, starched sleeves of the hospital gown.
+
+- **Step 3:** He fastened the snaps at the back of her neck, ensuring they didn't pinch her skin.
+
+"Okay, lean back," Patrick instructed.
+
+He lifted her legs—heavy and tight with spasticity—onto the bed. He pulled the sheet up to her waist.
+
+"Pants coming off," he murmured.
+
+He reached under the sheet to pull her pajama bottoms down, preserving her modesty even though it was just the two of them. He moved her legs gently, knowing that a sudden jerk could trigger a spasm.
+
+He tossed the pajamas into her bag and smoothed the warming blanket over her.
+
+"There," Patrick said, tucking the edges in. "You look professional."
+
+Nichole rolled her eyes, but she settled into the pillow. She felt safe. He hadn't exposed her to the cold air for more than three seconds.
+
+## **Time:** 06:45 AM (The Consult)
+
+Patrick stood by the head of the bed. He adjusted the flow rate on the IV pump to ensure the line wasn't kinked. He checked the pulse oximeter on her finger. *99%. Good.*
+
+The curtain swept back.
+
+Dr. Gregory Evans stepped in. He was a tall man with the confident, slightly impatient energy of a surgeon who had three cases before lunch. He wore ceil blue scrubs and a surgical cap.
+
+"Good morning, Nichole," Dr. Evans said, his voice dropping into a practiced calm. "Ready to get those legs moving better?"
+
+Nichole nodded stiffly. She couldn't type; her hands were shaking too much.
+
+Dr. Evans turned to the chart on the wall computer. "Okay, let's review. Bilateral hamstring lengthening. Adductor release. We're going to loosen the tightness behind the knees and in the inner thighs to help with your sitting balance and transfers."
+
+He turned to look at the "family member" standing in the corner. He squinted slightly, a flicker of recognition crossing his face.
+
+"Wait a minute," Dr. Evans said, pointing a finger. "Advanced Orthopedics. Fall Semester. You were the one in the front row who asked about the Z-plasty suture tension."
+
+"That's right, Doctor," Patrick said, extending a hand. "Patrick Bennett. Your lecture on spasticity management was excellent."
+
+"I remember," Evans said, shaking the hand firmly. "You were the only student who knew the difference between a release and a lengthening without looking at the notes." He looked at the LPN badge clipped to Patrick's hoodie. "So, you're licensed now?"
+
+"Yes, sir," Patrick said. "Patrick Bennett, LPN. And Private Duty Nurse for this patient."
+
+He didn't just say it; he proved it. He picked up the heavy binder from the bedside table.
+
+"I have the pre-op log here," Patrick said, flipping it open. "Bowel prep was completed at 1800 yesterday. NPO since midnight. Her resting heart rate is a little elevated at 88 due to anxiety, but her BP is stable at 110/70. No skin breakdown on the heels or sacrum."
+
+Dr. Evans blinked. He looked at the log. It was cleaner than the hospital's own charting.
+
+"You charted the skin integrity?" Evans asked, genuinely impressed.
+
+"I did," Patrick said. "I know the adductor release requires abduction pillows post-op. I wanted to make sure her skin was intact before we strapped her into the immobilizers."
+
+Dr. Evans let out a short, impressed huff of air. He leaned against the counter, crossing his arms.
+
+"I have to tell you, Nurse Bennett," Evans said. "Usually, I refuse to discharge a bilateral release to home. The spasm management is a nightmare. Parents panic when the legs start jumping. They call me at 3:00 AM thinking the sutures popped."
+
+"I know the spasm cycle," Patrick said calmly. "We have the Diazepam scheduled q6 hours. I have the positioning pillows ready at home to keep her knees in extension without pressure. I’m prepared to manually anchor the legs if the meds don't catch it."
+
+Evans nodded slowly. "Manually anchor? You mean weight-bearing?"
+
+"I mean I use my own body weight to stabilize the limb until the extensor reflex fatigues," Patrick explained. "It stops the feedback loop."
+
+Dr. Evans smiled. It was the smile of a professor seeing a student who actually *got it*.
+
+"That is exactly right," Evans said. "Old school mechanics. Better than the meds sometimes."
+
+He turned back to Nichole.
+
+"Nichole, you are in excellent hands," Evans said, pointing his pen at Patrick. "Better hands than you'd get on the med-surg floor, frankly. My nurses have five patients. He has one. And he actually listened in my lecture."
+
+He signed the consent form on the wall.
+
+"Okay. Anesthesia will be in shortly to give you something to relax. Patrick, you have full clearance to the PACU once we're done. I want you there when she wakes up to manage the pain scale."
+
+"I'll be there," Patrick promised.
+
+"See you on the other side," Evans said. He gave Patrick a sharp, professional nod—colleague to colleague—and swept out of the curtain.
+
+The tension in the room dropped fifty percent.
+
+Nichole let out a long breath. She looked at Patrick. The terror in her eyes had been replaced by something else: *Pride.*
+
+She held up her shaking hand. She made a clumsy thumbs-up.
+
+Patrick smiled, finally stepping out of "Nurse Mode" to grab her hand.
+
+"He knows we're the Machine, Nikki," Patrick whispered. "We got this."
+

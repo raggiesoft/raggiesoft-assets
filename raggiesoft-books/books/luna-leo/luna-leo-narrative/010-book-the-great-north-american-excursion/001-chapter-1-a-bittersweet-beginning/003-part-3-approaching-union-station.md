@@ -1,0 +1,30 @@
+# Part 3: Approaching Union Station
+
+Stella and Luna returned a few minutes later, carefully balancing a tray of drinks as they navigated the gentle sway of the train. They passed the hot chocolate to Leo, the coffee to Olivia, and settled back into their seats with their own sodas.
+
+The simple act of Olivia staying behind had a profound and calming effect on Leo. He was so happy that Olivia had stayed at his side. It was a small, unspoken acknowledgment of his need for her presence, a quiet confirmation that she understood the fragility of his heart on this long farewell tour. He didn't have to explain or justify his need to keep her close; she just knew. This quiet understanding was the bedrock of their friendship, the very thing he was terrified of losing.
+
+He sipped his hot chocolate, the warmth spreading through him, a perfect contrast to the dull ache of the impending goodbye. He leaned his head against Olivia’s shoulder, secure in her presence, and watched the dense Virginia suburbs begin to give way to the iconic skyline of Washington, D.C. The Washington Monument, a stark white needle against the blue sky, was the first landmark to come into view, signaling the end of the first leg of their grand adventure.
+
+The train slowed, its rhythmic clatter softening as it glided into the magnificent, cavernous space of Union Station. Sunlight streamed through the grand arched windows of the station, illuminating the dust motes dancing in the air.
+
+As the train glided to a final, gentle stop inside the magnificent Union Station, Stella pulled out a folder containing her meticulously prepared notes. The adventure was about to move from the controlled environment of the train to the bustling streets of the nation's capital.
+
+"Okay, team, here's the battle plan," she said, her voice full of a quiet, confident energy. "We have the rest of today, two full days after that, and then we catch our overnight train to Chicago on the evening of the third day."
+
+She pointed to a spot she had circled on a map of the city. "Our hotel is The Statesman Hotel on Capitol Hill. It's a four-star, high-end place. A bit of luxury to kick things off."
+
+Olivia peered at the map. "And how are we getting around the city?"
+
+"Public transit," Stella announced. "We're starting right now. Union Station has its own District Rail stop. We'll take the Red Line a few stops to get close to the hotel. I've got maps for both the District Rail and the District Bus, and I've already highlighted the routes with the best accessibility for Leo's chair. This is our chance to prove we can navigate a big city system together." For Stella, this was more than just convenience; it was a mission. This was a chance to show that Leo could safely use public transportation when he was properly supported and prepared.
+
+With the logistics settled, the fun part began. "So, what's on the must-see list?" Stella asked.
+
+Leo immediately picked up his Quantum Communicator, which he had been using for the trip. He typed with an excitement that was palpable. "AIR AND SPACE MUSEUM."
+
+"Definitely!" Luna chimed in. "And can we see the Lincoln Memorial at night? All lit up?"
+
+"Good choices," Stella approved, making notes. "We can do the museums during the day and the monuments in the evening."
+
+They spent the last few minutes on the train excitedly charting out a rough itinerary, a collaborative plan for their first great stop. With a shared sense of purpose, they gathered their bags, ready to disembark. The quiet, contained world of the train car was over. It was time to conquer Washington, D.C.
+

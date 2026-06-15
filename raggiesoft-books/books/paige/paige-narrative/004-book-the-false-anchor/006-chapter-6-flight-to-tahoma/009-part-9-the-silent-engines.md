@@ -1,0 +1,60 @@
+# Part 9: The Silent Engines
+
+## Tuesday, May 11, 2004 — 11:45 AM (PST) Mt. Rainier Scenic Railroad Depot, Elbe, WA
+
+The drive from the sculpture park to the tiny town of Elbe took less than five minutes. Jessica parked the white **Vanguard Senator** on the gravel shoulder near the historic depot.
+
+"Target acquired," Jessica announced. "Heavy metal, twelve o'clock."
+
+There they were.
+
+Resting on the siding tracks, backed by the dark green forest, sat the steam locomotives. They weren't hissing or whistling. They were cold. They were massive black iron beasts, silent and sleeping.
+
+"Engine off," Jessica said.
+
+Freddie unbuckled his seatbelt. He stared through the window at the nearest locomotive—a massive Heisler geared engine, built for climbing mountains.
+
+"Static display," Freddie whispered, his eyes tracking the lines of the boiler. "Safe mode."
+
+They stepped out of the car. The air here smelled of creosote from the railroad ties and faint, old lubricating oil. It was an industrial perfume that Freddie found instantly calming. It was the smell of work, but without the noise of it.
+
+He walked up to the tracks. Paige and Jessica flanked him, but they let him take the lead. This was his domain.
+
+He approached the massive steel driving wheels. They were taller than he was.
+
+"Look at the linkage," Freddie said, pointing to the thick steel connecting rods. "Direct mechanical transfer. No transmission fluid. No slushbox."
+
+"Pure torque," Paige agreed, nodding as if she understood the engineering. "It goes where you tell it to."
+
+Freddie reached out. He hesitated for a second, checking for heat, but the metal was cool to the touch. He pressed his palm against the heavy iron of the drive rod.
+
+It felt solid. Immovable.
+
+"It is designed to contain fire," Freddie murmured, looking up at the black cylinder of the boiler. "To hold high-pressure steam and turn it into motion. But right now... it is just resting."
+
+He walked along the length of the train, his sneakers crunching on the gravel ballast. He inspected the rivets on the tender. He looked at the complex valve gear. He loved it because he could *see* how it worked. There were no hidden computer chips. If a part moved, you could see it move.
+
+"Honest engineering," Jessica said, reading the plaque near the cowcatcher. "Built in 1929. It used to haul logs down the mountain."
+
+"It worked hard," Freddie said, patting the cold steel of the cylinder like it was a horse's flank. "And now it gets to sit in the trees and sleep."
+
+He looked at his sisters.
+
+"Like us," Freddie added.
+
+"Exactly like us," Paige smiled, leaning against the heavy iron wheel, looking small next to the machine.
+
+Freddie stood there for a long time, just breathing in the smell of oil and iron, surrounded by things that were heavy, permanent, and currently at rest.
+
+"Inspection complete," Freddie finally decided, wiping a smudge of grease from his hand onto his jeans—a badge of honor. "The system is sound."
+
+"Good," Jessica said, checking her watch. "Because looking at all this heavy machinery has made me hungry. And I smell onions."
+
+"Onions?" Freddie asked, sniffing the air.
+
+"Across the street," Jessica pointed. "There is a shack. It smells like burgers."
+
+Freddie looked from the cold iron train to the small wooden shack.
+
+"Fuel required," Freddie stated. "Let's proceed."
+

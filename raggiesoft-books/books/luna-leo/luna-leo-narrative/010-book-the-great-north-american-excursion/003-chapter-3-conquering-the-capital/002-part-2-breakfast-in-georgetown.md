@@ -1,0 +1,14 @@
+# Part 2: Breakfast in Georgetown
+
+The fortress four's "practice mission" on the city's transit system was a resounding success. They navigated the District Rail and a District Bus with the confidence of seasoned commuters, arriving in the charming, historic neighborhood of Georgetown as the morning sun began to burn through the last of the clouds.
+
+Their first stop was a small, inviting restaurant Stella had found in her research: "The Potomac Patisserie & Grille," a cozy corner spot that smelled of fresh coffee and baking bread. They found a comfortable booth by the window, and a cheerful waiter came to take their order.
+
+For Leo, the simple act of choosing his own breakfast was still a quiet joy. He typed his order on his Quantum Communicator: banana-infused pancakes, two eggs scrambled with American cheese, a side of crispy bacon, hash browns, and a large glass of apple juice.
+
+Olivia, sitting beside him as always, smiled at the waiter. "I'll have the exact same thing as him, please," she said, a simple act of solidarity that did not go unnoticed by Leo. Her mirroring his choice was another small, unspoken way she helped ease his underlying anxiety, a quiet gesture that said, "We're in this together."
+
+Stella, ever practical, opted for a yogurt parfait with granola and a large black coffee. Luna, embracing the vacation spirit, ordered a massive Belgian waffle topped with strawberries and whipped cream.
+
+As they ate, the conversation was light and happy, a comfortable buzz of plans for the day. Leo savored every bite of his perfectly made breakfast. Each element—the sweet bananas in the pancakes, the salty bacon, the cold apple juice on a warm summer day—was a choice he had made, a preference that had been heard and honored. Surrounded by his sister, his twin, and his best friend, enjoying a delicious meal in a new city, the impending goodbye felt, for a few precious moments, a million miles away.
+

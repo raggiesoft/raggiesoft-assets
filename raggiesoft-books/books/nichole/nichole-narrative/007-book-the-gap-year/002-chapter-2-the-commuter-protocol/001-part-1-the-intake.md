@@ -1,0 +1,74 @@
+# Part 1: The Intake
+
+## Date: January 22, 2004 Time: 9:45 AM Location: Office of Access & Equity, BSU Student Union (Level C)
+
+It was fifteen degrees outside, a bitter, bone-chilling January morning where the sea spray off Narragansett Bay froze instantly on the docks.
+
+Patrick and Nichole didn’t care.
+
+They had taken the OSTA Route 60 bus from Portsmouth, transferred to the heated BTA *Newport Flyer* ferry, and disembarked at the Narraganset Esplanade Station. From there, they took the elevator down to the concourse and rolled directly into *The Bull Run*—BSU’s massive, climate-controlled subterranean tunnel network.
+
+Nichole’s heavy winter coat was already unzipped. She was warm, dry, and rolling effortlessly across the smooth concrete.
+
+They arrived at the Office of Access & Equity beneath the Student Union. The waiting area was bright and buzzing with student life.
+
+At 10:00 AM, a woman with a warm smile and a BSU fleece jacket stepped out of an office.
+
+"Patrick and Nichole?" she asked, looking at both of them. "I'm Sarah Mitchell, Lead Access Coordinator. Come on back."
+
+Unlike the mahogany-paneled interrogation room at Putney College, Sarah’s office was practically furnished. The desk was standard height, but there was a massive open space next to it where Sarah had intentionally removed the guest chairs to create a clear turning radius for wheelchairs.
+
+Patrick parked Nichole in the open space and sat in the single remaining chair next to her.
+
+"Alright," Sarah said, opening a file. "I see here you are applying for dual admission for Fall 2004. Patrick for Engineering, Nichole for Technical Communication. Fantastic pairing. Now, let’s talk logistics. Where are you two currently living?"
+
+"Portsmouth," Patrick answered. "95 West Main Road. We live with our parents, our aunt, and our uncle. It’s a... robust family unit."
+
+Sarah smiled. "Multigenerational. I love it. Now, for your freshman year, standard BSU policy requires students to live in the residence halls. We have fully accessible dorms in South Hall."
+
+Nichole felt a familiar spike of adrenaline. Her shoulders tensed.
+
+She remembered the Roosevelt Rehabilitation Center, where the guide had told them that males and females were strictly segregated into separate buildings for "liability". She remembered the Putney College dorm room with its two narrow Twin XL beds separated by twelve feet of cold linoleum.
+
+To institutional administrators, separating them was "safety." To Nichole, it was abandonment.
+
+She reached for her mouse and clicked her screen.
+
+"NO. DORMS."
+
+Sarah paused. She didn't look offended. She looked curious. "Bad experiences?"
+
+"The worst," Patrick said, his voice tightening. "Look, we have a system. We call it the Machine. I handle her transfers, her physical regulation, and her safety. We share a room. We share a bed, actually, to manage her nighttime spasticity. At the other schools we toured, they tried to separate us. They called me a 'liability' and wanted to assign her a random female aide. We can't do that."
+
+Sarah leaned back in her chair. She didn't lecture them on independence. She didn't quote a safeguarding policy.
+
+"You're a functional unit," Sarah nodded, completely validating their existence. "And honestly, the system you have in place is vastly superior to anything the state can provide. Why break what works? Portsmouth is within the thirty-mile commuter radius. You live with legal guardians. You officially qualify for the Commuter Exemption. No dorms for you."
+
+Nichole let out a long, shuddering sigh of relief. She looked at Patrick. The fight they had been expecting didn't happen.
+
+Sarah typed the exemption into their digital file. "Okay, next item: transportation. As exempt commuters, you have a daily commute. Freshman are strictly forbidden from having cars on campus. However..."
+
+Sarah pulled out a special red laminated placard.
+
+"For students with a documented medical need, I can issue a Dean’s Waiver. This grants you a Premium Accessible Parking Pass. You can drive your van right onto the central quad and park next to any academic building."
+
+Patrick looked at the red pass. It was the golden ticket of college life. A car on campus.
+
+But then, he looked out the office window. Through the glass, he could see the underground concourse of the Narragansett Esplanade Station. He saw the escalators leading to the Metro, and the warm, dry corridors of *The Bull Run*.
+
+If he drove the van to campus, he would have to scrape ice off the windshield in Portsmouth. He would have to drive across the terrifying, wind-battered Newport Bridge in the snow. He would have to park the van in the freezing air, unload Nichole on an icy ramp, and push her across a freezing parking lot to get to the building.
+
+The car wasn't freedom. The car was exposure.
+
+Patrick looked at Nichole.
+
+Nichole shook her head. She pointed to the window, toward the transit station.
+
+"WE. USE. THE. GRID," Nichole typed.
+
+Patrick grinned at Sarah. "Thank you, Ms. Mitchell. It’s an incredibly generous offer. But we're going to decline the parking pass. We prefer the train and the ferry."
+
+Sarah raised an eyebrow, impressed. "Sticking to the transit network? Brave choice."
+
+"Smart choice," Patrick corrected. "Down here in the tunnels, it never snows."
+

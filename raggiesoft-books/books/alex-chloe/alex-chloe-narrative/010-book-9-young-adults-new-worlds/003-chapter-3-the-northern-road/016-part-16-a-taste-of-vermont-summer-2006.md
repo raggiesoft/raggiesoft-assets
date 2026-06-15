@@ -1,0 +1,30 @@
+# Part 16: A Taste of Vermont (Summer 2006)
+
+After their final, formal encounter with the border's new reality, the three of them left Derby Line behind, heading south toward Newport. The short drive was a journey back into a different part of Chloé's memory.
+
+"Okay, lunch first," Chloé announced as they drove along the shore of Lake Memphremagog. "There was this little place my dad and I used to go to, right on Main Street. I hope it's still there."
+
+It was. The diner was small and unassuming, a classic Vermont spot with worn linoleum floors and red vinyl booths. It smelled wonderfully of coffee and grilled cheese. They found an accessible table, and Chloé ordered for all three of them from memory—grilled cheese sandwiches on thick-cut bread and a massive, shared plate of french fries. It was a simple, perfect meal, a taste of a past she was happy to share with both Alex and Megan.
+
+After lunch, she had one more mission. She led them to a small, seasonal snack stand by the waterfront, a place with a walk-up window and a faded, hand-painted sign. "Alright, you two, prepare yourselves," she said, her eyes sparkling with anticipation. "You are about to experience a true Vermont delicacy."
+
+She walked up to the window. "Three maple creemees, please. One in a cone for me, two in cups."
+
+A moment later, she returned with three swirls of soft-serve ice cream. It wasn't the usual pale vanilla, but a rich, creamy beige color. She handed the cups and spoons to Alex and Megan.
+
+"What is a creemee?" Megan asked, looking at the ice cream with a curious expression.
+
+"It's what Vermonters call soft-serve," Chloé explained. "And a maple creemee... is the best thing on earth."
+
+Alex took a spoonful. The flavor was immediate and incredible—not just vaguely sweet, but the deep, rich, authentic taste of pure maple syrup. His eyes widened in surprised delight. Megan tried hers at the same time, her reaction a mirror of his.
+
+"Whoa," Megan breathed. "Okay, you were not kidding. That is amazing."
+
+WOW, Alex typed. THAT IS... REALLY GOOD.
+
+"Right?" Chloé said, happily licking her cone. "It's the taste of my childhood summers."
+
+They took their creemees and went for a slow, peaceful stroll along the accessible boardwalk that followed the curve of the lake. Chloé walked between Alex's power chair and Megan, pointing out the docks where she'd learned to swim and the distant Canadian shoreline. The sun was warm, a gentle breeze was coming off the water, and the sweet taste of maple lingered on their tongues.
+
+It was a perfect, quiet afternoon, a moment of simple joy that stood in stark contrast to the complexities of the border they had just navigated. As the afternoon began to wane, they made their way back to the accessible van, the weariness of their long trip finally beginning to set in.
+

@@ -1,0 +1,110 @@
+# Part 7: Fueling the Army
+
+## Sunday, June 20, 2004 — 08:00 AM 105 Pepper Street SE
+
+"Troops, mobilize," Sarah commanded.
+
+She stood at the bottom of the basement stairs, fully dressed in jeans and a sweater. She clapped her hands twice. "We depart for the surface in T-minus five minutes. Fold the sleeping bags. Do not leave a mess in the Underworld."
+
+Jenna groaned, rolling off her mattress. "You’re too loud for morning."
+
+"I smell bacon," Elara sniffed the air, her eyes popping open. "And syrup."
+
+That got them moving. The promise of sugar was the ultimate motivator.
+
+They dragged their heavy limbs up the wooden stairs. Harper hung back. Her legs were stiff, yes, but mostly she was feeling the lingering "Basement Shame" of the night before. She felt vulnerable. She needed to recalibrate.
+
+She trudged up the steps, gripping the rail. She reached the top and opened the door.
+
+The smell hit her first—a thick, warm cloud of frying bacon, brewing coffee, and vanilla batter. The kitchen was a hive of activity.
+
+Aunt Linda was at the stove, flipping pancakes on a griddle that spanned two burners. Jessica was managing the oven, pulling out a tray of biscuits.
+
+"Reinforcements have arrived!" Linda cheered, waving a spatula. "Grab a plate, girls. It’s a buffet line."
+
+In the dining area, the table had been extended, but it still looked crowded.
+
+Freddie was sitting at the head of the table. He was dressed in soft flannel pants and a grey t-shirt. Paige was sitting on the chair next to him, but she was leaning heavily against his right side, her arm looped through his, her head resting on his shoulder.
+
+They looked like a single unit. Safe. Grounded.
+
+"Morning, Satellites," Freddie said, smiling as the younger girls filed in.
+
+Amanda ran straight to him. She squeezed his arm, hummed a greeting, and then ran to get a plate.
+
+Then came Harper.
+
+She stood by his chair. She looked at him. She was eleven years old. She was tall for her age, all elbows and knees, growing fast. In any other family, she would be told she was "too big" for what she wanted.
+
+She looked at his lap. Then she looked at his face, hesitating.
+
+Freddie saw the hesitation. He saw the need for a docking maneuver.
+
+He didn't care about the logistics. He didn't care that his legs sometimes cramped or that his wheelchair (parked nearby) was usually his primary seat. Right now, he was in the dining chair, and he had space.
+
+He tapped his thigh.
+
+"Come to port," Freddie invited softly.
+
+Harper didn't wait. She climbed up.
+
+It was a clumsy operation. She was heavy—a solid, growing girl. Her knees bumped the table. Her legs dangled awkwardly, nearly touching the floor. She had to curl up tight to fit, burying her face in the crook of his neck, pressing against his chest.
+
+For a moment, Freddie’s sensory system flashed a warning. Input High. Weight Heavy. Heat Rising.
+
+But then, Freddie accessed the Archive.
+
+He remembered the Pathfinder bus. The cold, vibrating window against his head for three days. The smell of diesel and stranger’s sweat. The crushing loneliness of staring at the highway markings, terrified that he had made a mistake.
+
+He remembered the Pasco Lock. The bathroom tile. The fear that he was broken. The feeling of Vanessa trying to hollow him out, to make him a vessel for her needs while ignoring his own.
+
+He felt Harper’s breathing against his collarbone. He felt Paige squeezing his arm on the other side.
+
+This wasn't noise. This was signal.
+
+He wrapped his left arm around Harper, holding her tight against him. He rested his chin on the top of her messy hair.
+
+"You fit," Freddie whispered to her.
+
+"I'm heavy," Harper mumbled into his shirt.
+
+"You are substantial," Freddie corrected. "I prefer the weight. It verifies gravity."
+
+Harper relaxed. The tension of the toilet incident melted away. She wasn't a weird kid who peed in a basement; she was safe in the Captain's chair.
+
+"Okay, feeding time!" Jessica announced, slamming a platter of pancakes onto the table. "Eat up. We need energy."
+
+"Why?" Jenna asked, sliding into a chair and grabbing a fork. "What’s the mission?"
+
+"Tomorrow," Jessica said, pointing a pair of tongs at the twins. "Monday, June 21st. The Big One-Five."
+
+Jenna grinned, her mouth already full of biscuit. "We're finally gonna be old."
+
+"Mid-teens," Sarah corrected, pouring syrup with precision. "It is a significant milestone."
+
+"It’s gonna be better than the Twelfth," Paige promised, leaning her head against Freddie’s shoulder while he held Harper.
+
+The table went quiet for a second. Even the younger ones stopped chewing.
+
+They all remembered the 12th Birthday. The "Black Year." The shouting match in the kitchen. The way Freddie, Paige, and Jessica had silently packed them into the car and driven them to the Emerald Creek Mall.
+
+They remembered sitting in the food court, eating soft pretzels, pretending they didn't have parents who hated each other. Freddie had bought them each a token bag for the arcade. Paige had won Sarah the blue bear.
+
+It was a sad memory, but it was also a foundational one. It was the day they realized that the Avery Unit was stronger than the parents who created it.
+
+"That was the Mall Rescue," Sarah recalled, adjusting her glasses.
+
+"We extracted the assets," Freddie nodded, tightening his grip on Harper. "We secured the perimeter."
+
+"And tomorrow," Jessica grinned, "we do it again. But without the crying parents. Tomorrow is just us. We’re going to hit the town. We have a plan."
+
+"What plan?" Jenna asked, eyes wide.
+
+"Classified," Freddie said. "Security clearance level: Birthday."
+
+Harper shifted on his lap, reaching out to grab a piece of bacon from the platter without getting down. Freddie didn't flinch. He just held her steady so she wouldn't fall.
+
+He was home. The bus was gone. Vanessa was gone.
+
+He had his army. And he was never letting them go.
+

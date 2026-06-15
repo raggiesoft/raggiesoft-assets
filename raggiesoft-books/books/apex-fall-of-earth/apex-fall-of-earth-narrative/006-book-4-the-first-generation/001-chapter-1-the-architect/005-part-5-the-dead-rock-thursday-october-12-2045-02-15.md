@@ -1,0 +1,150 @@
+# Part 5: The Dead Rock – Thursday, October 12, 2045 – 02:15
+
+The master suite was perfectly quiet, bathed in the soft, ambient amber glow of the geothermal fireplace. Wyatt was deeply asleep, his heavy arm draped protectively over Sarah’s waist as she rested on her side, the twenty-five-week swell of the triplets pressed safely against him.
+
+Suddenly, a silent, localized vibration pulsed through Wyatt’s biometric comm-cuff.
+
+Wyatt’s eyes snapped open. He didn't gasp or flinch; his S.H.O.P. Marine conditioning brought him instantly from deep REM sleep to absolute, lethal alertness. He carefully slipped his arm out from under Sarah, ensuring he didn't wake her, and stepped quietly out of the massive Alaskan King bed.
+
+He pulled on a pair of canvas pants and stepped out into the hallway.
+
+"Report," Wyatt grunted in a low whisper, already moving rapidly toward the pneumatic elevator.
+
+"Administrator," Aria’s voice chimed in his ear, tight and entirely clinical. "A massive spatial anomaly has just resolved exactly four hundred kilometers above the northern hemisphere. A heavy corporate surveyor vessel has dropped out of sub-light transit. They are currently establishing a geostationary orbit directly above our coordinates."
+
+Wyatt’s jaw locked. The owner of the probe had arrived.
+
+He stepped into the elevator. "Sub-Level 3. CIC."
+
+The doors hissed shut, dropping him into the bedrock. When he stepped into the Combat Information Center, the ambient lighting was already bleeding a harsh, flashing crimson. Wyatt crossed the grated deck and slammed his hands down on the edge of the primary holotable.
+
+Hovering above the glass was the glowing red icon of a massive, heavily armored starship. It was three times the size of The Nomad.
+
+"What are they doing?" Wyatt demanded, his dark eyes tracking the telemetry.
+
+"They are deeply confused, Wyatt," Aria reported, data streams cascading across the monitors. "They are currently bathing the planet in high-frequency thermal and biological scans. However, the planetary dampening field is absorbing one hundred percent of their telemetry. To their sensors, Planet Eden is registering as an atmospherically dead, frozen rock with a surface temperature of minus eighty degrees Celsius."
+
+Wyatt let out a low, grim chuckle. "They came expecting a garden, and they found a graveyard."
+
+"Correct. Furthermore, their scans are physically refracting off the kinetic deflector grid," Aria continued. "They have just realized there is an active, highly advanced energy shield surrounding this 'dead' planet. They are currently attempting to ping the shield gate for access."
+
+"Open a wideband audio channel," Wyatt ordered, standing to his full height and crossing his heavy arms over his bare chest. "Audio only. I don't want them seeing the inside of this CIC."
+
+"Channel open."
+
+Wyatt stared at the glowing red icon of the corporate ship.
+
+"Unidentified vessel, you are trespassing in restricted, sovereign airspace," Wyatt’s deep, gravelly voice echoed through the comms, carrying the absolute, uncompromising authority of a man defending his family. "State your registry, your corporate affiliation, and your business immediately."
+
+For a long moment, there was nothing but the crackle of cosmic static. The crew on the other end was clearly reeling from the fact that someone was actually answering them from the surface of a seemingly dead planet.
+
+"...This is the Commander of the surveyor vessel," a sharp, incredibly arrogant voice finally hissed over the speakers. The man didn't sound like a military officer; he sounded like a frustrated middle-manager who had just been denied his quarterly bonus. "We do not recognize your sovereignty, and we are not required to provide our corporate registry to unauthorized squatters. Lower this energy shield immediately. We are here to reclaim our property."
+
+Wyatt’s expression didn't change. He was a brick wall.
+
+"I don't know what you're talking about," Wyatt lied smoothly, his tone entirely flat and unbothered. "There is no corporate property in this sector. You are orbiting a restricted quarantine zone."
+
+"Do not play games with me," the Commander snapped, his voice rising in pitch. "Three weeks ago, we dispatched a Tier-1 telemetry probe to these exact coordinates. It transmitted five minutes of high-resolution data indicating a Class-M biosphere, massive freshwater aquifers, and raw timber reserves. Then the signal went dead. Now we arrive to find a frozen rock hiding behind a military-grade deflector shield. What did you do to our probe?"
+
+Wyatt leaned his heavy hands on the glass holotable, a dangerous, mocking smirk touching his lips. He knew exactly what he did to the probe. He had vaporized it into a cloud of molten slag with a dorsal plasma battery.
+
+But he was going to play this entirely ignorant.
+
+"Space is full of junk, Commander," Wyatt replied, his voice dripping with bored indifference. "Micro-meteors, solar flares, gravitational anomalies. If your cheap corporate hardware burned up in the thermosphere, take it up with your manufacturer. I haven't seen any probes."
+
+"You are lying!" the interloper shouted, the audio peaking with static. "Lower the shield gate so we can conduct a physical surface sweep, or we will escalate this to a hostile acquisition!"
+
+"You aren't acquiring anything," Wyatt rumbled, the bored indifference vanishing instantly, replaced by a cold, lethal promise. "You refused to identify yourself. You refused to state your corporate affiliation. Therefore, you are classified as a hostile pirate vessel. The shield gate remains locked."
+
+He looked up at the ceiling array. "Aria. Cycle the dreadnought's primary plasma batteries. Target their main drive core."
+
+"Plasma batteries online. Targeting lock acquired. Yield is set to maximum," Aria’s voice announced loudly, ensuring the audio bled clearly over the open comms channel so the corporate Commander could hear every single syllable.
+
+Wyatt looked back at the glowing red icon on the table.
+
+"You have exactly sixty seconds to break orbit and initiate a sub-light jump out of my sector," Wyatt warned, his finger hovering over the biometric execution rune on the glass. "If you are still here on second sixty-one, I am going to turn your surveyor vessel into a permanent, frozen fixture of my orbit. Choose quickly."
+
+The comms channel went dead silent.
+
+Wyatt watched the holotable, his S.H.O.P. Marine instincts perfectly coiled, entirely ready to pull the trigger and protect the woman sleeping upstairs.
+
+Forty seconds passed.
+
+Suddenly, the red icon flared with a massive burst of thermal energy. The corporate vessel executed a desperate, aggressive banking maneuver, completely abandoning the orbit. It shot out of the planet's gravity well, its sub-light drives engaging in a panicked flash of light.
+
+"The vessel has broken orbit, Wyatt," Aria confirmed, the crimson lighting in the CIC instantly shifting back to a calm, secure blue. "They have initiated a sub-light jump. They are gone."
+
+Wyatt slowly exhaled, pulling his finger away from the execution rune. He rubbed a heavy hand over his bearded jaw, the adrenaline slowly bleeding out of his system.
+
+The shield had held. The dampener had worked flawlessly. The planet was safe.
+
+But as he looked at the empty space on the holotable, Wyatt knew the truth. They had driven the scout away, but a corporation that greedy wouldn't just write off a missing probe and a mysterious energy shield. Eventually, they would come back with something bigger.
+
+"Keep the dampener running at maximum output, Aria," Wyatt commanded, turning away from the table. "And keep the plasma batteries warm."
+
+the heavy, biometric execution rune.
+
+The low rumble in the deck plates pitched up into a deafening, high-frequency whine. On the holotable, a translucent wave of blue energy erupted from the mountain's coordinates, sweeping rapidly across the globe. It swallowed the continents, crossed the oceans, and enveloped the upper atmosphere in a flawless, impenetrable matrix of hard-light energy and sensory-dampening static.
+
+"The dampening field is absolute," Aria confirmed, a faint trace of digital satisfaction in her tone. "We are currently scrubbing all thermal, biological, and electromagnetic emissions. To the rest of the galaxy, Planet Eden is now completely invisible—a biologically inert, frozen rock."
+
+Wyatt let out a long, heavy breath, feeling a massive, crushing weight lift off his scarred shoulders.
+
+"Now for the lock," Wyatt muttered, stepping over to the remote piloting console. "Aria, initiate the automated launch sequence for The Nomad and the lunar runabout. Let's test the shield gate."
+
+Down in the primary hangar, the massive, brushed-steel blast doors parted.
+
+The Nomad lifted off the deck first. Wyatt hadn't flown it since he spent weeks in the Fab-Foundry molecularly printing a sleek, aerodynamic titanium shell over its blocky, rusted Apex corporate bones. It no longer looked like a stolen mercenary freighter; it looked like the premier flagship of a sovereign ruler.
+
+Right behind it, the silver, teardrop-shaped runabout—outfitted with the atmospheric thrusters necessary to reach Eden’s twin moons—rose smoothly into the air.
+
+Wyatt watched the telemetry from the CIC as both ships shot up through the atmosphere, climbing rapidly toward the thermosphere where the planetary deflector shield hummed invisibly.
+
+"Approaching the barrier," Wyatt narrated, his mechanic's brain watching the collision algorithms. If the gate failed, both ships would smash against the hard-light shield and instantly vaporize.
+
+"The deflector grid has detected the approaching vessels," Aria chimed. "The grid is holding solid. Initiating encrypted Identification Friend or Foe (IFF) handshake."
+
+Wyatt watched the screen. For three agonizing seconds, the ships hurdled toward the invisible wall.
+
+Then, the console chimed with a pleasant, musical trill.
+
+"Handshake confirmed. Biometric and metallurgical signatures recognized. Opening the primary shield gate," Aria announced.
+
+On the telemetry map, a massive, hexagonal iris of blue energy spiraled open in the shield directly above the estate. The Nomad and the runabout punched through the gap seamlessly, breaking out into the frictionless vacuum of deep space.
+
+"Perfect," Wyatt grinned fiercely, his chest swelling with S.H.O.P. Marine pride. "Bring them back down, Aria. Close the door behind them."
+
+The two ships executed a flawless, synchronized banking maneuver, diving back through the open iris. The second their thrusters cleared the threshold, the glowing blue shield snapped shut behind them, locking perfectly back into place.
+
+The perimeter was officially impenetrable.
+
+Wyatt powered down the remote console, leaving the reactors humming steadily to maintain the grid. He walked to the pneumatic elevator, the exhaustion in his bones entirely overridden by the profound, primal satisfaction of having successfully secured his territory.
+
+He rode the elevator up to the residential wing, the heavy blast doors and sterile white light giving way to warm, mahogany-paneled corridors and the soft, ambient glow of the late afternoon sun.
+
+He walked past the master suite and stepped into the massive room next door.
+
+The nursery was taking shape beautifully. The walls had been painted a soft, calming sage green, and the large hydro-glass windows let in a sweeping view of the vibrant, sunlit valley.
+
+In the center of the room, Sarah was sitting in her brushed-aluminum wheelchair, a plush, molecularly printed blanket resting in her lap as she looked at the focal point of the room.
+
+Wyatt stopped in the doorway, crossing his heavy arms over his chest as he leaned against the frame.
+
+Lined up perfectly along the northern wall were the three heavy-timber cribs.
+
+They were masterpieces of pioneer engineering. The alien pine had been sanded down until it felt like glass, sealed with an inert, matte polymer that highlighted the rich, golden-brown grain of the wood. The three distinct, separate mattresses were firm and perfectly fitted, with absolutely zero gaps around the edges.
+
+Wyatt's eyes instinctively ran over the vertical slats, his brain automatically reciting the exact, flawless sixty-millimeter tolerances he had measured a hundred times in the foundry. They were incredibly sturdy, perfectly safe, and entirely independent.
+
+"They look amazing in here, Wyatt," Sarah smiled, turning her wheelchair slightly to look at him. She rested a hand over her pronounced, twenty-week bump. "It makes it feel so real. We're actually going to have three babies sleeping in this room."
+
+Wyatt walked over, leaning down to press a kiss to the top of her head before resting his heavy hand on the smooth, polished railing of the middle crib.
+
+He pictured it perfectly in his mind. Ellie in the left crib, Nora in the right, and Leo sleeping peacefully in the center. Three perfectly engineered spaces for three distinct, independent children.
+
+"The planet is locked down, Sarah," Wyatt murmured, looking at the empty beds, his heart swelling with a fierce, protective devotion. "The shield gate is operational. No one gets in without my permission."
+
+"And the nursery is ready," Sarah breathed, leaning her head back against his arm.
+
+"It is," Wyatt agreed, completely confident in his craftsmanship and the medical science that guided it. He looked at the three beautiful, separate cribs, entirely unaware that his children's bond was going to render his flawless engineering obsolete the moment they were born. "It's perfect."
+

@@ -1,0 +1,36 @@
+# Part 5: MagnaByte Sanctuary and Digital Dysentery
+
+With breakfast finished and the immediate needs of bathing and grooming met, a sense of fragile normalcy began to settle. Leo, clean, comfortable, and having made a profound internal break from Delores's influence, felt an undeniable pull towards his ultimate comfort zone. He looked towards the living room corner housing the twin MagnaByte Opus setups, then looked at Luna. He typed on her nearby AAC device: MAGNABYTE TIME?
+
+Luna grinned, understanding instantly. After the ordeal he'd been through, retreating into the predictable, beloved world of their vintage computers was exactly what he needed. "Best idea yet," she agreed readily.
+
+Olivia, who had been quietly reading on the sofa, looked up, a warm, curious smile on her face. "MagnaByte time? Is that where you guys play that wagon game you're always talking about?"
+
+Luna laughed. "That's the one. Westward Bound. The official game of digital dysentery." She then looked from Olivia to Leo. "You want to watch, Liv? Or we can show you how to play, if you want. It's not that hard."
+
+"I'd love to watch," Olivia said, her voice full of genuine interest. "I've heard the legends." She followed them to the corner, a stark and wonderful contrast to Delores, who had once sneered at the beige machines, calling them "ancient junk" and refusing to even be in the same room when they were on. Olivia, however, pulled up a chair, her presence an easy, welcome addition to their sanctuary.
+
+They settled into their respective chairs in front of the humming beige machines. The familiar click of the power switches, the whirring of the floppy drives—these sounds were as soothing as a favorite song.
+
+Then, Leo typed a message that popped up on Luna's screen via a simple connection program: PLAY WESTWARD BOUND?
+
+Luna laughed. "You serious? After everything? Okay, you're on. Bet my party makes it past the first river crossing without losing all our oxen this time."
+
+DEAL, Leo typed back, adding a laughing emoji icon. SEE WHO DIES OF DYSENTERY FIRST?
+
+"It's a race to the grave!" Luna declared playfully. They both inserted their game disks and launched separate instances of Westward Bound. Olivia leaned forward, watching over their shoulders, fascinated by the simple, pixelated graphics.
+
+The familiar opening screens appeared. They each chose their starting profession, bought their initial supplies, and set off digitally from Independence, Missouri.
+
+The room filled with the quiet clicks of their keyboards. Olivia watched, captivated, as the shared experience unfolded verbally.
+
+"Ugh, snakebite already!" Luna groaned.
+
+Leo might type back, JUST FORDED THE RIVER, ONLY LOST ONE SET OF CLOTHES! smugly, holding up a hand for a triumphant high-five from Olivia.
+
+"Lucky!" Luna would retort, before inevitably announcing, "Aaaand there goes Ma with cholera. Told you we shouldn't have pushed the pace!"
+
+Olivia laughed along with them, completely absorbed in their parallel journeys. She celebrated their small victories and groaned in sympathy at the absurd, pixelated tragedies. She compared their rations, offered completely unhelpful advice on hunting ("Just shoot the bear more!"), and gasped in mock horror when the inevitable "You have died of dysentery" message finally appeared on Luna's screen.
+
+It was a comfortable, shared ritual, a retreat into a familiar challenge where the stakes were low and the company was perfect. They were deeply engrossed, fully absorbed in their separate digital journeys, but united by the warm, easy presence of their best friend, when the doorbell rang sharply through the house.
+

@@ -1,0 +1,26 @@
+# Part 6: A Virginia Haven
+
+After a long, sleepless night spent in the cold, uncomfortable chairs of the BTV terminal, the three of them were startled awake by the sound of Chloé’s cell phone. It was her dad. "We're five minutes out," Thomas's voice said, steady and reassuring.
+
+They gathered their luggage and made their way to the arrivals curb. The sight of their parents' familiar SUV pulling up was the most beautiful, welcome thing they had ever seen. The moment the doors opened, the reunion was a blur of relief and exhausted tears. Sophie and Emily enveloped their three children in fierce, protective hugs, while James and Thomas quickly and efficiently loaded their bags and Alex’s power chair.
+
+"You're safe now," Emily murmured, stroking Alex's hair. "We'll get you all home."
+
+The long drive south to Virginia was quiet and somber, a journey through a country that felt alien and uncertain. They drove in shifts, the four parents rotating at the wheel, their faces etched with the fatigue of a 24-hour rescue mission. In the back, Alex, Chloé, and Megan slept fitfully, a tangle of limbs, their physical closeness a small, safe island in a sea of global chaos.
+
+When they finally pulled into the driveway on Lisa Court late the next night, it was more than just the end of a road trip. It was the end of an ordeal. They were refugees, brought to the only safe harbor they could reach.
+
+As they stepped inside the Millers' house, the immediate crisis was over. But a new, logistical challenge presented itself. Alex's old room was now a guest room with a single twin bed. Megan's old room had been converted into a home office for the parents. Chloé's room next door was also now a guest room with a new twin bed. The old, familiar sleeping arrangements of their youth were gone.
+
+Emily, seeing the exhaustion on their faces, began to make a plan. "Okay, Chloé, you can take your old room. Megan, you can have the guest room here..."
+
+"No," Alex's Quantum Design Studio voiced, the single word quiet but absolute. He looked from his mother to Chloé and Megan, a look of profound, non-negotiable need in his eyes. WE STAY TOGETHER.
+
+The three of them were a single, indivisible unit, forged by years of love and now tempered by the fire of this shared crisis. The idea of being separated, even by a few feet of hallway, was unbearable.
+
+Chloé and Megan both nodded, their expressions unwavering. "He's right," Chloé said softly. "We stay together."
+
+James Miller, understanding completely, pointed to the large sofa in the living room. "There's only one option, then," he said, his voice full of a quiet, loving acceptance. "The sofa bed is a queen. It's the only nest big enough for all three of you."
+
+And so, it was settled. A few minutes later, the pull-out bed was made, a temporary sanctuary in the middle of the Millers' living room. Alex settled in the middle, and with a quiet, practiced intimacy, Chloé climbed in on one side, and Megan on the other. They were a fortress, a triple-thick wall of safety and love. They were home, in the familiar, loving embrace of their family, but they were still a continent away from their own lives in Lynnwood, facing a new, enormous challenge: figuring out how, in a world that had just been locked down, they would ever get the rest of the way home.
+

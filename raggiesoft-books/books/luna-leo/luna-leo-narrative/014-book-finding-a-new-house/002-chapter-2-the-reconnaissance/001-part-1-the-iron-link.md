@@ -1,0 +1,166 @@
+# Part 1: The Iron Link
+
+## Section 1: December 27, 2005 ARTS Newport News Station (NPN) 05:45 AM
+
+The air in Newport News was damp and cold, a wet chill that settled into the bones. The station itself was small—a brick building at the end of the line, surrounded by a chain-link fence and the hum of idling diesel locomotives.
+
+The Fortress stood on the concrete platform, bundled in coats.
+
+Stella checked her watch. "Train 94. Coastal Service. On time."
+
+Arthur and Eleanor stood nearby. Arthur was leaning heavily on his cane, his breath pluming in the cold air. He smelled of peppermint and Old Spice—the scent of a man who had prepared meticulously for one last long haul.
+
+"Here comes the ordeal," Arthur murmured to Eleanor, gesturing to the tracks.
+
+Because NPN was an older, low-level station, boarding wasn't simple. The conductor had to roll out the **Mobile Lift**—a loud, hand-cranked hydraulic box that looked like a medieval torture device.
+
+"Alright, Leo," the conductor said, cranking the lift up to the vestibule height. "Lock your brakes."
+
+Leo rolled his manual titanium chair onto the metal platform. He hated this part. It was slow. It was loud. It made a spectacle of him. He sat stoically as the lift shuddered upward, lifting him four feet into the air to meet the train door.
+
+Stella and Olivia waited at the bottom, their faces tight. This was why they were leaving.
+
+## Section 2: 06:15 AM Business Class Car - The Conference Table
+
+Inside, the atmosphere changed. The Business Class car was warm, smelling of coffee and upholstery.
+
+They claimed their territory.
+
+**The Fortress Table:** At the rear of the car, Leo parked his manual chair in the open bay next to the window. Stella, Luna, and Olivia took the three seats around the large conference table.
+
+**The Grandparents:** Arthur and Eleanor took the two wide seats directly across the aisle, facing the group. They settled in with blankets and pillows, ready to watch the show.
+
+"Everyone settled?" Stella asked, plugging her laptop into the wall outlet.
+
+"Settled," Olivia said. She reached out and took Leo’s hand on top of the table.
+
+The morning light caught the matching silver bands on their ring fingers. They weren't wedding rings—the law wouldn't allow that—but they were heavy, engraved commitment rings. To the world, they might look like friends; to the law, Olivia was now **Olivia Walker Porter**, Leo's co-guardian. But to each other, the rings meant *forever*.
+
+Leo squeezed her hand. He tapped his **Quantum Communicator**.
+
+"READY FOR LAUNCH."
+
+The train lurched. The diesel engine roared. The pine trees of Newport News began to slide backward.
+
+## Section 3: 10:30 AM Washington D.C. - The Engine Change
+
+The ride north was a slow decompression. They passed through Richmond, then the endless suburbs of Northern Virginia.
+
+At **The Finch Union Station** in D.C., the train stopped for the ritual Leo loved best.
+
+Suddenly, the overhead lights flickered and died. The low, vibrating hum of the diesel engine that had been with them for four hours cut out completely. Silence filled the car.
+
+Leo sat up straighter. He let out a sharp, excited sound— *"Ah!"* —and pointed frantically out the window.
+
+He tapped his screen rapidly, turning it so Arthur could see across the aisle.
+
+"POWER SWAP. DIESEL OFF. ELECTRIC ON."
+
+Outside, the heavy diesel locomotive was decoupled. In its place, a sleek, boxy **Electric Locomotive** hummed into position, connecting to the overhead catenary wires.
+
+CLUNK.
+
+The coupler engaged. The lights flickered back on. The hum changed from a rumble to a high-pitched, futuristic whine.
+
+*"NOW WE ARE FAST,"* Leo typed, grinning.
+
+Arthur watched him from across the aisle. He nudged Eleanor. "Look at him. He knows the machine."
+
+"He does," Eleanor smiled, knitting a row on a new scarf. "He's ready for the city, Arthur."
+
+"Yes," Arthur agreed quietly. "He is."
+
+## Section 4: 04:30 PM Approaching Braxton
+
+The train had torn through the Northeast Corridor at 125 MPH. They had blurred past Philadelphia and New York. Now, as the winter sun began to set, they crossed into New England. The trees were different here—birch and maple. The snow on the ground was deeper.
+
+The ARTS conductor’s voice crackled over the intercom. It was distinct from the automated voice; it was human and tired.
+
+"Now arriving at... **Braxton State University**. Station Stop BSU. This is an ARTS and BTA Intercity connection. If you are transferring to Regional Rail or the Metro, please use the central elevators. Please check around for personal belongings."
+
+Leo sat up. He looked at the scrolling LED display in the train car. **NEXT STATION: BRAXTON STATE UNIV**
+
+Then he looked out the window as the train slowed, banking onto the coastal viaduct.
+
+The **Atlantic Ocean** filled the window. It was steel-grey and choppy, crashing against a massive sea wall. And rising from the edge of the water was the station.
+
+It didn't look like the brick shack in Newport News. It looked like a white sail caught in the wind.
+
+As they glided into the station on the elevated track, Leo saw the massive station sign bolted to the steel girders outside.
+
+**NARRAGANSET ESPLANADE** *\[BTA Logo\]* *\[ARTS Logo\]*
+
+He tapped his Quantum Communicator.
+
+"THE TRAIN SAYS UNIVERSITY. THE BUILDING SAYS PARK."
+
+"Different maps," Stella noted, packing her laptop. "ARTS sells the school. The city sells the beach. Same platform."
+
+The train hissed to a halt.
+
+"Okay," Stella said. "Let's see if the brochure lied."
+
+The doors slid open.
+
+There was no conductor cranking a lift. There were no stairs.
+
+The floor of the train was perfectly level with the concrete platform. A conductor simply flipped a thin yellow **Bridge Plate** over the tiny gap.
+
+Leo rolled forward. His front casters hit the plate, then the concrete. Smooth. Seamless. Dignified.
+
+He rolled out onto the platform and stopped. He was forty feet in the air, protected by a soaring glass canopy. The ocean wind swirled outside, but he was dry.
+
+He looked back at Arthur and Eleanor as they stepped off.
+
+*"NO LIFT,"* Leo typed, his face lit by the station lights. *"JUST ROLLING."*
+
+"It's civilized," Arthur declared, buttoning his coat against the wind. "Proper infrastructure."
+
+They walked/rolled to the glass elevators at the end of the platform. They descended to the **Concourse Level**.
+
+The tunnel stretched out before them, a long, glowing tube of white light and student art. Down the center, the moving walkways hummed with a low, electric vibration.
+
+"Walkway?" Luna asked, shifting her flute case. "I'm lazy."
+
+"Walkway," Stella agreed, stepping onto the rubber belt. Olivia followed.
+
+Leo stopped at the threshold in his **titanium manual chair**. He looked at the moving belt. Then he looked at the smooth, polished terrazzo floor of the "Fast Lane" running parallel to it.
+
+The Physics:
+
+Walkway Speed: 1.5 MPH.
+
+Walking Speed: 3 MPH.
+
+Total Speed: 4.5 MPH.
+
+**Leo’s Sprint Speed:** **8.0 MPH.** (On this floor, with his shoulders? Easy.)
+
+Leo grinned. He didn't type anything—his hands were needed for the wheels. He just shot Olivia a look that said: *Watch this.*
+
+He pushed off.
+
+While Stella, Luna, and Olivia glided along on the belt, standing comfortably, Leo launched himself down the smooth floor.
+
+He used long, powerful strokes. Push... Glide....... Push... Glide.......
+
+The titanium chair hummed on the hard surface. There was almost zero rolling resistance. He looked like a track athlete.
+
+He flew past them.
+
+"Hey!" Luna laughed, waving as he blurred by. "Show off!"
+
+Leo didn't slow down. He leaned into the turn, banking smoothly around a sculpture of a giant metal abstract bird, his hands working in a rhythmic blur.
+
+By the time the walkway voice intoned *"Caution. Moving walkway is ending,"* Leo was already parked at the hotel's sliding glass doors, spinning a slow 360 on his rear wheels, waiting for them. He wasn't even out of breath.
+
+The rest of the Fortress stepped off the belt, catching up to him.
+
+"Okay, speed racer," Olivia said, grinning. "Point taken."
+
+Leo tapped his Quantum Communicator.
+
+"ZERO FRICTION," he typed. "SMOOTH FLOOR IS FAST."
+
+"You beat the machine," Stella noted, checking her watch. "Efficiency. I like it. Now let's go find our rooms.
+

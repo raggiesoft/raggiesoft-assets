@@ -1,0 +1,48 @@
+# Part 1: Galaxy Fitness – 10:15 AM
+
+We arrived in the sprawling asphalt of the strip mall parking lot. Abbey cut the engine of her sedan. I could feel the vibrations of the car fade, replaced immediately by the tight, familiar hum of my own locked nervous system.
+
+Abbey and Sarah unspooled themselves from the front seats. Even through the tinted windows, they cast massive, eclipsing shadows. They headed toward the trunk to retrieve my chair. Samantha leaned over from the seat beside me, wrapping her arms around my shoulders in a deep, grounding squeeze. It was exactly the deep-pressure regulation I desperately needed to transition from the moving vehicle to the static environment. I hummed a low, vibrating note in the back of my throat—*I'm okay, I'm ready.*
+
+The rear door swung open. Sarah had the custom rig unfolded and locked on the pavement. Abbey reached in, her massive hands effortlessly disengaging my seatbelt. With a fluid, mechanical grace that required absolutely zero momentum, she scooped me up. I weigh ninety-seven pounds, a chaotic bundle of locked joints and misfiring neurological signals, but against Abbey's broad chest, I was utterly weightless. She deposited me perfectly into the seat, my posture instantly aligning with the familiar canvas contours.
+
+Samantha took the handles. A surge of pure, electric anticipation spiked through my chest, causing a small, involuntary tremor in my right hand. *We were going to work out.* Abbey and Sarah had promised. The moment the memberships were paid for, we were going to find a quiet corner and I was going to learn how to move.
+
+The automatic doors slid open, and the air conditioning hit us like a wall of artificial lemon scent and recycled sweat. The interior was a visual assault of bright neon purple and abrasive yellow. Rows of identical treadmills stretched toward the back wall.
+
+We approached the sweeping front desk. The attendant, a lanky guy whose nametag read *Jason*, was leaning against the counter. As we drew closer, he looked up. Way up.
+
+It always takes a second for the general public to process the sheer, towering geometry of my cousins. Jason's eyes widened, locking onto Abbey's incredibly broad shoulders before flicking to Sarah's identical, imposing frame. He quickly cleared his throat, his posture straightening as he scrambled to deploy his corporate greeting.
+
+"Hey, welcome to Galaxy Fitness," Jason said, plastering on a polite, practiced smile. "The Critic-Free Cosmos. Have you guys ever been in before?"
+
+"We have not," Sarah replied. Her voice was calm, level, and entirely devoid of the chipper customer-service cadence Jason was projecting. "We are here to purchase four premium memberships today."
+
+Jason’s smile brightened. Four VIP tier sign-ups walking through the door on a Tuesday morning was a massive commission boost. "Awesome! We’d love to have you. Before we get you all signed up at the registers, our policy is to take you on a quick tour of the cosmos to make sure you know where everything is. It only takes a few minutes."
+
+"That will not be necessary," Abbey stated firmly, adjusting the cuffs of her denim jacket. "We are highly familiar with standard resistance equipment and cardiovascular machines. You can proceed directly to the paperwork."
+
+Jason rubbed the back of his neck, his smile turning slightly sheepish. He wasn't used to people aggressively rejecting the sales script. "Ah, I totally get it. You guys obviously know your way around a weight room. But my Shift Manager actually requires me to show all prospective members the floor before I can process any payments. It's a liability thing. Plus, with the premium memberships, I get to show you the hydromassage loungers."
+
+Sarah did not blink. She simply evaluated Jason for a long, silent moment. "Our primary concern is not the massage equipment. My brother requires a highly structured environment. Our priority is evaluating the floor layout to ensure his wheelchair can safely navigate your machine circuits without obstructing the pathways for your casual members."
+
+"Oh, totally!" Jason nodded rapidly, eager to regain control of the interaction. "We have super wide aisles. It’s totally accessible. I can show you exactly how it’s laid out."
+
+Abbey and Sarah shared a brief, telepathic look. They were calculating the friction. Arguing with a minimum-wage employee over a mandatory corporate script was a waste of bandwidth.
+
+"If a tour is the mandatory prerequisite for the transaction," Sarah finally said, stepping to the side and gesturing for Samantha to push my chair forward, "then we will walk the floor. Please lead the way."
+
+Jason exhaled a quiet sigh of relief, grabbed a laminated brochure off the desk, and motioned for us to follow him.
+
+Samantha pushed me along the padded rubber flooring as Jason pointed out the cardio decks and the machine circuits. I watched my cousins scan the environment. They weren't looking at the neon motivational signs; they were evaluating the spatial load and the sightlines.
+
+We passed the free-weight section. I saw Sarah's eyes flick toward the rack, then briefly meet Abbey's. Another silent exchange. The rubberized dumbbells maxed out at seventy-five pounds. I knew exactly what they were thinking. On a slow afternoon in our garage, they took turns bench-pressing *me* just to warm up their rotator cuffs. This place was built for aesthetic maintenance, not actual mechanical output.
+
+We circled back to the purple desk. Jason was enthusiastic now, heavily encouraged by the fact that my stoic cousins hadn't spoken a harsh word the entire trip.
+
+He tapped the laminated brochure on the counter. "So, that's the floor. As you can see, we're really focused on keeping things relaxed here." He pointed his pen toward a massive, obtrusive contraption mounted high on the wall behind the desk. It looked like an industrial air-raid klaxon, painted emergency red and wired with strobe lights.
+
+"That's our Brute Siren," Jason said, offering that apologetic chuckle again. He leaned in conspiratorially. "Corporate makes us keep it up there. It's supposed to go off if someone is slamming weights or grunting. But honestly? Don't even worry about it. We only use it on the gym bros and the loud meatheads who come in trying to disrupt the casual members. You guys are quiet and respectful. You'll be totally fine."
+
+Behind me, I felt Samantha's grip tighten on the rubber handles of my chair.
+

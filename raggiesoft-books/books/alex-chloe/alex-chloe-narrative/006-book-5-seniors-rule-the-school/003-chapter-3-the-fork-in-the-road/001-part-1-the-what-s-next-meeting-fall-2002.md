@@ -1,0 +1,47 @@
+# Part 1: The "What's Next?" Meeting (Fall 2002)
+
+The fall of their senior year at Northwood High was a pressure cooker of college applications, SAT scores, and the constant, looming question of "what's next?" For Alex and Chloé, the question was even more complex. It wasn't just about which college to choose; it was about how, or if, their inseparable unit could survive its first real encounter with the logistical realities of the adult world.
+
+One Sunday evening in late October, the six of them were gathered in the Millers' living room. The mood was different from their usual easygoing family dinners. It was loving, but serious. All four parents were there, and it was clear this was a planned family meeting.
+
+James Miller began, his voice gentle but firm. "Kids," he said, looking at both Alex and Chloé, "we need to have a serious talk about next year. About college. We all know you two are a team, but we need to be practical about how that team is going to work on a college campus."
+
+Sophie Mason picked up the thread, her expression a mixture of pride and loving concern. "Chloé, *ma belle*, your application to Northwest Pacific University is magnificent. Their linguistics program is one of the best in the country. And Alex," she turned to him, "your portfolio for your computer science applications, with the work you've already done... it's incredible."
+
+"But here's the reality," Thomas Mason said, his practical nature coming to the forefront. "Finding one university that has a top-tier, world-class program for both of your very different fields is nearly impossible. And Alex," he said, his voice softening, "the logistics of moving you three thousand miles away, into a new dorm, a new city, with a new medical support system, all at once, right after graduation... that's an almost impossibly steep hill to climb."
+
+The unspoken truth hung in the air: their dream of simply going to the same college together was colliding with a wall of practical and logistical challenges.
+
+Alex felt a familiar, cold dread coiling in his stomach. He looked at Chloé, and saw his own fear reflected in her wide, anxious eyes.
+
+"We've been talking, all four of us," Emily Miller said, her voice a soothing presence. "And we think we have a plan. A practical, two-step plan that gets you both where you need to be, even if it's... difficult for a little while."
+
+James laid it out. "Step one: Chloé, you go to NPU. You go to your dream school, you start your program, and you establish a base for both of you in Seattle."
+
+"Step two," he continued, turning to Alex, "you start at the Community College of Hampton Roads. It's a great school, it's completely accessible, and it allows you to get your associate's degree in a familiar, supportive environment, without the stress of a cross-country move right away."
+
+"And then," Sophie finished, her voice full of a hopeful promise, "after two years, once Chloé is settled and you have your degree, Alex... you transfer to NPU. You join her in Seattle. It's a longer path, but it's a safer, more logical one. It gets you to the same place in the end: together."
+
+The plan was logical. It was sensible. It was also a death sentence to the only reality they had known for four years. Two years apart. Two years of nights in separate beds, of separate classes, of separate lives.
+
+Chloé was the first to speak, her voice trembling slightly. "Two years? But... we've never..." She trailed off, unable to finish the thought.
+
+Alex's own fear was a roaring in his ears. His fingers flew across his AAC keypad, the words a raw, vulnerable plea.
+
+TWO YEARS IS AN ETERNITY. HOW DO WE DO THAT?
+
+"It will be hard," Emily acknowledged, her eyes full of empathy. "Incredibly hard. But you two... you are stronger than any distance."
+
+A new, more fragile plan began to form in the quiet of the room, a plan made not by the parents, but between the two of them.
+
+"We'll call," Chloé said, looking directly at Alex, a fierce promise in her eyes. "Every single day. A video call. No matter what."
+
+EVERY DAY, Alex's device confirmed, the words a solemn vow. AND BREAKS. YOU'LL COME HOME FOR CHRISTMAS? AND SUMMER?
+
+"Every single break," she promised, her voice thick with emotion. "The second my classes end, I'll be on a plane back here. And then," she took a shaky breath, "after two years, you come to me. And we're never apart again."
+
+NEVER, he typed.
+
+The fear of the separation was a physical thing in the room, a shared, aching grief for a future that was suddenly much more complicated than they had ever imagined. They had a plan, a logical, sensible plan. But as they sat there, surrounded by their loving, practical parents, all Alex and Chloé could feel was the terrifying, looming reality of the two long, empty years that now stretched between them.
+
+

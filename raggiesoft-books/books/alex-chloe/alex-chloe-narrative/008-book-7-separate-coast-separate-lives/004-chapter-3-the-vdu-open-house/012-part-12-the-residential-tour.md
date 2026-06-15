@@ -1,0 +1,24 @@
+# Part 12: The Residential Tour
+
+After lunch, the open house attendees split into even smaller groups for the residential life tour. Megan and Alex joined a group led by a cheerful RA, heading into one of the older, traditional dormitory buildings on campus.
+
+The RA unlocked a door and ushered them into a classic, cramped freshman dorm room. It was a study in beige and institutional wood grain: two extra-long twin beds on opposite walls, two small desks, two dressers, and a narrow door that led to a tiny Jack-and-Jill bathroom connecting to the adjacent room. Crucially, the entire space was completely non-handicapped accessible. The doorway was too narrow for Alex's chair, the bathroom had no grab bars, and there was no space to maneuver. Alex had to remain in the hallway, looking in.
+
+The space was a stark, almost comical contrast to the spacious, self-contained apartment Megan lived in. The other prospective students and their parents peppered the RA with questions about laundry facilities and quiet hours. Alex just sat near the doorway, a quiet, almost inaudible groan escaping him.
+
+He could feel the walls closing in. This was the "college experience" most people had, a world of shared spaces and minimal privacy. He looked at the two separate, narrow beds and felt a profound sense of wrongness. He imagined trying to live like this, separated from Chloé, his anchor, by a few feet of cold linoleum floor. The idea was unbearable.
+
+He knew, with an absolute certainty, what he wanted. He wanted what Megan had—a real apartment, a shared kitchen, a living room. A single bedroom with a proper bed to share with Chloé.
+
+Megan, sensing his discomfort, moved to his side. "A little different from my place, huh?" she whispered.
+
+A LOT DIFFERENT, his device voiced quietly. THIS... WOULD NOT WORK.
+
+"I know," she said, her voice full of understanding. She reached out and placed a comforting hand on his shoulder, giving it a firm, reassuring squeeze. The simple, loving gesture was another spark in the growing fire of his internal conflict.
+
+As the tour guide droned on about roommate agreements, Alex looked around the cramped, impersonal, and inaccessible room. This was what Vera offered him: a life of separate beds, of being managed, of having his needs ignored. The hug from Megan, so simple and so safe, felt a million miles away from the tense, possessive way Vera would grab his arm.
+
+He thought of Chloé, three thousand miles away. He thought of their easy, comfortable rhythm, of the profound, unspoken safety of their shared bed. And then he thought of Vera. Is this what I really want? The question, which had been a whisper the night before, was now a clear, insistent voice in his head.
+
+He leaned into his cousin's touch, the safe harbor in his swirling thoughts, and for the first time, he began to seriously, terrifyingly, consider the answer.
+

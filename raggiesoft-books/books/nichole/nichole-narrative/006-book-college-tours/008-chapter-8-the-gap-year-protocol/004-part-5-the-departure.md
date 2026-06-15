@@ -1,0 +1,92 @@
+# Part 5: The Departure
+
+## Date: September 2, 2003 Time: 8:00 AM Location: 95 West Main Road, Portsmouth, Rhode Island
+
+The morning after the grand reveal was a crash course in logistics. The emotional high of the reunion had settled into the practical reality of adult responsibilities.
+
+The dining room table was covered in real estate listings, moving truck rental quotes, and the Rhode Island yellow pages.
+
+"Okay," Tom said, nursing his third cup of coffee. "Phase One is officially complete. The twins are in. The domicile clock is ticking."
+
+Patrick sat at the table next to him, looking over the classifieds for local jobs. Nichole was parked at the end of the table, her Apex ConvertiBook humming as she organized her new digital workspace.
+
+"Phase Two is the migration," Tom continued, pointing at Ellen and then Carol. "Ellen and I have to go back to Virginia Beach. We have to pack up eighteen years of life, stage the Delaney Street house, and get it on the market. Carol, you have to do the same in New Jersey."
+
+"My realtor is coming over tomorrow," Carol said, looking slightly overwhelmed but resolute. "Historic homes in Highland Park sell fast, but I have a lot of junk to clear out."
+
+"What about the basement?" Ellen asked, looking at Mark. "If we sell our houses in the next sixty days, can we move in here while the contractors are finishing the basement? Or do we need temporary rentals?"
+
+"You move straight in," Mark said firmly. "The first floor has three other bedrooms besides the twins' mini-apartment. The basement has its own exterior bulkhead door. The contractors can come and go without ever tracking dust through our living room. We seal the interior basement door with heavy plastic. It's standard practice. We live upstairs; they build downstairs."
+
+"What about me?" Helen asked quietly from her wheelchair.
+
+Tom walked over and put a hand on his mother’s shoulder. "Mom, you're the easiest part of the migration. You're going back to your apartment in Newport for the next six weeks. Patrick and Uncle Mark are going to come over and help you pack up. The moment the dust settles here, you get the big guest room right across the hall from the twins."
+
+Helen looked at the wide doorways and the flat floors. She looked at Nichole. "Six weeks," Helen smiled, her eyes bright with a renewed sense of purpose. "I can wait six weeks."
+
+At 9:30 AM, the accessible Newport Taxi arrived to take Helen back to her apartment.
+
+At 10:00 AM, Aunt Carol loaded her bags into her sedan for the drive back to New Jersey. "I’ll call the second the 'For Sale' sign goes into the yard!" she promised, hugging the twins.
+
+By 11:00 AM, only the heavy Virginia transport van remained in the driveway.
+
+Ellen stood in the living room, holding her purse. She looked down the hall toward the Bennett Wing. Her babies weren't babies anymore. They were eighteen. They were Rhode Island residents. They had their own kitchenette.
+
+Ellen walked over to Nichole’s chair. She didn't crouch down. She leaned over and hugged her daughter tight.
+
+"You call every night," Ellen whispered into Nichole’s hair. "I don't care if you just hit a button that says 'I'm fine.' You call."
+
+Nichole squeezed her mother’s arm. She clicked her mouse.
+
+"I. LOVE. YOU. MOM."
+
+"I love you too, baby," Ellen sniffled, wiping her eyes as she stood up.
+
+Tom hugged Patrick, clapping him hard on the shoulder. "You're the man of the first floor now, Pat. Mark is upstairs, but you're in charge of the wing. Keep the doors locked. Keep her safe."
+
+"Always," Patrick said.
+
+"See you in October," Tom said, grabbing the keys.
+
+Patrick and Nichole rolled out to the front porch to watch them leave. The heavy van backed out of the driveway, merging onto West Main Road, and headed south toward the bridge.
+
+The house was suddenly very quiet.
+
+"Well," Uncle Mark said, standing behind them on the porch. He looked at Patrick and Nichole. "The nest is officially empty. Just us bachelors and the Boss lady."
+
+Nichole looked out at the street. The Route 60 bus roared past on its scheduled run.
+
+She wasn't scared. She felt a profound, vibrating sense of freedom. She looked up at Patrick.
+
+"Okay," Patrick said, taking a deep breath of the salty Rhode Island air. He looked down at his sister. "School starts in a year. The meter is running."
+
+He gripped the push handles of the Titan AeroMotion and spun her around, pushing her back inside their new home.
+
+"Uncle Mark," Patrick called out as they rolled down the hall. "Where is the nearest grocery store that's hiring? I need to get on the payroll if we're going to fund that elevator cab."
+
+Mark stopped in the hallway. He put a heavy hand on Patrick’s shoulder, stopping his momentum.
+
+"Hold on, Pat," Mark said, his voice dropping its usual boisterous volume, becoming dead serious.
+
+Patrick looked back at his uncle, confused. "What? Mark, we have twelve months. If I work full time—"
+
+"You already have a full-time job," Mark interrupted gently.
+
+Patrick blinked.
+
+"You take care of Nichole," Mark said, looking from Patrick to the girl in the chair. "That is a full-time job. And it is way more important right now than bagging groceries."
+
+Nichole looked up at her uncle. Her breath hitched. Putney College had looked at Patrick and called him a *liability*. Uncle Mark looked at Patrick and saw an essential worker.
+
+"We'll figure out the money later," Mark said firmly. "I own the house. We're fine. Your only job right now is getting her settled into the new routine, getting her documentation skills up to par, and taking care of your sister. Understood?"
+
+Patrick stared at his uncle. The crushing anxiety of having to fund a \$25,000 industrial elevator evaporated. Mark wasn't just giving them a place to live; he was buying them the time to actually live.
+
+Patrick swallowed the lump in his throat. He nodded. "Understood."
+
+Nichole reached up and patted Mark’s arm. She clicked her mouse.
+
+"BEST. LANDLORD. EVER."
+
+Mark laughed, the tension breaking. "Damn right. Now, let's go figure out how to work that fancy new tub."
+

@@ -1,0 +1,21 @@
+# Part 8: Building the Sanctuary
+
+The day after the Cease and Desist was confirmed, a new kind of energy filled the Miller house. The heavy, anxious weight of the legal battle was gone, replaced by a bright, purposeful sense of mission. It was time to build the sanctuary.
+
+"Alright, team," Megan announced at breakfast, her voice full of a cheerful, can-do energy. "If I'm going to be a proper resident of Lisa Court and fulfill my duties as Alex's official co-guardian and escape hatch, the guest room needs a serious overhaul. It needs to become my room."
+
+The project became a joyful, all-hands-on-deck family affair. Thomas and James, in their element, went to the attic and brought down the sturdy desk that had been Megan's when she was in high school. They set it up in the corner of the room, creating a perfect study and work area for her.
+
+Emily and Sophie, meanwhile, went on a mission to Landmark. They returned with new bedding in Megan’s favorite color, a set of thick, soft towels, and a cozy reading lamp. They completely transformed the impersonal guest room into Megan’s own personal space.
+
+Alex and Chloé were at the heart of the operation. Chloé helped Megan clear out the closet, making space for her clothes and belongings. Alex, from his wheelchair, acted as the official "interior design consultant," giving a decisive thumbs-up or a playful thumbs-down as they debated where to put a new bookshelf.
+
+As they worked, the conversation was easy and full of laughter. They weren't just decorating a room; they were physically and emotionally reinforcing the promise they had all made. This was no longer just a place Megan was visiting. It was her home, her base of operations. It was the physical manifestation of her commitment to be a constant, protective presence in Alex's life.
+
+By the end of the afternoon, the transformation was complete. The former guest room was now, undeniably, Megan's room.
+
+She stood in the doorway, a look of profound, happy satisfaction on her face. "Okay," she said to Alex and Chloé. "The escape hatch is officially open for business."
+
+Alex looked around the room, at the tangible proof of his family's love and his cousin's unwavering commitment. He looked at Chloé, who was beaming, and at Megan, his fierce protector. For the first time in a very long time, the future didn't feel like something to be survived. It felt like something to be excited about.
+
+

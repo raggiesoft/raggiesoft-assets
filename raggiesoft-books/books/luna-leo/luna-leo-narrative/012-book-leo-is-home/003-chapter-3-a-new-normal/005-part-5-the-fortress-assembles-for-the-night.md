@@ -1,0 +1,14 @@
+# Part 5: The Fortress Assembles for the Night
+
+As evening approached, the first coat of paint was on the walls of both bedrooms. The deep blue and soft gray in Leo and Olivia's room, and the sage green in Luna's, had already dramatically transformed the spaces. But with the fresh paint came the strong, chemical smell of VOCs, making it clear that neither room would be habitable for the night.
+
+"Okay team," Stella announced, surveying their work with satisfaction. "Phase one is a success. But there's no way we can sleep in here tonight with these fumes."
+
+Luna looked from her room to Leo and Olivia's, then grinned. "So... sleepover in your room, Stel?"
+
+"Looks that way," Stella laughed. "It's either that or the living room floor."
+
+The decision was easy. Just as they had done during the aftermath of Leo's rescue, the four of them prepared to pile onto Stella's large king-sized waterbed for the night. The situation, born of practical necessity, felt like a fun, cozy campout.
+
+As they settled in for the night—Leo in the middle, safely flanked by Olivia on one side and Luna on the other, with Stella on the far side of Luna—a profound sense of peace settled over him. The earlier memory of the paint covering the last vestiges of Delores's presence, combined with the immediate, comforting warmth of his three protectors, was a powerful balm. Leo felt completely safe with all three of his most trusted women at his side. He was not just in a safe house; he was in a mobile sanctuary, a fortress of love that could assemble wherever he needed it. He drifted off to sleep almost instantly, surrounded by the quiet, steady breathing of his family.
+

@@ -1,0 +1,104 @@
+# Part 5: The Roster Expansion – Saturday, July 19, 2058 – 09:00
+
+The initial, chaotic adrenaline of the decanting process had finally settled.
+
+Sub-Level 6 was now operating with the rhythmic, organized efficiency of a fully staffed neonatal ward. The ten swaddled infants of the Genesis Cohort were resting comfortably in their heated bassinets, their post-extraction vitals logged perfectly into Aria's system.
+
+Wyatt and Sarah were moving down the line, adjusting molecularly printed thermal blankets and ensuring the localized CPAP masks were perfectly positioned on the few infants who needed a slight oxygen boost.
+
+At the end of the row, eight-year-old Jack was sitting cross-legged on the polished durasteel floor, completely ignoring the sterile, medical atmosphere of the bay. He had pulled a plush, padded floor mat out of his backpack and laid it directly next to Bassinet 10.
+
+Inside the bassinet, baby Willow was awake. She wasn't crying, but her dark eyes were actively tracking the movement in the room.
+
+Jack reached his hand into the access port, gently resting his index finger against her tiny palm. Willow instantly gripped it, her tiny fingers locking around his with an instinctual, iron-clad hold. She let out a soft, breathy coo, entirely anchored by his presence.
+
+"She really likes you, Jack," Sarah smiled softly, walking over to stand behind her son.
+
+"She’s my friend," Jack replied seriously, his bright eyes completely focused on the tiny girl. He didn't pull his hand away. He possessed an incredible, innate patience, completely willing to sit there for hours if it kept her calm. He already felt a profound, protective sense of responsibility for her.
+
+At the central command console, twelve-year-old Ellie was executing a rigorous logistical audit of the morning's operation.
+
+She stared at the glowing blue holographic roster floating above the glass terminal. It listed the ten names they had chosen: Lachlan, Harrison, Oliver, Ethan, Lucas, Isla, Ruby, Mia, Harper, and Willow.
+
+Ellie’s brow furrowed into a deep, tactical *V*. She crossed her arms over her chest, the geometry of the roster fundamentally offending her organized brain.
+
+"Data incomplete," Ellie announced, her voice ringing sharply across the quiet medical bay.
+
+Wyatt paused, a sterile cloth in his hand, and turned to look at his commanding officer. "What's wrong, El? Did a monitor flag?"
+
+"Not medical," Ellie corrected, pointing a rigid finger at the holographic list. "Inventory. The names are broken. They only have one."
+
+Wyatt and Sarah looked at the list. Ellie was right. In the rush of the decanting, they had only assigned first names.
+
+"A civilization needs surnames, Wyatt," Sarah realized, stepping away from Jack and Willow. "They aren't Coltons. They need their own family lines. If we're going to build an entire town, we can't have fifty people just running around with first names. It will be a logistical nightmare."
+
+"And they need middle names," Nora chimed in softly from her position next to Leo’s wheelchair. She tapped her AAC device, her empathetic mind focusing on the personal identity of the new recruits. *"A middle name makes it sound finished. Like a song."*
+
+Leo let out a loud, vibrating grunt of absolute agreement, his hand slamming down on his tablet. *"Good."*
+
+"Alright," Wyatt nodded, his veteran instincts pivoting from medical triage to civil administration. "We fix the roster. Aria, pull up the Sydney, New South Wales archival data again. I need a list of statistically prominent, historically accurate surnames and middle names from that region to match their phonetic matrix."
+
+*"Accessing regional census data, Wyatt,"* Aria’s bright Australian voice echoed from the ceiling. A massive secondary list populated the hologram. *"I have generated a localized registry."*
+
+Sarah walked over to the console, standing beside Ellie. She looked at the first name on the list.
+
+"Lachlan," Sarah read. She scanned the regional data. "Lachlan James Kelly."
+
+*"Registered,"* Aria confirmed.
+
+"Harrison," Wyatt offered, looking at the boys' roster. "Harrison Thomas Wright. Oliver William Davies. Ethan Alexander Smith. Lucas Benjamin Evans."
+
+Sarah moved to the girls. "Isla Rose Taylor. Ruby Grace Martin. Mia Charlotte Thompson. Harper Amelia White."
+
+She looked at the final name on the list, and then over her shoulder at her eight-year-old son, who was still quietly holding the tiny girl's hand in Bassinet 10.
+
+"Jack," Sarah called softly. "We need a middle and last name for your friend."
+
+Jack didn't look up at the holographic list. He didn't need a computer to tell him what sounded right. He looked at Willow, who was currently trying to pull his finger toward her mouth.
+
+"Willow Jane Campbell," Jack decided instantly, the name rolling off his tongue with absolute, perfect certainty.
+
+*"Willow Jane Campbell is officially logged,"* Aria chimed. *"The Genesis Ten roster is now complete."*
+
+Ellie looked at the updated hologram. The data was structured. The inventory had three distinct points of identification per unit. The geometry was restored.
+
+She gave a firm, sharp nod of approval, uncrossing her arms.
+
+"Perimeter secure," Ellie authorized. But before she stepped away from the console, her dark, calculating eyes drifted to another section of the holographic database. She pulled up the Colton family registry.
+
+She stared at the names.
+
+*Ellie Grace Colton.* *Nora Colton.* *Leo Colton.* *Jack Colton.* *Tyler Colton.* *Evan Colton.* *Molly Colton.* *Claire Colton.*
+
+Ellie scowled. She pointed an accusatory finger at her parents.
+
+"Unacceptable," Ellie demanded, tapping the glass. "I have three. Why does the squad only have two? Unit is unbalanced."
+
+Wyatt’s jaw dropped slightly. He looked at Sarah, a massive, utterly busted smile breaking across his scarred face. In the sheer, overwhelming chaos of surviving the NTTR, stealing the dreadnought, and navigating the terrifying, accelerated triplet pregnancy, they had only ever given Ellie a middle name. The rest of the kids had just been given first names in the exhausted blur of their births.
+
+"She's absolutely right, Wyatt," Sarah laughed out loud, burying her face in her hands. "We completely forgot to finish their paperwork."
+
+"Well," Wyatt chuckled, walking over to the console and wrapping his arm around Sarah’s waist. "I guess it's time to formally update the Colton manifest. Let's finish the job."
+
+They spent the next twenty minutes standing at the glowing blue terminal, looking at their children, and finally, officially anchoring them with their full identities.
+
+"Nora Hope Colton," Sarah named her middle daughter, her heart swelling as she looked at the deeply empathetic, fiercely loving girl leaning against Leo's wheelchair.
+
+"Leo James Colton," Wyatt decided, giving his son the strongest, most resilient name he could think of.
+
+"Jack Arthur Colton," Sarah smiled, looking at her diplomatic son, who was still securely holding Willow Jane Campbell's hand.
+
+They moved to the younger tier.
+
+"Tyler Wyatt Colton and Evan David Colton," Wyatt named the massive, five-year-old identical twin enforcers who were currently sitting on the floor, quietly dismantling a medical supply crate.
+
+"And Molly Rose Colton and Claire Elizabeth Colton," Sarah finished, looking down at her six-year-old twin girls.
+
+*"The Colton family registry is fully updated and mathematically balanced,"* Aria announced, her Sydney accent practically beaming with digital pride. *"All vital records for Planet Eden are complete."*
+
+Ellie looked at the unified, structured list. Every member of her squad, and every new recruit, now possessed a complete operational designation. The data was symmetrical.
+
+She stepped back from the console, patting the titanium rim of Leo's wheelchair.
+
+"Good base," Ellie declared, the commanding officer finally, completely satisfied with her civilization.
+

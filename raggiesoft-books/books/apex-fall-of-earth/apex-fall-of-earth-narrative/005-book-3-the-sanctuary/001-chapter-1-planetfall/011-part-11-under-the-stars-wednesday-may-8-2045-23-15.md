@@ -1,0 +1,49 @@
+# Part 11: Under the Stars – Wednesday, May 8, 2045 – 23:15
+
+The glowing, bioluminescent forest was entirely too beautiful to leave.
+
+As the night deepened, the exhaustion of the day finally began to catch up with them. But as they slowly wandered back up the gentle slope toward the dark, shadowed canopy where *The Nomad* was hidden, Sarah's footsteps slowed.
+
+She stopped at the edge of the neon-orange string grid that marked their future living room. She looked up at the massive, dark hull of the dreadnought buried in the trees. Even with its identity scrubbed and its engines powered down, it was still a machine. It was a metal box built by a paranoid megacorporation.
+
+Sarah looked down at the soft, vibrant earth beneath her bare feet. The cyan light of the moss pulsed gently around her toes.
+
+"I don't want to go inside," Sarah whispered, her voice carrying a quiet, profound realization. "I don't want to sleep on a metal deck tonight, Wyatt. I want to sleep on the ground."
+
+Wyatt looked at the ship, and then down at the glowing forest floor. He had spent his entire life separated from the natural world by inches of reinforced steel, thick glass, and pressurized bulkheads. The idea of simply laying down in the dirt was entirely foreign, but looking at the serene, breathing ecosystem around them, it felt absolutely right.
+
+"Stay right here," Wyatt told her softly.
+
+He jogged up the metal ramp, disappearing into the dark cargo bay of *The Nomad*. A few minutes later, he returned, carrying a single, thick foam pillow and the heavy, insulated Apex deployment sleeping bag—the exact same one they had shared in the barricaded break room back in Sector 4.
+
+He walked back into the center of their string-grid living room and spread the heavy sleeping bag completely open directly over the soft, cyan-glowing moss. He tossed the pillow at the head of it.
+
+"Our first night in the new house," Wyatt smiled, looking at the invisible walls around them.
+
+Sarah let out a soft, delighted laugh. She stepped onto the edge of the open sleeping bag.
+
+There were no automated cameras in the corners of the ceiling. There were no S.H.O.P. Foremen patrolling the perimeter. They were the absolute only human beings on the planet, shielded by a canopy of giant alien pines and a million miles of empty space. There was absolutely no reason to hide.
+
+Without a word, Sarah reached down and pulled her heather-gray t-shirt over her head, dropping it onto the grass outside the bag. She unbuttoned her denim jeans, stepping out of them and leaving them in a pile.
+
+The night air was a perfect, comfortable **23.8°C**. The warm, humid breeze drifted across her bare skin, completely unobstructed. It was the most liberating, intensely vulnerable sensation she had ever felt.
+
+Wyatt's eyes darkened with absolute adoration. He shed his black t-shirt and canvas pants, dropping them next to hers.
+
+They lay down together on the soft, padded fabric of the sleeping bag, the spongy, living moss beneath it providing a perfect natural mattress. Wyatt pulled the heavy top layer of the bag over them, zipping it up to seal the warmth inside.
+
+It was a single-person deployment bag, meaning they were forced to completely entangle themselves just to fit. It was exactly what they wanted.
+
+They shared the single foam pillow. Sarah pressed her bare chest flush against Wyatt's, her leg hooking over his thigh as she rested her head in the crook of his neck. Wyatt wrapped both of his strong, heavily scarred arms entirely around her, holding her bare skin against his, anchoring her securely in the dark.
+
+For the first time since they had met, there was no mechanical hum vibrating against their spines. There was no drone of air scrubbers or the low thrum of a fission reactor.
+
+There was only the gentle, rushing sound of the river in the valley below, the chiming, melodic calls of the nocturnal wildlife, and the steady, rhythmic beating of Wyatt's heart beneath Sarah's cheek.
+
+"It's so quiet," Sarah whispered, her eyes fluttering shut as the deep, earthy scent of the forest surrounded them.
+
+"It's just us," Wyatt murmured into her hair, his thumb slowly tracing the curve of her bare spine. "Just us, and the earth."
+
+They lay there, entirely stripped of their corporate armor and their pasts, bathed in the soft, pulsing cyan light of the moss and the brilliant, uncharted stars shining through the canopy. They had crossed a galaxy of fire and rust to get here, but as they drifted off to sleep, skin-to-skin in the dirt of their new world, they knew they were finally exactly where they were meant to be.
+
+

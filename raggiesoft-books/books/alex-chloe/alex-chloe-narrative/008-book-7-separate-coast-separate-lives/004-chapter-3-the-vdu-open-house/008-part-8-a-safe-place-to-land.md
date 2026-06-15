@@ -1,0 +1,20 @@
+# Part 8: A Safe Place to Land
+
+After Megan helped him out of the bathroom, clean and in his pajamas, she gestured towards her neatly made full-sized bed. Alex, however, stopped his chair, a look of quiet uncertainty on his face. He gestured towards the living room.
+
+SHOULDN'T I TAKE THE SOFA? his Quantum Communicator XT voiced. I DON'T WANT TO CROWD YOU.
+
+Megan’s expression softened. She walked over and placed a gentle hand on his shoulder. "Don't be silly, cuz," she said, her voice firm but full of warmth. "It's just easier this way. The bathroom is right here if you need to get up in the middle of the night, and I'm right here to help. The sofa is out. You're staying in here with me."
+
+Her stated reason was pure practicality, but her unspoken motive ran much deeper. As Alex transferred from his chair and climbed into the bed, she knew her mission for the weekend was far from over. She wanted him to snuggle up with her, to feel the simple, uncomplicated warmth of a safe embrace. She wanted to continue the slow, gentle process of reprogramming his autistic mind, to overwrite the toxic, possessive version of "affection" he was enduring with Vera and remind him that *this*—the safe, unconditional comfort offered by her, by Chloé, by his family—was what real love felt like.
+
+She slid into bed beside him and, without a word, wrapped an arm around him, pulling him into a gentle, secure cuddle.
+
+The simple, loving gesture was the final key that unlocked the dam of his carefully controlled emotions. In the quiet darkness of his cousin's dorm room, Alex began to cry. Not loud, racking sobs, but a silent, steady stream of tears born of a confusion and relief so profound he had no words for it.
+
+Megan just held him, her embrace firm and unwavering. She didn't ask what was wrong. She didn't tell him to stop. She just held him for as long as he needed, a solid, living anchor in his swirling emotional storm.
+
+Long after his tears had subsided, Alex struggled to find sleep. His mind was a chaotic whirlwind of thoughts. *Vera. Chloé. Megan.* The names spun in a confusing loop. *Vera is my girlfriend. But she's hurting me. But Chloé is so far away, and Vera is here and now. But this... with Megan... feels so safe. Is my life with Vera right?*
+
+He didn't have any answers. But as he finally began to drift off, one thought rose above the others, a single, clear point of light in the darkness: the woman he considered his favorite family member, his first and truest friend, was right here at his side. And for tonight, that was enough.
+

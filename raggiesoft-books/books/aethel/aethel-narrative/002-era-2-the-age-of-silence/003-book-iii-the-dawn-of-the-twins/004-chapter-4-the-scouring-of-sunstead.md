@@ -1,0 +1,426 @@
+# Chapter 4: The Scouring of Sunstead
+
+## Part 1: The Steward's Law
+
+Theme: sunstead-scour
+
+Location: The Outer Gates
+
+POV: Kaelan
+
+=
+
+The race ended at the bottom of the switchback trail, where the red dirt of the canyon floor met the packed gravel of the trade road.
+
+Kaelan skidded to a halt, his boots kicking up a small cloud of red dust. He slapped the mile-marker stone—a weathered pillar of granite—just a fraction of a second before Kaela.
+
+"I win!" Kaelan crowed, bending over to catch his breath, grinning at the ground. "That's three for three. You're losing your edge, Moon."
+
+Kaela jogged up a second later, flushed and laughing. She leaned against the stone, gasping.
+
+"You have... longer legs," she wheezed. "It's a biological... advantage."
+
+"It's superior athleticism," Kaelan corrected, straightening up and wiping sweat from his forehead. "Admit it. I am the speed."
+
+"You are the cheat," Kaela said, but she was smiling. She looked past him, toward the town walls only a hundred yards away. "Come on. I can practically taste the—"
+
+She stopped.
+
+The smile slid off her face.
+
+Kaelan turned. "What?"
+
+"Listen," Kaela whispered.
+
+Kaelan listened. He expected the rhythmic *clang-clang-clang* of Horg’s hammer. He expected the shouting of the merchants, the barking of dogs, the ambient roar of three hundred people living their lives.
+
+He heard the wind. He heard the dry rattle of a sagebrush tumbling across the road.
+
+He heard silence.
+
+"It's midday," Kaelan said, a frown creasing his brow. "Maybe... maybe it's a meeting? A town hall?"
+
+"Everyone?" Kaela asked. "Even the dogs?"
+
+They walked forward. The playful energy of the race evaporated, replaced by the familiar, prickling tension of the road.
+
+As they got closer, the details resolved.
+
+The Great Gates of Sunstead—massive timbers of iron-bound oak that had stood open since Kaelan was a toddler—were shut.
+
+And they weren't just closed. They were barred.
+
+"Why are the gates closed?" Kaelan asked, his voice dropping.
+
+Then he saw the banners.
+
+Draped over the battlements, hanging limp in the still air, were long sheets of silk. They weren't the faded, cheerful bunting of the Harvest Festival. They were crimson. Deep, blood-red silk, embroidered with a sigil Kaelan didn't recognize from any local heraldry: a Golden Rose wrapped in thorns.
+
+"That's not the King's seal," Kaelan noted. "And it's not ours."
+
+"Kaelan," Kaela whispered, gripping his arm. "Look at the wall. That's not Joren."
+
+Kaelan looked up to the guard post.
+
+Joren, the town watchman, was usually leaning on his spear, whittling a duck or sleeping with his eyes open.
+
+The man on the wall now was standing at rigid attention. He wore a uniform of matching crimson leather and a polished steel helmet that covered his face. He held a heavy crossbow, and it was pointed directly at them.
+
+Kaelan walked up to the gate. He stopped ten paces away.
+
+"Hey!" Kaelan shouted, trying to keep his voice friendly, though his hand drifted toward his sword. "Open up! We live here!"
+
+The soldier on the wall didn't wave. He didn't call out a greeting. He racked the slide on his crossbow. *Click-Clack.*
+
+"Halt!" the guard shouted. "By order of the Steward, the gates are sealed until dawn. State your business."
+
+Kaelan blinked. He looked up at the sky, where the twin suns were blazing directly overhead, casting almost no shadows. It was noon.
+
+"Dawn?" Kaelan called back, confused. "It's the middle of the day. The suns are right there."
+
+"Sealed until dawn!" the guard repeated robotically, leveling the weapon. "Turn around and leave. Or be fired upon."
+
+Kaelan stared at him. He thought about the bread he wanted to eat. He thought about the slate roof he wanted to build. He thought about the fifty years of boring he had promised himself.
+
+And then he looked at the crossbow pointed at his sister.
+
+The "boring" died right there.
+
+"Turn around?" Kaelan said softly.
+
+He took a step forward.
+
+"Warning shot!" the soldier yelled. He pulled the trigger.
+
+The bolt flew. It wasn't aimed to kill; it struck the dirt three inches from Kaelan’s boot.
+
+Kaelan looked at the bolt. He looked at the gate.
+
+"Okay," Kaelan said. "We tried the nice way."
+
+He walked to the massive timber doors. He placed both palms flat against the rough wood. He closed his eyes, tuning out the shouting guard and the dry wind.
+
+He reached out with his mind to Kaela.
+
+*Show me,* he projected.
+
+Kaela stepped up beside him. She didn't touch the gate; she placed her hand flat against Kaelan’s back, right between his shoulder blades.
+
+She closed her eyes. She sent her awareness through the wood, sensing the density, the grain, and the obstacle on the other side.
+
+*Heavy oak bar,* she whispered in his mind. *Six inches thick. Iron brackets.*
+
+She scanned the timber of the locking bar. She looked for the flaw—the knot, the dry rot, the stress fracture.
+
+*There,* she projected, painting a target in Kaelan’s mind's eye. *Four inches up. Left of center. The grain is twisted.*
+
+Kaelan adjusted his grip. He moved his left hand up, aligning his palm perfectly with the weak point she had highlighted.
+
+"Open the door," Kaelan said quietly to the wood.
+
+"You have no authority here, peasant!" the guard sneered from above. "Fire!"
+
+A second bolt struck the ground inches from Kaelan’s heel.
+
+Kaelan didn't flinch. He engaged the Engine. He didn't use fire—he didn't want to burn the gate down. He used mass. He channeled his hyper-dense biology into a single, kinetic impulse.
+
+*Push,* Kaela commanded, syncing her will with his muscle.
+
+Kaelan shoved.
+
+*CRACK.*
+
+It wasn't a thud; it was the sharp, violent sound of structural failure.
+
+Guided by Kaela’s sight, Kaelan’s force bypassed the strength of the oak bar and hit the flaw directly. The massive locking beam on the inside snapped like a dry twig.
+
+The guards on the wall shouted in alarm as the gates shuddered violently.
+
+"Together," Kaelan grunted.
+
+Kaela pushed with her mind. Kaelan pushed with his body.
+
+The heavy iron hinges screamed in protest, metal shearing against metal. The gates groaned and swung inward, revealing the town square beyond.
+
+Kaelan stepped through the opening, dusting splinters from his tunic. Kaela walked right beside him, her hand slipping from his back to his side, ready.
+
+"We aren't visitors," Kaelan announced to the stunned guards who were scrambling down the ladders to intercept them. "We live here."
+
+## Part 2: The Queen of Red Dust
+
+Theme: sunstead-scour
+
+Location: The Market Square
+
+POV: Kaelan
+
+=
+
+The market square of Sunstead was usually a riot of noise. It smelled of donkey manure, baking bread, and the iron tang of the smithy. It was messy. It was alive.
+
+But as the twins stepped through the shattered gates, they walked into a vacuum.
+
+The red dust had been swept away. The cobblestones were scrubbed clean. The stalls were gone, replaced by orderly rows of kneeling townsfolk. The baker, the tanner, the weavers—they were all there, heads bowed, terrified into silence by the mercenaries lining the perimeter with crossbows.
+
+And in the center of the square, where the old stone fountain used to bubble, a dais had been erected.
+
+Sitting upon a throne of velvet and gold was Seraphina.
+
+She looked exactly as Kaelan remembered from the Oasis—the crimson gown, the cascading dark hair, the flawless skin. She was drinking wine from a crystal goblet, looking bored.
+
+She set the goblet down as the twins approached. She didn't look alarmed by the broken gate. She looked delighted.
+
+"You took the long way around," Seraphina purred, her voice amplified by magic so it reached every corner of the silent square.
+
+"Get out of my chair," a gruff voice muttered from the crowd.
+
+It was Horg, the blacksmith. He was kneeling in the front row, bruised and bound, but still furious.
+
+Seraphina ignored him. Her emerald eyes locked onto Kaelan. She ignored Kaela entirely, as if the girl were merely Kaelan’s luggage.
+
+"I told you the tower was a tomb," Seraphina said, standing up. She descended the steps of the dais, the crimson silk flowing behind her like a river of blood. "But you survived. You defeated the Void. That makes you... worthy."
+
+"Where is Joren?" Kaelan asked, his voice low. "Where is the Matron?"
+
+"They are safe," Seraphina dismissed with a wave of her hand. "As long as you are reasonable."
+
+She stopped five paces from him. The scent of jasmine and musk hit him again—cloying and thick. It was the same perfume she had worn in the Oasis.
+
+"Look at this place, Kaelan," she gestured to the silent, terrified town. "I fixed it. It was a dusty, forgotten hamlet. Now, it is the seat of a Queendom. I brought order... but I added style."
+
+"You brought fear," Kaela said.
+
+Seraphina’s eyes snapped to Kaela for a fraction of a second, filled with annoyance, before snapping back to Kaelan.
+
+"Your sister lacks vision. But you... you burn."
+
+Seraphina took a step closer. The air around her began to shimmer.
+
+"You saw a mask in the desert," she whispered. "Let me show you the truth. Let me show you what you could rule."
+
+She threw her head back. Her spine arched.
+
+The human disguise melted away.
+
+Seraphina grew. Her limbs elongated, becoming impossibly slender and tall. Her skin shifted from porcelain to a shimmering, iridescent chitin, like the shell of a beetle. Her hair lifted, turning into writhing tendrils of smoke.
+
+But it was her face that was the most terrible. It was undeniably beautiful, but it was the beauty of a deep-sea predator. Her eyes were vast, black pools with no whites. Her smile was too wide, revealing rows of small, needle-like teeth.
+
+She was High Fae. Ancient, predatory, and vain.
+
+The townsfolk whimpered, pressing their faces into the dirt.
+
+Seraphina towered over Kaelan. She circled him, her movements jerky and insect-like.
+
+"Malakor wanted a battery," Seraphina hissed, her voice vibrating with a dual resonance. "He wanted to drain you. What a waste."
+
+She leaned down, her face inches from his.
+
+"I do not want to drain you, little sun. I want to *keep* you."
+
+She moved closer, invading his personal space. She pressed her chitinous body against his armor. She radiated a heat that was heavy, cloying, and suffocating.
+
+"A Queen needs a King," she whispered, her hand sliding up his chest, her claws tracing the line of his neck. "I have the blood. You have the fire. Imagine the dynasty we could breed."
+
+She lowered her voice, the sound vibrating in his chest.
+
+"You are tired of fighting, Kaelan. I can feel it. Why fight when you can... yield? Give yourself to me. I can give you pleasures that a hero deserves. I can take you to heights you have never imagined."
+
+She pressed her lips close to his ear.
+
+"Let me taste you," she purred. "Let us consummate this alliance right now. Give in to the heat."
+
+Kaelan stood frozen. He smelled the jasmine again. But underneath it, just like in the Voidlands, was the smell of rot.
+
+And something else. A chemical tang.
+
+He remembered the wine she had tried to feed him. He remembered the way she had tried to touch him in the tent.
+
+*It's a delivery system,* Kaelan realized with a jolt of clarity.
+
+If he touched her—if he let her kiss him, or gave in to the physical seduction—she wouldn't just take his virtue. She would inject the venom. It was the biological equivalent of the Serum of Somnus. She would put him into a coma so deep he would never wake up, keeping him fresh and docile for transport.
+
+He looked at her. He didn't see a lover. He saw a spider trying to wrap a fly in silk.
+
+"You're trying to pack me," Kaelan said, his voice cold.
+
+Seraphina pulled back slightly, confused. "What?"
+
+"You're trying to put me to sleep," Kaelan said. "That's what this is. The 'pleasure.' It's just a sedative. You want to knock me out so you can drag me back to the North."
+
+Seraphina smiled, a sharp, dangerous thing. "Is sleep so bad? You would dream of me. You would wake up... home."
+
+"There is no home in the North," Kaelan said. "And there is no one waiting for the package."
+
+He shoved her hand off his chest.
+
+"Malakor is dead, Seraphina. I killed him. I burned his tower down."
+
+Seraphina froze. The writhing smoke of her hair stopped moving. "Lies."
+
+"I broke the crystal," Kaelan said. "I watched him turn to dust. You're following orders from a ghost. If you put me to sleep now, you'll just be dragging a body to a crater."
+
+He stepped back, wiping the slime of her touch from his armor.
+
+"I don't want your poison," Kaelan declared, his voice rising so the kneeling townsfolk could hear. "I don't want your sleep. And I definitely don't want a Queen."
+
+He looked at the townsfolk. He looked at Horg. He looked at the terrified baker.
+
+Then, he looked at Kaela. She was watching him, her eyebrows raised, waiting for the punchline.
+
+Kaelan looked back at the Fae Queen.
+
+"And you're standing on my fountain," Kaelan said.
+
+Seraphina blinked, her black eyes narrowing. "What?"
+
+"The fountain," Kaelan said, pointing to the dais. "It wasn't much. It leaked sometimes. But the kids liked to play in it. And you built your stupid chair right on top of it."
+
+"I offer you a kingdom," Seraphina hissed, her needle-teeth baring, "I offer you *myself*, and you talk of plumbing?"
+
+"I don't want a kingdom," Kaelan said. "And neither do they."
+
+He drew his iron sword. It didn't glow with the blinding light of the sun this time. It glowed with the warm, steady orange of a hearth fire.
+
+"Get out of my town," Kaelan ordered. "Or I'll mount your head on the gate."
+
+## Part 3: The Town That Roared
+
+Theme: sunstead-scour
+
+Location: The Market Square
+
+POV: Kaelan
+
+The rejection hung in the air, absolute and humiliating. Kaelan had looked at a Queen offering him the world and told her he preferred his sister and a dusty cottage.
+
+Seraphina stared at him. The hunger in her black eyes vanished, replaced by a cold, flat void.
+
+"Enough," she whispered. The sound was like glass breaking under a boot. "If you will not be my King, you will be dog meat."
+
+She spun toward her mercenaries. "Kill them! Kill the boy! Kill the girl! Burn this miserable town to the ground!"
+
+The mercenaries drew their steel. There were fifty of them, armored in crimson, surrounding the unarmed crowd.
+
+"Sun and Moon!" Kaelan yelled, raising his sword.
+
+"Wait," Kaela said.
+
+She stepped forward. She didn't look at the soldiers. She looked at the kneeling crowd. She looked at the blacksmith. She looked at the baker.
+
+*Stand up,* she projected.
+
+It wasn't a command. It was permission.
+
+*This is not her home,* Kaela’s voice whispered in the minds of three hundred people, bypassing their fear. *It is yours.*
+
+In the front row, Horg the blacksmith looked up. He looked at the twins standing against an army. He looked at the crimson banners defiling his town.
+
+Horg roared.
+
+He stood up, snapping the heavy hemp ropes binding his wrists as if they were thread.
+
+"NOT TODAY!" Horg bellowed.
+
+He tackled the nearest mercenary, a captain in full plate armor. Horg didn't have a weapon; he used his massive fists, hammering the soldier’s helmet like he was shaping hot iron on an anvil. *CLANG. CLANG.* The mercenary folded.
+
+It was the spark that lit the powder keg.
+
+The Baker stood up. She pulled a heavy marble rolling pin from the folds of her apron. "Get out of my square!"
+
+The Tanner stood up, wielding a curved skinning knife. The Weaver stood up, holding a heavy wooden shuttle.
+
+The town roared.
+
+It was a sound of pure, cathartic fury. Three hundred people who had been forced to kneel for months suddenly decided they would never kneel again.
+
+The mercenaries were professionals. They knew how to fight soldiers. They did not know how to fight a mob of furious neighbors. They were swarmed. A mercenary would raise a sword, only to be hit in the knees by a cane, blinded by a handful of flour, and then pummeled by six different people.
+
+Seraphina watched in horror. Her "Order"—her beautiful, terrified tableau—was dissolving into the chaotic, messy violence of a bar brawl.
+
+"Filth!" she shrieked.
+
+She raised a clawed hand. Black, oily shadows erupted from the ground around the fountain, forming into lashing tendrils. They whipped toward the crowd, seeking to strangle the uprising.
+
+"Kaela!" Kaelan shouted.
+
+They moved as one.
+
+Kaelan reached back. Kaela reached back. They clasped hands, locking their fingers together.
+
+The hum in their minds aligned instantly. The Sun and the Moon. The Engine and the Steering.
+
+Kaelan poured his raw, nuclear power into the bond. Kaela took it, compressed it, refined it, and stripped away the waste heat. She fed it back to him.
+
+Kaelan’s eyes flared with a cold, blue-white light.
+
+"Clear the square," Kaelan said. His voice echoed with a dual harmonic.
+
+He swung his sword in a wide, horizontal arc.
+
+A wave of Cold Fire—pure, concussive force—erupted from the blade. It didn't burn the townsfolk; it washed over them like a cool breeze. But when it hit the shadow tendrils, they shattered like glass. When it hit the remaining mercenaries, they were thrown backward thirty feet, crashing into the shop fronts.
+
+The square fell silent, save for the groans of the fallen.
+
+Seraphina stood alone on the dais. Her elite guard was down. Her shadows were dust. She looked at Kaelan, then at Kaela. She realized she wasn't facing two heroes. She was facing a circuit she couldn't break.
+
+"This isn't over," she hissed, her chitinous face twisting. "I will—"
+
+*THWACK.*
+
+A rock sailed through the air and struck Seraphina squarely in the forehead.
+
+She staggered back, clutching her head. Green ichor leaked between her fingers. She looked around, wild-eyed, to see who had dared to strike a High Fae.
+
+Standing near the gate, leaning on his spear, was Joren. He was bruised, beaten, and favoring his bad leg, but he was grinning.
+
+"You're trespassing, lady," Joren called out. "And you're blocking the view."
+
+Seraphina hissed—a sound of pure spite.
+
+"Keep your dust!" she shrieked.
+
+She turned and leaped. Her insectoid legs carried her high into the air, over the heads of the crowd, over the town walls. She landed on the steep canyon wall and scrambled up it like a spider, fleeing back into the wilderness, a queen without a kingdom.
+
+The remaining mercenaries, seeing their paycheck vanish up a cliff, threw down their weapons.
+
+"We yield!" a soldier shouted, cowering under Horg’s raised fist. "We yield!"
+
+Kaelan lowered his sword. He felt the adrenaline crash. He stumbled slightly.
+
+Kaela was there instantly, her shoulder under his arm.
+
+"I got you," she whispered.
+
+Kaelan looked around. The town was battered. The gate was broken. There were bruises and blood. But the red dust was settling. The people were standing.
+
+Horg walked over to Kaelan. He wiped blood from his lip. He looked at the twins, then at the fleeing spider-shape on the cliff.
+
+He didn't ask where they had been. He didn't ask how they did that.
+
+He just opened his massive arms and pulled them both into a crushing, soot-stained hug that smelled of iron, sweat, and victory.
+
+"Welcome home," Horg rumbled.
+
+Kaelan let his head drop onto the blacksmith’s shoulder. He closed his eyes, finally allowing himself to be held.
+
+"You're late," Horg grunted, squeezing tighter.
+
+"Traffic," Kaelan quipped, breathless.
+
+Kaela pulled back slightly. She looked at the dais—the velvet throne built over the fountain.
+
+"Kaelan," she said. "The chair."
+
+Kaelan nodded. He walked up the steps. He sheathed his sword. He grabbed the velvet throne with both hands.
+
+"Heave!"
+
+He threw the throne off the dais. It crashed onto the cobblestones and shattered.
+
+Beneath it, the old stone fountain was dry and cracked, but intact.
+
+Kaelan looked at his sister. "Home?"
+
+"Home," Kaela said.
+

@@ -1,0 +1,50 @@
+# Part 3: The Detour
+
+**Friday, October 25, 2002**
+
+The merge onto I-81 South from Route 250 was supposed to be the start of the open road. Instead, it was a parking lot.
+
+Jessica’s silver Avalon sat near the end of the on-ramp, the engine idling roughly. Ahead, a sea of brake lights stretched into infinity, glowing angry red against the twilight.
+
+"Gridlock," Freddie observed from the back seat. "Zero velocity."
+
+"It’s a wreck," Jessica growled, shifting the stick into Neutral and pulling the handbrake. "I-81 is a chute. One semi jackknifes, and the whole valley shuts down. We could be here for three hours."
+
+She looked at the rearview mirror. Freddie was tapping his knee, the lack of forward motion clearly agitating his internal gyroscope. Paige was staring out the window, looking bored.
+
+"Not today," Jessica declared.
+
+She stomped on the clutch, slammed the stick into First, and did something illegal. She cut the wheel hard to the right, driving over the painted gore point and onto the exit ramp for **Exit 221**, which merged onto I-64 East toward Richmond.
+
+"Evasive maneuvers," Paige grinned, grabbing the grab handle.
+
+"We're going backwards," Freddie noted, looking at the compass on the dash. "East is wrong."
+
+"Trust the pilot," Jessica said.
+
+The traffic vanished instantly. The Avalon roared up the empty highway. Jessica took **Exit 91**, swinging the car onto the ramp for Route 285/Route 608.
+
+"Left goes to Fishersville," Jessica narrated, pointing toward the lights of the town Freddie had noted earlier. "But we’re going right. Route 608 to Stuarts Draft. It’s the back door."
+
+She banked the car right. The road narrowed to a two-lane blacktop winding through farmland. It was pitch black out here, save for the headlights cutting through the cornfields.
+
+"This is where you learn to drive, Freddie," Jessica said, downshifting for a sharp curve. The engine revved—a precise, mechanical growl. "You hear that?"
+
+"High RPM," Freddie said.
+
+"That’s torque," Jessica explained. "This is a stick shift. An automatic transmission guesses what you want. A manual transmission waits for your command. When you're passing a truck on I-81, you don't want the car to guess. You want to drop a gear and disappear."
+
+She worked the pedals with a dancer’s grace—clutch, shift, gas—keeping the car smooth through the twisting back roads of Augusta County.
+
+"I have passed the theory exam," Freddie said, watching her hand on the stick. "I understand the gear ratios."
+
+"Theory is one thing," Jessica said. "Doing it when you have a Iron-Haul grille in your rearview mirror is another. Next time I'm home, we're going to a parking lot. You're learning."
+
+They reached the end of Route 608. Jessica made a right onto US-340 South, blasting past sleepy farmhouses until the road dead-ended at US-11.
+
+"North to go south," Jessica muttered, turning right onto US-11 North. A quarter-mile later, she signaled left, merging onto the I-81 South on-ramp.
+
+They slid onto the interstate. The highway was empty. In the northbound lanes to their left, miles of headlights sat motionless, trapped behind the wreck they had just circumnavigated.
+
+"Clear skies," Jessica smirked, shifting into Fifth gear. "That is how you beat the system."
+

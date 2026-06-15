@@ -1,0 +1,84 @@
+# Part 8: The Bull Run 
+
+## Date: November 15, 2003 Time: 1:00 PM Location: The Braxton Link (BSU Campus Concourse)
+
+Outside, the wind coming off Narragansett Bay had whipped up to thirty miles an hour, dropping the wind chill below freezing.
+
+Inside the subterranean network known as "The Bull Run," it was a balmy seventy degrees.
+
+Patrick and Nichole joined a tour group of twenty prospective students in the basement of the Student Union. Their tour guide was a junior named Maya, wearing a bright yellow "BSU Ambassador" polo. From the very beginning, Maya set the tone. She didn't talk over Nichole to address Patrick. Whenever she asked the group a question, she made a point of making eye contact with Nichole, patiently waiting the extra second for the synthesized voice to chime in.
+
+"Alright, everyone, welcome to the Mole Lifestyle," Maya smiled, gesturing down the wide, brightly lit concourse. "Up above us, it is currently freezing. But down here in the BSU section of The Braxton Link, we have one hundred percent connectivity. Every single building on this campus is connected. Let's go see the grid."
+
+Maya led the group down the smooth concrete corridor. Patrick pushed Nichole easily, walking side-by-side with the rest of the group.
+
+Their first stop was the Central Library. They didn't even have to use a door; the tunnel fed directly into the library’s lower stacks. "This building never sleeps," Maya explained. "During the academic semester, the library is open twenty-four-seven. Swipe your ID, and you have a quiet place to study at 3:00 AM."
+
+From there, they rolled beneath the science quad. Through various glass-walled corridors, they looked into the BSU Planetarium, where a starfield was being projected onto a massive dome, and passed beneath the towering lecture halls of the College of Arts and Sciences.
+
+Eventually, the tunnel transitioned from academic tile to the carpeted basement of West Hall, a traditional freshman dormitory.
+
+"Okay, housing rules," Maya said, stopping in the lobby. "As you heard this morning, freshmen are required to live on campus—unless you live locally with family. Another rule: freshmen are not allowed to have cars on campus."
+
+Several students groaned. Maya held up her own student ID card.
+
+"You don't need a car. You get this," Maya said proudly. "This is your BSU ID. We call it 'The Bull Pass'. It’s a four-in-one smart card. It opens your dorm, it buys your food, it checks out your library books. But most importantly? It is hard-coded as a Zone 15 Unlimited LinkPass."
+
+Patrick’s jaw dropped. Zone 15. That was the absolute edge of the BTA regional network.
+
+"The moment this card is printed, it is live. You can walk out of the office, walk onto a bus, or tap onto the Metro, and it works," Maya explained. "You have unlimited, free access to the entire city of Braxton. The buses, the subways, the ferries... the campus is your launchpad, but the city is your classroom."
+
+Nichole looked at Patrick. They had just bought monthly passes to test the commute. Next year, their student IDs would render those passes obsolete. The university was handing them the keys to the entire grid.
+
+"Now, let's talk wellness," Maya said, leading them back into the tunnel.
+
+They emerged into the Student Recreation Center. The air smelled faintly of chlorine and rubber. Through a massive wall of glass, the group looked down at the Natatorium.
+
+It wasn't just a standard athletic facility. Past the traditional 25-meter lap lanes, one entire end of the massive competition-grade pool featured a gentle, textured ramp that descended directly into the water—a zero-depth entry. Next to it was a motorized hydraulic chair lift, and for able-bodied swimmers, standard stainless-steel ladders.
+
+"Full universal access," Maya noted. "And back here, we have the locker rooms."
+
+Patrick looked at the signage. There was the standard Men's and Women's. But right next to them was a wide hallway labeled Family/Assisted Changing. It was a row of large, private, secure rooms with roll-in showers and adult changing tables. Lockers were located conveniently out in the hallway so the rooms could be kept moving.
+
+Patrick and Nichole shared a look. It was exactly like Uncle Mark’s bathroom at home. The university hadn't just made the building accessible; they had built infrastructure for caregivers.
+
+The final stop was the Student Success Center, located directly beneath the administrative offices.
+
+"This is your safety net," Maya said. "Tutoring, writing labs, academic advising, and the Office of Disability Services. If you need help, this is where you go."
+
+As the tour group began to disband and head toward the transit station, Nichole stopped her chair at the reception desk.
+
+The receptionist looked up and smiled warmly. "Hi there. Can I help you?"
+
+Nichole clicked her mouse.
+
+"I. WOULD. LIKE. TO. MAKE. AN. APPOINTMENT. WITH. A. COUNSELOR."
+
+"Absolutely," the receptionist said, pulling up a calendar on her monitor. "Are you a prospective student?"
+
+"YES. FOR. FALL. 2004."
+
+Nichole clicked her mouse again, looking up at Patrick, and then back to the receptionist.
+
+"AND. I. WANT. MY. BROTHER. IN. THE. MEETING."
+
+Patrick stepped forward, resting his hand on the back of her wheelchair. "We're a package deal. I'm a prospective student too, applying for Engineering. But for the disability access meeting... I'm her engine."
+
+At Putney College, this was the moment where the director would have started talking about "liability" and "FERPA privacy laws" to push Patrick out of the room.
+
+The BSU receptionist didn't even blink.
+
+"Oh, we absolutely encourage collaborative planning," the receptionist beamed, looking at them as a unified team. "Navigating a new campus is a lot easier when everyone is on the same page. Let's get a joint file started for both of you."
+
+Patrick let out a quiet breath of relief. He looked around the Success Center, and then back down the long, warm corridor of The Bull Run.
+
+They had thought Uncle Mark's house in Portsmouth was the ultimate fortress. But standing here, Patrick realized that Braxton State wasn't just an accommodation. It was an expansion. BSU had thought of *everything*. The physical barriers were gone, and the institutional barriers were melting away, replaced by a system designed to push them forward.
+
+As the receptionist handed Nichole a card with their appointment date, Nichole backed up and looked up at her brother, her eyes shining with pure excitement.
+
+She tapped her screen.
+
+"WE. NEED. TO. TELL. UNCLE. MARK."
+
+"I know," Patrick laughed, grabbing the push-handles of the Titan AeroMotion. "Next ferry leaves in twenty minutes. Let's go home and brief the family."
+

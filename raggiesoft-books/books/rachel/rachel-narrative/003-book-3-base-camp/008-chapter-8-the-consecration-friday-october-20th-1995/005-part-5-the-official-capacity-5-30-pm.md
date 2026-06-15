@@ -1,0 +1,66 @@
+# Part 5: The Official Capacity – 5:30 PM
+
+Before April could officially call an end to the session, I looked past the foot of the sofa bed at the heavy, hardcover book resting on the coffee table.
+
+My arms were exhausted from the tension of the Shadow Arts, but my brain was completely starving for the predictability and structure of the curriculum. The physical forms were only half of the *Art*.
+
+"Sabomnim?" I asked quietly, ensuring I used the proper, safe title. "Could you read to us again? Chapter two?"
+
+Rachel immediately nodded in agreement, leaning her shoulder a fraction closer to mine. We both needed the academic, philosophical anchor to fully wash away the lingering stains of Tidewater Tumblers.
+
+April’s fierce, authoritative expression melted into a soft, scholarly warmth. She picked up *Seondu: Tradition and Form in Korean Karate*, opening it to the second chapter.
+
+She didn't lecture us, and she didn't bark the philosophy like a drill sergeant. She read with the calm, methodical cadence of a university professor. For the next twenty minutes, the living room was filled with the translated words of 10th Dan Grandmaster Lee Dong-won. She read about the preservation of the spirit, the absolute necessity of internal control, and how true power is derived from protecting those who cannot protect themselves. It was the exact, philosophical antithesis of everything Curtis had ever preached, and it completely validated our survival.
+
+When she finished the chapter, she closed the heavy book with a soft, definitive thud.
+
+"That concludes our study for today," April announced, stepping back to the edge of the living room carpet.
+
+It was time to close the Dojang.
+
+April brought her heels together with a sharp *click* and placed her hands flat against her seams. She executed a crisp, formal *Kyeong-rye* to the center of the living room, holding it for three seconds. With that single, structural motion, the space was respectfully de-consecrated. The sanctioned training floor dissolved, leaving behind our safe, familiar Base Camp.
+
+But April didn't relax her posture. She turned her body, locking her eyes directly onto Rachel and me.
+
+She brought her heels together a second time.
+
+She bent deeply at the waist, executing another flawless, rigid 90-degree bow directly to us. She wasn't bowing to the brown canvas belts we weren't even wearing; she was bowing to the resilience of the kids trapped on the medical wedges. She was formally honoring the fact that we had survived the absolute worst the martial arts world had to offer, and we still had the courage to punch the air.
+
+Because we couldn't sit up to return the bow, we executed the modified dismissal she had taught us. I brought my right fist over my heart, covered it with my left hand, and lowered my eyes. Beside me, Rachel mirrored the motion perfectly.
+
+"Ye, Sabomnim," we both said in unison, Rachel’s raspy whisper blending perfectly with my voice.
+
+April rose from her bow, the formal tension finally bleeding out of her shoulders. She smiled, stepping around the coffee table to the edge of the mattress.
+
+"When can you come back?" Rachel asked. The situational mutism had been successfully bypassed, her voice quiet but incredibly eager. "Can we do this every week?"
+
+"I would be honored to come back every Friday afternoon," April promised. "If that works for your schedule."
+
+"It does," I answered instantly. I looked at the brilliant gold and silver crest on her chest, and the silver *Sunhoe Sabomnim* thread catching the lamplight on her lapel. The uniform didn't scare me anymore. It was our shield. "But... could you wear the *dobok* every time you come over? So it always feels like an official lesson?"
+
+April’s eyes shined with unshed tears. For us to actively request the uniform—the very symbol of our trauma—meant we explicitly trusted her with our lives.
+
+"I promise," April swore, her voice thick with emotion. "I will never teach you without it."
+
+Because she knew our broken bodies couldn't handle the jarring impact of a hug, she relied on the adapted grounding technique. April reached out, placing her hands firmly over ours where our fingers were laced together on the quilt. She gave our hands one long, heavy, incredibly deliberate squeeze. It was a concentrated dose of deep, regulatory pressure, delivered perfectly.
+
+April stepped back, picking up her book. She offered a warm wave to Jessica and Janette, who were still standing at attention near their floor mattresses, and called out a polite goodbye to Uncle Jim and Grandma Loretta in the kitchen.
+
+She stepped off the carpet and onto the linoleum of the foyer. She quickly pulled her white canvas socks and sneakers back on, securing the laces.
+
+"See you next Friday, Master April," Jessica said, her voice filled with profound, protective gratitude.
+
+"See you next Friday," April smiled.
+
+She pushed the heavy front door open and stepped out into the cool October evening. The moment she cleared the threshold, Janette immediately stepped forward. She pulled the door shut, twisted the brass deadbolt, and flipped the heavy chain lock into place with a satisfying, metallic *clack*.
+
+The perimeter was officially sealed.
+
+I let my head fall back against the medical wedge, my arms heavy but my chest completely light. I looked over the three-pillow barrier at Rachel. She was staring at the ceiling, a massive, uncontainable smile spreading across her face. Her breathing was steady, and the frantic, vibrating anxiety that usually consumed our afternoons was entirely gone.
+
+"Well," Rachel rasped quietly, turning her head to lock eyes with me. "That was the best lesson ever."
+
+I bumped my shoulder gently against the pillows, matching her brilliant smile. "From the best teacher ever."
+
+
+

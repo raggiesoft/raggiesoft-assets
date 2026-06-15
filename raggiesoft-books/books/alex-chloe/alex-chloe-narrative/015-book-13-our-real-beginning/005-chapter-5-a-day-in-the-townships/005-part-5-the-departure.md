@@ -1,0 +1,42 @@
+# Part 5: The Departure
+
+The next morning, the Leclerc house was a flurry of organized, bilingual chaos. The entire extended family was in motion, packing last-minute souvenirs, triple-checking passports, and loading luggage into the three rental minivans. The beautiful, dream-like wedding was over, and it was time to go home.
+
+The drive from Stanstead to Montréal-Trudeau International Airport (YUL) was filled with a mix of happy, nostalgic chatter about the wedding and a quiet, underlying sadness that their time together was coming to an end.
+
+At the departures terminal, after a final, long, emotional, and tearful round of goodbyes with the entire Leclerc clan, the American contingent—the Millers, the Carters, Alex, Chloé, and Megan—headed inside as a single, large group.
+
+Their first and most important stop after checking their mountain of luggage was not their respective gates, but the U.S. Customs and Border Protection Preclearance facility. James Miller, the group's designated logistical commander, had everyone's passports and NEXUS cards in a neat, organized folder, ready for inspection.
+
+They approached the CBP officer's booth as a large, sprawling family unit. The officer, a professional-looking woman, took in the size of their group with a calm, practiced eye.
+
+"Good morning," she said. "Purpose of your trip to Canada?"
+
+"Family wedding," James replied, handing her the stack of passports.
+
+The officer began to process their documents, her stamps making a steady, rhythmic *thunk, thunk, thunk*. When she got to Alex, Chloé, and Megan, she paused, a small, almost imperceptible smile on her face. "I heard about you three," she said, her voice a low, amused murmur. "The happy couple and the Best Woman. I was working the arrivals desk when you came in. The whole team was talking about you. Congratulations."
+
+Chloé blushed, a happy, surprised laugh escaping her. THANK YOU, Alex's device voiced, a note of genuine warmth in its tone.
+
+With their documents all in order, the officer stamped the final passport and waved them through. "Welcome to the United States," she said with a genuine smile. "Have a safe flight home."
+
+Now, officially on "U.S. soil" within the confines of the Montréal airport, the two contingents of the family finally had to split. The final, emotional goodbyes happened right there in the sterile departures lounge. There were fierce, loving hugs between the Millers, Carters, and their three kids. Emily held Alex for a long moment, her own eyes shining with tears.
+
+"We are so, so proud of all three of you," she whispered.
+
+"Call us the second you land," James added, giving his son's shoulder a firm, proud squeeze.
+
+The Virginia family turned and headed towards their gate for the flight to Philadelphia (PHL) and their final connection to Norfolk (ORF).
+
+Alex, Chloé, and Megan stood and watched them go, waving until the last of their family had disappeared from sight. A profound, quiet moment settled over the three of them.
+
+"Well," Megan said, her voice a little thick with emotion. "I guess it's our turn."
+
+They made their own way towards the gate for their direct, non-stop flight back home to Seattle (SEA). As they settled into their seats on the plane, Alex looked out the window at the grey Montréal tarmac. The last few days had been a whirlwind of joy, love, and profound self-discovery. He had arrived in Canada as a visitor, a guest in Chloé's world. He was leaving with a new, unshakeable sense of belonging.
+
+He looked over at Chloé, who was already leaning her head on one of his shoulders. He then looked to his other side, and Megan, seeing the look in his eyes, gave him a warm, understanding smile and leaned her own head on his other shoulder.
+
+His home, he knew, was wherever they were. He sat there, in the middle, a quiet, solid anchor flanked on both sides by the two most important people in his world. He was so happy, so profoundly grateful to have two women at his side who were both so willing to be physically affectionate towards him, completely and utterly without a hint of jealousy towards the other. He knew, with a quiet and absolute certainty that settled deep in his heart, that he couldn't wait to come back to this place—the place that, so far in his young life, he had enjoyed the most.
+
+
+

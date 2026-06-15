@@ -1,0 +1,32 @@
+# Part 1: A Test and a Toast
+
+The morning of Saturday, September 18th, 2004, dawned bright and clear, a perfect, crisp late-summer day. The house on Daniel Maloney Drive was filled with a unique, humming energy—a quiet, joyful thrum of anticipation. Today was the day. Today was Olivia's nineteenth birthday, and the day she and Leo would declare their lifelong commitment to each other in front of everyone they loved.
+
+The day began not with frantic preparation, but with a moment of quiet, focused curiosity. In the living room, Olivia sat in front of the family's main computer, a thoughtful frown on her face as she read the dense text on the screen. Stella, coming out of the kitchen with a mug of coffee, noticed her intense concentration.
+
+"Morning, Liv, and happy birthday," Stella said gently. "Everything okay? You look like you're studying for a final."
+
+Luna and Leo, who were nearby, looked over. "What is that?" Luna asked, peering at the screen. It was a block of formal-looking French text under a government-style banner.
+
+Olivia looked up, a sheepish but excited grin spreading across her face. "Oh, hey. I just... I fell down a bit of a rabbit hole last night after our lesson," she admitted. "This is the official website for the TEFAQ—the *Test d’Évaluation de Français pour l’accès au Québec*."
+
+Leo typed on his communicator, his voice curious. "A TEST? FOR QUÉBEC?"
+
+"It's the official French language test you have to pass if you want to immigrate to Québec," Olivia explained, her enthusiasm for the topic bubbling up. "I was just thinking about how fast you guys are learning, and it made me wonder... and I was right! The test has sections for listening, speaking, reading, and writing. It's pretty intense."
+
+Stella laughed, shaking her head in fond amusement. "Liv, are you trying to get us all to move to Canada?"
+
+"No, no!" Olivia laughed, closing the browser window. "It was just an impossible thought. But it proves my point: you guys could do it if you wanted to." She stood up, stretching. "Anyway, enough about impossible tests. We have a very possible, very important ceremony to get ready for. And it starts with breakfast!"
+
+The mention of food was the official signal to begin the day. The four of them gathered in the kitchen, the atmosphere shifting to warm, familial celebration. Arthur and Eleanor arrived shortly after, bearing a box of fresh pastries. But Eleanor was also carrying a smaller, square box.
+
+"We have pastries for everyone," Eleanor announced with a warm smile. "But we have something special for the birthday girl." She opened the smaller box to reveal a small, beautifully decorated cupcake with a single, unlit candle perched in the frosting.
+
+"Oh, you guys," Olivia said, her voice thick with emotion. "You didn't have to."
+
+"Of course, we did," Arthur said gruffly, though his eyes were shining. He lit the single candle. "It's not every day you turn nineteen."
+
+As everyone gathered around, Luna quietly retrieved her flute from its case and raised it to her lips. She began to play the clear, sweet melody of **"Happy Birthday."** A moment later, a chorus of voices—Stella, Arthur, Eleanor, and Leo's clear, synthesized voice from his communicator—joined in, singing along with the flute's beautiful harmony.
+
+Olivia closed her eyes, made a silent wish, and blew out the candle. It was a simple, quiet moment, an intimate family celebration that served as the perfect, personal prelude to the grand, joyful declaration that would come later in the day.
+

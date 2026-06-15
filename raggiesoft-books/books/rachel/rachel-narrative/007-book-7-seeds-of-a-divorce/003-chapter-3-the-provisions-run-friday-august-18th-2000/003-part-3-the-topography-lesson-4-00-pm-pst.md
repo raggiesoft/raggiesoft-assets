@@ -1,0 +1,44 @@
+# Part 3: The Topography Lesson – 4:00 PM (PST)
+
+By late afternoon, the high-adrenaline rush had settled into a quiet, operational hum.
+
+"Alright," Mom said, checking her watch. "The RA said the Student Card Center is open until five. We need to get your university ID before the massive wave of freshmen hits campus next week."
+
+Jessica took point. For the first ten minutes, the navigation around the engineering quad was flawless flat concrete. But as we moved deeper into the historic core of the NPU campus, the physical reality of Seattle’s geography violently asserted itself.
+
+The flat concrete gave way to ancient, uneven red brick plazas. And then, we hit the incline. It was a steep, relentless, quad-burning grade that stretched for two solid blocks toward the central union.
+
+Jessica hit the base of the hill. She leaned her torso forward, shifting her center of gravity to keep her front casters from tipping backward, and began to push.
+
+Her shoulders immediately locked with tension. Every single inch forward required a massive, exhausting flex of her triceps. After fifty feet, she was breathing heavily. Her knuckles were white. The stoic armor was cracking under the sheer physical toll.
+
+I instinctively stepped forward to grab the heavy push-handles on the back of her chair.
+
+Mom’s hand shot out, grabbing me by the shoulder in a vice grip. "Don't."
+
+I looked at Mom, stunned. "She's struggling."
+
+"I know it is," Mom replied, her eyes locked on Jessica's back. "But we are flying back to Virginia on Monday. She has to know the exact physical cost of this terrain right now, while we are still here to catch her if she falls. Let her fight it."
+
+I stepped back, keeping Rachel close to my side. We formed a silent perimeter behind Jessica, watching our older sister wage an absolute war against the campus topography.
+
+It took her five agonizing minutes to clear the hill. When the brick pathway finally leveled out at the entrance of the Student Union Building, Jessica locked her brakes, trembling with exhaustion.
+
+She stared down the long, sprawling decline we had just climbed. Raw upper-body strength was not going to be enough to survive a four-year degree on this campus.
+
+"The math doesn't work," Jessica breathed out.
+
+Mom stepped up beside her. "What's the pivot, Jess?"
+
+Jessica unzipped her messenger bag. She didn't pull out the campus walking map. She pulled out the heavy TAPS transit map and the NPU disability services pamphlet.
+
+"I cannot push this hill every day," Jessica stated, her voice returning to its cold, operational baseline. She ran her finger along a dotted line. "There is an automated campus shuttle loop. It runs every fifteen minutes. And the TAPS King County local routes cut straight through the central avenues."
+
+She looked up at Mom, a fierce, calculating focus in her eyes. "I don't just need to memorize my classrooms. I have to memorize the entire transit grid. If I link the campus shuttles with the local city buses, I can bypass the hills entirely. I can let the diesel engines do the climbing for me."
+
+Mom nodded slowly. "Then we get your ID card right now, and we spend the rest of the afternoon riding the buses. We map the grid."
+
+Ten minutes later, with the newly printed NPU Student ID in hand, Jessica didn't look at the massive, intimidating hills anymore. She wheeled over to the nearest concrete transit shelter, looking up at the metal signpost.
+
+The vanguard was learning the terrain.
+

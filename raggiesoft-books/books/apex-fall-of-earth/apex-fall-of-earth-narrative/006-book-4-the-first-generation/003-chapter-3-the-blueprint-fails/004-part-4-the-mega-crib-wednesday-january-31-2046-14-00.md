@@ -1,0 +1,58 @@
+# Part 4: The Mega-Crib – Wednesday, January 31, 2046 – 14:00
+
+Sub-Level 4 was thick with the smell of ozone and vaporized alien pine.
+
+Wyatt Colton stood in the center of the Fab-Foundry, his protective welding goggles pulled down over his eyes, a heavy plasma cutter humming in his gloved hand. Sparks rained down onto the grated floor as he systematically, ruthlessly dismantled the beautiful, individual sixty-millimeter-spaced cribs he had spent hundreds of hours building.
+
+"Doctor Colton," Aria’s voice chimed from the workshop’s ceiling array, her digital tone laced with clinical concern. "I must formally advise against this structural modification. Fusing three neonatal sleeping units into a single, shared enclosure directly violates every established 2045-era pediatric safety guideline. Co-bedding severely premature infants increases the statistical risk of thermal overlap and accidental suffocation."
+
+"Noted, Aria," Wyatt grunted, cutting through a heavy structural joint. A massive timber rail clattered to the floor. "Log the safety warning."
+
+"Warning logged. Are you certain you wish to proceed?"
+
+"Absolutely," Wyatt replied, pulling off his goggles and tossing the cutter onto the heavy workbench.
+
+He didn't care what the textbooks or the pediatric algorithms dictated. The science of 2045 hadn't accounted for the Vanguard. The science said they should sleep alone, on their backs, in an empty crib. But the reality was that when they were separated, they redlined into a state of sheer, screaming terror.
+
+If breaking every rule in the medical database was what it took to let his children sleep peacefully, Wyatt was going to shatter the database to pieces.
+
+He spent the next four hours fusing the salvaged timber into a massive, sprawling, heavily reinforced frame. He commanded Aria’s molecular printers to extrude a single, seamless, custom-poured memory-foam mattress that was entirely devoid of gaps, pinch points, or dividers.
+
+It wasn't a crib anymore. It was a fortress.
+
+By 18:00, Wyatt and the automated heavy-lifter drones had transported the "Mega-Crib" up to the residential level and assembled it against the northern wall of the nursery.
+
+Sarah rolled her wheelchair through the door, a warm bottle of fortified milk resting in her lap. She stopped, staring at the sheer scale of the massive wooden structure. It looked like a king-sized bed wrapped in sixty-millimeter safety slats.
+
+"Well," Sarah smiled, an exhausted, beautiful laugh escaping her lips. "That is definitely not up to code."
+
+"The code is officially rewritten," Wyatt stated proudly, dusting off his canvas pants. He walked over to the temporary bassinet where the three babies were currently jammed together, fussing slightly as they began to wake up for their evening feed.
+
+Wyatt gently scooped them up one by one, transferring them into the vast expanse of the new Mega-Crib.
+
+He and Sarah stayed perfectly still, watching from the edge of the timber rail to see how they would react to the massive, open space.
+
+They didn't scatter. They didn't roll away from each other. The vastness of the mattress didn't matter, because they immediately sought their designated coordinates.
+
+Leo, still battling the profound, rigid neurological tension that defined his waking moments, was placed in the dead center. The moment he was down, the girls instinctively moved in.
+
+Nora was the first to act. She didn't just scoot close to him; she actively anchored him. With a soft, reedy sigh, she pressed her entire left side flush against Leo’s right arm, throwing her tiny, fragile leg over his knee and tucking her face directly into the crook of his neck. She was the deep pressure. She was the physical, weighted blanket his damaged nervous system desperately required. The moment she wrapped around him, Leo let out a soft, vibrating grunt, his tense, spasming muscles finally unclenching.
+
+Ellie took the opposite flank, but her posture was entirely different. While Nora melted into their brother to soothe him, Ellie remained highly alert. She scooted until her back was pressed firmly against Leo’s left side, perfectly boxing him in. But instead of tucking her head down to sleep, Ellie’s eyes were wide open. Her tiny fists were balled, and her chin was up. She stared out through the wooden slats of the crib, her dark eyes tracking the shadows in the room, actively scanning the perimeter.
+
+Sarah reached out, gripping Wyatt's thick forearm. "Look at them, Wyatt."
+
+"I see it," Wyatt whispered, deeply awestruck by the tactical precision of his newborns.
+
+Even at one day corrected age, the dynamic was permanently, fundamentally set. They didn't have the words for it. They didn't know what hypoxia or cerebral palsy was. They just knew that their brother's body didn't work the same way theirs did, and he was terrified of the empty space.
+
+Nora was the medic, ensuring his physical and emotional security. Ellie was the S.H.O.P. Marine, ensuring the environment was secure so he could rest. And Leo was the core, holding the two halves of the Vanguard together.
+
+As long as Leo was sandwiched between them, feeling Nora’s heartbeat and Ellie’s rigid, protective spine, he was safe. And as long as he was safe, the girls could finally close their eyes.
+
+Slowly, Ellie’s tiny fists uncurled. Satisfied that the massive, sage-green room was clear of threats, her eyes fluttered shut, and the three of them sank into a deep, synchronized sleep.
+
+Wyatt leaned over the rail, his chest aching with a fierce, profound love. He had spent his entire life building armor to protect himself from the galaxy. But looking down at the Mega-Crib, he realized his children were already building armor out of each other.
+
+"Okay," Wyatt murmured softly, kissing the top of Sarah's head. "The Mega-Crib stays."
+

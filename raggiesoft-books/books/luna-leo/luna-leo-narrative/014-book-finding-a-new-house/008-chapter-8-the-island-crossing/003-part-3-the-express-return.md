@@ -1,0 +1,84 @@
+# Part 3: The Express Return
+
+## August 23, 2006 Bayview Creamery - West Main Road 12:30 PM
+
+Lunch was finished. The Colossal Coolers were drained.
+
+They caught the **OSTA Route 67** bus at the stop across the street. It looped back through the city, dropping them at the **Gateway Center**.
+
+They rolled down the block to **Perrotti Park**.
+
+The **BTA Newport Flyer** was waiting at the dock, its engines idling with a deep, powerful rumble.
+
+They boarded. The return trip was smooth, the catamaran slicing through the afternoon chop of the bay. To their right, the Pell Bridge stood like a sentinel. Ahead, the massive white canopy of **Narragansett Esplanade Station** grew larger, rising from the water’s edge on the University peninsula.
+
+## 01:15 PM Narragansett Esplanade Station - Ferry Dock
+
+They rolled off the boat. They took the glass elevator up to **Level 3 (The Sky Platform)**.
+
+Leo checked the departure board.
+
+**BTA SOUTH SHORE (Local) - 1:25 PM** **ARTS COASTAL 195 (Richmond) - 1:20 PM**
+
+The silver **ARTS** train was already gliding into the station on the express track.
+
+"We take the silver one," Stella said. "We have the passes now."
+
+She tapped her lanyard. The **Bull Pass** was the key.
+
+The ARTS conductor stepped out, deploying the bridge plate for Leo. "Heading south?"
+
+"Iron Point," Stella said, flashing her ID.
+
+"Hop on," the conductor said. "But remember the rule: **Pass holders in Coach Class only.** The Business Class car up front is reserved for ticketed passengers."
+
+"Coach is fine," Stella confirmed. "It’s a twelve-minute ride."
+
+## The Coach Experience
+
+They rolled into the train. It didn't have the curtains or the free coffee of Business Class, but the seats were wide and comfortable.
+
+Leo parked in the designated accessible bay at the rear of the car. There was no conference table here—just a fold-down tray from the wall—but he didn't mind. He plugged his Scribe into the wall outlet (which Coach cars still had).
+
+The conductor came by to scan.
+
+Stella, Luna, Leo, and Olivia held up their **BSU IDs**. *BEEP. "Student Valid - Coach."*
+
+Eleanor held up her **BTA LinkPass (Yearly)**. *BEEP. "Pass Valid - Coach."*
+
+"All set," the conductor smiled. "Next stop, Iron Point."
+
+## The Sprint
+
+The train pulled out.
+
+This wasn't the BTA commuter train. It didn't chug. It *launched*.
+
+The electric locomotive accelerated rapidly. Leo watched the window.
+
+**BCI Airport Station** flashed by in a blur of concrete. **Southport** was a smear of green trees. **Rockwell** was gone in a second.
+
+*"SKIPPING STOPS,"* Leo typed on his Scribe. *"VELOCITY HIGH."*
+
+"It’s the Express," Olivia said, relaxing into the seat next to him. "No stops until our driveway."
+
+In **12 minutes**, the train began to slow. The brakes hissed.
+
+*"Now arriving... Iron Point. Suburban Gateway."*
+
+They stepped off onto the platform. It was **01:35 PM**.
+
+"That was fast," Luna said. "We beat the bus by twenty minutes."
+
+They rolled down the ramp to the street. They walked the two blocks down **Ocean View Lane**.
+
+As they turned into the driveway of the Fortress, Leo looked back at the station. He had eaten lunch in Newport and was home before 2:00 PM.
+
+He tapped his Scribe.
+
+*"THE NETWORK IS OPERATIONAL."*
+
+"It sure is," Stella said, unlocking the front door. "Now, everyone rest up. Tomorrow is **Orientation Day**. And I have a feeling it's going to be loud."
+
+Leo rolled into the cool, quiet hallway of the house. He was ready. He had his chair, his pass, and his team.
+

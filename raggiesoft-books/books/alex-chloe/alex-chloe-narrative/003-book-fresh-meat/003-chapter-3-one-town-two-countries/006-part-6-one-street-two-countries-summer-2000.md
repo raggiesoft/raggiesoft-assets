@@ -1,0 +1,34 @@
+# Part 6: One Street, Two Countries (Summer 2000)
+
+After securing the sausages from the *boucherie* in Stanstead, Thomas Mason turned to the passengers in his minivan with a grin. "Alright, everyone, now for the real tour. Time to show you the weirdest street in North America."
+
+The minivan made its way through Stanstead's quiet streets to Rue Canusa. "Okay, Alex," Chloé said from her spot in the back, pointing out the window as Thomas turned onto the street. "Look. We're on the Canadian side, heading west. Every house on our side of the street is in Québec."
+
+Alex looked across the road, a simple strip of pavement with a double yellow line down the middle. On the other side were houses that were unmistakably American, complete with U.S. mailboxes and American flags. It was both ordinary and deeply strange.
+
+"That blue house there," Chloé continued, pointing to a home on the American side. "That's where the Pattersons live. Mrs. Patterson was my Brownie leader."
+
+SO… THEY’RE IN AMERICA RIGHT NOW? Alex typed on his AAC.
+
+"Yup," Chloé confirmed. "Their whole house is in Vermont."
+
+"We should stop in and say hello," Thomas announced from the driver's seat. "I haven't seen Bill Patterson in ages."
+
+Without any fanfare, Thomas checked for non-existent oncoming traffic, slowed the minivan, and made a simple left turn, driving directly across the yellow line—the international border—and pulled into the Pattersons' driveway.
+
+A man who was out tending his flowerbed looked up, his face breaking into a wide smile. "Tom Mason! I'll be damned! What are you doing on this side of the planet?"
+
+"Showing some friends the local attractions, Bill!" Thomas called out as they all began to pile out of the minivan.
+
+The Pattersons' front door was at ground level, but their back deck had a couple of steps. "Let's go around back," Bill Patterson suggested. "Patio's got more shade."
+
+As they moved towards the backyard, Alex's wheelchair came to a stop at the bottom of the two deck steps. Before James could even position himself to help lift the chair, Bill Patterson waved him off. "Hang on a second, son," he said to Alex with a friendly smile. He disappeared into his garage for a moment and emerged carrying two sturdy, portable wooden ramps. They were simple, homemade, but well-constructed.
+
+"Made these years ago," Bill said as he quickly positioned them over the steps. "Old Mrs. Henderson two doors down was in a chair for a while after her hip surgery. Seemed silly she couldn't come over for a barbecue just 'cause of a couple of steps."
+
+He secured the ramps, and Alex was able to wheel himself right up onto the deck with ease. He looked at Mr. Patterson, deeply impressed by the simple, matter-of-fact kindness. THANK YOU, SIR. THAT’S… REALLY GREAT.
+
+"Don't mention it, kid," Bill said, clapping him gently on the shoulder.
+
+They all settled onto the patio chairs, Mrs. Patterson bringing out a pitcher of cold lemonade. The conversation flowed easily, a mix of English and French, as they caught up on local news, the weather, and the fortunes of the Montréal Voyageurs. Alex and Chloé sat side-by-side, sharing a glass of lemonade, feeling the unique magic of the place. They were sitting on a back deck in Beebe Plain, Vermont, having arrived there from a street in Stanstead, Québec, without ever seeing a customs officer. It was a world built on thoughtful neighbors and homemade ramps, where kindness was more important than jurisdiction.
+

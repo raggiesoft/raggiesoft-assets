@@ -1,0 +1,30 @@
+# Part 16: The Aftermath
+
+In the sudden, blessed quiet of the ValueMart aisle, the lingering energy of the confrontation slowly dissipated. Vera was long gone. Chloé and Megan formed a tight, protective circle around Alex, their hands a comforting weight on his shoulders.
+
+"*Ça va, mon cœur?*" Chloé asked again, her voice a soft, gentle murmur. (Are you okay, my heart?)
+
+Alex took a long, shuddering breath and gave a small nod. He was shaken, but the raw terror had been replaced by a profound sense of relief.
+
+Megan looked from Alex's pale face to Chloé's, a look of pure, unadulterated awe in her eyes. "Okay," she said, her voice a low, impressed whisper. "You have got to teach me how to do that. I didn't understand a single word you said, but whatever it was, it was terrifyingly effective. I think you actually scared her."
+
+A small, weary smile touched Chloé's lips. "I just... used some words you won't find in a textbook," she explained. "They're called *sacres*. It's a Québec thing. Very colorful, very effective for scaring off snakes."
+
+"I'm officially learning French," Megan declared.
+
+A new, more serious thought then occurred to Chloé. She caught Megan's eye, a silent, strategic understanding passing between them. "She doesn't know," Chloé said quietly.
+
+Megan understood instantly. "She still thinks he's going to Portsmouth with her next week," she finished, her own voice dropping. They both realized the power of the secret they held. Vera was operating on completely false information.
+
+"Maybe that was enough to scare her away for good," Megan said, a hopeful note in her voice.
+
+Chloé shook her head, her expression grim and realistic. "No," she said. "She's not done. When he doesn't show up at the Portsmouth campus on the first day of class, she's not just going to give up. She's going to get desperate. And desperate is more dangerous. We need to be prepared for that."
+
+Alex listened to them, to his two protectors already planning their next strategic move. But he wasn't thinking about Vera anymore. He was just looking at them—his best friend, his wife, the fierce lioness who had just defended him in her heart language, and his favorite cousin, his steadfast guardian, who was his unbreakable shield. He was just so incredibly glad to have his two most favorite women in the whole world at his side.
+
+CAN WE FINISH SHOPPING NOW? his AAC device voiced, the words a simple, resolute statement. I AM STILL HUNGRY.
+
+A slow, proud smile spread across Chloé's face. He wasn't retreating. He was refusing to let Vera chase them out of their own day. "Yeah," she said, her voice full of a quiet, fierce pride. "Yeah, let's finish our shopping."
+
+Megan gave Alex's shoulder a firm, approving squeeze. With a new sense of purpose, Chloé took the handle of their shopping cart. They calmly finished their grocery run, their movements a silent testament to their resilience. After paying for their items, they walked out of the store, leaving the battlefield of the snack aisle—and the ghost of Vera—far behind them, a stronger and more united team than ever before.
+

@@ -1,0 +1,62 @@
+# Part 3: The Extraction – Tuesday, May 2, 2051 – 08:30 (Standard Galactic Time)
+
+The northern temperate forest of Planet Eden was completely silent, save for the crackle of burning durasteel and the hiss of superheated coolant venting into the rich, damp soil.
+
+At the center of a massive, fifty-meter crater lay the shattered remains of a Class-1 command module. The dense canopy of ancient alien pines had arrested its descent, acting as a massive, natural shock absorber before the pod slammed into the earth.
+
+With a grinding shriek of twisted metal, the emergency hatch blew outward.
+
+High Director Kael dragged himself out of the wreckage, coughing violently as he collapsed into the soft, loamy dirt. His pristine, matte-black uniform, once the terrifying symbol of absolute authority across the Cygnus Arm, was torn and stained with his own blood. His left arm hung at an awkward angle, and his ribs burned with every ragged breath.
+
+He pushed himself up onto his knees, his vision swimming.
+
+He stared at the towering, emerald-green trees. He felt the cool, perfectly breathable 21-degree air filling his lungs. He smelled the damp pine needles and the fresh ozone.
+
+His mind simply could not process the cognitive dissonance. The orbital thermal scanners had promised a radioactive, shattered husk. But he was sitting in a vibrant, pristine paradise. The entire dead planet had been a flawless, impossible hologram.
+
+*How?* Kael thought, his teeth grinding together in a mixture of agony and sheer, unadulterated fury. *How does a rotted husk project a hard-light illusion? How does a dead rock wield enough anti-matter artillery to vaporize a sixteen-kilometer Super-Carrier in sixty seconds?*
+
+But the most agonizing insult—the one that burned hotter than the shrapnel in his shoulder—was the radio silence.
+
+As the Sovereign of Acheron, Kael was used to absolute deference. When he transmitted an unencrypted, broad-band plea for surrender, he expected his conquerors to gloat. He expected them to broadcast a list of demands or mock his sudden defeat.
+
+Instead, whoever controlled this fortress had simply ignored it. They hadn't answered the hail. They had looked at the High Director of a galactic empire and swatted him out of the sky like an irrelevant pest.
+
+Kael gritted his teeth, forcing himself to stand. His legs trembled, but his survival instinct kicked in. He reached down to his thigh holster, his fingers wrapping around the grip of his heavy plasma sidearm. It was the only piece of Apex authority he had left.
+
+He heard the sound before he saw it—a low, rhythmic, localized hum of repulsorlift engines cutting through the trees.
+
+"Show yourself!" Kael roared, raising the plasma pistol with his good arm, sweeping the barrel across the dense brush. "I am High Director Kael of the Apex Megacorporation! You are harboring enemies of the state! Step out of the trees!"
+
+The foliage parted, but it wasn't a soldier who stepped out.
+
+It was a machine. It hovered exactly one meter off the ground—a sleek, heavily armored Sentinel containment drone painted in matte gray. It didn't possess a mounted plasma turret or a missile rack. It was completely silent, its glowing blue optical sensor locking directly onto Kael's chest.
+
+"Halt!" Kael screamed, his finger tightening on the trigger.
+
+He never even had the chance to pull it.
+
+The drone moved with terrifying, mechanical efficiency. It didn't fire a weapon; it deployed a localized, high-velocity magnetic grapple. A heavy tungsten-mesh cable shot forward, wrapping instantly around Kael’s extended wrist. With a violent, calculated yank, the drone wrenched the High Director's arm downward.
+
+The plasma pistol slipped from his fingers, falling harmlessly into the dirt.
+
+Before Kael could even register the disarmament, the drone surged forward. Two heavy, padded mechanical manipulators clamped securely around his shoulders, pinning his arms to his sides. The restraint was absolute, completely unyielding, but noticeably lacking the bone-crushing brutality of Apex security forces.
+
+*"Biological subject secured,"* a synthesized, female voice echoed from the drone's localized speaker. *"Administering localized anesthetic for transport. Please remain calm. You are now a recognized Prisoner of War under the Third Geneva Convention Protocols."*
+
+Kael’s eyes went wide with pure confusion. On Acheron, enemies of the state were sent to the deep-crust labor camps or subjected to neural-reeducation.
+
+"Geneva what? Unhand me, you obsolete piece of junk!" Kael spat, struggling wildly against the padded grips. "I am the Sovereign of Acheron! I do not recognize your laws! I will glass this entire forest!"
+
+A small pneumatic dart hissed from the drone's chassis, piercing the fabric of Kael's uniform at his shoulder. Within three seconds, the High Director's eyes rolled back, and his body went entirely limp in the drone's grasp.
+
+Through the trees, the rest of Wyatt's automated Sentinel squadron fanned out.
+
+Secondary escape pods had rained down across a five-kilometer radius. From the smoking wreckage, the drones pulled a battered sub-commander, two heavily bruised bridge officers, and three elite guards.
+
+None of them were executed. None of them were interrogated in the dirt or beaten for information.
+
+Following the strict, unshakeable rules of the Administrator, the Sentinel drones flawlessly disarmed the hostile combatants, administered medical sedatives, and secured them for transport. The prisoners were lifted smoothly into the air, the drones turning in unison to carry their cargo back toward the imposing, oxidized-yellow hull of the estate.
+
+High Director Kael had come to Planet Eden to conquer ghosts. Instead, he was being carried back to their bunker, fast asleep, about to wake up stripped of his empire and completely bound by an ancient Earth law he couldn't even comprehend.
+

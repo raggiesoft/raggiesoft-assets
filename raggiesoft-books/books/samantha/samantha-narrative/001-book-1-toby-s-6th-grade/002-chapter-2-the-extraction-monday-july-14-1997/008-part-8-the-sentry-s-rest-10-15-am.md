@@ -1,0 +1,24 @@
+# Part 8: The Sentry's Rest – 10:15 AM
+
+There was no hesitation. The moment the quilts were laid down, Abbey walked back over to the sofa. With the same absolute, deliberate gentleness, she scooped me up and carried me to the sprawling mattress camp.
+
+She set me right in the dead center. Samantha was there a second later, sliding under the heavy blankets and instantly re-establishing her deep-pressure hold around my chest, anchoring her chin back on top of my head.
+
+Then, the twins took their positions.
+
+When Sarah laid down on my left side and Abbey laid down on Samantha's right, the heavy queen mattresses physically sank under their immense weight. They pulled the heavy comforters up, completely sealing the edges of the bed. If I opened my eyes, all I could see was the massive, impenetrable wall of Sarah's broad back. If anyone wanted to get to me, they would have to move a mountain to do it.
+
+The living room was completely silent. There was no hum from the television, no low chatter from the radio. The chaotic, violent noise of the last twenty-four hours was entirely gone, replaced only by the steady, synchronized breathing of my cousins and the heavy, exhausted thumping of my sister's heart against my back.
+
+From her rocking chair in the corner, Grandmother Eleanor quietly reached down into her canvas bag.
+
+She pulled out the soft blue yarn and the unfinished sleeve of the sweater. She didn't turn on a lamp, letting the muted, gray daylight filter through the standard living room curtains. I saw her glance briefly at the windows, her eyes narrowing slightly. I knew exactly what she was thinking. She was already planning the logistics—measuring the frames in her head for heavy, industrial blackout curtains to completely seal us off from the outside street. I knew she was also mentally cataloging what she had in the pantry to feed us when we woke up.
+
+But she didn't say a word. She looked at the four of us, collapsed and barricaded together on the floor, and made the conscious decision that nothing mattered more right now than unconsciousness. The curtains and the meals could wait until the sun started to set.
+
+The only sound in the room became the soft, rhythmic *click... click... click...* of her metal knitting needles.
+
+It was the most grounding, beautiful sound I had ever heard. It was the sound of a normal Tuesday. It was the sound of my grandmother protecting our perimeter from her rocking chair.
+
+Surrounded by the suffocating density of the phalanx, anchored by my sister's unyielding grip, and lulled by the metallic metronome of the knitting needles, my shattered nervous system finally powered down. The redlining terror yielded to the sheer, undeniable proof of my safety, and for the first time since my father dragged me into that car, I let go of the waking world and surrendered to a long, dreamless sleep.
+

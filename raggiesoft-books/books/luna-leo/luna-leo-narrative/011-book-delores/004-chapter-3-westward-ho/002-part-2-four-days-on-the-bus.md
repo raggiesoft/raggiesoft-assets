@@ -1,0 +1,10 @@
+# Part 2: Four Days on the Bus
+
+Boarding the gleaming blue and silver Pathfinder Bus Lines coach in Norfolk felt surreal. As they settled into seats near the middle of the bus, adjacent to the wheelchair lift area, Leo tried to push his doubts aside, focusing on the promise of the trip. The first few hours blurred into the familiar landscape of Virginia highways – Hampton, Richmond. In Richmond, they navigated the controlled chaos of their first bus change, the brief stop offering little respite before boarding the next coach heading west.
+
+But as day bled into night and back into day again, the reality of the four-day journey began to set in. The bus seats became instruments of discomfort. Repositioning himself to avoid pressure points was difficult in the confined space, a constant, low-level worry nagging at him. Delores, initially talkative, grew quiet and irritable, often lost in her headphones or staring blankly out the window, offering little conversation or assistance.
+
+Rest stops became logistical hurdles. Many older bus stations or roadside diners along their winding route – through Charlottesville, Staunton, Roanoke, Wytheville, and down into Bristol, Tennessee – had restrooms that were barely accessible, requiring awkward maneuvering or grudging help from Delores, whose impatience was often palpable. Leo found himself limiting his fluid intake to minimize the need, adding dehydration to his growing list of discomforts.
+
+He desperately wished he could message Stella or Luna during the long stretches, but his older AAC device (a bulky, dedicated unit from 1999) lacked any built-in internet or messaging capabilities. Even if he tried composing messages offline to potentially save later, Delores hovered whenever he used the device, making comments about wasting battery or asking pointedly what he was doing, making him quickly put it away. The technological limitations combined with Delores's controlling presence meant the isolation felt immense, stretching with the miles.
+

@@ -1,0 +1,112 @@
+# Part 5: Geometry and Physics
+
+The lobby bench was hard wood, but to Freddie, it felt like a recharge station. He sat in the middle, eyes closed, letting his breathing sync with the steady rise and fall of Paige’s chest against his right side.
+
+"Heart rate decelerating," Freddie murmured. "System cooling."
+
+"Good," Paige whispered, keeping her arm firmly around his shoulders. "We’ll sit here as long as it takes."
+
+But the peace was short-lived. The heavy glass doors of the lecture hall swung open again, releasing the stragglers—the students who had hung back to pack their bags or avoid the initial crush.
+
+Among them was a boy Freddie had noted earlier in the back row. He was wearing a polo shirt with the collar flipped up—a fashion choice Freddie found illogical as it offered no neck protection—and he had spent the majority of the lecture snickering at the diagrams.
+
+He stopped when he saw them on the bench. His eyes didn't go to Freddie. They didn't go to Jessica.
+
+They went straight to Paige. Specifically, they went to the navy blue t-shirt.
+
+Freddie opened his eyes. He saw the vector of the boy’s gaze. It was a direct line of sight to Paige’s chest, where the tight fabric struggled to contain her anatomy. Freddie felt a spike of protective irritation. He knew the shirt was too small; it was an error in the laundry cycle, not an invitation.
+
+But the boy didn't see an error. He saw an opportunity.
+
+He sauntered over, ignoring the fact that Paige was clearly engaged in a support maneuver.
+
+"Hey," the boy said, stopping right in front of her. He leaned against the wall, trying to look casual. "You were in the second row, right? The one taking all the notes?"
+
+Paige looked up. Her expression was flat. She tightened her grip on Freddie’s shoulder. "I was."
+
+"I noticed," the boy smirked, his eyes dropping to her neckline again. "Hard to miss. That shirt is doing a lot of heavy lifting. I respect the effort."
+
+Jessica sat up straight on Freddie’s left, her eyes narrowing behind her glasses. She opened her mouth to eviscerate him, but Paige squeezed Freddie’s arm, signaling *Hold.*
+
+"Can I help you?" Paige asked, her voice dropping to a temperature that could freeze nitrogen.
+
+"Just thought you might want a study partner," the boy said, stepping closer. "That class looks... intense. I figured maybe we could compare notes. Grab a drink? You look like you could use a break from..."
+
+He gestured vaguely at Freddie, waving a hand as if Freddie were a piece of luggage or a confusing piece of furniture. "...whatever this is."
+
+Freddie felt a sudden, sharp jolt of recognition.
+
+The data retrieval system in his brain spun up. He accessed a file from **Freshman Year, September 1999**. *Subject:* Jason. Snare Drummer. *Incident:* Concession Stand. *Dialogue:* "He's a big boy... cut the cord... it's embarrassing."
+
+This was the same algorithm. Different face, same code.
+
+Freddie lifted his head. He looked at the boy. "This," Freddie stated, pointing to himself, "is her brother. And she is not 'babysitting.' She is anchoring."
+
+The boy laughed, a dismissive bark. "Brother? Right. Look, man, no offense, but she looks a little cramped. I'm just offering to give her some space."
+
+He looked back at Paige, flashing a winning smile. "Come on. Ditch the family reunion. Let me buy you a coffee. I bet you're fun when you aren't weighted down."
+
+Paige didn't smile back. She didn't blush. She didn't look flattered.
+
+She gently removed her arm from Freddie’s shoulders, but she didn't stand up. She shifted her weight, turning her body so she was facing the boy directly. The tight navy shirt stretched across her chest, but she didn't cross her arms to hide it. She used her geometry as armor.
+
+"I had a boyfriend once," Paige said conversationally. Her tone was light, dangerously so. "Back in high school. His name was Jason. He played the snare drum."
+
+The boy blinked, confused by the non-sequitur. "Uh. Cool?"
+
+"He thought the same thing you do," Paige continued. "He thought that because I love my brother, because I take care of him, that I must be desperate for an 'out.' He thought that if he made fun of Freddie, I would laugh along to prove I was cool."
+
+She stood up. She wasn't tall, but in that moment, she looked ten feet high.
+
+"I dumped him in front of the entire football team," Paige said, her voice turning into steel. "Because he made one mistake. He disrespected the Unit."
+
+She took a step toward the boy. "Freddie isn't weight. He's my gravity. And you?" She looked him up and down, unimpressed. "You're just noise."
+
+The boy’s smirk vanished. He looked at Paige, then at Freddie (who was watching with a look of clinical satisfaction), and finally at Jessica, who was inspecting her fingernails like she was deciding which one to use to cut his throat.
+
+"Whatever," the boy muttered, his ego bruised. "You're all weirdos. Enjoy your... group therapy."
+
+He turned to leave, but he found his path blocked.
+
+Dr. Thorne was standing there.
+
+She had exited the classroom quietly, holding her stack of files. She had heard the last part of the exchange. She looked at the boy over the rim of her glasses.
+
+"Mr. Henderson," Dr. Thorne said. Her voice was calm, but it carried the weight of the Dean's office.
+
+"I was just leaving," the boy stammered.
+
+"You are," Dr. Thorne agreed. "And you won't be coming back."
+
+"What?"
+
+"I heard your comment," Dr. Thorne said. "And I observed your conduct. Harassing students in the lobby after class constitutes a violation of the safe space policy I outlined thirty minutes ago."
+
+She pulled a pen from her pocket and made a mark on her roster.
+
+"I suggest you visit the registrar immediately, Mr. Henderson. You have been dropped from HPE 204. I will not have students who treat anatomy like a joke and my classroom like a pickup bar."
+
+The boy’s face went pale. He looked at Paige, then at the professor. He realized, too late, that he had walked into a minefield.
+
+He fled. The double doors swung shut behind him.
+
+Dr. Thorne watched him go, then turned to the bench. She looked at Freddie.
+
+"The 'Jason Protocol'?" she asked, raising an eyebrow.
+
+"It is a highly effective filter," Freddie confirmed. "It removes incompatible variables from the social circle."
+
+"I can see that," Dr. Thorne smiled faintly. She nodded to Paige. "Good geometry."
+
+Paige grinned, sitting back down and wrapping her arm around Freddie again. "Thanks, Doc."
+
+"Rest up," Dr. Thorne said, walking toward her office. "Wednesday's lecture is on Physiology. It’s dense."
+
+Freddie leaned back against the wall. The lobby was quiet again. The threats—the girl, the boy—had been neutralized.
+
+"Two for two," Jessica noted. "We are clearing the roster."
+
+"Efficiency," Freddie whispered, closing his eyes. "Now... can we catch the bus?"
+
+"Yeah," Paige said, squeezing him tight. "Let's go home."
+

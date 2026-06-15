@@ -1,0 +1,84 @@
+# Part 8: The Vitality Roster – Friday, May 10, 2045 – 14:30
+
+The revelation that their mountain fortress included a fully equipped obstetric suite completely changed the gravity of the afternoon.
+
+Sarah dismissed the holographic table, the glowing blue interface fading back into the glass. She looked at Wyatt, her dark eyes shining with a mix of nervous anticipation and profound excitement.
+
+"I want to see it," Sarah said, her voice soft but absolute. "I want to see the medical wing."
+
+"Let's go," Wyatt agreed immediately, standing up and taking her hand.
+
+They left the quiet, mahogany-paneled library and walked completely bare down the polished stone corridor to the pneumatic elevator. The brushed-steel doors sealed, and the lift dropped them smoothly to Sub-Level 1.
+
+When the doors parted, the warm, fire-lit ambiance of the upper decks vanished, replaced by crisp, brilliant white daylight LEDs. The air smelled entirely sterile, perfectly filtered through hospital-grade scrubbers.
+
+They stepped into the medical wing.
+
+It was a sprawling, immaculate facility divided by heavy glass bulkheads. To their left was a standard, state-of-the-art examination room. It featured a plush diagnostic bed, localized bio-scanners, and a sleek, multi-monitor ultrasound machine sitting quietly in the corner, waiting to be used.
+
+Sarah walked into the room, her bare feet silent on the pristine, anti-microbial floor. She stopped in front of the ultrasound monitor, reaching out to gently trace the edge of the screen.
+
+A sudden, overwhelming wave of emotion hit her. Back on the agricultural colonies, having a child was a terrifying gamble. The medical care was abysmal, the corporate quotas were ruthless, and children were often viewed as immediate liabilities.
+
+But here, standing in a multi-billion-credit sanctuary, the fear was completely gone.
+
+"We really have everything," Sarah whispered, her hand dropping to her stomach. "We have the space. We have the food. Aria can teach them anything they want to know. And we have the means to keep them perfectly healthy before they're even born."
+
+Wyatt stepped up behind her, wrapping his massive arms around her waist and resting his chin on her shoulder. He looked at the blank monitor, a fierce, protective warmth radiating from his chest.
+
+"January," Wyatt murmured, kissing the curve of her neck. "We'll be down here in January."
+
+Sarah leaned back against him, closing her eyes and letting the sheer, perfect reality of their future wash over her. She was terrified of the unknown, but she had never been more excited for anything in her life.
+
+After a few minutes, Wyatt gently turned her toward the glass bulkhead dividing the suite.
+
+On the other side of the glass was a completely different kind of medical facility. It was a massive, dimly lit laboratory filled with rows of sleek, liquid-filled, ovular chambers.
+
+"The automated gestation pods," Sarah realized, her breath catching slightly.
+
+"For the Genesis cohort," Wyatt nodded. "When we finally wake the neighbors up, this is where they'll grow."
+
+Sarah stepped up to the glass, looking at the silent, empty pods. They had built an intranet page to track them, but seeing the physical hardware required to artificially bring fifty thousand embryos to term made the scale of their responsibility feel incredibly tangible.
+
+"Aria," Sarah called out, her analytical mind snapping back into focus. "I want to see the vault again."
+
+*"Accessing the subterranean lifts, Sarah,"* Aria chimed perfectly.
+
+They walked back to the pneumatic elevator, riding it deep into the freezing bedrock beneath the estate until the doors parted to reveal the icy-blue, cavernous expanse of the Genesis Vault.
+
+The air was shivering cold, making the Eden Rule immediately noticeable, but neither of them backed away. They walked straight down the center aisle, flanked by the massive, humming cryogenic stasis pillars, until they reached the circular command terminal.
+
+The glass interface woke up at their approach.
+
+"Aria, bring up the final demographic breakdown of the entire vault," Sarah instructed, rubbing her bare arms against the chill. "We queried for isolated bloodlines earlier, but I want to know the exact percentages of the total population. How many boys and how many girls do we have?"
+
+The three-dimensional holographic projection bloomed above the terminal, but instead of a massive web of genetic nodes, it compiled a clean, easy-to-read statistical chart.
+
+*"Compiling total viability roster,"* Aria replied. *"For historical context, the original extraction protocol on Earth yielded approximately eighty-four thousand fertilized subjects. However, the architect mandated that only genetically flawless specimens capable of absolute vitality be preserved. The culling process isolated exactly fifty thousand viable embryos. The demographic breakdown is as follows:"*
+
+The plain text statistics materialized in the air:
+
+- Total Embryos: 84,000 (non-viable Embryos already discarded)
+
+- Total Viable Embryos: 50,000
+
+- Female (XX): 25,200 (50.4%)
+
+- Male (XY): 24,800 (49.6%)
+
+"It's a perfect split," Wyatt noted, his eyes scanning the numbers. "Slightly organic, but incredibly balanced. He made sure the first generation wouldn't face a demographic bottleneck."
+
+"Fifty thousand perfect starts," Sarah whispered, her eyes reflecting the glowing blue data.
+
+She looked out over the endless rows of frosted pillars. They were holding the absolute best of humanity, perfectly preserved, just waiting for the day when the planet above them was ready to receive them.
+
+"We keep them asleep," Sarah said softly, turning to look at Wyatt. The nervous anticipation she had felt upstairs in the medical wing was entirely replaced by an unwavering, pioneer resolve. "We build the garden. We figure out the estate. We have our own children first, so they know how to walk the earth. And then, we wake them up."
+
+"Exactly," Wyatt agreed, taking her hand and leading her away from the freezing terminal.
+
+They had mastered the physics of their ship, mapped the digital architecture of their sanctuary, and verified the biological future of their entire species.
+
+It was a staggering amount of progress for a single day.
+
+As the pneumatic elevator carried them back up to the warmth of the living quarters, Wyatt pulled Sarah close, profoundly grateful for the genius of the billionaire who built this place, and even more grateful for the woman standing beside him.
+

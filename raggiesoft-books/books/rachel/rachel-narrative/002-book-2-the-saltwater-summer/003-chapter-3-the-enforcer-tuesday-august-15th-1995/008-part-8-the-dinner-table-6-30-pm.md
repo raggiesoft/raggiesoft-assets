@@ -1,0 +1,62 @@
+# Part 8: The Dinner Table – 6:30 PM
+
+Dinner at the Delaney Street house had always operated on a very specific, unspoken audio frequency. Dad would talk about work, Mom would ask about our days, and Jessica would carry the bulk of the sibling conversation. I would give flat, one-word answers, and Rachel would communicate entirely through soft hums, sharp points, and the occasional tug on Mom’s sleeve.
+
+Tonight, the frequency was completely blown out.
+
+We were sitting around the kitchen table, plates full of the spaghetti and garlic bread Mom had been preparing earlier. Baby, the massive Great Dane-sized Lab, had his heavy chin resting unapologetically on Dad's thigh, hoping for a stray meatball. Archie was sitting right beside Rachel’s chair, his milky blue eye locked on her, a drool-soaked tennis ball clamped firmly in his jaws.
+
+And Rachel was talking.
+
+She was trying, at least. Back at the Dojang, her voice had been fueled by a massive, unprecedented spike of adrenaline and pure, righteous anger. It had punched through the neurological roadblock through sheer force of will. But now, sitting in the calm, safe environment of the kitchen, the adrenaline was completely gone. She was left with the physical reality of an eight-year-old's complex internal vocabulary trapped behind vocal cords and jaw muscles that had absolutely no idea how to keep up with the data transfer.
+
+"And... and then..." Rachel started, holding her garlic bread in the air like a microphone. Her eyebrows knitted together in deep concentration, her mouth moving slightly before the sound actually came out. "Then... the mat... it was... b-b-blue."
+
+She let out a sharp, frustrated breath, dropping the bread onto her plate. She looked at me, her dark eyes flashing with annoyance as her tongue tripped over the consonants.
+
+"It's okay, baby," Mom said instantly, leaning forward. She had practically abandoned her own dinner, her eyes entirely glued to Rachel. "Take your time. You don't have to rush."
+
+"My mouth," Rachel rasped, rubbing her jawline with her small hand. She swallowed hard, clearly feeling the physical friction of using the unpracticed muscles. "It is... heavy."
+
+"It's like a muscle you haven't used at the gym yet," Jessica chimed in gently from across the table, offering the perfect neurotypical translation. "You just have to warm it up, Rachel. It takes practice."
+
+Dad was sitting at the head of the table, cutting his spaghetti, but he hadn't taken a bite in five minutes. He was just watching her, a permanent, awe-struck smile etched onto his face.
+
+"I need to call the clinic tomorrow," Mom murmured, almost to herself, though she was looking at Dad. Her brain was already shifting into logistics mode. "I need to get her an emergency appointment with her speech pathologist. They need to do a new evaluation. And Dr. Aris. We have to update her entire IEP for school before September. This changes... Tom, this changes everything."
+
+"Let her just eat dinner first, Ellen," Dad chuckled softly, reaching out to squeeze Mom's hand. "One miracle at a time."
+
+Rachel ignored the administrative talk. She looked down at Archie, who let out a muffled whine around his tennis ball, aggressively wagging his tail to ensure she noticed how excellent it was.
+
+"Archie has... the ball," Rachel stated, her voice slow and deliberate. She hit the syllables a little too hard, overcompensating for the lack of practice, but the words were clear. "It is... wet."
+
+"Yeah, it's super gross," I agreed, taking a bite of my dinner.
+
+Rachel looked at me and smiled. It was a completely different smile than the one she usually wore. It wasn't tight or guarded; it was loose and triumphant.
+
+"Michael," she said, testing my name again. She seemed to like the way the sounds felt in her mouth. She pointed a sticky, garlic-buttered finger across the table at Jessica. "Jessica. Dad. Mom. Baby. Archie."
+
+She was cataloging the room out loud, anchoring herself to the physical space using her new tool. Every time she said a name, the corresponding family member stopped eating and smiled back at her.
+
+"That's right, sweetie," Dad said, his voice thick with emotion. "You've got us all."
+
+Rachel nodded, satisfied. She picked her garlic bread back up, took a massive bite, and then swung her legs under the table. Her foot accidentally kicked my shin. Normally, an unexpected physical touch like that would make me flinch, but tonight, I didn't mind.
+
+"Sorry," she mumbled around a mouthful of bread.
+
+"It's fine," I said.
+
+We fell into a comfortable silence for a few minutes, the only sounds being the clinking of silverware against ceramic plates and Archie’s tail thumping against the cabinets. The frantic, exhausting energy of the Dojang was completely gone, replaced by the heavy, warm safety of the kitchen.
+
+Suddenly, Rachel swallowed her food, took a deep breath, and looked directly at Mom.
+
+"Can I... have... more... juice?" she asked, stumbling slightly over the 'j' sound, but forcing the sentence out with sheer willpower.
+
+Mom practically launched herself out of her chair. "Yes! Yes, absolutely. Apple or grape?"
+
+Rachel didn't even have to think about it. It was the undisputed superior choice among the three of us.
+
+"Apple," she declared.
+
+It was going to take months of speech therapy, endless frustration, and a lot of patience to get her caught up to her peers. But sitting there at the Delaney Street table, watching Mom enthusiastically pour a massive glass of apple juice, I knew the worst part was over. Master Curtis had tried to break her, but all he had done was hand her the keys to the castle.
+

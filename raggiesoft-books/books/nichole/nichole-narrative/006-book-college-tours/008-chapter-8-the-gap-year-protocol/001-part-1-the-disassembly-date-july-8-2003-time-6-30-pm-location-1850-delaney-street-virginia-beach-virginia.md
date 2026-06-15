@@ -1,0 +1,36 @@
+# Part 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia
+
+The thirteen-hour drive south felt different than the drive north. The crushing weight of the Putney College disaster had been left somewhere in the Green Mountains, replaced by the humming energy of a concrete plan.
+
+Tom pulled the heavy transport van into the driveway at 1850 Delaney Street. The neighborhood was quiet, the Virginia heat radiating off the asphalt. Down the block, Patrick could see the brick façade of Morrison Middle School—the site of the infamous "Curb Trap" of 1996. It was the place where they had first learned that the world was not built for them.
+
+Now, they were leaving it behind to go find a world that was.
+
+Patrick lowered the hydraulic lift. As Nichole’s wheels hit the familiar concrete of the driveway, she didn't look at the school. Her lap tray was occupied by the heavy cardboard box containing the Apex ConvertiBook 3500.
+
+"Home sweet home," Tom sighed, putting the van in park. "For a few more weeks, anyway."
+
+"Let's get inside," Ellen said, grabbing the bags. "We have a house to pack."
+
+The reality of the "Gap Year Protocol" settled in over the next few weeks. The house on Delaney Street became a staging ground. In the living room, Tom stacked moving boxes. In the kitchen, Ellen made lists of doctors, specialists, and state Medicaid transfer forms that would need to be routed to Rhode Island.
+
+But in the master bedroom that the twins shared, the disassembly of their childhood was in full swing.
+
+Patrick pulled a cardboard box marked *BOOKS* from the closet. He began pulling down his sci-fi paperbacks and Nichole's heavy hardcovers. They had shared this room for years. There were no boundaries between their things.
+
+Nichole sat parked at her desk in the corner. She wasn't packing. She was compiling.
+
+The new Apex ConvertiBook was bolted securely to her lap tray. The bright blue taskbar of Quantum OS XN Professional glowed in the dim room. Next to it sat her standard, corded Quantum OptiMouse.
+
+Her right forearm was anchored to the tray—the "1993 Method" she had perfected on the old family PC. Her index finger dropped like a piston. *Clack. Clack. Clack.*
+
+She was coding in Quantum Basic 6.0. Patrick looked over her shoulder. She had a module open, and he could see she was rewriting the directory paths for her old .BAS voice files to work with the newer text-to-speech engine.
+
+"You're porting the whole library?" Patrick asked, impressed.
+
+Nichole clicked the scroll wheel on the mouse, nodding. She tapped a newly created button on her screen. The standard synthetic voice spoke.
+
+"NEW. STATE. NEW. VOICE."
+
+Patrick smiled. It was true. For years, the heavy, baritone voice of the VocaLink software—"Digital Dan"—had spoken for her. But on this new machine, Nichole had custom-coded a voice profile that was lighter, faster, and distinctly hers. It didn't sound like a medical device. It sounded like a workstation.
+

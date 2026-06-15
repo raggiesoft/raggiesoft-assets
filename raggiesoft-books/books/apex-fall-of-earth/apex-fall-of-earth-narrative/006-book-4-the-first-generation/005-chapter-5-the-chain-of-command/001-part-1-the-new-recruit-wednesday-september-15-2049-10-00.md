@@ -1,0 +1,76 @@
+# Part 1: The New Recruit – Wednesday, September 15, 2049 – 10:00
+
+Sub-Level 1 was no longer a place of terror.
+
+Four years ago, the automated medical bay had been a chaotic, flashing nightmare of emergency triage and severe prematurity. Today, the ambient lighting was a calm, soothing blue, and the atmosphere was entirely relaxed.
+
+Sarah Colton lay comfortably on the primary bio-bed. At twenty weeks pregnant, she had a small, distinct bump, but the devastating, skeletal exhaustion that had defined her first pregnancy was completely absent. Carrying a single child was, by comparison, an absolute vacation for her resilient body.
+
+Wyatt stood beside the bed, his heavy hand resting warmly on her ankle. He wasn't gripping the edge of the mattress in a panic. He was just watching the holographic medical projector humming above Sarah’s abdomen.
+
+A few feet away, parked safely out of the way of the medical equipment, was the Chariot.
+
+The Vanguard, now fully established three-year-olds, were observing the medical protocol. Leo was strapped into his center seat, his customized AAC tablet resting securely on his lap tray. Nora was standing at the back of the wagon, leaning against the padded bar to support her left leg, watching the glowing blue hologram with wide, empathetic eyes.
+
+And Ellie was pacing.
+
+She was marching a tight, defensive perimeter around the bio-bed, her heavy boots squeaking softly on the sterilized floor. Her arms were crossed over her chest, her dark eyes intensely tracking every movement Aria’s automated scanner made.
+
+"Maternal vitals are absolutely optimal, Sarah," Aria’s synthesized voice chimed pleasantly from the ceiling array. "Blood pressure is stabilized. Nutrient reserves are at one hundred percent. The fetus is measuring exactly at twenty weeks, three days. Development is perfectly aligned with a full-term, forty-week gestation trajectory."
+
+Wyatt let out a long, deeply contented sigh. "Full term. No incubators this time."
+
+"He feels incredibly strong, Wyatt," Sarah smiled, looking at the glowing blue rendering of the tiny spine and perfectly formed limbs hovering above her. She looked up at the ceiling array. "Aria, you said 'he'. Can you confirm?"
+
+"Affirmative, Sarah," Aria replied, the holographic image rotating slightly to highlight the structural data. "Genetic sequencing and localized imaging confirm the biological sex. You are having a single, healthy baby boy."
+
+"A boy," Wyatt rumbled, a massive, brilliant grin breaking across his scarred face. He leaned down, pressing a deep kiss to Sarah's forehead. "A little brother for the squad."
+
+The word acted like a physical trigger.
+
+Ellie instantly stopped her pacing. She pivoted on her heel and marched directly up to the bio-bed. She grabbed the metal rail, pulled herself up onto her tiptoes, and stared intensely at the blue hologram of the fetus.
+
+She studied it for three seconds. Her tactical brain processed the new logistical asset.
+
+Ellie let go of the rail and pointed a tiny, dictatorial finger directly at Sarah’s stomach.
+
+"Mama's New Baby," Ellie announced loudly. Her articulation was sharp, leaving absolutely no room for misinterpretation.
+
+She then pulled her hand back, pressing her thumb firmly against her own chest.
+
+"Mine."
+
+Wyatt blinked, looking down at his fiercely territorial three-year-old daughter. He crossed his massive arms, trying to inject a little bit of parental authority into the situation.
+
+"Actually, Ellie," Wyatt corrected gently, his voice rumbling with an amused warmth. "Aria and I are in charge of the medical logistics. We're going to take care of Mama and the new baby."
+
+Ellie didn't even flinch. She slowly turned her head, fixing Wyatt with a dark, uncompromising glare that could have melted through a dreadnought's hull. She didn't throw a tantrum. She simply repeated her command structure, slower and louder, ensuring the massive S.H.O.P. Marine understood his place in the hierarchy.
+
+"Mama's New Baby," Ellie stated, her eyes locking onto his. "Mine. I in charge."
+
+Sarah clapped her hand over her mouth to muffle a bark of laughter, her shoulders shaking against the bio-bed.
+
+Wyatt stared at the tiny three-year-old. He had built the Aegis shield to keep the galaxy out, but he was completely powerless against the absolute, unshakeable authority of his oldest daughter. She had appointed herself the commanding officer of the new recruit, and there was no force in the universe that was going to convince her otherwise.
+
+"Copy that, Commander," Wyatt surrendered seamlessly, holding his hands up in defeat. "The new recruit is under your jurisdiction."
+
+Satisfied that the chain of command had been properly established, Ellie gave a single, firm nod. She marched back over to the Chariot to update the rest of the Vanguard.
+
+She tapped the wooden rail. "New baby. Mine."
+
+Nora let out a soft, breathy giggle. She leaned over the side of the wagon, completely supportive of her sister's new promotion. She carefully reached out and guided Leo's hand down to his tablet.
+
+Leo’s intense, repetitive humming paused. He looked down at the bright, high-contrast grid. With Nora's gentle guidance steadying his spasming muscles, he slammed his palm down onto a green square.
+
+"Good," the tablet's automated voice announced clearly.
+
+Leo let out a loud, joyous vocalization, a massive smile spreading across his face as he looked at Ellie. The Vanguard was in absolute agreement. The new baby was theirs to protect, manage, and integrate into the unit.
+
+Wyatt looked at Sarah, a deep, beautiful peace settling over him.
+
+"Well," Wyatt smirked, intertwining his fingers with Sarah's. "I guess we don't have to worry about hiring a babysitter."
+
+"She's going to run him through boot camp the second he learns how to walk," Sarah laughed, her hand resting warmly over the new life growing inside her.
+
+They were going to make it to forty weeks. The new baby was going to be born into a completely stable, fully functioning fortress, completely insulated from the horrors of the galaxy. And most importantly, he already had a three-year-old commanding officer fiercely dedicated to his survival.
+

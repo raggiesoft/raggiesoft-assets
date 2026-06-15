@@ -1,0 +1,44 @@
+# Part 3: The King Bed Defense
+
+## 10:30 AM
+
+Dr. Arrington picked up his notepad again. "Let's talk about regulation. How do you reboot? How do you handle the 'static'?"
+
+Freddie hesitated. The voice of his father—the "Robert Virus"—flared up in his mind. *Don't tell him. He'll think you're a freak. He'll take you away.*
+
+He felt Paige’s hand tighten around his. She rubbed her thumb over his knuckles.
+
+"I require... deep pressure," Freddie said, his voice trembling slightly. "Tactile grounding."
+
+"Like weighted blankets?"
+
+"Better," Freddie said. "I have a twin."
+
+Dr. Arrington looked at Paige. "You provide the pressure?"
+
+"I do," Paige said, her voice steady and protective. "We hug. Hard. And... we sleep together."
+
+The silence in the room was heavy. The air conditioner hummed.
+
+"In the same bed?" Dr. Arrington clarified.
+
+"Yes," Paige said, lifting her chin defiantly. "A King Size. Us and our older sister, Jessica. We sandwich him. It stops the night terrors."
+
+She waited for the judgment. She waited for the lecture about boundaries or age-appropriateness.
+
+Dr. Arrington didn't frown. He didn't look disgusted. He nodded slowly, seemingly impressed.
+
+"Co-regulation," he said.
+
+Freddie blinked. "Variable definition?"
+
+"Co-regulation," Dr. Arrington repeated. "Your nervous system is dysregulated. Hers is calm. By maintaining physical contact, she acts as a grounding wire. You've built a biological life-support system."
+
+He wrote something down on his pad. "Given your history... it is brilliant."
+
+Freddie let out a breath he felt like he’d been holding since childhood. *Brilliant.* Not sick. Not weird. *Brilliant.*
+
+"So... we can keep the bed?" Freddie asked.
+
+"Freddie," Dr. Arrington said seriously. "If it works, you keep it. You do whatever you need to do to survive the static."
+

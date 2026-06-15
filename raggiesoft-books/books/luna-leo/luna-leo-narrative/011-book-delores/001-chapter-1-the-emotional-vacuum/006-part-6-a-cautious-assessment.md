@@ -1,0 +1,26 @@
+# Part 6: A Cautious Assessment
+
+As the remnants of their lunch were cleared away, Stella glanced at her watch. "Alright, team, the salt mines are calling. I've got to get back to the office," she said, a note of reluctance in her voice.
+
+As she stood to leave, Delores saw her opening. She turned to Leo, a bright, performative smile on her face, keenly aware that Stella was watching. "It was so great to finally meet your sisters, Leo," she said, pulling a slip of paper from her purse. "Here's my number. Call me any time. I'd love to get together to study. I can't wait to see you again."
+
+She then leaned in and gave him a hug. It was brief, but to Leo, something felt a little off. It wasn't warm or comforting like the hugs he received from his fortress. It felt a little too tight, a little too deliberate. It was forced. It didn't feel like a hug from Olivia, or Luna, or Stella, or even his Grandma Eleanor. It was different, and he stored a mental note that something did not seem right about it.
+
+"Bye, Leo!" she chirped, and with a final, bright wave, she was gone, disappearing into the mall crowd.
+
+With Delores finally away, the atmosphere at the table instantly relaxed. "Okay," Stella said, her voice a low, serious murmur. "What's the verdict?"
+
+"She seems... nice?" Luna offered, though her tone was more of a question than a statement.
+
+"She does," Stella agreed, her expression thoughtful. "And it's great that she offered to help you with algebra, Leo. But..." She paused, her gaze meeting Leo's. "Did you see her face when you showed her the picture of Olivia? The way her smile just... tightened? That was weird."
+
+Leo nodded, confirming he had noticed it too. He appreciated his sister's sharp, protective instincts. It was a small thing, but it was another piece of the puzzle.
+
+"Just... be careful, okay?" Stella said, her voice full of a love that was fierce and protective. "We're cautiously optimistic, but we're watching." She pulled both of her siblings into one last, tight hug. "Okay, I really have to go now. You two have your intro to computers class next, right?"
+
+"Yep," Luna confirmed. "Together, thank goodness."
+
+"Alright. Call me when you're done. Love you guys."
+
+With a final wave, Stella was gone, leaving the twins to make their way to their next and final class of the day: a shared, afternoon introduction to computers class. It was a class primarily designed for senior citizens learning to use a computer for the first time, but Stella, in her wisdom, had enrolled them in it, hoping the slow, gentle pace would help them get over their anxiety of modern computers. The twins had agreed to at least give it a try. This would be their first time confronting a modern computer with a modern operating system head-on, without Stella's help. As they walked towards the classroom building together, a united front, they both felt a familiar knot of technological dread, but also the quiet strength of facing it, side-by-side.
+

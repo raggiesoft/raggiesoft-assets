@@ -1,0 +1,64 @@
+# Part 5: The Barracks
+
+## Location: Barnett Hall, Suite 204 Time: 1:35 PM
+
+They left the medical sterility of Rothrock and walked across a patch of manicured grass to Barnett Hall.
+
+If Rothrock was a hospital, Barnett was a barracks. It was a two-story brick block with narrow windows. Inside, the lobby was sparse—a few vinyl chairs and a bulletin board covered in rules about curfew and hygiene inspections.
+
+"Barnett is where our Level 2 clients reside," Mr. Swayne explained, swiping his keycard to open a heavy fire door. "It operates on a suite system to encourage socialization and shared responsibility."
+
+He led them into a ground-floor suite.
+
+"This is a standard male suite," Swayne gestured.
+
+Patrick looked around. It was tight. The common area was just a narrow hallway. Branching off this hallway were three bedrooms.
+
+"Three bedrooms per suite, two clients per room," Swayne recited. "So, Patrick, you would have five suitemates."
+
+He opened one of the bedroom doors. It was small. Two twin beds. Two desks. Two wardrobes. It smelled of stale deodorant and gym socks.
+
+"And the facilities?" Ellen asked, looking for the bathroom.
+
+Swayne pointed to two doors at the end of the suite hall.
+
+"Efficiency is key here. Door one is a half-bath—sink and toilet. Door two is the full bath—sink, toilet, and a tub-shower combination."
+
+Patrick did the math instantly. Six guys. One shower. Two toilets.
+
+He thought about his morning routine. It wasn't fast. With his hemiplegia, showering took coordination and time. Dealing with five other guys fighting for one shower in the morning? It would be a nightmare.
+
+But it was the next rule that dropped the hammer.
+
+Swayne turned to Nichole, who was parking her chair near the suite entrance to avoid blocking the narrow hall.
+
+"Now, it is important to be clear about boundaries," Swayne said, clasping his hands. "Nichole, you are only permitted inside Barnett Hall today because this is an official tour."
+
+He looked sternly at the twins.
+
+"Once enrolled, Rothrock clients are strictly prohibited from entering Barnett Hall. That includes the lobby. You are not to visit Patrick's room, and he is not to visit yours."
+
+"Wait," Tom stepped forward, his voice low and firm. "We told you back in the office. Patrick is her primary care attendant. He assists with transfers, meals, stretching..."
+
+"Not here," Swayne interrupted. "Here, that is the job of our paid staff. Patrick is here to be a student in the Food Service program, not a nurse. We find that when family members act as caregivers, it creates... unhealthy dependencies. We want Patrick to focus on his own vocational goals, like learning to chop vegetables, without worrying about his sister."
+
+Ellen’s face went pale. They weren't just offering services; they were actively trying to amputate Patrick from Nichole's life. They viewed his devotion as a "barrier to employment," not a strength.
+
+"So," Patrick said, his voice deadly quiet. "I sleep in this barracks with five strangers. She sleeps in the hospital with the rails up. And we only see each other... when?"
+
+"During unstructured time," Swayne smiled, as if this was a generous perk. "After classes end at 4:00 PM. On weekends. You can meet in the Rec Hall or the cafeteria. But living quarters are sacred, separate spaces."
+
+Patrick looked at the grim suite. He looked at the narrow shower door. Then he looked at Nichole.
+
+She was sitting in the hallway, looking small. The message was clear: *You are the burden. We are freeing him from you.*
+
+It was the exact opposite of the truth. Patrick didn't want to be "freed." He wanted to be effective. He wanted to be with her.
+
+Nichole tapped her armrest. Turtle Mode Level 2. She didn't want to see the suite anymore. She didn't want to imagine Patrick living here, stripped of his purpose, waking up alone in a room with a stranger while she woke up alone in a cage.
+
+"Let's go," Patrick said, spinning the chair around abruptly, nearly clipping Swayne’s shins. "Show us the Rec Hall. I want to see where we're 'allowed' to meet."
+
+Swayne checked his watch, seemingly oblivious to the tension radiating off the family. "Excellent. The Rec Hall is right this way. It's the heart of our social life."
+
+Tom and Ellen exchanged a look behind Swayne’s back. It was a look of grim determination. They were done listening. Now, they were just gathering evidence to confirm the "No."
+

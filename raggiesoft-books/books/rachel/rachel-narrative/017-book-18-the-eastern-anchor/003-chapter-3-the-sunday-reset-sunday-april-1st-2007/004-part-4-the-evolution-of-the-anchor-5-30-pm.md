@@ -1,0 +1,35 @@
+# Part 4: The Evolution of the Anchor – 5:30 PM
+
+We actually fell asleep. It wasn't just a brief, restorative rest; the heavy, biological toll of the time zone shift dragged us both down into a deep, motionless slumber.
+
+Lying stomach-to-stomach was a brand-new configuration for us—the very first time we had ever cuddled exactly like this—but the physics of it were absolutely flawless. The solid, evenly distributed weight of Rachel's body pressing flush against my chest and stomach completely silenced the frayed edges of my nervous system.
+
+At some point in the late afternoon, the fog of sleep thinned just enough for me to crack my eyes open.
+
+Mom was standing in the archway of the living room, holding a dish towel. Through my half-open eyes, I saw the initial, instinctual flicker of neurotypical judgment cross her face. It was the ghost of Grandma Helen’s old, rigid insistence—the societal reflex screaming that a twenty-two-year-old man and a twenty-year-old woman tangled together under a blanket simply wasn't proper.
+
+But the judgment didn't last a single microsecond.
+
+Mom's expression instantly softened, melting into a deep, profound understanding. She remembered the terrified kids huddled on the bottom bunk in 1993. She remembered the medical binders, the trauma of the Dojang, and the desperate, crushing bear hugs we used to literally hold each other together. She recognized that the two adults sleeping on the blue leather sofa weren't violating any boundaries; this was just the natural, necessary evolution of the deep-pressure grounding we had always relied on to survive.
+
+She smiled softly, turned around, and walked back into the kitchen without saying a single word.
+
+An hour later, the rich, savory aroma of roasting garlic and butter began to drift into the living room, pulling us both fully back to consciousness. Rachel let out a quiet, raspy groan, her cheek sliding against my collarbone as she slowly stirred.
+
+"It smells like dinner," I whispered, my voice rough and heavy with sleep.
+
+"I don't want to move," Rachel mumbled into my shirt, tightening her arms around my back.
+
+"I don't want you to get off, either," I admitted, closing my eyes and savoring the heavy, comforting pressure.
+
+But Mother Nature is entirely apathetic to neurodivergent comfort. The biological imperative of waking up after a long nap was pressing hard against both of us; we desperately needed to use the restroom.
+
+We groaned in synchronized reluctance. Rachel slowly pushed herself up, the loss of her weight instantly making my chest feel strangely light and cold. I reached over to the glass coffee table, grabbed my glasses, and slid them onto my face. The blurry, shadowed edges of the living room immediately snapped back into sharp, predictable focus. Rachel sat up beside me, rubbing her dark eyes, and reached for her own frames, slipping them on to face the waking world.
+
+The spell of the blue leather anchor was officially broken.
+
+We shuffled down the hallway, perfectly executing our standard routine. Rachel took the downstairs bathroom first, locking the door for her privacy. When she emerged a few minutes later, I took my turn, splashing a little cold water on my face to manually reboot my groggy processor.
+
+We migrated together into the dining room, following the incredible smell of the food. We pulled out our chairs and sat down, naturally positioning ourselves shoulder-to-shoulder at the table. Our biological clocks were still heavily scrambled from the Pacific Northwest, and we were completely exhausted, but our stomachs were loudly demanding fuel. The Sunday reset was nearly complete, and we were absolutely ready to eat.
+
+

@@ -1,0 +1,48 @@
+# Part 3: The One-Month Trial
+
+The month of October was a noisy one in the Porter household.
+
+The living room had become Luna’s practice studio. Every afternoon, after homework and before dinner, she would sit on the edge of the sofa, the rental flute pressed against her chin, her brow furrowed in intense concentration.
+
+The flute was unforgiving. Unlike the saxophone, which was eager to make noise, the flute required a Zen-like precision. If her angle was off by a millimeter, or if she smiled too much, the sound vanished into a hollow *whoosh* of air.
+
+But Luna was stubborn. And she had a dedicated audience.
+
+Leo sat in his wheelchair across from her, his history textbook open on his lap, but his eyes fixed on her. He was her metronome and her morale officer.
+
+"Okay," Luna exhaled, shaking out her hands. "Scale of F Major. Attempt number... I lost count."
+
+She raised the flute. She set her mouth. She blew.
+
+Tooo-tooo-tooo-tooo...
+
+The notes were clear. They weren't thin or breathy. They were solid, round, silver tones. She moved up the scale, her fingers navigating the keys with a dexterity she hadn't possessed four weeks ago. She hit the high F, held it, and let it taper off into silence.
+
+She lowered the flute, looking at Leo.
+
+He didn't hesitate. He tapped his **Quantum Communicator**.
+
+"CLEAR. STEADY. YOU GOT IT."
+
+Stella walked in from the kitchen, drying her hands on a towel. She had been listening from the other room for weeks—hearing the frustration, the swearing, the breathless failures, and now, the music.
+
+"That," Stella said, leaning against the doorframe, "actually sounded like music."
+
+Luna grinned. "It's getting easier. I think I figured out the lip thing."
+
+Stella looked at the battered black plastic case of the rental instrument sitting on the coffee table. It was scratched, the latches were sticky, and it smelled vaguely of the previous student's lunch.
+
+"You like it?" Stella asked. "The flute, I mean. Not just the idea of it, but playing it?"
+
+"I love it," Luna said honestly. "It's... it's different than the sax. It feels like it's coming from inside me, not just through a reed. And I'm getting close to the song. The *Signal* song."
+
+Stella nodded once, a decision made. She checked her watch. "Get your coat."
+
+Luna blinked. "Why? Where are we going?"
+
+"To the music store," Stella said, grabbing her keys from the bowl. "Grab that plastic case. We're returning it."
+
+"But—" Luna started, panic flaring. "I'm not done! I need to practice!"
+
+"I know," Stella smiled, spinning the keys to the **Holt Sentinel** on her finger. "But we don't rent in this family, Lu. If you're going to play, you're going to play on something that belongs to you. We're going to buy one."
+

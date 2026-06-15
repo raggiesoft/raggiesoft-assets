@@ -1,0 +1,390 @@
+# Chapter 2: The Heart of the World
+
+## Part 1: The Veins of the Earth
+
+Theme: ocean-volcanic
+
+Location: The Crater Rim
+
+POV: Kaelan
+
+=
+
+Seraphina did not run. She did not cower as she had in the square at Sunstead.
+
+She stood on the ridge of jagged basalt, looking down at the twins and the shattered remains of her Magma Golems. The heat shimmering off the lava below blew her dark hair back from her face, revealing burns that had healed into shiny, silver scars—souvenirs from the Shadowspire.
+
+She looked at Kaelan’s sword. Then she looked at the massive, glowing fissure behind her.
+
+"You think this is a hunt, little sun?" Seraphina called down, her voice amplified by the acoustics of the caldera. "You think I am running?"
+
+"You're standing on a cliff with nowhere to go," Kaelan shouted back, stepping over a pile of cooling obsidian shards. "I'd call that cornered."
+
+Seraphina smiled. It wasn't the seductive smile of the Oasis, nor the arrogant sneer of the Occupation. It was the beatific, terrifying smile of a zealot standing at the altar.
+
+"I am not cornered," she whispered, though the sound carried perfectly on the wind. "I am at the threshold."
+
+She turned away from them. She raised her arms toward the cauldrons of blue Void-sludge that her mercenaries had been hauling.
+
+"Feed him!" she commanded.
+
+The remaining mercenaries—fanatics who had followed her from the North—didn't hesitate. They shoved the heavy iron cauldrons over the edge.
+
+Detailed barrels of cold, condensed Void-matter tumbled into the open throat of the volcano.
+
+"No!" Kaela screamed, sensing the reaction before it happened.
+
+*BOOM.*
+
+The impact wasn't physical; it was thermal. The absolute zero of the Void-matter met the two-thousand-degree magma of the mantle.
+
+The volcano didn't just erupt; it screamed.
+
+A pillar of superheated steam, laced with violet lightning, blasted out of the fissure. The ground violently heaved, throwing Kaelan and Kaela off their feet.
+
+The shockwave pulverized the rock bridge Seraphina was standing on.
+
+But she didn't fall.
+
+As the rock crumbled, she leaped backward, catching a rising thermal of dark magic. She didn't look like a spider this time; she looked like a falling ember, dropping willingly into the glowing throat of the mountain.
+
+"Come, then!" her voice echoed from the deep, distorted by the roar of the earth. "Come and see what sleeps beneath the crust!"
+
+Then the smoke swallowed her.
+
+Kaelan scrambled up, coughing in the sulfurous air. "She jumped. She actually jumped."
+
+"She didn't jump," Kaela said, pulling herself up beside him, her eyes wide with horror as she tracked the energy signature plummeting down. "She's riding the pressure wave. She's going to the heart."
+
+The volcano shook again. A crack opened in the black sand beach, spewing lava.
+
+"We have to go after her," Kaelan said, though he looked at the inferno with a rare hesitation. "But if we jump in there, we burn."
+
+"We don't jump," Kaela said, pointing to a dark, jagged opening on the far side of the crater wall—a lava tube that spiraled down into the dark, bypassing the main vent. "We climb. The veins of the earth run deep, Kaelan."
+
+Kaelan sheathed his sword. He looked at the impossible heat, the toxic gas, and the sheer scale of the mountain.
+
+"I promised Horg I'd bring the boat back," he muttered, adjusting his pack.
+
+"The boat is fine," Kaela said, grabbing his hand. "Worry about your eyebrows."
+
+They ran toward the lava tube, descending into the dark red throat of the world, leaving the sky behind for a long time.
+
+## Part 2: The Vertical labyrinth
+
+Theme: seraphina-doom
+
+Location: The Lava Tubes
+
+POV: Kaela
+
+=
+
+The lava tube was a natural tunnel formed eons ago by flowing magma. The walls were smooth, ribbed glass that glowed with a dull, ambient red light from the active flows running parallel to them behind the rock.
+
+It was hot. Oppressively, heavily hot.
+
+Kaela wiped sweat from her forehead. Even with Kaelan absorbing the excess thermal energy—acting as a living heat-sink to keep them from stroking out—the air felt like breathing soup.
+
+They had been descending for hours. The path twisted and turned, dropping in steep, jagged steps.
+
+"My internal compass is spinning," Kaelan grumbled from ahead. "There's too much magnetic interference from the iron in the rock."
+
+"Use gravity," Kaela suggested. "Down is where the bad things are."
+
+"Helpful."
+
+They came to a junction. The tunnel split into three.
+
+One path drafted cool, stale air. One smelled of sulfur. The third vibrated with a low, rhythmic thrumming sound.
+
+*Thump... Thump...*
+
+"Do you hear that?" Kaelan whispered. "Is that the volcano?"
+
+Kaela closed her eyes. She placed her hand on the warm glass wall. She listened not with her ears, but with the Weave.
+
+She filtered out the hiss of steam and the groan of shifting rock. She focused on the rhythm.
+
+It wasn't chaotic like a geological event. It was steady. It was biological.
+
+"It's a heartbeat," Kaela realized, pulling her hand back as if the rock had bitten her. "Kaelan... the mountain isn't making that sound. Something *under* the mountain is sleeping."
+
+Kaelan looked at the third tunnel. "The Star-Eater."
+
+"It's huge," Kaela whispered. "The heartbeat... it's slow. Once every minute. It sounds like... like the ocean floor moving."
+
+"Then that's the way," Kaelan said, drawing his sword. The blade glowed brightly in the gloom, happy to be underground.
+
+They took the third tunnel.
+
+The path grew steeper. The smooth glass gave way to rough, broken rock. They had to scramble down, sliding on loose scree.
+
+Suddenly, Kaelan held up a hand. "Stop."
+
+"What?"
+
+"Light ahead. And movement."
+
+They crept forward, peering around a sharp bend in the tube.
+
+They weren't looking at a room. They were looking at a vast, subterranean cavern. A lake of magma dominated the center, bubbling sluggishly.
+
+But it was what spanned the lake that made Kaelan’s breath catch.
+
+It was a bridge. But it wasn't made of stone or iron.
+
+It was made of bone. Massive, bleached vertebrae the size of boulders, fused together to form a walkway across the fire.
+
+And guarding the bridge were not Golems.
+
+They were Deep-Dwellers. Pale, blind, multi-limbed creatures that scurried on the ceiling and walls, their chitinous armor clicking softly. There were dozens of them.
+
+"Seraphina passed this way," Kaela noted, pointing to a smear of fresh black ichor on the bone bridge. "She didn't fight them."
+
+"She's their queen," Kaelan realized. "Or their priestess. They let her pass."
+
+He looked at the swarm of blind monsters clinging to the stalactites.
+
+"They won't let us pass," he said.
+
+"They're blind," Kaela whispered. "Like the hermit in the woods. They see with sound. With vibration."
+
+Kaelan looked at his heavy boots. He looked at his metal armor.
+
+"I'm not exactly stealthy, Moon."
+
+"No," Kaela agreed. "But you are distracting."
+
+She looked at a cluster of unstable stalactites hanging over the far side of the magma lake.
+
+"If you can hit that," she pointed, "and make it crash... they'll swarm the sound."
+
+"And leave the bridge open?"
+
+"For about ten seconds."
+
+Kaelan grinned. He picked up a loose rock. He hefted it, feeling the weight.
+
+"I was the champion of the rock-throwing contest in Sunstead three years running," he reminded her.
+
+"Jace let you win because he was afraid you'd burn his hair off," Kaela corrected.
+
+"Details. Ready?"
+
+"Ready."
+
+Kaelan stepped out. He wound up. He threw.
+
+The rock sailed across the cavern, arching over the magma lake.
+
+*CRACK.*
+
+It struck the base of the stalactite cluster perfectly.
+
+The massive spike of rock sheared off. It fell, tumbling end over end, and crashed into the lava with a deafening *KA-BOOM.*
+
+The cavern erupted in shrieks. The Deep-Dwellers swarmed toward the noise, scuttling along the ceiling like a tide of pale spiders.
+
+"Run!" Kaela hissed.
+
+They bolted. They sprinted across the bone bridge, their footsteps masked by the hissing of the agitated magma.
+
+They were halfway across when the first Dweller realized the deception. It screeched, turning its eyeless head toward them.
+
+"Go!" Kaelan yelled, shoving Kaela forward.
+
+He paused, turning back. He slammed his hand onto the bone bridge.
+
+*Heat.*
+
+He didn't burn the bridge. He heated the air above it, creating a shimmering thermal distortion wall.
+
+The Dwellers lunged, but the sudden wall of 500-degree air confused their heat-sensing organs. They recoiled, shrieking.
+
+Kaelan turned and ran, catching up to Kaela just as they dove into the tunnel on the far side.
+
+They slid down into the dark, leaving the confused monsters chittering behind them.
+
+"Sunstead champion," Kaelan panted, dusting off his knees.
+
+"Lucky shot," Kaela breathed.
+
+"We're getting deeper," Kaelan said, looking down the throat of the tunnel. "The heartbeat... it's louder."
+
+And it was. The *Thump... Thump...* was no longer a sound. It was a physical impact in their chests.
+
+They were walking into the ribcage of the god.
+
+## Part 3: The Decoy's Eye
+
+Theme: gloom
+
+Location: The Magma Chamber (The Heart)
+
+POV: Kaela
+
+=
+
+The tunnel opened into a cavern that was less a cave and more a hollowed-out cathedral of the damned.
+
+The ceiling was lost in shadow, miles above. The floor was a lake of bubbling magma, broken only by a central island of obsidian.
+
+On that island, suspended in a web of massive, calcified chains, was the Eye.
+
+It was huge—easily fifty feet across—and encased in a shell of semi-translucent amber. It pulsed with a dull, rhythmic light that matched the thrumming sound they had heard in the tunnels.
+
+*Thump... Thump...*
+
+"There," Kaelan whispered, his hand tightening on his sword hilt. "That's it. That's the Star-Eater."
+
+Seraphina stood on a ledge overlooking the Eye. She looked small against the scale of the sleeper. She was surrounded by her remaining mercenaries, who were frantically pouring the last of the blue Void-sludge onto the amber shell.
+
+"Wake!" Seraphina shrieked, her voice cracking with desperation. "I bring you the cold! I bring you the hunger! Wake and feed!"
+
+The sludge hissed as it hit the amber. Violet lightning arced across the shell. The heartbeat accelerated.
+
+*Thump-thump. Thump-thump.*
+
+"We have to stop her," Kaelan said, preparing to charge across the final stone bridge.
+
+"Wait," Kaela said. She grabbed his arm.
+
+She closed her eyes. She reached out with the Circuit, pushing past the heat, past the roar of the magma, trying to touch the mind of the god Seraphina was waking.
+
+She expected an ocean of hunger. She expected a consciousness so vast it would crush her.
+
+She found... a loop.
+
+*Thump... Thump...*
+
+It wasn't a mind. It was a recording. And as her mind brushed against the mechanism, she felt a sudden, answering ping. It wasn't hostile. It felt like a lock recognizing a key.
+
+"It's hollow," Kaela whispered, her eyes snapping open. "Kaelan, stop. It's not a god. It's a machine."
+
+Below them, the amber shell cracked.
+
+Seraphina threw her arms up in triumph. "YES! RISE!"
+
+The shell shattered. The Eye opened.
+
+But it wasn't the eye of a predator. It was a mechanism. The "pupil" was a spinning array of gold and silver gears, grinding together with the sound of tectonic plates.
+
+A beam of pale scanning light swept over the cavern.
+
+It hit Kaelan and Kaela first.
+
+Instead of burning them, the light turned a soft, welcoming gold. A voice boomed from the mechanism—not a living voice, but a pre-recorded greeting left by Guardians dead for a thousand years.
+
+"BIOSIGNATURE DETECTED. LINEAGE: ZENITH. WELCOME, MAINTENANCE CREW."
+
+Kaelan blinked, lowering his sword. "Maintenance crew?"
+
+"SYSTEM STATUS: DORMANT," the machine reported dutifully to the twins. "AWAITING CALIBRATION."
+
+Then, the light swept over the ledge. It hit Seraphina and the bubbling Void-sludge.
+
+The light instantly snapped from gold to a violent, flashing crimson.
+
+"WARNING. CONTAMINANT DETECTED. BIOSIGNATURE: CORRUPTED/VOID."
+
+Seraphina froze. Her smile faltered. "What? No. No, I am the Queen! I am the Successor!"
+
+"TARGET DESIGNATION: FALSE PILGRIM," the voice boomed, shaking dust from the ceiling. "CONTAINMENT BREACHED BY HOSTILE ENTITY. INITIATING STERILIZATION PROTOCOL."
+
+Seraphina stared at the spinning gears. She looked at the bone-scroll map in her hand—the map she had stolen from the wreckage of the Sunstead dais.
+
+"He lied," she whispered. The realization hit her harder than any physical blow.
+
+She looked up, screaming at the ceiling, at the ghost of Malakor.
+
+"YOU LIED TO ME! YOU DIDN'T KNOW WHERE IT WAS! YOU WERE JUST GUESSING!"
+
+The spinning eye began to glow red. The magma lake around the island began to rise, churning violently.
+
+"It's a trap," Kaelan realized, sheathing his sword. "It's a decoy. It recognizes us, but it's set to blow because she touched it."
+
+"EVACUATE, SCIONS," the machine advised, its voice almost apologetic. "PURGE IMMINENT."
+
+"We need to leave," Kaela said, pulling Kaelan back toward the tunnel. "Now! It's going to scrub the island!"
+
+Below, Seraphina came to the same conclusion. She didn't try to fight the machine. She didn't try to save her mercenaries.
+
+She turned and dissolved into a swarm of black moths, shooting straight up toward the distant vent of the volcano, riding the thermal updraft to escape the very mechanism she had tried to enslave.
+
+"She's running again!" Kaelan shouted.
+
+"Let her run!" Kaela yelled over the roar of the rising lava. "If we stay, we cook!"
+
+"PURGE IN 10 SECONDS," the machine announced.
+
+The magma surged. It wasn't just rising; it was being pressurized. The decoy was turning the volcano into a cannon to sterilize the "infection" Seraphina had brought.
+
+Kaelan grabbed Kaela’s hand. "Run!"
+
+They sprinted back up the tunnel. They didn't have to be quiet this time. They just had to be fast.
+
+Behind them, the chamber detonated. The "Eye" self-destructed, releasing a thermal pulse meant to vaporize the corruption in the heart of the mountain.
+
+The heat wave chased them up the tube.
+
+"Kaelan!" Kaela screamed.
+
+Kaelan didn't look back. He grabbed her waist and threw himself forward, sliding on the smooth glass floor of the tunnel like a sled.
+
+He flared his aura, creating a thermal shield behind them—a bubble of cold air to deflect the worst of the fire.
+
+They shot out of the tunnel mouth on the upper ridge just as the volcano blew its top.
+
+## Part 4: The Escape
+
+Theme: ocean-day
+
+Location: The *Iron Keel*
+
+POV: Kaelan
+
+=
+
+They hit the water hard.
+
+Kaelan had dragged them to the skiff, rowing like a demon until they reached the *Iron Keel*. They had cut the anchor line—there was no time to haul it up—and let the current take them.
+
+Now, they watched from a mile out.
+
+The island was gone.
+
+The decoy's self-destruct mechanism had done its job. The central peak had collapsed into the sea, sending a plume of steam and ash twenty thousand feet into the air.
+
+Kaelan stood at the stern, dripping wet, watching the destruction.
+
+"She got away," he said, pointing to a dark streak in the sky moving South—Seraphina's shadow-form fleeing the blast zone.
+
+"She's angry," Kaela noted, wringing seawater from her hair. "She thought she had won. Now she knows she has to keep hunting."
+
+Kaelan went into the cabin and retrieved the bone-scroll map. He unrolled it on the deck.
+
+He looked at the red circle Seraphina had marked over the Sunken Isles.
+
+"Digging in the wrong place," Kaelan muttered.
+
+He looked at the rest of the map. There were other markings—faint, silver runes that were only visible now in the harsh sunlight of the open ocean.
+
+There were five other locations marked across the Glass Sea.
+
+"Decoys," Kaela said, tracing the silver marks. "The Ancients didn't just hide the Star-Eater. They built a minefield of fake gods to protect it. They probably came here to fix them. To keep the traps oiled."
+
+"So we have to check them all?" Kaelan asked, groaning. "And hope the machine likes us enough not to blow up immediately?"
+
+"It liked us fine," Kaela said. "It just hated her."
+
+She looked at Kaelan. She smiled.
+
+"You wanted an adventure, Sun. Looks like you got a scavenger hunt."
+
+Kaelan looked at the map. He looked at the endless ocean. Then he looked at his sister, safe and sound beside him.
+
+"Fine," he said, grabbing the tiller. "Next island. But if I have to fight another rock-monster, I'm complaining."
+
+He turned the boat South, following the fleeing shadow of the Queen, deeper into the Age of Tides.
+

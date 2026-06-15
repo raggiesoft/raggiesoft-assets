@@ -1,0 +1,56 @@
+# Part 8: Bug and Bear – 5:15 PM (PST)
+
+We walked out of Building 35 and made the short walk to the Overlake Transit Center.
+
+The damp evening chill was settling over the city. We boarded a blue-and-white TAPS 564 articulated bus bound for South Hill. Because it was the start of the Thanksgiving rush, the bus was packed. Kristin stood right behind my seat the entire ride down Interstate 405, acting as a physical buffer between me and the crowd.
+
+Forty minutes later, the bus pulled into the Renton Transit Center.
+
+We stepped off onto the wet concrete to make our transfer to the local route. I pulled the collar of my heavy coat up, keeping my head down against the biting wind as we navigated the bustling transit hub.
+
+"Wait," Jessica said suddenly, stopping her wheelchair and peering through the rain toward the local bays. "Is that her? Did she already make it up from Lakewood?"
+
+I snapped my head up, following Jessica's gaze.
+
+Standing under the glow of a sodium streetlamp, wearing a thick peacoat and holding a small duffel bag, was my little sister. She had somehow beaten the Thanksgiving traffic gridlock. She was pacing the concrete, waiting for the 105 bus to take her to Jessica's apartment.
+
+"Rachel!" I yelled, my voice cutting through the noise of the idling buses.
+
+She turned. Her face completely lit up.
+
+I didn't care about the rain or the commuters walking past us. I dropped my guard entirely and ran. Rachel dropped her heavy duffel bag right on the wet concrete and met me halfway across the asphalt. We slammed into each other, my arms wrapping tightly around her shoulders as she buried her face into my chest.
+
+"Bear," Rachel whispered, her voice cracking as she held onto me like a physical lifeline.
+
+"I'm here, Bug," I choked out, the tears mixing with the rain on my face. "I'm safe. I'm really here."
+
+It was the first time we had held each other since the night I had been thrown out into the freezing rain. But this time, there was no monster waiting in the house. We were on the exact same side of the wall.
+
+"Look at you," Rachel sniffled, pulling back to look at my new winter coat, the color finally returning to my face. She looked past me, catching Kristin's eye. Rachel didn't say a word; she just gave her best friend a deep, tearful nod of absolute, unwavering gratitude.
+
+We walked together to the local bay, picked up her bag, and boarded the TAPS 105.
+
+As the teal and yellow bus carried us through the dark, rain-slicked streets toward Jessica's apartment, we sat huddled together in the back row. Surrounded by my entire pack, the exhaustion from the theater started creeping back in, but it was mixed with a profound, terrifying curiosity.
+
+"Bug," I said quietly, looking between Rachel and Jessica. "I need to tell you guys something that happened today. At the movie theater."
+
+Rachel’s protective radar instantly flared. "What happened? Did someone bother you?"
+
+"No," I said quickly. "There was an intimacy scene in the movie. It... it threw my processor into a spiral. I started panicking. Delores turned sex into a punishment. She made it a transaction. I started thinking that my wiring was permanently destroyed."
+
+I looked up at Kristin, who was sitting across from us, watching me with that steady, reassuring calm.
+
+"Kristin explained the parameters to me," I continued, my voice steadying. "She explicitly told me she was going to give me a friendly kiss. Just a kiss. No trap. And then she did. And... it stopped the spiral."
+
+Rachel and Jessica both looked at Kristin, the weight of what she had done settling over the back of the bus. She hadn't just shielded me from Delores; she had actively begun dismantling the deepest, most terrifying psychological landmines Delores had planted.
+
+"Michael," Jessica said, her voice dropping into that fierce, older-sister tone. "Listen to me. You are a survivor. But if you ever feel like you are ready to open that door, if you ever want to explore physical intimacy with Kristin, you have my absolute blessing."
+
+"Mine too," Rachel added fiercely, gripping my hand tight. "Kristin is my best friend. I trust her just as much as I trust Ashley."
+
+I looked across the aisle at Kristin.
+
+"It's an open door, Michael," Kristin said softly, her tone incredibly logical and gentle. "There is absolutely no rush. It might be months. It might be never. But if you decide you want to try, it will be entirely on your terms. You set the pace. And just so your processor has all the variables to log: I am on birth control. There is zero risk. It is just a safe space."
+
+My black-and-white brain instantly logged the parameter. No traps. No transactions. No biological risks. Just absolute safety. For the first time in two years, the future didn't look like a terrifying void.
+

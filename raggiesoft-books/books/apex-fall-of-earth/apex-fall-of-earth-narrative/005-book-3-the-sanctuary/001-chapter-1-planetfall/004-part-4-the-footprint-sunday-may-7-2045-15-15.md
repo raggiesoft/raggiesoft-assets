@@ -1,0 +1,62 @@
+# Part 4: The Footprint – Sunday, May 7, 2045 – 15:15
+
+To build a house, they needed tools.
+
+Wyatt and Sarah walked back up the metal ramp and into the cavernous, sunlit cargo bay of *The Nomad*. They bypassed the staggering pallets of gold and palladium in the Treasury and headed straight for the primary engineering lockers tucked near the port bulkhead.
+
+Wyatt unlatched a heavy, military-grade polymer chest. The pneumatic hinges hissed softly as the lid rose, revealing a perfectly organized, pristine cache of high-end construction and surveying equipment. There were laser levels, heavy steel mallets, bundles of high-tensile nylon string, and rows of heavy-duty tape measures.
+
+Wyatt pulled one of the thick, rubberized tape measures from its foam cutout. He gripped the metal tab and pulled a length of the yellow steel tape out, his brow furrowing slightly as he looked at the markings.
+
+He pulled out a heavy aluminum speed-square next.
+
+"Well," Wyatt said, tossing the tape measure lightly in his hand. "It looks like we're building this house in metric."
+
+Sarah leaned over his shoulder, looking at the bright yellow tape. There wasn't a single inch or foot marker on the metal. It was strictly demarcated in bold black centimeters and meters.
+
+"No imperial measurements?" she asked.
+
+"Not a single one," Wyatt confirmed, looking through the rest of the chest. The socket wrenches, the drill bits, the calipers—every single tool in the billionaire's arsenal was exclusively metric. "I guess it makes sense. If you're building a highly advanced, FTL-capable dreadnought, you use a base-ten system for precision. That TV upstairs in the quarters? Probably exactly 68.5 centimeters. Our billionaire architect didn't like fractions."
+
+Sarah smiled, grabbing a bundle of neon-orange nylon string and a handful of thick wooden stakes from the bottom of the crate. "Metric it is. Are you going to be okay doing the math?"
+
+"I was a deep-sea welder, Sarah," Wyatt smirked, grabbing the heavy steel mallet and the laser level. "We used whatever the blueprints told us to use. Ten millimeters to a centimeter, a hundred centimeters to a meter. I can handle it. Let's go draw some lines."
+
+They walked back down the ramp, their arms loaded with surveying gear, and headed back to the elevated ridge overlooking the river valley.
+
+The afternoon sun was warm against their shoulders, sitting at a perfect **23.8°C**. The soft, vibrant moss and alien grass felt incredible beneath their bare feet as they waded into the center of the clearing.
+
+"Okay," Wyatt said, setting the laser level down on a flat piece of exposed bedrock. "Where is the front door?"
+
+Sarah walked toward the edge of the ridge, stopping about five meters from where the slope began its gentle descent toward the rushing water. She dug her heel into the dirt.
+
+"Right here," Sarah decided, looking out at the sprawling emerald canopy below. "I want to be able to hear the river from the bedroom."
+
+Wyatt walked over with a wooden stake and drove it firmly into the soil with two heavy strikes of the mallet.
+
+For the next hour, they completely lost themselves in the simple, profound joy of manual labor. It wasn't the frantic, terrifying maintenance of the NTTR; it was the deliberate, loving process of claiming a piece of the universe for themselves.
+
+Wyatt pulled the yellow tape measure taut, walking backward through the tall grass.
+
+"Let's go twelve meters wide for the main living area," Wyatt called out, dropping to one knee to drive another stake. "And maybe eight meters deep? That gives us a solid 96-square-meter footprint just for the interior."
+
+"That's huge," Sarah laughed, tying the neon-orange string to the first stake and unspooling it as she walked toward him. "It's a mansion compared to Room 114."
+
+"You haven't even seen the porch yet," Wyatt grinned. He measured out another heavy footprint facing the river. "A three-meter deep, covered wraparound porch. I'm going to find some hardwood in that forest and sand it down until it's like glass."
+
+They moved around the clearing, driving stakes and running the bright orange string until a massive, glowing geometric grid was hovering just inches above the grass.
+
+Wyatt stepped back, wiping a light sheen of sweat from his forehead, and rested the heavy mallet on his shoulder.
+
+They stood together on the outside of the string, looking at the layout. There was a master bedroom with a view of the water, a spacious living room, a kitchen layout that dwarfed the ship's galley, and a massive front porch.
+
+Sarah stepped carefully over the orange string, walking into the center of the "living room." She turned around, taking in the invisible walls. She wasn't an exhausted S.H.O.P. Marine anymore. She was a pioneer standing in the exact center of her future.
+
+She looked at Wyatt, her eyes shining with pure, unfiltered happiness.
+
+"It's perfect," she said softly.
+
+Wyatt set the mallet down and stepped over the string to join her. He wrapped his arms around her waist, pulling her close as the golden sun began its slow, lazy descent toward the horizon, casting long, beautiful shadows across the valley.
+
+They didn't have the timber yet. They didn't have the foundation poured. But standing barefoot inside that 12-by-8-meter grid of nylon string, they were already home.
+

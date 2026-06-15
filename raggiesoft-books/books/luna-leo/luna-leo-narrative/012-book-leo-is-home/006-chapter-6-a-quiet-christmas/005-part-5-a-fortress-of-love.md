@@ -1,0 +1,14 @@
+# Part 5: A Fortress of Love
+
+As Leo and Olivia emerged from the quiet den, looking refreshed and ready to rejoin the party, Luna immediately met them at the doorway. She didn't say a word; she simply pulled her brother into a fierce, protective hug, her own act of grounding him and welcoming him back into the fold. As she held him, she looked over his shoulder at Olivia, her eyes shining with a profound, sisterly gratitude.
+
+"I'm so glad you're here, Liv," she whispered, her voice thick with emotion. "I'm so glad you know what to look for. That you can see when he needs a minute before *we* even do." It was a quiet, heartfelt acknowledgment of Olivia's essential role in their fortress, a recognition that Olivia's intuitive understanding of Leo was a gift to their entire family.
+
+Their return to the dining room was met with warm, unquestioning smiles. The brief retreat had been a non-event, a simple and accepted part of the evening. It was time for dessert. Eleanor and Tante Isabelle brought out a spectacular spread: apple pie with vanilla ice cream, a rich chocolate cake, and the last, treasured slices of the *bûche de Noël* from the Réveillon.
+
+As Olivia helped Leo get a slice of his favorite apple pie, he looked around the long, happy table. The room was filled with the sounds of laughter and conversation. His new Canadian family was trying to teach his grandparents a French card game. Luna was in a deep, animated conversation with her cousin Chloé. Stella was watching over it all, a quiet, contented smile on her face.
+
+He felt a wave of pure, uncomplicated happiness wash over him. He was surrounded by people who loved him exactly as he was. They didn't just tolerate his needs; they anticipated them, building safe rooms and offering grounding hugs without a second thought. He thought of Delores, of how she would have reacted to him needing a break—with annoyance, with dismissive anger, with a complete lack of understanding. She wouldn't have understood the first thing about the powerful, unconditional love his family had built for him.
+
+He looked at Olivia, his *ma blonde*, sitting right beside him, a steady and unwavering presence. He took a bite of his pie. It was sweet, warm, and perfect. He was home.
+

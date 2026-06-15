@@ -1,0 +1,86 @@
+# Part 2: The Gateway Connection
+
+## Date: July 6, 2003 Time: 8:45 AM Location: West Main Road, Middletown, Rhode Island
+
+The morning fog was beginning to burn off, revealing a bright, hazy blue sky.
+
+Patrick and Nichole waited at the bus stop outside the BayFront Creamery. It was just a simple pole stuck in the grass with a blue and white OSTA (Ocean State Transit Authority) sign. There was no shelter, and the sidewalk was narrow, but the curb cut was decent.
+
+Patrick stood behind the Titan AeroMotion. He had broken open one of the coin wrappers, dividing ten quarters into his left pocket and ten into Nichole’s lap tray cup holder.
+
+"Two-fifty total," Patrick said, checking his watch. "Route 60 inbound to Newport. Should be here any second."
+
+Down the road, a large white bus with a blue and yellow stripe appeared through the morning traffic. It wasn't the sleek, low-floor modern buses they were used to seeing in the newer parts of Virginia. It was a boxy, high-floor, older transit coach that roared with a heavy diesel rumble.
+
+The bus pulled up to the curb. Patrick positioned Nichole directly in front of the front doors, ready for the standard flip-out ramp.
+
+The bi-fold front doors hissed open. Patrick looked down.
+
+Stairs. Three steep, black rubber stairs leading up to the driver.
+
+Patrick frowned. He looked at the wheelchair decal on the side of the bus. "Wait, what?"
+
+The bus operator, an older man with a grey mustache and mirrored sunglasses, leaned over his steering wheel to look down at them. He saw the custom manual chair—loaded down with the heavy communication device—and Patrick's confused expression.
+
+"Mornin'!" the operator called out over the idling engine, his voice cheerful and thick with the local accent. "You guys new to OSTA?"
+
+"Yeah," Patrick called back. "First time. The schedule says this bus is accessible?"
+
+"It is! Just an old bird, that's all," the driver smiled patiently. "The lift is in the back door. Hold tight, I'll pop it open for ya."
+
+Patrick grinned, relieved. "Copy that. Rear door it is."
+
+He backed Nichole up and rolled her twenty feet down the sidewalk to the rear doors. The doors slid open with a pneumatic hiss. There was a pause, a mechanical whine, and then a heavy, industrial steel lift platform unfolded from the stairwell and lowered slowly to the sidewalk. It was older technology, but it was sturdy.
+
+Patrick rolled Nichole onto the steel plate and locked her brakes.
+
+"Going up!" the driver announced from his mirror.
+
+The lift groaned, elevating Nichole to the floor level of the bus. Patrick stepped up behind her. The securement area was spacious, located right across from the rear door. Patrick efficiently locked the Titan’s wheels into the Q-Straint floor tracks.
+
+Once Nichole was secure, Patrick walked to the front of the bus to pay.
+
+He pulled the fistful of quarters from his pocket. He didn't have to show an ID. He didn't have to explain why a young, able-bodied guy was traveling with a girl in a tilt-in-space chair.
+
+*Clink. Clink. Clink.*
+
+Patrick dropped ten quarters into the mechanical farebox. Two dollars and fifty cents.
+
+"One for me, one for her," Patrick said.
+
+"You got it, chief. Welcome to the island," the driver said, putting the bus into gear.
+
+Patrick walked back and stood next to Nichole, gripping the overhead handrail as the bus pulled away from the curb.
+
+Nichole looked out the window. She felt a surge of pride. She was on a public bus in a brand-new state, and she hadn't needed a tour guide to get on it. The driver had treated them like regular commuters. A minor technical glitch with the doors was solved in ten seconds with zero drama.
+
+The ride into Newport was short and scenic. They passed historic colonial homes, leafy avenues, and glimpses of the harbor.
+
+## Time: 9:15 AM Location: Gateway Center, Newport, Rhode Island
+
+The bus pulled into Gateway Center, the main intermodal hub for Newport. It was a bustling brick plaza filled with tourists, commuter buses, and the smell of saltwater.
+
+The driver lowered the rear lift again, dropping Nichole smoothly onto the brick pavement.
+
+"Enjoy the city, kids!" the driver waved before closing the doors.
+
+Patrick unlocked Nichole’s brakes. He looked around to get his bearings.
+
+"Okay," Patrick said, pointing down a short, tree-lined side street. "Perrotti Park is right through there. One block."
+
+They rolled down the sidewalk, the rhythmic click-clack of the solid tires hitting the brick seams echoing off the buildings.
+
+As they cleared the corner, the world opened up.
+
+There was the harbor. It was massive and active, filled with bobbing sailboats, luxury yachts, and the squawking of seagulls. At the edge of the harbor sat Perrotti Park, a paved promenade extending out into the water.
+
+And docked at the end of the promenade was a sleek, modern catamaran ferry, painted in the BTA's distinctive red and silver colors. Bold white letters on the side of the hull read: NEWPORT FLYER - BTA HARBOR DIVISION.
+
+Nichole stopped her chair. She looked at the boat. She looked at the flat, paved ramp leading directly from the park onto the ship's lower deck.
+
+She turned her head and looked up at Patrick, her eyes wide.
+
+Patrick grinned. He pulled out the second roll of quarters from his pocket.
+
+"Eight dollars," Patrick said. "Let's go buy some boat tickets."
+

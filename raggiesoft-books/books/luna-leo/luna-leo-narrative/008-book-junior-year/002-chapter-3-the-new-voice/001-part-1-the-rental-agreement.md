@@ -1,0 +1,32 @@
+# Part 1: The Rental Agreement
+
+The air in the Band Room was thick with the smell of valve oil and cork grease. It was the second week of Junior year, and the chaos of marching band season was in full swing.
+
+Luna stood in front of Mr. Thompson’s office door, shifting her weight from her good leg to her bad one. She held her Tenor Saxophone case in one hand, but her eyes were fixed on the instrument storage closet behind the glass partition.
+
+Inside the office, Mr. Thompson looked up from his scheduling software. "Luna? Everything okay with the sax? Pads sticking again?"
+
+"Sax is fine," Luna said, stepping inside. She took a breath. "Actually, I wanted to ask about... inventory."
+
+She pointed toward the silver cases stacked on the high shelf in the closet.
+
+"Do we have any flutes available for rental?"
+
+Mr. Thompson raised an eyebrow. "Flute? You're my anchor in the Tenor section, Luna. You've got that big sound we need for the field show. You aren't thinking of switching, are you?"
+
+"No, no," Luna assured him quickly. "I'm staying on Tenor for Marching and Symphonic. I love the sax. But..." She hesitated, thinking of the rainy Saturday, the vinyl record spinning, and the ethereal sound that had cut through the noise. "I want to learn the flute on the side. Just for me. There's a specific song I want to play."
+
+Mr. Thompson leaned back, a smile touching his lips. He loved it when students branched out. "Doubling up, huh? That's ambitious. The embouchure is completely different, you know. Sax is 'in' the mouth; flute is 'across' the mouth. It's like learning to whistle sideways while doing algebra."
+
+"I like algebra," Luna said with a shrug.
+
+Mr. Thompson chuckled. He stood up and unlocked the closet. He reached up and pulled down a hard black plastic case.
+
+"Yamaha student model," he said, placing it on the desk. "Open-hole keys, but it has the plugs in for now. Good for beginners."
+
+He popped the latches. The silver instrument gleamed against the blue velvet lining. It looked delicate, intricate, and completely different from her battered, brassy saxophone.
+
+"Rental fee is standard," Mr. Thompson said. "But since you're a section leader, I'll let you take it home for the weekend to see if you can even get a sound out of it before we do the paperwork. It's harder than it looks."
+
+Luna reached out and touched the smooth metal of the headjoint. "Thanks, Mr. T."
+

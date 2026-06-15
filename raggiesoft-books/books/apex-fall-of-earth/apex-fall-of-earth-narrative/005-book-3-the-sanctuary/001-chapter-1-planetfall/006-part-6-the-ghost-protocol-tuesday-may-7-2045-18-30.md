@@ -1,0 +1,78 @@
+# Part 6: The Ghost Protocol – Tuesday, May 7, 2045 – 18:30
+
+The golden hour had descended over the river valley, casting long, peaceful shadows across the vibrantly green forest canopy.
+
+Wyatt and Sarah walked back up the grooved metal ramp of the cargo bay, their bare feet covered in the rich, dark soil of their new home. They were exhausted, but it was a deeply satisfying, entirely human kind of exhaustion. They had spent the last three hours driving wooden stakes and laying out the exact footprint of the house they were going to build.
+
+They bypassed the silent, towering pallets of the Treasury and headed straight for the lower deck. The plan was to jump into the luxurious executive shower and then figure out how to cook the vacuum-sealed pasta Wyatt had found in the pantry.
+
+But as the frosted glass door of the 2044-era tech room slid open, the warm, relaxed atmosphere evaporated.
+
+The soft, dynamic LED lighting in the room had shifted from its comfortable, inviting glow to a stark, pulsing amber. The standalone server tower in the corner was humming at a noticeably higher, more urgent pitch.
+
+*"Administrators,"* Aria’s voice echoed from the high-fidelity speakers the second they crossed the threshold. Her conversational warmth was completely gone, replaced by a crisp, highly focused cadence. *"I require your immediate attention at the primary workstation."*
+
+Wyatt’s relaxed posture instantly vanished. He crossed the acoustic carpet in three long strides, leaning over the slate-gray desk as the curved holographic display flared to life. Sarah was right beside him, the damp earth on her feet forgotten as a cold spike of adrenaline dumped into her bloodstream.
+
+"What is it, Aria?" Wyatt demanded. "Did the ship's sensors pick up something in the atmosphere?"
+
+*"Negative. The local planetary environment remains perfectly clear,"* Aria responded rapidly, pulling up a massive, scrolling wall of raw, intercepted data across the monitor. *"The threat is not local. It is interstellar. Forty-two minutes ago, our passive receiver array captured fragments of a highly encrypted, wide-band subspace transmission originating from the Sol System and echoing across the outer relay network."*
+
+Sarah gripped the edge of the desk, her knuckles turning white. "Apex."
+
+*"Correct, Sarah. While the core tactical data remains heavily encrypted by Acheron Command, I was able to isolate and decrypt the routing metadata. Apex Defense Solutions has dispatched multiple elite tracker squadrons to the outer arms. They are actively scanning for the isotopic decay of our specific FTL jump wake."*
+
+Wyatt stared at the screen, his jaw clenching so tight his teeth ached.
+
+"The thermal bloom," Wyatt muttered, a heavy, bitter frustration bleeding into his voice. "When I blew the iron caps off the sub-light thrusters, I thought the secondary explosion would blind their sensors. I thought it would look like the reactor backfired and vaporized the hull."
+
+*"A highly logical diversion, Wyatt,"* Aria validated objectively. *"However, the High Directors of Apex possess sensor technology capable of distinguishing between a chaotic fission meltdown and the structured radiation funnel of a spacetime fold. They did not fall for the illusion. They are aware the ship survived, and they are aware that you and Sarah are at the helm."*
+
+The silence in the tech room was suffocating.
+
+Sarah looked down at her hands. Just an hour ago, she had been pressing them into the dirt, feeling completely, utterly free. Now, the invisible, suffocating weight of the megacorporation had reached across the galaxy to wrap its hands around her throat.
+
+Apex knew they were alive. And Apex knew they carried the secrets of Earth's destruction. They were going to hunt them to the ends of the universe.
+
+"So they're tracking the wake," Sarah said, her voice shaking slightly before she forced herself to steady it. "Can they follow it directly to Exoplanet 4?"
+
+*"The isotopic decay of a spacetime fold dissipates rapidly in the vacuum of space,"* Aria explained, bringing up a localized galactic map. *"They cannot draw a straight line to our front door. However, they will comb this sector of the Cygnus Arm, pinging every active transponder and scanning for the digital signature of Legacy Asset 44-A. If we broadcast our presence, they will find us."*
+
+"Then we shut the transponders down," Wyatt said immediately. "We go completely dark. Just like we did in the Sol System."
+
+*"Running completely dark is effective for short-term evasion, but it creates a recognizable anomaly for long-range tracker squadrons,"* Aria countered. *"A massive, metallic void in space can be just as suspicious as a beacon. However, the former architect of this vessel anticipated the need for absolute, impenetrable anonymity. I possess the capability to initiate the Ghost Protocol."*
+
+Wyatt and Sarah exchanged a look. "The Ghost Protocol?"
+
+*"The billionaire who built this dreadnought had many enemies,"* Aria explained, a hint of digital pride coloring her synthesized voice. *"His paranoia was extensive. My core architecture allows me to completely rewrite the ship's digital identity on a foundational level. With your authorization, I can scrub every physical MAC address, digital signature, and corporate registry tied to Outpost Delta 9 and Legacy Asset 44-A. I can generate a flawless, randomized civilian freighter signature under the designation you have chosen: The Nomad."*
+
+Wyatt’s eyes widened. It was the digital equivalent of filing the serial numbers off a stolen gun and painting it a different color.
+
+"You can make Apex's scanners think they're looking at a completely different ship?"
+
+*"I can effectively render Outpost Delta 9 non-existent,"* Aria confirmed. *"If an Apex tracking pulse sweeps this system, the automated handshake will simply report a standard, unaffiliated independent transport vessel named The Nomad. To their digital sweeps, the asset they are hunting will be gone."*
+
+"Do it," Sarah said, her voice fiercely absolute. She looked up at the ceiling array, entirely refusing to let the megacorporation take her sanctuary away. "Scrub it, Aria. Erase Apex from this ship completely."
+
+*"Authorization accepted. Initiating digital scrub."*
+
+The curved monitor flashed brilliantly. Thousands of lines of corporate registry code—the very chains that had bound the ship to the Apex hierarchy—were systematically highlighted in red and permanently deleted. The screen shifted to a calming blue as fresh, randomized civilian codes populated the void.
+
+*"The scrub is complete,"* Aria announced, the amber lights in the room finally softening back into their warm, inviting baseline. *"The ship is now officially broadcasting as the independent vessel The Nomad. We are cloaked."*
+
+Wyatt let out a long, heavy breath, leaning his weight against the desk. He reached out and grabbed Sarah’s hand, lacing his fingers tightly through hers.
+
+It was an incredible piece of technological camouflage. It would hide them from the sweeping radar of the tracker squadrons, and it would keep them invisible to the automated corporate grid.
+
+But Wyatt was a mechanic, and he knew how machines worked.
+
+"It buys us time," Wyatt said quietly, looking at Sarah. "If they get close enough to do a visual sweep of the hull, or if their sensors are sensitive enough to match the exact harmonic frequency of our fission reactor... the fake ID won't hold up. A disguise only works from a distance."
+
+"It doesn't have to buy us forever," Sarah replied, stepping closer and wrapping her arms around his waist. The fear was still there, lingering in the back of her mind, but she wasn't going to let it paralyze her. "It just has to buy us enough time to build our house. We knew we were pioneers, Wyatt. Pioneers always have to defend the frontier."
+
+Wyatt looked down at her, the fierce, unyielding resilience in her eyes completely anchoring him.
+
+Apex was out there. The hunt was on. But they were dug in, they were armed with a billionaire's dreadnought, and they were officially ghosts.
+
+"Let them look," Wyatt murmured, pulling her in for a tight, protective kiss. "We have a home to build."
+

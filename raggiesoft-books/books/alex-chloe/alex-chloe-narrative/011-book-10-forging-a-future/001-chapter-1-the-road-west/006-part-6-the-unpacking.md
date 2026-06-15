@@ -1,0 +1,28 @@
+# Part 6: The Unpacking
+
+Monday morning arrived not with an alarm clock, but with the loud, unmistakable rumble of a large moving truck pulling into the "Cedar Park" apartment complex. Alex, Chloé, and Megan all rushed to the living room window.
+
+"It's here," Chloé breathed, a wave of nervous, excited energy washing over her.
+
+A moment later, a familiar Holt sedan pulled in behind the truck. James and Sophie, refreshed and ready for duty, had arrived from their hotel to help with the heavy lifting.
+
+The day was a masterclass in organized chaos. James and Sophie, with their parental expertise, supervised the professional movers, ensuring the large furniture items were placed in their designated spots without scratching the new walls.
+
+In the middle of it all, Alex was the undisputed director of operations. He sat in his power chair in the center of the living room, a digital floor plan of their apartment on his Quantum Communicator Pro V, and guided the entire process with the precision of an air traffic controller.
+
+SOFA AGAINST THE FAR WALL, his device would voice. LEAVE EIGHTEEN INCHES OF CLEARANCE ON THE LEFT FOR MY CHAIR.
+
+The movers, initially a little surprised to be taking orders from a young man's synthesized voice, were quickly won over by his clear, logical, and unfailingly polite instructions.
+
+While the men handled the big picture, Chloé and Megan were a whirlwind of focused, unpacking energy. They worked as a seamless team. In the kitchen, they unpacked boxes of dishes and cookware, their movements a practiced dance in the new space. In the office, they directed the setup of their three identical desks, arranging them in the U-shape they had planned, a shared headquarters for their new academic and professional lives.
+
+The most profound moment of the day came when the movers brought in a large, carefully wrapped flat box.
+
+CAREFUL, Alex's device warned, his voice full of a quiet urgency. THAT ONE IS FRAGILE.
+
+With the help of James, they carefully unwrapped it. It was the painting of Lake Memphremagog from Stanstead, a gift from the Masons from their first apartment. The three of them—Alex, Chloé, and Megan—all stopped, a quiet, reverent silence falling over them as they looked at the beautiful, familiar image. It was a piece of their past and a promise of their future, now officially hanging on the wall of their new home.
+
+By the end of the long, exhausting day, the apartment was no longer an empty space. It was a chaotic but functional home, a cozy maze of half-unpacked boxes, perfectly placed furniture, and the lingering, happy smell of pizza they had ordered for their first official meal on their own sofa.
+
+James and Sophie finally said their goodnights, their mission complete. The three of them stood in the middle of their living room, sore, tired, but profoundly happy. They had done it. They had crossed a continent, and they had built a home. The future was no longer a distant dream on a map; it was here, in the comfortable, happy chaos of their very own living room.
+

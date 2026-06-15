@@ -1,0 +1,98 @@
+# Part 14: The Shutout
+
+## 22:00 PM (Fourth Quarter)
+
+The fourth quarter wasn't a contest. It was a coronation.
+
+The Tallahassee State Renegades had stopped playing to win; they were just playing to get back to the bus. The cold had seeped into their bones, and the noise had seeped into their minds. They looked shell-shocked.
+
+In the stands, the atmosphere had shifted from aggression to pure, unadulterated joy. The "Ironheads" weren't screaming anymore; they were dancing.
+
+"Look at the scoreboard, Freddie," Jessica shouted, pointing to the massive glowing numbers. "Do you see that zero? That is the most beautiful number in the world."
+
+**CPI FORGERS: 27** **TALLAHASSEE ST: 0**
+
+"A zero balance," Freddie nodded, watching the clock tick down. "Total negation."
+
+## 05:00 Left in 4th Quarter
+
+Tallahassee made one last, desperate push. They didn't want to win; they just wanted to avoid the humiliation of a shutout. They drove to the CPI 20-yard line, using short passes to the sidelines.
+
+But the "Machine" had a failsafe.
+
+On 4th and Goal from the 10-yard line, the Renegades' quarterback dropped back. He looked left. He looked right. He saw nothing but maroon jerseys.
+
+He scrambled up the middle, diving for the goal line.
+
+Three CPI linebackers met him at the 2-yard line.
+
+*CRACK.*
+
+It was the sound of a wall stopping a car. The quarterback went backward. The ball didn't cross the plane.
+
+"TURNOVER ON DOWNS!" the PA announcer boomed.
+
+The stadium shook so hard Freddie thought the bleachers might actually shearing off their bolts.
+
+"THE ZERO STANDS!" Jessica screamed, grabbing Paige and shaking her. "THEY DON'T GET A SINGLE POINT! NOT ONE!"
+
+## 02:00 Left in 4th Quarter
+
+The CPI offense took the field in "Victory Formation."
+
+The quarterback took the snap and kneeled. The clock ran. *Tick. Tick. Tick.*
+
+"What does this mean?" Freddie asked, watching the Tallahassee players walking slowly toward their tunnel, heads down. "We defeated a higher value target. What is the output?"
+
+Jessica turned to him, her eyes shining in the stadium lights.
+
+"This changes everything, Freddie. We were unranked. Nobody respected us. They thought we were just a bunch of engineers playing in the mud."
+
+She gestured to the scoreboard.
+
+"But beating the number four team in the country? In a shutout? On national television?"
+
+She grinned, a fierce, proud Forger grin.
+
+"Tomorrow morning, when the polls come out, we won't be unranked anymore. We're going to be Top 20. Maybe Top 15. We just put the Iron City on the map."
+
+## 00:10 Left in 4th Quarter
+
+The crowd began the final countdown. It wasn't chaotic. It was synchronized.
+
+*TEN.* *NINE.* *EIGHT.*
+
+Freddie joined in. He liked the counting. It was precise.
+
+*SEVEN.* *SIX.* *FIVE.*
+
+Paige squeezed his hand. "We did it, Freddie. We survived the day."
+
+*FOUR.* *THREE.* *TWO.*
+
+*ONE.*
+
+## 00:00
+
+The cannon fired one last time. *BOOM.*
+
+The siren wailed.
+
+The scoreboard flashed: **FINAL.**
+
+**CPI FORGERS: 27** **TALLAHASSEE ST: 0**
+
+The band struck up the fight song, but you couldn't hear it. You could only hear the sound of sixty thousand people losing their minds.
+
+Students began to spill over the walls in the lower bowl, rushing the field to celebrate with the team. It was a sea of maroon and orange flooding the green turf.
+
+"We aren't going down there," Jessica said, protecting Freddie from the surge. "Too many variables. We stay here. We watch the victory lap."
+
+Freddie stood still in the middle of the chaos, his orange hoodie bright against the night. He looked at the scoreboard. He looked at the celebrating fans. He looked at the dejected Renegades leaving the field.
+
+The logic held up. The "Machine" worked. If you built a strong enough structure—whether it was a stadium, a defense, or a family—you could withstand anything. Even the number four team in the nation. Even a housing rejection.
+
+"It is a valid result," Freddie decided, a small, rare smile touching his face. "The Forgers are... efficient."
+
+"Yeah," Paige said, leaning her head on his shoulder. "We're pretty tough."
+

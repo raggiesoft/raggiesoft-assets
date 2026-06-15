@@ -1,0 +1,45 @@
+# Part 9: The Silence
+
+## Friday, May 7, 2004 — 16:30 PM (PST) Interstate 82 North, nearing Yakima
+
+The bus was quiet, the engine humming a monotonous drone as it climbed the arid hills toward Yakima. The afternoon sun was hidden behind a thick layer of gray cloud cover, making the cabin feel dim and claustrophobic.
+
+Freddie sat in the window seat, pressed as far against the glass as he could get, trying to put millimeters of distance between himself and the aisle seat.
+
+He wasn't rocking. He wasn't humming. He was frozen.
+
+The pain in his lower back was a constant, white-hot knife. The stage 2 sore had ruptured during the scuffle in the Pasco bathroom, and now the rough denim of his jeans chafed the raw wound with every vibration of the road.
+
+But the physical pain was secondary to the cold, hard knot of terror in his stomach.
+
+*Kidnapped.*
+
+Vanessa had said it. *I kidnapped you.*
+
+She hadn't stuttered. She hadn't joked. She had screamed it in the tiled echo of the restroom.
+
+He looked at her out of the corner of his eye. She was sitting next to him, arms crossed, staring straight ahead at the seatback in front of her. She had her headphones on, listening to a CD player, blocking him out.
+
+She wasn't his girlfriend. She wasn't his friend. She was his captor.
+
+He thought about the bathroom. The way she had tried to force him. The way she had touched him when he said no. The way her hand had cracked across his face.
+
+*Violation,* the logic center of his brain cataloged. *Assault.*
+
+He gripped the armrest. His hands were shaking—not from spasticity, but from a cold, lucid rage he had never felt before.
+
+He had let her do this. He had walked onto the bus. He had turned off his phone and left it in Christiansburg.
+
+*I broke the protocol,* Freddie thought bitterly. *I left the Unit.*
+
+He made a vow then, staring out at the sagebrush and the dark, looming mountains of the Cascades ahead.
+
+*The moment this bus stops. The moment the doors open.*
+
+*I am not going with her. I will find a phone. I will call the Operator. I will say: "Collect call from Freddie." And Paige and Jessica will accept the charges.*
+
+He didn't know they were already in the city. He didn't know they were watching the bus terminal from a window across the street.
+
+He just knew he had to survive the next two hours without breaking.
+
+

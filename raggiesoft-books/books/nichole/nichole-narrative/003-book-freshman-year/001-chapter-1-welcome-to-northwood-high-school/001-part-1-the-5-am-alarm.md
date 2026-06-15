@@ -1,0 +1,60 @@
+# Part 1: The 5 AM Alarm
+
+The red digits of the alarm clock clicked from 4:59 to 5:00.
+
+BEEP. BEEP. BEEP.
+
+The sound cut through the darkness of the bedroom like a siren. In the center of the room, under a heavy quilt on the queen-sized bed, the lump of tangled limbs shifted.
+
+Patrick Bennett groaned, his voice rough with sleep. He fumbled blindly for the snooze button, his hand brushing against the warm, solid weight of his sister’s arm. He found the button and silenced the noise, leaving only the hum of the air conditioning and the rhythmic breathing of two people who had spent the last fourteen years never more than a few feet apart.
+
+"Nikki," Patrick whispered, his voice cracking. "It's time. The Big Day."
+
+Beside him, Nichole stirred. She didn't wake up gently; she woke up with a full-body stretch that sent a spasm of extension tone through her legs. Her feet kicked against Patrick’s shin under the covers.
+
+"Ow. Okay, I'm up," Patrick mumbled, rubbing his eyes. He sat up, the mattress shifting under his weight. His left leg—the "bad" one—felt stiff and heavy, the muscles tight from eight hours of stillness. He swung his legs over the side of the bed, planting his feet on the carpet to test his balance.
+
+He turned back to Nikki. She was blinking up at him, her dark hair a chaotic halo on the pillow. She looked sleepy, her eyes unfocused, but she offered a soft, upward-inflected hum. *Mmm-hmm.*
+
+"Yeah. High school," Patrick said, answering her unspoken thought. "Let's do this."
+
+He stood up, ignoring the twinge in his ankle, and walked around to her side of the bed. He pulled the covers back. Nikki was wearing an oversized t-shirt, her legs curled up slightly. There was no hesitation, no awkwardness. This was the machine, and they were the operators.
+
+"Arms up," Patrick murmured.
+
+Nikki raised her arms obediently. Patrick leaned down, sliding his hands under her knees and behind her back. He counted softly, "One, two, three."
+
+On three, he lifted. Nikki locked her arms around his neck, burying her face in his shoulder—the morning version of their "Gym Door" hug. She was dead weight, heavy and trusting, but Patrick’s body knew the leverage perfectly. He pivoted on his good leg, carrying her three steps into the attached bathroom.
+
+The fluorescent light flickered on, harsh and white.
+
+Patrick set her down gently on the toilet. He moved with practiced efficiency—managing her clothing, helping her balance, waiting while she did what she needed to do. There was no shame here. The concept of "privacy" didn't exist between them; it was a luxury for people whose bodies worked perfectly. For the Bennett twins, privacy was just another wall that made things harder.
+
+"Shower?" Patrick asked, leaning against the sink while she finished.
+
+Nikki made a sharp clicking sound with her tongue and squeezed her eyes shut. *No.*
+
+"Just a wash, then. Good call. We don't have time."
+
+He wet a washcloth with warm water. He wiped her face, careful around her eyes, then her hands. She leaned into his touch, her head tilting to follow the warmth of the cloth. When he was done, he washed his own face, splashing cold water to shock himself awake.
+
+Then came the armor.
+
+Back in the bedroom, Patrick pulled her clothes from the dresser. Fall 1999 meant baggy denim. He wrestled her legs into a pair of loose-fitting Mammoth jeans—a struggle against her spasticity, which fought him every inch of the way.
+
+"Relax, Nikki. Let it go," he whispered, massaging her calf until the muscle loosened enough to slide the denim up.
+
+He pulled a black band t-shirt over her head. He adjusted her arms through the sleeves, smoothing the fabric down. Then he got dressed himself—baggy Mammoths that hid his left leg's thinness, a matching t-shirt.
+
+He sat on the edge of the bed and strapped on his white plastic AFO brace, the velcro tearing loud in the quiet room. He pulled his sneaker over it, tying it tight.
+
+Finally, the Transfer.
+
+Patrick wheeled her heavy black AeroMotion tilt-in-space chair over to the bed. He locked the brakes. He lifted her one last time, settling her deep into the custom molded seat. He buckled the chest strap. He adjusted the headrest. He connected the heavy grey arm of the VocaLink 3000, swinging the screen in front of her chest.
+
+Click.
+
+Nikki tapped the screen. The synthesized voice of 'Digital Dan' filled the room. "READY."
+
+Patrick grabbed the push handles. He leaned his weight on them, feeling his balance steady. "Ready," he echoed.
+

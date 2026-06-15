@@ -1,0 +1,24 @@
+# Part 5: The Upgrade (Early June 1999)
+
+A few weeks before the end of his eighth-grade year, a large, unmarked van pulled up to the Miller house on Lisa Court. For Alex, it was a day of almost unbearable anticipation. Months of evaluations, insurance paperwork, and frustrating delays were finally over. His new equipment was here.
+
+A friendly, competent technician named Dave wheeled two large boxes into the living room. Alex, his parents, and Megan, who had made a special trip over after school, gathered around to watch.
+
+The first box contained his new wheelchair. It was a revelation. Compared to his old, heavier pediatric chair, this one was a marvel of engineering—an ultralight, rigid-frame chair made of gleaming titanium. It was sleek, minimalist, and looked more like a piece of high-performance sports equipment than a medical device.
+
+"This should make a big difference for you at Northwood next year," Dave the technician said, making the final adjustments. "It's much more responsive and a lot easier to push."
+
+But the real main event was in the second box. Dave carefully lifted it out: the "Quantum Communicator XT."
+
+It was a ruggedized, beige, tablet-like computer, a massive leap from the simple, monochrome screen of his old "Communicator Jr." This had a full-color, 12.1-inch screen and was running the new Quantum OS 98.
+
+"Okay, Alex," Dave said, after mounting the new device onto his chair. "Let's get you set up."
+
+For the next hour, Dave walked him through the new software: the "Quantum Speech Suite." The on-screen keyboard was larger and more responsive. The word prediction was faster. But the biggest change was the voice. It was still synthesized, but it was a newer, much clearer and more natural-sounding voice than the robotic tone he was used to.
+
+"This one also has a hot-swappable bay," Dave explained, showing him how to slide out the CD-ROM drive and replace it with a 1.44 MB floppy drive. "And your first USB port, for any new accessories you might get."
+
+After Dave left, Alex spent the rest of the afternoon exploring his new system. Megan and his parents watched, a quiet, proud audience. He was faster, more fluid. His personality, his dry wit, came through the new, clearer voice with a new level of precision.
+
+He was still the same quiet, reserved boy. But as he sat there, in his sleek new chair, with a powerful new voice at his fingertips, he felt a new, unfamiliar flicker of confidence. The intimidating, unknown world of high school was just around the corner. But for the first time, he felt like he might actually be ready for it.
+

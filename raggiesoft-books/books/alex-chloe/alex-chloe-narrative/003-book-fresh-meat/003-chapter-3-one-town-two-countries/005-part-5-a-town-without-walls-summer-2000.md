@@ -1,0 +1,36 @@
+# Part 5: A Town Without Walls (Summer 2000)
+
+After their warm welcome from Jean-Guy, the first order of business was a trip down memory lane for Chloé. "Okay, first stop, my old house!" she declared from the back of the minivan. "We have to go back to the American side, it's just a couple of streets over."
+
+This necessitated their first southbound crossing of the day. Thomas Mason turned the familiar minivan around and pulled up to the brick customs building in Derby Line. Beth, the veteran U.S. officer, was on duty. She leaned out, her expression breaking into a wide smile as she recognized the van.
+
+"Well, would you look at that. The Mason minivan!" she said with dry Vermont humor. "Heard you all went south on us. It's good to see you back for a visit!"
+
+"Good to see you too, Beth," Thomas replied easily. "Couldn't stay away. We were just over in Stanstead for a minute, now we're showing our friends here the old homestead."
+
+Beth leaned forward, her friendly gaze taking in the full car—the Millers in the middle row, the teens in the back. "Afternoon, folks. Welcome to Vermont. You all U.S. citizens?"
+
+"Yes, ma'am, we are," James Miller answered for his family.
+
+"Alright then," Beth said with a nod. "Anything to declare from your quick trip over the line?"
+
+"Just our memories," Thomas replied with a grin.
+
+Beth chuckled. "Those are duty-free. Carry on, folks. Enjoy having the Masons back in town for a bit." She waved them through, the entire stop taking less than thirty seconds.
+
+They drove a few blocks into Derby Line and pulled up in front of a modest, two-story white house with dark green shutters. "This is it," Chloé said, a touch of nostalgia in her voice. They all piled out of the single minivan, stretching their legs on the familiar sidewalk.
+
+"That was my bedroom window," Chloé said, pointing to a second-floor window, her arm linked comfortably with Alex's. "I used to be able to see the lights from the houses on the Québec side at night. And see that big maple tree? I tried to build a treehouse in it once. It... did not go well."
+
+Alex listened, captivated, absorbing the details of her former life. He could so easily picture a younger Chloé here, full of the same bright energy. He typed on his AAC, which he held on a strap around his neck. IT’S A GOOD HOUSE, CHLOÉ.
+
+"It was," she said softly.
+
+They were about to get back into the minivan when Sophie Mason snapped her fingers. "Oh, mon Dieu, I completely forgot! While we are here, I promised my sister I would get some of the good sausages from the *boucherie* in Stanstead for our family reunion. They make the best ones."
+
+"Well, no time like the present," Thomas said, unfazed by the prospect of another border crossing.
+
+So, all six of them piled back into the minivan, turned around, and headed back towards the Canadian Port of Entry. This time, as they approached, Jean-Guy was busy with a large RV. He simply glanced over, recognized their minivan, and gave them a broad, permissive wave to proceed without even stopping. This was the true local's experience: a crossing that was merely a gesture.
+
+The butcher shop in Stanstead was a sensory delight, smelling richly of smoked meats and spices. Sophie was greeted by name in French by the butcher, and they chatted animatedly about their families as he wrapped her order. The entire errand, including two international border crossings, took less than fifteen minutes.
+

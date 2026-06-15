@@ -1,0 +1,62 @@
+# Part 7: The Unified Grid – 11:30 AM (PST)
+
+We bundled back up against the freezing, damp Pacific Northwest air, leaving The Riverway Diner and crossing the wet asphalt back to the transit shelter.
+
+The Route 7 bus arrived a few minutes later, its heavy air brakes hissing as it knelt to the curb. We boarded the bus, leaving the Orchards section of Vancouver behind, and rode steadily back down Fourth Plain Boulevard toward the massive concrete footprint of Vancouver Plaza.
+
+By the time we navigated from the transit island into the sprawling, multi-level indoor mall, my lower back was throbbing again, but the adrenaline of the mission kept me moving.
+
+Jessica bypassed the department stores and the food court, wheeling herself with absolute purpose down the main concourse until we stopped in front of a sleek, brightly lit storefront for Pacific Cellular.
+
+It was a corporately owned flagship store, full of glass display cases showcasing the newest 2006 mobile technology.
+
+"Follow my lead," Jessica instructed, rolling her manual chair straight through the doors.
+
+A sales representative wearing a branded polo shirt immediately walked over to greet us. "Welcome to Pacific Cellular! How can I help you today?"
+
+"I need to open a brand-new, four-line family account," Jessica stated, projecting the flawless, unshakeable authority of a corporate IT engineer. "I also need four brand-new devices. I will be purchasing the hardware outright today."
+
+The representative's eyes widened slightly at the prospect of a massive, commission-heavy sale. "Absolutely, ma'am. We can get that set up right now. Are we porting over any existing numbers?"
+
+"No," Rachel answered instantly, stepping up to the counter right beside Jessica. Her voice was raspy, but the conviction in it was absolute. "We want new numbers. Completely new."
+
+"All four lines need fresh, unlisted numbers," Jessica confirmed. She reached into her messenger bag and pulled out her corporate ID lanyard, placing the heavy plastic card on the glass counter. "And please apply the Quantum corporate employee discount to the monthly data plan."
+
+The representative nodded enthusiastically, leading us over to the display cases to pick out the hardware.
+
+While Jessica handled the complex logistics of the contract and verified the data limits to become the sole, undisputed account holder, Rachel, Kristin, and I picked out our new phones. They were sleek, modern devices, a massive upgrade from the cheap, outdated flip phones Mom and Dad had previously saddled us with.
+
+We brought the boxes back to the register. The representative clicked his pen, scanning his computer monitor.
+
+"Alright, Ms. Ragsdale. I have your account approved and the hardware scanned in," the representative smiled cheerfully. "I'll go ahead and generate a block of local 360 numbers for the four devices..."
+
+"Actually, no thank you," Jessica interrupted smoothly, her tone perfectly polite but leaving absolutely no room for debate. She tapped her Washington State ID resting on the glass counter. "My billing address is in Renton. I want 425 area codes for all four lines, please."
+
+The representative blinked, his fingers pausing over the keyboard. He quickly deleted the data he had just entered. "Of course. Pulling from the King County pool right now."
+
+Rachel looked down at the glass counter. A slow, triumphant smile spread across her face as she realized exactly what Jessica had just done. She wasn't just buying us new phones; she was building a digital moat. The 360 area code represented Clark County, Tom, Cathy, the squalid apartment, and the trauma of the divorce. By forcing the 425 area code, Jessica was permanently erasing Vancouver from our digital footprint.
+
+Ten minutes later, the representative handed Jessica a sleek shopping bag containing our new activation slips.
+
+We walked back out into the bustling mall concourse. Jessica stopped near a carpeted seating area and handed a sealed box to each of us.
+
+"Take the old phones out of your pockets," Jessica instructed.
+
+I pulled my old silver flip phone out. Rachel pulled out the clunky device Dad had given her. Kristin produced her old standalone phone.
+
+"Throw them in the trash," Jessica commanded, pointing to the heavy metal waste bin a few feet away.
+
+Rachel didn't even blink. She walked over to the bin and dropped the device Dad paid for directly into the garbage. I followed suit, tossing the phone tied to Mom's account right next to it, severing the last digital tether to the East Coast. Kristin tossed hers in as well, solidifying her place on our grid.
+
+"From now on," Jessica said, looking at the three of us as we held our new, unopened boxes, "this pack is on a single, unified network. I control the account, I pay the bill, and neither Mom nor Dad will ever have administrative access to our communication again. If Tom Ragsdale wants to talk to us, he is going to have to find a way to earn our new numbers."
+
+Rachel looked down at the sleek new phone box in her hands.
+
+She stepped over to my side, immediately pressing her shoulder heavily against my ribs, claiming her anchor space. I slung my arm around her back, ignoring the ache in my spine, and pulled her flush against me.
+
+"He's never getting this number," Rachel whispered fiercely.
+
+"No, he's not," I agreed.
+
+The bridge was burned. The lines were cut. The repairs were officially underway.
+

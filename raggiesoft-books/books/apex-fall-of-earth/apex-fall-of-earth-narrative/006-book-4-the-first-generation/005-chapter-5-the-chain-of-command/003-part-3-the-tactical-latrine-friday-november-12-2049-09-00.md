@@ -1,0 +1,86 @@
+# Part 3: The Tactical Latrine – Friday, November 12, 2049 – 09:00
+
+By November, the residential bathroom at the end of the hall had been completely overhauled. Wyatt Colton had approached the dreaded milestone of potty training with the exact same S.H.O.P. Marine intensity he used to secure the planet's atmospheric scrubbers.
+
+The bathroom was no longer just a washroom; it was a highly specialized, multi-tiered tactical latrine.
+
+Sarah, now in her third trimester and moving with a heavy, deliberate waddle, leaned against the doorframe holding a cup of tea. She watched as Wyatt managed the morning hygiene deployment.
+
+The baseline for the operation had been set three days ago by the commanding officer.
+
+Ellie had simply woken up on Tuesday, marched into the bathroom, ripped the velcro tabs off her morning diaper, and thrown it emphatically into the reclamation chute.
+
+"Broken," she had declared, staring down at the absorbent material with absolute, tactical disdain. It was an inefficient piece of gear, and she was done with it.
+
+She had climbed onto the standard toddler insert Wyatt had fabricated, done exactly what was biologically required of her, and demanded a pair of canvas training pants. Ellie hadn't had a single accident since. She conquered potty training through sheer, terrifying toddler willpower.
+
+But true to the Vanguard's unshakeable code, Ellie refused to leave her squad behind. If the commander was upgrading her gear, the unit was upgrading with her.
+
+"Alright, Nora. Your turn," Wyatt encouraged, crouching down next to the toilet.
+
+Nora limped into the bathroom, her dark eyes wide with a mixture of determination and profound physical anxiety. While Ellie possessed the core strength and balance of a miniature tank, Nora’s weaker left leg made the physical mechanics of using the toilet exhausting. Balancing on one foot to pull her pants down was terrifying for her, and the hard porcelain felt entirely unsecured.
+
+Wyatt had built a specialized, heavy-timber step-stool that wrapped around the base of the toilet, complete with a padded, secure handrail on the left side.
+
+Nora gripped the rail tightly, her knuckles turning white. She bit her lip, heavily favoring her right side as she clumsily navigated the transition. She slipped slightly, her breathing hitching in panic, but Wyatt’s massive hands hovered exactly one inch away, ready to catch her.
+
+She finally managed to sit down. She looked up at Wyatt, her chest heaving slightly from the physical exertion.
+
+From the doorway, Ellie marched in. She didn't crowd Nora, and she didn't rush her. Ellie simply stood at the edge of the step-stool, crossed her arms over her chest, and gave Nora a firm, approving nod.
+
+Nora didn't successfully go that morning. After five minutes of intense concentration, she looked at Wyatt and gave a small, defeated shake of her head.
+
+"That's okay, sweetheart," Wyatt praised warmly, lifting her off the seat and helping her adjust her clothes. "You deployed. You held the perimeter. That's a win."
+
+Nora looked down, feeling she had failed the mission. But Ellie immediately stepped forward, patting Nora firmly on the back.
+
+"Good Nora," Ellie stated, her voice projecting absolute, unquestionable support. In the commander's eyes, the objective wasn't the biological function; the objective was the effort. Nora had tried, which meant the unit's honor was intact.
+
+Nora offered a small, wobbly smile, immediately comforted by her sister's endorsement.
+
+"Alright. Bring up the heavy armor," Wyatt sighed, rolling his shoulders as he looked out into the hallway.
+
+Nora heavily dragged her left leg out the door, returning a minute later pulling the Chariot. Leo was strapped securely into the center seat, his customized AAC tablet resting in his lap, humming a low, vibrating tune.
+
+Potty training Leo was an entirely different logistical nightmare. Because of his severe spastic diplegia, his leg muscles were locked tight, making sitting on a standard toilet impossible. Furthermore, his profound autism meant he entirely lacked the interoception to recognize the biological signals of a full bladder. He had absolutely no idea what they were doing in the bathroom.
+
+But Ellie had dictated that the unit moved together. If Nora and Ellie were training, Leo was training.
+
+Wyatt carefully unclipped Leo from the wagon and lifted his rigid, thirty-pound son.
+
+He didn't bring Leo to the standard toilet. Next to the sink, Wyatt had molecularly printed a highly specialized medical commode. It featured an angled memory-foam backrest, lateral chest supports, and a five-point harness to keep Leo's spasming muscles perfectly secure and upright.
+
+Wyatt gently lowered Leo into the chair, clicking the harness into place.
+
+Leo’s humming hitched. He didn't like the cold air, and the sudden transition from the wagon to the new, unfamiliar chair caused his scissored legs to tense up violently. He let out a sharp, panicked vocalization, his eyes darting around the room.
+
+Instantly, the girls moved in.
+
+Nora grabbed Leo's right hand, resting her cheek against his shoulder to provide deep, calming physical pressure. Ellie stood squarely in front of him, blocking his view of the sterile bathroom fixtures. She reached out, placing her hand firmly over the center buckle of his harness.
+
+"Here, Leo," Ellie commanded softly.
+
+Nora reached over to the Chariot, grabbed the ruggedized tablet, and placed it perfectly on the commode's lap tray. She gently guided Leo's shaking finger to the bright green square.
+
+"Good," the tablet's automated voice announced.
+
+Hearing the familiar digital voice and feeling the solid, physical presence of his sisters, Leo’s panic slowly subsided. His tense back uncurled against the memory foam. He let out a long, shuddering exhale, returning to his low, vibrating hum.
+
+He didn't go. He didn't even understand the concept of what the chair was built for. He just sat there, strapped into the harness, holding his sisters' hands.
+
+Wyatt looked at Sarah, a heavy, deeply emotional lump forming in his throat. He knew the medical realities. He knew that Leo might never fully master this biological milestone, and he knew that Nora would always struggle with the physical balance of it.
+
+But as he watched Ellie, he realized the Vanguard didn't care about the medical realities.
+
+Ellie leaned forward, gently tapping Leo's knee. Her dark eyes were shining with fierce, protective pride. He hadn't produced anything, but he had sat in the chair. He had braved the terrifying transition. He had given it the absolute best toddler try he could muster.
+
+"Good Leo," Ellie declared, offering her highest commendation.
+
+Leo slammed his palm down on the tablet.
+
+"Good."
+
+Sarah wiped a tear from her cheek, taking a sip of her tea as she smiled at her husband. "They've got it, Wyatt. The chain of command is holding."
+
+"Yeah," Wyatt breathed, kneeling down to unbuckle Leo and transfer him back to the safety of the wagon. "They're a hell of a squad."
+

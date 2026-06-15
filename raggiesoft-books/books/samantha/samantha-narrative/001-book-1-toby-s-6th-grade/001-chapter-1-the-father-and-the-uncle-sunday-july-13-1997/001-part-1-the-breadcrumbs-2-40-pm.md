@@ -1,0 +1,30 @@
+# Part 1: The Breadcrumbs – 2:40 PM
+
+The suffocating heat of the car was absolute.
+
+I was shoved into the far corner of the backseat, my body rigid, my muscles locked in a constant, vibrating state of terror. In the front seats, Richard and Thomas—my father and my uncle—spoke in low, agitated voices. They hadn't planned on Samantha being here. They only wanted me. But when they had grabbed me off the sidewalk in front of our house, Samantha hadn't screamed or run for help. She had lunged into the open door of the sedan right behind me, refusing to let them take me alone.
+
+Now, we were hours away from Virginia Beach, swallowed by the jagged, rising elevation of the Appalachian Mountains.
+
+The car violently jerked as Richard pulled off Interstate 81, the tires kicking up dust as we rolled into a rundown, single-pump gas station. The engine cut off.
+
+"Don't make a sound," Richard warned, looking at us through the rearview mirror. His eyes were erratic, dangerous.
+
+The two men got out, slamming the heavy car doors. They walked toward the convenience store to buy cigarettes, leaving us baking in the afternoon sun.
+
+The moment they were out of earshot, Samantha moved. She didn't cry. Her hands were shaking violently, but her face was set in a cold, desperate determination. She cracked the car door open just enough to slide her slender frame out into the suffocating heat.
+
+I couldn't vocalize to stop her. My chest was locked. I just watched in absolute terror as she crept along the side of the brick building. Mounted on the exterior wall, baking in the sun, was a payphone.
+
+Samantha didn't have quarters. She didn't need them. She snatched the heavy metal receiver and furiously dialed a 1-800 pager number.
+
+I knew whose pager it was.
+
+She waited three agonizing seconds, then rapidly punched in the phone number printed on the payphone's metal placard. She slammed the receiver back onto the hook and sprinted back to the car, sliding into the backseat and pulling the door shut just seconds before the men walked out of the store.
+
+She had been doing it at every stop. A diner in Roanoke. A rest area in Wytheville. She was leaving a trail of area codes, a digital breadcrumb trail pointing straight west.
+
+She reached over and grabbed my trembling hand, squeezing it with a fierce, grounding pressure. *They're coming,* the pressure said. *I promise.*
+
+Richard put the car in drive, and we pushed deeper into the mountains.
+

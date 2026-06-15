@@ -1,0 +1,34 @@
+# Part 1: The Leap of Faith (Spring 2022)
+
+The two years after the global pandemic were a period of intense, focused rebuilding. The dream of the Lynnwood Discovery and Care Center was no longer on pause; it was the consuming, central project of their lives. Their small apartment had become a dedicated command center, every spare inch of space and every spare moment of time dedicated to the mission.
+
+They lived a frugal, purposeful life. They had more than enough money saved—in both their American and their new Canadian bank accounts, which they carefully managed to keep active—to live comfortably for years. The barrier was no longer financial; it was time.
+
+By the spring of 2022, they were all 37 and 40, and the strain was beginning to show. The burnout was a palpable thing in their small apartment.
+
+One rainy Tuesday evening, Chloé was at the dining table, surrounded by a fortress of binders on non-profit law. Megan was at her desk, meticulously reviewing the latest draft of their business plan, her face illuminated by the glow of her laptop. Across the room, Alex was at his own workstation, trying to finalize a complex 3D model of a custom-designed aquatic habitat. They had all put in full eight-hour days at their demanding jobs, and now, deep into the evening, they were trying to summon the creative energy for the work that truly mattered.
+
+Chloé let out a long, weary sigh and rubbed her tired eyes, the words on the screen blurring together. Alex, seeing her, looked away from his own screen, his mind refusing to solve the intricate engineering problem before him.
+
+He looked over at Chloé, at the slump of her shoulders, and then at Megan, at the sheer exhaustion etched on her face. He knew he felt the same. They were burning the candle at both ends, and the flame was beginning to flicker. He typed a slow, simple, and heavy sentence on his AAC.
+
+I CAN'T KEEP DOING BOTH.
+
+Chloé looked up, her expression a mirror of his own weariness. "I know," she said, her voice quiet. "Me neither. I feel like I'm giving my day job 80 percent, and the LDCC 80 percent, which means I'm running at 160 percent and failing at both."
+
+"Ditto," Megan added, not even looking up from her screen. "I spent an hour in a meeting at Quantum today thinking about donor outreach strategies instead of software documentation. We can't keep splitting our focus. The dream is too big now."
+
+They were at a crossroads. The dream was too real to be a side project. It demanded all of them. Their savings account, their "runway fund," was substantial. Their business plan was a masterpiece. But the fear was immense.
+
+"If we do this," Chloé said, voicing the terrifying thought, "if we all quit our jobs... that's it. The safety net is gone. It's just us and the dream, and if we fail..."
+
+Alex maneuvered his chair over to the table and took her hand. He looked at Megan, who finally looked up from her laptop, her own expression a mixture of fear and profound, unwavering resolve. He took a deep breath.
+
+WE WON'T FAIL, his device voiced, the tone clear and certain. NOT TOGETHER. IT'S TIME.
+
+Chloé looked at him, at the unwavering confidence in his eyes. She looked at Megan, who gave a single, firm, and decisive nod. The fear receded, replaced by a surge of adrenaline. He was right. It was time.
+
+"Okay," she whispered, a tear she didn't know was there tracing a path down her cheek. "Okay, Alex. We jump."
+
+That Friday, all three of them gave their two weeks' notice. The leap of faith, a decade in the making, was taken.
+

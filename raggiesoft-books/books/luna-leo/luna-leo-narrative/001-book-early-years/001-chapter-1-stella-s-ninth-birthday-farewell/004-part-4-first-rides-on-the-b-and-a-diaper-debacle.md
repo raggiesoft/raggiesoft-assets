@@ -1,0 +1,16 @@
+# Part 4: First Rides on "The B" and a Diaper Debacle
+
+As they emerged from the Bay State Marine Center, Grandpa Arthur suggested, "How about we explore the wonders of science? There's a BSTA station right near here for the Indigo Line. We could take our first ride on 'The B' to Civic Center Plaza, then transfer to an Emerald Line trolley. That’ll take us straight to Science Park. The Bay State Discovery Center is right there."
+
+Stella’s eyes widened. Two train rides! The walk to the BSTA Indigo Line station was short. Getting Leo’s stroller down the stairs required teamwork. The platform was busy. Stepping onto "The B" was a whole new world. Stella clutched Karen’s hand as the Indigo Line train slid into motion, the tunnel lights flashing past.
+
+"Next stop, Civic Center Plaza!" The transfer station was bustling. "Alright, a little bit of organized chaos," Grandpa Arthur said. They followed signs to the Emerald Line platform. Soon, a green trolley clattered in. This ride felt a bit bumpier. When the conductor called out "Science Park!" they disembarked. Before them stood the Bay State Discovery Center.
+
+As they approached the entrance, their progress was abruptly halted by two distinct, high-pitched wails. Karen paused. "Uh oh. Diaper emergency, times two." Luna tugged at her pants, "Mama, wet! Wet!" Leo cried out, and a tell-tale aroma confirmed his distress.
+
+"Alright, pit stop team!" David announced. Grandpa Arthur and Grandma Eleanor got in line for tickets while Stella waited with them. Karen took Luna towards the ladies' room. Inside, as Karen reached for a fresh diaper, Luna let out another forceful grunt. An entirely new, potent aroma filled the space. "Oh, Luna," Karen sighed, "you decided to join your brother in the major leagues, did you?"
+
+Meanwhile, David had lifted a very pungent Leo. "And this little stink bomb and I will brave the men's room." He recoiled. "Whoa, buddy! What on earth did you *eat*?" A few minutes later, Karen emerged with a happier Luna. David took longer. "Mission accomplished," he sighed, "but that men's room was *not* equipped for that level of biohazard. No changing table." Karen patted his arm. "You're a hero. Luna decided to go for a sympathy poop." They discreetly disposed of the diapers and rejoined the others just as Arthur and Eleanor finished buying tickets.
+
+"Perfect timing!" Grandpa Arthur declared. "All disasters averted! Shall we, birthday girl?" Stella grinned. Now, it was finally time to explore the wonders of science.
+

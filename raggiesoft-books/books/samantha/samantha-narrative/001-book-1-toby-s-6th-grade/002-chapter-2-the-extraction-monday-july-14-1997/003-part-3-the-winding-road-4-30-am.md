@@ -1,0 +1,36 @@
+# Part 3: The Winding Road – 4:30 AM
+
+The stretch of US-58 between Weber City and Bristol was a punishing, serpentine maze. The narrow two-lane road violently twisted and turned, carving its way through the pitch-black elevation of the Appalachian Mountains.
+
+Under normal circumstances, the constant shifting and swaying of the heavy sedan would have spiked my panic, but Sarah drove with uncompromising, calculated care. She took every hairpin turn slow and easy, her massive hands guiding the steering wheel with absolute precision to keep the chassis as level as possible.
+
+In the backseat, Samantha acted as my physical anchor. Every time the car banked hard to the left or right, her grip tightened around my chest, absorbing the centrifugal force so my spastic muscles wouldn't have to fight it.
+
+Eventually, the grueling twists of the mountain pass flattened out. The sudden, rhythmic hum of tires on straight pavement signaled our arrival in Bristol. Sarah merged us onto Interstate 81 North, the speed limit increasing as the road finally widened.
+
+But my shattered nervous system still hadn't fully stabilized. By the time the reflective green highway signs announced our approach to Wytheville, the frantic, misfiring signals in my body forced another agonizingly urgent need to stop.
+
+Sarah didn't sigh. She didn't complain. She just flicked the turn signal and guided us off the interstate and into a well-lit Virginia Department of Transportation rest area.
+
+The protocol did not change.
+
+Abbey unloaded my chair into the damp, pre-dawn air, and the four of us moved toward the brick building as a single, impenetrable unit. We bypassed the sprawling, multi-stall bathrooms and located a single-occupancy family restroom. Unlike the disgusting grime of the Weber City gas station, this room was sterile, brightly lit, and smelled heavily of industrial cleaner and fresh tile.
+
+But Sarah still threw the heavy metal deadbolt the second we were all inside.
+
+We went through the cramped, methodical process again. Samantha helped me, while my towering cousins stood shoulder-to-shoulder with their broad backs against the door, their sheer mass completely sealing off the only exit.
+
+When we emerged back into the cool night air, the torrential rain had finally reduced to a steady, quiet drizzle.
+
+As we reached the car, Sarah tossed the keys over the roof. Abbey caught them effortlessly with one hand. It was time to swap.
+
+Abbey folded her towering frame into the driver's seat, adjusting the seat backward to accommodate her long legs, while Sarah settled into the passenger side, crossing her thick arms over her chest and closing her eyes to rest.
+
+Samantha pulled me back into my center spot, locking her arms around me as Abbey smoothly merged the heavy sedan back onto the desolate, northbound stretch of I-81.
+
+I was still scared out of my mind. The ghost of my father's dead, drunken eyes still flashed behind my eyelids every time I blinked. But the violent, redlining terror that had gripped my chest for the last twelve hours was finally, mercifully beginning to decelerate.
+
+I looked at the two silhouettes filling the front seats. They were built like absolute tanks, their sheer physical density completely dominating the cabin. No one was going to pull us over. No one was going to run us off the road. And if anyone ever tried to open my car door again, they would have to get through the two women who had just shattered industrial timber in mid-air.
+
+For the first time since the nightmare began, I let my head slump heavily against my sister's shoulder, closed my eyes, and listened to the rhythmic hum of the tires carrying us home.
+

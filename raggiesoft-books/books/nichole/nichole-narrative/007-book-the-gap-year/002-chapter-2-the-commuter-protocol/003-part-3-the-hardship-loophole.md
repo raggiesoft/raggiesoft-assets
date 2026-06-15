@@ -1,0 +1,118 @@
+# Part 3: The Hardship Loophole
+
+## Date: January 22, 2004 Time: 12:30 PM Location: The Bull Pen Cafeteria, BSU Student Union
+
+Patrick sat at a cafeteria table, staring at the Commuter Waiver they had just secured. Next to it, he placed the glossy brochure for *The Foundry Lofts*.
+
+He rubbed his temples. "There's a flaw in the code, Nikki."
+
+Nichole looked up from her sandwich, tilting her head.
+
+"The Commuter Waiver," Patrick said, tapping the official university paper. "The fine print says it’s only valid if we live *with* Mom and Dad. If we sign the lease for The Foundry Lofts in August, we are officially living alone. That breaks the waiver. The housing department will force us into the freshman dorms."
+
+Nichole frowned. The dorms were the ultimate trap. State code meant single beds. Separate rooms. Vulnerability.
+
+She looked at her brother. They couldn't stay in Portsmouth; the ferry was too vulnerable to the weather. They *had* to get to the Lofts.
+
+She tapped her screen.
+
+"GO. BACK. TO. SARAH."
+
+"Yeah," Patrick nodded, packing up their bags. "We need an engineer for the bureaucracy."
+
+## Date: January 22, 2004 Time: 12:45 PM Location: Office of Access & Equity, BSU Student Union
+
+Sarah Mitchell looked up from her desk as Patrick rolled Nichole back into her office.
+
+"Forget something?" Sarah smiled.
+
+"A legal paradox," Patrick said, sitting down and sliding a glossy property brochure onto her desk. "We don't want to commute from Portsmouth. That was our backup plan. The primary mission is to live here. We want to sign a lease for **The Lofts at The Foundry**."
+
+Sarah picked up the brochure. Her eyebrows raised in pleasant surprise.
+
+"The Foundry? Wow. That is definitely not student housing," Sarah said, tapping the brochure. "Patrick, I spend half my day listening to freshmen complain about the 'party houses' just off campus. They are loud, the landlords rip kids off with predatory by-the-bed leasing, and there’s a Braxton PD cruiser out there every Friday night breaking up a fight. But The Foundry..."
+
+Sarah looked at Nichole, realizing the strategic brilliance of the choice.
+
+"I look at police call logs for off-campus safety," Sarah said. "The Foundry gets almost zero calls for service. It’s quiet. It’s secure. And best of all, it has direct elevator access down into the city's side of The Braxton Link."
+
+Patrick nodded. "Exactly. It connects right to The Bull Run. We could technically roll the entire way from the apartment to our classrooms underground without ever getting on a train."
+
+Nichole made a low, tired grunt at the thought. It was three subway stops away. Doing that purely under their own physical power would take over an hour and leave them both exhausted before their first lecture.
+
+She tapped her screen. **"THE. METRO. DOES. THE. HEAVY. LIFTING."**
+
+"Right," Patrick agreed. "The underground walk is the emergency backup. The primary route is taking the Blue Line from Foundry Square Station to the campus station. But to make this work, we need your help with the bureaucracy."
+
+"What's the issue?" Sarah asked.
+
+"The Commuter Waiver," Patrick explained. "The fine print says it’s only valid if we live with Mom and Dad. If we sign this lease in August, we are officially living alone as independent adults. That breaks the waiver. The housing department will force us into the freshman dorms."
+
+Sarah sighed, the reality of the university gridlock setting in. "That is accurate. As independent adults, your Commuter Waiver would be voided. You'd have to live on campus."
+
+"Which brings us to the paradox," Patrick said, leaning forward. "State safety code requires all of your accessible dorm units in South Hall to be equipped with single-occupancy, adjustable Twin XL medical beds, correct?"
+
+"Correct," Sarah confirmed.
+
+"Nichole has severe nighttime flexor spasticity," Patrick said, his voice dropping into serious, clinical advocacy. "For eighteen years, my job has been to lay next to her, wrap my arm around her, and use my body weight to anchor her spasms so she can sleep without tearing a hip muscle. I cannot do that from a separate Twin XL bed across the room. We need a shared King bed."
+
+The room went quiet.
+
+"So here is the problem, Sarah," Patrick said gently. "BSU mandates that we live on campus. But state law mandates that your dorms cannot accommodate our specific, documented medical need. You can't put a King bed in a freshman dorm."
+
+Sarah stared at Patrick. A slow, deeply impressed smile spread across her face. He had just successfully boxed the State of Rhode Island into a legal corner.
+
+"You've done your homework, Patrick," Sarah said.
+
+She turned to her computer and began typing rapidly.
+
+"Under the Americans with Disabilities Act, and Section 504 of the Rehabilitation Act," Sarah recited, quoting the federal law, "if a university cannot reasonably provide a documented medical accommodation within its own housing system, the university must grant the student an exemption to secure that accommodation elsewhere."
+
+Sarah hit 'Print'.
+
+She walked over to the printer and pulled out a new, blank form. The header read: **OFF-CAMPUS MEDICAL HARDSHIP WAIVER**.
+
+"BSU cannot legally force you into a dorm room that causes Nichole physical harm," Sarah explained, signing the bottom of the form. "Since we cannot provide a co-habitation suite, you are hereby granted full permission to lease the apartment at The Foundry Lofts, or anywhere else you want, on day one."
+
+Nichole let out a sharp, triumphant sound. She looked at Patrick, her eyes blazing with victory. They hadn't just dodged the system; they had used the system's own rigidity to protect themselves.
+
+She reached for her mouse. **"CHECKMATE."**
+
+"Checkmate indeed," Sarah laughed, handing Patrick the signed Hardship Waiver. "Go lease your fortress, you two."
+
+Patrick folded the paper carefully, treating it like a winning lottery ticket. But as he tucked it into his jacket, he paused.
+
+"Actually, Sarah... there is one more thing," Patrick said.
+
+He reached into his backpack and pulled out the pink receipt from the Admissions Office.
+
+"We just came from drop-off. Engineering for me. Tech Comm for her. But I dropped off a third packet."
+
+Sarah leaned in. "A third?"
+
+"The School of Nursing," Patrick said. "I applied for the LPN program at the University Medical Center."
+
+Sarah blinked, confused. "But... you're an engineer. Why would you want to be a nurse?"
+
+Patrick looked at Nichole.
+
+"Because of the word 'Liability,'" Patrick said, his voice hardening slightly. "At the last college we visited, the Director told me I wasn't 'qualified' to be her aide. They wanted to hire a stranger from an agency. A stranger who doesn't know her signals, her meds, or her temperature."
+
+He looked back at Sarah.
+
+"I know how to take care of her, Sarah. I've been doing the meds, the transfers, and the sterile procedures since I was twelve. I know the work. But I don't have the rank."
+
+He tapped the receipt on her desk.
+
+"I want the license. I want the piece of paper that says **The State of Rhode Island and Providence Plantations** certifies that Patrick Bennett knows what he's doing. So the next time someone tells me I'm 'just a brother,' I can show them my badge."
+
+Sarah stared at him. She had seen devoted siblings before, but she had never seen this level of strategic, weaponized love. He wasn't just caring for his sister; he was professionalizing the relationship to make them untouchable.
+
+"An Engineer and a Licensed Practical Nurse," Sarah murmured, shaking her head in amazement. "You're going to be the most overqualified freshman on this campus."
+
+Nichole tapped her screen, a proud smile lighting up her face. **"MY. MEDIC."**
+
+"Yeah," Patrick grinned, zipping his bag. "Her medic. Her engineer. Her brother. I'm just covering all the bases."
+
+"I'll see you in the fall," Sarah said, waving them out. "And remind me never to play chess against either of you."
+

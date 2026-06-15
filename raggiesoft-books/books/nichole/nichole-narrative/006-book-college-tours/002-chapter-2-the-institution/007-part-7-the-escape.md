@@ -1,0 +1,46 @@
+# Part 7: The Escape
+
+## Location: Outside the Rec Hall, Roosevelt Rehabilitation Center Time: 1:50 PM
+
+Patrick didn't stop pushing until they were well clear of the building, halfway across the parking lot toward the van. He was breathing hard, not from exertion, but from the adrenaline of the fight-or-flight response.
+
+Mr. Swayne jogged up behind them, his keys jangling like a frantic alarm bell. He looked flushed, clearly aware that his "controlled environment" had just exploded in front of prospective clients.
+
+"Mr. Bennett! Mrs. Bennett! Please, hold on!" Swayne called out, stepping in front of the van door to block their retreat. "I apologize for that... disturbance. That rarely happens. Emotions run high during the summer intake. It's usually very peaceful."
+
+Ellen stopped. She looked at the brick fortress. She looked at the "Rec Hall" where teenagers were beating each other up over soda machines.
+
+"Peaceful," Ellen repeated, her voice dripping with ice. "Like a prison yard is peaceful until the guards turn their backs."
+
+"Now, that is unfair," Swayne bristled, straightening his tie. "We are a rehabilitation facility. We deal with complex behaviors. But we also offer incredible opportunities."
+
+He looked at Nichole, who was trembling in her chair. Then he looked at Patrick, who was standing over her like a bodyguard. He decided to pivot back to his sales pitch, hoping to salvage the intake stats.
+
+"We haven't even discussed the vocational tracks!" Swayne pleaded. "I've reviewed Nichole's file. I see the intelligence scores, but we have to be realistic about the physical limitations."
+
+He put on his best 'counselor' face—a mask of condescending sympathy.
+
+"Based on her presentation," Swayne said, gesturing vaguely to her wheelchair, "we have a wonderful partnership with ValuMart. We could train Nichole to be a Door Greeter. It has very minimal physical requirements. She would sit in the vestibule, smile at customers, and welcome them. It gives our clients a profound sense of purpose."
+
+Nichole froze. *Door Greeter.* She had an IQ of 145. She had just graduated Valedictorian. She was writing a novel. She coded in HTML. And this man saw a potted plant that could smile.
+
+"And Patrick," Swayne continued, turning to the brother, "I see you're interested in technology, but with your hemiplegia, keyboard stamina might be an issue. However, you'd be a perfect fit for our Food Service Prep program! You could work in a hospital cafeteria. Maybe scoping potatoes or racking trays. It’s honest, steady work, and you'd be contributing to the community."
+
+Patrick stared at the man. The adrenaline from the fight drained away, leaving a cold, sharp, metallic fury.
+
+*Potato scooper.*
+
+Twelve years of fighting for inclusion. Twelve years of reading Shakespeare, solving calculus problems, and dreaming of building a tech empire. And this state-run machine looked at them and saw a greeter and a cafeteria worker. They saw broken parts that needed to be kept busy.
+
+Patrick stepped forward. He towered over Mr. Swayne. He didn't look like a "client" anymore. He looked like an engineer looking at a faulty bridge.
+
+"She's a writer," Patrick said, his voice a low growl. "I'm an engineer. And we don't need your hall passes to have a life."
+
+"But—" Swayne started.
+
+"We're done," Tom said, stepping in. His voice was absolute. "Get out of the way."
+
+Swayne stepped back, defeated.
+
+Patrick loaded Nichole onto the lift. He locked her down with efficient, angry movements. He climbed into the back seat beside her and slammed the door.
+

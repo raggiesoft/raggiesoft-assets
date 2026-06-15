@@ -1,0 +1,11 @@
+# Part 6: An Impossible Thought
+
+Later that evening, long after the last French phrase had been spoken and the secret melody from Luna’s room had finally gone silent, Olivia lay in bed, a soft, contented smile on her face. The day had been a perfect whirlwind of legal finality and quiet, joyful preparation. As she listened to the steady, peaceful breathing of Leo beside her, her mind drifted back to their lesson.
+
+It’s incredible, really, she mused, a sense of profound admiration washing over her. A few weeks ago, they barely knew 'bonjour'. Now, Stella is making jokes, Luna is asking complex questions, and Leo… Leo is flirting with me in French more eloquently than most guys could manage in English.
+
+She thought about the sheer, focused intelligence of the family she was joining. They saw a problem—Leo’s fear of modern computers, their inability to speak her native language—and they didn’t just accept it; they systematically, patiently, and together, conquered it. There was no obstacle they couldn’t overcome when they worked as a unit.
+
+A quiet, almost absurdly funny thought popped into her head, and she had to suppress a giggle so as not to wake Leo. They’re picking it up so fast, I wonder… I wonder if we could get them to pass the TEFAQ—the Test d’Évaluation de Français pour l’accès au Québec. Give it a year, and the whole fortress could probably just up and become official Québec residents. The thought was ridiculous, of course, but it was born from a truth she was coming to understand more every day: there was nothing this family couldn't do when they set their minds to it.
+
+

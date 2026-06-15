@@ -1,0 +1,22 @@
+# Part 1: A Grieving Start
+
+The morning of Monday, August 25th, 2003, was bright and full of the nervous, excited energy of the first day of college. For Leo Porter, however, the world was a muted shade of gray. The two weeks since the heartbreaking farewell to Olivia at Seattle's King Street Station had been a blur of quiet, aching grief.
+
+Stella pulled her blue Holt Sentinel to the curb in front of the Martin Building on the bustling downtown campus of the Community College of Hampton Roads (CCHR). She turned in her seat, her expression a mixture of pride and deep, maternal concern. "Okay, guys," she said softly. "First day. You're going to be great."
+
+Luna, sitting in the back beside her brother, forced a bright smile she didn't feel. She was masking her own feelings, trying to project a sense of excitement and normalcy for Leo's sake. "We'll be awesome, Stel. Don't worry about us."
+
+Stella’s gaze softened as she looked at her brother. Leo was visibly upset, his shoulders slumped, his eyes holding a distant, hollow look that had become his new normal. The gaping hole left by Olivia's departure was a raw, open wound.
+
+Stella got out and helped Leo into his wheelchair. She pulled both of her siblings into a tight, fierce hug. "Call me the second you're out of your last class, okay? I'll be right around the corner at the office."
+
+"We will," Luna promised.
+
+With a final, worried glance at Leo, Stella got back in her car and drove off toward her office, leaving the twins to face their new world.
+
+Luna took the handles of Leo's wheelchair, her touch a firm, reassuring presence. "Alright, dork," she said, her voice full of a forced cheerfulness. "First up, American Lit in the Martin Building. Let's go not get lost."
+
+As she pushed his wheelchair through the building's main doors, she took her duty as his designated caregiver seriously, clearing a path through the throng of new students and pointing out classroom numbers. She kept up a steady stream of light chatter, trying her best to keep his spirits up, to be a bright spot in the fog of his grief.
+
+But as they found their classroom and settled into the accessible seating at the front, Leo just stared blankly at the whiteboard. Luna could do her best, Stella could be a phone call away, but the fortress felt incomplete. He was surrounded by the noise and energy of a new beginning, but all he felt was the profound, crushing silence of an ending. He just missed Olivia so much. The void in his heart was a vast, empty space, waiting for someone, or something, to fill it.
+

@@ -1,0 +1,50 @@
+# Part 2: The Multiplier – Sunday, May 12, 2045 – 18:25
+
+The sterile, brilliant white light of the medical wing suddenly felt incredibly warm.
+
+Wyatt was still on his knees beside the diagnostic bio-bed, his arms wrapped fiercely around Sarah’s waist as she held onto him, her shoulders shaking with soft, disbelieving laughter and tears of pure joy.
+
+On the ultrasound monitor beside them, the three tiny, glowing nodes remained suspended in the dark, their rapid, synchronized heartbeats still playing over the localized acoustic sensors.
+
+*Thump-thump. Thump-thump. Thump-thump.* "Three," Wyatt murmured again, burying his face in the soft crook of her neck, completely overwhelmed by the sheer magnitude of the word. "We thought we had months to prepare for one. And you're carrying three."
+
+Sarah pulled back just enough to look at him, her dark eyes shining brilliantly. She reached down, grabbing a sterile cloth from the tray to wipe the clear conductive gel from her lower abdomen.
+
+"Two girls and a boy," Sarah whispered, shaking her head. She looked at the firm, pronounced swell of her stomach that had terrified her just twenty minutes ago in the garden. "No wonder I popped so fast. My body is trying to build a fortress for a small army."
+
+Wyatt stood up to his full 6'1" height, a massive, irrepressible grin spreading across his scarred face. He looked up at the acoustic array built into the ceiling.
+
+"Aria," Wyatt called out, his S.H.O.P. Marine pragmatism finally starting to break through the shock. "How does a multiple-gestation pregnancy change our operating manual? We just spent the afternoon studying the timeline for a single baby. Throw that out. What do we need to know about triplets?"
+
+*"The foundational biology remains the same, Wyatt,"* Aria’s synthesized voice replied, shifting instantly into a supportive, clinical cadence. *"However, the physiological demands on Sarah’s body will be significantly magnified. A trichorionic triamniotic pregnancy requires a massive increase in maternal caloric intake. Sarah will need to consume roughly double the standard daily calories to support the development of three distinct placentas."*
+
+Wyatt looked down at Sarah. "Good thing we planted potatoes today."
+
+"I am going to eat everything in the billionaire's stasis freezer," Sarah laughed, swinging her bare legs over the edge of the bio-bed.
+
+*"Furthermore,"* Aria continued, bringing up a new, highly detailed physiological chart on the secondary monitor, *"as we discussed in the library regarding morning sickness, the accelerated production of human chorionic gonadotropin and progesterone will likely result in an early and severe onset of first-trimester symptoms. Extreme fatigue, heightened olfactory sensitivity, and acute nausea are highly probable in the coming weeks. You must prioritize rest, Sarah."*
+
+"I can do rest," Sarah smiled, sliding off the bio-bed. Her bare feet touched the cold, anti-microbial floor plates.
+
+She looked up at Wyatt. The sheer absurdity of their situation was almost comical. Apex Defense Solutions had inadvertently given them the greatest gift in the universe by cutting corners on a medical budget.
+
+"The corporate recruiter told me the Omni-Cycle blocker was top-of-the-line," Sarah mused, a vindicated smirk touching her lips. "They probably bought a batch of expired saline from the lowest bidder just to save a few credits on the quarter."
+
+"And it cost them an entire generation," Wyatt said, stepping forward to pull her flush against his chest. He rested his heavy, calloused hand securely over her stomach. "Their loss is our absolute gain."
+
+He looked around the pristine, state-of-the-art medical suite. They had the ultrasound machine, the automated diagnostic beds, and the raw data. They had everything they needed to ensure she was perfectly safe for the next eight months.
+
+"We need to start building," Wyatt announced, his protective instincts kicking into maximum overdrive. "We need to design the nursery, we need to secure the food supply, and we need to make sure the estate is completely hazard-proof."
+
+"Okay, okay, slow down, mechanic," Sarah laughed, reaching up to gently cup his face in her hands. "The babies are the size of poppy seeds. We have time. We don't have to build the entire house tonight."
+
+"I know," Wyatt breathed, leaning his forehead against hers. "But I want it to be perfect for them."
+
+"It already is," Sarah promised softly. "They're safe. We're safe."
+
+She took his hand, lacing her fingers securely through his.
+
+"Come on," Sarah said, leading him toward the brushed-steel doors of the medical wing. "Let's go back upstairs. We need to get dressed, and then you can take me to the Fabrication Foundry and show me how you're going to build those cribs."
+
+Wyatt nodded, completely anchored by her calm, radiant energy. As they stepped into the pneumatic elevator to head back up to the master suite, the sound of the three tiny, synchronized heartbeats faded behind them, permanently etched into both of their memories.
+

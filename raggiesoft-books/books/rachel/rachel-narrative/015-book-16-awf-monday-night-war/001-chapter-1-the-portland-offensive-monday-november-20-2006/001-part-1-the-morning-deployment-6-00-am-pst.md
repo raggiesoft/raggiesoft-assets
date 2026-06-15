@@ -1,0 +1,68 @@
+# Part 1: The Morning Deployment – 6:00 AM (PST)
+
+The sharp, rhythmic electronic beeping of the hotel alarm clock shattered the heavy, insulated silence of the third-floor room.
+
+My processor booted up slowly, pulling me out of the deepest, most restorative sleep I had experienced in two years. I didn't wake up with a violently racing heart or the sudden, terrified urge to scan the room for threats. I just blinked against the dim, early-morning light filtering through the edges of the blackout curtains, my brain immediately registering the absolute, unshakeable physical geometry of my perimeter.
+
+I was still pinned perfectly in the center of the plush queen bed. On my right, Rachel was completely tangled in the heavy white hotel comforter, her bare leg still securely hooked over my calf, her arm draped heavily across my chest. On my left, Kristin let out a soft, sleepy groan. She shifted her weight, pressing her bare shoulder flush against mine, and reached an arm out from under the blankets to blindly swat at the alarm clock on the nightstand.
+
+Her hand found the snooze button, plunging the room back into quiet.
+
+"Morning, Bear," Rachel rasped softly, her dark eyes cracking open.
+
+She didn't move her arm. She just looked across my chest at Kristin, who was blinking sleepily, and then back down at me. A slow, highly amused smirk spread across Rachel's face as she realized the physical reality of our sleeping arrangement hadn't changed by a single inch since we turned the lights out last night.
+
+"Delores is still screaming somewhere," Rachel whispered, her voice dancing with vindictive joy.
+
+I let out a low, rumbling chuckle that vibrated against Rachel's arm. It was true. If Delores could somehow see this room, her mind would completely shatter. But as I lay there, feeling the soft, grounding warmth of Kristin resting comfortably against my left side, my analytical processor ran the logic.
+
+Delores had absolutely no right to scream. She had voluntarily surrendered her territory. She was the one who had screamed at me, packed my bags, and violently thrown me out into the freezing Kent rain at four in the morning. She had broken up with me. She had literally thrown me away like garbage.
+
+So what if I had found someone new? What if I was sharing a bed, completely stripped of armor, with a gorgeous, fiercely loyal twenty-year-old woman who actually protected me? It was none of her business anymore. Delores’s sick, twisted rules were dead.
+
+Kristin felt the vibration of my laugh. She didn't pull away.
+
+"Let her scream," Kristin mumbled playfully from my left. She nestled closer, resting her chin comfortably on my bare shoulder and closing her eyes again. "I'm comfortable. And she's a thousand miles away."
+
+"Alright, strike the perimeter," Jessica’s voice suddenly cut through the darkness from the other bed, followed by the soft click of the bedside lamp clicking on. "It is 6:00 AM. Transit math requires us to be dressed and fully mobilized before the afternoon crowd hits the arena."
+
+The pack moved with practiced, frictionless efficiency. We threw back the heavy comforter.
+
+The zero-privacy baseline held absolute. There was no hesitation, no retreating to the bathroom, and absolutely no shame. Rachel, Kristin, and I stood up in the open space between the two queen beds, completely exposed in the soft lamplight, and began pulling clean clothes from our duffel bags.
+
+For the second day in a row, my threat-detection system remained entirely dormant. The ghosts of Kent were gone. Kristin standing there, treating my physical form with total, unbothered normalcy, was incredibly medicinal. It proved to my trauma-wired brain that the female body was not a weapon.
+
+I pulled on my thick denim jeans and a fresh, dark t-shirt, maintaining the unbroken visual tether with Rachel as she pulled her own signature red shirt over her head. We verified each other's presence, anchoring our nervous systems for the day ahead.
+
+Once we were dressed, Rachel immediately dragged one of the heavy upholstered hotel chairs over to the polished mahogany desk. She sat down, pulling her knees to her chest, and patted the empty chair right next to her.
+
+"You have time to build," Rachel reminded me.
+
+I smiled, my processor buzzing with anticipation. I walked over to the desk and placed my hand on the cool, brushed-aluminum lid of the ten-pound, piano-black machine. In my head, the terminology had officially shifted permanently. It wasn't just a command center anymore. It was the **Extraction Rig**. It was the physical, humming vehicle of my liberation.
+
+I pressed the silver power button. The dual 7200 RPM hard drives whined to life with a satisfying, mechanical rev, and the 17-inch screen illuminated the dark wood of the hotel desk.
+
+I booted *The Denizens 2*, enduring the loud, aggressive SecuROM disc-check as the optical drive spun to maximum RPM.
+
+Once the high-definition digital neighborhood loaded, I pulled up the hidden developer console. *bool_prop edit_citizen true*.
+
+I clicked on the blank, default male avatar waiting in the family bin and initiated the *Force Create-A-Character* override. The screen transitioned to the blue-lit pedestal room, and I went to work.
+
+Rachel immediately hooked her left arm securely around my waist. She leaned her entire body weight flush against my right side, resting her chin heavily on my shoulder so she could watch the screen perfectly.
+
+With her physical pressure grounding me, I used the weighted optical mouse to meticulously sculpt the Bear. I adjusted the jawline and the height. But more importantly, I adjusted the posture. I deliberately bypassed the hunched, defensive slump that Delores had beaten into me over the last two years. I used the game's sliders to give the digital avatar the upright, confident stance of a survivor. I dressed him in a dark, comfortable flannel, perfectly mirroring the heavy armor I had worn on the train ride yesterday.
+
+"There he is," Rachel whispered, her arm tightening around my ribs in a heavy, affectionate squeeze.
+
+I moved my left hand over the keyboard, resting my finger above the 'C' key. Using the mouse, I rotated the digital Bear so he was standing perfectly shoulder-to-shoulder with the digital Bug I had built the night before.
+
+*Click-whir.*
+
+The simulated camera shutter echoed from the premium speakers, capturing the high-resolution screenshot and saving it directly to the Extraction Rig's hard drive. The visual documentation for the *Vertex Creative Studio* lore document was complete. Our digital sanctuary was officially populated, and we were standing tall.
+
+I saved the game and powered down the Extraction Rig, the heavy cooling fans slowly spinning to a halt. My processor felt incredibly light. The digital armor was built. The physical perimeter was secure.
+
+I leaned back in the heavy upholstered chair, looking across the room at my older sister, who was already reviewing transit routes on her corporate laptop.
+
+"So," I said, a massive, unburdened grin breaking across my face. "What time do the arena doors open for AWF Monday Night WAR?"
+

@@ -1,0 +1,34 @@
+# Part 3: The Curriculum
+
+## Sunday, June 15, 2003 11:00 AM
+
+The living room of **105 Pepper Street** was quiet, save for the low hum of the window AC unit and the faint sound of a diesel bus engine idling across the street at **Pepper Plaza**. On the beige sofa, the "Deep Pressure Therapy" session was reaching its natural conclusion. Freddie lay still, breathing deeply. The weight of Paige lying on top of him was no longer just a medical intervention; it was a physical confirmation of his new reality. She was heavy, warm, and present. She was compressing his frayed nerves back into a cohesive cable. He wasn't just tolerating the pressure; he was enjoying the hug for what it was. A deep, trusting, silent connection.
+
+"Status?" Paige whispered, her chin still resting on his chest. "Integrity restored," Freddie said softly. "The static is gone. I am... regulated." "Good." Paige squeezed him one last time—a tight, rib-compressing hug that felt like love, not just therapy—before pushing herself up. She rolled off him and sat back on the cushion.
+
+Freddie sat up. He adjusted his orange hoodie, pulling it straight. He patted the spot on the sofa to his left. He looked at Jessica. "Sit," Freddie requested. "I require the formation." Jessica smiled and sat down on his left. Paige remained on his right. Freddie sat in the middle, sandwiched between his sisters. It was a different kind of pressure—side-to-side contact—but it was just as grounding.
+
+"Logistics," Freddie stated, looking from one to the other. "Proceed," Jessica said. "The briefing regarding 'Modesty,'" Freddie said, choosing his words carefully. "You stated that we 'do not hide.' That we change without barriers. That we exist as a unit." "Correct," Paige confirmed. "We've seen it all before, Freddie. We're past the point of closing doors."
+
+Freddie nodded. He processed this. "I accept the protocol. However, my database on... biological differences... is limited to high school biology textbooks. If we are to operate without barriers, I need to ensure my internal software is updated. I do not want to react with... error." He looked at his hands, twisting the drawstring of his hoodie. "I do not want to be weird."
+
+Jessica leaned back, crossing her legs. A spark of an idea lit up her eyes. "You know," she started, "we all have to fulfill the General Education requirements for CPI. There's a Health and Physical Education credit we need." "I do not enjoy organized sports," Freddie noted immediately. "The sensory input of a gymnasium is torture." "Not sports," Jessica said. "There’s a lecture course. I saw it in the course catalog when I was registering for my summer classes. **HPE 204: Dimensions of Human Sexuality.**"
+
+Freddie blinked. "A university-level course on... reproduction?" "More than that," Jessica explained. "It covers anatomy, physiology, psychology, relationships, boundaries... everything. It’s a science class, Freddie. It explains the mechanics of how people work. No shame. Just data."
+
+Paige sat up straighter. "That actually sounds... useful. Especially if we're living like this. It would normalize everything." "Exactly," Jessica said. "If we take it together in the Fall, we all get the same information. We learn the correct terminology. We demystify the human body so that when you see me or Paige changing, it’s not a 'girl thing' or a 'secret.' It’s just anatomy."
+
+Freddie ran a simulation in his mind. A classroom. A textbook. Structured data about the very things that confused him most about social interaction and physical bodies. Instead of guessing, he would have a manual. Instead of being terrified of doing the wrong thing, he would have a grade.
+
+"A scientific approach to human anatomy and behavior," Freddie summarized. "With us," Paige added, bumping his shoulder with hers. "We'd be right there in the row with you. Wingmen."
+
+Freddie looked at Jessica. "The syllabus covers... everything?" "Everything," Jessica promised. "From chromosomes to social dynamics."
+
+Freddie felt a strange sense of anticipation. Usually, the topic of "sexuality" was a minefield of embarrassment and unknown variables. But framed as a university course—as data—it felt manageable. It felt like another "Source Code" he could learn.
+
+"I agree to the curriculum," Freddie stated firmly. "We will enroll in HPE 204 for the Fall Semester." "It's a plan," Jessica grinned. "The Avery Unit takes on Human Sexuality. We're going to ace that class."
+
+Freddie leaned back into the sofa, feeling the warmth of his sisters on both sides. He looked out the window. Across the street, he saw a **Route 1** bus pull out of the sawtooth bay, heading toward campus. He had a sensory diet. He had a King bed waiting down the hall. And now, he had a syllabus.
+
+"This is efficient," Freddie said, closing his eyes. "I like The Base." "We know, Navigator," Paige whispered, resting her head on his shoulder. "We know."
+

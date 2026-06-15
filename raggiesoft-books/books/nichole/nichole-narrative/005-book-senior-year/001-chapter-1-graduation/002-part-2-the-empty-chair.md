@@ -1,0 +1,126 @@
+# Part 2: The Empty Chair
+
+## Patrick’s Point of View
+
+Patrick felt the rubber grips of the push handles rip from his palms. It wasn't a slip; it was a violent tear, like a riptide pulling a swimmer under.
+
+A heavy shoulder—a father in a hurry to get a front-row seat—slammed into Patrick’s chest, spinning him around. Patrick stumbled, his feet tangling in the long, purple hem of his graduation gown.
+
+"Hey!" Patrick roared, shoving back. "Watch where you're going!"
+
+But the man was already gone, lost in the surge of bodies.
+
+Patrick spun back toward where Nichole had been a second ago. He expected to see her gold tassel. He expected to see the high back of the *Titan AeroMotion*.
+
+He saw nothing but a wall of strangers.
+
+"Nichole!"
+
+His voice was swallowed instantly. The Northwood High School band was hitting the crescendo of *Pomp and Circumstance*, the brass section blaring triumphantly over the chaos. The cymbals crashed, erasing his scream as if he hadn't made a sound.
+
+The mob pressed in. Patrick was shoved hard to his right, away from the center aisle, toward the wall of the gymnasium. He fought to keep his footing. He was six feet tall, broad-shouldered, usually an anchor in any crowd. But this wasn't a crowd; it was a stampede.
+
+"Nichole!" he screamed again, his voice cracking.
+
+Panic, cold and sharp, spiked in his chest. She was sitting down. Her head level was at the waist of every adult running through that gym. They wouldn't see her. They would see a gap in the crowd and try to fill it. They would trip over her. They would crush her.
+
+He threw an elbow, catching a woman in a floral dress in the ribs. He didn't apologize. He didn't care.
+
+"Move!" Patrick bellowed. "Get out of the way!"
+
+He shoved a teenager in a Lions jersey aside, swimming upstream against the flood of spectators. The heat in the gym was suffocating. The air smelled of cheap perfume and floor wax.
+
+Where was she?
+
+He scanned the sea of purple gowns. Every student looked the same from the back. He needed to find the chair. He needed to find the glint of the chrome frame.
+
+*She can't scream,* his mind raced. *If she gets knocked over, she can't call for help. She’s trapped.*
+
+The thought made his blood run cold. He wasn't looking for a graduate anymore; he was looking for a victim.
+
+He pushed harder, tearing the sleeve of his own gown. He broke through a knot of parents arguing over a saved seat.
+
+There.
+
+In the middle of the aisle, about twenty feet away, the crowd parted slightly around an obstacle.
+
+Patrick saw the familiar black upholstery. He saw the custom joyful-purple stickers Nichole had put on the side panels for the occasion.
+
+"Nikki!"
+
+He lunged forward, ignoring the band, ignoring the people cursing at him. He reached the chair. He grabbed the handles, ready to spin her around, ready to pull her against his chest and shield her from the madness.
+
+"I've got you, I've got..."
+
+Patrick froze.
+
+The brake was locked. The footrests were down. A gold honor cord was tangled in the right wheel.
+
+But the seat was empty.
+
+## Nichole’s Point of View
+
+The world didn't just tilt; it vanished.
+
+One moment, Nichole was floating—safe in the suspension of the *Titan AeroMotion*, anchored by Patrick’s grip. The next, a heavy weight slammed into her left shoulder. The force was sudden and violent, like a linebacker hitting a tackling dummy.
+
+She felt the chair lurch. The right wheel lifted off the polished wood.
+
+"WATCH IT!"
+
+That was the last thing she heard. Patrick’s voice. A roar of warning that was instantly swallowed by the chaos.
+
+Gravity took over. Nichole tumbled sideways, her purple gown tangling around her legs. She hit the gymnasium floor hard. Her hip took the brunt of the impact, sending a shockwave of pain up her spine. Her mortarboard cap flew off, lost instantly under a stampede of dress shoes and sneakers.
+
+She gasped, trying to draw breath, but the air was sucked out of the room by the crushing press of bodies.
+
+She was on the ground. She was three feet below the eye level of everyone in the room.
+
+To the mob of parents surging toward the stands, she wasn't a student. She was a speed bump.
+
+A heavy boot landed inches from her nose. A high heel grazed her ankle.
+
+*Move,* her brain screamed. *Move or they will crush you.*
+
+She tried to push herself up, but her arms trembled. Her legs, heavy and unresponsive, felt like anchors dragging her down. She couldn't stand. She couldn't run. She was a swimmer caught in a riptide of polyester and panic.
+
+She looked for the chrome flash of her chair. Gone. She looked for Patrick’s face. Gone.
+
+She was alone.
+
+Terror, cold and absolute, flooded her chest. She couldn't scream. Her throat seized, the familiar paralysis locking her vocal cords tight. She opened her mouth, but the only sound that came out was a sharp, terrified wheeze.
+
+She clawed at the floor. Her fingernails scraped against the wax. She dragged herself to the left, away from the thundering center aisle, seeking the only shelter she could see.
+
+The bleachers.
+
+The massive wooden structure loomed like a cliff face. The bottom row was elevated just enough—a dark, dusty gap between the floor and the first bench.
+
+She scrambled toward it. Her elbows burned as she pulled her dead weight across the hardwood. A knee struck her ribs, knocking the wind out of her, but she didn't stop. She couldn't stop.
+
+She reached the gap. She squeezed her shoulders through the metal support beams, dragging her paralyzed legs behind her.
+
+She rolled into the darkness.
+
+Dust bunnies and discarded candy wrappers littered the concrete floor. Above her, the wooden planks thundered as hundreds of people stomped to find seats. The noise was deafening—a physical assault that vibrated through her skull.
+
+And through it all, the band played on. The trumpets of *Pomp and Circumstance* shrieked over the roar, a relentless, cheerful soundtrack to her suffocation.
+
+Nichole curled into a ball. She pulled her knees to her chest, wrapping her arms around her head to block out the noise. She pressed her face into the dusty concrete.
+
+She squeezed her eyes shut. Hot tears leaked out, tracking through the dust on her cheeks.
+
+*Patrick.*
+
+He was her Safe Person. He was the one who always knew where she was. He was the one who checked the mirrors.
+
+But he wasn't here.
+
+For the first time in her life, she realized with terrifying clarity that she was invisible. No one could see her under the wood. No one could hear her silence.
+
+*I am going to die here,* she thought. *I am going to stop breathing and no one will know until the music stops.*
+
+The thought broke her heart more than the fear. She wouldn't get to say goodbye. She wouldn't get to hug him one last time. She would just fade away in the dark, under the feet of strangers, while the Lions played their fight song.
+
+She shivered, burying her face in her knees, and waited for the end.
+

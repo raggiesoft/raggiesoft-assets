@@ -1,0 +1,80 @@
+# Part 8: The Night Shift (The Spasm Protocol)
+
+## **Date:** Wednesday, December 28, 2005 **Time:** 02:00 AM **Location:** The Master Suite, Unit 404
+
+The screaming started at 0200.
+
+It wasn't vocal screaming. It was the sound of Nichole's body betraying her.
+
+Outside, the blizzard was hammering against the exposed brick of the Foundry. The wind howled down the ventilation shafts, shaking the window panes in their frames.
+
+But inside the King bed, a different storm was raging.
+
+The hamstrings, angry at being cut and stretched, were firing into massive, rock-hard cramps. Her legs were jumping inside the blue foam immobilizers, thrashing against the sheets.
+
+Patrick was awake instantly.
+
+He didn't grope for the light. He knew exactly where the switch was.
+
+The lamp clicked on. Nichole was arching her back, her face contorted in a silent, open-mouthed scream of agony. Her hands were gripping the duvet so hard her fingernails were tearing the fabric.
+
+"Spasms," Patrick whispered, his voice calm but his heart rate instantly doubling. "Okay. I see it. I see it."
+
+He glanced at the digital clock. The red numbers were glowing steady. *Thank God.* The power was still on. The heat was still humming. If they had lost power in this cold, with her in this state, it would have been a 911 call.
+
+He grabbed the med schedule from the nightstand. **Diazepam.** Due at 02:15. She was fifteen minutes early, but the spasm didn't care about the clock.
+
+He grabbed the orange bottle. He took out the white pill. He didn't try to give it to her whole—swallowing a pill while lying flat and sobbing was a choking hazard.
+
+He grabbed the small ceramic bowl and the heavy spoon he had left there for this exact moment. *Crunch.* He pulverized the pill into powder. He mixed it with a dollop of applesauce.
+
+"Eat," he commanded gently, bringing the spoon to her lips. "It’s the relaxant. Swallow."
+
+Nichole gagged slightly, but she swallowed.
+
+"Good girl," Patrick whispered.
+
+But the meds would take twenty minutes to hit the bloodstream. She needed relief *now*.
+
+He remembered Ellen's advice from the phone call: *“Don't fight the spasm. Support it.”*
+
+He grabbed the extra pillows he had staged on the floor.
+
+"I'm going to lift your legs," Patrick said. "I know it hurts. I'm sorry. I have to change the angle."
+
+He slipped his hands under her heavy, casted heels. She flinched, a tear leaking out of her squeezed-shut eyes.
+
+"One. Two."
+
+He lifted. He shoved two king-sized pillows under her calves, elevating her legs so gravity would help drain the inflammation and take the tension off the hip flexors.
+
+Then, he did the thing only he could do.
+
+He climbed back into bed next to her.
+
+He didn't just lie there. He carefully placed his own heavy leg over her shin—resting it gently on the rigid blue brace, avoiding the incision sites.
+
+He used his own body weight to anchor her jumping leg.
+
+"I got you," he whispered, wrapping his arm around her shoulders, holding her tight to stop the shaking. "I'm the anchor. Push against me."
+
+The weight of his leg provided **proprioceptive feedback**—it told her confused nervous system where her leg was in space. It stopped the "jump-reflex."
+
+The warmth of his body seeped into her side, fighting the chill of the drafty room.
+
+Slowly, the Diazepam kicked in. The rock-hard knots in her thighs began to loosen. The violent twitching slowed to a dull throb. The silent sobbing stopped, replaced by hitching breaths.
+
+Nichole turned her head into his chest. She buried her face in his t-shirt, exhausted.
+
+She was asleep within ten minutes.
+
+Patrick didn't sleep. He lay there, staring at the ceiling, listening to the wind batter the building. He felt the occasional twitch of her leg under his, but it was manageable now.
+
+He looked at the glowing clock again. *02:35.*
+
+He had passed the test.
+
+He hadn't panicked. He hadn't called Mom in Portsmouth. He hadn't called the on-call resident.
+
+He was the Caregiver. The power was on. And the Machine was still running.
+

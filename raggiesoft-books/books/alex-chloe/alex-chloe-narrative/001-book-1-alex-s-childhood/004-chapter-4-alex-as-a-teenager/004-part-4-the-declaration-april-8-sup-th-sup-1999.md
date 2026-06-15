@@ -1,0 +1,20 @@
+# Part 4: The Declaration (April 8<sup>th</sup>, 1999)
+
+Back at the Carter house after the movie, the air was buzzing with the energy of "The Codex." As the family gathered in the kitchen for Alex's birthday cake and ice cream, the conversation was dominated by the film's mind-bending plot. Jessica and Cassie were still trying to make sense of it, asking confused questions that Megan and Alex would answer in a rapid, excited, and perfectly synchronized volley of explanations.
+
+After the cake had been eaten, Alex and Megan found their usual quiet corner in the living room while the rest of the family chatted. The experience at the theater—the simple, safe act of holding her hand, the shared intellectual thrill of the movie, the stark contrast to the humiliating Jennifer ordeal—had settled in Alex's mind, cementing a profound and powerful truth.
+
+He had been quiet for a long time, watching her talk about her favorite parts of the movie, a deep sense of gratitude welling up inside him. He had been thinking about it for a while, a sentence he had practiced typing on his own, waiting for the right moment. The day's events had made it clear: this was the right moment.
+
+He held up a hand to get her attention, then began to type on his Quantum Communicator Jr., which was resting on his lap. The process was slow, deliberate, each keypress a conscious choice. He checked the sentence on the small, monochrome screen, then took a deep breath.
+
+Megan watched, a patient, curious smile on her face.
+
+He hit the "speak" button. The voice that came out was the familiar, distinctly robotic synthesizer of his older device, but the words were pure Alex.
+
+MEGAN, the device voiced. YOU ARE MY FAVORITE COUSIN. He paused, letting the first part land, then continued. AND... YOU ARE MY MOST FAVORITE WOMAN IN THE WHOLE WIDE WORLD.
+
+Megan stared at him, her own smile faltering, her eyes instantly welling up with tears. It was the most beautiful, heartfelt, and profound thing anyone had ever said to her. She didn't say anything. She just leaned in and pulled her cousin into a long, fierce, and deeply loving hug.
+
+He hugged her back just as tightly. The declaration had been made. From that day forward, it was no longer just an unspoken feeling. It was a stated, canonical truth of their shared universe.
+

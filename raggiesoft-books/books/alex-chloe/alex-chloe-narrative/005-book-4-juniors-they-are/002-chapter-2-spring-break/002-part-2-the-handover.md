@@ -1,0 +1,30 @@
+# Part 2: The Handover
+
+The Saturday morning that marked the beginning of their junior year spring break was a flurry of activity on Lisa Court. Two sets of suitcases stood by the front door of the Miller house, and a palpable sense of travel excitement was in the air—but it wasn't coming from Alex and Chloé.
+
+Their four parents were embarking on a rare, simultaneous week of work-related travel.
+
+"Okay, our flight to Chicago leaves in three hours," James said, running through a final mental checklist. He was attending a major cybersecurity conference. "Em and I should be back next Saturday afternoon."
+
+Across the table, Thomas Mason chuckled, catching Sophie’s eye. "You're not going to believe the timing on this," he said, shaking his head with amusement. "Sophie, why don't you tell them about my big commitment that week?"
+
+Sophie Mason’s eyes widened with an exaggerated flair, her Québécois accent adding a musical lilt to her words. "Ah, *oui*! It seems the entire corporate world has decided Spring Break is the perfect time for mandatory professional development! Thomas’s big one for Quantum – it's their major annual Quantum Vision Summit – is the exact same week. And where are they holding this grand event this year? Seattle!"
+
+A brief, loaded silence fell as the implications settled. Chicago. Seattle. All four parents would be out of town, on opposite sides of the country, for the entirety of Spring Break.
+
+Emily Miller, ever attuned to her son, reached over and squeezed Alex’s hand reassuringly. "Now, before you two even think about looking up recipes for a seven-day pizza-and-ice-cream diet," she said, her tone light, but her eyes filled with a profound affection and unwavering trust that enveloped both teenagers, "we've all been talking. You two are seventeen now. Juniors. And frankly," she smiled, a genuine, heartfelt expression, "you're more responsible together than most adults we know."
+
+Thomas Mason nodded in firm agreement. "Absolutely. We have complete faith in you both. The rules are simple: No big parties, obviously. And no visitors that aren't immediate family." He then added, "And we've already talked to Megan. She's going to drive over from VDU on Wednesday after her classes and stay the night, just to check in and make sure you haven't burned the houses down."
+
+James added, his voice calm and reassuring, "You both have keys to both houses, you know where everything is, and the freezers are stocked. We'll call every night to check in."
+
+Chloé finally spoke, her voice clear and steady, her hand instinctively resting on Alex’s arm in a familiar gesture of solidarity. "Don't worry," she said, addressing all four parents with a confident smile. "We'll be absolutely fine. It'll be quiet, just us. Probably a lot of studying and a movie marathon or two."
+
+Alex, using his AAC, added his own quiet assurance, the synthesized voice calm and clear. WE WILL BE VERY RESPONSIBLE. THANK YOU FOR TRUSTING US.
+
+Sophie gave them both a loving, encompassing look. "We know you will be, *mes chéris*," she said softly. "We trust you completely."
+
+After a final round of hugs, the four of them piled into a single taxi van bound for the airport, leaving Alex and Chloé standing together in the quiet of the Miller's front doorway. They watched until the van disappeared around the corner.
+
+A profound, peaceful silence settled over Lisa Court. For the first time, they were truly on their own. No parents, no schedules, no expectations. Just two houses, a week of freedom, and the quiet, unspoken promise of a life they were getting to practice for the very first time.
+

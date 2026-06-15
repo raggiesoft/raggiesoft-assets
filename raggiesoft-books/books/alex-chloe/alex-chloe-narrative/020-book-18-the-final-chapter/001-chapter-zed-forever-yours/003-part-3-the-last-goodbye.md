@@ -1,0 +1,26 @@
+# Part 3: The Last Goodbye
+
+The morning of Tuesday, January 27th, 2057, began with a soft, winter light filtering into the quiet bedroom. At around 9:00 AM, Isabelle arrived for her daily visit, this time with her young daughter. She came into the room where Alex lay peacefully, with Chloé on one side of his bed and Megan on the other, each holding one of his hands.
+
+"I brought you something, Alex," Isabelle said softly, pulling a familiar, foil-wrapped chocolate egg from her pocket. A Koko-Kapsel.
+
+Alex's eyes lit up with a faint but genuine spark of his old, mischievous humor. The forbidden fruit.
+
+Chloé chuckled, a soft, tearful sound. "Oh, Isa. After all these years."
+
+With the gentle, practiced care of a lifetime, Chloé unwrapped the chocolate. She broke off a small piece and placed it on his tongue. He closed his eyes, savoring the creamy, familiar taste. It was the last thing he would ever eat.
+
+Isabelle's daughter carefully assembled the tiny toy inside the capsule, holding it up for him to see. Alex watched her, a look of profound, peaceful contentment on his face.
+
+He looked at his grandniece, at his beloved cousins, and finally, his gaze settled on Chloé and Megan. He gave their hands a gentle squeeze, then, with a final, deliberate effort, he reached for his AAC. His fingers moved slowly, typing one last, perfect, loving declaration.
+
+IT'S A BEANIE.
+
+The synthesized voice, quiet in the room, was his final word. He gave Chloé's hand one last, gentle squeeze. At the same time, his other hand, held firmly by Megan, gave a final, faint pressure in return. As he began to slip away, the world outside the warmth of their touch faded.
+
+A peaceful slideshow of his life flickered behind his closed eyes, not as a frantic rush, but as a slow, gentle turning of pages. The memories weren't sharp, but soft and warm: the roar of the Montréal sports bar, muted and distant, a feeling of pure safety between his two favorite rivals; the smell of damp earth on the day the three of them broke ground in Lynnwood, a scent of shared triumph; the quiet glow of a CRT monitor in a dark room, the feeling of perfect, symbiotic teamwork as he and Megan navigated the alien-infested hallways of the Argos facility, a memory of his first, foundational sanctuary.
+
+He saw the sound of Chloé's laughter echoing in the humid natatorium at Fairlawn, a melody of pure joy. But the final, most vivid image, the one that filled his entire being, was of a sunny afternoon in 1999. He saw a girl with coppery red hair, a stranger, walking across a lawn and wrapping him in a warm, spontaneous hug—the first hug, the one that had signaled, with absolute certainty, that he would never, ever be alone again. His very last thought was not a word, but a feeling: the profound, simple, and complete feeling of her.
+
+At 10:32 AM, with Chloé holding one hand and Megan holding the other, Alex passed away peacefully in his sleep, a quiet smile on his lips. On his head was his favorite red and white 2010 Canada "beanie," a symbol of the day he knew he loved his wife. And on Megan's head, a final, defiant, and deeply loving act of solidarity on Canadian soil, was her own well-worn, black Boston Brawlers beanie.
+

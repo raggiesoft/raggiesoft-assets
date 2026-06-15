@@ -1,0 +1,32 @@
+# Part 2: MATH 03 (8:50 AM)
+
+At exactly ten minutes to nine, a tired-looking adjunct professor ambled down the hall with a ring of keys, unlocking the heavy wooden door to the classroom.
+
+Sarah didn't wait for an invitation. She pushed Nate’s chair straight through the threshold, her eyes scanning the layout. True to the disability office's word, a height-adjustable, wheelchair-accessible table sat in the front left corner of the room. Sarah parked Nate perfectly under the lip of the table, locked his brakes, and immediately claimed the standard desk right next to him.
+
+The perimeter was secured just as the rest of the sleepy students began to filter in.
+
+The professor handed out the syllabus, the crisp white paper landing on Nate’s desk with a hollow thud. At the top of the page, bold black letters spelled out their shared doom: MATH 03 - Basic Algebra.
+
+Sarah leaned over, looking at the paper, and let out a quiet, visceral groan. Nate echoed it instantly.
+
+If there was one thing the siblings were completely united on, it was their absolute, unwavering hatred of math. It had been a struggle for both of them through middle school, and Nate vividly remembered barely scraping by in his algebra classes before he graduated from Northwood High. Sarah hadn't fared much better. Numbers didn't make sense to them the way words and narratives did; equations felt like a foreign language spoken entirely in frustrating riddles.
+
+And the greatest insult of MATH 03? It didn't even count toward a degree. It was a purely remedial hurdle, a mandatory roadblock the college insisted they clear before they were allowed to touch any credit-earning courses.
+
+"Mondays, Wednesdays, and Fridays," Sarah whispered, reading the schedule block on the syllabus. "From 9:00 AM to 9:50 AM. Three days a week of pure torture."
+
+"At least it's only fifty minutes," Nate whispered back, staring at the course objectives.
+
+"Fifty minutes of polynomials," Sarah muttered, pulling a notebook from her bag. "It's going to feel like ninety."
+
+She wasn't wrong. As the professor began to drone on about the order of operations and the expectations for the semester, time seemed to painfully dilate. The fluorescent lights hummed. Whiteboard markers squeaked. Nate kept his head down, meticulously copying notes he already didn't understand, trying to ignore the creeping boredom.
+
+But every time the anxiety of the academic setting started to bubble up—the fear that he was falling behind, the lingering ghost of Valerie telling him he wasn't smart enough to handle the real world—he just looked to his right.
+
+Sarah was right there, chewing on the end of her pen, looking just as miserable and confused by the fractions on the board as he was.
+
+They were in the trenches together. And because of that, Nate survived the fifty minutes.
+
+When the clock on the wall finally clicked to 9:50 AM and the professor dismissed the room, Nate closed his notebook with a loud, definitive snap. Step one of his collegiate return was officially complete. They had survived math.
+

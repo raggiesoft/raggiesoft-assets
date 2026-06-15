@@ -1,0 +1,92 @@
+# Part 6: The Core Check – 5:00 PM
+
+Rachel and I bowed into the Dojang, taking our positions on the line. The room sat directly underneath the second-floor observation deck, a boxed-in rectangular space with low ceilings and harsh fluorescent lighting. Because the room doubled as a dance studio, the floor was covered in hard, slick linoleum tile. We were barefoot, and the floor was always freezing against the soles of my feet.
+
+Master Curtis walked into the room. He didn't say a word as he crossed the linoleum and reached for the cords of the exterior window blinds. The late afternoon Virginia sun was usually blinding at this hour, blasting right through the glass, so pulling them shut was just part of the daily routine.
+
+But he didn't stop there.
+
+He turned around and walked to the small interior window that looked out into the lobby. He pulled those blinds completely shut, too. It was always a coin toss whether Curtis left the lobby blinds open or closed; it was a completely random variable that usually meant nothing. But today, the heavy white plastic slats snapped shut, entirely sealing the room off from the outside world. There was no Master Ray or Master April today to act as a buffer, and now, there were no parents watching from the lobby.
+
+"On your backs," Master Curtis barked, taking his place at the front of the room. "Leg lifts."
+
+The entire class—adults, teenagers, and kids—dropped to the freezing linoleum. We placed our bare hands flat under our rear ends to support our lower backs and lifted our heads off the floor.
+
+"Six inches!" Master Curtis commanded. "Hold them. One!"
+
+Normally, this was the part of the drill where the instructor—whether it was Master Ray, April, Rhonda, or even Curtis himself—would grab one of the thick, foam kicking shields from the corner. They would walk down the line, using the foam pad to gently tap our stomachs to check our muscle tension. It was a standard, predictable routine.
+
+But today, Master Curtis didn't pick up the foam shield.
+
+"Two!"
+
+The counting continued. The spasticity in my legs made the hold agonizing, my thighs shaking violently. We reached a count of six. That is when I saw it out of the corner of my eye.
+
+Master Curtis was barefoot, and he had moved to the far right end of the line, standing directly beside David Miller, one of the adult students.
+
+Without warning, Master Curtis raised his bare foot and placed it directly onto David's contracted stomach. He shifted his entire body weight onto that foot, stepping up, and then immediately swung his other leg over David's body. As his leading foot hit the floor on the other side, his weight shifted again, and his trailing foot came off David's stomach.
+
+He was using his students as stepping stones.
+
+Up. Down. Master Curtis moved to the next student, stepping onto their stomach, shifting his heavy weight, and stepping off.
+
+My heart hammered against my ribs like a trapped bird. What was happening?!
+
+I got incredibly nervous as he stepped onto the next student, moving down the ranks. I realized exactly what this was. He was angry about Rachel's outburst on Tuesday. He wanted to punish us, but to cover his tracks, he was abandoning the foam pad entirely. He was disguising his retribution as a hardcore conditioning exercise, stepping on every single person in the room so he couldn't be accused of singling us out.
+
+Up. Down. Hold. We were on leg lift fifteen.
+
+Because we were brown belts, we were closer to the front of the line. Master Curtis reached me. As a ten-year-old carrying extra weight, I was already deeply self-conscious of my midsection even on a good day, but right now, it was just a target. He placed his bare foot onto my stomach and shifted his weight. The sheer, crushing pressure pinched the soft tissue and drove deep into my gut, forcing the air out of my lungs in a sharp hiss. My rigid core muscles screamed in protest, absorbing the heavy, localized weight before he finally stepped off and moved to Rachel.
+
+Rachel was absolutely terrified. She was only eight years old, so much smaller and weaker than me. When his foot came down on her stomach and his weight shifted, I heard her let out a sharp, breathless yelp of pain.
+
+Master Curtis didn't react. He just kept walking, stepping on the next person, and the next, continuing his march down the line through the green and purple belts.
+
+Finally, he reached the white belts at the very end of the line. Drew, being just six years old and a beginner, was the absolute last kid on the floor.
+
+When Master Curtis's foot came down on the little boy's stomach and his weight shifted, Drew let out a sharp, breathless cry, his legs immediately dropping to the linoleum. The sudden, crushing weight had completely knocked the wind out of him. Drew curled onto his side, gasping and sobbing.
+
+"Lock your core, Drew!" Master Curtis barked coldly, towering over the terrified six-year-old. "Get your legs back up! Crying is weak!"
+
+He didn't offer a hand. He just stepped away.
+
+The first pass was over. I thought we had survived it. I thought the drill was done.
+
+But Master Curtis turned around.
+
+He didn't walk back up the line using people as stepping stones. He walked normally across the linoleum, his bare feet slapping the tile, passing all the lower belts until he stopped directly in front of Rachel and me.
+
+He looked down at us, his expression an impenetrable, cold mask.
+
+He placed his foot onto Rachel's stomach again. But this time, it wasn't a fluid motion. He shifted all of his weight into his leading foot, but he kept his back foot anchored to the floor behind her.
+
+To the rest of the room, he was just pausing mid-stride to deliver a lecture. But to Rachel, the physics were catastrophic. He was using her small abdomen as a structural brace, leaning forward and driving his mass directly down through his heel.
+
+Rachel let out a distressed whimper, her face flushing a terrifying, dark red from the agonizing strain of trying to hold her muscle wall together under the crushing, static weight of a two-hundred-pound man.
+
+"Where is that voice from Tuesday?" Master Curtis sneered softly, dropping his tone so only we could hear the venom in it. He didn't move. He just leaned into her, letting the seconds tick by as the pressure compounded. "No *kihap*. No spirit. This is what happens when weak little girls forget their place."
+
+Rachel’s mouth opened in a silent, desperate gasp, the excruciating, prolonged pain pushing her right to the edge of a terrified scream.
+
+Master Curtis noticed.
+
+"Go ahead and scream," Master Curtis whispered, dragging the seconds out even further. His voice was as cold as a razor blade, and he deliberately drove his heel a fraction of an inch deeper into her soft tissue as the words left his mouth. "I'll just press harder."
+
+After what felt like an absolute eternity, he finally lifted his anchored back foot, swung his leg over her, and immediately placed his bare foot onto my stomach.
+
+All of his weight bore down on me, lingering with that same agonizing, static compression. He paused his stride again, keeping his back foot planted on the linoleum while driving his front heel deep into my gut. But because of my extra mass, the physics of the crush were fundamentally different. His heel didn't just press flat against a rigid shield of muscle. It sank deep, violently pinching the soft tissue of my midsection and driving it like a wedge directly into my stomach wall.
+
+My neurological system panicked. Because of my Cerebral Palsy, my muscles already operated on a hair-trigger of high tone. The sudden, crushing, prolonged trauma sent my core into a violent, involuntary muscle spasm. My stomach seized, clamping down so rigidly against the invading weight of his foot that the tension had nowhere to go.
+
+I felt a sickening, white-hot *rip* deep in the center of my gut. It felt like a thick, heavy rubber band had been stretched far past its absolute limit and violently snapped under the immense, localized pressure.
+
+I couldn't even gasp. The blinding pain paralyzed my diaphragm.
+
+"And look at you," Master Curtis spat, looking down at me with absolute disgust. He didn't step off when my body seized. He stayed right there, his heel digging directly into the fresh, agonizing tear as he delivered his final verdict. "Nothing but soft fat. You're both pathetic."
+
+He finally shifted his weight, completed the stride, and stepped back onto the floor.
+
+"Lock your cores," Master Curtis demanded coldly to the room, though his eyes were locked entirely on us. "It builds strength."
+
+The leg lifts finally finished at a count of fifty.
+

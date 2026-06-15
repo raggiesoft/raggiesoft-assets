@@ -1,0 +1,62 @@
+# Part 1: The Fleet Girl – Friday, July 10, 2066 – 16:00 (Standard Galactic Time)
+
+The Earth Remnant Embassy on Anchor had grown from a single titanium foundation block into a sprawling, multi-tiered diplomatic hub.
+
+Built under the protective overwatch of the Colton family, the outpost featured massive hydro-glass atriums, pressurized botanical gardens, and heavy-duty docking bays. It was legally the sovereign territory of the Global Defense Coalition, but the 0.48G gravity and the breathtaking, inescapable view of Planet Eden hanging in the pitch-black sky served as a constant reminder of who actually owned the system.
+
+Inside his private liaison office, sixteen-year-old Jack Colton was packing his canvas satchel.
+
+He was dressed in a crisp, tailored gray Henley and dark denim, a subtle compromise between his family's rugged pioneer roots and the formal expectations of the Coalition delegates he interacted with daily.
+
+He reached across his sleek, brushed-titanium desk, his fingertips lightly brushing the edge of a hand-milled, polished alien-pine picture frame. It sat directly in front of his massive, state-of-the-art Magna Studio monitor. The high-definition screen behind the frame was running magnaOS, displaying the exact same image as its digital desktop wallpaper.
+
+The photograph was the absolute anchor of his existence.
+
+In the picture, the vibrant, emerald-green canopy of the Genesis Valley served as the backdrop. Jack stood in the center, possessing Wyatt's broad, towering shoulders but Sarah's gentle, approachable smile. Flanking him on either side, leaning their heads affectionately against his biceps, were his fourteen-year-old sisters, Molly and Claire. The twins looked brilliant and sharp in their practical pioneer clothing, their identical eyes shining with fierce, uncompromising loyalty as they hugged his waist.
+
+And sitting squarely on Jack’s broad shoulders, her small hands gripping his hair while she laughed uproariously at the camera, was eight-year-old Willow. She was missing a front tooth, her dark hair was a messy tangle of wild curls from running in the wind, and she looked entirely, completely safe.
+
+It was a portrait of profound, unconditional physical closeness. It was his family, his best friend, and his entire universe.
+
+The pneumatic door to his office hissed open.
+
+Elena Vance strode into the room. At sixteen, the daughter of Ambassador Vance was a product of the Earth Remnant’s refugee fleet. She had grown up on crowded, sterile starships, surrounded by political maneuvering, resource rationing, and the cold reality of deep-space survival. She was striking, highly intelligent, and dressed in the impeccable, rigid blue-and-white uniform of a Coalition junior adjutant.
+
+She was also, for the last three months, Jack’s girlfriend.
+
+"Jack," Elena greeted, her voice crisp and entirely professional. She didn't offer a hug, and she didn't reach for his hand. Physical touch was an absolute rarity for her, viewed as an inefficient distraction during working hours. "The Ambassador is hosting a reception on the orbital staging frigate tonight. The delegates from the Perseus Arm are eager to meet the son of the legendary Wyatt Colton. I've already cleared your security transit."
+
+Jack stopped packing his satchel. He looked at Elena, offering his signature, disarming smile—a smile that usually melted the tension in any room.
+
+"I appreciate the invitation, Elena, I really do," Jack said, his melodic voice perfectly calm and polite. "But I have to decline. My rotation is over, and I'm heading back down to the surface."
+
+Elena’s perfectly manicured brow furrowed. She crossed her arms, her posture stiffening. "Jack, this is a massive networking opportunity. These are the logistical commanders of the surviving human race. You can't just skip it."
+
+"I promised Willow I would help her calibrate the water-wheel for her new garden plot down in the village tonight," Jack explained patiently, slinging his heavy canvas satchel over his shoulder. "And tomorrow morning, Leo is having his wheelchair’s suspension recalibrated. The sensory shift always dysregulates him, so Nora asked me to be there to help run interference and keep his environment quiet."
+
+Elena let out a short, sharp sigh of profound exasperation. Her eyes drifted to the glowing Magna Studio monitor, and the physical wooden frame resting in front of it. Her gaze swept over the four people tangled together in the photo.
+
+"I don't understand how you function like that," Elena said, her tone dripping with a clinical, pragmatic condescension. She gestured toward the picture. "They are constantly hanging on you. You are the sole diplomatic liaison to the most heavily fortified, resource-rich planet in the known galaxy, Jack. And you are abandoning a geopolitical summit to go play babysitter to an eight-year-old and act as a medical orderly for your brother."
+
+Jack’s jaw tightened for a fraction of a second.
+
+If Ellie were standing in the room, she would have physically thrown Elena out the airlock. If Molly and Claire were there, they would have verbally dismantled the girl's entire worldview.
+
+But Jack was the diplomat. His entire nature was wired to absorb friction and maintain the peace. He didn't snap, and he didn't raise his voice. He simply absorbed the emotional insult, burying the sharp ache it caused deep in his chest.
+
+He looked at the girl standing in front of him. On paper, they made perfect sense. They were the same age, they were both intelligent, and their fathers respected each other deeply.
+
+But looking into Elena's eyes, Jack realized she didn't understand the first thing about his soul. She looked at Eden and saw dirt. She looked at the physical affection of his sisters and saw clinginess. She looked at Leo's profound neurodivergence and saw an inconvenience. She didn't understand the crushing, beautiful weight of deep pressure therapy, the absolute necessity of the Vanguard's perimeter, or the unshakeable loyalty that kept the Colton family alive.
+
+Jack reached out, gently picking up the wooden picture frame from his desk and carefully placing it into his canvas satchel.
+
+"Leo isn't a patient, Elena. He's my brother," Jack corrected softly, his voice remaining agonizingly even, though the warmth had entirely drained from it. "And Willow isn't a burden. She's my best friend."
+
+"It's a waste of your potential," Elena countered, stepping closer, though she still kept a calculated foot of space between them. "You have the political capital to be a Senator in the Coalition. You could live on the flagship. You don't have to spend your life hiding in the dirt on a closed-off rock."
+
+"That dirt is my home, Elena," Jack replied, stepping around his desk. He didn't try to kiss her goodbye; he knew she would just stiffen at the contact. "I'll see you on Monday."
+
+Jack walked out of the office, his boots carrying him swiftly toward the embassy's hangar bays.
+
+As he boarded the sleek silver runabout and requested clearance through the Aegis shield, the cold, political sterility of the moon faded away. He engaged the repulsorlifts, aiming the nose of the ship directly at the vibrant blue-and-green jewel below. He couldn't wait to get back to the mud, the noise, the thick Australian accents of the village, and the people who actually knew how to hold his hand.
+

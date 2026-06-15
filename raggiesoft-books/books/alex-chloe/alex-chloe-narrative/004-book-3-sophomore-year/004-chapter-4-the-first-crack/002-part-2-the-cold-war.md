@@ -1,0 +1,12 @@
+# Part 2: The Cold War
+
+The rest of the day was a misery of unspoken, icy tension. Chloé went to her own house, and for the first time in over a year, they spent a Saturday afternoon in separate homes. The silence was a crushing weight. She spent the entire time in her room, crying. Being away from Alex, especially after being so terrified of losing him in the hospital, felt fundamentally wrong, a violation of their natural state. But his words had cut her to the core.
+
+As evening fell, she knew she had to go back. The routine, their shared bed, was too deeply ingrained. To break it would feel like an admission of defeat, a finality she wasn't ready for. Alex, in his own room, was consumed by a tidal wave of regret and a profound, terrifying fear. *I hurt her. I really hurt her. She's going to leave me.*
+
+When Chloé re-entered the Miller house, her eyes were red-rimmed and puffy. She was hoping for an immediate hug, a chance to smooth things over without words. But Alex, caught in his own spiral of fear and shame, saw her tear-streaked face and couldn't bring himself to meet her eyes, terrified of seeing the depth of the hurt he had caused. The moment for an easy reconciliation passed, replaced by a thick, awkward silence.
+
+They ate dinner in a tense silence with Alex's parents, who could clearly see that a major storm had passed through.
+
+That night, for the first time, their shared bed was a cold and hostile territory. Chloé, her back to Alex, lay rigidly on the far edge of the mattress, her body a wall of hurt and anger. Alex lay on his own side, facing away, his body coiled with regret and a desperate, aching loneliness that was somehow a thousand times worse than the loneliness he had known before her. The space between them was a frozen, empty chasm. He wanted to reach out, to say he was sorry, but the words wouldn't come, his pride and his fear a gag in his throat. It was the most miserable, lonely night of their lives.
+

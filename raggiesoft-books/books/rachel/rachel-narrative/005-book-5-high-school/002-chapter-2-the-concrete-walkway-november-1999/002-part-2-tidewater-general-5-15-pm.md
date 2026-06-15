@@ -1,0 +1,48 @@
+# Part 2: Tidewater General – 5:15 PM
+
+The ride to Tidewater General Hospital was a silent, agonizing blur of neon streetlights and early winter darkness.
+
+Because the paramedics had explicitly called out the need for the Level 1 Trauma Center in the driveway, the terrifying gravity of the situation was already locked into our processors. There was no comforting illusion that this was just a simple broken leg. We were heading into the absolute highest tier of emergency medicine.
+
+Mom drove the sedan with a rigid, white-knuckled grip on the steering wheel, desperately trying to keep the ambulance's flashing taillights in view as we merged onto the interstate. Dad sat in the passenger seat, staring blankly out the window. He hadn't said a single word since the rig pulled away. He just kept looking down at his hands, his chest rising and falling in shallow, panicked breaths. He was the protector of the pack, and he had been right there on the roofline, completely powerless to stop his daughter from dropping out of the sky.
+
+Rachel and I sat in the back seat, locked in a tight, terrified perimeter. She had my arm caught in a vice grip, her face buried against the heavy fabric of my winter coat. I leaned my weight into her, providing the deep-pressure anchor her nervous system needed, though my own heart was hammering a frantic rhythm against my ribs.
+
+When we finally reached the sprawling, brightly lit complex of Tidewater General, we bypassed the chaotic main ER lobby and were directed straight to the surgical waiting room.
+
+The sterile smell of clinical bleach and the harsh, buzzing fluorescent lighting immediately set my nervous system on edge. We sat in a row of stiff, vinyl waiting room chairs. Dad leaned forward, resting his elbows on his knees, his face buried in his hands. He looked like a man whose entire universe had just violently fractured.
+
+It felt like hours before a doctor finally pushed through the heavy double doors. He was wearing green scrubs, his expression exhausted but sharply focused.
+
+"Family of Jessica Ragsdale?" he called out.
+
+Dad shot up from his chair, Mom right beside him. Rachel and I stayed anchored together, our eyes glued to the surgeon.
+
+"I'm her father. Is she okay?" Dad asked, his voice shaking.
+
+"She is stable, and her vitals are strong," the surgeon assured them, his calm tone offering a momentary, desperate wave of relief. "But the damage to her lower extremities is incredibly severe. She suffered what we call an axial load injury."
+
+"What does that mean?" Mom asked, her voice tight.
+
+"When she hit the concrete feet-first, her legs were locked," the surgeon explained, holding his hands up to demonstrate the physics. "The concrete didn't give, so all of that kinetic energy traveled straight up. It completely pulverized her calcaneus and talus bones—the heel and the critical lower hinge of the ankle—in both feet."
+
+Dad closed his eyes, a quiet, devastated sob catching in his throat.
+
+"Can you fix it?" Mom pressed, her maternal instincts flaring into an iron-clad demand for a solution.
+
+"We can save the limbs, and the nerves are intact," the surgeon confirmed. "But we cannot operate tonight. The soft tissue trauma from an impact of this magnitude is massive. Her feet and ankles are going to swell significantly over the next few hours. If we cut into that tissue now, the skin will simply die. We have to elevate her legs, put her in external splints, and wait."
+
+"Wait?" Dad echoed, looking completely lost. "For how long?"
+
+"Usually ten to fourteen days," the surgeon replied, delivering the grueling timeline without flinching. "We have to wait for the swelling to drop enough for the skin to wrinkle. Once she passes that 'wrinkle test,' we will take her into the OR and use titanium plates, screws, and bone grafts to meticulously rebuild the structure of her heels."
+
+The surgeon paused, looking directly at my parents to ensure the gravity of the next phase registered.
+
+"But you need to understand the reality of her recovery," the surgeon warned. "We can rebuild the architecture, but those grafts are going to be incredibly fragile. She will not be able to bear a single ounce of weight on her feet for a very long time. She is going to be strictly confined to a manual wheelchair for at least eight to ten months while the bones calcify."
+
+*Eight to ten months.*
+
+The words hung in the sterile air. It sounded like an absolute eternity. But to my hyper-literal, processing brain, the timeline contained a massive, critical loophole of hope. *Ten months.* That meant it wasn't permanent. That meant that by the time next August rolled around, when Jessica was finally packing up to leave for her freshman year of college, the metal would be gone. She would be walking again.
+
+Standing in that terrifying hospital waiting room, I locked onto that timeline like a life raft. We had a hard deadline, and we completely believed the doctors were going to fix her.
+

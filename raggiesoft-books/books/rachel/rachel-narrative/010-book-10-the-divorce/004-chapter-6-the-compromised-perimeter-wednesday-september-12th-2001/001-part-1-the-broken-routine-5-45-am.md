@@ -1,0 +1,56 @@
+# Part 1: The Broken Routine – 5:45 AM
+
+The harsh, electronic beeping of my alarm clock shattered the heavy silence of the bedroom.
+
+I reached out blindly, my hand fumbling over the nightstand until I slammed my palm down on the snooze button. The sudden quiet rushing back into the room felt heavy and suffocating.
+
+I was incredibly stiff. Sleeping wedged against the wall in my denim jeans and street shoes had left my CP-affected legs screaming with deep, throbbing cramps. Beside me, Rachel shifted on the narrow twin mattress. She hadn't taken her clothes or shoes off either. We had slept entirely braced for an attack that never came.
+
+"Michael?" she whispered in the dark, her voice scratchy and thick with exhaustion. "Is it time?"
+
+Normally, 5:45 AM was the absolute start of our rigid sequence. Alarm. Bathroom. Uniforms. Backpacks. The yellow school bus at the end of the block at exactly 6:25 AM. It was the predictable pattern that ordered our universe.
+
+But as my brain booted up, the terrifying variables of yesterday came crashing back. The grounded airplanes. Dad on the front porch. And worst of all, the cinderblock walls of the guidance counselor's office.
+
+"No," I said, staring up at the dark ceiling.
+
+Rachel turned her head, looking at me. "The bus is coming. We have to get up for band."
+
+"We aren't taking the bus," I stated, my voice low but absolute. "We aren't going to school."
+
+Rachel’s breath hitched. Her eyes went wide in the dim light. "But... we have to. It's Wednesday. We have third-period geometry. We have attendance. If we don't go, they'll call home. We'll get unexcused absences. We'll be in trouble."
+
+The sheer panic of breaking a major, structural rule was fighting a war against her terror of the divorce. We were good kids. We didn't cut class. We didn't cause trouble. The idea of willfully violating the school's attendance policy made my own chest tight with anxiety, but the survival math was undeniable.
+
+"Rachel, listen to me," I said, shifting my weight so I could look directly into her eyes. "Think about the logic. The airspace is closed, which means Dad is stuck here in Virginia Beach. And Mrs. Gable told us to our faces that the school cannot stop him. If we go to Northwood High, and Dad walks into the front office... they will call you down over the loudspeaker, and they will hand you right over to him."
+
+I watched her process the data. Her dark eyes darted back and forth as her brain mapped out the scenario. She pictured the fluorescent lights of the main office. She pictured Dad standing at the secretary's desk. She pictured the school security officer making sure she got into his truck.
+
+The school wasn't a safe zone anymore. It was a trap.
+
+"He knows exactly where we are from 7:15 to 2:10," I continued softly. "It's the most vulnerable place we could possibly be. The only perimeter we actually control is this bedroom."
+
+Rachel swallowed hard, the deeply ingrained fear of getting in trouble at school completely evaporating, replaced by the absolute necessity of survival. "Okay," she whispered, her hands gripping the quilt. "We stay behind the lock."
+
+Ten minutes later, we heard the floorboards creak in the hallway. Mom was awake.
+
+We held our breath, going perfectly still on the mattress. Her footsteps paused outside my bedroom door.
+
+"Michael? Rachel?" Mom called out, her voice flat and drained. The emotional toll of the national tragedy and our screaming match the night before had completely stripped her of her usual parental authority. "Your alarms went off. The bus comes in thirty minutes."
+
+We didn't make a sound. I pressed my thumb firmly against the push-button lock on the knob, just to ensure it was still engaged.
+
+Mom sighed heavily through the wood. She didn't have the energy to fight us. She didn't try the knob, and she didn't demand we answer. The entire country was in a state of paralyzing shock, and enforcing high school attendance was a battle she clearly couldn't fight today.
+
+"There's food in the fridge," she said quietly. "I have to go to work. Don't open the door for anyone."
+
+Her footsteps retreated. We listened to her walk downstairs, grab her keys, and open the front door. The lock clicked behind her, and her car engine started in the driveway.
+
+We waited in total silence.
+
+At exactly 6:25 AM, the loud, familiar squeal of heavy air brakes echoed from the end of Delaney Street. It was our bus, stopping at the corner, opening its doors, and waiting for us.
+
+Rachel squeezed her eyes shut, pressing her forehead against my shoulder. For a rule-follower, hearing the bus leave without you was a physical ache. The engine roared as the heavy yellow vehicle accelerated down the block, leaving us behind.
+
+We were officially playing hooky. But as the sound of the bus faded away, leaving the house completely silent and empty, the tight, suffocating knot in my chest finally loosened. We had broken the rules, but we were still together.
+

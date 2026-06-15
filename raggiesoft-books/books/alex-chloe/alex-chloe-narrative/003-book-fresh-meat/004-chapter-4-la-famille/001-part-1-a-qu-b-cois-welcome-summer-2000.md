@@ -1,0 +1,36 @@
+# Part 1: A Québécois Welcome (Summer 2000)
+
+Thomas turned the minivan onto a quiet, tree-lined street in Stanstead and pulled up to a cheerful-looking house with a wide front porch and a big backyard, from which the sounds of music and lively chatter already drifted. "Here we are," he announced.
+
+The front door burst open before they could even unbuckle their seatbelts. A woman with Sophie's warm eyes and a bright, energetic smile rushed out onto the porch. "Ils sont arrivés!" she called back into the house. "They're here!"
+
+This was clearly Aunt Geneviève Leclerc. She was followed by her husband, David, a sturdy, friendly-looking man, and two teenagers. The boy, a bit older than Chloé, had a playful smirk, and the girl, about her age, hung back with a shy but curious expression.
+
+The moment Chloé's feet hit the driveway, she was off. "Isa! Mat!" she yelled, running towards her cousins.
+
+Isabelle, her shyness vanishing, broke into a huge grin and met Chloé halfway for a tight hug. Mathieu, the older cousin, ruffled Chloé's hair as she passed. "Hey, Vermont," he teased in French. "Thought you'd forget how to find us."
+
+"Never!" Chloé retorted, playfully batting his hand away before pulling him into a hug too. It had been a whole year, an eternity in teenage time, and the reunion was a happy, chaotic tumble of words and laughter.
+
+As the adults exchanged their own warm greetings with hugs and kisses on both cheeks, Alex and his parents got out of the van. The Leclercs' attention turned to their guests, their expressions open and welcoming.
+
+"So, you are the famous Millers!" Geneviève said, her English carrying the same musical Québécois accent as her sister's. "Sophie has told us so much. Welcome, welcome to our home!"
+
+The warmth was immediate and genuine, but there was a practical, unspoken issue: the three wooden steps leading up to the front porch. The house, like most in the area, was not built with wheelchair accessibility in mind.
+
+James Miller moved towards Alex's chair, ready to begin the familiar, often awkward, process of navigating a barrier. But David Leclerc, seeing the situation instantly, stepped forward, waving him off with a kind but firm gesture.
+
+"Non, non, laissez-nous faire," he said to James. (No, no, let us.) He turned to his son. "Mathieu, viens aider." (Mathieu, come help.)
+
+Without a moment's hesitation, David took the back of Alex's chair, and Mathieu, his earlier teasing demeanor replaced by a matter-of-fact helpfulness, took the front.
+
+"Ready, big guy?" David asked Alex with a reassuring smile.
+
+Alex, who was used to this process being a careful, sometimes strenuous, effort for his father, was surprised by the easy strength and confidence of Chloé's uncle and cousin. He gave a firm nod.
+
+With a coordinated "Un, deux, trois," they lifted him, wheelchair and all, smoothly and easily up the three steps and onto the porch. They set him down gently, not a hint of strain or awkwardness in their actions. It wasn't a big deal; it was simply a problem to be solved so their guest could join the party.
+
+"Voilà!" Geneviève said, beaming, as she held the door open. "Now you are truly here! Come in, come in! Everyone is waiting to meet you!"
+
+Alex wheeled into the bustling, warm, and loud atmosphere of a true Québécois family reunion. The air was filled with the smell of tourtière heating in the oven, the sounds of rapid-fire French, and the feeling of being completely and utterly welcomed. He looked over at Chloé, who was already deep in conversation with Isabelle but shot him a brilliant, happy smile. This was her family. And for today, it was his, too.
+

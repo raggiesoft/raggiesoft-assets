@@ -1,0 +1,14 @@
+# Part 1: The Accessibility Specialist (2008-2009)
+
+Alex Miller's part-time, paid role as the "Accessibility Specialist" for the Evergreen Animal Shelter transformed from a passion project into a serious vocation. The success of the beagle's mobility cart was just the beginning. The shelter, now recognizing the incredible value of their unique skills, began to actively seek out animals with physical challenges, knowing they finally had a way to help.
+
+Their Lynnwood apartment became a bustling, after-hours R&D lab. The three of them worked as a seamless, professional team. Alex was the Chief Engineer, Chloé was the Lead Animal Care Specialist, and Megan was the Project Manager and Fabricator.
+
+Their evenings, once spent on university coursework, were now filled with a new kind of engineering. One project involved a sweet-natured cat who had lost a hind paw in an accident. The project was a perfect symphony of their teamwork. Chloé would hold the cat, her calm, steady presence keeping him purring and relaxed. Alex, with a digital caliper, would take the precise measurements of the cat's remaining limb. Megan would then manage the 3D printer, translating Alex's complex design files into a series of lightweight, durable prototypes for a prosthetic foot.
+
+They also designed custom-angled food and water bowls for a dog with a neurological condition that made it difficult to eat. Each successful project was a profound victory, a tangible application of their combined skills that made a real, immediate difference in an animal's life.
+
+This hands-on experience solidified Alex's career path. He tailored his final year of engineering courses at Northwest Pacific University to focus on accessible design and biomechanics. Upon graduating in the spring of 2009, he accepted a full-time position with a local tech firm that designed human accessibility products. It was a good job, and the experience was invaluable, but his heart remained with the animals.
+
+Every evening, he would return to their home office, not to play games, but to work with Chloé and Megan on refining his designs for custom animal prosthetics and mobility aids—the foundational work for the future Lynnwood Discovery and Care Center.
+

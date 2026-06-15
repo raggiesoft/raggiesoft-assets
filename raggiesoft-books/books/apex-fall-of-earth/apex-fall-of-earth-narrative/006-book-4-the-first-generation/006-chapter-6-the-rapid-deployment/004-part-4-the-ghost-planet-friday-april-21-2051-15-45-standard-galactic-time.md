@@ -1,0 +1,66 @@
+# Part 4: The Ghost Planet – Friday, April 21, 2051 – 15:45 (Standard Galactic Time)
+
+Lightyears away from the peaceful, amber-lit nursery of Planet Eden, the atmosphere was entirely devoid of warmth.
+
+In the absolute center of the sovereign planet Acheron, the true headquarters of Apex Defense Solutions—a brutal, totalitarian military dictatorship masquerading as a corporate entity—loomed over a sprawling metropolis.
+
+Inside the central command spire, High Director Kael stood before a massive, three-dimensional holographic projection of the Cygnus Arm. The cold, blue light bathed his sharp, angular face as he stared at the scrolling tactical data.
+
+The heavy pneumatic doors hissed open. A sub-commander in matte-black armor stepped into the room, his face pale, snapping into a rigid, nervous salute.
+
+"High Director," the sub-commander reported, his voice tight. "We have lost contact with the mercenary armada contracted for the resource acquisition in System 88-Tango."
+
+Kael didn't turn around. He kept his hands clasped firmly behind his back. "Lost contact? Define the parameter, Commander. Did their sub-light drives fail?"
+
+"No, sir," the sub-commander swallowed hard. "The entire fleet of thirty heavy-plasma cruisers has been completely eradicated. Telemetry indicates catastrophic, simultaneous hull failures across all vessels. They were vaporized in standard orbit."
+
+Kael’s eyes narrowed to cold, calculating slits. He turned slowly away from the hologram. "Vaporized? By whom? System 88-Tango is an uncharted sector. There are no rival corporate fleets stationed there."
+
+"That is the anomaly, High Director," the sub-commander said, stepping forward to hand Kael a sleek metallic datapad. "The armada was executing a standard orbital bombardment on Exoplanet 4 to clear the surface for mining operations. The telemetry logs show they fired a full volley at the planet."
+
+Kael snatched the datapad. He remembered Exoplanet 4. Six years ago, his long-range tracker squadrons had swept that exact planet while hunting for the stolen dreadnought, The Nomad. They had found nothing but a rusted, solar-powered civilian wreck buried in the trees and absolutely zero biological life signs.
+
+"The planet is a dead rock," Kael stated flatly, his voice dropping to a dangerous whisper. "It has no atmosphere. It has no biosphere. It is a rotted husk. How does a dead rock destroy thirty heavily armed cruisers?"
+
+"We... we don't know, sir," the sub-commander stammered. "The fleet's final sensor logs recorded a massive, synchronized spike of anti-matter artillery firing from the planet's surface exactly two seconds after our bombardment commenced. And..."
+
+The sub-commander hesitated, bracing himself for the High Director's fury.
+
+"And what?" Kael demanded.
+
+"The bombardment never impacted the surface," the sub-commander finished. "The telemetry shows our plasma bolts detonating violently in the upper thermosphere, against an invisible, kinetic-absorption barrier. Sir, Exoplanet 4 possesses a planetary deflector shield. A shield capable of absorbing a Class-5 orbital strike without losing structural integrity."
+
+The cold, blue light of the command spire seemed to freeze.
+
+Kael stared at the datapad. His mind raced, calculating the sheer, impossible logistics of the report. A planetary deflector shield required an astronomical amount of power—geothermal or nuclear reactors operating at peak efficiency. It required a massive, highly advanced defensive grid.
+
+And yet, the orbital scanners still registered the planet as a completely dead, frozen wasteland.
+
+"They are broadcasting a false-negative dampening field," Kael murmured, a chill running down his spine as the pieces finally began to click together. "The planet isn't dead. It's camouflaged."
+
+He looked back at the holographic map, zooming in on System 88-Tango.
+
+Six years ago, two minimum-wage S.H.O.P. Marines—Contractor Colton and Contractor Hayes—had successfully faked their deaths, stolen a multi-billion-credit dreadnought equipped with an FTL drive, and completely vanished from the galactic grid. They had scrubbed their digital identity and slipped right through his fingers.
+
+Kael had dismissed them as expendable grunts who had gotten lucky. S.H.O.P. Marines were glorified security guards; they didn't have the tactical knowledge to operate an Aegis grid or the engineering capability to build planetary defense batteries.
+
+It was impossible. Two people couldn't turn a planet into a fortress.
+
+But as Kael stared at the glowing red icon of the destroyed mercenary fleet, the terrifying reality of his mistake washed over him. He hadn't just lost two grunts. He had let a master architect slip off the map.
+
+"High Director?" the sub-commander asked nervously. "Shall I dispatch a dreadnought squadron to retaliate?"
+
+"No," Kael snapped, his voice echoing with absolute, dictatorial authority. "If a single, localized defense grid can vaporize thirty cruisers and absorb a planetary bombardment without breaking a sweat, sending more ships is a waste of corporate resources. We do not engage a fortified position blindly."
+
+He handed the datapad back, his eyes burning with a cold, renewed obsession.
+
+"Lock down the sector," Kael ordered. "Deploy stealth surveillance drones to the edge of the system's gravity well. I want passive monitoring on every frequency. Whoever is down there is heavily armed, deeply entrenched, and highly dangerous. But they can't hide in the dark forever. Eventually, they will make a mistake."
+
+"Yes, High Director," the sub-commander saluted sharply, turning on his heel to execute the new surveillance protocol.
+
+Kael stood alone in the quiet command spire.
+
+Wyatt and Sarah thought they had won. They thought they had built a perfect, impenetrable sanctuary. But the Apex dictatorship had infinite resources and infinite patience.
+
+Exoplanet 4 was no longer a dead rock. It was the most dangerous target in the galaxy. And the High Director was going to find out exactly who was hiding behind that shield.
+

@@ -1,0 +1,65 @@
+# Part 5: The Configuration
+
+"Second floor," Jessica said, grabbing her bag. "Apartment 2B."
+
+They hauled their luggage up the concrete stairs. Jessica unlocked the door, revealing a sparse, tidy living room.
+
+"Okay," Jessica said, tossing her keys on the counter. "Here's the schematic."
+
+She walked over to the beige sofa and pulled the cushions off. She gripped a metal bar hidden in the frame and pulled. With a squeak of springs and a heavy *thunk*, the sofa unfolded into a double bed with a thin mattress.
+
+"It's not a luxury cloud," Jessica admitted, patting the thin surface. "It's a generic sleeper. But it's flat."
+
+She pulled a set of jersey sheets from a closet and started making the bed.
+
+"Dad had a malfunction about this," Paige said quietly, watching her sister work. "About the sleeping arrangement. He looked at us like we were... contaminated."
+
+Freddie stood by the door, his hands clenching and unclenching. The memory of his father’s disgust in the hallway was a corrupted file he couldn't delete.
+
+"Why?" Freddie asked. He didn't look at them; he looked at the floor. "We are siblings. We are a unit. Why does he generate an error code when we regulate? Why is he afraid?"
+
+Jessica stopped tucking the sheet. She straightened up, looking at the two of them. They were seventeen. They were seniors. They had sat through the awkward Health class videos. They knew the biological mechanics of the world, even if they didn't participate in them.
+
+"Sit down," Jessica said gently.
+
+Freddie and Paige sat on the edge of the newly made sofa bed. Jessica sat on the coffee table facing them, leaning forward with her elbows on her knees.
+
+"Freddie," Jessica started, her voice steady and serious. "You know in Family Life class, when they talked about... adult intimacy? Reproduction?"
+
+"Yes," Freddie said, stiffening slightly. "The biological imperative."
+
+"Right," Jessica nodded. "Well, Dad... he operates on a very standard, very rigid program. To him, and to a lot of people in the world, a bed isn't just a place to sleep. It's a place for *that*."
+
+She took a breath, choosing her words carefully.
+
+"When Dad sees a seventeen-year-old male and a seventeen-year-old female in a bed together, he doesn't see a brother and sister helping each other survive sensory overload. He sees a man and a woman. And he is terrified—absolutely terrified—that you two are engaging in... inappropriate activities. He thinks you're crossing a line that siblings are never supposed to cross."
+
+Paige’s face went pale. "He thinks... he thinks we're..."
+
+"Yes," Jessica said softly. "He thinks you're being intimate. Like a couple."
+
+Freddie looked up, his eyes wide with genuine confusion. "But that is illogical. The genetic data prohibits it. The social contract prohibits it. We are just... sleeping. We are holding on."
+
+"I know," Jessica said firmly. "I know that. I know that Paige is your ground wire. I know that for you, touch is about pressure and safety, not sex. But Dad? He can't separate the two. His software is outdated, Freddie. He can't understand a world where a boy and a girl share a bed just to keep the noise out."
+
+She reached out and put a hand on Freddie’s knee.
+
+"He's wrong," Jessica said. "He's wrong to project that onto you. But that is *why* he freaks out. It's not because he hates you. It's because he's scared of something that isn't even happening."
+
+Freddie processed this. He imagined his father’s fear, not as hatred, but as a miscalculation. A data error.
+
+"He is reading the wrong sensor data," Freddie concluded.
+
+"Exactly," Jessica smiled sadly. "He's reading the wrong data."
+
+She stood up and finished smoothing the blanket.
+
+"But in this house," Jessica declared, her voice returning to its usual confident tone, "we know the truth. We prioritize regulation over optics. You guys sleep however you need to sleep to get through the night. I don't care what it looks like. I care that you wake up rested."
+
+Freddie felt his shoulders drop three inches. The "Architecture" here was different. It was based on truth, not fear.
+
+"Thank you," Freddie whispered.
+
+"You're welcome," Jessica said, turning off the main light. "Now get some sleep. Tomorrow, we hit the Open House. And then... we Stomp."
+
+

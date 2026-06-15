@@ -1,0 +1,124 @@
+# Part 4: The Snow Convoy
+
+## December 15, 2006 Fine Arts Center - Band Room 09:45 PM
+
+The Fortress took the elevator down to the basement level of the Fine Arts Center. The hallway was crowded with musicians hauling percussion equipment and tubas.
+
+They found Luna standing near the lockers. She had changed out of her concert gown into jeans, boots, and her heavy wool "Fortress Sweater." She was carefully packing the Orpheus 680 into its thermal travel case.
+
+"Principal Porter," Stella announced.
+
+Luna looked up, beaming. "We did it. The Vivaldi didn't crash."
+
+"It soared," Olivia said, hugging her.
+
+Sarah (Engineer) and Amanda stood a little awkwardly to the side, holding their overnight duffel bags. They were both staying for the weekend because going home to Ohio and Pennsylvania for a short break wasn't an option (and their home lives were... complicated).
+
+Stella saw the hesitation. She stepped forward.
+
+"Sarah, Amanda," Stella said, using her command voice. "You have your bags?"
+
+"Yes, ma'am," Sarah said.
+
+"Good. You're in the Guest Wing. We have plenty of blankets. No one spends the first snow alone in a dorm."
+
+It wasn't an offer; it was an order. The girls smiled, relieved. They were part of the pack.
+
+## The Tunnel Run
+
+"Let's move," Leo typed. "THE TUNNELS ARE WARM."
+
+They accessed the Bull Run connection. They walked the long, bright corridor from Arts Alley to the Station.
+
+It was a strange transition. They were underground, safe and dry, but they knew that twenty feet above their heads, the first real snow of the winter was sticking to the ground.
+
+They reached Narragansett Esplanade Station. They took the elevator up to the Sky Platform.
+
+## The Train
+
+The South Shore Line was waiting. It was coated in a thin layer of slush, but the lights were warm.
+
+They boarded the accessible car. It was a tight squeeze for seven people, but they made it work.
+
+- The Table: Leo, Luna, Olivia, Stella.
+
+- The Aisle Seats: Eleanor, Sarah, Amanda.
+
+As the train rolled south, passing the darkened airport and the sleeping suburbs, Leo monitored the temperature on his laptop.
+
+OUTSIDE TEMP: 28°F. PRECIPITATION: LIGHT SNOW.
+
+He looked at his joystick. He pulled a clear, heavy-duty plastic cover (custom-molded by Sarah in the machine shop) over the controller.
+
+"WATERPROOFING ENGAGED," he typed.
+
+## 10:20 PM Iron Point Station
+
+The train hissed to a halt. They stepped off.
+
+The world was white. About two inches of fresh snow covered the platform, crunching under their boots. The wind was sharp.
+
+"Okay," Stella said, buttoning her coat. "The walk is two blocks. Leo, how’s the traction?"
+
+Leo rolled forward. His heavy drive tires gripped the wet concrete.
+
+"TORQUE IS GOOD," he typed. "KEEP THE SPEED LOW."
+
+They took the ramp down to the street.
+
+## The Community Plow
+
+They turned onto Ocean View Lane.
+
+Normally, a sidewalk in a snowstorm is a disaster zone—unshoveled, icy, impassable for a wheelchair.
+
+But this was Iron Point.
+
+The sidewalk stretching from the station to the Porter house was black.
+
+It had been plowed. Not just the street, but the sidewalk. A municipal Bobcat had driven down this specific stretch of pavement, scraping it down to the asphalt.
+
+"Look at that," Eleanor said, pointing with her cane.
+
+A small sign was stuck in a snowbank near the corner. It was hand-painted.
+
+CLEARED FOR LEO. - DPW
+
+Leo stopped. He stared at the clear path. The Public Works crew hadn't just cleared the road; they had cleared his lifeline.
+
+He felt a lump in his throat. He wasn't just a resident; he was a neighbor.
+
+"THEY CLEARED THE PATH," he typed.
+
+"They know you have to get home," Stella said, her voice thick. "Come on. Let's not waste their work."
+
+## The Arrival
+
+The convoy moved down the street.
+
+- **Point:** Stella and Eleanor.
+
+- **Center:** Leo (rolling smooth and fast on the cleared path), flanked by Sarah and Amanda.
+
+- **Rear:** Olivia and Luna.
+
+They turned into the driveway. The motion lights of the house flicked on, illuminating the stone facade of the Fortress.
+
+Stella unlocked the front door.
+
+"Inside," she commanded. "Boots off in the mudroom. The floor is heated."
+
+They piled in. The warmth of the radiant floor hit them instantly.
+
+Leo rolled to his charging station. He peeled off the wet joystick cover. He was dry. He was safe.
+
+He looked at Sarah and Amanda, who were looking around the massive, beautiful house with wide eyes.
+
+"WELCOME TO BASE," Leo typed.
+
+"It's amazing," Sarah whispered.
+
+"It's home," Luna said, hanging up her coat. "Now, who wants hot chocolate? I think we have some donuts from Sal's stashed in the kitchen."
+
+The Fortress was full. The snow was falling. And the fire was about to be lit.
+

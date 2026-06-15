@@ -1,0 +1,64 @@
+# Part 6: The Long Goodbye
+
+## Date: December 27, 2003 Time: 4:15 PM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
+
+The adrenaline of Christmas had faded, replaced by a heavy, quiet stillness in the Fortress.
+
+Grandma Helen was lying in the guest room bed. The room was warm, smelling of lavender and the cedar from the wood beams. Outside, the sun was setting over a snow-covered Aquidneck Island, painting the room in soft hues of orange and violet.
+
+She hadn't eaten since breakfast the day before. Her breathing had shifted—a rhythmic, shallow pattern that Tom recognized from his volunteer shifts at the hospice center years ago.
+
+She had held on. She had fought to make it to the ferry dock in September. She had fought to see the elevator installed. She had fought to sit by the fire on Christmas morning and watch her family open presents.
+
+But the fight was over.
+
+Tom sat in the chair next to the bed, holding his mother’s hand. It felt fragile, like parchment paper.
+
+"Mom?" Tom whispered.
+
+Helen opened her eyes. They were cloudy, but for a moment, they focused sharply on her son. She smiled—a small, tired curving of her lips.
+
+"I'm still here, Tommy," she whispered. Her voice was thin, barely a scratch in the air.
+
+"I know," Tom said, his voice cracking. "I'm right here."
+
+"Don't look so sad," Helen murmured. "I got the best Christmas present. I got my boys back. I got to see the Fortress."
+
+She turned her head slightly to look at the open doorway.
+
+Patrick and Nichole were there. Patrick was seated in a chair he had pulled up. Nichole was parked next to him in her Titan AeroMotion.
+
+They weren't afraid. They had spent their lives navigating medical realities; they understood the machinery of the body better than most adults. They knew what a shutting-down system looked like.
+
+Helen looked at the twins.
+
+"Come here," she whispered.
+
+Patrick stood up. He pushed Nichole’s chair right up to the bedside. The bed was low—accessible height—so Nichole was eye-level with her grandmother.
+
+Helen reached out a trembling hand. Nichole took it.
+
+"You two..." Helen breathed, looking between them. "You're a wonder. I worried about you for so long. Stuck in that house in Virginia. Waiting for the world to let you in."
+
+She squeezed Nichole’s hand with surprising strength.
+
+"But you didn't wait. You built your own door."
+
+Nichole felt a tear hot on her cheek. She didn't use the VocaLink. She just held on.
+
+"I'm ready," Helen said, looking back at Tom. "I'm tired, Tommy. It's time for the next great adventure."
+
+"I know, Mom," Tom wept, leaning his forehead against her hand. "It's okay. You can go. We're all safe. We're all here."
+
+"Safe," Helen repeated, closing her eyes. "The machine works."
+
+She drifted back into sleep, but the tension in her brow was gone.
+
+In the kitchen, Aunt Carol and Ellen were quietly packing away the last of the Christmas leftovers, preparing the house for a different kind of gathering. Uncle Mark had turned off the TV and was sitting in the living room, staring into the fireplace, keeping a vigil.
+
+The Fortress on West Main Road wasn't just a launchpad for college anymore. It was a sanctuary for the end of a life well-lived.
+
+Patrick put his arm around Nichole’s shoulders. They sat there in the quiet room, listening to the rhythmic breathing of the woman who had loved them across three state lines, waiting for the silence that would inevitably come.
+
+They weren't children watching a tragedy. They were adults witnessing a completion.
+

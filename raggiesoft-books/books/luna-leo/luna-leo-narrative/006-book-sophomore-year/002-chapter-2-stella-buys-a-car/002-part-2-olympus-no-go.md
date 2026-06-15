@@ -1,0 +1,16 @@
+# Part 2: Olympus No Go
+
+Stella and her grandfather stood looking at a new Olympus Regent. It was comfortable, roomy, and seemed potentially suitable. The doors opened wide, and the seat height looked manageable for Leo. A salesman quickly approached, launching into a practiced spiel about the Regent's smooth ride and luxury features.
+
+"And the best part," the salesman beamed, "is we can get you into this today with incredibly low monthly payments. Our financing department works miracles..."
+
+"We appreciate that," Arthur interjected politely, adhering to their plan. "But we won't be needing financing. We're cash buyers. What's the out-the-door price on this particular model?"
+
+The salesman's smile tightened almost imperceptibly. "Well, sir, paying cash doesn't really change the monthly payment options, which start as low as..."
+
+"Son," Arthur cut him off gently, his eyes sharp, sizing up the salesman's technique, "with all due respect, I owned and operated Keystone Motors of Middletown up in Rhode Island for thirty-five years. I know the finance office is where the real margin often lies, but we're not interested in playing the monthly payment game. We're talking total cash price, taxes and fees included. Can you give us that number, or do we need to speak with your manager about a straightforward cash deal?"
+
+Flustered by the mention of owning a dealership, the salesman went to get his manager. The manager came out, equally focused on payment plans and financing incentives. Despite Arthur clearly stating their cash position and making a reasonable offer based on the sticker, the manager kept redirecting to loan terms and added protection packages financed over time.
+
+After ten minutes of polite but firm refusal from Arthur met with evasive answers about the cash price, Arthur stood up. "Thank you for your time," he said calmly. "Stella, let's go. They seem more interested in selling loans than cars today. Poor training." They walked out, leaving the manager sputtering about missed opportunities.
+

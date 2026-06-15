@@ -1,0 +1,50 @@
+# Part 7: The Masterclass – Saturday, October 22, 2044 – 11:00 (Mid-shift PA chime)
+
+The mid-shift PA chime rang a dull, two-tone electronic bell over the Sector 4 intercoms, barely cutting through the ambient roar of the facility. The mandatory, unpaid lunch break had started.
+
+Wyatt and Sarah didn't join the sluggish migration of contractors heading toward the main elevators. Instead, they navigated the rusted maze of sub-level 4-C until they found a lone, flickering vending machine tucked into a forgotten transition corridor. Wyatt swiped his Apex ration card, the machine grinding heavily before spitting out two foil-wrapped blocks of nutrient paste. He grabbed the food, laced his fingers back through hers, and moved quickly.
+
+They slipped off the primary grid, weaving through the dust-choked filtration banks until they reached the heavy blast door of their sanctuary.
+
+Wyatt heaved it open, ushered her inside, and pulled it shut. The screech of the rusted hinges cut off abruptly as the door sealed. He immediately dropped the heavy steel pipe into place under the handle, locking the corporate nightmare firmly on the outside.
+
+He turned around, tossing the foil-wrapped blocks onto the cracked vinyl sofa next to their heavy flashlights. But before he could even take a breath, Sarah was stepping into his space.
+
+She reached up, grabbing the lapels of his abrasive black uniform, her eyes shining with an intensity that entirely brightened the dim room.
+
+"The way you handled Miller out there," she whispered, her voice breathless and full of absolute awe. "You didn't just scare him into silence. You gave him exactly what he needed to feel safe. It was an absolute masterclass, Wyatt."
+
+She didn't wait for him to respond. She pulled him down by the heavy collar, pressing her lips to his in a fierce, deeply passionate kiss. Wyatt wrapped his arms around her waist, lifting her slightly as she parted his lips. Her tongue met his, a hot, urgent tangle of absolute devotion and profound attraction. The intelligence, empathy, and fierce protectiveness he had just displayed out on the catwalk completely unraveled her, and she was pouring every ounce of that adoration right back into him.
+
+Wyatt backed her up a half-step until her knees hit the edge of the sofa. He didn't need to say another word. They both knew exactly what came next.
+
+*\[The scene fades to black, the dead air of the isolated break room wrapping around them as the heavy Apex uniforms hit the floor, giving them exactly what they needed to survive this hellhole: each other. Note: skipping over a sexual encounter\]*
+
+Forty minutes later, the heavy chill of the abandoned room began to settle over their bare skin.
+
+They both stepped into the small, dusty executive washroom. They climbed into the rusted fiberglass tub together, pulling the squeaky shower curtain shut. Sarah twisted the oxidized valve, bracing for the sputtering blast of freezing water.
+
+The cold water hit them both, but as it pooled around their feet and washed over their shoulders, Wyatt noticed something immediately.
+
+"The smell," Sarah murmured, wiping the water from her eyes as she looked up at the showerhead. "It's gone."
+
+Wyatt took a breath. She was right. The harsh, metallic tang of rusted iron that had choked the water yesterday was completely vanished. Using the shower must have finally flushed years of stagnant buildup out of the local pipes. It was still freezing, but it was clean.
+
+In the cramped space of the tub, they took turns washing the sweat, the grime of Sector 4, and the heavy, undeniable scent of their sexual encounter off each other. It was a quiet, incredibly intimate routine. Apex Defense Solutions denied its workers basic dignity, but standing there, washing the dust out of her hair while she rested her hands on his chest, Wyatt felt more human than he had in years.
+
+He shut the valve off, the sudden silence rushing back into the washroom.
+
+Just as he grabbed the scratchy, company-issued towels, the Level 1 PDA resting on the edge of the sink violently vibrated against the porcelain. Wyatt glanced at the screen. The blocky green text flashed a five-minute warning. The lunch hour was almost over.
+
+"Time to clock back in," Wyatt sighed, handing her a towel.
+
+They took turns using the rusted toilet, moving with a practiced, comfortable efficiency. They stepped back out into the main break area and began pulling the stiff, black S.H.O.P. Marine uniforms back on. Zipping up the stiff collars and adjusting the nametapes—*COLTON* and the faded, decades-old *HAYES*—on their chests felt like strapping on armor. Sarah adjusted the shoulders of her scavenged utility shirt, the tight fit no longer a point of anxiety, but a badge of their successful infiltration.
+
+Wyatt clipped his heavy Mark-IV flashlight to his belt, watching as Sarah did the same. Her hair was still slightly damp, but her posture was completely revitalized. The exhausted, terrified rookie was gone.
+
+"Ready to go be ghosts?" she asked, a sharp, confident smile touching her lips as she walked over to the barricaded door.
+
+"Let's go walk the line," Wyatt replied.
+
+He pulled the steel pipe out from under the handle and heaved the blast door open, stepping back out into the deafening roar of the facility, fully recharged and ready to face the second half of Day 3.
+

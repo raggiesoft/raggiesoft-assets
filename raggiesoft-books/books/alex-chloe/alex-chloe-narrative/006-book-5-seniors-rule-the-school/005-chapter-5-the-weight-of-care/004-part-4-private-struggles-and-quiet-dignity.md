@@ -1,0 +1,14 @@
+# Part 4: Private Struggles and Quiet Dignity
+
+The most intimate aspects of care remained the domain of Chloé's mother. Sophie Mason, with her unwavering love, was the one who helped Chloé with the difficult and awkward process of bathing. The first evening, they struggled in the Masons' standard, small bathroom.
+
+"This is impossible," Sophie had said, her brow furrowed with worry.
+
+Emily Miller, who had come over to help, had an immediate, practical solution. "Don't be silly," she said warmly. "You two are coming over to our house for this. Alex's bathroom is fully accessible. It has a walk-in shower with a bench and grab bars. It will be a hundred times easier and safer for both of you."
+
+And so, a new routine was established. Every evening, Sophie would walk Chloé across the lawn to the Millers' house. While Alex waited patiently in his room, Sophie would help Chloé into his accessible bathroom.
+
+"*Ma chérie,*" Sophie would say gently, helping Chloé get situated on the shower bench. "*Je vais te laisser un peu d'intimité maintenant. Appelle-moi quand tu auras fini.*" (My dear, I'm going to give you some privacy now. Call me when you're finished.)
+
+Sophie would then step out, closing the door, giving Chloé the quiet, uninterrupted time she needed for her own private medical routine. It was a small, unspoken act of respect and understanding, a moment of dignity preserved in the midst of her new dependence.
+

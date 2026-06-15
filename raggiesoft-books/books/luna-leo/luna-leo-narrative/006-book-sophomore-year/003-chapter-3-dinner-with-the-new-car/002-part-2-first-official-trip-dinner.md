@@ -1,0 +1,34 @@
+# Part 2: First Official Trip (Dinner)
+
+Stella navigated the now-familiar blue Sentinel into the bustling parking lot of the shopping center that housed one of their favorite casual restaurants. The twins were still buzzing with excitement about the new car. Behind them, Stella could see her grandparents' car following. She found a good parking spot near the restaurant entrance, pulling in carefully.
+
+As she shifted the car into park, Luna, looking out the passenger window, suddenly stiffened. "Stella..." she whispered, her voice tight with alarm. "That... that car..."
+
+Stella and Leo followed her gaze across the parking lot. A familiar beat-up sedan was slowly cruising down the main aisle, heading towards the cluster of stores further down. And behind the wheel... their mother.
+
+Leo let out a small gasp, instinctively shrinking down slightly in his seat. Seeing her, even unexpectedly at a distance, sent a jolt of fear through both twins.
+
+Their mother, apparently heading to one of the other stores, hadn't noticed them yet. But as Stella turned off the ignition, the mother's car slowed. Her head turned. She saw the new, unfamiliar blue Sentinel parked near the restaurant. Then, her eyes likely caught sight of her own parents' car pulling into a spot nearby. Recognition, then disbelief, flashed across her face. Stella, the twins, *and* her parents, all in the same place? In a *new* car?
+
+Panic seemed to grip her. She knew about the restraining order. She knew being anywhere near Stella or the twins was a violation. And confronting her own parents, especially now, was likely the last thing she wanted. Her intention of visiting whatever store she was heading for evaporated instantly.
+
+With a sudden, jerky movement, the mother swung her steering wheel hard, making a rapid U-turn in the middle of the parking lot aisle – ignoring the honk of another driver – and sped back towards the exit, peeling out onto the main road and disappearing from view.
+
+Inside the Sent, the twins watched her hasty retreat, their hearts still pounding. Stella let out a long, slow breath, reaching over to squeeze Leo's shoulder and giving Luna a reassuring look in the rearview mirror.
+
+"See?" Stella said quietly, her voice calm despite the jolt the encounter gave her too. "She saw us. She knows she can't come near us because of the restraining order. She knows she'll get arrested. So she left. It worked. You're safe."
+
+Luna nodded, taking a shaky breath. Leo relaxed slightly in his seat. Just then, their grandparents walked up to the car window.
+
+"Everything alright?" Grandma asked, having seen the other car's abrupt departure.
+
+"Everything's fine now, Grandma," Stella said, forcing a smile. "Just a little... unexpected detour for someone else, it seems. Ready for dinner?"
+
+Grandma's gaze sharpened slightly. "Someone else?" she asked quietly, her eyes meeting Stella's with understanding. "Was that... was that your mother, Stella?"
+
+Stella gave a brief, weary nod. "Yeah, Grandma. It was."
+
+Grandma sighed deeply, a complex mix of sadness for her daughter and relief for her grandchildren crossing her face. "Ah. Well," she said softly, patting Stella's arm through the open window. "At least she had the sense to leave this time. Thank goodness for that restraining order." She straightened up. "Come on then, let's get these kids some dinner."
+
+The incident cast a brief shadow, a reminder of the boundaries they needed, but they wouldn't let it ruin their first outing in the new car. They got out, helped Leo transfer into his chair, and headed into the restaurant together, determined to enjoy their evening. The restraining order, and their mother's fear of it, had done its job.
+

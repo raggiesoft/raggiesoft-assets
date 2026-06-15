@@ -1,0 +1,26 @@
+# Part 14: One Last Night in Canada (Summer 2006)
+
+Back in their hotel room in Stanstead, a quiet, bittersweet intimacy settled over the three of them. The warmth and laughter of the farewell dinner with the Leclercs still lingered, mingling with the sad reality that their triumphant return to Canada was drawing to a close. They moved around the room in a comfortable silence, packing away the souvenirs they’d collected and the clothes they had worn, preparing for the journey home.
+
+This last night, in the heart of the place that had shaped so much of Chloé's life, felt significant. It was the culmination of a trip that had solidified their new reality as independent adults.
+
+Megan, from her armchair, watched Alex and Chloé. The day's earlier teasing about hockey had given way to a softer, more reflective mood. She saw the way they moved around each other, the quiet glances, the almost imperceptible shift in their energy as they gravitated closer. It was a private, husband-and-wife moment, and she knew, with an intuitive grace, that it was a space they needed to have to themselves.
+
+She quietly closed the book she had been reading and stood up. "You know what," she said, her voice a casual, easygoing murmur, "I'm suddenly craving one of those weird Canadian sodas from the vending machine again. I'm going to go on an adventure down to the lobby and read for a bit. You two just... relax."
+
+It was a perfect, loving, and completely graceful excuse. She was not leaving because she felt excluded; she was leaving to give them the gift of privacy. Chloé gave her a look of profound, silent gratitude. Megan just smiled, gave them both a small, understanding wave, and slipped quietly out of the room.
+
+The door clicked shut, leaving Alex and Chloé alone. The atmosphere in the room, already intimate, deepened. In the quiet of the room, they came together, a natural and gentle affirmation of their unique, loving bond and the profound trust that defined them. It was a quiet, cherished moment, their first and only time being intimate together in Canada.
+
+\[Sex Scene Skipped per Safety Guidelines\]
+
+Afterward, a deep and peaceful contentment filled the room. A little while later, Megan’s phone buzzed in the quiet of the hotel lobby. It was a simple text message from Chloé:
+
+Okay, the coast is clear. We're ordering a late-night poutine from that place down the street. Need anything?
+
+Megan smiled. It was their simple, perfect "all clear" signal. She typed back a quick reply and headed back up.
+
+When she entered, the private, intimate moment was over, and their comfortable, three-person sanctuary was instantly restored. The practicalities of care, always a seamless part of their partnership, came next. Chloé and Megan, working as a practiced team, helped Alex with his evening bathing and toileting routine, their movements a testament to their deep, platonic trust.
+
+A few minutes later, all three of them, clean, comfortable, and deeply tired, were settled in their massive king-sized bed for the last time in Canada. Alex was in the middle, Chloé on one side, Megan on the other. They didn't speak, but their hands found each other in the dark. The day had been full, a perfect blend of family, nostalgia, and the quiet affirmation of their unique partnership. They fell asleep, ready for the final leg of their journey home.
+

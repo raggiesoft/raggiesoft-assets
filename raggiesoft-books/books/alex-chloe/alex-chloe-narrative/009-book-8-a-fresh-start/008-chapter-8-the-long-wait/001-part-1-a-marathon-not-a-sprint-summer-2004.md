@@ -1,0 +1,26 @@
+# Part 1: A Marathon, Not a Sprint (Summer 2004)
+
+The summer of 2004 settled over Virginia Beach with a familiar, hazy warmth. For Alex, Chloé, and Megan, it was their first summer as a truly independent household, and their small apartment had become a perfect sanctuary. The spring semester at CCHR had been a resounding success. Alex, in particular, had found a new and profound passion in his biology lab, a spark of intellectual curiosity that had been dormant for too long.
+
+Life was good. But a familiar, frustrating reality hummed just beneath the surface. Alex’s equipment was failing. His "Quantum Communicator XT" was now almost permanently tethered to a wall outlet, its battery life a constant source of anxiety. His ultralight manual wheelchair was starting to take a toll on his shoulders after long days navigating the sprawling CCHR campus. The fight for an upgrade had begun, but as the months ticked by, they were learning that the process was, as Alex had predicted, a battle.
+
+One afternoon in early June, James Miller stopped by the apartment, a thick folder of paperwork in his hand. He found the three of them in their shared office, each focused on their own work—Alex and Chloé reviewing their fall semester syllabi, and Megan working on a project for her technical writing job.
+
+"Hey, kids," James said, taking a seat at their small kitchen table. "Just wanted to give you an update. I got off the phone with the insurance case manager again."
+
+The three of them immediately stopped what they were doing and gathered at the table. Chloé, who had been making them all iced tea, paused, an expectant look on her face. "Any good news?"
+
+James let out a long, weary sigh. "News, yes. Good? That depends on your definition. We've officially submitted everything—the physical therapist's evaluation, the speech pathologist's report, the vendor's quotes... it's all in." He tapped the thick folder. "Now it goes to their 'durable medical equipment review board.' They have ninety days to respond."
+
+"Ninety days?" Chloé said, her voice laced with frustration. "Just to *respond*? But his battery can barely last through a single class without being plugged in!"
+
+Megan shook her head, a look of grim, cynical understanding on her face. "That's how they get you," she said, her voice tight with anger. "They build a system designed to make you give up. It's a war of attrition."
+
+"I know, honey," James said, his expression one of paternal empathy. "And we'll keep fighting. But the vendor was very clear with me. He said to be prepared for this to be a marathon, not a sprint. They'll likely deny it the first time, we'll appeal, they'll ask for more documentation... Realistically, we're looking at nine months to a year before we see a final approval. If we're lucky."
+
+Alex, who had been listening from his spot at the table, wheeled back a few inches. He'd been through this before. He knew the drill. I TOLD YOU, his device voiced, the tone one of grim resignation but not defeat. IT'S A BATTLE. WE JUST HAVE TO KEEP PUSHING.
+
+"And we will, son," James said, his voice full of a quiet, fierce resolve. "We will stay on them every single week. I just don't want you getting your hopes up for a quick delivery. For now, we'll just have to make do. We can buy a new battery for the old communicator to tide you over."
+
+Chloé brought the glasses of iced tea to the table, her earlier frustration settling into the same patient determination as her husband and father-in-law. It was a long, frustrating road ahead. The promise of a new chair, of a voice that wasn't chained to a wall, was a distant point on the horizon. But looking at Alex, and then at his dad, and then at Megan, she knew they would get there. They would fight the battle together, one phone call and one mountain of paperwork at a time.
+

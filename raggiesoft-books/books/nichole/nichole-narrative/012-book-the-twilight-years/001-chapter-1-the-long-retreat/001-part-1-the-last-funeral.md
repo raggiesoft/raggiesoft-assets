@@ -1,0 +1,22 @@
+# Part 1: The Last Funeral
+
+## Date: November 12, 2042 Age: 57 Location: 95 West Main Road, Portsmouth, RI
+
+The house was quiet. The kind of quiet that feels heavy, like a dust sheet draped over furniture.
+
+Patrick wheeled Nichole into the living room. They were both wearing black. They had just come from the cemetery in Middletown. Uncle Mark was the last one. Tom had gone first in 2032 (heart attack). Ellen followed him in 2035 (cancer). Aunt Carol in 2038. And now Mark—the architect of the Fortress, the financier of the dream—was gone at 94.
+
+Patrick stood in the center of the living room. He looked at the recliner where Mark used to sit, reading his spy novels. He looked at the spot by the window where Grandma Helen used to park her wheelchair to watch the snow. The house was empty. It smelled of old paper and the sea.
+
+"It's just us, Nikki," Patrick said, his voice echoing slightly in the big room. "The adults are gone."
+
+Nichole looked at him. His hair was gray now, thinning at the temples. He moved a little slower. The "spring" in his step that had powered them through the BSU tunnels was gone, replaced by a stiff, careful gait. She looked at her own hands resting on her lap tray. The skin was thin, paper-like. Her spasticity was still there, but it was less violent now—replaced by a stiffness that made cold days ache deep in her bones.
+
+She tapped her tablet (a modern MagnaPad Pro). WE. ARE. THE. ADULTS. NOW.
+
+Patrick let out a dry laugh. "Yeah. Scary thought."
+
+He walked over to the hallway closet—the one Mark had converted back in 2003. He pressed the call button. *Whirrrr-Clunk.* The automated door swung open. The residential elevator light flickered on. It still worked. Mark had kept the maintenance contract paid up until the very end.
+
+"He built this for us," Patrick whispered, touching the doorframe. "He knew we'd end up here."
+

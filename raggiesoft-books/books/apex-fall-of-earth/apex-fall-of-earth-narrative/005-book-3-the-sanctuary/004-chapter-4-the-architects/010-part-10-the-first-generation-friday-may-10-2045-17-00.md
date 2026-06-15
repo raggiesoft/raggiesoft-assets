@@ -1,0 +1,64 @@
+# Part 10: The First Generation – Friday, May 10, 2045 – 17:00
+
+Wyatt finalized the aesthetic rendering of *The Nomad's* new outer hull, sending the sleek, aerodynamic blueprints directly to the automated Fabrication Foundry on Sub-Level 2. Deep beneath their feet, the massive 3D printers and robotic arms would spend the next several days quietly stripping the megacorporation's blocky armor from their ship and forging a brand new, untraceable silhouette.
+
+Sarah stretched, leaning back from the holographic table. She looked past the mahogany panels to the massive hydro-glass window.
+
+The apocalyptic fury of the super-cell storm was finally breaking. The violent, concussive sheets of rain had loosened, slowing down into a steady, rhythmic shower. The bruised, dark purple clouds were beginning to thin, casting a soft, muted gray light across the flooded valley miles below them.
+
+"The worst of it is over," Sarah murmured, a peaceful smile on her face.
+
+"Good," Wyatt sighed, turning off the terminal. He stood up, wrapping his arm around her bare waist. "Because my brain is officially full for the day. Between repulsorlift physics, server-side scripting, and redesigning a dreadnought, I think we've earned a break."
+
+They left the library, walking completely bare down the softly illuminated stone corridor. Aside from the brief, practical necessity of putting on clothes to cook their macaroni and cheese and hot dogs for lunch, they had adhered strictly to the Eden Rule all day. There was absolutely no reason to stop now. The estate's flawless **21.6°C** climate control made the heavy fabrics of their past feel completely obsolete.
+
+As they approached the aquatic center, the warm, humid air carrying the faint scent of natural minerals washed over them.
+
+They stepped into the massive cavern. The geothermal waterfall cascaded smoothly down the dark, polished stone steps, plunging into the crystal-clear, illuminated pool.
+
+Wyatt didn't hesitate. He walked straight to the edge and dove in, the warm water instantly enveloping him. He surfaced a moment later, wiping his eyes and letting out a loud, deeply satisfied groan as the heat soaked into his tired muscles.
+
+Sarah waded in gracefully from the shallow steps, swimming over to wrap her arms around his neck as the buoyant water supported them both.
+
+Wyatt leaned his head back, tasting the faint, ocean-like salt on his lips. He looked up toward the cavern ceiling.
+
+"Aria," Wyatt asked, his curiosity piqued. "Why go to the trouble of importing tons of salt for an indoor pool? Back on the colonies, water reclamation facilities just blasted everything with harsh chemical sanitizers. What makes the saltwater system better?"
+
+*"It is a matter of both biological comfort and chemical efficiency, Wyatt,"* Aria explained smoothly, her voice blending perfectly with the sound of the waterfall. *"Traditional swimming pools rely on heavy, manual additions of manufactured chlorine, which often bind with organic compounds to create chloramines. Chloramines are responsible for the harsh chemical odor, as well as the burning sensation in the eyes and the drying of the skin and hair."*
+
+"I definitely remember that burn," Sarah noted, recalling the harsh corporate washrooms.
+
+*"The estate's saline filtration system operates differently,"* Aria continued. *"It utilizes a localized electrolysis cell. As the saltwater passes through the cell, it naturally generates a steady, low-level amount of pure, un-compounded chlorine. This provides absolute sanitation without the harmful chloramine byproducts. The result is water that matches the natural salinity of human tears, rendering it incredibly soothing to the skin and completely non-irritating to the eyes."*
+
+"It feels like floating in a warm ocean," Wyatt agreed, resting his hands lightly on Sarah's waist under the water. "The billionaire really didn't compromise on anything."
+
+"Neither will we," Sarah smiled.
+
+She pushed off his chest, swimming playfully toward the multi-tiered rock cascade. She climbed the smooth stone steps to the top of the frictionless water-flume and shot down the winding slide, launching off the lip with a bright laugh and a massive splash.
+
+Wyatt watched her surface, completely captivated by the sheer, uninhibited joy radiating from her. She wasn't just surviving anymore; she was thriving.
+
+He swam over to the western edge of the pool, resting his arms on the smooth stone lip right where the water met the massive hydro-glass window. Sarah swam up beside him, resting her chin on her folded arms as they watched the gentle rain falling over the dark, submerged valley.
+
+"I was thinking about the vault," Sarah said quietly, the playful energy settling into a profound, forward-looking focus.
+
+"The Genesis cohort," Wyatt nodded, his shoulder pressing comfortably against hers.
+
+"We have fifty thousand embryos waiting down there," Sarah murmured, her eyes tracing the raindrops sliding down the outside of the glass. "But trying to wake them up now, or even a few years from now... it would be too much. We can't raise a village by ourselves while we're still figuring out how to build a farm and run the estate."
+
+"So what's the blueprint, Architect?" Wyatt asked, turning his head to look at her beautiful, thoughtful profile.
+
+"We start with us," Sarah decided, turning to meet his gaze, her dark eyes shining with absolute certainty. "We stick to our timeline. We conceive our own children first. We raise them, we teach them how to work the land, and we show them how the ship and the estate systems operate."
+
+She reached her hand through the warm saltwater, lacing her fingers with his.
+
+"And then, when our oldest kids are teenagers—when they're strong enough and smart enough to help us—*then* we initiate the decanting process in the medical wing," Sarah continued, the logistics clicking perfectly into place. "We wake up the first batch of the Genesis Vault. Five or ten babies to start. Because then, it won't just be you and me trying to do it all. They'll have older siblings. They'll have a structured family unit to guide them, protect them, and help raise them."
+
+Wyatt stared at her, completely floored by the elegant, deeply compassionate logic of her plan. It wasn't just a strategy for survival; it was a blueprint for a healthy, generational society. There would always be an older generation to teach and care for the younger one.
+
+"A built-in support system," Wyatt breathed, a massive, incredibly warm smile spreading across his face. He leaned over, kissing her deeply, tasting the salt water on her skin. "Sarah Colton, you are an absolute genius."
+
+"I just want them to have the family we never had," Sarah whispered against his lips, her heart full. "All of them."
+
+They rested against the edge of the pool, completely at peace as the evening slowly settled over the mountain. The storm was finally ending, the Apex threat was blocked out, and the blueprint for the entire future of humanity was securely in their hands.
+

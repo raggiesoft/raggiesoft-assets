@@ -1,0 +1,71 @@
+# Part 4: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation
+
+A few days later, the memory of Josh Riley's unpleasantness had faded somewhat, largely overshadowed by the surprising kindness of Olivia Walker. It was another Purple Day at Northwood High, meaning Luna, Leo, and Olivia shared the same fourth-period lunch. The Porter twins were just stepping out of the quiet of Mrs. Henderson's clinic, having taken their lunchtime medication, when a familiar, friendly voice called out from the bustling main lobby.
+
+"Leo! Luna! Hi!"
+
+They turned to see Olivia Walker approaching them with a warm smile, her backpack slung over one shoulder. She had clearly been waiting for them or perhaps just heading to the cafeteria herself from another part of the lobby.
+
+"Hey, Olivia," Luna greeted her, returning the smile. Leo offered a wave.
+
+Olivia’s smile widened as she reached them, and her immediate focus went to Leo. "Hi, Leo," she said softly. Then, echoing the gentle warmth from their first proper meeting a few days prior, this being only the second time she had initiated such a gesture with him, she leaned in and gave him another gentle, brief hug. Leo, still touched by this developing pattern of comfortable, kind affection from her, returned it with a small, happy sigh. HI OLIVIA, he typed on his Quantum Communicator XT once she stepped back. GOOD TO SEE YOU.
+
+"Good to see you too, Leo," Olivia replied, her gaze kind. "Feeling better after all that drama the other day?"
+
+YES. MUCH BETTER. THANKS TO YOU AND LUNA, he responded.
+
+"Just glad everything worked out," Olivia said sincerely.
+
+Just then, Luna’s attention was drawn to a familiar, unwelcome sight nearby. Internally, a silent "JERK ALERT!!" klaxon, a phrase that always sprang to her mind for people like him, blared with sudden intensity. Josh Riley and his two friends were emerging from the direction of the main office, their expressions sullen. Luna tensed instinctively. Josh’s eyes, still burning with resentment, immediately found Olivia and Leo, and he saw the tail end of their friendly interaction and the hug. His face contorted in a sneer of disbelief and fresh anger.
+
+He nudged one of his goons – the one who had seemed less enthusiastic about the earlier bullying – and began to mutter loud enough for Luna, standing slightly behind Leo and now acutely aware of their presence, to overhear distinct, venomous fragments. His two friends exchanged weary, eye-rolling glances, clearly growing tired of his constant negativity and entitlement.
+
+“Can you believe that?” Josh seethed, his voice a low growl, ensuring his goons could hear his resentment. "An hour of my life wasted in detention with that hag, Davison. She acts all sweet with her favorites, but she had me alphabetizing ancient textbooks. Me! Shoulda known you two idiots would just sit there and take your punishment," he added, jabbing a thumb at his friends, who just looked away, one of them even sighing audibly, clearly tired of his drama. "And now *Walker*,” he jerked his head towards Olivia, who was now chatting easily with Leo, “totally turned on me after *Davison* dragged me out ‘cause of them. Used to be friendly, now she’s all over the cripple.” He paused, then his voice dripped with a new, even uglier insinuation, his eyes narrowing with a possessive spite. “And what’s with the hug? Walker ain’t never hugged nobody, not really. She’s not like that. Figures she’d make an exception for *him*. Probably thinks he’s an easy mark, her little pet. Wonder if she’s… you know… *comforting* him in other ways." He let out a short, bitter laugh. "Disgusting. Not that *I* would ever… you know… with *them*," he gestured vaguely towards Luna and Leo, "brother and sister, that's just gross. But *her* giving it up for *him* instead of someone decent like *me*? That's what's really disgusting." His friend just sighed again, pointedly looking anywhere but at Josh. Josh, however, clearly thought he was too good for detention and felt unjustly punished by Ms. Davison and deeply, personally affronted by Olivia’s perceived rejection.
+
+Luna felt a wave of nausea. Josh’s mind was a sewer. The thought of him even *imagining* something so vile about Leo and Olivia, rooted in his own twisted entitlement, was repulsive. What she was seeing between Leo and Olivia felt so clearly innocent and kind, a straightforward, gentle connection that Josh's disgusting interpretation couldn't tarnish in her eyes. It was purely "Just Friends," and his attempt to twist it into something ugly was infuriating. This was exactly the kind of poisonous thinking that made her protective instincts flare, the kind of situation where the thought of using her flute, her "Playing the Flute" as a shield or warning for Leo if Josh dared to act on his venom, was a comfort. But for now, Olivia was here, a bright counterpoint to Josh's darkness.
+
+Olivia, blissfully unaware of Josh's hateful scrutiny and Luna's silent disgust, was still smiling at Leo. "So, cafeteria?" she asked. "I was just heading that way. You guys joining?"
+
+Luna glanced at Leo. Normally, after such a vile, albeit overheard, tirade, they’d retreat. But Leo, sensing Luna’s revulsion at Josh or simply buoyed by Olivia’s presence, caught her eye and gave a small, almost imperceptible nod towards Olivia, then towards the wide, open expanse that marked the entrance to the cafeteria. He wanted to go. With Olivia.
+
+"Yeah," Luna found herself saying, deciding not to let Josh’s filth ruin this. "Yeah, cafeteria sounds good today."
+
+Leo beamed at Olivia. YES. LUNCH WITH YOU WOULD BE NICE, OLIVIA.
+
+"Great!" Olivia's smile was genuine.
+
+As the three of them began to walk towards the open entrance to the cafeteria, Luna noticed Josh and his goons still loitering. Josh’s jaw was still set in a sneer, but as his gaze flickered past them towards the brightly lit serving lines and tables of the cafeteria itself, visible from the lobby, the familiar apprehension crossed his face. He muttered something to his increasingly disinterested friends. Instead of following or leaving entirely, they retreated to a cluster of rarely used benches in a slightly recessed alcove of the lobby, a spot from which they could still partially observe the cafeteria seating area.
+
+Luna smirked faintly. Mrs. DeMarco's invisible reign of terror, and the memory of Josh's "Penis Game" dumpster duty last year, held strong.
+
+The cafeteria was its usual bustling, noisy self, but finding a slightly quieter table near a window, the three of them settled in. The conversation flowed easily. Olivia talked about a history project, and Leo, using his AAC, shared insights from a documentary. Luna, pushing Josh’s vile words to the back of her mind, chimed in, genuinely enjoying the normalcy. Olivia was a good listener, asked thoughtful questions, and seamlessly included both twins.
+
+As they finished their lunch, Olivia smiled. "This was really nice. I'm glad you decided to stay."
+
+ME TOO, OLIVIA, Leo typed, his expression content. THANK YOU.
+
+"Anytime!" Olivia said. "Hey, we should exchange numbers, or something, so we can actually coordinate, you know, not just rely on Purple Day lunch luck."
+
+"Good idea," Luna said, pulling out her phone. Leo nodded enthusiastically, reaching for his own device to share his contact card. They quickly swapped details.
+
+From her seat, Luna happened to glance back towards the lobby alcove. Josh Riley was staring intently in their direction, his face a mask of utter fury. His fists were clenched, and he looked like he was literally vibrating with rage as he watched Olivia and Luna exchange information with Leo. The seething hatred in his eyes was palpable even from a distance. His incel-fueled delusion that Olivia somehow owed *him* her attention, now seeing her willingly connect with Leo, was clearly sending him into an internal meltdown. One of his goons noticed Josh’s state, nudged the other, and they both looked even more uneasy and eager to be anywhere else.
+
+Olivia, oblivious to this silent, venomous observation, beamed at her phone. "Awesome! Well," she glanced at the clock, "gotta run to my next class. Text you guys! See you next Purple Day, if not before?"
+
+"Definitely," Luna said, trying to shake off the chill from Josh’s hateful glare. Leo waved.
+
+As Olivia said her goodbyes, she offered Leo another gentle hug, which he returned with a comfortable, happy smile. She then gave Luna a friendly wave and headed off, her figure disappearing into the throng of students heading to their next classes.
+
+Luna watched her go for a moment, then turned to Leo. "Okay, *now* she's pretty awesome."
+
+Leo nodded, a peaceful, almost radiant expression on his face. YES. REALLY AWESOME. Josh Riley was a disgusting creep, his seething presence a disturbing undercurrent, but this shared lunch and new connection with Olivia Walker had been a welcome island of positive connection in their often-challenging school environment.
+
+"Come on," Luna said gently, her voice soft after the relative peace of their lunch with Olivia. "Let's get out of here before anything else happens."
+
+Leo gave a decisive nod. HOME SOUNDS GOOD.
+
+Luna took the handles of Leo's chair, and they navigated out of the noisy cafeteria, giving the alcove where Josh and his goons had been lurking a wide berth. Fortunately, it appeared they had finally given up their vigil and departed. The twins made their way to the main office, the usual late-period quiet punctuated by the click of keyboards and the murmur of the attendance secretary on the phone. Luna efficiently signed them both out, a familiar routine.
+
+A few minutes later, they were in Luna’s slightly battered but reliable sedan. She carefully helped Leo transfer from his wheelchair to the passenger seat, stowed the chair in the back, and soon they were pulling out of the Northwood High parking lot, leaving the institutional beige buildings and the lingering unpleasantness of Josh Riley behind them. The familiar route home was quiet, and Luna glanced over at Leo. He was looking out the window, a small, contented smile still gracing his lips. Despite everything, Olivia's kindness had made a difference.
+
+

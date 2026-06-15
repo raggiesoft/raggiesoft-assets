@@ -1,0 +1,18 @@
+# Part 3: The New Ms. Walker Porter
+
+The sound of the Holt Sentinel pulling into the driveway was the signal Leo had been desperately waiting for. The front door opened a moment later, and Stella walked in, followed by the newly minted Olivia Walker Porter.
+
+"We're back!" Stella announced, her voice full of cheerful relief. "And I'm happy to report the wait was much longer than the actual hearing."
+
+Leo didn't need to hear any more. The moment Olivia was fully inside, he propelled his wheelchair forward, his earlier anxiety dissolving into pure, overwhelming relief. He met her in the middle of the living room and, without a word, reached up, pulling her down into a fierce, tight hug. It was an "I Missed You So Much" hug, a desperate, grounding embrace that spoke volumes about the separation anxiety he had been fighting all morning.
+
+Olivia melted into his hold, wrapping her arms around his shoulders, burying her face in the crook of his neck. "I'm right here, *mon chum*," she whispered, her voice thick with emotion. "I'm not going anywhere."
+
+Arthur, Eleanor, and Luna watched the tender reunion with soft smiles. When the two finally broke their embrace, Arthur clapped his hands together decisively. "Well, I don't know about the rest of you," he declared, "but I think this calls for a celebration. How about we all go out for lunch to toast the new Ms. Olivia Walker Porter?"
+
+The idea was met with universal approval. A few minutes later, the two cars were warming up in the driveway. Arthur and Eleanor got into their own sedan, while Stella took the driver's seat of the Sentinel.
+
+"Luna, you're with me up front," Stella said, a quiet, knowing look passing between the two sisters.
+
+The seating arrangement was an unspoken act of support for Leo. He was still recovering from the morning's anxiety, and everyone knew he needed Olivia by his side. Luna happily took the front passenger seat, leaving the spacious back seat for Leo and Olivia. As they pulled out of the driveway, Olivia took Leo's hand, her thumb gently tracing patterns on his knuckles, a constant, reassuring presence that silently told him everything was okay. His safe harbor was home, and they were on their way to celebrate the first day of their forever.
+

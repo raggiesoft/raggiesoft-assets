@@ -1,0 +1,60 @@
+# Part 2: The Reality Check
+
+Part 2: The Reality Check
+
+The following weekend, armed with a list of "promising" leads and their map marked with circles and notes, the practical search began. James and Thomas had volunteered to be the advance team, their practical eyes and measuring tapes essential for the first round of visits.
+
+The first stop was a charming-looking brick complex in a quiet, leafy neighborhood. The online listing had boasted "a spacious two-bedroom layout, perfect for a young couple." The rental agent, a cheerful woman named Brenda, met them in the parking lot.
+
+"You're going to love this one," Brenda said, leading them towards the center of the complex. "It's a corner unit, gets wonderful afternoon light." She led them to the base of a wide, outdoor staircase. "It's right up here on the second floor."
+
+James and Thomas stopped dead in their tracks. Alex and Chloé, following just behind, came to a halt as well.
+
+Chloé was the first to speak, her voice polite but firm. "I'm sorry, is there an elevator?"
+
+Brenda looked from Chloé to Alex in his wheelchair, a look of dawning, flustered horror on her face. "Oh," she stammered. "Uh, no. Not in this building. I didn't realize..."
+
+"We specified a first-floor or elevator-accessible unit when we made the appointment," Thomas said, his tone one of paternal patience strained by frustration.
+
+"Right. Of course. I'm so sorry, there must have been a mix-up," Brenda said, her cheerfulness completely gone.
+
+Chloé simply reached for the handles on Alex's chair. "Then we're done here. Thank you for your time." She turned his chair around, and the four of them walked back to their cars, leaving a mortified rental agent on the sidewalk.
+
+The second visit of the day was to a more modern complex. This time, they had confirmed three times over the phone: "Yes, it is a first-floor, ground-level apartment."
+
+The new agent, a young man named Ken, led them to the unit. It was indeed on the first floor. But the moment they got inside, Alex knew it was a non-starter. He stopped just inside the main entryway, his chair unable to proceed down the narrow main hallway.
+
+"Well, this is cozy," Ken said, oblivious. "Living room is right through here..."
+
+Alex pulled out his Quantum Note. Chloé read the message on his screen and relayed it, her own expression grim. "The hallway is thirty inches wide. His chair needs a minimum of thirty-two inches clearance to pass through."
+
+Ken blinked. "Oh. Well... maybe if we wiggle it?"
+
+Alex didn't even bother to respond to that. He began to expertly maneuver his chair in a tight, multi-point turn to get back out the front door, his frustration a palpable, silent force. James pulled out his tape measure, his movements sharp and angry.
+
+"Thirty inches on the nose," he confirmed, snapping the tape shut. He looked at Ken, his disappointment clear. "And the bathroom door is twenty-eight. This unit is not accessible. This has been a waste of our time."
+
+They left that apartment too, the sense of discouragement now a heavy weight. The initial excitement of the hunt was being ground down by the frustrating reality of a world not built for them. Finding a place wasn't just about finding a home; it was about finding a place that would even let Alex through the door.
+
+The third and final visit of the day was to a large, modern complex called "Bayside Vistas." The online listing had been a beacon of hope: "ADA-compliant units available, elevator access to all floors." Chloé had called the leasing office twice to confirm the elevator's existence and was assured it was fully functional. The available unit was on the third floor.
+
+They met the agent, a harried-looking man named Gary, in the lobby. "Right this way," he said, gesturing towards a hallway. "It's unit 314, a lovely two-bedroom overlooking the courtyard."
+
+He led them to the elevator and pressed the "up" button. Nothing happened. The light didn't illuminate. He pressed it again, harder this time. Still nothing. A flicker of annoyance crossed his face as he jabbed the button repeatedly.
+
+IS THE ELEVATOR WORKING? Alex's device asked, its synthesized voice calm and direct.
+
+"Yeah, yeah, it's just... sticky sometimes," Gary muttered, now pressing the button with his thumb. "Maintenance must be doing a reset or something. It was working fine this morning."
+
+Just then, a woman with a grocery cart full of bags came huffing down the nearby stairwell, her face flushed with exertion. She saw the four of them standing by the inert elevator and let out a bitter, humorless laugh.
+
+"Don't hold your breath," she said, nodding at the elevator. "It's been out since yesterday. Again. That's the third time this month." She shook her head, muttering to herself as she wrestled her cart towards the exit. "Pay a fortune in rent for a 'luxury' building, and you have to haul your groceries up three flights of stairs twice a week."
+
+Gary's face turned a deep shade of crimson. He avoided making eye contact with any of them.
+
+A cold, final silence settled over the small group. James Miller just shook his head slowly, his expression one of profound disappointment. Chloé didn't even bother to say anything this time. She simply gave her dad a look, and he understood completely.
+
+"We're done here, Gary," James said, his voice flat. "Thank you for your time."
+
+They turned and walked away, leaving the agent standing alone in front of his broken, "fully functional" elevator. As they walked back to the car, the weight of the day's failures settled heavily on Alex and Chloé. It wasn't just about finding a place with wide doorways. It was about finding a place they could trust, a place where Alex's basic ability to come and go wasn't dependent on a "sticky" button or the whims of a neglectful maintenance schedule. The hunt was proving to be far harder than either of them had ever imagined.
+

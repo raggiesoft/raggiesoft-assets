@@ -1,0 +1,80 @@
+# Part 5: The Braxton Link
+
+## Date: July 6, 2003, Time: 10:45 AM, Location: The Bull Run (Beneath BSU Campus)
+
+As they rolled deeper into the network, the sheer scale of the engineering became apparent.
+
+They reached a junction where the sleek, BSU-branded signage of "The Bull Run" transitioned into a standard municipal blue-and-white sign.
+
+\<-- CAMPUS NETWORK (The Bull Run) \| CITY NETWORK (The Link) --\>
+
+Patrick stopped the chair. He looked at the massive wall map illuminated behind a plexiglass sheet.
+
+"It doesn't stop at the campus," Patrick realized, tracing the lines with his finger. "Nikki, look. The tunnels go under the city. It connects to the Metro stations."
+
+He pointed to a station on the Blue Line map, three stops west of their current location. The station was called Foundry Square.
+
+Next to the station marker was a symbol for a high-rise building with the text: DIRECT LINK ACCESS.
+
+"Foundry Square," Patrick muttered. "That's a residential zone. If there's an apartment building connected to the tunnels there..."
+
+He didn't finish the sentence. He didn't have to. The math was already done.
+
+"We need to see that station," Patrick said.
+
+## Time: 11:15 AM Location: Blue Line Metro (Westbound)
+
+They took the massive glass elevator from the Concourse down to Level M (The Deep) at Narraganset Esplanade Station.
+
+The Blue Line train was waiting. It was a heavy rail subway car, utilitarian and wide. Patrick rolled Nichole right onto the car—level boarding, no gap.
+
+They rode for ten minutes, the train humming through the dark tunnel.
+
+"Now arriving at... Foundry Square," the automated female voice announced. "Transfer to The Link pedestrian network."
+
+The doors slid open.
+
+## Location: Foundry Square Station Level: Basement Level 3 (Island Platform)
+
+They rolled out onto a brightly lit island platform. The station was cavernous, with arched concrete ceilings.
+
+"Okay, let's trace the path," Patrick said.
+
+They took the station elevator up one floor to Basement Level 2 (The Mezzanine).
+
+This was the fare control area. They passed through the wide accessible gate into the station lobby. To their right, a bank of long escalators stretched all the way up to the street, carrying people toward the sunlight.
+
+But Patrick wasn't interested in the street. He looked for the signs marked THE LINK.
+
+They took a second elevator from the Mezzanine up to Basement Level 1.
+
+The doors opened, and they rolled out into "The Link." It looked like a wide, subterranean street lined with a few convenience stores and coffee shops.
+
+Just fifty feet from the elevator, on the left wall, was a heavy, secure steel door with a key fob reader and a video intercom.
+
+A polished brass plaque next to the door read:
+
+THE FOUNDRY LOFTS
+
+Resident Entrance
+
+Private Property - Key Fob Required
+
+Patrick stared at the door. He looked at the elevator button panel next to it.
+
+"If you live here," Patrick said, mapping the verticality in his head. "You take your apartment elevator down to the basement. You walk out this door. You're in The Link."
+
+He turned back to the station elevator they had just exited.
+
+"You take the station elevator down to the Mezzanine. You tap your pass. You take the next elevator down to the platform. You get on the Blue Line. Three stops later, you're at school."
+
+He looked at Nichole.
+
+"Zero stairs," Patrick said. "Zero ramps. And zero time outdoors."
+
+Nichole looked at the secure door. It was the ultimate barrier against the winter. She tapped her screen.
+
+"THE. FOUNDRY."
+
+"We check the listings tonight," Patrick promised, turning the chair around to head back to the train. "If there's a two-bedroom unit in there, we take it. I don't care how much it costs."
+

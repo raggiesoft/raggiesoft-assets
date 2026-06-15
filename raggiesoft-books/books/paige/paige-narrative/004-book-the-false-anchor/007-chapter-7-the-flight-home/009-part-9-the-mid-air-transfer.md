@@ -1,0 +1,110 @@
+# Part 9: The Mid-Air Transfer
+
+## Thursday, May 13, 2004 — 13:30 PM (CST) / 11:30 AM (PST) Flight 492, Cruising Altitude (35,000 Feet) Somewhere over the Dakotas
+
+The cabin was quiet, save for the steady, white-noise roar of the engines. Outside the scratched plastic window, the sky was a deep, impossible blue, and the clouds were a solid floor of white cotton thousands of feet below.
+
+In Seat 2B, the "Emergency Brake" was still fully engaged.
+
+Freddie was dead weight. He was slumped entirely to the left, his head buried in the crook of Paige’s neck, his legs curled up, his breathing slow and rhythmic.
+
+Paige was grimacing. She was staring straight ahead at the fabric of the seatback in front of her, trying to ignore the fact that she couldn't feel her left arm below the elbow.
+
+"Paige," Jessica whispered from the aisle seat. "Switch. Your hand is purple."
+
+"Negative," Paige whispered back, barely moving her lips. "If we move him, he resets. You know the protocol. Once the anchor is down, you don't drag the ship."
+
+"He's cutting off your circulation," Jessica pointed out.
+
+"I have a right arm," Paige countered. "I'm fine."
+
+At the front of the cabin, the metal cart rattled. The flight attendants were moving down the aisle.
+
+"Beverage and snack service," the attendant chirped.
+
+Jessica lowered her tray table. "We'll take three waters, please. And the snacks."
+
+"Sure thing," the attendant smiled, handing over three clear plastic cups (which Jessica accepted, knowing she would drink them quickly to avoid spills) and three small foil packets.
+
+Jessica picked up one of the packets. She held it up for Paige to see.
+
+*Roasted Peanuts. Ingredients: Peanuts, Salt.*
+
+Paige smirked, though it looked more like a wince of pain. "Vindication," she whispered. "No honey. Just dust."
+
+"Good call on the stash," Jessica admitted, tucking the airline peanuts into the seat pocket for emergency reserves.
+
+She reached into the bag from the airport newsstand and pulled out the bag of Honey Roasted Peanuts. She tore the corner open. The smell of sweet glaze wafted up—a familiar, safe scent.
+
+Freddie stirred. The smell had penetrated his shutdown mode. He didn't open his eyes, but his mouth opened slightly, like a baby bird.
+
+"Hunger detected," Jessica noted.
+
+"He can't feed himself," Paige said softly. "His hands are trapped under the blanket. If he moves them, he wakes up."
+
+"I've got it," Jessica said.
+
+She poured a small handful of the sticky, sweet peanuts into her palm. She reached over Freddie’s slumbering form.
+
+"Open," she commanded softly.
+
+Freddie complied. Jessica placed two peanuts on his tongue. He chewed slowly, his eyes still squeezed shut behind the sunglasses.
+
+"Water," Jessica whispered.
+
+She held the bottle of cola (the one with the screw top) to his lips. He took a sip.
+
+"More peanuts," Freddie mumbled.
+
+Jessica fed him again. It was a slow, rhythmic process. *Peanuts. Chew. Cola. Swallow.* It was intimate and necessary. He was fueling the machine without engaging the conscious mind.
+
+Then, gravity took over.
+
+As Freddie leaned forward slightly to accept the next peanut from Jessica’s hand, the plane banked gently to the right to correct its course.
+
+Freddie’s center of gravity shifted. He didn't return to Paige’s shoulder. Instead, he slumped heavily to the right, collapsing against Jessica.
+
+His head landed on her shoulder. His heavy orange-clad arm flopped across her lap.
+
+Paige let out a sharp gasp as the blood rushed back into her dead arm. She began shaking her left hand violently, grimacing as the "pins and needles" firework show started.
+
+"Oh god," Paige hissed, rubbing her elbow. "It stings."
+
+"My turn," Jessica said calmly.
+
+She adjusted her position, wrapping her left arm around Freddie’s shoulders to secure him. She felt the weight of him instantly—the solid, dense reality of her brother.
+
+He was heavy. He was warm. And he was safe.
+
+Jessica leaned her cheek against the top of his hood. She didn't mind the weight. In fact, she welcomed it. For the last 48 hours, she had been the General. She had been the Logistics Officer, the Bank, and the Enforcer. She had been carrying the *mental* weight of the entire rescue mission.
+
+Now, she was just carrying the *physical* weight. And compared to the fear of losing him to Vanessa, a numb arm was a price she would gladly pay.
+
+She looked at her watch. **1:45 PM (CST).**
+
+"Status?" Paige asked, finally getting feeling back in her fingers.
+
+"We have about forty minutes at cruise," Jessica calculated. "Then twenty minutes for descent and approach."
+
+"And then?" Paige asked.
+
+"And then O'Hare," Jessica said, her eyes narrowing slightly.
+
+She was already visualizing the map of Chicago O'Hare. They would land at Concourse C (Gateway's hub). To get to the regional jet for Roanoke, they would likely have to transfer to Concourse B.
+
+That meant **The Tunnel**.
+
+Jessica knew about the tunnel. It was an underground passage connecting the concourses. It was famous for its neon light show—rainbow tubes of gas pulsating on the ceiling and walls—and the long moving walkways.
+
+For a tourist, it was cool. For an autistic person in sensory shutdown, it was either going to be a nightmare or a hypnotic trance.
+
+"We have an obstacle on the ground," Jessica told Paige quietly, stroking Freddie’s arm. "The connector tunnel. It's loud. It has flashing lights. We need to be ready to shield him."
+
+"We'll sandwich him," Paige promised. "Hood up. Glasses on. Eyes down."
+
+"Agreed," Jessica said.
+
+She felt a tingle in her left fingers. Her arm was starting to fall asleep.
+
+She didn't move. She just held him tighter, watching the clouds go by, counting down the minutes until they could get him onto the ground and one step closer to the quiet, green safety of the New River Valley.
+

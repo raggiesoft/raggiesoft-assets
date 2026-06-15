@@ -1,0 +1,72 @@
+# Part 5: The Calculation
+
+The arcade at Emerald Creek Mall was named **The Starcade**. It was located just past the food court restrooms, a dark cave illuminated by the flashing CRTs of attract screens and the neon glow of Lane-Master lanes.
+
+To Freddie, the Starcade was a paradox. It was louder than the food court—a cacophony of 8-bit explosions, synthesized voices shouting "RELOAD!", and the clatter of tokens hitting metal trays. Yet, unlike the chaotic noise of the crowds, this noise was *designed*. It was computerized. It followed rules.
+
+Paige stopped at the change machine. She fed the remaining bills into the slot.
+
+*Whirrrrrr-clink-clink-clink-clink.*
+
+The machine spit out a heavy stream of brass tokens into the metal cup. Thirty tokens.
+
+"Okay," Paige said, dividing the loot. "Seven for Jenna. Seven for Sarah. Eight for Freddie because he's the navigator. Eight for me because I'm the pilot."
+
+"Go!" Jenna shouted, grabbing her handful. She sprinted immediately toward a game called *Torrent-X*, vibrating with the need for speed.
+
+Sarah held her seven tokens in a neat stack. She didn't run. She walked past the noisy shooters and the flashing racing games until she reached the back wall.
+
+There it stood. **The Claw**.
+
+It was filled with generic plush animals—neon bears, unauthorized cartoon characters, and weirdly shaped pillows. But Sarah didn't care about the prize quality; she cared about the physics.
+
+"Target identified," Sarah whispered. She pointed to a blue bear that was sitting loosely on top of the pile, its tag snagged on a red pillow. "The friction coefficient is favorable."
+
+Freddie walked over, standing behind her. He loved watching Sarah work. When she focused, her OCD wasn't a burden; it was a supercomputer.
+
+"Do you require vector assistance?" Freddie asked.
+
+"Negative," Sarah said, slotting a token. "I need you to block the glare from the overhead light. It interferes with my depth perception."
+
+Freddie stepped to the side, raising his hand to cast a shadow over the glass. "Glare blocked."
+
+Sarah gripped the joystick. She didn't jerk it. She tapped it—*tap, tap, tap*—moving the metal claw into position. She leaned forward, pressing her forehead against the glass, checking the X-axis. Then she moved to the side of the machine to check the Y-axis.
+
+"Aligning," she muttered. "Drop zone calculated."
+
+She hit the big red button.
+
+The claw descended. It spun slowly, the metal fingers opening. It hit the pile.
+
+*Clunk.*
+
+The fingers closed around the blue bear’s head.
+
+"Grip is weak," Sarah observed instantly. "But the tag loop is engaged."
+
+The claw lifted. The bear dangled precariously by its ear tag. The machine rattled as it moved toward the chute. The bear swung—left, right, left...
+
+"Steady," Freddie whispered.
+
+The claw opened over the chute.
+
+*Plop.*
+
+The blue bear tumbled down the plastic slide and landed in the retrieval bin.
+
+"VICTORY!" Jenna screamed, appearing out of nowhere. She had already blown through four tokens in three minutes and was looking for action. "SARAH WON! SARAH BEAT THE SYSTEM!"
+
+Sarah reached into the bin and pulled out the blue bear. She inspected it for defects, straightened its ribbon, and then—for the first time all day—a genuine, wide grin broke across her face.
+
+"The physics were sound," Sarah declared, handing the bear to Freddie. "Hold this. I have six tokens left. I am going for the red pillow."
+
+Paige leaned against a pinball machine nearby, watching her siblings. Jenna was jumping up and down. Sarah was calculating her next attack vector. Freddie was holding the blue bear with a look of serious pride.
+
+For a moment, the tension of the house, the "spiky air" of their parents' marriage, and the uncertainty of the future didn't exist. There was just the neon light, the smell of ozone, and the victory of the blue bear.
+
+"You guys good?" Paige asked, walking over.
+
+"We are operational," Freddie said, handing the bear back to Sarah so she could clutch it. "And Sarah is lethal."
+
+"Good," Paige smiled. "Burn the rest of the tokens. Then we ride."
+

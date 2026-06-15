@@ -1,0 +1,18 @@
+# Part 3: The Two Rooms
+
+The country club was a picture of understated elegance. A long, tree-lined driveway opened up to a stately brick building, its entrance adorned with tasteful floral arrangements in the deep blue and cream colors Leo and Olivia had chosen. The staff was professional and discreet, guiding the two cars to a private entrance at the side of the building that led directly to the ballroom and the adjacent preparation suites.
+
+Arthur and Eleanor got out of their sedan, their expressions full of quiet pride. Stella parked the Holt Sentinel, and the plan, which had been meticulously rehearsed, went into immediate effect.
+
+"Okay," Stella said, her voice a calm, reassuring presence. "Here's how this works. Olivia, your mom and dad are waiting for you in the bridal suite. It's the first door on the left. We will see you at the end of the aisle."
+
+Olivia turned to Leo, her heart aching slightly at the visible tension in his shoulders. She squeezed his hand one last time. "Just a little while longer, *mon chum*," she whispered, her eyes full of love and promise. With a final, brilliant smile for him and a nod to Stella, she walked with her parents, Daniel and Sarah, into the bridal suite, the door closing softly behind her.
+
+The moment she was gone, a familiar, cold dread washed over Leo. He knew this was temporary. He knew it was tradition. But the trauma of King Street Station was a phantom limb, an ache that returned whenever she had to leave.
+
+Stella, Luna, Arthur, and Eleanor immediately formed a protective circle around him. "Alright, Leo," Arthur said, his voice a cheerful, grounding force. "Let's go get you ready. The groom's room is this way."
+
+The groom's suite was handsome, with dark wood paneling and comfortable leather chairs. But for Leo, it felt like a cage. He was acutely aware of the wall that now separated him from Olivia. His anxiety began to rise, a frantic, buzzing thing just beneath his skin.
+
+His family worked with practiced, loving efficiency. Arthur helped him with his custom-tailored suit jacket, while Stella adjusted his tie. Luna was at his side the entire time, her presence a constant, silent reassurance. She kept up a steady stream of light chatter, talking about the flowers, the food, anything to keep his mind from spiraling. They were all there, his entire fortress, a wall of love and support. But they were all acutely aware that their hugs, their words, and their presence were not enough to be a true balm for the one person he needed. They were the scaffolding, holding him together until his anchor, his *ma blonde*, was by his side once more.
+

@@ -1,0 +1,82 @@
+# Part 2: The Star Witnesses – Monday, September 18, 2051 – 09:30
+
+Inside the *UNS Citadel* courtroom, a brilliant column of blue quantum light erupted directly beside the Prosecutor’s podium.
+
+The entire amphitheater gasped, thousands of people leaning forward in their seats as the light resolved into two flawless, life-sized, high-definition holograms.
+
+Wyatt Colton stood tall, his broad, heavily scarred frame radiating the absolute, unshakeable authority of a man who had conquered the end of the world. Beside him, Sarah stood with her head held high, the slate-blue of her tunic cutting a striking figure against the gray of the courtroom.
+
+High Director Kael stumbled backward, his back hitting the rear wall of the hard-light containment cylinder. He stared at the holograms as if looking at ghosts.
+
+"Contractors Colton and Hayes," the Lead Prosecutor addressed them respectfully. "Let the record reflect that the witnesses are testifying remotely from an undisclosed, secure location."
+
+"It's Mrs. Colton now," Sarah corrected, her voice echoing perfectly through the massive space.
+
+"Mrs. Colton," the Prosecutor amended with a slight, approving smile. "The defense claims that the Apex intake process was standard corporate employment, and that the medical treatments provided were for the safety of the contractors. Can you testify to the nature of the intake?"
+
+Sarah looked directly at Kael. The terrified eighteen-year-old girl who had cowered in the communal washrooms of the NTTR was completely dead. The woman standing before the tribunal was the founding mother of Planet Eden.
+
+"The intake was an acquisition," Sarah stated clearly, her voice unwavering. "Apex swallowed civilian companies and stripped the employees of their identities. They hot-bunked us three to a thirty-inch mattress on raw concrete to maximize their excavation timeline. But the true atrocity was the medical clinic."
+
+The courtroom fell dead silent.
+
+"Apex mandated Omni-Cycle hormone blockers for all female contractors to avoid the financial burden of maternity leave," Sarah testified, her dark eyes flashing with fierce justice. "But they didn't administer blockers. High Director Kael and his board slashed the pharmaceutical budget to increase quarterly profits. They injected thousands of women with a cheap saline placebo, risking our bodies and our lives without our consent, treating us like cattle."
+
+Kael gripped the energy barrier, his knuckles turning white. "Lies! Earth propaganda! You are an acquisition transfer, you have no access to executive budgets!"
+
+"I don't need the budget," Sarah shot back, her voice ringing like a gunshot. "I have the biometric proof."
+
+"Mr. Colton," the Prosecutor seamlessly pivoted to Wyatt. "The High Director claims the anomaly breach was a natural disaster that Apex attempted to contain. You were patrolling Sub-Level 4 on the day of the lockout. What did you see?"
+
+Wyatt crossed his heavy arms over his chest. He looked down at the dictator.
+
+"We saw the deep-core drill bits coming up covered in necrotic, biological tissue," Wyatt's deep, gravelly voice washed over the room, carrying the absolute weight of undeniable truth. "Apex knew the anomaly was alive. We witnessed the liquid nitrogen floods. They weren't trying to stabilize a fault line; they were trying to freeze a hive-mind so they could keep extracting the palladium deposits directly beneath it."
+
+"They were protecting their mining rights," the Prosecutor clarified for the galactic record.
+
+"Yes," Wyatt confirmed. "And when the nitrogen failed, and the hive-mind began to push upward... Apex evacuated their executives and locked the elevators. They left thousands of S.H.O.P. Marines and their own civilian scientists trapped underground to act as a fleshy speedbump."
+
+"That is a fabrication!" Kael screamed, losing his composure entirely as the gallery erupted into outraged shouts. "The anomaly breached the surface on its own!"
+
+"No, it didn't," Wyatt roared back, his S.H.O.P. Marine volume easily drowning out the dictator. "You couldn't control it, so you tried to vaporize the evidence! I was standing in the Operations Center of the deep-space transport you abandoned. We intercepted the raw telemetry. It wasn't an earthquake that fractured the mantle, Kael. It was a high-velocity tungsten rod dropped from an Apex orbital platform!"
+
+The courtroom completely exploded. The Lead Magistrates hammered their gavels, struggling to regain control of the screaming gallery.
+
+Wyatt stepped right up to the edge of the holographic projection, his towering digital avatar staring directly down into the containment cylinder.
+
+"You ordered an unsanctioned kinetic strike on Sector 4," Wyatt accused, delivering the killing blow. "You cracked the tectonic plate. You handed the biological mass a direct, molten highway right underneath the military's radioactive blockade, and you triggered the Yellowstone caldera. You didn't just abandon Earth, Kael. You pulled the trigger."
+
+"Because you were too weak to do it yourselves!" Kael shrieked, his imperial mask completely shattering into a frantic, rabid fury. He slammed his fists against the hard-light barrier, spitting venom at the holograms. "Earth was a bloated, dying rock! Apex brought efficiency! We brought order! If I had to burn a continent of useless, minimum-wage inventory to protect the sovereignty of Acheron, I would do it a thousand times over!"
+
+The gallery instantly went dead quiet.
+
+High Director Kael stood panting in his cell, his chest heaving as the echo of his own voice faded into the massive amphitheater. In his desperate, arrogant rage, he hadn't just justified his actions. He had officially, unequivocally confessed to the intentional destruction of the Earth's mantle on the galactic record.
+
+The Lead Prosecutor looked at the Tribunal of Magistrates. She didn't need to ask another question.
+
+"The prosecution rests," she said softly.
+
+In the library on Planet Eden, Wyatt let out a long, heavy exhale. He reached over, wrapping his arm securely around Sarah’s waist.
+
+"Aria," Wyatt murmured, completely satisfied. "Cut the feed."
+
+The massive holographic projection of the courtroom vanished instantly, plunging the library back into the warm, quiet peace of the morning sunlight.
+
+Wyatt and Sarah sat on the sofa for a long moment, listening to the gentle hum of the estate's climate control. The war was officially over. The past was dead and buried under a guilty verdict, and the future was entirely theirs.
+
+Suddenly, the heavy timber doors of the library hissed open.
+
+Ellie Colton marched into the room, her heavy boots squeaking against the polished stone. At five and a half years old, she was wearing a miniature pair of canvas overalls, entirely unbothered by the galactic justice system her parents had just manipulated.
+
+She marched right up to the holographic table and crossed her arms, staring at Wyatt.
+
+"Dada," Ellie commanded, pointing a tiny thumb over her shoulder toward the hallway. "Recruit is sleeping. You promised."
+
+Wyatt let out a deep, booming laugh, the heavy weight of the trial instantly evaporating into pure, absolute fatherhood.
+
+"I did promise, Commander," Wyatt grinned, standing up and stretching his broad shoulders. "To the Fab-Foundry?"
+
+"Foundry," Ellie confirmed with a sharp nod. She wanted to learn how the molecular printers worked, and the Vanguard’s schedule waited for no man.
+
+Wyatt offered his hand to Sarah, pulling her up from the sofa. They walked out of the library, following their daughter down the hall. The universe outside their shield was rebuilding, but inside the mountain, the Colton family had work to do.
+

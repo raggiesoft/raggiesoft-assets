@@ -1,0 +1,30 @@
+# Part 2: The Chain of Command – Thursday, October 20, 2044 – ~06:00
+
+Wyatt kept moving deeper into Sector 4, the metal grating of the catwalk ringing softly under his heavy steel-toed boots. Hayes was right behind him, her flashlight beam sweeping the shadows in steady, disciplined arcs. She was learning fast.
+
+The air scrubbers here were deafening, filtering out the choking pale dust of the Nevada desert. Apex Defense Solutions had built this facility in the deepest, most desolate stretch of the Test and Training Range to keep their black-budget operations completely out of the public eye. To the executives safely sitting in their corporate towers, being hundreds of miles out in the wasteland on Earth was just as good as being millions of miles away on a frontier colony. They were cut off.
+
+The catwalk dipped toward a mid-level Overseer Station—a fortified glass booth suspended over the main drilling elevator. Wyatt raised his fist to halt.
+
+The armored door to the booth was cracked open, likely to let in some circulation. The harsh white light inside illuminated an Apex Supervisor. It was the same type of guy who had processed them at the checkpoint: heavy ballistic vest, company-issued combat shotgun resting against the console.
+
+But his helmet was off, resting on the desk. He looked exhausted, rubbing his temples with trembling, grease-stained hands. He wasn't looking at the security feeds. He was huddled over a smuggled, unauthorized satellite comms-link—a massive violation of Apex operational security.
+
+Wyatt pressed himself into the shadows beside a massive coolant pipe. Hayes ducked in beside him, holding her breath.
+
+"I don't care what the official corporate feeds are saying, Elena," the Supervisor whispered fiercely into the comms-link, his voice cracking. "Listen to me. Take the girls and go to your sister's place in the city. Today."
+
+Static hissed over the line. Wyatt couldn't hear the response, but he could hear the sheer, unfiltered terror in the armored man's voice.
+
+"Because they locked the executive elevators," the Supervisor pleaded, gripping the edge of the console. "The scientists in Sector 2 are panicking. The deep-core drills broke into some kind of cavern network, and command just issued a silent grounding order for all outgoing atmospheric transports. Nobody is leaving the Nevada grid. If I don't make it to my shore leave next month... use the hazard pay. Pay off the house. Just get the kids out."
+
+Hayes looked up at Wyatt in the dark, her face pale. The fear in her eyes wasn't the rookie shock from the showers anymore; it was a deep, cold dread.
+
+Wyatt looked at the Supervisor. The heavy armor, the combat shotgun, the arrogant attitude at the checkpoint—it was all a cheap bluff. Management wasn't in control. The guys with the guns were just higher-paid prisoners, just as terrified and in the dark as the minimum-wage contractors sweeping the floors. The corporate food chain was collapsing.
+
+Wyatt's PDA vibrated against his hip, the internal tracker glowing a dull, angry yellow. Five minutes of stationary loitering. If they stayed any longer, the Apex Analytics automated system would flag their IDs, and that terrified Supervisor would be forced to come out here and write them up just to keep his own job secure.
+
+Wyatt caught Hayes's eye and gave a curt nod toward the descending stairs. *Move.*
+
+They both slipped away from the booth, descending deeper into the suffocating heat of the excavation levels, leaving the armed guard to his doomed phone call.
+

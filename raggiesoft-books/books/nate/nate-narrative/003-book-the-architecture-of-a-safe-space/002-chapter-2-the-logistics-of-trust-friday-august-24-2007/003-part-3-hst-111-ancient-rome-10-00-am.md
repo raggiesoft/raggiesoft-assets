@@ -1,0 +1,36 @@
+# Part 3: HST 111 - Ancient Rome (10:00 AM)
+
+The transition out of the Kempsville building was a breath of fresh air, both literally and academically. Exiting the heavy glass doors, Sarah immediately banked the wheelchair to the right. They followed the concrete path that hugged the water's edge, navigating their way to the other side of the campus lake. The late-morning sun was glinting off the water, and the oppressive dread of polynomials was already fading from their minds.
+
+Looming ahead was the Pungo building. This was their real destination.
+
+"HST 111," Sarah said, pushing Nate through the entrance and down the bustling hallway. "History of Ancient Rome. Ninety minutes of actual, narrative substance."
+
+"Emperors, assassinations, and aqueducts," Nate agreed, a genuine spark of excitement in his voice. "I can actually map that out in my head. No fractions required."
+
+They found their classroom just as the previous group was filing out. Sarah smoothly piloted Nate into the room, bypassing the cramped rows of traditional desks and claiming the accessible table situated perfectly near the front row.
+
+Unlike the dreary, silent march of their algebra class, the atmosphere in HST 111 shifted the moment the professor walked in. He was an older man wearing a tweed jacket that had seen better decades, carrying a stack of syllabi and a thoroughly battered thermos. He didn't waste time writing his name on the board or droning through the academic policies. He just slapped the stack of papers onto the front desk, leaned against the podium, and looked at the room.
+
+"Forget the syllabus for a minute," the professor announced, his voice booming effortlessly to the back row. "You can read the grading rubric tonight. Right now, I want to talk about fratricide, a she-wolf, and the bloody foundation of the greatest empire the world has ever seen."
+
+Nate sat up straighter in his wheelchair. Beside him, Sarah already had her pen poised over a fresh sheet of paper. They were hooked.
+
+For the next ninety minutes, the professor paced the front of the room, weaving the mythological and historical tapestry of Rome's beginnings. He painted a vivid picture of Romulus and Remus, the brutal practicality of the early Roman kings, and the eventual, violent societal shift that gave birth to the Republic.
+
+This was where Nate’s mind thrived. While math felt like a locked door with a missing key, history was a sprawling, interconnected story of characters, motivations, and consequences. His neurodivergent brain eagerly grabbed onto the complex social structures of the patricians and plebeians, cataloging the dates and names not as sterile data points, but as pieces of a massive, epic narrative.
+
+He didn't just take notes; he was entirely absorbed. The ambient anxiety that usually plagued him in a room full of strangers completely evaporated, replaced by a laser-focused hyperfixation on the lecture.
+
+When Sarah glanced over at him halfway through the class, she saw a profound difference. His shoulders weren't hunched defensively. He wasn't tracking the exits. He was just a student, utterly fascinated by the world being built at the front of the room.
+
+"And that," the professor concluded, checking the clock on the wall as the minute hand ticked toward 11:30 AM, "is how a muddy settlement on the Tiber River set the stage to conquer the known world. Read chapter one by Monday. Dismissed."
+
+The room erupted into the chaotic rustle of notebooks closing and backpacks zipping.
+
+"Okay," Sarah said, exhaling a long, satisfied breath as she capped her pen. "That was actually incredible."
+
+"I told you," Nate said, a massive grin on his face as he grabbed his own notebook. "I could sit through three hours of that."
+
+"Well, hold that thought until after we eat," Sarah laughed, stepping around to the back of his chair and gripping the handles. "It's 11:30. The Kempsville grate is up, and I owe you a plate of chicken tenders."
+

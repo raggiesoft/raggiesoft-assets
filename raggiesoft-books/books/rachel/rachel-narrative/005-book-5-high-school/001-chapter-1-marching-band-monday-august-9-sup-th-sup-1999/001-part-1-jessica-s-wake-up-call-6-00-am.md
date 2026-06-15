@@ -1,0 +1,22 @@
+# Part 1: Jessica’s Wake Up Call – 6:00 AM
+
+The alarm clock sounded, and Jessica prodded me awake. "My last band camp!" She sounded excited, but I was still struggling to wake up.
+
+"Jess, five more minutes," I groaned, with a yawn mixed in.
+
+"Wakey-wakey," She giggled, "I will get changed in the bathroom and I want you to meet me downstairs for breakfast I will have cereal waiting." My sister then hugged me and exited the bedroom. I slowly got up, and got dressed.
+
+I exited the bedroom, and saw that Jess was still in the bathroom. I made my way downstairs and used the bathroom on the first floor. I petted Baby and Archie then went to do my business.
+
+Jessica soon joined me downstairs and, after petting the dogs, proceeded to make us cereal. "We are going to have breakfast then make our way to Northwood. I need to be there sooner because I am in charge of our little section of the band," She said while making breakfast.
+
+Rachel wandered downstairs in her pajamas and said, "I wanted to say goodbye to you two before you left for band camp." The dogs bounded for her, wanting attention and pets, which she happily gave to them.
+
+"Pour yourself a bowl of cereal, and come join us," Jessica said. Rachel groaned, and Jessica said, "You are twelve years old now. I think you are old enough to pour your own cereal."
+
+"I can’t reach the top of the fridge," She pouted.
+
+Jessica rolled her eyes, but got up as she said, "True, and mom and dad don’t want you using the step ladder. I’m sorry Rachel, I forgot that you were not supposed to use the step ladder."
+
+We had our breakfast, hugged Rachel and our dogs goodbye, and got in the car. "I’m going to have you stay with me when we arrive. There are some things I need to take care of before we get started," Jessica said as she made the five minute drive to the high school.
+

@@ -1,0 +1,20 @@
+# Part 10: The Cake
+
+After the last heartfelt toast had been given and the applause had faded, it was time for another classic and eagerly anticipated moment: the cutting of the cake. A member of the country club staff wheeled a small, linen-draped table to the center of the dance floor. Upon it sat a magnificent, three-tiered masterpiece that served a dual purpose.
+
+The cake was a perfect reflection of Leo and Olivia's shared taste: simple, elegant, and beautiful. The tiers were covered in a smooth, cream-colored buttercream frosting, and cascading down one side was a delicate arrangement of edible sugar flowers in the same deep blue and cream as the rest of the decor. At the very top, a simple, elegant silver "P" stood for Porter. But along the base of the bottom tier, written in subtle, elegant blue script, were the words that marked the day's other happy occasion: "*Joyeux Anniversaire, Olivia!*" (Happy Birthday, Olivia!)
+
+Arthur once again called for everyone's attention as Leo and Olivia made their way to the table. The traditional cutting of the cake required a thoughtful adaptation, one they had already quietly planned.
+
+Olivia positioned herself beside Leo's wheelchair, her hand gently resting on his shoulder. A server handed her a beautiful silver cake knife. Instead of trying to cut it alone, Olivia held the knife and then gently placed Leo's hand over hers, enclosing it completely. Together, their hands gripping the knife, they guided it down, making the first symbolic slice into the bottom tier of the cake.
+
+The room was filled with the bright, flashing lights of cameras as their family captured the moment. The first slice was carefully plated, but before it could be served, Luna stepped forward with her flute.
+
+"Before we have the first bite," she announced with a brilliant smile, "there's one more very important thing we have to do today!"
+
+She raised her flute to her lips, and the entire room joined in song as Luna played the clear, sweet melody of **"Happy Birthday."** Olivia’s face flushed with a happy, rosy pink, her eyes shining as she was serenaded by her entire new, blended family.
+
+After the song ended with a final, cheerful round of applause, the next challenge was the traditional feeding of the first bite. Olivia, ever practical and attuned to Leo, solved this with a simple, loving gesture. She took a small fork, got a tiny piece of the cake, and held it up. "Okay, *mon chum*," she whispered, her eyes sparkling. "My turn first." She gracefully fed herself the bite, a playful and elegant solution that avoided any potential awkwardness.
+
+Then, she got a second, slightly larger piece on the fork. "Your turn," she said softly. Leo leaned forward, and she gently gave him the first bite of their commitment cake. He closed his eyes for a moment, savoring the sweet flavor of vanilla and raspberry filling, a taste he would forever associate with this perfect, joyful moment. He looked up at his *ma blonde*, a sweet, frosting-tinged smile on his face, and the entire room seemed to melt at the pure, uncomplicated happiness between them.
+

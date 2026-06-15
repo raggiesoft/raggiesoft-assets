@@ -1,0 +1,52 @@
+# Part 2: The Burger Arch – 8:30 AM
+
+The ride to Franklin’s was uneventful, the heavy bus tires hissing over the wet pavement. Soon, we were dropped off at the massive transit shelter on the edge of the hypermarket's sprawling property.
+
+Through the rain-streaked windows, we were surprised to see our father already standing at the bus stop waiting. He was wearing a heavy jacket, his shoulders hunched against the damp chill, looking impatient.
+
+Rachel exited out the back door of the bus first, her boots hitting the wet concrete.
+
+"What is this all about, Rachel?" Dad asked immediately, a sharp edge of attitude in his voice. He was clearly expecting her to be alone, and a Sunday morning transit meetup wasn't part of his rigidly preferred routine.
+
+"You’ll see," Rachel said, her voice tight as she tried to contain the massive secret she had orchestrated.
+
+Meanwhile, at the front of the bus, the operator deployed the mechanical wheelchair lift. The heavy metal platform whined as it lowered to the sidewalk. Once Jessica was safely unhooked, I gripped the rubber handles and wheeled her off the platform and onto the wet pavement right in front of him.
+
+Our father’s face completely froze.
+
+He was rendered temporarily speechless, but not out of joy. The moment his eyes landed on Jessica sitting in her wheelchair, the annoyance in his posture instantly morphed into a rigid, defensive tension. A muscle feathered in his jaw. He looked at me, registering my presence with a blink of shock, but his eyes immediately darted back to his oldest daughter. He didn't look like a father greeting his children after months of agonizing separation; he looked exactly like a man who had just realized he walked blindly into a trap.
+
+"Hi Dad," I said, breaking the heavy silence as the diesel bus roared and pulled away from the curb. "Yes, I’m out here."
+
+Dad swallowed hard, his eyes still fixed nervously on Jessica. "Michael," he managed to say, his voice lacking any warmth. He shifted his weight uncomfortably. "Jessica. I didn't... know you were coming down from Seattle."
+
+"We should probably get inside before we get too cold and wet," Jessica said, her tone perfectly pleasant but carrying a distinct, undeniable authority. "My treat for breakfast."
+
+"No Cathy?" Rachel asked, looking around the empty parking lot.
+
+"Cathy’s working," Dad muttered, his hands shoved deep into his jacket pockets.
+
+"Well, then we can go to the Burger Arch across the lot," Rachel said, pointing toward the glowing neon sign visible through the mist. She looked at Dad. "You drove, right?"
+
+"How do you expect me to get you in the car?" Dad asked, looking down at Jessica and immediately rolling his eyes at the logistics. It was a pathetic, transparent attempt to put up a roadblock, using her disability as an excuse to avoid whatever confrontation he felt coming.
+
+"By folding my wheelchair and putting it into the trunk," Jessica groaned, completely unbothered by his resistance. Her voice hardened just a fraction. "Dad, don’t argue with me. I kind of wanted to enjoy the holiday with my family, and that includes you."
+
+After a bunch of grumbling and bellyaching, we walked across the wet asphalt to his sedan.
+
+He popped the trunk, standing back and offering zero assistance. Rachel, who had apparently memorized the mechanical breakdown of the chair during her time in Washington, stepped in. She showed me exactly which levers to pull to collapse the heavy metal frame. I lifted the cold, awkward weight of the chair and shoved it into the trunk, slamming the lid shut.
+
+We all climbed into the car, filling the small space with the smell of damp wool and heavy tension.
+
+"Jessica, your wheelchair is really doing a number to my gas tank," Dad complained loudly from the driver's seat as we made our way through a few tight turns and finally pulled into the fast-food parking lot. It was a petty, ridiculous jab.
+
+"My wheelchair is not that heavy," Jessica snorted from the front passenger seat, shooting him a sharp, sideways glare. "Cathy’s kid’s things are heavier, and you never say anything about that."
+
+Dad gripped the steering wheel tighter, his knuckles turning white, but he completely shut his mouth. He didn't fire back.
+
+Sitting in the backseat next to Rachel, my analytical brain started running the data. I knew exactly why Rachel hated him—he had broken her door and dragged her away from her safe environment. But watching Dad interact with Jessica was a completely different dynamic. He wasn't acting like the authoritative parent who had dictated the terms of the divorce.
+
+He was acting like he was afraid of her.
+
+As Dad parked the car and killed the engine, the suffocating silence in the cabin made one thing perfectly clear: Jessica was holding a massive piece of leverage over his head, and breakfast was exactly where she planned to drop it.
+

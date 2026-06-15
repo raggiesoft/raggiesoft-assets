@@ -1,0 +1,60 @@
+# Part 7: The Debrief
+
+Date: July 6, 2003
+
+Time: 6:45 PM
+
+Location: The Bayside Hotel, Newport, Rhode Island
+
+The hotel room was cramped but buzzing with energy. The smell of takeout clam chowder hung heavy in the air.
+
+Patrick had the phone cord stretched across the room, plugged into his heavy laptop on the small desk. The dial-up modem made a series of screeching, mechanical handshakes before finally connecting to the hotel's slow internet service.
+
+He was hunched over the screen, loading the property management website for The Foundry Lofts.
+
+"Okay, here it is," Patrick said, clicking on a pixelated floor plan. "The Foundry Lofts at Foundry Square. Two-bedroom units available. It’s not just an apartment; it’s a Transit-Oriented Development. Built right on top of the Blue Line station."
+
+"And the tunnel?" Nichole asked, tapping her VocaLink tray.
+
+"Confirmed," Patrick nodded, pointing to the text on the screen. "'Direct secure access to The Braxton Link pedestrian network.' Residents get a key fob. You take the elevator to the basement, walk through the door, and you're in the grid. You can roll all the way to the airport without going outside if you wanted to."
+
+Tom sat on the edge of the bed, leaning in to squint at the screen. "That sounds incredible, Pat. But look at that rent."
+
+Patrick scrolled down. The price for a two-bedroom unit in a luxury building with direct subway access in a major metropolitan city was... significant. It was double what a standard off-campus apartment would cost in Virginia.
+
+"It's steep," Patrick admitted. "Like, 'downtown Boston' steep."
+
+"That's because Braxton isn't a college town," Uncle Mark said from the armchair, where he was nursing a local soda. "It's a monster. You guys saw the skyline. You saw the airport signs on the highway? BCI is huge. It takes all the overflow from Logan. We get Royal Albion heavy jets coming in from London every day. You're paying for big-city access."
+
+Ellen sighed, looking at the budget she had scribbled on a hotel notepad. "We can't afford that rent and out-of-state tuition at the same time. Not without taking out massive loans."
+
+The room went quiet. The dream of the perfect, weather-proof apartment was colliding with the reality of the price tag.
+
+"So we don't pay the tuition," Patrick said quietly.
+
+He spun the desk chair around to face the family.
+
+"We stick to the plan. We take the Gap Year," Patrick said, his voice firming up. "We move in with Uncle Mark next month. We live in his new place in Portsmouth for free. We work. I get a job. We save every single penny for twelve months."
+
+"And the residency clock ticks," Tom added, nodding slowly.
+
+"Exactly," Patrick said. "By next August—August 2004—we'll be Rhode Island residents. Tuition at BSU drops by sixty percent. That savings goes straight into the rent for The Foundry."
+
+Nichole looked at the computer screen. She looked at the floor plan of the apartment. It had wide doors. It had a roll-in shower. It had a magic door in the basement that erased winter.
+
+She let out a sharp, guttural click with her tongue—a specific sound the family knew meant she was processing a decision. She looked at the map of the city on the screen. It was a city big enough to get lost in, but built in a way that she could always find her way home.
+
+She looked at her parents. She looked at Uncle Mark.
+
+She made a loud, resonant hum in her throat and slammed her hand on the tray. She tapped the VocaLink.
+
+"WAIT. THEN. LAUNCH."
+
+"That's the strategy," Patrick agreed, understanding her tone instantly. "We wait. We build the war chest. And then we launch."
+
+Uncle Mark raised his soda bottle. "To the Gap Year. And to The Foundry."
+
+"To The Foundry," Tom echoed.
+
+Patrick turned back to the computer. He didn't close the browser window. He bookmarked it. It wasn't just a rental listing anymore. It was the target.
+

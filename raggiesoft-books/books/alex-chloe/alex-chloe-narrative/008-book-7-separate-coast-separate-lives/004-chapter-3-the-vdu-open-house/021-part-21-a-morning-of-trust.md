@@ -1,0 +1,16 @@
+# Part 21: A Morning of Trust
+
+Sunday morning arrived not with the jarring blare of an alarm, but with the soft, gentle light of dawn filtering through the blinds of Megan’s dorm room. Alex woke slowly, on his own terms. The first thing he was aware of was a sense of profound peace, and the light, steady weight of his cousin's hand gently stroking his hair.
+
+He opened his eyes to see Megan, already awake, lying beside him and watching him with a look of deep, unconditional love. Her mission for the weekend, to show him how much he was cherished, to remind him what safe, proper affection was all about, was culminating in this quiet, perfect moment.
+
+"Good morning, cuz," she whispered.
+
+There was no rush, no agenda. They lay there for a long time in a comfortable, peaceful silence. When it was finally time to get ready for the day, the routine was familiar, but something fundamental had shifted within Alex.
+
+As Megan helped him get dressed, her movements were the same gentle, matter-of-fact acts of care as always. But this time, for the first time, Alex didn't flinch. He didn't tense up. The quiet, instinctual fear of being touched, a scar left by months of Vera's unpredictable and conditional "affection," was finally beginning to fade. In its place was a simple, profound trust.
+
+Later, as she got dressed herself in the same room, another small miracle occurred. He didn't look away. He didn't feel the familiar, anxious need to make himself smaller, to disappear, as he did when Vera was in the room. He just watched his cousin, his friend, his family, with a simple, easy comfort. The weekend had been a masterclass in safety, and he had been a diligent student.
+
+The walls he had built to protect himself were beginning to come down. He was finally ready for the conversation that he knew was coming.
+

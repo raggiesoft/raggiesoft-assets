@@ -1,0 +1,38 @@
+# Part 2: The Anchor – 6:00 PM
+
+The bathroom was thick with warm, fragrant steam, turning the small, tiled space into an insulated, physical cocoon.
+
+Rachel was submerged up to her chin, entirely hidden beneath a thick, impenetrable mountain of white bubbles. Her wet, dark hair was plastered against her cheeks, and she was trembling so violently that the water around her rippled continuously, sending small clusters of foam sliding down the porcelain sides of the tub.
+
+She was completely exhausted, stripped of the explosive, defensive rage that had taken over in the bedroom. Now, there was just the raw, paralyzing terror of what the court order meant.
+
+I sat on the closed toilet lid, leaning forward with my elbows resting heavily on my knees. I kept my eyes locked entirely on hers. I didn't look at the walls, the sink, or the mirror. I just stared directly into her dark, tear-filled eyes, serving as the physical, immovable anchor she desperately needed to keep from floating away into the panic.
+
+Hanging on the towel rack directly opposite from where I was sitting was her heavy bath towel. It was perfectly positioned. Whenever she decided the water had done its job, all I had to do was reach out, pull it down, and hold it up for her like a shield. But we weren't there yet. Right now, she just needed the heat of the water to force her rigid muscles to uncoil.
+
+"He... he has a screwdriver," Rachel sobbed, her voice echoing slightly against the tile. Her lower lip quivered, sending a small ripple through the bubbles just below her chin. "He broke the door, Michael. He broke the lock. What if he comes back tonight?"
+
+"He’s not coming back tonight," I said, my voice low, steady, and completely absolute. "And if he does, I won't let him past the stairs. You saw him. He ran away when we yelled. He's a coward."
+
+"The paper says I have to go," she whimpered, her eyes pleading with me to fix the math. The court order was a massive, terrifying variable that completely overrode our control of the house. "The judge signed it. They are going to make me go to Washington. I don't know Cathy. I don't know Vancouver. I don't want to go."
+
+"You aren't going," I promised, never breaking eye contact.
+
+"But the rules—"
+
+"The rules are broken," I interrupted gently but firmly. "They broke the rules when they tore our family apart. So we don't have to follow theirs anymore. Our rule is that we stay together. That's the only rule that matters now."
+
+Rachel let out a long, ragged exhale, the breath disturbing the foam around her neck.
+
+"I'm so scared," she whispered, the fight completely leaving her voice.
+
+"I know," I said. "I am too. But I'm right here. I'm not leaving this room. I'm not leaving this house without you. If he tries to put you on a plane, he's going to have to drag me onto it, too."
+
+She sniffled, blinking away a fresh wave of tears. Slowly, the intense, violent trembling in her shoulders began to subside. The deep, surrounding heat of the bathwater was finally working, replacing the frantic, buzzing static of her nervous system with a heavy, soothing warmth.
+
+But more than the water, it was the unbroken eye contact that was regulating her. She watched my face, reading the absolute certainty in my expression. I was her older brother. I had kept her safe at the mall, I had protected her from the crowds at band camp, and I had just thrown our parents out of the house. If I said she wasn't going to Washington, her brain could finally accept it as a factual truth.
+
+"Okay," she whispered, her voice finally losing its frantic edge.
+
+We sat there in the steam for a long time. The only sounds were the slow, steady drip of the faucet and the quiet popping of the soap bubbles. The outside world, with its lawyers, its broken doorknobs, and its terrifying ultimatums, was completely locked out. As long as I was sitting right there, holding her gaze, she was perfectly, completely safe.
+

@@ -1,0 +1,38 @@
+# Part 2: The Voyage – Mid-October 2044 (Interstellar transit)
+
+The Tri-Sector Interstellar Freight & Personnel transport slipped through the void with barely a whisper.
+
+Unlike the shuddering, industrial cargo haulers that serviced the outer agricultural colonies, the TSIFP cabin was a sanctuary of quiet efficiency. Soft, warm amber lighting illuminated the spotless aisles, reflecting off the clean slate-blue and silver accents of the bulkheads. There was no rattling, no suffocating heat, and no shouted orders. The air was perfectly climate-controlled and smelled faintly of fresh linen.
+
+Sarah unclipped her safety harness, sinking deeper into the plush cushioning of her assigned seat. She let out a long, slow breath, finally allowing the knots of anxiety in her shoulders to fully untangle.
+
+For the first few hours of the flight, she just watched the other passengers. They were a mix of older academics, geologists reviewing data pads, and other technicians in crisp Helios uniforms. It was a culture of quiet, collaborative professionalism. A few rows up, two researchers were softly debating seismic pressure differentials, their tones respectful and engaged. Sarah smiled to herself, tracing her thumb over the stylized planetary-arc logo on her chest. She was actually going to be a part of this.
+
+"Excuse me, Miss Hayes?"
+
+Sarah looked up. A flight attendant in a neat, tailored uniform was standing in the aisle, offering a warm, professional smile from behind a sleek service cart.
+
+"We're beginning our dinner service," the attendant said gently. "Would you prefer the herb-roasted chicken or the vegetarian pasta? It's all included with your transit package."
+
+"The pasta, please," Sarah said, her eyes widening slightly. She hadn't expected real food.
+
+The attendant handed her a steaming tray and a cloth napkin wrapped around polished stainless-steel cutlery. Sarah peeled back the foil lid. It wasn't a synthetic nutrient brick or reconstituted gray paste. It was actual penne pasta in a rich tomato sauce, accompanied by a crisp, fresh side salad and a warm roll. It felt like a luxury she couldn't possibly deserve, but the Helios brochure had promised that employee welfare was their highest priority.
+
+As she ate, she tapped the interactive glass screen on the seatback in front of her. The entertainment system was loaded with documentaries, academic lectures, and historical media archives.
+
+Bypassing the standard orientation modules, Sarah navigated deep into the archive folders until she found exactly what she was looking for to calm her nerves. It was a digitized playlist of eccentric, late-20th-century science education programs—the kind with fast-talking hosts in lab coats, zany sound effects, and actors in giant animal suits enthusiastically explaining how the physical universe worked.
+
+She slipped her noise-canceling headphones over her ears, completely captivated. There was something incredibly comforting about watching people passionately build functional science demonstrations out of everyday items. It was bright, optimistic, and deeply curious—the exact same academic spirit she believed she was flying toward.
+
+She finished her meal, leaving the empty tray to be quietly whisked away by the attentive crew, and spent the rest of the interstellar transit wrapped in a blanket, watching the archived broadcasts and imagining her new life.
+
+Hours later, the cabin lights gently brightened, simulating a soft morning sunrise.
+
+"Good morning, Helios team," the captain’s voice chimed over the intercom, smooth and reassuring. "We have officially entered the Sol System and are beginning our final approach to Earth. Please secure your belongings and return your seats to their upright positions. Welcome home."
+
+Sarah pulled off her headphones and leaned toward the thick, clear plexiglass window.
+
+Below her, suspended in the vast blackness of space, was the brilliant, swirling blue-and-white marble of Earth. Her breath caught in her throat. It was beautiful. It looked like a world of endless possibilities, completely untouched by the rust and decay of her home planet.
+
+She pressed her hand against the cool glass, her heart fluttering with genuine, unadulterated excitement. She was a Field Safety Technician for the Helios Geoscience Institute, and her new life was about to begin.
+

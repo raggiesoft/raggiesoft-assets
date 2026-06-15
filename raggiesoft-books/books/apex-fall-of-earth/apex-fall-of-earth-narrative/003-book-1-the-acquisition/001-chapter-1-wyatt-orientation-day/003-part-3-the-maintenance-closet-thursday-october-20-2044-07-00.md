@@ -1,0 +1,46 @@
+# Part 3: The Maintenance Closet – Thursday, October 20, 2044 – ~07:00
+
+Wyatt guided Hayes off the main catwalk, slipping into a narrow alcove hidden behind a massive, humming filtration bank. There was an unmarked, heavy steel door; he pulled the latch, checked the dark interior with his flashlight, and waved her inside.
+
+It was a cramped maintenance closet filled with dusty server racks, spare copper wiring, and heavy lead-lined panels. Wyatt pulled the door shut behind them, cutting off the deafening roar of the Sector 4 drill rigs. The sudden quiet was jarring.
+
+He pulled out his standard-issue PDA. The internal GPS tracker, which had been blinking a warning yellow, flickered and died completely, showing a "SIGNAL NOT FOUND" error.
+
+"Lead shielding in the walls," Wyatt said, his voice low in the dark room. He slid down the wall and sat on the cold floor, resting his heavy boots. "The automated system just thinks the tracker glitched out. We're off the grid. Take a breath."
+
+Hayes exhaled a long, shaky breath and slid down the wall opposite him, pulling her knees to her chest. In the dim spill of his flashlight, he could see the sheer exhaustion settling into her face.
+
+"Thank you," she whispered, staring at her steel-toed boots. "For earlier. In the washroom. And at the checkpoint."
+
+Wyatt just nodded, letting her talk.
+
+"Back home, my bedroom door didn't have a lock," she continued, her voice tight. "Getting walked in on... it was a nightmare of mine. When I saw that room today, with everyone just standing there staring at the walls... I thought I was going to throw up. I just wanted to hide."
+
+Wyatt leaned his head back against the metal server rack.
+
+"It's the same everywhere," he told her quietly. "I worked a deep-sea welding rig before this. We slept in tubes and showered in the hallways. Apex didn't forget to build stalls, Hayes. They do it on purpose. If you have no privacy, you have no pride. It breaks you down so you don't fight back. You just work."
+
+She looked up at him. The fear was still there, but the panic was gone, replaced by a quiet realization that he wasn't just another predator in this hellhole. He actually understood.
+
+"Sarah," she said suddenly.
+
+Wyatt raised an eyebrow.
+
+"My name," she said, a little firmer this time. "I know we gave them at the checkpoint, but... 'Hayes' just feels like a barcode. It's Sarah."
+
+"Wyatt," he replied, offering a faint, grounded smile.
+
+The corporate walls broke down entirely in the quiet of that closet. They weren't just two random contractors assigned to a patrol route anymore; they were two regular people realizing they were trapped in the exact same miserable boat.
+
+They talked about home. They both quickly realized they were only children—no brothers to watch their backs, no sisters to lean on when the money got tight. It was just them against the world, which was exactly the kind of isolated profile corporate recruiters preyed on.
+
+To pass the time and keep the anxiety at bay, the conversation shifted to what they used to do before the corporate grind swallowed them whole. Wyatt mentioned spending his teenage years tinkering with salvaged tech, wiring together old 16-bit consoles and fixing up retro hardware just to make something work.
+
+Sarah’s eyes actually lit up a bit. She told him how she used to binge archived broadcasts of old 90s shows, completely fascinated by regular people building functional machines out of total scrap. It made perfect sense; they were both blue-collar survivors who knew how to make something out of nothing. It was a small, bizarrely normal connection, but in the crushing, sterile environment of the Apex facility, it felt like a lifeline.
+
+"We just keep our heads down, Wyatt," Sarah said, looking at him with genuine, absolute trust. "We do the patrols, we don't ask questions, and we survive this contract. But we stick together. Deal?"
+
+Wyatt looked at the 18-year-old kid sitting across from him. He knew this facility was a powder keg. He knew the guys with the shotguns were terrified. But he held out his hand anyway.
+
+"Deal."
+

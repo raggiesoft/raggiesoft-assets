@@ -1,0 +1,38 @@
+# Part 3: The Eye of the Storm
+
+The familiar, bickering energy of the sisters filled the house. But Alex didn't care. He wasn't focused on them. His entire world, in that moment, was focused on Megan.
+
+She, in turn, rolled her eyes at her sisters' drama, her priority clear. She dropped her own backpack by the door and walked directly over to Alex, her face breaking into a wide, genuine smile.
+
+"Hey, cuz," she'd say, leaning down to give him a big, familiar hug.
+
+He would hug her back fiercely, a profound sense of rightness and peace settling over him. He was no longer just the quiet observer in his grandmother's peaceful house. He was Alex, Megan's cuz. The chaos of the Carter sisters could rage on. He was in his sanctuary.
+
+After the hug, Megan pulled a chair up to the kitchen table. "Okay, I've got to practice my cursive," she said, pulling a workbook and a pencil from her backpack. "Mrs. Davison says my capital 'Q' looks like a sad balloon. You gonna be my study buddy?"
+
+Alex nodded, a happy, contented look on his face. He loved watching her work. The quiet, focused rhythm of her pencil scratching on the wide-ruled paper was a soothing, predictable sound that helped him feel calm.
+
+In the living room, however, the fight over the remote had escalated. Their grandmother, Eleanor Prescott, who had been trying to read her magazine in the armchair, finally had enough.
+
+"Jessica! Cassandra!" Eleanor's voice, though not loud, cut through the bickering with the authority of a five-star general. "That is enough! Both of you!"
+
+The two girls fell silent, turning to face their grandmother, their expressions a mixture of guilt and defiance.
+
+Eleanor put down her magazine with a long, theatrical sigh of a woman who has seen it all before. "Why?" she asked, her voice a perfect blend of genuine curiosity and profound exasperation. "Why must you two always be at each other's throats? It gets old, girls. It gets very, very old."
+
+She gestured with her head towards the kitchen. "Look in there," she said, her voice softening slightly. "Look at your sister and your cousin. Do you see them fighting? Do you hear them screaming at each other over a silly piece of plastic?"
+
+Jessica and Cassie both peeked into the kitchen. They saw Megan, diligently working on her homework, and Alex, sitting quietly and contentedly beside her, watching her with a look of pure, uncomplicated adoration.
+
+"Megan and Alex," Eleanor continued, her voice now a gentle lesson, "they take care of each other. They are a team. Why can't you two be a team? Jessica, you are a teenager now. You're supposed to be showing your little sister how to behave, not fighting with her like she's your mortal enemy."
+
+"But she's always grabbing my stuff!" Jessica protested, her teenage indignation flaring. "And she's a baby! I have my own life!"
+
+"I'm not a baby!" Cassie wailed, tears welling in her eyes. "I just wanted to watch my show! And you never want to play with me anymore!"
+
+And there it was, the root of all their squabbles. Jessica, at fourteen, was desperately trying to carve out her own identity, separate from her family, and saw her younger sister as a childish annoyance. Cassie, at five, adored her big sister and couldn't understand why the person who used to be her favorite playmate now wanted nothing to do with her. Their constant fighting wasn't about the remote; it was about the painful, messy, and completely normal process of growing up.
+
+Eleanor just shook her head, a look of weary, loving understanding on her face. "Go to your rooms," she said, her voice now gentle but firm. "Both of you. And think about what it means to be a sister."
+
+As her two granddaughters trudged off down the hall, Eleanor looked back into the kitchen at the quiet, peaceful scene at the table. She smiled. At least two of her grandchildren, it seemed, had already figured it out.
+

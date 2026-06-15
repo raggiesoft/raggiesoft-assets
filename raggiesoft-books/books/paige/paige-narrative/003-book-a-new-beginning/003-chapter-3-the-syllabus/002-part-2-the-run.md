@@ -1,0 +1,118 @@
+# Part 2: The Run
+
+The silver **Horizon Avalon** sat in the driveway of 105 Pepper Street, reflecting the mid-morning sun. It was a rare beast for a sedan of its size—a V6 engine paired with a 5-speed manual transmission. "I will drive," Paige said, snagging the keys from the hook by the door. "I need the practice on the hills. If I can drive in Blacksburg, I can drive anywhere."
+
+They dressed quickly, shedding the soft armor of pajamas for the functional uniform of the day: jeans and t-shirts. Freddie pulled on his orange hoodie. He hesitated for a moment, then left the zipper open. It was already eighty degrees outside, too hot for the full cocoon, but he needed the heavy fabric within arm's reach. It was his safety net.
+
+They walked out to the car. Freddie took the front passenger seat—the Navigator’s station. Jessica slid into the back, the Commander in the rear.
+
+Paige adjusted the seat. She pressed the clutch pedal. It was heavy, with a bite point that demanded respect. "Clutch in," Paige whispered to herself. She turned the key. The V6 engine purred to life, a low, steady rumble that vibrated through the chassis. "Status?" Paige asked. "Green," Freddie rasped. His voice was still thin, like a radio signal with weak reception, but it was there. "Route confirmed. Business 460 to the prices Fork exit."
+
+Paige shifted into Reverse. She eased off the clutch. The car rolled back smoothly. She braked, shifted to First, and pulled out onto Pepper Street. "Smooth," Jessica approved from the back seat. "No lurch."
+
+## 11:20 AM Business 460 / South Main Street
+
+The drive to Blacksburg was a short, straight shot, but the terrain changed rapidly. The flat roads of Christiansburg gave way to the rolling, steep geography of the university town. "Hill start," Freddie warned as they approached the traffic light at the edge of campus. "Gradient is approximately eight percent."
+
+The light turned red. Paige stopped. The car rocked slightly on its suspension. "Handbrake," Jessica advised. "Don't ride the clutch holding it." Paige pulled the handbrake up. *Click-click.* When the light turned green, she executed the maneuver perfectly: revs up, clutch to the bite point, handbrake down. The Avalon surged forward without rolling back an inch. "Textbook," Freddie noted. "Torque application nominal."
+
+They pulled into the **Visitor Center**, a small brick building at the campus entrance. Jessica ran in with a five-dollar bill and returned with a maroon hang-tag. "Day Pass," she said, hanging it from the rearview mirror. "Valid for Perry Street Lot. It is a hike to the bookstore, but it is the only place we won't get ticketed."
+
+## 11:45 AM The Perry Street Lot
+
+Paige docked the Avalon in a narrow spot between a massive pickup truck and a faculty sedan. She killed the engine. "Secure," Paige said, pocketing the keys.
+
+They stepped out into the heat. The campus was quieter than it had been during the graduation or the game day, but it still hummed with the low-level energy of summer session students and faculty. They walked past the massive construction site of the new engineering building, the sound of jackhammers echoing off the limestone. To Freddie, the noise wasn't chaotic; it was the sound of construction. It was the sound of things being built.
+
+## 12:00 PM The University Bookstore
+
+The bookstore was a massive, rotunda-shaped building located at the edge of the academic district. The automatic doors slid open with a pneumatic hiss. The air conditioning hit them instantly—a wall of freezing, dry air that smelled of new paper, adhesive, and expensive coffee from the café in the corner.
+
+"Textbooks are downstairs," Jessica said, leading the way to the escalator. They descended into the basement level, a labyrinth of tall metal shelves packed with knowledge. Freddie scanned the aisle markers. *Engineering. Mathematics. Biology. Health & Physical Education.*
+
+"Target acquired," Freddie whispered, pointing to Aisle 4. They walked down the row. The shelves were stocked with colorful softcovers and massive, intimidating hardcovers. Jessica stopped at a tag labeled **HPE 204**.
+
+There was a stack of thick, glossy textbooks. The cover featured a generic, abstract image of a double helix DNA strand merging with a silhouette of diverse people. **Title:** *Human Sexuality: Biological and Psychosocial Perspectives*. **Edition:** 4th. **Condition:** New.
+
+Jessica picked one up. It was heavy. "Price check," she noted, flipping it over to check the barcode sticker. "\$115.00 New." She looked at Freddie and Paige. "We need three," Freddie said immediately. His voice was gaining strength, fueled by the logic of the situation. "Three?" Paige asked. "That is... three hundred and forty-five dollars. Can't we share?"
+
+Freddie shook his head. "Negative. We need to annotate independently. I need to highlight the definitions. You might need to highlight the social dynamics. If we share, the data gets corrupted. We need individual databases."
+
+Jessica nodded. "He is right. If we are going to treat this like a manual, we each need our own copy to study." She reached out and grabbed two more copies from the stack. The weight of three textbooks in her arms was substantial. "That is a lot of money, Jess," Paige worried.
+
+Jessica smiled, adjusting her grip on the books. "Don't worry about the budget. That is what the 'Avery Grant' is for." "Aunt Marge," Freddie clarified. "Aunt Marge," Jessica confirmed. "She told me specifically: 'Buy the kids whatever they need to get smart.' I think this qualifies."
+
+They walked to the checkout counter. The cashier, a student worker wearing a maroon polo, scanned the three identical books. *Beep. Beep. Beep.* "Taking the class together?" the cashier asked, making small talk. "Study group," Jessica said smoothly, pulling out her debit card. She swiped the card through the reader. *Authorizing... Approved.*
+
+The receipt printed with a rhythmic *zzzt-zzzt-zzzt*. Jessica handed a bag to Freddie and a bag to Paige. "Possession is nine-tenths of the law," Jessica said. "You own the knowledge now."
+
+Freddie looked into the plastic bag. The heavy book sat there, a dense brick of information. It wasn't a dirty magazine. It wasn't a secret whispered in a locker room. It was a textbook. It had an ISBN number. It had an index. For the first time since the shower incident, the knot of shame in Freddie’s stomach loosened just a fraction more. It was just a subject. And he was a good student.
+
+"We have the manual," Freddie whispered, clutching the bag against his chest. "Now," Jessica said, turning toward the exit. "Let's go get your PolyPasses. I want to see you swipe onto a bus before we go home."
+
+## 12:30 PM The ID Office (Newman Hall)
+
+The ID Office was tucked into a corner of the Student Union, smelling of warm plastic and lamination chemicals. Since it was summer orientation season, the line was short—mostly transfer students and a few confused freshmen who had lost their cards during the first week of Session 1.
+
+"Next," the camera operator called out. She sat behind a beige counter, looking bored, her finger hovering over a capture button.
+
+Jessica went first. She stood on the tape mark on the floor. *Flash.* "Done," the operator said. "Next."
+
+Paige stepped up. She smoothed her hair, offered a polite, closed-mouth smile. *Flash.* "Next."
+
+Freddie stepped onto the tape. He looked at the camera lens. It looked like a mechanical eye. He didn't smile; that felt performative. He just looked at the lens, ensuring his eyes were open and his head was level. *Flash.* The sudden burst of light left a purple afterimage in his vision, but he didn't flinch. He held his ground.
+
+They moved to the waiting area. Behind the counter, a specialized printer began to whir. *Zzzzt-clack. Zzzzt-clack.* It was a rhythmic, industrial sound—the sound of identity being manufactured.
+
+Five minutes later, the operator handed three warm plastic cards across the counter. "Don't punch a hole in them," she recited the standard warning. "It breaks the antenna coil. If you lose it, it is ten dollars to replace."
+
+Freddie took his card. It was still warm from the printer. It was sleek. The background was a deep Maroon with Orange accents. **CPI POLYPASS**. His name was printed in raised, black thermal lettering: **FREDDIE AVERY**. His photo was to the right—he looked serious, alert, and present.
+
+He ran his thumb over the raised letters of his name. It was tactile proof of his existence in the system. He flipped it over. A thick black magnetic stripe ran across the top. A barcode sat at the bottom. "Access granted," he whispered. He looked at Jessica. "This works on the bus?" "Swipe and ride," Jessica confirmed, sliding her own card into her wallet. "Starting right now. It is your key to the city. It opens the library, it gets you into the gym—if you ever wanted to go there—and it pays the fare."
+
+Freddie slid the card into the front pocket of his jeans. He patted it. It wasn't just plastic. It was mobility.
+
+## 12:45 PM The Drillfield
+
+"Phase Two," Jessica announced as they walked out of Newman Hall into the bright sunshine. She pointed across the massive, grassy expanse of the Drillfield toward the imposing stone fortress on the hill: **Burruss Hall**. "We have the IDs. Now we have to pay the toll."
+
+"Tuition?" Paige asked. "Tuition," Jessica confirmed. "Summer classes aren't covered by standard financial aid packages. The Pell Grant doesn't run in July. This is a cash-on-the-barrelhead transaction." She patted her purse. "Luckily, the Avery Grant is liquid."
+
+They walked across the grass. Freddie watched the heavy limestone buildings loom closer. "Burruss Hall," Freddie noted. "Administrative Command." "Exactly," Jessica said. "The Office of the Bursar is on the first floor. They want their money before you sit in the chair."
+
+## 13:30 PM Dean of Students Office (Henderson Hall)
+
+The final stop was a quieter building near the edge of the Drillfield. They entered the office marked **SERVICES FOR STUDENTS WITH DISABILITIES (SSD)**. It was carpeted, quiet, and smelled of lavender—a deliberate choice, Freddie suspected, to lower anxiety.
+
+A receptionist looked up from a desk. "Welcome to SSD. How can I help you?" "Intake," Jessica said, placing the thick manila envelope on the desk. "This is Freddie Avery. Incoming Freshman, starting Session 2. We have his documentation for Cerebral Palsy and ADHD."
+
+The receptionist took the folder. She opened it, scanning the medical records from the Virginia Beach school system. "Everything looks standard here," she said. "We can set up your accommodations letter for the summer session today. Extended time on tests, note-taking assistance... the usual suite."
+
+She turned to her computer. "We need to schedule an intake interview to finalize the plan. Is Monday at 10:00 AM acceptable?" Freddie nodded. "Monday is acceptable."
+
+Then, he hesitated. He looked at Jessica, then at Paige. They both nodded slightly. *Go ahead.* Freddie turned back to the receptionist. He cleared his throat. "There is... another variable," Freddie said. The receptionist stopped typing. She looked at him with patient, open eyes. "Yes?"
+
+"My sisters and I... we suspect I am Autistic," Freddie said. The word felt heavy in the quiet room, but saying it out loud didn't cause the walls to collapse. "I do not have a diagnosis on file. The data is... empirical observation. I would like a recommendation for a provider who can perform an evaluation."
+
+The receptionist smiled warmly. She opened a drawer and pulled out a separate pamphlet. "We work closely with the **Psychological Services Center** right here on campus, and there is a specialist in Blacksburg, **Dr. Aris Thorne**, who handles adult diagnoses. He is excellent." She wrote a name and number on a sticky note and attached it to the pamphlet. "Call him. Tell him SSD sent you. It can take a few weeks to get an appointment, but having the referral helps."
+
+"Thank you," Freddie said, taking the paper. It felt like a treasure map.
+
+He looked at the sticky note, then at his sisters standing behind him. A critical logical gap occurred to him. He was eighteen. Legally, he was a sealed database. But his operating system required external administrators. "One query," Freddie said, looking back at the receptionist. "I am eighteen. My records are encrypted by privacy laws, correct?"
+
+"That is correct," the receptionist confirmed. "FERPA laws protect your educational and medical records. We cannot discuss them with anyone but you."
+
+"That is a flaw in the architecture," Freddie stated. "I require my support team to have full visibility. If I am non-verbal, or if I am in a crash state, they need to be able to speak for me. They need to be able to schedule appointments and view my grades." He pointed to Jessica and Paige. "They are the Admins. They need root access."
+
+The receptionist nodded, understanding immediately. She reached into a file sorter and pulled out a single sheet of paper. "You're looking for the **FERPA Waiver and Release of Information** form," she said, sliding it across the desk. "This authorizes us to communicate with designated individuals."
+
+Freddie didn't even read the fine print. He picked up the pen. He signed his name on the line: *Freddie Avery*. Then he checked the boxes: **\[X\] Full Access** **\[X\] Financial** **\[X\] Medical/Disability** **\[X\] Academic**
+
+He wrote the names in the authorized field, pressing hard to ensure the ink was permanent: *Jessica Avery* *Paige Avery* *Ellen Avery*
+
+He slid the paper back. "Access granted," Freddie said. "Do not lock them out."
+
+The receptionist stamped the form. **FILED**. "They are in the system, Freddie. You're all set. See you Monday at ten."
+
+They walked out of the building. The sun was high and bright. "Okay," Jessica said, putting her sunglasses on. "Now we go home." Paige spun the keys on her finger. "I'm driving." Freddie touched the pamphlet in his pocket. *Dr. Aris Thorne.* He had a name. He had a plan. And now, his Admins had the keys. "Let's go," Freddie said. "The King bed is waiting."
+

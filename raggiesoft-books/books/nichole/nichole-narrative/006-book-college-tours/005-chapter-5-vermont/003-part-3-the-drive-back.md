@@ -1,0 +1,104 @@
+# Part 3: The Drive Back
+
+Time: 12:15 PM
+
+Location: The Van (Leaving Putney)
+
+They moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him as a threat.
+
+They reached the heavy transport van. Tom unlocked it with the remote.
+
+Patrick lowered the hydraulic lift. He rolled Nichole onto the platform and raised her up to the floor level of the van.
+
+Usually, for short trips, Nichole stayed in her chair, locked down with the van’s tie-downs. It was safer and faster.
+
+But as Patrick went to lock the wheelchair brakes, Nichole frantically tapped her armrest. She made a desperate, pleading sound—a high-pitched meh-meh-meh.
+
+She pointed at her lap belt. Off.
+
+She pointed at the bench seat next to where the wheelchair sat. There.
+
+"You want out?" Patrick asked.
+
+Nichole nodded vigorously. She didn't want to be in the "equipment" anymore. She didn't want to be the girl in the chair that felt disrespected. She wanted to be a sister. And she wanted Patrick not as her employee, but as her brother who would simply cuddle with her.
+
+"Okay," Patrick said softly. "I got you."
+
+He unbuckled her lap belt and chest harness. He moved into the tight space, sliding his arms under her knees and behind her back.
+
+He lifted her. She was dead weight, exhausted and emotional, but he had lifted her ten thousand times. He pivoted, stepping carefully with his braced leg, and sat her down on the soft gray fabric of the van’s bench seat.
+
+The moment she was settled, Nichole collapsed.
+
+She didn't wait for a seatbelt. She scrambled sideways, dragging her legs, until she collided with Patrick. She buried her face in his chest, wrapping her arms around his torso in a vice grip.
+
+She started to cry. Not the angry shouts from the office, but the deep, ragged sobbing of disappointment. She had wanted Putney to be the answer. She had wanted the sanctuary.
+
+Patrick wrapped his arms around her, pulling her in tight. He rested his chin on the top of her head. He rocked her, back and forth, a slow, rhythmic motion that matched her breathing.
+
+"I know," Patrick whispered, his own throat tight. "I know. They suck. They're idiots."
+
+From the front seat, Ellen and Tom didn't start the engine yet. They just watched in the rearview mirror, silent witnesses to the heartbreak.
+
+"I promised you," Patrick murmured into her hair. "I promised I wouldn't let them separate us. And I won't. Putney is dead. It's off the list."
+
+Nichole looked up, her face red and wet with tears. She made a small, hiccuping sound.
+
+"We'll find somewhere," Patrick said, wiping her cheek with his thumb. "Somewhere that doesn't care about liability. Somewhere where I can be right there. Always."
+
+He kissed her forehead.
+
+"You and me, Nikki," he whispered. "The machine."
+
+Nichole nodded, sniffing loudly. She laid her head back down on his chest, listening to his heartbeat. She tapped his arm once. Safe.
+
+"Okay, Dad," Patrick said, his voice steel again. "Get us out of here."
+
+Tom started the engine. The van rumbled to life.
+
+Before Tom shifted the van into drive, the reality of physics and safety took over.
+
+"Buckle up," Tom said softly, his eyes on the rearview mirror.
+
+Patrick didn't let go of Nichole. He shifted his weight, keeping one arm wrapped firmly around her trembling shoulders, and reached across her lap with his free hand. He pulled the heavy seatbelt across both of them, clicking the metal tongue into the buckle by Nichole’s hip. He tightened the lap belt across her waist, locking her securely to the bench seat while keeping her pressed against his chest.
+
+Satisfied they were secure, Tom pulled out of the college parking lot.
+
+They merged onto Interstate 91, heading south. The tires hummed against the asphalt, a low, droning sound that usually lulled Nichole to sleep. But today, the hum was swallowed by the sound of her crying.
+
+Nichole’s fingers were twisted so tightly into Patrick’s t-shirt that her knuckles were white.
+
+Patrick rested his chin on the top of her head, staring blankly out the window at the passing Vermont tree line. His heart was breaking, a slow, crushing weight in his chest. He had wanted Putney to work just as much as she had. He had read the brochures, looked at the website, and pictured them here. He had pictured Nichole writing for the literary magazine while he took engineering classes, meeting up in the quad for lunch without anyone staring at them.
+
+He had let himself hope that there was a place already built for them. But Putney was just another institution with a ramp. And watching Nichole’s heart break because of it made Patrick want to punch through the van window.
+
+Then, the sky darkened.
+
+The crisp morning air vanished, replaced by heavy, slate-gray storm clouds rolling over the Green Mountains. A few fat drops hit the windshield, and then the sky simply opened up.
+
+The rain came down in a sudden, torrential downpour. It drummed against the metal roof of the van with a deafening roar.
+
+For Nichole, the sudden sensory shift was overwhelming, but in a strangely validating way. To her autistic mind, the world was finally matching her internal state. The sky wasn't just raining; it was grieving with her. Mother Nature understood exactly how she felt. The world was dark, loud, and weeping.
+
+The empathy of the storm made the dam inside her break completely. Her silent sobbing turned into loud, jagged gasps. She squeezed her eyes shut, pressing her face harder into Patrick’s collarbone as the rain pounded the roof above them.
+
+She wanted to run. She wanted to snap her fingers and be back in her bedroom in Virginia, a thousand miles away from Vermont and its single, lonely beds. She wanted to erase the entire state from the map.
+
+But Virginia was thirteen hours away.
+
+She let out a frustrated, wet groan, her body shuddering.
+
+"Shhh," Patrick whispered, tightening his grip, his own eyes burning. "I've got you. Let it out."
+
+She couldn't have home yet. So, she focused on the next best thing.
+
+She focused on the hotel room in Brattleboro. She pictured the heavy curtains drawn shut, blocking out the world. She pictured the oversized bathtub with the water turned up as hot as Patrick could make it.
+
+She pictured the single queen bed closest to the bathroom.
+
+It was a tight fit for two adults, but that was exactly why it worked. In that bed, there was no gap. There was no twelve-foot chasm of linoleum. There was just Patrick’s heavy arm draped over her, his steady breathing against her back, and the absolute certainty that she was not alone.
+
+That was her sanctuary now. Not the college.
+
+The Bennett van drove south through the blinding rain, a mobile fortress protecting a broken heart, carrying them away from the future they thought they wanted and back to the only safety they knew.
+

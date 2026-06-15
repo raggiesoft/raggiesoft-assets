@@ -1,23 +1,20 @@
 #!/bin/bash
 
-echo "Samantha: Taking the podium. We've got a new venue in the GitHub repository. Full ensemble run-through!"
+echo "👱‍♀️ Samantha: Taking the podium. We've got a new venue in the GitHub repository. Full ensemble run-through!"
 
 # Ensure the input directory exists
 if [[ ! -d "books" ]]; then
-    echo "Samantha: *Whistle blow!* I can't find the 'books' directory. Are we on the wrong practice field?"
+    echo "   *Whistle blow!* I can't find the 'books' directory. Are we on the wrong practice field?"
     exit 1
 fi
 
 # Loop through every directory inside the 'books' staging area
 for DIR in books/*/; do
-    # Extract the base name (e.g., 'rachel' from 'books/rachel/')
     BASE=$(basename "$DIR")
     
-    # Define the exact input file paths
     NARRATIVE_DOCX="books/$BASE/$BASE.docx"
     LORE_DOCX="books/$BASE/$BASE-lore.docx"
     
-    # Define the new output directory paths
     OUT_LORE_DIR="../raggiesoft-books/books/$BASE/$BASE-lore"
     OUT_NARRATIVE_DIR="../raggiesoft-books/books/$BASE/$BASE-narrative"
 
@@ -25,101 +22,173 @@ for DIR in books/*/; do
     # PROCESS LORE (Single File Mode)
     # -----------------------------------------
     if [[ -f "$LORE_DOCX" ]]; then
-        echo "Samantha: Found lore sheet for '$BASE'. Parsing..."
-        
-        # Ensure the target lore directory exists
+        echo "   Found lore sheet for '$BASE'. Parsing..."
         mkdir -p "$OUT_LORE_DIR"
         
         TMP_LORE="$OUT_LORE_DIR/${BASE}-lore_tmp.md"
         FINAL_LORE="$OUT_LORE_DIR/${BASE}-lore.md"
         
-        # Pandoc conversion with strict error checking
         if ! pandoc "$LORE_DOCX" -t gfm --wrap=none -o "$TMP_LORE"; then
-            echo "Samantha: *Whistle blow!* Permission error on '$LORE_DOCX'. Is it open in Word?"
+            echo "   *Whistle blow!* Permission error on '$LORE_DOCX'. Is it open in Word?"
         else
-            # Compare and update
             if [[ -f "$FINAL_LORE" ]] && cmp -s "$TMP_LORE" "$FINAL_LORE"; then
-                echo "Samantha: No tempo changes in '$BASE' lore. Skipping."
+                echo "   No tempo changes in '$BASE' lore. Skipping."
                 rm "$TMP_LORE"
             else
                 mv "$TMP_LORE" "$FINAL_LORE"
-                echo "Samantha: Flawless execution. Updated lore file: $FINAL_LORE"
+                echo "   Flawless execution. Updated lore file: $FINAL_LORE"
             fi
         fi
     fi
 
     # -----------------------------------------
-    # PROCESS NARRATIVE (Split Chapter Mode)
+    # PROCESS NARRATIVE (3-Tier Routing & Katie JSON)
     # -----------------------------------------
     if [[ -f "$NARRATIVE_DOCX" ]]; then
-        echo "Samantha: Found narrative score for '$BASE'. Parsing..."
-        
-        # Ensure the target narrative directory exists
+        echo "   Found narrative score for '$BASE'. Parsing..."
         mkdir -p "$OUT_NARRATIVE_DIR"
         
         TMP_NARRATIVE="$OUT_NARRATIVE_DIR/${BASE}_tmp.md"
-        TMP_DIR="$OUT_NARRATIVE_DIR/tmp_split_${BASE}"
-        mkdir -p "$TMP_DIR"
         
-        # Pandoc conversion with strict error checking
         if ! pandoc "$NARRATIVE_DOCX" -t gfm --wrap=none -o "$TMP_NARRATIVE"; then
-            echo "Samantha: *Whistle blow!* Permission error on '$NARRATIVE_DOCX'. Is it open in Word?"
-            rm -rf "$TMP_DIR" # Cleanup empty tmp dir
+            echo "   *Whistle blow!* Permission error on '$NARRATIVE_DOCX'. Is it open in Word?"
         else
-            echo "Samantha: Subdividing the beats for '$BASE' into: $OUT_NARRATIVE_DIR/"
+            echo "   Slicing the manuscript into the 3-tier vault..."
             
-            # Slice the temporary full document and format the filenames
-            awk -v outdir="$TMP_DIR" '
+            TEMP_JSONL="$OUT_NARRATIVE_DIR/temp_index.jsonl"
+            > "$TEMP_JSONL"
+
+            awk -v base_dir="$OUT_NARRATIVE_DIR" -v json_log="$TEMP_JSONL" '
+            
+            # THE SANITIZER: Escapes quotes and backslashes for valid JSON
+            function escape_json(str) {
+                gsub(/\\/, "\\\\", str)
+                gsub(/"/, "\\\"", str)
+                gsub(/\r/, "", str)
+                gsub(/\t/, " ", str)
+                return str
+            }
+
             BEGIN { 
-                c = 0
-                file = outdir "/000-preface.md" 
+                book_count = 0
+                chap_count = 0
+                part_count = 0
+                current_file = "/dev/null" 
             }
+
+            # LEVEL 1: BOOK (Creates Folder, resets Chapter count)
             /^# / { 
-                close(file)
+                close(current_file)
                 
-                # Extract and sanitize heading text
-                heading = substr($0, 3)
-                heading = tolower(heading)
-                gsub(/[^a-z0-9]+/, "-", heading)
-                sub(/^-+/, "", heading)
-                sub(/-+$/, "", heading)
+                book_title = substr($0, 3)
+                safe_book = tolower(book_title)
+                gsub(/[^a-z0-9]+/, "-", safe_book)
+                sub(/^-+|-+$/, "", safe_book)
                 
-                c++
-                file = sprintf("%s/%03d-%s.md", outdir, c, heading)
+                book_count++
+                chap_count = 0 
+                
+                book_dir = sprintf("%s/%03d-%s", base_dir, book_count, safe_book)
+                system("mkdir -p \"" book_dir "\"")
+                next
             }
-            { print > file }
+
+            # LEVEL 2: CHAPTER (Creates Sub-folder, resets Part count)
+            /^## / {
+                close(current_file)
+                
+                chap_title = substr($0, 4)
+                safe_chap = tolower(chap_title)
+                gsub(/[^a-z0-9]+/, "-", safe_chap)
+                sub(/^-+|-+$/, "", safe_chap)
+                
+                chap_count++
+                part_count = 0 
+                
+                chap_dir = sprintf("%s/%03d-%s", book_dir, chap_count, safe_chap)
+                system("mkdir -p \"" chap_dir "\"")
+                next
+            }
+
+            # LEVEL 3: PART (Creates File, Elevates to H1)
+            /^### / {
+                close(current_file)
+                
+                part_title = substr($0, 5)
+                safe_part = tolower(part_title)
+                gsub(/[^a-z0-9]+/, "-", safe_part)
+                sub(/^-+|-+$/, "", safe_part)
+                
+                part_count++
+                
+                filename = sprintf("%03d-%s.md", part_count, safe_part)
+                current_file = sprintf("%s/%s", chap_dir, filename)
+                
+                # THE OVERRIDE: Write the Part heading as an H1 inside the file
+                print "# " part_title > current_file
+                
+                # THE ROUTING FIX: Strip the physical server path for the JSON manifest
+                web_file_path = current_file
+                sub(/^\.\.\/raggiesoft-books\/books/, "", web_file_path)
+                
+                # Log the sanitized structural data to the JSONL manifest
+                json_entry = sprintf("{\"book_num\": %d, \"book_title\": \"%s\", \"chap_num\": %d, \"chap_title\": \"%s\", \"part_num\": %d, \"part_title\": \"%s\", \"file_path\": \"%s\"}", 
+                    book_count, 
+                    escape_json(book_title), 
+                    chap_count, 
+                    escape_json(chap_title), 
+                    part_count, 
+                    escape_json(part_title), 
+                    escape_json(web_file_path))
+                    
+                print json_entry >> json_log
+                next
+            }
+            
+            # LEVEL 4: SUB-SCENE (Elevates to H2 inside the current Part file)
+            /^#### / {
+                if (current_file != "/dev/null") {
+                    sub(/^#### /, "## ")
+                    print $0 >> current_file
+                }
+                next
+            }
+
+            # STANDARD TEXT (Body paragraphs)
+            {
+                if (current_file != "/dev/null") {
+                    print $0 >> current_file
+                }
+            }
             ' "$TMP_NARRATIVE"
 
-            # Compare new chunks against existing files in the output directory
-            for new_file in "$TMP_DIR"/*.md; do
-                [[ -e "$new_file" ]] || break 
-                
-                filename=$(basename "$new_file")
-                target_file="$OUT_NARRATIVE_DIR/$filename"
-                prefix=$(echo "$filename" | grep -o '^[0-9]\{3\}')
-                
-                # Clean up renamed/obsolete chapters in the output dir
-                for old_file in "$OUT_NARRATIVE_DIR"/${prefix}-*.md; do
-                    if [[ -f "$old_file" && "$old_file" != "$target_file" ]]; then
-                        rm "$old_file"
-                        echo "Samantha: Removed obsolete measure: $(basename "$old_file")"
-                    fi
-                done
-                
-                # Update or skip
-                if [[ -f "$target_file" ]] && cmp -s "$new_file" "$target_file"; then
-                    continue
-                else
-                    mv "$new_file" "$target_file"
-                    echo "Samantha: Re-wrote sheet music: $target_file"
-                fi
-            done
-            
-            # Cleanup temporary files
-            rm -rf "$TMP_DIR"
-            rm "$TMP_NARRATIVE"
+            echo "   Subdivisions complete. Passing the baton to Katie..."
+
+            # Use jq to group the flat JSONL log into the nested JSON tree
+            jq -s '
+              group_by(.book_num) | map({
+                book_num: .[0].book_num,
+                book_title: .[0].book_title,
+                chapters: (
+                  group_by(.chap_num) | map({
+                    chap_num: .[0].chap_num,
+                    chap_title: .[0].chap_title,
+                    parts: map({
+                      part_num: .part_num,
+                      part_title: .part_title,
+                      file_path: .file_path
+                    })
+                  })
+                )
+              })
+            ' "$TEMP_JSONL" > "$OUT_NARRATIVE_DIR/katie.json"
+
+            rm -f "$TEMP_JSONL"
+            rm -f "$TMP_NARRATIVE"
+
+            echo "   Katie's manifest locked. The vault is ready for deployment."
         fi
     fi
 done
 
-echo "Samantha: Full ensemble run-through complete. The new repository perimeter is secure!"
+echo "👱‍♀️ Samantha: Full ensemble run-through complete. The new repository perimeter is secure!"

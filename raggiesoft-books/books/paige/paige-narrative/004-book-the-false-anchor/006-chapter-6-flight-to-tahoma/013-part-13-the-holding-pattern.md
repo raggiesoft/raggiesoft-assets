@@ -1,0 +1,126 @@
+# Part 13: The Holding Pattern
+
+## Wednesday, May 12, 2004 — 12:15 PM (PST) Room 512, The Airport Grand
+
+The door clicked shut. Jessica threw the deadbolt. She hung the "Do Not Disturb" sign on the handle outside.
+
+"Bunker secured," Jessica announced. "No entry authorized."
+
+Freddie stood by the window, shivering slightly. The room was set to a crisp 68 degrees, and the air conditioner was blowing directly across the bed.
+
+"It is... cold," Freddie noted, rubbing his arms.
+
+"It's the climate control," Paige said. "It feels like a refrigerator in here."
+
+"Initiating comfort mode," Jessica said. "Pajamas."
+
+They opened their bags. This wasn't the raw, "factory settings" nudity of the cabin—that environment was warm and isolated. This was a hotel room—sterile and chilled. They needed a soft layer that was decent enough for the "semi-public" nature of a hotel.
+
+Freddie pulled on his grey flannel pajama bottoms and a clean white t-shirt. Paige put on her oversized sleep shirt and leggings. Jessica changed into yoga pants and a tank top.
+
+"Better," Freddie sighed, the soft flannel replacing the stiff denim of the travel day.
+
+Jessica claimed the left side of the King bed, sliding under the heavy white duvet to warm up. She was asleep within minutes, the exhaustion of the drive finally shutting her system down.
+
+Freddie walked to the window. He looked at the ergonomic desk chair. It looked efficient, but it was lonely. He looked at the tarmac—the movement, the heavy machinery, the chaos of departure. He felt a spike of static.
+
+"I need... grounding," Freddie whispered.
+
+"Way ahead of you," Paige said.
+
+She didn't go to the binder. Instead, she helped Freddie drag the heavy, upholstered armchair from the corner right up to the window glass.
+
+Freddie sat down, curling his legs up. Paige climbed in right next to him, squeezing into the oversized chair. She tucked herself under his arm, her head resting on his chest, her legs draped over the armrest.
+
+It was tight, but it was perfect. The pressure of her weight against him acted like an anchor.
+
+"Status?" Paige asked, looking out at the runway.
+
+"Stabilized," Freddie breathed, resting his chin on the top of her head.
+
+"Hey," Paige whispered, picking up the remote control from the side table. "I found the calm channel."
+
+She clicked the TV on.
+
+Blue screen. Yellow text. Smooth, elevator jazz saxophone. **THE METEOROLOGICAL NETWORK.** Freddie smiled.
+
+"Local forecast loop?" Freddie asked.
+
+"Just started," Paige confirmed.
+
+They spent the next four hours in that suspended animation—huddled together in the armchair, warm in their pajamas, watching the rain on the radar and the planes on the tarmac.
+
+## 17:00 PM — The Protocol Shift
+
+The sun was starting to dip lower, casting long shadows across the runway. The golden light filtered through the sheer curtains.
+
+Jessica stirred, stretching her arms overhead.
+
+"Time?" she croaked from the bed.
+
+"17:00," Freddie reported, still holding Paige. "Shift change on the tarmac."
+
+"We need food," Jessica decided, sitting up. She picked up the heavy cardstock Room Service menu. "The Executive Club."
+
+"Check the specs," Freddie warned. "Sourdough is too sour. The texture is abrasive."
+
+"And no slime," Paige added, burying her face in Freddie's t-shirt. "No tomatoes. No onions."
+
+"Understood," Jessica said. "Wheat bread. Dry payload."
+
+She stood up and walked to the door.
+
+"I'm taking the sign down," Jessica announced. "If the runner sees 'Do Not Disturb,' he might leave the cart in the hall. We need a clean hand-off."
+
+She cracked the door, removed the plastic hanger, and closed it again.
+
+"Perimeter open for supply drop," she confirmed.
+
+She sat back on the bed and dialed.
+
+"Room Service? Yes. Room 512. We need three Executive Club Sandwiches. But we need a modification. Can we get those on whole wheat? Yes. And for two of them—absolutely no tomatoes and no onions. Just meat, cheese, lettuce, and mayo. The third one can be standard. Thank you."
+
+## 17:45 PM — The Feast
+
+The knock came at the door.
+
+Freddie glanced down at his attire. Flannel pants. T-shirt. He looked at Paige. Leggings. Sleep shirt.
+
+"Status?" Freddie asked.
+
+"Decent," Jessica confirmed, standing up. "We are covered. No armor required."
+
+Jessica opened the door. A waiter in a crisp vest wheeled in a cart covered in white linen. He didn't blink at their pajamas; he was used to airport travelers keeping odd hours.
+
+"Dinner is served," he said professionally. "I have two modified clubs and one standard."
+
+"Perfect," Jessica said, signing the bill. "Thank you."
+
+She locked the door and threw the deadbolt.
+
+"Cart parked," Jessica announced.
+
+They sat on the floor, using the linen-draped cart as their table.
+
+Freddie inspected his sandwich. Golden brown wheat toast. Turkey. Bacon. Crisp lettuce. Not a single slice of tomato or ring of onion in sight.
+
+"Compliance," Freddie noted with satisfaction.
+
+"It's good," Paige said, taking a huge bite. "The wheat is softer than the sourdough."
+
+"It is structurally superior," Freddie agreed.
+
+He chewed slowly, looking at his notepad full of flight times, then at the triple-paned glass.
+
+"I can do the flight tomorrow," Freddie stated, more to himself than to them. "I have watched forty planes take off today. None of them fell."
+
+"That's good stats," Jessica nodded, sipping her cola.
+
+"Physics works," Freddie said. "Lift equals weight. Thrust equals drag. We will simply be part of the equation."
+
+"And then we're home," Paige said softly.
+
+"Home," Freddie repeated. "Back to the static."
+
+He took another bite of his sandwich, ready for the final leg of the mission.
+

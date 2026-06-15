@@ -1,0 +1,301 @@
+# Chapter 4: The Return Journey
+
+## Part 1: The Itch
+
+Theme: adventure-travel
+
+Location: The Voidlands Plateau
+
+POV: Kaela
+
+=
+
+The Voidlands were beautiful in the way a knife was beautiful—sharp, clean, and dangerously cold.
+
+The Iron Keel was flying South, the magnetic runners humming a high, steady note as they skimmed over the black obsidian.
+
+Kaela sat in the passenger seat (Kaelan had insisted she take it so she could stretch her legs, though she missed the warmth of his lap). She was miserable.
+
+"I am going to burn this tarp," she announced, scratching her shoulder for the tenth time in a minute. "When we get home. I am going to build a bonfire and dance around it."
+
+"Save the ash," Kaelan called out from the pilot’s seat. He was grimacing, shifting his weight constantly. "We can use it to scour the memory of this sensation off our skin."
+
+Horg, in his infinite wisdom, had packed the emergency chest with tools, dried meat (now charcoal), water skins, and the heavy canvas tarps. He had not packed spare tunics.
+
+"He probably assumed we wouldn't melt our clothes," Kaelan reasoned. "Which, to be fair, is a reasonable assumption for normal people."
+
+"We aren't normal people," Kaela grumbled. "We are itch-people."
+
+The wind whipped through the vents of the iron canopy. It was freezing—easily ten degrees below zero with the wind chill. But the choice between freezing and itching was becoming a serious debate.
+
+"Horizon check?" Kaelan asked.
+
+"Clear," Kaela said, scanning the black ice. "No Wraiths. No constructs. Just ice."
+
+"Good."
+
+Kaelan pulled the drag-brakes slightly, slowing the boat to a crawl.
+
+"Why are we stopping?"
+
+"Because," Kaelan said, unbuckling his belt and letting the heavy, oil-soaked canvas kilt drop to the floor. "We're alone. And I can't take another mile in this cheese-grater."
+
+He stood up, naked in the freezing cockpit. He shivered instantly, his skin bumping with cold, but he let out a long, heartfelt sigh of relief.
+
+"Oh, that's better," he breathed.
+
+Kaela didn't hesitate. She unknotted the leather strap holding her wool toga. She let it fall.
+
+The cold hit her like a physical blow, biting at her exposed skin. But the relief of the wool leaving her body was euphoric.
+
+"It still itches," she complained, rubbing her arms. "The fibers... they're in my pores."
+
+"We need water," Kaelan said. "Hot water."
+
+He sat back down, wincing as his bare skin touched the cold iron seat.
+
+"Come here," he ordered.
+
+Kaela climbed into his lap. This time, it wasn't just for comfort; it was for survival. They wrapped their arms around each other, pressing as much skin surface area together as possible to conserve heat.
+
+Kaelan engaged the Engine, pushing a low, steady hum of thermal energy into their embrace. It wasn't enough to make them toasty, but it kept the frostbite at bay.
+
+"Better?" he asked, his chin resting on her head.
+
+"Better," she agreed, shivering against him. "But I'm still burning that tarp."
+
+"Drive," she whispered.
+
+Kaelan released the brakes. The Iron Keel surged forward.
+
+They drove naked across the frozen wasteland, huddled together in a knot of limbs and warmth, two gods refusing to wear uncomfortable pants for one second longer than necessary.
+
+## Part 2: The Ghost of the Bear
+
+Theme: adventure-camp
+
+Location: The Razor Peaks (The Cave)
+
+POV: Kaelan
+
+=
+
+They made the foothills of the Razor Peaks by nightfall.
+
+The terrain was too rough to navigate in the dark at high speeds, so Kaelan steered the boat into a familiar shelter—the shallow cave where he had fought the Snow Bear three years ago.
+
+He parked the Iron Keel just inside the entrance, out of the wind.
+
+"I remember this place," Kaela said, looking at the scratch marks on the rock wall—three parallel gouges from claws the size of scimitars.
+
+"Me too," Kaelan said quietly. "This is where I learned that fire hurts."
+
+He climbed out of the boat. He was wearing the tarp-kilt again (reluctantly) because the wind here was cutting, and he needed to gather firewood.
+
+He returned ten minutes later with an armful of dead pine branches.
+
+He built a fire in the old stone circle. He sparked it with a snap of his fingers.
+
+The flames roared to life, casting dancing orange shadows against the cave walls.
+
+"Clothes off?" Kaela suggested hopefully, eyeing the fire.
+
+"Clothes off," Kaelan agreed.
+
+They shed the hated tarps instantly, piling them near the entrance like discarded skins. They sat on the fur blanket (which had survived the core because it was tucked under the seat) by the fire.
+
+The heat of the fire on their fronts and the cold of the cave on their backs was a strange sensation, but it was infinitely better than the itch.
+
+Kaelan looked at his sister. In the firelight, her skin glowed like copper. She was scratching her arm absently.
+
+"Stop scratching," he said, reaching out to capture her hand. "You'll make it raw."
+
+"I can't help it," she whined. "It's ghost-itch."
+
+"Come here."
+
+He pulled her onto the blanket. He lay down on his back and pulled her on top of him.
+
+"You're the heater," she murmured, settling into the familiar hollow of his shoulder.
+
+"And you're the blanket," he replied.
+
+He looked at the cave ceiling. He remembered lying here alone, bleeding from the bear claw wound in his shoulder, cauterizing it with his own hand. He remembered screaming into his tunic so the Wraiths wouldn't hear him.
+
+Now, he was lying here with his sister, naked and safe, complaining about itchy wool.
+
+The contrast made his chest ache with gratitude.
+
+"We did good, Moon," he whispered. "The core is fixed. The Unseen is locked out."
+
+"For now," Kaela said sleepily. "He'll try again."
+
+"Let him," Kaelan said, stroking her hair. "We'll be ready."
+
+"But first," Kaela mumbled, "we need better armor. Something silk-lined."
+
+"Silk-lined plate mail," Kaelan agreed. "I'll talk to Horg."
+
+They slept by the fire, the ghosts of the bear and the lonely boy watching from the shadows, powerless against the warmth of the twins.
+
+## Part 3: The Arrival
+
+Theme: sunstead-return
+
+Location: The Gates of Sunstead
+
+POV: Kaela
+
+=
+
+The third day was a blur of speed.
+
+They descended the Razor Peaks in a terrifying, controlled slide, the magnetic brakes shrieking as Kaelan drifted the heavy boat down the switchbacks.
+
+They blasted across the Emerald Valleys, leaving a trail of red dust.
+
+By late afternoon, the familiar red cliffs of the canyon came into view.
+
+"Sunstead," Kaela breathed.
+
+She looked down at herself. She was wearing the tarp-dress again. It was smeared with soot, oil, and travel dust. Her hair was a rat's nest. She smelled like a volcano.
+
+"We look terrified," she noted.
+
+"Terrifying," Kaelan corrected, adjusting his tarp-kilt. "We look like warlords from the wastes."
+
+They slowed as they approached the town. The magnetic hum of the earth was steady here—no longer the screaming, chaotic vibration of the malfunction. The compasses were pointing North again.
+
+Kaelan steered the Iron Keel right up to the main gate.
+
+Joren was there, leaning on his spear. He straightened up as the massive, battered iron boat slid to a halt in a cloud of dust.
+
+He looked at the scorched hull. He looked at the missing seats. He looked at the twins wrapped in industrial canvas.
+
+"Well," Joren said, blinking. "You look... itchy."
+
+"Joren," Kaelan said with immense dignity. "Open the gate. And don't ask about the boat."
+
+"Right. Not asking."
+
+Joren cranked the wheel. The gates swung open.
+
+They slid the boat through the town. People stopped and stared. Horg came running out of the smithy, his apron flapping.
+
+He stopped dead when he saw his masterpiece.
+
+The iron plating was warped and blue from heat. The wood underneath was charred black. The interior was gutted.
+
+"My boat!" Horg bellowed. "You cooked my boat!"
+
+"We fixed the magnet!" Kaela shouted back defensively. "The world is saved, Horg!"
+
+"The world can rot!" Horg wailed, touching a melted rivet. "Do you know how long it took to bend this keel?"
+
+Kaelan cut the magnetic feed. The boat settled onto the dirt with a heavy thud.
+
+He climbed out. He walked up to Horg. He put a hand on the giant man's shoulder.
+
+"Horg," Kaelan said seriously. "I need a bath. I need soap. And I need you to never make me wear wool again."
+
+Horg looked at Kaelan’s tarp-kilt. He sniffed the air.
+
+"Sulfur?" Horg asked.
+
+"Magma," Kaelan corrected.
+
+Horg sighed. He patted the ruined hull. "Fine. I'll heat the water. But you're paying for the refit, lad."
+
+"Put it on my tab," Kaelan said. "The interest rate is 'forever'."
+
+He grabbed Kaela’s hand. They walked up the ridge path toward the cottage, ignoring the stares, ignoring the itch, focused entirely on the vision of a wooden tub and a bar of lavender soap.
+
+"Home," Kaela sighed.
+
+"Home," Kaelan agreed.
+
+## Part 4: The Scrub
+
+Theme: sunstead-peace
+
+Location: The Cottage on the Ridge
+
+POV: Kaela
+
+=
+
+The world outside did not exist.
+
+The heavy oak door was bolted. The thick canvas shades were drawn tight over the windows, blocking out the afternoon suns. A rough wooden sign, hastily carved by Kaelan with the tip of a dagger, hung on the outside latch. It read simply: GO AWAY.
+
+Inside, the cottage was a sanctuary of steam and lavender.
+
+In the center of the room, the wooden bathing tub sat on the floorboards. It was a good tub. A sturdy tub. Horg had built it years ago.
+
+It was designed for one medium-sized blacksmith.
+
+Currently, it contained two very tall, very relieved Scions.
+
+The water was hot—steaming, muscle-melting hot—thanks to Kaelan’s hands acting as immersion heaters. The surface was already turning a murky grey as the soot, oil, red dust, and ghost-itch washed off their skin.
+
+"Scrub harder," Kaelan commanded. He was sitting with his back against the rear of the tub, his knees pulled up.
+
+Kaela was sitting between his legs, her back resting against his chest. It was a tight squeeze; the water level was dangerously high, threatening to slosh over the rim every time they breathed.
+
+"I am scrubbing," Kaela grumbled, attacking her own arm with a rough sponge and a bar of Mrs. Gable’s expensive lavender soap. "I feel like I have fiberglass in my pores. That tarp was a torture device."
+
+"It kept the wind out," Kaelan pointed out, resting his chin on her wet shoulder.
+
+"It replaced the wind with needles. Turn."
+
+Kaela shifted forward as much as the tub allowed. Kaelan leaned forward. She reached back with the soapy sponge and began to scrub his broad back.
+
+She didn't differenatiate between the scars and the smooth skin. She scrubbed the soot from his shoulders, the oil from his neck. She washed away the smell of the magma ocean.
+
+Kaelan groaned, a low rumble that vibrated through the water.
+
+"That," he murmured, "is the best thing that has ever happened to me. Don't stop."
+
+"I'm not stopping until you smell like a flower instead of a campfire," Kaela promised.
+
+She rinsed the sponge and lathered it again. The scent of lavender filled the small room, overpowering the lingering smell of burnt canvas.
+
+"We need a bigger tub," Kaelan decided, eyes closed. "A stone one. I'll carve it. I'll make it deep enough to float in."
+
+"Put it on the list," Kaela said. "Right under 'Silk-lined Armor'."
+
+They spent an hour in the water. They drained it (using Kaelan’s evaporation trick to steam most of it out the window) and refilled it twice, until the water stayed clear and their skin was pink and wrinkled.
+
+Finally, the itch was gone.
+
+They climbed out, dripping onto the floorboards. The air in the cottage was warm, heated by the fire Kaelan had lit in the hearth.
+
+They dried each other off with the softest linen towels they owned. The sensation of the soft fabric against their clean skin was borderline ecstatic.
+
+"Clothes," Kaela whispered reverently, walking to the cedar chest.
+
+She opened it. She pulled out a fresh cotton tunic for him and a soft, worn linen dress for herself. No wool. No canvas. Just soft, breathable fabric.
+
+They dressed slowly, savoring the feeling.
+
+Kaelan pulled his tunic over his head. He ran his hands down the front, smoothing the cotton.
+
+"I never thought I'd be this happy to wear pants," he admitted.
+
+He walked over to the bed. He didn't sit on the edge. He flopped face-down onto the mattress, burying his face in the quilt.
+
+"Soft," he muffled into the pillow. "Stationary. Not magnetic."
+
+Kaela climbed onto the bed beside him. She lay on her back, staring at the familiar timber beams of the ceiling.
+
+"We did it, Sun," she said softly. "The world is spinning. The core is safe."
+
+Kaelan rolled over and pulled her into his side. His hair was damp, smelling of lavender. His skin was cool and clean.
+
+"We did," he agreed. "Now... we sleep for a week."
+
+"Deal."
+
+They lay there in the dim, quiet cottage, the "Go Away" sign standing guard outside, finally clean, finally home, and finally, blissfully, not itchy.
+
+

@@ -1,0 +1,34 @@
+# Part 3: Safe Harbor
+
+The rest of the lecture blurred into a stream of biological terms and syllabus dates. Dr. Thorne didn’t let the tension linger; she buried it under a mountain of academic expectations. By the time she capped her marker and announced, "Class dismissed," the incident with the girl felt like a distant memory to everyone—except the three people in the second row.
+
+As the room erupted into the sound of zippers and shuffling feet, Freddie didn't move immediately. This was part of the routine. The adrenaline spike from the confrontation, combined with sitting still for fifty minutes in a rigid desk chair, meant his legs would be seized up. The spasticity always hit harder after stress.
+
+"Take your time," Jessica said, her voice low and steady. She stood up first, smoothing the front of her dark green top. She turned to face the aisle, effectively becoming a human shield against the rush of students trying to exit. Her posture was relaxed but firm—the Matriarch holding the line. No one was going to push past her to rush Freddie.
+
+On his right, Paige shifted her backpack to her outside shoulder, leaving her left side clear. She stood up and turned toward him, her expression softening into that familiar, easy smile—the same one she’d worn in family photos since they were kids.
+
+"Ready?" she asked.
+
+Freddie nodded, gripping the edge of the desk to lever himself up. His right leg dragged, the muscle tight and resisting the command to straighten. He wobbled for a fraction of a second, a moment of vulnerability that usually made him grit his teeth in frustration.
+
+But the moment he swayed, Paige was there.
+
+She didn't make a big deal out of it. She simply stepped into his space, offering her shoulder as a solid, immovable anchor. Freddie wrapped his arm around her, pulling her close. To an outsider, it might have looked like a simple side-hug between siblings. To Freddie, it was a structural necessity.
+
+He leaned his weight onto her, exhaling sharply as the tension in his lower back released. This was their default state. The grey cotton of her shirt against his arm, the scent of her shampoo, the way she instinctively braced her stance to support him—it was deep pressure therapy in motion.
+
+"You okay?" Paige murmured, her voice vibrating against his side.
+
+"Yeah," Freddie said, the tightness in his chest finally unspooling. "Just stiff."
+
+"I got you."
+
+Jessica glanced back at them, doing a quick visual check. Seeing Freddie secure against Paige, she nodded—a quick, professional confirmation that the "server" was stable.
+
+"Let's get out of here," Jessica said, finally stepping aside to open the path. "I need coffee, and if we hurry, we can beat the rush at the student center."
+
+They walked out together, a tight formation against the chaos of the hallway. Freddie moved with his distinct, uneven gait, heavily leaning on Paige with every other step. He wasn't hiding the limp, and he wasn't hiding the affection. If anyone else in the hallway looked at him with pity or mockery, he didn't notice.
+
+He was too busy holding onto the sister who made the world stop spinning.
+

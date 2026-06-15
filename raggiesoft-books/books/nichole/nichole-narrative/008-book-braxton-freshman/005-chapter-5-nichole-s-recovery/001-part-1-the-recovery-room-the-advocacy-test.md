@@ -1,0 +1,178 @@
+# Part 1: The Recovery Room (The Advocacy Test)
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 09:30 AM **Location:** PACU (Post-Anesthesia Care Unit), Bay 3
+
+Patrick didn't wait in the hallway. He swiped his badge at the sensor, following the transport nurse, Becky, through the double doors and into the sensory overload of the PACU.
+
+He left the view of the swirling gray snow behind him. The Recovery Room was a windowless bunker, a world of synthesized beeps, the hiss of suction canisters, and the low, urgent murmur of nurses.
+
+"She's in Bay 3," Becky said, walking fast. "Anesthesia signed off ten minutes ago. She should be emerging right about... now."
+
+They turned the corner.
+
+Nichole was there.
+
+She looked small in the center of the massive stretcher. Her legs were heavy logs, wrapped in thick white elastic compression bandages and encased in rigid blue foam knee immobilizers. The hamstring lengthening surgery had severed and reattached the tightest muscles in her body. The nerve endings were currently screaming.
+
+Patrick didn't look at her face first. He looked at the overhead **GE Dash** monitor.
+
+- **HR:** 122 (Sinus Tachycardia).
+
+- **BP:** 142/95 (Hypertensive).
+
+- **RR:** 28 (Shallow, rapid).
+
+- **O2 Sat:** 94% (Dropping slightly).
+
+"She's spiking," Patrick said instantly, his voice cutting through the ambient noise.
+
+He stepped up to the rail.
+
+Nichole was wide open. Her eyes were staring blindly at the ceiling tiles. Her jaw was clamped shut so tight that the muscles in her neck were roped like steel cables. She was perfectly, terrifyingly silent.
+
+Becky moved to the other side of the bed to check the IV line. She glanced at Nichole’s face.
+
+"She looks pretty calm," Becky noted, reaching for a thermometer. "No crying. No thrashing. She might just be disoriented from the anesthesia."
+
+"She's not disoriented," Patrick said, his tone flat and clinical. "She's at a nine out of ten."
+
+Becky paused, the thermometer hovering. She looked at the twenty-year-old in the hoodie. "Usually, with a bilateral release, we hear them before we see them. If she was in that much pain, she'd be vocalizing."
+
+"She has spastic quadriplegia and autism," Patrick corrected, slipping into the vernacular he had mastered over the last year. "She has a freeze response to trauma. She doesn't vocalize pain; she internalizes it. Look at the telemetry."
+
+He pointed to the red numbers flashing on the screen.
+
+"Heart rate is 120. Baseline is 72. That's a fifty-point spike. Look at her respirations—she’s splinting. She’s taking shallow, rapid breaths because if she breathes deep, it pulls on the back muscles and triggers a spasm."
+
+Becky looked at the monitor. Then she looked closer at Nichole’s hands. They were gripping the sheets so hard her knuckles were white.
+
+"Okay," Becky said, her demeanor shifting from *routine* to *alert*. "You're right. She's tachycardic. But I can't push narcotics without a clear pain score. Protocol requires..."
+
+Patrick didn't let her finish. He reached into his back pocket and pulled out his wallet, flipping it open to the clear window.
+
+- **LICENSE: PRACTICAL NURSE**
+
+- **NAME: PATRICK BENNETT**
+
+- **STATUS: ACTIVE**
+
+"I'm an LPN," Patrick stated. "I'm her primary home care provider. I know her baseline, and I know the orders."
+
+He grabbed the chart hanging at the foot of the bed. He didn't ask permission; he accessed the data. He flipped past the anesthesia record to Dr. Evans's post-op sheet.
+
+"Here," Patrick said, spinning the clipboard around. "Standing Order 4: 'Pain Management: Morphine 2mg IV push q2h PRN.' See the note? 'Patient is non-verbal. Utilize Patrick Bennett, LPN for pain assessment.'"
+
+Becky leaned in. She read the license. She read the order. The tension in her shoulders dropped instantly. She wasn't arguing with a panicked brother anymore; she was taking hand-off from a colleague.
+
+"Okay," Becky exhaled, nodding. "That's clear as day. You're calling the score?"
+
+"Score is nine," Patrick said firmly. "She needs the dose. Now."
+
+"On it," Becky said.
+
+She moved with new urgency. She pulled the vial from her pocket, scrubbed the port, and attached the syringe.
+
+"Okay, Nichole," Becky said, her voice dropping to a soothing register. "Nurse Bennett says you're hurting, so we're going to fix that."
+
+She pushed the plunger.
+
+Patrick didn't touch Nichole yet. He watched the monitor. It was the only way to know the truth.
+
+Thirty seconds.
+
+The drug hit the loop.
+
+- **HR:** 115... 108... 98.
+
+- **RR:** 20 (Deepening).
+
+On the bed, Nichole’s jaw unclenched. The roped muscles in her neck softened. Her eyelids fluttered, losing that glassy, thousand-yard stare of agony.
+
+She blinked. She turned her head slightly and saw him.
+
+She couldn't type—her device was in his bag. She couldn't sign—her hands were heavy with anesthesia.
+
+She just blinked. *Slow. Heavy. Deliberate.*
+
+Patrick reached through the side rail. He took her hand—the one without the pulse ox clip. He didn't stroke it; he squeezed it with deep, grounding pressure.
+
+"I'm here, Nikki," Patrick whispered, watching the heart rate drop to a comfortable 88. "I told you I wouldn't let you wake up alone."
+
+Becky marked the administration time on the chart. She looked at Patrick with genuine respect.
+
+"Good call, Nurse Bennett," she said quietly. "She was suffering in there."
+
+Patrick didn't look up from the monitor.
+
+"Not on my watch," he said.
+
+**Part 2: The Phase II Stand-Down** **Date:** Tuesday, December 27, 2005 **Time:** 11:15 AM **Location:** Phase II Recovery (Step-Down Unit), Bed 12
+
+The environment in Phase II was different. The urgent, rhythmic beeping of the PACU was replaced by the quieter, steady hum of a medical-surgical ward. Patients here were sitting up, drinking ginger ale, and watching holiday movie reruns on the wall-mounted TVs.
+
+Nichole wasn't sitting up. She was lying flat at 30 degrees, her legs elevated on two pillows to reduce the throbbing edema. The blue foam immobilizers looked massive against the white sheets.
+
+She was drifting in and out of a morphine nap, clutching her CamelBak tube loosely in her hand.
+
+Patrick sat in the guest chair, which he had pulled up to the bedside rail. Beyond the window, the gray sky was churning. The snow was coming down steadily now, sticking to the window ledge.
+
+When the floor nurse, Sarah, came in to check vitals, Patrick moved his backpack out of the way and sat back, letting her work. He didn't hover; he observed.
+
+He watched her wrap the blood pressure cuff. He watched her check the pedal pulses on Nichole’s feet, sliding her fingers under the warm blankets.
+
+"BP is 110 over 70," Sarah noted, writing it on the whiteboard. "Pulses are strong. +2 bilateral. Feet are warm."
+
+"Good perfusion," Patrick nodded, acknowledging the data. "Thank you, Sarah."
+
+Sarah smiled—grateful for a family member who knew what 'perfusion' meant—and stepped out to attend to another patient.
+
+Patrick checked his watch. *11:15.* The "Golden Hour" of immediate post-op crisis had passed. The machine was stable.
+
+He pulled out his cell phone. He dialed the landline in Portsmouth.
+
+It rang once.
+
+"Report," Tom’s voice barked. He had clearly been sitting by the phone in the kitchen.
+
+"Status Green," Patrick said, his voice dropping to a low, private register. "She's out of PACU. She's in Step-Down. Surgery went perfectly."
+
+He heard a massive exhale on the other end.
+
+"Oh, thank God," Ellen’s voice came on the extension. "Is she awake? Is she hurting?"
+
+Patrick looked at Nichole. Her eyes were closed, her breathing deep and rhythmic.
+
+"She's drifting," Patrick said. "We had a pain spike in PACU—heart rate went up to 120—but I caught it. I authorized a morphine push. She's sitting at a comfortable three right now. Dr. Evans said the release was clean. No complications."
+
+"And the legs?" Tom asked. "How do they look?"
+
+"Straight," Patrick said, staring at the blue foam forms under the blanket. "I mean... really straight, Dad. The contractures are gone. It's going to be a hell of a rehab, but the geometry is fixed."
+
+"Okay," Tom said, his voice thick with relief. "You did good, son. You did good."
+
+"I just ran the protocol," Patrick deflected the praise. "We're looking at a discharge around 1400 hours. I've got the van prepped. I'll get her back to the Fort and start the oral meds before the IV wears off."
+
+"Do you need us?" Ellen asked. "The snow is picking up here. We can still drive down. Just to sit in the living room while you nap?"
+
+Patrick looked at his sister. He looked at the binder open on his lap. He looked at the LPN badge reflecting the overhead lights.
+
+"We're good, Mom," Patrick said gently. "Roads might get slick later, stay put. I've got the night shift covered. You guys get some sleep. I'll call you for the morning report."
+
+"Okay," Ellen whispered. "Give her a kiss from us."
+
+"Will do. Nurse Bennett out."
+
+Patrick clicked the phone shut.
+
+He leaned forward, resting his elbows on his knees. The adrenaline was starting to fade, replaced by the heavy fatigue of the last twenty-four hours.
+
+Nichole stirred. Her eyes cracked open. She looked at him, groggy and confused.
+
+"Hey, Nikki," Patrick whispered. "Mom and Dad say hi. We're almost done. Just a few more hours, then we go home."
+
+Nichole blinked slowly. She reached out and tapped his arm.
+
+*Home.*
+
+"Yeah," Patrick smiled, patting her hand. "Home."
+

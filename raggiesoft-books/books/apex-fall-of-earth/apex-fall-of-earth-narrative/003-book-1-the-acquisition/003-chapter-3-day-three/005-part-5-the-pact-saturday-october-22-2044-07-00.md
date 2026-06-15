@@ -1,0 +1,58 @@
+# Part 5: The Pact – Saturday, October 22, 2044 – ~07:00
+
+The heavy steel pipe was wedged firmly under the door handle. The dead air of the abandoned break room was completely still, a stark contrast to the vibrating, bleeding nightmare of Sector 4 just on the other side of the bulkhead.
+
+Wyatt sat on the edge of the cracked vinyl sofa, pulling Sarah between his knees. She didn't hesitate. She wrapped her arms around his neck, burying her hands in his hair as he pulled her down into a fiercely passionate kiss.
+
+The terror of what they had just seen on that drill bit didn't paralyze either of them; it acted as a massive, undeniable catalyst. If Apex Defense Solutions was actively digging into a biological apocalypse, the artificial rules of this facility meant absolutely nothing. The only thing that was real was the heat of her skin, the desperate grip of her hands, and the overwhelming certainty that he loved her.
+
+Wyatt kissed her deeply, his tongue sweeping past her lips, his broad hands sliding down to grip her waist. She gasped softly against his mouth, her knees buckling just enough that she rested her weight entirely against him.
+
+She pulled back just a fraction of an inch, her breathing heavy, her eyes locked onto his in the dim emergency lighting.
+
+"Wyatt," she whispered, her thumbs gently tracing his jawline. She swallowed hard, wanting to completely strip away any remaining hesitation. "You don't have to worry. About anything. Before I shipped out, the Helios recruiter made me go to the corporate clinic. They gave me an Omni-Cycle injection. It's a synthetic blocker. Twice a year, so Apex doesn't have to pay for maternity leave."
+
+Wyatt looked up at her. In a universe where the corporation controlled every aspect of their miserable existence, she had just given him the final key to completely letting go. There was nothing holding them back. No fear, no consequences, no corporate red tape. Just the two of them, completely devoted to each other in the dark.
+
+"I love you, Sarah," Wyatt murmured, his voice thick with emotion, his hands pulling her hips flush against his.
+
+"I love you," she breathed back, her eyes shining with absolute trust. "Don't waste another second."
+
+\[The scene fades to black, the oppressive nightmare of the Apex staging facility entirely banished from the locked room as they both surrender completely to the intense, undeniable reality of their connection. Note: skipping over a sexual encounter\]
+
+Sometime later, the adrenaline had faded into a deep, profound warmth.
+
+They were lying together on the narrow vinyl sofa, the heavy deployment sleeping bag pulled up over their bare shoulders. The space was impossibly cramped, but it didn't matter. Sarah was resting fully against his chest, her leg tangled with his, her fingers lightly tracing the heavy scars on his forearm.
+
+The silence of the dead zone wrapped around them. This abandoned break room wasn't just a hiding spot anymore; it was their nest. As long as they were stationed at this facility, this was the only place they would ever sleep.
+
+"I don't care what happens out there," Sarah whispered softly, breaking the quiet. She didn't sound scared anymore. She sounded incredibly grounded. "If the drills fail, if the facility locks down... I don't care. Because I have you."
+
+Wyatt tightened his arm around her waist, pressing a kiss to her forehead. "I have you, too. But we aren't dying in this facility, Sarah. I promise you that."
+
+She tilted her head up, resting her chin on his chest to look at him.
+
+"I've been bouncing from rig to rig for years because I didn't have a reason to stay anywhere," Wyatt told her, his voice a low, steady rumble of absolute conviction. "You only signed this contract because you just wanted a bed to sleep in. We're done doing this. Both of us."
+
+Her eyes widened slightly in the dim light, hanging on his every word.
+
+"If we survive this contract—or if we find a way to break it early—we are never setting foot in another corporate hellhole again," Wyatt vowed, holding her gaze. "No more thirty-inch bunks. No more armed guards. We pool our hazard pay, we get out of the Nevada badlands, and we find a real apartment. A place with our own door, and a lock that we control. Just us."
+
+A brilliant, overwhelming smile broke across her face. It was the first time since her parents died that anyone had offered her a real future. The crushing isolation she had felt for years was completely, permanently gone.
+
+"A real apartment," she echoed, her voice thick with emotion. She leaned up, kissing him with a slow, lingering sweetness that sealed the promise. "I want that, Wyatt. I want that with you."
+
+"Then we're going to get it," he said firmly.
+
+They held each other for a few more minutes, letting the reality of their new future settle in. But eventually, the survival instincts they'd both honed kicked back in.
+
+"We need to get dressed," Wyatt murmured reluctantly, running a hand down her back. "If we stay off the grid in a blind spot for too long, the automated system might flag it as a critical tracker failure. A Supervisor might actually come looking for our last known coordinates."
+
+Sarah sighed, resting her forehead against his shoulder for one last second before nodding. "You're right. We need to go pretend we're working."
+
+They both slid out of the warmth of the sleeping bag, the cold air of the room hitting their skin. They quickly pulled their stiff, black S.H.O.P. Marine uniforms back on, packing the sleeping bag away so the room looked exactly like the abandoned ruin it was.
+
+Wyatt walked over to the heavy blast door, gripped the decommissioned steel pipe, and pulled it loose. He looked back at Sarah. She was clipping her Mark-IV flashlight to her belt, her shoulders squared. She wasn't just surviving anymore. She had a future to fight for.
+
+He heaved the door open, stepping back out into the deafening, sulfur-choked reality of Sector 4. But as they resumed the patrol, walking shoulder-to-shoulder down the grated catwalk, the facility didn't feel like a tomb anymore. It was just an obstacle standing between them and the rest of their lives.
+

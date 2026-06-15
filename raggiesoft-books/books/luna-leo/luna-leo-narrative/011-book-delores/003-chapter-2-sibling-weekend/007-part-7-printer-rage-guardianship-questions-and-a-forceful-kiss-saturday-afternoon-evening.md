@@ -1,0 +1,66 @@
+# Part 7: Printer Rage, Guardianship Questions, and a Forceful Kiss (Saturday Afternoon/Evening)
+
+Despite the earlier interruption, Luna and Leo Porter resolutely turned back to their MagnaBytes, determined to finish their English assignment. They worked steadily for another hour. Finally, Luna stretched. "Okay, I'm done. Ready to print?" Leo gave a quick nod, saving his MagnaWriter document.
+
+"Alright," Luna said, reaching for the A/B switch box connecting both machines to the single MagnaByte GraphiPrint. "Me first." She pressed the Luna button and selected 'Print'.
+
+The quiet hum was instantly shattered by the MagnaByte GraphiPrint whirring aggressively to life, its dot-matrix print head launching into a loud, high-pitched ZZZT-ZZZT-ZZZT, punctuated by the grinding CHUNK-CHUNK of the tractor feed. On the couch, Delores jumped violently. "What in the HELL is THAT?" she shrieked over the din, seeing a noisy printer spitting out a document. "That can't be a printer! Printers aren't supposed to sound like a dying robot!"
+
+Luna turned, defensive. "It is the printer! It's how we print our homework!"
+
+"That horrible screeching? No way!" Delores stood up, covering her ears. "Why do you even have that thing? Make it stop!" She seemed genuinely unable or unwilling to comprehend the noise was normal for the technology. Leo flinched at her outburst.
+
+Stella came quickly from the kitchen. "Delores, calm down. It's just the printer".
+
+"Calm down?!" Delores rounded on Stella. "That noise is insane! Get rid of that horrible machine!"
+
+"It's a dot-matrix tractor printer, Delores," Stella explained patiently. "Yes, it's loud. The twins need it. It will only take a minute".
+
+"A minute of that torture?" Delores scoffed. Stella held her gaze. "It's necessary. It will be done soon".
+
+Luna finished printing. She pressed the Leo button on the A/B switch. "Your turn, Leo." He hesitated, then initiated his print job. The ZZZT-ZZZT-CHUNK-CHUNK started again. Delores let out an exaggerated groan, throwing herself back onto the couch, covering her ears until the noise finally stopped. The homework was printed, but the simple act had triggered another wave of hostility.
+
+Once the noisy printing finished and Leo had gathered his pages, Delores sat up, removing her hands from her ears, her expression shifting from theatrical annoyance to calculated concern, though her eyes remained hard as she looked pointedly at Stella. "You know, Stella," Delores began, her voice dripping with false sweetness that didn't quite mask the edge, "seeing all this... the old computers, the noise... it makes me wonder". She paused, letting the implication hang in the air before continuing, her tone becoming more forceful, almost pitying. "This whole Guardianship and Conservatorship thing... are you sure it's still necessary? Leo's an adult now, practically. He manages just fine living with me".
+
+Stella stiffened, caught off guard by the sudden shift in topic. "The guardianship is in place for a reason, Delores," she replied evenly, trying not to rise to the bait.
+
+Delores waved a dismissive hand. "Oh, I know, I know. But maybe it's time to reconsider? Or," she leaned forward slightly, her voice taking on a tone of forceful suggestion, "maybe I should be the one handling it now? Since he lives with me? It must be such a burden for you, trying to manage his affairs from way over here, especially with your job and Luna to worry about". She gestured vaguely around the room. "Honestly, Stella, are you sure you can handle all this? It just makes sense for me to take over the legal stuff. It would simplify everything... for Leo". The implication was clear: Stella was incapable, and Delores was offering to 'help' by taking control.
+
+Leo looked down, avoiding everyone's gaze, clearly uncomfortable being discussed this way. Luna, who had overheard from the computer corner, bristled silently. Stella felt a surge of anger mixed with a confusing defensiveness. Delores made it sound so reasonable, yet it felt deeply wrong, like another attempt to push Stella out, to claim ownership of Leo. She was too caught up in the immediate tension, the desire to de-escalate, the worry about Leo being trapped between them.
+
+"Leo's arrangements are fine as they are, Delores," Stella said coolly, refusing to engage further on Delores's terms. She turned pointedly towards the kitchen. "Anyone want a drink?" Delores merely smirked, recognizing Stella's deflection but seemingly satisfied she had planted the seed and asserted her position. The conversation was dropped, but the underlying challenge to Stella's role, and the suggestion that Delores should take over, lingered poisonously in the air.
+
+The air in Stella’s small living room remained thick with the poison Delores had injected. Leo looked pale and withdrawn, his usual quiet composure replaced by a visible tension around his eyes and mouth after the pointed remarks about Stella's guardianship. Luna watched him from the MagnaByte corner, her heart aching. Delores, having asserted her opinion, now patrolled the living room, occasionally making passive-aggressive comments about the "primitive" technology or the "stressful" environment Stella maintained.
+
+Leo seemed to shrink further into himself with each remark. Seeing his distress, that familiar protective urge surged in Luna. This wasn't right. Subtly, almost unconsciously, Luna began to hum. It was a quiet sound, barely audible above the drone of the television Delores had commandeered. The melody was specific, a poignant, brief passage from "Kaleidoscope Sun," the song by Origin that held so much private meaning for her and Leo. It was the flute melody, their signal. She was "Playing the Flute". She watched Leo intently, desperately, willing him to hear it, to recognize the coded message: I’m here, Leo. This feels wrong. Be careful. Remember safety.
+
+But Leo gave no sign of recognition. His gaze remained fixed somewhere between the blaring television and his own lap, his face a carefully blank mask. Delores's poisonous suggestions about Stella, combined with her disdain for their cherished computers and the printer, had him so on edge, so deeply conditioned to tune out anything that might provoke her further, that Luna's subtle hum simply didn't register through the fog of his anxiety and fear. He was, in that moment, "blind" to her signal, his senses overwhelmed by the immediate need to appease Delores and avoid more conflict.
+
+Delores, however, whose attention was sharply attuned to any perceived slight or secret communication, did seem to notice the soft humming. She looked over at Luna, her eyes narrowing slightly. "What's that annoying noise, Luna? Are you sick or something? If you're going to make weird sounds, maybe go to your room."
+
+Luna’s humming faltered and stopped, a flush rising on her cheeks. She shot Delores a look of dislike but said nothing, turning back to her MagnaByte screen, her heart heavy. The flute had played, but this time, trapped under Delores’s watchful eye and his own fear, Leo hadn't heard its call.
+
+Delores, sensing Stella’s controlled fury from the kitchen or simply needing to reassert her dominance after being subtly challenged about the guardianship, turned her attention to Leo with a predatory focus. She patted the cushion beside her on the sofa. "Leo, honey, come sit with me," she cooed, her voice dripping with a false sweetness that made Stella’s skin crawl from the next room. Leo looked towards his MagnaByte, a silent plea for escape in his eyes, but Delores’s gaze was unyielding. He knew better than to refuse a direct "invitation" when she was in this mood. Reluctantly, he wheeled closer.
+
+"No, closer, baby," Delores purred, her smile not reaching her eyes. She stood, and before Leo could react, she took hold of his arms. "Let's get you comfortable on the sofa with me." Despite his internal alarm and a subtle tensing, a silent attempt to resist, her grip was strong. With a surprising strength that brooked no argument, she maneuvered him from his wheelchair, pulling him onto the sofa and then, shockingly, onto her lap, positioning him so he was facing her, his back partially to his sisters. He felt instantly trapped, overpowered, and intensely uncomfortable with the forced proximity and her physical dominance.
+
+Luna stopped typing, her head snapping up, her eyes narrowing as she watched Delores. Stella paused her dishwashing, listening, every nerve on alert.
+
+Delores’s arms snaked around his waist, holding him tight against her. She tilted his chin up with her other hand, her movements a clear display of ownership for the benefit of his sisters. "You're so quiet tonight, baby. Tired from all that... 'homework'?" Her tone was mocking, a clear jab at his earlier retreat to the computers with Luna.
+
+Leo tensed further under her grip, his eyes darting towards Luna, then quickly away, not wanting to draw Delores's ire towards his sister. He offered a small, forced nod, the feeling of being pinned on her lap making him feel small, exposed, and increasingly nauseous.
+
+"Poor thing," Delores crooned, though her eyes, when they flicked towards where she knew Stella was in the kitchen, were cold and triumphant. "Maybe you just need some proper affection to cheer you up".
+
+Before Leo could react or attempt any subtle deflection from this already deeply uncomfortable and controlling position, Delores leaned in. Her mouth was on his, hard and demanding. He froze, every muscle in his body screaming in protest. This was not the tentative affection of their early relationship, nor the slightly off-key possessiveness he’d grown uncomfortably accustomed to. This was different. This was a statement, a violation. He felt the unwanted, invasive press of her tongue, a suffocating sensation that made him feel like he couldn't breathe, like he was being choked by her will. His eyes squeezed shut, his mind desperately trying to retreat from the unwanted intimacy, from the feeling of her possession. He could hear Luna make a small, sharp intake of breath from across the room. Then, the nature of the assault shifted. Her mouth moved from his lips to his cheek, and he felt a sharp, biting pain as she seemed to chew on the flesh, her teeth scraping, a disgusting, violating pressure that made involuntary tears of pain spring to his eyes. He tried to pull his head away, a choked gasp escaping him, but her hand held his chin in a vice-like grip, her arms still pinning him to her lap.
+
+When Delores finally pulled back, there was a smug, almost predatory glint in her eyes as she glanced quickly towards Luna, then towards the kitchen doorway where Stella now stood, silent and rigid, her face a mask of horrified disbelief and cold fury. Delores licked her lips, a grotesque parody of affection.
+
+Leo was trembling, his breath coming in shallow, ragged gasps. He could feel the throbbing pain on his cheek, a burning, shameful heat from the hickey she’d inflicted. He didn't dare touch it, didn't dare look at his sisters. The humiliation of being so overpowered and violated in front of them was a physical weight, crushing him.
+
+"There," Delores said, her voice still falsely sweet but laced with triumph as she surveyed the impact of her display. She ran a possessive hand through Leo’s hair. "All better now, aren't you, baby?" She looked directly at Stella, then Luna, a silent, insolent challenge in her eyes. "He just needs to know who takes care of him. Who he belongs to".
+
+After another moment of asserting her control, she finally, roughly, helped him back into his nearby wheelchair. Stella and Luna were frozen, speechless with a shared, horrified rage. They saw the angry, nasty red mark blooming on Leo’s pale cheek – not bleeding, but a raw, brutal brand. Luna’s hands were clenched into white-knuckled fists on her keyboard. Stella’s entire body was coiled tight, the effort to not physically launch herself at Delores monumental. They knew, with sickening certainty, that any overt reaction from them now would only bring worse repercussions for Leo later, behind the locked door of his room.
+
+Leo kept his eyes downcast, the "painted smile" he’d perfected – that hollow mask of endurance – fixed on his face, though tears of pain and shame still tracked silently down his cheeks. He felt stripped bare, violated in front of the two people he loved most in the world. Delores had not only asserted her control over him but had used his body to wound his sisters as well. The suffocating feeling of her tongue, the sting of her teeth on his cheek, the burning shame of the visible mark – it was all a horrifying testament to his entrapment. The silence in the room was broken only by the tinny, cheerful theme song of some forgotten sitcom flickering on the television, a grotesque counterpoint to the ugly reality that had just unfolded. Delores leaned back on the sofa, a picture of possessive satisfaction, while Leo sat beside her, a prisoner marked by her cruelty, his sisters watching, hearts shattered, their protective fury banked but burning with a desperate, ice-cold resolve.
+

@@ -1,0 +1,18 @@
+# Part 1: A Quiet Place in the Chaos (Fall 1998)
+
+The weeks following the disastrous movie theater "date" and the subsequent fizzle of his "relationship" with Jennifer Thompson were a period of quiet, necessary retreat for Alex. The experience had left a deep, painful bruise on his trust. He wanted nothing to do with his peers, especially girls. There was only one female peer whose company he actively sought, the one who had always been his safe harbor: Megan.
+
+A typical after-school scene at the Carter house in October was a perfect illustration of his new reality. Alex, now ten, was at the kitchen table, his focus entirely on his math homework. His mind, which had been so recently tormented by social anxieties, found a deep and satisfying peace in the predictable logic of equations.
+
+In the adjacent living room, the familiar, chaotic energy of the Carter sisters was in full swing. A loud and dramatic argument had erupted between Jessica and Cassie.
+
+"I had it first!" Cassie shrieked, clutching the prized, grey Apex 64 controller—the only one whose joystick wasn't completely stretched out and loose.
+
+"No, you didn't! It's my turn!" Jessica shot back, trying to wrestle it from her younger sister's grip. "You've been playing *Kart Kraze* for an hour!"
+
+Megan, who at sixteen had entered a phase of being "too cool" for such childish squabbles, rolled her eyes from her spot across the table from Alex, where she was working on her own homework. She looked at Alex, and they shared a small, secret, and deeply understanding smile.
+
+The sisters' fighting, as loud and annoying as it was, was a world away from the quiet, calculated cruelty he had experienced from Jennifer's friends. This was just... noise. It was harmless. It wasn't directed at him. Here, at this table, with Megan sitting across from him, he was completely safe from it all.
+
+He had found his quiet place in the middle of the storm, and it was right here, with her.
+

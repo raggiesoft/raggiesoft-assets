@@ -1,0 +1,18 @@
+# Part 4: The Procession
+
+The moment had arrived. The soft, ambient music playing in the elegantly decorated ballroom quieted, and a hush fell over the small gathering of close family and friends. At the back of the room, the large double doors stood closed, a final, symbolic barrier.
+
+At the front of the room, in the beautifully arranged ceremony space decorated with cascading flowers, **Stella** took her place. In a deep blue dress that matched the color scheme, she was not a bridesmaid, but a pillar of strength and support, acting in her role as Leo's **Best Woman**. Her expression was a perfect blend of fierce pride and profound, sisterly love.
+
+The main doors opened. The procession began not with a bridesmaid, but with the two people whose bond was the very foundation of the family. **Luna**, her flute held carefully in one hand, placed her other on the back of Leo's wheelchair. She was not just his sister or Olivia's maid of honor in that moment; she was his other half, the one who had always understood his heart without the need for words. She gently began to push him down the long, carpeted aisle.
+
+Leo, looking impossibly handsome in his tailored suit, kept his eyes fixed on the front of the room. His anxiety was a frantic, wild thing in his chest, but he focused on the faces of his grandparents, on Stella's reassuring smile, and pushed the fear down. This was for Olivia. This was forever. As they reached the front, Luna gave his shoulder a final, reassuring squeeze, her eyes communicating a universe of love and support, before she took her place opposite Stella.
+
+Then, the main event.
+
+The doors at the back of the aisle opened once more. There stood **Olivia Walker Porter**, a vision of simple, breathtaking elegance in her floor-length cream dress, her arm linked through her father's. Daniel Walker looked at his daughter, his eyes shining with a mixture of love, pride, and a touch of happy sadness.
+
+As they took their first step down the aisle, Luna raised her flute to her lips. The clear, sweet, and unmistakable melody of **"Here Comes The Bride"** filled the ballroom. It was a classic, traditional choice, a deliberate and beautiful anchor to the weight and joy of the moment.
+
+All of Leo's anxiety, all of his fear, evaporated in an instant, replaced by a single, overwhelming emotion: awe. He watched his *ma blonde*, his best friend, his everything, walk toward him. Her eyes were locked on his, a brilliant, shining beacon of love and promise. In that moment, there was no one else in the room. There was only the beautiful sound of his sister's music and the sight of his future walking toward him.
+

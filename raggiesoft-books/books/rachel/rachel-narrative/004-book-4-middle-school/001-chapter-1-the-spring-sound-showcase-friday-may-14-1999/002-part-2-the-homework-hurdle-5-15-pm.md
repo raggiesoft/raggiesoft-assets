@@ -1,0 +1,42 @@
+# Part 2: The Homework Hurdle – 5:15 PM
+
+The heavy front door clicked open, breaking the quiet, focused silence of the dining room.
+
+Mom and Dad walked in, shrugging off their jackets. The ambient tension of the house usually spiked with the unpredictability of the adults arriving, but tonight, the atmosphere remained remarkably light. Seeing Ashley sitting at the table with us was a guaranteed mood-stabilizer for our parents. They loved Ashley. To them, her presence meant we were behaving like "normal" teenagers having a standard Friday night sleepover.
+
+"Hey, kids," Mom smiled, setting her purse on the counter. "Hi, Ashley. Are you guys getting excited for the Brewster Gardens trip tomorrow?"
+
+"Very," Ashley beamed, tapping her pencil against her notebook. "We're going to ride *The Loch Serpent* at least three times."
+
+Next to me, the rhythm of Rachel's pencil suddenly stopped. She slumped back in her heavy wooden dining chair, a dark, heavy pout taking over her features. As a sixth-grader, she was completely excluded from the eighth-grade band program's itinerary, and the reality of being left behind while her pack went on a massive adventure was hitting her hard.
+
+I immediately caught the shift in her gravity. I nudged my chair an inch closer to hers, making sure our shoulders brushed.
+
+"Hey," I murmured, keeping my voice low and completely serious. "You'll be in eighth grade before you know it, Bug. And when you are, you'll get to go on this exact same trip with your own band, and I won't even be there to slow you down."
+
+Rachel crossed her arms, staring at her workbook. "But I want to go tomorrow."
+
+"I know," I said, bumping her shoulder again. "But don't forget the ultimate workaround. We all have season passes. The second school lets out for the summer, the pack can go whenever we want. We'll ride the coasters until we can't walk."
+
+Rachel let out a tiny, reluctant sigh, her posture loosening just a fraction. The mathematical certainty of the summer passes successfully bridged the gap in her logic. She uncrossed her arms and picked her pencil back up.
+
+While Rachel returned to her worksheets, I was hitting a massive, frustrating wall.
+
+Math was not my strong suit. The numbers on the algebra worksheet seemed to scramble and dance every time I looked at them. My brain, which thrived on rigid, predictable systems, simply could not process the abstract, shifting rules of the equations. I gripped my pencil so tightly my knuckles turned white, a quiet, buzzing anxiety starting to build in the back of my neck.
+
+Jessica, who had been sitting quietly in the living room with a book, sensed the impending system crash.
+
+She walked into the dining room and pulled up a chair right next to me. She didn't take the pencil out of my hand, and she didn't offer to do the work for me. Jessica's brand of protection was purely analytical; she wanted me to understand the mechanics of the problem, not bypass it.
+
+"Look at the equation, Michael, not the whole page," Jessica instructed softly, pointing to the specific problem with a steady finger. "It's just a balancing scale. Whatever you do to the left side, you have to do to the right side to keep it even. Break it down into steps."
+
+I let out a shaky breath, forcing my eyes to focus on just the single line of math. With Jessica acting as an external processor, guiding me through the mechanical steps without giving me the answers, the panic slowly began to subside.
+
+From the kitchen, the familiar, savory sounds and smells of Mom prepping dinner began to drift over the dining table. The aroma of cooking garlic and onions served as a perfect sensory anchor, pushing away the lingering frustration of the school week.
+
+Finally, I wrote the last answer down. I closed my heavy math textbook with a loud, satisfying *thud*. Across the table, Ashley slammed her own notebook shut, and Rachel stacked her folders into a neat, perfect pile.
+
+"Done," Ashley announced triumphantly.
+
+I leaned back in my chair, a massive wave of relief washing over me. The academic perimeter was officially secured. Our homework was finished, our bags were packed, and the entire weekend stretched out in front of us, completely free and clear for the Old World.
+

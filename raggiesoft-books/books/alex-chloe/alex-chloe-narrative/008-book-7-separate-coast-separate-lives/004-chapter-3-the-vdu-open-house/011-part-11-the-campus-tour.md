@@ -1,0 +1,26 @@
+# Part 11: The Campus Tour
+
+After the opening remarks from Dr. Reed, the large crowd in the Sinclair University Center was divided into smaller groups for the official campus tours. A cheerful sophomore named Emily, their designated tour guide, gathered their group near the main entrance.
+
+Megan wheeled Alex forward and introduced them with a proud, confident smile. "Hi, Emily. I'm Megan Carter, a senior here. This is my cousin, Alex Miller. He's a prospective student, and I told him the open house was the best way to really see the campus."
+
+"That's awesome! Welcome to VDU, Alex!" Emily said, her energy infectious. "It's always great when current students bring their family. You get the official tour and the inside scoop at the same time!"
+
+The tour began, a long, winding walk through the heart of the VDU campus. The group of thirty prospective students and their parents moved as a single, large entity, following their guide from one impressive brick building to the next. Emily, the tour guide, kept up a steady, polished commentary about class sizes, student-faculty ratios, and the history of the university.
+
+For Alex, the real tour was the one happening in quiet asides. As they passed the Arts and Letters building, Megan would lean in and whisper, "See that classroom on the second floor? That's where I had my Shakespeare seminar. The professor was amazing, but he talked so quietly you could barely hear him." When they walked by the massive university library, she'd murmur, "Their sci-fi section is actually pretty decent, but you have to go all the way up to the fourth floor."
+
+Her quiet, personal commentary transformed the generic tour into a rich, lived-in experience, a glimpse into the life she had built here.
+
+They eventually returned to the Sinclair Center, the tour having come to an end. Before the next event, the residential tour, was scheduled to begin, Alex knew he needed to use the restroom. The main restrooms in the bustling lobby were large, multi-stall affairs, completely impractical for his needs.
+
+He gave Megan a quick, knowing look. She understood immediately.
+
+"Come on," she said, her tone low and matter-of-fact. "I know where the good ones are."
+
+She led him away from the main lobby and down a quiet, little-used back hallway that connected to the administrative offices. At the end of the hall were two doors: a men's restroom and a women's restroom. Each was a simple, single-occupancy room with just a toilet, a sink, and a mirror.
+
+Without a second thought, Megan took him into the women's restroom, locking the door behind them for privacy. She helped him with his toileting needs with the same familiar, easy confidence she had shown the night before. While she was in there, she took care of her own business. When they were both done, she washed her hands, helped him wash his, and unlocked the door.
+
+The entire process was a seamless, private act of care and practicality. They emerged back into the bustling Sinclair lobby just as the groups were forming for the next part of the day, their brief, necessary detour completely unnoticed by anyone else.
+

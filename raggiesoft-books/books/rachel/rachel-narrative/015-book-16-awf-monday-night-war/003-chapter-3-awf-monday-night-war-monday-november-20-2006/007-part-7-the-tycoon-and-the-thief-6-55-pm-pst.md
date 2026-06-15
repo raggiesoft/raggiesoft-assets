@@ -1,0 +1,46 @@
+# Part 7: The Tycoon and the Thief – 6:55 PM (PST)
+
+As the ringside crew rushed out to sweep the canvas and check the ropes after Roxy Dane’s victory, the arena lights dimmed once again.
+
+The massive TitanTron above the entrance stage flickered, displaying a graphic that read: LIVE: MAIN CONCOURSE.
+
+"Look!" Kristin shouted, grabbing Jessica's shoulder and pointing up at the fifty-foot screen. "It's us!"
+
+Sitting dead center in the front row, we tilted our heads back and looked up at the massive monitor. It was a surreal, out-of-body experience. Thanks to the magic of television production, the footage we had filmed nearly three hours earlier in a completely empty hallway was now being broadcast to the world as if it were happening at this exact microsecond.
+
+On the massive screen, the heavy double doors down the concourse banged open. "Sly" Diego Chavez burst into the frame, jogging backward and flashing his signature, million-dollar smirk. He was waving a platinum money clip stuffed with thick, green hundred-dollar bills.
+
+"Chavez!" a voice roared through the PA system.
+
+Stomping into the light was "The Tycoon" Preston Sinclair. The billionaire heel was dressed in his pristine white Texan suit, his face contorted in absolute fury. But instead of a microphone, Sinclair was dragging a massive, thick-braided Texas Bull Rope behind him, a heavy iron cowbell clanking violently against the concrete floor.
+
+"You think you can steal from me?!" Sinclair bellowed, winding the thick rope around his wrist. "I'm going to skin you alive this Sunday!"
+
+"You gotta catch me first, Tycoon!" Diego yelled back, seamlessly hyping their upcoming Pay-Per-View bout.
+
+The Portland crowd popped massively as Sinclair lunged forward, swinging the heavy bull rope with terrifying speed. The cowbell whipped through the air, but Diego nimbly dropped to a knee, ducking the strike perfectly. The rope smashed loudly against a concrete pillar instead, echoing through the concourse.
+
+Diego just laughed, hopping effortlessly onto the top of the merchandise table. Sinclair tried to charge, but two AWF security extras rushed into the frame, holding the furious billionaire back.
+
+"Oye, Portland!" Diego shouted, looking down directly into the camera lens. "Let me tell you a little secret about my good friend, Preston Sinclair! He thinks tying me up in a Texas Bull Rope Match this Sunday at No Quarter is gonna keep me down! But the man is incredibly generous! In fact, Señor Sinclair just told me he wants to buy every single person in this line some brand new gear! On him!"
+
+The camera cut to the reverse angle. There we were, fifty feet tall on the TitanTron.
+
+We hit our cue perfectly. Kristin, Jessica, and I were cheering loudly, but the camera lingered on Rachel. She was completely lost in the magic of the moment, jumping up and down, clapping her hands in a flurry of uncontainable excitement. Sitting next to me in the arena, Rachel gasped, clutching her actual foam finger tightly as she watched herself on national television.
+
+"Give the kid in the front a hat!" Diego shouted on the screen, tossing the classic AWF cap directly into my hands.
+
+"Give the lady in the back a foam finger, homes!" Diego yelled. He tossed the giant, blue-and-silver foam prop right to Rachel. On the screen, she caught it, clutching it to her chest like it was made of solid gold.
+
+Diego turned to the bewildered merchandise cashier, peeling a thick stack of bills off Sinclair's platinum clip and slapping them onto the table. "Keep the change, amigo! The Tycoon is paying for it!"
+
+Suddenly, the massive screen above the stage split perfectly in half.
+
+On the right side of the TitanTron, the pre-taped footage showed Diego happily tossing out free merchandise to our ecstatic group. But on the left side, a live camera fed in from the backstage area.
+
+Preston Sinclair was standing in front of a backstage monitor, watching the broadcast in real-time. His face was turning an apocalyptic, veins-popping shade of purple.
+
+"Those are my hundreds!" Sinclair screamed in pure, unadulterated agony, his voice cracking violently over the PA system. "That is my hard-earned capital! You filthy, lying, cheating thief! I'm going to destroy you on Sunday! I'M CALLING MY LAWYERS!"
+
+The arena erupted into mocking, deafening laughter as Sinclair ripped his pristine white suit jacket off in a furious, childlike tantrum and stomped on it right there on the backstage floor.
+

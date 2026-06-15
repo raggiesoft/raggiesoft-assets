@@ -1,0 +1,58 @@
+# Part 9: The Vow – Wednesday, May 8, 2045 – 15:24
+
+The afternoon sun filtered through the towering canopy of the alien pines, casting dappled, golden light across the forest floor.
+
+Wyatt and Sarah were half a kilometer downriver from the hidden dreadnought, walking hand-in-hand through the thick, vibrant undergrowth. They were, as always, barefoot. The earth here was soft, a rich blanket of decaying leaves and silver-edged ferns that felt cool and forgiving against their skin.
+
+They weren't scouting for building materials or surveying the land today. They were just exploring. They were finally learning the shape and the breath of the world that had saved them.
+
+"Listen," Sarah whispered, gently pulling Wyatt to a stop.
+
+She pointed through the trunks toward the edge of the crystal-clear river.
+
+Standing knee-deep in the gentle current was a creature. It was roughly the size of a white-tailed deer, but its physiology was entirely unique to Exoplanet 4. It had a sleek, elegant neck and a coat of short, soft fur that shimmered with a faint, iridescent blue in the sunlight. It possessed six slender, digitigrade legs that allowed it to move with absolute, silent grace over the smooth river stones.
+
+Wyatt and Sarah stood perfectly still, holding their breath.
+
+The creature lifted its head from the water. It didn't have traditional ears, but rather two flared, feathered crests that swiveled toward the sound of their approach. Its large, dark eyes locked directly onto them.
+
+On Earth, or any colonized frontier world, a wild animal spotting a human would instantly bolt in sheer terror. Survival instinct would dictate that the bipedal creatures standing in the trees were predators.
+
+But this creature didn't bolt. It didn't even flinch.
+
+It just watched them with a calm, peaceful curiosity. It had never heard the crack of a rifle. It had never been hunted by a corporate clearing crew. It lived in a world completely unblemished by human violence.
+
+After a long, quiet moment, the creature simply lowered its head, took another long drink from the river, and gracefully ambled up the opposite bank, disappearing into the thick ferns.
+
+Sarah let out a slow, awe-struck breath, leaning her weight against Wyatt's side.
+
+"It wasn't afraid of us," she murmured, her voice laced with profound wonder. "It didn't even know what we were."
+
+"It's never had a reason to be afraid," Wyatt said softly, his arm wrapping securely around her waist.
+
+They walked the remaining few meters to the riverbank and sat down together on a massive, smooth boulder that had been warmed by the afternoon sun. Sarah pulled her knees to her chest, resting her head on Wyatt's shoulder as they watched the water flow past.
+
+The profound peace of the valley stood in stark, horrifying contrast to the radio transcripts they had read the day before.
+
+"Wyatt," Sarah said quietly, her eyes focused on the rushing water. "Apex looked at a mountain on Earth and only saw a two-billion-dollar battery. They looked at the bedrock and only saw what they could extract from it, even when the planet was bleeding. They drilled until the world literally broke."
+
+Wyatt’s jaw tightened. The memory of the 140-degree sulfurous heat and the pulverized, trembling catwalks of Sector 4 would never entirely leave him.
+
+"They didn't care about the people, and they didn't care about the land," Wyatt agreed, his voice a low, heavy rumble. "They just wanted to consume it. It’s what megacorporations do. They eat everything until there's nothing left but ash."
+
+Sarah turned her head, looking up into his eyes. The fear and exhaustion that had plagued her for weeks were completely gone, replaced by a fierce, unyielding clarity.
+
+"We are not them," Sarah stated, her voice ringing with absolute certainty. "We are the only humans on this planet. We are the stewards of this place now. I don't want to cut down a hundred trees to build a massive mansion just because we have the tools to do it. I don't want to dig up the earth unless we are planting something in it."
+
+Wyatt looked at the woman he loved. She wasn't just talking about a house; she was talking about their soul. She was drawing a permanent line in the dirt.
+
+"We build in harmony," Wyatt vowed, nodding in total agreement. He reached out, his calloused thumb gently brushing her cheek. "We only take what the forest can spare. We use the fallen timber. We use the river stones. We run *The Nomad* entirely on the solar arrays so we never risk a nuclear leak. We leave the landscape exactly as beautiful as we found it."
+
+Sarah smiled, a radiant, deeply peaceful expression that made the golden sunlight pale in comparison. She laced her fingers through his, resting their joined hands on his knee.
+
+"A real home," she whispered.
+
+"A real home," Wyatt promised.
+
+They sat on the warm stone for a long time, the ambient hum of the forest acting as a soothing balm to their scarred nerves. They had seen the absolute worst of what humanity was capable of, and they had barely survived it. But sitting barefoot by the river, holding hands in the quiet afternoon, they made a silent pact to only bring the very best of humanity to Exoplanet 4.
+

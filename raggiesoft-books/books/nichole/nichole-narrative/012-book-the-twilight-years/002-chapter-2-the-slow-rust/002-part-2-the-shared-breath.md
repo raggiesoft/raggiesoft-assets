@@ -1,0 +1,44 @@
+# Part 2: The Shared Breath
+
+## Date: March 3, 2055 Age: 69 Location: The Bennett Wing
+
+The heart failure started as a whisper in Patrick's chest. He would get winded pushing the chair up the ramp. He would have to stop halfway down the hall to catch his breath. Dr. Vance’s successor, a young cardiologist named Dr. Aris, showed them the echocardiogram on a holographic tablet. "Your heart is tired, Mr. Bennett," the doctor said gently. "It’s been doing the work of two people for a very long time. Your ejection fraction is down to 25%."
+
+At the same time, Nichole’s scoliosis finally compressed her lung capacity to the critical point. Her shallow breathing wasn't enough to clear the carbon dioxide. She was waking up with headaches, groggy and disoriented.
+
+The medical recommendation was standard: Continuous oxygen therapy for both. "I'm prescribing two Aether-Go portable concentrators," Dr. Aris said. "You'll wear them over your shoulder like a satchel."
+
+Patrick tried it for one day. He hated it. The strap dug into his shoulder, and the weight of the unit made his back ache, which only made his heart work harder. He found himself "forgetting" to put it on.
+
+## The Solution
+
+Three days later, Patrick rolled Nichole’s chair into the workshop. He took a sheet of lightweight aluminum. He measured the dimensions of the two medical devices. He didn't just tape them on. He fabricated a custom Dual-Unit Cradle.
+
+He bolted the cradle to the back frame of Nichole’s power chair, right behind the headrest. He slotted Nichole’s concentrator into the left bay. He slotted his concentrator into the right bay.
+
+He ran Nichole’s cannula tubing through a guide clip he installed on her headrest, keeping it neat and out of her way. Then, he attached his own cannula. The tubing was six feet long. It draped from the back of her chair to his nose.
+
+The Inspection
+
+When Dr. Aris came for the follow-up, he stared at the contraption. "Mr. Bennett," the doctor sighed. "You've mounted your life support to your sister's wheelchair."
+
+"Efficiency, Doc," Patrick said. "Why carry the weight when the Bennett Machine has a motor? This way, I don't get back pain, and my heart rate stays down."
+
+"And what happens if you want to go to the other room?" Dr. Aris asked.
+
+"I don't," Patrick said simply. "Where she goes, I go."
+
+Dr. Aris looked at the tubing. It was literally a leash. Patrick had tethered himself to Nichole. If he tried to walk away, the tube would pull taut. "It ensures compliance," Patrick added, using the medical term he knew the doctor liked. "I can't 'forget' my oxygen if it's parked in front of me."
+
+The doctor looked at Nichole. She was smiling. She tapped her screen. HE. IS. MY. TRAILER.
+
+Dr. Aris chuckled and signed the chart. "Creative," the doctor admitted. "As long as the tubing doesn't get caught in the wheels, I’ll allow it."
+
+The Walk
+
+That afternoon, they went for a walk in the garden. Nichole drove the power chair. Patrick walked two steps behind her, to the right. The clear plastic tube draped between them, swaying gently with every step.
+
+For sixty years, Patrick had pushed her. He had been the engine. Now, the dynamic had flipped. Her chair was carrying the weight. She was the oxygen source. She was pulling him along.
+
+Patrick took a deep breath of the cool, concentrated air flowing from the back of her chair. He watched the back of her head. "Lead the way, Nikki," he whispered. She tapped the joystick forward. The tether tightened just slightly, and they moved forward, one single unit.
+

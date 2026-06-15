@@ -1,0 +1,64 @@
+# Part 5: The Constitution – Monday, May 13, 2045 – 09:00
+
+The morning sun filtered through the hydro-glass windows of the library, casting a warm, natural light over the rich mahogany panels. The torrential rain of the super-cell storm had completely passed, leaving behind a flawless, brilliant blue sky over the flooded valley.
+
+Wyatt and Sarah were sitting at the massive holographic glass table. Following the unspoken comfort of the Eden Rule, they were entirely bare, the estate's perfect 21.6°C ambient air wrapping around them.
+
+But the atmosphere at the table was anything but relaxed.
+
+Hovering in the air between them was a staggering, complex web of logistical data. Wyatt’s nightmare from the night before had sparked a very real, waking panic regarding the Genesis Vault.
+
+"Okay, look at this," Wyatt said, rubbing his heavy hands over his face before pointing at a cascading column of resource metrics. "If we decant just five hundred people for the second generation, the housing requirements alone are massive. We need plumbing. We need to expand the geothermal grid. We need an agricultural yield that requires at least four square kilometers of tilled land. And that’s just for five hundred. We have *fifty thousand* down there."
+
+Sarah leaned back against the plush leather sofa, resting her hands protectively over the firm, pronounced swell of her lower abdomen. The sheer scale of the numbers was dizzying.
+
+"Wyatt, my head is spinning," Sarah sighed, letting her eyes drift away from the glowing blue logistics. "It's just the two of us right now. We haven't even printed the cribs for the triplets yet. Can we please just put a pin in this? The vault is frozen. They aren't going anywhere. We can figure out how to run a city in a decade."
+
+Wyatt looked at her, his protective instincts warring with his mechanical pragmatism. He desperately wanted to just shut the terminal off and spend the day relaxing by the indoor pool with his pregnant wife.
+
+"I want to put a pin in it, Sarah," Wyatt said, his voice a low, earnest rumble. He reached across the table, taking her hand. "Believe me, I do. But if we don't lay the foundation now, we're going to be making it up as we go. When those kids wake up and grow into adults, they are going to look to us for how things work. How do they get a house? How is food distributed? What happens if someone breaks a rule?"
+
+He squeezed her fingers gently. "We aren't just building a farm, Sarah. We're building a civilization. We have to draw the blueprints before we pour the concrete."
+
+Sarah looked at the glowing data, taking a slow, steadying breath. He was right. If they didn't define the rules of their new world, human nature would eventually define the rules for them.
+
+"Okay," Sarah agreed, her analytical mind reluctantly but firmly re-engaging. "We need a system. An economy. Laws. But Wyatt, we were grunts. I don't know the first thing about macroeconomics, and we both just spent our entire morning laughing about how you're committing interstellar tax evasion."
+
+"Which is exactly why we need to figure out if our society even *has* taxes," Wyatt smirked, the irony not lost on him. He looked up at the ceiling array. "Aria. We need a crash course in political science and economics. How do we run a planet?"
+
+The server tower in the corner hummed, and the massive logistical web on the table instantly dissolved, replaced by a series of glowing, branching organizational charts.
+
+*"I have accessed the sociological and historical archives, Administrators,"* Aria’s pleasant, synthesized voice echoed through the library. *"I can provide comprehensive models for every recorded system of human governance. I can simulate the long-term resource allocation of a democratic republic, a meritocracy, a localized socialist collective, or a post-scarcity resource-based economy."*
+
+"Perfect," Sarah said, sitting up straight. "Aria, run the simulations. Tell us which one is the most stable for an isolated, closed-loop population of fifty thousand, and generate the foundational laws."
+
+The glowing blue ring on the table pulsed, but the text hovering in the air immediately flashed yellow.
+
+*"I apologize, Sarah,"* Aria replied, her tone shifting seamlessly into her firm, clinical safety cadence. *"I cannot execute that command. As a narrow Generative AI, my core programming strictly prohibits me from defining legislation, establishing statehood, or governing a human populace."*
+
+Wyatt raised an eyebrow. "You can't even recommend the best option?"
+
+*"I can model the statistical probabilities of success for each governmental framework based on historical data,"* Aria clarified. *"I can explain the mechanics of fiat currency versus a labor-backed resource economy. I can project the infrastructural needs of a taxation system. However, the actual selection of the government, the drafting of the laws, and the execution of authority must be unequivocally authored by human agents. I am an archivist, a simulator, and an advisor. I cannot be an autocrat."*
+
+Wyatt let out a low whistle, looking over at Sarah. The paranoid billionaire had been absolutely terrified of a machine taking over his utopia. He had hard-coded Aria to be the ultimate librarian, completely stripping her of the ability to rule.
+
+"She won't write the constitution for us," Wyatt translated, a slow, deeply respectful grin spreading across his face. "She's forcing us to be the architects."
+
+"Okay," Sarah said, the challenge igniting a fierce, pioneer spark in her dark eyes. "If we have to write the rules, let's start with the one thing we both know we absolutely hate. Apex Defense Solutions."
+
+Wyatt nodded instantly. "No corporate oligarchies. No one owns the air, the water, or the land. The planet belongs to the people."
+
+"And no currency based on arbitrary debt," Sarah added, leaning over the table. "Aria, pull up the models for a post-scarcity resource economy. If the Fabrication Foundry can molecularly print anything we need using raw elements, and the solar grid provides infinite power, why would we invent money? Why would we invent taxes?"
+
+*"Loading economic models for localized post-scarcity frameworks,"* Aria chimed, returning to her helpful baseline. A new set of data materialized, showing resource distribution networks and labor-allocation graphs. *"In a system where basic survival needs—food, water, shelter, and healthcare—are fully automated and guaranteed to all citizens, traditional fiat currency becomes obsolete. However, you must establish a framework for the allocation of finite luxury resources and the division of necessary manual labor, such as agricultural expansion and infrastructure maintenance."*
+
+"We trade time and skill, not credits," Wyatt suggested, his mechanic's brain locking onto the practical mechanics of the idea. "Everyone pitches in to maintain the colony. You work a few hours a week in the gardens or the foundry, and in exchange, you have absolute access to the estate's resources. No one goes hungry. No one sleeps on a thirty-inch mattress on a concrete floor."
+
+"A society built on mutual contribution, not extraction," Sarah whispered, her hands resting over her stomach. The future she was imagining for the three tiny lives growing inside her was suddenly coming into sharp, beautiful focus.
+
+They weren't just going to be parents. They were the founding mother and father of an entirely new way of living.
+
+"We have a lot of reading to do," Wyatt said, looking at the massive holographic models of governance hovering above the table.
+
+"We have the rest of the year to write the constitution," Sarah smiled, perfectly content in the quiet warmth of the library. "Aria, pull up the archives on early agrarian democracies. Let's see how our ancestors did it."
+

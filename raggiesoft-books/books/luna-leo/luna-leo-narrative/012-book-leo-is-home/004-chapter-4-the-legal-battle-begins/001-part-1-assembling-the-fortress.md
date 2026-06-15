@@ -1,0 +1,36 @@
+# Part 1: Assembling the Fortress
+
+On Monday morning, December 1st, 2003, Stella walked into the downtown Norfolk law office of Sarah Jenkins. She was not alone; Arthur and Eleanor Bennett were with her, their presence a silent, solid wall of support. Stella carried a thick, meticulously organized folder.
+
+Sarah Jenkins greeted them with a warm but professional expression, ushering them into a conference room. "Stella, Mr. and Mrs. Bennett. Please, have a seat. I got your message. Tell me what's happened."
+
+Stella took a deep breath and opened the folder on the polished mahogany table. "It's worse than we thought," she began, her voice steady and devoid of hysterics. She was all business. "Delores Mahone took Leo to Washington State, and we had to execute an emergency rescue."
+
+For the next half hour, Stella laid out the case. She presented the printed, harrowing testimony Leo had written on his MagnaByte Opus , followed by Olivia's detailed witness statement. She then walked the lawyer through the financial documentation: the receipts for the flight and new clothes , and the invoice for the destroyed **Quantum Communicator XT**.
+
+Sarah Jenkins listened intently, her expression growing grimmer with each new piece of evidence. When Stella was finished, the lawyer looked up, her eyes hard with a professional fury. "Stella, this is... this is more than just a civil matter for damages. The financial costs are clear, but what you're describing—transporting an incapacitated adult across state lines without the consent of his legal guardians—that's kidnapping. A federal offense."
+
+"I know," Stella said, her voice like ice. "That's why we're here. We are going after her for everything. We'll file the civil suit for the costs, but I also want to press **criminal charges for kidnapping**."
+
+Just as Sarah was about to respond, the intercom on her desk buzzed. Her assistant's voice was apologetic but firm. "Sarah, I'm sorry to interrupt, but there's a Detective Miller from the Kent, Washington Police Department on the line for a Ms. Stella Porter. He says it's urgent and it concerns Delores Mahone."
+
+Stella, Arthur, and Eleanor froze, exchanging stunned, confused glances. *Kent, Washington? How could they possibly know already?*
+
+Sarah, sensing the sudden shift, immediately pressed a button on her phone. "Put him through to the conference line." A moment later, a man's voice, professional and calm, filled the room.
+
+"Ms. Stella Porter? This is Detective Miller with the Kent Police Department. I'm calling to inform you that we have a Ms. Delores Mahone in custody here in Kent."
+
+Stella was speechless. The detective continued, "She was turned in by her aunt, Carol Mahone, yesterday morning. Based on her aunt's testimony and Ms. Mahone's own statements, she has been arrested in connection with the abandonment of your brother, Leo Porter, and the destruction of his property. Because this incident involved transporting Mr. Porter across state lines, we have notified the **FBI**, who will be taking lead jurisdiction on the **federal kidnapping charge**."
+
+A heavy silence descended on the conference room as the detective finished. Stella could only manage a choked, "Thank you, Detective. My lawyer and I will be in touch."
+
+After the call ended, Sarah Jenkins leaned back in her chair, a look of grim astonishment on her face. "Well," she said slowly. "That certainly accelerates things. It seems her own family started the legal process for us. This is no longer a case we need to *initiate*; it's an active, multi-jurisdictional federal investigation that we are now a party to."
+
+Stella took a shaky breath, the shock giving way to a cold, hard resolve. She looked at her grandparents, who both gave her a supportive nod. "Good," Stella said. "Now," she said to Sarah, her voice firm with a new sense of purpose, "is there anything else?"
+
+"Yes, actually. This whole incident has made it clear that we need to strengthen Luna and Leo's long-term protection. We would like to formally petition the court to add Olivia Walker as a co-guardian and co-conservator for both of them, with the authority to act jointly and severally, just like us."
+
+Sarah Jenkins blinked, then a small, impressed smile touched her lips. "Given her heroic actions, I think that is an exceptionally wise and forward-thinking decision. I can begin drafting that petition right away."
+
+Leaving the office, Stella felt a dizzying mix of grim satisfaction and shock. The wheels of justice weren't just in motion; they were already spinning at a speed she couldn't have imagined.
+

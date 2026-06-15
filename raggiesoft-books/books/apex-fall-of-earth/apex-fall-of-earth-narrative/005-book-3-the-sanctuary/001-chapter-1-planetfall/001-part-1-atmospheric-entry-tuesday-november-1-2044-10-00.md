@@ -1,0 +1,94 @@
+# Part 1: Atmospheric Entry – Tuesday, November 1, 2044 – 10:00
+
+The chaotic, overlapping screams of the backlogged radio intercepts slowly faded from their minds, replaced once again by the steady, localized hum of *The Nomad’s* idling fusion core.
+
+Wyatt ripped the long sheet of perforated paper from the dot-matrix printer. He folded it neatly and set it on the edge of the console, a silent, physical memorial for the billions of souls currently scattering into the stars.
+
+He took a deep breath, letting the heavy, suffocating grief of the past slip away. He turned his attention back to the massive viewport and the brilliant, swirling blue-and-green jewel suspended directly in front of them.
+
+"We need a place to park," Wyatt said, his voice dropping back into its steady, mechanical baseline. He slid into the heavy leather captain’s chair, his bare feet resting comfortably against the base of the analog console.
+
+Sarah wiped the last tear from her cheek, her innate resilience locking back into place. She stepped up to the terminal beside him, her eyes tracing the swirling white cloud cover of their new world.
+
+"Aria," Wyatt called out, aiming his voice toward the ambient microphone array in the ceiling. "Run a full topographical and atmospheric sweep of Exoplanet 4 using the ship’s passive sensor arrays. We need a landing zone."
+
+A moment later, the heavy amber CRT monitor flickered. The chaotic, unencrypted metadata from the Earth broadcast vanished, replaced by a clean, geometric wireframe projection of the planet below.
+
+*"Scanning now, Wyatt,"* Aria’s pleasant, synthesized voice echoed through the bulkhead speakers. *"Atmospheric telemetry confirms the archived data. The nitrogen-oxygen mix is perfectly stable and free of toxic particulates. The magnetosphere is robust. The surface is entirely viable for baseline human habitation."*
+
+"Where do we put her down?" Sarah asked, leaning over Wyatt’s shoulder to look at the scrolling data on the amber screen. "She's a Heavy Hauler, Aria. We can't just land in a meadow. If the soil is too soft, the landing struts will sink, and the hull will capsize under its own weight."
+
+*"Factoring hull tonnage and structural footprint,"* Aria replied smoothly. The wireframe globe on the monitor rotated, zooming in on the northern hemisphere. A specific quadrant flashed with a bright amber targeting reticle.
+
+*"I have identified an optimal landing vector. It is a massive, elevated plateau composed of dense, stable silicate bedrock. It will easily support The Nomad's mass without subsidence. Furthermore, it is situated precisely between a high-volume freshwater river and a sprawling temperate forest biome. It provides absolute geological stability while offering immediate access to raw agricultural and aquatic resources."*
+
+Sarah smiled, a spark of pure excitement lighting up her eyes. "Rock to park on, dirt to plant in, and a river for fresh water. It's perfect."
+
+"Good eye, Aria," Wyatt said, gripping the heavy mechanical steering column. "Lock the coordinates into the nav-computer, initiate the atmospheric entry burn, and deploy the landing struts."
+
+The server hummed for exactly one second. Then, the text on the amber screen flashed yellow.
+
+*"I'm sorry, Wyatt,"* Aria stated. Her tone instantly shifted, dropping the warm, conversational cadence for a calm, firm, and entirely unambiguous procedural voice. *"I cannot execute that command. My core architecture absolutely prohibits me from interfacing with the ship’s propulsion, navigation, or landing hydraulics. I cannot pilot this vessel or initiate a burn sequence."*
+
+Wyatt let out a short, highly amused laugh. The billionaire who built this dreadnought had been so terrified of his own creation that he had hard-coded the ultimate safety net. Aria could calculate the exact physics of a planetary landing in milliseconds, but she couldn't press a single button to make it happen. She was the mind. Wyatt was the hands.
+
+"Understood, Aria. Just display the entry vector on the primary monitor. I'll take it from here."
+
+*"Displaying optimal descent corridor now,"* Aria replied, her voice instantly returning to its helpful, pleasant warmth. *"Please be advised, The Nomad is not aerodynamically shielded for stealth. Atmospheric friction will cause significant turbulence. Please secure yourselves."*
+
+"Grab the railing," Wyatt told Sarah, his hands locking onto the heavy throttle levers.
+
+Sarah braced her bare feet against the grated floor plates and gripped the heavy steel bar lining the edge of the console.
+
+Wyatt shoved the throttles forward and banked the heavy steering column downward.
+
+*The Nomad* didn't glide into the atmosphere; it dropped like an anvil. The moment the dreadnought’s blunt, heavy-iron nose hit the exoplanet's exosphere, a deafening, violent roar echoed through the hull.
+
+The deck plates began to shake violently. The inertia pushed Wyatt back into the heavy leather chair. Through the massive, scratch-resistant viewport, the clear blue sky instantly ignited. A ferocious wash of superheated, bright orange plasma engulfed the glass as the ship’s ablative armor absorbed the staggering friction of reentry.
+
+"Heat shields are holding!" Wyatt shouted over the roar, his muscular arms straining as he physically wrestled with the heavy analog steering yoke to keep the massive freighter centered in Aria’s projected corridor.
+
+It was a brutal, shaking, teeth-rattling descent. But the billionaire’s retrofitted dreadnought was built to survive exactly this kind of punishment.
+
+Suddenly, the violent shaking smoothed out. The blinding orange plasma wash faded, peeling back to reveal the world below.
+
+Sarah gasped.
+
+They had punched through the cloud layer. Below them stretched a breathtaking, endless expanse of untouched wilderness. Massive, towering green forests gave way to deep, winding canyons. In the distance, a sprawling, crystal-clear river cut through the landscape, glittering under the light of a golden, foreign sun.
+
+"There it is," Wyatt said, banking the ship gently to the starboard side.
+
+Directly ahead of them, perfectly matching Aria's topographical scan, was a massive, flat plateau of dark, solid bedrock overlooking the river valley.
+
+Wyatt pulled back on the throttles. The deep, guttural roar of the primary engines shifted into a high-pitched, mechanical whine as the vertical repulsorlifts engaged.
+
+He reached over and slammed a heavy brass toggle switch on the console.
+
+*CLANG-CLANG-CLANG-CLANG.*
+
+Four massive, hydraulic landing struts deployed from the ship's underbelly, locking into place with bone-rattling force.
+
+Wyatt expertly hovered the massive ship over the center of the plateau, bleeding off their momentum. He took a breath, looked at Sarah, and pulled the throttles to zero.
+
+*THOOM.*
+
+*The Nomad* hit the bedrock. The massive shock-absorbers in the struts groaned, taking the full weight of the dreadnought before finally settling.
+
+The thrusters whined down, spinning slower and slower until the Operations center was completely consumed by silence.
+
+They had stopped moving. The deck plates weren't vibrating. The FTL hum was gone.
+
+Wyatt let go of the steering column. He sat back in the leather chair, looking out the viewport at the blue sky, the green trees, and the warm sunlight spilling across the rock.
+
+"Aria," Wyatt asked, his voice quiet. "Atmospheric pressure outside the hull?"
+
+*"External atmosphere is perfectly stable at 1.02 Earth-standard gravity,"* Aria confirmed smoothly. *"Zero toxins detected. The air is safe to breathe."*
+
+Sarah let go of the steel railing. She looked at Wyatt, her chest heaving with the sheer adrenaline of the landing, a brilliant, overwhelmed smile breaking across her face. They had crossed the galaxy, outrun an apocalypse, and successfully parked a stolen billionaire's dreadnought in the middle of paradise.
+
+"We're here," she whispered.
+
+Wyatt stood up from the captain's chair, offering her his hand.
+
+"Let's go open the front door."
+

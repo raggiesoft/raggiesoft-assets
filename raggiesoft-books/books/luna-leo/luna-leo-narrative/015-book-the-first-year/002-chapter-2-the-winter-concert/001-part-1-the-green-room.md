@@ -1,0 +1,24 @@
+# Part 1: The Green Room
+
+## December 15, 2006 Fine Arts Center - Backstage 07:30 PM
+
+The backstage area smelled of rosin, valve oil, and nervous sweat. The Wind Symphony members were in their "Concert Black"—tuxedos for the men, long black gowns or pant suits for the women.
+
+Luna sat in her ergonomic chair (the one she bought) in the warm-up room. She was wearing a simple, elegant black silk blouse and slacks that allowed for deep diaphragmatic breathing.
+
+She was polishing the Orpheus 680. The silver was blinding under the dressing room lights.
+
+Jenna (the Senior she had displaced) walked over.
+
+"Nervous?" Jenna asked.
+
+"A little," Luna admitted. "The Vivaldi is exposed. If I breathe in the wrong spot, the whole phrase dies."
+
+"You won't," Jenna said confidently. "You have lungs like a diver. Just let the silver do the work."
+
+Jenna patted Luna’s shoulder.
+
+"Break a leg, Principal. The section is right behind you. Literally."
+
+Luna smiled. She wasn't fighting for the chair anymore. She was the chair.
+

@@ -1,0 +1,33 @@
+# Part 2: The Calendar Keeper
+
+A few weeks into their sophomore year, the entire student body of Northwood High was still struggling to adapt to the new A/B block schedule. The alternating "Purple" and "Gold" days, combined with the weekly flip-flop of the rotation, had created a low-grade, school-wide state of confusion.
+
+The five-minute passing period between first and second block was a human traffic jam, made even more chaotic by students stopping dead in their tracks to stare at their schedules with baffled expressions. Alex and Chloe were part of that slightly bewildered herd.
+
+"Okay, wait," Chloe said, pausing near a bank of lockers as students swirled around them. "Yesterday was a Gold Day, and this is the second week, so today has to be... Purple, right?" She looked at Alex, her expression one of genuine uncertainty.
+
+Alex, however, was a picture of calm. He tapped a button on his Quantum Communicator XT, and the screen switched from his communication app to his Quantum Organizer calendar program. He had spent hours at the beginning of the semester meticulously inputting the entire alternating Purple/Gold day schedule for the whole year. He pointed to the entry for today's date. It was highlighted in a bold purple color, with the simple label: PURPLE DAY.
+
+Chloe peered at the screen and let out a relieved laugh. "Oh my god, you are a lifesaver. I can't keep it straight in my head."
+
+Just then, they spotted him: a textbook case of a lost freshman. He was standing stock-still, staring at his printed schedule with an expression of pure, unadulterated panic.
+
+Chloe and Alex exchanged a look of perfect, empathetic understanding. That was them two weeks ago. Chloe began to push Alex's chair, smoothly maneuvering them out of the main flow of traffic and pulling up beside the bewildered ninth-grader.
+
+"Hey," Chloe said, her voice friendly and calm. "You look like you've seen a ghost. You lost?"
+
+The freshman looked up, his face a mask of profound relief. "Oh my god, yes! Thank you! I have... uh..." he squinted at his schedule, "...Mr. Henderson for English? But I can't remember if it's a Purple or Gold Day, and I don't know which wing to go to."
+
+"You're in luck," Chloe said with a grin. "My friend here is the official keeper of the schedule."
+
+Alex turned his AAC screen so the freshman could see the clear, purple-highlighted entry for the day. The boy's face flooded with understanding. "Oh! It *is* a Purple Day! Thank you! So... Henderson is in the 400 wing?"
+
+ONLY ON GOLD DAYS, Alex's device voiced, its tone helpful. ON PURPLE DAYS, HE IS IN THE 200 WING. ROOM 214.
+
+The freshman looked like he might weep with gratitude. "Thank you! Seriously, thank you! I was about to have a total meltdown."
+
+"Don't worry about it," Chloe said kindly. "We're all still getting the hang of it. Henderson's room is on our way to Biology. Come on, we'll show you."
+
+The three of them set off, the grateful ninth-grader walking beside them as Chloe pushed Alex's chair. The new schedule was a challenge for everyone, but thanks to Alex's foresight and his trusty Quantum Organizer, he and Chloe had become the unlikely, unofficial navigators of Northwood High's new and confusing rhythm.
+
+

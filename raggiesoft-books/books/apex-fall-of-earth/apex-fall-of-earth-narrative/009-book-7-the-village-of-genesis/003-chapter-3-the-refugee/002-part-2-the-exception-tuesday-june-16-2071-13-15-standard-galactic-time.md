@@ -1,0 +1,68 @@
+# Part 2: The Exception – Tuesday, June 16, 2071 – 13:15 (Standard Galactic Time)
+
+Jack’s silver runabout touched down on Pad 2 of the Lunar Embassy with a soft, magnetic hum. He didn’t wait for the boarding ramp to fully extend before he was moving, his long legs carrying him swiftly through the pressurized hydro-glass corridors in Anchor’s 0.48G environment.
+
+He found Ellie waiting outside the Embassy’s primary triage center. At twenty-five, the Commander of the Vanguard was a formidable presence. She stood with her arms crossed over her tactical vest, her dark eyes tracking the frantic movement of the Earth Remnant medical staff through the glass doors.
+
+"Talk to me, El," Jack said, coming to a halt beside her.
+
+"Her ship is a total write-off," Ellie reported, her voice clipped and analytical. "No transponder codes, no flight logs. The hull is stitched together from scrap. She hit the deck hard. Anchor’s defense grid almost swatted her out of the sky, but she was broadcasting a continuous, unencrypted SOS on a loop."
+
+Jack looked through the glass. Sitting on a bio-bed, surrounded by two Remnant medics, was a young woman. She looked to be in her mid-twenties. She was swathed in a silver thermal blanket, shivering violently despite the climate-controlled air. Her face was pale, marred by a dark, blooming contusion across her cheekbone, and her clothes were little more than scorched rags. She looked completely, utterly terrified.
+
+Jack’s chest tightened. His diplomatic training was built on a foundation of profound, gravitational empathy, and seeing someone so broken instantly triggered his need to help.
+
+He keyed the door open and stepped inside, projecting absolute calm.
+
+The Remnant medics parted slightly as Jack approached. The woman flinched, pulling the thermal blanket tighter around her shoulders, her wide, exhausted eyes darting from Jack to the door.
+
+"It's okay," Jack said softly, holding his hands up, palms open, keeping a respectful distance. His melodic voice instantly lowered the temperature in the room. "You're safe now. My name is Jack Colton. I'm the liaison for this outpost."
+
+The woman stared at him, her breathing shallow. She swallowed hard, wincing in pain. "Sloane," she whispered, her voice raspy and dry. "But... it's pronounced Slow-anne."
+
+"Slow-anne," Jack repeated gently, committing the unique cadence of her name to memory. "Where did you come from?"
+
+"Outer Rim... a scavenger colony," Sloane breathed, a tear slipping down her bruised cheek. "Pirates hit the settlement. I just... I ran to the ship. I didn't know where I was going. The nav-computer just kept flying until the engines gave out."
+
+Jack looked at the lead Remnant medic, an older man named Dr. Hayes. "What's her status, Doc?"
+
+"She's stable, but she's a mess, Jack," Hayes sighed quietly. "Severe malnutrition, dehydration, and she took a massive kinetic impact to her left side during the crash. She has internal micro-fractures and a lacerated spleen. We can pump her full of fluids and painkillers here, but the Embassy doesn't have the molecular regeneration tech to heal internal organ damage of this magnitude. If she stays up here, it's going to be a long, dangerous recovery."
+
+Jack looked back at Sloane. She was trembling, her eyes squeezed shut as another wave of pain washed over her.
+
+Jack turned on his heel and walked back out into the corridor, motioning for Ellie to follow him out of earshot. He tapped his comm-cuff, opening a direct line to the planetary surface. "Dad, are you reading the medical scans?"
+
+*"I'm looking at them now, Jack,"* Wyatt’s deep voice rumbled over the encrypted channel. *"Dr. Hayes is right. Her internal injuries are extensive."*
+
+"We can't leave her up here, Dad," Jack stated firmly. "Anchor doesn't have the trauma bays. Sub-Level 6 does. I want to bring her down to the mountain."
+
+Ellie stiffened instantly. "Jack, wait. The Sentinel Directive. We do not breach the Aegis shield for unknown variables. She is an unregistered refugee. We have zero background data on her. Bringing her down to the planet compromises the perimeter."
+
+"She’s a dying girl, Ellie," Jack countered, his voice remaining remarkably calm but completely unyielding. He looked at his sister, his deep empathy refusing to back down against her tactical logic. "We built this entire civilization to save humanity. What's the point of having the most advanced medical bay in the galaxy if we let a refugee bleed out on our front porch because we're too scared to open the door?"
+
+Ellie held his gaze. She processed the logistics, the threat matrix, and the absolute sincerity in her brother's eyes.
+
+*"Jack's right,"* Wyatt’s voice crackled over the comms, settling the debate with quiet, parental authority. *"Humanity comes first. But Ellie is also right about the security protocols. We make an exception, but it's a controlled exception."*
+
+"Understood," Jack said. "What are the parameters?"
+
+*"You bring her down in the runabout,"* Wyatt ordered. *"She goes straight from the hangar to the medical wing on Sub-Level 6. She does not leave the medical bay, and she does not get access to the rest of the mountain or the village until she is healed and we can fully vet her story. You found her, Jack, so she is your patient and your diplomatic responsibility."*
+
+"I accept," Jack said immediately.
+
+Ellie let out a short, sharp exhale, but gave a single nod. "I'll prep the med-bay and have Nora standing by for triage."
+
+Jack turned back into the triage room. He walked over to the bio-bed, offering Sloane a warm, reassuring smile.
+
+"Sloane," Jack said softly. "The medical facilities up here aren't equipped to fix your internal injuries. But my family has a trauma center down on the planet. I'm going to take you there. We're going to get you healed."
+
+Sloane looked up at him, her eyes brimming with fresh tears of pure relief. "You'd... you'd do that for me? A stranger?"
+
+"You're not a stranger anymore," Jack smiled, gently placing a hand on the edge of her bio-bed. "We're going to take good care of you."
+
+With the help of Dr. Hayes, Jack carefully transferred Sloane to a mobile anti-grav stretcher. He personally guided her through the pristine corridors of the Lunar Embassy and up the ramp of his silver runabout.
+
+As Jack strapped himself into the pilot's seat and requested clearance through the Aegis shield, he glanced back at Sloane. She was resting in the medical bay of the ship, the pain medication finally allowing her to relax into a fragile, exhausted sleep. Jack engaged the repulsorlifts, feeling a profound sense of purpose. He was doing exactly what he was born to do: extending a hand into the dark to pull someone into the light.
+
+He aimed the nose of the ship toward the lush, green-and-blue surface of Planet Eden, completely unaware of the poison he was bringing into his home.
+

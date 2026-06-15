@@ -1,0 +1,38 @@
+# Part 1: The Call and the Land
+
+The waiting was the hardest part. Their "runway fund" was slowly shrinking, a constant, quiet pressure. They poured their nervous energy into refining their plans, but the fate of their dream rested in the hands of a committee they had never met.
+
+The call came on a Tuesday morning in early March. The three of them were in their shared office, a tense, quiet energy filling the room. Chloé’s phone buzzed with an unknown number. She answered, putting it on speakerphone for all of them to hear.
+
+"Hello, Chloé Miller speaking."
+
+She listened, her eyes widening. She sank into a chair, her hand flying to her mouth. "Yes... Yes, I understand... Oh my God... Thank you. Thank you so much."
+
+She hung up the phone, her face pale with shock. She turned to Alex and Megan, who were watching her, their own hearts pounding.
+
+"We got it," she whispered, the words barely audible. Then, her voice rose to a joyous, disbelieving shout. "We got it! The Cascade Family Trust! They're funding us! The whole grant! We got it!"
+
+The sound that escaped Alex was a raw, guttural cry of pure, explosive joy. Megan let out a whoop that was a mixture of a laugh and a sob. The tension of the last three months, of the last *thirteen years*, shattered in an instant. The three of them met in the middle of the room in a chaotic, triumphant group hug, a culmination of a lifetime of shared dreams.
+
+The grant didn't just give them money; it gave them the power to act. The first call they made was to a real estate agent. A week later, the three of them were standing on a beautiful, wooded 10-acre plot of land in Lynnwood. The air was cool and smelled of damp earth and pine. They had just signed the papers. It was theirs.
+
+Chloé held up her phone, a map of the TAPS system glowing on the screen. She pointed to a cluster of bus stop icons just a short, accessible walk from their new property line. "There it is," she said, her voice full of a quiet, triumphant satisfaction. "Route 112. And the Swift Orange Line. It took us two years of searching to find land this perfect that was this close to the Transit Center, but it was non-negotiable."
+
+IT HAS TO BE ACCESSIBLE, Alex's device voiced. FOR EVERYONE. THE VOLUNTEERS, THE STAFF... THE KIDS WHO COME TO VISIT.
+
+"Exactly," Chloé agreed.
+
+That evening, back in their apartment, the celebration continued, but it was a quiet, more focused one. While Chloé and Megan were on a video call, joyfully telling their parents the news, Alex was at his computer. The LDCC was now a reality. It was time for his other dream to take its next step, too.
+
+He opened the control panel for his Echo Bridge website. With a new, profound sense of confidence, he uploaded a new file. A moment later, he pushed the update live.
+
+IT'S DONE, he announced, his voice pulling Chloé and Megan's attention from their call.
+
+They came over to his desk. On the "Projects" page of his website, under the description for Echo Bridge Axon, there was a new, bold hyperlink:
+
+Download Axon v0.9 (Public Beta)
+
+"Cuz," Megan breathed, her voice full of awe. "You're really doing it. You're putting it out there."
+
+He looked from his wife to his cousin, a slow, triumphant smile on his face. The Lynnwood Discovery and Care Center was their shared, non-profit mission. But Echo Bridge, his for-profit software company, was his own personal contribution to the world, the tool he had built to give others a voice. The two dreams were no longer just plans on a whiteboard; they were real. They were happening. And the work was just beginning.
+

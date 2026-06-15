@@ -1,0 +1,21 @@
+# Part 4: Closure – 4:40 PM
+
+In the dining room, Jessica let out a fierce, triumphant laugh, high-fiving Janette so hard the sound echoed off the dark-stained table. The teenage guard didn't just feel safe; they felt victorious.
+
+Mom walked up to Dad and threw her arms around his neck, burying her face in his shoulder. She had spent weeks coordinating with Mr. Vance, navigating the ruthless legal strategy, and fighting the bureaucracy of the insurance companies. Seeing the fluorescent orange sticker on the glass was the ultimate validation that her maternal fury had successfully burned Ray's empire to the ground.
+
+"We got them, Tom," Mom whispered fiercely, wiping her eyes. "We took it all."
+
+"We took it all," Dad agreed, kissing the side of her head.
+
+Dad pulled back and handed the Polaroid to Jessica. "Jess, take this. Pin it to the corkboard in the kitchen. Right next to the emergency numbers. I want it visible."
+
+Jessica took the photograph like it was a war trophy. She marched into the galley kitchen, retrieved a red push-pin, and drove it firmly through the top of the Polaroid, locking the image of the empty, defeated suite onto the wall.
+
+On the sofa bed, Rachel reached her pale hand across the pillows. I laced my fingers through hers.
+
+Her mutism was still an impenetrable vault. The physical pain of the medical binder was still agonizing. The four-month sentence was far from over. But as we lay flat on our backs in the quiet living room, surrounded by the pack, the air felt fundamentally different.
+
+The Monday War was officially over. The Ragsdale pack had won.
+
+

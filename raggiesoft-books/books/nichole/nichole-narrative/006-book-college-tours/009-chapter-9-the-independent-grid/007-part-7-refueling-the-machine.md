@@ -1,0 +1,56 @@
+# Part 7: Refueling the Machine
+
+## Date: November 15, 2003 Time: 12:00 PM Location: The Bull Pen (Main Cafeteria), BSU Student Union
+
+They didn't have to brave the cold to find lunch. They simply rolled out of the Financial Aid seminar, took the elevator down to the Concourse Level, and merged into the flow of "The Bull Run"—the student nickname for the campus tunnel network.
+
+The tunnels weren't dark or damp. They were wide, well-lit thoroughfares lined with bulletin boards, student art, and digital displays. Patrick pushed Nichole along the smooth concrete, feeling the difference immediately. On a sidewalk, every crack was a micro-collision. Here, the Titan AeroMotion glided silently.
+
+They followed the smell of grilled burgers and fries until the tunnel opened up into "The Bull Pen"—the massive central dining hall of the Student Union.
+
+It was chaotic, loud, and smelled amazing.
+
+Patrick pulled out the two meal vouchers they had been given at check-in. They navigated the serving stations—which, Nichole noted, had tray slides at perfect wheelchair height—and loaded up on pizza, salad, and sodas.
+
+"Target acquired," Patrick said, spotting an empty table near a structural column.
+
+They claimed the spot. It wasn't just a random table; it was a strategic position.
+
+Nichole glanced at the bottom corner of her screen. 71%.
+
+It was plenty of battery to finish the day, but the "Bennett Machine" operated on redundancy. If there was power available, you took it.
+
+"I'm gonna top off," she clicked.
+
+She reached into her side bag and pulled out her power brick. Usually, this was the part where Patrick had to crawl under a table, fight with dust bunnies, and blindly fumble for an outlet near the floor.
+
+But as Nichole held the plug, she looked at the column next to their table.
+
+There, mounted thirty inches off the ground—perfect desk height—was a quad power outlet faceplate.
+
+She didn't have to ask for help. She didn't have to bend down. She simply reached out, plugged her Apex ConvertiBook in, and heard the satisfying *chirp* of the charging circuit engaging.
+
+Patrick watched her do it. He took a bite of his pizza, shaking his head in disbelief.
+
+"They put the outlets where the hands are," Patrick said, gesturing with his crust. "Genius."
+
+Nichole smiled, watching the lightning bolt icon appear over her battery gauge. It wasn't just an outlet; it was respect. The building anticipated her needs rather than accommodating them as an afterthought.
+
+She looked around the cafeteria. Outside, it was forty degrees and windy. Inside, students were walking around in t-shirts, moving from dorms to class to lunch without ever checking the weather report.
+
+She tapped her screen.
+
+"THE. TUNNELS. CHANGE. EVERYTHING."
+
+"I know," Patrick nodded, wiping his hands. "No ice. No snow. I can push you across this whole campus in January without even wearing a coat."
+
+He looked at the map on the table.
+
+"The tour starts in thirty minutes," Patrick said. "We're going to see the library and the gym. And I bet you five bucks we can get to both of them without opening a single exterior door."
+
+Nichole took a sip of her soda. She looked at the charging cable connecting her to the university's grid.
+
+"NO. BET."
+
+She knew he was right. The Fortress wasn't just their house in Portsmouth anymore. They had found a Fortress that covered an entire peninsula.
+

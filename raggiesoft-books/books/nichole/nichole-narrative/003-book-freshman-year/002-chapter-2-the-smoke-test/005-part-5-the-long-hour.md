@@ -1,0 +1,48 @@
+# Part 5: The Long Hour
+
+Date: April 12, 2002
+
+Time: 10:45 AM (30 Minutes Post-Evacuation)
+
+Location: The Fence Line (Bus Loop Muster Point)
+
+The adrenaline of the escape had faded, replaced by the crushing boredom of a thousand teenagers standing in a parking lot.
+
+The "Muster Point" was a strip of grass along the chain-link fence at the far edge of the bus loop. Patrick and Nichole sat on the concrete curb, their backs against the metal fence.
+
+For Nichole, the curb was a torture device. Without the custom-molded support of her Titan AeroMotion, her core muscles had to work overtime just to keep her upright. Her hips, lacking the cushioning of her ROHO seat pad, ached against the cold concrete.
+
+She leaned heavily into Patrick. He had shifted his position, sitting cross-legged so his shoulder provided a solid backrest for her. He had one arm wrapped around her waist, anchoring her so she wouldn't tip over when a spasm hit.
+
+"Comfort check," Patrick whispered, sensing her shift.
+
+Nichole made a small, irritated clicking sound. Bad.
+
+"I know," Patrick said. "Concrete sucks. Just hang on."
+
+Around them, the student body was getting restless. The novelty of missing class had worn off. It was a cool Virginia spring day, and nobody had jackets.
+
+Mr. Henderson, ever the academic, was pacing in front of his section.
+
+"Alright, listen up!" Henderson shouted, trying to project his voice over the wind. "Since we are all here, let's review the implications of the Compromise of 1877! Who can tell me why Hayes removed the federal troops?"
+
+Thirty juniors stared at him blankly. A kid named Mike was throwing gravel at a soda can. Two girls were sharing a pair of wired headphones. No one was listening to history.
+
+"It's not a drill," a girl whispered behind them. "My cousin is in 2nd period Chem. She said she saw guys in hazmat suits."
+
+"It's not hazmat, idiot," another guy replied. "It's the cafeteria. They burned the pizza again."
+
+Because the smoke had been localized to the "Blue Mile" hallway, half the school didn't even know why they were outside. To them, this was just an administrative screw-up that was dragging on too long.
+
+But Nichole knew. She could still smell the faint, acrid scent of ozone clinging to Patrick’s shirt where the smoke had touched him.
+
+She tapped Patrick’s knee. She pointed toward the building.
+
+Chair.
+
+She wanted her wheels. She wanted her voice. The VocaLink 3000 was sitting on that tray, alone in the dark.
+
+"It's stuck, Nikki," Patrick said quietly. "It's on the second floor. Elevator is dead. We can't get it until they let us back in."
+
+Nichole let out a huff of frustration. She slumped against him, resigning herself to being "cargo" for a little while longer.
+

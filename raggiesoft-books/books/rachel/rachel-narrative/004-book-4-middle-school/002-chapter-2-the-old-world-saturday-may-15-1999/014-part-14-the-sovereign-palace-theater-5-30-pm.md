@@ -1,0 +1,70 @@
+# Part 14: The Sovereign Palace Theater – 5:30 PM
+
+The walk away from *The Imperial Rapids* was soundtracked entirely by Bonnie's exaggerated, dramatic complaints.
+
+"I cannot believe I fell for that," Bonnie grumbled, crossing her soaking wet arms over her chest and glaring at the pavement. She was doing her absolute best to maintain a fierce, angry pout, but the corners of her mouth kept twitching. "I was literally doing the physics in my head, trying to figure out how they built a seventy-foot drop under the midway. You guys are evil."
+
+"We are locals," Ashley corrected with a breathless laugh, her wet sneakers squeaking loudly on the cobblestones. "It's a rite of passage. You're officially initiated."
+
+I was laughing too hard to defend myself, but as we crossed the bridge back into the 'France' hamlet, the adrenaline from the rapids and the prank suddenly evaporated.
+
+When the adrenaline dropped, the physical reality of the last eight hours hit my nervous system like a freight train.
+
+We had been walking non-stop since seven in the morning. We had scaled Heart Attack Hill, baked in the sweltering Virginia humidity, and subjected our bodies to massive G-forces. For a healthy eighth-grader, it was exhausting. For a body battling cerebral palsy, it was a critical system failure.
+
+Without warning, the signals traveling from my brain to my legs simply stopped computing.
+
+My tight heel cords locked completely solid. The spasticity in my calves flared into a sudden, agonizing cramp, turning my legs into dead, immovable lead. I stumbled, my left foot dragging heavily against the concrete. I pitched forward, the sudden loss of equilibrium sending a spike of pure panic through my chest.
+
+I didn't hit the ground.
+
+Ashley’s sentinel radar was always on. She didn't even have to look; she felt the shift in my gravity before I even registered the fall. In a fraction of a second, the laughing, teasing middle-schooler vanished, completely replaced by the fiercely protective pack anchor.
+
+Ashley didn't even hesitate. She lunged into my space and threw her shoulder directly under my armpit. She braced her stance, taking almost half of my body weight in a single, fluid motion. Her hand locked around my ribs in an iron-clad vice grip.
+
+"I've got you," Ashley said, her voice dropping into a low, entirely serious, utilitarian command. "Lock your knees. Breathe, Michael. Just breathe."
+
+Bonnie stopped dead in her tracks. The fake, playful pout vanished from her face instantly.
+
+This was the first time she was seeing my cerebral palsy actively crash. She watched me grit my teeth, my face pale as I desperately tried to manually force my muscles to unseize. She saw the intense, rigid utility of Ashley's grip—the exact survival baseline Ashley had explained to her earlier.
+
+Bonnie didn't panic. She didn't look at me with pity, and she didn't awkwardly step back to give us space.
+
+She immediately processed the math, realized the perimeter was failing, and stepped up to reinforce it.
+
+Bonnie moved to my right side. She didn't reach for my hand to interlace our fingers in a soft, romantic gesture. She perfectly mirrored Ashley’s mechanics. Bonnie slid her shoulder securely under my right armpit, wrapped her arm tightly around my back, and grabbed a fistful of my soaking wet t-shirt to anchor herself.
+
+"We've got you," Bonnie murmured, her voice steady and completely devoid of fear. She looked across my chest at Ashley, establishing a silent, synchronized tempo.
+
+I let out a shaky, exhausted breath, my arms draped heavily over the shoulders of the two most important girls in my middle school universe.
+
+"Sorry," I grunted, deeply embarrassed that my processor had failed in front of my new girlfriend. "My legs are just... done."
+
+"Don't apologize for your baseline," Ashley ordered firmly, taking a step forward and forcing me to lean on her. "We have to get to the theater. Bonnie, on three. One, two, three. Step."
+
+We became a three-person tripod. Moving at a slow, agonizingly deliberate pace, my honorary sister and my girlfriend literally carried my weight down the winding paths of the French sector.
+
+The physical discomfort was miserable. Our clothes were completely saturated from the aqueduct waterfall, clinging heavily to our skin. The friction of wet denim chafed against our legs with every step, and the humid evening air offered no relief. But the emotional geometry of the trio was absolutely flawless. Bonnie had seamlessly transitioned from the girl I had a crush on to an active, reliable load-bearing pillar of the Base Camp.
+
+We finally spotted the massive, elegant facade of the *Sovereign Palace Theater* looming at the end of the plaza.
+
+Instead of heading for the main guest entrance under the marquee, Ashley steered our tripod down a narrow, paved alleyway that ran along the side of the building. We reached a heavy, unmarked steel door labeled *Cast & Crew Only*.
+
+I leaned heavily against the brick wall as Ashley pulled the heavy door open.
+
+A blast of freezing, over-cranked air conditioning hit us, completely freezing our soaking wet clothes to our skin. The backstage area was a chaotic hive of activity. Dozens of eighth graders from the Morrison Middle School band were already inside, dragging heavy garment bags, unzipping uniform covers, and frantically trying to assemble their instruments in the narrow concrete hallways.
+
+Ms. Pitizer was standing near the door to the girls' dressing room, her clipboard practically glued to her hand. She looked at her watch, then looked up at us.
+
+"Five-fifty-five," Ms. Pitizer announced, her eyes widening as she took in our completely drenched, shivering, and physically exhausted state. "You made it with five minutes to spare. But good heavens, you three look like you swam here."
+
+"The Imperial Rapids, Ms. Pitizer," Ashley reported through chattering teeth, still keeping a firm, stabilizing grip on my elbow. "We survived."
+
+"Well, get dried off and get into your uniforms immediately," our band director instructed, shaking her head. "Percussion section is tuning in the wings in fifteen minutes. Move!"
+
+Bonnie gave my waist one last, reassuring, deep-pressure squeeze before letting go.
+
+"See you on stage, Michael," Bonnie smiled warmly, her eyes crinkling as she grabbed her garment bag from the equipment pile and followed Ashley toward the girls' dressing rooms.
+
+I took a deep breath, manually forcing my tired legs to hold my own weight. I was freezing, my muscles ached, and my sneakers were completely waterlogged. But as I grabbed my own garment bag and headed toward the boys' locker room, I had never felt more secure. The perimeter was holding.
+

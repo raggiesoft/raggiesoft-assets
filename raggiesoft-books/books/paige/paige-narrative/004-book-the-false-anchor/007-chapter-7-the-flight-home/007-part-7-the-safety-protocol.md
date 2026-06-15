@@ -1,0 +1,78 @@
+# Part 7: The Safety Protocol
+
+## Thursday, May 13, 2004 — 10:55 AM (PST) Flight 492, Seat 2B
+
+The jet bridge was a ribbed tunnel of white metal, sloping downward. The air grew cooler with every foot they advanced, smelling of ozone and burnt kerosene.
+
+Jessica pushed the wheelchair all the way to the aircraft door. A flight attendant with a perfectly pinned scarf stood there. Next to her was a narrow, strappy contraption that looked like a dolly with a seat cushion.
+
+"Do you need the aisle chair to get to his seat?" the attendant asked efficiently.
+
+Jessica looked at the "aisle chair"—a device designed to strap a person in like a piece of luggage and wheel them down the narrow path. She looked at Freddie. He was terrified, but he was mobile enough for this.
+
+"Negative," Jessica said. "He can transfer. We'll walk him."
+
+"Okay, take your time," the attendant smiled.
+
+Freddie stood up. His legs were shaky, vibrating with the engine hum that resonated through the floor. He gripped Jessica’s arm on one side and Paige’s on the other. They shuffled into the cabin.
+
+"Target acquisition," Freddie whispered, scanning the rows.
+
+"Row 2," Jessica decided, pointing to the seats immediately behind the bulkhead wall. "First row with tray tables. Close to the exit."
+
+They shuffled into the row. Paige slid into the window seat (2A). Freddie collapsed into the middle seat (2B). Jessica took the aisle seat (2C).
+
+The formation was set. The Sandwich was active.
+
+Freddie fumbled with the heavy silver buckle. *Click.* He pulled the strap tight across his lap. The seat was narrow, the upholstery scratchy, but the pressure of his sisters on both sides was instant and reassuring.
+
+He let out a long, shuddering breath. He turned to his left, ready to initiate "Shutdown Mode." He leaned heavily against Paige, aiming to bury his face in her shoulder and close his eyes until the movement stopped.
+
+"Emergency brake," Freddie murmured, his eyelids fluttering. "Going offline."
+
+"Negative," Paige said gently.
+
+She didn't push him away, but she placed a firm hand on his shoulder, keeping him upright.
+
+"You have to stay online, Freddie. Just for ten minutes."
+
+Freddie blinked, hurt. "Rejection?"
+
+"Safety," Paige corrected. "This is your first flight. You need to be awake for the briefing. And you need to be alert for takeoff. Your body is going to feel g-forces it doesn't know how to interpret. If you're asleep when we hit 150 miles per hour, you'll panic."
+
+"Physics?" Freddie asked, sitting up straighter.
+
+"Physics," Paige confirmed. "Listen to the lady with the microphone. Watch the demo. Once the bell chimes—the *bing-bong* sound—then you can crash. I promise."
+
+Freddie nodded. He fixed his eyes on the flight attendant standing at the front of the cabin. He watched her hold up the yellow oxygen mask. He watched her demonstrate the seatbelt. He filed every instruction into his "Survival Database."
+
+Next to him, Paige was doing her best to look calm.
+
+She gripped the armrest with her right hand, her knuckles turning white. She hated this.
+
+She remembered the flight out two days ago—the terrifying hop from Roanoke to Nashville, then the long haul to Seattle. She remembered the way the plane dropped in the air pockets over the Rockies. She remembered the feeling of having no ground beneath her feet, just empty air and trust in a machine she didn't understand.
+
+She wanted to be on the ground. She wanted to be back in the living room in Christiansburg, with the solid slab foundation under her feet and the humidity sticking to the windows.
+
+But she looked at Freddie. He was watching the safety demo with wide, terrified eyes behind his sunglasses. He needed a Safe Person, not a terrified sister.
+
+Paige took a deep breath, unclenched her hand from the armrest, and placed it on Freddie’s knee.
+
+"We're okay," Paige lied, forcing a smile. "It's just a bus with wings."
+
+"A bus that goes 500 miles per hour," Freddie corrected.
+
+"Exactly," Paige said. "Fast travel. We'll be home before you know it."
+
+The engines roared to life, a high-pitched whine that climbed in frequency. The plane lurched backward.
+
+"Pushback," Freddie noted, his voice trembling.
+
+"Here we go," Jessica said from the aisle, taking his other hand.
+
+As the plane taxied to the runway, Paige looked out the window at the grey Washington sky. She hated the sky. But she loved her brother. And for him, she would ride this metal tube all the way to hell if she had to.
+
+"Systems ready?" Paige asked, squeezing his knee.
+
+"Ready," Freddie whispered, gripping her hand so hard it hurt. "Launch sequence initiated.
+

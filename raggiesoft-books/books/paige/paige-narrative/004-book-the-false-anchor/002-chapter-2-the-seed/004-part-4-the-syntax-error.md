@@ -1,0 +1,151 @@
+# Part 4: The Syntax Error
+
+## Spring 2004 Tuesday, February 24, 2004 — 15:15 PM
+
+The atmosphere at the corner table in **Newman Library** was tense. The Avery Unit had deployed their defensive perimeter early.
+
+Freddie sat in the center, his **Iron-Logic** laptop open, but he wasn't typing. He was watching the elevators. Paige sat on his right, her posture rigid, her arms crossed over her chest. Jessica sat on his left, tapping her pen against the table.
+
+They were waiting for the Variable.
+
+*Ding.*
+
+The elevator doors slid open.
+
+Vanessa stepped out.
+
+She wasn't carrying her usual stack of books. She was carrying a cardboard drink carrier from **The Daily Grind**.
+
+She walked toward them slowly. She didn't march. She didn't look confident. She looked... humble. Her shoulders were slightly slumped, her head bowed just enough to signal submission.
+
+She stopped five feet from the table—outside the engagement zone.
+
+"Permission to approach?" Vanessa asked softly.
+
+Jessica stopped tapping her pen. She looked at the drink carrier. She looked at Vanessa’s face.
+
+"Depends on the payload," Jessica said coolly.
+
+Vanessa stepped forward carefully. She placed the carrier on the table.
+
+"For the Matriarch," Vanessa said, sliding a large cup toward Jessica. "Double-shot espresso, black. I noticed last week you were rubbing your temples around 4 PM. I figured you were running low on fuel."
+
+Jessica looked at the cup. It was exactly what she needed. It showed observation. It showed respect for the hierarchy.
+
+"Accepted," Jessica said, taking the cup. She took a sip. Her shoulders relaxed—just a fraction.
+
+"For the Lieutenant," Vanessa said, sliding a cup toward Paige. "Chamomile tea with honey. Non-caffeinated. Calming. I know... I know I caused a stress spike last week. I wanted to help lower the voltage."
+
+Paige looked at the tea. It was a peace offering. A literal "calm down" drink.
+
+"Thanks," Paige muttered, taking the cup. She didn't smile, but she stopped glaring.
+
+Then, Vanessa stood up straight. The carrier was empty.
+
+There was no cup for Freddie.
+
+A ripple of agitation went through the table. Jessica frowned. Paige tightened her arm around Freddie’s waist, pulling him closer into a protective squeeze. *She excluded him?*
+
+Vanessa saw the look. She raised her hands quickly.
+
+"I didn't get one for the Captain," Vanessa explained hastily. "I know he doesn't drink coffee. And I didn't want to guess his tea preference and get it wrong. That would be inefficient."
+
+Freddie looked at the empty spot. She was correct. If she had brought him Earl Grey or English Breakfast, he would have rejected it. He only drank White Hot Chocolate with whipped cream, or water.
+
+"That is a valid logic path," Freddie stated. "Guessing introduces variables."
+
+"I can get you water?" Vanessa offered. "Or..."
+
+"I've got it," Jessica said, standing up. She grabbed Freddie’s reusable water bottle from the table. "I need to stretch anyway. I'll hit the fountain around the corner."
+
+Jessica walked away, leaving the perimeter temporarily compromised.
+
+Paige compensated immediately. She wrapped both arms around Freddie, resting her chin on his shoulder, staring up at Vanessa. It was a clear signal: *My sister is gone, but the shield is still up.*
+
+Vanessa didn't flinch. She didn't roll her eyes or make a comment about codependency. She simply nodded, acknowledging the hug as a fact of nature.
+
+"I brought something else for you, Freddie," Vanessa said softly.
+
+She reached into her bag and pulled out a translucent purple jewel case containing a silver CD-R.
+
+"I finished the descriptions for the Outer Rim planets," Vanessa explained. "And... I tried to format them. I opened the HTML file you sent me, and I studied your tags. I tried to speak your language."
+
+Freddie picked up the disc. He popped the drive tray on his laptop. *Whirrrr-click.*
+
+He opened the file outer_rim_data.txt in Notepad.
+
+He stared at the code.
+
+\<td\>The frozen giant of the outer rim.\</td\>\<td\>Mass: 14.5 Earths\</td\>
+
+\<td\>Atmosphere: Methane ice storms.\</td\>\<td\>Orbit: 84 Years\</td\>
+
+Freddie frowned. He adjusted his glasses.
+
+"This is... incomplete," Freddie stated.
+
+"Is it?" Vanessa asked, leaning in, but keeping a respectful distance from Paige’s territory. "I used the \<td\> tags like you did."
+
+"You have the data cells," Freddie explained, pointing to the screen. "But you have no container. Data cannot float in the void. It requires a row \<tr\>. And the row requires a table \<table\>."
+
+He typed quickly, showing her what it *should* look like.
+
+\<table border="1" cellpadding="5"\>
+
+\<tr\>
+
+\<th\>PLANET DESCRIPTION\</th\>
+
+\<th\>MASS\</th\>
+
+\</tr\>
+
+\<tr\>
+
+\<td\>The frozen giant of the outer rim.\</td\>
+
+\<td\>14.5 Earths\</td\>
+
+\</tr\>
+
+\</table\>
+
+"See?" Freddie said. "Structure. Hierarchy."
+
+Vanessa looked at the screen, then at Freddie. Her eyes were wide with what looked like genuine awe.
+
+"I see it now," Vanessa whispered. "I was just floating data. You built the grid."
+
+She looked at him humbly.
+
+"I don't know this language, Freddie," she admitted. "I'm good at math, but I'm illiterate in code. Would you... would you be willing to teach me? I don't want to just be the data entry girl. I want to build the walls correctly."
+
+Freddie felt a surge of pride. She wasn't challenging his system. She was asking to be initiated into it.
+
+"I can instruct you," Freddie said, his voice firm. "We will start with the Table Object Model."
+
+Jessica returned with the full water bottle. She set it down in front of Freddie.
+
+"Hydration secured," Jessica said, sitting back down.
+
+She looked at the scene. Freddie was typing, explaining tag nesting. Vanessa was taking notes furiously, nodding along. Paige was still hugging Freddie, drinking her tea, looking bored but no longer murderous.
+
+"She didn't try to touch the keyboard?" Jessica asked Paige quietly.
+
+"Nope," Paige whispered back, blowing on her tea. "She admitted she didn't know how to do it. She asked him to teach her."
+
+Jessica took a sip of her espresso.
+
+"Smart," Jessica noted.
+
+Vanessa looked up and caught Jessica’s eye. She smiled—a small, tentative, apologetic smile.
+
+"We're debugging," Vanessa said. "I missed the \<tr\> tags. Freddie is fixing my mess."
+
+"He's good at that," Jessica said, her voice neutral.
+
+Vanessa went back to her notes. She didn't push. She didn't try to join the hug. She didn't try to act like a sister.
+
+She played the student. And the Avery Unit, lowered their shields just enough to let her in.
+
+

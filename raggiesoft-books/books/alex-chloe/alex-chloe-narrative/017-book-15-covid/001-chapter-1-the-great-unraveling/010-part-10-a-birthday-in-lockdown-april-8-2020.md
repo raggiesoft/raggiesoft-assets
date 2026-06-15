@@ -1,0 +1,32 @@
+# Part 10: A Birthday in Lockdown (April 8, 2020)
+
+April 8th, 2020, was supposed to be a day of monumental celebration. It was Alex and Chloé's thirty-fifth birthday, the day they had planned to make the biggest announcement of their lives: they had officially put in an offer on a ten-acre plot of land in Lynnwood. The Lynnwood Discovery and Care Center was about to have a home.
+
+Instead, the day dawned with a quiet, somber reality. The world was in lockdown. The land purchase was on indefinite hold. And their family was all together, a bubble of seven people quarantined inside their small Lynnwood apartment.
+
+The grand celebration was replaced by a simple, quiet affair. Sophie and Emily had managed to find the ingredients to bake a single, shared cake. Thomas and James had decorated the living room with a few balloons they'd found at the grocery store.
+
+That evening, the seven of them gathered around the small dining table. The mood was reflective, not sad, but tinged with the "what could have been" of it all.
+
+"Well," James said, raising his glass of sparkling cider. "It might not be the celebration we all planned, but we are all here. We are all safe. And we are all together. And right now, that's everything. Happy birthday, you two."
+
+"Happy birthday, my loves," Sophie added, her eyes full of emotion.
+
+Alex looked around the table at the faces of his four parents, their love a tangible, protective shield. He then looked at Chloé, and finally at Megan. He typed on his AAC.
+
+THIS IS A DIFFERENT KIND OF CELEBRATION, his device voiced. BUT IT IS A GOOD ONE. THANK YOU FOR BEING HERE. FOR EVERYTHING. He then turned his chair slightly to face his cousin. AND... A VERY HAPPY BELATED BIRTHDAY TO YOU, MEGAN.
+
+A quiet, almost guilty silence fell over the room for a half-second as the parents realized the truth in his words. Megan's own birthday, back on March 21st, had been completely lost in the chaos of their frantic cross-country rescue mission.
+
+Megan’s eyes welled up with tears, a look of profound, grateful surprise on her face. "You remembered," she whispered.
+
+"Of course, he did," Chloé said softly, reaching out to take Megan's hand. "We both did. We are so, so sorry, Meg. In all the craziness, we never got to celebrate you." She squeezed her hand. "So tonight, this isn't just our party. It's a joint, socially-distanced, family-quarantined birthday for all three of us. Happy belated birthday, Megan."
+
+"Happy birthday, honey!" a chorus of loving voices came from the four parents, their own faces a mixture of love and gentle remorse for having forgotten.
+
+"I..." Megan started, her voice thick with emotion. "I didn't even think about it. I was just so worried about you guys. Thank you."
+
+Chloé looked at Alex, her hand finding his under the table. "The land will still be there when this is all over," she said, her voice a quiet promise, meant for all three of them but heard by everyone. "The dream isn't cancelled. It's just... on pause."
+
+They ate their cake, the conversation turning to old memories, to other birthdays, to the incredible journey that had brought them all to this small apartment in Lynnwood. It wasn't the triumphant announcement they had dreamed of, but in its own quiet way, it was just as meaningful. It was a celebration not of a purchase, but of their resilience, their unwavering commitment to a shared dream, and the unbreakable strength of the family that would, one day, help them build it.
+

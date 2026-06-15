@@ -1,0 +1,30 @@
+# Part 2: Welcome to the Virginia Base Camp
+
+The moment they stepped into the arrivals area at Norfolk International Airport, they were enveloped in a wave of pure, chaotic joy. The entire Miller and Carter clan was there, a boisterous, loving crowd holding hand-drawn welcome signs. The reunion was a flurry of hugs and happy tears, a warm, wonderful welcome home after a long journey.
+
+They drove back to Lisa Court in a happy convoy. The plan for the evening was a massive welcome-home dinner at the Miller house, and the Masons, having seen them arrive, came right over, their own arms laden with contributions to the feast.
+
+The house was filled with the loud, joyful, and slightly overwhelming sound of a family in full celebration mode. Grandparents, aunts, uncles, and cousins all vied for a chance to talk to the three travelers, to hear about life in Washington and their exciting wedding plans.
+
+For Alex, it was wonderful, but it was also a lot. The multiple, overlapping conversations, the clatter of dishes from the kitchen, the sheer number of people in a familiar but now crowded space—it was a full-blown sensory assault. He tried to keep up, to smile, to respond on his AAC, but the noise was becoming a physical pressure, a roaring in his ears.
+
+He was in the middle of a conversation with his grandmother when it happened. The world seemed to tilt, the sounds blurring into a single, painful, high-pitched whine. The lights felt too bright. He could feel a tremor starting in his hands, the familiar, terrifying prelude to a full-blown autistic meltdown.
+
+Chloé and Megan, who had been instinctively monitoring him from across the room, saw it at the exact same instant. They moved as one.
+
+"Okay, I think we're going to steal him for a minute," Megan announced to the room, her voice a calm, cheerful knife cutting through the chaos. "He needs to show us the latest updates to his Axon project."
+
+It was a perfect, plausible excuse. Chloé was already at his side, her hand a firm, grounding pressure on his shoulder. "*Respirez, mon amour,*" she whispered in their safe language. "*On s'en va. Je te tiens.*" (Breathe, my love. We're leaving. I've got you.)
+
+The two of them seamlessly guided his wheelchair out of the loud living room and down the hall to the quiet, familiar sanctuary of his old bedroom, closing the door behind them. The overwhelming noise of the party instantly softened to a distant, manageable hum.
+
+They helped him transfer to his bed, and the moment he was settled, he just let go. He curled onto his side, his body shaking with the force of the sensory overload. Chloé immediately lay down behind him, wrapping her arms around him in a firm, grounding hug. Megan sat on the other side of the bed, her own hand a steady, reassuring weight on his back.
+
+"It's okay, cuz," she murmured. "It's just a lot. Too much noise. Just focus on us. You're safe."
+
+They stayed like that for a long time, a silent, three-person island of quiet and calm, until the trembling subsided and his breathing evened out.
+
+Later that night, after the guests had gone and the house was quiet, the sleeping arrangements were an unspoken, foregone conclusion. Their bed for the night, the safest place for Alex after the day's overwhelming events, was the pull-out queen sofa bed in the living room. It was their nest.
+
+Alex settled in the middle, and with a quiet, practiced intimacy, Chloé climbed in on one side, and Megan on the other. They were a fortress, a triple-thick wall of safety and love. And in the quiet darkness, flanked by the two most important people in his entire world, Alex finally, truly, felt like he was home.
+

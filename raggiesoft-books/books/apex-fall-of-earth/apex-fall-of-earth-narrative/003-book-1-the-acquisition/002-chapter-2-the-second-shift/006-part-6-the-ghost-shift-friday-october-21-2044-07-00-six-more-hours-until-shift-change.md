@@ -1,0 +1,58 @@
+# Part 6: The Ghost Shift – Friday, October 21, 2044 – 07:00 (Six more hours until shift change)
+
+Wyatt led Sarah out of the lead-lined filtration banks and back onto the primary catwalks of Sector 4. The ambient roar of the deep-core drills swallowed the silence of their makeshift sanctuary, but the heavy, crushing anxiety that usually accompanied the noise was completely gone. They both knew exactly where they stood now.
+
+He walked shoulder-to-shoulder with her, the heavy metal grating ringing softly beneath his boots. After about twenty minutes of navigating the winding, dimly lit corridors of sub-level 4-C, a strange realization began to settle over him.
+
+Wyatt held up a hand, slowing his pace to a complete stop.
+
+Sarah stopped right beside him. She didn't tense up or grab her flashlight like she had yesterday. She just looked up at him, her shoulder brushing comfortably against his bicep.
+
+"Notice anything?" he asked, keeping his voice low, though the rumble of the machinery would drown it out anyway.
+
+Sarah looked down the long, industrial stretch of catwalk. It was completely empty. She turned and looked behind them. The shadows were undisturbed. She reached into her cargo pocket, pulling out her battered PDA, and tapped into the low-level S.H.O.P. tracking grid.
+
+"There are no other green dots on this elevation," she murmured, her brow furrowing slightly. "Not just our patrol route... the entire sector. We haven't seen another contractor in two hours. Where is the perimeter guard?"
+
+Wyatt looked up at the automated security cameras bolted into the upper corners of the bulkheads. The tiny red recording lights were solid, but the motorized swivels hadn't tracked their movement since they stepped out of the filtration zone.
+
+"They aren't watching us," he said, a slow, cynical realization washing over him.
+
+"But the Supervisors at the checkpoint—"
+
+"They're watching the elevators to make sure whatever is down there doesn't come up," Wyatt interrupted gently, his eyes scanning the empty industrial expanse. "Sarah, look at this place. Apex didn't hire us to actually secure this sector. They hired us to satisfy an insurance quota. A thousand minimum-wage bodies to make the Board of Directors feel better about the thermal readings. As long as those drill bits keep spinning, management doesn't care if we walk the perimeter or sleep in a closet."
+
+Sarah stared at her datapad, absorbing the absolute absurdity of the corporate machine. Apex Defense Solutions was so hyper-fixated on the profit of the excavation that the entire security apparatus was just a bureaucratic illusion.
+
+She let out a soft, disbelieving laugh, slipping the PDA back into her pocket. "So we're just... ghosts."
+
+"Pretty much," Wyatt replied, a faint smirk crossing his face.
+
+With the threat of management practically evaporated, the heavy, militant urgency of the patrol completely dissolved. He didn't resume his rigid, protective march. Instead, they fell into a slow, relaxed stroll down the catwalk.
+
+The physical space between them, which had already been shrinking since the alcove, disappeared entirely.
+
+When they approached a massive, venting coolant pipe partially blocking the narrow walkway, Wyatt didn't just point it out. He placed a heavy, warm hand firmly on the small of her back, gently guiding her around the hazard. Yesterday, that touch would have been strictly professional. Today, his hand lingered against the fabric of her slate-blue Helios uniform, his thumb naturally resting against the curve of her waist.
+
+Sarah didn't pull away. In fact, she did the exact opposite. She leaned back into the steady pressure of his hand, a subtle, electric warmth flooding her chest. The touch wasn't just reassuring anymore; it was intoxicating.
+
+As the catwalk widened again, she didn't step away to restore a professional distance. She stayed right at his side, so close that the backs of their hands continuously brushed against each other with every step they took.
+
+Wyatt looked down at her. In the harsh, strobing light of the failing Sector 4 grid, she looked up at him. The professional boundaries were completely shattered. The relief of knowing they were both single had opened a floodgate. He wasn't just a veteran protecting a rookie anymore. He was a man looking at a woman he was rapidly, undeniably falling for.
+
+Without breaking his gaze, Sarah shifted her hand, slipping her fingers smoothly between his. She laced them together, her grip firm and deliberate.
+
+A jolt of pure adrenaline spiked through Wyatt's chest. He immediately tightened his grip, completely enveloping her smaller hand in his, his taped palm pressing against her skin. It felt incredibly right.
+
+"Are we going to get written up for fraternizing on duty, Boss?" she asked, a playful, breathless edge to her voice, completely ignoring the massive corporate facility surrounding them.
+
+"I think the HR algorithm has bigger problems right now," Wyatt replied, a low, genuine laugh rumbling in his chest. He gave her hand a gentle squeeze. "Besides, nobody is watching."
+
+Sarah smiled, a bright, uninhibited expression that made him want to completely abandon the patrol and pull her into his arms. She stepped a fraction of an inch closer, her shoulder firmly pressed against his, her thumb slowly tracing the back of his knuckles as they walked.
+
+The Apex facility around them was a rusted, failing nightmare on the brink of a catastrophic containment breach. The heat was oppressive, and the air smelled like burnt ozone. But as he walked hand-in-hand with her down the empty catwalks, listening to the steady, synchronized rhythm of their boots, Wyatt realized he wouldn't want to be anywhere else in the world.
+
+"Six more hours until the shift change," Sarah murmured, her voice soft and full of quiet anticipation, her eyes entirely focused on him. "And then Bunk 42-C is ours."
+
+"Just six hours," Wyatt agreed, the thought of that thirty-inch mattress suddenly feeling like a luxury suite. He wrapped his arm fully around her shoulders, pulling her flush against his side as they continued down the empty corridor. "We'll take the scenic route."
+

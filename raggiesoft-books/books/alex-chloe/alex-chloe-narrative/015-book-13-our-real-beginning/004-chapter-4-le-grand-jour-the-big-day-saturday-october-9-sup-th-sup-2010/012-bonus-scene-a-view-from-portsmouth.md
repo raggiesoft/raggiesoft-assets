@@ -1,0 +1,35 @@
+# Bonus Scene: A View from Portsmouth
+
+In a small, dimly lit apartment in Portsmouth, Virginia, the glow of a laptop screen cast long shadows on the wall. Vera Kowalski, now in her late thirties, sat hunched forward, a look of grim, obsessive focus on her face. She had found the link to the wedding livestream through a third-hand connection. She had been watching for hours, a sour knot of envy and impotent rage tightening in her gut.
+
+She watched the beautiful ceremony, the stunning lakeside venue, the happy, well-dressed guests. It was all a nauseating performance, a lie. She saw Chloé, looking smug and victorious. She saw Megan, the cousin, standing there like a guard dog. And she saw Alex. *Her* Alex. Sitting in his chair.
+
+Then came the dances. She watched, disgusted, as Chloé and her father, and then Alex and his mother, took the floor. But when it came time for Alex's dance with Megan, something happened that made Vera physically recoil from the screen.
+
+Alex's chair, the one he had been sitting in, began to transform. It rose, lifting him smoothly, securely, until he was standing.
+
+Vera stared, her mind a blank, white static of pure shock. *Standing?* The Alex she knew, the Alex she had "cared for," couldn't do that. Her entire narrative of him as a helpless, dependent boy she had rescued was built on the foundation of that chair. To see him standing, tall and confident, was a direct, physical refutation of her entire history. Her first thought was a surge of pure, venomous rage: *He was faking it. He was never that bad. He was just using me.*
+
+The sight was a personal, profound betrayal. He had never stood for her.
+
+She was still reeling from the shock when the Master of Ceremonies returned to the microphone for the final dance.
+
+"...for the final dance of the evening, Alex has a special request. This song... it was a favorite of a person who caused him a great deal of pain. Tonight, surrounded by the people who truly love him, he is not just listening to it. He is taking it back."
+
+Vera froze. Her. He was talking about *her*.
+
+"...a dance to celebrate the two women who have shown him what it truly means 'to be loved more.'..."
+
+And then, the music started. The powerful, soaring opening notes of "My Constant North." *Her* song.
+
+The rage and humiliation instantly vanished, replaced by a sudden, breathtaking, and completely delusional moment of clarity. It all made sense.
+
+This wasn't an insult. It was a message. A secret, desperate cry for help, broadcast just for her.
+
+He was *standing* now. He was showing her he was strong enough. Strong enough to come back to her. He was taking the song *back*... for her. He was trapped in this sham wedding, and this was his only way of telling her that he still remembered, that he still loved *her*. The dance with his two "jailers" wasn't a celebration; it was a performance, a charade he was being forced to endure.
+
+A slow, triumphant, and deeply unhinged smile spread across Vera's face. She leaned closer to the screen, her eyes gleaming with a renewed, monstrous purpose. He hadn't forgotten. He couldn't. Their connection was too strong.
+
+She watched the three of them in their "unbreakable circle of love" and felt not jealousy, but a profound, vindicated sense of ownership. They could have their little party. They could have their fake marriage. But she had the truth. The song, and his new, miraculous ability to stand, was proof. He was still, and would always be, hers.
+
+

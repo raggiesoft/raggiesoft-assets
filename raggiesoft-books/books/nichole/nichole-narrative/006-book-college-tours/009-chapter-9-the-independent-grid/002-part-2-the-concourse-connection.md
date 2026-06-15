@@ -1,0 +1,74 @@
+# Part 2: The Concourse Connection
+
+## Date: November 15, 2003 Time: 7:50 AM Location: Narragansett Esplanade Station (Level 1 - Plaza)
+
+Stepping off the ferry dock, the full scale of Narragansett Esplanade Station loomed over them. It didn't look like a train station; it looked like an art museum.
+
+Massive white tensile fabric roofs, shaped like the sails of a racing yacht, soared overhead. The entire facade facing the water was floor-to-ceiling glass. Even in the grey light of a November morning, the building seemed to glow from the inside.
+
+"The Lantern," Patrick murmured, reading the architectural nickname off a wayfinding sign. "Fits."
+
+He pushed Nichole across the massive, open-air brick plaza. There was no honking traffic, no curb cuts to hunt for, and no exhaust fumes. This was a "No Car" zone. The only vehicles were the silent, electric *Bull Run* shuttle buses gliding into the covered bus port on the far side of the plaza.
+
+They rolled through the automatic sliding glass doors into the main atrium. Warm, climate-controlled air washed over them.
+
+"Okay, Nikki," Patrick said, looking up at the directory. "Ferry is Level 1. Commuter rail is Level 2. But the Student Union and the check-in are down on Level C."
+
+Nichole didn't need the directory. She was already looking at her Apex ConvertiBook screen, where she had downloaded the station’s PDF map the night before. She tapped the screen, triggering her VocaLink.
+
+"GLASS. ELEVATOR. AT. THE. LIGHT. WELL."
+
+Patrick followed her gaze toward the center of the atrium. A massive, sixty-foot glass skylight pierced the floor, allowing natural daylight to filter all the way down to the deep underground Metro platforms. Surrounding this "light well" were four high-speed glass elevators.
+
+They rolled inside. Patrick hit the button for Level C: Concourse.
+
+As the glass cab descended, they watched the station unfold beneath them. They sank below street level into the main ticketing hall. It was vast, brightly lit, and humming with morning commuters.
+
+The doors opened onto Level C.
+
+Directly in front of them was the station's famous bronze statue of the BSU Bull, standing guard near the Metro fare gates. And running along the far wall was the "Reclamation Wall," a massive, colorful mosaic mural depicting the bay's history.
+
+But Nichole wasn't looking at the art. She was looking at the signage.
+
+A wide, brightly lit subterranean tunnel branched off from the concourse. Above it, a sign read: THE BRAXTON LINK - CONNECTION TO BSU WELCOME CENTER & STUDENT UNION.
+
+It was a completely weather-protected, climate-controlled corridor. They could go from the ferry dock, down the elevator, and straight into the heart of the college without ever getting rained on.
+
+"No coats required," Patrick smiled, unzipping his jacket. "Let's go to college."
+
+They rolled down The Braxton Link. As they emerged into the BSU Student Union lobby, the environment changed from the industrial hum of transit to the warm buzz of campus life.
+
+It was 7:58 AM.
+
+Volunteers in BSU hoodies were stationed at folding tables, handing out welcome packets. In the center of the room, a massive spread of continental breakfast was laid out: bagels, fruit, and industrial-sized urns of coffee.
+
+Patrick parked Nichole in the check-in line. He felt an old, familiar tension creeping up the back of his neck. He remembered the Student Center at Putney College. The tour guide ignoring them. The director calling him a liability. The physical exhaustion of just getting through the door.
+
+"Welcome to BSU!" a volunteer beamed as they reached the front of the line. She looked at Patrick, and then she looked directly at Nichole, leaning down slightly to make eye contact. "Name?"
+
+Nichole clicked her mouse.
+
+"BENNETT. N."
+
+"Nichole Bennett! Got you right here," the volunteer said, sliding a name badge and a heavy packet onto Nichole's lap tray. The girl looked at the Apex ConvertiBook with genuine interest. "Whoa. That’s an intense rig. Are you looking at the Computer Science department?"
+
+"YES."
+
+"Perfect! That presentation is at 9:00 AM in the Grand Ballroom on the second floor. Big elevators are right around the corner. Please help yourselves to breakfast!"
+
+The volunteer smiled and moved to the next student.
+
+Patrick stood frozen for a second. That was it. No panic. No lectures. No questions about aides. Just a badge, a smile, and directions to the elevators.
+
+Nichole looked up at her brother. Her shoulders, usually tense in new environments, were completely relaxed.
+
+"You want a bagel?" Patrick asked, letting out a laugh of pure relief.
+
+Nichole smiled. She tapped her screen.
+
+"EVERYTHING. BAGEL. TOASTED."
+
+They rolled over to the breakfast spread. The tables were set at thirty inches high. Patrick didn't have to reach up or squeeze through a crowd. He loaded up a plate, grabbed two coffees, and they found a quiet table near the window overlooking the concourse.
+
+They were inside. The Machine had worked.
+

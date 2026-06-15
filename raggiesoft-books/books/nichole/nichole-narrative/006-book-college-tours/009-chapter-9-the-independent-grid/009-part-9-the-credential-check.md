@@ -1,0 +1,60 @@
+# Part 9: The Credential Check
+
+## **Date:** November 15, 2003 **Time:** 1:30 PM **Location:** University Medical Center (Level 1 Lobby)
+
+After leaving the Student Success Center, Patrick didn't steer them back toward the station. He looked at the campus map one last time.
+
+"One more stop," Patrick said. "We need to verify the medical assets."
+
+They rolled down a long connector tunnel marked **COLLEGE OF HEALTH PROFESSIONS / UNIVERSITY MEDICAL CENTER**. The tunnel opened up into a massive, sterile lobby. This wasn't just a classroom building; it was a functioning Level 1 Trauma Center. Doctors in white coats and nurses in scrubs were moving with purpose.
+
+Patrick parked Nichole near the information desk for the **School of Nursing**. A recruitment banner listed the programs: *BSN, MSN, DNP*.
+
+And at the bottom: *Practical Nursing Certificate (LPN)*.
+
+A program coordinator named Mrs. Davies was manning the table. She looked up and smiled.
+
+"Interested in nursing?" she asked, looking at Patrick.
+
+"Yes," Patrick said. "I'm looking at the LPN program. I'm applying for Engineering, but I need the clinical license too."
+
+Mrs. Davies nodded, reaching for a different stack of brochures. "Well, for engineering students who want a medical background, we usually recommend the **CNA (Certified Nursing Assistant)** certification. It’s only eight weeks, and it lets you do basic patient care like hygiene and transfers. The LPN program is extremely rigorous—it's basically a full-time job."
+
+Patrick shook his head. He didn't reach for the CNA brochure.
+
+"I don't need basic care training," Patrick said, his voice firm. "I've been her primary caregiver for six years. I already handle her transfers, her hygiene, and her sensory regulation. I do the work, but I don't have the paper."
+
+He gestured to Nichole.
+
+"The problem is authority. If I'm just a CNA, I'm an assistant. I have to work under a nurse. If we move into a dorm or an apartment, a Housing Director can still say, 'That's great, Patrick, but who is supervising you?' They can still force an agency nurse on us."
+
+Mrs. Davies stopped smiling and started listening.
+
+"I need the shield," Patrick continued. "I know the difference. A CNA is a pair of hands. An LPN is a licensed nurse. An LPN can administer medications. An LPN can do sterile wound care. An LPN can write a care plan."
+
+He looked Mrs. Davies in the eye.
+
+"When I walk into a hospital room or a housing office, I need them to see a medical professional, not just a brother. I need the rank."
+
+Mrs. Davies looked at him. She saw the intensity in his eyes. She looked at Nichole, who was watching her brother with absolute trust. She realized this wasn't a student looking for a resume booster; this was a young man building a fortress.
+
+"You want the license so you can be the primary," Mrs. Davies realized.
+
+"I want the license so no one can ever tell me I'm unqualified to take care of my own sister," Patrick corrected.
+
+Mrs. Davies reached under the table and pulled out a specific packet—not the glossy brochure, but the heavy application guide with the clinical rotation schedules.
+
+"Our LPN program has a 100% NCLEX pass rate," she said, handing him the packet. "It's accelerated. You'll be in clinicals right here in the Trauma Center. It is going to be hard. But if you pass? You'll have a license valid in thirty-four states. And you will absolutely have the rank."
+
+Patrick took the packet. It felt heavy. It felt like armor.
+
+"I'm applying," Patrick said. "I'm going to knock out the prerequisites at home in Rhode Island during my gap year, and I'll see you next fall."
+
+He tucked the packet into his backpack next to his engineering notes.
+
+Nichole tapped her screen.
+
+**"MY. MEDIC."**
+
+"Damn right," Patrick said. "Let's go home."
+

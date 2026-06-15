@@ -1,0 +1,14 @@
+# Part 3: The Long Road Ahead
+
+Chloé's surgery was successful, but the prognosis was more complicated than they had hoped. "It was a complex fracture," the orthopedic surgeon explained to Alex and Megan in the consultation room. "The good news is, we were able to set it perfectly. The bad news is, the healing process is going to be long. We're looking at eight to ten weeks of absolutely no weight-bearing, followed by extensive physical therapy."
+
+The news was a heavy blow. This wasn't a simple six-week inconvenience; it was a long-term challenge. When Chloé was discharged, the reality of their new situation became starkly clear. Her primary mode of transportation would be a rented electric wheelchair, a practical necessity.
+
+During a tearful video call with their four parents, Emily Miller, ever the practical one, voiced the concern they were all feeling. "Alex, honey, we know you'll take wonderful care of her. And Megan, we know you'll be a rock star. But there are some things... like helping her in and out of the shower safely... that would be incredibly difficult for the two of you to manage on your own. It's not safe for any of you."
+
+"Your aunt is right," Thomas Mason agreed. "We need to get some professional help in there, just for a few hours a day, to handle the heavy lifting."
+
+Megan, who had been quietly shouldering the new caregiving responsibilities, immediately saw the wisdom in their suggestion. "They're right, guys," she said to Alex and Chloé. "I can handle the cooking and the cleaning and help you with just about everything else, but the transfers in the bathroom... a professional would be a really good idea."
+
+And so, a new member was introduced into their small, self-contained world: a home health nurse named Patricia, a kind, capable woman who would come for a few hours each morning to assist Chloé with the most physically demanding tasks, primarily bathing and dressing. She quickly and seamlessly integrated into their team, her professional expertise a welcome and necessary support. Alex was the logistical commander, Megan was the round-the-clock support, and Patricia was the specialist who ensured Chloé's physical recovery was handled with the utmost safety and care.
+

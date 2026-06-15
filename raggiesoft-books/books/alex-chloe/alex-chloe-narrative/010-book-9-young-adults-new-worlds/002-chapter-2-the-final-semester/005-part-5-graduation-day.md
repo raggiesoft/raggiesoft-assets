@@ -1,0 +1,33 @@
+# Part 5: Graduation Day
+
+The vast hall of the Tidewater Convention Center buzzed with the energy of a thousand futures about to begin. The air was thick with the scent of hairspray and nervous excitement, all set to the familiar, stately rhythm of "Pomp and Circumstance." For Alex and Chloé, seated amongst the sea of graduates in their identical blue caps and gowns, it was the triumphant culmination of two and a half years of relentless hard work.
+
+True to their word, the CCHR administration had made the necessary accommodations. Alex and Chloé were seated together in a designated area at the end of a row, right next to the wide ramp leading up to the stage. In the audience, the "family of six" plus Megan sat together, a proud, unified bloc of teary-eyed parents and one fiercely proud cousin, their cameras at the ready.
+
+The moment the organ began to play the opening notes of "Pomp and Circumstance," the ceremony's emotional weight hit Alex like a physical force. It wasn't just the sound; it was the overwhelming tidal wave of everything it represented: the profound relief of being safe from Vera, the joy of having his family whole again, the victory of this shared achievement with Chloé. It was all too much.
+
+His carefully constructed composure began to fray. A tremor started in his hands, and he discreetly adjusted the high-fidelity earplugs he was wearing.
+
+Chloé saw it instantly. She didn't make a scene. She just reached over and placed a firm, grounding hand on his knee, her touch a silent, powerful anchor. "*Respirez, mon amour,*" she murmured, her voice a private current in the ocean of noise. "*C'est juste de la joie. Je te tiens.*" (Breathe, my love. It's just joy. I've got you.)
+
+Her voice, her touch, her language—it was the perfect combination. The roaring in his head subsided. He took a long, shuddering breath and found his focus again, just as the moment arrived.
+
+The dean's voice boomed over the sound system. "And now, graduating with an Associate of Science in Computer Science... Alexander James Miller."
+
+A wave of applause went through the hall, led by a particularly loud cheer from Megan in the audience.
+
+"And, with an Associate of Arts in Liberal Arts... Chloé Angélique Miller."
+
+Together, they moved towards the stage. Chloé walked slowly, her pace perfectly matched to the smooth glide of Alex's "Quantum Glide" power chair. He drove to the base of the ramp and stopped. With a quiet whir of powerful motors, the chair began to transform, lifting him smoothly, securely, until he was standing tall and proud.
+
+A collective, soft gasp went through the audience nearby. Their parents were openly weeping with joy.
+
+He then drove his chair forward, walking across the stage under his own power. Chloé was right at his side. They reached the center of the stage and stood before the college president, eye to eye. He accepted his diploma with a steady hand and a firm, grateful nod. The president then turned and handed Chloé her own diploma, her smile the brightest thing in the entire hall.
+
+The applause was thunderous.
+
+For the journey back, Alex once again paused at the top of the ramp, the chair smoothly lowering him back into a seated position. He and Chloé met at the bottom, their diplomas clutched in their hands.
+
+They had done it. They had faced down trauma, navigated the challenges of college, and built a life together. And today, they had walked—and stood—across the stage as equals, as partners, as graduates. Their time in Virginia was drawing to a close. The Pacific Northwest, and the rest of their lives, was waiting.
+
+

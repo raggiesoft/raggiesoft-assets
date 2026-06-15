@@ -1,0 +1,104 @@
+# Part 2: The Departure Protocol
+
+## Thursday, May 13, 2004 — 08:15 AM (PST) Front Desk, The Airport Grand Hotel
+
+The lobby was busier now. Businessmen in suits were rolling jagged lines of black luggage toward the automatic doors. Flight crews were gathering near the elevators.
+
+Jessica walked up to the high marble counter.
+
+"Checking out of 512," she said, sliding the two plastic key cards across the surface. "Avery."
+
+The clerk typed for a moment. The dot-matrix printer behind the desk whirred to life, spitting out a long strip of perforated paper.
+
+"Here is your folio, Ms. Avery," the clerk said, tearing off the sheet and presenting it. "Room charge, tax, and the breakfast charge from this morning. The total is on the bottom."
+
+Jessica scanned the numbers. It was a significant amount, especially with the "Airport Pricing" on the eggs, but she didn't flinch. She pulled out her personal credit card—the one backed by the trust fund Great Aunt Marge had left her. Marge had been a shrewd woman who believed in "mad money," and Jessica was more than happy to use it to secure her brother’s safety.
+
+"Approved," the clerk said after swiping it. "You're all set. The shuttle is loading now."
+
+"Transaction complete," Freddie whispered, watching the paper receipt being folded into an envelope. "Debt settled."
+
+They walked out into the cool, grey morning air. The white cutaway van was idling at the curb, its diesel engine clattering rhythmically.
+
+The driver tossed their duffel bags into the rear luggage cage.
+
+"All aboard!" he called out.
+
+They climbed up the steps. The interior was the same as before—grey vinyl seats, 2x2 configuration, smelling of coffee and exhaust.
+
+Paige moved toward the window seat on the left. She paused, looking at Freddie.
+
+Freddie stood in the aisle, looking at the empty row on the right. He looked at Jessica. He felt heavy. The waffles, the eggs, the bacon, and the chocolate milk were sitting in his stomach like lead weights. Good weights. Ballast.
+
+He didn't want to be alone in a seat. He wanted the absolute, immovable bedrock of his big sister.
+
+"Jessica?" Freddie asked softly, gesturing to the seat next to hers. "Permission to... dock?"
+
+Jessica smiled, a warm, genuine expression that softened the hard lines of her face.
+
+"Permission granted," she said immediately. "Get in there."
+
+"I'll take the solo watch," Paige said, hopping into the seat across the aisle. "I've got the perimeter."
+
+Freddie sat down in the aisle seat. It was tight, but that was the point.
+
+"Buckle up," Jessica said, clicking her lap belt.
+
+Freddie clicked his. The van lurched forward, pulling away from the curb and merging into the airport loop traffic.
+
+Freddie let out a long breath. He let his head drop to the right, landing heavily on Jessica’s shoulder.
+
+Jessica didn't stiffen. She shifted instantly, slumping slightly against the cold window to create a better angle for him. She lifted her left arm and wrapped it around his waist, her hand coming to rest flat against his stomach.
+
+She felt the warmth of him through his hoodie. She felt the solid fullness of his belly, packed with the expensive breakfast she had gladly paid for.
+
+"Status?" Jessica asked, her voice vibrating against his ear.
+
+"Full," Freddie mumbled, closing his eyes. "Systems are... heavy. Safe."
+
+He felt her hand squeeze his stomach gently—not a tickle, just pressure. It was a reassuring clamp. It said, *I have you. You are fed. You are mine.*
+
+Across the aisle, Paige watched them. She saw her big sister acting like a shield, and her twin brother resting against her like a tired soldier.
+
+A smirk tugged at the corner of Paige’s mouth.
+
+She thought about Vanessa. She thought about how possessive Vanessa had been, how she had hated it whenever Freddie showed affection to anyone else. Vanessa had wanted to be the *only* woman in Freddie’s world. She had wanted to be the only source of comfort.
+
+*She had no idea,* Paige thought, almost laughing out loud.
+
+Vanessa’s head would probably explode if she knew the truth. Back home in Virginia Beach, at Mom’s house (Ellen’s domain), there wasn't just Jessica and Paige. There was an entire battalion.
+
+There were the younger twins, **Sarah** and **Jenna** (14), already chaos agents in their own right. There was **Harper** (11), zooming around in her wheelchair, always demanding Freddie listen to her music. And the babies, **Amanda** and **Elara** (9), who treated Freddie like a living jungle gym.
+
+Seven sisters. Seven women who loved him, claimed him, and protected him.
+
+*Vanessa tried to compete with a harem,* Paige thought, watching Jessica rub Freddie’s arm soothingly. *She never stood a chance against the Avery girls.*
+
+Then, another thought crossed Paige's mind as she watched the grey Washington landscape roll by.
+
+"We're in his sector," Paige whispered, leaning across the aisle so only Jessica could hear.
+
+Jessica’s eyes narrowed slightly. She knew exactly who Paige meant.
+
+**Robert.** Their father.
+
+"Clark County," Jessica confirmed quietly. "Orchards. Just across the river from Portland."
+
+"That's less than three hours south," Paige noted.
+
+They both looked at Freddie. He was fast asleep on Jessica's shoulder, oblivious.
+
+Their mother, Ellen, had finally divorced Robert in 2001. He had refused to work, refused to help with the kids, and refused to "better himself." He had drifted out here to the Pacific Northwest to start over, leaving the wreckage of his family behind.
+
+"Did we...?" Paige started.
+
+"No," Jessica cut her off, her voice firm but low. "We didn't look him up. We didn't call. He is a deprecated system."
+
+"Good," Paige nodded, looking out at the fir trees. "I don't miss him. And honestly? I'm glad we didn't waste a single mile of this trip on him."
+
+"He made his choice," Jessica said, tightening her arm around Freddie’s stomach. "He left. We stayed. We are the unit now."
+
+"Sleep," Jessica commanded softly, resting her cheek against the top of Freddie's head, closing the file on their father just as easily as she had closed the hotel bill. "It's just a ten-minute ride. I'll wake you at the terminal."
+
+"Affirmative," Freddie sighed in his sleep, sinking deeper into the embrace of the only family he would ever need.
+

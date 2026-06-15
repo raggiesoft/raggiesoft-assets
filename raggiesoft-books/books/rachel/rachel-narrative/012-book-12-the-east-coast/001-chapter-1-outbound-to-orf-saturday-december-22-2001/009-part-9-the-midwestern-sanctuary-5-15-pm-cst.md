@@ -1,0 +1,71 @@
+# Part 9: The Midwestern Sanctuary – 5:15 PM (CST)
+
+(Rachel's POV)
+
+The physical aftermath of a dual-system crash is a heavy, hollow exhaustion. My muscles felt like they were filled with wet sand, and my throat was raw from the vocalizations.
+
+But as I pushed Jessica’s wheelchair down the crowded expanse of Concourse C, the suffocating terror of the Prismatic Corridor was gone, completely overwritten by the soaring, triumphant chords of The Arctic Symphony Project still echoing in my mind.
+
+I kept my eyes locked onto the back of Jessica's jacket. I didn't look at the thousands of stranded holiday travelers, and I didn't listen to the blaring public address system. I just focused on the mechanical resistance of the wheelchair tires and the mathematical certainty of our destination.
+
+"On the left, Rachel," Jessica instructed, her voice calm and steady. "The frosted glass doors."
+
+I adjusted my grip and steered us away from the chaotic pedestrian current. Tucked between a bustling newsstand and a crowded terminal restaurant was the discreet, polished wood podium of the Meridian First Class Lounge.
+
+Jessica handed our boarding passes to the attendant. The heavy glass doors hissed open, and I pushed us inside.
+
+The transition was instant. It was like stepping into an acoustic vault.
+
+The heavy, sound-dampening carpets and velvet curtains immediately absorbed the roar of Concourse C. The harsh, buzzing fluorescent lights of the terminal were replaced by warm, amber table lamps. There was no flashing neon. There was no synthesized disco music.
+
+My shoulders dropped a full two inches. I let out a long, ragged exhale, my grip on the rubber push-handles finally loosening.
+
+"Deep breaths," Jessica murmured, guiding my navigation with subtle points of her finger. "We are off the grid. Park us in the far corner, facing the windows."
+
+I pushed the chair into a quiet, isolated pod of oversized leather armchairs at the very back of the lounge. Jessica locked her brakes, securing her perimeter, and I collapsed into the deep leather seat beside her.
+
+I pulled my knees tightly against my chest, wrapping my arms around my legs. My body was humming with a low-frequency tremble—the final remnants of the adrenaline leaving my system.
+
+Jessica didn't immediately bombard me with questions. She didn't ask if I was okay, because her analytical brain already knew I was running on less than one percent battery. Instead, she reached into her heavy canvas tote bag, pulled out a thick, plastic water bottle, and set it on the mahogany table between us.
+
+"Hydration protocol first," Jessica commanded softly. "You depleted a massive amount of fluid. Drink."
+
+I uncurled one arm, taking the bottle. The water was cold, and the simple, mechanical act of swallowing helped ground my nervous system.
+
+"I know your processor is exhausted," Jessica said, her tone shifting into a gentle, logistical rhythm. "But we have a two-hour layover before they call the flight for Norfolk. We need to execute a meal protocol to rebuild your stamina. Can you go to the buffet, or do you need me to ask the attendant to bring us plates?"
+
+I looked toward the back of the lounge. The buffet was a long, glowing expanse of white marble. It was completely empty. No lines. No strangers.
+
+I thought about the hot, rich food waiting under the silver chafing dishes. I thought about the predictable geometry of the porcelain plates.
+
+"I can do it," I rasped, my voice sounding incredibly small in the quiet room.
+
+"Take your time," Jessica nodded, opening her textbook on her lap to signal that our pod was securely held.
+
+I stood up, my legs feeling slightly shaky, and walked the fifty feet to the food station. The predictability of the First Class Lounge was a profound comfort. It was exactly like the lounge in Seattle. I picked up a heavy, warm plate. I bypassed the complex, mixed salads and focused entirely on the safe, familiar textures.
+
+I selected a generous scoop of roasted potatoes, a perfectly square piece of grilled chicken, and two soft dinner rolls. I built an identical plate for Jessica, carefully balancing them both as I walked back to our sanctuary in the corner.
+
+"Flawless execution," Jessica praised, setting her book aside to take her plate.
+
+I sank back into the leather chair, balancing the warm porcelain on my knees. We ate in complete silence. The food was heavy and grounding, providing the exact caloric fuel my exhausted body desperately needed.
+
+As I chewed, I looked out the massive window. The sun was beginning to set over the sprawling Chicago tarmac, casting long, bruised purple shadows across the concrete.
+
+I watched a ground crew guide a small, twin-engine regional jet into the gate directly below our window. A digital display board hanging from the ceiling inside the lounge quietly ticked over.
+
+FLIGHT 814 – NORFOLK (ORF) – ON TIME.
+
+I stopped chewing. I stared at the three bold letters on the screen. *ORF.* The math was finally condensing into a single, undeniable vector. We had survived the security lines. We had survived the cross-country flight. I had survived the absolute nightmare of the Prismatic Corridor.
+
+There were no more tunnels. There were no more layovers. The very next time the aircraft doors opened, I would be breathing Virginia air.
+
+I set my fork down, pulling my knees a little tighter against my chest, and let out a soft, rhythmic hum that vibrated against the heavy leather of the chair.
+
+"You feel it, don't you?" Jessica asked quietly, a fiercely protective smile touching the corners of her mouth.
+
+I nodded, my dark eyes locked onto the screen.
+
+"Two hours," Jessica promised, cutting off a piece of her dinner roll. "Eat your potatoes, Rachel. Because the next time we have to navigate a terminal, Michael is going to be standing right at the end of it."
+
+

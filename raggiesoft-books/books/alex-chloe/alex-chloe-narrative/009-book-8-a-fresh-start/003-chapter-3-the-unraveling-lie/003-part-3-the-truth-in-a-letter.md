@@ -1,0 +1,12 @@
+# Part 3: The Truth in a Letter
+
+Ms. Albright's response to Vera's lawyer was a masterpiece of legal strategy. It was a carefully constructed trap, designed not just to refute Vera's claim, but to dismantle it with her own willing participation. The letter stated that their client, Alex Miller, unequivocally denied paternity based on pre-existing and documented medical infertility.
+
+However, it continued, to resolve the matter with absolute finality and avoid a protracted, painful legal battle for all involved, their client *demanded* that Ms. Kowalski submit to a non-invasive prenatal paternity test at their earliest convenience. The letter specified that the test must be conducted at a neutral, court-approved medical facility, and, as a show of good faith, their client would cover all associated costs.
+
+Vera, sitting in her own lawyer's slightly less polished office, read the letter with a triumphant smirk. Her lawyer, a cautious man named Mr. Henderson, looked worried. "Vera," he said, "this is an aggressive move. They're not just denying it; they're offering to pay for a test that could prove them right. Are you absolutely certain about this?"
+
+*He's calling my bluff,* Vera thought, ignoring her lawyer's caution. *He thinks I'll back down.* Her own delusion was now so complete, her narrative so deeply ingrained, that she had convinced herself the child must be his, a miracle, a sign of their "special connection." The alternative—that she was alone and pregnant after a meaningless one-night stand—was too bleak to contemplate.
+
+"Of course, I'll take the test," she declared, her voice full of a righteous, theatrical indignation. "I have nothing to hide. It will prove everything. And when it does," she added, a venomous glint in her eye, "he will pay for ever doubting me."
+

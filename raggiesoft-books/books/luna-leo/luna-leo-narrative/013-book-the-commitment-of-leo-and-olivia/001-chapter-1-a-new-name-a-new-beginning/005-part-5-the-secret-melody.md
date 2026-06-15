@@ -1,0 +1,24 @@
+# Part 5: The Secret Melody
+
+The warm, satisfied glow from their celebratory lunch settled over the house as they returned to Daniel Maloney Drive. The afternoon sun streamed through the living room windows, creating a peaceful, lazy atmosphere. But for Luna, the quiet was a call to action.
+
+"Okay," she announced, a determined sparkle in her eyes. "I need to practice. And no one is allowed to listen. This is a surprise for tomorrow."
+
+With a dramatic flourish, she retrieved her flute case, gave her family a look that was equal parts loving and threatening, and disappeared into her bedroom, shutting the door firmly behind her. A few moments later, the faint, ethereal sound of scales began to drift from under her door, the precursor to a melody no one else was yet allowed to hear.
+
+In the living room, the remaining members of the fortress settled onto the sofa. The day's excitement had ebbed, leaving a comfortable quiet in its wake. "Well," Olivia said with a soft smile, "I guess that leaves us to our own devices." She looked at Stella, then at Leo, her expression playful. "*Alors, on continue notre leçon?*" (So, shall we continue our lesson?)
+
+Stella grinned. "But of course. We must be prepared."
+
+For the next hour, Olivia led them through more conversational Québécois French. The lessons, which had started with simple vocabulary, had blossomed into something more fluid, more natural. The three of them—and even Luna, whose progress was evident when she wasn't hiding in her room—were beginning to truly grasp the rhythm and flow of the language.
+
+Leo, using his **Quantum Communicator**, was an enthusiastic participant. The stilted, American-accented pronunciation of the French words no longer felt like a bug, but a feature—his unique voice in this new language. He was now able to string together entire phrases, asking questions and making jokes, his timing impeccable.
+
+**Leo's Communicator:** "*Ma blonde, je t'aime plus que la poutine.*" (My girlfriend, I love you more than poutine.)
+
+Olivia let out a peal of delighted laughter, leaning over to kiss him on the cheek. "That's a very serious declaration, *mon chum*," she said, her eyes sparkling.
+
+Stella, watching them, felt a profound sense of peace. She effortlessly added her own phrase, her pronunciation now confident and clear. "*Vous êtes parfaits ensemble.*" (You are perfect together.)
+
+It was a simple, quiet afternoon. But in the gentle cadence of their new, shared language and the secret, beautiful melody taking shape behind a closed door, the final, joyful preparations for the commitment of Leo and Olivia were falling perfectly into place.
+

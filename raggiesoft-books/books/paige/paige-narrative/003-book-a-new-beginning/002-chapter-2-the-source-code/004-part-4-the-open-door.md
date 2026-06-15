@@ -1,0 +1,62 @@
+# Part 4: The Open Door
+
+## Sunday, June 15, 2003 22:30 PM
+
+The living room was dim, lit only by the soft glow of a floor lamp. Outside the sliding glass door, the mountains were invisible against the black sky. On the beige sofa, the "Deep Pressure" session had been running for over an hour. Freddie lay still, his breathing slow and heavy, synced with Paige’s. Paige shifted her weight. She was tired. The long day of moving in, the emotional weight of the "Manual" review, and the constant regulation of her brother had drained her battery. "Okay," Paige whispered into the quiet room. "I need to shower before bed. I'll be right back."
+
+The words were meant to be a simple transition to the night routine. To Freddie, they were a severance order. His brain didn't process "right back." It only processed *leaving*. The connection was breaking. The anchor was lifting right before the terrifying void of sleep. "No!" Freddie tried to say. But the word didn't come out. The vocal processor had crashed. As Paige stood up to head to the bathroom, Freddie’s hand shot out. He grabbed her wrist, his grip frantic and unmeasured. He yanked her back. Paige stumbled, falling back onto the cushions with a soft *oomph*. "Freddie?" she asked, startled.
+
+She looked at his face in the dim light. It wasn't just anxiety. It was a full system crash. His eyes were wide and wet, staring at her with absolute, primal terror. He opened his mouth to speak, but no sound emerged. Not a whisper. Not a squeak. The static in his head was so loud it had severed the connection to his vocal cords. Tears spilled over his cheeks. He tightened his grip on her wrist, shaking his head violently. *Don't go. Don't go.*
+
+"Oh, Freddie," Paige whispered, realizing the error. "I'm sorry. I'm so sorry." She wrapped her arms around him, pulling him into a crushingly tight hug. "I wasn't leaving *you*. I was just going to the water. I'm here. I'm right here."
+
+Jessica watched from the kitchen, where she had been tidying up the last of the mugs. Her expression was calculating. "He's non-verbal," Jessica observed calmly, walking over. "The stress broke the audio driver." She looked at Paige, then at Freddie, who was sobbing silently into Paige’s neck, his body shaking with the effort to scream without a voice. "Protocol change," Jessica announced. "We do it now. No more hiding. No more modesty. If he needs to see you to know you're there, then he sees you."
+
+Paige nodded against Freddie’s hair. She understood the assignment. "Okay," she whispered to him. "Okay, Freddie. Listen to me. You don't have to talk. I know you can't. Just listen." She pulled back slightly to look him in the eye. "We are going to the bathroom. Together. I am going to shower, and you are going to sit right there and watch me so you know I'm not leaving. Okay?" Freddie stared at her. He squeezed her hand once. *Yes.*
+
+"And," Paige continued, her voice steady and practical, "we are going to get undressed. Both of us. Because if we’re going to share a bed tonight, we need to get over the 'shy' thing right now. It is what it is."
+
+She stood up again, but this time she kept his hand in hers. "Come on," she said gently. "Command Center."
+
+**The Shower** They walked into the master bathroom attached to the main bedroom. It was a standard setup: a toilet, a sink, and a bathtub with a showerhead. The fluorescent light buzzed softly overhead. "Sit," Paige instructed, pointing to the toilet. She put the lid down. Freddie sat. He was trembling, his hands gripping his knees. He looked at her, his eyes begging her not to disappear behind the curtain. Paige didn't hesitate. She pulled her t-shirt over her head. She pushed her shorts down. She stood there, completely exposed. She looked at Freddie. He looked at her. It was the first time he had ever seen a female body. It was the first time she had shown one to a guy. But in the small, bright bathroom, with the ghost of a meltdown hovering in the air, it wasn't sexual. It was just biology. It was just Paige.
+
+"See?" Paige said softly. "Just skin. Just me." Freddie stared. He blinked slowly. He didn't look away. The panic in his chest ratcheted down a notch. *She is still here.* "Your turn," Paige said. "You're sweaty from the panic. Let's get the armor off." She helped him stand. She helped him pull off the orange hoodie and the pajama pants. He stood before her, pale and shivering. He opened his mouth to say *It is cold*, but nothing came out. He just shivered violently. "I know," Paige said, reading the shiver. "The water will fix it."
+
+She stepped into the tub and turned the handle. The shower hissed to life. She reached for the shower curtain—a heavy, opaque white plastic. She started to pull it closed, then stopped. If she closed it, the wall would return. He wouldn't see her. "Nope," Paige muttered. She left the curtain wide open. "I'm going to make a mess," she told him. "The floor is going to get wet. We'll buy a clear curtain tomorrow. But for now, you watch."
+
+She stepped under the spray. Water splashed out onto the tile, soaking the bathmat. Paige didn't care. She washed quickly, keeping her eyes on him. Freddie sat on the toilet lid, watching her. He wasn't staring at her anatomy; he was staring at her presence. She was there. She was real. She wasn't leaving. The silence in the room wasn't empty; it was heavy with trust.
+
+"Okay," Paige said, turning off the water. She dripped onto the mat, slick and clean. She looked at him. He was slumped on the seat, utterly drained. His head hung low. "Your turn," she said. "You're exhausted. You need the heat." Freddie tried to stand, but his legs were jelly. He stumbled. Paige caught him. "I've got you," she whispered.
+
+She walked him to the edge of the tub. "Sit on the edge," she instructed. He sat. He couldn't lift his legs. The signal from his brain to his muscles was too weak. Paige didn't wait for him to try. She bent down, lifted his left leg, and swung it over the porcelain lip. Then the right. "Slide down," she said. He slid into the warm, wet tub. He sat with his knees drawn up, his head resting on his knees. The silence wrapped around him like a blanket.
+
+The door opened. Jessica walked in. She was naked, her clothes left in a pile in the hallway. She walked in with the casual confidence of someone entering a locker room. She saw the wet floor. She saw Paige kneeling by the tub. She saw Freddie curled in the water, silent and broken. "Reinforcements," Jessica said simply. She grabbed a washcloth from the rack and knelt beside the tub, opposite Paige.
+
+"Hi, Freddie," Jessica said softly. "We're all here. No secrets." Freddie lifted his head. He looked at Jessica. He looked at Paige. Both of his sisters, stripped of all barriers, kneeling on the wet tile to take care of him. He opened his mouth, trying to force out a *Thank you*, but his throat just clicked. "Don't try," Jessica said gently. "We know." She dipped the washcloth in the water and began to gently wash his back. "We're scrubbing the static off."
+
+Paige took the shampoo. She poured a dollop into her hand. "Lean back a little," Paige murmured. Freddie tipped his head back. He closed his eyes. Paige worked her fingers into his scalp. It was a clinical, rhythmic massage. *Scrub. Scrub. Rinse.* She didn't ask if the pressure was okay; she knew. She pressed hard, grounding him through his skull. Jessica washed his arms, her movements efficient and firm. "You see?" Jessica said quietly. "This isn't scary. It's just maintenance. You help us, we help you."
+
+Freddie sat in the warm water, surrounded by the steam and the scent of soap. He felt cherished. He felt safe. The shame of the meltdown—the embarrassment of needing help—evaporated. He realized he didn't need words. They spoke his language. He let his head loll to the side, resting against Paige’s arm. He let out a long, shaky exhale. It was the only sound he made.
+
+**The Cocoon** Getting him out was a team effort. Paige turned off the water. Jessica grabbed the big fluffy towel. "Up," Jessica commanded gently. They gripped his arms and hoisted him out of the tub. He was dead weight, but they were strong. He stood on the wet mat, shivering slightly. Jessica wrapped the towel around him instantly, rubbing his shoulders briskly to generate heat. Paige grabbed a second towel and dried his legs. They dried him off completely before they even reached for their own towels. "Dry?" Paige asked. Freddie nodded once.
+
+He looked at them. They were still wet, water beading on their skin. He pointed at the door, then at his clothes pile, raising an eyebrow in a silent question. *Clothes?* "Negative," Jessica said, tossing her wet hair back. "We're testing the theory, remember? We sleep without the armor tonight. We trust the room." Freddie looked at Paige. She nodded. Freddie nodded back. *Okay.*
+
+## June 14, 2003 22:15 PM
+
+They walked into the **Silo**. The blackout curtains were drawn, sealing out the Virginia sun. The room was cool, dark, and smelled faintly of the lemon polish from the hallway. The **King Bed** waited. It was a massive, 76-inch island of maroon fabric in the center of the room.
+
+"We have space," Jessica noted, pulling back the heavy duvet. "But tonight, we don't use it." She looked at Freddie. He was standing by the edge of the bed, his shoulders slumped, his eyes half-closed. The silence in his throat was absolute; the audio drivers were completely offline. "Compression Protocol," Jessica whispered. "I'll take the left flank. Paige, you take the right. Freddie, you're the core."
+
+They climbed in. Even though the mattress was wide enough for them to sleep without touching, they ignored the real estate. They gravitated to the center. Freddie lay on his back in the middle. Jessica lay on his left, curling into his side, her arm draped heavily over his chest to provide the deep pressure he needed. Paige lay on his right, mirroring her, her head resting on his shoulder, her leg hooked over his to pin him to the mattress.
+
+It was a cocoon of skin and heat. The extra space on the edges of the mattress lay empty. In the center, there was zero space between them. There was no room for nightmares. There was no room for the graduation song. There was only the steady, synchronized breathing of the Avery Unit.
+
+"Safe?" Paige whispered in the dark, her voice barely louder than the air conditioner.
+
+Freddie felt the weight of them pressing him down into the mattress, anchoring him to the earth. He tried to form the word, but his throat was a locked door. The exhaustion was too deep. He didn't force the glitch. He didn't panic. He simply reached out with his left hand and squeezed Jessica’s forearm. *Squeeze.* Then he reached out with his right hand and found Paige’s fingers. *Squeeze.*
+
+*Safe.*
+
+He closed his eyes. The static was gone. The loop was broken. For the first time in his life, he wasn't just sleeping. He was being held.
+

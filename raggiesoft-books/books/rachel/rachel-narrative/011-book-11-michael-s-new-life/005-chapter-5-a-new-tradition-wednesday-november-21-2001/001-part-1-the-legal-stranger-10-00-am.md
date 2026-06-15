@@ -1,0 +1,52 @@
+# Part 1: The Legal Stranger – 10:00 AM
+
+The sanctuary of the Federal Way apartment held perfectly through the night. When Wednesday morning arrived—the day before Thanksgiving—the heavy, suffocating anxiety that had defined our lives for the last two months was completely gone.
+
+Rachel was sitting on the floor in front of the television, happily hyper-focusing on a video game Jessica had set up for her. I was at the kitchen counter, drinking coffee and mapping out the logistics for the dinner we were going to cook tomorrow.
+
+Then, the landline phone on the wall rang.
+
+Rachel instantly froze, the game controller dropping into her lap. Her eyes darted toward the phone, the phantom fear of Dad’s heavy, authoritative voice returning in a flash.
+
+Jessica rolled her wheelchair out from her bedroom. She didn't look scared; she looked annoyed that her perimeter was being tested. She wheeled over to the wall, pulled the receiver off the hook, and pressed the speakerphone button so I could hear the threat assessment.
+
+"Federal Way residence," Jessica answered, her voice completely flat.
+
+"You need to put Rachel on a train back to Vancouver right now."
+
+It wasn't Dad. It was Cathy. Her voice was shrill, panicked, and dripping with an entitled, blinding rage.
+
+"Good morning to you too, Cathy," Jessica replied, her tone dipping into absolute ice. "Rachel isn't going anywhere. We have a court order."
+
+"That piece of paper is a joke!" Cathy shrieked through the tiny speaker. "Tom is going to court. He's calling the police, and he is fighting this. You don't just steal a child!"
+
+"Tom isn't doing anything," Jessica corrected her smoothly. "Tom can't afford the filing fee to challenge a Virginia injunction, and he certainly isn't going to risk walking into a courtroom where I can formally present his financial records to a judge. He surrendered."
+
+There was a heavy, ragged breathing on the other end of the line. The truth of Dad's cowardice was undeniable, even to Cathy.
+
+"Then I'll fight it!" Cathy snapped, her desperation finally breaking through the anger. "If he won't do it, I will! I'll hire my own lawyer and drag you into a Washington court myself. I built a home for that girl! I cleared out my second bedroom. I wanted a family in this apartment, Jessica. I wanted a chance to raise a child right, and you have no right to steal my second chance!"
+
+Standing at the kitchen counter, my analytical brain rapidly processed the horrific, selfish truth of what Cathy had just admitted.
+
+She didn't love Rachel. She didn't care about Rachel’s neurodivergent needs, or her trauma, or her anchors. Cathy was suffering from a massive, delusional case of empty-nest syndrome. Her own biological children were an absolute disaster—one son rotting in a cell at Sussex I State Prison back in Virginia, another son failing spectacularly in his own apartment, and a daughter whose whereabouts were completely unknown. Cathy had failed as a mother.
+
+When Dad showed up with a quiet, traumatized fourteen-year-old girl, Cathy didn't see a stepdaughter. She saw a blank slate. She saw a captive "do-over" child to fill the empty bedroom in her walk-up apartment so she could play house and pretend she was a successful parent.
+
+Jessica let out a sharp, genuine laugh. It was a cold, clinical sound.
+
+"You're going to hire a lawyer?" Jessica asked, thoroughly amused by the delusion. "To do what, exactly?"
+
+"To get my stepdaughter back!"
+
+"You aren't married to him, Cathy. She isn't your stepdaughter," Jessica stated, dropping the final, devastating legal reality onto the phone line. "You have absolutely zero legal standing in this case. You are not a biological parent. You are not a legal guardian. To the family court system, you are just the woman my father splits rent with. You are a legal stranger."
+
+"Listen to me, you arrogant little—"
+
+"No, you listen to me," Jessica interrupted, her voice snapping like a whip, echoing the exact tone our mother used when she was pushed past her limit. "My sister is not a replacement goldfish for the children you already ruined. If you ever call this number again, I won't just block you. I will have my Quantum-funded lawyer file a harassment injunction against you so fast it will make your head spin. Have a miserable Thanksgiving, Cathy."
+
+Jessica slammed her hand down on the receiver, disconnecting the call with a loud, final *click*.
+
+She let out a long breath, shaking her head. She looked over at Rachel, who was staring at the phone with wide eyes.
+
+"Well," Jessica smiled, her face instantly softening as she looked at our little sister. "I think that officially takes care of the Vancouver problem. Now, who wants to help me check on the turkey I've had thawing in the fridge since Sunday, and maybe get a head start on the pie crusts?"
+

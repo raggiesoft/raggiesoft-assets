@@ -1,0 +1,72 @@
+# Part 5: Safe Harbor – 1:00 PM
+
+The suffocating tension of the morning's meltdown had finally bled out of the living room. *The Lost Valley* had ended, the little dinosaur had found his sanctuary, and a quiet, exhausted calm had settled over the sofa bed. Dad had returned to the kitchen to help Mom field phone calls, but the heavy wooden door remained propped open just enough for him to keep an eye on the perimeter.
+
+At one o'clock, the doorbell rang.
+
+Dad walked down the hallway and pulled the front door open. Standing on the porch in her pristine white lab coat was Dr. Allison Evans, the lead dentist and owner of **Safe Harbor Pediatric Dentistry**.
+
+She was holding a small cardboard drink carrier holding two large vanilla milkshakes, and a plastic grocery bag.
+
+"Tom," Dr. Evans said, her voice gentle but carrying a heavy, professional gravity. "I'm sorry to drop by unannounced. I used my lunch break to drive over. I had to see them."
+
+"Come in, Allison," Dad murmured, stepping aside and opening the door wider.
+
+Mom stepped out of the kitchen, her eyes widening in surprise. "Dr. Evans? You didn't have to leave the clinic."
+
+"Ellen, yes I did," Dr. Evans said firmly, stepping into the entryway. She set the milkshakes and the bag down on the foyer table and immediately pulled Mom into a tight, fierce hug. For a second, the clinical professionalism dropped, and she was just another woman horrified by what had happened to the children she cared for.
+
+Dr. Evans pulled back, her expression hardening with resolve.
+
+"I need you to know something before I go say hello to them," Dr. Evans said, looking directly at Mom and Dad. "I spent the entire weekend on the phone with my commercial real estate broker. I am breaking my lease at 912 Professional Place."
+
+Mom blinked, stunned. "Allison, the penalty for breaking a commercial lease in that plaza—"
+
+"I don't care what it costs," Dr. Evans interrupted, her voice radiating absolute, uncompromising protection. "Tidewater Tumblers is in Suite A. Safe Harbor is in Suite F. We share the same concrete walkway. I will absolutely not force the parents of my special needs patients to walk their children past a crime scene, and I will not look at that Dojang's sign every morning. We are moving."
+
+Dad gave a slow, deeply respectful nod. "That is a massive undertaking, Allison."
+
+"It's the only option," she stated flatly. Then, her eyes softened, and she reached out to squeeze Mom's hand. "And Ellen, I want you to know: I have the blueprints for the new office drawn up already. Exam Room 3 is coming with us."
+
+A wave of profound relief washed over Mom's face. Exam Room 3 was the side-by-side room. It was the only reason Michael and Rachel could tolerate the dentist.
+
+"We are building it exactly the same," Dr. Evans promised. "Two chairs, side-by-side. Whenever they are physically and psychologically ready to come back to see me—even if it's a year from now—their room will be waiting for them."
+
+Mom covered her mouth, tears springing to her eyes. "Thank you. Thank you, Allison."
+
+"Can I see them?" Dr. Evans asked softly.
+
+"They're right in here," Dad said, guiding the dentist toward the living room archway.
+
+Dr. Evans stopped at the edge of the carpet. She was a medical professional who specialized in sensory integration and trauma. She immediately recognized the architecture of the room: the girls on the floor mattresses acting as guards, the rigid forty-five-degree wedges, and the massive, three-pillow barrier running down the center of the bed. She knew better than to cross the perimeter uninvited.
+
+"Hi, guys," Dr. Evans said gently, keeping her voice low and soothing.
+
+I turned my head. Seeing Dr. Evans standing in our living room was incredibly jarring, but it wasn't scary. She was one of the "safe" adults. She was the one who always let me hold Rachel's hand while the hygienist worked.
+
+On the other side of the pillow wall, Rachel flinched slightly at the sudden appearance of a non-pack adult, but she didn't hide. She just gripped my fingers tighter.
+
+"I'm not here to do a check-up," Dr. Evans promised immediately, reading our body language perfectly. She offered a warm, sad smile. "I just wanted to drop off some soft food. I brought vanilla milkshakes. No chewing required."
+
+I swallowed hard, finding my voice. "Thank you, Dr. Evans."
+
+Rachel didn't say a word. She just stared at the dentist, her dark eyes completely unreadable.
+
+Dr. Evans didn't push. She didn't offer a cheerful "How are you feeling?" because she already knew the answer. She didn't tell Rachel it was okay to be quiet, because drawing attention to the mutism would only make it worse. She simply adhered to the strict, trauma-informed "Zero Reaction" protocol she utilized in her clinic.
+
+"I brought something else, too," Dr. Evans said, reaching into the plastic bag she had brought from the foyer. She pulled out two brand-new, ultra-soft bristle toothbrushes. One was blue, and one was red. "I know it sounds silly, but when you guys are ready to do hygiene protocol tonight, these are surgical-soft. It will be much easier on your ribs and your stomach to brush with these than your regular ones."
+
+She handed the items to Jessica, who was standing on the edge of the perimeter.
+
+"I also want you both to know that Dr. Evans is moving her office," Mom added gently, stepping up beside the dentist. "Suite F is closing down. She's building a brand new clinic."
+
+Rachel's eyes widened slightly.
+
+"And Exam Room 3 is going to be the exact same," Dr. Evans promised, looking directly at the two of us. "You will always have your chairs next to each other. Nobody is going to separate you."
+
+I felt Rachel's heel hook around my ankle under the blankets. The tension in her shoulders dropped just a fraction of an inch. Knowing that the dentist was completely abandoning the cursed strip mall, and knowing that our safe space within her clinic was being meticulously preserved, was a massive psychological victory.
+
+"You guys just focus on healing," Dr. Evans said, taking a slow step back toward the hallway. "I'll see you when you're ready. I'm so proud of both of you."
+
+As Dr. Evans turned and walked back into the foyer with Mom and Dad, the living room felt just a little bit lighter. The monsters were locked in their cages, the legal war was spinning up, and the safe adults in our lives were actively rebuilding the world to protect us.
+

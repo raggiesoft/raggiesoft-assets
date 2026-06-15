@@ -1,0 +1,74 @@
+# Part 5: The Island Tour
+
+## Date: Saturday, July 16, 1994 Time: 9:30 AM – 11:15 AM Location: The Holt Workmaster, touring Newport
+
+They left the Circuit Barn with the goods secured. Nichole sat in the passenger seat, holding the brown paper bag like it was a pouch of diamonds. Patrick sat in the middle, his feet straddling the transmission hump, watching Uncle Mark work the clutch.
+
+"We have two hours before the rendezvous," Mark announced, shifting into third gear as they merged onto Connell Highway. "The project is safely stowed. Now, you tourists need to see the real island. Not just the mall."
+
+He reached for the radio dial. He didn't turn on the news. He tuned it to 103.7 The Hawk. *Click.* Electric guitars and a heavy drum beat filled the cab—a classic rock anthem about highway driving. "Windows down," Mark commanded. Patrick cranked the handle. The hot, salty air rushed in, swirling Nichole’s hair. She didn't mind. She closed her eyes and leaned into the wind.
+
+## Stop 1: The Gilded Row
+
+They drove south, leaving the commercial clutter for the manicured lawns of Bellevue Avenue. The houses here stopped being houses and started being castles. Stone walls, wrought-iron gates, and driveways longer than a football field.
+
+"The Gilded Row," Mark narrated, slowing the truck down so they could gawk. "Built by the railroad tycoons about a hundred years ago. They called them 'summer cottages.' Can you imagine? Calling a seventy-room marble palace a cottage?"
+
+They passed a massive limestone fortress surrounded by iron gates. "That one," Mark pointed, "is Stanton's Reach. Biggest house on the island. The dining room has a ceiling painted with gold leaf."
+
+Patrick looked at the towering limestone facade. "It looks heavy," Patrick critiqued. "Too much stone. Not aerodynamic." "It was built to impress, not to be efficient," Mark agreed. "It's all ego, Pat. Pure ego."
+
+## Stop 2: Forty Steps
+
+Mark pulled the truck over at the entrance to the Cliff Walk. He kept the engine idling. "We can't go down," Mark said, pointing to the stone staircase that disappeared down the cliffside toward the crashing waves. "It’s called Forty Steps. Back in the day, the servants who worked in the mansions used to go down there to dance and play music on their nights off. The rich folks had the ballroom; the workers had the ocean."
+
+Nichole looked out the window. She couldn't see the steps, but she could hear the ocean roaring below. She could smell the brine, sharper here than at the apartment. She liked the idea of the music down by the water. She tapped the dashboard rhythmically. *Boom. Boom.*
+
+"Yeah, Nik," Mark smiled. "Good acoustics down there."
+
+## Stop 3: Stella Maris
+
+Further down the avenue, the landscape opened up into a sprawling, green campus with red-brick buildings and a massive, ornate iron gate. "That," Mark pointed, "is Stella Maris College."
+
+Patrick looked at the gold lettering on the sign. *STELLA MARIS.* He had been reading Mark’s encyclopedias back at the apartment. He loved words. He loved how they fit together like circuit components. "Latin," Patrick said.
+
+"Show off," Mark teased. "What's it mean?"
+
+Patrick broke it down. "*Stella* means Star," Patrick said. "*Maris* means Sea. Star of the Sea."
+
+He looked at Nichole. He pointed to the bag in her lap—the bag containing the red LED. "Like your blinker," Patrick whispered. "A star for the sea." Nichole looked at the college, then at the bag. She liked that. She wasn't just getting a light; she was getting a star.
+
+## Stop 4: The Edge of the World
+
+They curved around the bottom of the island onto Ocean Drive. The trees vanished. The houses pulled back. To their right was nothing but jagged rock, white spray, and the Atlantic Ocean stretching out to the horizon.
+
+Mark sped up. The wind roared. The Holt engine growled. Nichole’s eyes went wide. In Virginia, the ocean was a beach with tourists and umbrellas. Here, the ocean was a monster. It smashed against the rocks, sending spray high into the air. It was chaotic. It was loud. It was beautiful. She didn't shrink away. She leaned forward, pressing her hand against the windshield glass, feeling the vibration of the truck and the power of the view.
+
+"She likes the rough stuff," Mark noted, glancing at her. "She likes the noise," Patrick yelled over the wind. "It drowns out the ringing in her ears." Mark nodded, understanding. The chaos outside quieted the chaos inside.
+
+## Stop 5: The Stone Ribs
+
+They pulled into Brenton Point State Park. Mark drove past the kite flyers and parked near a strange, crumbling stone structure. It looked like the skeleton of a building—stone arches and chimneys rising out of the overgrown grass, leading to nowhere.
+
+"The Stone Ribs," Mark said, cutting the engine. "Used to be a stable and a carriage house for a mansion that burned down. Now? It’s just ruins. And the windiest spot on the island."
+
+They sat in the cab for a moment, just watching. The wind whistled through the stone arches. *Whoooo-shhh.* It sounded like the building was breathing.
+
+Nichole watched a kite struggling in the wind. A bright red diamond against the gray sky. It looked like her blinker again. *Red against the gray.* She felt calm here. The world was big, but she was safe inside the truck, flanked by her brother and her uncle.
+
+## The Return Leg
+
+"11:15," Mark checked his watch. "We’re on the clock. Operation Glazed Stick is commencing."
+
+He turned the truck around, heading back toward town. They passed a large, imposing brick building with a clock tower. "Rochambeau High," Mark pointed. "Home of the Vikings. I spent four years trying to figure out algebra in that building."
+
+"Did you figure it out?" Patrick asked. "Eventually," Mark laughed. "But I was better at Shop Class. Mr. Rossi taught a guest lecture there once. Blew up a watermelon with a capacitor."
+
+Patrick grinned. The legend of Mr. Rossi was growing.
+
+They turned onto Broadway. The traffic slowed. "Target in sight," Mark said. Up ahead, on the left, was the orange and pink sign of Dip & Sip. Next to it, the green and blue sign of Heritage Farms. And sitting on a bench in Equity Park, right across the street, were three figures. Mom. Dad. And Grandma Helen, holding a pink box of donuts on her lap.
+
+Mark pulled the truck to the curb. "Touchdown," Mark said. "Prepare for extraction."
+
+Patrick looked at Nichole. She was clutching the Circuit Barn bag with one hand and smiling. She had survived the night. She had survived the ocean. And now, she had donuts. It was, objectively, the best day ever.
+

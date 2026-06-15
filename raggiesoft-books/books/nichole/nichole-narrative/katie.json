@@ -1,0 +1,1292 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book: Elementary School",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Newport Vacation",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Bachelor Pad (The Lab)",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/001-part-1-the-bachelor-pad-the-lab.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Night Watch",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/002-part-2-the-night-watch.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Pitch",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/003-part-3-the-pitch.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Circuit Barn",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/004-part-4-the-circuit-barn.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Island Tour",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/005-part-5-the-island-tour.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Park Summit",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/006-part-6-the-park-summit.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Quiet Convoy",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/007-part-7-the-quiet-convoy.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: BayFront Creamery",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/008-part-8-bayfront-creamery.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Bennett Beacon",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/001-chapter-1-the-newport-vacation/009-part-9-the-bennett-beacon.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: Project Alpha",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Origin Story: Project Alpha",
+            "file_path": "/nichole/nichole-narrative/001-book-elementary-school/002-chapter-2-project-alpha/001-origin-story-project-alpha.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book: Middle School",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Test Run",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Curb Trap",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/001-chapter-1-the-test-run/001-part-1-the-curb-trap.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Yellow Wall",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Arrival at Morrison Middle School",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/002-chapter-2-the-yellow-wall/001-part-1-arrival-at-morrison-middle-school.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Middle School Life (Working Title)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Fire Alarm",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/003-chapter-3-middle-school-life-working-title/001-part-1-the-fire-alarm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Call",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/003-chapter-3-middle-school-life-working-title/002-part-2-the-call.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/003-chapter-3-middle-school-life-working-title/003-part-3-the-federal-hammer-date-november-12-1996-time-3-45-pm-location-1850-delaney-street-virginia-beach.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Third Wheel",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/003-chapter-3-middle-school-life-working-title/004-part-4-the-third-wheel.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Architect and the Laborer",
+            "file_path": "/nichole/nichole-narrative/002-book-middle-school/003-chapter-3-middle-school-life-working-title/005-part-5-the-architect-and-the-laborer.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book: Freshman Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Welcome to Northwood High School",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The 5 AM Alarm",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/001-part-1-the-5-am-alarm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The War Room (Breakfast)",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/002-part-2-the-war-room-breakfast.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Soft Trap",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/003-part-3-the-soft-trap.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Reckoning",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/004-part-4-the-reckoning.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Escort",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/005-part-5-the-escort.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Return",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/006-part-6-the-return.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Longest Hour",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/007-part-7-the-longest-hour.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Hand-Off",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/001-chapter-1-welcome-to-northwood-high-school/008-part-8-the-hand-off.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Smoke Test",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Area of Rescue",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/001-part-1-the-area-of-rescue.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Descent",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/002-part-2-the-descent.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Bus Loop",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/003-part-3-the-bus-loop.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Stand",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/004-part-4-the-stand.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Long Hour",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/005-part-5-the-long-hour.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The All Clear",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/006-part-6-the-all-clear.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Return",
+            "file_path": "/nichole/nichole-narrative/003-book-freshman-year/002-chapter-2-the-smoke-test/007-part-7-the-return.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 4,
+    "book_title": "Book: Junior Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Planning for the Future",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Transitioning Nichole’s IEP",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/001-chapter-1-planning-for-the-future/001-part-1-transitioning-nichole-s-iep.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Poverty Trap",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/001-chapter-1-planning-for-the-future/002-part-2-the-poverty-trap.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Offer",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/001-chapter-1-planning-for-the-future/003-part-3-the-offer.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Handover",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The First Shift",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/002-chapter-2-the-handover/001-part-1-the-first-shift.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Certification",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/002-chapter-2-the-handover/002-part-2-the-certification.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Maintenance Crew",
+            "file_path": "/nichole/nichole-narrative/004-book-junior-year/002-chapter-2-the-handover/003-part-3-the-maintenance-crew.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 5,
+    "book_title": "Book: Senior Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Graduation",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Breach",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/001-chapter-1-graduation/001-part-1-the-breach.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Empty Chair",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/001-chapter-1-graduation/002-part-2-the-empty-chair.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Search",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/001-chapter-1-graduation/003-part-3-the-search.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Promise",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/001-chapter-1-graduation/004-part-4-the-promise.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Reset",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Damage Control",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/002-chapter-2-the-reset/001-part-1-damage-control.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Vow",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/002-chapter-2-the-reset/002-part-2-the-vow.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The War Room",
+            "file_path": "/nichole/nichole-narrative/005-book-senior-year/002-chapter-2-the-reset/003-part-3-the-war-room.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 6,
+    "book_title": "Book: College Tours",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Misfit Tour",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The \"Free\" Laptop Trap",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/001-chapter-1-the-misfit-tour/001-part-1-the-free-laptop-trap.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Commuter Special",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/001-chapter-1-the-misfit-tour/002-part-2-the-commuter-special.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Institution",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Valley of Hope",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/001-part-1-the-valley-of-hope.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Fortress",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/002-part-2-the-fortress.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Intake",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/003-part-3-the-intake.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Cage",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/004-part-4-the-cage.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Barracks",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/005-part-5-the-barracks.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Rec Hall",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/006-part-6-the-rec-hall.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Escape",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/007-part-7-the-escape.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 7: The Intersection",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/008-part-7-the-intersection.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 8: The Safe House",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/009-part-8-the-safe-house.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 9: The Pasture",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/010-part-9-the-pasture.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 10: The War Council",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/011-part-10-the-war-council.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 11: The Nest",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/012-part-11-the-nest.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 12: The Night Watch",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/013-part-12-the-night-watch.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 13: The Morning Report",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/014-part-13-the-morning-report.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 14: The Pivot",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/002-chapter-2-the-institution/015-part-14-the-pivot.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Virginia Dominion University",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Thirteen-Hour Problem",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/001-part-1-the-thirteen-hour-problem.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Home Field Advantage",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/002-part-2-home-field-advantage.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Roll Call",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/003-part-3-the-roll-call.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Tower of Words",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/004-part-4-the-tower-of-words.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Sanctuary",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/005-part-5-the-sanctuary.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Life Sciences Hub",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/006-part-6-the-life-sciences-hub.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Magic Carpet",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/007-part-7-the-magic-carpet.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Hub",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/008-part-8-the-hub.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Dealbreaker",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/009-part-9-the-dealbreaker.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Retreat",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/003-chapter-3-virginia-dominion-university/010-part-10-the-retreat.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: Trek Up the East Coast",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Peninsula Run",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/004-chapter-4-trek-up-the-east-coast/001-part-1-the-peninsula-run.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Delaware Trap",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/004-chapter-4-trek-up-the-east-coast/002-part-2-the-delaware-trap.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The New Jersey Layover",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/004-chapter-4-trek-up-the-east-coast/003-part-3-the-new-jersey-layover.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Machine at Rest",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/004-chapter-4-trek-up-the-east-coast/004-part-4-the-machine-at-rest.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Hopeful Morning",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/004-chapter-4-trek-up-the-east-coast/005-part-5-the-hopeful-morning.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: Vermont",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Green Mountain Haul",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/005-chapter-5-vermont/001-part-1-the-green-mountain-haul.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Putney College Open House",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/005-chapter-5-vermont/002-part-2-putney-college-open-house.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Drive Back",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/005-chapter-5-vermont/003-part-3-the-drive-back.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Fuel Stop",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/005-chapter-5-vermont/004-part-4-the-fuel-stop.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: An Ocean of an Idea",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The New Jersey Pivot",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/006-chapter-6-an-ocean-of-an-idea/001-part-1-the-new-jersey-pivot.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Juggernaut",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/006-chapter-6-an-ocean-of-an-idea/002-part-2-the-juggernaut.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Diner Debrief",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/006-chapter-6-an-ocean-of-an-idea/003-part-3-the-diner-debrief.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Ocean State Option",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/006-chapter-6-an-ocean-of-an-idea/004-part-4-the-ocean-state-option.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Ocean State Arrival",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/006-chapter-6-an-ocean-of-an-idea/005-part-5-the-ocean-state-arrival.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: The Commuter Loop",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Holy Cow",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/001-part-1-the-holy-cow.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Gateway Connection",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/002-part-2-the-gateway-connection.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sea Gate",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/003-part-3-the-sea-gate.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Bull Run",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/004-part-4-the-bull-run.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Braxton Link",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/005-part-5-the-braxton-link.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Library Commons",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/006-part-6-the-library-commons.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Debrief",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/007-part-7-the-debrief.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Upgrade",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/007-chapter-7-the-commuter-loop/008-part-8-the-upgrade.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: The Gap Year Protocol",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/001-part-1-the-disassembly-date-july-8-2003-time-6-30-pm-location-1850-delaney-street-virginia-beach-virginia.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Portsmouth Project",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/002-part-2-the-portsmouth-project.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 4: The Fortress on West Main",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/003-part-4-the-fortress-on-west-main.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 5: The Departure",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/004-part-5-the-departure.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 6: The Visitor",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/005-part-6-the-visitor.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 7: The Hydrostatic Lock",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/006-part-7-the-hydrostatic-lock.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 8: The Milestone Payment",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/007-part-8-the-milestone-payment.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 9: The Fortress Blueprint",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/008-part-9-the-fortress-blueprint.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 10: The Credential Hunt",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/008-chapter-8-the-gap-year-protocol/009-part-10-the-credential-hunt.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 9,
+        "chap_title": "Chapter 9: The Independent Grid",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Commute",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/001-part-1-the-commute.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Concourse Connection",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/002-part-2-the-concourse-connection.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Call of the Bull",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/003-part-3-the-call-of-the-bull.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Mole Lifestyle",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/004-part-4-the-mole-lifestyle.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Commuter Waiver",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/005-part-5-the-commuter-waiver.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Anti-Sales Pitch",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/006-part-6-the-anti-sales-pitch.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Refueling the Machine",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/007-part-7-refueling-the-machine.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Bull Run ",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/008-part-8-the-bull-run.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Credential Check",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/009-part-9-the-credential-check.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Detour and The Grid",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/010-part-10-the-detour-and-the-grid.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Debrief",
+            "file_path": "/nichole/nichole-narrative/006-book-college-tours/009-chapter-9-the-independent-grid/011-part-11-the-debrief.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 7,
+    "book_title": "Book: The Gap Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Fleet Upgrade",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Dual-Grid Dilemma",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/001-part-1-the-dual-grid-dilemma.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Medical Handover",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/002-part-2-the-medical-handover.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Christmas Compiler",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/003-part-3-the-christmas-compiler.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Winter Test",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/004-part-4-the-winter-test.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Grid Returns",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/005-part-5-the-grid-returns.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Long Goodbye",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/006-part-6-the-long-goodbye.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Silent Investor",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/007-part-7-the-silent-investor.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Final Transfer",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/001-chapter-1-the-fleet-upgrade/008-part-8-the-final-transfer.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Commuter Protocol",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Intake",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/001-part-1-the-intake.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Application",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/002-part-2-the-application.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hardship Loophole",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/003-part-3-the-hardship-loophole.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Liability Lie",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/004-part-4-the-liability-lie.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 8: The Bridge Fund",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/005-part-8-the-bridge-fund.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 9: The Foundry",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/006-part-9-the-foundry.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 10: The Early Deployment",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/007-part-10-the-early-deployment.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 11: The Zero-Barrier Routine",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/002-chapter-2-the-commuter-protocol/008-part-11-the-zero-barrier-routine.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Exploring Braxton",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Zero-Friction Protocol",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/003-chapter-3-exploring-braxton/001-part-1-the-zero-friction-protocol.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The River and the System",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/003-chapter-3-exploring-braxton/002-part-2-the-river-and-the-system.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Edge of the Grid",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/003-chapter-3-exploring-braxton/003-part-3-the-edge-of-the-grid.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Safe Harbor",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/003-chapter-3-exploring-braxton/004-part-4-the-safe-harbor.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Gen-Ed Pact",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/003-chapter-3-exploring-braxton/005-part-5-the-gen-ed-pact.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Sync",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The War Room",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/004-chapter-4-the-sync/001-part-1-the-war-room.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Fortress Test",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Severed Link",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/001-part-1-the-severed-link.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Siege",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/002-part-2-the-siege.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Watch",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/003-part-3-the-watch.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The All-Clear",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/004-part-4-the-all-clear.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Blueprint",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/005-part-5-the-blueprint.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Biological Override",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/006-part-6-the-biological-override.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Sacred Trust",
+            "file_path": "/nichole/nichole-narrative/007-book-the-gap-year/005-chapter-5-the-fortress-test/007-part-7-the-sacred-trust.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 8,
+    "book_title": "Book: Braxton Freshman",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The First Semester",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Sorting Failure",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/001-chapter-1-the-first-semester/001-part-1-the-sorting-failure.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The System Reboot",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/001-chapter-1-the-first-semester/002-part-2-the-system-reboot.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Assembly",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/001-chapter-1-the-first-semester/003-part-3-the-assembly.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Tactical Retreat",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/001-chapter-1-the-first-semester/004-part-4-the-tactical-retreat.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Fortress Weekend",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/001-chapter-1-the-first-semester/005-part-5-the-fortress-weekend.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Machine in Motion",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Zero-Friction Morning",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/001-part-1-the-zero-friction-morning.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Commute",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/002-part-2-the-commute.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Gen-Ed Pact",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/003-part-3-the-gen-ed-pact.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The First Lecture",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/004-part-4-the-first-lecture.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Clinical Override",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/005-part-5-the-clinical-override.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Green Light",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/006-part-6-the-green-light.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Transit Chase",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/007-part-7-the-transit-chase.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Checkpoint Failure",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/008-part-8-the-checkpoint-failure.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Realization",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/009-part-9-the-realization.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Wrap Up",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/010-part-10-the-wrap-up.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Treatment Protocol",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/011-part-11-the-treatment-protocol.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Double Ambush",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/012-part-12-the-double-ambush.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Sub-Level Sanctuary",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/013-part-13-the-sub-level-sanctuary.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Filing",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/014-part-14-the-filing.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 15: The Loudmouth",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/002-chapter-2-the-machine-in-motion/015-part-15-the-loudmouth.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Nichole Adapts",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Engine Failure",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/003-chapter-3-nichole-adapts/001-part-1-engine-failure.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Malpractice Shield",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/003-chapter-3-nichole-adapts/002-part-2-the-malpractice-shield.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Integration",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/003-chapter-3-nichole-adapts/003-part-3-the-integration.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Procedure: \"The Tune-Up\"",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Handover (The Night Before) Time: 8:00 PM",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/004-chapter-4-the-procedure-the-tune-up/001-part-1-the-handover-the-night-before-time-8-00-pm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Admission",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/004-chapter-4-the-procedure-the-tune-up/002-part-2-the-admission.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Surgical Consult",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/004-chapter-4-the-procedure-the-tune-up/003-part-3-the-surgical-consult.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Separation",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/004-chapter-4-the-procedure-the-tune-up/004-part-4-the-separation.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The War Room",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/004-chapter-4-the-procedure-the-tune-up/005-part-5-the-war-room.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: Nichole’s Recovery",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Recovery Room (The Advocacy Test)",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/001-part-1-the-recovery-room-the-advocacy-test.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 4: The Shift Partner",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/002-part-4-the-shift-partner.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 5: The Discharge",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/003-part-5-the-discharge.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 6: The \"Stiff Leg\" Transfer (The Physical Test)",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/004-part-6-the-stiff-leg-transfer-the-physical-test.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 7: The Clinical Standard",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/005-part-7-the-clinical-standard.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 8: The Night Shift (The Spasm Protocol)",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/006-part-8-the-night-shift-the-spasm-protocol.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 9: New Year's Eve (The Shift Change)",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/005-chapter-5-nichole-s-recovery/007-part-9-new-year-s-eve-the-shift-change.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Routine",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Winter Siege",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/006-chapter-6-the-routine/001-part-1-the-winter-siege.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Fuel Station",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/006-chapter-6-the-routine/002-part-2-the-fuel-station.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Creative Session",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/006-chapter-6-the-routine/003-part-3-the-creative-session.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Physical Toll",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/006-chapter-6-the-routine/004-part-4-the-physical-toll.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Downgrade (Day Release)",
+            "file_path": "/nichole/nichole-narrative/008-book-braxton-freshman/006-chapter-6-the-routine/005-part-5-the-downgrade-day-release.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 9,
+    "book_title": "Book: Braxton Junior Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Concept: The Joint Defense",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "The Outcome",
+            "file_path": "/nichole/nichole-narrative/009-book-braxton-junior-year/001-concept-the-joint-defense/001-the-outcome.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 10,
+    "book_title": "Book: Braxton Senior Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Graduation",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Protocol Negotiation",
+            "file_path": "/nichole/nichole-narrative/010-book-braxton-senior-year/001-chapter-1-graduation/001-part-1-the-protocol-negotiation.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The \"Cool Suit\" Modification",
+            "file_path": "/nichole/nichole-narrative/010-book-braxton-senior-year/001-chapter-1-graduation/002-part-2-the-cool-suit-modification.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 11,
+    "book_title": "Book: Bennett Dynamics",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: An Idea",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Incorporation",
+            "file_path": "/nichole/nichole-narrative/011-book-bennett-dynamics/001-chapter-1-an-idea/001-part-1-the-incorporation.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Home Office (The Workflow)",
+            "file_path": "/nichole/nichole-narrative/011-book-bennett-dynamics/001-chapter-1-an-idea/002-part-2-the-home-office-the-workflow.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Tablet Revolution",
+            "file_path": "/nichole/nichole-narrative/011-book-bennett-dynamics/001-chapter-1-an-idea/003-part-3-the-tablet-revolution.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 12,
+    "book_title": "Book: The Twilight Years",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Long Retreat",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Last Funeral",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/001-chapter-1-the-long-retreat/001-part-1-the-last-funeral.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The City Problem",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/001-chapter-1-the-long-retreat/002-part-2-the-city-problem.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Decision",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/001-chapter-1-the-long-retreat/003-part-3-the-decision.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Return",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/001-chapter-1-the-long-retreat/004-part-4-the-return.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Slow Rust",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The First Breakdown",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/002-chapter-2-the-slow-rust/001-part-1-the-first-breakdown.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Shared Breath",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/002-chapter-2-the-slow-rust/002-part-2-the-shared-breath.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Final Perimeter",
+            "file_path": "/nichole/nichole-narrative/012-book-the-twilight-years/002-chapter-2-the-slow-rust/003-part-3-the-final-perimeter.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 13,
+    "book_title": "Book: The End",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Synchronized Shutdown",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI",
+            "file_path": "/nichole/nichole-narrative/013-book-the-end/001-chapter-1-the-synchronized-shutdown/001-date-february-14-2058-age-72-location-the-master-suite-95-west-main-road-portsmouth-ri.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Epilogue: The Legacy",
+            "file_path": "/nichole/nichole-narrative/013-book-the-end/001-chapter-1-the-synchronized-shutdown/002-epilogue-the-legacy.md"
+          }
+        ]
+      }
+    ]
+  }
+]

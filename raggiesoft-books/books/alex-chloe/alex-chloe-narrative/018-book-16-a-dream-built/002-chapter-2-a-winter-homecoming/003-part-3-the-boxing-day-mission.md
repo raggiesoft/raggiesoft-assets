@@ -1,0 +1,56 @@
+# Part 3: The Boxing Day Mission
+
+Christmas Day was a quiet, relaxed affair of leftovers, old movies, and peaceful family time. But on the morning of December 26th, a new, chaotic energy filled the Leclerc house.
+
+"Okay, you two," Chloé said to Alex and Megan, a mischievous glint in her eye as she handed them steaming mugs of coffee. "Are you prepared for your first Boxing Day? The most important holiday of the Canadian Christmas season."
+
+MORE IMPORTANT THAN CHRISTMAS? Alex's device asked, confused.
+
+Megan looked equally baffled. "What is it, like a second Thanksgiving with more boxes?"
+
+"For a Canadian looking for a deal? It's bigger than both," Chloé laughed. "Today is the day of the big sales. It's a national sport."
+
+Uncle David, already in his winter coat, held up a stack of store flyers. "We have our battle plan!" he declared. "We drive to the big shopping centre in Sherbrooke. We divide, we conquer, and we meet back at the food court for poutine at one o'clock sharp!"
+
+The drive to Sherbrooke was filled with a giddy, strategic energy. The shopping centre was an absolute zoo, a good-natured but chaotic swarm of people hunting for deals. For Alex and Megan, who had never experienced anything like it, the sheer density of the crowd was a sensory overload.
+
+Chloé, remembering the chaos from her youth, was in her element but also completely focused on her two Americans. She was their anchor, her hand always on Alex's arm or the back of his chair, with Megan sticking close by her side, helping to navigate the throngs of shoppers. She guided them through the noisy, brightly-lit electronics store where David and Mathieu were comparing discounted televisions, and then to the clothing store where Geneviève and Isabelle were triumphantly holding up half-priced sweaters.
+
+Alex and Megan were amazed and slightly overwhelmed by the uniquely Canadian tradition. They witnessed the long lines, the massive "50% DE RABAIS" signs, and the happy shoppers emerging with bags of discounted goods.
+
+The noise of the Sherbrooke food court was a dull roar, a background hum to the triumphant, weary energy of the Leclerc family. They had claimed three tables, pushing them together into a command center now laden with shopping bags, winter coats, and, most importantly, trays of poutine. The squeak of cheese curds against their teeth was the only sound for a long, appreciative minute.
+
+Megan was the first to speak, leaning back in her plastic chair and rubbing her eyes.
+
+"Okay, I... wow," she said, letting out a long breath. "I've done Black Friday at the crack of dawn. I've seen people fight over a waffle maker. But that... that was *different*."
+
+Uncle David, mid-fry, looked up with a proud grin. "Different how? Better, yes?"
+
+"Just... more organized," Megan mused. "Like a friendly invasion. Black Friday is just... chaos. This was chaos, but with a *plan*."
+
+"Exactly!" David declared, pointing his fry at her. "The *battle plan*! It is strategy. It is... civilized!"
+
+Alex, who had been quietly observing the family dynamic with a small smile, finished typing a message on his device. The calm, synthesized voice cut cleanly through the chatter.
+
+IT WAS VERY CIVILIZED. ESPECIALLY SINCE YOU'VE BEEN PRACTICING.
+
+David paused, his fry halfway to his mouth. "Practicing? What is this?"
+
+Megan picked up the thread, a mischievous glint in her eye. "He means Black Friday. We noticed you all had that here last month. You know... our thing?" she teased. "Kinda stole our homework, didn't you?"
+
+A few of the younger cousins chuckled, and Isabelle shot David a look. For a second, David looked theatrically indignant. Then, he let out a great, booming laugh that turned heads at the next table.
+
+"Ha! *Stole it!*" he roared, slapping the table. "*Non, non, non*." He wagged a finger at Alex and Megan. "We did not steal it. We *improved* it. We took your little... *amuse-bouche*... and then we showed you how the main course is done!"
+
+"He's not wrong," Chloé said, leaning in. She reached over and affectionately brushed a stray hair from Alex's forehead. "Black Friday here is just... a sale. It's a copy, you're right." She gestured around them—at the bags, the crowded tables, the entire family sharing a meal, exhausted and happy. "Boxing Day... this is a *tradition*. It's a national sport."
+
+"It's about the *hunt*!" David proclaimed, raising a cheese curd in a toast. "And the poutine. It is *always* about the poutine."
+
+Alex smiled and typed one last response, the voice sounding genuinely content.
+
+THE HUNT WAS A SUCCESS. BUT THE POUTINE IS THE REAL TROPHY.
+
+David laughed again, "See? He gets it! He is one of us now!"
+
+The day ended as promised, with the entire family gathered in the crowded food court, devouring well-earned plates of poutine. They were tired, but their shopping mission had been a success. As they drove back to Stanstead, the van filled with bags and the happy chatter of a family that had successfully navigated the wonderful chaos of Boxing Day, Alex and Megan felt like they had been initiated into another, essential part of Chloé's world.
+

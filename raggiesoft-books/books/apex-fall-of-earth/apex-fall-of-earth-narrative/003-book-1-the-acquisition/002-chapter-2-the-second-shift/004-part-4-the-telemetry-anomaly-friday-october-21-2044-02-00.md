@@ -1,0 +1,66 @@
+# Part 4: The Telemetry Anomaly – Friday, October 21, 2044 – ~02:00
+
+Wyatt guided Sarah off the primary elevator and onto the grated metal catwalks of Sector 4. The heat hit them instantly, rolling up from the deep-core shafts like a physical wave. The air tasted heavily of ozone, pulverized rock, and burning coolant.
+
+Before they even reached the primary junctions, they passed a reinforced observation deck. Through the thick glass, two Apex Analytics researchers in crisp white lab coats were heatedly arguing over a jagged, dark rock sample suspended in a localized containment field.
+
+"I ran the isotopic ratios three times," the first scientist insisted, tapping a pen aggressively against a datapad. "This is a xenolith from the Chilean badlands. It has to be."
+
+"And I'm telling you the radiometric dating doesn't match Earth's mantle!" the second shot back, adjusting his glasses in sheer frustration. "Look at the iron oxide levels, the trace silicates... this is Martian. How did Management even get this down here?"
+
+Wyatt completely tuned them out. It didn't matter where the rock came from; it only mattered that it was above his pay grade. He gave Sarah a subtle nod to keep moving, leaving the scientists to their corporate mysteries.
+
+Below them, the massive, automated drill rigs were pounding into the Nevada bedrock. But the rhythm was wrong. Yesterday, the bone-rattling thuds had been steady. Today, the massive pistons were shuddering, whining with mechanical strain.
+
+Wyatt held up a fist. Sarah stopped immediately behind him, her flashlight beam sweeping the rusted bulkheads.
+
+He walked over to a primary pressure junction bolted to the catwalk railing and rested his taped hand against the thick metal housing. It was vibrating violently, radiating a heat that seeped right through his heavy leather work gloves.
+
+"Coolant lines are completely redlined," Wyatt muttered, stepping back. "Whatever they're drilling into, it's baking the bits. Management is going to push these rigs until they melt."
+
+Sarah stepped forward, her brow furrowing. Instead of just looking at the analog gauge on the pipe like a standard contractor, she pulled out her battered Level 1 PDA. She unclipped a short diagnostic tether from her belt—a piece of gear most S.H.O.P. Marines didn't even know existed, let alone how to use—and jacked it directly into the junction's maintenance port.
+
+Lines of raw, blocky green code flooded her small screen.
+
+Wyatt stood back, keeping his eyes on the dark ends of the corridor to make sure no Supervisors were coming, and let her work. He didn't interrupt her or try to take the datapad away. In his world, competence kept you breathing.
+
+"It's not the drills," Sarah said, her voice low and tight with concentration. Her thumb flew across the cheap plastic keypad, rapidly scrolling through the restricted telemetry data.
+
+"What do you mean?" Wyatt asked, keeping his voice level.
+
+"The Apex ledgers say we're doing deep-core mineral extraction, so the thermal output should be coming from mechanical friction," she explained, her analytical mind completely taking over. The terrified eighteen-year-old rookie from yesterday was gone, replaced by someone sharply focused on the data. "But look at the flow rates."
+
+She tilted the datapad so he could see the screen. It was just a wall of numbers to him, but she pointed exactly to the anomaly.
+
+"They aren't pumping standard industrial coolant down there, Wyatt. The chemical signature is completely wrong. It's liquid nitrogen, and they are dumping millions of gallons of it directly into the lower caverns. They aren't trying to cool the drill bits." She looked up at him, her eyes wide in the flickering light of the catwalk. "They're trying to freeze whatever is down there."
+
+A heavy, cold knot formed in Wyatt's stomach. Liquid nitrogen floods on that scale weren't used for mining; they were used for absolute, catastrophic containment.
+
+"Can you see the seismic returns?" he asked.
+
+Sarah tapped a few more keys, bypassing a low-level corporate firewall with a speed that genuinely impressed him. She shook her head. "The returns are inverted. The pressure isn't coming from the drills pushing down. There is a massive atmospheric anomaly pushing up."
+
+She unplugged the tether, the datapad returning to its standard, useless Apex interface.
+
+Wyatt looked at her. Really looked at her. He realized right then that she wasn't just a survivor; she was brilliant. She had just taken a series of vague environmental clues, bypassed a corporate lockout, and diagnosed a catastrophic facility failure that the Apex executives were desperately trying to cover up—all in under two minutes.
+
+Most guys in his position—older, bigger, the "veteran" of the pair—might feel threatened or emasculated by a rookie figuring things out faster than them. Wyatt didn't feel an ounce of that. He felt an overwhelming sense of relief. He had the muscle, the situational awareness, and the instinct to keep the guards off their backs, but she had the brain to actually see through the corporate lies.
+
+"You're right," Wyatt said softly, a profound respect settling into his voice. "You're exactly right, Sarah."
+
+A flash of surprise crossed her face. She had spent her whole life—and certainly her short time at Apex Defense Solutions—being talked down to, ignored, or treated like background inventory. To have a hardened, twenty-three-year-old veteran look at her and instantly, unhesitatingly validate her intelligence left her momentarily speechless.
+
+"So, what's our move, Boss?" Wyatt asked, offering a small, genuine smirk. "The official patrol route has us doing a perimeter check on sublevel 4-B. That's directly above the primary drill shafts."
+
+Sarah looked down at the grated floor, visualizing the compromised structural integrity beneath their boots. She didn't hesitate.
+
+"We scrub the route," she said firmly. "If the atmospheric pressure from below spikes again, those catwalks are going to buckle. We reroute through the outer filtration banks. It's heavily shielded, further from the epicenter, and the automated cameras in there have been blind for a week due to dust buildup. If a Supervisor tracks our PDA, it'll just look like we took a wrong turn."
+
+Wyatt unclipped his heavy Mark-IV flashlight, stepping aside to let her take the point.
+
+"Lead the way," he told her.
+
+As she walked past him, her posture was distinctly different. Her shoulders were squared. The crushing weight of the facility hadn't disappeared, but the paralyzing fear had been replaced by agency. She knew what was happening, and she knew he trusted her completely.
+
+Wyatt fell in right behind her, his broad frame shielding her back as they disappeared into the maze of rusted filtration tanks. He was the armor, she was the compass, and together, they were going to survive this week.
+

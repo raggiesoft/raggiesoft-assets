@@ -1,0 +1,65 @@
+# Part 6: The Genesis Check – Wednesday, March 1, 2050 – 21:00
+
+The estate was quiet, bathed in the soft, warm amber glow of the evening cycle.
+
+Upstairs in the nursery, the Vanguard had successfully concluded their daily operations. The commanding officer had executed a flawless transfer of the new recruit from Sarah's arms to his crib, overseen his swaddling, and officially logged him in for the night shift. Jack, now ten weeks old and completely neurotypical, was currently sleeping peacefully in his standard crib, anchored securely to the massive, floor-level Mega-Bed where his older siblings were huddled.
+
+Down in the residential living room, Wyatt Colton was staring into the crackling geothermal fireplace, a half-empty mug of coffee resting on his knee.
+
+Sarah walked into the room, tossing a soft, thermal blanket onto the leather sofa before sinking down next to him. She let out a long, exhausted sigh, leaning her head against his broad shoulder.
+
+"Boot camp is officially over for the day," Sarah murmured, her eyes slipping shut. "Ellie spent thirty minutes trying to teach Jack how to hold a wooden block. When he dropped it, she just sighed, patted his head, and told him 'Try 'gain, recruit.' She's tougher than my old drill instructors."
+
+Wyatt let out a low, rumbling chuckle, his arm wrapping automatically around her waist. "She's just making sure his grip strength is up to code. Can't have a weak link in the perimeter."
+
+"He's ten weeks old, Wyatt," Sarah laughed softly. "He doesn't even know he has hands yet."
+
+Wyatt smiled, taking a slow sip of his coffee. The contrast between Jack's smooth, neurotypical development and the profound, neurodivergent complexity of the triplets was beautiful, but it also served as a stark reminder of exactly how fragile human life was.
+
+His dark eyes drifted away from the fire, staring down at the polished stone floor beneath his boots.
+
+"Sarah," Wyatt said quietly, the amusement slowly draining from his voice. "When was the last time we checked the basement?"
+
+Sarah opened her eyes, turning her head to look at him. She knew exactly which basement he meant. They hadn't been down to Sub-Level 6—the Genesis Vault—in nearly four years. The overwhelming, chaotic reality of raising the triplets, combined with the catastrophic arrival of the corporate siege fleets, had pushed the frozen population of Planet Eden entirely out of their daily consciousness.
+
+"Not since before the Vanguard was born," Sarah answered softly. She remembered the sheer terror in his eyes the night he had woken up from his nightmare—the horrifying, subconscious vision of fifty thousand screaming infants suddenly decanting at the exact same time, completely overwhelming their single nursery and depleting the hydroponic spinach reserves.
+
+"I know the automated systems are holding," Wyatt muttered, his jaw tightening slightly. "Aria monitors the cryogenic fluid levels daily. But... I just want to see it. I want to make sure the stasis pillars are stable."
+
+Sarah didn't hesitate. She pushed herself off the sofa, offering him her hand. "Let's go."
+
+They walked silently down the hallway and stepped into the pneumatic elevator. The descent to the bedrock felt heavy, the ambient temperature dropping sharply as the doors finally hissed open on Sub-Level 6.
+
+Wyatt stepped out, his breath instantly pluming in the freezing, sterile air.
+
+The cavernous room was exactly as they had left it. It was bathed in a flawless, icy-blue light. The towering, geometric banks of cryogenic stasis pillars stood in perfect, unbroken silence, humming with the low, steady vibration of deep-freeze.
+
+Fifty thousand genetically perfect human embryos were suspended in the dark, waiting for the signal to rebuild civilization.
+
+Wyatt walked slowly down the central aisle, his heavy boots echoing against the grated steel floor. He stopped in front of a pillar, staring at the glowing biometric data scrolling across the frosted glass.
+
+There were no alarms. There was no nightmare scenario. The vault was sleeping peacefully.
+
+"They're perfectly safe, Wyatt," Sarah whispered, stepping up beside him and wrapping her arms around his waist to share her body heat in the freezing room.
+
+"I know," Wyatt breathed, resting his chin on the top of her head. He looked out over the massive, silent expanse of the room. "But we can't leave them down here forever, Sarah. This is the future of the human race. We have the hydroponics. We have the geothermal power. Eventually, we have to wake them up. We have to build the city."
+
+Sarah looked at the glowing pillars, then up at the towering, scarred S.H.O.P. Marine who had saved them all.
+
+"Not yet," Sarah said firmly, her voice echoing softly in the cavernous space. "We have an agrarian democracy to build, yes. But we can't do it alone. If we start the decanting process now, we'll be overwhelmed. We need administrators. We need teachers. We need a chain of command."
+
+Wyatt looked down at her, his brow furrowing slightly. "We're the administrators, Sarah."
+
+"We're the founders, Wyatt," Sarah corrected gently, reaching up to cup his bearded cheek. "The Vanguard are the administrators. They're the ones who are going to inherit this world. They're the ones who need to help us manage the population."
+
+Wyatt blinked, the sheer logistical brilliance of her statement washing over him. She was absolutely right. He and Sarah could build the physical infrastructure of the city, but they couldn't manage fifty thousand people alone. They needed the fiercely loyal, unbreakable unit upstairs to help them lead.
+
+"We wait," Sarah decided, turning her gaze back to the sleeping vault. "We keep them safe, and we keep them frozen. When the Vanguard is older... maybe when they're twelve. When they understand the responsibility, and when Ellie is ready to actually lead a real platoon. Then, we start waking the neighborhood."
+
+Wyatt let out a long, shuddering exhale, a profound sense of relief settling deep into his bones. The nightmare was officially deferred. They had time. They had nearly a decade to prepare the surface before the real work began.
+
+"Twelve," Wyatt agreed, pulling her tightly against his chest. "That gives us plenty of time to finish basic training."
+
+They turned away from the stasis pillars, walking back to the elevator in the icy-blue light. The Genesis Vault would remain a silent ghost, perfectly preserved beneath the bedrock, while the Colton family returned to the surface to raise the generation that would one day rule it.
+
+

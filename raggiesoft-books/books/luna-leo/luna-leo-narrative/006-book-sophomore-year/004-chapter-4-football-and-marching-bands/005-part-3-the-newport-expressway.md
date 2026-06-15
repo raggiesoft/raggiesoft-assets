@@ -1,0 +1,62 @@
+# Part 3: The Newport Expressway
+
+Refreshed from their aquarium visit, the convoy merged back onto I-95 North, crossing the border into Rhode Island. The trees seemed to get a little denser, the air a little saltier.
+
+Stella followed her grandfather’s lead car, comfortable in the rhythm of the drive. As they approached the exit for Wyoming, Rhode Island, Arthur’s voice crackled over the walkie-talkie.
+
+"Alright, Stella, heads up. The old way to get to the island was Exit 3—Route 138. But we’re modern travelers today. We’re going one more up to Exit 4."
+
+Stella glanced at the green highway signs. **EXIT 3: Wyoming / Hope Valley**. She watched Arthur’s car breeze past it.
+
+A mile later, a massive overhead gantry appeared.
+
+**EXIT 4** **I-895 NORTH** **Newport Expressway** **Iron Point \| Liberty \| Newport**
+
+"There it is," Arthur’s voice came through, tinged with the specific tone he used when discussing local politics. "Route 895. The great concrete dream of the seventies."
+
+Stella signaled and followed him onto the sweeping flyover ramp. The transition from the trees of I-95 to the wide, six-lane expanse of I-895 was jarring. It felt like a highway built for a much bigger city than the rural woods they were passing through.
+
+"This is big," Stella commented to the twins. "Look at all the lanes."
+
+"It's a beast," Arthur explained over the radio. "They built this back in the eighties to serve the southern sprawl of Braxton. You see the signs for Iron Point? That’s the southern anchor of the metro area now. Used to be nothing but potato farms and sod fields."
+
+They cruised eastward. The highway was efficient, cutting a wide swath through the landscape. They passed the exit for **Route 2 (Liberty)**, where Stella could see the beginnings of suburban density—shopping plazas and housing developments—creeping into the woods.
+
+"Look at that," Arthur grumbled slightly. "Braxton is leaking south. Give it another ten years, and places like Charlestown and Point Judith won’t be 'South County' anymore; they’ll just be suburbs of Braxton."
+
+The highway continued, with Route 138 merging on at Route 1. As they approached the Jamestown Bridge Arthur chuckled over the radio. "You know, back in the day, all you had to do to get your driver's license up here was prove to the instructor you could cross that old bridge without closing your eyes or breaking into a cold sweat. If you could handle that death trap, you could handle anything!"
+
+As Stella guided the Sentinel onto the approach for the Jamestown Bridge, Arthur's voice crackled over the walkie-talkie, tinged with surprise. "Well, look at this thing! First time I've been on this new bridge. Last time I drove up, we were still using that old rusty hunk of junk."
+
+Stella and the twins looked out their windows to their right. Alongside the modern, wide concrete span they were currently crossing, they could clearly see the remaining piers and some rusting steel framework of the old Jamestown Bridge standing starkly in the water – a relic of a bygone era.
+
+Stella smiled at the joke as they finished crossing the Jamestown Bridge. As they traversed Conanicut Island towards the next bridge, Arthur's voice came over the walkie-talkie again. "Stella, check the little compartment under your radio. Before we left Virginia, I tucked something in there for you." Stella reached down and opened the small storage bin. Inside, nestled among a few tissues, was a small, metallic coin.
+
+"Still had a few Newport Bridge tokens left over from the old days," Arthur explained. "Might as well use 'em. It’s \$2 you don’t have to pay. Hand that token to the toll collector when you get there."
+
+Sure enough, as they approached the toll plaza for the Newport Bridge, Stella slowed the Sent, rolled down her window, and handed the token to the attendant. The gate lifted, and they proceeded onto the iconic green suspension bridge.
+
+"Alright, Stella," Arthur's voice came over the radio as they descended the bridge onto Aquidneck Island. "Stay straight here. We're going onto that connector... the 'highway to nowhere' they started but never finished." They followed the wide, strangely empty-feeling roadway for a short distance. "Okay, follow the signs up here towards Fall River and the Cape... we're taking the Admiral Kalbfus Road exit. In fact, it’s the only exit!"
+
+Stella navigated the exit ramp. "Got it."
+
+Ahead, Stella saw something strange. The massive highway abruptly terminated. The pavement simply stopped, barricaded by jersey barriers, while the "exit" ramp forced all traffic to turn right. Beyond the barriers, she could see a ghost road—a cleared path of dirt and weeds stretching north, waiting for asphalt that never came.
+
+"And here we are," Arthur announced, "The end of the line. Admiral Kalbfus Road."
+
+"Why does the road just stop?" Luna asked from the back seat, pointing at the dead end.
+
+Arthur laughed, a dry sound. "That, my dear, is the famous 'Island Segment.' The plan was to run 895 all the way up the island, connect it to what is now Route 24, and shoot it straight up to I-93 in Randolph. It would have been a massive bypass for Providence and Braxton. A straight shot to Boston."
+
+"What happened?" Stella asked, following him onto the off-ramp.
+
+"The people happened," Arthur said. "They saw what the highway did to the mainland and said, 'Not on our island.' So, they stopped the bulldozers right here. Now we take the surface streets like mere mortals.
+
+As they descended the bridge on the Newport side, the highway curved sharply.
+
+"Good. Now, take a right onto Connell Highway here... it'll turn into Coddington Highway in a minute. Stay on this." Arthur guided her along the multi-lane road. "Alright, coming up to the intersection with West Main Road. Take a right onto West Main... easy now... and then an *immediate* left onto East Main Road. It's a quick jog."
+
+Stella carefully executed the turns. "Okay, on East Main."
+
+"Alright," Arthur's voice turned quieter. "Just up here on the right... number 71. That's... that was it."
+

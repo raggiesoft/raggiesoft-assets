@@ -1,0 +1,20 @@
+# Part 7: An Evening In
+
+The boat tour on the Potomac was the perfect, calming end to a long day of exploration. As the fortress four made their way back to The Statesman Hotel via the District Rail, a comfortable, happy exhaustion had settled over them. The initial plan to find another unique restaurant for dinner was quickly and unanimously vetoed.
+
+"I don't think I have another transit adventure in me for one night," Luna admitted, stifling a yawn as they walked through the hotel's grand lobby.
+
+"Agreed," Stella said. "The hotel has a highly-rated restaurant right off the lobby. Let's just have an easy dinner here."
+
+The hotel's restaurant was an oasis of calm. The lighting was low, the tables were spaced far apart, and a quiet piano melody drifted from the corner of the room. It was the perfect, low-sensory environment for them to unwind after a busy day.
+
+The meal was a relaxed, delicious affair. They talked and laughed, recapping their favorite moments from the day—the quiet majesty of the Lincoln Memorial, the thrill of the boat ride, and the simple joy of a hot dog on the Mall. Leo, comfortable and secure, actively participated in the conversation, his Quantum Communicator a familiar and easy tool among his family.
+
+When the meal was over, the waiter brought the check. Stella simply signed her name, wrote their room number at the bottom, and handed it back.
+
+"That's it?" Olivia asked, surprised at the simplicity.
+
+"That's it," Stella confirmed with a small smile. "They just add it to our final bill when we check out."
+
+It was another small luxury, another detail that made their trip feel like a true vacation. With full stomachs and happy hearts, they headed back up to their room, ready to rest and prepare for their final day in the nation's capital.
+

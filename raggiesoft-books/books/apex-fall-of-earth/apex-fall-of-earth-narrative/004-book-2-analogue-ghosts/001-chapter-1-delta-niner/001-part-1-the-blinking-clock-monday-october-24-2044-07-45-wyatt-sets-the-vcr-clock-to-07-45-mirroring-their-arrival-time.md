@@ -1,0 +1,44 @@
+# Part 1: The Blinking Clock – Monday, October 24, 2044 – 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)
+
+For the first time in four days, Wyatt woke up without an adrenaline spike.
+
+There was no blaring klaxon, no bone-rattling tremor from deep-core drills, and no suffocating smell of ozone. There was only the low, steady, and incredibly peaceful hum of Outpost Delta 9’s life support systems.
+
+He opened his eyes. The room was cast in the dim, warm amber glow of the emergency floor track lighting. He was lying in the exact center of the queen-sized mattress. Sarah was still fast asleep, her head resting on his chest, her arm thrown securely across his stomach. Her breathing was deep and rhythmic, the deep exhaustion of their escape finally working its way out of her system.
+
+Wyatt didn’t move for a long time. He just lay there, staring up at the wood-grain ceiling panels, listening to her breathe. They had actually done it. They had broken the contract, outrun the collapse of the Nevada facility, and claimed an entire deep-space outpost for themselves.
+
+Eventually, his eyes adjusted to the dark, scanning the spacious quarters. At the foot of the bed sat the heavy, two-toned silver and black entertainment console. The massive 27-inch flat-square CRT monitor was completely dark, but directly beneath it, a sleek, front-loading piece of machinery caught his eye.
+
+A VCR. And on its silver front panel, a bright green digital clock was aggressively flashing *12:00*.
+
+The rhythmic, blinking light was the only thing disrupting the absolute peace of the room. Wyatt’s mechanical brain, honed on deep-sea rigs and analog machinery, couldn't ignore it. It was a tiny piece of chaos that he actually had the power to fix.
+
+Careful not to wake Sarah, Wyatt gently shifted her weight off his chest, tucking the thick, woven blanket around her shoulders. He slipped out of bed, his bare feet sinking into the heavy carpet.
+
+He walked over to the console and crouched in front of the VCR. It was a high-end model, covered in a dizzying array of tiny, rectangular silver buttons. Most people would have needed a corporate manual to figure out the interface, but Wyatt didn't hesitate. He pressed and held the *CLOCK SET* button, his thumb quickly tapping the *HOUR* and *MINUTE* keys, syncing the green digital readout to the outpost's internal chronometer on his PDA.
+
+He hit *SET*. The flashing stopped. The solid green *07:45* glowed steadily in the dark.
+
+A quiet, immense sense of satisfaction washed over him. He wasn't just surviving anymore. He was making this place theirs.
+
+He stood up, looking at the top of the silver VCR housing. Sitting next to a chunky, matte-black IR remote was a small stack of thick, black plastic VHS cassettes. They were dusty and completely devoid of official corporate branding.
+
+Wyatt picked up the top tape. The cardboard sleeve was worn at the edges. Stuck to the spine was a piece of faded masking tape with a title scrawled in black marker: *Hill Valley, 1985. DO NOT TAPE OVER.*
+
+Whoever the Apex Director was that requisitioned this cutting-edge setup, they hadn't just used it for corporate briefings. They had brought a piece of home with them into the dark—a classic time-travel movie to keep the deep-space isolation at bay.
+
+"What time is it?"
+
+Wyatt turned around. Sarah was awake, pushing herself up onto her elbows in the center of the massive bed. Her hair was delightfully messy, and without the rigid collar of the S.H.O.P. armor, she looked incredibly soft and relaxed in the dim light.
+
+"A quarter past seven," Wyatt said, his voice a low, warm rumble. He held up the heavy, analog cassette tape, a genuine smile breaking across his face. "And I think I just figured out our itinerary for the day."
+
+Sarah blinked, her eyes focusing on the archaic piece of media in his hand, and then on the solid, non-blinking green clock on the VCR behind him. A bright, uninhibited laugh filled the quiet room. It was the best sound he had ever heard.
+
+"You fixed the clock," she smiled, shaking her head in absolute adoration. She patted the empty expanse of the mattress beside her. "Come back to bed, Wyatt. The movie can wait."
+
+Wyatt set the tape down next to the heavy remote. The analog maintenance of the outpost—the frozen telemetry buoys, the offline sensors, the rusted airlocks—could wait, too. He climbed back into the sprawling, luxurious space of the queen bed, pulling the woman he loved firmly against his chest.
+
+Delta 9 was officially online.
+

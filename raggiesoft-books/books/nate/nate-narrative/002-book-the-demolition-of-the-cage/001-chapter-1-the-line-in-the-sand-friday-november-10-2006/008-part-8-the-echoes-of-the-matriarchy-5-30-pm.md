@@ -1,0 +1,44 @@
+# Part 8: The Echoes of the Matriarchy (5:30 PM)
+
+The hot water had done its job, melting the violent, rigid spasticity out of Nate's muscles and leaving him with the heavy, boneless exhaustion of a survivor who had finally stopped running.
+
+Sarah helped him dress in his softest, most worn-in sweatpants and an oversized t-shirt. She transferred him back into his manual chair, ready to settle him into the queen-sized bed they shared in the garage apartment. But as he looked around the quiet, dimly lit studio, a sudden wave of claustrophobia hit him. The apartment was safe, but right now, it felt too quiet. It felt too isolated.
+
+"I don't want to stay in here," Nate murmured, his voice raspy.
+
+Sarah paused, her hands resting gently on his push-handles. "Okay. Where do you want to go?"
+
+"The living room," Nate said, gesturing toward the door that connected to the main house. "I want to be out there."
+
+Sarah didn't ask for a psychological breakdown of the request. She simply nodded, unlocked his brakes, and pushed him out of the garage apartment and into the sprawling, familiar warmth of the main living room.
+
+The house was quiet. Evelyn was in the kitchen, giving them space, the soft clinking of dishes providing a steady, domestic rhythm. Sarah parked the wheelchair parallel to the large, plush sofa. With practiced, effortless mechanics, she helped Nate pivot and transfer onto the cushions.
+
+Instead of sitting beside him, Sarah sat sideways against the armrest, patting her lap. Nate didn't hesitate. He shifted his weight, lying down flat on the sofa and resting his head heavily onto his sister's lap. Sarah immediately draped a thick knit blanket over his legs, wrapping her arms around his shoulders and pulling him into a tight, secure cuddle against her chest.
+
+Nate closed his eyes, leaning into the deep pressure of her embrace. He was home. He was clean. He was safe.
+
+Yet, as he lay there listening to his sister's steady heartbeat, an unexpected ache bloomed in his chest. He looked around the large living room. It was empty now, but in his mind's eye, he could still see it the way it used to be. He could see the floor littered with fashion dolls. He could hear the chaotic, overlapping laughter of Jessica, Amanda, Brittany, Ashley, Lauren, and Megan.
+
+He suddenly, desperately, wanted his cousins.
+
+He wanted the noise. He wanted the impenetrable, matriarchal shield that had protected him for his entire childhood. If they were all here, Valerie wouldn't have stood a chance. They would have formed a literal wall around him.
+
+But they weren't here. They had grown up. They had moved away from Hampton Roads, scattering to different cities to build lives of their own. They were getting married. They were having babies. They were starting the exact kinds of families that Valerie had just weaponized against him in the terminal.
+
+A quiet, profound sorrow settled over him as the reality of his own trajectory set in. His cousins were moving forward into motherhood. He was permanently sidelined. The Azoospermia that had saved his life today also guaranteed he would never follow in their footsteps. He would never have a family of his own.
+
+And then there was Sarah.
+
+Nate tilted his head up slightly, looking at his older sister. She was twenty-five years old, brilliant, and fiercely capable. She could have easily followed their cousins. She could have moved away, gotten married, and started a family of her own. Instead, she was sitting on a sofa on a Friday night, holding her broken twenty-two-year-old brother together after rescuing him from a bus terminal.
+
+She hadn't just stayed; she had actively chosen to make him her life's mission. She had traded the traditional path of a family for the garage apartment, the push-handles of his wheelchair, and the unrelenting duty of keeping him safe.
+
+"I wish the girls were here," Nate whispered into the quiet room, the tears returning, though this time they were slow and heavy. "I want a hug from Brittany. And Megan."
+
+Sarah’s hand paused in his hair. She understood exactly what the request meant. She leaned down, pressing a long, firm kiss to his forehead.
+
+"I know, buddy. I know you do," Sarah murmured softly, her grip tightening around his shoulders in a fierce, uncompromising hold. "They love you so much. But right now, it's just us. And I've got you. I am never letting you go."
+
+Nate let out a shaky breath, closing his eyes as the last of his adrenaline finally burned away. The house was quieter than it was in 1994, and the fortress was smaller, but as he lay anchored in his sister's arms, he knew it was strong enough.
+

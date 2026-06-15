@@ -1,0 +1,35 @@
+# Part 4: A New Day on Campus
+
+The next morning, after a shared breakfast, their paths diverged for the first time since Delivery Day. Megan, ever the responsible professional, headed off to her in-office day at work. Alex and Chloé, meanwhile, walked across the street to the CCHR campus, the world feeling tangibly different. The crisp autumn air was the same, the familiar red brick of the academic buildings was unchanged, but Alex moved through it all with a new, quiet confidence. He was no longer just navigating the campus; he was an active participant in it, his new power chair gliding silently and effortlessly over the pavement.
+
+They were both off from their work-study jobs today, so after their morning classes, they headed to the library to work on their respective research papers.
+
+"Okay," Chloé said, pulling out her notes as they entered the vast, quiet space. "I need to find a few books on early 20th-century archiving techniques. What are you looking for?"
+
+THERE'S A SPECIFIC HISTORY TEXT I NEED, his Quantum Communicator Pro V voiced, its tone clear and steady. DR. HARRISON MENTIONED IT IN HIS LECTURE. IT SHOULD BE IN THE AMERICAN HISTORY SECTION, UPSTAIRS.
+
+Out of pure, loving habit, Chloé turned towards the stacks. "Okay, what's the call number? I'll go grab it for you."
+
+Alex stopped her with a look, a small, triumphant smile playing on his lips. I'VE GOT IT, he typed.
+
+Chloé's eyes widened, and then she smiled back, a look of pure, dawning joy on her face. "Oh," she said softly. "Of course you do."
+
+She watched, her heart swelling with pride, as he navigated the narrow aisles of the library stacks with a new, easy confidence. He found the right section and located the book. It was on the second-to-top shelf, a height that would have been completely inaccessible to him just two days before. With a quiet whir of motors, he engaged the standing function. He rose up, level with the shelf, and plucked the heavy textbook from its spot with his own hand. He then lowered himself, placed the book in his lap, and wheeled back to their table, a look of profound, quiet victory on his face.
+
+It was his first act of true academic independence. No asking for help. No waiting for a librarian. Just a student, getting a book.
+
+When he returned to the table where Chloé was waiting, she didn't say anything. She just reached out and squeezed his hand, her eyes shining.
+
+"Okay," she said after a moment, her voice bright. "Let's find a place to work."
+
+She started to head towards their usual table, a prized spot nestled conveniently next to a pillar with a highly-coveted electrical outlet. Alex, however, gently steered his chair in the opposite direction, towards a large, empty table bathed in the sunlight streaming through one of the library's massive picture windows. It was a beautiful spot, but it was in the middle of the room, nowhere near a power source.
+
+HOW ABOUT HERE? he asked.
+
+Chloé stopped, looked at the table, and then back at him, and she understood completely. She looked at her own MagnaByte laptop, then at his new communicator, both with their brand-new, long-lasting batteries. A wide, liberated grin spread across her face.
+
+"Yeah," she said, her voice full of a new, wonderful lightness. "Here is perfect."
+
+They settled in, spreading their books and notes across the wide, sun-drenched table. They were untethered. For the first time, their study session wasn't dictated by the length of a power cord or the location of an outlet. They were just two students, sitting where they wanted, working together, completely and utterly free.
+
+

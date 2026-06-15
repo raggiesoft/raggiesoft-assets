@@ -1,0 +1,30 @@
+# Part 8: The Overwatch
+
+When the door to Mr. Panoff's office opened, Freddie expected Jessica to walk straight out of the band room and toward the parking lot to wait for their mother. The air conditioning in the office was fierce, and the band room was rapidly becoming a sauna of teenage sweat and humidity.
+
+Instead, Jessica walked over to the stack of surplus chairs near the wall—about ten feet away from the Pit setup—and pulled one down. She placed it carefully, angled so she had a clear line of sight to the marimbas and the vibraphones, but far enough away that she wasn't technically "in" the rehearsal space.
+
+She sat down, crossed her legs, and opened a paperback novel she had pulled from her purse.
+
+"Okay, let's reset!" Heidi called out. Her voice, usually a weaponized shriek by 2:00 PM, was now coated in a layer of sugary artificiality. She glanced nervously at Jessica, who didn't look up from her book but turned a page with deliberate slowness.
+
+The effect was instantaneous.
+
+Usually, the afternoon block was when Heidi’s patience snapped. It was when she would single out a freshman for holding a stick wrong or for missing a visual cue. But today, with the Clarinet Section Leader acting as a silent sentinel in the corner, Heidi was a model of encouragement.
+
+"Great wrist rotation, Kevin!" Heidi chirped to a freshman boy on the xylophone whom she had terrified into silence that morning. "Really nice rebound!"
+
+Kevin looked confused, then relieved. He looked over at Jessica, realizing the correlation.
+
+Freddie caught Paige’s eye across the instruments. She gave a microscopic nod. *She's the firewall,* the nod said.
+
+The presence of the "Matriarch" changed the physics of the room. It wasn't just Freddie and Paige who were safe; the protection extended to the entire freshman class of the Pit. Jessica was the variable that balanced the equation. As long as she was sitting there, turning pages and occasionally glancing over her glasses to scan the room, Heidi couldn't be the tyrant she wanted to be.
+
+"Let's try that run one more time," Heidi said, her smile fixed and rigid. "And remember to breathe! We want to be relaxed!"
+
+Freddie struck the bars of the marimba, feeling a new kind of ease. He didn't have to watch his back. He didn't have to worry about his chair being snatched away or his posture being critiqued for the sake of "visuals."
+
+He looked at Jessica again. She wasn't even looking at them; she was completely absorbed in her book. But Freddie knew better. She was the "Control Group." She was monitoring the environment, regulating the temperature of the room just by existing in it.
+
+The afternoon, which had loomed ahead of them like an endurance test, suddenly felt manageable. They weren't just surviving the day; thanks to the girl in the corner with the paperback book, they were actually going to learn the music.
+

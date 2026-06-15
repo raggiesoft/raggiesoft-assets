@@ -1,0 +1,34 @@
+# Part 7: Le Réveillon on Lisa Court (December 24, 2003)
+
+The Mason house on Lisa Court had been completely transformed. It was no longer a quiet suburban home; it was a bustling, fragrant outpost of Québec, filled with the boisterous, happy sounds of a family reunited. Christmas Eve was here, and with it came the most sacred of their holiday traditions: Le Réveillon.
+
+The kitchen was the warm, chaotic heart of the celebration. Mémère Madeleine presided over the rich, savory *tourtières*, while Sophie and Geneviève worked on other traditional dishes. But on a separate, dedicated section of the counter, Emily Miller was preparing a different kind of meal. Following the strict instructions from Alex's doctor, she was gently poaching a simple chicken breast and steaming a small portion of white rice. Alex's feast tonight would not be the rich, heavy food of the celebration; it would be a simple, nourishing, and deeply loving meal designed for a body still in the delicate process of healing.
+
+In the living room, a different kind of ritual was underway. James Miller, Thomas Mason, and David Leclerc were crowded onto the sofa, watching a Christmas Eve hockey matchup between the Montréal Voyageurs and the Boston Brawlers. Alex, his own small, carefully prepared plate on the tray of his wheelchair, watched with a quiet smile, more interested in the family dynamic than the game itself.
+
+Joining them, a bowl of snacks in her lap, was Megan. As a native of Quincy, Massachusetts, she was a die-hard Boston Brawlers fan, a fact that made her and James a quiet, two-person embassy in a foreign land. Like James, however, she knew better than to be too loud about her allegiance.
+
+The moment the puck dropped, Chloé's entire demeanor changed. Her usual calm, gentle focus was replaced by a passionate, fiery intensity. She was on her feet, pacing, her voice a running commentary of cheers and groans in sharp, rapid-fire Québécois French.
+
+"*Allez, les gars! Tirez au but, tabarnak!*" she yelled at the screen when a Voyageurs player missed a shot.
+
+Alex stared, a look of pure, amused astonishment on his face. This was a side of Chloé he had never met.
+
+Uncle David just roared with laughter. "*Bien dit, Chloé!*" He then turned to James. "*Tu vois, James? C'est ça, la passion! Ta pauvre équipe, elle n'a aucune chance ce soir!*" (You see, James? That's passion! Your poor team, it doesn't stand a chance tonight!)
+
+James, good-naturedly outnumbered, just laughed and raised his hands in mock surrender. "I'm just here for the food, David. I know better." He caught Megan's eye, and they exchanged a small, conspiratorial wink.
+
+The game was a tense, back-and-forth battle. With less than a minute left, the score was tied. A face-off in the Voyageurs' end. The Brawlers won the draw, a quick pass back to the defenseman, a slapshot through traffic...
+
+Goal. The Brawlers had scored.
+
+An absolute, stunned, horrified silence fell over the living room. Chloé stared at the screen, her mouth agape in disbelief. Uncle David slumped back on the sofa as if all the air had been let out of him.
+
+Into that heavy, silent void, James Miller and Megan Carter exchanged a quiet, satisfied, and perfectly understated look of victory. James just offered a simple, "Well, how about that."
+
+Alex, who had been a neutral observer, saw the crushing disappointment on Chloé's face. He typed a quick, diplomatic message on his AAC, the synthesized voice a perfect, gentle tease. DON'T WORRY. I AM SURE SANTA WILL STILL BRING YOU ALL PRESENTS. EVEN IF YOUR TEAM IS ON THE NAUGHTY LIST.
+
+For a moment, the silence held. Then, a reluctant snort of laughter came from Thomas, followed by a giggle from Isabelle. Even Chloé's devastation cracked, a small, pained smile touching her lips. The tension was broken.
+
+Later, after the magnificent (if slightly less triumphant) feast was enjoyed by the rest of the family, and Alex had finished his own simple, healing meal, the entire, sprawling group gathered in the living room for the "one present tonight" compromise. The sting of the hockey loss was slowly replaced by the warmth of family and the joy of the holiday, a perfect, beautiful fusion of all their traditions.
+

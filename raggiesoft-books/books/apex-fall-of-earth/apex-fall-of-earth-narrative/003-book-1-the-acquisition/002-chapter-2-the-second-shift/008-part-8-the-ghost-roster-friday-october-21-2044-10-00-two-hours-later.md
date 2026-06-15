@@ -1,0 +1,66 @@
+# Part 8: The Ghost Roster – Friday, October 21, 2044 – 10:00 (Two hours later)
+
+Wyatt stepped back out onto the grated catwalk of Sector 4, the heavy, rusted blast door of the abandoned break area clunking shut behind them. The deafening, ambient roar of the deep-core drills instantly washed back over him, vibrating up through his heavy boots.
+
+But the crushing, claustrophobic weight of the Apex facility didn't touch him anymore.
+
+Wyatt looked down. His taped hand was holding Sarah’s. He didn't just have a loose grip; their fingers were deeply, firmly laced together. They weren't hiding it. In the dim, strobing light of the failing Sector 4 grid, the two of them were walking shoulder-to-shoulder, an undeniable, completely unified front. The terror of the morning had been entirely replaced by the electric, grounding reality of the woman walking beside him. He was in love with her, and the fierce, protective warmth radiating from her grip told him she felt the exact same way.
+
+"Check your schedule," Wyatt told her quietly, bringing his free hand up to unclip his Level 1 PDA from his belt. "Let's see what sublevel the algorithm wants us on for the second half of the shift."
+
+Sarah pulled out her battered datapad, her thumb swiping across the cracked screen with her free hand. They both pulled up the master S.H.O.P. manifest.
+
+Wyatt frowned, stopping in his tracks. Sarah bumped gently against his bicep, her eyes fixed on her own screen.
+
+"Wyatt," she murmured, her brow furrowing in confusion. "Look at the housing block."
+
+He looked at his screen. The blocky green text detailing their 12-hour patrol route was still there. But the line below it—the assignment that was supposed to read *BARRACKS 4: BUNK 42-C*—was completely blank.
+
+"Mine is gone too," Sarah said, tilting her screen toward him. It wasn't an error code. It hadn't been reassigned to a different sector or a different mattress. The data string had simply been highlighted and permanently erased from the system.
+
+Wyatt let out a slow, cynical breath, sliding his thumb over the empty text field. "They deleted us."
+
+"Just like that?" she asked, a mix of disbelief and quiet outrage in her voice. "We're down here working a twelve-hour shift, and management just deletes our beds?"
+
+"It's a good thing we kept our canvas duffel bags with us," Wyatt said, looking down at the heavy bags slung over their opposite shoulders. "And a damn good thing we didn't put anything in those rattling metal storage lockers at the foot of the bed. If we had, it would already be in the Sector 1 incinerator."
+
+Sarah looked down at the bright, clean fabric of her slate-blue cargo pants, the reality of Apex's empty promises hitting her all over again.
+
+"Wyatt," she asked quietly, knowing far better than to ever ask an Apex supervisor. "Do you think they're actually going to issue me a S.H.O.P. Marine uniform? Or did they just lie to get us out of the intake room?"
+
+Wyatt looked at her, his expression softening with a grim, honest sympathy. "I don't know for sure. But honestly? The way this place is running, I wouldn't be surprised if you spent your entire eighteen-month contract in that Helios FST uniform. They aren't going to spend the credits to outfit an acquisition transfer when they don't even care where we sleep."
+
+Sarah let out a heavy sigh, but then she looked back down the dark corridor, toward the heavy blast door of the abandoned break area they had just left. Her analytical mind started spinning, calculating the variables. The panic that would normally accompany losing your only place to sleep didn't hit her. Instead, a brilliant, rebellious spark lit up her eyes.
+
+"Wyatt," she said, her voice dropping to an excited, conspiratorial whisper. She stepped closer, pressing her side against his. "The cameras surrounding that break room are dead. The camera inside is dead."
+
+"And the lead shielding in the walls blocks our PDA trackers," Wyatt added, catching on instantly, a slow grin spreading across his scarred face.
+
+"Management didn't notice we were off the grid for our entire lunch break," Sarah continued, her fingers tightening between his. "They don't care about our coordinates, and they clearly don't care where we sleep. So... why go back to Barracks 4? Why fight for thirty inches of concrete when we have a sofa behind a locked door that no one has opened in years?"
+
+Wyatt looked at her. It was a massive breach of corporate protocol. If a Supervisor caught them sleeping in an unauthorized sector, it would mean immediate contract termination, or worse, a trip to the disciplinary holding cells. But looking at the sharp, confident smile on her face, and feeling the warmth of her hand in his, the decision was effortless.
+
+"We don't say a word to administration," Wyatt agreed, his voice a low, solid rumble. "Tonight, we clock out, we grab our rations, and we disappear."
+
+"Our own sanctuary," Sarah whispered, leaning her head briefly against his arm. "Just us."
+
+They resumed their patrol, the heavy dread of the Nevada facility completely replaced by a quiet, thrilling anticipation for the end of the shift. They walked the perimeter, their hands locked together, entirely at ease with the new romantic reality between them.
+
+Two hours later, their patrol route took them up a primary maintenance ramp that passed near the Sector 1 Security Checkpoint—the main bottleneck leading toward the dormitories.
+
+Wyatt and Sarah paused on the upper catwalk, looking down through the grated flooring at the staging area.
+
+The turnstiles were completely gridlocked. A massive, terrified herd of at least two hundred brand new S.H.O.P. contractors was being aggressively herded through the checkpoint by shouting Supervisors with raised shotguns. The new arrivals were clutching canvas bags, looking around the rusted, flashing hellhole with wide, horrified eyes.
+
+"Fresh meat," Wyatt muttered, his jaw tightening.
+
+Sarah watched the chaotic mass of bodies being shoved toward Barracks 4. Apex wasn't just fixing a clerical error. The Board of Directors had panicked about the failing drill speeds and simply ordered another massive wave of expendable bodies to throw at the problem. They were incredibly desperate for space. The HR algorithm hadn't glitched; it had ruthlessly and quietly deleted the bunk assignments of existing contractors just to make room for the new wave, assuming the veterans would just sleep on the floor.
+
+"That's why our bunk is gone," Sarah said quietly, pressing her shoulder into his as they watched the corporate meat grinder churn below. "They just overwrote us."
+
+"Let them have the floor," Wyatt said, turning her gently away from the railing, his thumb stroking the back of her hand. "We have a better place to be."
+
+She looked up at him, the chaos of Sector 1 completely fading into the background. "Yeah. We do."
+
+Wyatt led her away from the checkpoint, descending back into the blistering heat and deafening noise of the lower sectors to finish the second half of Day 2. Apex Defense Solutions might have stolen their bed, but as they walked hand-in-hand through the shadows, they both knew the company had inadvertently given them something infinitely better.
+

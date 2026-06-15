@@ -1,0 +1,36 @@
+# Part 4: A Return to the Water
+
+To escape the happy chaos of furniture shopping and paint swatches, Alex and Chloé decided to spend a quiet Thursday afternoon at a place of pure, uncomplicated memory: the Fairlawn Recreation Center.
+
+As they were gathering their swimsuits and towels in their apartment, Megan looked up from her work laptop at the kitchen table, a wistful smile on her face.
+
+"You guys are going to Fairlawn?" she asked. "I'm so jealous. I haven't been there in forever."
+
+"You should come with us," Chloé said, the invitation immediate and genuine.
+
+Megan sighed, gesturing to her screen. "I wish I could, but I have to finish writing this user manual by five. That's the downside of a new job—no spring break." She then grinned. "But you two have fun. And the next time you go, I am definitely coming. I'd love to see it again."
+
+"It's a date," Chloé promised.
+
+And so, Alex and Chloé headed out on their own, leaving Megan to her work. The humid, chlorinated air of the natatorium was a scent tied to some of their happiest high school moments, a world where the water had always been their great equalizer.
+
+They checked in at the second-floor desk overlooking the pool, their familiar membership cards earning them a warm smile from the supervisor, a kind woman named Deb. As Deb handed them their towels, Chloé spoke up, her tone friendly but purposeful.
+
+"Hi, Deb. We have a bit of a logistical question," she began. "I need to help my husband, Alex, get changed for the pool. We know the city's policy about the locker rooms, and that there isn't a family changing area. What's the best way for us to handle that?"
+
+Deb's friendly expression became thoughtful. "You're right, the policy is strict," she said. "You can't go into the men's locker room with him."
+
+"I know it's unusual," Chloé said, her voice a perfect blend of respect and firm advocacy. "But Alex needs my help to use the pool safely. Is there a reasonable accommodation you can make for us? Maybe unlock the employee door out here on the landing so we can get to the deck?"
+
+Deb considered this for a moment, her gaze falling on Alex, then back to the determined, loving look on Chloé's face. She nodded. "You know what? I think we can make that work. There's a large, single-user restroom in the meeting room wing downstairs on the first floor. You can both use that."
+
+She then added, "Now, the rule is 'shirt and shoes required' for anyone not on the pool deck or in the locker rooms. So, what we'll do is this: I'll escort you both down to that restroom. You can get changed in there. Then I'll escort you back up here and let you through the employee door onto the deck. When you're done, we'll do the same thing in reverse."
+
+It was a complicated, multi-step process, but it was a solution, an act of kindness that went beyond the rigid lines of the policy manual. "That," Chloé said, a wave of profound gratitude washing over her, "would be absolutely perfect. Thank you, Deb."
+
+The journey through the rec center felt like a small, private parade. Deb led them, a friendly guardian, down to the quiet, empty meeting room wing. After they changed, she escorted them back up to the second floor, her presence giving them official clearance. She unlocked the heavy employee door, and a wave of warm, chlorinated air washed over them.
+
+They were on the pool deck.
+
+The moment Alex slid from his chair into the warm, buoyant water, the world fell away. Chloé was in beside him in a flash. They met in the middle of the lane, and with the water supporting him, they shared a full, encompassing hug, their first here as husband and wife. It was a silent, perfect, full-circle moment. Here, in the quiet embrace of the water, they were just Alex and Chloé, a single, seamless unit, floating in a world that felt entirely their own. The logistical hurdles, the advocacy, the complicated path it took to get here—it all melted away, leaving only the profound, simple joy of being together.
+

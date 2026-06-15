@@ -1,0 +1,84 @@
+# Part 1: The Green Mountain Haul
+
+Date: July 2, 2003
+
+Time: 2:00 PM
+
+Location: I-91 North (Crossing the Massachusetts/Vermont Line)
+
+The transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway had given way to something greener, cleaner, and infinitely more open.
+
+They were on Interstate 91 now, cutting a straight line north. The billboards for personal injury lawyers vanished, replaced by signs for maple syrup, antique barns, and ski resorts.
+
+"Welcome to the Green Mountain State," Tom announced, tapping the steering wheel as they passed the "Welcome to Vermont" sign.
+
+In the back of the heavy transport van, the mood was a mix of awe and physical depletion.
+
+Nichole was staring out the window. It was beautiful—rolling hills that looked like a painting, dense forests, and air that even through the van vents felt crisper. It looked like the kind of place where a person could actually think. Where a writer could write.
+
+But her body was screaming.
+
+They had been on the road for six hours. The stop at a rest area in Connecticut had helped, but the vibration of the van was relentless. Her lower back felt like it was fused to the seat cushion. Her hip flexors were pulled tight like bowstrings. Every time the van hit an expansion joint in the bridge, a jolt of electricity shot up her spine.
+
+She reached for Patrick’s hand. She let out a low, sharp grunt in the back of her throat—a sound like grinding stones. She didn't tap the VocaLink. She just squeezed his fingers—three short pulses. *Hurts.*
+
+"I know," Patrick whispered, abandoning his book. He recognized the pain vocalization immediately. He shifted in his seat, leaning over to massage the knot of muscle at the base of her neck. "We're almost there. Dad says twenty minutes to Brattleboro."
+
+"Hang in there, kiddo," Ellen said, looking back from the passenger seat. "We're checking straight into the hotel. No detours."
+
+The van began to slow as they took the exit for Brattleboro. It was a charming, bustling town that felt worlds away from the strip malls of Virginia Beach. They navigated through the downtown area, passing brick storefronts and coffee shops filled with students and hikers.
+
+"It has a vibe," Patrick noted, looking at a bookstore with a 'Local Poetry Reading Tonight' sign in the window. "I could see us here."
+
+Nichole managed a weak nod. She *could* see them here. She could imagine rolling down these sidewalks in the autumn, wearing a thick sweater, heading to a creative writing workshop.
+
+They pulled into the hotel parking lot. It was a rustic lodge-style building, timber-framed but modern enough to have a covered portico.
+
+"Check-in time," Tom said, putting the van in park.
+
+The routine was automatic. Tom went to the desk. Ellen managed the bags. Patrick lowered the lift.
+
+When the hydraulic ramp touched the Vermont pavement, Nichole let out a breath she felt like she'd been holding since New Jersey. The air smelled of pine and damp earth.
+
+They had secured a large accessible room on the ground floor. It wasn't a two-room suite like the one in New Jersey, but it was spacious, featuring two queen beds separated by a wide aisle.
+
+"Dibs on the bed closest to the bathroom," Patrick said as they hauled the luggage in. "Nikki and I will take that one. You guys take the one by the window."
+
+"You sure a queen is big enough for both of you?" Tom asked, dropping his duffel bag.
+
+"Dad, she practically sleeps on top of me anyway," Patrick laughed, unlatching the brakes on the wheelchair. "A queen is plenty."
+
+Patrick didn't waste another second. He locked the main door and turned to Nichole.
+
+"Pit crew, assemble," Patrick joked, but his eyes were serious. He knew her pain tolerance was red-lining.
+
+He rolled her to the bathroom. It was smaller than the last one, but workable. He managed the transfer, helping her use the toilet, then started the bathwater. He made it hot—hotter than usual—to shock the muscles into submission.
+
+He lifted her into the tub. As the warm water enveloped her, Nichole let out a long, shuddering sigh that melted into a soft, high-pitched *hummm* of pure relief. Her head tipped back against the porcelain, and she closed her eyes.
+
+Patrick sat on the closed toilet lid, rolling up his sleeves. He grabbed the washcloth. He didn't rush. He washed her arms, her back, her legs, moving with a rhythmic, calming pressure.
+
+"We made it," Patrick said softly, rinsing the soap from her shoulder. "We're in Vermont. The Open House is at 8:00 AM. We're going to roll in there, blow them away with your portfolio, and find out where we sign."
+
+Nichole opened her eyes. The pain in her hips was dulling to a manageable ache. She looked at her brother—tired, sweat on his brow, but smiling. She made a soft, happy *clicking* sound with her tongue.
+
+He was the only aide she ever wanted. He was the only one who knew that she needed the water *this* hot, or that she needed her left calf rubbed *that* way.
+
+After the bath, Patrick dried her off and carried her to the queen bed.
+
+He spent twenty minutes stretching her legs, working the stiffness out of her hamstrings until she was loose and limp. He dressed her in her favorite soft pajamas.
+
+"Hungry?" Ellen asked from the other side of the room, holding a takeout menu.
+
+Nichole shook her head. She tapped her chest, then the pillow. She made a soft *shhh* sound. *Sleep.*
+
+"Smart play," Patrick said, climbing into the bed next to her.
+
+He pulled the quilt up over both of them. A queen bed was technically standard for two adults, but they didn't need the extra width. Nichole immediately scooted backward, pressing her spine against his chest, tucking her cold feet between his calves. Patrick wrapped his arm over her, locking her in place.
+
+"Tomorrow," Patrick whispered into the dark room. "Putney College. This is it, Nikki. The big leagues."
+
+Nichole smiled against the pillow, the scent of pine still lingering in her memory. She let out a sleepy, contented coo. She felt safe. She felt ready.
+
+The machine was powered down and ready to recharge overnight.
+

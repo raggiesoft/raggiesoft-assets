@@ -1,0 +1,34 @@
+# Part 1: The Cavalry Arrives (Mid-December 2003)
+
+A cold, persistent rain, so quintessentially Pacific Northwest, fell on the evergreen trees outside Chloé’s Lynnwood apartment. Inside, a quiet, healing routine had taken hold. The weeks since Alex’s rescue had been a slow, steady process of him reclaiming his strength and his agency. The constant, grounding presence of Chloé, their shared safe language, and the daily, loving video calls with their parents had been a powerful medicine.
+
+Just before Christmas, the cavalry arrived. The four parents—James, Emily, Thomas, and Sophie—landed at Seattle-Tacoma International Airport after a long, tense flight from Norfolk, with a connection through Chicago O'Hare. They had rented a minivan and driven straight to a grocery store before even heading to the apartment. They arrived at Chloé’s small, first-floor unit not with luggage, but with arms laden with bags of groceries—fresh fruit, bread, milk, eggs, and the ingredients for a simple, nourishing soup. Their first, overwhelming instinct was to provide.
+
+Chloé opened the door, and for a moment, no one spoke. The four parents just stared, their eyes finding Alex, who was sitting in his wheelchair in the small living area. The video calls had prepared them, but seeing him in person was a different, more brutal reality. They saw the hollowness in his cheeks, the way his sweater seemed to hang on his too-thin frame, the deep, haunted weariness in his eyes that no webcam could fully capture.
+
+Emily Miller was the first to move, a small, choked sob escaping her. She crossed the room in three quick steps and knelt before her son, pulling him into a hug that was a torrent of a month's worth of terror and relief. James’s hand came to rest on Alex’s shoulder, a silent, powerful promise of protection, his jaw tight with a cold, contained fury for the woman who had done this. The Masons enveloped both their daughter and their "second son" in warm, all-encompassing hugs.
+
+As they all pulled back, James looked at his son, a gentle, loving smile touching his lips. "We have one more surprise for you, Alex," he said. "The best one."
+
+He gestured to the still-open doorway, where someone had been patiently waiting just out of sight. A new figure stepped inside, shaking the rain from her jacket. It was Megan.
+
+Alex’s eyes widened. He stared, his mind refusing to process the image. Megan. His Megan. His favorite cousin, his first friend, his safe harbor. Here. In Lynnwood. The sheer, impossible joy of it was too much. His entire system, already frayed from weeks of trauma and the emotional high of Chloé's rescue, was completely overwhelmed. The world seemed to tilt, the sounds of the room fading into a distant hum. A tremor started in his hands, his body shaking with a joy so intense it was indistinguishable from a panic attack. He was mentally overloading.
+
+Megan saw it instantly. She crossed the room in two quick steps, her own face a mask of profound, aching love. She knelt beside his wheelchair, and without a word, pulled him into the kind of big, safe, familiar hug that had been the foundational comfort of his entire childhood.
+
+It was different, even, from Chloé's hugs. Chloé's hugs were a promise of their shared future, a partnership. Megan's hugs were a connection to his past, a deep, grounding, and unconditional safety that he had known since he was a small child. It was the original medicine.
+
+He clung to her, burying his face in her shoulder, her steady, familiar presence the only anchor in his swirling sea of emotion. He just held on, his body trembling, as she slowly, carefully, brought him back to himself.
+
+Chloé and the parents watched, their hearts breaking with a profound, aching love. They didn't interfere. They understood. This was a language only Alex and Megan spoke, a bond so deep and so old that it existed outside of everything else. This was the work of healing that only she could do.
+
+After a long, timeless moment, the tremor in Alex's body began to subside. He let out a long, shuddering breath, his grip on his cousin finally loosening. He was back. He was safe. His entire family was here.
+
+"Couldn't let the old folks have all the fun out here without me," she whispered, her voice full of warmth. "And there was no way I was missing your official welcome home party."
+
+"Megan, honey, your exams!" Emily said, her own face a mixture of surprise and gratitude, even though she had been in on the plan.
+
+"Finished my last final yesterday morning," Megan explained to the room, confirming the story they had all coordinated. "I met them at the airport in Norfolk. We figured you could use some expert help packing for the trip home, and I'm the expert." She looked back at Alex, her expression soft. "Commencement isn't until next week. I'm not missing that. But being here with you, cuz? This is more important."
+
+For the first time in months, a real, genuine, unforced smile spread across Alex's face. He was surrounded. Not just by love, but by his entire support system, his complete circle of trust. The small apartment was suddenly crowded, but it was a warmth that chased away the last of the shadows. The healing could truly begin now.
+

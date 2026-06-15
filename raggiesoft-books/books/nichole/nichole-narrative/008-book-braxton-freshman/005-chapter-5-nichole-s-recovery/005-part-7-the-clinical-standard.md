@@ -1,0 +1,122 @@
+# Part 7: The Clinical Standard
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 7:15 PM **Location:** Unit 404, The Foundry Lofts
+
+The heavy steel door of the loft clicked shut, locking out the world. They were back in the Fortress.
+
+Patrick threw the deadbolt. He leaned his back against the door for a second, listening to the wind howling against the brick exterior. Through the frosted industrial windows, he could see the snow coming down in sheets. The roads he had just driven on were now fully white, the black asphalt gone.
+
+*Just in time.*
+
+But Patrick didn't relax. The "mission" wasn't over until the patient was stabilized in bed.
+
+He pushed Nichole into the master bathroom. She was slumped in her manual chair, her face pale and shiny with a sheen of pain-sweat. The car ride, even with the careful driving, had vibrated her fresh incisions.
+
+"Code Brown protocol," Patrick murmured, noting the subtle, specific shift in her posture that he had learned to recognize over nineteen years. "And bladder check."
+
+Nichole nodded weakly. She looked at the toilet. With her legs locked straight in the blue foam immobilizers, the standard pivot seemed impossible.
+
+Patrick didn't guess. He washed his hands at the sink—thirty seconds, hot water, soap—and dried them thoroughly. He snapped on a pair of latex-free exam gloves.
+
+"Okay, Nikki," Patrick said, his voice dropping into his assessment register. "We're going to do a **Modified Stand-Pivot** to the toilet. I need you to keep your legs fully extended. Do not try to help with your lower body. All weight on me."
+
+He removed the wheelchair armrest. He positioned the chair at a 45-degree angle to the toilet.
+
+"On three. One. Two. Three."
+
+He blocked her knees with his own (carefully avoiding the incision sites), grabbed her gait belt (which he had applied in the garage), and pivoted her. She hovered over the toilet seat.
+
+"Descent."
+
+He lowered her slowly. Because her legs were straight, she had to sit further back, her heels resting on the tile floor, her legs forming a hypotenuse triangle with the bowl. It looked uncomfortable, but it maintained the surgical precautions.
+
+Patrick didn't step out. He grabbed a stool and sat near the tub, giving her space but keeping eyes on her face.
+
+"I'm monitoring," he said. "Take your time."
+
+The process was slow—a side effect of the intra-operative anesthesia and the pain meds slowing the gut motility. Nichole gripped the grab bar, her knuckles white. She squeezed her eyes shut, a small sound of distress escaping her throat.
+
+"Breathe," Patrick coached, watching her respiratory rate visually. "Don't bear down too hard. Let gravity work. You're okay."
+
+When she signaled she was done, Patrick stood up. He didn't just grab paper. He reached for the peri-bottle (filled with warm water) and the medical-grade wipes.
+
+"Cleaning," he announced.
+
+He wiped front to back—standard protocol—but with the hyper-careful touch of someone who knew exactly how sensitive her skin was. He checked the stool consistency (a nurse's habit now). Normal. No impaction.
+
+He disposed of the waste. He stripped his gloves, washed his hands, and put on a fresh pair for the transfer.
+
+"Clean and clear," Patrick said. "Let's get you horizontal."
+
+## The Bed Transfer
+
+The transfer to the King bed was the final hurdle.
+
+Patrick rolled her to the bedside. He prepared the landing zone first: two pillows stacked lengthwise to support her legs, ensuring her heels would "float" (not touch the mattress) to prevent pressure ulcers.
+
+"Plank transfer," Patrick said.
+
+He lifted her. He pivoted. He laid her down.
+
+She landed softly on the high-thread-count sheets.
+
+"Legs going up," Patrick narrated.
+
+He lifted her rigid legs, placing them gently on the pillow stack. The elevation would help drain the edema (swelling) from the surgery.
+
+"Alignment check," he muttered to himself. He checked her hips. *Straight.* He checked the immobilizer straps. *Snug, but not cutting off circulation.* He checked her pedal pulses (top of the foot). *Strong.*
+
+"Circulation is good," Patrick said. He stripped off the gloves and washed his hands again.
+
+## The Documentation
+
+Nichole lay back, exhausted. The pain was creeping back in—the car ride had burned through the last dose of hospital meds.
+
+Patrick walked to the desk. He didn't grab a scrap of paper. He opened a dedicated three-ring binder: **THE CHART**.
+
+He picked up a pen.
+
+"Pain assessment," Patrick asked, turning to her. "Scale of one to ten. Blink once for low, five times for high."
+
+Nichole blinked rapidly. *Six times. Seven.*
+
+*Seven.*
+
+"Spiking," Patrick noted. "Okay. Scheduled dose is due."
+
+He unlocked the small, fireproof lockbox on the nightstand (Narcotic Control Protocol). He pulled out the bottle of liquid Morphine Sulfate (which the hospital pharmacy had dispensed for easier swallowing) and the muscle relaxant (Diazepam).
+
+He measured the morphine with an oral syringe. **5 mL.** Exact.
+
+He checked the **"Five Rights"** of medication administration, even though he was the only nurse in the room:
+
+1.  **Right Patient:** Nichole.
+
+2.  **Right Drug:** Morphine Sulfate (Liquid).
+
+3.  **Right Dose:** 10mg (5 mL).
+
+4.  **Right Route:** Oral / Sublingual.
+
+5.  **Right Time:** 19:30 (Last dose was in PACU/Recovery).
+
+"Open," Patrick said gently.
+
+He slid the syringe into the side of her mouth, depressing the plunger slowly so she wouldn't choke. He followed it with the crushed muscle relaxant in a spoonful of applesauce.
+
+"Good swallow," he praised.
+
+He turned back to the binder. He wrote in the log:
+
+**DATE:** 12/27/05 **TIME:** 19:30 **VITALS:** HR 98, RR 20 (Pain elevated). **INTAKE:** Tolerated 5mL Morphine PO + 5mg Diazepam in sauce. **OUTPUT:** Voided x1 (large), BM x1 (soft/formed). **SKIN:** Intact. Surgical sites clean/dry. **NOTES:** Pt. transferred to bed via pivot. Legs elevated 20 degrees. Heel protectors applied. **SIGNATURE:** P. Bennett, LPN
+
+He closed the binder. The "By The Book" shift was complete.
+
+He walked back to the bed. He kicked off his shoes. He climbed in next to her, carefully avoiding her elevated legs.
+
+"Chart is updated," Patrick whispered, pulling the duvet over them while the snow piled up against the window glass. "Meds are on board. You're safe, Nikki."
+
+Nichole let out a long, drug-heavy sigh. She reached out and found his hand. She squeezed it.
+
+*My Medic.*
+

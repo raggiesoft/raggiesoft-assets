@@ -1,0 +1,66 @@
+# Part 9: Sowing the Seeds – Sunday, May 12, 2045 – 16:45
+
+The pneumatic elevator hummed softly as it carried them down to Sub-Level 1. When the brushed-steel doors parted, the transition was instantly intoxicating.
+
+After spending the afternoon watching the dark, muddy floodwaters of the valley, stepping into the Earth Conservatory felt like walking into a dream. The air was rich and heavily perfumed with the scent of blooming jasmine and damp, fertile soil. Above them, the massive micro-LED vaulted ceiling perfectly matched the time of day, projecting a soft, late-afternoon golden hour across the rolling Kentucky bluegrass.
+
+Wyatt and Sarah walked barefoot down the winding cobblestone path, entirely in their own skin. Wyatt carried a pair of heavy hand trowels and a forged steel spade he had grabbed from the cargo bay, while Sarah held a small collection of heirloom seed packets safely against her chest.
+
+They bypassed the towering White Oak and followed the sound of trickling water until they reached the edge of the reflecting pond.
+
+"Right here," Sarah decided, stopping near the base of a beautiful weeping willow. The ground was flat, receiving plenty of simulated sunlight, and the soil looked incredibly dark and rich. "We don't need ninety-six square meters right now. Just a small plot for the tomatoes and the spinach to get us started."
+
+"You're the boss," Wyatt smiled, tossing the hand trowels onto the grass.
+
+He drove the heavy steel spade into the pristine turf, easily cutting through the manicured grass to expose the dark earth beneath. Within ten minutes, he had cleared a neat, two-by-three-meter rectangle, turning the soil over so it could breathe.
+
+Sarah dropped to her knees at the edge of the fresh dirt. She picked up a hand trowel, completely unbothered by the damp soil clinging to her bare legs and hands. She loved the feeling of the earth.
+
+She leaned forward, engaging her core to dig a shallow trench for the first row of seeds.
+
+The moment she twisted her torso to scoop the dirt aside, a sharp, white-hot cramp seized her lower abdomen.
+
+Sarah let out a sharp gasp, her breath hitching painfully in her chest. She instantly dropped the trowel, rocking backward onto her heels and pressing the muddy heel of her hand hard against her lower stomach. The muscle felt like it was tied in a rigid, agonizing knot.
+
+Wyatt immediately dropped the spade. The heavy steel clattered against the cobblestones.
+
+"Sarah?" Wyatt was on his knees beside her in a fraction of a second, his large hands hovering protectively over her bare shoulders. "Hey, look at me. What’s wrong?"
+
+Sarah squeezed her eyes shut, waiting for the intense spasm to fade. She took a slow, shallow breath, massaging the muscle until the sharp pain finally dull down into a heavy, throbbing ache.
+
+She opened her eyes, letting out a frustrated, breathless laugh. She looked up at Wyatt’s deeply concerned face, her cheeks flushed.
+
+"I'm okay," Sarah winced, shifting her weight carefully. "It's just my stomach again. Damn it, it feels like I tore a muscle."
+
+Wyatt’s brow remained furrowed, his eyes scanning her face for any sign of something worse. "Are you sure? Because you're pale."
+
+"It's just the gravity tax," Sarah sighed, rubbing her side and looking back at the dirt. "Bounding thirty feet in the air on *Anchor* was amazing, but doing it in 0.48G and then dropping right back down into 1.02G... I must have completely overextended my core without even realizing it. Every time I lean forward to dig, my abs just seize up."
+
+Wyatt let out a heavy breath, the intense spike of adrenaline slowly leaving his system as her logic perfectly tracked.
+
+He had seen it happen a dozen times on the orbital deep-sea rigs. A contractor would spend weeks working in low-gravity environments, feeling like a superhero, only to return to Earth-standard gravity and find their stabilizer muscles completely shredded from the invisible over-exertion. Lactic acid buildup and micro-tears were a brutal, delayed consequence of bouncing between planetary physics.
+
+"I told you," Wyatt murmured, a sympathetic, knowing smile replacing his panic. He reached out, gently wiping a smudge of dirt from her cheek. "The gravity tax always collects. Your stabilizer muscles don't know which way is down right now."
+
+"It's so frustrating," Sarah groaned, looking at the unopened seed packets. "I just wanted to plant the tomatoes."
+
+"And you're going to," Wyatt assured her, easily hooking his arms under her and lifting her right off the ground.
+
+He carried her two steps over to the soft, thick grass beneath the weeping willow and set her down gently.
+
+"But you are going to do it from right here," Wyatt instructed, picking up the seed packets and handing them to her. He walked back to the edge of the dirt and picked up the hand trowel. "You are the architect. I am the heavy machinery. You sit there, rest your core, and tell me exactly how deep to dig the trenches."
+
+Sarah looked at him, completely bare and covered in the dark soil of their new world, wielding a garden trowel like it was the most important tool in the universe just because it made her happy. The dull ache in her stomach was instantly entirely overshadowed by how deeply she loved him.
+
+"Five centimeters deep for the tomatoes, Mr. Colton," Sarah smiled, settling comfortably into the grass. "Spaced thirty centimeters apart."
+
+"You got it," Wyatt grinned, turning back to the soil.
+
+For the next hour, they worked together in perfect harmony. Sarah directed the layout from the soft grass, tossing the seeds to Wyatt, who carefully measured the depth and covered them with the rich, dark earth.
+
+The pain in Sarah's abdomen eventually faded into a dull, easily ignorable background fatigue. She completely wrote it off as the physical price of their lunar adventure, entirely oblivious to the incredible, biological miracle that was actually causing it.
+
+As Wyatt patted down the final row of dirt, the artificial sky above them began to transition from golden hour to a brilliant, simulated twilight.
+
+They had lost the valley garden, but they had just successfully planted their very first crop inside an indestructible mountain.
+

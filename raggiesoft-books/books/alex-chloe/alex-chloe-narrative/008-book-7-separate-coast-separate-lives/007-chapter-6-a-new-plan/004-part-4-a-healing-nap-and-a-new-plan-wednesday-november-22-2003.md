@@ -1,0 +1,44 @@
+# Part 4: A Healing Nap and a New Plan (Wednesday, November 22, 2003)
+
+After the simple but deeply nourishing meal, a profound weariness settled over Alex. The adrenaline that had fueled his desperate call from Kent had finally given way to the bone-deep exhaustion of days of stress, fear, and physical neglect. His eyelids felt impossibly heavy.
+
+Chloé, ever attuned to him, noticed his drooping posture. "*Alex, mon ami,*" she said gently in Québécois French, "*tu as l'air sur le point de t'endormir sur ta chaise. Que dirais-tu de cette sieste dont on a parlé?*" (Alex, my friend, you look like you're about to fall asleep in your chair. How about that nap we talked about?)
+
+Alex managed a small, grateful nod. The thought of real sleep, in a safe place, beside Chloé, felt like the most profound luxury.
+
+With the same gentle efficiency she’d shown during his bath, Chloé helped Alex prepare for rest. She ensured he was comfortable in her softest pajamas, checked the antiseptic cream on his healing pressure sores, and then, without a word needed, pulled back the covers on her king-sized bed. This was a return to normalcy for them, to the platonic comfort and security they had shared countless nights throughout high school. Alex transferred from his chair, and Chloé slid in beside him, her presence an immediate balm to his frayed spirit.
+
+As they settled in, Chloé glanced at her bedside clock. It was just past noon in Lynnwood. A sudden realization dawned, and a small, relieved laugh escaped her. "*C'est vrai! C'est la veille de Thanksgiving! La bibliothèque a fermé à midi pour le congé. J'avais complètement oublié avec tout ce qui s'est passé.*" (That's right! It's the day before Thanksgiving! The library closed at noon for the holiday break. I completely forgot with everything that's happened.) The universe, it seemed, was telling them they both desperately needed this rest. Within minutes, both eighteen-year-olds were deeply, blessedly asleep.
+
+Several hours later, as the late afternoon sun began to cast long shadows into Chloé’s Lynnwood apartment, they stirred. The nap had been deep, restorative, a true healing balm for Alex’s exhausted body and mind. He woke feeling groggy, but the sharp edges of his earlier terror had softened, replaced by a quiet sense of security. Chloé was still beside him, her hair fanned out on the pillow, her face peaceful in sleep.
+
+After waking, Chloé knew it was time for the important follow-up conversation with their parents. Now that the immediate crisis had passed and everyone had had a chance to process the initial shock, they needed to make a real plan.
+
+The second video call to James and Emily Miller and Thomas and Sophie Mason in Virginia was calmer than the first, though still charged with emotion. All four parents looked tired but resolute, their faces a united front of love and concern. The entire conversation took place in their now-shared language of support, Québécois French, a deliberate choice to keep Alex in a space of linguistic safety.
+
+"*Comment va-t-il, Chloé?*" Emily asked immediately. (How is he, Chloé?)
+
+"*Il va mieux,*" Chloé said, her voice soft but steady. "*Il a mangé, et nous avons tous les deux fait une longue sieste. Il est épuisé, mais il est en sécurité.*" (He's better. He ate, and we both just had a long nap. He's exhausted, but he's safe.)
+
+James Miller’s face was grim. "Nous avons discuté, les enfants. Et après ce que tu as vécu, Alex... nous pensons qu'il est préférable que vous rentriez tous les deux à la maison. Le plus tôt possible. Tu dois être ici, où nous pouvons t'aider, dans ta propre maison familière sur Lisa Court." (We've been talking, kids. And after what you've been through, Alex... we think it's for the best that you both come home. As soon as possible. You need to be here, where we can help, in your own familiar home on Lisa Court.)
+
+Alex, listening, felt a wave of profound relief. He didn't want to be in Lynnwood. He wanted to be home.
+
+"*C'est... en fait ce dont je voulais vous parler,*" Chloé said, taking a deep breath. She looked at Alex, a small, hopeful smile on her face. "*J'ai quelque chose à vous montrer.*" (That's... actually what I wanted to talk to you all about. I have something to show you.)
+
+She shared her screen. A moment later, a familiar webpage appeared: the official registration portal for the Community College of Hampton Roads. And on the screen was her official class schedule for the Spring 2004 semester.
+
+A stunned silence came from the other end of the call. "*Chloé... qu'est-ce que c'est?*" Thomas Mason finally asked, his voice full of a dawning understanding. (Chloé... what is this?)
+
+"C'est mon nouveau plan," she said, her voice full of a quiet, fierce conviction. "Je l'ai fait il y a quelques semaines, avant... avant que tout cela n'arrive. Mon école de rêve n'est pas un lieu, Alex. C'est toi. Je rentrais déjà à la maison." She pointed to the screen. "J'ai déjà été acceptée. Je me suis déjà inscrite. J'allais te le dire, Alex, comme surprise pour Noël. Le plan a toujours été de rentrer à la maison." (It's my new plan. I made it a few weeks ago, before... before any of this happened. My dream school isn't a place, Alex. It's you. I was already coming home. I've already been accepted. I've already registered. I was going to tell you, Alex, as a surprise for Christmas. The plan was always to come home.)
+
+Alex stared at the screen, at the tangible, undeniable proof of her love, of her unwavering commitment to him. The tears that came to his eyes now were not of fear, but of a profound, overwhelming gratitude.
+
+On the screen, the four parents looked at each other, a wave of shared, tearful relief passing between them. Their fierce, wonderful, practical Chloé had already been one step ahead of them.
+
+"Eh bien," James said, his voice thick with emotion. "Ça règle la question." He looked at his son, his expression full of love. "Le plus important en ce moment, c'est que tu guérisses, Alex. Et le meilleur endroit pour ça, c'est à la maison, avec ta famille. Toute ta famille." (Well. That settles it then. The most important thing right now is for you to heal, Alex. And the best place for that is at home, with your family. All of your family.)
+
+They came to a quick, unanimous decision. The new plan was a compromise. Chloé would finish her current Fall Quarter at NPU as planned, as her classes and grades were in good standing. The immediate focus was on Alex. The parents would work with his CCHR professors to salvage what they could of his disastrous first semester, leveraging the professors' understanding of the "extraordinary circumstances" to allow him to submit work remotely. And then, for Christmas, the parents would fly to Seattle, help the two of them pack up Chloé's apartment, and they would all fly back to Virginia together.
+
+For the Spring 2004 semester, Alex and Chloé would both be enrolled at the CCHR Virginia Beach campus, their schedules perfectly, intentionally, duplicated. The two-year plan was over. They were going home. Together.
+

@@ -1,0 +1,30 @@
+# Part 4: An Aunt's Welcome and a Modern Warning (Summer 2006)
+
+Chloé navigated the familiar streets of Stanstead, a fond smile on her face, and pulled the large Holt Wayfarer into her aunt and uncle's driveway. The front door of the cheerful house flew open and Geneviève Leclerc rushed out, her face beaming with pure delight.
+
+"*Mes amours! Vous êtes enfin arrivés!*" she cried, enveloping Chloé in a fierce, loving hug the moment she stepped out of the van. (My loves! You've finally arrived!)
+
+Her warm gaze then fell on Alex as Chloé operated the van's lift. Geneviève's eyes widened in amazement as he emerged, not in the manual chair she remembered, but in his sleek, new power chair. "Alex! My goodness, look at you! So handsome!"
+
+Alex smiled, his AAC device voicing a warm greeting in Québécois French. BONJOUR, TANTE GENEVIÈVE. IT IS SO GOOD TO SEE YOU. (Hello, Aunt Geneviève.)
+
+After another round of welcoming hugs, Chloé took Megan's arm, pulling her forward. "*Tante, je te présente Megan, la cousine d'Alex,*" she said, before seamlessly switching to English for Megan's benefit. "Auntie, this is Alex's cousin, Megan. It's her first time in Canada!"
+
+"*Bienvenue, Megan! Welcome!*" Geneviève said, pulling a slightly surprised Megan into a warm, three-cheek-kiss embrace. "We are so happy to finally meet you! Any family of Alex is family of ours, eh?"
+
+They were all ushered into the familiar, cozy kitchen. As Geneviève poured them glasses of lemonade, she asked about their crossing.
+
+"It was smooth," Chloé said. "The officer was very nice. We told him we were here for the week to visit."
+
+Geneviève nodded, her expression becoming a little more serious. She looked at the three of them, her tone a mix of love and caution, speaking in English so Megan would understand. "Good. That's fine. But, there's just one little thing, my loves," she began. "You must remember, it is not like the old days. When you tell the officer at the border you are here for the week, they take that very seriously now. You cannot just... pop over to Derby Line for a snack like we used to do."
+
+She sighed, a sound of fond resignation for a world that was gone. "If you cross back to America, even for five minutes, you have ended your official 'visit' to Canada. To come back again, you would have to go through the whole process, all the questions, all over again. It's a big headache. No more 'one town' feeling, eh?"
+
+Chloé nodded, a flicker of sadness in her eyes. "I know, Tante. We're prepared."
+
+Alex, who had been listening intently, typed a response. I REMEMBER, his synthesized voice said, a note of melancholy in the tone. IT IS A SHAME. I LIKED THE 'ONE TOWN'.
+
+"*Moi aussi, mon cher. Moi aussi,*" Geneviève said, patting his hand. (Me too, my dear. Me too.) She then brightened, shaking off the somber mood. "*Mais!* You are here now, for a whole week! We will have a wonderful time. Now, tell me everything!"
+
+The new reality was set. Their visit, unlike the fluid, borderless adventure of their youth, would be confined to one country. But within that country, a week of new memories with family awaited them.
+

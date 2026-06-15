@@ -1,0 +1,26 @@
+# Part 1: The Judge's Order
+
+On Friday, September 17th, 2004, the air in the Virginia Beach Circuit Court was cool and sterile, a stark contrast to the warm, joyful anticipation that had filled the house on Daniel Maloney Drive for weeks. Olivia **Marie** Walker sat on a polished wooden bench, her hands clasped tightly in her lap. Beside her, Stella Porter was a quiet, solid presence, her shoulder occasionally brushing against Olivia’s in a silent gesture of support.
+
+This legal step, a simple petition for a name change, was entirely Olivia’s idea. It was a private, deliberate act to legally bind herself to the man she loved in the only way the law would allow. While the world would celebrate their union tomorrow, today was about the formal, legal declaration. It was her way of simulating a marriage, of taking his name and making it her own with the full weight and authority of the court.
+
+Her heart hammered against her ribs, a nervous but happy rhythm. This felt more real, in some ways, than picking out the flowers or the food. This was a permanent, public record. This was forever.
+
+"All rise," a bailiff's voice commanded.
+
+They stood as the judge entered. A few moments later, Olivia’s case was called. She walked to the petitioner's table, Stella taking a seat in the front row directly behind her.
+
+The judge, a woman with a kind but no-nonsense expression, looked down at the paperwork before her. "In the matter of the petition of Olivia **Marie** Walker," she began, her voice clear and official. She looked directly at Olivia. "Ma'am, you have petitioned this court to legally change your name to Olivia Walker Porter. Is that correct?"
+
+Olivia took a deep, steadying breath. "Yes, Your Honor," she said, her voice clear and unwavering.
+
+"And you understand that upon the signing of this order, your former name will no longer have any legal standing, and Olivia Walker Porter will be your true and legal name for all intents and purposes?"
+
+"I do, Your Honor," Olivia said, a small, genuine smile gracing her lips. "I understand completely."
+
+The judge looked at the petition one last time, then picked up her pen and signed the document with a decisive flourish. She stamped it with the court's official seal.
+
+"So ordered," the judge declared, looking at Olivia with a hint of a smile herself. "Congratulations, Ms. Walker Porter. You may now be known by your new name."
+
+It was done. With the stroke of a pen and the thud of a stamp, she was legally bound to him. Tomorrow, at a ceremony filled with love and family, Olivia Walker Porter would be introduced to the world for the very first time, ready to stand beside her *mon chum* and declare their lifelong commitment.
+

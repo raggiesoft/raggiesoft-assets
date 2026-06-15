@@ -1,0 +1,30 @@
+# Part 5: A Fragile Promise
+
+When they emerged from the family restroom, Stella and Luna were waiting. They took one look at Leo's exhausted, tear-stained face and Olivia's own grim, red-eyed expression and knew instantly what had happened. The happy, adventurous energy of the morning had evaporated, replaced by a heavy, fragile silence. Stella immediately guided them to a quiet, out-of-the-way bench in one of the museum's less-trafficked corridors.
+
+Stella finally broke the silence, her voice gentle. "It's about Seattle, isn't it?" she asked, her question directed at both Leo and Olivia, though she already knew the answer.
+
+Leo gave a small, miserable nod, not looking up from where his head rested on Olivia's shoulder.
+
+Olivia's voice was thick with a guilt she couldn't hide. "He's been masking it all day, Stel. Pretending to have a good time. I think... I think it just got to be too much."
+
+Stella's heart ached for both of them. She saw the pain in her brother's eyes and the profound doubt and sadness in Olivia's. She was the guardian, the planner. She had to find a solution, a lifeline for them to hold onto.
+
+"Okay," she said, her voice gaining a familiar, practical strength. "Okay. We can't change the plan, not really. But we can make the distance feel smaller." She looked directly at Olivia, then at Leo. "Here's the new rule. You two are going to call each other. Every single day, if you need to. For as long as you want. I don't care if it's for five minutes or five hours. This is not a request; it's an order from the guardian. Understood?"
+
+It was a practical, tangible promise. A lifeline. It wouldn't erase the pain of the physical separation, but it was a guarantee that their connection would not be broken by something as trivial as money. Leo looked up, a tiny, fragile spark of hope in his eyes. He reached out, his hand finding Olivia's.
+
+She squeezed it tightly, managing a small, grateful smile for Stella. "Understood."
+
+"Okay," she said, her voice soft but decisive. "New plan. We can skip the Natural History museum. We can just head back to the hotel for the day."
+
+Leo, looking pale and exhausted but also resolute, shook his head. He had given in to his grief, and now he was determined to fight back, to salvage what precious time they had left. He picked up his Quantum Communicator.
+
+"I'M OKAY. I WANT TO GO. TO NATURAL HISTORY MUSEUM. PLEASE. NEED TO KEEP BUSY."
+
+Stella, Luna, and Olivia exchanged a look of profound, aching love for him. Even in his pain, he was trying so hard.
+
+"Okay, buddy," Stella said, her voice thick with emotion. "If you want to go, we'll go." She knew a distraction was what he needed. But she also knew a distraction wasn't a solution. She looked at Olivia, seeing the same heartbroken doubt reflected in her eyes.
+
+The fortress couldn't stop the goodbye from happening, but they had just built the bridge that would span the distance. With a renewed, albeit fragile, sense of purpose, they all put on their raincoats and headed back out into the gray, rainy afternoon, a fortress united on its next mission to cross the National Mall.
+

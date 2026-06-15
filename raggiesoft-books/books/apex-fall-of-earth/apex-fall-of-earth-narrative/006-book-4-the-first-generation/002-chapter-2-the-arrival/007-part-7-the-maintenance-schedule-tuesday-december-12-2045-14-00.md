@@ -1,0 +1,68 @@
+# Part 7: The Maintenance Schedule – Tuesday, December 12, 2045 – 14:00
+
+Exactly one week after the chaotic delivery, the automated medical bay on Sub-Level 1 had settled into a grueling, relentless rhythm.
+
+For Wyatt Colton, the survival of the triplets wasn't just a medical miracle; it was a high-stakes, zero-tolerance maintenance schedule. At thirty-two weeks corrected gestational age, Ellie, Nora, and Leo were entirely dependent on the life-support architecture of their incubators, and Wyatt approached their care with the exact same uncompromising precision he used to maintain the dreadnought's fusion reactors.
+
+The biological clock reset every three hours.
+
+Wyatt stood in front of Bassinet 1, his heavy, scarred arms shoved shoulder-deep through the circular access ports of the transparent plastic enclosure. He was hunched over, his massive frame dwarfing the delicate medical machinery.
+
+Inside the box, Ellie was currently expressing her absolute, indignant rage at being handled. Her face was flushed dark pink beneath her tiny CPAP mask, her legs kicking erratically.
+
+"I know, I know, it's cold," Wyatt murmured, his deep voice keeping a steady, calming cadence as his thick, calloused fingers moved with the delicate precision of a man defusing a live explosive.
+
+He was changing her diaper. Aria’s molecular printers had synthesized a massive stockpile of specialized, highly absorbent micro-diapers, but managing them on an infant that weighed barely fifteen hundred grams was a logistical nightmare. Wyatt gently lifted Ellie’s tiny legs with two fingers, slipping the soiled diaper out and sliding a fresh, sterile one beneath her. He secured the micro-velcro tabs, making absolutely sure the edges didn't pinch her incredibly fragile, translucent skin.
+
+He pulled his arms out of the ports, dropping the soiled diaper into the automated reclamation chute built into the wall.
+
+"One down," Wyatt sighed, rolling his stool over to Bassinet 2.
+
+Nora didn't fight him the way her sister did. As Wyatt reached his hands through her access ports, she just let out her continuous, thin, reedy whimper, her body tense and unsettled. Wyatt changed her as quickly and gently as possible, his heart aching at her constant distress.
+
+He moved to Bassinet 3. Leo lay perfectly rigid, staring blankly at the ceiling of his enclosure, entirely silent. Changing him required immense care, as any sudden movement caused his tiny, underdeveloped muscles to spasm.
+
+Once the hygiene cycle was complete, the feeding protocol immediately commenced.
+
+"Aria, what are our tolerances for the fourteen-hundred-hour cycle?" Wyatt asked, turning his attention to the sleek medical synthesizer integrated into the wall.
+
+"Sarah's pumping output remains optimal," Aria’s synthesized voice reported smoothly. "I have fortified the extracted maternal milk with the necessary calcium, phosphorus, and lipid complexes required for their accelerated bone density development. The dosage is exactly fifteen milliliters per subject."
+
+Because they were nine weeks premature, the triplets lacked the neurological coordination to suck, swallow, and breathe simultaneously. They couldn't take a bottle, and they couldn't nurse.
+
+Wyatt picked up three small, sterile syringes filled with the pale, nutrient-dense milk.
+
+Sarah was sitting a few feet away in her brushed-aluminum wheelchair, a thermal blanket draped over her lap. Her color was vastly improved, and the grueling physical recovery was progressing, but her role in this specific cycle was entirely supply-chain logistics. She watched her husband with a mixture of profound exhaustion and absolute adoration.
+
+Wyatt stepped back up to Ellie’s incubator. He reached through the ports, connecting the tip of the first syringe to the tiny enteral feeding tube that bypassed her nose and ran directly down into her stomach.
+
+"Alright, Ellie. Fueling sequence initiated," Wyatt whispered.
+
+He didn't push the plunger. He let gravity do the work, holding the syringe completely still as the fifteen milliliters of fortified milk slowly dripped down the tube. It took exactly ten minutes per infant. Ten minutes of standing perfectly still, his massive arms suspended in the access ports, watching the digital telemetry monitors track their digestion.
+
+He repeated the entire agonizingly slow process for Nora, and then for Leo.
+
+By the time the last drop of milk entered Leo’s stomach, a full hour had passed. Wyatt withdrew his arms, the muscles in his back burning from the hunched posture.
+
+He walked over to a nearby sanitization basin, thoroughly washing his hands before turning to look at the three incubators.
+
+They were clean. They were perfectly fed. The ambient temperature in their boxes was a flawless thirty-six and a half degrees Celsius. According to every biological and mechanical metric Aria possessed, they should have been slipping into a deep, contented, milk-drunk sleep.
+
+Instead, Ellie was thrashing against her swaddle. Nora was whimpering. And Leo was locked in a rigid, silent panic.
+
+Wyatt dragged a heavy hand down his face, completely baffled.
+
+"They won't settle," Wyatt grunted, looking over at Sarah. "The telemetry says their GI tracts are processing the milk perfectly. There's no reflux. The diapers are clean. Why are they so agitated?"
+
+Sarah wheeled her chair closer, resting her hand on his forearm. She looked at the three restless babies, her maternal instincts searching for a logical answer.
+
+"They're preemies, Wyatt," Sarah said softly, her voice laced with tired sympathy. "Their nervous systems are just incredibly raw. Every light, every sound, even the digestion of the milk... it's all just overwhelming for them. They just need time to adjust."
+
+Wyatt nodded slowly, his dark eyes fixed on the three distinct, isolated plastic boxes. Her logic was sound. It was the only explanation that made sense.
+
+"Three hours," Wyatt muttered, looking up at the digital clock on the wall. "The cycle starts again at seventeen-hundred hours. You should try to sleep, Sarah. I'll take the first watch."
+
+Sarah didn't argue. She let Wyatt seamlessly transfer her from the wheelchair back onto the bio-bed.
+
+Wyatt pulled his stool back to the center of the room. He sat down, crossing his heavy arms over his chest as he prepared to spend the next three hours watching his beautiful, perfectly engineered, and utterly miserable children, entirely unaware of the simple, physical contact they were actually desperate for.
+

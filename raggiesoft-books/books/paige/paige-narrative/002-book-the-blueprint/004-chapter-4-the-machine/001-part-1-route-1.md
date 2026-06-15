@@ -1,0 +1,82 @@
+# Part 1: Route 1
+
+## Saturday, October 26, 2002 06:45 AM
+
+"Rise and shine, recruits. Boots on the ground in twenty."
+
+Jessica’s voice cut through the morning silence of the apartment like a whistle. She was already dressed in her maroon "Forger" sweatshirt and jeans, standing in the kitchenette with the efficiency of a shift commander.
+
+Freddie groaned, untangling his legs from the sheets of the pull-out sofa. Beside him, Paige blinked against the light, shielding her eyes.
+
+"Breakfast is light," Jessica announced, setting three bowls on the small laminate counter. She shook a box of generic "Honey Oat Rings" into them and splashed milk from a jug. "There's a continental spread at the Open House—bagels, fruit, bad coffee—so don't fill up. This is just fuel to get us to the launch pad."
+
+Freddie sat up, rubbing his face. The anxiety hit him instantly—a low-level hum in his chest. *Open House. Crowds. Evaluation.*
+
+" Eat," Jessica commanded, handing him a spoon. "We catch the bus at 07:15."
+
+"Bus?" Paige asked, yawning. "Why don't we drive? You have a car."
+
+"Driving onto campus is a tactical error," Jessica said, crunching a spoonful of oats. "I don't have a parking permit. Even though they lift restrictions for the Open House, the lots will be a zoo. Parents fighting for spaces, circling like sharks. We don't do that. We take the system."
+
+She pulled her wallet out of her bag.
+
+"We're taking **Blue Ridge Transit**," she explained. "It's the local municipal system. I have a CPI ID, so I ride for free. You two are civilians, so you pay the standard fare: one dollar each."
+
+She placed two crisp one-dollar bills on the counter.
+
+"We're catching the **Number 1**," Jessica continued. "It runs along Business 460. On a weekday, that bus is a sardine can—students packed in so tight you can’t move your arms. It’s what we call 'crush load.' But it's Saturday morning, so it'll just be 'crowded.' We should be able to get seats."
+
+Freddie ate his cereal mechanically, processing the data. *Bus. Number 1. One dollar. 07:15.*
+
+"Okay," Freddie said. "I am ready."
+
+## 07:10 AM
+
+They stepped out of the apartment building into the crisp mountain air. It was cold—much colder than Virginia Beach—and the sky was a piercing, cloudless blue.
+
+"One block," Jessica said, pulling her hood up. "Target is Pepper Plaza."
+
+They walked down the quiet street toward the center of town. Pepper Plaza was a concrete island located right next to the historic Montgomery County Courthouse. It served as a transfer hub for the area.
+
+A small crowd was already waiting—mostly students heading to the library for weekend study sessions and a few locals with grocery bags.
+
+Then, they heard it. The deep, diesel rumble of a heavy engine.
+
+"Inbound," Jessica said.
+
+The bus turned the corner. It was white with maroon and orange stripes, emblazoned with the logo **Blue Ridge Transit**. The LED destination sign above the windshield glowed amber: **1 CPI**.
+
+"It's on time," Freddie noted, checking his watch. "Precision."
+
+"It runs every fifteen minutes on the weekdays," Jessica said. "It's the heartbeat of the town."
+
+The bus hissed to a halt in front of them. The doors folded open.
+
+"Money out," Jessica instructed.
+
+She climbed the steps first, flashing her student ID at the driver. The driver nodded. Paige followed, feeding her dollar bill into the farebox. Freddie went last, carefully inserting his bill and listening to the machine accept it with a *whir-click*.
+
+The interior of the bus smelled of vinyl seats and floor cleaner. It wasn't empty, but Jessica was right—it wasn't "crush loaded." There were empty seats near the back.
+
+"Take the window," Paige told Freddie, sliding into the row behind the rear exit door.
+
+Freddie sat down. The engine roared as the bus pulled away from Pepper Plaza, merging onto North Franklin Street.
+
+"Next stop," the automated voice announced, "Business 460."
+
+The ride was smooth. They rolled out of downtown Christiansburg and onto the four-lane highway that connected the two towns. Freddie watched the world go by—strip malls, car dealerships, and the rolling hills of the valley.
+
+"Thirty minutes," Jessica said, leaning forward from the seat behind them. "We'll get off across the street from Newman Hall, which is hosting the open house."
+
+Freddie pressed his forehead against the cold glass. The bus was a contained environment. The rules were posted on the wall. The stops were announced. The fare was fixed.
+
+"I like the bus," Freddie whispered to Paige. "It makes sense."
+
+"It does," Paige agreed, squeezing his hand.
+
+The automated voice chimed again.
+
+"Route 1 to Commonwealth Polytechnical Institute Transit Center," it droned.
+
+Ahead of them, the stone towers of the university rose up against the mountains. The Machine was waiting.
+

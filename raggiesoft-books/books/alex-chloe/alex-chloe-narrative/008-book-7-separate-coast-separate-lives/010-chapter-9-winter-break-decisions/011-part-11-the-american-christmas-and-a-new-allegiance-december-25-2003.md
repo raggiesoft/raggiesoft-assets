@@ -1,0 +1,30 @@
+# Part 11: The American Christmas and a New Allegiance (December 25, 2003)
+
+On Christmas Day, the center of the holiday universe shifted across the lawn to the Miller household. The atmosphere was different from the boisterous Réveillon—quieter, more relaxed, scented with the slow-roasting aroma of a large turkey. The families gathered in the living room, watching a classic holiday movie while James Miller, in his element, carved the bird.
+
+They all sat down to a quintessential American Christmas dinner: roast turkey with stuffing, cranberry sauce, mashed potatoes, and Emily's green bean casserole making a triumphant return. For Alex, a special plate had been prepared: simple, unseasoned slices of tender turkey breast and a small portion of plain, mashed potatoes, a meal designed to be gentle on a body still healing. The conversation was warm and full of reflections on the wonderful, blended holiday.
+
+As James passed a platter of turkey down the table to a still-slightly-grumpy Uncle David, a proud, satisfied smirk spread across his face.
+
+"You know, David," James said, his tone dripping with good-natured triumph, "I have to say, this turkey tastes an awful lot like victory. A Boston Brawlers victory, to be specific. Funny how that works, eh?"
+
+A collective, theatrical groan went up from the Canadian side of the table. "*Ah, non, pas encore!*" Geneviève lamented, shaking her head. (Oh no, not again!)
+
+Chloé rolled her eyes, but she was smiling. "Don't encourage him, Mr. Miller. They're still in mourning over here."
+
+Alex, who had watched the previous night's game with the detached curiosity of a neutral observer, had been thinking. He had seen the raw passion the game ignited in Chloé and her family. For the first time in his life, he was curious. He turned to his dad and typed a question on his AAC.
+
+DAD, WERE THE BRAWLERS SUPPOSED TO WIN? ARE THEY A GOOD TEAM?
+
+James Miller's face lit up. It was the opening he'd been waiting for his entire life as a father and a fan. Before he could even launch into his speech, Megan jumped in from across the table, her own eyes alight with the passion of a true Boston fan.
+
+"Supposed to win?" Megan exclaimed. "Alex, they're one of the 'Original Six' teams. They're legends."
+
+"She's right, son," James said, taking over. "They're tough, they're gritty... they don't play that fancy, flashy game like some other teams," he said, pointedly not looking at Thomas or David. "They play hard-nosed, working-man's hockey. That's our team. The team of New England."
+
+"It's about the system," Megan added, leaning forward with an educator's intensity. "It's not about one superstar trying to do it all himself. It's about five guys on the ice working as a single, disciplined unit. They grind it out in the corners. They block shots. They win with teamwork and pure grit, not just flashy goals."
+
+Alex listened, completely captivated. He wasn't just hearing about a sports team; he was hearing about a philosophy. While the Voyageurs were a team of passionate, emotional artists, the Brawlers sounded like grinders, underdogs, strategists. It appealed to his own quiet, determined, and logical nature.
+
+Chloé watched this exchange, a look of dawning, horrified amusement on her face. In her passionate defense of her own team the night before, she had inadvertently opened a door. Now, Alex wasn't just learning about hockey; he was being systematically indoctrinated by the opposition, a two-front assault from his father and his favorite cousin. A small, almost imperceptible line was being drawn, not between them, but between their future allegiances. She had wanted to share her love of the game with him, and in doing so, she realized she may have just accidentally created her own, personal, lifelong rival.
+

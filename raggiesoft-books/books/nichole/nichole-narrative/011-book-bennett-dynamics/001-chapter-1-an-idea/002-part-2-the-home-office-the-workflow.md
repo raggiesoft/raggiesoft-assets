@@ -1,0 +1,46 @@
+# Part 2: The Home Office (The Workflow)
+
+## Date: March 2009 (Six Months Later) Context: The "Golden Era" of Unit 404.
+
+While the outside world was panicking about the stock market, Unit 404 was a hum of productivity.
+
+They had found their niche. It wasn't high-volume corporate work. It was Boutique Accessibility Engineering.
+
+The Client: A small medical startup in Boston needed a user manual for a new insulin pump. Their engineers spoke Math. Their users spoke English. They needed a translator.
+
+The Bennett Process:
+
+10:00 AM: Patrick sat with the prototype pump. He dismantled it. He tested the buttons. He found a flaw in the battery door latch.
+
+- *Patrick's Output:* An Engineering Change Order sent back to the client. "Fix the latch, or the user will break it."
+
+11:00 AM: Nichole read Patrick’s notes. She looked at the confusing technical jargon the client had sent.
+
+- *Nichole's Output:* She rewrote "Depress Actuator B until audible feedback is received" to "Press the Blue Button until it clicks."
+
+12:30 PM: Lunch. Patrick cooked. They ate on the balcony if the weather was nice, or on the couch watching "Lab Test". No rush. No 30-minute break.
+
+2:00 PM: Deep Work. The apartment was silent except for the clicking of keyboards and the hum of the server.
+
+- Nichole was in "The Zone," creating clean, accessible PDFs.
+
+- Patrick was coding a custom website for a local non-profit.
+
+4:30 PM: Quitting Time. There was no commute. Patrick simply stood up, stretched, and said, "Shop's closed."
+
+He walked over to Nichole. He checked her posture. He checked the BHI wristband he still wore every day.
+
+"How are we doing?"
+
+Nichole typed.
+
+GOOD DAY WE MADE \$500
+
+"And nobody told us what to do," Patrick added.
+
+He knelt down and kissed her forehead.
+
+"Video games?"
+
+VIDEO GAMES
+

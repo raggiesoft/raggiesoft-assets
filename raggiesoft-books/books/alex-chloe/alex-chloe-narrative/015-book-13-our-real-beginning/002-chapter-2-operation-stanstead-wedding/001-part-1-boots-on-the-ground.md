@@ -1,0 +1,38 @@
+# Part 1: Boots on the Ground
+
+The week following their joyful announcement was a whirlwind of happy, chaotic, and completely overwhelming preliminary planning. The first official "Wedding Summit" took place on a Saturday morning, a massive, multi-window video call connecting the Lynnwood apartment to the Miller and Carter households in Virginia and the Leclerc kitchen in Stanstead.
+
+The energy was beautiful, but the logistics were a nightmare.
+
+"I found a place online called the 'Auberge du Lac,'" Emily Miller said excitedly from her living room, holding a printed photo up to her webcam. "It looks gorgeous, right on the water!"
+
+"*Oui, c'est très beau,*" Aunt Geneviève's voice came from the Stanstead window, her tone a little hesitant. "But the main hall has three steps down to the dance floor, and the bathrooms are tiny. It is not possible for Alex." (Yes, it's very beautiful.)
+
+"What about that lovely events hall in Magog?" Sophie chimed in.
+
+"The old one? The one with the beautiful view?" Uncle David's voice boomed. "*Absolument pas!* Their ramp is so steep, you would need a tow truck to get Alex up it!" (Absolutely not!)
+
+For an hour, the conversation spun in circles. The American contingent, full of love and enthusiasm, would suggest beautiful-looking venues they had found online, completely unaware of the practical, on-the-ground accessibility issues. The Canadian contingent, equally loving, struggled to grasp the specific, non-negotiable needs of Alex's power chair from three thousand miles away.
+
+Finally, Geneviève Leclerc, a woman of action and a master of cutting through chaos, held up her hands, a gesture that commanded silence across all four screens.
+
+"*Bon, c'est assez,*" she declared, her voice a calm, authoritative force. "This is not working. We cannot plan a wedding from a computer screen. We need boots on the ground. *My* boots." (Okay, that's enough!)
+
+A profound sense of relief settled over the call. General Geneviève was taking command.
+
+"Here is the plan," she continued, her focus absolute. "Alex, you will send me the exact dimensions of your new chair—the width, the length, the turning radius. Chloé, you will send me a list of everything we need: a flat entrance, no stairs to the main hall, a large, fully accessible bathroom. No compromises."
+
+She looked at them all, her expression one of loving, no-nonsense determination. "I will be the advance team. David and I will personally visit the top three venues we have discussed. I will bring my measuring tape. I will take pictures of every ramp, every doorway, every bathroom. I will be your eyes and ears."
+
+The chaotic, overwhelming task of finding a venue suddenly felt manageable, possible.
+
+"Thank you, Tante Geneviève," Chloé said, her voice full of a deep, profound gratitude. "That is... perfect."
+
+The call ended not with a jumble of conflicting ideas, but with a clear, actionable mission. "Team USA," consisting of the Millers and the Carters, was now in charge of the American guest list and coordinating travel. "Team Canada," led by the formidable Geneviève Leclerc, was in charge of securing the perfect, accessible battleground for the big day.
+
+After the call ended, Alex, Chloé, and Megan sat in the quiet of their office for a long moment.
+
+YOUR AUNT, Alex's device finally voiced, a note of profound, almost terrified respect in its tone, IS A FORCE OF NATURE.
+
+Chloé and Megan looked at each other and burst into a shared, happy laugh. "You have no idea," Chloé said, a grin on her face. "Operation: Stanstead Wedding is officially underway.
+

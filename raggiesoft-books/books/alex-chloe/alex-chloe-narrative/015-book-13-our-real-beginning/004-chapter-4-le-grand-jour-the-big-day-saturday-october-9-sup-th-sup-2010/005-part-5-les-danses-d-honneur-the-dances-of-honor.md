@@ -1,0 +1,46 @@
+# Part 5: Les Danses d'Honneur (The Dances of Honor)
+
+After the profound, emotional high point of their first dance, Alex and Chloé remained on the floor, hand in hand, as the Master of Ceremonies stepped back up to the microphone.
+
+"What a beautiful moment," he said, his voice warm and full of genuine emotion. He then continued, first in French. "*Et maintenant, une autre belle tradition. La mariée aimerait partager une danse spéciale avec son père.*" He then switched seamlessly to English. "And now, for another lovely tradition. The bride would like to share a special dance with her father."
+
+Chloé and her father, Thomas Mason, took the floor. It was a classic, beautiful, and slightly tearful father-daughter dance. For Thomas, this was a moment of profound pride, seeing the strong, loving, and incredible woman his daughter had become. For Chloé, it was a moment to honor the man who had supported her decision to build a life on her own terms.
+
+As their song ended, the MC spoke again. "*Maintenant, le marié aimerait partager une danse spéciale avec sa mère.* And now, the groom would like to share a special dance with his mother."
+
+Alex, still standing in his "Quantum Glide" power chair, turned to his mother, Emily Miller. She stepped onto the dance floor, her face a mask of pure, unadulterated joy and love. This was another "first." For his entire life, she had been his caregiver and his rock. Now, for the first time, he could dance with her, standing, eye to eye. He guided them in a slow, graceful circle, his hand resting on her back, while she held him close. There wasn't a dry eye in the house.
+
+When their song concluded, and before the MC could open the floor, Chloé stepped forward and took the microphone from his hand, a look of profound, heartfelt purpose on her face. A quiet, expectant hush fell over the room.
+
+She turned first to the assembled guests, her voice clear and steady. "Before we all start dancing," she began, switching seamlessly between French and English, "there is one more dance that needs to happen. It is, for me, the most important dance of the night."
+
+She then turned her gaze to Megan, her expression one of deep, unwavering, and sisterly love. "Megan," she said, her voice now thick with emotion. "Seven years ago, when I was three thousand miles away and couldn't help him, you were the one who answered the call. You were his protector. You were his lifeline. You were the one who kept his light from going out long enough for me to get to him."
+
+Tears were now streaming freely down Chloé's face. "You didn't just save my best friend," she said, her voice a raw, grateful whisper. "You saved my husband. You saved my entire world. There is no 'us' without you. And there is no way I can ever thank you enough for that."
+
+She then turned to Alex, who was watching her, his own eyes shining with tears. She took his hand, squeezed it, and then, in the most profound and selfless gesture of the entire day, she gently placed his hand in Megan's.
+
+"This dance," Chloé said to them both, her voice full of a love that was completely devoid of jealousy, "is from me. Thank you for saving him for me, Megan."
+
+With that, she stepped back, leaving the two cousins alone in the center of the dance floor. The band began to play a soft, gentle ballad. Alex and Megan, both now openly weeping, came together for their own quiet, special dance. It was a sacred, tearful "thank you" between a man and his first friend, his guardian, his staunchest ally, all given with the full, loving blessing of his wife.
+
+As they swayed gently, the full, profound weight of the last seven years crashed down on Alex. It wasn't just a memory; it was a sudden, terrifying, and crystal-clear realization of just how close to dying he had been in Vera's care. He understood, with a certainty that stole his breath, that Megan's interventions—the late-night rescue from Portsmouth, the healing weekend at VDU—hadn't just been acts of kindness. They had been the first, crucial cracks in the prison that had been built around him. They were the moments that had given him the strength to hold on long enough for Chloé to make the final rescue.
+
+The realization was too much. His entire system, already overloaded with the joy of the day, was completely overwhelmed by this new wave of gratitude and retroactive terror. A violent, uncontrollable tremor wracked his body. The music, the lights, the faces of his family—it all dissolved into a roaring, terrifying static. He was having a massive autistic meltdown.
+
+Megan felt the shift instantly, the sudden rigidity in his arms, the shudder that went through his entire frame. Her expression of tearful joy immediately transformed into one of calm, focused concern. Across the room, Chloé saw it too, and she was moving before anyone else even knew something was wrong.
+
+They met him in the center of the dance floor, a perfect, practiced two-person team. The music faltered as the bandleader saw what was happening. A confused, worried murmur went through the crowd.
+
+Chloé and Megan didn't panic. They flanked him, their hands a firm, grounding pressure on his shoulders. "*On t'a, mon amour. On est là,*" Chloé whispered in his ear. (We've got you, my love. We're here.)
+
+"It's okay, cuz," Megan murmured on his other side. "It's just too much. We're getting you somewhere quiet."
+
+They gently guided his power chair, which he was no longer consciously controlling, off the dance floor and towards the small, pre-planned "safe room" they had established with the venue manager. The MC, seeing the situation, wisely stepped up to the microphone, his voice a calm, reassuring presence.
+
+"Mesdames et messieurs, nous allons prendre une petite pause de quinze minutes. S'il vous plaît, profitez du bar et des conversations," he announced. "Ladies and gentlemen, we're just going to take a short, fifteen-minute intermission. Please, enjoy the bar and the conversation."
+
+Inside the quiet, dimly lit safe room, the door closed, and the overwhelming noise of the reception vanished. Alex let go, his body shaking with a series of silent, overwhelming sobs. It wasn't a meltdown of fear or sadness; it was a meltdown of pure, unadulterated gratitude and the terrifying memory of what he had almost lost.
+
+Chloé and Megan were there, a fortress of unconditional love, one kneeling in front of him, the other sitting beside him, their hands a firm, grounding pressure on his knees and shoulders. They just held him, weathering the storm with him, until the last of the tremors subsided and the roaring in his head finally gave way to the quiet, steady sound of their love.
+

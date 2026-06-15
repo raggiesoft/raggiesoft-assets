@@ -1,0 +1,296 @@
+# Chapter 5: The Demon and the Witch
+
+## Part 1: The Investigation
+
+Theme: sunstead-secrecy
+
+Location: Mrs. Gable’s Bakery
+
+POV: Kaela
+
+=
+
+Three days after the army fled, the spies arrived.
+
+They weren't soldiers. They were men in nondescript grey cloaks, sitting in the corners of *The Drunken Mule*, loitering near the well, and asking dangerous questions.
+
+Kaela stood in the bakery line, holding a basket. She wore a simple linen dress and a headscarf. She looked like a farmer’s daughter.
+
+Ahead of her, a man in a grey cloak was interrogating Mrs. Gable over a tray of cinnamon buns.
+
+"I am looking for the Sorcerers," the spy whispered, leaning in. "The ones they call the Fire Demon and the Gravity Witch. I heard they melted a thousand swords."
+
+Mrs. Gable didn't look up from her dough. She slapped a lump of white flour onto the counter. *Whack.*
+
+"Don't know any demons," she said pleasantly. "We have a blacksmith. He melts metal. Maybe you're confused."
+
+"I am not confused, woman," the spy hissed. "King Roderick said a man walked through fire. A man with golden eyes."
+
+Mrs. Gable laughed. It was a warm, dismissive sound.
+
+"King Roderick had heatstroke," she said. "It gets very hot in the valley this time of year. The air shimmers. Tricks the eyes."
+
+"And the gravity? The horses sinking into the earth?"
+
+"Mud," Mrs. Gable stated firmly. "Terrible mud season. We lost a cow in a sinkhole last Tuesday. It’s a tragic geological condition."
+
+The spy looked frustrated. He grabbed a bun. "So there are no powerful beings living on the ridge? No fortress?"
+
+"On the ridge?" Mrs. Gable pointed a flour-dusted finger toward the window. "You mean Kaelan and Kaela's place? Oh, dear me, no. They grow mint. They have a very nice root cellar. Kaelan fixes fences. Kaela knits."
+
+She looked past the spy and winked at Kaela.
+
+"Isn't that right, dear?"
+
+Kaela stepped forward. She made her eyes wide and innocent. She dampened her aura until she felt as ordinary as a loaf of bread.
+
+"Oh yes," Kaela said softly. "Kaelan is very boring. He spends all day digging holes for potatoes. I've never seen him melt anything except butter."
+
+The spy looked at Kaela. He looked at the basket on her arm. He sneered.
+
+"Peasants," he muttered, throwing a coin on the counter. "Blind, ignorant peasants."
+
+He stormed out of the bakery.
+
+Mrs. Gable waited until the door swung shut. Then she snorted.
+
+"Ignorant," she huffed. "I was doing calculus before he was born."
+
+She slid a paper sack across the counter to Kaela.
+
+"Two cherry tarts. Broken ones. For the 'Demon'."
+
+"Thanks, Martha," Kaela smiled. "He'll appreciate the sacrifice."
+
+## Part 2: The Boring Gardener
+
+Theme: sunstead-humor
+
+Location: The Town Square
+
+POV: Kaelan
+
+=
+
+Kaelan was currently acting very hard at being normal.
+
+He was standing by the town well, helping the Tanner repair a broken axle on a cart. A different spy—this one clutching a small leather journal—was watching him like a hawk.
+
+"Here's the problem," Kaelan said, wiping grease on a rag. "The linchpin snapped."
+
+"Can you fix it?" the Tanner asked loudly, playing his part. "With your... *tools*?"
+
+"With a wrench," Kaelan said dryly.
+
+He pulled a heavy iron wrench from his belt. He didn't use heat. He didn't use telekinesis. He used elbow grease. He grunted, twisting the bolt.
+
+"Ugh. Rusted tight."
+
+The spy scratched with a stick of charcoal in his journal. *Subject struggles with oxidation. Unlikely to be a solar deity.*
+
+"Tell me," the spy called out, stepping closer. "You live on the ridge?"
+
+Kaelan looked up. He kept his eyes squinted against the sun so the gold wasn't visible.
+
+"I do."
+
+"Did you see the battle? The glowing figures?"
+
+Kaelan scratched his head. He looked confused.
+
+"Battle? I heard some noise. Thought it was thunder. I was down in my cellar sorting onions. The acoustics are terrible down there."
+
+"You didn't see the man who caught a sword with his bare hand?"
+
+Kaelan laughed. "Catch a sword? Have you ever held a sword? They're sharp. You'd lose a finger. I value my fingers. I need them for weeding."
+
+He turned back to the axle. He waited until the spy wasn't looking, then gave the bolt a microscopic pulse of thermal expansion to loosen it.
+
+*Click.*
+
+"There we go," Kaelan said, spinning the nut off. "Good as new."
+
+The spy sighed, snapping his journal shut. "Another dead end. This town is full of idiots and farmers."
+
+"We try our best," Kaelan said humbly.
+
+The spy walked away, heading for the tavern.
+
+The Tanner leaned in close. "How was my performance?"
+
+"A little dramatic on the 'tools' line," Kaelan whispered. "But solid. I'll fix your roof next week."
+
+"Deal."
+
+## Part 3: The Rumor Mill
+
+Theme: sunstead-secrecy
+
+Location: The Cottage / The Garden
+
+POV: Kaela
+
+=
+
+The suns set, and the spies retreated to *The Drunken Mule* to drink away their frustration.
+
+Up on the ridge, behind the high stone walls and the bolted oak gate, the Demon and the Witch were having dinner.
+
+They sat on the stone bench by the mint patch. Kaelan was eating a cherry tart. Kaela was shelling peas.
+
+"They're calling you the Gravity Witch," Kaelan noted, licking cherry filling off his thumb. "It has a ring to it."
+
+"And you're the Fire Demon," Kaela countered. "Which is unfair. Demons are usually from the underworld. I'm the one who dragged you out of the core."
+
+"Details," Kaelan waved his hand. "The point is, the town is protecting us. Mrs. Gable looked a Royal Inquisitor in the eye and told him I was boring."
+
+"You *are* boring," Kaela teased. "You spent three hours today organizing the spice rack alphabetically."
+
+"Efficiency is not boring. It is the cornerstone of civilization."
+
+He leaned back against the warm stone wall.
+
+"They won't stop coming, though," he said, his voice turning serious. "Roderick is humiliated. The Church is curious. The 'Demon and Witch' story is going to grow."
+
+"Let it grow," Kaela said. "Let them think we are monsters who live in a fortress of nightmares."
+
+She gestured to their garden—the blooming roses, the steam rising from the tub, the drying laundry flapping gently in the breeze.
+
+"As long as they don't know about *this*," she said. "As long as they don't know we're just two people who like warm baths and cherry pie."
+
+"Mystery is our armor," Kaelan agreed.
+
+He reached out and took her hand.
+
+"If they come back," he said. "If they try to force their way in..."
+
+"Then the Witch will drop them," Kaela promised.
+
+"And the Demon will burn them," Kaelan finished.
+
+"But for now?"
+
+"For now," Kaelan stood up, stretching. "The Demon is going to do the dishes. Because if he doesn't, the Witch will hide his favorite socks."
+
+"You know me so well."
+
+They went inside, locking the door on the legend, leaving the world to whisper about monsters while the monsters argued about whose turn it was to scrub the skillet.
+
+## Part 4: The Guest List
+
+Theme: sunstead-magic
+
+Location: The Cottage
+
+POV: Kaelan
+
+=
+
+The dishes were done. The skillet was scrubbed. The fire in the hearth had died down to glowing embers.
+
+But Kaelan wasn't going to bed yet.
+
+He stood by the front door, staring at the iron latch. It was a good latch, forged by Horg. But against a determined spy with a pry bar, it was just metal.
+
+"The garden is safe," Kaelan murmured. "But the house is soft. I want to sleep, Kaela. I don't want to listen for footsteps."
+
+"You want to trap the door," Kaela said, sitting on the rug by the fire, brushing her hair.
+
+"I do. But a list won't work," Kaelan reasoned, tapping his chin. "Townsfolk have children. New neighbors move in. I can't be updating a scroll every time the Tanner has a nephew visit. We live too long for paperwork."
+
+"Then don't read the names," Kaela said, putting down her brush. "Read the hearts."
+
+She walked over to him. She placed her hand on the wooden doorframe.
+
+"A Ward of Intent," she explained. "It’s a living filter. It doesn't care *who* you are. It cares *why* you are here."
+
+She closed her eyes. A soft, silver light pulsed from her palm, seeping into the grain of the timber and the iron of the lock.
+
+"If a friend comes—Horg, Joren, or even a stranger looking for help with a pure heart—the door feels light. It welcomes them."
+
+"Unless..." Kaelan raised an eyebrow. "Unless we are currently unclad. I don't want the door welcoming Horg while I'm drying off."
+
+Kaela smiled. She wove a second thread into the spell—a thread of awareness connected to their own state of being.
+
+"The Modesty Protocol," she said. "If the door senses a friend, but it also senses that *we* are not ready to receive them, the latch holds. It won't burn them. It will just... gently insist they wait."
+
+"Like a psychic 'Just a Minute'," Kaelan noted.
+
+"Exactly. It will project a feeling of patience. Horg will know to wait on the step until he hears the bolt slide."
+
+"And if we just want to sleep?"
+
+"Then we set the door to 'Privacy'. It tells any visitor—even friends—to come back tomorrow. No knocking required."
+
+"And for the rest?" Kaelan asked, his voice hardening. "The spies? The thieves? The Kings?"
+
+"If the ward tastes malice," Kaela said, her voice dropping an octave, "or greed, or the intent to harm..."
+
+"...then it wakes me up," Kaelan finished.
+
+He placed his hand on the iron handle.
+
+"If the filter detects a Foe," Kaelan whispered, pouring a dormant charge of thermal energy into the iron, "the handle defends itself."
+
+He set the temperature trigger.
+
+"Flash-Sear. Four hundred degrees in a microsecond. They won't lose the hand, but they'll drop the lockpick."
+
+"Now the windows," Kaela said, moving to the shutters.
+
+"Windows are for light," Kaelan said. "And for talking to neighbors."
+
+"If a friend comes to the window," Kaela said, touching the latch, "they can knock. We can open it. We can chat."
+
+"But if a foe tries to force it?"
+
+Kaela clenched her fist.
+
+"Gravity Seal. The moment a hostile hand tries to lift this sash, the window weighs five tons. The Guillotine."
+
+"It slams down," Kaelan nodded. "Pins them to the sill."
+
+"Exactly. They stay there until we decide to let them go."
+
+They moved through the cottage, weaving the twin magics of Intent and Physics into the very structure of their home. The chimney, the back door, even the loose floorboard—everything became intelligent. Everything became a judge of character.
+
+When they were done, the cottage looked exactly the same. A humble home on a ridge.
+
+But to the magical eye, it was a sentient fortress.
+
+"Safe?" Kaela asked, yawning.
+
+"Safe," Kaelan confirmed. "And smart."
+
+He looked at the front door.
+
+"So, if Horg comes tomorrow while we're sleeping?"
+
+"He feels a gentle urge to go have a second breakfast and come back later," Kaela said.
+
+Kaelan grinned in the dark.
+
+"And if he comes back during a bath?"
+
+"Then the door suggests Elevenses," she replied.
+
+"And if we're napping?"
+
+"Luncheon," she listed. "Afternoon tea. Dinner. Supper."
+
+"He knows about them, doesn't he?" Kaelan asked, pulling the quilt up.
+
+"He's a blacksmith, Sun. He invented half of them."
+
+"And if a spy tries the handle?"
+
+"He learns that iron holds a grudge."
+
+Kaelan blew out the candle.
+
+"Perfect."
+
+They climbed into bed, pulling the quilt up to their chins. For the first time since the "Demon and Witch" rumors started, the cottage felt truly quiet.
+
+Let the world whisper. Let the Kings plot. The house knew the difference between a neighbor with a pie and a spy with a knife. And the house knew exactly how to handle both.
+

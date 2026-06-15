@@ -1,0 +1,40 @@
+# Part 5: The Filing Cabinet – Thursday, October 20, 2044 – ~04:20 (Shift starts in 20 minutes)
+
+The heavy metal turnstile clunked shut behind Wyatt, sealing him inside Apex Defense Solution's subterranean staging facility. He followed the scuffed yellow line painted on the concrete floor, walking down a long, windowless corridor illuminated by harsh, buzzing fluorescent tubes. The air here was heavy, smelling of stale sweat, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
+
+A rusted metal sign hanging from the low ceiling pointed left: S.H.O.P. BARRACKS 4.
+
+Wyatt stepped through the open archway and stopped.
+
+The room was a sprawling, concrete cavern, completely choked with rows of cold, industrial-gray metal scaffolding. They were bunk beds, stacked three tiers high, but they offered zero open airflow. Each individual bunk was boxed in by three thin metal walls—the head, the foot, and the far side—making the narrow compartments look and feel exactly like pulling open a filing cabinet drawer. The thin metal back walls separated this row from the next, leaving only the front open to the narrow, 64-inch aisles running between the frames. The "C" level, the bottom bunk, was nothing more than a thin mattress resting directly on the cold concrete.
+
+As he walked down the aisle looking for his assigned number, he noticed a contractor sitting on a middle bunk, lacing up a pair of heavy work boots. Across from him, squeezing past a rusted support pillar, was a woman in standard-issue gray sweats, a cheap towel slung over her shoulder as she headed toward the washroom.
+
+Wyatt paused, his brow furrowing slightly. He mentally pulled up the fine print of the recruitment brochure he'd read back on the oceanic rig. It had explicitly promised gender-separated living quarters. But looking around the massive, open-plan room, he realized Apex hadn't even bothered to hang up curtains. They were all just expendable inventory, filed away in a warehouse.
+
+He checked his datapad: BUNK 42-C.
+
+He navigated the maze of snoring, coughing, and shuffling contractors until he found row 42. He looked down into the bottom metal cubby at the floor mattress—his assigned bed.
+
+Someone was already sleeping in it.
+
+Under the thin, scratchy gray Apex blanket was a woman. She was curled up, dead asleep, wearing drab, company-issued undergarments. Hanging from a makeshift wire hook on the metal wall directly above her head was a rumpled uniform shirt. The nametape read VARGAS.
+
+Wyatt dropped his canvas duffel bag onto the concrete with a dull thud. He stood there, waiting. He half-expected her to wake up, scream, and call for a red-banded Apex supervisor. He expected alarms. He expected an HR violation.
+
+The thud of the bag woke her. She groaned, rolling over onto her back. She squinted up at him in the dim, flickering light. There was no shock in her eyes. There was no panic about a massive, strange man standing over her bed. There was only profound, soul-crushing exhaustion.
+
+She rubbed her face, letting out a heavy sigh.
+
+"You are the new rotation, *sí*?" she muttered, her voice raspy from sleep, her accent thick and tired. She didn't attempt to cover up or hide; the concept of personal privacy had clearly been beaten out of her by this place a long time ago.
+
+She sat up, joints popping, and swung her legs out of the metal enclosure onto the cold concrete. "Look. My shift starts in twenty minutes. You have the mattress for the next eight hours. Then the third guy on our rotation takes it."
+
+Wyatt just stared at her, the grim reality of the situation clicking into place. Hot-bunking. Three people. Three shifts. One mattress. They didn't even let the sheets cool down.
+
+"The springs on the right side are completely shot, so sleep on the left if you care about your spine," Vargas added, standing up and grabbing a towel from the metal wall next to her uniform. "And do not leave your gear on the mattress when your shift is up, or the other guy will throw it in the aisle."
+
+Without another word, and without a second glance at him, she shuffled past him down the narrow aisle, heading for the communal showers.
+
+Wyatt looked down into the metal box at the warm, rumpled mattress on the floor. Welcome to Apex.
+

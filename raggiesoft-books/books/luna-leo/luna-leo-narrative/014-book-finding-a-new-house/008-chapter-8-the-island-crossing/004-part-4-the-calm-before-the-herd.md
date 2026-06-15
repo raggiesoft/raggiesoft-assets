@@ -1,0 +1,74 @@
+# Part 4: The Calm Before the Herd
+
+## August 23, 2006 8 Ocean View Lane - Living Room 06:00 PM
+
+The house was quiet. The excitement of the Newport trip had faded into a comfortable, heavy fatigue.
+
+Leo and Luna sat on the deep sectional sofa. They weren't watching TV. They were just holding on.
+
+Leo sat with his back against the armrest. Luna was curled up next to him, her head resting on his chest, her arms wrapped around his waist. He had one arm draped over her, his hand resting on her shoulder, applying a steady, rhythmic pressure.
+
+They weren't talking. They were just syncing. The vibration of the ferry, the noise of the bus, the wind on the deck—it was all draining out of them, replaced by the static warmth of the house.
+
+Olivia sat on the floor in front of them, leaning back against Leo’s legs. She was reading a book, but her presence was a tactical choice—she was the ground wire.
+
+Stella walked in from the kitchen with a clipboard.
+
+"Okay," Stella said, keeping her voice low. "Debrief for tomorrow. **Orientation Day**."
+
+She handed a schedule to Olivia.
+
+"It starts at 8:30 AM at the Stadium," Stella said. "Then it breaks out into sessions."
+
+- **10:00 AM:** Residential Life (Dorm Living).
+
+- **11:00 AM:** Dining Services (Meal Plans).
+
+- **12:00 PM:** Campus Safety (Blue Light Phones).
+
+- **01:00 PM:** ID Card Processing (The Gym).
+
+- **02:00 PM:** Textbook Acquisition (The Bookstore).
+
+Olivia scanned the list. She laughed softly.
+
+"We are going to be so bored," Olivia noted. "We don't live in dorms. We don't have meal plans. And..."
+
+She looked at the lanyard hanging on the hook by the door.
+
+"We already have our IDs," Olivia said.
+
+"And the books," Luna murmured from Leo’s chest. "They're sitting on the table right there."
+
+"Exactly," Stella grinned. "While five thousand freshmen are standing in line at the ID office for three hours, we're going to be eating lunch at The Foundry. We're fully equipped."
+
+Leo looked at the schedule. He saw the chaos it represented. He thought about the crowds fighting for books.
+
+He tapped his **Quantum Communicator**.
+
+*"WE ARE PRE-LOADED,"* the robotic voice said softly. *"MISSION COMPLETE BEFORE START."*
+
+"That's the Porter way," Stella said. "We just have to show up, sit through the speeches, and sign the attendance sheet so they don't drop our registration."
+
+In the corner of the room, **Eleanor** sat in her favorite rocking chair near the fireplace (which was cold for the summer). Her knitting needles clicked softly—a rhythmic, comforting sound like a clock.
+
+She was working on a large bundle of navy blue wool.
+
+"What are you making, Grandma?" Luna asked, lifting her head slightly.
+
+"Armor," Eleanor said, not missing a stitch. "Winter is coming. This is for Leo. A proper cable-knit sweater. Thick wool. When the wind hits that train platform in November, he's going to need it."
+
+She looked at the rest of them.
+
+"I've got enough yarn for everyone," she promised. "You're all getting one. We might be Rhode Islanders now, but the Atlantic wind doesn't care where you're from."
+
+Leo watched the needles move. *Click-click-click.*
+
+He squeezed Luna tighter. He felt Olivia’s weight against his legs. He heard the rhythm of the knitting.
+
+The Fortress was ready. They had the passes. They had the books. They had the sweaters.
+
+*"READY FOR THE HERD,"* he typed.
+
+"We sure are," Stella said, turning off the main light. "Rest up. Tomorrow we go to war with the Freshman Class."
+

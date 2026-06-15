@@ -1,0 +1,50 @@
+# Part 1: The Adventure Becomes Real (Mid-Summer 2000)
+
+Weeks after the barbecue where the idea of a grand summer road trip had been born, a palpable sense of anticipation hung over Lisa Court. Passport photos had been taken, and applications had been submitted. Now, they just had to wait.
+
+On a warm Tuesday afternoon, Alex and Chloé were on the Millers' back patio, engaged in a quiet but intense game of chess. James was in the garage, and Emily was inside. The scene was one of peaceful, everyday companionship.
+
+The sound of the mail truck stopping at the curb prompted Emily to head out front. A moment later, she returned to the patio, holding a thick, sturdy Priority Mail envelope from the U.S. Department of State, a triumphant smile on her face.
+
+"Well, look what came today," she announced, her voice filled with excitement.
+
+Alex and Chloé looked up from their game, the chess match instantly forgotten. Chloé, recognizing the official envelope, let out a small gasp of excitement. "No way! Are those...?"
+
+James came in from the garage, drawn by the commotion. The four of them gathered around the patio table as James carefully opened the envelope. Inside, nestled in official paperwork, were three pristine, navy-blue booklets, each bearing the Great Seal of the United States in gold. Their first passports.
+
+Emily handed one to Alex, who took it, his hands trembling slightly. He ran a finger over the official text, the crisp new pages, the intricate watermarks. This wasn't just a document; it was a key. It was a promise.
+
+He looked over at Chloé, who was grinning at him, and a slow, brilliant smile spread across his face. He typed on his AAC, his synthesized voice bursting with pure joy. IT'S REAL. CHLOÉ, IT'S REAL. WE'RE REALLY GOING.
+
+"I know!" she breathed, her own excitement a perfect mirror of his. "It's official!"
+
+She launched herself from her chair, wrapping him in a huge, celebratory "big squeeze" hug right there on the patio. TO CANADA. WITH YOU, Alex’s device finished, the words spoken into her shoulder as he hugged her back.
+
+Just then, Thomas and Sophie, seeing the celebration from their own yard, came over through the well-worn path in the grass. The six of them stood in the Millers' backyard, passing the three new passports around, the tangible proof of their shared adventure now in their hands.
+
+A few minutes later, after the initial excitement had settled, Emily Miller clapped her hands together. "We have to call the Carters and tell Megan!" she exclaimed.
+
+They all trooped inside, gathering in the Millers' kitchen around the beige landline phone mounted on the wall. Emily dialed the familiar number. There was no caller ID; she just waited for someone to pick up.
+
+"Hello?" a woman's voice answered on the other end.
+
+"Karen, hi, it's Emily!" she said cheerfully to her sister. "Is Megan around? We've got some very exciting news, I'm putting you on speakerphone so everyone can hear."
+
+There was a muffled sound as Karen Carter called for her daughter. "Megan! It's your Aunt Emily! Pick up the phone!"
+
+A moment later, Megan's voice came on the line, full of a teenager's typical good-natured impatience. "I'm here, Mom, what's up?"
+
+"Meg, you are not going to believe what just arrived!" Chloé exclaimed, leaning towards the speakerphone.
+
+"No way," Megan's voice crackled from the phone, already guessing. "Don't tell me... are they the passports?"
+
+THEY'RE HERE! Alex's device blared happily. IT'S OFFICIAL! WE'RE GOING TO CANADA!
+
+A genuine whoop of joy came from Megan on the other end of the line. "Oh my god, you guys, I am so happy for you! That's amazing!" Her voice then took on a wistful, slightly sad tone. "I wish I could go with you. So badly."
+
+"You still can!" Chloé said hopefully.
+
+"No, I can't," Megan replied, a note of practical resignation in her voice. "I don't have a passport, and even if I did, there's no way I could get two weeks off from work with this little notice." She sighed, then her voice brightened again, full of a genuine, selfless excitement for them. "But you guys have to go. Have the most incredible time. Take a million pictures. Alex, you need to soak up every second of seeing where Chloé grew up. I want a full report when you get back. I'm so, so happy for you both."
+
+The summer adventure, which had begun as an idea on a warm evening, had now officially, thrillingly, begun.
+

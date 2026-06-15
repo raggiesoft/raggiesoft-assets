@@ -1,0 +1,40 @@
+# Part 1: The Severed Link
+
+## Date: July 15, 2004 Time: 4:30 PM Location: The Living Room, Unit 404
+
+The summer of 2004 had been hot and humid, but the humidity broke with violence.
+
+A severe coastal low—a "Nor'easter" with a tropical attitude—had parked itself over Narragansett Bay. For the last four hours, rain hadn't just fallen; it had been driven horizontally against the massive industrial windows of The Foundry Lofts.
+
+Patrick stood at the window, his hand pressed against the cool brick.
+
+Down below, Foundry Square was gone. The street had vanished under six inches of churning, brown water. The drains were backed up, overwhelmed by the deluge.
+
+"Look at that," Patrick murmured. "The intersection is a lake."
+
+Nichole sat on the sofa, her convertible laptop balanced on her knees. She was monitoring the BTA Service Alert page.
+
+Usually, the website was a comforting grid of green "ON TIME" indicators. Today, it was a wall of red.
+
+ALERT: SEVERE FLOODING. BLUE LINE: SUSPENDED. RED LINE: SUSPENDED. BUS SERVICE: SUSPENDED.
+
+Then, the final notification flashed across the screen.
+
+THE BRAXTON LINK: FLOODGATES ACTIVATED. SYSTEM SEALED.
+
+Nichole looked up. She felt a strange, primal ping of anxiety. The Link—their umbilical cord to the university, the grocery store, and the world—was physically shutting down.
+
+She tapped her screen.
+
+"THEY. CLOSED. THE. GATES?"
+
+"Yeah," Patrick said, turning away from the window. "The basement entrances. They have heavy steel doors that roll down to stop the subway tunnels from flooding. Once those drop, we are cut off."
+
+He looked at the heavy steel door of their apartment.
+
+"We can't go down to the basement. We can't go out to the street. The ferry is definitely grounded."
+
+He walked over to the sofa and sat down next to her.
+
+"We are officially an island, Nikki."
+

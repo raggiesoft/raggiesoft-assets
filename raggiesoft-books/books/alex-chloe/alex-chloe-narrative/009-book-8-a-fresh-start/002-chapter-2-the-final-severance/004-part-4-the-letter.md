@@ -1,0 +1,39 @@
+# Part 4: The Letter
+
+A week later, the mail carrier delivered a certified letter to the Miller house. The return address was from a law firm in Portsmouth. James Miller signed for it, a knot of cold dread forming in his stomach. He knew, with a sickening certainty, who this was from. Vera, having been rebuffed on the phone, had decided to escalate.
+
+He didn't open it. He waited until that evening, after dinner, when all six of them—the Millers, the Masons, and Megan—were gathered in the living room. Alex and Chloé were sitting together on the sofa.
+
+"This came today," James said, his voice grave as he held up the crisp, official-looking envelope. "It's from a lawyer in Portsmouth. I think we should all hear this together."
+
+A tense silence fell over the room. Alex felt a tremor of his old fear return, a visceral, gut-wrenching reaction to the realization that it *still* wasn't over. Chloé's hand instinctively found his, her grip firm and reassuring, while Megan, from her spot in the armchair nearby, leaned forward, her expression hardening into one of protective readiness.
+
+James carefully opened the envelope. He unfolded the single sheet of paper and began to read aloud, his voice a flat, controlled monotone.
+
+"To Mr. and Mrs. James Miller, parents and legal guardians of Alex J. Miller," he read. "This letter serves as formal notice that my client, Ms. Vera Kowalski, is pregnant and has named Alex J. Miller as the father of her unborn child. We hereby demand a formal acknowledgment of paternity and the immediate establishment of a financial agreement for child support..."
+
+James's voice trailed off. The words hung in the air, a toxic, unbelievable cloud.
+
+Alex let out a sound—a raw, strangled sob of pure, unadulterated despair. This was his worst nightmare. He just wanted it all to go away. He wanted Vera to disappear, to leave him alone in the safe, quiet life he was trying to rebuild. He buried his face in his hands, his body shaking.
+
+Chloé and Megan were on him in an instant, a perfectly synchronized team. Chloé wrapped her arms around him, pulling him into a fierce, protective hug, her voice a low murmur of Québécois French in his ear. Megan knelt in front of him, her hands a firm, grounding pressure on his knees.
+
+"What?" Chloé hissed, her eyes blazing with incredulous rage. "That's... that's impossible!"
+
+Emily Miller, who had been sitting in stunned silence, finally found her voice. She looked at her husband, her expression a mixture of cold fury and profound sadness for what her son was being put through again.
+
+"But that's impossible," she said, her voice quiet but carrying an unshakeable certainty. "James, it's impossible. We have the records. The doctors. Alex is infertile."
+
+The simple, clinical truth cut through the emotional chaos. Thomas and Sophie Mason looked from Emily to Alex, their expressions shifting from shock to a grim understanding of the new, monstrous game Vera was playing.
+
+Alex, hearing his mother state the fact he knew to be true, lifted his head. He looked at Chloé, at the fire in her eyes, and at Megan, at her unwavering support. He reached for his AAC, his fingers moving with a new, shaky resolve.
+
+SHE IS LYING, his device voiced, the words a quiet but firm declaration. IT IS NOT POSSIBLE. IT IS A LIE. I JUST WANT THIS TO BE OVER.
+
+"Of course it is, son," James said, his voice a low, dangerous growl as he looked down at the letter. "It's a cruel, calculated, and pathetic lie."
+
+He looked at the other adults in the room, a new, hard resolve in his eyes. "Well," he said, his voice full of a cold, quiet fury. "She wanted to involve lawyers. I think it's time we obliged her."
+
+The lie, in all its monstrous cruelty, had been officially launched. But in that room, surrounded by a united, loving, and now fully armed family, it had already begun to die.
+
+

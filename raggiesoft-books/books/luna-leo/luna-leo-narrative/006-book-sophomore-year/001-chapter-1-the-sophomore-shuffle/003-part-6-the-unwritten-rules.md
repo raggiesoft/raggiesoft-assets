@@ -1,0 +1,80 @@
+# Part 6: The Unwritten Rules
+
+## Section 1: 08:05 AM The Gymnasium Exit
+
+The shrill blast of Coach Miller’s whistle signaled the end of the period. "Hit the showers! hustle up!"
+
+The disciplined formation of the Adapted PE class broke apart. Luna stood up from her mat, wiping sweat from her forehead with the back of her hand. She turned to Leo, offering a hand to help stabilize him as he unlocked his brakes.
+
+"Survived day one," she said with a grin. "Only one hundred and seventy-nine to go."
+
+She leaned down and wrapped her arms around him for their customary separation hug—a quick, firm squeeze that said *I've got you* before they had to face the chaos of the hallways apart.
+
+"See you at lunch?" she asked.
+
+Leo tapped his **Quantum Communicator**: "YES. CLINIC FIRST."
+
+"Right," Luna sighed, straightening up. She watched as Mr. Peters, the aide, approached to take the handles of Leo’s chair for the trip back to the clinic. The frustration bubbled up again, sharp and familiar.
+
+"Be careful with his shirt buttons, Mr. Peters," she instructed, her tone polite but edged with the authority of a primary caregiver. "They're small, and he hates it if you pull too hard."
+
+"Got it, Luna," Mr. Peters said patiently.
+
+As they wheeled away, Luna turned toward the girls' locker room, her muttering audible only to herself. "It's so stupid. I help him in the bath every night. I help him with buttons every morning. But *here*, it's a liability? It's just a shirt. It's just my brother." She shook her head, kicking at a scuff mark on the floor. "Bureaucracy."
+
+## Section 2: 08:10 AM The Commons
+
+While Luna navigated the locker room, Leo and Mr. Peters made their way down the main hallway toward the clinic. Their route took them directly past the wide, open entrance of the cafeteria, which was currently empty of diners but buzzing with a different kind of activity.
+
+A group of Seniors in varsity jackets was holding court near the vending machines, surrounded by a gaggle of wide-eyed Freshmen. It was the annual "Unofficial Orientation," where the real laws of Northwood High were handed down.
+
+Leo signaled Mr. Peters to slow down slightly. He liked listening to the lore.
+
+"Rule number one," a tall Senior boy said, leaning against a soda machine. "You do not mess with Mrs. DeMarco. You think she's just a lunch lady? Wrong. She is the eyes and ears of this institution."
+
+"My brother told me about 'The Penis Game'," a Freshman piped up, trying to sound cool. "He said the rules are you have to shout it the loudest without getting her attention to win."
+
+The Senior laughed, a dark, knowing sound. "Yeah, that's the game. And let me tell you the score: Mrs. DeMarco is undefeated. To date, she has caught *everyone* on their first attempt. Legend says she keeps a logbook in her office of exactly how many idiots have tried."
+
+"Josh Riley tried it," another Senior added, shaking his head. "First day of Freshman year. He thought he was a legend. He stood up, screamed 'PENIS!' at the top of his lungs, and Mrs. DeMarco was on him before the echo died. She verbally dismantled him in front of the whole school. He barely speaks above a whisper in the lunch line now."
+
+A cocky Freshman in the back of the group, trying to look unimpressed, leaned toward his friend. *"Ese pendejo se lo merecía, seguro es un idiota,"* he muttered in Mexican Spanish, snickering. (That asshole deserved it, he's surely an idiot.)
+
+The laughter died instantly. A Senior girl with a high ponytail, who had been listening quietly and was clearly fluent, stepped forward. She fixed the Freshman with a hard look.
+
+"Hey," she said, her voice sharp, cutting through the chatter. "You might want to zip it."
+
+"What? I just said—"
+
+"I know what you said," the Senior girl interrupted, switching to English for the benefit of the crowd. "And here's the most important unwritten rule you need to learn: Mrs. DeMarco speaks Spanish. And French. And German."
+
+She leaned in closer, her voice dropping to a terrified whisper. "Actually, legend has it she speaks and understands *every* language known to mankind."
+
+The Freshman rolled his eyes. "Okay, sure. Every language?"
+
+"Yes. Even the fake ones," the Senior boy chimed in, his face deadly serious. "You ever hear about the Pig Latin Incident of '98?"
+
+The Freshmen shook their heads.
+
+"Guy named Stan Henderson thought he was being slick. Cursed her out in Pig Latin thinking she wouldn't catch it. Not only did Mrs. DeMarco respond in *perfect* Pig Latin," the Senior paused for effect, "but she doesn't waste time with detention slips. Mrs. DeMarco has her own justice system."
+
+He leaned forward, his voice dropping to a grim whisper. "His punishment was two weeks of mandatory enrollment in Northwood High's most exclusive afternoon enrichment program: 'Advanced Sanitation Studies.' Otherwise known as Trash Duty. And she made him clean the grease traps in the kitchen. Just ask Josh Riley—that smell never goes away, no matter how many times you bathe yourself."
+
+A collective gag went through the group.
+
+"And," the Senior girl added, delivering the final blow, "she made him write a twenty-page essay on respect. *In Pig Latin*."
+
+The cocky Freshman paled, looking toward the cafeteria serving line with newfound terror. "Twenty pages?"
+
+"Single spaced," the Senior confirmed. "She is a linguistic superweapon. Do not test her. Just ask Kevin Schmidt about the German incident."
+
+Leo, listening from his chair a few feet away, felt a spark of amusement. He remembered that day vividly—the look on Josh's face, the way Mrs. DeMarco had switched effortlessly between Parisian French with Chloé and lethal English with Josh . He hadn't known about Stan Henderson's Pig Latin essay, but it sounded exactly like her style.
+
+He tapped a quick note on his screen, showing it to Mr. Peters with a grin.
+
+"THE LEGENDS ARE TRUE."
+
+Mr. Peters, oblivious to the high-stakes diplomacy occurring by the vending machines, just chuckled. "If you say so, Leo. Come on, let's get you changed so you aren't late for Band."
+
+As the clinic door closed behind him, Leo prepared for the indignity of the clinic changing routine, his mind already shifting gears. Next stop: the Band Room, where he would be the master of his own rhythm on the xylophone. Luna, meanwhile, was heading upstairs to Algebra II, ready to tackle equations and dream of the moment they would be reunited at lunch.
+

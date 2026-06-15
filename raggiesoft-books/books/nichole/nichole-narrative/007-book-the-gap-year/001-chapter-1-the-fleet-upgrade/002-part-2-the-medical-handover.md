@@ -1,0 +1,220 @@
+# Part 2: The Medical Handover
+
+## Date: January 14, 2004 Time: 9:15 AM Location: Newport Hospital Outpatient Care Center, Newport, Rhode Island
+
+Transitioning to a new state meant transitioning out of the pediatric medical system. For eighteen years, the twins had seen a colorful carousel of pediatricians with stuffed animals on their stethoscopes.
+
+Now, they were adults entering the adult medical grid.
+
+Patrick drove the new heavy-duty commercial van through the snow-dusted streets of Newport, pulling into the hospital complex where they were both born.
+
+"Three appointments today," Patrick said, killing the engine and moving to the back to lower the hydraulic lift. "First up: Primary Care and Neurology. Combined intake. Then, OB/GYN for you at 11:30."
+
+Inside the clinic, the waiting room wasn't painted in bright primary colors. It was muted, quiet, and professional.
+
+They were called back together. They had requested a joint file. Their medical histories—Cerebral Palsy, Autism Spectrum Disorder, and ADHD—were functionally identical on paper, even if the physical manifestations were vastly different.
+
+Dr. Aris at Putney had looked at their joint file and seen a liability.
+
+Dr. Marcus Vance, a Dual-Boarded Physiatrist (Physical Medicine & Rehabilitation) and Neurologist, looked at the file and saw efficiency.
+
+"Good morning, Patrick. Good morning, Nichole," Dr. Vance said, entering the exam room. He shook Patrick’s hand, then respectfully offered his hand to Nichole. She grasped it with her functional hand, giving a firm shake.
+
+Dr. Vance sat down and opened their charts.
+
+"So, the goal today is establishing your adult baselines," Dr. Vance said, looking between them. "For the ADHD and Autism, I see you are both on standard stimulant and non-stimulant management for executive function and sensory regulation. Any issues with your current dosages?"
+
+"No," Patrick said. "It works for me."
+
+Nichole tapped her screen. "WORKS. FOR. ME."
+
+"Excellent. We’ll keep those scripts as they are," Dr. Vance nodded. "Now, the Cerebral Palsy management. Patrick, you use a left ankle-foot orthosis. How is the spasticity in the calf?"
+
+"Tight in the cold," Patrick admitted, rolling up his pant leg to show the plastic brace. "But I stretch it out."
+
+"Nichole," Dr. Vance turned his chair to face her directly. He didn't ask Patrick to translate her body language. "Quadriplegic presentation. How is your current seating system handling your tone? Are you getting pressure sores?"
+
+Nichole clicked her mouse. "NO. SORES. GOOD. CUSHION. BUT. HIPS. HURT. IN. THE. VAN."
+
+"The vibration of the road triggers the flexors," Dr. Vance noted, typing into his computer. "Very common. I’m going to prescribe a daily muscle relaxant specifically for the high-tone days, and I want to get you both into the Newport Hospital hydrotherapy pool twice a week for weightless stretching."
+
+Nichole made a happy, resonant *hummm* in her throat. She loved the water.
+
+Dr. Vance closed the laptop. "You two are incredibly self-aware. You know your bodies, you know your meds, and you know your limits. You are exactly the kind of patients I love to work with. Welcome to the practice."
+
+Patrick let out a quiet breath of relief. The adult world wasn't so scary when the doctors treated you like adults.
+
+## Date: January 14, 2004 Time: 11:30 AM Location: Department of Women’s Health, Suite 4B, Newport Hospital
+
+The second appointment of the day felt different the moment they rolled through the double doors of Suite 4B.
+
+The waiting room was quiet, painted in soft sages and creams. Patrick parked the heavy-duty Liberty van keys in his pocket and sat down in one of the armchairs. He didn't hover over the Titan AeroMotion. He picked up a copy of a magazine and leaned back, crossing his ankle over his knee.
+
+A door opened. A nurse in teal scrubs stepped out, holding a clipboard.
+
+"Nichole Bennett?"
+
+Nichole looked at the nurse. Then she looked at Patrick.
+
+In any other medical office, this was the moment Patrick would stand up, grab the push handles, and say, "We're ready."
+
+But Patrick didn't move. He didn't even close his magazine. He just looked over the top of the pages.
+
+"You're up, Nikki," Patrick said. He stood up for a moment, not to push her, but to lean down.
+
+He opened his arms.
+
+Nichole reached up and wrapped her arms around his neck, pulling him into a brief, grounding hug. It wasn't a hug of fear; it was a transfer of confidence.
+
+"I'll be right here," Patrick whispered into her hair. "Right in this chair."
+
+He pulled back and sat down.
+
+The nurse looked at Patrick, verifying that he wasn't getting up. She turned her attention entirely to Nichole.
+
+"Hi, Nichole. I'm Sarah. I'll be taking you back to Dr. Lin today," the nurse said warmly. She paused, looking at the custom wheelchair. She didn't grab the handles. She waited. "May I push you back?"
+
+This was the test.
+
+To anyone else, touching the Titan AeroMotion was a violation of the "Nikki Protocol." It was her body, her space.
+
+But this was Women's Health. This was the one room in the world where Patrick’s protection was not required—in fact, his absence was the point.
+
+Nichole took a breath. She looked at Sarah.
+
+She tapped her armrest twice.
+
+"YES."
+
+Sarah stepped behind the chair. She was gentle. She didn't jerk the frame. She smoothly navigated the chair through the door.
+
+As they crossed the threshold, Nichole looked back.
+
+Patrick was still sitting in the chair, reading his magazine. He hadn't watched her go. He trusted her. And he respected the absolute boundary of the room she was entering.
+
+The door clicked shut.
+
+Patrick turned the page of his magazine, but he wasn't reading. He was remembering a conversation at the kitchen table in Virginia Beach three years ago.
+
+He was fifteen, and he was officially taking over Nichole’s daily care routines.
+
+*“This is the hard part, Pat,”* his mother, Ellen, had said, looking incredibly serious. *“When you take her to the OB/GYN, you cannot go back with her at first. You have to wait in the lobby.”*
+
+*“Why?”* Patrick had asked, his protective instincts immediately flaring up. *“She hates new doctors. She’ll freeze.”*
+
+*“Because of the law,”* his father, Tom, had explained gently. *“It’s a domestic abuse protocol. Every single time your mother and I take her to Women’s Health, we have to sit in the waiting room while the doctors ask Nichole if she is safe at home. They have to ask if we are hurting her, or if we are stealing her money, or if we are forcing her to do things. We have to wait for Nichole to give them the green light.”*
+
+Patrick had been stunned. *“They suspect you?”*
+
+*“They suspect everyone,”* Ellen had said firmly. *“And that is a good thing. Disabled women are the most vulnerable people on the planet. Nichole needs to know she has a safe place to report us if we ever crossed a line. And now that you are taking over… you have to wait for the green light, too.”*
+
+Patrick sat in the Newport Hospital waiting room, listening to the soft jazz playing over the speakers. He wasn't insulted by the separation. He was proud of it. The system was working exactly the way his parents had taught him it should.
+
+Inside the exam room, Dr. Lin was waiting.
+
+"Welcome, Nichole," Dr. Lin said. She noted the absence of a chaperone and smiled. "I see your brother knows the drill. We appreciate that here. It allows us to speak freely."
+
+Nichole reached for her portable keyboard connected to her Apex machine. She typed quickly.
+
+"HE. IS. MY. ENGINE. BUT. THIS. IS. MY. BODY."
+
+"And that is exactly why we are here," Dr. Lin agreed warmly. "Now, today is a consultation to transfer your ProGest-Depot prescription. Regarding the physical exam... do you require assistance with the transfer to the table?"
+
+Nichole hesitated. In eighteen years, nobody but Patrick had lifted her. It was his job. He knew her balance; he knew her center of gravity. Handing that control over to a stranger felt deeply unnatural, but she knew it was a necessary step.
+
+Nichole typed.
+
+"PATRICK. USUALLY. DOES. ALL. MY. TRANSFERS." She paused, looking at the closed door, and then back to the doctor with absolute resolve. "BUT. NO. BROTHER. FOR. THIS."
+
+Dr. Lin nodded, fully respecting the boundary Nichole was drawing. Her brother was her primary aide, but this was a space exclusively for her.
+
+Dr. Lin pressed a button on the wall intercom. "I'll call in a second nurse for a two-person assist. We’ll use the hydraulic lift if you prefer, or a manual transfer if you’re comfortable with us handling you."
+
+"LIFT. IS. SAFER," Nichole typed.
+
+"Agreed," Dr. Lin said.
+
+Before they began, Nichole reached into her side bag. She pulled out a folded piece of paper—a standard HIPAA waiver she and Patrick had signed that morning.
+
+She handed it to Dr. Lin.
+
+"JUST. IN. CASE."
+
+Dr. Lin read the waiver. It explicitly authorized Patrick Bennett to be present during exams if requested by the patient for safety or communication support.
+
+"This is good to have on file," Dr. Lin said, tucking it into the chart. "It means if you ever feel unsafe or need him to translate, we can bring him back immediately. But today, you want to do this solo?"
+
+Nichole shook her head. No.
+
+She looked up at the doctor. She understood the protocol. She knew that in a Women's Health clinic, the absolute first priority was screening the patient for domestic abuse or coercion. She respected why Patrick had to wait in the lobby.
+
+But now that she was in the room, and her autonomy was established, she wanted her partner back.
+
+Her fingers flew across her keyboard.
+
+"I. KNOW. THE. RULES. YOU. MUST. CHECK. FOR. ABUSERS."
+
+Dr. Lin paused, looking at the screen, her expression softening with profound professional respect. "Yes. We do."
+
+"PATRICK. IS. SAFE," Nichole typed, her chin lifting proudly. "HE. BATHES. ME. EVERY. DAY. I. AM. VULNERABLE. HE. NEVER. HURTS. ME. HE. IS. GOOD."
+
+Dr. Lin read the output. She looked at Nichole’s absolute conviction.
+
+"Thank you for understanding our protocols, Nichole," Dr. Lin said gently. "Your safety is always our first priority. And since you've cleared him, and you want him here, let's bring your team back together."
+
+Dr. Lin opened the door and signaled to Sarah. "Sarah, please bring Patrick Bennett back to Room 4."
+
+A minute later, the door opened. Patrick walked in. He didn't look anxious. He didn't look out of place.
+
+He looked directly at Nichole, waiting for his cue.
+
+Nichole smiled and tapped her armrest.
+
+Patrick immediately went to work. The clinical dynamic of the room changed instantly. The awkward, multi-person hydraulic lift—which the nurses had been prepping in the corner—was forgotten.
+
+Patrick locked her brakes, unbuckled her chest strap, and effortlessly transferred her to the high-low exam table in one smooth, practiced motion.
+
+He didn't leave the room. But he didn't hover over the doctor, either.
+
+He stepped to the head of the table.
+
+As Dr. Lin began the exam, Patrick took Nichole's hand. He turned his body slightly, angling himself so his back was to the procedure.
+
+He didn't look down. He didn't look at the medical instruments. He didn't look at his sister’s most private areas.
+
+He just watched his sister’s face.
+
+He monitored her breathing, watching for the slight hitch that meant a spasm was building in her diaphragm. He watched her eyes, ready to apply deep pressure to her shoulders if her neck tone spiked.
+
+For Nichole, the exam itself—the cold stirrups, the clinical touch, the discomfort—faded into the background.
+
+She locked her eyes on Patrick. He was her horizon line.
+
+She saw the familiar calm in his expression. She saw the absolute lack of awkwardness. He wasn't seeing a "patient" or a "procedure." He was just seeing her.
+
+Because he was looking at her face, she didn't have to worry about being exposed. She didn't have to worry about dignity. He was guarding it for her.
+
+Twenty minutes later, the exam was over.
+
+"All done," Dr. Lin announced, stepping back and snapping off her gloves. "Everything looks perfect."
+
+Patrick moved instantly. He helped Nichole sit up, shielding her with his body as he helped her readjust her clothing.
+
+He transferred her back to the Titan AeroMotion, settling her deep into the seat and locking the chest strap.
+
+As the buckle clicked, Nichole reached out and hugged him, burying her face in his shoulder for a split second to wash away the clinical smell of the exam room and reconnect with her safe harbor.
+
+"All set?" Patrick asked, pulling back and resting his hands on the push handles.
+
+Nichole nodded. She looked tired but accomplished. She tapped her screen.
+
+"MISSION. ACCOMPLISHED."
+
+"Thanks, Sarah. Thanks, Doctor," Patrick said.
+
+"She did great," Dr. Lin smiled, holding the door open for them. "We'll see you in three months for the next shot."
+
+Patrick steered the Titan AeroMotion toward the exit. He didn't ask what they talked about. He didn't ask about the exam.
+
+He just pushed her out into the cold Rhode Island air, loaded her into the warm van, and drove them home.
+

@@ -1,0 +1,136 @@
+# Part 2: The Legal Shield
+
+## Monday, May 24, 2004 — 09:30 AM Law Offices of Sterling & Associates, Christiansburg, VA
+
+The conference room smelled of lemon polish and old leather binders—a scent Freddie categorized as "Bureaucracy." It was a low-stimulus environment: beige walls, heavy curtains drawn against the morning sun, and a long mahogany table that reflected the overhead can lights like a dark pool.
+
+Freddie sat in a high-backed leather chair on the left side of the table. Paige sat immediately to his right, her chair pulled close enough that their arms touched. Her hand rested on his knee, a static anchor point that kept his leg from bouncing.
+
+Jessica sat at the head of their side of the table, acting as the spokesperson. She had the "Medical Binder"—a thick, black three-ring notebook—open in front of her.
+
+Across from them sat **Mr. Sterling**, the same attorney who had handled Aunt Marge’s deed transfer. He adjusted his glasses, looking from the siblings to the file.
+
+"So," Mr. Sterling said, his voice grave. "You have a trespasser claiming paternity."
+
+"She isn't just claiming it," Jessica said, her voice sharp. "She's trying to use it as a key. She wants entry to the house. She wants financial support."
+
+"She attempted to breach the perimeter yesterday," Freddie added quietly. "She used the pregnancy variable to induce guilt."
+
+Mr. Sterling nodded. "And you are certain the claim is false? In paternity cases, usually we wait for the birth to test, but if you want to be proactive..."
+
+Jessica didn't answer with words. She slid a document from a plastic sleeve in the binder and pushed it across the polished wood. It was a photocopy of a lab report from a pediatric specialist in Norfolk, dated October 14, 1999.
+
+Mr. Sterling picked it up. He read the header. He read the diagnosis code.
+
+"**Azoospermia**," Sterling read aloud. "Congenital."
+
+"Zero count," Jessica clarified. "The hardware doesn't produce the output. It never has. We’ve known since he was fourteen."
+
+Sterling looked at Freddie. He didn't look with pity; he looked with professional appreciation for a slam-dunk defense.
+
+"This is... definitive," Sterling said. "Biologically absolute."
+
+"She doesn't know," Paige said, squeezing Freddie’s knee. "She thinks she can bluff him because she assumes he's... naive. She thinks he doesn't know how his own body works."
+
+"She assumes my data is incomplete," Freddie corrected. "She is projecting ignorance onto me."
+
+"Precisely," Sterling said. He opened a legal pad. "We will draft a Cease and Desist immediately. We will cite harassment, trespassing, and attempted extortion. We will attach a redacted copy of this report—just the diagnosis line—to prove that her claim is fraudulent on its face."
+
+He picked up his pen. "Now, the logistical issue. Service of process. Where do we send this? Does she have a local address?"
+
+"She's homeless," Jessica admitted. "She said her aunt in Seattle kicked her out. She drifted back here. She was wearing dirty clothes on our porch."
+
+"If she has no fixed address, service is difficult," Sterling noted. "We can't mail a letter to a park bench."
+
+Freddie frowned. He accessed his memory archives. He searched for the file labeled *Project Helios: Group Meetings*.
+
+**Date:** February 12, 2004. **Location:** Newman Library. **Context:** Spring Break logistics discussion.
+
+He saw Vanessa sitting across the table. She was complaining about the dorms closing for break.
+
+*Memory Playback:* *"I hate Spring Break," Vanessa had sighed, playing with her pen. "They kick us out of the dorms. I have to go back to my mom's place in Portsmouth. It's a five-hour haul back to the coast, and the house smells like cat litter."*
+
+Freddie blinked.
+
+"Portsmouth," Freddie stated.
+
+Sterling looked up. "Excuse me?"
+
+"She has a permanent address," Freddie said, his voice steady. "She stated during the Helios project that her mother resides in Portsmouth, Virginia. She returns there when the university housing is unavailable."
+
+"Portsmouth," Jessica repeated, nodding. "I remember that. She complained about the drive being too long."
+
+"Do we have the street address?" Sterling asked.
+
+"No," Freddie admitted. "But the University Registrar does."
+
+Jessica sat up straight. "She's a student, Mr. Sterling. Even if she dropped out or is suspended, her permanent record is on file at CPI. Her home address—her mother's address—will be listed as her legal residence."
+
+"And since she is currently claiming to be carrying a Avery child," Sterling smiled tightly, "we have sufficient cause to request that information for 'legal family matters' via the directory. Most students forget to unlist their permanent addresses."
+
+Sterling turned to his computer. He typed for a moment, accessing the public directory database.
+
+"Found it," Sterling confirmed. "**Vanessa Lawson**. It's in the Churchland area. **\[Redacted Street\], Portsmouth, Virginia 23703**."
+
+"Send it there," Jessica decided. "Certified Mail. Return Receipt Requested. That establishes the paper trail. If she's homeless here, her mother will get it. Her family will know we know."
+
+"And for the immediate threat?" Paige asked. "What if she comes back to the porch today?"
+
+"We create a distribution strategy," Sterling said.
+
+He turned to his printer. He typed rapidly for five minutes. The printer whirred, spitting out three crisp, heavy sheets of paper on the firm's letterhead.
+
+**NOTICE TO CEASE AND DESIST** **RE: Fraudulent Paternity Claims & Trespassing**
+
+*To Ms. Vanessa Lawson:*
+
+*Please be advised that we represent Mr. Freddie Avery. We are in possession of medical documentation dated 1999 confirming that Mr. Avery is medically sterile (Diagnosis: Azoospermia).*
+
+*Your claim of paternity is therefore biologically impossible and constitutes an attempt to defraud.*
+
+*You are hereby notified that you are forbidden from entering the property at 105 Pepper Street SE. Any further presence will be treated as criminal trespassing. Any further demands for money will be treated as extortion.*
+
+Sterling signed all three copies with a flourish. He stamped them with his notary seal.
+
+"Three copies," Sterling said, laying them out.
+
+"Copy One," he tapped the first pile. "This goes into the outgoing mail to the Portsmouth address today. Certified."
+
+"Copy Two," he handed a thick envelope to Jessica. "This is your 'Field Copy.' Keep it on you. If you see her in public, or if she approaches you on campus, you hand it to her. That counts as personal service."
+
+"I'll find her," Jessica promised, taking the envelope. "I know where she hunts."
+
+"Copy Three," Sterling said, holding up the final sheet. "This one is for the house. You need to tape it to the front door. Eye level."
+
+Jessica winced. Paige looked disgusted.
+
+"Tape it to the door?" Paige asked. "It looks... trashy. Like we're in a feud. It tells the neighbors we have drama."
+
+"I do not like the aesthetic," Freddie agreed. "It disrupts the visual symmetry of the entryway."
+
+"It disrupts the symmetry," Sterling agreed, "but it establishes **Constructive Notice**. If she comes to the house while you are in class, or while you are asleep, and she sees that... she knows she can't plead ignorance. If she knocks after reading that, the police can arrest her immediately."
+
+Jessica sighed. She hated it. It felt like admitting the infection had reached the skin of the house. But the logic was sound.
+
+"Fine," Jessica said. "We tape it. Just until she's gone."
+
+Freddie looked at the letter. It was a shield made of paper.
+
+"It validates the truth," Freddie whispered. "The math wins."
+
+"The math always wins, Freddie," Sterling agreed. "And in this case, the math says zero."
+
+Jessica took the remaining copies. She folded Copy Two carefully and put it in her bag.
+
+"Thank you, Mr. Sterling," Jessica said. "We're done being victims."
+
+"She won't come back," Paige said, squeezing Freddie's hand. "Once she sees this... she'll know the game is over."
+
+They stood up. Freddie felt lighter. The legal wall was built. The medical wall was built.
+
+"Let's go home," Freddie said. "I want to verify the locks."
+
+"Locks verified," Jessica promised. "Then I'm going to the library."
+
+They walked out of the office, armed with the truth, ready to defend the Base against the variable that tried to crash the system.
+

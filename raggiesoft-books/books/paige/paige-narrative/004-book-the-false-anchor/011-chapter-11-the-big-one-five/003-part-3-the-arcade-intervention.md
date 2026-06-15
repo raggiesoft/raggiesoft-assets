@@ -1,0 +1,72 @@
+# Part 3: The Arcade Intervention
+
+## 16:00 PM
+
+After two games (Freddie won the second one thanks to his "ramp precision"), the group migrated to the arcade section.
+
+It was a flashy area filled with flashing lights and ticket munchers.
+
+Sarah and Jenna went straight for the Rhythm-Mat-Mania machine. They were fifteen now; they had to prove their coordination. They stomped on the flashing arrows on the metal platform, laughing as they missed the beats of the techno music.
+
+Harper took the twins (Amanda and Elara) to play Alley-Roller (the game where you roll wooden balls up a ramp into numbered rings).
+
+Freddie and Paige rolled over to the Claw Machine.
+
+It was filled with generic plush aliens.
+
+"Remember the blue bear?" Paige asked, leaning on the joystick console next to him.
+
+"Affirmative," Freddie said. "The Mall Rescue."
+
+"We did good today," Paige said, watching Sarah and Jenna laughing on the dance floor. "They're happy. They aren't thinking about Mom and Dad."
+
+"We successfully diverted the narrative," Freddie agreed.
+
+Just then, a loud noise erupted from the Velocity-X racing game nearby. A kid lost his game and kicked the machine hard. BANG.
+
+Freddie flinched. His hands flew up to cover his ears. The sudden, violent noise triggered a flash of the "bad data"—the shouting, the bus engine.
+
+Paige reacted instantly. She didn't make a scene. She just stepped in front of him, blocking his view of the angry kid. She placed her hands on his hands (which were over his ears).
+
+"Focus on me," Paige said. Her voice was calm. "Look at the aliens."
+
+Freddie looked at the claw machine. He looked at Paige’s face.
+
+"Green alien," Paige said. "Top left corner. Do you see it?"
+
+Freddie focused. "Affirmative. Three eyes."
+
+"Target acquired," Paige smiled. "Let’s get it."
+
+She guided his hand to the joystick. She kept her other hand on his shoulder, grounding him.
+
+"You steer," Paige said. "I'll hit the button."
+
+Freddie took a breath. The loud kid was gone. The noise faded into the background. He focused on the claw.
+
+He moved the stick. Whirrr. He adjusted the angle. Whirrr.
+
+"Drop," Freddie whispered.
+
+Paige slammed the red button.
+
+The claw dropped. It grabbed the green alien by its bulbous head. It lifted. It held.
+
+Plunk.
+
+Freddie reached into the prize chute and pulled out the cheap, neon-green alien. He handed it to Paige.
+
+"For the co-pilot," Freddie said.
+
+Paige took it. She squeezed it, then she squeezed his hand.
+
+"Thanks, Captain."
+
+They turned back to watch their sisters. Sarah had just tripped over her own feet on the rhythm machine, and Jenna was laughing so hard she was crying. Aunt Linda was buying everyone sodas.
+
+"Mission status?" Paige asked.
+
+Freddie looked at the green alien in her hand, and the smile on Jenna’s face.
+
+"Victory," Freddie said.
+

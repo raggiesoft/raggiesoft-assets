@@ -1,0 +1,24 @@
+# Part 15: Echoes on the Line (Summer 2006)
+
+The morning of their final full day began with a quick but heartfelt farewell breakfast at the Leclercs' house. The goodbyes were a long, emotional, and tearful affair, with promises to visit again soon. As they were leaving, Tante Geneviève pulled Megan aside for one last, rapid-fire French lesson, much to everyone's amusement.
+
+"I promise I'll practice!" Megan said, laughing as she gave her a hug. "And we will be back. I love it here."
+
+With their Holt Wayfarer packed, the three of them made their official southbound crossing at the U.S. Port of Entry. The process was professional and efficient, and within minutes, they were back in Derby Line, Vermont.
+
+Instead of heading straight for the interstate, Chloé took a slow, nostalgic drive through the town she knew so well. She pointed out old landmarks, her voice a little softer than usual. She paused for a moment in front of the modest white house that had been her childhood home.
+
+Their last stop was the library. This time, they parked on the American side and walked towards the familiar granite building.
+
+"It feels so weird," Chloé mused, clutching the small bag with their documents. "We have to be so careful to stay on this side of the street. I used to run back and forth across that line on the sidewalk a dozen times a day without thinking about it."
+
+Inside, the library was a quiet sanctuary. They walked to the center of the reading room and stood before the painted black line. With a shared, bittersweet smile, they stepped across it together, from the United States into Canada and back again, enjoying the one place in the world where such a crossing was still a simple, legal pleasure.
+
+As they exited the library a little while later, a U.S. CBP officer approached them, his demeanor polite but official. "Afternoon, folks. Just a quick check. Could I see your travel documents, please?"
+
+Even though they were on American soil and not returning to Canada, they understood. The area around the library was a place of constant, quiet vigilance. Chloé, prepared for this, handed over their U.S. Passports and NEXUS cards. The officer gave the documents a quick, professional review. "Thank you," he said, handing them back. "Have a good day."
+
+They got back in the van, the brief, formal encounter a final reminder of the new rules. As Chloé pulled away from the curb and headed south toward the on-ramp for the interstate, she pointed towards the signs for the next town.
+
+"You know," she said, a note of wistful nostalgia in her voice, "back in the old days, Newport was about as far south as you could go from Stanstead without needing to officially check in with anyone. It was like the edge of the 'one town.' Now, the edge is the door to your own house."
+

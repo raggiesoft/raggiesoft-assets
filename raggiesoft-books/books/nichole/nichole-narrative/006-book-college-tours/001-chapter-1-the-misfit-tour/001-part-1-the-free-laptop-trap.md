@@ -1,0 +1,200 @@
+# Part 1: The "Free" Laptop Trap
+
+## Date: June 16, 2003 Location: 1850 Delaney Street to Glenrock Mall Time: 9:00 AM
+
+The spreadsheet on the Bennett family’s kitchen table at 1850 Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the state.
+
+But for the first stop, they didn't have to leave the Tidewater area.
+
+"TechStream Institute," Tom read from the brochure as he finished his coffee. "Norfolk campus. Says here they have an accelerated Digital Media program."
+
+"And no stairs," Patrick added, securing Nichole’s backpack to the back canes of her purple Titan AeroMotion. "According to the website, the whole place is ground level."
+
+Nichole sat at the table, her hands resting in her lap. She wasn't excited. She was skeptical. A ground-level campus sounded good on paper, but after twelve years in the public school system, she knew that "accessible" usually just meant "we met the bare minimum of the fire code."
+
+She tapped her VocaLink screen. "READY."
+
+"Armor up," Patrick said, unlocking her brakes.
+
+They loaded into the family’s modified accessible van, the heavy hydraulic lift groaning as it raised Nichole up from the concrete driveway.
+
+The drive was short, taking them out of Virginia Beach and across the city line into Norfolk. But as Tom pulled off the highway and navigated toward the address on Glenrock Road, the excitement in the van began to curdle into confusion.
+
+They weren't driving toward a quad with rolling green hills and brick libraries. Tom was turning into the massive, sun-baked asphalt sea of the Glenrock Mall parking lot.
+
+"Is this right?" Patrick asked, looking out the window at a discount shoe store and a dying movie theater.
+
+"This is it," Tom said, parking the van.
+
+There was no need to double-check the map. Standing as an outparcel commercial building in the middle of the parking lot was a flat box of beige stucco wrapped in dark, reflective glass.
+
+Jutting out from the front entrance was a massive, heavy concrete overhang supported by thick, angled pillars. Mounted directly to the face of the stone canopy were bold blue letters that proudly read: TSI TechStream Institute TSI.
+
+"Well," Patrick said, lowering the van ramp. "At least we can get cinnamon rolls at the food court after class."
+
+But as Nichole’s wheels hit the pavement, she saw something that made her pause.
+
+Right at the front entrance, cutting a gentle path up to the double glass doors beneath the giant concrete overhang, was a ramp. It wasn't tucked away in the back near the dumpsters. It was wide, paved with smooth concrete, and lined with sturdy, compliant handrails at the perfect height. It was the most inviting entrance they had seen all year.
+
+Nichole's shoulders relaxed. She looked at Patrick and tapped her armrest twice, waving him off. *I got this.*
+
+She grabbed her push rims and propelled herself up the smooth incline. The grade was perfect. She didn't have to fight gravity; she just rolled right up to the front door, feeling a rare, thrilling moment of total independence. Ellen and Tom exchanged a hopeful look. Maybe a strip mall college wasn't so bad if the infrastructure was this good.
+
+But the accessibility ended at the threshold.
+
+Inside, the lobby smelled like ozone and fresh carpet glue. The lights were harsh fluorescents. There was no student lounge, no library, just a receptionist and a large cardboard cutout of a smiling young man in a hard hat giving a thumbs-up.
+
+They were met by Kyle, an "Admissions Counselor" wearing a suit that was one size too big and a smile that seemed permanently fixed to his face.
+
+"Welcome, welcome!" Kyle beamed, looking at Tom and Ellen, deliberately bypassing Patrick and completely ignoring Nichole in the chair. "You folks picked a great day to tour. We have a promotional intake window closing this afternoon."
+
+## Date: June 16, 2003 Time: 9:15 AM Location: Admissions Office, TSI
+
+Kyle led them down a hallway that was surprisingly narrow. Patrick had to steer Nichole carefully, his knuckles brushing against the cheap drywall to avoid clipping the baseboards.
+
+They were funneled into a windowless conference room. The fluorescent lights buzzed overhead—a high-pitched, electric whine that made Nichole wince. Kyle motioned for them to sit at a laminate table, placing himself at the head.
+
+"Now, the Digital Media and Information Systems program is intense," Kyle began, leaning forward. He spoke loudly, adopting the cadence of a used-car commercial.
+
+"But we set you up for success. In fact, if you sign the enrollment agreement today, Patrick, both you and..." Kyle paused, his smile freezing as he looked down at his yellow notepad. He squinted at his own handwriting. "...Nikki? Nicole. Both of you will walk out today with a brand-new, top-of-the-line laptop. Absolutely free."
+
+The air in the room instantly chilled. Nichole’s eyes narrowed behind her glasses. *Nikki* was Patrick’s word. It was a brother’s privilege, earned through years of shared beds and midnight spasms. Coming from this stranger in a cheap suit, it sounded like a slur.
+
+Kyle didn't notice the glare. He reached beneath the table and produced two heavy, black plastic clamshells, sliding them across the table.
+
+"Everything you need to succeed, pre-loaded," Kyle beamed. He looked over at Nichole's Titan AeroMotion, specifically eyeing the VocaLink screen mounted to her lap tray. The screen was displaying the classic, muted-grey interface of Quantum OS 2000.
+
+"I see the little lady is running some older tech there," Kyle said, tapping the lid of the new laptop. "Quantum OS 2000 is a dinosaur, folks. These new babies come pre-installed with the brand-new Quantum OS XN Home Edition. The interface is beautiful. It makes that old grey screen look like a toaster."
+
+Nichole slapped her lap tray. Hard. *WHAM.*
+
+Kyle jumped slightly in his chair.
+
+*Little lady.* The sheer condescension was suffocating. Nichole reached furiously for her VocaLink screen, ready to blast Digital Dan’s heavy, baritone voice through the room to correct him.
+
+But Patrick was faster. He put a hand on her shoulder.
+
+"I got it, Nikki," Patrick murmured, his voice low and dangerous.
+
+Nichole paused. She looked up at her brother. She made a sharp, aggressive clicking sound with her tongue, glaring at Kyle, but she pulled her hand back from the screen. She would let the engineer handle the execution.
+
+Patrick reached out and flipped the lid on the closest laptop. He booted it up, his eyes scanning the boot screen before opening the system properties.
+
+He didn't smile.
+
+"This has a 500-megahertz budget processor," Patrick said flatly. "And 128 megabytes of RAM."
+
+"Exactly," Kyle nodded, recovering his smile. "Blazing fast."
+
+"It's junk," Patrick corrected, closing the lid with a sharp click. He looked at the recruiter, his face completely deadpan.
+
+"I need to run 3D rendering software and code compilers. This thing would crash if I opened a web browser. And Nichole’s augmentative speech software alone takes up a gig of memory just to run the predictive text matrix. This machine couldn't even load her voice."
+
+It was a complete lie. Nichole's aging 1998 laptop was running Quantum OS 2000 Professional with extreme stability on a fraction of that memory. But Patrick knew that in 2003, 'a gig of memory' was a multi-thousand-dollar request. It was an impossible spec drop designed to instantly kill the sales pitch.
+
+"Plus," Patrick added, his voice dripping with tech disdain, "we don't run 'Home Edition' on our network. My machines run Quantum OS XN Professional, and Nichole’s hardware requires OS 2000 Professional for stability. Home Edition is bloatware. There are no universal legacy ports to mount this to her chair frame, and it lacks the administrative tools we need to configure her head switches."
+
+Kyle’s smile finally faltered. He looked at the wheelchair, then at the fiercely protective brother, and realized he had completely misread the room. He simply pivoted.
+
+"Well, technology is just one piece of the puzzle," Kyle said, his voice dropping to a conspiratorial tone as he looked at Ellen and Tom. "Let's talk about funding. Now, I assume Nichole receives federal SSI benefits. Most of our wheelchair-bound students do. Did you know we can route those checks directly to the bursar's office? You never even have to see a bill. We just take that government money straight from the source to cover the tuition."
+
+The air in the room went completely still.
+
+Tom's jaw tightened. "She's not on SSI."
+
+Kyle blinked, caught off guard. "Oh. Well, surely she has some sort of state income—"
+
+"Neither of them are working right now," Ellen cut in, her voice taking on the dangerous, calm tone she used at IEP meetings. "Because they are eighteen, and we are trying to figure out which state they're even going to be living in for the next four years."
+
+"Right, right," Kyle recovered quickly, waving a hand. "Well, that's fine! Because we can just wrap everything up in a specialized student debt package. And check this out—"
+
+"No, *you* check this out," Tom said, his voice sharp. He was reading the fine print on the back page of the intake packet. "Page four. A twelve-hundred-dollar 'technology fee' is added to the principal of the student loan."
+
+Tom tossed the packet onto the table. "So it's not free. You're financing a five-hundred-dollar laptop for twelve hundred dollars at a predatory six-and-a-half percent interest rate."
+
+Nichole couldn't take it anymore. The buzzing of the fluorescent lights seemed to grow louder, vibrating in her teeth. He wasn't talking to her. He had assumed her financial status based purely on her wheelchair. To this man, she wasn't a student; she was a mark.
+
+She started clicking her tongue against the roof of her mouth. *Click. Click. Click.* A low, continuous hum started in her throat. *Mmmmmmm.* Her shoulders hunched up to her ears, entering Level 3 *Turtle Mode*. She squeezed her eyes shut, her breathing growing fast and shallow.
+
+"Nichole?" Kyle asked, looking annoyed at the interruption. "Is she okay?"
+
+Patrick didn't answer the recruiter. He was already moving.
+
+He abandoned his chair and stepped behind the Titan. He leaned over the back canes, wrapping his arms around Nichole’s shoulders and burying his face in the crook of her neck. He pressed his chest against her back, applying heavy, deliberate deep pressure.
+
+"I got you," Patrick whispered, his voice a low rumble against her skin. "I'm right here. Armor up."
+
+Nichole gasped, her rigid posture melting instantly into the safety of her brother’s weight. She reached up, gripping Patrick's forearm like a lifeline. She didn't need to look at the screen. She was grounded.
+
+Ellen stood up, her purse already slung over her shoulder. The protective steel in her eyes was terrifying.
+
+"We are done here," Ellen said, her voice dropping the temperature in the room by ten degrees.
+
+"But the enrollment window!" Kyle protested, standing up. "You're throwing away their future!"
+
+"We're keeping her future safe from you," Tom said, putting a hand on Ellen's back and guiding her toward the door.
+
+Patrick unlocked the brakes on the Titan. He didn't look back at the "free" laptops. He pushed Nichole out of the windowless room, navigating the narrow hallway with ease, leaving the predatory recruiter and the buzzing lights behind them.
+
+Once they were back in the parking lot, bathed in the real sunlight and the fresh breeze, Nichole let out a long breath. She tapped the armrest twice. *Better.* "Scam," Patrick muttered, looking back at the giant TSI awning.
+
+Nichole reached for her VocaLink screen.
+
+"SLEAZEBALL."
+
+Patrick laughed. "Yeah. Let's go get those cinnamon rolls."
+
+## Date: June 16, 2003 Time: 9:45 AM Location: The Food Court, Glenrock Mall
+
+They walked from the TechStream parking lot directly into the side entrance of Glenrock Mall.
+
+The blast of air conditioning was a relief, but the atmosphere inside was heavy. Glenrock Mall was a relic, a 1970s monolith that was slowly bleeding to death. The skylights were dim, half of the storefronts were gated shut with "For Lease" signs taped to the glass, and the echo of their footsteps seemed too loud.
+
+Patrick pushed the Titan AeroMotion across the scuffed terrazzo tiles toward the food court. The dining area was a sea of empty plastic tables. At this hour on a Saturday, the only thing with its lights on was the cinnamon roll kiosk in the center aisle, emitting a warm, yeasty cloud of sugar and cinnamon.
+
+Tom bought a four-pack of the giant rolls and four cartons of milk. They found a table near the dead center of the court. Patrick parked Nichole, locking her brakes, and used his plastic knife to cut her roll into bite-sized quarters. He slid her the milk, popping the straw in for her.
+
+"Well," Tom said, taking a massive bite of his roll. "That was depressing."
+
+"The laptop or the loan?" Patrick asked, wiping icing from his thumb.
+
+"The guy," Tom said. "I can't believe they can legally operate like that."
+
+Ellen wasn't eating. She was looking past the food court, staring down the long, empty concourse toward the dark anchor store at the far end. The giant metal security grate was pulled all the way down.
+
+"I used to work down there," Ellen said quietly. "Over a decade ago. Back when it was Wellington’s."
+
+Patrick looked down the dim hallway. "The department store?"
+
+"Yeah," Ellen smiled, a nostalgic, slightly bitter expression. "I sold shoes in the Women's Department. Before Kessler’s bought them out and ruined the place. Back then, this mall was the center of the universe. You couldn't find a parking spot on a Saturday. Now look at it."
+
+Nichole looked around the empty court. A lone janitor was pushing a mop near the defunct fountain. It was a ghost town.
+
+"I don't miss the job, though," Ellen said, taking a sip of her coffee. "Shoe sales were strictly commission. If you didn't sell, you didn't eat. I remember the panic at the end of the month, trying to upsell insoles to little old ladies just to make rent. It makes people desperate. It makes them predatory."
+
+She looked back at the glass doors leading out to the parking lot, where the TechStream building sat like a vulture. "That guy Kyle today? He had that same look in his eyes. He's on commission. Nichole wasn't a student to him. She was just a quota."
+
+Nichole stopped chewing. She looked at her mother, feeling a surge of affection. Ellen always saw the machinery behind the curtain.
+
+Nichole tapped her VocaLink screen.
+
+"SMART. MOM."
+
+Ellen reached across the table and squeezed Nichole’s hand. "We aren't going to let anyone treat you like a quota, baby. You and your brother are going to a real school. A place with professors who actually care about your brains."
+
+Tom swallowed the last of his roll and pulled the color-coded spreadsheet from his jacket pocket, smoothing it out on the table. "Well, good news. The next school on the list is a palate cleanser, and we don't even have to get on the highway."
+
+Patrick leaned over to look at the list. "Atlantic Coast Polytechnic?"
+
+"The main campus is right over on Greenwich Road in Virginia Beach," Tom said, checking his watch. "It's literally a five-minute drive from where we are sitting right now. Our tour is at ten-thirty."
+
+Nichole tapped her screen. "REAL. COLLEGE?"
+
+"It's nationally accredited," Ellen said, reading from her notes. "Four-year degrees, legitimate tech programs, and a dedicated student services department. It's strictly business and tech, but it's a real school."
+
+Patrick stood up. The sugar was hitting his system, and the oppressive feeling of the TSI windowless room was finally fading. He grabbed the push handles of the Titan.
+
+"Armor up," Patrick said. "Let's go see if Atlantic Coast has better laptops."
+
+Nichole tapped her armrest twice. *Let's roll.* They navigated out of the dying mall, leaving the ghosts of retail past behind, ready to make the five-minute drive across the city line to Greenwich Road.
+

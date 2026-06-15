@@ -1,0 +1,102 @@
+# Part 10: The Flight Plan
+
+## Sunday, May 9, 2004 — 21:30 PM (PST) The Cascade Suites, Room 412
+
+The episode of *The Local* ended, the piano notes fading into the hum of the air conditioner. The dinner plates were stacked on the nightstand. The city outside was dark, but inside the "Silo," the lighting was warm and low.
+
+"Shutdown sequence," Jessica whispered, turning off the TV.
+
+They prepared for sleep. There was no hesitation, no modesty. In the aftermath of the meltdown, clothes felt like barriers—layers of friction that prevented the necessary data transfer of heat and safety. They stripped down, leaving their clothes in piles on the floor, and climbed into the massive King bed.
+
+The configuration was absolute.
+
+Freddie lay in the center. He was exhausted, his body heavy and limp, but his eyes were alert. He watched his sisters settle in.
+
+Jessica took the left flank. She lay on her side, pressing her back against his, creating a solid wall between him and the door.
+
+Paige took the right flank. She curled into him, draping her leg over his thighs to pin him down, resting her head on his shoulder. She wrapped her arm across his chest, her hand finding Jessica’s hand in the dark. They interlaced their fingers over his heart, locking him in.
+
+"We've got you," Paige whispered, her breath warm against his neck. "Defenses are down. No armor. Just us."
+
+Freddie let out a long, shaky breath. He felt the skin-to-skin contact—arms, legs, ribs. It wasn't just warmth; it was verification. *They are real. They are here.*
+
+Paige closed her eyes, listening to his heart rate slow down. This was her favorite moment. It wasn't the sightseeing or the jokes; it was this. The moment when the tension left his body. If she could wake up tomorrow morning and know that he had slept through the night—that the night terrors hadn't found him—that would be the greatest victory of her life.
+
+*Sleep,* she willed him silently. *Just sleep.*
+
+But Freddie tapped her arm. *Tap-tap.*
+
+He pointed to the nightstand where Jessica’s laptop sat charging.
+
+"You want the computer?" Jessica asked, lifting her head.
+
+Freddie nodded. He opened his mouth to explain, but his throat clicked. The mutism was still holding the line. He pointed to his head, then to the machine. *Input required.*
+
+Jessica reached over and grabbed the **MagnaByte**. She opened it and set it on his stomach, resting it against his bent knees.
+
+Freddie opened **Quantum Word**. The screen glowed white in the dark room.
+
+He began to type. His fingers were slow, but deliberate.
+
+MISSION PLANNING: MONDAY
+
+He looked at them.
+
+VECTOR: NORTH.
+
+"North?" Paige asked, reading over his shoulder. "Why north?"
+
+Freddie typed.
+
+VANESSA'S AUNT = KENT. KENT = SOUTH. SOUTH IS COMPROMISED. NORTH IS CLEAN DATA.
+
+Jessica nodded, her expression fierce. "Logic is sound. We go North. What’s the target?"
+
+Freddie minimized the document and opened the web browser. He navigated to a map of the region north of Seattle—Snohomish County.
+
+He found it. A massive gray footprint near an airfield in Everett.
+
+**The Aerospace Assembly Plant.**
+
+He clicked the link. *The largest building in the world by volume. Home of the 747.*
+
+He typed again.
+
+AEROSPACE FACTORY. SYSTEMS TOUR. I WANT TO SEE THE MACHINE.
+
+"Airplanes," Jessica smiled. "Big ones. That works. We can drive the rental car up I-5."
+
+Freddie shook his head. He deleted the text.
+
+NEGATIVE. TRANSPORT MODE: BUS.
+
+Paige stiffened against his side. "Freddie... are you sure? After... everything?"
+
+Freddie looked at her. He saw the worry in her blue eyes. He typed fast, the keys clacking softly.
+
+PATHFINDER = PRISON. TAPS = FREEDOM. I NEED TO RECLAIM THE CODE. I NEED TO RIDE A BUS WITH THE UNIT.
+
+He looked at them. It was the only way to delete the trauma. He had to replace the memory of the old dog from hell with a memory of a clean bus ride with his sisters. He had to prove to himself that the vehicle wasn't the enemy.
+
+"You want to overwrite the file," Jessica realized.
+
+Freddie nodded.
+
+"Okay," Paige said, squeezing him tighter. "We take the bus. We take the commuter express from downtown. We hold your hand the whole way."
+
+Freddie smiled. He typed one last line.
+
+THANK YOU. END OF LINE.
+
+He closed the laptop. Jessica set it on the floor.
+
+The room went dark again.
+
+"We're going North," Jessica whispered into the silence. "Away from her. Away from the south."
+
+"And we're never leaving you," Paige promised, kissing his cheek. "I don't care if we have to move to the North Pole. We stick together. Always."
+
+Freddie closed his eyes. He imagined the massive factory. He imagined the bus ride. But mostly, he felt the weight of his sisters holding him down, keeping him safe from the gravity of the past.
+
+He slept. And for the first time in four days, he didn't dream of the road.
+

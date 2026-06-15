@@ -1,0 +1,48 @@
+# Part 2: The Red Flag
+
+## Tuesday, June 24, 2003 02:15 AM
+
+The Silo was silent. The air conditioner hummed its steady, protective white noise. On the King Bed, the formation was holding. Freddie lay in the center, flanked by Jessica on his left and Paige on his right. The room was cool, the blackout curtains sealing them in a timeless dark.
+
+Paige shifted. It wasn't a normal sleep movement. It was a sharp, sudden jolt. She sat up, gasping softly. Her hand went to her thigh. "Oh," she whispered. "Oh no."
+
+Freddie woke up instantly. The sudden movement next to him triggered his proximity sensors. "Paige?" he mumbled, his voice thick with sleep. "Status?"
+
+Paige was already scrambling out of bed. She moved fast, her feet hitting the floor with urgency. In the faint light filtering from the streetlamp outside, Freddie saw her check her leg. There was a dark smear on her upper thigh. Blood.
+
+The "Robert Virus" surged. *Injury. Attack. Danger.* Panic spiked in his chest. His breathing hitched. "Paige!" he gasped, sitting up. "You are bleeding!"
+
+"I'm fine!" Paige hissed, rushing toward the door. "Just... bathroom. Go back to sleep." She disappeared into the hallway, closing the bathroom door with a click.
+
+Freddie couldn't go back to sleep. The image of the blood on her skin was burned into his retinas. He turned to the left. He shook Jessica’s shoulder. "Jessica. Wake up. Emergency."
+
+Jessica groaned, rolling over. "What? What time is it?" "Paige is bleeding," Freddie said, his voice rising in pitch, the vibration of panic starting in his hands. "She stood up and there was blood. She ran to the bathroom. Is she injured?"
+
+Jessica was awake in an instant. She sat up, scanning the bed. She checked the sheet where Paige had been sleeping. It was clean. No transfer. "Okay," Jessica said, her voice dropping to a calm, command-level register. She put a hand on Freddie’s chest to steady him. "Freddie, listen. She isn't injured. She didn't cut herself."
+
+"I saw the blood," Freddie insisted, pointing at his own leg to indicate the location. "Femoral artery location. High volume risk."
+
+"No," Jessica said firmly. "It’s her cycle, Freddie. Her period." Freddie froze. "Period?" "Menstruation," Jessica clarified. "Remember the textbook? Chapter 4? The shedding of the uterine lining?"
+
+Freddie blinked. The data from yesterday’s reading session loaded into his RAM. *Uterus. Endometrium. Monthly cycle. Bloody discharge.* The panic wavered. It wasn't trauma. It was a function. "But... it is messy," Freddie whispered. "It looks like injury."
+
+"It does," Jessica agreed. "But it is just biology. She woke up because she felt it start. She’s in the bathroom taking care of it before it stains the sheets. That was a close call."
+
+The bathroom door opened. Paige walked back in. She wasn't nude anymore. She was wearing a pair of black cotton panties. She walked to the bed, looking tired but relieved. "Clear?" Jessica asked. "Clear," Paige confirmed, climbing back in. "Caught it just in time. No breach on the bedding."
+
+She settled back into her spot on Freddie’s right. Freddie looked at her. He looked at the black panties. "Status?" Freddie asked, his voice still trembling slightly. Paige offered a tired, reassuring smile. "Status is Red, Freddie. Literally. It’s just that time of the month." She saw the fear still lingering in his eyes. She took his hand and placed it on her stomach, right over her belly button. "I am not hurt," she promised. "My body is just doing a system reset. It’s annoying, and tomorrow it’s going to hurt, but I’m okay."
+
+Freddie felt the warmth of her skin. He felt the steady rise and fall of her breathing. *Not trauma. Maintenance.* "Pain levels?" he asked. "Zero right now," Paige said. "But Day Two is usually the bad one. I might need the **Cycle-Ease** and the heating pad tomorrow." "And pressure," Jessica added from the other side. "Don't forget the squeeze."
+
+"I can provide pressure," Freddie stated immediately. The mission parameters had changed from 'Rescue' to 'Support.' He could do Support. "I know," Paige whispered. "That’s why you're the best."
+
+She pulled the sheet up. "Panties are mandatory for the next five days," she noted. "Containment protocol." "Understood," Freddie said. "Hygiene standard."
+
+He lay back down between them. Jessica draped her arm over him again. Paige snuggled close, her head back on his shoulder. The black cotton barrier was there, but the warmth was the same. The fear evaporated. It wasn't a crisis. It was just life. And now that he knew what it was—now that he had seen the reality of it without the shame—he didn't have to be scared.
+
+"This is why we need the doctor in Riner," Paige mumbled into his shoulder, her eyes already closing. "Get on the shot. Stop the bleeding." "Efficiency," Freddie whispered. "Upgrade the system."
+
+"Sleep," Jessica commanded gently. "Sleep," Freddie agreed. He closed his eyes. The King Bed held them all—the biology, the anxiety, and the safety of the truth.
+
+Here is Part 3 of the narrative, detailing the trip to Riner and the medical appointments.
+

@@ -1,0 +1,62 @@
+# Part 7: The Blind Spot – Friday, October 21, 2044 – ~08:00 (During the one-hour meal rotation)
+
+The "scenic route" through the abandoned filtration sectors led them away from the deafening thud of the deep-core drills and into the forgotten veins of the facility. Wyatt kept Sarah’s hand securely wrapped in his, pulling her slightly ahead of him as they navigated a narrow, rusted access corridor.
+
+Their twelve-hour shift schedule dictated a mandatory, unpaid one-hour meal rotation. Wyatt pushed open a heavy, unlatched blast door, the rusted hinges screaming in protest.
+
+He stepped inside, pulling Sarah in behind him. It was an old, decommissioned break area that looked like it hadn't seen a S.H.O.P. Marine in years. The air was thick with undisturbed, pale Nevada dust. In the center sat a small, cracked vinyl sofa flanked by a flickering, humming vending machine.
+
+But the most important detail was bolted to the ceiling in the corner. Wyatt shone his heavy Mark-IV flashlight upward. The automated security camera was completely dead, its red tracking light dark, the main power cable hanging by a single frayed wire.
+
+"We're blind," Wyatt told her, a low thrill of defiance in his voice. "No trackers, no cameras. For the next hour, Apex doesn't own us."
+
+Sarah let out a breath she didn't realize she was holding. They both walked over to the small, neglected sofa in the secluded corner of the room.
+
+As they sat down, the physical space between them vanished entirely. Their knees brushed. Their shoulders pressed together. The adrenaline of the patrol and the creeping dread of the failing facility were suddenly eclipsed by something entirely different. Neither of them was hungry. Wyatt's stomach was tied in a knot of electric, undeniable anticipation. The butterflies were overwhelming.
+
+In a corporate panopticon where every breath was monitored, they were both suddenly hyper-aware of the absolute privacy of this room. Wyatt looked at her, his eyes dropping to her lips, wondering exactly how far he could push this rebellion without the world crashing down on them.
+
+Sarah was wondering the exact same thing. She looked up at him, the neon glow of the vending machine catching the nervous, excited flutter of her eyelashes. She didn't wait for him to decide. She leaned in, closing the final inch between them.
+
+Their lips met in a tentative, exploring kiss. It was soft at first—a testing of the waters, a fragile question asked in the dark. But the second Wyatt felt her mouth against his, a spark ignited into a wildfire. All the built-up tension, the trauma of the hellhole, and the fierce, protective bond they’d forged over the last thirty-six hours completely boiled over.
+
+Wyatt slid his taped hand to the back of her neck, pulling her flush against his chest. Sarah gasped softly into his mouth, her hands gripping the front of his abrasive black uniform, anchoring herself to him. The kiss deepened instantly. He parted her lips, his tongue meeting hers in a rush of heat and desperate, overwhelming passion. It was messy, breathless, and absolutely amazing. In a facility designed to strip away every ounce of humanity, tasting her, feeling her respond to him with just as much intensity, was the most fiercely human thing he had ever experienced.
+
+He kissed her until his lungs burned, the taste of ozone and adrenaline mixing with the sheer euphoria of the moment.
+
+When he finally pulled back just enough to breathe, he wrapped both arms around her in a crushing, desperate hug. She buried her face into his neck, her arms locked tightly around his torso. They held each other for a long time, the silence of the abandoned room wrapping around them like a shield.
+
+"Mine," Wyatt whispered fiercely against her hair, cementing the reality of what just happened. "You're my girlfriend. Officially. Management doesn't need to know, but you're mine."
+
+Sarah pulled back just enough to look him in the eyes, her face radiant in the dim light. The frightened rookie was completely gone, replaced by a woman entirely devoted to the man holding her.
+
+"I love you, Wyatt," she said, the words breathless but filled with an absolute, unwavering certainty.
+
+"I love you too, Sarah," Wyatt replied, his thumb gently tracing her jawline. It was incredibly fast, born in the pressure cooker of a corporate nightmare, but it was the most real thing he'd ever felt.
+
+Eventually, the practical reality of their twelve-hour shift set back in. They both realized they needed the energy to survive the rest of the day. Wyatt stood up, reluctantly breaking the embrace, and walked over to the rusted vending machine. He swiped his Apex ration card, fully expecting an error code.
+
+Surprisingly, the machine clunked loudly and dispensed two foil-wrapped nutrient blocks. He checked the stamped text—somehow, it wasn't past its expiration date yet.
+
+He handed her a block and sat back down on the small vinyl sofa. Sarah immediately closed the distance, pressing her side flush against his. He wrapped his broad arm securely around her shoulders, and she completely melted into his side, resting her head on his chest as they both tore into the synthetic food.
+
+Wyatt looked down at the stark contrast of their clothing—the heavy, dark hazard-plating of his S.H.O.P. Marine armor pressed directly against the crisp, bright fabric of her slate-blue Helios uniform. He didn't care what she was wearing, and she clearly didn't care about the intimidating mercenary shell he was wrapped in. But the reality of the facility outside that door still loomed over them.
+
+"Listen to me," Wyatt said softly, his chin resting near the top of her head. "In here, we're just us. I don't care that you're in Helios colors, and you know exactly who I am under this armor. But the second we step back out of this dead zone—especially when we hit the Security Checkpoint or walk through the Mess Hall—we have to put the masks back on. I *have* to play the part of the dead-eyed S.H.O.P. veteran who couldn't care less about an acquisition transfer. If they see how much I care about you, they'll separate us."
+
+"I know," Sarah murmured, her hand resting flat against his chest, feeling the steady, reassuring beat of his heart. "Play the part. We're safe as long as they think we're strangers."
+
+As she ate, leaning against the solid, warm wall of his chest, a profound realization settled over Sarah. This was her first real boyfriend. This was the first time she had ever felt genuine, romantic love for anyone. The deep-core drills could crack the planet in half, the Apex executives could burn to the ground, and she wouldn't care as long as he was holding her. She realized, with absolute clarity, that she unconditionally loved him, and she never, ever wanted to be separated from him again.
+
+The hour burned away too fast. Wyatt's PDA vibrated against his hip—a silent five-minute warning before they were flagged for a missed patrol checkpoint.
+
+They both stood up, brushing the dust off their uniforms. They looked at each other, the professional corporate masks sliding back into place. But before he stepped out of the blind spot, Sarah grabbed the heavy lapels of his utility shirt.
+
+She pulled him down for one last, deeply romantic kiss. Her tongue slipped past his lips, a hot, lingering promise of what was waiting for him when the shift was over and they returned to Bunk 42-C. Wyatt wrapped his arms around her waist, lifting her slightly off the rusted floor in one final, tight hug.
+
+"Okay," she whispered, her boots touching back down. She smoothed out the front of her uniform, her eyes shining. "Let's go finish this patrol."
+
+"Right behind you," Wyatt told her.
+
+He pushed open the heavy blast doors, their flashlights clicking back on. They stepped out into the corridor, pretending to be nothing more than two isolated, minimum-wage contractors walking the line. But under the harsh fluorescent lights of Sector 4, their hands still brushed together with every step.
+

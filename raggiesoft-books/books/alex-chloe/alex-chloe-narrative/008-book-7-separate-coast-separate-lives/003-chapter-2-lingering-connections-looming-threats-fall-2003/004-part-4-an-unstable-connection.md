@@ -1,0 +1,12 @@
+# Part 4: An Unstable Connection
+
+Vera's campaign of isolation was subtle but relentless. The cherished nightly video calls with Chloé, once a sacred, protected ritual, became a new battleground.
+
+If Alex was at Vera's apartment, she would invent reasons why the call couldn't happen. "Oh, sweetie, the internet is acting up tonight," she'd say with a dismissive wave of her hand. Or, "I was really hoping we could just have a night to ourselves, Alex. No distractions."
+
+When he was at his own home, she would often "coincidentally" call his cell phone right in the middle of his video call with Chloé, creating a jarring interruption he couldn't ignore. The calls that did happen were often strained, with Vera hovering just off-camera, her presence a silent, judgmental weight that made it impossible for Alex to speak freely.
+
+From her dorm room in Lynnwood, Chloé saw it all. She saw the new, constant tension in Alex's shoulders. She saw the way his eyes would dart nervously off-screen. She saw how their easy, flowing conversations had become stilted and guarded. She knew, with a certainty that made her heart ache with a cold, helpless anger, that Vera was deliberately sabotaging their connection. But she refused to give up. She kept calling, kept her tone light and cheerful, kept being the steady, reliable presence she had always been, a quiet, digital promise that she was still there, waiting for him.
+
+Alex, for his part, clung to these fractured connections like a lifeline. Each call, however strained, was a reminder of the safety and unconditional love that was waiting for him. He was miserable, he was scared, but he had a plan. He just had to hold on until Christmas break. When Chloé came home, when they were all together, he would find the courage. He would ask his parents, and Chloé, to help him. He would finally, finally, end things with Vera. He just had to survive until then.
+

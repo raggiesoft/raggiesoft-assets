@@ -1,0 +1,14 @@
+# Part 1: A Quiet Hurt (Winter 2002)
+
+The winter semester of their senior year had settled into a familiar, if still slightly uncomfortable, rhythm. The ninety minutes of 4th period on Purple Days, when Alex was in AP Computer Science and Chloé was in AP French, remained a weekly challenge for them both, a small taste of the much larger separation to come. But over the months, Alex had found a quiet, steady anchor in that class: his friend, Hannah Peterson.
+
+Their friendship was a simple, uncomplicated thing. They were both serious students who loved the logic of coding. They would often work together on complex problems, their communication a mix of Alex's precise, typed-out code on his AAC and Hannah's thoughtful, verbal suggestions. Chloé, who had come to trust Hannah completely, was grateful that Alex had found a kind, respectful friend to help him navigate the one class they didn't share.
+
+One Tuesday in December, Alex wheeled into the computer lab and immediately knew something was wrong. He navigated to his usual reserved workstation at the end of a row, a spot with extra space that the school had designated for him. Hannah Peterson was already seated at the desk right next to his, but she wasn't reviewing her notes. She was staring blankly at her dark monitor, her shoulders slumped, her eyes red-rimmed and puffy. She looked like she had been crying.
+
+The teacher, Mr. Davies, gave Alex a familiar, friendly nod as he settled in. The class was an introductory C++ course. While most students were still writing simple console applications where all the code was stuffed into a single void main() function, Hannah was already a step ahead, comfortably writing her own functions, prototypes, and classes. Alex, however, was in a different league entirely. He had been building complex, multi-file QFC (Quantum Foundation Classes) applications with graphical user interfaces in his Quantum Studio 6.0 environment since he was a sophomore. For him, this class was less about learning and more about patiently demonstrating a mastery he had already possessed for years.
+
+The teacher started the lecture, but Alex's attention was fixed on his friend. He watched as she tried to take notes, her hand occasionally pausing to discreetly wipe a tear from her cheek. The usual quiet confidence she brought to the class was gone, replaced by a fragile, heartbreaking sadness.
+
+He knew, with a certainty born from his own experiences, that this wasn't the kind of hurt you could fix with a line of code.
+

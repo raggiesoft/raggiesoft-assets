@@ -1,0 +1,208 @@
+# Part 3: The New Jersey Layover
+
+## Date: July 1, 2003; Time: 2:15 PM; Location: John Fenwick Service Area, New Jersey Turnpike (Northbound)
+
+The transition from Delaware to New Jersey was marked by the massive twin steel arches of the Delaware Memorial Bridge. As the Liberty Trekker crested the span and descended the other side, they landed on the New Jersey Turnpike.
+
+The vibe changed instantly.
+
+In Virginia, highway driving was polite. In Delaware, it was slow. Here, it was combat.
+
+The lanes were narrower, the concrete was rougher, and the cars were driving faster, tailgating closer, and weaving tighter than anything in Tidewater.
+
+"Welcome to the Turnpike," Tom announced, gripping the wheel with both hands as a sedan cut across three lanes to make an exit. "We need a pit stop before we hit the heavy industrial traffic north of here."
+
+A mile later, they saw the sign for the John Fenwick Service Area.
+
+To Patrick and Nichole, a "rest stop" in Virginia meant a quiet brick building with a vending machine and a few picnic tables under a pine tree.
+
+This was not that.
+
+They pulled into a sprawling asphalt complex that looked more like an international airport terminal than a roadside stop. The parking lot was jammed with cars, buses, and semi-trucks.
+
+"It's a city," Patrick muttered, looking out the window at the swarm of people moving toward the main building.
+
+Tom parked in a handicapped spot near the entrance. "Okay, standard drill. Bathroom, food, then we get gas on the way out."
+
+Patrick slid the side door open and lowered the hydraulic lift. The humidity of the Turnpike was heavy, smelling of diesel fumes, frying oil, and swamp water.
+
+Patrick rolled Nichole onto the asphalt. Her purple chair—with the heavy VocaLink laptop mounted on the front—looked sleek and alien compared to the battered station wagons surrounding them.
+
+They navigated the crowded sidewalk to the entrance. Inside, the noise was a physical wall—the roar of a thousand travelers ordering burgers, pizza, and coffee.
+
+"Bathroom first," Patrick shouted over the noise. "Family restroom is usually near the back."
+
+They found it—a single, large door marked with the wheelchair symbol. It was locked.
+
+Patrick didn't hesitate. He knocked loudly, then waited. A moment later, a father with a toddler emerged, looking apologetic.
+
+Patrick rolled Nichole inside and locked the deadbolt. The sudden silence of the private room was a relief.
+
+"Okay," Patrick said, his voice echoing off the tile. "Transfer time."
+
+He parked the chair. He lifted her from the seat, his movements practiced and efficient, ignoring the unfamiliar setting. This was the one constant in the chaos: the machine always worked the same way, whether they were at home or at a turnpike rest stop.
+
+When they were done, he washed his hands and helped her adjust her shirt.
+
+"Food?" Patrick asked, drying his hands.
+
+Nichole’s eyes lit up. The smell of grease from the hallway was intoxicating. She hadn’t eaten since the bridge tunnel.
+
+She tapped her armrest vigorously. *YES.*
+
+But then she flinched. Someone outside dropped a tray, the crash echoing loudly. The noise level in the main hall was rising—screaming kids, shouting order numbers, the hum of refrigerators.
+
+Patrick saw the flinch. He reached into the backpack hanging off the back of her chair.
+
+"Ears," he said simply.
+
+He pulled out her heavy-duty, noise-canceling earmuffs—the kind construction workers wore. He handed them to her.
+
+Nichole slipped them over her head.
+
+*Snap.*
+
+The roar of the crowd dulled to a distant, underwater hum. The chaos was still there visually, but the sonic weapon had been neutralized. She adjusted the padded cups over her ears and smiled.
+
+She pointed to the door. *Let’s eat.*
+
+## The Fueling Station
+
+They rolled back into the food court. With her ears protected, Nichole navigated the crowd like a pro, weaving through the lines of people.
+
+They chose Metro Burger, the biggest, loudest counter in the place.
+
+Tom ordered a tray of "Turnpike Doubles"—greasy cheeseburgers wrapped in foil—and a mountain of fries. They found a table near the window.
+
+Nichole took a bite of the burger. It was salty, fatty, and perfect. She ate with the focused intensity of a teenager on a road trip, dipping her fries into a puddle of ketchup while the world rushed by outside the window.
+
+"Good?" Patrick asked, shouting slightly so she could hear him through the muffs.
+
+Nichole gave a thumbs up, her mouth full. This was better than a quiet picnic table. This was traveling.
+
+## The Full Service Shock
+
+Twenty minutes later, fed and hydrated, they loaded back into the van.
+
+"Alright, fuel and fly," Tom said, wiping crumbs from his shirt and putting the van in gear.
+
+He drove toward the exit of the service area, where a massive bank of gas pumps stood waiting like toll booths.
+
+As Tom pulled up to a pump, Patrick’s muscle memory kicked in. Being the co-pilot, it was his job to pump the gas while Dad checked the oil or cleaned the windshield.
+
+Patrick unbuckled his seatbelt and reached for the door handle.
+
+"Whoa, hold on," Tom said sharply. "Stay in the van."
+
+Patrick froze, his hand on the latch. "What? I'm just getting the gas."
+
+"Not in Jersey, you're not," Tom grinned, putting the van in Park but leaving the window rolled down. "Watch."
+
+Patrick looked out the window. A man in a blue jumpsuit was already walking briskly toward them. He didn't look like he wanted to chat.
+
+"Fill 'er up?" the attendant asked, leaning into Tom’s window.
+
+"Regular, please. Fill it," Tom said, handing the man his credit card.
+
+The attendant took the card, swiped it on the pump, opened the fuel door, unscrewed the cap, and inserted the nozzle. He engaged the lock and walked away to the next car without a word.
+
+Patrick watched the process with wide eyes, feeling a strange mix of confusion and offense.
+
+"He just... does it?" Patrick asked. "You aren't even allowed to get out?"
+
+"It's the law here," Ellen explained from the passenger seat. "No self-service. You sit, they pump. If you touch the nozzle, you can get fined."
+
+Nichole tapped her screen.
+
+*LAZY.*
+
+"It's not lazy, it's 'Full Service,'" Tom laughed. "Enjoy the luxury while it lasts, kids. In Virginia, you gotta work for your fuel."
+
+The pump clicked off. The attendant returned, replaced the cap, and handed the card back through the window.
+
+"Have a safe one," the man grunted.
+
+Tom rolled up the window.
+
+"Okay," Tom said. "Tank full. Next stop: Highland Park."
+
+## Date: July 1, 2003 (Tuesday - Two days before the Putney Open House) Time: 3:30 PM Location: New Jersey Turnpike (Northbound near Exit 6)
+
+They merged back onto the highway. For the first twenty miles, it was the same two-lane road they had entered on.
+
+But then, as they approached Exit 6, the world expanded.
+
+The highway didn't just add a lane; it duplicated itself.
+
+Overhead, massive green signs spanned the width of the road:
+
+CARS ONLY LEFT LANES
+
+CARS - TRUCKS - BUSES RIGHT LANES
+
+"Whoa," Patrick said, leaning forward between the front seats. "Dad, look at that."
+
+The road had become a twelve-lane behemoth—a 3-3-3-3 configuration. The inner roadways were reserved strictly for passenger cars, completely separated by concrete barriers from the outer roadways where the 18-wheelers roared.
+
+"We're taking the express," Tom announced, steering the van into the left fork toward the "Cars Only" lanes.
+
+Suddenly, the menacing wall of semi-trucks vanished. They were speeding along a smooth, three-lane highway surrounded only by other cars. To their right, over the jersey barrier, they could see the tops of the massive trucks chugging along in their own segregated world.
+
+"That is brilliant engineering," Patrick marveled. "Why don't we have this in Virginia? It separates the variables. It maximizes flow."
+
+Nichole looked out the window at the trucks trapped on the other side of the wall. She tapped her armrest. *Smart.*
+
+## Date: July 1, 2003 (Tuesday - Two days before the Putney Open House) Time: 4:00 PM Location: 17 South 10th Ave, Highland Park, New Jersey
+
+The first leg of the trip north took seven and a half hours. By the time the Bennett van pulled onto South 10th Avenue in Highland Park, Nichole’s legs were vibrating with spasticity from the relentless road vibration.
+
+Ellen’s sister, Aunt Carol, was already standing on the front lawn waving as Tom parked at the curb.
+
+Carol’s house was a charming, historic two-story home. It also had four steep concrete steps leading up to the front porch, a narrow front door, and a first-floor bathroom that Patrick couldn't even fit his shoulders into, let alone a custom wheelchair.
+
+It was completely inaccessible.
+
+"I made ziti!" Carol announced, hugging Ellen through the passenger window. She walked to the back of the van as Patrick lowered the hydraulic lift. "Oh, look at my big high school graduates!"
+
+"Hey, Aunt Carol," Patrick smiled, rolling Nichole down the ramp and onto the New Jersey sidewalk.
+
+Nichole offered a tired smile. She loved her aunt, but the physical reality of the house meant their visit was strictly an outdoor affair.
+
+Carol had set up a folding table in the driveway. It was their standard protocol for New Jersey visits. They ate baked ziti off paper plates in the driveway while the late afternoon sun began to dip behind the tree line.
+
+"So, Vermont tomorrow," Carol said, pouring more iced tea. "Putney College. Are we excited?"
+
+Nichole looked at her ziti. She was too tired to be excited. Her back ached, and her hip flexors were locked tight.
+
+"We're cautiously optimistic," Tom said diplomatically. "It’s a specialized campus. But we have some concerns about the living arrangements."
+
+Carol nodded, pointing across the river. "Well, if it doesn't work out, Raritan State University is right across the water in New Brunswick. It’s a massive state school, but it's completely flat. They have a great bus system, too."
+
+Ellen looked at Tom. The color-coded spreadsheet was still in the van. "Raritan State," Ellen mused. "That wasn't on our radar."
+
+"Let's put it in our back pocket," Tom said, looking across the river toward the university skyline. "If Vermont is a bust tomorrow, we can tour Raritan State on the drive home Thursday. Add it to the list of 'normal' schools."
+
+"We're looking at Virginia Dominion, too," Patrick added, cutting a piece of pasta for Nichole. "It's close to home. And we could get an apartment."
+
+"An apartment!" Carol gasped, looking at Ellen. "Just the two of them? Oh, Ellen, my stomach is in knots just thinking about it."
+
+"You and me both," Ellen sighed.
+
+By 6:00 PM, Nichole’s posture was sagging. She was starting to hum softly, the first sign of *Turtle Mode* exhaustion. Patrick caught the signal instantly.
+
+"Alright," Patrick said, standing up and brushing off his jeans. "We need to get her horizontal. Skin check time."
+
+"Of course, of course," Carol said, already packing up the leftovers into Tupperware for them. "You guys get some rest. It was so good to see you."
+
+Patrick and Tom loaded Nichole back onto the hydraulic lift. The whine of the motor seemed exceptionally loud in the quiet neighborhood. Once she was secured inside, Tom put the van in gear.
+
+They pulled away from the historic, inaccessible house and merged onto State Route 27.
+
+The sunset was casting long, orange shadows as they drove onto the Albany Street Bridge, crossing the wide expanse of the Raritan River. Out the passenger windows, the brick and glass skyline of Raritan State University loomed over the city of New Brunswick.
+
+Nichole looked at the campus through the van window. It looked huge. It looked real.
+
+"Get ready to crash, troops," Tom said from the driver's seat, signaling for the turn toward their hotel. "We have 230 miles to go tomorrow. With rest stops, that’s another six hours in the van."
+
+"Six hours is nothing," Patrick said, reaching over to squeeze Nichole's hand as they rolled into the hotel parking lot. "We can do six hours."
+

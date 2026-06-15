@@ -1,0 +1,67 @@
+# Part 10: The Fallen Hierarchy – Saturday, October 22, 2044 – ~17:30
+
+Wyatt pulled Sarah into the shadows of Sector 1's outer ring, leaving the chaotic, overflowing mess of Barracks 4 far behind them. The route back to the abandoned filtration banks required threading a very precise needle through the facility's blind spots, dodging the sweeping arcs of the few remaining security cameras.
+
+But as they navigated the dim, neglected maintenance corridors, Wyatt realized they weren't the only ones who knew the dormitories were a death trap.
+
+He held up a hand, pausing at the edge of a humming server hub. He pulled Sarah flat against the cold concrete bulkhead.
+
+Down the narrow access hallway, huddled in the cramped spaces between the rusted exhaust vents and dormant machinery, were bodies. Dozens of them. Contractors who couldn't find an inch of floor space in the barracks had simply given up, curling into the fetal position on the hard grating, using their canvas duffel bags as pillows.
+
+But that wasn't what made Wyatt's blood run cold.
+
+Mixed in among the drab gray and black uniforms were flashes of pristine white. Wyatt narrowed his eyes in the low light. They were low-level Apex scientists and technicians. Men and women who, just forty-eight hours ago, were sitting in ergonomic chairs in Sector 2, drinking machine-brewed coffee and looking down at the grunts through soundproof glass.
+
+Now, they were shivering on the same freezing floorboards, clutching their datapads like shields. The executive elevators were still locked. The corporate hierarchy had completely collapsed.
+
+Sarah peeked around his shoulder, taking in the sight. Her grip tightened on his arm.
+
+Wyatt remembered the realization he'd had on their very first patrol, listening to those panicked researchers through the cracked lab door. He had known then that the scientists were just as expendable as the S.H.O.P. Marines, and that Apex had simply bought their silence with better chairs. Now, the company had taken the chairs away, too.
+
+"They're just like us," she whispered, the reality of Apex's absolute ruthlessness fully setting in. "The lab coats didn't protect them. Management just locked them down here with the rest of the inventory."
+
+"Nobody is coming to save them," Wyatt replied quietly, stepping back into the shadows and guiding her down an alternate corridor. "Keep moving. We're almost there."
+
+The sight of the broken scientists acted as a massive accelerant. The desperate hope that no one had stumbled across their hidden nest burned in Wyatt's chest. He moved with absolute, silent precision until the heavy, rusted blast door of the abandoned break area finally loomed ahead in the dark.
+
+Wyatt held his breath, gripping the latch. If a desperate group of contractors had found the room while they were gone, their sanctuary was compromised. He heaved the door open and shone his Mark-IV flashlight inside.
+
+The beam cut through the undisturbed dust. The cracked vinyl sofa was empty. The dead vending machine was still humming its low, lonely tune.
+
+It was completely untouched.
+
+Wyatt pulled Sarah inside and heaved the heavy door shut. The screech of the hinges was instantly silenced as the latch caught. He grabbed the thick, decommissioned steel pipe and wedged it violently under the handle, bracing it against the grated floor with a heavy kick from his steel-toed boot.
+
+The barricade was set. The corporate nightmare was locked outside.
+
+Wyatt dropped his flashlight onto the sofa and turned around. Sarah didn't throw herself at him with the same fiery passion as the day before. The adrenaline was completely gone, replaced by a cold, trembling exhaustion. She stepped into his space and just wrapped her arms tightly around his torso, burying her face into his chest.
+
+Wyatt caught her, his broad arms wrapping around her shoulders, pulling her flush against him. He rested his chin on the top of her head, closing his eyes. The desperate heat of the previous night felt entirely out of place now. The terror of what they had just seen in the corridor—the absolute collapse of the facility's safety net—hung heavy over them. She wasn't seeking a distraction; she was seeking an anchor.
+
+They stood there in the dark for a long time, holding onto each other in the center of the dusty room. He could feel the slight tremor in her hands where she gripped his heavy black utility shirt. He simply rubbed broad, slow circles into her back, letting his steady heartbeat ground her, silently promising that he had her.
+
+Eventually, the bone-deep chill of the abandoned sector began to creep through their uniforms. They quietly changed out of their heavy armor, stripping away the grit of the shift.
+
+Wyatt sat on the edge of the vinyl sofa, pulling the heavy, insulated deployment sleeping bag out of his duffel. Sarah was sitting beside him, wearing his oversized black utility shirt, her knees pulled up to her chest. She was staring at the barricaded door, a heavy, unsettled look in her eyes.
+
+"Seeing those scientists in the hallway," she murmured, her voice quiet in the dark room. "It changes everything, Wyatt. If Apex is willing to let their own research teams sleep on the grating... whatever is happening down in Sector 4, they have zero intention of containing it safely. They're just trying to buy time."
+
+"I know," Wyatt said, spreading the sleeping bag open over the cramped sofa and arranging the two thin foam pillows. He sat down next to her, wrapping a heavy arm around her shoulders and pulling her against his side. "But we aren't going to be here when the clock runs out. We made our decision. We're getting out."
+
+She leaned her head against his shoulder, letting out a long, exhausted sigh. "I know. It's just... unsettling. Waiting for the floor to drop out from under us."
+
+"Then don't think about the floor," he told her gently, kissing the top of her head. "Think about the apartment."
+
+A soft, genuine smile finally broke through the anxiety on her face. She turned into him, wrapping her arms around his torso. "Okay. Let's get some sleep."
+
+They both climbed into the sleeping bag. It was just as impossibly cramped as the first night. Wyatt took the outside edge, his broad frame acting as a physical shield between her and the rest of the dark room. Sarah tucked her head perfectly under his chin, her leg thrown over his, her body completely molded to his to keep from falling off the narrow cushions.
+
+He pulled the heavy zipper up, sealing the warmth inside.
+
+As Wyatt held her tight, listening to her breathing slow down, the dread of tomorrow's shift lingered at the edge of his mind. He didn't know what fresh horror the deep-core drills were going to unearth, and he didn't know how much longer the facility's blast doors would hold.
+
+But as Sarah's hand rested flat against his chest, directly over his heart, the fear didn't paralyze him. He was incredibly, profoundly glad to be right here, tangled up with her in the dark. Whatever hell Apex Defense Solutions unleashed tomorrow, they were facing it together.
+
+He closed his eyes, holding her securely against him, and let the exhaustion pull him under.
+
+

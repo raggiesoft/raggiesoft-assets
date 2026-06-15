@@ -1,0 +1,122 @@
+# Part 1: The Kent Station Transfer – 8:00 AM (PST)
+
+Morning arrived with the dull, gray light of the Pacific Northwest bleeding through the small bedroom window. I opened my eyes, the heavy comforter still wrapped tightly around me and my sister on the air mattress.
+
+We had arrived in Washington State just a few days ago, exhausted from the grueling, cross-country Pathfinder bus ride all the way from Norfolk, Virginia. For the previous nights, I had been forced to sleep in Brandi's room, sharing a mattress on the floor with both Delores and her cousin in a deeply coercive, suffocating arrangement. Escaping to this air mattress with my sister last night had been my first brief, desperate sanctuary.
+
+Across the room, sitting up on a cramped twin mattress pushed directly against the floorboard wall, was Delores.
+
+She was glaring at us, her expression twisted into a mask of absolute, toxic disgust. She didn't see a brother and sister seeking basic comfort in a freezing room; she saw a threat to her control.
+
+"I need to wash up," Jessica whispered quietly to me, her pragmatic mind already cataloging the logistical hurdles of the morning.
+
+I nodded, throwing the blankets back and standing up in my sweatpants. I moved to Jessica's side, ready to help her transfer.
+
+"You’re going to take a shower with your sister," Delores scoffed, her voice dripping with a venomous, insinuating disgust that made my stomach churn.
+
+Jessica didn't say a word. She just turned her head and shot Delores a look of such absolute, lethal contempt that the room temperature seemed to drop another ten degrees.
+
+"Let's go," Jessica commanded me softly, ignoring Delores entirely.
+
+Because the house was entirely unequipped for her mobility needs, Jessica had been forced to leave her manual wheelchair downstairs the night before. I bent down, scooped my older sister up into my arms, and carried her out of the bedroom. I carefully navigated down the narrow hall toward the bathroom, her dead weight resting securely against my chest.
+
+The moment I kicked the bathroom door open, a foul, sharp odor hit my nose. I looked down. The linoleum floor was absolutely filthy, plagued with scattered piles of cat feces that hadn't been cleaned up.
+
+"How are we going to do this?" I asked, my voice tight with frustration and secondhand embarrassment, holding her tight to keep her elevated away from the mess.
+
+Jessica looked at the floor from my arms, letting out a quiet, defeated whimper. The fierce, tactical shield she had worn all night cracked. She was suddenly incredibly vulnerable, forced to navigate a hostile, unsanitary environment entirely stripped of her mobility equipment.
+
+"This will be much easier when I am back in my wheelchair-accessible apartment," my sister admitted, her voice trembling slightly.
+
+"I've got you," I promised firmly.
+
+I stepped meticulously over the filth on the floor and set her down carefully on the closed toilet lid, ensuring she was safely elevated above the biohazard. I locked the bathroom door behind us, securing our perimeter, and turned the water on, letting it heat up to chase the freezing chill from the air.
+
+While the tub filled, she carefully got undressed on the lid. Once she was ready, I scooped her back into my arms and gently lowered her into the warm water.
+
+The sound of the running water drowned out the rest of the house. As I knelt beside the tub, pouring warm water over her hair to wash it, the tactical mask completely fell away from Jessica's face.
+
+Tears welled up in her sharp, observant eyes, spilling over her eyelashes to mix with the bathwater.
+
+"I want to be honest with you," Jess started, her voice breaking. She looked directly into my eyes, pleading with me. "Please come with me to Renton. Maybe later we can discuss it, because I’m very worried about you."
+
+My chest seized. I froze, the bottle of shampoo heavy in my hand.
+
+The psychological conditioning of the last few years had wrapped around my brain like a thick layer of fog. Delores had systematically isolated me, punishing me for stepping out of line, demanding all of my time and energy. But sitting here, looking at the genuine, terrified tears of the sister who had always protected me, the fog began to thin.
+
+"Jess," I started, my voice shaking. I looked down at the water. "I’m not sure how to respond. You’re my sister, and I love you sincerely, but I just don’t know how to respond."
+
+I felt completely trapped. If I left with Jessica, Delores would unleash hell. But if I stayed, I was actively choosing the abuse over my family.
+
+"Think about it," Jessica suggested softly, leaning her head back as I started gently shampooing her hair. "Please think about it."
+
+I focused entirely on the mechanical task, washing her hair and helping her rinse off. It was a role reversal; the protective big sister was relying on my physical strength, and the responsibility grounded me.
+
+After I gave her a bath, I dried her off and helped her to a secure sitting position back on the closed toilet lid so she wouldn't have to touch that floor. She waited patiently while I took my own quick shower.
+
+My sister just looked at me with this profoundly upset, aching expression.
+
+"We’ll talk later," she promised. "I would prefer when it’s just you and me."
+
+She reached up, her wet hands resting on my shoulders, and gently kissed me on the cheek. "I love you. You’re my little brother, and I need to be a protective big sister."
+
+I swallowed hard, nodding. "I love you too, Jess."
+
+Once I was dried off and had a towel wrapped around my waist, I helped Jessica get dressed right there in the bathroom. After her undergarments were sorted, we moved on to her outer layers. She wasn't wearing her casual clothes from the day before. She was entirely in work mode.
+
+I helped her pull on a pair of sharp, business casual pants, threading a leather belt through the loops, followed by her socks and business casual shoes. Finally, I helped her pull her crisp, dark blue polo shirt over her head.
+
+Embroidered onto the left breast in bright, metallic silver thread was the unmistakable, sweeping logo of the Quantum Corporation. But what defined the shirt was the text meticulously stitched directly beneath the logo:
+
+*Jessica Ragsdale* *Senior Technical Program Manager*
+
+To me, it was simply the work shirt my big sister wore. I had seen it a million times in grainy cell phone pictures she had texted to Rachel and me over the years. But it wasn't a cheap, plastic name tag you could unpin at the end of a shift. The title was permanently woven into the fabric. It was her corporate armor.
+
+She handed me a stack of fresh clothes from her bag. It was a pair of heavy sweatpants and a thick, dark blue Quantum t-shirt from a recent company retreat.
+
+"Put these on," she commanded softly.
+
+She watched me pull the Quantum shirt over my head, almost as if she were outfitting me in a piece of her own armor, physically claiming me as part of her protected unit. Fully dressed, I picked my sister back up into my arms, carried her carefully down the steep stairs, and gently lowered her into her manual wheelchair that had been left near the front entrance. We rolled into the living room.
+
+Delores was sitting on the sofa next to Aunt Lynne. When we entered the room, Delores’s eyes immediately locked onto Jessica's shirt.
+
+I saw the exact microsecond Delores's processor stalled. Her eyes darted from the globally recognized Quantum logo to the metallic silver embroidery beneath it, taking in the tailored business pants and leather shoes. She could read the words *Senior Technical Program Manager*, but I knew she had absolutely no idea what they actually meant. In her world of fast food, retail, and municipal jobs, titles like that didn't exist.
+
+What Delores *did* understand, however, was the permanence of the embroidery and the prestige it projected. Companies didn't stitch your full name and a massive, multi-word title directly into the fabric unless you were incredibly important.
+
+For the first time since we had arrived in Washington, genuine fear flashed across Delores's face.
+
+She was suddenly acutely aware that she wasn't just dealing with a disabled older sister she could bully by forcing her up a steep flight of stairs. She was dealing with a high-level executive at a billion-dollar tech empire. The realization that Jessica possessed a level of financial and societal power that vastly eclipsed her own completely terrified Delores. She shrank back slightly into the sofa cushions, entirely silenced by a blue polo shirt.
+
+We suffered through a tense, quiet breakfast. Delores didn't make a single snide remark, too intimidated to risk engaging Jessica while she was wearing the uniform. Once we were finished, Aunt Lynne grabbed her car keys and drove the three of us to the Kent Train Station.
+
+The damp morning wind whipped across the concrete platform as we sat down on the metal benches to wait.
+
+"I want to try and see if I can visit my little sister today," I figured out loud, looking at the transit maps posted on the station bulletin board. "I know Rachel is somewhere in the area. If not, at least Delores and I can explore the buses."
+
+At the mention of Rachel's name, fresh tears started to form in Jessica’s eyes. She reached into her messenger bag, pulling out a pen and a small notepad. Her pragmatic, logistical brain immediately took over to ensure I didn't get stranded.
+
+"You need to catch a bus to Lakewood," Jess explained, speaking quickly and handing me the pad. "From here, catch the TAPS Route 565 to Federal Way. Then, transfer to the Route 500 to 10th & Commerce. That’ll put you right in Downtown Tacoma."
+
+She pointed to the fare zones on the map. "I’d say take the 574, but you don’t have enough fare on your pass, so take the 500 from Federal Way to save money. The 501 is also available, but it’s a much longer route. To pass the time once you're in Tacoma, try taking the Number 2 bus into Lakewood. That’s the bus Rachel lives on with her roommate, Kristin."
+
+I quickly scribbled everything down as she spoke. 565. 500. 2.
+
+"I don’t know what time they catch the bus today," Jessica continued, her voice tight with emotion. "But I think Rachel must work today. She works at The Spot. It’s located right across the parking lot from the Lakewood Transit Center. It’ll make perfect sense when you see it. Just remember: 565 to the 500 to the 2."
+
+A heavy rumble vibrated through the concrete platform. The silver and green TAPS commuter train hissed to a halt in front of us, the doors sliding open.
+
+"I need to get going," Jessica said, hastily wiping her eyes. "This is my train to Seattle."
+
+I leaned down and hugged my older sister as tightly as I could, burying my face in her shoulder for just a second. I didn't want to let her go.
+
+"Think about it," she whispered fiercely into my ear one last time.
+
+"I will," I promised.
+
+Jessica unlocked her brakes and boarded the train. I stood on the platform, watching through the windows as she secured her wheelchair in the accessible bay. As the heavy train pulled away, accelerating north toward Seattle, I felt the protective perimeter she had cast around me entirely vanish.
+
+I turned around. Delores was standing a few feet away, her arms crossed, a cold, expectant look on her face.
+
+I shoved the notepad into the pocket of my Quantum pants, took a deep breath, and made my way over to the bus bays with my girlfriend.
+

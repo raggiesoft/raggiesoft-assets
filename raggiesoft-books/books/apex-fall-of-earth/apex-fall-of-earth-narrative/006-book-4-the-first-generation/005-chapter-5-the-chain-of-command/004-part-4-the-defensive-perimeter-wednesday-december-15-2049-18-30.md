@@ -1,0 +1,64 @@
+# Part 4: The Defensive Perimeter – Wednesday, December 15, 2049 – 18:30
+
+Outside the massive hydro-glass windows of the estate, a heavy, pristine winter snow was falling over the alien pine forests of Planet Eden. Inside the residential living room, the geothermal fireplace was roaring, casting a warm amber glow across the polished stone.
+
+Sarah Colton was nestled deep into the oversized leather sofa, propped up by an absolute mountain of memory-foam pillows. At thirty-nine weeks pregnant, her belly was a massive, prominent sphere. She was resting her hands on top of it, breathing through the dull, persistent ache in her lower back.
+
+Wyatt was sitting cross-legged on the thick rug, initiating what he believed was a highly critical, delicate logistical briefing.
+
+The Vanguard was assembled in front of him. Leo was parked in the Chariot, humming softly while his fingers grazed the edges of his ruggedized AAC tablet. Nora was sitting on the floor, leaning her weaker left side against the wagon's wooden wheel. Ellie was standing at attention, her dark eyes locked on her father.
+
+"Alright, squad," Wyatt rumbled gently, leaning forward and resting his thick forearms on his knees. "We need to talk about the deployment schedule for this week."
+
+He looked at Sarah, sharing a warm, slightly anxious smile. They had read the pediatric databases on sibling integration. They knew that introducing a new baby to three fiercely codependent toddlers could trigger massive routine disruptions.
+
+"In a few days, Mama and I are going to go down to the medical bay on Sub-Level 1," Wyatt explained, keeping his tone incredibly soft and reassuring. "Aria is going to watch you up here on the monitors. When we come back upstairs... we're going to have someone new with us."
+
+Nora’s brow furrowed, her empathetic heart immediately sensing the gravity of the shift. She looked up at Sarah’s massive belly, then back at Wyatt.
+
+"A baby brother," Wyatt continued, gesturing toward Sarah. "He's going to be very small, and he's going to cry a lot, and he's going to need—"
+
+A heavy, flat-footed boot stomped against the rug.
+
+Wyatt blinked, his S.H.O.P. Marine briefing abruptly cut off.
+
+Ellie stepped forward, entirely bypassing Wyatt. She marched directly up to the leather sofa. She didn't look confused, and she certainly didn't look anxious about a routine disruption. She was a three-year-old commanding officer, and she had been tracking this logistical asset for the last five months. She knew exactly what was inside the perimeter of her mother's stomach.
+
+Ellie reached out, placing both of her tiny, firm hands directly onto the sides of Sarah’s pregnant belly.
+
+She looked back over her shoulder at Wyatt, her dark eyes narrowing with a look of profound, tactical condescension. She didn't need a briefing. She had already drafted the operational orders.
+
+"Mama's New Baby," Ellie stated, her articulation razor-sharp. She tapped her thumb against her own chest. "Mine."
+
+"I know, Ellie, but he's going to need a lot of Mama's attention, and—"
+
+"Mine," Ellie interrupted, her voice rising in volume, entirely overriding the Administrator of Planet Eden.
+
+To prove her point, Ellie immediately initiated a defensive posture. She turned to Nora and snapped her fingers, pointing to the left side of the sofa.
+
+Nora didn't hesitate. She heavily dragged her left leg, pulling herself up onto the edge of the leather cushion until she was wedged firmly against Sarah's left hip. Nora gently placed her hand on the side of the belly, offering a soft, breathy giggle as the baby kicked against her palm.
+
+Ellie marched to the right side of the sofa, climbing up to flank Sarah's other hip. She placed her hand on the opposite side of the belly.
+
+Finally, Ellie pointed at Leo, safely secured in the Chariot parked right in front of the coffee table. She pointed at his tablet.
+
+Leo’s intense humming paused. With Nora's earlier guidance, they had specifically asked Wyatt to add a new icon to the grid last week. Leo stared at the bright pink square depicting a swaddled infant. His spasming arm shook with effort, but he slammed his palm down onto the glass.
+
+"Baby," the tablet's automated voice announced clearly into the quiet living room.
+
+Leo let out a loud, joyous vocalization, a massive smile spreading across his face.
+
+The Vanguard was perfectly in position. They had flanked the target, secured the perimeter, and acknowledged the asset. They weren't anxious about the new arrival; they were actively guarding him.
+
+Ellie sat up incredibly straight, her hands resting protectively on Sarah's stomach. She looked down at Wyatt, who was still sitting on the rug with his mouth slightly open.
+
+"Watch," Ellie commanded simply. It wasn't a request. It was a statement of duty. The Vanguard would watch the perimeter until the new recruit was safely extracted.
+
+Sarah let out a wet, breathless laugh, tears of absolute joy spilling over her eyelashes as she looked down at her two daughters flanking her sides, and her son cheering from his wagon. She reached out, resting one hand on Ellie's dark hair and the other on Nora's.
+
+"I think they've got the briefing covered, Wyatt," Sarah smiled, wiping her cheek.
+
+Wyatt slowly closed his mouth, a deep, booming chuckle vibrating in his chest. He dragged a heavy hand down his bearded jaw, thoroughly defeated and incredibly proud. He had spent hours worrying about how they would handle the transition, entirely forgetting that his children operated on a level of profound, unbreakable loyalty.
+
+"Copy that, Commander," Wyatt smiled, holding his hands up in surrender. "The new recruit is all yours."
+

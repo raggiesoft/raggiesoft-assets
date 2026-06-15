@@ -1,0 +1,62 @@
+# Part 1: Sibling Reunification – 9:30 PM
+
+The digital clock mounted high on the terminal wall flipped to 9:30 PM.
+
+I stood next to Mom just beyond the frosted glass boundary of the security checkpoint, my eyes locked relentlessly on the sterile corridor where the arriving passengers were trickling out. The ambient noise of the Norfolk airport was a low, steady hum, but inside my chest, my heart was hammering a frantic rhythm against my ribs.
+
+Mom was vibrating with her own nervous energy, her hands clasped tightly in front of her. I shifted my weight, trying to actively manage the rigid tension tightening the muscles in my legs. My cerebral palsy always flared up when I was anxious, sending unpredictable spikes of spasticity down to my knees. I kept my balance planted, running a mental diagnostic of my physical limits. I needed my foundation to be absolute. I was going back on duty.
+
+And then, the crowd parted.
+
+I saw the sleek, familiar metal frame of Jessica's manual wheelchair roll into view. And right behind her, her hands gripping the rubber push-handles with white-knuckled intensity, was Rachel.
+
+Rachel looked exhausted. Her shoulders were hunched, and she was tracking the floor tiles, clearly entirely depleted from navigating the chaotic, sensory nightmare of the Midwestern connecting hub.
+
+"Rachel!" Mom called out, her voice breaking with an overwhelming, desperate relief.
+
+Rachel’s head snapped up. Her dark eyes scanned the crowd, bypassing the strangers, bypassing the airport architecture, until they locked directly onto me.
+
+The transformation was instantaneous. The sheer, crushing weight of the cross-country transit vanished from her posture.
+
+She let go of Jessica's wheelchair entirely. She didn't hesitate, and she didn't care about the unwritten social rules of the crowded public terminal. She broke into a dead sprint.
+
+"Michael!" her raspy voice cracked, echoing through the corridor.
+
+I braced my legs, widening my stance just in time. She came crashing into me with the force of a physical tidal wave, throwing her arms around my neck.
+
+The impact nearly knocked the wind out of me, but I didn't stumble. I caught her, immediately wrapping my arms around her back and pulling her flush against my chest. I squeezed her with every single ounce of strength I had, applying the deep, unyielding, suffocatingly tight pressure I knew her autistic nervous system was desperately craving.
+
+"I've got you," I murmured directly into her ear, resting my chin on the top of her head. "I'm right here. You're safe."
+
+Rachel buried her face into my shoulder, her fingers gripping the fabric of my jacket so tightly I could feel her nails digging in. She let out a long, shuddering hum—a heavy, vibrating vocalization that I felt all the way down to my collarbone. She was manually dumping all of the terrified, overstimulated energy of the flights directly into me, and I gladly absorbed every single drop of it. I was her anchor. The math was finally rebalanced.
+
+"Don't think you're leaving me out of this," a calm, fiercely familiar voice demanded.
+
+I opened my eyes. Jessica had expertly propelled herself the rest of the way down the corridor. She locked the brakes on her wheels right beside my leg and reached her arms up.
+
+I didn't let go of Rachel. I just shifted my stance, wrapping my right arm securely around Jessica’s shoulders, pulling my older sister into the lock. The three of us formed a tight, impenetrable knot right in the middle of the concourse.
+
+For the last three months, the system had been broken. We had been separated by thousands of miles, forced to navigate the world without our full perimeter. But as I held my two favorite women in the world, the terrifying friction of the last ninety days completely evaporated.
+
+"You did it, Jess," I whispered, my voice thick with emotion. "You brought her back."
+
+"I told you I would," Jessica smiled, resting her head against my side.
+
+Rachel finally loosened her death grip just enough to pull her face away from my jacket. She looked up at me, her dark eyes shining with an absolute, radiant joy. With her safe person finally re-established, the situational mutism that usually locked her vocal cords in public spaces completely dissolved.
+
+"Are they at the house?" Rachel asked breathlessly, her primary focus shifting immediately to the next most important anchors in her life. "Are Baby and Archie waiting?"
+
+I let out a loud, genuine laugh, reaching up to smooth her hair back.
+
+"Of course they are," I promised her. "Baby is taking up the entire length of the living room couch because he thinks he's a lap dog, and Archie has been walking around in circles for an hour with a stuffed plush toy in his mouth, waiting to show it off to you."
+
+Rachel let out a bright, happy vocalization, bouncing on her heels. The thought of the massive, sweet black Lab and his toy-obsessed, one-eyed younger brother was the ultimate proof that she was really back on Virginia soil.
+
+Mom stepped in then, wrapping her arms around both of the girls in a tearful, desperate embrace.
+
+"Let's get out of this crowd," Jessica instructed practically, her pragmatic, adult-in-the-room persona seamlessly clicking back into place. She unlocked her brakes. "The algorithm requires our checked luggage."
+
+"Right behind you," I agreed.
+
+I kept my arm draped heavily over Rachel's shoulders, providing a continuous, grounding pressure as we fell into step behind Jessica's chair. The pack was officially reunited, and it was time to go to baggage claim.
+

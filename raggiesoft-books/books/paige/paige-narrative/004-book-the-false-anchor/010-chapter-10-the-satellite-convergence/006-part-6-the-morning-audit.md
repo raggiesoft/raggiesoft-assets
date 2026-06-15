@@ -1,0 +1,106 @@
+# Part 6: The Morning Audit
+
+## Sunday, June 20, 2004 — 07:15 AM The Underworld (Basement), 105 Pepper Street SE
+
+Morning in the basement was grey and hazy. The small window wells let in just enough light to turn the concrete room into a shadowy landscape of sleeping bags and messy hair.
+
+Sarah was the first to wake. It was a habit born of being the oldest of the "Little Five." She opened her eyes, reached for her glasses case, and slid her frames onto her nose. The world snapped into focus.
+
+She sat up on her air mattress. Her back cracked. Air mattresses are evil, she thought.
+
+She looked around the room.
+
+Jenna was drooling on her pillow, one leg thrown completely off the mattress onto the cold floor. The twins, Amanda and Elara, were curled up together like puppies in a single sleeping bag.
+
+Then Sarah looked at the corner.
+
+She looked at the Pittsburgh Toilet.
+
+In the grey light of morning, the porcelain bowl stood out starkly against the cinder block wall. And inside the bowl, the water wasn't clear. It was a distinct, undeniable shade of yellow.
+
+Someone used the Throne, Sarah deduced. And someone didn't flush.
+
+She frowned. Leaving it mellow was gross, but she understood the logic. The pipes in this house were loud. A flush in the middle of the night would have sounded like a jet engine.
+
+She scanned the sleeping suspects.
+
+Jenna was sleeping too deeply; she hadn't moved an inch. The twins were a tangled knot.
+
+Then Sarah looked at Harper.
+
+Harper was lying stiff as a board in her sleeping bag. Her eyes were squeezed shut tight—too tight. Her breathing was a little too controlled. She looked like a possum playing dead.
+
+Sarah sighed. She stood up, shivering slightly in the morning chill, and walked over to Harper’s mattress.
+
+"Harper," Sarah whispered.
+
+Harper didn't move. She let out a fake, theatrical snore. Honnk-shoo.
+
+"Harper, cut it out," Sarah said, her voice flat. "I know you're awake."
+
+Harper opened one eye. It was filled with panic.
+
+"I didn't do it," Harper whispered instantly. "It was... a ghost. A basement ghost."
+
+Sarah just pointed a finger at the toilet.
+
+"It's yellow, Harper. And you're the only one who looks like you're about to explode from embarrassment."
+
+Harper pulled the sleeping bag up over her nose. Her face was bright red.
+
+"I couldn't hold it," she muffled through the fabric. "And I couldn't make it up the stairs. My legs hurt. Don't look at me."
+
+Sarah didn't laugh. She didn't make a face. She looked at the toilet, then back at her sister.
+
+"So you used the asset," Sarah said, sounding very much like Freddie for a second. "Good."
+
+Harper lowered the blanket. "Good? It's disgusting! I peed in a dungeon!"
+
+"It's better than wetting the bed," Sarah stated matter-of-factly. "If you had wet the sleeping bag, we'd have to wash it. And dry it. And everyone would know. This? This is just plumbing."
+
+She nudged Harper’s foot with her toe.
+
+"Go flush it. Before the twins wake up and ask why the water is colored."
+
+Harper groaned. She crawled out of her warm bag. She walked the walk of shame to the corner. She reached out and pushed the chrome handle.
+
+KA-WHOOSH.
+
+The sound was thunderous. The pipes banged against the rafters. The water roared.
+
+On the other mattresses, heads popped up.
+
+"Wha—?" Jenna sat up, wiping drool from her chin. "What exploded?"
+
+Elara rubbed her eyes. "Is it a storm?"
+
+Jenna looked at Harper standing by the toilet. She looked at the swirling water. A grin spread across Jenna’s face.
+
+"Oh my god," Jenna laughed. "Did Harper use the Throne of Shame? Did you actually—"
+
+"Jenna, shut up," Sarah interrupted. Her voice was sharp. It wasn't a request.
+
+Jenna blinked. "I was just—"
+
+"She had to go," Sarah said, crossing her arms. "The toilet is there for a reason. It works. It saved the sheets."
+
+She looked at the other girls, daring them to make a joke.
+
+"We are practical people," Sarah declared. "We use the facilities available. If anyone else needs to go, the line starts now. If not, go back to sleep."
+
+Jenna looked at Sarah’s serious face. She looked at Harper, who was staring at her feet, waiting for the mockery.
+
+Jenna shrugged. "Okay, okay. Chill, Sarge."
+
+Jenna flopped back onto her pillow. "But seriously, that flush is louder than a bomb."
+
+Harper walked back to her mattress. She looked at Sarah.
+
+"Thanks," Harper whispered.
+
+"No problem," Sarah whispered back, taking her glasses off and sliding back into her bag. "But next time? Just flush. We'll get over the noise."
+
+Harper nodded. She climbed back in. The shame didn't vanish completely, but under Sarah’s practical logic, it shrank down to something manageable. She hadn't ruined her life. She had just used a toilet.
+
+Better than the bed, Harper repeated to herself. Way better than the bed.
+

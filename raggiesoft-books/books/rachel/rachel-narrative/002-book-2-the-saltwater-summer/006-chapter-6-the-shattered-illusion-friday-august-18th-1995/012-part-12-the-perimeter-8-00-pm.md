@@ -1,0 +1,54 @@
+# Part 12: The Perimeter – 8:00 PM
+
+The pediatric trauma bay had settled into a quiet, heavy rhythm. The harsh adrenaline of the afternoon had finally burned off, leaving behind a deep, collective exhaustion.
+
+Rachel was sleeping again, the steady rise and fall of her chest a tiny victory against the cracked ribs. My own body was anchored to the mattress by the heavy, warm blanket of the IV muscle relaxants, keeping the torn fascia in my stomach perfectly still. But my mind was entirely awake, watching the new dynamics of my family solidify in the amber light of the monitors.
+
+Mom and Dad were sitting in two plastic chairs pulled close together near the foot of our beds. They were speaking in hushed, jagged whispers, completely unaware that I was listening.
+
+"I don't know how I look them in the eye tomorrow," Dad murmured, his elbows resting on his knees, his head hanging low. "I stood right there in the hallway and told them to suck it up. I handed my own kids over to that guy."
+
+"We both did, Tom," Mom replied, her voice thick with a guilt that I knew she would carry for the rest of her life. She reached out, resting her hand on the back of his neck. "We bought into the uniform. We bought into the discipline. We let an instructor override our own children."
+
+Dad let out a long, ragged exhale. "How do we fix it?"
+
+"We can't fix Thursday," Mom said, her tone suddenly hardening into that fierce, protective steel she had found in Dr. Young's office. "But we control every single day after it. We don't just pull them out of that gym. We sue Master Ray into the ground. We make sure Curtis rots in a cell. We burn the entire illusion down so they know we are fighting for them."
+
+Dad lifted his head, his jaw setting into a rigid, absolute vow. "Whatever it takes."
+
+While our parents sat at the foot of the bed dismantling the future of Tidewater Tumblers, the immediate physical reality of the room was being controlled by Jessica and Janette.
+
+They weren't just visiting. They had established a literal, physical perimeter.
+
+Jessica was sitting on a rolling stool pulled directly between the door and my bed. Janette was standing on the opposite side, leaning against the wall near Rachel's monitors. They had formed an invisible tripwire across the linoleum. Nobody was getting near us without going through them first.
+
+At exactly eight o'clock, the heavy glass door slid open with a soft *whoosh*.
+
+Jessica instantly stood up, her posture straightening, her body physically blocking the path to the beds. Janette pushed off the wall, her eyes locking onto the doorway.
+
+A pediatric nurse stepped into the room holding a clipboard and a rolling vitals cart. She was wearing brightly colored scrubs, but she stopped dead in her tracks the moment she crossed the threshold.
+
+She looked at Jessica, then at Janette. The nurse didn't look annoyed by the blockade; her expression softened with immediate, trauma-informed understanding. She saw the pack protecting its wounded.
+
+"Hi there," the nurse whispered warmly, keeping her hands visible and her voice incredibly gentle. She looked directly at Jessica, acknowledging the fourteen-year-old as the gatekeeper. "I'm Sarah. I'm the night nurse. I just need to check their blood pressure and temperatures, and make sure Rachel's oxygen looks good. Is it okay if I come back there?"
+
+Jessica assessed her for a long, quiet second. Then, she gave a short nod and took a half-step back, opening the perimeter just enough to let the cart through. "Be careful with their stomachs."
+
+"I promise I won't go anywhere near their stomachs," Nurse Sarah assured her softly.
+
+She rolled the cart to the side of my bed first. She didn't make any sudden movements. "Hi, Michael," she murmured, wrapping the blood pressure cuff carefully around my bicep. "Just a quick squeeze."
+
+I watched the numbers tick up on the digital monitor. The cuff tightened, then slowly released.
+
+Nurse Sarah smiled. "Looking great, buddy. Nice and steady."
+
+She moved the cart around to Rachel’s side. Janette hovered close by, watching the nurse’s hands like a hawk. Rachel stirred slightly as the nurse gently clipped the glowing red pulse oximeter onto her index finger, but she didn't panic. The presence of Janette right next to her, and my hand still firmly holding her other one across the gap between the beds, kept her grounded.
+
+"Oxygen is perfect," Nurse Sarah whispered, jotting the numbers down on her chart. She looked over at Mom and Dad. "Her vitals are completely stable. The doctor will want one more blood draw in the morning to check her hemoglobin levels, but she is doing exactly what she needs to do right now. She’s resting."
+
+Dad let out a breath he sounded like he'd been holding for hours. "Thank you."
+
+Nurse Sarah gave Jessica and Janette a warm, validating smile on her way out. "You two are doing a great job keeping an eye on them. Let me know if you need any extra blankets or water, okay?"
+
+As the glass door slid shut, securing us back in the quiet isolation of the trauma bay, I felt a profound sense of safety wash over me. The hospital wasn't a scary place. It was a fortress. And for the first time in my life, I truly understood that the strongest people in my world weren't the adults wearing black belts. They were the people sitting right here in this room.
+

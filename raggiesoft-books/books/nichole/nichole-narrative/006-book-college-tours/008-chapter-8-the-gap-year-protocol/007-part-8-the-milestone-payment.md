@@ -1,0 +1,100 @@
+# Part 8: The Milestone Payment
+
+## Date: October 3, 2003 Time: 10:15 AM Location: 95 West Main Road, Portsmouth, Rhode Island
+
+The real reason Uncle Mark had chosen the ranch on West Main Road wasn't just the zero-step entrance or the proximity to the bus line. It was the roofline.
+
+The house featured an oversized, reinforced second-story loft space that had no shared ductwork with the first floor. It was the perfect architectural footprint to retrofit a SCIF—a Sensitive Compartmented Information Facility.
+
+The rules regarding the second floor were absolute. No cell phones. No wireless devices. And absolutely no entry for Patrick or Nichole. It wasn't Uncle Mark being mean. It was Uncle Sam’s law. To cross that threshold without TS/SCI clearance was a federal crime.
+
+Patrick and Nichole respected the system. When the red LED light was on, the second floor didn't exist.
+
+On this particular Friday morning, the day before the rest of the Bennett clan was set to arrive, the red light clicked off.
+
+Mark walked down the stairs, a piece of paper in his hand and a wide, predatory grin on his face.
+
+He walked down the hall to the Bennett Wing. Inside the mini-apartment, the twins were at their study desks. Nichole was working on her Apex ConvertiBook, typing out a site map of the house.
+
+Patrick was bent over a yellow legal pad, a calculator beside him.
+
+He had heard what Mark said about "no jobs," but Patrick’s brain was wired for risk assessment. He was looking at the flyer for the hydraulic residential elevator. He had divided \$25,000 by \$7.50 an hour. Subtracting taxes, he was trying to calculate how many consecutive overnight shifts at the local grocery store it would take to buy his sister the vertical shaft she deserved. It was a bleak piece of arithmetic.
+
+"Hey, Pat," Mark said, leaning against the doorframe. "What are you working on?"
+
+Patrick quickly tried to slide a folder over the legal pad. "Just... budget projections. For the grocery job. Just in case."
+
+Mark walked into the room. He didn't look at the calculator. He looked at Patrick, then at the notepad.
+
+"Tear it up," Mark said quietly.
+
+Patrick blinked. "What?"
+
+"The math," Mark said, reaching out and tapping the legal pad. "Tear it up."
+
+Mark held up the piece of paper in his own hand. It was a bank transfer confirmation.
+
+"Aegis Marine Defense just cleared my Phase One milestone payment for the Block III sonar suite," Mark said. "The check cleared twenty minutes ago."
+
+Nichole stopped typing. She looked at her uncle.
+
+"The house is officially paid off. Zero mortgage," Mark announced. "And I just got off the phone with the contractor. The elevator is paid in full. Check clears today. They start cutting the floors on Monday."
+
+Patrick stared at his uncle, his mouth slightly open. He looked down at his yellow legal pad, where he had projected three years of grinding, minimum-wage labor just to afford the down payment.
+
+"Paid in full?" Patrick whispered.
+
+"In full," Mark confirmed. "Now, tear up that notepad so we can move on to the next item of business."
+
+Patrick’s hands were shaking slightly. He ripped the top sheet off the legal pad, crumpled it into a ball, and tossed it into the trash can. A massive, crushing weight lifted off his chest.
+
+Nichole let out a high-pitched squeal of pure joy. She slammed her hand on her lap tray. She was going to get all three floors. She was going to see the basement. She was going to have total, unrestricted access to her fortress.
+
+"Now, the next item," Mark said casually, pulling up a chair and sitting down between them. "I was looking at the transport van in the driveway. The suspension is shot, and the lift whines like a dying cat."
+
+"It's eighteen years old," Patrick defended weakly. "Mom and Dad take care of it."
+
+"It's a relic," Mark corrected. "And you guys are going to be making the run to Braxton State University five days a week next year. You need a reliable rig. Aegis Marine wants me on retainer for Phase Two. That means another milestone payment in November."
+
+Mark looked at Nichole.
+
+"Do you guys want a new van?" Mark asked. "Say the word. A 2004 heavy-duty commercial transport. New hydraulic lift, tie-down tracks, V8 engine. Paid in full."
+
+Nichole’s eyes went so wide they looked like they might pop out. A brand new van? The ultimate Bennett Machine upgrade?
+
+She didn't even use the mouse. She reached out and grabbed Mark’s wrist with her spastic hand, squeezing as hard as she could.
+
+The doorbell rang.
+
+"Ah, right on time," Mark smiled, patting Nichole's hand. "Come on, Nikki. Let's go do some geometry."
+
+They rolled out into the main hallway.
+
+Standing in the foyer was a structural engineer with a clipboard and a laser measuring tape.
+
+"Mr. Reynolds?" the engineer asked. "Here to measure the stacked closets for the hydraulic cab."
+
+"You got it," Mark said, gesturing for the man to follow him.
+
+Patrick pushed Nichole down the hall to the first-floor coat closet. Mark opened the door, revealing the five-by-five plywood floor.
+
+The engineer stepped inside the closet, pointing his laser measure at the ceiling. *Beep.* He pointed it at the floor. *Beep.*
+
+"Joists are clear," the engineer muttered, making notes. "We'll punch through the plywood, drop the rails against the back wall, and seat the hydraulic jack in the basement pit. Standard commercial cab: 40-by-54 inches.”
+
+Nichole watched the red dot of the laser measure bounce off the ceiling.
+
+She looked up. Through the drywall, past the SCIF, to the roof. She looked down. Through the plywood, to the concrete pit in the basement.
+
+It wasn't just a house anymore. It was a three-dimensional grid, and she owned every inch of it.
+
+She looked back at Patrick. He was leaning against the wall, staring at the empty closet with tears welling up in his eyes.
+
+Nichole tapped her screen.
+
+"NO. GROCERY. STORE. FOR. YOU."
+
+Patrick laughed, wiping his eyes. "No grocery store for me," he agreed. "Just college. Just the mission."
+
+"Damn right," Mark said, clapping Patrick on the shoulder. "Now, let's get the guest rooms ready. The rest of the clan arrives tomorrow."
+

@@ -1,0 +1,127 @@
+# Part 11: The Northern Trajectory
+
+## Monday, May 10, 2004 — 08:30 AM (PST) The Cascade Suites, Room 412
+
+The morning broke grey and misty—a classic Pacific Northwest start. Inside the hotel room, the mood was operational. The emotional storm of the previous day had washed away the panic, leaving behind a clear, hard resolve.
+
+They dressed for the mission. Freddie put on his jeans and the orange hoodie—reclaiming the armor. Paige and Jessica wore their rain shells.
+
+"Objective," Freddie stated, adjusting his glasses in the mirror. "North. Everett. The Factory."
+
+"Transport," Jessica replied, checking the **TAPS** schedule she had grabbed from the lobby rack. "We need the **Regional Express Route 510**. It’s a commuter line. High frequency. Professional ridership."
+
+"Where do we board?" Paige asked.
+
+Freddie consulted the map he had studied on the laptop.
+
+"The hotel is at 8th and Stewart," Freddie visualized. "The Pathfinder terminal is at 811 Stewart—directly across the street. The Route 510 Northbound stop is one block over. **9th Avenue and Howell Street**."
+
+"One block," Jessica nodded. "We can do one block."
+
+**08:45 AM — Stewart Street**
+
+They stepped out of the hotel lobby. The air was cool and wet.
+
+Directly across the street, the **Pathfinder** terminal was busy. A bus was idling in the bay, smoke curling from its exhaust.
+
+Freddie stopped. He looked at it. He felt Paige’s hand tighten around his.
+
+"Don't look," Paige whispered.
+
+"No," Freddie said. He looked at the bus. He looked at the dirty windows. He looked at the destination sign: **PORTLAND**.
+
+"It is just a machine," Freddie stated, his voice trembling slightly but firm. "It has no power. We are taking a different machine."
+
+He turned his back on the terminal.
+
+"Vector: North," he said.
+
+They walked one block east to 9th Avenue, then north to Howell. The bus stop sign was sleek and blue, marked **TAPS Regional**.
+
+**08:52 AM — 9th & Howell**
+
+The bus rounded the corner. It wasn't a grey, dirty coach. It was a clean, white-and-teal articulated bus with the TAPS logo.
+
+**510 EVERETT**
+
+"Boarding," Freddie whispered.
+
+He stepped up. He didn't look back. He paid the fare. He walked down the aisle.
+
+It smelled of wet raincoats and coffee. It was quiet. People were reading newspapers or looking at their phones. No one was shouting. No one was trapped.
+
+Freddie took a window seat on the right side. Paige sat next to him. Jessica took the seat directly behind them.
+
+"Secure?" Jessica asked, leaning forward.
+
+Freddie looked out the window. He reached out and took Paige’s hand. She laced her fingers through his instantly.
+
+"Secure," Freddie said.
+
+The bus hissed and pulled away from the curb. They merged onto I-5 North, heading away from the city, away from the south, away from the memory of the mistake.
+
+## 09:40 AM — Everett Station
+
+The ride was smooth—forty-five minutes of steady highway driving. They arrived at **Everett Station**, a brick transit hub that felt more like a train station than a bus depot.
+
+"Transfer," Freddie announced, reading the signs. "We need the local connector to the factory."
+
+They boarded a smaller TAPS bus. It wound through the industrial park, passing massive hangars and parking lots filled with thousands of cars.
+
+"Shift change," Freddie noted. "The workforce is massive."
+
+The bus climbed a hill and dropped them off in front of a building that looked like an airport terminal.
+
+## The Future of Flight Aviation Center. 10:30 AM — The Assembly Line
+
+They stood on the observation balcony of the massive assembly plant. The tour guide—a retired engineer—was speaking over the PA system, but Freddie barely heard him. He was too busy processing the visual data.
+
+The factory floor was a canyon. It was 98 acres under a single roof. Clouds formed near the ceiling.
+
+Below them, the production lines stretched out for nearly a mile.
+
+To the left, the massive **Atlas-400** (In-universe 747). The "Queen of the Skies." Its signature hump was unmistakable.
+
+To the right, the new **Vector-700** (In-universe 777). Twin engines. Massive wingspan.
+
+"Look at the line," Freddie whispered, pointing. "Station 1. Station 2. Flow methodology."
+
+He watched a massive yellow overhead crane lift a wing section. It moved with slow, hydraulic grace, lowering the multi-ton component onto the fuselage with millimeter precision.
+
+"It fits," Freddie breathed. "No forcing. Just engineering."
+
+"It's amazing," Paige said, leaning on the railing next to him. "It’s like building a skyscraper sideways."
+
+"It is a system," Jessica noted, standing on his other side. "Just like you like."
+
+"It is a perfect system," Freddie agreed. "Every part has a number. Every rivet has a home. Nothing is lost."
+
+He watched the workers. They moved with purpose. They checked clipboards. They followed the manual.
+
+*If you follow the manual,* Freddie thought, *you can fly.*
+
+He stood there for an hour, mesmerized by the slow, deliberate birth of the airplanes. It was orderly. It was quiet (in the way machines are quiet). It was safe.
+
+**12:00 PM — The Return Trip**
+
+They took the connector back to Everett Station. They waited for the Southbound 510.
+
+"Destination?" Paige asked.
+
+"9th and Stewart," Freddie said. "The hotel."
+
+They boarded the bus. This time, Freddie didn't just endure the ride. He watched the world go by. He saw the trees. He saw the mountains in the distance.
+
+He realized that the bus wasn't the enemy. The bus was just a tool. It could take you to a prison, or it could take you to see the biggest building in the world. It depended on who was holding the map.
+
+And this time, he was holding the map.
+
+"Status?" Jessica asked from the seat behind.
+
+"Mission complete," Freddie said, resting his head on Paige's shoulder. "We saw the Machine."
+
+"We saw the Machine," Paige agreed.
+
+The bus rolled south, carrying the Avery Unit back to base, ready for whatever came next.
+
+

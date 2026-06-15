@@ -1,0 +1,28 @@
+# Part 20: The Second Evening of Care
+
+After their triumphant victory against the alien empire, a comfortable, weary peace settled over Megan’s apartment. The day had been long and emotionally charged, a rollercoaster of social interactions, high-stakes rescues, and quiet revelations.
+
+"Alright, superstar," Megan said softly, her voice full of a fond, sisterly warmth. "Time to get you ready for bed. One more big day tomorrow."
+
+The evening routine was a near-perfect repeat of the night before, but this time, it was imbued with a new, deeper layer of trust and understanding. Megan helped him with his toileting and bathing with the same matter-of-fact ease, but tonight, Alex was an active participant, not just a passive recipient of her care. He felt less like a patient and more like a cherished family member.
+
+The bath was another quiet ritual of healing. She didn't need to scrub as hard this time; the goal was simply to wash away the stress of the day. As she washed his hair, the familiar, comforting scent of green apple and chamomile—Chloé's shampoo—once again filled the steamy air, a powerful, non-verbal reminder of the other anchor in his life.
+
+When she was done, he once again asked her to just sit with him. She pulled the stool over, and he reached his hand out of the warm water. She took it without hesitation, her grip a firm, steady promise of safety.
+
+I MISS CHLOÉ SO MUCH, his Quantum Communicator XT, resting on the counter, voiced softly.
+
+"I know you do, cuz," Megan said, her thumb gently rubbing the back of his hand. "Christmas will be here before you know it."
+
+He was quiet for a long moment, his brow furrowed in thought. VERA... he typed, the name seeming to cost him a great deal of effort. SHE IS... NOT LIKE YOU. OR CHLOÉ. SHE WOULDN'T DO THIS. HELP ME. SHE SAYS IT'S... INAPPROPRIATE.
+
+Megan’s heart ached for him. She chose her words carefully, knowing this wasn't the time for the full intervention. This was just a time for listening. "There is nothing inappropriate about taking care of the people you love, Alex," she said, her voice a low, firm anchor. "Nothing at all."
+
+He squeezed her hand, a silent thank you for her understanding. He was starting to see, with a terrifying clarity, the difference between love and control.
+
+After a few more minutes of quiet contemplation, they finished the routine. Megan helped him out of the tub and into his pajamas before taking a quick shower herself.
+
+When she emerged, she found him waiting by the bed. This time, there was no hesitation, no question about the sofa. When she invited him into the bed, he climbed in willingly, a new, quiet anticipation in his eyes.
+
+As she settled in beside him and pulled him into a gentle, comforting cuddle, he didn't just accept it; he actively leaned into it. He was beginning to understand. This—this safe, unconditional, platonic affection—was a healing balm. It was a powerful, necessary medicine. And he was so incredibly grateful that in Chloé's absence, his favorite cousin was here to be the one to administer it.
+

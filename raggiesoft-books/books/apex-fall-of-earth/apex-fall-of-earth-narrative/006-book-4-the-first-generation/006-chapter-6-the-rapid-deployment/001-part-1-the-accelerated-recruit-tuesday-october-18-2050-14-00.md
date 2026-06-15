@@ -1,0 +1,76 @@
+# Part 1: The Accelerated Recruit – Tuesday, October 18, 2050 – 14:00
+
+The residential living room had been entirely cleared of all non-essential obstacles. The heavy reclaimed-wood coffee table was pushed against the far wall, leaving a massive, open expanse of plush rug.
+
+Wyatt and Sarah Colton were sitting on the leather sofa, watching the afternoon drills with absolute, quiet fascination.
+
+At ten months old, Jack Colton was a physical marvel. Untouched by the severe prematurity and neurological trauma that had defined his older siblings' early months, Jack’s neurotypical development was aggressively fast. He was robust, energetic, and completely fearless.
+
+And his four-and-a-half-year-old commanding officer was taking full advantage of it.
+
+Ellie stood exactly five feet away from Jack, her hands planted firmly on her hips. Jack was currently pulling himself up using the sturdy wooden wheel of the Chariot, where Leo was parked and humming softly.
+
+"Recruit," Ellie commanded, her voice sharp and authoritative. She clapped her hands together twice. "Here. Target."
+
+Jack looked over his shoulder. He grinned, exposing four tiny, bright white teeth. He didn't hesitate. He didn't look for Wyatt or Sarah for reassurance.
+
+Jack let go of the Chariot's wheel. He stood completely unassisted on his sturdy little legs, his balance remarkably centered for a ten-month-old. He locked his bright eyes on his sister, let out a loud, joyous squeal, and launched himself forward.
+
+He didn't just take a cautious first step; he practically jogged. His tiny, flat-footed strides were rapid and chaotic. He crossed the five feet of open carpet in seconds, completely bypassing the standard toddler waddle, and crashed directly into Ellie's waiting arms.
+
+Ellie caught him effortlessly, her heavy boots planted firmly to absorb the impact.
+
+Jack looked up at her, his face flushed with triumph. He reached up, patting her cheek with a chubby hand.
+
+"El-el!" Jack babbled loudly, the syllables crisp and distinctly intentional. "El-el!"
+
+From the sofa, Sarah gasped, her hands flying up to cover her mouth. Wyatt’s jaw dropped. First steps and first words, executed simultaneously, months ahead of the standard pediatric curve.
+
+Ellie didn't gasp. She evaluated the performance.
+
+She looked at the distance he had covered. She processed the clear verbal communication. Her dark eyes widened slightly, a profound, fierce pride washing over her features. She looked up at Wyatt and Sarah.
+
+"Fast," Ellie announced, her chest puffing out. She wasn't jealous; she was evaluating the combat readiness of her unit. "Faster than me. Good recruit."
+
+She patted Jack heavily on the back, offering him her highest commendation. The Vanguard was getting stronger.
+
+As if summoned by the commotion, the bathroom door down the hall clicked open.
+
+Nora walked out, her gait heavily favoring her right side, but her head was held high. She limped into the living room, a massive, proud smile on her face. Over the last year, Nora had completely conquered her physical anxieties. Using the specialized, heavy-timber step-stool and handrail Wyatt had built, she had officially mastered the bathroom. She was fully potty trained, her canvas training pants perfectly dry.
+
+"Did it," Nora announced, her breathy voice filled with quiet triumph. She walked over to the Chariot, leaning her weight against it, and gave Ellie a thumbs-up.
+
+Ellie returned the thumbs-up, her unit's success rate currently operating at peak efficiency.
+
+Suddenly, Leo's low, vibrating hum hitched. He shifted uncomfortably against the five-point harness of his center seat. His dark eyes darted toward the hallway, and his breathing shallowed slightly.
+
+He knew the biological signal perfectly well. His interoception was entirely intact—he knew his bladder was full, and he knew exactly what needed to happen next.
+
+His spasming right arm shook violently with effort as he fought his own tight muscles, forcing his hand down toward his customized AAC tablet. Nora instantly saw his struggle. She didn't do it for him; she simply wrapped her warm hand over his wrist, providing the steadying physical pressure he needed to isolate his index finger.
+
+Leo slammed his finger down onto the bright yellow square depicting a toilet.
+
+"Bathroom," the tablet's automated voice announced clearly.
+
+"Copy that, Leo," Wyatt grunted, instantly pushing himself off the sofa.
+
+He crossed the room in three massive strides. He leaned over the Chariot, quickly unclicking the five-point harness, and scooped his thirty-pound son into his arms. As Wyatt lifted him, he felt the immediate, rigid resistance of Leo's scissored legs. The spastic diplegia locked his muscles tight, pulling his knees inward.
+
+A quiet, heavy realization settled into Wyatt's chest as he carried his son down the hall toward the specialized medical commode.
+
+Leo possessed the cognitive awareness. He could communicate the need flawlessly. But he was entirely trapped by his physical limitations. He would never be able to independently unbuckle from a wheelchair, stand, pivot, manage his clothing, balance on the seat, and transfer back. The sheer biomechanical requirements of using the toilet were a permanent impossibility for his body. He was going to need total, physical lifting and positioning assistance for the rest of his life.
+
+Wyatt looked at Sarah on the couch as he carried Leo away. Her dark eyes met his, and he could see the exact same gentle, heartbreaking acceptance reflecting back at him.
+
+But as Wyatt stepped into the bathroom, he heard the heavy, flat-footed stomps of boots following right behind him.
+
+Ellie marched into the bathroom, grabbing a clean towel from the rack to have it ready. Nora limped in right behind her, reaching out to hold Leo's shaking hand as Wyatt carefully lowered him into the highly supportive commode chair.
+
+Leo wasn't a burden to them. He was the center of their gravity. Wyatt knew, with absolute certainty, that when he and Sarah were no longer able to lift him, Ellie and Nora wouldn't hesitate for a single second to take over his physical transfers. They would be his arms and legs whenever he needed them.
+
+The Vanguard would never leave him behind.
+
+"Alright, squad," Wyatt cleared his throat, pushing the heavy emotion down and replacing it with a massive, proud grin as he finished securing Leo's lateral supports. "Once Leo's done here, I think that warrants a celebratory ration of synthesized apple slices for everyone. To the kitchen."
+
+Ellie gave a firm nod, taking up her defensive post by the door. Nora leaned her cheek against Leo's shoulder, anchoring him while he went. And down the hall, little Jack waddled happily toward the kitchen, completely unaware of the beautiful, unbreakable armor his older siblings had built around each other.
+

@@ -1,0 +1,76 @@
+# Part 1: The Ticket Kiosk
+
+## July 28, 2006 Iron Point Station - Plaza Level 09:00 AM
+
+The morning was bright and humid, a typical New England summer day. The Fortress stood before the bank of orange-and-silver **BTA Ticket Vending Machines** in the open-air waiting area.
+
+They didn't have their **BSU Student IDs** (Bull Passes) yet—orientation wasn't until late August. For the next month, they were civilians in the BTA system.
+
+"Okay," Stella said, pulling out her debit card. "We aren't doing this piecemeal. I don't want to be calculating zones every time we want to go exploring. We're getting the hardware."
+
+Leo sat in his manual **TiLite Aero Z**. He watched the screen. He tapped his **MagnaByte Scribe**.
+
+*"LINKPASS ACQUISITION,"* he typed. *"FULL ACCESS."*
+
+"Maximum access," Stella corrected. "We live in Zone 6, but the system ends at Zone 15. I want us to be able to ride all the way to **Wickford Junction** if we want to. No boundaries."
+
+She navigated the menu.
+
+**Step 1: The Media** She selected **5 New LinkPass Cards**.
+
+- **Cost:** \$5.00 each.
+
+- **Total:** \$25.00. The machine spit out five crisp, orange plastic cards with the silver BTA logo.
+
+**Step 2: The Products** She tapped the first card to the reader.
+
+- **Destination Zone:** **Zone 15 (Wickford Junction - System Wide)**.
+
+- **Type:** **30-Day Pass (Adult)**.
+
+- **Cost:** **\$585.00**.
+
+- **Action:** Loaded onto Card 1 (Stella).
+
+She repeated the process for Card 2 (Olivia) and Card 3 (Luna).
+
+- **Subtotal for the Adults:** \$1,755.00.
+
+She tapped the fourth card (Leo’s).
+
+- **Destination Zone:** **Zone 15**.
+
+- **Type:** **30-Day Pass (Reduced Fare - Disability)**.
+
+- **Cost:** **\$292.50**.
+
+- **Action:** Loaded.
+
+Finally, she tapped the fifth card (Eleanor’s). "Grandma gets the VIP treatment," Stella said. "I don't want you worrying about reloading this."
+
+- Destination Zone: Zone 15.
+
+- Type: Yearly Pass (Reduced Fare - Senior 65+).
+
+- Cost: \$3,150.00.
+
+- *Note:* It was a massive upfront cost, but it meant Eleanor could ride any train, bus, or ferry for free for 365 days.
+
+The machine whirred. The grand total flashed on the screen: **\$5,222.50**.
+
+Luna’s eyes widened. "Stella... that's a used car."
+
+The machine chirped. **TRANSACTION APPROVED.**
+
+"It's freedom," Stella said, authorizing the charge. "It's the entire **Braxton Metropolitan District**, unlimited. We can go from here to the airport, to the city, all the way up to the transfer point at Wickford."
+
+Stella handed out the cards. "Put these in your wallets. Don't lose them. Until you get your student IDs, this is your key to the city."
+
+"Just remember," Stella warned, tapping her own card. "This is a **BTA** card. It works on the orange trains and the orange buses. It does **not** work on the purple BSTA train to Boston, and it does **not** work on the blue OSTA buses to Newport. If we cross the border, we pay cash."
+
+Leo took his card. He looked at the map on the station wall. He traced the orange line north to **Wickford Junction**. That was the wall. Beyond that lay the wilds of the Ocean State Transit Authority.
+
+*"FORTRESS TERRITORY SECURED,"* Leo typed. *"WE OWN THE ZONE."*
+
+"Exactly," Stella said. "Now let's go use it. The 9:15 to **Braxton Central** is coming. We have a power chair to buy."
+

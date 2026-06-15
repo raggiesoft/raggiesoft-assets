@@ -1,0 +1,104 @@
+# Part 7: The Silent Investor
+
+## Date: December 29, 2003 Time: 3:42 AM Location: The First Floor Guest Suite, 95 West Main Road, Portsmouth, Rhode Island
+
+The house was quiet, save for the hum of the refrigerator in the kitchen and the rhythmic ticking of the grandfather clock in the hallway.
+
+In the first-floor guest suite, the breathing that had marked the rhythm of the last two days slowed. It didn't struggle. It didn't gasp. It simply grew shallower, the pauses between breaths stretching longer and longer, like a pendulum slowly coming to rest.
+
+Tom sat by the bed, his hand resting over his mother's. Ellen stood behind him, her hand on his shoulder.
+
+Patrick and Nichole were parked at the foot of the bed. They hadn't left the room since dinner.
+
+Grandma Helen opened her eyes one last time. She didn't look at the ceiling; she looked at the window, where the moonlight was reflecting off the snow-covered lawn of the Fortress.
+
+She let out one final, soft exhale.
+
+And then, the silence was absolute.
+
+Tom waited. He checked the pulse at her wrist, just as the hospice nurse had taught him. He held it for a long minute, tears streaming silently down his face.
+
+He looked up at the family. He didn't say "she died."
+
+"She's free," Tom whispered.
+
+There was no wailing. No panic. The sadness in the room was heavy, but it was clean. It was the sadness of a ship leaving the harbor after a long, successful voyage.
+
+Uncle Mark stepped forward from the doorway. He walked to the bed and kissed his mother’s forehead.
+
+"Travel well, Mom," Mark said softly. "Say hi to Dad for us."
+
+Nichole looked at the empty shell of the woman who had loved them so fiercely. She didn't feel traumatized. She felt a profound sense of respect.
+
+Her grandmother hadn't run from this moment. She had waited for the family to be reunited, waited for the house to be ready, and then greeted death like an old friend she had been expecting for tea.
+
+## Date: December 30, 2003 Time: 10:00 AM Location: The Dining Room
+
+The next morning, the business of death began. But Helen Bennett, true to form, had already done the work.
+
+Tom sat at the head of the table with a heavy, fireproof lockbox that Helen had brought with her from Newport.
+
+"She gave me the key on Christmas Eve," Tom said, his voice rough but steady. "She told me not to open it until she was gone."
+
+He unlocked the box. Inside wasn't a mess of receipts. It was a perfectly organized system of file folders.
+
+*Burial Instructions.* (She had already paid for the plot next to her husband). *Obituary Draft.* (She had written it herself to save them the trouble).
+
+And at the bottom, a thick manila envelope labeled: THE LAUNCH FUND.
+
+Tom opened it. He pulled out a bank book and two thick portfolio binders from a national financial trust.
+
+He read the first document. He stopped. He read it again, his glasses sliding down his nose.
+
+"Oh, Mom," Tom choked out, shaking his head in disbelief.
+
+"What is it?" Ellen asked, putting her hand on his arm.
+
+"We thought she was scraping by on Social Security," Tom said, holding up the passbook for a local savings account. "She wasn't. She was hoarding it. Every birthday check we sent her, every bit of surplus... she saved it. There's \$23,497.61 in here."
+
+He turned the page to a handwritten note clipped to the book.
+
+*"Divide evenly between Patrick and Nichole. For books and pizza. Don't let them eat ramen."*
+
+Patrick stared at the book. Twelve thousand dollars each. That covered books, fees, and food for their entire undergraduate career.
+
+"But that's not the big one," Tom said, his hands shaking as he opened the financial trust binders. He looked at Ellen, completely bewildered. "Did you know about this?"
+
+"Know about what?" Ellen asked, confused.
+
+"She didn't tell anybody," Tom whispered, sliding one binder to Patrick and one to Nichole. "Not even me. 529 College Savings Plans. She set these up the week you were born. April 1985. She put in a little bit every month for eighteen years. In absolute secret. Compound interest did the rest."
+
+Patrick looked at the bottom line of his statement.
+
+Total Portfolio Value: \$61,273.75.
+
+Nichole looked at hers. \$61,273.75.
+
+The room went silent.
+
+They had spent the last six months agonizing over out-of-state tuition, calculating gap year wages, and worrying about loans. Patrick had been ready to work double shifts at a grocery store to buy an elevator.
+
+And the whole time, Grandma Helen had been sitting in her apartment in Newport, quietly building a war chest for a battle she knew was coming.
+
+Combined with the savings account, they each had nearly \$73,000.
+
+With the Rhode Island in-state tuition rate kicking in next September, this wasn't just "help." This was a full ride. BSU tuition, housing, and the astronomical rent at The Foundry Lofts were all officially covered.
+
+Patrick looked at the empty wheelchair parked in the corner of the living room.
+
+He realized then that the "Fortress" wasn't just the brick walls Uncle Mark had bought. It was the foundation Helen had laid down, dollar by dollar, for two decades.
+
+Nichole reached for her mouse. Her hand was shaking, but her eyes were dry and fierce.
+
+"SHE. WAS. THE. ENGINE."
+
+"Yeah," Patrick whispered, closing the binder. "She was."
+
+Tom wiped his eyes and closed the lockbox.
+
+"She wanted you to fly," Tom said. "So... no student loans. No debt. You guys just go to school and build the machine."
+
+Nichole looked at the binder. She tapped her screen.
+
+"WE. WILL. MAKE. IT. WORTH. IT."
+

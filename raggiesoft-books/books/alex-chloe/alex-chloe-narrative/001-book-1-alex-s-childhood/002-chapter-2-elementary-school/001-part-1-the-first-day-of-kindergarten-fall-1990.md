@@ -1,0 +1,40 @@
+# Part 1: The First Day of Kindergarten (Fall 1990)
+
+The first day of kindergarten was a sensory assault. The room was a riot of primary colors, the air thick with the unfamiliar smells of chalk dust, paste, and the slightly sweet scent of dozens of nervous children. The noise was the worst part—a constant, chaotic symphony of high-pitched chatter, scraping chairs, and the booming, cheerful voice of a teacher trying to impose order.
+
+For five-year-old Alex Miller, it was a nightmare. He sat in his small, specialized wheelchair in a corner of the room, his hands clenched, a low, anxious hum building in his chest. The world was too loud, too bright, too much.
+
+Recess was no better. He was on the edge of the playground, a quiet, still island in a sea of motion. A few curious kids approached him. "Why don't you talk?" one asked. "Can you play tag?" another wanted to know. Alex just shrank back, overwhelmed, his silence a wall they didn't know how to breach.
+
+Then, a familiar figure appeared, walking across the playground with a quiet, purposeful confidence that was far beyond her eight years. It was Megan Carter, a third-grader, wearing a bright orange safety-patrol-style sash that read "Peer Helper." The Millers and the Carters had, of course, pulled a few quiet strings with the school administration to ensure that Megan's "Peer Helper" assignment for the first few weeks of school was, coincidentally, the kindergarten playground during Alex's recess.
+
+She saw him immediately, saw the familiar signs of his overload—the clenched hands, the low hum, the distant look in his eyes. She didn't try to talk to him. She didn't ask him what was wrong. She just walked over to the sandbox, filled a small plastic bucket with cool, damp sand, and brought it back.
+
+She sat down on the grass beside his wheelchair, completely ignoring the other curious children, and began to wordlessly build a small, perfect sandcastle. Her movements were calm and predictable. She didn't ask him to help. She just *was*.
+
+Slowly, Alex's anxious hum began to subside. He watched her work, her quiet, focused presence a calming anchor in the storm of the playground. After a few minutes, he reached a hesitant hand out and placed a small seashell on the top of the castle's tallest tower.
+
+Megan looked up at him and smiled, a genuine, uncomplicated smile of pure, sisterly love. She had created a safe bubble for him in the middle of the chaos, a quiet place where he could just be. Her presence was a clear, unspoken signal to everyone else on the playground: *He's with me. He's okay.* The guardian had taken her post.
+
+Seeing that he was calm now, that the tension had left his small body, she did what she always did. She put down the small plastic shovel she was using, shuffled closer on the grass, and simply opened her arms.
+
+It was a silent, familiar invitation. Alex didn't hesitate. He leaned forward in his chair as far as he could, and Megan met him halfway, wrapping her arms around him in a firm, grounding hug.
+
+For Alex, the hug was a miracle. It was the complete opposite of the chaotic, overwhelming sensory input of the playground. It wasn't loud or unpredictable. It was a single, steady point of deep pressure, a quiet, solid anchor that seemed to gather all the frayed, buzzing pieces of his mind and gently press them back together. He leaned into her, burying his face in her shoulder, the familiar, safe scent of her shampoo chasing away the last of his anxiety.
+
+She held him like that for a long time, not saying a word, just providing the profound, non-verbal comfort she seemed to instinctively know he needed. In that moment, the guardian had not just taken her post; she had built a fortress.
+
+The sharp, jarring clang of the bell signaling the end of recess finally broke the spell. A few minutes later, a teacher's aide came out onto the playground. "Okay, morning kindergarteners!" she called out. "Time to line up! The buses are here to take you home!"
+
+A wave of new anxiety washed over Alex. Go home? But... Megan wasn't leaving. The thought of being separated from her was a sudden, cold panic.
+
+Megan, seeing the look on his face, gently pulled back from their hug, her expression full of a patient, sisterly understanding. "It's okay, cuz," she said softly. "You're a kindergartener. You guys only have to do half the day. I'm a third grader, so I have to stay for the whole day. It's the rules."
+
+Alex didn't like the rules. He didn't want to leave her. He looked from her face to the line of other kindergarteners forming by the door, a profound, unhappy resignation settling over him. He knew he had to go. It's what the adults said he had to do.
+
+Megan gave his shoulder one last, reassuring squeeze. "I'll see you at my house right after school, okay? We can finish our sandcastle then. I promise."
+
+The promise of seeing her again in just a few hours was the lifeline he needed. He gave a small, reluctant nod.
+
+As the teacher's aide began to push his wheelchair back towards the school building, the world was still a loud, bright, and slightly scary place. But for Alex, it was no longer a nightmare. He had his guardian. He had a promise. And he knew, with a certainty that settled deep in his soul, that as long as he had Megan, everything was going to be okay.
+

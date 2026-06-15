@@ -1,0 +1,56 @@
+# Part 1: The Desktop Under the Stairs – 4:00 PM
+
+The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had shoved the family computer desk into the awkward, sloping alcove directly underneath the wooden staircase.
+
+It was cramped, dimly lit, and smelled faintly of dust and old wood. But for my nineteen-year-old sister, it was absolute ground zero.
+
+Jessica had her manual wheelchair parked perfectly into the tight gap, her brakes locked. The heavy monitor glowed, casting a cool light across her face, displaying the familiar, blocky teal desktop of Quantum OS 98. In April of 2000, it was the absolute standard operating system for a blue-collar consumer household, a fragile, consumer-grade environment that frequently crashed if you pushed it too hard.
+
+But Jessica hadn't just pushed it; she had completely bypassed its limitations. For months, sitting right here in this cramped alcove, she had waged a brutal war against this exact machine, stripping a corrupted, enterprise-level executable down to its raw Q32 API bones to meet the grueling March 15th deadline for the Quantum Catalyst Initiative. She had submitted her final code over a month ago. Today, the waiting was finally over.
+
+I was sitting on the living room floor a few feet away, working on a biology worksheet, while twelve-year-old Rachel sat cross-legged beside me, organizing a set of markers.
+
+Suddenly, the frantic, high-pitched screech of the 56k dial-up modem connecting to the internet echoed from the computer speakers.
+
+"It's four o'clock," Jessica whispered, her voice tight with a vibrating, electric anxiety. She leaned forward, gripping the edge of the desk as the web browser slowly rendered the page line by line. "They said the portal would update at four."
+
+Rachel stopped moving her markers. She looked over at the alcove, sensing the massive spike in her sister's gravity. I set my pencil down, my heart starting to hammer against my ribs.
+
+For thirty agonizing seconds, the only sound in the house was the ticking of the grandfather clock in the hallway and the mechanical hum of the desktop tower processing the data.
+
+Then, Jessica stopped breathing.
+
+She stared at the glass screen, her dark eyes completely wide behind her tinted glasses. Her hands flew off the keyboard, hovering in the air as if the plastic had suddenly caught fire.
+
+"Oh my god," Jessica gasped. It was a breathless, shattered sound.
+
+"Jess?" I asked, pushing myself up from the carpet. "What is it?"
+
+"I won."
+
+She didn't just say it. She screamed it. The pragmatic, composed, fiercely stoic protector of our pack let out a deafening, unadulterated shriek of absolute, pure ecstasy that bounced violently off the underside of the wooden stairs.
+
+"I WON!" Jessica screamed, spinning her wheelchair backward out of the alcove so fast her tires squeaked against the linoleum. "Michael! Rachel! Look at the screen!"
+
+Rachel and I scrambled up from the floor, rushing over to the computer desk.
+
+Displayed in bold, crisp text on the official Quantum Corporation webpage was the final announcement for the nationwide engineering competition. There were no runners-up. There were no honorable mentions. Out of thousands of high school juniors and seniors across the entire country, there was only one name listed at the very top of the page.
+
+**National Grand Prize Winner: Jessica Marie Ragsdale**
+
+"You're the only one," Rachel breathed, her dark eyes shining with sheer awe as she read the screen. "You beat everyone."
+
+"I beat everyone," Jessica sobbed, tears of overwhelming joy spilling over her eyelashes. She grabbed the wheels of her chair, spinning herself in a tight, triumphant circle in the middle of the hallway. "They're paying for Northwest Pacific University! They're paying for the dorms! I have a job in Redmond! We did it!"
+
+Rachel practically vaulted across the hallway, throwing her arms around Jessica’s neck. I immediately joined the embrace, dropping to my knees and wrapping my arms around both of them in a fierce, crushing, three-way pack hug.
+
+For the last five months, ever since the Black Friday fall that had confined her to that chair, Jessica had been fighting a brutal, uphill war to reclaim her independence. The adult world had looked at her broken legs and assumed her trajectory was permanently limited. But sitting under the stairs, typing on a consumer-grade OS 98 machine, she had just proved to the entire planet that her mind was an unstoppable force.
+
+"You're going to Seattle," I laughed, holding my sisters tightly as Jessica wept onto my shoulder.
+
+Right at that exact, euphoric moment, the sharp chime of the doorbell echoed through the house, immediately followed by the heavy, unmistakable *thud* of a large cardboard box hitting the concrete front porch. Baby and Archie erupted into a frantic, tail-wagging frenzy from the kitchen.
+
+Jessica pulled back from our hug, wiping her eyes, a brilliant, tear-stained grin taking over her face.
+
+"I think my official paperwork just arrived," Jessica said, reaching for her push-rims. "Let's go open it."
+

@@ -1,0 +1,86 @@
+# Part 3: The Fab-Foundry Apprentice – Tuesday, September 19, 2051 – 10:00 (Standard Galactic Time)
+
+The heavy, brushed-steel doors of the pneumatic elevator hissed open, revealing the massive, cavernous expanse of the Fabrication Foundry.
+
+With the monumental weight of the Earth Remnant Tribunal officially behind them, the Colton family had immediately returned to the only thing that truly mattered: their schedule. And according to the five-and-a-half-year-old commanding officer of the nursery, it was time for an engineering seminar.
+
+Wyatt stepped out of the elevator first, carrying a stack of specialized, molecularly printed safety gear.
+
+"Alright, squad. Perimeter rules are in full effect," Wyatt announced, his voice echoing in the quiet, industrial space. "Aria has locked out all heavy milling arms and plasma cutters. The only active hardware is the primary molecular 3D printer. However, this is still a heavy-machinery floor. Helmets and eye protection are mandatory."
+
+The Vanguard rolled out of the elevator.
+
+Nora was pushing the Chariot Mark II, her weaker left leg stepping smoothly in time with the rolling momentum of the heavy-duty tires. Leo was strapped securely into the center seat, his customized AAC tablet resting on his lap tray. Because the Fab-Foundry was an entirely new, potentially echoing acoustic environment, Wyatt had already fitted Leo with a pair of highly advanced, noise-canceling headphones. Leo let out a soft, muted hum, leaning heavily into his left side.
+
+Ellie marched at the front, holding the pull-handle with one hand while her other hand maintained a firm, tactical grip on the collar of a highly energetic, twenty-one-month-old Jack.
+
+Jack was practically vibrating with excitement. He was walking on his own, his sturdy toddler legs moving rapidly with perfect, confident coordination, but he absolutely refused to break formation. He knew his place in the unit.
+
+"Gear," Ellie demanded, halting the convoy in front of the primary workbench.
+
+Wyatt knelt down, handing out the equipment. He fitted a pair of clear, protective safety goggles over Ellie's eyes, then Nora's. Finally, he placed a tiny pair of goggles over Jack's face.
+
+Jack adjusted the strap himself, his bright eyes looking up at Wyatt. "Thank you, Daddy! My eyes are safe now!"
+
+"That's right, recruit. You're suited up," Wyatt grinned, entirely used to his youngest son's incredibly advanced vocabulary and crisp articulation. He stood up to address his oldest daughter. "Alright, Commander. You wanted to learn how the molecular printer works. Step up to the terminal."
+
+Sarah rolled her brushed-aluminum wheelchair up to the side of the Chariot. She leaned back against the memory-foam support, fighting a sudden, distinct wave of early-morning nausea. It was a terrifyingly familiar feeling. At barely six weeks pregnant with their fifth child, the profound exhaustion was just beginning to set in. She rested a protective hand over her still-flat stomach, smiling tiredly as she watched the lesson unfold.
+
+Ellie didn't hesitate. She dragged a heavy, anti-slip step-stool over to the primary holographic glass desk and climbed up. She stood exactly at eye level with the floating blue interface, her small hands resting on her hips as she surveyed the cascading menus.
+
+"The interface is locked to a basic, non-lethal schematic," Wyatt explained, stepping up behind her and pointing to the glowing blue hologram of an interlocking gear assembly. "It's a set of mechanical building blocks. To print them, you have to select the material from the left column, verify the structural integrity in the center, and hit the execution rune on the right."
+
+Ellie stared at the hologram. Her highly structured, fiercely analytical brain absorbed the steps in exactly three seconds.
+
+She reached out, dragging a digital block of raw polymer into the hopper icon. She tapped the center schematic, watching the digital stress-test flash a vibrant, passing green.
+
+Her hand hovered over the blinking execution rune.
+
+But Ellie didn't press it. She pulled her hand back, her dark eyes narrowing with tactical foresight. She looked over her shoulder, completely bypassing her father, and locked eyes with her subordinate.
+
+"Recruit," Ellie commanded sharply. "Up."
+
+Jack didn't need to be told twice. He let out a joyous squeal and practically sprinted to the stool, scrambling up the steps until he was standing shoulder-to-shoulder with his commanding officer.
+
+Ellie pointed a tiny finger at the blinking green execution rune.
+
+"Push," Ellie instructed Jack. But before the eager twenty-one-month-old could slam his hand onto the glass, Ellie grabbed his wrist, halting him perfectly. She looked him dead in the eyes, enforcing the absolute, unbreakable law of the Vanguard. "Wait. Check the unit."
+
+Wyatt crossed his heavy arms over his chest, sharing a surprised, deeply fascinated look with Sarah. Ellie wasn't just letting her brother press the button; she was running him through the operational readiness protocol.
+
+Jack understood the order. He turned his back on the glowing, highly enticing button and looked down at the floor, locating Nora.
+
+Nora was leaning against the side of the Chariot, her safety goggles slightly crooked. Jack climbed down one step of the stool. "Are you ready, Nora?" Jack asked, his voice bright and clear.
+
+Nora offered a soft, breathy giggle, giving him a firm thumbs-up.
+
+Jack nodded in satisfaction. He turned his attention to the center of the Chariot. Over the last few months, Leo’s sensory needs had become incredibly specific. He no longer accepted physical touch or deep pressure therapy from anyone but his sisters. If Wyatt or Sarah tried to hug him when he was overwhelmed, he would tense up; if Jack tried to grab his hand, Leo would actively pull away.
+
+Jack knew this boundary perfectly. He waddled over to the wagon, stepping incredibly close but keeping his hands respectfully clasped behind his own back.
+
+"Ready, Leo?" Jack asked politely.
+
+Leo’s intense humming hitched. He looked at his younger brother, his scissored legs tight against the seat. Sensing his need for compression, Nora immediately leaned over the wooden rail, wrapping both of her arms tightly around Leo's chest and resting her cheek against his shoulder.
+
+The moment Nora's firm, deep pressure enveloped him, Leo’s tense muscles melted. He let out a loud, vibrating grunt of approval. With Nora steadying his arm, he slammed his palm down on his AAC tablet.
+
+"Good," the tablet announced loudly in the Fab-Foundry.
+
+Jack grinned, thoroughly satisfied that his brother was secure. He turned around and marched back to the step-stool, climbing up next to Ellie. But right before his hand hit the green rune, he stopped.
+
+He didn't just check the Vanguard. Jack looked past the Chariot, his bright eyes locking onto Sarah in her wheelchair, and then up at the towering, heavily scarred mechanic standing right behind him.
+
+He pointed a tiny finger at Sarah, and then at Wyatt.
+
+"Mommy ready? Daddy ready?" Jack asked, ensuring the entire room was accounted for.
+
+Wyatt’s breath hitched in his throat. He looked at Sarah, whose dark eyes had filled with sudden, overwhelming tears. Ellie’s entire worldview was intensely, fiercely insular—her perimeter stopped at the edges of the triplets' physical bodies. But Jack naturally saw the entire room. He wanted absolute, universal consensus before he moved forward.
+
+"We're ready, Jack," Wyatt whispered, his voice thick with a fierce, blinding pride. "Execute the print."
+
+Jack slammed his hand down on the green rune.
+
+The massive molecular 3D printers at the back of the foundry hummed to life, blue lasers dancing elegantly behind the safety glass as they began to forge the interlocking gears.
+
+The Colton family stood together in the warm, ozone-scented air of the industrial shop, watching the machine work. The trial was over. The past was buried. And the family unit had never been stronger.
+

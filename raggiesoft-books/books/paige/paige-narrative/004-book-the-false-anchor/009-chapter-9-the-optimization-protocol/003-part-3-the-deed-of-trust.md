@@ -1,0 +1,111 @@
+# Part 3: The Deed of Trust
+
+## Saturday, September 4, 2004 — 14:00 PM 105 Pepper Street SE
+
+The afternoon sun filtered through the sheer curtains, illuminating the dust motes dancing in the air. The atmosphere in the living room was one of drowsy contentment.
+
+They were in the "Sandwich Configuration" on the plaid sofa. Freddie sat in the middle, his legs resting on the coffee table. Paige was on his left, her head on his shoulder, reading a paperback. Jessica was on his right, tapping away on her laptop.
+
+In the corner of the room, gleaming in matte black titanium, sat **The Rover**. It had arrived two days ago. Freddie had spent the morning learning to spin it on a dime in the kitchen. For the first time in years, his back didn't hurt.
+
+*Rattle. Jiggle. Click.*
+
+The front door knob turned.
+
+The three of them froze. They hadn't changed the locks yet—a logistical oversight.
+
+The door swung open. Ellen Avery stood in the doorway, her key in hand, a look of thunderous disapproval on her face. She stepped inside without knocking, her eyes immediately locking onto the wheelchair in the corner.
+
+"So," Ellen said, her voice tight. "You actually did it. You bought the thing."
+
+"Hello, Mother," Jessica said. She didn't stand up. She didn't move away from Freddie. She simply closed her laptop lid with a deliberate *snap*.
+
+Ellen walked into the room, her heels clicking aggressively on the hardwood. She gestured at the wheelchair. "I told you not to. I told you it was giving up. But you never listen, do you? You three live in this... this fantasy world where Freddie is a cripple and you two are his nurses."
+
+"I am not a cripple," Freddie said, his voice steady. "I am optimized. The Rover increases my efficiency."
+
+"It makes you look weak!" Ellen snapped. She turned her glare to the sofa. "And look at you. Middle of the afternoon, huddled together like a litter of puppies. It’s weird. It’s unnatural."
+
+She pointed a manicured finger at Paige.
+
+"You are enabling him, Paige. You’re nineteen. You should be out dating. You should be going to parties. Instead, you're sleeping in the same bed as your brother. Do you know what people would say if they knew? They’d call it sick."
+
+Paige stiffened. She felt Freddie’s heart rate spike—the "Robert Virus" triggering the shame protocol.
+
+Paige didn't pull away. Instead, she shifted closer. She wrapped both arms around Freddie’s left arm, squeezing hard. She looked her mother dead in the eye.
+
+"Let them talk," Paige said, her voice fierce. "I don't care about dates. I don't care about parties. I care about him."
+
+She turned her head and kissed Freddie’s shoulder, right in front of Ellen.
+
+"I am going to sleep next to him tonight," Paige announced, making it a vow. "And tomorrow night. And every single night for the rest of my life. If that keeps the nightmares away, if that keeps him safe, then I will never leave that bed. Ever."
+
+"And neither will I," Jessica added, leaning her head on Freddie’s right shoulder, locking him in. "He sleeps between us. That is the protocol. It is non-negotiable. It stops the night terrors. It works."
+
+Ellen’s face turned a blotchy shade of red. "This is... I won't have it. Not in my aunt's house. Marge let you get away with this nonsense because she was soft, but she’s gone now. I am the executor of the family standards."
+
+She crossed her arms.
+
+"I want that wheelchair gone. And I want you to start acting like normal siblings. Separate rooms. Separate lives. Or else I will evict you. I’ll sell this place out from under you."
+
+Jessica started to laugh. It was a dry, humorless sound.
+
+"Oh, Mother," Jessica said, shaking her head. "You really should have checked the public records before you drove up here."
+
+"Excuse me?" Ellen demanded.
+
+Jessica reached under the coffee table and pulled out a thick manila envelope. She tossed it onto the table. It slid across the wood and stopped at Ellen’s feet.
+
+"Read it," Jessica said.
+
+Ellen picked it up. She pulled out the document. Her eyes scanned the header.
+
+**DEED OF SALE** **Grantor:** Margaret E. Lewis (Owner) **Grantees:** Jessica Avery, Paige Avery, Freddie Avery (Joint Tenants with Right of Survivorship) **Consideration:** \$1.00 (Paid in Cash) **Date:** June 16, 2004
+
+Ellen’s hands shook. "What is this?"
+
+"Marge wasn't soft," Jessica said, her voice sharpening into a blade. "She was lucid. She watched you judge Freddie for years. She watched you try to force him to be 'normal.' And she knew exactly what you would do when she died."
+
+Jessica stood up then. She rose to her full height, blocking Ellen’s view of Freddie.
+
+"She sold us the house in June. We paid her one dollar. A token consideration to make the contract binding. We own this house, Mother. Lock, stock, and barrel. You aren't on the deed. You aren't on the lease. You have zero authority here."
+
+Ellen looked at the paper, then at the wheelchair, then at the three of them—the united front she couldn't break.
+
+"You stole this house," Ellen whispered.
+
+"We secured our base," Freddie corrected from the sofa. "Marge understood the mission requirements. She approved the King Bed. She approved the wheelchair. She accepted the data."
+
+Jessica walked to the front door and opened it wide. The heat from outside rushed in.
+
+"Here is the new reality," Jessica said. "Freddie uses the wheelchair because it stops his pain. We sleep in the same bed because it stops his fear. We are happy. We are functional."
+
+She pointed outside.
+
+"If you can accept that—if you can walk in here and treat Freddie with respect and stop trying to 'fix' us—then you can visit. But if you are going to come in here and call us sick? If you are going to insult the Captain?"
+
+Jessica’s eyes flashed.
+
+"Then you are trespassing on private property. And I will remove you."
+
+Ellen stood there for a long moment. She looked at Freddie, safely sandwiched between his sisters, looking stronger and more peaceful than he ever had under her care.
+
+She realized she had lost. The divorce had removed Robert. The deed had removed her.
+
+She dropped the envelope on the table. She didn't say goodbye. She turned around and walked out the door.
+
+Jessica slammed it shut. She threw the deadbolt.
+
+"Paige," Jessica commanded. "Go get the screwdriver. We're changing the locks. Today."
+
+"On it," Paige said, jumping up.
+
+Freddie looked at the wheelchair in the corner. Then he looked at Jessica.
+
+"Sector secure?" Freddie asked.
+
+Jessica smiled, sitting back down and wrapping her arm around him.
+
+"Sector secure, Captain. The house is ours."
+
+

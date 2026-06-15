@@ -1,0 +1,56 @@
+# Part 7: The Terrace Picnic – Sunday, May 12, 2045 – 15:30
+
+Wyatt waved his hand through the holographic projection of the neonatal charts, and the glowing blue light of the library table faded seamlessly back into the dark glass.
+
+"Class dismissed," Wyatt announced, letting out a long, contented breath.
+
+Sarah smiled, leaning her head back against the leather sofa. They had spent hours absorbing the absolute best of human medical and psychological knowledge, completely confident that they had mastered their timeline.
+
+"I think we've earned an early dinner," Sarah decided, turning to look at the massive hydro-glass window.
+
+The lingering, misty drizzle from the remnants of the super-cell had finally evaporated. The dark clouds had broken apart entirely, revealing a sprawling, brilliant blue sky. The golden light of Helios was pouring into the room, warming the mahogany panels.
+
+"A late lunch, early dinner, whatever we want to call it," Wyatt agreed, standing up. "Let's take it outside. I want to see what our valley looks like in the sun."
+
+"Perfect," Sarah said, standing up beside him. She looked down at her denim jeans and her gray Henley, and then over at Wyatt's canvas pants. Since they were just grabbing cold food, the protocol was obvious. "Eden Rule?"
+
+"Absolutely," Wyatt grinned.
+
+They didn't even bother walking to the master suite. They stripped right there in the library, tossing their heavy civilian clothes onto the arm of the leather sofa. Completely bare, the flawless ambient air of the estate washed over their skin as they walked hand-in-hand toward the sprawling master kitchen.
+
+They kept the menu wonderfully simple. Wyatt pulled a pre-made platter of thick deli-meat sandwiches from the stasis fridge, alongside two ice-cold glass bottles of carbonated cola. Sarah grabbed a large bowl and filled it to the brim with salty, perfectly crisp potato chips from the dry stores.
+
+Armed with their feast, they walked down the sunlit corridor past the library, the automated brushed-steel doors gliding silently open as they approached the observation terrace.
+
+The moment they stepped outside, the weather hit them like a physical embrace.
+
+It was a staggering contrast to the heavy, suffocating humidity that had preceded the storm. The air was incredibly crisp, clean, and wonderfully dry.
+
+"Aria," Wyatt called out, stepping onto the smooth stone of the cantilevered balcony. "What's the temperature out here?"
+
+*"The localized ambient temperature is a perfect 24.44 degrees Celsius, Wyatt,"* Aria’s voice filtered softly from the hidden exterior acoustic arrays. *"The barometric pressure has entirely stabilized, and the atmospheric humidity has dropped to nominal, comfortable levels. You have a clear, calm afternoon ahead."*
+
+"Twenty-four point four degrees," Sarah sighed happily, walking over to the edge of the stone balustrade. "It's gorgeous."
+
+The golden sun warmed their bare shoulders and backs instantly. The smooth stone of the terrace, having baked in the sunlight for the last hour, felt incredible beneath their bare feet.
+
+They set their food down on a low, circular teakwood table situated between two plush, weather-resistant loungers, but they didn't sit down right away. They stood together at the edge of the railing, looking out over their world.
+
+The massive, flooded lake that had drowned their valley was gleaming under the bright sun. The muddy brown water was already beginning to settle, reflecting the vivid blue sky and the towering, emerald-green peaks of the surrounding mountains. It was a landscape of raw, untamed, magnificent scale.
+
+"We walked on a moon this morning," Wyatt said quietly, wrapping his arm around Sarah's bare waist and pulling her flush against his side. "And now we're having a picnic on a mountain."
+
+"Not a bad Sunday," Sarah smiled, leaning her weight against him.
+
+They eventually moved to the loungers, sitting side-by-side in the warm sun. Wyatt popped the metal caps off the glass bottles of cola with the edge of a pocket multi-tool he had grabbed from the kitchen, handing one to Sarah.
+
+They clinked the glass bottles together, the clear, sharp *ting* echoing perfectly in the quiet mountain air.
+
+"To the weekend," Sarah toasted, taking a long, refreshing drink.
+
+They ate their sandwiches and shared the bowl of chips, completely relaxed. There were no complex logistics to solve, no S.H.O.P. Foremen to dodge, and no looming deadlines to fear. They just sat in their own skin, feeling the gentle, dry breeze drift across the terrace, watching the shadows slowly begin to lengthen across the water below.
+
+Wyatt leaned back against the plush cushions of the lounger, watching Sarah out of the corner of his eye. She was happily crunching on a potato chip, her dark hair catching the golden light, looking more radiant and at peace than he had ever seen her.
+
+They were entirely secure in their fortress, completely confident in the timeline they had mapped out in the library, and utterly, blissfully content with the present moment. It was a perfect afternoon on Planet Eden.
+

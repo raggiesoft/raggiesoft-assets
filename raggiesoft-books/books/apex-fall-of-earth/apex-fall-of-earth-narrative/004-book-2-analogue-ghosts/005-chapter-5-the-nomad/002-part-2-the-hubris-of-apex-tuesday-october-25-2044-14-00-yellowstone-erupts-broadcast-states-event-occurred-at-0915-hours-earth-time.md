@@ -1,0 +1,62 @@
+# Part 2: The Hubris of Apex – Tuesday, October 25, 2044 – ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)
+
+The rich, sweet taste of the hot chocolate had just begun to settle Wyatt’s nerves when the low, rhythmic hum of the Operations center was broken by a sudden burst of audio.
+
+Wyatt hadn't turned the communications board off. He had simply dialed the frequency scanner to search through the remaining, unencrypted civilian and military bands bouncing off the Earth's atmosphere. He wanted to know exactly what was happening down there, and more importantly, he wanted to know *why* Apex had suddenly noticed them.
+
+The scanner locked onto a heavy, static-laced signal. It wasn't the synthesized voice of the emergency grid or the gruff, tactical bark of a general. It sounded like a surviving news anchor broadcasting from a hardened bunker, his voice tight with outrage and panic.
+
+*"...seismic monitors across the surviving Midwest grid confirmed the impact at zero-nine-hundred hours. It was not a nuclear detonation. I repeat, the Pentagon has completely denied involvement. Preliminary telemetry from independent orbital watchers confirms an unsanctioned, high-velocity kinetic strike—a tungsten rod dropped from orbit—impacting directly over the former Nevada Test and Training Range."*
+
+Sarah lowered her mug, her bare feet pulling up onto the edge of the leather chair. "An orbital strike? On Sector 4?"
+
+Wyatt’s jaw tightened. "Apex," he muttered, the puzzle pieces slamming together in his head. "They used their private satellite grid to drop a Rod from God on the original dig site. They were trying to vaporize the hive-mind's core to destroy the evidence."
+
+The anchor's voice cut back through the static, completely abandoning any journalistic neutrality.
+
+*"This illegal strike comes just hours after the catastrophic data leak from STRATCOM. Declassified flight logs now prove that the United States Military and top Apex Defense executives evacuated Groom Lake completely, nearly seventy-two hours before the anomaly consumed Las Vegas. They knew. Congress is convening an emergency tribunal in the bunker at Mount Weather, demanding immediate answers from the DoD and Apex Defense Solutions regarding the abandonment of millions of civilians..."*
+
+"They knew," Sarah whispered, her voice trembling with a terrifying mixture of grief and pure, unfiltered rage. "They left everyone in Nevada to die just so they could quietly cover up their drilling accident."
+
+"And when the Glass Wall actually worked, Apex panicked," Wyatt deduced, his mechanic's brain tracing the exact timeline of their own near-death experience. "They realized the government was going to survive and investigate. So they dropped a kinetic weapon on Sector 4 to wipe their fingerprints off the crime scene. The thermal bloom from that orbital strike is what caused their sensors to sweep this sector and detect our life support."
+
+Apex Defense Solutions hadn't just caused the end of the world. They were actively sabotaging the survival of the human race to protect their stock price.
+
+Before Wyatt could reach out to tune the dial further, the analog board violently seized control.
+
+The news anchor was abruptly cut off. The harsh, mechanical scream of the Emergency Broadcast System physically rattled the thick glass of the viewport.
+
+*BEEEEEEP. BEEEEEEP. BEEEEEEP.*
+
+It was the loudest, most aggressive tone they had heard yet. The amber CRT monitor flashed violently.
+
+*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE UNITED STATES GEOLOGICAL SURVEY AND THE FEDERAL EMERGENCY MANAGEMENT AGENCY."*
+
+Wyatt gripped the armrests of the captain's chair, the heavy ceramic mug in his hand completely forgotten.
+
+*"AT ZERO-NINE-FIFTEEN HOURS, A CATASTROPHIC SEISMIC FRACTURE OCCURRED BENEATH THE STATE OF NEVADA, PENETRATING THE UPPER MANTLE. THE SUBTERRANEAN BIOLOGICAL ANOMALY HAS UTILIZED THIS FRACTURE TO BYPASS THE CONTINENTAL DIVIDE. IT HAS BREACHED THE SURFACE BENEATH THE STATE OF WYOMING."*
+
+Sarah grabbed Wyatt’s arm, her fingernails digging into his black t-shirt. "Wyoming? But the Glass Wall..."
+
+*"THE ANOMALY HAS OVER-PRESSURIZED THE YELLOWSTONE CALDERA. THIS IS A LEVEL-EIGHT VOLCANIC EVENT. THE YELLOWSTONE SUPERVOLCANO IS CURRENTLY ERUPTING."*
+
+The words hung in the air, heavy and absolute. The kinetic strike hadn't killed the anomaly. It had cracked the earth's crust wide open, giving the biological mass a direct, molten highway right underneath the radioactive blockade.
+
+*"A MASSIVE ASH CLOUD, HEAVILY CONTAMINATED WITH WEAPONIZED BIOLOGICAL SPORES, IS CURRENTLY SPREADING ACROSS THE SURVIVING MIDWEST AND CANADIAN PROVINCES. ALL REMAINING SURVIVORS MUST SEEK IMMEDIATE, HERMETICALLY SEALED SHELTER. DO NOT BREATHE THE OUTSIDE AIR. THE SUN WILL BE OBSCURED FOR AN INDETERMINATE AMOUNT OF TIME. MAY GOD BE WITH YOU."*
+
+*\<HEAVY AUDIO DISTORTION\>* *\<TRANSMISSION TERMINATED\>*
+
+The Operations center plunged back into the quiet, rhythmic purr of the ship's engines.
+
+Sarah stared blankly at the dark speaker grating. The Pacific Northwest, the Midwest, the remaining survivors... the Yellowstone super-eruption was going to bury them all in toxic ash and plunge the hemisphere into a volcanic winter. And the anomaly was going to ride that ash cloud straight over the Rocky Mountains.
+
+Wyatt looked down at his bare feet, the soft, clean denim of his jeans, and the premium hot chocolate sitting on the console. The contrast between the luxury of their escape and the agonizing death of their home planet made his stomach turn.
+
+"The anomaly didn't outsmart the military," Sarah said, her voice completely hollow. She looked up at Wyatt, tears welling in her eyes, driven by pure, helpless anger. "Apex did it. Apex dropped that bomb and handed the monster the keys to the supervolcano."
+
+Wyatt reached over, pulling her tightly against his chest. He rested his chin on the top of her head, staring out the massive viewport at the slowly drifting stars.
+
+"They burned the world to hide their shadows," Wyatt whispered, his voice dark and heavy with a promise.
+
+They were flying a ghost ship into the unknown, safe behind heavily armored bulkheads. But as Wyatt looked out into the black, the corporate assassins who had done this weren't just a threat to evade anymore. They were an enemy.
+

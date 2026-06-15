@@ -1,0 +1,24 @@
+# Part 2: The Soundtrack to a Heartbreak
+
+The drive home from Norfolk International Airport was a study in quiet, heartbreaking sorrow. James Miller drove, his knuckles white on the steering wheel, his eyes fixed on the road. Emily sat in the back beside Alex, her arm wrapped around her son's shaking shoulders, her own tears falling silently.
+
+Alex was crying. He hadn't stopped since they'd gotten in the car. It was a deep, continuous, and utterly inconsolable stream of silent tears that tracked down his pale cheeks. He stared out the window, but he wasn't seeing the familiar landscape of Norfolk and Virginia Beach blur past. He was seeing a void. He was hurt. He was terrified. And he was profoundly and completely alone.
+
+Desperate to fill the suffocating silence, to find something, anything, to distract from his son's raw grief, James reached forward and turned on the radio. He tuned it to Rock 107 The Wolf, the classic rock station they always listened to. The radio was in the middle of a commercial break, and the loud, cheerful voice of an announcer for a local car dealership filled the car for a moment before the final jingle played. Then, a gentle piano melody began, instantly recognizable.
+
+It was Odyssey. And the song was "Forever Yours."
+
+"...Highway run, into the midnight sun... Wheels go round and round, you're on my mind..."
+
+The lyrics, which had once been their anthem of unwavering commitment, were now a cruel, perfect mirror of his immediate pain. Chloé was on a highway in the sky, heading west, and they were now two separate worlds. The music wasn't a balm; it was the soundtrack to his heart breaking.
+
+A raw, guttural sob, a sound of pure anguish, was torn from Alex's chest. The silent tears became a torrent. He buried his face in his mother's shoulder, his body shaking with the force of his grief. The song, once a promise of their bond, was now being seared into his memory as a permanent, severe trigger, forever linked to this exact moment of profound loss. James, realizing his catastrophic mistake, quickly stabbed the power button on the radio, plunging the car back into a heavy, sorrowful silence, but it was too late. The damage was done.
+
+The person who understood the specific rhythm of his anxieties, the one whose touch was a grounding force, was gone. All he wanted, with an ache so deep it felt like a physical injury, was the one thing in the universe he could not have: a hug from Chloé.
+
+His parents tried to comfort him, their love a warm but insufficient blanket against the cold terror gripping him. He finally reached for his AAC device, his fingers trembling as he typed a single, desperate, impossible request.
+
+I NEED A HUG. A CHLOÉ HUG.
+
+Emily let out a small, choked sob, pulling him closer, knowing her own loving embrace wasn't the one he needed. The long, silent ride back to Lisa Court continued. The void in Alex’s life, the one Chloé had so completely and wonderfully filled, was now open, raw, and waiting. It was a vulnerability so profound that it would leave him tragically susceptible to the false promises of the first person who offered to fill it.
+

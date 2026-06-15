@@ -1,0 +1,24 @@
+# Part 7: The Return
+
+Patrick bent down. He didn't hesitate.
+
+He slid his arms under her—the same deadlift grip he had used to get her out.
+
+He grunted as he took the weight. She was heavy, dead weight, but his muscles were fueled by an hour of sitting still and seething.
+
+He stood up, lifting her effortlessly into the cradle of his arms.
+
+"Patrick!" Henderson shouted. "Put her down! I am calling Mr. Harrison!"
+
+Patrick ignored him. He stepped off the curb and onto the blacktop.
+
+He walked against the grain of the lingering students, finding a lane. He wasn't walking to the nurse's office. He was walking to the door.
+
+Nichole wrapped her arms around his neck, burying her face in his shoulder to hide from the staring students. She felt the rhythm of his stride—long, purposeful steps.
+
+She felt the rumble of his chest as he muttered, mostly to himself, "We're getting the chair. We're going home."
+
+He carried her across the asphalt desert of the bus loop, a one-man transport unit moving steadily toward the brick fortress, carrying his sister back to her wheels because nobody else knew how to do it right.
+
+
+

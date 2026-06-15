@@ -1,0 +1,76 @@
+# Part 7: Parallel Lines
+
+The bell for the start of second period rang, a shrill, dividing line that officially separated the twins for the next ninety minutes.
+
+## Section 1: The Band Room (Fine Arts Wing), 8:20 AM
+
+The Band Room was a sanctuary of controlled noise, located in the far reaches of the Fine Arts wing, physically isolated from the academic main building to keep the sound of drums and brass from bleeding into English classes.
+
+Leo rolled into the percussion section, a kingdom of rhythm in the back corner. He parked his wheelchair next to his assigned instrument: a concert xylophone that Mr. Thompson, the band director, had specifically modified. The stand had been lowered just enough for Leo’s knees to clear the undercarriage, allowing him to pull right up to the keys.
+
+"Alright, percussion! Let's wake up!" Mr. Thompson called out from the podium, raising his baton. "Scales. B-flat concert. Ready... and!"
+
+Leo picked up his mallets. In this room, his disability felt less like a cage. His legs didn't work, but his arms—strengthened by years of wheelchair use—were precise and powerful.
+
+He struck the keys. *Ping. Ping. Ping.*
+
+The wood resonated with a clear, bright tone. He wasn't just a kid in a chair here; he was the mallet player. He focused on the sheet music, his mind clearing of the morning's clinic indignities. For the next hour and a half, his world was reduced to rhythm, pitch, and the satisfying vibration of the xylophone bar under his mallet. He missed Luna—he always did—but the music was a language he could speak fluently on his own.
+
+## Section 2: Room 204 (Academic Wing)
+
+On the complete opposite side of the campus, in a quiet, carpeted classroom on the second floor, Luna sat in the front row of Algebra II.
+
+The teacher, Mrs. Gable, was writing a quadratic equation on the whiteboard. "Now, to solve for X, we first need to factor the equation..."
+
+Luna stared at the board, her chin resting in her hand. She had already solved for X. She had solved it in her head before Mrs. Gable had even finished writing the equals sign.
+
+She looked down at her notebook, where she had already completed the first ten problems of the homework assignment. Math was a language that made sense to her; it was logical, predictable, and orderly—everything that high school social dynamics were not.
+
+Her guidance counselor had begged her to transfer. "You're testing at a college level, Luna," she had said. "The Governor's School for the Arts or the Math & Science Academy would challenge you. You're bored here."
+
+But the Academy was a magnet program at a different high school. It would mean getting on a different bus. It would mean leaving Northwood.
+
+It would mean leaving Leo.
+
+Luna looked at the empty desk next to her, a habit she couldn't break. She imagined Leo in the band room right now, probably playing scales. She worried about him. Was Mr. Peters staying close? Was anyone giving him a hard time?
+
+"Luna?" Mrs. Gable asked. "Can you tell us the next step?"
+
+Luna blinked, snapping back to the room. "Isolate the variable," she said automatically. "Subtract four from both sides."
+
+"Correct," Mrs. Gable smiled.
+
+Luna went back to doodling in the margins of her notebook. She would rather be bored in Algebra II with Leo in the same building than be challenged in Calculus across town without him. It wasn't even a choice.
+
+## Section 3: The Band Room
+
+The tempo picked up. The band moved from warm-ups to their competition piece, "Cityscapes."
+
+Leo’s part became more complex—a rapid-fire run of sixteenth notes that required intense concentration. His mallets flew, a blur of motion. He missed a note, frowned, and doubled down, his tongue poking out of the corner of his mouth in focus.
+
+He felt a tap on his shoulder. It was Mike, the section leader for the drumline.
+
+"Nice run, Leo," Mike said over the noise of the brass section warming up. "You nailed that crescendo."
+
+Leo beamed. He tapped his **Quantum Communicator**, which was mounted next to his music stand.
+
+"THANKS. IT IS FAST."
+
+"Yeah, it's a beast," Mike agreed. "Keep it up."
+
+Leo took a breath, readying his mallets for the next measure. He checked the clock on the wall. **09:10 AM**. Halfway through. He wondered what Luna was doing. Probably being smarter than the teacher.
+
+## Section 4: Room 204 09:10 AM.
+
+Luna checked her watch. Halfway.
+
+The class was now working quietly on practice problems. The silence in the room was heavy, broken only by the scratching of pencils and the hum of the overhead lights.
+
+It was in these quiet moments that the separation felt the sharpest. When they were together, they were a fortress. Apart, Luna felt exposed, like a soldier without her shield. She shifted in her seat, her leg aching slightly—a phantom pain that often flared when she was anxious.
+
+She opened her binder and looked at the photo taped to the inside cover. It was the two of them from their birthday last April, Leo grinning in his chair, Luna leaning over his shoulder with her sax.
+
+"Forty more minutes," she whispered to the photo.
+
+She turned the page of her workbook, solved three more quadratic equations in thirty seconds, and waited for the bell that would signal their reunion.
+

@@ -1,0 +1,72 @@
+# Part 11: The Nest
+
+## Location: The Living Room, 168 Hermitage Road Time: 10:00 PM
+
+The farmhouse settled into the night.
+
+"Alright," Sherry said, stifling a yawn. "The rooster doesn't care if you're tired, he crows at dawn anyway. I'm turning in."
+
+She walked over to the sofa bed. She looked at the two teenagers—pale, battered by the day, wearing oversized t-shirts that swallowed their frames. She didn't offer pity. She offered a decree.
+
+"You sleep as late as you want," Sherry said. "The world isn't going anywhere."
+
+She kissed them both on the forehead—sharp, quick pecks.
+
+"Goodnight, kids," Tom said, pausing at the bottom of the stairs. "We figure it out tomorrow. Tonight, just rest."
+
+"Night, Dad," Patrick said.
+
+Ellen lingered for a split second, her eyes checking the room for hazards—old instincts die hard—before nodding. "Love you both. Use the bell if you need us."
+
+The three adults climbed the creaky wooden stairs. The sounds of their footsteps moved across the ceiling, then stopped. A door clicked shut.
+
+Silence descended on the ground floor.
+
+It wasn't the humming, mechanical silence of the Roosevelt Center, filled with the buzz of fluorescent ballasts and distant floor buffers. This was a heavy, organic silence. The sound of crickets through the screen door. The settling of timber beams. The rhythmic ticking of a grandfather clock in the hall.
+
+Patrick turned off the table lamp. The room plunged into a soft darkness, illuminated only by the moonlight filtering through the sheer curtains.
+
+He turned to Nichole.
+
+"Okay," Patrick whispered. "Configuration check."
+
+He adjusted the pillows. The sofa bed was softer than their mattress at home, which meant they would sink toward the middle. That was fine. Gravity was on their side.
+
+Nichole tapped his arm. *Come here.*
+
+Patrick lay down on his right side, facing her. He wrapped his left arm—the one with the spastic flexor tone—over her waist. He hooked his left leg over her shins.
+
+This wasn't just cuddling. It was engineering.
+
+By hooking his heavy leg over hers, he anchored her lower body, preventing the violent extensor spasms that often woke her up. By draping his arm over her chest, he provided the deep pressure she needed to feel where her body ended and the world began.
+
+He was her weighted blanket. She was his anchor.
+
+"No rails," Patrick whispered into the darkness, his forehead resting against hers. "No gaps. No curtains."
+
+Nichole let out a long, shuddering breath. She felt the tension of the day—the fear of the stampede, the humiliation of the 'Door Greeter' pitch, the terror of the separate beds—finally bleed out of her muscles.
+
+She wasn't in a cage. She was in a nest.
+
+Then, a soft *thump* echoed on the mattress. Barnaby.
+
+The orange barn cat had returned from his evening patrol. He navigated the landscape of the sofa bed with silent precision. He didn't walk on their faces. He didn't attack their feet.
+
+He found the hollow created by the crook of Patrick’s knees and Nichole’s shins—the warmest spot in the bed.
+
+He circled three times. Then, he collapsed.
+
+*Purrrrrrrrrrrrr.*
+
+The vibration started immediately. It traveled through the flannel sheets, through their legs, and into their bones. It was a low-frequency rumble that felt like a lullaby.
+
+Barnaby knew the assignment. He wasn't just a cat; he was the night watchman. He added his weight to the pile, sealing the pact.
+
+*Safe.*
+
+Patrick felt Nichole’s breathing sync with his. She was already drifting off, her body going heavy and slack against him.
+
+"We beat them, Nikki," Patrick whispered, his eyes closing as the cat's purr lulled him under. "We're still here."
+
+The Bennett Machine powered down for the night, safe in the valley, ready to rise and fight for the Holy Grail in the morning.
+

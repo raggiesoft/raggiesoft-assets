@@ -1,0 +1,60 @@
+# Part 8: The Annoyance – Thursday, December 21, 2045 – 02:15
+
+The 02:00 feeding and maintenance cycle was always the hardest. The profound, physical exhaustion in Wyatt Colton’s bones felt like lead, but his S.H.O.P. Marine discipline refused to let him miss a single drop of the fortified milk.
+
+He was standing in front of Bassinet 2, his heavy arms pushed through the circular access ports of the incubator, carefully holding the syringe to Nora’s enteral feeding tube. Behind him, Sarah was fast asleep on the bio-bed, her breathing deep and even.
+
+Suddenly, the biometric comm-cuff on Wyatt's wrist vibrated sharply.
+
+Wyatt didn't flinch, and he didn't pull his hands out of the incubator. He simply tapped the earpiece against his shoulder. "Report," he murmured, his voice a low, gravelly whisper.
+
+"Administrator," Aria’s synthesized voice chimed softly in his ear. "A second hostile corporate armada has dropped out of sub-light transit exactly four hundred kilometers above the northern hemisphere. Their metallurgical composition and drive signatures are a perfect match for the fleet we destroyed last month. It appears they have returned to investigate the sudden disappearance of their initial forces."
+
+Wyatt let out a slow, tired sigh. He was dealing with a severely traumatized, two-week-old premature infant who wouldn't stop whimpering, and now a megacorporation was interrupting her feeding schedule.
+
+"Route the CIC tactical feed to the secondary medical monitor," Wyatt ordered, keeping his eyes firmly on the fifteen milliliters of milk slowly dripping into Nora's tube.
+
+The glass screen above the bio-bed flared to life. Wyatt glanced up.
+
+It was a massive siege fleet. Dozens of glowing red icons hovered in orbit above the planet's camouflaged surface. The corporate commanders had clearly realized that the "dead husk" of Planet Eden was hiding something lethal, and they weren't taking any chances.
+
+"They are not attempting a scan or an initial hail," Aria reported, her digital tone entirely unbothered. "They have locked all targeting telemetry onto the planetary dampening field. They are opening fire with heavy, concentrated orbital bombardment."
+
+Wyatt watched the screen as the red icons unleashed a relentless, apocalyptic torrent of superheated plasma, kinetic rail-slugs, and anti-matter warheads. The sheer volume of destructive energy raining down on the planet was enough to crack a continent in half.
+
+Inside the medical bay, the silence was absolute.
+
+The cup of water on Sarah's nightstand remained perfectly still. The delicate fluid in the feeding syringe didn't even ripple. The Aegis grid was so incredibly overpowered that it absorbed one hundred percent of the kinetic and acoustic shockwaves. The strongest weapons known to humankind were currently slamming into the atmosphere, and down on Sub-Level 1, Wyatt couldn't even hear a dull thud.
+
+Wyatt finally finished Nora's feeding. He carefully disconnected the syringe, withdrew his arms from the access ports, and walked over to the medical console.
+
+"Open a wideband audio channel," Wyatt commanded, leaning his heavy hands on the glass.
+
+"Channel open, Wyatt."
+
+"Unidentified corporate siege fleet," Wyatt rumbled, his voice devoid of anger, radiating only a cold, lethal exhaustion. "This is your only hail. You are firing on sovereign territory. State your intentions and power down your weapons, or you will share the exact same fate as the fleet you came looking for."
+
+He watched the telemetry. The corporate commanders completely ignored the audio hail. The barrage actually intensified, the red icons desperately trying to overwhelm the shield capacitors before the "dead rock" could fire back.
+
+Wyatt didn't feel a shred of mercy. He had offered a warning shot to the first fleet. He wasn't going to offer one to the second. They were a threat to his sleeping wife and his three fragile children.
+
+"Aria," Wyatt stated, his dark eyes going completely cold as he looked at the tactical map. "No warning shot. Weapons free. Vaporize them."
+
+"Acknowledged, Administrator. Engaging the Aegis offensive network."
+
+It was even faster than the first time.
+
+Wyatt watched the screen as the planet's hidden, automated surface-to-space batteries erupted. The Aegis grid calculated the trajectories through the relentless incoming fire and unleashed a synchronized, devastating counter-barrage.
+
+The red icons on the monitor flared brilliantly for a fraction of a second, and then they were simply gone.
+
+"All targets neutralized," Aria reported quietly in his ear. "The sector is clear. The Aegis grid is returning to standby mode. Geothermal power draw remains optimal."
+
+Wyatt tapped the console, shutting down the tactical feed before the flashing lights could disturb Sarah. He rolled his shoulders, working out a knot of tension, and walked over to the sanitization basin to wash his hands.
+
+The universe had tried to end them again, and it hadn't even caused a ripple in his coffee.
+
+Wyatt dried his hands and pulled his rolling stool over to Bassinet 3. Leo was lying rigid in his incubator, his tiny fists balled up in absolute, silent terror. Wyatt’s heart ached immediately, the destruction of the corporate fleet entirely forgotten as he looked at his son.
+
+"I've got you, little lion," Wyatt whispered, pushing his massive arms through the circular access ports to begin the feeding cycle all over again. "Nothing's getting through the door."
+

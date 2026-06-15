@@ -1,0 +1,122 @@
+# Part 5: The Architect and the Laborer
+
+## Date: November 12, 1997 Time: 10:45 AM Location: Mrs. Miller’s Life Science Room
+
+For the next forty minutes, the table became a microcosm of the real world.
+
+Kevin, true to his word, provided the "muscle"—but only in the laziest sense possible. He rolled a few balls of clay, flattened them poorly, and then spent ten minutes trying to make a clay snake to scare the girls at the next table.
+
+"Kevin," Patrick snapped, gluing a Styrofoam ball to the cardboard base. "We need the Golgi apparatus. Flatten the yellow clay. Thin strips."
+
+"I'm on it, I'm on it," Kevin muttered, barely looking at the diagram. He rolled a lump of yellow clay into a lumpy, uneven worm. "There. Good enough."
+
+"NO."
+
+The synthetic voice from the head of the table was sharp. Nichole was glaring at the yellow worm. She didn't have the dexterity to roll the clay herself, but she had standards.
+
+She navigated her VocaLink 3000 menu. She hit the PRINT command.
+
+Vzzzzzt.
+
+A thin strip of thermal paper curled out of the side of the gray device. Patrick ripped it off.
+
+"Definition," Patrick read aloud. "Golgi apparatus: A complex of vesicles and folded membranes. Folded. Not a worm, Kevin. Fold it."
+
+Kevin rolled his eyes. "She’s so bossy."
+
+"She’s the architect," Patrick said, crushing Kevin’s yellow worm and handing it back to him. "Do it again."
+
+While Kevin grumbled and re-rolled the clay, Nichole continued her work. She wasn't just watching; she was generating the documentation.
+
+She typed out the labels for every organelle: Nucleus, Mitochondria, Ribosomes. She added brief functional descriptions for extra credit.
+
+Vzzzt. Vzzzt. Vzzzt.
+
+Patrick took the thermal strips and taped them to toothpicks, planting them into the model like flags on conquered territory. The result was clean, legible, and professional—a stark contrast to the messy handwriting on the other groups' projects.
+
+By 11:15 AM, the Bennett-Kevin model was a masterpiece of 7th-grade engineering. The clay was sculpted precisely (thanks to Patrick’s hands and Nichole’s quality control), and the labeling was type-written (thanks to the VocaLink).
+
+Kevin, having contributed approximately three lumpy balls of clay, leaned back on his stool and wiped his hands on his oversized jersey.
+
+"Man, we killed it," Kevin grinned, looking at the model. "That's definitely an A. You're welcome, ladies."
+
+Nichole looked at him. She looked at the model. Then she looked at Mrs. Miller, who was standing a few feet away with her grade book, watching the entire exchange over the rim of her glasses.
+
+## The Grade, Date: November 14, 1997 (Two Days Later) Location: Mrs. Miller’s Life Science Room
+
+The graded rubrics were placed face-down on the tables.
+
+Kevin snatched the paper up before Patrick could grab it. He flipped it over, expecting to see the bold red letter at the top.
+
+He froze.
+
+"What the...?" Kevin stammered. "Is this a joke?"
+
+He slammed the paper down in front of Patrick.
+
+Grade: E Score: 55/100
+
+"An E?" Kevin shouted, drawing the attention of the whole class. "But the model is perfect! Look at it!"
+
+Patrick looked at his own rubric, which Mrs. Miller had just slid onto the table in front of him and Nichole.
+
+Grade: A Score: 98/100 Comments: Excellent construction and labeling. Great teamwork.
+
+"Mrs. Miller!" Kevin yelled, waving his failing paper. "You made a mistake! Patrick and Nichole got an A!"
+
+Mrs. Miller walked over. She didn't look flustered. She looked bored.
+
+"There is no mistake, Kevin," she said calmly.
+
+"But it's a group project!" Kevin argued. "We all get the same grade!"
+
+"Usually, yes," Mrs. Miller agreed. "But I watched your group very closely on Tuesday. I saw Patrick building the structure. I saw Nichole generating the labels and directing the design."
+
+She crossed her arms, looking Kevin up and down.
+
+"And I saw you making a clay snake and bothering Jenny at Table 4."
+
+"I was just talking to her!" Kevin protested.
+
+"Jenny was trying to work, Kevin," Mrs. Miller said sharply. "She moved her chair three times to get away from you. That isn't 'talking.' That's being a nuisance."
+
+Nichole watched the exchange. She tilted her head.
+
+She remembered earlier, when Kevin had called her "eye candy" and winked. At the time, she hadn't understood the data.
+
+Eye candy. Candy is for eating. Eyes are for seeing. The metaphor didn't parse. And the winking—was it a tic? Was there dust in the room?
+
+She had just stared at him, confused, trying to run the social algorithm to figure out if he was offering her food or asking for medical help.
+
+But Patrick had known. Patrick had stiffened immediately. Patrick had stepped in and threatened to make Kevin eat the Styrofoam because Patrick understood the subtext that Nichole missed: Kevin was treating girls like things.
+
+Now, watching Kevin turn red as Mrs. Miller scolded him for bothering Jenny, the pattern finally clicked into place for Nichole.
+
+He thinks he is charming, she realized. He is incorrect.
+
+"In this classroom, you get the grade you earn," Mrs. Miller finished, tapping Kevin’s desk. "You claimed you were the 'muscle,' remember? But you didn't do any lifting."
+
+The class went silent. A few kids snickered. Kevin slumped into his seat, crushing the rubric in his hand, his ego deflated.
+
+Nichole felt a deep, satisfying warmth in her chest. It wasn't just petty revenge; it was data validation. The system had worked. The person who contributed nothing—and treated people like objects—got nothing.
+
+She reached for her mouse. She didn't look at Mrs. Miller or Patrick. She looked directly at Kevin.
+
+She navigated to her pre-programmed phrases. She found the one she had typed out specifically for this moment, just in case.
+
+She hit the button.
+
+"CLASS. DISMISSED."
+
+The bell rang on cue.
+
+Patrick grinned, sliding his A paper into his binder. He grabbed the push handles of the Titan AeroMotion.
+
+"Come on, Brains," Patrick said. "Let's go to lunch."
+
+They rolled out of the classroom, leaving the "muscle" behind to explain his E to his parents. The partnership was solidified: Patrick built the frame, Nichole wrote the code, and dead weight got left at the dock.
+
+Bennett Dynamics had just won its first contract.
+
+
+

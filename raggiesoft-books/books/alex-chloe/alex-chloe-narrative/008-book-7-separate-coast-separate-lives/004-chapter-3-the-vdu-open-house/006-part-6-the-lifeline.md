@@ -1,0 +1,36 @@
+# Part 6: The Lifeline
+
+After the wonderfully terrible sci-fi movie ended, and Alex’s genuine laughter had finally faded into a comfortable quiet, Megan looked at him, her expression soft and understanding. “Do you want to call Chloé?” she asked gently. “A proper call? No interruptions?”
+
+Alex gave her a look of profound, almost painful gratitude and nodded vigorously.
+
+Megan quickly set up her MagnaByte laptop on the coffee table. A moment later, Chloé’s bright, smiling face filled the screen. “Hey, you two!” she said, her voice a wave of pure warmth. “Having fun on your big adventure?”
+
+“We are,” Megan said, settling onto the sofa next to Alex. She wrapped a firm, supportive arm around his shoulders, pulling him into a close hug.
+
+Alex didn't realize it consciously, but in that moment, he was testing Chloé. Vera's poison had made him terrified of female affection, and he needed to see, with his own eyes, how Chloé would react to him being held so tightly by another woman. He leaned into Megan's embrace, his gaze fixed on the screen, waiting.
+
+Chloé saw the hug, and a visible wave of relief washed over her features. In her mind, there was zero jealousy, only solidarity. She remembered the day Alex had first introduced them, how he had proudly and lovingly called Megan his "most favorite woman in the whole wide world." She knew this wasn't a rivalry; it was a rescue. Megan hugging Alex wasn't a threat; it was a promise. *So what if he's snuggling with his cousin?* she thought. *He's safe. That's all that matters.*
+
+The call was for Alex. Megan and Chloé both knew it, and Megan gracefully faded into a supportive, background presence. They talked for over an hour, about everything and nothing. They were already counting down the days until Christmas break. Chloé talked about her classes at NPU, her grades were excellent, and she was already a favorite of her Library Sciences professor.
+
+When she asked Alex about his own classes, a shadow passed over his face. THEY ARE OKAY, his device voiced, but the tone of the message lacked his usual confidence. I AM... NERVOUS. ABOUT MY GRADES.
+
+Both Chloé and Megan heard the unspoken truth loud and clear. Alex was a brilliant student. He shouldn't be nervous about his grades. His anxiety was a clear symptom of the deeper, suffocating stress of his life with Vera. They both knew, with a shared, aching certainty, that he was not okay. But they also knew he wasn't ready to admit the full truth of it, not yet.
+
+As the call was winding down, a wave of profound emotion washed over Chloé. Seeing him safe with Megan, hearing the weariness in his voice, the ache of missing him was almost unbearable.
+
+"Alex," she said, her own voice suddenly thick with tears. "I miss you so much. I... I love you."
+
+The words hung in the air, the first time either of them had ever said them. It wasn't a romantic confession; it was a simple, profound statement of an undeniable truth. He was her best friend, her other half, the most important person in her world.
+
+Alex stared at the screen, at her beautiful, tear-streaked face. Her love was a lifeline, a warm, bright light in the suffocating darkness of his life with Vera. He typed, his own fingers trembling with the weight of the moment.
+
+I LOVE YOU TOO, CHLOÉ.
+
+They said their goodbyes, and Megan ended the call. Alex just sat there, the echo of their words filling the quiet room. He had a girlfriend, one who claimed to love him. But Vera's "love" felt like a cage, a constant, anxious pressure. Chloé's love, even from three thousand miles away, felt like freedom. It felt like home.
+
+And for the first time, a clear, sharp, and terrifying question cut through the fog of his confusion: *What if Vera isn't the right person for me?*
+
+He wasn't ready to answer it, not yet. But the question had been asked, and now, it would never go away.
+

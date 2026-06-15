@@ -1,0 +1,54 @@
+# Part 1: A Vector to Nowhere – Tuesday, October 25, 2044 – ~13:30 (Two hours later after leaving orbit)
+
+The viewport in the Operations center used to be a framed photograph of a dead, unmoving cosmos. Now, it was a living window.
+
+The stars were no longer static pins of light; they were drifting, slowly and steadily sliding past the thick, heavily scratched glass as Outpost Delta 9 pushed deeper into the void. The absolute, suffocating silence of the station had been permanently replaced by the deep, rhythmic *thrum* of the massive fission reactor in the lower ring, driving the heavy thrusters at a steady, conventional sub-light cruising speed.
+
+Wyatt sat in the heavy, leather-backed captain's chair he had dragged in from the executive quarters, staring at the amber CRT monitor. His bare feet were propped up on the edge of the analog console, his arms crossed over his chest. The heavy work boots and thick socks he had worn for the escape were sitting abandoned by the door. The adrenaline had finally burned completely out of his system, leaving behind a heavy, hollow exhaustion, and right now, feeling the cool metal of the console against his bare skin was a grounding comfort.
+
+The heavy dot-matrix printer was silent. The red *GENERAL QUARTERS* light had been shut off. They had run the dropship's timer down to zero and slipped right through the corporation's fingers.
+
+The bulkhead door hissed open, and Sarah walked in. She was wearing her soft gray t-shirt and denim jeans, her own bare feet entirely silent on the grated floor plates. She was carrying two heavy ceramic mugs, and a thick ribbon of steam was rising from them, carrying a scent that absolutely did not belong on a rusted, deep-space freighter.
+
+She walked over to the console, handing one of the mugs to Wyatt before sliding onto the wide armrest of his chair. He immediately dropped his feet from the console, wrapping his free arm around her waist and pulling her securely against his side. Sarah rested her hand on his shoulder, leaning her head against his.
+
+Wyatt looked down into the mug. It wasn't the aggressive, bitter black coffee from the galley percolator. It was thick, dark hot chocolate, topped with a massive, slowly melting mountain of real, sweet whipped cream.
+
+He took a slow sip. His eyes widened. It was staggeringly rich, made with actual, reconstituted whole milk and premium cocoa.
+
+"Sarah," Wyatt murmured, lowering the mug, completely thrown off balance by the decadent sweetness. "Where did you find this?"
+
+"In a locked, climate-controlled vacuum safe behind the dry goods," Sarah smiled softly, taking a sip from her own mug and licking a drop of whipped cream from her lip. "I'm telling you, Wyatt. Whoever this Apex Director was, he had a virtually unlimited checkbook. There are crates of premium chocolate, real milk powder, and things I can't even pronounce in there."
+
+Wyatt shook his head, a short, breathy laugh escaping him as the sheer absurdity of their situation finally caught up to him. They were fleeing a subterranean apocalypse and corporate hit squads, and they were doing it while drinking luxury hot chocolate in their bare feet.
+
+"How fast are we going?" Sarah asked, her voice a quiet, comfortable murmur over the purr of the engines.
+
+"Conventional maximum," Wyatt answered, his thumb tracing a slow, absent circle on her hip. "The reactor is running hot, but it's holding steady. We're burning raw nuclear thrust. It’s not graceful, and it’s nowhere near the speed of a modern Apex fusion drive, but we had a massive head start. They can't track our thermal bloom if they don't know which direction we burned."
+
+"And which direction *did* we burn?" Sarah asked, looking down at the terrifyingly complex array of brass toggles and analog navigational dials.
+
+Wyatt gestured toward the main heading indicator—a heavy glass sphere with a physical compass needle suspended in liquid, currently pointing toward a completely empty sector of the galactic map.
+
+"Nowhere," Wyatt admitted, looking up at her. "I just pushed the throttle forward and locked the steering column. We don't have a destination, Sarah. We're just driving away from Apex. Away from Earth. Just... away."
+
+Sarah looked back out the viewport. The concept of having no destination would have terrified her a week ago at the NTTR. But sitting here, leaning against Wyatt’s chest, feeling the steady, protective hum of the massive ship around them, it didn't feel like being lost. It felt like being free.
+
+"Good," Sarah said softly. "Nowhere sounds perfect."
+
+Wyatt’s eyes drifted back to the console. While Sarah found peace in the void, Wyatt’s mechanic brain was chewing on a puzzle. The premium hot chocolate was just another piece of it.
+
+"There's something weird about this rig, though," Wyatt muttered, his brow furrowing as he reached out to tap a heavy, dormant gauge on the far right side of the board. "When I routed the power to the thrusters, the reactor didn't even flinch. It took the load like it was nothing. Whatever executive built this place, he didn't just buy a decommissioned hauler. He poured a fortune into it."
+
+Sarah looked at the dormant sections of the console. Entire banks of switches and heavy dials sat dark, completely untouched by the primary power grid.
+
+"Why would an Apex executive need a ship with a reactor this massive just to sit still and listen to the radio?" Sarah asked.
+
+"Paranoia," Wyatt theorized, tracing the heavy, shielded wiring beneath the console. "If you have enough money to buy your own private guard tower in space, stash it with premium food, and hide it off the grid, you probably have a lot of enemies. He wanted to make sure that if he ever had to run, he could take his entire fortress with him. I still don't know what half these secondary systems even do. The power conduits run deep into the hull, into sections the blueprints say are just solid armor."
+
+He pulled his hand back, settling it comfortably around Sarah's waist again. He didn't care about the dead switches right now. They had oxygen, they had the hydroponics bay, and they had engines. That was enough for today.
+
+"We'll figure it out later," Wyatt said, the exhaustion finally pulling at his eyelids. "Right now, we're off the grid. The dropship is eating our dust, and we have the entire cosmos to get lost in."
+
+Sarah smiled, resting her cheek against his hair, watching the stars streak by in the dark. The universe was massive, hostile, and actively hunting them, but as long as the engines purred and Wyatt was sitting right beside her, she was ready for the ride.
+

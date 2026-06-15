@@ -1,0 +1,121 @@
+# Part 7: The Eden Rule – Thursday, May 9, 2045 – 12:15
+
+They left the tech room and the looping, desperate threats of High Director Kael behind them. Stepping back out into the warm, **23.8°C** afternoon air, the contrast between the cold corporate machinery of their past and the vibrant, breathing reality of their present couldn't have been sharper.
+
+Wyatt and Sarah walked down the grooved metal ramp, completely bare to the warm sun.
+
+They had already tilled the heavy loam and buried the heirloom seeds—the potatoes deep in their 15-centimeter trenches, the tomatoes settled at 5 centimeters, and the spinach broadcast across the topsoil. But the dark earth was thirsty, and a newly sown 12-by-8-meter garden needed water to wake up.
+
+Wyatt headed for the cargo bay's external storage lockers and pulled out two heavy-duty, ten-liter polymer buckets.
+
+He handed one to Sarah. She took it, looking down at her bare legs and then back up at Wyatt's broad, heavily scarred chest. They had just washed the morning's mud off in the river, and now they were about to haul twenty liters of river water right back up the muddy bank.
+
+"You know," Wyatt chuckled, reading her mind as he swung the bucket lightly at his side. "We could go back inside and put our shorts back on."
+
+Sarah looked out at the completely empty, towering alien forest. The nearest human being was millions of lightyears away, currently screaming into a radio transmitter that they were completely ignoring. There were no societal expectations here. There was no laundry day on the frontier unless they created one.
+
+"Why bother?" Sarah smiled, a genuine, profound sense of freedom washing over her. She gestured to the dark soil of the garden grid. "We're just going to get covered in mud and river water again. If we put clothes on, we're just making unnecessary work for ourselves."
+
+"Practical," Wyatt grinned, completely agreeing with her logic. "I like it."
+
+"Exactly," Sarah said, leading the way down the grassy slope toward the riverbank. "I say we make a new rule. We wear clothes when we actually need them. Like when we're cooking dinner tonight so we don't get hit by spitting grease. Or if we ever have to do heavy welding on the ship. But for everything else? We're the only two people on the planet, Wyatt. We might as well enjoy the sun."
+
+"The Eden Rule," Wyatt declared, stepping into the crystal-clear shallows of the river beside her. "I can absolutely live with that."
+
+They plunged their polymer buckets into the cool, rushing water, filling them to the brim. The physical labor of hauling the heavy water up the slope was intense, but entirely rewarding. With no clothes to constrict their movement or trap their sweat, the warm breeze cooled their bare skin perfectly as they worked.
+
+For the next two hours, they fell into a steady, peaceful rhythm. Down to the river, up the bank, and carefully pouring the fresh water over the seeded soil.
+
+They watered the deep potato trenches first, letting the dark earth soak up the moisture. Then they moved to the climbing tomato beds, and finally showered the shallow spinach grid. The smell of wet, rich earth rose into the air, mingling perfectly with the scent of the surrounding pine canopy.
+
+By the time the entire 96-square-meter grid was thoroughly watered, they were both glistening with sweat and splattered with fresh mud, exactly as they had predicted.
+
+Wyatt dropped his empty bucket onto the grass and wiped his brow with the back of his forearm. He looked at the massive, dark rectangle of wet soil, and then at Sarah. She was standing at the edge of the grid, her hands resting on her bare hips, looking incredibly proud of the work they had accomplished.
+
+They had shed their uniforms, their corporate IDs, and their traumatic pasts. They had literally planted their roots in the soil of a virgin world. Standing completely bare beneath the golden sun of Exoplanet 4, they had never felt more human.
+
+"Well," Wyatt sighed happily, reaching out to pull her muddy, bare body against his own. "The seeds are in the ground, and the soil is watered. What's next on the pioneer agenda for this afternoon?"
+
+**Part 8: The Colton Family – Thursday, May 9, 2045 – 13:30**
+
+The physical labor of the morning had completely drained them, but it was a deeply satisfying exhaustion. With the Eden Rule in full effect, Wyatt and Sarah didn't bother digging through the billionaire's pristine wardrobe lockers. They simply washed their hands at the galley sink and raided the pantry exactly as they were.
+
+They carried their lunch into the spacious, comfortable living area of the upper deck. It was a simple, perfect pioneer feast: thick peanut butter and jelly sandwiches made from the ship's vacuum-sealed bread, two bags of salty potato chips, and a pair of ice-cold sodas from the refrigeration unit.
+
+Sarah sat sideways on the heavy, plush fabric of the sofa, her bare legs draped comfortably over Wyatt’s lap. He had one arm wrapped securely around her bare waist, pulling her flush against his chest as they ate.
+
+The quiet peace of the afternoon was suddenly broken by the sharp, static hiss of the tech room’s unblockable analog receiver echoing down the corridor.
+
+High Director Kael was back. And he was losing his patience.
+
+*"Contractor Hayes,"* Kael’s voice echoed through the ship, shedding the cold, dictatorial polish for a sharper, more desperate edge. *"The isotopic decay of your jump wake is gone. But you cannot run forever. We have your biologicals in custody. Listen to them."*
+
+There was a brief crackle of static, and then two new voices filled the quiet living quarters.
+
+*"Sarah? Sarah, sweetie, please!"* a woman’s voice cried out, thick with manufactured, trembling panic. *"It’s your mother! It’s Ellen! They’re going to send us to the labor camps, baby! Please, you have to come back for us! We love you!"*
+
+*"We did our best for you, Sarah!"* a man’s voice joined in, the frantic, desperate tone of Tom Hayes bleeding through the speaker. *"Don't let them do this to your mother! You have a ship! Come home!"*
+
+Wyatt stopped chewing his sandwich. His jaw locked, a low, protective growl vibrating in his chest. His arm tightened around Sarah’s waist. The sheer manipulation of the broadcast was sickening. Kael was literally putting a gun to the heads of two colonists, forcing them to play the part of loving, devoted parents to bait a trap.
+
+But Wyatt knew the truth. And more importantly, Sarah knew the truth.
+
+Wyatt looked down at her, fully expecting the psychological warfare to take at least some kind of toll.
+
+Sarah just took a calm, deliberate bite of her peanut butter and jelly sandwich. She chewed, swallowed, and washed it down with a sip of her soda.
+
+She looked up at the ceiling speaker, her dark eyes completely devoid of sympathy.
+
+"They always were good liars," Sarah murmured casually, resting her head back against Wyatt's bare shoulder. She didn't feel a shred of guilt. The people crying on the radio weren't family; they were the monsters she had spent her entire childhood surviving.
+
+"Do we hail them?" Wyatt asked quietly. "Tell Kael exactly where he can shove his leverage?"
+
+"No," Sarah answered immediately, her voice flat and absolute. "If we key the subspace transmitter, the Apex scanners will instantly trace the origin point of the signal. We maintain total radio silence. As far as the galaxy is concerned, we are a ghost ship."
+
+She reached out, tracing her fingertips lightly over the heavy scars on Wyatt's chest.
+
+"They made their bed," Sarah whispered, closing the book on her past forever. "Now they can sleep in it."
+
+The radio clicked, looping Kael's desperate broadcast once again. But inside the heavily armored, sunlit living room of *The Nomad*, the threat had completely lost its teeth.
+
+"You know," Sarah said, shifting her weight so she could look directly into Wyatt's eyes. The coldness from the broadcast vanished, replaced by a deep, radiant warmth. "They're broadcasting to Sarah Hayes. But Sarah Hayes died in the Sol System."
+
+Wyatt set his sandwich down on the coffee table. He gave her his full attention, his hands resting gently on her bare hips.
+
+"We talked about this in the river yesterday," Sarah continued, a beautiful, genuine smile breaking across her face. "There are no magistrates here. There are no county clerks to issue us a piece of paper. But you promised me a home, Wyatt. And you kept your promise."
+
+Wyatt's breath hitched slightly. He looked at the incredible, resilient woman sitting in his lap. They had crossed the universe together. They had planted a garden in the dirt of a virgin world.
+
+"Sarah..." Wyatt murmured, his voice thick with emotion.
+
+"I don't need a ceremony," Sarah told him, her eyes shining as she leaned in, her bare chest pressing against his. "I just need you. I am your wife, Wyatt. And from this day forward, my name is Sarah Colton."
+
+Wyatt cupped her face in his large, calloused hands. A profound, overwhelming wave of love washed over him. He pulled her into a deep, passionate kiss, sealing the vow in the absolute quiet of their sanctuary.
+
+"Sarah Colton," Wyatt breathed against her lips, the name sounding completely perfect.
+
+"Aria," Sarah called out softly, not breaking her gaze from her husband. "Update the ship's internal registry."
+
+*"With immense pleasure, Sarah,"* Aria chimed warmly from the overhead speakers, her synthesized voice completely ignoring the Apex broadcast echoing from the tech room. *"The primary administrator registry has been permanently updated. Congratulations, Mr. and Mrs. Colton."*
+
+Wyatt let out a loud, joyous laugh, wrapping his arms around his wife and burying his face in her neck.
+
+As they held each other on the sofa, bathed in the afternoon sunlight filtering through the canopy, Wyatt suddenly pulled back, a wide, highly amused grin spreading across his face.
+
+"What?" Sarah laughed, seeing the mischievous glint in his eye.
+
+"I just realized something," Wyatt chuckled, shaking his head. "My home planet... the water-world. The planetary government is notoriously greedy. They enforce a universal tax code. It doesn't matter if you're working on the core rigs or contracted off-world; as long as you're a breathing citizen, they tax your existence."
+
+Sarah raised an eyebrow, a smile playing on her lips. "Wyatt, are you telling me you owe back-taxes?"
+
+"Oh, I definitely owe taxes for 2045," Wyatt laughed, leaning back against the sofa cushions. "I didn't file before I got deployed to the NTTR. But the best part is, their automated system always sends the bill to your last known corporate address."
+
+Sarah started to giggle, the image perfectly forming in her mind. "The Nevada Test and Training Range."
+
+"Exactly," Wyatt smirked, pulling his wife tightly against his side. "Good luck to the galactic repo men trying to deliver a tax bill to a glassed-over tungsten crater in the middle of the Nevada desert. I think we're going to get away with tax evasion, Mrs. Colton."
+
+Sarah laughed out loud, the sound completely drowning out the looping, desperate threats of the Apex empire. They were completely nude, eating peanut butter sandwiches on a stolen dreadnought, happily married, and officially off the grid.
+
+Life on Exoplanet 4 was absolutely perfect.
+
+

@@ -1,0 +1,89 @@
+# Part 10: The Humidity Index
+
+## Wednesday, July 9, 2003 15:00 PM
+
+The automatic doors of **Newman Hall** slid open, and the atmosphere changed instantly.
+
+Inside, the air had been cool, filtered, and sane. Outside, the **New River Valley** in July was a physical assault. The heat wasn't dry; it was a heavy, wet blanket of humidity that wrapped around them the second they stepped onto the pavement.
+
+"Thermal shock," Freddie gasped, stopping immediately to adjust his breathing. "The air density has increased."
+
+"It’s a sauna," Jessica agreed, wiping a bead of sweat from her forehead. "Welcome to Blacksburg in the summer. It’s 90 degrees and the air is soup."
+
+They stood on the edge of **Alumni Mall**, the broad avenue that ran through the heart of campus. Across the street, the bus shelter waited. It was only fifty feet away, but in this heat, it looked like a mirage.
+
+Behind them, inside the cool safety of the glass doors, Krystal watched them go.
+
+She stood by the recycling bin, her arms crossed. She watched the way the sisters flanked Freddie, shielding him from the crowd, checking on him as the heat hit. She watched the way he leaned into them, trusting them completely.
+
+She looked down at her purse. The pack of cigarettes poked out of the side pocket.
+
+She pulled it out. She looked at the white box. It hadn't made her look cool. It hadn't made her look mysterious. It had just made her smell like an ashtray and caused the guy she wanted to look at her like she was a biological weapon.
+
+"Useless," Krystal muttered.
+
+She tossed the pack into the trash can with a heavy *thunk*. She didn't need props. She needed a new strategy. She turned and walked toward the elevators to her dorm, leaving the Avery unit to the heat.
+
+## 15:05 PM (Alumni Mall Bus Stop)
+
+"Movement is required," Freddie stated, peeling his shirt away from his chest. "If we remain stationary, we will melt."
+
+"Bus is coming," Paige said, pointing down the mall.
+
+The white-and-maroon **Blue Ridge Transit** bus turned the corner, its large windshield reflecting the harsh sun. The destination sign flickered in the heat waves:
+
+**1 FALLING BRANCH**
+
+"Route 1," Jessica confirmed. "Straight shot down 460. AC included."
+
+They crossed the street, moving quickly to minimize exposure to the sun. By the time they reached the shelter, Freddie felt a trickle of sweat running down his back under the orange hoodie. He hated the sensation—it was wet, unpredictable, and overstimulating.
+
+The bus hissed to a halt. The doors opened, releasing a blast of refrigerated air that felt like a blessing.
+
+"PolyPasses," Jessica reminded them.
+
+They boarded. Freddie flashed his ID card at the operator. The driver nodded, too hot and tired to care about inspecting the expiration date.
+
+They moved to the back. Freddie took the window seat on the shady side of the bus. He pressed his face against the cold glass, letting the chill seep into his cheek.
+
+"System cooling," Freddie whispered.
+
+"Yeah," Paige sighed, sitting next to him and blowing a strand of hair out of her face. "That was awful. I felt like I was swimming."
+
+The bus rumbled forward, turning onto Main Street and then merging onto **Business 460**.
+
+The ride to Christiansburg was a thirty-minute decompression chamber. They watched the campus fade away, replaced by the rolling green hills and the commercial strip of the highway.
+
+Freddie watched the landmarks pass: the car dealerships, the fast-food signs, the slow transition from "University Town" to "Real World."
+
+He didn't think about Krystal. He didn't think about the cigarette smoke. He thought about the math of the bus schedule. Every **15 minutes**, a pulse. High frequency. Low latency. Predictable. Reliable.
+
+"Approaching **Pepper Plaza**," the automated voice announced.
+
+The bus slowed, turning off the road and navigating into the sawtooth bays of the transit center in Christiansburg.
+
+## 15:40 PM
+
+They stepped off the bus. The heat in Christiansburg was just as bad as Blacksburg, but here, it was manageable because safety was visible.
+
+Directly across the street sat **105 Pepper Street**. The white siding gleamed in the sun. The windows were dark, signaling that the blackout curtains were doing their job.
+
+"Home," Freddie said.
+
+They waited for a break in traffic and crossed the street diagonally. Jessica unlocked the front door.
+
+They stepped inside. The air conditioner hit them. The smell of lemon polish greeted them.
+
+"Door locked," Jessica said, throwing the deadbolt.
+
+Freddie unzipped his orange hoodie. He was sweaty, tired, and socially drained. But he was home.
+
+"Shower protocol?" Paige asked, kicking off her sneakers.
+
+"Affirmative," Freddie said. "Then... the Silo?"
+
+"Then the Silo," Paige promised. "We have a textbook to read."
+
+Freddie smiled. He didn't want Krystal's dorm room. He didn't want the friction. He wanted this. The cool air, the locked door, and the family that knew exactly how to keep the static away.
+
+

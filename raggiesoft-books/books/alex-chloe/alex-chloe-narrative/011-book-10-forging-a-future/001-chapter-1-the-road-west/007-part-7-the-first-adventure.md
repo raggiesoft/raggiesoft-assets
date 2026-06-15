@@ -1,0 +1,28 @@
+# Part 7: The First Adventure
+
+By late Monday morning, the moving truck was empty, and the apartment was a cozy, chaotic maze of perfectly placed furniture and half-unpacked boxes. James and Sophie, their parental mission of supervising the heavy lifting now complete, sank onto the new sofa with a pair of well-deserved coffees, looking tired but profoundly happy.
+
+Alex, Chloé, and Megan stood in the middle of the living room, surrounded by the architecture of their new life. They were home, but the sheer number of boxes left to unpack felt a little daunting.
+
+Chloé, however, had a different idea. A brilliant, spontaneous, and perfectly timed idea.
+
+"Okay, team," she announced, a mischievous, adventurous glint in her eye. "The heavy lifting is done. The parents are exhausted. And I refuse to spend our first official day in Washington unpacking boxes. We are going to be tourists."
+
+James and Sophie looked up, a little surprised. "You three have the energy for that?" Emily asked with a laugh.
+
+"Absolutely," Chloé declared. "And we are taking the bus."
+
+Alex’s head snapped up, his eyes wide with a sudden, brilliant hope.
+
+Chloé grinned at him. "That's right. The Lynnwood Transit Center is a ten-minute walk from here. It's not even too far for you to wheel it yourself. And from there," she said, pulling a neatly folded bus schedule from her purse, "TAPS Route 511 goes express, straight into downtown Seattle. No driving, no parking, just pure adventure."
+
+She then reached into her pocket and produced a familiar, heavy cylinder of paper. "And," she said, with the flourish of a magician revealing her trick, "I came prepared." She unrolled the paper to reveal a full, crisp roll of quarters, a relic she had brought all the way from Virginia specifically for this moment. "Bus fare is ready."
+
+A profound, shuddering wave of joy washed over Alex. This was it. The dream he had held onto since his brief, wonderful taste of freedom in Lynnwood three years ago. The ability to just... go. To show up at a bus stop and have the entire city open up to him.
+
+"You three go have fun," James said, a look of deep, proud understanding on his face. "Your mother and I will stay here and get a head start on the kitchen boxes. Call us when you're on your way home."
+
+A few minutes later, the three of them were out the door. The walk to the transit center was easy, just as Alex had planned on his maps weeks ago. The bus arrived on time, and the driver lowered the accessible ramp. Alex wheeled his Quantum Communicator Pro V on board, locked into place, and paid his fare with a handful of quarters Chloé gave him. It was a simple, mundane transaction, but for him, it was a profound declaration of independence.
+
+As the bus pulled away from the station and merged onto the freeway, heading south towards the glittering skyline of Seattle, Alex sat between his two favorite women in the world. He was not a patient being transported. He was not a passenger in someone else's car. He was just a guy, on a bus, on his way to see a new city, completely and utterly free.
+

@@ -1,0 +1,66 @@
+# Part 4: The Winter Window – Thursday, May 9, 2045 – 17:40
+
+The heavy, weather-sealed airlock hissed, sliding open to reveal the interior of the docking umbilical. Wyatt and Sarah stepped through, the soles of their bare feet leaving damp prints on the pristine, heated deck plates.
+
+At the end of the short corridor, a secondary set of brushed-steel doors silently parted.
+
+*"Welcome to the primary residence, Administrators,"* Aria’s voice greeted them. But her voice wasn't coming from the PDA or the ship's comms; it was resonating flawlessly from a hidden, high-fidelity acoustic array built directly into the ceiling of the facility. *"The data handshake is complete. I am now fully integrated into the estate's local mainframe. I can monitor and assist you anywhere on the property."*
+
+Wyatt and Sarah stepped out of the umbilical and stopped dead in their tracks.
+
+They had expected a bunker. What they walked into was an architectural masterpiece.
+
+The billionaire hadn't just carved a hole in the rock; he had built a sprawling, multi-level luxury mansion that flowed seamlessly *with* the mountain. The interior walls weren't harsh steel bulkheads; they were the smoothed, natural black stone of the plateau, polished to a mirror shine.
+
+A breathtaking, open-concept living area stretched out before them. Plush, massive sectional sofas wrapped around a recessed, modern fire pit. To their right, a localized geothermal spring had been harnessed into an indoor, multi-tiered waterfall that cascaded gently into a heated, illuminated pool. Massive, floor-to-ceiling hydro-glass windows lined the western wall.
+
+Sarah walked over to the glass, absolutely mesmerized. Through the reinforced panes, she could see the apocalyptic super-cell storm raging outside, the rain violently lashing against the mountain.
+
+"Aria," Sarah breathed, resting her hand against the cool glass. "If we can see out... can they see in?"
+
+*"Negative, Sarah,"* Aria assured her from the walls. *"The exterior facing of this hydro-glass utilizes active camouflage matrixes. From the outside, it projects a flawless, three-dimensional illusion of solid rock. You are completely invisible."*
+
+Wyatt walked past the sprawling, state-of-the-art kitchen, his eyes scanning the incredibly long hallway that branched off toward the rear of the estate. He counted the heavy, beautifully crafted timber doors.
+
+"One, two, three... there's at least eight separate living suites down there," Wyatt noted, thoroughly confused. He looked up at the ceiling. "Aria, this place is massive. Why did a paranoid billionaire build a mansion with enough bedrooms for twenty people?"
+
+*"The original architect did not intend to live in isolation, Wyatt,"* Aria explained, her synthesized voice carrying a faint, historical detachment. *"This facility was designed as a generational sanctuary. He planned to host his extended family, as well as the families of his four primary executive board members. However, based on the incomplete data logs from the Sol System, those families were intercepted by Apex Defense Solutions before they could board the transport."*
+
+A heavy silence settled over the luxurious living room.
+
+The billionaire had built an empire of safety, but he had died before he could fill it. All these beautiful, empty rooms were waiting for children that never came.
+
+Sarah turned away from the storm raging outside the glass. She looked down the long hallway of empty suites, and then walked over to the massive, plush sofa where Wyatt was standing.
+
+She sat down, pulling her knees to her chest. Wyatt immediately sat down next to her, wrapping his heavy arm around her shoulders.
+
+"Empty rooms," Sarah murmured, resting her head against his shoulder. "It’s tragic. But... it also means we have the space."
+
+Wyatt looked down at her, his heart skipping a beat. "The space?"
+
+"For a family," Sarah clarified, looking up into his eyes. The fierce, absolute certainty in her gaze made the breath catch in his throat. "We just agreed to be husband and wife, Wyatt. And we have a fortress that's entirely off the grid. There's no Apex. There's no quotas. For the first time in my life, I actually want to bring a child into the world."
+
+Wyatt's entire face softened. The image of a little boy or girl running barefoot across the heated stone floors of this sanctuary, completely safe from the horrors he and Sarah had survived, was the most beautiful thing he had ever imagined.
+
+"I want that more than anything," Wyatt vowed, his voice thick with emotion. He gently brushed a stray lock of dark hair behind her ear. "But we have to figure out the timeline. That S.H.O.P. Marine blocker they gave you back on the orbital station..."
+
+"The injection," Sarah nodded, shifting so she could look at him fully. Her analytical mind immediately began to run the numbers. "Right. I got the six-month shot in mid-October. Biologically, we jumped the ship in early November."
+
+"Which means your body only burned through about two weeks of the blocker before we went into cryo-sleep," Wyatt tracked, nodding slowly. "You have five and a half months of active hormones left."
+
+"And we recalibrated the ship's calendar to May 7th to match the planet's seasons," Sarah continued, doing the math out loud. "So... if we add five and a half months to May..."
+
+"Late October," Wyatt finished the calculation, his eyes widening slightly as the exact window locked into place. "The blocker officially expires at the end of October 2045."
+
+"But it doesn't leave my system the exact day it expires," Sarah added, knowing exactly how the heavy-duty corporate suppressants worked. "It usually takes a month or two for the residual hormones to flush out and for my natural cycle to restart."
+
+Wyatt did the final math, a slow, incredibly warm smile spreading across his face.
+
+"November," Wyatt said softly. "Between late November and January. That's when we can start trying."
+
+Sarah beamed, her heart swelling with an overwhelming sense of hope. It wasn't just a dream anymore; it was a scheduled reality. They had a solid six months to settle in, explore the estate, outlast the rainy season, and prepare the empty rooms.
+
+"A winter pregnancy," Sarah whispered, leaning forward to press her lips softly against his. "Mrs. Colton is going to be a mother."
+
+Wyatt kissed her back, pulling her tightly against his chest as the storm raged harmlessly against the camouflaged glass outside. The billionaire's empty sanctuary wasn't a tomb; it was a cradle. And by the time the planet's winter rolled around, they were going to fill it with life.
+

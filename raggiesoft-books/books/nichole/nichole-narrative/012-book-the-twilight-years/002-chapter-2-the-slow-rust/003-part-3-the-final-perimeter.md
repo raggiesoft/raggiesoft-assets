@@ -1,0 +1,24 @@
+# Part 3: The Final Perimeter
+
+## Date: January 2058 Age: 72 Location: The Master Bed
+
+The Plumbing Upgrade
+
+The final surrender of dignity had happened a month prior, but Patrick didn't call it a surrender. He called it a "System Bypass."
+
+Getting up to use the toilet had become a marathon. Even using a bedside urinal or a bedpan required lifting hips and shifting weight—movements that made Patrick’s vision gray out and Nichole’s oxygen saturation plummet. The cost of waste removal was too high.
+
+So, they authorized the installation of the Foley Catheters.
+
+Now, clear tubing ran from beneath the sheets to two discreet collection bags hanging on the lower rail of the bed, hidden inside modest canvas covers. The "fluid management" was now automatic. Constant drainage. No sensation of urgency. No waking up in the cold.
+
+Elena, the nurse, handled the output. She moved around the bed with the efficiency of a pit crew mechanic. She emptied the bags. She recorded the volume. She checked the color. "Kidneys are still fighting, Patrick," she would whisper, noting the amber liquid.
+
+For the solid waste, they wore high-absorbency briefs. But since their world had shrunk to a few sips of formula and the occasional spoon of broth, the "solid waste management" was a rare event. When it did happen, Elena performed the Log Roll. She would lower the bed rail. "Okay, Patrick, on three. We're going to roll toward Nichole." She would use the draw sheet under his back. One, two, three. He would tip onto his side. Warm water. Soft wipes. Fresh powder. Clean linens. Then she would roll him back. Zero effort.
+
+It should have been humiliating. A year ago, the idea of lying in a diaper while a stranger cleaned him would have been a fate worse than death. But now? It was just another friction removed.
+
+Patrick lay there, listening to the soft gurgle of the catheter line. He looked at Nichole. She was sleeping, her catheter tube coiling down the side of the mattress like a transparent snake. They were no longer biology. They were hydraulics. They were intake and output, managed by a third party so that their minds could stay focused on the only thing that mattered: The Connection.
+
+
+

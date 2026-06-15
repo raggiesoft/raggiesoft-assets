@@ -1,0 +1,38 @@
+# Part 3: The Watch
+
+## Time: 6:30 PM Location: The Living Room
+
+The sky outside turned a bruised, dark purple as evening set in. The rain was relentless.
+
+Patrick had pulled the "Emergency Bin" out of the closet—just in case. A heavy-duty lantern, a crank radio, and extra batteries. He set them on the coffee table.
+
+"Just in case the grid goes down," Patrick said. "But so far, the juice is flowing."
+
+He sat back on the sofa. Nichole was already there, tucked under the throw blanket.
+
+"You know," Patrick said, watching the rain lash the window. "If we were in the dorms right now, we'd be freaking out. The cafeteria would be closed. We'd be stuck in a tiny room with a roommate we hated."
+
+Nichole nodded. She imagined being stuck at that college in the woods in a storm—isolated, power out, freezing.
+
+Here, they were warm.
+
+She nudged Patrick’s leg with her foot.
+
+"MOVIE. MARATHON?"
+
+Patrick smiled. He grabbed the remote.
+
+"I think this is a 'Space Opera Sequel' kind of night. The ice planet feels appropriate."
+
+He hit play. The familiar fanfare blared.
+
+Outside, the city was drowning. The subway was dark. The streets were rivers.
+
+But inside Unit 404, the Closed Loop was holding. They had food. They had power. They had the fourth floor.
+
+And most importantly, they had the absolute certainty that no matter how high the water got, they weren't facing it alone.
+
+Nichole snuggled into Patrick’s side, resting her head on his shoulder as the opening crawl began.
+
+"LET. IT. RAIN," she thought. "WE. ARE. IRONCLAD."
+

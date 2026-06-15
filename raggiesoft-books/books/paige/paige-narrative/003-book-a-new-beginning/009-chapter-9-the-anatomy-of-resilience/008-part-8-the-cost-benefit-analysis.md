@@ -1,0 +1,74 @@
+# Part 8: The Cost-Benefit Analysis
+
+## Wednesday, July 23, 2003 17:45 PM — 105 Pepper Street
+
+The dining room was quiet, save for the crinkling of foil wrappers and the low hum of the television on the kitchen counter.
+
+Freddie was halfway through his **Thick-Stack**, eating methodically around the circumference to save the center—the "prime bite"—for last. The combination of heavy protein, salt, and sugar (the **Mega-Cola**) was bringing his systems back online. The tremor in his hands from the mountain descent had faded to a manageable vibration.
+
+On the small screen, the WNRV news anchor—a woman with hair sprayed into an immovable helmet of blonde—smiled brightly.
+
+*"And finally tonight,"* she announced, the graphic behind her shifting to an image of a Ferris wheel silhouetted against a sunset. *"Get your walking shoes ready, folks. The **Great Valley Fair** opens this Friday at the **Valley Civic Pavilion** in Salem."*
+
+Paige looked up from her fries. "The Fair," she murmured. "I haven't been to a fair since we were kids. Funnel cakes."
+
+*"That's right,"* the weatherman chimed in. *"They've got the 'Fireball' ride this year, the petting zoo, and of course, the giant slide. Gates open at noon. Expect heavy traffic on Interstate 81 near Exit 141."*
+
+Jessica wiped ketchup from her lip. "It does sound kind of fun. Greasy food. People watching. We could win a goldfish."
+
+She looked at Freddie. "What do you think, Captain? We conquered a mountain today. You think we can conquer the midway?"
+
+Freddie stopped chewing. He looked at the TV screen, which was now showing b-roll footage from last year’s fair.
+
+He saw the flashing strobe lights of the Tilt-A-Whirl. He saw the screaming children running through the crowd. He saw the dense, shoulder-to-shoulder pack of people fighting for space in the heat.
+
+He ran a simulation.
+
+- **Input:** Flashing lights.
+
+- **Variable:** Screaming machinery.
+
+- **Variable:** Unpredictable touching by strangers.
+
+- **Variable:** Smells (Deep fryer grease mixed with livestock manure and diesel generator exhaust).
+
+"Negative," Freddie stated, putting his burger down. "The proposal is rejected."
+
+"Too much?" Paige asked gently.
+
+"It is a sensory minefield," Freddie explained, pointing a fry at the screen. "Look at the density. There is no grid. People move in chaotic vectors. The noise level of the midway is likely exceeding 100 decibels. And the rides..." He shuddered. "Spinning induces nausea. Sudden drops induce panic. It is an environment designed to induce vomiting."
+
+"But... funnel cake," Jessica countered weakly. "Fried dough. Powdered sugar."
+
+"The caloric reward does not justify the sensory cost," Freddie ruled. "The ratio is inefficient."
+
+He picked up his burger again.
+
+"Besides," Freddie added, "we have a superior mission pending."
+
+"Operation: Wilderness," Paige smiled.
+
+"Correct," Freddie said. "The woods offer silence. The Fair offers static. I choose silence."
+
+Jessica nodded, taking a bite of her chicken sandwich. "You know what? You're right. Why pay twenty bucks to get a headache and step in goat poop when we can go sleep in the woods for free?"
+
+"Exactly," Freddie said. "The logic is sound."
+
+"Camping it is," Paige agreed. "Although... we could probably replicate the funnel cake here. I bet we can buy a mix."
+
+"Acceptable compromise," Freddie noted. "Controlled environment frying."
+
+On the TV, the news ended. The screen faded to the **GBS Evening Report** logo. The serious, orchestral theme song played—a signal that the "fun" news was over and the "real" news was beginning.
+
+"Volume up," Freddie requested. "David Clark is on."
+
+Jessica adjusted the remote. The anchor appeared, looking grave and trustworthy.
+
+*"Good evening. In Washington tonight..."*
+
+They settled in. The sun began to dip lower outside, casting long shadows across the table. The Great Valley Fair could keep its flashing lights and screaming crowds.
+
+Here, in the dining room of 105 Pepper Street, they had burgers, they had a plan, and they had the quiet.
+
+And for the Avery Unit, that was the only ride they needed.
+

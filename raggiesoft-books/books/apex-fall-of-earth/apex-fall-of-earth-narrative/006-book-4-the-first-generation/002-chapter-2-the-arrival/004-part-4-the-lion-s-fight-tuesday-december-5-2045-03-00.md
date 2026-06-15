@@ -1,0 +1,94 @@
+# Part 4: The Lion's Fight – Tuesday, December 5, 2045 – 03:00
+
+The medical bay was a symphony of chaos and miracles. From the far wall, the furious, healthy cries of Ellie and the thin, wavering wails of Nora filled the room.
+
+Wyatt Colton stood at the foot of the bio-bed, his chest heaving. Two of his children were alive and breathing. He stripped off his gloves, his hands shaking with a massive adrenaline tremor, and snapped a fresh, sterile pair over his wrists.
+
+He looked up at Sarah. She was entirely spent. Her head lolled back against the memory-foam supports, her eyes half-closed, her body shivering violently from the massive hormonal crash. She had nothing left.
+
+"Sarah, look at me," Wyatt urged, his voice cracking with desperate, profound love. "One more. We just have to bring the boy home."
+
+Before she could even nod, the entire medical bay plunged back into a harsh, flashing crimson nightmare.
+
+"CRITICAL WARNING," Aria’s voice blared, the volume overriding the crying infants. "Subject C has suffered a catastrophic positional shift. He is in a transverse lie, completely wedged against the pelvic wall. The umbilical cord is prolapsed and fully compressed. Total cessation of fetal oxygen flow."
+
+Wyatt’s heart stopped dead in his chest.
+
+A transverse lie meant the baby was completely sideways. He couldn't be delivered naturally, and the compressed cord meant his brain was currently suffocating in the dark.
+
+"Aria, prep the surgical armatures for an emergency extraction!" Wyatt roared, his S.H.O.P. Marine discipline shattering into pure, terrified fatherhood.
+
+"Surgical intervention will require three minutes to fully anesthetize the mother and breach the uterine wall," Aria calculated instantly. "Subject C will suffer irreversible, terminal hypoxia in less than ninety seconds."
+
+They didn't have three minutes. They had seconds.
+
+Wyatt stepped directly into the center of the bio-bed. He didn't have surgical tools, and he didn't have time for the machine. He only had his own two hands.
+
+"Sarah, listen to my voice!" Wyatt barked, his dark eyes locking onto hers with a terrifying, absolute intensity. "He is stuck sideways. He is suffocating. I cannot wait for the machine. I have to go in and turn him myself."
+
+Sarah’s eyes snapped open, the sheer terror slicing right through her exhaustion. She didn't argue. She gripped the lateral handles of the bed so hard her knuckles turned white. "Get him, Wyatt! Get my son!"
+
+"Aria, flood the mask! Maximum oxygen!" Wyatt commanded.
+
+Wyatt reached forward. Operating purely on instinct, spatial awareness, and raw, desperate prayer, he carefully but forcefully bypassed the birth canal, reaching inside to physically locate his unborn son.
+
+Sarah let out a blood-curdling, agonizing scream that tore at Wyatt’s soul, her spine arching completely off the bed.
+
+"I know, I know, I'm sorry!" Wyatt gritted out, tears of absolute panic blurring his vision.
+
+His gloved fingers found the tiny, rigid shoulder of his son. The boy was completely wedged. Wyatt clamped his jaw, applying careful, calculated pressure, physically rotating the infant's body against the resistance of the seizing uterine wall. The physical toll on Sarah was horrific, but Wyatt couldn't stop. He pushed, twisted, and guided the tiny frame until he felt the head finally align with the pelvic outlet.
+
+"He's clear!" Wyatt yelled, pulling his hands back into a catching position. "Push, Sarah! Give me everything you have left!"
+
+With a roar of pure, primal maternal fury, Sarah bore down one final time.
+
+Wyatt caught the heavy, slippery weight of his son.
+
+But the victory was instantly swallowed by a suffocating silence.
+
+Unlike Ellie’s furious wail, or Nora’s delayed cry, Leo was completely, horrifyingly still. His body was entirely limp, his skin a deep, terrifying shade of violet. There was no muscle tension. There was no movement.
+
+"Subject C is in severe hypoxic arrest. Cardiac rhythm is failing," Aria announced, her digital voice a cold death knell in the room.
+
+"No! No, you don't!" Wyatt roared, a sound of absolute, devastating heartbreak.
+
+He didn't even bother with the clamps. He ripped the cord free, cradling his lifeless son against his chest, and sprinted to the third bassinet. He threw Leo onto the heated scale.
+
+"Macro Beta! Override! Full resuscitation!" Wyatt screamed, his massive hands hovering over the tiny, motionless chest as Aria's armatures dropped from the ceiling.
+
+The positive-pressure ventilation mask slammed over Leo's face. The machine forced pure oxygen into his lungs.
+
+Ten seconds passed. Nothing.
+
+Wyatt gripped the edges of the bassinet, his broad shoulders shaking violently. Tears spilled hot and fast down his scarred cheeks. He had fought off an entire corporate armada to protect this room, and he was losing his son anyway.
+
+Twenty seconds. Thirty seconds.
+
+The prolonged lack of oxygen was devastating. Every ticking second was permanently altering the architecture of the boy’s brilliant, developing brain, cementing the severe spastic diplegia and the non-verbal autism that would define his entire life.
+
+"Please," Wyatt broke, his voice a ragged, desperate sob. He reached out, resting his heavy, calloused finger against his son's tiny, unmoving chest. "Please, little lion. Fight. Fight for me."
+
+Forty-five seconds.
+
+Suddenly, under Wyatt's finger, a tiny, erratic flutter sparked against the ribcage.
+
+Then, a sudden, violent hitch.
+
+Leo’s tiny chest jerked upward. He didn't cry. He didn't scream. But as the oxygen finally saturated his starved bloodstream, his rigid, limp muscles suddenly spasmed, his tiny fists curling tightly against his chest.
+
+A low, breathy, vibrating grunt slipped through the edges of the pediatric oxygen mask.
+
+"Cardiac rhythm re-established. Oxygen saturation is climbing," Aria reported, the flashing crimson lights finally, mercifully fading back to white. "Independent respiration is weak, but stabilizing."
+
+Wyatt collapsed forward, his forehead resting against the clear plastic edge of the bassinet. He wept openly, his massive frame shuddering with the sheer, crushing weight of the absolute miracle in front of him.
+
+He was breathing. He was entirely silent, save for that soft, vibrating grunt, but he was alive.
+
+Wyatt slowly stood up, wiping his face with the back of his arm. He looked at the three bassinets lined up against the wall. A fierce, protective mother hen. A brilliant, calculating survivor. And a quiet, fiercely resilient fighter.
+
+Wyatt turned back to the bio-bed. Sarah was completely passed out, her chest rising and falling in a deep, exhausted sleep, entirely unaware that the nightmare was over.
+
+Wyatt walked over, gently brushing the damp hair from her forehead, and kissed her.
+
+The Vanguard had arrived. And Wyatt Colton had never been more terrified, or more proud, in his entire life.
+

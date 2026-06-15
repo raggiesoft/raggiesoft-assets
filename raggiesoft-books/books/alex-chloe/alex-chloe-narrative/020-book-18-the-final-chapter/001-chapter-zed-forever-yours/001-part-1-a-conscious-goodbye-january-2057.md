@@ -1,0 +1,30 @@
+# Part 1: A Conscious Goodbye (January 2057)
+
+The winter of 2057 settled over the Eastern Townships of Québec like a soft, white blanket. In their quiet, accessible home in the small town of Magog, overlooking the frozen expanse of Lake Memphremagog, Alex Miller and Chloé Miller, both now 72, and Megan Carter, now 75, lived a life of peaceful, contented retirement.
+
+In the third week of January, Alex caught a simple cold. It was a minor ailment, but for his body, which had carried the weight of severe Cerebral Palsy for over seven decades, it was a significant burden. He became weaker, more tired, the simple act of breathing requiring a little more effort each day.
+
+One morning, Chloé was helping him with his coffee. Megan sat in the armchair beside his bed, a quiet, steady presence, her own face etched with a profound, loving sorrow. Alex looked from his wife to his cousin, his gaze clear and full of a profound, gentle peace.
+
+CHLOÉ. MEGAN, his AAC device voiced softly from its stand by his bed. I THINK... THIS IS IT. MY BODY IS TIRED. I'M READY.
+
+Chloé’s heart ached with a sorrow she had been preparing for but could never truly be ready for. She sat on the edge of his bed and took one of his hands. Megan took the other. "Are you scared?" Chloé whispered.
+
+NO, he typed, his gaze unwavering. NOT SCARED. JUST... READY. I'VE LIVED A WONDERFUL LIFE. WITH BOTH OF YOU. He squeezed their hands. I WANT TO STAY HERE. AT HOME. WITH YOU. WITH OUR FAMILY. NO HOSPITALS. PLEASE.
+
+"Of course, Alex," Chloé promised, her voice thick with tears she refused to let fall. "Of course. Right here. With us. Always."
+
+"We've got you, cuz," Megan added, her own voice a low, steady anchor. "We're not going anywhere."
+
+Later that day, after a long, quiet time simply holding his hands, Chloé and Megan moved to the living room to make the calls they had long ago planned for. Their first was a video call to Lily Thompson, the esteemed director of the Lynnwood Discovery and Care Center. Their second was to their cousins, Mathieu and Isabelle, who now jointly ran *Le Centre de Découverte et de Soin des Cantons-de-l’Est*.
+
+Chloé’s voice was steady, full of a sad, loving purpose. "Lily, Mathieu, Isabelle," she said, speaking to the two screens, "it's Chloé. I'm calling to let you know... Alex is beginning his final journey. He's comfortable, he's at peace, and he's at home."
+
+Megan, in her role as the Center's Co-Founder and COO, took over for the logistics, her own voice a perfect blend of professional resolve and deep, personal grief. "As per the plan we all discussed," she said, "we're going to be closing both Centers to the public, starting tomorrow, so that any of our staff who wish to come to Magog to pay their respects have the chance to do so."
+
+On the screen, Lily's eyes were already full of tears, but she nodded. "Of course, Megan. We'll handle everything here. You just... you just be with him."
+
+Mathieu, his own voice choked with emotion, added, "*On arrive. On sera là dans une heure.*" (We're coming. We'll be there in an hour.)
+
+The calls were made. The final phase of their life's plan was set in motion. The two incredible institutions they had built would temporarily close their doors, a quiet, global testament to the man who had dreamed them into being, allowing his extended family of colleagues and friends to come and say goodbye.
+

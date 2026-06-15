@@ -1,0 +1,46 @@
+# Part 1: The Gaelic Gambit and the Grease Trap Lament
+
+Months had passed since Alex and Chloé first received their "unofficial orientation" to Northwood High. The initial shock of freshman year had worn off, replaced by a routine of classes, homework, and navigating the social currents of the bustling cafeteria. They'd seen Mrs. DeMarco in action a few times – mostly minor infractions met with stern glares or curt commands that quelled any burgeoning disruption.
+
+The cafeteria was serving its infamous "Mystery Meat Loaf," a dish that, true to its name, inspired much hushed speculation but few compliments. Alex and Chloé were at their usual table, Alex showing Chloé a new coding shortcut he’d figured out for a history project.
+
+Nearby, Ben Carter and Morgan McAllister were also having lunch. Their table, once Morgan's domain of unintentional chaos, was now noticeably tidy – a clear testament to her successful reform. They sat comfortably together, perhaps sharing a quiet joke as they ate, or Morgan helping Ben review some notes for an upcoming test. Their friendship, forged in the unlikely fires of shared dumpster duty, had deepened; they were often seen studying together in the library or just hanging out, a quiet, steady pair. There was an easy warmth between them, a shared understanding that hinted at something wonderful starting to happen. Their smiles were genuine, their laughter soft but frequent. Today, Morgan might have given Ben a quick, congratulatory hug after he shared good news about an algebra quiz.
+
+A few tables away from them, a sophomore named Kevin O’Malley, recently transferred from a school with a Gaelic language program and possessing an ego far exceeding his linguistic skills, decided to impress his new companions. He poked at his slice of the loaf with disdain.
+
+" Is é seo an bia is measa ar domhan! " Kevin declared in a loud, grating voice, his pronunciation mangled and his grammar shaky. (This is the worst food in the world!) His friends snickered. " Ní ithefadh mo mhadra féin é! Blasann sé cosúil le seanbhróga agus éadóchas! " (My own dog wouldn’t eat it! It tastes like old shoes and despair!)
+
+At the same moment, Josh Riley, seated with his increasingly reluctant goon, Mark, saw Ben and Morgan’s shared hug. A sneer twisted his lips. He couldn't stand seeing Ben, who he still considered "his property" despite Ben’s clear distancing, actually looking happy with Morgan – the girl who had so thoroughly rejected *him*.
+
+"Would you look at that?" Josh muttered loudly to Mark, jerking his head towards Ben and Morgan. "Carter's actually got 'Morgue' McAllister wrapped around his little finger. Guess she’s desperate enough for anyone now. Pathetic. Probably swapping spit in the library during their so-called 'tutoring'." Mark shifted uncomfortably, not meeting Josh’s eye, and pointedly took a large bite of his mystery meat. He was really starting to get tired of Josh’s constant negativity and crudeness.
+
+The familiar, almost preternatural hush fell over the section of the cafeteria nearest O’Malley *and* now, Riley. Mrs. DeMarco, who had been observing the serving line, began to move with a slow, deliberate grace, her path taking her directly between the two offending tables. She stopped first beside Kevin O’Malley’s table.
+
+" An bhfuil fadhb agat leis an mbéile, a dhuine óig? " Mrs. DeMarco inquired, her voice calm, her Gaelic flowing smoothly. (Is there a problem with the meal, young man?)
+
+Kevin O'Malley's jaw dropped. His face went chalk white.
+
+" B'fhéidir gur mhaith leat do chuid léirmheasanna mionsonraithe a roinnt leis an gcuid eile againn? Nó an bhfuil do chuid Gaeilge chomh dona le do bhéasa? " Mrs. DeMarco continued, a steely edge now apparent in her melodic Gaelic. (Perhaps you'd like to share your detailed criticisms with the rest of us? Or is your grasp of Irish as poor as your manners?)
+
+Switching to flawless, unaccented English, she addressed the stunned sophomore. "Mr. O'Malley, your attempt to malign school property – in this case, today's carefully prepared meatloaf – using a noble language you clearly neither respect nor command, has been noted." She paused. "Therefore, you will be availing yourself of our after-school enrichment program. That will be two weeks of standard trash duty, commencing this afternoon. Due to the specific nature of your complaint, you will also be assigned to the thorough cleaning of the cafeteria's grease traps on alternate days. Furthermore," her voice was grimly pleasant, "you will submit a five-page essay, in Gaelic, on the principles of food safety and the importance of kitchen hygiene. Due upon completion of your custodial duties. If you please, offender!"
+
+Kevin O'Malley could only nod, eyes wide with terror.
+
+Mrs. DeMarco then pivoted with terrifying precision, her gaze fixing on Josh Riley. Mark visibly flinched and tried to become one with his plastic tray.
+
+"And Mr. Riley," Mrs. DeMarco said, her voice dropping to a dangerous quiet. "While Mr. O’Malley’s linguistic transgressions were capturing the public attention, your own rather crude and unsolicited commentary regarding Ms. McAllister and Mr. Carter did not go unnoticed. It seems your lessons on appropriate interpersonal conduct are perpetually in need of remedial work."
+
+Josh, who had been smirking at O’Malley’s misfortune, went pale himself. "I... I was just talking to Mark!"
+
+"Indeed," Mrs. DeMarco said. "About the private lives of other students, in a demeaning and entirely unwarranted fashion. Adding insult to injury, so to speak, on top of your already extensive record. It seems you will be joining Mr. O'Malley at the dumpsters this afternoon, Mr. Riley. Your usual sentence will apply. And to ensure you reflect on the nature of respectful social interaction, you will also submit a five-page essay, in English this time, on the topic: 'The Value of Minding One's Own Business and Refraining from Uncouth Speculation.' That will also be due in two weeks."
+
+Josh looked like he was about to argue, then caught the unyielding glint in her eye and slumped in defeat. Two new recruits for the 2:15 PM shift.
+
+Mark, beside Josh, stared down at his tray, a profound sense of weariness washing over him. He’d narrowly escaped trash duty *this* time, but listening to Josh's constant venom and watching him repeatedly crash and burn was becoming exhausting. The goon life, he was starting to think, really wasn’t for him. He risked a quick glance over at Ben Carter, who was now quietly talking with Morgan McAllister, both of them pointedly ignoring the drama unfolding nearby. They looked… calm. Almost happy. A foreign concept in Josh’s orbit.
+
+Alex and Chloé watched the double takedown, momentarily forgetting their project. The warnings from orientation came flooding back. Ben and Morgan exchanged a look of profound, shared relief, a silent "thank goodness that's not us anymore" passing between them. Morgan might have even reached over and briefly, affectionately, squeezed Ben's hand under the table, their budding connection a small island of warmth in the midst of the cafeteria justice.
+
+Chloé slowly turned to Alex. Alex met her gaze, then slowly typed on his device: THE LEGENDS... ARE INDEED TRUE. AND MULTIPLYING.
+
+Chloé nodded, a shiver going down her spine. Mrs. DeMarco, it turned out, wasn't just a strict lunch lady. She was a force of nature, a multilingual guardian of order, and apparently, had zero tolerance for either food critics or gossip-mongering bullies. Freshman year continued to be an education.
+

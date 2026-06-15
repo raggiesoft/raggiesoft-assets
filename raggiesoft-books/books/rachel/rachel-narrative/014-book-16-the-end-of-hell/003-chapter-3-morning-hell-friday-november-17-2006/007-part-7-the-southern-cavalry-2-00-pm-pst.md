@@ -1,0 +1,72 @@
+# Part 7: The Southern Cavalry – 2:00 PM (PST)
+
+*(Rachel's POV)*
+
+The digital clock above the customer service desk at The Spot finally clicked to 2:00 PM.
+
+I didn't linger. I ripped my red uniform shirt off in the employee breakroom, shoving it into my locker and pulling my heavy winter coat on. My shift was over, and my processor was completely redlining.
+
+Jessica’s phone call earlier that morning had completely shattered my baseline. The monster had thrown him out. Delores had discarded my brother in the freezing rain at four in the morning like he was garbage. My chest was tight, my breathing shallow, and every single nerve ending in my body was screaming at me to move.
+
+I burst through the automatic sliding doors of the store and sprinted across the wet asphalt toward the Lakewood Transit Center.
+
+I started pacing the concrete island. I needed my brother. I needed to see him, to put my hands on him, and to prove to my terrified brain that he was actually safe.
+
+The heavy, groaning screech of air brakes echoed through the terminal. The TAPS Route 2 bus, arriving directly from the Franklin’s Market up in University Place, pulled into the bay.
+
+The pneumatic doors folded open, and Kristin stepped off. She was carrying her own bag, plus my heavy canvas duffel over her shoulder. She didn't waste a single second with a greeting. She saw the absolute panic in my dark eyes and immediately walked over, dropping the bags at our feet.
+
+"I got your message," Kristin said, her voice dropping into a serious, tactical register. "I brought your overnight gear, including the long sleep shirt. Are we going to Renton?"
+
+"Yes," I rasped, the friction in my throat heavy. "It’s my brother. Jessica rescued him from the jaws of hell, and she is asking for both of us to come up there right now."
+
+We stood on the concrete, our eyes locked down the street, waiting for the heavy commuter bus that would carry us north.
+
+"When the two of them were on the bus yesterday, he was delighted to see me, but he had to hide it," Kristin recalled, her brow furrowing in disgust as she thought about the suffocating control Delores wielded. "That creep was so jealous that he was scared to say hello to his own sister’s roommate? I think he is going to be so happy to see you, Rachel. After all, you are his favorite sister."
+
+I clenched my fists inside my coat pockets. The thought of Michael—my massive, protective Bear—being so terrified of a woman that he couldn't even acknowledge a friend made my blood boil.
+
+The massive, articulated TAPS Route 574 pulled into the station. We didn't wait for the line to clear; we pushed our way on board, swiping our transit passes and taking the first available seats near the front.
+
+The bus lurched forward, merging onto Interstate 5.
+
+For my brain, the transit schedule was usually a source of deep comfort. But today, the math was agonizing. The heavy diesel engine roared, but it felt like we were crawling in slow motion. Every single car that passed us on the highway felt like a taunt. I gripped the plastic handle of the seat in front of me, my leg bouncing rapidly in a frantic, uncontrollable stim.
+
+The bus rolled through the Tacoma Dome station. More people got on. We merged back onto the highway. The 574 made stops in Fife, steadily inching closer and closer to the airport.
+
+I was going to lose it. The pressure in my chest was expanding, pressing against my ribs. I squeezed my eyes shut, a panicked, jagged hum vibrating in my throat. I couldn't be trapped on this bus anymore. I needed to be with my brother.
+
+Kristin sensed the impending system crash. She slid closer on the vinyl seat, pressing her shoulder firmly against mine to provide a heavy, grounding anchor.
+
+"He is with Jessica right now," Kristin said, leaning in so her voice cut through the rumble of the highway. "He is safe. Just keep reminding yourself that, Rachel. He is no longer with that slob, and your big sister is protecting him."
+
+I took a sharp, shallow sip of air, forcing my lungs to expand. *He is with Jessica. He is safe.*
+
+The 574 finally, mercifully pulled into the Federal Way transit hub. We practically dove out the doors, sprinting across the wet pavement to catch our connection. We made the Route 565 with less than a minute to spare.
+
+The 565 merged onto Interstate 405, accelerating north toward Renton.
+
+The final leg was a blur of frantic anxiety and kinetic energy. We hit the Renton Transit Center, immediately transferring to the local Route 105. The bus carried us down Edmonds Avenue, the familiar apartment complex finally coming into view through the rain-streaked windows.
+
+I hit the yellow stop-request strip before the bus was even close to the intersection.
+
+The air brakes hissed. The doors flew open. I didn't wait for Kristin. I didn't wait for the traffic to clear. I sprinted across the wet pavement of Edmonds Avenue, my heavy winter coat flapping behind me, ignoring the cold rain entirely.
+
+I reached Jessica’s ground-floor apartment and hammered my fist against the door.
+
+The deadbolt clicked. The heavy door swung inward.
+
+Michael was standing in the entryway. He was wearing Jessica’s oversized Quantum sweatpants and a clean t-shirt. His hair was damp from a recent shower, and his eyes were red and swollen, but he was there. He was alive.
+
+The collision was absolute.
+
+I didn't stop. I launched myself across the threshold and slammed directly into his chest.
+
+Michael let out a breathless, shattered gasp as he caught my weight. He immediately wrapped his arms around me, locking his hands behind my back and pulling me into a fierce, bone-crushing, desperate embrace. The impact forced the air out of my lungs, but the deep, heavy, suffocating pressure of his hold was the most beautiful feeling in the entire world.
+
+I buried my face into his shoulder, gripping the fabric of his shirt with white-knuckled fists.
+
+My brother’s massive frame began to shake violently. He collapsed forward, resting his chin heavily on the top of my shoulder, and burst into loud, ragged, uncontrolled tears.
+
+"I've got you, Bear," I whispered fiercely, my own tears spilling hot against his neck, completely ignoring Kristin and Jessica standing just a few feet away. "I'm right here. You're safe now."
+

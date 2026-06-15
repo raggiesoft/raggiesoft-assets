@@ -1,0 +1,14 @@
+# Part 2: The Night Before (Late July 2000)
+
+A palpable buzz of anticipation filled the Miller household. It was the night before the big trip, and the house was a hive of quiet, happy activity. In the living room, James Miller and Thomas Mason were hunched over a large, creased road atlas spread out on the coffee table, tracing the final legs of their route north on I-87 and I-89 with a highlighter. In the kitchen, Emily and Sophie were packing a cooler with road trip snacks and drinks, their laughter mingling with the crinkle of chip bags.
+
+In Alex's room, Chloé was supervising his packing with the authority of a seasoned traveler. The plan for her to stay the night at his house was a simple logistical choice for their pre-dawn departure, but it was also just a continuation of their unbroken nightly routine. Ever since that first sleepover nearly a year ago, they hadn't spent a single night apart, their shared bed—either at his house or hers—a constant, essential source of platonic comfort and security.
+
+"Okay, you've got enough t-shirts and shorts," she said, surveying the contents of his open duffel bag. "But you definitely need a hoodie. Trust me, even in July, the nights can get cool up there, especially if we're near the lake."
+
+Alex nodded, wheeling over to his closet to select his favorite Northwood High sweatshirt. He paused, then turned back to her, a question forming on his AAC. WHAT IS IT REALLY LIKE, CHLOÉ? THE BORDER?
+
+Chloé sat on the edge of his bed, her expression thoughtful. "It's... hard to explain. It's a real border, with real guards. But it's also just... home. The agents are our neighbors. The line is just a thing you cross to get to the store. You'll see. It's not scary at all. It's just... different." She gave him a reassuring smile and one of their now-signature warm hugs. "And you'll have me, so you won't get lost."
+
+They finished their packing, their excitement a tangible thing in the quiet room. They talked in low voices about all the things they would do, Chloé's stories painting a vivid picture for Alex of a town without walls. Soon, with the parents having said their goodnights, they settled into Alex's bed, the house dark and quiet around them, the promise of the open road just a few hours away.
+

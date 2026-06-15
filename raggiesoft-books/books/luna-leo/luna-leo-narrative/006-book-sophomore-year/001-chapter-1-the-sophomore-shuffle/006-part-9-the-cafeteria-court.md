@@ -1,0 +1,106 @@
+# Part 9: The Cafeteria Court
+
+## Section 1: 11:55 AM – The Clinic Stop
+
+The bell rang, ending Third Period Latin.
+
+" *Valete, discipuli!* " Magistra Reed called out as the students packed up.
+
+" *Vale, Magistra!* " Luna replied, packing her binder.
+
+She wheeled Leo out of Room 104 and into the bustling hallway. The rush for lunch was on, a stampede of hungry teenagers heading for the Commons. But the twins had a pit stop to make.
+
+They turned into the school clinic. It was a familiar routine.
+
+"Afternoon, you two," Mrs. Henderson said, already placing two small paper cups on the counter.
+
+"Hey, Mrs. H," Luna said.
+
+They took their midday medications quickly—Leo swallowing his with a sip of water Mrs. Henderson held for him, Luna taking hers with a practiced gulp. It was a non-negotiable part of their day, essential for managing the spasticity of their cerebral palsy.
+
+"Signed the log?" Mrs. Henderson asked.
+
+"Signing now," Luna said, scribbling their names in the binder.
+
+"Alright, get out of here. Don't let the pizza get cold. I heard it's square slice day."
+
+Luna groaned. "Cardboard with cheese. My favorite."
+
+## Section 2: 12:05 PM – The Cafeteria Entrance
+
+They exited the clinic and rolled into the Commons. The entrance to the cafeteria was a wide maw swallowing the student body. The noise level was already deafening—the clatter of trays, the roar of conversation, and the smell of industrial pepperoni.
+
+As they approached the serving lines, traffic came to a standstill. A bottleneck had formed near the tray stacks.
+
+At the center of the blockage was, inevitably, **Josh Riley**.
+
+Josh, now a Sophomore like them, had seemingly learned nothing from his Freshman year disaster with the "Penis Game". He was currently leaning against the rail, blocking the path of a terrified-looking Freshman boy holding a tray.
+
+"I'm just saying," Josh said loudly, grinning at his friends who were snickering nearby. "There's a toll. You gotta pay the toll to get to the nuggets. That's the rule. Freshman tax."
+
+The Freshman looked around helplessly. "I... I don't have any cash."
+
+"Then you give me your tots," Josh demanded, reaching for the boy's tray.
+
+Leo felt a surge of annoyance. He tapped his **Quantum Communicator**.
+
+"JOSH. ALWAYS A JERK."
+
+Luna rolled her eyes. "Seriously? He's stealing tater tots now? That's a new low."
+
+She was about to step in—her "guardian bear" instincts weren't just for Leo—but someone else beat her to it.
+
+A shadow fell over Josh Riley.
+
+The cafeteria chatter didn't stop all at once, but it rippled into silence in a widening circle around the serving line. Josh, sensing the shift in atmospheric pressure, froze. His hand was still hovering over the Freshman's tater tots.
+
+"Mr. Riley," a voice said. It wasn't loud. It was chillingly calm.
+
+Josh slowly turned around.
+
+**Mrs. DeMarco** stood there. She was wearing her standard cafeteria uniform, but she wore it like the armor of a general. Her arms were crossed. Her gaze was a laser.
+
+"Mrs. D!" Josh stammered, snatching his hand back as if the tray were red hot. "I was just... uh... helping him? Inspecting the tots. Quality control. You know how it is."
+
+Mrs. DeMarco stared at him. She didn't blink. She raised the register to a level of terrifying, academic formality that made him look like a toddler.
+
+"Quality control," she repeated. Her voice was flat, crisp, and dangerously articulate.
+
+"Yeah," Josh said, his sweat visibly starting. "Just making sure they're... crispy."
+
+Mrs. DeMarco leaned in.
+
+"Do I look like I require assistance in the management of my kitchen, Mr. Riley?" she asked, her diction precise enough to cut glass. "Do you labor under the delusion that your 'inspection' is anything other than petty extortion of a younger student?"
+
+Josh stared at her, his mouth opening and closing like a fish. "I... uh..."
+
+"Since you have such a keen interest in the culinary standards of our fried potato products," she continued, her voice dropping to a silky, lethal whisper, "you have just volunteered for a special assignment to ensure their quality from the source."
+
+Josh slumped, realizing he was trapped. "Trash duty?"
+
+"Oh, no," Mrs. DeMarco smiled, and it was a terrifying sight. "Trash duty is for people who forget to clear their tables. *You* tried to tax a Freshman."
+
+She pointed a finger toward the kitchen doors, the gates to the inner sanctum.
+
+"The grease traps behind the fryers haven't been scrubbed since August," she announced. "And since you love tater tots so much, you can spend the next two weeks getting intimate with the byproduct of their creation."
+
+A collective "Oooooh" went through the crowd. The grease traps were the nuclear option. The smell was legendary.
+
+"But Mrs. D—" Josh protested.
+
+"**Move**," she commanded.
+
+Josh Riley hung his head and trudged toward the kitchen doors, a dead man walking.
+
+Mrs. DeMarco turned back to the terrified Freshman. Her expression softened instantly. "Go on, honey. Get your nuggets. And take an extra cookie."
+
+She then looked at Luna and Leo, who were watching with wide eyes. She gave them a sharp nod. "Porters. Move it along. Line starts moving now."
+
+Luna grinned, giving Leo’s chair a push. "You heard the woman. Move it along."
+
+Leo tapped his screen as they rolled past the scene of the crime, his face lighting up with a grin.
+
+"JUSTICE SMELLS LIKE GREASE."
+
+"It sure does, Leo," Luna laughed. "It sure does."
+

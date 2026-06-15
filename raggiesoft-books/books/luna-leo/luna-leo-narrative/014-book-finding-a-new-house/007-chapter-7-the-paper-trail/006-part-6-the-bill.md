@@ -1,0 +1,74 @@
+# Part 6: The Bill
+
+## August 22, 2006 Braxton State University - Office of the Bursar 03:00 PM
+
+The line for the Bursar's office was long, filled with stressed students negotiating financial aid or setting up payment plans.
+
+Stella walked up to the window, flanked by the Fortress. She didn't look like a student; she looked like a CEO.
+
+"Checking in for Fall Semester," she said, sliding four new **Bull Passes** under the glass.
+
+The clerk picked them up, scanning the names. He frowned slightly, looking back and forth between the cards and the group.
+
+1.  **Leo Arthur Porter**
+
+2.  **Luna Eleanor Porter**
+
+3.  **Olivia Walker Porter**
+
+4.  **Stella Marie Porter**
+
+"Four Porters?" the clerk asked. "Siblings?"
+
+"Family," Stella corrected, her tone brokering no further questions. "Run them."
+
+The clerk typed the student ID numbers into the system. He paused. He looked at his screen, then at Stella.
+
+"Ms. Porter," the clerk said, lowering his voice. "I see a note here from the Provost's office. It says you're a... 'Platinum Tier Benefactor.' There's a flag here to waive the Out-of-State surcharge pending a residency review. And the Technology Fee has been zeroed out."
+
+Leo looked at the screen over the counter. The total due was significantly lower than his spreadsheet had predicted.
+
+"Remove the flag," Stella said instantly.
+
+The clerk blinked. "Ma'am? It's... almost fifty thousand dollars in waivers."
+
+"I know how much it is," Stella said. "Remove the flag. We haven't lived here for twelve months. We are out-of-state residents. We pay out-of-state tuition."
+
+"But the Provost said—"
+
+"The Provost is being nice," Stella cut him off. "But I don't want nice. I want **clean**. I want you to print the full invoice. Every fee. Every surcharge. Every lab cost. No discounts. No waivers."
+
+She leaned in.
+
+"If I take a discount, I owe the University a favor. If I pay the bill, the University works for me. Print the invoice."
+
+The clerk typed, looking terrified. The printer whirred. He slid the invoice under the glass.
+
+**TOTAL DUE: \$69,400.00 (Semester 1)**
+
+Stella pulled out her checkbook. It was her new one, from the **Rhode Island Coastal Credit Union**.
+
+She wrote the check. She noted the four student ID numbers in the memo line.
+
+She slid the check across the counter, along with her brand-new **Rhode Island Driver's License**.
+
+"Issued last week," Stella pointed out. "Proof that we are new here. No residency claim until 2007."
+
+The clerk took the check. He looked at the license. He looked at the woman who had just voluntarily paid an extra fifty grand.
+
+"Paid in full," he said, stamping the invoice. "Receipts, please."
+
+As they walked away, receipts in hand, Leo looked at Olivia’s ID card clipped to her lanyard. It said **OLIVIA WALKER PORTER**.
+
+He tapped his **Quantum Communicator**.
+
+*"WE OWN OUR SEATS."*
+
+"Damn right we do," Stella said, tucking the checkbook away. "We don't take charity. We build fortresses."
+
+She checked her watch.
+
+"3:30 PM. The next train to Iron Point leaves in twenty minutes. Let's go home."
+
+Leo grinned. He liked the logic. They paid a fortune for the education, but the ride home—and the name on the ID—was theirs forever.
+

@@ -1,0 +1,27 @@
+# Part 6: Homeward Bound for Graduation
+
+The whirlwind of remote coursework for Alex at the Community College of Hampton Roads (CCHR) and Chloé’s demanding quarter at Northwest Pacific University (NPU) was finally drawing to a close. The small Lynnwood apartment had been a hive of quiet study and the steady, comforting presence of their unique partnership. They had both passed their finals, a testament to their shared resilience.
+
+One evening, with their flight to Norfolk just a few days away, Chloé was confirming the details on her MagnaByte laptop while Alex watched, a thoughtful expression on his face. He had made incredible progress since his rescue, but a shadow of apprehension remained.
+
+"Looks like our Gateway Airlines flight is still on time for Saturday morning," Chloé announced, smiling at him. "Ready to head back to Virginia for the big event, Mr. Miller?"
+
+Alex typed on his Quantum Communicator XT, his synthesized American English voice thoughtful: "YES. AND NO. I AM EXCITED FOR MEGAN'S GRADUATION. IT WILL BE GOOD TO SEE EVERYONE." He paused, the shadow briefly crossing his features. "BUT… VIRGINIA ALSO MEANS… PORTSMOUTH IS CLOSE. VERA."
+
+Chloé’s smile softened with understanding. She closed her laptop and moved to sit beside him, taking his hand. "Hey," she said gently, her voice a reassuring anchor. "You won't have to see Portsmouth at all. I promise. We are flying in for one reason: to watch your favorite cousin walk across that stage and get her diploma, Magna Cum Laude."
+
+Her voice filled with pride. "And I already talked to her. She’s so excited to see you. Her plan, now that she’s done with VDU, is to move to your parents' house for the whole winter break. She wants to be there, with us, to help you get back on your feet. She’s not just visiting, Alex. She’s coming home to be part of the team."
+
+He squeezed her hand, the tension in his shoulders easing a little. The thought of Megan being a constant, daily presence was an incredible comfort.
+
+"Vera is out of your life, Alex. For good," Chloé affirmed. "This trip is about celebrating Megan, and it’s about family, rest, and celebrating how far *you’ve* come. We’ll spend our days going between your house and mine, just like we always did."
+
+A genuine smile spread across Alex's face. The familiarity of Lisa Court, the comfort of their intertwined childhood homes, the presence of all four of their loving parents, and the promise of Megan being there every single day—that part of Virginia, he was very much looking forward to.
+
+"THAT SOUNDS REALLY GOOD, CHLOÉ," he typed, his voice reflecting his relief and anticipation. "REALLY GOOD. I MISS OUR HOUSES. AND MEGAN."
+
+"They all miss you too, more than anything," Chloé said. "It's going to be a good break, Alex. A real celebration. You deserve it."
+
+He leaned his head against her shoulder, a familiar gesture of comfort. The apprehension about returning to the state where he’d endured such trauma was still there, a faint echo, but Chloé’s promise, her steadfast presence, and the image of their family fortress waiting for them made it feel manageable. He was going home for a graduation, with his best friend, his wife, by his side. And for now, that was more than enough.
+
+

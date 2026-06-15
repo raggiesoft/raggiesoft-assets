@@ -1,0 +1,30 @@
+# Part 1: The Bright Idea – 8:00 AM
+
+The two floral-print suitcases sat by the front door like heavy, physical gravestones.
+
+The battle was officially over. The airspace was flowing again, the chaotic backlog of stranded passengers had finally cleared just enough for Dad to secure two seats out of Norfolk International, and the court order was absolute.
+
+Rachel was sitting on the bottom step of the staircase, fully dressed for the airport in her most comfortable, texture-safe clothes. The furious, explosive fight she had displayed over the last few weeks had completely drained out of her system. She was pale, her dark eyes hollow and resigned, staring blankly at the brass lock on the front door. The inevitable math had finally crushed her.
+
+I was sitting on the step right above her, my knees pressed firmly against her back to provide a steady, continuous pressure.
+
+Dad’s truck pulled into the driveway. The heavy engine idled loudly.
+
+Rachel blinked, pulling herself out of her blank stare. Suddenly, a desperate spark of logic lit up in her eyes. She twisted around to look at me, her hands grabbing my knees.
+
+"I have an idea," she whispered rapidly, her voice breathless with a sudden, impossible hope. "You come too. You just get in the truck. You have your clothes packed in your backpack. You just come with me. He can't stop you from getting in."
+
+The brass deadbolt turned. Dad pushed the front door open, immediately stepping into the foyer to grab the handles of the floral suitcases.
+
+"Michael is coming too," Rachel announced to him, standing up from the stairs. "He's coming to Washington."
+
+Dad froze, his hand tightening on the plastic luggage handle. He looked at Rachel, then looked up at me sitting on the stairs. His face was a hard, exhausted mask.
+
+"No, he's not," Dad said flatly. "The court order is crystal clear. Each parent gets one child. Your mother gets Michael. I get you. That was the bargain."
+
+"Then he's coming to the airport!" Rachel pleaded, her voice rising in panic as her loophole was violently closed. "He has to come to the airport to say goodbye!"
+
+"Absolutely not," Dad snapped, his stress levels visibly spiking. "Have you seen the news? The airports are militarized zones now. The National Guard is at the doors. It's going to take us four hours just to get through the new security checkpoints, and non-ticketed passengers aren't even allowed near the gates anymore. I am not dealing with you two having a screaming, crying meltdown at the curb. We are saying goodbye here."
+
+He turned his back, dragging the first suitcase out onto the concrete porch.
+

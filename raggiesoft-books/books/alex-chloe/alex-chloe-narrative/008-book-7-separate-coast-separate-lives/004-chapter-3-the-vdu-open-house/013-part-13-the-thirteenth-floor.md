@@ -1,0 +1,38 @@
+# Part 13: The Thirteenth Floor
+
+After the residential tour, Megan and Alex joined a small group—another prospective student with his parents, and the cheerful RA tour guide—to take the elevator down from the thirteenth floor. As this was one of the older dorm buildings on campus, the elevator was a slow, slightly creaky affair.
+
+The doors slid shut, and the elevator began its descent with a low hum. It passed the 12th floor, then the 11th. And then, with a horrifying, gut-wrenching lurch and the sound of groaning metal, it shuddered to a dead stop. The main lights flickered and went out, replaced a second later by the dim, eerie glow of a single emergency light in the ceiling.
+
+A woman in the corner let out a small, terrified gasp. "What was that? What happened?"
+
+The student RA, a young man named Kevin, was visibly pale but immediately shifted into his trained protocol. "It's okay, everyone," he said, his voice a little shaky. "Let's just stay calm. We're probably just stuck. I'm going to use the emergency phone."
+
+Megan's first and only instinct was Alex. She immediately placed a firm, grounding hand on his shoulder. "You okay, cuz?" she asked, her voice a low, steady anchor.
+
+The other parents in the elevator looked at Alex with a new kind of anxiety. They were scared for themselves, but they were also thinking, *Oh, God, how are they going to get a boy in a wheelchair out of a broken elevator?* A dozen terrifying scenarios played out in their minds. Alex, who hated sudden, loud noises and disruptions to his routine, should have been the most panicked person in the car.
+
+But he wasn't.
+
+While the other adults were succumbing to a low-level panic, Alex's mind, which thrived on logic and systems, was doing the exact opposite. It had gone into a state of pure, calm, analytical focus. He wasn't thinking about the social awkwardness or the fear; he was diagnosing the mechanical failure. He gave Megan a short, sharp nod, his own expression a mask of intense concentration.
+
+Kevin, the RA, was speaking into the crackly intercom. "Yes, we're stuck in Elevator Two of Jefferson Hall... I have seven people with me, including a guest in a wheelchair... Yes, okay. Thank you."
+
+He turned back to the small, anxious group. "Okay, good news," he said, forcing a reassuring smile. "Campus maintenance is on it, and they've dispatched the fire department as a precaution. They said we're stuck between the tenth and eleventh floors."
+
+The woman's husband scoffed. "A precaution? We're trapped in a tin can a hundred feet off the ground!"
+
+As a low murmur of panic began to bubble up, Alex's calm, synthesized voice cut through the tension.
+
+THE EMERGENCY BRAKES HAVE ENGAGED, his Quantum Communicator XT stated, the words clear, logical, and completely devoid of emotion. THE LURCH WAS THE SYSTEM WORKING CORRECTLY TO PREVENT A FALL. THE CABIN IS SECURE. WE ARE NOT IN DANGER. WE JUST HAVE TO WAIT.
+
+The sheer, unexpected calm of the synthesized voice had a bizarrely soothing effect on the panicked adults. They all turned to look at Alex, who simply sat in his chair, a beacon of unruffled, logical assessment in the middle of their crisis.
+
+It took nearly forty minutes for the fire department's technical rescue team to arrive and begin their work. The rescue was a slow, methodical process, hoisting each passenger up through a gap in the doors to the eleventh floor. Alex, secured in a harness, was lifted out of his chair last, followed by the empty wheelchair itself.
+
+As Megan finally climbed the ladder to safety, she was met with a round of applause from the other rescued tour members. They weren't just looking at her; they were looking at Alex, who was already being helped back into his chair by the rescue team, with a new and profound sense of respect. He had been the one person who should have been the most scared, and instead, he had been the one who had kept them all calm.
+
+A university housing official, looking deeply apologetic, met them in the eleventh-floor hallway. "Folks, I am so sorry for this," she said. "Please, follow me. We'll take the service elevator down to the lobby."
+
+She led the small, shaken group to a different, much larger elevator at the end of the hall. The ride down to the ground floor was silent, the only sound the quiet hum of a working machine. When the doors opened into the main lobby of the dorm, they were greeted by campus officials and concerned paramedics. They were shaken, their open house adventure had been derailed, but they were safe. And in the middle of a crisis, the quiet boy in the wheelchair had been the calmest one in the room.
+

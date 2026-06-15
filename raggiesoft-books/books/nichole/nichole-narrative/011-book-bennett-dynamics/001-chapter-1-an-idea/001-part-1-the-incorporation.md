@@ -1,0 +1,46 @@
+# Part 1: The Incorporation
+
+## Date: October 1, 2008 Location: Unit 404, The Lofts at Foundry Square Time: 10:00 AM
+
+The morning sun flooded through the floor-to-ceiling windows of Unit 404.
+
+Patrick sat at his desk—a massive, L-shaped setup he had built himself. He had three monitors, a soldering station, and a server rack humming quietly underneath.
+
+Across from him, Nichole was parked in her *Titan AeroMotion*, her *ConvertiBook* docked into a large external display.
+
+Patrick was looking at a job application for "Junior Systems Analyst" at Braxton Trust. The salary was mediocre. The hours were rigid. The commute was 45 minutes on the Blue Line.
+
+He looked at Nichole. She was happily editing a vector graphic for a personal project, sipping her morning smoothie.
+
+"I'm not doing it," Patrick announced.
+
+Nichole paused. She looked up over her monitor.
+
+"I'm not working for a bank," Patrick said, spinning his chair around. "I'm not working for a hospital. I already have a full-time job. You are my full-time job."
+
+Nichole watched him. She didn't look worried. She looked like she had been waiting for him to figure this out.
+
+"We have the capital," Patrick reasoned. "Grandma left us the runway. Why am I trying to fit into their schedule? We have the degrees. We have the skills. We built the Haptic Interface in a semester."
+
+He stopped at the whiteboard on the wall—the "Command Center" board.
+
+He uncapped a marker.
+
+"We start our own firm," Patrick said. "Consulting. Prototyping. Technical Documentation. We work from here. We take clients we like. We fire clients we don't."
+
+He wrote a name on the board in big, block letters.
+
+BENNETT DYNAMICS
+
+"I build it," Patrick said, pointing to himself. "You explain how it works," he pointed to her.
+
+Nichole smiled. She typed rapidly.
+
+CEO?
+
+Patrick snorted. "No titles. Titles are for people who have meetings. We are Partners."
+
+50/50
+
+"50/50," Patrick agreed. "But I handle the taxes."
+

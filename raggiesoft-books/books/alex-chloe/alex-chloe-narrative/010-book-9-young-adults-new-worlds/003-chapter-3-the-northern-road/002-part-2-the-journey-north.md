@@ -1,0 +1,28 @@
+# Part 2: The Journey North
+
+With a final check and a quiet "Here we go," Megan Carter pulled the van out of the driveway and onto the sleeping streets of Lisa Court. She took the first driving shift. Alex was in his secure, locked-down position in the middle, and Chloé was in the passenger seat, acting as co-pilot. They followed the familiar route from Woods Corner onto Centerville Turnpike, then to Indian River Road, its streetlights casting lonely pools of light in the darkness. Soon, they were merging onto I-64 West. The adventure had truly begun.
+
+Following the route James had drilled into them for years, Megan took Exit 282 for US-13 North, the direct path to the engineering marvel known as The Chesapeake Bay Bridge-Tunnel.
+
+"Okay, cash for the toll is in the console," Chloé said, already in full co-pilot mode.
+
+For the next half-hour, they were in a world of their own, suspended over the vast, dark expanse of the Chesapeake Bay. They drove on a roadway that seemed to float on the water, before plunging into the echoing, brightly-lit tube of an underwater tunnel, then re-emerging into the salty air.
+
+Once they made landfall on the Eastern Shore, the van settled in for the long, steady drive north. They crossed into Maryland and then Delaware, where Megan guided them onto the now-fully-completed State Route 1, a smooth, modern highway that bypassed the slower local roads. They crossed the Delaware Memorial Bridge into New Jersey, the industrial landscape of the Turnpike stretching before them under a now-bright morning sky.
+
+Lunch was a quintessential road trip experience at a bustling service area on the New Jersey Turnpike. The three of them stretched their legs and ate burgers and fries in the noisy food court, a welcome break from the confines of the van.
+
+Back on the road, with Chloé now at the wheel, they followed the sacred Miller family plan to bypass New York City traffic. At Exit 11, they left the Turnpike for the Garden State Parkway. The Parkway took them north to I-287, which became the New York State Thruway, leading them west towards the wide expanse of the Tappan Zee Bridge.
+
+DAD MADE A GOOD CALL, Alex typed, sending a text message to his father. TAPPAN ZEE IS WIDE OPEN.
+
+On the other side of the Hudson River, they transitioned onto the scenic Hutchinson River Parkway, which seamlessly became Connecticut's State Route 15—the Merritt Parkway. The road was beautiful, but its narrow lanes kept Chloé alert at the wheel.
+
+Finally, in Meriden, Connecticut, came the last major turn of the trip. Chloé, wanting to be fresh for the final, most important leg of the journey, pulled into a rest stop. "Okay, Meg," she said, "your turn to drive for a bit. I want the wheel when we get to Vermont."
+
+Megan took over, and they merged onto the wide, straight expanse of I-91 North. A sign confirmed their path: "Springfield, St. Johnsbury, VT."
+
+"This is it," Megan announced to the van. "The home stretch."
+
+A comfortable, anticipatory quiet settled over the group. They were tired, but the journey was almost over. Ahead of them lay the final few hours of driving through the beautiful landscapes of New England and, at the end of it, the unique world of the Vermont-Québec border.
+

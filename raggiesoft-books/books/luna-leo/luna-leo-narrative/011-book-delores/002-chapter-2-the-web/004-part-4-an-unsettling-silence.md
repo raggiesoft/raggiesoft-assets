@@ -1,0 +1,24 @@
+# Part 4: An Unsettling Silence
+
+The front door clicked shut behind Stella and Luna, leaving a heavy silence in its wake. Leo sat quietly near the window, looking withdrawn after the stressful visit. Delores stood near the center of the small living room, still vibrating with unspoken fury, her arms crossed tightly, her gaze fixed on the door her "rivals" had just exited.
+
+Clara watched her daughter from the doorway of the kitchen, drying her hands slowly on a dishtowel. She had seen Delores's reaction to the goodbye hugs – the tightening of her jaw, the sheer possessive rage simmering beneath the surface . It wasn't just annoyance; it was something deeper, more intense, and frankly, unsettling.
+
+"Delores," Clara began cautiously, stepping into the living room. Delores didn't turn around immediately. "Delores," Clara repeated, a little more firmly. "What was that just now?"
+
+Delores finally turned, her expression defensive. "What was what? They finally left."
+
+"Not that," Clara pressed, taking a step closer. "The look on your face. When Leo hugged his sisters goodbye. Why did that make you so angry? I saw you."
+
+Delores flushed, caught off guard. "I wasn't angry! I just... think they're too much sometimes. Always touching him, hanging on him."
+
+"Touching him?" Clara echoed skeptically. "Delores, that's his sister. His twin sister, for goodness sake! Of course they hug him! Why on earth would that bother you so much?" It was the first time Clara had directly questioned Delores's possessiveness, prompted by the undeniable intensity she'd just witnessed.
+
+As she looked at her daughter's furious, defensive face, Clara had a sudden, nagging suspicion. This wasn't just about his sisters. Delores had mentioned another girl before, a "best friend" from high school who had moved away. Could that be it? Clara suspected that Delores was unhappy about something else, something more than just the sisters' visit. Perhaps this anger wasn't just about the hug she saw, but about a ghost from Leo's past she couldn't control.
+
+Delores, unaware of her mother's specific suspicion but sensing her scrutiny, floundered for a plausible excuse. "It's just... inappropriate, sometimes. They treat him like a baby," she deflected, falling back on criticizing the sisters rather than admitting her own jealousy. "They interfere. It's not right."
+
+Clara looked at her daughter, hearing the weakness in the excuse. Probing further felt dangerous. She sighed, shaking her head slightly, a gesture of weary resignation. "Right," she said flatly, dropping the subject. "Well, they're gone now."
+
+She turned away, heading back towards the relative normalcy of the kitchen, leaving Delores standing there. The confrontation had been brief, but it left an uncomfortable tension, and a new, unspoken question, hanging in the air.
+

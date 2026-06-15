@@ -1,0 +1,46 @@
+# Part 3: A Party for Two (Early April 2000)
+
+The giddy, wonderful shock of their shared birthday discovery lingered in the air of the Millers' living room. Alex and Chloé, still buzzing with the sheer, improbable joy of it, finally separated from their hug. The idea of a birthday, which just moments ago had felt like a mundane, looming event for Chloé and a barely-registered blip on the calendar for Alex, was now charged with a new, shared excitement.
+
+"Okay," Chloé said, plopping back down on the sofa, her mind already racing. "This changes everything. A joint birthday! We have to have a joint fifteenth birthday party. It's non-negotiable."
+
+Alex nodded enthusiastically. A party. The thought, which normally would have filled him with a quiet dread of forced social interaction, felt completely different when it was a party with Chloé. For him, a party had always been a small, quiet affair with his parents and maybe his grandparents. For Chloé, a party had always been a boisterous, cross-border affair. Depending on the year, it would be at their house in Derby Line or her aunt's in Stanstead, but it always meant a loud, wonderful invasion of her mother's entire Québécois family, filling the house with laughter, music, and the rapid-fire sound of French. Neither of them had ever had a big "friend" party. Chloé was Alex's first and only true friend, and since moving, Alex was her primary and closest companion.
+
+A JOINT PARTY SOUNDS GOOD, Alex typed. BUT… WHO DO WE INVITE?
+
+The question hung in the air, a quiet acknowledgment of their small social circle. Most of Chloé's extended family, the Leclercs and others, were all the way up in Québec and Vermont. They couldn't just pop down for a birthday party. And Alex, whose autism made the intricate dance of forming friendships a significant challenge, didn't have a list of school friends to call.
+
+Chloé considered this for a moment, her usual bubbly energy tempered by thought. "You're right," she said. "It's pretty much just us. And our parents." She paused, then her face brightened. "But you have family around here, right? Grandparents, aunts, uncles?"
+
+Alex nodded. His mother's parents lived just an hour away in Richmond, and he had an aunt and uncle with a couple of younger cousins in Chesapeake. They were the familiar faces of his childhood holidays.
+
+YES. GRANDMA AND GRANDPA MILLER. AUNT KAREN AND UNCLE STEVE, he typed.
+
+"Okay, then that's what we do," Chloé declared, a plan forming. "It'll be a family party. My family," she gestured between the two of them and towards the Masons' house next door, "and your family. Your *whole* family. It'll be a Miller-Mason birthday extravaganza!"
+
+The idea felt perfect. It wasn't about impressing classmates or navigating the complex social hierarchies of high school. It was about celebrating with the people who mattered: their two families, which had, over the past year, truly started to feel like one.
+
+"First, we have to tell our parents," Chloé said, her eyes glinting with the excitement of their shared secret. "Come on."
+
+They found Emily Miller in the kitchen, preparing ingredients for dinner. James was in the garage, tinkering with the lawnmower. Chloé, with Alex right beside her, took a deep breath.
+
+"Mrs. Miller?" Chloé began, trying to sound casual. "We have some… news."
+
+Emily turned, wiping her hands on a towel, a curious smile on her face. "News? Everything okay?"
+
+"Oh yeah, everything's great!" Chloé assured her. "It's just… well, we were talking about my birthday coming up next Saturday…"
+
+Alex picked up the thread, typing on his AAC. WE FIGURED OUT WE HAVE THE SAME BIRTHDAY, MOM. APRIL EIGHTH.
+
+Emily’s eyes widened. She looked from Alex’s proud face to Chloé’s beaming one. "You're joking," she said, a delighted laugh escaping her. "Really? Both of you? April eighth?"
+
+They both nodded vigorously. James, having come in from the garage, had heard the last part. "Well, I'll be," he said, breaking into a broad grin. "Birthday twins. Of all the things. That's really something special, kids."
+
+"We were thinking," Chloé continued, emboldened by their happy reaction, "since my family is so far away, and since it's *both* of our birthdays… maybe we could have one big party? Here? And invite Grandma and Grandpa, and Aunt Karen and Uncle Steve and the cousins?"
+
+Alex added his part. A JOINT FIFTEENTH BIRTHDAY. PLEASE?
+
+Emily and James looked at each other, their faces filled with a warmth and love that encompassed both teenagers. The idea was perfect. It was another beautiful, natural step in the merging of their two families.
+
+"I think," Emily said, her voice full of emotion as she pulled both Alex and Chloé into a group hug, "that is the best idea I have ever heard."
+

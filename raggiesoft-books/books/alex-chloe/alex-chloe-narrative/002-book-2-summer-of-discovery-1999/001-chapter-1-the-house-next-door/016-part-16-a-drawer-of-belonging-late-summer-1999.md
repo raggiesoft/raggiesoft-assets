@@ -1,0 +1,38 @@
+# Part 16: A Drawer of Belonging (Late Summer 1999)
+
+The salty air and happy exhaustion of their Labor Day beach adventure still clung to Alex Miller and Chloé Mason as evening settled over Lisa Court. They had returned with their families from the Virginia Beach Oceanfront, sandy, sun-kissed, and filled with the joy of Chloé’s first encounter with the Atlantic. Tomorrow, Tuesday, loomed large – their first day as freshmen at Northwood High. The prospect was a mix of excitement and a significant dose of nerves for both fourteen-year-olds.
+
+After a simple shared supper at the Millers' house – leftover picnic sandwiches and fruit, as everyone was too pleasantly tired for elaborate cooking – a familiar, comforting routine began to unfold. Chloé, who had brought her swimsuit and a change of clothes over to the Millers' that morning for the beach trip, knew she’d be staying the night. Since Alex’s nightmare a couple of nights prior, and with their parents’ full, understanding approval, Chloé sleeping over in Alex’s full-sized bed had become their accepted norm, a vital source of platonic comfort and security for both of them as they faced the monumental transition to high school.
+
+As Emily Miller tidied the kitchen and James Miller read the evening paper in his armchair, Alex and Chloé were in Alex’s room, looking over their freshly printed class schedules one last time or discussing strategies for navigating the notoriously confusing Northwood hallways. The small overnight bag Chloé had packed for the beach sat on Alex’s desk.
+
+Chloé looked at the bag, then around Alex’s familiar, welcoming room. "You know, Alex," she said thoughtfully, "I’m here so much now, especially with us being in French together and trying to survive freshman year as a team, my backpack is always overflowing. And trying to remember if I left my favorite Northwood High hoodie here or at my place is practically a daily guessing game." She grinned.
+
+Alex, who cherished her constant presence, typed on his AAC: MY ROOM IS YOUR ROOM TOO, CHLOÉ. YOU KNOW THAT.
+
+"I do," she said, her smile soft. She paused, then an idea seemed to spark. "Hey, Mrs. Miller!" she called out towards the living room.
+
+Emily appeared at Alex's doorway a moment later, her expression warm. "Yes, Chloé dear? Need anything?"
+
+"Mrs. Miller," Chloé began, with her usual directness now tempered with the ease of someone who felt completely at home, "since I’m over here pretty much all the time anyway, and definitely will be with school starting… would it be totally okay if I maybe kept a few things here? You know, like a couple of changes of clothes, my pajamas for when I stay over, maybe an extra toothbrush? Just so I don't have to pack a bag every single time, especially if we’re doing homework late or something."
+
+Emily Miller looked from Chloé’s earnest face to Alex, who was watching his mother with a hopeful expression. She saw the profound comfort and easy companionship between them, the way their lives had so naturally intertwined over this incredible summer. Chloé wasn't just a guest anymore; she was an extension of their family, Alex’s platonic other half. There was no question of impropriety; their bond was too transparently one of deep, supportive friendship.
+
+"Chloé, dear," Emily said, her voice full of genuine affection, "that sounds like an eminently sensible idea. Honestly, I'm surprised it hadn't happened sooner." She smiled. "Alex, you’ve got that bottom drawer in your dresser that’s mostly empty, don’t you? The one where we keep those extra video game controllers you rarely use?"
+
+Alex nodded eagerly, his eyes bright. YES. BIG DRAWER. PERFECT FOR CHLOÉ STUFF. IT SHOULD BE CHLOÉ’S DRAWER.
+
+"Well, there you go," Emily said to Chloé with a warm smile. "Consider it your official Northwood High satellite locker, Miller House branch. You bring over whatever you need to feel comfortable, dear. You’re always welcome, and we love having you."
+
+Chloé beamed. "Oh, thank you, Mrs. Miller! That would be amazing! It’ll make being ready for our 'study buddy' sessions much easier!" she said, giving Alex an excited nudge.
+
+And so, on the eve of their first day of high school, Chloé retrieved her small overnight bag. With Alex watching from his chair, offering opinions on where things might best fit, she carefully folded a couple of her favorite t-shirts, a pair of comfortable shorts, her pajamas, and a fresh set of socks and underwear, placing them neatly into the designated bottom drawer of Alex’s dresser. She added her spare toothbrush to the holder in his accessible bathroom.
+
+It was a simple act, occupying a single drawer, but it felt deeply significant. Alex’s room, their shared haven of games, laughter, budding French conversations, and now, shared anxieties about the next day, officially had a little corner that was just for Chloé. It wasn't about romance; it was about the practical, loving reality of a friendship so deep and constant that their lives were naturally, comfortably, blending.
+
+As Chloé tucked away her last t-shirt, she turned and gave Alex one of their signature warm, reassuring hugs. "There," she said with satisfaction, her voice perhaps a little softer, a little more thoughtful. "Now I'm really ready for whatever Northwood High throws at us tomorrow. As long as I have my best friend, a clear path to your room for emergency study sessions, and a clean shirt, I’m good to go."
+
+Alex hugged her back, a feeling of profound contentment and security settling over him. Chloé keeping some clothes in his room… it just felt right. It felt like home, a home made infinitely brighter and safer by her unwavering presence. The Summer of Discovery, with its shared adventures and deepening bonds, was drawing to a close, but the foundation it had laid for their lifelong platonic partnership was as solid as the old oak tree in his front yard. They were ready for high school, together.
+
+
+

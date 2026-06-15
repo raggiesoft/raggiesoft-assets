@@ -1,0 +1,118 @@
+# Part 7: The Adrenaline Crash
+
+## December 28, 2005 Fine Arts Center - Atrium 10:45 AM
+
+The door to the Dean’s office clicked shut behind them.
+
+The Fortress stood in the glass-walled atrium. The blizzard was still raging outside, turning the world into a white void, but inside, the air felt electric.
+
+Luna stood perfectly still, clutching the heavy folder Dean Sterling had given her. Her hands, which had been rock-steady during the performance, were now trembling slightly—the inevitable release of tension.
+
+"You played it from memory," Olivia whispered, breaking the silence. "You didn't even open the music stand."
+
+"I couldn't look at the stand," Luna exhaled, leaning against the wall for support. "If I looked at the paper, I would have thought about the notes. I had to think about the story. Pan and the reeds."
+
+Leo rolled his manual chair up to her. He looked at her face. He saw the exhaustion in her eyes—the specific kind of fatigue that comes after masking and performing at 110% capacity.
+
+He tapped his Quantum Communicator.
+
+"DATA UPLOAD COMPLETE," he typed. "SYSTEM COOLING DOWN."
+
+"Yeah," Luna laughed shakily. "System cooling down. I think I forgot to breathe for three minutes."
+
+Stella stepped forward, placing a hand on Luna’s shoulder. "You didn't just get in, Lu. You kicked the door down. 'Principal Chair Shortlist?' That’s huge."
+
+Arthur, who had been quiet during the meeting, letting the women lead, cleared his throat. He looked at the folder in Luna’s hand, then out the window at the storm.
+
+"Well," Arthur said, buttoning his coat. "That settles the 'School' part of the equation. Unless you want to go back to the hotel and see if King's College has a better offer?"
+
+Luna snorted. "Please. They probably don't even have a B-footjoint in the whole building."
+
+"Exactly," Arthur smiled. "So, we have a university. Now we need a home."
+
+He looked at Stella.
+
+"The real estate agent said the lot in Iron Point is cleared for viewing, right? Even in this weather?"
+
+"She said it's accessible," Stella confirmed. "And since we have the **Holt Sentinel**..."
+
+"We don't," Olivia reminded her. "We took the train. We don't have a car here."
+
+Stella pulled the **BTA System Map** out of her bag. She traced the **South Shore Line**.
+
+"We don't need a car," Stella said. "The train goes to Iron Point. If we're going to live here, we need to test the commute in the worst possible conditions. If we can handle the train in a blizzard, we can handle it on a Tuesday in May."
+
+Leo looked at the map. He looked at the storm outside. He looked at his manual chair.
+
+This was the ultimate stress test. A manual wheelchair. A blizzard. A train ride to a suburb they had never seen.
+
+He tapped his screen.
+
+"LET'S RIDE THE BEAST."
+
+## 11:15 AM Narraganset Esplanade Station - Sky Platform
+
+They stood on the elevated platform, protected by the glass windbreaks. The ocean below was a churning cauldron of grey foam.
+
+"Attention passengers," the automated voice announced. "South Shore Line service to Iron Point is approaching. Please watch the gap."
+
+The massive **BiLevel** train rolled in, caked in ice but running perfectly on time.
+
+They boarded. It was warm. It was empty. They claimed a table on the lower level.
+
+As the train pulled out, leaving the university behind, Luna rested her head on the table, using her flute case as a pillow. She was asleep in thirty seconds.
+
+Leo watched her. He reached out and patted her arm. She had done her job. She had secured the academic future. Now, it was up to Stella and the Trust to secure the dirt.
+
+He looked out the window as the train cut through the whiteout, heading south toward **Zone 6**.
+
+"NEXT STOP," he typed to himself. "THE FOUNDATION."
+
+## December 28, 2005 South Shore Line - Train 808 (Outbound to Iron Point) 11:25 AM
+
+The train was cutting through the whiteout of the blizzard. Inside the warm, bi-level car, the Fortress sat around their table. Luna was dozing on her flute case.
+
+Leo sat in his manual chair, his laptop open. He was still riding the high of the audition, but his analytical brain was snagged on Luna’s comment about King's College.
+
+They probably don't even have a B-footjoint.
+
+Leo pulled up the **King's College** website. He navigated to "Student Life" -\> "Arts" -\> "Music."
+
+He read the page. He frowned. He tapped his screen to wake Olivia.
+
+*"LOOK,"* he typed.
+
+Olivia leaned over. "What is it?"
+
+Leo pointed to the course catalog for King's Music Department.
+
+MUS 101: The History of the Harpsichord
+
+MUS 202: Opera for Patrons
+
+MUS 300: The Art of Listening
+
+There were no performance classes. No theory. No ear training.
+
+Then he found the photo of the "Royal Chamber Society." It showed five students holding violins. Their posture was terrible. One was holding the bow like a baseball bat.
+
+Leo scrolled down to the "Equipment List" for the department.
+
+1 Steinway Grand (Donor Lounge - Locked).
+
+1 Harpsichord (Decorative).
+
+"NO FLUTES," Leo typed. "ZERO."
+
+"Luna was right," Olivia whispered, trying not to laugh. "They don't have a B-foot. They don't even have a flute."
+
+Leo did a quick search for "King's College Graduation Music." He found a forum post from a BSU student: \> "Just got hired to play the King's commencement again. Easy \$200. They make us wear robes so we look like students."
+
+Leo smirked. He looked at Luna, sleeping with her **Orpheus 680**—a solid silver weapon of mass percussion—clutched in her arms.
+
+She wasn't just better than them. She was the mercenary they would eventually have to hire to make themselves look good.
+
+"WE ARE THE PROS," Leo typed.
+
+"Yes," Olivia agreed, looking out the window as the train slowed. "And we're almost to the site. Get ready for the Stress Test."
+

@@ -1,0 +1,111 @@
+# Part 10: The Retreat
+
+## Location: VDU Campus to 43rd Street Parking Garage Time: 3:45 PM
+
+"Alright, nobody melts on my watch," Megan announced, wiping a bead of sweat from her forehead. "We are taking the scenic—and air-conditioned—route back."
+
+She led the group away from the dorms, cutting across the quad and heading straight back toward the fortress of Batten Arts & Letters.
+
+They entered through the main lobby doors, the blast of cool air feeling like a benediction.
+
+"We have to reverse the process," Megan noted, pointing to the split-level stairs.
+
+The group hopped up the six steps to the upper hallway. Patrick rolled Nichole to the Vertical Platform Lift.
+
+He opened the gate. They rolled in. He pressed the "Up" arrow.
+
+Whirrrrrrrrr.
+
+The lift rose slowly, inching them up the four-foot rise while the rest of the tour group waited at the top. It was a slow process—performative access—but in the AC, Patrick didn't mind.
+
+"It works," Patrick said, watching the floor level rise to meet them. "It's slow, but it gets us there."
+
+They exited the lift, rolled past the shuttered coffee bar, and pushed through the heavy doors of the BAL Addition.
+
+## The Final Stretch
+
+They emerged onto the corner of Hampton Boulevard and 45th Street. The rush hour traffic was starting to pick up—a steady stream of cars, city buses, and trucks rumbling down the four-lane artery.
+
+"Straight shot down the sidewalk," Megan shouted over the noise of a passing semi-truck.
+
+They rolled south along Hampton Boulevard. The heat radiating off the concrete was intense. Patrick kept a steady pace, navigating the driveway cuts and the occasional uneven slab of sidewalk.
+
+At 43rd Street, they waited for the walk signal.
+
+"Cross!" Megan waved them across the wide intersection.
+
+They made it to the cool, concrete shade of the 43rd Street Parking Garage.
+
+"And that concludes the tour!" Megan beamed, handing out her business card to the parents. "If you have any questions, email me. VDU is a great place. We'd love to have you."
+
+"Thanks, Megan," Patrick said, shaking her hand. "You were great. No fluff."
+
+"Good luck with Engineering," she smiled. "And Creative Writing," she added, nodding to Nichole.
+
+## The Transfer
+
+They arrived at the van. It was sitting in the shadows of the ground level, a hulking silver beast waiting to take them home.
+
+Patrick unlocked the doors. The blast of heat from inside the vehicle was stifling, but Tom immediately started the engine and cranked the AC to "Max."
+
+Patrick lowered the side lift.
+
+"Up we go," he said.
+
+Nichole rolled onto the platform. The hydraulics whined, lifting her into the cabin.
+
+Usually, for a short trip, she would stay in her chair, locked down with the Q-Straint system. It was safer and faster.
+
+But today, she was done. She was done with the posture. She was done with the "public face." She wanted out of the machine.
+
+She tapped her armrest.
+
+OUT.
+
+Patrick understood. He didn't argue about safety ratings.
+
+"Okay," Patrick said. "Let's transfer."
+
+He unbuckled her chest strap. He swiveled the wheelchair seat slightly to create an angle with the rear bench seat of the van.
+
+"Ready?"
+
+Nichole leaned forward, wrapping her arms around his neck. Patrick executed the pivot transfer—smooth, practiced, efficient—lifting her out of the rigid Titan AeroMotion and depositing her onto the soft, gray upholstery of the van's bench seat.
+
+She let out a long sigh as her muscles relaxed into the cushions.
+
+Patrick sat down next to her. He pulled the seatbelt across both of them—not standard procedure, but standard for them. He put his arm around her shoulders, letting her lean her head on his chest.
+
+"We good?" Patrick asked, feeling her weight settle against him.
+
+Nichole nodded against his shirt. She was out of the chair. She was just a sister again.
+
+HOME.
+
+## The Debrief
+
+Tom pulled the van out of the garage and turned right onto 43rd Street, heading back toward the water.
+
+"So," Ellen said from the passenger seat, turning to face them. "VDU. Thoughts?"
+
+"It works," Patrick said immediately. "The Maglev is a game-changer. The bathroom situation in the Student Union is manageable if we know where the single-stalls are. And the dorms are a hard 'no,' but the apartment idea... that solves everything."
+
+"And the attitude?" Tom asked. "Megan seemed... normal."
+
+"She was great," Patrick said. "She didn't treat us like a medical crisis. She treated us like students."
+
+Nichole closed her eyes, listening to the hum of the engine. VDU was the safety net. It was the "Normal" option. And it was a really, really good option.
+
+But tomorrow was the big swing. Tomorrow was the thirteen-hour crusade to Vermont.
+
+"Okay," Tom said, merging onto Hampton Boulevard. "We go home. We do laundry. We pack the winter coats. We get a good night's sleep."
+
+He looked at the rearview mirror.
+
+"Tomorrow morning, wheels up at 6:00 AM. Vermont or bust."
+
+Nichole squeezed Patrick’s hand. She was ready. She had a benchmark now. VDU set a high bar for "Normal." Now Putney had to prove it could offer something better.
+
+Bring it on, Vermont.
+
+

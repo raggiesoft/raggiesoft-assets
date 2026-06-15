@@ -1,0 +1,18 @@
+# Part 15: Practicing for the Future
+
+After their restorative lunch of Hendy's famous fried chicken, the open house was moving into its final phase: the academic fair back at the Sinclair Center. Jefferson Hall was on the far edge of the VDU campus, a long and difficult push for a manual wheelchair. Fortunately, the university had pressed several of its student shuttle vans into service for the day, ferrying guests back and forth.
+
+They boarded a small, accessible shuttle for the short ride. Inside, Megan leaned over to Alex, her voice a low, encouraging murmur. "Okay, so next up is the academic fair. I know your heart is set on NPU with Chloé—that's the plan, and it's a perfect one. But today... today is practice. It's a chance for you to talk to professors, to ask questions, to be a prospective student without any pressure. It's about remembering what it feels like to be excited about your own future, okay?"
+
+Alex understood completely. This wasn't about VDU. This was about healing. It was about reclaiming a part of himself that Vera's constant negativity and control had tried to extinguish. He gave her a firm, grateful nod.
+
+The ballroom in the Sinclair Center had been transformed. Dozens of tables were set up, each one draped in a VDU banner, representing a different academic department. It was a bustling, energetic marketplace of ideas.
+
+With Megan by his side as a quiet, supportive presence, Alex navigated the crowd. He went directly to the two tables that mattered most to him.
+
+At the Computer Science table, he engaged a friendly professor with a series of sharp, insightful questions typed out on his Quantum Communicator XT. He asked about their programming languages, their focus on software engineering versus theory, and their lab resources. The professor was visibly impressed, treating him not as a high school kid, but as a knowledgeable peer.
+
+Next, they went to the Biology department's table. Here, his questions were full of a genuine, bubbling passion, a direct result of his time in Dr. Sharma's class back at CCHR. He asked about their marine biology program, their research opportunities, and their lab facilities.
+
+The entire experience was a profound, confidence-building exercise. He was not the awkward, silent boy in the wheelchair from his eighth-grade memories. He was not the tense, withdrawn young man who was constantly being monitored by Vera. Here, today, he was Alexander Miller: a bright, ambitious, and highly capable prospective university student. He was practicing for his future with Chloé, and he was absolutely nailing it.
+

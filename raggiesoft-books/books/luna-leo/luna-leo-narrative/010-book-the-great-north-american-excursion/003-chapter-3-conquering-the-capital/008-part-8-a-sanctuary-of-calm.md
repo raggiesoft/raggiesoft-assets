@@ -1,0 +1,24 @@
+# Part 8: A Sanctuary of Calm
+
+The return to the hotel room after their delicious dinner was a welcome retreat. The long day of walking, exploring, and navigating the city had left a deep, happy exhaustion in its wake. The fortress was tired but content.
+
+As they settled into the quiet of the room, preparing to wind down for their last night in D.C., Leo looked towards the packed suitcases, a flicker of anxiety in his posture. He was excited for the next leg of the journey, but the unknown of a long travel day was a source of stress.
+
+Olivia and Luna, sensing his unease, moved to sit with him on the edge of his bed.
+
+"Thinking about the train tomorrow?" Olivia asked gently.
+
+Leo gave a small nod.
+
+"It's going to be a long day, but it'll be a good one," she said, her voice a calm and steady presence. "Stella's got it all mapped out. It's not one long trip; it's two shorter ones."
+
+"First, we take a morning train to Philadelphia," Luna added, picking up the thread. "It's a lot like the one we took from Newport News, just a couple of hours. We'll have our same table setup in Business Class."
+
+"Then," Olivia continued, "we have a layover in Philly for about two hours. We can get off, stretch our legs, and grab a really good lunch. Stella already researched a place in the station that has amazing cheesesteaks."
+
+"After lunch, we get on a different train," Luna explained. "That one takes us the rest of the way to Pittsburgh. It's a longer ride, but it goes right through the mountains. Stella said the views are supposed to be incredible."
+
+This gentle, detailed explanation was exactly what Leo needed. It wasn't just a plan; it was a promise. A promise of comfort, of good food, and of their constant, unwavering presence through every step of the journey. The anxiety he had been feeling about the long day melted away, replaced by a quiet sense of excitement.
+
+Afterward, clean, warm, and dressed in fresh pajamas, Leo felt a deep sense of peace. He sat on the edge of his bed, watching Stella neatly fold their clothes into a suitcase, the quiet sounds of her packing a comforting, domestic backdrop. The bittersweet ache of the impending goodbye was still there, but in this moment, surrounded by the quiet, competent love of his sisters and his best friend, he felt completely and utterly safe and ready for the next adventure.
+

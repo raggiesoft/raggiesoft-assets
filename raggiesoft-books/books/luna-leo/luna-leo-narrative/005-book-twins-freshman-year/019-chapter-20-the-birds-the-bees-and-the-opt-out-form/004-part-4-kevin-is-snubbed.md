@@ -1,0 +1,162 @@
+# Part 4: Kevin is Snubbed
+
+Luna was packing her books after her last class, leaning slightly on Leo's wheelchair as he waited patiently beside her locker. Most of the students had already cleared out, heading for buses or activities.
+
+"Hey, Luna."
+
+Luna looked up. Kevin Miller, a sophomore who was often hanging around near their lockers, swaggered over, leaning against the adjacent locker bank. Leo eyed him warily. Kevin mostly ignored Leo, focusing entirely on Luna.
+
+"So," Kevin began, flashing a smile Luna found unsettling, "I was thinking... you wanna hang out this Friday? Maybe come over to my place? My parents are gonna be out all night." He winked, making his implication clear.
+
+Luna felt a knot tighten in her stomach. She instinctively disliked Kevin's attitude, and his suggestion made her deeply uncomfortable, especially after the recent talk with Stella about consent and respect. She shook her head firmly. "No," she managed, her voice quiet but definite. She turned back to her locker, hoping he'd take the hint.
+
+Kevin's smile faltered, replaced by a sneer. "What, too good for me? Or just scared?" He pushed off the lockers. "Whatever. Guess you gotta go runnin' to big sissy now, huh?" He laughed unpleasantly and sauntered down the emptying hallway.
+
+Luna slammed her locker shut, her hands trembling slightly. Leo reached out and squeezed her arm comfortingly. She hated when boys like Kevin acted like that, and the taunt about Stella stung, even though telling Stella was exactly what she planned to do.
+
+Later that evening, after dinner, Luna recounted the incident to Stella. She explained Kevin's invitation, the inappropriate suggestion about his parents being gone, and the nasty comment he made when she refused. Her speech became slightly tangled as she got upset recounting it, but Stella listened patiently, her expression growing increasingly grim.
+
+"He said *what*?" Stella asked, her voice dangerously quiet once Luna finished. She pulled Luna into a reassuring hug. "You did absolutely the right thing saying no and walking away, Lu. Absolutely. I'm proud of you. And thank you for telling me."
+
+Inside, Stella was furious. This wasn't just casual interest; it was predatory, and the taunt afterwards was just cruel. And Kevin Miller... the name rang a bell from previous, less serious complaints about general obnoxiousness.
+
+The next morning, Stella called Northwood High and made an appointment with Luna's guidance counselor. Sitting in the counselor's office later that day, Stella calmly but firmly explained what Kevin had said to Luna, emphasizing the inappropriate nature of suggesting they be alone at his house and the subsequent mocking.
+
+"This isn't just about asking someone out, Ms. Davison," Stella stated, referencing the counselor they'd worked with before. "This is about suggesting an unsafe situation to a student, particularly one who might be perceived as vulnerable, and then resorting to taunting when rejected. And frankly, I've heard Kevin Miller's name come up before regarding boundary issues."
+
+Ms. Davison listened intently, her expression serious. She checked Kevin's file. "You're right, Ms. Porter. There have been other reports concerning Kevin's behavior towards female students – nothing physical, but definitely patterns of inappropriate comments and not respecting boundaries. Thank you for bringing this to my attention immediately."
+
+Because of the documented history and the clear nature of Kevin's inappropriate suggestion, the school administration took swift action. Kevin was called to the office, his parents were contacted, and he received several days of in-school suspension along with mandatory counseling sessions on respect and boundaries.
+
+Ms. Davison called Stella later that day to confirm the consequences. "We addressed it firmly, Ms. Porter. We have zero tolerance for this kind of behavior, especially from students with a documented pattern. Please assure Luna that she did the right thing reporting it, and that we will continue to monitor the situation."
+
+Stella thanked the counselor, relieved that the school had taken it seriously. Telling Luna later, she saw the relief on her sister's face, mixed with the quiet satisfaction that standing up for herself, and trusting Stella to back her up, had made a difference.
+
+
+It was a Friday night in May 2000. Time for another research session for the last government class project of the school year for the twins, this time needing information beyond Quantum Multimedia Encyclopedia. Stella gathered Luna and Leo around the family Quantum OS 98 computer, positioned at the keyboard herself as per their established routine.
+
+"Okay guys," Stella announced, double-clicking the ILA icon herself. "Tonight, we try the 'Information Superhighway' again. We're going to connect to InterLink America – or ILA – and use it to look up that Supreme Court case for your assignment."
+
+Luna and Leo watched with keen interest, remembering the previous attempt. This was connecting to something *outside* their house through the phone line. Stella had reminded them that while they were online, no one uld call in.
+
+The ILA application launched, presenting a login screen. Stella typed in the username she'd chosen and her password. "Alright, fingers crossed," she muttered, clicking the 'Connect' button while the twins watched.
+
+The modem inside the computer sprang to life with a click and began dialing loudly through the PC speaker – a series of tones familiar from any telephone keypad. They waited... and were met with a fast, insistent *beep-beep-beep* – the unmistakable sound of a busy signal. An error box popped up on the ILA screen: "No Answer. Check your modem or try again later."
+
+Stella sighed. "Busy. Okay, that was famous for happening, especially prime time Friday night. Let's try again in a minute." She clicked 'Try Again'. The dialing sequence repeated... followed by the same annoying busy signal.
+
+Luna looked questioningly at Stella. Leo shifted impatiently. "Is it broken?" Luna asked.
+
+"No, honey, it just means too many people are trying to call ILA's computers in Norfolk right now," Stella explained, trying to keep the frustration from her voice. She physically double-checked that the phone line was plugged securely into the modem. "Third time's the charm?" She clicked the button again. Dialing... *beep-beep-beep*.
+
+"Ugh," Stella groaned softly, running a hand through her hair. "Maybe this wasn't worth the hassle after all..." For a moment, she wondered if sticking to library books was the better option. The twins looked disappointed.
+
+"Okay, *one* more try," she declared, clicking connect with perhaps a bit more force than necessary. The modem dialed again. Silence... then, instead of the busy signal, a different sound started – the loud, screeching, hissing cascade of two modems negotiating a connection.
+
+"Ah! That's it! That's the sound we want!" Stella exclaimed, relief flooding her voice. Luna and Leo leaned closer, fascinated by the bizarre electronic symphony.
+
+After about thirty seconds of the digital cacophony, the sounds abruptly stopped, replaced by a cheerful, slightly synthesized male voice from the computer speakers: *"Welcome!"* A moment later, it added: *"You've got mail!"*
+
+"We're *finally* in!" Stella declared triumphantly. On screen, the ILA main portal loaded – a busy, colorful interface with distinct boxes for news, weather, chat rooms, email, kids' sections, and a prominent search bar labeled 'Keywords'. The initial frustration was momentarily forgotten in the small victory of actually getting connected.
+
+"Okay, focus," Stella gently guided them, turning back to the task at hand. "Assignment first. You picked *Cohen versus California*, right? About the guy with the jacket?" The twins nodded, their interest rekindled now that they were actually online. "Let's try searching." Stella typed the case name into the ILA Keyword bar for them and hit enter.
+
+The screen refreshed, showing a list of results – perhaps linking to an ILA resource area about government or history, or maybe offering web links. The web page links loaded noticeably slower than the built-in ILA content, the images painting down the screen line by line. After discussing the options briefly with the twins, Stella clicked on what looked like a promising link, maybe from a legal information site or an online encyclopedia.
+
+"Okay, here we go," Stella said, as text about the 1971 case appeared. She scrolled down the page, reading parts aloud while they listened. "Paul Robert Cohen wore a jacket saying 'F--- the Draft' in a Los Angeles courthouse... arrested for disturbing the peace... Supreme Court overturned it... said it was symbolic speech protected by the First Amendment, even if it was offensive..."
+
+Luna and Leo listened intently, absorbing the facts. Leo used his AAC device: *"Jacket had bad word. Still allowed?"*
+
+"That was the point the Court made," Stella explained, pointing to the relevant text on the screen she controlled. "They said the government can't ban words just because they're offensive, especially when making a political statement. It's a really important free speech case."
+
+They spent about twenty minutes reading the summary and related links that Stella navigated to based on their interest. It wasn't as slick as Quantum Multimedia Encyclopedia, and finding specific academic details was harder, but it gave them the core information they needed.
+
+"Alright, I think that's enough to get you started on the report," Stella decided. "We should log off so the phone line is free." She clicked the 'Disconnect' or 'Sign Off' button. A cheerful *"Goodbye!"* sounded from the speakers, and the modem made a few final clicking sounds.
+
+The twins looked at each other, processing the experience. They had reached out from their house, through the phone line and noisy modem – after several frustrating attempts navigated by Stella – into a vast network and pulled back information about a specific Supreme Court case. It was slow, it was loud, it was initially annoying, but it was undeniably powerful. Now, they could take these facts and retreat to the quiet comfort of their MagnaByte Opus corner and the familiar flow of MagnaSuite to actually write about it.
+
+
+It happened on a Tuesday afternoon, just a couple of days after Stella had talked with them about bodies, consent, and privacy. Luna and Leo were home from school, settled into their afternoon routine – homework spread out on the table, quiet music playing from the stereo. Stella wouldn't be home from her web developer job for at least another hour.
+
+Suddenly, Luna heard a choked sob from beside her. She looked over to see Leo rigid in his wheelchair, tears streaming silently down his face, his eyes wide with distress and shame. The distinct, sharp odor hit her a second later. He’d had an accident – urine and feces soaked through his jeans.
+
+Leo kept shaking his head slightly, his silent tears intensifying. Luna could almost hear him thinking back to Stella’s words from their talk – her promise to figure something out for emergencies, a plan that hadn't materialized yet. He looked utterly helpless and mortified.
+
+Luna’s heart clenched. This *was* an emergency. Stella wasn't here. He couldn't stay like this. Taking a deep breath, Luna made a decision. The theoretical boundaries of privacy dissolved in the face of her brother’s immediate, pressing need.
+
+She moved quickly to his side, putting a reassuring hand on his shoulder. "Leo, it's okay," she said softly, her voice calm despite her own fluttering nerves. "It's okay. I'm going to help you get cleaned up. Remember what Stella said about emergencies? This is one. I'll help you, and we'll tell Stella when she gets home. She won't be mad. I promise."
+
+Leo looked at her, his tears slowing slightly, a flicker of trust in his eyes. Luna gently took hold of his wheelchair handles. "Come on, let's get you to the bathroom."
+
+She wheeled him into the main bathroom, the one Stella had modified with grab bars and a roll-in shower. Parking his chair near the shower area, she knelt beside him. "Okay, deep breaths," she murmured, more for herself than for him. "We gotta get these clothes off."
+
+Carefully, methodically, Luna helped Leo maneuver out of his soiled jeans and underwear. She checked his pockets automatically, pulling out his wallet and keys, placing them on the counter. She unbuckled and slid off his belt. His shirt was thankfully clean. This was the first time she had seen her brother fully naked, the first time she had seen a penis up close. But any potential awkwardness was completely overshadowed by the task at hand. She saw only her brother, miserable and needing care. There was no flinching, no hesitation. He needed her.
+
+Quickly balling up the soiled pants and underwear, she carried them out to the laundry closet in the hall and tossed them straight into the washing machine, starting a pre-rinse cycle. Returning to the bathroom, she focused on Leo. "Alright, shower time," she said gently.
+
+Transferring him from his wheelchair onto the shower bench took effort, but they managed. Luna turned on the handheld showerhead, testing the water temperature carefully before directing the warm spray. She washed him thoroughly but gently, cleaning away the mess with soap and cloths, talking softly to him the whole time, reassuring him it was alright. He was still quiet, his face downcast, but the panicked tears had stopped.
+
+Once he was clean, she helped him dry off with a large towel, then assisted him back into his wheelchair and helped him get dressed in clean sweatpants and underwear. The whole process was carried out with a focused tenderness that surprised even Luna herself.
+
+When Stella walked through the door about half an hour later, the washing machine was running, and the twins were sitting quietly in the living room, the earlier tension replaced by a fragile calm. Luna immediately stood up, her expression earnest and slightly anxious.
+
+"Stella," she began before her sister could even put her bag down. "Leo had... an accident. A bad one. You weren't here, so... I helped him. I cleaned him up. In the shower." She braced herself, hoping Stella truly wouldn't be upset that she had crossed that line.
+
+Stella stopped, looking from Luna's serious face to Leo's clean clothes and subdued demeanor. She took in the faint smell of laundry soap mingling with the lingering odor from the bathroom trash. Understanding dawned instantly. She walked over and put an arm around Luna’s shoulders, pulling her into a hug, then knelt beside Leo’s chair, putting a hand gently on his arm.
+
+"Okay," Stella said softly, her voice completely free of anger or frustration. "Thank you, Luna. That sounds like exactly the kind of emergency we talked about. You did the right thing, absolutely the right thing, taking care of your brother when he needed help, and I wasn't here." She looked at Leo. "You okay now, buddy?" He gave a small, hesitant nod.
+
+Stella stood up, looking between them. "Well," she said with a small sigh, a mixture of resignation and acceptance in her tone. "I guess the cat's out of the bag now, huh? Looks like you know what your brother looks like 'down there' now, Lu." She gave Luna a small, understanding smile. "Honestly? Since this happened, and you handled it so well and respectfully, it confirms what we already knew – we're a team. We both help Leo with what he needs, whenever he needs it. If I'm here, I'll help. If you're here, you help. If we're both here, we both help. We'll still respect privacy day-to-day, but we do what needs to be done, right?"
+
+Luna let out a breath she hadn't realized she was holding, relief washing over her. She hadn't been punished; she'd been affirmed as an equal partner in her brother's care. She nodded firmly. "Right, Stella. We're a team."
+
+Leo looked between his sisters, a sense of quiet gratitude seeming to settle over him. The awkwardness of the situation had inadvertently solidified their shared responsibility and trust.
+
+
+The phone rang in the quiet, comfortable living room of the maternal grandparents' home. The grandmother answered it, her voice calm.
+
+"Hello?"
+
+"Mom? It's me," the voice on the other end was tight, strained with barely concealed fury. "Barbara called me. *Barbara*! From the band boosters!"
+
+"Hello, dear," Eleanor replied evenly, bracing herself. Arthur glanced up from his newspaper.
+
+"Don't 'hello dear' me! Barbara said she saw you and Dad at the competition last weekend! Fawning all over Luna and Leo like you have any right!" the daughter spat. "She even mentioned how wonderful Luna's *brand new* tenor saxophone is, and that fancy xylophone setup for Leo... looked expensive, she said!"
+
+Eleanor paused. "We enjoy supporting our grandchildren's interests, yes. They performed beautifully."
+
+"Supporting their interests?" The daughter's voice dripped with sudden, dawning suspicion, connecting Barbara's innocent comments with past events. "Where did Stella suddenly get money for thousand-dollar instruments? And that lawyer... and that house she bought right after...? Was that *you*? All this time?"
+
+Eleanor remained silent for a beat, choosing her words carefully.
+
+"So that's it!" Karen shrieked, the pieces clicking together in her mind, fueled by resentment and likely alcohol. "You paid for it all, didn't you?! You bankrolled her! You paid Sarah Jenkins to steal my kids! You bought her that house! You bought them those instruments! You went behind my back and *bought* my children away from me!"
+
+"We ensured our grandchildren had the resources they needed when their parents consistently failed to provide them," Eleanor stated, her voice cold now, shedding the usual pretense of politeness. "Stella manages those resources, which were always intended for Luna and Leo's well-being, responsibly and legally as their guardian."
+
+"My kids! You sided with *her* against your own daughter!"
+
+"We sided with Luna and Leo," Eleanor corrected firmly. "Now, as I told you before, Stella has a restraining order against you for harassing the twins. We respect that order. We cannot and will not discuss Luna and Leo's current lives, activities, or needs with you. It would violate the order protecting them."
+
+"But... you paid for it! You have to tell me! Are they okay at least?" The demand was still there, now mixed with the fury of betrayal.
+
+"I cannot discuss them with you," Eleanor repeated, her tone unwavering and final. "Goodbye." She gently replaced the receiver, cutting off the sputtering accusations. Her husband looked at her, understanding the shift. Their daughter now knew about the financial support, but it changed nothing about the necessary boundaries. If anything, it might make upholding them even more critical.
+
+
+The announcement had come over the PA system during homeroom: mandatory grade-level assemblies on substance awareness throughout the day in the auditorium. Luna and Leo's session was scheduled for second period. Along with hundreds of other freshmen and sophomores, they filed into the large, echoing space, the lights dimmed except for the brightly lit stage. Finding accessible seating near the side aisle, Leo positioned his wheelchair while Luna sat beside him. The sheer number of students – even knowing this was just one of several sessions needed to get through Northwood High's roughly 2,000-strong student body – created a low buzz of restless energy.
+
+On stage stood Officer Whitehead, the School Resource Officer, flanked by posters showing alarming statistics and images designed to grab attention. His uniformed presence brought a measure of quiet as the last students found seats.
+
+Officer Whitehead began speaking into the microphone, his voice amplified through the auditorium sound system. He acknowledged the mandatory nature of the assembly before launching into his presentation, addressing the realities of drug and alcohol use among high school students. He covered the potential impact on their immediate lives – grades dropping, losing spots on sports teams, the dangers of impaired driving, legal consequences like DUIs or possession charges – as well as the longer-term health risks associated with addiction and abuse.
+
+About fifteen minutes into the presentation, Luna noticed Leo shifting uncomfortably in his seat. It was a subtle movement she had become highly attuned to ever since discovering that awful pressure sore months ago. The hard auditorium seating wasn't ideal, and sitting still for long periods still made her anxious *for* him. Leaning over slightly, she whispered, "Need to move?" Leo gave a tiny nod. Quietly, Luna helped him lift and shift his weight slightly, adjusting the position of his legs as best they could in the confined space, a quick, practiced maneuver born from painful experience.  
+
+He clicked through a stark presentation – no cartoons, just facts, figures, and a couple of short, grainy video clips featuring older teens talking about how drinking or drug use had derailed their plans or hurt people they cared about.
+
+As Officer Whitehead discussed the effects of alcohol abuse – mentioning blackouts, personality changes, neglect of responsibilities, inability to control consumption – Luna felt a familiar tightness in her chest. Beside her, Leo sat very still, his gaze fixed on the stage. The clinical descriptions resonated deeply, overlaying the memories of their parents' behavior. This wasn't just Mom and Dad being difficult; it was the damaging pattern the officer was detailing for the entire assembly.
+
+The officer moved on to talk about peer pressure and enabling behavior, describing situations where friends or family might ignore or even facilitate substance abuse. Luna thought of Stella trying to hang sheets for privacy in their old room, a silent acknowledgment of a problem their parents actively ignored. The topic seemed to make Leo tense up again; Luna saw him subtly trying to adjust his position, his face tight. She leaned in once more. "Okay?" she murmured. He nodded stiffly. Under the cover of the darkened auditorium and the focused attention on the stage, Luna again helped him shift his weight, pushing gently on his shoulder to help him lean briefly to one side, then the other, relieving the pressure points – an unspoken routine now ingrained by the lingering fear of another sore developing.  
+
+The assembly concluded with Officer Whitehead urging them to make smart choices, to find trusted adults to talk to if they or someone they knew needed help, and reinforcing the school's zero-tolerance policies. As the students began filing out, heading back to their regular classes, Luna and Leo remained for a moment. They didn’t need to speak or use the AAC device to know they shared the same unsettling thoughts connecting the warnings to their past. Luna gave Leo’s arm a quick squeeze before reaching for his wheelchair handles. The presentation, delivered to a large portion of the school, felt different than a small class session – more impersonal, yet somehow the warnings felt amplified, solidifying their relief at being removed from their parents' destructive environment and reinforcing the importance of the choices they, unlike Kevin and Mary, had made. They headed towards their next class, the need for vigilance, both emotional and physical, a constant undercurrent in their lives.
+
+
+

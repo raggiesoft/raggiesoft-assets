@@ -1,0 +1,22 @@
+# Part 12: Decompression
+
+The Holt Sentinel pulled into the driveway of 1091 Daniel Maloney Drive, the quiet hum of its engine the only sound in the peaceful, late evening. The magical send-off at the country club had been the perfect, gentle end to a long and emotionally overwhelming day. Inside the car, a profound, bone-deep exhaustion had settled over them all.
+
+As they got into the house, the familiar, safe quiet of their own space was a welcome relief. The day had been perfect, a flawless celebration of love, but the constant social engagement, the high emotions, and the adherence to a schedule had taken a significant toll, especially on Luna and Leo.
+
+The need for decompression was immediate and palpable. Leo, who had been running on a high wire of adrenaline and joy all day, was now visibly drained. His earlier separation anxiety from the court hearing and the pre-ceremony separation was on high alert, a quiet, thrumming undercurrent beneath his exhaustion. Olivia, acutely aware of this, did not leave his side for a single second. She was a constant, reassuring presence, her hand always on his arm or the back of his wheelchair, a silent promise that she was not going anywhere.
+
+Stella, seeing the state of her siblings, went into her familiar, gentle caregiver mode. "Okay, team," she said softly. "No big plans. No talking unless we have to. Let's just get comfortable and let our brains turn off for a while."
+
+In the living room, they settled into a familiar, comforting tableau. Leo remained in his wheelchair, too tired to even transfer to the sofa, and Olivia sat on a stool beside him, her head resting gently against his shoulder. Stella and Luna sank into the plush cushions of the sofa. No one turned on the television or put on music. They just sat together in the quiet, a silent, shared exhalation after a day of profound emotional output.
+
+After a long, peaceful silence, it was time for bed. The usual routine was a quiet, practiced affair, but tonight, there was a subtle shift. As Olivia helped Leo get ready, Luna hovered in the doorway, a quiet, unspoken need in her eyes. The day had been wonderful, but it had also been a powerful reminder of the deep, sometimes overwhelming emotions that came with their unique family bond.
+
+Olivia noticed, and her heart swelled with a new, deeper understanding. She was beginning to realize that in the aftermath of emotionally significant events, Luna's need to be physically close to her twin was just as profound as Leo's need for her. It was becoming a thing, this new sleeping arrangement, and Olivia was not just okay with it; she was perfectly happy to have her.
+
+When it was time to sleep, the arrangement was unspoken and immediate. The three of them gathered in Leo and Olivia's bedroom. Leo settled into the middle of the queen-sized bed. On his right, Olivia, his *ma blonde*, settled in, her arm draped protectively over him. And tonight, on his left, Luna, his twin, his other half, curled up close, her presence a familiar, grounding anchor.
+
+They were all exhausted, but as Leo lay there, held securely on both sides by the two most important women in his world, he felt a profound sense of peace. The day had been perfect. The fortress was complete. And he was home.
+
+
+

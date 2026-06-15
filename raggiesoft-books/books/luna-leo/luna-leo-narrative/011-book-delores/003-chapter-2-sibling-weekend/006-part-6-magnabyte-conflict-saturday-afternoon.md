@@ -1,0 +1,30 @@
+# Part 6: MagnaByte Conflict (Saturday Afternoon)
+
+After the call with Olivia, seeking refuge, Leo joined Luna at the MagnaByte table. The quiet, rhythmic click-clack of the two keyboards filled their corner as they focused on a writing assignment for English class, comfortably using MagnaWriter. For a brief period, they existed in their familiar bubble.
+
+Delores, eventually tiring of the uninteresting standard cable service (Stella kept the tape player and tapes inaccessible), muted the TV and sauntered over.
+
+"I don't get it," she drawled. "Why do you guys spend so much time playing with these *antique toys*? Seriously, Leo," she focused on him, "isn't it time you used a real computer? Like Stella's? This stuff is ancient junk."
+
+Luna stopped typing instantly, whirling around. "They are NOT toys!" she hissed. "And they're not junk! They're important! They're how we get our homework done!"
+
+Leo looked up sharply, hurt and confusion flickering across his face. He typed quickly on his AAC device: HELPS US. IMPORTANT. FOR SCHOOL.
+
+Delores glanced at his screen and scoffed. "Oh, please. Important how? They look like something out of a museum." She reached out a hand towards Leo's machine.
+
+"*Don't touch them!*" Luna shouted, moving her chair to block Delores. "*Stay away from them!*"
+
+Delores smirked. "Ooh, protective? Scared I'll break your precious *toy*?"
+
+Leo watched, distressed. Her sneering dismissal of the machines that were his lifeline struck a nerve. He felt a nascent anger stir as she deliberately provoked Luna.
+
+Stella hurried back in. "What's going on here?"
+
+"She's calling the MagnaBytes junk!" Luna accused.
+
+"I barely went near it," Delores lied. "Luna's just being overly dramatic. Honestly, Stella, the way you two *coddle* him and encourage this attachment to outdated junk... it's not healthy. You're the *toxic* ones here, holding him back."
+
+"That's enough, Delores," Stella said dangerously low. "They are working. Leave them alone."
+
+Delores shrugged with feigned indifference. "Fine. Whatever. Stay here with your *silly antiques*." She walked back to the couch. Luna glared after her. Leo looked down at his keyboard, the brief refuge invaded. He glanced at Luna, a shared look of helpless anger passing between them.
+

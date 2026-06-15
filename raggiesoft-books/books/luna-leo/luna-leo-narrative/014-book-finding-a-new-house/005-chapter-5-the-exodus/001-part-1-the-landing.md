@@ -1,0 +1,68 @@
+# Part 1: The Landing
+
+## July 26, 2006 Iron Point Station (ARTS Platform) 06:45 PM
+
+The silver **ARTS Coastal** train hissed to a halt. The conductor deployed the bridge plate.
+
+*"Now arriving... Iron Point. Caution, gap."*
+
+The Fortress stepped off.
+
+The air here was different than Virginia. Even in July, the evening breeze off the Atlantic and the Narraganset carried a crisp, salty bite that cut through the humidity of the long travel day. It smelled of pine, brine, and cooling asphalt.
+
+"We're here," Luna breathed, adjusting her saxophone case.
+
+They stood on the platform. The station was quiet. The commuter rush was over. To the south, the tracks disappeared into the woods. To the north, they led to the gleaming city of **Braxton**.
+
+And just two blocks away, visible through the trees, was the slate roof of **8 Ocean View Lane**.
+
+"Don't look at the house yet," Stella commanded gently. "It's empty. We can't sleep on the floor."
+
+She pointed toward the village center, where a white Victorian house with a wrap-around porch glowed with warm light.
+
+"We're going to the **Grey Gull**."
+
+## The Carriage House
+
+They walked (and rolled) down the sidewalk. The town was peaceful. A few neighbors waved from their porches—people who recognized Stella from the Town Meeting battle against the condos.
+
+They arrived at the **Grey Gull Inn**. Mrs. O'Malley, the innkeeper (and wife of Tom, the Selectman), was waiting on the porch.
+
+"You made it!" Mrs. O'Malley called out, wiping her hands on her apron. "Tom told me the train was on time. Come on back, the Carriage House is open."
+
+They bypassed the main house stairs and followed the paved, lit path through the garden to the **Carriage House**.
+
+It was a detached, single-story cottage that used to be a stable. Now, it was a luxury suite.
+
+- **The Door:** Wide, with a zero-step entry.
+
+- **The Layout:** A large common room with a kitchenette and two bedrooms.
+
+- **The Bathroom:** Fully accessible, with a roll-in shower that rivaled the one in their new house.
+
+"I stocked the fridge," Mrs. O'Malley said, opening the door. "Milk, juice, and I left a bottle of **Autocrat** on the counter. Figured you’d need a cabinet after that train ride."
+
+Leo rolled in. He spun a circle in the middle of the living room. It was cozy. It smelled of lavender and old wood.
+
+He tapped his **MagnaByte Scribe**.
+
+*"BASE CAMP ESTABLISHED."*
+
+"It's perfect, Mrs. O'Malley," Stella said, dropping her bags. "Thank you."
+
+"Rest up," Mrs. O'Malley said. "Breakfast is at 8:00. Blueberry pancakes. And I think your moving truck called Tom at the Town Hall asking about bridge clearances. Sounds like your furniture is almost here."
+
+## The Wait
+
+They settled in. Eleanor took the smaller bedroom. The four "kids" claimed the main room and the second bedroom, creating a temporary slumber party pile-up on the pull-out sofa and the king bed.
+
+They were in Iron Point. They were residents. But for the next 48 hours, they were in limbo—waiting for the **Hercules Van Lines** truck and the **Holt Sentinel** to catch up to them.
+
+Leo rolled to the window. He looked out at the garden. He could see the lights of the train station through the trees.
+
+He wasn't visiting anymore. He lived here.
+
+*"WAITING FOR THE FLEET,"* he typed.
+
+"They'll be here," Olivia promised, sitting beside him. "The Tank and the furniture. Until then... we have pancakes."
+

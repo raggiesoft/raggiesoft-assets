@@ -1,0 +1,918 @@
+# Chapter 4: The Clockwork Ocean
+
+## Part 1: The Rifled Barrel
+
+Theme: danger-descent
+
+Location: The Crater of Silence / The Magma Tube
+
+POV: Kaelan
+
+The suns rose over the Voidlands, but they brought no warmth to the crater. The light merely highlighted the jagged, black teeth of the obsidian rim.
+
+Kaelan stood by the *Iron Keel*. He checked the drag-plows. He checked the iron runners. He checked his sword belt.
+
+He was stalling.
+
+"It's time," Kaela said softly. She was already standing by the cockpit, her hand resting on the iron canopy.
+
+Kaelan took a deep breath of the freezing air. He looked at the central vent miles away—the glowing red eye of the world.
+
+"Right," he said. "Time."
+
+He climbed into the cockpit. He sat in the pilot’s seat. It was a tight squeeze, heavily padded with leather and fur.
+
+He looked at the empty passenger seat next to him. He looked at the dashboard.
+
+"Kaela," he said.
+
+"I know," she answered.
+
+She didn't go to the passenger side. She climbed into the pilot’s seat with him.
+
+She sat on his lap, her back resting against his chest, her legs draped over his thighs. She wiggled until she was settled, her head tucked under his chin.
+
+Kaelan let out a breath he didn't know he was holding. The weight of her was exactly what he needed. It was an anchor.
+
+He reached around her waist to grab the tiller and the brake levers. His arms bracketed her, creating a cage of bone and muscle that kept her safe.
+
+"Comfortable?" he asked, his voice vibrating against her back.
+
+"Perfect," she said, resting her hands on his forearms. "You can reach the controls?"
+
+"I can reach everything."
+
+He looked out the viewport. The crater floor was a sheet of black glass. The magnetic pull was a screaming siren in his blood.
+
+"Goggles down," Kaelan ordered.
+
+They pulled the heavy lenses over their eyes.
+
+Kaelan closed his eyes for a second. He engaged the Circuit. He felt the iron runners fuse with the magnetic field of the planet.
+
+*Click.*
+
+The boat lurched, hovering.
+
+"Going down," Kaelan whispered.
+
+He slammed the levers forward.
+
+The *Iron Keel* shot off the rim.
+
+They hit the crater floor at eighty miles an hour. Sparks flew from the runners as they skidded across the obsidian. Kaelan fought the tiller, drifting the heavy boat around jagged spires of rock, aiming for the red glow in the center.
+
+"The intake!" Kaela shouted, pointing. "The field folds in!"
+
+They hit the lip of the vent.
+
+Gravity vanished.
+
+The boat tipped forward, diving into the throat of the volcano.
+
+It wasn't a freefall. The magnetic field caught them. The vent was a lava tube—a perfect, circular tunnel that spiraled down into the crust like the rifling of a gun barrel.
+
+The boat locked into the spiral. They began to corkscrew.
+
+Round and round. Faster and faster.
+
+The G-force pressed them together. Kaela was crushed back into Kaelan’s chest; Kaelan was pressed into the seat.
+
+The light outside the canopy shifted from sunlight to the deep, angry red of magma veins running through the rock walls.
+
+"Heat rising!" Kaela yelled over the roar of the descent. "Hull temp is critical!"
+
+"I got it!" Kaelan roared.
+
+He took one hand off the tiller and slammed it against the iron dashboard.
+
+He engaged the Engine. But he didn't pull heat in. The friction here was too much; if he absorbed it, he would cook them both from the inside out.
+
+He pushed *out*.
+
+He projected a sphere of high-pressure thermal rejection around the boat. He created a bubble of cold air—a magical heat shield that forced the superheated atmosphere of the tunnel to flow around them.
+
+The cockpit temperature stabilized.
+
+They fell for hours. Or maybe minutes. Time distorted in the dark.
+
+They passed layers of the world that no human had ever seen. They saw veins of pure gold thick as rivers. They saw caverns filled with diamonds the size of houses.
+
+"Deeper," Kaelan gasped, sweat pouring down his face as he held the shield. "We're passing the mantle."
+
+The tunnel widened. The spiral straightened out.
+
+The red light turned blinding white.
+
+"Brace!" Kaelan shouted, wrapping both arms around Kaela, burying his face in her neck to protect his eyes.
+
+The *Iron Keel* shot out of the ceiling of the Underworld.
+
+They were in freefall for three seconds.
+
+*SPLASH.*
+
+The boat hit the liquid surface with a force that rattled their teeth. It hissed, skidded, and bounced.
+
+Steam exploded around them.
+
+The boat settled, rocking violently.
+
+Kaelan kept his eyes squeezed shut, holding the thermal shield, waiting for the hull to melt.
+
+It didn't.
+
+"Kaelan," Kaela whispered. She sounded awestruck. "Open your eyes."
+
+Kaelan opened his eyes. He lifted his goggles.
+
+They were floating on a sea of liquid iron, glowing with a soft, white luminescence. The "sky" above them was a ceiling of rock miles high, swirling with clouds of magnetic vapor.
+
+And rising from the sea, turning slowly with the rotation of the earth, were the Gears.
+
+Massive, continent-sized cogs made of a dark, star-forged metal, ticking away the seconds of the planet's life.
+
+"The Clockwork Ocean," Kaelan breathed. "I built a clock."
+
+"And someone," Kaela said, pointing to a dark speck moving toward the central mechanism, "is trying to stop the hands."
+
+## Part 2: The Oven of the World
+
+Theme: danger-heat
+
+Location: The Upper Mantle (The Magma River)
+
+POV: Kaelan
+
+=
+
+The view from the viewport was beautiful, in the way a forest fire is beautiful just before it consumes you.
+
+They were floating on a river of liquid rock—a blinding, viscous torrent of gold and orange that flowed through a tunnel ten miles wide. The walls were made of pressurized diamond and slag, glowing with the ambient temperature of the deep earth.
+
+"Temperature rising," Kaela whispered. Her voice was tight.
+
+Kaelan didn't look at the gauges. He didn't need to. He could feel it.
+
+The heat here wasn't like the desert sun. It was a physical weight. It pressed against the iron hull of the *Iron Keel*, seeking any weakness, any crack in the plating. It wanted to cook them.
+
+Inside the cockpit, the air was sweltering. The iron canopy was radiating heat like a skillet. The smell of scorching wood—the oak hull beneath the iron plating—was getting stronger.
+
+Kaelan sat in the pilot’s seat, his hands fused to the iron controls. He wasn't steering anymore; the magnetic current had them locked in.
+
+He was cooling.
+
+He had his eyes closed, sweat stinging his eyelids. He was projecting the Thermal Shield—a sphere of high-pressure rejection that forced the superheated air away from the boat.
+
+But he was tired.
+
+He had been holding the shield for six hours. His energy reserves, usually infinite, were straining against the sheer magnitude of the planet's core.
+
+"Kaelan," Kaela said softly. She shifted in his lap.
+
+She was soaking wet with sweat, her tunic clinging to her skin. Her back was pressed against his chest, her head tucked under his chin.
+
+"You're flickering," she warned. "The shield dropped a degree. The hull is groaning."
+
+"It's... heavy," Kaelan gasped. "The pressure. It's like trying to hold up the sky."
+
+"Don't hold it alone," she commanded.
+
+She reached out and placed her hands over his on the controls. She didn't have his fire. She didn't have his nuclear engine.
+
+But she had the Coolant.
+
+She engaged the Circuit.
+
+*Sync,* she projected.
+
+Kaelan felt a rush of cold, silver energy flood his mind. It was like a bucket of ice water dumped on a fever.
+
+Kaela took the chaotic, roaring noise of the mantle—the pressure, the heat, the geological screaming—and she filtered it. She organized it.
+
+She took the load off his mind so his body could work.
+
+"Better?" she asked.
+
+"Much," Kaelan breathed, his heart rate slowing. The shield stabilized, pushing the heat back a few more feet. The smell of burning wood faded slightly.
+
+"We need to stop," Kaela said, looking out the viewport. "We can't ride the main current all the way down. You'll burn out."
+
+"There's nowhere to stop, Moon. It's all fire."
+
+"There," she pointed.
+
+To the left of the main flow, a massive shelf of black, solid rock jutted out into the magma stream. It was a "Slag Island"—a piece of the crust that had sunk but hadn't melted yet.
+
+It looked desolate, hot, and dangerous. It looked perfect.
+
+"Eddy current," Kaelan noted, seeing the magnetic lines swirling around the rock. "I can drift us in."
+
+He wrestled the tiller. The *Iron Keel* fought the current, surfing sideways across the magma. Sparks of molten rock sprayed against the shield.
+
+They slammed onto the black rock, the iron runners screeching as they dug into the stone. The boat slid forty feet and came to a halt.
+
+Kaelan slumped forward, releasing the shield.
+
+The heat of the mantle rushed in instantly. It wasn't the instant-death heat of the magma, but it was easily 130 degrees Fahrenheit in the air.
+
+"Out," Kaelan croaked. "The cabin is an oven. The hull is still conducting."
+
+They scrambled out of the boat. The air on the rock shelf was stifling, smelling of sulfur and ancient dust, but it was cooler than the iron box.
+
+Kaelan collapsed onto the dark stone. He ripped his tunic off, his skin red and steaming.
+
+Kaela sat beside him. She pulled her dress over her head, leaving her in her undergarments. Modesty was a luxury for people who weren't boiling alive.
+
+"Water," she rasped.
+
+She summoned a sphere of water from the barrel in the boat—carefully, so it wouldn't flash-boil. She floated it over to them.
+
+They drank greedily. Then Kaela splashed the rest over Kaelan’s head.
+
+He hissed, steam rising from his skin.
+
+"We have to sleep," Kaelan said, wiping his eyes. "Just for a few hours. I need to recharge the battery."
+
+"I'll watch," Kaela said.
+
+"No. We sleep together. If the shield fails while we're sleeping..."
+
+"...we cook," she finished. "Okay. Together."
+
+They lay down on the hard rock, away from the magma's edge.
+
+They lay face-to-face. They didn't cuddle for warmth this time; they cuddled for regulation.
+
+Kaelan focused on pulling the ambient heat *away* from her. Kaela focused on keeping his mind calm, slowing his metabolic rate so he wouldn't overheat.
+
+It was a delicate thermal dance.
+
+"Kaelan," Kaela whispered into the suffocating dark.
+
+"Yeah?"
+
+"Do you feel that?"
+
+"The heat?"
+
+"No. Deeper."
+
+She pressed her hand against the rock floor. She closed her eyes, extending her senses down, past the mantle, toward the core.
+
+"Someone is down there," she whispered. "Waiting."
+
+Kaelan felt it then. It wasn't the rhythmic *thump-thump* of the Clockwork machinery he had built.
+
+It was a static. A void.
+
+It felt like a shadow moving against the glare of the sun. It felt cold, ancient, and hungry.
+
+"It's not Malakor," Kaelan said, a shiver of true fear running through him despite the heat. "It's not Seraphina."
+
+"It's the thing they worked for," Kaela realized. "The Dark Master."
+
+"He's trying to stop the clock," Kaelan murmured. "He's trying to hold the pendulum."
+
+"Then we have to hurry."
+
+"We will," Kaelan promised. He pulled her closer, his sweat-slicked skin slipping against hers. "But first... we cool down."
+
+He closed his eyes, focusing on the image of snow, of the slate roof in the rain, of the cold spring water at the Bridge.
+
+He projected that cold into the circle of their embrace.
+
+Kaela sighed, her body relaxing.
+
+They slept in the throat of the world, a tiny bubble of life floating on a sea of fire, while far below, something older than the stars turned its gaze upward, wondering why the intruders hadn't burned yet.
+
+## Part 3: The Endless Burn
+
+Theme: danger-heat
+
+Location: The Lower Mantle
+
+POV: Kaelan
+
+=
+
+There was no sunrise in the throat of the world. There was only the relentless, blinding glare of the magma river.
+
+Kaelan didn't know how long they had slept on the slag rock. An hour? A day? It didn't matter. The heat was a constant pressure, a physical weight that sat on his chest and refused to move.
+
+He sat up, groaning. His skin felt tight, dried out by the superheated air.
+
+"Ready?" he croaked. His throat felt like he had swallowed sand.
+
+Kaela sat up next to him. She looked pale, her hair plastered to her skull with sweat. She nodded, not wasting breath on words.
+
+They climbed back into the *Iron Keel*.
+
+The hull was hot to the touch—not burning, thanks to the Stellium and iron plating, but hot enough to be uncomfortable. The air inside the cockpit was stifling.
+
+Kaelan took the pilot’s seat. Kaela climbed into his lap instantly.
+
+It wasn't a choice anymore. It was a mechanical necessity. If they separated, the Circuit weakened. If the Circuit weakened, the thermal shield faltered. If the shield faltered, they died.
+
+"Shield up," Kaelan whispered.
+
+He slammed his hands onto the dashboard. He engaged the Engine. He pushed the bubble of cold air out, forcing the ambient temperature down from *deadly* to merely *miserable*.
+
+"Magnetic lock," Kaela whispered, her head resting against his chest, her eyes closed as she guided the boat’s sensors.
+
+The runners engaged. The boat lurched off the rock shelf and back into the main flow of the magma river.
+
+They accelerated.
+
+The journey became a blur. There were no landmarks here, only the endless, flowing river of liquid fire and the diamond-studded walls rushing past.
+
+Time dissolved.
+
+"Talk to me," Kaelan rasped after what felt like an eternity. The silence was getting loud again—filled with the roar of the fire and the static of the Dark Master waiting below.
+
+"About what?" Kaela mumbled. She was lethargic, the heat sapping her energy.
+
+"The garden," Kaelan said. "Tell me about the garden."
+
+"The mint," Kaela whispered, latching onto the memory like a lifeline. "It was coming back. The green shoots. They smell like... cold rain."
+
+"Cold rain," Kaelan repeated, visualizing it. He projected that image into the shield, hardening the barrier.
+
+"And the wall," he added. "The stone wall. It's cool to the touch in the morning. It has dew on it."
+
+"I like the wall," Kaela murmured. "It keeps the deer out. It keeps us in."
+
+"I want to go back," Kaelan admitted. "I want to sit on the bench and do absolutely nothing."
+
+"We will," she promised. "Just... keep driving."
+
+They went deeper.
+
+The tunnel widened. The ceiling vaulted upward, vanishing into a haze of magnetic auroras.
+
+They were entering the Outer Core.
+
+The river emptied into a vast, churning ocean of white-hot liquid metal. And rising from that ocean, dominating the horizon, were the Gears.
+
+They were colossal. Cogs the size of continents, forged from a black metal that drank the light of the magma. They turned with a slow, inexorable rhythm—*click... thrum... click... thrum.*
+
+They were the clockwork mechanism Solas had built eons ago to regulate the planet's magnetic field and rotation.
+
+But something was wrong.
+
+"Kaelan," Kaela said, sitting up straighter, her eyes snapping open. "Look at the pendulum."
+
+In the center of the gear assembly, a massive pendulum swung back and forth. But it was erratic. It was stuttering.
+
+And wrapped around the main drive shaft, looking like a tumor made of shadow, was a cloud of static darkness.
+
+"It's Him," Kaelan said. "The Unseen. He's jamming the gears."
+
+"He's trying to stop the rotation," Kaela realized. "If that clock stops, the magnetic shield drops. The atmosphere strips away. Earth dies."
+
+"Not today," Kaelan growled.
+
+He pushed the tiller forward. He poured more power into the runners.
+
+"We have to get to the Control Platform," he said, pointing to a flat, obsidian disc hovering near the main axle of the clock.
+
+"It's right next to the darkness," Kaela warned. "It's going to be cold."
+
+"Good," Kaelan said, sweat dripping from his nose. "I could use a little cold."
+
+The *Iron Keel* surged across the white-hot sea, a tiny speck of defiance racing toward the mechanism that kept the world turning.
+
+## Part 4: The Pendulum and the Wedge
+
+Theme: danger-core
+
+Location: The Inner Core (The Clockwork Ocean)
+
+POV: Kaelan
+
+=
+
+The *Iron Keel* drifted past the final barrier of the Outer Core.
+
+The liquid metal here wasn't orange or yellow. It was blinding, pure white. The heat was no longer a physical sensation; it was a frequency. It vibrated in their bones.
+
+Inside the cockpit, the iron canopy was beginning to glow dull red. The air smelled of scorching leather and singing hair.
+
+"Hull integrity at 40%," Kaela rasped. She was slumped against Kaelan’s chest, her skin flushed, her breathing shallow. She was pouring every ounce of her will into the Circuit, keeping Kaelan focused, but her biological body was failing.
+
+"Almost there," Kaelan whispered. His skin was gold. He was pushing the Thermal Shield so hard that the air around the boat was distorting, creating a mirage bubble.
+
+They floated toward the central island of solid iron—the Inner Core.
+
+Rising from it was the Cosmic Clock.
+
+It was a mechanism of impossible scale. Gears the size of continents clicked and whirred, driving the rotation of the planet. And hanging from the center was the Great Pendulum—a massive weight of star-metal swinging back and forth through the liquid iron sea.
+
+*Tick... Tock... Tick...*
+
+But the rhythm was wrong. It was stuttering.
+
+"There," Kaela pointed, her hand trembling.
+
+Standing on the main drive shaft, right next to the Pendulum, was a figure.
+
+It wasn't a shadow like Malakor. It wasn't a biological abomination like Seraphina.
+
+It was a Construct. A being made of void-metal and static, shaped like a man but hollow. It held a massive, jagged spear of anti-matter.
+
+"The Gear-Breaker," Kaelan named it. "A servant of The Unseen."
+
+The construct wasn't attacking the gears. It didn't have to.
+
+It was waiting for the Pendulum to swing past a specific point—a point where the gears were grinding, sparking, and slowing down.
+
+"It's catching," Kaelan realized. "Why is it catching?"
+
+He looked closer. His Scion eyes pierced the glare of the magma.
+
+Lodged in the teeth of the main drive gear was a massive, misshapen lump of metal. It wasn't star-metal. It wasn't void-metal.
+
+It was pure, crude iron.
+
+"The Extra Iron," Kaelan whispered. The realization hit him harder than the heat.
+
+"I put it there. I added mass to the core to shield the planet. But I didn't account for the drift. Over a billion years... it shifted. It migrated."
+
+"It's a doorstop," Kaela gasped. "You jammed your own door."
+
+The Gear-Breaker raised its spear. It was timing its strike. When the gear jammed again—when the "Extra Iron" locked the teeth—it would drive the spear into the pause, shattering the mechanism and stopping the heart of the world.
+
+"I have to move it," Kaelan said.
+
+"You can't," Kaela argued weakly. "It's in the magma. It's ten thousand degrees out there, Kaelan. Even you..."
+
+"I *am* ten thousand degrees," Kaelan countered. He looked at his hands. They were glowing with the same white-hot intensity as the ocean outside.
+
+"I built it. I broke it. I have to fix it."
+
+He looked at the boat. The hull was groaning. If he left, the shield would collapse. Kaela would vaporize in seconds.
+
+"I can't leave you," he said, panic flaring. "If I drop the shield..."
+
+"Then don't drop it," Kaela said. She sat up, forcing her exhausted body to move. She grabbed the tiller.
+
+"Tie the shield to the boat," she ordered. "Anchor it to the iron plating. Leave it running."
+
+"That will drain me," Kaelan warned. "If I'm out there fighting the heat *and* powering the shield..."
+
+"...then we have to be fast," she finished. "Go. Remove the wedge."
+
+Kaelan looked at her. He kissed her, his lips searing hot against her forehead.
+
+"Count to one hundred," he said. "If I'm not back, turn the boat around."
+
+"I'm not leaving without you."
+
+"Go."
+
+Kaelan popped the hatch.
+
+The heat that rushed in was absolute. It was the breath of a dragon.
+
+Kaelan didn't flinch. He stepped out onto the hull.
+
+He didn't need a suit. He didn't need armor. He stripped off his tunic, his boots, his trousers. They would have burned away instantly anyway.
+
+He stood naked on the bow of the *Iron Keel*, a being of gold and fire standing against the white glare of the core.
+
+He leaped.
+
+He hit the liquid iron sea. It didn't burn him; it felt like a warm bath. It felt like home.
+
+He swam. He cut through the molten metal with strokes of immense power, aiming for the massive, grinding gears.
+
+The Gear-Breaker saw him. The construct turned its void-eyes toward the incoming swimmer. It raised its spear.
+
+Kaelan didn't slow down. He didn't have a weapon. He *was* the weapon.
+
+He launched himself out of the magma, landing on the main drive shaft. The metal seared his feet, but he ignored it.
+
+He sprinted toward the jam.
+
+The Gear-Breaker thrust the spear. Kaelan ducked, the anti-matter blade slicing the air where his head had been.
+
+He didn't fight the construct. He tackled the problem.
+
+He slid under the Construct's guard and grabbed the "Extra Iron"—the massive, house-sized lump of metal wedged between the gears.
+
+It was fused. Welded by eons of heat and pressure.
+
+"Move!" Kaelan roared.
+
+He channeled everything. He poured the energy of the Sun into his hands. He superheated the iron, turning it from solid to plastic.
+
+The Gear-Breaker struck Kaelan in the back with the haft of its spear. Kaelan grunted, ribs cracking, but he didn't let go.
+
+"Kaela!" he shouted in his mind. "Steer me!"
+
+From the boat, Kaela reached out. She couldn't help him lift, but she could help him *aim*. She found the stress point in the weld.
+
+*Twist left!* she screamed in his head.
+
+Kaelan twisted.
+
+*CRACK.*
+
+The Extra Iron sheared off.
+
+The gear, suddenly free, lurched forward. The massive tooth caught the Gear-Breaker, clipping the construct and sending it spinning into the magma ocean, where it dissolved with a shriek of static.
+
+Kaelan held the massive lump of iron. He was standing on a moving gear, the Clockwork Ocean churning around him.
+
+He looked at the molten sea.
+
+He heaved.
+
+He threw the Extra Iron into the abyss of the deep core, where it would melt and reintegrate harmlessly into the flow.
+
+The gears groaned. They spun. The hesitation vanished.
+
+*Tick... Tock... Tick... Tock.*
+
+The rhythm smoothed out. The magnetic field stabilized. The red auroras far above would be turning back to green.
+
+Kaelan stood on the gear, panting, his golden skin fading back to human tan as he throttled down the Engine.
+
+He looked back at the *Iron Keel*. It was drifting dangerously close to a magma-fall.
+
+"I'm coming!" he yelled.
+
+He dove back into the fire, swimming for his life, swimming for the boat, swimming for the girl who was waiting to pull him out of the fire and tell him he was late for dinner.
+
+## Part 5: The Naked Truth
+
+Theme: danger-escape
+
+Location: The Inner Core / The Mantle Tunnel
+
+POV: Kaela
+
+=
+
+The Gear-Breaker did not scream as it dissolved. It simply ceased to be logic.
+
+Kaela watched from the cockpit as the construct tumbled into the white-hot sea. The magma didn't just melt it; it unmade it. The void-metal hissed, releasing a cloud of static that dissipated instantly in the overwhelming reality of the earth's core.
+
+But Kaela didn't care about the monster. She cared about the swimmer.
+
+Kaelan was twenty yards out. He was swimming hard, cutting through the liquid iron with strokes that sent sprays of molten metal into the air.
+
+But he was slowing down.
+
+The golden light of his skin was fading, flickering like a dying candle. He had poured everything into the weld. He was running on fumes.
+
+A wave of magma, churned up by the falling Extra Iron, crested behind him. It was a tsunami of fire.
+
+"Kaelan!" Kaela screamed.
+
+She didn't wait for him to reach the hull. She climbed onto the gunwale.
+
+The heat was absolute. Her tunic flared and disintegrated into ash instantly. Her boots smoked and cracked.
+
+She didn't flinch. She reached out. Not with her hand, but with the Circuit.
+
+*Grab me!*
+
+She projected a telekinetic tether—a lifeline of pure will.
+
+Kaelan felt it. He lunged, his hand breaking the surface of the fire.
+
+Kaela grabbed his wrist. Skin to skin.
+
+The heat transfer was violent. It felt like grabbing a lightning bolt. But she didn't let go. She hauled him up.
+
+With a roar of effort, she pulled him over the gunwale.
+
+He crashed onto the iron deck plates. He was slick with molten metal that was rapidly cooling into slag. He was naked, his clothes vaporized by the swim.
+
+He was gasping, his chest heaving.
+
+"Got... you," he wheezed.
+
+"I got you," she corrected, falling to her knees beside him. She was naked too now, the last of her clothes burned away by the ambient heat of his arrival.
+
+They were two specks of flesh on a boat of iron in a sea of fire.
+
+"We have to go," Kaelan choked out. "The vent... it's sealing."
+
+Kaela looked up. The magnetic field above them was twisting. The "lid" of the core was closing. The updraft was their only way out.
+
+"Hold on," she commanded.
+
+She crawled to the tiller. She didn't stand; the air was too hot. She grabbed the iron lever.
+
+"Engine!" she shouted.
+
+Kaelan slammed his hand onto the deck. He didn't have much left, but he had enough for this.
+
+He pulsed the thermal shield one last time.
+
+The *Iron Keel* bucked. The thermal expansion underneath them acted like a rocket.
+
+They shot upward.
+
+They hit the mouth of the lava tube just as the magnetic iris began to close. They scraped through, sparks flying as the iron runners ground against the diamond walls.
+
+They were in the tunnel.
+
+They were flying up the throat of the world, riding a column of superheated gas.
+
+The blinding white light of the core receded, replaced by the angry red of the mantle.
+
+They rose for miles. The temperature began to drop—from *impossible* to merely *deadly*.
+
+Finally, the boat crested the magnetic ridge. They leveled out in the upper mantle tunnel, coasting on the residual magnetic current.
+
+Kaelan rolled onto his back. He stared at the rock ceiling rushing past.
+
+"We made it," he whispered.
+
+"We made it," Kaela agreed. She let go of the tiller. The boat would follow the track now.
+
+She looked at him. He was unburned—Scion durability was a handy thing—but he looked exhausted.
+
+She looked at herself. She was covered in soot and sweat, but alive.
+
+Then she looked at the rest of the boat.
+
+The leather seats were gone—burned away. The wooden handle of the tiller was ash.
+
+And their clothes...
+
+"Kaelan," she said.
+
+"Yeah?"
+
+"We're naked."
+
+Kaelan lifted his head. He looked down at himself. He looked at her.
+
+"We are," he admitted.
+
+"We can't arrive in Sunstead like this," Kaela said. "Horg will faint. And Mrs. Gable will never let us hear the end of it."
+
+Kaelan groaned. He sat up, wincing as his muscles protested.
+
+"The chest," he said, pointing to the iron storage locker bolted to the bow. "Horg insulated it. He used ceramic wool. He said it was for 'delicates'."
+
+Kaela scrambled over to the chest. The iron was hot, but she popped the latch.
+
+Inside, packed tight between layers of dense, fire-resistant ceramic batting, were their spare supplies.
+
+Most of it was scorched. The heat had penetrated even the insulation. The dried meat was charcoal.
+
+But at the bottom, shielded by the rest, was a bundle.
+
+It was the heavy, oil-treated canvas tarp they used to cover the boat in the rain. And wrapped inside it were two spare cloaks—rough, scratchy wool, but intact.
+
+"Jackpot," Kaela said, pulling them out. They were hot, smelling of burnt oil, but they were fabric.
+
+She tossed one to Kaelan.
+
+"It's not a tunic," she said, wrapping the other one around herself like a toga. "But it covers the important bits."
+
+Kaelan caught the cloak. He wrapped it around his waist.
+
+"It's a look," he said, grinning weakly. "Very... primal."
+
+He crawled back to the pilot’s seat—now just a bare iron bench.
+
+"Come here," he said.
+
+Kaela went to him. She sat on his lap, the rough wool of their makeshift clothes scratching against their skin.
+
+He wrapped his arms around her.
+
+"We fixed it," he whispered into her ear. "The clock is ticking again."
+
+"And the Unseen?"
+
+"He's still out there," Kaelan said, looking up at the rock ceiling. "But he knows we're here now. He knows the door is locked."
+
+"Good," Kaela said. She rested her head on his shoulder. "Let him knock. We aren't opening it."
+
+They huddled together in the iron boat, wrapped in tarps and wool, sailing up through the crust of the earth, ready to face the sun, the wind, and the inevitable lecture from the blacksmith about why his boat smelled like sulfur.
+
+## Part 6: The Cool Down
+
+Theme: danger-heat-intimacy
+
+Location: The Deep Crust (The Vertical Tunnel)
+
+POV: Kaela
+
+=
+
+The upward rush of the thermal draft began to fade.
+
+The *Iron Keel* slowed, its iron runners scraping against the walls of the lava tube as the magnetic current lost its violent, core-driven intensity. They weren't flying anymore; they were drifting.
+
+The blinding white light of the Clockwork Ocean was gone, replaced by the dull, rhythmic red glow of the magma veins pulsing through the rock.
+
+"Leveling out," Kaelan rasped. He pulled the drag-brakes gently, engaging the magnetic lock to hold them steady against the tunnel wall.
+
+The boat shuddered and stopped, hovering in the center of the vertical shaft, miles beneath the surface.
+
+Kaelan slumped back against the iron bench. He wiped his face. His skin was no longer glowing gold; it was flushed, sweat-slicked, and covered in soot.
+
+"It's getting cold," he muttered, shivering slightly.
+
+Kaela looked at him. She checked the ambient temperature with her senses.
+
+"Kaelan," she said, a small smile touching her lips. "It is one hundred and fifty degrees in here."
+
+"Exactly," Kaelan grunted. "Freezing. compared to the swim."
+
+To a normal human, the air in the deep crust would be lethal—a suffocating oven that would boil the blood in minutes. To the twins, who had just emerged from the heart of a star, it felt like stepping out of a sauna into a brisk autumn evening.
+
+"We need to rest," Kaela decided. "The magnetic field is fluctuating up ahead. If we try to punch through to the crater while you're running on empty, we might slide back down."
+
+"Rest sounds good," Kaelan agreed.
+
+He tried to pull the rough wool cloak tighter around his shoulders, but he winced. The coarse fabric scraped against his heat-sensitive skin.
+
+"This tarp," he complained, picking at the heavy canvas. "It feels like wearing a cheese grater."
+
+"It's fire-treated wool," Kaela reminded him. "It's designed not to burn, not to be comfortable."
+
+She shifted on his lap. The wool she was wrapped in was just as bad—itchy, stiff with oil, and smelling of burnt hair.
+
+She looked around the tunnel. Above them, the shaft stretched up into endless shadow. Below, the red glow faded into the dark.
+
+They were suspended in the throat of the world. There were no cameras. No guards. No peering eyes. Just the rock, the heat, and the silence.
+
+"Take it off," Kaela said.
+
+Kaelan looked at her. "The cloak?"
+
+"We don't need it for warmth anymore. The air is manageable. And..." She scratched her arm. "I can't sleep in this. It scratches."
+
+"Agreed."
+
+They stood up—carefully, so as not to tip the boat in the magnetic suspension.
+
+Kaelan let the heavy canvas cloak drop to the deck. He stood there, naked in the red gloom, his body a map of muscle and healed scars. He stretched, his spine cracking.
+
+"Better," he sighed. "Much better."
+
+Kaela unwrapped her own makeshift toga. She let it fall. The relief was instant. The humid, heavy air of the crust felt soft against her skin, a velvet blanket compared to the abrasive wool.
+
+She didn't feel exposed. She felt natural.
+
+"Bed?" Kaelan suggested, pointing to the bare iron bench.
+
+"It's hard," Kaela noted. "But it's flat."
+
+They lay down on the bench. It was narrow, forcing them to tangle their limbs together to fit.
+
+Kaelan lay on his back, one arm behind his head, the other wrapped around Kaela. She lay on her side, half-draped over him, her head resting on his chest.
+
+The contact was soothing. Kaelan’s skin was still running hotter than normal—a slow, steady release of the solar energy he had stored—and Kaela soaked it up, regulating his temperature, pulling the excess heat away from his core and venting it harmlessly into the air.
+
+"This is nice," Kaelan murmured, his eyes drooping. "Quiet. No ticking."
+
+"Just the hum," Kaela whispered, listening to the magnetic field singing in the rocks.
+
+She ran her hand down his arm, marveling at the fact that they were alive. They had fixed the world. They had swum in fire. And now, they were just napping in a hole.
+
+"Kaelan?"
+
+"Mmm?"
+
+"When we get back... I want a bath. With soap. And lavender."
+
+"I'll buy the soap," Kaelan promised sleepily. "I'll buy all the soap in Sunstead."
+
+He tightened his grip on her, pulling her leg over his hip to lock her in place.
+
+"Sleep now, Moon. We have a long climb tomorrow."
+
+"Sleep, Sun."
+
+They drifted off in the sweltering dark, two naked gods sleeping in the womb of the earth, comfortable in a heat that would kill an army, held together by gravity and love.
+
+## Part 7: The Itchy Ascent
+
+Theme: adventure-return
+
+Location: The Crust / The Crater of Silence
+
+POV: Kaelan
+
+=
+
+Waking up was a slow process of realizing that he wasn't melting anymore.
+
+Kaelan opened his eyes. The red glow of the magma veins in the tunnel walls had dimmed to a dull, pulsing maroon. The air was still thick and heavy, tasting of sulfur and iron, but the oppressive weight of the core was gone.
+
+He shifted. Kaela was asleep on his chest, her breathing slow and even. She was warm—delightfully, humanly warm—against his skin.
+
+He didn't want to move. He wanted to stay in this dark, warm hole forever.
+
+But the magnetic hum in the rocks was changing pitch. It was rising.
+
+"Moon," Kaelan whispered, nudging her shoulder. "Wake up."
+
+Kaela groaned, burying her face in his neck. "Five more minutes. It's warm here."
+
+"It's one hundred and fifty degrees," Kaelan reminded her. "And we have a schedule. The magnetic tide is rising. If we catch it, we get a free ride to the surface."
+
+Kaela sighed, pushing herself up. She rubbed her eyes, her hair a wild copper halo in the gloom.
+
+"Fine," she muttered. "Let's go home."
+
+She looked down at the floor of the boat. There lay the pile of "clothes"—the heavy, oil-treated canvas and rough fire-wool tarps.
+
+She made a face of pure disgust.
+
+"Do we have to?" she asked.
+
+"Unless you want to explain to Horg why we're arriving in Sunstead wearing nothing but soot and a smile," Kaelan said, swinging his legs off the bench. "Yes. We have to."
+
+He stood up and picked up the larger tarp. It was stiff, heavy, and smelled like an industrial accident.
+
+He wrapped it around his waist, cinching it with his leather belt (which had miraculously survived, though the buckle was warped). It formed a crude, knee-length kilt.
+
+"Itches," Kaelan grumbled, scratching his hip. "It feels like I'm wearing a hedgehog."
+
+Kaela stood up and picked up her piece of the wool. She wrapped it skillfully, tucking the ends to create a makeshift dress that covered her from chest to mid-thigh. She tied it off with a strip of leather from the ruined saddlebags.
+
+She looked like a barbarian queen who had just raided a shipyard.
+
+"You look..." Kaelan searched for the word.
+
+"Like a disaster," Kaela supplied.
+
+"I was going to say 'fierce'," Kaelan corrected. "But yeah. Disaster works too."
+
+They climbed back into the pilot’s seat. The iron bench was cooling down, no longer searing to the touch.
+
+Kaela sat on his lap. The friction of the rough wool against his skin was maddening, but the weight of her was grounding.
+
+"Goggles," Kaelan ordered.
+
+They pulled the leather goggles down.
+
+Kaelan grabbed the iron levers. He closed his eyes, reaching out for the magnetic current.
+
+It was there—a strong, upward draft pulling toward the North Pole.
+
+"Holding on?"
+
+"Drive," Kaela said, gripping his arms.
+
+Kaelan released the brakes.
+
+The *Iron Keel* lurched upward.
+
+They accelerated up the shaft. The red glow of the crust blurred into streaks of light. The wind rushing past the hull began to scream.
+
+Up. Through the lithosphere. Up. Through the bedrock.
+
+The temperature plummeted.
+
+"Brace for cold!" Kaelan shouted.
+
+They shot out of the throat of the volcano.
+
+The *Iron Keel* launched into the air above the Crater of Silence, arcing high into the twilight sky of the Voidlands.
+
+The shock was instant.
+
+The air in the Voidlands was freezing—likely twenty degrees below zero. After hours in the oven of the earth, it felt like being slapped in the face with a block of ice.
+
+"Freezing!" Kaela gasped, huddled into his chest as the wind bit through the loose weave of the wool.
+
+Kaelan engaged the Engine instantly, not for a shield, but for warmth. He flooded their bodies with internal heat, fighting back the shock.
+
+The boat hit the obsidian floor of the crater with a screech of iron runners. They skidded, drifted, and finally slowed to a halt near the rim.
+
+Silence rushed back in.
+
+Kaelan panted, his breath pluming in the cold air. He looked up.
+
+The stars were out. The red auroras were gone, replaced by the gentle, familiar green curtains of the northern lights.
+
+"We fixed it," Kaelan whispered, looking at the sky. "The magnet is holding."
+
+"We fixed it," Kaela agreed, shivering against him despite his heat.
+
+She looked down at her scratchy, ugly tarp-dress.
+
+"Three days to Sunstead?" she asked.
+
+"If we drive fast," Kaelan promised. "We can be in a hot bath by Freeday."
+
+"Then drive fast, Sun. Drive very fast."
+
+Kaelan grinned behind his goggles. He turned the boat South, toward the red dust, the stone wall, and the promise of soft linens.
+
+"Hang on."
+
+The *Iron Keel* surged forward, surfing the magnetic lines home.
+

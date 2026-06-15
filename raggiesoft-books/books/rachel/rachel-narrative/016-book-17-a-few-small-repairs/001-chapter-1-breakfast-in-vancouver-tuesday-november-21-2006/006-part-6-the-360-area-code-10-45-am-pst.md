@@ -1,0 +1,44 @@
+# Part 6: The 360 Area Code – 10:45 AM (PST)
+
+The heavy, comforting atmosphere of our victory breakfast was settling over the booth when a sharp, sustained buzzing cut through the clatter of the diner.
+
+Jessica’s cell phone was vibrating aggressively against the laminated tabletop.
+
+All four of us stopped eating. Jessica looked down at the glowing digital display. The incoming number wasn't saved in her contacts, but the area code was glaringly obvious: *360*.
+
+Clark County. Vancouver, Washington.
+
+Rachel went entirely still against my side. The strawberry-covered piece of waffle she had been holding on her fork hovered motionless in the air.
+
+"Is it him?" Kristin asked, her voice dropping into a low, defensive register.
+
+"Who else would be calling me from a local Vancouver number right now?" Jessica replied, her tone completely devoid of surprise. She didn't reach for the phone. She just sat back in her wheelchair and watched it vibrate.
+
+My analytical brain quickly ran the timeline. "He got the text message. He read the part about the car payment being cancelled in January, and he is panicking."
+
+"Exactly," Jessica said, her eyes narrowing with a cold, absolute disgust. "He didn't call to apologize for missing breakfast. He didn't call to hear Rachel's voice. He is only calling because his wallet is suddenly lighter. He is frantic because he just realized his leverage is entirely gone."
+
+The phone stopped ringing. The screen went dark.
+
+Three seconds later, it lit up and started vibrating again. He was double-calling, trying to brute-force his way through the boundary.
+
+Jessica picked the phone up. She didn't press the green 'Talk' button, and she didn't send him to voicemail. She pressed her thumb firmly against the power button on the top edge of the device and held it down until the screen completely powered off.
+
+"Turn them off," Jessica commanded, looking around the table. "All of them. Right now."
+
+I reached into my pocket and pulled out my silver flip phone, powering it down instantly. Kristin did the same with hers.
+
+Rachel pulled her phone out of her cargo pocket, but she hesitated, staring at the blank screen.
+
+"He pays for this one," Rachel whispered, the realization hitting her like a physical weight. "I'm on his plan."
+
+"I know you are," Jessica said smoothly. "And Michael is still on Mom's plan. Kristin is paying for her own out-of-pocket, and I'm on a single line. The digital perimeter of this pack is completely fragmented, which leaves vulnerabilities."
+
+Jessica waved the waitress over and placed her debit card on top of the breakfast check.
+
+"If Tom realizes he can't reach me," Jessica explained, her strategic mind already ten steps ahead of his panic, "he is going to try to call Rachel's phone to scream at her. And when she doesn't answer, he will use his administrative access on the account to disconnect her line entirely just to be vindictive."
+
+Rachel’s finger immediately clamped down on the power button of her device, killing the power to the phone before the thought could even fully materialize.
+
+"So," Jessica smiled, a fierce, protective light returning to her eyes as the waitress handed her back the receipt. "It is time for the next small repair. Drink your coffee, everyone. We are going shopping."
+

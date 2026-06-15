@@ -1,0 +1,10 @@
+# Part 3: The Infinite Loop
+
+The train rumbled on, leaving the last vestiges of the Seattle suburbs behind as it passed through Everett. The city lights vanished, replaced by the dark, imposing silhouettes of the Cascade Mountains against a starless sky. Inside the small family sleeping quarters, the storm of grief raged on, unabated.
+
+By now, Leo was physically exhausted. The hours of intense, full-body thrashing had left him drained, his movements less violent but his emotional state unchanged. He was limp in Stella's arms, but the meltdown was still in full swing, manifesting now as a continuous, heartbreaking series of deep, shuddering sobs and raw, guttural moans of pure misery.
+
+Luna, equally spent, was trapped in the infinite feedback loop of their twin bond. She had curled into the tightest possible ball on the small bench, her body trembling. Just as she would seem to find a moment of quiet, a fresh wave of agony would wash over Leo. Hearing his renewed cries would instantly re-trigger her own pain, and she would let out a small, choked sob. This sound, in turn, would pierce through Leo's own fog of grief, reminding him of his sister's suffering, and his own meltdown would intensify, starting the cycle all over again.
+
+Stella was trapped between them, a helpless island in a sea of their shared sorrow. She held Leo, her hand stroking his hair, while her eyes were fixed on Luna, her heart breaking for both of them. There was no escape, no comfort she could offer that would break the circuit. All she could do was hold on, a solitary, exhausted guardian, as the train carried her shattered family deeper into the long, dark night.
+

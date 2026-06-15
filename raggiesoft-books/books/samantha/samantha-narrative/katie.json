@@ -1,0 +1,223 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 1: Toby’s 6th Grade",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Breadcrumbs – 2:40 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/001-chapter-1-the-father-and-the-uncle-sunday-july-13-1997/001-part-1-the-breadcrumbs-2-40-pm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Fern Lake – 8:15 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/001-chapter-1-the-father-and-the-uncle-sunday-july-13-1997/002-part-2-fern-lake-8-15-pm.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Interlude – 9:45 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/001-chapter-1-the-father-and-the-uncle-sunday-july-13-1997/003-part-3-the-interlude-9-45-pm.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 3: Justice – 11:15 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/001-chapter-1-the-father-and-the-uncle-sunday-july-13-1997/004-part-3-justice-11-15-pm.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Cumberland Gap – 12:05 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/001-part-1-the-cumberland-gap-12-05-am.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Phalanx – 2:15 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/002-part-2-the-phalanx-2-15-am.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Winding Road – 4:30 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/003-part-3-the-winding-road-4-30-am.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Dawn and the Drive-Thru – 5:15 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/004-part-4-dawn-and-the-drive-thru-5-15-am.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Bottleneck and the Adrenaline Crash – 9:15 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/005-part-5-the-bottleneck-and-the-adrenaline-crash-9-15-am.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Sentries – 9:45 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/006-part-6-the-sentries-9-45-am.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Living Room Camp – 10:05 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/007-part-7-the-living-room-camp-10-05-am.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Sentry's Rest – 10:15 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/008-part-8-the-sentry-s-rest-10-15-am.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: Jointly and Severally – 6:00 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/009-part-9-jointly-and-severally-6-00-pm.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Kitchen Perimeter – 6:45 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/010-part-10-the-kitchen-perimeter-6-45-pm.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Iron Perimeter – 7:30 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/011-part-11-the-iron-perimeter-7-30-pm.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Medical Perimeter – 8:30 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/012-part-12-the-medical-perimeter-8-30-pm.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Triage Desk – 8:45 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/013-part-13-the-triage-desk-8-45-pm.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Medical Perimeter – 8:55 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/014-part-14-the-medical-perimeter-8-55-pm.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 15: Irrefutable Proof – 11:30 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/015-part-15-irrefutable-proof-11-30-pm.md"
+          },
+          {
+            "part_num": 16,
+            "part_title": "Part 16: The Shift Change – 11:45 PM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/002-chapter-2-the-extraction-monday-july-14-1997/016-part-16-the-shift-change-11-45-pm.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Midnight Protocol – 1:55 AM",
+            "file_path": "/samantha/samantha-narrative/001-book-1-toby-s-6th-grade/003-chapter-3-the-night-watch-tuesday-july-15-1997/001-part-1-the-midnight-protocol-1-55-am.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book 2: Toby’s 8th Grade Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Guidance Summons – 1:15 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/001-chapter-1-the-matrix-anomaly-tuesday-april-20-1999/001-part-1-the-guidance-summons-1-15-pm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Rueger Street Debrief – 3:20 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/001-chapter-1-the-matrix-anomaly-tuesday-april-20-1999/002-part-2-the-rueger-street-debrief-3-20-pm.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Formal Declination – 4:30 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/002-chapter-2-the-intent-to-enroll-friday-april-23-1999/001-part-1-the-formal-declination-4-30-pm.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Joint and Several – 10:15 AM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/003-chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999/001-part-1-joint-and-several-10-15-am.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Arrival – 3:05 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/004-chapter-4-the-morrison-stand-off-thursday-may-6-1999/001-part-1-the-arrival-3-05-pm.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Gridlock Ultimatum – 3:11 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/004-chapter-4-the-morrison-stand-off-thursday-may-6-1999/002-part-2-the-gridlock-ultimatum-3-11-pm.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Mic Drop – 4:05 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/004-chapter-4-the-morrison-stand-off-thursday-may-6-1999/003-part-3-the-mic-drop-4-05-pm.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Drop – 4:15 PM",
+            "file_path": "/samantha/samantha-narrative/002-book-2-toby-s-8th-grade-year/004-chapter-4-the-morrison-stand-off-thursday-may-6-1999/004-part-4-the-drop-4-15-pm.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book 3: The Environmental Doctrine",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Galaxy Fitness – 10:15 AM",
+            "file_path": "/samantha/samantha-narrative/003-book-3-the-environmental-doctrine/001-chapter-1-the-cosmic-collapse-tuesday-july-13-1999/001-part-1-galaxy-fitness-10-15-am.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Brute Protocol – 10:28 AM",
+            "file_path": "/samantha/samantha-narrative/003-book-3-the-environmental-doctrine/001-chapter-1-the-cosmic-collapse-tuesday-july-13-1999/002-part-2-the-brute-protocol-10-28-am.md"
+          }
+        ]
+      }
+    ]
+  }
+]

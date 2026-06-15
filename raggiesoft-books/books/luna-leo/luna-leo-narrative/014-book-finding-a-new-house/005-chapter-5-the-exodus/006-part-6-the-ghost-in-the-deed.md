@@ -1,0 +1,104 @@
+# Part 6: The Ghost in the Deed
+
+## July 27, 2006 The Grey Gull Inn - Carriage House 09:30 PM
+
+The pot roast had been perfect. The evening had been a celebration of the future. But as the adrenaline of the day faded, the shadows in the corners of the Carriage House seemed to lengthen.
+
+Leo was in the bedroom he was sharing with Olivia. He was transferring from his manual chair to the bed.
+
+He looked at the window. Outside, the trees of Iron Point were swaying in the wind. To anyone else, it looked peaceful. To Leo, suddenly and violently, it looked *exposed*.
+
+A thought struck him like a physical blow.
+
+They had just bought land. They had recorded a deed. **Public Record.**
+
+His name was on it. **LEO ARTHUR PORTER.** Her name was on it. **LUNA ELEANOR PORTER.**
+
+If it was public... *She* could find it.
+
+The logic of his brain—usually his greatest asset—short-circuited. It didn't matter that it had been years. It didn't matter that they were in Rhode Island. The old fear, the primal fear of the woman who had left them in cribs and ignored their cries, surged up from his brainstem.
+
+He froze. His breath hitched. He started to hyperventilate, a high, thin wheeze.
+
+In the other room, Luna dropped her hairbrush.
+
+She felt it. The sudden, electric spike of terror from her brother. It hit her like a wave. She rushed into the bedroom.
+
+"Leo?" she gasped. "Leo, what is it? Is it the pain? Is it the hip?"
+
+Leo was rocking back and forth on the edge of the bed, his hands clutching his ears, his eyes squeezed shut.
+
+He tapped his **Quantum Communicator** frantically. The voice was cranked to maximum volume, disjointed and terrified.
+
+*"SHE WILL SEE THE DEED. SHE WILL SEE THE NAME. SHE IS COMING. HIDE. HIDE. HIDE."*
+
+Luna read the screen. The word "SHE" hit her.
+
+The panic was contagious. Luna’s knees buckled. She slid to the floor, pressing her back against the wall, pulling her knees to her chest. She started rocking in sync with him.
+
+"She's coming," Luna whispered, her voice rising to a keen. "She knows where we are. We told everyone. We put it in the paper."
+
+The feedback loop was established. Leo’s fear fed Luna’s; Luna’s fear validated Leo’s. They were spiraling into a dual meltdown, a psychic storm that threatened to tear the room apart.
+
+The door flew open. Stella and Olivia rushed in.
+
+"What happened?" Stella demanded, assessing the room instantly. "Physical hurt? Seizure?"
+
+"No," Olivia said, seeing the screen. "Ghost."
+
+She pointed to Leo’s text: *SHE IS COMING.*
+
+Stella froze. Her face hardened. She knew exactly who "She" was.
+
+"Okay," Stella said, her voice dropping to the low, commanding register of the General. "Action stations. Olivia, take Luna. I have Leo. We are grounding. Now."
+
+Olivia dropped to the floor next to Luna. She didn't ask questions. She wrapped her arms around the shaking girl, pulling her into a tight, compressive hug, applying deep pressure to her shoulders.
+
+"Breathe," Olivia commanded. "Match me. In... Out..."
+
+Stella climbed onto the bed behind Leo. She wrapped her legs around his hips and her arms around his chest, pulling him back against her solid frame. She became a human weighted blanket.
+
+"Leo," Stella said, her mouth right at his ear. "Listen to my voice. You are safe."
+
+Leo was shaking violently. He tried to pull away, his mind screaming that he needed to run, to hide in a closet.
+
+*"SHE KNOWS,"* he typed with one trembling hand. *"THE DEED IS PUBLIC."*
+
+"Leo, stop," Stella said firmly. "Look at the data. Look at the facts."
+
+She waited until he stopped thrashing against her.
+
+"Where is Mother?" Stella asked.
+
+Leo let out a whimper. He didn't type.
+
+"She is dead," Stella said. The words were brutal, but they were the only medicine that worked. "She died three years ago. We went to the funeral. Do you remember?"
+
+Leo’s rocking slowed slightly. He remembered the black dress. He remembered the rain.
+
+"We buried her," Stella continued, her voice relentless. "She is in the ground in Virginia. She is six feet deep and six hundred miles away. She cannot read a deed. She cannot drive a car. She cannot find you."
+
+On the floor, Luna let out a sob, burying her face in Olivia’s shoulder. "Are you sure? Are you sure she's not coming?"
+
+"I am 100% sure," Stella said, tightening her grip on Leo. "She is deleted, Luna. She is erased from the system. The only people who know where you are... are the people in this room."
+
+Leo took a ragged breath. He felt the solid weight of Stella behind him. He looked at Olivia holding Luna.
+
+He forced his brain to engage. **Status:** Deceased. **Location:** Virginia Cemetery. **Mobility:** Zero.
+
+The panic began to recede, replaced by exhaustion. The adrenaline crash was instantaneous.
+
+He slumped back against Stella.
+
+*"SHE IS DELETED,"* he typed slowly.
+
+"Permanently," Stella confirmed. "The deed protects you from the living. The grave protects you from her."
+
+She kissed the top of his head.
+
+"You own the land, Leo. She doesn't own you anymore. Nobody does."
+
+The room went quiet, save for the sound of four people breathing in sync. The ghosts had tried to breach the Fortress, but the walls held.
+
+"Okay," Olivia whispered, smoothing Luna’s hair. "The threat is gone. Let's get you guys under the covers. Real blankets. No ghosts allowed."
+

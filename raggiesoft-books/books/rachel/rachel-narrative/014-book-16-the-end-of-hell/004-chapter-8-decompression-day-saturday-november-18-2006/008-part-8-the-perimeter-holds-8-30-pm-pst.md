@@ -1,0 +1,51 @@
+# Part 8: The Perimeter Holds – 8:30 PM (PST)
+
+By the time the paper plates were cleared from the coffee table, the adrenaline that had kept my processor running all day finally crashed. The sheer, compounding weight of the last forty-eight hours settled deep into my muscles, making every movement feel heavy and sluggish.
+
+Jessica recognized the shift in my baseline immediately.
+
+"Alright," Jessica announced, wheeling her chair back from the living room area. "Command center is officially powered down for the night. Let's get some sleep."
+
+The second the directive was given, Rachel moved. She grabbed my hand, her grip tight and urgent, and practically dragged me down the short hallway into Jessica's bedroom. She wasn't just eager for rest; her separation anxiety was still completely redlining. The sun had gone down, plunging the outside world into darkness, and her traumatized brain was desperately demanding that the pack consolidate and lock the perimeter.
+
+Kristin had left our freshly laundered, brand-new Franklin's Market sleepwear sitting in a neat stack on the edge of Jessica's mattress. The sharp chemical smell of the retail sizing starch was completely gone, replaced by the clean, comforting scent of standard laundry detergent.
+
+Rachel grabbed her stack of clothes with her left hand, never letting go of my right hand.
+
+We didn't close the bedroom door, and neither of us turned around or asked for space. The neurotypical baseline for adult privacy had been permanently disabled the night before, and neither of us had any intention of turning it back on. Modesty was a luxury for people who hadn't spent two years having their existence systematically dismantled.
+
+For Rachel and me, turning our backs meant creating a visual blind spot. It meant breaking the tether.
+
+I pulled my shirt over my head, and Rachel unbuttoned her top at the exact same time. We stood perfectly facing each other in the dim light of the bedroom, maintaining an absolute, unbroken visual lock as we changed into our new, clean nightclothes. She needed to see the physical geometry of my existence—to verify that my chest was rising and falling, and that I was actually standing right in front of her. I needed the exact same proof from her.
+
+The second her oversized t-shirt was pulled down, she closed the half-step of distance between us. She wrapped her arms around my torso, burying her face into my shoulder in a fierce, heavy hug. The deep pressure instantly grounded my lagging nervous system.
+
+With Rachel clinging to my side, we stepped back out into the hallway, giving Jessica and Kristin the room to change.
+
+Ten minutes later, all four of us were gathered back in the bedroom.
+
+The logistical puzzle of fitting four adults onto a standard mattress was undeniably complex, but physical comfort was completely irrelevant. This wasn't about getting a good night's sleep; it was about structural security.
+
+I climbed into the exact center of the bed. There was no discussion, and there were absolutely no exceptions. Family protects family, and I was the high-value asset that had just been extracted from a hostile environment. I was not allowed near the edges.
+
+Jessica transferred from her wheelchair, taking the left side. She settled under the heavy comforter, her presence a steady, unshakeable wall of pragmatic authority.
+
+Rachel scrambled under the covers on my right. The second she was horizontal, she rolled entirely onto her side, pulling herself completely flush against my body. Because we were exactly the same height, she slotted perfectly against me. She threw her arm securely across my chest and hooked her leg over mine. She didn't just want to be close; she *needed* to be physically anchored to my ribcage. She was still terrified. The ghost of Delores was still whispering in the back of her mind, and the only way to silence it was to feel my heartbeat against her own.
+
+Finally, Kristin took the outermost edge of the mattress, near the foot of the bed. She curled up defensively, sacrificing her own comfort to act as the pack's designated sentinel. She guarded the physical boundary of the mattress, fully understanding and respecting the absolute mandate that the Bug had to remain the center of the Bear's universe.
+
+Jessica reached over to the nightstand, clicking off the small lamp.
+
+The room plunged into darkness, illuminated only by the faint, ambient blue glow of the 17-inch rig humming quietly in standby mode across the room.
+
+It was incredibly cramped. The heat radiating from three other bodies under the heavy comforter was intense. But as I lay flat on my back, completely immobilized by Rachel's unyielding grip and Jessica's solid presence, my threat-detection system finally went completely dormant.
+
+"Goodnight, Bear," Rachel whispered into the darkness, her raspy voice vibrating against my shoulder.
+
+"Goodnight, Bug," I murmured back.
+
+I didn't have to keep one ear tuned to the hallway. I didn't have to calculate the emotional volatility of the room. I was locked deep inside an impenetrable, four-person perimeter.
+
+It took a while for my racing processor to finally spin down, but wrapped in the heavy, fierce protection of my family, I eventually let the darkness take me.
+
+

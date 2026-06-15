@@ -1,0 +1,76 @@
+# Part 3: The Lunar Embassy – Tuesday, September 4, 2063 – 14:00 (Standard Galactic Time)
+
+For the first time in twelve years, Wyatt Colton had authorized a breach of the Aegis shield for an outside vessel.
+
+But he hadn't invited them to the planet.
+
+Sitting on the pale, cratered gray plains of Anchor—Eden’s largest moon—was a sleek, heavily armored diplomatic cutter bearing the blue-and-white crest of the Earth Remnant Government. Parked exactly one hundred yards away was the Colton family’s silver, teardrop-shaped runabout.
+
+The air on the lunar surface was a crisp, breathable twelve degrees Celsius. Above them, the massive, swirling blue-and-green globe of Planet Eden completely dominated the pitch-black sky, an impenetrable fortress locked safely behind its invisible hard-light barrier.
+
+Wyatt and Sarah Colton walked across the lunar dust. At forty-two and thirty-six, the Administrators of Eden moved with a grounded, effortless grace in the 0.48G gravity, their heavy canvas jackets warding off the high-altitude chill.
+
+Walking on Wyatt's right flank was eighteen-year-old Ellie. The commanding officer of the Vanguard was in full tactical mode, her dark eyes meticulously scanning the Earth Remnant delegation. She wasn't carrying a weapon, but her rigid posture and calculating stare made it abundantly clear that she didn't need one to be lethal.
+
+Walking on Sarah’s left was thirteen-year-old Jack. The diplomat was wearing a warm thermal coat, his hands resting easily in his pockets. Unlike Ellie’s intense scrutiny, Jack’s face was open, curious, and incredibly welcoming. He possessed an innate ability to disarm the tension in any room—or, in this case, any moon.
+
+Waiting for them at the halfway point was a familiar face.
+
+Former Commander Vance, now wearing the distinguished, deep-blue uniform of an Earth Remnant Ambassador, stood with a small contingent of civilian architects and junior aides. Twelve years had aged him, adding a thick layer of white to his hair, but the profound, deeply ingrained respect he held for the Coltons remained absolute.
+
+As the Coltons approached, Vance stopped his delegation and offered a crisp, formal bow of his head.
+
+"Administrator Colton. Mrs. Colton," Ambassador Vance greeted, his voice echoing cleanly in the thin lunar atmosphere. "It is an absolute honor to see you both again. On behalf of the Earth Remnant Government and the Global Defense Coalition, we thank you for granting us an audience."
+
+"It's good to see you, Ambassador," Wyatt rumbled warmly, extending his massive, calloused hand.
+
+Vance shook it firmly. He looked up at the breathtaking view of Planet Eden hanging in the sky, completely mesmerized. "It is a magnificent world you’ve hidden down there. The Coalition deeply respects your decision to keep the Aegis shield locked."
+
+"Which brings us to why we asked you here," Sarah smiled, stepping forward. "We remain a closed system, Ambassador. But the Earth Remnant has been incredibly polite, perfectly respecting our boundaries for over a decade. We feel the time is right to begin laying the groundwork for a future relationship."
+
+Vance’s eyes widened with quiet, profound hope. "You are ready to open diplomatic channels?"
+
+"We are ready to build the infrastructure," Jack spoke up.
+
+Vance looked at the thirteen-year-old boy. He noted the calm, melodic cadence of Jack's voice and the startlingly advanced, confident posture he held. Jack didn't speak like a child; he spoke like a seasoned statesman.
+
+Jack gestured to the sprawling, flat expanse of the gray lunar valley surrounding them.
+
+"Planet Eden is not ready for visitors. We are currently raising our first generations, and our population requires time to establish its own culture and infrastructure," Jack explained flawlessly, acting as the perfect bridge between his parents' iron-clad perimeter and the galactic government. "But this moon, Anchor, is habitable. We would like to offer the Earth Remnant a permanent foothold here."
+
+Wyatt placed a heavy hand on Jack's shoulder, immensely proud of his son. He looked at Vance.
+
+"We are breaking ground on an outpost," Wyatt stated, tapping a datapad he pulled from his jacket. A massive, glowing blue holographic grid projected over the lunar dust between them. "And eventually, when our people are fully grown and ready to engage with the galaxy, this outpost will serve as the official Earth Remnant Embassy."
+
+Vance stared at the hologram, completely overwhelmed by the monumental gesture. "You are offering us a facility in your binary system."
+
+"We are building you a facility," Sarah corrected gently. "But it will be your design. Wyatt will provide the molecular heavy-lifters and the raw titanium from our Fabrication Foundry. However, the internal layout, the architecture, and the aesthetics... that is entirely up to your delegation. We want it to feel like home for you."
+
+"Furthermore," Wyatt added, his tone shifting into absolute, uncompromising legal clarity. "We are establishing this under standard, ancient Earth diplomatic laws. The physical footprint of this outpost will be legally recognized as the sovereign territory of the Earth Remnant. Your laws apply inside its walls. You will be guests in our system, but you will be standing on your own soil."
+
+Vance let out a long, shuddering exhale. His delegation of architects behind him murmured in awe. The Coalition had spent the last twelve years living on crowded flotillas and newly terraformed fringe worlds. To be granted sovereign territory in the most heavily fortified, unassailable star system in the galaxy was a gift beyond measure.
+
+"Administrators," Vance said, his voice thick with emotion. "The Coalition accepts your terms with the deepest gratitude. We understand that your planet remains under the Sentinel Directive. We will not press your borders. We will rotate our diplomatic staff quietly, and we will wait until your population is ready to invite us down."
+
+"We appreciate your patience, Ambassador," Jack smiled warmly, stepping forward to offer his hand.
+
+Vance took the teenager's hand, entirely disarmed by the boy's natural, gravitational empathy. "You have an incredible talent for diplomacy, young man. When the time comes for Eden to open its doors, I hope you are the one sitting across the negotiating table from us."
+
+Ellie, standing slightly behind her brother, narrowed her eyes. She scrutinized the Ambassador's interaction with her most valuable logistical asset. Vance was polite. He respected the perimeter. He acknowledged the chain of command.
+
+Ellie gave a single, firm nod. The Earth Remnant was an acceptable ally.
+
+"We will leave our architects here to survey the bedrock and finalize the schematics with your AI," Vance said, gesturing to the two civilian engineers behind him. "We will be ready to break ground by the end of the week."
+
+"Aria will process your blueprints the moment they are finalized," Wyatt nodded.
+
+The meeting was officially concluded. The Earth Remnant delegation began to deploy their surveying tripods across the lunar dust, their voices hushed and reverent as they mapped out their new sovereign territory under the watchful eye of the blue-and-green planet.
+
+Wyatt, Sarah, Ellie, and Jack turned back toward the silver runabout.
+
+"He handled that perfectly, Wyatt," Sarah whispered, lacing her fingers through her husband's as they bounded lightly in the 0.48G gravity. She looked at Jack, who was walking ahead of them, happily pointing out the crater formations to Ellie. "He really is the bridge."
+
+"He's going to be a hell of a leader one day," Wyatt agreed, his chest swelling with fierce pride.
+
+They had taken the very first, careful step toward rejoining the human race. They had given Earth a front porch. And in a few decades, when the children of Genesis were fully grown and ready to explore the stars, the galaxy would be waiting for them right in their own backyard.
+

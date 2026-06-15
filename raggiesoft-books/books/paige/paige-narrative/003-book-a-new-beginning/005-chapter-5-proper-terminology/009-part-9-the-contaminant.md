@@ -1,0 +1,148 @@
+# Part 9: The Contaminant
+
+## Wednesday, July 9, 2003 14:35 PM
+
+Jessica returned from the restrooms, her heavy boots making a confident *thud-thud* on the tile. She looked refreshed, having splashed cold water on her face to combat the summer humidity.
+
+She stopped at the edge of the sofa area, assessing the scene. Freddie was still lying with his head in Paige’s lap, his face pressed against her stomach. Paige was stroking his hair, her eyes fixed on the entrance with the vigilance of a sentry gun.
+
+"Status?" Jessica asked, keeping her voice low.
+
+"Stable," Paige reported. "We had a... perimeter breach. But we handled it."
+
+"The girl?" Jessica guessed, noting the tension in Paige’s shoulders.
+
+"Yeah. She was persistent. Freddie shut her down. Hard."
+
+Freddie sat up slowly. The recharge session had been effective. His vision was clear, and the static in his head had receded to a manageable background hum.
+
+"I am operational," Freddie stated. He looked at Jessica. "Hunger levels are rising. I require caloric intake before transit."
+
+"Agreed," Jessica said. "The main cafeteria is closed for the summer, but the **Burger Hub** counter is open. Let’s grab some fries."
+
+They stood up. Freddie adjusted his orange hoodie. He felt lighter. He had made his choice—Structure over Friction—and the universe felt orderly again.
+
+But the universe, or at least Krystal, wasn't done with him.
+
+The heavy glass doors opened again. Krystal stepped back inside, seeking relief from the heat and the awful taste in her mouth. She had expected to see Freddie alone, or maybe seeing the "girlfriend" leaving.
+
+Instead, she saw *two* of them.
+
+She saw the girl in the navy shirt (Paige) standing on his right. And now, she saw the girl in the maroon shirt (Jessica) standing on his left. They were flanking him, boxing him in, adjusting his hood and checking him over like he was a piece of precious cargo.
+
+Krystal stopped dead. Her mind reeled.
+
+*Two of them?*
+
+She looked at Freddie—at his uneven stance, his glasses, the way he seemed to shrink between the women. In her mind, the equation shifted. He wasn't just a guy with a sister-complex. He was a hoarder.
+
+*Look at him,* she thought, her lip curling. *The cripple.*
+
+She used the word deliberately in her mind, a weapon to restore her own sense of superiority. *He can’t even walk straight, and he has two women fawning over him? He must be desperate. He must be paying them. Or maybe he’s playing them against each other.*
+
+The injustice of it burned her. She was alone. She was available. And he was surrounded.
+
+She didn't leave. She walked toward them. She had to know. She had to prove that she could break through that wall.
+
+"Hey," Krystal called out, putting a sway in her hips that she had practiced in the mirror. "You guys still here?"
+
+She closed the distance rapidly, stepping right into Freddie’s personal bubble.
+
+"I was thinking," Krystal said, ignoring the sisters entirely and locking her eyes on Freddie. "Maybe we start over. I'm Krystal. And I really think you and I could—"
+
+She stopped.
+
+Freddie had recoiled violently. He scrambled backward, colliding with Jessica. He brought his hand up to cover his nose and mouth, his eyes watering behind his glasses.
+
+It wasn't fear. It was **Olfactory Assault**.
+
+Krystal had smoked exactly one cigarette, and she had done it badly. The smoke hadn't blown away; it had clung to her. It was in her hair. It was in the fabric of her pink top. It was on her breath.
+
+To a neurotypical person, she smelled like stale tobacco.
+
+To Freddie, whose sensory processing was dialled up to maximum resolution, she smelled like a chemical fire.
+
+"Contamination!" Freddie choked out through his hand. "Particulate matter! High concentration!"
+
+He gagged, turning his face into Jessica’s shoulder to filter the air.
+
+Jessica smelled it too. She wrinkled her nose. "You reek," she said flatly to Krystal.
+
+"Excuse me?" Krystal gasped, offended.
+
+"Smoke," Paige clarified, stepping in front of Freddie. "He hates it. It makes him sick. You are a walking biohazard."
+
+They didn't wait for Krystal to argue. They didn't explain.
+
+"Move," Jessica commanded.
+
+They grabbed Freddie by the arms—not gently, but with urgency. They executed a tactical retreat, steering him away from Krystal and toward the food court on the other side of the atrium.
+
+They didn't look back. They didn't say goodbye. They just treated her like a bad smell that needed to be avoided.
+
+Krystal stood there, stunned.
+
+She sniffed her shirt. She couldn't smell anything (her own nose was desensitized from the smoke).
+
+She watched them hurry away. She saw Freddie stumbling, leaning heavily on the women, hiding his face.
+
+She didn't interpret his reaction as disgust. Her ego wouldn't allow it.
+
+*He's playing hard to get,* she decided.
+
+*He didn't say no,* she reasoned, twisting the logic until it broke. *He didn't tell me to go away this time. He just panicked. He’s nervous. He’s intimidated by me.*
+
+She smiled, a slow, predatory curving of her lips. The "cripple" was just shy. He was overwhelmed by a real woman. And those two guard dogs were dragging him away because they knew they couldn't compete.
+
+"Okay," Krystal whispered. "I like a chase."
+
+## 14:45 PM (The Burger Hub)
+
+The quick-service counter was located in a tiled alcove of Newman Hall. It smelled of grease and sanitizer—a familiar, safe combination.
+
+"Atmosphere clear?" Freddie asked, slowly lowering his hand from his face.
+
+"Clear," Jessica promised. "The air scrubbers are working. No smoke."
+
+They stood in line. Freddie scanned the menu board. It was simple. Burgers. Chicken Tenders. Fries.
+
+"I require a safe meal," Freddie said. "Chicken tenders. Three count. Fries. No salt on the fries if possible, but standard sodium is acceptable."
+
+"I got it," Paige said. "Go sit. We’ll bring it to you."
+
+Freddie found a table in the corner, far away from the main walkway. He sat down, facing the wall to minimize visual input. He needed to recalibrate. The smell of the smoke lingered in his memory file like a corrupted sector.
+
+Paige and Jessica brought the tray a moment later. Three baskets of chicken tenders and a mountain of fries.
+
+"Fuel," Jessica said, sliding a soda toward him.
+
+They ate in silence for a few minutes. Freddie dipped a fry in ketchup, focusing on the texture. *Crispy outside. Soft inside. Predictable.*
+
+"She is watching," Paige murmured, not looking up from her food.
+
+"Where?" Jessica asked, biting into a tender.
+
+"Six o'clock. By the ATM."
+
+Freddie didn't turn around. He didn't need to. He could feel the weight of the gaze on his back.
+
+Krystal was leaning against the ATM machine fifty feet away. She wasn't approaching. She was just... hovering. She was pretending to look at her phone (a silver flip-phone), but every few seconds, her eyes flicked over to their table.
+
+She was stalking them.
+
+"She is persistent," Freddie noted, chewing mechanically.
+
+"She's delusional," Jessica corrected. "She thinks this is a game. She thinks she has a chance."
+
+"Does she not understand the sibling protocol?" Freddie asked. "We established the genetic link."
+
+"She doesn't care about the link," Paige said darkly. "She thinks you're a prize she can win if she just waits long enough for us to leave."
+
+Freddie reached out and took Paige’s hand. He squeezed it.
+
+"Then she will wait forever," Freddie said. "Because you are not leaving."
+
+"Damn straight," Jessica said, dipping a fry in Freddie’s ketchup pile. "Eat up. We have a bus to catch. And if she tries to follow us onto Route 1, I’m going to introduce her to the concept of a restraining order."
+
+They finished their meal under the watchful, hungry eyes of the girl who thought she could fix him, unaware that he was already whole.
+

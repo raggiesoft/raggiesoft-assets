@@ -1,0 +1,63 @@
+# Part 2: The Rueger Street Debrief – 3:20 PM
+
+The final bell rang, and the chaotic, high-pitched frenzy of the middle school dismissal began. Mrs. Higgins navigated my chair through the crowded hallways, pushing me toward the main lobby. As we approached the front vestibule, the sea of chaotic eighth graders naturally parted, giving us a wide berth.
+
+They weren't moving for me. They were moving because Abbey and Sarah were standing by the double doors.
+
+Even among a crowd of teenagers and waiting parents, my cousins were impossible to miss. Towering at 6'4", their massive frames cast long shadows across the linoleum. The moment they saw me, their stoic expressions softened. Mrs. Higgins handed off the push handles to Sarah, giving a polite nod before retreating back into the building.
+
+Abbey leaned down first, wrapping her huge, dense arms around my shoulders in a firm, perfectly calibrated hug. Sarah followed immediately after. The deep-pressure compression reset my nervous system, washing away the lingering static of Mr. Harrison’s office. I was back inside the perimeter. I was safe.
+
+Sarah took the handles, and we pushed through the heavy double doors into the warm afternoon air.
+
+We didn't have to wait for a bus. We lived firmly inside the walking zone, just around the corner. We headed straight out from the entrance, funneling toward the school's only curb ramp to drop down onto the street level. We crossed over the blacktop and made a left, walking along the edge of the road toward Simon Street.
+
+There was no sidewalk on our side of the street—the concrete path ran exclusively along the opposite side of the road. For most kids, walking in the street with traffic was a hazard. But when you are flanked by two titans who look like they could bench-press a car, cars simply stop and yield.
+
+We made a right onto Simon Street, the heavy rubber tires of my chair rolling smoothly over the asphalt, and then took a quick left onto Rueger Street.
+
+Our house—1693 Rueger Street—was the second one on the left. It stood out immediately. It was the first single-story house on the block, and while all the surrounding homes were aging, traditional builds with wooden siding, our house was wrapped in clean, durable vinyl siding. It looked exactly like what it was: a modernized, highly functional fortress dropped into the middle of a quiet neighborhood.
+
+Sarah pushed me up the incline of the driveway, and Abbey unlocked the front door. We rolled inside, and Abbey instantly threw the heavy deadbolt shut behind us.
+
+The click of the lock was my cue. The perimeter was sealed.
+
+I immediately raised my hand to the speech board mounted on my lap tray. My fingers began flying across the grid, queuing up the sentences I had been holding in my head since 1:15 PM. Abbey and Sarah kicked off their shoes and stood in the foyer, watching my screen intently as the digitized voice prepared to speak.
+
+I hit the button.
+
+***"Ocean Lakes wants me. But Samantha cannot come. The counselor told me today."***
+
+The air in the foyer instantly shifted. It wasn't excitement. It was a cold, sudden drop in atmospheric pressure.
+
+Sarah stepped forward, her dark eyebrows knitting together behind her wire-rimmed glasses. "Wait. The counselor? Toby, did the administration ever get you a female counselor like we explicitly demanded in your file?"
+
+I shook my head, my jaw tight, and went back to the board.
+
+***"No. It was Mr. Harrison."***
+
+Abbey’s jaw clenched. The muscles in her massive forearms flexed against the sleeves of her navy t-shirt. The household operated on a strict, non-negotiable "no men" boundary for a reason. The fact that the school had isolated me in a room with a male authority figure was a massive, unacceptable breach of protocol.
+
+I didn't wait for Abbey to speak. I kept typing, needing to get the rest of the institutional ignorance out of my head.
+
+***"He did not understand anything. I do not think he comprehends what the father and the uncle did to me. He did not care about safety. All he cared about was the Math and Science Academy. He only saw my test scores."***
+
+Sarah knelt down beside my chair, bringing her eye level down to mine, her presence an immovable anchor. "What else did he say, Toby?"
+
+I queued up the final, deciding factor.
+
+***"When I asked if Samantha could come to Ocean Lakes too, he got shifty-eyed. He told me I needed independence. He told me I did not need to follow my big sister around anymore."***
+
+Abbey let out a low, disgusted breath, crossing her massive arms over her chest. The idea of removing Samantha—my exclusive safe person and the only one who could manage my most vulnerable physical needs—was functionally a death sentence.
+
+I looked at my cousins. They were already mentally preparing to tear the school district’s administrative bureaucracy apart piece by piece.
+
+But I needed to make my own operational directive perfectly clear. I hit the final button on my board.
+
+***"That alone means my decision is final. I want to go to Northwood High School next year. I am going to be with Samantha."***
+
+From the hallway leading to the master bedroom, the sharp, elegant sound of low heels clicked against the hardwood floor. Grandmother Eleanor stepped into the foyer. Her silver hair was pulled back immaculately, and her sharp aristocratic features were set in absolute, cold authority. She had heard the digitized voice echoing through the house.
+
+"Well, then," Eleanor said, her voice smooth, icy, and completely devoid of debate. "The school district can want you all they like. But they cannot have you. You will go to Northwood with your sister, and that is the end of the matter."
+
+

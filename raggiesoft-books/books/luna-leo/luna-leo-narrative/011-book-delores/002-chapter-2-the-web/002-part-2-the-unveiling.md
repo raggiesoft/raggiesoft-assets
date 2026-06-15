@@ -1,0 +1,32 @@
+# Part 2: The Unveiling
+
+By the fourth week of their "friendship," Leo was spending most of his free time at Delores's apartment. It was during one of these weekends in late September that Delores decided to escalate, to forge a new kind of intimacy she believed would secure her control.
+
+The evening had a strange, tense energy. When Leo arrived, Delores was all smiles, the apartment dimly lit and smelling of scented candles. What he didn't know was that she had just finished a glass of wine, hiding the bottle and glass before he got there. She was well aware of his aversion to alcohol and was careful to erase any evidence of it. She was trying to create a "romantic" atmosphere, but her efforts felt cloying and performative to Leo.
+
+"You're so quiet tonight, Leo," she purred, walking over to where he sat in his wheelchair. "Aren't you happy to be here? With me?"
+
+He gave a small, noncommittal nod, his eyes darting around the room, already feeling a low-grade anxiety.
+
+"I have a surprise for you," she said, a strange, almost predatory glint in her eye. "Something special. Something just for you."
+
+She moved to the center of the room and, with a slow, deliberate movement meant to be enticing, she let her robe fall to the floor. She stood before him, striking a pose she had likely seen in a movie, a confident, smug smile on her face. She was expecting a reaction: a gasp, a blush, wide-eyed shock, or thrilled excitement. She genuinely believed she was gifting him something exceptionally rare and special—the ultimate taboo of letting a naive young man see her undressed. She assumed she was offering him a forbidden, thrilling sight, a gift that would bind him to her and seamlessly lead to the next thing she had planned.
+
+She got nothing.
+
+Leo just looked at her. His expression was not one of shock or excitement. It was one of quiet, clinical confusion.
+
+At this point in his life, Leo was completely inoculated against the shock and awe Delores was trying to force upon him. In reality, Leo was entirely used to what a woman's body looked like. His mind, conditioned by years of practical, non-sexual care, processed the scene not as a seduction, but as a bizarre and contextless anomaly. He had seen his entire fortress—Stella, Luna, and Olivia—in similar states of undress as a normal and unerotic part of his daily life. Whenever they helped him bathe, whoever was assisting him would naturally be undressed as well, simply because they needed to take their own showers immediately afterward.
+
+Because of this daily reality, his autistic brain had formed a very specific, rigid association: a naked female simply meant it was time for his bath.
+
+The thrilling "gift" Delores was offering did not make him feel the way she expected him to feel because the context was entirely wrong. Olivia or Stella being undressed in the bathroom was an act of loving, practical care with a clear, logical sequence of events. *This* just felt performative. What was passing through Leo’s mind was simply, *"Okay? And... what am I supposed to do now? Are we taking a bath? Where is the water?"* Was she cold? Did she need a towel? His brain searched for the appropriate script for this situation, found that it lacked a bathtub and soap, and came up with nothing.
+
+His complete lack of reaction, including the absence of any involuntary arousal, was a bucket of ice water on Delores's manufactured passion. It was the one thing that stopped her dead in her tracks. Her confident, sultry smile faltered, then curdled into a sneer of pure, narcissistic rage.
+
+"What's wrong with you?" she hissed, snatching her robe from the floor and pulling it on aggressively. "Aren't you even going to say anything? Don't you like what you see?"
+
+Leo, seeing her sudden, violent shift in mood, simply shrank back in his chair, a familiar fear beginning to coil in his stomach. He had failed to perform the emotion she had demanded of him, and now he was going to be punished for it.
+
+The tool she had thought was her ultimate trump card had proven completely ineffective. It wasn't thrilling. It wasn't special. It was just... weird. And his honest, uncomprehending reaction was, in her eyes, the ultimate rejection, derailing the rest of what she had planned for the evening.
+

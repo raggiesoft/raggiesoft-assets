@@ -1,0 +1,31 @@
+# Part 2: A New Low
+
+The first few weeks back at school were a slow, steady return to normalcy. But the visible reality of Alex's recent illness—his thinner frame, his occasional fatigue—did not go unnoticed by everyone.
+
+One day during lunch, as Alex and Chloé were heading to their quiet library table, Josh Riley, who had been holding court with his usual sycophants, spotted them. Seeing Alex looking more frail than usual, a cruel, opportunistic sneer spread across his face.
+
+"Well, well, look what the cat dragged in," Josh called out, his voice loud enough to turn several heads. "Miller's back from his little 'vacation.' What's the matter, Miller? A little cold too much for you to handle? You look like a strong breeze could knock you over."
+
+Alex tensed, his grip tightening on his push rims. Chloé immediately stepped between him and Josh, her eyes blazing. "Leave him alone, Josh. He was in the hospital. He's recovering."
+
+"The hospital?" Josh scoffed, his voice dripping with mock sympathy. "Oh, poor little Miller had to go to the hospital because he got the sniffles. That's pathetic." He then looked Alex up and down with open contempt. "You're just weak, Miller. Always have been."
+
+The accusation—so cruel, so deliberately aimed at Alex's most vulnerable point—was a new low, even for Josh. Before Chloé could unleash the torrent of Québécois French that was already forming on her lips, a familiar, dangerously calm voice cut through the cafeteria.
+
+"Mr. Riley."
+
+Josh froze. Mrs. DeMarco was standing a few feet away, her expression a mask of cold, controlled fury.
+
+"It has come to my attention," she said, her voice quiet but carrying an authority that silenced the entire section of the cafeteria, "that your definition of social interaction now includes mocking a fellow student's recent, and very serious, medical emergency. This is not merely bullying, Mr. Riley. This is a profound lack of basic human decency that I find utterly contemptible."
+
+She took a step closer. "Therefore, your presence is requested for our after-school enrichment program. You will report to me at 2:00 PM sharp, to accommodate the new block schedule. And for this particular transgression, your duties will be extended. You will have trash duty for the next two weeks. And you will spend your study hall periods for those two weeks writing a ten-page essay. The topic," she paused, her eyes like chips of ice, "is 'Compassion: A Critical Analysis of Empathy for Those Facing Medical Adversity.' It will be due on my desk. Am I understood?"
+
+Josh, pale and sweating, could only manage a strangled, "Yes, Mrs. DeMarco."
+
+"Good," she said, before turning her back on him. Her gaze softened as she looked at Alex and Chloé. "Are you two alright?" she asked, her voice now full of a quiet, genuine concern.
+
+Chloé nodded, her anger giving way to gratitude. "We're fine now, Mrs. DeMarco. Thank you."
+
+Mrs. DeMarco gave them a small, almost imperceptible nod of support before resuming her patrol, leaving Josh Riley to stew in the aftermath of his own spectacular cruelty.
+
+

@@ -1,0 +1,46 @@
+# Part 4: The Source Code
+
+## 11:00 AM
+
+Dr. Arrington typed on his computer for twenty minutes. The keys clacked rhythmically. Finally, the dot-matrix printer whirred to life, spitting out a sheet of crisp white paper.
+
+He signed it and handed it to Freddie.
+
+**To Whom It May Concern:** **Patient:** Freddie P. Avery **Diagnosis:** Autism Spectrum Disorder **Recommendations:** Sensory accommodations. Deep Pressure Therapy as needed. Allow support persons (Paige Avery, Jessica Avery) full access to educational and medical environments.
+
+Freddie held the paper. It was the Source Code. It was the answer key to the test he had been failing for eighteen years.
+
+"This is the manual," Freddie whispered. "This explains the errors."
+
+"It’s a map," Dr. Arrington corrected. "Now you can navigate."
+
+They walked back out to the waiting room. Jessica looked up from a magazine, her eyes scanning their faces for distress.
+
+"Status?" Jessica asked, standing up.
+
+Freddie held up the paper. "Validated."
+
+Jessica let out a long sigh of relief. "Okay. Let's get out of here."
+
+They walked out of the office building into the bright July sunshine. The heat was oppressive, but Freddie felt light. He folded the paper carefully and placed it in his pocket, right next to his PolyPass.
+
+He turned to Paige. She was smiling at him, wearing the same grey shirt, the same glasses.
+
+"We did it," she said.
+
+Freddie stepped forward and wrapped his arms around her right there on the sidewalk. He squeezed her, feeling her arms lock around his back. Jessica placed a hand on his shoulder, completing the circuit.
+
+"Thank you," Freddie whispered. "System stable."
+
+"Always," Paige whispered back.
+
+Freddie pulled back and adjusted his glasses. He checked his watch.
+
+"The diagnostics are complete," he announced. "Now... we have a class to attend."
+
+"Human Sexuality?" Jessica asked with a smirk.
+
+"Affirmative," Freddie said seriously. "I have questions about the diagrams in the textbook. The labeling is inconsistent."
+
+Paige laughed, hooking her arm through his. "Let's go, Architect."
+

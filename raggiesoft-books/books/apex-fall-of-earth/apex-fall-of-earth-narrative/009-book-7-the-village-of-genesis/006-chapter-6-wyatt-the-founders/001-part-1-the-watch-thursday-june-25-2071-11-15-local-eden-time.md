@@ -1,0 +1,54 @@
+# Part 1: The Watch – Thursday, June 25, 2071 – 11:15 (Local Eden Time)
+
+The observation terrace extending from the western face of the mountain estate was bathed in the warm, late-morning sunlight.
+
+Wyatt Colton sat on one of the plush, weather-resistant loungers. At fifty years old, the deep-sea welder and former S.H.O.P. Marine was still a massive, formidable physical presence, but time and peace had finally softened his edges. His dark beard and hair were heavily threaded with silver, and the deep, hyper-vigilant tension that used to permanently lock his broad shoulders had entirely melted away.
+
+He was wearing a comfortable, faded flannel shirt and canvas pants, casually whittling a small piece of fallen alien pine with a pocketknife.
+
+Sitting on the lounger right beside him was his forty-four-year-old wife.
+
+Sarah Colton looked absolutely radiant. The terrified eighteen-year-old girl who had cowered in a corporate washroom was a distant, faded memory. She wore a soft, breathable linen tunic and denim jeans, her dark hair pulled up into a loose, comfortable knot. Her hands were calloused from decades of genuinely joyful labor in the dirt, and the lines around her eyes were etched entirely by laughter.
+
+She was looking through a pair of high-powered, molecularly printed binoculars, tracing the sprawling, bustling perimeter of Genesis Village miles below them in the valley.
+
+"The southern agricultural grid is looking incredible," Sarah murmured, adjusting the focus dial. "Tyler and Evan’s new automated harvesters are cutting the wheat yield time in half. And it looks like Molly and Claire have the Sydney cohort entirely mesmerized in the outdoor classroom."
+
+Wyatt smiled, blowing a curl of wood shaving off his knife. "The kids know what they're doing, Sarah. They’ve been running the logistics for a year."
+
+"I know," Sarah sighed happily, lowering the binoculars to her lap. She reached over, resting her hand lightly on Wyatt's arm. "It's just hard to believe sometimes. We spent so many years constantly looking over our shoulders, waiting for the sky to fall or a corporate fleet to drop out of orbit. And now... we're just sitting here."
+
+"We earned the right to sit here," Wyatt rumbled softly, turning his hand over to lace his fingers through hers. He looked out over the massive, beautiful civilization expanding in the valley. "We built the walls. Now they get to build the city."
+
+Suddenly, Wyatt’s biometric comm-cuff vibrated with a soft, double-tone chirp.
+
+He didn't tense. He didn't drop the knife and sprint for the blast doors. He just calmly tapped the receiver.
+
+"Go ahead, CIC," Wyatt answered.
+
+*"Administrators,"* Ellie's crisp, authoritative voice crackled through the speaker. *"The Overseer has finalized the demographic models for the village expansion. We have officially initiated the decanting sequence for Cohort Four. One hundred subjects. Appalachian phonetic matrix."*
+
+Wyatt raised an eyebrow, a slow, deeply proud smile spreading across his scarred face. He looked at Sarah, who was beaming.
+
+"One hundred," Wyatt echoed. "That's a massive deployment, Commander. Are you sure the mountain’s infrastructure can handle the localized load?"
+
+*"The geothermal grid has already been re-routed by twenty percent to compensate for the artificial wombs,"* Leo's synthesized baritone chimed flawlessly over the comms, jumping in to back up his sister with the raw math. *"The nursery capacity on Sub-Level 6 has been expanded. The logistics are perfectly optimal, Dad. We have it handled."*
+
+Wyatt let out a low, booming chuckle. For a man who used to lay awake at night terrified of how they would feed fifty thousand babies, hearing his twenty-five-year-old son casually manage a hundred of them was the ultimate relief.
+
+"Copy that, Vanguard," Wyatt replied, his voice thick with absolute trust. "Keep us posted. Mom and I are going to stay on the terrace for a bit."
+
+"Understood. CIC out."
+
+The comms clicked off, plunging the terrace back into the quiet, peaceful sounds of the mountain wind.
+
+Sarah picked her binoculars back up, aiming them toward the southern edge of the valley where Jack would soon need to start building new cabins.
+
+"One hundred babies," Sarah laughed softly, shaking her head. "Do you think we should go down to the basement and help them prep the incubators?"
+
+"Absolutely not," Wyatt grinned, closing his pocket knife and leaning back against the plush cushions of his lounger. He crossed his arms behind his head, turning his face up to the warm golden sun. "We are officially retired from the neonatal infantry, Mrs. Colton. They've got this."
+
+Sarah smiled, leaning her lounger back so she was perfectly parallel with him. She reached over, keeping her hand resting securely in his.
+
+"Retired," Sarah whispered, letting her eyes drift shut in the warm breeze. "I like the sound of that."
+

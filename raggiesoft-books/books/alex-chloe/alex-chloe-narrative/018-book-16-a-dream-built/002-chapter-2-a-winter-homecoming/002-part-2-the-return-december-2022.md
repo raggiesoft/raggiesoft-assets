@@ -1,0 +1,28 @@
+# Part 2: The Return (December 2022)
+
+The flight from Seattle to Montréal was blessedly, beautifully normal. Gone were the masks, the constant sanitizing, the tense quiet of a world holding its breath. The journey was simply a journey again, filled with the mundane hum of a jet engine and the quiet anticipation of a long-awaited family visit. Alex, Chloé, and Megan were finally "finishing" the trip that had been so violently interrupted by the pandemic nearly three years prior.
+
+Upon arriving at Montréal-Trudeau International Airport (YUL), they collected their luggage and picked up their pre-booked, lift-equipped rental van. The drive south to Stanstead was a journey through a winter wonderland. A fresh blanket of snow covered the rolling hills of the Eastern Townships, the pine trees heavy with white, the sky a crisp, brilliant blue.
+
+When they pulled into the Leclercs' familiar driveway, the front door flew open before they had even come to a complete stop. Aunt Geneviève and Uncle David rushed out, their faces beaming. The reunion on the snowy walkway was a joyful, emotional affair of tight hugs and happy, overlapping chatter in Québécois French.
+
+"*Mes amours! Vous êtes enfin arrivés!*" Geneviève cried, enveloping Chloé in a fierce, loving hug. David clapped a happy hand on Alex's shoulder. "It is so good to see you, my boy." Then he turned to Megan, a huge, welcoming grin on his face. "*Et notre nièce américaine! Bienvenue au Canada, Megan! Pour de vrai, cette fois!*" (And our American niece! Welcome to Canada, Megan! For real, this time!)
+
+Inside, the house was warm and smelled of cinnamon and baking *tourtière*. After settling their bags, they all gathered in the cozy living room, mugs of hot chocolate in hand.
+
+"Okay," Chloé said, a proud, expectant smile on her face. "We have something to show you."
+
+Alex, with a few commands on his AAC device, connected it to the Leclercs' large television. A moment later, the screen was filled with a stunning, photorealistic architectural rendering of a beautiful, modern building nestled amongst tall evergreen trees.
+
+THE LYNNWOOD DISCOVERY AND CARE CENTER, his device announced, the synthesized voice full of a quiet, profound pride.
+
+He, Chloé, and Megan took turns presenting, a seamless, three-person team. Alex navigated through the 3D animated walkthrough of the main building and its habitats. Chloé explained the non-profit and educational mission. And Megan, the project manager, detailed their meticulous five-year budget and fundraising strategy.
+
+Geneviève and David stared at the screen, completely captivated. "*Oh, mes amours,*" Geneviève whispered, her eyes shining. "*C'est... c'est magnifique. The dream is all there.*"
+
+"It's all ready to go," Chloé confirmed, her own voice full of a nervous hope. "We've submitted the grant application to the Cascade Family Trust. If it's approved, this is what we will build."
+
+David leaned forward, studying an intricate design for a rescued river otter habitat. "*C'est incroyable, Alex,*" he said with genuine admiration. (That's incredible, Alex.) "The work of a true engineer."
+
+They spent the next hour looking at the plans, answering the Leclercs' excited, insightful questions. It was the first time they had been able to share the full, tangible vision of their life's dream with their Canadian family in person. The years of planning, of saving, of enduring a global pandemic—it had all led to this. They were no longer just dreaming; they were building the final blueprint.
+

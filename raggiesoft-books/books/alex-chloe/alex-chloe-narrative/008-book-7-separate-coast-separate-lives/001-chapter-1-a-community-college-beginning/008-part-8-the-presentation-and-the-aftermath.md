@@ -1,0 +1,11 @@
+# Part 8: The Presentation and the Aftermath
+
+The day their second group project was due, a new and specific terror gripped Alex. As he and Sarah stood at the front of the room, waiting for their turn, his eyes were locked on the small, rectangular window in the classroom door. He was in a state of high alert, a frantic, paranoid loop playing in his head: *What if she walks by? What if she looks in and sees me up here with Sarah? Megan's best friend?* He knew, for the record, that Vera was in her own class on the other side of the campus at this exact moment. But his rational mind was no match for the deep, conditioned fear she had instilled in him.
+
+When their turn came, he moved through the presentation on autopilot. Sarah, sensing his profound distress, took the lead, her calm, professional demeanor carrying them both through.
+
+The moment it was over and they were back in their seats, a profound wave of relief washed over him. As he left the classroom, he was left with the profound and startling contrast between the two women in his life. Sarah's friendship was easy, supportive, and safe, an extension of the safety he had always known with Megan. His relationship with Vera was a constant source of stress, fear, and emotional labor.
+
+He was too scared and too trapped to take Sarah up on her earlier offer to talk more, but the seed of doubt had been planted. For the first time, he had a concrete, real-world example of what a healthy relationship could look like, and it made his life with Vera feel even more suffocating.
+
+

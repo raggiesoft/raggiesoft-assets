@@ -1,0 +1,96 @@
+# Part 1: The Visitor
+
+Christmas Day in the Avery household was less of a holiday and more of a logistical event. With eight children, the living room floor was a sea of torn wrapping paper, cardboard boxes, and tangled ribbons.
+
+Freddie, usually sensitive to the visual chaos, didn't mind it today. He was too focused on the clock.
+
+It was 11:55 AM.
+
+He stood near the front door, wearing a nice sweater that Paige had picked out for him. He was shifting his weight from foot to foot, his leg muscles tight with anticipation, but he refused to sit down.
+
+"She said twelve, right?" Freddie asked, checking his watch for the third time in a minute.
+
+"She said twelve," Paige confirmed from the couch, where she was helping four-year-old Amanda assemble a plastic farm set. "Relax, Freddie. She's coming."
+
+Freddie took a deep breath. It was hard to process the magnitude of this event. A girl—who was not his sister, not his cousin, but a girl from school who chose to spend time with him—was coming to his house. On Christmas.
+
+At 12:01 PM, the doorbell rang.
+
+Freddie didn't wait. He pulled the door open immediately.
+
+Courtney stood on the porch, wrapped in a thick wool coat and a scarf that matched the color of the Northwood Color Guard uniforms. Her cheeks were flushed from the cold, and she was holding a small gift bag.
+
+"Merry Christmas, Freddie!" she beamed.
+
+The excitement that had been building in Freddie’s chest since dawn released all at once. He forgot about being cool. He forgot about social rules. He stepped out onto the porch and wrapped his arms around her in a fierce, tight hug.
+
+He squeezed her, pouring all his gratitude into the pressure. He was just so happy she was real, that she was here.
+
+For a split second, he worried he had squeezed too hard, but Courtney laughed and hugged him back, patting his shoulder with a gloved hand.
+
+"It is good to see you, too, Space Man," she said, stepping back as he let go.
+
+"Come in," Freddie said, ushering her into the warmth. "Everyone is here."
+
+Courtney stepped into the foyer and stopped, her eyes widening as she took in the scene. The "Avery Corporation" was in full swing. Harper was running loops around the sofa with her new headphones on. Sarah and Jenna were arguing over a board game. Jessica was methodically folding wrapping paper for recycling. The babies, Amanda and Elara, were surrounded by piles of blocks.
+
+"Wow," Courtney whispered, smiling. "It’s... a lot."
+
+"It's the system," Freddie explained, closing the door.
+
+Jessica stood up and walked over, offering a polite smile. "Hello, Courtney. Welcome to the madness. Can I take your coat?"
+
+"Thanks, Jessica," Courtney said, handing it over. "It’s nice to meet everyone. Freddie talks about you guys all the time."
+
+She looked at the younger siblings, who had paused their chaos to stare at the newcomer. Courtney didn't look overwhelmed; she looked charmed. She waved at Harper, who shyly waved back.
+
+"Come to the tree," Freddie said, guiding her through the obstacle course of toys.
+
+They stood in front of the massive Douglas Fir, which was struggling to hold up the sheer volume of ornaments the family had collected over the years.
+
+"I have something for you," Freddie said, reaching under the tree for a small, flat package wrapped in silver paper.
+
+"Me first," Courtney said, handing him her gift bag.
+
+Freddie opened it. Inside was a set of high-quality, fine-point ink pens—the kind draftsmen used.
+
+"For the engine schematics," Courtney said. "So the lines stay clean."
+
+Freddie looked at the pens, then at her. It was a perfect gift. It meant she listened. "Thank you," he whispered. He handed her his package.
+
+She unwrapped it carefully. It was a framed drawing—not of a starship, but of a singular, perfect snowflake, drawn with geometric precision. At the bottom, in his neatest handwriting, it said: Every pattern is unique.
+
+"Freddie," Courtney said softly, touching the glass. "This is beautiful."
+
+"Picture!" Ellen called out, appearing with the family camera.
+
+It was a brand-new Lumina Z-90, a bulky point-and-shoot marvel that Robert had bought for Christmas. It boasted a motorized zoom lens that buzzed like an angry insect as Ellen framed the shot, and inside was a fresh roll of SpectraChrome 400—the good film, the kind that promised to capture the greens of summers and the reds of the holidays with vivid clarity.
+
+Freddie stood next to Courtney. Without hesitation, she leaned into him, resting her head lightly against his shoulder.
+
+Freddie felt a surge of boldness—a rare impulse to secure the moment physically. He lifted his arm and, somewhat awkwardly but firmly, placed it around her shoulders. He felt the wool of her coat under his hand. She didn't pull away; instead, she adjusted her stance, leaning into his side to fit perfectly against him.
+
+Freddie smiled—a genuine, unforced smile that reached his eyes.
+
+Click-whirrrrr.
+
+The flash blinded them for a second, followed immediately by the mechanical whine of the camera automatically winding the film to the next exposure.
+
+That sound—the whirrrrr—was the sound of a memory being physically etched onto silver halide crystals. Freddie blinked the spots from his eyes, already thinking about the future. He would have to wait. They would have to take the roll to the pharmacy down on Kempsville Road, wait three days for the lab to process it, and then flip through the packet of glossy 4x6 prints.
+
+But the wait made it valuable. Somewhere inside that plastic black box, on a strip of SpectraChrome, this moment existed forever.
+
+"I can't stay long," Courtney said apologetically, stepping out of the pose but giving Freddie’s waist a quick squeeze before letting go. "My aunt and uncle are in town, and we have a big lunch at one."
+
+"That is okay," Freddie said, his arm feeling strangely light now that she wasn't under it. "I am just glad you came."
+
+"Me too," Courtney said. She looked around the room one last time, watching Paige help Elara stack a tower of blocks. "You're lucky, Freddie. To have all of this. It's a good crew."
+
+"Yeah," Freddie agreed, looking at his sisters. "They keep me grounded."
+
+Courtney squeezed his hand—a quick, secret signal like they had in the movie theater. "Merry Christmas, Freddie."
+
+"Merry Christmas, Courtney."
+
+He watched her walk back to her car, waving until she turned the corner. He stood in the doorway for a long time, clutching the pens, thinking about the roll of film sitting on the kitchen counter. He couldn't wait to see it. He couldn't wait to see the proof that, for one Christmas, he wasn't just the boy in the chair or the kid in the Pit—he was the boy with his arm around the girl.
+

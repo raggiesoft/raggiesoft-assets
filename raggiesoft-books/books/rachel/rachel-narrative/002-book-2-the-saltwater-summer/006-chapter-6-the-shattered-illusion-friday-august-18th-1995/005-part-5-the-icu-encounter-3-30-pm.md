@@ -1,0 +1,18 @@
+# Part 5: The ICU Encounter – 3:30 PM
+
+The afternoon stretched into a blur of blood draws and beeping IV pumps. Mom eventually had to step out to the hallway to find a payphone to update Jessica and Dad. When she came back into the trauma bay fifteen minutes later, she looked like she had seen a ghost.
+
+She sat down heavily in the plastic chair between our beds, her face ashen.
+
+"I just saw Drew’s mother," Mom whispered, her voice barely audible.
+
+I looked up. "Is Drew okay?"
+
+Mom shook her head, tears spilling over. "I ran into her by the elevators. She’s... she’s a wreck. Drew is upstairs in the ICU. He’s fighting for his life, Michael. The doctor said the force of that man's foot... it was just too much for a six-year-old. He had to have emergency surgery last night to stop the bleeding."
+
+The silence that followed was suffocating. Rachel buried her face in my shoulder, her small body vibrating with a fresh wave of terror.
+
+"She told me the police are treating it as a possible felony assault with malicious intent," Mom continued. "She asked about you two. I told her you were both hurt, but stable. She just kept saying... 'he was so small. He was just a white belt.'"
+
+I looked at the massive, dark purple footprint on my own stomach. I was ten. I was heavy. I had core strength from years of martial arts and the high-tone muscles caused by my Cerebral Palsy. Rachel was eight and a brown belt. We were "strong" in the eyes of the ER doctor, but Drew was just a baby. Master Curtis had used the same foot to crush a toddler that he had used on us, and the math of that cruelty was almost too much to process.
+

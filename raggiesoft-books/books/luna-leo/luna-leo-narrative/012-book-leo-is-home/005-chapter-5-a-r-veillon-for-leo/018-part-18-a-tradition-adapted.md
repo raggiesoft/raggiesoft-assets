@@ -1,0 +1,24 @@
+# Part 18: A Tradition Adapted
+
+Christmas Eve morning in the Presidential Suite of The Atlantic Grand Hotel began with a level of pampering that was becoming a welcome new normal. The entire extended family—Arthur, Eleanor, Stella, Luna, Leo, Olivia, and all of Olivia's visiting Canadian relatives—gathered for a grand breakfast in the suite's private dining room. The table was laden with a feast of waffles, omelets, fresh fruit, and pastries, all brought up by the hotel's room service.
+
+The mood was festive and bright, but Stella knew she needed to address the issue of the Réveillon. As everyone settled in with their coffee and juice, she gently brought it up.
+
+"Isabelle, Mark," she began, addressing Olivia's aunt and uncle with a warm but serious tone. "We are all so incredibly excited for the Réveillon tonight. But we were talking last night, and Leo is feeling a little nervous about staying up so late."
+
+Leo, who was sitting between Stella and Olivia, looked down, a little embarrassed but also immensely grateful that Stella was looking out for his needs.
+
+Across the table, the Canadian side of the family immediately focused on Leo, their expressions shifting to ones of deep compassion. They could see the lingering fear in his eyes, a shadow that the joy of the holiday couldn't quite erase.
+
+It was Olivia's American uncle, Mark, who spoke first, his tone practical and kind. "That makes perfect sense. What time do you all typically have your big holiday dinner here in the States?"
+
+"We usually eat around 6 PM," Stella explained.
+
+Olivia's Québécoise aunt, Isabelle, immediately leaned forward, her voice full of warmth and sincerity. "Then that is what we will do," she declared, as if it were the most obvious solution in the world. "A Réveillon is about family and celebration, not about the time on the clock. It would be our honor to adapt our tradition to a schedule that works for Leo. His comfort is what matters."
+
+A wave of relief washed over Leo's face. He hadn't ruined the party; the party was changing for him.
+
+"6 PM it is, then," Arthur boomed, sealing the deal. "A prime-time Réveillon! An excellent new tradition!"
+
+The decision was made instantly and unanimously. The two families, one from Québec and one from Virginia, had effortlessly merged, their first joint act a beautiful and unspoken vow: the fortress had expanded, and its primary mission, above all else, was to protect the boy at its center.
+

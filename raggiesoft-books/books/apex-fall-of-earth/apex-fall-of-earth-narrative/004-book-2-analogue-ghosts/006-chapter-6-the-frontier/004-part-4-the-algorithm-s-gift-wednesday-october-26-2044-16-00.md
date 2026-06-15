@@ -1,0 +1,78 @@
+# Part 4: The Algorithm's Gift – Wednesday, October 26, 2044 – 16:00
+
+The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the spacious Captain's Quarters.
+
+Outside the hull, the absolute blackout of the FTL slipstream held strong. There were no incoming telemetry pings, no emergency broadcasts, and no corporate overseers. They were completely severed from the universe, locked safely in their own private dimension.
+
+Sarah shifted on the massive mattress, turning her body fully toward Wyatt. She rested her hand flat against the center of his chest, feeling the slow, steady rhythm of his heart.
+
+She looked up at him, the blue light catching the soft, unguarded affection in her eyes. She leaned in, pressing her lips to his in a soft, tender kiss. It started as a question—a quiet, vulnerable invitation in the perfect silence of the room.
+
+Wyatt didn't hesitate to answer. He brought his taped hand up to cup her jaw, tilting her head slightly as he parted her lips. His tongue met hers, deepening the kiss with a sudden, sweeping heat that sent a jolt of pure electricity straight down her spine.
+
+The lazy comfort of the afternoon movie marathon instantly evaporated, replaced by a fierce, consuming passion. Sarah gasped softly into his mouth, her hands gripping his shoulders as she pulled herself flush against him.
+
+As the kiss broke for a ragged breath, Wyatt's hands slid down to her waist, his eyes dark and entirely focused on her.
+
+"Wait," Sarah whispered, her voice a breathless rasp. She rested her forehead against his, a warm, completely secure smile on her face as she brushed a stray lock of hair from his eyes. She wanted to remove every single boundary between them. "Just to be completely sure... you remember what I told you in the break room, right? About the clinic?"
+
+Wyatt’s thumbs traced the curve of her hips. "The Omni-Cycle injection."
+
+"Six months," she confirmed, her eyes shining with absolute trust. "I got it the day before I boarded my transport. There's nothing to worry about, Wyatt. Nothing holding us back."
+
+Wyatt let out a low, shuddering breath, completely undone by the absolute certainty in her voice. He pulled her down, capturing her lips again, entirely surrendering to the woman he loved.
+
+*\[The scene fades to black, the quiet hum of the FTL drive masking the profound, deeply emotional reclamation of their humanity as they finally celebrate their survival together. We’re skipping over a sexual encounter, their first on board the Nomad.\]*
+
+Sometime later, the heavy wool blankets were pushed down to their waists. Sarah lay with her head resting on Wyatt’s chest, their legs tangled together in the center of the massive bed.
+
+The intense, fiery passion had settled into a state of profound, absolute peace. Wyatt’s arm was wrapped tightly around her, holding her securely against him as if he were trying to physically anchor her to his soul.
+
+"It's crazy," Sarah murmured, her fingers idly tracing the faded scars on his forearm.
+
+"What is?" Wyatt asked, his voice a low, gravelly rumble that vibrated against her cheek.
+
+"Us," she said softly, looking up at him. "Four days ago, I didn't even know you existed. When the drills started failing, I thought we were going to die in the dark. I thought I was never going to have a future. And now..."
+
+She let the sentence trail off, tightening her arms around his torso in a fierce, desperate hug. She squeezed her eyes shut, entirely overwhelmed by the sheer scale of what they had found in the middle of a nightmare.
+
+Wyatt hugged her back just as tightly, burying his face in her hair. He knew exactly what she meant. They had fallen in love with terrifying, reckless speed, forged in the intense pressure cooker of the NTTR. But the speed didn't make it fragile; it made it unbreakable. They had seen each other at their absolute worst, completely stripped of pretense, and they had chosen each other anyway.
+
+"We aren't going to die tomorrow, Sarah," Wyatt promised, his voice thick with emotion. "We have the rest of our lives."
+
+Eventually, they reluctantly slipped out of the warmth of the bed and headed into the Captain's private ensuite. The luxury of the executive bathroom was a far cry from the rusted pipes of Sector 4. They showered together under a heavy stream of genuinely hot water, washing away the lingering tension of their escape.
+
+They dried off and pulled on fresh, clean civilian clothes—Sarah in her soft denim jeans and a new t-shirt, Wyatt in his canvas pants—but they completely ignored their boots and socks. Walking barefoot on the plush carpets and grated floor plates had become their shared ritual, a physical declaration that the ship was entirely theirs.
+
+"I want to check on the garden," Sarah said, threading her fingers through his as they stepped out of the quarters.
+
+They walked hand-in-hand down the quiet corridors to the lower ring, the heavy iron bulkhead door sliding open to reveal the Hydroponics Bay.
+
+The wall of humid, earthy heat welcomed them. Under the vibrant pink and purple UV lights, the deep-space crops were absolutely thriving. The broad leaves of the soybean plants looked visibly greener, and a new cluster of bright red strawberries had already begun to form near the base of the metal troughs.
+
+"Aria," Sarah called out to the ambient microphone array built into the ceiling. "Can I get a diagnostic on the bay?"
+
+*"Certainly, Sarah,"* Aria’s pleasant voice echoed warmly through the humid room. *"The hydroponics systems are operating at peak efficiency. The secondary water pump you repaired is functioning flawlessly. The nutrient ebb-and-flow cycles, localized humidity, and UV yields are all perfectly within optimal parameters."*
+
+"Thank you, Aria," Sarah smiled.
+
+*"You are very welcome. Please let me know if you require any adjustments to the climate zones."*
+
+Wyatt walked over to the stack of rusted supply crates, pulling one out into the center aisle. He sat down, and Sarah immediately backed up between his knees, leaning her weight against his chest. Wyatt wrapped his arms securely around her waist, resting his chin on her shoulder.
+
+They just sat there in the warm, pink-hued light, entirely soothed by the rhythmic, rushing sound of the water cycling through the roots of the plants. It was a space dedicated entirely to life, hurtling safely through the dead of space.
+
+Sarah rested her hands over his, a quiet, awestruck laugh suddenly escaping her lips.
+
+"What's so funny?" Wyatt murmured, kissing the side of her neck.
+
+"I was just thinking about the HR algorithm at the NTTR," Sarah said, shaking her head in sheer disbelief. "The Desert Star flight attendant told me all the Helios transfers were slated for Shift 3. If that glitch hadn't happened—if I hadn't been accidentally dumped into Shift 2—I would have walked up to that checkpoint and been partnered with some random, terrifying mercenary."
+
+Wyatt tightened his arms around her, a cold chill briefly touching his spine at the thought of her walking that perimeter with anyone else.
+
+"I don't even want to think about what would have happened to me down there without you," Sarah whispered, leaning her head back against his shoulder. "That mix-up... it literally saved my life. It gave me you."
+
+Wyatt looked out over the thriving garden, holding the woman he loved perfectly safe in his arms.
+
+"Best clerical error in corporate history," Wyatt agreed softly.
+

@@ -1,0 +1,114 @@
+# Part 5: The Sanctuary Protocol
+
+## December 15, 2006 8 Ocean View Lane - Living Room 11:00 PM
+
+The snow was piling up against the triple-paned windows, sealing the house into a white, silent bubble. Inside, the fire was crackling. The Fortress was in "Decompression Mode."
+
+They were gathered on the sectional and the floor, surrounded by empty donut boxes from The Iron Kettle.
+
+Amanda sat on the floor, leaning against the coffee table. She looked exhausted.
+
+"I should call my mom," Amanda said, staring at her phone. "But I can't. If I call her, she'll spend an hour telling me how my dad ruined Christmas because he bought the wrong tree. And if I call my dad, he'll tell me mom is 'poisoning me' against him."
+
+She put the phone down, face down.
+
+"They're divorcing," Amanda told the group, her voice cracking. "After twenty years. They're fighting over the dog. I don't want to go back to Pennsylvania. It’s a war zone."
+
+"Then don't," Stella said from her armchair. "The Guest Wing has two beds. Stay for the break. Tell them you have... an engineering intensive."
+
+"Really?" Amanda asked.
+
+"We have plenty of food," Eleanor added from her rocker. "And we need help eating these donuts."
+
+Amanda smiled, a weight lifting off her shoulders.
+
+## The Silent Alarm
+
+Then, there was Sarah.
+
+Sarah sat on the edge of the sofa, her knees pulled to her chest. She wasn't talking. She was staring at her silver flip phone.
+
+BEEP-CHIRP.
+
+The phone emitted a specific, high-pitched tone. Sarah flinched violently.
+
+Leo saw it. He knew that flinch.
+
+He looked at the screen.
+
+\> LOCATION REQUEST RECEIVED \> ACCOUNT: DAD
+
+Leo sat up. He tapped his Quantum Communicator.
+
+"HE IS PINGING YOU."
+
+Sarah looked up, terrified. "He knows I'm not in the dorm. The GPS puts me in a residential neighborhood. He's going to call and ask whose house this is."
+
+"HARDWARE OVERRIDE," Leo typed.
+
+He reached out his hand. "Phone," he signaled.
+
+Sarah hesitated, then handed him the device.
+
+Leo didn't turn it off. He flipped it over. He pressed the latch on the back cover and popped the battery out. The screen went black instantly.
+
+"CONNECTION SEVERED," Leo typed. "NO POWER. NO PING."
+
+"But... if I don't answer..." Sarah started to hyperventilate. "He tracks my debit card too. If I buy a coffee, he calls me to ask why I'm spending money."
+
+Stella set her tea down. Her "General" radar went to DEFCON 1.
+
+"Sarah," Stella said, her voice low and steady. "Give me your wallet."
+
+Sarah handed it over. Stella pulled out the debit card linked to her father’s account.
+
+"You are never using this card again," Stella said. "Not for a coffee. Not for a stamp. As of this moment, you are financially invisible."
+
+"But how do I eat?" Sarah whispered.
+
+"I pay," Stella said. "My personal business account. Not the Trust. Me. You are a consultant for Porter Web Solutions. I'm putting you and Amanda on a retainer that covers food, housing, and incidentals."
+
+She pulled two brand-new phones from her work bag (spares she kept for testing mobile sites).
+
+"And these are yours," Stella said, handing them to Sarah and Amanda. "Added to my family plan. New numbers. Untraceable."
+
+## The Legal Firewall
+
+"He'll call the police," Sarah cried. "He'll tell them I'm missing. He'll say I've been kidnapped."
+
+"I know," Stella said. "That's why we're calling them first."
+
+She picked up her landline. She didn't dial 911. She dialed the house next door.
+
+"Silas? It's Stella. I need a favor. Can you come over? And bring Dave. I need to notarize a Voluntary Statement of Adult Status."
+
+Five minutes later, the front door opened. Judge Silas Miller (in his robe, over pajamas) and Officer Dave Miller (in uniform) walked in.
+
+"Evening, Stella," the Judge said. "We brought the notary seal."
+
+Stella pointed to Sarah.
+
+"This is Sarah," Stella said. "She is an adult. She is a resident of this house for the duration of the break. Her father is abusive and uses electronic surveillance to stalk her. We are cutting the cord tonight."
+
+Officer Miller pulled out a notepad. "Sarah, I need you to state for the record that you are here of your own free will, that you are safe, and that you do not wish to be contacted by your family."
+
+Sarah looked at the cop. She looked at the Judge. She looked at Leo.
+
+"I am safe," Sarah whispered. Then louder. "I am safe. I am staying here."
+
+"Good," Officer Miller said. "I'm logging this in the dispatch system as a Pre-emptive Welfare Check. If your father calls the Iron Point PD or the Campus Police reporting you missing, the system will flag you as 'Located / Safe / Do Not Contact.' We won't even tell him what state you're in."
+
+Judge Miller stamped a document on the coffee table.
+
+"And I've witnessed the statement," the Judge said. "If he tries to file a guardianship order or claim you're incompetent, he has to come through my court. And I don't like stalkers."
+
+Sarah broke. She buried her face in her hands and sobbed.
+
+Amanda moved from the floor to the sofa, wrapping her arms around Sarah. Luna joined in.
+
+Leo rolled his chair closer. He put his hand on Sarah’s knee.
+
+"YOU ARE OFF THE GRID," Leo typed. "YOU ARE SAFE IN THE FORTRESS."
+
+"You're a ghost, Sarah," Stella said gently, tossing the tracking-enabled debit card into the fireplace. "Let him track that."
+

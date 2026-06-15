@@ -1,0 +1,24 @@
+# Part 2: The Assumption – 8:15 AM
+
+Mom walked out of the kitchen, clutching a crumpled tissue in her hand. Her eyes were red and swollen.
+
+She stood in the hallway, looking at Rachel, the agonizing reality of the legal document she had signed finally playing out in front of her. When they had sat in the lawyer’s office and agreed to the split custody, the fundamental assumption was that Dad would just rent an apartment across town. Everyone thought we would still be in the same city. No one, not Mom, not Jessica, and certainly not us, had ever suspected he would use the paperwork to run away to the Pacific Northwest with a woman he barely knew.
+
+"Rachel," Mom choked out, taking a step toward her.
+
+"Don't," Rachel snarled, stepping backward until her spine hit the wooden banister. The resignation was gone, instantly replaced by the raw, bleeding betrayal she felt toward both of them.
+
+Dad walked back in for the second suitcase.
+
+"Why?!" Rachel screamed at him, the sound tearing through the quiet house. "Why didn't you just find an apartment here?! Why did you have to go to Washington?!"
+
+Dad didn't look at Mom. He just gripped the handle of the suitcase. "Because I needed to get three thousand miles away from your mother," he said coldly. "And it's too late to argue about it. The tickets are bought. The house is waiting. It's time to go."
+
+On the kitchen counter, the cordless phone was lying flat on its back, the speakerphone broadcasting the entire nightmare.
+
+"You're a coward!" Jessica wept through the plastic speaker, her voice echoing from her tiny dorm room in Seattle. Our older sister was completely broken, forced to listen to her family be physically dismantled while she sat paralyzed in a wheelchair on the other side of the country. "You're tearing them apart!"
+
+Everyone was crying. Mom was sobbing into her tissue. Jessica was weeping over the phone. Rachel's chest was heaving with heavy, jagged gasps.
+
+But I didn't cry. My brain had bypassed the emotion and locked entirely into survival mode. I walked down the final step, stepping directly between Rachel and our parents.
+

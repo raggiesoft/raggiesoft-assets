@@ -1,0 +1,132 @@
+# Part 1: The Logic Bomb
+
+## Spring 2004 Tuesday, May 4, 2004 — 13:40 PM
+
+The lobby of **Copernicus Hall** was buzzing with the frantic, caffeinated energy of Finals Week. Students sat on the floor surrounded by flashcards. Others paced the tile corridors muttering formulas.
+
+The Avery Unit stood near the display case containing a model of the Voyager probe. They were ready.
+
+Freddie was wearing his "Presentation Gear"—a clean black polo shirt (Jessica insisted) and khaki pants. He held his **Iron-Logic** laptop bag tight against his chest.
+
+The website—**Project Helios**—was live on the local server. It was perfect.
+
+"Okay," Jessica said, checking her watch. "T-minus twenty minutes until launch. I need to hit the restroom. Too much espresso."
+
+"Me too," Paige said, smoothing her skirt. She looked at Freddie. "Do you need to go, Captain?"
+
+"Negative," Freddie said. "Bladder is empty. Systems nominal."
+
+Paige hesitated. She looked at the crowded lobby. Usually, she wouldn't leave him alone in a crowd this dense. The noise level was Yellow-Alert.
+
+She looked at Vanessa.
+
+Vanessa was standing next to Freddie, holding her stack of index cards. She looked calm. She looked capable. For four months, she had been a model citizen of the group. She had learned HTML. She had brought coffee. She had stopped analyzing them.
+
+"Vanessa," Paige said. "You got him for five minutes?"
+
+"I have the con," Vanessa said, using the terminology she had picked up just to please them. "We'll stay right here."
+
+"Okay," Paige smiled. She reached out and squeezed Freddie’s hand. "Be right back. Don't let anyone orbit-jack our planet."
+
+The sisters walked away toward the restrooms down the hall.
+
+Freddie watched them go. He felt a momentary spike of anxiety as his anchors disappeared into the crowd, but then he looked at Vanessa. She was safe. She was the Patch.
+
+Vanessa watched them leave, too. She waited until the restroom door swung shut.
+
+Then, she turned to Freddie. The warm, submissive smile vanished, replaced by a look of deep, sorrowful concern.
+
+"They're amazing, aren't they?" Vanessa said softly.
+
+"Affirmative," Freddie said, clutching his bag. "They are optimal units."
+
+"I heard them talking yesterday," Vanessa lied. Her voice was smooth, pouring like syrup into his ear. "In the bathroom at the library. When you were coding."
+
+Freddie froze. "Query?"
+
+"They were talking about summer," Vanessa said. She stepped closer, invading his personal space just enough to create a sense of intimacy, of shared secrets. "Jessica was talking about an internship in New York. A marketing firm. Huge opportunity."
+
+Freddie blinked. Jessica hadn't mentioned New York.
+
+"And Paige," Vanessa sighed. "There’s a study abroad program. Italy. Art History. She was looking at the brochure. She looked... she looked so happy just imagining it."
+
+Freddie felt a cold stone drop in his stomach. "They did not inform me."
+
+"Of course they didn't," Vanessa whispered. "Because they turned them down. Both of them."
+
+She looked deep into Freddie’s eyes behind his glasses.
+
+"Jessica said, 'I can't leave Freddie alone for three months.' And Paige said, 'Who would help him on the bus?'"
+
+She let the words hang there. *Who would help him.*
+
+"Freddie," Vanessa said, her voice trembling with fake empathy. "They are giving up their lives for you. Italy. New York. Their careers. Their dreams. They are throwing it all away to sit in a house in Norfolk and watch TV with you."
+
+"They... they want to stay," Freddie stammered. "Paige said... she said she is where she belongs."
+
+"She *has* to say that," Vanessa corrected gently. "She loves you. She would never tell you that you're a burden. She would never break your heart."
+
+She reached out and touched his arm. A light, clinical touch.
+
+"But think about the astronomy project, Freddie. Think about gravity."
+
+She pointed to the Voyager probe in the case—the machine that flew away from Earth to see the stars.
+
+"Right now, you are the black hole," Vanessa whispered. "You are pulling them in. They can't escape your gravity. As long as you are here, as long as you need them to hold your hand and wash your hair... they will never leave orbit. They will burn up in your atmosphere."
+
+Freddie stared at the Voyager. He saw the logic. *Gravity traps objects.* *He was the gravity.* *Therefore, he was trapping them.*
+
+"How..." Freddie whispered, his voice cracking. "How do I stop it?"
+
+"You can't ask them to leave," Vanessa said. "They won't go. The bond is too strong. They will stay until they resent you. Until they hate you."
+
+She leaned in close to his ear.
+
+"If you truly love them, Freddie... *you* have to be the one to break the orbit. You have to set them free. You have to leave the system."
+
+Freddie’s breath hitched. *Leave the system.*
+
+"How?"
+
+"I have an aunt," Vanessa whispered quickly, checking the hallway. "In Washington State. Seattle. It's far away. It's beautiful. I'm going there this summer. You could come. We could start over. You could be... independent. And they could go to New York. They could go to Italy. They could be free."
+
+She pulled back as the restroom door opened down the hall.
+
+"Just think about it," Vanessa said, her voice returning to normal volume. "Think about what Paige is giving up. Think about whether you love her enough to let her go."
+
+Freddie stood frozen. The logic bomb had detonated.
+
+*Italy. New York.* *Resentment.* *Black Hole.*
+
+"All clear!" Paige’s voice rang out.
+
+She came bouncing back down the hall, Jessica right behind her. Paige looked happy. She looked relieved.
+
+She walked straight up to Freddie.
+
+"Missed you, Captain," Paige grinned.
+
+She wrapped her arm around his waist. She squeezed him tight. She rested her head on his shoulder.
+
+Five minutes ago, this touch felt like safety. Now, thanks to the data Vanessa had just uploaded, it felt like chains.
+
+Freddie looked at Paige. He saw the sister who should be in Italy. He saw the sister who was stuck in a lobby in Virginia because he couldn't use a public restroom alone.
+
+He felt a wave of self-loathing so strong it nearly knocked him over.
+
+"Freddie?" Paige asked, pulling back slightly to look at his face. "You okay? You look pale. Sensory overload?"
+
+Freddie forced his face to go blank. He adjusted his glasses.
+
+"Negative," Freddie lied. "Pre-presentation adrenaline. Systems nominal."
+
+"Okay," Paige smiled, buying it. She tightened her grip, steering him toward the double doors of the lecture hall. "Let's go knock Haldeman's socks off. Team Helios for the win."
+
+"Team Helios," Vanessa echoed, falling into step beside them.
+
+They walked into the lecture hall. Paige guided him to their seats. Jessica prepped the laptop.
+
+But as Freddie sat there, waiting to present his perfect, static solar system, he wasn't thinking about planets.
+
+He was thinking about the bus. He was thinking about Seattle. He was thinking that the only way to save his sisters was to disappear.
+

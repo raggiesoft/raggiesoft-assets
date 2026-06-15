@@ -1,0 +1,18 @@
+# Part 10: A Culinary Discovery
+
+The restaurant Stella had chosen was a world away from the Americanized Chinese buffets they were used to back home. It was a bustling, brightly lit space filled with large, round tables, the air thick with the delicious, unfamiliar aromas of ginger, star anise, and chili oil. The chatter was a lively mix of English and Mandarin, and the walls were adorned with beautiful calligraphy.
+
+A friendly waitress handed them menus that were vast and, to them, slightly intimidating. There was no General Tso's chicken or beef with broccoli to be found. Instead, there were sections for dim sum, hand-pulled noodles, and regional specialties they had never heard of.
+
+"Okay," Stella said with an adventurous grin. "We are officially in uncharted territory."
+
+"Let's just be brave," Olivia suggested, taking the lead. "How about we get a bunch of different things and share them all?"
+
+They ended up ordering a feast, guided by the waitress's patient recommendations. The first to arrive were the dumplings Leo had requested, but these weren't the thick, fried potstickers they knew. These were delicate, steamed *xiao long bao*—soup dumplings. The waitress showed them the proper technique: how to carefully lift one onto a spoon, poke a small hole to let the steam escape, and sip the savory broth before eating the dumpling itself.
+
+For Leo, the experience was a revelation. The burst of hot, flavorful soup followed by the tender pork filling was unlike anything he had ever tasted. His eyes went wide with delight, and he immediately gave Olivia a happy, enthusiastic thumbs-up.
+
+More dishes arrived: tender, hand-pulled noodles with a spicy Szechuan sauce that made Luna's eyes water in the best way; delicate, crispy-skinned Peking duck served with thin pancakes and hoisin sauce; and a plate of bright green gai lan (Chinese broccoli) stir-fried with garlic.
+
+The entire meal was a journey of discovery. They passed plates, shared bites, and compared notes on the new, complex flavors. This wasn't just dinner; it was a shared adventure, a culinary exploration that was a perfect metaphor for their entire trip. For the first time, they weren't just eating Chinese food; they were experiencing it. And for a family dedicated to creating new, happy memories, it was another perfect moment to add to their collection.
+

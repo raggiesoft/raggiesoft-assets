@@ -1,0 +1,16 @@
+# Part 2: A Different First Day
+
+They pulled into the CCHR student parking lot, Chloé expertly finding a handicapped spot close to the Advanced Technology Center. As they moved towards the entrance, the campus buzzed with the energy of the first day of the spring semester. But where Alex had once felt a crushing wave of isolation, he now felt a quiet sense of belonging. He was not a lone, vulnerable student; he was one half of a team.
+
+They found their first class—General Biology with Dr. Sharma—and chose a spot at an accessible lab table near the front. They unpacked their matching binders and new textbooks. A few minutes later, Alex saw a familiar, welcome face in the doorway, scanning the room. It was Sarah Jenkins. She spotted him, and her face broke into a wide, genuine smile of pure relief. This was no chance meeting; it was a mission. Megan, from her new home office on Lisa Court, had been texting with Sarah all morning, coordinating this exact moment.
+
+"Alex! Oh my gosh, I am so happy to see you!" Sarah said, rushing over and taking the seat next to him. "Megan told me you were back. I was so worried. You just vanished last semester, and... well, that Vera girl was telling people you'd had some kind of breakdown. I knew it didn't sound right. I'm so, so glad you're okay."
+
+Before Alex could type, Chloé, who was in on the plan, reached out and offered her hand to Sarah. "Chloé Miller," she said, her voice full of warmth and gratitude for this girl who had clearly been an ally. "Thank you for being so kind to him last semester. Things were... very difficult."
+
+SARAH, IT IS REALLY GOOD TO SEE YOU, Alex's device voiced, his tone conveying deep, genuine appreciation. VERA IS GONE. CHLOÉ AND I ARE MARRIED NOW. I AM BACK FOR GOOD.
+
+Sarah's jaw dropped slightly as she looked at their matching gold wedding bands, then her expression turned to one of absolute delight. "Married? Oh, Alex, that's the best news I've heard all year! I knew it!" she said, looking at Chloé. "When he talked about you last semester, his whole face lit up. I knew you were the one who was important." She then beamed at them both. "Wow. Okay, this is the best start to a semester ever. It's so good to see you looking so happy and safe."
+
+The casual, kind words filled the space with a profound sense of rightness. A new, positive connection had been forged, grounded in Sarah's quiet, unwavering observation of the truth and her genuine happiness at seeing Alex finally free and with the person he truly belonged with.
+

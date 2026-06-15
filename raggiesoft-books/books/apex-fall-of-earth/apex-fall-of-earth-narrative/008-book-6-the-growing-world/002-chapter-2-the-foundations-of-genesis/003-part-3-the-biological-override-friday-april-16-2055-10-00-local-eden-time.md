@@ -1,0 +1,80 @@
+# Part 3: The Biological Override – Friday, April 16, 2055 – 10:00 (Local Eden Time)
+
+The automated medical bay on Sub-Level 1 was usually reserved for serious injuries or new arrivals, but this morning, it was functioning as a biological tailoring shop.
+
+The Vanguard had officially turned nine years old. And the absolute, uncompromising rigidity of their childhood routine had just collided head-on with the chaotic, unstoppable force of human biology. Puberty was beginning to knock on the heavy blast doors of The Sanctuary.
+
+For the triplets, separation was a fundamental impossibility. Leo’s severe autism and Nora’s high-functioning autism demanded absolute, constant proximity to their established perimeter. Where one went, the other two followed. Because of this, the entire unit was currently stationed in the medical bay.
+
+Ellie Colton was standing on the primary diagnostic bio-bed, her arms crossed tightly over her chest. She was scowling fiercely at the wall.
+
+Sarah stood in front of her, holding Ellie’s signature canvas tactical vest. She was carefully adjusting the side nylon straps, loosening them by a full two inches.
+
+"I don't like it," Ellie reported, her voice carrying a sharp, deeply frustrated edge. She pointed a rigid finger at her own chest, where the very first, subtle signs of breast bud development were beginning to make her clothes feel incredibly restrictive. "Hardware is glitching. Armor doesn't fit right. Center of gravity is compromised."
+
+Sarah had to bite the inside of her cheek to keep from laughing at her daughter's fiercely tactical assessment of growing up. To Ellie's highly structured brain, puberty wasn't a natural milestone; it was an unauthorized, highly annoying biological override.
+
+"Your hardware isn't glitching, Commander," Sarah smiled gently, resting her hands on Ellie's shoulders. "You're just growing into a woman. Your body is building the armor you're going to need when you're older. It feels weird right now, and you might feel a little more tired or grumpy than usual, but your center of gravity will adapt. I promise."
+
+Ellie let out a huff, uncrossing her arms to let Sarah slip the adjusted vest back over her shoulders. She zipped it up. It fit perfectly again, no longer pulling uncomfortably across her chest.
+
+"Acceptable," Ellie grumbled, rolling her shoulders. She looked at her mother. "But the new chemical protocol? The underarm application?"
+
+"The deodorant is mandatory, El," Sarah laughed, tapping her daughter's nose. "Your sweat glands are waking up. It's just part of the new daily perimeter check."
+
+"Understood," Ellie sighed, officially incorporating hygiene into her tactical routine.
+
+Three feet away, Wyatt was kneeling on the pristine floor, completely immersed in his own logistical updates.
+
+Nora was standing in front of him, balancing her weight carefully. Wyatt had her custom titanium forearm crutches laid out on a digital workbench, aggressively adjusting the telescoping shafts.
+
+"Two inches, Nora," Wyatt muttered in absolute awe, locking the titanium pins into their new, longer positions. "You shot up two entire inches in six weeks. No wonder your back was hurting; you were hunched over."
+
+He handed the lengthened crutches back to her. Nora slipped her arms into the cuffs and took a few steps across the medical bay. With the height properly calibrated, her smooth, even stride instantly returned.
+
+Nora stopped and looked at Wyatt. She took a breath, her facial muscles tensing slightly as she worked to force the syllables past her slight speech impediment.
+
+"Th-thank... y-you... D-dad," Nora managed, her breathy voice struggling just a fraction over the consonants.
+
+Not wanting to expend unnecessary energy fighting her vocal cords, Nora smoothly lifted her left hand off the crutch grip and tapped the sleek, lightweight AAC device strapped securely to her forearm.
+
+"The height is much better now. My back does not hurt anymore," Nora's AAC chimed in a warm, clear digital voice, flawlessly completing her thought.
+
+"I'm glad, sweetheart," Wyatt smiled, tapping the edge of her crutch affectionately.
+
+But the peace in the medical bay was instantly shattered by a loud, frantic, high-pitched hum.
+
+Leo was sitting in his titanium Daily Driver wheelchair right beside Nora. For Ellie and Nora, puberty was a manageable annoyance. For Leo, it was a localized sensory earthquake. His body was completely rigid, his scissored legs locked tight against the footboards, and his hands were flapping sharply at his sides.
+
+His customized clothes suddenly felt entirely too tight across his broadening shoulders, and the sudden influx of new hormones was making his skin crawl. His sensory baseline had completely shifted overnight, plunging his nervous system into a panicked spiral.
+
+With a shaking, violently trembling hand, Leo reached down to the ruggedized AAC tablet mounted on his lap tray. He didn't just hit a single word. His mind was incredibly sharp, and he possessed a massive vocabulary. His fingers flew across the interface, stringing together a precise, complete sentence.
+
+"My skin feels wrong and my shirt is restricting my perimeter. I require maximum deep pressure immediately," Leo’s tablet announced loudly over the frantic vocal hum he was producing.
+
+Nora didn't hesitate. She dropped her titanium crutches onto the floor with a loud clatter and immediately threw her arms around Leo's chest, burying her face in his neck to apply her compression therapy.
+
+But it wasn't working.
+
+Leo let out a distressed grunt, his muscles remaining completely locked. He was bigger now. His chest was wider. Nora's small arms couldn't generate the sheer physical pressure required to ground his expanding, pre-teen nervous system.
+
+"Hardware insufficient," Ellie announced instantly, assessing the failure from her spot on the bio-bed.
+
+She jumped down and marched over to the left side of the wheelchair. She didn't just stand against him. Ellie climbed directly onto the side of the titanium frame, wrapping her own arms fiercely around Leo's opposite shoulder, layering her body weight directly over Nora's.
+
+The combined, crushing weight of both of his nine-year-old sisters finally breached the threshold.
+
+Leo let out a massive, shuddering exhale. His frantic flapping stopped. His scissored legs relaxed against the footboards, and the high-pitched hum dropped back into a low, steady purr of relief.
+
+He reached down with a heavy hand and typed rapidly on his AAC.
+
+"The compression is optimal. My nervous system is regulating. Thank you, Ellie. Thank you, Nora," the tablet spoke, his articulate mind perfectly translating his relief.
+
+Nora offered a breathy giggle, keeping her cheek pressed against his shoulder. Ellie gave a firm, tactical nod, maintaining her iron grip on his arm. They were an unbreakable, unified front.
+
+Wyatt stood up from the workbench, his chest tight with a mixture of heartbreak and overwhelming pride. Biology was throwing curveballs at them, changing the rules of engagement, but the Vanguard refused to let their brother fall through the cracks. They simply upgraded their tactics and utilized their technology to close the gaps.
+
+"They're going to be okay," Sarah whispered, walking over to slip her hand into Wyatt's. "It's going to be a bumpy few years, but they have each other."
+
+"Yeah," Wyatt murmured, pulling her close as he watched his three oldest children untangle themselves. "But I think I need to hit the Fab-Foundry this afternoon. I have a feeling I'm going to be printing a lot of larger clothes and bigger armor."
+

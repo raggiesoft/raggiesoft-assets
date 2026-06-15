@@ -1,0 +1,34 @@
+# Part 1: The Circuit
+
+## Monday, November 10, 2008 — 09:00 AM Vocational Evaluation Lab, WWRC
+
+The classroom smelled of ozone and hot flux. To Harper Avery, it smelled like potential.
+
+She sat at a workbench in the Electronics Assembly evaluation sector. In front of her was a schematic, a soldering iron, and a bag of resistors.
+
+"Okay," the evaluator, Mr. Henderson, announced. "Your task is to assemble the circuit board according to the diagram. You have two hours. Accuracy is more important than speed."
+
+Harper pulled her goggles down. She looked at the diagram.
+
+It was a logic gate. A simple loop. Input A + Input B = Output C.
+
+She picked up the soldering iron. Her hand, which usually had a slight, nervous tremor when she was dealing with people, was steady as a rock.
+
+Heat the pad. Feed the solder. Lift. Cool.
+
+For three hours, the world made sense. There was no yelling. There was no sarcasm. There was just the clean, binary reality of the circuit. If you did it right, the green LED lit up. If you did it wrong, it didn't.
+
+Harper finished in forty-five minutes. She hooked up the 9-volt battery.
+
+Click. The green light glowed steady and true.
+
+"Done," Harper said, raising her hand.
+
+Mr. Henderson walked over. He inspected the joints with a magnifying glass.
+
+"Clean," he nodded, looking impressed. "Very clean. You have a knack for the flow, Harper."
+
+Harper smiled. She felt like Freddie. She felt like she was part of the Machine.
+
+This, she thought, is the Signal.
+

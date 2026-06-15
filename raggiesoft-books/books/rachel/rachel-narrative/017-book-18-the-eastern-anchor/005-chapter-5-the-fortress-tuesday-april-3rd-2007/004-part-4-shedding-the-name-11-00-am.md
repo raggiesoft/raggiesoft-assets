@@ -1,0 +1,34 @@
+# Part 4: Shedding the Name – 11:00 AM
+
+Joan navigated the Raybourn minivan out of the high-rise parking garage, merging seamlessly into the heavy, late-morning traffic of downtown Norfolk. The tense, coiled energy that had gripped us on the drive in had completely evaporated, replaced by a quiet, collective exhaustion.
+
+Rachel, Ashley, and I were packed securely into the back seat, resuming our tight, three-way formation. With the adrenaline finally bleeding out of her system, Ashley leaned her head back against the headrest, staring blankly at the ceiling of the van.
+
+"I have to get my ID changed," Ashley murmured into the quiet hum of the vehicle. "My driver's license, my bank cards, everything. I don't want to look at that name anymore."
+
+She turned her head, looking at Rachel and then at me. "I want to be Ashley Elizabeth Raybourn again. I want to completely erase him from my paperwork."
+
+From the front passenger seat, Jim turned around. "Vance is putting the name restoration directly into the final divorce decree. The moment the judge signs the order dissolving the marriage, your maiden name is legally restored by the Commonwealth."
+
+"How long is that going to take?" I asked, my analytical brain instantly seeking a concrete timeline to ease her anxiety. "The lawyer said the complaint and the protective order are being filed today."
+
+Ashley shifted, sitting up slightly, the sharp legal focus she had just learned from Elias Vance bleeding into her voice.
+
+"Assuming David doesn't put up a fight—and Vance said that with the video and the battery report, he would be legally suicidal to contest it—the timeline is actually really fast," Ashley explained. "The sheriff serves him today. By law, he has exactly twenty-one days to file a response to the complaint. Vance expects him to either default entirely or sign a rapid settlement to keep the adultery and the abuse out of a public courtroom."
+
+"And if he signs it?" Rachel asked, her raspy voice completely focused on the logistics.
+
+"Then it bypasses the entire trial process," Ashley replied, a faint, hopeful smile touching the corners of her mouth. "Vance said it just goes onto the judge's docket for final signature. We don't have to wait a year. I could have the final decree in my hands, with my maiden name legally restored, in just a few months."
+
+Joan merged onto Interstate 264, pointing the van back east toward Virginia Beach. "He's not going to fight it, honey. Bullies like David are cowards when you actually shine a spotlight on them. The moment the sheriff hands him that protective order and he realizes we have the tape of his 'plane crash' lie, he is going to fold."
+
+I reached over, taking Ashley's hand and running my thumb over her knuckles. To my autistic processor, names were absolute identifiers. The fact that a sociopath had forced her to carry his label felt like a profound structural error that desperately needed correcting.
+
+"You never stopped being a Raybourn to us," I told her quietly. "But getting the paperwork fixed is a good tactical move. It clears the board."
+
+"It's a hard reset," Rachel agreed from Ashley's other side, offering a rare, genuine smile. "A brand new scene."
+
+Ashley let out a soft, watery laugh, recognizing the lyrical callback to *The Stardust Engine* playing on the alarm clock just a few hours ago. She squeezed both of our hands, leaning her weight fully against my shoulder.
+
+The rest of the drive back to 1802 Rich Court passed in a comfortable, healing silence. The legal machinery had been activated, the timeline was established, and the heavy, toxic label of her marriage was already marked for deletion. Ashley Elizabeth Raybourn was coming back online.
+

@@ -1,0 +1,18 @@
+# Part 8: La Coupe du Gâteau (The Cutting of the Cake)
+
+After the last heartfelt toast, the Master of Ceremonies once again took the stage, his voice full of a warm, happy energy.
+
+"*Et maintenant, le moment que nous attendons tous - le gâteau!*" he announced in French. He then switched seamlessly to English. "And now, the moment we've all been waiting for—the cake! If everyone will please direct their attention to the cake table, Chloé and Alex would like to cut their wedding cake!"
+
+The guests turned to a beautifully decorated table where the wedding cake sat, a masterpiece of simple elegance. It was a three-tiered cake with smooth, white buttercream frosting, decorated with a simple, cascading ribbon of delicate sugar flowers in Alex's blue and Chloé's green. But the real highlight was the custom cake topper. It was a small, perfectly rendered figurine of a boy in a wheelchair and a girl with coppery red hair, standing side-by-side, holding hands and, in their other hands, a video game controller and a book respectively. It was so perfectly *them* that a wave of appreciative, knowing laughter went through the room.
+
+Alex, still standing tall in his power chair, drove to the table with Chloé at his side. Megan, in her role as the ever-present Best Woman, was right there, handing them the ceremonial knife.
+
+Alex took the knife, his hand a little shaky with the emotion of the moment. Chloé immediately placed her hand over his, her grip firm and steady. Together, with her hand guiding his, they made the first, perfect slice into the bottom tier of the cake.
+
+Megan was ready with a plate and fork. Chloé took a small, neat piece of the cake and, with a soft, loving smile, held it up for Alex to take the first bite. He leaned in, and the crowd cheered. Then, in a gesture of perfect, equal partnership, he took the fork from her, got a small piece for himself, and held it up for her. She took the bite, and the room erupted in another wave of joyous applause. There was no smashing of cake, no messy antics. It was just a simple, sweet, and profoundly loving act of sharing.
+
+From their tables, the parents watched, their faces a mixture of pride and profound, tearful joy. This was it. The last of the formal traditions. Their children, their beautiful, resilient, extraordinary children, had done it. They had their big, beautiful, and completely perfect wedding day.
+
+As the band struck up another lively tune and the catering staff began to serve the cake to the guests, Alex, Chloé, and Megan stood together by the table. The formalities were over. All that was left was to dance, to laugh, and to celebrate the beginning of the rest of their lives, surrounded by every single person they loved.
+

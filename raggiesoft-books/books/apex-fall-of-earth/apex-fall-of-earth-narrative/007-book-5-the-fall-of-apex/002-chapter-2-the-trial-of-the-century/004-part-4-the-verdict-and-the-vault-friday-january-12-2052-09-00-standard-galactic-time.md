@@ -1,0 +1,110 @@
+# Part 4: The Verdict and the Vault – Friday, January 12, 2052 – 09:00 (Standard Galactic Time)
+
+The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric.
+
+For five grueling months, Wyatt and Sarah Colton had dialed into the secure quantum-holographic link, testifying from the safety of their mountain fortress while the Earth Remnant Tribunal systematically dismantled the Apex Megacorporation. They had laid bare the medical atrocities, the slave-labor acquisitions, and the ultimate, damning telemetry of the kinetic orbital strike that fractured Earth's mantle.
+
+Now, it was time for the absolute finality of justice.
+
+Wyatt sat on the edge of the leather sofa, his veteran instincts keeping his posture rigidly focused. Sarah sat beside him, her hands resting comfortably over the distinct, rounded swell of her twenty-two-week pregnancy.
+
+In the glowing blue projection of the *UNS Citadel* courtroom, the Lead Magistrate stood at the podium. The massive amphitheater, packed with thousands of Earth refugees, was so quiet you could hear a pin drop.
+
+Down in the center of the room, trapped inside his hard-light containment cylinder, High Director Kael looked like a hollow shell of the dictator who had once ruled the Cygnus Arm.
+
+"High Director Kael," the Lead Magistrate’s voice boomed through the subspace link. "On the charges of Planetary Ecocide, the enslavement of civilian populations, and Crimes Against Humanity, this Tribunal finds you and the Apex executive board unequivocally guilty."
+
+Kael’s jaw trembled, his hands balling into fists at his sides.
+
+"Apex Defense Solutions is hereby legally dissolved. Its remaining assets are seized by the Global Defense Coalition to fund the relocation and survival of the Earth diaspora," the Magistrate continued, delivering the killing blow to the empire. "As for you, Kael. To execute you would be to make you a martyr to those who still cling to your fascist ideology. Instead, you are stripped of your rank, your uniform, and your name. You are sentenced to permanent, solitary confinement in a maximum-security deep-space vault. You will be forgotten."
+
+"You cannot erase Acheron!" Kael shrieked, his voice cracking as two heavily armored Coalition guards stepped through the deactivated shield to seize him. "We brought order! I am the Sovereign!"
+
+"Aria," Wyatt commanded, his deep voice slicing through the dictator's frantic screams. "Sever the link. Permanently."
+
+*"Executing permanent firewall protocol, Administrator,"* Aria chimed.
+
+The brilliant blue projection of the courtroom collapsed into a single point of light and vanished. The library was instantly restored to its warm, sunlit peace.
+
+Wyatt let out a long, heavy exhale, the massive weight he had been carrying for nearly eight years completely evaporating from his broad shoulders. He turned to Sarah, a profound, quiet smile breaking across his scarred face.
+
+"It's over," Wyatt murmured, reaching out to gently cup her cheek. "The past is officially dead."
+
+"And the future is ours," Sarah smiled back, leaning into his touch. She rested her hand over her abdomen. "Speaking of the future... I think it's time we go downstairs. We have an anatomy scan scheduled."
+
+Ten minutes later, they stepped out of the pneumatic elevator onto Sub-Level 1. The automated medical wing was exactly as pristine and welcoming as ever.
+
+Sarah climbed onto the primary diagnostic bio-bed. Unlike the horrific, physically devastating hyperemesis gravidarum that had defined the triplets' gestation, this pregnancy had been an absolute breeze. Aside from the standard first-trimester exhaustion, her body had handled the hormonal shift flawlessly.
+
+Wyatt sat on the rolling metal stool beside her, picking up the ultrasonic transducer. He applied the warm gel and gently pressed the wand against her skin, keeping his eyes glued to the massive, high-definition monitor.
+
+"Aria, telemetry report," Wyatt requested, his mechanic's brain eagerly awaiting the data.
+
+*"The biometric telemetry is optimal, Wyatt,"* Aria reported smoothly. *"However, I must update the gestational parameters. I am currently tracking two distinct, perfectly synchronized cardiac rhythms."*
+
+Wyatt froze, the transducer halting on Sarah's stomach. He looked at the monitor. Hovering in the dark void of the ultrasound imaging were two tiny, perfectly formed silhouettes.
+
+"Two?" Sarah gasped, pushing herself up on her elbows. She looked from the screen to Wyatt, a massive, delighted laugh bubbling up in her chest. "Wyatt, it's twins!"
+
+"I'm detecting identical XX chromosomal markers," Aria confirmed. "You are expecting identical twin girls. Both subjects are developing flawlessly."
+
+Wyatt stared at the screen, an overwhelming, joyous disbelief washing over him. He dropped his head, letting out a booming, chest-deep laugh. They hadn't just added a new recruit; they had drafted a new squad.
+
+"Molly and Claire," Sarah decided instantly, her eyes shining with absolute adoration as she looked at the two tiny, overlapping profiles on the monitor. "Those are their names, Wyatt."
+
+"Molly and Claire Colton," Wyatt agreed, leaning over to kiss her deeply. "We're going to need more timber for the nursery."
+
+An hour later, Wyatt and Sarah returned to the residential living room.
+
+The Vanguard and Jack were deeply engaged in their afternoon operations.
+
+In the center of the plush rug, Leo was sitting upright, humming a continuous, soothing note. Because of his severe sensory needs, he required deep, constant pressure to remain regulated. Nora was sitting flush against his right side, her arm wrapped securely around his chest, acting as his physical anchor.
+
+Ellie was standing two feet away, her arms crossed over her canvas overalls, perfectly executing her role as the commanding officer. She was directing Jack.
+
+At barely over two years old, Jack was highly verbal, completely neurotypical, and shockingly empathetic. He waddled over to the low coffee table, picked up Leo's customized AAC tablet, and carefully carried it back to his brother.
+
+"Here you go, Leo," Jack said clearly, gently placing the tablet onto Leo's lap.
+
+Leo let out a sharp, happy grunt. With Nora steadying his spasming arm, Leo slammed his palm against the bright green square.
+
+*"Good,"* the tablet announced.
+
+Jack beamed. But he didn't stop there. The toddler immediately turned his attention to Nora, noticing she was awkwardly leaning on her weaker left leg. Jack reached out, grabbed a heavy throw pillow from the sofa, and dragged it over, wedging it perfectly under Nora's knee to support her.
+
+"Better, Nora?" Jack asked earnestly.
+
+Nora offered a breathy, grateful giggle. "Beh-ter. Tanks, Jack."
+
+Ellie watched the entire exchange. Satisfied that her subordinate had successfully reinforced the unit's perimeter and accommodated the specialized needs of her siblings, the commander gave a firm, approving nod.
+
+"Good recruit," Ellie praised.
+
+From the archway, Wyatt and Sarah stood shoulder-to-shoulder, watching the flawless, beautiful machinery of their family operate.
+
+Wyatt slid his arm around Sarah's waist, his brow furrowing thoughtfully. He thought about the Genesis Vault, resting miles beneath their feet in the freezing dark.
+
+"Sarah," Wyatt murmured quietly, not wanting to disturb the children. "We have Molly and Claire coming in a few months. That puts us at six kids. A massive, thriving family. I know we said we'd wait until the Vanguard was twelve to start decanting the embryos, but... look at them. They're already an incredible support system. Do we really need to wait that long?"
+
+Sarah leaned her head against his shoulder, her eyes tracking Jack as he trotted over to the kitchen to fetch a cup of water for Ellie.
+
+She looked at her eldest daughter, the fierce, rigid protector who demanded absolute structure. And then she looked at Jack, the incredibly advanced, naturally diplomatic unifier who possessed the exact empathy needed to bridge gaps.
+
+"We wait," Sarah decided, her voice filled with profound, maternal foresight. She turned to look up at Wyatt. "We wait because of exactly what you're seeing right now."
+
+Wyatt looked back at the kids.
+
+"Ellie is the commander," Sarah explained softly. "She enforces the rules, she protects the perimeter, and she keeps Leo and Nora perfectly safe. But Jack... Jack is the diplomat. He understands what everyone needs without having to be ordered to fix it. He's an overseer."
+
+Sarah placed her hand over her pregnant belly, feeling the twin girls shifting inside her.
+
+"If we wake up fifty thousand people right now, Ellie will treat them like a threat, and Jack is too young to mediate," Sarah continued. "But if we give them time? If we let Jack grow up so he can stand shoulder-to-shoulder with Ellie? She will be the shield of Planet Eden, and Jack will be its leader. We need them fully grown before we wake the neighborhood, Wyatt. We need the whole family."
+
+Wyatt looked at his children, the strategic brilliance of his wife's logic completely overriding his eagerness.
+
+She was right. The Colton family wasn't just a household; it was the foundational government of a new world. And they needed all of their pieces in place before they turned the key.
+
+"The timeline stands," Wyatt agreed, pressing a kiss to her temple. "We hold off on the vault. For now, we just focus on Molly and Claire."
+
+Sarah smiled, leaning her weight against his side as they watched their children play in the sunlight. The trial was over, the galaxy was locked out, and their beautiful, beautifully chaotic family was exactly where they were supposed to be.
+

@@ -1,0 +1,80 @@
+# Part 11: The Shutdown Sequence
+
+## Wednesday, July 23, 2003 22:00 PM — 105 Pepper Street
+
+The credits for the retro sci-fi show had long since faded, and the VCR hummed in the silence of the living room before Jessica clicked it off.
+
+"All systems standby," Jessica announced, standing up and stretching. Her joints popped in the quiet room. "The best news of the day isn't the hike or the burger."
+
+"Query?" Freddie asked, lifting his head from Paige’s lap.
+
+"Tomorrow is Thursday," Jessica grinned. "Dr. Thorne doesn't lecture until Friday. We have zero obligations for the next twenty-four hours. No class. No homework. Just... existence."
+
+"Free float," Freddie whispered. "An entire rotation of idle time."
+
+"Exactly," Paige said, helping him sit up. "So let's hit the rack. I want to sleep until noon."
+
+They moved to the hallway. The logistics of the house were efficient.
+
+"I'll take the hallway bath," Jessica said, grabbing her toothbrush. "You guys take the ensuite. Meet in the Silo in ten."
+
+"Copy," Freddie said.
+
+He and Paige entered the master bathroom. The routine was silent and synchronized. Teeth brushed. Faces washed. The toilet flushed.
+
+There was no awkwardness, no hesitation. They were a team servicing the equipment before a long shutdown.
+
+## 22:15 PM — The Silo
+
+They converged in the master bedroom. The blackout curtains were already drawn, sealing the room in a permanent, protective night. The air conditioner hummed its steady, white-noise lullaby.
+
+The King Bed waited—a 76-inch island of maroon jersey sheets.
+
+"Armor off," Jessica said, closing the door and locking it.
+
+They stripped down. In the dim light, clothing was just debris—fabric that would twist, bind, and pull during the night. Sleeping without it wasn't just about temperature control; it was about eliminating variables. No drawstrings to knot. No elastic bands to dig in.
+
+Just skin. Just the Unit.
+
+They climbed in.
+
+**The Formation:**
+
+- **Left Flank:** Jessica. She slid in first, taking the side nearest the door. She was the eldest, the Matriarch, the first line of defense.
+
+- **Right Flank:** Paige. She took the side against the wall. She was the Anchor, the immovable object.
+
+- **The Core:** Freddie. He climbed into the center.
+
+He lay back on the cool sheets. The mattress dipped under their combined weight, creating a gravity well that pulled them together.
+
+Jessica rolled onto her side, draping her arm heavily over his chest. Her leg hooked over his left ankle.
+
+Paige rolled in from the right. She didn't just lie next to him; she pressed her entire length against his side. She rested her head on his shoulder, her arm wrapping around his waist to lock hands with Jessica’s.
+
+They collapsed the space. They became a single thermal mass.
+
+"Squeeze check," Jessica whispered.
+
+"Pressure is... optimal," Freddie breathed.
+
+He felt the weight of them pinning him to the mattress. It was a physical seatbelt. If the nightmares tried to come back—if the closet or the siren tried to invade the Silo—they wouldn't be able to move him. He was anchored.
+
+"No class tomorrow," Paige murmured into his neck, her voice already heavy with sleep.
+
+"No class," Freddie confirmed. "Just the Unit."
+
+"Goodnight, Captain," Jessica said.
+
+"Goodnight, Shield," Freddie whispered. "Goodnight, Anchor."
+
+"Night, Freddie," Paige sighed.
+
+Freddie closed his eyes. The static was gone. The day's friction was gone.
+
+Held tight in the center of the bed, surrounded by the only people who knew his source code, Freddie Avery let the system power down.
+
+**System Status:** *Offline.* **Security:** *Maximum.* **Sleep Mode:** *Engaged.*
+
+
+

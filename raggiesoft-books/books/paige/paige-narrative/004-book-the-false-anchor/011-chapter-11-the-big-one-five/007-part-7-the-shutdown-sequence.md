@@ -1,0 +1,84 @@
+# Part 7: The Shutdown Sequence
+
+## Monday, June 21, 2004 — 21:15 PM 105 Pepper Street SE
+
+The crash was absolute.
+
+One minute, the living room was a mosh pit of vibrating sisters. The next, it was a field of casualties.
+
+Harper was lying face-down on the carpet, one arm draped over a footstool. Jenna was slumped against the armchair, blinking in slow motion, her mouth slightly open. Sarah was staring blankly at a knot in the wood floor, her glasses sliding down her nose.
+
+Jessica stood over them, hands on her hips.
+
+"Alright, zombies," Jessica announced, clapping her hands once. "We are not sleeping in sticky clothes. Hygiene protocol is active. Teeth and Toilet. Move out."
+
+Harper groaned into the carpet. "Can't move. Bones are melted."
+
+"If you don't move, I'll carry you to the hose in the backyard," Jessica threatened affectionately.
+
+Aunt Linda emerged from the hallway. "I’m taking the hallway bathroom to get my makeup off. It’s occupied for ten minutes."
+
+The hallway bathroom was the only "official" bathroom on the main floor. With Linda inside, that created a bottleneck.
+
+Amanda and Elara (the responsible ones who hadn't overdosed on sugar) stood by the doorway holding their toothbrushes.
+
+"We can wait," Elara said.
+
+Jenna, however, had no patience left. She peeled herself off the armchair.
+
+"I’m not waiting," Jenna slurred. She grabbed her toothbrush from the side table (where she had left it earlier for some reason). "I’m going to the Underworld."
+
+"Me too," Sarah sighed, standing up like an old woman. "Efficiency."
+
+"Wait for me," Harper mumbled, crawling upright.
+
+Freddie watched them shuffle toward the basement door. He stayed firmly planted on the sofa, Paige still resting against his shoulder.
+
+"I will remain at Command," Freddie stated clearly.
+
+He knew the layout. The basement was an open zone. Now that the "Laundry Brigade" had broken the seal on the Pittsburgh Toilet, the girls were treating it like a normal facility.
+
+But Freddie operated on a strict code of chivalry and logic. He was nineteen. They were his younger sisters. And there were no walls down there.
+
+"You aren't going down?" Paige asked, stifling a yawn.
+
+"Negative," Freddie said, adjusting his glasses. "That is currently a restricted zone. I will respect the perimeter."
+
+Paige smiled, squeezing his arm. "Good Captain."
+
+## The Underworld (Basement)
+
+Down in the cool concrete bunker, the "Sugar Crash Squad" went to work.
+
+There was no modesty, only tiredness.
+
+Sarah turned on the faucet of the deep utility sink. It groaned and spat cold water. She and Jenna stood side-by-side, brushing their teeth over the paint-stained drain.
+
+"Move over," Jenna grumbled, spitting foam. "You're hogging the water."
+
+"You have a massive head," Sarah retorted weakly, rinsing her brush.
+
+In the corner, Harper didn't even hesitate. She walked over to the Pittsburgh Toilet—the lonely porcelain throne sitting right next to the furnace.
+
+She pulled down her pajama pants and sat down.
+
+A day ago, she would have died of embarrassment. She would have held it until her bladder exploded rather than go in front of her sisters.
+
+But now? Sarah was spitting toothpaste three feet away. Jenna was splashing water on her face. The dryer was humming.
+
+Harper just sat there, swinging her legs, staring at the exposed pipes on the ceiling.
+
+"Did you see the look on Freddie's face when I tried to hug him?" Harper asked, her voice echoing slightly in the open room. "He looked like he was holding a bomb."
+
+"You were a bomb," Sarah said, wiping her mouth on her sleeve. "You were oscillating at a frequency incompatible with his sensory processing."
+
+"I was just happy," Harper yawned.
+
+She finished, stood up, and flushed. KA-WHOOSH. The sound was deafening in the concrete box.
+
+"My turn," Jenna said, handing Sarah her toothbrush to hold.
+
+Jenna swapped places with Harper. Harper went to the sink to brush her teeth, standing next to Sarah.
+
+They rotated through the stations—sink, toilet, sink—with the efficiency of a pit crew. No doors. No locks. No secrets. Just sisters getting ready for bed in the only way that worked for a family this size.
+

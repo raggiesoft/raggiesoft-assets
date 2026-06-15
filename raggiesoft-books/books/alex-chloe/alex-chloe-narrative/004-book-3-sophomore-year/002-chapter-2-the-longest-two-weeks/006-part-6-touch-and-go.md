@@ -1,0 +1,12 @@
+# Part 6: Touch and Go
+
+Chloé's presence became a crucial, prescribed part of Alex's medical care. The hospital, recognizing the undeniable calming effect she had on his vital signs, bent their rules. She was allowed in for several short, quiet visits a day, always accompanied by one of his parents. But even her presence couldn't stop the progression of the illness.
+
+The next two days were a terrifying descent. Alex's oxygen levels continued to drop, and he was moved to the Pediatric Intensive Care Unit (PICU). The simple oxygen mask was replaced by a high-flow nasal cannula, a more aggressive form of respiratory support. He was weak, barely conscious, his world a feverish, frightening haze.
+
+For the four parents and Chloé, the PICU waiting room became their world. They took turns sleeping in the uncomfortable chairs, living on stale coffee and the grim, terse updates from the doctors. Chloé continued to go to school during the day, her mind a million miles away, the words of her teachers a meaningless drone. She would race to the hospital the moment the final bell rang, the weight of her worry a heavy, physical thing.
+
+The third night in the PICU was the worst. A doctor came out to the waiting room, his face grave. "He's not responding to the antibiotics as we'd hoped," he said, his voice low. "His lungs are filling with fluid. We're doing everything we can, but he's in critical condition. The next twelve hours are crucial."
+
+The words "critical condition" hung in the air, a terrifying, final pronouncement. Chloé felt the floor drop out from under her. She saw Emily Miller let out a choked sob, her body sagging against James. This was it. This was the moment she had been dreading. He was slipping away from them.
+

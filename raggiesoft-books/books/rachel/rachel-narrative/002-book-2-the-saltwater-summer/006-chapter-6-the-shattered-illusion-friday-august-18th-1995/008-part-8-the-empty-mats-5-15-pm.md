@@ -1,0 +1,66 @@
+# Part 8: The Empty Mats – 5:15 PM
+
+The sanctioned, fully permitted dojang in April’s garage was the exact opposite of the harsh, fluorescent purgatory at Tidewater Tumblers.
+
+It was warm. The floor was lined with thick, forgiving foam puzzle mats. The heavy canvas kick shields were stacked neatly in the corner. At twenty-two years old, Master April had built this Friday Open Gym specifically to be a sanctuary. It was an exclusive space just for the kids in the program, a place where the intense, rigid pressure of Master Ray and Master Curtis couldn't reach them. Here, they were allowed to make mistakes. Here, they were treated like her little siblings.
+
+But at 5:15 PM, the meticulous, predictable routine of the class was completely off-balance.
+
+April stood at the edge of the puzzle mats in her crisp, solid midnight blue *dobok*, checking the digital watch on her wrist. The two gold bars embroidered on her belt—denoting her rank as a 4th Dan *Sabomnim*—caught the warm overhead light. Her brow furrowed with genuine concern. Two of her absolute most punctual, routine-oriented students were missing. Michael and Rachel were always early to Open Gym. To them, missing a designated class time was a catastrophic break in their schedule.
+
+Furthermore, Drew—a six-year-old white belt—was also missing.
+
+April tapped her bare foot against the mat, a heavy, unsettling knot forming in her stomach. She walked over to the wall-mounted phone near the garage door and pulled the receiver off the hook. She dialed the Delaney Street house, expecting to hear Ellen’s stressed voice apologizing for a flat tire or a late departure.
+
+The phone rang twice.
+
+"Hello?"
+
+It wasn't Ellen. It was Jessica. And her voice wasn't just stressed; it was a tight, vibrating wire of absolute, lethal fury, completely devoid of its usual pragmatic calm.
+
+"Hey, Jess, it's April," she said, her grip tightening on the receiver. "Class started fifteen minutes ago. I was just checking to see if Michael and Rachel were on their way? It's really unlike them to miss Open Gym."
+
+A heavy, suffocating silence fell over the line.
+
+"They aren't coming to Open Gym, April," Jessica said. The sheer, freezing coldness in the fourteen-year-old's voice sent a physical chill down April's spine. "They are in a double trauma bay at the Children's Hospital."
+
+April stopped breathing. Her eyes widened, instantly scanning the colorful foam mats of her garage as if the floor had suddenly dropped out from under her. "What?! A car accident? Jess, what happened? Are they okay?!"
+
+"They aren't okay," Jessica snapped, her voice finally cracking under the sheer weight of the horror. "Curtis crushed them."
+
+"What do you mean, Curtis crushed them?" April demanded, pure confusion warring with the rising panic.
+
+"He made the class do leg lifts yesterday," Jessica explained, every word dripping with venom. "And while they were on the floor, he walked down the line. He used his full body weight and stepped directly onto their stomachs. He lingered on Rachel just to hurt her. Michael's abdominal fascia is completely torn. Rachel's spleen is bleeding. And little Drew is up in the ICU because his organs were crushed."
+
+The plastic phone receiver slipped in April's hand.
+
+The cognitive dissonance was an absolute, blinding shockwave. April's brain desperately tried to process the physical mechanics of what Jessica had just described.
+
+She knew about the stepping drills. She knew Curtis ran the "Iron Shirt Underground" fight club. She knew he frequently walked across the stomachs of the adult black belts and the adult red belts—both men and women—to test their conditioning. It was a brutal, extreme practice, but it was strictly, implicitly isolated to the adults who actively opted into that underground madness.
+
+To bring that kind of blunt-force trauma onto the children's mats wasn't just breaking a rule; it was a psychotic escalation. Curtis hadn't twisted a standard Dojang warmup. He had taken a lethal, adult-only pain-tolerance ritual and deliberately weaponized it against kindergartners and disabled children.
+
+"He stepped on the kids?" April whispered, the blood completely draining from her face.
+
+He didn't just break the cardinal rule of the dojang by bringing an adult underground fighting technique onto the children's mats. He had weaponized a drill that Michael and Rachel believed was safe. The 2nd Dan instructor, who seethed every time he had to bow to her, had stolen her innovation, stripped away the safety, and used it to brutalize her students.
+
+"Dr. Young called the police," Jessica continued, her voice hardening back into a tactical, protective shield. "Curtis was arrested an hour ago. Janette and I are leaving for the hospital right now."
+
+The line clicked dead.
+
+April slowly lowered the receiver back onto the wall hook. Her hands were shaking violently.
+
+Her analytical brain instantly jumped to Master Ray. Ray was the franchise owner; he was a 3rd Dan and responsible for everything that happened under the Pinnacle Mastery banner. But a second later, the logistical reality of the week clicked into place. Ray wasn't at Tidewater Tumblers on Thursdays or Fridays. He always took the end of the week off, leaving Megan—his college-age assistant—to run the front desk.
+
+Which meant Ray had absolutely no clue. He was likely sitting at home, completely oblivious to the fact that his 2nd Dan enforcer had just hospitalized three children, or that detectives were currently swarming his facility.
+
+April looked out at the bright, safe puzzle mats of her garage. She thought about Michael's rigid, eager attempts to perfect his forms, and Rachel's dark, quiet eyes watching her every move. Jessica wouldn't lie about something like this. It was real.
+
+She looked down at her own solid midnight blue *dobok*. She stared at the gold embroidery of the crest on her chest. Lynnhaven Academy of Seondu. Bounded by the same governing body in Korea as Tidewater Tumblers via Pinnacle Mastery School of Karate.
+
+A hot, blinding wave of disgust surged up her throat. But she didn't take the uniform off. She respected Master Scott, and she respected the traditional Korean lineage too much to discard the *dobok* because of one monster's actions. And more importantly, she had a garage full of kids staring at her right now, waiting for class to start. If she panicked, if she ripped her belt off and started screaming, she would shatter the sanctuary she had built for them.
+
+April closed her eyes, took a deep, shuddering breath, and manually locked her terror away in a vault. She forced a steady, reassuring smile onto her face and turned back to the mats.
+
+"Alright, everyone," April called out, her voice remarkably steady as she stepped back onto the foam. "Let's get lined up. We have a lot of forms to cover today."
+

@@ -1,0 +1,69 @@
+# Part 4: The Newport Fifty – Saturday, August 15, 2066 – 10:00 (Local Eden Time)
+
+Wyatt Colton leaned heavily against the stone archway of the Sanctuary’s main living room, a steaming mug of black coffee warming his scarred hands. He kept his presence quiet, his watchful, deep-set eyes observing the operational dynamic of his family from the perimeter.
+
+Sitting on the oversized leather sofa was sixteen-year-old Jack. The diplomat looked lighter today. The heavy, suffocating tension that had plagued him for the last three months was entirely gone, replaced by the relaxed, grounded posture of a boy who was finally home.
+
+Across from Jack, the Vanguard occupied the center of the room.
+
+At twenty years old, Leo, Nora, and Ellie were undeniably adults, but their operational formation remained as tightly woven as the day they were born. Leo sat in his heavy titanium powerchair, his broad shoulders relaxed.
+
+"Ambassador Vance mentioned that the Earth Remnant is formally opening their orbital university next month," Jack said casually, resting his elbows on his knees. He looked at his older siblings. "The flotilla has some of the best astrophysicists and structural engineers in the Coalition. Since you're all twenty now, I didn't know if... well, if you wanted me to secure you diplomatic transit passes. You could audit a few classes. Expand your perimeter."
+
+Wyatt took a slow sip of his coffee, his chest tightening slightly as he waited for the Vanguard’s response. He had built this entire world to keep them safe, but he also knew they were adults with the right to choose their own coordinates.
+
+Leo didn’t even hesitate.
+
+His spastic hand struck the customized MagnaPad mounted to his lap tray with absolute, echoing finality.
+
+*"Negative,"* Leo’s deep, synthesized baritone voice boomed through the quiet living room. *"The mountain is my perimeter. The sensory matrix of the Coalition fleet is unregulated. I am not leaving the estate."*
+
+Wyatt let out a slow, silent exhale, a profound wave of relief washing over him. He understood his oldest son perfectly. To Leo, the flawless 21.6°C ambient temperature, the specific, muffled hum of the geothermal reactors, and the absolute predictability of the Sanctuary weren't just preferences—they were the neurological armor that allowed him to exist without pain.
+
+Ellie stepped forward, immediately moving to Leo’s left side, while Nora naturally stepped to his right, wrapping her arms securely around his broad shoulders. Ellie leaned down, resting her cheek against the top of Leo's head, entirely abandoning her strict, tactical posture to offer him deep, unconditional physical affection.
+
+"We are staying right here, Leo," Ellie promised softly, her dark eyes fierce with loyalty. "The unit does not separate. Ever."
+
+"We're perfectly happy at home, Jack," Nora added, her breathy voice filled with absolute contentment as she cuddled against her twin brother. "This is where we belong."
+
+Leo let out a loud, vibrating purr of approval, his rigid muscles melting under the crushing, grounding pressure of his sisters. He reached down and slapped his MagnaPad one more time, his dark eyes shifting to Jack.
+
+*"Elena was a logistical error,"* the tablet announced bluntly. *"Good extraction, Jack. The perimeter is secure."*
+
+Wyatt couldn't help the broad, deeply affectionate smile that broke across his scarred face. His sixteen-year-old son was officially the first of the Genesis generation to experience the messy, painful reality of a teenage romance, and he had survived it with his empathy entirely intact.
+
+Before Jack could reply, the heavy pneumatic doors of the elevator hissed open.
+
+Eight-year-old Willow came barreling out, her dark, messy curls flying wildly behind her. She completely bypassed the heavy-lifting drones and the crates of supplies in the hallway, her eyes locked entirely on the couch.
+
+"Jack-Jack!" Willow shrieked, her bright, musical Sydney accent echoing off the stone walls.
+
+She launched herself at the sofa, crashing directly into Jack’s side and wrapping her arms around his torso like a vice. Jack let out a booming laugh, instantly wrapping his arms around her and pulling her onto his lap. To Willow, the geopolitical complexities of the Earth Remnant meant absolutely nothing. Her Jack-Jack was home, he wasn't going back to the moon to see that cold fleet girl, and her universe was perfectly aligned once again.
+
+Wyatt turned his gaze toward the massive bank of security monitors mounted on the far wall. The mountain was humming with life.
+
+On screen four, the Earth Conservatory was a zone of absolute chaos. The rest of Cohort One—the other nine eight-year-olds with their thick Australian accents—were currently attempting to build a massive, structurally dubious treehouse in the branches of the weeping willow, supervised by a deeply amused Molly and Claire.
+
+On screen six, the Sub-Level 2 playroom was a localized hurricane. Cohort Two had just turned three years old. Twenty toddlers were currently swarming the padded floor mats. The sharp, rapid-fire Cockney accents of the children echoed through the audio feed as they babbled and shouted, demanding snacks from the automated dispensing units.
+
+The estate was loud, messy, and infinitely beautiful.
+
+Suddenly, the overhead lighting in the living room shifted to a soft, pulsing blue.
+
+*"Administrator Colton,"* the AI chimed from the ceiling array.
+
+Wyatt paused. The voice wasn't the crisp, neutral American baseline, nor was it the sharp, rhythmic London Cockney that had dominated the nursery for the last three years.
+
+The vowels were distinctively flat. The 'R's at the ends of the words were completely dropped, replaced by a smooth, coastal cadence that instantly transported Wyatt across time and space, pulling a memory of his grandfather's voice from the deep-sea welding rigs of his youth.
+
+*"The biometric stabilizers on Sub-Level 6 are locked in, Wyatt,"* Aria reported, her new Southern New England accent rolling smoothly through the room. *"I'm tellin' ya, it's wicked busy down 'ere. All fifty incubators are green. The water bubblers are primed, the thermal blankets are printed, and the decanting process has officially begun."*
+
+Wyatt set his coffee mug down on the stone counter. His heart hammered a heavy, triumphant rhythm against his ribs. Fifty new lives. Fifty new souls, anchored by the resilient, ocean-faring culture of Newport, Rhode Island.
+
+"Did you hear that, squad?" Wyatt asked, looking at his children.
+
+Ellie immediately straightened up, her tactical mind seamlessly pivoting from devoted sister to planetary commander. Jack set Willow gently on her feet, standing up and smoothing his Henley.
+
+"The third wave is waking up," Wyatt smiled, his voice thick with emotion. "Let's go meet the new neighbors."
+
+

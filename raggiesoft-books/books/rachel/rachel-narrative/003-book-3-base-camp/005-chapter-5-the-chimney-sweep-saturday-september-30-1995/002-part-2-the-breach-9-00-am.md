@@ -1,0 +1,36 @@
+# Part 2: The Breach – 9:00 AM
+
+Mom kissed our foreheads, gave Dad a quick hug, and headed out the door to make her retail shift.
+
+The moment her car pulled out of the driveway, the remaining pack fell into a rigorous, pre-calculated defensive formation. Jessica and Janette dragged their floor mattresses back a few feet, creating a wider physical buffer between the sofa bed and the fireplace. They sat cross-legged, their arms folded tight, transforming from teenage girls into heavily guarded sentinels.
+
+Baby didn't need to be told what to do. The hundred-and-thirty-pound Black Lab stood up, walked directly to the left side of the bed, and wedged his massive body flush against the mattress. He rested his heavy chin right next to Rachel’s hip, turning his dark eyes toward the front door. Under the coffee table, Archie let out a low growl, his blind eye cloudy and his good eye razor-sharp.
+
+At exactly nine o'clock, a heavy panel van pulled into the driveway. The doorbell rang.
+
+"Hold the perimeter," Dad ordered the youth guard, stepping into the foyer.
+
+Dad opened the door. Standing on the porch was a man in heavy canvas coveralls, carrying a massive, industrial shop vacuum and a bundle of long, fiberglass sweeping rods. He was tall, broad-shouldered, and completely unaware of the psychological minefield he was about to step into.
+
+"Morning! Chimney sweep," the man smiled, taking a step forward.
+
+Dad didn't move. He completely blocked the doorway, his massive frame filling the frame.
+
+"Good morning," Dad said, his voice polite but carrying the unmistakable, hardened edge of a bouncer. "Before you come in, I need to explain the rules of the room."
+
+The sweep paused, his smile faltering slightly at Dad's intense posture. "Uh, okay. Sure."
+
+"My children were recently in a severe accident," Dad explained, keeping the details vague but the boundaries absolute. "They are recovering from major internal injuries on a medical bed in the center of the living room. They cannot move. They cannot be startled. And they are completely terrified of adult men."
+
+The sweep’s eyes widened, the casual Saturday morning energy completely evaporating. "Oh, man. I'm so sorry."
+
+"You are going to walk straight to the fireplace," Dad instructed, pointing a finger to map the exact route. "You are not going to look at them, you are not going to talk to them, and you are not going to step off the brick hearth. If you need anything, you ask me. Understood?"
+
+"Yes, sir. Absolutely," the sweep agreed instantly, recognizing the lethal seriousness in Dad's eyes.
+
+"Come on in."
+
+Dad stepped aside, and the sweep walked into the house. As he rounded the corner into the living room, he kept his eyes glued firmly to his own boots. He saw the edges of the medical bed, the girls glaring at him from the floor, and the massive Black Lab baring its teeth in a silent snarl, but he honored his word. He didn't make eye contact. He walked straight to the front wall, set his equipment down on the brick hearth, and immediately got to work.
+
+Dad stepped right up to the edge of the carpet, folding his arms across his chest. He stood exactly where he promised he would—a massive, immovable human shield placed directly between the stranger and our bed.
+

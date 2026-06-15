@@ -1,0 +1,60 @@
+# Part 6: The Woven Stripe – 6:00 PM
+
+The late afternoon sun dipped lower, casting long, comfortable shadows across April’s living room. The heavy, emotional exhaustion of the day was finally giving way to a quiet, profound contentment.
+
+"If you two aren't in a rush to get back to Ellen's," April offered, standing up from her armchair, "I was just about to start cooking dinner. I'd love to make you both a home-cooked meal as an official welcome to the neighborhood."
+
+Rachel's eyes lit up. She bumped her shoulder firmly against my arm, giving me a rapid, enthusiastic nod.
+
+"We would love that, Sabomnim," I smiled, pulling my cell phone from my pocket. "Let me just text Mom so she knows the perimeter is secure and we're staying for dinner."
+
+I quickly typed out the message, letting Mom know we were safe next door with our former instructor.
+
+Over a warm, comforting dinner of roasted chicken and vegetables, the conversation flowed easily, completely devoid of the stressful, neurotypical masking we usually had to deploy around adults. We talked about our upcoming classes at CCHR and the logistics of moving in on Monday.
+
+"And we have some milestones coming up," I added, taking a sip of water. "My birthday is next week. April 8th. I'll be twenty-three."
+
+"And I turn twenty-one on May 25th," Rachel rasped softly, a spark of pride in her dark eyes.
+
+April set her fork down, beaming at both of us. "Twenty-three and twenty-one. I can hardly believe it. Well, we are absolutely celebrating. I wouldn't miss those birthdays for the world."
+
+After the plates were cleared and washed, April grabbed her keys from the counter.
+
+"I actually need to run over to the Academy to do some administrative paperwork tonight," April said, looking back at us. "Would you two like to come with me? You can see the Dojang, and while we're there, I can get your measurements to order your new doboks."
+
+Rachel practically vibrated with excitement. We grabbed our jackets and piled into April's car for the short drive.
+
+When April unlocked the heavy glass doors of the Lynnhaven Academy of Seondu, my nervous system instinctively braced itself. My body still remembered the freezing linoleum, the blinding fluorescent lights, and the heavy, echoing dread of Tidewater Tumblers.
+
+But the moment we stepped inside, my shoulders completely dropped.
+
+It was the anti-Tumblers. The floors were covered wall-to-wall in thick, forgiving, high-quality puzzle mats. The lighting was warm and evenly diffused, completely eliminating the harsh, buzzing glare. There were no massive, intimidating mirrors designed to amplify ego, and no hidden back rooms. The entire space radiated quiet, immovable Tongje—control.
+
+"It's beautiful," Rachel whispered, her hands tracing the edge of a heavy canvas kicking shield stacked neatly in the corner.
+
+"Thank you," April smiled, walking over to her front desk and pulling a soft, flexible tailor's measuring tape from a drawer. "Alright, step up. Let's get you sized for your uniforms."
+
+I stood perfectly still as April measured my shoulders, chest, and leg inseam, jotting the numbers down on a clipboard. She moved to Rachel, executing the measurements with gentle, predictable movements that kept Rachel's sensory alarms completely quiet.
+
+"Now, for the ranks," April said, resting her hands on her hips. "You both left off at Red Belt with a stripe. I am officially ordering you red ttis to match your returning rank."
+
+"Will it have the black tape?" Rachel asked quietly, her brow furrowing slightly at the memory of the cheap electrical tape Master Ray and Master Curtis used to signify belt progression.
+
+April’s expression hardened with a sudden, fierce pride.
+
+"No," April stated, her voice carrying the absolute authority of the Sunhoe Sabomnim. "In my academy, we do not use cheap electrical tape wrapped around the width of a belt. A rank is a commitment. It is earned through blood, sweat, and spirit, and it deserves to be woven into the fabric of your journey."
+
+She walked over to a display case and pulled out a sample belt to show us.
+
+"For striped ranks," April explained, holding the heavy cotton fabric up, "the stripe is a solid white, embroidered cloth thread that runs seamlessly down the entire length of the tti. It becomes a permanent part of the belt. That is how they do it in Seoul, and that is how we do it here."
+
+I stared at the high-quality craftsmanship, a massive wave of validation washing over me. It wasn't a cheap, strip-mall shortcut. It was pure, unadulterated tradition.
+
+"You will start exactly where you left off," April promised, looking back and forth between Rachel and me. Her tone softened, dropping into a protective, medical reality. "I know your internal architecture is permanently changed. I know about the scar tissue in your core, Michael, and the fragility of your spleen, Rachel. Your bodies do not need to be punished anymore. You are safe on my mats."
+
+April stepped forward, resting a warm, anchoring hand on both of our shoulders. Her eyes lit up with a fierce, brilliant spark.
+
+"Then we have an Il-Dan test to prepare for," April declared quietly, making a solemn, unbreakable vow right there in the sanctuary she had built. "No sparring. No physical contact. Just Jeongsin and Tongje. I am going to help you earn your Nam-saek tti exactly as you are."
+
+Rachel reached over and grabbed my hand, squeezing it with bruising force. The trauma of the Dojang was permanently dead. We were going back to the mats, and we were finally going to finish what we started.
+

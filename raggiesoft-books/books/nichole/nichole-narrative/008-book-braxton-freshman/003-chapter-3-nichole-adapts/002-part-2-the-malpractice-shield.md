@@ -1,0 +1,70 @@
+# Part 2: The Malpractice Shield
+
+Date: September 16, 2005
+
+Time: 10:00 AM
+
+Location: The Command Center, Unit 404, The Foundry Lofts
+
+The printer on the desk was still warm from printing the license verification.
+
+Patrick didn't celebrate by going out for pizza. He didn't take the day off. He sat back down at his L-shaped desk and opened a new browser tab.
+
+"Phase Two," Patrick announced. "Fortification."
+
+Nichole rolled her chair closer. She watched him type into the search bar: Professional Liability Insurance for LPNs.
+
+"License isn't enough," Patrick muttered, clicking on a provider link. "A license gives me the right to practice. Insurance gives me the protection to practice."
+
+He pulled up a quote screen for a major carrier. He began filling in his details.
+
+• Profession: Licensed Practical Nurse.
+
+• State: Rhode Island.
+
+• Employment Status: Self-Employed / Private Duty.
+
+He paused at the coverage limits.
+
+• Option A: Basic (\$1 Million / \$3 Million).
+
+• Option B: Enhanced (\$2 Million / \$4 Million).
+
+He didn't hesitate. He clicked Option B.
+
+"Why?" Nichole typed, looking at the premium cost. "\$109.00 / Year."
+
+"Because of the word 'Liability'," Patrick said, swiveling to face her. "Remember Putney? Remember Roosevelt? Their favorite weapon is claiming that my care is 'unsafe' or a 'risk.'"
+
+He pointed to the screen.
+
+"This policy includes 'License Defense Coverage.' That means if a University Housing Director, or a doctor, or a nosy social worker ever tries to report me to the Board of Nursing for 'unprofessional conduct' because I sleep in the same bed as my patient... this insurance pays for a lawyer to defend my license."
+
+He looked at the fine print. Assault Coverage. Deposition Representation. Personal Injury Protection.
+
+"It's a shield, Nikki," Patrick said. "If I'm just a brother, I have to hire a lawyer myself. If I'm an insured nurse, the insurance company sends a shark to protect their asset. I'm making their money fight for us."
+
+He entered his credit card number—the one linked to the 'Bennett Dynamics' business account.
+
+TRANSACTION APPROVED.
+
+POLICY STATUS: ACTIVE.
+
+Patrick hit Print.
+
+A moment later, a document slid out. It was a heavy, official-looking  CERTIFICATE OF INSURANCE. It listed Patrick Bennett, LPN as the insured, with a coverage limit of \$4,000,000.
+
+He picked it up. He punched three holes in it.
+
+He walked over to the binder—the medical chart he had started building. He opened it to the very front, placing the Insurance Certificate right on top of his Nursing License.
+
+"There," Patrick said, snapping the rings shut. "Now I'm not just qualified. I'm indemnified."
+
+Nichole looked at the binder. It looked official. It looked impenetrable.
+
+She tapped her screen.
+
+"BULLETPROOF."
+
+"Yeah," Patrick smiled, patting the cover. "Now let them try to tell us we're a liability."
+

@@ -1,0 +1,60 @@
+# Part 1: The Gravity of Eden – Tuesday, December 5, 2045 – 02:30
+
+For over a week, the medical wing had existed in a state of suspended, heavy anticipation. At thirty-one weeks, the sheer, crushing mass of the triplet pregnancy had pushed Sarah to the absolute limits of human endurance.
+
+Wyatt was asleep on his floor mattress, his arm resting on the cold anti-microbial floor plates so his fingers could stay tangled with Sarah’s where her hand dangled off the edge of the bio-bed.
+
+In the dead of the night, a sudden, sharp gasp shattered the quiet hum of the clinic.
+
+Wyatt was on his feet before his eyes were even fully open. His S.H.O.P. Marine instincts surged, flooding his system with ice-cold adrenaline.
+
+Sarah was clutching the heavy thermal duvet, her dark eyes wide with shock.
+
+"Wyatt," Sarah breathed, her voice tight with a sudden, overwhelming panic. "Something just popped."
+
+Before Wyatt could even reach for the diagnostic monitor, a warm, undeniable rush of clear fluid soaked through the memory-foam mattress beneath her.
+
+*"Administrator,"* Aria’s synthesized voice chimed from the ceiling array, instantly shifting from her ambient standby mode into the crisp, rapid cadence of a trauma surgeon. *"Sensors detect a spontaneous rupture of the primary amniotic membrane. Sarah has entered the first stage of active labor. Fetal heart rates are currently stable, but contractions are commencing."*
+
+The words had barely left the speakers before the first contraction hit.
+
+Sarah let out a tight, agonizing groan, her hands flying to her massive abdomen. Her spine arched off the mattress, and she desperately gasped for air, her face instantly draining of color. Lying at a forty-five-degree angle, the sheer, combined weight of Ellie, Nora, and Leo was pressing directly down on her lungs and her inferior vena cava, completely cutting off her oxygen supply as her uterine muscles violently clamped down.
+
+Wyatt grabbed her hands, his mechanic's brain instantly analyzing the biomechanics of the situation.
+
+"Breathe, Sarah, look at me," Wyatt commanded gently, his deep voice an absolute, unshakeable anchor in the sterile room. He saw how hard her chest was heaving just to pull in a shallow breath. "You're fighting gravity. You're expending too much energy just trying to hold their weight."
+
+"I can't... I can't breathe," Sarah gasped, her fingernails digging painfully into his calloused palms.
+
+Wyatt looked up at the ceiling. "Aria! Lying on her back is completely inefficient for a payload this heavy. She needs her core engaged, but she needs gravity doing the work. What are the safest biomechanical positions for a multiple-gestation delivery?"
+
+*"Doctor Colton, modern obstetric parameters strongly advise against the supine position for severe multiple gestations,"* Aria responded instantly, her data streams flashing across the glass console. *"An upright, seated, or semi-squatting posture will expand the pelvic outlet by up to twenty-eight percent. It utilizes gravity to assist fetal descent and completely relieves the compressive weight on her major abdominal blood vessels, instantly restoring maximum oxygenation."*
+
+"Do it," Wyatt ordered. "Reconfigure the bio-bed. Seated position."
+
+The advanced medical machinery hummed. The massive memory-foam mattress seamlessly began to fold and shift. The lower half dropped down, creating a stable footrest, while the upper half raised to a near ninety-degree angle, transforming the flat bed into a highly ergonomic, upright birthing chair.
+
+Wyatt didn't stay on the floor. He climbed directly onto the wide platform of the bio-bed behind her.
+
+He sat completely flush against her back, wrapping his massive, scarred arms under her armpits and across her chest. He became her living scaffolding, allowing her to lean her entire exhausted, trembling weight back against his rock-solid chest.
+
+"Lean on me," Wyatt murmured directly into her ear, his deep voice vibrating through her spine. "Let me hold the weight. You just focus on the contractions."
+
+Sarah let out a massive, shuddering exhale as the compressive weight finally lifted off her lungs. The color rushed back into her cheeks. Supported entirely by his physical strength, she could finally take a deep, full breath.
+
+"Better," Sarah panted, resting her head back against his shoulder. "That's so much better."
+
+*"Contraction interval is accelerating rapidly,"* Aria warned. The ambient amber lighting in the room instantly snapped to a brilliant, clinical white. *"Transition phase is imminent. Macro Alpha is standing by. Neonatal bassinets are pre-warmed to thirty-six point five degrees Celsius."*
+
+Wyatt looked over Sarah’s shoulder at the foot of the bed. The automated surgical armatures descended smoothly from the ceiling, their sterile, pre-programmed instruments hovering perfectly in place, waiting for his command to assist with the extraction and cord clamping.
+
+Another violent contraction ripped through Sarah’s core, but this time, with Wyatt holding her securely upright, she didn't suffocate. She bore down, letting out a fierce, primal cry of effort that echoed off the brushed-steel doors of the medical bay.
+
+Wyatt held her tight, his dark eyes locked on the telemetry monitor. The three glowing heartbeats were racing, but they were strong.
+
+*"Doctor Colton,"* Aria announced, the digital readout flashing a bright, urgent green. *"Subject A is in position. Crowning has commenced."*
+
+Wyatt braced his boots against the mattress, tightening his protective grip on his wife as the universe fundamentally shifted around them. The blueprints were drawn, the planetary shield was locked, and the waiting was over.
+
+The Vanguard was breaching the perimeter.
+

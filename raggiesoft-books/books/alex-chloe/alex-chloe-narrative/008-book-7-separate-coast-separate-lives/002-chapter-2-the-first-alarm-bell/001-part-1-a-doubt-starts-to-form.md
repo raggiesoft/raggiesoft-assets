@@ -1,0 +1,22 @@
+# Part 1: A Doubt Starts to Form
+
+The invitation had come after their fourth Student Development class. Vera had caught him as he was leaving, her smile bright and conspiratorial. "My mom's visiting her sister out of town for the whole weekend, Alex," she’d said, her voice a low murmur. "The apartment will be completely ours. Why don't you come over tonight? Stay the night. We can order in, watch movies… just be together."
+
+Alex’s heart had done a familiar flip. Spending the entire night with Vera, in her bed. Outwardly, he felt a surge of anticipation; he was looking forward to the physical intimacy, to not being alone. He’d told his parents Vera had invited him for a movie night and that he might stay late, a partial truth they accepted, trusting his judgment as an eighteen-year-old.
+
+Inwardly, as he packed a small overnight bag, a familiar ache surfaced: the "someone" he truly yearned for that profound, easy comfort with was not named Vera Kowalski. It was Chloé Mason.
+
+Later that evening, in Vera’s bedroom, the door closed against the rest of the empty apartment, the air was thick with a practiced intimacy. Vera was attentive, affectionate, her touch confident as she drew him close.
+
+\[Sex Scene Skipped per Safety Guidelines\]
+
+Afterward, as Alex lay beside Vera, the earlier thrill had given way to a hollow echo. Outwardly, he tried to mirror the satisfied sigh Vera let out, to return her sleepy smile as she snuggled against him. He told himself he was happy; he had Vera. This was what having a girlfriend was like, wasn't it?
+
+But inwardly, as he packed a small overnight bag, a familiar, aching counterpoint surfaced. The easy, safe comfort he felt when sharing a bed with Chloé and Megan wasn't a feeling he could summon for Vera. That was a sanctuary. This felt... different.
+
+Later that evening, in Vera’s bedroom, the air was thick with a practiced intimacy. Vera was attentive, affectionate, her touch confident as she drew him close. But after the initial thrill had passed, a hollow echo remained. He tried to mirror the satisfied sigh Vera let out, to return her sleepy smile as she snuggled against him. He told himself he was happy. He had a girlfriend. He wasn't alone. This was what normal felt like, wasn't it?
+
+But the unease, the persistent thrum beneath the surface, grew louder. This wasn't the safe, grounding hug from Megan. This wasn't the profound, soul-deep peace he felt with Chloé. This felt... transactional. Conditional. As if her affection were a currency she was spending, expecting a specific return on her investment.
+
+The internal debate raged. *Stay with Vera. You can't be alone again. Go home. This doesn't feel right.* The two thoughts were at war in his head, a silent, exhausting battle. He looked at Vera, who was now dozing beside him, and the feeling that this was all profoundly, fundamentally wrong finally won. He didn't want to be here. He wanted to go home.
+

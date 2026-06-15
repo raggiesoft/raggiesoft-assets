@@ -1,0 +1,30 @@
+# Part 1: The Last Supper
+
+## Sunday, November 9, 2008 — 13:30 PM Mrs. Rowe's Family Restaurant, Staunton, VA
+
+The silver Horizon Avalon sat in the gravel parking lot, its trunk heavy with Harper’s luggage. Inside the restaurant, the Avery Unit occupied a large corner booth.
+
+This was the fueling stop. The "Last Supper" before deployment.
+
+The table was covered in heavy ceramic plates piled high with fried chicken, mashed potatoes, and green beans. It was comfort food—heavy, warm, and designed to induce a food coma that would dull the anxiety of separation.
+
+"Eat," Jessica commanded, pushing a basket of rolls toward Harper. "Dorm food is an unknown variable. You need a caloric buffer."
+
+Harper picked at a roll. She was wearing her favorite purple hoodie, the hood down, her headphones resting around her neck like a safety collar. She looked small in the booth, sandwiched between Freddie and Paige.
+
+"I'm nervous," Harper admitted, dropping the roll. "What if I get a bad roommate? What if she listens to country music?"
+
+"Then you use your noise-canceling headphones," Freddie said, dipping a fry in gravy. "You have the technology."
+
+"And remember the specs," Jessica added, consulting the intake packet she had memorized. "You're in the PERT block. That means High School age only. You won't be rooming with a 40-year-old welder retraining for a new career. It’s peers only. You are separated from the adult population."
+
+"Peers," Harper muttered. "Great. Teenagers. Even worse."
+
+"You are a teenager," Paige smiled, squeezing her shoulder. "You'll be fine. Just find the other geeks. Look for the people with soldering irons or sketchpads."
+
+"Status check," Aunt Linda said, checking her watch. "Check-in at Barnett Hall starts at 15:00. We have one hour to finish this pie."
+
+"Pie is mandatory," Freddie stated. "Peanut butter cream."
+
+They ate the pie. They drank the sweet tea. They delayed the inevitable for as long as they could, sitting in the warm, noisy restaurant, a family unit holding onto its satellite before the launch.
+

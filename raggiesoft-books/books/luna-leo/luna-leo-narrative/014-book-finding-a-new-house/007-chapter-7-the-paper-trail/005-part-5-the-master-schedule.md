@@ -1,0 +1,80 @@
+# Part 5: The Master Schedule
+
+## August 22, 2006 Braxton State University - The Student Union 02:00 PM
+
+They regrouped at **The Foundry** (the main dining hall in the Union) to compare notes and finalize the rest of the grid.
+
+Stella spread the master schedule out on the table. It was a color-coded spreadsheet she had printed earlier, now covered in pen marks.
+
+"Okay," Stella said. "The anchors are set."
+
+- **Universal Anchor:** **FR-Q 101** (Tues/Thurs 2:00 PM). *Mandatory for everyone.*
+
+- **Luna’s Anchor:** **Wind Symphony** (Mon/Wed/Fri 4:00 PM).
+
+"Now we fill in the gaps," Stella said. "Leo, Engineering is next."
+
+**Leo: The Engineer** Leo pulled up his laptop. He had already hacked his way into the registrar's live database (read-only access, mostly) to see which sections were open.
+
+He needed the "Freshman Engineering Block."
+
+- **Introduction to Structural Analysis:** Mon/Wed/Fri 10:00 AM.
+
+- **Calculus III:** Mon/Wed/Fri 1:00 PM.
+
+- **Physics for Engineers (Lab):** Tuesdays 9:00 AM - 12:00 PM.
+
+He tapped his **Quantum Communicator**.
+
+*"HEAVY LOAD,"* the robotic voice said. *"BUT IT CLEARS THE AFTERNOONS."*
+
+"That works," Stella noted. "You have a gap on M/W/F from 2:00 to 4:00 while Luna is prepping for Symphony. You can hit the library."
+
+*"OR THE MACHINE SHOP,"* Leo corrected. *"I WANT TO USE THE NEW CNC MILLS."*
+
+**Olivia: The Sociologist** Olivia was next. She was transferring into the **College of Arts & Sciences** as a Junior (thanks to her credits from Virginia).
+
+"I need **Social Theory** and **Research Methods**," Olivia said, circling options. "There's a section of Social Theory on M/W/F at 1:00 PM."
+
+"Same time as my Calculus," Leo noted.
+
+"Perfect," Olivia smiled. "We can roll to class together after lunch. And I found a **Urban Sociology** elective on Thursday mornings."
+
+"That leaves you free during Luna's symphony rehearsals," Stella observed.
+
+"Designated 'Leo Time'," Olivia confirmed. "While she blows the flute, we build the robots."
+
+**Stella: The Ghost Student** Finally, Stella. She wasn't here to get a degree; she was here to get an ID card and maintain cover.
+
+"I need six credits to be considered a 'Half-Time Graduate Student' for the Bull Pass," Stella said. "I'm taking **Information Systems Management**."
+
+"When does it meet?" Luna asked.
+
+"Wednesday nights, 6:00 to 9:00 PM," Stella grinned. "One night a week. The rest is online independent study."
+
+"So you're basically free all day?"
+
+"I'm working," Stella corrected. "I'll be in my office at the Fortress billing clients. But yes, I am free to act as 'Ground Control' if anyone needs a rescue."
+
+**The Result** They looked at the grid. It was a masterpiece of logistical engineering.
+
+- **Mornings:** Classes (Leo/Olivia/Luna).
+
+- **Lunch:** Together at The Foundry (12:00 PM).
+
+- **Afternoons (T/Th):** **French Class** (The Family Reunion).
+
+- **Late Afternoons (M/W/F):** Luna in Symphony; Leo/Olivia in Lab/Library.
+
+- **Commute:** They would all take the **5:00 PM** or **6:30 PM** train home together (depending on Luna's rehearsal).
+
+Leo looked at the spreadsheet. It wasn't just a schedule; it was a battle plan. They weren't just attending college; they were occupying it.
+
+*"OPTIMIZED,"* Leo typed.
+
+"Locked," Stella agreed. "Now, let's go buy the textbooks. I hear the Engineering books weigh fifty pounds."
+
+*"THE M.U.L.E. WILL CARRY THEM,"* Leo typed, referencing the bracket system he was already designing in his head.
+
+They packed up and headed for the bookstore, a fully integrated academic unit ready to take on the semester.
+

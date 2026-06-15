@@ -1,0 +1,78 @@
+# Part 1: The Scavenger's Tale – Monday, June 22, 2071 – 14:00 (Local Eden Time)
+
+The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room.
+
+Sloane sat on the edge of the plush leather sofa. She was no longer wearing the scorched, bloody rags she had crashed in. Aria had molecularly printed her a set of comfortable, durable pioneer clothes—canvas pants and a soft, slate-gray Henley. The dark yellow bruising on her cheekbone was barely visible now, her internal injuries fully healed by the medical bay's advanced regeneration cycles.
+
+She looked small, vulnerable, and incredibly brave.
+
+Sitting directly beside her, serving as both her diplomatic liaison and her personal anchor, was twenty-one-year-old Jack. He sat with his broad shoulders angled toward her, radiating a quiet, steadying warmth.
+
+Standing on the opposite side of the massive holographic glass table was the Commander.
+
+Twenty-five-year-old Ellie Colton didn't sit. She stood with her boots planted firmly on the polished stone, her arms crossed over her tailored tactical vest. Her dark, calculating eyes were locked entirely onto the refugee.
+
+Flanking Ellie, standing shoulder-to-shoulder with identical, razor-sharp focus, were nineteen-year-old Molly and Claire. The twin scholars weren't taking notes on datapads; they were cataloging every micro-expression, every shift in vocal pitch, and every physical tell Sloane offered.
+
+"The medical quarantine is lifted," Ellie stated, her voice crisp, authoritative, and entirely devoid of Jack's natural warmth. "Which means it is time for the operational debrief. Who are you, Sloane? And how exactly did you find this system?"
+
+Sloane took a slow, shaky breath. She looked down at her hands, her fingers trembling slightly. Jack immediately reached out, covering her hands with his own to steady her. She shot him a fragile, infinitely grateful smile before looking back at Ellie.
+
+"I don't have a home world," Sloane began, her voice quiet but steadying as she found her rhythm. "My parents were independent traders. Nomads. We lived on the ship, jumping from rim-world to rim-world, scavenging derelict freighters and trading scrap for rations. When they... when they passed away a few years ago, I just kept flying. It was the only life I knew."
+
+Jack’s empathetic heart ached. He gently squeezed her hands. He had grown up surrounded by a massive, fiercely devoted family. The thought of drifting through the cold vacuum of space entirely alone was a nightmare he couldn't even fathom.
+
+"Six days ago, I was scavenging an asteroid belt in the deep Corvus sector," Sloane continued, her breathing growing slightly shallower as she acted out the trauma. "A pirate cutter dropped out of stealth. They didn't even hail me. They just opened fire. I dumped all auxiliary power to the thrusters and initiated a blind sub-light jump."
+
+"A blind jump," Ellie repeated, her dark eyes narrowing slightly.
+
+"Yes," Sloane nodded earnestly. "I didn't have time to calculate the vectors. I just pushed the throttles forward. The nav-computer took the brunt of a kinetic hit right as we jumped. The ship drifted for days. The life-support was failing, and I was starving. When the engines finally died, I dropped out of transit right on the edge of your system. I saw the moon, locked the distress beacon on a loop, and prayed."
+
+It was a harrowing, completely sympathetic story of survival against impossible odds. Jack looked at Ellie, silently urging his sister to wrap up the interrogation and grant the poor girl some peace.
+
+But Ellie didn't drop her tactical posture. Her brilliant, rigidly structured mind snagged on the logistics.
+
+"Aria," Ellie commanded without taking her eyes off Sloane. "Display the salvage telemetry from Anchor's defense grid."
+
+The glass table flared to life, projecting a glowing blue, three-dimensional wireframe of Sloane's wrecked ship.
+
+"You claim you were a destitute scavenger," Ellie noted, pointing a rigid finger at the holographic engine block. "But your ship was outfitted with a Class-4 military-grade ion manifold. That is a highly restricted, incredibly expensive piece of propulsion hardware. If you were trading scrap for rations, how did you afford a drive core that could outrun a pirate cutter?"
+
+Sloane didn't flinch. Her dark eyes met Ellie's with a perfectly calibrated look of earnest desperation.
+
+"I didn't buy it, Commander," Sloane answered smoothly, her voice laced with a touch of defensive pride. "I salvaged it. I found it in a wrecked corporate transport near the edge of the Perseus arm two years ago. I spent six months retrofitting it into my hull by hand. I'm a scavenger. I know how to fix things."
+
+Molly and Claire exchanged a perfectly synchronized, silent glance.
+
+"The mechanical aptitude required to integrate a Class-4 manifold into a civilian chassis without triggering a localized plasma cascade is highly advanced," Claire observed smoothly, her tone polite but analytical.
+
+"It indicates a specialized, potentially formal education in aerospace engineering," Molly added, her identical dark eyes unblinking. "Not standard trial-and-error scavenging."
+
+Sloane swallowed hard, shrinking back slightly against the leather sofa. She looked at Jack, her eyes wide and pleading.
+
+Jack immediately stepped in. His diplomatic instincts flared, throwing a protective shield over the terrified girl.
+
+"She survived by adapting, Molly," Jack said, his melodic voice firming up as he looked at his sisters. "When you live on the fringes, you learn how to keep your ship flying or you die. It's a trauma response, not a corporate conspiracy. She’s telling the truth."
+
+Ellie looked at Jack. She saw the absolute, uncompromising empathy radiating from her brother. He had already completely adopted Sloane into his perimeter of care. If Ellie pushed too hard, she wouldn't break the refugee; she would just fracture her relationship with her Logistics Officer.
+
+Ellie looked back at the holographic ship. The story had holes. The logistics of the military-grade engine and the exact coordinates of her blind jump were slightly too convenient. But without a transponder code to verify against the Earth Remnant databases, she couldn't definitively prove it was a lie.
+
+The Commander weighed the tactical risk. Keeping her locked in the medical bay indefinitely was inhumane, and kicking her back into space was a violation of the Colton family's moral code.
+
+Ellie tapped the glass table, dissolving the hologram.
+
+"Your story is accepted, Sloane," Ellie declared, her voice dropping into the absolute, unshakeable authority of the planetary ruler. "You are officially granted Level-1 Civilian Asylum on Planet Eden."
+
+Sloane let out a massive, shuddering breath, her hands flying to her mouth as tears of pure, unadulterated relief spilled down her cheeks. "Thank you. Oh my god, thank you, Commander."
+
+"But there are parameters," Ellie continued sharply, raising a finger. "You are restricted to the village of Genesis in the valley below. You will be housed in Guest Cabin Four. You will be provided with clothing, food, and basic necessities. However, you are strictly forbidden from entering the mountain estate or accessing the upper plateaus without a direct, authorized escort. Do you understand the rules of engagement?"
+
+"I understand," Sloane nodded fervently, wiping her eyes. "I will follow every rule. I just want to be safe."
+
+"Then you will be," Jack smiled broadly, wrapping his arm around her shoulders in a fierce, congratulatory hug.
+
+Sloane hugged him back tightly, burying her face into the crook of his neck. As she held him, surrounded by the warmth of his incredible empathy and the absolute security of the most heavily fortified planet in the galaxy, she closed her eyes.
+
+She had done it. She had survived the interrogation. The Commander was skeptical, and those creepy twin sisters were definitely going to be a problem, but Jack was already entirely hers. She had secured her foothold, and she had absolutely no intention of ever letting it go.
+

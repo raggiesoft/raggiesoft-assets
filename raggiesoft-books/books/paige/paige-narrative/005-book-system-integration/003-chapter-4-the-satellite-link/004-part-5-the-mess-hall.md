@@ -1,0 +1,114 @@
+# Part 5: The Mess Hall
+
+## Saturday, July 21, 2007 — 12:30 PM 105 Pepper Street SE, Christiansburg, VA
+
+The "Decoy" bedroom was left behind, its door clicked shut on a life they didn't live.
+
+The Avery Unit—now expanded to a platoon of nine—migrated back to the main living area. The house was small, but the energy was expansive.
+
+"Change of plans," Jessica announced, stepping into the kitchen and tying her hair back. "Pizza is cancelled. We have a full kitchen, we have a grocery stockpile in the garage, and we have Aunt Linda. We are cooking."
+
+"Home cooked?" Aunt Linda asked, her eyes lighting up behind her sunglasses. "Now you're speaking my language. What's the inventory?"
+
+"Pasta," Jessica said, opening the pantry. "We have ten pounds of spaghetti, three jars of sauce, and I think Sarah bought a bag of frozen meatballs the size of a pillowcase."
+
+"I did," Sarah confirmed from the hallway. "Cost-per-unit analysis favored bulk purchase."
+
+"Spaghetti it is," Linda declared, tossing her purse onto the counter. She washed her hands at the sink, the bracelets on her wrists jangling. "I'll make the garlic bread. You handle the noodles. Let's feed this army."
+
+## 13:00 PM — The Kitchen
+
+The kitchen of 105 Pepper Street transformed into a high-efficiency production line.
+
+Jessica stood at the stove, managing two massive pots of boiling water. The steam rose around her, humid and smelling of starch.
+
+Aunt Linda owned the oven. She was slicing loaves of French bread, slathering them with butter and garlic powder with a speed that blurred the eye.
+
+"So," Linda chatted over the sizzling of the garlic. "Radford is nice. It’s quiet. The river is right there. I think the girls are going to like the schools."
+
+"The schools are good," Jessica agreed, stirring the sauce. "And the transit link is solid. They can take the bus here after school if they want."
+
+"Oh, they'll want to," Linda laughed. "Harper is already obsessed with that lift."
+
+In the dining room—a small nook adjacent to the kitchen —the logistics of seating nine people were being solved by the twins.
+
+"The table seats four," Sarah analyzed, looking at the small wooden rectangle. "We have nine units."
+
+"Expansion protocol," Jenna said. She ran to the Ops Room (Bedroom 2) and dragged out the desk chairs. "We pull the table away from the wall. We add the chairs. We put the stools from the island at the ends."
+
+"It will be tight," Freddie noted, parking The Rover at the head of the table. He locked his brakes. "Elbow clearance will be minimal."
+
+"We like tight," Paige smiled, squeezing a chair in next to him.
+
+The atmosphere was chaotic, but it wasn't the jagged, scary chaos of the outside world. It was the warm, rhythmic chaos of family.
+
+Harper was in the living room, showing Elara and Amanda how to hook up her MP3 player to the TV’s auxiliary input (a trick she figured out in five minutes).
+
+Freddie watched them.
+
+He saw Amanda swaying to the music, holding her grey stone. He saw Elara talking to Jenna about anime. He saw Harper laughing.
+
+"Noise levels," Paige whispered, leaning over Freddie’s shoulder. "You okay?"
+
+Freddie closed his eyes for a second. He listened to the clatter of pots, the laughter of his sisters, the sizzling of garlic bread.
+
+It was loud. It was crowded.
+
+"It is... harmonious," Freddie decided. "Signal-to-noise ratio is acceptable."
+
+## 13:45 PM — The Feast
+
+"Order up!" Jessica shouted.
+
+She carried a massive serving bowl of spaghetti to the table. Steam curled off the mountain of pasta.
+
+Linda followed with a platter of meatballs and a basket of garlic bread that was stacked like Jenga blocks.
+
+They squeezed in.
+
+Freddie sat at the head. Paige was on his right, Jessica on his left (the standard flank). Sarah and Jenna took the corners. Aunt Linda sat at the other end, acting as the rear guard, with Harper, Amanda, and Elara filling the gaps.
+
+Legs bumped under the table. Elbows knocked together. There was zero personal space.
+
+"Okay," Aunt Linda said, raising a glass of iced tea. "A toast."
+
+Everyone raised their glasses—soda, water, tea.
+
+"To the Valley," Linda said, her voice thick with emotion. "To Marge, for giving us the Base. And to the Unit... fully assembled."
+
+"To the Unit," eight voices echoed.
+
+"To the Unit," Amanda hummed, tapping her glass.
+
+They ate.
+
+It wasn't a fancy meal. It was jarred sauce and frozen meatballs. But to Freddie, eating his spaghetti while surrounded by every single person he loved, it tasted like victory.
+
+He looked at Harper, who was trying to balance a meatball on her fork while talking with her hands.
+
+He looked at Amanda, who was eating methodically, one noodle at a time.
+
+He looked at Elara, who was listening to Jenna explain the server architecture.
+
+They were safe. They weren't in Norfolk. They weren't under Ellen’s roof.
+
+They were here, in the mountains, eating pasta in a house that cost a dollar.
+
+"Status," Freddie whispered to himself, wiping sauce from his lip. "Maximum capacity."
+
+"Hey," Harper called out from down the table. "This sauce is good. But you know what would make it better?"
+
+"What?" Jessica asked.
+
+"If we ate it in the basement," Harper grinned. "On the Mega-Bed."
+
+"Don't push your luck, kid," Linda laughed. "We eat at the table. We're civilized."
+
+"For now," Jenna muttered.
+
+Freddie smiled. He looked at the window. The sun was shining on the Blue Ridge Mountains.
+
+The satellites were in orbit. The core was stable.
+
+The system was finally, perfectly integrated.
+

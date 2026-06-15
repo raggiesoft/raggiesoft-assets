@@ -1,0 +1,14 @@
+# Part 4: Arrival in the Steel City
+
+The ARTS *Pennsylvanian* arrived at Pittsburgh's Union Station just after 8 PM, pulling into the city under a sky streaked with the last vestiges of sunset. The journey through the Allegheny Mountains had been a quiet, awe-inspiring experience, but the long day of travel had left the fortress four feeling weary and ready to settle in for the night.
+
+Disembarking from the train, they were met with the cool evening air of a new city. The station was smaller and less chaotic than the grand terminals of D.C. and Philadelphia, which was a welcome relief.
+
+"Okay, team," Stella said, consulting her notes under the dim platform lights. "Hotel is a short bus ride away. We need to find the stop for the Three Rivers Transit Authority."
+
+With the practiced ease of seasoned travelers, they navigated their way out of the station and found the correct bus stop. A 3RTA bus arrived a few minutes later, its interior bright and warm. The driver was friendly and patient, giving them plenty of time to get Leo's chair situated and secured.
+
+The bus ride was a short but fascinating tour of a city completely different from any they had seen so far. Pittsburgh was a city of hills, bridges, and rivers. The bus crossed a massive steel bridge, and through the window, they could see the city's downtown skyline lit up, its lights twinkling and reflecting on the dark waters of the river below.
+
+They arrived at their hotel, another well-researched, accessible choice by Stella, feeling a deep sense of accomplishment. They had successfully completed another multi-stage, all-day journey. They were tired, but they were together, a small, unbreakable fortress ready to explore a new corner of the country.
+

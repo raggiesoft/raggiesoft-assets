@@ -1,0 +1,68 @@
+# Part 4: The Physics of the Lift – 10:20 AM
+
+The fifteen-minute brain break was winding down when the heavy wooden door to the kitchen swung open again. Uncle Jim stepped into the living room, wiping his hands on his jeans.
+
+"Alright, crew," Jim announced gently, his voice a low, steady rumble. "Let's get the bathroom rotation done before you have to get back to the books."
+
+Mrs. Higgins stepped into the archway right behind him, holding a ceramic mug of coffee. She didn't walk back to her oak chair just yet. She stood near the edge of the hallway, her professional curiosity shifting into quiet observation. She had read the IEP addendums. She knew we were confined to the mattress. But reading about a rigid medical protocol and actually watching it be executed were two entirely different things.
+
+Jim didn't rush. He walked over to the left side of the sofa bed and dropped to one knee, putting himself perfectly at Rachel’s eye level.
+
+"Ready, sweetheart?" Jim asked.
+
+Rachel squeezed her eyes shut, took a shallow sip of air, and gave a tiny nod.
+
+Jim slid one thick arm beneath her knees and the other directly under her shoulder blades, bypassing her bruised ribs entirely. He lifted her in a smooth, flawless motion, pulling her back completely flush against his chest to lock her spine into place.
+
+From her spot in the archway, Mrs. Higgins watched the maneuver. The steam stopped rising from her coffee mug as she held it perfectly still.
+
+While Jim carefully navigated the hallway with Rachel, Janette immediately sprang up from the floor. She grabbed the heavy medical wedge and swiftly positioned it back onto the left side of the sofa bed, smoothing the quilt over it so the forty-five-degree incline was perfectly ready for Rachel's return.
+
+Mrs. Higgins saw the way Rachel’s face went completely pale, her jaw clamped tight to suppress a whimper as gravity pulled at her swollen spleen. She saw the agonizingly slow, calculated, heel-to-toe steps Jim had to take down the hallway so he wouldn't jostle her. She watched the teenage cousin silently executing clinical prep work on the mattress. It wasn't just a child being carried. It was a high-stakes medical transfer.
+
+The veteran teacher realized, with sudden and absolute clarity, the terrifying physics of what we were surviving. A single slip, a sudden twist, or a misplaced hand meant an immediate trip to the emergency room.
+
+Five minutes later, Jim carried Rachel back, slowly and meticulously lowering her onto the prepped foam wedge until her weight was fully supported. Rachel let out a long, shuddering breath, her small hands instantly grabbing the edges of her quilt to ground herself.
+
+Jim walked around the foot of the bed to my side.
+
+"Your turn, buddy," Jim said.
+
+"Okay," I croaked.
+
+Jim slid his arms under me. When he lifted my dead weight, the sudden shift in gravity violently engaged my core. A hot, tearing sensation ripped across the torn fascia in my stomach, pulling hard against the thick canvas of the medical binder. I bit the inside of my cheek, letting out a sharp hiss through my teeth, completely unable to hide the pain.
+
+As Jim carried me out of the living room and down the hall, Jessica mirrored Janette’s silent efficiency. She retrieved my foam wedge from the carpet and locked it securely into place on the right side of the mattress.
+
+Mrs. Higgins didn't say a word. She just watched the flawless, synchronized routine of our family, her expression sobering into one of profound, heavy respect. By the time Jim brought me back and gently laid me against my wedge, I was completely out of breath, my forehead damp with a cold sweat.
+
+"Good job, base camp," Jim murmured, giving my shoulder a light tap before retreating back to the kitchen to give the tutor the floor.
+
+Mrs. Higgins walked back to her heavy oak chair and sat down. She set her coffee mug on the coffee table. The polite, assessing distance of the first hour was gone, replaced by a deep, protective understanding of her students' physical reality. She knew now that just sitting here was taking every ounce of endurance we possessed.
+
+"Alright," Mrs. Higgins said, her voice noticeably softer, but still carrying the structured authority of a classroom. "Let's switch gears. We are going to move to Reading Comprehension."
+
+With the learning officially resuming, the teenage guard duty seamlessly transitioned back to standby. Jessica and Janette returned to their floor mattresses, sitting cross-legged, perfectly quiet, and fiercely vigilant.
+
+Mrs. Higgins reached into her canvas tote bag and pulled out two new manila folders, passing the packets to us with the exact same slow, telegraphed movements Jim used.
+
+"Michael, for fifth grade, we focus heavily on reading aloud for pacing and inflection, followed by critical thinking questions," Mrs. Higgins explained. "I want you to read the first three paragraphs of the passage on page one out loud. Take your time. If it hurts your stomach to speak loudly, you just whisper it. I can hear you."
+
+I looked down at the passage. It was a short historical text about the Wright Brothers. I took a shallow breath, careful not to expand my diaphragm too far, and began to read. My voice was raspy and quiet, but Mrs. Higgins simply leaned forward slightly, giving me her full attention without making me strain.
+
+When I finished the section, she nodded approvingly. "Very good pacing, Michael. Now, answer the three questions below it on your own."
+
+She then turned her attention across the pillow wall to Rachel.
+
+"Rachel, third grade reading comprehension is about identifying the main idea and context clues," Mrs. Higgins instructed smoothly. "Your passage is about the life cycle of a butterfly. I want you to read the first page silently to yourself."
+
+Rachel looked at the packet, then looked at the teacher. She nodded and began to read, her eyes tracking slowly across the wide-ruled text.
+
+"When you are finished reading," Mrs. Higgins continued, adhering flawlessly to the Zero Reaction protocol, "there are five multiple-choice questions. Because of the angle of your lap desk, you don't have to write the letters if it hurts to bear down on the pencil. You can simply point to the correct answer, and I will circle it in red pen for you."
+
+Rachel’s eyes widened slightly in relief. Minimizing physical movement was the greatest accommodation anyone could offer.
+
+For the next forty-five minutes, the living room transformed completely into a classroom. I read aloud, answering questions about aerodynamics and history, while Rachel read silently, occasionally reaching her pale finger out to tap the letters A, B, or C on her packet. Every time she tapped, Mrs. Higgins simply leaned forward, marked it with her red pen, and moved to the next question without a single word of unnecessary praise or pressure.
+
+The adults had locked the perimeter, Jim had handled the agonizing physical reality of the lifts, and Mrs. Higgins had successfully bridged the gap to the outside world. The third grade and the fifth grade were officially in session.
+

@@ -1,0 +1,70 @@
+# Part 9: The Realization
+
+## Date: October 12, 2004 Time: 8:15 AM Location: Exam Room 3
+
+The exam was over. The prescription paper was tucked safely into Patrick’s pocket.
+
+Patrick unlocked the brakes on the exam table to transfer Nichole back to her chair. He moved with his usual fluid grace—a scoop lift that felt secure, not controlling.
+
+As he settled her into the *Titan AeroMotion*, Nichole didn't immediately signal to leave.
+
+She sat there, her hands gripping the armrests. The burning in her hip was still there, but her mind had drifted back to the waiting room.
+
+She closed her eyes and saw the man’s face. She heard his voice booming off the walls. *Property.*
+
+She remembered the way he had grabbed the woman’s arm. The way he had tried to bulldoze through the nurse.
+
+And then she remembered Patrick.
+
+She remembered him sitting quietly in the chair, reading a magazine, refusing to cross the line even when she was begging him to.
+
+At the time, she had felt abandoned. Now, she felt protected.
+
+She realized that by staying seated, Patrick hadn't just been following a rule. He had been proving a point. He had been proving that he was nothing like that man.
+
+She reached for her *Apex ConvertiBook*. She needed to say it.
+
+"THAT. MAN. WAS. SCARY."
+
+Dr. Lin, who was washing her hands at the sink, paused. She turned around, her expression serious.
+
+"Yes," Dr. Lin said. "He was."
+
+Nichole looked at Patrick. She typed again.
+
+"YOU. STAYED. IN. THE. CHAIR."
+
+Patrick nodded, kneeling down to adjust her footrest. "I did."
+
+"GOOD."
+
+She hit the space bar.
+
+"I. GET. IT. NOW. THE. RULES. STOP. THE. MONSTERS."
+
+Patrick stopped adjusting the strap. He looked up at her.
+
+"Exactly, Nikki," Patrick whispered. "The rules aren't there to keep me away from you. They're there to keep *him* away from *her*."
+
+He rested his hand on her knee.
+
+"That's why I wait. Every single time. So the doctors know the difference between a Guardian and an Owner."
+
+Nichole looked at Dr. Lin. The doctor was watching them with a soft, sad smile.
+
+"We have security handling the situation in the lobby," Dr. Lin assured them. "The woman is safe. We have protocols for this exact scenario."
+
+Nichole nodded. She felt a surge of gratitude for the nurses who had stood their ground.
+
+She looked back at her brother. Her Safe Person.
+
+He hadn't fought the system; he had let the system work, and in doing so, he had kept them both safe.
+
+She tapped her armrest twice. *Ready.*
+
+"Let's go to the pharmacy," Patrick said, standing up and grabbing the push handles. "And then let's get you home."
+
+They rolled out of the exam room. As they passed through the waiting room, the angry man was gone. The quiet hum of the hospital had returned.
+
+Nichole didn't look for the man. She just watched Patrick’s hands on her chair, guiding her smoothly toward the exit, grateful for the silence, the safety, and the rules that kept them that way.
+

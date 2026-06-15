@@ -1,0 +1,70 @@
+# Part 10: The Chariot – Sunday, June 18, 2045 – 12:30
+
+The last drop of the clear, life-saving IV fluid finally emptied from the sterile bag.
+
+Sarah let out a soft, contented sigh, the horrible, spinning nausea completely banished from her system. The crushing fatigue remained, but the antiemetics and the hydration had worked a miracle, leaving her feeling human again.
+
+Wyatt expertly removed the needle from the crook of her arm, pressing a small, round bandage over the site.
+
+"All done," Wyatt murmured, dropping the empty tubing into a medical disposal bin. He turned back to the bio-bed and slid his arms under her knees and behind her back.
+
+"Wyatt, I feel much better," Sarah protested weakly, though she didn't make a single move to stop him. "I can walk to the elevator."
+
+"Not a chance," Wyatt replied, effortlessly scooping her up from the memory-foam mattress and holding her securely against his chest. "You are officially on bed rest. That means you rest. I am your legs until further notice."
+
+Sarah rested her head against his shoulder, too exhausted to actually argue. She let him carry her out of the medical wing, into the pneumatic elevator, and up to the main residential level.
+
+He didn't stop in the living room or the kitchen. He carried her straight down the wide, softly illuminated stone corridor and into the master suite.
+
+He gently deposited her into the exact center of the massive Alaskan King bed, immediately pulling the heavy, plush duvets up over her legs. He arranged a mountain of pillows behind her back so she was comfortably propped up, able to look out the floor-to-ceiling hydro-glass window at the drying, sunlit valley.
+
+"Comfortable?" Wyatt asked, leaning over her.
+
+"I'm perfect," Sarah smiled, reaching up to stroke his cheek.
+
+"Good. Don't move," Wyatt ordered playfully. "I'll be right back."
+
+He disappeared from the master suite. Sarah closed her eyes, sinking into the absolute luxury of the massive bed. For ten minutes, the only sound was the soft, ambient hum of the estate's climate control.
+
+When Wyatt returned, she heard the soft, frictionless whir of perfectly oiled wheels gliding across the stone floor.
+
+Sarah opened her eyes. Wyatt was walking into the bedroom pushing a sleek, high-tech manual wheelchair.
+
+It wasn't a clunky, hospital-issue relic. It was a beautiful piece of 2044-era medical engineering, forged from lightweight brushed aluminum and lined with the same dark, breathable memory-foam as the diagnostic bio-beds. It featured wide, cambered wheels for perfect stability and padded lateral supports.
+
+Wyatt parked it right next to the edge of the mattress and locked the brakes with a satisfying click.
+
+Sarah looked at the chair, and then up at Wyatt, her brow furrowing in amusement.
+
+"Wyatt, the estate is huge, but I don't think I need a wheelchair," Sarah laughed softly. "I'm pregnant, not injured. If I just take it slow—"
+
+"Sarah," Wyatt interrupted gently, sitting on the edge of the mattress and taking her hand. "The kitchen is a quarter-mile walk down the east corridor. The library is in the opposite direction. If you try to walk this massive estate while your body is redlining to build three babies, you are going to exhaust yourself before you even reach the sofa."
+
+He looked at the sleek aluminum chair, his mechanic's brain entirely satisfied with its construction.
+
+"The billionaire designed this estate with zero thresholds," Wyatt explained, pointing toward the open door. "The floors are perfectly smooth polished stone, and every single door opens automatically on proximity sensors. The entire mountain is fully accessible. If you want to go to the conservatory to check on the plants, or go to the library to study, you don't have to burn a single calorie to get there. You just sit down, and I push you."
+
+Sarah looked at the chair again. The sheer logic of it was undeniable.
+
+If she was confined strictly to this bed for the next few months, she would go completely stir-crazy. The chair wasn't a restriction; it was a passport to the rest of the estate while honoring the physical toll her body was taking.
+
+"Okay," Sarah smiled, a profound wave of affection washing over her. "Let's take it for a test drive."
+
+Wyatt beamed. He helped her slide to the edge of the bed, supporting her waist as she transitioned seamlessly into the chair.
+
+The memory-foam instantly molded to her shape, offering incredible lumbar support. Wyatt flipped the footrests down, gently placing her bare feet onto the textured plates.
+
+He stepped behind the chair, gripping the ergonomic push-handles. He disengaged the brakes and effortlessly turned the chair toward the door.
+
+The glide was incredibly smooth. They rolled out of the master suite and down the long corridor. Wyatt pushed her with a steady, protective ease, completely unbothered by the effort. The heavy timber doors of the library sensed their approach and parted silently, allowing Wyatt to roll her right up to the edge of the holographic glass table without a single bump or snag.
+
+"It's like floating," Sarah breathed, resting her hands on the padded armrests as she looked around the mahogany room from her new vantage point.
+
+"I told you," Wyatt grinned, walking around to the front of the chair and leaning down to press a kiss to her forehead. "You're the Queen of Eden. You shouldn't have to walk anyway. Wherever you need to go, I've got you."
+
+Sarah looked up at him, entirely overwhelmed by his quiet, unwavering dedication. He wasn't just willing to provide for her; he was entirely ready to become an extension of her own mobility, ensuring she never felt isolated or trapped by her physical limitations.
+
+"Thank you, Wyatt," she whispered, her eyes shining.
+
+"Anytime, Mrs. Colton," Wyatt replied, turning the chair smoothly back toward the hallway. "Now, let's roll you into the kitchen. I think the babies are demanding a grilled cheese sandwich."
+

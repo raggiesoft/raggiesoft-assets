@@ -1,0 +1,72 @@
+# Part 3: The Interrogation – 10:30 AM
+
+By ten o'clock in the morning, the exhausting reality of our new limitations had thoroughly set in. The grueling logistics of eating and the bathroom routine had left our bodies throbbing.
+
+To distract us, Jessica had taken command of the television. She crouched in front of the VCR, sliding a heavy black tape into the deck with a satisfying mechanical clunk. It was my favorite animated movie—a massive, epic blockbuster produced by Majestic Studios called *The Lion's Heir*.
+
+As the animated red sun crested over the African savanna and the booming vocal chant of "The Rhythm of the Earth" filled the living room, I reached my left hand over the three-pillow barrier. Rachel met me halfway, locking her fingers through mine.
+
+Just as the opening title card slammed onto the television, the front door of the house clicked open.
+
+Grandma Loretta walked in first, her face lined with a mixture of profound exhaustion and simmering fury. Right behind her was Mom’s sister, Aunt Janet, carrying a heavy canvas duffel bag over her shoulder. Trailing behind the adults were Janette’s two younger sisters: Maria, who was exactly my age, and Katherine, who was Rachel’s age.
+
+"We brought reinforcements," Aunt Janet announced softly, dropping the heavy duffel bag near Janette’s twin mattress on the floor. "And a week's worth of clothes for Janette."
+
+Grandma Loretta walked slowly around the edge of the sofa bed, her eyes filling with tears as she took in the medical binder around my waist and the dark bruising on Rachel's chest. "Oh, my sweet babies," she whispered, keeping a respectful distance.
+
+Aunt Janet stepped up next to the bed. She looked down at Rachel, her expression softening with a well-meaning but fundamentally flawed assumption.
+
+Aunt Janet had been the one driving the carpool on Tuesday. She had been the very first adult family member to hear Rachel’s voice when Rachel climbed into the backseat and called Master Curtis "mean." To Aunt Janet, Rachel speaking was a beautiful breakthrough. But to Rachel, that single word was the exact reason a two-hundred-pound man had tried to crush her to death.
+
+"Hi, sweetheart," Aunt Janet cooed gently, leaning over the edge of the mattress. "How are you feeling today?"
+
+Rachel froze. The invisible vault door in her mind instantly slammed shut. She shrank back against her foam wedge, her eyes darting away from her aunt and locking onto the television screen.
+
+"It's okay, Rachel," Aunt Janet pressed, her voice taking on a coaxing, encouraging tone. She didn't understand the trauma. She thought Rachel was just being shy again. "You can talk to me. Remember Tuesday in the car? I know you have that beautiful voice in there. Can you say hi to Maria and Katherine?"
+
+I felt Rachel’s grip on my hand turn white-knuckled.
+
+The panic was immediate and absolute. Rachel’s breathing hitched, turning into rapid, shallow gasps. Her eyes went wide with pure terror. Beneath the blankets, I felt her knees twitch, her body instinctively trying to pull into a tight, protective fetal curl to shield her stomach from the adult demanding her voice.
+
+*If she curls her knees to her chest, she'll pop her spleen!* The doctor's terrified shout from the hospital echoed in my head. A meltdown was physically lethal.
+
+"Stop it, Aunt Janet," I snapped, my voice sharp and uncharacteristically loud, cutting right through the music of the television.
+
+Aunt Janet blinked, startled by my tone. "Michael, I'm just trying to get her to—"
+
+"I said stop!" I yelled, my heart hammering against my own torn fascia as I squeezed Rachel's hand, trying to ground her. "You're scaring her! Leave her alone!"
+
+Jessica and Janette were on their feet in a microsecond. They didn't care that Aunt Janet was an adult or Janette's own mother. The pack moved as one. Jessica stepped directly between Aunt Janet and the left side of the sofa bed, physically blocking her line of sight to Rachel. Janette flanked the other side, her jaw set.
+
+"Mom, back up," Janette ordered fiercely. "Now."
+
+The commotion instantly drew Mom and Dad from the kitchen. Mom burst through the swinging door, her eyes sweeping the room and immediately landing on Rachel’s heaving chest and panicked, rigid posture.
+
+Mom didn't care about politeness. She cared about her daughter's internal organs.
+
+"Janet, step away from the bed!" Mom commanded, her voice cracking like a whip. She rushed forward, bypassing her sister entirely, and dropped to her knees right next to Rachel.
+
+"Ellen, I was just asking her to say hi," Aunt Janet defended herself, looking completely bewildered and slightly offended by the hostility of the pack. "She talked to me on Tuesday, I just thought—"
+
+"She was crushed on Thursday *because* she talked!" Mom shouted, the raw, devastating truth echoing off the living room walls. She looked up at her sister, tears of pure terror in her eyes. "He stepped on her specifically because she used her voice! Janet, she is terrified! And if she cries—if she hyperventilates and triggers a meltdown—the pressure in her chest will rupture her spleen and she will bleed to death on this couch!"
+
+All the color completely drained from Aunt Janet's face.
+
+She took three rapid steps backward, her hands flying up to cover her mouth in absolute horror. She looked at Rachel, who was still trembling violently against the medical wedge, desperately trying to lock her breathing down.
+
+"Oh my god," Aunt Janet gasped, the devastating psychological math finally clicking into place. "Ellen... I didn't... I am so sorry. I didn't know."
+
+"Breathe, Rachel," Mom chanted softly, ignoring the adults in the room and focusing entirely on her daughter. She placed her hand gently over Rachel's right shoulder, anchoring her. "You do not have to speak. You never have to say a word to anyone if you don't want to. It's okay. Stay flat."
+
+"I've got you, Bug," I whispered over the pillow wall, using the private nickname to reel her back into our safe, closed circuit. "It's just us. Nobody is going to make you talk."
+
+Slowly, the frantic hitching in Rachel’s chest began to smooth out. Her knees relaxed back onto the mattress. She squeezed my hand, letting out a long, shaky exhale, her dark eyes finding mine over the cotton barrier. The physical danger passed, neutralized by the immediate, ferocious intervention of the pack.
+
+Grandma Loretta stepped up, placing a firm, guiding hand on Aunt Janet's arm.
+
+"Let's go into the kitchen, Janet," Grandma Loretta said quietly, her voice full of sorrow. She looked at Maria and Katherine, ushering them toward the swinging door. "Let the kids watch their movie."
+
+As the extended family retreated into the kitchen, Mom let out a massive sigh of relief. She pressed a gentle kiss to Rachel’s forehead, gave my shoulder a proud, validating squeeze for calling out the threat, and stood up to follow the adults.
+
+The living room belonged to the pack once again. Jessica hit play on the VCR remote, the animated lions returning to the screen, and the fortress walls held strong.
+

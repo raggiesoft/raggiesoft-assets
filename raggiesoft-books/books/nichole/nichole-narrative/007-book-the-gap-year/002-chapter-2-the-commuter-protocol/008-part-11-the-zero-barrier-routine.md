@@ -1,0 +1,75 @@
+# Part 11: The Zero-Barrier Routine
+
+## Date: April 17, 2004 Time: 9:30 PM Location: The Master Bath, Unit 404
+
+The pizza boxes were in the recycling bin. The screens in the Command Center were asleep. The city outside was a grid of amber lights, but inside Unit 404, the world had shrunk down to the master suite.
+
+For eighteen years, "bath time" had been a tactical operation. At home, it meant locking the door, checking the lock twice, and whispering so the rest of the family wouldn't hear the mechanics of their privacy. In the dorms they had toured, it would have been a logistical nightmare of shower shoes and communal hallways.
+
+But here, in the Foundry, there were no locks to check. There were no footsteps in the hallway.
+
+"Shower protocol," Patrick announced softly.
+
+He pushed the Titan AeroMotion into the bathroom. The room was designed for this. The roll-in shower was massive, tiled in slate, with a trench drain that ran the entire length of the back wall. There was no lip to bump over. It was just a seamless transition from dry to wet.
+
+Patrick parked Nichole in the center of the shower area. He didn't have to rush. He didn't have to listen for Aunt Carol knocking to ask a question.
+
+He began the undressing sequence. It was efficient, practiced muscle memory. He removed her shoes, her socks, her pants, and her shirt, placing them in the hamper.
+
+Then, for the first time in their adult lives, the routine shifted.
+
+Usually, Patrick would stay fully clothed, rolling up his sleeves and getting soaked in the process, maintaining the "caregiver" barrier even in private.
+
+But tonight, the apartment was theirs. The humidity was rising. The privacy was absolute.
+
+Patrick stood up. He didn't turn away. He simply stripped off his t-shirt and tossed it into the hamper. He kicked off his jeans.
+
+He stood there, unguarded, in the warm, steamy air of the bathroom. It wasn't about exposure; it was about utility. Why stay wet and uncomfortable when they were the only two people on earth that mattered?
+
+He turned on the water. The handheld wand extended on a long chrome hose.
+
+"Temperature check," Patrick said, spraying the water over his own forearm first. "Good?"
+
+He sprayed a gentle mist over Nichole’s shoulder. She nodded, leaning her head back, closing her eyes as the warm water washed away the dust of the move.
+
+Patrick washed her with the efficiency of a mechanic detailing a high-performance engine, but with the tenderness of a brother. He soaped the sponge, washing her back, her arms, her legs. He checked her skin for any pressure marks from the long day in the chair.
+
+"All clear," he murmured. "Skin integrity is 100%."
+
+He rinsed her off, the water swirling into the trench drain.
+
+Then, without pausing, he turned the spray on himself. He washed the sweat of the move off his own chest and arms, standing right there in the shower space with her.
+
+There was no shame. There was no awkwardness. There was just the Bennett Machine, stripped down to its rawest, most honest form. They were two halves of the same whole, cleaning the gears for the next day.
+
+Patrick turned off the water. The silence returned, heavy and warm.
+
+He grabbed two thick towels from the heated rack. He wrapped Nichole first, tucking the terrycloth around her shoulders to keep the chill off. Then he grabbed one for himself, drying his hair roughly.
+
+"New system works," Patrick said, his voice echoing slightly in the tiled room.
+
+Nichole looked at him—her engine, her protector, standing there dripping wet and completely unburdened by the outside world. She made a soft sound of agreement.
+
+They dried off in the quiet luxury of their fortress. Then, Patrick’s brain skipped a groove.
+
+Usually, the "Pajama Subroutine" was next. It involved wrestling her limp limbs into cotton pants, pulling a t-shirt over her head, and adjusting the seams so they didn't dig into her skin.
+
+But Patrick was exhausted. He looked at the pile of clothes in the hamper. He looked at the dresser across the room. It felt miles away.
+
+He looked at Nichole. She was warm, dry, and blinking sleepily.
+
+"Bed," Patrick groaned.
+
+He laid her down. She slid against the cool, smooth sheets like she was made of silk.
+
+He climbed in next to her. He pulled the heavy duvet up over them both.
+
+He just collapsed against the mattress, wrapping his arm around her waist, hooking his leg over hers to anchor her.
+
+"Night, Nikki," he slurred, the darkness of the room swallowing them up.
+
+"Night," she didn't even click. She just breathed.
+
+For the first time, they didn't just sleep. They rested.
+
+

@@ -1,0 +1,38 @@
+# Part 4: The Confrontation
+
+Alex had just settled back into his wheelchair in the dark bedroom when he heard Vera stirring. A moment later realizing she was alone in the bed, she woke up, her face a mask of sleepy confusion and growing anger.
+
+"What the hell was that?" she demanded, her voice a harsh whisper. "What are you doing up? I heard you rolling around out there."
+
+Alex's mind raced, searching for a plausible, non-confrontational excuse. He was about to type the first lie that came to his mind—I HAD TO USE THE TOILET—but before his fingers could even touch the keyboard, a firm, distinctive knock that he remembered very well from his childhood came from the apartment's front door. Thump-thump... thump-thump-thump.
+
+Vera froze, a new, sharp, and paranoid fear in her eyes. "Who is that?" she hissed. "It's almost eleven o'clock at night. Don't you dare open that door. This is a rough neighborhood, you don't know who could be out there."
+
+But Alex knew exactly who was out there. He knew that very distinctive door knock from his childhood. It was his cavalry. For the first time in his relationship with Vera, a surge of pure, unadulterated courage washed over him. He was not alone. He was not trapped. He had made a choice, and his rescuer was on the other side of that door.
+
+Ignoring Vera's frantic, whispered commands to "get back here right now," he wheeled himself out of the bedroom and into the small living room. He unlocked the deadbolt and pulled the front door open.
+
+There stood Megan Carter, her expression a mixture of profound relief and fierce, protective anger. "Hey, cuz," she said, her voice a low, steady anchor in the storm of the last hour. She looked past him and saw Vera standing in the bedroom doorway, her face a mask of pure, unadulterated fury.
+
+Megan's focus, however, was entirely on Alex. She stepped inside, completely ignoring Vera, and knelt beside his wheelchair, pulling him into a warm, familiar, and deeply grounding hug. "I'm here," she whispered. "I've got you."
+
+The simple, loving gesture was a lit match in a room full of gasoline. "Get your hands off of him!" Vera shrieked, storming into the living room. "Who the hell do you think you are, barging in here and touching my boyfriend?"
+
+Megan pulled back slowly, her expression shifting from warm affection to a look of pure, icy disdain. She stood up, a calm, resolute wall between Vera and her cousin. "I'm his family," she stated, her voice dangerously quiet. "And I'm here to take him home. He's ready to go."
+
+Vera let out a harsh, incredulous laugh. "He's not going anywhere. He's staying with me. And he didn't *say* that he wanted to go home, did he?" she sneered, her voice dripping with a cruel, ableist condescension. "He can't *say* anything without that stupid machine, and I don't see him typing. So unless you heard him speak, he's not going anywhere."
+
+It was a blatant, malicious attempt to invalidate his entire being, to erase the clear communication of his desperate phone call.
+
+Megan's eyes narrowed. "He doesn't need to type it for me to understand it," she said, her voice like ice. "I know my cousin. And he's going home."
+
+She turned to Alex, her expression softening instantly. "Ready, cuz?"
+
+Alex, who had been watching this exchange with a mixture of terror and awe, couldn't bring himself to nod. But his body answered for him. His hands, which had been clenched in his lap, began to tremble uncontrollably, a powerful, non-verbal scream of his overwhelming fear and his desperate desire to leave.
+
+Megan saw the tremor and her heart broke, her resolve hardening into pure steel. That was his real answer, louder than any synthesized voice could ever be.
+
+"See?" Megan said, turning back to Vera with a look of absolute finality. "He's ready."
+
+She didn't give a damn how Vera felt about it. She helped Alex gather the few things he had brought with him, and without a backward glance, she guided his wheelchair out the door and into the cool, clean night air, leaving Vera standing alone in the doorway, sputtering in a cloud of her own impotent rage. The first alarm bell had been rung, and the cavalry had answered.
+

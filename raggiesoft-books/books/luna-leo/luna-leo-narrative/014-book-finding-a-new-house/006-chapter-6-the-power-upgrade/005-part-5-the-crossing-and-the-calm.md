@@ -1,0 +1,118 @@
+# Part 5: The Crossing and the Calm
+
+## July 28, 2006 BTA Ferry F2 - "The City Link" 01:30 PM
+
+The high-speed catamaran backed out of **Aquarium Landing**, its twin diesel engines rumbling deep in the hull.
+
+Leo sat in his **Titan X-Treme** on the open aft deck. The wind was strong, whipping his hair, but the sun was warm. He loved the motion of the boat—the rhythmic rise and fall as it cut through the harbor chop.
+
+He looked back at the receding skyline of Braxton City. He saw the glass spire of the Aquarium. He saw the steel skeleton of the Train Station.
+
+He tapped his Scribe, which was clamped firmly to his new mount.
+
+*"WE ARE SEABORNE,"* the robotic voice said, cutting through the wind.
+
+"It beats the bus," Stella yelled over the engine noise, holding her hair back. "No traffic lights on the water."
+
+The crossing took twenty minutes. As they approached the **University Peninsula**, the massive white canopy of **Narraganset Esplanade Station** rose from the shoreline like a modern lighthouse.
+
+The ferry slowed, maneuvering into its slip at the base of the station’s sea wall.
+
+## The Temptation
+
+They rolled down the gangway onto the dock.
+
+Right next to their slip, a larger, sleeker ferry was boarding. The destination sign read:
+
+**F3 NEWPORT FLYER** *Next Departure: 2:00 PM*
+
+Leo stopped. He looked at the sign. He looked at the map. Newport was only a 30-minute ride across the bay. He could see the bridge in the distance.
+
+He looked at Luna.
+
+Luna was leaning against the railing. Her eyes were glazed. She was rubbing her left arm—a self-soothing stim she used when she was tired. The noise of the city, the bright lights of the aquarium, and the wind on the boat had drained her battery.
+
+Leo checked his own internal gauge. The excitement of the Titan purchase was fading, replaced by a buzzing static in his head. He was vibrating.
+
+He wanted to go to Newport. But he knew the cost.
+
+He tapped his screen.
+
+*"TARGET: NEWPORT. STATUS: ABORT."*
+
+"Good call," Olivia said, seeing Luna’s fatigue. "We hit the limit. Let's go home."
+
+They took the elevator up to the **Sky Platform**. The **South Shore Line** train was waiting. They boarded, found a quiet car, and rode the rails back to the silence of the suburbs.
+
+## 03:00 PM The Fortress (Iron Point) - Living Room
+
+They entered the house. It was cool, quiet, and smelled of fresh paint. The **APS Wall** blocked the world out.
+
+Leo rolled into the living room. He stopped his chair. He powered it down.
+
+He looked at Luna. She was already sitting on the deep sectional sofa, hugging a pillow.
+
+He needed to stop the buzzing. He needed gravity.
+
+"Transfer," he signaled to Olivia.
+
+Olivia helped him out of the Titan. He didn't move to his own spot. He moved to Luna.
+
+They settled into the "Calibration Configuration."
+
+Luna lay on her back. Leo lay on top of her, stomach-to-stomach.
+
+He let his full weight settle onto her. He wrapped his arms around her ribs. She wrapped her legs around his, locking him in.
+
+He rested his chin on her chest. She rested her cheek on the top of his head.
+
+*Exhale.*
+
+The pressure did its work. The static in Leo's head began to slow down, matching the rhythm of Luna’s breathing. The overstimulation of the city was squeezed out by the physical reality of his twin.
+
+Olivia sat on the edge of the sofa, right next to them. She rested her hand on Leo’s back, rubbing slow, firm circles. She was the anchor—the third point of contact that kept them tethered to the room.
+
+They lay there in the silence, a pile of exhausted travelers rebuilding their energy reserves.
+
+## The Bedroom Wing
+
+Down the hall, in the East Wing, Stella was helping Eleanor unpack.
+
+Eleanor sat in her armchair by the window. On the table next to her was a stack of framed photographs she had brought from Virginia.
+
+"Where do you want Arthur?" Stella asked, holding a black-and-white photo of a young Arthur Bennett standing proudly in front of **Keystone Motors** in 1955.
+
+"On the nightstand," Eleanor said. "So he's the first thing I see."
+
+Stella placed it. Then she picked up a photo of the four grandchildren—Stella, Luna, Leo, and Olivia—taken at **Leo and Olivia’s Commitment Ceremony**. They were all smiling, dressed in their blues and creams, standing in the garden of the country club.
+
+"Dresser," Eleanor directed.
+
+Stella reached into the box. Her hand brushed a frame at the bottom. She pulled it out.
+
+It was an old photo from the 80s. It showed Arthur, Eleanor... and **Karen**. Stella’s mother. She looked young, unhappy, and distant, holding a baby Stella awkwardly.
+
+Stella held the photo. She looked at Eleanor.
+
+Eleanor looked at the picture of her daughter—the woman who had neglected the twins, drank away her marriage, and died bitter.
+
+"That one," Eleanor said, her voice steady and devoid of sentiment, "stays in the box."
+
+"Are you sure?" Stella asked. "She was your daughter."
+
+"She was," Eleanor agreed. "But this is a happy house, Stella. I only want happy faces on my walls."
+
+She pointed to the box.
+
+"Bury it."
+
+Stella nodded. She put the photo of Karen face-down at the bottom of the cardboard box. She taped the box shut.
+
+"Done," Stella said.
+
+Eleanor looked at the photo of Arthur, then at the door where she could hear the faint, peaceful silence of the house her grandchildren had built.
+
+"Now," Eleanor said, picking up her knitting. "Go check on the kids. I think I'm going to rest."
+
+Stella walked out of the room, leaving the ghost of Karen Porter packed away in the dark, while the rest of the family lived in the light.
+

@@ -1,0 +1,36 @@
+# Part 13: The Grand Old Lady on the Hill
+
+The drive from the airport was a blur of happy chatter, a mix of French and English filling the luxurious rental van. When Arthur pulled up to the grand, historic entrance of The Atlantic Grand Hotel, Olivia's aunt, uncle, and cousins fell silent, their eyes wide with awe. The "Grand Old Lady on the Hill," with its classic architecture and commanding view of the ocean, was even more magnificent than they had imagined.
+
+The entire Virginia contingent accompanied them inside. The lobby was a symphony of old-world elegance, decorated for Christmas with a towering tree, garlands, and the soft glow of festive lights.
+
+Arthur strode to the polished wood front desk with an air of quiet command. "Good afternoon," he said to the concierge. "I believe you have a reservation for us. The Presidential Suite, under the name Bennett."
+
+While the concierge confirmed the reservation, which had been made months in advance, Arthur presented his credit card. "Please put this on file," he instructed smoothly. "Any and all charges for my guests—room service, meals in the restaurant, anything at all—are to be billed directly to this card. They are not to see a bill for anything."
+
+"Of course, Mr. Bennett," the concierge said with a respectful nod. "We'll take care of everything."
+
+A bellhop loaded the family's luggage onto a polished brass cart, and they were all escorted to the elevator and up to the top floor. He unlocked the double doors of the Presidential Suite, and pushed them open.
+
+The suite was breathtaking. It was a sprawling series of rooms with classic furniture, stunning ocean views from every window, and a large, private balcony. Fresh flowers sat on a table next to a complimentary bottle of champagne and a welcome basket, courtesies arranged by Arthur.
+
+"Oh, my goodness," Olivia's Aunt Isabelle whispered, completely overwhelmed by the opulence.
+
+"Welcome to Virginia Beach," Arthur said with a grand, satisfied smile. "Make yourselves at home. We'll leave you to get settled in, and then we'll see you all at the house for the Réveillon tomorrow night."
+
+The suite buzzed with the happy, chaotic energy of a family reunion. The four teenage cousins—Luc, Chloé, Mason, and Sophie—were already exploring, marveling at the ocean views. Amidst the joy, Olivia was acutely aware of Leo. The drive from the airport, while short, had been stressful for him. Seated in the back of the van while she was in the front, the physical separation had been a source of quiet anxiety. Now, in the unfamiliar, crowded hotel suite, he was visibly overwhelmed, his hand tightly gripping the armrest of his wheelchair, his knuckles white. He hadn't left her side since they entered the room.
+
+Olivia, instantly recognizing his distress, moved to his side, her presence an immediate, calming anchor. She knelt by his chair, her voice a low murmur just for him. "Hey, you okay? It's a lot, I know. We're not staying long."
+
+He gave a small, shaky nod, his eyes not leaving her face. She understood. He was terrified of losing sight of her, even in a room full of happy people.
+
+She took a deep breath and stood, taking charge of the moment. "Okay, everyone!" she called out, her voice cutting through the happy chatter. "Time for proper introductions!"
+
+One by one, she introduced her family, her hand resting reassuringly on Leo's shoulder the entire time. "This is my aunt, Tante Isabelle, and my uncle, Oncle Mark," she said, her voice warm. "And these are my cousins. This is Luc," she said, gesturing to the oldest boy, "and Chloé, Mason, and the youngest, Sophie."
+
+Then she turned her attention to her found family. "And this," she said, her voice full of a fierce, protective pride, "is my family here. You know Stella and Luna." The sisters waved, their own smiles wide and welcoming.
+
+Finally, she placed both hands on the back of Leo's wheelchair, a gesture of unwavering support. "And this," she said, her voice softening, "is my best friend. My *chum*. This is Leo."
+
+Leo, feeling the solid weight of her hands, managed a small, shy smile for the crowd of new, friendly faces. Seeing him so clearly anchored to Olivia, her Canadian family immediately understood the depth of their bond. The introductions weren't just a formality; they were a beautiful, public declaration of the two families, now intertwined, with Olivia and Leo at the very heart of it all.
+

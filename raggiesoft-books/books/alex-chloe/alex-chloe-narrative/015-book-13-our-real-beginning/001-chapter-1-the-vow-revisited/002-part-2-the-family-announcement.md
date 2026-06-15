@@ -1,0 +1,27 @@
+# Part 2: The Family Announcement
+
+The following Saturday afternoon, their Lynnwood apartment was the command center for a massive, cross-border family summit. Alex, Chloé, and Megan were huddled together on the sofa, their MagnaByte laptop perched on a coffee table in front of them. On the screen, a mosaic of familiar, beloved faces smiled back at them from three different locations: the Miller living room in Virginia, the Carter household nearby, and the Leclerc kitchen in Stanstead.
+
+"Okay," Chloé said, her voice full of a happy, nervous energy. "Is everyone here? Can everyone hear us?"
+
+A chorus of affirmative "*Oui, ma belle!*" and "Loud and clear, honey!" echoed from the speakers.
+
+Alex and Chloé, sitting in the middle with Megan as their steadfast anchor, made the announcement together. "We have some news," Chloé began, a radiant smile on her face.
+
+WE'VE DECIDED WE WANT TO HAVE A REAL WEDDING, Alex's device continued, its voice clear and full of a joy that was unmistakable. FOR US. A CELEBRATION.
+
+"And," Chloé added, her eyes shining, "we want to have it in Stanstead."
+
+The reaction was an immediate, joyous, and tearful explosion of happiness from all three screens. "Oh, my darlings! Of course! That's wonderful!" Emily cried from her living room. From Stanstead, Uncle David's booming voice was pure triumph. "*Formidable! C'est la meilleure idée!*" (Wonderful! That's the best idea!)
+
+"We just want a beautiful, secular ceremony at a nice events venue, and then a big, fun party with all the people we love," Chloé explained, her gaze sweeping across the faces on the screen.
+
+After the initial wave of excitement, Alex had one more important piece of business. He made sure the camera was focused on him and Megan.
+
+MEGAN, his device voiced, its tone full of a deep, heartfelt affection. YOU WERE MY BEST WOMAN FOR THE LEGAL PART. I WAS WONDERING... IF YOU WOULD DO IT AGAIN. FOR THE REAL THING.
+
+Megan, who had been beaming with pride from her spot on the sofa, now had tears streaming down her face. She leaned over and pulled her cousin into a fierce hug. "Are you kidding me, cuz?" she said, her voice thick with emotion, loud enough for the microphone to pick up. "There's no one else I would rather stand next to. A thousand times, yes!"
+
+A fresh wave of happy, tearful cheers erupted from the laptop speakers. The chapter of their practical marriage, born of necessity, was officially over. The new chapter, their real beginning, was about to be planned, with their entire, united, cross-border family ready to help build the perfect celebration.
+
+

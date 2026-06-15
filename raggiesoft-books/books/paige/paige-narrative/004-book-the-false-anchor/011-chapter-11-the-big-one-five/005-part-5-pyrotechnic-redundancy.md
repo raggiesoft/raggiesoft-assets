@@ -1,0 +1,124 @@
+# Part 5: Pyrotechnic Redundancy
+
+## Monday, June 21, 2004 — 19:30 PM 105 Pepper Street SE
+
+The dining table was a disaster zone of empty Tony’s Pizza boxes, crumpled napkins, and drained soda cans. Nine people had just consumed enough carbohydrates to fuel a small power plant.
+
+The noise level was severe. Jenna was recounting a story about the drive up, gesturing wildly with a fork. Harper, Amanda, and Elara were vibrating with sugar energy. Aunt Linda was laughing loudly at something Jessica said.
+
+At the head of the table, Freddie sat in his wheelchair. He was the eye of the hurricane. Paige was sitting on a dining chair next to him, but her body was angled entirely toward him, her arm hooked through his, her head resting on his shoulder. She was his physical anchor against the sonic waves.
+
+"Status?" Paige murmured into his sleeve.
+
+"Input is maximum," Freddie reported, his eyes scanning the chaotic table. "But the data is positive."
+
+"Okay, clear the runway!" Jessica shouted.
+
+She set the massive sheet cake down in the center of the debris field. The blue wax 1 and 5 burned with surprisingly intense, bright yellow flames, bridging the gap between Sarah’s neat vanilla side and Jenna’s chaotic chocolate side.
+
+"Alright, no speeches," Jenna said, eyeing the frosting. "Let's just blow them out so we can eat."
+
+They began the song. It was the loudest, most off-key rendition of "Happy Birthday" ever performed in Christiansburg. Freddie didn't sing, but he tapped his fingers on his armrest in perfect time with the rhythm, humming the bassline under his breath.
+
+The song ended in messy cheering and applause.
+
+"Make a wish!" Elara screamed.
+
+Sarah and Jenna leaned in over the cake. They looked at each other.
+
+"One, two, three!"
+
+WHOOSH.
+
+They blew hard. The two bright flames flickered, danced, and then vanished, leaving behind two thick trails of white smoke curling toward the ceiling lamp.
+
+The room cheered. Linda started to reach for the cake server.
+
+Freddie, watching closely from the end of the table, noticed an anomaly.
+
+The wicks weren't glowing the usual dull red of dying cotton. They were sparking. Tiny, intense pinpricks of white light were dancing on the blackened tips.
+
+Magnesium, Freddie’s internal database supplied. Pyrotechnic redundancy.
+
+Crack. Hiss. FWOOSH.
+
+Suddenly, the smoke trails ignited. The flames jumped back onto the wicks of the 1 and the 5, burning just as brightly as before.
+
+The room fell silent.
+
+"What the heck?" Jenna blinked.
+
+"Did you miss?" Harper asked.
+
+"We didn't miss," Sarah frowned, leaning closer. "Airflow was sufficient."
+
+Jessica was biting her lip, trying desperately not to laugh. Aunt Linda was hiding her grin behind a napkin.
+
+"Try again," Jessica suggested sweetly. "Maybe you didn't wish hard enough."
+
+Sarah and Jenna leaned in again. They took deeper breaths.
+
+WHOOOOOOSH.
+
+They blew until their faces were red. The flames died again. Smoke billowed.
+
+They waited one second. Two seconds.
+
+Crack. Spark. FWOOSH.
+
+The 1 and the 5 roared back to life.
+
+"IT’S MAGIC!" Amanda silently screamed, clapping her hands wildly.
+
+"They’re rebooting!" Harper yelled.
+
+Jenna glared at the candles. It was personal now.
+
+"Oh, you want to play?" Jenna growled. She stood up, leaning over the table, and started actively chopping at the smoke with her hand while blowing short, furious puffs of air. "Die! Die! Die!"
+
+Sarah took a tactical approach. She pursed her lips into a tight O shape, aiming a laser-focused stream of air at the base of the 1.
+
+They went out.
+
+They relit.
+
+They went out again.
+
+They relit again, faster this time.
+
+Freddie watched the chaos with a calm fascination. He loved the physics of it. He loved the sheer stubbornness of the chemistry.
+
+"Self-repairing systems," Freddie murmured to Paige. "Highly efficient."
+
+"Jessica is evil," Paige whispered back, giggling against his shoulder.
+
+Finally, Sarah realized wind wasn't the answer.
+
+"Suffocation protocol!" Sarah commanded.
+
+She licked her thumb and forefinger and pinched the wick of the 1. At the same time, Jenna grabbed a glob of chocolate icing and dunked the wick of the 5 into it.
+
+The flames died with a final hiss. They did not relight.
+
+The room erupted in laughter. Jessica finally cracked, doubling over in her chair.
+
+"Happy birthday, suckers!" Jessica gasped. "Trick candles. The guy at the party store said they were 'relentless.'"
+
+"You’re the worst sister ever," Jenna said, licking chocolate icing off her fingers, grinning ear to ear.
+
+"Ingenious mechanism," Sarah admitted, wiping soot from her fingers onto a napkin. "Magnesium-infused wicks. Well played."
+
+Aunt Linda turned the lights back on. The room was bright, messy, and full of the people Freddie loved most in the world.
+
+He looked at the cake, scarred by the battle with the unkillable candles. He looked at Sarah and Jenna, laughing as they cut the first slices.
+
+He felt Paige squeeze his arm, grounding him in the moment.
+
+Vanessa had offered him silence. She had offered him a life where nothing ever went wrong because nothing ever happened.
+
+But this—this loud, messy, resilient chaos, where even the candles refused to quit—this was his life.
+
+"System status," Freddie whispered to himself, watching Amanda take a massive bite of blue icing.
+
+Optimal.
+

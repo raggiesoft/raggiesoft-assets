@@ -1,0 +1,82 @@
+# Part 4: The Shift Partner
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 12:30 PM **Location:** Phase II Recovery (Step-Down Unit), Bed 12
+
+The Step-Down Unit was entering the "Lunch Lull." The frantic energy of the morning surgeries had settled into the rhythmic checking of vitals and the clinking of lunch trays.
+
+Outside the window, the snow was coming down in large, wet flakes. It plastered the dormant trees and the hospital lawn in white, but the street below was just a shiny, wet black ribbon. The pavement was too warm for the snow to stick, which meant the escape route was still open.
+
+Nichole was awake, but groggy. The morphine was wearing off, replaced by a dull, throbbing ache in the back of her thighs.
+
+Patrick sat by the bed, but he wasn't reading a magazine. He was watching the clock.
+
+*12:30 PM. Ice change due.*
+
+He stood up. He didn't hit the call button. He didn't wait for Sarah, the floor nurse who had five other patients to manage.
+
+He picked up the two melted ice packs from Nichole’s knees. They were warm and soggy.
+
+"Refill run," Patrick whispered to Nichole.
+
+He walked out to the nutrition station. He found the ice machine. He filled two fresh Ziploc bags, wrapping them in thin pillowcases (to prevent ice burn on the skin).
+
+When he walked back in, Sarah was at the bedside, looking harried. She was trying to check the skin integrity under Nichole’s heavy, immobilized legs, but Nichole was tense, fighting the movement.
+
+"Hey, Sarah," Patrick said, stepping in immediately. "Let me get the lift. She's guarding because she's scared of the spasm."
+
+Sarah looked up, relieved. "Oh, thank you. I didn't want to force it."
+
+"On three," Patrick said, moving to the foot of the bed. "I'm going to support the heels and the calves. You check the popliteal (back of knee) area."
+
+He slid his arms under the blue foam braces.
+
+These weren't simple elastic wraps. They were rigid, thigh-to-ankle splints designed to keep the knee at zero degrees of flexion. They added five pounds of bulk to each leg.
+
+"One. Two. Lift."
+
+Patrick lifted both legs simultaneously, keeping them perfectly parallel. He took the full weight of the dead limbs. Nichole didn't flinch; she trusted his grip.
+
+Sarah quickly checked the underside of the knees.
+
+"Incision sites are dry," Sarah reported. "No hematoma. Gauze is clean."
+
+"Setting down," Patrick grunted, lowering them gently back onto the elevation pillows.
+
+He placed the fresh ice packs over the incision sites. Nichole let out a long breath as the cold hit the heat.
+
+"Thanks, Patrick," Sarah said, wiping her forehead. "Usually I have to call an orderly for a bilateral lift. You have good mechanics."
+
+"I practice," Patrick said, drying his hands. "While we have you—I want to transition her to oral meds before the ride. The IV Morphine is going to wash out in about an hour. I want to get the Vicodin on board now so it overlaps."
+
+He gestured to the window.
+
+"Roads look wet, not icy, but it's still going to be a bumpy ride back to the dorm. I need her covered."
+
+Sarah checked her watch, then the chart.
+
+"Smart," she nodded. "Dr. Evans wrote for Hydrocodone-Acetaminophen 5/325. It's due at 1300. I can pull it early if she's tolerating liquids."
+
+Patrick grabbed the CamelBak tube clipped to the bedrail.
+
+"Hydration check," Patrick said.
+
+He guided the bite valve to Nichole’s mouth.
+
+"Small sips, Nikki. Prove you can swallow."
+
+Nichole took three steady sips. She didn't choke. She looked at Sarah and gave a thumbs up.
+
+"Tolerating well," Patrick confirmed.
+
+"Okay," Sarah smiled. "I'll go pull the meds. And I'll print the discharge papers. Honestly, I wish every discharge was this organized."
+
+She left the room.
+
+Patrick sat back down. He adjusted the **Abduction Wedge**—the triangular foam block placed between Nichole's knees to keep her hips wide.
+
+"See that?" Patrick pointed to the wedge. "That's your best friend for the next three days. It keeps the adductors from snapping back. Don't fight the foam."
+
+Nichole blinked slowly. She reached out and patted the foam block. *Friend.*
+
+"Almost there," Patrick said, checking his watch again. "Meds. Paperwork. Then we break out of here."
+

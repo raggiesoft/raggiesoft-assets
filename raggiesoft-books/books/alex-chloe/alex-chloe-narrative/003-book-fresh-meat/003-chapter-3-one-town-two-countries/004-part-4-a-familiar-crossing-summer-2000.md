@@ -1,0 +1,36 @@
+# Part 4: A Familiar Crossing (Summer 2000)
+
+The summer after their freshman year felt different. For fifteen-year-olds Alex Miller and Chloé Mason, the shared trials and triumphs of their first year at Northwood High had solidified their extraordinary bond into an unwavering platonic partnership. The easy companionship of the previous summer had deepened into a seamless, telepathic understanding, their days and many nights a comfortable rhythm of shared worlds and mutual support. Now, in the heart of the summer of 2000, came the trip Chloé had been anticipating for months: the journey home.
+
+The Masons’ familiar minivan, packed to the brim, made the long journey northward, leaving the humid Virginia coast behind for the lush, rolling hills of the Eastern Townships. Inside, it was a cozy, lively world. Thomas and Sophie Mason occupied the front seats, while James and Emily Miller shared the middle row. In the back, Alex and Chloé were settled in their usual side-by-side configuration, his wheelchair safely stowed away. The six of them were now comfortably, fluently bilingual, their conversations shifting effortlessly between American English and the warm, lively cadence of Québécois French Chloé and her mother had taught them all.
+
+The final leg of the journey, crossing from Vermont into Québec, felt like a homecoming for Chloé. This was the landscape of her earliest memories, a world she was incredibly excited to share with Alex in person. As Thomas Mason guided the remembered minivan towards the small, unassuming Canadian customs post at Stanstead, Chloé felt a familiar thrill.
+
+"Look, Alex," she said, leaning forward. "That's Jean-Guy's booth!"
+
+Just as she'd predicted, a familiar, friendly face with a thick mustache poked his head out as they pulled to a stop. His eyes lit up with genuine recognition as he saw the vehicle.
+
+"Well, I'll be," Jean-Guy called out, his smile wide. "The Mason minivan! We heard you folks moved way down south. It's good to see you back! Thomas, Sophie! Ça fait un bail!" (It's been a while!)
+
+"Bonjour, Jean-Guy!" Sophie called back warmly. "We couldn't stay away for long. We had to come home for a visit."
+
+"And you brought the whole crew!" he chuckled, his eyes moving through the van's windows. He spotted Chloé in the back. "Chloé, mon Dieu, you've grown a foot!"
+
+His gaze then landed on the unfamiliar faces. "Looks like you picked up some passengers in Virginia," he said with a friendly grin.
+
+"We sure did," Thomas said. "Jean-Guy, these are our dear friends, the Miller family. James and Emily, and their son Alex in the back with Chloé. We're showing them the sights."
+
+James Miller, sitting in the middle row, had his family's three blue American passports clutched in his hand, ready. "Pleasure to meet you, sir," he said, leaning forward. "I have our passports for you right here."
+
+Jean-Guy waved a dismissive, friendly hand, not even glancing at the documents. "Bah! Pas nécessaire. Not necessary. You're guests of the Masons. Any friends of theirs are friends of ours. Bienvenue au Canada, folks!"
+
+Alex and Chloé exchanged a look of shared, quiet understanding. For Alex, who had only heard Chloé's stories, seeing it in person was something else entirely. He had imagined a formal, impersonal process, a strict line with serious questions. But this was different. This was a border that seemed to run on familiarity, where a friendly chat and a wave were all it took. Chloé’s look to him was one of quiet pride, as if to say, *See? Welcome to my world.*
+
+"Anything to declare?" Jean-Guy asked, falling back into the familiar rhythm.
+
+"Just six appetites and a mission to find the best poutine in the Townships," Thomas said with a laugh.
+
+"A noble quest!" Jean-Guy declared. "You're all clear. Drive safe, folks. It's good to have you back, Sophie."
+
+As Thomas put the minivan in gear and pulled away from the checkpoint, a single vehicle entering the heart of Stanstead, Alex felt the profound difference. This wasn't crossing a border; it was like being welcomed into a slightly different part of the same neighborhood. He looked at Chloé, who was already pointing out landmarks from her childhood, her face alight with the joy of being home, and he knew this trip, their first big adventure together far from Virginia, was going to be something truly special.
+

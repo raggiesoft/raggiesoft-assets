@@ -1,0 +1,70 @@
+# Part 2: The Acoustic Engine
+
+## Saturday, October 26, 2002 07:50 AM
+
+The bus hissed to a halt on the Alumni Mall.
+
+"End of the line," Jessica announced, standing up as the doors folded open. "Everyone out."
+
+They stepped onto the concrete platform. The Transit Center was a massive, open-air loop located in the heart of the campus. To Freddie, it looked like a docking bay. Buses were pulling in and out with clockwork precision, their diesel engines rumbling in a synchronized, low-frequency hum that he found soothing.
+
+"Newman Hall is this way," Jessica said, pointing toward a large, limestone building across the Drillfield. "It's the Student Union. That’s where they hold the welcome ceremony."
+
+They walked into the wind. The campus was waking up. The distinctive campus architecture—rough-cut grey limestone with accents of deep maroon—looked like a fortress against the bright blue sky.
+
+"It's called **Ironstone**," Jessica said, tapping one of the heavy blocks as they passed an archway. "It's local limestone. It’s what makes the campus look like a castle. It feels... solid."
+
+"The geometry is consistent," Freddie noted, his eyes tracking the lines of the mortar. "It feels safe."
+
+They reached the double doors of Newman Hall. Jessica pulled one open, and the cold mountain air was instantly replaced by the warmth of the atrium.
+
+It was a cavernous space, filled with the smell of brewing coffee and the murmur of hundreds of prospective students and their parents. But cutting through the noise was a sound that stopped Freddie in his tracks.
+
+Music.
+
+But it wasn't the recorded music from the bus. It was live. It was raw.
+
+"Target acquired," Jessica grinned, pointing toward a small stage set up near the continental breakfast station. "You guys are in for a treat. That’s the home team."
+
+On the stage, two people were performing.
+
+To the right sat a woman behind a portable keyboard setup. She had long dark hair and was playing a sweeping, intricate melody that sounded like classical music mixed with pop.
+
+To the left was a man with a guitar. He had a microphone stand positioned directly in front of him. He was singing with a voice that was gritty, powerful, and filled with a raw energy that seemed to vibrate the air in the atrium.
+
+But Freddie didn't look at the guitar. He looked at the chair.
+
+The man wasn't standing. He was sitting in a sleek, lightweight wheelchair. His legs were still, resting on the footplate, but his upper body was moving with the rhythm of the song. He wasn't hiding behind the keyboard. He wasn't tucked in the back. He was front and center, commanding the room.
+
+"That’s **The Stardust Engine**," Jessica whispered, leaning down to Freddie’s ear. "Ryan and Cassidy O'Connell. They’re alumni. Class of '89."
+
+Freddie stared. "He is... sitting."
+
+"Yeah," Jessica said matter-of-factly. "Ryan’s a T10 paraplegic. Car crash back in '90." "But listen to him. He’s still the Engine."
+
+Ryan strummed a hard, acoustic chord, his face contorted with the effort of the note.
+
+*"But when the world is spinning out of my control,"* Ryan sang, his voice soaring up to the high rafters of the atrium. *"You're the one true thing that I can hold!"*
+
+Cassidy harmonized instantly, her voice blending with his in a perfect, biological lock—the kind that only siblings can achieve. *"Through the static and the driving rain, you're the one who keeps me sane."*
+
+Freddie felt Paige squeeze his hand. Hard.
+
+"Did you hear that?" Paige whispered, her eyes wide. "The static. They’re singing about the static."
+
+*"My anchor holds,"* Ryan roared the final line, hitting a resonant chord that hung in the air. *"My anchor in this crazy youth."*
+
+The crowd in the atrium broke into applause. Ryan didn't stand up to bow. He just grinned, spinning his wheelchair slightly to acknowledge the applause on the left, then the right. He looked powerful. He looked unbroken.
+
+"He is not hiding the error," Freddie murmured, unable to take his eyes off the singer. "The system has a physical limitation, but the output is... nominal. It is exceeding parameters."
+
+"He doesn't hide anything," Jessica said with pride. "That’s why we love them. They’re Forgers. They built this."
+
+Ryan leaned into the mic. "Welcome to the Iron City, everyone!" he shouted, his voice booming without a hint of hesitation. "Grab a bagel. We're gonna take a short break, but we'll be back with some 'Electric Color' in ten minutes."
+
+Freddie watched as Cassidy stood up and walked over to her brother. She didn't look down at him with pity. She handed him a bottle of water, and he laughed at something she said, punching her lightly on the arm. They were a unit. A team.
+
+"Come on," Jessica said, nudging Freddie toward the food tables. "Let's get some fruit. You need glucose for the brain."
+
+Freddie walked toward the bagels, but he kept glancing back at the stage. For the first time, the idea of being "different" at this school didn't feel like a fatal error. If the "Engine" could run on wheels, maybe Freddie could run on a different operating system too.
+

@@ -1,0 +1,50 @@
+# Part 1: The Unofficial Orientation (First Day of Freshman Year, Fall 1999)
+
+The first morning of freshman year at Northwood High was a blur of too-large backpacks, bewildered expressions, and the echoing thunder of hundreds of sneakers on polished linoleum. Alex Miller, navigating his wheelchair through the throng, and Chloé Mason, sticking close by his side, were trying to get their bearings when a familiar, cheerful voice cut through the chaos.
+
+"Alex! Chloé! Over here!"
+
+It was Megan Carter, a confident senior, waving them over. She was standing with a small group of other upperclassmen who had appointed themselves the unofficial welcome wagon. Alex’s face broke into a relieved smile; he hadn’t expected to see his favorite cousin until lunch. Megan immediately enveloped him in a big, familiar hug, a comforting anchor in the overwhelming sea of newness.
+
+"Glad you guys found us," she said, giving Chloé a friendly one-armed hug as well. "We're giving the 'fresh meat' the unofficial orientation. Listen up, this is important stuff they don't put in the handbook."
+
+A lanky, fast-talking junior named Mark took the lead, pausing dramatically before the imposing double doors of the cafeteria. "Alright, newbies," he said. "This here is the belly of the beast. The Northwood High Cafeteria. Standard rules apply: don't cut the line, don't throw food, and for the love of all that is holy, do not get on Mrs. DeMarco's bad side."
+
+A ripple of nervous attention went through the freshmen. "Who's Mrs. DeMarco?" someone asked.
+
+Megan grinned, a look of profound respect mixed with a healthy dose of fear. "Mrs. DeMarco is the cafeteria supervisor," she explained, her senior-class wisdom adding weight to the words. "She's the queen of this domain. She sees everything. Hears everything. And if you step out of line, BAM! Trash duty for a week. No appeals."
+
+Another upperclassman, a girl with bright pink streaks in her hair, chimed in. "And whatever you do, never complain about the mystery meat. Seriously. My cousin Larry got two weeks solid trash duty for dissing the meat."
+
+Mark nodded gravely. "And if any of you smart-asses think you can get away with mouthing off in another language..." He paused, then his eyes flicked to Chloé. "You speak French, right? It won't save you. Mrs. DeMarco doesn't just understand French, or Spanish, or German – she speaks them. Perfectly. Like a UN translator with a bad temper."
+
+Chloé felt a slight flush rise on her cheeks, but she kept her expression neutral, exchanging a quick, skeptical glance with Alex. Megan just rolled her eyes, a small, knowing smile playing on her lips.
+
+"Oh, and her memory is legendary," Mark continued, warming to his theme. "The 'Penis Game'? She's logged, like, hundreds of attempts. Ever hear of 'The Great Pig Latin Incident of '98'? Some sophomore thought he was being clever. Ended up with trash duty, grease trap detail, and had to write a five-page essay... in Pig Latin! About ethics! No joke!"
+
+The girl with pink hair leaned in again. "But here's the weird part. If you're on her good side... she is a sweet angel. Seriously."
+
+Mark snorted, but then shrugged. "Yeah, okay, that part's true too. Heard she once slipped an extra cookie to some kid who was crying 'cause he dropped his whole lunch tray. Like a cafeteria ninja angel or something."
+
+Alex looked at Chloé again. The stories were getting wilder. *A Pig Latin essay? Fluency in every language?* It was all sounding a bit much. Chloé subtly rolled her eyes, and he knew they were thinking the same thing. They’d be respectful, of course, but these elaborate warnings were probably just classic high school tall tales.
+
+"So, just... you know," Mark concluded, "Behave yourselves in here. You've been warned." He winked, then pushed open the cafeteria doors, oblivious to the silent, shared skepticism of Alex and Chloé. Megan just shook her head with a fond, amused smile. The core of the legends was true, but the freshmen would have to learn the nuances for themselves.
+
+After the upperclassmen had delivered their dramatic and slightly exaggerated warnings, the group began to disperse, the freshmen scattering to find their first-period classes. The bell was about to ring.
+
+"Okay," Megan said, her tone shifting from a seasoned senior to a caring cousin. "Time to face the music. Where are you two headed first?"
+
+"French I, with Madame Beaumont," Alex typed. "Room 112."
+
+"Ah, the language wing," Megan said with a knowing nod. "That's on my way. I'll walk with you."
+
+The three of them moved through the now-thinning crowd, a small, supportive unit. Megan walked with an easy confidence, her presence a protective buffer that made the intimidatingly long hallway feel a little less daunting to the two freshmen.
+
+They reached the intersection where the main academic wing met the language and arts hall. This was where their paths diverged.
+
+"Alright, this is me," Megan said, gesturing down the hallway to her right. "I've got Advanced Placement Physics at the end of the hall. Try to have some fun today, okay?"
+
+She leaned down and gave Alex one last, firm, and completely familiar hug. "I'll see you at lunch, cuz," she whispered, giving his shoulder a final, reassuring squeeze. She then gave Chloé a high-five and a warm smile. "You too, Mason. Try to keep him out of trouble."
+
+With a final, cheerful wave, she disappeared into the river of students. Alex and Chloé watched her go for a moment, then turned to navigate their own path down the left-hand corridor, ready to face their very first high school class, together.
+

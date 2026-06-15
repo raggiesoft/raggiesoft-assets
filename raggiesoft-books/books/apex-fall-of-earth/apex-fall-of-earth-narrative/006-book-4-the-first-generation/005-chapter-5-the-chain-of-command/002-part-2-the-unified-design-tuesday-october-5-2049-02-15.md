@@ -1,0 +1,100 @@
+# Part 2: The Unified Design – Tuesday, October 5, 2049 – 02:15
+
+The acoustic dampeners in the master bedroom were perfectly calibrated to filter out the ambient hum of the geothermal reactors, but they intentionally allowed specific frequencies through.
+
+Like the sound of a heavy, flat-footed toddler boot hitting the stone floor.
+
+Wyatt Colton’s eyes snapped open in the pitch black. His S.H.O.P. Marine instincts registered the perimeter breach instantly. He didn't sit up; he just turned his head slightly on the pillow.
+
+Standing exactly two inches from his face in the dark, staring at him with unblinking, wide-awake intensity, was his three-year-old daughter.
+
+"Dada," Ellie whispered, her tone completely devoid of fear, radiating only the calm, administrative authority of a night-watchman reporting a shift change. "Up."
+
+Wyatt let out a long, slow exhale, rubbing a massive hand over his face. He looked past Ellie, out the open bedroom door, and down the hall toward the nursery. The heavy timber rails of the Mega-Crib were exactly four feet high. He had personally milled the wood. He had personally installed the heavy, spring-loaded steel latches on the exterior drop-gate.
+
+"Ellie," Wyatt rumbled softly, carefully slipping out of bed so he wouldn't wake the heavily pregnant Sarah. He crouched down to his daughter's eye level. "How did you get out of the bunker?"
+
+Ellie didn't answer. She just pointed a tiny finger back down the hallway.
+
+"Show me," Wyatt commanded gently, scooping her up into his massive arms.
+
+He carried her down the hall, flipping on the localized dim amber lights in the nursery. Nora and Leo were still inside the massive wooden enclosure. Nora was sitting up, rubbing her sleepy eyes, while Leo lay in the center, letting out a soft, confused hum at the sudden absence of his commanding officer.
+
+Wyatt set Ellie down on the plush rug right in front of the Mega-Crib. He crossed his thick arms over his chest. "Execute the playback, Commander. How did you breach the perimeter?"
+
+Ellie looked up at the towering S.H.O.P. Marine. She gave a single, sharp nod, entirely willing to demonstrate the catastrophic failure of his engineering.
+
+She marched up to the heavy timber railing. She didn't try to climb over the four-foot drop. Instead, she reached her tiny, deceptively strong arm directly through the sixty-millimeter gap between the slats. Her hand found the heavy, spring-loaded external steel latch that Wyatt had placed entirely out of reach from the inside.
+
+To a normal three-year-old, the latch would have been too stiff to disengage. But Ellie didn't use her grip strength; she used leverage. She jammed her wooden toy block—which she had clearly stashed in her pajamas for this exact purpose—under the steel pin, threw her entire body weight onto the makeshift fulcrum, and popped the heavy latch completely open.
+
+With a soft mechanical click, the massive timber drop-gate disengaged and slid smoothly down to the floor.
+
+Wyatt’s jaw actually dropped.
+
+But Ellie wasn't finished. She turned back to the massive memory-foam mattress. She held her hand out.
+
+Nora immediately crawled to the edge. Ellie firmly grabbed her sister’s hand, carefully bracing her weight so Nora could safely step down onto the rug with her weaker left leg. Once Nora was secure, the two girls turned their attention to the center of the bed.
+
+Leo couldn't crawl. So, with practiced, synchronized precision, Ellie grabbed the sleeve of his right arm, and Nora grabbed the sleeve of his left. Grunting with absolute, stubborn toddler effort, they slid their thirty-pound brother across the mattress, carefully easing him over the edge until he was safely resting on the plush rug between them.
+
+The Vanguard had successfully evacuated the containment vessel.
+
+Ellie stood up, dusting off her canvas pajamas. She looked at the completely dismantled security of the Mega-Crib. Then, she looked up at Wyatt. She widened her dark eyes to their absolute maximum capacity, batted her eyelashes, tilted her head, and offered a devastatingly sweet, angelic smile.
+
+"Out," Ellie chirped innocently.
+
+Wyatt stared at the three toddlers sitting on his floor. "Okay," he sighed, dragging a heavy hand down his bearded jaw. "The containment vessel is officially compromised. Let's get you back in for the rest of the night, and tomorrow, Dada drafts a new blueprint."
+
+By 10:00 the next morning, Wyatt was sitting cross-legged on the nursery floor with his datapad. He had learned a vital lesson: you do not build infrastructure for the Vanguard without running it past the commanding officer first.
+
+Sarah was parked nearby in a comfortable armchair, resting her hands over her pregnant belly, sipping tea as she watched the engineering summit unfold.
+
+Wyatt tapped his screen, and a crisp, blue holographic rendering materialized in the center of the room.
+
+"Alright, squad. Listen up," Wyatt announced, projecting his best tactical briefing voice. Ellie, Nora, and Leo (seated safely in his Chariot) gave him their full attention.
+
+"You've outgrown the crib. So, I am designing the Mega-Bed," Wyatt explained, pointing to the hologram. "It will sit directly on the floor. No rails. No fall risk. But here is the brilliant part: it has three independent hydraulic zones."
+
+Wyatt tapped the screen, and the hologram animated. The left third of the bed tilted up at the head. The right third elevated at the feet. The center remained perfectly flat.
+
+"Independent biometric articulation," Wyatt explained proudly to his three-year-old audience. "If Nora needs her head elevated, her section goes up. If Leo needs his legs elevated, his section adjusts. Everyone gets their own customized environment."
+
+Ellie marched right through the center of the holographic projection. She stood directly in front of Wyatt, her dark eyes narrowing as she scrutinized the blue light. She looked at the elevated left section. Then she looked at the flat center section.
+
+Her tactical brain immediately identified the gaping, physical canyon the differing elevations would create between her and her brother. If she went up, she would lose physical contact with Leo's side. The unit would be broken.
+
+Ellie reached out and physically swatted her hand through the hologram, disrupting the image.
+
+She pointed a tiny, dictatorial finger at the three different heights.
+
+"Broken," Ellie accused harshly.
+
+"It's not broken, El, it's independent zoning for—"
+
+"Broken!" Ellie shouted, stomping her boot. She turned and pointed at Leo, then at Nora, and finally at herself. She marched over and grabbed Nora's hand, pulling her tight against her side, and rested her other hand firmly on Leo's wagon. She glared at Wyatt, completely rejecting the advanced S.H.O.P. Marine engineering. "No break. One."
+
+Sarah let out a soft, beautiful laugh from her armchair. "She's right, Wyatt. You designed a divided surface."
+
+Wyatt stared at his brilliant, over-engineered CAD file. He looked at Ellie's absolute, unshakeable stance.
+
+He let out a long, defeated sigh.
+
+"Copy that, Commander," Wyatt grunted.
+
+Right there on the floor, Wyatt opened the source code. With three quick swipes of his thick thumb, he completely deleted the independent zoning algorithms. He hard-coded the left, right, and center servos together, slaving them all to a single master command.
+
+He updated the hologram. The three divided sections fused into a single, massive, king-sized slab.
+
+"Aria, simulate elevation," Wyatt instructed.
+
+The hologram animated again. This time, the entire, unified mattress tilted upward as one single, unbroken plane. Wherever one went, they all went.
+
+Ellie studied the new projection. She saw that the perimeter was secure and the physical anchor would remain completely undisturbed, no matter what angle the bed was at.
+
+She looked back at Wyatt, batted her eyelashes, and offered that same devastating, innocent smile.
+
+"Good Dada," Ellie chirped, giving the hologram a firm nod of approval.
+
+"Good Dada," Sarah echoed softly, raising her tea mug in a toast. "Now go build it, Administrator. The Commander has approved your blueprints."
+

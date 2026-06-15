@@ -1,0 +1,41 @@
+# Part 12: The Parent Protocol – Friday, May 10, 2045 – 21:00
+
+The localized geothermal fireplace cast a warm, flickering amber glow across the sprawling expanse of the Alaskan King bed. Outside, the steady, rhythmic drumming of the rain against the camouflaged hydro-glass window provided a perfect, soothing lullaby.
+
+Wyatt and Sarah lay in the exact center of the massive mattress, completely bare beneath the heavy, plush duvet. Sarah was tucked comfortably against Wyatt's side, her head resting on his chest while his arm held her securely in place. The exhausting, exhilarating triumphs of their first full day as Administrators had finally caught up with them, but Sarah’s sharp, analytical mind had one last logistical puzzle to solve before she could fully shut down.
+
+"Wyatt?" she murmured softly into the quiet room, her fingers idly tracing the heavy scars on his collarbone.
+
+"Yeah?" Wyatt replied, his voice a low, sleep-heavy rumble.
+
+"I was just thinking about our timeline," Sarah said, shifting slightly so she could look up at his profile in the firelight. "The winter pregnancy. And then, eventually, waking up the first cohorts from the Genesis Vault."
+
+"A house full of kids," Wyatt smiled lazily, his eyes remaining closed. "It's going to be loud."
+
+"It is," Sarah agreed, a warm smile touching her lips before she got to her point. "But it also brings up a very practical question about our current... dress code. How exactly does the Eden Rule work when we have a dozen toddlers running down the hallways?"
+
+Wyatt opened his eyes, letting out a soft, highly amused chuckle. He looked down at his completely bare chest, and then at the woman pressed against him. It was a very fair question. The billionaire's estate offered them absolute freedom right now, but raising a generation of children required a different set of boundaries.
+
+"Well," Wyatt reasoned, turning his head to look directly into her eyes. "I think the answer is pretty simple. When the kids get here—ours and the Genesis cohort—the Eden Rule gets a major revision. We put clothes on."
+
+"Agreed," Sarah nodded instantly, relieved they were on the exact same page. "As much as I love never having to do laundry, we have to be parents. And leaders. We need to establish basic boundaries and privacy for them as they grow up."
+
+"Exactly," Wyatt said, his hand gently stroking her bare shoulder. "Clothes are mandatory in the common areas, the kitchens, the library, and anywhere the kids are. The Eden Rule becomes strictly classified. It only applies to you and me, behind closed doors."
+
+Sarah smiled, leaning up to press a soft, lingering kiss to his jaw. It was a perfect compromise. They would build a structured, healthy society for the children, while preserving the absolute intimacy they had found with each other.
+
+"Behind closed doors," Sarah whispered, settling her head back down over his heartbeat. "I can live with that."
+
+"Good," Wyatt murmured, pulling the heavy duvet up a little higher over her shoulders. "But the kids aren't here yet. We have the entire mountain to ourselves for at least another year."
+
+He wrapped both arms entirely around her, pulling her flush against his body.
+
+"So until then," Wyatt whispered into her hair, "let's fully enjoy the freedom while it's just us."
+
+"Absolutely," Sarah breathed, a deep, profound sense of contentment washing over her.
+
+She closed her eyes, entirely safe, entirely loved, and completely at home. The ghosts of the Nevada Test and Training Range were finally, permanently silenced. The super-cell storm outside continued to water the earth, preparing the valley for the life they were going to build.
+
+Wyatt kissed the top of her head one last time, listening to the gentle rain, and together, the Architects of humanity's second chance drifted off to a deep, dreamless sleep.
+
+

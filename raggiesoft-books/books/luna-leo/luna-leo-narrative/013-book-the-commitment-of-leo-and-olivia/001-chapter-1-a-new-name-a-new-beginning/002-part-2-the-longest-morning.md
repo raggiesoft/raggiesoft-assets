@@ -1,0 +1,16 @@
+# Part 2: The Longest Morning
+
+While Stella and Olivia were at the Municipal Center, the house on Daniel Maloney Drive was a bubble of carefully managed calm. Arthur and Eleanor had arrived early, their presence a steadying force. They knew this morning would be a significant challenge for Leo. Since Olivia had flown home with him from Seattle nearly ten months ago, he had not voluntarily spent a single moment apart from her. This separation, though temporary and for a joyful purpose, was a monumental test of the progress he had made.
+
+Leo was a knot of raw anxiety. He sat in his wheelchair in the living room, his new **Quantum Communicator** on its mount, but his hands were clenched tightly in his lap. His gaze kept darting to the front door, then to the clock, then back to the door. Every tick of the clock seemed to echo the frantic, worried beating of his own heart.
+
+Arthur, seeing his grandson's distress, knew a simple distraction was needed. "Alright, you two," he announced, his voice a cheerful, no-nonsense rumble that cut through the tense silence. "Your grandmother has a project for us."
+
+Eleanor smiled, picking up a large, flat box from the coffee table. "Your grandfather and I were cleaning out the attic," she explained, "and we found this. It's a five-thousand-piece puzzle of a map of the world. I thought, with the four of us working on it, we might just be able to get the border finished before the girls get back."
+
+It was the perfect mission. A complex, detail-oriented task that required intense focus. Luna, sensing Leo’s need for the distraction as much as her own, immediately brightened. "A five-thousand-piece puzzle? Grandpa, are you trying to drive us crazy?" she teased, already clearing space on the large dining room table.
+
+They spent the next hour absorbed in the quiet, methodical work of sorting edge pieces from the vast sea of cardboard shapes. Arthur kept up a steady stream of light chatter, telling old stories about his time in the Navy and quizzing them on geography as they pieced together the coastlines. Eleanor, ever the quiet anchor, would occasionally point out a matching piece with a soft, "Leo, dear, I think this one is yours."
+
+Leo threw himself into the task, his anxious energy now channeled into finding the right shapes, the correct patterns. It helped. It truly did. But beneath the surface of his concentration, the anxious mantra continued. *She’s okay. She’s safe. She’s with Stella. She’ll be back soon.* This separation was a choice, a necessary step for the future he and his *ma blonde* were building together. He knew that. But knowing it and feeling it were two very different things. He focused on the puzzle, his hands methodically connecting the pieces, and waited for the sound of the Holt Sentinel pulling into the driveway, the sound that would mean his safe harbor had finally come home.
+

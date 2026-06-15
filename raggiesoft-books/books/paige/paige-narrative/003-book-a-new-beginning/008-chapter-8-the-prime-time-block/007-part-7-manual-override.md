@@ -1,0 +1,91 @@
+# Part 7: Manual Override
+
+## Tuesday, July 15, 2003 10:30 AM
+
+The stalemate in the living room broke not with a sound, but with a rumble.
+
+Freddie’s stomach growled—a low, demanding vibration that echoed through his chest and into Paige’s lap.
+
+The biological imperative had finally issued an override command. *Fuel required.*
+
+Freddie slowly, incrementally turned his head. He peeled his face away from the soft cotton of Paige’s shirt. His glasses were crooked, his hair messy. He blinked, his eyes adjusting to the soft light of the room.
+
+He looked at the coffee table. The bowl of Honey Oat Rings was there, a beacon of beige carbohydrates.
+
+He lifted his hand. It trembled slightly. The connection between his brain and his arm felt laggy, like a computer struggling to run a program with insufficient RAM. He reached out, his fingers twitching, but the distance felt infinite.
+
+Jessica didn't wait for him to struggle.
+
+She stood up from the recliner, closing her book. She walked over to the sofa, stepping quietly on the carpet. She didn't stand over him; that would be intimidating. Instead, she sat down directly on the coffee table, facing him.
+
+She picked up the bowl.
+
+"I got it," Jessica whispered.
+
+She reached into the bowl and picked up a single oat ring. She held it out to him, hovering it right in front of his lips.
+
+Freddie looked at the cereal. Then he looked at Jessica.
+
+To an outsider, a twenty-year-old woman hand-feeding her eighteen-year-old brother might have looked strange. But inside the walls of 105 Pepper Street, it wasn't strange. It was a manual override. It was a bypass of the broken motor functions to ensure the system received power.
+
+Freddie opened his mouth. Jessica placed the cereal on his tongue. He crunched it slowly.
+
+"Good?" Jessica asked.
+
+Freddie nodded slightly. "Texture... valid."
+
+She offered him another. And another. She fed him like a bird, patient and steady. With every bite, a little bit of color returned to his cheeks. The sugar and the grain were doing their job, firing up the glucose receptors in his brain.
+
+Paige adjusted her position, shifting slightly to support his upper back better so he could swallow easier. She kept her hand on his chest, feeling his heartbeat steadying.
+
+"I appreciate... the assistance," Freddie whispered between bites. "Motor control is... laggy."
+
+"We know," Jessica said, offering him a cluster of three rings this time. "That's why we're here. Admins have root access."
+
+Freddie chewed. He looked down at himself—the soft grey pajama pants, the white t-shirt. He looked at Jessica in her flannel pants. He looked at Paige’s legs stretched out on the sofa.
+
+"Pajamas," Freddie noted. "Optimal uniform."
+
+"The best," Jessica agreed. She set the bowl down on the table, now half-empty. "Fuel transfer complete for now."
+
+She leaned forward, resting her elbows on her knees, bringing her face level with his. Her expression was gentle but serious—the look of a mechanic explaining a necessary repair.
+
+"Freddie," Jessica said softly. "We can stay in pajamas all day. We are not leaving the perimeter. That is a promise."
+
+Freddie nodded. That was good data.
+
+"But," Jessica continued, "we have the *Physiology* chapter. It’s dense. It’s looming."
+
+Freddie flinched slightly, the "Emergency Brake" threatening to re-engage.
+
+"Listen to the logic," Jessica said quickly, putting a hand on his knee to stop the retreat. "If we wait until tonight, it will hang over your head all day. It will be a background process eating up your RAM. You won't be able to fully relax because you'll know the task is incomplete."
+
+She pointed to the stack of books on the floor.
+
+"If we do it now—just for an hour, while we're comfortable, while Paige is holding you—then it's done. The file is closed. And you can spend the rest of the day at 100% idle. No guilt. No deadlines. Just *Stellar Voyage* and naps."
+
+Freddie processed the logic.
+
+- **Option A:** Delay work. Result: Anxiety accumulation. Low-quality rest.
+
+- **Option B:** Execute work now with support. Result: Task completion. High-quality rest. Total freedom.
+
+It was efficient. It was the correct architectural decision.
+
+"Clear the buffer," Freddie whispered.
+
+"Exactly," Jessica smiled. "Clear the buffer."
+
+"Okay," Freddie said. He pushed himself up a few inches, leaning heavily back against Paige’s chest. "Retrieve the manual."
+
+"Retrieving," Jessica said, reaching for the heavy textbook.
+
+She didn't make him hold it. She opened it on her own lap, sitting on the coffee table in front of him, turning the book so they could all see.
+
+"Chapter 5," Jessica announced, smoothing the page. "The Endocrine System. Let's learn about hormones."
+
+Freddie adjusted his glasses. He was still drained. He was still in his sister's lap. But the panic was gone, replaced by the quiet, steady rhythm of learning.
+
+"Proceed," Freddie said.
+
+

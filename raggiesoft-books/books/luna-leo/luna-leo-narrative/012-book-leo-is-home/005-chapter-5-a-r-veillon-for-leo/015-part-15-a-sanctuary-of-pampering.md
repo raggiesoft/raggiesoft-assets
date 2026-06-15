@@ -1,0 +1,16 @@
+# Part 15: A Sanctuary of Pampering
+
+The first morning at The Atlantic Grand Hotel felt like waking up in a different world. Leo woke not to the familiar sounds of his own home, but to the gentle, distant roar of the Atlantic Ocean and the feeling of incredibly soft, high-thread-count sheets on the massive Alaska King bed. He was surrounded by his fortress—Olivia, Stella, and Luna—all still sleeping peacefully in the grand, quiet room.
+
+Their first taste of the pampering Arthur had arranged arrived via a quiet knock on the suite door. A team of hotel staff wheeled in a series of carts laden with their breakfast: sterling silver cloches covering plates of fluffy pancakes and perfectly cooked eggs for Leo, fresh croissants, a mountain of bacon, tropical fruits, and steaming carafes of coffee and rich, decadent hot chocolate. It was a feast, enjoyed in their plush robes while looking out at the winter sea.
+
+Later that morning, the true pampering began. Arthur had arranged for the hotel's five-star spa to come to them. Two massage therapists arrived at their fortress suite, setting up a pair of professional massage tables.
+
+"We were informed that you two would be receiving your treatments together," the lead therapist said with a warm, discreet smile, addressing Leo and Olivia. Arthur had briefed the hotel staff thoroughly: Leo was not to be separated from Olivia unless they both approved.
+
+While Stella and Luna took the Canadian cousins to explore the hotel's indoor heated pool, Leo and Olivia had a couples massage. For Leo, whose body was still a tense knot of residual fear and the physical pain of the bus trip, the skilled, therapeutic touch was a revelation. The therapist worked carefully on the sore muscles in his arms and back, easing a tension he hadn't even realized he was still carrying. Olivia, lying on the table next to him, finally allowed the stress of the rescue to melt away under the therapist's hands. They didn't speak; they just lay there in the quiet, calming atmosphere, healing together.
+
+The pampering continued throughout the day. The hotel's concierge sent up a selection of the latest movies on DVD for them to watch on the suite's large television. The bathrooms were stocked with luxurious soaps and lotions. Every detail was designed to soothe, comfort, and erase the memory of the harrowing cross-country journey.
+
+For Leo and Olivia, this wasn't just luxury; it was a profound act of care. It was the physical and emotional antithesis of the neglect and trauma they had just endured. Surrounded by his fortress, attended to with kindness and respect, Leo was not just safe; he was cherished. The Grand Old Lady on the Hill was more than a hotel; it was a sanctuary, and its quiet, attentive pampering was another powerful step on the road to healing.
+

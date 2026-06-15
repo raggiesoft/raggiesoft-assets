@@ -1,0 +1,88 @@
+# Part 1: The Sovereign’s Hubris – Tuesday, May 2, 2051 – 08:00 (Standard Galactic Time)
+
+High Director Kael was not a man who waited.
+
+Less than forty-eight hours after the catastrophic, instantaneous vaporization of his thirty heavy-plasma cruisers in System 88-Tango, Kael arrived to handle the anomaly personally. He didn't send another mercenary fleet. He didn't send stealth probes.
+
+He brought the *Tartarus*.
+
+The *Tartarus* was a Sovereign-Class Super-Carrier, the absolute, terrifying pinnacle of Apex military engineering. It was a brutalist, black-armored wedge measuring exactly sixteen kilometers long, bristling with enough thermonuclear firepower to crack a planet's mantle. It was the might of the Acheron dictatorship condensed into a single hull.
+
+Standing on the bridge, bathed in the cold blue light of the tactical readouts, Kael sneered down at the holographic projection of Exoplanet 4.
+
+"High Director," his sub-commander reported, his voice tight with awe. "We have established geostationary orbit. Our deep-core thermal and optical scanners are completely penetrating the atmosphere."
+
+"Show me," Kael commanded, his hands clasped behind his back.
+
+The hologram shifted, rendering the surface of the planet.
+
+It wasn't a pristine emerald forest. It wasn't a fortified stronghold. According to the state-of-the-art Apex sensors, Exoplanet 4 was a completely shattered, irradiated husk. Massive, jagged tectonic fissures bled glowing orange magma. The atmosphere was a choked, toxic swirl of radioactive ash. It looked exactly like Earth had looked on the day Apex broke it.
+
+"The entire biosphere is eradicated, sir," the sub-commander stated, utterly confused. "The previous mercenary fleet must have triggered a catastrophic, unstable rogue-generator left behind by an extinct civilization while initiating their orbital bombardment. The resulting explosion destroyed our cruisers and glassed the planet's surface simultaneously."
+
+Kael’s arrogant smile returned, cold and dismissive. For a fraction of a second, he had been paranoid that the two runaway S.H.O.P. Marines—Contractors Colton and Hayes—had somehow survived and built a fortress. But this? This was just the chaotic collateral damage of unstable, ancient technology. Two minimum-wage grunts, nothing more than expendable inventory destined for the deep-crust labor camps, couldn't survive a shattered mantle. They were dead, just like the rock they had tried to hide on.
+
+"Typical," Kael mocked softly. "Deploy the salvage dreadnoughts into the upper atmosphere. Sift through the radioactive ash. If that rogue generator left any viable FTL components behind, I want them harvested."
+
+The massive black hull of the *Tartarus* slowly descended, pushing its sixteen-kilometer mass deep into the gravity well of the dead rock to oversee the salvage operation.
+
+Millions of kilometers below, the reality of Planet Eden was entirely different.
+
+There were no magma fissures. There was no radioactive ash. There was only the warm, amber glow of the Combat Information Center, buried safely beneath fifty meters of solid bedrock and vibrant alien pine forests.
+
+Wyatt Colton was leaning against the edge of the glowing blue holotable, holding a steaming mug of black coffee. He was wearing his stained canvas work pants and a faded gray t-shirt. He had spent the last five years raising his children, but while they slept, he and Sarah had spent thousands of hours completely rewriting the Aegis shield matrix.
+
+They hadn't just built a wall. They had built the ultimate, galaxy-class decoy. The "shattered mantle" Kael was looking at was nothing more than a flawless, planet-wide holographic and thermal illusion projected by the hard-light grid.
+
+Wyatt took a slow sip of his coffee, watching the massive, terrifying red icon of the *Tartarus* hovering in the tactical projection.
+
+"Well, Aria," Wyatt rumbled softly. "You have to give him credit. He certainly knows how to walk right through an open door."
+
+*"Scans indicate the vessel is the Tartarus, Administrator,"* Aria chimed perfectly calmly. *"High Director Kael is aboard. They have crossed the atmospheric threshold at an altitude of four hundred kilometers and are continuing their descent."*
+
+"Let him come down a little further," Wyatt murmured, his eyes tracking the red behemoth. Kael was playing checkers, assuming the galaxy operated entirely on brute force. Wyatt was playing chess.
+
+At five and a half years old, Ellie was standing on a specialized tactical step-stool Wyatt had welded for her at the edge of the holotable. She was wearing her miniature canvas vest, her dark eyes locked intensely on the massive red hologram of the enemy ship.
+
+"Dada," Ellie said, her voice crisp and entirely unafraid. "Ship is too big. Why is it in the sky?"
+
+"Because the man flying it thinks we aren't here, Commander," Wyatt explained gently, resting his heavy hand on her shoulder. He pointed a calloused finger at the hologram. "He thinks the planet is broken. He's bringing his ship down low to look for scrap."
+
+Ellie’s brow furrowed. She looked at the red ship, and then she looked up at the ceiling, visualizing the invisible shield Wyatt had told her protected their home. Her tactical brain processed the geometry of the situation.
+
+"Trap," Ellie whispered, her eyes widening slightly.
+
+"A trap," Wyatt confirmed, a fierce, predatory smile—one Ellie perfectly mirrored—spreading across his scarred face. He looked at Sarah, who was standing on the other side of the table with sixteen-month-old Jack resting happily on her hip. Jack babbled, entirely insulated from the galactic stakes, while Sarah gave Wyatt a sharp, absolute nod of approval.
+
+"Aria," Wyatt commanded, his voice dropping into a low, lethal register. "He's deep enough in the gravity well. Execute Protocol: Checkmate. Drop the illusion. Invert the polarity of the hard-light grid."
+
+*"Executing Protocol: Checkmate,"* Aria chimed.
+
+Suddenly, the sky above Planet Eden didn't just clear—it solidified.
+
+Wyatt hadn't just built a localized umbrella over his house. He had seeded the entire upper thermosphere with microscopic, self-replicating hard-light emitters. In a fraction of a millisecond, the illusion of the dead, magma-filled planet vanished, replaced by the breathtaking, vibrant emerald greens and deep oceanic blues of Eden.
+
+Simultaneously, an impenetrable, solid dome of golden kinetic energy snapped shut across the entire upper atmosphere.
+
+Wyatt didn't raise a shield to keep Kael out. He raised an inverted, planet-wide sphere to lock him *in*.
+
+On the bridge of the *Tartarus*, the alarms finally began to scream.
+
+"High Director!" the sub-commander shrieked, his hands flying across his console as the ship violently shuddered. "The thermal telemetry was a spoof! The planet is alive—and a Class-10 energy barrier just materialized directly *behind* us! We are caught inside the atmospheric envelope! We are locked in!"
+
+Kael’s arrogant smile vanished, replaced by sheer, unadulterated terror as he looked at the visual monitors. The dead rock was gone. A lush, beautiful world stared back at him, and the sky above his fleet was sealed shut by a glowing golden cage.
+
+He had flown his entire empire directly into a titanium bear trap.
+
+"Initiate Faster-Than-Light jump!" Kael roared, spit flying from his lips. "Get us out of here now!"
+
+"We can't, sir! We're four hundred kilometers deep in the gravity well! An atmospheric FTL jump will rip the hull apart!"
+
+Down in the CIC, Wyatt set his coffee mug down. He wasn't a minimum-wage grunt anymore. He was the Administrator of Planet Eden. And a mechanic knew exactly where to strike when a machine was pinned on the operating table.
+
+"Aria," Wyatt said calmly, his eyes locked on the trapped, panicked flagship. "Target the *Tartarus*. Primary thermal exhaust ports and sub-light thruster banks. Fire planetary defense batteries one through ten."
+
+*"Firing."*
+
+From deep within the hidden, fifty-meter-tall alien pine forests, ten blinding streaks of anti-matter tore upward into the sky, slamming directly into the exposed, completely undefended underbelly of Kael’s trapped empire.
+

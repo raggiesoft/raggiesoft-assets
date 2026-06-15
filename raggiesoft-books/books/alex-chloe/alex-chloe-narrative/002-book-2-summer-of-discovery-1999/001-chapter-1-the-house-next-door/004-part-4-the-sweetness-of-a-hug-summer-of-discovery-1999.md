@@ -1,0 +1,32 @@
+# Part 4: The Sweetness of a Hug (Summer of Discovery, 1999)
+
+The late afternoon sun, a hazy gold through the Virginia summer sky, cast long shadows across Alex Miller's bedroom floor. He and Chloé Mason were sprawled comfortably in his room, a familiar haven for their shared adventures and quiet companionship. Alex was in his wheelchair, tilted back slightly for relaxation, his Quantum OS computer displaying a complex star chart he’d been explaining. Chloé was lying on her stomach on his full-sized bed, chin propped in her hands, listening intently, her brow furrowed in concentration as she tried to grasp the concept of nebulae.
+
+"So, the gas and dust… they just kind of clump together because of gravity?" Chloé asked, looking over at him. "And then *boom*, a star?"
+
+Alex smiled, a familiar warmth spreading through him at her genuine curiosity. He typed on his Quantum Communicator, the synthesized voice clear and patient: "MORE OR LESS. IT'S A VERY SLOW BOOM. MILLIONS OF YEARS. BUT YES, GRAVITY IS THE KEY. LIKE A GIANT COSMIC SNOWBALL ROLLING DOWNHILL, GATHERING MORE SNOW."
+
+Chloé’s eyes lit up. "A cosmic snowball! I like that!" She scrambled off the bed, her energy infectious, and moved to Alex’s side, peering at the star chart with him. "Okay, show me that Eagle Nebula again. The 'Pillars of Creation' one. It looks so cool."
+
+As Alex pointed it out on the screen, Chloé, caught up in the wonder of it, leaned in and gave him a spontaneous, warm hug, her arms comfortably around his shoulders, her cheek briefly resting against his hair. It was a hug of shared discovery, of simple, uncomplicated enthusiasm – the kind that had become a cherished and frequent currency in their friendship.
+
+Alex leaned into it naturally, his own arm coming up to return the embrace. Each hug from Chloé was still a marvel to him. For her, he sensed, it was a natural expression of her warm, open heart – a hug was a hug, a delightful way to share a moment. For Alex, it was a universe of meaning: a profound antidote to years of loneliness, a comforting anchor that soothed the often-jagged edges of his autistic senses, a validation from a peer, from a *girl*, that he was seen, liked, and safe.
+
+As Chloé drew back, a playful glint sparked in her bright hazel eyes. She tilted her head, looking at him with mock seriousness. "Okay, Alex Miller," she said, her voice laced with teasing affection. "What is it with you and hugs, anyway? You're like a professional hug enthusiast. Not that I'm complaining, mind you! Your hugs are top-tier."
+
+Alex blinked, a slow grin spreading across his face. This easy teasing, this comfortable intimacy, was a world away from the awkward dismissals he’d experienced before Chloé. He thought of the vast emptiness of his social world before her arrival, the quiet ache of being an only child who deeply wished for a peer. Now, there was Chloé, filling his days with laughter, understanding, and these wonderful, unconditional hugs.
+
+He typed, his own playful spirit rising to meet hers: "ME? WHAT ABOUT YOU, CHLOÉ MASON? YOU'RE THE ONE WHO INVENTED THE 'BIG SQUEEZE HUG' ON THE VERY FIRST DAY WE MET! AND THE 'ICE CREAM EMERGENCY HUG' AT BOARDWALK BLASTS! I THINK YOU'RE THE REAL HUG AMBASSADOR AROUND HERE." He added a winking emoji icon.
+
+Chloé laughed, a bright, delighted sound that filled the room. "Hey! Those were totally justified 'we-just-met-and-you're-awesome' hugs! And the 'we-survived-the-great-ice-cream-avalanche-of-99' hug was a heroic necessity! And let’s not forget the 'we-finally-beat-that-impossible-Star-Voyager-game-level' hug!" She ticked them off on her fingers with dramatic flair. "All completely warranted!"
+
+"AND THE 'GOOD MORNING, LET'S GO EXPLORE THE CREEK EVEN THOUGH IT'S PROBABLY FULL OF SNAPPING TURTLES' HUGS?" Alex typed, his eyes twinkling with shared amusement. "AND THE 'THANKS FOR EXPLAINING WHY THE SKY IS BLUE FOR THE TENTH TIME BECAUSE I LIKE HEARING YOU TALK' HUGS? AND THE 'JUST BECAUSE IT'S A SUNNY WEDNESDAY AND WE'RE BEST FRIENDS' HUGS?"
+
+Chloé threw her head back and laughed again, the sound pure joy. "Okay, okay, you win! Maybe I like hugs. A lot." She then leaned in again, her expression softening, her voice quieter, filled with a genuine, deep affection that always made Alex’s heart feel a little too big for his chest. "But seriously, Alex," she said, her gaze direct and sincere, "it’s just… nice. You give really good hugs. And," she added, her eyes shining, "it’s just really, *really* nice to have a best friend who actually *likes* getting them and giving them back. There's no awkwardness, no weirdness. It just feels… right. Safe."
+
+Alex’s heart swelled almost painfully. *Safe*. That was it. Her hugs made him feel profoundly safe, seen, and anchored in a way nothing else ever had. He knew Chloé cherished their hugs for the friendship they represented. For him, it was that, but it was also a lifeline, a constant, gentle reassurance that he belonged, that he was valued, that this incredible girl, his best friend, genuinely delighted in his presence as much as he did in hers. Sometimes, the sheer force of this happy reality was almost overwhelming, a stark, beautiful contrast to the loneliness that had once been his shadow.
+
+He typed, his message heartfelt and direct, imbued with all the complex emotions her simple affection stirred in him: "YES. JUST... RIGHT. AND SAFE. I LIKE HUGGING YOU ALL THE TIME, CHLOÉ. MORE THAN ANYTHING. AND I'M REALLY, REALLY GLAD YOU LIKE HUGGING ME TOO. THANK YOU... FOR BEING MY FRIEND. AND FOR EVERY SINGLE HUG."
+
+Chloé’s smile was radiant, understanding shining in her eyes. "Anytime, Alex Miller," she whispered, and then, as if to punctuate the sentiment that needed no more words, she pulled him into another warm, encompassing hug. Alex held on, breathing in the faint, familiar scent of her sunshine-and-adventure shampoo, grateful beyond measure for this amazing girl, for this incredible summer, and for the simple, overwhelming, shared joy of a hug between best friends who understood each other completely.
+

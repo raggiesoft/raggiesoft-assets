@@ -1,0 +1,40 @@
+# Part 2: The Diagnosis
+
+The thermometer’s beep was a small, sharp sound that seemed to echo with dread in the quiet apartment. Chloé pulled it from under Alex's tongue and stared at the digital display: 100.8°F. A low-grade fever, but a fever nonetheless.
+
+She then went into the office, where Megan was resting on a makeshift bed on the floor. Her result was 99.9°F. Not as high as Alex's, but still elevated.
+
+"That's it," Chloé said, her voice a mixture of fear and absolute resolve. "We're all getting tested. Now."
+
+Based on the news reports, she knew what the combination of symptoms meant. She knew, with a certainty that made her blood run cold, that the virus was inside their home.
+
+The drive to the testing site was a surreal, nerve-wracking ordeal. The nearest drive-through clinic had been set up in the vast, empty parking lot of the local community college. Chloé navigated their Holt Wayfarer through a silent, winding maze of orange cones. In the back, Alex sat quietly, a heavy exhaustion radiating from him. Megan was in the passenger seat, a blanket wrapped around her shoulders, looking pale but resolute.
+
+At the checkpoint, a healthcare worker dressed in what looked like a full hazmat suit approached their window.
+
+"Are all three of you here to be tested?" the worker asked, their voice muffled.
+
+"My husband and his cousin are showing symptoms," Chloé explained, her own voice trembling slightly. "I've been in close contact with both of them. We all need to be tested."
+
+The worker nodded and directed them to a testing tent. Another fully-garbed worker administered the uncomfortable, invasive nasal swabs to all three of them through the open car windows. Afterward, they were directed to a designated waiting area, a row of silent, isolated cars, to await the results.
+
+They sat in their car, the engine off, the silence thick with unspoken fear. Alex knew he was in a higher-risk category. Megan just leaned her head back against the seat, her eyes closed. Chloé’s hand found Alex's, her grip a desperate, solid anchor in the sea of their shared anxiety. Every minute felt like an hour.
+
+Finally, her cell phone rang. It was an unknown number. She answered, putting it on speaker.
+
+"Hello, is this Chloé Miller?" a calm, professional voice asked.
+
+"Yes, this is she," Chloé managed.
+
+"I have the results of your COVID-19 rapid tests," the voice said. "For Chloé Miller, the result is negative."
+
+A single, shaky breath of relief escaped Chloé. She squeezed Alex's hand. She was safe. She could care for them.
+
+"For Megan Carter," the voice continued, "the result is positive."
+
+Megan let out a small, weary sigh, but said nothing.
+
+"And," the voice continued, and Chloé’s heart froze, "for Alex Miller, the result is positive."
+
+The word hung in the air, heavy and terrifying. It wasn't a suspicion anymore. It wasn't a fear. It was a fact. They were in a global pandemic, and the virus was now inside their home, and she was the only one left to fight it.
+

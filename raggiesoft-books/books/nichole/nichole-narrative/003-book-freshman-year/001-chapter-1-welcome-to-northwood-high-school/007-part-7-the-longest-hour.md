@@ -1,0 +1,74 @@
+# Part 7: The Longest Hour
+
+The bell for the end of 4th period rang—a shrill, electric buzzer that vibrated in Nichole’s teeth.
+
+In the hallway outside Latin, the traffic jam of changing classes began. This was the moment of separation. Patrick had English in Room 204 (Honors), and Nichole had English in Room 108 (Standard/Inclusion).
+
+Patrick stopped the Titan AeroMotion at the intersection of the main hall and the English wing. Mrs. Hatcher was waiting there. The aide looked nervous, her hands clasped tightly in front of her, chastened by the Principal’s earlier dressing-down.  
+
+"I'll take her from here, Patrick," Mrs. Hatcher said. Her voice was quieter than usual, lacking its normal chirpy condescension, but to Nichole, it still sounded like the scrape of a shovel on concrete.  
+
+Patrick hesitated. He looked down at Nichole.
+
+"I gotta go, Nikki," he said, shifting his weight on his bad leg. "Mr. Miller locks the door if you're late. I'll see you at lunch. Pizza day, remember?"  
+
+Nichole didn't look at Mrs. Hatcher. She looked only at Patrick. She tapped her armrest once. Stay.
+
+"I can't," Patrick said gently. "Lunch is in fifty minutes. You can do this. You're a tank, right?".  
+
+He squeezed her shoulder one last time, then turned and disappeared into the crush of students moving toward the stairs.
+
+Nichole felt the familiar, heavy hands of Mrs. Hatcher grip the push handles of her chair. The connection to her brother was severed. Now, she was just cargo.  
+
+Mrs. Hatcher pushed her down the hall. "We're going to have a good period, Nichole," the aide whispered, leaning too close to Nichole's ear. "We're going to use our quiet hands and get our work done."
+
+Nichole tucked her chin down. Turtle Mode. She engaged the muscles in her neck, locking her head forward so she wouldn't have to look at the woman who had watched her scream two hours ago.  
+
+They entered Room 108. It was a brightly lit room with posters of Shakespeare and motivational quotes about "Shooting for the Stars." Mrs. Hatcher parked the Titan at the designated spot in the back—the "wheelchair spot"—isolated from the rows of desks where the other students sat.  
+
+The teacher, Mr. Davies, was reading from The Odyssey. He was talking about Odysseus being stranded at sea, far from home.
+
+Nichole stared at the back of the student's head in front of her. She couldn't focus on the Cyclops or the Sirens. Her mind was stuck on the clack-clack of the clock on the wall.
+
+10:15.
+
+Mrs. Hatcher sat in a plastic chair right next to her. Every time Nichole moved her arm to adjust her glasses, Mrs. Hatcher jumped.
+
+"Do you need something, honey? Do you need a tissue? Do you need the device?" Mrs. Hatcher hovered, her hand hovering inches from Nichole's arm, terrified to touch but unable to stop interfering.  
+
+Nichole squeezed her eyes shut. The proximity was suffocating. She remembered the wrestling room. She remembered the purple foam mats and the feeling of sinking while this woman stood there and told her to "use her words" when she had none.  
+
+She resented the school. She resented the way they carved her day into "Patrick time" and "Aide time." They didn't understand that without Patrick, the machine didn't work right. He was the operator; everyone else was just guessing.  
+
+She looked at her VocaLink screen. The cursor blinked green against the black background.  
+
+Mrs. Hatcher saw her looking at the screen. "Do you want to participate, Nichole? Mr. Davies is asking about the Lotus Eaters."
+
+Nichole didn't type Lotus Eaters. She didn't type Odysseus.
+
+She just watched the clock.
+
+10:38.
+
+She clicked her tongue against the roof of her mouth—a rhythmic, self-soothing tic. Click. Click. Click.  
+
+"Shh," Mrs. Hatcher whispered, patting the air near Nichole's hand. "Quiet mouth, please."
+
+Nichole stopped clicking. She went rigid. The anger flared in her chest—a hot, sharp pressure. She wanted to hit the armrest. She wanted to scream again just to prove she was still there.
+
+But she didn't. She saved it. She locked her muscles and waited.  
+
+She would wait for the bell. She would wait for the cafeteria. She would wait for the only person in this entire building who didn't treat her like a broken doll.
+
+10:59.
+
+The minute hand clicked over. The bell rang.
+
+Nichole let out a long, ragged breath. Survivable.
+
+Mrs. Hatcher unlocked the brakes. "Lunchtime, Nichole. Let's go meet your brother."
+
+Nichole didn't wait for the aide to push. She grabbed her own rims—her hands clumsy but determined—and shoved the wheels forward a few inches, starting the momentum herself.  
+
+Get me out of here.
+

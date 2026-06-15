@@ -1,0 +1,38 @@
+# Part 4: The Route to ORF (1:00 PM)
+
+The crisp, bright November air felt entirely different today. Yesterday, the cold had felt biting and hostile as Nate sat shivering in the back of his mother's sedan, fleeing the Pathfinder terminal. Today, as Sarah wheeled him down the driveway ramp, the chill in the air just felt sharp, awake, and full of promise.
+
+Sarah popped the trunk of Evelyn’s car, expertly collapsing the manual chair with a familiar metallic clatter. Nate transferred himself into the backseat, sliding over to make room. A moment later, Sarah slid in right beside him, pressing her shoulder firmly against his. It was the exact same seating arrangement as yesterday's traumatic extraction, but the psychological weight had completely shifted. They weren't retreating into a protective cocoon anymore; they were a strike team heading out to retrieve their own.
+
+Up front, Evelyn adjusted the rearview mirror, her eyes crinkling with a warm smile as she looked at her children. She shifted the car into drive and pulled out of the neighborhood, pointing the hood toward Interstate 64.
+
+"So, the concourse exit strategy," Sarah said, leaning her head back against the seatbelt as they merged onto the highway. "Have you factored in how we handle the luggage? If we intercept them at the TSA exit, that means we are walking the entire length of the pedestrian skybridge *before* we hit the baggage carousels. Megan is going to be tired."
+
+"I thought about that," Nate nodded, the excitement bubbling up in his chest. "That's why I'm bringing my chair. I'll be rolling, so I won't be using up any of your energy. Brittany can walk with Megan—she always uses her forearm crutches when she travels anyway. We can take our time crossing the skybridge. The moving walkway does most of the work. Once we get to the carousels, Mom and you can grab the duffel bags, and I can carry the smaller carry-ons on my lap."
+
+He pictured Megan in his head, navigating the terminal with the lightweight forearm crutches she had used since she was a toddler. He didn't know that, at this exact moment in St. Louis, Megan was resting in a transport chair. All he knew was that whatever mobility aid she was using, the fortress would adapt to support her the second she walked through the doors.
+
+Sarah glanced over at him, a deep, unmistakable pride softening her features. "Look at you coordinating the logistics. You've got the whole tactical map in your head."
+
+Nate looked out the window as the green highway signs for Exit 279B loomed overhead. He did have the map in his head, and for the first time in years, he wasn't second-guessing it. Valerie had spent two years systematically dismantling his confidence, convincing him that his neurodivergence made him incapable of handling plans. But sitting in the backseat, tracking the route to Norfolk International, he realized she had been entirely wrong. His brain wasn't a liability; it was the exact reason he could perfectly visualize the airport layout and coordinate a flawless extraction.
+
+Evelyn guided the sedan down the SR-247 off-ramp, following Norview Avenue until the massive, arched bridge of the airport property came into view. As they crossed the overpass, the roadway split. Evelyn bypassed the right-hand lanes designated for Departures, keeping the car smoothly to the left and following the signs for Arrivals.
+
+Nate's gaze was fixed on the pedestrian skybridge, where he could see the distinct, metallic pallets of the moving walkway platforms rising, leveling, and interlocking. It was a robust system of interconnected metal pieces, moving with a sturdy, reassuring cadence. The metallic platforms clacked and hummed with a rhythm that was comforting to Nate, and he watched the system with fascination as they passed underneath.
+
+Evelyn navigated the sedan into the massive, multi-level concrete parking garage, clearly marked for arrivals. The moment the engine cut off, Nate’s heart started hammering a rapid, joyful rhythm against his ribs.
+
+Sarah quickly retrieved his wheelchair, and within minutes, the three of them were moving as a unified front. They crossed from the garage into the main Arrivals building. The cavernous space was echoing with the sounds of travelers and rolling suitcases, but Nate’s focus was singular.
+
+They bypassed the baggage claim escalators entirely, heading straight for the pedestrian skybridge that connected the Arrivals building to the Departures terminal.
+
+Sarah pushed his chair onto the beginning of the moving walkway. Not a rubber belt, but a complex, metallic platform of interlocking pallets, which clacked steadily with that robust, escalator-like rhythm. Nate felt a wave of comfort and clean sensory input. He always loved the airport, and today, it felt especially full of systems that were working, and that were bringing his family back to him.
+
+They stepped off the metallic platforms and entered the Departures terminal, turning immediately toward Concourse A. Meridian Airlines Flight 492 was scheduled to arrive at Gate A4.
+
+At exactly 1:45 PM, Evelyn, Sarah, and Nate took up their positions just outside the sterile boundary of the Concourse A TSA exit.
+
+Beyond the glass partition and the heavy, one-way security doors, they could see the steady trickle of arriving passengers flowing down the concourse corridor. Nate engaged his wheel locks, his hands gripping his armrests tight. His right leg began to bounce rapidly against the footplate, a physical manifestation of the ADHD joy overloading his system.
+
+The digital clock on the wall ticked forward. Every time the heavy exit doors slid open, letting out a rush of conditioned air and the muffled sound of the concourse, Nate held his breath. He was ready. He was right where he needed to be. The perimeter was set, and the wait was almost over.
+

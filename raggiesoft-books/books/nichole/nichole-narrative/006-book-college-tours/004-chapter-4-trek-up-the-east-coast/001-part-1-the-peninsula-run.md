@@ -1,0 +1,32 @@
+# Part 1: The Peninsula Run
+
+## Date: July 1, 2003 Time: 6:00 AM Location: 1850 Delaney Street, Virginia Beach, VA
+
+The expedition began in the blue-gray light of dawn.
+
+The Liberty Trekker sat in the driveway, its suspension compressed under the weight of luggage, a cooler full of sandwiches, and the heavy, purple power chair locked into the passenger position.
+
+Tom Bennett walked around the vehicle, kicking the tires. He checked the oil. He checked the lift hydraulics. This wasn't a grocery run; this was a thirteen-hour tactical insertion into New England.
+
+"Load up," Tom commanded.
+
+Patrick helped Nichole transfer into the van. She was wearing her comfortable travel clothes—yoga pants and a loose t-shirt—and her VocaLink was mounted and fully charged.
+
+Ellen sat in the front passenger seat. She didn't need a map. They had done the run to Maryland enough times to visit relatives that the route was etched into their brains.
+
+"We are avoiding D.C. at all costs," Ellen declared, checking her watch. "If we hit the Beltway at 9:00 AM, we lose three hours. We take the Shore."
+
+## The Chesapeake Bay Bridge-Tunnel Time: 6:45 AM
+
+They turned onto Northampton Boulevard and headed straight for the ocean.
+
+The Chesapeake Bay Bridge-Tunnel (CBBT) was the gateway to the north. At \$10.00 for the toll, it was expensive, but it bought them freedom from the interstate gridlock.
+
+As the van rumbled onto the trestle, the sun was just breaking over the Atlantic to their right. The water was calm, a sheet of hammered copper.
+
+"Going under," Patrick announced from the back seat.
+
+The road dipped. The daylight vanished. They plunged into the mile-long tube of the Thimble Shoal Tunnel. The fluorescent lights flickered rhythmically overhead—*thwup-thwup-thwup*—as they drove sixty feet beneath the shipping channel.
+
+Nichole loved this part. It felt like traveling through a portal. On one side was Virginia Beach, the "System," and the humidity. On the other side was the Delmarva Peninsula and the road to the future.
+

@@ -1,0 +1,70 @@
+# Part 7: The Wardrobe – Sunday, June 4, 2045 – 09:00
+
+The transition from May into early June on Planet Eden was completely seamless. The heavy, torrential rains of the wet season had largely given way to bright, brilliantly clear mornings and warm, lazy afternoons.
+
+Inside the massive dressing room of the master suite, Sarah stood barefoot in front of a sprawling, floor-to-ceiling mirror.
+
+The heavy, suffocating slate-blue uniform of the Helios Geoscience Institute and the stiff, scavenged S.H.O.P. Marine armor were long gone, efficiently recycled by the Fabrication Foundry. In their place lay a brand new wardrobe, meticulously molecularly printed by Aria overnight.
+
+Sarah ran her hands down the sides of her new clothes. She was wearing a pair of incredibly soft, highly elastic dark leggings and a flowing, breathable cotton tunic. The fabric felt like a second skin, offering perfect support without a single ounce of corporate rigidity.
+
+But it wasn't just the comfort of the fabric that held her attention. It was the silhouette.
+
+At roughly seven weeks of gestation, a standard singleton pregnancy would barely be a blip on the radar. But Sarah wasn’t carrying a single baby. She was carrying three.
+
+The initial, frantic hormonal bloating from mid-May had slowly transitioned into something much more structural and permanent. Her uterus was expanding rapidly, pushing up and out of her pelvis at an accelerated rate to make room for three rapidly dividing embryos and their developing placentas.
+
+The result was a distinct, undeniable, and perfectly round baby bump that had completely altered her center of gravity.
+
+Wyatt leaned against the doorframe of the dressing room, a steaming mug of black coffee in his hand. He was wearing his usual relaxed canvas shorts and a fitted black tee, watching her with a look of absolute, unapologetic adoration.
+
+"I still can't get over it," Sarah murmured, turning slightly to the side to inspect her profile in the mirror. She rested her hands underneath the curve of her stomach. "It's barely June, Wyatt. I shouldn't be showing this much for months."
+
+"You're building an entire squad in there, Sarah," Wyatt chuckled, his deep voice echoing warmly in the quiet room. He set his coffee mug on a nearby vanity and walked up behind her.
+
+He wrapped his massive, scarred arms around her, his hands naturally coming to rest directly over hers on her expanding stomach. He kissed the curve of her neck, his chest pressing flush against her back.
+
+"They need the square footage," Wyatt murmured against her skin. "And honestly? You look incredibly beautiful."
+
+Sarah leaned back into his solid warmth, a radiant, deeply contented smile spreading across her face.
+
+The pregnancy, so far, had been an absolute dream. Aria had warned them about the impending tidal wave of first-trimester symptoms, but aside from a profound, heavy exhaustion that forced Sarah to take long naps in the afternoons, the terrifying crash of severe morning sickness hadn't materialized yet. They were thoroughly enjoying the smooth, peaceful calm.
+
+"We know who's in here," Sarah said softly, her eyes meeting his in the mirror's reflection. "Aria's genetic panel confirmed it three weeks ago. Two identical girls, and a fraternal boy."
+
+Wyatt nodded, his thumbs gently stroking the soft cotton of her tunic.
+
+"We need to name them," Sarah decided, turning around in his arms so she could look at him directly. "We named the sun, the planet, and the moons. We can't just keep calling them 'the triplets'."
+
+Wyatt’s eyes lit up. He had spent his entire life without a family, and now he was getting the chance to literally name his legacy.
+
+"Okay," Wyatt smiled, his mind completely shifting away from repulsorlift physics and straight into fatherhood. "Let's start with the girls. The identicals."
+
+Sarah leaned against the vanity, her brow furrowing in thoughtful concentration. She wanted names that felt strong, but classic. Names that belonged on a frontier, not in a corporate boardroom.
+
+"What about Ellie?" Sarah suggested, her eyes brightening as the name rolled off her tongue. "It sounds... warm. Like someone who takes care of people. A mother hen."
+
+"Ellie," Wyatt tested the name, a slow, approving grin breaking across his face. "I love it. Ellie Colton. That's a perfect fit. What about her sister?"
+
+He thought for a second, looking out the massive hydro-glass window at the sunlit valley.
+
+"Nora," Wyatt offered, looking back at Sarah. "It means 'light'. And since we're sitting here on a brand new planet, building everything from scratch... I think we're going to need all the light we can get."
+
+"Ellie and Nora," Sarah breathed, her hands resting over her bump. The names instantly felt permanent, as if they had always been waiting for them. "It's perfect, Wyatt."
+
+"That leaves the boy," Wyatt noted, stepping closer and resting his hands gently on her hips.
+
+Sarah looked up at him. She looked at his broad, heavily muscled shoulders, the faded scars on his chest, and the fierce, unyielding protectiveness that had kept her alive through the absolute worst of the NTTR. She wanted their son to have that exact same quiet strength.
+
+"Leo," Sarah said, her voice filled with absolute certainty. "It means lion. I want him to be as brave as his dad."
+
+Wyatt’s breath hitched slightly, his dark eyes softening with a profound, overwhelming wave of emotion. He leaned down, pressing his forehead against hers.
+
+"Ellie, Nora, and Leo," Wyatt whispered, sealing the names into the history of Planet Eden. "The Colton kids."
+
+"Aria," Sarah called out softly toward the ceiling array, not wanting to break the intimate moment. "Update the Genesis database. Tag the three active maternal profiles."
+
+*"The registry has been permanently updated, Sarah,"* Aria chimed warmly. *"Ellie, Nora, and Leo Colton are officially logged into the archives."*
+
+Wyatt kissed her, a deep, lingering promise of the beautiful, chaotic future racing toward them. The timeline was accelerated, her body was changing rapidly, and they had an entire world to build, but standing there in the dressing room, everything was flawlessly on track.
+

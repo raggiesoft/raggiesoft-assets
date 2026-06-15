@@ -1,0 +1,56 @@
+# Part 1: The Floodplain – Thursday, May 9, 2045 – 17:00
+
+The peaceful, sun-drenched afternoon slowly gave way to a heavy, suffocating humidity.
+
+Wyatt and Sarah had spent the last few hours completely relaxed on the upper deck, enjoying the absolute quiet of their off-grid existence. But as the afternoon wore on, the golden light filtering through the massive alien pines began to shift into a bruised, unnatural purple. The melodic chiming of the local fauna went completely silent.
+
+The air grew thick and incredibly still.
+
+In the tech room, the ambient lighting suddenly snapped from its warm, comfortable baseline to a steady, pulsing amber.
+
+*"Administrators,"* Aria’s voice echoed through the ship, devoid of her usual conversational warmth. *"I require your immediate presence in Operations. We have a severe ecological anomaly developing."*
+
+Wyatt and Sarah exchanged a sharp look. The Eden Rule was temporarily suspended. They quickly pulled on their t-shirts and denim shorts and sprinted barefoot up the final ladder to the Operations center.
+
+Wyatt slid into the captain’s chair, his hands instinctively hovering over the dormant flight controls. Sarah stood directly behind him, leaning over his shoulder to look at the primary CRT monitor.
+
+"Report, Aria," Wyatt ordered, his S.H.O.P. Marine training instantly taking over. "Did Apex find a way around the frequency block?"
+
+*"Negative, Wyatt. The threat is entirely localized,"* Aria responded, throwing a massive topographical map of the river valley onto the main screen. *"Over the past three hours, the localized barometric pressure has plummeted by forty hectopascals. A planetary super-cell storm front is currently cresting the eastern mountain range. We are about to experience an extreme precipitation event."*
+
+"It's just a storm," Sarah said, looking out the forward viewport at the darkening sky. "The hull is lined with titanium and lead. *The Nomad* can easily withstand a hurricane."
+
+*"The structural integrity of the hull is not the primary concern, Sarah,"* Aria clarified, highlighting the winding blue line of the river on the digital map. *"While you were planting the agricultural grid, I ran a deep geological scan of the surrounding soil composition and the water-marks on the nearby canyon walls. The incredibly rich, loamy soil you tilled is not a standard forest floor. It is a seasonal alluvial plain."*
+
+Wyatt’s stomach completely dropped. The mechanical logistics clicked in his brain before Aria even finished the sentence.
+
+"It's a flood zone," Wyatt realized, his eyes widening.
+
+*"Correct,"* Aria confirmed, flashing a series of red warning vectors across the valley map. *"This specific river acts as a primary drainage artery for the entire eastern mountain range. When the wet season begins, the runoff from the super-cell storms funnels directly into this basin. Based on the geological scarring on the rocks, the water level in this valley is projected to rise by roughly fifteen meters within the next four hours. The clearing we are parked in will be entirely submerged, and the rushing current will exceed the structural shear-limits of our deployed landing struts."*
+
+Sarah stared at the monitor in horror.
+
+A fifteen-meter wall of rushing water wouldn't just wash away their beautiful new garden. It would tear *The Nomad* right off its landing gear, tumble the multi-ton dreadnought down the valley, and completely crush the deployed solar wings.
+
+They had landed in paradise, but paradise was a seasonal deathtrap.
+
+"The billionaire," Wyatt muttered, his hands gripping the heavy steering yoke. "He spent billions surveying this planet. He would have known this valley was a flood zone. That's why there’s no infrastructure down here."
+
+*"A highly logical deduction,"* Aria agreed. *"I recommend immediate emergency liftoff."*
+
+"Our garden," Sarah whispered, looking out the viewport toward the dense tree line where their 96-square-meter grid lay perfectly planted and watered. It was gone. The river was going to scour the earth clean.
+
+Wyatt reached up, his hand covering hers where it rested on his shoulder. It was a bitter loss, but they didn't have time to mourn a few potatoes and tomatoes.
+
+"We'll plant another one," Wyatt promised fiercely. He looked back at the console, his fingers flying across the analog ignition switches. "Aria, retract the solar wings. Seal the heavy bulkheads. Spin up the fission reactor and route all power to the repulsorlifts."
+
+The deep, guttural whine of the primary reactor roared to life, vibrating through the deck plates for the first time since they had landed. Outside the viewport, the massive solar wings folded inward, locking flush against the armored hull just as the first heavy, violent drops of rain began to slam against the reinforced glass.
+
+"Where are we going?" Sarah asked, bracing her hands against the back of his chair as the repulsorlifts began to push the massive ship off the forest floor.
+
+*"During my topographical scans of the higher elevations, I detected a faint, localized digital ping,"* Aria announced, highlighting a high, flat plateau deep in the eastern mountain range, far above the flood lines. *"It is heavily encrypted, utilizing the exact same 2044-era proprietary corporate architecture as my own core programming. It appears the original architect of this vessel left something waiting for him in the mountains."*
+
+Wyatt engaged the main thrusters, tearing *The Nomad* out of the massive alien pine canopy just as a blinding flash of lightning illuminated the darkening valley.
+
+"Hold on, Mrs. Colton," Wyatt yelled over the roar of the engines and the pounding rain. "We're going to go see what a billionaire's backup plan looks like."
+

@@ -1,0 +1,26 @@
+# Part 5: The Nickname (Fall 1990)
+
+A typical after-school scene at the Carter house was a whirlwind of controlled chaos. Alex, now five, was at the kitchen table, his focus entirely on building an intricate, complex structure with his blocks, the colorful pieces spread out on a protective mat. It was his quiet island in the middle of a storm. In the adjacent living room, a loud and dramatic argument had erupted between his cousins, Jessica and five-year-old Cassie, over who got to play with a new doll.
+
+Eight-year-old Megan, who was trying to read a book on the sofa with her best friend from school, Sarah Jenkins, rolled her eyes with the weary exasperation of a seasoned older sister. "Oh my God," she muttered to Sarah, "not again."
+
+The argument escalated from angry words to a physical tug-of-war. As they wrestled with the doll, their scuffle sent them stumbling backward, directly towards the kitchen table. The table leg shuddered violently as one of them crashed against it. The block structure, with its carefully balanced towers and bridges, wobbled precariously. Alex flinched back, a small, sharp sound of distress escaping him as he watched his painstaking work nearly get destroyed.
+
+"HEY!"
+
+Megan's voice, sharp and full of a sudden, pent-up fury, cut through the room like a whip. Jessica and Cassie froze, their own fight instantly forgotten.
+
+"Are you two serious?" Megan snapped, storming over and physically putting herself between her sisters and Alex's table. "Can you not go five minutes without fighting? And now you've almost destroyed something he's been working on all afternoon. Go. Go to your room. Now!"
+
+Her sisters, properly chastised, mumbled apologies and retreated down the hall. Megan took a deep, calming breath and turned back to Alex, her expression softening instantly. "You okay?" she asked, helping him nudge a few of the stray blocks back to the center of the mat.
+
+Sarah, who had been watching the entire exchange with a quiet, sympathetic understanding, came over to the table. "That was a really cool tower, Alex," she said, her voice kind and genuine. "You're a really good builder."
+
+Alex looked from Sarah's friendly face to Megan's, a feeling of profound relief washing over him. He was safe. He was protected. And this new person, Megan's friend, was being nice to him, too.
+
+Megan, seeing the look on his face, reached over and playfully ruffled his hair. She looked at Sarah, a fierce, protective loyalty in her expression that was also an unspoken introduction.
+
+"Yeah, well," she said, and the new word came out with a natural, easy coolness that made it sound like she'd been saying it forever. "He's my cuz. We're a team."
+
+The word hung in the air, a simple, perfect, and instantly permanent declaration of their bond. It was more than just short for "cousin"; it was a title, a statement of allegiance, a name for their special partnership that she was now proudly sharing with the rest of her world. From that day forward, to her, he wasn't just Alex anymore. He was her cuz. And everyone, especially her sisters, knew it.
+

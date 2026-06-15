@@ -1,0 +1,16 @@
+# Part 6: A Walk Through Time
+
+The short walk across the National Mall from the Air and Space Museum to the Natural History Museum was a damp but determined affair. Huddled under their raincoats, the fortress four moved as a single unit against the gray, drizzly afternoon. The fragile promise made on the museum bench held them together, a quiet, shared purpose.
+
+Stepping inside the Natural History Museum was like entering another world. The soaring rotunda, with the magnificent figure of "Henry" the elephant standing as its silent, colossal guardian, immediately captured their attention.
+
+Their first destination was the Hall of Dinosaurs. They wandered through the exhibit, dwarfed by the immense skeletons of the Tyrannosaurus Rex and the Triceratops. Luna, a lifelong dinosaur enthusiast, was in her element, pointing out the specific features of each fossil with a quiet, knowledgeable awe. Leo, still in a more subdued and observant state after his earlier meltdown, used his Quantum Communicator to type questions for Stella, who patiently read the informational plaques aloud to him.
+
+From there, they made their way to the Ocean Hall. The transition into the dark, blue-lit space was a calming and welcome change. They stood together beneath the life-sized model of the North Atlantic Right Whale, the sheer scale of the creature humbling them into a comfortable silence. The dimly lit, quiet atmosphere was a soothing balm for Leo and Luna's senses, a perfect environment for them to continue their day without feeling overwhelmed.
+
+Their final stop was to see the legendary Hope Diamond. They joined the quiet queue and shuffled past the famous, deep-blue gem, marveling at its history and infamous curse.
+
+Throughout the afternoon, Olivia remained a constant, steady presence at Leo's side, a silent anchor. The day was no longer about boisterous excitement, but about quiet discovery and shared experience.
+
+As they finally emerged from the museum back into the gray, late-afternoon mist, a sense of profound accomplishment settled over them. The day had been challenging, marked by a moment of deep emotional pain. But they hadn't retreated. They had faced it, adapted, and continued their adventure, together. They had proven, once again, that their fortress was strong enough to weather any storm, internal or external.
+
