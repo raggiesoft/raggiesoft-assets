@@ -41,7 +41,7 @@ for DIR in books/*/; do
         fi
     fi
 
-    # -----------------------------------------
+   # -----------------------------------------
     # PROCESS NARRATIVE (3-Tier Routing & Katie JSON)
     # -----------------------------------------
     if [[ -f "$NARRATIVE_DOCX" ]]; then
@@ -53,6 +53,12 @@ for DIR in books/*/; do
         if ! pandoc "$NARRATIVE_DOCX" -t gfm --wrap=none -o "$TMP_NARRATIVE"; then
             echo "   *Whistle blow!* Permission error on '$NARRATIVE_DOCX'. Is it open in Word?"
         else
+            echo "   Sweeping the stage. Removing old artifacts..."
+            
+            # Safely clear out the previous generated folders and manifests, 
+            # keeping only our new temporary Markdown file.
+            find "$OUT_NARRATIVE_DIR" -mindepth 1 -maxdepth 1 ! -name "${BASE}_tmp.md" -exec rm -rf {} +
+            
             echo "   Slicing the manuscript and generating AI Book chunks..."
             
             TEMP_JSONL="$OUT_NARRATIVE_DIR/temp_index.jsonl"

@@ -317,53 +317,47 @@
             "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/002-part-2-the-final-phone-call.md"
           }
         ]
-      }
-    ]
-  },
-  {
-    "book_num": 7,
-    "book_title": "Chapter 4: Spring Break in the Stent",
-    "chapters": [
+      },
       {
-        "chap_num": 0,
-        "chap_title": "Chapter 4: Football and Marching Bands",
+        "chap_num": 5,
+        "chap_title": "Chapter 4: Spring Break in the Stent",
         "parts": [
           {
-            "part_num": 3,
+            "part_num": 1,
             "part_title": "Part 1: Turnpike Wonders",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/003-part-1-turnpike-wonders.md"
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/001-part-1-turnpike-wonders.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Mystic Stopover",
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/002-part-2-mystic-stopover.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Newport Expressway",
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/003-part-3-the-newport-expressway.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 2: Mystic Stopover",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/004-part-2-mystic-stopover.md"
+            "part_title": "Part 3: Ghosts of Keystone Motors of Middletown",
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/004-part-3-ghosts-of-keystone-motors-of-middletown.md"
           },
           {
             "part_num": 5,
-            "part_title": "Part 3: The Newport Expressway",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/005-part-3-the-newport-expressway.md"
+            "part_title": "Part 4: A Colossal Good Distraction",
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/005-part-4-a-colossal-good-distraction.md"
           },
           {
             "part_num": 6,
-            "part_title": "Part 3: Ghosts of Keystone Motors of Middletown",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/006-part-3-ghosts-of-keystone-motors-of-middletown.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 4: A Colossal Good Distraction",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/007-part-4-a-colossal-good-distraction.md"
-          },
-          {
-            "part_num": 8,
             "part_title": "Part 5: The Jingle and the Mansions",
-            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/004-chapter-4-football-and-marching-bands/008-part-5-the-jingle-and-the-mansions.md"
+            "file_path": "/luna-leo/luna-leo-narrative/006-book-sophomore-year/005-chapter-4-spring-break-in-the-stent/006-part-5-the-jingle-and-the-mansions.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 8,
+    "book_num": 7,
     "book_title": "Book: Junior Year",
     "chapters": [
       {
@@ -373,17 +367,17 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Rainy Saturday Session",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/001-chapter-2-the-shapes/001-part-1-a-rainy-saturday-session.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/001-chapter-2-the-shapes/001-part-1-a-rainy-saturday-session.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The True Light",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/001-chapter-2-the-shapes/002-part-2-the-true-light.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/001-chapter-2-the-shapes/002-part-2-the-true-light.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Signal (1:30)",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/001-chapter-2-the-shapes/003-part-3-the-signal-1-30.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/001-chapter-2-the-shapes/003-part-3-the-signal-1-30.md"
           }
         ]
       },
@@ -394,34 +388,34 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Rental Agreement",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/002-chapter-3-the-new-voice/001-part-1-the-rental-agreement.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/002-chapter-3-the-new-voice/001-part-1-the-rental-agreement.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Embouchure Struggle",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/002-chapter-3-the-new-voice/002-part-2-the-embouchure-struggle.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/002-chapter-3-the-new-voice/002-part-2-the-embouchure-struggle.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The One-Month Trial",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/002-chapter-3-the-new-voice/003-part-3-the-one-month-trial.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/002-chapter-3-the-new-voice/003-part-3-the-one-month-trial.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Silver and Ownership",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/002-chapter-3-the-new-voice/004-part-4-silver-and-ownership.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/002-chapter-3-the-new-voice/004-part-4-silver-and-ownership.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Sterling Standard",
-            "file_path": "/luna-leo/luna-leo-narrative/008-book-junior-year/002-chapter-3-the-new-voice/005-part-5-the-sterling-standard.md"
+            "file_path": "/luna-leo/luna-leo-narrative/007-book-junior-year/002-chapter-3-the-new-voice/005-part-5-the-sterling-standard.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 9,
+    "book_num": 8,
     "book_title": "Book: Senior Year Challenges",
     "chapters": [
       {
@@ -431,22 +425,22 @@
           {
             "part_num": 1,
             "part_title": "Part 1: An Unseen Ally",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/001-chapter-1-the-best-friend/001-part-1-an-unseen-ally.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/001-chapter-1-the-best-friend/001-part-1-an-unseen-ally.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: College and Elections Assembly",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/001-chapter-1-the-best-friend/002-part-2-college-and-elections-assembly.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/001-chapter-1-the-best-friend/002-part-2-college-and-elections-assembly.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A Grateful Introduction",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/001-chapter-1-the-best-friend/003-part-3-a-grateful-introduction.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/001-chapter-1-the-best-friend/003-part-3-a-grateful-introduction.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/001-chapter-1-the-best-friend/004-part-4-cafeteria-connection-contact-exchange-and-a-vile-misinterpretation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/001-chapter-1-the-best-friend/004-part-4-cafeteria-connection-contact-exchange-and-a-vile-misinterpretation.md"
           }
         ]
       },
@@ -457,42 +451,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: An Afternoon Visit and Gathering Clouds",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/001-part-1-an-afternoon-visit-and-gathering-clouds.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/001-part-1-an-afternoon-visit-and-gathering-clouds.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: An Invitation in the Storm – And Stella's Call",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/002-part-2-an-invitation-in-the-storm-and-stella-s-call.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/002-part-2-an-invitation-in-the-storm-and-stella-s-call.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Weathering the Storm – A Best Friend's Comfort",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/003-part-3-weathering-the-storm-a-best-friend-s-comfort.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/003-part-3-weathering-the-storm-a-best-friend-s-comfort.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Morning Calm and Sisterly Smiles",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/004-part-4-morning-calm-and-sisterly-smiles.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/004-part-4-morning-calm-and-sisterly-smiles.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Saturday Respite and a Planned Weekend Stay",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/005-part-5-saturday-respite-and-a-planned-weekend-stay.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/005-part-5-saturday-respite-and-a-planned-weekend-stay.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Sunday of Simple Comforts and Vintage Tech",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/006-part-6-a-sunday-of-simple-comforts-and-vintage-tech.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/006-part-6-a-sunday-of-simple-comforts-and-vintage-tech.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Sunday Well Spent – Comforts, Chores, and Continued Connection",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/007-part-7-a-sunday-well-spent-comforts-chores-and-continued-connection.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/007-part-7-a-sunday-well-spent-comforts-chores-and-continued-connection.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Guardian’s Trust",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/008-part-8-a-guardian-s-trust.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/002-chapter-2-a-stormy-night-a-steadfast-friend/008-part-8-a-guardian-s-trust.md"
           }
         ]
       },
@@ -503,37 +497,37 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Quiet Evening Promised",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/001-part-1-a-quiet-evening-promised.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/001-part-1-a-quiet-evening-promised.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Shift – After Stella Leaves",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/002-part-2-the-shift-after-stella-leaves.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/002-part-2-the-shift-after-stella-leaves.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Overload and Observation – The Decision Forms",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/003-part-3-overload-and-observation-the-decision-forms.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/003-part-3-overload-and-observation-the-decision-forms.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Call for Rescue",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/004-part-4-the-call-for-rescue.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/004-part-4-the-call-for-rescue.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Extraction and Stella's Quiet Wrath",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/005-part-5-extraction-and-stella-s-quiet-wrath.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/005-part-5-extraction-and-stella-s-quiet-wrath.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Drive Away & A Fitting Finale",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/006-part-6-the-drive-away-a-fitting-finale.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/006-part-6-the-drive-away-a-fitting-finale.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Quiet Countdown, A Noisy Neighborhood (Virginia Beach, New Year's Eve 2002)",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/007-part-7-a-quiet-countdown-a-noisy-neighborhood-virginia-beach-new-year-s-eve-2002.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/003-chapter-3-new-year-s-eve-reckoning/007-part-7-a-quiet-countdown-a-noisy-neighborhood-virginia-beach-new-year-s-eve-2002.md"
           }
         ]
       },
@@ -544,34 +538,34 @@
           {
             "part_num": 1,
             "part_title": "Part 1: Calculus Tutoring",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/001-part-1-calculus-tutoring.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/001-part-1-calculus-tutoring.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: An Unwanted Attempt",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/002-part-2-an-unwanted-attempt.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/002-part-2-an-unwanted-attempt.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Band Room Practice",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/003-part-3-band-room-practice.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/003-part-3-band-room-practice.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 5: Mall Eats and Movie Anticipation",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/004-part-5-mall-eats-and-movie-anticipation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/004-part-5-mall-eats-and-movie-anticipation.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 6: Saturday Matinee and a Souring Mood",
-            "file_path": "/luna-leo/luna-leo-narrative/009-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/005-part-6-saturday-matinee-and-a-souring-mood.md"
+            "file_path": "/luna-leo/luna-leo-narrative/008-book-senior-year-challenges/004-chapter-4-the-flute-s-refrain/005-part-6-saturday-matinee-and-a-souring-mood.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 10,
+    "book_num": 9,
     "book_title": "Book: The Great North American Excursion",
     "chapters": [
       {
@@ -581,57 +575,57 @@
           {
             "part_num": 1,
             "part_title": "Part 1: All Aboard",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/001-part-1-all-aboard.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/001-part-1-all-aboard.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Journey North",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/002-part-2-the-journey-north.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/002-part-2-the-journey-north.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Approaching Union Station",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/003-part-3-approaching-union-station.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/003-part-3-approaching-union-station.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The District Rail Gauntlet",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/004-part-4-the-district-rail-gauntlet.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/004-part-4-the-district-rail-gauntlet.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Home Base on the Hill",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/005-part-5-home-base-on-the-hill.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/005-part-5-home-base-on-the-hill.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 7: An Afternoon Among the Animals",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/006-part-7-an-afternoon-among-the-animals.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/006-part-7-an-afternoon-among-the-animals.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 8: A Necessary Interlude",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/007-part-8-a-necessary-interlude.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/007-part-8-a-necessary-interlude.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 9: An Evening on the Town",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/008-part-9-an-evening-on-the-town.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/008-part-9-an-evening-on-the-town.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 10: A Culinary Discovery",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/009-part-10-a-culinary-discovery.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/009-part-10-a-culinary-discovery.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 11: A Sanctuary of Water",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/010-part-11-a-sanctuary-of-water.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/010-part-11-a-sanctuary-of-water.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 12: A Fortress Assembles for the Night",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/011-part-12-a-fortress-assembles-for-the-night.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/001-chapter-1-a-bittersweet-beginning/011-part-12-a-fortress-assembles-for-the-night.md"
           }
         ]
       },
@@ -642,47 +636,47 @@
           {
             "part_num": 1,
             "part_title": "Part 1: Museum Hopping",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/001-part-1-museum-hopping.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/001-part-1-museum-hopping.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Wonders of Flight and Space",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/002-part-2-wonders-of-flight-and-space.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/002-part-2-wonders-of-flight-and-space.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Rocket Burger Refuel",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/003-part-3-rocket-burger-refuel.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/003-part-3-rocket-burger-refuel.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Fortress Cracks",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/004-part-4-the-fortress-cracks.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/004-part-4-the-fortress-cracks.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Fragile Promise",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/005-part-5-a-fragile-promise.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/005-part-5-a-fragile-promise.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Walk Through Time",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/006-part-6-a-walk-through-time.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/006-part-6-a-walk-through-time.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Taste of Stanstead",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/007-part-7-a-taste-of-stanstead.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/007-part-7-a-taste-of-stanstead.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Fortress in the Storm",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/008-part-8-a-fortress-in-the-storm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/008-part-8-a-fortress-in-the-storm.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Fortress, Reassembled",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/009-part-9-the-fortress-reassembled.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/002-chapter-2-a-capital-day-of-discovery/009-part-9-the-fortress-reassembled.md"
           }
         ]
       },
@@ -693,47 +687,47 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Practice Mission",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/001-part-1-the-practice-mission.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/001-part-1-the-practice-mission.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Breakfast in Georgetown",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/002-part-2-breakfast-in-georgetown.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/002-part-2-breakfast-in-georgetown.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A Walk by the Water",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/003-part-3-a-walk-by-the-water.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/003-part-3-a-walk-by-the-water.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A Walk Among Giants",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/004-part-4-a-walk-among-giants.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/004-part-4-a-walk-among-giants.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Lunch on the Mall",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/005-part-5-lunch-on-the-mall.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/005-part-5-lunch-on-the-mall.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: An Afternoon on the Potomac",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/006-part-6-an-afternoon-on-the-potomac.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/006-part-6-an-afternoon-on-the-potomac.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: An Evening In",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/007-part-7-an-evening-in.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/007-part-7-an-evening-in.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Sanctuary of Calm",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/008-part-8-a-sanctuary-of-calm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/008-part-8-a-sanctuary-of-calm.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Journey Continues",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/009-part-9-the-journey-continues.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/003-chapter-3-conquering-the-capital/009-part-9-the-journey-continues.md"
           }
         ]
       },
@@ -744,37 +738,37 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Layover in Philly",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/001-part-1-a-layover-in-philly.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/001-part-1-a-layover-in-philly.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Cheesesteak Debate",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/002-part-2-the-cheesesteak-debate.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/002-part-2-the-cheesesteak-debate.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A Journey Through the Alleghenies",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/003-part-3-a-journey-through-the-alleghenies.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/003-part-3-a-journey-through-the-alleghenies.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Arrival in the Steel City",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/004-part-4-arrival-in-the-steel-city.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/004-part-4-arrival-in-the-steel-city.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Room with a View (of Three Rivers)",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/005-part-5-a-room-with-a-view-of-three-rivers.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/005-part-5-a-room-with-a-view-of-three-rivers.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Desperate Search",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/006-part-6-a-desperate-search.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/006-part-6-a-desperate-search.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Day in the Steel City",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/007-part-7-a-day-in-the-steel-city.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/004-chapter-4-the-pennsylvanian/007-part-7-a-day-in-the-steel-city.md"
           }
         ]
       },
@@ -785,42 +779,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Shattering",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/001-part-1-the-shattering.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/001-part-1-the-shattering.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Long Ride Home",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/002-part-2-the-long-ride-home.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/002-part-2-the-long-ride-home.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Infinite Loop",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/003-part-3-the-infinite-loop.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/003-part-3-the-infinite-loop.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A Sanctuary in the Storm",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/004-part-4-a-sanctuary-in-the-storm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/004-part-4-a-sanctuary-in-the-storm.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Long Night Begins",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/005-part-5-the-long-night-begins.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/005-part-5-the-long-night-begins.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: Leo’s Nightmare",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/006-part-6-leo-s-nightmare.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/006-part-6-leo-s-nightmare.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Morning After",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/007-part-7-the-morning-after.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/007-part-7-the-morning-after.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Sanity of a Sponge Bath",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/008-part-8-a-sanity-of-a-sponge-bath.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/005-chapter-5-the-king-street-heartbreak/008-part-8-a-sanity-of-a-sponge-bath.md"
           }
         ]
       },
@@ -831,14 +825,14 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Shadow on the Platform",
-            "file_path": "/luna-leo/luna-leo-narrative/010-book-the-great-north-american-excursion/006-chapter-6-the-long-road-home/001-part-1-the-shadow-on-the-platform.md"
+            "file_path": "/luna-leo/luna-leo-narrative/009-book-the-great-north-american-excursion/006-chapter-6-the-long-road-home/001-part-1-the-shadow-on-the-platform.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 11,
+    "book_num": 10,
     "book_title": "Book: Delores",
     "chapters": [
       {
@@ -848,52 +842,52 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Grieving Start",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/001-part-1-a-grieving-start.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/001-part-1-a-grieving-start.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: American Literature",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/002-part-2-american-literature.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/002-part-2-american-literature.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Separation",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/003-part-3-the-separation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/003-part-3-the-separation.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: An Unexpected Addition",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/004-part-4-an-unexpected-addition.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/004-part-4-an-unexpected-addition.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The First Red Flag",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/005-part-5-the-first-red-flag.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/005-part-5-the-first-red-flag.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Cautious Assessment",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/006-part-6-a-cautious-assessment.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/006-part-6-a-cautious-assessment.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: Confronting Quantum",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/007-part-7-confronting-quantum.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/007-part-7-confronting-quantum.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Cautious Assessment",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/008-part-8-a-cautious-assessment.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/008-part-8-a-cautious-assessment.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Ride Home",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/009-part-9-the-ride-home.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/009-part-9-the-ride-home.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: A Long-Distance Lifeline",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/001-chapter-1-the-emotional-vacuum/010-part-10-a-long-distance-lifeline.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/001-chapter-1-the-emotional-vacuum/010-part-10-a-long-distance-lifeline.md"
           }
         ]
       },
@@ -904,37 +898,37 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Tutor (Late August - Early September 2003)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/001-part-1-the-tutor-late-august-early-september-2003.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/001-part-1-the-tutor-late-august-early-september-2003.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Unveiling",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/002-part-2-the-unveiling.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/002-part-2-the-unveiling.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A Controlled Visit",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/003-part-3-a-controlled-visit.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/003-part-3-a-controlled-visit.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: An Unsettling Silence",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/004-part-4-an-unsettling-silence.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/004-part-4-an-unsettling-silence.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Guardian's Shadow",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/005-part-5-a-guardian-s-shadow.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/005-part-5-a-guardian-s-shadow.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Sleepless Resolve",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/006-part-6-a-sleepless-resolve.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/006-part-6-a-sleepless-resolve.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Fragile Normalcy",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/002-chapter-2-the-web/007-part-7-a-fragile-normalcy.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/002-chapter-2-the-web/007-part-7-a-fragile-normalcy.md"
           }
         ]
       },
@@ -945,52 +939,52 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Hijacked Plan",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/001-part-1-the-hijacked-plan.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/001-part-1-the-hijacked-plan.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The College Pickup (Friday Afternoon)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/002-part-2-the-college-pickup-friday-afternoon.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/002-part-2-the-college-pickup-friday-afternoon.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Drive and Arrival",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/003-part-3-the-drive-and-arrival.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/003-part-3-the-drive-and-arrival.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: An Uneasy Evening (Friday)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/004-part-4-an-uneasy-evening-friday.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/004-part-4-an-uneasy-evening-friday.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Saturday Under Siege",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/005-part-5-saturday-under-siege.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/005-part-5-saturday-under-siege.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: MagnaByte Conflict (Saturday Afternoon)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/006-part-6-magnabyte-conflict-saturday-afternoon.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/006-part-6-magnabyte-conflict-saturday-afternoon.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: Printer Rage, Guardianship Questions, and a Forceful Kiss (Saturday Afternoon/Evening)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/007-part-7-printer-rage-guardianship-questions-and-a-forceful-kiss-saturday-afternoon-evening.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/007-part-7-printer-rage-guardianship-questions-and-a-forceful-kiss-saturday-afternoon-evening.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: Leftovers, Bus Schedules, and Locked Doors (Sunday Evening/Night)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/008-part-8-leftovers-bus-schedules-and-locked-doors-sunday-evening-night.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/008-part-8-leftovers-bus-schedules-and-locked-doors-sunday-evening-night.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: A Day Under Duress (Monday)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/009-part-9-a-day-under-duress-monday.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/009-part-9-a-day-under-duress-monday.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: Tuesday Morning Departure",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/003-chapter-2-sibling-weekend/010-part-10-tuesday-morning-departure.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/003-chapter-2-sibling-weekend/010-part-10-tuesday-morning-departure.md"
           }
         ]
       },
@@ -1001,42 +995,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Trip Proposal",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/001-part-1-the-trip-proposal.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/001-part-1-the-trip-proposal.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Four Days on the Bus",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/002-part-2-four-days-on-the-bus.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/002-part-2-four-days-on-the-bus.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Doubts and Desperation",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/003-part-3-doubts-and-desperation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/003-part-3-doubts-and-desperation.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Arrival in the Pacific Northwest",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/004-part-4-arrival-in-the-pacific-northwest.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/004-part-4-arrival-in-the-pacific-northwest.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: An Unwelcoming House",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/005-part-5-an-unwelcoming-house.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/005-part-5-an-unwelcoming-house.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: Jet Lag, Pancakes, and a Fragile Plan",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/006-part-6-jet-lag-pancakes-and-a-fragile-plan.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/006-part-6-jet-lag-pancakes-and-a-fragile-plan.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: Delores Forces Herself",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/007-part-7-delores-forces-herself.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/007-part-7-delores-forces-herself.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Breaking Point",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/004-chapter-3-westward-ho/008-part-8-the-breaking-point.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/004-chapter-3-westward-ho/008-part-8-the-breaking-point.md"
           }
         ]
       },
@@ -1047,109 +1041,109 @@
           {
             "part_num": 1,
             "part_title": "Part 1: Escape Through the Rain (Curbstone, 4 AM)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/001-part-1-escape-through-the-rain-curbstone-4-am.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/001-part-1-escape-through-the-rain-curbstone-4-am.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Carol Looks for Leo",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/002-part-2-carol-looks-for-leo.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/002-part-2-carol-looks-for-leo.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The TTY Lifeline",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/003-part-3-the-tty-lifeline.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/003-part-3-the-tty-lifeline.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Longest Hour",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/004-part-4-the-longest-hour.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/004-part-4-the-longest-hour.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Sanctuary in a Sterile Room",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/005-part-5-sanctuary-in-a-sterile-room.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/005-part-5-sanctuary-in-a-sterile-room.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The First Meal",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/006-part-6-the-first-meal.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/006-part-6-the-first-meal.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Virtual Sanctuary",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/007-part-7-a-virtual-sanctuary.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/007-part-7-a-virtual-sanctuary.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Boarding Pass",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/008-part-8-the-boarding-pass.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/008-part-8-the-boarding-pass.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: Airside Sanctuary",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/009-part-9-airside-sanctuary.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/009-part-9-airside-sanctuary.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: Airside Mission – Clothing",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/010-part-10-airside-mission-clothing.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/010-part-10-airside-mission-clothing.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: Restoring Dignity",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/011-part-11-restoring-dignity.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/011-part-11-restoring-dignity.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: A Song of Homecoming",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/012-part-12-a-song-of-homecoming.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/012-part-12-a-song-of-homecoming.md"
           },
           {
             "part_num": 13,
             "part_title": "Part 13: The Storm Before the Calm",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/013-part-13-the-storm-before-the-calm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/013-part-13-the-storm-before-the-calm.md"
           },
           {
             "part_num": 14,
             "part_title": "Part 14: The Journey Home Begins",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/014-part-14-the-journey-home-begins.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/014-part-14-the-journey-home-begins.md"
           },
           {
             "part_num": 15,
             "part_title": "Part 15: A Longing for Simplicity",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/015-part-15-a-longing-for-simplicity.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/015-part-15-a-longing-for-simplicity.md"
           },
           {
             "part_num": 16,
             "part_title": "Part 16: A Midway Dash",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/016-part-16-a-midway-dash.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/016-part-16-a-midway-dash.md"
           },
           {
             "part_num": 17,
             "part_title": "Part 17: Arrival at ORF & Reunion",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/017-part-17-arrival-at-orf-reunion.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/017-part-17-arrival-at-orf-reunion.md"
           },
           {
             "part_num": 18,
             "part_title": "Part 18: Checking In, Cleaning Up (For Now)",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/018-part-18-checking-in-cleaning-up-for-now.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/018-part-18-checking-in-cleaning-up-for-now.md"
           },
           {
             "part_num": 19,
             "part_title": "Part 19: The Contaminated Sanctuary",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/019-part-19-the-contaminated-sanctuary.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/019-part-19-the-contaminated-sanctuary.md"
           },
           {
             "part_num": 20,
             "part_title": "Part 20: Later That Night",
-            "file_path": "/luna-leo/luna-leo-narrative/011-book-delores/005-chapter-4-homecoming/020-part-20-later-that-night.md"
+            "file_path": "/luna-leo/luna-leo-narrative/010-book-delores/005-chapter-4-homecoming/020-part-20-later-that-night.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 12,
+    "book_num": 11,
     "book_title": "Book: Leo is Home",
     "chapters": [
       {
@@ -1159,57 +1153,57 @@
           {
             "part_num": 1,
             "part_title": "Part 1: Safe Harbor, Stark Reality",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/001-part-1-safe-harbor-stark-reality.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/001-part-1-safe-harbor-stark-reality.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Restoring Care – The Bath",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/002-part-2-restoring-care-the-bath.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/002-part-2-restoring-care-the-bath.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Dignity Restored, Needs Assessed",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/003-part-3-dignity-restored-needs-assessed.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/003-part-3-dignity-restored-needs-assessed.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Cereal, Milk, and Cruelty Revealed",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/004-part-4-cereal-milk-and-cruelty-revealed.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/004-part-4-cereal-milk-and-cruelty-revealed.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: MagnaByte Sanctuary and Digital Dysentery",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/005-part-5-magnabyte-sanctuary-and-digital-dysentery.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/005-part-5-magnabyte-sanctuary-and-digital-dysentery.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: Grandparents Relief",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/006-part-6-grandparents-relief.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/006-part-6-grandparents-relief.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Kitchen Filled with Warmth",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/007-part-7-a-kitchen-filled-with-warmth.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/007-part-7-a-kitchen-filled-with-warmth.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Phone Call",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/008-part-8-the-phone-call.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/008-part-8-the-phone-call.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: Reckoning and Reunion",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/009-part-9-reckoning-and-reunion.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/009-part-9-reckoning-and-reunion.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Feast of Homecoming",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/010-part-10-the-feast-of-homecoming.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/010-part-10-the-feast-of-homecoming.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: Evening Rituals and Secure Sleep",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/001-chapter-1-the-best-thanksgiving/011-part-11-evening-rituals-and-secure-sleep.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/001-chapter-1-the-best-thanksgiving/011-part-11-evening-rituals-and-secure-sleep.md"
           }
         ]
       },
@@ -1220,77 +1214,77 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Change of Plans",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/001-part-1-a-change-of-plans.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/001-part-1-a-change-of-plans.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: A Gentle Waking",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/002-part-2-a-gentle-waking.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/002-part-2-a-gentle-waking.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Sanctuary of Breakfast",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/003-part-3-the-sanctuary-of-breakfast.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/003-part-3-the-sanctuary-of-breakfast.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A Mission of Restoration",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/004-part-4-a-mission-of-restoration.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/004-part-4-a-mission-of-restoration.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Voice of His Own",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/005-part-5-a-voice-of-his-own.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/005-part-5-a-voice-of-his-own.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Mission of Agency",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/006-part-6-a-mission-of-agency.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/006-part-6-a-mission-of-agency.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: Reclaiming a Sanctuary",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/007-part-7-reclaiming-a-sanctuary.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/007-part-7-reclaiming-a-sanctuary.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: Designing a New Sanctuary",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/008-part-8-designing-a-new-sanctuary.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/008-part-8-designing-a-new-sanctuary.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Victory Lunch",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/009-part-9-the-victory-lunch.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/009-part-9-the-victory-lunch.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Sanctuary Rebuilt",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/010-part-10-the-sanctuary-rebuilt.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/010-part-10-the-sanctuary-rebuilt.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: The First Rest",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/011-part-11-the-first-rest.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/011-part-11-the-first-rest.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: A Boundary Drawn",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/012-part-12-a-boundary-drawn.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/012-part-12-a-boundary-drawn.md"
           },
           {
             "part_num": 13,
             "part_title": "Part 13: A New Path Forward",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/013-part-13-a-new-path-forward.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/013-part-13-a-new-path-forward.md"
           },
           {
             "part_num": 14,
             "part_title": "Part 14: Fortress Goes to College",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/014-part-14-fortress-goes-to-college.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/014-part-14-fortress-goes-to-college.md"
           },
           {
             "part_num": 15,
             "part_title": "Part 15: The First Peaceful Sleep",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/002-chapter-2-the-first-day-home/015-part-15-the-first-peaceful-sleep.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/002-chapter-2-the-first-day-home/015-part-15-the-first-peaceful-sleep.md"
           }
         ]
       },
@@ -1301,52 +1295,52 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The First Morning",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/001-part-1-the-first-morning.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/001-part-1-the-first-morning.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Designing the Future",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/002-part-2-designing-the-future.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/002-part-2-designing-the-future.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A Palette of Possibilities 🎨",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/003-part-3-a-palette-of-possibilities.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/003-part-3-a-palette-of-possibilities.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The First Coat of Freedom",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/004-part-4-the-first-coat-of-freedom.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/004-part-4-the-first-coat-of-freedom.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Fortress Assembles for the Night",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/005-part-5-the-fortress-assembles-for-the-night.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/005-part-5-the-fortress-assembles-for-the-night.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: Kent?",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/006-part-6-kent.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/006-part-6-kent.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Quiet Dawn",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/007-part-7-the-quiet-dawn.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/007-part-7-the-quiet-dawn.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: A Breakfast of Comfort",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/008-part-8-a-breakfast-of-comfort.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/008-part-8-a-breakfast-of-comfort.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Final Coat",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/009-part-9-the-final-coat.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/009-part-9-the-final-coat.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: Assembling the Case",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/003-chapter-3-a-new-normal/010-part-10-assembling-the-case.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/003-chapter-3-a-new-normal/010-part-10-assembling-the-case.md"
           }
         ]
       },
@@ -1357,22 +1351,22 @@
           {
             "part_num": 1,
             "part_title": "Part 1: Assembling the Fortress",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/004-chapter-4-the-legal-battle-begins/001-part-1-assembling-the-fortress.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/004-chapter-4-the-legal-battle-begins/001-part-1-assembling-the-fortress.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: Setting the Wheels in Motion",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/004-chapter-4-the-legal-battle-begins/002-part-2-setting-the-wheels-in-motion.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/004-chapter-4-the-legal-battle-begins/002-part-2-setting-the-wheels-in-motion.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: Official Cooperation",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/004-chapter-4-the-legal-battle-begins/003-part-3-official-cooperation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/004-chapter-4-the-legal-battle-begins/003-part-3-official-cooperation.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Ordering a New Voice",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/004-chapter-4-the-legal-battle-begins/004-part-4-ordering-a-new-voice.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/004-chapter-4-the-legal-battle-begins/004-part-4-ordering-a-new-voice.md"
           }
         ]
       },
@@ -1383,107 +1377,107 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A New Language of Home",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/001-part-1-a-new-language-of-home.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/001-part-1-a-new-language-of-home.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Fortress Goes to the Mall",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/002-part-2-the-fortress-goes-to-the-mall.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/002-part-2-the-fortress-goes-to-the-mall.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: A New Talker!",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/003-part-3-a-new-talker.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/003-part-3-a-new-talker.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A New Language of Home",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/004-part-4-a-new-language-of-home.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/004-part-4-a-new-language-of-home.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: Operation: Conquer Quantum",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/005-part-5-operation-conquer-quantum.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/005-part-5-operation-conquer-quantum.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: Poutine Logistics and a Fortress in French Class",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/006-part-6-poutine-logistics-and-a-fortress-in-french-class.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/006-part-6-poutine-logistics-and-a-fortress-in-french-class.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Tale of Two Frances",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/007-part-7-a-tale-of-two-frances.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/007-part-7-a-tale-of-two-frances.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Soft Interview",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/008-part-8-the-soft-interview.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/008-part-8-the-soft-interview.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: Sacres and Seafood",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/009-part-9-sacres-and-seafood.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/009-part-9-sacres-and-seafood.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: Mon Chum, Ma Blonde",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/010-part-10-mon-chum-ma-blonde.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/010-part-10-mon-chum-ma-blonde.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: A Grandparent's Surprise",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/011-part-11-a-grandparent-s-surprise.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/011-part-11-a-grandparent-s-surprise.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: The Final Secret",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/012-part-12-the-final-secret.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/012-part-12-the-final-secret.md"
           },
           {
             "part_num": 13,
             "part_title": "Part 13: The Grand Old Lady on the Hill",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/013-part-13-the-grand-old-lady-on-the-hill.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/013-part-13-the-grand-old-lady-on-the-hill.md"
           },
           {
             "part_num": 14,
             "part_title": "Part 14: The Fortress Suite",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/014-part-14-the-fortress-suite.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/014-part-14-the-fortress-suite.md"
           },
           {
             "part_num": 15,
             "part_title": "Part 15: A Sanctuary of Pampering",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/015-part-15-a-sanctuary-of-pampering.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/015-part-15-a-sanctuary-of-pampering.md"
           },
           {
             "part_num": 16,
             "part_title": "Part 16: A Baptism of Care",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/016-part-16-a-baptism-of-care.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/016-part-16-a-baptism-of-care.md"
           },
           {
             "part_num": 17,
             "part_title": "Part 17: The Night Before the Réveillon",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/017-part-17-the-night-before-the-r-veillon.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/017-part-17-the-night-before-the-r-veillon.md"
           },
           {
             "part_num": 18,
             "part_title": "Part 18: A Tradition Adapted",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/018-part-18-a-tradition-adapted.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/018-part-18-a-tradition-adapted.md"
           },
           {
             "part_num": 19,
             "part_title": "Part 19: The Fortress Expanded",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/019-part-19-the-fortress-expanded.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/019-part-19-the-fortress-expanded.md"
           },
           {
             "part_num": 20,
             "part_title": "Part 20: The Prime-Time Réveillon",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/020-part-20-the-prime-time-r-veillon.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/020-part-20-the-prime-time-r-veillon.md"
           },
           {
             "part_num": 21,
             "part_title": "Part 21: The Comfort of Home",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/021-part-21-the-comfort-of-home.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/005-chapter-5-a-r-veillon-for-leo/021-part-21-the-comfort-of-home.md"
           }
         ]
       },
@@ -1494,42 +1488,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Morning After",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/001-part-1-the-morning-after.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/001-part-1-the-morning-after.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: An American Christmas",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/002-part-2-an-american-christmas.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/002-part-2-an-american-christmas.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: An American Christmas Feast",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/003-part-3-an-american-christmas-feast.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/003-part-3-an-american-christmas-feast.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A Moment to Regulate",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/004-part-4-a-moment-to-regulate.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/004-part-4-a-moment-to-regulate.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Fortress of Love",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/005-part-5-a-fortress-of-love.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/005-part-5-a-fortress-of-love.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: An Impromptu Recital",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/006-part-6-an-impromptu-recital.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/006-part-6-an-impromptu-recital.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Long Goodbye",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/007-part-7-the-long-goodbye.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/007-part-7-the-long-goodbye.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Holiday Afterglow",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/006-chapter-6-a-quiet-christmas/008-part-8-the-holiday-afterglow.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/006-chapter-6-a-quiet-christmas/008-part-8-the-holiday-afterglow.md"
           }
         ]
       },
@@ -1540,32 +1534,32 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Day of Quiet",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/001-part-1-a-day-of-quiet.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/001-part-1-a-day-of-quiet.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: A House Full of Joy",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/002-part-2-a-house-full-of-joy.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/002-part-2-a-house-full-of-joy.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Quiet After",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/003-part-3-the-quiet-after.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/003-part-3-the-quiet-after.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: Water and Trust",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/004-part-4-water-and-trust.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/004-part-4-water-and-trust.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Cocoon of Safety",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/005-part-5-the-cocoon-of-safety.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/005-part-5-the-cocoon-of-safety.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: A Nightmare in the Safe Harbor",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/007-chapter-7-the-holiday-afterglow/006-part-6-a-nightmare-in-the-safe-harbor.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/007-chapter-7-the-holiday-afterglow/006-part-6-a-nightmare-in-the-safe-harbor.md"
           }
         ]
       },
@@ -1576,14 +1570,14 @@
           {
             "part_num": 1,
             "part_title": "Part 3: The Day in Court",
-            "file_path": "/luna-leo/luna-leo-narrative/012-book-leo-is-home/008-chapter-x-a-day-in-court/001-part-3-the-day-in-court.md"
+            "file_path": "/luna-leo/luna-leo-narrative/011-book-leo-is-home/008-chapter-x-a-day-in-court/001-part-3-the-day-in-court.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 13,
+    "book_num": 12,
     "book_title": "Book: The Commitment of Leo and Olivia",
     "chapters": [
       {
@@ -1593,32 +1587,32 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Judge's Order",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/001-part-1-the-judge-s-order.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/001-part-1-the-judge-s-order.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Longest Morning",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/002-part-2-the-longest-morning.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/002-part-2-the-longest-morning.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The New Ms. Walker Porter",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/003-part-3-the-new-ms-walker-porter.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/003-part-3-the-new-ms-walker-porter.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: A Toast at The Tidewater Grill",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/004-part-4-a-toast-at-the-tidewater-grill.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/004-part-4-a-toast-at-the-tidewater-grill.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Secret Melody",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/005-part-5-the-secret-melody.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/005-part-5-the-secret-melody.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: An Impossible Thought",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/006-part-6-an-impossible-thought.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/001-chapter-1-a-new-name-a-new-beginning/006-part-6-an-impossible-thought.md"
           }
         ]
       },
@@ -1629,69 +1623,69 @@
           {
             "part_num": 1,
             "part_title": "Part 1: A Test and a Toast",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/001-part-1-a-test-and-a-toast.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/001-part-1-a-test-and-a-toast.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Separation",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/002-part-2-the-separation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/002-part-2-the-separation.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Two Rooms",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/003-part-3-the-two-rooms.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/003-part-3-the-two-rooms.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Procession",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/004-part-4-the-procession.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/004-part-4-the-procession.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: A Declaration of Commitment",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/005-part-5-a-declaration-of-commitment.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/005-part-5-a-declaration-of-commitment.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The First Dance",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/006-part-6-the-first-dance.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/006-part-6-the-first-dance.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: A Montage of Dances",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/007-part-7-a-montage-of-dances.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/007-part-7-a-montage-of-dances.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Toasts",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/008-part-8-the-toasts.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/008-part-8-the-toasts.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Feast",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/009-part-9-the-feast.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/009-part-9-the-feast.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Cake",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/010-part-10-the-cake.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/010-part-10-the-cake.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: The Send-Off",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/011-part-11-the-send-off.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/011-part-11-the-send-off.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: Decompression",
-            "file_path": "/luna-leo/luna-leo-narrative/013-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/012-part-12-decompression.md"
+            "file_path": "/luna-leo/luna-leo-narrative/012-book-the-commitment-of-leo-and-olivia/002-chapter-2-the-eighteenth-of-september/012-part-12-decompression.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 14,
+    "book_num": 13,
     "book_title": "Book: Finding a New House",
     "chapters": [
       {
@@ -1701,37 +1695,37 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Weapon",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/001-part-1-the-weapon.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/001-part-1-the-weapon.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Green and Gold",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/002-part-2-the-green-and-gold.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/002-part-2-the-green-and-gold.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Shibboleth",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/003-part-3-the-shibboleth.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/003-part-3-the-shibboleth.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Tape",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/004-part-4-the-tape.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/004-part-4-the-tape.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Verdict",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/005-part-5-the-verdict.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/005-part-5-the-verdict.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Northward Compass",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/006-part-6-the-northward-compass.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/006-part-6-the-northward-compass.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Long Twilight",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/007-part-7-the-long-twilight.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/001-chapter-1-a-fortress-of-our-own/007-part-7-the-long-twilight.md"
           }
         ]
       },
@@ -1742,67 +1736,67 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Iron Link",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/001-part-1-the-iron-link.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/001-part-1-the-iron-link.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Hospitality Standard",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/002-part-2-the-hospitality-standard.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/002-part-2-the-hospitality-standard.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Concourse Encounter",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/003-part-3-the-concourse-encounter.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/003-part-3-the-concourse-encounter.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Victory Lap & The Blueprint",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/004-part-4-the-victory-lap-the-blueprint.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/004-part-4-the-victory-lap-the-blueprint.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Subterranean City",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/005-part-5-the-subterranean-city.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/005-part-5-the-subterranean-city.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Silver Standard",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/006-part-6-the-silver-standard.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/006-part-6-the-silver-standard.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Adrenaline Crash",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/007-part-7-the-adrenaline-crash.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/007-part-7-the-adrenaline-crash.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Foundation",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/008-part-8-the-foundation.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/008-part-8-the-foundation.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Last Train Out",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/009-part-9-the-last-train-out.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/009-part-9-the-last-train-out.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Pulse of the City",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/010-part-10-the-pulse-of-the-city.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/010-part-10-the-pulse-of-the-city.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: The Cash Hammer",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/011-part-11-the-cash-hammer.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/011-part-11-the-cash-hammer.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: The Paper Fortress",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/012-part-12-the-paper-fortress.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/012-part-12-the-paper-fortress.md"
           },
           {
             "part_num": 13,
             "part_title": "Part 13: The Lobster Toast",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/002-chapter-2-the-reconnaissance/013-part-13-the-lobster-toast.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/002-chapter-2-the-reconnaissance/013-part-13-the-lobster-toast.md"
           }
         ]
       },
@@ -1813,62 +1807,62 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Orange Army",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/001-part-1-the-orange-army.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/001-part-1-the-orange-army.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Subterranean City",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/002-part-2-the-subterranean-city.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/002-part-2-the-subterranean-city.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Quiet Harbor",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/003-part-3-the-quiet-harbor.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/003-part-3-the-quiet-harbor.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Blue Line Run",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/004-part-4-the-blue-line-run.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/004-part-4-the-blue-line-run.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Restoration",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/005-part-5-the-restoration.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/005-part-5-the-restoration.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Closing Table",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/006-part-6-the-closing-table.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/006-part-6-the-closing-table.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Final Look",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/007-part-7-the-final-look.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/007-part-7-the-final-look.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Iron Record",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/008-part-8-the-iron-record.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/008-part-8-the-iron-record.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Engine Stops",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/009-part-9-the-engine-stops.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/009-part-9-the-engine-stops.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Quiet Departure",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/010-part-10-the-quiet-departure.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/010-part-10-the-quiet-departure.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: The Vessel",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/011-part-11-the-vessel.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/011-part-11-the-vessel.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: The Final Passenger",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/003-chapter-3-the-big-dig/012-part-12-the-final-passenger.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/003-chapter-3-the-big-dig/012-part-12-the-final-passenger.md"
           }
         ]
       },
@@ -1879,32 +1873,32 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Transfer of Power",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/001-part-1-the-transfer-of-power.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/001-part-1-the-transfer-of-power.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The War Room",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/002-part-2-the-war-room.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/002-part-2-the-war-room.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Permission Slip",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/003-part-3-the-permission-slip.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/003-part-3-the-permission-slip.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Heavy Lift",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/004-part-4-the-heavy-lift.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/004-part-4-the-heavy-lift.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Final Crossing",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/005-part-5-the-final-crossing.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/005-part-5-the-final-crossing.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The ARTS-Box",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/004-chapter-4-the-foundation/006-part-6-the-arts-box.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/004-chapter-4-the-foundation/006-part-6-the-arts-box.md"
           }
         ]
       },
@@ -1915,47 +1909,47 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Landing",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/001-part-1-the-landing.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/001-part-1-the-landing.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Home Court",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/002-part-2-the-home-court.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/002-part-2-the-home-court.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Traffic Report",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/003-part-3-the-traffic-report.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/003-part-3-the-traffic-report.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Ghost Layout",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/004-part-4-the-ghost-layout.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/004-part-4-the-ghost-layout.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Capital Request",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/005-part-5-the-capital-request.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/005-part-5-the-capital-request.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Ghost in the Deed",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/006-part-6-the-ghost-in-the-deed.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/006-part-6-the-ghost-in-the-deed.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Twin Frequency",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/007-part-7-the-twin-frequency.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/007-part-7-the-twin-frequency.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Wall Test",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/008-part-8-the-wall-test.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/008-part-8-the-wall-test.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Warning Signs",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/005-chapter-5-the-exodus/009-part-9-the-warning-signs.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/005-chapter-5-the-exodus/009-part-9-the-warning-signs.md"
           }
         ]
       },
@@ -1966,42 +1960,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Ticket Kiosk",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/001-part-1-the-ticket-kiosk.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/001-part-1-the-ticket-kiosk.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Commute to Commerce",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/002-part-2-the-commute-to-commerce.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/002-part-2-the-commute-to-commerce.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Showroom",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/003-part-3-the-showroom.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/003-part-3-the-showroom.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Blue Planet",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/004-part-4-the-blue-planet.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/004-part-4-the-blue-planet.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Crossing and the Calm",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/005-part-5-the-crossing-and-the-calm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/005-part-5-the-crossing-and-the-calm.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Shield",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/006-part-6-the-shield.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/006-part-6-the-shield.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Supply Run",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/007-part-7-the-supply-run.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/007-part-7-the-supply-run.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Return of the Fleet",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/006-chapter-6-the-power-upgrade/008-part-8-the-return-of-the-fleet.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/006-chapter-6-the-power-upgrade/008-part-8-the-return-of-the-fleet.md"
           }
         ]
       },
@@ -2012,42 +2006,42 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Official Stamp",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/001-part-1-the-official-stamp.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/001-part-1-the-official-stamp.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Eastern Townships Connection",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/002-part-2-the-eastern-townships-connection.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/002-part-2-the-eastern-townships-connection.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Principal Chair",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/003-part-3-the-principal-chair.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/003-part-3-the-principal-chair.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Lock Test",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/004-part-4-the-lock-test.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/004-part-4-the-lock-test.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Master Schedule",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/005-part-5-the-master-schedule.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/005-part-5-the-master-schedule.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Bill",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/006-part-6-the-bill.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/006-part-6-the-bill.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Textbook Run",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/007-part-7-the-textbook-run.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/007-part-7-the-textbook-run.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Last Mile Problem",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/007-chapter-7-the-paper-trail/008-part-8-the-last-mile-problem.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/007-chapter-7-the-paper-trail/008-part-8-the-last-mile-problem.md"
           }
         ]
       },
@@ -2058,39 +2052,39 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Ferry and the Fortress",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/001-part-1-the-ferry-and-the-fortress.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/001-part-1-the-ferry-and-the-fortress.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Gilded Age Tour",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/002-part-2-the-gilded-age-tour.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/002-part-2-the-gilded-age-tour.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Express Return",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/003-part-3-the-express-return.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/003-part-3-the-express-return.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Calm Before the Herd",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/004-part-4-the-calm-before-the-herd.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/004-part-4-the-calm-before-the-herd.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Clean Break",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/005-part-5-the-clean-break.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/005-part-5-the-clean-break.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Night Watch",
-            "file_path": "/luna-leo/luna-leo-narrative/014-book-finding-a-new-house/008-chapter-8-the-island-crossing/006-part-6-the-night-watch.md"
+            "file_path": "/luna-leo/luna-leo-narrative/013-book-finding-a-new-house/008-chapter-8-the-island-crossing/006-part-6-the-night-watch.md"
           }
         ]
       }
     ]
   },
   {
-    "book_num": 15,
+    "book_num": 14,
     "book_title": "Book: The First Year",
     "chapters": [
       {
@@ -2100,57 +2094,57 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The 05:30 Alarm",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/001-part-1-the-05-30-alarm.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/001-part-1-the-05-30-alarm.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Rainy Day Express",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/002-part-2-the-rainy-day-express.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/002-part-2-the-rainy-day-express.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Split Screen",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/003-part-3-the-split-screen.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/003-part-3-the-split-screen.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 5: The Vetting Process",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/004-part-5-the-vetting-process.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/004-part-5-the-vetting-process.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 6: The Dialect Shock",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/005-part-6-the-dialect-shock.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/005-part-6-the-dialect-shock.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 7: The Machine Shop (The M.U.L.E. Begins)",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/006-part-7-the-machine-shop-the-m-u-l-e-begins.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/006-part-7-the-machine-shop-the-m-u-l-e-begins.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 8: The Audition",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/007-part-8-the-audition.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/007-part-8-the-audition.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 9: The Library Rendezvous",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/008-part-9-the-library-rendezvous.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/008-part-9-the-library-rendezvous.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 10: The Safe Harbor",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/009-part-10-the-safe-harbor.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/009-part-10-the-safe-harbor.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 111: The Missing Frequency",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/010-part-111-the-missing-frequency.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/010-part-111-the-missing-frequency.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 12: The Glass Wall",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/001-chapter-1-the-orientation/011-part-12-the-glass-wall.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/001-chapter-1-the-orientation/011-part-12-the-glass-wall.md"
           }
         ]
       },
@@ -2161,67 +2155,67 @@
           {
             "part_num": 1,
             "part_title": "Part 1: The Green Room",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/001-part-1-the-green-room.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/001-part-1-the-green-room.md"
           },
           {
             "part_num": 2,
             "part_title": "Part 2: The Accessible Box",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/002-part-2-the-accessible-box.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/002-part-2-the-accessible-box.md"
           },
           {
             "part_num": 3,
             "part_title": "Part 3: The Vivaldi",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/003-part-3-the-vivaldi.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/003-part-3-the-vivaldi.md"
           },
           {
             "part_num": 4,
             "part_title": "Part 4: The Snow Convoy",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/004-part-4-the-snow-convoy.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/004-part-4-the-snow-convoy.md"
           },
           {
             "part_num": 5,
             "part_title": "Part 5: The Sanctuary Protocol",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/005-part-5-the-sanctuary-protocol.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/005-part-5-the-sanctuary-protocol.md"
           },
           {
             "part_num": 6,
             "part_title": "Part 6: The Jurisdiction Trap",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/006-part-6-the-jurisdiction-trap.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/006-part-6-the-jurisdiction-trap.md"
           },
           {
             "part_num": 7,
             "part_title": "Part 7: The Station Assault",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/007-part-7-the-station-assault.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/007-part-7-the-station-assault.md"
           },
           {
             "part_num": 8,
             "part_title": "Part 8: The Flight Risk",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/008-part-8-the-flight-risk.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/008-part-8-the-flight-risk.md"
           },
           {
             "part_num": 9,
             "part_title": "Part 9: The Identity Crisis",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/009-part-9-the-identity-crisis.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/009-part-9-the-identity-crisis.md"
           },
           {
             "part_num": 10,
             "part_title": "Part 10: The Identity Protocol",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/010-part-10-the-identity-protocol.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/010-part-10-the-identity-protocol.md"
           },
           {
             "part_num": 11,
             "part_title": "Part 11: The Plastic Anchor",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/011-part-11-the-plastic-anchor.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/011-part-11-the-plastic-anchor.md"
           },
           {
             "part_num": 12,
             "part_title": "Part 12: The Ghost Tax",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/012-part-12-the-ghost-tax.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/012-part-12-the-ghost-tax.md"
           },
           {
             "part_num": 13,
             "part_title": "Part 13: The Maiden Voyage",
-            "file_path": "/luna-leo/luna-leo-narrative/015-book-the-first-year/002-chapter-2-the-winter-concert/013-part-13-the-maiden-voyage.md"
+            "file_path": "/luna-leo/luna-leo-narrative/014-book-the-first-year/002-chapter-2-the-winter-concert/013-part-13-the-maiden-voyage.md"
           }
         ]
       }
