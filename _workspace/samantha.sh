@@ -53,7 +53,7 @@ for DIR in books/*/; do
         if ! pandoc "$NARRATIVE_DOCX" -t gfm --wrap=none -o "$TMP_NARRATIVE"; then
             echo "   *Whistle blow!* Permission error on '$NARRATIVE_DOCX'. Is it open in Word?"
         else
-            echo "   Slicing the manuscript into the 3-tier vault..."
+            echo "   Slicing the manuscript and generating AI Book chunks..."
             
             TEMP_JSONL="$OUT_NARRATIVE_DIR/temp_index.jsonl"
             > "$TEMP_JSONL"
@@ -74,11 +74,13 @@ for DIR in books/*/; do
                 chap_count = 0
                 part_count = 0
                 current_file = "/dev/null" 
+                current_book_file = "/dev/null"
             }
 
-            # LEVEL 1: BOOK (Creates Folder, resets Chapter count)
+            # LEVEL 1: BOOK (Creates Folder, resets Chapter count, Compiles AI File)
             /^# / { 
                 close(current_file)
+                if (current_book_file != "/dev/null") close(current_book_file)
                 
                 book_title = substr($0, 3)
                 safe_book = tolower(book_title)
@@ -88,14 +90,24 @@ for DIR in books/*/; do
                 book_count++
                 chap_count = 0 
                 
+                # Create the standard web structure folder
                 book_dir = sprintf("%s/%03d-%s", base_dir, book_count, safe_book)
                 system("mkdir -p \"" book_dir "\"")
+                
+                # THE COMPILER: Setup the dedicated AI export file for the whole book
+                ai_dir = base_dir "/_ai-export"
+                system("mkdir -p \"" ai_dir "\"")
+                current_book_file = sprintf("%s/%03d-%s.md", ai_dir, book_count, safe_book)
+                
+                print $0 > current_book_file
                 next
             }
 
             # LEVEL 2: CHAPTER (Creates Sub-folder, resets Part count)
             /^## / {
                 close(current_file)
+                
+                if (current_book_file != "/dev/null") print $0 >> current_book_file
                 
                 chap_title = substr($0, 4)
                 safe_chap = tolower(chap_title)
@@ -114,6 +126,9 @@ for DIR in books/*/; do
             /^### / {
                 close(current_file)
                 
+                # Book compiler maintains original H3 structure
+                if (current_book_file != "/dev/null") print $0 >> current_book_file
+                
                 part_title = substr($0, 5)
                 safe_part = tolower(part_title)
                 gsub(/[^a-z0-9]+/, "-", safe_part)
@@ -124,7 +139,7 @@ for DIR in books/*/; do
                 filename = sprintf("%03d-%s.md", part_count, safe_part)
                 current_file = sprintf("%s/%s", chap_dir, filename)
                 
-                # THE OVERRIDE: Write the Part heading as an H1 inside the file
+                # THE OVERRIDE: Write the Part heading as an H1 inside the sliced file
                 print "# " part_title > current_file
                 
                 # THE ROUTING FIX: Strip the physical server path for the JSON manifest
@@ -145,17 +160,25 @@ for DIR in books/*/; do
                 next
             }
             
-            # LEVEL 4: SUB-SCENE (Elevates to H2 inside the current Part file)
+            # LEVEL 4: SUB-SCENE (Elevates to H2 inside Part file, remains H4 in full Book file)
             /^#### / {
+                if (current_book_file != "/dev/null") {
+                    print $0 >> current_book_file
+                }
+                
                 if (current_file != "/dev/null") {
-                    sub(/^#### /, "## ")
-                    print $0 >> current_file
+                    part_line = $0
+                    sub(/^#### /, "## ", part_line)
+                    print part_line >> current_file
                 }
                 next
             }
 
             # STANDARD TEXT (Body paragraphs)
             {
+                if (current_book_file != "/dev/null") {
+                    print $0 >> current_book_file
+                }
                 if (current_file != "/dev/null") {
                     print $0 >> current_file
                 }
