@@ -1,0 +1,682 @@
+# Book 2: The Motel on the Highway
+
+## Chapter 1: The Threshold
+
+### Part 1: Out of the Storm
+
+#### Scene 1: Arrival
+
+US Highway 11 was not built for pedestrians. There was no shoulder, no sidewalk—just a harsh ribbon of asphalt consisting of a northbound lane, a center turn lane, and a southbound lane where cars whipped past them at terrifying speeds.
+
+When they had arrived at Shenandoah Valley Community College earlier that afternoon, there had been nothing but a few wispy clouds in the sky. Now, a massive, bruised thunderhead had completely swallowed the valley, unleashing a sudden, freezing, torrential downpour.
+
+Eighteen-year-old Amanda walked backward along the jagged edge of the grass line, her clothes instantly plastered to her skin by the freezing rain. She adjusted her grip on the heavy, black trash bag slung over her shoulder—a makeshift suitcase holding the absolute last remnants of their childhood—and used her body as a physical shield against the biting wind for her thirteen-year-old siblings.
+
+It had been a brutal twenty-three-minute walk north from the campus, and Drake was completely exhausted. His legs were giving out, the familiar, painful tightness seizing his muscles. He had his right arm slung heavily over Ashleigh’s shoulders and his left arm anchored securely around Jessika’s neck. His sisters walked flush against his sides, bearing his weight seamlessly. It was a fluid, deeply practiced routine; they didn't stagger, they didn't complain, and they didn't waver.
+
+"Keep moving!" Amanda yelled over the deafening crack of thunder, ushering them forward toward the diamond interchange where I-81 met State Route 256. "We're almost there! Just head for the neon!"
+
+Maybe a distant aunt or an old family friend would eventually track them down and help them. Maybe someone would come and pull them out of this nightmare. But Amanda couldn't afford to bank on "maybe." Her siblings were soaked to the bone, and she needed to find them shelter. *Now.*
+
+The parking lot ahead was a depressing asphalt island. Up near the intersection, the glowing, primary-colored signage of a *Rocket Burger* cast a greasy reflection across the puddles. Adjacent to the drive-thru sat the harsh, blinding white fluorescent canopy of the *Crossroads Pantry* convenience store.
+
+But Amanda wasn't looking at the fast food or the gas pumps. Her eyes were locked entirely on the back of the lot, where a massive, buzzing neon sign flickered against the dark, stormy sky.
+
+**HIGHWAY STAR MOTEL** **VACANCY - STUDIO ROOMS - WEEKLY RATES** - **FREE APEX**
+
+It was a rundown trap of a building, but to Amanda, those flickering red letters were a miracle.
+
+Her mother’s sedan and her father’s truck had been repossessed by the bank just days after the funeral. The state social workers had immediately started circling, their clipboards full of foster care placements designed to split the triplets up. Amanda had fought them with every ounce of terrifying, grief-fueled stubbornness she possessed, but without a car and without a lease, her time had completely run out.
+
+She looked past the motel’s glowing sign to the looming, drab brick building sitting directly next door: *Crestview Manor*. It was an underfunded, chronically understaffed nursing home, and as of three days ago, it was the only thing keeping them off the streets. A deeply sympathetic floor manager had hired Amanda as a daytime orderly, letting her work the morning shift while the triplets were legally required to be in school.
+
+The pay was biweekly, the work was physically brutal, and she had just emptied her very first envelope of cash to pay for the motel room she hadn't even seen yet.
+
+"Amanda, it's too loud!" Drake cried out, his voice cracking as another massive clap of thunder rattled the pavement beneath their soaked sneakers.
+
+He huddled tighter against Ashleigh, his fraternal twin, with their identical sister Jessika bracing his other side. The violent crash of the thunderstorm, the blaring horns of the passing cars, and the crushing weight of losing their parents and their home was suddenly too much. It was all just too loud, too bright, too fast.
+
+Ashleigh squeezed her eyes shut, her hands flying up to cover her ears, completely freezing in the middle of the parking lot as the rain came down in sheets.
+
+"I know, buddy, I know it is," Amanda shouted, dropping the trash bag of clothes onto the wet asphalt.
+
+She didn't tell them to calm down. She didn't tell them to hurry up. She just moved. Amanda stepped right into the center of their huddle, wrapping her arms tightly around Drake and Ashleigh, pulling Jessika in close against her back.
+
+She squeezed them hard, applying firm, heavy, unyielding pressure, physically anchoring them to the ground. Drake immediately buried his face in Amanda’s soaked coat, his breathing ragged, while Ashleigh leaned her full, trembling weight against her brother. They didn't know the medical terms for why the noise hurt so much, and they didn't know why the heavy squeeze helped. They just knew that when the world started spinning out of control, a tight, crushing hug was the only thing that made it stop.
+
+They stood there in the pouring rain, a tight knot of four, until the frantic, gasping rhythm of Drake's chest finally began to slow.
+
+"I've got you," Amanda said, her voice a low, steady rumble right next to their ears. "We are safe. We are staying together. I just need you to walk fifty more feet to the lobby."
+
+Jessika, shivering violently in her soaked hoodie, reached out and grabbed Ashleigh's hand, giving it a firm, grounding squeeze. "Come on, Ash. We're getting out of the rain."
+
+Ashleigh slowly lowered her hands from her ears, her knuckles white, and gave a small, jerky nod.
+
+Amanda picked the heavy trash bag back up, her muscles screaming with exhaustion, and guided her pack toward the flickering neon overhang of the Highway Star Motel lobby. The glass doors slid open, completely cutting off the roar of the highway, and replacing the freezing rain with the suffocating smell of stale cigarettes, old coffee, and the faint hum of a lobby television.
+
+#### Scene 2: The Bulletproof Check-In
+
+The lobby was a stark contrast to the freezing downpour outside, but it wasn't exactly welcoming. The air was thick and heavy, smelling like a mixture of stale cigarette smoke, wet carpet, and a pot of coffee that had been burning on a hotplate since yesterday morning.
+
+In the corner, a small, boxy television was mounted to the wall, permanently tuned to The Forecast Network, its volume a low, droning hum detailing the storm they had just escaped.
+
+Amanda dropped the heavy black trash bag near a sagging, mustard-yellow vinyl sofa. She looked back at her siblings. They were shivering, their wet clothes clinging to them. Drake's eyes were heavy with exhaustion, his shoulders slumped as he leaned his weight against Ashleigh.
+
+"Sit," Amanda instructed softly, pointing to the sofa. "Don't touch anything, and just rest. I'll be right back."
+
+Jessika guided Ashleigh and Drake to the couch. They instantly collapsed into a tight, wet pile, pulling their knees to their chests, instinctively seeking the physical warmth and pressure of each other's bodies to ward off the lingering panic of the storm.
+
+Amanda turned her attention to the front desk. It was encased entirely in thick, smudged bulletproof glass, a glaring reminder of exactly what kind of neighborhood this interstate exit was. Behind the glass sat a clerk in a faded polo shirt, thumbing through a magazine with absolute, practiced apathy.
+
+Amanda stood up as straight as she could, pulling her wet shoulders back. She stepped up to the metal transaction slot. She was eighteen, but with her soaked hair and terrified eyes, she felt twelve.
+
+"I need a studio room with the weekly rate," Amanda said, forcing her voice to stay level and loud enough to pass through the thick glass.
+
+The clerk didn't look up from his magazine immediately. When he finally did, his eyes lazily drifted past Amanda, landing on the three shivering thirteen-year-olds huddled on the vinyl sofa. He looked at their soaked clothes, the garbage bag luggage, and the sheer desperation radiating off Amanda.
+
+For a terrifying second, Amanda’s heart stopped. She waited for the questions. Where are your parents? Why aren't they in school? Do I need to call the police?
+
+The clerk blinked slowly, returning his gaze to Amanda. He didn't care. In this motel, desperation was just the standard baseline of doing business. As long as she had the money, he wasn't going to ask a single question.
+
+"Two hundred a week," the clerk drawled, his voice muffled by the glass. "Cash only. No refunds if you leave early."
+
+Amanda let out a breath she didn't realize she was holding. She reached into the front pocket of her soaked coat and pulled out a plain white envelope. Inside was her very first biweekly paycheck from Crestview Manor next door, entirely cashed out into crumpled twenty-dollar bills.
+
+She carefully counted out four hundred dollars, her fingers trembling slightly as the stack of bills in her hand thinned out to almost nothing. It was two full weeks of a roof. Two weeks of guaranteed safety.
+
+She slid the thick stack of twenties through the metal slot.
+
+The clerk took the money, thumbed through it with practiced speed, and shoved it into a drawer out of sight. He didn't ask for a credit card for incidentals. He didn't even ask for an ID.
+
+He grabbed a heavy brass key attached to a bulky, diamond-shaped piece of red plastic and slid it back through the slot toward her.
+
+"Room 114," the clerk muttered, returning to his magazine. "Down the breezeway, ground floor, in the back. Checkout is eleven AM."
+
+Amanda grabbed the cold brass key, clutching it in her fist like it was made of solid gold. She turned back to the sofa.
+
+"Alright," Amanda said, mustering a tired, relieved smile as she picked up the trash bag. "We've got it. Let's go inside."
+
+#### Scene 3: Room 114
+
+The exterior concrete breezeway offered a slight reprieve from the freezing rain, but the wind still whipped the water violently against their legs as they hurried down the row of identical, faded doors.
+
+Amanda stopped at the very end of the ground floor. Number 114.
+
+She jammed the cold brass key into the lock. It stuck for a second, requiring a hard, desperate jiggle before the heavy deadbolt finally gave way with a heavy clack. Amanda pushed her shoulder against the wood, shoving the door open into the dark. She reached blindly along the wall, her wet fingers finding the plastic switch and flicking it upward.
+
+A single, buzzing fluorescent bulb flickered to life in the center of the ceiling.
+
+The smell hit them immediately—a thick, permanent layer of stale cigarette smoke masked poorly by the sharp, stinging scent of industrial bleach.
+
+The room was suffocatingly small, dominated almost entirely by two sagging, full-sized mattresses covered in scratchy, faded polyester bedspreads. Bolted to a cheap veneer dresser in the corner was a massive, heavy-tube television.
+
+Just inside the door was the kitchenette. It wasn’t a kitchen. It was a stained, faux-wood laminate counter featuring a tiny, rusted stainless-steel sink, a constantly humming under-counter mini-fridge, and a greasy, two-burner electric hotplate built right into the surface. There was no oven.
+
+It was grim. It was a trap for transients and people who had completely run out of options.
+
+But as Amanda stood in the doorway, water dripping from her hair onto the stained, threadbare carpet, she felt a massive, crushing wave of relief wash over her. It was a roof. It was a locking door. It was the only thing keeping the state from tearing her family apart.
+
+The state absolutely should have taken them. By every metric of the Department of Social Services, an eighteen-year-old with a minimum-wage orderly job, no car, and no permanent address was a disaster waiting to happen. The social workers had the foster placements ready. But Amanda had stood in front of an exhausted family court judge with her carbon-copy pay stubs from Crestview Manor and a terrifying, unyielding desperation in her eyes.
+
+The judge had rubbed his temples, looked at the overflowing docket of the overwhelmed foster system, and decided to give her a chance. It was a fragile, probationary chance—temporary guardianship contingent on her maintaining a safe environment and a steady income.
+
+This greasy hotplate and these sagging mattresses were that environment.
+
+"Alright," Amanda said, stepping inside and dropping the heavy trash bag onto the floor. "Get out of your wet shoes and coats. Leave them by the heater."
+
+The triplets filed in silently, the sheer exhaustion of the storm and the grief of the last month weighing their movements down. Jessika helped Ashleigh peel off her soaked hoodie, draping it over the rusted metal grate of the wall heater unit.
+
+"Where are we sleeping?" Drake asked, his voice quiet and raspy, his arms wrapped tightly around his own chest as he shivered.
+
+Amanda pointed to the bed closest to the kitchenette. "You three take that one. I'll take this one."
+
+She claimed the mattress by the plastic window blinds and the heavy deadbolt. It wasn't a conscious decision; it was pure, protective instinct. She was putting her body between them and the highway outside.
+
+They didn't complain about the lack of space. The idea of sleeping alone right now was more terrifying than a cramped mattress. Drake, Ashleigh, and Jessika piled onto the sagging bed in their damp clothes.
+
+Drake immediately took the middle. Ashleigh curled into his left side, throwing her arm heavily over his chest. Jessika mirrored her on the right, pressing her forehead firmly against his shoulder. They pulled the scratchy motel blanket up over the three of them, tangling their limbs together into a tight, secure knot.
+
+They didn't need to talk about it. The heavy, consistent physical pressure of his sisters pressing in on him from both sides acted like an anchor, completely grounding Drake’s racing heart. Ashleigh buried her face against his neck, the noise of the thunderstorm outside finally fading into the background as she focused entirely on the steady rhythm of her brother's breathing. Within minutes, the crushing weight of the day pulled all three of them into a deep, heavy sleep.
+
+Amanda stood by the door, watching the rise and fall of their shoulders beneath the thin blanket.
+
+She shed her own wet coat, hanging it over the doorknob. She didn't go to her bed. Instead, she walked over to the wobbly particle-board desk shoved into the corner and pulled out the single wooden chair. She clicked on the small, dim reading lamp, casting a circle of yellowish light over the scratched surface.
+
+From her pocket, she pulled out the glossy, tri-fold brochure she had grabbed from the community college career fair that afternoon. Accelerated Licensed Practical Nursing (LPN) Program. Enter the medical field in eighteen months. Amanda traced the bold lettering with her thumb, looking back at her brother and sisters sleeping in the shadows.
+
+#### Scene 4: The Check-In
+
+The heavy knock on the door of Room 114 was sharp and authoritative, cutting right through the low, buzzing hum of the Athletic Sports Net playing on the heavy-tube television.
+
+Amanda’s head snapped up from her LPN study guide. She immediately looked over at the far bed.
+
+Drake and Ashleigh were sitting cross-legged on the sagging mattress, doing their math homework. At the sound of the knock, they both went perfectly still. Without a word, Ashleigh shifted an inch to her left, pressing her shoulder and the entire length of her arm firmly against Drake’s. Drake leaned into the pressure, his breathing steadying as they physically anchored each other against the sudden intrusion of the outside world.
+
+Jessika, who was sitting at the foot of the bed, immediately muted the TV with the sticky remote.
+
+Amanda stood up, smoothing her scrubs from her morning shift at Crestview Manor. She walked to the door, took a deep breath to steady her racing heart, and pulled it open.
+
+Standing on the exterior concrete breezeway, holding a thick manila folder, was Ms. Evans.
+
+The state social worker wasn't a villain in a stiff suit. She was a tired, practical woman in a sensible trench coat who spent fifty hours a week navigating the broken edges of the foster care system.
+
+"Good afternoon, Amanda," Ms. Evans said, offering a polite, exhausted smile. "Is this a good time for our monthly check-in?"
+
+"Yes, of course. Come in, Ms. Evans," Amanda said, stepping back to open the door wider.
+
+Ms. Evans stepped into the cramped space. The room was suffocatingly small, and no amount of scrubbing could entirely erase the permanent ghost of stale cigarette smoke that lived in the carpet. But the social worker’s trained eyes didn't linger on the peeling wallpaper or the sagging beds.
+
+She looked at the kitchenette. The rusted stainless-steel sink was completely empty and wiped dry. The boxes of generic macaroni and instant noodles were stacked with rigid, methodical precision on the faux-wood laminate.
+
+She looked at the triplets. They were clean, their clothes were washed, and they looked healthy. She noticed Drake and Ashleigh sitting shoulder-to-shoulder in their tight, instinctual huddle, but she didn't pathologize it. She just saw two siblings who clearly felt safe in their space.
+
+"Hi guys," Ms. Evans said warmly.
+
+"Hi, Ms. Evans," Jessika replied, being the designated speaker for the three of them. Jessika reached beside her on the bed, picking up three thick, trifold pieces of cardstock. She proudly held them out. "We got our report cards today."
+
+Ms. Evans walked over, taking the cards. She opened them one by one, her eyebrows rising in genuine surprise.
+
+"A's in History and Science. B's in Algebra," Ms. Evans read aloud, looking up at them. In her line of work, children who had lost their parents and their home within the same month usually saw their academic lives completely disintegrate.
+
+"Drake helped us study for the Science exams," Ashleigh added quietly, her shoulder still pressed firmly against her brother's.
+
+"Well, whatever you three are doing, keep doing it," Ms. Evans said, handing the report cards back to Jessika with a warm, validating nod. She turned to look at Amanda, who was standing stiffly by the wobbly particle-board desk.
+
+"And how are things next door at Crestview Manor, Amanda? Are you still getting your daytime hours?"
+
+"Yes, ma'am," Amanda answered quickly, the terrifying anxiety of the state's power still vibrating in her chest. "Forty hours a week. The floor manager is keeping me strictly on the day shift so I'm here when they get off the school bus."
+
+"Good. That consistency is important," Ms. Evans noted, opening her manila folder and making a quick checkmark with her pen.
+
+She paused, looking at the heavy textbooks stacked on Amanda's desk. "And you? Are you finding time to sleep?"
+
+Amanda hesitated. She reached over to her desk, her fingers brushing the glossy LPN brochure she had kept for months, and picked up a crisp, white piece of paper sitting right next to it.
+
+She handed it to the social worker.
+
+Ms. Evans took the paper. It was printed on the official letterhead of the local community college. She read the bold text near the top: Notice of Acceptance: Accelerated Licensed Practical Nursing Program.
+
+Ms. Evans slowly lowered the paper. She looked around the dingy motel room—at the flickering fluorescent bulb, the greasy hotplate, and the eighteen-year-old girl who was currently working a brutal manual labor job to keep her family out of the system.
+
+The social worker didn't see a fragile, high-risk placement. She saw a young woman who was violently, successfully fighting her way out of a corner.
+
+"Eighteen months," Ms. Evans said softly, looking back at Amanda with a profound, unvarnished professional respect. "That is going to be incredibly hard, Amanda."
+
+"I know," Amanda said, lifting her chin. "But it's recession-proof, and it means I can demand a living wage. I start night classes next month. The triplets are old enough to lock the deadbolt and do their homework for the three hours I'm at the campus."
+
+Ms. Evans handed the acceptance letter back. She closed her manila folder, the sharp snap of the cardboard echoing in the quiet room.
+
+She didn't hand Amanda a list of warnings or foster care contingencies. She didn't look for a reason to tear the family apart.
+
+"You are doing an incredible job, Amanda," Ms. Evans said, her voice dropping the bureaucratic tone entirely. "This room is tight, and I know the math is hard right now. But you are keeping them safe, and you are building a real foundation for them. You keep passing those classes, and I'll see you next month."
+
+Amanda’s shoulders finally, completely dropped. The crushing, invisible weight of the state's authority evaporated from the room.
+
+"Thank you, Ms. Evans," Amanda whispered.
+
+"Keep up the good grades, you three," the social worker smiled at the triplets, before stepping back out onto the concrete breezeway and pulling the heavy door shut behind her.
+
+The heavy deadbolt clicked into place.
+
+Amanda stood staring at the door for a long moment. Then, she looked down at the acceptance letter in her hand, a fierce, protective fire burning in her chest. They were safe for another month. The plan was working.
+
+#### Scene 5: The Receipt
+
+Friday mornings always carried a specific, suffocating weight for Amanda. Payday at Crestview Manor meant she finally had cash in her pocket, but it also meant she immediately had to hand almost all of it over to the man behind the bulletproof glass.
+
+She walked down the exterior concrete breezeway, her hands shoved deep into the pockets of her worn jacket. Her fingers were tightly wrapped around the plain white envelope containing four hundred dollars in twenties. She had done the brutal math at the wobbly particle-board desk the night before. After handing this envelope over for the next two weeks of rent, she would have exactly thirty-four dollars left to cover groceries and Drake’s nerve medication until the next payday.
+
+It was going to be a dangerously tight two weeks.
+
+Amanda pushed open the heavy glass door to the lobby. The familiar, oppressive smell of burnt coffee and stale smoke washed over her. Up in the corner, the small, boxy television was droning on, tuned as always to The Forecast Network.
+
+The same apathetic night clerk was sitting behind the thick, smudged security glass, though this time he was slowly picking at a crossword puzzle.
+
+Amanda stepped up to the metal transaction slot, pulling the white envelope from her pocket.
+
+"Room 114," Amanda said, her voice steady. "I need to pay for the next two weeks."
+
+She started to slide the thick stack of twenties through the metal dip in the counter.
+
+The clerk didn't reach for the money. He glanced up, looked at Amanda, and then reached for the heavy, spiral-bound paper ledger sitting next to the register. He flipped back a page, running his finger down a column of handwritten names and room numbers.
+
+"114," the clerk muttered. He looked back up at her, his expression entirely devoid of emotion. "You're zeroed out."
+
+Amanda’s heart instantly dropped into her stomach. A cold spike of absolute terror shot through her veins.
+
+"What?" Amanda asked, her voice hitching. She pushed the envelope further into the slot. "No, I have the money right here. I'm paying right now. We aren't leaving."
+
+"Didn't say you were leaving," the clerk sighed, clearly annoyed by the sudden panic. He reached under the counter and pulled out a small, rectangular booklet of carbon-copy receipts. "I'm saying you don't owe me anything. You're paid up through the end of next month."
+
+Amanda froze, her hand still hovering over the metal slot. The sheer impossibility of the statement made her brain stall. "Paid? By who?"
+
+"Some lady came in about an hour ago," the clerk said, tearing a yellow piece of paper from the booklet. "Wore a trench coat. Had a state ID badge on a lanyard. Said her name was Mrs. Evans. She paid for four weeks in cash and told me to make sure you got the receipt."
+
+The clerk slid the thin, yellow piece of carbon paper through the slot.
+
+Amanda slowly pulled her hand back, leaving her envelope of cash in her pocket, and picked up the receipt.
+
+There it was, written in the clerk’s messy scrawl: Room 114. Paid in Full. 4 Weeks.
+
+Amanda stared at the yellow paper. In the brutally unfair, mathematically impossible world she had been navigating for the last five months, things like this simply didn't happen. The system was designed to crush people like her, to catch them on technicalities, and to take their families away when their pockets came up empty.
+
+But Mrs. Evans hadn't just looked the other way. The social worker had walked out of Room 114, seen an eighteen-year-old girl destroying her own youth to keep her siblings safe, and reached into her own pocket to buy them a month of breathing room.
+
+Amanda stood in the dingy, smoke-stained lobby, the ambient hum of the television washing over her, and felt a profound, overwhelming wave of relief buckle her knees.
+
+She looked down at her jacket pocket. The white envelope was still there. Four hundred dollars.
+
+For an eighteen-year-old trying to raise three teenagers, four hundred dollars was an absolute fortune. It meant she could pay for Drake’s muscle relaxants without skipping her own meals. It meant she could buy actual ground beef and fresh vegetables instead of generic noodles. It meant she could pay the enrollment fee for her night classes at the community college without a second thought.
+
+"You good, kid?" the clerk asked, his voice breaking through his usual apathy just enough to register slight concern as he watched her stare blankly at the receipt.
+
+"Yeah," Amanda whispered, her vision blurring as a single, exhausted tear spilled over her eyelashes. She clutched the yellow receipt to her chest, a genuine, radiant smile breaking across her face for the first time in months. "I'm incredibly good. Thank you."
+
+Amanda turned away from the bulletproof glass and walked back out into the cool Virginia morning. As she headed back down the breezeway toward Room 114, the crushing weight she had been carrying on her shoulders felt just a little bit lighter.
+
+#### Scene 6: The Hotplate Menu
+
+Amanda practically threw her weight against the heavy wooden door of Room 114, shoving it open with a force that made the chain lock rattle against the frame.
+
+Inside, the cramped space was cast in the flickering, blue-white glow of the heavy CRT television. Drake, Ashleigh, and Jessika were piled onto the far mattress, a tangled knot of limbs, idly watching an afternoon rerun on *Americana Cable*.
+
+At the sudden bang of the door, all three heads snapped up. Drake immediately pulled his knees to his chest, and Ashleigh leaned into his shoulder, their collective anxiety instantly spiking at the abrupt noise.
+
+Amanda quickly closed the door behind her and leaned back against it. She was out of breath, her scrubs slightly rumpled from her shift at Crestview Manor, but her face was flushed with a massive, uncontrollable grin.
+
+"Get your shoes on," Amanda announced, her voice slightly breathless.
+
+Jessika blinked, untangling herself from Ashleigh’s side. "What? Why? Did something happen at the nursing home?"
+
+"Something happened at the front desk," Amanda said. She pushed off the door and walked over to the wobbly particle-board desk.
+
+She held up her left hand. Pinched between her fingers was a flimsy, yellow piece of carbon paper.
+
+"Mrs. Evans stopped by the lobby this morning," Amanda explained, her voice trembling with a mixture of disbelief and pure adrenaline. "She paid our weekly rate. She paid for the *entire month*."
+
+The room went completely silent. The ambient noise of the television and the dull roar of the highway outside seemed to fade away.
+
+Drake’s brow furrowed, his brilliant, analytical mind churning through the logistics. He looked at the yellow receipt, then looked at Amanda's right hand, which was currently stuffed deep into the pocket of her jacket.
+
+"Wait," Drake said slowly, his voice raspy. "If she paid the front desk... what happened to the envelope?"
+
+Amanda pulled her hand out of her pocket. She held up the thick, plain white envelope containing her entire biweekly paycheck from the nursing home.
+
+"It's right here," Amanda beamed, fanning the edge of the envelope with her thumb. "We have four hundred dollars. Clear."
+
+Ashleigh’s jaw dropped. Jessika physically scrambled to the edge of the mattress. In their world, four hundred dollars of unallocated cash wasn't just a buffer; it was hitting the lottery.
+
+"So, get your coats and your shoes," Amanda commanded, clapping her hands together once. "Because we are walking down to the stop and taking the VTA bus into Staunton. We are going grocery shopping. *Real* grocery shopping."
+
+"Real groceries?" Ashleigh echoed, her eyes wide. She looked over at the depressing kitchenette near the door. "Like... not in a cardboard box?"
+
+"No more powdered cheese," Amanda vowed, pointing an accusatory finger at the stack of generic boxed macaroni sitting on the stained laminate counter. "No more instant noodles. We are buying actual food."
+
+"Amanda, we don't have an oven," Jessika pointed out practically, gesturing to the kitchenette. "We just have the fridge and that hotplate."
+
+"I know," Amanda laughed, stepping into the center of the room. The sheer, crushing weight of their poverty was entirely absent from her shoulders for the first time in five months. "But we have two working burners on that hotplate, Jess! Do you know what we can do with two burners and a real grocery budget?"
+
+Drake leaned forward, a genuine smile breaking across his face. "Ground beef."
+
+"Exactly!" Amanda pointed at him. "We can buy actual ground beef. We can make real spaghetti with thick meat sauce. We can buy fresh chicken breasts and pan-fry them. We can boil fresh broccoli instead of eating out of a can."
+
+Ashleigh gripped Drake's arm, her excitement bubbling over. "Wait, what about breakfast? Can we get bacon?"
+
+"We can get bacon," Amanda confirmed, nodding enthusiastically. "We can get a carton of real eggs and fry them. We can buy fresh milk that isn't made of powder, and we are going to buy the absolute most expensive, sugar-filled, name-brand cereal on the aisle. No more generic flakes in a plastic bag."
+
+Jessika jumped off the bed, grabbing her sneakers from the corner. "Fruit! Amanda, please, can we get fresh apples? And bananas?"
+
+"Yes," Amanda promised, her eyes shining as she watched the sheer joy radiating from her siblings. "Apples, bananas, whatever you can fit in the basket. If it fits in the fridge or can be cooked in a skillet, we are getting it."
+
+Drake swung his legs over the side of the sagging mattress, the heavy spasticity in his muscles momentarily forgotten in the rush of excitement. He looked at Amanda, his eyes locking onto hers.
+
+"You don't have to skip meals this week," Drake said quietly, cutting right to the heart of what this money really meant.
+
+Amanda’s smile softened. She walked over and ruffled Drake’s hair. "Nobody is skipping anything this week, buddy. We are going to feast like kings in Room 114."
+
+The cramped, smoke-stained motel room suddenly didn't feel like a trap anymore. For tonight, at least, it was a sanctuary.
+
+"Bus leaves in fifteen minutes!" Amanda called out, grabbing her wet coat from the door handle. "Let's move!"
+
+#### Scene 7: The Valley Pride Run
+
+The Valley Transit Authority bus wasn't a massive city cruiser; it was a boxy, white cutaway mini-bus built directly onto a heavy-duty van chassis. Its suspension was painfully stiff, and the heavy engine roared loudly from beneath the interior cover right next to the driver as they rumbled down the right lane of Route 11.
+
+Amanda sat near the front, the yellow receipt still burning a hole in her pocket. Behind her, Drake, Ashleigh, and Jessika were crammed into the narrow rows of worn, blue-vinyl seats. The small bus was mostly empty this time of day, save for a few community college students and tired retail workers bracing against the bumpy ride.
+
+For the triplets, who had spent the last five months either trapped in a smoky motel room or sitting in a middle school classroom, even this rickety twenty-minute bus ride felt like a massive event. Drake had his forehead pressed against the vibrating glass of the window, watching the Shenandoah Valley roll by, the heavy tension in his shoulders completely absent.
+
+At 4:18 PM, the cutaway's hydraulic brakes squealed, and the heavy chassis lurched toward the shoulder.
+
+"Valley Pride Shopping Center," the driver called out, reaching over and pulling a heavy metal lever that clattered the bi-fold doors open.
+
+"That's us," Amanda said, standing up in the narrow aisle and grabbing the metal handrail.
+
+They stepped down the steep, rubber-treaded stairs and onto the concrete curb. Looming in front of them was the Valley Pride Supermarket. It was a massive, beige-brick building with bright blue and yellow lettering. To anyone else, it was just a mundane grocery store. To the Wilcox siblings, it was a vault of unimaginable luxury.
+
+The automatic glass doors slid open, hitting them with a blast of heavily air-conditioned air and the smell of fresh bakery bread.
+
+Amanda grabbed a metal shopping cart. She didn't reach for the smaller handbaskets they usually used when scraping together pennies for boxed pasta. She took the massive, deep cart.
+
+"Alright," Amanda said, resting her hands on the red plastic handle. "Jessika, produce is on the right. Go grab a bunch of bananas. Find the ones with a little bit of green on the stems so they last the week. Ashleigh, grab a bag of apples."
+
+The girls darted off toward the brightly lit, misting vegetable racks.
+
+Amanda turned to Drake, pushing the cart down the main center aisle. "Come on. We're going to the meat counter."
+
+They bypassed the canned goods entirely. When they reached the back of the store, Amanda didn't even look at the processed hot dogs. She picked up two large, plastic-wrapped packages of fresh, bright red ground beef and dropped them into the cart.
+
+Drake stared at the meat, a slow smile spreading across his face. "Spaghetti tonight?"
+
+"Spaghetti tonight," Amanda confirmed. "With actual tomato sauce that has chunks of garlic in it, not the stuff from the tin can."
+
+By the time Jessika and Ashleigh caught up to them, their arms were loaded with fresh fruit. But the true test of their new budget was Aisle 4.
+
+The cereal aisle.
+
+For months, their breakfast had consisted of heavy, tasteless generic bran flakes poured from a massive, crinkling plastic bag.
+
+"Pick one," Amanda said, gesturing to the towering wall of vibrant, colorful cardboard boxes. "Name brand. Whatever you want."
+
+Jessika gasped, immediately reaching for a box covered in cartoon characters and brightly colored, sugar-frosted marshmallows. Ashleigh bypassed the healthy oats entirely, grabbing a box of heavy, chocolate-coated puffs.
+
+Drake stood frozen for a second, overwhelmed by the sheer volume of choices. He looked at the price tags—three, almost four dollars a box. He looked back at Amanda, his brow furrowing. "Are you sure? We can just get the bag again..."
+
+"Drake," Amanda said softly, stepping closer and giving his shoulder a firm squeeze. She knew exactly what he was doing. He was trying to manage the math for her. He was trying to take on the burden of their survival. "Look at me."
+
+Drake looked up.
+
+"The rent is paid," Amanda promised him, her voice fiercely steady. "Put the bag down. Grab the sugar."
+
+Drake let out a breath, a genuine, unburdened laugh escaping his chest. He reached up and grabbed a box of cinnamon-crusted squares.
+
+They moved through the store like a tactical unit. A carton of real, grade-A large eggs. Two gallons of whole milk. A loaf of actual, soft sandwich bread instead of the discount ends. Fresh chicken breasts. A block of sharp cheddar cheese.
+
+As they approached the checkout lanes, Amanda felt the familiar, cold grip of anxiety tighten in her chest. It was a reflex. For five months, the cash register was a place of sheer terror, a place where she had to meticulously count out crumpled dollar bills and pray she hadn't miscalculated the sales tax.
+
+The cashier began scanning the items. The total on the digital screen climbed higher and higher.
+
+*Twenty dollars.* *Forty dollars.* *Sixty-five dollars.*
+
+Amanda reached into her pocket. She pulled out four crisp twenty-dollar bills from her envelope and handed them to the cashier.
+
+"Eighty-two, fourteen," the cashier said, bagging the fresh meat and produce.
+
+Amanda handed over a fifth twenty.
+
+The cashier handed her back her change, along with a long, printed receipt. Amanda looked down at the heavy plastic bags filling the cart. She still had over three hundred dollars in her pocket.
+
+Jessika grabbed two of the bags, looping the plastic handles over her wrists. Ashleigh and Drake grabbed the rest.
+
+"We have to catch the 5:10 bus back North," Amanda said, checking her watch as they walked back out through the automatic doors into the humid Virginia afternoon.
+
+As they stood on the curb waiting for the loud, rumbling cutaway bus to return, the noise of the highway in the distance didn't seem quite so terrifying. They were still living in a single motel room. They were still surviving on a hotplate. But as Drake shifted his grip on a plastic bag carrying real, fresh food, and Ashleigh leaned comfortably against his shoulder, Amanda knew they had won the week.
+
+They were going to be okay.
+
+"Can we get out of here after this guy explodes?" a groggy voice muttered from the shadows.
+
+Amanda jumped, clutching the LPN brochure against her chest. She looked over at the first bed. Drake had rolled over, his face half-smushed into the thin motel pillow, his eyes fixed purely on the heavy-tube television.
+
+On the screen, the *Faith Network* was running a late-night broadcast of *The Prosperity Pathway*. Reverend Silas Vance was mid-sermon, his face flushed an angry, sweaty magenta. The volume was dialed down to a barely audible hum, rendering his aggressive preaching completely silent.
+
+"Go back to sleep, Drake," Amanda sighed, the heavy weight of the world settling right back onto her shoulders. She reached for the sticky remote on the desk. "I'll turn it off."
+
+"No, wait. Don’t," Drake whispered, propping himself up on one elbow with a mischievous glint in his eye. "Look at him. He’s building up pressure. He’s gonna blow."
+
+On the CRT screen, Reverend Vance clutched a leather-bound book to his chest, squeezed his eyes shut tight, and screwed his face up into a tight, grimacing knot, tilting his head toward the studio ceiling in a dramatic, silent pause to receive a blessing.
+
+Drake timed it flawlessly.
+
+He lifted his leg slightly under the blanket and let out a long, high-pitched, trumpet-like squeal that seemed to go on for a solid four seconds before ending in a wet, abrupt *pop*.
+
+The sound echoed perfectly off the cheap wood paneling of the small room.
+
+Then came the smell. In the humid, unventilated air of the small motel room, it was instant and violent—the distinct, sulfurous aftermath of cheap microwave popcorn and stress-induced digestion.
+
+Under the scratchy blanket next to him, Ashleigh gasped, gagged, and immediately kicked him hard in the shin. "Oh my god, Drake! That is so foul!"
+
+Jessika, who had been sleeping peacefully, sat bolt upright, waving her hand in front of her face. "It tastes like burning tires! Why is it spicy?!"
+
+On the television, the reverend’s eyes snapped open. He pointed a trembling, accusatory finger directly at the camera, his mouth wide in a silent shout.
+
+"He heard it," Drake whispered in mock horror, pulling the blanket up over his nose to shield himself from his own creation. "The Lord heard it. And now he smells it."
+
+Amanda tried to hold it in. She bit the inside of her cheek, gripping the edges of the nursing brochure until her knuckles turned white, but the sheer absurdity of the timing—and the absolute toxicity of the air—broke her. A sharp, sudden laugh escaped her lips, sounding foreign and loud in the dim motel room. She slapped a hand over her mouth, but it was too late—she was giggling, her shoulders shaking as the crushing panic of the last few weeks momentarily fractured.
+
+"You are vile," Amanda choked out, laughing as she waved the brochure frantically to disperse the cloud.
+
+Drake grinned proudly in the blue light of the television. "Told you."
+
+## Chapter 2: Setting the Scene
+
+### Part 1: The APEX Late-Night Switch
+
+The credits of some cheesy, explosions-and-bad-dialogue action flick rolled across the screen, casting a flickering, blue-white glow over the cramped space of Room 114. It was exactly 11:00 PM on a Friday.
+
+Drake, Ashleigh, and Jessika were a drowsy tangle of limbs and scratchy motel blankets on the bed closest to the TV, mindlessly picking at the un-popped kernels in the bottom of a greasy microwave popcorn bag.
+
+At the wobbly veneer desk, Amanda sat with a yellow highlighter poised over an open LPN study guide. She wasn’t absorbing a single medical term. Her ears were tuned to the room the way only an exhausted, hyper-vigilant older sister’s could be—always listening for the subtle shifts in the baseline.
+
+The movie credits ended. The screen faded to black.
+
+When the APEX logo reappeared, the triumphant, booming brass from the movie intro was gone. Instead, a slow, smooth saxophone riff drifted through the cheap speakers, followed by an announcer with a distinctly sultry, hushed voice.
+
+*"Up next on APEX… our late-night Friday programming begins."*
+
+Amanda’s head snapped up.
+
+*Oh no.* She knew exactly what 11:00 PM on premium cable meant. She’d stayed up late enough in her own high school days—back when life was normal, back when she was the one sneaking around her parents' house—to know what kind of "documentaries" aired at this hour.
+
+Not tonight. Not with three thirteen-year-olds in the room.
+
+She was out of her chair before the announcer could even tease the title of the show.
+
+"Alright, that’s enough TV for tonight," she announced, crossing the threadbare carpet in three quick steps and snatching the remote off the nightstand.
+
+"Aww, come on," Drake groaned, flopping backward onto the mattress dramatically. "It’s a Friday. It's not even midnight."
+
+"Exactly," Amanda said, not missing a beat. "Which means it’s the part of the night where APEX stops being kid-friendly."
+
+Jessika blinked up at her, sleep-heavy and confused. "What does that mean?"
+
+"It means," Amanda said firmly, her thumb hovering over the red button, "that it’s bedtime."
+
+She clicked the power button.
+
+The heavy CRT television snapped off with a sharp static *pop*. The glowing screen vanished into a pinpoint of white light before fading completely, plunging the room into dim shadows and a sudden, heavy quiet.
+
+Ashleigh sighed but didn’t argue. She simply pulled the blanket up to her chin and curled her back into Drake's side. Drake muttered something under his breath about being a teenager, but even he didn’t push it. He knew that specific, unyielding tone in Amanda’s voice.
+
+Amanda set the remote on the very top of the television casing, deliberately out of arm's reach.
+
+"Tomorrow’s Saturday," she said, her voice softening as she looked down at them. "We can watch whatever you want in the morning. But right now? Sleep."
+
+The triplets settled. The room went still. With the TV off, the faint, electrical buzz of the neon motel sign outside bled through the window blinds, casting a faint red line across the ceiling.
+
+Amanda stood there for a long moment, just watching them breathe. She watched the tension of their grief and displacement temporarily melt away into the peaceful, heavy rhythm of sleep. She felt the crushing weight of the day settle onto her shoulders all over again—the dwindling savings, the threat of the state, the sheer terror of the future—but at least this one tiny thing she could control. She could keep the room dark. She could keep the garbage out.
+
+She turned her back to the beds and walked quietly toward the desk, sitting back down under the harsh glow of the reading lamp. She picked up her highlighter and turned back to the textbook, facing down the impossible math of their lives.
+
+Behind her, the TV stayed dark.
+
+And that was exactly how it needed to be.
+
+### Part 3: The APEX World Premier Presentation
+
+The following night, the legal pads and the LPN brochures were temporarily shoved into the desk drawer.
+
+For the first time all week, the heavy, static-laced CRT television wasn't muted. It was 7:59 PM on a Saturday, and in the cramped, humid air of Room 114, an unspoken truce had been called with their grim reality.
+
+Drake, Ashleigh, and Jessika were crammed together on the edge of the mattress closest to the screen, a bowl of cheap, microwave-scorched popcorn sitting between them. Amanda sat in the desk chair, pulled around to face the TV. Nobody was talking. Their eyes were glued to the curved glass screen, watching the final seconds of a promo commercial fade to black.
+
+Then, it began.
+
+It started with a single, deep, resonant synth thump—a pulse that felt like the first step of a giant. It vibrated the plastic casing of the cheap television and completely drowned out the drone of the highway outside.
+
+Immediately following the pulse came the spark: a bright, crystalline arpeggio climbing steadily upward, the sound of something waking up. Smooth, sweeping strings joined in, rising in an unstoppable swell, underscored by the warm, human hum of a subtle choir.
+
+On the screen, the camera didn't pan—it *rose*. It started at street level, capturing neon reflections in rain puddles and the blurring streaks of headlights. Then, the view smoothly accelerated upward, initiating the lift. The camera soared past sleek apartment balconies, rooftop gardens, and towering glass skyscrapers until the metropolis became a glowing, geometric grid far below.
+
+*Whoosh.*
+
+The camera pierced the cloud layer, bursting into a vast, infinite starscape. A vertical column of clean, futuristic white-blue light shot upward from the city below, piercing the cosmos like an engineered beacon.
+
+Suddenly, bold, triumphant brass erupted from the tiny speakers. It wasn't just a hero's fanfare; it was the sound of leaving the ordinary world behind.
+
+Within the vertical beam of light, sleek metallic fragments began to rise, rotating slowly. With satisfying, magnetic precision, the pieces snapped together: the **A** formed like a towering steel spire, the **P** and **E** curved and locked into place with a mechanical glide, and the **X** rotated, locking in with a brilliant flare.
+
+As the letters formed **APEX**, the central beam exploded outward into a radiant halo of refracted light.
+
+From the edges of the screen, three brilliant laser beams—red, blue, and green—shot inward, converging dead center on the logo. The moment they touched, they refracted into a shimmering, brilliant spectrum, etching letters carved from pure light:
+
+**WORLD PREMIER PRESENTATION**
+
+The orchestra hit its climax: the Halo Chord. A sustained, shimmering major chord hung in the cramped air of the motel room, feeling exactly like standing at the top of a skyscraper at midnight. It was a pure, goosebump-inducing spectacle.
+
+For those sixty seconds, they weren't four orphans hiding from the foster system in a rundown highway motel. They weren't worried about the weekly rate, Drake's leg pain, or the grocery budget. That overwhelming, million-dollar lift-off had reached right through the screen and pulled them out of their grief. They were just four kids, safe in the dark, buckled in for the ride.
+
+The glowing letters faded, replaced by the ominous, low-frequency rumble of a metropolis unknowingly sitting on top of a geological time bomb.
+
+It was the television premiere of *Mantle's Wrath*, the 1997 disaster blockbuster. It was also a quiet, heavy milestone in Room 114: it was the first big, popcorn-flick movie the siblings were watching together without their parents.
+
+On the screen, a rugged, no-nonsense city emergency director stared down a bubbling river of molten rock consuming a major boulevard, fighting a desperate battle against a sudden, violent eruption right in the middle of the city.
+
+Drake grabbed a handful of popcorn, his eyes glued to the screen as the fictional lava melted through a fire truck. Ashleigh pulled the scratchy motel blanket up to her chin, fully engrossed in the terrifying, fiery spectacle.
+
+Amanda leaned back in her chair, letting out a long, slow breath. She didn't watch the movie. She just watched the flickering, orange light of the on-screen explosions reflect off her brother and sisters' faces.
+
+Seeing them completely mesmerized, completely transported from their heavy reality even for just two hours, made the terrifying weight of her new life feel just a little bit lighter.
+
+## Chapter 2: Amanda Protects her Siblings
+
+### Part 1: The APEX Late‑Night Switch (Amanda Wakes Up at 10:59 PM)
+
+The motel room was silent except for the low hum of the CRT television and the faint buzz of the neon sign outside. Amanda had fallen asleep at the desk again, cheek pressed against the open LPN textbook, highlighter still in her hand. The reading lamp cast a harsh cone of light over the pages, but her eyes had given up an hour ago.
+
+On the bed, the triplets were already asleep — a pile of tangled limbs and blankets, the TV flickering softly across their faces.
+
+The action movie they’d been watching was ending, its final explosion fading into a wash of blue‑white credits. Amanda didn’t stir. She was too far gone, slumped forward, breathing slow and heavy.
+
+Then the credits ended.
+
+The screen went black.
+
+A soft saxophone riff slid out of the TV speakers — smooth, slow, unmistakably late‑night.
+
+Amanda’s eyes snapped open.
+
+She didn’t even know she was awake until she was already moving.
+
+Her heart kicked into gear. Her brain, foggy seconds ago, was suddenly razor‑sharp.
+
+**Oh no. Not now. Not with the kids asleep.**
+
+The APEX logo pulsed onto the screen, bathed in deep purples and soft neon glow. The announcer’s voice came in low and velvety — the exact tone Amanda remembered from her own teenage years, the exact tone that meant *this is not for kids*.
+
+“Up next on APEX… our Friday late‑night programming begins.”
+
+Amanda was out of the chair before the announcer finished the sentence.
+
+She crossed the room in three fast steps, bare feet whispering against the threadbare carpet. She grabbed the remote off the nightstand with the reflexes of someone who had done this before — someone who knew the rhythms of premium cable a little too well.
+
+“Nope,” she muttered under her breath, voice still thick with sleep but firm with authority. “Not tonight.”
+
+She hit the power button.
+
+The TV snapped off with a sharp static pop, the screen collapsing into a tiny white dot before fading into darkness.
+
+The room fell silent again.
+
+Drake stirred, mumbling something incoherent, but didn’t wake. Ashleigh rolled over. Jessika let out a soft sigh and burrowed deeper under the blanket.
+
+Amanda stood there for a moment, breathing hard, adrenaline still buzzing through her veins. She set the remote on top of the TV — way out of reach — and rubbed her eyes with the heel of her hand.
+
+She was exhausted.\
+She was overwhelmed.\
+But she was still in control of this one small thing.
+
+She turned back toward the desk, toward the open textbook, toward the impossible future she was trying to build for all four of them.
+
+Behind her, the TV stayed dark.
+
+And that was exactly how it needed to be.
+
+### Part 2: Saturday Morning — The Teasing Begins
+
+Morning sunlight pushed through the plastic blinds in thin, uneven stripes, cutting across the motel room like a barcode. The neon sign outside had finally flickered off, leaving only the distant hum of highway traffic and the muffled plumbing noises from the room next door.
+
+On the bed closest to the TV, the triplets were already awake, bowls of off‑brand cereal balanced on their knees. A brightly colored cartoon channel played softly — slapstick sound effects, exaggerated voices, and the kind of chaotic energy that only Saturday mornings could deliver.
+
+Amanda woke with a stiff neck and a highlighter stuck to her cheek.
+
+She groaned, peeled herself off the desk, and blinked at the room.
+
+Drake spotted her first.
+
+“There she is,” he announced dramatically. “The Guardian of the Remote.”
+
+Ashleigh snorted cereal milk out her nose. Jessika giggled so hard she nearly dropped her bowl.
+
+Amanda rubbed her face. “What are you talking about?”
+
+“Oh, you know,” Drake said, putting on a mock‑stern voice. “*‘That’s enough TV for tonight.’*”
+
+Jessika chimed in, pitching her voice high. “*‘It’s bedtime.’*”
+
+Ashleigh added, “You jumped up like the TV was about to catch fire.”
+
+All three burst into laughter.
+
+Amanda crossed her arms, trying to look stern, but the corners of her mouth betrayed her. “I was not that dramatic.”
+
+“You were,” Drake insisted. “You moved so fast you left an after‑image.”
+
+Jessika nodded vigorously. “You didn’t even wake up all the way. You just… activated.”
+
+Amanda sighed, half amused, half exasperated. “Well, somebody had to turn it off.”
+
+Drake leaned forward, eyes bright with mischief. “Come on, Amanda. Just once. Let us stay up past eleven on a Friday. We’re thirteen. We can handle it.”
+
+Ashleigh and Jessika nodded in perfect unison — a triplet superpower.
+
+Amanda’s expression shifted instantly. Not angry. Just firm. Protective. The same look she used when reminding them to lock the door or not leave food out overnight.
+
+“No,” she said, without hesitation. “Absolutely not. That channel is off‑limits after eleven.”
+
+“Why?” Drake groaned. “What even comes on?”
+
+“Stuff that’s not for kids,” Amanda said simply.
+
+Jessika frowned. “Like scary stuff?”
+
+“No,” Amanda said quickly. “Not scary. Just… grown‑up. And not appropriate. And I’m not explaining it.”
+
+Ashleigh tilted her head. “Is it boring?”
+
+“Yes,” Amanda lied instantly. “Extremely boring.”
+
+Drake narrowed his eyes. “You’re lying.”
+
+“I’m the adult,” Amanda said, grabbing her textbook off the desk. “I’m allowed to lie if it keeps you three from watching garbage.”
+
+The triplets exchanged a look — the universal teenage *she’s hiding something* look — but none of them pushed further.
+
+Jessika scooted over on the bed. “You can sit with us. Cartoons are on.”
+
+Amanda hesitated, then sat down between them, letting Jessika lean against her shoulder. Drake nudged her foot with his. Ashleigh handed her the cereal box.
+
+The TV blared a ridiculous cartoon theme song.
+
+The room felt lighter than it had in weeks.
+
+Amanda let herself breathe.
+
+She’d deal with the bills later. She’d deal with the studying later. She’d deal with the impossible future later.
+
+Right now, she had three kids to protect, a bowl of cereal to steal bites from, and a Saturday morning that — for once — felt almost normal.
+
+And that late‑night channel?
+
+That could stay dark until further notice.
+
