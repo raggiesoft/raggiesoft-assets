@@ -1,0 +1,64 @@
+/* /css/bootstrap/stardust-labs/footer.css */
+/* STARDUST LABS: Engineering Deck Base */
+
+/* 1. Footer Base - The Bottom Glass Pane */
+footer {
+    background-color: var(--raggie-glass-bg) !important;
+    backdrop-filter: blur(20px) saturate(150%);
+    -webkit-backdrop-filter: blur(20px) saturate(150%);
+    border-top: 1px solid var(--raggie-glass-border) !important;
+    
+    /* Upward shadow to ground the starliner UI */
+    box-shadow: 0 -8px 32px rgba(0, 85, 150, 0.05); 
+    color: var(--bs-body-color) !important;
+    position: relative;
+    z-index: 10;
+}
+
+[data-bs-theme="dark"] footer {
+    /* Neon cyan upward shadow for the Deep Void */
+    box-shadow: 0 -8px 32px rgba(0, 229, 255, 0.08);
+}
+
+/* 2. Subdued Engineering Text */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--bs-secondary) !important; 
+}
+
+/* 3. Navigational Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--bs-link-color) !important;
+    transition: all 0.2s ease;
+    text-decoration: none;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--bs-primary) !important;
+    text-decoration: none;
+}
+
+/* Light Mode Link Hover: Polished Silver / Cyan */
+[data-bs-theme="light"] footer a:hover,
+[data-bs-theme="light"] footer .link-secondary:hover {
+    text-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
+}
+
+/* Dark Mode Link Hover: Holographic Neon */
+[data-bs-theme="dark"] footer a:hover,
+[data-bs-theme="dark"] footer .link-secondary:hover {
+    text-shadow: 0 0 10px var(--mpr-cyan-400), 0 0 20px rgba(0, 229, 255, 0.6);
+    letter-spacing: 0.5px; /* Slight expansion/terminal effect on hover */
+}
+
+/* 4. Konami Modal (Aero Glass Easter Egg) */
+#konamiModal .modal-content {
+    background-color: var(--raggie-glass-bg) !important;
+    backdrop-filter: blur(24px) saturate(150%);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    border: 1px solid var(--raggie-glass-border) !important;
+    box-shadow: var(--raggie-glass-shadow);
+}

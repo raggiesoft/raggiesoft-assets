@@ -1,5 +1,5 @@
 **LORE NOTE:**
-A slow, heavy, and oppressive industrial track with a **Grunge** influence, capturing Leo's cold dread upon arriving at the **Seattle** bus terminal (911 Stewart Street).
+A slow, heavy, and oppressive industrial track with a **Grunge** influence, capturing Leo's cold dread upon arriving at the **Seattle** bus terminal (811 Stewart Street).
 
 For Leo, Seattle isn't just a destination; it is a graveyard. The last time he was in this city (at King Street Station), he suffered the most severe autistic meltdown of his life—a catastrophic system crash triggered by saying goodbye to Olivia. Being back in this zip code reactivates that trauma instantly.
 

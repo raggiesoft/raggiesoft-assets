@@ -10,12 +10,12 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Architect's Lesson",
-            "file_path": "/aethel/aethel-narrative/001-era-1-the-age-of-myth/001-book-i-the-silver-sun/001-chapter-1-the-architect-s-lesson.md"
+            "file_path": "/aethel/aethel-narrative/b001/c001/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Age of Twilight",
-            "file_path": "/aethel/aethel-narrative/001-era-1-the-age-of-myth/001-book-i-the-silver-sun/002-chapter-2-the-age-of-twilight.md"
+            "file_path": "/aethel/aethel-narrative/b001/c001/p002.md"
           }
         ]
       }
@@ -32,12 +32,12 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Sundering of Sunstead",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/001-book-i-the-silver-gauntlet-of-aethel/001-chapter-1-the-sundering-of-sunstead.md"
+            "file_path": "/aethel/aethel-narrative/b002/c001/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Silence of the Hearth",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/001-book-i-the-silver-gauntlet-of-aethel/002-chapter-2-the-silence-of-the-hearth.md"
+            "file_path": "/aethel/aethel-narrative/b002/c001/p002.md"
           }
         ]
       },
@@ -48,22 +48,22 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Hunted and the Caged",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/002-book-ii-the-shadow-s-heart/001-chapter-1-the-hunted-and-the-caged.md"
+            "file_path": "/aethel/aethel-narrative/b002/c002/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Tyrant's Throne",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/002-book-ii-the-shadow-s-heart/002-chapter-2-the-tyrant-s-throne.md"
+            "file_path": "/aethel/aethel-narrative/b002/c002/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The Last Temptation",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/002-book-ii-the-shadow-s-heart/003-chapter-3-the-last-temptation.md"
+            "file_path": "/aethel/aethel-narrative/b002/c002/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The Bridge of a Thousand Truths",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/002-book-ii-the-shadow-s-heart/004-chapter-4-the-bridge-of-a-thousand-truths.md"
+            "file_path": "/aethel/aethel-narrative/b002/c002/p004.md"
           }
         ]
       },
@@ -74,27 +74,27 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Siege of the Shadowspire",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/003-book-iii-the-dawn-of-the-twins/001-chapter-1-the-siege-of-the-shadowspire.md"
+            "file_path": "/aethel/aethel-narrative/b002/c003/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Heart of the Gloom",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/003-book-iii-the-dawn-of-the-twins/002-chapter-2-the-heart-of-the-gloom.md"
+            "file_path": "/aethel/aethel-narrative/b002/c003/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The Long Road Home",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/003-book-iii-the-dawn-of-the-twins/003-chapter-3-the-long-road-home.md"
+            "file_path": "/aethel/aethel-narrative/b002/c003/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The Scouring of Sunstead",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/003-book-iii-the-dawn-of-the-twins/004-chapter-4-the-scouring-of-sunstead.md"
+            "file_path": "/aethel/aethel-narrative/b002/c003/p004.md"
           },
           {
             "part_num": 5,
             "part_title": "Chapter 5: The Aftermath",
-            "file_path": "/aethel/aethel-narrative/002-era-2-the-age-of-silence/003-book-iii-the-dawn-of-the-twins/005-chapter-5-the-aftermath.md"
+            "file_path": "/aethel/aethel-narrative/b002/c003/p005.md"
           }
         ]
       }
@@ -111,22 +111,22 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Tide and the Torch",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/001-book-i-the-glass-sea/001-chapter-1-the-tide-and-the-torch.md"
+            "file_path": "/aethel/aethel-narrative/b003/c001/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Heart of the World",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/001-book-i-the-glass-sea/002-chapter-2-the-heart-of-the-world.md"
+            "file_path": "/aethel/aethel-narrative/b003/c001/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The Weave of the Water",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/001-book-i-the-glass-sea/003-chapter-3-the-weave-of-the-water.md"
+            "file_path": "/aethel/aethel-narrative/b003/c001/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The Gyre",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/001-book-i-the-glass-sea/004-chapter-4-the-gyre.md"
+            "file_path": "/aethel/aethel-narrative/b003/c001/p004.md"
           }
         ]
       },
@@ -137,27 +137,27 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Silent Sector",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/002-book-ii-the-star-eater/001-chapter-1-the-silent-sector.md"
+            "file_path": "/aethel/aethel-narrative/b003/c002/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Ribcage of the Gods",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/002-book-ii-the-star-eater/002-chapter-2-the-ribcage-of-the-gods.md"
+            "file_path": "/aethel/aethel-narrative/b003/c002/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The War for the Mind",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/002-book-ii-the-star-eater/003-chapter-3-the-war-for-the-mind.md"
+            "file_path": "/aethel/aethel-narrative/b003/c002/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The Long Way Down",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/002-book-ii-the-star-eater/004-chapter-4-the-long-way-down.md"
+            "file_path": "/aethel/aethel-narrative/b003/c002/p004.md"
           },
           {
             "part_num": 5,
             "part_title": "Chapter 5: The Cottage",
-            "file_path": "/aethel/aethel-narrative/003-era-3-the-age-of-tides/002-book-ii-the-star-eater/005-chapter-5-the-cottage.md"
+            "file_path": "/aethel/aethel-narrative/b003/c002/p005.md"
           }
         ]
       }
@@ -174,27 +174,27 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Art of Doing Nothing",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/001-book-i-the-magnetic-north/001-chapter-1-the-art-of-doing-nothing.md"
+            "file_path": "/aethel/aethel-narrative/b004/c001/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Alarm Clock",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/001-book-i-the-magnetic-north/002-chapter-2-the-alarm-clock.md"
+            "file_path": "/aethel/aethel-narrative/b004/c001/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The Magnetic Highway",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/001-book-i-the-magnetic-north/003-chapter-3-the-magnetic-highway.md"
+            "file_path": "/aethel/aethel-narrative/b004/c001/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The Clockwork Ocean",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/001-book-i-the-magnetic-north/004-chapter-4-the-clockwork-ocean.md"
+            "file_path": "/aethel/aethel-narrative/b004/c001/p004.md"
           },
           {
             "part_num": 5,
             "part_title": "Chapter 4: The Return Journey",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/001-book-i-the-magnetic-north/005-chapter-4-the-return-journey.md"
+            "file_path": "/aethel/aethel-narrative/b004/c001/p005.md"
           }
         ]
       },
@@ -205,32 +205,32 @@
           {
             "part_num": 1,
             "part_title": "Chapter 1: The Privacy of Stone",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/001-chapter-1-the-privacy-of-stone.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 2: The Smoke and the Fire",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/002-chapter-2-the-smoke-and-the-fire.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 3: The Council of Neighbors",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/003-chapter-3-the-council-of-neighbors.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p003.md"
           },
           {
             "part_num": 4,
             "part_title": "Chapter 4: The King at the Gate",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/004-chapter-4-the-king-at-the-gate.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p004.md"
           },
           {
             "part_num": 5,
             "part_title": "Chapter 5: The Demon and the Witch",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/005-chapter-5-the-demon-and-the-witch.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p005.md"
           },
           {
             "part_num": 6,
             "part_title": "Chapter 6: The Starlight Check-In",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/002-book-ii-the-pilgrimage/006-chapter-6-the-starlight-check-in.md"
+            "file_path": "/aethel/aethel-narrative/b004/c002/p006.md"
           }
         ]
       },
@@ -241,17 +241,17 @@
           {
             "part_num": 1,
             "part_title": "Prologue: The Silence Between Stars",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/003-book-iii-the-zero-point/001-prologue-the-silence-between-stars.md"
+            "file_path": "/aethel/aethel-narrative/b004/c003/p001.md"
           },
           {
             "part_num": 2,
             "part_title": "Chapter 1: The Shadow at Noon",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/003-book-iii-the-zero-point/002-chapter-1-the-shadow-at-noon.md"
+            "file_path": "/aethel/aethel-narrative/b004/c003/p002.md"
           },
           {
             "part_num": 3,
             "part_title": "Chapter 2: The Needle and the Shroud",
-            "file_path": "/aethel/aethel-narrative/004-era-4-the-iron-heart/003-book-iii-the-zero-point/003-chapter-2-the-needle-and-the-shroud.md"
+            "file_path": "/aethel/aethel-narrative/b004/c003/p003.md"
           }
         ]
       }

@@ -41,32 +41,32 @@ for DIR in books/*/; do
         fi
     fi
 
-   # -----------------------------------------
-    # PROCESS NARRATIVE (3-Tier Routing & Katie JSON)
+    # -----------------------------------------
+    # PROCESS NARRATIVE (Index-Only Routing & Master MD)
     # -----------------------------------------
     if [[ -f "$NARRATIVE_DOCX" ]]; then
         echo "   Found narrative score for '$BASE'. Parsing..."
         mkdir -p "$OUT_NARRATIVE_DIR"
         
-        TMP_NARRATIVE="$OUT_NARRATIVE_DIR/${BASE}_tmp.md"
+        # The user's requested master Markdown file
+        MASTER_MD="$OUT_NARRATIVE_DIR/${BASE}.md"
         
-        if ! pandoc "$NARRATIVE_DOCX" -t gfm --wrap=none -o "$TMP_NARRATIVE"; then
+        if ! pandoc "$NARRATIVE_DOCX" -t gfm --wrap=none -o "$MASTER_MD"; then
             echo "   *Whistle blow!* Permission error on '$NARRATIVE_DOCX'. Is it open in Word?"
         else
-            echo "   Sweeping the stage. Removing old artifacts..."
+            echo "   Sweeping the stage. Removing old routing artifacts..."
             
-            # Safely clear out the previous generated folders and manifests, 
-            # keeping only our new temporary Markdown file.
-            find "$OUT_NARRATIVE_DIR" -mindepth 1 -maxdepth 1 ! -name "${BASE}_tmp.md" -exec rm -rf {} +
+            # Safely clear out the previous generated b000 folders and manifests, 
+            # keeping our new master Markdown file intact.
+            find "$OUT_NARRATIVE_DIR" -mindepth 1 -maxdepth 1 ! -name "${BASE}.md" -exec rm -rf {} +
             
-            echo "   Slicing the manuscript and generating AI Book chunks..."
+            echo "   Slicing the manuscript into index-only chunks..."
             
             TEMP_JSONL="$OUT_NARRATIVE_DIR/temp_index.jsonl"
             > "$TEMP_JSONL"
 
-            awk -v base_dir="$OUT_NARRATIVE_DIR" -v json_log="$TEMP_JSONL" '
+            LC_ALL=C awk -v base_dir="$OUT_NARRATIVE_DIR" -v json_log="$TEMP_JSONL" '
             
-            # THE SANITIZER: Escapes quotes and backslashes for valid JSON
             function escape_json(str) {
                 gsub(/\\/, "\\\\", str)
                 gsub(/"/, "\\\"", str)
@@ -80,79 +80,54 @@ for DIR in books/*/; do
                 chap_count = 0
                 part_count = 0
                 current_file = "/dev/null" 
-                current_book_file = "/dev/null"
             }
 
-            # LEVEL 1: BOOK (Creates Folder, resets Chapter count, Compiles AI File)
+            # LEVEL 1: BOOK (Creates b000 Folder)
             /^# / { 
                 close(current_file)
-                if (current_book_file != "/dev/null") close(current_book_file)
                 
                 book_title = substr($0, 3)
-                safe_book = tolower(book_title)
-                gsub(/[^a-z0-9]+/, "-", safe_book)
-                sub(/^-+|-+$/, "", safe_book)
-                
                 book_count++
                 chap_count = 0 
                 
-                # Create the standard web structure folder
-                book_dir = sprintf("%s/%03d-%s", base_dir, book_count, safe_book)
+                # Index-Only Book Directory
+                book_dir = sprintf("%s/b%03d", base_dir, book_count)
                 system("mkdir -p \"" book_dir "\"")
-                
-                # THE COMPILER: Setup the dedicated AI export file for the whole book
-                ai_dir = base_dir "/_ai-export"
-                system("mkdir -p \"" ai_dir "\"")
-                current_book_file = sprintf("%s/%03d-%s.md", ai_dir, book_count, safe_book)
-                
-                print $0 > current_book_file
                 next
             }
 
-            # LEVEL 2: CHAPTER (Creates Sub-folder, resets Part count)
+            # LEVEL 2: CHAPTER (Creates c000 Sub-folder)
             /^## / {
                 close(current_file)
                 
-                if (current_book_file != "/dev/null") print $0 >> current_book_file
-                
                 chap_title = substr($0, 4)
-                safe_chap = tolower(chap_title)
-                gsub(/[^a-z0-9]+/, "-", safe_chap)
-                sub(/^-+|-+$/, "", safe_chap)
-                
                 chap_count++
                 part_count = 0 
                 
-                chap_dir = sprintf("%s/%03d-%s", book_dir, chap_count, safe_chap)
+                # Index-Only Chapter Directory
+                chap_dir = sprintf("%s/c%03d", book_dir, chap_count)
                 system("mkdir -p \"" chap_dir "\"")
                 next
             }
 
-            # LEVEL 3: PART (Creates File, Elevates to H1)
+            # LEVEL 3: PART (Creates p000.md File)
             /^### / {
                 close(current_file)
                 
-                # Book compiler maintains original H3 structure
-                if (current_book_file != "/dev/null") print $0 >> current_book_file
-                
                 part_title = substr($0, 5)
-                safe_part = tolower(part_title)
-                gsub(/[^a-z0-9]+/, "-", safe_part)
-                sub(/^-+|-+$/, "", safe_part)
-                
                 part_count++
                 
-                filename = sprintf("%03d-%s.md", part_count, safe_part)
+                # Index-Only Part File
+                filename = sprintf("p%03d.md", part_count)
                 current_file = sprintf("%s/%s", chap_dir, filename)
                 
-                # THE OVERRIDE: Write the Part heading as an H1 inside the sliced file
+                # Write the Part heading as an H1 inside the sliced file
                 print "# " part_title > current_file
                 
-                # THE ROUTING FIX: Strip the physical server path for the JSON manifest
+                # Strip the physical server path for the JSON manifest
                 web_file_path = current_file
                 sub(/^\.\.\/raggiesoft-books\/books/, "", web_file_path)
                 
-                # Log the sanitized structural data to the JSONL manifest
                 json_entry = sprintf("{\"book_num\": %d, \"book_title\": \"%s\", \"chap_num\": %d, \"chap_title\": \"%s\", \"part_num\": %d, \"part_title\": \"%s\", \"file_path\": \"%s\"}", 
                     book_count, 
                     escape_json(book_title), 
@@ -166,12 +141,8 @@ for DIR in books/*/; do
                 next
             }
             
-            # LEVEL 4: SUB-SCENE (Elevates to H2 inside Part file, remains H4 in full Book file)
+            # LEVEL 4: SUB-SCENE (Elevates to H2 inside Part file)
             /^#### / {
-                if (current_book_file != "/dev/null") {
-                    print $0 >> current_book_file
-                }
-                
                 if (current_file != "/dev/null") {
                     part_line = $0
                     sub(/^#### /, "## ", part_line)
@@ -182,18 +153,15 @@ for DIR in books/*/; do
 
             # STANDARD TEXT (Body paragraphs)
             {
-                if (current_book_file != "/dev/null") {
-                    print $0 >> current_book_file
-                }
                 if (current_file != "/dev/null") {
                     print $0 >> current_file
                 }
             }
-            ' "$TMP_NARRATIVE"
+            ' "$MASTER_MD"
 
             echo "   Subdivisions complete. Passing the baton to Katie..."
 
-            # Use jq to group the flat JSONL log into the nested JSON tree
+            # Group the flat JSONL log into the nested JSON tree
             jq -s '
               group_by(.book_num) | map({
                 book_num: .[0].book_num,
@@ -213,7 +181,6 @@ for DIR in books/*/; do
             ' "$TEMP_JSONL" > "$OUT_NARRATIVE_DIR/katie.json"
 
             rm -f "$TEMP_JSONL"
-            rm -f "$TMP_NARRATIVE"
 
             echo "   Katie's manifest locked. The vault is ready for deployment."
         fi

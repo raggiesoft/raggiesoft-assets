@@ -1,0 +1,38 @@
+/* /css/bootstrap/stardust-labs/extras.css */
+
+#stardust-labs-bg {
+    position: fixed;
+    top: 0; left: 0; 
+    width: 100vw; height: 100vh;
+    overflow: hidden;
+    z-index: -1; 
+    pointer-events: none; 
+    
+    /* Dynamically pulls from root.css, shifting the galaxy color seamlessly */
+    background: radial-gradient(circle at top right, var(--bs-body-bg) 0%, rgba(3,5,9,1) 100%);
+    transition: background 0.5s ease;
+}
+
+.stardust-particle {
+    position: absolute;
+    background-color: var(--bs-body-color); /* Automatically inverts based on theme! */
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+/* --- THE ACCESSIBILITY GATEKEEPER --- */
+@media (prefers-reduced-motion: no-preference) {
+    .stardust-particle {
+        animation: stardust-twinkle linear infinite;
+    }
+}
+
+@keyframes stardust-twinkle {
+    0% { opacity: 0.1; transform: scale(0.8); }
+    50% { 
+        opacity: 1; 
+        transform: scale(1.5); 
+        box-shadow: 0 0 8px var(--mpr-cyan-400); 
+    }
+    100% { opacity: 0.1; transform: scale(0.8); }
+}

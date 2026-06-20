@@ -1,0 +1,35 @@
+/* /css/bootstrap/stardust-labs/root.css */
+/* THEME: Ad Astra / Interstellar Cruise Ship */
+
+:root {
+    --mpr-cyan-400: #00E5FF;   /* The signature Stardust Engine neon */
+    --mpr-silver-300: #B0C4DE; /* Starship bulkheads */
+}
+
+/* --- LIGHT MODE: THE OBSERVATION DECK --- */
+:root, [data-bs-theme="light"] {
+    --bs-primary: var(--mpr-cyan-400);
+    --bs-primary-rgb: 0, 229, 255;
+    
+    --bs-body-bg: #F8FBFF; /* Icy starlight white */
+    --bs-body-color: #0A1128; /* Deep space navy for readability */
+    
+    /* Polished Silver/Cyan Glass */
+    --raggie-glass-bg: rgba(255, 255, 255, 0.75);
+    --raggie-glass-border: rgba(0, 229, 255, 0.3); 
+    --raggie-glass-shadow: 0 8px 32px rgba(0, 229, 255, 0.1);
+    --raggie-gloss-highlight: rgba(255, 255, 255, 0.8);
+}
+
+/* --- DARK MODE: THE DEEP VOID --- */
+[data-bs-theme="dark"] {
+    --bs-primary: var(--mpr-cyan-400);
+    --bs-body-bg: #070B14; /* The Telsan Gap */
+    --bs-body-color: #E2F1FF; /* Starlight white */
+    
+    /* Dark, Glowing Navigational Glass */
+    --raggie-glass-bg: rgba(7, 11, 20, 0.6);
+    --raggie-glass-border: rgba(0, 229, 255, 0.4);
+    --raggie-glass-shadow: 0 0 20px rgba(0, 229, 255, 0.15); 
+    --raggie-gloss-highlight: rgba(0, 229, 255, 0.2);
+}
