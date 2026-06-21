@@ -12,7 +12,9 @@
         "spotifyId": "1j58ruMuWa1DQ07aYQ3GMP",
         "appleId": "1889498183",
         "amazonId": "B0GVGRYWH5",
-        "youtubeId": "OLAK5uy_lsQ8F8UUgU5xAd_Hw5Q5hIcWceh8XrcmA"
+        "youtubeId": "OLAK5uy_lsQ8F8UUgU5xAd_Hw5Q5hIcWceh8XrcmA",
+        "storeStandardUrl": "https://store.raggiesoft.com/products/electric-color-standard-digital-archive",
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/electric-color-studio-master-archive-wav"
       },
       {
         "title": "Neon Hearts",
@@ -22,7 +24,9 @@
         "spotifyId": "w5XSjWEwvPTSQd9qAQkgG",
         "appleId": "1891383771",
         "amazonId": "B0GW96M9X2",
-        "youtubeId": "OLAK5uy_nXmBKNOpa6GdEqNExjM9j6GDFhBqKLnAA&"
+        "youtubeId": "OLAK5uy_nXmBKNOpa6GdEqNExjM9j6GDFhBqKLnAA&",
+        "storeStandardUrl": "https://store.raggiesoft.com/products/neon-hearts-standard-digital-archive",
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/neon-hearts-studio-master-archive-wav"
       },
       {
         "title": "Live in Chicago",
@@ -32,7 +36,11 @@
         "spotifyId": "",
         "appleId": "",
         "amazonId": "",
-        "youtubeId": ""
+        "youtubeId": "",
+        "storeStandardUrl": "https://store.raggiesoft.com/products/live-in-chicago-standard-digital-archive",
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/live-in-chicago-studio-master-archive-wav",
+        "dspExempt": true,
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault."
       },
       {
         "title": "Friction",
@@ -43,7 +51,9 @@
         "spotifyId": "",
         "appleId": "",
         "amazonId": "",
-        "youtubeId": ""
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       }
     ]
   },
@@ -60,7 +70,9 @@
         "spotifyId": "2rKpE0vqHjB7awjOOVfNIE",
         "appleId": "890922755",
         "amazonId": "B0GW3LQT9L",
-        "youtubeId": "OLAK5uy_nRjE2QuS--YtWs_8PSodnDgSnHnNRjbWk"
+        "youtubeId": "OLAK5uy_nRjE2QuS--YtWs_8PSodnDgSnHnNRjbWk",
+        "storeStandardUrl": "https://store.raggiesoft.com/products/the-warehouse-tapes-standard-digital-archive",
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/the-warehouse-tapes-studio-master-archive-wav"
       },
       {
         "title": "Ad Astra (Single)",
@@ -71,7 +83,9 @@
         "spotifyId": "1j58ruMuWa1DQ07aYQ3GMP",
         "appleId": "1890575104",
         "amazonId": "B0GWJ1QRKM",
-        "youtubeId": "OLAK5uy_kLQWvvMLuBXvl7tsHxZQNeAh6fNxnNGEQ"
+        "youtubeId": "OLAK5uy_kLQWvvMLuBXvl7tsHxZQNeAh6fNxnNGEQ",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       },
       {
         "title": "Hard Reset",
@@ -81,7 +95,9 @@
         "spotifyId": "7fvqPK2GboverWkvttAhpC",
         "appleId": "1893078377",
         "amazonId": "B0GWRXCYW8",
-        "youtubeId": "OLAK5uy_nkHJIKW-2bpzPKXLd9VLyd-b1O6GVf5Jc"
+        "youtubeId": "OLAK5uy_nkHJIKW-2bpzPKXLd9VLyd-b1O6GVf5Jc",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       },
       {
         "title": "Forger Nation War Chest",
@@ -91,7 +107,9 @@
         "spotifyId": "3u68SNtT6RCLSpw9PiEPu0",
         "appleId": "1893709111",
         "amazonId": "B0GXC2TYX7",
-        "youtubeId": "OLAK5uy_nB7P4pRLyatOLTo5O3Bbi-8yrTkrB8AQ8"
+        "youtubeId": "OLAK5uy_nB7P4pRLyatOLTo5O3Bbi-8yrTkrB8AQ8",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       },
       {
         "title": "Midnight Drivers",
@@ -101,7 +119,9 @@
         "spotifyId": "6mcBFvyYz9ycs8qVaj4tBa",
         "appleId": "1896124267",
         "amazonId": "B0GZCH6RCG",
-        "youtubeId": "OLAK5uy_mMcJzsH_nSEcWkv9sj50pGaHpKvswrmzA"
+        "youtubeId": "OLAK5uy_mMcJzsH_nSEcWkv9sj50pGaHpKvswrmzA",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       }
     ]
   },

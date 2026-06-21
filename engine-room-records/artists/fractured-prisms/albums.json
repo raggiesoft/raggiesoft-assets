@@ -12,7 +12,9 @@
         "spotifyId": "4G2HvFggcDQf4q3vomSHH6",
         "appleId": "1895041529",
         "amazonId": "B0GXQPCTM6",
-        "youtubeId": "OLAK5uy_l9MGSqq5RiP6E3xlFPfsZQ2_ZVTtp-xJ4"
+        "youtubeId": "OLAK5uy_l9MGSqq5RiP6E3xlFPfsZQ2_ZVTtp-xJ4",
+        "storeStandardUrl": "https://store.raggiesoft.com/products/carnaby-street-standard-digital-archive",
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/carnaby-street-studio-master-archive-wav"
       },
       {
         "title": "1883",
@@ -22,7 +24,9 @@
         "spotifyId": "",
         "appleId": "",
         "amazonId": "",
-        "youtubeId": ""
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
       }
     ]
   }
