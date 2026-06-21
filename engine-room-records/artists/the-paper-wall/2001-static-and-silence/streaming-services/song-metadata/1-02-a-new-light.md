@@ -17,8 +17,8 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
-* **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 07:48:01 PM
+* **Real-World DSP Release Date:** 2026-06-20
+* **Generated On:** 06-20-2026 09:43:53 PM
 * **Master File Located At:** ../../wav/1-02-a-new-light.wav
 
 ## Distribution & AI Disclosure Notes

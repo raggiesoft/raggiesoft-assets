@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 06-07-2026 08:20:50 PM
+* **Generated On:** 06-20-2026 10:13:34 PM
 * **Master File Located At:** ../../wav/1-04-if-you-walked-away.wav
 
 ## Distribution & AI Disclosure Notes

@@ -17,8 +17,8 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2003-10-10
-* **Real-World DSP Release Date:** 2026-06-07
-* **Generated On:** 06-07-2026 05:25:53 PM
+* **Real-World DSP Release Date:** 2026-06-20
+* **Generated On:** 06-20-2026 11:16:07 PM
 * **Master File Located At:** ../../wav/1-01-moon-1-tidal-lock.wav
 
 ## Distribution & AI Disclosure Notes

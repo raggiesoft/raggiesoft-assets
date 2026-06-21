@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-04-24
-* **Generated On:** 06-07-2026 07:30:55 PM
+* **Generated On:** 06-20-2026 09:28:02 PM
 * **Master File Located At:** ../../wav/1-02-the-scholar-of-the-twin-suns.wav
 
 ## Distribution & AI Disclosure Notes

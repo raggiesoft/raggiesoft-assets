@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 06-07-2026 08:12:05 PM
+* **Generated On:** 06-20-2026 10:05:43 PM
 * **Master File Located At:** ../../wav/1-07-light-up-the-night.wav
 
 ## Distribution & AI Disclosure Notes

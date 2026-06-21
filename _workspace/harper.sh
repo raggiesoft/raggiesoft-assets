@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v21.5 - B2B License & Chrono Update) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.6.2 - Decoupled Standard & Audiophile Archives) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
@@ -18,7 +18,7 @@
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
 # Deep parses Schema.org standard JSON-LD properties (UPC, Production & Release Types) from album.json.
-# NEW: Session timing added (12-hour format) and licensing tags updated to RaggieSoft Media B2B portal.
+# NEW v21.6.2: Scraps the 2GB All-In-One archive constraint. Builds a decoupled Standard Archive (MP3/OGG) and standalone Audiophile (WAV) payload.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
@@ -26,7 +26,7 @@
 START_EPOCH=$(date +%s)
 START_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v21.5)... Let's hit the Vault!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.6.2)... Let's hit the Vault!"
 echo "   ⏰ Session Started: $START_TIME_STR"
 
 # Define Root relative to script location
@@ -445,46 +445,51 @@ EOF
         fi
 
         if [ "$METADATA_ONLY" = false ]; then
-            # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
-            if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-                echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
-                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-                -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
-                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
-                "web-mp3/$FILE_BASE.mp3"
-            else
-                echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
-            fi
+            # NEW CHECK: Only run FFmpeg if the WAV actually exists!
+            if [ -f "$WAV_FILE" ]; then
+                # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
+                if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+                    echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
+                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+                    -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
+                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                    -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                    -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
+                    "web-mp3/$FILE_BASE.mp3"
+                else
+                    echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
+                fi
 
-            # --- PREMIUM TIER: V0 MP3 (Vault) ---
-            if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-                echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
-                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-                -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
-                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
-                "vault/mp3/$FILE_BASE.mp3"
-            else
-                echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
-            fi
+                # --- PREMIUM TIER: V0 MP3 (Vault) ---
+                if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
+                    echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
+                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
+                    -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
+                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                    -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
+                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                    -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+                    "vault/mp3/$FILE_BASE.mp3"
+                else
+                    echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
+                fi
 
-            # --- PREMIUM TIER: Q9 OGG (Vault) ---
-            if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
-                echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
-                ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
-                -codec:a libvorbis -q:a 9 \
-                -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
-                -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
-                "vault/ogg/$FILE_BASE.ogg"
+                # --- PREMIUM TIER: Q9 OGG (Vault) ---
+                if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
+                    echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
+                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
+                    -codec:a libvorbis -q:a 9 \
+                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
+                    -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
+                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+                    -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+                    "vault/ogg/$FILE_BASE.ogg"
+                else
+                    echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
+                fi
             else
-                echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
+                echo "         ⏭️  Audio source missing. Skipping FFmpeg encoding for $TITLE."
             fi
         else
             echo "         ⏭️  Metadata-Only mode active. Skipping audio encoding."
@@ -535,6 +540,7 @@ EOF
         ZIP_MP3="vault/archives/${ARCHIVE_BASE_NAME}-mp3.zip"
         ZIP_OGG="vault/archives/${ARCHIVE_BASE_NAME}-ogg.zip"
         ZIP_WAV="vault/archives/${ARCHIVE_BASE_NAME}-wav.7z"
+        ZIP_STANDARD="vault/archives/${ARCHIVE_BASE_NAME}-standard-archive.zip"
 
         echo "      🎙️  HARPER: Booting up the Archiver. Securing files into the Vault..."
 
@@ -543,9 +549,13 @@ EOF
             echo "         -> 📦 Packing Premium MP3 Archive..."
             rm -f "$ZIP_MP3"
             mkdir -p vault/archives/staging_mp3/lyrics
+            mkdir -p vault/archives/staging_mp3/metadata
+            
             cp vault/mp3/*.mp3 vault/archives/staging_mp3/
+            cp streaming-services/song-metadata/*.md vault/archives/staging_mp3/metadata/ 2>/dev/null
             cp "$README_FILE" vault/archives/staging_mp3/
             [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_mp3/
+            
             if [ "$HAS_LYRICS" = true ]; then
                 cp lyrics/*.md vault/archives/staging_mp3/lyrics/
                 [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_mp3/
@@ -564,9 +574,13 @@ EOF
             echo "         -> 📦 Packing Premium OGG Archive..."
             rm -f "$ZIP_OGG"
             mkdir -p vault/archives/staging_ogg/lyrics
+            mkdir -p vault/archives/staging_ogg/metadata
+            
             cp vault/ogg/*.ogg vault/archives/staging_ogg/
+            cp streaming-services/song-metadata/*.md vault/archives/staging_ogg/metadata/ 2>/dev/null
             cp "$README_FILE" vault/archives/staging_ogg/
             [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_ogg/
+            
             if [ "$HAS_LYRICS" = true ]; then
                 cp lyrics/*.md vault/archives/staging_ogg/lyrics/
                 [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_ogg/
@@ -585,9 +599,13 @@ EOF
             echo "         -> 📦 Packing massive WAV Master Archive (Ultra Compression active!)..."
             rm -f "$ZIP_WAV"
             mkdir -p vault/archives/staging_wav/lyrics
+            mkdir -p vault/archives/staging_wav/metadata
+            
             cp wav/*.wav vault/archives/staging_wav/
+            cp streaming-services/song-metadata/*.md vault/archives/staging_wav/metadata/ 2>/dev/null
             cp "$README_FILE" vault/archives/staging_wav/
             [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_wav/
+            
             if [ "$HAS_LYRICS" = true ]; then
                 cp lyrics/*.md vault/archives/staging_wav/lyrics/
                 [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_wav/
@@ -599,6 +617,38 @@ EOF
             rm -rf vault/archives/staging_wav
         else
             echo "         ⏭️  WAV Master Archive already exists! Skipping."
+        fi
+        
+        # Pack the Standard Archive (MP3 & OGG)
+        if [ ! -f "$ZIP_STANDARD" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing the Standard Archive (MP3 & OGG)..."
+            rm -f "$ZIP_STANDARD"
+            mkdir -p vault/archives/staging_standard/lyrics
+            mkdir -p vault/archives/staging_standard/metadata
+            mkdir -p vault/archives/staging_standard/mp3
+            mkdir -p vault/archives/staging_standard/ogg
+            
+            # Copy audio formats
+            cp vault/mp3/*.mp3 vault/archives/staging_standard/mp3/ 2>/dev/null
+            cp vault/ogg/*.ogg vault/archives/staging_standard/ogg/ 2>/dev/null
+            
+            # Metadata and root files
+            cp streaming-services/song-metadata/*.md vault/archives/staging_standard/metadata/ 2>/dev/null
+            cp "$README_FILE" vault/archives/staging_standard/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_standard/
+            
+            # Lyrics
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md vault/archives/staging_standard/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_standard/
+            fi
+            
+            pushd vault/archives/staging_standard > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-standard-archive.zip" *
+            popd > /dev/null
+            rm -rf vault/archives/staging_standard
+        else
+            echo "         ⏭️  Standard Archive (MP3 & OGG) already exists! Skipping."
         fi
         
         echo "   📦 HARPER: Vault secure. Archives packed."
