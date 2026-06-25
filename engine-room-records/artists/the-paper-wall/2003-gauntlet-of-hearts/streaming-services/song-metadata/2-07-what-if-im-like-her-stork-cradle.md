@@ -8,7 +8,7 @@
   "@type": "PropertyValue",
   "propertyID": "UPC"
 }
-* **Track Length:** 
+* **Track Length:** 5:20
 * **Album / Release Title:** The Eleventh Child: A Gauntlet of Hearts
 * **Release Type:** Album
 * **Production Type:** StudioAlbum
@@ -21,7 +21,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
 * **Real-World DSP Release Date:** 2026-08-01
-* **Generated On:** 06-24-2026 10:49:43 PM
+* **Generated On:** 06-25-2026 06:28:21 AM
 * **Master File Located At:** ../../wav/2-07-what-if-im-like-her-stork-cradle.wav
 
 ## Distribution & AI Disclosure Notes
