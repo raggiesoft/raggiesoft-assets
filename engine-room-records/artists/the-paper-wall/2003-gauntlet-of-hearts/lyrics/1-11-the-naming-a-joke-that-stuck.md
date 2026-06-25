@@ -1,0 +1,56 @@
+# The Naming (A Joke That Stuck)
+
+**LORE NOTE:**
+This track represents a crucial moment of empowerment and self-determination for the protagonist. During a quiet conversation with Aubrie Jean Kelly, he explains the origin of his legal first name, "Aubrey." His abusive mother, whose name is Aubrie, gave him the gender-neutral name as a cruel joke that ultimately became permanent on his birth certificate. Recognizing the shared name as a source of his lifelong trauma, daily confusion, and the catalyst for the dorm room mix-up, he makes his first true act of defiance. He announces that he despises the name "Aubrey" and chooses to go by his middle name, "Jordan," officially shedding his old identity and stepping into his new life.
+
+**LYRICS:**
+
+(Intro)
+
+(Verse 1)
+(Vocals are soft, hesitant, and full of wonder)
+She breaks the quiet, asks my name
+A nervous laugh, a world of shame
+"It's Aubrey, just the same as you"
+"But spelled a different way, it's true"
+She doesn't flinch, she doesn't run
+This simple kindness has begun...
+
+(Pre-Chorus)
+(Music builds slightly)
+I have to tell her, have to say
+The reason I was named this way
+"My mother's name is Aubrie, too"
+"It's something that she thought to do..."
+
+(Chorus)
+(The full piano-rock band kicks in, confident and mid-tempo)
+It was a joke that just kind of stuck
+A name I've cursed, my rotten luck
+A label that she put on me
+That I was never meant to be
+But looking at her, I can see
+A chance to change my history
+
+(Bridge)
+(Vocals are firm, a clear decision)
+This is my chance, this is the day
+I'll be the one to walk away
+From "Aubrey" and the life he led
+The name she used inside my head
+This is my first act of defiance
+My declaration of alliance...
+
+(Chorus)
+(Music is strong and proud)
+It was a joke that just kind of stuck
+But now I'm making my own luck
+I'm shedding skin I've worn too long
+A place where I could not belong
+You can call me Jordan
+Yeah, you can call me Jordan
+From now on...
+Call me Jordan.
+
+(Outro)
+Call me Jordan...

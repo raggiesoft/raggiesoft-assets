@@ -1,0 +1,93 @@
+# The Eleventh Child (A Gauntlet of Hearts)
+
+**LORE NOTE:**
+This is the grand finale. Jordan has survived the absolute worst his abuser, his own failing body, and the world could throw at him. He has crossed his own personal "Silver Gauntlet." The title, "The Eleventh Child," is a poetic metaphor to Jordan; he feels as though he was reborn and saved at the "eleventh hour," adopted into a massive, sprawling network of love as a new child of the light. (The universe holds a deeper, biological irony to this title, but to Jordan, it simply means miraculous salvation). The "Gauntlet of Hearts" refers to the unbreakable wall formed by his chosen family—the Pact of Six, the Brooks, and everyone who stood by him. Musically, this track is the ultimate 1980s stadium-rock euphoric anthem. It is loud, unapologetically joyful, and exploding with triumphant synthesizers and soaring guitars. He is 100% safe, 100% secure, and entirely free.
+
+**LYRICS:**
+
+(Intro)
+(A massive, sweeping, cinematic synthesizer chord rings out, bright and golden. A thundering, stadium-sized drum fill echoes through the space. The lead guitar kicks in with a blazing, triumphant, major-key riff. Pure 80s euphoria.)
+
+(Verse 1)
+(Vocals are incredibly strong, confident, and full of joy)
+I started in the shadows, in an industrial cage
+I was written in the margins of a forgotten page
+I walked through the fire, I survived the bitter cold
+I beat a failing heart at nineteen years old!
+She tried to keep me captive, she tried to drag me down
+But I built a brand new kingdom in a brand new town!
+
+(Pre-Chorus)
+They tried to cut the wire, they tried to break the line
+But the system is immortal, and the victory is mine!
+The past is just a ghost that I've learned how to erase
+I've found my optimal coordinate, I've found my perfect space!
+
+(Chorus)
+(The music explodes. Multiple voices join in a massive choir of chosen family)
+I was pulled from the dark at the eleventh hour!
+A brand new child of the synthesizer power!
+I walked through the fire, I played my part
+And now I'm surrounded by a GAUNTLET OF HEARTS!
+The tyrant is vanquished, the shadows are clear
+I am finally, totally, permanently here!
+I'm the Eleventh Child! And I am free!
+Safe inside my chosen family!
+
+(Verse 2)
+The Pact of Six is standing, a fortress made of light
+We conquered the highway, we won the longest night
+No more rootkit viruses, no more endless fear
+We washed away the trauma in a flood of happy tears!
+Zoe's got the logic, Madi's got the shield
+Aubrie is the anchor on this battlefield!
+Daniel's playing mixtapes, Laura leaves the light on
+We're staring at the dawn until the night is gone!
+
+(Pre-Chorus)
+They tried to cut the wire, they tried to break the line
+But the system is immortal, and the victory is mine!
+The past is just a ghost that I've learned how to erase
+I've found my optimal coordinate, I've found my perfect space!
+
+(Chorus)
+I was pulled from the dark at the eleventh hour!
+A brand new child of the synthesizer power!
+I walked through the fire, I played my part
+And now I'm surrounded by a GAUNTLET OF HEARTS!
+The tyrant is vanquished, the shadows are clear
+I am finally, totally, permanently here!
+I'm the Eleventh Child! And I am free!
+Safe inside my chosen family!
+
+(Bridge)
+(The heavy drums drop out. A shimmering, arpeggiated synth plays underneath a soaring, melodic bassline. It feels like flying.)
+Just like Kaelan on the silver movie screen
+I am living out the most impossible dream
+The twin suns are rising, the gold and the silver bright
+I have officially defeated the night!
+(The drums build back up, a rapid-fire snare roll leading to the climax)
+
+(Guitar & Synth Dual Solo)
+(A face-melting, joyful, technically brilliant solo where the analog synthesizer and the electric guitar trade melodies, perfectly complementing each other)
+
+(Chorus)
+(Maximum volume, maximum joy. The entire cast is singing.)
+I was pulled from the dark at the eleventh hour!
+A brand new child of the synthesizer power!
+I walked through the fire, I played my part
+And now I'm surrounded by a GAUNTLET OF HEARTS!
+The tyrant is vanquished, the shadows are clear
+I am finally, totally, permanently here!
+I'm the Eleventh Child! And I am free!
+Safe inside my chosen family!
+
+(Outro)
+(The music rides the euphoric wave, the synth melody repeating as it begins a long fade)
+A Gauntlet of Hearts!
+(Spoken - Jordan)
+"System is perfect."
+We won!
+The Eleventh Child...
+Safe.
+(The final chord holds out, shimmering and warm, until it fades completely into a peaceful silence.)

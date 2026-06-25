@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MusicAlbum",
+  "name": "The Eleventh Child: A Gauntlet of Hearts",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Paper Wall"
+  },
+  "isRockOpera": true,
+  "numTracks": 32,
+  "genre": "Electronic / Narrative",
+  "datePublished": "2026-08-01",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "Album",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "UPC"
+  }
+}

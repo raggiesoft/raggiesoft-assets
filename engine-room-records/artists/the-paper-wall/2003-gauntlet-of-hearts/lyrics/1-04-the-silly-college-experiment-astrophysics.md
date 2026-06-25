@@ -1,0 +1,76 @@
+# The Silly College Experiment (Astrophysics)
+
+**LORE NOTE:**
+This track explores Aubrie Sinclair's manipulative mindset regarding Jordan's enrollment at Commonwealth Polytechnic Institute. She views his desire for higher education as a "silly college experiment" and deliberately sets him up to fail by selecting Astrophysics—a highly complex and mathematically demanding major—as his degree path[cite: 1]. Her intention is not for him to succeed, but to use this "insurmountable mountain" to prove his incompetence, shatter his confidence, and force him to return home, cementing his lifelong dependency on her[cite: 1].
+
+**LYRICS:**
+
+(Intro)
+(A slow, grinding industrial beat, similar to "Dependency Loop," but with a new, mocking, high-pitched synth melody, like a warped nursery rhyme.)
+
+(Verse 1)
+You want to go to college
+You want to play pretend
+This silly little game of yours
+I know just how it ends
+You think you're smart, my Aubrey
+You think you'll get away
+But I know how to break you
+I know the words to say
+
+(Chorus)
+(The beat becomes heavier, more deliberate and cruel)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Verse 2)
+You'll fail your first assignment
+You'll panic at the tests
+You'll realize you're not like them
+You're not as good as them
+You'll see you're just a burden
+Incapable and weak
+You'll call me, crying, begging
+You won't last a single week
+
+(Chorus)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Bridge)
+(Music drops to just a buzzing, electrical drone)
+(Whispered)
+Run along. Play your game.
+It's all part of the plan.
+You'll come back home.
+You'll come back to me.
+They always come back to me...
+(The grinding beat crashes back in)
+
+(Chorus)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Outro)
+(The "warped nursery rhyme" synth melody fades out)
+You'll come home...
+You'll fail...
+You'll come home...

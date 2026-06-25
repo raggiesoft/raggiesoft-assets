@@ -1,0 +1,91 @@
+# The Longest Night (NPO)
+
+**LORE NOTE:**
+Jordan survives the catastrophic STEMI, but the immediate aftermath introduces him to the grueling, unglamorous reality of inpatient cardiac recovery. This track captures his first night in the hospital. He is placed on strict "NPO" (nil per os / nothing by mouth) status in case he needs emergency surgery, leaving him intensely, frustratingly hungry and thirsty. To compound his misery, the nurses wake him every two hours for mandatory vitals checks, wrapping a cold blood pressure cuff around his arm just as he drifts off. Yet, amidst the sterile environment, the incessant beeping, and the gnawing hunger, there is a profound comfort: Aubrie Kelly refuses to leave his side. Sleeping in a terribly uncomfortable vinyl hospital chair, her presence transforms a night of physical misery into a quiet testament of enduring, unconditional love.
+
+**LYRICS:**
+
+(Intro)
+(A slow, steady, rhythmic electronic "beep... beep..." mimicking a stable heart monitor. A soft, melodic acoustic guitar enters, gentle but weary.)
+
+(Verse 1)
+(Vocals are tired, raspy, and slightly annoyed)
+The blood pressure cuff inflates again
+It's two AM, or maybe ten?
+The nurse comes in with a flashlight beam
+And rips me out of a fever dream
+A poke, a prod, a gentle sigh
+"Just checking your vitals, the numbers are high."
+She leaves the room, the door clicks shut
+And my stomach churns in a hungry rut
+
+(Pre-Chorus)
+NPO. Nothing by mouth.
+My whole digestive tract has gone south.
+I would trade my soul for a single chip
+For a drop of water upon my lip
+I'm starving, I'm tired, the wires are tight
+Welcome to the longest night
+
+(Chorus)
+(Music swells slightly, adding a warm cello)
+This is the longest night I've ever known
+A sterile room in a clinical zone
+Beeping machines and a flashing light
+No sleep to be found in the longest night
+But then I look to my left, and the panic clears
+Because the best thing in my life is sitting right here
+
+(Verse 2)
+In a vinyl chair that was built for pain
+Underneath the glow of the window pane
+Aubrie is sleeping, her head rests low
+She refused to leave, she refused to go
+My mother would have left me to suffer alone
+Or complained about the time on her cellular phone
+But Aubrie's just breathing, holding my hand
+The fiercest protector in all of the land
+
+(Pre-Chorus)
+NPO. Nothing by mouth.
+My whole digestive tract has gone south.
+I'm dreaming of a burger and a massive shake
+But I'll bear this hunger for both our sakes
+I'm starving, I'm tired, the wires are tight
+Welcome to the longest night
+
+(Chorus)
+This is the longest night I've ever known
+A sterile room in a clinical zone
+Beeping machines and a flashing light
+No sleep to be found in the longest night
+But then I look to my left, and the panic clears
+Because the best thing in my life is sitting right here
+
+(Bridge)
+(Just the acoustic guitar and the steady heart monitor beep)
+(Spoken, with a tired chuckle)
+Four AM. The cuff squeezes again.
+I ask the nurse if I can just have one ice chip.
+She says no.
+I look at Aubrie. She opens one eye, smiles, and squeezes my hand.
+I guess I can wait until morning.
+
+(Guitar Solo - Slow, bluesy, and full of longing, echoing the feeling of an empty stomach and a full heart)
+
+(Chorus)
+(Music is full, warm, and acoustic)
+This is the longest night I've ever known
+A sterile room in a clinical zone
+Beeping machines and a flashing light
+No sleep to be found in the longest night
+But I'm not alone, and the panic clears
+Because the best thing in my life is sitting right here
+
+(Outro)
+(The acoustic guitar fades slowly)
+Just one cracker...
+Please...
+(The monitor beeps steadily)
+I love you, Aubrie.
+(Deep breath, fading to silence)

@@ -14,7 +14,18 @@
         "appleId": "",
         "amazonId": "",
         "youtubeId": ""
-      }
+      },
+	  {
+		  "title": "The Eleventh Child: A Gauntlet of Hearts",
+		  "year": "2003",
+		  "url": "/engine-room/artists/the-paper-wall/discography/2003-gauntlet-of-hearts",
+		  "folder":"2003-gauntlet-of-hearts",
+		  "img":"https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-gauntlet-of-hearts/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": ""
+    }
     ]
   }
 }

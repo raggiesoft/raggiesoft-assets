@@ -1,0 +1,78 @@
+# 1996 (An Extension of Me)
+
+**LORE NOTE:**
+The song establishes the backstory of Jordan's birth year, 1996, and the origins of his mother's controlling nature. Aubrie Sinclair's worldview was entirely shaped by her one sexual encounter with David Fuller, which she falsely believed would lead to marriage. After he abandoned her, she developed a deep-seated bitterness and resentment toward the world. Consequently, she views her son, Aubrey "Jordan" Fuller, not as an individual, but as her property and a literal extension of herself. This mindset drives her to keep him isolated, treating the outside world as a threat to maintain his dependence on her.
+
+**LYRICS:**
+
+(Intro)
+(A cold, pulsing, mechanical beat begins, like a factory machine. A low, dissonant synth drone hums underneath.)
+
+(Verse 1)
+He said it was forever
+That one and only night
+He left me in the pieces
+He was my only light
+But he left a single ember
+A part of him for me
+A debt he'll pay forever
+For all eternity
+
+(Chorus)
+(The beat becomes a pounding, rhythmic, industrial crash)
+This is my son
+An extension of me
+My perfect boy
+My property
+You will never be alone
+You will never be free
+You are my comfort
+An extension of me
+
+(Verse 2)
+The world is loud and dirty
+It's full of pain and lies
+I'll keep you safe forever
+Just look in mother's eyes
+I'll be your hands and voice
+I'll be the air you breathe
+You'll never have to make a choice
+You'll never have to leave
+
+(Chorus)
+(Music swells, adding a grinding, metallic texture)
+This is my son
+An extension of me
+My perfect boy
+My property
+You will never be alone
+You will never be free
+You are my comfort
+An extension of me
+
+(Bridge)
+(The beat drops to a cold, rhythmic pulse)
+I'll keep you here
+I'll keep you pure
+My only love
+My only cure
+You are mine
+You are mine
+You are mine
+
+(Chorus)
+(The music explodes to its loudest, most oppressive peak)
+This is my son
+An extension of me
+My perfect boy
+My property
+You will never be alone
+You will never be free
+You are my comfort
+An extension of me
+
+(Outro)
+(The beat fades slowly, leaving only the cold, dissonant drone)
+(Whispered)
+An extension of me...
+Just... like... me...
