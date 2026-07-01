@@ -4,6 +4,13 @@
 # "I check for updates every 5 minutes. If Jenna pushed code, I deploy it instantly."
 # NO SUDO REQUIRED.
 
+# 0. ROOT PRIVILEGE CHECK
+if [ "$EUID" -eq 0 ]; then
+    echo "🛑👩‍💼 SARAH: WHAT ARE YOU DOING?! I explicitly told you I do not need root!"
+    echo "          ABORTING: Drop the sudo and let me do my job."
+    exit 1
+fi
+
 # 1. CONFIGURATION
 REPO_DIR="/home/michael/raggiesoft-hub"
 WEB_ROOT="/var/www/raggiesoft.com"

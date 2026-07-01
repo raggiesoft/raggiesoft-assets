@@ -8,6 +8,7 @@
 WORKSPACE_DIR=$(cd "$(dirname "$0")" && pwd)
 ASSETS_ROOT=$(cd "$WORKSPACE_DIR/.." && pwd)
 HUB_ROOT=$(cd "$ASSETS_ROOT/../raggiesoft-hub" && pwd)
+CMS_ROOT=$(cd "$ASSETS_ROOT/../stardust-engine-cms" && pwd)
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -297,7 +298,10 @@ function do_pull() {
     echo "   2. Checking the Assets (Workspace)..."
     cd "$ASSETS_ROOT" && git pull origin main
     
-    echo "   3. Hauling the heavy boxes (DigitalOcean Spaces)..."
+    echo "   3. Checking the Stardust Engine CMS..."
+    if [ -d "$CMS_ROOT" ]; then cd "$CMS_ROOT" && git pull origin main; fi
+    
+    echo "   4. Hauling the heavy boxes (DigitalOcean Spaces)..."
     "$RCLONE_BIN" sync do-spaces:assets.raggiesoft.com "$ASSETS_ROOT" \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
@@ -347,6 +351,27 @@ function do_push() {
              echo "      ✓ Pending code sent to GitHub."
         else
              echo "      (Hub is clean and up to date.)"
+        fi
+    fi
+
+    # 4.5 CMS PUSH
+    echo "   -> Packaging the Stardust Engine CMS..."
+    if [ -d "$CMS_ROOT" ]; then
+        cd "$CMS_ROOT"
+        git add .
+        
+        # Check A: Are there uncommitted changes?
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push origin main
+             echo "      ✓ CMS code committed and sent to GitHub."
+        # Check B: Are there committed changes that haven't been pushed yet?
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending CMS commits. Pushing now..."
+             git push origin main
+             echo "      ✓ Pending CMS code sent to GitHub."
+        else
+             echo "      (CMS is clean and up to date.)"
         fi
     fi
     
