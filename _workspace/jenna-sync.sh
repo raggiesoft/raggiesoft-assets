@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v6.9 - SEO & Sync Edition) ---
-# Usage: ./jenna-sync.sh --push "Message" [--public-wifi]
+# --- JENNA: THE DEVELOPMENT LIAISON (v7.0 - Semantic Versioning Edition) ---
+# Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
 # 1. ESTABLISH PATHS
@@ -38,36 +38,16 @@ if [ ! -f "$RCLONE_CONF" ]; then
     exit 1
 fi
 
-# 3. JENNA'S BRAIN
-
-# --- CONFIGURATION: CONNECTION MODE ---
-USE_PUBLIC_WIFI=false
-for arg in "$@"; do
-    if [ "$arg" == "--public-wifi" ]; then
-        USE_PUBLIC_WIFI=true
-        break
-    fi
-done
-
-if [ "$USE_PUBLIC_WIFI" = true ]; then
-    # STEALTH MODE: Single stream, user-agent spoofing
-    RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s --user-agent \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\""
-    CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent."
-else
-    # STANDARD MODE: Full speed ahead.
-    RCLONE_PERF_FLAGS="-P --transfers=8"
-    CONNECTION_MSG="🚀 STANDARD MODE: Maximum velocity."
-fi
+# 3. JENNA'S BRAIN (Functions)
 
 function show_help() {
     echo "Usage: "
-    echo "  ./jenna-sync.sh --push \"Commit Message\""
+    echo "  ./jenna-sync.sh --push -m \"Commit Message\" [-t \"v1.0.0\"]"
     echo "  ./jenna-sync.sh --pull"
     echo "  ./jenna-sync.sh --audit"
     echo "Options: --public-wifi (Stealth mode)"
 }
 
-# --- THE QA VALIDATOR ---
 function run_integrity_check() {
     echo "👱‍♀️ JENNA: QA Protocol Initiated..."
     (
@@ -112,7 +92,6 @@ function run_integrity_check() {
     fi
 }
 
-# --- THE ORPHAN AUDITOR ---
 function run_orphan_audit() {
     echo "👱‍♀️ JENNA: Starting Orphaned Page Audit..."
     if [ ! -d "$LOGS_DIR" ]; then mkdir -p "$LOGS_DIR"; fi
@@ -127,7 +106,6 @@ function run_orphan_audit() {
             \$hubRoot = realpath('../../raggiesoft-hub');
             \$logsDir = __DIR__ . '/logs'; 
             
-            // 2. GATHER ALL DEFINED VIEWS
             \$definedViews = [];
             \$routesDir = \$hubRoot . '/data/routes';
             
@@ -166,7 +144,6 @@ function run_orphan_audit() {
             }
             \$definedViews = array_unique(\$definedViews);
 
-            // 3. SCAN PAGES DIRECTORY
             \$pagesDir = \$hubRoot . '/pages';
             \$orphans = []; \$drafts = []; \$exposed = [];
 
@@ -201,7 +178,6 @@ function run_orphan_audit() {
                 }
             }
 
-            // 4. LOGGING
             if (count(\$orphans) + count(\$drafts) + count(\$exposed) > 0) {
                 \$filename = \$timestamp . '_Jenna_Audit_Report.txt';
                 \$logPath = \$logsDir . '/' . \$filename;
@@ -230,12 +206,10 @@ function run_orphan_audit() {
     )
 }
 
-# --- THE SITEMAP GENERATOR ---
 function generate_sitemap() {
     echo "👱‍♀️ JENNA: Generating XML Sitemap and robots.txt..."
     (
         cd "$WORKSPACE_DIR" && php -r "
-            // Use relative pathing so Windows PHP resolves it natively (C:\Users\...)
             \$hubRoot = realpath('../../raggiesoft-hub');
             if (!\$hubRoot || !is_dir(\$hubRoot)) {
                 echo '      ❌ ERROR: Could not resolve Hub directory path.' . PHP_EOL;
@@ -256,7 +230,6 @@ function generate_sitemap() {
                         \$json = json_decode(\$jsonContent, true);
                         if (json_last_error() === JSON_ERROR_NONE && is_array(\$json)) {
                             foreach (\$json as \$route => \$config) {
-                                // Skip 'common' configs and ensure it starts with a slash
                                 if (\$route !== 'common' && strpos(\$route, '/') === 0) {
                                     \$urls[] = 'https://raggiesoft.com' . \$route;
                                 }
@@ -268,7 +241,6 @@ function generate_sitemap() {
             
             \$urls = array_unique(\$urls);
             
-            // Build the XML using PHP_EOL for safety in bash subshells
             \$xml = '<?xml version=\"1.0\" encoding=\"UTF-8\"?>' . PHP_EOL;
             \$xml .= '<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">' . PHP_EOL;
             
@@ -312,12 +284,33 @@ function do_pull() {
 }
 
 function do_push() {
-    COMMIT_MSG="$1"
-
-    if [[ -z "$COMMIT_MSG" ]]; then
+    if [[ -z "$COMMIT_MSG" && -z "$TAG_NAME" ]]; then
         echo "🛑 JENNA: MISSING COMMIT MESSAGE"
-        echo "Usage: ./jenna-sync.sh --push \"Your message here\""
+        show_help
         exit 1
+    fi
+    
+    if [[ -z "$COMMIT_MSG" ]]; then
+        COMMIT_MSG="Jenna: Automated sync for release $TAG_NAME"
+    fi
+
+    # --- PRE-FLIGHT TAG CHECK ---
+    if [ -n "$TAG_NAME" ]; then
+        echo "👱‍♀️ JENNA: Validating tag '$TAG_NAME'..."
+        if [ -d "$HUB_ROOT" ]; then
+            cd "$HUB_ROOT"
+            if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
+                echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the Hub repository."
+                exit 1
+            fi
+        fi
+        if [ -d "$CMS_ROOT" ]; then
+            cd "$CMS_ROOT"
+            if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
+                echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the CMS repository."
+                exit 1
+            fi
+        fi
     fi
 
     # 1. QA Check
@@ -326,10 +319,13 @@ function do_push() {
     # 2. Orphan Audit
     run_orphan_audit
 
-    # 3. Generate Sitemap (NEW STEP)
+    # 3. Generate Sitemap
     generate_sitemap
 
     echo "👱‍♀️ JENNA: Shipping it! Message: \"$COMMIT_MSG\""
+    if [ -n "$TAG_NAME" ]; then
+        echo "          Applying Tag: $TAG_NAME"
+    fi
     echo "          $CONNECTION_MSG"
 
     # 4. HUB PUSH
@@ -338,19 +334,23 @@ function do_push() {
         cd "$HUB_ROOT"
         git add .
         
-        # Check A: Are there uncommitted changes?
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
              git push origin main
              echo "      ✓ Code committed and sent to GitHub."
-        # Check B: Are there committed changes that haven't been pushed yet?
-        # (This catches the "Public Wifi Ghost Commit" scenario)
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending commits from a previous run. Pushing now..."
              git push origin main
              echo "      ✓ Pending code sent to GitHub."
         else
              echo "      (Hub is clean and up to date.)"
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Hub with tag: $TAG_NAME..."
+            git tag -a "$TAG_NAME" -m "Release $TAG_NAME"
+            git push origin "$TAG_NAME"
+            echo "      ✓ Hub Tag sent to GitHub."
         fi
     fi
 
@@ -360,18 +360,23 @@ function do_push() {
         cd "$CMS_ROOT"
         git add .
         
-        # Check A: Are there uncommitted changes?
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
              git push origin main
              echo "      ✓ CMS code committed and sent to GitHub."
-        # Check B: Are there committed changes that haven't been pushed yet?
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending CMS commits. Pushing now..."
              git push origin main
              echo "      ✓ Pending CMS code sent to GitHub."
         else
              echo "      (CMS is clean and up to date.)"
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping CMS with tag: $TAG_NAME..."
+            git tag -a "$TAG_NAME" -m "Release $TAG_NAME"
+            git push origin "$TAG_NAME"
+            echo "      ✓ CMS Tag sent to GitHub."
         fi
     fi
     
@@ -380,14 +385,12 @@ function do_push() {
     cd "$ASSETS_ROOT"
     
     echo "      > Indexing files (Verbose mode active)..."
-    # Added -v so Git prints every file it stages to the terminal
     git add -v .
     
     if ! git diff-index --quiet HEAD --; then
         echo "      > Committing changes..."
         git commit -m "$COMMIT_MSG"
         echo "      > Pushing to remote..."
-        # Added --progress to force Git to show upload percentages
         git push --progress origin main
         echo "      ✓ Workspace synced to GitHub."
     elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
@@ -410,9 +413,38 @@ function do_push() {
     echo "👱‍♀️ JENNA: Success! Sarah will pick this up shortly."
 }
 
-case "$1" in
-    --pull) do_pull ;;
-    --push) do_push "$2" ;;
-    --audit) run_orphan_audit ;;
+# --- UNIFIED ARGUMENT PARSER ---
+ACTION=""
+COMMIT_MSG=""
+TAG_NAME=""
+USE_PUBLIC_WIFI=false
+
+while [[ "$#" -gt 0 ]]; do
+    case $1 in
+        --push) ACTION="push" ;;
+        --pull) ACTION="pull" ;;
+        --audit) ACTION="audit" ;;
+        --msg|-m) COMMIT_MSG="$2"; shift ;;
+        --tag|-t) TAG_NAME="$2"; shift ;;
+        --public-wifi) USE_PUBLIC_WIFI=true ;;
+        *) echo "👱‍♀️ JENNA: I don't recognize the command '$1'."; show_help; exit 1 ;;
+    esac
+    shift
+done
+
+# Apply connection modifications based on parsing
+if [ "$USE_PUBLIC_WIFI" = true ]; then
+    RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s --user-agent \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\""
+    CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent."
+else
+    RCLONE_PERF_FLAGS="-P --transfers=8"
+    CONNECTION_MSG="🚀 STANDARD MODE: Maximum velocity."
+fi
+
+# Dispatch
+case "$ACTION" in
+    pull) do_pull ;;
+    push) do_push ;;
+    audit) run_orphan_audit ;;
     *) show_help ;;
 esac
