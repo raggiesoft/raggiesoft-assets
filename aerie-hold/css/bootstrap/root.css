@@ -1,0 +1,81 @@
+/* ==========================================================================
+ * ROOT VARIABLES (Theme: Aerie-Hold / Bioluminescent)
+ * Concept: Misty Canopy by Day, Pandora Bioluminescence by Night.
+ * ========================================================================== */
+
+:root {
+    /* --- The Organic Palette (Shared) --- */
+    --aerie-mist: #e6f2f2;         /* High altitude fog */
+    --aerie-canopy: #1a2f23;       /* Deep leaf shadow */
+    --aerie-bark: #2d3e33;         /* Mossy wood */
+    
+    /* --- The Bioluminescent Palette (The Glow) --- */
+    --aerie-glow-cyan: #00F0FF;    /* Active Flora / Links */
+    --aerie-glow-cyan-rgb: 0, 240, 255;
+    --aerie-glow-purple: #B026FF;  /* Rare Spores / Secondary */
+    --aerie-glow-green: #39FF14;   /* Success / Healing */
+    --aerie-glow-orange: #FF7300;  /* Warning / Fire */
+
+    --bs-border-radius: 6px;       /* Softer, more organic corners */
+}
+
+/* --- LIGHT MODE: The Misty Canopy (Day) --- */
+:root,
+[data-bs-theme="light"] {
+    --bs-primary: #2b7a54;         /* Vibrant leaf green */
+    --bs-primary-rgb: 43, 122, 84;
+    
+    --bs-secondary: #5c7a6b;
+    --bs-success: #198754;
+    --bs-info: #007c8a;
+    --bs-warning: #d96c00;
+    --bs-danger: #cc3340;
+
+    --bs-body-bg: var(--aerie-mist);
+    --bs-body-color: var(--aerie-canopy);
+    
+    --bs-tertiary-bg: #ffffff;
+    --bs-border-color: #b8d4cb;
+
+    --bs-link-color: #1e5c3e;
+    --bs-link-hover-color: #0f3622;
+}
+
+/* --- DARK MODE: Pandora Awakens (Night) --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bs-body-bg: #030b0e;         /* Deep jungle night */
+    --bs-body-color: #d1e8e2;      /* Moonlight reflection */
+    
+    --bs-primary: var(--aerie-glow-cyan);
+    --bs-primary-rgb: var(--aerie-glow-cyan-rgb);
+    
+    --bs-secondary: #608891;
+    --bs-tertiary-bg: #06171d;     /* Shadowed undergrowth */
+    --bs-border-color: #0f303b;
+    
+    --bs-success: var(--aerie-glow-green);
+    --bs-info: var(--aerie-glow-purple);
+    --bs-warning: var(--aerie-glow-orange);
+    --bs-danger: #ff2a2a;
+
+    --bs-link-color: var(--aerie-glow-cyan);
+    --bs-link-hover-color: #ffffff;
+  }
+}
+
+/* Force Dark Mode Trigger */
+[data-bs-theme="dark"] {
+    --bs-body-bg: #030b0e;         
+    --bs-body-color: #d1e8e2;      
+    --bs-primary: var(--aerie-glow-cyan);
+    --bs-primary-rgb: var(--aerie-glow-cyan-rgb);
+    --bs-secondary: #608891;
+    --bs-tertiary-bg: #06171d;     
+    --bs-border-color: #0f303b;
+    --bs-success: var(--aerie-glow-green);
+    --bs-info: var(--aerie-glow-purple);
+    --bs-warning: var(--aerie-glow-orange);
+    --bs-link-color: var(--aerie-glow-cyan);
+    --bs-link-hover-color: #ffffff;
+}
