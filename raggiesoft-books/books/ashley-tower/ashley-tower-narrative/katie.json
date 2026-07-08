@@ -1,0 +1,265 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 1: The Ascent",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Gathering Storm – Tuesday, February 9, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Best Laid Plans – 7:30 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Anchor and the Watch – 8:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Ten O'Clock News – 10:00 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Routine – Wednesday, February 10, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Departure – 7:00 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Interlude: The Shifting Models – 12:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 2: The Right Call – 3:45 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 3: The Inventory – 6:30 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Ice – Thursday, February 11, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Video Link – 7:00 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c003/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: Landing at TKI – Friday, February 12, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Interlude: The Vanguard Lands – 10:15 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c004/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Deep Freeze – Saturday, February 13, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Agony of Proximity – 8:30 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c005/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Gridline – Sunday, February 14, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Gentlemen Only – 6:45 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c006/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: The Severance – Monday, February 15, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Going Dark – 1:20 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Interlude: The Gravity Trap – 2:30 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Interlude: The Backchannel – 3:45 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Interlude: Grounded – 4:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 2: The Deep Freeze – 10:30 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 3: The Long Night – 5:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c007/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: Midnight – Tuesday, February 16, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Birthday – 3:15 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Barrier – 4:45 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Morning Light – 7:15 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Siege – Tuesday Afternoon",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c008/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Interlude: Radio Silence – Tuesday, 2:45 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c008/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 9,
+        "chap_title": "Chapter 9: The Breach – Thursday, February 18, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Arrival – 8:15 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c009/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Extraction – 8:18 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c009/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Sanctuary – 9:30 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b001/c009/p003.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book 2: The Sterling Inheritance",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Longest Mile – Saturday, February 20, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Arrival at EBF – 10:45 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Red Line – 11:20 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Monolith – 12:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Ascent – 12:25 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Hearth – 12:28 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Architect of the Transition – 1:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Legal Strike – 1:30 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Inheritance – 6:00 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Legacy Boardroom – 6:30 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Lungs and Guts – 6:55 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Town Square – 7:15 PM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c001/p011.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Firewall – Monday, February 22, 2021",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Interlude: The Texas Head Start – 8:15 AM",
+            "file_path": "/ashley-tower/ashley-tower-narrative/b002/c002/p001.md"
+          }
+        ]
+      }
+    ]
+  }
+]

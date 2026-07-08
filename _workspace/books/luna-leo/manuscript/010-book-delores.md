@@ -178,7 +178,7 @@ Leo gave a small, sad nod. At the mention of the unfamiliar name, Delores's atte
 
 "THIS IS OLIVIA," his Communicator announced. "SHE IS MY BEST FRIEND."
 
-Delores's facial expression changed. The shift was almost imperceptible, a slight tightening around her eyes, a flicker of something cold and appraising. In her mind, the equation was simple: another female must mean a romantic rival. The idea that this "best friend" was the source of the sadness she was trying to fill was a direct threat. But she knew she had to be careful.
+Delores's facial expression changed. The shift was almost imperceptible, a slight tightening around her eyes, a flicker of something cold and appraising. In her mind, the equation was simple: another female e must mean a romantic rival. The idea that this "best friend" was the source of the sadness she was trying to fill was a direct threat. But she knew she had to be careful.
 
 She forced her smile to remain in place. "Oh," she said, her voice a carefully crafted note of polite interest. "She's very... tall. It's nice that you have a friend like that."
 
@@ -1118,9 +1118,9 @@ Delores waved a dismissive hand. "Oh, don't worry about it, Auntie. I can help h
 
 Carol’s expression was one of quiet doubt, but she didn’t press the issue.
 
-Later, as Delores closed the guest room door, the exhaustion of the journey crashed down on Leo. He noticed an outlet and gratefully plugged in his bulky AAC device, its battery having died hours ago .
+Later, as Delores closed the guest room door, the exhaustion of the journey crashed down on Leo. He noticed an outlet and gratefully plugged in his bulky AAC device, its battery having died hours ago.
 
-Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device . She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
+Carol, passing the guest room doorway a few minutes later, saw the large electronic device charging. She recognized it immediately as a type of Augmentative Communication device. She knew how vital they were, and made a quick, sharp mental calculation of just how incredibly expensive they were. The fact that this exhausted, clearly distressed young man had been without his voice for any length of time was another piece of a troubling puzzle that was beginning to form in her mind. It was clear to her that none of this was Leo's fault. The observation registered, filed away for the moment.
 
 ### Part 6: Jet Lag, Pancakes, and a Fragile Plan
 

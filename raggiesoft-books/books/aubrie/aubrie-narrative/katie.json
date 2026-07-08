@@ -5,491 +5,274 @@
     "chapters": [
       {
         "chap_num": 1,
-        "chap_title": "Chapter 1: The Mix-Up",
+        "chap_title": "Chapter 1: The Administrative Prelude – Wednesday, August 20th, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: The Administrative Prelude",
+            "part_title": "Part 1: The Drive – 10:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c001/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: Getting Settled",
+            "part_title": "Part 2: The Shared Bed – 9:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: An Unlikely Welcome",
-            "file_path": "/aubrie/aubrie-narrative/b001/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Making It Official",
-            "file_path": "/aubrie/aubrie-narrative/b001/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Logistics of a Co-Ed Suite",
-            "file_path": "/aubrie/aubrie-narrative/b001/c001/p005.md"
           }
         ]
       },
       {
         "chap_num": 2,
-        "chap_title": "Chapter 2: The First Morning",
+        "chap_title": "Chapter 2: Verification – Thursday, August 21st, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: No Privacy",
+            "part_title": "Part 1: The Poly Pass – 11:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c002/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: Worlds Aligned",
+            "part_title": "Part 2: Educational Accessibility – 2:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Different Kind of Constellation",
-            "file_path": "/aubrie/aubrie-narrative/b001/c002/p003.md"
           }
         ]
       },
       {
         "chap_num": 3,
-        "chap_title": "Chapter 3: First Days and Shared Syllabi",
+        "chap_title": "Chapter 3: Early Move-In – Friday, August 22nd, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: Monday – The Shared Mountain",
+            "part_title": "Part 1: Room 214 – 9:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c003/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: The Broken Elevator",
+            "part_title": "Part 2: The Awkward Outlet – 1:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c003/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The First Choice",
+            "part_title": "Part 3: Stranded – 2:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c003/p003.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 4: Tuesday - An Unexpected Dimension",
+            "part_title": "Part 4: Bedtime – 10:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: An Unconventional Study Session",
-            "file_path": "/aubrie/aubrie-narrative/b001/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Diverging Paths",
-            "file_path": "/aubrie/aubrie-narrative/b001/c003/p006.md"
           }
         ]
       },
       {
         "chap_num": 4,
-        "chap_title": "Chapter 4: The Jerk and The Pact",
+        "chap_title": "Chapter 4: The Mix-Up – Saturday, August 23rd, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: The Call",
+            "part_title": "Part 1: Morning Noise – 8:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c004/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: The Humiliation",
+            "part_title": "Part 2: An Unlikely Welcome – 10:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c004/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The Pact",
+            "part_title": "Part 3: The Hall Director – 11:45 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c004/p003.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 4: Time, Love, and Tenderness",
+            "part_title": "Part 4: Making It Official – 12:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c004/p004.md"
           },
           {
             "part_num": 5,
-            "part_title": "Chapter 4 Sidebar: The Day After: Sarah's Stand",
+            "part_title": "Part 5: Logistics of a Co-Ed Suite – 3:30 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The First Choice – 4:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The First Assist – 5:30 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Spare Hardware – 5:45 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The New Voice – 6:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Antidote – 6:30 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Trust Fall – 8:00 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c004/p011.md"
           }
         ]
       },
       {
         "chap_num": 5,
-        "chap_title": "Chapter 5: The Good Guy and the Awful Truth",
+        "chap_title": "Chapter 5: The First Real Harbor – Sunday, August 24th, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: A Welcome Contrast",
+            "part_title": "Part 1: The Awakening – 2:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c005/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: A Deeper Kindness",
+            "part_title": "Part 2: No Privacy – 8:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c005/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The Good Faith Offer",
+            "part_title": "Part 3: Worlds Aligned – 9:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Campus Topography – 11:00 AM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: A Different Kind of Constellation – 1:00 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Safe Harbor's Perimeter – 4:30 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Newman Hall – 5:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Interception – 5:25 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c005/p008.md"
           }
         ]
       },
       {
         "chap_num": 6,
-        "chap_title": "Chapter 6: Alliances and Additions",
+        "chap_title": "Chapter 6: First Days – Monday, August 25th, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: The New Normal",
+            "part_title": "Part 1: Morning Divergence – 7:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c006/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: The Confrontation",
+            "part_title": "Part 2: Into the Stars – 8:50 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c006/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: A Woman-to-Woman",
+            "part_title": "Part 3: The Ascent – 10:15 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c006/p003.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 4: An Addition to the Pact",
+            "part_title": "Part 4: Western Civilization – 10:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c006/p004.md"
           },
           {
             "part_num": 5,
-            "part_title": "Part 5: The Unbeliever",
+            "part_title": "Part 5: The Broken Elevator – 12:00 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Taste of Freedom – 12:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The True Assessment – 12:55 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c006/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: Afternoon Anchors – 2:00 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c006/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: Evening Data – 8:00 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c006/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Open Doors – 9:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b001/c006/p010.md"
           }
         ]
       },
       {
         "chap_num": 7,
-        "chap_title": "Chapter 7: Trial by Fire Drill",
+        "chap_title": "Chapter 7: The Anatomy of Trust – Tuesday, August 25, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: Roommate Change Agreement",
+            "part_title": "Part 1: The Mega-Meetup – 9:45 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c007/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: Fire Alarm in the Dormitory",
+            "part_title": "Part 2: Office Hours – 10:50 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c007/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The Nightly Pact",
+            "part_title": "Part 3: The Mega-Group Lunch – 12:15 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c007/p003.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 4: The First Night of the Pact",
+            "part_title": "Part 4: An Unconventional Study Session – 8:15 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c007/p004.md"
           },
           {
             "part_num": 5,
-            "part_title": "Part 5: Transforming Jordan into a Forger",
+            "part_title": "Part 5: The War Room – 8:45 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c007/p005.md"
           }
         ]
       },
       {
         "chap_num": 8,
-        "chap_title": "Chapter 8: Homecoming Week",
+        "chap_title": "Chapter 7: The Sensory Awakening – Wednesday, August 27th, 2014",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: The Door Decorating Contest",
+            "part_title": "Part 1: The Canadian Wake-Up – 7:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c008/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: Chalk the Walk",
+            "part_title": "Part 2: The Australian Voice – 7:15 AM",
             "file_path": "/aubrie/aubrie-narrative/b001/c008/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The Pep Rally Fortress",
+            "part_title": "Part X: Primary Care – 3:30 PM",
             "file_path": "/aubrie/aubrie-narrative/b001/c008/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Parade and the Peak",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Game Day",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Pre-Game",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The First Quarter",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Second Quarter",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: Halftime",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Retreat",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Fortress of Truth",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Fortress at Night",
-            "file_path": "/aubrie/aubrie-narrative/b001/c008/p012.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 9,
-        "chap_title": "Chapter 9: The Helicopter and the Chosen Family",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Coming Storm",
-            "file_path": "/aubrie/aubrie-narrative/b001/c009/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Confrontation",
-            "file_path": "/aubrie/aubrie-narrative/b001/c009/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Choice",
-            "file_path": "/aubrie/aubrie-narrative/b001/c009/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Cut Cord",
-            "file_path": "/aubrie/aubrie-narrative/b001/c009/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 10,
-        "chap_title": "Chapter 10: The Fall Break Relay",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The New Lifeline and a Winter Pact",
-            "file_path": "/aubrie/aubrie-narrative/b001/c010/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Handoffs in Action",
-            "file_path": "/aubrie/aubrie-narrative/b001/c010/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Christiansburg Thanksgiving Plan",
-            "file_path": "/aubrie/aubrie-narrative/b001/c010/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Cutting the Digital Cord",
-            "file_path": "/aubrie/aubrie-narrative/b001/c010/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Aftermath",
-            "file_path": "/aubrie/aubrie-narrative/b001/c010/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 11,
-        "chap_title": "Chapter 11: The Thanksgiving Exodus",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Setting the Board",
-            "file_path": "/aubrie/aubrie-narrative/b001/c011/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Final Hour",
-            "file_path": "/aubrie/aubrie-narrative/b001/c011/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Journey",
-            "file_path": "/aubrie/aubrie-narrative/b001/c011/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b001/c011/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Settling into Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b001/c011/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 12,
-        "chap_title": "Chapter 11 Sidebar: The Unwelcome Arrival",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Fortress",
-            "file_path": "/aubrie/aubrie-narrative/b001/c012/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: All Lines Cut",
-            "file_path": "/aubrie/aubrie-narrative/b001/c012/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 13,
-        "chap_title": "Chapter 12: A Thanksgiving Sanctuary",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Calm Before",
-            "file_path": "/aubrie/aubrie-narrative/b001/c013/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Basement Feast",
-            "file_path": "/aubrie/aubrie-narrative/b001/c013/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Turkey Brawl",
-            "file_path": "/aubrie/aubrie-narrative/b001/c013/p003.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 14,
-        "chap_title": "Chapter 13: Operation Black Friday",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Mission Briefing",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Drive",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The First Purchase",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Big Box Gauntlet",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Return to Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Truth or Dare",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Serious Talk",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: Movie Night and a Quiet Word",
-            "file_path": "/aubrie/aubrie-narrative/b001/c014/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 15,
-        "chap_title": "Chapter 14: The New Normal",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Return to the Old Lady",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Change of Plans",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Spring Semester Planning",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Semester in Motion",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Realizing a Double Birthday is Coming",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Preventable Crisis",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Final Exam",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Winter Exodus",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Chapter 13 Sidebar: An Unhinged Idea",
-            "file_path": "/aubrie/aubrie-narrative/b001/c015/p009.md"
           }
         ]
       }
@@ -497,185 +280,16 @@
   },
   {
     "book_num": 2,
-    "book_title": "Book 2: A New Winter Break Tradition",
+    "book_title": "Note to the AI",
     "chapters": [
       {
         "chap_num": 1,
-        "chap_title": "Chapter 1: A Winter Wonderland in the Basement",
+        "chap_title": "Chapter X: Homecoming Week",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: The Fortress Upgrades",
+            "part_title": "Part 11: The Fortress of Truth – 8:45 PM",
             "file_path": "/aubrie/aubrie-narrative/b002/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: New Rules and First Snow",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Lessons in a Blizzard",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Physics of Independence",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Whiteout",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Hunkering Down",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Morning After",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: Blueprints for a Forever Home",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Chapter 14 Sidebar: The Unbudgeted Blizzard",
-            "file_path": "/aubrie/aubrie-narrative/b002/c001/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: A Christiansburg Christmas ",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The First Christmas Present",
-            "file_path": "/aubrie/aubrie-narrative/b002/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Mall Gauntlet",
-            "file_path": "/aubrie/aubrie-narrative/b002/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Brother's Trust",
-            "file_path": "/aubrie/aubrie-narrative/b002/c002/p003.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: Adventures in Southwestern Virginia",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Trip to Bluewater",
-            "file_path": "/aubrie/aubrie-narrative/b002/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: An Afternoon in Radford",
-            "file_path": "/aubrie/aubrie-narrative/b002/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Dinner in Radford",
-            "file_path": "/aubrie/aubrie-narrative/b002/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Long Ride Home",
-            "file_path": "/aubrie/aubrie-narrative/b002/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Unwinding",
-            "file_path": "/aubrie/aubrie-narrative/b002/c003/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: Jordan's First Christmas",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Christmas Morning Firsts ",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Christmas Education",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Board Game Gauntlet",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Great Journey",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Someday Promise",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Unspoken Announcement",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Aroma of Home",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: A Feast for a Family",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A Christmas Pact",
-            "file_path": "/aubrie/aubrie-narrative/b002/c004/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: A Holiday in Bluewater",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Plan and the Journey",
-            "file_path": "/aubrie/aubrie-narrative/b002/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Lunch with the Scotts",
-            "file_path": "/aubrie/aubrie-narrative/b002/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Successful Shopping Trip",
-            "file_path": "/aubrie/aubrie-narrative/b002/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Triumphant Return",
-            "file_path": "/aubrie/aubrie-narrative/b002/c005/p004.md"
           }
         ]
       }
@@ -683,222 +297,97 @@
   },
   {
     "book_num": 3,
-    "book_title": "Book 3: Spring Semester 2015",
+    "book_title": "Book: Jordan's World Trek",
     "chapters": [
       {
         "chap_num": 1,
-        "chap_title": "Chapter 1: Welcome Back to CPI",
+        "chap_title": "Chapter 1: The Northern Ascent – Saturday, May 23rd, 2015",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: Re-Upping the Pact",
+            "part_title": "Part 1: The Vanguard Awakes – 5:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b003/c001/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: The New Pact",
+            "part_title": "Part 2: Operation Yellow Ribbon – 6:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b003/c001/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: First Night of the New Pact",
+            "part_title": "Part 3: The Security Checkpoint – 7:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b003/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Ten-Thousand Foot Rule – 7:30 AM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The International Threshold – 8:30 AM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The IAD Layover Strategy – 9:00 AM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Border Briefing – 10:15 AM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Outback Lift – 11:30 AM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Price of Freedom – 12:30 PM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Commonwealth Question – 2:00 PM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The ePassport Bottleneck – 2:45 PM",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Yellow Ribbon Welcome – 7:00 PM (Newfoundland Daylight Time)",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Gander Lift – 8:15 PM (Newfoundland Daylight Time)",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Room 214 Reunion – 9:30 PM (Newfoundland Daylight Time)",
+            "file_path": "/aubrie/aubrie-narrative/b003/c001/p014.md"
           }
         ]
       },
       {
         "chap_num": 2,
-        "chap_title": "Chapter 2: A Spring in Motion",
+        "chap_title": "Chapter 2: The Northern Horizon",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: First Day of Class",
+            "part_title": "Part 1: The Gander Morning – 8:00 AM (Newfoundland Daylight Time)",
             "file_path": "/aubrie/aubrie-narrative/b003/c002/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: Operation \"File First\"",
+            "part_title": "Part 2: The Cognitive Redirect – 8:45 AM",
             "file_path": "/aubrie/aubrie-narrative/b003/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Summons",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Call to Arms",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The War Council",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Briefing",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The New Fortress",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Promise of Academic Help",
-            "file_path": "/aubrie/aubrie-narrative/b003/c002/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Legal Battle Begins",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Guardian’s Assessment",
-            "file_path": "/aubrie/aubrie-narrative/b003/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Muted Starlight",
-            "file_path": "/aubrie/aubrie-narrative/b003/c003/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: The Bluewater Bunker",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Sanctuary is Compromised",
-            "file_path": "/aubrie/aubrie-narrative/b003/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Convoy to a New Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b003/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Making It Work",
-            "file_path": "/aubrie/aubrie-narrative/b003/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Hunkering Down",
-            "file_path": "/aubrie/aubrie-narrative/b003/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Lessons from a Fellow Traveler",
-            "file_path": "/aubrie/aubrie-narrative/b003/c004/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: The Norfolk Expedition",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Convoy Rolls Out",
-            "file_path": "/aubrie/aubrie-narrative/b003/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Rubber Duck",
-            "file_path": "/aubrie/aubrie-narrative/b003/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Humiliation",
-            "file_path": "/aubrie/aubrie-narrative/b003/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Journey Home",
-            "file_path": "/aubrie/aubrie-narrative/b003/c005/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 6: Homecoming",
-            "file_path": "/aubrie/aubrie-narrative/b003/c005/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 6: A New Dawn, A New Ride",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Victory Lap",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: An Unexpected Ally",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Geology Class",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Victor's Lunch",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: An Afternoon of Kept Promises",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Trip to the Mall",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Food Court Affirmation",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Promise of the Night",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Summer Exodus",
-            "file_path": "/aubrie/aubrie-narrative/b003/c006/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 7,
-        "chap_title": "Chapter 7: The Price of Malice",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The War Council (Redux)",
-            "file_path": "/aubrie/aubrie-narrative/b003/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Second Summons",
-            "file_path": "/aubrie/aubrie-narrative/b003/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Unseen Defeat",
-            "file_path": "/aubrie/aubrie-narrative/b003/c007/p003.md"
           }
         ]
       }
@@ -906,1206 +395,36 @@
   },
   {
     "book_num": 4,
-    "book_title": "Book 4: Summer in the Basement",
+    "book_title": "Book: Jordan's Court Case",
     "chapters": [
       {
         "chap_num": 1,
-        "chap_title": "Chapter 1: The Summer Sanctuary",
+        "chap_title": "Chapter 1: The Southern Hemisphere – Tuesday, August 18, 2015",
         "parts": [
           {
             "part_num": 1,
-            "part_title": "Part 1: A View of the Future",
+            "part_title": "Part 1: The Final Briefing – 9:00 AM",
             "file_path": "/aubrie/aubrie-narrative/b004/c001/p001.md"
           },
           {
             "part_num": 2,
-            "part_title": "Part 2: The Summer of Blueprints",
+            "part_title": "Part 2: The Phalanx and The Gavel – 9:30 AM",
             "file_path": "/aubrie/aubrie-narrative/b004/c001/p002.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 5,
-    "book_title": "Book 5: Fall 2015",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A New Normal",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Dry Run",
-            "file_path": "/aubrie/aubrie-narrative/b005/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Ocean and the Outer Banks",
-            "file_path": "/aubrie/aubrie-narrative/b005/c001/p002.md"
           },
           {
             "part_num": 3,
-            "part_title": "Part 3: The Detour",
-            "file_path": "/aubrie/aubrie-narrative/b005/c001/p003.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Sophomore Settle",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The 5:45 AM Problem",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The 45-Minute Wait",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Transit Center",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p003.md"
+            "part_title": "Part 3: The Evidentiary Phase – 10:15 AM",
+            "file_path": "/aubrie/aubrie-narrative/b004/c001/p003.md"
           },
           {
             "part_num": 4,
-            "part_title": "Part 4: The Campus Wakes Up",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p004.md"
+            "part_title": "Part 4: The Closing Argument – 1:30 PM",
+            "file_path": "/aubrie/aubrie-narrative/b004/c001/p004.md"
           },
           {
             "part_num": 5,
-            "part_title": "Part 5: A Flaw in the System",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A New System Variable",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Sociology Fortress",
-            "file_path": "/aubrie/aubrie-narrative/b005/c002/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Paper Invasion",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Letter",
-            "file_path": "/aubrie/aubrie-narrative/b005/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Battle Plan",
-            "file_path": "/aubrie/aubrie-narrative/b005/c003/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: Fall Break 2015",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Gauntlet",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Overlook",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Basement Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Sickness",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Fever and the Fortress",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Fortress of Comfort",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: Sunday – The Long Wait",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Leviathan Unveiled",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Mid-Gauntlet Intermission",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Leviathan's Heart",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Intermission Feast",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Pact of Gratitude",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: The Social Script Crash",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: The System Crash",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: A New, Stable System",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: The New, Stable System",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 17: Jordan Post-Crash Recovery",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p017.md"
-          },
-          {
-            "part_num": 18,
-            "part_title": "Part 18: An Earned Hug",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p018.md"
-          },
-          {
-            "part_num": 19,
-            "part_title": "Part 19: The Stable System",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p019.md"
-          },
-          {
-            "part_num": 20,
-            "part_title": "Part 20: The Architect",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p020.md"
-          },
-          {
-            "part_num": 21,
-            "part_title": "Part 21: The Reassurance Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p021.md"
-          },
-          {
-            "part_num": 22,
-            "part_title": "Part 22: The Pact's First Night",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p022.md"
-          },
-          {
-            "part_num": 23,
-            "part_title": "Part 23: The Safest Person Declaration",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p023.md"
-          },
-          {
-            "part_num": 24,
-            "part_title": "Part 24: Breakfast and the Victory Lap",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p024.md"
-          },
-          {
-            "part_num": 25,
-            "part_title": "Part 25: The Birth of Fin#",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p025.md"
-          },
-          {
-            "part_num": 26,
-            "part_title": "Part 26: The Bluewater Confirmation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p026.md"
-          },
-          {
-            "part_num": 27,
-            "part_title": "Part 27: Stork & Cradle",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p027.md"
-          },
-          {
-            "part_num": 28,
-            "part_title": "Part 28: The Logical Reassurance",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p028.md"
-          },
-          {
-            "part_num": 29,
-            "part_title": "Part 29: The Procreation Pact",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p029.md"
-          },
-          {
-            "part_num": 30,
-            "part_title": "Part 30: The Jealousy Rootkit",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p030.md"
-          },
-          {
-            "part_num": 31,
-            "part_title": "Part 31: System De-escalation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p031.md"
-          },
-          {
-            "part_num": 32,
-            "part_title": "Part 32: The Food Court Pact",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p032.md"
-          },
-          {
-            "part_num": 33,
-            "part_title": "Part 33: The Final Firewall",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p033.md"
-          },
-          {
-            "part_num": 34,
-            "part_title": "Part 34: The Bluewater Transit Center",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p034.md"
-          },
-          {
-            "part_num": 35,
-            "part_title": "Part 35: The New Arrangement",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p035.md"
-          },
-          {
-            "part_num": 36,
-            "part_title": "Part 36: The Fin# Proposal",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p036.md"
-          },
-          {
-            "part_num": 37,
-            "part_title": "Part 37: The Missing Social Script",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p037.md"
-          },
-          {
-            "part_num": 38,
-            "part_title": "Part 38: The Pact's New Constitution",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p038.md"
-          },
-          {
-            "part_num": 39,
-            "part_title": "Part 39: The Fall Break Finale",
-            "file_path": "/aubrie/aubrie-narrative/b005/c004/p039.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: The Broken Foundation",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Pressure",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The System Crash",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Extrication",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Getting Jordan to the Hospital",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Emergency Room",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Nuclear Medicine Lab",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Agonizing Wait",
-            "file_path": "/aubrie/aubrie-narrative/b005/c005/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 6: The Longest Night",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Transfer",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Inpatient Room",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Fork in the Road",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Brother's Warning, A Family's Vow",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Cath Lab",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Failed Angioplasty",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Verdict",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Longest Wait",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The First Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The First Night",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Fifteen-Minute Torture",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The 6 AM Vitals Check",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: The Saturday Shift Change",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: The Longest Day",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: The Second Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: The Sunday Wait",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 17: The Call",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p017.md"
-          },
-          {
-            "part_num": 18,
-            "part_title": "Part 18: The \"Rubber Duck\" Rolls Out",
-            "file_path": "/aubrie/aubrie-narrative/b005/c006/p018.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 7,
-        "chap_title": "Chapter 7: The Roanoke Fortress",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Arrival at Star City",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Surgeon's Briefing",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Theatrical Cut",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Virtual Fortress",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Last Night",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Longest Night",
-            "file_path": "/aubrie/aubrie-narrative/b005/c007/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 8,
-        "chap_title": "Chapter 8: Waking Up",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The CPAP Crisis",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Coming Storm",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Early Arrival",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The First Flakes",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Parallel Sanctuaries",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Dinner for Two (Plus Seven)",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A CVICU Romance",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Psychological Battle",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Diuretic",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Vitals Check Torture",
-            "file_path": "/aubrie/aubrie-narrative/b005/c008/p010.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 9,
-        "chap_title": "Chapter 9: The Blizzard Fortress",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The 7 AM Stalemate",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Romantic Breakfast",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Longest Day",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Virtual Reunion",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Thaw",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Bed Scale",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Discharge Argument",
-            "file_path": "/aubrie/aubrie-narrative/b005/c009/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 10,
-        "chap_title": "Chapter 10: The Recovery",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Basement Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The System Crash",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Recovery Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Washing Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The New Sleep Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Recovery Rotation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A New Resolve",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The War Plan",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Fortress Returns",
-            "file_path": "/aubrie/aubrie-narrative/b005/c010/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 11,
-        "chap_title": "Chapter 11: A Thanksgiving of Victories",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The New Feast",
-            "file_path": "/aubrie/aubrie-narrative/b005/c011/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Black Friday Compromise",
-            "file_path": "/aubrie/aubrie-narrative/b005/c011/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Black Friday Road Trip",
-            "file_path": "/aubrie/aubrie-narrative/b005/c011/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Academic Counter-Attack",
-            "file_path": "/aubrie/aubrie-narrative/b005/c011/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Post Thanksgiving Weekend",
-            "file_path": "/aubrie/aubrie-narrative/b005/c011/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 12,
-        "chap_title": "Chapter 12: A New Caregiver, A New Routine",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The New Rotation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Morning Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Daytime Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Lunchtime Check-in",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Sister's Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Evening Prep",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Fortress Returns",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The New Caregiver",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Midnight Confession",
-            "file_path": "/aubrie/aubrie-narrative/b005/c012/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 13,
-        "chap_title": "Chapter 13: The New Normal",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The New Routine",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Morning Watch",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Work Buddies",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Week of a New Normal",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Proposal",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Project and the Pact",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Shower Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Elephant in the Room",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A New Dawn",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The First Outing",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Smokin' Anvil",
-            "file_path": "/aubrie/aubrie-narrative/b005/c013/p011.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 14,
-        "chap_title": "Chapter 14: The Comeback",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Big Day",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Return to Campus",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Arrival at Walton",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Presentation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The System Crash",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The New Safe Person",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Holiday Mixer",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The New Variable",
-            "file_path": "/aubrie/aubrie-narrative/b005/c014/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 15,
-        "chap_title": "Chapter 15: The Christmas Protocol",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Fortress Gains a Member",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Invitation",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Pact of Six",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Longest Night",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The New Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Final Permission",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Lesson",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The No Privacy Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A Health Firewall for Jordan",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The New Identity",
-            "file_path": "/aubrie/aubrie-narrative/b005/c015/p010.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 6,
-    "book_title": "Book: Spring 2016",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Announcement",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Electric Alert",
-            "file_path": "/aubrie/aubrie-narrative/b006/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The 10:00 AM Rush",
-            "file_path": "/aubrie/aubrie-narrative/b006/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Scalper Meltdown",
-            "file_path": "/aubrie/aubrie-narrative/b006/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Letter from Home",
-            "file_path": "/aubrie/aubrie-narrative/b006/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Box Office Confrontation",
-            "file_path": "/aubrie/aubrie-narrative/b006/c001/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Stardust Engine Concert",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Shuttle",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Forger Tailgate",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 2: Return to The Crucible",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 3: The Anvil Strike (The Opener)",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 4: The Anthem in the Dark",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 5: The Anthem Explodes",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 6: The Grand Finale",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 7: The Departure Loop",
-            "file_path": "/aubrie/aubrie-narrative/b006/c002/p008.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 7,
-    "book_title": "Book: Summer 2016",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Foundation",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Pact",
-            "file_path": "/aubrie/aubrie-narrative/b007/c001/p001.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Double Wedding",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Morning Of",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Final Touches",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Gathering",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Vows",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Legal Seal",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 7: The First Night",
-            "file_path": "/aubrie/aubrie-narrative/b007/c002/p006.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 8,
-    "book_title": "Book: Fall 2016",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Familiar Face",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Reunion in the Hallway",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Cosmic Coincidence",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: An Unexpected Free Block",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Fortress of Truth (Redux)",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Separation Crash",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Forge Hall",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Christiansburg Sanctuary",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Sofa Assumption",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Separation Trigger",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Invitation",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Rules of the Pile",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Final Straw",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: The Extraction",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: The New Social Script",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: The First Hug",
-            "file_path": "/aubrie/aubrie-narrative/b008/c001/p015.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: Homecoming 2016",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Midnight at The Foundry",
-            "file_path": "/aubrie/aubrie-narrative/b008/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Homecoming Concert",
-            "file_path": "/aubrie/aubrie-narrative/b008/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Basement Premiere",
-            "file_path": "/aubrie/aubrie-narrative/b008/c002/p003.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 9,
-    "book_title": "Book 3: Spring 2018",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 16: The Name on the Paper",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Regalia Check",
-            "file_path": "/aubrie/aubrie-narrative/b009/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Love Letter from Uncle Sam",
-            "file_path": "/aubrie/aubrie-narrative/b009/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Roll Call",
-            "file_path": "/aubrie/aubrie-narrative/b009/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Photo Finish",
-            "file_path": "/aubrie/aubrie-narrative/b009/c001/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 17: The Sunken Sanctuary",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Reveal",
-            "file_path": "/aubrie/aubrie-narrative/b009/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Architecture of Access",
-            "file_path": "/aubrie/aubrie-narrative/b009/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Slide",
-            "file_path": "/aubrie/aubrie-narrative/b009/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Puppy Pile 3.0",
-            "file_path": "/aubrie/aubrie-narrative/b009/c002/p004.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 10,
-    "book_title": "Book: Daisy",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 3: The Summer Solstice",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Diversion (June 19, 2020)",
-            "file_path": "/aubrie/aubrie-narrative/b010/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Parking Lot Vigil",
-            "file_path": "/aubrie/aubrie-narrative/b010/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Arrival (June 20, 2020)",
-            "file_path": "/aubrie/aubrie-narrative/b010/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Solstice Protocol",
-            "file_path": "/aubrie/aubrie-narrative/b010/c001/p004.md"
+            "part_title": "Part 5: The Gavel and The Handcuffs – 2:15 PM",
+            "file_path": "/aubrie/aubrie-narrative/b004/c001/p005.md"
           }
         ]
       }

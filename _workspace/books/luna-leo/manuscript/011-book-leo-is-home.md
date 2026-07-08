@@ -800,7 +800,61 @@ The four of them worked together, a happy, paint-spattered crew. Stella and Luna
 
 With every roll of the deep blue paint that covered the old, neutral beige, Leo felt a layer of the past being erased. He thought of Delores, of the feeling of being trapped in this very room during that awful weekend . But now, her memory was being painted over, buried under a color he and Olivia had chosen together. This wasn't just a renovation; it was a reclamation. For Leo, the contamination of Delores was being removed, one fresh coat of paint at a time. The room was already starting to feel like his—like *theirs*—again.
 
-### Part 5: The Fortress Assembles for the Night
+### Part 5: The Chemical Fire
+
+With the first coat of paint drying on the walls and the rollers soaking in the kitchen sink, the immediate priority shifted to getting clean. They were all speckled with navy blue and soft gray paint, and Leo was no exception.
+
+"Okay, paint crew," Stella announced, stretching her back. "Bath time. And Leo, we get to use that new medicated shampoo you picked out yesterday. We'll finally get that stubborn dandruff cleared up."
+
+They headed to the accessible bathroom. Because of the lingering humidity from the hot water, Leo left his new MagnaByte Scribe safely on the nightstand in the other room. He didn't need it for this; Stella and Luna had bathed him hundreds of times, and their system was flawless. Olivia, now officially part of that routine, took her place by the edge of the tub.
+
+Together, they lowered him into the warm water. At first, it was a continuation of the day's comfortable, healing rhythm. Olivia gently supported his back, her touch methodical and reassuring. Luna wet his hair, and Stella poured a generous dollop of the strong, medicated Black Friday shampoo into her hands, lathering it up before massaging it into Leo's scalp.
+
+Under the gentle friction, a large patch of the stubborn, waxy buildup finally loosened and washed away, revealing the angry, bright red skin that Delores's neglect had allowed to fester beneath.
+
+The harsh, exfoliating chemicals of the medicated shampoo rushed into the raw, exposed micro-abrasions.
+
+It felt like liquid fire.
+
+Leo’s entire body went rigid. The sudden, violent spasticity of his cerebral palsy shot through his limbs, sending a wave of bathwater sloshing over the edge of the tub onto the tile. A second later, a scream tore from his throat—a raw, formless, guttural cry of absolute terror and blinding agony that shattered the quiet sanctuary of the bathroom.
+
+He thrashed wildly, his wet shoulders slipping dangerously against the hard porcelain. He couldn't form the words to tell them his head was burning. He couldn't ask for the Scribe resting uselessly in the dry bedroom. All his AuDHD nervous system registered was that he had completely surrendered to his three safest people, and now they were setting his head on fire.
+
+He looked at them, his eyes wide and wild with a panic they hadn't seen since the airport. He flinched violently away from Stella's hands, a look of profound, terrified betrayal aimed directly at the women he loved most.
+
+"Leo! Hey, hey, I've got you!" Olivia gasped. The routine was instantly obliterated. She dropped the washcloth and grabbed his slippery, spasming shoulders, throwing her entire upper body weight over the edge of the tub to anchor him so he wouldn't crack his head or slip under the water.
+
+Luna panicked. Seeing the thick soap on his head, her immediate reflex was to rinse it off. She grabbed the plastic pitcher, scooped up the warm bathwater, and dumped it over his scalp.
+
+The moment the warm, soapy water hit the raw nerves, Leo shrieked louder, thrashing desperately against Olivia's hold.
+
+"No, no, the water's too warm, it's burning him!" Luna cried out, dropping the pitcher in horror as she realized her mistake.
+
+Stella, the veteran caregiver, rapidly bypassed the shock. Seeing the raw, red skin and his reaction to the warmth, her triage instincts instantly categorized the pain: a chemical burn. Bypassing the tub entirely, she snatched the detachable showerhead from its mount, cranked the faucet entirely to the cool setting, and brought it directly to his scalp.
+
+The moment the clean, cool water flushed over the raw skin, the chemical burning stopped. The sudden drop in temperature constricted the blood vessels, numbing the exposed nerve endings and shocking his overloaded nervous system out of its redlining panic loop.
+
+His screaming broke into jagged, breathless sobs. The rigid spasticity in his limbs began to melt into exhausted, violent shivering.
+
+With the immediate physical danger passed, the emotional devastation of the moment settled heavily over the small bathroom. Leo, panting and trembling, looked up through his wet hair.
+
+He didn't see coldness or annoyance. He saw Luna openly weeping, her hands covering her mouth because she thought she had hurt him. He saw Stella's hands shaking as she held the showerhead, her face pale with horror. He felt Olivia's heart pounding frantically against his back, her face buried in his wet shoulder as she held him tightly, murmuring desperate, continuous apologies in French and English.
+
+They were just as devastated by his pain as he was.
+
+In that silent, tear-filled exchange, the perceived betrayal evaporated. The trust snapped firmly back into place. He realized it wasn't an attack; it was an accident. Unable to speak, he offered the only physical gesture of forgiveness he could manage—he stopped pulling away and let his heavy, wet head lean back to rest directly against Olivia's collarbone, his shivering body relaxing completely into her protective hold.
+
+"I am so sorry, buddy," Stella whispered, her voice cracking as she turned off the water. "It wasn't dandruff. It's a severe skin infection from the neglect. We didn't know. We're so sorry."
+
+They wrapped him in three thick, fluffy towels, lifting him from the tub with infinite care. Once he was dried, dressed in his softest pajamas, and settled safely in his wheelchair, Luna immediately fetched his MagnaByte Scribe from the bedroom.
+
+His hands were still shaking slightly, but he managed to slowly tap out a message. The robotic voice cut through the lingering sniffles in the room:
+
+"HEAD WAS ON FIRE. BUT BETTER NOW WITH COLD WATER. I KNOW YOU DID NOT MEAN IT. STILL MY SAFE PEOPLE."
+
+Olivia knelt and rested her forehead against his knee, letting out a long, shuddering breath. The routine had shattered, but the fortress had held. They had survived another phantom of Delores's abuse, and as Stella made a mental note to call a dermatologist first thing Monday morning, they knew they would never let him be hurt like that again.
+
+### Part 6: The Fortress Assembles for the Night
 
 As evening approached, the first coat of paint was on the walls of both bedrooms. The deep blue and soft gray in Leo and Olivia's room, and the sage green in Luna's, had already dramatically transformed the spaces. But with the fresh paint came the strong, chemical smell of VOCs, making it clear that neither room would be habitable for the night.
 
@@ -814,7 +868,7 @@ The decision was easy. Just as they had done during the aftermath of Leo's rescu
 
 As they settled in for the night—Leo in the middle, safely flanked by Olivia on one side and Luna on the other, with Stella on the far side of Luna—a profound sense of peace settled over him. The earlier memory of the paint covering the last vestiges of Delores's presence, combined with the immediate, comforting warmth of his three protectors, was a powerful balm. Leo felt completely safe with all three of his most trusted women at his side. He was not just in a safe house; he was in a mobile sanctuary, a fortress of love that could assemble wherever he needed it. He drifted off to sleep almost instantly, surrounded by the quiet, steady breathing of his family.
 
-### Part 6: Kent?
+### Part 7: Kent?
 
 Sleep offers little respite. Sometime in the middle of the night, the gentle undulation of the waterbed beneath him begins to feel wrong, subtly shifting, becoming too stiff, unfamiliar. The comforting darkness around him seems to condense, the air growing thick and heavy. He feels a flicker of disorientation – is he still in Stella's room? No, the walls feel closer now, the air tasting stale, reminiscent of the oppressive Portsmouth apartment he shared with Delores. Panic begins its insidious crawl up his spine. Then the scene shifts again, the stale air replaced by a cloying floral perfume, unnaturally warm and stuffy. The walls press closer still – the narrow, confining space of the guest room in Kent. Carol Mahone's house. He’s back. Trapped. But it warps even further, reality twisting under some unseen, evil force. The simple bedroom walls ripple and solidify into damp, cold stone. The carpet vanishes beneath him, replaced by uneven, chilling flagstones that glisten wetly as water drips almost constantly from unseen sources. The ceiling presses down, visibly lowering, transforming into oppressive, dark rock studded with menacing spikes, like some kind of horrific trap room. It’s the same layout as the guest room, but rendered as a terrifyingly evil stone dungeon. Leo shrinks back, afraid of the dampness seeping from the walls, the cold radiating from the floor, the threat implicit in the spiked ceiling above. Alone. Exposed. Something evil is definitely at work here.
 
@@ -860,7 +914,7 @@ Stella, Luna, and Olivia read the messages, their faces paling with shared horro
 
 "And hey," Stella added softly, "after that crazy early start yesterday, there's absolutely no rush to get up in the morning, okay? We sleep in tomorrow. No alarms". Sharing the nightmare, voicing the specifics in the safety of their presence, seemed to lance the boil of fear, allowing the last vestiges of the terror to finally dissipate, leaving only exhaustion and the deep, unwavering security of being held by those who loved him most. They settled back down on the waterbed, the three women holding Leo close, hoping the remainder of the night would bring only peaceful, dreamless sleep.
 
-### Part 7: The Quiet Dawn
+### Part 8: The Quiet Dawn
 
 Sunday morning arrived not with the jarring ring of an alarm, but with the soft, gentle light of a new day filtering through the blinds of Stella's bedroom. True to her word, there were no alarms. There was only a profound, healing quiet.
 
@@ -882,7 +936,7 @@ Stella smiled, the first bright, genuine smile of the morning. "Okay, buddy," sh
 
 He nodded, a sense of real, uncomplicated normalcy beginning to return. The nightmare had been a storm, but the morning after was a quiet, gentle dawn, and his protectors had weathered it with him, guiding him safely back to shore.
 
-### Part 8: A Breakfast of Comfort
+### Part 9: A Breakfast of Comfort
 
 The quiet consensus to make pancakes was the signal that the day was truly beginning. They moved from the sanctuary of the bedroom to the warm, bright kitchen, the focus now on a new, restorative mission: breakfast.
 
@@ -898,7 +952,7 @@ The final, most specific request was the toast. Arthur carefully toasted two sli
 
 When the feast was assembled, Leo’s plate was a picture of comfort, made to his exact specifications. Surrounded by his entire fortress, he took a long sip of the rich, milky hot chocolate, a look of pure, uncomplicated contentment on his face. Every single item on his plate was a choice he had made, a preference that had been heard and honored without question. It was more than just a meal; it was an act of profound love, designed to make him feel as comfortable and cherished as possible, one perfect bite at a time.
 
-### Part 9: The Final Coat
+### Part 10: The Final Coat
 
 With breakfast cleared away and the comforting warmth of hot chocolate still lingering, a quiet, purposeful energy returned to the group. Stella looked at the two prepped bedrooms, where the first coat of paint had dried overnight.
 
@@ -912,7 +966,7 @@ For Leo, each stroke of the roller was a final, declarative statement. The secon
 
 When the last roller was set down in the early afternoon, they all stood back to admire their work. The transformation was complete. The rooms were still filled with the sharp scent of fresh paint and would need another night to air out, meaning one more cozy campout in Stella's room was in order. But the most important part of the job was done. The sanctuary had been rebuilt, stronger and more beautiful than before.
 
-### Part 10: Assembling the Case
+### Part 11: Assembling the Case
 
 Sunday afternoon, November 30th, 2003, was quiet. The walls in the two bedrooms were finished with a second coat of paint and would dry overnight, and the house was filled with a sense of peaceful accomplishment. But for Stella, the work was not done. With the immediate crisis over and Leo's physical space reclaimed, it was time to pivot to the legal battle. It was time to hold Delores accountable.
 

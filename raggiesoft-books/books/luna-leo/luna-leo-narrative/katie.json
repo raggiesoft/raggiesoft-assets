@@ -1314,33 +1314,38 @@
           },
           {
             "part_num": 5,
-            "part_title": "Part 5: The Fortress Assembles for the Night",
+            "part_title": "Part 5: The Chemical Fire",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p005.md"
           },
           {
             "part_num": 6,
-            "part_title": "Part 6: Kent?",
+            "part_title": "Part 6: The Fortress Assembles for the Night",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p006.md"
           },
           {
             "part_num": 7,
-            "part_title": "Part 7: The Quiet Dawn",
+            "part_title": "Part 7: Kent?",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p007.md"
           },
           {
             "part_num": 8,
-            "part_title": "Part 8: A Breakfast of Comfort",
+            "part_title": "Part 8: The Quiet Dawn",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p008.md"
           },
           {
             "part_num": 9,
-            "part_title": "Part 9: The Final Coat",
+            "part_title": "Part 9: A Breakfast of Comfort",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p009.md"
           },
           {
             "part_num": 10,
-            "part_title": "Part 10: Assembling the Case",
+            "part_title": "Part 10: The Final Coat",
             "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: Assembling the Case",
+            "file_path": "/luna-leo/luna-leo-narrative/b011/c003/p011.md"
           }
         ]
       },

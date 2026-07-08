@@ -1120,7 +1120,7 @@ She let out a sharp, frustrated breath, dropping the bread onto her plate. She l
 
 Dad was sitting at the head of the table, cutting his spaghetti, but he hadn't taken a bite in five minutes. He was just watching her, a permanent, awe-struck smile etched onto his face.
 
-"I need to call the clinic tomorrow," Mom murmured, almost to herself, though she was looking at Dad. Her brain was already shifting into logistics mode. "I need to get her an emergency appointment with her speech pathologist. They need to do a new evaluation. And Dr. Aris. We have to update her entire IEP for school before September. This changes... Tom, this changes everything."
+"I need to call the clinic tomorrow," Mom murmured, almost to herself, though she was looking at Dad. Her brain was already shifting into logistics mode. "I need to get her an emergency appointment with her speech pathologist. They need to do a new evaluation. And Dr. Young. We have to update her entire IEP for school before September. This changes... Tom, this changes everything."
 
 "Let her just eat dinner first, Ellen," Dad chuckled softly, reaching out to squeeze Mom's hand. "One miracle at a time."
 
@@ -2218,7 +2218,7 @@ Jessica’s eyes were wide, scanning us frantically for visible blood or broken 
 
 "Then what happened?" Jessica pressed, her jaw clenching. "Michael, tell me what happened."
 
-"It was Master Curtis," I whispered, the admission tasting like ash in my mouth.
+"It was Curtis," I whispered, the admission tasting like ash in my mouth.
 
 Janette gasped, her grip on my shoulder tightening protectively. "What did he do to you?"
 
@@ -2262,7 +2262,7 @@ I reached forward, and Jessica reached back, hooking her arms securely under my 
 
 We moved as a desperate, limping caravan. Janette carried Rachel tightly in her arms, and Jessica carried my dead weight on her back, hauling me down the steep metal staircase.
 
-When we reached the lobby, we didn't look left or right. We kept our heads down, rushing straight for the heavy glass exit doors, terrified that Master Curtis or Master Ray would step out of the office and see us.
+When we reached the lobby, we didn't look left or right. We kept our heads down, rushing straight for the heavy glass exit doors, terrified that Curtis or Ray would step out of the office and see us.
 
 We burst out into the muggy August night, practically running across the asphalt to where Mom’s sedan was parked under the streetlights.
 

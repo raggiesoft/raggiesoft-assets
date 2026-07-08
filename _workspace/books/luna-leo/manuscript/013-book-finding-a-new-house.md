@@ -1096,9 +1096,9 @@ She inspected it like a jeweler. She looked at the tone holes. She checked the s
 
 She looked up at Stella.
 
-"This is brand new," Sterling said. "You didn't buy this used from a professional. You bought this off the shelf."
+"This was brand new," Sterling said. "You didn't buy this used from a professional. You bought this off the shelf."
 
-"We bought it two months ago," Stella confirmed from the sofa. "Full retail. We don't do secondhand."
+"We bought it in cash," Stella confirmed from the sofa. "Full retail. We don't do secondhand."
 
 Sterling shook her head, a small smile playing on her lips. "Do you have any idea how rare that is? Most *professionals* take out loans for a 680. For a student to own one outright..."
 

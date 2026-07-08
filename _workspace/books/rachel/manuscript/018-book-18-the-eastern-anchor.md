@@ -578,7 +578,7 @@ We locked eyes with her.
 
 She reached out, resting one hand on my knee and the other on Rachel's.
 
-"When we step onto the puzzle mats, during the structured portion of the hour, I am Master April. I command the floor ," April promised, establishing the firm, predictable boundaries our brains needed. "But the absolute second I call Geuman and class is dismissed, that rigid hierarchy evaporates."
+"When we step onto the puzzle mats, during the structured portion of the hour, I am Master April. I command the floor," April promised, establishing the firm, predictable boundaries our brains needed. "But the absolute second I call Geuman and class is dismissed, that rigid hierarchy evaporates."
 
 April smiled, a brilliant, radiant expression that completely neutralized the intimidating federal ID sitting on the desk.
 
@@ -1644,7 +1644,11 @@ The last lingering trace of David Lawson's coercive control—the financial terr
 
 Ashley covered her face with her hands, letting out a choked, overwhelming sob of pure relief. She didn't have to go back to the RV. She didn't have to burden her parents. She had her own space, secured by her Pack, funded by a one-dollar miracle.
 
-Rachel and I immediately stepped in, wrapping our arms around her in our standard, high-compression pack hug right there in the middle of the empty living room.
+Rachel and I immediately stepped in, wrapping
+
+3
+
+3 our arms around her in our standard, high-compression pack hug right there in the middle of the empty living room.
 
 "Welcome home, Ash," I whispered.
 
