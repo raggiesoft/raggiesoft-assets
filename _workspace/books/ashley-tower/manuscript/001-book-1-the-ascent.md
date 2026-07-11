@@ -40,13 +40,13 @@ Everything was falling perfectly into place. He just had to make it through one 
 
 The narrow doorframe of the en-suite bathroom was just another architectural insult in a house built entirely for show.
 
-Donald gripped the armrests of his cheap, heavy manual wheelchair as Mary expertly angled the casters, pulling him backward over the slight lip of the doorway. The cramped, standard-issue bathroom offered virtually zero maneuverability. Every physical transition in this room required a grueling, highly coordinated dance between the two of them, compensating for the complete lack of accessibility hardware.
+Because his heavy manual wheelchair remained parked at the base of the sweeping staircase on the first floor, every movement upstairs required a grueling, highly coordinated physical transfer. Mary adjusted her grip around Donald’s waist, securely bearing his weight as she carried him from the edge of their shared mattress across the short distance of the bedroom. She expertly angled her shoulders to clear the cramped bathroom doorway, compensating for the complete lack of accessibility hardware.
 
-Mary locked the brakes on his chair. With practiced, effortless strength born from a decade of necessity, she wrapped her arms under his shoulders, securely bearing his weight as she helped him transfer.
+With practiced, effortless strength born from a decade of necessity, she carefully lowered him, ensuring he was safely situated on the porcelain before stepping back.
 
-Once he was safely situated, the routine shifted into its most critical phase. The intimate logistics of Donald's daily care were handled with a brisk, quiet dignity, entirely focused on his physical safety rather than the granular mechanics of the tasks.
+Once he was secure, the routine shifted into its most critical phase. The intimate logistics of Donald's daily care were handled with a brisk, quiet dignity, entirely focused on his physical safety rather than the granular mechanics of the tasks.
 
-Mary did not step out into the hallway to give him privacy. Instead, she sat down heavily on the edge of the porcelain bathtub, resting her elbows on her knees.
+Mary did not step out into the hallway to give him privacy. Instead, she sat down heavily on the edge of the bathtub, resting her elbows on her knees.
 
 She locked her eyes entirely on his face. She didn't blink, and she didn't look away.
 
@@ -64,7 +64,7 @@ The rush of the hot water felt incredible against Donald's rigid muscles, tempor
 
 Twenty minutes later, Donald was dressed in incredibly soft, loose-fitting cotton sleepwear that wouldn't agitate his sensory boundaries.
 
-Mary helped him transfer back onto the edge of their shared mattress, leaving his wheelchair parked near the dresser. She grabbed a towel, vigorously drying her own damp hair as she sat down next to him with a heavy, exhausted sigh.
+Mary scooped him into another secure carry, hauling him out of the steamy bathroom and gently setting him down onto the edge of their shared mattress. She grabbed a towel, vigorously drying her own damp hair as she sat down next to him with a heavy, exhausted sigh.
 
 Donald leaned his shoulder against hers, closing his eyes as the ambient noise of the house continued to vibrate through the floorboards.
 
@@ -176,11 +176,11 @@ Donald let out a long, shuddering breath, the tension leaving his shoulders. He 
 
 "Hey," Mary murmured into his hair, pulling back with a warm, relieved smile. "Let's get inside. It's freezing out here."
 
-She grabbed the worn rubber handles of his chair, thanked the driver, and pushed him up the driveway. The brutal, agonizing carry up the sweeping, curved staircase to their shared bedroom was a necessary evil, but once the bedroom door clicked shut behind them, the house's toxic atmosphere was entirely sealed out.
+She grabbed the worn rubber handles of his chair, thanked the driver, and pushed him up the driveway and through the front doors. Leaving the heavy manual chair parked securely at the base of the stairs, she braced herself. The brutal, agonizing carry up the sweeping, curved staircase to their shared bedroom was a necessary evil. Balancing his weight securely while keeping his school backpack slung over her shoulder was exhausting, but once the bedroom door clicked shut behind them, the house's toxic atmosphere was entirely sealed out.
 
-Mary transferred him onto the edge of their shared mattress, propping a couple of pillows behind his back. She pulled up her rolling desk chair, grabbed his spiral-bound notebooks from his backpack, and laid them out on the small bedside table.
+Mary settled him onto the edge of their shared mattress, propping a couple of pillows behind his back. She pulled up her rolling desk chair, unzipped his backpack, and laid his spiral-bound notebooks out on the small bedside table.
 
-"Alright, how was it?" Mary asked, pulling his sluggish, cracked tablet from the side pouch of his chair and handing it to him. "Survive the gauntlet?"
+"Alright, how was it?" Mary asked, pulling his sluggish, cracked tablet from the front pouch of his bag and handing it to him. "Survive the gauntlet?"
 
 Donald rested his stiff hands on the cracked glass. His fingers moved in slow, deliberate taps. He didn't just want to complain about the noise in the cafeteria; he needed to tell her about fifth period.
 
@@ -218,7 +218,7 @@ Mary pulled back, clearing her throat to dispel the heavy tension, and immediate
 
 Donald smiled, shifting his focus to the complex, 12th-grade math problems printed on the page. Because his spasticity made gripping a pencil and writing out long equations nearly impossible, Mary acted as his physical scribe. She never solved the problems for him; she simply held the pen, waiting for his brain to do the heavy lifting.
 
-"Okay, number four," Mary said, reading the prompt. "Integration by parts. We need to evaluate the integral of $`x\cos(x)`$."
+"Okay, number four," Mary said, reading the prompt. "Integration by parts. We need to evaluate the integral of $`\int_{}^{}x\cos(x)\, dx`$."
 
 Donald looked at the equation: $`\int_{}^{}x\cos(x)\, dx`$.
 
@@ -814,25 +814,29 @@ She didn't need to say the words out loud right now. The survival of the night w
 
 ### Part 2: The Barrier – 4:45 AM
 
-The brutal cold of the room was relentless, a physical weight pressing down on the heavy pile of blankets.
+The brutal cold of the room was relentless, a physical weight pressing down on the massive cocoon of thick blankets, heavy comforters, and pillows they had dragged onto the mattress.
 
 Sometime in the darkest hour of the morning, Donald began to slip again.
 
-Mary felt it before she heard it. The steady, exhausting rhythm of his shivering beneath her began to weaken, his chest hitching irregularly against hers. The freezing ambient air of the house was aggressively leeching the warmth from their makeshift cocoon faster than Mary's clothed body could replenish it. The thin fabric of her t-shirt and the thick cotton of his long-sleeve shirt were acting as a wall, trapping her body heat and preventing it from fully transferring into his freezing core.
+Mary felt it before she heard it. The steady, exhausting rhythm of his shivering beneath her began to weaken, his chest hitching irregularly against hers. The freezing ambient air of the house was aggressively leeching the warmth from their makeshift nest faster than Mary's clothed body could replenish it.
 
-Panic flared in her chest again, but this time, it was entirely focused. She wasn't going to lose him. Not today.
+Panic flared in her chest, raw and desperate. She pressed her hand flat against her own ribs, feeling the intense heat trapped beneath her thin t-shirt. Then she pressed her hand against Donald's chest—his thick cotton long-sleeve shirt felt like a wall of ice.
 
-"Donald," Mary whispered urgently, her voice hoarse in the freezing dark. She shifted slightly, her hands framing his freezing face to force him to stay awake. "Donald, listen to me. The clothes are blocking the heat. It's not working fast enough. I need to get my heat directly into your skin."
+*It's a barrier,* she thought, a wild, unproven idea suddenly forming in the dark. *The fabric is trapping my heat and keeping it from reaching his core.*
+
+She didn't know if it would actually work. It was a crazy, desperate guess born entirely out of terror, but she wasn't going to lose him. Not today.
+
+"Donald," Mary whispered urgently, her voice hoarse in the freezing dark. She shifted slightly, her hands framing his freezing face to force him to stay awake. "Donald, listen to me. I have a crazy idea. I don't know for sure if this will work, but we have to try."
 
 He let out a ragged, trembling exhale, his half-lidded eyes finding hers in the pitch black.
 
-"We need to take our shirts off," Mary explained, her heart hammering against her ribs. She was nineteen. He was eighteen. They were legally adults, and they were dying in a freezing house. The boundaries of the world before the power grid collapsed didn't matter anymore. "Skin-to-skin. It's the only way the heat will transfer. Okay?"
+"I think the clothes are acting like a wall," Mary explained, her heart hammering against her ribs. She was nineteen. He was eighteen. They were legally adults, and they were dying in a freezing house. The boundaries of the world before the power grid collapsed didn't matter anymore. "We need to take our shirts off. Skin-to-skin. If we remove the barrier, maybe the heat will transfer. Okay?"
 
 Donald’s rigid jaw trembled, but he forced a tight, deliberate nod against the mattress. A soft, affirming hum vibrated in his throat. *Yes.*
 
 "Okay," Mary breathed. "It's going to be really cold for just a second. I'm sorry."
 
-She moved with frantic efficiency. Keeping the heavy quilts draped over them like a tent to trap what little warm air remained, Mary pulled her t-shirt up and over her head, tossing it blindly into the freezing dark of the bedroom. The sub-zero air immediately bit into her bare shoulders, a shocking, agonizing sting.
+She moved with frantic efficiency. Keeping the heavy comforters and quilts draped over them like a tent to trap what little warm air remained, Mary pulled her t-shirt up and over her head, tossing it blindly into the freezing dark of the bedroom. The sub-zero air immediately bit into her bare shoulders, a shocking, agonizing sting.
 
 She reached down, her numb fingers fumbling with the hem of Donald's shirt. With his spasticity fighting her every movement, it was a struggle, but she managed to carefully pull the garment up his arms and over his head, leaving his chest completely bare to the freezing air.
 
@@ -840,7 +844,7 @@ Mary didn't hesitate. She dropped her weight back down, pressing her bare chest 
 
 The initial shock of his freezing skin against hers was agonizing—like lying on a slab of solid ice—and it tore a sharp gasp from her lungs. But she anchored herself, wrapping her bare arms securely around his back, pulling him as impossibly close as she could.
 
-Almost immediately, the physics of the survival tactic took over.
+Almost immediately, the physics of her desperate hypothesis took over.
 
 Without the barrier of the cotton shirts, Mary's core body heat flooded directly into him. The transfer was rapid and intense. Donald let out a sharp, shattered breath, his eyes widening in the dark as the burning heat of her skin hit his freezing chest.
 
@@ -850,7 +854,7 @@ He wasn't fading anymore. He was anchored to her.
 
 Mary buried her face into the crook of his bare neck, her own body shivering violently as she sacrificed her heat to keep him alive. She held onto him with a fierce, absolute devotion, the steady, rhythmic thumping of his heartbeat echoing directly against her own bare chest.
 
-They were going to make it to sunrise. She would hold him exactly like this until the ice broke.
+It had worked. They were going to make it to sunrise, and she would hold him exactly like this until the ice broke.
 
 ### Part 3: Morning Light – 7:15 AM
 
@@ -864,23 +868,49 @@ He felt the heavy, even pressure pressing him down into the mattress. Mary was s
 
 There was no cotton. No heavy fleece.
 
-He felt the direct, burning heat of her bare skin pressed entirely flush against his own chest. Donald's breath hitched. He shifted his head slightly on the pillow, his dark eyes adjusting to the dim light trapped under the blanket fort. He looked down, processing the absolute, undeniable reality of the situation. He was seeing her—truly seeing the bare slope of her shoulders and the unbroken press of her skin against his—for the very first time.
+He felt the direct, burning heat of her bare skin pressed entirely flush against his own chest. Donald's breath hitched. He shifted his head slightly on the pillow, his dark eyes adjusting to the dim light trapped under the blanket fort. He looked down, processing the absolute, undeniable reality of the situation. He was seeing her—truly seeing the bare slope of her shoulders, the soft curve of her exposed chest, and the unbroken, intimate press of her stomach flush against his—for the very first time.
 
 He was eighteen today. The realization hit his nervous system like a lightning strike, triggering a sudden, hyper-aware flush that had absolutely nothing to do with the hypothermia.
 
-Mary felt the sudden spike in his heart rate echoing directly against her own chest. She stirred, her eyelids fluttering open. She lifted her head, her sleepy gaze immediately meeting his wide, startled eyes. She saw exactly what he was looking at, and exactly what he was processing.
+But right on the heels of that awareness came a crushing, suffocating wave of conditioned shame. For years, his father's booming, arrogant voice had echoed through the McMansion, weaponizing morality to keep them in line. Richard had constantly shamed them for sharing a bedroom, completely ignoring the fact that he had never bothered to set up a functional, accessible room for Donald on the first floor. Richard had drilled it into their heads: *You are brother and sister. Siblings don't share a bed. Siblings don't touch.*
 
-Despite her absolute exhaustion, a soft, fond smile touched the corners of Mary’s lips. She didn't pull away. She didn't scramble to hide herself.
+Donald’s breathing grew ragged, his chest tightening in panic as the decade of gaslighting warred with the desperate reality of their survival.
+
+Mary felt the sudden, erratic spike in his heart rate echoing directly against her own chest. She stirred, her eyelids fluttering open. She lifted her head, her sleepy gaze immediately meeting his wide, terrified eyes. She saw exactly what he was looking at, and she felt the rigid, fearful tension locking his muscles.
+
+Despite her absolute exhaustion, a soft, fond smile touched the corners of Mary’s lips. She didn't pull away. She didn't scramble to hide herself or apologize for the proximity.
 
 "You were freezing," Mary whispered, her voice rough from sleep but entirely calm and unashamed. "The shirts were acting like insulators, Donald. They were trapping my body heat and keeping it from reaching your core. I had to get rid of the barrier so the heat could transfer directly into your skin. It was the only way."
 
-Donald stared at her for a long second, his chaotic thoughts slowly organizing around the pure, undeniable logic of her survival tactic. He forced a stiff, deliberate nod against the mattress, letting out a soft hum of understanding. But the awareness in his eyes didn't fade. He understood the mechanical necessity of it, but the profound intimacy of the moment remained entirely unchanged.
+Donald stared at her, forcing a stiff, deliberate nod against the mattress. He let out a soft hum of understanding, acknowledging the pure, undeniable physics of her survival tactic. But the fear in his eyes didn't fade. He squeezed his eyes shut, a soft, distressed whine vibrating in his throat as the internalized shame of breaking his father's ultimate rule threatened to overwhelm him.
 
-Before the weight of that realization could settle any deeper, his body reminded him of a much more immediate, unromantic problem. Donald let out a tight, urgent vocalization, shifting his hips slightly beneath her.
+Mary’s expression shifted, the sleepy warmth hardening into a fierce, absolute resolve. She knew exactly what was haunting him.
+
+She shifted her weight slightly, bringing her hand up to gently cup his face, her thumb brushing across his cheekbone to force him to open his eyes and look at her.
+
+"Listen to me, Donald," Mary said, her voice dropping into a quiet, unbreakable vow that cut right through the freezing dark. "I know what you're thinking. I know what he told us. But Richard lied."
+
+Donald’s eyes widened, his breath catching in his throat.
+
+"When I needed my birth certificate to get my driver's permit a few years ago, I went digging through Richard's office," Mary confessed, her gaze locked firmly onto his. "I found all the files. My mother and your father never got married. Nobody signed any adoption papers. You are not my legally adopted brother, and I am not your sister. We are completely, entirely unrelated."
+
+Donald froze, his mind reeling as the psychological walls his father had built violently shattered.
+
+"He gaslit us," Mary whispered fiercely, her thumb continuing its soothing rhythm against his cheek. "He used the word 'family' to make us feel ashamed of relying on each other. He wanted you to feel dirty for needing comfort, and he wanted me to feel like a freak for giving it to you. But he doesn't get to dictate the rules anymore. You're eighteen. I'm nineteen."
+
+She lowered her head, resting her forehead gently against his, refusing to break the intimate, skin-to-skin contact that was keeping them both alive.
+
+"I didn't stay by your side for ten years because I was legally obligated to," Mary promised, her voice thick with emotion. "I stayed because I chose you. I love you, Donald. I have always loved you, and I will always protect you. There is absolutely nothing wrong with this. I've got you."
+
+The profound weight of her confession washed over him, completely neutralizing the toxic shame his father had planted. The heavy, uniform pressure of her bare body pressing him down into the mattress wasn't a violation; it was an anchor. It was the physical manifestation of a decade of chosen, unyielding devotion.
+
+Donald let out a long, shuddering exhale, the rigid spasticity in his arms completely melting away. He lifted his stiff, uncoordinated hands, wrapping them weakly but definitively around her bare waist, pulling her flush against him. He let out a soft, bright hum of pure relief, accepting her warmth without a single ounce of fear.
+
+Before the weight of that beautiful realization could settle any deeper, his body reminded him of a much more immediate, unromantic problem. Donald let out a tight, urgent vocalization, shifting his hips slightly beneath her.
 
 Mary understood the signal instantly. The protective bubble of the blanket fort had to be broken.
 
-"Okay," Mary sighed, her breath pluming as the freezing air crept in from the edge of the quilt. "Let's make this fast."
+"Okay," Mary sighed, her breath pluming as the freezing air crept in from the edge of the quilt, the moment of profound intimacy giving way to urgent necessity. "Let's make this fast."
 
 She reached blindly into the freezing dark of the room, grabbing their discarded shirts from the mattress. The fabric was shockingly cold, but they managed to pull them quickly over their heads. The second Mary threw the blankets back, the sub-zero air of the bedroom hit them like a physical wall of ice.
 
@@ -979,6 +1009,90 @@ Morgan tapped her keyboard, pulling up the predictive thermal models. "The polar
 Morgan looked directly at Ashley. "Thursday morning. The second the sun comes up on Thursday, the ice will be soft enough for Emma's chains to bite the asphalt. That is when we breach."
 
 Ashley opened her eyes, staring at the dead phone on the table. They just had to survive one more night.
+
+### Part 5: The Shattered Script – 9:45 PM
+
+The absolute, suffocating silence of the freezing McMansion was broken by a deep, structural groan.
+
+Underneath the massive, heavy mountain of blankets, Mary and Donald lay perfectly still. The survival tactic was working. Stripped of the cotton barriers that had trapped her body heat, Mary’s bare chest remained pressed flush against his, acting as a human furnace. The profound, unbroken contact had stabilized his core temperature, his breathing slow and even against her neck. But as the ambient temperature outside finally crept just above the freezing mark, the house began to shift.
+
+A sharp, tearing sound echoed from the first floor. It was followed by the unmistakable, violent rush of pressurized municipal water.
+
+The ice plug in the ceiling pipes had finally melted. The saturated drywall of the massive, vaulted ceiling—unable to hold the rapidly accumulating weight of the water and soggy fiberglass insulation—gave way. A catastrophic, thunderous crash shook the floorboards as hundreds of gallons of freezing water violently collapsed directly onto Richard's pristine, expensive living room furniture.
+
+Donald gasped, his entire body jerking in the dark as his heart rate instantly spiked against Mary’s ribs.
+
+"Shh, I've got you," Mary whispered immediately, tightening her bare arms around his back to anchor his misfiring nervous system. "Stay still. Don't move."
+
+Seconds later, heavy boots began stomping furiously up the sweeping, curved staircase. For Mary, those stairs were a site of grueling, agonizing vulnerability, an obstacle she had to conquer every day just to move Donald safely. For Richard, they were a runway for his rage.
+
+The bedroom door handle rattled violently, followed by the heavy, meaty thud of Richard's fists pounding against the wood.
+
+"Get out of bed!" Richard roared through the door, his voice echoing with absolute, unhinged panic. "The ceiling just collapsed! Get down here and start hauling water out the front door before the hardwood is ruined!"
+
+From the pitch-black sanctuary of the mattress, Mary didn't flinch. She felt the rigid tension locking Donald's muscles, his terrified breath pluming in the freezing air creeping in from the edge of the quilt. She simply pressed her cheek against his hair, maintaining the life-saving thermal transfer.
+
+"I'm not opening the door," Mary called back, her voice startlingly calm against his screaming. "I have to keep Donald warm."
+
+"You selfish, ungrateful brat!" Saundra’s shrill voice joined in from the hallway, vibrating with hysteria. "Get out here right now!"
+
+"Open this door, or you are done!" Richard screamed, his fists hammering the wood so hard the doorframe shook. Stripped of his control and frantic over the destruction of his ultimate status symbol, he played the only card he thought he had left. He weaponized their survival. "If you don't come down here and help me save this house, the absolute second this ice melts, you and the cripple are out on the street! I will throw you both out with nothing! Do you hear me?!"
+
+He dropped the slur intentionally, discarding any lingering pretense of being a father. He expected the threat of starvation and homelessness to break her. He expected her to scramble out of bed, crying and begging for forgiveness, terrified of losing the only roof over her head.
+
+Under the heavy pile of blankets, a quiet, triumphant smile touched the corners of Mary’s lips.
+
+She knew about the Vanguard extraction team sitting in a heated luxury hotel just a few miles away. She knew that Donald was an equal partner in a multi-billion dollar corporate empire. Richard was furiously threatening them with the exact escape plan they were already waiting to execute.
+
+For a decade, Richard had gaslit them. He had forced her to address him as a father figure, using the fabricated boundaries of "family" to shame them and keep them small. But Mary knew the truth now. They weren't family. And she wasn't afraid of him anymore.
+
+Mary took a slow breath, her voice slicing cleanly through the freezing dark.
+
+"Okay, Richard. We'll leave."
+
+On the other side of the door, the heavy pounding instantly stopped.
+
+The silence that followed was thick, heavy, and absolute. Richard’s brain completely misfired. She hadn't begged. She hadn't cried. And for the very first time in ten years, she had used his first name.
+
+The script was broken. He had threatened her with the absolute worst-case scenario—starving on the freezing streets with a severely disabled teenager—and she had just calmly, willingly accepted it. Stripped of his leverage and his unearned title, Richard stood in the freezing hallway, completely disarmed by a nineteen-year-old girl.
+
+Muttering incoherently about the water downstairs, his heavy footsteps slowly retreated down the hallway, the sound of his total defeat echoing as he headed back to the ruined first floor.
+
+Under the blankets, Donald let out a soft, breathy laugh against Mary's neck, his rigid shoulders completely relaxing. The monster outside the door had lost his teeth, and tomorrow, they were walking out.
+
+### Interlude: The Current Loop – Tuesday, 11:30 PM
+
+The dead silence of the blacked-out apartment complex was broken only by the howling North Texas wind, but inside the locked two-car garage, the atmosphere was a warm, insulated sanctuary.
+
+Ethan leaned his head back against the plush faux-leather headrest of the Voltara Apex, watching his own breath dissolve instantly in the seventy-two-degree air of the cabin. The full EV had been set to "Sentry Cabin" mode for thirty-six hours, its massive underfloor battery pack quietly pushing consistent, electrical heat through the vents without emitting a single drop of toxic tailpipe exhaust. Outside the thick, double-paned glass of the sedan, the garage was a freezing, pitch-black void, but inside, the massive digital dashboard cast a soft, amber glow over the two brothers.
+
+In the adjacent parking stall, Connor’s Nexus Touring hybrid sat dark and ready, its fuel tank completely topped off before the lines failed, prepared to act as their secondary mobile generator if the Voltara's percentage dropped too low. They had bought the two competing platforms six months ago out of pure, competitive curiosity, constantly arguing over whether full electric or split-power hybrid intelligence was the superior engineering choice.
+
+Tonight, the debate was dead. The vehicles weren't a luxury; they were their only survival pods.
+
+Connor shifted in the passenger seat, pulling a heavy wool blanket tighter around his shoulders. He stared out the windshield at the dark garage wall, his expression tight with a heavy, unyielding guilt that had been compounding since the grid line violently severed on Monday night.
+
+"It feels exactly like the sheet tent, doesn't it?" Connor whispered, his voice cracking slightly in the quiet cabin.
+
+Ethan didn't answer immediately. He kept his eyes fixed on the center infotainment screen. The display was split: one half showed the vehicle's battery telemetry sitting at eighty-two percent, while the other half displayed a live, high-definition weather radar. Because the cellular towers had died, the car was pulling its data stream through the flat, portable **Aether-Link** satellite dish Ethan had quickly mounted to the roof of the garage before the storm hit.
+
+But even with the high-tech connection to the outside world, Ethan knew exactly what his brother meant. The soft, ambient light of the dashboard, the tightly insulated pocket of warmth, the low hum of the climate blower—it was a brutal, direct echo of the childhood blanket forts they used to build with Mary on rainy Saturday afternoons. They had spent their entire childhoods anchoring their little sister, physically holding onto her and shielding her from the monsters in the dark.
+
+And now, they were sitting in a hundred-thousand-dollar piece of advanced engineering while she froze.
+
+"She was right about the models," Ethan said, his knuckles turning white against the steering wheel as he stared at the brutal purple gradient on the satellite feed. "We mocked her when she told us the weather was turning dangerous. We let Richard drill his arrogant, image-obsessed garbage into our heads until we actually started parroting it. We watched him treat Donald like a burden, we participated in the isolation, and we just walked away to our own apartment because it was easier than fighting the old man."
+
+"If the power is out in our complex, the McMansion is a block of ice," Connor said, turning his head to look at his older brother, his eyes wide with a sudden, sharp panic. "Those vaulted ceilings, Ethan. The heat sinks straight out of the rooms. Richard didn't winterize a single pipe, and he sure as hell didn't buy Donald a decent blanket, let alone a coat."  
+
+Ethan reached out and tapped the glass of the center screen, expanding the National Weather Service forecast pulling from the Aether-Link connection.
+
+"Look at the projected thermal curve," Ethan stated, his tone dropping into a hard, unyielding register that mirrored the protective brother he used to be before Richard corrupted the household. "The local NWS feed shows the ambient temperature finally cresting above thirty-two degrees by Thursday morning."
+
+Ethan turned to look at Connor, his jaw set tight. "The absolute second that digital readout hits freezing and the surface ice starts to rot, we throw the heavy snow-chains on the Nexus and the Voltara. We are breaching that house."
+
+Connor nodded fiercely, the relief evident in his face. "We don't just check on them, Ethan. We load them up. Donald's manual chair folds flat—we can slide it into the cargo bay of the Nexus. We bring them right back here to our place. We have the vehicles to keep them warm, we have the dry rations, and we have space."  
+
+"We're going to fix this," Ethan promised, staring out into the dark garage, his heart aching with a desperate desire to reclaim the sibling bond they had thrown away. "We'll let them stay here for as long as they need to recover. No Richard. No Saundra. No toxic rules. We tell Donald we're sorry. We tell Mary we're her brothers again. We just have to wait for the ice to break."
 
 ## Chapter 9: The Breach – Thursday, February 18, 2021
 
