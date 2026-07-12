@@ -1,14 +1,6 @@
 #!/bin/bash
 
-echo "👱‍♀️ Samantha: Taking the podium. Legacy DOCX Shatter Protocol initialized!"
-
-FORCE_OVERRIDE=false
-for arg in "$@"; do
-    if [[ "$arg" == "--force" ]]; then
-        FORCE_OVERRIDE=true
-        echo "   ⚠️ [OVERRIDE] Force flag detected. Samantha will check timestamps!"
-    fi
-done
+echo "👱‍♀️ Samantha: Taking the podium. Passive DOCX Extraction Protocol initialized!"
 
 if [[ ! -d "books" ]]; then
     echo "   *Whistle blow!* I can't find the 'books' directory. Are we on the wrong practice field?"
@@ -52,20 +44,15 @@ for DIR in books/*/; do
     fi
 
     # -----------------------------------------
-    # PROCESS NARRATIVE (The Shatter)
+    # PROCESS NARRATIVE (Passive Mode)
     # -----------------------------------------
     if [[ -f "$NARRATIVE_DOCX" ]]; then
-        # SHIELD CHECK
+        # SHIELD CHECK: Is the manuscript already natively chunked?
         MD_COUNT=$(find "$MANUSCRIPT_DIR" -maxdepth 1 -name "[0-9][0-9][0-9]-*.md" 2>/dev/null | wc -l)
         
         if [[ -d "$MANUSCRIPT_DIR" ]] && [[ $MD_COUNT -gt 0 ]]; then
-            # If force is true AND the DOCX is newer than the manuscript folder
-            if [[ "$FORCE_OVERRIDE" == true ]] && [[ "$NARRATIVE_DOCX" -nt "$MANUSCRIPT_DIR" ]]; then
-                echo "   ⚠️ [OVERRIDE] Native Markdown exists, but DOCX is newer. Shattering!"
-            else
-                echo "   🛡️ [PROTECT] Native Markdown chunks found in '$MANUSCRIPT_DIR'. Skipping DOCX shatter."
-                continue
-            fi
+            echo "   🛡️ [PROTECT] Native Markdown chunks found in '$MANUSCRIPT_DIR'. Skipping DOCX shatter."
+            continue
         fi
         
         echo "   Found legacy DOCX narrative score for '$BASE'. Shattering into manuscript chunks..."

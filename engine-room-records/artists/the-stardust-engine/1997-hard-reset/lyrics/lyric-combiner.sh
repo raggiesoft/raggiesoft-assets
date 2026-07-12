@@ -1,0 +1,1 @@
+rm -f full_album.md && for file in *.md; do echo "Merging: $file"; echo -e "\n\n***\n### **$file**\n***\n" >> full_album.md; cat "$file" >> full_album.md; done && echo "Done! Output saved to full_album.md"

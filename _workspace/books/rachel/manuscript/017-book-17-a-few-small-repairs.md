@@ -581,7 +581,6 @@ The female body wasn't a weapon anymore. It was a sanctuary.
 We left the transit center behind, making the short walk up to Northeast 8th Street together.
 
 ### Part 3: The Financial Severance – 8:55 AM (PST)
-
 We left the Bellevue Transit Center behind, walking quickly through the freezing rain up to Northeast 8th Street.
 
 Kristin didn't let go of my arm the entire walk. The adrenaline from the near-miss with Delores was still heavily spiking in my system, making my hands shake. But Kristin’s steady, unbothered presence kept my processor from slipping into a full-blown shutdown. We reached the glass doors of First Continental Bank at exactly five minutes to nine.
@@ -594,7 +593,7 @@ At 9:00 AM sharp, the security guard unlocked the heavy glass doors. We walked s
 
 "Good morning," the bank employee smiled politely. "How can I help you today?"
 
-I took a deep, shuddering breath, pulling my Virginia Drivers License from my wallet and sliding it under the glass partition.
+I took a deep, shuddering breath, pulling my Virginia Driver's License from my wallet and sliding it under the glass partition.
 
 "I need to close a joint checking account," I said, my voice tight but resolute. "The account I have is with my ex, and my two sisters want me to close it before something bad happens."
 
@@ -602,23 +601,35 @@ The teller’s polite smile faltered for a fraction of a second, her customer-se
 
 "I am Kristin, his younger sister’s best friend," Kristin chimed in smoothly, projecting absolute, unwavering support. "I am keeping him company for his rough time."
 
-"Of course," the teller nodded sympathetically, her fingers flying across her keyboard. "Let me pull that up for you, Michael. Since you are a primary account holder, you have the full right to close this out and withdraw the remaining balance today."
+"Of course," the teller nodded sympathetically, her fingers flying across her keyboard. "Let me pull that up for you, Michael. Since you are a primary account holder, you have the full right to close this out today."
 
 I stood there, my heart pounding against my ribs, waiting for a system error or a sudden block. For two years, Delores had controlled every single penny of this money. She monitored the ledger, dictated what I could buy, and used financial terror to keep me trapped.
 
-"Alright, you are all closed out," the teller announced, placing a receipt and a small stack of cash on the counter. "The remaining balance was exactly two hundred ninety-four dollars and eighty-seven cents."
+The teller clicked her mouse a final time. "Alright, you are all closed out. The remaining balance was exactly two hundred ninety-four dollars and eighty-seven cents. How would you like to receive the funds?"
 
-I picked up the uneven stack of bills and the loose change. It wasn't thousands of dollars. It was barely enough to cover a week's worth of groceries. But as I stared at the \$294.87 resting in my palm, it felt like the heaviest, most valuable currency on the planet. It was mine.
+I stared through the glass partition. It wasn't my money. It was her government-issued SSI. It was quite literally blood money that she used to fund her squalor while simultaneously holding it over my head. Taking it would give her a legitimate grievance and permanently entangle me in a messy, legal gray area.
 
-"Thank you," I breathed, sliding the cash into my front pocket.
+"I don't want it," I stated, my voice suddenly finding a solid, unshakeable foundation. "I just needed to sever my name from the liability so she couldn't overdraft it and ruin my credit."
+
+The teller blinked, slightly surprised. "Are you sure? You are legally entitled to withdraw it."
+
+"I am absolutely sure," I insisted, the math balancing perfectly in my head. "Can you please issue an official bank check for the exact remaining balance, make it payable exclusively to Delores Mahone, and mail it directly to her address on file in Portsmouth, Virginia?"
+
+"I can certainly do that for you," the teller nodded, quickly typing the command into her terminal.
+
+A few seconds later, the heavy dot-matrix printer behind the counter whirred to life, generating the official bank check and the mailing envelope. I watched the teller seal it.
+
+"It will go out with today's outbound mail," the teller promised, sliding a closure receipt across the counter.
+
+I took the receipt. I was walking out of the bank with exactly $0.00 in my pockets, but as I turned away from the teller window, I felt infinitely lighter. I had officially amputated the liability without touching a single cent of her toxic money. I was completely, undeniably clean.
 
 We walked out of the bank and back into the rain. Kristin immediately checked her surroundings, her Sentinel radar highly active.
 
-"We need to get straight to the Overlake Transit Center," Kristin said, her tone shifting to strict logistics. She kept a protective hand near my arm. "I am very uncomfortable with that cash in your pocket out here in the open."
+"We need to get straight to the Overlake Transit Center," Kristin said, her tone shifting to strict logistics. She kept a protective hand near my arm.
 
 We crossed the street to the nearest local bus stop just as a TAPS 230 pulled up, its teal green and yellow King County stripes cutting through the grey morning. We climbed aboard, fed our fares into the box, and took seats near the middle doors.
 
-Kristin immediately pulled out her new phone, her thumbs flying across the keypad. *Account closed. We have the cash. On the 230 heading to Overlake now.* The bus rumbled east along NE 8th Street, crossing the massive overpass above Interstate 405. Kristin nudged my arm, pointing out the window through the rain.
+Kristin immediately pulled out her new phone, her thumbs flying across the keypad. Account closed. Mailed her the balance. On the 230 heading to Overlake now. The bus rumbled east along NE 8th Street, crossing the massive overpass above Interstate 405. Kristin nudged my arm, pointing out the window through the rain.
 
 "Look," she said, gesturing toward a quiet, tree-lined residential street fading in the distance. "That is the house Jessica is considering buying. I really hope she’s able to get it."
 
@@ -628,10 +639,9 @@ It wasn't a long ride into Redmond. The bus pulled into the sprawling, impeccabl
 
 Jessica was already standing under the awning, wearing her corporate badge lanyard and a sharp blazer, waiting for us.
 
-"Let’s open the account first," Jessica said, her eyes flashing with pride as she noted the sheer relief radiating from my posture. "Then I will take you two to lunch."
+"Let’s open the new account first," Jessica said, her eyes flashing with pride as she noted the sheer relief radiating from my posture. "Then I will take you two to lunch."
 
 ### Part 4: The Corporate Armor – 9:45 AM (PST)
-
 Jessica didn't have to navigate a maze of city streets to find a bank. The Quantum campus was practically its own sovereign city, fully equipped to handle every logistical need of its tens of thousands of employees.
 
 She led us through the automatic glass doors of the adjacent building. The lobby was warm, modern, and buzzing with tech professionals. Nestled right in the center of the atrium was the Quantum Employees Federal Credit Union (QEFCU).
@@ -648,11 +658,13 @@ She led us through the automatic glass doors of the adjacent building. The lobby
 
 Nigel was immediately ready for us. I took the heavy, padded chair across from him, but I absolutely refused to do this alone. I looked back at Jessica and Kristin, gesturing for them to join me. Kristin pulled up a chair to my right, and Jessica wheeled into position on my left. I was perfectly flanked.
 
-I reached into my pocket, placing the uneven stack of bills and loose change totaling \$294.87 onto the desk. I felt a momentary flush of embarrassment at the small pile of cash, but Nigel didn't bat an eye.
+"Perfect," Nigel said warmly. "Michael, because we are a credit union, you aren't just a customer here. You are a member, which means you're technically a part-owner. To establish your membership, federal regulations require us to open a Share Savings account. The minimum opening deposit is just five dollars to hold your share."
 
-"Perfect," Nigel said warmly. "Michael, because we are a credit union, you aren't just a customer here. You are a member, which means you're technically a part-owner. To establish your membership, federal regulations require us to open a Share Savings account. The minimum deposit is only five dollars. The rest—two hundred eighty-nine dollars and eighty-seven cents—will go directly into your free checking account."
+I froze. I had just instructed First Continental to mail away the entire remaining balance of the joint account. I didn't have five dollars to my name. I only had transit quarters.
 
-I blinked. Delores had constantly used my lack of funds as a weapon, convincing me traditional banks would laugh at me. But here, my meager escape funds were treated like legitimate capital.
+Before my processor could trigger a panic spiral, Jessica casually reached into her blazer pocket. She pulled out a crisp five-dollar bill and slid it across the mahogany desk.
+
+"I will sponsor his initial share," Jessica told Nigel effortlessly, completely absorbing the friction.
 
 "Okay," Nigel continued, tapping his pen. "I just need your photo ID."
 
@@ -660,7 +672,7 @@ I pulled out my Virginia Driver's License and slid it across the desk. Nigel loo
 
 "Alright, we have a slight logistical hurdle," Nigel explained apologetically. "Post-9/11 Patriot Act laws require me to have a verified, current physical residential address on file. This license lists an apartment on Greenway Court in Norfolk, Virginia."
 
-I froze. My pulse spiked. I couldn't use Delores's address in Portsmouth, and I didn't have a lease in Washington. I was a ghost.
+I froze again. My pulse spiked. I couldn't use Delores's address in Portsmouth, and I didn't have a lease in Washington. I was a ghost.
 
 Jessica immediately stepped in, neutralizing the threat.
 
@@ -706,7 +718,7 @@ Jessica didn't miss a beat. She reached into her messenger bag and pulled out he
 
 "The account becomes an empty shell," Jessica confirmed. "The funds are pushed completely behind our firewalls. If you ever end up back in Virginia, you can walk into a branch and kill the shell. If not, we mail a notarized form later. But the money moves today."
 
-I typed in my credentials, authenticated the session, and initiated the outbound transfer. As I clicked 'Confirm,' the available balance on the East Coast officially plummeted to \$0.00.
+I typed in my credentials, authenticated the session, and initiated the outbound transfer. As I clicked 'Confirm,' the available balance on the East Coast officially plummeted to $0.00.
 
 "Let's pull the funds," I agreed, sliding the debit card back into my wallet with a profound wave of relief.
 
@@ -720,13 +732,15 @@ My jaw dropped. "Jess—"
 
 The entire desk went dead silent.
 
-My head literally felt like it was going to explode. My processor catastrophically stalled. *Fifty thousand dollars.* Plus the six thousand she just dropped into my credit union accounts.
+My head literally felt like it was going to explode. My processor catastrophically stalled. Fifty thousand dollars. Plus the six thousand she just dropped into my credit union accounts.
 
-I sat frozen, staring at the twenty-six-year-old woman sitting in the wheelchair next to me. The sheer, incomprehensible magnitude of what she had done for me over the last week suddenly crashed over my brain in a tidal wave. She had bought me a ten-pound, top-of-the-line digital sanctuary laptop. She had absorbed me into her apartment. She had paid for us to travel to Portland to sit in the front row for Monday Night WAR. And this Sunday, we were sitting in front-row Ringsider seats for the *No Quarter* Pay-Per-View at The Emerald Coliseum in Seattle—tickets she had bought months ago at an astronomical premium.
+I was sitting in this chair entirely penniless just a few minutes ago. I had completely forfeited the joint account funds to maintain my moral high ground, walking away with nothing but the clothes on my back.
+
+I sat frozen, staring at the twenty-six-year-old woman sitting in the wheelchair next to me. The sheer, incomprehensible magnitude of what she had done for me over the last week suddenly crashed over my brain in a tidal wave. She had bought me a ten-pound, top-of-the-line digital sanctuary laptop. She had absorbed me into her apartment. She had paid for us to travel to Portland to sit in the front row for Monday Night WAR. And this Sunday, we were sitting in front-row Ringsider seats for the No Quarter Pay-Per-View at The Emerald Coliseum in Seattle—tickets she had bought months ago at an astronomical premium.
 
 How did a twenty-six-year-old have this much financial firepower?
 
-The realization hit me with the force of a physical blow: *She didn't just survive while I was trapped on the East Coast. She conquered. She built a corporate empire, and her absolute first instinct was to use every single ounce of her wealth to buy my freedom.*
+The realization hit me with the force of a physical blow: She didn't just survive while I was trapped on the East Coast. She conquered. She built a corporate empire, and her absolute first instinct was to use every single ounce of her wealth to buy my freedom.
 
 "Jess, no," I stammered, my hands flying up, completely overwhelmed by trauma-logic. "No. Absolutely not. I can't pay you back. I can't take that. It's too much—"
 
@@ -764,7 +778,7 @@ I wiped my eyes, watching her screen transition to the highly secure, internal Q
 
 Nigel obliged, reading the digits off his screen. Jessica typed them directly into her split-deposit allocation slot, permanently overwriting the dead East Coast routing in the Quantum system.
 
-But as she tabbed over to the dollar amount field, she highlighted the old \$1,000 figure. She hit backspace, completely deleting it, and typed in \$2,000.
+But as she tabbed over to the dollar amount field, she highlighted the old $1,000 figure. She hit backspace, completely deleting it, and typed in $2,000.
 
 My processor hitched again. "Jess, you just doubled it."
 
@@ -776,7 +790,7 @@ She turned her chair to face me, her expression a mix of fierce pride and unyiel
 
 She reached out, resting her hand lightly on my arm.
 
-"But you are free of her now. You are protected by this pack, and your perimeter is sealed. You need capital to build your digital infrastructure, fund *The Stardust Engine*, and actually live your life. The financial restrictions are officially lifted."
+"But you are free of her now. You are protected by this pack, and your perimeter is sealed. You need capital to build your digital infrastructure, fund The Stardust Engine, and actually live your life. The financial restrictions are officially lifted."
 
 I let out a shaky, amazed laugh, my chest feeling lighter than air.
 
@@ -978,9 +992,9 @@ I sat on the small sofa in the corner of her office, Kristin sitting close by my
 
 My stomach instantly dropped. My processor spiked with terror.
 
-My inbox was a warzone. There were thirty-four new emails, all from Delores, sent in rapid succession starting right around 9:05 AM—the exact moment the First Continental teller had handed me my \$294.87.
+My inbox was a warzone. There were thirty-four new emails, all from Delores, sent in rapid succession starting right around 9:05 AM—the exact moment the First Continental teller finalized the paperwork.
 
-*WHERE IS THE MONEY? MICHAEL ANSWER ME RIGHT NOW.* *YOU ARE A THIEF. YOU STOLE MY MONEY. CALL ME IMMEDIATELY OR I AM CALLING THE POLICE. HOW DARE YOU DO THIS TO ME. YOU OWE ME.*
+_WHERE IS THE MONEY? MICHAEL ANSWER ME RIGHT NOW. THE ATM ATE MY CARD. YOU CLOSED THE ACCOUNT. YOU THIEF. YOU STOLE MY MONEY. CALL ME IMMEDIATELY OR I AM CALLING THE POLICE. HOW DARE YOU DO THIS TO ME. YOU OWE ME._
 
 My hands started shaking. Even thousands of miles away, the digital screaming made my chest tight. For two years, an email like this meant I was about to be screamed at for hours, starved, or punished.
 
@@ -990,15 +1004,15 @@ Jessica saw my posture rigidify. She stopped typing, wheeled out from behind her
 
 "Jess, she said she's calling the police," I stammered, my heart hammering against my ribs. "She thinks I stole it."
 
-"Michael, look at me," Jessica commanded softly. I forced my eyes away from the screen. "You were the primary account holder. You withdrew the exact balance. It is a civil matter, not a criminal one. The police will laugh at her. She has absolutely zero power here."
+"Michael, look at me," Jessica commanded softly. I forced my eyes away from the screen, meeting her steady gaze. "You didn't take a dime. You instructed First Continental to cut her a check. It is currently sitting in a US Postal Service truck on its way to Portsmouth. She is screaming at you because she has absolutely no idea how standard banking procedures work."
 
 Jessica reached out and tapped the touchpad on the laptop.
 
-"Select all," Jessica instructed. "Do not reply. Do not explain yourself. Do not give her a target. Move them to a separate folder so you have a digital record of her harassment, but let her scream into the void. You are behind Quantum firewalls now. She cannot touch you."
+"Select all," Jessica instructed. "Do not reply. Do not explain yourself. Do not give her a target. Move them to a separate folder so you have a digital record of her harassment, but let her scream into the void. You are completely clean, and you are behind Quantum firewalls now. She cannot touch you."
 
 I took a shaky breath, letting the logic override the trauma response. I clicked the checkbox, selecting all thirty-four unhinged messages, and dragged them into an archive folder. My inbox was instantly clean.
 
-The threat was neutralized. Delores was just an angry ghost trapped inside a computer screen.
+The threat was neutralized. Delores was just an angry ghost trapped inside a computer screen, screaming about stolen money that was literally coming to her in the mail.
 
 I closed the lid of the sandboxed laptop, letting out a long, shuddering exhale. I leaned my head back against the wall, and for the first time since walking into the corner suite, my processor finally had the bandwidth to actually look at my surroundings.
 

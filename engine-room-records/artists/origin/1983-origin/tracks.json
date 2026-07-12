@@ -1,0 +1,121 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-the-hollow-square",
+      "title": "The Hollow Square",
+      "isrc": "",
+      "masterWavPath": "studio/the-hollow-square",
+      "disc": 1,
+      "discName": "",
+      "track": 1,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-02-a-prophecy-unfolds",
+      "title": "A Prophecy Unfolds",
+      "isrc": "",
+      "masterWavPath": "studio/a-prophecy-unfolds",
+      "disc": 1,
+      "discName": "",
+      "track": 2,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-03-strangers-in-the-stream",
+      "title": "Strangers in the Stream",
+      "isrc": "",
+      "masterWavPath": "studio/strangers-in-the-stream",
+      "disc": 1,
+      "discName": "",
+      "track": 3,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-04-the-masquerade",
+      "title": "The Masquerade",
+      "isrc": "",
+      "masterWavPath": "studio/the-masquerade",
+      "disc": 1,
+      "discName": "",
+      "track": 4,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-05-fractured-prisms",
+      "title": "Fractured Prisms",
+      "isrc": "",
+      "masterWavPath": "studio/fractured-prisms",
+      "disc": 1,
+      "discName": "",
+      "track": 5,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-06-beyond-compare",
+      "title": "Beyond Compare",
+      "isrc": "",
+      "masterWavPath": "studio/beyond-compare",
+      "disc": 1,
+      "discName": "",
+      "track": 6,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-07-the-fading-spark",
+      "title": "The Fading Spark",
+      "isrc": "",
+      "masterWavPath": "studio/the-fading-spark",
+      "disc": 1,
+      "discName": "",
+      "track": 7,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    },
+    {
+      "fileName": "1-08-kaleidoscope-sun",
+      "title": "Kaleidoscope Sun",
+      "isrc": "",
+      "masterWavPath": "studio/kaleidoscope-sun",
+      "disc": 1,
+      "discName": "",
+      "track": 8,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "Fan Anthem",
+      "loreNote": "Released on Origin's self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: 'We hear you, and we're getting you out now.'"
+    },
+    {
+      "fileName": "1-09-the-silent-storm",
+      "title": "The Silent Storm",
+      "isrc": "",
+      "masterWavPath": "studio/the-silent-storm",
+      "disc": 1,
+      "discName": "",
+      "track": 9,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": ""
+    }
+  ]
+}

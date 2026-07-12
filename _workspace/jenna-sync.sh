@@ -1,14 +1,17 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v7.0 - Semantic Versioning Edition) ---
+# --- JENNA: THE DEVELOPMENT LIAISON (v7.1 - Multi-Repo Routing Edition) ---
 # Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
-# 1. ESTABLISH PATHS
+# 1. ESTABLISH PATHS (Dynamically resolved across OS)
 WORKSPACE_DIR=$(cd "$(dirname "$0")" && pwd)
 ASSETS_ROOT=$(cd "$WORKSPACE_DIR/.." && pwd)
-HUB_ROOT=$(cd "$ASSETS_ROOT/../raggiesoft-hub" && pwd)
-CMS_ROOT=$(cd "$ASSETS_ROOT/../stardust-engine-cms" && pwd)
+SERVER_ROOT=$(cd "$ASSETS_ROOT/.." && pwd)
+
+HUB_ROOT="$SERVER_ROOT/raggiesoft-hub"
+CMS_ROOT="$SERVER_ROOT/stardust-engine-cms"
+NARRATIVES_ROOT="$SERVER_ROOT/raggiesoft-narratives"
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -272,12 +275,24 @@ function do_pull() {
     
     echo "   3. Checking the Stardust Engine CMS..."
     if [ -d "$CMS_ROOT" ]; then cd "$CMS_ROOT" && git pull origin main; fi
+
+    echo "   4. Checking the Narratives..."
+    if [ ! -d "$NARRATIVES_ROOT" ]; then
+        echo "      > Repository missing. Cloning CC BY-SA 4.0 Narratives from GitHub..."
+        cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-narratives.git
+    else
+        cd "$NARRATIVES_ROOT" && git pull origin main
+    fi
     
-    echo "   4. Hauling the heavy boxes (DigitalOcean Spaces)..."
+    echo "   5. Hauling the heavy boxes (DigitalOcean Spaces)..."
     "$RCLONE_BIN" sync do-spaces:assets.raggiesoft.com "$ASSETS_ROOT" \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
         --exclude "/.git/**" \
+        --exclude ".DS_Store" \
+        --exclude "desktop.ini" \
+        --exclude "Thumbs.db" \
+        --exclude "._*" \
         $RCLONE_PERF_FLAGS
         
     echo "👱‍♀️ JENNA: All done! Your local files are perfectly synced."
@@ -308,6 +323,13 @@ function do_push() {
             cd "$CMS_ROOT"
             if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
                 echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the CMS repository."
+                exit 1
+            fi
+        fi
+        if [ -d "$NARRATIVES_ROOT" ]; then
+            cd "$NARRATIVES_ROOT"
+            if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
+                echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the Narratives repository."
                 exit 1
             fi
         fi
@@ -380,6 +402,32 @@ function do_push() {
         fi
     fi
     
+    # 4.6 NARRATIVES PUSH
+    echo "   -> Packaging the Narratives..."
+    if [ -d "$NARRATIVES_ROOT" ]; then
+        cd "$NARRATIVES_ROOT"
+        git add .
+        
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push origin main
+             echo "      ✓ Narratives committed and sent to GitHub."
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending Narratives commits. Pushing now..."
+             git push origin main
+             echo "      ✓ Pending Narratives code sent to GitHub."
+        else
+             echo "      (Narratives are clean and up to date.)"
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Narratives with tag: $TAG_NAME..."
+            git tag -a "$TAG_NAME" -m "Release $TAG_NAME"
+            git push origin "$TAG_NAME"
+            echo "      ✓ Narratives Tag sent to GitHub."
+        fi
+    fi
+
     # 5. ASSETS PUSH
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
@@ -408,6 +456,10 @@ function do_push() {
         --exclude "/_workspace/**" \
         --exclude "/.git/**" \
         --exclude ".gitignore" \
+        --exclude ".DS_Store" \
+        --exclude "desktop.ini" \
+        --exclude "Thumbs.db" \
+        --exclude "._*" \
         $RCLONE_PERF_FLAGS
         
     echo "👱‍♀️ JENNA: Success! Sarah will pick this up shortly."
