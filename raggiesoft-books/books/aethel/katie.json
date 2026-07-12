@@ -1,0 +1,260 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Era 1: The Age of Myth",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Book I: The Silver Sun",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Architect's Lesson",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Age of Twilight",
+            "file_path": "b001/c001/p002.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Era 2: The Age of Silence",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Book I: The Silver Gauntlet of Aethel",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Sundering of Sunstead",
+            "file_path": "b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Silence of the Hearth",
+            "file_path": "b002/c001/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Book II: The Shadow's Heart",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Hunted and the Caged",
+            "file_path": "b002/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Tyrant's Throne",
+            "file_path": "b002/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The Last Temptation",
+            "file_path": "b002/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The Bridge of a Thousand Truths",
+            "file_path": "b002/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Book III: The Dawn of the Twins",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Siege of the Shadowspire",
+            "file_path": "b002/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Heart of the Gloom",
+            "file_path": "b002/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The Long Road Home",
+            "file_path": "b002/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The Scouring of Sunstead",
+            "file_path": "b002/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Chapter 5: The Aftermath",
+            "file_path": "b002/c003/p005.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Era 3: The Age of Tides",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Book I: The Glass Sea",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Tide and the Torch",
+            "file_path": "b003/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Heart of the World",
+            "file_path": "b003/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The Weave of the Water",
+            "file_path": "b003/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The Gyre",
+            "file_path": "b003/c001/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Book II: The Star-Eater",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Silent Sector",
+            "file_path": "b003/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Ribcage of the Gods",
+            "file_path": "b003/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The War for the Mind",
+            "file_path": "b003/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The Long Way Down",
+            "file_path": "b003/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Chapter 5: The Cottage",
+            "file_path": "b003/c002/p005.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 4,
+    "book_title": "Era 4: The Iron Heart",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Book I: The Magnetic North",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Art of Doing Nothing",
+            "file_path": "b004/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Alarm Clock",
+            "file_path": "b004/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The Magnetic Highway",
+            "file_path": "b004/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The Clockwork Ocean",
+            "file_path": "b004/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Chapter 4: The Return Journey",
+            "file_path": "b004/c001/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Book II: The Pilgrimage",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Chapter 1: The Privacy of Stone",
+            "file_path": "b004/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 2: The Smoke and the Fire",
+            "file_path": "b004/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 3: The Council of Neighbors",
+            "file_path": "b004/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Chapter 4: The King at the Gate",
+            "file_path": "b004/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Chapter 5: The Demon and the Witch",
+            "file_path": "b004/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Chapter 6: The Starlight Check-In",
+            "file_path": "b004/c002/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Book III: The Zero Point",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Prologue: The Silence Between Stars",
+            "file_path": "b004/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Chapter 1: The Shadow at Noon",
+            "file_path": "b004/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Chapter 2: The Needle and the Shroud",
+            "file_path": "b004/c003/p003.md"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 1: The Dream Kingdom",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Analog Jammer – Friday, October 30, 1992",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Pixel Dust and Purple Light – 11:42 PM",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Inspection – 11:45 PM",
+            "file_path": "b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Prison of the Mind – 11:55 PM",
+            "file_path": "b001/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Ghost in the Dark – Saturday, October 31, 1992",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Weight of Survival – 12:03 AM",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Relics of Home – 12:15 AM",
+            "file_path": "b001/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Denim Problem – 12:20 AM",
+            "file_path": "b001/c002/p003.md"
+          }
+        ]
+      }
+    ]
+  }
+]

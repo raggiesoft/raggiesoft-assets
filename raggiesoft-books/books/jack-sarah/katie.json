@@ -1,0 +1,871 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book: Life at Fairlawn",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 6: The End of a War",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Discovery (October 2005) 💔",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sanctuary",
+            "file_path": "b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Alliance",
+            "file_path": "b001/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 7: Rec Center",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Hired at the Rec Center",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: An Official Welcome",
+            "file_path": "b001/c002/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 8: Planning Halloween",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Tuesday, August 15th, 2006 Meeting 🗓️",
+            "file_path": "b001/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The War is Over",
+            "file_path": "b001/c003/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 9: An Infernal Halloween",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Tuesday in Hell",
+            "file_path": "b001/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Off the Clock",
+            "file_path": "b001/c004/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 10: Chemical Emergency at Fairlawn",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Unfamiliar Code",
+            "file_path": "b001/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Rescue",
+            "file_path": "b001/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Code Orange ☣️",
+            "file_path": "b001/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Advocate 🚑",
+            "file_path": "b001/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Mission 🚗",
+            "file_path": "b001/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: A Safe Harbor ❤️‍🩹",
+            "file_path": "b001/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: A Father's Understanding 👨‍👧‍👦",
+            "file_path": "b001/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Diagnosis 🫁",
+            "file_path": "b001/c005/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Transfer 👫",
+            "file_path": "b001/c005/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: Settling In 🛏️",
+            "file_path": "b001/c005/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: Settling in for the Night 👨‍👧‍👦",
+            "file_path": "b001/c005/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Long Night 😠",
+            "file_path": "b001/c005/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Turn ⏰",
+            "file_path": "b001/c005/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Confirmation レントゲン",
+            "file_path": "b001/c005/p014.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 15: The Longest Night 🌅",
+            "file_path": "b001/c005/p015.md"
+          },
+          {
+            "part_num": 16,
+            "part_title": "Part 16: The Conti-Vac 💧",
+            "file_path": "b001/c005/p016.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 11: A New Day in the Hospital",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Report",
+            "file_path": "b001/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Longest Morning 🥞",
+            "file_path": "b001/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Breathing Treatment",
+            "file_path": "b001/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: A Glimmer of Hope 😮‍💨",
+            "file_path": "b001/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Fellowship of the Silver Gauntlet 🎬",
+            "file_path": "b001/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: A Moment of Levity 🤣",
+            "file_path": "b001/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The King of Trash Duty 🗳️",
+            "file_path": "b001/c006/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: A Taste of Victory 👨‍👩‍👧‍👧",
+            "file_path": "b001/c006/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 12: The Cost of the Crisis",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: An Unsteady Step 😟",
+            "file_path": "b001/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: A Flare-Up",
+            "file_path": "b001/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Turning of the Tide",
+            "file_path": "b001/c007/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Last Night 😴",
+            "file_path": "b001/c007/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Going Home",
+            "file_path": "b001/c007/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 13: A Sanctuary of Sleep",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Homecoming",
+            "file_path": "b001/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Good News",
+            "file_path": "b001/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: A Quiet Lunch 🥪",
+            "file_path": "b001/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Promise of the Quad",
+            "file_path": "b001/c008/p004.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book: A Trip to Washington DC",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: A Healing Journey",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A New Beginning in Fredericksburg",
+            "file_path": "b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The First Night",
+            "file_path": "b002/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Journey In",
+            "file_path": "b002/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Sarah’s Incident",
+            "file_path": "b002/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Tending to Sarah’s Needs & Completing Their Vacation",
+            "file_path": "b002/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: A New Level of Trust",
+            "file_path": "b002/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: A Trip Made Easier",
+            "file_path": "b002/c001/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: Sarah with an Injury",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Welcome Home to a Twisted Ankle",
+            "file_path": "b002/c002/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Summer Dreams",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Tent in a Backyard ",
+            "file_path": "b002/c003/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 5: Delores",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: University Open House",
+            "file_path": "b002/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Tour",
+            "file_path": "b002/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: An Unexpected Guide",
+            "file_path": "b002/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Conversation Shifts",
+            "file_path": "b002/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Lunch in the Lion's Den",
+            "file_path": "b002/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: A Private Tour",
+            "file_path": "b002/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Move",
+            "file_path": "b002/c004/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 6: Red Flags and Safe Harbors",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Cousin's Rescue",
+            "file_path": "b002/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: A Rec Center Sanctuary",
+            "file_path": "b002/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Closing Down a Rec Center",
+            "file_path": "b002/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Conversations on a Ride Home",
+            "file_path": "b002/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: A Safe Harbor",
+            "file_path": "b002/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: Coffee Date",
+            "file_path": "b002/c005/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: A Date with Delores",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: An Unassuming Dinner",
+            "file_path": "b002/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Dinner with Robyn and Delores",
+            "file_path": "b002/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Interrogation",
+            "file_path": "b002/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Manipulation",
+            "file_path": "b002/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Escape and the Hook",
+            "file_path": "b002/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Debrief",
+            "file_path": "b002/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: A Theory is Formed",
+            "file_path": "b002/c006/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The New Normal Begins",
+            "file_path": "b002/c006/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 8: Planning Sarah’s Birthday",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Mission for the Sister",
+            "file_path": "b002/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: A Taste of Twin Magic",
+            "file_path": "b002/c007/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 9: Sarah Bennett, Reporting for Duty",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Day of Dread and Duty",
+            "file_path": "b002/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: A Sunday Morning at Fairlawn",
+            "file_path": "b002/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: A Tale of Two Siblings",
+            "file_path": "b002/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: A Shared Break",
+            "file_path": "b002/c008/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Trial by Fecal Contamination",
+            "file_path": "b002/c008/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Longest Shift",
+            "file_path": "b002/c008/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Peking Duck Inn",
+            "file_path": "b002/c008/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: A Dinner on Thin Ice",
+            "file_path": "b002/c008/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Aftermath",
+            "file_path": "b002/c008/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: A Safe Harbor at Home",
+            "file_path": "b002/c008/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 9,
+        "chap_title": "Chapter 10: Confusion and Stress",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Morning Shrouded in Fog 🥣",
+            "file_path": "b002/c009/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: A Day of Confusion (Monday, February 12<sup>th</sup>, 2007)",
+            "file_path": "b002/c009/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: A Misfired Warning",
+            "file_path": "b002/c009/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 10,
+        "chap_title": "Chapter 11: Welcome to Work",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Off to Work",
+            "file_path": "b002/c010/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Morning at Fairlawn",
+            "file_path": "b002/c010/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: First Response",
+            "file_path": "b002/c010/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Mobile Emergency Room",
+            "file_path": "b002/c010/p004.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book: Heart Attack",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Hospital Arrival",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Arrival at the Emergency Room",
+            "file_path": "b003/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Transfer to Main Hospital",
+            "file_path": "b003/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Rooming It at the Hospital",
+            "file_path": "b003/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Back in the Room",
+            "file_path": "b003/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: A Quiet Vigil",
+            "file_path": "b003/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Family Visit",
+            "file_path": "b003/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Night Before Surgery",
+            "file_path": "b003/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Wait for Dawn",
+            "file_path": "b003/c001/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Day of Surgery",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Last Meal",
+            "file_path": "b003/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Journey to the OR",
+            "file_path": "b003/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: A Failed Procedure",
+            "file_path": "b003/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: A Veteran's Reassurance",
+            "file_path": "b003/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Transfer",
+            "file_path": "b003/c002/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Heart Hospital",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Serious Health Discussion",
+            "file_path": "b003/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Off to the Operating Room",
+            "file_path": "b003/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Waking Up in the Intensive Care Unit",
+            "file_path": "b003/c003/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 3: The Road to Recovery",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Rooming with Sarah in the Hospital ",
+            "file_path": "b003/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Bed Time with Sarah",
+            "file_path": "b003/c004/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 4: A Blizzard Sanctuary",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Visitor in the Storm",
+            "file_path": "b003/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The First Night",
+            "file_path": "b003/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The First Full Day",
+            "file_path": "b003/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The First Walk",
+            "file_path": "b003/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: A Call Home",
+            "file_path": "b003/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Anthem of Aethel 🎶",
+            "file_path": "b003/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Rec Center Rallies",
+            "file_path": "b003/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: A Mentor's Visit",
+            "file_path": "b003/c005/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: An Unexpected Goodbye",
+            "file_path": "b003/c005/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: A New Home",
+            "file_path": "b003/c005/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 5: Recovering from a Heart Attack",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The New House",
+            "file_path": "b003/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: First Night at the House",
+            "file_path": "b003/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: A Taste of Home",
+            "file_path": "b003/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: A Visit to a Second Home",
+            "file_path": "b003/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: A Final Encounter",
+            "file_path": "b003/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: Building a Sanctuary",
+            "file_path": "b003/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Room Service",
+            "file_path": "b003/c006/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The First Tour",
+            "file_path": "b003/c006/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: A Cheesy Sanctuary",
+            "file_path": "b003/c006/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: A Collector's Edition",
+            "file_path": "b003/c006/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: Dinner and Bonus Features",
+            "file_path": "b003/c006/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: A Sanctuary Decorated",
+            "file_path": "b003/c006/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Biological Deadline",
+            "file_path": "b003/c006/p013.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 6: The Long Road Ahead",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Windsor Woods Realization",
+            "file_path": "b003/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Long Walk Home",
+            "file_path": "b003/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sister-Shield",
+            "file_path": "b003/c007/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: A New Kind of Housebound",
+            "file_path": "b003/c007/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: A Quiet Refusal",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Midnight Showing",
+            "file_path": "b003/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 4: A Delayed Rejection",
+            "file_path": "b003/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 5: A Protector's Concern",
+            "file_path": "b003/c008/p003.md"
+          }
+        ]
+      }
+    ]
+  }
+]

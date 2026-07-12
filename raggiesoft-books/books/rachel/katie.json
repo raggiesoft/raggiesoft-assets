@@ -1,0 +1,2829 @@
+{
+  "series_title": "The Rachel Narrative",
+  "series_description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+  "author": "Engine Room Records",
+  "status": "Ongoing",
+  "books": [
+  {
+    "book_num": 1,
+    "book_title": "Book 1: The Delaney Street Years",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Sabertooth Kitty (December 1990)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Sensory Avalanche – 9:00 AM",
+            "file_path": "b001/c001/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Lower Bunk (December 22<sup>nd</sup>, 1993)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Sanctuary – 9:30 PM",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The New Arrangement – 10:30 PM",
+            "file_path": "b001/c002/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Morning After (December 23rd, 1993)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Discovery – 7:00 AM",
+            "file_path": "b001/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Breakfast Table – 9:00 AM",
+            "file_path": "b001/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Emerald Creek Mall – 1:00 PM",
+            "file_path": "b001/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Doll Aisle – 1:15 PM",
+            "file_path": "b001/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Neon Quarter – 1:45 PM",
+            "file_path": "b001/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: Not Proper – 2:30 PM",
+            "file_path": "b001/c003/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Bantam Workaround – 3:15 PM",
+            "file_path": "b001/c003/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Father's Perspective – 3:30 PM",
+            "file_path": "b001/c003/p008.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book 2: The Saltwater Summer",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Sanctuary – Friday, August 11th, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Safe Harbor – 4:55 PM",
+            "file_path": "b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Shift – 5:00 PM",
+            "file_path": "b002/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Mechanics of Spirit – 5:05 PM to 6:00 PM",
+            "file_path": "b002/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Pal and the Perimeter – 6:05 PM",
+            "file_path": "b002/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Perimeter Secured – 6:25 PM",
+            "file_path": "b002/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Living Room Bivouac – 7:30 PM",
+            "file_path": "b002/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Core Pack – 9:00 PM",
+            "file_path": "b002/c001/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Catalyst – Saturday, August 12th, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Inventory – 9:00 AM",
+            "file_path": "b002/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Physicality of Spirit – 10:15 AM",
+            "file_path": "b002/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Deafening Silence – 10:30 AM",
+            "file_path": "b002/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The 3rd Dan Disaster – 11:45 AM",
+            "file_path": "b002/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Genesis of Hatred – 12:05 PM",
+            "file_path": "b002/c002/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Enforcer (Tuesday, August 15th, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Mirrored Room – 4:00 PM",
+            "file_path": "b002/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Missing Cup – 4:15 PM",
+            "file_path": "b002/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Breaking the Silence – 4:55 PM",
+            "file_path": "b002/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Anchor and the Ego – 5:00 PM",
+            "file_path": "b002/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Top Row – 5:10 PM",
+            "file_path": "b002/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Delaney Street Revelation – 5:45 PM",
+            "file_path": "b002/c003/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Wash the Dojang Away – 6:00 PM",
+            "file_path": "b002/c003/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Dinner Table – 6:30 PM",
+            "file_path": "b002/c003/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Code Wizard – 7:30 PM",
+            "file_path": "b002/c003/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Solstice Myth – 8:30 PM",
+            "file_path": "b002/c003/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Twin-Bed Geometry – 10:45 PM",
+            "file_path": "b002/c003/p011.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Latchkey Solstice (Wednesday, August 16th, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Latchkey Captain – 8:30 AM",
+            "file_path": "b002/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Live-Action Tape – 10:00 AM",
+            "file_path": "b002/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Highland Leviathan – 11:45 AM",
+            "file_path": "b002/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Canvas Fortress – 1:00 PM",
+            "file_path": "b002/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Shore Power – 7:00 PM",
+            "file_path": "b002/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Ball Pit Strategy – 8:30 PM",
+            "file_path": "b002/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Lights Out – 8:45 PM",
+            "file_path": "b002/c004/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Thursday Deployment – Thursday, August 17, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Breaking Camp – 7:30 AM",
+            "file_path": "b002/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Living Room Dojang – 11:30 AM",
+            "file_path": "b002/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Neurological Wall – 11:45 AM",
+            "file_path": "b002/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Observation Deck – 1:30 PM",
+            "file_path": "b002/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Staging Area – 4:30 PM",
+            "file_path": "b002/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Core Check – 5:00 PM",
+            "file_path": "b002/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Rest of the Hour – 5:30 PM",
+            "file_path": "b002/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Observation Deck – 6:30 PM",
+            "file_path": "b002/c005/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Broken Routine – 7:00 PM",
+            "file_path": "b002/c005/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Adult Echo Chamber – 7:15 PM",
+            "file_path": "b002/c005/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Locked Door – 7:45 PM",
+            "file_path": "b002/c005/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Fracture – 8:15 PM",
+            "file_path": "b002/c005/p012.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Shattered Illusion (Friday, August 18th, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Physical Proof – 8:00 AM",
+            "file_path": "b002/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Convergence – 10:30 AM",
+            "file_path": "b002/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Children's Hospital – 11:05 AM",
+            "file_path": "b002/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Admission – 1:00 PM",
+            "file_path": "b002/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The ICU Encounter – 3:30 PM",
+            "file_path": "b002/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Statement – 4:30 PM",
+            "file_path": "b002/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Pack Assembles – 6:15 PM",
+            "file_path": "b002/c006/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Empty Mats – 5:15 PM",
+            "file_path": "b002/c006/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Ultimate Bow – 6:45 PM",
+            "file_path": "b002/c006/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Promise – 6:50 PM",
+            "file_path": "b002/c006/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Anchor – 7:15 PM",
+            "file_path": "b002/c006/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Perimeter – 8:00 PM",
+            "file_path": "b002/c006/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Night Shift – 9:00 PM",
+            "file_path": "b002/c006/p013.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: The Long Road (Saturday, August 19th, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Kehr’s Sign – 7:30 AM",
+            "file_path": "b002/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Second Snap – 7:45 AM",
+            "file_path": "b002/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Broken Anchor – 10:00 AM",
+            "file_path": "b002/c007/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Transport – 1:30 PM",
+            "file_path": "b002/c007/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Protocols of Base Camp – 6:00 PM",
+            "file_path": "b002/c007/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Night Watch – 10:30 PM",
+            "file_path": "b002/c007/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: The Warpath (Sunday, August 20th, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Bear and Bug – 8:00 AM",
+            "file_path": "b002/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Morning Logistics – 9:00 AM",
+            "file_path": "b002/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Interrogation – 10:30 AM",
+            "file_path": "b002/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Stripping the Titles – 10:15 AM",
+            "file_path": "b002/c008/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Outer Perimeter – 11:30 AM",
+            "file_path": "b002/c008/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 7: The Hygiene Protocol – 8:00 PM",
+            "file_path": "b002/c008/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 8: The Night Watch – 8:30 PM",
+            "file_path": "b002/c008/p007.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book 3: Base Camp",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Monday War – Monday, August 21st, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Weight of September – 7:00 AM",
+            "file_path": "b003/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Gavel – 9:00 AM",
+            "file_path": "b003/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The War Room – 9:00 AM",
+            "file_path": "b003/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Meltdown – 10:45 AM",
+            "file_path": "b003/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Safe Harbor – 1:00 PM",
+            "file_path": "b003/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Full Perimeter – 2:30 PM",
+            "file_path": "b003/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Art of Letting Go – 4:30 PM",
+            "file_path": "b003/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Cost of the War – 5:15 PM",
+            "file_path": "b003/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: Nightfall – 7:30 PM",
+            "file_path": "b003/c001/p009.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Marathon – Tuesday, August 22, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Transfer of Trust – 8:30 AM",
+            "file_path": "b003/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Vault and the VHS – 9:30 AM",
+            "file_path": "b003/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The First Lift – 12:00 PM",
+            "file_path": "b003/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Silly Fill-Ins and Mending – 1:00 PM",
+            "file_path": "b003/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Hum of the House – 4:00 PM",
+            "file_path": "b003/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Night Shift – 7:00 PM",
+            "file_path": "b003/c002/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Birthday – Sunday, August 27, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Sunday Shift – 8:00 AM",
+            "file_path": "b003/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Rootkit – 1:05 PM",
+            "file_path": "b003/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Canine Guard – 2:30 PM",
+            "file_path": "b003/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Gentle Lift – 8:00 PM",
+            "file_path": "b003/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Flat Relief – 8:30 PM",
+            "file_path": "b003/c003/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Homebound Tutor – Tuesday, September 5, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The First Bell – 7:30 AM",
+            "file_path": "b003/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Assessment – 9:00 AM",
+            "file_path": "b003/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Brain Break – 10:15 AM",
+            "file_path": "b003/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Physics of the Lift – 10:20 AM",
+            "file_path": "b003/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Independent System – 11:15 AM",
+            "file_path": "b003/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Changing of the Guard – 11:55 AM",
+            "file_path": "b003/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Afternoon Rest – 12:10 PM",
+            "file_path": "b003/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Way of Seondu – 1:00 PM",
+            "file_path": "b003/c004/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Chimney Sweep (Saturday, September 30, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Autumn Shift – 8:30 AM",
+            "file_path": "b003/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Breach – 9:00 AM",
+            "file_path": "b003/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Soot and the Sound – 9:30 AM",
+            "file_path": "b003/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Fortifying the Perimeter – 10:30 AM",
+            "file_path": "b003/c005/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Foreclosure (Wednesday, October 4, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Wednesday Rhythm – 4:00 PM",
+            "file_path": "b003/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Envelope – 4:20 PM",
+            "file_path": "b003/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Visual Proof – 4:25 PM",
+            "file_path": "b003/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Closure – 4:40 PM",
+            "file_path": "b003/c006/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: Jessica’s 15th Birthday (Saturday, October 14, 1995)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Full Perimeter – 5:00 PM",
+            "file_path": "b003/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Lead Guard – 5:30 PM",
+            "file_path": "b003/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Phantom Anchor – 5:45 PM",
+            "file_path": "b003/c007/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: The Consecration – Friday, October 20th, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Midnight Blue Shield – 4:30 PM",
+            "file_path": "b003/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Voice of Korea – 4:35 PM",
+            "file_path": "b003/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Shadow Arts – 4:45 PM",
+            "file_path": "b003/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Internal Kihap – 5:15 PM",
+            "file_path": "b003/c008/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Official Capacity – 5:30 PM",
+            "file_path": "b003/c008/p005.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 4,
+    "book_title": "Book 4: Middle School",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Spring Sound Showcase – Friday, May 14, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Friday Commute – 3:40 PM",
+            "file_path": "b004/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Homework Hurdle – 5:15 PM",
+            "file_path": "b004/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Deploying Base Camp – 8:00 PM",
+            "file_path": "b004/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Old World – Saturday, May 15, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Departure Protocol – 6:30 AM",
+            "file_path": "b004/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Data Shift – 7:30 AM",
+            "file_path": "b004/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Flash and the Photograph – 8:00 AM",
+            "file_path": "b004/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Sovereign Palace Theater – 9:00 AM",
+            "file_path": "b004/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Loch Serpent – 9:15 AM",
+            "file_path": "b004/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Iron Aeronaut – 10:00 AM",
+            "file_path": "b004/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Heart Attack Hill – 11:30 AM",
+            "file_path": "b004/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: Josephine’s and the Ghost – 12:30 PM",
+            "file_path": "b004/c002/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Timber Mill Plunge – 12:45 PM",
+            "file_path": "b004/c002/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Translation in the Grand Hall – 1:30 PM",
+            "file_path": "b004/c002/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Speed of Fright – 2:30 PM",
+            "file_path": "b004/c002/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Siege Engine – 3:15 PM",
+            "file_path": "b004/c002/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Imperial Rapids – 4:45 PM",
+            "file_path": "b004/c002/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Sovereign Palace Theater – 5:30 PM",
+            "file_path": "b004/c002/p014.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 15: The Missing Variable – 6:15 PM",
+            "file_path": "b004/c002/p015.md"
+          },
+          {
+            "part_num": 16,
+            "part_title": "Part 16: The Flawless Equation – 7:00 PM",
+            "file_path": "b004/c002/p016.md"
+          },
+          {
+            "part_num": 17,
+            "part_title": "Part 17: The Mathematics of Victory – 8:30 PM",
+            "file_path": "b004/c002/p017.md"
+          },
+          {
+            "part_num": 18,
+            "part_title": "Part 18: The Expansion of the Perimeter – 10:00 PM",
+            "file_path": "b004/c002/p018.md"
+          },
+          {
+            "part_num": 19,
+            "part_title": "Part 19: The Immutable Geometry – 10:30 PM",
+            "file_path": "b004/c002/p019.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Sunday Perimeter – Sunday, May 16, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Sleepover Calculation – 7:15 AM",
+            "file_path": "b004/c003/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 5,
+    "book_title": "Book 5: High School",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Marching Band (Monday, August 9<sup>th</sup>, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Jessica’s Wake Up Call – 6:00 AM",
+            "file_path": "b005/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Band Camp (8:00 AM)",
+            "file_path": "b005/c001/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Concrete Walkway (November 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Black Friday – 4:15 PM",
+            "file_path": "b005/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Tidewater General – 5:15 PM",
+            "file_path": "b005/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Trauma Bay – 7:30 PM",
+            "file_path": "b005/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Empty House – 8:00 PM",
+            "file_path": "b005/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Holding Pattern (Saturday, November 27th, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Daytime Warden – 8:00 AM",
+            "file_path": "b005/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Logic Blueprint – 10:30 AM",
+            "file_path": "b005/c003/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: Christmas Eve (Friday, December 24, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Accessibility Calculation – 8:30 AM",
+            "file_path": "b005/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Biological Anchors – 9:35 AM",
+            "file_path": "b005/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Logistics of Hope – 4:15 PM",
+            "file_path": "b005/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Honorary Lifters – 5:00 PM",
+            "file_path": "b005/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Perimeter Defense – 5:27 PM",
+            "file_path": "b005/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Alibi and the Feast – 5:42 PM",
+            "file_path": "b005/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The System Overload – 6:10 PM",
+            "file_path": "b005/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Sensory Safe Menu – 7:00 PM",
+            "file_path": "b005/c004/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Perimeter Epiphany – 7:30 PM",
+            "file_path": "b005/c004/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Santa Stakeout – 7:50 PM",
+            "file_path": "b005/c004/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Christmas Anomaly (Saturday, December 25th, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Phantom Drop – 4:21 AM",
+            "file_path": "b005/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Green Light – 6:42 AM",
+            "file_path": "b005/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Drop Zone – 7:00 AM",
+            "file_path": "b005/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Sentinel’s Briefing – 9:00 AM",
+            "file_path": "b005/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Social Algorithm – 11:45 AM",
+            "file_path": "b005/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The First Crush – 12:00 PM",
+            "file_path": "b005/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Christmas Tree Portrait – 12:10 PM",
+            "file_path": "b005/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Emotional High – 12:15 PM",
+            "file_path": "b005/c005/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Missing Exposure – 1:30 PM",
+            "file_path": "b005/c005/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Syntax of Survival – 2:30 PM",
+            "file_path": "b005/c005/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Bare-Metal Blueprint – 4:00 PM",
+            "file_path": "b005/c005/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: Christmas Day Dinner – 5:00 PM",
+            "file_path": "b005/c005/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Infinite Loop – 7:00 PM",
+            "file_path": "b005/c005/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The Night Watch – 10:30 PM",
+            "file_path": "b005/c005/p014.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Catalyst Initiative (Sunday, December 26th, 1999)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Bare Metal (1:00 AM)",
+            "file_path": "b005/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Severing the Runtime (1:45 AM)",
+            "file_path": "b005/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hold (3:00 AM)",
+            "file_path": "b005/c006/p003.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 6,
+    "book_title": "Book 6: Atlanta Spring Trip",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Catalyst Notification (Friday, April 21st, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Desktop Under the Stairs – 4:00 PM",
+            "file_path": "b006/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Quantum Packet – 4:10 PM",
+            "file_path": "b006/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Long-Distance Loophole – 4:30 PM",
+            "file_path": "b006/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Vanguard – 4:45 PM",
+            "file_path": "b006/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Mirror – 4:50 PM",
+            "file_path": "b006/c001/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: Arrival at the Hotel (Thursday, May 4<sup>th</sup>, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Wheelchair Lift – 4:00 PM",
+            "file_path": "b006/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Cafeteria Serenade – 6:30 PM",
+            "file_path": "b006/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Lido Deck – 8:00 PM",
+            "file_path": "b006/c002/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Roanoke Rapids Collapse (Saturday, October 28, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Crown Burger Trigger – 8:30 PM",
+            "file_path": "b006/c003/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 7,
+    "book_title": "Book 7: Seeds of a Divorce",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Continental Shift (Thursday, August 17, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Aunt Janet Extraction – 4:30 AM",
+            "file_path": "b007/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Check-In – 5:15 AM",
+            "file_path": "b007/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Perimeter Breach – 5:30 AM",
+            "file_path": "b007/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Vanguard Flight – 6:15 AM",
+            "file_path": "b007/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Prismatic Corridor – 8:45 AM (CST)",
+            "file_path": "b007/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Sunlit Valley – 10:30 AM (CST)",
+            "file_path": "b007/c001/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The TAPS Grid & The Breda Fleet (Thursday, August 17, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Reclaiming the Armor – 1:00 PM (PST)",
+            "file_path": "b007/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Breda Lift – 1:30 PM (PST)",
+            "file_path": "b007/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Lobby Perimeter – 2:15 PM (PST)",
+            "file_path": "b007/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Room 412 Perimeter – 3:15 PM (PST)",
+            "file_path": "b007/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Provisions Run (Friday, August 18th, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The ADA Fortress – 8:00 AM (PST)",
+            "file_path": "b007/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Cascade Haul – 1:00 PM (PST)",
+            "file_path": "b007/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Topography Lesson – 4:00 PM (PST)",
+            "file_path": "b007/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Ave – 6:30 PM (PST)",
+            "file_path": "b007/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Perimeter Handoff – 8:00 PM (PST)",
+            "file_path": "b007/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Empty Flank – 9:30 PM (PST)",
+            "file_path": "b007/c003/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Tourist Perimeter (Saturday, August 19th, 2000)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Reassembled Pack – 7:00 AM (PST)",
+            "file_path": "b007/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Concrete Canyons – 11:30 AM (PST)",
+            "file_path": "b007/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Puget Place Gauntlet – 12:30 PM (PST)",
+            "file_path": "b007/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Saltwater Grid – 1:15 PM (PST)",
+            "file_path": "b007/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Bremerton Landing – 2:30 PM (PST)",
+            "file_path": "b007/c004/p005.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 8,
+    "book_title": "Book 8: The Delaney Street Fracture",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Rachel’s First Band Camp (Monday, August 13<sup>th</sup>, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Awakening My Sister – 6:00 AM",
+            "file_path": "b008/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sentinel and the Ghost – 7:45 AM",
+            "file_path": "b008/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sanctuary Shatters – 8:45 AM",
+            "file_path": "b008/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Commercial Carpet – 9:00 AM",
+            "file_path": "b008/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Anchor and the Alpine Snowdrop – 9:15 AM",
+            "file_path": "b008/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Muscle Memory Map – 10:00 AM",
+            "file_path": "b008/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Stage Door Fortress – 12:00 PM",
+            "file_path": "b008/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Afternoon Metronome – 1:00 PM to 5:00 PM",
+            "file_path": "b008/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: 1802 Rich Court – 5:15 PM",
+            "file_path": "b008/c001/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Giant Bed – 7:30 PM",
+            "file_path": "b008/c001/p010.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 9,
+    "book_title": "Book 9: The Divorce Reprieve",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Mall (Friday, August 17<sup>th</sup>, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Vacation from Parents – 10:30 AM",
+            "file_path": "b009/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Afternoon at the Mall – 1:00 PM",
+            "file_path": "b009/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Up All Night Party – 8:00 PM",
+            "file_path": "b009/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Teenage Script (Saturday, August 18th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Elephant in the Room – 8:30 AM",
+            "file_path": "b009/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Morning Routine – 9:00 AM",
+            "file_path": "b009/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Cross-Country Bargain – 1:00 PM",
+            "file_path": "b009/c002/p003.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 10,
+    "book_title": "Book 10: The Divorce",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 3: The Broken Door (Tuesday, September 4th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Rachel's Fury – 5:30 PM",
+            "file_path": "b010/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Anchor – 6:00 PM",
+            "file_path": "b010/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Push-Button Lock – 6:45 PM",
+            "file_path": "b010/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 4: The Inevitable Math (Wednesday, September 5th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Guidance Office – 6:30 AM",
+            "file_path": "b010/c002/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 5: The Grounded Skies (Tuesday, September 11th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Eerie Silence – 4:00 PM",
+            "file_path": "b010/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Wooden Barricade – 5:30 PM",
+            "file_path": "b010/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Second Barricade – 6:30 PM",
+            "file_path": "b010/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: System Shutdown – 8:00 PM",
+            "file_path": "b010/c003/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 6: The Compromised Perimeter (Wednesday, September 12th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Broken Routine – 5:45 AM",
+            "file_path": "b010/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Afternoon Siege – 11:30 AM",
+            "file_path": "b010/c004/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 7: The Loophole (Monday, September 17th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Bleeding Finances – 2:15 PM",
+            "file_path": "b010/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Living Hell – 2:30 PM",
+            "file_path": "b010/c005/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 8: The Departure (Thursday, September 20th, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Bright Idea – 8:00 AM",
+            "file_path": "b010/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Assumption – 8:15 AM",
+            "file_path": "b010/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Calling Cards – 8:30 AM",
+            "file_path": "b010/c006/p003.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 11,
+    "book_title": "Book 11: Michael's New Life",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: A Left Coast Christmas (Saturday, November 17, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Arrival at PDX – 2:30 PM",
+            "file_path": "b011/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Columbia Transit Service – 3:15 PM",
+            "file_path": "b011/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Sibling Cuddles – 5:00 PM",
+            "file_path": "b011/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: A Clark County Christmas (Sunday, November 18, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Left Coast Time – 7:00 AM",
+            "file_path": "b011/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Burger Arch – 8:30 AM",
+            "file_path": "b011/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hard Conversation – 9:15 AM",
+            "file_path": "b011/c002/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Shopping in Portland (Sunday, November 18, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Transit Protocol – 10:00 AM",
+            "file_path": "b011/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Largest Mall in Oregon – 11:00 AM",
+            "file_path": "b011/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Investment – 12:30 PM",
+            "file_path": "b011/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Federal Way Proposal – 4:00 PM",
+            "file_path": "b011/c003/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Virginia Hammer (Monday, November 19, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Quantum Shield – 10:00 AM",
+            "file_path": "b011/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Status Quo – Tuesday, November 20th, 3:15 PM",
+            "file_path": "b011/c004/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: A New Tradition (Wednesday, November 21, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Legal Stranger – 10:00 AM",
+            "file_path": "b011/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Aero-Transit Packet – 11:15 AM",
+            "file_path": "b011/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Apartment Confrontation – 4:00 PM",
+            "file_path": "b011/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Assembly Line – 6:00 PM",
+            "file_path": "b011/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Escrow Anchor – 8:00 PM",
+            "file_path": "b011/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Regulated Sanctuary – 10:00 PM",
+            "file_path": "b011/c005/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: A Left Coast Thanksgiving (Thursday, November 22, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Hudson's Parade – 9:00 AM",
+            "file_path": "b011/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Thanksgiving Ultimatum – 10:30 AM",
+            "file_path": "b011/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Signature Act – 10:45 AM",
+            "file_path": "b011/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Shape of Tradition – 11:45 AM",
+            "file_path": "b011/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Heavy Lifting – 12:30 PM",
+            "file_path": "b011/c006/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The 101% Secret – 1:30 PM",
+            "file_path": "b011/c006/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Final Push – 3:30 PM",
+            "file_path": "b011/c006/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 9: The Southbound ARTS (Sunday, November 25, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Reverse Route – 8:00 AM",
+            "file_path": "b011/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Security Checkpoint – 1:00 PM",
+            "file_path": "b011/c007/p002.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 12,
+    "book_title": "Book 12: The East Coast",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Outbound to ORF (Saturday, December 22, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The First Class Algorithm – 6:00 AM",
+            "file_path": "b012/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Priority Perimeter – 6:45 AM",
+            "file_path": "b012/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Four-Hour Buffer – 7:00 AM",
+            "file_path": "b012/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Aisle Transfer – 10:45 AM",
+            "file_path": "b012/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Cabin Sanctuary – 11:45 AM",
+            "file_path": "b012/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Prismatic Corridor – 4:30 PM (CST)",
+            "file_path": "b012/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The System Crash – 4:45 PM (CST)",
+            "file_path": "b012/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Joyful Overload – 5:00 PM (CST)",
+            "file_path": "b012/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Midwestern Sanctuary – 5:15 PM (CST)",
+            "file_path": "b012/c001/p009.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: Arrival at Norfolk (Saturday, December 22, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Sibling Reunification – 9:30 PM",
+            "file_path": "b012/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sibling Perimeter – 9:45 PM",
+            "file_path": "b012/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Northern Star – 10:45 PM",
+            "file_path": "b012/c002/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The New Baseline (Sunday, December 23, 2001)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Three-Hour Shift – 8:30 AM",
+            "file_path": "b012/c003/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 13,
+    "book_title": "Book 13: Michael’s Senior Year",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Empty Shell (Monday, July 14th, 2003)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Last Morning – 7:30 AM",
+            "file_path": "b013/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Baldwin Briefing – 8:45 AM",
+            "file_path": "b013/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Frictionless Trap – 9:15 AM",
+            "file_path": "b013/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Transit Grid – 2:00 PM",
+            "file_path": "b013/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Logistical Paradox – 5:30 PM",
+            "file_path": "b013/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Extraction Plan – 7:30 PM",
+            "file_path": "b013/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Phone Call – 9:02 PM",
+            "file_path": "b013/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Bare Mechanics – 9:45 PM",
+            "file_path": "b013/c001/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Digital Mirage (Tuesday, July 15th, 2003)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Best Tech Ambush – 1:15 PM",
+            "file_path": "b013/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Malicious Code – 1:35 PM",
+            "file_path": "b013/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hardware Check – 2:45 PM",
+            "file_path": "b013/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Holding Pattern – 3:15 PM",
+            "file_path": "b013/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Inventory Protocol – 4:00 PM",
+            "file_path": "b013/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The On-Us Override – 5:15 PM",
+            "file_path": "b013/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Initial Provisioning – 6:30 PM",
+            "file_path": "b013/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The New Parameter – 7:30 PM",
+            "file_path": "b013/c002/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Extraction (Wednesday, July 16th, 2003)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Perimeter – 7:30 AM",
+            "file_path": "b013/c003/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 14,
+    "book_title": "Book 14: Delores",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Quiet Void (Thursday, September 2, 2004)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Last of the Pack – 8:00 AM (EDT)",
+            "file_path": "b014/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Solo Transit – 12:15 PM (EDT)",
+            "file_path": "b014/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Time Sync – 1:30 PM (EDT)",
+            "file_path": "b014/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Ticket Line – 6:45 PM (EDT)",
+            "file_path": "b014/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Midtown Transfer – 9:00 PM (EDT)",
+            "file_path": "b014/c001/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Gateway (Friday, September 3, 2004)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Call – 7:00 AM (EDT)",
+            "file_path": "b014/c002/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 15,
+    "book_title": "Book 16: The End of Hell",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Northern Anchor (Wednesday, November 15, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Ride Free Area – 3:30 PM (PST)",
+            "file_path": "b015/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: King Street Station – 4:15 PM (PST)",
+            "file_path": "b015/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hostile Perimeter – 6:30 PM (PST)",
+            "file_path": "b015/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Pizza Diplomacy – 7:15 PM (PST)",
+            "file_path": "b015/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Ascent – 8:30 PM (PST)",
+            "file_path": "b015/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Air Mattress Barricade – 9:30 PM (PST)",
+            "file_path": "b015/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Stille Nacht – 10:30 PM (PST)",
+            "file_path": "b015/c001/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Escape Route (Thursday, November 16, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Kent Station Transfer – 8:00 AM (PST)",
+            "file_path": "b015/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Jessica's Train Ride – 8:15 AM (PST)",
+            "file_path": "b015/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Off to Pierce County – 8:15 AM (PST)",
+            "file_path": "b015/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Quantum Reunion – 11:45 AM (PST)",
+            "file_path": "b015/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Shattered Fog – 11:45 PM (PST)",
+            "file_path": "b015/c002/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Morning Hell (Friday, November 17, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Forced Exit – 4:00 AM (PST)",
+            "file_path": "b015/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Renton Transfer – 6:00 AM (PST)",
+            "file_path": "b015/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Broil's Run – 12:15 PM (PST)",
+            "file_path": "b015/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Corporate Perimeter – 1:30 PM (PST)",
+            "file_path": "b015/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Clarity Upgrade – 2:30 PM (PST)",
+            "file_path": "b015/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Software Payload – 3:00 PM (PST)",
+            "file_path": "b015/c003/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Southern Cavalry – 2:00 PM (PST)",
+            "file_path": "b015/c003/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Physical Evidence – 5:30 PM (PST)",
+            "file_path": "b015/c003/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Pack Secures the Perimeter – 6:30 PM (PST)",
+            "file_path": "b015/c003/p009.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: Decompression Day (Saturday, November 18, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Liquid Rebellion – 9:00 AM (PST)",
+            "file_path": "b015/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Route 106 Escort – 11:30 AM (PST)",
+            "file_path": "b015/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Victory Meal – 12:00 PM (PST)",
+            "file_path": "b015/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Forging the Armor – 1:00 PM (PST)",
+            "file_path": "b015/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Mountain Prospect – 2:30 PM (PST)",
+            "file_path": "b015/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The First Citizen – 4:30 PM (PST)",
+            "file_path": "b015/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Lost Sentinel – 6:00 PM (PST)",
+            "file_path": "b015/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Perimeter Holds – 8:30 PM (PST)",
+            "file_path": "b015/c004/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Southern Route (Sunday, November 19, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Tukwila Extraction – 5:30 AM (PST)",
+            "file_path": "b015/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Moving Fortress – 6:15 AM (PST)",
+            "file_path": "b015/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: Crossing the Rubicon – 12:30 PM (PST)",
+            "file_path": "b015/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Forward Operating Base – 1:15 PM (PST)",
+            "file_path": "b015/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Hydrotherapy Protocol – 2:30 PM (PST)",
+            "file_path": "b015/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The House Guard Protocol – 5:00 PM (PST)",
+            "file_path": "b015/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Digital Sandbox – 6:30 PM (PST)",
+            "file_path": "b015/c005/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Final Baseline – 10:00 PM (PST)",
+            "file_path": "b015/c005/p008.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 16,
+    "book_title": "Book 16: AWE Monday Night War",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Portland Offensive (Monday, November 20, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Deployment – 6:00 AM (PST)",
+            "file_path": "b016/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Logic of the Ban – 6:45 AM (PST)",
+            "file_path": "b016/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Holding Pattern – 10:00 AM (PST)",
+            "file_path": "b016/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Plaza Approach – 2:20 PM (PST)",
+            "file_path": "b016/c001/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: Arrival at Rose City Center (Monday, November 20, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Will Call – 2:30 PM (PST)",
+            "file_path": "b016/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Arsenal – 2:45 PM (PST)",
+            "file_path": "b016/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Arsenal's Promise – 3:15 PM (PST)",
+            "file_path": "b016/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Tycoon, The Thief, and the Foam Finger – 3:45 PM (PST)",
+            "file_path": "b016/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Descent and the Trust Fall – 4:15 PM (PST)",
+            "file_path": "b016/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Dark Matches – 5:30 PM (PST)",
+            "file_path": "b016/c002/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: AWE Monday Night War (Monday, November 20, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: LIVE From Portland – 6:00 PM (PST)",
+            "file_path": "b016/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Bottom Line – 6:02 PM (PST)",
+            "file_path": "b016/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hometown Hero – 6:08 PM (PST)",
+            "file_path": "b016/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Cruiserweight Crash – 6:18 PM (PST)",
+            "file_path": "b016/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Corporate Meltdown – 6:30 PM (PST)",
+            "file_path": "b016/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Riot vs. The Empress – 6:40 PM (PST)",
+            "file_path": "b016/c003/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Tycoon and the Thief – 6:55 PM (PST)",
+            "file_path": "b016/c003/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Top of the Hour – 7:00 PM (PST)",
+            "file_path": "b016/c003/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Backstage Assault – 7:15 PM (PST)",
+            "file_path": "b016/c003/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Upset of the Century – 7:25 PM (PST)",
+            "file_path": "b016/c003/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Main Event Recap – 7:45 PM (PST)",
+            "file_path": "b016/c003/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 12: The Main Event – 7:45 PM to 7:56 PM (PST)",
+            "file_path": "b016/c003/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 13: The Rampage & The Ultimatum – 7:56 PM to 8:00 PM (PST)",
+            "file_path": "b016/c003/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 14: The House Lights & The Journey Home – 8:00 PM (PST)",
+            "file_path": "b016/c003/p014.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 17,
+    "book_title": "Book 17: A Few Small Repairs",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Breakfast in Vancouver (Tuesday, November 21, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Anchor's Rest – 7:00 AM (PST)",
+            "file_path": "b017/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Crossing the Columbia River – 8:30 AM (PST)",
+            "file_path": "b017/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Tactical Seating Chart – 9:45 AM (PST)",
+            "file_path": "b017/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Pathetic Text – 9:55 AM (PST)",
+            "file_path": "b017/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Financial Guillotine – 10:15 AM (PST)",
+            "file_path": "b017/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The 360 Area Code – 10:45 AM (PST)",
+            "file_path": "b017/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Unified Grid – 11:30 AM (PST)",
+            "file_path": "b017/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Union Station Protocol – 12:30 PM (PST)",
+            "file_path": "b017/c001/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Financial Extraction (Wednesday, November 22, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Transit Grid – 7:30 AM (PS1T)",
+            "file_path": "b017/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sentinel's Shield – 8:15 AM (PST)",
+            "file_path": "b017/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Financial Severance – 8:55 AM (PST)",
+            "file_path": "b017/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Corporate Armor – 9:45 AM (PST)",
+            "file_path": "b017/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Café 34 and The Code-Off – 10:30 AM (PST)",
+            "file_path": "b017/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Crossway Matinee – 1:15 PM (PST)",
+            "file_path": "b017/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Digital Void & The Shrine – 4:00 PM (PST)",
+            "file_path": "b017/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: Bug and Bear – 5:15 PM (PST)",
+            "file_path": "b017/c002/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Heavyweight Knockout Grill – 6:45 PM (PST)",
+            "file_path": "b017/c002/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Sanctuary Bed – 10:30 PM (PST)",
+            "file_path": "b017/c002/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Sanctuary Holiday (Thursday, November 23, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Sentinel Tether – 10:00 AM (PST)",
+            "file_path": "b017/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sanctuary Feast – 6:00 PM (PST)",
+            "file_path": "b017/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sugar Crash & The Independent Perimeter – 10:00 PM (PST)",
+            "file_path": "b017/c003/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Spectacle of the Season (Friday, November 24, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Afterglow and the Doorbuster Clock – 5:30 AM (PST)",
+            "file_path": "b017/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Transit Deployment – 8:00 AM (PST)",
+            "file_path": "b017/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Pine Street Skybridge – 9:30 AM (PST)",
+            "file_path": "b017/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Holiday Windows – 10:00 AM (PST)",
+            "file_path": "b017/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Ride Free Area – 10:30 AM (PST)",
+            "file_path": "b017/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Pocket Fortress – 11:45 AM (PST)",
+            "file_path": "b017/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Pioneer Deli and The Regional Route – 12:15 PM (PST)",
+            "file_path": "b017/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Pierce County Deployment – 1:30 PM (PST)",
+            "file_path": "b017/c004/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Lakewood Fortress – 2:45 PM (PST)",
+            "file_path": "b017/c004/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Southern Base Camp – 8:00 PM (PST)",
+            "file_path": "b017/c004/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Weekend Shift (Saturday, November 25, 2006)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Choice – 5:00 AM (PST)",
+            "file_path": "b017/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Milk Rule – 5:30 AM (PST)",
+            "file_path": "b017/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Dead Grid – 7:30 AM (PST)",
+            "file_path": "b017/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Northbound Route – 8:00 AM (PST)",
+            "file_path": "b017/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Grocery Side – 8:30 AM (PST)",
+            "file_path": "b017/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Pantry Algorithm – 10:00 AM (PST)",
+            "file_path": "b017/c005/p006.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 18,
+    "book_title": "Book 18: The Eastern Anchor",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Foundation (Friday, March 30th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Tarmac and the Tear – 10:15 PM (EST)",
+            "file_path": "b018/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Decoy Protocol – 11:30 PM (EST)",
+            "file_path": "b018/c001/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Blueprint and the Sabomnim (Saturday, March 31st, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Transition Wake-Up – 9:00 AM",
+            "file_path": "b018/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Adult Perimeter – 10:30 AM",
+            "file_path": "b018/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Reunion at the Register – 1:00 PM",
+            "file_path": "b018/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Alumni Roster – 1:15 PM",
+            "file_path": "b018/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Canadian Arch Perimeter – 4:00 PM",
+            "file_path": "b018/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Woven Stripe – 6:00 PM",
+            "file_path": "b018/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Sea of Truth – 6:45 PM",
+            "file_path": "b018/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Muscle Memory – 7:00 PM",
+            "file_path": "b018/c002/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Criollo Drive Ascent – 8:30 PM",
+            "file_path": "b018/c002/p009.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Sunday Reset (Sunday, April 1st, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Three-Day Math – 10:00 AM",
+            "file_path": "b018/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Transit Trap – 11:30 AM",
+            "file_path": "b018/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Blue Leather Anchor – 1:00 PM",
+            "file_path": "b018/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Evolution of the Anchor – 5:30 PM",
+            "file_path": "b018/c003/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Digital SOS (Monday, April 2nd, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Command Center – 2:00 PM",
+            "file_path": "b018/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Passcode – 2:30 PM",
+            "file_path": "b018/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Blackwater Extraction – 2:45 PM",
+            "file_path": "b018/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Evasive Route – 3:15 PM",
+            "file_path": "b018/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Paper Trail – 4:00 PM",
+            "file_path": "b018/c004/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The 1802 Perimeter – 8:00 PM",
+            "file_path": "b018/c004/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Legal Definition – 10:30 PM",
+            "file_path": "b018/c004/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Weight of the Anchor – 10:32 PM",
+            "file_path": "b018/c004/p008.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Fortress (Tuesday, April 3rd, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Lifelong Partner – 7:00 AM",
+            "file_path": "b018/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Fault Line – 7:30 AM",
+            "file_path": "b018/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Shark of Downtown Norfolk – 8:45 AM",
+            "file_path": "b018/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: Shedding the Name – 11:00 AM",
+            "file_path": "b018/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Dollar Lease – 12:30 PM",
+            "file_path": "b018/c005/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Deployment (Wednesday, April 4th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The West Coast Wake-Up – 6:30 A M (EST)",
+            "file_path": "b018/c006/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 19,
+    "book_title": "Book 19: The Director's Perimeter",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Capture (Wednesday, May 16th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The SME Directive – 9:15 AM (EST)",
+            "file_path": "b019/c001/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Moosewood Anomaly (Friday, May 25th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Twenty-First Milestone – 6:30 PM (EST)",
+            "file_path": "b019/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Subprime Shield – 8:15 PM (EST)",
+            "file_path": "b019/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Moosewood Anomaly – 8:25 PM (EST)",
+            "file_path": "b019/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Evasive Route – 8:35 PM (EST)",
+            "file_path": "b019/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Tactical Acquisition (Tuesday, May 29th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Route 36 Commute – 6:40 AM (EST)",
+            "file_path": "b019/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Corporate Guillotine – 8:05 AM (EST)",
+            "file_path": "b019/c003/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: Ground Zero (Friday, June 15th, 2007)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Demolition Directive – 7:45 AM (EST)",
+            "file_path": "b019/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Catharsis – 8:05 AM (EST)",
+            "file_path": "b019/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Clinical Blueprint – 1:00 PM (EST)",
+            "file_path": "b019/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Intact Architecture – 4:45 PM (EST)",
+            "file_path": "b019/c004/p004.md"
+          }
+        ]
+      }
+    ]
+  }
+]
+}
