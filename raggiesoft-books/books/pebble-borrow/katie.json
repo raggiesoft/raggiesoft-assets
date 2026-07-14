@@ -1,165 +1,165 @@
 [
-  {
-    "book_num": 2,
-    "book_title": "Book 2: The Motel on the Highway",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Threshold",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Out of the Storm",
-            "file_path": "b002/c001/p001.md"
-          }
+    {
+        "book_num": 2,
+        "book_title": "The Motel on the Highway",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Threshold",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Out of the Storm",
+                        "file_path": "b002/c001/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Setting the Scene",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The APEX Late-Night Switch",
+                        "file_path": "b002/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The APEX World Premier Presentation",
+                        "file_path": "b002/c002/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "Amanda Protects her Siblings",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The APEX Late‑Night Switch (Amanda Wakes Up at 10:59 PM)",
+                        "file_path": "b002/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Saturday Morning — The Teasing Begins",
+                        "file_path": "b002/c003/p002.md"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: Setting the Scene",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The APEX Late-Night Switch",
-            "file_path": "b002/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 3: The APEX World Premier Presentation",
-            "file_path": "b002/c002/p002.md"
-          }
+    },
+    {
+        "book_num": 7,
+        "book_title": "Welcome to Pebble Burrow",
+        "chapters": [
+            {
+                "chap_num": 14,
+                "chap_title": "Returning to the Surface",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Apocalyptic Reality",
+                        "file_path": "b007/c014/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Burden of Ownership",
+                        "file_path": "b007/c014/p002.md"
+                    }
+                ]
+            }
         ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 2: Amanda Protects her Siblings",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The APEX Late‑Night Switch (Amanda Wakes Up at 10:59 PM)",
-            "file_path": "b002/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Saturday Morning — The Teasing Begins",
-            "file_path": "b002/c003/p002.md"
-          }
+    },
+    {
+        "book_num": 8,
+        "book_title": "The General's Arrival",
+        "chapters": [
+            {
+                "chap_num": 2,
+                "chap_title": "The Holy Grail of Geothermal Energy",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "0700 Hours: The First Refusal",
+                        "file_path": "b008/c002/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "0830 Hours: The Four-Star Directive",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Net Closes",
+                        "file_path": "b008/c003/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "1015 Hours: The Commander-in-Chief",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Breach",
+                        "file_path": "b008/c005/p001.md"
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  },
-  {
-    "book_num": 7,
-    "book_title": "Welcome to Pebble Burrow",
-    "chapters": [
-      {
-        "chap_num": 14,
-        "chap_title": "Returning to the Surface",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "The Apocalyptic Reality",
-            "file_path": "b007/c014/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "The Burden of Ownership",
-            "file_path": "b007/c014/p002.md"
-          }
+    },
+    {
+        "book_num": 23,
+        "book_title": "Amanda Interviews Care Nurses",
+        "chapters": [
+            {
+                "chap_num": 7,
+                "chap_title": "The Verification",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Call 1: The Surgeon",
+                        "file_path": "b023/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Call 2: The Social Worker",
+                        "file_path": "b023/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Call 3: The Director of Nursing",
+                        "file_path": "b023/c007/p003.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 8,
+                "chap_title": "The Fortress is Staffed",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Night Watch (The RNs)",
+                        "file_path": "b023/c008/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Muscle (The CNAs)",
+                        "file_path": "b023/c008/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Rebuilders (The PTA and OT)",
+                        "file_path": "b023/c008/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Shield (The Administration)",
+                        "file_path": "b023/c008/p004.md"
+                    }
+                ]
+            }
         ]
-      }
-    ]
-  },
-  {
-    "book_num": 8,
-    "book_title": "The General's Arrival",
-    "chapters": [
-      {
-        "chap_num": 2,
-        "chap_title": "The Holy Grail of Geothermal Energy",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "0700 Hours: The First Refusal",
-            "file_path": "b008/c002/p001.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "0830 Hours: The Four-Star Directive",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "The Net Closes",
-            "file_path": "b008/c003/p001.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "1015 Hours: The Commander-in-Chief",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "The Breach",
-            "file_path": "b008/c005/p001.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 23,
-    "book_title": "Amanda Interviews Care Nurses",
-    "chapters": [
-      {
-        "chap_num": 7,
-        "chap_title": "The Verification",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Call 1: The Surgeon",
-            "file_path": "b023/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Call 2: The Social Worker",
-            "file_path": "b023/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Call 3: The Director of Nursing",
-            "file_path": "b023/c007/p003.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 8,
-        "chap_title": "The Fortress is Staffed",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "The Night Watch (The RNs)",
-            "file_path": "b023/c008/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "The Muscle (The CNAs)",
-            "file_path": "b023/c008/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "The Rebuilders (The PTA and OT)",
-            "file_path": "b023/c008/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "The Shield (The Administration)",
-            "file_path": "b023/c008/p004.md"
-          }
-        ]
-      }
-    ]
-  }
+    }
 ]

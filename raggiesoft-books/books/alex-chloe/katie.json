@@ -1,2714 +1,2714 @@
 [
-  {
-    "book_num": 1,
-    "book_title": "Book 1: Alex’s Childhood",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Carter House",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The First Meeting (1987)",
-            "file_path": "b001/c001/p001.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: Elementary School",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The First Day of Kindergarten (Fall 1990)",
-            "file_path": "b001/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Afternoon Block",
-            "file_path": "b001/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Eye of the Storm",
-            "file_path": "b001/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Guardian and the Architect",
-            "file_path": "b001/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Nickname (Fall 1990)",
-            "file_path": "b001/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Quiet Place in the Chaos (c. 1992)",
-            "file_path": "b001/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Grand Prix",
-            "file_path": "b001/c002/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: A Date with Jennifer (c. 1998)",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Dare and The Setup",
-            "file_path": "b001/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Senior Week",
-            "file_path": "b001/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Aftermath of a Movie",
-            "file_path": "b001/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Antidote",
-            "file_path": "b001/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Fizzle",
-            "file_path": "b001/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Better Kind of Friendship",
-            "file_path": "b001/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Aftermath at School",
-            "file_path": "b001/c003/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: Alex as a Teenager",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Quiet Place in the Chaos (Fall 1998)",
-            "file_path": "b001/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Resonance Cascade (Winter 1998)",
-            "file_path": "b001/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Codex (Alex's 14th Birthday - April 1999)",
-            "file_path": "b001/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Declaration (April 8<sup>th</sup>, 1999)",
-            "file_path": "b001/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Upgrade (Early June 1999)",
-            "file_path": "b001/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Training Montage & The Sign (Early June 1999)",
-            "file_path": "b001/c004/p006.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 2,
-    "book_title": "Book 2: Summer of Discovery 1999",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The House Next Door",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: An Instant Connection (Saturday, June 19, 1999)",
-            "file_path": "b002/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Boardwalk Blasts & Budding Bonds (A Few Days Later, Summer 1999)",
-            "file_path": "b002/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Sandwiches and Shared Worlds (Sunday Afternoon, Summer 1999)",
-            "file_path": "b002/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Sweetness of a Hug (Summer of Discovery, 1999)",
-            "file_path": "b002/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Day at Fairlawn and Shared Stories",
-            "file_path": "b002/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The First Boundary (Late Summer 1999)",
-            "file_path": "b002/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Reunion (Late Summer 1999)",
-            "file_path": "b002/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: A Ramp of Welcome (Mid-Summer 1999)",
-            "file_path": "b002/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: Electives, Echoes of French, and an Informal Tutor (Mid-Late Summer 1999)",
-            "file_path": "b002/c001/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Architect of The Codex (Summer 1999)",
-            "file_path": "b002/c001/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The First Sleepover – Labor Day Weekend (1999)",
-            "file_path": "b002/c001/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Morning After – A New Normal (Sunday, Labor Day Weekend 1999)",
-            "file_path": "b002/c001/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: Bedtime and Beach Dreams (Sunday Evening, Labor Day Weekend 1999)",
-            "file_path": "b002/c001/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: Beach Day Bound – The Last Day of Freedom (Labor Day Monday, 1999)",
-            "file_path": "b002/c001/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: Oceanfront Wonders – A Day of Firsts (Labor Day Monday, 1999)",
-            "file_path": "b002/c001/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: A Drawer of Belonging (Late Summer 1999)",
-            "file_path": "b002/c001/p016.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 3,
-    "book_title": "Book: Fresh Meat",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: Welcome to High School ",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Unofficial Orientation (First Day of Freshman Year, Fall 1999)",
-            "file_path": "b003/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Bonjour, Madame Beaumont (First Day of School, Fall 1999)",
-            "file_path": "b003/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Infamous Game and Instant Justice (First Day of School Lunch, Fall 1999)",
-            "file_path": "b003/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: An Aromatic Apprenticeship (First Day of School - 2:15 PM, Fall 1999)",
-            "file_path": "b003/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Lingering Aroma of Justice (Second Day of Freshman Year, Fall 1999)",
-            "file_path": "b003/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Delinquent, The Dumpsters, and The Deep Fryer's Due (Second Day of School - 2:10 PM, Fall 1999)",
-            "file_path": "b003/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Humble Request and a Changing Tide (Later that Week, Fall 1999)",
-            "file_path": "b003/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: A Different Kind of \"The Talk\" (Early September 1999)",
-            "file_path": "b003/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A Quiet Understanding – Their Own Conversation (Saturday Evening, Early September 1999)",
-            "file_path": "b003/c001/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: An Interrupted Lesson and an Inevitable Summons (A Week Later, Fall 1999)",
-            "file_path": "b003/c001/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: Cafeteria Justice, Multilingual Edition *(Freshman Year, Fall 1999)*",
-            "file_path": "b003/c001/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Chapter 2: A First Winter",
-            "file_path": "b003/c001/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 1: A Canadian Word (Winter 1999)",
-            "file_path": "b003/c001/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 2: A New Tradition",
-            "file_path": "b003/c001/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 3: Christmas Eve on Lisa Court (December 24, 1999)",
-            "file_path": "b003/c001/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 4: A Quiet Ritual",
-            "file_path": "b003/c001/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 5: A Christmas of Firsts",
-            "file_path": "b003/c001/p017.md"
-          },
-          {
-            "part_num": 18,
-            "part_title": "Part 6: A Cross-Border Introduction",
-            "file_path": "b003/c001/p018.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 3: Spring Semester at Northwood High",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Gaelic Gambit and the Grease Trap Lament",
-            "file_path": "b003/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Birthday Twins (Early April 2000)",
-            "file_path": "b003/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Party for Two (Early April 2000)",
-            "file_path": "b003/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Miller-Mason Birthday Extravaganza (April 8, 2000)",
-            "file_path": "b003/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Change of Scenery (April 8, 2000)",
-            "file_path": "b003/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The First Step of the Adventure (April 9, 2000)",
-            "file_path": "b003/c002/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: One Town, Two Countries",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Adventure Becomes Real (Mid-Summer 2000)",
-            "file_path": "b003/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Night Before (Late July 2000)",
-            "file_path": "b003/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Journey North (Late July 2000)",
-            "file_path": "b003/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Familiar Crossing (Summer 2000)",
-            "file_path": "b003/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Town Without Walls (Summer 2000)",
-            "file_path": "b003/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: One Street, Two Countries (Summer 2000)",
-            "file_path": "b003/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Day of Two Nations (Summer 2000)",
-            "file_path": "b003/c003/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Montréal Rule (Summer 2000)",
-            "file_path": "b003/c003/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: Montréal",
-            "file_path": "b003/c003/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Return Journey (Summer 2000)",
-            "file_path": "b003/c003/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: A Lesson in Chocolate and Law (Summer 2000)",
-            "file_path": "b003/c003/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Forbidden Fruit (Summer 2000)",
-            "file_path": "b003/c003/p012.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: La Famille",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Québécois Welcome (Summer 2000)",
-            "file_path": "b003/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Reunion – Food, Family, and French (Summer 2000)",
-            "file_path": "b003/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Character Moments and Interactions (Summer 2000)",
-            "file_path": "b003/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Last Farewell (Summer 2000)",
-            "file_path": "b003/c004/p004.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 4,
-    "book_title": "Book 3: Sophomore Year",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A New Rhythm",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The A/B Block (First Day of Sophomore Year, Fall 2000)",
-            "file_path": "b004/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Calendar Keeper",
-            "file_path": "b004/c001/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Longest Two Weeks",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Simple Cough (Fall 2000)",
-            "file_path": "b004/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Nurse's Verdict",
-            "file_path": "b004/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Hospital",
-            "file_path": "b004/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Turn for the Worse",
-            "file_path": "b004/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Anchor",
-            "file_path": "b004/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Touch and Go",
-            "file_path": "b004/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Road Back",
-            "file_path": "b004/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: Alex’s Recovery",
-            "file_path": "b004/c002/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: A New Normal",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Re-establishing a Rhythm (Fall 2000)",
-            "file_path": "b004/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A New Low",
-            "file_path": "b004/c003/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: The First Crack",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Blast Radius (Fall 2000)",
-            "file_path": "b004/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Cold War",
-            "file_path": "b004/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Reconciliation",
-            "file_path": "b004/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Unbreakable Bond",
-            "file_path": "b004/c004/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: A Different Kind of Connection",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Lab Partner (Fall 2000)",
-            "file_path": "b004/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Study Session",
-            "file_path": "b004/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Invitation",
-            "file_path": "b004/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Answer",
-            "file_path": "b004/c005/p004.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 5,
-    "book_title": "Book 4: Juniors, They Are",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Virtual Solution",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Compatibility Crisis",
-            "file_path": "b005/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Justification",
-            "file_path": "b005/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Unboxing",
-            "file_path": "b005/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Lesson in Virtualization",
-            "file_path": "b005/c001/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: Spring Break",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Parents Make Plans",
-            "file_path": "b005/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Handover",
-            "file_path": "b005/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Quiet Domesticity",
-            "file_path": "b005/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: MEGAN!!!! (The Chaperone Arrives)",
-            "file_path": "b005/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Departure and The Reflection",
-            "file_path": "b005/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Return",
-            "file_path": "b005/c002/p006.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 6,
-    "book_title": "Book 5: Seniors Rule the School",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Last First Day of School",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Cafeteria Entrance & Cafeteria – First Day, Fall 2002",
-            "file_path": "b006/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Separation (First Purple Day, Fall 2002)",
-            "file_path": "b006/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Main Lobby & Front Exit – End of First Day, Fall 2002",
-            "file_path": "b006/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: By the Dumpsters – First Day of School, Fall 2002, 2:13 PM",
-            "file_path": "b006/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Line too Far (for Josh Riley)",
-            "file_path": "b006/c001/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: A Quiet Miracle",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The TADA Heard 'Round the Lab (First Day, Fall 2002)",
-            "file_path": "b006/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Missing Semicolon (Fall 2002)",
-            "file_path": "b006/c002/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Fork in the Road",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The \"What's Next?\" Meeting (Fall 2002)",
-            "file_path": "b006/c003/p001.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: A Different Kind of Anchor",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Quiet Hurt (Winter 2002)",
-            "file_path": "b006/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Simple Offer",
-            "file_path": "b006/c004/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: The Weight of Care",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Accident (Spring 2003)",
-            "file_path": "b006/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The New Reality",
-            "file_path": "b006/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A New Kind of Teamwork",
-            "file_path": "b006/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Private Struggles and Quiet Dignity",
-            "file_path": "b006/c005/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Deeper Understanding",
-            "file_path": "b006/c005/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 6: The Last Dance",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Decision",
-            "file_path": "b006/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Sabotage",
-            "file_path": "b006/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The People's Vote",
-            "file_path": "b006/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Real Victory",
-            "file_path": "b006/c006/p004.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 7,
-    "book_title": "Book 6: One Last Summer",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Pacific Northwest Interlude: Summer After Graduation (2003)",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Exploring Seattle and Lynnwood",
-            "file_path": "b007/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Special Evening",
-            "file_path": "b007/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Afterglow",
-            "file_path": "b007/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A New Threshold of Trust (Summer 2003)",
-            "file_path": "b007/c001/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: A Very Hard Goodbye",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Two Separate Worlds (Late August 2003)",
-            "file_path": "b007/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Soundtrack to a Heartbreak",
-            "file_path": "b007/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Night in an Empty Room (Late August 2003)",
-            "file_path": "b007/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The First Lifeline (Las Vegas)",
-            "file_path": "b007/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Voice Across the Continent (Seattle)",
-            "file_path": "b007/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Home Safe (Lynnwood)",
-            "file_path": "b007/c002/p006.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 8,
-    "book_title": "Book 7: Separate Coast, Separate Lives",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Community College Beginning",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Student Development 101",
-            "file_path": "b008/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Familiar Face",
-            "file_path": "b008/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Coffee, and an Open Wound (Late August 2003)",
-            "file_path": "b008/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Promise (Late August 2003)",
-            "file_path": "b008/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Moving Fast",
-            "file_path": "b008/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: How I Met Her Mother",
-            "file_path": "b008/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Lifeline Offered",
-            "file_path": "b008/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Presentation and the Aftermath",
-            "file_path": "b008/c001/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The First Alarm Bell",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Doubt Starts to Form",
-            "file_path": "b008/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Refusal",
-            "file_path": "b008/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Call for Help",
-            "file_path": "b008/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Confrontation",
-            "file_path": "b008/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Debrief in the Dark",
-            "file_path": "b008/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Debrief at Lisa Court",
-            "file_path": "b008/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Morning Debrief",
-            "file_path": "b008/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Love Bomb",
-            "file_path": "b008/c002/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 2: Lingering Connections, Looming Threats (Fall 2003)",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Video Call Interruption",
-            "file_path": "b008/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Dinner of Dissent",
-            "file_path": "b008/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Slow Encroachment",
-            "file_path": "b008/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: An Unstable Connection",
-            "file_path": "b008/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Lifeline from Lynnwood",
-            "file_path": "b008/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Vera's \"Rescue\" Mission",
-            "file_path": "b008/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Secret Rebellion",
-            "file_path": "b008/c003/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 3: The VDU Open House",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Cavalry Arrives",
-            "file_path": "b008/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Return to Sanctuary",
-            "file_path": "b008/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Safe Harbor",
-            "file_path": "b008/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Taste of Normalcy",
-            "file_path": "b008/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Night of Healing",
-            "file_path": "b008/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Lifeline",
-            "file_path": "b008/c004/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Bedtime Routine",
-            "file_path": "b008/c004/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: A Safe Place to Land",
-            "file_path": "b008/c004/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: An Early Start",
-            "file_path": "b008/c004/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: Opening Remarks",
-            "file_path": "b008/c004/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The Campus Tour",
-            "file_path": "b008/c004/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: The Residential Tour",
-            "file_path": "b008/c004/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: The Thirteenth Floor",
-            "file_path": "b008/c004/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: The Famous Fried Chicken",
-            "file_path": "b008/c004/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: Practicing for the Future",
-            "file_path": "b008/c004/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: Homework Sanctuary",
-            "file_path": "b008/c004/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 17: The Tender Shack",
-            "file_path": "b008/c004/p017.md"
-          },
-          {
-            "part_num": 18,
-            "part_title": "Part 18: The Second Video Call",
-            "file_path": "b008/c004/p018.md"
-          },
-          {
-            "part_num": 19,
-            "part_title": "Part 19: Starship Sentinels",
-            "file_path": "b008/c004/p019.md"
-          },
-          {
-            "part_num": 20,
-            "part_title": "Part 20: The Second Evening of Care",
-            "file_path": "b008/c004/p020.md"
-          },
-          {
-            "part_num": 21,
-            "part_title": "Part 21: A Morning of Trust",
-            "file_path": "b008/c004/p021.md"
-          },
-          {
-            "part_num": 22,
-            "part_title": "Part 22: The Heart-to-Heart",
-            "file_path": "b008/c004/p022.md"
-          },
-          {
-            "part_num": 23,
-            "part_title": "Part 23: The Aftermath",
-            "file_path": "b008/c004/p023.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 4: The Longest Road",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Vacuum",
-            "file_path": "b008/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Thanksgiving Lie",
-            "file_path": "b008/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Across the Country on a Pathfinder",
-            "file_path": "b008/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Welcome to Hell, Welcome to Kent",
-            "file_path": "b008/c005/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 5: Help is on the Way",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Desperate Call (Wednesday, November 22, 2003)",
-            "file_path": "b008/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Race to Kent",
-            "file_path": "b008/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Confrontation and Choice (Wednesday, November 22, 2003)",
-            "file_path": "b008/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Drive to Lynnwood – Safety and Silence (Wednesday, November 22, 2003)",
-            "file_path": "b008/c006/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 7,
-        "chap_title": "Chapter 6: A New Plan",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: An Urgent Call Home (Wednesday, November 22, 2003)",
-            "file_path": "b008/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: An Emergency Deep Cleaning – Restoring Dignity (Wednesday, November 22, 2003)",
-            "file_path": "b008/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: First Meal in Sanctuary – Simple Comforts (Wednesday, November 22, 2003)",
-            "file_path": "b008/c007/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Healing Nap and a New Plan (Wednesday, November 22, 2003)",
-            "file_path": "b008/c007/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Quiet Thanksgiving (Thursday, November 23, 2003)",
-            "file_path": "b008/c007/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 8,
-        "chap_title": "Chapter 7: Reestablishing Alex’s Agency",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Quiet Conversation (Lynnwood, Weekend After Thanksgiving 2003)",
-            "file_path": "b008/c008/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Clinic Visit and a Clean Slate",
-            "file_path": "b008/c008/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Resuming Intimacy – The Afterglow Revisited",
-            "file_path": "b008/c008/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Afterglow – A New Dawn, A Reclaimed Voice",
-            "file_path": "b008/c008/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Weight of Certainty",
-            "file_path": "b008/c008/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Homeward Bound for Graduation",
-            "file_path": "b008/c008/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 9,
-        "chap_title": "Chapter 8: The Journey Home",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Cavalry Arrives (Mid-December 2003)",
-            "file_path": "b008/c009/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Gentle Deconstruction",
-            "file_path": "b008/c009/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Shipping a Life",
-            "file_path": "b008/c009/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Flight Home",
-            "file_path": "b008/c009/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Sanctuary",
-            "file_path": "b008/c009/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Magna Cum Laude",
-            "file_path": "b008/c009/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Three-Way Escape Hatch",
-            "file_path": "b008/c009/p007.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 10,
-        "chap_title": "Chapter 9: Winter Break Decisions",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Insurance Dilemma and a Loving Proposition (Mid December 2003)",
-            "file_path": "b008/c010/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Doctor's Verdict",
-            "file_path": "b008/c010/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A New Foundation",
-            "file_path": "b008/c010/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A New Normal",
-            "file_path": "b008/c010/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Canadian Landing (December 22, 2003)",
-            "file_path": "b008/c010/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Day of Two Cultures (December 23, 2003)",
-            "file_path": "b008/c010/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: Le Réveillon on Lisa Court (December 24, 2003)",
-            "file_path": "b008/c010/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Aftermath of the Feast (December 24, 2003)",
-            "file_path": "b008/c010/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A Cross-Border Christmas (December 25, 2003)",
-            "file_path": "b008/c010/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: A Gift of Togetherness (December 25, 2003)",
-            "file_path": "b008/c010/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: The American Christmas and a New Allegiance (December 25, 2003)",
-            "file_path": "b008/c010/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: A Rivalry is Born (December 25, 2003)",
-            "file_path": "b008/c010/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: A Quiet \"I Do\" for Practical Love (January 5, 2004)",
-            "file_path": "b008/c010/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: A Grocery Store Guardian (Winter Break 2003)",
-            "file_path": "b008/c010/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: Confrontation in ValueMart (Virginia Beach, Winter Break – Early January 2004)",
-            "file_path": "b008/c010/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: The Aftermath",
-            "file_path": "b008/c010/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 17: A Shared Secret",
-            "file_path": "b008/c010/p017.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 9,
-    "book_title": "Book 8: A Fresh Start",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A New Beginning",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Gearing Up",
-            "file_path": "b009/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A New Sanctuary (Sunday, January 11, 2004)",
-            "file_path": "b009/c001/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Final Severance",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Empty Seat (Monday, January 12, 2004)",
-            "file_path": "b009/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Confrontation on Lisa Court",
-            "file_path": "b009/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Final, Desperate Call",
-            "file_path": "b009/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Letter",
-            "file_path": "b009/c002/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Unraveling Lie",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Family's Resolve (January 2004)",
-            "file_path": "b009/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Demand",
-            "file_path": "b009/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Truth in a Letter",
-            "file_path": "b009/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Unraveling and The Aftermath",
-            "file_path": "b009/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A New Beginning",
-            "file_path": "b009/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Vera’s Reckoning – A Mother's Fury, A Daughter's Ruin",
-            "file_path": "b009/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: Un Avenir Sans Fardeau (A Future Unburdened)",
-            "file_path": "b009/c003/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: Building the Sanctuary",
-            "file_path": "b009/c003/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: A New Beginning",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Morning Commute (Monday, January 12, 2004)",
-            "file_path": "b009/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Different First Day",
-            "file_path": "b009/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Conversation",
-            "file_path": "b009/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: An Investment in the Future",
-            "file_path": "b009/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Building a Foundation",
-            "file_path": "b009/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Breaking Point",
-            "file_path": "b009/c004/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: The Apartment Hunt",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Excitement and the Learning Curve",
-            "file_path": "b009/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Reality Check",
-            "file_path": "b009/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Brush with Danger",
-            "file_path": "b009/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Discovery",
-            "file_path": "b009/c005/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Project Freedom",
-            "file_path": "b009/c005/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Shopping for a Van",
-            "file_path": "b009/c005/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 6: Spring Break",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Quiet Day Trip",
-            "file_path": "b009/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Family Investment",
-            "file_path": "b009/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Domestic Details",
-            "file_path": "b009/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Return to the Water",
-            "file_path": "b009/c006/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Quiet Before the Move",
-            "file_path": "b009/c006/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Three Musketeers",
-            "file_path": "b009/c006/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 7,
-        "chap_title": "Chapter 7: A New Home",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Keys (Friday, April 2, 2004)",
-            "file_path": "b009/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Look",
-            "file_path": "b009/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Big Move (Saturday, April 3, 2004)",
-            "file_path": "b009/c007/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The First Night",
-            "file_path": "b009/c007/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A New (Old) Trusted Friend ",
-            "file_path": "b009/c007/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 8,
-        "chap_title": "Chapter 8: The Long Wait",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Marathon, Not a Sprint (Summer 2004)",
-            "file_path": "b009/c008/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Technological Bandages",
-            "file_path": "b009/c008/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Freedom Arrives",
-            "file_path": "b009/c008/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Expected Rejection",
-            "file_path": "b009/c008/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Fight Begins",
-            "file_path": "b009/c008/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Fragile Sanctuary",
-            "file_path": "b009/c008/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Aftermath",
-            "file_path": "b009/c008/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Journey Home",
-            "file_path": "b009/c008/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Approval",
-            "file_path": "b009/c008/p009.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 10,
-    "book_title": "Book 9: Young Adults, New Worlds",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: Standing Tall",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Delivery Day (Fall 2005)",
-            "file_path": "b010/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Morning",
-            "file_path": "b010/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The First Movie Night",
-            "file_path": "b010/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A New Day on Campus",
-            "file_path": "b010/c001/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Final Semester",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Power Couple of Campus",
-            "file_path": "b010/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: An Unwavering Bond",
-            "file_path": "b010/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Healthy Friendship",
-            "file_path": "b010/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Final Push",
-            "file_path": "b010/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Graduation Day",
-            "file_path": "b010/c002/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Northern Road",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Launch (Summer 2006)",
-            "file_path": "b010/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Journey North",
-            "file_path": "b010/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Bienvenue au Québec (Welcome to Québec)",
-            "file_path": "b010/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: An Aunt's Welcome and a Modern Warning (Summer 2006)",
-            "file_path": "b010/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: An Aunt's Advice and a New Itinerary (Summer 2006)",
-            "file_path": "b010/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Sweet Discovery (Summer 2006)",
-            "file_path": "b010/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Walk Through a Changed Town (Summer 2006)",
-            "file_path": "b010/c003/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: One Last Line to Cross (Summer 2006)",
-            "file_path": "b010/c003/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: A Homecoming of the Heart (Summer 2006)",
-            "file_path": "b010/c003/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: Navigating the City (Summer 2006)",
-            "file_path": "b010/c003/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: Tensions at the Deli (Summer 2006)",
-            "file_path": "b010/c003/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Part 12: A Quiet Day of Decompression (Summer 2006)",
-            "file_path": "b010/c003/p012.md"
-          },
-          {
-            "part_num": 13,
-            "part_title": "Part 13: A Family Farewell (Summer 2006)",
-            "file_path": "b010/c003/p013.md"
-          },
-          {
-            "part_num": 14,
-            "part_title": "Part 14: One Last Night in Canada (Summer 2006)",
-            "file_path": "b010/c003/p014.md"
-          },
-          {
-            "part_num": 15,
-            "part_title": "Part 15: Echoes on the Line (Summer 2006)",
-            "file_path": "b010/c003/p015.md"
-          },
-          {
-            "part_num": 16,
-            "part_title": "Part 16: A Taste of Vermont (Summer 2006)",
-            "file_path": "b010/c003/p016.md"
-          },
-          {
-            "part_num": 17,
-            "part_title": "Part 17: A New Dream on the Boardwalk (Summer 2006)",
-            "file_path": "b010/c003/p017.md"
-          },
-          {
-            "part_num": 18,
-            "part_title": "Part 18: The Long Road Home (Summer 2006)",
-            "file_path": "b010/c003/p018.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: The Last Summer in Virginia",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Operation: Pacific Northwest",
-            "file_path": "b010/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Quantum Opportunity",
-            "file_path": "b010/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Great Commute Debate",
-            "file_path": "b010/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Final Summit",
-            "file_path": "b010/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Confirmation",
-            "file_path": "b010/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Last Swim",
-            "file_path": "b010/c004/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: Weathering the Storm",
-            "file_path": "b010/c004/p007.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 11,
-    "book_title": "Book 10: Forging a Future",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Road West",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Launch (Summer 2006)",
-            "file_path": "b011/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Open Road",
-            "file_path": "b011/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Washington",
-            "file_path": "b011/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Seattle",
-            "file_path": "b011/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Home",
-            "file_path": "b011/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Unpacking",
-            "file_path": "b011/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The First Adventure",
-            "file_path": "b011/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: A Day in the City",
-            "file_path": "b011/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Welcome Home",
-            "file_path": "b011/c001/p009.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The First Ecosystem",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Micro-Test (Late 2006)",
-            "file_path": "b011/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Setup (A Week Later)",
-            "file_path": "b011/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Inhabitants",
-            "file_path": "b011/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Quiet Success",
-            "file_path": "b011/c002/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Evergreen Project",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Weekend Warriors (2007)",
-            "file_path": "b011/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Beagle and the Blueprint (Spring 2008)",
-            "file_path": "b011/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The First Test and a New Role",
-            "file_path": "b011/c003/p003.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 12,
-    "book_title": "Chapter 4: Building the Foundation",
-    "chapters": [
-      {
-        "chap_num": 0,
-        "chap_title": "Chapter 3: The Evergreen Project",
-        "parts": [
-          {
-            "part_num": 4,
-            "part_title": "Part 1: The Accessibility Specialist (2008-2009)",
-            "file_path": "b011/c003/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 2: The Non-Profit Architects",
-            "file_path": "b011/c003/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 3: The Turning Point (Late 2009)",
-            "file_path": "b011/c003/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 4: The Long Road to a Dream (January 2010)",
-            "file_path": "b011/c003/p007.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 13,
-    "book_title": "Book 11: Canada Winter Games",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A House Divided",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Matchup is Set (February 26, 2010)",
-            "file_path": "b013/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: La Taverne des Voyageurs (2010)",
-            "file_path": "b013/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Spoils of Victory (2010)",
-            "file_path": "b013/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Uniform of Defeat (2010)",
-            "file_path": "b013/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Opening a Cross-Border Life (2010)",
-            "file_path": "b013/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Preclearance Predicament (2010)",
-            "file_path": "b013/c001/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Weight of Care, Revisited",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Accident (Spring 2010)",
-            "file_path": "b013/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Different Kind of Hospital Visit",
-            "file_path": "b013/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Long Road Ahead",
-            "file_path": "b013/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Setback One - The Infection",
-            "file_path": "b013/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Setback Two - The Catastrophe",
-            "file_path": "b013/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: The Depths of Despair",
-            "file_path": "b013/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Slow Path to Healing",
-            "file_path": "b013/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Hospital Revelation",
-            "file_path": "b013/c002/p008.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 14,
-    "book_title": "Book 12: No Boundaries",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Vision Takes Shape",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Blueprint of Home (Spring 2010)",
-            "file_path": "b014/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Border of Our Own (Spring 2010)",
-            "file_path": "b014/c001/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 3: The Northern Annex",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Peace Arch Crossing (2010)",
-            "file_path": "b014/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 3: The Peak of the City (2010)",
-            "file_path": "b014/c002/p002.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 15,
-    "book_title": "Book 13: Our Real Beginning",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Vow, Revisited",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Proposition",
-            "file_path": "b015/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Family Announcement",
-            "file_path": "b015/c001/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: Operation: Stanstead Wedding",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Boots on the Ground",
-            "file_path": "b015/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Attire",
-            "file_path": "b015/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Writing the Vows",
-            "file_path": "b015/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Vow Script",
-            "file_path": "b015/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Birth of an Idea",
-            "file_path": "b015/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Prototype is Born",
-            "file_path": "b015/c002/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: A Brand is Born",
-            "file_path": "b015/c002/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Art Director",
-            "file_path": "b015/c002/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: Boots on the Ground Report",
-            "file_path": "b015/c002/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: The Point of No Return",
-            "file_path": "b015/c002/p010.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Homecoming",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Journey East",
-            "file_path": "b015/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Welcome to the Virginia Base Camp",
-            "file_path": "b015/c003/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: A Day in the Virginia Base Camp",
-            "file_path": "b015/c003/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Journey North",
-            "file_path": "b015/c003/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: Le Grand Jour (The Big Day) (Saturday, October 9<sup>th</sup>, 2010)",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: Les Préparatifs (Getting Ready)",
-            "file_path": "b015/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: La Cérémonie (The Ceremony)",
-            "file_path": "b015/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: La Réception (The Reception)",
-            "file_path": "b015/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: La Première Danse (The First Dance)",
-            "file_path": "b015/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: Les Danses d'Honneur (The Dances of Honor)",
-            "file_path": "b015/c004/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: L'Unité Inséparable (The Unbreakable Unit)",
-            "file_path": "b015/c004/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: Les Discours (The Toasts)",
-            "file_path": "b015/c004/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: La Coupe du Gâteau (The Cutting of the Cake)",
-            "file_path": "b015/c004/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: La Poutine Célébratoire (The Celebratory Poutine)",
-            "file_path": "b015/c004/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: La Dernière Danse (The Last Dance)",
-            "file_path": "b015/c004/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: La Fin de la Soirée (The End of the Night)",
-            "file_path": "b015/c004/p011.md"
-          },
-          {
-            "part_num": 12,
-            "part_title": "Bonus Scene: A View from Portsmouth",
-            "file_path": "b015/c004/p012.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: A Day in the Townships",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Morning After",
-            "file_path": "b015/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Taste of the Townships",
-            "file_path": "b015/c005/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Promise to Return",
-            "file_path": "b015/c005/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Honeymoon",
-            "file_path": "b015/c005/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Departure",
-            "file_path": "b015/c005/p005.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 16,
-    "book_title": "Book 14: Needs a Name",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter X: The Revenge of the Brawlers",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Boston Showdown (Fall 2011)",
-            "file_path": "b016/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Boston Victory Parade (Fall 2011)",
-            "file_path": "b016/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Long Drive of Shame (The Next Day)",
-            "file_path": "b016/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: Breakfast with the Enemy",
-            "file_path": "b016/c001/p004.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 17,
-    "book_title": "Book 15: COVID",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Great Unraveling",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The World Shuts Down (March 2020)",
-            "file_path": "b017/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Race to the Border",
-            "file_path": "b017/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Stranded in Vermont",
-            "file_path": "b017/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Airport and the Call",
-            "file_path": "b017/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Rescue Mission",
-            "file_path": "b017/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Virginia Haven",
-            "file_path": "b017/c001/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: An Unexpected Family Lockdown (March 2020)",
-            "file_path": "b017/c001/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Cross-Country Problem",
-            "file_path": "b017/c001/p008.md"
-          },
-          {
-            "part_num": 9,
-            "part_title": "Part 9: The Long Road Home (March/April 2020)",
-            "file_path": "b017/c001/p009.md"
-          },
-          {
-            "part_num": 10,
-            "part_title": "Part 10: A Birthday in Lockdown (April 8, 2020)",
-            "file_path": "b017/c001/p010.md"
-          },
-          {
-            "part_num": 11,
-            "part_title": "Part 11: A Full House (April 2020)",
-            "file_path": "b017/c001/p011.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: The Longest Two Weeks",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The First Sign (April 2020)",
-            "file_path": "b017/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Diagnosis",
-            "file_path": "b017/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Lockdown Within the Lockdown",
-            "file_path": "b017/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Fever Breaks",
-            "file_path": "b017/c002/p004.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: A World Reopened",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The New Normal (Late Spring/Early Summer 2020)",
-            "file_path": "b017/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Venture Out (Summer 2020)",
-            "file_path": "b017/c003/p002.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 18,
-    "book_title": "Book 16: A Dream Built",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: The Great Focus",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Leap of Faith (Spring 2022)",
-            "file_path": "b018/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Grant (Late 2022)",
-            "file_path": "b018/c001/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 2,
-        "chap_title": "Chapter 2: A Winter Homecoming",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Much-Needed Breather (Early December 2022)",
-            "file_path": "b018/c002/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The Return (December 2022)",
-            "file_path": "b018/c002/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Boxing Day Mission",
-            "file_path": "b018/c002/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Architect Returns",
-            "file_path": "b018/c002/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: A Mission Solidified",
-            "file_path": "b018/c002/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: Return to Lynnwood",
-            "file_path": "b018/c002/p006.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 3,
-        "chap_title": "Chapter 3: The Great Focus",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The Call and the Land",
-            "file_path": "b018/c003/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: From Blueprint to Reality (Spring 2023)",
-            "file_path": "b018/c003/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 4,
-        "chap_title": "Chapter 4: Echoes and Reunions",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: The 20-Year Reunion (Fall 2023)",
-            "file_path": "b018/c004/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A New Home Base",
-            "file_path": "b018/c004/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Debriefing",
-            "file_path": "b018/c004/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: The Next Platform",
-            "file_path": "b018/c004/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Flight Home",
-            "file_path": "b018/c004/p005.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 5,
-        "chap_title": "Chapter 5: The New Workshop",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Cross-Platform Future",
-            "file_path": "b018/c005/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Prototype",
-            "file_path": "b018/c005/p002.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 6,
-        "chap_title": "Chapter 6: From the Ground Up",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Montage of Progress (2024)",
-            "file_path": "b018/c006/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: The First Enterprise",
-            "file_path": "b018/c006/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: Acceleration",
-            "file_path": "b018/c006/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Living Building",
-            "file_path": "b018/c006/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Physical Toll (Late 2027)",
-            "file_path": "b018/c006/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A New Horizon",
-            "file_path": "b018/c006/p006.md"
-          },
-          {
-            "part_num": 7,
-            "part_title": "Part 7: The Rejection",
-            "file_path": "b018/c006/p007.md"
-          },
-          {
-            "part_num": 8,
-            "part_title": "Part 8: The Rejection Letter",
-            "file_path": "b018/c006/p008.md"
-          }
-        ]
-      },
-      {
-        "chap_num": 7,
-        "chap_title": "Chapter 7: Bridges of Understanding",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: An Unexpected Encounter (Lynnwood, Washington – Summer 2028)",
-            "file_path": "b018/c007/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: A Family Reunited, A Tour Begins",
-            "file_path": "b018/c007/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Directors’ Work",
-            "file_path": "b018/c007/p003.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 19,
-    "book_title": "Book 17: The Long Quiet *(Working Title)*",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter 1: A Future in the Townships",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Quiet Question (Summer 2030)",
-            "file_path": "b019/c001/p001.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "book_num": 20,
-    "book_title": "Book 18: The Final Chapter",
-    "chapters": [
-      {
-        "chap_num": 1,
-        "chap_title": "Chapter Zed: Forever Yours",
-        "parts": [
-          {
-            "part_num": 1,
-            "part_title": "Part 1: A Conscious Goodbye (January 2057)",
-            "file_path": "b020/c001/p001.md"
-          },
-          {
-            "part_num": 2,
-            "part_title": "Part 2: Last Wishes",
-            "file_path": "b020/c001/p002.md"
-          },
-          {
-            "part_num": 3,
-            "part_title": "Part 3: The Last Goodbye",
-            "file_path": "b020/c001/p003.md"
-          },
-          {
-            "part_num": 4,
-            "part_title": "Part 4: A Promise Kept",
-            "file_path": "b020/c001/p004.md"
-          },
-          {
-            "part_num": 5,
-            "part_title": "Part 5: The Last Guardian",
-            "file_path": "b020/c001/p005.md"
-          },
-          {
-            "part_num": 6,
-            "part_title": "Part 6: A Service for Three",
-            "file_path": "b020/c001/p006.md"
-          }
-        ]
-      }
-    ]
-  }
+    {
+        "book_num": 1,
+        "book_title": "Alex’s Childhood",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Carter House",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The First Meeting",
+                        "file_path": "b001/c001/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Elementary School",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The First Day of Kindergarten",
+                        "file_path": "b001/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Afternoon Block",
+                        "file_path": "b001/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Eye of the Storm",
+                        "file_path": "b001/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Guardian and the Architect",
+                        "file_path": "b001/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Nickname",
+                        "file_path": "b001/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Quiet Place in the Chaos",
+                        "file_path": "b001/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Grand Prix",
+                        "file_path": "b001/c002/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "A Date with Jennifer (c. 1998)",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Dare and The Setup",
+                        "file_path": "b001/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Senior Week",
+                        "file_path": "b001/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Aftermath of a Movie",
+                        "file_path": "b001/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Antidote",
+                        "file_path": "b001/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Fizzle",
+                        "file_path": "b001/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Better Kind of Friendship",
+                        "file_path": "b001/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Aftermath at School",
+                        "file_path": "b001/c003/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "Alex as a Teenager",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Quiet Place in the Chaos",
+                        "file_path": "b001/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Resonance Cascade",
+                        "file_path": "b001/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Codex",
+                        "file_path": "b001/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Declaration",
+                        "file_path": "b001/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Upgrade",
+                        "file_path": "b001/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Training Montage & The Sign",
+                        "file_path": "b001/c004/p006.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 2,
+        "book_title": "Summer of Discovery 1999",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The House Next Door",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "An Instant Connection",
+                        "file_path": "b002/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Boardwalk Blasts & Budding Bonds",
+                        "file_path": "b002/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Sandwiches and Shared Worlds",
+                        "file_path": "b002/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Sweetness of a Hug",
+                        "file_path": "b002/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Day at Fairlawn and Shared Stories",
+                        "file_path": "b002/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The First Boundary",
+                        "file_path": "b002/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Reunion",
+                        "file_path": "b002/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "A Ramp of Welcome",
+                        "file_path": "b002/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Electives, Echoes of French, and an Informal Tutor",
+                        "file_path": "b002/c001/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Architect of The Codex",
+                        "file_path": "b002/c001/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The First Sleepover – Labor Day Weekend",
+                        "file_path": "b002/c001/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Morning After – A New Normal",
+                        "file_path": "b002/c001/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "Bedtime and Beach Dreams",
+                        "file_path": "b002/c001/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "Beach Day Bound – The Last Day of Freedom",
+                        "file_path": "b002/c001/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Oceanfront Wonders – A Day of Firsts",
+                        "file_path": "b002/c001/p015.md"
+                    },
+                    {
+                        "part_num": 16,
+                        "part_title": "A Drawer of Belonging",
+                        "file_path": "b002/c001/p016.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 3,
+        "book_title": "Fresh Meat",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "Welcome to High School",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Unofficial Orientation",
+                        "file_path": "b003/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Bonjour, Madame Beaumont",
+                        "file_path": "b003/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Infamous Game and Instant Justice",
+                        "file_path": "b003/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "An Aromatic Apprenticeship",
+                        "file_path": "b003/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Lingering Aroma of Justice",
+                        "file_path": "b003/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Delinquent, The Dumpsters, and The Deep Fryer's Due",
+                        "file_path": "b003/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Humble Request and a Changing Tide",
+                        "file_path": "b003/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "A Different Kind of \"The Talk\"",
+                        "file_path": "b003/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "A Quiet Understanding – Their Own Conversation",
+                        "file_path": "b003/c001/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "An Interrupted Lesson and an Inevitable Summons",
+                        "file_path": "b003/c001/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "Cafeteria Justice, Multilingual Edition **",
+                        "file_path": "b003/c001/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "Chapter 2: A First Winter",
+                        "file_path": "b003/c001/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "A Canadian Word",
+                        "file_path": "b003/c001/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "A New Tradition",
+                        "file_path": "b003/c001/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Christmas Eve on Lisa Court",
+                        "file_path": "b003/c001/p015.md"
+                    },
+                    {
+                        "part_num": 16,
+                        "part_title": "A Quiet Ritual",
+                        "file_path": "b003/c001/p016.md"
+                    },
+                    {
+                        "part_num": 17,
+                        "part_title": "A Christmas of Firsts",
+                        "file_path": "b003/c001/p017.md"
+                    },
+                    {
+                        "part_num": 18,
+                        "part_title": "A Cross-Border Introduction",
+                        "file_path": "b003/c001/p018.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Spring Semester at Northwood High",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Gaelic Gambit and the Grease Trap Lament",
+                        "file_path": "b003/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Birthday Twins",
+                        "file_path": "b003/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Party for Two",
+                        "file_path": "b003/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Miller-Mason Birthday Extravaganza",
+                        "file_path": "b003/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Change of Scenery",
+                        "file_path": "b003/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The First Step of the Adventure",
+                        "file_path": "b003/c002/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "One Town, Two Countries",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Adventure Becomes Real",
+                        "file_path": "b003/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Night Before",
+                        "file_path": "b003/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Journey North",
+                        "file_path": "b003/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Familiar Crossing",
+                        "file_path": "b003/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Town Without Walls",
+                        "file_path": "b003/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "One Street, Two Countries",
+                        "file_path": "b003/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Day of Two Nations",
+                        "file_path": "b003/c003/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Montréal Rule",
+                        "file_path": "b003/c003/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Montréal",
+                        "file_path": "b003/c003/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Return Journey",
+                        "file_path": "b003/c003/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "A Lesson in Chocolate and Law",
+                        "file_path": "b003/c003/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Forbidden Fruit",
+                        "file_path": "b003/c003/p012.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "La Famille",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Québécois Welcome",
+                        "file_path": "b003/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Reunion – Food, Family, and French",
+                        "file_path": "b003/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Character Moments and Interactions",
+                        "file_path": "b003/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Last Farewell",
+                        "file_path": "b003/c004/p004.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 4,
+        "book_title": "Sophomore Year",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A New Rhythm",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The A/B Block",
+                        "file_path": "b004/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Calendar Keeper",
+                        "file_path": "b004/c001/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Longest Two Weeks",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Simple Cough",
+                        "file_path": "b004/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Nurse's Verdict",
+                        "file_path": "b004/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Hospital",
+                        "file_path": "b004/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Turn for the Worse",
+                        "file_path": "b004/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Anchor",
+                        "file_path": "b004/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Touch and Go",
+                        "file_path": "b004/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Road Back",
+                        "file_path": "b004/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "Alex’s Recovery",
+                        "file_path": "b004/c002/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "A New Normal",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Re-establishing a Rhythm",
+                        "file_path": "b004/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A New Low",
+                        "file_path": "b004/c003/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "The First Crack",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Blast Radius",
+                        "file_path": "b004/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Cold War",
+                        "file_path": "b004/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Reconciliation",
+                        "file_path": "b004/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Unbreakable Bond",
+                        "file_path": "b004/c004/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "A Different Kind of Connection",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Lab Partner",
+                        "file_path": "b004/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Study Session",
+                        "file_path": "b004/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Invitation",
+                        "file_path": "b004/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Answer",
+                        "file_path": "b004/c005/p004.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 5,
+        "book_title": "Juniors, They Are",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Virtual Solution",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Compatibility Crisis",
+                        "file_path": "b005/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Justification",
+                        "file_path": "b005/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Unboxing",
+                        "file_path": "b005/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Lesson in Virtualization",
+                        "file_path": "b005/c001/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Spring Break",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Parents Make Plans",
+                        "file_path": "b005/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Handover",
+                        "file_path": "b005/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Quiet Domesticity",
+                        "file_path": "b005/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "MEGAN!!!! (The Chaperone Arrives)",
+                        "file_path": "b005/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Departure and The Reflection",
+                        "file_path": "b005/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Return",
+                        "file_path": "b005/c002/p006.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 6,
+        "book_title": "Seniors Rule the School",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A Last First Day of School",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Cafeteria Entrance & Cafeteria – First Day, Fall 2002",
+                        "file_path": "b006/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Separation",
+                        "file_path": "b006/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Main Lobby & Front Exit – End of First Day, Fall 2002",
+                        "file_path": "b006/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "By the Dumpsters – First Day of School, Fall 2002, 2:13 PM",
+                        "file_path": "b006/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Line too Far (for Josh Riley)",
+                        "file_path": "b006/c001/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "A Quiet Miracle",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The TADA Heard 'Round the Lab",
+                        "file_path": "b006/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Missing Semicolon",
+                        "file_path": "b006/c002/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Fork in the Road",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The \"What's Next?\" Meeting",
+                        "file_path": "b006/c003/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "A Different Kind of Anchor",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Quiet Hurt",
+                        "file_path": "b006/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Simple Offer",
+                        "file_path": "b006/c004/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The Weight of Care",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Accident",
+                        "file_path": "b006/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The New Reality",
+                        "file_path": "b006/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A New Kind of Teamwork",
+                        "file_path": "b006/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Private Struggles and Quiet Dignity",
+                        "file_path": "b006/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Deeper Understanding",
+                        "file_path": "b006/c005/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "The Last Dance",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Decision",
+                        "file_path": "b006/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Sabotage",
+                        "file_path": "b006/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The People's Vote",
+                        "file_path": "b006/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Real Victory",
+                        "file_path": "b006/c006/p004.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 7,
+        "book_title": "One Last Summer",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A Pacific Northwest Interlude: Summer After Graduation (2003)",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Exploring Seattle and Lynnwood",
+                        "file_path": "b007/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Special Evening",
+                        "file_path": "b007/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Afterglow",
+                        "file_path": "b007/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A New Threshold of Trust",
+                        "file_path": "b007/c001/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "A Very Hard Goodbye",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Two Separate Worlds",
+                        "file_path": "b007/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Soundtrack to a Heartbreak",
+                        "file_path": "b007/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Night in an Empty Room",
+                        "file_path": "b007/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The First Lifeline (Las Vegas)",
+                        "file_path": "b007/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Voice Across the Continent (Seattle)",
+                        "file_path": "b007/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Home Safe (Lynnwood)",
+                        "file_path": "b007/c002/p006.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 8,
+        "book_title": "Separate Coast, Separate Lives",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A Community College Beginning",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Student Development 101",
+                        "file_path": "b008/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Familiar Face",
+                        "file_path": "b008/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Coffee, and an Open Wound",
+                        "file_path": "b008/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Promise",
+                        "file_path": "b008/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Moving Fast",
+                        "file_path": "b008/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "How I Met Her Mother",
+                        "file_path": "b008/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Lifeline Offered",
+                        "file_path": "b008/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Presentation and the Aftermath",
+                        "file_path": "b008/c001/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The First Alarm Bell",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Doubt Starts to Form",
+                        "file_path": "b008/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Refusal",
+                        "file_path": "b008/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Call for Help",
+                        "file_path": "b008/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Confrontation",
+                        "file_path": "b008/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Debrief in the Dark",
+                        "file_path": "b008/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Debrief at Lisa Court",
+                        "file_path": "b008/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Morning Debrief",
+                        "file_path": "b008/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Love Bomb",
+                        "file_path": "b008/c002/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "Lingering Connections, Looming Threats (Fall 2003)",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Video Call Interruption",
+                        "file_path": "b008/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Dinner of Dissent",
+                        "file_path": "b008/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Slow Encroachment",
+                        "file_path": "b008/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "An Unstable Connection",
+                        "file_path": "b008/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Lifeline from Lynnwood",
+                        "file_path": "b008/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Vera's \"Rescue\" Mission",
+                        "file_path": "b008/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Secret Rebellion",
+                        "file_path": "b008/c003/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "The VDU Open House",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Cavalry Arrives",
+                        "file_path": "b008/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Return to Sanctuary",
+                        "file_path": "b008/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Safe Harbor",
+                        "file_path": "b008/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Taste of Normalcy",
+                        "file_path": "b008/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Night of Healing",
+                        "file_path": "b008/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Lifeline",
+                        "file_path": "b008/c004/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Bedtime Routine",
+                        "file_path": "b008/c004/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "A Safe Place to Land",
+                        "file_path": "b008/c004/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "An Early Start",
+                        "file_path": "b008/c004/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "Opening Remarks",
+                        "file_path": "b008/c004/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Campus Tour",
+                        "file_path": "b008/c004/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Residential Tour",
+                        "file_path": "b008/c004/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "The Thirteenth Floor",
+                        "file_path": "b008/c004/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "The Famous Fried Chicken",
+                        "file_path": "b008/c004/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Practicing for the Future",
+                        "file_path": "b008/c004/p015.md"
+                    },
+                    {
+                        "part_num": 16,
+                        "part_title": "Homework Sanctuary",
+                        "file_path": "b008/c004/p016.md"
+                    },
+                    {
+                        "part_num": 17,
+                        "part_title": "The Tender Shack",
+                        "file_path": "b008/c004/p017.md"
+                    },
+                    {
+                        "part_num": 18,
+                        "part_title": "The Second Video Call",
+                        "file_path": "b008/c004/p018.md"
+                    },
+                    {
+                        "part_num": 19,
+                        "part_title": "Starship Sentinels",
+                        "file_path": "b008/c004/p019.md"
+                    },
+                    {
+                        "part_num": 20,
+                        "part_title": "The Second Evening of Care",
+                        "file_path": "b008/c004/p020.md"
+                    },
+                    {
+                        "part_num": 21,
+                        "part_title": "A Morning of Trust",
+                        "file_path": "b008/c004/p021.md"
+                    },
+                    {
+                        "part_num": 22,
+                        "part_title": "The Heart-to-Heart",
+                        "file_path": "b008/c004/p022.md"
+                    },
+                    {
+                        "part_num": 23,
+                        "part_title": "The Aftermath",
+                        "file_path": "b008/c004/p023.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The Longest Road",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Vacuum",
+                        "file_path": "b008/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Thanksgiving Lie",
+                        "file_path": "b008/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Across the Country on a Pathfinder",
+                        "file_path": "b008/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Welcome to Hell, Welcome to Kent",
+                        "file_path": "b008/c005/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "Help is on the Way",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Desperate Call",
+                        "file_path": "b008/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Race to Kent",
+                        "file_path": "b008/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Confrontation and Choice",
+                        "file_path": "b008/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Drive to Lynnwood – Safety and Silence",
+                        "file_path": "b008/c006/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 7,
+                "chap_title": "A New Plan",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "An Urgent Call Home",
+                        "file_path": "b008/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "An Emergency Deep Cleaning – Restoring Dignity",
+                        "file_path": "b008/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "First Meal in Sanctuary – Simple Comforts",
+                        "file_path": "b008/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Healing Nap and a New Plan",
+                        "file_path": "b008/c007/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Quiet Thanksgiving",
+                        "file_path": "b008/c007/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 8,
+                "chap_title": "Reestablishing Alex’s Agency",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Quiet Conversation",
+                        "file_path": "b008/c008/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Clinic Visit and a Clean Slate",
+                        "file_path": "b008/c008/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Resuming Intimacy – The Afterglow Revisited",
+                        "file_path": "b008/c008/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Afterglow – A New Dawn, A Reclaimed Voice",
+                        "file_path": "b008/c008/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Weight of Certainty",
+                        "file_path": "b008/c008/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Homeward Bound for Graduation",
+                        "file_path": "b008/c008/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 9,
+                "chap_title": "The Journey Home",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Cavalry Arrives",
+                        "file_path": "b008/c009/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Gentle Deconstruction",
+                        "file_path": "b008/c009/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Shipping a Life",
+                        "file_path": "b008/c009/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Flight Home",
+                        "file_path": "b008/c009/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Sanctuary",
+                        "file_path": "b008/c009/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Magna Cum Laude",
+                        "file_path": "b008/c009/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Three-Way Escape Hatch",
+                        "file_path": "b008/c009/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 10,
+                "chap_title": "Winter Break Decisions",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Insurance Dilemma and a Loving Proposition",
+                        "file_path": "b008/c010/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Doctor's Verdict",
+                        "file_path": "b008/c010/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A New Foundation",
+                        "file_path": "b008/c010/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A New Normal",
+                        "file_path": "b008/c010/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Canadian Landing",
+                        "file_path": "b008/c010/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Day of Two Cultures",
+                        "file_path": "b008/c010/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Le Réveillon on Lisa Court",
+                        "file_path": "b008/c010/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Aftermath of the Feast",
+                        "file_path": "b008/c010/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "A Cross-Border Christmas",
+                        "file_path": "b008/c010/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "A Gift of Togetherness",
+                        "file_path": "b008/c010/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The American Christmas and a New Allegiance",
+                        "file_path": "b008/c010/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "A Rivalry is Born",
+                        "file_path": "b008/c010/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "A Quiet \"I Do\" for Practical Love",
+                        "file_path": "b008/c010/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "A Grocery Store Guardian",
+                        "file_path": "b008/c010/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Confrontation in ValueMart",
+                        "file_path": "b008/c010/p015.md"
+                    },
+                    {
+                        "part_num": 16,
+                        "part_title": "The Aftermath",
+                        "file_path": "b008/c010/p016.md"
+                    },
+                    {
+                        "part_num": 17,
+                        "part_title": "A Shared Secret",
+                        "file_path": "b008/c010/p017.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 9,
+        "book_title": "A Fresh Start",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A New Beginning",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Gearing Up",
+                        "file_path": "b009/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A New Sanctuary",
+                        "file_path": "b009/c001/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Final Severance",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Empty Seat",
+                        "file_path": "b009/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Confrontation on Lisa Court",
+                        "file_path": "b009/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Final, Desperate Call",
+                        "file_path": "b009/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Letter",
+                        "file_path": "b009/c002/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Unraveling Lie",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Family's Resolve",
+                        "file_path": "b009/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Demand",
+                        "file_path": "b009/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Truth in a Letter",
+                        "file_path": "b009/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Unraveling and The Aftermath",
+                        "file_path": "b009/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A New Beginning",
+                        "file_path": "b009/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Vera’s Reckoning – A Mother's Fury, A Daughter's Ruin",
+                        "file_path": "b009/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Un Avenir Sans Fardeau (A Future Unburdened)",
+                        "file_path": "b009/c003/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "Building the Sanctuary",
+                        "file_path": "b009/c003/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "A New Beginning",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Morning Commute",
+                        "file_path": "b009/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Different First Day",
+                        "file_path": "b009/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Conversation",
+                        "file_path": "b009/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "An Investment in the Future",
+                        "file_path": "b009/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Building a Foundation",
+                        "file_path": "b009/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Breaking Point",
+                        "file_path": "b009/c004/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The Apartment Hunt",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Excitement and the Learning Curve",
+                        "file_path": "b009/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Reality Check",
+                        "file_path": "b009/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Brush with Danger",
+                        "file_path": "b009/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Discovery",
+                        "file_path": "b009/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Project Freedom",
+                        "file_path": "b009/c005/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Shopping for a Van",
+                        "file_path": "b009/c005/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "Spring Break",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Quiet Day Trip",
+                        "file_path": "b009/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Family Investment",
+                        "file_path": "b009/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Domestic Details",
+                        "file_path": "b009/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Return to the Water",
+                        "file_path": "b009/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Quiet Before the Move",
+                        "file_path": "b009/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Three Musketeers",
+                        "file_path": "b009/c006/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 7,
+                "chap_title": "A New Home",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Keys",
+                        "file_path": "b009/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Look",
+                        "file_path": "b009/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Big Move",
+                        "file_path": "b009/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The First Night",
+                        "file_path": "b009/c007/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A New (Old) Trusted Friend",
+                        "file_path": "b009/c007/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 8,
+                "chap_title": "The Long Wait",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Marathon, Not a Sprint",
+                        "file_path": "b009/c008/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Technological Bandages",
+                        "file_path": "b009/c008/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Freedom Arrives",
+                        "file_path": "b009/c008/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Expected Rejection",
+                        "file_path": "b009/c008/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Fight Begins",
+                        "file_path": "b009/c008/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Fragile Sanctuary",
+                        "file_path": "b009/c008/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Aftermath",
+                        "file_path": "b009/c008/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Journey Home",
+                        "file_path": "b009/c008/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Approval",
+                        "file_path": "b009/c008/p009.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 10,
+        "book_title": "Young Adults, New Worlds",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "Standing Tall",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Delivery Day",
+                        "file_path": "b010/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Morning",
+                        "file_path": "b010/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The First Movie Night",
+                        "file_path": "b010/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A New Day on Campus",
+                        "file_path": "b010/c001/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Final Semester",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Power Couple of Campus",
+                        "file_path": "b010/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "An Unwavering Bond",
+                        "file_path": "b010/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Healthy Friendship",
+                        "file_path": "b010/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Final Push",
+                        "file_path": "b010/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Graduation Day",
+                        "file_path": "b010/c002/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Northern Road",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Launch",
+                        "file_path": "b010/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Journey North",
+                        "file_path": "b010/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Bienvenue au Québec (Welcome to Québec)",
+                        "file_path": "b010/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "An Aunt's Welcome and a Modern Warning",
+                        "file_path": "b010/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "An Aunt's Advice and a New Itinerary",
+                        "file_path": "b010/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Sweet Discovery",
+                        "file_path": "b010/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Walk Through a Changed Town",
+                        "file_path": "b010/c003/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "One Last Line to Cross",
+                        "file_path": "b010/c003/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "A Homecoming of the Heart",
+                        "file_path": "b010/c003/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "Navigating the City",
+                        "file_path": "b010/c003/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "Tensions at the Deli",
+                        "file_path": "b010/c003/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "A Quiet Day of Decompression",
+                        "file_path": "b010/c003/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "A Family Farewell",
+                        "file_path": "b010/c003/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "One Last Night in Canada",
+                        "file_path": "b010/c003/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Echoes on the Line",
+                        "file_path": "b010/c003/p015.md"
+                    },
+                    {
+                        "part_num": 16,
+                        "part_title": "A Taste of Vermont",
+                        "file_path": "b010/c003/p016.md"
+                    },
+                    {
+                        "part_num": 17,
+                        "part_title": "A New Dream on the Boardwalk",
+                        "file_path": "b010/c003/p017.md"
+                    },
+                    {
+                        "part_num": 18,
+                        "part_title": "The Long Road Home",
+                        "file_path": "b010/c003/p018.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "The Last Summer in Virginia",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Operation: Pacific Northwest",
+                        "file_path": "b010/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Quantum Opportunity",
+                        "file_path": "b010/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Great Commute Debate",
+                        "file_path": "b010/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Final Summit",
+                        "file_path": "b010/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Confirmation",
+                        "file_path": "b010/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Last Swim",
+                        "file_path": "b010/c004/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Weathering the Storm",
+                        "file_path": "b010/c004/p007.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 11,
+        "book_title": "Forging a Future",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Road West",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Launch",
+                        "file_path": "b011/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Open Road",
+                        "file_path": "b011/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Washington",
+                        "file_path": "b011/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Seattle",
+                        "file_path": "b011/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Home",
+                        "file_path": "b011/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Unpacking",
+                        "file_path": "b011/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The First Adventure",
+                        "file_path": "b011/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "A Day in the City",
+                        "file_path": "b011/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Welcome Home",
+                        "file_path": "b011/c001/p009.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The First Ecosystem",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Micro-Test",
+                        "file_path": "b011/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Setup (A Week Later)",
+                        "file_path": "b011/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Inhabitants",
+                        "file_path": "b011/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Quiet Success",
+                        "file_path": "b011/c002/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Evergreen Project",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Weekend Warriors",
+                        "file_path": "b011/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Beagle and the Blueprint",
+                        "file_path": "b011/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The First Test and a New Role",
+                        "file_path": "b011/c003/p003.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 12,
+        "book_title": "Chapter 4: Building the Foundation",
+        "chapters": [
+            {
+                "chap_num": 0,
+                "chap_title": "The Evergreen Project",
+                "parts": [
+                    {
+                        "part_num": 4,
+                        "part_title": "The Accessibility Specialist",
+                        "file_path": "b011/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Non-Profit Architects",
+                        "file_path": "b011/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Turning Point",
+                        "file_path": "b011/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Long Road to a Dream",
+                        "file_path": "b011/c003/p007.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 13,
+        "book_title": "Canada Winter Games",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A House Divided",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Matchup is Set",
+                        "file_path": "b013/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "La Taverne des Voyageurs",
+                        "file_path": "b013/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Spoils of Victory",
+                        "file_path": "b013/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Uniform of Defeat",
+                        "file_path": "b013/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Opening a Cross-Border Life",
+                        "file_path": "b013/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Preclearance Predicament",
+                        "file_path": "b013/c001/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Weight of Care, Revisited",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Accident",
+                        "file_path": "b013/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Different Kind of Hospital Visit",
+                        "file_path": "b013/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Long Road Ahead",
+                        "file_path": "b013/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Setback One - The Infection",
+                        "file_path": "b013/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Setback Two - The Catastrophe",
+                        "file_path": "b013/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Depths of Despair",
+                        "file_path": "b013/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Slow Path to Healing",
+                        "file_path": "b013/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Hospital Revelation",
+                        "file_path": "b013/c002/p008.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 14,
+        "book_title": "No Boundaries",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A Vision Takes Shape",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Blueprint of Home",
+                        "file_path": "b014/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Border of Our Own",
+                        "file_path": "b014/c001/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Northern Annex",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Peace Arch Crossing",
+                        "file_path": "b014/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Peak of the City",
+                        "file_path": "b014/c002/p002.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 15,
+        "book_title": "Our Real Beginning",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Vow, Revisited",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Proposition",
+                        "file_path": "b015/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Family Announcement",
+                        "file_path": "b015/c001/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Operation: Stanstead Wedding",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Boots on the Ground",
+                        "file_path": "b015/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Attire",
+                        "file_path": "b015/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Writing the Vows",
+                        "file_path": "b015/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Vow Script",
+                        "file_path": "b015/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Birth of an Idea",
+                        "file_path": "b015/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Prototype is Born",
+                        "file_path": "b015/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Brand is Born",
+                        "file_path": "b015/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Art Director",
+                        "file_path": "b015/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Boots on the Ground Report",
+                        "file_path": "b015/c002/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Point of No Return",
+                        "file_path": "b015/c002/p010.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Homecoming",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Journey East",
+                        "file_path": "b015/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Welcome to the Virginia Base Camp",
+                        "file_path": "b015/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Day in the Virginia Base Camp",
+                        "file_path": "b015/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Journey North",
+                        "file_path": "b015/c003/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "Le Grand Jour (The Big Day) (Saturday, October 9<sup>th</sup>, 2010)",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Les Préparatifs (Getting Ready)",
+                        "file_path": "b015/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "La Cérémonie (The Ceremony)",
+                        "file_path": "b015/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "La Réception (The Reception)",
+                        "file_path": "b015/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "La Première Danse (The First Dance)",
+                        "file_path": "b015/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Les Danses d'Honneur (The Dances of Honor)",
+                        "file_path": "b015/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "L'Unité Inséparable (The Unbreakable Unit)",
+                        "file_path": "b015/c004/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Les Discours (The Toasts)",
+                        "file_path": "b015/c004/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "La Coupe du Gâteau (The Cutting of the Cake)",
+                        "file_path": "b015/c004/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "La Poutine Célébratoire (The Celebratory Poutine)",
+                        "file_path": "b015/c004/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "La Dernière Danse (The Last Dance)",
+                        "file_path": "b015/c004/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "La Fin de la Soirée (The End of the Night)",
+                        "file_path": "b015/c004/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "Bonus Scene: A View from Portsmouth",
+                        "file_path": "b015/c004/p012.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "A Day in the Townships",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Morning After",
+                        "file_path": "b015/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Taste of the Townships",
+                        "file_path": "b015/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Promise to Return",
+                        "file_path": "b015/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Honeymoon",
+                        "file_path": "b015/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Departure",
+                        "file_path": "b015/c005/p005.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 16,
+        "book_title": "Needs a Name",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Revenge of the Brawlers",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Boston Showdown",
+                        "file_path": "b016/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Boston Victory Parade",
+                        "file_path": "b016/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Long Drive of Shame (The Next Day)",
+                        "file_path": "b016/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Breakfast with the Enemy",
+                        "file_path": "b016/c001/p004.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 17,
+        "book_title": "COVID",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Great Unraveling",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The World Shuts Down",
+                        "file_path": "b017/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Race to the Border",
+                        "file_path": "b017/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Stranded in Vermont",
+                        "file_path": "b017/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Airport and the Call",
+                        "file_path": "b017/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Rescue Mission",
+                        "file_path": "b017/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Virginia Haven",
+                        "file_path": "b017/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "An Unexpected Family Lockdown",
+                        "file_path": "b017/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Cross-Country Problem",
+                        "file_path": "b017/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Long Road Home",
+                        "file_path": "b017/c001/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "A Birthday in Lockdown",
+                        "file_path": "b017/c001/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "A Full House",
+                        "file_path": "b017/c001/p011.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Longest Two Weeks",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The First Sign",
+                        "file_path": "b017/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Diagnosis",
+                        "file_path": "b017/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Lockdown Within the Lockdown",
+                        "file_path": "b017/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Fever Breaks",
+                        "file_path": "b017/c002/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "A World Reopened",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The New Normal",
+                        "file_path": "b017/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Venture Out",
+                        "file_path": "b017/c003/p002.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 18,
+        "book_title": "A Dream Built",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "The Great Focus",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Leap of Faith",
+                        "file_path": "b018/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Grant",
+                        "file_path": "b018/c001/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "A Winter Homecoming",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Much-Needed Breather",
+                        "file_path": "b018/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Return",
+                        "file_path": "b018/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Boxing Day Mission",
+                        "file_path": "b018/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Architect Returns",
+                        "file_path": "b018/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "A Mission Solidified",
+                        "file_path": "b018/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Return to Lynnwood",
+                        "file_path": "b018/c002/p006.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Great Focus",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Call and the Land",
+                        "file_path": "b018/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "From Blueprint to Reality",
+                        "file_path": "b018/c003/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "Echoes and Reunions",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The 20-Year Reunion",
+                        "file_path": "b018/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A New Home Base",
+                        "file_path": "b018/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Debriefing",
+                        "file_path": "b018/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Next Platform",
+                        "file_path": "b018/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Flight Home",
+                        "file_path": "b018/c004/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The New Workshop",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Cross-Platform Future",
+                        "file_path": "b018/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Prototype",
+                        "file_path": "b018/c005/p002.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "From the Ground Up",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Montage of Progress",
+                        "file_path": "b018/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The First Enterprise",
+                        "file_path": "b018/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Acceleration",
+                        "file_path": "b018/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Living Building",
+                        "file_path": "b018/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Physical Toll",
+                        "file_path": "b018/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A New Horizon",
+                        "file_path": "b018/c006/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Rejection",
+                        "file_path": "b018/c006/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Rejection Letter",
+                        "file_path": "b018/c006/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 7,
+                "chap_title": "Bridges of Understanding",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "An Unexpected Encounter",
+                        "file_path": "b018/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "A Family Reunited, A Tour Begins",
+                        "file_path": "b018/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Directors’ Work",
+                        "file_path": "b018/c007/p003.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 19,
+        "book_title": "The Long Quiet *(Working Title)*",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "A Future in the Townships",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Quiet Question",
+                        "file_path": "b019/c001/p001.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 20,
+        "book_title": "The Final Chapter",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "Forever Yours",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "A Conscious Goodbye",
+                        "file_path": "b020/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Last Wishes",
+                        "file_path": "b020/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Last Goodbye",
+                        "file_path": "b020/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "A Promise Kept",
+                        "file_path": "b020/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Last Guardian",
+                        "file_path": "b020/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A Service for Three",
+                        "file_path": "b020/c001/p006.md"
+                    }
+                ]
+            }
+        ]
+    }
 ]
