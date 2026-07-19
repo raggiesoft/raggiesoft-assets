@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-05-08
-* **Generated On:** 06-20-2026 09:34:02 PM
-* **Master File Located At:** ../../wav/3-10-the-twin-suns-hearth-epilogue.wav
+* **Generated On:** 07-18-2026 09:10:30 PM
+* **Master File Located At:** ../../vault/wav/3-10-the-twin-suns-hearth-epilogue.wav
 
 ## Distribution & AI Disclosure Notes
 

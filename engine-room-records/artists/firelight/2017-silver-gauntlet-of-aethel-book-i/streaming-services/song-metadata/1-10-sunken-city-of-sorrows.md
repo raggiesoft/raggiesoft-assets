@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-04-24
-* **Generated On:** 06-20-2026 09:28:02 PM
-* **Master File Located At:** ../../wav/1-10-sunken-city-of-sorrows.wav
+* **Generated On:** 07-18-2026 09:04:32 PM
+* **Master File Located At:** ../../vault/wav/1-10-sunken-city-of-sorrows.wav
 
 ## Distribution & AI Disclosure Notes
 

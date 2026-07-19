@@ -11,7 +11,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:49"
     },
     {
       "fileName": "1-02-a-prophecy-unfolds",
@@ -24,7 +25,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:34"
     },
     {
       "fileName": "1-03-strangers-in-the-stream",
@@ -37,7 +39,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:25"
     },
     {
       "fileName": "1-04-the-masquerade",
@@ -50,7 +53,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:08"
     },
     {
       "fileName": "1-05-fractured-prisms",
@@ -63,7 +67,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:54"
     },
     {
       "fileName": "1-06-mirrors-of-yesterday",
@@ -76,7 +81,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:29"
     },
     {
       "fileName": "1-07-the-fading-spark",
@@ -89,7 +95,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "3:27"
     },
     {
       "fileName": "1-08-kaleidoscope-sun",
@@ -102,7 +109,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "Fan Anthem",
-      "loreNote": "Released on Fractured Prism's self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: 'We hear you, and we're getting you out now.'"
+      "loreNote": "Released on Fractured Prism's self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: 'We hear you, and we're getting you out now.'",
+      "duration": "5:08"
     },
     {
       "fileName": "1-09-the-silent-storm",
@@ -115,7 +123,8 @@
       "suiteName": "",
       "suiteTrack": "",
       "legacyTier": "",
-      "loreNote": ""
+      "loreNote": "",
+      "duration": "4:59"
     }
   ]
 }

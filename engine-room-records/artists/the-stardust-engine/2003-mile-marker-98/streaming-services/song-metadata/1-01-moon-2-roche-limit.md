@@ -17,9 +17,9 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2003-10-10
-* **Real-World DSP Release Date:** 2026-06-20
-* **Generated On:** 06-20-2026 11:14:53 PM
-* **Master File Located At:** ../../wav/1-01-moon-2-roche-limit.wav
+* **Real-World DSP Release Date:** 2026-07-18
+* **Generated On:** 07-18-2026 11:17:59 PM
+* **Master File Located At:** ../../vault/wav/1-01-moon-2-roche-limit.wav
 
 ## Distribution & AI Disclosure Notes
 

@@ -21,8 +21,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
 * **Real-World DSP Release Date:** 2026-08-01
-* **Generated On:** 06-25-2026 06:28:21 AM
-* **Master File Located At:** ../../wav/2-14-the-eleventh-child-a-gauntlet-of-hearts.wav
+* **Generated On:** 07-18-2026 09:52:47 PM
+* **Master File Located At:** ../../vault/wav/2-14-the-eleventh-child-a-gauntlet-of-hearts.wav
 
 ## Distribution & AI Disclosure Notes
 

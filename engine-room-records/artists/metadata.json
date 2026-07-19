@@ -1,5 +1,392 @@
 [
   {
+    "id": "2-01-hunter-and-the-hunted",
+    "title": "Hunter and the Hunted",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-02-a-cage-of-silver-light",
+    "title": "A Cage of Silver Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-03-trial-of-the-crystal-spiders",
+    "title": "Trial of the Crystal Spiders",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-04-seeds-of-rebellion",
+    "title": "Seeds of Rebellion",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-05-the-tyrants-throne",
+    "title": "The Tyrant's Throne (Shadow's Heart)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-06-sacrifice-or-queen",
+    "title": "Sacrifice or Queen?",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-07-the-silverwings-flight",
+    "title": "The Silverwing's Flight",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-08-guardian-of-the-bridge",
+    "title": "Guardian of the Bridge",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-09-the-bridge-of-a-thousand-truths",
+    "title": "The Bridge of a Thousand Truths",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-10-i-cant-live-without-you",
+    "title": "I Can't Live Without You (Kaela's Theme)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-11-a-path-of-light",
+    "title": "A Path of Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gaultlet-of-aethel-book-ii",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-01-a-sisters-love",
+    "title": "A Sister's Love (Main Theme)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-02-the-scholar-of-the-twin-suns",
+    "title": "The Scholar of the Twin Suns",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-03-the-heresy-of-order",
+    "title": "The Heresy of Order",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-04-flight-of-the-guardians",
+    "title": "Flight of the Guardians",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-05-the-northern-wastes",
+    "title": "The Northern Wastes",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-06-foundlings-of-sunstead",
+    "title": "Foundlings of Sunstead",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-07-hearth-song-lullaby",
+    "title": "Hearth-Song (Lullaby)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-08-the-abduction",
+    "title": "The Abduction",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-09-one-step-at-a-time",
+    "title": "One Step at a Time (The Gauntlet's Path)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-10-sunken-city-of-sorrows",
+    "title": "Sunken City of Sorrows",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-11-the-whispering-woods",
+    "title": "The Whispering Woods",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-01-hunter-and-the-hunted",
+    "title": "Hunter and the Hunted",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-02-a-cage-of-silver-light",
+    "title": "A Cage of Silver Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-03-trial-of-the-crystal-spiders",
+    "title": "Trial of the Crystal Spiders",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-04-seeds-of-rebellion",
+    "title": "Seeds of Rebellion",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-05-the-tyrants-throne",
+    "title": "The Tyrant's Throne (Shadow's Heart)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-06-sacrifice-or-queen",
+    "title": "Sacrifice or Queen?",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-07-the-silverwings-flight",
+    "title": "The Silverwing's Flight",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-08-guardian-of-the-bridge",
+    "title": "Guardian of the Bridge",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-09-the-bridge-of-a-thousand-truths",
+    "title": "The Bridge of a Thousand Truths",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-10-i-cant-live-without-you",
+    "title": "I Can't Live Without You (Kaela's Theme)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-11-a-path-of-light",
+    "title": "A Path of Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-01-embers-of-hope",
+    "title": "Embers of Hope",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-02-hall-of-shattered-heroes",
+    "title": "Hall of Shattered Heroes",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-03-the-ascent",
+    "title": "The Ascent",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-04-reunion-the-highest-tower",
+    "title": "Reunion (The Highest Tower)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-05-battle-of-wills",
+    "title": "Battle of Wills",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-06-an-empathetic-victory",
+    "title": "An Empathetic Victory",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-07-a-new-dawn-finale",
+    "title": "A New Dawn (Finale)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-08-the-long-road-home",
+    "title": "The Long Road Home",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-09-the-stewards-law",
+    "title": "The Steward's Law",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-10-the-twin-suns-hearth-epilogue",
+    "title": "The Twin Suns' Hearth (Epilogue)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2017-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
     "id": "1-01-a-sisters-love",
     "title": "A Sister's Love (Main Theme)",
     "artist": "Firelight",
@@ -288,6 +675,294 @@
     "content": ""
   },
   {
+    "id": "1-01-a-sisters-love",
+    "title": "A Sister's Love (Main Theme)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-02-the-scholar-of-the-twin-suns",
+    "title": "The Scholar of the Twin Suns",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-03-the-heresy-of-order",
+    "title": "The Heresy of Order",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-04-flight-of-the-guardians",
+    "title": "Flight of the Guardians",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-05-the-northern-wastes",
+    "title": "The Northern Wastes",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-06-foundlings-of-sunstead",
+    "title": "Foundlings of Sunstead",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-07-hearth-song-lullaby",
+    "title": "Hearth-Song (Lullaby)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-08-the-abduction",
+    "title": "The Abduction",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-09-one-step-at-a-time",
+    "title": "One Step at a Time (The Gauntlet's Path)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-10-sunken-city-of-sorrows",
+    "title": "Sunken City of Sorrows",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-11-the-whispering-woods",
+    "title": "The Whispering Woods",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-01-hunter-and-the-hunted",
+    "title": "Hunter and the Hunted",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-02-a-cage-of-silver-light",
+    "title": "A Cage of Silver Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-03-trial-of-the-crystal-spiders",
+    "title": "Trial of the Crystal Spiders",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-04-seeds-of-rebellion",
+    "title": "Seeds of Rebellion",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-05-the-tyrants-throne",
+    "title": "The Tyrant's Throne (Shadow's Heart)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-06-sacrifice-or-queen",
+    "title": "Sacrifice or Queen?",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-07-the-silverwings-flight",
+    "title": "The Silverwing's Flight",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-08-guardian-of-the-bridge",
+    "title": "Guardian of the Bridge",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-09-the-bridge-of-a-thousand-truths",
+    "title": "The Bridge of a Thousand Truths",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-10-i-cant-live-without-you",
+    "title": "I Can't Live Without You (Kaela's Theme)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "2-11-a-path-of-light",
+    "title": "A Path of Light",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-01-embers-of-hope",
+    "title": "Embers of Hope",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-02-hall-of-shattered-heroes",
+    "title": "Hall of Shattered Heroes",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-03-the-ascent",
+    "title": "The Ascent",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-04-reunion-the-highest-tower",
+    "title": "Reunion (The Highest Tower)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-05-battle-of-wills",
+    "title": "Battle of Wills",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-06-an-empathetic-victory",
+    "title": "An Empathetic Victory",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-07-a-new-dawn-finale",
+    "title": "A New Dawn (Finale)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-08-the-long-road-home",
+    "title": "The Long Road Home",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-09-the-stewards-law",
+    "title": "The Steward's Law",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "3-10-the-twin-suns-hearth-epilogue",
+    "title": "The Twin Suns' Hearth (Epilogue)",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/firelight/albums/2025-silver-gauntlet-of-aethel",
+    "type": "track",
+    "content": ""
+  },
+  {
     "id": "1-01-the-hollow-square",
     "title": "The Hollow Square",
     "artist": "Fractured Prisms",
@@ -367,6 +1042,87 @@
     "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-carnaby-street",
     "type": "track",
     "content": "**LORE NOTE:**\r\n\"The Silent Storm\" serves as the cinematic, deeply intimate closer to *Carnaby Street*. The frantic tension of the album's earlier tracks finally breaks, leaving only a slow, open grand piano and sweeping synthesizer pads. The lyrics gently lay the ghosts of the Manning Family Orchestra to rest (\"The orchestra has gone to sleep / And gave us promises to keep\").\r\n\r\nBehind the scenes, this was an agonizing track for the siblings to finish. Claire, who is autistic and processes emotional and sensory input with intense depth, experienced several meltdowns during the refinement of this song. Stripped of the mechanical, driving drum machines that usually anchored her, the overwhelming emotional resonance of the music—and the finality of letting the grief go—was frequently too much to bear. It remains a difficult, but profoundly peaceful, track to listen to, representing the moment the siblings finally found their sanctuary.\r\n\r\n**LYRICS:**\r\n\r\n*(Vocal Style: British Pop, male and female duet, intimate, slow)*\r\n\r\n[Intro]\r\n*(A solitary, echoing grand piano plays a slow, open chord progression)*\r\n*(Wide, warm analog synthesizer pads slowly rise like dawn)*\r\n*(The 'Safe Harbor' flute plays a soft, comforting melody)*\r\n\r\n[Verse 1]\r\n*(Vocals are gentle, close to the microphone)*\r\nThe wind has dropped beyond the trees\r\nA sudden calm upon the seas\r\nWe watched the lightning strike the ground\r\nBut now there is no other sound\r\nThe broken glass is swept away\r\nTo leave us in the light of day\r\n\r\n[Chorus]\r\n*(The synths swell warmly, no heavy drums, just a soft pulse)*\r\nAnd we are walking in the silent storm...\r\nWaiting for the water to keep us warm...\r\nThe empty space is just a shape we leave behind\r\nA quiet place for us to finally find!\r\nIn the silent storm...\r\n\r\n[Verse 2]\r\n*(The flute weaves gently around the vocal lines)*\r\nYou fold the papers, close the door\r\nWe don't need answers anymore\r\nThe orchestra has gone to sleep\r\nAnd gave us promises to keep\r\nWe crossed the ocean in the dark\r\nTo rescue one remaining spark\r\n\r\n[Chorus]\r\n*(The duet vocals soar, backed by massive, majestic synth pads)*\r\nAnd we are walking in the silent storm...\r\nWaiting for the water to keep us warm...\r\nThe empty space is just a shape we leave behind\r\nA quiet place for us to finally find!\r\nIn the silent storm!\r\n\r\n[Bridge]\r\n*(The music drops to just the piano and the two voices in unison)*\r\nThe true light gleams...\r\nIt always gleams...\r\nWe wake up from the shattered dreams...\r\n\r\n[Instrumental Break - The Final Resolution]\r\n*(A slow, majestic crescendo of sweeping strings, piano, and the flute)*\r\n*(It is triumphant, but deeply emotional and peaceful)*\r\n\r\n[Outro]\r\n*(The music begins a very long, slow fade out)*\r\n*(Rhys and Claire trade soft vocal echoes)*\r\nThe silent storm...\r\nThe true light gleams...\r\n*(The flute takes over, playing the 'Safe Harbor' theme one last time)*\r\n*(Fading... fading...)*\r\n*(Only the sound of a distant, warm synth pad remains)*\r\n*(Fade to absolute silence)*"
+  },
+  {
+    "id": "1-01-the-hollow-square",
+    "title": "The Hollow Square",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-02-a-prophecy-unfolds",
+    "title": "A Prophecy Unfolds",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-03-strangers-in-the-stream",
+    "title": "Strangers in the Stream",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-04-the-masquerade",
+    "title": "The Masquerade",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-05-fractured-prisms",
+    "title": "Fractured Prisms",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-06-mirrors-of-yesterday",
+    "title": "Mirrors of Yesterday",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-07-the-fading-spark",
+    "title": "The Fading Spark",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
+  },
+  {
+    "id": "1-08-kaleidoscope-sun",
+    "title": "Kaleidoscope Sun",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": "**LORE NOTE:**\r\nReleased on **Origin's** self-titled 1983 album. This track features a distinctive, poignant flute melody at the 2:22 mark. In the extended lore of the universe, Luna uses this exact melody—either played on her physical flute or simply hummed—as a non-verbal safety signal for her brother, Leo, communicating: *\"We hear you, and we're getting you out now.\"*\r\n\r\n**LYRICS:**\r\n\r\n[Intro]\r\n*(Begins with a distinctive, slightly melancholic keyboard arpeggio, joined by a driving bassline and crisp drumming. A soaring guitar melody enters, then fades as Rhys Manning's vocals begin.)*\r\n\r\n[Verse 1]\r\nThe city sleeps in shades of grey, another dawn begins\r\nAnother street, another day, where no one ever wins\r\nA hollow echo in the square, a promise whispered low\r\nOf somewhere else, beyond compare, a place where true things grow.\r\nThe faces blur, a passing stream, a river deep and wide\r\nLost in a half-forgotten dream, where do the lost ones hide?\r\n\r\n[Chorus]\r\n*(Music swells, becoming more layered, with harmonies. The tempo lifts slightly.)*\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Short Instrumental Break]\r\n*(This is where the specific, brief, and distinctive FLUTE MELODY plays. It is poignant, clear, and memorable—the exact melody Luna uses as Leo's lifeline.)*\r\n\r\n[Verse 2]\r\nWe chase the shadows on the wall, illusions that we build\r\nAfraid to leap, afraid to fall, a prophecy fulfilled.\r\nThe painted smiles, a masquerade, to hide the fading spark\r\nA fragile fortress we have made, against the growing dark.\r\nBut in the distance, I can see a shimmer in the air\r\nA different kind of mystery, a world beyond compare.\r\n\r\n[Chorus]\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Bridge]\r\n*(Music becomes more atmospheric, layered keyboards, a searching guitar line, and more prominent bass. Tempo slows slightly before building again.)*\r\nThrough fractured prisms, light divides, in patterns sharp and bright\r\nA thousand paths, where fate presides, between the day and night.\r\nIs it a vision, just a trace? A trick of weary eyes?\r\nOr is there truly such a place, beneath those shifting skies?\r\nA shelter from the endless rain, a refuge from the cold…\r\nA story waiting to unfold, a legend to be told.\r\n\r\n[Instrumental Section]\r\n*(A prominent keyboard solo and a soaring guitar lead interlock, building in intensity. The flute melody is subtly re-incorporated and echoed here.)*\r\n\r\n[Chorus]\r\nDo you hear it?\r\nA whisper on the wind, a melody so clear?\r\n*(Keyboard flourish, echoing a flute-like sound)*\r\n(Oh, the true light gleams...)\r\nWill you come back?\r\nTo where the true light gleams, and home is always near?\r\n\r\n[Outro]\r\n*(Music begins to fade, the initial keyboard arpeggio returning. Rhys Manning's voice becomes softer, more distant)*\r\nHome is always near...\r\nKaleidoscope Sun...\r\n*(The distinctive flute melody plays one last time, very softly, as the song fades to silence)*"
+  },
+  {
+    "id": "1-09-the-silent-storm",
+    "title": "The Silent Storm",
+    "artist": "",
+    "album": "",
+    "url": "C:/Program Files/Git/engine-room/artists/fractured-prisms/albums/1983-fractured-prisms",
+    "type": "track",
+    "content": ""
   },
   {
     "id": "1-01-nineteen-and-invincible",

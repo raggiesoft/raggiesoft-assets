@@ -17,9 +17,9 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
-* **Real-World DSP Release Date:** 2026-06-20
-* **Generated On:** 06-20-2026 11:17:35 PM
-* **Master File Located At:** ../../wav/04-ill-be-your-home.wav.wav
+* **Real-World DSP Release Date:** 2026-07-18
+* **Generated On:** 07-18-2026 11:20:30 PM
+* **Master File Located At:** ../../vault/wav/04-ill-be-your-home.wav.wav
 
 ## Distribution & AI Disclosure Notes
 

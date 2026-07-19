@@ -308,6 +308,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             --arg artist "$ALBUM_ARTIST" \
             --arg slug "$ARTIST_SLUG" \
             --arg album "$ALBUM_NAME" \
+            --arg album_slug "$ALBUM_SLUG" \
+            --arg file_base "$FILE_BASE" \
             --arg r_date "$REAL_RELEASE_DATE" \
             --arg status "$RELEASE_STATUS" \
             --arg owner "Michael P. Ragsdale / RaggieSoft" \
@@ -322,6 +324,8 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 albumTitle: $album, 
                 artistPersona: $artist,
                 artistSlug: $slug,
+                albumSlug: $album_slug,
+                trackSlug: $file_base,
                 legalOwner: $owner, 
                 distributor: $distro, 
                 aiClearance: $ai, 
@@ -334,7 +338,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         # --- VAULT AUDIO PULL LOGIC ---
         MASTER_DIR="../master-wav" 
         SOURCE_WAV="$MASTER_DIR/$MASTER_WAV_PATH.wav"
-        LOCAL_WAV="wav/${FILE_BASE}.wav"
+        LOCAL_WAV="vault/wav/${FILE_BASE}.wav"
         RUNTIME=""
 
         # Ensure WAV exists BEFORE indexing the track
@@ -349,7 +353,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             if [ "$METADATA_ONLY" = false ]; then
                 if [ ! -f "$LOCAL_WAV" ] || [ "$OVERWRITE" = true ]; then
                     echo "         -> 💾 Pulling $MASTER_WAV_PATH from the vault to $LOCAL_WAV..."
-                    mkdir -p wav
+                    mkdir -p vault/wav
                     cp "$SOURCE_WAV" "$LOCAL_WAV"
                 fi
             fi
@@ -405,7 +409,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
 * **Fictional Narrative Release Date:** $NARRATIVE_DATE
 * **Real-World DSP Release Date:** $REAL_RELEASE_DATE
 * **Generated On:** $CURRENT_DATETIME
-* **Master File Located At:** ../../wav/${FILE_BASE}.wav
+* **Master File Located At:** ../../vault/wav/${FILE_BASE}.wav
 
 ## Distribution & AI Disclosure Notes
 
@@ -601,7 +605,7 @@ EOF
             mkdir -p vault/archives/staging_wav/lyrics
             mkdir -p vault/archives/staging_wav/metadata
             
-            cp wav/*.wav vault/archives/staging_wav/
+            cp vault/wav/*.wav vault/archives/staging_wav/
             cp streaming-services/song-metadata/*.md vault/archives/staging_wav/metadata/ 2>/dev/null
             cp "$README_FILE" vault/archives/staging_wav/
             [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_wav/

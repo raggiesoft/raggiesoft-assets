@@ -2,27 +2,30 @@
 
 ## Core Track Information
 * **Track Title:** Mirrors of Yesterday
-* **Engine Room ID:** ERR-002-1983-106
+* **Engine Room ID:** ERR-999--106
 * **ISRC:** QZWFJ2690391
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:29
-* **Album / Release Title:** Fractured Prisms
+* **Album / Release Title:** 
+* **Release Type:** AlbumRelease
+* **Production Type:** StudioAlbum
 * **Disc Number:** 1
 * **Track Number:** 6
-* **Primary Artist (Release Persona):** Fractured Prisms
+* **Primary Artist (Release Persona):** 
 * **Real-World / Legal Artist:** Michael P. Ragsdale
 * **Genre:** Progressive Rock / Art Pop
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
-* **Fictional Narrative Release Date:** 1983-10-03
-* **Real-World DSP Release Date:** 2026-04-10
-* **Generated On:** 04-20-2026 05:18:07 PM
-* **Master File Located At:** ../../wav/1-06-mirrors-of-yesterday.wav
+* **Fictional Narrative Release Date:** 
+* **Real-World DSP Release Date:** 2026-07-18
+* **Generated On:** 07-18-2026 09:24:04 PM
+* **Master File Located At:** ../../vault/wav/1-06-mirrors-of-yesterday.wav
 
 ## Distribution & AI Disclosure Notes
 
 **1. Rights & Clearances**
 * **Commercial Rights:** 100% cleared. Generated using a commercial-tier Suno Premium subscription.
-* **Copyright Ownership:** The underlying narrative, lyrics, and the 'Fractured Prisms' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution.
+* **Copyright Ownership:** The underlying narrative, lyrics, and the '' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution.
 * **Impersonation/Voice Cloning:** NONE. All vocals are entirely synthetic and do not clone, mimic, or impersonate any real-world artist or person.
 
 **2. Creative Process & Human Contribution**

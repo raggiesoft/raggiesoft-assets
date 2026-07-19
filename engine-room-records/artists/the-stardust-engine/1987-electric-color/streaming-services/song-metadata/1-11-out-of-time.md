@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1987-08-25
 * **Real-World DSP Release Date:** 2026-03-29
-* **Generated On:** 06-20-2026 10:05:43 PM
-* **Master File Located At:** ../../wav/1-11-out-of-time.wav
+* **Generated On:** 07-18-2026 10:14:03 PM
+* **Master File Located At:** ../../vault/wav/1-11-out-of-time.wav
 
 ## Distribution & AI Disclosure Notes
 

@@ -17,9 +17,9 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-11-20
-* **Real-World DSP Release Date:** 2026-06-20
-* **Generated On:** 06-20-2026 09:43:53 PM
-* **Master File Located At:** ../../wav/1-15-a-night-in-kent.wav
+* **Real-World DSP Release Date:** 2026-07-18
+* **Generated On:** 07-18-2026 09:31:55 PM
+* **Master File Located At:** ../../vault/wav/1-15-a-night-in-kent.wav
 
 ## Distribution & AI Disclosure Notes
 

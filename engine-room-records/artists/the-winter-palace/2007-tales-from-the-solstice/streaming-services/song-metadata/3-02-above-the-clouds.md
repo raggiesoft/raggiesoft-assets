@@ -17,9 +17,9 @@
 * **Explicit Content:** No (Clean)
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2007
-* **Real-World DSP Release Date:** 2026-06-20
-* **Generated On:** 06-20-2026 11:17:46 PM
-* **Master File Located At:** ../../wav/3-02-above-the-clouds.wav
+* **Real-World DSP Release Date:** 2026-07-18
+* **Generated On:** 07-18-2026 11:20:40 PM
+* **Master File Located At:** ../../vault/wav/3-02-above-the-clouds.wav
 
 ## Distribution & AI Disclosure Notes
 

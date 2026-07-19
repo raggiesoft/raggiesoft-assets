@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2001-10-30
 * **Real-World DSP Release Date:** 2026-05-01
-* **Generated On:** 06-20-2026 11:05:11 PM
-* **Master File Located At:** ../../wav/1-12-neon-pulse-12-inch-extended-club-mix.wav
+* **Generated On:** 07-18-2026 11:09:02 PM
+* **Master File Located At:** ../../vault/wav/1-12-neon-pulse-12-inch-extended-club-mix.wav
 
 ## Distribution & AI Disclosure Notes
 

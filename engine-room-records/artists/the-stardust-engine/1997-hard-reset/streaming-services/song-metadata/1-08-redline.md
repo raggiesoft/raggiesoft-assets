@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1997-11-18
 * **Real-World DSP Release Date:** 2026-04-05
-* **Generated On:** 06-20-2026 10:52:07 PM
-* **Master File Located At:** ../../wav/1-08-redline.wav
+* **Generated On:** 07-18-2026 10:57:14 PM
+* **Master File Located At:** ../../vault/wav/1-08-redline.wav
 
 ## Distribution & AI Disclosure Notes
 

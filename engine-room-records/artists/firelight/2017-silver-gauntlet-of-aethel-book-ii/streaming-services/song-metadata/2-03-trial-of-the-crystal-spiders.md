@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-04-24
-* **Generated On:** 06-20-2026 09:31:08 PM
-* **Master File Located At:** ../../wav/2-03-trial-of-the-crystal-spiders.wav
+* **Generated On:** 07-18-2026 09:07:36 PM
+* **Master File Located At:** ../../vault/wav/2-03-trial-of-the-crystal-spiders.wav
 
 ## Distribution & AI Disclosure Notes
 

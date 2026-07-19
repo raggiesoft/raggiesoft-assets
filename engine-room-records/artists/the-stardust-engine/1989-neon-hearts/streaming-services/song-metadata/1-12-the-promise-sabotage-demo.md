@@ -18,8 +18,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1989-04-18
 * **Real-World DSP Release Date:** 2026-03-31
-* **Generated On:** 06-20-2026 10:13:34 PM
-* **Master File Located At:** ../../wav/1-12-the-promise-sabotage-demo.wav
+* **Generated On:** 07-18-2026 10:21:34 PM
+* **Master File Located At:** ../../vault/wav/1-12-the-promise-sabotage-demo.wav
 
 ## Distribution & AI Disclosure Notes
 

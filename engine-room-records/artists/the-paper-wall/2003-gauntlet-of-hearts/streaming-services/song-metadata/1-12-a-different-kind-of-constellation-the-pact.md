@@ -21,8 +21,8 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 
 * **Real-World DSP Release Date:** 2026-08-01
-* **Generated On:** 06-25-2026 06:28:21 AM
-* **Master File Located At:** ../../wav/1-12-a-different-kind-of-constellation-the-pact.wav
+* **Generated On:** 07-18-2026 09:52:47 PM
+* **Master File Located At:** ../../vault/wav/1-12-a-different-kind-of-constellation-the-pact.wav
 
 ## Distribution & AI Disclosure Notes
 
