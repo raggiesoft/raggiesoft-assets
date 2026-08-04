@@ -1,0 +1,44 @@
+# Part 6: The Fortress (4:10 PM)
+
+Evelyn turned the sedan into the familiar driveway, the tires crunching softly against the concrete before the engine finally cut off. The sudden silence in the car was heavy, marking the absolute end of the extraction. They were home.
+
+As Sarah retrieved the manual wheelchair from the trunk and brought it around to the passenger door, a profound, defensive shift occurred inside Nate’s brain. With a heavy, echoing finality, Nate slammed his mental door completely shut, throwing every psychological deadbolt he possessed. The perimeter shrank from the city, down to the property line, down to the physical walls of the house.
+
+The world outside was hostile, unpredictable, and crawling with threats. Inside that mental vault, the guest list was permanently restricted to two people: Evelyn and Sarah.
+
+The trauma of Valerie’s physical manipulation—the rough handling, the forced proximity, the transactional nature of her touch—had left his nervous system utterly frayed. His skin felt electrified, buzzing with a deeply ingrained haphephobia. The mere thought of a stranger, an extended relative, or even a well-meaning friend brushing against his shoulder made his stomach violently twist. He was terrified of being touched.
+
+Except by Sarah.
+
+When Sarah reached into the car to help him smoothly transfer into the wheelchair, he didn't flinch. Her hands were steady, clinical, and completely devoid of demands. She was the only exception to the lockdown. She was the only person allowed to touch him, hug him, or share his space, because her presence was the only thing that didn't feel like a cage.
+
+Sarah pushed the chair up the ramp and through the front door. The familiar scent of the main house hit Nate’s senses, and with it came a sudden, terrifying realization that stole the air right out of his lungs.
+
+He stopped the wheels with the palms of his hands right in the middle of the foyer. "Sarah," Nate gasped, his chest heaving as fresh, hot tears immediately spilled over his eyelashes.
+
+"What is it? What's wrong?" Sarah was in front of him in a second, crouching down to meet his eye level. Evelyn quickly locked the front door behind them, instantly alert.
+
+"My medicine," Nate sobbed, the sheer horror of the logistical reality crashing down on him. "Valerie packed my bag... she rushed me. I didn't have my medicine with me."
+
+The blood drained from Sarah’s face as she understood exactly what he meant.
+
+"I would have gotten on that bus," Nate cried, his voice breaking entirely as he grabbed the sleeves of Sarah's jacket, weeping openly. "A three-day bus ride to Los Angeles. I didn't have my cerebral palsy medication. I didn't have my ADHD medication. Sarah, my muscles... the spasticity would have locked my legs up by the time we hit the state line. I wouldn't have been able to move. I wouldn't have been able to think."
+
+He was crying so hard his shoulders shook, completely overwhelmed by how close he had come to a medical emergency while trapped in a moving metal tube with his abuser. Without his CP muscle relaxers, the physical agony of sitting in a cramped bus seat for three days would have been torturous. Without his ADHD medication, his executive function and emotional regulation would have completely collapsed under Valerie's psychological warfare. He would have been completely incapacitated, entirely at her mercy.
+
+"Hey, look at me," Sarah said fiercely. She didn't hesitate. She wrapped her arms around his shaking frame, pulling him into a crushing, unyielding hug. Nate buried his face in her shoulder, gripping her jacket like a lifeline.
+
+As he sobbed against his sister, the cruel irony of his shattered reality stung. Growing up, this entire house had been a matriarchy. Before they all grew up and moved away, those second-floor bedrooms had been packed with his six older cousins. He had been raised by his mother, his aunts, his sister, and those girls. He had grown up completely comfortable surrounded by women, happily sitting on the floor playing with fashion dolls and sharing their space. He fundamentally trusted women because women had always meant safety.
+
+Valerie had recognized that inherent trust and worn it like camouflage to slip right past his defenses. Now, that lifelong trust was completely ruined, restricted entirely to the two women standing in the hallway.
+
+"You're not on that bus," Sarah murmured into his ear, holding him as tightly as she possibly could while he cried it out. "You are right here in the hallway. You are safe. She didn't get you, Nate."
+
+Evelyn placed a gentle hand on the back of Nate's head, standing guard right beside them. "You're home, sweetheart. It's over."
+
+Sarah kept her arms locked around him until the violent shaking slowly began to subside, replaced by the heavy, leaden weight of total exhaustion.
+
+"Your medication is right in our medicine cabinet," Sarah promised, her voice a calm, steady rhythm against his ear. "Exactly where it always is. Nobody touched it." She slowly pulled back just enough to look him in the eyes, wiping a tear from his cheek with her thumb. "Let's stick to the plan, okay? I'm going to take you right into the apartment. I'll get your meds, and then I'll start filling the tub. You can use the heavy grab bars, and the warm water will help your muscles realize they don't have to fight anymore. Does that sound good?"
+
+Nate took a ragged breath, looking toward the door that led to their converted garage studio. The sanctuary was just a few feet away. He nodded, wiping his eyes with the back of his hand. "Yeah. It's worth a try."
+

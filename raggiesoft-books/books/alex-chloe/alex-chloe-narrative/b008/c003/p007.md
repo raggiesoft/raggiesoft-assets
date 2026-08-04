@@ -1,0 +1,19 @@
+# Part 7: A Secret Rebellion
+
+A few days after his life-changing video call with Chloé, Vera was in a particularly "helpful" mood. "Alex, sweetie," she said, sitting beside him as he was on the CCHR website, "I was thinking. We should really get our spring schedules aligned. It'll be so much easier if we're on the same campus."
+
+She leaned over, pointing to the screen. "Look, the Portsmouth campus has a great English 101 section, and a history class we could take together. It's so much closer to my place. Let's sign you up for these."
+
+Alex felt a familiar wave of dread, but it was now mixed with a new, secret resolve. He knew he couldn't fight her openly, not yet. He had to play along. He let her guide him through the registration, selecting the classes at the Portsmouth campus that she wanted. To placate her, he even printed out the "official" schedule and showed it to her.
+
+"See?" Vera said, beaming, taking the piece of paper as a trophy. "So much better. We're going to have a wonderful semester together."
+
+Later that evening, after Vera had left, Alex wheeled himself back to his computer. His heart was pounding, but his purpose was clear. He logged back into the CCHR portal. With swift, deliberate keystrokes, he dropped every single one of the Portsmouth classes Vera had chosen for him.
+
+Then, he pulled up the text document Chloé had sent him, the one with the Class ID numbers. One by one, he carefully entered the numbers, registering for the exact same English, Calculus, and Biology classes at the Virginia Beach campus that she was enrolled in. When he was done, he had a new schedule. A real schedule. *Their* schedule.
+
+With a final, furtive glance towards the door, he opened his email, attached a screenshot of his new, correct schedule, and sent it to Chloé with a simple, powerful subject line: "See you in class."
+
+Vera was none the wiser. Alex was still trapped for now, but he had just executed his first, silent, and deeply satisfying act of rebellion. He wasn't just waiting to be rescued anymore. He was actively planning his own liberation.
+
+

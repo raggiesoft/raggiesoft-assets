@@ -1,0 +1,73 @@
+# Part 5: The Ghost Awakens – Tuesday, October 25, 2044 – ~11:15 (Forty-five minutes of absolute agony)
+
+*"Charge four is set. I'm heading back."*
+
+Sarah gripped the heavy analog radio receiver in the airlock so tightly her knuckles were stark white. The last forty-five minutes had been absolute agony. She had stood at the thick porthole glass, watching Wyatt’s bulky, canvas-clad form slowly inch his way across the shadowed curve of the massive hull, a tiny speck against the infinite, terrifying black of the cosmos.
+
+Every heavy *clack* of his magnetic boots echoing through the radio felt like a hammer against her ribs.
+
+*"I see the airlock,"* Wyatt’s breathing was heavy, the physical exertion of fighting the pressurized suit taking its toll. *"Coming inside."*
+
+The heavy outer blast door swung open. Wyatt stepped into the cramped chamber, his boots locking onto the grating. Sarah didn't wait for him to turn around. She slammed her hand down on the hydraulic lever, violently pumping it to flood the chamber with the station's atmosphere.
+
+The pressure gauge screamed upward. The second the needle hit the green, she threw the locking wheel on the inner door and hauled it open.
+
+She didn't care about the cold or the lingering ozone. She grabbed the heavy brass locking lever on his helmet, snapped it upward, and lifted the massive glass dome right off his shoulders.
+
+Wyatt took a massive, gasping breath of the station's warm air, his hair matted to his forehead with sweat. Before he could even unlatch the canvas collar, Sarah threw her arms around his neck, burying her face in the thick fabric of the suit.
+
+"Never again," she whispered fiercely against his shoulder. "I swear to God, Wyatt, you are never going out there again."
+
+"Deal," Wyatt breathed, wrapping his heavy, padded gloves around her waist. "But we have to move. The dropship is less than two hours out."
+
+It took them a frantic ten minutes to rip the heavy EVA suit off him. Leaving the canvas armor pooled on the floor of the airlock, they sprinted back to the Operations center.
+
+The red *GENERAL QUARTERS* light was still pulsing, bathing the analog console in the color of blood.
+
+Wyatt stepped up to the massive communications board, completely ignoring the encrypted Apex data still scrolling down the amber CRT monitor. He flipped open a heavy, hinged plastic cover that hadn't been touched since the 1970s, revealing a row of archaic brass toggles.
+
+"Blowing the exhaust caps," Wyatt announced.
+
+He slammed the first toggle upward.
+
+*THUMP.* A deep, localized vibration shuddered through the entire deck plating. It wasn't an explosion that shattered the hull; it was a precise, shaped charge that violently sheared the rusted iron welds right off the aft engine blocks. Four heavy, metal discs spun off into the dark, completely uncapping the massive thruster cones.
+
+"Caps are clear," Wyatt said, his fingers flying across the board. "Rerouting the fission reactor. We're taking the power away from the ghost-grid and feeding it directly into the primary drive coils."
+
+Sarah watched the main telemetry dials on the wall. The needle for the station's internal battery reserves plummeted, while the massive, circular gauge labeled *THRUST CHAMBER PRESSURE* suddenly twitched to life for the first time in decades.
+
+"Ignition sequence," Wyatt gritted out, grabbing two heavy, mechanical throttle levers built into the center of the console. They were stiff, fighting his grip. He braced his boots against the floor and shoved them forward.
+
+For a terrifying, agonizing three seconds, nothing happened. The station was dead quiet.
+
+Then, deep in the absolute lowest ring of the boiler room, the archaic fission reactor cleared its throat.
+
+A low, guttural vibration started in the floorboards and traveled straight up through their boots. It wasn't a sleek, high-pitched electronic whine like the modern Apex shuttles. It was raw, unregulated mechanical fury. It sounded like a massive, sleeping beast waking up in a metal cage.
+
+The vibration escalated into a deep, rhythmic *PURR* that rattled the thick glass of the viewport.
+
+Delta 9 wasn't just a bucket of bolts. It was a heavy, overpowered freighter, and its engines still had plenty of *GO* left in them.
+
+"Hold onto something!" Wyatt roared over the sudden, deafening mechanical roar of the thrusters.
+
+Sarah grabbed the heavy steel railing bordering the console just as Wyatt pushed the throttles all the way to the firewall.
+
+The G-force hit them like a physical wall. The station hadn't moved in fifty years, and the sudden, violent acceleration pinned Sarah against the railing, stealing the breath from her lungs. Outside the massive viewport, the stationary starfield suddenly blurred into streaks of white light.
+
+Outpost Delta 9 broke its geostationary orbit, tearing a massive, raw streak of nuclear exhaust across the dark, and vaulted into deep space.
+
+Two hours later, an Apex Class-A Tactical Dropship, painted completely black and completely devoid of identification markings, slipped silently into the exact coordinates where Outpost Delta 9 had been anchored.
+
+The cleaner crew sat in the heavily armored troop bay, weapons charged, waiting for the breach command.
+
+Up in the cockpit, the Apex pilot stared at the sensor array. He tapped the glass, his brow furrowing beneath his tactical helmet. There was no thermal bloom. There was no metal signature. There was absolutely nothing but the cold, empty vacuum of space and four thick iron discs floating aimlessly in the dark.
+
+"Command, this is Clean Sweep," the pilot relayed, his voice tight with confusion. "Target coordinates are completely empty. The asset is gone. I repeat, Legacy Asset 44-A is gone."
+
+Millions of miles away, screaming through the void on unregulated nuclear fire, Wyatt and Sarah sat on the floor of the Operations center, catching their breath. They had done the impossible. They had stolen an entire space station right out from under the corporation's nose.
+
+But as the heavy amber console hummed with life, they both knew the terrifying reality. Apex Defense Solutions didn't write off lost assets. They hunted them.
+
+Wyatt and Sarah had escaped the drop, but they were no longer just hiding. They were running. And the hunt had officially begun.
+
+

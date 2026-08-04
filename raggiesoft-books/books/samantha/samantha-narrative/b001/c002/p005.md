@@ -1,0 +1,32 @@
+# Part 5: The Bottleneck and the Adrenaline Crash – 9:15 AM
+
+The sprawling concrete of the Virginia Peninsula finally rose up to meet us. The sheer speed of our escape had been a chaotic, unrelenting force for the last nine hours, but as Sarah guided the heavy sedan down Interstate 64 East toward the water, that momentum suddenly died.
+
+We hit the morning rush hour.
+
+The soft, static-laced voice of a local FM radio traffic reporter crackled through the car speakers. *"For those of you heading to the Southside this morning, it's the usual headache at the Hampton Roads Bridge-Tunnel. Traffic is heavy but steady from Exit 265C, Rip Rap Road. Expect delays on the descent."*
+
+Sure enough, a sea of red brake lights stretched out in front of us as we passed the Rip Rap Road exit. Sarah eased her foot onto the brake, and the heavy sedan crawled to a sluggish, stop-and-go halt.
+
+With the threat hundreds of miles behind us and the physical motion of the car reduced to a crawl, the biological reality of what we had just survived finally caught up with the front seat. The adrenaline crash hit the twins hard. The tense, coiled-spring energy that had fueled their rampage in Kentucky evaporated, leaving behind a heavy, suffocating exhaustion.
+
+Sarah tapped her thick fingers rhythmically against the steering wheel, staring at the tunnel entrance looming in the distance.
+
+"When we pop out on the Norfolk side," Sarah said, her voice rough and tired, "I'm taking the Battlefield Boulevard exit. We can hit the home improvement store. If we get the 2x4s and the carriage bolts now, we can have that reinforced bed frame built for you two by tonight."
+
+From the passenger seat, Abbey let out a slow, deep breath and rubbed the bridge of her nose. "Sarah, no. We are not doing that today."
+
+"I want the perimeter secured, Abbey."
+
+"It will be," Abbey countered, her tone heavy with fatigue but leaving no room for argument. "But we’ve been awake for over twenty-four hours and we just drove across two state lines. If we try to run power tools and handle heavy machinery right now, our hands are going to shake. We’ll make a mistake. We strip the queen mattresses, pull them into the living room, and build a floor camp for a few days until our nervous systems reset."
+
+Sarah chewed on the inside of her cheek, her eyes fixed on the bumper of the car in front of us. She hated conceding, especially when it came to our security, but she knew her sister was right.
+
+"Besides," Abbey added softly, looking over her shoulder at Samantha and me. "Grandmother Eleanor is waiting. She didn't sleep a wink last night. She needs to see with her own two eyes that they are actually safe and breathing."
+
+Sarah finally nodded, the tension in her massive shoulders dropping an inch. "Yeah. You're right. Straight to the house."
+
+Trapped in the center of the backseat, still securely wrapped in Samantha’s unyielding grip, I listened to them quietly debate lumber and power tools. It was the most beautiful, mundane argument I had ever heard. They weren't talking about violence or survival anymore; they were talking about carpentry and our grandmother.
+
+As the car crept forward and the concrete maw of the Hampton Roads Bridge-Tunnel swallowed us, plunging the car into the fluorescent-lit descent beneath the water, I closed my eyes. The exhaust fumes and the echoing roar of the tunnel didn't scare me. We were crossing the threshold. We were finally going home.
+

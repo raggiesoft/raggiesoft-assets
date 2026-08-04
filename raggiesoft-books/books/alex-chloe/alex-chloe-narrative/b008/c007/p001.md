@@ -1,0 +1,42 @@
+# Part 1: An Urgent Call Home (Wednesday, November 22, 2003)
+
+Her apartment, though simple, felt like a sanctuary. The moment they were inside, with the door securely locked, Chloé’s priority was clear. Alex was visibly trembling, the residue of Vera’s control clinging to him like a shroud.
+
+"Alex," Chloé said gently, her voice full of resolve, continuing in the Québécois French that had become their lifeline. "*Mon cher, avant toute chose, il faut appeler tes parents. Et Megan. Maintenant. Ils doivent savoir que tu es en sécurité.*" (My dear, before anything else, we have to call your parents. And Megan. Right now. They need to know you're safe.)
+
+Alex nodded, his eyes wide and haunted, immensely grateful. Chloé guided him towards her small desk where her Quantum OS computer sat. "On va faire un appel vidéo," she said. "Ils ont besoin de te voir." (We'll do a video call. They need to see you.)
+
+She quickly logged into her video call application. It was still late morning in Lynnwood, making it mid-afternoon back in Virginia. She initiated a three-way call, connecting to the Millers' home and to Megan's number at VDU.
+
+Emily Miller's kind face appeared first. "Chloé, dear! What a pleasant surprise!" A second later, Megan's face popped up in a separate window. "Aunt Em! Chloé!" Megan said cheerfully.
+
+Chloé took a deep, steadying breath. This was it. She gently guided Alex, pale and exhausted, fully into the webcam's view beside her. She responded in the warm, familiar Québécois French the Millers knew so well, knowing it was the safest language for Alex right now.
+
+"*Madame Miller, Megan, bonjour,*" Chloé began, her voice calm but serious. "*Alex est ici avec moi… à Lynnwood, en état de Washington.*" (Mrs. Miller, Megan, hello. Alex is here with me… in Lynnwood, Washington State.)
+
+The smiles on both screens froze. James Miller appeared beside Emily, his expression instantly grave. "Lynnwood? Washington?!" James repeated in stunned Québécois. "*Mais… on pensait qu'il était à Portsmouth! Avec Vera!*" (But… we thought he was in Portsmouth! With Vera!)
+
+Megan’s face was a mask of pure confusion. "Lynnwood? What's going on? I don't understand."
+
+Chloé saw Megan's bewildered expression and immediately switched gears, her mind working on two linguistic tracks at once. She first continued in French for the Millers and for Alex's comfort.
+
+"*Vera vous a menti, Monsieur Miller. Elle l'a entraîné dans un bus à travers le pays jusqu'à la maison de sa tante à Kent,*" she said quickly. (Vera lied to you, Mr. Miller. She dragged him on a bus across the country to her aunt's house in Kent.)
+
+Then, without missing a beat, she turned her focus slightly and switched to clear, urgent English for Megan. "Megan, Vera lied to everyone. She didn't take him to her mom's in Portsmouth. She put him on a bus and took him all the way to her Aunt Carol's house in Kent, Washington."
+
+The horror dawned on everyone's faces simultaneously.
+
+"*En autobus?!*" Emily gasped in French. "*Mais ses médicaments… ses soins… Oh, Alex!*" (By bus?! But his medications… his care… Oh, Alex!)
+
+Chloé continued, seamlessly translating the core of her message. "*Il était sans ses médicaments, il était négligé...*" she said to the Millers, before switching back to English for Megan. "She wasn't caring for him properly. He was without his essential medications for days, and he was in a very bad, neglectful situation. He managed to call me this morning from the aunt’s landline. He was trapped and scared. So, I drove down and got him. He's here with me now in Lynnwood. He’s safe."
+
+The full, horrifying picture was now clear to everyone on the call. Alex, listening, typed quickly on his AAC, his voice output in the protective cloak of Québécois French. MAMAN. PAPA. MEGAN. PARDON. VERA A MENTI. KENT ÉTAIT HORRIBLE. CHLOÉ M'A SAUVÉ. JE SUIS EN SÉCURITÉ MAINTENANT. (MOM. DAD. MEGAN. SORRY. VERA LIED. KENT WAS AWFUL. CHLOÉ RESCUED ME. I AM SAFE NOW.)
+
+"Oh, Alex, my poor boy!" Emily sobbed. "*Cette femme… Chloé, merci.*" (That woman… Chloé, thank you.)
+
+"Thank God you called her, Alex," Megan cut in, her voice shaking with rage. "Thank God. That offer, cuz, the one we talked about? It still stands. The second I graduate, you come to me. We get you out of there for good."
+
+James Miller then spoke, his Québécois firm, his gratitude to Chloé immense, but his anger at Vera palpable. "*Chloé, ma chère, merci du fond du cœur. Tu as sauvé notre fils. Quant à cette Vera… elle aura de nos nouvelles.*" (Chloé, my dear, thank you from the bottom of our hearts. You saved our son. As for this Vera… she will hear from us.) He looked at his son through the screen. "*Alex, mon fils, le plus important c'est que tu sois en sécurité avec Chloé. Nous avons une confiance absolue en elle. Reste là-bas avec elle.*" (Alex, my son, the most important thing is you are safe with Chloé. We have absolute trust in her. Stay there with her.)
+
+The rest of the conversation continued, a multilingual flow of trust and family, discussing practicalities and reaffirming their love and support. Vera's name was mentioned only with contempt. For Alex, hearing this crucial conversation unfold, with his parents, his cousin, and Chloé all seamlessly communicating their care, was another profound step away from Vera’s isolating manipulation. He was truly back within his circle of trust.
+

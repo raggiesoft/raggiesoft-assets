@@ -1,0 +1,54 @@
+# Part 8: The Gravity Tax – Sunday, May 12, 2045 – 16:15
+
+The sun began its slow descent toward the western horizon, casting long, lazy shadows across the wet stone of the observation terrace.
+
+Wyatt took the last sip of his cola, setting the empty glass bottle down on the teakwood table with a soft *clink*. The air was still wonderfully dry and comfortably warm, a perfect **24.44°C** afternoon.
+
+Sarah finished the last of the potato chips, dusting the salt from her fingers. She let out a long, contented sigh and shifted her weight on the plush lounger, preparing to stand up.
+
+As she planted her bare feet on the stone and engaged her core to rise, a sudden, dull cramp flared deep and low in her abdomen.
+
+She let out a sharp, unexpected breath, freezing halfway up. Her hand instinctively dropped to her lower stomach, pressing flat against the muscle as a secondary, tighter twinge radiated across her waist.
+
+Wyatt was out of his lounger in a fraction of a second, his S.H.O.P. Marine reflexes instantly overriding his relaxed posture. He stepped into her space, his hands gently gripping her bare shoulders.
+
+"Hey," Wyatt said, his voice dropping into a low, focused register. "You alright?"
+
+Sarah stayed still for a moment, waiting for the cramp to pass. She pressed her fingers into the muscle, massaging it gently. After a few seconds, the sharp twinge faded into a dull, easily ignorable ache.
+
+She looked up at Wyatt, letting out a soft, slightly embarrassed laugh as she finally stood up completely.
+
+"I'm fine," Sarah assured him, rolling her shoulders back and stretching her spine. "Just a muscle cramp. I think the low gravity on *Anchor* completely tricked me this morning."
+
+Wyatt’s tense posture relaxed slightly, though his hands remained protectively on her arms. "The gravity?"
+
+"Yeah," Sarah nodded, rubbing her side one last time. "Bounding thirty feet across those craters felt completely effortless when we were out there. But leaping around in 0.48G for an hour and then dropping right back down into 1.02 Earth-standard gravity? My core is definitely letting me know I overdid it. I feel like I did a hundred crunches without noticing."
+
+Wyatt let out a relieved chuckle, his heavy shoulders dropping as the logic perfectly tracked. He had felt a similar, heavy lethargy in his own legs after taking off the massive, pressurized canvas EVA suit the other day. Bouncing between planetary gravities took a physical toll.
+
+"The gravity tax," Wyatt smirked, leaning down to press a soft kiss against her forehead. "You need to hydrate. Your muscles are just confused. I'll grab the dishes."
+
+"Deal," Sarah smiled, picking up her canteen and taking a long, obedient drink of the purified glacial water.
+
+The minor ache in her abdomen had already settled into the background noise of her body, easily written off and entirely forgotten.
+
+Wyatt gathered the empty plates and glass bottles, and together they walked back through the sliding brushed-steel doors, leaving the terrace behind and stepping back into the flawless climate control of the estate.
+
+As they walked down the polished stone corridor toward the kitchen to drop off the dishes, Sarah looked out the hydro-glass windows at the flooded valley. The muddy water was still churning, completely burying their 96-square-meter garden grid.
+
+"You know," Sarah murmured, her bare feet padding softly against the floor. "Aria said it's going to be at least a month before the ground down there is solid enough to walk on, let alone plant anything."
+
+"Mid-June, yeah," Wyatt agreed, setting the dishes into the automated sanitization basin in the kitchen.
+
+"I don't want to wait until mid-June to get my hands back in the dirt," Sarah decided, a determined spark lighting up her dark eyes. She turned to look at him, completely bare and entirely ready for a project. "We have seeds. We have tools. And we have an entire, climate-controlled ecosystem sitting right beneath us on Sub-Level 1."
+
+Wyatt leaned against the marble island, crossing his arms with a wide grin. He knew exactly where this was going.
+
+"You want to tear up the billionaire's pristine Earth Conservatory."
+
+"I don't want to tear it up," Sarah corrected playfully, walking over to wrap her arms around his waist. "I just want to borrow a little corner of it. Maybe near the weeping willows? The soil in there is already perfectly maintained, and there's no super-cell storms to wash it away. We can plant the spinach and the tomatoes today."
+
+Wyatt looked down at her. She was a pioneer who had lost her first crop to a flood, and she was absolutely refusing to be defeated by it.
+
+"Alright, Mrs. Colton," Wyatt agreed, kissing her deeply. "Let's go commandeer a piece of the park. Lead the way."
+

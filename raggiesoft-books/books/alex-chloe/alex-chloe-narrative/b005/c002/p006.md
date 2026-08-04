@@ -1,0 +1,22 @@
+# Part 6: The Return
+
+Saturday afternoon arrived with a mixture of quiet melancholy and happy anticipation. The week of freedom was over. Alex and Chloé had spent the morning tidying both houses, a final act of responsibility before their parents returned. The silence that had felt so liberating a week ago now felt a little empty.
+
+Just before three o'clock, the familiar sound of Megan Carter's Holt sedan pulled into the Miller driveway. But she wasn't alone. The car was filled with the smiling, road-weary faces of all four parents. Megan had driven to Norfolk International Airport to pick them all up, having already briefed them on the drive home about Alex and Chloé's responsible and uneventful week.
+
+The reunion in the Millers' living room was a warm, happy affair, full of hugs and the excited chatter of people catching up after a week apart.
+
+"So," James said, finally settling into his favorite armchair with a contented sigh. "How was it? Did the houses survive? Did you two survive on a diet of just pizza?"
+
+"Hey, we cooked lasagna," Chloé said with a proud, laughing grin. "A real, home-cooked meal."
+
+"And they were perfect," Megan chimed in, taking on the role of the official chaperone. She delivered her report with a fond, slightly teasing seriousness. "The houses are spotless. All homework appears to be completed. There were no wild parties, no questionable visitors, and a shocking lack of pizza boxes in the recycling bin." She then looked at the four parents, her expression softening into one of genuine, profound admiration. "They were amazing. Seriously. They were a team. You were right to trust them."
+
+A collective, visible wave of relief and pride washed over the four parents. Their gamble, their profound act of trust, had paid off beautifully.
+
+"We knew you would be," Emily said, her eyes shining as she looked at Alex and Chloé. "We're so proud of you both."
+
+The conversation shifted then to the parents' own adventures—the cybersecurity conference in Chicago, the massive Quantum Vision Summit in Seattle. But underneath the happy chatter, a new, unspoken truth had settled over the two houses on Lisa Court. The week had been a success, a quiet but profound rite of passage. Alex and Chloé were no longer just the kids who lived next door. They were a capable, responsible, and loving team, ready and eager for the future they were now, more than ever, determined to build together.
+
+
+

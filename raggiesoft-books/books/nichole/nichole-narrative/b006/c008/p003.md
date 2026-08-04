@@ -1,0 +1,98 @@
+# Part 4: The Fortress on West Main
+
+## Date: September 1, 2003 Time: 2:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
+
+The thirteen-hour drive ended not at a college dormitory, but in the driveway of a long, low-slung 1960s brick ranch house.
+
+As Tom put the van in park, a massive white-and-blue OSTA transit bus roared past the front yard. Route 60. Patrick looked at his watch. Seven days a week. The lifeline was real.
+
+Uncle Mark was already standing on the front porch, beaming. Next to him stood Aunt Carol, who had driven up from New Jersey that morning.
+
+But it was the third person on the porch that made Tom cut the engine instantly.
+
+Sitting in a standard, manual silver wheelchair at the top of the ramp was Helen Bennett—Tom’s mother. An accessible Newport Taxi cab was just pulling away from the curb.
+
+"Mom!" Tom yelled, practically leaping out of the driver's seat.
+
+Helen smiled, her eyes crinkling. She hadn't seen the twins since a Christmas visit in 1993. Her health had been on a slow decline, confining her to the chair and her small Newport apartment for the last two years.
+
+Patrick lowered the hydraulic lift. As Nichole rolled onto the Rhode Island pavement, she noticed the walkway. It was paved with fresh, smooth concrete that sloped gently up to the threshold. Zero steps.
+
+Patrick pushed her up the ramp. For a moment, the front porch was a traffic jam of wheels—Nichole’s purple, high-tech Titan AeroMotion facing off against Helen’s hospital-issue silver chair.
+
+"Look at you," Helen whispered, reaching out to take Nichole’s hand. Her grip was weak, but warm. She looked at the heavy Apex ConvertiBook bolted to Nichole's lap tray. "You grew up. And you brought a spaceship with you."
+
+Nichole smiled. She clicked her mouse, triggering her new, custom-coded voice.
+
+"HI. GRANDMA. HELEN."
+
+Helen gasped, her hand flying to her mouth. Hearing the voice—even a synthesized one—brought tears to her eyes instantly. "Oh, honey. Hello."
+
+"Alright, clear the runway," Mark boomed, wiping his own eyes. "Let's get the whole fleet inside. Welcome home, troops."
+
+Patrick pushed Nichole inside while Tom pushed his mother. The house smelled of fresh paint, sawdust, and the salty ocean breeze.
+
+Patrick’s eyes went immediately to the infrastructure. The interior doorways had been completely rebuilt. The standard twenty-eight-inch frames were gone, replaced by wide, thirty-six-inch openings. Nichole didn't have to tuck her elbows in. She and Helen glided through the house with absolute freedom.
+
+"Come here, Pat. I want to show you the engineering," Mark said, leading them down the main hallway.
+
+Mark stopped in front of a standard-looking coat closet. He opened the door. It was empty, save for a plywood floor.
+
+"Stacked closets," Mark explained, tapping the drywall. "There's one exactly this size directly above us on the second floor, and one directly below us in the basement. The joists are reinforced. The floors are just plywood caps. Whenever we get the money for the residential elevator cab, the technicians just punch through the plywood, and you have a vertical shaft."
+
+Patrick peered into the closet. "Hydraulic?"
+
+"Has to be," Mark nodded. "For the weight of Nikki's chair plus you. I did the research. It's the only drive system smooth enough not to trigger her startle reflex. Or, for that matter, rattle your grandma's bones. Come look at the basement."
+
+Patrick left Nichole in the hallway with the women and followed Mark down the basement stairs.
+
+The basement was massive, dry, and entirely unfinished. But in the corner, directly beneath the hallway closet, the concrete slab floor had been jackhammered out. A twelve-inch deep rectangular pit lined with fresh cement sat waiting in the floor.
+
+"The overrun pit," Patrick whispered.
+
+"Yep," Mark said, pointing to a small framed-out room next to it. "And that's the mechanical room for the hydraulic pump. I don't know what kind of machine we're going to buy yet, but whatever it is, the house is ready to hold it. When that cab goes in, Nichole gets all three floors. No limits."
+
+Patrick looked at the concrete pit. It was just a hole in the ground, but to him, it was the physical manifestation of a family that refused to leave anyone behind.
+
+They walked back upstairs to the main event.
+
+"Alright, Nikki," Mark said, stepping in front of Nichole’s chair. "Your turn. Welcome to the Bennett Wing."
+
+He opened the double doors at the end of the hall.
+
+Nichole and Helen rolled into the mini-apartment. It was flooded with afternoon sunlight. To the left was a small living area with a kitchenette. To the right was the study area.
+
+But Mark led them straight into the en suite bathroom.
+
+In the corner, where the fiberglass shower-tub combo used to be, sat a massive, gleaming white hydrotherapy tub. It had a heavy, sealed acrylic side-door. Inside, the molded bench was deep and extra-wide.
+
+"Side entry," Patrick noted, walking over to unlatch the door. It swung open easily. He didn't have to lift her up and over. He could just slide her directly from the wheelchair onto the bench.
+
+"Turn the jets on," Mark said proudly.
+
+Patrick hit the power button. A low, powerful hum filled the bathroom as the water jets roared to life.
+
+Nichole looked at the wide bench. She looked at Patrick. She wasn't looking at a medical device. She was looking at a Saturday night where the freezing New England winter was locked outside, and she and her brother could sit chest-deep in the hot water, the jets working the cerebral palsy out of Patrick's leg while he held her tight.
+
+Helen rolled closer to the tub, staring at the side door. "I haven't taken a real bath in three years," she said softly. "I can't step over the edge anymore. I just take sponge baths in the shower."
+
+The room went completely quiet.
+
+Ellen looked at Tom. Mark looked at Carol. The unspoken truth of the house settled over all of them. This wasn't just a launchpad for the twins. It was a lifeboat for all of them.
+
+"Well, Mom," Tom said, his voice thick as he put his hands on the back of his mother's wheelchair. "That stops today. You're moving in with us."
+
+Helen looked up at her son, a tear rolling down her cheek. "I don't want to be a burden."
+
+Nichole slammed her hand on her lap tray. The sound was as loud as a gunshot.
+
+She looked at her grandmother with a fierce, absolute expression. She grabbed her mouse. She clicked the shortcut on her screen.
+
+"NO. BURDENS. ONLY. BENNETTS."
+
+Patrick smiled, wiping his own eyes with the back of his hand. He looked at the walk-in tub, the wide doors, his grandmother, and the empty elevator shaft waiting in the hall.
+
+"I start looking for a job tomorrow," Patrick said. "I'm going to pay for that elevator cab. I don't care how many shifts it takes."
+
+The Bennett Machine was officially docked. The clan was back together, and the Gap Year had begun.
+

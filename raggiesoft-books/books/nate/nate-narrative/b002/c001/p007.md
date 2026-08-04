@@ -1,0 +1,6 @@
+# Part 7: The Reset (4:25 PM)
+
+\[PLACEHOLDER FOR LOCAL GENERATION: THE CAREGIVING SCENE\]
+
+*(Author's Note: This section is intentionally reserved for local generation using the Dolphin model via LM Studio. This scene depicts Sarah providing vulnerable, clinical physical care—specifically helping Nate bathe to relieve his spastic muscles and wash away the sensory trauma of the terminal. Because cloud-based AI safety filters frequently and incorrectly flag non-sexual, clinical caregiving scenes as inappropriate, this segment must be written locally. This ensures Nate's disability representation and trauma recovery are handled with the raw, clinically accurate, and dignified respect they require, without algorithmic interruption.)*
+

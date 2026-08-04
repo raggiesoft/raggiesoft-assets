@@ -1,0 +1,31 @@
+# Part 4: System Shutdown – 8:00 PM
+
+The silence in the house was absolute, broken only by the faint, rhythmic ticking of the analog clock on my nightstand.
+
+After the adrenaline of the shouting match completely burned out of my system, it left behind a massive, hollow crater of exhaustion. The sheer volume of catastrophic variables we had processed today—the planes on the television, the grounding of the skies, Dad’s fists on the front door, and the furious standoff with Mom in the hallway—was too much data for our brains to hold.
+
+My CP-tightened legs were throbbing with a dull, heavy ache, and Rachel’s eyes were completely glazed over, staring blankly at the wall.
+
+"I'm tired," she whispered, her voice completely flat and devoid of emotion.
+
+"Me too," I said.
+
+We didn't go through our normal evening routine. We didn't unlock the door to use the bathroom. We didn't go to the dresser to pull out the familiar, soft cotton of our pajamas. The executive function required to stand up, unbutton our jeans, and change clothes was entirely beyond our capacity.
+
+Rachel just slid down until she was lying flat on the mattress, still fully dressed in her denim shorts and the t-shirt she had worn to school. She pulled her knees up slightly, making herself as small as possible on the narrow thirty-eight-inch mattress, and pulled the heavy quilt up over her shoulders.
+
+I kicked my sneakers off, letting them hit the carpet with a dull thud, but I left my jeans and my t-shirt on. I lay down right next to her.
+
+Downstairs, sitting on the kitchen table, was the fast food Mom had brought home. I knew exactly what it was; the faint, greasy smell of french fries was slowly drifting up the air vents. We hadn't eaten anything since lunch in the cafeteria before the world ended. My stomach gave a low, painful rumble, but the thought of opening the bedroom door and walking downstairs was physically impossible.
+
+The food was a peace offering from the enemy. It was a neurotypical attempt to smooth over a massive, structural betrayal with a hamburger. To go downstairs and eat it would be accepting her apology, and we absolutely refused to do that. Furthermore, the first floor of the house was compromised. The only secure perimeter left in the entire world was the space behind this push-button lock.
+
+We were not crossing that boundary for anything.
+
+I shifted my weight on the mattress, pressing my side firmly against Rachel's back. The rough texture of our street clothes rubbing against the quilt was uncomfortable, a sensory input we usually avoided at all costs, but tonight, we didn't care. The heavy, restrictive pressure of being wedged together on the tiny bed overrode the discomfort of the denim.
+
+Rachel reached behind her back, blindly finding my hand and lacing her fingers tightly through mine.
+
+I squeezed her hand back, resting my forehead against her shoulder blade. Outside our locked door, the skies were empty, the court order was paused, and our parents were entirely locked out of our universe. The world had stopped spinning, and as we finally closed our eyes, completely exhausted and fully dressed, our nervous systems initiated a total, desperate shutdown.
+
+

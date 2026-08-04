@@ -1,0 +1,206 @@
+# Part 5: The Point of No Return
+
+## Wednesday, May 5, 2004 — 05:30 AM Nashville, Tennessee
+
+The sun was rising over the **Cumberland River**, casting a sickly yellow light over the Nashville skyline.
+
+The bus—**Pathfinder 104**—idled in the station. It was the halfway point of the first leg.
+
+Freddie sat by the window. His neck was stiff. His legs were cramping. The air in the bus smelled of stale coffee and strangers.
+
+He looked out at the neon signs of Broadway, flickering out as the day began.
+
+*Regret.* It wasn't a whisper anymore. It was a scream.
+
+He thought about the weighted blanket. He thought about the warmth of the King bed on Pepper Street. He thought about Paige’s breathing, the steady rhythm that helped him regulate his own heart rate.
+
+*I am not an explorer,* Freddie thought, shivering despite the orange hoodie. *I am a component that has been removed from its machine.*
+
+He wanted to turn around. He wanted to get off the bus, find a payphone, and call Jessica. *Come get me. I made a mistake.*
+
+He looked at Vanessa. She was sleeping next to him, her head resting against the seatback. She looked peaceful. She believed in the mission.
+
+If he woke her up... if he said he wanted to go back... she would look at him with that pity. She would say, *See? You can't function.*
+
+He squeezed his eyes shut.
+
+*I have to keep going,* Freddie told himself. *For them. So they can go to Italy.*
+
+## 08:00 AM — 105 Pepper Street
+
+The sunlight hit the blackout curtains, bleeding just enough light around the edges to signal morning.
+
+Paige rolled over. Her hand instinctively reached out to the center of the King bed, expecting to feel the heavy, comforting mound of the weighted blanket.
+
+She felt flatness.
+
+Her eyes snapped open.
+
+The center of the bed was empty. The weighted blanket wasn't bunched around a sleeping form; it was lying flat, a deflated velvet skin on the mattress.
+
+Paige sat up, her heart hammering a frantic rhythm against her ribs. She looked directly at the en-suite bathroom door, which was wide open.
+
+It was dark. It was empty.
+
+If Freddie needed the bathroom, he left the door open so they would hear him. If he needed water, he woke them up. If he had a bad dream, he woke them up.
+
+He *never* moved without a signal.
+
+"Jessica!"
+
+It wasn't a whisper. It was a siren.
+
+Jessica sat up instantly, adrenaline flooding her system before she was even fully awake. "What? Is he seizing?"
+
+"He's gone," Paige gasped, scrambling out of the sheets. "The bed is cold. The bathroom is empty."
+
+"Did he go to the kitchen?" Jessica asked, already throwing off the covers, but her face was pale. She knew the answer. Freddie didn't go to the kitchen alone. He didn't do *anything* alone.
+
+They ran out of the bedroom, naked and terrified, into the hallway.
+
+"Freddie!" Jessica screamed.
+
+Silence.
+
+They sprinted into the living room. Empty. The kitchen. Empty.
+
+But there, on the counter where the morning sun hit the laminate, was a single sheet of notebook paper next to a set of house keys.
+
+Paige grabbed it. Her hands shook so violently she almost dropped it.
+
+*I am setting you free. – F*
+
+"No," Paige wailed, the sound tearing out of her throat. "No, no, no!"
+
+She shoved the paper at Jessica.
+
+Jessica read the six words. Her mind raced. *Free?* Free meant he thought he was a captive. Free meant he thought he was a burden.
+
+"Where is he?" Paige was hyperventilating, pacing a tight circle in the kitchen. "He didn't take his keys. He didn't take his phone—I didn't see it on the charger!"
+
+Jessica dropped the note. The shock evaporated, replaced by cold, hard tactical fury.
+
+"The computer," Jessica commanded. "He plans everything digitally. If he left, he built a route."
+
+They ran into the office. The **Iron-Logic** laptop was gone, but the tower—the command center—was humming in sleep mode.
+
+Jessica hit the spacebar. The monitors flared to life. The **Quantum OS XN Pro** login screen appeared.
+
+**User:** SYSADMIN **Password:** \_\_\_\_\_\_\_\_
+
+"Password," Jessica snapped.
+
+"NCC-1701-D," Paige recited, her voice cracking. "Enterprise D. It’s always the Enterprise."
+
+Jessica typed it in. *Enter.*
+
+The desktop loaded. Starfield background.
+
+"Browser history," Jessica said, grabbing the mouse.
+
+**Tuesday, 14:00 PM:** *Seattle Sky-Spire* **Tuesday, 14:15 PM:** *Pathfinder Bus Lines - Schedule* **Tuesday, 14:30 PM:** *Email - Order Confirmation \#4492*
+
+Jessica clicked the email link.
+
+**CONFIRMATION: ROANOKE (ROA) -\> SEATTLE (SEA)** **DEPARTURE: TUESDAY, MAY 4 - 21:10 PM** **PASSENGERS: 2**
+
+"Two?" Paige whispered, looking over Jessica’s shoulder. "Who is the second passenger?"
+
+Jessica scrolled down. The receipt didn't list a name, just "Adult Ticket."
+
+"Vanessa," Jessica hissed. The name tasted like poison. "She was whispering to him in the lobby. She was at the presentation. She took him."
+
+"She put him on a bus?" Paige screamed. "Jessica, it's four days to Seattle! The sensory overload... the vibration... he can't survive that!"
+
+She stopped. Her eyes went wide.
+
+"The meds," Paige gasped.
+
+She turned and ran into the en-suite bathroom. She threw open the medicine cabinet.
+
+There, on the second shelf, was the orange bottle. **Baclofen**.
+
+It was full.
+
+"He left them," Paige cried, grabbing the bottle and running back to the desk. "He thinks he doesn't need them? Or he thinks he doesn't deserve them? Jessica, without these... the spasticity... he’s going to lock up. He’s going to be in agony by tomorrow."
+
+Jessica stood up. She wasn't crying. She was mobilizing.
+
+"He isn't going to be on that bus for four days," Jessica stated.
+
+"We have to call the police," Paige said.
+
+"No," Jessica cut her off. "He’s an adult. He left a note. The police will call it a voluntary departure. We handle this ourselves."
+
+She sat back down at the computer. She opened a new tab. **Gateway Airlines**.
+
+"Roanoke to Seattle," Jessica muttered, typing furiously. "Transfer in Nashville (BNA). If we leave now, we can catch the 11:00 AM flight. We land in Seattle tonight."
+
+"Tonight?" Paige asked, clutching the pill bottle to her chest.
+
+"We aren't chasing the bus," Jessica said, her eyes locked on the screen. "We're beating it. We will be standing on the curb when he gets off."
+
+She clicked **CONFIRM**.
+
+"Hotel," Jessica said. "I need tactical positioning."
+
+She pulled up a map of downtown Seattle. She found the **Pathfinder Terminal** on Stewart Street.
+
+"There," she pointed. "**The Cascade Suites**. Extended Stay. Directly across the street. We can watch the arrival bay from the window."
+
+She booked it. **Guest Names:** Jessica Avery, Paige Avery, Freddie Avery. **Room Type:** Grand Suite. One King Bed.
+
+"One King Bed," Jessica said firmly. "Because when we get him back, we are never letting him go again."
+
+She stood up. "Pack a bag. Essentials only. And bring the meds."
+
+## Wednesday, May 5, 2004 — 23:00 PM (CST) Colby, Kansas
+
+The bus had been moving for twenty hours.
+
+Freddie was asleep, his head bouncing against the window as the bus rumbled down **Interstate 70**.
+
+The bus slowed, pulling off the highway into a gravel lot.
+
+**COLBY TRUCK STOP - 15 MINUTE BREAK**
+
+"Freddie," Vanessa shook his shoulder. "Rest stop. Stretch your legs."
+
+Freddie woke up. He groaned. His back felt like it was on fire. His legs were locked tight.
+
+"Pain," Freddie mumbled.
+
+"I know," Vanessa said. "Walk it off."
+
+They stepped off the bus.
+
+Colby, Kansas, was not an adventure. It was a desolate, wind-swept concrete slab in the middle of nowhere. The wind howled across the plains, kicking up dust that stung their eyes.
+
+The sun was setting, painting the sky a bruised purple.
+
+Vanessa shivered. She looked at the endless, flat horizon.
+
+Suddenly, the "romance" of the road trip evaporated. This wasn't a movie. This was a dirty truck stop with a broken vending machine and a smell of diesel and manure.
+
+She looked at Freddie. He was limping. He was holding his back. He looked small and broken against the vast emptiness of the plains.
+
+*What have I done?*
+
+The doubt hit her like a physical blow. She had taken a disabled boy away from his caregivers. She had put him on a four-day torture test.
+
+*I should turn around,* Vanessa thought. *I should call Jessica. I should send him home.*
+
+But then she thought about the "Matriarch Gaze." She thought about Paige’s smug hug.
+
+If she turned back now, she was the villain. She was the failure.
+
+*No,* Vanessa decided, hardening her heart against the wind. *We push through. Once we get to Seattle... once he sees the mountains... he'll be happy. I just have to get him there.*
+
+"Let's get a soda," Vanessa said, grabbing Freddie’s arm. "We're halfway there."
+
+Freddie looked at the horizon. He didn't see the mountains. He only saw the distance growing between him and the note on the counter.
+
+"Halfway," Freddie whispered.
+
+They got back on the bus. The door hissed shut. There was no turning back.
+

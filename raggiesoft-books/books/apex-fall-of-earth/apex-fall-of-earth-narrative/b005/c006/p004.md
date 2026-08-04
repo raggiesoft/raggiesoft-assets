@@ -1,0 +1,54 @@
+# Part 4: The Lunar Bound – Sunday, May 12, 2045 – 08:00
+
+Wyatt and Sarah stood on the pale, dusty surface of Anchor, staring up at the massive, swirling blue-and-green jewel of Planet Eden dominating the pitch-black sky.
+
+The air was crisp and completely breathable, resting at a brisk 12°C. There was no need for the massive, canvas Apollo-era EVA suits sitting in the runabout's cargo hold. They were standing on an alien moon in denim jeans, work boots, and cotton shirts, completely unharmed by the vacuum of space.
+
+"I brought the heavy EVA gear just in case," Wyatt laughed, reaching back into the open gull-wing door of the shuttle and unceremoniously tossing the heavy brass-and-glass helmets back onto the floorboards. "But I guess Apex’s atmospheric scanners were actually right for once. We don't need them."
+
+"Apex probably would have found a way to charge us for the oxygen out here anyway," Sarah joked, taking a deep breath of the pristine, unfiltered air. She looked around the sweeping, cratered valley. "It's amazing what you find when you stop looking at the universe like a spreadsheet."
+
+She took a step away from the silver hull of the runabout.
+
+Instantly, the unique physics of Anchor took over. With the gravity sitting at exactly 0.48 Earth-standard—roughly half of what they were used to down on Eden—her heavy hiking boot didn't just step; it glided.
+
+She pushed off her back foot, expecting a standard stride, and instead sailed forward in a long, sweeping, slow-motion bound that carried her nearly three meters across the gray dust before she touched down softly.
+
+Sarah’s eyes went wide. She looked back at Wyatt, her mouth falling open in sheer delight.
+
+"Wyatt," Sarah gasped, a brilliant smile breaking across her face. "Did you see that?"
+
+Wyatt grinned, stepping away from the shuttle. He bent his knees slightly and pushed upward.
+
+With 0.48 gravity, his heavily muscled, 6'1" frame launched effortlessly into the air. He soared upward, hanging suspended in the crisp atmosphere for what felt like an eternity, before drifting gracefully back down to the surface, landing with a soft crunch in the lunar dust.
+
+"Okay," Wyatt laughed, his deep voice echoing across the silent, gray plain. "That is incredible."
+
+The heavy, serious S.H.O.P. Marine veteran and the brilliant, calculating systems architect completely vanished. For the next hour, they were just two kids let loose on the greatest playground in the galaxy.
+
+Sarah took off running. Every step launched her into a massive, floating leap. She laughed out loud, the sound ringing through the thin atmosphere as she bounded across the pale stone, feeling practically weightless.
+
+Wyatt chased after her, easily closing the distance with massive, sweeping strides. He caught up to her near the edge of a shallow crater, reaching out to wrap his arms around her waist.
+
+With the reduced gravity, lifting her required absolutely zero effort. He hoisted her up, spinning her around in the air as if she weighed no more than a feather. Sarah threw her head back, laughing uncontrollably as the massive sphere of Eden spun dizzily above them in the black sky.
+
+When Wyatt finally let her feet touch back down on the ground, he didn't let go of her waist. Sarah rested her hands on his shoulders, her chest heaving slightly as she caught her breath.
+
+Her cheeks were flushed from the cold air and the exhilarating exertion.
+
+"This place," Sarah breathed, looking up into his dark eyes, "is pure magic."
+
+"It's not bad," Wyatt agreed, his voice dropping to a softer, deeply affectionate rumble. He looked past her at the sprawling, empty gray landscape, and then up at their vibrant home world hanging in the sky. "But I think I prefer the green and blue one."
+
+"Me too," Sarah smiled, leaning in to press a warm, lingering kiss against his cold lips.
+
+They stood together on the edge of the crater, holding each other in the low gravity. They had conquered the depths of the mountain, they had planted life in the dirt, and now they had walked on the moon.
+
+"We should probably head back," Wyatt murmured, brushing a stray lock of hair from her cheek. "The runabout's repulsorlifts proved they can handle the trip, but we have a lot of work to do back at The Sanctuary. Since the flood completely washed out our first garden down in the valley, we need to scout a new plot up on the mountain. Somewhere the rain can't touch."
+
+"Maybe we can till a section of the Earth Conservatory," Sarah suggested, her maternal, nurturing instincts immediately pivoting back to the life they were cultivating down on the planet. "Our second attempt at a first harvest. Plus, we have our new pediatric curriculum waiting for us in the library."
+
+"Let's go home," Wyatt smiled.
+
+They turned around, taking long, bounding, slow-motion leaps back across the gray plain toward the sleek silver teardrop waiting for them in the dust.
+

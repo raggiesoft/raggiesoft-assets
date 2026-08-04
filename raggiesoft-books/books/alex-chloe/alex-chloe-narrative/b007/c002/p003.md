@@ -1,0 +1,16 @@
+# Part 3: A Night in an Empty Room (Late August 2003)
+
+The Miller house on Lisa Court was suffocatingly quiet. They had been home from the airport for an hour, but Alex hadn't stopped crying. He was in his room, the door open, his body still shaking with silent, ragged sobs. His parents hovered, their hearts breaking, offering him food he wouldn't eat and words of comfort that couldn't penetrate the wall of his grief. Chloé was in the air, somewhere between Virginia and Las Vegas, completely unreachable. He was untethered.
+
+A soft knock came at the front door. It was Thomas and Sophie Mason, their own faces etched with the sorrow of their daughter's departure. They came in and sat with the Millers in the living room, a silent, supportive vigil.
+
+After a while, Sophie stood and went to Alex's doorway. He was just sitting in his chair, staring at the empty space where Chloé's "satellite locker" drawer used to be, tears still tracking down his face.
+
+"Alex, *mon cher,*" she began, her voice incredibly gentle. "Thomas and I... we know how hard this is. Her room... it feels so empty now. But... if it would bring you any comfort at all, you are welcome to sleep there tonight. In her bed. We'll leave the door unlocked for you."
+
+The offer hung in the air. For a moment, Alex's sobs hitched. The thought was both a comfort and an agony. To be in her space, surrounded by her scent, her things... but without *her*. Would it be a comfort, or would it just be a sharper, more painful reminder of the gaping hole she had left in his life? He looked at Sophie, at her kind, tear-filled eyes, and gave a small, almost imperceptible nod.
+
+Later that night, long after the parents had said their sorrowful goodnights, Alex wheeled himself out the back door and across the familiar, worn path in the grass. He let himself into the quiet, dark Mason house.
+
+Chloé's room was just as she'd left it. It smelled of her, a faint, clean scent of her shampoo. He transferred from his chair to her bed, the movements automatic. The sheets were cool, and they didn't feel right. Her warmth was missing. As he shifted onto her pillow, his fingers brushed against something fine and soft. He picked it up. In the faint moonlight, he could see it: a single, long strand of her coppery red hair. A tiny, physical piece of her, left behind. A fresh wave of gut-wrenching sobs overtook him, the most painful yet, because this was the closest he could get to her, and she was still a thousand miles away. He cried until there were no tears left, clutching the single strand of hair, a fragile, tangible link to his best friend.
+

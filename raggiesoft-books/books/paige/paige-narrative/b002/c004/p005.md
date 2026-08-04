@@ -1,0 +1,52 @@
+# Part 5: The Foundry
+
+## 12:00 PM
+
+The main dining hall at CPI was a massive, rotunda-style building known as **The Foundry**.
+
+If Kelvin Hall was a sanctuary of silence, The Foundry was a cathedral of chaos.
+
+As soon as they approached the entrance, the wall of sound hit Freddie like a physical blow. It was the sound of three thousand students talking, the clatter of silverware on ceramic, the hiss of soda fountains, and the relentless *thrum-clack-thrum* of the massive dish return conveyor belt that circled the room.
+
+"Tickets out," Jessica instructed, pulling the perforated lunch vouchers from their "Candidate Kits." "It's all-inclusive today. We just scan and go."
+
+They handed their vouchers to the cashier, who scanned them with a beep and waved them through the turnstiles.
+
+Freddie stopped. His hands immediately went to the straps of his backpack, pulling them tight.
+
+"It is loud," Freddie stated. His voice was flat, a sign that he was manually adjusting his audio input levels.
+
+"It's the lunch rush," Jessica said unapologetically. "Grab a tray. Follow me. We go to the pasta station. It’s the fastest line."
+
+They navigated the crowd. Freddie kept his eyes on Paige’s back, using her as a shield against the visual noise of the room. He focused on his breathing. *In for four. Hold for four. Out for four.*
+
+They got their food—bowls of pasta with red sauce and plastic cups of blue Blue Ion—and found a table near the window. It was slightly quieter here, but the ambient roar was still intense.
+
+Freddie sat down. He didn't eat immediately. He stared at the pasta, waiting for his hands to stop vibrating.
+
+"You okay?" Paige asked, breaking her breadstick in half. She didn't look worried; she looked operational. She was checking his gauges.
+
+"The signal-to-noise ratio is critical," Freddie admitted, glancing at a table of loud fraternity brothers nearby. "It is a hostile acoustic environment."
+
+"It is," Paige agreed. "But look at the map."
+
+She tapped his maroon folder.
+
+"We have the dorm," she reminded him. "Think about the schematic. Quiet. Blackout curtains. Deep pressure. When the day is over, you eject from this..." she gestured to the loud cafeteria, "...and you go to the bunker."
+
+Freddie nodded slowly. The logic held.
+
+"I can sustain this," Freddie calculated, picking up his fork. "I can endure the Foundry and the classes and the crowds... if I have the recharge station."
+
+"Exactly," Jessica said, stealing a fry from Paige’s plate (she had used her voucher for the burger line). "That’s how everyone survives engineering, Freddie. You grind all day, and you crash at night. And since you guys are rooming together, you’ll have your own ecosystem. You won't have to deal with some random roommate playing loud music or bringing girls over."
+
+"Zero random variables," Freddie said, taking a bite of pasta. The thought was soothing. The "Twin Dorm" wasn't just a room; it was the structural support beam for his entire college career. As long as he had that, he could handle anything.
+
+"Okay," Jessica said, checking her watch. "Eat up. The **Housing & Residence Life** presentation is at 13:00 in the Squires Auditorium. We need to get there early to ask about the bed straps."
+
+"I have the dimensions ready," Freddie said, tapping his pocket. "I am ready to finalize the contract."
+
+He finished his pasta with renewed purpose. He wasn't afraid of the Housing Director. Why would he be? The plan was logical. The medical need was documented. It was just a formality.
+
+They cleared their trays on the loud conveyor belt—*clack-clack-clack*—and walked out into the sunshine, heading toward the auditorium to sign the paperwork that Freddie believed would save his life.
+

@@ -1,0 +1,136 @@
+# Part 4: The Final Frontier
+
+## Wednesday, July 9, 2003 17:00 PM
+
+The afternoon sun was still blazing outside, but inside **105 Pepper Street**, the blackout curtains held the line. The living room was a cool, dim sanctuary illuminated only by the glow of the MagnaView TV.
+
+"News block initiated," Jessica announced. "Prepare for local intake."
+
+The screen shifted to the familiar blue-and-gold graphics of **WNRV-TV Channel 11**.
+
+## 17:00 PM - 18:30 PM: The Information Stream
+
+The broadcast began with **"Valley News Tonight"**. Freddie tolerated the 5:00 PM and 5:30 PM segments—mostly traffic reports on I-81 and weather updates confirming the oppressive humidity—but he perked up for the flagship **6:00 PM Broadcast**.
+
+The anchor, a man with silver hair and a voice like gravel, read the headlines with comforting predictability. There were no surprises. Just facts.
+
+"National news at 6:30," Paige noted, handing Freddie a bowl of grapes. "Do you want to watch the national feed?"
+
+"Negative," Freddie decided. "Global variables are too volatile. Stick to the local signal."
+
+## 19:00 PM: The Pattern Recognition Block
+
+At 7:00 PM, the tone of the evening shifted. The news desk was replaced by a brightly colored set filled with flashing lights and a giant, glittering wheel.
+
+## Show: Phrase Spin
+
+Freddie watched as three contestants spun the heavy wheel, the clicking sound—*tik-tik-tik-tik*—providing a satisfying auditory stim.
+
+"R," a contestant shouted. "Is there an R?"
+
+*Ding!*
+
+"Variable confirmed," Freddie whispered, popping a grape into his mouth. He liked this show. It was just pattern matching. He was faster than the contestants. He saw the fragments of the letters and the logic engine in his head filled in the blanks instantly.
+
+"Walking on Sunshine," Freddie blurted out before the lady on screen even spun the wheel.
+
+"Show-off," Jessica grinned.
+
+At 7:30 PM, the smart show started.
+
+## Show: The Daily Quiz
+
+At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
+
+This was serious business. The three of them sat forward, slices of pizza forgotten, competing for the title of "Living Room Champion."
+
+"History for 400," the host announced. "The treaty that ended World War I." "What is the Treaty of Versailles?" Jessica shouted. "Correct," the host said.
+
+"Science for 600." "The process by which plants use sunlight to synthesize foods." "What is... Photosynthesis?" Freddie guessed. "Correct."
+
+Then came the visual clue. An image of a brass instrument with mirrors and an arc appeared on the blue screen. "Navigation for 800," the host read. "This doubly reflecting navigation instrument measures the angular distance between two visible objects."
+
+"Sextant," Freddie corrected instantly. "Navigation tool."
+
+"WRONG!" Jessica shouted, pointing a pizza crust at him like a gavel. "Error! Syntax error!"
+
+Freddie blinked, looking at her. "The identification is accurate. It is a sextant."
+
+"Phrasing, Freddie!" Paige laughed, nudging his ribs. "You have to format the data!"
+
+"Oh," Freddie realized. The arbitrary rule of the game show. The social contract of the quiz. He sighed, adjusting his glasses. "What is a sextant?"
+
+"That is correct," the host on the TV said.
+
+"Point restored," Jessica declared, taking a bite of her crust. "But you're on thin ice, mister. Respect the format."
+
+Freddie allowed a tiny smile. He liked the format. Even if the rule was silly, it was a rule. And in this house, rules were followed.
+
+## 20:00 PM: The Discovery
+
+Then, the game shows ended. The screen went black for a moment.
+
+"Okay," Jessica said, checking the TV Guide. "Channel 11 is running a double feature of that sci-fi show. **'Stellar Voyage: The New Era'**. You want to try it?"
+
+"Genre?" Freddie asked.
+
+"Space," Paige said. "Exploration. Dad said it was boring, but..."
+
+"Dad is an unreliable narrator," Freddie corrected. "Proceed."
+
+The screen lit up.
+
+It began with a field of stars. Just blackness and pinpricks of light, moving slowly, majestically.
+
+Then, the voice spoke. It was a deep, resonant baritone—the voice of a Captain.
+
+***"Space... The infinite expanse."***
+
+Freddie stopped chewing his grape.
+
+***"These are the voyages of the Starship Avalon. Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."***
+
+The music swelled—an orchestral fanfare of French horns and strings that felt like a sunrise. It wasn't cheesy; it was noble. It was soaring.
+
+***"To boldly go where no one has gone before."***
+
+A massive, sleek silver ship swept across the screen, its warp engines glowing a soft, pulsating blue. It didn't look like a machine of war. It looked like a machine of *science*.
+
+Freddie sat up, pulling himself out of Paige's lap for the first time in hours. He leaned toward the screen, his eyes wide behind his glasses.
+
+"The music," Freddie whispered. "It sounds like... hope."
+
+The episode started. It wasn't about shooting lasers. It was about diplomacy. It was about a crew of hyper-competent officers solving a complex astrophysical puzzle involving a binary star system.
+
+Freddie watched **Captain Miller** sit in his chair and ask for "Input." He watched **Commander Stone** execute a maneuver. He watched **Unit 7** analyze the situation without emotion, purely on logic.
+
+"He is like me," Freddie pointed at the synthetic officer. "He processes data. He does not understand the joke."
+
+"Yeah," Paige smiled softy. "He is like you."
+
+But it was the **Main Engineering** set that captivated him. The Master Systems Display—a giant, backlit wall of schematics showing the energy flow of the entire ship. The interface was clean, organized, and perfectly logical.
+
+"Look at the interface," Freddie breathed. "It is a perfect structure. Everything is labeled."
+
+By the time the second episode started at 8:30 PM, Freddie was gone. He wasn't in the living room anymore. He was on the bridge of the *Avalon*.
+
+"Astronomy," Freddie announced during the commercial break.
+
+"What?" Jessica asked.
+
+"The field of study," Freddie clarified. "It is the study of the ultimate system. Stars. Orbits. Gravity. It is all math. It is all predictable."
+
+He looked at his sisters.
+
+"I require books on astronomy. And I require a website update."
+
+"A website update?" Paige asked.
+
+"The portfolio," Freddie said, his mind racing faster than the warp drive on screen. "We are building a digital archive. It should be modeled after the *Avalon* computer. Dark background. Glowing text. Structured data."
+
+"An astronomical theme," Jessica mused. "RaggieSoft... in space."
+
+"Affirmative," Freddie said, turning back to the screen as the theme song swelled again. "Space. The final frontier."
+
+He watched the ship streak into warp speed, a streak of light against the darkness. For a boy who spent his whole life feeling gravity hold him down, looking up at the stars felt like the first time he could truly fly.
+

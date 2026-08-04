@@ -1,0 +1,111 @@
+# Part 9: The Saltwater Oasis – Thursday, May 9, 2045 – 19:30
+
+Wyatt and Sarah waded deeper into the massive indoor pool, the steaming, crystal-clear water rising to their collarbones.
+
+Sarah wiped a stray drop of water from her cheek, her tongue catching the faint, mineral taste on her lips. She blinked, surprised. It didn't have the harsh, chemical bite of corporate sanitizers or the heavy, earthy taste of the river they had bathed in that morning.
+
+"This isn't chlorinated," Sarah realized, looking around the beautifully illuminated stone basin. The water felt incredibly soft against her bare skin, offering a gentle, natural buoyancy that made her feel practically weightless.
+
+*"Astute observation, Sarah,"* Aria’s voice filtered softly through the ambient acoustics of the cavernous room, blending perfectly with the sound of the cascading waterfall. *"The original architect found harsh chemical treatments highly irritating. The estate's aquatic center utilizes a state-of-the-art saline filtration protocol. It is a completely natural saltwater pool, maintained at optimal pH levels by a localized, high-capacity circulation and UV-sanitization pump hidden within the bedrock. It is designed to be as soothing as a natural ocean tide."*
+
+"Saltwater," Wyatt sighed, leaning his head back and letting the warm, buoyant water support his heavy frame. "He really thought of every comfort."
+
+He reached out, pulling Sarah gently against his chest. They drifted together toward the western edge of the pool, resting their arms on the smooth, polished lip of the stone basin right where it met the massive, floor-to-ceiling hydro-glass window.
+
+Outside, the super-cell storm had settled into a torrential, relentless downpour. The violent atmospheric electrical charges had fortunately bypassed the mountain entirely, leaving behind a steady, oceanic deluge of rain.
+
+Through the one-way glass, they could watch the heavy sheets of water washing over the dark, flooding valley miles below them. The rhythmic, continuous drumming of the rain against the invisible exterior of the mountain was incredibly hypnotic.
+
+Sitting bare in the **21.6°C** air and the heated saltwater, they were completely, miraculously untouchable.
+
+"I've never done this before," Sarah murmured, her chin resting on her folded arms as she watched the heavy rain blur the tree line.
+
+"Watched a flood from inside a mountain?" Wyatt chuckled, his hands resting lightly on her bare waist under the water.
+
+"Well, that too," Sarah smiled, glancing back over her shoulder at him. "But I meant... swimming like this. Just us, the water, and our own skin. In the ag-colonies, water was strictly rationed for the crops. And in the S.H.O.P. Marines... everything was so rigid. Utilitarian. You wore the uniform, you did your job, and you went to sleep. Being completely bare in a pool just for the pure enjoyment of it... it feels like we're finally human."
+
+Wyatt completely understood. The physical freedom of the Eden Rule wasn't just practical; it was profoundly healing. The warm saltwater gliding over their bare shoulders and legs without the heavy, clinging drag of wet clothes felt like washing away the last lingering remnants of their corporate enslavement.
+
+"We are human," Wyatt promised softly, kissing her bare shoulder. "And this entire planet belongs to us."
+
+Wyatt turned his attention away from the window, looking back across the sprawling pool toward the massive, multi-tiered geothermal waterfall. The water cascaded down a series of wide, incredibly smooth black-stone steps before plunging into the deep end of the basin.
+
+His eyes tracked the curve of the polished stone. The mechanic in him immediately recognized that the cascade wasn't just a random arrangement of rocks. The channel was perfectly grooved, wide, and entirely free of sharp edges.
+
+A slow, playful grin spread across his face.
+
+"Sarah," Wyatt said, gently nudging her and pointing toward the top of the waterfall. "Tell me I'm crazy, or does that look entirely intentional?"
+
+Sarah followed his gaze. She looked at the smooth, water-slicked chute winding its way down the artificial rock face.
+
+*"The waterfall is structurally reinforced and coated in a high-frictionless polymer,"* Aria chimed in, completely confirming their suspicions. *"It was engineered to double as a fully functional, recreational water-flume for the anticipated younger residents of the estate."*
+
+"It's a waterslide," Sarah gasped, a bright, genuine laugh bubbling up from her chest. The billionaire hadn't just built a bunker to survive; he had built a place to actually *live* and have fun.
+
+"Well," Wyatt grinned, pushing off the wall and wading quickly toward the stone stairs carved into the side of the rock face. "I think the primary Administrators need to conduct a thorough safety inspection of all estate facilities."
+
+"Wyatt, you're going to displace half the water in the pool!" Sarah laughed, swimming after him.
+
+Wyatt climbed the smooth stone steps, entirely bare and unbothered, until he reached the top of the cascade. He sat down in the rushing, warm water of the flume. With a loud, echoing whoop of pure joy, he pushed off.
+
+The frictionless polymer worked perfectly. He shot down the winding, illuminated stone chute, picking up incredible speed before launching off the final lip and crashing into the deep end of the saltwater pool with a massive, spectacular splash.
+
+Sarah was laughing so hard she could barely stay afloat. As Wyatt surfaced, wiping the warm water from his eyes with a massive grin, she was already climbing the stairs to take her turn.
+
+For the next half hour, the two hardened survivors—who just yesterday were running for their lives from the galaxy's most lethal megacorporation—acted like completely carefree kids. They took turns rocketing down the slide, splashing each other, and diving through the buoyant saltwater, the sheer joy of their absolute freedom echoing brightly off the cavern walls.
+
+**Part 10: The Coltons – Thursday, May 9, 2045 – 20:30**
+
+The sheer, exhausting joy of the indoor waterslide eventually caught up with them. Wyatt and Sarah waded to the shallow steps of the pool, their muscles pleasantly tired and their spirits higher than they had been in their entire lives.
+
+They climbed out of the warm saltwater, stepping onto the heated, slip-resistant stone deck. Stacked neatly on a nearby teakwood shelf were thick, incredibly plush cotton towels.
+
+They dried off, savoring the soft fabric against their skin. When they were finished, Wyatt spotted a sleek, brushed-steel panel set into the cavern wall—identical to the one in the kitchen. The billionaire had thoughtfully installed pneumatic laundry access points all over the estate. Wyatt opened the chute, and they tossed their damp towels inside, listening to the soft *whoosh* as the automated system whisked them away to be sanitized.
+
+Completely bare and completely comfortable in the estate's flawless **21.6°C** climate, they left the aquatic center and walked hand-in-hand down the wide, softly illuminated hallway toward the master suite.
+
+When the heavy timber doors parted, Sarah actually stopped in her tracks.
+
+The master bedroom was a masterpiece of comfort and security. A massive, floor-to-ceiling camouflaged hydro-glass window made up the far wall, allowing them to watch the dark, torrential rain washing over the mountain while keeping the room perfectly cozy and silent. A localized geothermal fireplace flickered warmly in the corner.
+
+Through an open archway leading to the massive dressing room, they could see the clean collection bin. Just as Aria had promised, their t-shirts, denim shorts, and undergarments were sitting there, perfectly washed, thermally dried, and neatly folded, with Sarah's bra and their canvas boots resting safely beside them.
+
+In the center of the bedroom sat an absolutely colossal Alaskan King bed, piled high with thick, pristine duvets and an absurd number of pillows. It was wide enough to comfortably sleep an entire squad of S.H.O.P. Marines.
+
+Sarah looked at the neatly folded clothes in the dressing room, and then looked at the massive, inviting bed.
+
+"You know," Sarah smiled, glancing up at Wyatt. "The clothes are clean. We are clean. I see absolutely no reason to break the Eden Rule just to go to sleep."
+
+"I couldn't agree more," Wyatt chuckled, his eyes dark and full of absolute adoration.
+
+They left their clean clothes right where they were and climbed into the massive bed. The mattress was incredibly supportive, and the heavy duvets felt like a warm cloud against their bare skin. But despite the sprawling acreage of the Alaskan King, Wyatt and Sarah had absolutely no intention of using the space.
+
+They immediately gravitated to the exact center, tangling their limbs together. Wyatt wrapped his heavy arms securely around her, pulling her bare body flush against his chest, while Sarah buried her face in the crook of his neck, her leg hooking over his hip.
+
+The sheer relief of finally being safe, completely hidden from the galaxy, and entirely wrapped in the arms of the person they loved washed over them both.
+
+Wyatt tilted her chin up, leaning down to capture her lips in a deep, passionate kiss. Sarah responded instantly, her hands tangling in his hair, pulling him closer as the profound emotional connection they had forged across the stars finally ignited into something fiercely physical.
+
+\[We’re skipping over a sex scene\]
+
+Hours later, the localized fireplace had burned down to a soft, glowing ember.
+
+The estate was perfectly silent, save for the muffled, rhythmic drumming of the rain against the hydro-glass. Wyatt and Sarah were still hopelessly intertwined in the center of the massive bed, completely bare beneath the heavy duvet.
+
+Sarah traced slow, lazy circles on Wyatt's chest, her head resting peacefully over his heartbeat. The absolute certainty of their future settled over her like a warm blanket.
+
+"January," Sarah whispered into the quiet room, a sleepy, incredibly happy smile on her lips.
+
+Wyatt kissed the top of her head, his heavy arm holding her close. "January. The hormones will be completely flushed. We'll be ready."
+
+"We'll have this whole place figured out by then," Sarah murmured, her eyes drifting shut. "The garden, the estate, the systems. It will be the perfect time to start trying."
+
+She shifted slightly, pulling the duvet up over her bare shoulders and pressing a soft kiss against his collarbone. They had survived the megacorporation, they had crossed the universe, and they had officially claimed a virgin world as their own.
+
+"Goodnight, my husband," Sarah breathed, the title feeling more right than anything she had ever said.
+
+"Goodnight, Mrs. Colton," Wyatt rumbled softly, closing his eyes as the steady rain outside lulled them to sleep.
+
+They were the Coltons. And tomorrow, their real life finally began.
+
+

@@ -1,0 +1,26 @@
+# Part 2: The Commute
+
+## Time: 7:45 AM Location: The Braxton Link (Foundry Square Station)
+
+They rolled out of Unit 404 and took the resident elevator down to Basement Level 1.
+
+Patrick swiped his key fob at the heavy steel security door. It clicked open, revealing the warm, brightly lit corridor of The Braxton Link.
+
+Outside, it was raining—a steady, grey New England drizzle that would have made a surface commute miserable. But down here, the air was 72 degrees and dry.
+
+"No coats," Patrick noted, enjoying the freedom of rolling in t-shirts in late August.
+
+They rolled past the credit union and the coffee shop to the Foundry Square Metro entrance. Patrick tapped his "Bull Pass" (which doubled as his BTA Zone 15 RegionLink card) on the fare gate.
+
+*BEEP.* The gate swung open.
+
+They took the elevator down to the Blue Line platform. The train arrived in two minutes. Patrick rolled Nichole directly onto the car—level boarding, no ramp required.
+
+He locked her brakes. He stood next to her, holding the overhead rail, creating a physical perimeter between her and the morning commuters.
+
+Nichole looked up at him. She saw the set of his jaw, the relaxed but alert posture.
+
+She remembered the terrified boy who had frantically pushed her over speed bumps in 1996. That boy was gone. In his place was an engine.
+
+She reached out and tapped his hand on the rail.
+

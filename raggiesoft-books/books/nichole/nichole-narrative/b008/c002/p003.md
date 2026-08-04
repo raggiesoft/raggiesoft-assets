@@ -1,0 +1,36 @@
+# Part 3: The Gen-Ed Pact
+
+## Time: 8:40 AM Location: College of Arts & Sciences, Room 104
+
+They took the glass elevator from the Narragansett Esplanade Station down to The Bull Run tunnel network, rolling beneath the campus green to the academic buildings.
+
+They arrived at the classroom for English 101 – Section 04 ten minutes early.
+
+The room was a standard lecture hall with tiered seating. In the past, this would have been a nightmare. But BSU’s Universal Design meant that every third row had a removable desk section for integrated wheelchair seating.
+
+Patrick didn't ask the professor for permission. He didn't look for an aide to sit with her.
+
+He rolled Nichole to a center spot in the front row. He pulled the chair out from the desk next to her and sat down.
+
+He unpacked her bag. He set up the *Apex ConvertiBook*, snapping the screen into its slate mode. He plugged in her *Quantum OptiMouse*.
+
+"Power?" Patrick whispered.
+
+Nichole checked her battery. 98%. She tapped her screen.
+
+"GREEN."
+
+The professor, Dr. Harrison, walked in. He looked at the class. He looked at the pair in the front row—the girl in the purple titanium chair and the boy sitting protectively beside her, their notebooks open, their grid locked in.
+
+He didn't see a liability. He saw two students who had already won the hardest battle of the day just by getting there.
+
+Patrick leaned over and whispered to Nichole, "Gen-Ed Pact is live. Section 04. We made it."
+
+Nichole reached for her mouse. She didn't broadcast the voice. She just opened a blank document for her notes and typed her first sentence of college.
+
+WE. ARE. HERE.
+
+Patrick smiled, clicked his pen, and wrote the date at the top of his engineering graph paper.
+
+The Bennett Machine was officially open for business.
+

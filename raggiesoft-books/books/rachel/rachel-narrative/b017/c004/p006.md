@@ -1,0 +1,50 @@
+# Part 6: The Pocket Fortress – 11:45 AM (PST)
+
+We pushed through the heavy glass doors of the Cadillac Hotel, leaving the warm, quiet exhibits of the Klondike museum behind us.
+
+The moment we stepped back onto the pavement of Second Avenue South, the freezing wind whipping off Elliott Bay hit us again. But the psychological atmosphere had completely shifted. We weren't just wandering through the cold to kill time anymore; we were armed with the historical blueprint of our future sanctuary.
+
+"Alright, we need to stay flat, and I know exactly where we are going next," Jessica announced, adjusting her scarf and locking her hands onto her push-rims. "We aren't going back into the retail grid yet. There is a sensory override exactly one block north of here."
+
+"A sensory override?" I asked, my analytical brain instantly intrigued by the terminology.
+
+"An acoustic vault," Jessica promised with a knowing smirk. "Follow me."
+
+We moved as a tight, four-person unit up the wide, brick-lined sidewalk of Second Avenue South. Rachel immediately stepped flush against my left side, linking her arm securely through mine and burying her hands deep into her coat pockets. Kristin took my right side, seamlessly lacing her fingers back through mine. I didn't reach for my pockets, and I didn't scan the storefronts for prices. I just let the heavy, grounding pressure of the two women anchor my processor.
+
+We didn't have to navigate any steep hills or unpredictable crosswalks. Exactly one block up, right at the corner of Second and Main, Jessica banked her wheelchair toward a heavy, wrought-iron gate set into a towering brick wall.
+
+From the street, it looked like a private, closed-off courtyard. But the gates were wide open.
+
+"Waterfall Garden Park," Jessica announced, gesturing for us to step inside.
+
+I walked through the iron gates, and the environment changed so violently and perfectly that my processor actually stalled in awe.
+
+It was a tiny, hidden pocket park, completely walled off from the surrounding city by high brick facades and wrought iron. But the centerpiece of the park wasn't a statue or a patch of grass. It was a massive, twenty-two-foot man-made waterfall cascading violently over jagged boulders.
+
+The acoustic physics of the space were absolutely staggering. The second we crossed the threshold into the sunken courtyard, the deafening, crashing roar of the falling water completely swallowed the city. The sound of diesel bus engines, the screeching of tires, the distant sirens, and the chaotic hum of the holiday crowds were instantly, mathematically deleted from my auditory receptors.
+
+It was pure, unadulterated, overwhelming white noise.
+
+I stopped dead on the paved patio. I closed my eyes, letting out a long, ragged exhale. My threat-detection system, which had spent the last two years running on a permanent, exhausting background loop of hyper-vigilance, dropped to absolute zero. You couldn't hear a sudden footstep in here. You couldn't hear someone yell. The roar of the water was a heavy, impenetrable blanket of safety.
+
+Rachel felt the rigid tension completely melt out of my spine. She let out a soft, vibrating hum of pure joy, leaning her head heavily against my bicep.
+
+"It's an acoustic fortress," Rachel rasped loudly, having to raise her voice just to be heard over the rushing water. Her dark eyes were wide, tracking the chaotic, mesmerizing pattern of the water smashing against the rocks.
+
+"The park was built on the original founding site of the United Parcel Network," Jessica explained, raising her own voice as she wheeled over to a cluster of metal patio tables and chairs on the flat upper terrace. "When UPN moved their headquarters, they turned this plot into a public sanctuary. It’s fully paved, fully accessible, and nobody comes in here to be loud, because the waterfall always wins the shouting match."
+
+Kristin squeezed my hand, a brilliant, radiant smile on her face. She guided me over to the tables, taking a seat and gently pulling me down into the metal chair right beside her.
+
+We didn't have to buy a ticket. We didn't have to order food to justify taking up a table. There was no transaction required to exist in this space.
+
+Rachel took the chair on my left, immediately shifting her weight to press her shoulder and knee flush against mine. She didn't look at the other few people sitting scattered around the park; she just stared happily at the waterfall.
+
+Kristin wrapped her arm around the back of my chair, leaning in close so her shoulder rested warmly against mine. She didn't try to force conversation over the roar of the water. She understood that my processor didn't need words right now; it just needed the time and the safe space to fully decompress from the chaotic retail energy of the morning.
+
+I sat back, sandwiched between my Bug and my Sentinel, and looked across the table at Jessica.
+
+Our older sister was leaning back in her wheelchair, her eyes closed, completely relaxed as the freezing mist from the waterfall drifted across the patio. She had systematically orchestrated this entire morning. She had used the Ride Free Area to bypass my financial panic, routed us to the museum to give us a tangible goal for the future, and delivered us to a hidden, roaring sanctuary to wash away the last lingering ghosts of Kent.
+
+I didn't have to calculate my survival anymore. I just sat in the pocket fortress, listening to the water crash against the rocks, completely and perfectly anchored to my pack.
+

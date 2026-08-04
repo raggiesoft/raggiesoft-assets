@@ -1,0 +1,30 @@
+# Part 3: A New Foundation
+
+The drive back to Lisa Court from the doctor's office was a heavy, thoughtful silence. The seven of them gathered in the Millers' living room, the grim reality of Dr. Adams's words a tangible presence in the room.
+
+Emily spread a series of pamphlets and informational handouts from the doctor across the coffee table. They were guides on nutrition for recovery, on recognizing the signs of PTSD, on the slow, patient process of physical and emotional healing after a profound trauma.
+
+"Dr. Adams said the most important thing right now is stability," Emily said, her voice quiet but steady. "A predictable routine, good nutrition, and absolutely no new stressors."
+
+Alex, who had been sitting between Chloé and Megan on the sofa, a silent, powerful fortress of support on either side of him, had been listening intently. The doctor's words, the confirmation of just how close he had come, had not broken him. It had forged him. The last vestiges of fear and confusion had been burned away, replaced by a cold, hard, and absolute clarity.
+
+He reached for his Quantum Communicator XT, his fingers moving with a speed and a certainty they hadn't had in months. The synthesized voice that emerged was not one of a victim; it was the voice of a survivor, issuing a final, unshakeable decree.
+
+I WANT TO BE CLEAR, the device stated, its tone devoid of any of his usual gentle humor. I WANT EVERYONE TO HEAR THIS. I WILL NEVER SEE VERA KOWALSKI AGAIN. I WILL NEVER SPEAK TO HER. IF SHE EVER TRIES TO CONTACT ME, I WILL CALL THE POLICE. FOR ME, SHE IS GONE. FOREVER.
+
+The declaration hung in the air, a powerful, definitive severing of the past. The four parents looked at their son, their hearts swelling with a profound, fierce pride.
+
+He then turned his head, looking from Chloé to Megan, his expression one of deep, unwavering, and unconditional trust. He continued to type.
+
+AND FOR MY RECOVERY... FOR MY LIFE... I NEED MY TEAM. I NEED BOTH OF YOU.
+
+He looked at his parents, his meaning absolute. CHLOÉ IS MY WIFE. AND MEGAN IS MY GUARDIAN. I NEED THEM BOTH. WITH ME. ALWAYS. THAT IS MY NEW NORMAL.
+
+It wasn't a request; it was a statement of a foundational truth. Chloé and Megan immediately enveloped him in a three-person hug, a silent, powerful confirmation of their shared commitment.
+
+James Miller looked at his son, at his daughter-in-law, and at his niece, at the unbreakable, three-person unit they had become. He looked at Thomas and Sophie, and a silent, complete, and total understanding passed between them all.
+
+"Then that," James said, his voice thick with an emotion that was pure, unadulterated love, "is exactly how it will be."
+
+The war was over. The long, difficult, but beautiful work of building a new, stronger, and more resilient life had just officially begun.
+

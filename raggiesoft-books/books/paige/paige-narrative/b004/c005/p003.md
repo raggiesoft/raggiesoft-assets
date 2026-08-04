@@ -1,0 +1,68 @@
+# Part 3: The Observation Deck
+
+## Sunday, May 9, 2004 — 10:15 AM (PST) The Seattle Sky-Spire
+
+The Metro-Rail glided into the station at the base of the tower. They stepped off the train and walked through the park, craning their necks to look up.
+
+The Sky-Spire rose 605 feet into the air, a slender white stalk supporting a massive, saucer-shaped top house. It looked impossible. It looked like a spaceship tethered to the ground.
+
+"Architecture check," Freddie murmured, shielding his eyes. "Tripod legs. Tapered waist. It is structurally efficient."
+
+They bought their tickets and queued for the elevator.
+
+"High velocity," Freddie warned as the doors closed. "This elevator travels at 10 miles per hour. It ascends 520 feet in 41 seconds."
+
+The lift shot up. Through the glass window, the ground fell away instantly. The trees shrank to bushes, then to dots. The cars became toys.
+
+Freddie gripped the rail, but he didn't look away. He watched the city grid reveal itself.
+
+Ding.
+
+The doors opened on the Observation Deck.
+
+They stepped out. The view was panoramic. To the west, the Elliott Bay glittered in the sun, ferries cutting white wakes across the blue water. To the east, the skyscrapers of downtown stood like glass cliffs. And in the distance, the massive, snow-capped cone of Mount Rainier floated above the horizon like a cloud.
+
+"Oh wow," Paige breathed.
+
+They walked out onto the open-air deck. The wind whipped around them, but the heavy wire cage kept them safe.
+
+Freddie walked to the edge. He looked down.
+
+He saw the grid of the streets. He saw the tiny, ant-like buses moving in straight lines.
+
+And he saw the roof of the Pathfinder terminal.
+
+From down there, it had been a prison. From up here, it was just a grey rectangle. It was small. It was insignificant.
+
+"Perspective," Freddie whispered.
+
+"What do you see?" Jessica asked, standing on his left side.
+
+"I see the map," Freddie said. "It is just data. It is manageable."
+
+He pointed down at the terminal.
+
+"That is where I was," Freddie said. "Down in the noise."
+
+He looked at his sisters. They were standing in the sun, hair blowing in the wind, smiling at him.
+
+"This is where I am," Freddie said. "Above the static."
+
+"This is where you belong," Paige said, leaning her head on his shoulder. "High ground."
+
+Freddie took a deep breath of the thin, clean air. He felt the vibration of the tower in the wind—a subtle sway designed to handle storms.
+
+It bends, he thought. But it does not break.
+
+"I like the elevation," Freddie decided. "The Overwrite is successful. Seattle is not a trap. It is a launchpad."
+
+"Good," Jessica grinned. "Now let's go inside. I think the rotating restaurant has lunch."
+
+"Rotation?" Freddie asked.
+
+"One revolution every 47 minutes," Jessica promised. "Slow and steady."
+
+"Acceptable," Freddie smiled.
+
+They went back inside, leaving the view of the bus station behind, trading the grey memory for a lunch in the sky.
+

@@ -1,0 +1,80 @@
+# Part 3: The Assembly
+
+## Date: Friday, August 27, 2004 Time: 10:15 AM Location: The Family Restroom, Concourse Level
+
+Before re-entering the sensory fray of the arena floor, logic dictated a final logistical check.
+
+They found a "Family Restroom" near the elevators. It was a single-occupancy room, large enough for Nichole’s manual chair to turn 360 degrees.
+
+Patrick locked the door. The roar of the orientation outside became a muffled thrum.
+
+"Pit stop protocol," Patrick murmured.
+
+The routine was as efficient here as it was in the loft. He parked her chair, locked the manual brakes, and assisted with the transfer. There was no awkwardness, no hesitation. They were simply a single functional unit handling a biological necessity.
+
+He helped her. She waited while he used the facilities. They washed their hands at the low sink, checking their reflections in the mirror.
+
+Patrick adjusted his collar. He smoothed a stray hair on Nichole’s head.
+
+"We good?"
+
+Nichole nodded. She felt lighter. Regulated. Empty bladder. The "Deep Pressure" reboot from the media room was holding steady.
+
+"LET'S. DO. THIS."
+
+## Time: 10:30 AM Location: The Arena Floor (Accessible Seating Section)
+
+They rolled down the ramp to the arena floor. This time, instead of wading into the chaotic sea of folding chairs in the center, Patrick steered them toward the designated accessible viewing platform—a raised riser at the back of the floor, offering a clear view of the stage over the heads of two thousand freshmen.
+
+The lights dimmed. A hush fell over the crowd, rippling from the front rows to the back.
+
+A spotlight hit the center stage.
+
+A tall, distinguished man with silver hair and the robes of academia walked to the podium. He adjusted the microphone.
+
+This was Dr. Marcus Thorne, the University President.
+
+He placed his hands on the podium. On the front of the wood structure, a large bronze medallion gleamed in the spotlight. It was the Seal of Braxton State University.
+
+The seal featured an open book resting on a granite stone, flanked by a laurel wreath and a heavy iron gear—symbolizing the city's dual history of industry and intellect.
+
+Below the image, carved into a ribbon of bronze, was the school motto:
+
+EX TERRA VIRES (Strength from the Earth)
+
+Dr. Thorne’s voice boomed through the array of speakers, deep and resonant.
+
+"Welcome," he began, "to the Class of 2008."
+
+A cheer went up from the floor—nervous, excited, young.
+
+Nichole watched from her high vantage point. She saw the seal. She saw the motto.
+
+Strength from the Earth.
+
+It fit. This wasn't an Ivy League school built on clouds and old money. This was Braxton. It was built on granite, iron, and sweat. It was a place for people who built things. People who endured.
+
+"You come here," Dr. Thorne continued, his voice echoing off the steel rafters, "not just to learn, but to forge. To take the raw material of your potential and hammer it into something that can support the weight of the world."
+
+Patrick leaned down, whispering in Nichole’s ear so only she could hear over the PA system.
+
+"Sounds like he's talking to engineers."
+
+Nichole smiled. She looked at the seal again. The gear. The stone.
+
+She felt the titanium frame of her chair beneath her. She felt Patrick’s hand resting on the push handle behind her. She felt the solid concrete of the arena floor.
+
+She wasn't just a visitor anymore. She was part of the forge.
+
+She tapped her armrest, her eyes fixed on the stage.
+
+"WE. ARE. STRONG."
+
+Patrick squeezed her shoulder.
+
+"Damn right we are, Nikki."
+
+The orientation continued, the speeches washing over them. But the fear was gone. They had survived the check-in. They had survived the noise. They had claimed their ground.
+
+As the band struck up the alma mater, Nichole Bennett—Freshman, Technical Communication Major, Resident of The Foundry—sat up straight in her manual chair and faced her future.
+

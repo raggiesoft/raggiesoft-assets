@@ -1,0 +1,84 @@
+# Part 1: The Three-Hour Shift – 8:30 AM
+
+The winter sunlight bleeding through the living room blinds was entirely too bright, but I didn't dare move a single muscle.
+
+I was completely pinned to the center of the lumpy fold-out mattress. On my left, Rachel had her face buried so deeply into my shoulder that all I could feel was her warm breath against my collarbone. Her arm was thrown heavily across my chest, and her leg was tangled securely with mine. On my right, Jessica was sleeping just as deeply, her head resting against my arm, her breathing slow and perfectly synchronized with our younger sister's.
+
+I looked up at the digital clock on the television stand. It was 8:30 AM.
+
+For my internal clock, and for Mom out in the kitchen, the morning was well underway. But for Rachel and Jessica, their biological rhythms were still heavily anchored to the Pacific Northwest. To their exhausted, travel-worn processors, it was only 5:30 in the morning.
+
+I let my head fall back against the pillows, listening to the quiet sounds of the house.
+
+From the kitchen, I could hear the rhythmic sizzle of bacon hitting a hot cast-iron skillet and the soft clinking of ceramic coffee mugs.
+
+There was another sound, much closer. A heavy, rhythmic panting.
+
+I turned my head slightly to the left. Resting his massive, heavy black chin directly on the edge of the mattress, mere inches from Rachel's face, was Baby. The giant Labrador let out a soft, low whine, his dark eyes staring at us with pure, unadulterated devotion. He wanted to climb onto the bed, but he knew the rules.
+
+Right behind him, pacing a tight circle on the carpet, was Archie. His cloudy blue eye was wide with morning energy, and clamped firmly in his jaws was a frayed, saliva-soaked plush squirrel. He kept nudging Baby out of the way, desperate to show off his prize to the girls.
+
+"Not yet, boys," I whispered as quietly as I could. "They're still on Seattle time."
+
+Baby let out a heavy sigh, his breath ruffling Rachel's hair, but he stayed perfectly still.
+
+My own biological needs were starting to override my role as the human anchor. My bladder was full, and my muscles were incredibly stiff from sleeping perfectly rigid all night. I needed to execute an extraction protocol.
+
+Moving with agonizing, millimeter-by-millimeter precision, I slowly slid my right arm out from under Jessica. She shifted slightly, letting out a quiet murmur, but didn't wake up.
+
+Rachel was the harder puzzle. I had to gently lift her heavy arm off my chest, immediately replacing my body weight with a thick, folded blanket so her nervous system wouldn't register the sudden loss of pressure. I slid out from under her leg and carefully rolled off the end of the mattress.
+
+Rachel let out a soft, distressed vocalization, her hands blindly grabbing the blanket and pulling it tight against her chest, but she stayed asleep.
+
+I quietly grabbed my clothes and headed for the downstairs bathroom.
+
+When I emerged ten minutes later, dressed in sweatpants and a clean shirt, the smell of breakfast had completely saturated the first floor. I walked into the kitchen.
+
+Mom was standing by the stove, flipping eggs.
+
+"Morning," Mom said softly, offering a warm, tired smile over her shoulder. "Did they sleep through the night?"
+
+"Like rocks," I confirmed, leaning against the kitchen counter. "Their internal clocks are entirely reversed right now."
+
+Mom nodded, setting a plate of bacon on the table. She poured two glasses of orange juice and a cup of coffee for herself.
+
+I stood in the kitchen, just listening to the ambient noise of the morning. And as I stood there, a profound, undeniable realization hit me.
+
+The house was quiet. But it wasn't the terrifying, suffocating silence we used to endure.
+
+When Dad lived here, silence was just the volatile pause before an explosion. We used to tiptoe across the linoleum, terrified that a dropped fork or a loud laugh would trigger a violent, screaming lecture. Every single morning used to begin with a strict, oppressive calculation of Dad's mood.
+
+But today, the silence was just... peace. The baseline of fear was completely gone. Dad wasn't sitting at the head of the table radiating anger. He wasn't glaring at Rachel for struggling to speak. He wasn't barking orders at Jessica.
+
+He was gone. And absolutely none of us missed him.
+
+"It feels different, doesn't it?" Mom asked quietly, catching the analytical drift of my gaze. She leaned against the counter next to me, her hands wrapped around her warm coffee mug.
+
+"It feels safe," I answered honestly.
+
+Mom closed her eyes for a fraction of a second, a profound relief washing over her face. "I'm glad. That's all I want for you three."
+
+A loud, mechanical squeal from the living room broke the quiet moment. Jessica was awake, and she had just unlocked the brakes on her manual wheelchair.
+
+A moment later, Jessica wheeled backward into the kitchen archway. Her hair was messy, and her eyes were heavy with sleep, but her pragmatic radar was already fully online.
+
+Right behind her chair, looking like a complete zombie, was Rachel. She was dragging her feet, her oversized sleep shirt hanging off her shoulders, but her hands were locked securely onto the rubber push-handles of Jessica's chair.
+
+"It is entirely too early," Jessica announced, letting out a massive yawn. "But the smell of sodium and cured meat pulled us out of stasis."
+
+"Good morning, girls," Mom laughed, pulling out chairs at the dining table. "Sit down. Breakfast is ready."
+
+Rachel didn't look at the food. She bypassed the table completely, walking straight past Mom, and stepped right into my personal space. She wrapped her arms around my waist, pressing her face into my chest, her eyes squeezed tightly shut against the bright kitchen lights.
+
+"Morning, Rachel," I rumbled softly, wrapping my arms around her shoulders and resting my chin on her head. "Welcome to the East Coast."
+
+She let out a long, vibrating hum of contentment, completely ignoring the fact that Baby and Archie were currently circling her legs, their tails thumping loudly against the kitchen cabinets.
+
+We eventually migrated to the table. I sat in the middle, naturally, with Rachel on my left and Jessica parking her chair on my right. We ate in a comfortable, groggy haze. Archie occasionally rested his chin on Rachel's knee, offering his soggy plush squirrel as a tribute, which Rachel happily accepted and placed on the table next to her plate.
+
+Nobody screamed. Nobody told Rachel to sit up straight or look people in the eye. Nobody complained about the dogs.
+
+It was just Mom, me, Rachel, and Jessica. The perimeter was perfectly secured, the food was warm, and the monster was officially evicted from our reality.
+
+
+

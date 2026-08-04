@@ -1,0 +1,27 @@
+# Part 15: The First Peaceful Sleep
+
+The triumphant energy from their successful college registration slowly gave way to a profound, bone-deep exhaustion that settled over the entire house. It had been a day of immense emotional swings and non-stop activity.
+
+It was just before 9 PM when Leo, feeling the heavy pull of sleep, lifted his MagnaByte Scribe. The tinny voice spoke his message to the quiet living room: "SO TIRED. OLIVIA TOO. CAN WE GO TO BED NOW? WANT TO FIX TIME ZONE."
+
+"Go," Stella said, her voice soft with love. "You've both more than earned it. Go enjoy your new room."
+
+After saying their goodnights, Leo and Olivia headed to their transformed bedroom. It was their space now.
+
+"Let's get you into some of these new pajamas," Olivia said softly, pulling a new pair of soft flannel pants and a fresh t-shirt from one of the shopping bags. With a gentle and practiced efficiency, she helped Leo change out of his day clothes and into the comfortable new sleepwear.
+
+"There," she said, once he was settled. "All set. Okay, my turn. I'll just be a minute," she added, grabbing her own overnight bag and turning towards the bedroom door to go to the main bathroom.
+
+Leo's breath hitched. A small, sharp sound of distress escaped him, and he reached out a hand, his eyes wide with a sudden, raw panic. The thought of her leaving the room, of the door closing and him being alone, was a terrifying echo of the horror in Kent.
+
+"STAY," he typed frantically on his Scribe. "PLEASE. DON'T GO. AFRAID."
+
+Olivia stopped instantly, her heart aching as she saw the genuine terror on his face. She immediately understood. It wasn't about privacy; it was about her presence. "Okay," she whispered, her voice impossibly gentle as she put her bag down. "Okay, Leo. I won't leave. I'm right here."
+
+She simply turned her back, using the corner of the room for a modicum of privacy, and quickly changed into her own pajamas. It wasn't awkward; it was a necessary act of reassurance, a quiet confirmation that his fear was valid and his need for her constant presence was paramount.
+
+The new bed was just as soft and welcoming as they remembered from the store. After she helped him transfer, they settled in under the plush blue comforter. Olivia wrapped an arm around him, pulling him into a gentle, sleepy hug. "Goodnight, Leo," she whispered. "Sleep good."
+
+He didn't need to type a reply. He simply leaned into her platonic embrace, a deep, contented sigh escaping him. The nightmares felt a world away. Here, in this new bed, in this new room, with his best friend holding him safe and refusing to leave his side even for a moment, he was finally, truly, peacefully home.
+
+

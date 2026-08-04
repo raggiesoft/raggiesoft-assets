@@ -1,0 +1,88 @@
+# Part 6: The Prismatic Corridor – 4:30 PM (CST)
+
+(Rachel's POV)
+
+The transition from the insulated, premium sanctuary of the aircraft cabin to the massive, sprawling reality of the Chicago transit hub was a severe shock to my system.
+
+We retrieved Jessica's manual wheelchair on the jet bridge. She transferred back into her custom seat, instantly regaining her mobility and her armor. I took my position behind her, locking my hands onto the rubber push-handles.
+
+"Alright, Rachel," Jessica said, looking up at the massive, illuminated signs hanging from the high ceiling of Concourse B. "The flight to Norfolk departs from Concourse C. According to the map, Concourses B and C are parallel. We have to take an underground pedestrian tunnel beneath the concrete apron to cross over."
+
+I nodded, adjusting my grip. A tunnel sounded mathematically efficient. A straight line from point A to point B.
+
+We navigated toward the center of the concourse, joining a massive current of holiday travelers moving toward the downward escalators and elevators. I steered us into the glass elevator, completely unaware that we were descending directly into an unmapped sensory trap.
+
+The elevator doors opened at the sub-level.
+
+The acoustic assault hit me before the visual did. It wasn't the ambient, echoing roar of a normal airport. It was music. Loud, pulsating, synthesized music echoing violently against curved, subterranean walls.
+
+I pushed Jessica forward around the corner, and the entire world exploded.
+
+We were standing at the entrance of the Prismatic Corridor. It was a massive, underground tunnel, and its entire ceiling was covered in thousands of kinetic neon-light tubes.
+
+It wasn't just brightly lit; it was moving. Massive waves of rainbow light strobed and chased each other down the length of the tunnel in rapid, erratic sequences. The reflective glass walls bounced the flashing colors back and forth, completely destroying any sense of spatial geometry. And the synthesized music—a heavy, ethereal, ringing tone—vibrated aggressively against my ribcage.
+
+But the floor wasn't a standard corridor. It was mechanized. Stretching out in front of us were parallel moving walkways—horizontal escalators made of heavy, grooved metal pallets. There were four massive belts running side-by-side in this first section, two pulling traffic toward Concourse C, and two bringing traffic back.
+
+Meridian Airlines had commissioned the entire space as a flagship art installation. For my neurodivergent brain, it was a weaponized sensory gauntlet.
+
+My lungs seized. The flashing lights felt like physical strikes against my eyes. I couldn't process the depth of the tunnel, and the echoing music mixed with the mechanical *clack-clack-clack* of the metal walkways completely scrambled my audio processing.
+
+"Rachel," Jessica's voice cut through the synthesized noise, sharp and alarmed. She felt my hands lock up on her push-handles. The chair had stopped moving.
+
+Jessica looked up at the ceiling, then down the massive, strobing length of the corridor. Her analytical brain instantly identified the catastrophe. She hadn't known about this. Her logistical supremacy had failed because this wasn't an operational parameter; it was an artistic one.
+
+"I didn't know," Jessica said, her voice laced with a rare, furious guilt. "I am so sorry, Rachel. I didn't know this was here."
+
+I squeezed my eyes shut, but it didn't help. The neon lights were so intense they flashed bright red and blue right through my eyelids.
+
+"Disco tunnel," I managed to rasp out, my throat tight with panic. It was the most derogatory term my brain could generate for the horrific, flashing nightmare.
+
+"It's a disco tunnel," Jessica agreed, her tone turning cold and tactical. She reached back, placing her hands over mine on the rubber grips. "We cannot turn around. We have to cross it to get to Michael. Look exactly at the back of my jacket. Do not look at the walls. Do not look at the ceiling. I will steer the wheels. You are just the engine. Push."
+
+I opened my eyes, locking my vision entirely onto a single, dark seam on the back of Jessica's winter coat.
+
+I pushed.
+
+We moved forward, and Jessica skillfully angled her front casters onto the right-hand moving walkway. There was a sharp, jarring bump as the wheelchair transitioned onto the moving metal pallets. I stepped on right behind her, my hands still in a death grip on the handles.
+
+Being on the mechanized belt was terrifying. Once we were on it, we were trapped in the flow. The metal plates vibrated beneath my shoes, adding a deep, physical hum to the strobing lights above. I just stared at the dark fabric of my sister's coat, counting the rhythmic mechanical clicks of the belt to stay grounded.
+
+Click. Click. Click.
+
+After what felt like an eternity, the walkway ended. The belt fed us back onto solid tile.
+
+I gasped, looking up for a fraction of a second, hoping it was over. But we were only halfway. The tunnel broke in the middle, a wide, open plaza area providing access to a set of subterranean restrooms.
+
+Beyond the restrooms, a second, identical set of four moving walkways stretched out toward the distant elevators of Concourse C. The lights were still flashing. The synth music was still ringing.
+
+My knees buckled slightly, the sheer volume of sensory input threatening to shut my system down entirely.
+
+"Do not stop, Rachel," Jessica commanded, her voice an absolute, immovable anchor in the chaos. "Onto the second belt. Right now."
+
+I gritted my teeth, locked my eyes back onto her jacket, and pushed her onto the next grooved metal walkway.
+
+It felt like it took an hour to cross the second half of the tunnel. By the time the walkway finally spit us out at the Concourse C elevator bank, my breathing was ragged, and a cold sweat had broken out on the back of my neck.
+
+I pushed us into the elevator, and as the doors slid shut, cutting off the neon lights and dampening the horrific music, the heavy, metallic vibration finally stopped.
+
+"We're out," Jessica said immediately. "We are out. It's over."
+
+When the elevator reached the main concourse level, Jessica didn't direct me toward our gate. She pointed to a quiet, dimly lit alcove near a closed storefront.
+
+"Park me there," she commanded.
+
+I pushed the chair into the shadows, out of the flow of pedestrian traffic. I immediately dropped to my knees on the thin airport carpet, pressing my forehead hard against the metal side-frame of Jessica's wheelchair. I needed the deep, unyielding pressure of the cold aluminum against my skin to reset my nervous system. I let out a long, distressed hum, my hands gripping the metal spokes of her wheel.
+
+Jessica didn't tell me to get up. She didn't tell me I was overreacting. She engaged the brakes, reached down, and rested her hand firmly on the back of my head, providing a heavy, grounding weight.
+
+We stayed in the alcove for twenty minutes while my processor slowly rebooted.
+
+As my breathing finally stabilized and the phantom flashing lights faded from my vision, Jessica looked up at the massive Meridian departure board hanging in the center of the concourse. Her jaw was set in a hard, unforgiving line.
+
+"I am logging a permanent rule in the system," Jessica stated, her voice quiet but possessing absolute, terrifying finality. "We are surviving this return trip because we have no other choice. But after January, we are never flying through this city again. I will rebuild our entire transit protocol from scratch before I ever let an airline subject you to that again."
+
+I kept my forehead pressed against the cold metal of her chair, letting out a soft, exhausted sigh. I hated the disco tunnel. I hated Chicago.
+
+But as the heavy, grounding pressure of Jessica's hand remained on my head, I knew one mathematical certainty: when Jessica made a logistical vow, it was absolute. Meridian's massive Midwestern hub was officially dead to us.
+

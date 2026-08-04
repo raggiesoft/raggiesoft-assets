@@ -1,0 +1,35 @@
+# Part 6: The Breaking Point
+
+The first few weeks of their new jobs were a whirlwind of empowering, exhausting new routines. But the new schedule was demanding. Long days of classes were now followed by four-hour work shifts, and by the time they left the CCHR campus on Friday afternoon, the cumulative exhaustion of their first full week as working students had settled deep in their bones.
+
+To make matters worse, a miserable, cold rain had been lashing Virginia Beach all day. The short walk to Chloé's Avalon felt like a mile. When they finally reached the car, the real work began. Chloé, her hair already plastered to her face, struggled to hold a large umbrella over Alex as she began the familiar, strenuous process of dismantling his life-support system: the AAC mounting arm, the tray, and finally, the heavy titanium frame of his wheelchair.
+
+Alex sat in the passenger seat, watching helplessly as the rain soaked his best friend. He hated this part. He hated watching her wrestle with his equipment after she'd already worked a full shift, hated that their escape was delayed by this necessary, fifteen-minute ordeal.
+
+Finally, after one last, muscle-straining heave, the folded chair was in the trunk. Chloé slammed it shut and slid, soaked and shivering, into the driver's seat. She let out a long, shuddering sigh, her entire body slumping with a weariness that went beyond just the rain.
+
+They drove home to Lisa Court in a tired silence. When they pulled into the driveway, Megan was waiting at the door of the Miller house, her expression immediately shifting to one of concern as she saw her two drenched and exhausted friends.
+
+She helped them get inside and settled in the living room. "You guys look like you've been through a battle," she said, handing Chloé a dry towel.
+
+"I can't do this anymore, Meg," Chloé said, her voice raw with exhaustion. "I am so, so tired. My back hurts. And I hate watching Alex get soaked while I fight with all his gear. We're working adults now. This... this isn't sustainable."
+
+Megan nodded, a look of deep, empathetic understanding on her face. "I know," she said. "You know, there's a guy in my department at work. His wife uses a power chair. They have an accessible van, a Holt Wayfarer with a side-entry ramp. He was showing it to me the other day. It's incredible. She just drives right in, locks down, and they go. The whole process takes thirty seconds."
+
+She looked from Chloé to Alex. "He says it completely changed their lives. No lifting, no transfers in the rain. Just... freedom."
+
+Alex and Chloé looked at each other. The same thought, the same memory, sparked in their eyes at the exact same time.
+
+THE CHRISTMAS PRESENT, Alex's Quantum Note voiced into the quiet room.
+
+Megan’s face broke into a knowing smile. "Yeah, cuz. The Christmas present."
+
+Chloé's head snapped up, her exhaustion replaced by a new, fierce determination. "The 'Family Adventure Package'," she said, the words a rediscovered promise.
+
+IT'S TIME, Alex typed. WE BITE THE BULLET. WE GET THE VAN.
+
+"Yes," Chloé agreed, her voice now firm. "Yes, we do. Tonight. We call the parents, and we tell them we're cashing it in."
+
+Megan sat back, a look of profound, sisterly pride on her face. Her part of the mission was complete. She had provided the final piece of data, the real-world example they needed to make the leap. The decision was made. Their new life was wonderful, but it was also incredibly hard. And they knew, with a shared, unspoken certainty, that it was time to claim the tool that would make it all possible.
+
+

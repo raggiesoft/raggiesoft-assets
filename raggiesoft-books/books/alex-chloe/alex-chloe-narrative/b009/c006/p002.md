@@ -1,0 +1,46 @@
+# Part 2: The Family Investment
+
+The following Saturday was declared "Operation: Furnish the Future." The mission: to acquire the large, essential pieces of furniture for the new apartment. All seven of them—Alex, Chloé, Megan, and their four parents—piled into two cars and headed for "The Furniture Showcase," a massive showroom off Virginia Beach Boulevard.
+
+The moment they walked in, the generational divide in priorities became lovingly, comically apparent. James and Thomas, armed with a measuring tape, assessed practicality. Emily and Sophie debated aesthetics. And Megan, the veteran of student-apartment living, was focused on durability and multi-functionality.
+
+Alex and Chloé moved through the showroom as a quiet, efficient unit at the center of this loving chaos. They listened to their parents' differing opinions, but their own focus was singular: finding what worked for *them*.
+
+The great sofa debate lasted for nearly an hour, with the parents deadlocked. While they argued, Alex and Chloé found it. Tucked away in a different section was a simple, modern sectional. It was stylish but not fussy, the fabric was a durable, soft chenille, and most importantly, the legs were high enough to easily accommodate Alex's wheelchair footrests.
+
+They exchanged a look—a silent, perfect communication. This was it.
+
+Alex wheeled over to his parents. WE FOUND ONE, his Quantum Communicator XT announced, its voice cutting through the debate. He led them over to the sectional.
+
+The four parents stopped and looked. It was the perfect compromise. "Well, I'll be," James said, a slow, impressed grin spreading across his face. "Kid's got good taste."
+
+The same process repeated for the kitchen table and, they thought, their new queen-sized bed. When they finally proceeded to the sales desk, they had selected the foundational pieces of a home.
+
+"Alright," James said to the salesperson after the items were rung up. "Now, this is all for our kids' new apartment, but it won't be ready for them to move in for a few more weeks. We need to schedule the delivery for on or after Monday, April 5th."
+
+"Not a problem at all," the salesperson replied, tapping on his keyboard. "We do delayed deliveries all the time."
+
+As they drove home in the Masons' minivan, the mood was triumphant. The furniture was bought. Their future was no longer just a floor plan; it had a sofa, a table, and a bed, all waiting patiently for them to come home.
+
+In the quiet of the minivan, Alex, who had been looking thoughtfully out the window, turned to Chloé and Megan, who were seated on either side of him. He reached for his Quantum Note.
+
+THE APARTMENT... he typed. IT'S TWO BEDROOMS, RIGHT?
+
+"That's right," Chloé said, a little confused. "One for us, and one for Megan."
+
+He paused, gathering his thoughts. I REMEMBER... THE FIRST NIGHT I CAME HOME. FROM WASHINGTON. I WAS SO SCARED. AND I NEEDED BOTH OF YOU. WE ALL SLEPT ON THE SOFA BED.
+
+Megan and Chloé both looked at him, a wave of deep, loving understanding washing over them. They knew what he was asking.
+
+THIS NEW PLACE... he continued, his vulnerability a profound act of trust. IT'S A BIG CHANGE. I'M... NERVOUS. IT'S NOT HOME YET. I WANT TO FEEL SAFE. I WANT... He looked from Chloé's eyes to Megan's. I WANT US TO SHARE A ROOM. ALL THREE OF US. LIKE WE DID THAT FIRST NIGHT.
+
+Chloé’s heart melted. She would have moved heaven and earth to make him feel secure. The thought of him being in a separate room from his two primary protectors while he was still healing felt, in that moment, completely wrong. "Of course, Alex," she said softly, without a moment's hesitation. "Of course. That's a great idea."
+
+Megan, on his other side, immediately chimed in, her voice full of a bright, practical warmth. "That actually makes perfect sense. My work-from-home setup can get pretty messy anyway. It would be way better to turn that second bedroom into a dedicated, three-person office for all of us. We can put our desks in there and keep the bedroom as a pure sanctuary."
+
+A visible wave of relief washed over Alex's face. REALLY? YOU WOULD BOTH BE OKAY WITH THAT?
+
+"Are you kidding?" Megan said, giving his shoulder a firm, reassuring squeeze. "It's the perfect plan."
+
+Chloé grinned. "Well," she said, a new, triumphant energy in her voice as she pulled out her phone. "In that case, I need to call The Furniture Showcase." She dialed the number. "Hi, yes, I was just there with my family, order number 743... Yes, the Miller-Mason party... We need to make a small change to our order. The queen-sized bed? We'd like to upgrade that to a king."
+

@@ -1,0 +1,78 @@
+# Part 3: The Pitch
+
+## 08:00 AM
+
+"Intel first, then fuel," Jessica instructed, steering them away from the bagel table for a moment. "We need the packet."
+
+They joined the line at the registration tables. It was moving efficiently—a hallmark of an engineering school. A student volunteer in a maroon polo asked for their names, checked a list, and handed Freddie and Paige their "Candidate Kits."
+
+It was a glossy maroon folder containing a campus map, a schedule of engineering breakout sessions, a CPI pen, and a sticker that said **FUTURE FORGER**.
+
+Freddie opened the folder immediately. The map was laid out on a grid. The schedule was color-coded.
+
+"The data is organized," Freddie noted, running his finger down the itinerary. "10:00 AM: Mechanical Engineering Presentation. 11:00 AM: Computer Science Lab Tour."
+
+"Solid," Jessica nodded. "Now, we eat."
+
+They retreated to a high-top table near a pillar. The continental breakfast was standard institutional fare: trays of bagels, tubs of cream cheese, and a large bowl of cut melon that Freddie eyed with suspicion.
+
+"I will stick to the dry carbohydrates," Freddie decided, selecting a plain bagel. "The moisture content of the fruit is uncontrolled."
+
+"Smart play," Jessica said, sipping her coffee. "You don't want sticky hands before the handshake line."
+
+As they ate, the noise in the atrium began to shift. The murmuring crowd was flowing toward the double doors of the Grand Ballroom.
+
+"Showtime," Jessica announced, checking her watch. "The President’s Welcome Address starts in five minutes. We need to secure a perimeter seat."
+
+## 08:30 AM
+
+The Grand Ballroom of Newman Hall was a sea of folding chairs. Jessica led them to a row near the back, on the aisle.
+
+"Escape route secured," she whispered to Freddie. "If it gets too loud, we can slip out the side door."
+
+"Acknowledged," Freddie whispered back. He sat down, clutching his folder like a shield.
+
+The lights dimmed. The room went quiet. On the stage, a podium bearing the CPI seal—a hammer and a quill crossed over a shield—was spotlighted.
+
+A man in a dark suit walked onto the stage. He looked like a statesman, grey-haired and distinguished, but he walked with a brisk, energetic stride.
+
+"Good morning," the man said. His voice was warm but authoritative. "I am President Harrison. And on behalf of the faculty, the staff, and the Forger Nation... welcome to the Iron City."
+
+Polite applause rippled through the room.
+
+"You are here because you are looking for something," Harrison continued, resting his hands on the podium. "You are looking for a college. You have brochures from the **University of the Piedmont**, from **The Royal College**, from **Atlanta Poly** and **Massachusetts Tech**. They are all fine institutions. They will teach you theory. They will teach you history."
+
+He paused, leaning forward.
+
+"But at Commonwealth Polytechnic, we do not just teach history. We forge the future."
+
+He gestured to the screen behind him, which flashed images of students welding steel, coding in dark labs, and launching rockets.
+
+"Our motto is *Ut Prosim*—That I May Serve. That is not a suggestion. That is a command. We believe that knowledge is useless unless it is applied to the service of humanity. We don't just want you to be smart. We want you to be useful."
+
+Freddie sat up straighter. *Useful.* That was a variable he understood.
+
+"This is not an easy school," Harrison warned, his voice dropping to a serious register. "The wind blows harder here. The winters are colder. The curriculum is rigorous. We will push you. We will test your metal. We will put you in the crucible and turn up the heat."
+
+He smiled, a genuine, challenging smile.
+
+"But if you stay... if you do the work... you will not just leave with a degree. You will leave with a spine of iron. You will leave as a Forger. And you will be ready to build the world that everyone else just dreams about."
+
+The screen faded to the CPI logo.
+
+"Look around you," Harrison commanded. "Look at the person sitting next to you. They might be your future lab partner. They might be the person you start a company with. Or..." he smiled at the parents, "...they might just be your ride home."
+
+Laughter rippled through the crowd.
+
+"Enjoy the day," Harrison concluded. "Ask hard questions. Explore the labs. And ask yourself: Are you ready to pick up the hammer?"
+
+The applause was louder this time. The lights came up.
+
+"He is persuasive," Freddie said, standing up. "He defines the variables clearly."
+
+"He's good," Jessica agreed. "Now comes the real test. We have thirty minutes to get you to the Computer Science building. And Freddie?"
+
+"Yes?"
+
+"Prepare yourself," Jessica grinned. "You're about to see the servers."
+

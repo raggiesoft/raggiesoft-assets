@@ -1,0 +1,16 @@
+# Part 3: A Quiet Domesticity
+
+The first full day of their independence, a bright and sunny Sunday, was dedicated to a grand culinary experiment. They decided to cook a real meal, a proper dinner, not just the simple sandwiches or frozen pizzas that had been their go-to snacks. The mission: Emily Miller's famous lasagna.
+
+The Miller house kitchen became their laboratory. Chloé, perched on a stool with her MagnaByte laptop open to the recipe her mom had emailed her, acted as the director. Alex, in his wheelchair, was the lead technician. He carefully chopped onions and garlic at the kitchen table, his movements precise and focused. They moved around each other in a comfortable, practiced rhythm, a seamless team navigating a new and exciting challenge. The resulting lasagna was a little messy, perhaps a bit burnt around the edges, but it was theirs. They ate it at the dining room table, a quiet, domestic scene that felt incredibly adult and significant.
+
+Monday was a wash-out, a classic Virginia spring day of gray skies and relentless drizzle. It was the perfect excuse for a movie marathon. They raided the Millers' extensive collection of sci-fi DVDs, made a huge bowl of popcorn, and spent the entire day on the sofa, wrapped in a warm blanket.
+
+They reveled in a lineup of spectacularly terrible sci-fi movies, the kind of films with rubber-suited aliens, visible spaceship wires, and dialogue so earnest it was hilarious. It was a genre they both secretly adored, and one they knew for certain Megan would have mercilessly teased them about if she were there.
+
+THIS IS A CINEMATIC MASTERPIECE, Alex typed with perfect seriousness after a particularly bad special effect.
+
+"An absolute classic," Chloé agreed, her voice full of mock reverence as she tossed a piece of popcorn at him.
+
+It was a simple, cozy day, but the fact that they could do it without interruption, in a quiet house that was entirely their own, made it feel special. They weren't just friends having a sleepover; they were partners, capable of building a life, solving problems, and navigating the world, together.
+

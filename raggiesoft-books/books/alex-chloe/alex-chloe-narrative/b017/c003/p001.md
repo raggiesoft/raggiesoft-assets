@@ -1,0 +1,16 @@
+# Part 1: The New Normal (Late Spring/Early Summer 2020)
+
+The weeks after their recovery were a slow, cautious re-emergence, not into the world they had known, but into a changed and wary version of it. The news began to speak of a "phased reopening." It wasn’t a return to normal, but a carefully controlled easing of restrictions. Masks were a mandatory, ubiquitous feature of any public space.
+
+For the three of them, life remained largely contained within the walls of their apartment, but the atmosphere had transformed from a tense isolation ward to a warm, healing sanctuary. With the fear of the virus lifted, their familiar, loving physical affection returned. The three of them could once again be found on the sofa, a comfortable tangle of limbs, watching movies. The hugs and cuddles, which had been a source of profound comfort for years, now felt like a triumphant act of reclamation, a quiet celebration of their shared survival.
+
+Their professional lives slowly began to restart. Alex’s return to his job as a software engineer at Clarity Accessibility Software was gradual. His company was understanding, but Alex, who prided himself on his work ethic, found the lingering, deep-seated fatigue from the virus a quiet source of frustration. He could only manage a few hours of focused coding at a time before needing to rest.
+
+Megan’s return to her role as a Technical Writer at Quantum was a bit easier, her own bout with the virus having been less severe. She was the first to venture back out into the world, her hybrid work schedule now requiring her to go into their Redmond office, a space now reconfigured with social distancing protocols and mandatory mask policies.
+
+Chloé, who had completely abandoned her own work to become the sole caregiver, was finally able to log back in to her job. She worked remotely as a Data Coordinator for a national animal welfare non-profit. With Alex and Megan now safely on the mend, a huge weight had been lifted from her shoulders. She found a deep, satisfying irony in her work: every successful adoption she logged was a lesson she was learning for the day the three of them would run a center of their own.
+
+Their apartment once again found its rhythm, not of fear and sickness, but of quiet, shared purpose. The sound of Alex’s and Megan's keyboards tapping out lines of code and documentation was once again joined by the sound of Chloé’s determined typing on her own projects. The Lynnwood Discovery and Care Center was still a dream on pause, but their day jobs were now actively teaching them the skills they would need to make it a reality.
+
+The world outside was different, marked by six-foot gaps in grocery lines and the awkward, muffled conversations through masks. But inside their small haven, the most important things remained unchanged. They were together, they were safe, and they were, slowly but surely, moving forward.
+

@@ -1,0 +1,18 @@
+# Part 6: A Sleepless Resolve
+
+The thin walls of Delores's bedroom offered no protection from the argument raging in the living room. Leo heard all of it: Clara's desperate, urgent explanation, Delores's scoffing disbelief, and the sharp, terrifying words that followed.
+
+Rape? Prison? He didn't fully understand what the word "rape" meant, but he understood the terror in Clara's voice. He understood it was something very severe, a consequence of something he and Delores might do together. The realization that their relationship could lead to something so terrible, something that involved police and prison, filled him with a cold, paralyzing fear. He was scared. And in that moment, he wished with every fiber of his being that he was home, that Stella and Luna had taken him with them after the bath. But he was too scared to get on the phone and call for help, terrified of what Delores would do if she caught him. He would have to endure.
+
+When Delores finally came back into the bedroom, her face was a mask of forced cheerfulness, but her eyes were cold and hard. She was cranky, and Leo could feel the anger radiating from her like a toxic heat.
+
+Steeling himself, he reached for his Quantum Communicator. He had to try.
+
+"I WANT TO GO HOME. TO STELLA'S. PLEASE."
+
+Delores looked at the message and let out a short, bitter laugh. "Oh, you're being ridiculous. You're not going anywhere. You live here now, remember?" Her tone was final, a clear warning.
+
+Leo immediately backed down, scared of enraging her further. He said nothing more, a profound sense of entrapment settling over him.
+
+He hardly slept that night. He lay stiffly in the bed, pretending to be asleep, every nerve on high alert. The frightening words from the argument echoed in his mind, mingling with the memory of Delores's cold fury. But as the long, terrifying night wore on, his fear slowly hardened into a quiet, unshakeable resolve. He was grateful that he didn't have an early class the next day. He decided that tomorrow, no matter what it took, he was going to tell Stella and Luna everything. He would tell Olivia. He would tell them all. This had to end.
+

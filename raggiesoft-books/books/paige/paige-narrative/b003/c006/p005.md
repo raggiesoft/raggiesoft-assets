@@ -1,0 +1,73 @@
+# Part 6: The Sandwich Configuration
+
+## Wednesday, July 9, 2003 21:10 PM
+
+The credits of the sci-fi show faded, leaving the room in silence. The blue light of the TV vanished as Jessica pressed the power button, plunging the living room into total darkness.
+
+"System shutdown," Jessica announced softly. "Time to dock."
+
+They moved through the hallway, guided by the muscle memory of the house layout. They entered the Master Bedroom—**The Silo**.
+
+It was pitch black. The blackout curtains were drawn tight, sealing out the streetlights of Pepper Plaza. The only light came from the small red digits of the alarm clock: **21:12**.
+
+"Alarm is set for 06:30," Paige whispered. "That gives us plenty of time to catch the 08:00 bus."
+
+Freddie stood by the edge of the massive King Bed. He felt a flutter of static in his chest—not the bad kind, but the vibrating hum of anticipation.
+
+"Tomorrow," Freddie said, his voice cutting through the dark. "The Specialist."
+
+"Dr. Arrington," Jessica confirmed. "10:00 AM."
+
+"He holds the Manual," Freddie stated. "Tomorrow, we verify the operating system. We confirm the diagnosis."
+
+"We already know the diagnosis, Freddie," Paige said gently, pulling back the duvet. "We know who you are."
+
+"I suspect," Freddie corrected. "I require official documentation. I require the label. A system cannot be optimized if the specifications are unknown."
+
+"Well," Jessica said, "tomorrow we get the specs. But tonight, we recharge."
+
+They stripped off the light lounge clothes they had worn for the evening. In the sanctuary of the Silo, clothing was unnecessary friction. It was just another texture to get tangled, another seam to press against skin.
+
+They climbed into the bed.
+
+The configuration was non-negotiable. It was the only way the Avery Unit could sleep effectively.
+
+**The Sandwich Configuration:**
+
+- **Left Flank:** Jessica. The oldest. The Shield. She took the side closest to the door, placing herself between the world and her family.
+
+- **Right Flank:** Paige. The Anchor. She took the side closest to the wall, creating a soft, immovable boundary.
+
+- **The Core:** Freddie.
+
+He climbed into the middle. The mattress dipped slightly under their combined weight, creating a gravity well that pulled them together.
+
+He lay on his back. To his left, he felt the warmth of Jessica’s arm against his. To his right, Paige shifted, pressing her side against his ribs.
+
+There was no space between them. They were packed tight, skin against skin, creating a continuous feedback loop of pressure and heat.
+
+"Pressure check?" Jessica asked from the darkness.
+
+"Optimal," Freddie breathed.
+
+He felt the weight of the heavy duvet settle over them. Even in the summer heat, the AC was cranked low enough to justify the weight. Freddie needed the weight. It held his legs down. It stopped the involuntary twitches.
+
+He closed his eyes.
+
+He thought about the stars on the TV screen. He thought about the clean, logical interface of the starship *Avalon*. And he thought about tomorrow.
+
+For twenty years, he had felt like he was running the wrong software. He had felt like a glitch. Tomorrow, a man in a white coat was going to look at him and tell him that he wasn't broken—he was just a different model.
+
+"Goodnight, Captain," Paige whispered, draping her arm over his chest to lock him in.
+
+"Goodnight, Navigator," Freddie murmured.
+
+"Goodnight, Shield," he added to Jessica.
+
+"Night, little brother," Jessica said.
+
+The silence of the house wrapped around them. Secure in the center of the bed, held in place by the only two people in the universe who spoke his language, Freddie Avery let the system enter Sleep Mode.
+
+One day ended. The next—the day he would finally get his name—was waiting in the queue.
+
+

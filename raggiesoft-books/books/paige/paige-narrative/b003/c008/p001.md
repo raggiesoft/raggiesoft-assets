@@ -1,0 +1,128 @@
+# Part 1: The Decompression Protocol
+
+## Monday, July 14, 2003 17:15 PM
+
+The front door of **105 Pepper Street** clicked shut, and the heavy deadbolt slid home with a reassuring *thunk*.
+
+The silence inside the house was absolute. The air conditioner hummed its steady, white-noise rhythm, scrubbing the humidity and the memory of the tornado siren from the air.
+
+"Decontamination," Jessica announced, dropping her keys in the bowl. "Immediate execution."
+
+They moved to their respective zones. The "Armor" of the day—jeans, shoes, bras, and the sweat of the storm—was stripped away.
+
+Ten minutes later, the Avery Unit reassembled in the living room. They were now in **Safe Mode**.
+
+**Freddie:** Wearing soft grey lounge pants and his safety-orange hoodie (zipper open, hood down).
+
+**Paige:** Wearing an oversized t-shirt and cotton shorts.
+
+**Jessica:** Wearing flannel pajama pants and a tank top.
+
+"Food protocol?" Jessica asked, moving to the kitchen phone.
+
+"Pizza," Freddie stated from the sofa. He was already building the "Nest"—arranging the pillows in the corner. "Pepperoni. Thin crust. It provides a consistent texture profile."
+
+"Papa Tony's it is," Jessica agreed, dialing the number for the local delivery spot that knew their order by heart.
+
+## 17:30 PM
+
+The TV was on, volume set to "Level 12"—audible, but not aggressive.
+
+On the screen, the local news team at **WNRV-TV** was wrapping up the weather segment. The weatherman, a guy with a pointer and a map full of red zones, was apologizing for the earlier siren.
+
+*"...rotation has lifted, folks. The severe thunderstorm warning remains in effect until 8 PM for the eastern counties, but here in the New River Valley, we are just looking at rain."*
+
+"Variable confirmed," Freddie whispered, curling his legs up onto the beige sofa. "The threat has passed."
+
+Paige sat next to him, sliding her arm through his. She didn't crowd him; she just re-established the link. "Just rain, Freddie. Just water."
+
+## 18:30 PM
+
+The doorbell rang. It wasn't the heavy knock of a threat; it was the rhythmic *ding-dong* of calorie delivery.
+
+Jessica handled the transaction. She returned with two steaming cardboard boxes.
+
+"Fuel," she announced, setting them on the coffee table.
+
+They ate while the **GBS Evening Report** played. The anchor, **David Clark**—a man with silver hair and a voice like trustworthy gravel—delivered the national headlines. Freddie liked David Clark. He didn't shout. He didn't use sensational graphics. He just read the data.
+
+*"In Washington today, Congress debated the new budget..."*
+
+Freddie chewed his thin-crust pepperoni. The crunch was grounding. The tomato sauce was savory. The world outside was chaotic, but inside the living room, the variables were controlled.
+
+## 19:30 PM
+
+At 7:30 PM, the tone shifted from luck to logic. **The Daily Quiz** began.
+
+This was serious business. The three of them sat forward, slices of pizza forgotten, competing for the title of "Living Room Champion."
+
+"History for 400," the host announced. "The treaty that ended World War I." "What is the Treaty of Versailles?" Jessica shouted. "Correct," the host said.
+
+"Science for 600." "The process by which plants use sunlight to synthesize foods." "What is... Photosynthesis?" Freddie guessed. "Correct."
+
+Then came the visual clue. An image of a brass instrument with mirrors and an arc appeared on the blue screen. "Navigation for 800," the host read. "This doubly reflecting navigation instrument measures the angular distance between two visible objects."
+
+"Sextant," Freddie corrected instantly. "Navigation tool."
+
+"WRONG!" Jessica shouted, pointing a pizza crust at him like a gavel. "Error! Syntax error!"
+
+Freddie blinked, looking at her. "The identification is accurate. It is a sextant."
+
+"Phrasing, Freddie!" Paige laughed, nudging his ribs. "You have to format the data!"
+
+"Oh," Freddie realized. The arbitrary rule of the game show. The social contract of the quiz. He sighed, adjusting his glasses. "What is a sextant?"
+
+"That is correct," the host on the TV said.
+
+"Point restored," Jessica declared, taking a bite of her crust. "But you're on thin ice, mister. Respect the format."
+
+## 20:00 PM
+
+Then, the game shows ended. The commercials faded. The station ID for **WNRV** played—a simple animation of the New River winding through the valley.
+
+The room went quiet.
+
+"Here we go," Jessica said, dimming the lights until the room was lit only by the blue glow of the CRT. "Prime Time block engaged."
+
+"Status check?" Paige asked, looking at Freddie. He was sitting on the edge of the cushion, his eyes fixed on the screen, but his shoulders were slumped. The adrenaline of the quiz was fading, leaving behind the heavy residue of the day's exhaustion.
+
+"Battery critical," Freddie admitted, rubbing his eyes. "I require... a recharge cycle."
+
+"Understood," Paige said softly. She shifted on the beige sofa, moving her legs to create space. She patted her lap. "Docking bay open."
+
+Freddie didn't hesitate. He slid down from his seated position, swinging his legs up onto the sofa. He laid his head down in Paige's lap, curling on his side facing the TV.
+
+Paige immediately rested her arm across his chest, her hand settling over his heart. The weight was instant relief. It was a physical anchor, holding him down to the earth, preventing him from floating away into the static.
+
+"Pressure applied," Paige whispered.
+
+"System stabilizing," Freddie murmured, closing his eyes for a moment to savor the safety.
+
+The screen faded to black. A field of stars appeared—pinpricks of light moving slowly, majestically across the void.
+
+Then, the voice spoke. Deep. Resonant. The voice of **Captain Miller**.
+
+***"Space... The infinite expanse."***
+
+Freddie opened his eyes. From this angle, looking up past Paige’s arm, the stars seemed even brighter.
+
+***"These are the voyages of the Starship Avalon."***
+
+The orchestral music swelled—the French horns rising like a sunrise over a planet. It wasn't just music to Freddie; it was a frequency that vibrated in his chest, syncing with the steady rhythm of Paige's breathing beneath him.
+
+***"Its continuing mission: to explore strange new worlds. To seek out new life and new civilizations."***
+
+He felt Paige’s hand tighten slightly on his chest as the music peaked. It sounded like order. It sounded like a future where logic was respected, where the rules were written in the stars, and where a crew of different species worked together without friction.
+
+***"To boldly go where no one has gone before."***
+
+The silver ship streaked into warp, a flash of light against the darkness.
+
+Freddie let out a long, slow breath. The tension in his legs unspooled. The knot in his stomach vanished.
+
+"Status?" Paige whispered, looking down at him.
+
+"We are at warp," Freddie whispered back, a small smile touching his lips. "The static is gone."
+
+For the next hour, there was no Krystal. There was no tornado. There was only the bridge of the *Avalon*, the hum of the warp core, and the safety of the Avery Unit, flying through the night together.
+

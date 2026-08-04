@@ -1,0 +1,18 @@
+# Part 7: The Long Goodbye
+
+The successful dessert was the perfect end to the American Christmas feast. The house was filled with the warm, contented buzz of two families who had spent a truly wonderful holiday together. But as the evening wore on, the cumulative weight of two days of non-stop celebration began to settle heavily on Luna and Leo.
+
+The constant social energy, though joyful, was draining. Luna grew quiet, her earlier, bubbly enthusiasm replaced by a weary stillness. Leo, especially, was reaching his limit. The joy of the day was real, but it was a thin, fragile layer over the raw exhaustion left by his trauma. The shadow of his fear, the memory of Delores, was always there, just beneath the surface, and keeping it at bay required a monumental amount of mental energy.
+
+Olivia, ever-watchful, saw the familiar signs. Leo's posture was rigid, and his gaze was distant. She leaned in close. "Time to go home, *mon chum*?" she whispered.
+
+He gave a small, almost imperceptible nod, a wave of gratitude in his eyes. He didn't have to explain. She just knew.
+
+Olivia caught Stella's eye across the room and gave a slight, meaningful nod towards Leo. Stella understood instantly and began to gracefully bring the evening to a close.
+
+The goodbyes were long and heartfelt. As Olivia said farewell to her family, her Tante Isabelle pulled her into a warm hug. "You take good care of that boy, *ma chérie*," she whispered in French, her eyes full of a deep, compassionate understanding as she glanced at Leo. "He has been through a great deal. It is good that he has you."
+
+Olivia's family understood completely. They saw the fragility beneath Leo's quiet smiles and recognized the profound, protective nature of Olivia's bond with him. There were no protests that the night was ending early, only warm hugs and promises to see them all again the next day.
+
+As Stella drove them home through the quiet, festive streets, Leo leaned his head against the cool glass of the car window. He was completely and utterly exhausted, but it was a good kind of tired. It was the exhaustion that comes from a day filled with love, laughter, and family—not the soul-crushing weariness of fear and survival. The fortress was heading home, and all was right with the world.
+

@@ -1,0 +1,26 @@
+# Part 3: The Great Commute Debate
+
+With Megan's job at Quantum secured, the apartment hunt began in earnest. Their office was a command center, the wall covered with a massive, color-coded map of the greater Seattle area encompassing King, Snohomish, and Pierce counties. The three of them spent hours poring over transit schedules and apartment listings, their mission clear: find a home with the perfect, most efficient bus connection to the NPU campus.
+
+Alex was the lead analyst. His new Quantum Communicator Pro V, with its fast processor and integrated Wi-Fi, was a powerful tool of research. He had become a master of the Transit Authority of the Puget Sound system, his screen a complex web of route maps, timetables, and satellite views.
+
+"Okay," Megan said, pointing to a promising-looking apartment complex on the map in Tacoma. "This one's in Pierce County. It's a nice building, and the rent is a little cheaper."
+
+Alex's fingers flew across his keyboard. He pulled up the bus schedule. PIERCE COUNTY IS AN OPTION, his device voiced. SOUND TRANSIT ROUTE 586 RUNS FROM THE TACOMA DOME STATION EXPRESS TO THE NPU CAMPUS. BUT... THE TRIP IS OVER AN HOUR EACH WAY IN RUSH HOUR TRAFFIC.
+
+"An hour on a bus, twice a day?" Chloé said, shaking her head. "That's a lot of lost study time. What about closer, in King County?"
+
+MORE EXPENSIVE, Alex typed, bringing up apartment listings near Seattle. AND THE LOCAL BUSES HAVE MORE STOPS. THE COMMUTE TIME ISN'T MUCH BETTER UNLESS WE LIVE RIGHT NEXT TO CAMPUS, AND THE ACCESSIBLE APARTMENTS THERE ARE WAY OUT OF OUR BUDGET.
+
+It was a frustrating logistical puzzle. They needed affordability, accessibility, and efficiency.
+
+"What about Snohomish County?" Megan asked, tracing a finger north on the map. "Back to the original Lynnwood plan?"
+
+Alex's focus shifted. He brought up a new set of bus routes—the 800-series commuter express lines. His eyes lit up.
+
+THIS IS IT, he declared, his tone full of the excitement of a strategist who has just found the perfect solution. LOOK. MULTIPLE 800-SERIES ROUTES RUN FROM THE LYNNWOOD TRANSIT CENTER AND ASH WAY PARK & RIDE. THEY RUN EXPRESS, STRAIGHT TO THE NPU CAMPUS. THE MORNING COMMUTE IS ABOUT THIRTY-FIVE MINUTES. AND THE BUSES RUN EVERY FIFTEEN MINUTES DURING PEAK HOURS.
+
+He then cross-referenced it with their apartment listings. "And," Chloé added, a triumphant smile on her face, "there are three different, fully accessible, modern apartment complexes within a ten-minute walk of the Lynnwood Transit Center. All in our price range."
+
+The decision was made. It was a perfect, data-driven conclusion. Snohomish County offered the ultimate trifecta: affordability, accessibility, and, most importantly, the fastest and most efficient commute. Their new home wouldn't just be in Washington. It would be in Lynnwood.
+

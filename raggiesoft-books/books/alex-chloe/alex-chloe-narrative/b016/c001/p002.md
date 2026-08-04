@@ -1,0 +1,30 @@
+# Part 2: The Boston Victory Parade (Fall 2011)
+
+The morning after the championship win, the city of Boston was a triumphant sea of black and gold. In their hotel room, Chloé Miller stared at the Brawlers uniform of shame, laid out on a chair. "I can't believe I have to wear this in public," she groaned.
+
+"A bet's a bet, my love," Alex's device chirped from across the room, its synthesized voice dripping with feigned sympathy.
+
+Megan, already proudly wearing her own Brawlers beanie, just grinned. "It's a good look for you, Chloé. It really brings out the color of your eyes."
+
+Just then, James Miller burst into the room, his face beaming, holding a copy of the *Boston Beacon*. "Good news!" he announced, his voice full of glee. "They've thrown together a last-minute victory parade! It starts near the arena in two hours. We can't miss it!"
+
+Chloé stared at him in horror. "A parade? Mr. Miller, you can't be serious. I can't go to a Brawlers victory parade dressed like... like *this*." She gestured to the pile of enemy clothing.
+
+"Of course you can!" James said, his grin widening. "It's the perfect way to show your respect for the champions. It's non-negotiable!"
+
+Reluctantly, she pulled on the black and gold fleece pants, the socks, the slightly-too-large jersey, and finally, the offending knit hat. The family's mission for the day was now set: they were going to the parade, and Chloé was the main attraction.
+
+They took The B to the parade route, which was already packed shoulder-to-shoulder with thousands of ecstatic fans. The moment Chloé, in her full Voyageurs-fan-in-Brawlers-clothing glory, stepped onto the street, the good-natured teasing began. A group of college kids started a "Let's Go Brawlahs!" chant in her direction. Chloé just smiled a tight, pained smile and endured it.
+
+They found a spot with a good view of the street. As the duck boats carrying the victorious players rolled by, the crowd's roar was deafening. James, in his element, made sure everyone around them knew the story.
+
+"See her?" he'd yell to a group of nearby fans, pointing a proud thumb at Chloé. "She's a die-hard Montréal Voyageurs fan! All the way from Québec! She lost a very important bet last night!"
+
+A fresh wave of appreciative, merciless laughter erupted from the crowd each time. Chloé's face turned a deep crimson. "I'm from Vermont, technically!" she protested, her voice a desperate plea that was mostly lost in the noise.
+
+Alex, savoring his victory, just grinned. Chloé saw his thumb move to the main screen of his AAC device and press a single, custom-made icon he had clearly programmed the night before just for this occasion. A look of amused annoyance crossed her face as she realized his revenge was pre-meditated. A moment later, his device delivered the devastating, pre-recorded rebuttal.
+
+YOU DIDN'T SEEM VERY 'VERMONT' IN THAT MONTRÉAL SPORTS BAR LAST YEAR WHEN YOU WERE YELLING AT US IN FRENCH.
+
+The fans who were close enough to hear his device howled with laughter. Megan, who had been laughing so hard she was crying, gave her cousin a triumphant high-five. Chloé was beaten. She had no defense. She buried her face in Alex's shoulder, laughing despite her humiliation. The rivalry had come full circle. She had endured the ultimate good-natured punishment: being forced to celebrate her most hated rival's greatest victory, surrounded by their most passionate fans, while dressed as one of them.
+

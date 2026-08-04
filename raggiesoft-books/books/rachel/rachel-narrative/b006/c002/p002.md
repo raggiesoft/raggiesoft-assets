@@ -1,0 +1,58 @@
+# Part 2: The Cafeteria Serenade – 6:30 PM
+
+The logistics of getting off the motorcoach were just as grueling as getting on. Because the heavy metal wheelchair lift was still completely jammed, Brandon and the athletic guys from the drumline had to carefully carry Jessica down the narrow rubber stairs while the bus operator pulled her manual chair out of the luggage compartment underneath.
+
+Once we navigated into the loud, brightly lit cafeteria-style restaurant, the sensory assault of two hundred high school band members clattering hard plastic trays and dragging chairs was immediate and overwhelming.
+
+We found a four-seater table tucked safely in the back, directly next to the restrooms.
+
+The geometry of the seating arrangement was highly tactical. Jessica parked her wheelchair at the head of the table, facing the restroom doors so she wouldn't have people bumping into her from behind. I sat on the long side of the table to her right, facing out toward the rest of the restaurant. Ashley Raybourn slid into the seat right next to me, pinning herself between me and the wall.
+
+The second we sat down, Ashley wrapped her arms around my torso, pulling me into a fierce, suffocatingly tight Pack Cuddle. I leaned my weight into her, letting the heavy, grounding pressure manually override the buzzing panic in my chest caused by the sheer volume of the room.
+
+Sitting directly across the table from us was Jessica Reynolds, a seventeen-year-old junior and one of my sister's closest friends. The empty chair next to her belonged to her younger sister, Amanda, a fifteen-year-old freshman who was currently in the restroom.
+
+Despite the tight hug anchoring my right side, my left arm was completely free. I leaned over toward the head of the table, picking up my knife and fork. Without needing to be asked, I clinically and methodically cut Jessica's grilled chicken into perfectly uniform, bite-sized pieces so she wouldn't have to struggle with the heavy cafeteria silverware.
+
+"Thank you, Michael," Jessica murmured, offering a tired but grateful smile.
+
+"You're welcome," I said, setting the knife down just as the restroom doors swung open.
+
+Amanda Reynolds stepped out, holding her plastic tray. As she walked toward our empty seat, a low murmur started at a nearby table. A few upperclassmen began to sing.
+
+"Happy birthday to you..."
+
+It didn't stay quiet. Within five seconds, the song swept across the entire dining room like a tidal wave. All two hundred members of the Northwood High School band joined in, their voices echoing off the cafeteria walls in a massive, unified chorus.
+
+"Happy birthday, dear Amanda... Happy birthday to you!"
+
+Amanda froze halfway to the table, her face flushing a brilliant, radioactive shade of crimson. It was a rare, beautiful moment of pure, neurotypical high school joy, and the entire band erupted into loud applause as she finally scurried into her seat, burying her face in her hands.
+
+With the serenade officially over and the noise level dropping back to a steady hum, Ashley finally released me from the deep-pressure hug so we could all start eating.
+
+Amanda slowly lowered her hands from her burning cheeks. She looked across the table, her eyes narrowing as they locked directly onto me in deep suspicion.
+
+Amanda and I sat next to each other in our ninth-grade math class, a seating arrangement mandated by the teacher. Earlier in the semester, we had swapped basic trivia; I told her my birthday was April 8th, and she had mentioned hers was May 4th. Because she was a flautist and I was a percussionist, she knew exactly what our section's reputation was. She assumed the loud, chaotic drumline was the mastermind behind her public embarrassment, and that I was the one who had orchestrated the hit.
+
+I caught her glare and gave a tiny, innocent shake of my head. I subtly shifted my eyes toward the head of the table.
+
+Amanda looked over. My nineteen-year-old sister and Jessica Reynolds were both furiously attempting to cut their food, their own cheeks flushed a bright, guilty pink as they tried to suppress their laughter.
+
+They were the true ringleaders. The moment I had casually mentioned Amanda's birthday to my sister months ago, the two older girls had filed the intelligence away, perfectly coordinating the restaurant ambush. Amanda groaned playfully, shaking her head at her sister and my sister, though a happy smile betrayed her embarrassment.
+
+By the time we cleared our trays, the exhaustion of the travel day was settling heavily over our table.
+
+"Time to head back," Mr. Panoff called out, signaling the band to start moving toward the exits.
+
+The logistical nightmare immediately resumed. We hauled our gear out to the parking lot, where Brandon and the drumline once again had to physically carry Jessica up the narrow bus stairs, stowing her chair underneath for the short drive to the hotel. We all knew we would have to repeat the exact same grueling process to get her off the bus in fifteen minutes.
+
+As I sat next to Jessica on the dark motorcoach, adjusting her arm so she could lean against me, I could feel the vibrating, hopeful energy radiating off of her.
+
+She didn't care about the broken lift. She didn't care about the exhaustion. She was entirely hyper-focused on the hotel swimming pool waiting for us at the end of the ride. The doctors had told her the water's buoyancy would take the pressure off her joints, allowing her to test the range of motion in her legs without gravity fighting her.
+
+But I knew the secret, quiet hope she was truly carrying.
+
+She wanted to get into the deep end of that pool, let the water hold her weight, and wrap her arms around me while standing upright. It was a simple, everyday sensation of physical proximity that had been violently robbed from her on Black Friday 1999 when she fell from the portico roof. She just wanted to hug her little brother eye-to-eye again.
+
+And as the bus pulled into the hotel parking lot, we both desperately believed that Dad was going to be standing at the edge of the pool to watch her do it.
+

@@ -1,0 +1,112 @@
+# Part 2: The Gravity of the Hive – Wednesday, January 31, 2046 – 03:00
+
+The nursery was bathed in the soft, ambient amber glow of the night-cycle illumination.
+
+Outside the hydro-glass windows, Planet Eden was completely silent, locked safely behind the impenetrable Aegis shield. Inside the sprawling, sage-green room, Wyatt Colton was losing a war of attrition against his own children.
+
+He was standing in the center of the polished stone floor, swaying slightly from side to side. He was wearing his heavy canvas work pants and a faded gray t-shirt, his broad shoulders slumped in absolute, crushing exhaustion.
+
+He was holding Leo against his left pectoral and Nora against his right. Sarah was parked a few feet away in her brushed-aluminum wheelchair, holding a screaming Ellie.
+
+It was 03:00, and they hadn't slept a single consecutive minute since bringing the triplets up from the medical bay fourteen hours ago.
+
+Every single time Wyatt or Sarah attempted to lay them down in the beautiful, meticulously crafted sixty-millimeter-spaced timber cribs, the exact same chaotic meltdown occurred. Ellie would instantly rage, punching the air. Nora would thrash and whimper in deep distress. And Leo would completely seize up, his eyes wide and unseeing in a silent, rigid panic.
+
+Wyatt’s S.H.O.P. Marine discipline was completely frayed. He had checked the ambient temperature four times. He had checked the humidity. He had increased the white noise. He had even used his calipers to physically re-measure the dimensions of the memory-foam mattresses to ensure they weren't somehow pinching them.
+
+"They're not hungry, Wyatt," Sarah rasped, her voice thick with fatigue as she gently bounced Ellie. "Aria logged their intake perfectly an hour ago. And their diapers are clean. I don't understand."
+
+"They hate the beds," Wyatt grunted, his dark eyes locked in a hollow, exhausted stare at the three distinct, flawless pieces of furniture lining the northern wall. "I built the exact medical specifications, Sarah. Firm mattress. No loose blankets. Zero-tolerance gaps. They should be completely secure."
+
+He looked down at Leo. The boy’s tiny face was relaxed against Wyatt’s chest, his breathing deep and even. The rigid terror only happened the exact second his back hit the vast, empty expanse of his isolated mattress.
+
+Wyatt dragged a heavy hand down his bearded jaw. His mechanic's brain was screaming for a logical solution.
+
+"Okay," Wyatt sighed, shifting his weight. "We try again. Maybe the white noise isn't loud enough. Aria, increase ambient acoustic volume by ten percent. Rainfall."
+
+"Increasing acoustic volume, Wyatt," the AI chimed softly.
+
+Wyatt stepped over to the right side of the room, approaching the third crib. He gently leaned over the rail, lowering Leo perfectly into the center of the firm mattress. He kept one massive hand resting lightly on his son's chest, ensuring the boy felt his physical weight.
+
+Leo’s tiny muscles remained soft. He didn't lock up.
+
+"Okay," Wyatt whispered, a desperate spark of hope igniting in his chest. He turned his head toward Sarah. "Give me Nora. Let's see if we can get them all down."
+
+Sarah wheeled her chair closer. She carefully transferred a squirming, whimpering Nora into Wyatt's free arm, then turned her full attention to bouncing the furious Ellie in her lap.
+
+Wyatt turned back to the cribs. He intended to walk over to the middle crib—Nora's designated, beautifully crafted bed. But his exhaustion was so profound, his cognitive processing was lagging heavily. He had Leo in his right hand, Nora in his left, and he needed both hands to safely lower Nora over the sixty-millimeter slats.
+
+Without thinking, Wyatt simply leaned over Leo's crib again.
+
+He gently laid Nora down on the right side of the massive mattress, just a few centimeters away from her brother, intending to free up his hands for just a second so he could adjust her blanket before moving her to her own bed.
+
+He pulled his hands away from both of them.
+
+He braced himself for the inevitable explosion. He waited for Nora's reedy, distressed wail. He waited for Leo's terrifying, rigid silence.
+
+The explosion didn't happen.
+
+Wyatt froze, his heavy hands gripping the polished alien pine rail. He blinked, staring down into the dim, amber-lit crib.
+
+The moment Nora's back hit the mattress, she didn't thrash. Instead, her tiny, premature body instantly relaxed. Her whimpering stopped entirely. With her eyes still squeezed shut, she blindly wiggled her fragile limbs, actively scooting her tiny body across the firm memory-foam until her side was pressed firmly against Leo's right arm.
+
+Leo didn't seize up. The rigid terror that had defined his entire life the moment he was laid down vanished. He let out a soft, vibrating grunt, his tiny head rolling to the right until his cheek was resting against Nora's shoulder.
+
+They were completely, beautifully silent.
+
+Wyatt’s breath hitched. His S.H.O.P. Marine brain completely stalled out.
+
+"Sarah," Wyatt whispered, his voice barely carrying over the sound of the simulated rainfall.
+
+Sarah looked up from her wheelchair, her dark eyes frantic. "Did he lock up? Wyatt, pick him back up!"
+
+"No," Wyatt breathed, shaking his head slowly. He didn't take his eyes off the crib. "Bring Ellie here. Right now."
+
+Sarah didn't argue. She wheeled her chair up right next to his massive legs, lifting the still-furious, red-faced Ellie toward him.
+
+Wyatt took his oldest daughter. He didn't walk to the first crib. He leaned over the rail of the third crib and gently laid Ellie down on the left side of the mattress, directly opposite Nora, with Leo resting in the center.
+
+The second Ellie's back touched the memory-foam, her piercing shriek died in her throat.
+
+Her tiny fists uncurled. Her face instantly lost its angry red flush. With exactly the same blind, instinctual urgency as Nora, Ellie kicked her legs, aggressively scooting her tiny body across the mattress until her left side was pressed solidly against Leo's other arm.
+
+Wyatt and Sarah remained completely frozen, staring down into the crib in absolute, stunned silence.
+
+The three premature infants, who had spent the last fourteen hours screaming in absolute agony every single time they were placed in their individual beds, were now perfectly, completely asleep.
+
+They had formed a tight, unbroken physical line. Ellie was on the left, her tiny hand resting protectively over Leo's chest. Nora was on the right, her head tucked against his shoulder. And Leo, the boy who couldn't even draw a breath when he was alone, was sleeping deeply in the center, completely anchored by the physical weight and the synchronized heartbeats of his sisters.
+
+The girls had instinctively clustered around him. Even at exactly zero days corrected age, their developing neurodivergence had already mapped the environment. They didn't know the medical terminology for their brother's hypoxic brain injury, but they inherently knew he couldn't soothe himself. They knew he couldn't move properly. And they inherently knew that the only way he was safe was if they formed a physical wall around him.
+
+"Wyatt," Sarah finally gasped, a wet, breathless laugh breaking through her exhaustion as tears spilled down her cheeks. "Look at them."
+
+Wyatt gripped the heavy timber rail, his knuckles turning white as the absolute, glaring failure of his engineering finally hit him.
+
+He had spent hundreds of hours in the Fab-Foundry. He had measured the sixty-millimeter gaps to absolute perfection. He had constructed three distinct, flawless, independent sanctuaries for three normal, independent children.
+
+He had completely failed to realize that his children weren't independent. They were a single, unbreakable unit. A hive.
+
+They didn't care about the sixty-millimeter tolerances. They didn't care about the acoustic density or the humidity. They only cared about the sixty centimeters of empty space he had forced between their beds.
+
+"I built them wrong," Wyatt whispered, a profound, beautiful realization washing over him. A massive, tearful grin broke across his scarred face. "Sarah, they don't want three beds. They never wanted three beds. Down in the medical bay... they weren't rooting for the engines. They were trying to reach through the plastic to get back to each other."
+
+Sarah reached her hand through the wooden slats, her fingers lightly brushing against Ellie's dark hair. The three of them didn't stir. The localized ambient rainfall hummed softly in the background.
+
+"Where one goes," Sarah smiled, wiping a tear from her cheek. "They all go."
+
+Wyatt looked at the massive, sprawling nursery. He looked at the two empty, perfectly constructed cribs sitting entirely useless against the wall.
+
+"Aria," Wyatt commanded, his deep voice thick with absolute, unapologetic fatherhood. "Cancel the acoustic rainfall. Keep the ambient temperature at twenty-one point six degrees Celsius."
+
+"Adjusting environmental parameters, Wyatt," Aria chimed softly.
+
+Wyatt stepped back from the crib, his exhaustion entirely replaced by a fierce, protective clarity. He looked at Sarah, his dark eyes shining with a profound, newfound understanding of his family.
+
+"I need to go down to the Fab-Foundry," Wyatt announced, his mechanic's brain already shifting into maximum overdrive. "I have to tear these cribs apart. I need to molecularly print a single, massive memory-foam mattress. I need to expand the frame."
+
+"Wyatt, it's three in the morning," Sarah laughed softly, leaning her head against his hip. "The beds can wait. Let them sleep. Let us sleep."
+
+Wyatt looked down into the crib at his three children, perfectly synced, breathing in absolute, silent harmony. He had built the strongest defense grid known to humankind to keep the galaxy out, but the Vanguard had already built their own impenetrable fortress inside a single wooden box.
+
+"Okay," Wyatt smiled, his heavy hand resting on Sarah's shoulder. "We sleep. But tomorrow, the blueprints change."
+

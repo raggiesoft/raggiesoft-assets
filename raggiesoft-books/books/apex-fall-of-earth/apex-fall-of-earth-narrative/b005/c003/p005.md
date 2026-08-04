@@ -1,0 +1,60 @@
+# Part 5: The Genesis Vault – Thursday, May 9, 2045 – 18:00
+
+The excitement of their winter timeline hovered in the warm air of the luxurious living room, but as Sarah looked down the long, illuminated corridor of empty suites, her analytical mind began to run the long-term numbers.
+
+She leaned her head against Wyatt’s shoulder, a slow, heavy sigh escaping her lips.
+
+"Wyatt," Sarah murmured, her brow furrowing in the soft light of the geothermal fire pit. "We can have a baby. We can have three or four. But... then what?"
+
+Wyatt looked down at her, confused by the sudden shift in her tone. "What do you mean? We raise them here. They’ll have the whole valley, the forest, and this entire estate to themselves. They’ll be safe."
+
+"They will be," Sarah agreed, tracing her finger absentmindedly over his collarbone. "But Wyatt, we are the *only* two humans on this planet. If we have children, they will eventually grow up. And when they do... who do they marry? Who do they have children with? Each other?"
+
+Wyatt froze. The sheer, inescapable biological reality of her words hit him like a physical blow.
+
+He was a mechanic, and she was a former farm-colony worker. They both understood basic genetics. A population cannot survive, let alone thrive, on a single genetic lineage. Within two generations, the inbreeding depression would lead to catastrophic health failures.
+
+"God," Wyatt muttered, dragging his hand over his face as the terrifying logistics settled in. "You're right. We're a genetic bottleneck. We can have kids, but we can't start a civilization. Not just the two of us."
+
+"We'd have to bring people here," Sarah said quietly, looking out at the raging super-cell storm. "Or send our kids off-world when they're older. Back into the galaxy. Back into Apex territory."
+
+The thought of sending their unborn children back into the meat-grinder of the megacorporation made Wyatt’s blood run entirely cold. He pulled Sarah tighter against his chest, completely rejecting the idea.
+
+"No," Wyatt said, his voice a fierce, unyielding rumble. "We are never letting Apex touch our family. There has to be another way."
+
+*"There is, Administrators,"* Aria’s calm, perfectly modulated voice echoed from the ceiling array, breaking the heavy tension in the room.
+
+Wyatt and Sarah both looked up at the ceiling.
+
+"Aria?" Sarah asked, her pulse quickening. "What do you mean?"
+
+*"The original architect of this facility was a man of extreme paranoia and immense foresight,"* Aria explained, bringing up a localized wireframe holographic map of the mountain estate on the living room's central glass table. *"He anticipated a scenario in which the primary evacuation transports from the Sol System were destroyed or intercepted by Apex Defense Solutions."*
+
+The holographic map descended past the luxury living quarters, past the massive hangar where *The Nomad* was docked, and highlighted a heavily shielded, subterranean vault deep within the bedrock.
+
+*"To ensure the absolute survival and genetic viability of the human race outside of corporate control, he constructed the Genesis Vault,"* Aria announced. *"It is a fully automated, cryogenically stabilized genetic repository."*
+
+Wyatt stood up from the sofa, pulling Sarah up with him. They walked over to the glass table, staring at the glowing blue schematic of the vault.
+
+"A genetic repository," Sarah breathed, her eyes widening as the sheer scale of the billionaire's backup plan became clear. "Aria... what exactly is in that vault?"
+
+*"The vault contains fifty thousand distinct, genetically screened, and fully viable human embryos,"* Aria confirmed, her synthesized voice devoid of emotion but delivering the most profound news they had ever heard. *"They were secured from diverse, non-corporate civilian populations prior to the fall of Earth. The facility is also equipped with a state-of-the-art medical wing featuring automated gestation pods, designed specifically to safely bring those embryos to term."*
+
+Wyatt and Sarah stood completely speechless.
+
+They weren't just looking at a bunker. They were standing on top of an entire, dormant civilization.
+
+"He brought the seeds of a new world with him," Wyatt whispered, looking at Sarah. The heavy, suffocating fear of the genetic bottleneck entirely evaporated.
+
+"Aria," Sarah said, her voice trembling slightly with overwhelming relief. "Are the cryo-systems still active? Are the embryos safe?"
+
+*"The vault is running on its own dedicated geothermal tap. The embryos are perfectly preserved and awaiting your authorization to initiate the decanting process. However, the medical wing is currently dormant."*
+
+Sarah looked up at Wyatt, her dark eyes shining brilliantly in the holographic light.
+
+They didn't have to choose between leaving the planet or letting their family tree wither. They could have their own biological children naturally, exactly as they planned. And when the time was right—when they had mastered the valley, expanded the agricultural grids, and their own children were ready to grow alongside peers—they could walk down into the Genesis Vault and wake up the rest of humanity.
+
+"We don't have to go back to the galaxy," Wyatt smiled, resting his forehead against hers. "We can just build a better one right here."
+
+"A whole new world," Sarah agreed, wrapping her arms around his neck, the future stretching out before them, flawless and infinite.
+

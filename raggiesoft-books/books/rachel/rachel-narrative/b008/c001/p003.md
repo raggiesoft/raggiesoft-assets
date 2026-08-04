@@ -1,0 +1,76 @@
+# Part 3: The Sanctuary Shatters – 8:45 AM
+
+"Detail! Atten-Hut!" Mr. Panoff’s voice boomed across the practice field, cutting through the humid morning air.
+
+"Hut!" the entire percussion section screamed in unison, snapping rigidly into the ready position.
+
+The drumline locked their sticks. Rachel, Ashley, and I stood perfectly still behind our respective instruments, our mallets hovering exactly two inches above the wooden keys. It was exactly the kind of rigid, sensory predictability our brains craved.
+
+But as the echo of our collective shout faded over the grass, a different sound bled into the silence.
+
+It was coming from the parking lot at the back of the practice field. It started as a sharp, indistinct murmuring, but as the two figures moved closer to the chain-link fence, the volume escalated into a bitter, furious argument.
+
+My heart instantly dropped into my stomach. The sanctuary shattered in a matter of seconds.
+
+I didn't even need to turn around to recognize the voices. It was Mom and Dad. They hadn't just brought their fight out of the house; they had followed us to school, completely blinded by their own rage, actively disrupting a field of fifty high school students.
+
+At the podium, Mr. Panoff lowered his baton. He looked past the formation, his brow furrowing as he spotted our parents at the fence.
+
+"Stand fast. Rest," he ordered the percussionists, stepping down from his metal tower to intercept the chaos.
+
+I dropped my mallets onto the marimba and immediately stepped to my left, closing the gap between my instrument and Rachel’s.
+
+"I promise I will not leave your side," I whispered fiercely, grabbing her by the shoulders and pulling her into my chest. "I’m your big brother, and it is my job to protect you."
+
+Rachel took one terrified look over her shoulder toward the fence, and she absolutely lost it.
+
+The dam completely broke. All the anxiety, the tiptoeing, and the crushing weight she had been internalizing for the last year spilled out at once. She collapsed against me, her hands gripping the fabric of my band shirt as she started crying her eyes out. I wrapped my arms around her, turning my back to the rest of the field, doing everything I could to physically shield her from the spectacle happening a hundred yards away.
+
+"Is she alright?" Samantha asked nervously from a few instruments down. Our senior captain pushed her glasses up the bridge of her nose, her dark eyes flashing with concern. She didn't cross the boundary to touch us, respectfully maintaining her distance while keeping a sharp, protective eye over her section.
+
+"No," I whimpered, hot tears of absolute humiliation and heartbreak spilling down my own face. "Our parents are fighting. That’s them in the back."
+
+The wind shifted, carrying a sharp, distinct fragment of Mom’s voice across the grass. "You couldn't even pretend to be excited for her! After everything she went through!"
+
+My chest tightened painfully. I knew exactly what she was talking about.
+
+It was a memory from my Freshman year, during the spring band trip to Atlanta. It was Jessica’s senior year, and it was the very first time she had been in a swimming pool since the accident that confined her to a wheelchair. I had helped her into the water. She had been so proud, so desperate for Dad to see her moving her legs around. But Dad had come up with some excuse. He had brushed it off.
+
+A girl was supposed to look up to her father, and in that moment, Dad hadn't seemed to care that she was fighting to get stronger. Looking back, that exact moment in Atlanta felt like the fracture—the precise beginning of the end of my childhood. And now, standing on the humid grass of the practice field, I was watching the family unit finally, violently tear itself apart.
+
+"Rachel, I promise to protect you with every fiber of my body," I whispered through my tears, tightening my grip on her shaking shoulders. I turned my head slightly toward the rest of the front ensemble. "I’m sorry. I'm sorry our parents are making a scene."
+
+"Don’t apologize to them," Ashley hissed.
+
+The sentinel abandoned her vibraphone immediately. She didn't ask questions. She just closed the distance and threw her arms around both of us. It was the same fierce, crushing, deep-pressure hold she had deployed in the parking lot an hour earlier, but this time it was an active shield against the stares of our peers. She pressed her face into my shoulder, her grip locking the three of us together into an immovable fortress on the 50-yard line.
+
+"You aren’t the one making a scene, Michael," Ashley promised, her voice a low, protective rumble against my collarbone. "This isn't your fault."
+
+The rest of the pit nodded, offering quiet, immediate solidarity. But the truth was, I didn't want their pity. I just wanted to take Rachel and Ashley, crawl into a dark, silent hole, and hide from the world.
+
+"I really thought that school would be a safe place away from the fighting," I whispered to Rachel, resting my chin on top of her head while keeping one arm securely around Ashley’s back.
+
+"I thought so too," Rachel sobbed into my shirt. "I thought being with my big brother meant that I didn’t have to hear all that nonsense."
+
+"We should probably call Jessica when we can," I murmured, my brain desperately grasping for our pragmatic protector. "And I don’t care about long-distance charges. They should’ve thought about that before they fought."
+
+Rachel sniffled, burying her face deeper into my chest. "Could we still room together tonight? I’m just so scared."
+
+"Sure," I replied instantly, holding her and Ashley tighter. "Whatever you need. We'll pull the sofa bed out tonight."
+
+A few moments later, the heavy crunch of footsteps approached our section. It was Mr. Panoff. The yelling at the back of the field had ceased—he had clearly sent them away—but the damage was done. He looked at the three of us, tangled together in a defensive knot, his expression softening with quiet, adult sympathy.
+
+He spoke to us quietly. Most of the administrative, adulting stuff went completely over my head, blurred out by the adrenaline in my ears, but I understood the core message: he was giving us the choice to pack up our instruments and go home, or stay in his band.
+
+I took a shaky breath, looking down at Rachel, and then over at Ashley. I didn't want to go back to that house. I wanted to stay here, behind the perimeter we had built.
+
+"I think Rachel and I need to catch our breath, get a sip of water, and try our best to continue," I told Mr. Panoff, my voice trembling but determined. "I’ve enjoyed this too much for the past two years, and I don’t want my junior year ruined."
+
+Rachel pulled back from my chest, wiping her red eyes with the back of her hand. "I want to stay with the band. I think Michael is right. We need to catch our breath and get a sip of water."
+
+Mr. Panoff nodded respectfully. He turned to Kenny, our young pit instructor, who had been standing silently nearby.
+
+"Kenny," Mr. Panoff said gently. "Would you escort Michael, Ashley, and Rachel back to the band room, let them clear up for a few, and bring them back when they are ready?"
+
+Samantha stepped up to our abandoned keyboards, her expression entirely professional. "I'll secure your gear," Samantha promised, her mallets already in hand. She stayed planted on the practice field, holding the line for the pit, while Kenny escorted us away from the chaos.
+

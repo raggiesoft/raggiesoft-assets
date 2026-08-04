@@ -1,0 +1,128 @@
+# Part 3: The Cargo Bay
+
+## Saturday, July 21, 2007 — 11:15 AM 105 Pepper Street SE, Christiansburg, VA
+
+The migration to the "Bridge" began.
+
+Because the TFL-3000 was a single-occupancy transport, the descent had to be staggered.
+
+"Captain first," Harper insisted, rolling her purple chair back to give him clearance. "I want to see how the suspension handles the landing."
+
+"Acknowledged," Freddie said. He rolled onto the steel platform. He pressed the DOWN button.
+
+Whirrrrrrrr.
+
+The screw drive turned, lowering him smoothly into the floor. As he sank, he looked up to see Harper grinning at him from the rim of the aperture.
+
+When the platform hit the basement concrete, Freddie rolled off.
+
+"Lift clear," Freddie called up. "Send the next unit."
+
+Upstairs, Harper rolled onto the platform. She hit the button. She descended with a squeal of delight, her hands gripping the yellow safety rails.
+
+"It’s like a spaceship!" Harper yelled as she touched down. "Freddie, this is way better than a ramp!"
+
+"Screw drive technology," Freddie noted, tapping the threaded rod. "Reliable."
+
+While the wheelchair users took the lift, the rest of the family—Jessica, Paige, Sarah, Jenna, Linda, and the twins—navigated the steep wooden stairs.
+
+Within five minutes, the basement was fully populated.
+
+Nine people stood (or sat) on the concrete floor. The space, which usually felt vast with just the five residents, now felt comfortably full.
+
+Freddie looked around.
+
+To his left, Sarah stood by the washer and dryer, explaining her sorting system to Aunt Linda. To his right, Jenna was showing Elara the server rack, explaining how the blue LEDs indicated drive activity. Near the bathroom, Amanda was staring at the switchable privacy glass, entranced by the way it turned from frost to clear. And right next to him, Harper and Paige were inspecting the wheels of The Rover.
+
+Seven sisters. All of them.
+
+Freddie felt a pressure in his chest that had nothing to do with anxiety. It was fullness. The "System" wasn't just operational; it was thriving.
+
+"Okay," Jessica announced, clapping her hands to gather attention. "Welcome to the Hive. Let’s do the grand tour."
+
+She pointed to the far wall.
+
+"Zone 1: Logistics. Sarah’s domain. Laundry, bulk storage, and emergency supplies. Everything is labeled. Do not move a box unless you want a lecture."
+
+"It is an inventory system," Sarah corrected, adjusting her glasses. "Movement creates entropy."
+
+Jessica pointed to the corner with the blinking lights.
+
+"Zone 2: Data. Jenna’s domain. Servers, art supplies, and general fire hazards. Don't touch the wires."
+
+"They aren't hazards!" Jenna protested. "They're cable-managed!"
+
+Jessica pointed to the glass enclosure.
+
+"Zone 3: Hygiene. The wet room. Roll-in shower, accessible sink, and yes, that is a glass door. We value visibility over privacy down here."
+
+Amanda walked up to the glass. She pressed her hand against it. She looked at Freddie and tapped the glass. Tap-tap.
+
+"Transparency," Freddie explained to her. "Safety."
+
+"And finally," Jessica said, turning to the massive structure in the center of the room. "Zone 4: The Silo."
+
+The group gathered around the Mega-Bed.
+
+It sat on its carpeted platform, a ten-foot-wide expanse of maroon duvet and memory foam. It looked less like a piece of furniture and more like a geography.
+
+"It’s huge," Aunt Linda breathed. "Marge wasn't kidding. You could sleep a football team on that thing."
+
+"We sleep five," Paige said, sitting on the edge and patting the mattress. "And it works. No one falls off. No one gets cold."
+
+Harper rolled up to the edge of the platform. She looked at the bed. She looked at the open floor plan. She looked at the glass bathroom door.
+
+"This is awesome," Harper said, her eyes wide. "It’s like a slumber party that never ends. Seriously, Jessica, why can't I stay? There’s plenty of room on the bed. I’m small!"
+
+Jessica sighed. She exchanged a look with Aunt Linda.
+
+This was the hard part.
+
+"Harper," Jessica said gently. "Look around. Really look."
+
+She gestured to the room.
+
+"There are no walls. There are no doors except for the bathroom, and even that is glass. When we say we have 'no privacy,' we mean it. We sleep together. We change clothes together. We shower with the door clear so we know Freddie is safe."
+
+Jessica stepped closer to Harper.
+
+"You are fourteen. You are a teenager. You need a door you can close when you want to talk on the phone. You need a room where you can figure out who you are without five adults watching you."
+
+"I don't care about privacy!" Harper argued. "I care about the Unit!"
+
+"You care now," Aunt Linda stepped in, putting a hand on Harper’s shoulder. "But honey, in a year? When you start dating? Or when you just want to cry over a bad grade? You’re going to want a wall."
+
+Linda looked at the bed.
+
+"This works for them," Linda said, gesturing to the older siblings. "Because they are adults who made a choice to live in a... very specific way. A way that helps Freddie. But you? You deserve to be a kid a little longer. You deserve your own space."
+
+Freddie rolled forward. He stopped next to Harper.
+
+"The architecture is open-source," Freddie said quietly.
+
+Harper looked at him.
+
+"This environment," Freddie explained, gesturing to the open basement, "is designed for my support needs. It requires total exposure. Zero secrets. That is a heavy tax on the user."
+
+He looked her in the eye.
+
+"You are a Satellite," Freddie stated. "Satellites have their own orbit. If you crash into the planet, you burn up. Stay in orbit, Harper. Maintain your own gravity until you are ready for re-entry."
+
+Harper looked at him. She looked at the bed—which suddenly looked very crowded in her imagination. She thought about having to change clothes in front of her brother and four sisters every day.
+
+She realized they were right. She wanted to be with them, but she didn't want to be them. Not yet.
+
+"Okay," Harper sighed, slumping in her purple chair. "Fine. I stay in Radford. But I'm coming over every weekend to use the lift."
+
+"Authorized," Freddie smiled.
+
+"And," Elara piped up, holding Amanda’s hand. "We want to use the pool at the apartment. So you guys have to visit us, too."
+
+"We will," Paige promised. "We'll take the bus. Route 3 drops us right at your door."
+
+"Good," Linda said. "Now, I believe someone mentioned pizza? I'm starving, and this basement smells like... well, it smells like clean laundry and ozone, which is better than I expected, but it's making me hungry."
+
+"Pizza protocol," Jessica agreed. "Everyone upstairs. Let's feed the fleet."
+
+They began the ascent—Freddie and Harper taking turns on the TFL, the others filing up the stairs—leaving the Bridge silent and waiting for the night shift.
+

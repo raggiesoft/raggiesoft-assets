@@ -1,0 +1,64 @@
+# Part 5: Saturday Under Siege
+
+Silence hung heavy in Stella’s house when Saturday morning dawned, grey and cheerless outside, mirroring the mood inside. Stella emerged from her room first, feeling unrested. She found Luna already in the kitchen, rigidly pouring cereal. They exchanged a brief, weary look. The closed door to Leo’s bedroom felt like a physical weight between them .
+
+Around 9 AM, Leo's door finally opened. Delores came out first, stretching with an air of ownership. Leo followed a moment later, looking pale and drawn, avoiding eye contact. Delores immediately fussed over him. "Morning," Delores chirped towards Stella. "Leo needs his breakfast. What are you making?"
+
+"Scrambled eggs," Stella replied evenly.
+
+Breakfast was thick with unspoken tension. Luna finished quickly and retreated to her room. Delores tried to cut Leo's food, kept up a stream of chatter directed at him, reinforcing her control. Leo seemed passive, withdrawn .
+
+Later that morning, the rain stopped. Stella, desperate to break the claustrophobic tension, saw an opportunity. "Hey," she said, "the rain let up. We could walk down to the Elizabeth River Trail?"
+
+Delores immediately bristled. "A walk? Seriously, Stella?" Her tone was sharp. "He's tired. He just wants to relax." She patted the couch beside her. "We were going to watch a movie marathon, weren't we, honey?"
+
+The word "babysit" hung in the air. Leo, caught, looked down and gave a tiny nod towards Delores to avoid conflict. Luna deflated instantly, disappearing again . Stella’s attempts to suggest other outings were similarly vetoed by Delores, who never consulted Leo . The day became a bleak pattern of Delores deflecting any attempt by Stella or Luna to interact meaningfully with Leo. She kept him near her, controlled the TV, spoke for him, and subtly criticized Stella .
+
+After lunch, Stella announced, "Okay, Leo, it's about time for your call with Olivia. Why don't you head over to the phone?" This was part of the plan Stella had made, to ensure Leo had his daily connection, a plan Delores was not aware of.
+
+Leo's face lit up with the first genuine spark of happiness he'd shown all weekend. He immediately started to wheel himself toward the cordless phone in the kitchen.
+
+Delores, who had been flipping through a magazine, looked up sharply. "A call? With who?"
+
+"Olivia," Stella said, her voice even. "His best friend. They talk every day."
+
+Delores's expression tightened. Olivia. That was the tall girl from the picture. The one he missed so much. Who exactly was this Olivia anyway? Delores knew they had told her she was his "best friend," but the concept did not register in her mind. To Delores, another girl, especially one so clearly cherished, was a rival. A threat.
+
+"I don't think that's a good idea today," Delores said, her voice dripping with false concern. "He's tired. He needs to rest, not get all worked up talking to someone so far away."
+
+"He wants to talk to her," Stella stated, her voice hardening slightly. "And he's going to."
+
+"He needs to learn to live his own life, Stella," Delores shot back, "not be tied to some old high school friend. It's not healthy."
+
+"What's not healthy is you trying to control who he speaks to," Stella retorted, her "guardian bear" instincts flaring. She turned to Leo, who looked trapped and miserable between them. "Leo, go make your call."
+
+Leo, empowered by his sister's direct order, continued to the kitchen. Delores shot Stella a look of pure venom but, once again, backed down from a direct confrontation. She stalked back to the sofa, fuming silently. The brief spark of potential joy for Leo had been turned into another point of conflict, solidifying Stella's cold fury.
+
+Leo, empowered by his sister's direct order, continued to the kitchen with the cordless phone. Remembering what her mother had said about the guardianship, Delores did not physically stop the phone call, but she followed him, her arms crossed, her entire posture radiating a resentful, simmering fury. She stood in the doorway between the kitchen and living room, a silent, glowering chaperone.
+
+Leo sat at the kitchen table, his back to her, and dialed Olivia's number from memory. The call connected, and he immediately pressed the speakerphone button.
+
+"Hello?" Olivia's voice, warm and clear, filled the small kitchen.
+
+The sound of her voice was a lifeline. Leo's face, which had been a tight mask of anxiety, softened instantly. He picked up his Quantum Communicator, placed the phone receiver near its speaker, and began to type. This was his normal, comfortable method: the phone acting as a simple bridge, his device as his voice.
+
+"HI LIV. IT'S ME," the synthesized voice spoke into the receiver.
+
+"Leo! I was hoping you'd call!" Olivia's voice was full of genuine warmth. "How's your weekend going?"
+
+Leo began to type again, and for the next hour, they talked. He told her about his classes, she told him about a funny thing that happened with her grandfather, he described a new song he liked. It was a normal, meandering conversation between best friends, a small, precious pocket of normalcy in a weekend that had been anything but.
+
+From the doorway, Delores watched, her resentment growing with every passing minute. She couldn't believe this. Who was this girl that he would spend this much time with? She wondered aloud, her voice a sharp, cutting sound meant for Stella, "How expensive must this phone bill be? Why does he need to be on the phone for so long? It's taking away time from *me*. I'm his girlfriend, right?"
+
+Stella, who had been quietly observing from the living room, walked over to her. "The cost of the phone bill," she said, her voice dangerously low and calm, "is none of your business. And as his guardian, I permit Leo to talk on the phone to Olivia for as long as he wants."
+
+The explicit mention of her legal authority was a clear and direct warning. Delores, afraid of the legal power that Stella held (though she still thought the guardianship was a bunch of lies), immediately backed down. She shot Stella a venomous glare before retreating to the sofa, defeated and fuming.
+
+The phone call stretched on for a little over two more hours. For Leo, it was a bittersweet comfort. Hearing Olivia's voice was wonderful, but it wasn't the same as her being there. He was hanging on by a thread, and her voice was that thread.
+
+On the other end of the line in Washington, Olivia felt every second of his sadness. Her heart ached, listening to him try so hard to be brave. Her own voice was thick with an emotion Leo couldn't quite place—a mixture of profound sorrow and a fierce, unwavering warmth.
+
+In the living room, Stella and Luna exchanged a look. They heard the raw grief in their brother's voice and the steady, loving reassurance in Olivia's, and their own hearts were a tangled knot of sorrow.
+
+When the call finally ended, Leo looked utterly drained, but also a little more like himself. The fragile peace, however, was shattered the moment he hung up the phone.
+

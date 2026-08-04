@@ -1,0 +1,82 @@
+# Part 5: The Throne of Shame
+
+## Sunday, June 20, 2004 — 02:45 AM The Underworld (Basement), 105 Pepper Street SE
+
+The basement was pitch black, save for the faint, ghostly glow of the streetlamp filtering through the tiny window well high on the wall. The only sound was the rhythmic whoosh-hiss of the air mattresses shifting as five girls slept.
+
+Harper woke up.
+
+She didn't wake up groggy. She woke up in Red Alert.
+
+Her bladder was screaming. It was a sharp, demanding pressure that signaled she had about thirty seconds before catastrophic failure.
+
+Oh no, Harper thought, squeezing her eyes shut. Not now.
+
+She lay still for a second, hoping it would pass. It didn't. It got worse.
+
+She sat up on her elbow. Her air mattress wobbled.
+
+She looked toward the stairs. In the darkness, the wooden staircase looked like a mountain. It was steep. It was far away.
+
+She tried to move her legs. They were stiff blocks of wood. The long car ride, the wrestling, and the cold concrete floor had seized her muscles up tight. If she tried to run up those stairs, she wouldn't make it. She would stumble. And the jolt of stumbling would...
+
+I can’t make it, Harper realized with icy terror. I’m going to wet the bed.
+
+She looked at her sisters. Sarah was asleep five feet away. If she wet the sleeping bag, everyone would know. Sarah would know. Jenna would know. The twins would tell everyone. She was eleven. She was almost a teenager. Wetting the bed was social suicide. It was the end of her life.
+
+She looked into the dark corner.
+
+There it was. The Pittsburgh Toilet.
+
+It gleamed faintly in the shadows. No walls. No door. Just a porcelain bowl sitting in the open, right next to the furnace, facing the sleeping audience of her sisters.
+
+Harper gagged.
+
+I can’t, she thought. It’s right there. Everyone will hear.
+
+The pressure spiked. Her body gave her a final warning: Move or flood.
+
+She had no choice.
+
+Harper scrambled out of her sleeping bag. She didn't stand up fully—her legs were too stiff. She did a desperate, crouching shuffle-run across the cold concrete floor.
+
+She reached the toilet. She looked back at the air mattresses.
+
+Sarah shifted in her sleep, rolling over.
+
+Harper froze like a deer in headlights. Don’t wake up. Please, please don’t wake up.
+
+Sarah settled. Silence returned.
+
+Harper turned to the toilet. She grabbed the cold rim of the utility sink to steady herself. She pulled her pajama pants down. She sat.
+
+To Harper, the sound was deafening. In the quiet basement, the trickle sounded like a waterfall. It sounded like a fire hose. She squeezed her eyes shut, burning with a shame so hot she thought she might actually glow in the dark.
+
+This is it, Harper thought melodramatically. My life is over. I am peeing in a dungeon in front of my entire family. I am a feral animal.
+
+She finished. She reached for the roll of toilet paper Jessica had mercifully left on top of the furnace.
+
+Scritch. Scritch. The paper sounded like sandpaper on a microphone.
+
+She stood up, pulling her pants up with trembling hands.
+
+Now came the final hurdle: The Flush.
+
+If she flushed, the roar would wake the dead. The pipes in this house were loud. It would announce her shame to the world.
+
+But if she didn't flush... Sarah would see it in the morning.
+
+Harper looked at the bowl. She looked at her sleeping sisters.
+
+She chose the lesser evil. She didn't flush. She would wake up at dawn, before anyone else, and flush it then. It was a risky covert op, but it was better than the acoustic explosion.
+
+She crept back across the floor, her bare feet numb on the concrete. She dove back into her sleeping bag and pulled the quilt over her head, burying herself in the darkness.
+
+She lay there, heart hammering against her ribs. She listened.
+
+From the far mattress, Jenna let out a small, sleepy snore.
+
+Harper exhaled. No one had moved. She was safe.
+
+She had survived the Pittsburgh Toilet. But as she drifted back to sleep, she made a solemn vow: I am never drinking soda after 6 PM ever again.
+

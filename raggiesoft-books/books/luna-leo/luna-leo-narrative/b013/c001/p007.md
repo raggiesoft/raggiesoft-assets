@@ -1,0 +1,49 @@
+# Part 7: The Long Twilight
+
+November 24, 2005 (Thanksgiving Night) 1091 Daniel Maloney Drive
+
+The dishes were done. The leftovers were packed into Tupperware containers that Eleanor had brought, labeled in her neat, looping cursive that was just a little shakier than it used to be.
+
+The twins and Olivia were in the living room, looking at BTA maps on Leo’s laptop.
+
+In the kitchen, Stella was helping Arthur with his coat. It was a simple task, but it took longer than it used to. Arthur’s arms were stiff. He leaned heavily on the counter while he waited.
+
+"You okay, Grandpa?" Stella asked, buttoning the top button for him because his fingers were fumbling with it.
+
+Arthur looked at her. His eyes were clear, sharp blue, even if the skin around them was papery and thin. "I'm tired, Stella. A good tired. But... deep."
+
+He looked out the window at the Holt Sentinel parked in the driveway.
+
+"You're driving us home?" he asked.
+
+"Of course," Stella said.
+
+"Good," Arthur nodded. "I like watching you drive. You have good hands. Steady."
+
+Eleanor walked in, leaning on her cane. She looked at the group in the living room—the Fortress, planning their invasion of the North.
+
+"Arthur," Eleanor said softly. "Did you tell her?"
+
+Arthur took a breath. It rattled slightly in his chest. "Stella... about this Winter Break trip to Braxton."
+
+"We'll send you photos," Stella promised. "We'll video chat every night."
+
+"No," Arthur said. He straightened up, summoning a reserve of strength from somewhere deep in his past. "We're coming with you."
+
+Stella blinked. "Grandpa, it's a twelve-hour drive. Or a thirteen-hour train ride. It’s going to be freezing. The wind in New England in December..."
+
+"I know what the wind feels like, Stella," Arthur said gently. "I was born in it. And I want to feel it one more time."
+
+He looked at Eleanor. They exchanged a look that spoke of fifty years of shared mornings and silent understandings.
+
+"We want to see it," Eleanor said. "We want to see the university. We want to see the land in Iron Point. We want to know..." She paused, her voice catching. "We want to know where you're going to be. We need to picture it."
+
+Stella looked at them. She saw the fragility in their frames—the way Arthur’s blazer hung a little loose, the way Eleanor gripped the cane. But she also saw the steel in their eyes. This wasn't a request for a vacation. It was a final inspection.
+
+"The Sentinel has heated seats," Stella said, her throat tight. "And I'll upgrade the suspension for a smoother ride."
+
+"We prefer the train," Arthur corrected. "That ARTS Business Class you talked about. I want to see the country roll by without having to watch the road."
+
+"Okay," Stella whispered. "We'll book six seats. The whole Fortress."
+
+

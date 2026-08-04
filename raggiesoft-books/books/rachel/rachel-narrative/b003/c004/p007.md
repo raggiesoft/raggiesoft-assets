@@ -1,0 +1,42 @@
+# Part 7: The Afternoon Rest – 12:10 PM
+
+With the front door safely locked and Mrs. Higgins gone, the rigid academic posture of the living room immediately dissolved.
+
+On the television, the local midday news anchor was just wrapping up a live report from the Morrison Middle School parking lot. The blown transformer had finally been repaired, and the power was officially back on. However, the district spokesperson on the screen confirmed that due to the massive logistical hurdle of trying to bus hundreds of students back to campus in the middle of a disrupted schedule, the school would remain closed for students until Wednesday morning.
+
+Jessica let out a quiet, triumphant cheer, high-fiving Janette across the carpet. They didn't have to pack up their bags or abandon the fortress. The teenage guard was officially sanctioned for the rest of the day, and they took their roles as our sentinels incredibly seriously.
+
+"Alright," Uncle Jim said, rolling his shoulders and looking down at the two of us. "You survived the first day of Homebound. What do you need?"
+
+"Can we go flat?" I rasped, my neck and lower back burning with a dull, heavy ache from being propped up at a forty-five-degree angle for the last three hours.
+
+Rachel looked at Jim and gave a firm, desperate nod.
+
+"You got it," Jim agreed. "Let's combine it with the bathroom rotation so you don't have to be moved twice. Jess, Janette, you're on wedge duty."
+
+The older girls sprang up from their floor mattresses, moving with practiced efficiency.
+
+Jim dropped to one knee on the left side of the bed. Rachel closed her eyes, taking a shallow breath to prepare for the gravity shift. Jim slid his thick arms under her knees and shoulder blades, executing the rigid plank carry flawlessly. The second her weight cleared the foam, Janette reached in and yanked the heavy medical wedge off the mattress, tossing it out of the way.
+
+After Jim carefully navigated Rachel down the hall to the half-bath and back, he slowly lowered her onto the newly flattened bed. Rachel let out a long, shuddering sigh of relief, her shoulders instantly dropping their rigid tension as her spine aligned perfectly with the mattress.
+
+Jim stepped around the foot of the bed to my side.
+
+I let my body go completely limp. Jim lifted me, my core staying perfectly still against his chest, and Jessica swiftly pulled my wedge away. By the time Jim carried me back from the bathroom and lowered me flat against the bed, the rush of relief was profound. Without gravity forcing my weight down into my hips, the suffocating, vise-like pressure of the canvas medical binder immediately eased.
+
+"Better?" Jim asked quietly, stepping back.
+
+"Much better," I breathed, letting my head sink heavily into my pillow.
+
+With the wedges removed and the bathroom lifts safely complete, Jim retreated to the kitchen to grab a glass of water, leaving the living room entirely to the youth guard. We were officially off the clock until dinner time.
+
+I turned my head to the left, looking over the massive, three-pillow barrier that strictly divided the queen mattress. Rachel was already looking back at me.
+
+We both knew the rules. The doctor had been absolutely clear before they discharged us from the hospital: no cuddling, no crossing the center of the bed, and no risking a sudden CP spasm or a misplaced elbow that could rupture her spleen or strangulate my hernia. What we desperately wanted—what our overloaded nervous systems were actively screaming for—was to wrap our arms around each other in a deep, crushing, heavy hug to celebrate surviving the morning.
+
+But because the physics of a hug were still too lethal, we relied on our established workaround.
+
+Rachel reached her pale hand up over the cotton mountain. I reached my left hand up to meet hers. We laced our fingers together, locking our grip with a fierce, desperate tightness. It wasn't a hug, but the heavy, constant pressure of her pulse beating against my palm was the next best thing.
+
+We lay perfectly flat on our backs, heavily anchored to each other in the quiet living room, completely ready to rest for the remainder of the afternoon.
+

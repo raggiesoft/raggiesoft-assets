@@ -1,0 +1,33 @@
+# Part 1: The First Meeting (1987)
+
+The summer of 1987 was a time of immense change for the Miller and Carter families. James and Emily, with their two-year-old son, Alex, had just completed the long, exhausting move from Newport, Rhode Island, to a small second-floor apartment on Level Green Boulevard in Virginia Beach. The primary reason for the move was to be closer to Emily's sister, Karen, and the rest of the family.
+
+The first official family gathering took place at the Carter house. The home was a whirlwind of happy, chaotic energy. Jessica, the oldest cousin, was a loud, boisterous force of nature. Cassie, still a toddler herself, was a bit overwhelmed.
+
+Alex was in the middle of it all, a quiet, still point in the storm. He was in an adaptive stroller, his big, intelligent eyes taking in the new faces and sounds. He was a beautiful boy, but his silence and the stillness of his body made some of the adults a little hesitant, unsure how to interact with him.
+
+But five-year-old Megan Carter was different. While her sisters buzzed around, she was drawn to the quiet stillness of her new cousin. She pulled up a small stool and just sat beside his stroller, watching him with a deep, focused curiosity. She didn't try to make him play or talk. She just watched.
+
+She noticed things the adults, in their flurry of conversation, were missing. She saw how his eyes would track the dust motes dancing in the sunbeams. She saw the tiny, almost imperceptible tensing of his fingers when a loud noise startled him. She was seeing a person who was communicating in a language no one else was bothering to learn.
+
+After a while, Alex began to get a little fussy, a low, frustrated hum building in his chest. Emily came over, her expression a little weary. "Oh, dear," she said. "I think he's tired. He's probably just overwhelmed." She tried to give him a brightly colored stuffed bear, but he weakly pushed it away, his hum growing a little louder.
+
+Megan, who had been watching him intently, processed the new information. Alex didn't want the bear. It was a "loud" toy, with its bright, clashing colors. A moment later, her Uncle Steve shook a noisy rattle in front of him, trying to distract him. Alex flinched and turned his head away, his hum now a distressed whimper.
+
+Megan's five-year-old mind, in a moment of pure, intuitive genius, connected the dots. He didn't want the loud-looking toy. He didn't want the loud-sounding toy. Maybe, she thought, he just wants a quiet toy.
+
+She suddenly stood up. "I think I know what he wants," she said, her small voice full of a strange, childish certainty.
+
+She walked over to the playpen where a dozen toys were scattered. She ignored the brightly colored blocks, the noisy rattles, and the soft, stuffed animals. Her eyes scanned the pile, looking for the quietest, calmest object in the entire box. And she found it: a simple, smooth, unpainted wooden teething ring.
+
+She brought it back and held it out. Alex's distressed whimper stopped instantly. His eyes locked onto the ring. With a slow, deliberate movement, he reached out his small hand and took it, his fingers wrapping around the smooth, cool wood. A profound, visible sense of calm settled over him.
+
+The adults in the room fell silent, staring at the scene with a sense of quiet astonishment. Emily looked at her niece, her eyes wide with a dawning, grateful wonder.
+
+Megan just smiled, a look of pure, uncomplicated understanding on her face. She sat back down on her stool. "He just wanted the quiet one," she said, as if it were the most obvious thing in the world.
+
+In that moment, a bond was forged. For Alex, this small girl was the first person outside of his parents to understand his silent language. For Megan, this quiet, observant boy was the most fascinating and wonderful person she had ever met.
+
+From that day forward, they were a unit. When Alex was at the Carter house, he was with Megan. He was her favorite cousin. And she, in the quiet, unspoken language of his heart, was his most favorite woman in the whole wide world.
+
+

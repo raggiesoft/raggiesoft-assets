@@ -1,0 +1,308 @@
+# Part 2: Putney College Open House
+
+## Date: July 3, 2003
+
+Time: 8:00 AM
+
+Location: Putney College, Putney, Vermont
+
+The morning air in Vermont was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start.
+
+Patrick pushed the purple Titan AeroMotion up the paved path toward the Student Center. The campus was waking up, buzzing with the nervous energy of prospective families.
+
+"Check-in is at the Welcome Desk," Ellen said, smoothing her skirt. She looked at Nichole. "You ready?"
+
+Nichole beamed. She was wearing her best "interview" outfit. She tapped her armrest twice. *Ready.*
+
+Inside the Student Center, the accessibility was flawless. No steps. Automatic doors that actually worked. Wide aisles between the tables where the continental breakfast was laid out.
+
+"Hi there!"
+
+A young man in a yellow 'Student Ambassador' polo shirt approached them. He stopped three feet away—a perfect, respectful distance. He looked directly at Nichole, making eye contact with her, not Patrick.
+
+"Welcome to Putney," the student smiled warmly. "I'm Jason. I'm one of the mobility assistants today. Would you like me to assist with navigation, or do you have a preferred system?"
+
+Nichole smiled back. He was polite. He treated her like a person.
+
+She tapped her VocaLink. "MY. BROTHER. DRIVES."
+
+Jason nodded immediately. "Understood. I'll just be leading the way, then. Follow me!"
+
+He turned and walked ahead, keeping his hands to himself.
+
+Nichole looked at Patrick and grinned. *See? They get it.*
+
+Patrick squeezed her shoulder. "Good start."
+
+At 9:00 AM sharp, the lights dimmed, and the Chancellor of Putney College walked onto the low, ramped stage. He was a distinguished man in his sixties, exuding a warm, grandfatherly presence. He adjusted the microphone and looked out over the sea of wheelchairs, service animals, and anxious parents.
+
+"Welcome to Putney," the Chancellor began, his voice warm and amplified. "Some of you have traveled a few miles to be here today. Some of you have driven across the country. But I know that for all of you, the journey to this room has been a long one."
+
+He smiled, walking out from behind the podium.
+
+"I know why you're here. You are tired. You are tired of fighting for a seat at the table. You are tired of navigating a world that treats you as an afterthought, an inconvenience, or an exception to the rule.
+
+"Here, you are not the exception. You are the standard.
+
+"Here, we don't see disabilities. We see different abilities. We see a community designed to let you be your best self, without barriers. Look around this campus today. The ramps aren't hidden by the loading docks. The doors open for everyone. But true accessibility isn't just about concrete and steel. It’s about understanding.
+
+"For too long, the education system has told you to adapt to it. At Putney, we have adapted to you. Our professors don't look at a transcript and see limitations; they see untapped potential. Whether you process information visually, auditorily, or through technology, your voice matters here. Your intellect matters here.
+
+"You will find peers who understand your journey. You will find a faculty dedicated to your growth. You will write for our literary magazine, you will debate in our classrooms, you will broadcast on our radio station. You will not just attend college; you will own it.
+
+"So to the parents, I say: breathe easy. Your children are safe here. And to the students, I say: the fight is over. You belong here. Welcome to your future. Welcome to Putney College."
+
+The room erupted into applause.
+
+Nichole didn't just clap; she leaned her head against Patrick’s shoulder and let out a soft, high-pitched vocalization—a happy *keening* sound that vibrated in her throat. It was her "good" noise.
+
+She felt tears prick her eyes. The Chancellor had said everything she had wanted to hear for twelve years. *The fight is over.* No more IEP battles. No more locked doors. No more people staring. Just a place to be a writer. A place to be a college kid.
+
+Patrick wrapped his arm around her shoulders, grinning down at her. "Sounds perfect, right?"
+
+Nichole grunted a soft affirmative, her eyes shining. *Yes. Perfect.*
+
+"Okay," the breakout coordinator announced over the applause, clapping her hands. "Prospective students, we’re going to do a mock English seminar so you can get a feel for our classroom dynamic! Parents, you can observe from the back."
+
+"Let's go show them what you got," Patrick said, unlocking the brakes of the Titan.
+
+They headed toward the breakout room, riding a high of absolute hope, ready to experience their very first college class.
+
+## Strike One: The Observation Zone Time: 10:15 AM Location: The Mock Seminar Room
+
+"Alright," the breakout coordinator announced. "Prospective students, we’re going to do a mock English seminar so you can get a feel for our classroom dynamic! Parents, you can observe from the back."
+
+Patrick pushed Nichole into the classroom. It was set up with a large, polished oval table meant for discussion.
+
+"Okay, students, grab a seat at the table!" the Professor, a kind-looking man in a tweed jacket, encouraged.
+
+Patrick wheeled Nichole up to an open spot at the table. He pulled the wooden chair out from the neighboring spot and sat down next to her, placing his own notebook on the table.
+
+"Oh, excuse me," the Professor said gently, walking over to them with a polite smile. He looked at Patrick. "You must be the mobility aide? We ask that all support staff and interpreters sit in the designated Observation Zone at the back of the room so the students can interact freely."
+
+"Actually," Patrick said, clicking his pen, "I'm a prospective student. I'm taking the seminar too. But I'm also her brother and her facilitator."
+
+"Ah, I see! A double application, wonderful," the Professor beamed. He gestured to the empty chair on the far opposite side of the oval table. "Well, welcome to Putney, both of you. However, for our seminar format, I'm still going to ask that you two take separate seats."
+
+Patrick frowned. "Why?"
+
+"We really want to encourage direct, independent student-to-student dialogue," the Professor explained, using his 'educator' voice. "Having a family member sitting right next to a student acting as a buffer disrupts that peer dynamic. It can make the other students self-conscious about speaking directly to her. We want Nichole to advocate for herself with her classmates, not rely on you to translate."
+
+"I don't 'buffer' her," Patrick said, his voice flat. "I facilitate. If she drops her pen, or if her screen freezes, I need to be right here to fix it so she doesn't fall behind."
+
+"We have staff in the room for technical malfunctions," the Professor said smoothly. "But college is about establishing new boundaries. You are a student today, Patrick. Not a caregiver. Let her fly solo for an hour."
+
+Nichole felt her stomach drop.
+
+*Fly solo.* That meant sitting at the table alone, defenseless. It meant this man thought "independence" was forcibly removing her safety net.
+
+The heat of the insult burned away her anxiety and left pure, molten anger.
+
+She slammed both of her hands onto her lap tray. WHAM. The sound echoed in the quiet classroom. The Professor jumped back.
+
+Nichole locked eyes with the Professor. She threw her head back and let out a sharp, guttural roar—a sound of absolute indignation that made the other students at the table shrink back in their seats. She wasn't asking for permission.
+
+She jammed her finger onto the VocaLink screen.
+
+"HE. STAYS."
+
+Digital Dan’s voice was loud and metallic.
+
+"MY. CHOICE."
+
+"Now, see, this is exactly what we work on," the Professor said, trying to recover his polite composure, though his smile was strained. "De-escalation and emotional regulation in a public setting. It’s part of the growth process. If you'll just take your separate seat—"
+
+Nichole didn't let him finish. She grabbed Patrick’s forearm with a vice grip. She pointed a shaking finger at the exit door.
+
+She made a low, frantic grunting noise. *Go.* She tapped her screen again.
+
+"LEAVE. NOW."
+
+"Nikki, hold on," Patrick said, putting his hand over hers.
+
+Nichole shook her head violently. She wanted to bolt. She was done with the tour, done with the condescension, and ready for the hotel. She glared at Patrick, her eyes wide and furious. *NOW.*
+
+Patrick ignored the Professor and knelt down next to her chair, bringing himself to her eye level.
+
+"Listen to me," Patrick said, keeping his voice low and steady to anchor her. "You're right. He's completely out of line. He has no idea how we work."
+
+Nichole gave a sharp nod. *Exactly.*
+
+"But we drove thirteen hours to get here," Patrick said. "We don't quit after five minutes. This is baseball, Nikki."
+
+Nichole paused, her breathing heavy. She looked at him, confused.
+
+Patrick held up one finger. "Three strikes, you're out. Remember? That guy is Strike One."
+
+He took her trembling hand. "If they strike out two more times, we leave. We burn rubber out of the parking lot. But you don't walk off the mound after the first pitch. We finish the inning."
+
+Nichole stared at him. She looked at the Professor, who was watching them with a mix of pity and impatience. She looked at the door.
+
+She took a shuddering breath, her chest heaving. *Strike One.*
+
+She could wait for two more. She wanted to prove they were wrong.
+
+Nichole looked at Patrick and gave a singular, decisive nod.
+
+Patrick stood up. He looked at the Professor.
+
+"My sister made her choice," Patrick said, his voice polite but absolute. "We learn as a team. So if we can't sit together, we'll both observe from the back. We wouldn't want to disrupt your flow."
+
+He didn't wait for a response. He grabbed his notebook, pulled Nichole's chair away from the table entirely, and rolled her to the very back of the room, leaving the Professor blinking at the empty space.
+
+## Strike Two: The Executive Decision
+
+Time: 11:00 AM
+
+Location: Office of Disability Services
+
+The transition from the mock seminar to the Disability Office was quiet. The office was spacious, carpeted, and air-conditioned to a frigid temperature.
+
+Patrick sat next to the purple Titan AeroMotion, his notebook on his lap. Ellen sat across the mahogany desk, handing over the thick medical file.
+
+Dr. Aris, the Director of Disability Services, reviewed the documentation. "Extensive," the Director noted, turning a page. "Cerebral Palsy, Autism Spectrum Disorder... and the interpreter needs are clear."
+
+"We have a system," Patrick explained, keeping his tone strictly professional. "I handle the transfers, the toileting, and the sensory regulation. I can translate her vocalizations when she's not using the device. We just need approval for me to be her primary aide in the classroom and the dorms."
+
+Dr. Aris stopped reading. She took off her glasses and set them on the file. She looked past Patrick, past Ellen, and directed her gaze to Nichole. She leaned forward, her voice shifting into a softer, patronizing tone—the academic version of the *Disability Voice*.
+
+"Nichole, I understand that Patrick is your safety net," Dr. Aris said gently, as if speaking to a child. "But college is about transitioning into adulthood. It is about independence. To succeed in the real world, you need to learn how to manage your own care. You need to learn how to interview, hire, and direct your own Personal Care Assistants. If Patrick does everything for you, you'll never develop those critical self-advocacy skills."
+
+The room went deadly silent.
+
+Nichole stared at the Director. The insult didn't sting; it burned.
+
+*Learn to manage.* Dr. Aris was looking at her and seeing a passive, helpless invalid who just accepted whatever care was handed to her. She had no idea that she was speaking to a veteran manager with a proven track record of ruthlessly curating her own staff.
+
+Nichole’s hands clenched into fists on her lap tray. She remembered the Respite Nurse in 1997 who refused to listen to her eye-blinks. *Fired.* She remembered Mrs. Hatcher in the wrestling room, whose incompetence had triggered a Level 5 Collapse. *Re-assigned.* She looked at Patrick. Her brother wasn't a crutch. He was the only applicant who had ever successfully passed her rigorous, lifelong interview process.
+
+Nichole slammed her fist onto the VocaLink. *WHAM.*
+
+Dr. Aris jumped in her leather chair.
+
+Nichole glared at the Director. She jammed her finger onto the heavy, scratched plastic of the resistive screen. She didn't tap; she struck the keys with the full weight of her executive fury, denting the membrane to make the old sensors register the input.
+
+"ALREADY. KNOW. HOW."
+
+Digital Dan’s baritone voice boomed in the quiet office. The stark gray interface of Quantum OS 2000 flashed with the output.
+
+Dr. Aris blinked, taken aback by the volume. "Excuse me?"
+
+Nichole didn't stop. *Thud. Thud. Thud.*
+
+"I. FIRE. IDIOTS."
+
+Patrick bit his lip, trying to suppress a smirk as he watched his sister dismantle the administrator. The mechanical whine of the VocaLink’s hard drive spun up as Nichole kept typing.
+
+"I. HIRED. HIM." Nichole typed, pointing a shaking finger at Patrick. "IN. SIXTH. GRADE. TEST. RUN. HE. PASSED."
+
+She looked directly into Dr. Aris’s eyes and delivered the final verdict.
+
+"LIFETIME. CONTRACT."
+
+Dr. Aris looked completely flustered. The director looked at Patrick, seeking a translation or an apology for the outburst.
+
+Patrick just shrugged, leaning back in his chair with a look of absolute, unapologetic pride. "She's not wrong. She's the Boss. I'm just employee of the month, eight years running. And trust me, she's a very demanding manager."
+
+"While I appreciate the... loyalty," Dr. Aris said stiffly, regaining her composure and looking back at the file. "Putney College has strict policies. We cannot sanction sibling co-habitation or care on campus. It presents significant liability and safeguarding concerns. Nichole will be assigned a female aide. That is non-negotiable."
+
+"Assigned?" Patrick asked, latching onto the word. "Assigned by who?"
+
+"By our contracted agency," Dr. Aris explained. "All care on campus is managed through them. They vet the staff. They ensure everyone has the proper credentials."
+
+Patrick narrowed his eyes. *Credentials.*
+
+The word hung in the air: *safeguarding*.
+
+Nichole made a sharp, disgusted noise in her throat—a *gah!* sound that meant *useless*. The institution was so obsessed with protecting her from her own brother that they were willing to strip away her bodily autonomy to do it.
+
+She looked at Patrick. She held up two fingers, shaking them in the air. *Strike Two.*
+
+Patrick didn't argue with Dr. Aris. He didn't need to. He respected the chain of command, and the CEO had just given the order. He looked at his sister and nodded.
+
+But as he stood up, his mind was racing.
+
+*Credentials.*
+
+Dr. Aris wasn't saying he was incompetent. She was saying he was *uncertified*. She was hiding behind a piece of paper.
+
+*Okay,* Patrick thought, staring at the Director's framed diplomas on the wall. *If the game is about paper, I'll get the paper.*
+
+He didn't know what it was called yet. He didn't know if it was a degree or a license. But he made a vow right there in the frozen air of the office: he was going to find out what those "agency aides" had that he didn't. And then he was going to get it. He was going to walk into the next meeting with a certificate that said *Patrick Bennett: Qualified to Care.*
+
+"Strike Two, Nikki," Patrick confirmed aloud. "Come on, Mom. Dad. We have one more stop."
+
+"The dorms," Tom said, his voice flat as he grabbed the file off the Director's desk. "Let's go see these single beds."
+
+Patrick unlocked the brakes on the Titan. He didn't say goodbye to Dr. Aris. He just pushed his CEO out of the office, leaving the Director to sit in the silence of her own incompetence.
+
+## Strike Three: The Twin XL
+
+Time: 11:45 AM
+
+Location: North Hall Dormitory
+
+The walk from the Disability Office to the dorms was silent. Patrick pushed the Titan AeroMotion with a rigid, mechanical intensity. Ellen and Tom walked on either side, like a phalanx protecting a VIP.
+
+They arrived at North Hall, a modern brick building with an automatic sliding door.
+
+"And here we are!" the tour guide chirped, swiping a keycard. She was a bubbly sophomore who clearly hadn't heard about the incident in the Student Center. "This is North Hall, our primary residence for female students."
+
+They rolled into the model room on the first floor.
+
+It was objectively nice. It was clean. It smelled of industrial pine cleaner and fresh paint. The bathroom door was widened, and inside, there was a zero-entry roll-in shower with grab bars in all the right places.
+
+But the main room was the problem.
+
+Against the left wall sat a narrow Twin XL bed. Against the right wall, twelve feet away, sat another narrow Twin XL bed. Between them was a chasm of linoleum floor.
+
+"As you can see, plenty of turning radius for chairs," the guide pointed out. "And regarding visitation, we have strict safety protocols. This is a female-only secure dormitory. Male students reside in South Hall, across the quad. No overnight guests are permitted, and male visitors must sign out by 10:00 PM."
+
+Nichole stared at the bed on the left.
+
+It looked like a shelf. It was narrow, high, and completely isolated.
+
+If she lived here, that bed was her island. If she woke up at 2:00 AM with her legs locked in a painful spasm, she would be alone. If she had a nightmare, she would be alone. If the world became too loud and she needed to ground herself, Patrick would be a quarter-mile away in South Hall, locked out by a security door.
+
+She looked at the empty space where a second bed should be. She looked at Patrick, standing behind her chair.
+
+She imagined a night here. The silence. The aides she didn't know. The panic of waking up and not hearing her brother's breathing next to her.
+
+The fear that had started being denied Patrick at the mock English class, and solidified with Dr. Aris calling her brother a liability, now hardened into absolute refusal.
+
+Nichole didn't just feel rejected; she felt unsafe.
+
+She dropped her chin to her chest. Turtle Mode.
+
+She reached for the VocaLink. Her hand was trembling, but her aim was true.
+
+"NO."
+
+Digital Dan’s voice cut through the tour guide's spiel about the high-speed internet.
+
+"NOT. SAFE."
+
+The guide blinked. "Oh! I assure you, the building is very secure. We have cameras at every entrance—"
+
+"ALONE."
+
+Nichole hit the word again. "ALONE."
+
+She looked up at Patrick. She raised her hand, three fingers trembling in the air.
+
+Strike Three.
+
+Patrick nodded. He didn't look surprised. He looked relieved.
+
+"She called it," Patrick said, his voice flat and final. "Strike Three."
+
+"We're done," Tom said immediately, stepping between the guide and his children.
+
+"But..." the guide stammered, looking at the schedule on her clipboard. "The cafeteria tasting is next. It’s a farm-to-table lunch, and the chef has prepared—"
+
+"We're not hungry," Ellen said coldly. "We're leaving."
+
+"Now," Patrick added.
+
+He didn't wait for permission. He pulled back on the handles, spinning the Titan AeroMotion around in a tight, aggressive 180-degree turn. He pushed her out of the model room, down the hall, and through the automatic doors, leaving the tour guide standing alone between the two narrow beds.
+

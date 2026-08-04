@@ -1,0 +1,15 @@
+# Part 18: The Long Road Home (Summer 2006)
+
+The two-hour journey south from Newport to Burlington was quiet and reflective. The week had been a whirlwind of family, memories, and profound, life-altering realizations. As they drove towards the setting sun, they were tired, but their hearts were full, carrying with them the sweet taste of a shared maple creemee and the quiet, triumphant birth of a dream they would build together.
+
+They spent their last night of vacation in a comfortable hotel in Burlington. The next morning, before beginning the long drive back to Virginia, they dedicated a few hours to exploring the city. They spent the morning on the famous Church Street Marketplace, a vibrant, brick-paved pedestrian mall. The atmosphere was a perfect, low-key end to their trip. They browsed the quirky shops, Alex and Megan finding a new sci-fi novel at a local bookstore, and Chloé buying a small, handcrafted piece of pottery for her mother. They had one last Vermont meal—crepes at a small café—before finally returning to their van.
+
+The long drive home to Virginia Beach was a stark contrast to the excited, anticipatory journey north. The mood in the Holt Wayfarer was quiet, peaceful, and deeply contemplative. They took turns driving, the miles spooling out before them as they crossed back through New England, down the busy corridors of the Eastern Seaboard, and finally, back into the familiar, humid air of the Tidewater region.
+
+They didn't talk much about the wedding, or even the new dream of the Lynnwood Discovery and Care Center. They didn't have to. The ideas had settled deep within them, no longer a source of excited chatter, but a quiet, foundational certainty.
+
+They arrived back on Lisa Court late in the evening, two days after leaving Stanstead. The street was quiet, the houses of their parents welcoming beacons in the darkness. They were exhausted, road-weary, but fundamentally changed.
+
+They had left Virginia as three young adults embarking on an exciting vacation. They returned as a single, unified team with a shared, secret, and world-changing mission. The last summer in Virginia was drawing to a close. The future, in Lynnwood and beyond, was waiting for them to build it.
+
+

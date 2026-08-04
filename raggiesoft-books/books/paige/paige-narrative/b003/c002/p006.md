@@ -1,0 +1,56 @@
+# Part 6: The Cartridge Exchange
+
+## Monday, June 16, 2003 11:15 AM
+
+The bell above the door chimed as they walked into **The Cartridge Exchange**. The air inside was cool and smelled of ozone, old cardboard, and heated plastic—a scent Freddie associated with pure happiness. The walls were lined with shelves: to the left were the modern discs for current consoles, but to the right was the "Retro Zone," where bins and shelves overflowed with grey and black cartridges.
+
+"Okay," Jessica said, taking charge. "We have the TV—the **MagnaView** combo unit. It has the VCR and DVD built-in, but it only has one set of inputs on the front." She walked over to a rack of cables and grabbed a black plastic box. "**Infrastructure**," she announced, showing it to Paige. "A 3-Way AV Selector Switch. Input 1 will be the **Bit-System**, Input 2 will be the **Super Bit-System**, and Input 3 is the VCR. You just push the button to change the channel. No unplugging cables."
+
+"Smart," Paige noted.
+
+They moved to the glass counter where the clerk, a guy named Dave with a ponytail, looked up from his magazine. "Help you folks?"
+
+"We're building a setup," Jessica said. "We need a **Bit-System**—the original toaster model—a **Super Bit-System**, and two controllers for each."
+
+Freddie scribbled on his notepad and showed it to Jessica. *LIGHT GUN.*
+
+"And a **Bit-Zapper**," Jessica added. "Orange, please. Not the grey one."
+
+Dave pulled the consoles from the case. The Bit-System was a boxy grey unit, while the Super Bit-System was flatter with purple sliding switches. "Refurbished," Dave grunted. "New 72-pin connectors in the toaster. It'll read the carts on the first try. No blowing required." Freddie smiled; that was a critical repair.
+
+"Okay," Jessica said, turning them toward the bins. "Freddie, you have the budget. Fill the basket. But remember, we have to carry this home."
+
+Freddie’s hands trembled slightly with excitement. He walked to the bins, his fingers brushing against the textured plastic of the cartridges. He didn't just pick random games; he picked the foundational texts of his childhood. He started pulling cartridges and stacking them in Paige’s arms.
+
+He began with the platformers, the "Plumber" series that defined the genre. He grabbed the essential combo cartridge, ***Super Plumber Bros. / Mallard Hunt***, for platforming perfection and target practice. He added ***Super Plumber Bros. 2: The Dream World***, the strange sequel with the vegetables, and ***Super Plumber Bros. 3***, the masterpiece with the raccoon tail and the map screen. For the 16-bit console, he added ***Super Plumber World***, loving the physics of the yellow cape, and ***Super Plumber All-Stars***, the remake collection with updated graphics but the same perfect logic. He even grabbed the educational titles, ***The Plumber is Missing*** and ***The Plumber's Time Machine***, because he loved the geography and history lessons wrapped in a game engine.
+
+Next, he moved to the pre-rendered graphics of the "Kongo" series. He picked up ***Kongo Country***, ***Kongo Country 2: Diddy's Quest***, and the final chapter, ***Kongo Country 3: Double Trouble***. The mine cart levels in the first game were pure rhythm, a sensory experience he could play with his eyes closed.
+
+He moved to the simulation and puzzle section. He found his absolute favorite, ***Metro-City: Super Bit Edition***. On the PC it was just a spreadsheet, but on the console, it felt alive, complete with the "Monster Statue" gift and a soothing jazz soundtrack. He added ***Block-Drop*** for the original system—falling tetrominos were pure geometry—and ***Demolition Squad***, a puzzle game where the Plumber broke walls with a hammer.
+
+He rounded out the collection with the 8-bit classics: ***Stone Age Olympics*** for the "Dino Vault" event, ***Dirt Bike Rally*** for the custom track editor, and the logic-heavy ***Puzzle Ball Lolo***. Finally, he grabbed the two gold cartridges that needed no introduction: ***The Golden Quest*** and its side-scrolling sequel, ***The Golden Quest II***.
+
+Freddie was digging through a "Rare/Import" bin near the back when he froze. He saw a box art that made his heart stop. It showed a teenager in a puffy red vest riding a pink Grav-Board. The title was in Japanese katakana, but he knew the logo instantly: ***Super Time Traveler II***.
+
+He loved the *Time Traveler* movie trilogy. He loved the **Dorian**—that sleek, stainless steel sports car converted into a time machine. He loved the logic of time paradoxes. He grabbed the box and turned it over. The cartridge inside looked different—it was rounded and smooth, unlike the blocky, angular US Super-Bit carts. He hurried over to Jessica, his eyes wide, thrusting the box at her. He scribbled on his pad: *I NEED THIS. THE GRAV-BOARD.*
+
+Jessica looked at the box. She saw the Japanese text and the shape of the cart. "Oh, Freddie," she said gently. "We can't play this."
+
+Freddie frowned, pointing to the Super Bit-System on the counter. *Compatible?*
+
+"No," Jessica explained, taking the box and showing him the bottom of the cartridge. "See the shape? This is for the **Super Family-Com**—the Japanese version of the system. The American Super Bit-System has plastic tabs inside the slot that physically block this cartridge from fitting." She tapped the Japanese text on the back. "Plus, the whole game is in Japanese. You wouldn't be able to read the menus or the paradox warnings."
+
+Freddie stared at the box. He felt a pang of deep disappointment. The cover art was perfect, but Jessica’s logic was sound. There was physical incompatibility due to the tabs, and software incompatibility due to the language. He sighed, a silent exhale through his nose, and put the box back on the shelf. *Someday,* he thought. *Someday I will learn the mod to break the tabs.*
+
+They hauled the mountain of grey and black plastic to the counter. "Solid haul," Dave said, scanning the carts. "Metro-City is a classic. Good choice on the Zapper."
+
+Jessica paid with the Avery Corporation debit card. "Okay," she said, handing Freddie the heavy bag of games. "You are the Keeper of the Software."
+
+Freddie hugged the bag to his chest. The weight was grounding. He had his system. He had his library. He looked at Paige and gave a thumbs up. *Status: Equipped.*
+
+"Let's go home," Jessica said. "I want to see if I can still beat you at *Mallard Hunt*."
+
+Paige laughed. "In your dreams, Jess. I'm a sniper."
+
+They walked out into the sunshine of Blacksburg, ready to wire up the Iron City.
+

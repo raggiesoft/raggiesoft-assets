@@ -1,0 +1,68 @@
+# Part 1: Bear and Bug – 8:00 AM
+
+The soft, hazy light of Sunday morning filtered through the living room blinds, casting long, quiet shadows over our makeshift base camp.
+
+I woke up slowly, my mind fighting through the heavy, lingering fog of the IV muscle relaxants. My back was perfectly flat against the mattress. The thick medical binder squeezing my stomach was a hot, uncomfortable reminder of the torn fascia beneath it, but as long as I didn't move, the pain was manageable.
+
+To my left, across the great cotton wall of the three body pillows, Rachel was already awake.
+
+She was lying flat on her back, staring up at the ceiling, but her right hand was resting over the top of the barrier. My left hand was securely laced through hers. Down at the foot of the bed, beneath the heavy quilt, her heel was still hooked firmly against my ankle.
+
+I turned my head toward the center of the bed. "Morning."
+
+Rachel turned her head to look at me. Her dark eyes were tired, and the bruising on her ribs made her breaths shallow, but the absolute, paralyzing terror of the hospital was gone. The living room was safe.
+
+"Morning, Bear," Rachel whispered.
+
+The nickname caught me completely off guard. I blinked, my groggy brain trying to process it. "Bear?"
+
+Rachel gave a tiny, microscopic nod, a fierce spark of defiance lighting up her eyes.
+
+"You're not soft," Rachel stated quietly, her raspy voice steady and deliberate. She squeezed my hand. "Master Curtis is a liar. You're big. And you're fluffy. And you protect me. You're my Bear."
+
+A massive lump instantly formed in my throat.
+
+Master Curtis had looked down at my ten-year-old body and seen nothing but a target. He had weaponized my weight, calling me fat and pathetic to break my spirit in front of my sister. But in a single, whispered sentence, an eight-year-old girl completely stripped the monster of his power. She had taken the very thing he used to humiliate me and transformed it into my greatest strength.
+
+"Okay," I whispered back, my voice thick with emotion, blinking back the sudden sting of tears. I rubbed my thumb over her knuckles. "If I'm Bear... then you're Bug. Because you're small, and you never let go."
+
+Rachel’s mouth twitched into the tiniest ghost of a smile. "Just us."
+
+"Just us," I promised. "Not even Jess or Janette."
+
+On the floor to my right, Janette stirred on her twin mattress, pulling her blanket up over her shoulder. On the left side of the room, Jessica let out a loud, dramatic yawn, stretching her arms over her head before sitting up on her own mattress.
+
+"I heard whispering," Jess said, her voice raspy from sleep. She looked over the edge of the sofa bed at the two of us. "Did you guys sleep okay?"
+
+Rachel looked at Jess, then looked at me. She didn't speak. The situational mutism was firmly back in place the moment the pack expanded, but her eyes conveyed the answer.
+
+"We slept okay," I answered for her, honoring the boundary we had set the night before. "The pillows worked."
+
+Before Jess could say anything else, the heavy, rhythmic thud of footsteps sounded on the wooden stairs in the hallway.
+
+The atmosphere in the living room immediately shifted. The relaxed, intimate safety of the pack hardened into a rigid, guarded perimeter. Jess stood up from her mattress. Janette sat up, her eyes locking onto the doorway. Rachel’s grip on my hand tightened like a vice, her body going entirely still.
+
+Mom and Dad walked into the living room.
+
+They looked exhausted. Dad was already fully dressed in jeans and a button-down shirt, holding a yellow legal pad and a pen. Mom was carrying two small paper cups with our morning doses of medication.
+
+"Good morning, guys," Mom said softly, keeping her distance as she set the paper cups on the floor next to our heads. "How is the pain?"
+
+"It's fine," I answered shortly. Rachel simply stared at the ceiling, refusing to acknowledge them.
+
+Dad saw the cold, impenetrable wall his children had built, and he didn't try to force his way through it. He accepted the consequence of his failure. Instead of demanding eye contact or a greeting, he pulled one of the dining room chairs over and sat down at the foot of our bed, resting the legal pad on his knee.
+
+"I know you're angry," Dad rumbled quietly, his voice carrying that steady, fierce authority. "And you have every right to be. But I want you to know exactly what is happening tomorrow."
+
+He tapped the pen against the yellow paper.
+
+"Tomorrow is Monday," Dad stated. "The world goes back to work. At eight o'clock in the morning, your mother is calling the school district to establish your homebound instruction. At eight-thirty, she is calling the three most vicious personal injury lawyers in the region to file the civil lawsuits against Master Ray."
+
+Dad paused, looking at the top of the legal pad, his jaw setting into a hard, unforgiving line.
+
+"And at nine o'clock," Dad continued, "I am driving to the Chesapeake courthouse. Detective Harris called me late last night. Master Curtis and Master Ray have been sitting in a concrete cell at the city jail since Friday. Tomorrow morning, they have to stand in front of a judge in handcuffs and ask for bail."
+
+Rachel’s breath hitched. Her eyes darted toward Dad, the mention of the monster piercing through her silent armor.
+
+"They aren't getting out," Dad promised her, his voice dropping into a lethal, absolute vow. "The detective submitted your medical records. The judge is going to read exactly what they did to your spleen, and what they did to your brother's stomach, and what they did to little Drew. The District Attorney is going to ask the judge to deny their bond completely. And I am going to sit in the front row of that courtroom and watch them get sent right back to their cages."
+

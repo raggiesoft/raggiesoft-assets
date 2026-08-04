@@ -1,0 +1,38 @@
+# Part 5: The Assessment (12:48 PM)
+
+The Community College of Hampton Roads was built on the coastal plain of Virginia Beach, which meant the campus geography was a wheelchair user's dream: one hundred percent, unequivocally flat. There were no exhausting inclines to battle, no steep ramps to navigate, and no terraced courtyards. It was just smooth, unbroken concrete stretching between the brick buildings.
+
+Sarah pushed Nate away from the transit shelter at a leisurely pace. They had twelve minutes before their 1:00 PM class, and the Bayside building was just a short, effortless stroll past the library.
+
+"Alright," Nate said, breaking the silence as the rumble of the departing \#25 bus faded into the distance. He kept his eyes forward, watching the campus traffic. "Give it to me straight. What's the assessment?"
+
+Sarah didn't answer immediately. She kept her pace steady, the wheels of the chair clicking rhythmically over the expansion joints in the sidewalk.
+
+"She seems... incredibly genuine," Sarah finally said, her voice measured. "She didn't do the 'wheelchair stare.' She didn't talk to me over your head like you couldn't speak for yourself. And she was completely unbothered by the fact that we were practically interrogating her."
+
+"But?" Nate prompted. He knew his sister better than anyone. He could hear the heavy *'but'* lingering at the edge of her sentence.
+
+Sarah sighed, slowing the chair down just a fraction. "But, Nate... Valerie started off sweet, too. Remember? Valerie was polite and attentive right up until the perimeter was breached and she had you isolated."
+
+Hearing the name still sent a brief, cold spike through Nate's chest, but he nodded. He didn't resent Sarah for bringing it up; in fact, he relied on her to be the objective early-warning system his own brain sometimes failed to be. Trauma had a nasty habit of scrambling his radar.
+
+"I know," Nate said quietly. "I know she did."
+
+"I am thrilled that you connected with someone," Sarah continued, her tone softening as she leaned down slightly, making sure he could hear the absolute sincerity in her voice. "Seeing you give someone a deep-pressure hug... Nate, I almost dropped my tray. I want this for you. I want you to have friends. But we just met her forty-five minutes ago. I'm going to keep my guard up until I know for a fact that she is safe. Is that fair?"
+
+"It's more than fair," Nate agreed, feeling a wave of relief. He didn't want to fly blind. "Keep the guard up. We'll take it slow. But... there was just something about her, Sarah. She felt safe."
+
+"I know," Sarah smiled, giving his shoulder a gentle squeeze. "And we'll see her in English on Monday. But right now, we need to shift gears from poetry to profit margins."
+
+They approached the glass double doors of the Bayside building. Because there were no ramps or stairs to negotiate, Sarah simply hit the ADA push-plate and rolled him straight through the threshold into the bustling lobby.
+
+"ECO 100," Nate groaned, reading the room number on his schedule. "Basic Macroeconomics. If the professor starts drawing supply and demand curves on the board, I might actually fall asleep."
+
+"Stay awake," Sarah ordered playfully, steering him down the first-floor corridor. "If I have to learn how inflation works, you're suffering right there with me."
+
+They found the classroom and slipped inside. Just like the previous rooms, the disability office had done their job perfectly: a height-adjustable table was waiting in the front row. Sarah parked him, locked the brakes, and slid into the standard desk beside him just as the 1:00 PM bell rang overhead.
+
+The first day of college was almost in the books. And as the economics professor began handing out the syllabus, Nate found that his mind wasn't on the threat of the classroom, or the ghost of his abuser, or even the upcoming lecture.
+
+He was just thinking about a girl with curly hair, a yellow legal pad, and the profound, grounding weight of a hug that felt entirely, wonderfully safe.
+

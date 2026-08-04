@@ -1,0 +1,38 @@
+# Part 3: Main Lobby & Front Exit – End of First Day, Fall 2002
+
+The final bell of their first day as seniors echoed through the emptying halls of Northwood High, a signal for the usual chaotic exodus. Alex Miller and Chloé Mason emerged from their last class, Chloé easily adjusting her pace to match Alex as he navigated his "Quantum Glide" wheelchair through the thinning crowd. They were heading towards the main front entrance; Chloé’s reliable Horizon Avalon was in the student lot, but she often met Alex near the front pickup area first.
+
+Simultaneously, Luna and Leo Porter were making their way from the band room wing, also towards the front entrance. Stella, their older sister and guardian, always picked them up from the visitor parking spots right out front, a more accessible option than the often-congested student lots. Leo skillfully maneuvered his "Quantum PowerChair XT," while Luna, her noticeable limp a familiar part of her rhythm, walked beside him, one hand resting comfortably on his armrest for support as they moved.
+
+The two pairs converged naturally in the cavernous main lobby, a common waiting area before students dispersed. Having had a few classes together over the years, and with Alex and Leo having bonded somewhat over their shared experiences as wheelchair and AAC users, a casual friendship had formed. They often chatted during these end-of-day lulls or after lunch if their paths crossed.
+
+"Hey, Porters!" Chloé called out with a friendly wave as they approached. "Survive day one of senior year?"
+
+Luna grinned. "Barely! Mr. Henderson in AP Lit already assigned a five-page paper. On *Beowulf*. Due Friday. Welcome back, right?" She rolled her eyes good-naturedly, shifting her weight slightly against Leo’s chair.
+
+Leo’s Quantum Communicator XT chimed with a pre-typed quip, his synthesized voice dry: "BEOWULF. MORE LIKE BEOWHO-CARES. AT LEAST THE LUNCH OPTIONS TODAY WERE... PRESENT." He chose his words with the careful diplomacy one learned after years at Northwood. Even here, in the lobby, one did not speak ill of the cafeteria's offerings; Mrs. DeMarco's auditory reach was legendary, and the walls themselves were rumored to have ears attuned to culinary criticism.
+
+Alex chuckled, the sound soft, as he typed on his Quantum OS Tablet Pro: "GOOD POINT, LEO. ALWAYS IMPORTANT TO APPRECIATE THE... AVAILABLE NOURISHMENT. DID YOU GUYS HEAR ABOUT THE LATEST 'PENIS GAME' CASUALTY AT LUNCH? HENDERSON THE SECOND."
+
+"Heard about it *and* saw it!" Luna exclaimed. "Attempt number 316! And Mrs. DeMarco knew his older brother! It was epic!"
+
+They chatted for a few minutes as they all began to move slowly with the remaining trickle of students towards the main front doors. The easy camaraderie of shared school experiences filled the air – talk of college applications, band practice, the general absurdity of senior year already kicking into high gear. Alex and Leo perhaps exchanged a knowing look about navigating a particularly crowded doorway or the unreliability of the ancient elevator.
+
+Suddenly, a distinct, unwelcome aroma began to waft through the lobby, subtle at first, then growing unmistakably more potent as it seemed to follow a specific trajectory from the direction of the cafeteria wing.
+
+Luna wrinkled her nose slightly but made no comment on the *food*, her eyes instead widening with dawning recognition of the *other* familiar scent. Chloé’s expression mirrored hers. "Oh no. Don't tell me..."
+
+All four of them looked towards the hallway that led from the cafeteria and, inevitably, towards the back loading docks. And there he was.
+
+Josh Riley, senior, trudged into view, his shoulders slumped, his expression one of utter, soul-crushing defeat. He carried no books. He was simply... emanating. He was clearly on his way to his 2:15 PM date with the dumpsters, a ritual so ingrained it was practically part of Northwood High's official after-school curriculum for him. He wasn't heading for the front exit with them; his path led elsewhere.
+
+The four seniors, now pausing near the front entrance themselves, looked knowingly at each other. A silent, shared understanding passed between them. The legends were true. Some duties were eternal.
+
+Alex might have typed a single, eloquent word: "PREDICTABLE." Leo’s device probably just issued a perfectly timed, synthesized sigh of weary recognition. Luna just shook her head, a mixture of pity and "told-you-so" amusement on her face.
+
+A few moments later, as the four seniors were just about to step out the main doors into the afternoon sun, a new figure stumbled past them, heading in the same unfortunate direction as Josh Riley, though clearly with far less experience. It was Henderson Jr., his face pale, his brand-new freshman backpack clutched to his chest like a shield. He looked confused, utterly bewildered, and righteously terrified. The faintest, premonitory whiff of dumpster seemed to already cling to him.
+
+Chloé merely said, "Well, some things never change. Stella’s probably waiting, guys. And Alex, let's get you out of here before the... uh... prevailing winds shift entirely."
+
+With final, sympathetic (and now doubly amused) nods, the four of them passed together through the front doors of Northwood High and out into the fresh afternoon air, leaving the unfortunate olfactory signatures – one well-established, one just beginning its regrettable journey – behind them in the lobby. Stella’s Holt Paladin was visible in the visitor lot, and Chloé’s Avalon was a short walk away, but for a moment, they were just four seniors who had survived another first day, wisely keeping their opinions on all cafeteria-related matters to themselves until they were well off school grounds.
+

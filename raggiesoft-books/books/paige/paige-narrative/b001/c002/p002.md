@@ -1,0 +1,51 @@
+# Part 2: The Signal
+
+The crowd at the concession stand flowed around them like a river around a rock, but the space where Jason had stood felt strangely empty.
+
+"He's an idiot," Jessica declared, taking a long sip of her Mega-Cola. She adjusted her glasses, her eyes tracking Jason’s retreating figure as he disappeared toward the drumline equipment truck. "He thinks volume equals personality. Common percussion error."
+
+Paige didn't say anything. She just kept her arm around Freddie, her breathing synchronizing with his. She was shaken—not by Jason’s rejection, but by the threat he had posed to the "System."
+
+Freddie looked down at his fries. They were cold now. The encounter had drained his "Spoons," leaving him feeling heavy and brittle. He expected the world to be looking at him, judging him for needing his sister to fight his battles.
+
+"Hey."
+
+A voice spoke from his left. It wasn't loud, and it wasn't mocking.
+
+Freddie turned. Courtney was standing at the condiment station, squirting yellow mustard onto a pretzel. She wasn't looking at the crowd; she was looking at him.
+
+"Don't worry about Jason," Courtney said, capping the mustard bottle. "He yells at the freshmen for breathing wrong. He's just noise."
+
+Freddie blinked. She had used the exact same word Paige had used. Noise.
+
+"He said it was weird," Freddie mumbled, looking at Paige’s arm still wrapped around his waist.
+
+Courtney shrugged, tearing a piece off her pretzel. "My little brother is ten. He still crawls into my bed when it thunders. Siblings are supposed to have each other's backs. It's not weird. It's lucky."
+
+She smiled at Paige. "You guys are lucky."
+
+Paige’s expression softened instantly. The defensive wall she had erected against Jason crumbled. "Thanks, Courtney."
+
+"Anyway," Courtney turned back to Freddie, her eyes bright. "Bring that sketchbook back to the stands? I want to see the rest of the engine. The warp drive thing."
+
+"Okay," Freddie whispered. "I will."
+
+"Cool. See you up there, Space Man." She gave a little salute with her pretzel and walked back toward the stadium tunnel.
+
+Freddie watched her go. The anxiety that Jason had spiked in his chest was replaced by something else—a fluttering, warm sensation that felt like a major chord resolving.
+
+"She stayed," Freddie said, almost to himself.
+
+"She did," Jessica noted, sounding surprised. She looked at Paige. "She seems... adequate."
+
+"She's nice," Paige agreed, finally letting go of Freddie’s waist now that the threat was neutralized. "She didn't care about the hug."
+
+"She liked the drawing," Freddie added. He looked at his hands, which had been trembling moments ago, and realized they were steady.
+
+Jessica checked her watch. "Fourth Quarter is starting. We need to get back before Panoff notices the percussion section is missing its bottom end."
+
+They walked back up the concrete ramp toward the stadium lights. Usually, the transition from the dim concession tunnel to the bright, screaming bowl of the stadium was painful for Freddie. But tonight, he didn't flinch. He walked with his head up, clutching his sketchbook, looking for the girl in the sequined tunic who thought his warp drive was cool.
+
+For the first time in high school, the signal was stronger than the noise.
+
+

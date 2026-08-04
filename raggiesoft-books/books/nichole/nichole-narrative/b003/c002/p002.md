@@ -1,0 +1,34 @@
+# Part 2: The Descent
+
+## Location: Stairway A (The Critical Entry)
+
+Patrick turned from the elevator alcove and stepped into the flow of traffic at Stairway A.  
+
+The stairwell was a concrete echo chamber. The electronic EEEEEEEEEEE of the alarm bounced off the cinderblock walls, amplifying the noise until it felt solid. Above them, the emergency strobe on the landing flashed in a blinding, irregular rhythm.
+
+Patrick held Nichole tight against his chest. She was heavy—dead weight is always heavier than live weight—and her spasticity made her legs rigid, like carrying a plank of wood rather than a person.
+
+"Clear the left!" Patrick roared at a group of sophomores blocking the inside rail. "Move!"
+
+He didn't wait for them to comply. He used his shoulder to plow a lane, shielding Nichole’s head with his chin.
+
+He descended the first flight, his "bad" leg taking the impact of each step with a dull throb.
+
+One, two, three, four...
+
+They hit the mid-point landing. This was the choke point. To continue to the ground floor, the stairs cut a sharp 180-degree turn to the right.
+
+Patrick pivoted. His left foot—the one with the plastic AFO brace inside his shoe—caught the edge of the stair tread during the turn.
+
+He stumbled.
+
+Nichole gasped against his neck, her grip tightening to a chokehold.
+
+Patrick slammed his shoulder into the concrete wall to catch his balance. He didn't drop her. He grunted, regained his footing, and turned the corner, facing the final flight down to the first floor.
+
+"Almost there," he whispered into her ear, though the shrieking alarm made it impossible to hear. "Almost there."
+
+He reached the bottom. The heavy metal push-bar of the exit door loomed ahead.
+
+Patrick didn't stop. He shifted Nichole’s weight, lifted his leg, and kicked the bar.
+

@@ -1,0 +1,36 @@
+# Part 5: The Confirmation
+
+While the road trip itinerary was being finalized, the remote apartment hunt continued, a daily ritual of emails, phone calls, and video tours. After several near misses, Alex, with his meticulous research, found it: a listing for a modern, first-floor, two-bedroom unit in a complex called "Cedar Park," located in Lynnwood. On paper, it was perfect.
+
+The real test came a few days later, during a scheduled video call with the property manager, Linda. The three of them—Alex, Chloé, and Megan—were gathered around a laptop in their office, ready for the virtual tour. They had sent Linda a detailed list of their accessibility and logistical needs in advance.
+
+"Okay, Alex, Chloé, Megan," Linda's voice said, clear over the computer speakers as she walked them through the unit. "As you can see, the main hallway is forty-two inches wide. It's a two-bedroom, two-bathroom unit. The master bedroom is large enough for a king bed with ample space for wheelchair access, and the second bedroom is a good size as well."
+
+She took them into the master bathroom. "And as you requested, this unit is already equipped with reinforced, ADA-compliant grab bars. We've also already removed the cabinets under the kitchen sink and a section of the counter for a previous tenant."
+
+It was everything they needed. But there were two final, crucial tests.
+
+THE LOCATION, Alex's device voiced, his own excitement palpable. CAN YOU CONFIRM THE DISTANCE TO THE LYNNWOOD TRANSIT CENTER?
+
+"Absolutely," Linda said, a smile in her voice. "We're a five-minute walk, maybe seven minutes at a slower pace. It's a straight, flat shot down the sidewalk, with curb cuts at every intersection."
+
+"Perfect," Chloé breathed. That covered her and Alex's commute to NPU via the 800-series express buses.
+
+Megan then leaned in. "Alex, can you check one more thing for me? What's the commute like from that transit center to the Quantum campus in Redmond?"
+
+Alex's fingers flew across his keyboard, a second window already open with the Transit Authority of the Puget Sound map. A moment later, he looked up, a slow, triumphant grin spreading across his face.
+
+SOUND TRANSIT ROUTE 535, his device stated. IT'S AN EXPRESS BUS. IT LEAVES FROM THE LYNNWOOD TRANSIT CENTER AND GOES DIRECTLY TO THE OVERLAKE TRANSIT CENTER IN REDMOND, RIGHT NEXT TO THE QUANTUM CAMPUS.
+
+It was a perfect trifecta. An apartment that was accessible for Alex, with an easy commute to NPU for him and Chloé, and an equally easy commute to Quantum for Megan.
+
+The three of them looked at each other, a silent, profound communication passing between them. This was it. This was the one.
+
+"We'll take it," Chloé said, her voice full of a sudden, happy certainty. "We want it. What do we need to do to sign the lease?"
+
+The process of signing the documents electronically and wiring the security deposit was a modern, efficient affair. An hour after the video call ended, they had a signed, legally binding lease for their new home in Washington.
+
+Alex wheeled his chair back from their desk, a look of profound, quiet triumph on his face. He looked at the map on their wall, no longer a collection of possibilities, but a real place. He looked at the jar of paper slips, their "Survival Fund," no longer a dream, but a necessity. And he looked at Chloé and Megan, his partners, his team, the co-architects of their new life.
+
+The last, most important piece was in place. Their entire team had a home waiting for them.
+

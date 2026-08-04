@@ -1,0 +1,38 @@
+# Part 7: A Day of Two Nations (Summer 2000)
+
+After sharing lemonade and stories on the Pattersons' Vermont deck, it was time to move on. The two families said their goodbyes, promising to see them again before heading back to Virginia, and all six of them piled back into the Masons' minivan.
+
+"Alright, Tom, where to next?" James Miller asked from the middle row as Thomas started the engine.
+
+"I think a visit to the most famous landmark in town is in order," Thomas replied with a wink.
+
+He pulled out of the Pattersons' driveway, making a careful right turn onto the American lane of Canusa Street, heading east. They drove past the last few American houses, the road narrowing slightly. Alex, watching from the back seat, saw the American houses on his right simply end. The road then took a gentle but definitive curve to the left, and suddenly, the architecture changed. The houses were now closer to the road, some with the distinct swooping roofs of Québécois style, and the street signs were in French. They were now on Rue Canusa.
+
+"Wait a second," Emily Miller said from her seat, looking around in genuine confusion. "Did we just... cross back into Canada?"
+
+"I think we did," James added, equally baffled. "I didn't see a customs post. There was nothing."
+
+From the driver's seat, Thomas laughed heartily, not even slowing down. "Relax, everyone! That's just the end of the street. Everyone does it. The road starts in Canada, splits the border for a block, and then goes back into Canada. As long as you're a local just driving around town, nobody bats an eye. It's just... how you get from that part of Beebe Plain to this part of Stanstead."
+
+James shook his head in amazement from the middle row. "This place is truly something else."
+
+"You haven't seen anything yet," Thomas said, continuing to drive through Stanstead. "We're heading to the library."
+
+He parked on Rue Church, a quiet street just a block away from the main road. In front of them stood a stately, handsome old building made of granite and brick. A sign out front read: The Stanstead-Derby Line Free Library and Arts Centre.
+
+"Okay, here's the fun part," Chloé said, her eyes sparkling as they all got out of the minivan. "The library is in both countries. But the front door... is in America."
+
+She led the way, walking down the sidewalk of Rue Church to the corner. Then, she turned right onto the sidewalk of what was now Caswell Avenue. "We just stepped into Vermont," she announced casually.
+
+The Millers looked down at their feet as if expecting to see a change in the concrete. Alex, maneuvering his wheelchair, felt a thrill at the sheer absurdity of it. They walked a few dozen feet along the American sidewalk and went up the steps to the grand main entrance.
+
+Inside, the library was hushed and smelled wonderfully of old paper and wood polish. It was a beautiful, classic library space. Chloé, however, didn't lead them to the books. She led them to the center of the main reading room and pointed down at the floor.
+
+Running right across the polished wood was a thick, painted black line. On one side, a small, discreet Canadian flag was mounted on a bookshelf. On the other, an American one.
+
+"There it is," Chloé whispered with reverence. "The border. We're standing in two countries right now."
+
+Alex wheeled his chair right up to the line, placing one wheel in Canada and one in the United States. He looked at Chloé, his expression one of pure, unadulterated fascination. THIS, he typed on his AAC, his synthesized voice a quiet hum in the library's stillness, IS THE COOLEST THING I HAVE EVER SEEN.
+
+Chloé beamed, her heart swelling with pride for her strange, wonderful hometown. She reached out, took his hand across the black line, and gave it a squeeze. Their parents watched, smiling. In this quiet, shared space, the border wasn't a barrier. It was just a line on the floor, an invitation to stand in two worlds at once, a perfect symbol of the community itself.
+

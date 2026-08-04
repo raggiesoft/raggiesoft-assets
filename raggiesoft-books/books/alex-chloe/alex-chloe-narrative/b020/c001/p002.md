@@ -1,0 +1,38 @@
+# Part 2: Last Wishes
+
+The final days were a study in profound peace. Alex was in their bed, weak but lucid, the winter light soft in the room. Chloé and Megan were his constant, unwavering presences, a two-woman fortress of quiet, loving care. One afternoon, as they were all holding hands, Alex turned his head on the pillow to look at them, his gaze clear and full of a quiet, purposeful love.
+
+CHLOÉ. MEGAN, his AAC device voiced softly from the nightstand. WE NEED TO TALK. ABOUT THE FUTURE. AFTER.
+
+Chloé’s heart ached, but she met his gaze with the same unwavering strength she had shown him their entire lives. "Okay, Alex," she whispered. "Let's talk."
+
+He laid out his final wishes for the Discovery and Care Centers, ensuring their legacy would continue under the loving guidance of Lily, Mathieu, and Isabelle. A visible sense of peace settled over him once the plans were confirmed.
+
+He was quiet for a long moment, then a small, faint smile touched his lips. He typed again, his request simple and unexpected.
+
+CHLOÉ... MY BEANIE. THE RED AND WHITE ONE. FROM 2010. COULD YOU GET IT FOR ME? I'D LIKE TO WEAR IT.
+
+Chloé’s eyes filled with tears, but she smiled, a watery, loving smile. "Your... beanie?" she whispered, her voice catching on the word.
+
+YES. MY BEANIE, his device confirmed, the synthesized voice carrying a gentle, final tease.
+
+She nodded, understanding completely. She went to the old cedar chest at the foot of their bed and carefully lifted out the red and white knit hat. It was old, the fabric softened with age, but it had been lovingly preserved.
+
+She brought it back to the bed and gently, with infinite tenderness, placed the hat on his head.
+
+"It's a toque, you stubborn, uncivilized American man," she whispered, her tears falling freely now onto his hand.
+
+He just smiled, his eyes full of a love that spanned a lifetime. It was the hat he had worn the day he knew, with absolute certainty, that he was in love with her.
+
+He then looked past Chloé, his gaze finding Megan. He typed one final message.
+
+TELL HER, MEGAN.
+
+Megan’s own face was wet with tears, but a small, fierce, and deeply loving smile broke through. "One second, cuz," she whispered.
+
+She left the room for a moment and returned holding her own well-worn, black Boston Brawlers beanie. She pulled it onto her own head, a final, proud declaration of her allegiance. She then came and stood beside the bed, looking from Alex to Chloé, her eyes shining with a lifetime of love.
+
+"He's right, you know," she said, her voice a quiet, unwavering echo of a promise made in a Montréal sports bar a lifetime ago. "It's a beanie."
+
+Alex closed his eyes, a look of profound, peaceful contentment on his face. He had his two favorite women in the world right here, by his side, loving him, teasing him, and taking care of him, until the very end. One was his heart. The other was his team. He was home.
+

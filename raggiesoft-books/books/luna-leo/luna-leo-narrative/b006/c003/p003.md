@@ -1,0 +1,44 @@
+# Part 3: The Narc Special
+
+The following Monday morning, the reality of Stella’s purchase hit the Northwood High drop-off loop with the subtlety of a sledgehammer.
+
+The 2001 Holt Sentinel didn’t just drive down the street; it patrolled it. The sheer size of the vehicle was imposing enough—nineteen feet of American steel occupying a lane and a half—but it was the color that sealed their fate. In the flat, gray light of the early morning, the "Starry Night Blue Metallic" paint didn't look like the elegant finish Stella saw in the showroom. It looked exactly like the dark, authoritative blue used by the State Police for their unmarked interceptors.
+
+Inside the cavernous cabin, the ride was silent and incredibly smooth. Stella piloted the massive sedan from the front, while the twins occupied the spacious rear bench. It was a seating arrangement born of necessity and comfort; Leo and Luna preferred to be close, finding a tactile reassurance in each other's presence before facing the chaos of the school day. Luna had her arm draped protectively over Leo’s shoulders, and he leaned comfortably against her, the two of them a united front in the back of the "land yacht."
+
+But for Luna, looking out the window, the silence was filled with impending doom.
+
+"Stella," she groaned, sinking lower into the seat. "Everyone is looking. They think we’re being raided."
+
+"They are looking because it’s a brand-new car," Stella corrected, steering the massive sedan with one finger. She was beaming, loving the feeling of the V8 engine’s low, powerful burble. "It commands respect. Look at that—that Jeep actually yielded to us. That never happens."
+
+"He yielded because he thinks you’re a vice detective!" Luna argued. "And with both of us in the back seat? We don't look like passengers, Stella. We look like we're being brought in for questioning!"
+
+It was true. As the Starry Night Blue Sentinel rolled slowly toward the curb, a distinct wave of paranoia washed over the student body. A group of boys near the gym froze mid-laugh, straightening up instinctively. A student jaywalking across the lot stopped dead in his tracks, eyes widening at the aggressive, slanted headlights and the blacked-out grille, before breaking into a nervous jog to get out of the way.
+
+Leo, peering out the window from the circle of Luna's arm, watched the reaction with wide eyes. He looked at the scattering students, then up at Luna, and a small, amused grin spread across his face. He tapped the screen of his Quantum Communicator, which rested on his lap.
+
+"THEY LOOK SCARED. LIKE WE ARE THE POLICE."
+
+"See?" Stella laughed, glancing in the rearview mirror. "Leo thinks it’s funny. It’s safe, it’s sturdy, and apparently, it clears traffic. I call that a win-win."
+
+She brought the car to a stop at the curb. The heavy doors unlocked with a solid, mechanical thunk that sounded suspiciously like a cell block securing for the night.
+
+"Okay, everybody out," Stella said cheerfully. "Have a good day!"
+
+Luna opened the rear door, her face burning as she stepped out onto the sidewalk. She turned back to help Leo, but Stella was already popping the trunk. It opened with a hydraulic hiss, revealing the cavernous space inside. Stella easily lifted Leo's wheelchair out—the task significantly easier than it had been with the old Avalon—and brought it around to the rear passenger door.
+
+As Luna helped Leo transfer from the back seat into his chair, another voice called out, "Hey! It's the Squad Car! Watch out, guys, Unit One is deploying!"
+
+A ripple of laughter went through the crowd. The nickname stuck instantly. It wasn't the "Blue Shark" or the "Land Yacht." It was The Squad Car.
+
+Leo settled into his chair, adjusting his backpack. He looked up at Stella, then at the massive blue car looming behind her. He tapped his device again.
+
+"NICE CAR. BUT LUNA IS RIGHT. WE LOOK LIKE NARCS."
+
+Stella just smiled, slamming the heavy trunk shut with a sound like a gavel coming down. "Let them talk," she said, giving them both a quick kiss on the forehead. "You guys are riding in the safest tank on the road. Go learn something."
+
+She got back into the driver’s seat, the heavy door sealing her in. As she pulled away, the V8 rumbling with a low, threatening idle, the sea of teenagers parted wide to let her through, leaving Luna and Leo on the curb to face the court of high school opinion.
+
+"Great," Luna sighed, grabbing the handles of his wheelchair. "Two more years of this. Come on, Officer Leo. Let's get to class."
+

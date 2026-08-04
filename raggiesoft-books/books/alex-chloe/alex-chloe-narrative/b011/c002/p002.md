@@ -1,0 +1,16 @@
+# Part 2: The Setup (A Week Later)
+
+The following weekend, their living room was a chaotic but organized construction zone. A large, empty glass tank sat on a sturdy new stand. Bags of specialized, nutrient-rich aquarium substrate were piled on a tarp on the floor.
+
+The setup was a perfect symphony of their teamwork.
+
+"Okay, the book says we have to rinse the substrate first to get the dust out," Chloé announced, heaving a bag towards the kitchen sink.
+
+While she handled the heavy, wet work, and Megan carefully prepped the new filter, Alex directed the artistic vision from his chair. THE LARGE PIECE OF DRIFTWOOD SHOULD GO ON THE LEFT, ANGLED TOWARDS THE BACK CORNER, he'd type. IT WILL CREATE A NATURAL CAVE.
+
+Chloé, following his design, would carefully position the wood. "Like this?"
+
+PERFECT.
+
+Together, they carefully added the substrate, arranged the hardscape, and then began the delicate process of planting the live aquatic plants they had chosen—graceful Amazon swords, feathery Java ferns, and a lush, green carpet of dwarf hairgrass. Finally, they filled the tank with water. Alex installed the high-tech plant light and programmed the timer. For the next two weeks, they patiently let the tank cycle, testing the water, their anticipation building with each passing day.
+

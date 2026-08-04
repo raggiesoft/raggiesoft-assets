@@ -1,0 +1,112 @@
+# Part 4: The Checkpoint Protocol
+
+## Thursday, May 13, 2004 — 10:00 AM (PST) Security Checkpoint 3, SeaTac Airport
+
+The line for the metal detectors was a snake of stressed travelers, shedding belts and shoes like molting reptiles. The air was thick with the sound of plastic bins clattering on rollers and TSA agents shouting instructions.
+
+**"Laptops out! Shoes off! Jackets off! Empty your pockets!"**
+
+To Freddie, the commands were physical blows. *Bark. Bark. Bark.*
+
+The Gateway attendant pushed Freddie’s wheelchair to the "Special Assistance" lane, bypassing the main coil. Jessica and Paige flanked him closely, carrying the duffel bags.
+
+They reached the conveyor belt. A TSA agent in a white shirt and blue trousers pointed at Freddie.
+
+"He needs to walk through," the agent said, pointing to the magnetometer. "Can he stand?"
+
+"He can stand," Jessica said, stepping forward to take charge of the bins. "But we need a minute. He has sensory processing issues."
+
+"Just get him through," the agent said, waving a hand impatiently.
+
+Jessica turned to Freddie. She knelt down so she was eye-level with him in the chair.
+
+"Okay, Freddie," she said calmly, ignoring the chaos around them. "Protocol is 'Strip and Scan.' You have to take off the hoodie. You have to take off the shoes. You have to walk through the gate."
+
+Freddie gripped the armrests. Take off the hoodie? That was his shell. Take off his shoes? The floor was cold. It was dirty.
+
+"Exposure," Freddie whispered, trembling. "Unsafe."
+
+"Ten seconds," Paige promised, leaning in on his other side. "I’ll be right on the other side. I’ll hold your hoodie. As soon as you step through, I’m putting it back on you. Ten seconds of cold, then back to warm."
+
+Freddie looked at the grey archway. It was a portal.
+
+"Execute," Freddie whispered.
+
+He stood up. The wheelchair was taken away to be inspected.
+
+Freddie unzipped his orange hoodie. He peeled it off, feeling the cold airport air hit his t-shirt. He felt naked. He kicked off his sneakers. He stepped onto the grey carpet in his socks.
+
+He shuffled forward. He clutched his own elbows, trying to hold himself together without the compression of the sweatshirt.
+
+He walked through the arch.
+
+*Silence.* No beep.
+
+"Clear," the agent grunted.
+
+Paige was there instantly. She didn't wait for him to ask. She draped the orange hoodie over his shoulders like a blanket before he even fully cleared the checkpoint.
+
+"Armor on," Paige whispered, guiding him to a metal bench.
+
+Freddie jammed his arms into the sleeves and zipped it up to his chin. He pulled the hood up. He grabbed his shoes from the bin Jessica slid over.
+
+"System rebooting," Freddie muttered, jamming his feet back into the safety of his sneakers.
+
+"You did good," Jessica said, hoisting the heavy duffel bags back onto her shoulders. "We’re through. We’re airside. The hard part is over."
+
+The Gateway attendant returned with the wheelchair. "Ready to roll to C10?"
+
+"One stop first," Jessica said. "We need supplies."
+
+## 10:15 AM — Emerald City News & Gifts
+
+They rolled into the brightly lit convenience store near the concourse entrance. It smelled of glossy paper, peppermint, and expensive coffee.
+
+"Target: Redundancy," Jessica announced. "Gateway usually serves those little bags of dry roasted peanuts. Just salt. No flavor."
+
+"Risk assessment," Freddie said from the chair, looking anxious. "I need the glaze. The plain ones are too dry. The texture is... like dust."
+
+"We know," Paige said, squeezing his shoulder. "We aren't risking a four-hour flight on airline peanuts. We're getting the good stuff."
+
+Jessica grabbed a shopping basket.
+
+"Pick," she commanded.
+
+Freddie scanned the rack of overpriced candy and snacks. He needed predictability.
+
+"Honey Roasted Peanuts," Freddie pointed to the rack. "The six-ounce bag. The sweet and salty glaze is essential."
+
+"Got it," Jessica said, tossing the bag into the basket.
+
+"Cheese crackers," Freddie added, pointing to the familiar orange bag of fish-shaped snacks. "Baked. Uniform texture."
+
+"Pretzels," Paige added, grabbing a bag of twists. "Salty. Good for nausea if the turbulence hits."
+
+"And chocolate," Freddie added. "For dopamine."
+
+"Candy-coated chocolates," Jessica decided, grabbing a King Size bag of the plain variety. "They don't melt in your hand. No mess."
+
+She walked to the cooler.
+
+She grabbed three 20-ounce bottles of cola.
+
+"Why are we buying soda?" Paige asked, looking at the price tag. "They give us the whole can for free on Gateway."
+
+"Spill risk," Jessica corrected. "On the plane, they pour it into a plastic cup with ice. It sits on the tray table. It vibrates. If it spills, Freddie is wet for four hours."
+
+She held up the bottle.
+
+"Screw-top lid," Jessica said. "Sealed. Controlled. And it's cold *now*."
+
+"Accepted," Freddie said, looking at the bottle. "Safety first."
+
+"Aunt Marge is buying," Jessica said, marching to the counter.
+
+She put the pile of "safe food" on the counter. The total was nearly thirty-five dollars. She swiped the card without hesitation.
+
+"We are self-sufficient," Jessica told them, handing the heavy plastic bag to Freddie to hold in his lap. "We don't need to ask the flight attendant for anything. If we get stuck on the tarmac, we eat. If they only have plain peanuts, we have honey roasted."
+
+"We are a closed loop," Freddie agreed, clutching the bag of crackers and the cold bottles.
+
+"Okay," Jessica said, checking her watch. "Gate C10. Let's go get in position for the sandwich."
+

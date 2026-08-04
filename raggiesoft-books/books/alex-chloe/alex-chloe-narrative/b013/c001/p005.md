@@ -1,0 +1,32 @@
+# Part 5: Opening a Cross-Border Life (2010)
+
+On the morning of their departure, after packing their bags, Chloé had one last practical matter to attend to. An hour later, the four of them—Alex, Chloé, Megan, and Uncle David—went into a downtown Stanstead branch of a large national bank. Alex and Megan, still in their full Canadian "uniforms of shame" sans toques, maneuvered inside.
+
+"*Bonjour,*" Chloé said to the representative, her Québécois French flawless. "*Mon mari, notre cousine, et moi, nous aimerions ouvrir un compte conjoint, s'il vous plaît.*" (Hello. My husband, his cousin, and I would like to open a joint account, please.)
+
+The representative, a professional young woman, smiled. After the initial document check—Chloé's Canadian passport, Alex's and Megan's U.S. passports and NEXUS cards—she couldn't help but grin at the two Americans' jerseys.
+
+"*Ah, je vois! On a deux nouveaux partisans des Voyageurs!*" she quipped. (Ah, I see! We have two new Voyageurs fans!)
+
+David let out a booming laugh. "*C'est vrai! On les a convertis!*" (It's true! We've converted them!)
+
+Alex managed a pained smile as his AAC device delivered a deadpan, J'AI PERDU UN PARI. (I lost a bet), while Megan just shook her head with theatrical misery, much to the amusement of everyone.
+
+After the lighthearted moment, the representative's tone became more serious as she finalized their paperwork. "Okay, everything looks perfect," she said, switching to English for clarity. "Now, since this will be your first Canadian bank account as U.S. residents, there are just a couple of important tax details I need to go over with all three of you."
+
+Chloé, Alex, and Megan gave her their full attention.
+
+"For our side here in Canada, it's very simple," she explained. "Any interest your account earns is subject to a non-resident withholding tax. The bank handles that automatically." She then leaned forward slightly, her expression becoming more earnest. "The more important part is for your government, for Uncle Sam. Because you are U.S. citizens, you have a requirement to report your foreign accounts. If the total balance of all your accounts outside the U.S. goes over ten thousand U.S. dollars at any point during the year, you have to file a special form with your Treasury Department. It's called an FBAR. It's not a tax, just a declaration, but the penalties for not filing are very serious."
+
+Chloé nodded, absorbing the information. "Thank you. That's very helpful to know."
+
+"Excellent," the representative said, her smile returning. "Now, we just need an initial deposit to activate the account."
+
+At this, David immediately pulled a crisp fifty-dollar Canadian bill from his wallet and slid it across the desk.
+
+"C'est pour moi, ça," he said warmly in French, his gesture encompassing all three of them. "Un cadeau pour vous souhaiter la bienvenue dans la famille. Et puis, c'est pas cher payé pour le spectacle que vous nous avez donné hier, Alex et Megan." He winked. (Translation for the reader: "This one's on me," he said warmly. "A gift to welcome you both to the family. And besides, it's a small price to pay for the show you two gave us yesterday, Alex and Megan." He winked.)
+
+Megan, who had been watching the entire process with a quiet, focused intensity, let out a small sigh of relief. She reached over and gave Alex's shoulder a firm, proud squeeze. "This is great, cuz," she said, her voice full of genuine happiness. "So much easier now. I'm so glad you guys will be able to function financially on both sides of the border without any hassle."
+
+They left the bank, their mission accomplished. They were now an official, cross-border financial unit, armed with new information about their responsibilities, a major step in their adult lives that had been humorously conducted while two-thirds of their household were dressed as triumphant Canadian hockey fans.
+

@@ -1,0 +1,42 @@
+# Part 2: La Cérémonie (The Ceremony)
+
+The late afternoon sun cast a golden, shimmering light across Lake Massawippi. On the flagstone terrace of Le Manoir Hovey, guests were seated, a happy, bilingual murmur filling the air. At the front, under a simple, elegant floral arch, a secular celebrant stood smiling, ready to begin.
+
+The music began. Megan Carter, the proud Best Woman, walked down the aisle first, her expression a perfect blend of joy and sisterly pride. Then came Chloé, on the arm of her father, Thomas. She was radiant, her simple, elegant dress catching the light, her eyes fixed on one person and one person only.
+
+At the front of the aisle, Alex waited, standing tall and proud in his "Quantum Glide" power chair, with his father, James, by his side. When Chloé reached him, Thomas kissed her cheek and placed her hand in Alex's. James gave his son's shoulder a final, proud squeeze.
+
+The celebrant began, her voice warm and welcoming, starting, as was right and proper, in French. "*Bonjour à tous, et bienvenue,*" she said, her words primarily for the Leclerc family. "*Nous sommes réunis aujourd'hui dans ce lieu magnifique pour célébrer l'amour extraordinaire entre Chloé et Alex.*"
+
+She then turned, a warm, inclusive smile directed towards the American side of the aisle. "And for our cherished guests who have traveled so far to be with us, allow me to share that welcome with you as well. We are gathered here today in this beautiful place to celebrate the extraordinary love between Chloé and Alex." She continued, "We are not here to witness the legal beginning of a marriage, for that beautiful, practical promise was made years ago in a quiet courthouse. We are here today for something far more joyous. We are here to witness a public affirmation of a love story... and to hear the new vows Alex and Chloé have written for the beginning of the rest of their lives."
+
+Chloé went first. Her voice, thick with emotion but steady and clear, recited the beautiful, heartfelt vows she had written, promising to always be his team, his captain, and his home.
+
+Then, it was Alex's turn.
+
+A profound, expectant silence fell over the terrace. Chloé and Megan looked at him, their expressions full of love, expecting him to bring out the AutoHotkey script they had seen him practice. Instead, he simply took a deep breath.
+
+His Quantum Design Studio device came to life. The voice that emerged was a perfect, seamless, and flawless bilingual delivery of his vows. It spoke in heartfelt Québécois French, paused for a beat, and then delivered the perfect English translation. There were no clicks, no awkward pauses, no external scripts. It was just his voice, speaking his promises, perfectly.
+
+Chloé and Megan stared, their faces a mask of pure, stunned, and dawning awe. They realized in that instant what he had done. This wasn't a hack. This was his creation. This was Echo Bridge Axon.
+
+He finished his vows, the final, powerful "I am forever yours" echoing in the quiet air.
+
+"You may now kiss your bride," the celebrant said, her own eyes shining.
+
+He leaned in and they shared a deep, loving kiss, sealing their new promises. The celebrant announced them, for the second and final time, as husband and wife, and the terrace erupted in a joyous, tearful, standing ovation.
+
+But as the applause washed over him, the sheer, overwhelming reality of the moment—the emotion of the vows, the love from the crowd, and the profound, triumphant success of his own software working perfectly when he needed it most—crashed down on Alex. It was too much. A tremor started in his hands, his eyes widening with the familiar, terrifying prelude to an autistic meltdown.
+
+Chloé and Megan saw it instantly. They moved as one. As the guests began to move towards the reception hall, Chloé and Megan guided Alex to a small, quiet, pre-planned "safe room" just off the terrace.
+
+The moment the door was closed, he let go, his body shaking with a series of silent, overwhelming sobs. It wasn't a meltdown of fear or sadness; it was a meltdown of pure, unadulterated joy and relief.
+
+Chloé and Megan flanked him, one kneeling in front of him, the other sitting beside him, their hands a firm, grounding pressure on his knees and shoulders.
+
+"You did it," Chloé whispered, her own tears flowing freely. "It was perfect, Alex. It was the most beautiful thing I have ever heard."
+
+"Your software..." Megan said, her voice full of a programmer's profound, almost reverent awe. "Alex, it was flawless. Absolutely flawless. I am so, so proud of you, cuz."
+
+He looked at them, at his wife and his Best Woman, his two anchors, and slowly, the storm began to subside. He had done it. He had faced his fears, he had made his promise, and he had done it all using a voice he had built with his own two hands. The ceremony was over. The party was about to begin. And he was ready.
+

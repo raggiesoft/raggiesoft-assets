@@ -1,0 +1,130 @@
+# Chapter 5: The Cottage
+
+## Part 1: The Stone Fence
+
+Theme: sunstead-peace
+
+Location: The Cottage on the Ridge
+
+POV: Kaela
+
+=
+
+The morning suns did not burst into the cottage; they crept in, filtered through the thick glass of the small eastern window and the grey slate of the low eaves.
+
+The cottage was small—a single, square room of whitewashed stone and heavy timber beams that smelled of dried sage and old woodsmoke. In the medieval sense, it was a "hall house," but stripped to its absolute minimum.
+
+To the left was the hearth, black with decades of soot, where a cast-iron pot hung on a swing-arm. To the right was the workspace: Elara’s heavy oak loom and Kaelan’s sharpening wheel, sitting so close they almost touched. In the far corner, behind a modest folding screen of stretched canvas, stood the washbasin and the cedar chest for linens.
+
+And pushed against the warmest wall, away from the draft of the door, was the bed.
+
+It was a narrow frame, rope-strung and topped with a mattress of straw and wool. It was designed for one person, or perhaps two small children.
+
+It currently held two full-grown adults.
+
+Kaela woke up because she couldn't move her left arm. It was pinned under the solid weight of Kaelan’s chest.
+
+He was fast asleep, sprawled on his side, his face buried in the curve of her neck. His arm was thrown over her waist, heavy and possessive, anchoring her to the mattress. His leg was hooked over hers, their limbs a tangled knot of linen and skin.
+
+In the old days—the bad days of the Wedge—this proximity would have made him flinch. He would have rolled onto the floor to escape the "crowding."
+
+Now, he slept like a stone in a river, completely at peace only when there was zero distance between them.
+
+Kaela didn't shove him off. She shifted slightly, nuzzling her face into his shoulder. She breathed in the scent of him—wood shavings, clean sweat, and the faint, permanent smell of ozone.
+
+"You're crushing my arm," she whispered, not really complaining.
+
+"Mmm," Kaelan grunted, tightening his grip reflexively in his sleep. "It's a structural support. Essential."
+
+"You're hogging the quilt."
+
+"I am the quilt," he mumbled, radiating a low, steady heat that kept the morning chill at bay better than any wool ever could.
+
+He opened one eye—gold and blue and sleepy. He grinned.
+
+"Morning, Moon."
+
+"Morning, Sun."
+
+They lay there for another hour, watching the dust motes dance in the light beams. The cottage was cramped. If Kaelan stretched his legs, he kicked the loom. If Kaela reached out, she knocked over the water bucket.
+
+But to them, the smallness wasn't a hardship. It was a luxury. It meant they never had to shout to be heard. It meant they were never out of reach.
+
+By mid-morning, the "boring" work had begun.
+
+Kaelan stood in the garden, shirtless, sweat gleaming on his back. He was fulfilling his promise.
+
+The old, rotting wooden fence that the deer had leaped over for years was gone, torn out and used for kindling.
+
+In its place, a wall was rising.
+
+Kaelan didn't use mortar. He was building a dry-stone wall, fitting jagged river rocks together with the precision of a master puzzle solver.
+
+He picked up a heavy granite boulder, weighing easily a hundred pounds. He didn't groan. He didn't use a spell. He just hefted it, turning it in his hands until he saw the line of the grain.
+
+He set it down. It wobbled slightly.
+
+Kaelan placed his hand on the stone. He didn't melt it; he just warmed it. He softened the microscopic edges of the rock with a pulse of thermal energy, then pressed down.
+
+Click.
+
+The stone settled into place, locked tight against its neighbor.
+
+"It's too high," a voice called from the porch.
+
+Kaela was sitting in the rocking chair, shelling peas into a wooden bowl. "The deer can't jump six feet, Kaelan. You're building a fortress, not a garden fence."
+
+Kaelan wiped his forehead with his forearm. He leaned against his wall, which was currently waist-high and thick enough to stop a siege engine.
+
+"Deer are ambitious," he argued, grabbing another rock. "And I don't want them eating your mint again."
+
+"You just like lifting heavy things."
+
+"I like things that stay where I put them," he corrected.
+
+He worked until noon. The wall grew, a grey, impenetrable barrier that circled the small plot of earth. It was overkill. It was magnificent.
+
+When the suns were high, Kaela came down the steps. She carried a wooden platter with a loaf of bread (warm, heavy, and slightly burnt on the bottom—just how he liked it), a wedge of sharp cheese, and a skin of water.
+
+"Break," she commanded.
+
+Kaelan dropped the rock he was holding. He sat on the grass, his back against his new wall.
+
+Kaela sat next to him. She didn't sit across from him. She sat shoulder-to-shoulder, her knee pressing against his.
+
+They shared the bread. Kaelan tore off chunks, handing the softer inside pieces to her and keeping the crusts for himself.
+
+"It's straight," Kaela observed, looking at the wall. "And solid."
+
+"It'll last a thousand years," Kaelan said, chewing contentedly. "Long after we're gone, the deer will still be confused."
+
+He took a drink of water and handed the skin to her. He watched her drink, his eyes tracing the familiar lines of her face.
+
+He remembered the Voidlands. He remembered the silence. He remembered the terrifying vastness of the Star-Eater’s ribcage.
+
+He looked at the tiny garden. He looked at the one-room cottage with its slate roof.
+
+"I love this place," he said suddenly.
+
+Kaela lowered the waterskin. She looked at him. "The garden?"
+
+"The smallness," Kaelan said. He gestured to the hut. "I love that I can hear you breathing from the other side of the room. I love that I trip over your boots."
+
+He reached out and took her hand, his calloused, stone-dusted fingers lacing through hers.
+
+"I never want space again, Kaela. I just want this."
+
+Kaela squeezed his hand. She leaned her head on his shoulder, the rough stone of the wall pressing against her back, the warm sun on her face.
+
+"Then we stay," she said. "We bake bread. We fix fences. We sleep in the small bed."
+
+"Sounds perfect," Kaelan whispered.
+
+He picked up a stone, but he didn't put it on the wall. He just held it, feeling the weight, grounding himself in the here and now.
+
+The deer would never get in. The cold would never get in.
+
+And for the first time in their lives, neither of them wanted to get out.
+
+
+

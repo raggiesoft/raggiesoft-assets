@@ -1,0 +1,562 @@
+# Chapter 3: The War for the Mind
+
+## Part 1: The Dynasty of Ruin
+
+Theme: space-gloom
+
+Location: The Brain Stem (The Node Room)
+
+POV: Kaela
+
+=
+
+The Brain Stem was a cavern of pulsating light. Massive nerve endings—cables of silver and glass thick as tree trunks—converged in the center of the room, plugging into a central console that hummed with the thoughts of the sleeping god.
+
+Seraphina stood at the console. She had torn the maintenance panel off and was plunging her hands deep into the mechanism, her arms elbow-deep in the ethereal light of the Star-Eater’s consciousness.
+
+She wasn't just hacking; she was rewriting.
+
+"Seraphina!" Kaelan roared, charging across the gantry.
+
+He didn't assess the room. He didn't check for traps. He just saw the enemy and assumed he could bulldoze her like he had the Stone Wardens.
+
+He swung his iron sword, aiming for her head.
+
+Seraphina didn't even look up. She simply shifted her weight.
+
+Kaelan’s blade cut through the air where she had been a second before. He stumbled, his momentum carrying him forward. He was heavy, his movements telegraphed. He was fighting like a blacksmith, not a warrior.
+
+"Sloppy," Seraphina hissed.
+
+She spun, lashing out with a whip of solidified Void energy.
+
+CRACK.
+
+It caught Kaelan across the chest, shattering the clasp of his cloak. He was thrown backward, crashing into a bank of monitors.
+
+"Kaelan!" Kaela shouted, raising her hands to cast a shield.
+
+But she was slow, too. Her reflexes were tuned to the rhythm of the loom, to the gentle dance of the harvest. She was half a second behind.
+
+Seraphina was already there. She moved with a terrified, frantic speed—the speed of a woman who knows her time is running out.
+
+She backhanded Kaela with a pulse of telekinetic force.
+
+Kaela flew across the room, slamming into the wall. The impact knocked the wind out of her. Before she could slide down, bands of shadow erupted from the metal wall, pinning her wrists and ankles.
+
+She was trapped. Again.
+
+"You have grown fat on peace," Seraphina sneered, turning back to Kaelan. "You thought the war was over because you stopped fighting. But I never stopped."
+
+Kaelan groaned, trying to stand up. His sword lay five feet away.
+
+Seraphina didn't let him recover. She pounced.
+
+She pinned him to the floor, her knees pressing his shoulders into the grate. She wasn't using magic to hold him; she was using leverage and superior positioning.
+
+She looked down at him. Her eyes were wild, the violet corona flaring.
+
+"I need a key," she whispered, her voice trembling. "The machine resists me. It needs a biological override. It needs an heir."
+
+She reached down and ripped the collar of his tunic, exposing his chest and neck.
+
+"Get off me!" Kaelan shouted, thrashing. He tried to summon his heat, but Seraphina slammed her hand against his solar plexus, disrupting his focus with a jolt of cold Void energy.
+
+"The mercenary was too weak," Seraphina muttered, her hand sliding down his chest, her touch burning like dry ice. "He burned out. But you... you are the Sun. You can hold it. You can hold me."
+
+She leaned in, her face inches from his. The smell of jasmine and rot was overpowering.
+
+"We will not just wake the Star-Eater," she purred, her voice dropping to a terrifying, intimate register. "We will breed its pilot."
+
+She pressed her hips against his.
+
+"Give me the child, Kaelan. Give me the hybrid. A Scion's durability... a Fae's magic... it will be a creature that can eat the universe."
+
+Kaelan froze. The horror of it paralyzed him more effectively than the magic. She wasn't just trying to kill him; she was trying to use him to birth the end of everything.
+
+She lowered her mouth to his neck. Her hand moved lower.
+
+"No!" Kaela screamed from the wall.
+
+She didn't try to use the Circuit. Kaelan’s mind was a chaotic mess of panic and revulsion; she couldn't sync with him.
+
+She used the room.
+
+She looked at the exposed nerve-cables Seraphina had been hacking. They were sparking, leaking raw cosmic data.
+
+Kaela didn't try to break her bonds. She reached out with her mind and grabbed the loose cable.
+
+Whiplash.
+
+She telekinetically yanked the heavy silver cable from its housing.
+
+It swung across the room like a pendulum.
+
+ZZZRRRT.
+
+The live end of the cable—crackling with the power of a dreaming god—slammed into Seraphina's back.
+
+Seraphina screamed.
+
+It wasn't a spell; it was a pure electrical discharge. The shock convulsed her muscles. She was thrown off Kaelan, arcing through the air with a smell of ozone and burnt silk.
+
+She crashed onto the far side of the gantry, twitching.
+
+Kaelan scrambled backward, crab-walking away from the spot where he had almost been violated. He was gasping, his face pale, clutching his torn tunic.
+
+"Kaelan! The sword!" Kaela yelled, struggling against the shadow-cuffs.
+
+Kaelan scrambled to his feet. He grabbed his sword. He didn't look heroic. He looked terrified and furious.
+
+"You..." Kaelan pointed the shaking blade at the Queen. "You are sick."
+
+Seraphina pulled herself up. Her back was smoking. Her hair was frizzed with static.
+
+She didn't look seductive anymore. She looked like a demon.
+
+"I am necessary!" she shrieked, summoning a ball of black fire in her hand. "And you are just raw materials!"
+
+She raised her hand to strike, but she stumbled. The shock had scrambled her nervous system. She was vulnerable.
+
+"Round two," Kaelan spat, his fire finally igniting, burning away the shame. "Come on."
+
+## Part 2: The Solar Solder
+
+Theme: space-action
+
+Location: The Brain Stem (The Node Room)
+
+POV: Kaela
+
+=
+
+Seraphina stumbled back, her nervous system still twitching from the electric shock. She looked at Kaelan, then at Kaela. She saw the Circuit forming between them—the golden and silver light weaving together into a shield she couldn't break.
+
+She realized she couldn't win the fight. She couldn't breed the heir.
+
+So, she decided to flip the board.
+
+"If I cannot steer it," Seraphina screamed, her voice distorted by pain and madness, "then no one will!"
+
+She didn't aim for the twins. She aimed for the Neural Core.
+
+She gathered the last of her Void energy into a jagged, dense sphere of entropy and slammed it into the exposed crystal matrix of the console.
+
+CRASH.
+
+The sound was sickening—like a bone breaking, but amplified a thousand times. The central crystal fractured. A fissure of dead grey light spread through the machine.
+
+The violet light of the room snapped to a terrifying, strobe-light red.
+
+"CRITICAL FAILURE," the Star-Eater’s voice boomed, no longer bored or polite. It was screaming. "NEURAL PATHWAY SEVERED. PAIN. PAIN. INITIATING REFLEXIVE PURGE."
+
+"Purge?" Kaelan shouted over the siren wail. "What does that mean?"
+
+"It means it's panicking!" Kaela yelled, reading the scrolling runes on the wall. "It's going to vent the entire ribcage into the nearest sun to kill the infection! We have thirty seconds before it incinerates us and everything within a light-year!"
+
+Seraphina laughed, backing away toward the shadows of the exit. "Burn, then! Let it all burn!"
+
+"Let her go," Kaela commanded, grabbing Kaelan’s arm before he could chase her. "We have to fix the Core."
+
+"It's shattered, Kaela! Look at it!"
+
+"It's not shattered; it's disconnected. The flow is broken."
+
+She dragged him to the console. The heat radiating from the fracture was intense—cosmic radiation leaking from the brain of a god.
+
+"You're the heater," Kaela said, shoving his hands toward the jagged, sparking gap in the crystal. "And you're the conductor. Bridge it."
+
+"If I touch that, it'll vaporize me," Kaelan argued, staring at the raw energy.
+
+"Not if you're the Engine," Kaela said. She placed her hands on his shoulders. "I'll filter it. I'll regulate the flow. Just... be the wire."
+
+Kaelan took a deep breath. He looked at the red countdown flashing on the walls. 15 SECONDS.
+
+"Fine," he grunted. "But if I explode, I'm haunting you."
+
+He jammed his hands into the break.
+
+He grabbed the two severed ends of the neural crystal.
+
+CONTACT.
+
+Kaelan screamed. It wasn't a scream of fear; it was the sound of a human body channeling the energy of a supernova. His veins glowed white-hot beneath his skin. His eyes turned into searchlights.
+
+The energy tried to tear him apart. It tried to overload his heart.
+
+But Kaela was there.
+
+She stood behind him, her mind locked onto his. She became the heat sink. She took the excess energy boiling off him and vented it harmlessly into the air as silver mist. She organized the chaotic flow of data rushing through his body, translating the Star-Eater’s panic into a language Kaelan’s biology could understand.
+
+Hold it, she commanded. Weld it.
+
+Kaelan gritted his teeth. He didn't just hold the connection; he fused it. He poured his own solar fire into the cracks, using his Scion blood as solder.
+
+The crystal hissed. The grey fracture began to glow gold.
+
+"SYSTEM STABILIZING," the voice stuttered. "PAIN SUBSIDING. LOGIC RESTORED."
+
+The red lights flickered and died, replaced by the soothing, rhythmic violet pulse of the standby mode.
+
+Kaelan slumped forward, smoking. He pulled his hands back. The crystal was whole again, veined with a new, permanent streak of gold.
+
+"Did we do it?" Kaelan wheezed, leaning against the console.
+
+"DIAGNOSTIC COMPLETE," the Star-Eater confirmed. "NEURAL BRIDGE REPAIRED. EFFICIENCY IMPROVED BY 4%. THANK YOU, JANITORS."
+
+"You're welcome," Kaelan groaned.
+
+From the shadows near the door, Seraphina watched. Her mouth hung open. She had expected an explosion. Instead, she had witnessed a miracle of engineering.
+
+She realized then that she wasn't fighting warriors. She was fighting the universe's immune system.
+
+"Impossible," she whispered.
+
+"It's not magic," Kaela called out to her, supporting Kaelan’s weight. "It's maintenance. You wouldn't understand. You only know how to break things."
+
+Seraphina snarled, but she didn't attack. She knew the machine was watching her now.
+
+"THREAT REMAINS," the Star-Eater noted coldly. "SHALL I VENT THE SECTOR?"
+
+"No," Kaelan said, standing up. He drew his sword. The blade hummed, fully charged by the cosmic energy he had just channeled.
+
+"She's ours," Kaelan said.
+
+Seraphina looked at the glowing boy and the girl who steered him. She looked at the god she couldn't control.
+
+She turned and fled, running deeper into the brain stem, toward the only place left to hide—the Memory Core.
+
+"Round three," Kaelan said.
+
+"Final round," Kaela corrected.
+
+They followed her.
+
+## Part 3: The Final Battle
+
+##### Scene 1: The Hollow Victory
+
+Theme: space-action
+
+Location: The Memory Core
+
+POV: Kaelan
+
+=
+
+The Memory Core was a cathedral of liquid silence.
+
+Here, the thoughts of the Star-Eater were stored in suspended droplets of silver mercury, floating in the zero-gravity center of a spherical chamber. It was beautiful, serene, and absolutely terrifying.
+
+Seraphina stood in the center of the sphere, surrounded by the floating memories of a billion years.
+
+She looked wrecked. Her crimson robes were shredded, her hair was a wild halo of static, and she was bleeding from her nose and ears—the cost of channeling the Void without a filter.
+
+But she wasn't surrendering. She was smiling.
+
+"You fixed it," she whispered as the twins entered the chamber, hovering in the low gravity. "You fixed the brain so it could watch you die."
+
+"It's over, Seraphina," Kaelan said, raising his sword. The blade was still glowing with the golden residue of the repair. "You have no army. You have no gold. You have nothing."
+
+"I have spite," Seraphina hissed.
+
+She threw her hands out. She didn't summon shadows; she summoned the void between the memories. She tore a rift in the room, sucking the light out of the air.
+
+"Together!" Kaela shouted.
+
+They moved as one. The Circuit was wide open, a roaring river of power flowing between them.
+
+Kaelan launched himself off the wall, flying through the zero-g like a arrow. He was the warhead.
+
+Kaela stayed back, anchoring him, pushing his velocity with a telekinetic shove. She was the propellant.
+
+Kaelan reached Seraphina in a heartbeat. He swung the sword, aiming to cleave her magic in two.
+
+CLASH.
+
+Seraphina caught the blade.
+
+She didn't catch it with a shield. She caught it with her bare hands. Her palms smoked and sizzled as she gripped the superheated iron, but she didn't let go.
+
+She looked Kaelan in the eye. Her violet eyes were bleeding black ichor.
+
+"You think you are the sun?" she screamed. "I am the black hole that eats you!"
+
+She pulled him in.
+
+Kaelan tried to pull back, but her grip was impossible. She was burning her own life force—burning the very blood in her veins—to fuel her strength.
+
+"Kaela!" Kaelan shouted mentally. "She's got me!"
+
+Burn her! Kaela screamed back. Dump the core!
+
+Kaelan roared. He released a point-blank burst of solar fire, enough to vaporize a tank.
+
+The fire hit Seraphina. It torched her skin. It set her robes aflame.
+
+But she didn't let go. She laughed.
+
+"Yes! Give it to me!"
+
+She didn't block the fire. She drank it. She used her own body as a chaotic, dying capacitor. She absorbed the blast, letting it destroy her internal organs just so she could redirect it.
+
+"Now... you break," Seraphina whispered.
+
+She released the energy. She channeled Kaelan’s own fire, mixed with her Void poison, back through the sword.
+
+BOOM.
+
+The sword shattered.
+
+Shards of superheated iron exploded like a grenade.
+
+The feedback loop slammed into Kaelan. It traveled down the Circuit and hit Kaela across the room.
+
+Both twins were blasted backward.
+
+Kaelan crashed into the wall of the sphere, crumpling to the floor. His armor was fused, his skin burned by the backlash of his own power. He groaned, trying to rise, but his limbs wouldn't obey.
+
+Kaela hit the opposite wall, sliding down into a heap. She was unconscious, the mental link severed by the shock.
+
+The room fell silent, save for the hissing of Seraphina’s burning flesh.
+
+Seraphina floated in the center of the room. She was dying. There was a hole in her chest where the magic had burned through. Her hands were charred skeletal claws. She was a walking corpse kept animated by sheer will.
+
+She looked at Kaelan, who was struggling to lift his head.
+
+She looked at the hilt of the broken sword lying near him.
+
+She drifted down, landing softly in front of him. She swayed, coughing up black blood.
+
+"I told you," Seraphina rasped, her voice a ruin. "I am the Queen."
+
+She raised a hand, gathering the last dregs of her life for the killing blow. She had won the round. She had broken the Circuit.
+
+But as she raised her hand, she staggered. Her vision blurred. The wound in her chest wasn't closing.
+
+She was the victor, but she was a victor standing in her own grave.
+
+"Die," she whispered, pointing her finger at Kaelan’s heart.
+
+But her finger trembled. She didn't have the strength to fire.
+
+She collapsed to her knees, staring at him, hate warring with mortality in her dying eyes.
+
+##### Scene 2: The Dawn of the Twins
+
+Theme: space-victory
+
+Location: The Memory Core
+
+POV: Kaela
+
+=
+
+Seraphina knelt on the floor of the memory sphere, her finger pointing at Kaelan’s heart. A spark of black necrotic magic flickered at her fingertip, struggling to ignite.
+
+"Die," she commanded again, her voice a wet rasp.
+
+The spark sizzled and died.
+
+She stared at her hand. She stared at the hole in her chest where her heart used to be, now a cauterized void of burnt ribs and magic. She was running on fumes. She was running on hate.
+
+Across the room, Kaela opened her eyes.
+
+Her head swam. The feedback loop had felt like a hammer to the brain, but the silence... the silence was wrong. The connection wasn't gone; it was just muted.
+
+She looked at Kaelan. He was slumped against the wall, his armor fused, his skin red and blistering. He was conscious, but barely.
+
+Kaelan, she projected. It was a whisper, a thread of silver wire in the dark.
+
+Kaelan’s head lolled. He blinked, focusing on her. Moon?
+
+Get up, she commanded gently. We have to finish it.
+
+Can't, he sent back, his mental voice ragged. Fuel's gone. She drank it all.
+
+You are the Sun, Kaela reminded him, crawling across the floor. The Sun doesn't run out of fuel. It just sets. And then it rises.
+
+She reached him. She didn't look at Seraphina. She placed her hands on Kaelan’s face.
+
+She poured everything she had left—her will, her love, her absolute refusal to let him die—into the bond.
+
+Rise, she ordered.
+
+Kaelan took a jagged breath. The gold light in his eyes flickered, then stabilized. He reached up and covered her hands with his own.
+
+The Circuit closed.
+
+It wasn't the roaring river of the battle. It was a quiet, steady hum. It was the sound of the universe realigning.
+
+They stood up together. Kaelan leaned on Kaela, and she braced him.
+
+They turned to Seraphina.
+
+The Queen looked up at them. She saw the light return to their eyes. She saw the bond snap back into place, stronger than before because it had been tested by death and survived.
+
+She realized, in the cold clarity of her final moments, that she had never been fighting two people. She had been fighting a binary star system.
+
+"Why?" Seraphina whispered, blood bubbling on her lips. "Why won't you break?"
+
+"Because we aren't alone," Kaelan said. His voice was quiet, raspy, and final.
+
+"And you are," Kaela added.
+
+Seraphina looked around the empty room. She looked at the floating memories of a god she couldn't control. She looked at the vast, cold silence of the space she had tried to conquer.
+
+She was alone. She had spent her life treating people as tools, as batteries, as stepping stones. And now, at the end of all things, there was no one to catch her.
+
+"I am... the Queen," she mumbled, trying to summon the shadows one last time.
+
+"You're just dust," Kaelan said.
+
+He raised his hand. He didn't have his sword. He didn't need it.
+
+He aimed his palm at her. Kaela placed her hand over his.
+
+Together, they thought.
+
+They didn't fire a blast of rage. They fired a pulse of Pure Light.
+
+It washed over Seraphina. It wasn't violent. It was absolute. It was the light of a dawn so bright it left no room for shadows.
+
+Seraphina didn't scream. She looked at the light, and for a moment, the hate vanished from her face, replaced by a look of wonder.
+
+Then, she unraveled.
+
+The magic binding her broken body together evaporated. The Void energy dissipated.
+
+She turned to ash. Then the ash turned to light. Then the light faded.
+
+Where the Queen of the Voidlands had knelt, there was nothing. Just a scorch mark on the floor of a god's mind.
+
+The room went silent.
+
+"THREAT ELIMINATED," the Star-Eater’s voice boomed, gentle and sleepy. "SYSTEM INTEGRITY RESTORED. THANK YOU, SCIONS. YOU MAY NOW LEAVE THE PREMISES. I AM GOING BACK TO SLEEP."
+
+Kaelan slumped against Kaela. "He's kicking us out?"
+
+"He's tired," Kaela said, holding him up. She looked at the spot where Seraphina had been. "So am I."
+
+"Home?" Kaelan asked.
+
+"Home," Kaela said.
+
+##### Scene 3: The Broken Wedge
+
+Theme: space-memory
+
+Location: The Memory Core (The Star-Eater’s Mind)
+
+POV: Kaelan
+
+=
+
+The silence in the Memory Core was absolute. Seraphina was gone, erased from existence. The twins stood amidst the floating silver droplets of the god’s memory, breathing hard, their hands still clasped.
+
+"SYSTEM RESTORE COMPLETE," the Star-Eater’s voice chimed, echoing softly in the sphere. "VIRUS REMOVED. HOWEVER... I DETECT A LINGERING ANOMALY IN USER: KAELAN."
+
+Kaelan looked up, wiping soot from his face. "I'm fine. Just a few burns. They'll heal."
+
+"NEGATIVE," the machine corrected. "NOT PHYSICAL. PSYCHOLOGICAL SOFTWARE. YOU ARE RUNNING A CORRUPTED SCRIPT. FILE DATE: PRE-MIGRATION."
+
+A droplet of silver memory floated down from the ceiling. It hovered in front of Kaelan’s face. It didn't reflect the room; it reflected a place he didn't recognize—a hall of shifting light and fluid geometry.
+
+"What is this?" Kaelan whispered.
+
+"YOUR HISTORY," the Star-Eater said. "WOULD YOU LIKE TO REVIEW THE CORRUPTION LOG?"
+
+Kaelan hesitated. A cold dread settled in his stomach. He felt Kaela squeeze his hand.
+
+"Look, Kaelan," she whispered. "You need to see it."
+
+Kaelan looked into the droplet.
+
+He saw two figures. One was a young man made of golden light—Solas. He looked like Kaelan, but taller, prouder, and untouched by pain. The other was a man in grey robes. Malakor. But this was a Malakor from before the fall—handsome, solicitous, and terrifyingly sane.
+
+In the vision, Malakor placed a hand over Solas’s heart.
+
+"Attachment is a structural weakness," the Malakor in the vision whispered. His hand glowed with a sickly, violet light that seeped into the golden boy’s chest. "When the pain comes, you must be iron. Iron does not cuddle."
+
+The vision shifted. It showed the cottage on the ridge. It showed the night of the blizzard, just after Elara’s funeral.
+
+Kaelan watched his younger self standing by the fire. He looked angry. He looked hard.
+
+He saw Kaela reaching out her hand from the bed, begging for comfort.
+
+"I'm cold," the memory-Kaela whispered.
+
+And then, Kaelan saw it. A flash of violet light pulsed in his younger self's eyes. It wasn't visible to the naked eye, but here in the Memory Core, the magical programming was laid bare.
+
+The Wedge activated.
+
+"Iron does not cuddle," the command echoed in Kaelan’s subconscious.
+
+On screen, Kaelan turned away. "No. Put another log on."
+
+Kaelan gasped. He fell to his knees on the hard floor of the sphere.
+
+The memory didn't just play; it burned. It haunted him. He relived the feeling of his own chest locking up, the screaming desire to hold his sister crushed by an alien compulsion he had mistaken for his own strength.
+
+He saw the look on Kaela’s face in the memory—the moment her heart broke.
+
+"I didn't want to," Kaelan sobbed, burying his face in his hands. "I didn't want to turn away. I was screaming inside. I wanted to hold you so bad it hurt."
+
+"He programmed you," Kaela realized, kneeling beside him, her voice trembling with fury. "He knew. He knew if we stayed connected, we couldn't be broken. So he installed a switch to sever the Circuit whenever we felt grief."
+
+"CONFIRMED," the Star-Eater stated. "SUBSPACE COMMAND: 'ISOLATION PROTOCOL'. DESIGNED TO PREVENT DUAL-CORE RESONANCE. SHALL I DELETE THE FILE?"
+
+Kaelan looked up. His face was wet with tears and grime.
+
+"Delete it," he roared, his voice cracking. "Burn it out of me!"
+
+"EXECUTING."
+
+A beam of pure white light shot from the ceiling, striking Kaelan in the chest.
+
+It didn't hurt physically. It felt like a splinter being pulled from a festering wound. Kaelan arched his back, gasping as a dark, oily shadow was ripped from his heart and dissolved into the light.
+
+The weight he had carried for three years—the constant, nagging voice that told him he had to be alone to be strong—vanished.
+
+The silence in his head was gone, replaced by the warm, unbroken hum of the Circuit.
+
+He slumped forward, catching himself on his hands. He took a deep, shuddering breath.
+
+Then, he moved.
+
+He didn't ask. He didn't hesitate. He lunged forward and grabbed Kaela.
+
+He pulled her into a fierce, desperate hug, burying his face in her neck, squeezing her so tight it would have hurt anyone else.
+
+"I'm sorry," he wept into her shoulder. "I'm so sorry."
+
+"It wasn't you," Kaela whispered, holding him just as tight, rocking him. "It was him."
+
+"I owe you," Kaelan choked out, pulling back just enough to look her in the eyes. His gold-blue eyes were fierce with a new vow.
+
+"I owe you three years, Kaela. Three years of missed hugs. Three years of cold shoulders."
+
+He gripped her arms.
+
+"I am going to pay you back," he promised. "Every single second. I have three years of back payments to make, and I am going to make them."
+
+Kaela looked at him. She saw the absolute sincerity in his face. The wall was gone. The iron was gone.
+
+She smiled through her own tears.
+
+"That's a lot of debt, Sun," she teased softly. "I'm going to hold you to it. Interest included."
+
+"I'll pay the interest," Kaelan vowed, pulling her back into the embrace, resting his chin on her head. "I'll pay it all. I'm never letting go again."
+
+"DIAGNOSTIC COMPLETE," the Star-Eater interrupted, sounding mildly annoyed. "SYSTEMS OPTIMAL. SCION EMOTIONAL LEVELS: EXCESSIVE. PLEASE VACATE THE PREMISES. I AM GOING BACK TO SLEEP."
+
+Kaelan laughed—a wet, shaky sound of pure relief. He helped Kaela up, keeping his arm firmly around her waist.
+
+"Let's go home," he said. "I have a payment plan to start."
+
+"Ideally," Kaela said, leaning into him, "it starts on the boat."
+
+"Done."
+
+They walked out of the Memory Core, leaving the ghosts of the past behind, finally, truly free.
+

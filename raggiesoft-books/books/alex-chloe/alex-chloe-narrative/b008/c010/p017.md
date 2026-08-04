@@ -1,0 +1,22 @@
+# Part 17: A Shared Secret
+
+The drive back to Lisa Court from ValueMart was quiet, the adrenaline from the confrontation slowly receding, replaced by a tense, thoughtful silence. The encounter, as jarring as it was, had been a necessary catalyst. It had transformed the abstract threat of Vera into a concrete reality, and in doing so, had solidified their collective resolve.
+
+The moment they were inside the safety of the Miller house, Alex wheeled himself directly to the family's desktop computer. He needed to be sure. He needed to see it again, to confirm that the future he had chosen was real and that Vera's version of his life was a fantasy.
+
+Chloé and Megan followed, standing on either side of his wheelchair like two quiet sentinels. They understood his need for this visual confirmation.
+
+With Chloé and Megan watching over his shoulders, he logged into the CCHR student portal. His heart pounded as he navigated to his Spring 2004 schedule. He clicked the link, and the page loaded.
+
+There it was, in the clean, institutional font of the college website: English Composition, Calculus I, General Biology with Lab. All at the Virginia Beach campus. A perfect mirror of Chloé's own schedule.
+
+A slow, profound breath escaped Alex's lungs, a sound of pure, unadulterated relief.
+
+Chloé’s face broke into a radiant, proud smile. She reached down and wrapped her arms around his shoulders in a fierce, triumphant hug. "You did it," she whispered, her voice thick with emotion. "You really did it. No more Portsmouth. No more Vera."
+
+Megan placed a firm, grounding hand on his other shoulder, her own expression one of deep, sisterly pride. "That," she said, her voice full of admiration, "is what a checkmate looks like, cuz."
+
+He let out a shaky breath, hugging Chloé back tightly. He had executed his first, silent, and deeply satisfying act of rebellion weeks ago, a secret he had shared only with his two most trusted allies. And now, after being confronted by the ghost of his past, he could see the tangible proof of his own liberation. He wasn't just waiting to be rescued anymore. He was an active, and victorious, participant.
+
+
+

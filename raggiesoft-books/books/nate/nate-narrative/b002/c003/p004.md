@@ -1,0 +1,58 @@
+# Part 4: The CVTA Extraction (3:15 PM)
+
+The heavy glass doors of Chesapeake Bay Mall slid shut behind them, cutting off the blaring holiday music and replacing it with the sharp, crisp chill of the December afternoon. The sun was already beginning its early winter descent, casting long shadows across the massive parking lot.
+
+Instead of fighting the chaotic sea of brake lights and aggressive holiday drivers, the family moved in a coordinated column toward the mall's transit shelter. Moving sixteen people in multiple cars was a logistical nightmare on a good day; on December 23rd, it was completely out of the question.
+
+"Check your watches," Evelyn called out, her breath pluming in the cold air. "We're aiming for the 3:30."
+
+"Are we taking the 26 or the 29?" Ashley asked, pulling her scarf tighter around her neck.
+
+"The 26 International Parkway," Sarah answered, engaging the brakes on Nate's wheelchair as they settled under the shelter. "The 29 Lynnhaven Parkway is technically scheduled for the same time, but it always gets bogged down in the holiday traffic on the main drag. The 26 will get us to the Community College of Hampton Roads stop by 3:45, and we can just walk the rest of the way to the house."
+
+Right on cue, the heavy rumble of a diesel engine echoed across the transit loop. Pulling into the bus lane was a Coastal Virginia Transit Authority trolley.
+
+It was a heavy-duty, commercial transit vehicle designed to look like a vintage streetcar. Painted a deep, transit-system red, it showed the distinct wear and tear of daily city routes—the decorative faux-wood trim that used to border the windows had long since fallen off, leaving behind faint adhesive outlines on the metal chassis.
+
+The trolley hissed to a stop, the pneumatic folding doors swinging open. The driver, a tired-looking man in a CVTA uniform, glanced out at the massive crowd, his eyes immediately dropping to the three wheelchairs.
+
+"I can only secure two chairs in the bays," the driver called out, leaning out of his seat. "It's federal regulation. You're going to have to split your party and wait for the next bus."
+
+Valerie would have used this exact moment to throw a massive tantrum, blaming Nate's wheelchair for ruining the schedule. But the fortress didn't even blink. They had a workaround pre-planned.
+
+"We only need one bay!" Brittany called back cheerfully.
+
+She stood up from her borrowed SkyGlide transport chair, putting her weight on her good leg, and effortlessly folded the heavy canvas and metal frame in half. Megan mirrored her exactly, grabbing her forearm crutches, standing up, and collapsing her own folding chair with a practiced snap.
+
+The driver raised his eyebrows, visibly relieved that he didn't have to leave anyone out in the cold. He hit a button on his dashboard.
+
+Instead of a modern kneeling ramp, the trolley was equipped with an old-school, heavy mechanical lift hidden beneath the stairwell. The metal platform deployed outward with a loud whine, lowering flat onto the concrete.
+
+Safety protocol dictated that all chairs had to back onto the lift. Brittany went first. Since her chair was folded, she simply backed onto the metal platform, holding the folded frame with one hand. The driver raised the lift, bringing her level with the trolley floor, where she easily transferred to the nearest wooden bench seat. The lift descended again for Megan, who repeated the process, bringing her folded chair and crutches up to sit right across the aisle from her cousin.
+
+Finally, it was Nate’s turn.
+
+Sarah expertly backed his manual chair onto the metal platform, locking his brakes. The hydraulic lift whined, raising him smoothly into the air. Sarah stepped up right behind him, helping him back into the designated ADA bay while the driver unfolded the heavy canvas securement straps, locking the frame of Nate's chair firmly to the floor of the trolley.
+
+With the perimeter secured, the payment logistics began.
+
+Nate reached into his jacket pocket and pulled out his 30-Day CVTA Pass. He slid the cardstock through the top of the farebox, waiting for the magnetic stripe to register with a satisfying *beep*. Sarah, Brittany, and Megan followed suit, swiping their own monthly passes.
+
+"Adults are a dollar-fifty, right?" Francis asked, stepping up to the farebox with exact change ready.
+
+"Dollar-fifty," the driver confirmed. "Kids under thirty-eight inches ride free."
+
+Francis dropped the exact coins into the machine for himself and Jessica, while James did the same for his side of the family. The rest of the aunts and cousins filed in, dropping their exact fare into the hopper. Emma and Noah, both well under the height limit, bypassed the farebox completely.
+
+"Do you folks need transfer slips?" the driver asked, holding up a pad of paper tickets.
+
+"No thanks, we're getting off at CCHR," Evelyn smiled, taking a seat near the front. "We're walking from there."
+
+The driver nodded, closing the pneumatic doors and shifting the heavy trolley into gear.
+
+Nate sat securely in the wheelchair bay, his hands resting on the giant plush hound on his lap. He looked down the aisle. The entire back half of the vintage trolley had been completely taken over by his family. The wooden bench seats were filled with his aunts and cousins, laughing, comparing shopping bags, and keeping Emma entertained. Francis and David were standing in the aisle, holding onto the overhead brass rails, completely relaxed.
+
+The diesel engine rumbled, and the trolley pulled out of the Chesapeake Bay Mall transit loop, leaving the chaos behind. They were on their way back to the sanctuary, and for the first time in his life, Nate truly felt like he was exactly where he belonged.
+
+
+

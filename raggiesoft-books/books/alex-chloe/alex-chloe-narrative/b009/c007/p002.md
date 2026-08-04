@@ -1,0 +1,28 @@
+# Part 2: The First Look
+
+The three of them walked to their new apartment, their footsteps echoing slightly in the quiet afternoon breezeway. Chloé's hand was shaking so much that it took her a moment to get the key into the lock. With a satisfying click, she opened the door.
+
+They stepped inside, and a profound sense of peace washed over them. The apartment was clean, empty, and smelled of fresh paint. The late afternoon sun streamed through the sliding glass door, illuminating dust motes dancing in the air.
+
+The first thing they noticed were the modifications. A sturdy, gently sloped wooden ramp led seamlessly from the doorway into the main living area. In the kitchen, the cabinet doors beneath the sink and a section of the counter had been removed, creating a perfect, accessible workspace for Alex. They went into the main bathroom and saw the heavy-duty, industrial-grade grab bars securely bolted to the wall around the tub.
+
+It was all exactly as promised. It was perfect.
+
+Chloé let out a soft, watery laugh of sheer relief. "It's real," she whispered.
+
+Megan put an arm around her, a proud, happy smile on her face. "It's home," she corrected gently.
+
+Alex navigated his wheelchair through the wide hallway, peeking into the smaller second bedroom, then moving into the larger master bedroom. He did a slow, triumphant circle in the middle of the room, then looked back at the two women who were his entire world, a flicker of his old anxiety in his eyes.
+
+Megan saw it instantly and walked over, placing a firm, grounding hand on his shoulder. "Hey," she said softly. "This is it. The big one is our room. All three of us, and that giant king-sized bed we ordered. The other one is our three-person office for world domination."
+
+Chloé came and stood beside her, taking Alex's hand. "She's right, Alex," she said, her voice full of a quiet, unwavering certainty. "There's no need to worry about privacy. We're all adults, and we're a team. We help you with bathing and toileting, we share everything else. This is just... an extension of that. This is about making sure you feel safe."
+
+Megan squeezed his shoulder. "We know you're scared," she added, her voice full of a deep, sisterly love. "And that's okay. We're both here. We're both going to help you heal. You take as long as you need."
+
+"And we promise," Chloé finished, her gaze direct and fierce, "she will never find this address. The Cease and Desist letter is still in place, and it follows you wherever you go. This place is a fortress. Our fortress."
+
+Alex looked from Chloé's face to Megan's, at the absolute, unconditional love and support in their eyes. He let out a breath he hadn't realized he was holding.
+
+IT'S OURS, his Quantum Communicator XT stated, the two simple words now filled not just with hope, but with a deep and profound sense of security.
+

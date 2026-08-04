@@ -1,0 +1,262 @@
+# Chapter 1: The Architect's Lesson
+
+## Part 1: The Tuning of the Flare
+
+Theme: divine-temple
+
+Location: The Solar Garden (The Sanctum of the Zenith)
+
+POV: Solas (Pre-Kaelan)
+
+=
+
+The Solar Garden did not smell of flowers; it smelled of ozone and potential.
+
+Solas stood in the center of the tuning ring, a circular platform suspended in the golden nebula of the Zenith. He was not a boy of flesh and blood here; he was a construct of pure, radiant energy, his skin glowing with the heat of a young star.
+
+In his hands, he held a sphere of plasma. It was unstable, roiling with violent orange and white prominences that licked at his fingers.
+
+"Hold it steady, Solas," a voice called out.
+
+Lunara sat on the edge of the platform, her legs dangling into the cosmic void. She was made of silver light, cool and serene, the perfect counterbalance to his fury. She wasn't afraid of the fire; she was watching it with delight.
+
+"I'm trying," Solas grunted, his brow furrowed. "It wants to expand. It wants to run."
+
+"Let it run, then," Lunara encouraged. "See where it goes."
+
+Solas grinned. He loosened his grip on the magnetic field he was weaving.
+
+*WHOOSH.*
+
+The sphere expanded instantly, blooming into a miniature red giant. A wave of heat washed over the garden, singing the edges of the crystalline trees. It was chaotic. It was loud. It was beautiful.
+
+Solas laughed, throwing his head back as the solar wind whipped his hair. He felt the sheer joy of creation, the unlimited power of the Engine thrumming in his chest.
+
+"Too much?" he asked, pulling the energy back in, compressing it down until it was a humming, white-hot marble.
+
+"Just enough," Lunara said, hopping down to stand beside him. She reached out and touched his arm. Her touch didn't burn; it cooled him, grounding the excess energy. "It was bright. Like you."
+
+"It was inefficient," a smooth voice interrupted.
+
+Solas froze. The joy in his chest dampened slightly.
+
+High Archivist Malakor stood at the entrance to the garden. He wore robes of grey and blue, and he held a datapad of glass. He was not smiling.
+
+"You wasted 40% of the output on thermal bloom," Malakor stated, walking toward them. "You are tuning a flare, Prince, not a firework. Precision is the key to longevity."
+
+Solas straightened up, hiding the white-hot marble behind his back. "I was just... testing the limits, Archivist."
+
+"Limits are there for a reason," Malakor said, his eyes cold and calculating. "Come with me to the Archive, Solas. It is time we discussed the structural integrity of your... enthusiasm."
+
+Solas looked at Lunara. She squeezed his hand one last time before letting go.
+
+"Go," she whispered. "I'll wait for you."
+
+Solas nodded and followed the Architect out of the garden, unaware that he was walking away from the last moment of pure, unadulterated joy he would feel for a very long time.
+
+## Part 2: The Wedge
+
+Theme: divine-temple
+
+Location: The Archive of the Zenith
+
+POV: Solas
+
+=
+
+The Archive of the Zenith was a cathedral of silence.
+
+It was not built of stone, but of crystallized light—millions of hexagonal shards floating in the air, each one containing the history of a star system. Solas walked through the rows of data, feeling small. He was a creature of noise and plasma; this place was cool, logical, and dangerously fragile.
+
+He found High Archivist Malakor standing at the central interface, organizing a cluster of rogue comets with a wave of his hand.
+
+"You are prompt," Malakor said, his back still turned. He did not praise Solas; he simply noted the fact. "Punctuality is the discipline of kings."
+
+"I want to be ready," Solas said, stepping up to the plinth. "If the Darkness comes... I need to be able to protect her."
+
+Malakor turned slowly. His face was calm, his eyes a piercing, intelligent blue. He didn't look like a monster. He looked like the only adult in a universe of children.
+
+"Protecting her," Malakor mused, tasting the words. "A noble sentiment. But sentiment, Solas, is a poor shield."
+
+He began to circle the young Scion, his robes whispering against the floor of light.
+
+"I observed you in the garden," Malakor said, his voice dropping to a smooth, resonant baritone. "You celebrate. You embrace. You burn with affection. You believe this makes you strong."
+
+"It does," Solas insisted, though his voice wavered under Malakor’s gaze. "We are twins. Our bond—"
+
+"—is a tether," Malakor cut in, sharply but without raising his voice. He summoned a hologram of a binary star system. Two stars swirling violently around each other.
+
+"Look at them," Malakor commanded. "Gravity pulls them together. It is a passionate dance. But look closer. The heat of the larger star is scorching the smaller one. The proximity causes turbulence. Chaos."
+
+Malakor looked Solas deep in the eyes.
+
+"You are a sun, Solas. You are an engine of infinite power. But if you hold Lunara too close... you will burn her. Your fear for her safety will cause you to hesitate. And in that hesitation, she will fall."
+
+Solas stared at the hologram. He saw the solar flares lashing out, nearly striking the smaller star. He felt a cold knot of guilt form in his stomach.
+
+"I would never hurt her," Solas whispered.
+
+"Not intentionally," Malakor soothed, stepping closer, assuming the role of the grieving father. "But fire cannot help but burn. To save her, Solas, you must not cling to her. You must stand apart. A fortress does not embrace its inhabitants; it shelters them."
+
+Solas looked at his hands—hands that had just shaped a galaxy. He realized Malakor was right. His emotions were wild. If he panicked in battle, if he tried to save her instead of winning the fight... they would both die.
+
+"Teach me," Solas whispered. "Teach me how to be the fortress."
+
+"It requires a sacrifice," Malakor warned, his eyes gleaming with a hidden triumph. "We must temper the Engine. We must place a governor upon your heart so that your head may rule."
+
+"I can do it."
+
+"Very well."
+
+Malakor gestured for Solas to sit on the central plinth.
+
+"Close your eyes, Prince. Center your fire."
+
+Solas obeyed. He focused on the nuclear furnace in his chest. He felt Malakor’s hand rest on his shoulder. It was heavy, grounding. Then, the hand moved to his chest, resting directly over his heart.
+
+"I am enacting the Rite of Temperance," Malakor explained softly. "It is not a cage, but a lens. It will filter out the distractions of panic, of sorrow... of attachment."
+
+"Okay," Solas breathed. "Do it."
+
+Malakor pressed down.
+
+Solas expected a rush of power. Instead, he felt a sudden, profound chill.
+
+It wasn't painful, exactly. It felt like a star going supernova and then collapsing into a white dwarf—dense, cold, and dim. The chaotic fire in his blood was forced into rigid, geometric lines.
+
+Silver and violet light seeped from Malakor’s palm into Solas’s chest.
+
+"Attachment is a structural weakness," Malakor’s voice intoned, sounding like it was coming from inside Solas’s own head.
+
+Solas instinctively tried to pull away from the cold. He wanted to reach out for Lunara. He wanted to feel her warmth.
+
+"To protect the Core, you must isolate the signal," Malakor continued, his hand holding Solas in place with an unbreakable grip.
+
+Solas felt a wall slamming down inside his mind. He felt the warm, constant hum of his connection to his sister being muffled. It wasn't severed, but it was insulated. Wrapped in lead.
+
+"Iron does not cuddle," Malakor whispered the final trigger code into his ear. "And the Sun does not weep."
+
+Solas gasped, his eyes flying open. The cold settled deep into his bones.
+
+He sat there, panting. The panic he had felt a moment ago was gone. The anxiety was gone.
+
+"How do you feel?" Malakor asked, stepping back. He adjusted his sleeves, hiding the faint trace of stolen energy that lingered on his fingertips.
+
+Solas looked down at his chest. He touched the spot where Malakor’s hand had been.
+
+He waited for the numbness. He waited to feel cold.
+
+He thought about Lunara waiting in the garden. A moment ago, the thought of her had filled him with a warm, desperate need to be near her.
+
+He checked that feeling now.
+
+It was still there.
+
+The warmth hadn't vanished. The desire to run back to the garden and wrap his arms around her was just as strong as it had been five minutes ago. The love hadn't been cut out; it had just been... tidied.
+
+Solas smiled. *I did it,* he thought. *I took the discipline, but I kept the heart.*
+
+"I feel..." Solas stood up. His posture was perfect. His face was smooth. "I feel... focused. But I still feel *her*."
+
+"Good," Malakor smiled, a thin, tight expression that didn't reach his eyes. "You are ready."
+
+He gestured to the door.
+
+"Go to your sister, Solas. But remember your training. True strength is solitary. Do not burden her with your emotions. Be the silence she requires."
+
+"I will," Solas promised.
+
+He bowed to his mentor—a stiff, formal bow.
+
+Then he turned and walked out of the Archive. He walked with a new, martial rhythm, but his pace quickened as he neared the door. He couldn't wait to see her. He couldn't wait to hold her and prove that the cold hadn't won.
+
+He was unaware that he was carrying a seed of ice in his chest—a seed that would not sprout today, or tomorrow, but years from now, in the middle of a winter storm when he needed warmth the most.
+
+Malakor watched him go, his hands clasped behind his back.
+
+"Excellent," the High Archivist whispered to the empty room. "The program is installed. Let him have his hugs for now. When the true winter comes... the iron will hold."
+
+## Part 3: The Star-Chamber
+
+Theme: divine-intimacy
+
+Location: The Private Quarters of the Twins (The Silver Temple)
+
+POV: Lunara (Pre-Kaela)
+
+=
+
+The private quarters of the twins did not have walls; they had event horizons.
+
+The room was a vast, circular platform floating in the upper atmosphere of the Zenith. The ceiling was open to the swirling aurora of the Dimension of Light, casting a soft, shifting glow over the furniture carved from singular pieces of moonstone.
+
+In the center of the room was the Bed of Clouds. It wasn't a metaphor; it was a massive, circular depression filled with condensed nebula vapor, covered in silks woven from comet tails.
+
+Lunara lay in the center, reading a scroll made of pure sound.
+
+"I'm back," Solas announced, vaulting over the low wall of the platform.
+
+He landed softly, his golden skin glowing with a fresh, vibrant intensity. He didn't look diminished. He didn't look cold. He looked like a sun that had just been polished.
+
+"That was quick," Lunara said, setting the scroll aside. "Did Malakor bore you to death with geometry?"
+
+"He tried," Solas laughed.
+
+He didn't walk to a separate chair. He walked straight to the bed.
+
+He kicked off his boots—which dissolved into sparks of light—and climbed in next to her.
+
+The mattress of clouds shifted to accommodate his mass. Solas didn't hesitate; he rolled onto his side and pulled Lunara against him.
+
+It was the most natural movement in the universe. They were a binary system; gravity dictated they be together.
+
+Lunara sighed happily, turning in his arms to face him. She pressed her forehead against his chest, feeling the hum of the Engine. It was strong. It was rhythmic.
+
+"Did he find any... flaws?" Lunara asked, tracing the line of his collarbone with a silver finger.
+
+"He said I run a little hot," Solas grinned, grabbing her hand and kissing her knuckles. "He put a 'governor' on the intake valve. Said it would help with the longevity of the sectors we build. Just a tune-up."
+
+"Does it hurt?"
+
+"Not at all," Solas said. He squeezed her hand, flooding her with a wave of dry, comforting warmth. "I feel great. I feel focused."
+
+He pulled her closer, wrapping his leg over hers, tangling their limbs together until it was hard to tell where the gold ended and the silver began.
+
+"He asked about you, though," Solas murmured into her hair, which smelled of ozone and gravity.
+
+"Oh?"
+
+"He asked if we... needed space. If we wanted separate chambers."
+
+Lunara laughed. The sound was like wind chimes. "Separate chambers? We'd freeze. Who would keep my feet warm?"
+
+"Exactly," Solas said. "I told him he was crazy. I told him, 'Iron does not bend, and the Twins do not split.'"
+
+"Good," Lunara whispered. She snuggled deeper into the embrace, closing her eyes.
+
+They lay there in the comfortable silence of the divine. They didn't need to speak to communicate; their proximity created a resonance, a shared hum of existence that was more honest than words.
+
+To a human observer, they might have looked like lovers, or siblings, or simply two exhausted deities napping after a long day of galaxy-forging.
+
+But to them, they were just Us.
+
+"That galaxy we made today," Solas mumbled, his breathing slowing down as he drifted toward sleep. "The Milky Way. I was thinking about the third planet. The blue one."
+
+"Earth?"
+
+"Yeah. I put a little extra iron in the core. Just in case."
+
+"In case of what?"
+
+"I don't know," Solas yawned, tightening his grip on her waist. "Just a feeling. Malakor says feelings are inefficient. But I like that planet."
+
+"Me too," Lunara agreed.
+
+She felt the heat of him pressing against her—the nuclear ambition of the Golden Sun. It wasn't dangerous. It was safety.
+
+It was the only blanket she ever needed.
+
+"Night, Sun," she whispered.
+
+"Night, Moon," Solas replied, burying his face in her neck.
+

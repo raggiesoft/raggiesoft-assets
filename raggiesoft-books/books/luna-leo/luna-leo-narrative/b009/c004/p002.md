@@ -1,0 +1,18 @@
+# Part 2: The Cheesesteak Debate
+
+The two-hour layover in Philadelphia's magnificent 30th Street Station passed quickly. After their delicious and messy lunch of station cheesesteaks, Stella decided to make a quick run to a convenience store inside the concourse to stock up on snacks for the long afternoon ride to Pittsburgh.
+
+"I'll be right back," she said, leaving Luna, Leo, and Olivia to watch their luggage.
+
+Inside the store, as she was grabbing bags of chips and some sodas, she overheard the couple in line behind her, clearly tourists, engaged in the age-old Philadelphia debate.
+
+"I'm just saying," the man said, looking at a tourist map, "everyone says you have to go to 'Philly Prince of Steaks.' It's the original."
+
+"But the guy at our hotel said 'Ricci's King of Steaks' is way better, right across the street!" the woman countered.
+
+Stella couldn't help but let out a small, almost inaudible scoff, a wry smile touching her lips. The sound was born of a deep, inherited knowledge. Her late great-uncle, Arthur's brother, had been a Philly native through and through. He had drilled it into Arthur, who in turn had taught Stella: the real, best cheesesteaks were never at the flashy, neon-lit tourist traps in South Philly. The best ones were always tucked away in quiet, unassuming neighborhood joints. The tourists could have their debate; she knew the real answer was neither.
+
+She paid for the snacks and returned to her family, a small, secret smile still on her face.
+
+A short time later, the call came to board the ARTS *Pennsylvanian*. They made their way to the platform and found their seats—another four-person table in Business Class, a perfect, private world for the next leg of their journey. As the train pulled out of the station and began its slow, winding journey west, they left the bustling East Coast corridor behind. The landscape began to change, the dense urban sprawl giving way to rolling hills and the promise of the mountains ahead.
+

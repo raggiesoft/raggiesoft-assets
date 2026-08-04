@@ -1,0 +1,104 @@
+# Part 8: The Audition
+
+## August 28, 2006 Fine Arts Center - Rehearsal Hall A 04:00 PM
+
+The noise in Rehearsal Hall A was deafening. Sixty musicians were warming up simultaneously.
+
+Luna walked toward the flute section. She was nervous, but she held her Orpheus 680 tight.
+
+The section was already seated in the standard blue plastic chairs. There were five other flutists—mostly Juniors and Seniors. They watched the Freshman walk in. They saw the limp. Then they saw the flute.
+
+Luna found an empty music stand at the end of the row (the 6th chair position, buried in the back). She sat down.
+
+She didn't look at anyone. She just wanted to warm up her diaphragm.
+
+She closed her eyes. She took a breath.
+
+She played the opening of Debussy’s Syrinx.
+
+Baa-da-da-da-da...
+
+The sound cut through the room. It was rich, dark, and projected with a laser-like focus that silenced the clarinets next to her. The solid silver tube vibrated with a power that the plated student flutes couldn't match.
+
+She played the first phrase. Then she stopped.
+
+She opened her eyes. The entire flute section was staring at her.
+
+Jenna, the Senior who had been Principal Flute last year, stood up from the First Chair—the coveted seat on the far left end of the front row.
+
+"That," Jenna said, pointing at the Orpheus, "is a cannon. And you know how to fire it."
+
+Jenna gestured to the First Chair.
+
+"Take it," Jenna said. "Seriously. I can't project like that. The seat is yours."
+
+The other flutists nodded agreement. "Yeah, just take it. You're clearly the ringer."
+
+It was a coronation. They were handing her the crown. Luna looked at the First Chair. It was the hot seat. Unobstructed. Exposed. But if she took it now, she would be the "Favorite." Luna shook her head.
+
+"I don't want it given to me," Luna said, her voice steady. "I want to earn it. The chair belongs to the player who plays the part best, not the one with the nicest gear."
+
+She looked at the podium. Dr. Sterling was watching them, baton in hand.
+
+"Dr. Sterling?" Luna called out.
+
+"Yes, Ms. Porter?"
+
+"The section is offering me the chair," Luna announced to the quiet room. "But I decline. I request a standard seating audition. Right now. Us versus the book."
+
+Sterling smiled. It was a predatory, approving smile.
+
+"A challenge," Sterling said. "I accept. Everyone, sit down. Open your audition packets to Excerpt \#1."
+
+Jenna sat back in First Chair. Luna stayed in Sixth.
+
+"Excerpt \#1," Sterling announced. "Mendelssohn. A Midsummer Night's Dream - Scherzo."
+
+A ripple of fear went through the section. This was the "Flute Killer."
+
+"Jenna, you first," Sterling commanded.
+
+Jenna played. She was good. Accurate, clean, but a little thin on the high E's.
+
+"Next," Sterling called.
+
+Down the line it went.
+
+"Ms. Porter," Sterling called. "Last chair."
+
+Luna stood up. She adjusted her footing. She looked at Leo’s empty spot in the corner (he was in Engineering). She channeled his precision.
+
+Tempo: Allegro vivace.
+
+She inhaled.
+
+She played.
+
+It was a blur of silver light. Her fingers flew over the open-hole keys. The articulation was crisp—ta-ka-ta-ka-ta-ka—like a machine gun. Every note popped. The dynamics swelled and receded perfectly.
+
+She hit the final high note. It rang like a bell.
+
+She lowered the flute.
+
+The brass section started slow clapping.
+
+Jenna turned around in her chair. She looked at Luna. There was no jealousy in her face, only relief.
+
+"Okay," Jenna said. "I think we're done here."
+
+Jenna stood up. She picked up her music folder. She walked to the Sixth Chair.
+
+"Trade," Jenna said.
+
+Luna walked to the front. She sat in the Principal Chair. She sat on the edge of the stage, nothing in front of her but the conductor and the empty hall.
+
+"Thank you," Luna said to the section.
+
+"Nice tongue speed," Jenna whispered, sitting down in Second Chair. "You earned it, Freshman."
+
+Dr. Sterling tapped the podium.
+
+"Congratulations, Principal Porter," Sterling said. "Now that we have that settled... let's tune. Give us an A."
+
+Luna played the A-440. The orchestra tuned to her sound. She hadn't bought the seat; she had fought for it. And the Fortress held the high ground.
+

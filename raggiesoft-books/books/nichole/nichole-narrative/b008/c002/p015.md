@@ -1,0 +1,103 @@
+# Part 15: The Loudmouth
+
+## Date: November 14, 2004, Time: 3:10 PM, Location: The Bull Pen (Student Dining Hall)
+
+The Bull Pen was loud, smelling of fry grease and burnt coffee. A giant mural of the Braxton Bull snorted steam from the back wall.
+
+Kyle—"Varsity Jacket"—was holding court at a center table. He had a bag of frozen peas pressed to his wrist. Three of his buddies were listening, half-interested, half-skeptical.
+
+Sitting at the very next table, nursing a textbook and a plate of cold pasta, was David. David was a Senior RA for Washington Hall. He took his job seriously.
+
+He also took his surroundings seriously. He recognized the description Kyle was launching into.
+
+"So I'm in the Union," Kyle said, gesturing with his good hand. "And there's this girl. Wheelchair. Total mute. But she's giving me the eyes, right? The shy 'come get me' eyes."
+
+David paused, his fork hovering.
+
+Wheelchair. Mute.
+
+David knew exactly who that was. He had a class in Engineering Hall, right next door to where the siblings went for their English seminar. He saw them in the hallway every Tuesday and Thursday. The big guy—the brother—always pushing the chair with a kind of military precision. The sister always perfectly dressed, quiet, looking around with intelligent eyes.
+
+They kept to themselves. They didn't bother anyone.
+
+"So I move in," Kyle continued, leaning back, playing the hero. "I put the moves on. I get my hand on her leg—you know, right up there, prime real estate—and she's freezing up. Playing hard to get."
+
+David put his fork down. A cold knot formed in his stomach.
+
+He touched her.
+
+"And then," Kyle scowled, pointing to his iced wrist. "Her psycho brother comes out of nowhere. Total roid-rage. Karate-chops my wrist before I can even seal the deal."
+
+"Did you hit him back?" one of the buddies asked.
+
+"Nah," Kyle scoffed. "I let him go. Didn't want to kill the guy. But man... I was inches away. If he hadn't shown up, I would've had that in the bag."
+
+David stood up. He didn't confront Kyle. He picked up his tray, walked to the tray return, and immediately pulled out his flip phone.
+
+He dialed the RA On-Call Emergency Line, which patched directly to Campus Police.
+
+"This is David, Senior RA," he said, his voice low and tight. "I have a Mandatory Report. I’m in The Bull Pen. I have a student confessing to Sexual Battery against a disabled student. I believe the victim is the Bennett girl."
+
+"Do you have a description of the suspect?" the dispatcher asked.
+
+"Varsity jacket," David said, eyeing Kyle with disgust. "Maroon and gold. He's bragging about it."
+
+## The Arrest
+
+Two minutes later, the double doors of The Bull Pen swung open.
+
+It wasn't just security. It was two uniformed Campus Police officers. They walked straight to Table 4, stepping over backpacks.
+
+Kyle looked up, expecting a friend. He saw the badges.
+
+"Kyle Henderson?" the lead officer asked.
+
+Kyle blinked. "Uh... yeah?"
+
+"Stand up," the officer ordered. "Turn around. Put your hands behind your back."
+
+The cafeteria went silent. Forks dropped.
+
+"What?" Kyle laughed nervously, looking at his friends. "Is this a joke? I didn't do anything! The other guy hit me!"
+
+The officer grabbed Kyle’s arm—the uninjured one—and spun him around. He slapped the cuffs on.
+
+CLICK-CLICK.
+
+"Kyle Henderson," the officer recited, "you are under arrest for Sexual Battery and Disorderly Conduct."
+
+Kyle’s face twisted in genuine confusion. He didn't look scared; he looked offended.
+
+"Sexual Battery?" Kyle shouted, trying to twist around to look at the cop. "Are you crazy? I didn't have sex with her! I didn't even get my hand in her pants!"
+
+The officer tightened the cuff but didn't ask a question. He let Kyle talk.
+
+"That's bull!" Kyle yelled, his voice echoing off the mural. "I just touched her leg! That's it! You can't arrest me for touching a leg! That’s not sexual assault!"
+
+"Actually," the officer said, his voice flat and bored, "touching the upper thigh or groin area without consent is a felony under Rhode Island Code 11-37. And you just admitted to the whole room that you did it."
+
+Kyle froze.
+
+"But... she didn't say no!" Kyle stammered, pivoting to his last defense. "She didn't say anything!"
+
+"Because she's non-verbal, you idiot," the officer said, finally losing his professional detachments. "And taking advantage of a physically disabled person? That’s an aggravating factor."
+
+The officer spun Kyle around to face him, pulling a laminated card from his pocket. Now that the voluntary confession was out, it was time to lock it down.
+
+"Kyle Henderson, you have the right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to an attorney. If you cannot afford an attorney, one will be provided for you. Do you understand the rights I have just read to you?"
+
+Kyle blinked, his mouth opening and closing like a fish. The legal reality was finally crushing the denial.
+
+"I... I understand," Kyle whispered.
+
+"Good," the officer said, shoving him toward the door. "Let's go. You can explain your legal theories to the judge."
+
+As they marched him out—past the salad bar, past the freshman staring with wide eyes—Kyle was still muttering, shaking his head.
+
+"It wasn't sex," Kyle whispered to himself, unable to comprehend that his world had just ended. "It was just a leg."
+
+David, the RA, watched him go. He picked up his cold pasta.
+
+"Goodbye, varsity," David muttered.
+
+

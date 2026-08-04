@@ -1,0 +1,36 @@
+# Part 3: Domestic Details
+
+With the large furniture secured and its April delivery scheduled, the next mission was to acquire the small, everyday items that would truly make the apartment theirs. On a sunny Tuesday afternoon, Alex, Chloé, and Megan piled into Megan's new sedan and headed to the sprawling Landmark at the corner of South Independence and Buckner Boulevards. This was their first major shopping trip as a household, armed with a long list and a budget funded by a joint checking account their parents had helped them set up.
+
+The vast, brightly lit aisles of Landmark were a world of infinite choices. They started in the home goods section, their shopping cart rattling before them.
+
+The towel debate was first. Chloé immediately gravitated towards a set of plush, deep teal towels. Alex, ever the pragmatist, wheeled closer and typed on his Quantum Note. VERY NICE. ALSO VERY EXPENSIVE. ARE WE DRYING OURSELVES WITH CASHMERE?
+
+Megan laughed. "He's got a point, Chloé. We're on a budget." She spotted a display of perfectly good, soft towels in a classic navy blue, on sale. "Compromise?"
+
+COMPROMISE, Alex agreed, and the navy towels went into the cart.
+
+They moved through the aisles as a seamless team. The next big decision was bedding for their new king-sized bed. As they stood before a wall of sheets and comforters, Alex grew quiet, a flicker of his old anxiety crossing his face.
+
+Megan noticed it instantly. "Hey," she said softly, placing a hand on his shoulder. "You're thinking about the room again, aren't you?"
+
+Alex gave a small, hesitant nod.
+
+"Listen to me, cuz," Megan said, her voice firm but full of love. "This is our decision. All three of us. Having one big, safe bedroom for all of us and turning the other room into a massive office for our world domination plans is the smartest idea we've had. It's perfect."
+
+"She's right, Alex," Chloé added, taking his hand. "I wouldn't want it any other way. The most important thing is that you feel safe. And you're safest when you're with us. Both of us."
+
+His shoulders visibly relaxed. The reassurance, so freely and lovingly given, was exactly what he needed to hear. He looked at the bedding options, his focus returning. He pointed to a simple, cozy-looking comforter set in a warm, neutral grey. THAT ONE.
+
+"Good choice," Chloé and Megan said in near-perfect unison, which made them all laugh.
+
+They found a sturdy set of silverware and simple, white ceramic dishes. In the mug section, Chloé found three simple, oversized mugs: one deep blue for Alex, one warm green for her, and one a cheerful, sunny yellow for Megan.
+
+"Okay," she said, holding them up. "These are non-negotiable. For our first morning coffee and hot chocolate in the new place."
+
+NON-NEGOTIABLE, Alex typed, a warm smile spreading across his face.
+
+As they finally made their way to the checkout, their cart was full to bursting with the humble architecture of a first home: bath towels, dishes, a king-sized comforter, a cutting board, a new welcome mat, and three perfect mugs. Chloé swiped their new debit card, and Alex carefully entered the PIN. It was a simple, mundane transaction, but it felt monumental.
+
+They packed the bags into the back of Megan's new car, the new items a tangible promise of the life they were about to build. This wasn't a gift from their parents. These were things they had chosen, together, as a team, as a family.
+

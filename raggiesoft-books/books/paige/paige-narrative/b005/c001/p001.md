@@ -1,0 +1,104 @@
+# Part 1: The Pathfinder
+
+## Saturday, June 23, 2007 — 14:15 PM Campbell Court Transportation Center, Roanoke, VA
+
+The air inside Campbell Court was a familiar, hostile mixture of diesel soot, stale tobacco, and the damp smell of concrete that never quite dried. It was a sensory environment Freddie usually categorized as "Critical Threat," but today, the static in his head was drowned out by the hum of anticipation.
+
+He sat in *The Rover*—his matte black titanium TiLite wheelchair—parked near Gate 4. He wasn't wearing his orange hoodie today; it was too warm. Instead, he wore a soft grey t-shirt and dark jeans, his hands resting on the cambered wheels.
+
+Paige stood directly behind him, her hands resting on his shoulders, her thumbs rubbing a rhythmic, grounding circle into his trapezius muscles.
+
+"They're close," Paige whispered, leaning down so her cheek brushed his hair. "I can feel the chaos inbound."
+
+Jessica stood to his left, checking her watch against the arrival monitor. She looked every inch the Matriarch: posture rigid, eyes scanning the perimeter, holding a sheaf of printed bus schedules like a weapon.
+
+"Pathfinder Schedule 404 from Richmond," Jessica announced. "Arriving in Bay 2. On time."
+
+"Bay 2," Freddie repeated, logging the variable. "That is the center lane."
+
+He looked at the concrete pillar near the gate. The last time he had been in this terminal, he had been freezing, terrified, and alone with Vanessa. He had sat on a metal bench breathing in poison.
+
+Today, he was the center of a phalanx. He wasn't running away. He was the Welcome Committee.
+
+A massive silver bus roared into the tunnel, its air brakes hissing with a violent *PSSSHHH* that echoed off the low ceiling. The destination sign scrolled in jagged yellow LEDs: **KNOXVILLE**.
+
+"That's them," Jessica said, stepping forward but keeping one hand on Freddie's arm to maintain the chain. "Hold the line."
+
+The doors hissed open. A few tired travelers stepped off—a man with a guitar case, a woman with a crying baby.
+
+Then, a blur of motion appeared in the doorway.
+
+Jenna Avery didn't step off the bus; she launched.
+
+She was wearing a neon green tank top, baggy cargo pants with too many zippers, and carrying a messenger bag that looked like it was exploding with wires and sketchpads.
+
+"ROANOKE!" Jenna shouted, leaping down the stairs and landing on the oil-stained concrete with a thud. She spun in a circle, her eyes wild and bright. "WE ARE IN THE MOUNTAINS! I SMELL DIESEL! I SMELL VICTORY!"
+
+Behind her, Sarah stepped down with measured precision. She was wearing a crisp button-down shirt and pressed jeans. She carried a single, hard-shell carry-on case that looked like it had been sanitized. She scanned the platform, her eyes darting from the oil stain on the floor to the flickering light overhead, assessing threats.
+
+Then, she saw them.
+
+"Target acquired," Sarah said, her shoulders dropping three inches as the tension left her frame.
+
+"FREDDIE!" Jenna screamed.
+
+She didn't wait for permission. She didn't ask if it was okay. She sprinted across the gap.
+
+Freddie barely had time to brace himself before Jenna collided with him. She dropped to her knees on the dirty concrete and threw her arms around his waist, burying her face in his lap.
+
+"I missed you! I missed you! Mom is so loud and the house was so quiet without you!" Jenna wailed, hugging him with a frantic, vibrating energy.
+
+Usually, this kind of sudden impact would trigger a sensory crash. But Freddie had prepared. He had the manual.
+
+*Jenna = High Frequency / High Pressure.*
+
+"Hello, Jenna," Freddie said, bringing his hand down to rest on her messy hair. "You are... vibrating."
+
+"I know!" Jenna looked up, grinning maniacally. "I have been sitting for six hours! I need to spin!"
+
+Sarah reached them a second later. She didn't run. She walked up to the side of the wheelchair. She looked at Freddie, then at Paige, then at Jessica.
+
+"The bus was unsanitary," Sarah noted, her voice trembling slightly. "There was a sticky substance on the armrest. I used four packets of wipes."
+
+"You're safe now," Jessica said, opening her arms. "Decontamination is waiting at the Base."
+
+Sarah dropped her bag and stepped into the circle. She didn't hug Jessica first. She knelt down next to Jenna, on Freddie's other side.
+
+She reached out and took Freddie’s hand. She gripped it hard—a static, unmoving clamp. She verified he was real.
+
+"Freddie," Sarah whispered. "You have the chair. You actually got it."
+
+"The Rover," Freddie corrected, tapping the titanium frame. "It increases efficiency."
+
+"It's clean," Sarah approved, inspecting the matte finish.
+
+Then, the dam broke. Paige let go of Freddie’s shoulders and dropped to her knees, wrapping her arms around both Sarah and Jenna. Jessica crouched down behind Freddie, wrapping her arms around his chest.
+
+It was a five-person pile-up in the middle of Bay 2. A tangle of limbs, tears, and relief.
+
+Travelers stepped around them, looking confused, but the Avery Unit didn't care. They were complete.
+
+"We're here," Jenna sobbed into Freddie's knee. "We're actually here. We escaped."
+
+"You are docked," Freddie confirmed, feeling the weight of them anchoring him to the ground. "The perimeter is expanded."
+
+Jessica stood up after a long minute, wiping her eyes. "Okay. Logistics check. You shipped the heavy stuff?"
+
+"Twelve boxes," Sarah confirmed, standing up and brushing the terminal dust off her knees with a grimace. "UDS Ground. Tracking numbers indicate arrival at 105 Pepper yesterday."
+
+"They're in the garage," Jessica confirmed. "Waiting for deployment."
+
+"Then we are light," Jessica said. "We can make the transfer."
+
+She pointed to the far end of the terminal, where a smaller, white-and-maroon bus was idling.
+
+"**Roanoke Valley Transit**," Jessica announced. "The **Roanoke Express**. It departs in ten minutes. It takes us straight to the Falling Branch Park & Ride."
+
+"Then what?" Jenna asked, bouncing on her heels.
+
+"Then we transfer to **Blue Ridge Transit Route 1**," Freddie recited, the schedule appearing in his mind like a soothing green terminal screen. "It will deposit us at **Pepper Plaza**. The walk to the Base is three minutes."
+
+"Three minutes to freedom," Paige smiled, grabbing Sarah's hand. "Come on. Let's get you guys home."
+
+They moved as a unit toward the express bus—Jessica taking point, Paige and the twins flanking the wheelchair, and Freddie rolling in the center, the Captain of a fleet that had just doubled in size.
+

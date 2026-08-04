@@ -1,0 +1,32 @@
+# Part 4: The Call for Rescue
+
+The decision, once made in that silent, shared glance of revulsion between Luna and Leo, was absolute. They had to get out. The thumping bass of the music was a physical assault, vibrating not just the walls but deep within their chests, making coherent thought nearly impossible. The air was thick with the cloying smell of spilled beer, cheap perfume, and teenage sweat. Shouts and shrieks of laughter, amplified by alcohol and the enclosed space, ricocheted around them. For Luna and Leo, both acutely sensitive to sensory input due to their autism, it was a nightmare.
+
+"I'm calling Stella," Luna finally managed to say, her voice a tight whisper that Leo barely caught. He nodded, his eyes wide with a mixture of fear and desperate hope. The idea of navigating through the throng of increasingly uninhibited teenagers to find a phone felt daunting, but staying was unbearable.
+
+Clutching Leo’s arm for balance and courage, Luna began to push her way through the edge of the living room crowd. Leo maneuvered his Quantum Communicator XT carefully, keeping it close, though he knew using it for anything beyond a quick "NEED HELP" message if Luna couldn't get through would be impossible in this din. They were jostled, bumped, and nearly tripped several times by teenagers who were either too drunk to notice them or too self-absorbed to care. The music seemed to get louder, the lyrics unintelligible, just a pounding, disorienting rhythm.
+
+They finally spotted the landline telephone on a small end table in the kitchen, which, while still noisy, was marginally less chaotic than the epicenter of the party in the living room. A couple of teens were rummaging in the refrigerator, pulling out more beer cans provided by Grandpa Richard, but they paid Luna and Leo no mind.
+
+Luna snatched up the receiver, her heart hammering against her ribs. Her hands trembled as she punched in Stella's cell phone number, a sequence she knew by heart. She pressed the receiver hard against her ear, trying to create a seal against the party noise that still pulsed through the kitchen. The dial tone felt agonizingly slow. Then, ringing. Please pick up, Stella, please, please pick up, she prayed.
+
+"Hello?" Stella’s voice, blessedly calm and familiar, finally came through, though it sounded distant and tinny, already fighting the wall of sound from Luna's end.
+
+"Stella?!" Luna almost shouted into the mouthpiece, desperate to be heard over the blare of a particularly loud guitar riff and a fresh wave of whooping from the living room. "Can you *hear* me?!"
+
+"Luna? Is that you? What on earth is all that noise?" Stella's voice crackled back, clearly struggling to discern Luna's words. "It sounds like a riot!"
+
+"Stella, it's a *disaster*!" Luna yelled, her voice cracking with distress, her speech tangling as the words fought to escape over the pounding music. "They *lied*! As soon as you left... all these kids showed up! Grandpa Richard is... giving everyone alcohol! All these teenagers... drunk! The music... so loud... it *hurts* my head! Grandma Elizabeth... she's just letting it happen... she’s even *laughing*! We *have* to get out of here! Please come get us! We can't stay!"
+
+On the other end, through the distorted noise and her sister's frantic, jumbled speech, Stella pieced together the horrifying picture. She might not have caught every single word, but the sheer terror in Luna's voice, the desperate plea, and the key phrases she *could* decipher – "lied," "kids," "alcohol," "loud," "get us" – painted a clear and alarming scenario. Her initial confusion from the noisy call turned instantly to a cold, protective fury. Richard and Elizabeth had deliberately deceived her, endangered her seventeen-year-old siblings, and were irresponsibly facilitating an underage drinking party.
+
+"Luna, I can barely hear you, but I understand!" Stella shouted back into her phone, her own voice now sharp with urgency as she was already grabbing her keys and heading for the door. "I'm on my way! Are you two safe *right now*? Can you get to a room and lock the door, or at least stay together where it's a bit quieter? Don't go back out into that main party area if you can help it!"
+
+Luna glanced around the chaotic kitchen, then back towards the hallway that led to the bedrooms. "I... I think so! Leo's right here with me! We'll try!"
+
+"Okay, good!" Stella’s voice was a lifeline. "I love you both! Just hold on, stay together. I'll be there as fast as I can! Probably about twenty minutes, maybe less. Just stay put and stay safe!"
+
+"Okay! Hurry!" Luna yelled, tears of relief now mixing with her fear. She slammed the receiver down, grabbing Leo's hand again, her own trembling. "She's coming! Stella's coming! She said to find a quiet room and wait!"
+
+Together, they squeezed past the teens still raiding the fridge and made their way down the hallway, the thumping bass of the music pursuing them like a physical force. They found a small guest bedroom that seemed momentarily unoccupied, slipped inside, and Luna quickly, gratefully, clicked the lock on the door, finally creating a small, if temporary, island of relative quiet in the overwhelming storm of their grandparents' disastrous New Year's Eve party.
+

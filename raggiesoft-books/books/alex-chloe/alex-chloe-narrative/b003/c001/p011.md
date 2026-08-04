@@ -1,0 +1,114 @@
+# Part 11: Cafeteria Justice, Multilingual Edition *(Freshman Year, Fall 1999)*
+
+The Northwood High cafeteria during 5th period lunch was a symphony of controlled chaos. Trays clattered, sneakers squeaked on linoleum, and hundreds of teenage conversations blended into a dull roar that pulsed beneath the flickering fluorescent lights.
+
+Their saving grace was Megan Carter. As a senior, she was a seasoned veteran of the Northwood social ecosystem, and lunch was the one period her schedule overlapped with theirs. She had saved them a relatively quiet table near a window. When she arrived a few minutes after them, her first act, as always, was to give Alex a big, loving hug.
+
+"Hey, cuz," she said, ruffling his hair. "How's the day treating you?"
+
+Alex smiled, a genuine, relaxed expression he reserved only for his inner circle. Megan had been his first friend, his favorite cousin, and her hugs were a constant, comforting presence in his life. He was just starting to get used to Chloé's equally wonderful, but still new, "big squeeze" hugs.
+
+Megan slid into the seat beside Chloé, and the three of them formed a small, protective bubble against the noise of the room. Alex, now feeling completely at ease, turned his AAC device back towards Chloé to continue their earlier conversation. He was intently showing her a new design he’d sketched out for a more intuitive game controller interface.
+
+Chloé, her head bent close to his, listened with genuine fascination, asking sharp, insightful questions. Megan leaned in too, her own expression one of fond, sisterly pride as she listened to her brilliant cousin explain his complex ideas.
+
+Across the vast, echoing room, at another table amidst the freshman throng, Luna Porter was animatedly describing a particularly disastrous attempt by their new band director to teach the woodwinds a complex jazz riff. Her twin brother, Leo Porter, listened with a small, amused smile, his own sleek Quantum Communicator XT resting beside his tray of lukewarm pizza. They didn't know Alex and Chloé personally yet, beyond perhaps a passing recognition – another quiet pair, one of whom also used a wheelchair and an AAC device, navigating the choppy waters of their first year.
+
+A few tables away from Alex and Chloé, Ben Carter and Morgan McAllister were sharing a surprisingly comfortable lunch. Since their shared dumpster duty ordeal and their subsequent earnest talk with Mrs. DeMarco about reforming, they'd struck up an unlikely, supportive friendship. Morgan, true to her word to Mrs. DeMarco, was making a visible, almost meticulous effort to clean up her lunch area each day. Ben, having decisively distanced himself from Josh Riley's orbit, found Morgan's no-nonsense company and her surprisingly patient tutoring in Algebra a welcome change. He might have just shared a small academic victory, a shy grin on his face.
+
+"I actually passed that pop quiz in Henderson's class, Morgan! Got a B-minus! Thanks to your help with those stupid equations."
+
+Morgan offered a genuine, warm smile, a stark contrast to her former "Morgue" persona. She playfully nudged his arm. "See, Carter? Told you that you weren't destined for goon-dom or failing grades. You just needed to ditch the lead weight." She gave his arm a quick, friendly hug of congratulations, a gesture of easy camaraderie that was becoming natural between them. "Your grades are definitely starting to improve."
+
+The relative peace at Alex, Megan, and Chloé’s table (and the burgeoning positive vibe at Ben and Morgan's) was shattered by the swaggering arrival of Josh Riley, now flanked only by his remaining, increasingly weary-looking goon, Mark. Ben Carter’s absence from his usual spot by Josh’s side was a small but significant shift in the cafeteria's social landscape, one Josh clearly hadn't appreciated. Josh, apparently having learned nothing from his recent extended sentence involving grease traps and a ten-page essay, was clearly spoiling for another confrontation.
+
+The relative peace at their table was shattered by the swaggering arrival of Josh Riley, flanked by his remaining goon, Mark. He was clearly spoiling for a confrontation.
+
+"Well, well, Miller," Josh sneered, deliberately nudging the back of Alex's wheelchair with his foot, causing a slight, jarring movement. "Still need your little girlfriend here to hold your hand and figure out what to say?"
+
+Alex tensed, his fingers stilling above his AAC keypad, a familiar flicker of anxiety tightening his chest. Chloé’s head snapped up, her expression transforming into one of icy disdain.
+
+Before she could speak, however, Megan leaned forward, her own expression one of pure, bored annoyance. Her voice was low, calm, and carried the unmistakable authority of a senior addressing a clueless freshman. "Watch your attitude, Riley," she said, not as a request, but as a command. "You're about two seconds away from making a very big mistake."
+
+Josh, who had been focused on Alex and Chloé, turned to Megan, a look of dismissive surprise on his face. He smirked. "Relax," he said, waving a hand at her. "It's just a little guy talk. Don't worry your pretty little head about it."
+
+That was the final straw. The casual, sexist dismissal of Megan was the spark that lit the fuse.
+
+Chloé pushed her chair back with a sharp scrape and was on her feet, her eyes blazing. The condescending way Josh had spoken to Megan, on top of his bullying of Alex, was an unforgivable combination. And then, she began to speak, not in English, but in the sharp, rapid-fire, and decidedly colorful Québécois French that was as much a part of her as her coppery red hair.
+
+"TABAROUETTE, RILEY!" The expletive, like a pistol shot, cut through the immediate lunchtime chatter. Students at nearby tables paused, forks halfway to their mouths. Ben and Morgan looked over, Ben wincing, while Morgan watched with a mixture of annoyance at Josh and a flicker of impressed solidarity with Chloé.
+
+Alex stared, completely in awe, as Chloé unleashed a torrent of passionate, sharp, and wonderfully colorful Québécois French. He had never seen this side of her, this fierce, protective lioness. Megan, sitting beside him, looked equally stunned. Her jaw was slightly agape, a look of profound, almost terrified respect on her face. *Holy crap, Mason,* Megan thought, a genuine worry mixing with her amazement. *You're going to get yourself suspended.*
+
+"T’es dont ben écœurant, mon p’tit christ! Arrête d’achaler Alex, ostie d’mangeux d’blé d’Inde!..." (Translation for the reader: "Damn it, Riley! You're really disgusting, you little bastard! Stop hassling Alex, you goddamn corn-on-the-cob eater!...")
+
+Josh Riley stared, his jaw slack, completely dumbfounded by the torrent of unfamiliar sounds. He understood not a single word, but the sheer, unadulterated fury in Chloé’s voice and the blaze in her eyes were universally comprehensible. Mark looked equally stunned.
+
+Across the cafeteria, Luna Porter’s fork clattered onto her tray. "Whoa," she breathed, her eyes wide. "Did you hear that, Leo? What language is that? That girl is absolutely shredding Josh Riley!" Leo Porter, equally startled, turned his Quantum Communicator XT slightly to get a better view. He typed quickly: SOUNDS ANGRY. VERY ANGRY. DON'T KNOW THE WORDS. BUT GO HER! JOSH DESERVES IT.
+
+*So much for Mrs. DeMarco understanding every language,* Alex thought fleetingly, watching Chloé with a mixture of awe and apprehension. He glanced at Megan, whose worried expression mirrored his own. The upperclassmen had to have been exaggerating that part of the orientation.
+
+Suddenly, a new voice sliced through the cafeteria with the cool precision of a surgeon's scalpel, silencing the growing murmurs and the last vestiges of Josh’s bewildered sputtering. "*Mademoiselle Mason.*"
+
+The entire cafeteria, already captivated by Chloé's passionate outburst, seemed to freeze. Heads swiveled. It was Mrs. DeMarco, standing a few feet away, her arms crossed, her expression unreadable but her eyes sharp as flint. The silence that fell was absolute.
+
+Chloé, who had been in the middle of another particularly expressive Québécois phrase, stopped abruptly, her own surprise evident as she instantly recognized the distinct, crisp pronunciation. This wasn't the rounded, familiar sound of her mother’s Québécois; this was pure, formal, distinctly Metropolitan French.
+
+Megan, however, wasn't surprised at all. As a senior, she knew the stories were true. She leaned over to Alex, a look of grim anticipation on her face. "Here we go," she whispered. "Told you she knows everything."
+
+"*Oui, Madame DeMarco?*" Chloé managed, her Québécois accent suddenly feeling very pronounced.
+
+Mrs. DeMarco addressed Chloé, her Metropolitan French gliding out with an effortless, almost regal authority. "Mademoiselle, bien que je comprenne parfaitement la nature de votre… indignation… je vous prierais de modérer votre langage dans l'enceinte de cette cafétéria..." (Translation for the reader: "Miss Mason, while I perfectly understand the nature of your… indignation… I would ask you to moderate your language within the confines of this cafeteria...")
+
+As Mrs. DeMarco spoke, Megan stared, her own expression shifting from grim expectation to pure, unadulterated shock. She had been fully prepared for Mrs. DeMarco to understand the French. What she hadn't been prepared for was the *grace* of the response. This wasn't the prelude to a suspension. It was a masterclass in de-escalation. She couldn't believe Chloé wasn't about to be dragged to the principal's office.
+
+A wave of crimson flooded Chloé's cheeks. Not only had Mrs. DeMarco understood every colorful, uniquely Québécois curse, but she had delivered her reprimand with such linguistic elegance it was both a gentle correction and an undeniable display of authority. The upperclassmen hadn't been exaggerating after all. Alex stared, his own earlier skepticism vanishing in a puff of astonished respect.
+
+"*Oui, Madame. Pardonnez-moi. Il était... très impoli envers mon ami,*" Chloé replied, her own French instinctively becoming a little more formal, her respect for Mrs. DeMarco skyrocketing. (Yes, Madame. Forgive me. He was... very rude to my friend.)
+
+Mrs. DeMarco gave a curt, almost imperceptible nod, then her gaze, like chips of arctic ice, swiveled to fix upon a pale and sweating Josh Riley. She switched seamlessly to American English, her voice dangerously calm, each word dropping like a stone into the pool of stunned silence. "Mr. Riley. It has come to my attention yet again, through Mademoiselle Mason’s rather… spirited and, I must say, remarkably expressive defense of her friend, that your lunchtime conduct is once more under scrutiny and has fallen woefully short of acceptable standards."
+
+Josh started to stammer, "B-but I... I didn't even know what she was yelling! It was just crazy foreign stuff! I didn't do anything!"
+
+Megan, sitting at the table, had to physically suppress a snort of laughter. She hid her smile behind her hand. *Oh, you idiot,* she thought, a wave of pure, satisfying justice washing over her. *You didn't do anything? You poked the bear, and then you got mauled by a lioness, and now the zookeeper is here to put you in a cage.* She had no idea what Chloé had actually said, but she knew with absolute certainty that Josh had deserved every single syllable of it.
+
+Before Mrs. DeMarco could respond to that particular piece of idiocy, another voice, this one laced with snide arrogance and delivered in truly terrible, classroom-learned German, piped up from a nearby table. Kevin Schmidt, a sophomore known for his disruptive tendencies and a solid D-minus in second-year German, muttered to his snickering friends, just loud enough to be overheard by the hyper-alert Mrs. DeMarco, "Was für ein jämmerlicher Feigling. Riley kann nicht einmal für sich selbst kämpfen." *(What a pathetic coward. Riley can’t even fight for himself.)*
+
+Megan, who had been watching with a satisfied grin, suddenly winced and physically cringed. "*Oh, you absolute moron,*" she whispered under her breath, a look of almost pitying horror on her face. She had heard the rumors for years about Mrs. DeMarco's linguistic talents, stories of past troublemakers trying to hide behind Spanish or Italian, only to be verbally dismantled. She knew exactly what was about to happen.
+
+If the cafeteria had been silent before, it was now a vacuum. Mrs. DeMarco’s head didn't just turn; it snapped towards Kevin Schmidt with the speed and precision of a striking hawk. The temperature in the room seemed to drop another ten degrees.
+
+"*Entschuldigung?*" she said, her voice suddenly devoid of any warmth, her German perfectly accented, crisp, and utterly fluent, a shocking contrast to Kevin's mangled attempt. "*Habe ich Sie richtig verstanden, junger Mann? ... Oder fürchten Sie sich vielleicht vor den Konsequenzen Ihrer unbedachten und unhöflichen Worte?*" (Translation for the reader: "Excuse me? Did I understand you correctly, young man? ... Or are you perhaps afraid of the consequences of your thoughtless and rude words?")
+
+A new, even louder collective gasp swept the cafeteria. Luna Porter’s jaw had physically dropped. "No… WAY!" she breathed to Leo, her eyes wide with disbelief. "She speaks GERMAN too?! Like, perfect German?!"
+
+Megan just shook her head, a look of profound, almost beautiful "I-told-you-so" satisfaction on her face. *Yep*, she thought. *German, too. This idiot never stood a chance.*
+
+Leo Porter looked equally astonished, his gaze fixed on Mrs. DeMarco with a new level of profound awe and perhaps a touch of healthy fear. The rumors were true. Every unbelievable word that the upperclassmen had spouted, which they'd dismissed as a tall tale, was actually real. The few other students in the cafeteria known for their occasional misguided attempts at mocking others or passing notes suddenly looked like they wanted the floor to swallow them whole. A ripple of nervous fear spread through the usual troublemakers.
+
+Mrs. DeMarco didn't wait for Kevin’s stammering, terrified attempt at an apology. She turned back to Josh Riley, her expression like granite. "Mr. Riley, your initial transgression of bullying and harassment remains. And Mr. Schmidt," she addressed Kevin without looking away from Josh, her voice ringing with authority, "your unsolicited, disrespectful, and frankly, poorly executed commentary in a language you clearly do not respect has earned you an invitation as well. Both of you will report to me for trash duty for the remainder of this week. Promptly at 2:15 PM each day. Perhaps contemplating the contents of our school's refuse will inspire a more fragrant and considerate approach to interpersonal communication on both your parts. Am I understood?"
+
+Josh and Kevin, faces pale and glistening with sweat, could only manage defeated, mumbled "Yes, Mrs. DeMarco"s. Two bullies down. The thought, unspoken, hung victoriously in the air, at least for Alex, Chloé, and the Porters. But a new thought was also dawning: just how many languages did Mrs. DeMarco command? And what other hidden talents did this formidable guardian of lunchtime order possess? The cafeteria was suddenly a much more interesting, and for some, a much more intimidating place.
+
+Mrs. DeMarco gave the two chastened boys one last sharp nod, then turned back to their table, her expression softening with surprising gentleness. She looked first at Chloé and Alex. "*Tout va bien maintenant, mes enfants?*" (Is everything alright now, my children?) she asked softly in French.
+
+"*Oui, Madame. Merci beaucoup,*" Chloé replied, genuine gratitude and a newfound, profound awe in her voice. (Yes, Madame. Thank you very much.)
+
+Alex, who had watched the entire exchange with wide, almost disbelieving eyes, typed quickly on his AAC: THANK YOU, MRS. DEMARCO. YOU ARE… AMAZING. TRULY. CHLOÉ IS A VERY GOOD FRIEND.
+
+Mrs. DeMarco’s lips curved into the faintest of smiles as she read Alex's message. "Indeed she is, young man." Her gaze then shifted to Megan, her expression one of clear, professional respect. "Miss Carter. I trust your senior year is off to an excellent start?"
+
+"It is, thank you, Mrs. DeMarco," Megan replied with a warm, genuine smile.
+
+"Excellent," Mrs. DeMarco said. "Now, all of you, please try to enjoy the rest of your lunch." She then swept her gaze around the now significantly quieter, almost reverently silent cafeteria. Her eyes, missing nothing, lingered for a moment on the tables where other known instigators sat frozen, suddenly contemplating the merits of sticking to English and minding their manners. With a final, all-encompassing look, she posed a deceptively calm, rhetorical question to the room at large, her voice carrying clearly through the stillness: "Anyone else want after-school trash duty?"
+
+A profound, pin-drop silence was her only answer. Not a single student dared to even breathe too loudly. The message was crystal clear.
+
+Megan just grinned and took a large bite of her sandwich. *Not a chance,* she thought. *I've got an A in calculus to maintain.*
+
+With a final, satisfied nod, Mrs. DeMarco continued her patrol, leaving behind a cafeteria buzzing with hushed, astonished whispers. The legend of Mrs. DeMarco, the multilingual mistress of lunchtime order, had just gained another epic chapter.
+
+Chloé and Alex exchanged a look of profound relief and shared, incredulous amusement. Northwood High, it seemed, was full of the most incredible surprises, and some of its guardians were more formidable than any superhero they’d ever read about.
+
+Across the room, Luna Porter let out a slow breath she hadn't realized she was holding. "Okay," she whispered to Leo, who was using his Quantum Communicator XT with a grin. "Mrs. DeMarco is officially my new hero. Did you see that? French and German? Josh and Kevin looked like they were going to wet their pants!" Leo typed, his own amusement evident: SHE IS VERY… EFFECTIVE. AND CHLOÉ… VERY BRAVE. LIKE YOU. GOOD TO SEE BULLIES GET WHAT THEY DESERVE. THE TRASH DUTY PART IS FUNNY. HOPE THEY HAVE TO SORT RECYCLING. Luna snickered. "Totally. Maybe Mrs. DeMarco will make them do it in French." She watched Chloé and Alex, who were now actually starting to eat their lunch, a visible sense of safety settled around them. "You know, Leo," Luna said thoughtfully, "that Chloé girl… she's alright. Really alright." Leo Porter nodded, a thoughtful expression on his face as he observed the other pair. YES. SHE IS. The day, and freshman year, suddenly felt a little less daunting, knowing there were unexpected allies and such effective forms of justice to be found, even in the chaotic world of the Northwood High cafeteria.
+

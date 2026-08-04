@@ -1,0 +1,52 @@
+# Part 5: The Jingle and the Mansions
+
+As they finished the last delicious, icy sips of their Colossal Coolers back at the booth, Luna spoke up, voicing the question that had been lingering since the worker's comment. "Grandpa," she asked, "that man... and you at the dealership earlier... you both mentioned that jingle, 'There’s only one choice: Keystone Motors!'. What did it sound like?" Leo nodded eagerly, and even Stella leaned forward, curious to finally hear the tune her grandfather was so known for.
+
+Arthur's eyes twinkled. "Ah, the jingle!" he said, a nostalgic smile spreading across his face. "Well, funny you should ask..." He motioned for them to gather their things. "Come on out to my car for a second. I think I might have a little piece of history for you."
+
+Intrigued, they followed him out to his car parked beside Stella's Sent. Arthur opened the glove compartment and rummaged around for a moment before pulling out an old cassette tape. Its label was handwritten, slightly faded: "Keystone Motors of Middletown - Radio Spot 30sec - Final Mix '78". He held it up nostalgically. "Found this cleaning out some old boxes before we moved. Figured I'd keep it for posterity."
+
+He popped the driver's side door open, slid into the seat, and turned the key just enough to power the accessories, bringing the car's stereo to life. He carefully inserted the old cassette into the tape deck. After a moment of tape hiss, a warm, slightly folksy acoustic guitar intro began, followed by a clear, friendly male voice:
+
+(Music: Upbeat, slightly folksy acoustic guitar intro, warm feel - consistent with 1970s style)
+
+(Male Singer - Clear, friendly 1970s voice):
+
+Looking for a brand new Holt? Need a place to make your mark? Want folks who treat you right, Morning, noon, or late at night?
+
+(Chorus - Male & Female Harmony, builds slightly, with emphasis on the first line):
+
+There's only one choice: Keystone Motors! *(Hook - delivered with conviction)* Drive happy, leave worries at the door! Keystone Motors, where service gleams, Fulfilling all your driving dreams!
+
+(Bridge - Slightly faster pace):
+
+No pressure here, you'll feel alright, At Keystone Motors of Middletown, day or night! For quality Holts and service true, Keystone Motors is waiting for you!
+
+(Outro Sting): Keystone Motors! (Middletown!) *(Harmonized vocal, location add)*
+
+(Main Announcer - Smooth, trustworthy 1970s radio voice):
+
+"That's right! When you're looking for value, reliability, and a buying experience you can trust, there's only one choice: Keystone Motors of Middletown! Come see the sensational new 1978 Holt Astra – smart engineering, great mileage (an estimated sixteen city, twenty-three highway!), and surprising room! And at Keystone Motors in Middletown, you get the Astra you want with no games, no hassle, just our famous no-nonsense approach to getting you on the road happy. Keystone Motors of Middletown on East Main Road – There's only one choice!"
+
+(Second Announcer - Speaking VERY rapidly, slightly lower volume):
+
+"Tax, title, license, dealer documentation, and destination charges extra. Holt Astra mileage estimated sixteen city twenty-three highway based on EPA ratings, actual mileage may vary. Offer subject to availability, residency restrictions may apply. See Keystone Motors of Middletown for complete details and written warranty information. Limited time offer, subject to change without notice."
+
+The tape clicked off, leaving a moment of silence.
+
+Luna and Leo were beaming. "Wow! That was it!" Luna exclaimed. Leo gave an enthusiastic thumbs-up. Stella smiled; hearing the actual jingle and the announcer spot added another layer to the stories.
+
+Arthur ejected the tape carefully, holding it for a moment. "That jingle," he said, his voice softer now, "ran on the radio and TV for years. It wasn't just about selling cars. It was about telling people what we stood for: trust, treating folks right, no games, just good service. That's how we built the dealership, why people came from all over." He sighed, the earlier sadness returning as he glanced back towards the direction of East Main Road, where the future supermarket now stood on the ghost of his dealership. "Hard to believe it's just... gone. Going to be a supermarket. Not the legacy I envisioned."
+
+He seemed to shake himself slightly, putting the tape carefully back in the glove box. "Right then!" he said, his tone shifting back to tour guide mode. "Enough wallowing. Hop back in your car, Stella. Let's take a little drive down Bellevue Avenue. Time you kids saw how the other half lived – the original 'summer cottages'!"
+
+They returned to their respective cars. Once settled, Arthur's voice came over the walkie-talkie. "Okay, Stella, head back out to West Main from the Creamery here, take a right, head south. We'll follow it down towards Newport proper, then I'll direct you onto Bellevue."
+
+Following his directions, they soon found themselves cruising slowly down the famous avenue, flanked by unimaginably large and ornate mansions set back on sprawling lawns. Stella and the twins stared out the Quantum OS, awestruck by the sheer scale and opulence of the Gilded Age architecture.
+
+As they passed one of the largest and most famous mansions, Stanton’s Reach, Eleanor's voice suddenly came over the walkie-talkie, calm and matter-of-fact. "You know, Arthur and I could easily afford to buy one of these places, live here year-round if we wanted to," she stated simply. "But honestly, who needs all that fuss and upkeep? Far too much trouble. We prefer things a bit more... modest."
+
+Stella almost laughed, exchanging an amazed glance with Luna in the rearview mirror. It was a stunningly casual statement of their wealth, delivered with zero pretense, reinforcing just how grounded her grandparents truly were despite their financial success. The mansion tour continued, a surreal contrast to the earlier reality check of the abandoned dealership site.
+
+
+

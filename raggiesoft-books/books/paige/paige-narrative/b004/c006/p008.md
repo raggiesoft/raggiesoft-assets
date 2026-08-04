@@ -1,0 +1,70 @@
+# Part 8: The Iron Spirits
+
+## Tuesday, May 11, 2004 — 10:15 AM (PST) Cabin 4, The Iron Creek Lodge
+
+The "Boot Sequence" was efficient. They traded their natural state for the necessary armor of the outside world: blue jeans, sturdy sneakers, and hoodies against the morning chill. Freddie pulled his orange sweatshirt on, hood up, sunglasses on.
+
+"Shields active," Freddie announced.
+
+They walked out to the white **Vanguard Senator**. The morning air was crisp and smelled heavily of damp earth and pine needles.
+
+"I'm driving," Jessica announced, snagging the keys from the table. "I want to see if the transmission is actually broken, or if Paige just has a lead foot."
+
+"It's mush," Paige insisted, opening the back door. "It hunts for gears like it's lost."
+
+Jessica settled into the driver's seat and started the engine. She shifted into Reverse, backed out smoothly, and put it in Drive. The car accelerated down the gravel lane.
+
+"Seems fine to me," Jessica teased, glancing in the rearview mirror as the car shifted smoothly into second gear. "Maybe you just lack the gentle touch, Lieutenant. You treat the gas pedal like a stomp box."
+
+"I drive with conviction," Paige countered, leaning back against the seat. "This car drives with hesitation."
+
+In the back seat, Freddie ignored the mechanical debate. He buckled his seatbelt, pulling the strap tight across his chest. Then, he slid to the middle, pressing his side against Paige.
+
+She wrapped her arm around his shoulders, pulling him in. He rested his head on her shoulder, watching the forest blur past the window.
+
+"Status?" Paige asked, resting her chin on his hood.
+
+"Passenger secure," Freddie whispered. "Navigation is set."
+
+## 10:30 AM — Iron Spirit Park (Elbe, WA)
+
+The drive was short—less than six miles down SR-706 toward the town of Elbe.
+
+"Target acquired," Jessica announced, slowing down. "On the left."
+
+They pulled into a gravel lot. It wasn't a formal museum. It was a field, a forest clearing, filled with... monsters.
+
+But they weren't scary monsters. They were mechanical ones.
+
+"Engine off," Jessica said.
+
+They stepped out. Freddie adjusted his glasses, his eyes widening behind the lenses.
+
+Standing in the tall grass was a dinosaur—a massive, skeletal T-Rex. But its ribs weren't bone; they were curved steel leaf springs from an old truck. Its legs were driveshafts. Its teeth were rusty railroad spikes.
+
+"Whoa," Paige breathed. "It’s... junk. But it’s alive."
+
+Freddie walked toward it. He moved slowly, respectful of the machinery.
+
+He stopped in front of a sculpture that looked like a giant bird. He leaned in, studying the weld marks.
+
+"That is a transmission housing," Freddie identified, pointing to the bird's chest. "And those feathers... are shovel heads."
+
+He looked around the park. There were dozens of them. Giants made of tractor seats. Horses made of chains.
+
+"He didn't melt them down," Freddie whispered, awe in his voice. "He kept them. He saw the shape inside the broken parts."
+
+"Reassigned function," Jessica said, walking up beside him. "Just like you said."
+
+Freddie reached out and touched the cold, rusty iron of a gear that was now an eye.
+
+"It is logical," Freddie said. "The machine broke. It could not do its job anymore. But it was not thrown away. It became... art."
+
+He looked at Paige.
+
+"It is a valid upgrade," Freddie decided. "To stop working, and start being."
+
+"Exactly," Paige smiled, squeezing his hand. "Just be."
+
+They wandered the park for an hour, Freddie identifying the original purpose of every rusty bolt and beam, finding comfort in a world where broken things weren't discarded, but turned into giants.
+

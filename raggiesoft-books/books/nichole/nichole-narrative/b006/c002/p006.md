@@ -1,0 +1,76 @@
+# Part 6: The Rec Hall
+
+##### Location: Walkway between Barnett Hall and the Student Center Time: 1:40 PM
+
+They left the grim barracks of Barnett Hall and headed across the quad. Mr. Swayne seemed to sense the growing hostility in the group, so he fell back on policy.
+
+"Now, Patrick," Swayne said, his keys jingling with every step. "I know the housing separation seems strict, but it's part of our Privilege Level System. It’s designed to incentivize behavior."
+
+He held up four fingers.
+
+"Every client starts at Level 2. Strict supervision. As you demonstrate responsibility—keeping your room clean, attending classes, passing hygiene checks—you move up."
+
+"Hygiene checks?" Patrick repeated, his voice flat. "I'm eighteen."
+
+"It's a structured environment," Swayne droned on. "In Barnett Hall, you are Level 2. That means an 11:00 PM curfew, lights out at midnight, and you must have a signed Hall Pass to leave the campus grounds."
+
+Patrick looked at Tom. Tom just shook his head. They hadn't needed hall passes since middle school.
+
+"Eventually," Swayne promised, pointing to a nicer-looking dorm in the distance, "you could earn Level 3 or 4 status and move into Carter-Ashley Hall. Level 4s have no curfew and are allowed opposite-gender visitation in the lobby between 6:00 PM and 11:00 PM."
+
+Patrick stopped. "So, if I make Level 4... I could visit Nichole?"
+
+"No," Swayne said firmly. "That rule applies only to residents of Carter-Ashley. Rothrock Hall is a medical unit. It is strictly secured. No non-Rothrock clients are allowed in Rothrock at any time—not in the rooms, not in the lobby. And Rothrock clients are not allowed in the regular dorms. It is a liability issue."
+
+Patrick stopped the wheelchair dead in the middle of the sidewalk. The final door had just slammed shut.
+
+"Wait," Patrick said. "I can't go to her room? And she can't come to mine? Even if I earn your 'privilege points'?"
+
+"Correct," Swayne nodded, oblivious to the panic rising in Nichole’s chest. "You would see each other at lunch, dinner, and during unstructured time in the Rec Hall. But otherwise, you sleep and live apart. Separation is healthy."
+
+Nichole squeezed her eyes shut. She couldn't breathe. They had shared a bed for as long as they could remember. Patrick knew the rhythm of her breathing. He knew how to stretch her legs when the spasticity cramped her muscles at 2:00 AM. A night-shift nurse wasn't going to cuddle her to keep her warm. A nurse wasn't her brother.
+
+Nichole slapped her armrest. *Hard.*
+
+"It's a dealbreaker," Tom said immediately, reading his daughter's panic. "They are a package deal."
+
+"We encourage independence here," Swayne said stiffly. "Let me show you the Rec Hall. You'll see how robust our social scene is. It’s where everyone meets."
+
+## The Fight
+
+Patrick pushed Nichole toward the massive gymnasium complex. His bad leg was throbbing from the tension. He leaned over the back of her chair, his mouth close to her ear.
+
+"I'm right here," he whispered, ignoring Swayne. "I'm not leaving you."
+
+They entered the Rec Hall. It was a cavernous space filled with pool tables, board games, and a lounge area with beat-up vinyl sofas. It was loud and chaotic, echoing with the shouts of a hundred clients. It didn't feel like a college student union. It felt like a high school cafeteria where the teachers had gone on strike.
+
+"This is the hub," Swayne shouted over the noise. "We have billiards, ping pong..."
+
+Suddenly, a shout cut through the noise like a gunshot.
+
+"You looking at my girl?!"
+
+To their left, near the soda machines, a massive guy with a shaved head shoved a smaller guy against the brick wall. The smaller guy pushed back.
+
+Instantly, fists were flying.
+
+It wasn't a scuffle; it was a brawl. Bodies crashed into a metal folding table, sending it skittering across the floor. A girl screamed.
+
+Nichole’s eyes went wide. She was at sitting height—waist level. To her, the violence wasn't a spectacle; it was an avalanche.
+
+A stray soda can, knocked loose by the fight, flew across the room. It skittered across the linoleum and crashed hard against her front caster, spraying diet cola onto her shoe.
+
+*CRACK.*
+
+Nichole froze. She couldn't fight. She couldn't run. She was strapped into a forty-pound metal chair in the middle of a riot. She hunched her shoulders up to her ears. Turtle Mode.
+
+She reached back blindly, grabbing Patrick’s hand. She tapped her VocaLink screen frantically.
+
+*GO. GO. GO.*
+
+"Armor up!" Patrick yelled.
+
+He didn't wait for Swayne. He didn't wait for the security guards running across the floor.
+
+Patrick pulled back on the handles, popping the casters into the air to clear the debris, and spun the heavy chair in a tight 180-degree combat turn. He bolted for the exit doors, using his body to shield her from the chaos, pushing her out into the safety of the summer air.
+

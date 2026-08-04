@@ -1,0 +1,24 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 1: The Foundation",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Living Room Campaigns – Saturday, October 17, 2009",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: High Command – 2:15 PM",
+            "file_path": "/mary-childhood/mary-childhood-narrative/b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Deep Woods – 8:30 PM",
+            "file_path": "/mary-childhood/mary-childhood-narrative/b001/c001/p002.md"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,206 @@
+# Chapter 3: The Council of Neighbors
+
+## Part 1: The Reluctant Guests
+
+Theme: sunstead-politics
+
+Location: Outside The Drunken Mule
+
+POV: Kaelan
+
+=
+
+The sign above the door depicted a mule kicking a keg of ale. It was peeling, crooked, and accurate.
+
+Kaelan stood outside The Drunken Mule, arms crossed, looking at the door like it was a portal to the Voidlands.
+
+"I hate this place," he muttered.
+
+"It's the only building big enough to hold the town meeting," Kaela reasoned, adjusting her shawl. "The church is too small, and the bakery is too hot."
+
+"It smells like fermentation and bad decisions," Kaelan countered. "And my boots stick to the floor."
+
+"We aren't here to drink, Sun. We're here to abdicate."
+
+Kaelan sighed. He looked down at his simple cotton tunic. He had purposely dressed down—no cloak, no armor, just a man who gardened. He wanted to look as un-kingly as possible.
+
+"They're going to try it again," Kaelan warned. "I can feel the anxiety leaking through the walls. They want a parent, Kaela. They want someone to tell them everything is going to be fine."
+
+"Then we tell them the truth," Kaela said, reaching for the door handle. "That parents die, but neighbors endure."
+
+She pushed the door open.
+
+The noise inside—the clatter of tankards, the murmur of a hundred conversations—died instantly.
+
+Every head turned.
+
+The air was thick with woodsmoke and the sour tang of ale. The entire adult population of Sunstead seemed to be crammed into the main taproom.
+
+Kaelan stepped in behind his sister. He kept his expression neutral, but he kept his hands clasped behind his back to avoid knocking over any tankards.
+
+"Scions!" The innkeeper, a balding man named Barnaby, rushed forward, wiping his hands on a rag. "Welcome! We... we didn't expect you to actually come inside."
+
+"We were invited," Kaelan said stiffly.
+
+"Of course! Please, please." Barnaby gestured to the far end of the room. "We set up a place for you."
+
+Kaelan looked.
+
+At the head of the room, near the hearth, the tables had been cleared away. In their place, on a slightly raised dais (which was usually used for the fiddle player), sat two large, high-backed oak chairs.
+
+Someone—probably Mrs. Gable—had draped red velvet cloth over them. They weren't just chairs.
+
+They were thrones.
+
+Kaelan stopped walking. His eyes narrowed.
+
+"No," he said.
+
+## Part 2: The Refusal of the Chair
+
+Theme: sunstead-politics
+
+Location: The Drunken Mule Taproom
+
+POV: Kaela
+
+=
+
+The silence in the room stretched thin, brittle as old glass.
+
+"But... my Lord?" the Miller stammered, standing near the dais. "It is the seat of honor. For the Rulers of Sunstead."
+
+"There are no Rulers in Sunstead," Kaela said clearly, her voice carrying to the back of the room without shouting.
+
+She walked past the innkeeper. She didn't go to the dais. She walked to the nearest empty table—a scarred, wobbly thing near the window—and pulled out a simple three-legged stool.
+
+She sat down.
+
+Kaelan followed her lead. He grabbed a stool, dragged it over, and sat next to her. They sat knee-to-knee, shoulder-to-shoulder, just two people in a crowd.
+
+"We will sit here," Kaelan announced. "Like everyone else."
+
+Horg, who was standing near the bar nursing a mug of cider, let out a low chuckle. "I told you," the blacksmith muttered to the Tanner. "They don't do velvet."
+
+The Miller looked flustered. "But... the Matron is gone. We need guidance. The Pilgrims are at the gate. The world is looking at us. We need a King and Queen to speak for the town!"
+
+"No," Kaelan said again.
+
+He stood up. He didn't glow. He didn't use the Voice. He just spoke as a man.
+
+"Listen to me," Kaelan said. "We fixed the core because we live here. We built the wall because we value quiet. We are not politicians. We are not judges."
+
+"But you have the power!" the Tanner argued. "You blinded the intruders with a look! You could defend us from armies!"
+
+"We will defend you," Kaela interjected. "If an army comes, we will stand at the gate. If the river floods, we will dry the fields. But that is protection, not rule."
+
+She looked around the room, making eye contact with the people she had grown up with.
+
+"If we sit in those big chairs," she gestured to the empty thrones, "we stop being your neighbors. You stop telling us when we're wrong. You start bowing. And Sunstead has never bowed."
+
+"Never!" Horg shouted, raising his mug. "Not to the Emperor in the South, not to the Warlords in the North!"
+
+"Exactly," Kaelan said. "So why would you bow to us just because we glow in the dark?"
+
+"Then who leads?" Mrs. Gable asked, wringing her hands. "Who decides when to harvest? Who decides the trade tariffs?"
+
+Kaelan looked at the empty "thrones." He pointed a finger at them.
+
+"Burn those," he said. "Or give them to the cats."
+
+He turned to the room.
+
+"You don't need a King. You need a Council. You need people who actually know how to run a town."
+
+## Part 3: The Council of Neighbors
+
+Theme: sunstead-community
+
+Location: The Drunken Mule Taproom
+
+POV: Kaelan
+
+=
+
+"A Council?" the Miller asked, scratching his chin.
+
+"Five seats," Kaelan proposed. "Odd number, so there are no ties."
+
+He walked over to Horg. He slapped the blacksmith on the shoulder.
+
+"Horg knows iron, construction, and defense. He speaks for the trades."
+
+"I nominate Horg!" Joren shouted from the door. A chorus of "Aye!" followed.
+
+Kaelan turned to Mrs. Gable.
+
+"Martha knows the food stores. She knows who is hungry and who has plenty. She speaks for the hearth."
+
+Mrs. Gable blushed pink. "Oh, I couldn't..."
+
+"You already do," Kaela smiled. "You've been feeding half the town for free since winter."
+
+"Aye for Martha!" the room roared.
+
+"The Miller for the commerce," Kaelan continued. "The Tanner for the exports. And Joren for the watch."
+
+"Me?" Joren squeaked. "I just open the gate."
+
+"Exactly," Kaelan said. "You decide who comes in. That's foreign policy, Joren."
+
+The room laughed. The tension broke. The desperate need for a Savior evaporated, replaced by the practical, messy reality of local governance.
+
+"And you?" the Miller asked, looking at the Twins. "What is your seat?"
+
+"We don't have a seat," Kaelan said firmly. "We are residents. We will come to the meetings if we have a grievance. We will offer advice if you ask for it. But we get one vote each, just like you."
+
+"And if the Council makes a decision you don't like?" the Tanner asked shrewdly.
+
+Kaelan grinned. It was a sharp, dangerous grin.
+
+"Then we will complain loudly at the post office," he said. "Like any good citizen."
+
+He looked at the crowd.
+
+"Sunstead is free," Kaelan declared. "Keep it that way. Don't trade your freedom for a crown, even if the crown is worn by friends."
+
+Horg slammed his empty mug on the bar.
+
+"To the Council!" he bellowed.
+
+"To the Council!" the room echoed.
+
+Barnaby the innkeeper looked at the Twins. "Can I... can I get you anything? Ale? Wine?"
+
+"Water," Kaela said. "In a clean glass."
+
+"Coming right up."
+
+They stayed for an hour. They watched as the new Council pushed the "thrones" off the dais and dragged a round table into the center of the room. They watched Horg and the Miller immediately start arguing about the price of lumber.
+
+It was chaotic. It was loud. It was perfect.
+
+Kaelan leaned close to Kaela. The smell of ale was strong, but her hair smelled of lavender soap.
+
+"We did it," he whispered. "We dodged the crown."
+
+"And we established a democracy," she noted. "Not bad for a Tuesday."
+
+"Can we go now?" Kaelan pleaded. "My boots are definitely sticking to the floor."
+
+"Let's go."
+
+They slipped out the side door while Horg was distracted yelling about hinges. They walked out into the cool, fresh night air of Sunstead.
+
+They walked up the ridge path, hand in hand. Below them, the tavern was noisy with life. Above them, the stars were silent.
+
+They reached their gate. Kaelan slid the bolt home.
+
+Thunk.
+
+They were just Kaelan and Kaela again. No titles. No throne. Just two people with a very nice bathtub and a lot of privacy.
+
+Here is Chapter 4: The King at the Gate.
+
+This chapter puts the new Council to the test and demonstrates exactly what happens when a conventional army tries to annex a town protected by two retired demigods.
+

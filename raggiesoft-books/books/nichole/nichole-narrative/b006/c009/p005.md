@@ -1,0 +1,72 @@
+# Part 5: The Commuter Waiver
+
+## Date: November 15, 2003 Time: 10:30 AM Location: Housing & Residence Life Seminar, BSU Student Union
+
+Patrick and Nichole did not need on-campus housing. The thought of two narrow Twin XL beds separated by a chasm of cold linoleum was dead to them.
+
+They attended the Housing Seminar purely out of bureaucratic curiosity. They wanted to know the rules of the system they were entering.
+
+They rolled into a smaller conference room packed with anxious parents holding checklists and students looking at floor plans of "traditional double" dormitories.
+
+At the front of the room, the Director of First-Year Experience was wrapping up a slide deck.
+
+"To foster a sense of community and academic focus," the Director said, clicking to a slide with a big red asterisk, "Braxton State University enforces a strict Mandatory Residency Requirement. All incoming freshmen are required to live in university housing for their first academic year. No exceptions for Greek life or off-campus apartments."
+
+A low groan rippled through the teenagers in the room.
+
+Patrick felt his stomach tighten for a fraction of a second. At Putney, this had been the trap. Forced institutional care. But Patrick took a deep breath. Braxton was a public state school. The rules were different here.
+
+When the Q&A session opened, Patrick raised his hand.
+
+"Yes, in the center?" the Director pointed.
+
+"Question about the residency requirement," Patrick said, his voice clear and calm. "Does that apply to local residents?"
+
+"Ah, the Commuter Waiver," the Director smiled, immediately understanding the angle. "Great question. If your primary, legal domicile is within thirty miles of the campus, and you live with a parent or legal guardian, you may apply for an exemption."
+
+Patrick didn't hesitate. He pulled out his wallet. He reached down to Nichole’s lap tray, unclipped her lanyard, and pulled out her official Rhode Island State ID.
+
+He held both cards up.
+
+"We signed the lease and established domicile on September first," Patrick said. "95 West Main Road, Portsmouth. We're currently running out the one-year clock to qualify for Rhode Island in-state tuition for next fall."
+
+The Director squinted, doing the mental geography. "Portsmouth. That’s Aquidneck Island. That’s about twenty-five miles out. That qualifies for the radius. But you must be living with family, not just renting a house with friends."
+
+Nichole reached for her mouse. She clicked a sequence of buttons she had programmed the night before, just for this scenario.
+
+"WE. LIVE. WITH. OUR. MOTHER." *Click.*
+
+"AND. FATHER."
+
+*Click.*
+
+"AND. UNCLE."
+
+*Click.*
+
+"AND. AUNT."
+
+*Click.*
+
+"AND. GRANDMOTHER."
+
+The room went completely silent. Several parents turned around in their seats to stare at the heavy technological rig and the girl operating it.
+
+The Director blinked, a genuinely impressed smile breaking across his face. "Well. That is certainly a verifiable family unit. But Portsmouth is across the bay. We don't allow freshman commuters to park on campus. How do you plan to get to class at 8:00 AM?"
+
+"OSTA Route 60 bus to Gateway Center," Patrick recited effortlessly, the grid already hardwired into his brain. "Transfer at Perrotti Park to the BTA *Newport Flyer* ferry. Drops us right at Narragansett Esplanade. It takes an hour and fifteen minutes. We timed it this morning."
+
+The Director looked at the two of them. He saw the manual wheelchair, the high-tech communication device, and the absolute, bulletproof preparation of the siblings.
+
+"Then you, my friends, are officially exempt," the Director said. "Welcome to the commuter life."
+
+Patrick handed Nichole back her State ID. She tucked it safely into her lanyard pouch.
+
+Uncle Mark’s \$1-a-year lease agreement hadn't just been a generous gesture; it was the master key. They had started the clock in September. By the time classes started next August, they would be official Rhode Island residents. They would get the in-state rate, and they would never have to sleep in a dorm room.
+
+Nichole looked at Patrick.
+
+"WE. BEAT. THE. SYSTEM."
+
+"We didn't beat it, Nikki," Patrick whispered, putting his own license back in his pocket. "We studied the manual."
+

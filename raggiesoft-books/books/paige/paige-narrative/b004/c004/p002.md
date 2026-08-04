@@ -1,0 +1,316 @@
+# Part 2: The Intercept
+
+## Friday, May 7, 2004 — 18:55 PM (PST) Pathfinder Terminal, Seattle
+
+The interior of the Seattle bus terminal was a stark contrast to the rainy street outside. It was bright, smelling of floor wax and stale coffee, humming with the noise of travelers and the PA system.
+
+Jessica Avery stood at the ticket counter. She wasn't holding a ticket; she was holding a photo of Freddie.
+
+"The bus from Boise," Jessica said to the agent, her voice calm but commanding. "Schedule 492. Is it on time?"
+
+The agent tapped his keyboard. "Pulling in now, Ma'am. Gate 3. Lower level."
+
+"Thank you."
+
+Jessica turned to Paige. Paige was standing near a pillar, bouncing on the balls of her feet, her eyes locked on the door marked **GATE 3**. She looked like a sprinter waiting for the gun.
+
+"Gate 3," Jessica said. "It's here."
+
+They walked to the gate. A glass wall separated the waiting area from the bus bays. Through the glass, they saw the massive silver bus hiss to a halt. The air brakes purged with a loud *PSSHHH*.
+
+The destination sign above the windshield flickered off. The engine died.
+
+"He's on that bus," Paige whispered, pressing her hand against the glass.
+
+Passengers began to file off. A family with tired children. A man in a cowboy hat.
+
+Then, a girl with messy hair and a hard, angry expression stepped down. She looked over her shoulder, annoyed.
+
+"Move it," she mouthed.
+
+Behind her, a figure emerged from the shadows of the stairwell.
+
+He was wearing a dirty orange hoodie. He was moving slowly, gripping the handrail white-knuckled, stepping down with a stiffness that screamed of pain. He looked gray, exhausted, and utterly defeated.
+
+"Freddie," Paige breathed.
+
+She didn't wait. The moment Freddie stepped onto the terminal floor, clearing the glass partition, Paige moved.
+
+## Friday, May 7, 2004 — 19:00 PM (PST) Gate 3
+
+Freddie stumbled as his feet hit the concrete. The ground felt unstable after three days of constant vibration. His legs buckled slightly, the muscles spasming uncontrollably without the Baclofen to regulate them.
+
+"Come on," the voice beside him snapped. Vanessa grabbed his elbow, her fingers digging in to steer him toward the exit. "Let's find a taxi."
+
+Freddie didn't look up. He kept his head lowered, the hood of his orange sweatshirt pulled tight like a cowl. He was focusing entirely on his breathing, trying to keep the pain in his lower back from making him vomit. The denim of his jeans was stiff and stuck to his skin—glued there by dried blood.
+
+*I am a prisoner,* he thought, the logic cold and absolute. *I cannot walk.*
+
+"FREDDIE!"
+
+The scream didn't come from inside his head. It cut through the diesel hum of the terminal from ten feet away.
+
+Freddie froze. He knew that frequency.
+
+He tried to lift his head, but his neck was too stiff.
+
+Then, the impact came.
+
+Paige didn't stop. She collided with him. It wasn't a polite greeting; it was a desperate interception. She threw her arms around his neck and squeezed, burying her face into the coarse, dirty fabric of his hoodie, sobbing his name.
+
+"Gotcha," Paige cried, her voice muffled against the stained orange cotton. "I gotcha, Captain. I gotcha."
+
+The force of the hug broke his remaining stability. Freddie stumbled back a step, his knees buckling. His legs gave way completely. He started to collapse backward toward the dirty terminal floor.
+
+But he didn't hit the ground.
+
+He felt a second impact from the right side.
+
+Jessica caught him. She wrapped her arm firmly around his waist, locking him in. She pressed her cheek against the back of his head, her hand gripping his shoulder tight to keep him upright.
+
+"We have him," Jessica whispered fiercely. "We have the package."
+
+They squeezed him. They pressed in from both sides, creating the "Sandwich Configuration" right there in the middle of the bus terminal.
+
+Freddie slumped. He couldn't help it. His legs were offline. He let his full weight hang on them, his body sagging forward. His head dropped onto Paige’s shoulder, his glasses knocked askew.
+
+He opened his eyes for a split second.
+
+The harsh fluorescent lights of the terminal buzzed overhead. In that stark, unforgiving light, he saw Paige’s face pressed against his chest. Her eyes were squeezed shut in overwhelmed relief. A single, distinct, glistening tear tracked down her cheek, catching the overhead light before soaking into the grime on his hoodie.
+
+She looked broken. She looked relieved.
+
+And then, she looked up.
+
+Freddie felt Paige’s body tense against his. He felt the shift from *comfort* to *defense*.
+
+He followed her gaze. Vanessa was standing there, her bag slipping off her shoulder, staring at them with her mouth open.
+
+Paige didn't let go of Freddie, but her expression changed. The tear was still wet on her cheek, but her eyes were lethal. She glared at Vanessa over Freddie’s shoulder—a silent, terrifying demand for an explanation.
+
+"You hit him," Paige whispered, the realization hardening into rage. "You dragged him."
+
+Freddie closed his eyes again, letting his head fall back against Jessica. He didn't need to see anymore. The static was gone.
+
+He was held up by the only two pillars that mattered.
+
+"Pressure applied," Freddie gasped, letting them take his weight completely. "System... stabilizing."
+
+"What the hell?"
+
+The voice broke the bubble.
+
+Vanessa was standing there, staring at them. Her mouth was open. Her bag had slipped off her shoulder.
+
+"How..." Vanessa stammered. "How are you here?"
+
+Jessica pulled back slightly, but she didn't let go of Freddie. She kept her arm locked around his waist, taking his weight.
+
+She turned to look at Vanessa. Her expression shifted from love to absolute zero.
+
+"We flew," Jessica said coldly. "We beat the bus."
+
+"But..." Vanessa looked at Freddie, who was clinging to Paige like a lifeline, his head lolling on her shoulder. "He... he wanted to come with me. He left a note."
+
+"He left a suicide note," Jessica corrected, her voice sharp enough to cut glass. "He thought he was saving us. He thought he was a burden."
+
+She stepped forward, dragging Freddie slightly with her because he couldn't stand on his own. Freddie flinched as the movement pulled the raw skin on his lower back.
+
+"Look at him, Vanessa. Look at what you did to him."
+
+Vanessa looked. She saw Freddie’s gray skin. She saw the way his legs were trembling violently in his jeans. She saw the fear in his eyes when he looked at her.
+
+"I didn't..." Vanessa started, her voice small.
+
+"You took a disabled adult across state lines without his medication," Jessica stated, listing the crimes like a prosecutor. "You coerced him. You isolated him. And I bet you hurt him."
+
+Freddie flinched. Paige felt it. She glared at Vanessa over Freddie’s shoulder.
+
+"You hit him," Paige whispered, the realization from the hotel room confirmed by the bruise forming on his cheek. "In the bathroom. You hit him."
+
+Vanessa stumbled back. "I... I was trying to help him! He wouldn't listen!"
+
+"He's done listening to you," Jessica said. "You are deleted."
+
+Freddie felt his legs giving out. He sagged, his knees hitting the floor, but his sisters didn't let him drop. They tightened their grip, holding him suspended between them.
+
+Freddie gasped, arching his spine involuntarily. "Back," he choked out. "The skin... it is pulling."
+
+Paige looked at his lower back. Even through the orange hoodie, she could see how stiffly he was holding himself. She remembered the sensation she'd felt in the hotel room—the feeling of being dragged.
+
+"You dragged him," Paige accused, looking at Vanessa with pure hatred. "In Pasco. When he wouldn't get up. You dragged him across the floor and ripped his back open."
+
+Vanessa went pale. "I... I had to get him on the bus."
+
+"You made him bleed and you didn't even bandage it," Jessica hissed. "He's stuck to his clothes."
+
+"He needs to go," Jessica said, looking at Vanessa with disdain. "He needs his meds. And you need to leave."
+
+Vanessa looked panicked. "But... I don't have anywhere to go. I spent my money on the tickets. I thought we were... staying together."
+
+She looked at Freddie, desperation creeping into her voice.
+
+"Freddie, tell them. Tell them about my aunt. We were going to stay with her."
+
+Jessica looked down at Freddie, who was barely conscious, held up only by the sheer will of the Unit.
+
+"Does she have an aunt?" Jessica asked.
+
+Freddie managed a weak nod. "She stated... family in the area. Aunt. Seattle."
+
+He looked at Vanessa. He didn't see a captor anymore. He saw a glitch. A variable that had been solved.
+
+"Go to your aunt," Freddie whispered. "I am remaining with the Unit."
+
+Jessica looked back at Vanessa. She didn't reach for her wallet. She didn't offer help.
+
+"You heard him," Jessica said. "Call your aunt. Use the payphone. But don't follow us."
+
+"But—"
+
+"Goodbye, Vanessa."
+
+Jessica turned her back on her.
+
+"Load up," Jessica commanded to Paige. "He's dead weight. We carry him. Careful of the lower back."
+
+"Affirmative," Paige said, wiping tears from her face.
+
+She took Freddie’s left arm and draped it over her shoulder. She wrapped her arm around his waist, gripping his belt loop carefully to avoid the sore spot.
+
+Jessica took his right arm, draping it over her shoulder and locking her arm around his other side.
+
+"Freddie," Jessica said, her voice gentle now. "We have to move. The hotel is across the street. The meds are on the nightstand. Can you help us?"
+
+Freddie tried to move his feet. His legs were numb blocks of wood dragging on the linoleum. The movement pulled at the dried scab on his tailbone, sending a fresh spike of fire up his spine.
+
+"Negative," Freddie whispered, his voice breaking. "Legs offline. Spasticity critical. The skin is tearing."
+
+"Okay," Jessica said, her voice thick with emotion. "Then we drag. But we do it together. On three. One. Two. Up."
+
+They hoisted him. His feet dragged on the floor, but they didn't care. They marched him forward, a three-person unit moving as one.
+
+They walked him toward the glass doors. Jessica stopped a businessman to make room for them with a glare that could peel paint.
+
+They led him out of the terminal and into the cool, rainy night of Seattle.
+
+They didn't look back.
+
+Vanessa stood alone under the harsh fluorescent lights. She watched them go—the sisters flanking him, shielding him, carrying him across the wet pavement.
+
+She realized then that she hadn't just lost the game. She had never even understood the rules.
+
+She picked up her bag and looked around the empty terminal, completely on her own.
+
+## Friday, May 7, 2004 — 19:15 PM (PST) The Cascade Suites, Room 412
+
+The heavy door clicked shut, sealing out the hallway, the elevator, and the rain-soaked city. Jessica threw the deadbolt and engaged the safety latch.
+
+"Secure," she whispered.
+
+She moved immediately to the window. She grabbed the heavy, rubber-backed blackout curtains and pulled them shut. The velcro strips in the center locked together, extinguishing the grey Seattle light and plunging the room into the protective gloom of the "Silo."
+
+Freddie stood by the bed, swaying. He was holding onto Paige’s shoulder to stay upright.
+
+"Bed," Paige said gently. "Now."
+
+They helped him sit on the edge of the massive King mattress. He sank into it, letting out a low moan as his spine adjusted to a surface that wasn't vibrating.
+
+"Armor off," Jessica commanded softly. "We need to assess the damage."
+
+They worked as a team. Paige knelt in front of him to untie his shoes, while Jessica gently peeled the dirty orange hoodie over his head.
+
+Freddie didn't help. He couldn't. His arms were heavy, his motor control shot. He let them manipulate his limbs like a doll.
+
+When the hoodie came off, Jessica gasped.
+
+Even in the dim light, the red handprint on his left cheek was visible—a jagged, angry mark where Vanessa had struck him.
+
+"She hit him," Jessica hissed, her fingers hovering near the bruise but terrified to touch it. "She marked him."
+
+"I felt it," Paige whispered, pulling his shoes off. "I knew."
+
+They continued the strip-down. Jessica unbuttoned his jeans. "Lift," she said gently.
+
+Freddie tried, but the denim was stuck to his lower back. He winced, a sharp intake of breath. "Stuck," he rasped. "Adhesion."
+
+"Easy," Jessica said. She peeled the fabric away with infinite care. The dried blood cracked and released.
+
+They slid the pants and boxers down. Freddie was fully exposed.
+
+Jessica and Paige didn't hesitate. They stood up and stripped off their own clothes—jeans, shirts, bras, underwear—leaving them in a pile on the floor.
+
+It wasn't about nudity. It was a statement of total disarmament. *Defenses down. No barriers. We are the same.*
+
+They turned Freddie so they could see his back.
+
+The Stage 2 pressure sore at the base of his spine was an angry, purple-red crater. But below it, trailing down, was a raw, abraded scrape where the skin had been torn away when Vanessa dragged him across the tile floor.
+
+"Oh, Freddie," Paige choked out, tears filling her eyes. "She dragged you. She treated you like luggage."
+
+"Medical kit," Jessica said, her voice shaking with suppressed rage. "I need the saline and the pads."
+
+She turned to go to the bathroom where the kit was stashed.
+
+"Don't leave," Freddie panicked, reaching out blindly.
+
+"I'm right here," Paige said instantly, wrapping her arms around his bare shoulders, pressing her skin against his chest. "I've got you. Jessica is just grabbing the tools. I am not moving."
+
+Jessica returned in ten seconds with the kit and a plate from the kitchenette.
+
+"Meds first," Jessica said.
+
+Paige took the orange bottle. She shook out two Baclofen pills. She held them to Freddie’s lips.
+
+"Take them," she whispered while handing him a cup of water.
+
+Jessica broke off a piece of soft white bread slathered in peanut butter. "Eat," she ordered gently. "You need fuel for the repair cycle."
+
+Freddie took the bread. He ate it in two bites, realizing only then that he was starving. The soft texture was comforting.
+
+"I... I am sorry," Freddie wept, crumbs falling on his chest. "I ran away. I left the note."
+
+"No," Paige said, wiping his face. "You didn't run away. You were manipulated. She poisoned the data, Freddie. She told you we were trapped so she could steal you."
+
+"She said... Italy," Freddie sobbed. "She said I was the black hole."
+
+"You are the Sun," Paige said fiercely, pressing her forehead against his. "Everything orbits you because we *want* to. Not because we have to."
+
+"Okay," Jessica said, uncapping the saline. "This is going to sting. Paige, hold him."
+
+Paige tightened her grip, anchoring him against her body. Jessica cleaned the sore and the drag wound. Freddie whimpered, burying his face in Paige’s neck, his tears wetting her skin.
+
+Jessica applied a thick layer of antibiotic ointment and covered the wounds with a large, soft gauze pad, taping it securely.
+
+"Done," Jessica said. "You're clean."
+
+"Bed," Paige said.
+
+She pulled back the heavy duvet. "Get in."
+
+Freddie crawled into the center of the bed. The sheets were cool and high-thread-count smooth.
+
+Paige climbed in immediately on his left. She lay on her side, pressing her entire length against him. She threw her leg over his thighs, pinning him down, providing the deep pressure his nervous system was screaming for.
+
+Jessica turned off the bedside lamp. The room went pitch black.
+
+She climbed in on his right. She pulled Freddie’s head onto her shoulder, her hand stroking his hair, careful of the bruised cheek.
+
+They closed the gap. Three bodies, skin-to-skin, creating a thermal seal that locked out the cold, the rain, and the memory of the bus.
+
+"Squeeze," Freddie whispered into the dark.
+
+"Squeezing," they both replied.
+
+They held him tight. A cocoon of safety and security.
+
+"No alarm," Jessica whispered into the silence. "We sleep until we wake up. No schedules. No buses."
+
+"Safe," Freddie breathed.
+
+The static in his head finally cleared. The pain in his back was a dull throb, overshadowed by the warmth of his sisters.
+
+He was docked. He was home.
+
+And for the first time in three days, Freddie Avery slept without fear.
+

@@ -1,0 +1,47 @@
+# Part 4: The Sydney Echo – Sunday, June 28, 2071 – 11:30 (Local Eden Time)
+
+Leo sat perfectly still in the Amphibious Rover, the warm, salty breeze washing over his face.
+
+Behind him, the rest of the Colton squad was already deploying the basecamp. Tyler and Evan were driving the heavy durasteel stakes into the firm, packed sand further up the beach, securing the massive expedition tent against the coastal winds. Ellie was marching a calculated perimeter check along the tree line where the dense tropical foliage met the sand, ensuring no indigenous, unsanctioned biology breached their sector.
+
+But Leo’s attention was drawn to the water.
+
+He watched Willow. The thirteen-year-old girl was entirely captivated by the ocean. She had waded out until the crystal-clear, crashing surf was lapping against her knees. She stood with her arms outstretched, her head tipped back, her eyes closed as she drank in the sheer, massive scale of the environment.
+
+Jack walked up beside her. He had rolled the cuffs of his canvas pants up, stepping into the foaming tide to stand right next to his adopted sister. He didn't speak immediately; he just let his gravitational empathy absorb the profound, vibrating joy radiating off of her.
+
+"Jack-Jack," Willow whispered, her thick, musical vowels carrying over the sound of the crashing waves. She finally opened her eyes, looking out at the endless, deep blue horizon. "Aria showed us the holograms in the classroom... the ones of the old world. My cohort's world."
+
+"Sydney," Jack nodded softly, his hands resting in his pockets.
+
+"Yeah," Willow breathed, a beautiful, nostalgic smile breaking across her face. "She showed us the harbor, and the massive bridges, and the beaches. I remember the beaches in the archives. They looked exactly like this."
+
+She turned to look up at Jack, her dark eyes shining with absolute, unfiltered awe. She had spent her entire life surrounded by the towering, emerald alien pines and rushing, freshwater rivers of the Genesis Valley. It was a beautiful home, but it was a mountain home.
+
+This was different. The crashing surf, the salty air, the massive, uninterrupted sky—it resonated with a deep, dormant genetic memory written entirely into her DNA.
+
+"You found it," Willow laughed, a bright, joyous sound that cut cleanly through the roar of the ocean. She launched herself forward, wrapping her arms securely around Jack's waist in a massive hug. "You found my home, Jack."
+
+Jack let out a booming, melodic laugh, wrapping his arms around her and hugging her back tightly, completely unbothered by the saltwater soaking into his clothes.
+
+"I think Eden knew you were looking for it, wild sparrow," Jack grinned, resting his chin on top of her messy, dark braid.
+
+From his vantage point on the shoreline, Leo processed the interaction. He watched the absolute, unconditional loyalty radiating between the twenty-one-year-old diplomat and the thirteen-year-old pioneer. It was a flawless social equation.
+
+Leo hummed a steady, approving note. He reached his hand down to his MagnaPad.
+
+"The emotional baseline of the minor is operating at peak efficiency," Leo typed, his synthesized voice echoing softly over the sound of the waves. "The geographic location provides optimal psychological regulation."
+
+Nora, leaning her weight comfortably against the back of the rover, let out a breathy, deeply affectionate giggle. She shifted her cheek, pressing it affectionately against Leo's temple.
+
+*"She loves him very much,"* Nora’s AAC chimed from her forearm, her empathetic heart perfectly translating Leo's mechanical observation into human warmth. *"It is a good beach, Leo."*
+
+"It is mathematically sound," Leo agreed via the tablet, his scissored legs completely relaxed against the footboards as the massive balloon tires held him perfectly steady in the sand.
+
+"Base camp is fully operational!" Ellie called out from the upper beach, her voice cutting through the salt air. "Communal kitchen is deployed. Molly and Claire are prepping the mid-day rations."
+
+Jack pulled back from the hug, ruffling Willow's hair. "Come on, coastal kid. Let's go see what the scholars are cooking."
+
+They waded out of the surf, walking side-by-side back up the pristine white sand toward the massive, heavy-canvas expedition tent.
+
+Leo watched them go, entirely satisfied with the geometry of the day. His family was secure, the perimeter was locked, and the chaotic variables of the ocean were perfectly buffered by the immovable, protective weight of his sisters. Planet Eden was vast, but as long as the Vanguard held the line, it was entirely manageable.

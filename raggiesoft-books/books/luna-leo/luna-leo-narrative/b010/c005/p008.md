@@ -1,0 +1,24 @@
+# Part 8: The Boarding Pass
+
+The InfoLink Messenger chat with his sisters had been a lifeline, a virtual sanctuary that reaffirmed his connection to home. But when Olivia packed her laptop away, the stark reality of the bustling, noisy airport terminal crashed back in. Leo was exhausted, his body aching, and his flight was still hours away.
+
+Olivia saw the weary slump of his shoulders, the way his eyes darted nervously at the growing holiday crowds. "Okay," she said, her voice a gentle but firm command. "Sitting here is not the plan. Let's get our boarding passes. Let's make this real. One step closer to home."
+
+They navigated to the Gateway Airlines check-in counter. The main line was a chaotic snake of holiday travelers, but Olivia spotted a shorter queue designated for "Passengers Requiring Special Assistance." When their turn came, Olivia approached the agent, a woman with a kind but professional demeanor.
+
+"Hi," Olivia began, her voice calm and organized. "I need to check in for myself and also for my friend, Leo Porter. We're both on Flight 1138 to Midway. I have two separate confirmation numbers; his was an emergency booking made by his sister this morning."
+
+The agent smiled. "Of course, let me get those pulled up for you." She typed the first code, then the second. Her professional smile faltered for a moment, replaced by an expression of serious, focused concern as she read the detailed notes on Leo's booking. She looked up from her monitor, her gaze meeting Leo's with a new softness.
+
+"Okay, Leo," she said, addressing him directly and kindly. "I see everything here. We've got you. And I see the notes from your guardian, Stella." Her eyes flickered to Olivia. "It's a literal miracle she managed to grab that last seat for him today, and very fortunate you were already scheduled on the same flight. She was very clear about the situation."
+
+She efficiently printed two boarding passes onto thick, cardstock Gateway paper and slid them across the counter. "Because Leo is flagged for an aisle chair transfer, you both legally qualify for pre-boarding. Since Gateway has an open seating policy, that means you'll be the very first passengers on the aircraft. You can pick whatever seats you want together."
+
+She gave Leo another warm, reassuring smile. "I've also confirmed that our gate staff, the flight crew to Midway, and our ground team in Norfolk are all aware of the situation and will be ready to assist," she said, handing the documents to Olivia. "You're in good hands now."
+
+Olivia took the two boarding passes, her own heart aching with a gratitude that was as much for Stella's ruthless logistical competence as it was for the agent's kindness. She turned to Leo, a brilliant, triumphant smile on her face, and held them up so he could see.
+
+He looked at the two slips of paper in Olivia's hand—his name and hers, side-by-side, destined for the exact same flight. It was real. He wasn't just being escorted to the gate; she was coming with him. And because of the airline's rules, he wouldn't be wedged between strangers. They were going to sit together. The last, terrifying hurdle of flying alone had just completely vanished.
+
+"See?" she said softly, her hand resting reassuringly on the back of his chair. "I told you I've got you. All the way home. Come on, let's go get you one step closer."
+

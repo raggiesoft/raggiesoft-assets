@@ -1,0 +1,36 @@
+# Part 2: The Holding Pattern (2:25 PM)
+
+Nate slowly turned his manual chair away from the bank of battered payphones. He navigated back to the edge of the waiting area, settling into a spot that gave him a clear view of the terminal's main sliding glass doors.
+
+Valerie was waiting for him. Her arms were crossed tight over her chest, but her posture was rigid with a subtle, underlying discomfort. She shifted her weight from one foot to the other, her jaw clenched tight. Her eyes narrowed as she studied his face, instantly suspecting a shift in the power dynamic, though she couldn't quite pinpoint the source. She hadn't seen him dial.
+
+"Who were you just talking to?" she demanded, her voice a low, dangerous hiss that usually sent Nate into a frantic spiral of apologies and appeasement.
+
+This time, the spiral didn't come.
+
+Nate looked up at her, anchored by the absolute certainty of the phone call he had just made. "I'm not going on the bus, Valerie."
+
+She let out a harsh, incredulous laugh, pressing the heel of her hand hard into her lower back. "Excuse me? I paid for these tickets, Nate. They are non-refundable. You are getting on that bus to Los Angeles, and you are going to take responsibility for your child."
+
+"No," Nate replied, the word feeling strange and heavy on his tongue. He had rarely been allowed to use it. "I am going home. As soon as my mother and sister get here."
+
+Valerie’s posture stiffened, a flash of genuine, explosive rage twisting her features. "Sister." To Valerie, the word dripped with poison. She hated Sarah with a visceral, burning intensity. More specifically, she hated the fact that Nate actually enjoyed hugging his sister. Valerie had spent months carefully establishing that physical touch was a transactional currency—something he owed her, something she controlled. The fact that Nate freely and happily sought deep-pressure hugs from Sarah infuriated her.
+
+"They're coming here?" Valerie sneered, taking a step closer, trying to re-establish her physical dominance over his space. "You called your mommy to come save you because you're too much of a coward to be a father?"
+
+Nate just stared at her. He didn't blink. "I told you. I have Azoospermia. There is no child, Valerie."
+
+Valerie scoffed, her voice growing louder and more jagged. "Azoospermia? Are you kidding me? You’re actually making up a fake medical condition right now? You’re pathetic. You're just trying to duck out of raising the baby because you want to run back to your precious sister."
+
+The sheer audacity of her performance was staggering. She was screaming about a pregnancy while her own body was actively ringing the alarm bells of an impending cycle. Beneath her furious, self-righteous facade, Valerie was in pain. Her estrogen was plummeting, fraying her nerves and amplifying her rage, while the deep, pulling ache of prostaglandins radiated through her lower back and pelvis. Her cycles varied, but this specific, heavy throbbing meant she was gearing up for a brutal one.
+
+She knew with absolute, physiological certainty that she would start bleeding tomorrow. Yet, she looked Nate dead in the eyes and used the phantom child as a weapon. She was entirely willing to ignore the physical cramps tearing through her own abdomen if the lie could force him onto that westbound bus.
+
+Sitting in his wheelchair, watching Valerie fume over the mention of his family, Nate’s neurodivergent brain struggled to process the sheer illogic of her anger. *It isn't a competition,* he thought, staring at the scuffed linoleum floor. Family shouldn't be competing with a girlfriend. In Nate's mind, the categories were completely distinct and separate. A sister is a sister; a girlfriend is a girlfriend. They occupied entirely different spaces in a person's life. A sister is not a rival. Yet, Valerie treated every interaction he had with his mother and his sister as a direct threat to her regime. She treated his family as enemy combatants.
+
+Nate didn't try to argue the medical facts with her again. He didn't point out the way she kept unconsciously pressing her hand against her aching back. He just checked the digital watch on his wrist. It was 2:30 PM.
+
+The outbound Pathfinder connecting to Los Angeles wasn't scheduled to depart for another forty-five minutes. His mother had promised a thirty-minute ETA. The math was finally on his side.
+
+"They're almost here," Nate said quietly, keeping his eyes locked on the main entrance. The terminal was still loud, the diesel fumes were still thick, and Valerie was still standing right in front of him, physically hurting and spinning her web of lies. But the perimeter was already shifting. All he had to do was hold the line until the glass doors opened.
+

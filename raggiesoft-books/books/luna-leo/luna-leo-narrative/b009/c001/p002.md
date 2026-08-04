@@ -1,0 +1,20 @@
+# Part 2: The Journey North
+
+The rhythmic clatter of the train wheels on the track was a soothing, constant presence as the Virginia landscape slid by. The mood at their four-person table in Business Class was a comfortable, quiet hum. For a while, they were all content to simply exist in the moment, watching the scenery change from the familiar Tidewater region to the rolling hills of central Virginia.
+
+"Anyone thirsty?" Stella asked, breaking the comfortable silence as they passed Fredericksburg. "Drinks are on ARTS. I'm thinking of getting a soda."
+
+"I'll come with you," Luna said, always up for an adventure, even one as simple as a trip to the cafe car.
+
+Leo, who had been leaning his head against Olivia’s shoulder, looked up at the mention of drinks. Olivia smiled down at him. "Want your hot chocolate?"
+
+He gave an enthusiastic nod.
+
+"Okay, Stel," Olivia called out as the sisters prepared to navigate the aisle. "A hot chocolate for Leo, please. And I'll have a coffee."
+
+Stella nodded, then paused, looking at Olivia. "You don't want to come stretch your legs?"
+
+"No, I'm good here," Olivia said, her voice casual but her meaning clear. She instinctively tightened her arm around Leo’s shoulders. Olivia understood the assignment: this entire trip was a precious, finite resource, and Leo didn't want her out of his sight, even for the few minutes it would take to walk to another car. It wasn't a possessive demand on his part; it was a quiet, constant plea for her presence, a need born from the heartbreaking knowledge that their time together was running out.
+
+Stella and Luna returned a few minutes later, carefully balancing a tray of drinks. They settled back into their seats, the four of them once again a complete, self-contained world. Leo sipped his hot chocolate, the warmth spreading through him. He was with his sister, his twin, and his best friend, hurtling towards a new city and a new adventure. The impending goodbye was a constant, dull ache in his heart, but for now, in this moment, all was right with the world. He leaned back against Olivia, secure in her presence, and watched the country fly by.
+

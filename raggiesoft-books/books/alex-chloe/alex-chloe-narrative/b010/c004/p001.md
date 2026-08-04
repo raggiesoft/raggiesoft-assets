@@ -1,0 +1,36 @@
+# Part 1: Operation: Pacific Northwest
+
+The summer of 2006 was not a time for rest. For Alex, Chloé, and Megan, it was the launch sequence. Their small apartment, which had been a sanctuary of healing and study, was transformed into a bustling command center for "Operation: Pacific Northwest."
+
+The wall of their shared office was covered with a large, detailed map of Snohomish County, Washington, with bright red circles around the key transit centers. A jar filled with paper slips—their symbolic "Washington Survival Fund"—sat on a desk, a tangible tracker of their shared effort.
+
+The apartment hunt was their primary mission. Alex was the lead analyst, his new Quantum Communicator Pro V a powerful tool of research. Chloé was the primary communicator, and Megan, having just gone through the process for her own local job, was the veteran strategist. They worked as a seamless, three-person team, cross-referencing apartment listings with bus schedules and satellite maps.
+
+Later one evening, after hours of apartment hunting, Alex turned his attention from logistics to passion. He opened the application he had been refining since his capstone project, showing Chloé and Megan a new, context-aware predictive feature he had just perfected.
+
+As Chloé and Alex were marveling at his code, Megan, who had been quietly scrolling through her own email, let out a small, sharp gasp.
+
+"No way," she whispered, her eyes wide.
+
+"What is it?" Chloé asked, turning from Alex's screen.
+
+"I just got an email," Megan said, her voice a mixture of shock and dawning excitement. "From a recruiter. At Quantum."
+
+Alex and Chloé stared at her, stunned.
+
+"They saw my resume on a national job board," Megan continued, reading from the screen. "They're looking for technical writers for a new project at their main campus in Redmond. They... they want to know if I'd be interested in discussing an opportunity. In Washington."
+
+A profound, electric silence filled the small office. Redmond. It was just a short commute from Lynnwood, where they had been planning to live.
+
+Megan looked up from her screen, her eyes shining with an idea so audacious, so perfect, that it felt like destiny. "Guys," she said, her voice trembling slightly. "What if... what if I don't have to stay here? What if the escape hatch... comes with you?"
+
+The implications of the email crashed down on them. Megan wouldn't be left behind. Their team, their sanctuary, their perfect three-person household—it could continue.
+
+MEGAN. THAT'S... Alex began to type, his own fingers fumbling with the sheer, wonderful shock of it. AMAZING.
+
+"Amazing doesn't even cover it," Chloé breathed, a slow, brilliant smile spreading across her face. She looked at the map on the wall, no longer a symbol of their impending separation from Megan, but a map of their shared future. "You have to do it, Meg. You absolutely have to."
+
+"I'm going to," Megan said, her own voice full of a new, fierce determination as she typed a reply to the recruiter. "Yes, I am absolutely interested in discussing this opportunity."
+
+The room was buzzing with a new, supercharged energy. Their savings, their planning, their passion projects—it was all part of the same journey. They weren't just two best friends moving across the country anymore. They were a team of three, on the verge of a whole new, incredible adventure, together.
+

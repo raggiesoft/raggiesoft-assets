@@ -1,0 +1,82 @@
+# Part 2: The Tactical Extraction – Thursday, April 2, 2048 – 14:15
+
+The estate was incredibly, blissfully quiet.
+
+It was 14:00, which meant it was the designated, mandatory naptime for the terrible twos. Wyatt Colton was sitting at the kitchen island, his massive hands wrapped around a mug of black coffee, enjoying the rare, golden silence. Sarah was resting in her wheelchair beside him, her head resting on her arms against the stone counter, actually dozing.
+
+Wyatt had manually overridden the nursery’s internal proximity alerts an hour ago. The triplets had a habit of rolling around their massive Mega-Crib in their sleep, which constantly triggered Aria’s motion sensors and beeped incessantly in Wyatt’s ear. They were locked safely behind a heavy timber door with a magnetic, biometric seal. There was absolutely no reason for the alerts to be on.
+
+Wyatt took a slow sip of his coffee and casually tapped his comm-cuff to bring up the nursery's optical feed on his datapad, just to check on them.
+
+He stared at the screen.
+
+The massive, custom-poured memory-foam mattress was completely empty.
+
+Wyatt didn't gasp. He didn't shout. His S.H.O.P. Marine conditioning instantly dumped a terrifying, ice-cold flood of adrenaline directly into his bloodstream. He was out of his stool and moving before his conscious brain even fully processed the image.
+
+"Aria," Wyatt whispered, his voice a low, lethal rasp so he wouldn't wake Sarah, but his massive frame was already sprinting silently down the residential hallway. "Where are my children?"
+
+"Administrator," Aria chimed instantly in his ear, entirely unbothered. "Subjects A, B, and C are currently located in the East Observation Corridor. They have been mobile for approximately twelve minutes."
+
+Wyatt rounded the corner to the nursery. The heavy timber door was wide open.
+
+His mechanic's brain instantly identified the breach. Down near the baseboards, exactly two feet off the ground, was the manual, emergency-release pressure pad. Wyatt had used it exactly once last week when his hands were full of laundry. Ellie’s dark, intensely observant eyes had clearly tracked the movement, logged the cause-and-effect of the button, and filed the mechanical data away for future use.
+
+His two-year-old daughter had successfully bypassed a Level-3 magnetic lock.
+
+Wyatt didn't stop to admire her engineering skills. He sprinted down the adjoining hallway toward the East Observation Corridor, his heart hammering against his ribs. The estate was safe, the planetary shield was up, but they were two years old.
+
+He skidded to a halt at the entrance to the corridor, his boots squeaking sharply against the polished stone floor.
+
+He froze, his chest heaving, as he stared down the fifty-meter expanse of the hallway.
+
+The corridor ended in a massive, floor-to-ceiling hydro-glass window that looked out over the dense, emerald alien pine forests of Planet Eden. And sitting in a perfect, tight cluster right in the center of the sunbeam pooling on the floor, were his three children.
+
+They weren't crying. They weren't scared. They were just watching the trees sway in the wind.
+
+Wyatt let out a massive, ragged exhale, his forehead dropping against the cool stone of the archway. "Aria. How did they get all the way down here? Leo can't crawl."
+
+Because of his severe spastic diplegia, Leo's legs were incredibly tight and uncoordinated. At two years old, while Ellie and Nora were furiously army-crawling and beginning to pull themselves up on furniture, Leo was still largely stationary. If he was placed on the floor, he stayed exactly where he was placed.
+
+"I highly recommend you review the security playback, Wyatt," Aria replied softly. "Their logistical coordination was... remarkable."
+
+Wyatt tapped his datapad, pulling up the hallway's security feed from ten minutes ago.
+
+On the tiny screen, he watched the nursery door hiss open. Ellie, the unquestionable ringleader, poked her head out first. She looked left, looked right, and determined the perimeter was clear. She crawled rapidly out into the hallway. Nora followed immediately behind her.
+
+But then, the two girls stopped. They looked back into the nursery.
+
+Leo was lying on his stomach near the door, his tiny muscles tight, completely unable to follow them over the threshold.
+
+On the video, Wyatt watched his two daughters instantly abandon their exploration. They didn't even consider leaving him behind. Instead, Ellie and Nora crawled back to their brother.
+
+They couldn't carry him, and they couldn't stand up. So, they improvised.
+
+Ellie firmly grabbed the sleeve of Leo’s left arm. Nora grabbed the sleeve of his right arm. With a synchronized, incredibly stubborn grunt, the two girls dug their tiny knees into the floor and pulled.
+
+They dragged him.
+
+Wyatt watched in absolute, stunned silence as his two-year-old daughters army-crawled backward down the entire fifty-meter hallway, hauling their thirty-pound brother across the polished stone floor inch by agonizing inch. On the video, Leo didn't cry or panic. He let out soft, vibrating grunts of approval, entirely content to let his sisters ferry him along like a beloved, heavy piece of cargo. Whenever his rigid legs snagged on the floor, Nora would pause, carefully untangle his limbs, pat his shoulder to soothe him, and resume pulling.
+
+It took them ten grueling minutes of coordinated, brutal toddler-effort, but they successfully extracted their brother to the sunbeam.
+
+Wyatt slowly lowered the datapad, his vision blurring with a sudden, overwhelming surge of fierce, protective pride.
+
+He walked slowly down the hallway, his heavy boots echoing softly.
+
+Ellie heard him first. She immediately spun around, dropping her hold on Leo to put herself squarely between Wyatt and her siblings. She sat up on her knees, her dark eyes flashing with territorial defiance, fully prepared to fight the massive S.H.O.P. Marine to protect their newly claimed patch of sunlight.
+
+Behind her, Nora immediately wrapped her arms around Leo's chest, anchoring him so he wouldn't tip over.
+
+"Stand down, Vanguard," Wyatt chuckled, a thick, wet sound in his throat. He dropped to his knees right at the edge of the sunbeam, making himself as small as his massive frame would allow.
+
+Ellie studied his face for a long second. Realizing he wasn't going to drag them back to the nursery, she dropped her defensive posture. She let out a demanding grunt, aggressively patting the empty floor space next to her.
+
+Wyatt smiled. He army-crawled the last two feet, entirely ruining the knees of his canvas pants, and settled onto the floor right next to them.
+
+Ellie immediately grabbed his thick wrist, pulling his heavy arm completely around the three of them like a living, breathing barricade. Safe inside the perimeter of their father's arm, the triplets turned their attention back to the massive hydro-glass window, watching the alien trees sway in the wind.
+
+They were two years old. They couldn't walk. They couldn't talk. But as Wyatt sat on the floor, holding his fiercely loyal, unbroken children, he realized they already understood the most important rule of the Colton family perfectly:
+
+You absolutely never leave a man behind.
+

@@ -1,0 +1,156 @@
+# Part 2: The Presentation
+
+## Spring 2004 Tuesday, May 4, 2004 — 14:15 PM
+
+The lights in the lecture hall were dimmed. The air hummed with the whir of the overhead projector fan and the collective anxiety of a hundred students.
+
+Group 3 was finishing up. They were using **Quantum Suite Presentation** (the standard slide software). Their slides were white with blue bullet points that flew in with a cheesy *woosh* sound effect.
+
+"And... uh... that concludes our findings on Gas Giant migration," the Group 3 leader stammered.
+
+"Thank you," Professor Haldeman boomed from the back of the room. "Next up. Group 4. Team Helios."
+
+Jessica stood up first. She adjusted her blazer. "Showtime," she whispered.
+
+The Unit moved to the front.
+
+Freddie walked stiffly. His movements were mechanical, lacking his usual fluid efficiency. He plugged the VGA cable into his **Iron-Logic** laptop.
+
+Paige stood next to him. She watched his hands. They were trembling slightly as he tightened the screws on the cable connector.
+
+*He’s nervous,* Paige thought, stepping closer to offer a subtle, grounding presence. *He hates public speaking. Just get through the next ten minutes, Captain.*
+
+She reached out to touch his elbow—a silent "I'm here."
+
+Freddie didn't lean into it. He held himself rigid, staring at the screen.
+
+*Italy,* the voice in his head whispered. *New York. You are the black hole.*
+
+"System online," Freddie croaked.
+
+He hit the enter key.
+
+The massive projection screen behind them didn't show a white slide with bullet points.
+
+It went **True Black**.
+
+A collective "Oooooh" rippled through the bored class.
+
+On the screen, the amber curve of the interface glowed. The title **SYSTEM: HELIOS** pulsed slowly in the center (a GIF Freddie had animated pixel by pixel).
+
+"Good afternoon," Jessica announced, her voice projecting clearly. "Most groups built a report. We built a simulation."
+
+She gestured to the screen.
+
+"We designed a G-Type Star system," Jessica continued. "Located 40 light-years from Earth. Our goal was to determine habitability based on stellar luminosity and orbital mechanics. I’ll let our Systems Architect demonstrate."
+
+She looked at Freddie.
+
+Freddie clicked the trackball.
+
+\[ ENTER SYSTEM \]
+
+The screen refreshed. A navigation grid appeared.
+
+"Navigation," Freddie said, his voice flat and devoid of its usual passion. "The user can access data via the primary array."
+
+He clicked \[ PLANET 2: AETHEL \].
+
+The table Vanessa and Freddie had built appeared. The data was perfectly aligned.
+
+**MASS:** 1.02 Earths **ATMOSPHERE:** 78% N, 21% O **WATER:** 65% Surface Coverage
+
+"Vanessa?" Jessica prompted.
+
+Vanessa stepped forward. She looked modest, capable, and professional.
+
+"We calculated the habitable zone based on a luminosity of 1.1," Vanessa explained, pointing to the data table. "As you can see, Planet Aethel sits at 1.05 AU. If it were any closer, the greenhouse effect would trigger a Venus-scenario. Any further, and the water freezes."
+
+She looked at the class.
+
+"We ran the numbers for orbital resonance with the outer gas giant, 'The Forge.' The gravitational tug keeps Aethel’s orbit slightly elliptical, which creates distinct seasons."
+
+Paige watched Freddie. Usually, when they showed off his work, he beamed. He loved the "oohs" and "ahhs." He loved explaining the logic.
+
+But today, he was staring at the floor. He looked pale. He looked... sick.
+
+*It’s the crowd,* Paige told herself. *Too many eyes. We need to get him out of here.*
+
+"And for the biosphere," Paige said, jumping in to cover the silence. "We theorized that the slightly higher gravity would result in flora with thicker, sturdier root systems. The 'Lore' section detailed in the sub-menu describes a world of heavy forests and deep oceans."
+
+Freddie clicked the link. The page loaded instantly. The text was formatted beautifully in Courier New.
+
+They ran through the presentation. The mechanics were flawless. The math was perfect. The interface was unlike anything anyone else had done.
+
+"And that," Jessica concluded, "is System Helios."
+
+The room applauded. It was enthusiastic applause. Even the frat guys in the back row looked impressed by the "movie computer" graphics.
+
+"Excellent work," Professor Haldeman said, leaning forward in his chair. "Truly distinct presentation style. We have time for questions."
+
+A hand went up in the third row. A girl with glasses.
+
+"You mentioned the Gas Giant, 'The Forge,' protects the inner planet," she asked. "Did you calculate the impact frequency of asteroids? A Jupiter-sized planet usually acts as a shield."
+
+Freddie looked up. This was his section.
+
+"Yes," Freddie said. He forced the words past the lump in his throat. "We... we modeled the asteroid belt density. The Forge absorbs 94% of potential impactors. It... it clears the path."
+
+*Clears the path.*
+
+He looked at Paige. *Like she does for you.*
+
+"Without the Giant," Freddie whispered into the microphone, "the inner planet would be destroyed. The Giant takes the hits so the small planet can survive."
+
+Paige smiled at him. She thought he was talking about the project. Freddie knew he was talking about them.
+
+Another hand went up. A guy in a hoodie.
+
+"How did you figure out the tidal locking on the first planet? Wouldn't the star's gravity rip it apart if it was that close?"
+
+"Roche Limit," Vanessa answered smoothly, stepping in before Freddie had to speak again. "We calculated the Roche Limit of the star. Planet 1 is close, but it’s outside the disintegration zone. It’s tidally locked, meaning one side is always burning, one is always frozen. But it’s stable."
+
+"Stable," Freddie echoed softly. *Trapped.*
+
+"One final question," Haldeman said.
+
+A student in the front row raised his hand. "Okay, the astronomy is cool, but... seriously. Is that just HTML? How did you get it to look like that? It looks like the computer from *Stellar Voyage*."
+
+Freddie looked at the screen. The amber text. The black background. The perfect grid.
+
+It was his masterpiece. It was the proof that he could build something beautiful.
+
+But now, looking at it, all he saw was the wasted time. Time Paige could have spent applying for Italy. Time Jessica could have spent getting that internship.
+
+"It is... tables," Freddie said dully. "HTML 4.0. No database. Just... structure."
+
+"Well, it's very effective," Haldeman said. "A-plus work, Group 4. Please disassemble so Group 5 can set up."
+
+Freddie unplugged the laptop. The screen went dark.
+
+"We crushed it!" Jessica whispered, high-fiving Vanessa. "Did you hear Haldeman? A-plus!"
+
+"You guys were amazing," Vanessa beamed. She looked at Freddie. "Especially you, Captain. The interface sold it."
+
+Paige grabbed Freddie’s arm as they walked off the stage.
+
+"Hey," she whispered, leaning close. "You okay? You seem... miles away."
+
+Freddie looked at her. He wanted to scream. He wanted to tell her about the conversation in the lobby. He wanted to beg her to go to Italy.
+
+But Vanessa’s logic held him in a chokehold. *If you tell them, they'll just deny it. You have to be the one to break the orbit.*
+
+"I am fine," Freddie lied, pulling his arm away gently—the first time he had ever initiated the separation. "Just... tired. I require recharge."
+
+Paige frowned, her hand hovering in the air where his arm had been.
+
+"Okay," she said slowly. "We'll go home. We'll order pizza. We'll celebrate."
+
+"Celebrate," Freddie repeated.
+
+They walked up the aisle. Vanessa walked behind them, her face a mask of supportive joy.
+
+But as she watched Freddie pull away from Paige, she smiled a real, genuine smile.
+
+The gravity was failing. The orbit was decaying. It wouldn't be long now.
+

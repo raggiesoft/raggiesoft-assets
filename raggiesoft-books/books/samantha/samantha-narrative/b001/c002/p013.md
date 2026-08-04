@@ -1,0 +1,50 @@
+# Part 13: The Triage Desk – 8:45 PM
+
+The ride to the hospital was a blur of passing streetlights and blinding, white-hot agony. By the time Sarah threw the heavy sedan into park under the bright awning of the emergency room drop-off, I was sobbing—harsh, ragged gasps that tore through my chest as my spastic muscles violently locked against the pain.
+
+Sitting down was completely impossible, and my custom manual wheelchair was still folded up in the trunk of the car. Abbey didn't even wait for Sarah to pop the lid. She opened my door, slid her massive, dense arms beneath my upper back and lower thighs, and lifted my compact frame out into the humid night air. She carried me toward the sliding glass doors, using her towering strength to keep my lower half entirely suspended, ensuring absolutely zero pressure touched my body.
+
+Sarah flanked her right shoulder, keeping her imposing six-foot-four frame close. Samantha walked on my left, gripping my rigid hand. Grandmother Eleanor led the vanguard, clutching her heavy legal binder against her chest.
+
+The automatic doors slid open. The ER waiting room was chaotic and loud, but as we marched toward the triage desk, the immediate area seemed to go dead silent.
+
+The triage nurse behind the glass looked up. I watched the professional composure completely fall off her face. Her eyes went wide, locking instantly onto Abbey, and then to Sarah. I didn't understand how hospital protocols worked, but I saw the sudden, stark fear in the nurse's eyes. Her hand immediately hovered over her telephone. She was staring at my cousins like they were monsters. She looked like she wanted to call security to take me away from them.
+
+Abbey and Sarah saw it, too. They knew exactly what their tank-like mass and incredibly broad shoulders looked like to a stranger. I felt the tension instantly ripple through Abbey’s chest, but she didn’t step forward or get angry. Instead, both twins froze. They deliberately hunched their broad shoulders, trying to make their massive frames look smaller, their faces etched with desperate, pleading concern.
+
+The thought of anyone taking me away from them sent a fresh spike of sheer panic through my system.
+
+I didn't pull away. I sobbed harder, burying my face desperately into the thick collar of Abbey's dark navy t-shirt. I wrapped my right arm tightly around her thick, unyielding neck. My left arm, trembling and spastic, reached out blindly into the empty air.
+
+Sarah was immediately there. She stepped flush against Abbey's side, placing her own massive hand gently over my back. I grabbed a fistful of Sarah's heavy denim jacket, twisting the fabric into my rigid knuckles, anchoring myself to both of them simultaneously. I clung to them as if my life depended on it—because it did. To the nurse, they looked terrifying. To me, their towering mass was the only safe place left in the world.
+
+Before the nurse could pick up the phone, Grandmother Eleanor stepped directly in front of my cousins, smoothly blocking the nurse's line of sight.
+
+Eleanor didn't yell, and she didn't slam her binder down. Instead, she opened it on the counter with the sharp, clear, practiced authority of a retired lawyer who knew exactly how to command a room.
+
+"Please, listen to me," Eleanor stated, her voice urgent but projecting absolute, cold authority. "My grandson is suffering from acute physical trauma. We just rescued him from an assault by his father in another state. I am his sole legal guardian. I have the court orders right here. He is in excruciating pain and needs a trauma bay immediately."
+
+The nurse stopped. She looked at the heavy legal documents, looked past Eleanor to see me desperately clinging to the two giantesses, and the terrifying math in her head finally realigned. The fear vanished, replaced instantly by medical urgency.
+
+"Pediatric trauma alert, Bay Three," the nurse said sharply into her radio, her hand dropping entirely away from the phone. She looked at Abbey. "They are bringing a gurney right now. Do not move past this desk until they get here."
+
+"Understood," Abbey said softly.
+
+Less than ten seconds later, the heavy double doors next to the triage desk burst open. Two ER technicians rushed into the lobby pushing a hospital gurney. They stopped right in front of us, locking the wheels.
+
+"Ma'am, you need to put him down on the bed," one of the techs instructed Abbey, his eyes darting nervously to the sheer width of her shoulders.
+
+This was the moment. The medical perimeter was taking over, and Abbey had to yield.
+
+But she didn't just drop me. Operating with absolute tactical restraint, Abbey spoke to the tech in a quiet, incredibly deferential tone that completely contradicted her terrifying size. "I will put him down, but he cannot lay flat on his back. The trauma is localized to his buttocks. I need pillows to prop his knees and back so I can lay him safely on his side."
+
+The clinical bluntness of the word hung in the air for a fraction of a second. I watched the tech's face change. The nervous apprehension about Abbey's sheer size vanished entirely, replaced by a dark, horrifying realization of what had actually happened to me. The implied threat of my cousins evaporated.
+
+"Oh, God," the tech breathed, instantly grabbing two pillows from the base of the gurney and arranging them exactly as Abbey asked. "Yes. Absolutely. Whatever he needs."
+
+With agonizing, mechanical slowness, Abbey leaned over the gurney. She used her staggering physical power not to intimidate, but to completely control her own descent. She lowered my fragile, thrashing frame onto the mattress without a single sudden jolt, guiding my legs onto the pillows so the pressure remained off my injuries. Her massive hands lingered for a fraction of a second, trembling slightly with restrained emotion, before she carefully pulled them away.
+
+The moment I was secure, Abbey and Sarah immediately took two large steps backward. They stood shoulder-to-shoulder against the lobby wall, keeping their massive hands entirely visible and open, offering no resistance whatsoever.
+
+"Alright, buddy, we've got you," the tech said softly to me, unlocking the wheels. He looked up at Grandmother Eleanor and the twins, his voice thick with newfound respect and urgency. "Family stays right behind us. Let's go."
+

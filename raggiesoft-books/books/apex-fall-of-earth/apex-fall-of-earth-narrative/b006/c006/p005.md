@@ -1,0 +1,72 @@
+# Part 5: The All-Terrain Vanguard – Friday, April 28, 2051 – 10:00
+
+The foyer of the Colton estate was once again a staging ground, but this time, the S.H.O.P. Marine had properly accounted for the battlefield.
+
+A week had passed. Jack’s localized rhinovirus had been completely eradicated by his robust toddler immune system, and Wyatt had spent nearly every waking hour down in the Fab-Foundry rectifying his engineering failure.
+
+He stood proudly in the center of the polished stone floor, his massive hands resting on his hips as Sarah wheeled the new hardware out of the pneumatic elevator.
+
+"Squad," Wyatt announced, a massive grin splitting his bearded face. "Presenting the Chariot Mark II. And the Recruit Transport."
+
+The original Chariot had been a sleek, indoor luxury vehicle. The Mark II was a tactical rover. Wyatt had completely replaced the frictionless casters with thick, heavily treaded pneumatic tires. He had widened the rear wheelbase to give Nora absolute, unshakeable stability in the mud, and he had integrated a state-of-the-art, localized coil-over suspension system directly beneath the center seat.
+
+Next to it was Jack’s rig: a rugged, three-wheeled off-road stroller built with the exact same suspension and tire package, featuring a secure five-point harness and a sun canopy.
+
+Ellie stepped forward. Her dark eyes swept over the new equipment. She didn't offer immediate praise; she conducted a thorough field inspection.
+
+She marched up to the Mark II. She raised her heavy canvas boot and kicked the thick front tire. It barely yielded, perfectly inflated for off-road traction. She grabbed the front pull-handle and threw her entire body weight down on it. The heavy timber frame didn't jar or clatter; it dipped smoothly, the coil-over suspension absorbing the kinetic force flawlessly before gliding back into place.
+
+Ellie let go of the handle. She looked up at Wyatt, giving a single, sharp nod of absolute approval.
+
+"Good gear," Ellie stated. She pointed to her unit. "Mount up."
+
+Nora limped over to the back of the Mark II, her hands finding the newly padded push-bar. She immediately felt the difference in the widened stance.
+
+Wyatt gently lifted Leo, his scissored legs tight, and lowered him into the center seat. As Wyatt clicked the five-point harness into place, he watched his son closely. Leo was humming a low, cautious note, remembering the terrifying, jarring shockwaves of their last attempt.
+
+"It's okay, buddy," Wyatt murmured, resting his hand on Leo's chest. "Smooth riding today. I promise."
+
+Over by the stroller, Sarah was strapping a highly energetic Jack into his seat. Jack was fully capable of walking and running, but at sixteen months, his stamina was incredibly short. He grabbed the sides of the stroller, his legs kicking excitedly in the air.
+
+"Out!" Jack commanded crisply, his advanced vocabulary perfectly mirroring his sister's brevity. "Go out!"
+
+"We're going, recruit," Sarah laughed, double-checking his harness. She looked at Wyatt, her dark eyes shining with anticipation. "Open the gates, Administrator."
+
+Wyatt tapped the biometric wall scanner. The massive durasteel blast doors hissed and slid apart, flooding the foyer with brilliant spring sunlight and the sharp scent of alien pine.
+
+"Advance," Ellie ordered.
+
+She dug her boots into the floor and pulled. The Mark II rolled down the durasteel ramp and hit the forest floor.
+
+Wyatt held his breath.
+
+The thick pneumatic tires hit the soft, loamy soil—and they didn't sink. They gripped the dirt perfectly, rolling over the exposed tree roots with effortless grace. The independent suspension absorbed every single bump, keeping the center seat completely level.
+
+In the back, Nora pushed her weight against the bar. Her weaker left leg didn't slip. The widened wheelbase gave her a flawless, steady anchor, allowing her to march through the dirt and pine needles with absolute confidence. A massive, beautiful smile broke across her face.
+
+But the true victory was in the center.
+
+Leo didn't spasm. His back didn't arch in panic. The ride was incredibly smooth, the deep pressure of the harness keeping him secure while the suspension ironed out the chaotic terrain. He felt the cool breeze on his face. He watched the massive, emerald canopy of the alien pines swaying above him.
+
+His low, cautious hum instantly pitched up into a loud, joyous, vibrating vocalization.
+
+Nora reached over and steadied his hand, guiding his shaking finger down to the ruggedized AAC tablet resting on his lap tray.
+
+*"Outside,"* the tablet announced into the fresh air. *"Good."*
+
+"It's really good, Leo," Wyatt breathed, his chest aching with a profound, overwhelming pride as he walked alongside the wagon, one hand resting protectively on the timber siding.
+
+Sarah pushed Jack's stroller right beside them. Jack was babbling happily, pointing at the massive trees and the strange, vibrant alien flora blooming in the underbrush. "Big tree! Big tree!"
+
+"That's right, Jack," Sarah smiled, her face tilted up to catch the warmth of the sun.
+
+The Colton family moved deeper into the forest, leaving the imposing, oxidized-yellow hull of their dreadnought-turned-bunker behind them. They walked for nearly half an hour, the Vanguard seamlessly conquering the rugged terrain.
+
+They finally stopped in a massive, sunlit clearing overlooking the rushing, crystal-clear river that cut through the valley.
+
+Ellie dropped the front handle. She walked to the edge of the riverbank, her dark eyes scanning the perimeter. There were no corporate armadas. There were no flashing medical alarms. There was just the rushing water, the endless trees, and the unit she was sworn to protect.
+
+She turned back to look at her family. Leo was smiling in the sun. Nora was collecting a handful of smooth river stones. Jack was demanding to be let out of his stroller so he could throw dirt. And Wyatt and Sarah were standing together, watching them with absolute, unconditional love.
+
+The commander crossed her arms over her tactical vest. She gave a firm, satisfied nod. The objective was complete. The outside world officially belonged to the Vanguard.
+

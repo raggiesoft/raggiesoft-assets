@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-05-08
-* **Generated On:** 07-18-2026 09:10:30 PM
+* **Generated On:** 07-19-2026 08:39:21 AM
 * **Master File Located At:** ../../vault/wav/3-01-embers-of-hope.wav
 
 ## Distribution & AI Disclosure Notes

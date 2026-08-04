@@ -1,0 +1,48 @@
+# Part 3: The Protocol Upgrade
+
+## Sunday, October 27, 2002 13:45 PM
+
+The lunch rush at Zane's Market was winding down. The red vinyl booths were emptying out as travelers got back on the road, heading toward their respective destinations. At the Avery table, the tray of fries was gone. The sodas were empty. It was time for the transfer.
+
+"Aunt Linda, can you take the kids to the car?" Jessica asked, standing up. "I need a minute with Mom. Administrator level stuff." "Of course, hon," Aunt Linda smiled, oblivious to the subtext. She grabbed her purse. "Come on, twins. Let's get the AC running. It’s humid down in the flatlands." Freddie and Paige stood up. Paige looked at Jessica, a silent question in her eyes. Did you tell her? Jessica gave a microscopic nod. I'm handling it.
+
+Freddie and Paige followed Aunt Linda out to the parking lot, leaving Jessica and Ellen alone in the booth. Jessica sat back down. She looked at her mother. Ellen looked tired. The stress of the divorce proceedings, the nursing classes, and the solo parenting was etched into the lines around her eyes. "Okay," Ellen sighed, stirring the ice in her empty cup. "Give me the damage report. You said there was a meltdown." "There was," Jessica admitted. "At the Housing Office. They told him he couldn't room with Paige because of the gender policy. He crashed. Hard."
+
+Ellen rubbed her temples. "I knew it. I told Robert that would happen. He thinks Freddie just needs to 'toughen up,' but you can't toughen up a neurological condition." "Exactly," Jessica said. She leaned forward, lowering her voice. "But Mom, listen to the rest of the data. Last night? After the game? We went back to my apartment." "And?" "I pulled out the sofa bed," Jessica said. "It’s a double. Not huge, but big enough. Freddie and Paige slept on it together." Ellen stiffened slightly, her programming as a mother of the 90s kicking in. "Jessica..." "Stop," Jessica held up a hand. "Just listen to the output. He slept for nine hours, Mom. Nine. Zero night terrors. Zero waking up screaming. He didn't even twitch. I woke up this morning, and they were still asleep, just... holding onto each other."
+
+Jessica took a breath. "It works. It’s not weird. It’s not 'inappropriate.' It’s a medical device. She is his weighted blanket." Ellen looked out the window at the parking lot, where Freddie was pacing near the station wagon while Paige leaned against the door, watching him. "I can't keep waking up at 2:00 AM, Jessica," Ellen whispered. "I have Anatomy exams. I have the younger kids. I can't do the screaming anymore."
+
+"Then don't," Jessica said firmly. "Upgrade the protocol. My old room—the big one at the end of the hall—it has my Queen bed in it. The mattress is good. There's plenty of square footage." "That’s the girls' room," Ellen murmured. "Not anymore," Jessica declared. "Give it to them. Let them move into the Queen bed. Officially. No more sneaking down the hall. No more shame. Just let them have the Command Center." "And Freddie's room?" "Keep it," Jessica advised. "Keep the twin bed in there. That’s the 'Decoy.' If Dad visits, or if Aunt Linda snoops, that’s Freddie’s room. But at night? They are in the Queen."
+
+Ellen was silent for a long moment. She watched Paige reach out and touch Freddie’s arm, stopping his pacing instantly. The evidence was right there in the parking lot. "Okay," Ellen said finally. "The Queen bed. It’s theirs." "Good," Jessica smiled, sliding out of the booth. "Now let's get them home."
+
+## 14:00 PM
+
+The parking lot of Zane's Market was bright under the afternoon sun. Jessica walked Ellen to the station wagon. "We have a deal," Jessica whispered to Paige as she hugged her goodbye. "The Queen bed is approved. Mom is on board." Paige’s eyes widened, then softened with immense relief. "Thank you, Jess." "Just get him to June," Jessica said. "Then you guys come back to the Iron City."
+
+She turned to Freddie. "Check your email, Navigator. The manual is there." "Affirmative," Freddie said. He looked at her nose. "Your assistance was... critical. Thank you."
+
+Jessica waved as she walked back to her silver Avalon. She didn't look back. She had her own drive to make—back to the mountains, back to the future she was building for all of them.
+
+## 14:15 PM
+
+"Shotgun!" Aunt Linda announced, jingling the keys. "Ellen, you look like you’ve been through a war. You sit. I drive. I know the way." "Thanks, Linda," Ellen said, sinking into the passenger seat. She adjusted the recline, closing her eyes almost immediately.
+
+Freddie and Paige climbed into the back seat. The station wagon smelled of stale french fries and Aunt Linda’s floral perfume. "Buckle up, buttercups!" Aunt Linda chirped, adjusting the rearview mirror. "We are taking the scenic route... or at least the interstate route. I-64, here we come!"
+
+The engine turned over. Aunt Linda pulled out of the Zane's lot, merging onto the connector road. As they hit the highway, heading east toward Richmond and the sea, the dynamic in the car shifted. In the front, Aunt Linda was a chatterbox, filling the silence with updates about her bingo league and her neighbor’s cat. "And then Mrs. Gable said the prize pot was only fifty dollars, can you believe that? For a blackout round!"
+
+In the passenger seat, Ellen was checked out. She wasn't sleeping, but she was in "Power Saving Mode," staring blankly at the passing trees, letting her sister’s voice wash over her like white noise.
+
+In the back, a separate universe existed. Freddie sat behind the driver. Paige sat behind the passenger. But the middle seat was not a barrier; it was a bridge. Freddie leaned toward the center. Paige did the same. Their knees pressed together—a solid, constant point of contact. Paige reached over and took Freddie’s hand, lacing her fingers through his. She rested their joined hands on the seat between them.
+
+"The Queen bed," Freddie whispered, so low that Aunt Linda couldn't hear him over her story about the cat. "Variable confirmed," Paige whispered back, squeezing his hand. "No more Twin. Maximum surface area." "And the Decoy," Freddie noted. "Security through obscurity." "Exactly," Paige smiled.
+
+Freddie looked out the window. The mountains of the Shenandoah Valley were receding in the distance, fading into the blue haze. He was leaving the Iron City. He was leaving the Terminal and the Stomp. He was going back to the flat, humid, noisy reality of Virginia Beach. But he wasn't going back the same. He had a diagnosis. Autism. He had a manual. And he had a Queen bed waiting for him.
+
+"Look at that truck!" Aunt Linda exclaimed, pointing at a massive Iron-Haul semi passing them on the left. "That thing is huge!" "Class 8 Heavy Duty," Freddie murmured automatically. "Turbo-diesel. High torque." Paige rubbed her thumb over his knuckles. "We're good," she whispered. "We're good," Freddie agreed.
+
+The station wagon sped down I-64, carrying the Avery unit back to the coast, ready to face the divorce, the graduation, and the future.
+
+
+

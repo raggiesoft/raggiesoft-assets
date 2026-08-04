@@ -1,0 +1,74 @@
+# Part 1: The Latchkey Captain – 8:30 AM
+
+Waking up was a slow, agonizing process.
+
+I opened my eyes to the morning sunlight streaming through the window directly above my head. For a brief second, my brain couldn't process why my left arm was completely numb, or why I was pressed so tightly against the wall that I could trace the texture of the plaster with my nose.
+
+Then, the events of yesterday came crashing back. The Dojang. Master Curtis. Rachel's voice. *Return of the Guardians*.
+
+I tried to shift my weight, and my entire lower body instantly seized in protest. The heavy physical exertion of the Dojang, combined with sleeping contorted against the wall on a twin mattress, had sent my CP spasticity into overdrive. My hamstrings felt like tightly coiled steel cables. I let out a sharp, involuntary groan.
+
+The sound woke Jessica.
+
+She was still balancing precariously on the absolute edge of the mattress. She blinked her eyes open, squinting against the sunlight, and stared at the ceiling. She slowly turned her head, looking at me pinned against the wall, and then down at Rachel, who was still fast asleep, completely sprawled out across my chest.
+
+At the foot of the bed, Archie the Lab lifted his head, his tail giving a lazy thump against the quilt.
+
+"Oh, man," Jessica croaked, rubbing her face with her hands. She carefully swung her legs over the edge of the bed and stood up, immediately wincing and pressing a hand to her lower back. "I feel like I got hit by a truck."
+
+"My legs are stuck," I rasped quietly, not wanting to wake Rachel.
+
+Jessica stretched her arms over her head, her spine letting out a series of tiny pops. "Yeah, no kidding. We just spent eight hours folded like origami."
+
+She walked over to my bedroom door and peeked out into the hallway. The house was completely silent, save for the hum of the refrigerator downstairs.
+
+"Mom and Dad are already gone," Jessica announced, turning back to me with a satisfied smirk. "Mom's shift ends at five, and Dad doesn't get off until seven. Which means I am officially in charge."
+
+At fourteen, Jessica loved being the latchkey captain. It meant she controlled the television schedule, the snacks, and the flow of the day.
+
+Rachel stirred at the sound of Jessica’s voice. She blinked her dark eyes open, her messy hair sticking up in wild directions. She looked up at me, then over at Jessica, processing the fact that she had successfully hijacked my bed for the entire night.
+
+A slow, sleepy smile spread across her face.
+
+"Morning," Rachel whispered. Her voice was incredibly raspy, the vocal cords stiff and exhausted from their massive debut the night before, but she still forced the word out.
+
+"Morning, Rachel," Jessica smiled warmly. She walked back over and gently poked Rachel’s shoulder. "Alright, listen up. As acting captain of the Delaney Street house, I have my first official order of business. Ashley and Melissa are coming over right after breakfast to hang out. So, get moving. Jeans and t-shirts. We are not greeting the Raybourn cavalry looking like we just rolled out of a dumpster."
+
+Rachel nodded eagerly, immediately motivated by the promise of company.
+
+"Good," Jessica said, clapping her hands together. "Rachel, get dressed, then you are in charge of feeding the dogs. Michael, you just focus on un-pretzeling your legs. I am going to make breakfast. Meet you guys downstairs in fifteen minutes."
+
+It took me a solid five minutes to get my muscles to cooperate enough to stand. Rachel waited patiently, already pulling a fresh t-shirt out of her dresser drawer, while I slowly stretched out the agonizing cramps in my calves. Once we were both washed up and dressed in comfortable day clothes, we made our way out into the hallway.
+
+Baby, the massive Great Dane-sized Lab, was completely blocking the top of the stairs, fast asleep. We had to carefully step over his enormous, rising-and-falling ribcage to get down to the first floor. Archie trotted right behind us, proudly carrying a bright yellow plastic ring in his mouth this morning, offering it to Rachel as soon as we hit the linoleum of the kitchen.
+
+"Good boy, Archie," Rachel rasped, giving him a thorough scratch behind his ears.
+
+She walked over to the laundry room, dragging a small step stool over to the heavy plastic dog food bin. She unlatched the lid and used a plastic scoop to fill their metal bowls, completely unfazed by the two black Labs aggressively nudging her knees in anticipation.
+
+I sat down heavily at the kitchen table. My legs ached, but the atmosphere in the house was incredibly light.
+
+Jessica was standing at the stove, humming the theme song from *Return of the Guardians* as she scrambled a massive pan of eggs and dropped bread into the toaster. The smell of melting butter and toasted bread filled the kitchen, instantly making my stomach rumble.
+
+Rachel finished her chores, returning the scoop to the bin, and climbed into the chair next to me. Archie immediately sat at her feet, his yellow plastic ring clamped firmly in his jaws.
+
+Jessica set a massive plate of scrambled eggs and buttered toast in the center of the table, grabbing three forks from the drawer. We didn't bother with individual plates. We just dragged the serving dish to the middle of the table and ate together.
+
+As I chewed a piece of toast, my mind drifted back to last Saturday. It felt like a lifetime ago, but it was exactly the kind of day that defined how our world operated.
+
+Uncle Jim and Miss Joan had loaded all of us—me, Rachel, Jessica, Ashley, and Melissa—into their massive family van and driven us up to James City County for a full day at *Brewster Gardens: The Old World*.
+
+We had spent eight hours running completely wild through the European-themed villages. I remembered the sheer adrenaline of standing in line for the massive, intertwining roller coaster in the 'Scotland' section. Ashley had been my ride partner. When the coaster crested the highest hill and plunged down the track, Ashley had screamed with absolute, terrified joy and grabbed my hand, squeezing my fingers tight. Later that afternoon, when I managed to successfully knock down the heavy wooden blocks at a carnival game in the 'Germany' section and won a stuffed animal, Ashley had thrown her arms around my neck in a massive, crushing hug of pure excitement.
+
+I hadn't frozen. I hadn't pulled away, and I hadn't felt awkward. I had just laughed and hugged her right back.
+
+Ashley wasn't blood, but she was pack. The physical affection between us was loud, enthusiastic, and entirely safe. It was the absolute baseline of how I understood love outside of my immediate family. There were no hidden motives, no jealousy, and no twisted rules—just the absolute certainty that we protected and celebrated each other.
+
+"Earth to Michael," Jessica laughed, waving her fork in front of my face. "You're zoning out."
+
+"Just thinking about the roller coasters at Brewster Gardens," I smiled, shaking off the memory and grabbing another piece of toast.
+
+"Well, eat up," Jessica ordered playfully. "The Raybourns are going to be here any minute, and we have a lot of lounging around to do."
+
+The Dojang was behind us, the house was ours, and for the first time in my life, I didn't feel the need to brace myself against the day. It was just a Wednesday in August, and everything was exactly as it was supposed to be.
+

@@ -1,0 +1,62 @@
+# Part 1: Kehr’s Sign – 7:30 AM
+
+The gray light of dawn slowly transitioned into the harsh, uncompromising brightness of Saturday morning.
+
+Dad hadn't slept a wink. He was still sitting in the uncomfortable vinyl recliner stationed directly between our beds, his bloodshot eyes locked onto the heavy glass door of the trauma bay. His stomach let out a loud, hollow rumble that seemed to echo over the steady beeping of the monitors. He hadn't eaten anything since lunch on Friday, but when a passing orderly offered to watch the room so he could run down to the cafeteria, Dad didn't even blink.
+
+"I'm not leaving this perimeter," Dad rumbled quietly, his voice raspy from exhaustion. "I don't care if I starve."
+
+I shifted slightly against my mattress. My core felt incredibly heavy, bogged down by the continuous drip of the IV muscle relaxant, but the sharp, white-hot tear of the fascia was somewhat muted.
+
+I looked across the gap at Rachel. Our hands were still laced together over the metal railing.
+
+Suddenly, Rachel’s fingers tightened around mine like a vice.
+
+It wasn't the slow, unconscious squeeze of a bad dream. It was a sharp, frantic clench. A low, jagged groan ripped through her teeth, her small body pulling into a rigid curl on the mattress.
+
+"Rachel?" Dad was out of the chair instantly, hovering over her bed. "Hey, baby, what is it? Is it the ribs?"
+
+Rachel couldn't answer. Her eyes were squeezed shut, and she was taking rapid, terrified, shallow breaths. She let go of my hand and reached her right arm across her body, desperately clutching her left shoulder.
+
+"My shoulder," Rachel gasped out, the situational mutism breaking under the sheer, blinding panic of the pain. "It burns. It hurts so bad."
+
+Dad slammed his hand onto the red call button taped to the bed rail.
+
+Within seconds, the glass door slid open, and Nurse Sarah rushed in, followed almost immediately by the trauma attending physician from the day before.
+
+"What's happening?" the doctor asked, immediately moving to Rachel's monitors.
+
+"She woke up groaning," Dad explained rapidly, stepping back just enough to let them work, but staying within arm's reach. "She's clutching her left shoulder. Is it her ribs? Did she shift wrong in the night?"
+
+The doctor looked at where Rachel’s hand was gripping her left shoulder. His face instantly went tight with clinical concern. He pulled out his stethoscope and gently pressed it to her chest, listening to the rapid, shallow hitching of her lungs.
+
+"It's not just the ribs," the doctor said, his voice lowering into a serious, urgent register. He looked at Nurse Sarah. "Call down to radiology. I need the portable ultrasound machine back up here immediately."
+
+"What is it?" Dad demanded, the terror bleeding back into his voice.
+
+"It's called Kehr's sign," the doctor explained, keeping a steady, calming hand on Rachel's uninjured right arm. "Tom, the spleen sits right up against the diaphragm. When that man crushed her abdomen, he bruised her spleen, but he also caused a subcapsular hematoma—a pocket of bleeding trapped just underneath the outer membrane of the organ."
+
+The portable ultrasound machine rolled into the room. The doctor quickly applied the gel and ran the wand gently over the left side of Rachel's dark, bruised stomach. He stared at the black-and-white monitor, his jaw tightening.
+
+"Just as I suspected," the doctor sighed, wiping the gel away. He turned to Dad. "The hematoma is swelling. It hasn't ruptured the capsule, which is the good news. But as it swells, it pushes upward, severely irritating the diaphragm. The phrenic nerve runs from the diaphragm straight up to the left shoulder. That's why she feels a burning pain in her shoulder, and why it hurts so incredibly bad to breathe right now."
+
+I watched Rachel cry silent, agonizing tears, her small chest barely moving as she tried to avoid triggering the pain.
+
+"Does she need surgery?" Dad asked, his hands shaking.
+
+"Not right now," the doctor replied. "If we operate on a spleen, the standard procedure is usually to remove it entirely. For an eight-year-old, losing the spleen severely compromises the immune system for life. We want her body to heal this on its own, to reabsorb that trapped blood."
+
+"How long?" Dad asked, the protective steel in his voice preparing for a fight.
+
+"A very, very long time," the doctor answered plainly. "If she twists her torso, if she falls, or if she takes a deep, sudden breath that puts too much pressure on that swollen capsule... it will rupture, and she will be rushed straight into the OR to stop the bleeding. Because of this swelling, her recovery timeline is no longer a matter of weeks. She is looking at a minimum of four solid months of absolute, strict physical restriction."
+
+The weight of the prognosis dropped over the room like a lead blanket. Four months. An entire semester of school, of childhood, completely wiped out by a single, malicious act on a linoleum floor.
+
+"No running, no jumping, no carrying heavy backpacks," the doctor continued. "She is grounded to a couch or a bed until Christmas."
+
+Dad looked down at Rachel. The anger radiating off him was palpable, but he channeled every single ounce of it into a gentle, immovable presence. He reached down and carefully took her hand, smoothing her hair back with the other.
+
+"Four months," Dad whispered to her, a solemn, unbroken vow. "We can do four months. I'll carry you everywhere you need to go. You don't have to lift a finger."
+
+I reached my hand back across the gap between the beds. After a moment, Rachel let go of her shoulder and took it, lacing her fingers through mine. The pain was agonizing, and the road ahead was impossibly long, but the perimeter was secure.
+

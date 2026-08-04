@@ -1,0 +1,90 @@
+# Part 1: The Dual-Grid Dilemma
+
+## Date: December 12, 2003 Time: 10:00 AM Location: The Old Transport Van (Route 114, Portsmouth, Rhode Island)
+
+"It's a territorial dispute, Nikki," Patrick complained, steering the family’s aging Liberty Trekker van with one hand while holding up a small plastic card in the other. "It’s completely inefficient."
+
+Nichole sat in the back, locked into the old floor tracks. She let out a soft, amused *hummm*.
+
+It was a cold, grey December morning. For the last month, the twins had been practicing their transit runs, venturing further out into the grid. The freedom was incredible, but Patrick’s engineering brain had found a new enemy: bureaucratic redundancy.
+
+"We have the BTA Zone 15 RegionLink card," Patrick said, waving the smart card. "The most powerful transit card in the state. It works on the Metros, the trains, the ferries, and the Braxton buses. One tap, you're in."
+
+He dropped the card into the cupholder and picked up a laminated paper pass.
+
+"And then we have the OSTA pass," Patrick sighed, holding it up to the rearview mirror so Nichole could see it. "The Ocean State Transit Authority. They run the Route 60 right outside our house. Do they accept the BTA smart card? No. Do they even have a smart card reader? No. They are 'agency frenemies.' I have to carry *two* wallets just to get us to the ferry dock."
+
+Nichole watched him rant in the mirror. She rolled her eyes playfully. She reached for the mouse connected to her new Apex ConvertiBook and clicked.
+
+"FIRST. WORLD. COMMUTER. PROBLEMS."
+
+Her new custom-coded voice was crisp and clear, cutting through the rattle of the van’s suspension.
+
+"I know, I know," Patrick laughed. "But still. If I ever become a civil engineer, my first act is going to be forcing these two agencies to share a farebox."
+
+From the passenger seat, Uncle Mark chuckled, looking out at the passing storefronts of Route 114. "You can take that up with the Governor, Pat. For now, take the next right. Target acquired."
+
+Patrick signaled and turned the groaning, eighteen-year-old van into a massive asphalt lot.
+
+They weren't at a standard car dealership filled with balloons and sedans. This was a commercial vehicle center. Row after row of heavy-duty trucks, utility vans, and delivery chassis lined the lot.
+
+"The old van has served us well," Mark said, unbuckling his seatbelt as Patrick parked. "But the suspension is shot, and the lift whines like a dying cat. You guys are going to be making a daily run to a premier university next year. You need a premier rig."
+
+Patrick killed the engine and walked around to the side door. He hit the button for the hydraulic lift.
+
+*Clank. Whirrrrrrr-grind-grind-grind.* The heavy steel platform lowered to the pavement, shivering as it went.
+
+"Point taken," Patrick said, rolling Nichole out into the cold Rhode Island air.
+
+They walked into the massive, heated garage bay of the dealership. Waiting for them was a salesman in a heavy Carhartt jacket, holding a clipboard.
+
+"Mark!" the salesman called out. "Got her prepped for you. The 2004 model. Fresh off the conversion line."
+
+He led them to the center of the showroom floor.
+
+Sitting under the halogen lights was a massive, slate-grey 2004 Heavy-Duty Transit Van. It looked like a tank. It was a foot taller than their old van, with a raised fiberglass roof for maximum interior clearance.
+
+"No consumer-grade stuff here," Mark said proudly to Patrick and Nichole. "Commercial grade. V8 engine, reinforced suspension, and winter-rated all-wheel-drive. This thing doesn't care if it's snowing."
+
+"Let's see the entry vector," Patrick said immediately, his eyes locked on the side door.
+
+The salesman hit a button on his remote.
+
+The side doors didn't just slide open; they were motorized. As the doors parted, a brand-new, dual-arm hydraulic lift smoothly and silently extended from the floor. There was no grinding. No shivering. It hit the concrete floor with a soft, confident *thud*.
+
+"Commercial-grade lift," the salesman explained. "Nine-hundred-pound capacity. Diamond-plate traction. Fully automated."
+
+If anyone else had grabbed the push handles of the Titan AeroMotion without a warning, Nichole would have locked her brakes and gone into an immediate panic. Her chair was her personal space.
+
+But Patrick didn't ask permission. He was the only person on the planet who didn't have to.
+
+He grabbed the handles and rolled her right onto the lift.
+
+"Going up," Patrick said, hitting the control pendant.
+
+The lift raised them smoothly to the cabin floor. The ride was completely silent.
+
+Inside, the van was cavernous. The floor wasn't cheap carpet; it was a non-slip, industrial-grade rubberized surface that was incredibly easy to roll on. Flush-mounted Q'Straint L-tracks were embedded directly into the subfloor.
+
+Patrick rolled Nichole into the passenger position, right behind the front seats.
+
+"Look at the clearance, Nikki," Patrick whispered.
+
+In the old van, Patrick had to hunch over to lock her chair down, bumping his head on the ceiling. In this van, the raised roof meant Patrick could stand completely upright.
+
+Nichole looked around. It smelled like new plastic and potential. The windows were huge, offering a panoramic view. There was a dedicated climate control vent aimed right at her position.
+
+She wasn't cargo in the back of an old family station wagon anymore. She was riding in a mobile command center.
+
+Nichole reached for her mouse.
+
+"BUY. IT."
+
+Uncle Mark, who was looking in through the open side door, let out a booming laugh.
+
+"You heard the Boss," Mark said to the salesman, pulling a checkbook out of his heavy coat pocket. "Aegis Marine Defense is footing the bill on this one. Wrap it up."
+
+Patrick finished locking the brand-new tie-downs into the floor. He rested his hands on the back of Nichole’s chair, looking out the massive windshield of their new fortress.
+
+The Gap Year was proving to be exactly what they needed. They were upgrading every single piece of the machine.
+

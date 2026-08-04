@@ -1,0 +1,68 @@
+# Part 2: The Long Ride Home
+
+The ARTS *Empire Builder* pulled out of King Street Station, gathering speed as it began its long journey north towards Everett then east towards Chicago. Inside the small, private family sleeping quarters, the world had shrunk to a single, raw nerve of grief. The fortress was broken, and the two remaining members were trying desperately to hold the third together.
+
+On the platform, Olivia stood, a lone, stationary figure watching the train disappear. A thought, a desperate, selfish impulse, flickered in her mind. The train was going to Everett first. Everett was closer to Lynnwood than Seattle was. She could buy a ticket, get on board, and have another forty-five minutes with him. Just a few more precious moments.
+
+But she immediately crushed the thought, a fresh wave of tears blurring her vision. She knew, with an absolute and terrible certainty, that it would only make the final goodbye worse for him. It would be a cruel prolongation of his agony. The kindest, most loving thing she could do now was to let him go. With a final, choked sob, she turned away from the tracks and began the long, lonely walk towards the TAPS bus stop, her own journey home now a stark and joyless necessity.
+
+Meanwhile, on board the train, the meltdowns were not letting up. Not in the slightest. Now that Olivia was truly gone, a physical impossibility on a moving train, Leo's distress escalated. His cries were no longer just sounds of pain; they were raw, ragged howls of a soul being torn apart. He was inconsolable, thrashing in the small space, his body a tense, coiled spring of misery. He didn't want comfort; he wanted the impossible. He wanted Olivia.
+
+Just as the train cleared the platform, it plunged into the profound, sudden darkness of the Great Northern Tunnel. The last, precious pinprick of light that was Olivia, his entire world, was instantly and completely extinguished.
+
+The effect was catastrophic. The sudden sensory deprivation, the violent severing of his last visual link, turned the meltdown up to 11. His howls sharpened into something more desperate, more terrified.
+
+Luna, still trapped in her brother's emotional feedback loop, felt the shock of the tunnel and the subsequent spike in Leo's agony as if it were a physical blow. Her own silent, wracking sobs erupted into audible cries of anguish, her hands pressed hard against her ears as if to block out the sound of her own twin's pain.
+
+Stella was in a living hell. She was the guardian, the protector, but in this small, moving box, she was utterly powerless. Her heart was breaking for both of them. All she could do was try to contain the storm. She wedged herself on the small sofa, pulling a thrashing, grieving Leo into her lap, trying to provide a grounding, physical anchor, her arms wrapped around him in a fierce, desperate hug.
+
+"I know, buddy, I know," she murmured over and over, her own tears streaming down her face, her voice a useless balm against his catastrophic pain. "I know it hurts. I'm right here. I've got you."
+
+The train sped on, crossing bridges and plunging into tunnels, the majestic scenery of the Pacific Northwest a cruel, beautiful mockery outside their window. They had a long, long ride ahead of them, and the journey had just begun. The quiet, private room was not a sanctuary; it was a pressure cooker of grief, and Stella was trapped inside with the two people she loved most in the world.
+
+Her terror was twofold. She was in a living hell, watching her siblings suffer, utterly powerless to soothe their profound, intertwined agony. But a second, colder fear was now coiling in her gut. She kept glancing at the closed door of their compartment, her ears straining to hear footsteps in the narrow corridor. She was terrified that the conductor or their sleeping car attendant would come by to check on them.
+
+She imagined them hearing Leo's raw, ragged cries, seeing him thrash, seeing Luna's own inconsolable state. They wouldn't see a meltdown. They wouldn't understand. They would see two young adults in extreme, unexplained distress, and they would assume it was a medical emergency.
+
+The thought was a nightmare scenario. She pictured the train making an unscheduled stop in some small, remote town in the middle of the mountains. She pictured paramedics being called, her siblings being forcibly escorted off the train and taken to a strange, unfamiliar hospital, all because of a well-intentioned but catastrophic misunderstanding. She was their legal guardian, but how could she explain a dual autistic meltdown, fueled by profound grief, to a train conductor in the middle of a crisis? The logistical nightmare of being stranded, of trying to re-book a cross-country journey, all while trying to manage her siblings' trauma, was a very real and terrifying possibility.
+
+She had to get ahead of it. She had to have a tool, a script, ready for the inevitable knock on the door.
+
+Her mind, a well-oiled machine of crisis management, went into action. While still holding a thrashing, grieving Leo in her lap, she fumbled in her bag for a pen and a small notebook. Bracing the notebook against the wall of the swaying train, she began to write, her handwriting a frantic but legible scrawl.
+
+She wrote a quick, clear note, a pre-emptive strike against any potential misunderstanding.
+
+> To ARTS Conductor/Staff,
+>
+> Please excuse the noise. My brother and sister are both autistic. My brother has just experienced a profound emotional trauma (saying goodbye to his best friend), which has triggered a severe autistic meltdown. His twin sister is experiencing a sympathetic meltdown in response to his distress.
+>
+> This is NOT a physical medical emergency. They DO NOT need medical assistance.
+>
+> They are safe with me (their legal guardian). What they need most right now is time, quiet, and a private space for the "storm" of their grief to pass. We apologize for any disturbance and appreciate your understanding.
+>
+> Thank you,
+>
+> Stella Porter
+
+She tore the page from the notebook, folded it, and clutched it in her hand, her knuckles white. It was a fragile paper shield against a world that didn't understand. Now, if the knock came, she wouldn't have to try to explain over their cries. She could just hand them the note.
+
+This new fear, this desperate need to protect them from well-intentioned help, added a frantic, protective edge to her actions. She wasn't just trying to comfort them; she was trying to contain the storm within the four walls of their small room, praying that her note would be enough to hold the outside world at bay.
+
+This new fear added a frantic, desperate edge to her actions. She wasn't just trying to comfort them; she was trying to contain the storm within the four walls of their small room, praying that no one would notice, that they could just be left alone to ride out the hurricane of their shared heartbreak.
+
+The meltdowns were not letting up. Not in the slightest. Now that Olivia was truly gone, a physical impossibility on a moving train, Leo's distress escalated. His cries were raw, ragged howls of a soul being torn apart.
+
+Desperate to find something, anything, to cut through their shared agony, Stella reached for the small radio built into the room's control panel. They were still close enough to Seattle to pick up the local classic rock station. Thinking the familiar music might be a grounding distraction, she turned it on. After a brief burst of static, a gentle, instantly recognizable piano melody filled the small room.
+
+It was Odyssey. And the song was "Forever Yours."
+
+"...Highway run, into the midnight sun..."
+
+The effect was immediate and catastrophic. The song that had been their anthem of connection, of their shared promise, was now a cruel, perfect mirror of his pain. Olivia was gone, and their song was playing. For Leo, it was an unbearable sensory and emotional assault. His meltdown became even worse, his wails sharpening into something more desperate, his body thrashing with a new, frantic energy.
+
+And as his pain skyrocketed, so did Luna's. Her meltdown intensified in perfect, tragic synchrony with his, her silent sobs turning into audible cries of anguish.
+
+Stella realized her catastrophic mistake in a split second. The song meant to soothe had become an accelerant. She lunged across the small room and stabbed the power button on the radio, plunging them back into silence, but it was too late. The damage was done.
+
+The beautiful anthem was now forever seared into Leo's memory as a permanent, severe trigger, inextricably linked to this exact moment of profound loss. Stella pulled her two shattered siblings into a desperate embrace, her own heart breaking, now with the added weight of knowing her attempt to help had only made things infinitely worse.
+

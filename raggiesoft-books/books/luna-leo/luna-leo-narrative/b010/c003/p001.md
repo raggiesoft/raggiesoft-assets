@@ -1,0 +1,34 @@
+# Part 1: The Hijacked Plan
+
+Fall 2003 arrived, and with it, the approach of the mid-October long weekend many colleges observed as Fall Break around Columbus Day. The silences from Leo were becoming longer, the phone calls shorter and more stilted. Stella and Luna exchanged worried glances more frequently. Since Leo had effectively moved in with Delores and her mother across the river in Portsmouth, the communication had gradually dwindled, subtly throttled by Delores’s possessiveness. They missed him terribly, and beneath the missing him was a growing unease about his situation.
+
+“We need to see him, Lu,” Stella said one evening in early October, pacing her living room. “Properly. Not just these quick, awkward visits where *she’s* always hovering. His community college has that long weekend coming up for Columbus Day. We should get him over here.”
+
+Luna nodded emphatically from her spot at the MagnaByte table. “Just us. Like it used to be. A sibling weekend. Can we?”
+
+“We can try,” Stella agreed, determination hardening her expression. “He needs to know we’re still here. Let’s plan for that weekend. I’ll call him.”
+
+Stella called Leo the next day, catching him between classes. When she proposed the idea – “Hey, Leo, how about you come stay here next weekend? Friday afternoon through Monday morning? Just you, me, and Luna. We could watch movies, maybe order pizza…” – Leo’s reaction, communicated through his AAC device, was immediate and enthusiastic: YES! GREAT IDEA. MISS YOU BOTH. JUST US?
+
+“Just us,” Stella confirmed warmly, her heart lifting at his clear excitement. “Okay, I’ll plan on picking you up Friday after your last class.”
+
+Leo, thrilled at the prospect of a weekend escape and quality time with his sisters, likely shared the plan with Delores later that day, perhaps naively assuming she’d understand his need for family time, including the planned Monday morning return. Her reaction, however, was exactly what Stella and Luna had feared.
+
+The controlling possessiveness flared instantly. Delores likely questioned why he *needed* to go alone, framed it as him trying to get away from *her*, perhaps accused Stella and Luna of trying to interfere, and insisted that *if* he was going, *she* was going too. She wouldn't be left out; she needed to be there to "take care of him." Leo, trapped in the dynamic where arguing led to tension, intimidation, or guilt trips, and likely facing pressure from Delores's mother as well, found himself unable to refuse her insertion into the plan.
+
+His follow-up call to Stella later that evening was noticeably subdued. Using his device, he confirmed the weekend was still on (Friday pickup, Monday return), but then came the hesitant addendum: DELORES WANTS COME TOO. IS OKAY? SHE SAYS SHE HAS TO.
+
+Stella’s heart sank. She closed her eyes, frustration and anger bubbling up. Beside her, Luna, who had been listening eagerly, let out an audible groan of disappointment. “No! Stella, tell him no! It’s *our* weekend!”
+
+Stella held up a hand, signaling Luna to wait, though she felt the same frustration. She knew Leo wouldn’t have agreed to this unless Delores had made it impossible for him to refuse. Rejecting Delores now would likely mean Leo couldn’t come at all, severing even this compromised chance to see him. It felt like a trap, and Delores held all the cards.
+
+“Okay, Leo,” Stella said into the phone, forcing a neutral tone that cost her considerable effort. “Okay. If… if Delores needs to come too, then she can come. We’ll make room. The important thing is that we get to see *you*. We’ll pick you both up Friday afternoon.”
+
+After hanging up, Stella relayed the situation to Luna.
+
+“She just *invited* herself?” Luna fumed, pacing angrily. “And you said *yes*?”
+
+“It was that or Leo couldn't come at all, Lu,” Stella explained, exhaustion clear in her voice. “She's tightening the screws. This was the compromise. We get him Friday from class straight through to Monday morning. She just... comes too.”
+
+Luna retreated into angry silence, grabbing her headphones. The planned sibling weekend had been hijacked before it even began, setting the stage for the days of simmering tension and forced proximity ahead.
+

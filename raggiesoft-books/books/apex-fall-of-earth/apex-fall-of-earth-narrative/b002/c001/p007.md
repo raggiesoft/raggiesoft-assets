@@ -1,0 +1,26 @@
+# Part 7: The Divide – Thursday, October 20, 2044 – ~04:40
+
+Sarah stepped out into the neon-lit corridor, clutching her damp towel, and was immediately swept up in a massive tide of Apex contractors heading toward the Sector 1 Mess Hall.
+
+The noise of the room hit her like a physical blow. It was a deafening, echoing roar of overlapping conversations and scraping metal benches, underscored by the heavy, vibrating hum of the facility's air scrubbers.
+
+The Mess Hall was a cavernous concrete bunker, packed shoulder-to-shoulder. Above the sea of intimidating black and hazard-yellow armor, a massive digital billboard glared down at them, looping an aggressive corporate advertisement for the S.H.O.P. program. Walking through the center of it in her bright slate-blue Helios uniform, Sarah felt entirely exposed.
+
+She kept her head down, filtering into line at the wall dispensers. When she reached the front, she tapped her new *C0-BASIC* badge against the reader. The machine ground loudly, clunking as it dispensed a dense, gray brick of synthetic nutrient paste onto a stamped metal tray. The smell of yeast and artificial flavoring hit her nose, and her stomach immediately turned over.
+
+She grabbed a plastic spork and turned around, desperately searching for an empty spot to sit.
+
+As she scanned the room, her eyes caught on a thick wall of reinforced plexiglass on the far side of the hall. Through the transparent barrier, the lighting shifted to a warmer, softer amber. Inside, men and women in crisp lab coats were sitting in actual chairs with backrests, drinking from ceramic coffee mugs and eating food that actually resembled a meal.
+
+Sarah stared through the glass, a profound, crushing weight settling on her chest.
+
+That was where she was supposed to be. That was the life the Helios recruiter had sold her—a safe, academic environment filled with bright minds and collaborative research. Instead, she was standing on the wrong side of the glass, holding a tray of gray paste, surrounded by hardened mercenaries who looked at her like she was a walking target.
+
+Unable to look at the scientists any longer, Sarah squeezed her way to the far edge of the room and found a few inches of space at the end of a bolted metal bench.
+
+She sat down, staring at her tray, poking the gray nutrient brick with her plastic spork. She looked slightly green. Between the claustrophobia of the bunker, the horrifying reality of the hot-bunking rotation, and the smell of the synthetic food, the weight of her eighteen-month contract was visibly crushing her.
+
+She forced herself to swallow two bites, knowing she would pass out if she didn't get the calories. When she couldn't stomach another mouthful, she stood up, tossed the metal tray into the magnetic reclamation bin, and headed for Sector 1: Security Processing.
+
+It was time to face whatever came next.
+

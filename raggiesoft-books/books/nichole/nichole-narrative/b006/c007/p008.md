@@ -1,0 +1,123 @@
+# Part 8: The Upgrade
+
+## Date: July 7, 2003 Time: 11:00 AM Location: CyberWorld Electronics, Bald Hill Road, Warwick, Rhode Island
+
+Bald Hill Road was the commercial artery of suburban Rhode Island—a four-lane stroad lined with car dealerships, strip malls, and big-box retailers.
+
+Uncle Mark parked his sedan in front of CyberWorld Electronics. It was a massive concrete box with a red neon sign buzzing in the humid July air.
+
+"Alright, kiddo," Mark said, turning off the ignition. "We got the apartment plan settled. Now we need to settle the hardware. That brick on your tray is older than my car."
+
+Patrick lowered the van’s lift next to Mark’s car. Nichole rolled out, looking at the store entrance.
+
+Inside, the store smelled of ozone, anti-static plastic, and floor wax. It was a cavern of consumption. Walls of televisions played the same news channel in sync. Rows of compact discs stretched to the back.
+
+But Nichole was focused on the center aisle: Computing.
+
+A sales associate named "Justin"—wearing a blue polo and pleated khakis—spotted the purple Titan AeroMotion. He saw the heavy, battered VocaLink mount. He smiled the smile of a man who thought he was about to be helpful.
+
+"Welcome to CyberWorld," Justin chirped, stepping into their path. He looked at Patrick. "Are we looking for something simple today? Maybe a MagnaByte for education? Or we have some great oversized keyboards for special needs..."
+
+Nichole didn't look at Justin. She didn't slow down.
+
+She tapped her armrest twice. *Forward.*
+
+Patrick didn't break stride. "We're good, man. Just browsing specs."
+
+He steered Nichole right past the "Home & Family" aisle with its colorful, underpowered desktops. They rolled past the "MagnaByte" section with its translucent fruit-colored computers.
+
+Nichole pointed a finger toward the back wall. The sign hanging from the ceiling read: BUSINESS SOLUTIONS & MOBILE COMPUTING.
+
+"Attagirl," Mark grinned, trailing behind them with a shopping cart. "Go for the high-octane stuff."
+
+They reached the display of laptops. In 2003, most laptops were heavy, black rectangles. But sitting on a lighted pedestal in the center was something new.
+
+The placard read: The Apex ConvertiBook 3500. Powered by Quantum OS XN Tablet Edition.
+
+It looked like a laptop, but the screen was connected by a single, heavy-duty central hinge.
+
+"Whoa," Patrick whispered, parking the chair. "I read about these in *ByteWorld Magazine*. It’s a convertible."
+
+He reached out and twisted the screen. It rotated 180 degrees and folded flat over the keyboard, transforming the device into a thick, powerful slate.
+
+Nichole’s eyes went wide. If they folded it flat... it was just a screen. No keyboard bulk getting in the way of her vision. No clamshell lid to block her view of the professor.
+
+"Touch it," Patrick murmured. "See if it's resistive."
+
+Nichole reached out. She didn't be gentle. She couldn't be.
+
+She struck the screen with her index finger—a solid, deliberate *thud*.
+
+The screen didn't crack. The plastic surface yielded slightly under the pressure—resistive touch—and the cursor jumped instantly to her finger. She double-tapped the My Computer icon.
+
+*Click-click.*
+
+The window snapped open instantly. No lag. No hourglass. The 1.3GHz processor ate the command for breakfast.
+
+Justin, the sales guy, had caught up to them. He looked nervous. "Uh, folks, that's a two-thousand-dollar machine. It's really designed for architects who use a stylus. The screen is... sensitive."
+
+Nichole ignored him. She looked at Patrick. She pointed to the heavy hinge.
+
+"I can strip the base," Patrick said, analyzing the chassis. "I can remove the keyboard half entirely, or just fold it flat and bolt the whole unit to your tray. It has industry-standard mounting holes on the bottom."
+
+Nichole tapped the screen again. She opened WritePad.
+
+She anchored her forearm on the display table. She hunted and pecked a sentence using the on-screen keyboard.
+
+I. WANT. THIS.
+
+"It runs Quantum OS XN," Patrick warned her. "The Pro edition. It's going to look different than 2000."
+
+Nichole shrugged. She tapped the screen again. I. LEARN.
+
+"Okay," Mark said, stepping up and resting his elbows on the display case. "We'll take it. Box it up."
+
+Justin blinked. "Sir, are you sure? We have the 'Apex Home' model for half the price—"
+
+"Did she point to the Home model?" Mark asked, his voice dropping into his flat Newport baritone.
+
+"No, but—"
+
+"Then she wants the ConvertiBook," Mark said. "Go get a box."
+
+Justin scrambled toward the stockroom.
+
+"One more thing," Patrick said. He looked at Nichole. "Input devices. You want to stick with the touchscreen only?"
+
+Nichole shook her head violently. The touchscreen was for talking. For coding—for the real work—she needed precision.
+
+She pointed to the accessory rack.
+
+Justin returned with the laptop box. "We also have trackballs," he offered, holding up a giant ball with oversized buttons. "Very popular for limited mobility."
+
+Nichole made a sharp *gah!* sound—the sound of pure disgust.
+
+She pointed a shaking finger at the bottom shelf.
+
+"That one?" Patrick asked.
+
+Nichole nodded.
+
+Patrick reached down and grabbed a standard, grey Quantum OptiMouse. It was optical—no rubber ball to clean—and had a scroll wheel and two standard click buttons.
+
+"She wants the mouse," Patrick told the salesman.
+
+Mark threw the mouse into the cart next to the high-end laptop.
+
+"Anything else, Nikki?" Mark asked her.
+
+Nichole looked at the pile of tech. A convertible tablet PC. A professional operating system. Standard input devices.
+
+She wasn't buying medical equipment. She was buying a workstation.
+
+She looked at her uncle. She reached out and patted his hand on the cart handle.
+
+She tapped her VocaLink for the last time that day.
+
+"THANK. YOU."
+
+"Don't thank me," Mark winked. "Just get a 4.0 GPA."
+
+"Let's roll," Patrick said, grinning as he grabbed the push handles. "We have an operating system to configure."
+
+

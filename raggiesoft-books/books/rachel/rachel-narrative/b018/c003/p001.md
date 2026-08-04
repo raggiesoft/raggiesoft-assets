@@ -1,0 +1,38 @@
+# Part 1: The Three-Day Math – 10:00 AM
+
+The morning sun filtered through the plastic blinds of Mom’s house on Criollo Drive, casting bright, geometric slats of light across the carpet. Despite the undeniable visual proof that the day was well underway, my internal clock was completely, stubbornly unresponsive to the Virginia daylight.
+
+I blinked my eyes open, staring up at the unfamiliar ceiling of the spare bedroom. It was Sunday, April 1st. In the outside, neurotypical world, it was April Fools' Day—a holiday entirely dedicated to unpredictability, sudden surprises, and practical jokes.
+
+But inside the walls of this house, the concept of a prank was strictly, absolutely forbidden.
+
+My nervous system was still entirely frayed from the psychological torture I had endured in Kent with Delores. The mere thought of a sudden loud noise, a hidden trap, or an unexpected shift in my environment was enough to make my chest seize in a blind panic. Rachel knew this intimately. Mom knew it, too. The house was locked down into a zero-surprise zone. We needed absolute, mathematical predictability to survive the weekend.
+
+I shifted my weight on the cramped, full-sized mattress. Beside me, Rachel groaned softly, her face pressed against my shoulder. Sleeping in our birthday suits had been the perfect countermeasure to the suffocating heat of the upstairs room the night before. Without the restrictive, heavy friction of pajamas, the pure, skin-to-skin deep pressure of her weight against my side had grounded my processing perfectly.
+
+"Morning, Bear," Rachel mumbled, her raspy voice vibrating against my collarbone as she slowly began to wake up.
+
+"Morning, Bug," I whispered back, my voice thick with sleep.
+
+We took our time, allowing our exhausted processors to slowly boot up. I carefully disentangled my arm from around her ribs, pushing the heavy, astronomy-themed comforter back. The cool morning air of the bedroom hit my bare skin, a sharp, refreshing contrast to the trapped heat of the mattress.
+
+I swung my legs over the edge of the bed, planting my bare feet firmly on the carpet. My CP-affected calves were incredibly stiff, the muscles tight from the cramped sleeping geometry and the lingering physical stress of the cross-country transit. I stood up, letting out a long, quiet groan as my knees popped.
+
+Rachel rolled over and slid off her side of the bed, entirely unbothered by her lack of clothing. For us, modesty was an arbitrary, neurotypical rule that had absolutely no place inside the security of our Base Camp. Being in our skin wasn't about anything other than physical comfort and absolute, unfiltered vulnerability. It was the ultimate proof that our perimeter was completely free of threats.
+
+We began to slowly pace the small footprint of the spare bedroom, walking around in our skin to get the blood flowing back into our tired limbs. The repetitive, bilateral movement of pacing the carpet helped work the stiff spasticity out of my legs. Rachel walked right beside me, stretching her arms high over her head, her dark hair a messy, static-filled halo.
+
+I glanced at the digital clock resting on the nightstand. The glowing red numbers read 10:00 AM.
+
+I let out a heavy sigh, rubbing my face with both hands. The biggest hurdle we were currently fighting wasn't emotional; it was biological.
+
+We had crossed three time zones flying from Seattle back to Norfolk. Biologically, the human body requires approximately one full day to adjust to every single time zone crossed. That meant we were facing a mandatory, three-day physiological recalibration before our circadian rhythms would fully sync with the East Coast.
+
+Today was only day one. Our brains still fundamentally believed it was seven in the morning, and the exhaustion was pooling heavily behind my eyes.
+
+"Three days," Rachel reasoned aloud, mirroring my exact calculations as she stopped pacing to stretch her lower back. "By Wednesday, the math will balance."
+
+"By Wednesday," I agreed, offering her a tired but genuine smile.
+
+We were physically drained, and we were effectively grounded in the suburbs for the day, but as we stood there in the quiet safety of the locked bedroom, the math finally felt manageable.
+

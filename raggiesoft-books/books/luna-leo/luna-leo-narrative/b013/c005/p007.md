@@ -1,0 +1,92 @@
+# Part 7: The Twin Frequency
+
+## July 27, 2006 The Grey Gull Inn - Carriage House (Master Bedroom) 10:15 PM
+
+The panic attack had passed, but the aftershocks were still vibrating in the room. The air felt heavy.
+
+Stella stood by the door. "Okay. Logistics. There's a King bed in here, two twins in the second room, and the pull-out."
+
+She looked at Leo, who was slumped against the headboard, his eyes unfocused and darting around the room. She looked at Luna, who was sitting on the edge of the mattress, her hand gripping Leo’s ankle so hard her knuckles were white.
+
+"Twins take the King," Stella commanded softly. "You need the space. And you need the contact."
+
+"I'll take the pull-out," Olivia volunteered immediately, grabbing a pillow. "Stella, you take the twin room with Eleanor."
+
+Stella nodded. She watched the twins. They weren't looking at her anymore. They were looking at each other. It was a look Stella had seen a thousand times since they were infants—a silent, high-speed data transfer that happened on a frequency she couldn't hear.
+
+"Lights out in ten," Stella whispered. She signaled Olivia, and they backed out of the room, closing the door until it was just a crack ajar.
+
+## The Calibration
+
+Inside the room, the silence wasn't empty; it was heavy with the static of the meltdown.
+
+Leo tapped his **Quantum Communicator** one last time before shutting it down for the night.
+
+*"SYNC MODE. FULL CONTACT."*
+
+Luna nodded. She turned off the bedside lamp, plunging the room into the soft blue darkness of the moonlit garden outside.
+
+They moved into position.
+
+This wasn't the "Fortress Pile" with Stella and Olivia. That was for external defense. This was internal repair. This required maximum pressure and absolute connection.
+
+Leo lay flat on his back in the center of the mattress.
+
+Luna didn't lie next to him. She climbed onto the bed and lay directly on top of him, stomach-to-stomach.
+
+She settled her weight onto him completely. It wasn't just a hug; it was a structural lock.
+
+- **Legs:** She hooked her legs inside his, their shins and ankles interlocking to ground his lower body and stop the tremors in his hip.
+
+- **Arms:** She wrapped her arms tightly around his torso, gripping his back. Leo wrapped his arms around her, locking his hands at the small of her back.
+
+- **Torso:** Her chest pressed against his, weight-for-weight, matching the rhythm of his diaphragm.
+
+But the most important part was their faces.
+
+Luna propped her chin on her hands (or just hovered slightly), looking directly down at him. Leo looked up.
+
+They were inches apart. Eye to eye.
+
+In the dark, they could see the reflection of the moon in each other's pupils.
+
+*Breathe.*
+
+Leo took a ragged breath. He felt Luna’s chest rise with him. The weight of her body forced his lungs to work harder, slowing his respiration down, forcing the panic out of his system through pure physics.
+
+*Breathe.*
+
+Luna stared into his eyes. She wasn't looking *at* him; she was looking *into* him, anchoring his drifting consciousness back to the present moment.
+
+*I am here. You are here. We are real.*
+
+The feedback loop was established. The static noise of the world—the fear of the deed, the ghost of Delores—couldn't survive in the closed circuit of their connection.
+
+Luna hummed. It wasn't a song. It was a low, resonant tone deep in her chest, vibrating directly into his sternum.
+
+*Mmmmmm.*
+
+Leo felt the vibration travel through his ribs and into his heart. He hummed back, a lower octave, the sound rumbling in his throat.
+
+*Mmmmmm.*
+
+It was their sonar. It was the signal that said the walls were holding.
+
+## The Watchers
+
+Out in the hallway, Stella and Olivia stood in the shadows, listening to the silence settle over the room.
+
+"They okay?" Olivia whispered.
+
+Stella peeked through the crack in the door. She saw the silhouette on the bed—one shape made of two people.
+
+"They're calibrating," Stella whispered back. "Full lock. Stomach to stomach."
+
+"It's intense," Olivia murmured.
+
+"It's survival," Stella said, pulling the door gently until it clicked, engaging the latch but leaving it unlocked. "Gravity and pressure, Liv. It’s the only thing that stops the spinning."
+
+Inside the room, the twins slept, locked together in a tangle of limbs and shared breath. The Ghost of Delores Mahone halted at the property line, unable to breach the absolute density of their connection.
+
+They were safe. They were grounded. And tomorrow, the moving truck would arrive.
+

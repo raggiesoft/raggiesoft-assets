@@ -1,0 +1,80 @@
+# Part 1: The Expanding Perimeter – Sunday, August 12, 2063 – 10:00 (Local Eden Time)
+
+The sprawling residential living room of The Sanctuary had transformed into a major logistical staging ground.
+
+Five years had passed since the first Genesis cohort was decanted, and the mountain fortress was buzzing with the vibrant, chaotic energy of a thriving, growing civilization.
+
+Over by the heavy blast doors leading to the pneumatic elevators, the Colton family's heavy machinery was currently hard at work. At ten years old, identical twins Tyler and Evan had fulfilled every ounce of their genetic destiny. They were massive, their broad shoulders and thick biceps straining against their dark canvas t-shirts as they hauled heavy, molecularly printed crates of infant formula and micro-diapers from the cargo lift.
+
+"Form is slipping, Evan," Tyler grunted, his deep voice echoing across the stone floor as he easily hoisted a hundred-pound crate onto his shoulder, his pre-teen muscles flexing impressively. "Keep your core tight. Don't rely on your back."
+
+"My core is perfectly stabilized, Tyler," Evan countered smoothly, effortlessly matching his brother's immense lift and adjusting his grip. "Just ensure your footing is clear. We have twenty new assets to supply."
+
+They set the crates down with a heavy, synchronized *thud*, wiping the sweat from their brows and trading a fierce, competitive grin.
+
+Across the room, the senior command staff observed the logistics with quiet, unshakeable authority.
+
+At seventeen years old, the Vanguard were practically adults, and their dynamic had evolved into an impenetrable, self-sustaining organism. Leo Colton sat in the center of the room in his brand new, adult-sized tactical powerchair. Wyatt had engineered the massive titanium rig with a specialized, gross-motor joystick and heavy-duty, shock-absorbing suspension. But despite the chair's independent capabilities, Leo rarely drove it himself.
+
+He didn't have to.
+
+Nora stood directly behind his seat. Her custom titanium forearm crutches were holstered in the magnetic clips on the side of the chair. At seventeen, she heavily preferred to simply hold onto the ergonomic push-handles of Leo's powerchair, leaning her weaker left side against the heavy frame for balance. It kept her anchored, and it kept her brother perfectly calm.
+
+Standing on his left was Ellie. The seventeen-year-old commanding officer wore a tailored, lightweight ballistic vest over her dark shirt. Over the last five years, as Wyatt and Sarah focused on expanding the village down in the valley, Ellie and Nora had completely, fiercely assumed the mantle of Leo's daily physical care.
+
+It was an absolute, unspoken law of the Vanguard. Wyatt and Sarah were no longer permitted to bathe, dress, toilet, or feed their son. The sisters had claimed the responsibility as their highest honor. They knew exactly how Leo liked the water temperature; they knew exactly how to navigate his spastic, rigid muscles to dress him without causing him pain; and they intuitively understood his unspoken sensory boundaries. They guarded his dignity with the ferocity of an armed perimeter.
+
+Leo let out a low, deep, baritone purr of contentment, his broad shoulders relaxing as Nora rested her chin gently on the top of his head. He reached his shaking, spasming hand down to his lap tray, expertly slapping his customized AAC tablet.
+
+*"The supply line is efficient,"* Leo's deep, synthesized voice announced, praising the younger twins.
+
+"Perimeter is green," Ellie agreed, offering Tyler and Evan a sharp, highly respected nod.
+
+But the true center of gravity in the living room was nestled on the oversized leather sofa.
+
+Thirteen-year-old Jack Colton, the family's brilliant, incredibly empathetic diplomat, was sitting cross-legged, a digital datapad resting on his lap. Leaning completely against his side, her dark eyes wide with absolute fascination, was a five-year-old girl with a shock of dark hair.
+
+Willow Jane Campbell—the final infant Jack had named on Arrival Day five years ago—was entirely attached to him. She was Jack's absolute shadow, trailing him through the mountain estate and the timber cabins of the valley with unwavering devotion.
+
+"So, when the new little ones wake up, are they gonna live in the village with us, Jack?" Willow asked. Her voice was bright, energetic, and rolled with a thick, completely authentic, sunlit Sydney accent, perfectly mirroring the holographic educator Aria had assigned to her cohort. "Because I reckon my cabin has enough room for a few more cots."
+
+"They'll stay up here in the mountain for the first few years, Willow," Jack explained patiently, his melodic voice incredibly soothing. He swiped the datapad, showing her a diagram of the newly expanded nursery. "The mountain is safer for babies. But when they're big enough, we'll build them their own cabins right next to yours down in Genesis."
+
+"That's brilliant, that is," Willow grinned, resting her head against Jack's arm.
+
+Standing immediately behind the sofa, watching the exchange with hawk-like intensity, were eleven-year-old Molly and Claire.
+
+The twin girls were Jack's personal, fiercely devoted praetorian guard. They adored their older brother, and by extension, they had extended their absolute, uncompromising protection over Willow.
+
+As Tyler walked a little too close to the sofa carrying a fresh crate of supplies, Molly instantly stepped forward, physically blocking his path.
+
+"Maintain your distance, Tyler," Molly warned, her dark eyes sharp. "The floorboards are vibrating. You are disrupting Jack and Willow's reading perimeter."
+
+"Apologies," Tyler grunted, immediately correcting his path to give the sofa a wide, respectful berth. Claire watched him go, ensuring the threat was fully neutralized before stepping back into formation beside her sister.
+
+The heavy brushed-steel doors of the pneumatic elevator hissed open.
+
+Wyatt and Sarah Colton stepped into the living room, their faces etched with a profound, beautiful exhaustion. At forty-two and thirty-six, the founders of Planet Eden had gray touches at their temples, but their posture radiated the absolute triumph of a battle won.
+
+"Alright, squad," Wyatt rumbled, his deep voice carrying across the room as he wrapped a heavy, scarred arm around Sarah's waist. He looked at his seven incredible children, and the five-year-old girl who was essentially their adopted sibling. "The decanting sequence is officially complete. Sub-Level 6 is secure."
+
+Sarah leaned her head against Wyatt's shoulder, wiping a stray tear of joy from her cheek. "Twenty perfectly healthy babies. Ten boys, and ten girls."
+
+Jack looked down at Willow, a massive smile breaking across his face. "Twenty new neighbors."
+
+"Aria," Wyatt called up to the ceiling array. "Initiate the cultural matrix for Cohort Two. Let's make sure the new nursery is dialed in."
+
+There was a microsecond of processing silence.
+
+When the AI spoke, the warm, synthesized American baseline and the bright, rolling vowels of Sydney were entirely gone.
+
+*"Right you are, Administrator,"* Aria’s new voice echoed through the living room. It was sharp, incredibly rhythmic, and distinctly working-class British. The AI had seamlessly adopted a flawless, light Cockney accent. *"The twenty little sparrows are officially out of the nest and tucked into their incubators. Vitals are completely sorted. We've got a brilliant batch of East Enders on our hands today, guv'nor."*
+
+Wyatt let out a booming, chest-deep laugh that vibrated off the stone walls. Five years ago, it had been jarring to hear the sounds of Earth echoing in the mountain. Today, it was the sound of a thriving, brilliantly diverse civilization taking root.
+
+"I love it," Sarah beamed, looking at the Vanguard. "Ellie, are the supply lines ready?"
+
+The seventeen-year-old commanding officer squared her shoulders. She looked at her massive enforcer brothers, her diplomatic brother, her fiercely protective sisters, and the core of her unit humming happily in his powerchair.
+
+"Base is secure, Mom," Ellie declared, her dark eyes flashing with absolute readiness. "Bring on the recruits."
+

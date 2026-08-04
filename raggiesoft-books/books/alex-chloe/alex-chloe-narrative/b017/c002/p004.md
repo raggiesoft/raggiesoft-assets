@@ -1,0 +1,41 @@
+# Part 4: The Fever Breaks
+
+The first week of their quarantine had been a descent into a feverish, anxious hell. The second week began with a fragile, terrifying stability. Alex's condition hadn't worsened, but it wasn't improving either. His fever held steady, a low-grade fire that sapped his strength. Megan was a few days ahead of him on the recovery curve, her own fever having been less severe, but the bone-deep fatigue still clung to her. Chloé continued her tireless vigil, her own exhaustion held at bay by pure adrenaline and love.
+
+The first sign of hope came on the seventh day. Chloé took Megan's temperature, as she did every morning. For the first time in a week, the thermometer beeped with a number below one hundred: 99.1°F.
+
+"Meg, look," Chloé whispered, a fragile, hopeful smile touching her lips for the first time in days. "It's going down."
+
+Megan, who had been dozing, blinked her eyes open, a new clarity in them. "Really?" she rasped. "I do... I do feel a little better." It was a small victory, but in the suffocating atmosphere of the apartment, it felt monumental.
+
+Two days later, the real miracle happened. The ninth day of their isolation began like all the others. Chloé woke on the small air mattress she’d set up on the floor beside their bed, her first action, as always, to check on Alex. She reached out to feel his forehead, expecting the familiar, worrying warmth.
+
+But this time, it was different. It was cool.
+
+Hope, a feeling so sharp it was almost painful, shot through her. She quickly grabbed the digital thermometer.
+
+"Alex, honey, wake up for just a second," she whispered.
+
+He stirred, his eyes fluttering open, clearer and more focused than they had been in days. She slipped the thermometer under his tongue and waited, her heart pounding. It gave its final, definitive chirp.
+
+She pulled it out and stared at the number: 98.7°F.
+
+Normal. It was normal.
+
+A choked sob of pure, unadulterated relief tore from her throat. She sank onto the edge of the bed, tears she hadn't allowed herself to cry for nine days finally streaming down her face. "Alex, it's over. The fever broke."
+
+He looked at her, then seemed to take stock of his own body. The crushing, bone-deep ache had receded. The heavy weight on his chest felt a little lighter. He was weak, but he wasn't sick anymore. He was on the other side of the fire.
+
+He reached a shaky hand towards his AAC device. It was the first time he’d had the strength or the clarity of mind to even think about it. Chloé helped him, and he slowly typed a single, perfect word.
+
+HUNGRY.
+
+Chloé let out a sound that was half-laugh, half-sob. "Hungry," she repeated, the word the most beautiful music she had ever heard. "Okay. Yes. I can do hungry."
+
+The recovery was slow and gradual. His strength returned in small, precious increments. A week after his fever broke, all three of them used an at-home test. The result was three separate, beautiful, glorious single lines: Negative. The quarantine was over.
+
+That afternoon, they did something that had been unthinkable for two long weeks. They put on their masks, went outside, and simply stood on their small patio. Alex took a deep, shuddering breath of the cool, clean April air. It was the best thing he had ever tasted. Chloé and Megan stood on either side of him, their hands in his, their faces turned up to the sun.
+
+They had faced the virus, and they had won. They had been through the fire, and their bond, their unique, three-person fortress, had emerged stronger and more unbreakable than ever.
+
+

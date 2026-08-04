@@ -1,0 +1,64 @@
+# Part 15: Oceanfront Wonders – A Day of Firsts (Labor Day Monday, 1999)
+
+The moment James Miller parked their sedan in the 19th Street municipal lot, the salty tang of the Atlantic was thick in the air. The Masons pulled in beside them, and a moment later, Megan Carter's sedan slid into a nearby spot, a cheerful honk announcing her arrival.
+
+After procuring one of the city's specialized beach wheelchairs, the entire family convoy made its way up the ramp to the beach. The moment the full vista of the Atlantic Ocean opened up before her, Chloé stopped dead in her tracks, an audible gasp escaping her. "Oh… wow," she breathed, her eyes enormous.
+
+Alex watched her reaction, his heart swelling. WHAT DO YOU THINK? he typed, his own smile mirroring her awe.
+
+"It's… it's incredible, Alex," she managed, still staring at the waves. "It just… goes on forever!"
+
+James skillfully maneuvered Alex’s beach wheelchair down onto the firmer, packed sand near the water's edge. This was the moment Alex had been waiting for.
+
+"Alright, Thomas, you ready?" James said to Chloé's dad.
+
+Thomas nodded, and the two fathers moved to either side of Alex's beach chair. With a practiced, coordinated effort, they carefully lifted Alex from the chair. He wrapped his arms around their shoulders, completely trusting them. They carried him the final few feet into the shallow surf, the cool Atlantic water swirling around their legs, and gently lowered him until he was buoyant.
+
+The moment he was floating, a look of pure, unadulterated joy spread across his face. He was free.
+
+Chloé and Megan, who had been waiting eagerly in the water, were beside him in a flash. They met in a joyful, chaotic, and laughing tangle of limbs, a perfect three-person hug in the gentle waves.
+
+The moment he was floating, a look of pure, unadulterated joy spread across his face. He was free.
+
+Chloé and Megan were beside him in a flash. For the next hour, he was no longer a boy in a wheelchair; he was just Alex, a happy teenage boy frolicking in the Atlantic Ocean with his two most favorite women in the world.
+
+The water was their great equalizer. Here, with the buoyancy supporting him, he could "stand" on the sandy ocean floor. He opened his arms wide, and they met him in the middle, a joyful, chaotic, and laughing tangle of limbs in a three-person standing hug, the gentle waves breaking around them.
+
+It was a perfect, shared joy. He discovered the simple, wonderful thrill of the ocean's rhythm. Megan and Chloé would stand on either side of him, acting as a protective barrier, letting the bigger waves break against their backs while the smaller, foamy surf washed over Alex, making him laugh with the sheer delight of it.
+
+His arms, strong from years of maneuvering his chair, made him a surprisingly powerful swimmer. He and Chloé would have playful races out to the sandbar, their competitive spirits a perfect match. Afterwards, he would float on his back, with Megan's steady hand on his shoulder, his eyes closed against the bright sun, just feeling the gentle rock of the ocean and listening to the sound of their happy chatter.
+
+It was a time of pure, uncomplicated fun. They splashed, they laughed, and they shared in the simple, profound pleasure of the sun and the salt water. It was a memory etched not just in his mind, but in his very being—the feeling of being completely and utterly free, surrounded by the two people who made his world feel whole.
+
+When it was time for lunch, James and Thomas waded back into the surf to repeat the process in reverse, carefully lifting him from the water and placing him back into the safety of his beach chair.
+
+Lunch was a happy, sandy affair—chicken salad sandwiches, chips, and fruit from the picnic basket. Afterward, their parents relaxed under the umbrella while the three "kids," still full of energy, decided to explore the boardwalk.
+
+With his parents’ help, Alex transferred back to his regular wheelchair, and the trio headed up the ramp to the wide, smooth concrete expanse of the Virginia Beach Boardwalk. Megan and Alex acted as enthusiastic co-tour guides, pointing out their favorite spots and treating Chloé to a "Boardwalk Blast" slushie, at the actual Oceanfront location with the outdoor picnic tables that Chloé hoped for when Alex first described the place.
+
+As the afternoon began to wane, a comfortable tiredness settled over them. They rejoined their parents back at the picnic spot, and soon it was time to pack up. The Masons took charge of Alex and Chloé for the ride home, as planned.
+
+Back at the 19th Street municipal parking lot, they all gathered for a final, happy, and sandy farewell.
+
+"Okay, I'm heading home," Megan announced, giving her aunt and uncle a hug. She then turned to Alex, pulling him into one last, firm hug for the day. "Thanks for an awesome beach day, cuz. You guys are the best tour guides." She then gave Chloé a high-five. "And you, Mason, are officially an ocean pro."
+
+"I'll see you both tomorrow, right?" Megan continued, her voice now taking on the tone of a seasoned upperclassman giving crucial advice. "My friends and I always grab the round table in the back-left corner, near the windows. It's the best spot. Come find me as soon as you get your lunch. I'll save you two a seat."
+
+The invitation was more than just a convenience; it was an act of social protection, a clear signal that they were with her, under her wing.
+
+"We'll be there," Chloé confirmed, a grateful smile on her face.
+
+DEFINITELY, Alex typed, a happy, tired grin on his face.
+
+"Perfect," Megan said. "I'd offer you guys a ride to school, but your place on Lisa Court is completely the wrong direction for me to get to Northwood. It'd add twenty minutes to my drive."
+
+"We're all set, honey," Emily Miller said with a warm smile. "We've got their transportation covered. You just worry about getting yourself there on time for your last 'first day' ever."
+
+With a final, cheerful wave to everyone, Megan hopped into her own car and drove off.
+
+Driving away from the Oceanfront, with the sun beginning to dip towards the horizon, Chloé leaned her head back against the seat, a contented sigh escaping her. "Alex," she said softly, "thank you. That was… the best beach day. Ever."
+
+Alex, sitting beside her, his own face reflecting a happy weariness, typed: I AM SO GLAD YOU LIKED IT, CHLOÉ. I KNEW YOU WOULD. IT WAS FUN SHOWING YOU.
+
+Their last day of summer freedom had indeed been a day to remember. The daunting prospect of high school still waited, but for now, the memory of the sun, the sand, and the endless ocean, shared with his best friend and his favorite cousin, filled Alex with a quiet warmth and a renewed sense of courage.
+

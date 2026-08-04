@@ -1,0 +1,16 @@
+# Part 8: A Necessary Interlude
+
+After an exciting hour spent watching the lions and tigers, Stella called for a tactical break before they headed to the Great Ape House. "Okay, team," she announced, "everyone use the restroom before we continue. Next one is just around this corner."
+
+They found a large, clean restroom facility with three doors: a men's, a women's, and a single, accessible family restroom. The plan was immediate and unspoken.
+
+"Luna and I will use the women's," Stella said. "Liv, you and Leo take the family restroom. We'll meet back at this bench in ten."
+
+Inside the spacious family restroom, Olivia helped Leo with his toileting and handwashing, their movements a practiced, comfortable routine. As Leo dried his hands, Olivia knew she needed to use the toilet herself. The thought of asking him to wait outside, even for a few minutes, never crossed her mind. She understood the assignment: to not separate from him for any reason. Every moment of this trip was precious, a countdown to their goodbye at King Street Station, and his quiet, constant need for her presence was absolute.
+
+"Okay, my turn," she said simply, her voice casual and warm.
+
+She took care of her own business while he waited patiently in the room with her. It wasn't awkward; it was just another small, necessary sacrifice of privacy for the sake of his comfort and security. It was another quiet moment that defined their unique, bittersweet journey.
+
+When they emerged a few minutes later, Stella and Luna were waiting. The fortress was reassembled, refreshed, and ready to continue their adventure.
+

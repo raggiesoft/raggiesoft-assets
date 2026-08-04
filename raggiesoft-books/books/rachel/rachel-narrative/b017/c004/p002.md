@@ -1,0 +1,70 @@
+# Part 2: The Transit Deployment – 8:00 AM (PST)
+
+The kitchen counter was completely covered in a chaotic, highly efficient assembly line.
+
+True to her word, Jessica had pulled the massive stack of Quantum-branded food storage containers from the fridge. For the last twenty minutes, we had been constructing structurally perfect leftover sandwiches: thick slices of white meat, stuffing, and perfectly cut ridges of canned cranberry sauce, all held together by soft dinner rolls.
+
+"Okay, logistics check," Rachel announced, leaning against the counter and taking a massive bite of her sandwich. "If we are actually going into the retail warzone, we need to establish the supply lines. I have my employee discount card for *The Spot* in my wallet."
+
+"And I have my *Franklin's Market* card," Kristin added, sipping a glass of orange juice. "We can use them at whatever locations we happen to run into today."
+
+"But standard retail rules apply," Rachel warned, pointing a finger at me. "The employee has to be the one physically handing the cash to the cashier. So if you find something, Michael, you hand the money to me or Kristin first."
+
+I took a bite of my own sandwich. "I appreciate the tactical discounts," I said. "But I really don't want to buy anything. My inventory is completely full. I just want the spectacle. I want the maximum holiday visual."
+
+Jessica’s eyes lit up. She wiped her hands on a paper towel and wheeled around to face us.
+
+"If you want the maximum holiday spectacle," Jessica declared, "we are skipping the suburban strip malls entirely. We are going straight into the heart of downtown Seattle. And since the only person in this apartment with a driver's license relies on Mom's car back in Virginia, we get to completely bypass the nightmare traffic grid and event parking prices. Everyone grab your TAPS transit passes."
+
+"I don't have an active pass," I reminded her, pulling my winter coat off the hook by the door. "The monthly passes run calendar to calendar. My next one isn't valid until December."
+
+"Right. Grab your quarters then," Jessica instructed. "King County Metro is exact change only."
+
+I walked into the bedroom and grabbed two heavy rolls of quarters from my bag, dropping them into my coat pocket. The solid, heavy weight of the coins was a deeply comforting tactile anchor.
+
+Fortified by massive, scalding-hot Americanos from an independent, concrete drive-thru espresso shack—because Jessica adamantly refused to drink the mass-produced syrup water from *Siren Coffee Co.*—we walked to the local stop to catch the 105 bus.
+
+The bus pulled up with a heavy hiss of air brakes. I stepped on first, dropping my quarters into the heavy metal farebox. The rapid, satisfying *clink-clink-clink* echoed through the front of the bus as it registered my exact fare. Once the rest of the pack had tapped their passes, we moved down the aisle.
+
+The bus was warm and relatively quiet. We rode it down to the Renton Transit Center, stepping off into the freezing, crisp morning air just long enough to transfer onto the massive, articulated 106 coach heading north.
+
+Kristin and I sat near the front, my shoulder pressed comfortably against hers, while Rachel stood near Jessica's wheelchair securement area. The 106 rumbled steadily up through the Rainier Valley, the morning marine layer burning off to reveal a brilliant blue sky, before finally plunging into the downtown grid.
+
+We stepped off the bus right at 4th and Pine, the absolute epicenter of the Seattle retail core.
+
+The sensory avalanche hit me instantly, but it wasn't a threat. It was pure, unfiltered holiday electricity. The sidewalks were packed with people carrying massive, brightly colored shopping bags, their breath pluming in the freezing air.
+
+"Alright, tactical map," Jessica said, pulling her coat tighter. "We have a three-block radius of flat, wheelchair-friendly terrain. We stay strictly between 4th and 6th Avenue. If we wander north toward the Denny Regrade, or south toward Pioneer Square, the hills turn into black-diamond ski slopes and I will physically roll backward into Elliott Bay."
+
+Rachel laughed, stepping up to my left side as a natural anchor.
+
+"Where do we start?" Kristin asked, pointing up the street toward the multi-level glass atrium of the *Pine Street Center* mall, and the massive, pristine flagship building of *Norwood's* just beyond it.
+
+"We start at the historic anchor," Jessica said, pointing directly across the street.
+
+It was a massive, block-long stone building. Suspended high above the main entrance was a brilliantly lit, four-story holiday star. But right above the heavy doors, bolted into the historic stone, was a shiny new corporate sign that read: *Hudson's*.
+
+As we waited for the crosswalk light to change, an older man in a heavy wool peacoat stopped next to us. He looked up at the *Hudson's* sign, took a sip of his coffee, and shook his head in absolute disgust.
+
+"Corporate vultures," the man muttered to no one in particular. "Put whatever sign you want on the door. It's always going to be *The Grand Marché*."
+
+Jessica immediately turned her wheelchair toward the man, giving him a firm, deeply respectful nod of solidarity. "Exactly, sir. Exactly."
+
+The crosswalk chirped, and the four of us moved forward with the massive wave of pedestrians.
+
+We walked through the heavy glass revolving doors, and the interior spectacle was breathtaking. The entire first floor was a maze of polished marble, glittering cosmetic counters, and massive, towering displays of holiday decorations. The air smelled intensely of expensive perfume and roasted cinnamon nuts. High above us, massive, intricate wreaths hung from the vaulted ceiling.
+
+Normally, this level of sensory input would have sent my processor into an immediate, defensive lockdown. For the last two years, crowded retail spaces meant being barked at, being used as a pack mule, and constantly scanning the crowd for Delores's unpredictable rage.
+
+I stopped right in the middle of the main aisle, bracing my feet against the polished tile, waiting for the panic to spike.
+
+But as the crowd swirled around me, the parameters held. Rachel bumped her shoulder against my left side. Kristin stepped close to my right side, naturally sliding her hand into mine. Her fingers interlocked with mine effortlessly, her thumb resting against the back of my knuckles.
+
+No one was screaming at me. No one was demanding I max out a credit card. I wasn't carrying a single bag.
+
+"Look at the ceiling," Rachel whispered, pointing up at the massive, ornate architecture of the historic building.
+
+I looked up. I let the noise of the holiday shoppers wash over me. The anxiety didn't just fade; it evaporated completely, replaced by a profound, overwhelming sense of awe. I squeezed Kristin’s hand, feeling the solid, undeniable reality of my own freedom.
+
+I wasn't a hostage anymore. I was just a guy walking through *The Grand Marché* with the people he loved, holding his girlfriend's hand on Black Friday.
+

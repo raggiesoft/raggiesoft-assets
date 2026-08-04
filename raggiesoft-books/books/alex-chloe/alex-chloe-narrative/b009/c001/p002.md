@@ -1,0 +1,13 @@
+# Part 2: A New Sanctuary (Sunday, January 11, 2004)
+
+The night before their first day of college together was quiet and full of a soft, hopeful anticipation. They had spent the evening at the Masons' house, having a simple dinner with Thomas and Sophie. Megan, who was just as welcome at the Mason house as Alex was, had been there too, the five of them sharing a meal filled with easy laughter and encouragement for the big day ahead.
+
+As the evening wound down, a familiar, comfortable routine began. "Well," Chloé said, a small, happy smile on her face. "I guess we should get to bed. Big day tomorrow."
+
+Megan stood up to leave. "You guys get some rest," she said, giving them both a warm hug. "I'm heading back over to the Millers'. I'll see you both for breakfast before you go." She walked across the familiar patch of grass to what was now, for all intents and purposes, "her" room in the Miller house.
+
+Chloé then turned and, without a word, headed towards her own bedroom. Alex followed, a silent, unspoken understanding passing between them. This wasn't about him needing the comfort of his own bed anymore. His sanctuary wasn't a place; it was a person.
+
+They climbed into Chloé's familiar full-sized bed, the space a mirror of his own room across the lawn. He turned on his side, and she met him, wrapping her arms around him in a warm, protective embrace. He buried his face in her shoulder, breathing in the familiar, safe scent of her. He was home. And Chloé was right where she belonged, by his side, ready to face their new beginning, together.
+
+

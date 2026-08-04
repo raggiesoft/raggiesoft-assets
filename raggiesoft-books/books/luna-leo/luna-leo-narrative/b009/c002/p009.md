@@ -1,0 +1,17 @@
+# Part 9: The Fortress, Reassembled
+
+The long, emotionally charged day in Washington, D.C. left the entire fortress drained. After returning to the hotel and going through their quiet evening routines, a deep, contented weariness settled over the room.
+
+The process of getting ready for bed was now a familiar, comfortable dance. As before, there was no concern for privacy as they changed into pajamas; it was simply a normal part of their shared life on this journey.
+
+This time, there was no need for discussion about the sleeping arrangements. It was already the unspoken plan. Stella automatically headed to her own queen bed, leaving the other for her siblings and Olivia. As Olivia helped Leo get settled, he looked across the room at his twin sister, his expression a quiet, hopeful question.
+
+Luna understood instantly. She didn't need him to type it out. "Already on my way," she said softly, grabbing her pillow from the other bed.
+
+Stella smiled, watching the scene from her own bed. "Good night, you three."
+
+The arrangement was now their new normal. For the second night in a row, the other bed became a cozy, crowded sanctuary. Luna slipped in on one side of Leo, and Olivia settled in on the other. He was once again in the middle, a warm, solid wall of his sister on one side and his best friend on the other.
+
+He reached out, his hand finding Luna's in the dim light of the hotel room, while he leaned his head against Olivia's shoulder. This was his fortress, assembled against the quiet anxieties of the long goodbye. The dull ache of the impending separation was still there, but it was held at bay by the profound, immediate comfort of being surrounded. He drifted off to sleep, secure in the knowledge that for tonight, and for all the nights of this trip, his world was whole.
+
+

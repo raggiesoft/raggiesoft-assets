@@ -1,0 +1,26 @@
+# Part 3: The Lockdown Within the Lockdown
+
+Their small apartment, which had been their sanctuary, was now an isolation ward. The next two weeks became a blur of fear, fatigue, and unwavering care. All contact with the outside world was severed. Groceries and prescriptions were ordered online, left on their doorstep in contactless deliveries.
+
+Chloé was the sole guardian of their fragile world. Alex's case was severe; he was weak, feverish, and spent most of the day sleeping in their shared king-sized bed. Megan's case was milder, but it still left her drained, with a constant, pounding headache and a deep, body-aching fatigue. She spent most of her time in the same bed, a quiet, miserable companion in sickness to her cousin. Chloé was the only one left standing, a one-woman army fighting a war on three fronts: caring for two sick people, managing the household, and keeping her own terror at bay.
+
+On the fifth day, when Alex was at his weakest, a sharp, insistent knock rattled their front door. Chloé, who was in the kitchen trying to coax some broth into Alex, peered through the peephole to see an unmasked man in a cheap suit, beaming as he held out a stack of pamphlets. "Hello in there!" his voice boomed. "I have wonderful news about how you can be saved!"
+
+Chloé stared, a surge of pure, incredulous fury washing over her. She didn't move. She didn't breathe. After another minute, he finally left, tucking a pamphlet in the doorframe. Chloé waited until he was completely gone before moving away, her hands shaking with a rage she couldn't afford to expend.
+
+That evening, their only connection to the outside world came through a laptop screen. They held their nightly family video conference with the Millers, the Masons, and the Leclercs. Chloé had set up the laptop in the bedroom doorway so a pale, exhausted Alex and Megan, propped up on pillows, could be part of the call.
+
+"*Comment vont-ils aujourd'hui, ma chérie?*" Sophie asked, her voice tight with a grandmotherly fear. (How are they today, my dear?)
+
+"His fever was a little lower this afternoon," Chloé reported, her voice tired but steady. "And Megan's headache is a bit better. They both ate some soup." She took a shaky breath, the composure she had maintained all day finally cracking. The memory of the man at the door came flooding back, and with it, all her pent-up fear and frustration. Her Québécois French came out in a torrent of sharp, angry words.
+
+"J'peux pas croire le culot du monde!" she burst out, her voice trembling with rage. "On est en pleine pandémie, ils sont malades comme des chiens, et y'a un esti de sans-dessein qui vient cogner à notre porte, sans masque, pour essayer de me vendre le salut! Ostie de mangeux d'marde!" (Translation for the reader: "I can't believe the nerve of some people! We're in the middle of a pandemic, they are sick as dogs, and there's a goddamn loser who comes knocking on our door, with no mask, trying to sell me salvation! Fucking shit-eater!")
+
+A stunned silence came from the three other video windows. The parents looked at each other, a mixture of shock at the man's audacity and deep concern for Chloé's fraying nerves.
+
+It was Uncle David who finally spoke, his voice a low, angry growl. "*Quel trou de cul,*" he muttered. (What an asshole.)
+
+"Chloé, sweetheart," Emily Miller said gently, her voice full of a mother's concern. "You just ignore people like that. You are doing an amazing job. You're keeping them both safe. That's all that matters."
+
+The outpouring of support from her family helped to calm the storm inside Chloé. Alex, propped up on his pillows, reached out and took her hand, his grip weak but steady. The calls were their lifeline. For two long weeks, their small apartment was an isolated island, but it was an island connected to a mainland of unwavering family love, a quiet, digital promise that they were not alone in the darkness.
+

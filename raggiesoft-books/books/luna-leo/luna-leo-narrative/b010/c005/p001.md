@@ -1,0 +1,94 @@
+# Part 1: Escape Through the Rain (Curbstone, 4 AM)
+
+The door clicked shut. A final sound.
+
+Leo sat alone on the concrete porch. The pre-dawn darkness was absolute, broken only by the hazy glare of a streetlamp reflecting off the wet asphalt.
+
+The rain wasn't just falling; it was driving, a cold, relentless sheet that soaked him instantly. He wasn't wearing a raincoat. He wasn't wearing a jacket.
+
+He was wearing his favorite navy blue hooded sweatshirt. On the front, a large, custom screen-print photo showed him and Luna, their arms wrapped around each other in a fierce, happy hug, beaming at the camera.
+
+Delores hated this sweatshirt. She hated it more than anything he owned. She called it "weird" and "babyish." She had tried to throw it away twice. But he had dug it out of the trash both times. It was his armor. It was his proof that he was loved.
+
+Now, the heavy cotton was soaking through. The image of Luna’s smiling face was darkening with water, clinging cold and heavy to his chest. His jeans were already plastered to his legs, and his canvas sneakers were sponges, soaking up the freezing puddle gathering around his wheels.
+
+He shivered violently. It wasn't just the cold.
+
+A wave of dizziness washed over him, followed by a sharp cramp in his stomach. The withdrawal. He had been without his daily medication for nearly four days. His body was rebelling. His muscles, usually kept in check by the meds, were beginning to tighten with painful spasticity, fighting his movements.
+
+This curbstone is an icy throne. I've never felt so all alone.
+
+He looked down the empty street. A world of silence all around.
+
+He looked at his backpack, resting on his lap. Inside was his shattered AAC device—a voice of useless glass.
+
+He gripped the rims of his wheelchair. The metal was slick with rain and freezing cold. His hands were already going numb.
+
+He rolled off the porch. The drop to the curb jolted his spine, sending a spike of nausea through him. He sat there for a moment, the water rushing over his soaked sneakers into the gutter.
+
+Just gotta get to the airport.
+
+He pushed.
+
+His arms screamed. The wheels were slow, bogging down in the debris of the storm. He wasn't built for this. He was a boy who needed help transferring, help bathing. And now he was pushing himself through a monsoon, his body fighting him with every inch.
+
+His arms are burning, wheels are slow. A dozen blocks still left to go.
+
+He passed dark houses. Windows were black. Families were sleeping, safe and warm.
+
+The streetlights bleed a hazy glare On empty houses, standing there.
+
+He pushed harder. The pain in his hip—the pressure sore—flared with every stroke. The dizziness made the streetlights blur. The chill was seeping deeper, past his skin, down inside his bones where the medicine used to be.
+
+To whispered fears and silent moans. Is anybody watching him?
+
+He looked down at his chest. He saw the photo on his sweatshirt. Luna was hugging him.
+
+He thought of **Stella**. Her fierce protection. He thought of **Olivia**. The way she looked at him.
+
+A flash of faces in my mind. The only true north I can find.
+
+He wasn't just wearing a shirt; he was wearing his flag. Delores had thrown him out, but she hadn't taken the shirt. She hadn't taken the hug.
+
+It was just enough. Just enough to keep him whole. Just enough to make his freezing hands grip the wet rims one more time.
+
+To fight and reclaim my own soul.
+
+He saw it. A shelter. A **TAPS** bus stop sign, glowing faintly in the mist two blocks ahead.
+
+Airport... airport... Gotta get there...
+
+He grit his teeth against the nausea. He bowed his head against the wind. And he pushed, rolling out of the darkness and toward the only prayer he had left.
+
+The wait felt agonizingly long. Right at 4:58 AM, headlights cut through the rain-streaked darkness. The local TAPS bus hissed to a stop, its destination sign glowing: "165 BURIEN". Leo felt a small surge of relief. He didn't know Burien, but it was a way out. It was the only prayer he had.
+
+The door opened, and the lift lowered. Leo maneuvered his chair onto the lift, acutely aware of the puddle forming around him on the bus floor. He fumbled in his pocket, relief washing over him as his fingers closed around a couple of crumpled dollar bills Stella had insisted he carry for emergencies. He carefully fed them into the farebox.
+
+The bus operator, a middle-aged woman with kind eyes, watched him. She clearly saw the boy was drenched, shivering, and distressed. Leo looked up at the operator and quickly tapped his fingers against his throat, the gesture clearly indicating he couldn't speak. He then pointed urgently towards the front of the bus and used his hands to nervously mimic the shape of a plane taking off, trying desperately to convey his ultimate destination: the airport.
+
+The operator's expression softened with understanding. "Can't talk, huh? And trying to get to the airport?" she guessed kindly. Leo nodded vigorously, hope surging. The operator nodded back. "Okay, son. Listen carefully. This bus, the 165, goes towards Burien Transit Center. To get to Sea-Tac Airport, you need to get off *before* Burien, at Kent Station. Understand? Kent Station. From there, you'll transfer to the 161 bus – that's the airport bus. I'll make sure to call out Kent Station loud and clear for you. You just sit tight and try to warm up."
+
+The bus was mostly empty at this early hour. Leo found a spot near the front. The operator came back and carefully secured his wheelchair using the bus's restraint system, making sure he was safe for the ride. As she finished tightening the straps, she tore a paper slip from a pad near her seat and handed it to Leo.
+
+"Here's your transfer," she explained clearly, pointing to the slip. "When you get on the 161 bus at Kent Station, just show this paper to that driver. It proves you already paid your fare on this bus, so you won't have to pay again. Hold onto it tight, okay?" Leo nodded, taking the small slip of paper and tucking it carefully into his jacket pocket.
+
+Once he was settled and she was back behind the wheel, she picked up the radio microphone, which resembled an old telephone handset. Holding the earpiece section to her ear, she spoke clearly into the mouthpiece, her voice audible to Leo sitting nearby:
+
+"Dispatch, this is Bus 7241 on the 165. I have a passenger onboard, non-verbal, using a wheelchair. He needs to get to Kent Station to transfer to the 161 for Sea-Tac Airport. Can you advise the next 161 operator departing Kent Station westbound to expect him and be ready with the lift?"
+
+Leo could hear the operator talking but couldn't hear the dispatcher's crackled response coming back through the earpiece pressed against the operator's ear. After a moment, the operator hung the handset back on its cradle. She glanced back towards Leo, catching his eye and giving him a reassuring thumbs-up. "All set, honey," she called back kindly, relaying the confirmation she'd received. "Dispatch says they'll notify the 161 driver. They'll have the next bus waiting for you at Kent Station, lift ready and everything. You just show 'em that transfer slip. You'll get there."
+
+Leo felt a wave of profound gratitude. Knowing the connection was being actively facilitated, that someone else knew his destination and need for the lift on the next bus, and having the transfer slip as proof of payment eased a small fraction of his immense anxiety. He was on his way, the path complicated, but with unexpected help materializing. Still, he clung to the hope: get to the airport, find a way to call Stella, fly home. He would *not* endure another cross-country bus trip.
+
+The ride to Kent Station was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off; she ensured he knew exactly where to wait for the connecting \#161 bus to the airport, pointing out the correct bay before wishing him well.
+
+The bus was mostly empty at this early hour. Leo found a spot near the front. The ride was short, but Leo felt every bump, every turn, his anxiety high. When they pulled into the Kent Station transit center, the operator didn't just let him off. He secured the bus, came back to Leo, and personally pushed his wheelchair off the ramp and directly over to the clearly marked bay for the TAPS \#161 bus, sheltering him slightly with his own large frame against the persistent rain.
+
+Because the \#161 ran frequently (24/7), one was already waiting, its engine humming. "This one goes straight to the airport," the first operator confirmed, giving the \#161 driver a quick thumbs-up and likely a brief explanation through the window. He then spoke briefly into his radio, likely confirming the passenger transfer or logging the assistance for dispatch. He gave Leo a final nod. "He'll get you there safe. You take care now, son."
+
+The \#161 operator, a woman with a similarly compassionate expression, gave Leo a warm smile as he maneuvered onto her bus's ramp. "Gotcha, honey. Heading to the airport?" Leo nodded gratefully. "Alright then, come on aboard out of this rain. We'll get you right there."
+
+The ride to SeaTac Airport felt interminable, but warmer and safer than the desperate journey through the rainy streets. Leo stared out the window as the first grey light of dawn began to reveal the unfamiliar Pacific Northwest landscape, offering little comfort beyond the fact that he was moving towards help. He felt the deep bone-weariness of four days on a bus followed by trauma, all overlaid with the persistent fog of the time difference. He desperately missed Luna, Olivia, and Stella.
+
+Finally, the bus pulled up to the arrivals level of the main SeaTac terminal building. He had made it. The airport felt vast, noisy, and confusing even in the early morning hours (~5:40 AM), but indoors, and it felt like the first step towards actual safety. Now, he just had to figure out how to call home amidst the growing holiday travel chaos.
+

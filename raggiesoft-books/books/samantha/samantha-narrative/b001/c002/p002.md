@@ -1,0 +1,48 @@
+# Part 2: The Phalanx – 2:15 AM
+
+The drive through the Appalachian darkness was a blur of rain, winding pavement, and suffocating exhaustion.
+
+From my spot anchored against Samantha’s side, I felt the sharp, winding curves as US-25E carried us out of the Cumberland Gap. For a brief, disorienting handful of minutes, the highway clipped the edge of Tennessee before Sarah decisively merged us onto US-58 East. We were officially back in Virginia, but the coastal safety of home was still hundreds of miles away.
+
+We were pushing toward Bristol to catch Interstate 81, but my body couldn't wait that long.
+
+The sheer terror of the last few hours had completely wrecked my system, and a sudden, agonizingly urgent need to use the restroom flared up. I couldn't speak. I couldn't even tap Samantha's arm because my hands were locked in tight, rigid fists against my chest. But Samantha didn't need words. She felt the sudden shift in my breathing and the desperate, rigid squirm of my torso against her deep-pressure hold.
+
+"Sarah, we need to stop," Samantha said urgently from the backseat. "Toby needs a bathroom right now."
+
+Sarah didn't hesitate. "Next lights I see."
+
+Ten minutes later, the dense, mountainous darkness of Weber City, Virginia, broke just enough to reveal the harsh, flickering fluorescent canopy of a run-down gas station. Sarah pulled the heavy sedan under the overhang, parking right next to the pumps, keeping the car entirely illuminated.
+
+Abbey was out of the passenger seat before the engine even settled, popping the trunk and pulling my custom chair out into the humid, rain-soaked air. Samantha helped transfer my trembling body into the seat.
+
+When we approached the glass doors of the convenience store, we didn't split up. Sarah and Abbey operated with absolute, zero-tolerance protocol.
+
+Abbey took the front, pushing my chair, while Sarah and Samantha flanked the rear. We moved inside as a synchronized, impenetrable phalanx. The bright lights of the store stung my eyes. Behind the counter, a tired-looking clerk in a faded polo shirt looked up. He opened his mouth, likely to tell us the bathroom was for paying customers only, or to enforce some arbitrary rule.
+
+He took one look at the vanguard leading my wheelchair and immediately shut his mouth.
+
+Abbey and Sarah were already terrifyingly massive in their custom denim and navy shirts, but completely soaked from the storm, their unyielding muscle mass and sheer, towering six-foot-four density made them look like absolute titans. The absolute lack of amusement on Sarah’s face clearly telegraphed that any interference would be the worst mistake of his life. The clerk wisely looked back down at his register.
+
+Sarah pointed to the back of the store. A single, battered wooden door marked *Restroom*.
+
+"Everyone inside," Sarah ordered.
+
+It was a disgusting, single-occupancy room. The floor tiles were cracked and sticky, the air smelled heavily of cheap bleach and stale grime, and the fluorescent tube overhead buzzed with a dying flicker. But it had a heavy door, a lock, a toilet, and a sink.
+
+Sarah ushered us all inside. It was almost comically cramped. Fitting my wheelchair, Samantha, and the sheer, overwhelming mass of my two cousins into that tiny space meant no one could take more than half a step. But as Sarah threw the deadbolt, the claustrophobia didn't scare me. Being boxed into that disgusting gas station bathroom with them was the safest I had felt since my father grabbed me off the sidewalk. It was a concrete bunker.
+
+We all took turns. When I was finished, Samantha washed my hands at the stained sink, using a coarse paper towel to wipe the cold sweat off my forehead.
+
+Once everyone had gone, Sarah unlocked the door. The phalanx reformed instantly.
+
+Abbey pushed my chair out to the car, her broad shoulders shielding me from the cool night air. She settled me back into the middle seat, letting Samantha immediately resume her deep-pressure hold around my chest, before turning around to pump the gas.
+
+Inside, Sarah gathered a massive armful of provisions—bottled water, a heavy cup of crushed ice specifically for me, and several bags of high-calorie snacks. She walked up to the register and dropped the items heavily onto the counter. She paid in cash, staring a hole directly through the clerk, ensuring our presence was perfectly legal, paid for, and unquestionable.
+
+A few minutes later, Sarah slid back into the driver's seat, handing the cup of ice water over her shoulder to Samantha.
+
+"Gas is full," Abbey announced, pulling her door shut. "Let's hit 81."
+
+Sarah shifted the car back into drive. The engine roared to life, and we pulled out of the flickering lights of Weber City, disappearing back into the dark, rain-slicked highway toward Wytheville, pushing relentlessly eastward.
+

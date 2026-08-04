@@ -1,0 +1,136 @@
+# Part 3: The Creative Session
+
+## **Date:** Tuesday, January 17, 2006 **Time:** 1:00 PM **Location:** The Living Room, Unit 404
+
+Patrick cleared the lunch bowls. The "Fueling" was complete. Now came the Work.
+
+"Okay," Patrick said, drying his hands. "Let's migrate to the Command Center."
+
+He didn't move her back to the rug yet. He adjusted the recliner to a semi-upright position—high enough to type, but reclined enough to take the pressure off her hips. He checked the blue foam blocks. *Alignment perfect.*
+
+He went to the desk and grabbed her laptop: the **Apex ConvertiBook**. It was a heavy, slate-gray machine with a rotating screen hinge that felt like it belonged on a tank.
+
+He placed it on the swing-arm tray table he had rigged to the chair.
+
+He pressed the power button. The fan whirred to life, sounding like a miniature turbine. The screen flickered, displaying the familiar rolling green hills of the default wallpaper for **Quantum OS XN Professional**.
+
+The startup chime played—a synthesizer swell that signaled "productivity."
+
+Patrick grabbed the external mouse (the trackpad was too frustrating for Nichole’s intention tremor) and clicked the **Quantum Menu** in the bottom left corner.
+
+**Quantum Menu \> Programs \> Quantum Suite 2003 \> Quantum WritePad.**
+
+The document opened: *The_Rusty_Star_Draft_01.qdoc*.
+
+"Okay," Patrick said, pulling a stool up next to the recliner so he could see the screen. "We left off at Part 7. They just landed inside 'The Anvil' asteroid to hide from the Adjusters in The Silt."
+
+Nichole stared at the screen. The cursor blinked at the end of the last sentence: *But we are tonight.*
+
+She looked at her hands. They were trembling slightly. She took a deep breath, centering herself. She placed her hands on the keyboard. She didn't type fast, but she typed with force.
+
+She highlighted a section in the "Story Bible" document open in a separate window.
+
+**The Ship:** The Silt is a dense, highly magnetized particulate cloud that chewed up digital sensors and clogged ion intakes.
+
+She moved her hand to the **Letter Board** resting on her lap. Her finger flew to the letters.
+
+**F - I - L - T - E - R - S**
+
+"The filters," Patrick nodded, reading the lore. "Bram said they were at eighty percent before they landed. If they sit in the dust, the intakes will choke."
+
+Nichole nodded. She tapped the board again.
+
+**E - V - A**
+
+"Extravehicular Activity?" Patrick asked. "You want to send one of them outside? In the magnetic storm?"
+
+Nichole tapped **Y - E - S**. She pointed to the character profile on the screen.
+
+**B - R - A - M**
+
+"Bram goes out," Patrick agreed. "Because Kae is the pilot. She has to monitor the life support from the cockpit. And Bram is the Mechanic. It’s his job to get dirty."
+
+Nichole smirked. She started typing in WritePad. The words appeared on the screen, growing slowly.
+
+## Part 8: The Scrub
+
+*14:00 Hours*
+
+*The airlock cycled. HISS... CLUNK.*
+
+*Bram stepped out onto the hull. The magnetic boots of his suit locked onto the plating with a heavy thud. There was no sound in the vacuum, just the sound of his own breathing in the helmet.*
+
+*Inside the cockpit, Kae watched him on the monitor. He was just a speck of white against the crushing black of the cave.*
+
+Nichole stopped. Her hand hovered over the keyboard. She looked frustrated.
+
+She went to the board.
+
+**F - E - E - L - I - N - G ?**
+
+"How does Kae feel?" Patrick asked.
+
+Nichole nodded. She hit the red **PAIN** shortcut, then spelled **S - C - A - R - E - D**.
+
+"She's terrified," Patrick narrated, translating her intent. "Because he's outside the armor. If his suit rips, he's gone. And she can't reach him."
+
+Nichole looked at Patrick. She looked at the blue foam blocks trapping her legs. She looked at the snow whipping against the window of the loft.
+
+She was Kae—the Captain, trapped in the chair, watching the screens. He was Bram—the Anchor, going out into the void (the pharmacy, the store, the icy roads) to keep the systems running.
+
+She typed again.
+
+*Kae gripped the console. Her knuckles were white. She hated the EVA. She hated the glass between them.*
+
+*"Telemetry is green," Kae's voice cracked over the comms. "Don't be a hero, Bram. Just scrub the vent and get back inside."*
+
+*"Copy," Bram's voice came back, calm and static-filled. "I'm just cleaning a window, Kae. Relax. I'm anchored."*
+
+Nichole paused. She looked at the word "Anchored."
+
+She turned to Patrick. She pointed to him, then pointed to the screen.
+
+**Y - O - U**
+
+Patrick smiled, a soft, sad smile. He saw it. The fiction wasn't just a story; it was a mirror.
+
+"I'm always anchored, Nikki," Patrick whispered. "I'm not going drifting."
+
+He reached out and hit the **Save** icon (the little floppy disk) on the toolbar.
+
+"That's a good start," Patrick said. "But we need a complication. The Silt is magnetic, right? What happens if the magnets in his boots fail?"
+
+Nichole’s eyes widened. *Conflict.*
+
+She went to the board, her finger moving faster now, energized by the danger.
+
+**D - R - I - F - T**
+
+**T - E - T - H - E - R**
+
+"The tether snaps," Patrick improvised. "He starts drifting away from the hull. Kae has to make a choice. Fire the thrusters to catch him—which reveals their thermal signature to Providence—or let him go."
+
+Nichole shook her head violently. She slammed her hand on the **NO** shortcut.
+
+**N - E - V - E - R**
+
+She typed furiously, ignoring the tremor.
+
+*Kae didn't look at the radar. She didn't look at the "Stealth Mode" warning light. She slammed her hand onto the thruster ignition.*
+
+*"Hang on!" she screamed.*
+
+*The Rusty Star roared to life, lighting up the dark cave like a flare. They were visible. They were exposed. But she wasn't losing him.*
+
+Nichole stopped, panting slightly. She leaned back in the recliner.
+
+Patrick read the paragraph. He felt a lump in his throat. He knew exactly who she was writing about. She would burn the whole galaxy down to keep him safe.
+
+"That's the end of the chapter," Patrick said quietly. "Cliffhanger."
+
+He looked at her.
+
+"You'd blow our cover to catch me?"
+
+Nichole didn't use the board. She just looked him dead in the eye and nodded. *In a heartbeat.*
+

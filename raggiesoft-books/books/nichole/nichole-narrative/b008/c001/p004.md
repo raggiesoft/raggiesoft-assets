@@ -1,0 +1,116 @@
+# Part 4: The Tactical Retreat
+
+## Date: Friday, August 27, 2004 Time: 12:00 PM Location: The University Dining Hall (The Trough)
+
+Dr. Thorne’s speech ended with a polite round of applause and the thunderous scraping of two thousand chairs. The orientation leaders, bright yellow shirts bobbing in the crowd, began herding the masses toward the exits.
+
+"Lunch is served!" a megaphone blared. "Follow the leaders to the Student Union!"
+
+Patrick looked at Nichole.
+
+"It's free," Patrick noted. "And we already paid the tuition deposit."
+
+Nichole tapped her armrest.
+
+"FUEL. UP."
+
+They rolled across the quad to the massive glass-walled dining hall. The smell of industrial pizza and fries wafted out the doors.
+
+Inside, it was a feeding frenzy.
+
+"Tray management," Patrick muttered, assessing the logistics.
+
+Most students were struggling to balance a tray, a drink, and a backpack. Patrick, however, had the machine.
+
+He grabbed two plastic trays. He placed one on Nichole’s lap. He placed the second one on top of the first, creating a double-decker stack.
+
+"You are the table," Patrick said.
+
+Nichole grinned. She held the sides of the bottom tray.
+
+They moved through the line. Patrick was efficient. Two slices of pepperoni pizza on her plate. Two cheeseburgers on his. A mountain of fries on both. Two fountain sodas (Cola for him, Lemon-Lime for her) balanced on the corners.
+
+They found a high-top table near the window that was wheelchair-accessible. Patrick transferred the trays.
+
+They ate quickly, watching the chaos of freshmen trying to find seats, trying to look cool, trying to make friends.
+
+It was loud. It was messy. It was college.
+
+## Time: 1:00 PM Location: The Student Union Plaza
+
+They emerged from the cafeteria, blinking in the bright August sun.
+
+A large whiteboard was set up on the lawn, listing the afternoon's "Optional Activities."
+
+1.  1:00 PM - 4:00 PM: Bookstore Rush (Purchase Textbooks & Gear)
+
+2.  2:00 PM - 5:00 PM: "Meet & Mingle" Social Mixer (Icebreakers & Games)
+
+3.  3:00 PM - 8:00 PM: Residence Hall Move-In (Keys & Unloading)
+
+Patrick looked at the list. He looked at Nichole.
+
+"Item One: Books," Patrick said.
+
+Nichole shook her head. They had ordered everything online three weeks ago. The heavy calculus textbook, the style guides, the engineering graph paper—it was all currently sitting on the desk in Unit 404, unpacked and organized by subject.
+
+"ALREADY. DEPLOYED."
+
+"Item Two: The Mixer," Patrick read. "Icebreakers. Games. Meeting people."
+
+Nichole looked at the groups of students laughing on the grass. She thought about the "Closed Loop." She thought about the "No Dates" treaty they had signed in the spring.
+
+She didn't need to meet a guy named "Brad" who majored in Business. She didn't need to explain her AAC device to a girl named "Jessica" who just wanted to borrow her notes.
+
+She had her team.
+
+"HARD. PASS."
+
+"Item Three: Dorm Move-In," Patrick finished.
+
+He looked at the sweaty parents dragging suitcases up the steps of Elm Hall. He looked at the RA shouting instructions about "Roommate Agreements."
+
+He thought about their loft. The roll-in shower. The king-sized bed. The air conditioning. The silence.
+
+"Yeah," Patrick laughed. "I think we're good on that front too."
+
+## Time: 1:30 PM Location: The Blue Line (Heading Home)
+
+They turned their backs on the campus. They rolled down the ramp to the subway station.
+
+The train was empty—everyone else was still at the mixer.
+
+They boarded the cool, quiet car. The doors hissed shut, cutting off the heat and the noise of the "Freshman Experience."
+
+Nichole let out a long breath, slumping slightly in her manual chair. Her sensors were done. The orientation had been successful—they had the IDs, they had eaten the food, they had survived the assembly—but the battery was flashing red.
+
+"Home?" Patrick asked, sitting on the bench next to her wheel.
+
+Nichole nodded. She didn't type. She just rested her head against the cool metal pole.
+
+## Time: 2:00 PM Location: Unit 404
+
+The lock clicked. The heavy door swung open.
+
+The smell of their apartment hit them—clean, cool, and familiar.
+
+Patrick pushed her inside and locked the deadbolt. Clunk.
+
+"Decompression sequence initiated," Patrick announced.
+
+He didn't ask. He wheeled her straight to the living room. He transferred her out of the rigid manual chair and onto the deep, soft sectional sofa.
+
+He pulled her shoes off. He pulled the blanket over her legs.
+
+He sat down next to her, exhaling loudly as he kicked off his own sneakers.
+
+"We did it, Nikki," Patrick said, leaning his head back on the cushion. "We are officially students."
+
+Nichole snuggled into his side, feeling the tension of the day bleed out of her muscles. The weekend stretched out before them—two days of quiet, two days of just being "Bennett Party of Two" before the real work began on Monday.
+
+She closed her eyes.
+
+"READY. FOR. MONDAY," she thought.
+
+But for now? For now, she was just ready for a nap.
+

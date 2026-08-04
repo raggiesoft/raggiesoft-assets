@@ -1,0 +1,24 @@
+# Part 6: The Washroom – Thursday, October 20, 2044 – ~04:30
+
+Wyatt left his canvas duffel bag on the floor next to Bunk 42-C. He grabbed his hygiene kit and his scratchy, company-issued towel, stepping back out into the narrow, 64-inch aisle of the barracks.
+
+As he walked, his jaw set in a tight, annoyed line. Hot-bunking. He wasn't surprised. He'd worked deep-sea welding rigs and off-world refineries before, and the corporate math was always the same. Why buy three beds when you can force three shifts of contractors to rotate on a single, perpetually warm, sweat-stained mattress? It was infuriating, but it was exactly the kind of predatory cost-cutting you expected from a company that recruited out of economically dead towns. Apex knew they needed the credits too much to quit.
+
+The air grew heavy and humid as he approached the archway to the communal washroom. Harsh, sickly yellow-green light spilled out onto the concrete floor, accompanied by the echoing sound of failing plumbing.
+
+Wyatt stepped inside. The room was a massive, tiled concrete box with a long, rusted industrial drain running right down the center. No stalls. No partitions. No cheap plastic curtains.
+
+A dozen veterans from the night shift were standing under the weak, sputtering showerheads. Men and women were mixed together, methodically scrubbing the pale desert dust and industrial grime off their skin. They were dead-eyed and entirely apathetic. Modesty was a luxury Apex didn't provide.
+
+Wyatt didn't even blink. He knew the drill: Don't look. Don't talk. Wash yourself and move along.
+
+He kept his eyes respectfully fixed on the cracked tile floor, moving toward an empty, dripping pipe in the far corner.
+
+As he walked, he noticed a young woman hunched over in the darkest corner of the room. She was pressing her back against the damp, dingy tiles, her arms crossed tightly over her chest, trying desperately to protect whatever little dignity she had left. Her eyes were wide with a mixture of shock, vulnerability, and profound regret.
+
+Wyatt clocked it immediately. Fresh out of high school. First corporate contract. She just realized she was nothing more than inventory.
+
+He didn't stare. He didn't offer a pitying glance or try to reassure her—that would just make it worse. He simply stepped under his own rusted showerhead, turning his broad back to the room. He twisted the squeaking valve and let the freezing, metallic-smelling water hit his shoulders, washing away the grime of the FIPS transit flight.
+
+Ten minutes later, Wyatt was zipped into his stiff, abrasive black and hazard-yellow uniform, the nametape COLTON pinned to his chest. He stepped out of the humid washroom, following the neon signs pointing toward Sector 1. It was time to get some food and clock in.
+

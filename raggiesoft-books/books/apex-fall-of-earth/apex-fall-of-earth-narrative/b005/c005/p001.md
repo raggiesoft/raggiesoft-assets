@@ -1,0 +1,50 @@
+# Part 1: The Upgrade – Saturday, May 11, 2045 – 07:00
+
+The soft, natural light of the morning slowly filtered through the massive, camouflaged hydro-glass window of the master suite. The violent super-cell storm had finally exhausted itself overnight, leaving behind a quiet, misty drizzle that painted the flooded valley below in muted shades of silver and gray.
+
+Inside the mountain, the localized geothermal fireplace had burned down to a gentle, radiating warmth.
+
+Wyatt opened his eyes, staring up at the beautifully carved ceiling. He stretched his heavy, scarred arms above his head, letting out a long, relaxed groan. He was lying on his back in the absolute center of the colossal Alaskan King bed.
+
+To his right, Sarah shifted beneath the heavy, plush duvets. Completely bare in accordance with the Eden Rule they had established for their private sanctuary, she stretched her legs out, her toes finding cool sheets that hadn't even been touched.
+
+She rolled over, propping herself up on one elbow to look down at her husband. A lazy, incredibly contented smile spread across her face.
+
+"You know," Sarah murmured, her voice thick with sleep, "we have enough space on this mattress to sleep five feet apart if we wanted to."
+
+Wyatt turned his head, a highly amused smirk touching the corners of his mouth. "Are you submitting a formal request for distance, Mrs. Colton?"
+
+"Absolutely not," Sarah laughed softly, immediately closing the gap and resting her head on his bare chest. She draped her leg securely over his hip. "I'm just observing the real estate. It's a bit of an upgrade from our first night."
+
+Wyatt wrapped his massive arm around her waist, holding her close. The memory of the subterranean staging facility felt like a lifetime ago, even though less than a month had passed.
+
+"Bunk 42-C," Wyatt rumbled, shaking his head. "A thin mattress resting directly on the cold concrete. The metal walls made it feel exactly like crawling into a filing cabinet drawer."
+
+"And don't forget the structural damage," Sarah added, tracing a light pattern over his collarbone. "The springs on the right side were completely shot. We had to squeeze onto a thirty-inch Twin XL and sleep facing each other just to keep from spilling onto the floor."
+
+"It was a nightmare," Wyatt agreed. "But honestly? Waking up with you that first morning, under that scratchy gray Apex blanket... it was the safest I had felt in years."
+
+Sarah looked up at him, her dark eyes shining with deep affection. "Even so, I think I prefer the abandoned break room."
+
+"Ah, yes. The honeymoon suite," Wyatt chuckled. "A cracked vinyl sofa and a single deployment sleeping bag. At least we had the decommissioned steel pipe wedged under the door handle to keep the S.H.O.P. Foremen out."
+
+"We spent two nights barricaded in there," Sarah whispered, a wave of profound nostalgia washing over her. The dread and the panic of the failing Nevada facility had been terrifying, but that small, dusty room was where they had truly found each other. "We didn't have any space, but we finally had privacy. It was our first real nest."
+
+"Then we stole *The Nomad*," Wyatt continued the timeline, his hand gently stroking her bare shoulder. "And we found the Captain's Quarters. A genuine queen-sized mattress and retro-futuristic wood-grain laminate. I thought we had hit the absolute peak of luxury."
+
+"It felt like it," Sarah agreed, resting her chin on his chest. "But we were still sleeping on top of a massive fission reactor. We could always feel the vibration of the FTL drive in the floor plates. There was always that underlying mechanical hum reminding us that we were running."
+
+She looked around the sprawling, immaculate master suite of the billionaire's estate. The ambient air was held at a flawless, highly comfortable 21.6°C. There was no deafening hum of machinery, no smell of ozone or burnt coolant. There was only the gentle sound of the rain against the glass and the steady, rhythmic beating of Wyatt's heart.
+
+"And now we're here," Sarah breathed, her voice filled with absolute awe.
+
+They had survived the claustrophobia of hot-bunking, the terror of the break room, and the frantic escape on the dreadnought. Now, they were the undisputed Administrators of an impenetrable mountain fortress, lying bare in a bed large enough to hold a dynasty.
+
+Wyatt leaned down, pressing a soft, lingering kiss against her forehead.
+
+"We've definitely moved up in the world," Wyatt murmured, pulling the heavy duvet up over her shoulders to keep the morning chill at bay. "And since we don't have a shift klaxon to answer to, I say we fully utilize this Alaskan King bed and sleep for another hour."
+
+"I love the way you think, Mr. Colton," Sarah smiled, closing her eyes and snuggling deeper into his embrace.
+
+They lay perfectly still in the quiet warmth of the estate, completely shedding the last lingering ghosts of their corporate past, and simply enjoyed the absolute luxury of having nothing but time.
+

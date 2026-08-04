@@ -1,0 +1,38 @@
+# Part 4: The Drop – 4:15 PM
+
+The heavy glass doors of Morrison Middle School closed behind us, sealing the air-conditioned lobby away. The mid-afternoon May air was warm and humid as we stepped back out into the walking zone.
+
+Sarah took the push handles of my wheelchair. Samantha immediately stepped to my right side, resting her hand securely on my shoulder. The perimeter was reformed instantly. We moved as a single, impenetrable unit across the blacktop, leaving the school entrance behind and heading toward the property line where Simon Street fed directly into our residential neighborhood.
+
+Right at the edge of the campus boundary, bolted to the concrete where the school's sidewalk met the city's curb, sat a heavy-steel, blue United States Postal Service collection box.
+
+Grandmother Eleanor did not break her stride. She walked directly up to the blue metal box and stopped.
+
+With smooth, practiced efficiency, she unclasped her structured leather handbag. She withdrew the heavy, prepaid envelope containing the fully signed, multi-signature Procedural Safeguards Complaint addressed to the Virginia Department of Education in Richmond.
+
+Samantha watched her pull the envelope out. A slight, confused frown crossed her face. "I thought you told Dr. Wallace that you wouldn't mail it if they just signed the IEP."
+
+"I told him that his administration's actions in the meeting would determine whether this envelope went into a mailbox or a shredder," Eleanor corrected, her aristocratic voice perfectly even. "They complied with the legal requirements of the meeting, so I afforded them the courtesy of waiting until it was adjourned."
+
+Abbey adjusted her wire-rimmed glasses, looking back toward the middle school.
+
+"The central office intentionally altered the location of a federally mandated special education meeting to ambush our family," Abbey said, her voice dropping into a low, protective register. "They assumed we would blindly follow the paperwork and drive straight into their trap. If they are willing to pull a stunt like that on us—when they know perfectly well that Toby has three legal guardians willing to go to war for him—imagine what they do to families who don't have our resources."
+
+Sarah nodded, her grip firm on my push handles. "Imagine a single mother getting that amended notice. Or a family that doesn't understand IDEA compliance laws. The district would steamroll them. They would force them to that campus and manipulate them into signing away their kid's accommodations."
+
+"Precisely," Eleanor agreed.
+
+She reached out and pulled down the metal handle of the collection box.
+
+"We secured Tobias today," Eleanor said, looking at the dark chute. "But we have an ethical obligation to the community. We are dropping a state audit on Dr. Wallace's department to ensure this administration never attempts to weaponize the special education system against another disabled child again."
+
+She dropped the envelope into the chute and let go of the handle.
+
+The heavy metal door clanged shut with a loud, definitive scrape, echoing slightly down Simon Street. The district's fate was sealed, and the trap was permanently dismantled.
+
+Eleanor snapped the brass latch of her handbag closed. "Let's go home."
+
+Sarah pushed my chair forward, and we crossed the street as a family, walking the final block back to the fortress.
+
+
+

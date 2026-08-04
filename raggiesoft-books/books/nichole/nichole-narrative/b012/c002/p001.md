@@ -1,0 +1,32 @@
+# Part 1: The First Breakdown
+
+## Date: November 12, 2045 Age: 60 Location: The Master Suite, The Fortress (Portsmouth)
+
+The decline didn't happen all at once. It started with a stumble.
+
+For forty years, Patrick had been the engine. He had lifted Nichole thousands of times—deadlifts from the bed, scoop lifts from the floor, pivot transfers in tight airplane bathrooms. His back was a map of scar tissue and fused vertebrae, the cost of being a human hoist.
+
+It happened on a Tuesday. Patrick was transferring Nichole from the *Titan AeroMotion* (now the Mark IV model) to the bed. It was a routine move, one they had executed ten thousand times.
+
+But as he took her weight, his left knee—the "bad" leg with the cerebral palsy—simply quit. The quadricep tendon, worn thin by decades of compensating for the load, snapped.
+
+They went down.
+
+It wasn't a catastrophic fall. Patrick twisted in the air, taking the impact on his own shoulder to shield Nichole. They landed in a tangle on the rug.
+
+"I got you," Patrick gasped, his face gray with pain. "I got you."
+
+But he couldn't get up. He tried to push himself upright, and his leg buckled. He fell back, groaning.
+
+Nichole lay on the floor next to him. She wasn't hurt, but she was stranded. She reached out and touched his face. Her hand was trembling with age now, her spasticity softened by time but still present.
+
+She tapped her tablet. ENGINE. FAILURE.
+
+Patrick looked at the ceiling. Tears leaked from the corners of his eyes—not from the pain in his knee, but from the realization that the era of brute strength was over.
+
+"I can't lift you anymore, Nikki," he whispered. "The machine is broken."
+
+Nichole looked at him. She reached out and took his hand. She squeezed it. She tapped again. WE. USE. HYDRAULICS.
+
+The next day, they ordered a ceiling-mounted lift track system. It wasn't a defeat; it was an upgrade. The machine wasn't broken; it just needed new parts.
+

@@ -1,0 +1,36 @@
+# Part 8: The Checkpoint – Thursday, October 20, 2044 – ~04:50
+
+Sarah tossed her empty food tray into the reclamation bin and headed for Sector 1: Security Processing.
+
+The Checkpoint was a severe, fortified bottleneck. A thick wall of bulletproof glass separated the S.H.O.P. Marines from the Apex Supervisors—heavily armored men in ballistic vests holding combat shotguns. She stepped up to the yellow line, her heart hammering against her ribs.
+
+"Name, serial, age, and retinal scan," the Supervisor barked through the two-way speaker, not even looking up from his terminal.
+
+"Um... Hayes, Sarah M.," she stammered, leaning into the scanner. "Contractor ID: 912-Echo. Age... age eighteen.".
+
+The scanner beeped green. A heavy metal transfer drawer slid open under the glass. Inside was a battered Level 1 PDA and a heavy, Mark-IV industrial flashlight. No sidearm. She grabbed the gear, clutching the heavy flashlight to her chest like a shield.
+
+"Sector 4 Perimeter Patrol," the Supervisor droned. "Take a seat on the bench past the turnstile and wait for your partner.".
+
+She finished at the glass, pushed through the heavy metal turnstile, and nearly tripped over her own steel-toed boots. She looked up, realizing her assigned partner was already waiting for her.
+
+It was him. The massive, scarred veteran from the showers—the one guy who didn't stare at her.
+
+Sarah froze, her posture instantly turning defensive. He stood up to his full 6'1" height, a hardened twenty-three-year-old wrapped in the abrasive black and hazard-yellow armor of Apex Defense Solutions. In a facility where the veterans were usually predators, he looked terrifying. If he wanted to make her first shift a nightmare, there was absolutely nothing she could do to stop him.
+
+But he didn't step toward her. He kept his distance, leaving a wide, respectful gap between them. He didn't try to force a smile—that would just look unnatural and creepy. Instead, he offered a simple, grounding nod. Professional and calm.
+
+"You're Hayes, right?" he asked, keeping his voice low and even to cut through the harsh buzzing of the overhead lights. "I'm Colton. Supervisor says we're partnered up for Sector 4.".
+
+Sarah blinked, processing the total lack of hostility in his voice. She looked at the nametape on his chest, then back up to his scarred face. The defensive tension in her shoulders dropped just a fraction of an inch. He wasn't treating her like acquired inventory; he was treating her like a partner.
+
+"Y-yes," she stammered, clearing her throat to find a steadier voice. "Sarah Hayes. It's... it's my first day.".
+
+"I know," he said softly. He gestured down the long, dimly lit corridor with his flashlight. "Stay close, keep your head down, and we'll get through the shift. I've got your back.".
+
+She looked at him, really looking this time, and realized he meant it. For the first time since she stepped off the Desert Star transport shuttle, a tiny sliver of relief washed over her face.
+
+"Okay," she breathed, her grip on the flashlight relaxing just enough to let the blood return to her knuckles. "Right behind you, Colton.".
+
+
+

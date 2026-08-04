@@ -1,0 +1,124 @@
+# Part 1: Third Quarter
+
+Friday nights in Virginia Beach were a religion, and the Northwood High School football stadium was the cathedral. The air smelled of popcorn, diesel fumes from the buses, and the ozone of impending rain.
+
+For Freddie, the stadium was a sensory minefield. The lights were too bright, buzzing with a high-pitched frequency that only he seemed to hear. The crowd noise was a chaotic ocean of screaming, stomping, and air horns.
+
+He sat on the metal bleachers in the designated Band Section, clutching his sketchbook like a shield. Paige sat right next to him, their shoulders touching. She wasn't drawing; she was just being there, a physical anchor preventing him from floating away into the noise.
+
+"Break time!" Mr. Panoff’s voice boomed through a megaphone. "Be back in your seats by the start of the Fourth! Do not make me come find you at the nacho cheese pump!"
+
+Freddie exhaled, opening his sketchbook to a fresh page. He began to draw. It wasn't the football field; it was a schematic for a starship engine, a complex cylinder of rings and intake valves.
+
+"That's really cool."
+
+Freddie looked up, blinking against the stadium lights.
+
+Sitting in the row below them was a girl from the Color Guard. She was wearing the sequined tunic of her uniform, her flag bag resting at her feet. She had bright eyes and a smile that seemed to ignore the social barrier between the "cool" Guard and the "nerdy" Pit.
+
+"I'm Courtney," she said, leaning her chin on the back of the bleacher seat. She looked at Freddie, then at Paige, and smiled. "You guys are the Avery twins, right? The ones in the Pit?"
+
+"Yeah," Paige said, offering a friendly smile. "I'm Paige. This is Freddie."
+
+Courtney looked back at the sketchbook. "Is that... like, a car engine?"
+
+"It's a warp drive," Freddie corrected automatically, his voice quiet. He tensed, expecting the mockery that usually followed.
+
+But Courtney didn't laugh. She tilted her head. "A warp drive. Like Stellar Voyage? I love that show. My dad watches it."
+
+Freddie felt a flush of warmth. She liked Stellar Voyage. She liked his drawing.
+
+"It's for a story," Freddie said, relaxing slightly against Paige. "About a ship that travels through music frequencies."
+
+"That is so weird," Courtney smiled, and this time, the word weird sounded like a compliment. "You're really talented, Freddie."
+
+"Avery crew!"
+
+Jessica appeared at the end of the row. She wasn't barking orders; she looked relieved to see them. She stepped into the row and wrapped an arm around Freddie’s shoulders, pulling him into a gentle side-hug.
+
+"You doing okay with the noise?" Jessica asked softly, ignoring the crowd around them.
+
+"I'm okay," Freddie said, leaning into his older sister’s embrace. "Paige is blocking the speakers."
+
+Courtney watched the interaction—the protective sister, the gentle hug, the obvious closeness of the three siblings. She didn't look weirded out. She looked like she thought it was sweet.
+
+"Concession run," Jessica announced, releasing him but keeping a hand on his back to guide him. "Dad's holding fries for us."
+
+Courtney pulled back to let them pass, giving Freddie a small wave. "See you later, Space Man. Bye, Paige!"
+
+"Bye!" Paige waved.
+
+As they walked down the metal steps, Freddie felt lighter. "She was nice," he whispered to Paige.
+
+"She was," Paige agreed. "She didn't mind the hugging."
+
+The concession stand was a cinderblock bunker located under the home stands. It was the hub of social activity for the entire school, but for the Averys, it was family territory.
+
+Behind the counter, moving with the efficiency of a short-order cook, was their father, Robert. He was wearing a grease-stained apron over his work clothes, shouting orders to a terrified freshman volunteer.
+
+"Two hot dogs, one pretzel, large Mega-Cola!" Robert yelled, then looked up and saw his children approaching the window. His face brightened. "VIPs inbound!"
+
+"Hi, Dad," Paige said, leaning on the counter. "We need fuel."
+
+"I saw the halftime show," Robert said, sliding a tray of fresh fries toward them before they even ordered. "Pit looked tight. Freddie, you were right on the beat with the tympani."
+
+"Thanks," Freddie said, grabbing a fry. He felt safe here. The concession stand was loud, but it was managed noise. His father was in control.
+
+"Where's Mom?" Jessica asked, looking around the crowded plaza.
+
+"She's in the stands with Harper and the twins," Robert said, wiping his hands on a rag. "She'll be down in a minute. Harper wants Rainbow Drops."
+
+As they stood there eating their fries, a boy wearing a snare drum harness walked up. He had the confident swagger of someone who knew he was at the top of the band hierarchy. This was Jason, a Sophomore on the drumline. He had been eyeing Paige during rehearsals all week.
+
+"Hey, babe," Jason said, leaning his elbow on the counter next to Paige, invading her personal space.
+
+Paige stiffened instantly. She hated being called "babe."
+
+"My name is Paige," she said, her voice flat.
+
+"Feisty," Jason smirked, ignoring the correction. He looked at Freddie, who was staring at the ground, rocking slightly on his heels. The buzzer for the end of a timeout sounded—a harsh, electronic grind that spiked Freddie’s anxiety.
+
+Freddie flinched, shifting his weight and moving closer to Paige. He reached out, needing the contact to recalibrate.
+
+Paige immediately turned, opening her arms to wrap him in a firm, grounding hug. She squeezed his shoulders, applying the deep pressure he needed to stop the world from spinning.
+
+Jason’s hand shot out, grabbing Paige’s shoulder to pull her back.
+
+"Whoa, babe," Jason laughed, stepping between them. "Give him some space. He's a big boy, right? He doesn't need his sister cuddling him in front of the whole school. It looks weird."
+
+The air around the concession stand seemed to drop ten degrees.
+
+Paige pulled away from Jason’s grip as if she had been burned. She looked at him, then at Freddie, who looked terrified that he had done something wrong.
+
+"He is regulating," Paige said, her voice turning dangerous. "Get your hand off me."
+
+"I'm just saying," Jason chuckled, looking around for support. "You guys are in high school now. You gotta cut the cord. It’s embarrassing."
+
+"Jason," Jessica’s voice cut through the noise like a blade. She stepped forward, holding her soda like a weapon. "You're a snare drummer, right?"
+
+"Yeah," Jason puffed up his chest, looking at the older sister. "Section leader next year, probably."
+
+"Cool," Jessica said, her eyes narrowing behind her glasses. "Then you should know about rhythm. And right now, you are completely out of time."
+
+Jason frowned. "I'm just trying to help him man up."
+
+Paige stepped fully in front of Freddie, shielding him. "He doesn't need your help. And I don't need a boyfriend who acts like a jerk. Go pound sand, Jason."
+
+Jason’s mouth fell open. He had expected a giggle, or maybe a shy deflection. He hadn't expected a wall. "Whatever," he muttered, backing away with a bruised ego. "You guys are freaks anyway."
+
+He disappeared into the crowd.
+
+Freddie let out a shaky breath. He looked past Paige and saw Courtney standing a few feet away, waiting for a pretzel. She had seen the whole thing.
+
+Freddie froze, expecting the judgment Jason had promised.
+
+Courtney just smiled at him. She looked at Paige, then at Freddie, and gave a small, respectful nod. She didn't look embarrassed for him; she looked like she was glad Jason was gone.
+
+Paige turned back to Freddie, ignoring the crowd, and wrapped him in the hug Jason had tried to stop. She squeezed hard, grounding him back to the earth.
+
+"You okay?" she whispered.
+
+"Yeah," Freddie whispered back, the tension leaving his spine. "He's gone."
+
+"He's history," Paige promised.
+

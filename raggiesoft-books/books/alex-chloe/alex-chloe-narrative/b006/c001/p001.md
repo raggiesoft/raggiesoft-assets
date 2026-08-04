@@ -1,0 +1,56 @@
+# Part 1: Cafeteria Entrance & Cafeteria – First Day, Fall 2002
+
+The bell for fourth period was still a distant promise, but the nervous energy of the incoming freshman class already vibrated through the crowded hallways of Northwood High. A small, slightly bewildered herd of them had been unofficially corralled near the imposing double doors of the cafeteria by four seniors who, three years prior, had stood in their very shoes: Alex Miller, Chloé Mason, and the Porter twins, Luna and Leo. It was their turn, a rite of passage, to deliver the Unofficial Orientation.
+
+Seventeen-year-old Chloé Mason, her Québécois French still a charming undercurrent when she was animated, leaned against the brick wall, an easy confidence about her. Alex, also seventeen, sat in his sleek "Quantum Glide" wheelchair, his "Quantum OS Tablet Pro" AAC device mounted and ready. Beside them were the Porter twins. Leo, like Alex, navigated Northwood’s halls in a sophisticated "Quantum PowerChair XT" due to his Cerebral Palsy, his own "Quantum Communicator XT" AAC device at the ready. His twin sister, Luna, who had a noticeable limp from her own CP, stood with a performer's flair, one hand resting lightly on the armrest of Leo’s chair for balance and support, a familiar, easy posture for the pair.
+
+"Alright, fresh meat, huddle up, settle down!" Luna announced, her voice carrying easily over their anxious murmurs. "Welcome to Northwood. You're about to enter the Thunderdome, the Pit of Despair, the Land Where Hope Goes to Be Served on a Questionable Plastic Tray... aka, the Cafeteria."
+
+A few nervous giggles rippled through the freshmen.
+
+"And in this domain," Chloé picked up, her tone a mix of serious warning and fond reminiscence, "there is one queen. One supreme overlord. One whose name is whispered in hushed tones from freshman year even unto senior year."
+
+Alex typed on his AAC, and the clear, synthesized voice cut through: "MRS. DEMARCO."
+
+"Exactly!" Luna pointed at Alex's device. "Mrs. DeMarco. She sees all. She knows all. And trust us," she leaned in conspiratorially, "you do *not* want to get on her bad side. We learned that Rule Number One on our very first day, didn't we, guys?"
+
+Chloé nodded gravely. "Witnessed it firsthand. Josh Riley – he eventually left when his parents got military orders. The school threw a big party for it. First lunch, freshman year. Decided to impress everyone with 'The Penis Game'..." "Attempt number 253 in her official logbook, or so she claimed," Leo’s device chimed in, Luna glancing at his screen to read it out with perfect comedic timing. "Instant trash duty for a week," Chloé confirmed. "And that’s your baseline punishment, folks. It only gets worse."
+
+"Some say," Luna added, her eyes wide, "that Josh Riley practically *lived* at the dumpsters freshman year. They say Mrs. DeMarco still keeps a special, extra-stinky trash can liner with his name on it, just in case he gets nostalgic during his senior year and somehow comes back to Northwood. He’s got one more year of potential dumpster duty, after all."
+
+A freshman boy, looking pale, raised a trembling hand. "W-what about the mystery meat? The seniors last year said..."
+
+"Ah, the Mystery Meat!" Luna clasped her hands dramatically. "Rule Number One-A! NEVER, and I mean NEVER, complain about the mystery meat. Don't look at it funny. Don't sniff it suspiciously. Don't even *think* bad thoughts about it if she's within a fifty-foot radius." "Our sophomore year," Chloé interjected, a slight grimace on her face, "some kid tried to analyze its molecular structure for a science project. Got three weeks trash duty and had to write a report on 'The Nutritional Virtues of Ambiguity.'"
+
+Alex’s AAC added: "AND HE HAD TO EAT IT. EVERY DAY. FOR THOSE THREE WEEKS." A collective gasp from the freshmen.
+
+"And languages!" Luna continued, "Don't think you're clever trying to slip something past her in another language. We saw her take down Riley for his English transgression, then Kevin Schmidt for his truly terrible German insults, all in the same breath, freshman year!" "She corrected Chloé's Québécois, then switched to perfect Metropolitan French with her, then to flawless German for Schmidt," Leo's device supplied, Luna reading with flair. "It was terrifyingly impressive." "And that wasn't even the half of it," Chloé said, shaking her head. "Junior year, some transfer student, O’Malley, thought he was safe insulting the meatloaf in Gaelic." Alex typed: "MRS. DEMARCO RESPONDED. IN FLUENT GAELIC. O’MALLEY GOT TRASH DUTY. GREASE TRAPS. AND A FIVE-PAGE ESSAY. IN GAELIC. ON FOOD SAFETY."
+
+"The legends are true," Chloé stated, her voice dropping ominously. "Every single one. The Great Pig Latin Incident of '98? Real. Her encyclopedic knowledge of all past pranks? Terrifyingly accurate." "But here's the kicker," Leo’s device offered, Luna reading with dramatic emphasis. "If you're polite. If you say 'please' and 'thank you.' If you don't act like a complete barbarian..." "...she can be a sweet angel," Chloé finished, a small, genuine smile on her face. "We've seen it. Kid drops a tray, crying? Mrs. DeMarco helps clean it up, gets him a new lunch, extra cookie, no words exchanged. Like a... a cafeteria ninja angel."
+
+Alex nodded. "SHE IS... A COMPLEX AND FORMIDABLE WOMAN. SHOW RESPECT. ALWAYS. AND YOU MIGHT SURVIVE LUNCH."
+
+"So, to recap," Luna said, ticking points off on her fingers, momentarily steadying herself with a hand on Leo's shoulder rest. "No rudeness. No funny business with languages unless you want a multilingual smackdown. Be polite. Don't insult the food, especially the meat. And for the love of all that is holy, avoid the grease traps at all costs." "And if you see Josh Riley heading for the dumpsters this year," Chloé added, a twinkle in her eye, "just nod sympathetically and be glad it's not you. Again."
+
+The freshmen looked suitably terrified and awed. "Any questions?" Leo’s device asked, Luna relaying it with a final, arch look. Silence. "Good," Alex’s AAC stated. "WELCOME TO NORTHWOOD HIGH."
+
+And with that, the four seniors, their duty done, shared a knowing look and headed off to their own first-period class.
+
+Later that day, during the chaotic 5th-period lunch, the very first lunch for this new crop of ninth-graders, the efficacy of the seniors' "Unofficial Orientation" was put to an immediate, and predictable, test.
+
+From a table near the center of the freshman section, it came. A booming, overconfident shout: "PENIS!"
+
+A hush fell over the immediate vicinity. Alex and Chloé, at their usual table, exchanged a look that screamed, *“Already?”* Mrs. DeMarco, who had been calmly observing the milk dispenser, turned her head with the slow, deliberate precision of a targeting system. Her gaze, unerring, found the culprit – a freshman boy with a particularly self-satisfied smirk.
+
+She began to walk towards his table, her steps measured, her expression one of profound, weary disappointment. "Mr. Henderson, I believe?" Mrs. DeMarco inquired, her voice deceptively mild. "Yes, another Henderson. It seems the first day of school lunch simply isn't complete without at least one aspiring comedian attempting this particular... classic. One might even call it a tradition, albeit a remarkably tiresome one. It happens every first day of school, you know."
+
+The new Mr. Henderson, younger brother of the Mr. Henderson of "The Great Pig Latin Incident of '98" fame, went white.
+
+"Attempt number... let's see..." she tapped a finger to her chin, "...ah, yes. Number 316 of 'The Penis Game' in my Northwood tenure. A rather uninspired rendition, if I may say so, Mr. Henderson. Did your older brother not teach you how things worked in the Northwood High cafeteria? One would think some familial wisdom regarding the potential pitfalls of such... pronouncements... might have been imparted. Clearly, that lesson was lost, or perhaps, never delivered."
+
+Mr. Henderson stared, speechless.
+
+"Given your evident enthusiasm for public declarations," Mrs. DeMarco continued, her voice now crisping with authority, "I trust you will bring the same vigor to your new after-school responsibility. You will report to me, by the dumpsters at the back loading dock, promptly at 2:15 PM this afternoon, and every afternoon for the rest of this week. Today is Tuesday, so that means you have a full four-day immersion course. Your apprenticeship in advanced sanitation techniques awaits."
+
+She didn't need to raise her voice. Every freshman within earshot was frozen. The message was clear. Alex and Chloé watched, along with Luna and Leo from their table across the room. This was even faster than Josh Riley's downfall. Luna might have mouthed, "Told 'em so!" Leo’s device probably displayed: GENERATIONAL INEPTITUDE. AWAITING HENDERSON THE SECOND, CLASS OF 2006. Alex simply typed to Chloé: AND SO IT BEGINS. AGAIN. Chloé just shook her head, a small, very knowing smile playing on her lips. The legend of Mrs. DeMarco was safe for another generation.
+

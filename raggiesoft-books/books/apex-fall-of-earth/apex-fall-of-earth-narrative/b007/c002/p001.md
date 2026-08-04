@@ -1,0 +1,60 @@
+# Part 1: The Government-in-Exile – Monday, September 18, 2051 – 09:00 (Standard Galactic Time)
+
+The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation.
+
+For the first time in months, Wyatt and Sarah Colton were fully dressed indoors. Wyatt wore a clean, crisp black Henley and his heavy canvas pants, his dark beard neatly trimmed. Sarah wore a tailored, molecularly printed slate-blue tunic—a subtle, deliberate homage to the Helios Geoscience uniform she had worn on her first day—and dark denim.
+
+They sat side-by-side on the plush leather sofa, their eyes locked on the massive holographic glass table.
+
+Upstairs, the Vanguard and sixteen-month-old Jack were securely locked in the nursery, currently being entertained by a highly engaging, interactive holographic projection of ancient Earth aquatic life that Aria had generated to keep them occupied.
+
+"Aria," Wyatt said, his deep voice calm but carrying the heavy weight of the moment. "Is the quantum-holographic link secure?"
+
+*"The subspace tether is heavily encrypted and localized through three separate proxy relays in the Perseus Arm, Administrator,"* Aria chimed smoothly. *"The Earth Remnant cannot trace the signal back to Planet Eden. You are completely masked."*
+
+"Good," Sarah breathed, reaching over to lace her fingers tightly through Wyatt's. "Open the channel, Aria. Let's finish this."
+
+The glass table flashed a brilliant, blinding blue.
+
+Instantly, the quiet library vanished from their immediate view, replaced by a massive, three-dimensional projection of the *UNS Citadel* courtroom. It was a staggering, multi-tiered amphitheater carved out of the flagship’s hull, packed with thousands of Earth refugees, Coalition military officers, and galactic reporters.
+
+At the front of the room sat a tribunal of five Lead Magistrates representing the surviving continents of Earth.
+
+And standing in the center of the sunken floor, encased in a transparent, ceiling-height cylinder of hard-light energy, was High Director Kael.
+
+He had been stripped of his pristine, matte-black Apex uniform. He wore the drab, unadorned gray jumpsuit of a standard Coalition prisoner. The splint on his arm had been removed, but the absolute, dictatorial arrogance had not. Kael stood with his hands clasped behind his back, staring up at the Tribunal with a look of utter, undisguised contempt.
+
+"High Director Kael of Acheron," the Lead Prosecutor—a sharp-eyed woman wearing the insignia of the Joint Special Review Board—spoke into the cavernous room, her voice amplifying perfectly through the subspace link. "You stand accused of Planetary Ecocide, Crimes Against Humanity, and the systemic enslavement of millions under the guise of corporate employment. For the last two months, you have claimed sovereign immunity. You have repeatedly stated that Apex Defense Solutions was merely a contractor caught in a natural geological disaster."
+
+"Because it is the truth," Kael sneered, his voice echoing coldly. "The subterranean anomaly was a native biological hazard. Apex Defense Solutions lost billions of credits and thousands of personnel attempting to contain it. We are victims of Earth's unstable mantle. You have no proof of malice, and you have no jurisdiction over a sovereign state."
+
+The Lead Prosecutor didn't flinch. She tapped her terminal.
+
+A massive, glowing document materialized in the air above the courtroom.
+
+"Prosecution enters into evidence Document ID: DoD-AAR-NTTR-2044-Omega," the Prosecutor announced. "Compiled by the Joint Special Review Board of the United States Department of Defense, Government-in-Exile."
+
+Wyatt leaned forward on the leather sofa, his eyes scanning the floating text.
+
+"Section Two, Contractual Background," the Prosecutor read aloud, her voice ringing like a bell. "Apex Defense Solutions presented itself as a multinational private defense contractor. At no point did the Department of Defense possess actionable intelligence indicating that ADS was the military arm of a sovereign planetary government. You weaponized corporate law, Kael. You used procurement compartmentalization to quietly occupy the Nevada Test and Training Range."
+
+Kael scoffed. "Bureaucratic incompetence is not a war crime."
+
+"Section Three," the Prosecutor continued seamlessly, ignoring him. "The Lockout Event. On October 20, 2044, ADS unilaterally restricted U.S. military access, disabled joint oversight channels, and evacuated all executive personnel. You blinded the government exactly seventy-two hours before the breach."
+
+The massive crowd in the amphitheater began to murmur, a dark, heavy wave of anger rolling through the gallery.
+
+"And finally, Section Six. Operation Glass Wall," the Prosecutor’s voice dropped into a heavy, grieving tone. "The detonation of subterranean nuclear devices along the Rocky Mountains. The deliberate vitrification of a continent. Over one hundred and eighty million fatalities. You claim this was a natural disaster, Kael. You claim you tried to contain it."
+
+"We did!" Kael shouted, his composure finally cracking slightly against the sheer weight of the tribunal. "We poured millions of gallons of liquid nitrogen into the lower caverns! We tried to freeze it!"
+
+"Then why," the Prosecutor countered instantly, stepping right up to the edge of the hard-light cylinder, "does Section Eight of this exact report note two specific S.H.O.P. Marine contractors who were mysteriously reassigned to an off-grid listening post on the very day of the lockout? Contractors Wyatt Colton and Sarah Hayes."
+
+Kael froze. The blood drained completely from his face.
+
+"The DoD presumed them lost," the Prosecutor said softly, stepping back and gesturing to the empty space in the center of the room. "But they weren't lost. They were just waiting for the right time to speak."
+
+In the library on Planet Eden, Wyatt gave Sarah a firm, reassuring nod.
+
+"Aria," Wyatt commanded. "Drop the cloaking algorithm on the subspace tether. Put us in the room."
+

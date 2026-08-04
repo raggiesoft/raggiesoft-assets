@@ -1,0 +1,98 @@
+# Part 2: The Holding Pattern
+
+## Saturday, July 21, 2007 — 11:00 AM The Bridge (Basement), 105 Pepper Street SE
+
+The basement was vibrating.
+
+It wasn't the hum of Jenna’s servers or the rumble of the TFL. It was the sheer, uncontained energy of Harper Avery.
+
+She sat in her purple wheelchair in the center of the concrete floor, spinning circles around the support columns. She looked at the server rack glowing blue in the corner. She looked at the glass-walled bathroom. She looked at the massive Mega-Bed platform.
+
+"Okay," Harper announced, slamming her brakes. "I've run the diagnostics. This place is optimal. I'm moving in."
+
+She looked up at Jessica, who was leaning against the TFL tower.
+
+"My bags are in the van," Harper said. "Just grab 'em. I can sleep on the Mega-Bed. Or I'll sleep under the servers. I don't care. I am not leaving."
+
+Jenna, who was currently soldering a wire at her workbench, grinned. "Roommate! We can set up a DAW (Digital Audio Workstation) right next to the render farm!"
+
+"Hold on," Jessica said, holding up a hand. "Pause."
+
+"Why pause?" Harper argued, her voice rising in pitch (Sensory Seeker volume). "Mom is gone. Linda has custody. We're all here. Why can't I stay?"
+
+Aunt Linda descended the stairs—carefully—followed by Sarah. Linda walked over to Harper and placed a hand on her shoulder.
+
+"Because, Little Bit," Linda said gently, "I promised the judge I would provide a stable home for you in Radford. If you move in here with five adults in a basement... well, Ellen would have a field day. She'd call social services so fast your head would spin."
+
+"She can't!" Harper yelled. "She signed the papers!"
+
+"She signed custody to me," Linda corrected. "Not to Jessica. And definitely not to a fraternity house of siblings."
+
+Jessica stepped forward. She knelt down so she was eye-level with Harper.
+
+"Harper, listen to the strategy," Jessica said, her voice calm and logical. "Right now, you are fourteen. You are a minor. As long as you are a minor, Ellen has a lever she can pull. She can claim we're 'corrupting' you. She can claim the environment is unsafe."
+
+"It's safer than her house!" Harper shot back.
+
+"We know that," Jessica agreed. "But the law loves paperwork. So, here is the rule. The 'Adult Protocol'."
+
+Jessica held up three fingers.
+
+"You stay with Aunt Linda. You go to school in Radford. You get good grades."
+
+She folded one finger.
+
+"You visit us whenever you want. Weekends. Holidays. Summer breaks. You have a key to the front door."
+
+She folded a second finger.
+
+"But you do not officially move your address to 105 Pepper Street until the day you turn eighteen."
+
+Harper slumped in her chair. "Eighteen? That’s... that’s three years! That’s forever."
+
+"It is 1,217 days," Freddie said.
+
+He was sitting in The Rover near the glass bathroom door. He rolled forward.
+
+"I waited," Freddie said softly. "I waited for the bus to Seattle. I waited for the diagnosis. The wait is... difficult. But the execution must be clean."
+
+He looked at Harper.
+
+"If you move now, there is static. There is legal noise. If you move at eighteen... you are a legal adult. Ellen cannot speak. The law cannot speak. You simply... transfer."
+
+"Clean execution," Harper mumbled, kicking at the floor with her footplate. "Like a code update."
+
+"Exactly," Jessica said. "And the same goes for the twins. Amanda and Elara stay with Linda until they're eighteen. We do this by the book."
+
+"But I want to hang out!" Harper protested. "I want to record! I want to be part of the Unit!"
+
+"You are part of the Unit," Linda smiled. "And listen, honey... my apartment isn't a prison. It's Highland Village. It’s got a pool."
+
+Linda looked at Freddie.
+
+"And it’s fully accessible," Linda added. "Ground floor. Wide doors. Roll-in shower in the master bath—just like this one, though maybe not as fancy with the glass door. Freddie can come to us just as easily as you come here."
+
+Freddie perked up. "Accessible?"
+
+"I made sure of it," Linda nodded. "I told the leasing agent, 'I have a niece in a chair and a nephew in a chair, and if they can't get in the bathroom, I'm not signing the lease.' The Rover will fit just fine."
+
+"A satellite base," Freddie whispered. "Radford is... online."
+
+"We can take the bus!" Paige said, coming down the stairs with a tray of sodas. "Route 3 connects Pepper Plaza to Radford. It runs every thirty minutes on weekdays. It’s a direct link."
+
+Harper looked at Freddie. She looked at the TFL. Then she looked at Aunt Linda, who was smiling patiently.
+
+She realized she wasn't being rejected. She was being protected.
+
+"Okay," Harper sighed. "Protocol accepted. But I'm spending every weekend here."
+
+"Deal," Jessica said.
+
+"And," Harper added, pointing a finger at Jenna. "I want a countdown clock. On the server. Counting down to October 30, 2010. The second it hits zero, I'm bringing my speakers."
+
+"I'll code it tonight," Jenna promised.
+
+"Then it's settled," Linda said, clapping her hands. "Now, who wants to give me a tour of this 'Mega-Bed' I keep hearing about? I want to see if it's as comfy as Marge said it would be."
+
+"Initiating tour," Freddie said, spinning The Rover around. "Follow me."
+

@@ -1,0 +1,36 @@
+# Part 4: Texture
+
+When Heidi returned five minutes later, she looked chastened. She didn't look at Freddie. She walked stiffly to the vibes, clapped her hands twice, and yelled, "Okay! Warm-ups! Let's go!"
+
+But the chair remained.
+
+For the next hour, the world narrowed down to the keys in front of him. The anxiety that usually buzzed in the back of Freddie’s skull—the fear of social cues he was missing, the ambient noise of the room—began to quiet. The marimba made sense.
+
+"Mallets up!" Heidi barked, though the bite was gone from her voice.
+
+Freddie raised the yarn-wrapped sticks. From his seated position, the marimba was at the perfect height. He didn't have to hunch; he didn't have to lock his knees.
+
+"Hit the bar in the center," Mr. Panoff instructed, wandering out of his office and back into the flow of the room. "Do not kill the bar. Pull the sound *out* of it."
+
+Freddie struck the C key.
+
+*Thump.*
+
+It wasn't just a sound; it was a physical sensation. The vibration traveled up the mallet shaft, through his wrists, and settled somewhere behind his sternum. It was a warm, woody resonance that felt clean. Unlike the jagged screech of the feedback loop or the chaotic clatter of the drumline, this sound had a shape. It was round.
+
+"Again," Panoff commanded.
+
+Freddie hit it again. *Thump.*
+
+The patterns emerged. C went to D. D went to E. There were no hidden meanings, no sarcasm, no subtext. It was a binary system of *hit* or *rest*.
+
+"You're good at this," Paige whispered during a water break. She was leaning against her vibraphone, wiping sweat from her forehead.
+
+"It's just patterns," Freddie said, looking at the keys. He spun slightly in his chair, the swivel mechanism silent and smooth. "It's just a grid."
+
+"It's an architecture," Paige corrected softly, using the word he used for his internal world. "You're building the sound."
+
+Freddie smiled. It was the first time that morning his smile reached his eyes. He looked over at Heidi, who was aggressively tuning a timpani, ignoring him completely. It didn't matter. He had his chair. He had his sister. And now, he had the rhythm.
+
+"Yeah," Freddie said, gripping the mallets. "I can build this."
+

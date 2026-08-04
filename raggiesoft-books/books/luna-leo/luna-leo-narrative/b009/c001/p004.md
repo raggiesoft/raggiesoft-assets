@@ -1,0 +1,28 @@
+# Part 4: The District Rail Gauntlet
+
+Disembarking from the quiet, orderly Business Class car into the grand, chaotic echo chamber of Union Station was a jolt to the senses. The station was a sea of humanity, a symphony of rolling suitcases, echoing announcements, and a dozen languages all at once. Stella, the unflappable general of their small army, took the lead.
+
+"Okay, team, stick close," she commanded, her voice calm and steady. "We're heading for the District Rail Red Line."
+
+Following the signs, they navigated the bustling concourse to the elevators. This first challenge was a unique one: Union Station's famous L-shaped elevator. Olivia rolled Leo into the cab, and the doors closed behind them. When the elevator reached the mezzanine level, a *different* set of doors opened on the wall to their right, perpendicular to the ones they had entered through.
+
+"Whoa, that's weird," Luna commented as Olivia expertly maneuvered Leo's chair 90 degrees to exit. It was a small but memorable quirk of D.C. architecture. They took a second, more conventional elevator down to the subterranean platform.
+
+The platform itself was a marvel of brutalist architecture, a vast, vaulted cavern of concrete coffers. The air was cool and smelled of ozone and damp cement. After a short wait, a train glided into the station, and they boarded an accessible car.
+
+The doors chimed shut, and the train pulled out of the station... only to stop dead in the darkness of the tunnel a few hundred feet later.
+
+A moment of silence, and then the train operator's voice crackled over the intercom, garbled and nearly unintelligible. "...*unforeseen track work... single-tracking between... expect delays...*"
+
+A collective, weary groan went through the car. They were stuck. For Luna and Leo, this was the first real test of the trip. The unexpected stop and the uncertainty of the delay were a perfect recipe for anxiety. Olivia immediately engaged Leo in a quiet, distracting conversation on his Quantum Communicator, while Stella did the same for Luna, pulling out a guidebook.
+
+After what felt like an eternity but was probably only twenty minutes, the train lurched back into motion. They crawled along until they finally reached their destination: Judiciary Square.
+
+They disembarked, and the rest of the journey was surprisingly smooth. The walk to The Statesman Hotel was only a few blocks. As they entered the cool, quiet, marble-floored lobby, the stress of the "single-tracking bullshit" melted away.
+
+"Good afternoon," Stella said to the concierge, her confidence unwavering. "Checking in. The name is Porter. I believe we have an early check-in arranged."
+
+The concierge smiled. "Of course, Ms. Porter. Welcome to The Statesman. Your rooms are ready."
+
+Their public transit gauntlet was over. They had faced their first challenge, and thanks to the fortress's quick thinking, they had come through it unscathed.
+

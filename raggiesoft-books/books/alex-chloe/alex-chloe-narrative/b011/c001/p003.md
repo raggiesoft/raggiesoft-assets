@@ -1,0 +1,20 @@
+# Part 3: Washington
+
+The morning of their fifth and final day on the road began in Missoula, Montana, with a new, electric energy in the air. This was it. Today, they would reach their new home.
+
+The drive west from Missoula was the most beautiful of the entire trip. They crossed the Idaho panhandle, a brief but lovely stretch of pine forests and sparkling lakes, before a large, unassuming green sign appeared on the side of the highway: "Welcome to Washington."
+
+A spontaneous, joyful cheer erupted in both cars. Chloé reached back from the driver's seat of the Wayfarer and high-fived Alex. In the sedan behind them, Sophie and Megan did the same. They had made it.
+
+The landscape of Eastern Washington was a surprise, a vast, rolling expanse of dry, golden hills under a massive blue sky, a stark and beautiful contrast to the lush green they had been expecting.
+
+As the afternoon began, they started their ascent into the Cascade Mountains. The dry, golden hills gave way to towering pine forests, the air growing cooler and cleaner. The highway began to climb, winding its way through breathtaking mountain vistas. This was the final, iconic leg of their journey: the drive over Snoqualmie Pass on I-90.
+
+The two-car convoy moved steadily up the pass. The scenery was epic, a world of jagged grey peaks, deep green valleys, and the brilliant, white ribbon of the highway cutting through it all. Alex, who had been a quiet, contented navigator for most of the trip, was now a captivated tourist, his Quantum Communicator Pro V a constant stream of awestruck observations about the scale of the mountains and the beauty of the landscape.
+
+Chloé and Megan, both skilled drivers, navigated the winding mountain roads with a focused confidence. James and Sophie, in the passenger seats, were a constant source of snacks and drinks, the perfect, seasoned support crew.
+
+As they reached the summit of Snoqualmie Pass and began their long, final descent towards the Puget Sound, a profound sense of arrival settled over them. They were tired, they were road-weary, but they were also filled with a deep, quiet, and triumphant joy.
+
+They had crossed a continent, not as a family on vacation, but as a team on a mission. They had done it right. They had done it with care, with love, and with a shared, unwavering purpose. The long road west was almost over. Their new life, in a new world, was just on the other side of the mountain.
+

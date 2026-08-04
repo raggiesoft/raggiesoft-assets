@@ -1,0 +1,88 @@
+# Part 5: The Recharge
+
+## Wednesday, July 23, 2003 16:30 PM
+
+The descent from **Wind Rock** was faster than the ascent, aided by gravity and the adrenaline of success.
+
+They reached the gravel lot where the **Horizon Avalon** waited, its silver paint dusty from the mountain air.
+
+"Decontamination required," Jessica noted, unlocking the doors. "We are covered in particulate matter."
+
+"Dirt," Paige smiled, wiping a smudge from her cheek. "It’s good dirt."
+
+They piled into the car. Jessica started the engine, and the AC blasted cool air into the cabin.
+
+Freddie sat in the passenger seat. Usually, after a physical exertion of this magnitude—a mile hike over uneven terrain in 90-degree heat—he would be in "System Failure."
+
+He would be non-verbal. He would be shaking. He would require immediate horizontal stabilization in the "Recharge Mode"—head in Paige’s lap, arm over his chest, total silence.
+
+But as the car wound its way down the mountain road, Freddie sat upright.
+
+He looked out the window at the passing trees. His legs burned, yes. His shirt was soaked with sweat.
+
+But his mind was clear. The static wasn't there.
+
+"Status check?" Paige asked from the back seat, leaning forward to check on him. "Battery level?"
+
+Freddie blinked. He ran a diagnostic.
+
+Energy: Low. Physical Fatigue: High. Mental Clarity: Maximum.
+
+"Battery is... functional," Freddie said, surprised. "I do not require the brake."
+
+"Really?" Jessica glanced at him. "No crash?"
+
+"No crash," Freddie confirmed. "The input was organic. The wind. The rock. The view. It was high-bandwidth, but it was... compatible."
+
+He looked at the forest flashing by. He thought about the silence of the summit.
+
+It wasn't the artificial silence of the testing center, created by white noise machines and soundproofing. It was real silence.
+
+"I enjoyed the isolation," Freddie murmured. "No sirens. No crowds. No friction."
+
+"It's peaceful up here," Paige agreed. "Just us and the bears."
+
+"Bears?" Freddie asked.
+
+"Black bears," Jessica said. "They live in the woods. But they leave you alone if you leave them alone."
+
+Freddie processed this. A biological entity that respected boundaries.
+
+"I have a new objective," Freddie announced suddenly.
+
+"Oh yeah?" Jessica shifted gears as they hit the bottom of the mountain. "What's the mission?"
+
+"Camping," Freddie stated.
+
+"Camping?" Paige laughed. "Like, in a tent?"
+
+"Affirmative," Freddie said, his mind already building the schematic. "Rugged back country. Not a campground with RVs and generators. The wild."
+
+He turned in his seat to look at them.
+
+"I want to spend a night in the signal-free zone. Just the Unit. In a tent. Sleeping on the ground."
+
+Jessica raised an eyebrow. "Freddie, none of us know how to camp. We're suburban kids. We consider 'roughing it' to be a hotel without **PBO** (Premiere Box Office)."
+
+"We can learn," Freddie insisted. "There are manuals. There are equipment lists. We can acquire the gear."
+
+He looked at the mountain receding in the rearview mirror.
+
+"I want to see the stars from the ground," he whispered. "Without the light pollution of the streetlamps."
+
+Paige leaned forward and wrapped her arms around his shoulders from the back seat.
+
+"I'm in," she said. "If you want to sleep in the woods, we sleep in the woods. I’ll fight the bears."
+
+"I'll bring the bug spray," Jessica sighed, but she was smiling. "Okay. Add it to the bucket list. 'Operation: Wilderness.'"
+
+Freddie settled back into his seat. He didn't need to lie down. He didn't need to hide.
+
+He watched the trees turn back into telephone poles, the dirt road turn back into pavement.
+
+He was tired, but he wasn't broken. The mountain had recharged him in a way the sofa never could.
+
+"Operation: Wilderness," Freddie repeated. "Status: Pending."
+
+The Avalon rolled back into the heat of the valley, carrying three explorers who had just found a new map.
+

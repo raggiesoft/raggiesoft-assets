@@ -1,0 +1,56 @@
+# Part 3: The Mountain's Mouth – Thursday, May 9, 2045 – 17:22
+
+The altimeter needle plummeted toward the zero-mark.
+
+"Fifty meters!" Sarah yelled over the deafening roar of the rain hammering the viewport. "Thirty! You're right on top of it, Wyatt!"
+
+Wyatt didn't brace for a crash. He relied purely on the muscle memory built from years of threading heavy, submerged welding rigs through deep-sea trenches in pitch-black water. At the exact second the needle hit ten meters, Wyatt pulled the heavy throttles sharply back, flaring the ventral repulsorlifts to maximum output for a fraction of a second.
+
+The massive dreadnought completely arrested its own momentum.
+
+*The Nomad* settled through the torrential downpour. The heavy-duty landing struts made contact with the solid rock of the plateau. Wyatt immediately killed the main drives, leaving only the violent drumming of the super-cell storm against the armored glass.
+
+He let go of the steering yoke, his massive hands trembling slightly from the sheer adrenaline dump. He collapsed back into the captain's chair, letting out a long, heavy exhale.
+
+"Perfect," Sarah breathed, her heart still racing as she unbuckled her four-point harness. "You threaded the needle, Wyatt."
+
+"Let's just hope we don't have to do that again," Wyatt muttered, wiping a sheen of cold sweat from his forehead. He reached forward and flipped the toggle for the exterior floodlights.
+
+Twin beams of high-intensity halogen light cut through the blinding gray sheet of rain, illuminating the sheer, black rock face of the mountain directly in front of them.
+
+"Aria," Sarah called out, looking up at the ceiling array. "Initiate a direct digital handshake with the bunker's local network. Transmit our updated Administrator registry and execute a Class-1 Root Override. Tell the mountain that the owners are home."
+
+*"Initiating executive override protocol,"* Aria confirmed.
+
+For a tense, silent moment, nothing happened. The rain continued to hammer the viewport.
+
+Then, the very foundation of the plateau began to vibrate. It wasn't the storm. It was a deep, localized seismic rumble.
+
+Right in front of *The Nomad*, the solid, sheer face of the black mountain literally began to split apart.
+
+Wyatt and Sarah stared in absolute awe as a massive, flawlessly camouflaged hangar door—so perfectly textured and painted that it was entirely indistinguishable from the surrounding natural geology—slowly groaned open, revealing a cavernous, brilliantly illuminated interior.
+
+*"Override successful,"* Aria announced cheerfully. *"The subordinate system has registered Wyatt and Sarah Colton as its primary residents. Engaging automated docking sequence."*
+
+From the ceiling of the massive cavern, a grid of heavy-duty, 2044-era tractor beams flared to life. Without Wyatt needing to touch the flight controls, the invisible tethers locked onto the dreadnought's ablative armor.
+
+Slowly, smoothly, the multi-ton ship was pulled forward, gliding effortlessly off the rain-slicked plateau and into the dry, pristine belly of the mountain.
+
+The moment the aft thrusters cleared the threshold, the massive camouflaged doors began to grind shut.
+
+Wyatt watched the rear proximity monitors as the jagged, rocky exterior of the doors locked perfectly together, entirely sealing the cavern. The deafening, apocalyptic roar of the super-cell storm was instantly severed, replaced by the deep, echoing silence of an impenetrable fortress.
+
+*"The primary hangar is sealed and environmentally stabilized,"* Aria reported, the pulsing amber emergency lights in the Operations center fading back into a warm, relaxed glow. *"Exterior optical camouflage is active. From the outside, the mountain face appears entirely undisturbed."*
+
+Sarah let out a breathless laugh, her hands resting on the back of Wyatt's chair.
+
+The billionaire hadn't just built a bunker; he had built a magic trick. Even if High Director Kael somehow suffered a lapse in corporate greed and sent a thousand elite scout ships to sweep Exoplanet 4, they would never find *The Nomad*. It wasn't just off the grid; it was physically swallowed by the planet.
+
+Outside the viewport, a heavy-duty, weather-sealed docking umbilical extended from the hangar wall, locking flush onto the starboard airlock with a heavy, satisfying metallic seal.
+
+*"Shore power connected,"* Aria noted. *"The ship's fission reactor is spinning down. We are now running entirely off the facility's localized geothermal grid."*
+
+Wyatt unbuckled his harness and stood up, looking out at the incredibly vast, brightly lit hangar that now housed their ship. The sheer scale of the billionaire's paranoia had given them the ultimate, untouchable sanctuary.
+
+"Well, Mrs. Colton," Wyatt smiled, looking toward the ladder that led down to the newly connected airlock. "The storm can't touch us, and the galaxy can't see us. Shall we go see what our new living room looks like?"
+

@@ -1,0 +1,100 @@
+# Part 1: The First Satellite
+
+The ride home in the family van had been a blur of grey noise. Freddie sat in the back, staring at the floor mats, his hands clamped over his ears even though the radio was off. The words Josh Riley had shouted in the cafeteria—I told her exactly what he was up to—were looping in his head like a corrupted audio file.
+
+He felt dirty. He felt like the "monster" Josh had painted him to be.
+
+When they got inside the house, Freddie didn't make it to his bedroom. His legs, heavy with the spasticity triggered by the stress, simply gave out in the living room. He collapsed onto the beige sofa, curling into the corner, burying his face in a throw pillow to muffle the sound of his own ragged breathing.
+
+"I didn't do it," Freddie sobbed into the fabric. "I didn't bet. I didn't say those things."
+
+"We know," Paige whispered. She was sitting right next to him, her arm wrapped tight around his shoulders, her cheek pressed against the back of his head. "We know you didn't. Josh is a liar. He’s static, Freddie. Just static."
+
+Jessica was pacing the rug in front of them, her fists clenched. She was still wearing her coat, too angry to take it off.
+
+"I should have hit him," Jessica hissed, kicking at a loose thread on the carpet. "I should have dumped his tray on his head. Mrs. DeMarco went too easy on him. Trash duty? He deserves to be expelled."
+
+She stopped pacing and looked at Freddie. Her expression softened instantly from rage to heartbreak. She sat down on the coffee table, leaning forward to rub Freddie’s knee.
+
+"He's jealous, Freddie," Jessica said fiercely. "He sees that you're smart, and that you're talented, and that Courtney actually liked you. He couldn't handle it, so he broke it. That’s what weak people do."
+
+"She hates me," Freddie choked out. "She looked at me like I was... a virus."
+
+"She's confused," Paige said, squeezing him tighter. "She'll figure it out. And if she doesn't... then she didn't deserve the snowflake drawing anyway."
+
+Freddie squeezed his eyes shut. The logic helped, but the pain was a physical weight in his chest. He felt like he was floating away, untethered by the rejection. He needed more gravity.
+
+Then, there was a sound of small, stomping feet.
+
+Harper, seven years old and wearing a shirt covered in glitter paint, marched into the living room. She had her purple headphones around her neck, but she wasn't listening to music. She was looking at the scene on the sofa.
+
+She saw Jessica’s angry face. She saw Paige holding Freddie. And she saw Freddie, his shoulders shaking, his face hidden in the pillow.
+
+Harper stopped. She tilted her head. She didn't understand the high school drama. She didn't know about Josh or Courtney or the cruel rumors.
+
+She just knew the data she could see: The Captain is leaking.
+
+She walked up to the sofa. She stood right in front of Freddie’s knees.
+
+"Freddie?" Harper asked, her voice small.
+
+Freddie didn't look up. He couldn't let her see him crying. He was the big brother. He was supposed to be the strong one.
+
+"Go play, Harper," Jessica said gently. "Freddie isn't feeling well."
+
+Harper ignored the order. She reached out and patted Freddie’s knee, right where Jessica’s hand was.
+
+"Is he broken?" Harper asked.
+
+"His heart is hurt," Paige explained softly.
+
+Harper processed this. She knew what to do when her knee was hurt. She knew what to do when she fell out of her chair. You went to a safe place. You got a hug.
+
+She looked at the space on the sofa. It was full. Paige was taking up the side.
+
+So Harper improvised.
+
+She gripped Freddie’s thigh with her small hands. She stepped on his foot (he flinched, but didn't pull away). She climbed.
+
+"Harper, be careful," Jessica warned, reaching out to steady her.
+
+Harper scrambled up. She didn't sit next to him. She sat on him. She wiggled her way into the space between his chest and his knees, settling herself directly in his lap.
+
+Freddie froze. He stopped crying for a second, shocked by the sudden weight.
+
+He lifted his head from the pillow. He looked down.
+
+Harper was sitting there, looking up at him with wide, serious brown eyes. She reached up with her small hands and placed them on his tear-stained cheeks.
+
+"Don't cry," Harper commanded.
+
+Freddie blinked, looking at her through his fogged glasses.
+
+"Harper," he whispered, his voice cracking. "I am... sad."
+
+"I know," Harper said. She leaned forward and pressed her forehead against his chin. "But I am here. I am heavy."
+
+She snuggled closer, wrapping her arms around his neck. She was warm. She smelled of grape juice and crayons. She was a solid, undeniable reality in a world that felt like it was dissolving.
+
+Freddie hesitated. His sensory system usually rejected sudden touch. But this... this was grounding. It was a specific, heavy pressure centered on his chest.
+
+Slowly, carefully, Freddie brought his arms up. He wrapped them around her small back, holding her steady.
+
+"You are heavy," Freddie agreed, a tiny, watery smile touching his lips.
+
+"I'm a rock," Harper declared, resting her head on his chest. "I'm holding you down so you don't fly away."
+
+Paige looked at Jessica. Jessica looked at Paige.
+
+They saw Freddie’s breathing slow down. They saw his hands stop shaking as he focused on holding his little sister.
+
+"She's a rock," Paige whispered, leaning her head on Freddie’s shoulder, completing the pile.
+
+"She's a Avery," Jessica corrected, wiping her own eyes.
+
+Freddie closed his eyes again. The static of the cafeteria was still there, but it was quieter now. It was muffled by the weight of the seven-year-old girl who didn't care what Josh Riley said, who didn't care about the rumors, and who just wanted her brother to stop leaking.
+
+"Status?" Harper whispered into his shirt.
+
+"Better," Freddie breathed. "Status is... better."
+

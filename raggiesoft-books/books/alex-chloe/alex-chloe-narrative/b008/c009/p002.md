@@ -1,0 +1,20 @@
+# Part 2: A Gentle Deconstruction
+
+The next few days were a masterclass in gentle, purposeful action. The goal was to pack up Chloé's entire student life for the journey home, but every action was calibrated to the needs of Alex's recovery. The air hummed not with frantic haste, but with a carefully choreographed ballet of love and logistics, conducted almost entirely in the soft, flowing cadence of Québécois French—the only language Alex felt completely safe in now.
+
+The small apartment had become a busy, loving command center. James and Thomas, with their practical nature, moved with a shared, unspoken understanding, carefully dismantling furniture. Emily and Sophie were the heart of the packing operation, surrounded by a sea of cardboard boxes. And Megan was the versatile floater, a bridge between worlds, helping pack one minute and providing a steadying presence for Alex the next.
+
+The conversation was a fluid, bilingual dance. Sophie would hold up a chipped NPU coffee mug. "*Tu penses qu'elle veut garder ça?*" she'd murmur. (Do you think she wants to keep this?) Before Megan could look confused, Emily would answer in French and then seamlessly translate. "*Ah, oui, c'est certain,*" she'd say with a knowing smile. "She and Alex bought matching ones their first week here."
+
+They saw firsthand the living reality of the bond that had ultimately saved their son. They saw how Chloé would instinctively pause her task, her head tilting. She’d turn to Alex, who was positioned near the sliding glass door, watching the rain. "*T'as soif?*" she'd ask softly. (Are you thirsty?) Alex would just give a subtle nod, a gesture so small only she would catch it. As she held a straw to his lips, the parents and Megan would pause, a single, orbiting system, careful not to break their gravitational pull.
+
+The evenings brought the most intimate and necessary acts of care. Chloé's small, student-sized bathroom was not handicapped accessible, a challenge they now faced as a team. Megan and Chloé would work in perfect, unspoken sync to help Alex with his bathing and toileting needs. Chloé, who knew Alex's body and needs better than anyone, would guide the process, while Megan provided the essential extra set of strong, steady hands. For Alex, surrounded by their gentle, respectful care, the shame and helplessness Vera had cultivated began to wash away.
+
+Later, as the apartment grew more spartan, the sleeping arrangements were an unspoken, foregone conclusion. The small, dismantled guest bed was packed away. There was only Chloé's king-sized bed. For the three of them, it was the most natural thing in the world. Alex would be in the middle, a position of ultimate safety and comfort. Chloé would be on one side, his anchor. And Megan would be on the other, his steadfast guardian. To them, it wasn't strange; it was a fortress, a triple-thick wall of safety and love to protect him through the night. Alex couldn't imagine it any other way.
+
+On the last night, as the room was nearly empty, filled with the ghosts of posters and the scent of cleaning spray, Chloé knelt beside Alex’s chair, leaning her head against his shoulder. For a long moment, they just sat together, watching the rain, the silence between them more comforting than any words.
+
+Alex lifted his hand to his keyboard. A few soft taps, and the synthesized voice broke the quiet. It was soft, but it carried across the nearly empty room with absolute clarity.
+
+"*Prêt à rentrer.*" (Ready to go home.)
+

@@ -1,0 +1,120 @@
+# Part 10: The Architect – Sunday, May 12, 2045 – 17:45
+
+The simulated golden hour in the Earth Conservatory had fully transitioned into a vibrant twilight. The massive micro-LED vaulted ceiling shifted seamlessly from a bright blue to a deep, bruised violet, matching the real-world evening settling over Exoplanet 4.
+
+Wyatt drove the heavy steel spade into the earth one last time, turning over the final clod of rich, dark topsoil for the small, newly established garden plot near the reflecting pond. He leaned on the wooden handle, wiping a streak of sweat and dirt from his forehead, and let out a long, satisfied breath.
+
+He turned around to look at Sarah.
+
+She was sitting precisely where he had placed her on the soft, thick grass beneath the weeping willow. Completely bare, completely relaxed, and currently attempting to brush a stubborn clump of damp soil off her abdomen.
+
+The sharp, agonizing cramp that had seized her core earlier had completely faded, replaced by a dull, entirely ignorable background ache that she firmly attributed to the 0.48 gravity of *Anchor*.
+
+But as Wyatt watched her brush the dirt away, his mechanic's eye caught something unexpected.
+
+He paused, leaning heavily on the spade. He blinked, fully expecting it to just be a trick of the simulated twilight or the angle she was sitting at. But the silhouette was distinct.
+
+"Sarah?" Wyatt said, his voice dropping into a low, confused rumble.
+
+Sarah looked up, tossing the empty seed packet aside. "Yeah?"
+
+Wyatt stepped over the newly planted tomato trenches, walking up to the edge of the grass. He didn't say anything immediately. He just dropped to one knee in the soft bluegrass and reached out, his calloused, dirt-stained hand hovering just inches from her stomach.
+
+"Are you... pushing your stomach out?" Wyatt asked, a completely baffled smile touching his lips.
+
+Sarah frowned, looking down at herself. "No. Why?"
+
+She brought her own hands down to her abdomen. The second her fingers brushed her skin, she froze.
+
+The flat, athletic stomach she had possessed just this morning was gone. The muscle wall felt distinctly tight, and there was an undeniable, pronounced swell pushing outward from her lower abdomen. It was small, but on her incredibly lean frame, it was glaringly obvious.
+
+It didn't look like a muscle knot. It looked like a bump.
+
+Sarah’s eyes went wide. She pressed her hands flat against the swell, a sudden, frantic wave of confusion washing over her.
+
+"Wyatt, what is this?" Sarah gasped, her heart rate instantly spiking. "It wasn't there this morning. I swear it wasn't."
+
+Wyatt’s protective instincts immediately overrode his confusion. He gently covered her hands with his own, feeling the firm, unnatural tension in her abdomen.
+
+"Hey, it's okay," Wyatt grounded her, his voice a steady anchor. "It's probably just massive inflammation. You tore a stabilizer muscle on the moon, remember? The body swells up to protect the tear."
+
+Sarah shook her head rapidly, her analytical mind completely rejecting the theory. "No. No, muscle inflammation doesn't look like this. It doesn't feel like this. It feels... hard."
+
+She looked up, panic bleeding into her dark eyes.
+
+"Aria!" Sarah called out, her voice echoing sharply across the quiet reflecting pond. "Aria, run a localized biometric scan! Right now!"
+
+*"Scanning, Sarah,"* Aria’s voice filtered smoothly from the hidden acoustic drivers in the artificial hills. There was a three-second pause that felt like an eternity.
+
+*"Biometric scan complete. I am registering a significant, localized expansion of the lower abdomen. Blood pressure is slightly elevated, and core temperature has increased by zero point four degrees Celsius. However, I am detecting zero signs of internal hemorrhaging, muscular tearing, or severe trauma."*
+
+"Then what is it?" Sarah demanded, her hands trembling under Wyatt's. "Why am I swelling?"
+
+The glowing blue light of the simulated evening seemed to pulse as the AI synthesized the data.
+
+*"The physical symptoms you are experiencing—specifically the sudden abdominal distension, elevated basal temperature, and the intense cramping you reported earlier—align perfectly with a severe biological reaction,"* Aria explained, her tone shifting into a highly clinical cadence. *"Specifically, you are exhibiting the classic physiological markers of early-stage gestation and a massive hormonal influx."*
+
+Wyatt completely froze. He stared at the ceiling, his mind suddenly unable to process the words. "Gestation?"
+
+*"Correct, Wyatt,"* Aria confirmed smoothly. *"Based on the archived obstetric data, the rapid swelling you are seeing—commonly referred to as extreme bloating in early gestation—is caused by an aggressive, extraordinarily high surge of progesterone relaxing the smooth muscle tissues, combined with significant localized fluid retention. It is a completely natural response to pregnancy."*
+
+Sarah stopped breathing. The entire Earth Conservatory seemed to spin.
+
+"Pregnancy?" Sarah whispered, the word sounding completely foreign on her tongue.
+
+She looked at Wyatt, sheer, unadulterated terror mixing with absolute disbelief. "Aria, that's impossible. I got the S.H.O.P. Marine Omni-Cycle injection before I left the colony. I have five and a half months of active blockers left. And even if the blocker failed, a baby bump doesn't just appear out of nowhere! The math makes zero sense. It's May!"
+
+*"I understand your confusion, Sarah,"* Aria replied, her synthesized voice remaining perfectly calm and educational. *"However, biological data supersedes corporate schedules. And your temporal mathematics are currently flawed. Please recall the localized calendar calibration we executed upon planetfall."*
+
+Wyatt’s brow furrowed. "The calendar calibration?"
+
+*"Affirmative,"* Aria reminded them gently. *"We advanced the ship's registry from November to May to perfectly align with Exoplanet 4's local spring season. You did not travel through time; we merely adjusted the display. If we revert to the standard Earth calendar, today is November 6th, 2044. Exactly sixteen standard twenty-four-hour cycles have elapsed since October 21st."*
+
+Wyatt let go of her hands, sitting back on his heels in the grass. The chronological math violently crashed together in his head, seamlessly aligning with the biology.
+
+Sixteen days.
+
+Wyatt stared at the dark soil of the garden. The timeline snapped into perfect, horrifying focus.
+
+Sixteen days ago, they weren't exploring the mountains of Eden. They weren't flying the runabout.
+
+Sixteen days ago, they were barricaded inside an abandoned, dust-choked break room in Sector 4 of the Nevada Test and Training Range. It was the very first time they had dropped the corporate armor. It was the very first time they had made love.
+
+"The break room," Sarah breathed, the exact same realization hitting her. She looked at Wyatt, her eyes wide. "Wyatt... sixteen days ago. The first time."
+
+Wyatt’s jaw locked. The sheer, ruthless cruelty of Apex Defense Solutions had finally reached its absolute peak.
+
+The corporation hadn't just built a collapsing bunker or abandoned millions of people to die. They had cut corners on the most fundamental level of human biology.
+
+"The shot," Wyatt muttered, the anger burning hot in his chest. "Apex is too cheap to outfit an acquisition transfer with proper armor. They're too cheap to buy enough beds for their contractors."
+
+He looked at Sarah, the devastating truth crystal clear.
+
+"Sarah... they didn't give you a six-month hormone blocker. They gave you a cheap saline placebo."
+
+Sarah stared at him, the reality of the corporate betrayal slamming into her. The Megacorporation hadn't just stolen her labor; they had lied about her own body just to save a few credits on the medical budget.
+
+But as the initial shock of the betrayal faded, the true, biological reality of what was actually happening took over.
+
+She looked down at the pronounced, impossible swell of her stomach. The intense bloating and the dull ache in her core wasn't a torn muscle. It was an overwhelming flood of hormones. It was life.
+
+It was life physically anchoring itself inside her with an intensity that neither of them fully understood yet.
+
+"Aria," Sarah said, her voice dropping to a trembling, awestruck whisper. "You're absolutely sure? The scan is positive?"
+
+*"The localized biometrics are definitive, Sarah,"* Aria confirmed warmly. *"You are approximately four weeks pregnant."*
+
+Wyatt looked at the woman he loved. The carefully planned "January Timeline" was completely, entirely shattered. The corporate calendar was a lie, and their own calendar was a ghost.
+
+He didn't care.
+
+A massive, overwhelming smile broke across his scarred face. He moved forward, pulling Sarah flush against his chest and burying his face in her neck.
+
+"A baby," Wyatt breathed, completely ignoring the dirt on her skin. "Sarah, we're having a baby."
+
+Sarah wrapped her arms around his broad shoulders, burying her face in his neck as a completely different kind of tears began to stream down her face.
+
+They had lost the valley garden to the flood, but they had just found something infinitely more precious.
+
+They were going to be parents. And they were starting right now.
+

@@ -1,0 +1,74 @@
+# Part 2: The St. Louis Convergence (10:15 AM CST)
+
+The fluorescent lights of Lambert-St. Louis International Airport hummed with a low, chaotic energy, but Brittany Bennett barely registered the noise. She stood near the arrival gate of the inbound flight from Seattle, shifting her weight to favor her left leg. The familiar, tight ache of her cerebral palsy spasticity radiated through her right hip—a constant, low-grade limp that flared up when she was tired or stressed.
+
+And she was exhausted.
+
+Just a few hours ago, she had packed two duffel bags, left her apartment keys on the kitchen counter, and walked away from Ryan without a backward glance. The adrenaline was still thrumming in her veins, but it was entirely eclipsed by the desperate anticipation of the blinking arrival screen above the gate desk. *Flight Arrived.* The jet bridge doors finally swung open. A steady stream of tired travelers began to spill out into the terminal. Brittany held her breath, standing on her tiptoes, her eyes scanning the crowd.
+
+Then, she saw her.
+
+An airport gate agent was pushing a heavy-duty, blue SkyGlide transport chair up the incline of the jet bridge. Sitting in the chair, a pair of lightweight forearm crutches resting securely across her lap, was Megan. She looked exhausted, her hair pulled back into a messy bun, but the moment she locked eyes with Brittany over the sea of strangers, her face completely broke open into a radiant, tearful smile.
+
+"Brit!" Megan choked out, waving frantically.
+
+Brittany didn't care about the ache in her leg. She hurried forward as the gate agent released the handlebar, causing the chair to instantly lock into place. The second Megan was within reach, Brittany threw her arms around her cousin. Megan dropped her crutches clattering to the carpet and hugged her back with a crushing, desperate grip.
+
+They held onto each other right there in the middle of the terminal concourse, ignoring the travelers flowing around them. It was the first time the triplets had started to physically reassemble.
+
+"You made it," Brittany whispered, tears spilling hot and fast down her cheeks. "We're actually doing this."
+
+"We're doing it," Megan sobbed, burying her face in Brittany's shoulder. "I'm never going back to Redmond. I'm completely done."
+
+Megan pulled back, wiping her eyes with the sleeves of her sweater, and reached into her pocket. She pulled out her cell phone, intending to check the time. The moment the screen illuminated, the device began to vibrate violently in her hand. A rapid, endless sequence of digital chimes pierced the air. The screen was completely filled with missed calls, voicemails, and a wall of furious, demanding text messages from Chris.
+
+Megan’s breathing instantly hitched, her eyes widening as the digital ghost of her abuser tried to reach across the country and pull her back into the cage. The sensory overload of the rapid vibrations threatened to trigger a panic attack right there at the gate.
+
+Brittany reached down and covered Megan's hand with her own, stopping the vibration.
+
+"Turn it off," Brittany commanded, her voice dropping into the same fierce, matriarchal register that Sarah used. "Hold the power button down and turn it completely off. He doesn't get to talk to you anymore."
+
+"But what if Auntie Ev or Sarah need to reach us?" Megan panicked, her thumb hovering over the screen.
+
+"They have my number," Brittany assured her, pulling her own sleek, prepaid flip-phone out of her jacket. "I bought this on the way to the airport. Ryan doesn't know this number exists, and Chris certainly doesn't. This is our secure line. Shut yours down."
+
+Megan let out a shaky breath of relief. She held the button down until the screen went entirely black, severing Chris's digital tether for good. She dropped the dead piece of plastic into her bag and looked up at her cousin.
+
+"Call home," Megan urged, her eyes bright. "Tell him we're together."
+
+Brittany flipped her phone open and dialed the familiar Virginia Beach landline. It only rang once.
+
+"Hello?" The voice on the other end was breathless, instantly recognizable.
+
+"Hey, Nate," Brittany smiled, holding the phone out slightly so Megan could lean in and listen. "The package has been secured. We are sitting at the gate in St. Louis."
+
+"You're together?!" Nate's voice cracked, vibrating with an overwhelming, unadulterated joy that cut straight through the cellular static. "You're both there? You have Megan?"
+
+"I'm right here, Nate!" Megan called out toward the speakerpiece, laughing through her remaining tears.
+
+"I can't wait!" Nate practically shouted, the heavy exhaustion of yesterday completely vanished from his tone. "Sarah and I are leaving for the airport soon! We're going to be right at the bottom of the escalators!"
+
+"Our flight to Norfolk boards in about two hours," Brittany told him, her own heart soaring at the sound of his excitement. "We're going to grab some food and head to the gate. We'll see you this afternoon, buddy. We love you."
+
+"I love you guys too! So much!"
+
+Brittany ended the call and snapped the phone shut, a profound sense of peace settling over her. The perimeter was secured. They just had to make the final jump.
+
+She looked down at Megan, who was retrieving her forearm crutches from the carpet. "Alright. The flight is in two hours, and I am absolutely starving. Food court?"
+
+"Burger combos," Megan declared instantly, settling her crutches across her lap. "The greasiest, most comforting airport burger combos we can find."
+
+"Deal." Brittany stepped behind the blue SkyGlide chair and gripped the wide, black handlebar. She gave it a tentative push, but the chair refused to budge.
+
+"Oh, wait," Megan laughed, pointing up at the bar. "You have to push down on the handle to release the brake. The second you let go, it locks itself again."
+
+Brittany adjusted her grip, pressing her weight down into the thick handlebar. With a quiet mechanical *click*, the brakes disengaged, and the chair rolled smoothly forward.
+
+"Actually, this is perfect," Brittany smiled, keeping her weight heavily anchored on the bar.
+
+It was the unspoken, biomechanical synergy of their shared neurodivergence. Megan needed the chair to conserve her energy and manage her own spasticity after the grueling flight, but for Brittany, having to constantly lean her weight into that braking bar provided the exact physical counterbalance she needed. It acted like a rolling stabilizer, completely offsetting her limp and taking the pressure off her aching hip.
+
+They moved through the bustling terminal with effortless, synchronized ease. As they navigated toward the smell of the food court, the crushing weight of their respective toxic relationships faded into the background. They were finally heading home to Auntie Ev, to Sarah, and to Nate.
+
+The triplets were coming back together.
+

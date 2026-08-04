@@ -1,0 +1,76 @@
+# Part 7: The Machine Shop (The M.U.L.E. Begins)
+
+## August 28, 2006 BSU Engineering Building - "The Sandbox" 02:00 PM
+
+Leo rolled into the ground-floor machine shop. It was a cathedral of industry—high ceilings, smell of ozone and cutting fluid, the hum of CNC mills.
+
+Sarah and Amanda were already there, standing by a layout table near the waterjet cutter. They had changed out of their lecture clothes into shop aprons and safety glasses.
+
+"Right on time," Sarah said, checking her watch. She didn't ask "How are you?" She pointed to the table. "I pulled the spec sheet for 6061-T6 aluminum. We have enough scrap stock for the prototype brackets."
+
+Leo rolled up to the bench. He tapped his Quantum Communicator.
+
+"EFFICIENT," the robotic voice said. "LET'S MEASURE."
+
+He parked his Titan X-Treme. He didn't have to make small talk. He didn't have to explain his disability.
+
+Amanda pulled out a set of digital calipers. "Okay, Leo. I need the exact diameter of your rear frame rail. Hold still."
+
+She knelt down next to his chair. She didn't look at his legs with pity; she looked at the steel tubing with calculation.
+
+"One inch," Amanda read. "Standard tubing. That makes the clamp design easy. We can use a two-piece clamshell mount."
+
+"Quick release?" Sarah asked, sketching on a pad.
+
+"NECESSARY," Leo typed. "FOR BATTERY ACCESS."
+
+"Got it," Sarah said. "We'll use a spring-loaded pin system. Like a trailer hitch."
+
+They worked for an hour. The conversation was technical, precise, and safe.
+
+- "What's the load rating?"
+
+- "Shear strength on that bolt?"
+
+- "Clearance for the bus ramp angle?"
+
+At 3:00 PM, Sarah held up a cardboard prototype of the bracket. She held it against the back of Leo's chair.
+
+"Clearance looks good," Sarah noted. "It clears the battery cover by half an inch."
+
+"And the center of gravity stays low," Amanda added. "You won't tip over doing a wheelie."
+
+Leo grinned. He tapped his screen.
+
+"I DO NOT DO WHEELIES. I DO PRECISION MANEUVERS."
+
+Amanda laughed—a dry, engineer's laugh. "Right. Precision maneuvers. Okay, I'll CAD this up tonight. We can cut the metal on Thursday."
+
+"Thursday," Leo agreed.
+
+He looked at them. They were wiping grease off their hands. They weren't looking at him like a "special needs student." They were looking at him like a Lead Engineer.
+
+He felt a wave of gratitude. He remembered Delores—how every interaction was a trap, a demand for affection he didn't understand.
+
+This was different. This was clean.
+
+He reached out. He took Sarah’s hand with his left hand. He took Amanda’s hand with his right.
+
+He squeezed.
+
+Sarah squeezed back. She looked at the silver ring on his finger—the one that matched Olivia’s. She knew what it meant. I am safe. I am taken.
+
+"We've got you, Leo," Sarah said softly. She leaned down and gave him a quick, firm hug—shoulder to shoulder. "Welcome to the shop."
+
+Amanda joined in, patting his back. "Team effort. We're going to build the best rack this school has ever seen."
+
+Leo tapped his Scribe.
+
+"GOOD TEAM," he typed.
+
+"Solid design," Sarah replied, putting her safety glasses away. "See you in French class, Leo."
+
+Leo rolled out of the shop. He checked his watch. 03:15 PM. Time to head to the Fine Arts Center to meet Luna.
+
+He felt lighter. He hadn't just designed a rack; he had found his cohort. And Olivia would approve.
+

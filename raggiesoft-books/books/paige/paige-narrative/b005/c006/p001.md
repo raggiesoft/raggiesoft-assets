@@ -1,0 +1,42 @@
+# Part 1: The Pickup
+
+## Friday, November 14, 2008 — 13:00 PM Barnett Hall, Woodrow Wilson Rehabilitation Center
+
+The silver Horizon Avalon pulled up to the curb outside Barnett Hall. The engine was idling with a familiar, low rumble that sounded like safety.
+
+Harper Avery was already waiting outside. She sat in her purple wheelchair, her duffel bag on her lap, her backpack slung over the handles. She was wearing her noise-canceling headphones, but they weren't plugged into anything; they were just earmuffs against the world.
+
+She looked tense. Her shoulders were hunched up to her ears, and she was scanning the parking lot with the hyper-vigilance of a soldier behind enemy lines. She kept checking the automatic doors behind her, terrified that they would open.
+
+The car door opened.
+
+"Extract!" Jessica shouted from the driver’s seat, grinning. "The eagle has landed!"
+
+Harper didn't smile back immediately. She wheeled toward the car with frantic urgency.
+
+Freddie opened the passenger door. He looked at her face. He saw the tight jaw, the wide eyes, the way she was gripping her bag until her knuckles were white.
+
+"Status?" Freddie asked softly.
+
+"Open the trunk," Harper said, her voice tight. "Just get me out of here. Before he comes out."
+
+Paige jumped out of the back seat to help. She took the duffel bag.
+
+"Harper?" Paige asked. "Who is 'he'?"
+
+"Just load the chair," Harper commanded, climbing into the backseat next to Freddie. She buckled her seatbelt instantly and locked the door. "Drive. Please. Just drive."
+
+Jessica looked in the rearview mirror. The playful mood in the car evaporated. She put the car in gear.
+
+"We're rolling," Jessica said.
+
+As they pulled away from the brick dormitory, heading toward Exit 222, Harper didn't look back. She stared straight ahead at the headrest, her breathing shallow and fast.
+
+Freddie reached out. He placed his hand on her knee.
+
+"You are safe," Freddie stated. "The perimeter is secure."
+
+Harper let out a long, shuddering breath. She ripped the headphones off her neck and threw them onto the floorboard.
+
+"I am never," Harper whispered, "ever going back there."
+

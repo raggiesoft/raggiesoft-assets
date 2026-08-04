@@ -1,0 +1,170 @@
+# Part 4: The Blue Planet
+
+## July 28, 2006 BTA Route 4 - Westbound 10:45 AM
+
+Leo rolled his new **Titan X-Treme** onto the ramp of the **Route 4** bus. The sensation was completely different from the manual chair. He didn't have to push. He just nudged the joystick, and the heavy machine glided up the incline with a quiet electric hum.
+
+The driver, a friendly woman named Maria, secured the four-point tie-downs.
+
+"Nice rig," she commented, locking the rear hooks. "Brand new?"
+
+Leo nodded. He tapped his Scribe, which was now mounted securely on the Titan’s accessory rail.
+
+*"MAIDEN VOYAGE,"* the robotic voice said.
+
+"Well, you picked a good bus," Maria smiled. "Route 4 goes past the best view in the city."
+
+They took their seats. The bus moved through the heart of **Braxton**. It wasn't like Virginia Beach (sprawling and flat) or Newport (historic and tight). It was a metropolis. Steel skyscrapers reflected the summer sun. The streets were wide, busy, and alive.
+
+As the bus turned onto **Harbor Boulevard**, the buildings fell away, revealing the open expanse of the bay.
+
+And there it was.
+
+Rising from a massive pier that jutted out into the water was a structure that looked like a crashing wave made of glass and concrete.
+
+**THE OCEAN STATE AQUARIUM & COASTAL LIFE CENTER**
+
+It was immense. It rivaled the aquarium in Baltimore or the aquarium in Boston. A giant outdoor seal habitat was visible from the street, and a soaring glass pyramid housed a rainforest exhibit.
+
+Eleanor gasped. "Look at that. It’s a cathedral for fish."
+
+"Can we go?" Luna asked, pressing her face against the bus window. "Please?"
+
+Stella looked at the bus map. There was a stop right in front. She looked at Leo.
+
+"What do you think, Commander? Test out the turning radius in a crowd?"
+
+Leo looked at the massive building. He loved systems. He loved biology. And he loved that the bus stopped at the front door.
+
+*"DIVERT COURSE,"* he typed. *"TARGET ACQUIRED."*
+
+Stella pulled the stop cord.
+
+## The Arrival
+
+They rolled off the bus. The air smelled of salt spray and popcorn from the vendors on the pier.
+
+The entrance to the Aquarium was a wide, gentle ramp that wound through a "Tide Pool" exhibit before you even paid admission.
+
+"Reduced fare for residents?" Stella asked the ticket agent.
+
+"Do you have a library card or utility bill?" the agent asked.
+
+"I have a deed," Stella smiled, pulling a copy of the Iron Point recording from her bag (she carried it everywhere these days).
+
+The agent laughed. "That works. Welcome to the Ocean State Aquarium."
+
+They entered the **Main Atrium**.
+
+It was breathtaking. A four-story cylindrical "Giant Ocean Tank" dominated the center, teeming with sharks, sea turtles, and schools of tuna. A spiral ramp wound around it, allowing visitors to view the tank from every depth—from the sun-drenched surface down to the dark, pelagic bottom.
+
+Leo rolled up to the glass. A massive sea turtle glided past, inches from his face.
+
+He hit the **Elevate** button on his chair. He rose 12 inches, giving him a clear view over the railing.
+
+*"I AM UNDERWATER,"* he typed.
+
+"It's amazing," Olivia whispered, standing beside him.
+
+Eleanor wandered over to the "Coastal Life" wing, where shorebirds and otters lived in a recreated salt marsh. "Arthur would have loved this," she said softly. "He always liked the otters. Said they had good work ethic."
+
+Stella watched them. They were laughing. They were learning. They were safe.
+
+She looked at the **Titan** chair. Leo was navigating the crowds effortlessly, spinning to look at the sharks, elevating to see the penguins. He wasn't struggling. He was exploring.
+
+The move was right. The city was right. The Fortress was holding.
+
+*"BEST DAY,"* Leo typed, watching a hammerhead shark circle the tank.
+
+"Best day," Stella agreed. "Now, let's go find the gift shop. I think we need a shark plushie for the dashboard of the Sentinel."
+
+## 12:45 PM The Blue Horizon Cafe
+
+The museum café wasn't a snack bar; it was a destination. Located on the second floor, it featured a wall of glass overlooking the harbor and the outdoor seal habitat.
+
+It was crowded with the lunch rush.
+
+"Table for six?" Stella asked the host.
+
+"I have a high-top near the window," the host said, looking at Leo’s chair doubtfully. "Or a low table near the kitchen."
+
+In the old manual chair, a high-top table (bar height) would have been impossible. Leo would have been staring at the table legs while everyone else ate above him.
+
+Leo looked at the high-top table. It had the best view of the ocean.
+
+He looked at his joystick. He pressed the **ELEVATE** button.
+
+*Whirrrrrrr.*
+
+The entire seat assembly rose smoothly into the air. Ten inches. Twelve inches. He stopped when his eyes were level with Stella’s.
+
+He grinned.
+
+*"WE TAKE THE HIGH TOP,"* he typed.
+
+The host blinked, impressed. "Right this way, sir."
+
+They rolled to the table. Leo pulled right up. His knees cleared the under-structure perfectly. He was sitting at the same height as everyone else, looking out at the harbor.
+
+"That," Arthur Bennett said, settling onto a barstool next to him, "is a magnificent piece of engineering."
+
+## The Menu
+
+They opened the menus. Being in Rhode Island, the "Chowder Section" was serious business.
+
+"Okay," Stella said. "We have choices. **New England** (Creamy), **Manhattan** (Red), or **Rhode Island** (Clear)."
+
+"Clear?" Luna asked, wrinkling her nose. "Chowder is supposed to be white."
+
+"Not around here," Eleanor corrected. "Real swamp Yankees eat it clear. It’s briny. Tastes like the sea."
+
+They ordered a sampler.
+
+When the food arrived, it was a feast of sustainable seafood.
+
+- **Stella & Eleanor:** Rhode Island Clear Chowder (The local choice).
+
+- **Luna & Olivia:** Fish and Chips (The comfort choice).
+
+- **Arthur:** A Lobster Roll (Because he could).
+
+- **Leo:** **Clam Cakes and Chowder (Creamy).**
+
+Leo took a bite of a clam cake—a ball of deep-fried dough packed with chopped clams. He dipped it into the creamy soup.
+
+It was salty, greasy, and warm. It was the perfect fuel after a morning of exploring.
+
+He looked out the window. He saw a **BTA Ferry** cutting across the harbor. He saw the **South Shore Line** train crossing the bridge in the distance. He saw the city of Braxton working.
+
+He looked at his family, all sitting at eye level with him. He didn't have to look up to talk to them. He was equal.
+
+He tapped his Scribe.
+
+*"I LIKE THE VIEW FROM UP HERE."*
+
+"Get used to it," Stella smiled, clinking her spoon against his bowl. "You're tall now."
+
+They finished their lunch watching the seals play in the tank below, the Hammerhead shark guarding the table, the Fortress fully fed and operational in their new capital city.
+
+Leo was finishing his clam cakes. He looked out the floor-to-ceiling glass window.
+
+In the middle of the harbor, a bright orange catamaran was cutting through the whitecaps, throwing up a massive spray. It was heading toward the open ocean, banking south toward the University peninsula (which was hidden behind the curve of the coastline).
+
+He tapped his **MagnaByte Scribe**.
+
+*"VESSEL SPOTTED,"* he typed. *"BTA FERRY."*
+
+"That's the **F2**," Stella noted, checking the time. "It runs between here and the school. If we wanted to, we could take the boat back to the car instead of the bus."
+
+Leo considered it. The bus (Route 4) was efficient. But the boat... the boat was *adventure*.
+
+*"SEA ROUTE,"* he typed. *"NO TRAFFIC. NO STOPLIGHTS."*
+
+"And it accepts the LinkPass," Olivia added.
+
+Leo watched the boat disappear around the point. He liked that his pass worked on land, underground, and on the water. It felt like he owned the entire map.
+
+*"WE TAKE THE BOAT,"* he decided. *"FULL FLEET INSPECTION."*
+
+"Aye aye, Captain," Arthur said, finishing his lobster roll. "Let's go find our sea legs."
+

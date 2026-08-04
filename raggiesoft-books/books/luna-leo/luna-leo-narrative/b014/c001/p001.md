@@ -1,0 +1,78 @@
+# Part 1: The 05:30 Alarm
+
+## August 24, 2006 8 Ocean View Lane - The Twin Wing 05:30 AM
+
+The alarm on Olivia’s phone chirped—a soft, ascending chime designed not to startle.
+
+In the dim light of the bedroom, the pile on the Queen bed shifted.
+
+Leo was in the middle, the anchor. He woke up slowly, feeling the weight of the Fortress pressing him into the mattress. On his left, Olivia was already moving, reaching out to silence the phone. On his right, Luna groaned, burying her face deeper into Leo’s shoulder. Her leg was still hooked over his knees, grounding him even in her sleep.
+
+"Morning," Olivia whispered, her voice raspy with sleep. She rubbed Leo’s arm. "It's go time. The Bulls are waiting."
+
+Leo blinked his eyes open. He looked at the ceiling of the new house. No water stains. No cracks. Just smooth, fresh drywall.
+
+He tapped Luna’s side. Tap. Tap. (Wake up).
+
+Luna grumbled, tightening her grip. "Five more minutes. The stadium isn't going anywhere."
+
+"The train is," Olivia reminded her, swinging her legs out of bed. "We need to be on the 7:05 if we want good seats."
+
+Leo sat up. He felt the cool morning air of New England hit his skin. It was different than Virginia heat. It was crisp.
+
+He reached for his Quantum Communicator on the nightstand.
+
+"SYSTEM ONLINE," the robotic voice whispered at 10% volume. "ORIENTATION DAY."
+
+"Orientation Day," Luna echoed, finally rolling away and sitting up, her hair a mess. "Let's go get our free t-shirts."
+
+## The Command Wing
+
+Across the house, in the Master Suite, Stella woke up without an alarm.
+
+She stretched her arms out. Her hands didn't hit a wall. They didn't hit a partner. They just found acres of cool, high-thread-count cotton.
+
+The Alaska King bed (9 feet by 9 feet) was massive. She was sleeping in the exact center, taking up maybe 10% of the available real estate.
+
+She stared at the ceiling. Today was the day. She wasn't just sending them to school; she was going with them. She was a student again.
+
+"Okay, Grandpa," she whispered to the empty room. "Here we go."
+
+She rolled out of bed. She didn't have to tiptoe. The floor was radiant-heated concrete under hardwood, warm against her feet.
+
+She walked to her ensuite. She washed her face. She looked in the mirror. She didn't see the terrified 21-year-old who had fought for custody in a Virginia courtroom. She saw a 28-year-old property owner, business woman, and graduate student.
+
+"Game face," she told her reflection.
+
+## 06:00 AM The Kitchen
+
+The Fortress converged in the kitchen.
+
+Eleanor was already there, fully dressed in a sensible cardigan. The coffee pot was full. A pitcher of Autocrat Coffee Milk sat on the counter next to a tray of hard-boiled eggs and toast.
+
+"Eat," Eleanor commanded. "Orientation speeches are long and boring. You need protein."
+
+Leo rolled in on his Titan X-Treme. He raised his seat to table height. He grabbed a glass of coffee milk.
+
+"FUEL," he typed.
+
+"Do we have the gear?" Stella asked, checking her bag.
+
+Olivia patted her pockets. "IDs on lanyards. LinkPasses as backup. Water bottles. Noise-canceling headphones for the stadium."
+
+"And the sweaters," Luna added, pulling on the navy blue cable-knit Eleanor had finished last week. It was August, but the morning air off the ocean was brisk, and the stadium would be windy.
+
+Stella looked at the clock. 06:45 AM.
+
+"Bus or Roll?" she asked.
+
+Leo looked out the window. The sun was up. The sidewalk was dry.
+
+"WE ROLL," he typed. "WAKE UP THE MOTORS."
+
+"We roll," Stella agreed.
+
+They finished their breakfast, grabbed their bags, and walked out the front door. Stella locked the deadbolt. The APS Wall stood silent guard in the foyer behind them.
+
+They headed down the wide, smooth sidewalk of Ocean View Lane, four students (and one grandmother waving from the porch) heading toward the sound of the train whistle.
+

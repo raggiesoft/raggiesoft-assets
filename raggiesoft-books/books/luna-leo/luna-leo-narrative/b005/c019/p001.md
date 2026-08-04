@@ -1,0 +1,18 @@
+# Part 1: A Form from School
+
+It was nearing the end of their freshman year, Spring 2000. Luna and Leo, now 15, came home from school one afternoon clutching identical forms. Luna handed hers to Stella wordlessly, while Leo held his out with a questioning look. Stella glanced at the heading: "Family Life Education / Sex Education - Parental Notification and Opt-Out Form."
+
+Stella scanned the form, her eyebrows raising slightly. She vaguely remembered these units from her own high school days. Then she remembered something else: her parents had *always* signed the opt-out portion for her and, presumably, for the twins in middle school. It was one of the few things they were consistently proactive about, rooted in some vague discomfort with the topic.
+
+"Ah, the sex ed forms," Stella said, keeping her tone neutral. "Looks like it's that time of year." She looked at the twins. Luna avoided her gaze, fiddling with the strap of her backpack. Leo just looked back, waiting. A sudden realization hit Stella: they were 15, puberty was definitely underway for both of them, and thanks to their parents' avoidance, they likely knew next to nothing accurate about their changing bodies, relationships, or safety. They hadn't had "The Talk."
+
+Stella took a deep breath. This was another area where her parents' neglect had left a gap she needed to fill, responsibly. "Okay," she said gently, placing the forms on the kitchen counter. "I know Mom and Dad always signed these to opt you guys out." She saw a flicker of recognition, maybe relief, in Luna's eyes. "But... things are different now. You're getting older, your bodies are changing, and it's really important you understand what's happening and how to be safe and healthy."
+
+She met their eyes earnestly. "This class covers important stuff – how your bodies work, the reproductive system, hygiene, healthy relationships, consent... things you *need* to know. It's not just about sex; it's about understanding yourselves and how to navigate the world safely as you grow up." She paused. "I know it might feel awkward, but I really think you should take the class. They separate the boys and girls for some parts, to talk about specific anatomy, but everyone learns about respect, safety, and making good choices."
+
+Luna looked uncertain, glancing at Leo. Leo, after a moment's thought, typed on his AAC device: *"Learn about bodies?"*
+
+"Exactly," Stella confirmed. "Learn about your bodies, how they change, and how to take care of them. And how to make sure others respect you, and how you respect others." She picked up the forms. "Unless you have really strong objections, I'm not going to sign the opt-out part. I think this is information you deserve to have."
+
+There were no strong objections, just a quiet acceptance mixed with perhaps a touch of adolescent embarrassment and curiosity. Stella didn't sign the forms, and a few weeks later, Luna and Leo attended their first sex-segregated health classes, finally getting the factual, age-appropriate information about puberty, reproduction, consent, and safety that their parents had denied them. It was another quiet step forward under Stella's care.
+

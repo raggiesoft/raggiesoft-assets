@@ -1,0 +1,84 @@
+# Part 3: The Cross-Country Bargain – 1:00 PM
+
+The absolute peace of our Saturday lasted exactly until one o'clock in the afternoon.
+
+We were still on the sofa bed, halfway through a marathon of old recorded VHS tapes, when the shrill, electronic ring of the kitchen landline shattered the quiet. The sudden, abrasive noise made Rachel flinch, her hands immediately flying up to cover her ears.
+
+I paused the VCR and pushed the heavy quilt off my legs. "I'll get it. It's probably just Mom checking in."
+
+I walked into the kitchen and grabbed the cordless phone off its charging cradle. I didn't check the caller ID before pressing the green button. "Hello?"
+
+"Michael. It's Dad."
+
+My stomach instantly plummeted. His voice didn't have the tight, defensive anger it usually carried when he was in the house. Instead, he sounded terrifyingly upbeat. He sounded like a man who had just solved a massive problem.
+
+"I'm just calling to give you the update," Dad said, not bothering to ask how we were doing. "I'm not going to be renting this room for much longer. I met someone. Her name is Cathy. She lives out in Washington state. Vancouver, Washington, to be exact."
+
+I stood frozen on the linoleum. *Washington state.* That was on the absolute opposite side of the country.
+
+"I need to get as far away from your mother as humanly possible," Dad continued, his tone turning bitter for a fraction of a second before returning to that forced, cheerful cadence. "So, I'm moving out there with Cathy to get established. And as soon as I have a suitable house put together, I'm sending for Rachel. Have her start sorting through her room. I'll be in touch about the flights."
+
+He didn't wait for a response. He just hung up.
+
+I slowly lowered the phone, the dial tone buzzing in my ear. The kitchen suddenly felt freezing cold.
+
+The "bargain" wasn't just a threat anymore; it was an active countdown. The legal rules of the separation were agonizingly clear: the moment Dad had a suitable place to live, he got Rachel. Mom got me. And Dad had just found a shortcut by moving in with a complete stranger three thousand miles away.
+
+I walked back into the living room. Rachel was sitting up on the mattress, her knees pulled tightly to her chest. She had heard enough of my silence to know it wasn't Mom.
+
+"What did he say?" she asked, her voice trembling.
+
+I sat down heavily on the edge of the mattress. I didn't believe in lying to her to protect her feelings; our brains needed the raw, factual data to process reality, no matter how much it hurt. "Dad found someone named Cathy. She lives in Vancouver, Washington. He's moving out there to get away from Mom. And once he has a house... he's coming for you."
+
+Rachel stopped breathing.
+
+Her dark eyes dilated, completely overwhelmed by the sheer magnitude of the variables. A new state. A new time zone. A strange woman named Cathy. And worst of all—being completely severed from me. The absolute terror of the unknown hit her nervous system so hard she physically started to shake.
+
+"No," Rachel whispered, shaking her head rapidly, her hands gripping her hair. "No, no, no. The rule is we stay together! Michael and me! I'm not going! I won't go!"
+
+A hot, blinding wave of anger surged through my chest. The neurotypical adults who wrote these legal documents didn't care that they were physically tearing our survival mechanisms apart. They were treating us like furniture to be divided up.
+
+"You aren't going," I said fiercely. I looked down at the cordless phone still clutched in my hand. I needed backup. I needed the person who had spent her entire life shielding us from this exact kind of chaos.
+
+I dialed Jessica's cell phone number and hit the speaker button, setting the plastic handset on the coffee table between us.
+
+It was 1:00 PM in Virginia Beach, which meant it was 10:00 AM in Seattle.
+
+The phone rang three times before the line clicked open. *"Hello?"*
+
+"Jess," I said, my voice cracking despite my anger. "It's us."
+
+*"Michael? Rachel?"* Jessica’s voice immediately shifted from sleepy to hyper-alert, instantly detecting the panic in the room. *"What’s wrong? Are you guys okay? Are Mom and Dad fighting again?"*
+
+"Dad called," I explained, the words rushing out of my mouth in a frantic, clinical stream. "He met a woman named Cathy in Vancouver, Washington. He's moving across the country. And the second he gets a house, he’s enforcing the separation agreement. He’s taking Rachel away."
+
+Dead silence fell over the speakerphone, broken only by the faint static of the cellular connection.
+
+*"He's what?"* Jessica finally breathed, her voice dripping with absolute, heartbroken fury. *"He can't do that. He can't just rip her out of the house!"*
+
+"He's going to," Rachel sobbed, leaning forward and staring directly at the plastic phone on the table as if Jessica were inside it. "Jess, I'm so scared. I don't want to live with a stranger. I can't leave Michael."
+
+Then, a desperate, logical spark lit up in Rachel's eyes. Washington state. Vancouver was in Washington.
+
+"Jess!" Rachel cried out, grabbing the edge of the coffee table. "You're in Washington! You just moved there! Can I just come live with you? Please? Can Michael come too? We won't take up any space. We can sleep on the floor!"
+
+On the other end of the line, I heard Jessica let out a sharp, devastated sob.
+
+"Oh, baby," Jessica cried, the sound of our older sister breaking down hitting me like a physical blow. "I wish you could. I would take both of you in a heartbeat. I promise you I would. But I can't."
+
+"Why not?" Rachel pleaded, the panic rising in her throat.
+
+"Because I'm in a dorm," Jessica explained, her voice thick with helpless tears. "I just moved into my room at Northwest Pacific University. It's the size of a shoebox. I barely have enough room to turn my wheelchair around, Rachel. The university would never legally let two teenagers move into a freshman dorm. I don't have an apartment. I don't have a way to keep you here."
+
+The reality of the math crushed the last bit of hope in the room. Jessica had spent her entire childhood fiercely protecting us, fighting our battles when we didn't have the words. But now, paralyzed by a wheelchair, trapped in a tiny campus dorm room three thousand miles away, and bound by university housing rules, she was entirely powerless to stop the legal system from destroying her family.
+
+"I'm so sorry," Jessica wept through the speaker. "I'm so sorry I can't fix this for you guys."
+
+Rachel collapsed forward, burying her face into her hands, completely overwhelmed.
+
+I reached out and ended the call, cutting off the painful static. I couldn't listen to Jessica cry anymore. I slid across the mattress and pulled Rachel firmly into my chest, wrapping both arms around her shaking ribs, locking my hands together to provide the deep, grounding pressure she desperately needed to keep from shattering completely.
+
+"He hasn't moved yet," I whispered fiercely into her hair, my own tears hot and angry against my face. "He doesn't have a house yet. We still have time. And I promise you, Rachel, I will figure out a way to break their rules. You are not leaving this house."
+
+
+

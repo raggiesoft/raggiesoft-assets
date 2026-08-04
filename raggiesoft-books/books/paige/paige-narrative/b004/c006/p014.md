@@ -1,0 +1,83 @@
+# Part 14: The Null Hypothesis
+
+## Wednesday, May 12, 2004 — 18:30 PM (PST) Room 512, The Airport Grand
+
+The meal was finished. The "structural triangles" of the sandwiches had been dismantled and consumed.
+
+Jessica stood up. She wheeled the room service cart into the hallway, ensuring the smell of bacon didn't linger in their bunker. She hung the "Do Not Disturb" sign back on the handle.
+
+*Click.* The latch engaged. *Thud.* The deadbolt slid home.
+
+She walked to the window and pulled the heavy blackout drapes shut. The view of the runway—the flashing lights, the movement, the world—vanished. The room was plunged into a soft, artificial twilight.
+
+"Perimeter sealed," Jessica announced. "We are offline."
+
+Freddie stood by the bed. He looked down at his flannel pajamas. He looked at Paige’s leggings. They were soft, yes, but they were still a layer. They were still a costume worn for the benefit of a waiter who was no longer there.
+
+"The air gap is active," Freddie said, referencing the window. "The door is locked. The armor is... illogical."
+
+"Agreed," Paige said, pulling her shirt over her head without hesitation. "I want to be comfortable."
+
+They stripped. The pajamas joined the hoodies in the pile on the chair.
+
+They stood there in the dim light of the hotel room, completely exposed.
+
+Freddie looked at his sisters. He saw the curve of Jessica’s hip. He saw the softness of Paige’s stomach.
+
+Suddenly, a line of code from the "Vanessa Database" flashed in his mind.
+
+*“You have to let go, Freddie. You’re too controlled. I want to see your passion. I want you to take what you want.”*
+
+He froze.
+
+He had always thought she was warning him about his "sinful nature." But now, standing here in the quiet safety of the Unit, he ran the simulation again.
+
+"She... she wanted it," Freddie whispered, his face twisting in revulsion.
+
+"Wanted what?" Jessica asked, pausing as she folded back the duvet.
+
+"The Wolf," Freddie said, his voice trembling with disgust. "She wasn't afraid I would lose control. She *wanted* me to lose control. To her."
+
+He wrapped his arms around himself, feeling sick.
+
+"She wanted me to look at her like she was... prey. She wanted the violence. She wanted the chaos."
+
+He looked up at Jessica and Paige. He checked his internal sensors.
+
+Heart rate: Steady. Intent: Protective. Desire: Safety.
+
+There was no wolf here. There was no hunger. There was just... family.
+
+"I am not a wolf," Freddie stated fiercely. "I do not want to consume. I want to build."
+
+He reached out, grabbing both of them. He pulled them into a crushed, desperate hug. Skin against skin, three hearts beating in a close cluster.
+
+He buried his face in Jessica’s neck, his hand gripping Paige’s shoulder.
+
+"She was gross," Freddie whispered into the hug. "Her algorithm was corrupted. She wanted a beast, but I am just... a brother."
+
+"You're just Freddie," Paige whispered back, squeezing him tight. "And that's all we ever want you to be."
+
+"Safe," Freddie breathed, the disgust washing away, replaced by the warm, solid data of their presence. "This is safe. This is correct."
+
+"Formation," Jessica murmured softly against his hair.
+
+They broke the hug and climbed into the massive bed.
+
+Freddie lay in the center. Jessica on his left. Paige on his right.
+
+They pressed in tight, sealing the gaps. There was no static. No awkwardness. Just the transfer of heat and the reassuring pressure of contact.
+
+Freddie closed his eyes. He felt Paige’s breathing synchronize with his. He felt Jessica’s arm drape over his chest, anchoring him to the mattress.
+
+"Lights out," Jessica whispered, reaching over to click off the bedside lamp.
+
+The room went pitch black.
+
+"We fly at 0900," Freddie murmured into the darkness.
+
+"We'll be ready," Paige promised.
+
+Freddie drifted off, finally purging the last of Vanessa’s "hostile code." He wasn't broken. He wasn't a monster in a cage. He was a system administrator, and his network was finally secure.
+
+

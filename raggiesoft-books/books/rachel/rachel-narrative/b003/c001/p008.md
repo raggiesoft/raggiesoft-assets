@@ -1,0 +1,86 @@
+# Part 8: The Cost of the War – 5:15 PM
+
+Nurse Brenda snapped her heavy black medical bag shut, her Monday afternoon visit coming to a close. The PROM therapy had been exhausting, leaving my legs feeling like jelly and my mind acutely aware of how broken we were.
+
+As Brenda stood up to leave, Jessica spoke up from her post on the floor mattress.
+
+"We made a decision today," Jessica said, looking at Janette, who nodded firmly in agreement. Jessica looked up at Brenda, then over to Mom and Dad. "Janette and I aren't going back to gymnastics. Not unless it's at a completely different gym. And even then, we're only going if Michael and Rachel find a safe Dojang so they can get their Black Belts. If the pack doesn't go, nobody goes."
+
+It was a massive declaration of loyalty. Jessica was a high-level tumbler; giving it up was a huge sacrifice. But for the pack, it was a no-brainer.
+
+Brenda froze, her hand resting on the handle of her medical bag. She looked at Mom and Dad, a silent, heavy exchange of medical reality passing between the adults. Dad slowly lowered his head, rubbing his eyes, and Mom looked away.
+
+Brenda let go of her bag and slowly sat back down on the edge of the coffee table.
+
+"Jessica," Brenda said, her voice incredibly gentle, but carrying the unmistakable, heavy weight of clinical finality. "Michael and Rachel are never going to earn their Black Belts."
+
+The living room went dead silent. Archie's tail stopped thumping under the table.
+
+"What do you mean?" Janette asked, her brow furrowing. "When they heal. After the four months."
+
+"Even after the four months," Brenda explained, looking directly at me, and then over the pillows to Rachel. "You two need to understand the physics of what happened to you. Healing means you will be able to walk again. It means you will be able to go to school and live normal lives. But your internal architecture is permanently changed."
+
+Brenda leaned forward, making sure we understood the gravity of her words.
+
+"Michael, your abdominal fascia didn't just stretch. It tore open. The surgeons are going to let the scar tissue form a bridge, but that tissue will never have the elasticity or the strength of the original muscle," Brenda explained, her tone clinical but deeply empathetic. "Martial arts requires explosive core rotation, kicking, and absorbing strikes. If you ever take a kick to the stomach, or if you twist too hard throwing a punch, that scar tissue will violently rupture. Your intestines will strangulate. It would be an immediate, life-threatening surgical emergency."
+
+I stared at her, the reality settling like a lead weight on my chest.
+
+"And Rachel," Brenda continued, turning her eyes to the small girl hiding behind Baby's massive head. "Your spleen is surrounded by a capsule. That capsule was stretched and filled with blood. Even when the blood absorbs and the swelling goes down, that organ will forever be fragile. If you go back to the mat and take a stray elbow to your left side, or if you get thrown and land wrong, your spleen will burst. You would bleed to death internally in a matter of minutes."
+
+Brenda let out a soft sigh, delivering the final blow.
+
+"Martial arts is a contact sport," she said softly. "You are medically, permanently disqualified from all contact sports for the rest of your lives. The risk is simply too high. One mistake on the mat, and you won't survive it."
+
+The words hung in the air, absolute and devastating. The sport we had dedicated two years of our lives to—the discipline we had loved—was gone forever. Curtis hadn't just stolen our fall semester; he had stolen our future on the mats.
+
+I felt a tear slip hot and fast down my cheek. On the other side of the pillows, Rachel buried her face into Baby's dark fur, her small shoulders shaking silently. She didn't tap my hand. She was completely overwhelmed by the loss.
+
+Jessica and Janette didn't hesitate. They didn't mourn their own tumbling careers, and they didn't ask if there was a workaround. The perimeter simply tightened.
+
+"Then we're done," Jessica stated, her voice thick with emotion but completely devoid of regret. She looked at me, then at Rachel. "I'm retiring. Janette is retiring. We're done with the mats."
+
+"The pack stays together," Janette echoed fiercely. "If you guys can't play, we don't play. Period."
+
+Brenda smiled a sad, incredibly respectful smile. She stood up, picked up her bag, and touched Jessica's shoulder. "You girls are going to make incredible women one day. Keep guarding this base camp."
+
+As Dad walked Brenda to the front door, the heavy wooden door to the kitchen swung open.
+
+Mom stood in the doorway, holding the long cord of the wall phone. Her eyes were flashing with an intense, predatory light. The grief in the living room was palpable, but Mom had just found the weapon she needed to avenge it.
+
+"Tom," Mom said, her voice sharp enough to cut glass. "Get in here. Mr. Vance is on the line, and I have Sarah conferenced in."
+
+Dad immediately turned and walked into the kitchen, shutting the heavy door behind him to seal the war room back off from the base camp.
+
+Inside the kitchen, Grandma Loretta had her pen poised over the yellow legal pad. The speakerphone was on, picking up the cold, calculating voice of the most ruthless personal injury litigator in Hampton Roads.
+
+*"Mrs. Ragsdale, Mr. Ragsdale, and Sarah,"* Mr. Vance’s voice crackled through the speaker. He didn't sound sympathetic; he sounded like a shark that had just smelled blood in the water. *"I have reviewed the hospital records you faxed, and I’ve spoken with Detective Harris regarding the criminal charges against Ray and Curtis. We are not aiming for a settlement. We are aiming for total financial annihilation."*
+
+"Tell us the strategy, Mr. Vance," Mom demanded, sitting at the table.
+
+"First thing tomorrow morning, my firm is filing an emergency ex parte injunction in civil court," Vance explained smoothly. "We are freezing every single business and personal asset tied to Ray and his LLC. He will not be able to move a dime or hide his money in offshore accounts. We lock his wallet before he even makes bail."
+
+"And the commercial insurance?" Dad asked, his arms crossed over his chest.
+
+"Already subpoenaed," Vance replied. "He carries a two-million-dollar umbrella liability policy. Ray’s criminal defense attorney is going to argue that you signed waivers. My counter-argument is that liability waivers do not cover gross criminal negligence, negligent hiring, and the operation of an unregulated, off-book fighting ring involving minors. The waivers are dead paper."
+
+*"I want those doors locked forever,"* Sarah's voice came through the conference line, trembling with the rage of a mother whose six-year-old was missing an organ. *"I don't want another child to ever walk into Suite A."*
+
+"You'll get it, Sarah," Mr. Vance promised with absolute, chilling confidence. "He doesn't own the building—he’s just a commercial leaseholder—so we can't seize the real estate. But we are going to pierce the corporate veil. We aren't just suing the LLC; we are suing Ray personally. By the time I am done with him, we will bankrupt his company and strip him of his personal wealth to pay your children's medical bills and lifelong pain and suffering."
+
+Vance paused, letting the reality of the financial execution settle in.
+
+"He will default on that lease by the end of the month," Vance continued. "The property manager will evict him, and the court will seize the assets inside to pay our judgments. The bank will foreclose on the mats, the signage, and the gymnastics equipment. Tidewater Tumblers will be completely liquidated."
+
+Mom looked at Dad, then at Grandma Loretta. The medical reality Nurse Brenda had just delivered in the living room meant Michael and Rachel's lives were permanently altered. The least Ray and Curtis could do was pay for it with their entire empire.
+
+"Draft the filings, Mr. Vance," Mom ordered coldly. "Burn it all to the ground."
+
+"Consider the match lit, Mrs. Ragsdale. I'll see you in court."
+
+The line clicked dead.
+
+Mom slowly hung up the receiver. The Monday War was officially over. The criminal justice system had their bodies, and the civil courts were about to take their money.
+
+In the living room, surrounded by the fierce loyalty of our sisters and the protective weight of our dogs, we grieved the permanent loss of our martial arts journey. But in the kitchen, the adults had ensured that the monsters who took it from us would never have a Dojang again.
+

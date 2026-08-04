@@ -1,0 +1,16 @@
+# Part 2: Wonders of Flight and Space
+
+The cavernous main hall of the Finch Museum of Air and Space was a breathtaking sight, a perfect sanctuary from the drizzling rain outside. Suspended from the ceiling were icons of aviation history: the *Spirit of St. Louis*, John Glenn's *Friendship 7* capsule, and the X-15 rocket plane. For Leo and Luna, who had spent their childhoods dreaming of flight and space, it was like stepping into a cathedral.
+
+Their first stop was the "Milestones of Flight" gallery, where they stood in awe before the original 1903 Wright Flyer. Its delicate fabric wings, a testament to the dawn of a new age, seemed almost too fragile to have ever flown. Luna leaned in, pointing out the intricate system of wires and pulleys for steering, a detail she'd only ever seen in books.
+
+From there, they moved deeper into the museum, their excitement a palpable, happy energy. They walked through the Apollo to the Moon gallery, where they marveled at the sheer scale of the F-1 engines and ran their hands over the smooth, cool surface of a touchable moon rock. For the twins, this was a shared dream come to life. They had spent countless hours building model rockets and reading books about the space race. Now, they were standing in front of the actual command module that had taken astronauts to the moon. They would frequently exchange quick, excited glances, their shared history and passion needing no words.
+
+"Okay, next up," Stella announced, checking the schedule she had picked up at the entrance. "We've got tickets for the next show at The Cosmos Sphere Planetarium."
+
+Inside the dark, domed theater, they leaned back in their reclining seats. As the lights went down and the star-filled cosmos exploded across the ceiling, a collective gasp went through their small group. The show took them on a breathtaking journey through the solar system and out into the deepest reaches of the galaxy. For Leo, surrounded by his fortress in the quiet dark, the immersive experience was a calming, awe-inspiring wonder.
+
+But the main event, the one they had all been looking forward to, was the film at The Orion Dynamics OmniMax Theater. The screen was a towering six stories high, and the film, a documentary about the International Space Station, was shot by astronauts in orbit. When the film started, the thunderous sound and the immense, crystal-clear images made them feel like they were actually floating in space alongside the astronauts. The launch sequence was so powerful it vibrated through their seats.
+
+As the credits rolled and the lights came up, Leo and Luna looked at each other, their faces alight with a pure, uncomplicated joy. The first half of their day, spent entirely indoors away from the rain, had been more than just a museum visit; it was a pilgrimage. They had walked among the giants of air and space, and for a few magical hours, they had touched the stars together.
+

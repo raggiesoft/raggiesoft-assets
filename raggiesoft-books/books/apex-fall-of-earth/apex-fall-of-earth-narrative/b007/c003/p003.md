@@ -1,0 +1,48 @@
+# Part 3: The First Blueprint – Friday, May 24, 2052 – 20:00
+
+The estate was beautifully quiet. The six children were finally asleep in the massive, sprawling nursery—the Vanguard tangled together on their floor-level Mega-Bed, and Jack sleeping deeply in his standard toddler bed, parked right next to the twin's shared bassinet.
+
+Wyatt and Sarah retreated to the sunken, mahogany-paneled library. The localized geothermal fireplace crackled warmly, taking the edge off the cool spring evening.
+
+Wyatt walked over to the massive holographic glass table, tapping the surface to wake the terminal.
+
+"You know," Sarah murmured, stepping up beside him and wrapping her arms around his waist. "Watching Jack with the girls today... it really put everything into perspective."
+
+"How so?" Wyatt asked, resting his heavy hand over hers.
+
+"Ellie is the commander. She enforces the rules and protects the perimeter," Sarah explained, her analytical mind tracing the exact organizational structure of their growing civilization. "But Jack... Jack oversees the peace. He unifies the room. He makes sure everyone is comfortable. He's exactly the kind of leader a new generation is going to need."
+
+Wyatt looked at the glowing blue interface of the terminal, his veteran instincts perfectly aligning with her logic. He understood exactly what she was implying. They had been putting off the ultimate responsibility for years, terrified of the logistics. But looking at the incredibly capable, deeply empathetic children they were raising, the fear was finally gone.
+
+"They're ready," Wyatt realized, turning his head to look at her. "Or, they will be. By the time the Vanguard is twelve, Jack will be eight. That's old enough to help us manage a small cohort."
+
+"We don't need to wake up fifty thousand people all at once," Sarah nodded, her eyes shining with pioneer resolve. "We can start small. Twenty kids. A single classroom. We wake them up, we raise them, and when they're adults, they help us wake up the next class. It cascades."
+
+Wyatt smiled, a fierce, ambitious spark igniting in his dark eyes. He turned his full attention to the holographic table.
+
+"Aria," Wyatt commanded, his deep voice carrying the absolute authority of the planetary Administrator. "Bring up the localized topographical map of the river valley below the estate. Factor in the high-water marks from the seasonal floods."
+
+A massive, three-dimensional projection of Planet Eden's lush valley materialized in the air between them.
+
+"Map displayed, Administrator," Aria chimed perfectly.
+
+Wyatt leaned forward, his mechanic's precision mapping the terrain. He pointed a thick finger at a wide, flat plateau situated roughly three kilometers from the camouflaged hangar doors. It was heavily forested, beautifully situated near a massive, cascading waterfall, and completely immune to the valley's flood plains.
+
+"Right there," Wyatt designated, tapping the hologram. "Aria, clear a ten-acre footprint in the digital projection. I want to draft the foundation for a small, self-sustaining surface settlement. We're going to need timber cabins, a communal dining hall, and a localized solar grid tied into the mountain's main reactor."
+
+Sarah leaned over the table, entirely captivated as the glowing blue trees vanished, replaced by the clean, geometric outlines of a beautiful, frontier village.
+
+"It's perfect," Sarah breathed, tracing the outline of the communal hall. "It's close enough to The Sanctuary that we can protect them under the Aegis shield, but it gives them their own sky. Their own dirt to plant in."
+
+"We'll start printing the heavy infrastructure in the Fab-Foundry next year," Wyatt decided, a massive grin spreading across his scarred face. "We'll build the houses, lay the plumbing, and establish the agricultural grid. By the time Ellie turns twelve, the town will be completely finished and waiting for them."
+
+Sarah rested her head against Wyatt’s broad shoulder, staring at the glowing blueprints of humanity's second chance.
+
+They weren't just running a bunker anymore. They were breaking ground on a brand new world.
+
+"What do we call it?" Sarah asked softly, her eyes tracing the digital pathways of the future village.
+
+Wyatt looked at the hologram, thinking of the long, terrifying journey that had brought them to this exact moment. He thought of the rusted S.H.O.P. Marine barracks, the freezing void of space, and the desperate, unyielding hope that had kept them alive.
+
+"Genesis," Wyatt rumbled, wrapping his arm securely around his wife. "We call it Genesis."
+

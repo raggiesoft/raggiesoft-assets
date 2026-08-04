@@ -1,0 +1,62 @@
+# Part 9: The Prison Break – Saturday, October 22, 2044 – 17:00 (The twelve-hour klaxon)
+
+The deafening, mechanical wail of the twelve-hour klaxon finally bled through the heavy air of Sector 4. The shift was over.
+
+Wyatt and Sarah didn't share a look of relief this time. The close call with the tracking ping had left them both completely dialed in. They maintained their rigid, six-inch professional gap and joined the exhausted tide of gray and black uniforms trudging up the main elevators toward Sector 1.
+
+The ascent was agonizingly slow, the metal cage shuddering violently as the facility's failing power grid struggled to pull the weight.
+
+When the doors finally ground open at the Security Checkpoint, the atmosphere was instantly recognizable. It wasn't just tense; it was toxic with panic.
+
+Wyatt stepped up to the yellow line. He looked through the bulletproof glass at the armored Supervisor, preparing to hand over his heavy Mark-IV flashlight and PDA.
+
+The Supervisor wasn't just haggard anymore. He was terrifyingly pale, his face shining with a cold sweat under the harsh fluorescent lights. His combat shotgun wasn't resting on his lap; it was gripped tightly in his hands, the barrel resting on the edge of the terminal console. He wasn't looking at the monitors, and he barely looked at Wyatt. He was staring past Wyatt's broad shoulders, his wide eyes fixed obsessively on the descending elevators.
+
+Something had happened down in the deep-core shafts during the second half of their shift. Something management was desperately trying to keep a lid on.
+
+"Colton, Wyatt J. Contractor ID: 884-Bravo. Age twenty-three," Wyatt said, his voice a steady, grounding rumble in the frantic room.
+
+The Supervisor flinched at the sound of his voice. He blindly stabbed a button on his console. The retinal scanner flashed a sloppy red sweep over Wyatt's eye, barely registering his biometric signature before the transfer drawer clunked open. He snatched Wyatt's gear and kicked the turnstile release without a word.
+
+Sarah stepped up immediately behind him. She recited her serial number, her voice perfectly steady, completely masking the adrenaline spiking in her veins. The guard processed her with the same frantic, terrified speed.
+
+They both pushed through the heavy metal turnstile, merging into the congested corridor leading toward the Mess Hall.
+
+"Did you see his hands?" Sarah whispered, her shoulder brushing against Wyatt's as they navigated the crowd. "He was shaking. He had his finger resting directly on the trigger."
+
+"I saw it," Wyatt replied grimly, keeping his eyes locked forward. "The containment protocols are failing. Whatever the drills hit, it's pushing up."
+
+They stepped into the cavernous Mess Hall. The room was a madhouse. They grabbed their foil-wrapped nutrient blocks from the dispensaries, keeping their heads down, projecting absolute compliance. As they secured their rations, Wyatt glanced through the wide archways leading toward the S.H.O.P. Dormitories.
+
+The sight made his stomach turn.
+
+Barracks 4 wasn't just overcrowded; it was a sprawling, chaotic refugee camp. They had thought it was overflowing yesterday, but this was exponentially worse. Apex Defense Solutions had apparently been on a massive acquisition spree to throw bodies at the problem. The concrete cavern was flooded with a jarring mix of uniforms—the abrasive black of S.H.O.P. Marines, the bright slate-blue of Helios Field Safety Technicians, and dozens of other muted, corporate colors from companies Wyatt didn't even recognize.
+
+There were no empty bunks. Dozens of exhausted, terrified contractors were simply curled up on the cold floor in the narrow, 64-inch aisles. Fights were breaking out over inches of space. The air was thick with desperation, coughing, and the suffocating realization that the company had completely abandoned any pretense of providing adequate living conditions.
+
+Sarah stopped walking, staring at the miserable, squirming mass of bodies. She instinctively took a half-step closer to Wyatt, her hand reaching out to grip the fabric of his black utility sleeve. She didn't want to leave his side for a single second. The thought of being separated in that chaotic meat grinder was utterly paralyzing.
+
+"We can't go in there," she whispered, her eyes darting back to him. "If we go in there, we'll get trapped in the aisles. We won't be able to move."
+
+Wyatt looked at the heavily armored guards stationed around the Mess Hall, assessing the risk. If the Supervisors were actively tracking PDAs, returning to their hidden sanctuary in the abandoned filtration sector was a massive gamble. But looking at the crushing nightmare of the dormitories, and feeling Sarah's desperate grip on his arm, the choice was already made.
+
+"We aren't going in there," Wyatt told her softly, his massive hand covering hers. "We're going to the nest."
+
+He steered her away from the dormitories, finding a quiet, shadowed corner near a bank of humming reclamation bins. He pulled her in close, using his broad frame to completely block her from the view of the roving cameras and panicking guards.
+
+Sarah looked up at him, her face illuminated by the sickly neon lights of the corridor. The vulnerability in her eyes was completely eclipsed by a sudden, fierce determination. Apex wasn't a job anymore. It wasn't even a hellhole.
+
+"It's a prison, Wyatt," she breathed out, the realization settling over her like a heavy lead blanket. "The locked blast doors, the armed guards, the deleted bunks. They aren't going to let us leave when our eighteen months are up. They're going to bury us here to keep whatever they found a secret."
+
+Wyatt looked down at the woman he loved. The fierce, protective rage burning in his chest crystallized into absolute, cold clarity. He wasn't going to let her die in this subterranean nightmare. He had promised her a real apartment, and he was going to deliver it.
+
+"Then we break the contract," he said, the words a low, dangerous vow spoken directly into the space between them.
+
+Sarah didn't flinch at the treason. A sharp, brilliant light sparked in her eyes. "We find a way to the atmospheric transport bays," she whispered, her analytical mind instantly pivoting from survival to escape. "We bypass the grounding orders. We just need the right window. A shift change, or a massive distraction in Sector 4."
+
+"We bide our time," Wyatt agreed, his taped hand gently cupping her jaw. "We keep playing the game, we keep our heads down, and we figure out exactly how to bypass the executive locks. But when we move, we move together. I am not leaving this facility without you."
+
+"And I'm not leaving without you," she replied fiercely, leaning into his touch.
+
+They shared a loaded, desperate look, the romantic pact from the sofa now evolving into a full-blown corporate prison break. Wyatt stepped back, letting the dead-eyed contractor mask slide back into place. They turned away from the chaotic, overflowing dormitories, quietly slipping into the shadows of the maintenance corridors to begin the tense, hyper-vigilant sneak back to the only safe room left in the Nevada facility.
+

@@ -1,0 +1,36 @@
+# Part 3: The First Movie Night
+
+Sunday evening settled over their small apartment, a quiet, comfortable end to a revolutionary weekend. The excitement of Alex's new freedom still hummed in the air. After a simple dinner of leftovers, Alex wheeled over to the small shelf where they kept their modest collection of DVDs.
+
+MOVIE NIGHT? his Quantum Communicator Pro V voiced, its new, clearer speakers filling the room. ON MY SCREEN THIS TIME.
+
+A warm, happy smile spread across Chloé's face. For the past year, movie nights had consisted of the three of them huddling together, squinting at a small MagnaByte laptop screen. "I thought you'd never ask," she said. "Your turn to pick."
+
+He selected an old favorite, a classic, famously terrible sci-fi film they had all seen a dozen times. With a new, confident dexterity, he wheeled back to his chair's docking station by the sofa and transferred himself onto the familiar cushions.
+
+Megan, who had been cleaning up in the kitchen, came into the living room, a playful, long-suffering sigh on her lips. "Are we really watching *Galaxy Marauders 3* again?" she asked, but her eyes were twinkling. "I thought we agreed that movie was a cinematic war crime."
+
+IT IS A MASTERPIECE, Alex typed, a grin on his face.
+
+"It's his celebration," Chloé said, "he gets to pick the masterpiece."
+
+Megan just smiled. As much as she teased them about their questionable taste in bad sci-fi, she wouldn't miss this for the world. It wasn't about the movie. It was about seeing her cousin smile, hearing him laugh, and watching him be happy and truly *himself* for the first time since before Vera. She settled onto the sofa on Alex's other side as Chloé returned from the kitchen with a big bowl of popcorn and three tall glasses of ice-cold milk.
+
+"Okay, movie master," Chloé said, curling up beside him. "Do your thing."
+
+Alex used his new, more responsive USB mouse to navigate the device on its swing-away arm. He slid the DVD into the new drive. The movie's main menu appeared on his large, bright 12.1-inch screen. Before hitting "Play," he navigated to the "Settings" menu.
+
+"What are you doing?" Chloé asked, curious.
+
+Before Alex could type, Megan answered from his other side, her voice a quiet, knowing murmur. "He's turning on the closed captions. It helps him process the dialogue better, especially when there are a lot of sound effects."
+
+Alex looked at Megan and gave her a small, grateful nod. He then typed to confirm.
+
+IT'S... EASIER FOR ME. IT HELPS ME PROCESS WHAT I'M HEARING.
+
+"Oh," Chloé said, a wave of understanding and love washing over her. It was another small, essential detail about the incredible, complex mind of the man she loved, a detail his cousin already knew from a lifetime of quiet observation. "Of course. That makes perfect sense."
+
+He finally hit "Play." The opening credits rolled, the sound from his new integrated stereo speakers filling their living room. He swung the communicator's mounting arm into the perfect viewing position for all three of them. Chloé leaned her head on one of his shoulders, and Megan leaned hers on the other.
+
+It was more than just a movie. It was a celebration. It was the simple, universal pleasure of sharing a story, made possible by a new piece of technology. But more than that, it was the quiet joy of being able to read the words on the screen, of drinking a glass of milk without fear, of being safe and comfortable in their very own home, surrounded by the two women who loved him more than anything. It was a simple pleasure, but for them, it was revolutionary.
+

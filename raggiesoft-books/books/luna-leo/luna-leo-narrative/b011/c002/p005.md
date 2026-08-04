@@ -1,0 +1,42 @@
+# Part 5: A Voice of His Own
+
+As they all headed back towards the mall's exit, laden with bags filled with Leo's new wardrobe, Stella put a comforting arm on the back of his wheelchair. "Okay, buddy," she said gently. "That was a huge success. Mission accomplished. Ready to go home and rest?"
+
+Leo paused, stopping the forward momentum of their group. He looked at the bags of new clothes, then at the sealed manila envelope containing the guardianship papers that Eleanor was carrying. The immediate, critical needs had been met, but one gaping hole in his life remained. He reached for Luna's AAC device and typed, his message full of a new, urgent purpose.
+
+NEED! NEW! TALKER!
+
+Stella’s heart ached. She knelt in front of his chair, her expression a mixture of gentle sympathy and rising anger at the situation. "Oh, honey, I know you do. More than anything," she began, starting to explain the usual, frustrating process. "Normally, we have to go through your doctor and your speech therapist to get a prescription, and then we have to fight with the insurance company for weeks, maybe even months, to get it approved..."
+
+She saw the wave of profound disappointment wash over Leo's face, and in that instant, something inside her snapped. The "guardian bear" who had confronted Clara Mahone on the phone fully resurfaced, her voice shifting from apologetic to ice-cold, tactical resolve.
+
+"You know what? No. Forget that," she said, her tone now a blade. "That's the normal way, but this isn't a normal situation. We are not waiting for insurance. There is more than enough money in the trust fund for this."
+
+She met Leo's surprised, hopeful gaze. "Here's the new plan," she declared, her voice full of absolute conviction. "First thing Monday morning, we are calling your speech therapist. We are getting the model number for the newest Quantum Communicator. I am going to order it, and I am going to pay for it in full, right then and there. You'll have it as fast as they can ship it."
+
+She wasn't finished. Her eyes glinted with the fury of a lawyer preparing for battle. "And then," she continued, "I am going to get a detailed invoice, and I am going to send it to Delores. And when she inevitably ignores it, I am going to take her to civil court for the full purchase price of the device, the cost of your flight home, and any other damages I can think of. You are not paying for what she did, Leo. She is."
+
+The look of profound relief and gratitude that flooded Leo's face was instantaneous. He looked at his older sister, seeing not just his caregiver, but his fierce, brilliant, and unstoppable champion. He gave a single, powerful nod.
+
+"But," Olivia interjected gently, ever the pragmatist, "even that will take a few days to order and arrive. What about for right now? For this weekend?"
+
+Leo's hopeful expression returned. He looked at Olivia's laptop, the complex interface a source of low-grade anxiety, then back at his sisters. He typed again, his question hopeful and specific.
+
+IS THERE SOMETHING SMALLER? JUST FOR TYPING? NOT A BIG COMPUTER? SOMETHING I CAN BUY TODAY?
+
+Stella, Luna, and Olivia exchanged a look. He wasn't asking for his voice; he was asking for a notepad, a way to have his own words back in his own hands without having to borrow their devices.
+
+"A handheld," Olivia said, understanding instantly. "Something simple."
+
+"That's a brilliant idea, Leo!" Stella said, her own hope surging. "You're right! Let's go to the electronics store. Right now."
+
+Their final stop was a large big-box electronics store. Inside, past the towering walls of televisions and stereos, they found the small section for personal digital assistants (PDAs). And there it was.
+
+It was called the MagnaByte Scribe. It was a small, gray, handheld device with a monochrome resistive touchscreen and a thin stylus. The interface was incredibly simple: a basic word processor called "ScribeNotes," a calendar, and a contact list. There were no overlapping windows, no complex menus. It was direct and straightforward, a perfect bridge between the simplicity of his beloved Opus and the necessity of a portable device. It even had a basic, robotic text-to-speech function.
+
+Leo's eyes lit up. He pointed at it, his expression one of pure, unadulterated hope. This, he could learn. This wouldn't overwhelm him.
+
+Without a moment's hesitation, Stella bought it.
+
+Back in the car, Leo held the small box in his hands. It wasn't his voice, not his real one. But it was *his*. It was a start. It was a tangible piece of his own agency, a promise that he would not be silent while he waited for his true voice to be rebuilt.
+

@@ -1,0 +1,56 @@
+# Part 2: The Gravity of Home – Friday, July 10, 2066 – 17:30 (Local Eden Time)
+
+The silver runabout descended through the hazy, golden-hour clouds of Planet Eden, the Aegis shield shimmering invisibly as it granted the ship clearance.
+
+As Jack brought the vessel down toward the landing pad on the edge of the Genesis Valley, the oppressive, sterile silence of the lunar embassy instantly evaporated. Even through the reinforced hull of the ship, he could hear the distant, booming laughter of his brothers, Tyler and Evan, and the chaotic, echoing shouts of the Genesis cohorts running through the fields.
+
+Jack initiated the landing sequence, the repulsorlifts kicking up a small cloud of rich, dark topsoil as the ship settled onto the pad. He powered down the MagnaByte navigation systems, unbuckled his harness, and popped the primary hatch.
+
+He didn't even have both boots on the dirt before the welcoming committee hit him.
+
+"Jack!"
+
+Eight-year-old Willow practically launched herself off the nearby wooden fencing. She hit him with the force of a small missile, her arms wrapping tightly around his waist.
+
+Jack let out a genuine, melodic laugh—the first real laugh he’d had all week. He instantly dropped his heavy canvas satchel into the grass and scooped the little girl up, wrapping his massive arms around her in a crushing, fiercely protective hug.
+
+"Hey, wild sparrow," Jack smiled, resting his cheek against her messy, dark curls. "Did you keep the village out of trouble while I was gone?"
+
+"I tried, I did!" Willow beamed, her Sydney accent bright and musical. She squeezed his neck tightly, burying her face into his shoulder to completely ground herself in his presence. "But Lachlan and Ethan tried to build a mud-slide behind the Town Hall, and Ellie caught 'em. It was absolutely brilliant until she made 'em scrub the floorboards."
+
+"I'll bet it was," Jack chuckled, setting her gently back down on her feet.
+
+Before he could reach for his bag, two more figures stepped out from the shade of the nearest alien pine.
+
+Fourteen-year-old Molly and Claire walked up to him. As the scholars of the family, they possessed a quiet, sharp intelligence, but when it came to their older brother, their analytical walls completely dissolved.
+
+Without a word, Molly stepped into Jack's airspace and wrapped her arms around his chest. Claire immediately followed, hugging him from the other side.
+
+Jack closed his eyes, his broad shoulders dropping a full two inches as he hugged his sisters back. He held them tight, entirely absorbing the physical pressure, the warmth, and the absolute, unshakeable loyalty that radiated from them. Up on the moon, Elena viewed hugs as an inefficient nuisance. But to the Coltons, physical touch was the armor that kept them alive. It was how they regulated their nervous systems; it was how they communicated that the perimeter was secure.
+
+"Rough rotation, Jack?" Claire murmured softly against his shoulder, her keen eyes having already cataloged the micro-expressions of exhaustion on his face.
+
+"Just cold," Jack admitted quietly, giving her a reassuring squeeze before finally stepping back.
+
+He reached down to pick up his satchel. As they began walking toward the center of the village, Jack didn't hesitate for a fraction of a second. He held his hand out. Claire instantly slipped her hand into his, their fingers interlacing naturally. Willow skipped to his other side, grabbing his other hand with a fierce, possessive grip.
+
+Jack walked through the center of the bustling pioneer town holding his sister's hand, completely unbothered by how it looked. He was a tall, heavily muscled sixteen-year-old diplomat, and he wore his affection for the women in his life like a badge of absolute honor. If Elena could see him now, she would probably roll her eyes and call him "soft." But Jack was starting to realize that Elena's brand of "strength"—the cold, isolated, untouchable pride of the Earth Remnant fleet—was actually incredibly fragile.
+
+"So," Molly said, walking slightly ahead of them so she could look at her brother. "The water-wheel. Are we calibrating the flow rate, or are we just playing in the mud?"
+
+"Oh, we are absolutely playing in the mud," Jack grinned, the heavy, political weight of the ambassador's reception entirely forgotten.
+
+They spent the next two hours on the riverbank behind Willow's cabin. Jack rolled up the sleeves of his crisp, tailored Henley, sinking his hands deep into the rich, wet river mud as he helped Willow align the wooden paddles of her miniature water-wheel. Molly and Claire sat right beside them, calculating the optimal angle for the water flow, completely unbothered when Willow accidentally splashed river water all over their canvas pants.
+
+The sun began to dip below the valley ridge, painting the sky in vibrant shades of violet and gold. The air was thick with the smell of alien pines, fresh water, and the distant, savory scent of the village dining hall preparing dinner.
+
+Jack sat back on his heels, wiping a streak of mud from his forehead with the back of his wrist. Willow was leaning heavily against his side, completely exhausted but utterly victorious as her little wooden wheel spun perfectly in the current.
+
+He looked at the mud under his fingernails. He felt the warmth of Willow leaning against his ribs, and the gentle, grounding presence of Molly and Claire sitting right across from him.
+
+He thought about Elena, currently standing in a sterile, temperature-controlled frigate, sipping synthesized water and making calculated small talk with logistics commanders. He was trying his best to make the relationship work, pouring his endless patience into the void of her pragmatism. But the disparity was growing impossible to ignore. He was a boy who needed the gravity of human connection, and he was dating a girl who only knew how to float in the dark.
+
+For now, he would endure it. He was the peacemaker, and keeping the diplomatic channels open with the Earth Remnant was his duty.
+
+But as Claire reached over and gently wiped a smudge of dirt off Jack's cheek, offering him a warm, deeply knowing smile, Jack knew exactly where his heart actually lived.
+

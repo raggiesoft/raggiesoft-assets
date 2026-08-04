@@ -1,0 +1,136 @@
+# Part 13: The Sub-Level Sanctuary
+
+## Date: November 14, 2004 Time: 1:40 PM Location: Engineering Hall, Basement Level
+
+They reached the heavy steel door of Server Room B. Patrick swiped his student ID.
+
+BEEP-BEEP-BEEP. (Red Light)
+
+Patrick swiped again.
+
+BEEP-BEEP-BEEP.
+
+"Damn it," Patrick hissed. "They changed the access codes for the weekend. Admin only."
+
+He looked down at Nichole.
+
+She was vibrating. It wasn't a seizure; it was pure, unadulterated rage. Her hands were clenched into fists on her lap. Her breathing was jagged. The "Speed Dating" ambush hadn't just scared her; it had insulted her soul. She felt dirty. She felt like a prop in someone else's bad romantic comedy.
+
+She needed to crash, and she needed to crash *now*. The hallway was too bright. Students were walking past, laughing, carrying backpacks. Every noise sounded like a gunshot.
+
+She slammed her fist against her armrest. A sharp, angry sound.
+
+Patrick looked around. He couldn't take her back to the apartment—that was a twenty-minute walk, and she wouldn't last five. He needed a hole to hide in.
+
+His eyes landed on the freight elevator at the end of the hall. It had a key switch, but Patrick knew the trick. If you pulled the doors apart with enough force, the magnetic seal broke and the call button activated.
+
+"Hold on," Patrick said.
+
+He marched to the elevator. He hooked his fingers into the rubber seal of the center doors and pulled. With a grunt of effort, the doors separated an inch. The light turned green.
+
+The doors slid open.
+
+He rolled Nichole inside and hit the button marked B2 - PHYSICAL PLANT.
+
+## Location: Level B2 (The Steam Tunnels)
+
+The doors opened onto a world of gray concrete and yellow pipes. It smelled of ozone, dust, and hydraulic fluid. It was the mechanical heart of the university.
+
+There were no students here. No flyers. No speed dating. Just the deep, rhythmic thrum of the HVAC handlers and the hiss of steam valves.
+
+It was perfect.
+
+Patrick pushed her to a secluded alcove behind a massive generator. He locked the brakes.
+
+He walked around to the front of the chair. He didn't crouch; he knelt on the dirty concrete floor so he was eye-level with her.
+
+Nichole was crying now—angry, hot tears. She was scrubbing at her right knee—the spot where Kyle had touched her. She was rubbing the fabric of her jeans as if trying to erase a stain.
+
+Patrick saw the motion. He understood instantly.
+
+"He's gone, Nikki," Patrick said, his voice dropping to that low, resonant register he used for regulation. "He's not here."
+
+Nichole shook her head violently. She kept scrubbing. She reached for her *ConvertiBook*. Her fingers trembled as she typed.
+
+DIRTY HE TOUCHED
+
+"I know," Patrick said. "I saw."
+
+I AM NOT A DOLL
+
+"No," Patrick said firmly. "You are not a doll."
+
+SHE SAW FURNITURE
+
+The insult from Jessica. *You look trapped.*
+
+Patrick reached out. He took her hands, stopping her frantic typing. He held them firmly, applying the "Vice Grip"—steady, grounding pressure.
+
+"Look at me," Patrick commanded.
+
+Nichole gasped, looking up. Her eyes were red.
+
+"They are blind," Patrick said. He spoke with the absolute authority of a judge. "Jessica sees a mirror. Kyle sees a target. They don't see *you*. That is their failure, not yours."
+
+He squeezed her hands.
+
+"You are not furniture. You are the reason I am here. You are the mission. Do you understand?"
+
+Nichole sniffled. She looked at his hands covering hers. They were large, scarred, and safe.
+
+But she still looked at her knee. The phantom touch was still there.
+
+Patrick released one hand. He reached into his backpack and pulled out a small travel pack of wet wipes—part of their standard "Field Kit."
+
+He pulled one out.
+
+"May I?" Patrick asked, gesturing to her knee.
+
+Nichole nodded.
+
+Patrick took the wipe and firmly, methodically scrubbed the denim where Kyle’s hand had been. He didn't do it lightly. He put muscle into it, as if he were scrubbing away a physical contaminant.
+
+"Gone," Patrick said, discarding the wipe. "Decontaminated."
+
+He looked at her.
+
+"Do we need the vest?" he asked. (Referring to her weighted compression vest).
+
+Nichole shook her head. She reached out with both arms.
+
+*The Human Vest.*
+
+Patrick didn't hesitate. He leaned forward, wrapping his arms around her, crushing her in a tight, constricting bear hug. He pressed her head against his shoulder, blocking out the sight of the pipes, the concrete, and the world.
+
+He held her there for a long time. The only sound was the hum of the generator and the steady beat of his heart against her ear.
+
+Slowly, the tension left her wire-tight muscles. The "dirty" feeling began to fade, replaced by the smell of Patrick’s laundry detergent and the crushing safety of the hold.
+
+She tapped his back twice. *Better.*
+
+Patrick pulled back, but kept his hands on her shoulders.
+
+"We're skipping English," Patrick announced. "I'm not taking you back up there today."
+
+Nichole grabbed her screen.
+
+SKIP?
+
+"Yeah," Patrick said, sitting back on his heels. "We're going to stay here until the shift change. Then we're going to get pizza. The good kind. From the place that delivers so we don't have to see people."
+
+Nichole managed a small, watery smile.
+
+PEPPERONI
+
+"Double pepperoni," Patrick agreed.
+
+He stood up and dusted off his knees. He looked around the grim, industrial basement.
+
+"This is better than the lounge anyway," Patrick noted. "Better acoustics."
+
+Nichole looked at the yellow pipes. She listened to the drone of the machines. It was ugly, loud, and smelled like oil.
+
+It was the most beautiful place she had ever seen.
+
+She tapped her armrest. *Safe.*
+

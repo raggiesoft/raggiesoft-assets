@@ -1,0 +1,74 @@
+# Part 8: The Top of the Hour – 7:00 PM (PST)
+
+Exactly one hour into the live broadcast, the commercial break ended. The arena lights swept across the roaring Portland crowd, and the massive TitanTron flashed a brand new graphic: *NO QUARTER – 5-ON-5 ELIMINATION MATCH PREVIEW*.
+
+A crisp, obnoxiously polished brass-and-percussion track hit the PA system. The crowd instantly responded with a chorus of heavy, irritated boos.
+
+Stepping out onto the stage were Avery and Hayes—The Board of Directors. Representing Marcus Sterling’s corporate faction, they wore custom-tailored warm-up suits that easily cost a small fortune. They strutted down the long ramp, looking at the blue-collar Portland fans with utter, undisguised disdain.
+
+But as they reached the ring, the arena spotlights swept back up to the top of the entrance stage, revealing a massive, unexpected production change.
+
+A four-piece band, bathed in cyan and violet neon lights, was fully set up next to the TitanTron. There was a massive drum kit, a heavy bass guitar, and a sprawling bank of vintage synthesizers. The broadcast desk announced them as Willamette Valley's own synth-rock sensation, The Velvet Static.
+
+The drummer clicked his sticks together, counting off the tempo, and the band launched into a blistering, heavy 1980s Darkwave track.
+
+Down in the front row, the sheer, concussive physical power of a live band inside an indoor arena was immense. Rachel and I immediately clamped our heavy isolation headphones firmly over our ears, the thick foam shells completely filtering out the sharp, painful auditory spikes of the live drum kit.
+
+But we couldn't filter out the bass.
+
+The deep, synthesized Darkwave rhythm was so heavy it felt like a physical entity. I could feel the low-end frequency rattling my ribs and vibrating aggressively up through the thick rubber soles of my boots. I looked over at Rachel, but she was completely in her element. She offered a massive smile, tapping her fingers happily on her knees in perfect, flawless time with the live rhythm.
+
+Elias and Rex—The Midnight Runners—burst onto the stage right in front of the band.
+
+When the graphic flashed on the screen billing them from *GRESHAM, OREGON*, the Rose City Center absolutely erupted. The hometown boys, who had probably grown up riding the same Columbia Transit System buses we used to navigate around the city today, were wearing identical black leather trench coats, identical boots, and matching long hair. They sprinted down the ramp, full of kinetic energy, and slid into the ring.
+
+The bell rang, and the local momentum was entirely on the side of the Midnight Runners. Elias started the match against Avery, hitting a beautiful, fluid arm-drag, following it up with a dropkick, and tagging in Rex for a stunning double-team suplex.
+
+But the Board of Directors quickly resorted to their corporate playbook.
+
+As Rex hit the ropes right in front of us, Hayes blatantly grabbed his ankle from the outside. Rex stumbled hard. Avery capitalized instantly, delivering a vicious chop block to the back of Rex's knee that echoed through the building.
+
+For the next five minutes, Avery and Hayes put on an absolute clinic in classic, methodical tag-team psychology. They dragged Rex into their corner, cutting the ring perfectly in half and isolating him completely. While the referee was distracted warning Avery, Hayes aggressively choked Rex on the bottom rope.
+
+Rex was getting battered. Avery picked him up and threw him hard out of the ring, specifically tossing him to the floor on the far side of the ring, away from the hard television camera.
+
+Hayes jumped onto the ring apron and started screaming directly in the referee's face, completely drawing the official's attention away from the floor.
+
+Sitting in the front row, we had a perfect angle of what happened next.
+
+Down on the floor mats, Rex grabbed the edge of the black ring apron and quickly scrambled completely under the ring to "hide" from Avery. A split-second later, a wrestler in identical gear and identical long hair slid out from under the opposite side of the apron, clutching his ribs and acting incredibly groggy.
+
+It was Elias. The classic "Twin Magic" switch.
+
+Kristin and Jessica burst out laughing. The live crowd absolutely loved it, cheering wildly for the blatant cheating because it was their hometown heroes outsmarting the corporate suits.
+
+Avery, completely unaware of the switch, rolled under the bottom rope, grabbed the "groggy" brother by the hair, and tossed him back into the ring.
+
+Avery went for a lazy, arrogant clothesline to finish the match. But the perfectly fresh, fully rested Elias easily ducked under it. He hit the ropes and exploded with a massive, high-speed flying forearm! Hayes ran in to interfere, but Elias caught him with a devastating back-body drop that sent him flying halfway across the ring.
+
+Elias dragged a stunned Avery to the corner and tagged the real Rex—who had just casually crawled back out from under the ring and hopped onto the apron.
+
+The brothers launched into the air simultaneously, catching Avery in their devastating tandem finisher, the Total Eclipse.
+
+Rex hooked the leg. *ONE! TWO! THREE!*
+
+The live band on the stage instantly fired up the victory chord, and the hometown crowd unleashed a massive, triumphant roar.
+
+Inside the ring, Elias and Rex had their arms raised in victory. But on the outside, the scene turned ugly very quickly. Avery and Hayes were humiliated, furious, and clutching their jaws as they stumbled up the entrance ramp. Their tailored warm-up suits were ruined, and the localized Portland fans surrounding the stage began mercilessly mocking them.
+
+Hayes completely snapped.
+
+He marched right up to the lead singer of The Velvet Static, who was happily strumming his guitar, and viciously shoved the musician flat onto his back.
+
+The crowd gasped.
+
+Avery grabbed the heavy bass guitar by the neck, hoisted it over his head, and violently smashed it against the steel stage grating. The wood shattered into a dozen jagged pieces with a sickening crunch.
+
+Not to be outdone, Hayes delivered a brutal kick to the vintage synthesizer, knocking it entirely off its stand. The heavy keyboard crashed to the concrete floor in a shower of sparks and broken plastic, cutting the live music dead in an instant.
+
+The cheers instantly transformed into nuclear, white-hot heat.
+
+Avery and Hayes stood over the broken instruments and the stunned band members, glaring fiercely down the long ramp at the Midnight Runners. Referees were already flooding the aisle, desperately holding Elias and Rex back from charging up the ramp.
+
+Team Sterling was sending a massive, highly destructive message ahead of *No Quarter*. And as the boos rained down on the broken stage, I couldn't help but think that the quiet, peaceful ARTS train ride back to Washington tomorrow was going to feel like a completely different universe compared to this war zone.
+

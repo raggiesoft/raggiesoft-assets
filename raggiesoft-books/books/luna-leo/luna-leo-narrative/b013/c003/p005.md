@@ -1,0 +1,70 @@
+# Part 5: The Restoration
+
+## December 29, 2005 Narraganset Esplanade Station - Level 0 (The Deep) 12:30 PM
+
+The **Blue Line** train hissed to a halt at the end of the line.
+
+"This is Narraganset Esplanade. Final stop. Please exit to the left."
+
+The doors opened. Stella led the way out, checking the station monitors. The emergency red banners on the screens were flickering, replaced by standard blue service alerts.
+
+BTA SERVICE RESTORATION NOTICE
+
+**EFFECTIVE:** Tomorrow, 05:00 AM.
+
+**METRO:** Full Service Resumed.
+
+**REGIONAL RAIL:** Full Service Resumed.
+
+**BUS:** Primary Arterials Only (Snow Routes).
+
+**FERRY:** Full Service Resumed.
+
+"They dug out fast," Stella noted. "Less than 24 hours."
+
+They took the elevator up to the **Concourse Level**.
+
+As they walked toward the **University Inn Tunnel**, the fatigue of the excursion hit Arthur. He was leaning heavily on his cane, his steps becoming shorter and more shuffling. His face was pale.
+
+"Grandpa?" Stella asked, slowing down.
+
+"I'm alright," Arthur wheezed, pausing to lean against a pillar. "Just... the air down here is a bit thin. Or maybe I'm just old."
+
+"It's been a long morning," Eleanor said, taking his arm. "And you climbed the mountain to see the cathedral. That's enough for one day."
+
+Leo wasn't faring much better. The adrenaline of the drag race had worn off, and the physical exertion of pushing his manual chair through the miles of tunnels had drained his battery. His arms were trembling. He stopped pushing, letting his hands drop to his lap.
+
+He looked at Olivia. He didn't need to type.
+
+"I got you," Olivia said instantly.
+
+She stepped behind his chair, taking the handles. She pushed him smoothly down the corridor, taking the load off his shoulders.
+
+They reached the hotel elevators.
+
+"Nap time," Stella declared. "Mandatory. For everyone over seventy and everyone who pushed themselves across the city."
+
+Arthur chuckled weakly. "I won't argue with the General."
+
+They rode up to the **Lobby Level**.
+
+As they walked down the hallway of the **Chancellor Wing**, the hotel was quiet. The storm outside had passed, leaving a brilliant, silent world of white.
+
+They reached **Room 103**. Stella opened the door for her grandparents.
+
+"Rest," Stella said, kissing Arthur on the cheek. "We'll order dinner in later. No more adventures today."
+
+Arthur nodded, sinking onto the edge of the bed with a sigh of profound relief. "Adventures are good, Stella. But landing is better."
+
+Stella closed the door gently. She turned to the rest of the group in the hall.
+
+Olivia wheeled Leo into **Room 101**. He rolled next to the bed and slumped forward, resting his head on the mattress.
+
+*"BATTERY EMPTY,"* he typed on his Scribe.
+
+"Recharge," Olivia said, helping him transfer out of the chair and onto the bed. "We aren't going anywhere. The trains will be running tomorrow. Today, we just breathe."
+
+Leo closed his eyes. He listened to the faint hum of the hotel HVAC. He thought about the tunnels, the trains, and the snowplows. He thought about the house they were going to build.
+
+He was tired. But he wasn't scared. For the first time in a long time, he knew exactly where he was going.
+

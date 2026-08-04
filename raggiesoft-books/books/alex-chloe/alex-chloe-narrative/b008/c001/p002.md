@@ -1,0 +1,28 @@
+# Part 2: A Familiar Face
+
+The walk—or roll—to his next class, Introductory Psychology, was a short, nerve-wracking journey. Alex's mind was a whirlwind. *Vera. She was nice. Perceptive. An ally.* The thought was a small, warm coal in the cold furnace of his anxiety.
+
+He found the classroom and navigated his wheelchair to the designated accessible table near the front. As he was powering on his "Quantum Communicator XT" to launch Quantum WritePad for taking notes, a familiar, welcome voice cut through the anonymous chatter of the room.
+
+"Alex? Alex Miller, is that you?"
+
+He looked up to see Sarah Jenkins, Megan's best friend, her face breaking into a wide, genuine smile of pure, happy surprise. "Oh my god, I had no idea you were going to CCHR! It's so good to see you!"
+
+A wave of profound, uncomplicated relief washed over Alex. A familiar face. A safe person. He had been so focused on his own fear that he hadn't even thought about the possibility of seeing anyone he knew.
+
+SARAH, his Quantum Communicator XT voiced, the tone full of his own surprised delight. IT IS REALLY GOOD TO SEE YOU, TOO.
+
+"This is my class, too," she said, her smile not faltering for a second as she gestured to the empty chair beside his table. "Do you mind? It's been ages since I've seen you."
+
+PLEASE, he typed, genuinely happy for the company.
+
+As she settled in beside him, she saw the subtle but constant tension in his shoulders, the haunted look in his eyes that was a stark contrast to the happy, nerdy kid she remembered from Megan's house. Her smile softened with a gentle, non-judgmental concern. "You okay?" she asked softly. "You seem a little... on edge."
+
+IT'S JUST... A LOT, he typed, the vague answer a poor shield for the specific, Vera-shaped fear that was consuming him. FIRST DAY.
+
+"I get it," she said, her voice full of an easy, uncomplicated empathy. Seeing his distress, she did what felt most natural, what she had done a dozen times before. Without a word, she leaned in and wrapped him in a warm, familiar, and completely uncomplicated hug.
+
+Alex stared, surprised by the gesture but not by the feeling. A hug from Sarah. A person from Megan's world. A safe hug. He leaned into it for a brief, wonderful instant, a moment of profound peace.
+
+As she pulled back, the warmth was immediately replaced by a fresh wave of anxiety. He had done it. He had hugged another girl. And now, he had a secret. The simple, innocent gesture felt like a dangerous transgression.
+

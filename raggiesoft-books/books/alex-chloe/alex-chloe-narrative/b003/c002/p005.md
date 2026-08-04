@@ -1,0 +1,46 @@
+# Part 5: A Change of Scenery (April 8, 2000)
+
+The last of the relatives' cars had pulled away from the curb, leaving a contented quiet in its wake. The joint fifteenth birthday party had been a resounding success. As they said their goodbyes, Alex’s relatives had enveloped Chloé in warm hugs, welcoming her into the fold. "It was so wonderful to finally meet you, dear," Grandma Miller had said, patting Chloé’s cheek. "You are a treasure."
+
+The final goodbyes were to the Carter family. Alex was particularly sad to see Megan go. She knelt beside his wheelchair for one last, fierce hug.
+
+"I wouldn't have missed this for the world, cuz," she whispered, her voice full of genuine affection. "Seeing you so happy... seeing you with Chloé... it's the best birthday present ever."
+
+Alex hugged her back tightly, a profound sense of gratitude washing over him. He was so happy she had been here.
+
+As Megan stood up, she turned to Chloé, her expression full of a new, sincere warmth, her arms open.
+
+Chloé, a little surprised, stepped forward and into Megan's embrace. It was the first time they had hugged.
+
+"Thank you, Chloé," Megan whispered, her hug genuine and firm. "I've never seen him so happy. It's really good to know he has someone so special in his life now."
+
+Chloé felt a warm blush rise to her cheeks at the compliment, but she returned the hug, a feeling of profound acceptance washing over her. "Thank you, Megan," she whispered back. "I'm the lucky one."
+
+Now, the six of them—the Millers and the Masons—stood amidst the happy debris of the celebration. It had been a long, wonderful, and for Alex, incredibly stimulating day. He was slumped in his wheelchair, his movements slow, the familiar signs of sensory overload and deep fatigue setting in.
+
+Chloé, ever his barometer, saw it instantly. She knelt beside his chair. "That was the best party ever," she said softly. She paused, her eyes lighting up with a new, exciting thought. "It makes me want you to meet *my* whole family. For real. This summer. We should take a real road trip and go home, to Derby Line and Stanstead."
+
+The idea was a spark of light in Alex’s exhausted mind. He managed a tired but genuine smile and a slow nod.
+
+Chloé saw the nod, but she also saw the deep weariness in his eyes. "Hey," she said, her voice gentle as she stood up to address the four parents, "I have an idea. Alex is super tired. What if we just go sleep at my place? He can sleep in my bed with me, just for a change of scenery. Let him recharge."
+
+The suggestion was made with the casual ease of someone proposing to move from one room to another. James and Emily looked at their son, saw his exhaustion, and understood immediately.
+
+"That's a wonderful idea, Chloé," Emily said without a moment's hesitation.
+
+"We'll finish cleaning up here," Thomas added. "You two go on. Get some rest."
+
+And so, the plan was settled. A few minutes later, after James helped Alex with his evening routine, Chloé gently pushed his wheelchair out the Millers' back door and across the now-familiar, worn path in the grass to her own house. The Masons' home was quiet and calm. They went to Chloé's room, and with the easy, practiced intimacy of their nightly routine, they settled into her bed.
+
+Alex let out a long, shuddering sigh, the tension and exhaustion of the long, happy day finally releasing its grip. He reached for her hand in the dark.
+
+THANK YOU, CHLOÉ, his last message of the day had been. BEST BIRTHDAY. BEST FRIEND.
+
+"Happy birthday, Alex," she whispered back, squeezing his hand. "You know," she added, her voice full of wonder, "what I said at the party was true. My mom told me my original due date was actually April 29th. So, if I hadn't been so impatient, we wouldn't be birthday twins at all."
+
+Alex made a soft noise of sleepy surprise, squeezing her hand back.
+
+"But I'm really, really glad I didn't wait," Chloé whispered. "Sharing a birthday with you is way better."
+
+They were tired, they were happy, and they were together. And now, with the full, serendipitous story of their shared birthday hanging like a little secret between them, they had a whole new adventure to dream about: the summer road trip home.
+

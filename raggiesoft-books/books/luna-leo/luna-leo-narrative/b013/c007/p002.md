@@ -1,0 +1,104 @@
+# Part 2: The Eastern Townships Connection
+
+## August 22, 2006 Braxton State University - The Language Commons 11:00 AM
+
+The Department of World Languages occupied the entire second floor of the Humanities Building. It was a maze of flags and maps, buzzing with the sound of a dozen different languages.
+
+Stella led the Fortress to the registration desk.
+
+"Okay," Stella said, checking her binder. "We have our transfer credits from CCHR. We all took **French 101**—Metropolitan style. Standard Parisian grammar. BSU requires two semesters, so we just need to knock out **French 102** to clear the graduation requirement."
+
+She looked at the course catalog on the counter. She expected to see a list of generic sections taught by professors who pronounced "Le Week-end" with a flat accent.
+
+Instead, under the **French** heading, she saw two distinct columns:
+
+1.  **FR-M (Metropolitan / Continental)**
+
+2.  **FR-Q (North American / Québécois)**
+
+Olivia grabbed the catalog. Her eyes went wide. She traced the line item: **FR-Q 101: Introduction to Québec French & Culture.**
+
+"No way," she whispered. "They have a dedicated Québécois track? That's... nobody does that."
+
+The door to the **DEPARTMENT CHAIR** office opened. A man in his fifties walked out. He wore a tweed jacket, but his demeanor was relaxed. His name tag read **Dr. Luc Gagnon**.
+
+He saw the group looking at the catalog and smiled.
+
+"Good morning," Dr. Gagnon said in English. "Can I help you folks find a section? Or are you just admiring the curriculum?"
+
+His English was perfect, but the vowels were rounder, the 'R's slightly softer. It wasn't a French accent from Paris; it was the specific, melodic lilt of someone who grew up just north of the Vermont border.
+
+Olivia froze. She knew that sound.
+
+She didn't reply in English. She looked him dead in the eye and dropped the American mask completely, shifting into the fast, musical dialect of her childhood.
+
+*"Excusez-moi, Monsieur,"* Olivia said, her voice vibrating with the specific twang of the Townships. *"Mais à l'oreille... vous ne seriez pas du coin d'Ayer's Cliff, par hasard?"* (Excuse me, Sir. But by the ear... you wouldn't happen to be from the Ayer's Cliff area, by chance?)
+
+Dr. Gagnon stopped. His eyes widened. He looked at this tall young woman standing in a university hallway in Rhode Island, speaking his home dialect as if she were standing on his front porch.
+
+A huge, genuine grin broke across his face. He abandoned English instantly.
+
+*"Ben voyons donc!"* he exclaimed. *"T'as l'oreille fine, toi! Oui, je suis d'Ayer's Cliff. Juste à côté du lac Massawippi."* (Well, look at that! You have a sharp ear! Yes, I'm from Ayer's Cliff. Right next to Lake Massawippi.)
+
+*"Et toi?"* he asked. *"Cet accent-là... c'est pas Montréal. C'est la frontière. Stanstead?"* (And you? That accent... it's not Montreal. It's the border. Stanstead?)
+
+*"En plein dans le mille,"* Olivia beamed. *"Je suis née à Sherbrooke, mais j'ai grandi à Stanstead. Rue Dufferin."* (Bullseye. I was born in Sherbrooke, but I grew up in Stanstead. Dufferin Street.)
+
+*"Le monde est petit,"* Dr. Gagnon laughed. (Small world.)
+
+He looked down at the paperwork Stella was holding. Sticking out of the folder were Olivia’s travel documents.
+
+He saw the stack:
+
+1.  The dark blue **United States of America** passport.
+
+2.  The royal blue **Canada** passport.
+
+3.  And clipped to the front, a sleek, laminated **NEXUS Card**.
+
+*"Attends une minute,"* Dr. Gagnon said, pointing to the royal blue passport and the NEXUS card. *"Tu es déjà citoyenne. Tu as tes papiers."* (Wait a minute. You're already a citizen. You have your papers.)
+
+*"Oui,"* Olivia confirmed. *"Je suis double. Je peux rentrer à la maison quand je veux."* (Yes. I'm dual. I can go home whenever I want.)
+
+*"Alors, pourquoi tu regardes les cours?"* Dr. Gagnon asked, genuinely confused. *"Tu n'as pas besoin de ça. Je peux te faire une exemption tout de suite."* (So why are you looking at classes? You don't need this. I can give you a waiver right now.)
+
+He reached for a form. *"Tu passes le test, tu as tes crédits, c'est fini."*
+
+Olivia looked at the waiver. Then she looked at **Leo**, Stella, and Luna.
+
+"I don't need it," Olivia said, switching to English so the Fortress could understand. "But *they* do."
+
+She turned back to Dr. Gagnon, speaking French again, her voice serious.
+
+*"Je ne prends pas le cours pour moi, Docteur. Je le prends pour ma famille."* (I'm not taking the class for me, Doctor. I'm taking it for my family.)
+
+She gestured to the Porters.
+
+*"Je veux qu'ils soient capables de passer le TEFAQ. Je veux qu'ils aient l'option d'immigrer si jamais ils en ont besoin. Et pour ça, ils doivent comprendre le vrai français. Pas le français de Paris."* (I want them to be able to pass the TEFAQ. I want them to have the option to immigrate if they ever need it. And for that, they need to understand the *real* French. Not Paris French.)
+
+She pushed the waiver form back.
+
+*"Je ne les laisse pas derrière,"* she said firmly. *"On le fait ensemble."* (I'm not leaving them behind. We do it together.)
+
+Leo tapped his **Quantum Communicator**.
+
+*"SHE IS OUR PASSPORT,"* the robotic voice said.
+
+Dr. Gagnon looked at the group. He saw the loyalty. He saw that the girl with the Canadian passport wasn't using her status to escape the work; she was using it to lift her family up.
+
+He smiled, putting the waiver form back on the display.
+
+*"C'est beau, ça,"* Dr. Gagnon said softly. *"D'accord. Stanstead reste ensemble."* (That's beautiful. Okay. Stanstead sticks together.)
+
+He typed into his computer.
+
+*"Oubliez le crédit de Virginie. Je vous mets tous dans FR-Q 101. Section 01. C'est moi qui enseigne."* (Forget the Virginia credit. I'm putting you all in FR-Q 101. Section 01. I'm teaching it.)
+
+*"Parfait,"* Olivia grinned.
+
+They walked out of the office, registered for a class Olivia could have taught, but one she refused to skip.
+
+*"NEXT STOP: FLUENCY,"* Leo typed.
+
+"And citizenship," Olivia whispered to him, squeezing his shoulder. "Just in case."
+

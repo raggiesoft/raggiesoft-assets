@@ -1,0 +1,40 @@
+# Part 9: A Cross-Border Christmas (December 25, 2003)
+
+Christmas morning at the Millers' house was a cozy, cheerful chaos. The living room was a sea of discarded wrapping paper and happy chatter, the scent of fresh coffee and Emily's breakfast casserole mingling with the fragrance of the pine tree. The entire, sprawling family was gathered, their bilingual conversation a warm and lively hum.
+
+The gift exchange was a slow, happy affair. The Leclerc cousins were thrilled with their very American gifts. Mémère Madeleine received a beautifully soft cashmere scarf. After all the individual presents had been opened, James Miller reached under the tree and pulled out one last, small, beautifully wrapped box.
+
+"This one is from the Virginia contingent—me, your mom, Thomas, Sophie, and Megan," he said, his voice full of warmth as he handed it to Chloé. "And it's for all three of you."
+
+Chloé took the small box, with Alex and Megan leaning in to see. She carefully unwrapped it. Inside, nestled on a bed of tissue paper, was a single, shiny car key.
+
+Alex, Chloé, and Megan looked up, a silent, stunned question in their eyes.
+
+"That," Thomas Mason said, a proud, happy grin on his face, "is the key to your new accessible van. We're all going to pick it out together."
+
+He then handed them a handmade certificate, neatly printed on good cardstock. It read:
+
+"The Miller-Mason-Carter Adventure Package" *(For Our Favorite Team)*
+
+Underneath, in smaller print, it detailed the promise:
+
+"This certificate is redeemable for:
+
+- One (1) new, fully accessible minivan, to be ordered to your exact specifications, to serve as a safe and reliable vehicle for Alex, Chloé, and Megan.
+
+- A "Worry-Free" Guarantee covering all insurance, property tax, gas, and routine maintenance until Alex and Chloé leave for Washington.
+
+- All fees associated with obtaining one (1) new Virginia State Driver's License for Chloé Miller.
+
+- All fees for updating Chloé's identity documents (Passports, etc.) with her new name after January 5, 2004."
+
+Alex and Chloé looked up from the certificate, then at each other, their eyes wide with a joy so profound it was almost disbelief. The memory of that miserable, rainy afternoon in the CCHR parking lot, of Chloé's exhaustion and their shared frustration, was still so fresh. This wasn't just a gift; it was the answer. It was freedom.
+
+THIS IS... PERFECT, Alex's device voiced, the words imbued with deep, heartfelt gratitude. THANK YOU. ALL OF YOU.
+
+"We saw how hard that daily struggle with the old car was on all of you," Emily said gently, her gaze including Megan. "We wanted to give you the right tool for the job, right from the start of your new life together."
+
+Megan, who had been beaming from her spot on the floor, added, "Consider it your chariot. A very practical, very safe chariot for the three musketeers."
+
+Chloé jumped up and gave each of the five of them a huge, tearful hug. Later, as the morning wound down, she, Alex, and Megan sat side-by-side on the sofa, looking at the simple paper certificate and the single, shiny key. It was more than just the promise of a van; it was a blessing, a vote of confidence, and the tangible, powerful proof that their entire, united family was there to help them navigate the long, exciting road ahead.
+

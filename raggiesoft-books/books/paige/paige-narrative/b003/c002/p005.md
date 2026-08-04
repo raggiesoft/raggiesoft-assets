@@ -1,0 +1,58 @@
+# Part 5: The Morning After
+
+## Monday, June 16, 2003 08:30 AM
+
+The morning sun hit the mountains, reflecting off the peaks and finding a gap in the blackout curtains of **105 Pepper Street**. The beam of light hit Freddie’s eyes. He woke up. For a microsecond, the data processing was slow. Warmth. Weight. Safety. Then, the visual sensors came online. He looked to his left. Jessica was asleep, her arm thrown over her eyes. She was naked. He looked to his right. Paige was asleep, her cheek pressed against his shoulder. She was naked. He looked down at himself. He was naked.
+
+The "Robert Virus" activated instantly. *ERROR. ERROR. CONTAMINATION DETECTED.* The voice in his head—his father’s voice—screamed at him. *Disgusting. Wrong. Pervert. If I catch you in that bed...* Freddie gasped, a sharp intake of air that sounded like a seal breaking. He scrambled backward. He tried to shout *No!*, but his throat was a dry, clicking ruin. The mutism from yesterday's meltdown was still holding the line. He thrashed against the maroon sheets, kicking free of the King-sized cocoon, his heart hammering a frantic techno beat against his ribs. *Thump-thump-thump.* He tumbled off the side of the high mattress and hit the hardwood floor with a heavy thud, scrambling backward until his spine hit the wall. He pulled his knees to his chest, covering his exposed body with his arms, shaking violently.
+
+"Status!" Jessica yelled, bolting upright in bed. Her "Admin" brain went from sleep to crisis mode in 0.5 seconds. She saw Freddie pressed against the wall, eyes wide with terror, vibrating. She realized the variable immediately. "Whoa, hey!" Jessica said, holding up her hands. She didn't reach for a sheet to cover herself. She stayed exactly as she was to reinforce the data. "Freddie, look at me. No secrets. Remember?"
+
+Paige stirred, the loss of Freddie’s warmth waking her up. She rubbed her eyes, saw the empty space in the middle, and then looked at the floor. "Freddie?" she whispered, her voice sleep-rough. She saw the terror in his eyes. She saw him looking at the bedroom door, waiting for it to be kicked open. "Oh," Paige breathed. "He thinks Dad is coming."
+
+She slid out of bed. She walked across the room to him. She didn't rush. She moved calmly, ignoring her own nudity. She knelt in front of him, blocking his view of the door. "Freddie," she whispered. "Look at the door lock." Freddie’s eyes darted past her to the bedroom door. "Is it locked?" Paige asked. Freddie nodded jerkily. "Is Robert here?" Freddie shook his head, tears leaking out. "Robert is in Washington," Paige said firmly. "He is three thousand miles away. He can't see you. He can't touch you. And even if he was standing right there..." She pointed to the door. "...Jessica would throw him off the porch."
+
+"Damn straight," Jessica said from the bed. "Freddie, listen to me. You are an adult. You pay rent—well, Aunt Margaret pays rent, but your name is on the lease. You make the rules now. If we say nudity is okay, then it's okay. You aren't in trouble. You aren't 'gross.' You're just human."
+
+Freddie looked at Jessica. Then he looked at Paige. They weren't ashamed. They weren't hiding. The "Robert Virus" tried to run its script again, but the firewall of the Iron City blocked it. *Logic Check:*
+
+1.  Are we safe? Yes.
+
+2.  Is the door locked? Yes.
+
+3.  Do the admins approve? Yes.
+
+Freddie’s shoulders dropped. The vibration in his hands slowed. He looked at Paige and tapped his chest, then pointed at her. *Safe.* "Safe," Paige confirmed. She reached out and hugged him—skin on skin, just a brother and a sister grounding each other. "Now," Jessica announced, clapping her hands. "Reboot complete. Let's get some clothes on. I'm starving, and we have administrative tasks to complete."
+
+## 09:30 AM Logistics Briefing
+
+Twenty minutes later, they were dressed. Freddie wore fresh jeans and a grey t-shirt. His voice was still gone—the reset hadn't fully restored the audio drivers yet—but he was communicating fluently with hand signals. They stood in the kitchen. Jessica was holding a notepad. "Agenda," Jessica listed. "Item 1: Breakfast. I know a place near campus." "Item 2: The Post Office. We need to file the Change of Address forms. You two officially live at **105 Pepper Street** now." "Item 3: Insurance and Taxes."
+
+She looked at Freddie and Paige. "Okay, tax law crash course. Mom called me last week. She’s going to claim both of you as dependents on her tax return this coming January." Freddie frowned. He tapped the table two times. *Query?* "I know," Jessica said. "You moved out in June. Technically, you lived with her for 5.5 months. But since you're students, she can claim this time as a 'temporary absence' for education. It helps her wallet, and frankly, she needs the deduction more than we do. It’s the last time, though. Starting next year, you belong to the Iron City." Freddie nodded. *Acceptable.*
+
+"Insurance," Jessica continued. "Health is covered under Mom’s plan until you're older. But car insurance..." She pulled out her keys. "I added both of you to my policy this morning. You are authorized drivers of the Fleet." Paige’s eyes lit up. "The Avalon?" "The Avalon," Jessica confirmed. "And since it's a stick shift, and I know Freddie can't operate the third pedal..." Freddie shook his head vehemently. *Negative. Too many variables.* "...Freddie is listed as a 'Licensed Household Resident' for legal reasons, but Paige... you're the secondary pilot." Jessica tossed the keys to Paige. "You're driving to breakfast. I want you to get a feel for the clutch before classes start." Paige caught the keys. She grinned. "I prefer manual. More control." "I know," Jessica smiled. "Let's roll."
+
+## 10:00 AM The Test Drive
+
+They walked out the front door. Across the street, a **Route 1** bus was just pulling out of Pepper Plaza, its diesel engine roaring as it turned toward Main Street. Freddie watched it go, appreciating the punctuality. Then he turned to the driveway. The Silver Avalon wasn't a "boat" like the automatic sedans Freddie was used to. It was an older model that Jessica had specifically hunted down—a rare V6 with a 5-speed manual transmission. A "sleeper" car.
+
+"Shotgun," Freddie signed, tapping his chest and pointing to the passenger door. He needed to be next to Paige. If the car lurched, he needed to be able to grab her arm. "Navigator position confirmed," Jessica said, opening the back door. "I'll issue course corrections from the rear."
+
+Paige slid into the driver’s seat. She adjusted the mirrors. She wiggled the stick shift. *Neutral.* She pressed the clutch pedal. It was stiff. "Heavy clutch," Paige noted. "I like it." "It bites early," Jessica warned from the back. "Don't ride it."
+
+Paige turned the key. The engine purred. She shifted into First. She eased off the clutch. The car rolled forward smoothly. No lurch. No stall. "Smooth," Freddie signed, giving a thumbs up. "She's a natural," Jessica said. "Head for Business 460. We're going to **The Daily Grind**."
+
+The drive to Blacksburg was a short hop up the road. Freddie watched Paige’s hand on the gear stick. *Shift. Down. Shift. Up.* It was rhythmic. It was a fidget spinner that controlled a two-ton machine. He saw why she liked it. It kept her hands busy. It kept her focused. He reached over and rested his hand on her knee. She didn't flinch. She just shifted to Third gear and patted his hand with her pinky.
+
+## 10:45 AM The Discovery
+
+They sat in a booth at The Daily Grind, a coffee shop popular with the off-campus crowd. The waitress arrived with the coffee pot to refill Jessica’s mug. "So," Jessica said, unfolding her napkin and stirring in a packet of sugar. "After we eat, we hit the Post Office to file the paperwork." She took a sip, looking at Freddie over the rim of the mug. "And then... I noticed a shop two doors down. It’s called '**The Cartridge Exchange**'."
+
+Freddie’s eyes snapped up from his eggs. He stopped chewing. "I saw a bin of old grey cartridges in the window," Jessica teased. "The 8-bit stuff. The 16-bit stuff. The systems that don't need the internet."
+
+Freddie dropped his fork. It clattered onto the plate. He grabbed his notepad and scribbled furiously. He turned it around. **HARDWARE?**
+
+"Wall to wall," Jessica confirmed. "I think I saw a **Super Bit-System** in the case."
+
+Freddie looked out the window. He couldn't speak, but his leg started bouncing under the table—not a nervous bounce, but an eager one. The "Comic Book" variable was acceptable, but Vintage Code? That was superior. That was pure logic encased in grey plastic. He took a deep breath. **Status: Online.**
+

@@ -1,0 +1,68 @@
+# Part 1: The Great Chowder Rebellion – Tuesday, June 16, 2071 – 12:30 (Local Eden Time)
+
+The sprawling, open-air timber dining pavilion in the center of Genesis Village was currently ground zero for a massive cultural uprising.
+
+Twenty-one-year-old Jack Colton, now standing a broad-shouldered six-foot-three and wearing a durable canvas work shirt, rubbed the bridge of his nose. He was the designated Diplomatic Liaison to the Earth Remnant, but right now, he was negotiating a domestic hostage crisis involving twelve very angry five-year-olds.
+
+Cohort 3 had officially mobilized.
+
+Standing on top of one of the heavy wooden picnic tables, leading the charge, was a five-year-old boy named Thomas with a shock of light brown hair and a terrifyingly flat, nasal cadence. He was pointing an accusatory finger at a steaming bowl of thick, white, creamy soup sitting on the table.
+
+"I'm tellin' ya, Jack, it's completely wrong!" Thomas protested, his volume carrying across the pavilion. "Look at it! It looks like milk! It ain't chowdah if you can't see the bottom of the bowl!"
+
+"It’s New England style, Tommy," Jack explained patiently, his melodic voice completely calm as he rested his hands on his hips. "Aria synthesized it perfectly. It's got clams, potatoes—"
+
+"It's an insult to the ocean, is what it is!" a five-year-old girl named Sarah chimed in, crossing her tiny arms in a scowl. "We want the clear stuff! The Rhode Island clear! And don't try tellin' us to just drive over the bridge to get it, because traffic is backed up all the way past the toll booths today! Absolute nightmare."
+
+Jack bit the inside of his cheek to stop himself from laughing. There was no bridge. There were no toll booths. But Cohort 3’s cultural matrix was so deeply ingrained that the kids actively complained about phantom traffic jams on Aquidneck Island while staring at a pristine, untouched alien forest.
+
+"Okay, okay," Jack surrendered, holding his hands up in defeat. "Stand down. I will go into the kitchen and manually override Aria’s synthesizer matrix. I will program in the exact recipe for Rhode Island Clear Chowder."
+
+"Good!" Thomas nodded firmly, hopping down from the table. "And when you're done, we're headin' down to Forty Steps to look at the water. Tell Lucas to meet us there. Tell him to turn left where Almacs used to be, he can't miss it."
+
+"I'll pass the word along," Jack promised, finally letting a warm smile break across his face as the five-year-olds scattered back to the playground, grumbling about "tourists."
+
+Sitting at the very next table, thirteen-year-old Willow let out a bright, ringing laugh.
+
+She had grown into a vibrant, athletic teenager, her dark hair pulled back into a messy, practical braid. She was wearing canvas pants and a worn flannel shirt, sitting with one knee pulled to her chest. She was Jack’s absolute shadow. Where the twenty-one-year-old diplomat went, the thirteen-year-old pioneer followed. They were entirely, effortlessly synced.
+
+"They are absolutely mental, those ones," Willow grinned, her thick Sydney accent dancing through the pavilion as she bumped her shoulder affectionately against Jack’s arm. "Phantom traffic jams? Almacs? Half the time I reckon they're speakin' a different language entirely."
+
+"They just know what they want, wild sparrow," Jack chuckled, leaning down to bump his shoulder back against hers, a familiar, deeply comforting gesture they had shared since she was a toddler. He reached over and ruffled her hair. "And they take their soup very seriously. I better go fix the synthesizers before they stage a riot."
+
+"I'll come help," Willow said instantly, hopping off the bench. "I know how to punch in the broth settings."
+
+Before they could take a step toward the kitchen, the heavy, tactical comm-cuff strapped to Jack's left wrist emitted a sharp, three-tone trill.
+
+Jack stopped, his smile fading slightly. That wasn't a standard village comm. That was the secure, encrypted channel directly from the mountain.
+
+He tapped the receiver. "Jack here. Go ahead."
+
+*"Jack, it's Ellie."* His twenty-five-year-old sister’s voice wasn't just commanding; it was tense. As the Commander of the Vanguard, Ellie Colton rarely sounded surprised. Right now, she sounded completely thrown off balance.
+
+"What's wrong, El?" Jack asked, his posture straightening into his diplomatic stance. "Did an Earth Remnant shuttle miss its approach vector at Anchor?"
+
+*"Negative,"* Ellie's voice crackled. *"It's not the Earth Remnant. Jack... a ship just breached the outer perimeter of the system. It bypassed the standard Coalition hailing frequencies entirely and made a hard, uncontrolled burn straight for the Lunar Embassy. It practically crashed onto Pad 4."*
+
+Jack frowned, exchanging a worried look with Willow. "Who is it? Did Ambassador Vance send an emergency envoy?"
+
+*"Vance is just as confused as we are,"* Ellie reported. *"The ship isn't a Coalition vessel. It’s an unregistered, heavily damaged civilian runner from the Outer Rim. The Embassy guards just pulled a single survivor out of the wreckage. A woman. She's claiming refugee status, Jack. She's begging for asylum."*
+
+Jack’s empathetic heart instantly engaged. "Is she hurt?"
+
+*"Aria's medical scanners say she's malnourished and bruised, but stable,"* Ellie replied, her tactical skepticism bleeding through the speaker. *"Dad and I are heading up to Anchor now to assess the security threat. We need you up there immediately to handle the diplomatic contact. The Earth Remnant doesn't know what to do with her since she isn't one of theirs."*
+
+"I'm on my way to the hangar," Jack confirmed without hesitation. "Have the runabout primed. I'll be in the air in ten minutes."
+
+He cut the connection. He looked down at Willow. Her dark eyes were wide with a mixture of curiosity and sudden concern. In thirteen years, not a single unauthorized person had ever made it this far into the Eden system.
+
+"A refugee?" Willow asked quietly.
+
+"Sounds like it," Jack said, his mind already shifting into gear, calculating how to offer humanitarian aid without compromising his father's iron-clad planetary shield. He looked at Willow, giving her arm a gentle, reassuring squeeze. "I've gotta go up to the moon, Willow. Can you handle the chowder crisis while I'm gone?"
+
+"Yeah," Willow nodded, stepping close to wrap her arms around his waist for a quick, fierce hug. "I'll make sure the kids get their clear soup. You just be careful up there, Jack-Jack. Sounds dodgy."
+
+"I will," Jack promised, hugging her back securely. "I'll see you for dinner."
+
+Jack turned and broke into a jog toward the mountain access lift, his diplomatic instincts completely overriding his caution. He was rushing off to Anchor to offer a lifeline to a desperate survivor, completely unaware that he was about to invite the most toxic, devastating threat Planet Eden had ever faced right into his own heart.
+

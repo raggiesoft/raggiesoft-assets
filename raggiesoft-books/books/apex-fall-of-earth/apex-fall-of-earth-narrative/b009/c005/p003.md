@@ -1,0 +1,72 @@
+# Part 3: The Shenandoah Curve – Thursday, June 25, 2071 – 10:45 (Local Eden Time)
+
+With the tactical perimeter of the village officially secure and the hostile variable named Sloane successfully extracted from the system, Leo Colton shifted his visual focus on the massive holographic table.
+
+He didn't look at the map of the valley. He swiped his heavy, spastic hand across the glass, pulling up a deeply complex, three-dimensional geometric curve.
+
+To Leo, the survival of the human race wasn't an abstract philosophical concept. It was a mathematical equation. He stared at the glowing blue line representing the population density of Planet Eden.
+
+He counted the nodes. The original ten from Sydney. The twenty from London. The fifty from Newport, Rhode Island. The last decanting sequence had been initiated in August of 2066.
+
+Leo’s internal chronometer ran the calculation instantly. It had been exactly fifty-eight months since the automated artificial wombs on Sub-Level 6 had been utilized. The mountain's medical wing was sitting idle. The demographic curve on the holotable was flatlining, creating a glaring, inefficient plateau in the colony's growth matrix.
+
+It was time to escalate the curve.
+
+Leo let out a sharp, vibrating grunt, tapping the side of his lap tray to get his sisters' attention.
+
+Ellie, standing to his left, immediately turned her dark, calculating eyes toward the hologram. Nora, leaning her weight against his right wheel, shifted her gaze to the screen, her arm remaining securely draped over his broad shoulder.
+
+With precise, deliberate strikes of his palm, Leo typed on his AAC tablet.
+
+"The demographic plateau is mathematically inefficient," Leo’s deep, synthesized baritone announced in the CIC. "The village infrastructure has successfully scaled. The agricultural yield is at a surplus. It is time for Cohort Four. I propose an exponential escalation. One hundred subjects."
+
+Ellie crossed her arms over her tactical vest. The twenty-five-year-old commander evaluated the logistics of her brother's request. A hundred new crying infants was a massive influx of chaos, but she knew the Newport cohort was already five years old. They didn't require constant supervision anymore. The village was ready for a new wave.
+
+"One hundred," Ellie confirmed, giving a single, sharp nod. "Acceptable. The perimeter can support a battalion of that size. Have we briefed the Administrators?"
+
+Nora tapped the sleek AAC device strapped to her forearm. *"Mom and Dad are down in the orchards. But they gave the Vanguard full executive authority over the decanting schedule last year. We can pull the trigger."*
+
+Leo hummed a steady, approving note. He turned his attention back to the holotable.
+
+"Aria," Leo typed, letting his tablet speak for him. "Isolate one hundred viable embryos. Fifty male, fifty female. And we require a new cultural matrix. The village is expanding its agricultural footprint. We need a phonetic and cultural baseline suited for rural, agrarian terrain."
+
+"Processing request, Overseer," Aria’s neutral-American diagnostic voice chimed from the ceiling array. "I am filtering the Earth cultural archives for historically agrarian populations. I have isolated a highly compatible phonetic matrix from the North American eastern seaboard. Specifically, the deep rural pockets of the Shenandoah Valley."
+
+Aria projected a secondary hologram on the table—a topographical map of rolling, ancient mountains and deep, fertile valleys.
+
+"The linguistic data is specifically sourced from the civilian populations living along a two-lane transport corridor historically known as US-340," Aria explained, highlighting a winding path through the simulated mountains, "and the secondary, deeply isolated rural routes numbered 600 and above. It is a culture defined by dense forestry, rolling farmlands, and tight-knit, generational villages."
+
+Leo stared at the topographical map. The geometry of the Shenandoah Valley—the winding rivers flanked by protective mountain ridges—mirrored the geography of Genesis Village almost perfectly. It was a flawless ecological match.
+
+But Leo’s nervous system required an auditory test. The Cockney cohort's sharp, rapid-fire syllables occasionally spiked his heart rate if they shouted too loudly. He needed to know the frequency of this new demographic.
+
+"Execute a localized audio sample of the Shenandoah matrix," Leo commanded through his tablet.
+
+"Engaging vocal override," Aria confirmed.
+
+The CIC fell silent for a microsecond. When the AI spoke again, the crisp, neutral diagnostic tone was completely gone.
+
+"Well, hey there," Aria’s new voice echoed through the room. It was warm, incredibly smooth, and completely unhurried. The vowels were soft and drawn out, carrying a gentle, melodic Appalachian drawl that sounded like sunlight filtering through a canopy of thick leaves. "It's mighty fine to meet y'all. I reckon we've got a whole lot of work to do in the dirt today, so we'd best get to it."
+
+Leo closed his eyes, his scissored legs relaxing instantly against his footboards.
+
+The auditory frequency was magnificent. It wasn't sharp or piercing. It operated on a soothing, rolling sine wave. It sounded polite, grounded, and deeply tied to the earth.
+
+Nora let out a breathy, happy sigh, her empathetic heart immediately melting at the sheer warmth of the accent. She squeezed Leo's shoulder.
+
+"It sounds like a warm blanket," Nora's AAC chimed perfectly. "They are going to be wonderful farmers."
+
+Ellie uncrossed her arms. She appreciated the lack of hostility in the cadence. "The frequency is stable. It will not disrupt the core's sensory baseline. Shenandoah matrix is authorized."
+
+Leo opened his eyes. He looked at his sisters, feeling the unshakeable, crushing physical armor of their presence. They were the Vanguard. They were the gods on the mountain, and they were ready to populate their world.
+
+Leo raised his heavy, shaking hand, forcing it down onto the glowing glass of the holotable. He pressed the primary biometric execution rune.
+
+"Aria," Leo typed on his lap tray, his digital voice booming with the absolute authority of the Overseer. "Initiate the decanting sequence for the Appalachian Hundred. Wake them up."
+
+"Yes, sir," Aria replied, perfectly maintaining the warm, Southern drawl. "I'll get the incubators warmed right up for 'em."
+
+Deep within the bedrock of the mountain, on Sub-Level 6, the massive, automated robotic armatures whirred to life in the freezing dark. One hundred perfect, genetically flawless cryogenic pods were seamlessly extracted from the ice and moved into the warm, glowing amber fluid of the artificial wombs.
+
+The Shenandoah Valley was gone, burned to ash decades ago, but its ghost was about to take a very deep breath on Planet Eden.
+

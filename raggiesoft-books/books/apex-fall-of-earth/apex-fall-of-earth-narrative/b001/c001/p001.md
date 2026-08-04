@@ -1,0 +1,30 @@
+# Part 1: The Deep End – Mid-October 2044 (Days prior to arrival)  
+
+The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months.
+
+He stepped out of the decompression chamber, peeling the heavy, salt-stained thermal layers of his deep-sea welding suit off his broad shoulders. The air in the locker room tasted heavily of rust, artificial pine solvent, and the crushing, damp claustrophobia of the frontier water-world.
+
+He tossed the heavy welding helmet into his locker with a dull, metallic clatter. He was twenty-three years old, but the crushing depths of the oceanic rigs and the toxic, ozone-heavy air of the off-world refineries had carved an older, permanently hardened look into his face. Standing at six-foot-one, his heavy, scarred hands easily popped the final seals on his gear.
+
+He was done. The six-month rotation was over.
+
+Wyatt wiped the grime from his face and pulled his battered, cracked datapad from the top shelf of the locker. A single, blinking notification waited on the screen: an active employment contract from Apex Defense Solutions.
+
+The digital brochure attached to the file was predictably aggressive, boasting about massive hazard premiums and guaranteed off-world housing. They were recruiting for the Nevada Test and Training Range on Earth. The job title was listed as Subcontracted Hazard Operations Personnel—a S.H.O.P. Marine.
+
+Wyatt let out a low, cynical breath. He knew exactly what it was. A glorified, minimum-wage security guard hired to stand in front of doors and hold a flashlight. The "Marine" title was nothing more than a predatory corporate hook designed to pull in desperate labor from economically dead sectors.
+
+Apex didn't want soldiers; they wanted expendable assets.
+
+But Wyatt did the corporate math in his head, just like he always did. The local economy on this water-world had completely dried up, and the Apex hazard pay was nearly double what the rig foreman was offering for a contract extension. He didn't have a family to go back to, no wife waiting at home, and no roots keeping him anchored to this rusted platform.
+
+The corporate logos changed, but the hellholes were always the same.
+
+Without a second thought, Wyatt pressed his thumb against the biometric scanner on the datapad, signing his life away to Apex Defense Solutions for the next eighteen months.
+
+He pulled on a pair of heavy, stained cargo pants and a drab, short-sleeved utility shirt—the standard, industrial-gray civilian clothes that barely fit his heavily muscled frame. It would all be replaced soon enough by Apex's rigid, militarized armor. He shoved his few personal belongings into a cheap canvas duffel bag and zipped it shut.
+
+He didn't look back at the locker, and he didn't say goodbye to the rest of the exhausted shift workers filing into the room. He just slung the heavy canvas bag over his shoulder and headed down the long, vibrating steel corridor toward the embarkation platform.
+
+It was time to go wait for the FIPS transport. It was time to go to Earth.
+

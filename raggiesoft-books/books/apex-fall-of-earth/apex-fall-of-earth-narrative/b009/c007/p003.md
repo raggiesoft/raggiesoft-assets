@@ -1,0 +1,78 @@
+# Part 3: The 16-Bit Horizon – Sunday, June 28, 2071 – 09:00 (Local Eden Time)
+
+Breaking camp was an exercise in flawless, practiced geometry.
+
+Sitting in his titanium powerchair on the edge of the lake, Leo watched the deconstruction of their basecamp with deep satisfaction. The massive expedition tent didn't collapse into chaos; it folded. Tyler and Evan dismantled the carbon-fiber skeleton, moving in perfect symmetry, while Molly and Claire mathematically rolled the heavy canvas into impossibly tight, compressed cylinders.
+
+By 09:00, the fifty-by-fifty hexagonal polymer floor grid had been disassembled, stacked, and securely loaded into the cargo holds of the two silver runabouts, leaving absolutely zero trace that humanity had ever touched the shoreline.
+
+Leo’s powerchair was locked into the primary magnetic transport clamps in the back of the lead runabout.
+
+Jack was in the pilot's seat, running through the pre-flight telemetry. Willow was strapped into the co-pilot's chair, vibrating with excitement. Ellie and Nora were secured in the seats directly flanking Leo, ensuring his spatial perimeter remained completely intact for the flight.
+
+"Alright, Commander," Jack called back over his shoulder, his hands resting on the sleek digital yoke. "The second runabout confirms their cargo is secure. Where are we jumping to today?"
+
+Ellie tapped her datapad. "We have cleared the eastern alpine parameters. I want to establish a perimeter on the western continental shelf. Specifically, the primary ocean."
+
+"The beach," Jack grinned, his melodic voice lifting. "Copy that. Taking us up."
+
+The runabout’s repulsorlifts engaged with a smooth, frictionless hum. They lifted off the dirt, ascending rapidly through the dense alien pine canopy until they broke the tree line, banking westward into the brilliant blue sky.
+
+Jack reached over to the central console. He didn't pull up a tactical readout. Instead, he connected his personal datapad to the runabout’s internal acoustic drivers.
+
+"Dad digitized a bunch of the old 16-bit audio files from his archives for the trip," Jack smiled, tapping the screen. "He said this was the perfect driving music for terraforming a planet."
+
+A highly rhythmic, synthesized 16-bit electronic track flooded the cabin. It possessed a driving, optimistic bassline layered with atmospheric, sweeping chiptune melodies. It was purely analog, lacking the massive orchestral weight of modern music, but it resonated with an incredible, undeniable sense of discovery and forward momentum.
+
+Leo closed his eyes. Through his acoustic-dampening plugs, the 16-bit track was a masterpiece of organized, predictable frequencies. The electronic beats were perfectly spaced, mathematically precise, and entirely devoid of chaotic biological vocals.
+
+He let out a low, steady purr, tapping his fingers against his lap tray in perfect time with the synthesized drums.
+
+Nora leaned over, resting her head against his shoulder with a soft smile, entirely at peace as the silver shuttle tore across the sky.
+
+For two hours, they flew over the breathtaking expanse of Planet Eden. They crossed sprawling, emerald savannahs, soared over deep, red-rock canyons, and banked through the clouds. Finally, the vast, unbroken green of the continent gave way to a brilliant, sparkling expanse of deep sapphire blue.
+
+The Western Ocean.
+
+It stretched out to the absolute curvature of the planet, massive and untamed. The runabouts descended, gliding over towering coastal cliffs until Jack found a sprawling, pristine crescent of white-sand beach.
+
+The shuttles set down softly, their repulsorlifts kicking up massive clouds of fine, pale sand.
+
+"We're down," Jack announced, popping the gull-wing doors.
+
+The smell of the ocean rushed into the cabin—sharp, incredibly salty, and thick with moisture. It was a massive sensory shift.
+
+Leo’s scissored legs tensed slightly against the footboards. Sand was a deeply unpredictable variable. It shifted. It sank. It ruined the traction of standard wheels.
+
+But his family hadn't brought the Daily Driver, and they hadn't brought the Off-Roader.
+
+Tyler and Evan dropped the rear cargo ramp. They moved with practiced efficiency, disengaging Leo's standard powerchair base. With a heavy, hydraulic *clank*, they hoisted Leo's custom-molded memory-foam racing seat—with him still securely strapped inside it—and transferred it directly onto the chassis of Transport Three: The Amphibious Rover.
+
+The transition was seamless.
+
+Leo looked down. Beneath him were four massive, gray, low-pressure balloon cylinders instead of standard tires.
+
+"Rover is locked, Overseer," Tyler grinned, patting the non-corrosive alloy frame.
+
+Ellie stepped off the ramp, her boots hitting the sand. She didn't sink. "Perimeter is secure. Deploy the asset."
+
+Nora walked down the ramp, leaving her titanium forearm crutches securely stowed in the runabout. The soft, deep sand was too unpredictable for the narrow tips of her crutches. Instead, she walked directly to the rear of the Amphibious Rover, gripping the padded push-bar and leaning her weight entirely against her brother's heavy vehicle.
+
+Leo reached down to his modified joystick. He pushed it forward.
+
+The massive balloon tires engaged. They didn't dig into the sand; they floated perfectly on top of it. The ride was incredibly smooth, the wide displacement of the tires perfectly absorbing the uneven, granular surface.
+
+Leo rolled effortlessly down the ramp and out onto the pristine white beach, Nora walking securely behind him, entirely stabilized by the heavy rover.
+
+Thirteen-year-old Willow sprinted past them. Though she had been decanted in the mountain and had never actually seen her genetic homeland of Sydney, Australia, her biological code seemed to instantly recognize the environment.
+
+"It's an ocean, Jack!" Willow shrieked, kicking off her boots and running straight toward the crashing, sapphire waves. "Look at the size of it!"
+
+Leo drove the rover closer to the water's edge. He stopped just as the wet, packed sand met the foaming tide.
+
+The auditory frequency of the ocean was immense. The rhythmic, crashing roar of the waves was a continuous, heavy baseline that vibrated right through the balloon tires and into his frame. Muffled by his acoustic plugs, the ocean didn't sound chaotic; it sounded like the breathing of the planet itself.
+
+He reached a heavy hand down to his MagnaPad.
+
+"The traction is optimal. The acoustic frequency is acceptable," Leo's digital voice announced over the sound of the surf. He looked out at the infinite blue horizon, perfectly anchored by the heavy weight of Nora leaning against his chair. "This is a mathematically sound location for the basecamp."
+

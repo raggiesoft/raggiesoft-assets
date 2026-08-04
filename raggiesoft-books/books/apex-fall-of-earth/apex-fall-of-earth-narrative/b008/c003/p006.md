@@ -1,0 +1,76 @@
+# Part 6: The Nursery Logistics – Friday, August 2, 2058 – 14:00 (Local Eden Time)
+
+The Aegis deflector shield could effortlessly absorb an orbital plasma bombardment, but it was completely useless against the synchronized, ear-splitting demands of ten hungry infants.
+
+It had been exactly two weeks since Arrival Day. To accommodate the massive influx of life, Wyatt had completely knocked down the walls between three adjacent guest suites in the residential wing, expanding the Colton nursery into a sprawling, open-plan neonatal barracks.
+
+It was absolute, beautiful, deafening chaos.
+
+Wyatt Colton, the heavily scarred former S.H.O.P. Marine and absolute ruler of Planet Eden, was currently standing in the center of the room with a clean burp cloth thrown over his broad shoulder, holding a squalling Lucas in his left arm and a fussing Oliver in his right. He had dark circles under his eyes, moving with the heavy, methodical exhaustion of a man fighting a war of pure attrition.
+
+"Bottles!" Wyatt called out over the din, swaying back and forth to keep the two boys from redlining into a full meltdown.
+
+*"Bottles are warmed to exactly thirty-seven degrees, mate,"* Aria’s bright, energetic Sydney accent chimed from the ceiling array. *"I've got the synthesisers pumping out batch number four right now. Keep your hair on, we're almost there!"*
+
+"Deploying rations!" a crisp, authoritative voice barked.
+
+Twelve-year-old Ellie Grace Colton marched across the room. She had fully embraced her role as the Commanding Officer of the expanded civilization. She wasn't carrying bottles herself; she was managing the supply lines.
+
+"Enforcers!" Ellie commanded, snapping her fingers and pointing to the doorway. "Move the payload to Sector B!"
+
+Marching into the nursery were five-year-old identical twins, Tyler and Evan. The heavyweights of the Colton family were absolutely thriving under Ellie's command. Moving with terrifyingly dense, synchronized strength, Tyler was carrying a massive, molecularly printed crate of fresh micro-diapers, while Evan carried a heavy tray loaded with ten freshly synthesized, perfectly warmed bottles of fortified formula.
+
+"Payload secure, Commander," Tyler reported in his deep voice, dropping the heavy crate of diapers precisely at the changing station.
+
+"Rations delivered," Evan confirmed, setting the bottles on the stone counter next to Sarah.
+
+Sarah let out a breathless, exhausted laugh, grabbing two bottles and immediately passing them to Wyatt before picking up little Isla from a nearby bassinet. "Thank you, boys. You're lifesavers. Ellie, check on Harrison and Ethan, please."
+
+"Copy that," Ellie nodded, marching over to ensure the perimeter of the far bassinets was secure.
+
+While the heavy logistics of feeding and changing were handled on the west side of the room, a completely different operational dynamic was unfolding in the quiet, sunlit corner by the massive hydro-glass windows.
+
+Wyatt had molecularly printed a massive, plush floor mat to serve as a safe, localized play zone.
+
+Sitting cross-legged in the center of the mat was eight-year-old Jack. Flanking him on either side were his six-year-old sisters, Molly and Claire. The three of them formed a tight, inseparable quad that naturally gravitated away from the heavy, tactical energy of the older Vanguard.
+
+And lying right in the center of their circle, resting on a soft blanket, was baby Willow Jane Campbell.
+
+She was the only member of the Genesis Ten who absolutely refused to stay in the standard bassinets. Whenever Wyatt or Sarah tried to put her down with the other nine babies, Willow would immediately fuss, her tiny face turning red as she demanded an extraction.
+
+But the moment she was placed on the floor mat with Jack, the crying stopped instantly.
+
+"Look, Molly," Jack whispered, his diplomatic, melodic voice keeping a perfect, soothing volume. He was holding a small, wooden gear Wyatt had milled, slowly turning it so Willow could track the movement. "She's watching it."
+
+"She has very dark eyes," Molly observed with sharp, articulate intelligence, leaning in closer. "She is highly observant."
+
+"She likes you, Jack," Claire added, resting her chin on her hands as she watched the infant.
+
+It was an undeniable fact. Willow’s tiny head turned, completely ignoring the wooden gear, her dark eyes locking entirely onto Jack's face. She let out a soft, happy coo, her tiny arms breaking free from her swaddle to reach blindly into the air toward him.
+
+Jack smiled, that incredibly gentle, entirely empathetic expression that defined his nature. He leaned forward and offered her his right index finger.
+
+Willow’s tiny hand instantly clamped around it. Her grip was iron-clad. She let out a long, contented sigh, her tense little muscles completely melting against the floor mat. She didn't want the sterile safety of a plastic bassinet; she wanted the absolute, unwavering physical presence of the boy who had welcomed her to the planet.
+
+In her infant brain, the chaotic noise of the nursery and the terrifying vastness of the new world were entirely mitigated by the steady, quiet peace that radiated from Jack. She had officially claimed him as her protector.
+
+Sarah walked over, gently burping little Mia against her shoulder. She stopped at the edge of the mat, her heart swelling as she looked down at the four of them.
+
+"She really won't let you go, will she?" Sarah smiled, looking at Willow's tiny hand firmly gripping Jack's finger.
+
+"She's safe here, Mom," Jack answered seriously, looking up. He didn't seem burdened by the infant's absolute reliance on him. He seemed profoundly honored by it. "Molly and Claire and I are going to watch her. We're her unit."
+
+Molly and Claire both nodded in unison, moving slightly closer to Willow to complete the protective circle.
+
+Sarah’s breath hitched slightly, a beautiful, bittersweet realization washing over her. She looked across the room, where Ellie was barking orders at Tyler and Evan while Nora and Leo watched quietly from the Chariot. The Vanguard was an unbreakable fortress, forged in the trauma of the NTTR.
+
+But right here on the floor mat, a brand new alliance had just been cemented. Jack, Molly, Claire, and Willow. They were attached at the hip. They were the second wave of Planet Eden's leadership—the diplomats, the scholars, and the unifiers.
+
+"Okay, Jack," Sarah whispered, her dark eyes shining with absolute trust. "She's in your unit. You take good care of her."
+
+"I will," Jack promised, looking back down at Willow.
+
+The infant girl blinked sleepily against the sunlight streaming through the hydro-glass, entirely safe, completely anchored, and perfectly content holding the hand of the boy who would one day become her entire world.
+
+
+

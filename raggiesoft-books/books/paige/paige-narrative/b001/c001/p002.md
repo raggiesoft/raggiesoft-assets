@@ -1,0 +1,26 @@
+# Part 2: Breakfast
+
+Downstairs, the kitchen was already a hub of controlled activity. A small CRT television sat on the counter, humming with the local news, the weather map a pixelated blur of yellow and orange indicating another humid Virginia Beach day.
+
+Jessica stood by the stove, flipping pancakes. She was sixteen, a Junior, and wearing her 'at-home' uniform: oversized t-shirt and athletic shorts. Even this early, she looked awake, her posture straight, her movements efficient. She was the Matriarch in training, the one who made sure the bills were sorted and the cereal bowls were full.
+
+"Eat," Jessica commanded gently as Freddie and Paige shuffled in. She slid two plates onto the table. "Carbohydrates. You're going to need them. It’s going to be ninety degrees out there."
+
+Freddie sat down, stabbing a pancake. He looked at Jessica, then at the empty space by the door where instruments usually sat.
+
+"Where's your clarinet case?" Freddie asked.
+
+Jessica poured orange juice into three glasses. "Upstairs."
+
+"But... we're going to band camp." Freddie frowned. The routine was broken. The logic didn't hold. "You're in the band."
+
+"Not until Wednesday," Jessica explained, her voice patient. She knew Freddie needed the schedule to make sense. "Monday and Tuesday are just for Percussion, Colorguard, and the Pit. Winds and Brass don't come in until Wednesday morning."
+
+Freddie paused, processing the data. "So... you're driving us there, but you're not staying?"
+
+"Exactly. I'm the taxi service today. I'll drop you off at eight and pick you up at five."
+
+It bothered him. It felt like walking into a battle without their general. Jessica was the wall between them and the world; she was the one who knew how to talk to adults, how to fill out forms, how to make people stop staring.
+
+"It'll be okay," Paige said, sensing the spike in his anxiety. She nudged his knee with hers under the table. "It's just us and the drummers. Less people. Less noise."
+

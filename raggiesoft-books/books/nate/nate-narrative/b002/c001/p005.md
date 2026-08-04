@@ -1,0 +1,40 @@
+# Part 5: The Drive Home (3:45 PM)
+
+The sedan hummed steadily along Interstate 264 Eastbound, putting miles between Nate and the nightmare at the Pathfinder terminal. As the green highway sign for Exit 18 loomed overhead, Evelyn engaged the turn signal, smoothly guiding the car down the off-ramp and banking right onto Rosemont Road.
+
+In the backseat, the adrenaline crash had fully taken hold of Nate. He was sobbing softly, the tears soaking into the fabric of Sarah’s jacket as he buried his face against her shoulder. Beneath the exhaustion, a profound wave of gratitude washed over him. The crushing isolation Valerie had subjected him to was shattered, replaced by the fierce, unyielding protection of his mother and sister.
+
+Evelyn glanced up into the rearview mirror. Her eyes softened as she watched Sarah holding her brother securely, acting as the physical anchor his dysregulated nervous system desperately required.
+
+"You did the right thing, Nate," Evelyn said gently, her voice carrying a maternal warmth over the low hum of the car's heater. "You did the exact right thing by calling home."
+
+"She's right," Sarah murmured, resting her cheek firmly against the top of his head. "You reached out. You didn't let her trap you. You did everything right."
+
+Nate nodded against her, his breathing slowly starting to even out as they navigated the familiar suburban sprawl. As the panic receded, the sheer, calculated cruelty of Valerie's final trap began to fully register.
+
+For years, the diagnosis he received at fourteen had felt like a heavy, unfair sentence. Azoospermia. He had grieved the fact that he would never be a father, deeply upset by a biological reality he couldn't control. But sitting in the backseat now, listening to the rhythm of the tires on the asphalt, that grief had completely vanished. It had been replaced by a profound, life-saving gratitude. It was the ultimate shield.
+
+He thought back to his physical relationship with Valerie. She had never once bothered with protection, nor had she ever asked him to wear any. She had been reckless, leaving the door wide open for the very trap she had tried to spring today. Nate had never insisted on it for pregnancy prevention, knowing secretly that his own "factory was shut down," but now the sheer manipulation of her lie made his stomach turn.
+
+"I used to hate my medical records," Nate mumbled against Sarah's jacket, his voice thick. "But when she screamed that she was pregnant... I've never been so grateful for it in my life. I knew she was lying."
+
+Evelyn nodded in the rearview mirror. "Truth is a powerful thing, Nate. It completely disarmed her."
+
+A new, lingering anxiety suddenly pierced through Nate's exhaustion. His mind jumped from the fake pregnancy to the reality of Valerie's recklessness. "Mom... Sarah..." he started, a slight tremor returning to his voice. "We got tested for STIs before we ever started doing anything. So I know I'm probably fine. But... she lied about literally everything else. Can I get tested again? Just in case?"
+
+Sarah tightened her arms around him, her response immediate and fiercely validating. "Absolutely. We can schedule it this week. It's smart to be safe. And I will sit right next to you the entire time they draw your blood. You won't have to do it alone."
+
+Nate let out a long, shuddering sigh, the tight knot of anxiety in his chest unspooling a little further. With the immediate threat neutralized and his health concerns validated, his mind drifted to the one place that represented absolute, impenetrable security. He wanted his bedroom. More specifically, he was looking forward to the bed he shared with Sarah. Valerie had made the dark terrifying, and she had made sleeping alone an absolute nightmare. He had desperately missed having his most trusted person in the world right there beside him, serving as a solid wall between him and the rest of the world.
+
+"I just want to go to sleep," Nate whispered, his voice hoarse from crying. "Can we... can we just sleep? Like we usually do?"
+
+"Of course," Sarah promised without a fraction of hesitation. "I will gladly let you climb right in. We can cuddle up and sleep for as long as you need. I'm not going anywhere."
+
+She rubbed his arm gently, feeling the lingering tension radiating through his muscles.
+
+"But first," Sarah added, her tone shifting to the gentle, careful cadence she used when helping him navigate his physical limitations, "when we get to the house, how about I help you with a bath? Only when you're ready, of course. But I think a hot bath might be exactly what you need to wash off the absolute mess that was Valerie."
+
+Nate closed his eyes as the car drew closer to their neighborhood. He thought about the warm water, the safety of his sister's help, and the undeniable finality of washing away the day.
+
+"Yeah," Nate agreed quietly. "I'd really like that."
+

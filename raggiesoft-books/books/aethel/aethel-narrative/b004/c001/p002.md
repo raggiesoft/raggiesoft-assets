@@ -1,0 +1,228 @@
+# Chapter 2: The Alarm Clock
+
+## Part 1: The Interest Rate
+
+Theme: sunstead-peace-disrupted
+
+Location: The Cottage Garden
+
+POV: Kaela
+
+=
+
+The potatoes were coming in nicely.
+
+Kaelan knelt in the rich, red soil of the garden, his hands caked in dirt. The stone wall he had finished yesterday stood solid and grey against the morning suns, a fortress protecting the mint.
+
+It was a quiet Tuesday. Horg was hammering a plowshare down in the valley—a rhythmic *clang-clang* that was the heartbeat of the town.
+
+Kaela was sitting on the new stone bench Kaelan had built into the corner of the wall. She was shelling peas, the pods popping with a crisp snap.
+
+Kaelan pulled a potato from the earth. It was lumpy and brown. It was perfect.
+
+He wiped his hands on his trousers and sat back on his heels. He looked at her.
+
+"You missed a spot," he said, pointing to a pea pod that had fallen into the grass.
+
+"I'm saving it for the ants," Kaela replied without looking up. "They have quotas too."
+
+Kaelan laughed. He stood up, dusting off his knees. He walked over to the bench.
+
+He didn't sit down. He stood behind her, wrapping his dirty arms around her shoulders, resting his chin on top of her head.
+
+Kaela leaned back into him instantly, dropping the peas to rest her hands over his forearms.
+
+"You're getting dirt on my dress," she murmured, but she squeezed his arm.
+
+"It's clean dirt," Kaelan said. "It's our dirt."
+
+He tightened the hug, rocking her slightly. The hum of the Circuit—that golden, warm connection between their minds—flared with contentment.
+
+"You know," Kaelan whispered into her hair, "I was doing the math this morning. By my calculations, with the current interest rate of 'Forever,' I think I'm going to be paying this hug debt until the suns burn out."
+
+"Longer," Kaela corrected softly. "You forgot the compound interest from the winter of '16."
+
+"Right. The winter." He pressed a kiss to her temple. "So, eternity then? Is that the term?"
+
+"Eternity seems fair," she agreed.
+
+"Good," Kaelan said, his voice dropping to a rumble in his chest. "Because I'm never paying it off. I'm just going to keep defaulting on the loan so I have to keep holding you."
+
+"I accept your terms, Sun."
+
+They stayed there for a moment, suspended in the amber light of the morning. It was perfect.
+
+Then, the world stopped.
+
+It wasn't a sound. The birds were still singing. Horg was still hammering.
+
+It was a vibration.
+
+It started deep—so deep it felt like it was coming from the other side of the planet. It traveled up through the bedrock, through the red dust, and into the soles of Kaelan’s boots.
+
+*Thrummmmmmm.*
+
+It felt like a massive, subterranean generator cycling up.
+
+Kaelan froze. He pulled back slightly, his hand going to the stone wall to steady himself.
+
+"Kaela," he said. His voice was low, but it cut through the morning air.
+
+"I feel it," she said. She stood up, the bowl of peas sliding forgotten to the grass.
+
+She looked at her tea mug sitting on the bench. The liquid inside was rippling in perfect concentric circles.
+
+"Is it an earthquake?" Kaela asked, grabbing his arm. "The tectonic plate?"
+
+"No," Kaelan said. He closed his eyes. He engaged the Engine, pushing his senses down into the earth, past the crust, past the mantle.
+
+He felt the iron.
+
+He felt the massive, liquid metal ocean at the center of the world churning. It wasn't shifting naturally. It was spinning. It was aligning.
+
+And it felt... familiar.
+
+"It's not a quake," Kaelan whispered, his face draining of color. "It's a startup sequence."
+
+Suddenly, the air in the garden changed. The hair on Kaelan’s arms stood up.
+
+The iron shovel leaning against the stone fence rattled. Then, it lifted.
+
+It floated three inches off the ground, suspended by an invisible magnetic grip.
+
+"Kaelan," Kaela said, pointing to the porch.
+
+The iron nails in the timber beams were groaning. The cast-iron pot by the door was sliding across the floorboards, pulled North.
+
+"Gravity?" Kaela asked.
+
+"Magnetism," Kaelan corrected. He stood up, wiping the dirt from his hands. "Massive, planetary-scale magnetism."
+
+He looked at his own hands. The blood in his veins—rich with iron—tugged slightly, pulling him.
+
+"Why?" Kaela asked. "Why now?"
+
+Kaelan looked at the sky. He looked at the suns he had forged. He remembered a conversation from a billion years ago, in a library made of light.
+
+*“I put a little extra iron in the core. Just in case.”*
+
+"In case of what?" Kaela asked, reading his mind through the Circuit.
+
+"I don't know," Kaelan admitted, terrified. "I don't remember setting the alarm. But I definitely just heard it go off."
+
+The hum grew louder.
+
+And then, for the first time in history, the compasses in Sunstead didn't point North.
+
+They pointed Down.
+
+## Part 2: The Shadow of the Zenith
+
+Theme: cosmic-dread
+
+Location: The Void Beyond the Stars
+
+POV: The Dark Master (The Unseen)
+
+=
+
+Far beyond the warmth of the Twin Suns, in the space between galaxies where light dared not tread, a Presence stirred.
+
+It did not have a body. It did not have a throne. Malakor had built a tower of stone to mimic it; Seraphina had sought to birth a body to house it.
+
+They were small minds. They thought in terms of matter.
+
+The Master was not matter. It was the Null. It was the static at the end of the radio signal.
+
+It had been waiting.
+
+For eons, the Earth had been silent—a shielded experiment hidden in the arm of the Milky Way. The "Extra Iron" Solas had placed in the core acted as a dampener, a magnetic Faraday cage that hid the Scions' light from the deep dark.
+
+But now, the cage was vibrating. The core was spinning up.
+
+The shield was dropping to become a weapon.
+
+The Unseen focused its attention. It didn't see with eyes. It saw with gravity.
+
+It felt the pulse of the binary star system. It felt the awakening of the Iron Heart.
+
+"Found you," the Void whispered across the light-years.
+
+It didn't send an army. It didn't send a fleet.
+
+It sent a Signal.
+
+A single, discordant frequency—an "Anti-Song"—aimed directly at the vibrating core of the blue planet.
+
+Malakor had wanted to rule the world. Seraphina had wanted to eat the stars.
+
+The Unseen simply wanted to turn the page. And Earth was a typo it intended to erase.
+
+## Part 3: The Gathering of Iron
+
+Theme: sunstead-action
+
+Location: Horg’s Smithy
+
+POV: Kaela
+
+=
+
+"My hammers are floating!" Horg bellowed, trying to grab a sledgehammer that was drifting lazily toward the ceiling.
+
+The smithy was in chaos. Every iron tool—tongs, nails, horseshoes—was suspended in the air, vibrating with the low hum that was shaking the whole town.
+
+Clinker, the massive iron-bristle beast in the pen out back, was howling—a sound like grinding gears—as the metal quills on his back stood straight up, magnetized.
+
+"It's the core!" Kaelan shouted, running into the shop. He grabbed a floating anvil by the horn and hauled it down, slamming it onto its stump. "Horg! Get everyone outside! Away from the metal!"
+
+"What did you do, lad?" Horg yelled, wrestling a cloud of nails. "Did you break the sky again?"
+
+"I think I broke the floor this time!" Kaelan admitted.
+
+Kaela stood in the doorway. She wasn't looking at the floating tools. She was looking at the horizon.
+
+The sky to the North—over the Voidlands—was changing.
+
+The Auroras were back. But they weren't the gentle green and violet curtains of the past.
+
+They were red. Deep, blood-red ribbons of magnetic fire tearing through the atmosphere.
+
+"Kaelan," Kaela projected, her mind sharp and urgent. "Look North."
+
+Kaelan dropped the anvil. He stepped out.
+
+He saw the red sky. He felt the pull in his blood.
+
+"The core isn't just spinning," Kaelan realized. "It's projecting. It's opening a door."
+
+"Where?"
+
+"Underground," Kaelan said. "Deep. The Magnetic North just moved. It's not at the pole anymore."
+
+He pointed to the center of the Voidlands, right where Malakor’s tower used to stand.
+
+"It's there. The crater. It's an intake valve."
+
+"An intake for what?" Horg asked, stumbling out of the shop, watching his hammers drift out the window.
+
+"For us," Kaela whispered.
+
+She looked at her brother. She saw the fear in his eyes—not fear of a monster, but fear of his own creation.
+
+"The core is calling us home, Kaelan. We have to go down there. We have to answer the phone before..."
+
+"...before the thing on the other end hangs up," Kaelan finished grimly.
+
+He looked at his peaceful town, now rattling with magnetic tremors. He looked at the slate roof he had just finished.
+
+"So much for the garden," Kaelan sighed.
+
+He reached for his sword. It floated into his hand before he could grab it.
+
+"We need the boat," Kaelan said. "But we aren't sailing on water this time."
+
+"Magma?" Kaela asked.
+
+"Magma," Kaelan confirmed. "We're going to the center of the Earth."
+

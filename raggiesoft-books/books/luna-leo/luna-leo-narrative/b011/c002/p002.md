@@ -1,0 +1,28 @@
+# Part 2: A Gentle Waking
+
+The house was quiet, save for the low hum of the refrigerator and the distant murmur of a morning news program. The frantic energy of the 4:00 AM alarm was a distant memory. In Stella's room, a fragile, hard-won peace reigned.
+
+It was 8:47 AM when Leo’s eyes finally fluttered open. He woke slowly, not with a jolt of terror, but with a gradual awareness of his surroundings. He was warm. He was comfortable. And he was not alone. The weight of a protective arm was still draped over him, the steady, rhythmic breathing of the person beside him a profound comfort. He turned his head slightly. It was Olivia, still fast asleep, her own exhaustion from the cross-country rescue mission absolute.
+
+The last thing he remembered was the profound relief of knowing she was staying, the feeling of her embrace as he finally succumbed to a sleep so deep it was almost bottomless.
+
+Stella and Luna had been up for hours, moving quietly through the house, but they had maintained a constant, loving vigil. If Olivia, in her own exhausted sleep, shifted away, or if she had to get up for a drink of water, one of the sisters would instantly and silently slip into the room, taking her place beside Leo on the bed. They had made a silent pact: he would not wake up alone. Not today. Not ever again if they could help it.
+
+As Leo's mind came fully online, a more urgent, physical need made itself known. After a full night and the stress of the previous day, he desperately needed the restroom. He gently, carefully, tried to shift his weight, not wanting to wake Olivia.
+
+The slight movement was enough. Her eyes opened instantly, a brief flicker of disorientation replaced by a warm, protective focus. "Hey," she whispered, her voice husky with sleep. "You're awake. You okay?"
+
+He gave a small nod, but his expression was one of clear, urgent need. He looked towards the door, then back at her.
+
+"Bathroom?" she guessed correctly.
+
+He nodded again, more emphatically this time.
+
+Just then, Luna appeared in the doorway, a mug of coffee in her hand. She had heard the quiet stirring. "Morning, sleepyheads," she whispered, her smile soft and full of relief. She saw the look on Leo's face. "Uh oh. Looks like an emergency."
+
+"I've got him," Luna said, setting her mug down and immediately moving to help. Olivia, still heavy with sleep, carefully untangled herself, allowing Luna to take over the familiar, practiced routine of helping Leo to the accessible bathroom.
+
+While Luna was assisting her brother, Stella, who had been on the phone in the other room, came into the kitchen. "Okay, that was Grandpa," she announced quietly to Olivia. "They've been on standby. I told them you two were finally awake and that they should come on over. They're going to pick up some donuts and bagels on the way. Breakfast is officially on."
+
+The plan for the day was finally, gently, beginning. It wasn't the frantic, deal-hunting rush they had anticipated, but something far better: a slow, quiet, and restorative morning, surrounded by the full, protective circle of their family.
+

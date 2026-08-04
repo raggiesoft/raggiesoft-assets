@@ -1,0 +1,38 @@
+# Part 3: Character Moments and Interactions (Summer 2000)
+
+As the afternoon wore on, the reunion settled into a warm, humming rhythm. James and Emily Miller, having been thoroughly welcomed, found themselves in an easy conversation with Geneviève and other relatives, their efforts to speak French met with smiles and genuine appreciation. They were no longer just guests; they were part of the fabric of the party.
+
+Chloé, meanwhile, was catching up with her cousins. Isabelle, no longer shy, was full of questions about life in Virginia. "Is it true you don't get any real snow? What are the boys like? Is your high school huge?"
+
+Mathieu, her older brother, just grinned. "Don't listen to her, Chloé. She just wants to know if you've met any famous movie stars." He then turned his attention to Alex, who was quietly observing the lively scene from his wheelchair. "Hey, Alex," he said, switching to English for clarity. "Chloé says you're a genius with those computer games. I've got an Apex 64 inside. Later, you gotta show me some moves on Kart Kraze." The simple, inclusive invitation was Mathieu's own brand of welcome.
+
+The younger cousins, who had been watching Alex from a distance, were fascinated by his AAC device. Finally, a little girl of about seven, a cousin named Amélie, approached him, her eyes wide with innocent curiosity. "*Comment ça marche, ta machine?*" she asked. (How does your machine work?)
+
+Before any of the adults could shush her, Chloé knelt down beside the little girl. "*C'est la voix d'Alex,*" she explained gently in French. (It's Alex's voice.) "He thinks of the words, and his computer helps him say them out loud. It's very smart, just like him."
+
+Alex, in turn, typed a message for Amélie. HELLO, AMÉLIE. IT IS NICE TO MEET YOU. YOUR DRESS IS VERY PRETTY. The little girl giggled in delight at hearing the machine say her name and ran off to tell her mother. The interaction was seamless, a small moment of grace that dissolved any potential awkwardness.
+
+Later, Uncle David found Alex watching the pétanque game. "It is a good machine, your communicator," David said, his tone one of genuine, practical interest. "You type very fast. I am a carpenter, you know? I like to see how things are built. The mechanics." He gestured towards his garage. "Come, I'll show you my project."
+
+Inside the garage, amidst the pleasant smell of sawdust, David showed Alex a beautiful, half-finished wooden rocking horse. He spoke slowly, a comfortable mix of French and English, explaining the different joints, the type of wood, the way he shaped it. Alex listened intently, asking questions on his AAC about the tools and the design. It was a quiet, profound connection between two people who appreciated craftsmanship and how things worked.
+
+As the party reached its peak, however, the sheer sensory input—the loud music, the dozens of overlapping conversations in two languages, the laughter, the running children—began to wear on Alex. The constant stimulation, once exciting, was now becoming overwhelming. He grew quiet, his focus turning inward. His hands, which had been resting near his AAC, now gripped the armrests of his chair, his knuckles white.
+
+Chloé, who could read his moods as easily as she could read a book, noticed the change instantly. She saw the subtle tension in his shoulders, the way his gaze had become distant. She quietly excused them from a conversation with an aunt. "Come on, Alex," she said softly, placing a hand on his chair. "Let's find some quiet."
+
+She guided him away from the boisterous heart of the party to a secluded, rustic porch swing at the far end of the yard, partially hidden by a large lilac bush. For a moment, they just sat in silence, the noise of the party now a muffled, distant hum. Alex took a few deep, shaky breaths.
+
+He turned to Chloé, his eyes wide with distress, silently pleading. He didn't need his AAC for this; their communication ran deeper than words. He simply looked at her, his vulnerability an open question.
+
+Chloé understood instantly. It wasn't just comfort he needed; it was pressure. Grounding. "I've got you," she whispered.
+
+She moved from the swing to stand in front of his wheelchair, wrapping her arms around him in one of their signature "big squeeze" hugs. She held him firmly, providing the deep, grounding pressure that she knew soothed his overloaded senses. Alex leaned into her, his own arms wrapping around her waist, his cheek resting against her shoulder. For a long minute, they just stayed like that, Chloé holding him tightly, a silent, living anchor in his swirling sensory storm.
+
+Finally, he gave her a gentle squeeze, a signal that he was okay. As she loosened her embrace, he took another deep breath, the tension visibly gone from his face. A soft, grateful smile touched his lips.
+
+YOUR FAMILY IS… LOUD, he typed, a hint of his dry humor returning. AND WONDERFUL. I REALLY LIKE THEM.
+
+A wave of pure, unadulterated happiness washed over Chloé. Her two worlds—the boisterous, loving chaos of her Québécois family and the quiet, profound universe she shared with her best friend—had finally met. And they fit. She felt tears prick her eyes as she looked at him, her heart feeling almost too big for her chest.
+
+"I'm so glad, Alex," she said, her voice thick with emotion. "I'm so, so glad you're here with me."
+

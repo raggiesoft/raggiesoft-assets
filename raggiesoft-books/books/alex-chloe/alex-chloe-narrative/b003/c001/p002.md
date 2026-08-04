@@ -1,0 +1,76 @@
+# Part 2: Bonjour, Madame Beaumont (First Day of School, Fall 1999)
+
+The classroom for French I buzzed with the nervous, chaotic energy of the first day of school. The room was bright, the walls covered in colorful posters of Paris. Alex Miller and Chloé Mason found two desks together near the front, a familiar, comfortable unit in a sea of new faces.
+
+As other students settled, their greetings to the teacher were a standard, mumbled chorus of "Hey," "Hi," or nothing at all. As Madame Beaumont, a woman with kind eyes and an elegant scarf, passed their desk to retrieve something from a filing cabinet, Alex and Chloé looked at each other, then at her.
+
+"*Bonjour, Madame,*" Chloé said, her voice quiet but clear, her Québécois accent natural.
+
+Alex, a moment later, voiced the same greeting from his AAC, the synthesized American English phonetics giving the word a slightly different, but equally respectful, texture. BONJOUR, MADAME.
+
+Madame Beaumont paused, a genuine, surprised smile gracing her lips. She looked from Chloé to Alex, taking in the two students who had offered her a greeting in her own language before the bell had even rung. "*Bonjour, vous deux,*" she replied, her own French warm and welcoming. "Welcome to French I."
+
+A few minutes later, once the bell had rung and the class had settled, Madame Beaumont picked up her official roster to take attendance. She called out a few names, her pronunciation of the standard American names perfect. Then she paused slightly, her eyes scanning.
+
+"Mason, Chloé?" she asked.
+
+Her pronunciation of "Chloé" was perfect, the "ay" sound at the end clear, natural, and unhesitating. She had seen the diacritical mark and, as a true language teacher, had instantly known its meaning.
+
+Chloé's face broke into a wide, delighted grin. After a summer of polite corrections and simply letting the Americanized "KLO-ee" slide with most people, hearing her name spoken correctly, so effortlessly, was a profound and unexpected relief. "*Présente!*" she called out, her voice full of a sudden, happy energy. (Present!)
+
+Alex felt a similar warmth spread through him. He saw the recognition on Chloé's face, and it felt like a small victory for both of them. He caught her eye, and they exchanged a look—a silent, shared understanding. They had found another person who "got it." They had found another safe space. This was going to be a good class.
+
+After finishing the roster, Madame Beaumont smiled warmly at the sea of nervous freshmen faces. She switched to a clear, lightly accented English.
+
+"Alright, everyone. Now that I know who you are, it is my turn," she said. "My name is Madame Beaumont. I am from a small suburb just outside of Paris, France, and I am very excited to be your guide into the world of the French language this year." She shared a brief, charming anecdote about her first confusing encounter with American football, which earned a few chuckles and seemed to put the class at ease.
+
+"Now," she continued, "so that we may all get to know each other, let's go around the room. Please, tell us your name, where you are from, and perhaps one interesting thing about yourself."
+
+The ritual began, a predictable series of mumbled introductions from various Virginia towns. Then, it was Chloé's turn. She sat up a little straighter, a confident and happy smile on her face, and spoke entirely in her native, fluent Québécois French.
+
+"Bonjour tout le monde. Je m'appelle Chloé Mason, et je viens de Stanstead, au Québec, un petit village sur la frontière avec le Vermont. Et pour un fait intéressant... j'habite dans une maison où je peux voir un autre pays de la fenêtre de ma cuisine!" (Translation for the reader: "Hello everyone. My name is Chloé Mason, and I come from Stanstead, Québec, a small town on the border with Vermont. And for an interesting fact... I used to live in a house where I could see another country from my kitchen window!")
+
+A wave of complete and utter bewilderment washed over the rest of the class. They stared at her, understanding nothing but recognizing that this was not the slow, careful French they had heard on language-learning tapes. Madame Beaumont, however, was beaming, her eyes shining with delighted surprise.
+
+"*Vraiment? C'est fascinant, Chloé! Bienvenue!*" she replied in perfect, though distinctly Metropolitan, French. (Really? That's fascinating, Chloé! Welcome!) She then turned to the rest of the class. "For the benefit of your classmates who are not yet as fluent as you," she said with a warm wink to Chloé, "could you please repeat that in English?"
+
+Chloé grinned and repeated her introduction in English, earning a few impressed "whoa"s from her classmates when she mentioned seeing another country from her window.
+
+After a few more students, it was Alex's turn. He had been preparing his introduction, a mix of his standard English and the new words he had been so eagerly learning from Chloé all summer. He typed on his AAC.
+
+HELLO. MY NAME IS ALEX MILLER, the synthesized American English voice began. I AM FROM NEWPORT, RHODE ISLAND. He paused, then continued, the device's voice attempting the French words with its American phonetics. I AM VERY HAPPY TO BE IN THIS CLASS. MERCI.
+
+Madame Beaumont's smile was genuine and deeply kind. She saw the effort, the connection to the fluent girl beside him, and the courage it took to participate. "Thank you, Alex," she said, her voice full of a warmth that was meant just for him. "It is a pleasure to have you with us. *Merci à toi*." (Thank you.)
+
+As the introductions continued, a unique dynamic had already been established in the classroom. Madame Beaumont, the Metropolitan purist; Chloé, the vibrant, real-world Quebecer; and Alex, the dedicated American learner, already on his way to bridging their two worlds.
+
+The rest of the class was a blur of introductions and a review of the syllabus. When the bell finally rang, signaling the end of the period, a palpable sense of relief filled the room as students began to pack their bags. But for Chloé, the class wasn't quite over.
+
+As she was helping Alex organize his books on his lap tray, a couple of students from the row behind them approached, their expressions a mixture of awe and genuine curiosity.
+
+"Hey, Chloé, right?" a girl with a friendly smile asked. "That was amazing. Are you, like, from France or something?"
+
+Chloé laughed, a warm, easy sound. "No, I'm from Québec. It's the French-speaking part of Canada. So I grew up speaking it."
+
+"Whoa, that's so cool," the other student, a boy, chimed in. "So this class is gonna be, like, super easy for you."
+
+"I hope so!" Chloé said with a grin. "But my accent is a little different from Madame Beaumont's, so I'll probably still learn a lot."
+
+Alex watched the friendly exchange, a quiet sense of pride swelling in his chest. He saw how easily Chloé handled the attention, her confidence and warmth drawing people in.
+
+But not everyone was so impressed. From a few desks away, another small group of students were whispering, their glances in Chloé's direction sharp and resentful.
+
+"It's not fair," one of them muttered, just loud enough for Alex's sensitive ears to pick up. "Why is a native speaker even in French I? She's just gonna wreck the curve for everyone."
+
+"Yeah, she's a total show-off," another added, their jealousy a sour note in the otherwise cheerful end-of-class buzz.
+
+Alex tensed, his hand instinctively moving to his AAC keypad, a protective instinct flaring up. But Chloé, who had also caught the whispers, simply gave him a small, almost imperceptible shake of her head, her expression one of weary resignation, not surprise. She had likely dealt with this kind of reaction before.
+
+She turned back to Alex, her smile returning, though it was a little tighter now. "Ready to go?" she asked, completely ignoring the resentful whispers.
+
+Alex nodded, his own anger at the unfairness of their comments giving way to a deep admiration for her grace. She didn't let it bother her. She just focused on him.
+
+YES. READY, he typed.
+
+Together, they made their way out of the classroom, a self-contained unit of two. The first day of French class had already shown them the landscape of their new social world: there would be those who were drawn to Chloé's unique background with genuine curiosity, and there would be those who saw her difference as a threat. But as long as they had each other, Alex knew, they would be just fine.
+

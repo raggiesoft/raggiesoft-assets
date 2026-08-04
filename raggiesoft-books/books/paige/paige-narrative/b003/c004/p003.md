@@ -1,0 +1,81 @@
+# Part 3: The Maintenance Run
+
+## Tuesday, July 1, 2003
+
+The morning at **105 Pepper Street** started earlier than the alarm clock intended. Around 3:00 AM, Paige had woken up with the familiar, dull ache of cramps, signaling the start of her cycle—and the "Red Flag" status Freddie had learned to recognize. While the timing meant a groggy start to the day, it was actually serendipitous for the logistics of the morning.
+
+They had 9:00 AM appointments at the clinic in Riner. Blue Ridge Transit’s **Route 8** was the only link between the two towns, a lifeline designed primarily to shuttle seniors from the rural hills into Christiansburg. It ran on a strict hourly pulse, leaving Pepper Plaza at 45 minutes past the hour.
+
+"Strategy," Jessica announced, checking her watch in the kitchen. "The 8:45 AM bus gets us there at 9:05 AM. That is too tight for intake paperwork. We take the **7:45 AM** departure."
+
+They left the Base at 7:35 AM. It was a short walk—diagonally across the street to the **Pepper Plaza Transit Center**. The morning air was humid, but the view of the mountains was clear.
+
+The bus pulled into the sawtooth bay right on time. It was smaller than the massive articulated buses used for the university runs, better suited for the winding state roads. The amber destination sign glowed against the morning sun:
+
+8 RINER
+
+They boarded, swiping their newly minted **PolyPasses**. The bus was mostly empty, save for a few locals heading out to the farms.
+
+The ride was deceptively short but scenic. As soon as the bus left the commercial density of Christiansburg, the landscape opened up. They rolled down **SR-8**, passing rolling farmland, misty cow pastures, and scattered farmhouses. For twenty minutes, Freddie watched the telephone poles whip by, counting the intervals. It was a quiet, rhythmic transition from the "Iron City" to the country.
+
+"Next stop," the driver announced. "Riner Road and Union Valley."
+
+The bus slowed, pulling over to the side of the highway at the intersection of **SR-8** and **SR-669**. They stepped off onto the gravel shoulder.
+
+"Landmarks," Jessica pointed out.
+
+Directly in front of them, at **4021 Riner Rd**, stood a boxy, metal-sided building with a yellow sign: **Riner Value Mart**. It was the only retail anchor in sight.
+
+"Target is across the street," Jessica said, pointing to the other side of the highway. "1917 Union Valley Road."
+
+The geography here was tricky. The medical building was built directly into the steep hillside. From the bus stop at the top of the hill, they were looking at the roof and the second floor of the brick structure.
+
+"We have to go down," Paige noted, clutching her stomach slightly as a cramp hit.
+
+They waited for a break in the traffic on SR-8—mostly pickup trucks and landscaping trailers—and crossed the highway. They navigated the sidewalk that sloped steeply downward, descending the hill to the main parking lot level.
+
+The entrance to **Dr. Halloway’s** office was on the first floor. Inside, the waiting room was quiet, smelling of sanitizer and potpourri. It was a small practice, far removed from the hustle of the hospital district.
+
+"Freddie," Jessica said, pointing to a comfortable chair in the corner. "This is your post. You hold the perimeter."
+
+"Acknowledged," Freddie said, sitting down. He pulled a book from his bag, happy to be the silent sentry while his sisters handled the biological maintenance.
+
+Jessica and Paige went to the check-in window. Jessica was a regular; she simply signed her name. Paige, however, had the new patient clipboard to navigate.
+
+They were called back quickly. For Jessica, the appointment was routine clockwork. She knew the drill: a quick vitals check, a brief chat with Dr. Halloway, and the administration of the **Cycle-Stop** injection. It was a quick pinch, and she was protected for another three months.
+
+For Paige, the consultation took longer. Dr. Halloway, a woman with a kind face and efficiency that matched Jessica’s, reviewed Paige’s file.
+
+"So, we're looking to start the Cycle-Stop today?" Dr. Halloway asked.
+
+"Yes," Paige said. "My sister is on it. We live together. We want to... synchronize the systems."
+
+"That makes sense," Dr. Halloway nodded. "Now, usually we have to wait to administer the first shot to ensure you aren't pregnant. We prefer to give it during the first five days of your menstrual cycle."
+
+Paige blinked. "I started at 3:00 AM today."
+
+"Perfect timing," Dr. Halloway smiled, grabbing a pair of gloves. "Since you are on Day 1, we can do this right now. You’ll be effective immediately, though we always say give it a week to be safe. This should help with the cramping you mentioned, too. Eventually, it might stop the bleeding altogether."
+
+"That is the goal," Paige said, exhaling in relief.
+
+Ten minutes later, Paige walked out of the exam room, rubbing her arm. She felt lighter. The anxiety about "leaks" and "mess" in the King Bed was gone. She had the patch.
+
+They collected Freddie from the lobby at 9:45 AM.
+
+"Mission complete?" Freddie asked, standing up.
+
+"Systems updated," Jessica confirmed. "Let's catch the ride home."
+
+They walked back out into the humidity, trudging back *up* the steep hill to SR-8. They crossed the street to the return stop, located near **4010 Riner Rd**, just down from the intersection.
+
+They checked the schedule posted on the sign. The bus departed from Auburn High School nearby at **10:15 AM**.
+
+A few minutes later, the white bus appeared over the crest of the hill. The destination sign had flipped for the return leg:
+
+8 CHRISTIANSBURG
+
+They boarded, taking their seats in the cool air conditioning. As the bus wound its way back through the farmland toward Pepper Plaza, Freddie watched his sisters. They were relaxed. The medical logistics were handled. The "Base" was fully operational.
+
+"Next stop," Freddie whispered to himself as the bus rolled on. "Home."\`
+
+

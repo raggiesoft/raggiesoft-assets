@@ -1,0 +1,60 @@
+# Part 4: The Northbound Route – 8:00 AM (PST)
+
+We stood on the damp sidewalk outside the darkened, powerless facade of *The Spot*, watching a few of the confused, red-shirted employees slowly disperse toward their cars.
+
+"Well," Jessica smiled, adjusting her scarf and looking at the two of us. "The timeline is completely ours. What's the new transit math, Rachel?"
+
+Rachel’s dark eyes lit up, her internal map instantly recalculating the grid. "We don't need to take the 574 up to Sea-Tac Airport anymore," she rasped smoothly. "And we don't need the 560 across to Renton. If we stay down here, we can spend the morning at the apartment. And when Kristin finishes her shift, we can all ride the bus back to King County together."
+
+The sheer, logistical perfection of the new plan hit my processor like a wave of pure oxygen. Bypassing the grueling, multi-transfer airport route meant we didn't have to rush. But more importantly, waiting out the morning meant we didn't have to leave Kristin behind. We could travel as a fully unified, four-person pack.
+
+I didn't hesitate. I reached out and pulled Rachel into a massive, deep-pressure hug right there in the empty parking lot. She immediately wrapped her arms around my torso, burying her face into my heavy winter coat with a soft, vibrating hum of absolute joy.
+
+"We wait for the Sentinel," I whispered into her dark hair, giving her shoulders a firm squeeze.
+
+When I finally pulled back, I didn't let her go completely. I slid my hand down her arm, naturally finding her hand. We laced our fingers securely together, locking the physical tether into place.
+
+We turned our backs on the dead superstore and walked as a tightly linked trio back across the asphalt to the Lakewood Transit Center.
+
+According to Rachel's schedule, the next northbound TAPS Route 2 wasn't due for another thirty minutes. In the neurotypical world, a half-hour wait in the freezing Pacific Northwest mist would be an irritating inconvenience. But for my trauma-wired brain, it was a profound luxury.
+
+We sat together on the cold metal bench under the transit shelter. I wrapped my arm securely around Rachel’s shoulders, pulling her flush against my side. She leaned her entire body weight into my embrace, completely relaxed. The thirty minutes vanished in a blur of absolute, unburdened peace. I didn't care about the cold. I was sitting under a bus shelter, holding my Bug, and the universe was perfectly aligned.
+
+Eventually, the heavy, familiar roar of a diesel engine broke the quiet morning. The teal and yellow TAPS Route 2 bus pulled into the bay, its air brakes hissing loudly.
+
+The operator deployed the ramp. I guided Jessica up the incline, maneuvering her carefully into the designated securement area and locking her brakes.
+
+Rachel and I moved toward the back of the bus, finding an entirely empty row of forward-facing seats. We slid in together. I immediately reclaimed my anchor position, wrapping my arm tightly around her shoulders. Rachel curled into my side, resting her head comfortably against my chest as the bus lurched forward and accelerated out of the transit center.
+
+As we navigated back down Lakewood Towne Center Boulevard and turned onto 59th Avenue SW, the eerie, silent blackout zone still gripped the commercial district. But a few blocks later, as the bus rumbled up Gravelly Lake Drive SW, the atmosphere suddenly shifted.
+
+The heavy, gray environment was broken by a brilliant, glowing green traffic signal suspended over the intersection.
+
+"We're back on the live grid," Jessica noted from her spot across the aisle, looking out the window as the streetlamps and neon storefront signs blinked back into existence.
+
+"University Place," Rachel confirmed, her head still resting on my shoulder.
+
+The bus turned onto Bridgeport Way West, heading northbound. The familiar, tree-lined residential streets of Pierce County rolled past the rain-streaked windows. We were only a few minutes away from the apartment.
+
+"Okay," Jessica called back to us, dropping her voice into a tactical, planning register. "Since we have the entire morning to kill, we should grab some groceries to stock your fridge for the week, Rachel. And we definitely need a few supplies for breakfast."
+
+"Franklin's Market," I said, a massive grin breaking across my face.
+
+Rachel laughed softly against my coat, her hand reaching up to pull the yellow stop-request cord running along the window.
+
+Because Jessica wasn't as intimately familiar with the specific quirks and stop geometries of the Pierce County local routes as Rachel was, my little sister took command of the disembarking protocol.
+
+"Wheelchair getting off!" Rachel called forward to the operator, her raspy voice projecting clearly over the rumble of the engine to ensure the driver had plenty of time to prep the hydraulic lift.
+
+"Copy that," the driver called back.
+
+The heavy bus decelerated, kneeling to the wet curb right at the intersection of Bridgeport Way West and 67th Avenue West.
+
+I stood up, keeping my hand securely linked with Rachel's, and walked forward to unhook Jessica's tie-downs. I piloted the wheelchair down the ramp and onto the damp concrete sidewalk.
+
+Because the bus was traveling northbound on Bridgeport Way, our destination was waiting for us directly on our right.
+
+Looming over the massive parking lot was the brightly lit, sprawling facade of *Franklin's Market*.
+
+"Alright," Jessica smiled, adjusting her coat and looking at the automatic glass doors of the superstore. "Let's go buy some breakfast and go bump into our favorite Sentinel."
+

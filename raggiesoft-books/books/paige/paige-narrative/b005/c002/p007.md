@@ -1,0 +1,183 @@
+# Part 7: The Mega-Bed Assembly
+
+## Saturday, July 14, 2007 — 09:00 AM 105 Pepper Street SE, Christiansburg, VA
+
+The driveway of 105 Pepper Street looked like a construction staging area.
+
+A large delivery truck from Comfort-Rest Mattress Depot was idling at the curb. Next to it, the family's silver Horizon Sanctuary was parked with its trunk open, filled with bags of hardware and rolls of grey carpet tiles.
+
+"Delivery for Avery," the driver called out, checking his clipboard. "I've got two Queen mattresses and two Queen box springs. You guys got a team to move this?"
+
+"We are the team," Jessica announced, stepping out onto the porch. She was wearing her 'construction uniform'—denim shorts and a tank top. "Bring them to the garage door."
+
+"Garage?" the driver asked. "Usually people want these in the bedroom."
+
+"We're building the bedroom," Jenna grinned, bouncing on her heels. "Just drop them. We'll handle the insertion."
+
+The driver shrugged and unloaded the plastic-wrapped mattresses onto the driveway. As soon as he drove away, the Avery Unit mobilized.
+
+"Phase One: The Platform," Freddie commanded from The Rover. He was positioned on the front porch, overseeing the operation with a clipboard. "We need to construct the riser before we deploy the foam."
+
+"Lumber is already downstairs," Sarah reported. "I staged the 2x4s and the plywood sheets last night. All cuts were made at the hardware store to my specifications."
+
+"Precision cutting," Freddie nodded approvingly. "Let's descend."
+
+They moved to the living room. Freddie rolled onto the TFL-3000 platform.
+
+"Going down," he said, pressing the button.
+
+Whirrrrrrrr.
+
+He sank into the floor, disappearing into the basement.
+
+The sisters took the stairs.
+
+## 10:00 AM — The Frame
+
+The center of the basement floor was cleared. The concrete was swept clean.
+
+"Layout," Jessica ordered.
+
+They laid out the pressure-treated 2x4s in a massive rectangle: 10 feet wide by 80 inches long.
+
+"We need cross-bracing every 16 inches," Sarah reminded them, holding the tape measure. "Standard code. We don't want the middle to sag under the weight of the pile."
+
+"We aren't building a deck, Sarah," Jenna laughed, grabbing the power drill. "But okay. Over-engineering is our brand."
+
+They worked as a crew.
+
+- **Jessica and Paige:** The muscle. They held the long boards in place.
+
+- **Sarah:** The architect. She measured the spacing and marked the drill points with a pencil.
+
+- **Jenna:** The mechanic. She drove the 3-inch screws with a satisfying ZZZT-THUNK.
+
+- **Freddie:** The supervisor. He rolled around the perimeter, checking the angles.
+
+"Square the corners," Freddie instructed. "If the frame is rhomboid, the mattresses won't fit."
+
+"It's square," Sarah promised. "I measured the diagonals. Within 1/16th of an inch."
+
+Once the grid of 2x4s was built, they laid the sheets of 3/4-inch plywood on top. Jenna screwed them down.
+
+ZZZT-ZZZT-ZZZT.
+
+The platform was complete. A massive, low wooden stage sitting six inches off the concrete floor.
+
+"Carpet time," Paige said, grabbing the box of tiles.
+
+They peeled the backing off the industrial grey carpet squares and stuck them to the plywood. They also carpeted the sides of the platform so no one would scrape a shin on raw wood.
+
+"Soft edges," Freddie noted. "Safety feature."
+
+## 12:00 PM — The Mattresses
+
+"Okay," Jessica wiped sweat from her forehead. "Heavy lift time. We have to get the mattresses down here."
+
+"The stairs are too narrow for a Queen to go flat," Sarah analyzed. "We have to taco them."
+
+"Taco?" Freddie asked.
+
+"Fold it in half," Jessica explained. "Like a taco shell. Then strap it so it stays bent. It's not great for the springs, but for a short trip, it'll survive."
+
+They went out to the driveway. They wrestled the first mattress into a U-shape and used ratchet straps to hold it.
+
+It took four of them to guide the beast down the narrow stairs—Jessica and Paige pulling from the bottom, Sarah and Jenna pushing from the top.
+
+"Pivot!" Jenna yelled, laughing as they navigated the turn.
+
+They got both mattresses down. They cut the straps. The beds popped back into shape with a loud whump.
+
+They placed them side-by-side on the carpeted platform.
+
+"The Gap," Freddie pointed out immediately.
+
+There it was. A distinct canyon between the two beds where the rounded edges met.
+
+"Deploy the Bridge," Jessica commanded.
+
+Paige opened the package. She took out the T-shaped foam wedge. She pushed it into the crack. It filled the void perfectly, creating a flush surface.
+
+"Now the strap," Sarah said.
+
+They ran the heavy nylon connector belt around the entire perimeter of the 10-foot mega-structure. Jessica ratcheted it tight.
+
+Click-click-click.
+
+The two mattresses were squeezed together until they became one solid unit.
+
+"Unified," Freddie whispered.
+
+## 13:00 PM — The Topper
+
+"Final layer," Paige said.
+
+They unrolled the two massive memory foam toppers. They laid them over the mattresses and the bridge.
+
+The foam absorbed the seam completely. Freddie rolled The Rover up to the edge of the platform (it was low enough for him to transfer easily). He reached out and pressed his hand into the center.
+
+He couldn't feel the crack. He couldn't feel the bridge. He just felt foam.
+
+"Seamless," Freddie declared. "Surface continuity is 100%."
+
+## 14:00 PM — The Dressing
+
+Making a 10-foot-wide bed required teamwork.
+
+They put on the fitted sheets. Then came the custom creation: The Mega-Duvet.
+
+Jessica and Sarah had spent the last week sewing three King-sized duvet covers together. They had stuffed it with three down comforters.
+
+It was enormous. It was a sea of maroon fabric.
+
+They threw it over the bed. It floated down, settling like a cloud.
+
+"It’s huge," Jenna whispered. "It’s an island."
+
+"It’s the Silo," Freddie corrected. "Mark III."
+
+He looked at the bed. It sat in the center of the raw, industrial basement. To the left was the sleek new glass-walled bathroom. To the right, Jenna’s server lights blinked in the dark.
+
+Overhead, the exposed floor joists created a cozy, lowered ceiling.
+
+It didn't look like a bedroom in a catalog. It looked like a habitat module on a space station.
+
+"Test run?" Paige asked.
+
+"Test run," Freddie agreed.
+
+He locked his brakes. He transferred from The Rover onto the edge of the bed. The memory foam contoured to his body.
+
+He scooted to the dead center—the place where the crack used to be. He lay back.
+
+He felt... nothing. No ridge. No dip. Just support.
+
+"Center is stable," Freddie announced. "Deploy the Unit."
+
+Jessica, Paige, Sarah, and Jenna climbed onto the platform.
+
+They crawled toward the center.
+
+Configuration:
+
+- Freddie: Center.
+
+- Paige & Jessica: Flanking him tightly.
+
+- Sarah & Jenna: taking the outer wings, but still close enough to touch.
+
+There was so much room. They could sprawl. They could roll. But true to form, they didn't. They huddled in the middle, a knot of humanity in the center of their vast new empire.
+
+Freddie looked up at the rafters. He listened to the hum of the servers and the distant trickle of the shower drain.
+
+"This is it," Freddie whispered. "The architecture is complete."
+
+"We built it," Jessica said, resting her head on his shoulder. "We actually built it."
+
+"Nap time?" Jenna suggested.
+
+"Nap time," everyone agreed.
+
+And in the cool, quiet basement of 105 Pepper Street, on a bed big enough for an army but used by a family, the Avery Unit finally rested.
+
+

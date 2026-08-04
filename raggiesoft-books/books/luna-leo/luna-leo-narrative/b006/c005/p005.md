@@ -1,0 +1,38 @@
+# Part 4: A Colossal Good Distraction
+
+"Okay, Stella," Arthur's voice came back, shaking off the melancholy. "Let's turn around here when it's safe. We'll head back and make a left onto West Main Road, heading south again."
+
+Stella found a place to make a U-turn and followed the directions, turning left back onto West Main. After only a short distance, Arthur spoke again, his tone brightening considerably.
+
+"Alright, pull in up here on the right, Stella. See the big golden cow? Can't miss it."
+
+Stella spotted the landmark – a large, cheerfully painted golden cow statue standing sentinel outside a classic roadside restaurant building. She signaled and turned the Sentinel into the parking lot of the Bayview Creamery, pulling into a spot. Arthur and Eleanor parked beside them. By 2001, the area around this Creamery was certainly more built-up than in Arthur's prime, surrounded by other businesses and developments rather than open fields. Still, Arthur and other locals always referred to it as the one "out in the country," perhaps out of habit. Stella was getting used to this Rhode Island tendency—giving directions or referencing places based on how they *used* to be, sometimes decades ago. She wouldn't be surprised if Grandpa still occasionally told people to "turn left when you see Keystone Motors," even after seeing the supermarket sign today.
+
+Everyone got out, stretching after the drive. Arthur stood for a moment, looking back in the direction they'd come from, towards the ghost of his dealership on East Main Road.
+
+"Thirty-five years," he murmured, mostly to himself, shaking his head slightly. "Built that place from the ground up. Best service department on the island. Knew half our customers by name." He sighed, the image of the abandoned building and the supermarket sign clearly still weighing on him. "Hard to see it gone like that. Not just changed, but gone."
+
+He seemed ready to shake off the melancholy when they entered the Creamery and found a booth. As they were settling in, looking over the menus featuring classic diner fare alongside the ice cream treats, an older man wiping down the counter looked up, did a double-take, and squinted towards their booth. He put down his rag and walked over, a look of dawning recognition on his face.
+
+"Excuse me," the worker said, looking directly at Arthur. "You wouldn't happen to be Arthur Bennett, would you? From Keystone Motors?"
+
+Arthur looked up, surprised. "Why yes, I am," he confirmed with a smile.
+
+The worker's face broke into a grin. "I thought that was you! Haven't seen you around in years! I bought my first pickup truck from you, must've been... late seventies? A Rancher 100. Best truck I ever owned." He leaned slightly closer. "And let me tell you, I appreciated how you folks did business. No nonsense, no pressure. Just a fair deal." He chuckled, then adopted a slightly sing-song tone, mimicking an old radio jingle, "*There’s only one choice!*"
+
+Arthur laughed, clearly pleased. "Glad to hear it served you well!"
+
+The worker's smile faded slightly. "Tried to buy my next one from the place after you sold it... different name, different people. Whole different attitude. Pressured me something fierce on financing, tried to tack on all sorts of extras. I walked right out and bought a Summit down the road. Just wasn't the same without you, Mr. Bennett. They didn't get it. They were gone by ’92 and that place has been abandoned since. Now, a grocery store is coming soon?"
+
+"Sorry to hear that," Arthur said genuinely, though the man's story sadly confirmed his own observations about the dealership's decline. "But thank you for remembering."
+
+"How could I forget?" the worker shrugged. "Best car buying experience I ever had." He nodded to the family and headed back to the counter, leaving Arthur looking thoughtful but validated. Stella and the twins exchanged glances, absorbing another piece of evidence of the reputation their grandfather had built.
+
+Arthur seemed to shake off the mix of nostalgia and vindication, turning his attention fully back to the group with renewed vigor. "Right then!" he declared decisively. "Enough reminiscing. We're here! And you three," he looked pointedly at Stella, Luna, and Leo, "have never lived until you've had a Colossal Cooler."
+
+Luna and Leo exchanged puzzled glances. "Colossal Cooler?" Luna repeated hesitantly.
+
+"Colossal Big, Colossal Good!" Arthur proclaimed, quoting the famous Bayview Creamery slogan with a grin. "It's their signature drink – basically a thick, amazing milkshake made with ice milk and flavored syrups. It's a Rhode Island institution! You can't come here and *not* try one. Come on, my treat!"
+
+He gestured enthusiastically towards the counter, eager to share this piece of local flavor, a sweet counterpoint to the bittersweet taste of memory lane. Stella smiled, grateful for the shift in mood, and ushered the twins towards the counter, ready for their Colossal Cooler initiation.
+

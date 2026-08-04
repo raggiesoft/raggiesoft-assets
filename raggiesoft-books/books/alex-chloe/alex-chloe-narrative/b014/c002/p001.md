@@ -1,0 +1,22 @@
+# Part 1: The Peace Arch Crossing (2010)
+
+The early Saturday morning air was cool and misty as the three of them loaded their weekend bags into their Holt Wayfarer. This trip felt different. Their last journey to Canada had been a high-stakes, emotional family affair. This trip was just for them. It was a weekend getaway, but it was also their first official research mission for the Lynnwood Discovery and Care Center.
+
+"Okay," Chloé said, checking a printout from the transit website as Megan took the driver's seat for the first leg. "To avoid the hassle of downtown Vancouver parking, we'll park at the Scott Road SkyLink Station Park & Ride in Surrey, just over the border. From there, the whole city is open to us."
+
+The drive north on I-5 from Lynnwood was easy and familiar. They followed the signs for the Peace Arch, a grand, white monument standing serene amidst manicured gardens. In the NEXUS lane, the wait was short. As they pulled up to the Canadian customs booth, a CBSA officer greeted them with a polite, bilingual "Bonjour, Hello."
+
+Chloé’s eyes lit up. It was the invitation she always looked for outside of Quebec. She immediately switched to her native language. "*Bonjour, Monsieur,*" she replied, her Québécois French warm and clear as she gathered their documents.
+
+She handed over her credentials: her Canadian Passport, her NEXUS card, and her Washington State Enhanced Driver's License. Alex and Megan, following her lead, presented their U.S. Passports, their NEXUS cards, and their state IDs.
+
+The officer, a bit surprised but pleased by her fluent French, took the offered documents and switched languages as well. "*Merci. Alors, le but de votre visite aujourd'hui?*" (Thank you. So, the purpose of your visit today?)
+
+"*Juste un petit week-end touristique à Vancouver,*" Chloé explained, before seamlessly switching to English for Megan's benefit. "And a bit of research for a project."
+
+The officer nodded, processing their documents. Alex, using his AAC device, added in perfect Québécois French, NOUS ALLONS VOIR LES HABITATS DES ANIMAUX AU PARC STANLEY ET À LA MONTAGNE GROUSE. (We're going to see the animal habitats at Stanley Park and Grouse Mountain.)
+
+"*Ah, pour un projet? Très intéressant,*" the officer said, his curiosity piqued. He asked a few more standard questions, and then handed back their documents with a genuine smile. "*Eh bien, profitez bien de votre fin de semaine. Bienvenue au Canada.*" (Well, enjoy your weekend. Welcome to Canada.)
+
+After clearing customs, they drove the short distance to the park-and-ride, left their van, and walked to the elevated platform of the Scott Road SkyLink station. For the first time, they were about to explore the Canadian side of their Pacific Northwest home, not just as tourists, but as a three-person team of dreamers, gathering blueprints for their future. The sleek, automated SkyLink train pulled into the station, its doors hissing open, ready to carry them into the heart of the city.
+

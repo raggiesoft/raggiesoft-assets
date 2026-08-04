@@ -1,0 +1,46 @@
+# Part 4: The Stand
+
+Location: The Fence Line
+
+Across the bus loop, the doors of the school banged open.
+
+Hundreds of students poured out, shepherded by teachers waving clipboards. The chaos of the muster began.
+
+"Juniors! Line up by homeroom!" a Vice Principal shouted through a megaphone. "Mr. Henderson's class, Section 3, over here!"
+
+Patrick saw Mr. Henderson’s class gathering fifty yards to the left. He saw the teacher looking around, doing a headcount.
+
+He didn't move.
+
+"Bennett!" Mr. Henderson spotted them. He came jogging over, his face flushed. "Patrick! You need to rejoin your class group immediately for attendance! We have to account for everyone!"
+
+Patrick looked up from the curb. He kept his arm firmly wrapped around Nichole’s shoulders.
+
+"I'm accounted for," Patrick said, his voice flat.
+
+"You are out of position," Henderson argued, gesturing to the group. "Nichole is safe now. The aides will watch her. You need to get in line."
+
+Nichole felt the panic spike. The aides. The people who left her by the lockers.
+
+She reached out and grabbed Patrick’s hand, squeezing it with a desperate, terrified strength.
+
+Patrick squeezed back. He looked at the teacher.
+
+"I'm not leaving her," Patrick said.
+
+"This is a drill protocol, Patrick! You have to—"
+
+"I don't care," Patrick snapped. He looked at the smoke still curling faintly from the roof vents of the school. "You wanted to leave her by the elevator. I brought her here. She stays with me."
+
+He turned his head, engaging the "Secret Agent" protocol his father had given him.
+
+"Mark me present, or mark me absent," Patrick said, turning his back on the teacher to check Nichole’s glasses. "But I'm not moving."
+
+Mr. Henderson sputtered for a moment, looking at the defiant boy and the terrified girl clutching his hand. He looked at the smoke. He made a checkmark on his clipboard.
+
+"Fine," Henderson muttered, walking away. "Stay put."
+
+Patrick exhaled. He looked at Nichole.
+
+"We're good," he whispered, smoothing her hair. "We're staying right here."
+

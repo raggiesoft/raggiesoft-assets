@@ -1,0 +1,77 @@
+# Part 9: Cosmic Dust – Monday, November 27, 2045 – 06:00
+
+The automated medical wing remained wrapped in a quiet, localized amber glow. Sarah was deeply asleep, her breathing finally evening out after the grueling, exhausted transfer to the washroom a few hours prior.
+
+Wyatt was still sitting on the rolling metal stool beside her bio-bed, his calloused thumb resting gently against her knuckles.
+
+Suddenly, the biometric comm-cuff on his wrist vibrated with a rapid, silent urgency.
+
+Wyatt didn't move his hand from Sarah’s. He simply tapped the earpiece. "Report," he whispered, his voice barely a rasp.
+
+"Administrator," Aria’s synthesized voice murmured directly into his ear, automatically modulating her volume so she wouldn't disturb the sleeping mother. "A massive spatial anomaly has resolved in our upper orbit. A hostile corporate armada, consisting of three heavy cruisers and twenty-four escort destroyers, has dropped out of sub-light transit."
+
+The owner of the probe hadn't just come back with a bigger ship. They had brought an entire invasion fleet.
+
+Wyatt’s jaw locked. He didn't want to leave Sarah’s side, not when she was thirty weeks pregnant and completely confined to the bed. With his free hand, he reached over to the medical console and seamlessly routed the CIC’s primary tactical feed directly to the bio-bed’s secondary glass monitor.
+
+The screen flared to life, displaying a terrifying swarm of glowing red icons establishing a blockade formation exactly four hundred kilometers above the planet.
+
+"They are not attempting a diagnostic scan," Aria reported. "They have locked targeting telemetry onto the planetary dampening field. They are opening fire."
+
+Wyatt instinctively tensed, his broad shoulders curling forward as he leaned his massive frame over Sarah to physically shield her from the shockwave. If an armada of that size unloaded their primary plasma batteries onto a standard corporate repulsor-shield, the seismic recoil would shatter the bedrock and violently shake the entire mountain.
+
+He braced for the deafening roar of the impact.
+
+Nothing happened.
+
+The medical wing was absolutely, perfectly silent. The cup of water sitting on Sarah’s bedside table didn't even ripple. Sarah let out a soft, sleepy sigh, completely undisturbed.
+
+Wyatt looked at the monitor. The red icons were raining a relentless, apocalyptic torrent of superheated plasma down on the planet. But exactly as Aria had promised, the Aegis grid didn't just hold the line; it completely absorbed the kinetic energy. The strongest shield known to humankind didn't even allow the sound of the bombardment to reach the surface.
+
+"Incredible," Wyatt breathed, a dark, lethal calm settling over him. He tapped the console, interfacing with the dreadnought’s comms array. "Open a wideband audio channel to their flagship."
+
+"Channel open, Wyatt."
+
+"Unidentified armada," Wyatt whispered into his comm-cuff, his voice a low, terrifying rumble of absolute authority. "You are firing upon the sovereign, restricted territory of Planet Eden. Cease your bombardment immediately and state your intentions, or you will be destroyed."
+
+He watched the telemetry. The armada didn't even pause. They completely ignored the hail, continuously dumping terajoules of destructive energy against the invisible, hard-light barrier in a desperate attempt to crack the vault.
+
+"They don't want to talk," Wyatt noted, his S.H.O.P. Marine patience instantly evaporating. He wasn't going to let them sit in his orbit and drain his geothermal grid. "Aria. Bring the planetary defensive batteries online. Fire a single warning shot. Vaporize the empty space ten kilometers off their flagship's port bow."
+
+"Targeting locked. Firing warning shot."
+
+Deep beneath the planet's surface, hidden silos cycled open. A massive, concentrated beam of hyper-dense anti-matter erupted from the planet, tearing through the shield gate and streaking past the corporate flagship. It missed them by exactly ten kilometers, a blinding flash of lethal energy that clearly communicated the planet was armed to the teeth.
+
+Wyatt watched the red icons on the screen.
+
+Instead of breaking formation and retreating, the armada shifted, locking their targeting arrays onto the trajectory of the warning shot. They doubled their firing rate.
+
+"Okay," Wyatt whispered, his dark eyes going completely cold. He looked down at Sarah, who was sleeping peacefully, carrying the entire future of the Colton bloodline. He was not going to let a greedy megacorporation threaten his family's peace for another second.
+
+He looked back at the glass monitor.
+
+"Warning phase is over," Wyatt commanded, his voice devoid of any mercy. "Aria. Weapons free. Turn them to dust."
+
+"Acknowledged, Administrator. Engaging the Aegis offensive network."
+
+It didn't happen slowly. It was absolute, systematic annihilation.
+
+Wyatt watched the tactical feed as the planet itself fought back. Dozens of hidden, automated surface-to-space batteries opened fire simultaneously. The Aegis grid calculated the exact trajectories, unleashing a synchronized, devastating barrage of heavy plasma and kinetic rail-slugs that tore upward through the atmosphere.
+
+On the screen, the red icons didn't even have time to execute evasive maneuvers.
+
+They simply vanished.
+
+One by one, the cruisers and the destroyers were systematically shredded, their heavy corporate armor failing instantly against the god-tier weaponry Aria had hallucinated into existence. Within thirty seconds, the massive invasion fleet was reduced to a cloud of expanding, harmless cosmic dust and frozen debris floating silently in the vacuum of space.
+
+"All targets neutralized," Aria reported quietly in his ear. "The sector is clear. The Aegis grid is returning to standby mode."
+
+"Good work, Aria," Wyatt murmured, shutting down the tactical feed on the medical console.
+
+He let out a slow, controlled exhale, the adrenaline bleeding seamlessly out of his system. He didn't celebrate. He didn't boast. He simply turned his attention back to the bio-bed.
+
+He adjusted the heavy thermal duvet over Sarah's shoulders, ensuring the thirty-week-pregnant mother of his children was perfectly warm. He rested his thumb back against her knuckles, completely content in the silent, amber-lit room.
+
+The universe had just tried to break down his front door, and it had ceased to exist.
+
+

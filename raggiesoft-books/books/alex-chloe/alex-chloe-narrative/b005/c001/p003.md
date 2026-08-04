@@ -1,0 +1,10 @@
+# Part 3: The Unboxing
+
+A few weeks later, a package arrived. Alex and Chloé gathered in his room, an air of Christmas morning excitement between them. Inside were not shiny new games, but relics. A shrink-wrapped box containing a stack of 1.44MB floppy disks for Q-DOS and Quantum OS for Workgroups 3.11, and a pristine, jewel-cased CD-ROM for Quantum OS 98 Second Edition.
+
+"Whoa," Chloé breathed, looking at the floppy disks. "I haven't seen those since, like, middle school."
+
+Alex was in heaven. NO QUANTUM OS ME, he typed with profound, satisfied relief. I TOLD DAD I WOULD NOT ALLOW 'MISTAKE EDITION' ON MY MACHINE, EVEN A VIRTUAL ONE.
+
+Chloé just laughed, shaking her head at his nerdy purism.
+

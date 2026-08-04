@@ -1,0 +1,76 @@
+# Part 2: The Escape Vehicle
+
+The calendar on the kitchen wall read **June 19, 2001**. It was a Tuesday, and the humidity outside was pushing ninety percent.
+
+Inside the house, the air conditioning was humming, but it wasn't enough to scrub the tension from the atmosphere. Their mother was Upstairs, ostensibly organizing the linen closet for the fourth time that month. Their father was at work, though he had called an hour ago to say he would be "late again" due to a project deadline.
+
+Freddie sat at the kitchen table, staring at a bowl of cereal that had gone soggy. The house felt like a tightly wound spring waiting to snap.
+
+"Grab your shoes," Paige said, walking into the kitchen and twirling a set of keys on her finger.
+
+The keys were new. They belonged to the family’s secondary vehicle, a beat-up sedan that Paige had inherited access to after passing her road test two weeks ago. The plastic rectangle in her wallet—*License Class D*—was the most valuable item in the Avery inventory. It was a ticket out.
+
+"Where are we going?" Freddie asked, pushing the cereal away.
+
+"Emerald Creek," Paige announced. "It’s too quiet in here. And Sarah and Jenna turn twelve on Thursday. Mom and Dad..." She paused, looking up at the ceiling where footsteps creaked overhead. "Mom and Dad are distracted. So we’re doing it. We’re taking them out."
+
+Freddie stood up. The logic was sound. If the primary command structure (the parents) was failing, the secondary command (the older siblings) had to take over.
+
+They walked down the hall to the room shared by the middle set of twins.
+
+The door was open. Inside was a study in contrasts.
+
+On the left side of the room, Jenna was currently doing a handstand against the wall while trying to read a magazine on the floor. Her side of the room was a colorful explosion of clothes, posters, and half-finished craft projects. Her ADHD meant her brain moved at the speed of light, and her environment usually reflected that velocity.
+
+On the right side, Sarah was sitting perfectly still on her bed, arranging her stuffed animals by height and color gradient. Her side was pristine. The comforter was smoothed to military standards. Her OCD demanded order in a chaotic world, and she maintained her perimeter with fierce dedication.
+
+"Happy early birthday, monsters," Paige said, leaning against the doorframe.
+
+Jenna crashed down from her handstand, bouncing to her feet in one fluid motion. "Are we going somewhere? Is it cake? Did you buy a pony?"
+
+"No pony," Paige laughed. "But I have keys, and I have twenty dollars. We're going to the mall."
+
+"Emerald Creek?" Jenna gasped, her eyes widening. "Can we go to the arcade? Can we go to the pretzel place? I want to see the new sparkly notebooks at the stationery store!"
+
+Sarah looked up from her bears. She didn't bounce. She looked at the clock on her nightstand. "It’s 1:14 PM. If we go now, traffic will be moderate. But is the car clean?"
+
+"It's clean enough," Paige promised. "Come on, Sarah. We’ll get you a smoothie. A symmetrical one."
+
+Sarah considered this. She looked at her bears, checked the alignment one last time, and nodded. "Okay. But I get the window seat behind the driver. It’s statistically safer."
+
+"Deal," Paige said.
+
+The drive to Chesapeake was a short but intense experience. Paige was a careful driver, gripping the wheel at ten and two, checking her mirrors every fifteen seconds. She took her responsibility as the transport pilot seriously.
+
+In the backseat, the energy differential was palpable.
+
+"Look at that truck! It's huge!" Jenna shouted, pointing out the window. "Oh, look, a dog! Two dogs! Paige, can we play the license plate game? I see a Florida! I see a New York!"
+
+"Jenna, volume," Freddie murmured from the passenger seat. He was clutching the door handle, not because Paige was driving badly, but because being in a moving vehicle always messed with his vestibular system.
+
+"Sorry, Freddie!" Jenna whispered, a volume that lasted exactly three seconds before she saw a billboard for a movie. "Oh my gosh, *Action Force 3*! We have to see that!"
+
+Next to her, Sarah was silently counting the telephone poles passing by, tapping her finger against her knee in groups of four. She checked the door lock. Then she checked it again.
+
+"Locked," Sarah whispered to herself. "Safe."
+
+Freddie watched them in the rearview mirror. He saw Jenna’s leg bouncing like a piston. He saw Sarah’s rhythmic tapping. They were just like him—governed by their own internal wiring, their own unique operating systems.
+
+"We're here," Paige announced, using her turn signal to pull into the sprawling parking lot of Emerald Creek Mall.
+
+The mall was a monolith of beige concrete and glass, a temple of commerce rising out of the heat. To most people, it was just a place to buy clothes. To the Avery kids, it was a neutral zone—a place where the air conditioning was freezing, the smells were artificial, and for a few hours, they didn't have to worry about the silence at home.
+
+"Operation Birthday Protocol is in effect," Paige said, putting the car in park. "Jenna, stay with the group. Sarah, I have hand sanitizer in my purse if you need it. Freddie, you have point."
+
+"Copy," Freddie said, unbuckling his seatbelt.
+
+Jenna burst out of the car like a majestic, energetic firework. "MALL!"
+
+Sarah stepped out carefully, closing the door and checking the handle to make sure it locked behind them. "Door secured," she confirmed.
+
+Paige looked at Freddie over the roof of the car. She smiled, a tired but genuine expression. "We got them out."
+
+"We did," Freddie agreed. He offered his arm to Paige, not for balance this time, but as a gesture of partnership. They were the captains now.
+
+"Let's go get some pretzels," Paige said, locking the car. "Before Jenna vibrates into another dimension."
+

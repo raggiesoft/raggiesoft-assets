@@ -1,0 +1,97 @@
+# Part 1: The Sofa (October 2001)
+
+The announcement hadn't been a scream. It hadn't been a dramatic fight with broken plates. It had been a conversation at the dinner table, delivered with the cold, sterile efficiency of a legal deposition.
+
+*“Your father and I are taking some time apart.”*
+
+That was the phrase. Under the Commonwealth of Virginia law, to file for a no-fault divorce, a couple had to live "separate and apart" for one year. For the Averys, with eight children and a tight budget, "separate and apart" started with the beige microfiber sofa in the den.
+
+It was 11:30 PM. The house was finally quiet, but it was a heavy, suffocating silence.
+
+Jessica was gone. She was a freshman at CPI now, living in a dorm in Blacksburg, escaping the blast radius. That left Paige and Freddie as the senior officers on the deck of a sinking ship.
+
+Freddie stood in the hallway, clutching his toothbrush like a talisman. He was vibrating. It was a subtle, high-frequency tremor that started in his hands and rattled his teeth. The "Architecture" of the house had changed. The Master Bedroom—the command center—was now solely occupied by his mother. His father was an exile in the den. The geometry of the family was broken.
+
+"Come on," Paige whispered, appearing at his elbow. She was wearing her oversized t-shirt and holding her pillow. "Brush teeth. Then bed. We stick to the routine."
+
+"The routine is invalid," Freddie murmured, staring at the closed door of the Master Bedroom. "The variables have shifted."
+
+"The house routine is broken," Paige corrected gently, steering him toward the bathroom. " *Our* routine is fine. We are the constant."
+
+They brushed their teeth in silence, the rhythm of the bristles against enamel providing a brief moment of familiarity. When they finished, they walked back into the hallway.
+
+To get to their bedroom, they had to pass the den.
+
+The television was on, playing a late-night talk show at low volume. The blue light flickered against the walls. Robert was lying on the sofa, a tangled mess of sheets and a scratchy wool blanket pulled up to his chest. He looked smaller than Freddie remembered. He looked like a guest who had overstayed his welcome.
+
+Freddie stopped. He couldn't help it. Seeing his father on the couch—the place where they watched movies, not where people *slept*—was a glitch in the matrix.
+
+Robert rolled over. He blinked, squinting at his children in the semi-darkness.
+
+"Hey," Robert croaked, his voice rough with sleep and misery. "You guys okay?"
+
+Freddie didn't answer. He couldn't. He just stared at the wool blanket.
+
+"We're fine, Dad," Paige said, her voice cool and detached. She put her hand on Freddie’s back to guide him forward. "Goodnight."
+
+"Wait," Robert said, sitting up slightly. He rubbed his eyes, looking at Paige, then at the pillow tucked under her arm. Then he looked at Freddie, who was clearly heading toward the same room.
+
+"Paige?" Robert asked, a frown creasing his forehead. "Where are you going?"
+
+Paige paused. "To bed."
+
+"In Freddie's room?"
+
+"It's *our* room, Dad," Paige said, the irritation flaring instantly. "We've shared a room since we were babies."
+
+"I know you share a room," Robert said, shifting uncomfortably on the narrow sofa cushions. "But... you're taking your pillow. Are you sleeping *in* his bed?"
+
+The question hung in the air, heavy and accusing.
+
+Freddie took a step back, hiding behind Paige's shoulder. He felt a spike of shame, hot and sharp. He knew, logically, that sixteen-year-olds weren't supposed to share beds. He knew the social data said it was weird. But he also knew that without the deep pressure of Paige’s presence, the night terrors would tear him apart.
+
+Paige didn't step back. She stepped forward.
+
+"Yes," she said. "I am."
+
+"Paige," Robert sighed, running a hand through his thinning hair. "You're sixteen now. You're almost adults. It's... it's not appropriate anymore. You need your own space. Freddie needs to learn to sleep on his own."
+
+Paige stared at him. The silence stretched for five seconds, ten seconds. When she finally spoke, her voice wasn't loud, but it was trembling with a rage so pure it felt like heat radiating off her skin.
+
+"Appropriate?" she whispered.
+
+She gestured to Freddie, who was now rocking slightly on his heels, his eyes squeezed shut to block out the confrontation.
+
+"He wakes up screaming three nights a week, Dad. He shakes so hard his teeth chatter. The only thing—the *only* thing—that stops it is deep pressure. I have been sleeping in that bed every single night since we were twelve years old."
+
+Robert blinked, looking stunned. "Twelve? No. I would have noticed."
+
+"You didn't notice," Paige snapped. "You didn't notice the night terrors. You didn't notice the sensory overload. You didn't notice that he spent three hours in the closet last week because you and Mom were screaming about the credit card bill."
+
+She took a breath, her voice cracking. "You don't get to sleep on the couch for one night and suddenly decide you have an opinion on how we survive this house. You checked out years ago, Dad. Do not pretend you care about the sleeping arrangements now."
+
+Robert opened his mouth, but no words came out. He looked at Freddie—really looked at him—and saw the sixteen-year-old boy cowering behind his sister, vibrating with anxiety. He saw the truth of it, the years of missed data points, the entire reality of his children's lives that he had missed while he was at work or staring at the television.
+
+"I..." Robert stammered. "I just thought..."
+
+"Go back to sleep, Dad," Paige cut him off.
+
+She turned to Freddie, her demeanor softening instantly. "Come on. Let's go."
+
+She led Freddie past the den, past the father who was a stranger in his own home, and into their bedroom.
+
+She shut the door. She locked it.
+
+"Safe," Paige whispered.
+
+Freddie stood in the center of the room, shaking. "He said it was inappropriate. He said I have to learn."
+
+"He doesn't know the schematic," Paige said firmly, tossing her pillow onto the bed—*their* bed. "He's working off old data. We ignore him."
+
+She climbed in, patting the space beside her. "Deployment positions. Come on."
+
+Freddie hesitated for only a second. Then, the need for safety overrode the shame. He climbed into the bed, curling onto his side. Paige wrapped her arm over him, pulling the quilt tight, sealing them into their capsule.
+
+Outside in the den, the TV flickered on the face of a man who realized, far too late, that he had lost his family long before he lost the house.
+
+

@@ -1,0 +1,12 @@
+# Part 1: The Empty Seat (Monday, January 12, 2004)
+
+Vera Kowalski walked into her first English 101 class at the CCHR Portsmouth campus with a sense of triumphant ownership. The past month had been an exercise in frustration—Alex had been distant, his parents frosty—but today was the day her plan came to fruition. This was *their* campus. *Their* schedule. She had the printout Alex had given her, the one she had so carefully orchestrated.
+
+She chose two seats near the back and placed her bag on the one next to her, saving it for Alex. She waited. The classroom filled up. The professor started the lecture. The seat beside her remained empty.
+
+Her initial confidence began to curdle into a hot, angry confusion. Where was he? Had he overslept? Had his parents interfered again? She spent the entire class shooting furious, unanswered text messages to his phone.
+
+The scene repeated in their next scheduled class, World History. The empty seat beside her was no longer just a space; it was a glaring, public indictment. By the end of the day, her confusion had morphed into a full-blown, paranoid rage. He had stood her up. He had defied her.
+
+And she knew exactly who was to blame. It was them. All of them. His suffocating parents, who never thought she was good enough. That mousy little "best friend" Chloé, who had wormed her way back into his life. And worst of all, that cousin of his, Megan—the perfect, pretty, quintessential "college hottie" who thought she was so clever. They had gotten to him. They had poisoned him against her. He had defied her. And he was going to pay for it.
+

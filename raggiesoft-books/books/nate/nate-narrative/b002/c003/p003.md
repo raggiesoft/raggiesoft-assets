@@ -1,0 +1,52 @@
+# Part 3: The Descent and the Plush Mountain (2:00 PM)
+
+The giant, cheese-covered pretzel had been successfully dismantled and devoured by Emma, with Francis and David happily finishing off the scraps. The mood at the massive, pushed-together table was lighter than it had been in years.
+
+"Alright," Evelyn announced, checking her watch and brushing a few stray salt crystals off the table. "We have exactly two more stores to hit before we head back to the house to start wrapping. Next stop is downstairs."
+
+Sarah stood up, unlocking the brakes on Nate’s wheelchair. "You heard the commander. Back to the insertion point. Wheelchairs to the glass cab, walkers to the steel dinosaur."
+
+The family moved with that same, effortless military precision. They navigated back out of the food court toward the massive center atrium. Once again, they split the party. Francis, David, and Sarah guided the three wheelchairs into the glass elevator with Evelyn, while the rest of the aunts and cousins stepped onto the descending metal plates of the escalator.
+
+As the glass elevator dropped smoothly toward the ground floor, Nate watched his family riding the escalator parallel to them. It felt surreal. For two years, he had been isolated, told he was a burden, and forced to shrink himself to fit into Valerie's rigid, unforgiving world. Now, he was taking up space in the middle of a crowded mall, completely flanked by a fourteen-person security detail that didn't just accommodate him—they actively built their entire world around him.
+
+The elevator doors chimed and slid open on the ground floor. They waited by the base of the escalators for a few seconds until the walking phalanx stepped off, instantly reforming the protective perimeter around the wheelchairs.
+
+"Lead the way, Jess," Francis said, carrying Emma on his shoulders.
+
+"Right around the corner," Jessica smiled, pointing toward the main concourse.
+
+They didn't have to walk far. The storefront was impossible to miss. A massive, glowing marquee framed by a sculpted, overarching filmstrip beckoned them in, while a larger-than-life animated bear in an aviator jacket stood at the entrance. The ToonWorks Studio Store was a vibrant, chaotic explosion of color, moving character displays, and upbeat, orchestral soundtrack music.
+
+Normally, the sensory input of a store like this on December 23rd would send Nate into an immediate tailspin. It was bright, it was loud, and it was packed wall-to-wall with frantic parents. But sitting between Brittany and Megan, completely boxed in by his aunts and cousins, the noise didn't penetrate the armor. It just felt like background static.
+
+"Stay in formation," Sarah joked, keeping her grip steady on Nate's push-handles as they navigated the crowded aisles.
+
+Jessica led the charge straight toward the back of the store, stopping right in front of the holy grail of 90s and early-2000s retail design: a massive, tiered mountain display overflowing with hundreds of perfectly stacked plush toys from the studio's classic animated movies.
+
+Francis lifted Emma off his shoulders and set her down on the carpet. Emma’s eyes widened to the size of saucers. She looked back at her mother, completely overwhelmed by the options.
+
+"You earned it, bug," Jessica smiled, kneeling down to Emma's eye level. "Pick one. Any one you want."
+
+Emma didn't hesitate. She waddled straight up to the bottom tier of the mountain, her light-up sneakers flashing with purpose. She dug her little hands into the pile, bypassing the princesses and the aviator bears, until she found exactly what she was looking for: a massive, incredibly soft plush of a floppy-eared, golden rescue hound. It was almost half her size.
+
+She wrapped her arms around the stuffed dog, dragging it backward out of the pile, and marched directly over to Nate's wheelchair.
+
+Instead of showing it to her parents, Emma hoisted the giant, floppy-eared hound up onto Nate’s lap, resting it right over his knees. She patted the plush dog on the head, looking up at Nate with a fiercely proud, gap-toothed smile.
+
+"Uncle Nate's dog," Emma announced to the entire store, her Terrible Twos possessiveness striking again. She then pointed a tiny, accusatory finger at a passing shopper who happened to glance in their direction. "*My* Uncle Nate!"
+
+The shopper smiled politely and hurried away, clearly not wanting to mess with the toddler's territory.
+
+Megan let out a loud snort of laughter from her transport chair, while Brittany covered her mouth, her shoulders shaking with silent giggles.
+
+"I think she just assigned you a guard dog, buddy," Francis laughed, walking over to check the price tag on the hound's ear.
+
+"It's a good dog," Nate smiled, resting his hands on the incredibly soft plush fabric. The weight of the toy on his lap actually felt nice, acting like a miniature weighted blanket against his legs. He looked down at his two-year-old cousin. "Thank you, Emma."
+
+Emma nodded with absolute toddler authority, satisfied that her uncle was sufficiently protected.
+
+Jessica pulled her wallet out, grinning at Francis. "Go pay for the guard dog. The rest of us are going to slowly move this convoy toward the exit before it gets any more crowded in here."
+
+Nate leaned back against his chair, his hands resting on the plush hound. The mall was absolute chaos, the holiday rush was peaking, and the sensory noise was at maximum volume. But completely surrounded by his sisters, his cousins, and his fierce, tiny bodyguard, he was completely untouchable.
+

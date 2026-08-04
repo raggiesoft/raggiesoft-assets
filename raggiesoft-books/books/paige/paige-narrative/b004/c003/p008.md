@@ -1,0 +1,112 @@
+# Part 8: The Pasco Lock
+
+## Friday, May 7, 2004 — 14:15 PM (PST) Pasco Intermodal Terminal, Family Restroom
+
+The door to the Family Restroom clicked shut. Vanessa threw the deadbolt with a sharp, metallic clack.
+
+The room was small, smelling of industrial bleach and stale water. The fluorescent light overhead buzzed with a dying, flickering hum that grated against Freddie's nerves like sandpaper.
+
+Freddie leaned against the sink, his legs trembling uncontrollably. The pressure sore on his lower back was a "fire burning on his skin," throbbing in time with his racing heartbeat. He just wanted to sit down. He just wanted water.
+
+But Vanessa didn't move to the sink. She moved to him.
+
+She stepped into his personal space, pressing him back against the cold tile wall. Her eyes were bright, almost feverish. She wasn't looking at him with kindness; she was looking at him with expectation.
+
+"We're alone," Vanessa whispered, her voice tight. "Finally. No sisters. No bus driver. Just us."
+
+She placed her hands on his shoulders, her grip tight, digging in.
+
+"Stop shaking, Freddie," she commanded. "Stop being the victim. I want to see the *real* you. I want to see the Wolf."
+
+Freddie blinked, the buzz of the light seeming to get louder. "Wolf?"
+
+"The part of you that takes what he wants," Vanessa hissed, pressing her body against his. "The primal part. The part that isn't afraid to break the rules."
+
+She reached for the waistband of his jeans.
+
+"Let's make this real. Sunday morning is coming, Freddie. Do you know what the scripture says about Sunday morning?"
+
+Freddie shook his head, his breath hitching. "No data."
+
+"It says a man shall leave his father and mother," Vanessa recited, her voice taking on a strange, fanatical edge, "and he shall **cleave** to his wife."
+
+Freddie’s eyes widened behind his glasses. The word hit him like a physical threat.
+
+"Cleave?" Freddie stammered. "Like... to cut? Like a butcher?"
+
+"Like glue!" Vanessa laughed, but it wasn't a happy sound. It was impatient. "No, Freddie. You leave them behind. You cut them off. You sever the limb to save the body. That’s what we’re doing. You have to cleave to me."
+
+"I do not want to be cut," Freddie whispered, terrified. "I do not want to amputate."
+
+"Stop talking!" Vanessa snapped. She was losing patience with his literalism. She grabbed his hands and forced them onto her hips. "Stop thinking! Feel! Be the Wolf, Freddie! Take this!"
+
+She kissed him. It wasn't soft. It was aggressive. She ground her hips against him, trying to force a reaction, trying to drag a response out of his exhausted, pain-racked body.
+
+Freddie flinched violently. The sensory input was overwhelming—her perfume, the hum of the light, the pain in his back, the terrifying image of a meat cleaver severing him from Paige.
+
+"Negative," Freddie rasped, pulling his head back. "Stop. Variable rejected."
+
+"Don't you dare reject me," Vanessa growled, pulling him back in. "I kidnapped you for this! I dragged you across the country to set the animal free! Now show me!"
+
+"Refusal!" Freddie shouted, panic rising.
+
+He didn't just pull away. He shoved her. It was a frantic, clumsy shove of survival, fueled by the terror of being "cleaved."
+
+Vanessa stumbled back, her hip hitting the hard plastic of the baby changing table.
+
+The rejection hit her like a physical blow. To Vanessa, who used sex as control, this wasn't just a "no." It was an insult. It was a declaration that she—even here, alone, offering herself—wasn't enough to wake the "man" inside him.
+
+The mask shattered.
+
+"You ungrateful little freak!" Vanessa screamed.
+
+The sound was deafening in the tiled room. It bounced off the walls, a sonic weapon.
+
+"I am trying to save you!" she yelled, her face twisting into ugliness. "I am trying to give you a life! And you just stand there shaking like a child! You ruin everything, Freddie!"
+
+"Please," Freddie whimpered, sliding down the wall to the floor, covering his ears. "Too loud. Too loud."
+
+"Oh, now it's too loud?" Vanessa shrieked, looming over him. "You didn't mind the noise when Paige was babying you! But when I want something? When I want one moment?"
+
+She didn't just scream. She lashed out.
+
+She swung her hand and slapped him. Hard.
+
+**CRACK.**
+
+Her palm connected with the side of Freddie's face, knocking his glasses askew and snapping his head to the side. The sound was sharp and shocking in the tiled room.
+
+Freddie gasped, a sharp intake of air. The pain was immediate, but the shock was worse. Tears sprang to his eyes instantly. He let out a sob—a raw, broken sound of absolute betrayal.
+
+He dropped to the floor, curling into a tight ball against the dirty tiles. He covered his head with his arms, burying his face in his knees.
+
+"Please," Freddie wept, his shoulders shaking. "Please don't. No cleaving. No more."
+
+"Pathetic," Vanessa spat, looking down at him with pure disgust.
+
+She checked her watch. The bus for Seattle departed in four minutes.
+
+She looked at the door. She could leave him. She could walk away right now.
+
+But if she arrived in Seattle alone, she was just a girl who ran away to live in a trailer. She was a failure. If she arrived with *him*, she was still the leader. She was still the one in charge. She needed him as proof that she had done something.
+
+"Get up," she commanded coldly.
+
+Freddie didn't move. He was in full system lockout, rocking slightly, humming a low note of distress.
+
+"I said, get up!" Vanessa yelled.
+
+She didn't wait for him to comply. She bent down and grabbed a handful of his orange hoodie near the shoulder. She grabbed his upper arm with her other hand, her nails digging in.
+
+She yanked.
+
+It wasn't a helping hand. It was a dead-lift.
+
+"No!" Freddie shrieked as he was hauled upward.
+
+His spastic legs, stiff from days of travel, didn't want to unbend. His feet scrambled uselessly on the slick tile. The sudden movement stretched the skin on his lower back, tearing the pressure sore wide open.
+
+Vanessa didn't care. She dragged him up, hauling his dead weight until he was forced to stand or fall. She shoved him toward the sink.
+
+"Wash your face," she hissed, breathing hard from the exertion. "Put your glasses on. We are getting on that bus, and you are going to smile."
+

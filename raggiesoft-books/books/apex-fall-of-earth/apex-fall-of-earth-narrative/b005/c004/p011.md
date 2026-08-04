@@ -1,0 +1,58 @@
+# Part 11: The First Landing – Friday, May 10, 2045 – 17:30
+
+The warm saltwater of the indoor pool lapped gently against the smooth stone edge. Wyatt and Sarah rested their arms on the lip of the basin, completely bare, looking out through the massive hydro-glass window.
+
+The violent super-cell had finally exhausted itself. The torrential sheets of rain had softened into a steady, misty drizzle, and the dark, bruised clouds were beginning to break apart, allowing a few faint, dusky rays of the setting sun to hit the waterlogged valley far below.
+
+The river, which just yesterday was a gentle, crystal-clear ribbon winding through the trees, was now a massive, churning expanse of muddy brown water that stretched all the way to the canyon walls.
+
+"It's hard to believe we were just standing down there yesterday morning," Sarah murmured, her eyes tracing the submerged canopy of the alien pines. "We planted our first garden right there in the dirt. We laid out the string grid."
+
+"The string is definitely gone," Wyatt chuckled softly, his thumb tracing the wet curve of her bare shoulder. "But the valley will bounce back. It’s an ecosystem designed to flood."
+
+Sarah rested her chin on her folded arms. Despite the absolute luxury of the billionaire's estate, a part of her heart was still anchored to that muddy patch of earth. It was the first place she had ever felt truly free. It was where they had claimed their new names.
+
+"I want to see it again," Sarah said, a quiet longing in her voice. "The First Landing Site. I want to stand exactly where we parked *The Nomad* when we first arrived."
+
+She looked up toward the ceiling of the cavern.
+
+"Aria, the floodwaters crested at twenty-one meters. Where are we at now?"
+
+*"The localized telemetry indicates the water level has currently receded to nineteen meters, Sarah,"* Aria reported, the sensors perfectly tracking the massive displacement of water. *"The storm front has passed the eastern ridge, and upstream precipitation has dropped to nominal levels."*
+
+"Two meters in a few hours," Wyatt noted, his mechanic's brain running the fluid dynamics. "It's moving fast."
+
+"How long until the valley floor is dry?" Sarah asked the AI. "Since there are no dams or artificial levees downstream, how long does it naturally take for nineteen meters of floodwater to completely empty out of a basin like that?"
+
+*"Because the downstream topography is an entirely unobstructed natural gradient, the drainage velocity is exceptionally high,"* Aria explained, her synthesized voice echoing smoothly over the gentle cascade of the indoor waterfall. *"The primary volume of the floodwater will return to the central riverbed in approximately ten to fourteen days."*
+
+"Two weeks," Sarah smiled, looking at Wyatt. "That's not bad at all."
+
+*"However, Sarah, I must add a geological caveat,"* Aria continued. *"While the standing water will be gone, the topsoil of the alluvial plain will be severely waterlogged. Silt and mud deposits will be up to a meter thick in some areas. For the ground to be structurally stable enough to support your weight without sinking, you will need to allow an additional two to three weeks of localized solar evaporation."*
+
+"So, roughly a month," Wyatt calculated, doing the math in his head. "By mid-June, the valley will be green again, and the ground will be solid enough to walk on."
+
+"Mid-June," Sarah repeated, her smile widening as she looked back out the window.
+
+It gave them a perfect, tangible milestone. They would spend the next month completely mastering the mountain estate. They would study in the library, explore the fabrication foundry, and build their lives in the absolute safety of the bedrock. And then, when the valley finally healed, they would take a hike down the mountain.
+
+They would walk barefoot back into the clearing, stand exactly where their journey on Exoplanet 4 had begun, and celebrate their one-month anniversary on a virgin world.
+
+"It’s a date," Wyatt promised, leaning over to kiss her wet cheek. "Mid-June. We'll pack a lunch from the kitchen, hike down the ridge, and check on our real estate."
+
+"I can't wait," Sarah breathed, closing her eyes and leaning fully into his embrace.
+
+They lingered in the saltwater pool for another half hour, the soothing, un-chlorinated water completely relaxing the last lingering knots of tension from their university studies and their architectural planning.
+
+When the sun finally dipped completely below the horizon, plunging the flooded valley outside into deep, peaceful shadows, they climbed the stone steps out of the water.
+
+They dried off with the incredibly plush, heated towels from the teakwood shelves, dropped them into the pneumatic laundry chute, and walked hand-in-hand down the quiet, softly lit corridor.
+
+The estate was perfectly silent, entirely secure, and completely theirs.
+
+When they reached the master suite, the localized geothermal fireplace was already casting a warm, flickering glow across the massive Alaskan King bed. Sarah pulled the heavy duvets back, and they climbed into the exact center of the colossal mattress, entirely bare and entirely exhausted.
+
+Wyatt wrapped his arms securely around her, pulling her back flush against his chest, just as he had done on the rusted bunk beds of the NTTR and the thirty-inch sofa of *The Nomad*. The location had changed to unimaginable luxury, but the anchor was exactly the same.
+
+Sarah rested her hands over his, listening to the soft, rhythmic drumming of the lingering rain against the hydro-glass, and let the absolute certainty of their future pull her to sleep.
+

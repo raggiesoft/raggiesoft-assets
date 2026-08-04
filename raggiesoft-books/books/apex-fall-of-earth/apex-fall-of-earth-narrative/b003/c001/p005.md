@@ -1,0 +1,48 @@
+# Part 5: The Break – Thursday, October 20, 2044 – ~11:00 (Six hours into the shift)
+
+Six hours into the shift, the overhead PA system chimed with a dull, two-tone electronic bell. Mid-shift meal rotation.
+
+Wyatt looked back at Sarah. The grueling repetition of the patrol had left a fine layer of sweat and industrial dust on her face, but she didn't look like she was on the verge of a panic attack anymore. She actually looked steady.
+
+"Mess Hall?" she asked, wiping her brow with the back of her slate-blue sleeve.
+
+Wyatt thought about the deafening roar of that cavernous room, the blinding Apex recruitment billboards, and the sea of miserable, shoulder-to-shoulder contractors staring at the walls. He shook his head.
+
+"No," he told her. "I saw a secondary break area a few sectors back. It's mostly used by the maintenance crews, but they're all deep-core right now. It'll be empty."
+
+He led the way back through the maze of catwalks, eventually ducking through a heavy, yellow-striped blast door into a small, neglected lounge. It was a massive downgrade from the Mess Hall, which was saying something. The room contained three scratched, wobbly metal tables and a bank of flickering vending machines dispensing chalky protein bars and lukewarm, canned synthetic water.
+
+But it was quiet. There were no cameras, no red-banded supervisors, and no Apex scientists to look down on them.
+
+Wyatt swiped his contractor ration card, grabbed two dense, foil-wrapped protein bars, and tossed one to Sarah. She caught it with a tired smile and dropped into a plastic chair across from him at the wobbly table.
+
+As they both tore into the terrible food, the silence in the room wasn't heavy or awkward. It was actually comfortable. The corporate armor they both put on that morning started to lower.
+
+Without the constant threat of management breathing down their necks, they just talked. They talked about normal things—the kind of trivial, everyday nonsense that felt like a luxury hundreds of feet underground.
+
+"I appreciate you not saying anything earlier," Sarah said suddenly, looking down at her bright uniform. "About this. I know I stick out like a sore thumb down here. I was waiting for you to make a joke about the Helios gear the second we left the checkpoint."
+
+"Tearing you down wouldn't make the patrol go any faster," Wyatt said simply, taking a bite of his ration bar.
+
+"The HR guy in the holding room told us our uniforms were a trademark violation," she continued, rolling her eyes with a heavy sigh. "He said management is going to issue me standard S.H.O.P. Marine armor at the end of the shift so I actually blend in."
+
+Wyatt nodded slowly. He knew exactly how Apex supply chains worked, and he highly doubted a minimum-wage acquisition transfer was going to get brand-new tactical gear within her first month, let alone her first shift. But he didn't want to crush her hope. Instead, he just let out a low, genuine laugh and told a story about a foreman on his old deep-sea rig who had accidentally welded his own toolbox to the deck trying to show off in his new gear.
+
+Sarah broke into a bright, uninhibited smile that completely transformed her exhausted face.
+
+Wyatt watched her as she laughed. She wasn't just a terrified kid anymore; she was resilient, sharp, and genuinely funny. As she talked, his eyes drifted to her hands, then back to her face. A quiet thought crossed his mind: *Is there a guy back home?* Someone she was trying to help support, or someone waiting for her eighteen-month contract to end? He didn't ask. He was trying to build trust, and prying into her personal life on day one felt like a line he shouldn't cross.
+
+Across the table, Sarah went quiet for a moment, taking a sip of the lukewarm synthetic water. She looked right at him, her eyes tracing his broad shoulders, his scarred hands, and the quiet, steady posture that had kept her grounded all day. She bit the inside of her cheek, a thoughtful, almost hesitant look crossing her face. Wyatt could practically see the gears turning in her head—maybe she was wondering the exact same thing about him, trying to figure out if someone was missing him back on the water-world.
+
+But just like him, she kept the thought strictly to herself. She didn't push. She didn't want to make things weird or ruin the safest dynamic she had found in this hellhole.
+
+"You know," Sarah said, resting her elbows on the scratched metal table, "when I saw this place this morning, I thought I wasn't going to make it a week."
+
+She looked right at him, the flickering neon light reflecting in her eyes.
+
+"But this..." She gestured vaguely between the two of them. "I think we can actually survive this contract, Wyatt."
+
+Wyatt finished the last bite of his chalky ration bar, feeling a strange, unfamiliar sense of optimism settle in his chest.
+
+"Yeah," he agreed quietly, offering a small, grounded smile. "I think we can."
+

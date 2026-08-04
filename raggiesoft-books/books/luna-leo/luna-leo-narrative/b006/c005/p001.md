@@ -1,0 +1,48 @@
+# Part 1: Turnpike Wonders
+
+Spring Break of the twins’ sophomore year (April 2001) arrived, bringing with it the promise of their first real vacation since Stella had become their guardian. It was also the first long road trip for Stella's Holt Sentinel. Packed comfortably into the spacious blue sedan were Stella, Luna, and Leo. Following close behind in Arthur’s own comfortable car were Arthur and Eleanor Bennett. Their destination: Aquidneck Island, Rhode Island – a trip back to the grandparents' old stomping grounds.
+
+The drive north from Virginia Beach was smooth but long. Stella handled the Sentinel with growing confidence, the big car eating up the miles on US-13 and the built portions of Delaware Route 1. After crossing the Delaware Memorial Bridge and navigating onto the New Jersey Turnpike, Arthur's voice crackled over the walkie-talkie they used to communicate between cars.
+
+"Getting hungry, Stella? There's a big service area coming up in a few miles, the Clara Barton. Good place to stretch our legs, grab some lunch, and top off the tanks before we get back on the road."
+
+"Sounds good, Grandpa!" Stella replied. She followed the signs directing traffic off the main northbound highway lanes and up dedicated exit ramps leading to the side, into the service plaza. As they pulled into the sprawling complex, Stella, Luna, and Leo looked around in surprise. This wasn't like the simple rest stops or gas stations off highway exits they were used to back home. A massive building, like a small terminal, sat off to the side, surrounded by vast parking lots, clearly housing multiple restaurants, shops, and amenities. It felt much larger and more self-contained than anything they'd seen just off a highway before.
+
+"Whoa," Luna breathed, looking at the large building as Stella found a parking spot near the main entrance. "It's huge!" Leo wheeled his chair closer to the curb, gazing at the scale of it. Stella, too, felt a bit overwhelmed; she'd never encountered anything quite like these dedicated Turnpike service plazas before.
+
+They maneuvered Leo's chair up the ramp into the bustling service building, meeting Arthur and Eleanor inside. The variety of food choices was impressive compared to a typical highway exit. They eventually settled on burgers and fries, finding a table amidst the lunchtime crowd and taking a much-needed break from driving.
+
+As they ate, Arthur pulled out a folded road map, spreading it partially on the table. "Okay, quick route review while we're stopped," he said, pointing with his pen. "Once we leave here, the Turnpike splits pretty soon – separate roadways for cars and trucks for a long stretch. We stay in the 'Cars Only' lanes. Then, instead of following the turnpike straight up towards the George Washington Bridge..." he shook his head emphatically, "...we're going to cut over to the Garden State Parkway north."
+
+Stella leaned closer, looking at the map. "Why not the GWB?"
+
+Arthur gave a short, humorless laugh. "Because, sweetheart, unless you enjoy sitting in traffic that makes molasses look speedy, you avoid the GWB, the Trans-Manhattan Expressway, and *especially* the Cross Bronx Expressway at all costs. The Cross Bronx is legendary... legendarily bad. It doesn't matter what time of day it is, morning, noon, night, middle of the night – it's *always* jammed. Nightmare traffic."
+
+He traced the alternate route on the map. "So, we take the Parkway up to the New York State Thruway, I-87. We follow that down to the Tappan Zee Bridge..." he tapped the map crossing over the Hudson River well north of the city. "...After the bridge, we pick up I-287 East for a bit, but then we're going to jump off onto the Merritt Parkway, Route 15." He looked up at Stella. "The Merritt is cars only, a bit winding, but it lets us skip all the I-95 traffic up through Bridgeport, Stamford, and Norwalk. Saves a lot of headaches. We'll take the Merritt up to the US-7 South exit in Norwalk, follow that for just a couple of miles, and it dumps us right back onto I-95 – the Connecticut Turnpike – just above the worst of the congestion. Then it's smooth sailing on 95 straight through to Mystic."
+
+"Isn't that way longer?" Stella asked, looking at the detour onto the Merritt and back.
+
+"Geographically? Yes, a little," Arthur confirmed. "Adds maybe an hour compared to I-95 *if* I-95 was clear. But I-95 through New York and southern Connecticut is almost *never* clear, and hitting the Cross Bronx... you could easily lose two, three hours, maybe more. This way," he tapped the Tappan Zee route again, "is almost always faster in reality, and certainly less stressful. Trust me on this one." Stella nodded, accepting her grandfather's experienced navigation strategy.
+
+After finishing their meal and using the restrooms, they headed back outside towards the cars. As they walked towards the parking lot, Arthur put a hand gently on Stella's arm. "One more thing, Stella. New Jersey gas stations. It's full-service only here, state law. You don't pump your own gas."
+
+Stella looked surprised. "Really? They pump it for you?"
+
+"Yep," Arthur confirmed. "So when you pull up to the pump, make sure your gas tank is on the correct side, then just turn off the car and wait. An attendant will come out and ask you what you need. Don't get out of the car. Just let them handle it."
+
+"Okay," Stella said, filing away the unusual information. "Good to know. Need to top off the tank anyways before we get back on the Turnpike," Stella said, getting into the Sentand driving over to the separate gas station area within the plaza complex. Remembering her grandfather's advice, she carefully chose a pump island so the car's fuel door was correctly positioned. She pulled up, put the car in park, turned off the engine, and waited, feeling slightly odd just sitting there.
+
+Sure enough, within seconds, a uniformed attendant approached her window. "Fill it up, regular?" he asked briskly.
+
+"Yes, please. Regular," Stella replied. As the gas began pumping, the attendant gestured towards the front of the car. "Check your oil for ya?"
+
+Remembering it was her first long trip with the car, Stella nodded. "Uh, yes, please. That would be great."
+
+The attendant efficiently popped the hood latch from inside, went to the front, raised the hood, pulled out the dipstick, wiped it, reinserted it, and checked the level. He then lowered the hood and came back to the window as the pump clicked off. "Oil looks perfect," he reported, before washing the front windshield. Stella paid him through the window when he was done, the full-service experience feeling quite thorough.
+
+Stella then carefully followed the signs to merge back onto the northbound Turnpike. As the ramp fed them onto the main highway, she saw exactly what Arthur had described: the wide expanse of asphalt splitting into two distinct roadways. Large overhead signs clearly directed trucks and buses right, while indicating "Cars Only" for the lanes to the left.
+
+Almost immediately, Arthur's voice came over the walkie-talkie. "Stay left, Stella. Cars Only lanes, remember?"
+
+"Okay, got it!" Stella replied, relieved she'd been prepared. She steered the Sentinel into the designated "Cars Only" lanes, another novel feature of this northern superhighway duly noted as they continued their journey north, following Arthur's carefully planned route to bypass the city bottleneck and southern Connecticut congestion.
+

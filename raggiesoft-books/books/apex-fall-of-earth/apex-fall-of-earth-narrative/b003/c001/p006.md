@@ -1,0 +1,55 @@
+# Part 6: 42-C – Thursday, October 20, 2044 – ~17:00 (The twelve-hour mark hit)
+
+The twelve-hour mark hit, and the overhead PA system let out a long, droning buzz. Shift change.
+
+Wyatt powered down his heavy Mark-IV flashlight and clipped it to his belt. The physical relief of being off his feet was immediately overshadowed by a sudden, unexpected weight in his chest. It was time to clock out, which meant it was time to part ways. He looked at Sarah, feeling a quiet pang of sadness. She had made the crushing reality of this hellhole actually bearable today.
+
+Sarah was looking back at him, her expression mirroring his exact reluctance. She wasn't just tired; she was dreading saying goodbye. He was the first person to treat her with actual respect, the only one who didn't stare at her when she was completely vulnerable in the communal washroom, and her safest anchor in a terrifying place. Going back to the chaotic barracks alone felt like a punishment.
+
+"I'm in Barracks 4," Wyatt told her, resigned to the reality of the schedule.
+
+"Me too," she said, a spark of hope lighting up her tired eyes. "My rotation just started."
+
+They both fell into step together, walking the long, neon-lit corridors back to the sprawling, multi-tiered concrete cavern of the S.H.O.P. Dormitories. The noise of coughing, snoring, and shuffling contractors washed over them. Wyatt led the way through the narrow, 64-inch aisles, counting the rusted metal scaffolding.
+
+Row 40. Row 41. Row 42.
+
+Wyatt stopped. He pointed down into the metal cubby at the thin, rumpled mattress resting directly on the cold concrete. Vargas was gone, having clocked in for the next shift. The bed was empty.
+
+Sarah stopped right beside him. She looked at the mattress, then down at the screen of her battered Apex datapad, and then back up at him.
+
+"42-C," she whispered, thoroughly confused. "That's my assignment."
+
+Wyatt checked his own pad. The blocky green text read the exact same thing: BUNK 42-C. SHIFT 3. His jaw tightened. He assumed it had to be a clerical error. A glitch in the automated HR system. They were both incredibly tired, every muscle in their bodies aching from the heavy boots and the concrete floors, and the thought of marching all the way back to the Security Checkpoint to fight with a supervisor over a bed assignment made his head pound.
+
+Sarah, however, was looking around. She peered down the dim aisle, her eyes adjusting to the flickering light.
+
+"Wyatt," she said quietly, tugging his sleeve. "Look."
+
+Wyatt followed her gaze. Three rows down, a single Twin XL mattress held two exhausted contractors—two guys crammed shoulder-to-shoulder under a thin gray blanket. Across the aisle, another bottom bunk held a man and a woman trying to sleep without touching.
+
+It wasn't a clerical error. It was Apex Defense Solutions. They didn't just institute hot-bunking; they over-hired to maximize the excavation timeline and simply doubled the capacity of the beds. Two people per mattress, per shift. Another predatory cost-cutting measure so corporate didn't have to build a second barracks.
+
+Sarah looked down at her slate-blue Helios uniform. The promised S.H.O.P. Marine armor from the intake official was nowhere to be seen. Another corporate lie. For a split second, Wyatt could see the urge to march back to the Checkpoint and demand answers flash across her face. But she remembered exactly what he had told her on the catwalks about complaining. If they went to Management, she wouldn't get a new uniform, and they wouldn't get a new bed. They would get written up for insubordination, or worse, separated and reassigned.
+
+"We just deal with it," Sarah said, her voice exhausted but resolute. She looked at the tiny mattress, then back to Wyatt. She trusted him. If she had to share a cramped bunk space with someone in this subterranean nightmare, she was profoundly glad it was him. "It's better than getting split up."
+
+Wyatt let out a slow, tired breath and accepted the reality of the situation. "Deal."
+
+He remembered the brief encounter from twelve hours ago. "The veteran who had this before us warned me about the mattress," he told her, dropping his canvas bag. "The springs on the right side are completely shot. Sleep on the left."
+
+They both kicked off their heavy steel-toed boots. Sarah crawled into the metal enclosure first, taking the interior side, pressing her back as close to the cold metal back wall as she could to make room.
+
+Wyatt squeezed onto the Twin XL right beside her. It was incredibly cramped. He took the exterior edge, keeping his broad, 6'1" frame between her and the open aisle to protect her from the heavy boots and prying eyes of the other contractors shuffling past.
+
+But a Twin XL was impossibly narrow for two people. To keep from spilling over the edge onto the cold floor, Wyatt had to turn inward. Sarah did the same, shifting away from the uncomfortable metal wall.
+
+They were suddenly facing each other in the dim light, inches apart under the scratchy gray Apex blanket. The proximity was jarring for a split second, but neither of them pulled away. Instead, Sarah let out a soft, exhausted sigh and closed the remaining distance. She rested her head against his chest, her arms naturally finding their way around his torso.
+
+Wyatt didn't hesitate. He wrapped his arms around her, pulling her close, resting his chin near the top of her head. It was a silent, undeniable confirmation. In the middle of this miserable corporate meat grinder, he had actually found someone he cared about.
+
+Under the blanket, the chaos of the Apex staging facility faded to a low, distant hum. They were both exhausted, but for the first time since stepping off those transport shuttles, Wyatt actually felt safe. The bunk was theirs for the next eight hours.
+
+He closed his eyes, holding her tight, and drifted off to sleep.
+
+

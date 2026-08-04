@@ -1,0 +1,60 @@
+# Part 3: The Harvest – Monday, October 24, 2044 – ~11:45
+
+Wyatt slowly let go of Sarah, the adrenaline of the near-miss finally settling into a dull ache in his shoulders. The station’s life-support manifold was humming with a steady, rhythmic thrum, pumping clean, cold oxygen back into the air vents.
+
+"Okay," Wyatt breathed, wiping his grease-stained hands on his canvas pants. "Let's get what we came for and get the hell out of the basement."
+
+He turned toward the heavy, chainlink storage cages tucked into the darkest, coldest alcove of the Engineering deck. This was the station's graveyard for obsolete 1970s hardware. Sarah stayed right on his heels, absolutely refusing to let the space between them grow larger than arm's reach.
+
+Wyatt unlatched a heavy brass padlock on one of the cages and began digging through a massive crate of spare parts. It was a chaotic mess of blown vacuum tubes, thick coaxial cables, and heavy iron fittings.
+
+"Here," Wyatt said, a triumphant grin breaking through the grime on his face. He pulled out a heavy, solid-brass timing gear and a thick rubber hydraulic gasket. "These are exact matches for the ebb-and-flow pump upstairs. Apex built everything on this rig with interchangeable industrial parts."
+
+"Thank God," Sarah muttered, eyeing the massive fission reactor nervously. "Can we go back to the garden now?"
+
+"Lead the way," Wyatt said, grabbing his black undershirt from the railing and throwing it over his shoulder.
+
+They climbed the heavy iron rungs back up to the central hub, the deafening roar of the reactor instantly dampening the moment Wyatt hauled the heavy floor hatch shut and threw the locking wheel. The terrifying mechanical chaos of the lower ring was sealed away, replaced once again by the quiet, insulated hum of their living quarters.
+
+It only took them two minutes to walk back down the corridor and push open the heavy bulkhead door to the Hydroponics Bay.
+
+The wall of humid, earthy heat hit them instantly, and Sarah let out a long, shuddering sigh of relief. The vibrant pink and purple glow of the UV lights felt like an absolute sanctuary compared to the harsh, flickering amber of the boiler room.
+
+Wyatt didn't waste any time. He knelt beside the massive, cast-iron secondary water pump, his wrenches clinking heavily against the steel deck plates. He pulled the rusted casing off the timer, popped out the stripped plastic gear, and slotted the heavy brass replacement directly into the mechanism. He tightened the bolts, fitted the new rubber gasket, and slammed the heavy bypass valve open.
+
+With a deep, mechanical groan, the secondary pump violently shuddered to life.
+
+Water rushed through the thick PVC piping, instantly flooding the far row of galvanized steel trays with nutrient-rich water. The ebb-and-flow cycle was fully restored.
+
+"Pump two is online," Wyatt announced, sitting back on his heels and wiping his brow. He looked up at Sarah, expecting her to be standing at the chemistry station.
+
+Instead, she was standing at the very back of the bay, completely hidden behind a dense canopy of broad green leaves.
+
+"Sarah?" he called out, standing up and dropping his wrench into his toolbox.
+
+"Come here," her voice floated back, laced with pure, unfiltered wonder.
+
+Wyatt walked down the central aisle, the water rushing steadily through the metal trays beside him. He ducked under a heavy UV bulb and found her standing in front of a heavily engineered, deep-space dwarf tree. Its thick, twisted branches were aggressively tethered to the iron bulkhead for support.
+
+Hanging from the thickest branch, gleaming under the synthetic lights, was a massive, perfectly round apple. It was a deep, bruised crimson, the skin stretched tight and heavy with juice.
+
+Sarah reached out, her fingers wrapping around the fruit. With a sharp, satisfying *snap*, she plucked it from the branch.
+
+She turned to Wyatt, her eyes shining. They had just fought the station for their oxygen, their hands were bruised, and the shadow of Earth's collapse was still hanging heavily over them. But right here, right now, they had won.
+
+Sarah lifted the apple and took a bite.
+
+A loud, incredibly crisp *CRUNCH* echoed over the sound of the water pumps. The bright, explosive sweetness was staggering. It wasn't the tart, acidic shock of the strawberries; it was a deep, rich, honeyed sweetness that instantly washed away the metallic taste of the ozone and the bitter adrenaline of the engine room.
+
+Sarah closed her eyes, letting out a soft groan of pure appreciation. She chewed, swallowed, and then held the apple out to Wyatt, her thumb resting gently over the bite mark.
+
+"Breakfast," she said softly.
+
+Wyatt took the apple, his grease-stained fingers wrapping carefully over hers for a brief second. He took a bite right next to where she had, the incredibly loud crunch making Sarah smile. The cold, sweet juice was the best thing he had tasted in years.
+
+He leaned back against the warm iron bulkhead, the apple in one hand, watching Sarah practically glow in the humid, living air of her garden.
+
+They were millions of miles from the worlds they knew, floating in a rusted tin can while a subterranean nightmare consumed everything they had left behind. But as Wyatt swallowed the sweet, crisp fruit and listened to the rush of the water pumps, he knew one thing with absolute certainty.
+
+They were going to be okay.
+

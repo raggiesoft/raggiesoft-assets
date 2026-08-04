@@ -1,0 +1,64 @@
+# Part 9: The 8:38 Sanctuary (6:15 PM)
+
+Evelyn walked back into the living room, carrying two heavy, thick-chassis laptops. She handed the silver one to Sarah and gently rested the dark gray one across Nate’s blanket-covered thighs. The warmth of the battery pack seeped through the thick knit fabric, providing an oddly comforting, steady weight against his legs.
+
+"I'll be in the kitchen making dinner," Evelyn said, brushing a hand affectionately through Nate's hair. "Take your time. Talk to the girls."
+
+Nate flipped open the heavy screen, waiting for the hard drive to spin up and connect to the house's wireless router. Beside him, Sarah was already logged in, the rapid clacking of her keyboard filling the quiet room.
+
+Nate double-clicked the icon for SwiftTalk. A moment later, the familiar, nostalgic *chime* rang out from his laptop speakers, announcing his presence. He immediately navigated past his empty FriendSphere page and clicked on the locked, invite-only chat room pinned to the top of his list: **8:38**.
+
+The screen was already a blur of blue and purple text. Sarah had clearly given them a brief tactical update while he was in the bath, but the moment his screen name entered the room, the chat exploded. The incoming message sound chimed so fast it practically overlapped itself.
+
+**Brittany:** *NATE!!!* **Megan:** *Omg you're there! Are you okay? Are you hurt?* **Jessica:** *We've been freaking out all afternoon. Thank god.* **Amanda:** *Nate, we are so glad you are home.*
+
+Nate stared at the glowing screen, his throat tightening. For months, Valerie had tried to convince him that these six girls didn't care about him, that his autism and his wheelchair made him a burden to them. Looking at the sheer volume of frantic, loving messages scrolling down the window, the absolute absurdity of her gaslighting was laid bare.
+
+He rested his fingers on the keys, took a deep breath, and typed his first message.
+
+**Nate:** *I'm home. I'm safe. I want absolutely nothing to do with Valerie ever again. We're done permanently.*
+
+The response was instantaneous, a collective digital cheer and a barrage of furious insults directed at his newly minted ex-girlfriend. But Nate wasn't finished. He needed to share the one thing that had fundamentally changed how he viewed himself today.
+
+**Nate:** *You guys know how much I used to hate my medical records. The Azoospermia. I hated that I could never start a family.* **Nate:** *But right before I called Mom, Valerie tried to trap me. She screamed that she was pregnant. She told me I couldn't abandon my child and tried to force me onto a cross-country bus.*
+
+The chat room froze for exactly three seconds as the cousins processed the sheer, calculated evil of the lie. Then, the fury poured in.
+
+**Lauren:** *She did NOT.* **Ashley:** *Are you kidding me right now? She is actually a psychopath.* **Megan:** *Thank god for the factory being shut down. Seriously. Best medical diagnosis ever.*
+
+**Nate:** *I know. I've never been so grateful for it in my life. It was like a bulletproof shield.*
+
+The digital room hummed with a fierce, protective energy. But now that the fortress doors were open, Nate needed to purge the rest of the poison. He needed them to understand exactly what he had been surviving in the dark.
+
+\[PLACEHOLDER FOR LOCAL GENERATION: THE ABUSE DETAILS\]
+
+*(Author's Note: Local generation via Dolphin. Nate types out the raw details of Valerie's psychological isolation, the weaponization of his wheelchair, and the specific cruelties she inflicted on him out of sight to control his ADHD and Autism.)*
+
+As the grueling details of the last few months scrolled across the chat window, the cousins didn't offer empty platitudes. They offered absolute, unyielding validation.
+
+But for Brittany and Megan, the validation went deeper. They didn't just sympathize; they understood it on a fundamental, neurological level. All three of the triplets shared the exact same cocktail of diagnoses: Autism, ADHD, and Cerebral Palsy. Nate was the only one whose CP required a wheelchair, but Brittany and Megan lived with the same spasticity, the same chronic fatigue, and the same sensory overloads.
+
+**Brittany:** *Nate, I am so incredibly sorry. Reading what she did to you... it makes me sick. And it makes me realize I've been making excuses for Ryan.* **Megan:** *Me too. Chris has been pulling the exact same isolation crap on me out here in Redmond. He uses my sensory burnout against me to keep me from leaving the apartment.* **Brittany:** *Ryan tells me I'm 'too much to handle' when my CP flares up, just to make me feel like I owe him for staying with me.* Nate watched the screen, his heart pounding. The 8:38 bond was firing on all cylinders. His escape had just ripped the blinders off of his two closest cousins.
+
+**Nate:** *You guys don't owe them anything. If I can get out, you can get out. You have to leave them.*
+
+**Megan:** *Way ahead of you, Nate. Chris got fired today. I took off my ring, packed my bags, and I'm sitting in a hotel near SEA. I am completely done.* **Brittany:** *And I just packed my bags while Sarah was typing earlier. Ryan isn't home, and I am leaving my keys on the counter. I'm out.*
+
+The chat room erupted again, Jessica, Amanda, Lauren, and Ashley flooding the screen with support for the triplets.
+
+**Nate:** *I'm so proud of you both. I really wish you were here right now. I miss all of you. Christmas can't come fast enough.*
+
+**Megan:** *Actually... about that.* **Brittany:** *We aren't waiting for Christmas, Nate.*
+
+Nate blinked, leaning forward slightly as his sister nudged him with her elbow, a massive, secretive grin spreading across Sarah's face.
+
+**Megan:** *I booked a one-way ticket on Meridian Airlines for tomorrow morning. Flight 492 out of Seattle.* **Brittany:** *Flight 492 has a layover in St. Louis. I just booked a seat on that exact same plane for the second leg.* **Megan:** *We are meeting at the gate in STL. We are flying into Norfolk together tomorrow afternoon.* **Brittany:** *We're coming home, Nate. For good. The triplets are getting back together.*
+
+Nate stared at the glowing blue text, his breath hitching. The tears that had finally stopped during his bath immediately welled up again, but this time, there was no fear or exhaustion attached to them. It was pure, unadulterated joy.
+
+He wasn't going to have to wait a month and a half. His two best friends, the girls who shared his exact birthday, his exact brain wiring, and his exact understanding of the world, were going to be in Virginia Beach in less than twenty-four hours.
+
+**Nate:** *I will be waiting right at the bottom of the escalators.*
+
+The fortress wasn't just secure. By tomorrow afternoon, the garrison would be fully reinforced.
+

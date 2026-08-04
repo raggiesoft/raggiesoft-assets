@@ -1,0 +1,43 @@
+# Part 8: A Sanity of a Sponge Bath
+
+The morning after their nightmare-fueled night was a study in fragile quiet. The attendant brought their breakfast on a tray, and Stella managed to coax a few more bites of French toast and some apple juice into her siblings. They ate mechanically, the food a necessary fuel, not a source of comfort.
+
+After the tray was cleared, Leo, feeling the grime of the previous day's travel and the emotional residue of the night, looked at Stella with a pleading expression. He typed a simple, desperate request on his Quantum Communicator.
+
+"I NEED A SHOWER. PLEASE. WASH AWAY THE GRIEF."
+
+"Of course, buddy," Stella said automatically, her caregiver instincts kicking in. "Let's get you cleaned up."
+
+She helped him to the door of the tiny en-suite bathroom, but the moment she opened it, the harsh reality of their situation hit them both. The toilet and the shower were crammed into the same tiny, confined space. There was no room to maneuver, no floor space for her to brace herself. She looked at Leo, then at Luna, who was still curled up on the lower bunk, lost in her own exhausted, silent world.
+
+And Stella knew. She couldn't do it.
+
+Lifting Leo was out of the question. Normally, she and Luna could manage it together, but Luna was completely incapacitated by her own meltdown. And Olivia... only Olivia had the kind of strength to manage such a difficult lift by herself. It was the one, critical detail Stella had not considered in all of her planning: she had never counted on Luna being so completely gone, leaving Stella as the sole, physically outmatched caregiver for her brother's needs.
+
+A wave of helpless, frustrated rage washed over her—rage at the situation, at the train's inaccessible design, at her own physical limitations. Her voice was a choked whisper, thick with unshed tears of frustration. "Leo... I'm so sorry. I... I can't. Not by myself. The space is too tight, and I can't get the leverage to lift you safely. I can't risk dropping you."
+
+Leo looked at the tiny, impossible bathroom, then at his sister's heartbroken face. He understood. The logic was undeniable. But the understanding didn't erase the deep, crushing disappointment. He was trapped in his grief, and now he was trapped in his own unwashed body.
+
+The train rumbled on, a steady, indifferent rhythm beneath them. Inside the small compartment, the violent storm of the meltdowns had passed, leaving a fragile, exhausted quiet in its wake. The twins were still huddled on the lower bunk, their grief a palpable presence in the room.
+
+Stella looked at her siblings, at their tear-streaked faces and the dishevelment of their day-old clothes, and a new, practical resolve hardened her own exhaustion. They couldn't stay like this. They needed to feel clean. They needed a reset.
+
+She first moved to the door and slid the small brass panel on the outside, covering the green "SERVICE" indicator and revealing the word "PRIVACY" in stark, red letters. They would not be disturbed.
+
+She turned back to the room. "Okay, guys," she said, her voice a soft but firm command. "Time to get cleaned up. All of us."
+
+There was no argument, only a weary compliance. They were all still in the clothes from yesterday. Luna, her own movements slow, helped Leo sit up and gently assisted him out of his clothes. Stella did the same for herself, and then Luna for herself. There was no modesty, no awkwardness. Privacy was a luxury they didn't need; safety was the only currency that mattered now.
+
+With all three of them undressed, Stella got to work. She filled the tiny sink with warm water, got a fresh washcloth and a bar of soap. She knelt first in front of Leo's wheelchair. "Your turn first, buddy," she whispered.
+
+She gave him a gentle but thorough sponge bath, her hands a testament to a lifetime of practiced, loving care. It was a poor substitute for a real shower, but it was warm, it was clean, and it was an act of profound love.
+
+When she was done with Leo, she turned to her sister. "Okay, Lu. Your turn." Luna, who had been sitting quietly on the bed, allowed her older sister to care for her with the same gentle efficiency.
+
+Finally, it was Stella's turn. She knew she could have used the tiny shower herself, but the thought of leaving her two vulnerable siblings alone, even for five minutes, was an impossibility. She gave herself a quick, practical sponge bath while remaining a constant, reassuring presence in the room.
+
+Once they were all clean, the process was reversed. Stella helped Leo get dressed in fresh, comfortable clothes, and then Luna and Stella dressed themselves. The simple act of being in clean clothes was a small but significant victory, a tiny step back toward normalcy.
+
+Stella took one last look around the small, private sanctuary they had created. She walked to the door and, with a final, decisive click, slid the panel back, covering the red "PRIVACY" indicator and revealing the green "SERVICE" sign to the world outside. They were ready to face the day, a broken but resilient fortress, held together by the quiet, unbreakable bonds of their shared care.
+
+

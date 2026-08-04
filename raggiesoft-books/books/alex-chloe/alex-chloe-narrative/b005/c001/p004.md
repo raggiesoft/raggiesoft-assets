@@ -1,0 +1,15 @@
+# Part 4: A Lesson in Virtualization
+
+That Saturday became a masterclass. With Chloé watching, completely fascinated, Alex began the setup. "Okay," she said, pulling up a chair. "Explain this to me like I'm not a computer genius. What are you actually *doing*?"
+
+Alex, in his element, became the teacher. He first installed Kinesis Virtual Engine on his main OS XN system. Then, he launched it and began the process of creating his first virtual machine.
+
+RIGHT NOW, his AAC explained, MY COMPUTER IS THE "HOST." WE ARE BUILDING A "GUEST." WE ARE TELLING THE HOST TO PRETEND THAT A SMALL PART OF ITS HARD DRIVE IS A BRAND NEW, COMPLETELY EMPTY COMPUTER.
+
+Chloé watched as he allocated memory and virtual hard drive space. Then came the part that felt like magic to her. Alex inserted the Quantum OS 98 CD-ROM into his AAC device. He configured the virtual machine to "boot" from the CD drive. A moment later, a familiar, old-school blue setup screen appeared in a window on his modern desktop.
+
+NOW, he typed, a triumphant grin on his face, WE ARE INSTALLING A COMPLETELY SEPARATE OPERATING SYSTEM, INSIDE A WINDOW. IT THINKS IT'S A REAL COMPUTER, BUT IT'S JUST A GUEST IN MY HOUSE.
+
+They spent the rest of the afternoon installing the operating systems, Alex patiently explaining each step, Chloé asking a million insightful questions. For her, it was a fascinating look into the depths of his technical world. For him, it was the ultimate joy: sharing his greatest passion with his favorite person. By the end of the day, he had two new, perfectly stable virtual machines, ready for his schoolwork, and Chloé had a new and profound appreciation for the brilliant, complex mind of her best friend.
+
+

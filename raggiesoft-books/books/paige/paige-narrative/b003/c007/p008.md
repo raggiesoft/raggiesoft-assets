@@ -1,0 +1,61 @@
+# Part 9: The All Clear
+
+## Monday, July 14, 2003 16:00 PM
+
+The heavy glass doors of **Archer Hall** pushed open, and the Avery Unit stepped out into a changed world.
+
+The sky was still a flat, featureless grey, and the rain was falling in a steady, relentless sheet, but the violence was gone. The wind had died down. The hail had melted into slushy piles in the gutters.
+
+The air smelled like ozone and shredded leaves—the signature scent of a storm that had just tried to kill something.
+
+"Transport inbound," Jessica noted, pointing toward the loop.
+
+The bus—a massive white transit vehicle with maroon and orange stripes—was splashing through the puddles, its headlights reflecting off the wet pavement.
+
+The amber LED sign above the windshield read: **1 FALLING BRANCH**
+
+"It's the Falling Branch run," Jessica confirmed. "It stops at Pepper Plaza on the way out."
+
+They walked to the shelter. Freddie moved stiffly. His adrenaline had crashed, leaving him with the "battery drained" feeling that made his limbs feel like lead. He kept his head down, focusing only on the heels of Jessica’s boots in front of him.
+
+They boarded the bus. It was crowded—everyone who had been sheltering in the library and the student center was now making a break for it.
+
+Freddie slid into a window seat. Paige sat next to him, immediately taking his hand and placing it on her knee, re-establishing the physical link. Jessica sat in the seat ahead, turning sideways to watch them.
+
+The bus driver, a heavy-set man with a mustache, had the radio playing softly over the speakers. It was tuned to **WNRV**, the local AM station.
+
+*"...folks, that was a close one,"* the radio announcer said, his voice crackling with static. *"We just got word from the Weather Service office out by the airport. They actually had to hand off forecasting duties to the Wakefield office for about ten minutes there. The meteorologists had to take shelter themselves when that rotation passed right over the radar dish."*
+
+Jessica shook her head. "It was right on top of them."
+
+"They saw the variable," Freddie murmured, staring out the window at the wet trees blurring by. "They reacted to the data."
+
+"They did," Paige agreed softly. "And so did we."
+
+The bus merged onto **Route 460**, the tires hissing on the wet asphalt. Freddie watched the rain streak horizontally across the glass.
+
+He felt empty. The day had taken everything.
+
+- The intellectual friction of the Human Sexuality class.
+
+- The social friction of Krystal’s harassment.
+
+- The sensory violence of the thunder.
+
+- The primal fear of the siren.
+
+He was operating on emergency power.
+
+"I require..." Freddie started, then trailed off. He didn't even have the energy to formulate the request.
+
+"I know," Paige whispered. "We're getting off at Pepper Plaza. We're going home. We're going to order pizza. We're going to turn off all the lights. And we're going to watch *Stellar Voyage*."
+
+"With the volume down," Freddie added weakly.
+
+"With the volume way down," Paige promised. "And subtitles on."
+
+Freddie leaned his head against her shoulder. The vibration of the bus engine was a steady, low-frequency hum that began to overwrite the memory of the siren.
+
+He closed his eyes. He wasn't the Captain right now. He wasn't the Architect. He was just a passenger, safe in the gravity well of his sisters, riding the Route 1 back to the only place where the static couldn't find him.
+
+

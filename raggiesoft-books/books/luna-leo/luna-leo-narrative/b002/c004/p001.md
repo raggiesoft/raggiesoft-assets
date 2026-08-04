@@ -1,0 +1,70 @@
+# Part 1: Stella to the Sore Rescue
+
+A few weeks after the pivotal call from Ms. Evans, Stella was visiting her parents' house on a Saturday afternoon. The air was stagnant, thick with the usual smell of stale beer and neglect. Luna was attempting homework at the kitchen table, while Leo was in his wheelchair in the cramped living room, listlessly watching whatever daytime television show was on. Stella went over to him. A loud burp echoed from the recliner. *Mother, that is disgusting, and you know it*, Stella thought to herself, seeing her mother down another can.
+
+"Hey, Leo," she said softly, kneeling beside his chair. "You look uncomfortable. Want me to help you shift position?"
+
+Leo gave a slight nod, his eyes still fixed on the TV. Stella gently took hold of his legs, preparing to help him adjust his seating as she and Luna often did. Because he couldn't reposition himself effectively, preventing pressure sores was a constant, low-level concern in the back of Stella's mind, something their parents rarely seemed to consider. As she carefully lifted his left leg to adjust his hip placement, her hand brushed against something damp on the back of his jeans, near his tailbone.
+
+Frowning, she gently pulled the waistband of his jeans back slightly. Her breath caught in her throat. There, against the pale skin just above his coccyx, was an angry red circle, the skin broken in the center, weeping slightly. It looked painful, inflamed. A pressure sore. Not just redness, but an open wound.
+
+"Oh, Leo," she whispered, horror washing over her. How long had this been there? How could her parents not have noticed? Anger surged, hot and fierce, quickly followed by a wave of guilt – had *she* missed it on her last visit?
+
+She quickly pulled his shirt down, trying to keep her expression neutral for Leo's sake, though her hands were shaking. "Okay, buddy, let's get you cleaned up," she said, her voice tight. She wheeled him towards the bathroom, her mind racing.
+
+After carefully cleaning the area and applying a makeshift bandage with gauze and tape she found in the sparsely stocked medicine cabinet, she went to find her mother, who was sitting on the back porch steps amidst a scattering of empty beer cans, nursing a fresh one. The stale alcohol smell clung to the air.
+
+"Mom," Stella said, trying to keep the tremor out of her voice. "Leo has a pressure sore. A bad one. It's open."
+
+Her mother took a slow sip of her beer, barely glancing up. "A what? Oh, probably just a little rash. He gets those. Put some cream on it."
+
+"No, Mom, it's not a rash!" Stella insisted, frustration making her voice sharp. "It's an open wound from sitting too long without being moved! He's clearly in pain! It needs proper medical attention. He needs to see a doctor!"
+
+Her mother shrugged, taking another drink. "He's fine. He didn't *say* he was in pain, did he? Don't make a fuss, Stella. You always make a fuss." She turned back to stare out at the yard.
+
+Stella stood there for a moment, stunned by the callous dismissal, the willful ignorance of Leo's inability to speak. *He can't SAY it, Mom! He shows it!* The thought screamed in her head. This wasn't just ignorance; it was willful neglect, fueled by alcohol and apathy. *How has CPS not been called before?* she wondered bitterly. Fine. If they wouldn't take him, she would. This just proved she was right. She *had* to get them out. And she needed to focus, finish school strong, get that good job so she *could* take them.
+
+She went back inside, forcing a calm she didn't feel. "Hey, guys," she announced to the twins, "I was thinking, maybe we could go out for ice cream? My treat."
+
+Luna looked up, surprised. Leo's eyes widened slightly – ice cream was a rare treat. He nodded eagerly.
+
+Making an excuse to her mother about needing to run an errand and wanting to take the twins for a bit, Stella carefully helped Leo into her Avalon, stowing his chair. With Luna beside her, she drove not to the ice cream shop, but straight to the nearest urgent care clinic she knew took walk-ins.
+
+The doctor who examined Leo was kind but professional, his expression growing concerned as he assessed the wound. "This is a Stage II pressure ulcer, young lady," he told Stella quietly after asking Luna to wait outside for a moment. "It's broken through the top layer of skin. Needs proper cleaning, dressing, and vigilant care to prevent infection and further breakdown. How long has it been like this?"
+
+Stella explained the situation as best she could, the neglect, her recent discovery. The doctor listened patiently, his notes documenting the condition and the apparent lack of home care. He provided Stella with detailed instructions for wound care, prescription antibiotic ointment, and specialized dressings, emphasizing the critical importance of frequent repositioning and skin checks.
+
+Driving home, the prescription bag heavy on the seat beside her, Stella felt a grim sense of validation. This wasn't just her opinion anymore. This was documented medical neglect. This was the concrete evidence she needed. The fight for guardianship had just become intensely personal, and far more urgent. (They did stop for ice cream on the way back, a small moment of normalcy in a day that had irrevocably shifted their future.)
+
+Stella checked her watch as they pulled back up to the house. Her closing shift at the retail store started soon. She quickly got the twins inside, explained the doctor's instructions to Luna again, showing her how to carefully clean and re-dress the wound with the proper supplies. "I have to go to work, Lu," Stella said, hating that she had to leave them, especially now. "Can you handle this? Make sure he shifts position every hour or so?"
+
+Luna nodded solemnly, her usual quietness replaced with a fierce determination. "I'll do it, Stella. Don't worry. Because Mama won't do it!" That night, despite Stella's attempts to maintain some privacy with the hanging sheet divider in their shared room, Luna dragged her mattress from her side of the room and placed it right next to Leo's on the floor. She wanted to be close, to check on him easily, to offer comfort if he stirred. Leo, understanding her intent, reached out and squeezed her hand. They had always been close, finding solace in each other's presence amidst the chaos, and tonight that bond felt stronger than ever. Stella gave Luna a quick, tight hug, then knelt by Leo's chair. "You be good for Luna, okay? I'll call later tonight after my shift." Leo squeezed her hand again. Giving them both one last worried look, Stella hurried out of her parents' house, leaving them in the cluttered living room. As she pulled away, she saw her parents through the window, still seemingly oblivious in their usual spots, likely with fresh drinks in hand. None of the siblings were surprised. Stella clutched the urgent care paperwork on the passenger seat beside her, tucking it carefully into her bag. Evidence. Every piece mattered now.
+
+The phone rang sharply at 8:17 PM, startling Luna in the tense quiet of her parents' house. She knew it was Stella; her sister had promised to call right after her closing shift ended (the store closed at 8:00). The hours since Stella had left for work had crawled by, thick with unspoken resentment and the heavy smell of stale beer. Her father snored, oblivious, while her mother nursed another drink, having earlier dismissed Luna's attempts to care for Leo's pressure sore as instructed by the doctor.
+
+Luna snatched the receiver. "Hello?" she whispered.
+
+"Hey, Lu. Me." Stella’s voice was tired but firm. "Just walked out of work. You okay? How's Leo holding up? Were you able to change the dressing?"
+
+"Stella," Luna choked out, relief and desperation mingling. "It's bad here. Mom won't help, says I'm making a fuss." She took a shaky breath. "Can we come stay with you? Please? Just 'til Monday morning? For school?"
+
+"Yes," Stella answered immediately. "Yes, pack a bag for school too. Don't argue with them, just get ready. I'm getting in the car right now." Getting them out, even temporarily to her small apartment, felt crucial.
+
+"Okay," Luna breathed, hanging up. She turned to Leo, who watched her anxiously.
+
+"Stella's coming," Luna explained quickly. "Just got off work. We're staying at her apartment tonight and tomorrow. School Monday from her place."
+
+Leo’s face relaxed into a hopeful expression. Luna quickly gathered their few essentials – clothes, toiletries, wound care supplies, school books – into their worn bags. Her mother mumbled dismissively from the couch as they waited.
+
+Minutes later, Stella arrived. Silently, efficiently, they maneuvered Leo out, got him settled in the car, stowed the chair and bags, and drove away.
+
+The drive to Stella's small apartment felt like entering a different world. "Okay," Stella said as they arrived, "Tiny, but safe for the weekend. School Monday, bright and early."
+
+Inside the clean but cramped apartment, the twins felt the tension ease.
+
+"My bed, you guys take it," Stella offered, gesturing to the only bedroom.
+
+"We'll fit," Luna insisted, Leo nodding beside her. Safety felt like proximity.
+
+Understanding, Stella agreed. Soon, all three were settled on the bed, drifting into an exhausted but peaceful sleep.
+

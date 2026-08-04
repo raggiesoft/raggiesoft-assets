@@ -1,0 +1,80 @@
+# Part 11: The Cash Hammer
+
+## December 28, 2005 The University Inn - Room 101 03:00 PM
+
+The blizzard was howling against the triple-paned glass of the hotel room, but inside, the atmosphere was calm. The fireplace in the lobby (visible through the open door to the suite’s parlor) cast a warm glow.
+
+Leo was parked by the window, watching the whiteout. He was tracking the BTA status page on his laptop. **ALL SERVICE SUSPENDED.** They were truly dug in.
+
+Stella sat at the desk, her phone in front of her. A notepad was open.
+
+Arthur Bennett sat in the armchair next to her. He wasn't napping. He was in "Deal Mode." The old car dealer energy was back.
+
+"Remember, Stella," Arthur said, his voice low and precise. "In a market like this, speed is worth more than money. The developers are offering \$335,000, but that’s paper money. It’s contingent on loans, zoning variances, and soil tests. It takes three months to close. You are offering **Cash** and **Certainty**."
+
+"I'm offering \$400,000," Stella said. "That's \$75,000 over asking."
+
+"That's the knockout punch," Arthur nodded. "You tell her you want it off the market *today*. You don't want a bidding war. You want a contract."
+
+Stella took a breath. She picked up the phone and dialed the number on the listing sheet.
+
+"Iron Point Realty, this is Barbara."
+
+Stella didn't use her "Virginia General" voice. She leaned back, closed her eyes for a second, and let the vowels flatten out. She slipped into the rhythm of Ludlow Road.
+
+"Hi Barbara," Stella said, the Newport accent coming through thick and fast. "This is Stella Portah. I'm callin' about the lot on Ocean View Lane. Lot 4B."
+
+"Oh, yes," Barbara said, sounding tired. "I'll be honest, Ms. Porter, I've got three developers callin' me every hour. They want to chop it up for condos."
+
+"They ain't gonna get it," Stella said sharply. "I ain't a developer, Barbara. I'm comin' home. I grew up in Newport. My grandfathah is Arthur Bennett. He ran **Keystone Motors** up in Middletown for thirty-five yeahs."
+
+There was a pause on the line.
+
+"Arthur Bennett?" Barbara asked, her voice softening instantly. "The 'There’s Only One Choice' Arthur Bennett? I bought my first Station Wagon from him in 1978. That car ran for twenty years."
+
+Stella smiled at Arthur, who gave her a thumbs-up.
+
+"He's sittin' right next to me," Stella said. "And he says hello. Look, Barbara, I'm not messin' around with zoning. I want that lot for a single-family home for my brothah. He uses a wheelchair. That sidewalk to the station? That's his lifeline."
+
+"It's a good lot," Barbara agreed. "But these developers..."
+
+"Developers need banks," Stella cut in. "I don't. The list price is **\$325,000**. I am offerin' **\$400,000**."
+
+She let the number hang in the air.
+
+*"Four hundred?"* Barbara gasped.
+
+"Cash," Stella dropped the hammer. "Certified funds from the Tidewater Federal Credit Union. No financing contingency. No inspection. No zoning review. I can wire the deposit today and close in ten days. The money is in your client's account before New Year's."
+
+She looked at Leo, who was watching her with wide eyes.
+
+"The developers are gonna drag this out 'til March waitin' for permits," Stella continued. "I'm offerin' you a done deal by Friday. Do you want to sell the land, or do you want to fill out paperwork?"
+
+Barbara laughed, a dry, rasping sound of pure relief.
+
+"For four hundred cash and a ten-day close? My client will drive through this blizzard to sign the papers himself. He hates those developers anyway."
+
+"Draw it up," Stella said. "I'll fax you the Proof of Funds letter from the hotel business center in ten minutes."
+
+"Welcome home, Ms. Porter," Barbara said. "Tell Arthur I said the wagon was a good car."
+
+Stella hung up. She let out a long breath.
+
+"Got it?" Luna asked from the bed.
+
+"We got it," Stella said. "They accepted. Ten days to close."
+
+Arthur slapped his knee. "That's how you close a deal! Cash is king, but reputation is the crown."
+
+Leo rolled over to Stella. He looked at the notepad where she had written **\$400,000**. It was a lot of money. But then he looked out the window at the snow-covered plaza, remembering the smooth, flat sidewalk in Iron Point that led straight to the train.
+
+He tapped his Quantum Communicator.
+
+"WE BOUGHT THE DIRT."
+
+"We bought the foundation," Stella corrected. "Now... who wants to order the most expensive thing on the room service menu to celebrate?"
+
+"Braxton Clam Chowder," Arthur declared. "And see if they have lobster mac and cheese."
+
+"Done," Stella grinned, picking up the hotel phone. "I think we can afford it."
+

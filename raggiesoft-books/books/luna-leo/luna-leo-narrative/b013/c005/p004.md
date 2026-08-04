@@ -1,0 +1,156 @@
+# Part 4: The Ghost Layout
+
+## July 27, 2006 8 Ocean View Lane 01:00 PM
+
+The walk from the Grey Gull took ten minutes. They arrived at the driveway of the Fortress. It stood silent in the summer afternoon, the grey fieldstone foundation grounding it to the earth, the cedar siding smelling of warmth and resin.
+
+Stella unlocked the front door. They stepped into the Foyer, greeted immediately by the **APS Wall**.
+
+"Okay," Stella said, her voice echoing slightly in the empty hall. "The movers are stuck in the Bronx. That gives us a tactical advantage. We don't have to guess where things go. We’re going to map it."
+
+She handed a roll of blue painter’s tape to Olivia and a laser distance measurer to Leo.
+
+"Leo, you're the Site Foreman," Stella said. "You have the dimensions of the furniture in your database. Tell us where to mark the floors."
+
+Leo grinned. He switched his **MagnaByte Scribe** to "CAD Mode."
+
+*"GRID ACTIVATED,"* he typed. *"LET'S BUILD THE GHOSTS."*
+
+## The Utilities Check
+
+Before they started taping, Stella walked to the utility panel in the mudroom.
+
+"Power," she said, flipping the main breaker. The overhead recessed lights hummed to life. "Water," she said, turning the main valve. The pipes shuddered once, then settled. "Gas," she noted, checking the meter for the radiant floor heating. "Green."
+
+She pulled out her phone.
+
+"Calling **MagnaNet**," she announced. "I ordered the Gigabit Fiber connection—the business package. The tech is scheduled for tomorrow morning between 8 and 12. I told them if they're late, I'm charging them a consulting fee."
+
+Leo gave a thumbs up. Fiber optic internet was the nervous system of the house.
+
+## The Twin Wing
+
+They moved to the West Wing.
+
+"Leo and Olivia’s Room," Luna announced.
+
+It was a massive square. Leo rolled to the center. He pointed to the north wall.
+
+*"THE RIG GOES THERE,"* he typed. *"NEED ACCESS TO THE ETHERNET PORTS."*
+
+Olivia knelt down with the blue tape. She marked a large rectangle on the floor. **SERVER RACK / DESK.**
+
+Then she moved to the center. She taped out a large square. **QUEEN BED.**
+
+Leo spun his chair around the tape outline. He checked the clearance. He verified he could do a 360-degree turn between the bed and the desk.
+
+*"CLEARANCE GOOD,"* he typed. *"NO BOTTLENECKS."*
+
+They moved to the **Jack-and-Jill Bathroom**. They didn't need to tape much here; the fixtures were installed. Leo tested the roll-in shower. The floor slope was perfect. Gravity would do the work.
+
+Next door, in Luna’s room, she taped out her bed and her dresser.
+
+"And the Studio," Luna said, leading them to the soundproofed room at the end of the hall.
+
+It was dead silent inside. The heavy door sealed with a *whoosh*.
+
+The room was dead silent. The heavy, acoustic-sealed door clicked shut, cutting off the ambient noise of the house.
+
+Luna stood in the center of the empty room. She held the roll of blue tape.
+
+"Okay," she said, walking to the spot where the acoustic sweet spot would be. "My music stand goes here."
+
+She taped an **X**.
+
+"And your table goes here," she said, pointing to the corner. "For the Vanguard student bells."
+
+Leo rolled over to the spot. He looked at the blue tape on the floor. Then he looked at the rest of the room. It was huge. It was professional. It felt... empty.
+
+He thought about the student kit he had been lugging around BSU. It was fine for a practice room, but in this space? It felt like a toy.
+
+He looked at Luna. He remembered the "Iron Works" defense at the football game—the power of the drums. He remembered the deep snare of **The Stardust Engine**.
+
+He tapped his **Quantum Communicator**.
+
+*"THIS ROOM IS TOO BIG FOR A BELL KIT."*
+
+"It is," Luna agreed. "But it's what we have."
+
+*"NO,"* Leo typed. *"WE HAVE SPACE. WE HAVE BUDGET."*
+
+He rolled to the back wall. He spun his chair, measuring the width.
+
+*"I WANT A DRUM KIT,"* he typed. *"A REAL ONE. LIKE TYLER WRIGHT PLAYS."*
+
+Luna’s eyes widened. "A full kit? Kick drum, snare, cymbals?"
+
+*"YES. AND A REAL GLOCKENSPIEL. THE OAK ONE. THE VANGUARD SOLOIST."*
+
+He pointed to the floor.
+
+*"THIS IS NOT JUST YOUR PRACTICE ROOM. THIS IS THE ENGINE ROOM."*
+
+Luna looked at him. She saw the spark in his eyes—the same spark he had when he built the bridge model for Dr. Aris. He didn't just want to tap along anymore; he wanted to drive the rhythm.
+
+She knelt down with the tape. She didn't mark a small table. She marked a massive rectangle along the back wall.
+
+**DRUM RISER.**
+
+Then she marked a spot next to her stand.
+
+**VANGUARD SOLOIST.**
+
+"Okay," Luna grinned, standing up and dusting off her knees. "It's not my studio anymore. It's **The Twins' Studio**. I bring the melody, you bring the thunder."
+
+Leo looked at the blue lines. He could already hear it—the crash of the cymbals, the shimmer of the steel bells, the deep resonance of the solid silver flute.
+
+*"FORTRESS ACOUSTICS,"* he typed. *"WE WILL MAKE NOISE."*
+
+"We sure will," Luna said. "Now let's go tell Stella she needs to write another check to the music store. I think we're going to need a bigger van for the drums."
+
+## The Command Wing
+
+They crossed the house to the East Wing.
+
+Eleanor walked into her suite. She looked at the bay window facing the garden.
+
+"My chair goes here," Eleanor said firmly, pointing to the spot with the best light. "And Arthur’s urn... I think we’ll put him on the mantle in the living room for now, but eventually, he needs a shelf right here. So he can watch the birds."
+
+Olivia taped a square on the floor. **GRANDPA'S CHAIR.**
+
+Finally, the Master Bedroom.
+
+Stella stood in the center of the room. It was cavernous.
+
+"Okay," Stella said. "The Alaska King."
+
+They measured it out. **9 feet by 9 feet.**
+
+When Olivia taped the square on the floor, it looked like a wrestling ring. It took up a third of the room.
+
+"It's huge," Luna laughed, laying down inside the blue lines. "We could fit five people in here."
+
+"That's the point," Stella said. "It's the lifeboat. If the nightmares come, we all fit."
+
+Leo rolled up to the tape line. He looked at the "Ghost Bed."
+
+*"MAXIMUM CAPACITY,"* he typed. *"FORTRESS CENTRAL."*
+
+## The Result
+
+By 4:00 PM, the entire house was a blueprint of blue tape.
+
+Every walkway was verified. Every turning radius was confirmed. They knew exactly where the **Holt Sentinel** would park in the garage, and exactly where the TV would hang on the wall.
+
+They stood in the living room, looking at the empty floor filled with blue rectangles.
+
+"Now we wait for the truck," Stella said. "When they get here tomorrow, we don't have to direct traffic. We just point to the tape."
+
+Leo looked at the spot marked **SOFA**. He imagined himself there, stomach-to-stomach with Luna, safe behind the APS Wall.
+
+*"SYSTEM READY,"* he typed. *"WAITING FOR HARDWARE."*
+
+"Let's go get dinner," Stella said. "I think the **Grey Gull** is serving pot roast tonight."
+
+They locked the door—their door—and walked back to the Inn, leaving the blue outlines of their future waiting for them in the quiet house.
+

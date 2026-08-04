@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1983-10-03
 * **Real-World DSP Release Date:** 2026-04-17
-* **Generated On:** 07-18-2026 09:16:11 PM
+* **Generated On:** 07-19-2026 08:44:41 AM
 * **Master File Located At:** ../../vault/wav/1-05-fractured-prisms.wav
 
 ## Distribution & AI Disclosure Notes

@@ -1,0 +1,58 @@
+# Part 1: The Geometry of Peace – Thursday, June 25, 2071 – 10:00 (Local Eden Time)
+
+To Leo Colton, the universe was not made of chaotic events or unpredictable emotions. The universe was made of geometry, pressure, and frequency.
+
+He sat in the center of the Combat Information Center on Sub-Level 3, the heavy, adult-sized titanium frame of his Daily Driver powerchair perfectly aligned with the exact center tile of the grated floor. The ambient temperature of the room was exactly 21.6°C. The geothermal reactors humming three levels below produced a continuous, low-frequency baritone vibration at exactly 40 hertz.
+
+It was a flawless, mathematically perfect baseline.
+
+At twenty-five years old, Leo was a massive physical presence, inheriting the broad, dense musculature of his father. But his body remained entirely subjugated by his severe spastic diplegia. His legs were locked tight against the padded footrests, his hands resting heavily on his lap tray next to his customized MagnaPad.
+
+He did not feel trapped by his body, because he was never truly confined to it. He had extensions.
+
+Standing flush against the right wheel of his chair was Nora. She leaned heavily onto his armrest to support her weaker left side.
+
+"Here," Nora whispered softly. The single, breathy syllable required a deliberate, focused push from her vocal cords, a physical struggle she only expended for words that truly mattered. She could speak, but the mechanics of it exhausted her, making the sleek AAC device strapped to her forearm her preferred method for longer thoughts. Right now, she didn't need a machine. She just let the soft, rhythmic pressure of her hip resting against his arm, and the steady warmth of her hand on his shoulder, act as his gravity. She kept the chaotic sensory inputs of the world from pulling him into the void.
+
+Standing exactly one meter to his left, her boots planted shoulder-width apart, was Ellie. She was a wall of kinetic potential. She wasn't touching him right now, but her proximity created a rigid, invisible perimeter. Ellie was his armor.
+
+With the Vanguard's formation perfectly secured, Leo allowed his dark eyes to scan the massive holographic table in front of him.
+
+He didn't just see video feeds; he saw the living, breathing mechanics of his entire family.
+
+On screen one, he watched his parents. Wyatt and Sarah were down on Sub-Level 2 in the Fabrication Foundry. Wyatt's beard was entirely silver now, his massive frame slightly weathered by his fifty years of life, but his movements were just as precise as ever. He was guiding Sarah—whose dark hair was heavily threaded with gray—as she operated a molecular printer, fabricating a new water-filtration manifold for the valley. Leo watched their postures. They moved in perfect synchronization, their physical proximity constantly overlapping. *Status: Optimal. Biological and emotional bond holding at peak efficiency.*
+
+Leo blinked, shifting his focus to screen four.
+
+The optical feed displayed the center of Genesis Village, miles below them in the valley. It was a chaotic, asymmetrical nightmare of colors and sounds. There were thirty-eight people living down there now—the ten Sydney recruits, the twenty Cockney recruits, and the rest of his younger siblings. The variable nature of the wind, the unpredictable mud, and the intersecting human interactions made Leo's chest tighten slightly.
+
+He let out a low, vibrating vocalization, the physical hum manifesting his mild anxiety. Entirely non-verbal, his vocal cords were completely incapable of forming words, leaving these guttural, resonant sounds as his only organic expression of emotion.
+
+Instantly, Nora’s hand slipped from his shoulder, wrapping firmly around his bicep to provide deep, grounding compression. The tight feeling in Leo's chest dissolved.
+
+Anchored by his sister, Leo analyzed the village feed. He located Jack.
+
+His twenty-one-year-old brother was standing near the timber Town Hall, holding a datapad. Standing exactly 0.2 meters away from Jack was thirteen-year-old Willow. Leo noted her trajectory. Wherever Jack stepped, Willow matched the vector flawlessly.
+
+Just three days ago, Ellie had reported a hostile variable named Sloane attempting to isolate Jack and compromise the unit. Leo had experienced a brief, terrifying spike in his heart rate when Aria transcribed the audio of the refugee's betrayal. But looking at the feed now, the toxic variable was gone. The geometric symmetry of Jack and Willow's orbit was restored.
+
+Leo reached down, his heavy, spasming hand fighting the tight muscles in his arm. With Nora subtly steadying his wrist, he slammed his palm against his MagnaPad, letting his brilliant mind translate his logic through the machine.
+
+"The perimeter is clean," Leo’s deep, synthesized voice echoed in the CIC. "Jack's rotational orbit is re-established. The threat is fully extracted."
+
+Ellie looked up from her own tactical datapad. She stepped into his line of sight, her dark eyes entirely focused and devoid of their usual harsh scrutiny. She placed her hand on his left shoulder, completing the physical circuit.
+
+"You're reading the social telemetry," Ellie noted, a profound, fiercely proud smile touching her lips. "Good eye, Leo. The diplomat is secure."
+
+"The valley is too chaotic," Leo typed, the text converting to speech instantly. "There are too many moving variables. I do not understand how they tolerate the sensory fluctuations of the wind and the uncalibrated acoustics."
+
+Nora smiled, leaning her cheek affectionately against his temple. She took a deep breath, navigating the physical friction of her speech impediment to agree with him.
+
+"Too... loud," Nora breathed, the two words soft but fiercely validating. To save her energy for the rest of the thought, she quickly tapped her forearm AAC. *"But that's why we stay up here in the mountain. We like the quiet,"* the digital voice seamlessly finished for her.
+
+Leo let out a loud, vibrating purr of absolute agreement, the deep sound rumbling comfortably in his massive chest.
+
+He didn't need to go down to the village. He didn't need to walk in the dirt or navigate the messy, unpredictable emotions of the Genesis cohorts. He had the mountain. He had the flawless hum of the reactors, the exact 21.6°C air, and he had the unshakeable, crushing love of his sisters standing right beside him.
+
+He was the Overseer of Planet Eden, and his universe was absolutely perfect.
+

@@ -1,0 +1,36 @@
+# Part 1: Les Préparatifs (Getting Ready)
+
+The day of their wedding dawned bright and clear over the Eastern Townships, the surface of Lake Massawippi a glittering sheet of glass. At Le Manoir Hovey, the atmosphere was a quiet hum of joyful, nervous energy.
+
+In the bridal suite, a beautiful, sun-drenched room overlooking the gardens, a scene of loving, feminine chaos was unfolding. The room was a symphony of soft Québécois French, laughter, and the scent of hairspray and fresh flowers. Chloé sat in a tall chair, a professional stylist putting the finishing touches on her hair, while her mother, Sophie, knelt beside her, a look of profound, tearful pride on her face.
+
+Her Tante Geneviève, a whirlwind of practical, efficient energy, was directing the final preparations. "*Isabelle, ma chérie, va chercher de l'eau pour ta cousine. Jessica, est-ce que les robes sont prêtes?*" (Isabelle, my dear, go get some water for your cousin. Jessica, are the dresses ready?)
+
+Her cousins, Isabelle and a now-married Jessica, were carefully steaming the bridesmaids' dresses, their own faces a mixture of excitement and sisterly affection. Mémère Madeleine, the undisputed matriarch, sat in a comfortable armchair by the window, a proud, tearful observer overseeing the entire operation.
+
+For Chloé, the morning was a surreal, beautiful dream. Every few minutes, she would catch her own reflection in the mirror, and a fresh wave of happy, nervous butterflies would flutter in her stomach. This was real. This was happening.
+
+Finally, it was time. With the help of her mother and her aunt, she stepped into her beautiful, elegant A-line gown. As Sophie zipped up the back, Chloé turned to the full-length mirror.
+
+The woman staring back at her was a bride. The simple, graceful dress, the delicate lace, her hair swept up in a soft, romantic style—it was all perfect. A quiet, profound sense of peace settled over her, chasing away the last of the nervous jitters. This wasn't just a party; it was the public declaration of a love that had been the quiet, steady anchor of her entire life.
+
+"*Oh, ma belle,*" Sophie whispered, her own tears now flowing freely as she gently fixed Chloé's veil. "*Tu es si belle.*" (Oh, my sweet, you are so beautiful.)
+
+Chloé just looked at her mom in the mirror, her own eyes shining. The room was full of the most important women in her life, a fortress of love and support. She was ready.
+
+Down the hall, in the groom's suite, the atmosphere was completely different. It was a space of quiet, focused calm. Thomas Mason was carefully laying out the men's tuxedos. James Miller was on the phone, confirming the final transportation arrangements for the guests. And Alex was sitting in his power chair by the window, staring out at the lake, his hands clenched tightly on his armrests.
+
+He understood the tradition. He knew he wasn't supposed to see Chloé in her dress until the ceremony. But knowing it and feeling it were two very different things. The sudden, enforced separation from his wife, his anchor, on the most important day of his life, was a profound disruption to his autistic mind. The carefully constructed safety of their shared world had been temporarily fractured, and he was struggling.
+
+He wasn't alone. Megan Carter, in her role as both Best Woman and lifelong guardian, had not left his side for a single moment. She sat in the armchair beside him, a quiet, unwavering, and completely non-demanding presence. She didn't try to distract him or tell him not to be anxious. She just *was*. Her presence was a silent, powerful promise: *I know this is hard. I've got you.*
+
+When it was time for Alex to get dressed, the team of James Miller and Megan Carter went to work. James, with a father's practiced and loving care, helped his son with the more physically demanding parts of the process. Megan, in her role as his first and truest friend, was in charge of the details. She was the one who straightened his tie, who made sure the cuffs of his custom-tailored suit jacket lay perfectly over his wrists, and who brushed a stray piece of lint from his shoulder.
+
+He looked in the mirror. He was a groom. A tall, confident, and incredibly handsome groom. But he was also a man who was deeply missing his other half.
+
+He looked at Megan, a quiet, desperate plea in his eyes. She understood instantly. She knelt beside his chair and pulled him into a firm, grounding hug, the kind she had been giving him his entire life.
+
+"It's okay to be scared, cuz," she whispered, her voice a steady anchor in his quiet storm. "But she's just down the hall. And in less than an hour, you're going to see her. And it's going to be perfect. I promise."
+
+He held on for a long moment, drawing on her strength. He was terrified. But he was also ready.
+

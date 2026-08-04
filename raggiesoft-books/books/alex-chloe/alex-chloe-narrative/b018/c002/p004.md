@@ -1,0 +1,32 @@
+# Part 4: The Architect Returns
+
+The day after their chaotic but successful Boxing Day mission, a profound quiet settled over the Leclerc house. For Alex, the intense social energy and sensory overload of the Sherbrooke shopping centre had left a familiar, lingering hum in his mind. He was quiet, withdrawn, and in desperate need of a space to decompress and recenter.
+
+Chloé and Megan, reading his subtle cues with the practiced ease of a lifetime, knew exactly what he needed.
+
+"Okay," Chloé said, her voice a soft, gentle murmur. "I think it's time for some quiet work. Let's find a back room."
+
+They helped him navigate to a small, quiet den at the back of the house, away from the main hub of family activity. They closed the door, and the chaotic, happy sounds of the Leclerc household instantly softened to a distant, manageable hum. Chloé and Megan settled into comfortable armchairs with books, their quiet, steady presence a silent promise of safety.
+
+With his two sentinels at his side, Alex felt the world snap back into focus. He pulled out his Quantum Design Studio device. He didn't open his 3D modeling software. He opened his programming environment. After months of intense focus on the physical blueprints for the Lynnwood Discovery and Care Center, the chaos of the previous day had reminded him of the other, equally important half of the equation: the accessible technology that would make the center truly innovative. It was time to get back to Echo Bridge.
+
+He opened the source code for his Axon software. It had been a while. The code, written for an older version of Quantum Studio, was now flagged with dozens of warnings. The entire Quantum Core Framework had been updated, and his project was no longer compatible.
+
+With a look of quiet, focused determination, he went to work. It was a painstaking, methodical process of updating old code, refactoring deprecated functions, and recompiling. He worked for hours, completely absorbed, with Chloé and Megan offering quiet hugs or help with his toileting needs as required, their support a seamless and unspoken part of his creative process.
+
+Then came the biggest leap. He changed the project's target from a 32-bit to a 64-bit processor. It was the first time he had ever compiled his own software for a modern, 64-bit architecture. He held his breath and pressed F5.
+
+After a tense, thirty-second compilation, a small window popped up: Build Succeeded. His software, his creation, was now officially ready for the modern computing world.
+
+A slow, triumphant smile spread across his face. From this moment on, he decided, he would no longer use the commercial "Vocal-Path" software. His own Axon software, while still in a beta state, was now stable enough. He was going to use his own voice. He was, in the programming world's parlance, going to eat his own dog food.
+
+Chloé and Megan, seeing the look of profound, quiet victory on his face, were overcome with a shared sense of pride. He wasn't just a dreamer anymore; he was an architect, building the very tools that would change the world.
+
+That evening, at the Leclerc dinner table, Alex, now speaking exclusively through his own Echo Bridge Axon software, gave his aunt and uncle a full demonstration. He showed them the context-aware predictions, the seamless bilingual scripting, the elegant interface.
+
+Uncle David, who had been listening with a look of profound, almost reverent awe, shook his head. "*Mon Dieu, Alex,*" he said, his voice full of a deep, heartfelt respect. "*C'est... c'est une révolution.*" (My God, Alex. That's... that's a revolution.)
+
+"We were a little worried," Chloé admitted to her aunt and uncle, "that with the LDCC planning being so intense, he might have to put Echo Bridge on the back burner."
+
+Aunt Geneviève just laughed, a warm, musical sound. "*Ma chérie,*" she said, her gaze full of a fierce, absolute belief in the young man before her. "There is plenty of room in that brilliant mind of his for two big dreams. He will build the Center, and he will build the voice. He does not have to choose. He will do both."
+

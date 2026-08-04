@@ -1,0 +1,88 @@
+# Part 8: The Silent Signal
+
+## Sunday, May 9, 2004 — 17:00 PM (PST) The Cascade Suites, Room 412
+
+The violence of the storm had passed, leaving behind a heavy, exhausted silence in the hotel room.
+
+Freddie lay flat on the mattress, pinned beneath the full weight of his sister. His chest heaved in shallow, ragged hitches, the aftershocks of the scream still rattling his ribs.
+
+Paige hadn't moved. She was still lying stomach-to-stomach on top of him, her legs hooked around his thighs, her arms locked around his head. She was a human blanket, heavy and hot and immovable.
+
+To his left, Jessica sat cross-legged, her hand resting firmly on his shoulder, her thumb rubbing a slow, rhythmic circle into his deltoid muscle.
+
+*Safe,* Freddie’s brain whispered. *Safe.*
+
+But the logic engine was firing misfires.
+
+He wanted to speak. He needed to issue a command.
+
+*Evacuate,* he screamed inside his head. *Relocate Base. The perimeter is compromised. The enemy is across the street.*
+
+He tried to force the words up his throat. He opened his mouth.
+
+Nothing.
+
+His vocal cords were paralyzed. The "Audio Driver" had crashed during the meltdown, severed by the sheer voltage of the panic. All that came out was a dry, clicking sound at the back of his throat.
+
+He squeezed his eyes shut. Tears leaked out, hot and fast.
+
+He couldn't tell them. He couldn't tell them that seeing the **Pathfinder** bus idling in the bay—the exact same model of vehicle that had been his prison for three days—had ripped the scab off his mind.
+
+He realized, with a sickening lurch of vertigo, that they had been sleeping here since Friday night. They had been sleeping directly across the street from the scene of the crime.
+
+*Too close,* his mind wailed. *Too close to the cage.*
+
+And then, the second wave hit.
+
+It wasn't the panic of the bus this time. It was the weight of the truth.
+
+He thought about the note on the counter in Christiansburg. *I am setting you free.*
+
+He thought about Vanessa’s voice in the lobby. *They are trapped. You are the black hole.*
+
+He had believed her. He had walked out the door. He had turned off his phone and left it in Christiansburg. He had almost thrown away the only two people in the universe who understood his code.
+
+*I almost lost them,* Freddie thought. *I almost deleted the Unit.*
+
+The guilt was a physical pain, sharper than the pressure sore on his back. It swamped him.
+
+He didn't fight Paige this time. He did the opposite.
+
+He freed his hands from where they were pinned at his sides. He reached up. He wrapped his arms around Paige’s back, clutching the fabric of her t-shirt in desperate, clawing handfuls. He pulled her down even harder against him.
+
+"Oh," Paige breathed, feeling the shift.
+
+"Round Two," Jessica whispered, her hand tightening on his shoulder. "Hold fast."
+
+They braced themselves, expecting another thrashing fit.
+
+But Freddie didn't thrash. He just broke.
+
+A new sound tore out of him—not a scream, but a high, keen whine of absolute misery. He buried his face in the crook of Paige’s neck, soaking her collar with tears. He shook, his whole body vibrating with the force of his remorse.
+
+*I'm sorry,* he tried to say. *I'm sorry. I'm sorry.*
+
+But he was mute. So he just cried. He cried for the boy on the bus. He cried for the sisters he had scared. He cried because he was safe, and he didn't feel like he deserved to be.
+
+Paige felt the shift instantly. This wasn't fight-or-flight. This was surrender.
+
+"I know," Paige whispered into his ear, her voice thick with emotion. She didn't pull away. She pressed down harder, maximizing the contact. "I know, Freddie. Let it out."
+
+She felt his arms crushing her ribs. He was holding onto her like she was the only solid thing in a dissolving world.
+
+"We've got you," Jessica murmured, leaning in close so her hair brushed his forehead. "We aren't going anywhere. You can't scare us off, Freddie. We're right here."
+
+Freddie sobbed, his chest heaving against Paige’s stomach. He tried to nod, tried to signal that he heard them, but his motor control was offline.
+
+He just held on. He locked his fingers together behind Paige’s back, creating an unbreakable loop.
+
+*Don't let me go,* he begged silently. *Even if I try to leave... don't let me go.*
+
+"Never," Paige whispered, as if she could hear his thoughts. "I've got you. I'm never letting go."
+
+She laid her cheek on top of his head. She closed her eyes. She settled her weight, prepared to lie there for an hour, a night, or a week—however long it took for the storm to pass and the Captain to find his voice again.
+
+Jessica kept her hand on his shoulder, the steady anchor in the sea.
+
+They stayed in the pile, three siblings on a hotel bed, riding out the aftershocks of a disaster they had survived together.
+

@@ -1,0 +1,41 @@
+# Part 2: The Status Quo – Tuesday, November 20th, 3:15 PM
+
+For twenty-nine agonizing hours, we lived in a state of suspended animation.
+
+We didn't leave the apartment. We ordered delivery for food, keeping the deadbolt locked and the blinds drawn. Dad called twice. Jessica let the answering machine catch both of them. His voice sounded thin and strained, demanding to know when Rachel was coming back, but he didn't explicitly threaten the police. He was trapped in his second-floor apartment, terrified of the consequences of picking a fight.
+
+At 3:15 PM on Tuesday afternoon, the heavy, blocky fax machine sitting on Jessica's desk suddenly whirred to life.
+
+The three of us froze.
+
+The machine beeped, and a piece of paper slowly began to feed out of the slot, the thermal ink printing line by line. Jessica wheeled her chair over, her eyes tracking the text as it appeared.
+
+She reached out, tore the paper from the machine, and read it in complete silence.
+
+Rachel was practically vibrating on the sofa. "Jess?" she asked, her voice cracking with terror. "What does it say?"
+
+Jessica looked up. The hard, business-like mask she had been wearing for two days completely broke, replaced by a massive, radiant smile of absolute relief.
+
+"It's signed," Jessica breathed, holding the paper up. "Judge Harrison in Virginia Beach signed it."
+
+"Signed what?" I asked, standing up from the floor.
+
+"An Emergency Temporary Restraining Order and Injunction," Jessica said, reading the heavy legal block text. "It states that due to the disturbing nature of the custodial parent abandoning the minor child, combined with the inaccessible nature of the current housing, the court is ordering a temporary stay of the custody arrangement. Rachel is remanded to the temporary care of her mother, Ellen Ragsdale, who has formally designated me as the supervising guardian."
+
+Rachel let out a choked gasp.
+
+"What does that mean for Dad?" I asked, needing the mathematical parameters of the shield defined.
+
+"It means," Jessica said, her voice trembling with victory, "that Tom is legally barred from removing Rachel from King County. If he calls the police, we just show them this paper. The police will tell him it's a civil matter pending a full trial, and they will tell him to go home."
+
+The invisible, suffocating weight that had been crushing Rachel for two solid months instantly evaporated. The court order that Dad had used to break her door and tear her away from her anchors had just been legally neutralized.
+
+Rachel completely broke down. She didn't throw a violent, angry meltdown; she just collapsed forward, sobbing with pure, unfiltered relief.
+
+I sat down next to her, wrapping my arms around her shoulders and pulling her into a tight, grounding hug. Jessica wheeled over, locking her brakes and wrapping her arms around both of us, burying her face into my shoulder.
+
+"You're safe, Rachel," Jessica wept quietly, holding us tightly in the center of her living room. "He can't touch you here. I promise."
+
+We were a thousand miles away from the courtroom, but the hammer had officially dropped. The perimeter was secured, the legal shield was active, and for the first time since September, our pack was actually going to have a Happy Thanksgiving.
+
+

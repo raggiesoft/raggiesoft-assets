@@ -1,0 +1,14 @@
+# Part 2: Leo's New Wheelchair - A World of Difference
+
+The first arrival was a large van from the durable medical equipment company. Ms. Albright herself stepped out, accompanied by a technician, and they carefully unloaded a gleaming new manual wheelchair for Leo. It was a stark contrast to the old, rickety chair he’d been using – this one was lightweight yet incredibly supportive, with a vibrant blue frame he’d shyly pointed to in the brochure, and a pressure-relief cushion that looked miles more comfortable than his old one.
+
+Ms. Albright spent over an hour with them in Stella’s small, accessible living room. She meticulously adjusted the footrests, the back support, and the armrests, ensuring everything was perfectly tailored to Leo’s frame and needs. "Alright, Leo," she said finally, her smile warm. "Want to take her for a spin?"
+
+Stella and Luna watched, hearts in their throats, as Leo was gently transferred into his new chair. The difference was immediate. He sat straighter, his posture more aligned. He tentatively placed his hands on the push rims. The chair responded smoothly, almost intuitively, to his slightest effort, gliding across the living room floor with an ease he’d never experienced before. A slow, wide, incredulous grin spread across his face. He looked up at Stella, his eyes shining with a mixture of surprise and triumph, then executed a small, joyful spin that made Luna clap her hands.
+
+"SO... MUCH... BETTER!" he typed quickly onto Stella's laptop, which she’d set up on a small table for him to use while they awaited his own new AAC. The all-caps conveyed his exhilaration. "LIGHT! MOVES EASY!" His fingers, despite the unfamiliar keyboard, flew with an eagerness to express his relief.
+
+"It’s designed to grow with you a bit too, Leo," Ms. Albright explained, smiling at his reaction. "This will make a world of difference for his comfort, health, and independence, especially starting high school."
+
+Stella felt a lump in her throat. Seeing Leo move with such ease, his face lit with a rare, unreserved joy, was a victory in itself. This chair wasn't just equipment; it was dignity, it was mobility, it was a tangible symbol of the better life she was determined to provide.
+

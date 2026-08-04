@@ -1,0 +1,32 @@
+# Part 1: The Transition Wake-Up – 9:00 AM
+
+Morning rolled around, the bright Virginia sun fighting its way through the guest room blinds. I blinked my eyes open, staring at the ceiling, my internal clock completely scrambled. Rachel and I were still hardwired to West Coast time.
+
+I shifted my weight on the cramped mattress and gently prodded her. "Morning, sis," I whispered, hugging her tightly. "Did you sleep well?"
+
+Rachel groaned, burying her face into my chest. "Morning. This bed is too small for us." She shifted again, letting out a frustrated sigh as her knee bumped the edge of the mattress. "What time is it?"
+
+"It’s already nine, but our brains think that it’s only six," I replied, carefully releasing my sister from the hug and slowly sitting up.
+
+"We should probably get dressed, have breakfast, and get situated for the day. We have moving to do," Rachel replied, sounding much more awake at the prospect of finalizing our sanctuary. She sat up, reached for her canvas gym bag on the floor, and started pulling out comfortable clothes for the day. "We can take turns in the bathroom again, then walk downstairs together for food."
+
+"When Mom talks to us about how we want the townhouse laid out, we will say that we will take each of the smaller bedrooms," I whispered, formulating our defensive strategy against neurotypical expectations. "But when it is just you and me, we will, of course, really make the big bedroom our bedroom."
+
+"We can do that, or at least say we’ll do that with the little bedrooms," my sister replied, her dark eyes entirely serious. "The only reason I was uncomfortable in this bed with you is because it is so small. When you slept with me in Washington, the bed was a queen. This, I think, is one size smaller at full."
+
+We were both fully dressed within minutes. After taking turns in the bathroom to maintain the illusion of a standard routine, we made our way downstairs together.
+
+The moment our feet hit the first floor, a chaotic, joyful flurry of golden fur intercepted us. Jimbo, a bright golden retriever, and Teddy, whose coat was a duller, softer golden hue, bounded over to us, their tails wagging so hard their entire back halves shook.
+
+Rachel immediately dropped to her knees on the linoleum, letting out a soft, happy hum as Teddy shoved his heavy head directly into her chest, desperately seeking affection. It was Rachel’s first time back in this house since Baby and Archie had passed away. The grief of losing our childhood canine guards still echoed in the back of my mind, but the pure, unadulterated love these two retrievers offered was an incredible balm.
+
+Mom was waiting for us at the kitchen island, a folder of closing documents resting near her coffee mug. She started explaining the layout of the new townhouse.
+
+"We looked at the pictures you sent us, and we think we know what we will do," Rachel suggested, keeping her voice casual as she scratched Jimbo behind the ears. "We can each take the smaller bedrooms, and that big bedroom will be a guest bedroom."
+
+Mom smiled, accepting the neurotypical geometry without question. Breakfast consisted of quick bowls of cereal so that we could head out to the furniture store to start picking out pieces for the townhouse sooner rather than later.
+
+"How about we start on Furniture Row on the Boulevard?" Rachel suggested, her logistical brain already mapping the route.
+
+"It’s Saturday, and the sale of the century is in progress," I giggled, reaching down to pet Teddy as he nudged my knee, completely ready to start building our adult lives.
+

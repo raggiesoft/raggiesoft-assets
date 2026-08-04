@@ -1,0 +1,61 @@
+# Part 10: Tuesday Morning Departure
+
+Tuesday morning arrived, bringing the promise of departure and the resumption of the normal weekday bus schedule. Delores was clearly eager to leave, pacing impatiently near the front door while Leo finished getting ready. There was no time offered for a proper breakfast, nor any desired.
+
+While Delores was gathering her own bag, Stella quickly went to the kitchen, grabbed a granola bar and a banana, and tucked them swiftly into the side pocket of Leo's backpack near the door, pointedly not packing anything for Delores.
+
+As Leo came out of his room, Stella intercepted him. "Leo," she said quietly, nodding towards her bedroom where Luna was waiting anxiously on the edge of the bed. "Quick private word before you go. Luna's in there."
+
+Delores started to protest from the hallway ("Are you serious? The bus will be here!"), but Stella ignored her, guiding Leo into her room and firmly shutting the door, leaving Delores fuming in the hallway.
+
+Inside, the atmosphere was tense but focused. Luna sat anxiously on the edge of the bed. Stella quickly knelt beside Leo's chair so she was at his eye level.
+
+"Okay, Leo," she began, speaking clearly and seriously, knowing they didn't have much time. "I needed to tell you something really important, just in case you ever need help and can't reach us easily."
+
+Leo looked at her intently, his hands resting near his AAC device.
+
+"We talked about collect calls last night," Stella glanced briefly at Luna, who nodded confirmation. "Do you know what those are?"
+
+Leo typed quickly on his device: NO. WHAT IS IT?
+
+"Okay," Stella explained concisely. "It's a way to make a call, usually from a payphone through an operator, where the person you are calling pays for it instead of you. It's important because if you were ever, say, stuck somewhere without any money, or..." she paused, her gaze becoming more intense, "...or if something happened to your device and you couldn't use it, it might be the only way to call us for help."
+
+Leo's eyes widened slightly as he grasped the implication.
+
+"If that ever happens," Stella continued, "you dial 0 for the operator. Now, listen, if your AAC is broken, you might need *another* special kind of phone sometimes found near pay phones, especially in places like airports. It's called a TTY – looks like an old phone but with a keyboard and a small screen. It's for people who can't speak or hear well on a regular phone."
+
+Leo looked puzzled. He typed: TTY? LIKE AAC?
+
+"Not quite like yours," Stella explained quickly. "It's much simpler, just for typing back and forth, usually with an operator helping on the other end – they call it Relay. So, if your AAC was broken, you'd use the TTY keyboard to type to the operator, tell them you need an emergency collect call to me or Luna. They type back to you on the little screen, and they read what you type to us."
+
+She met his gaze firmly. "The most important part, Leo, for both collect calls and using a TTY with an operator, is that we will always, always accept the charges. No matter what. Luna knows this too."
+
+Luna spoke up softly but firmly from the bed, "Always, Leo. We'll always accept."
+
+Leo looked from Stella to Luna, understanding the gravity of the lifeline they were giving him. He nodded slowly, then typed: OPERATOR CALL. YOU PAY. MAYBE USE TTY PHONE IF AAC BROKEN. OKAY. UNDERSTAND.
+
+"Exactly," Stella said, relief washing over her momentarily. She squeezed his arm. "Just remember those options, okay? Collect call, maybe using a TTY if you have to. It's your lifeline if you ever, ever need it."
+
+Just then, an impatient pounding sounded on the bedroom door. "Leo! Come on! The bus!" Delores yelled from the hallway.
+
+Stella sighed, the moment shattered. "Okay, buddy," she murmured, standing up and giving him a tight hug. "Be safe. Call us. You know how now."
+
+Luna rushed forward, hugging him fiercely too. "Bye, Leo. Love you. Be careful."
+
+Taking a deep breath, Leo nodded to them both before Stella opened the door, releasing him back into Delores's impatient orbit.
+
+Taking a deep breath, the three siblings emerged from Stella's bedroom. Delores was waiting, arms crossed, face thunderous. "Finished your little secret meeting?" she snapped.
+
+Stella ignored the bait. "Ready to go?"
+
+"Yes," Delores said curtly. "We're taking the bus." She grabbed Leo's wheelchair handles possessively. Even though Stella could have driven them directly back to their apartment area in Portsmouth in under half an hour, Delores was adamant, preferring the known, lengthy, multi-transfer CVTA bus journey – likely involving at least two or three different buses through Norfolk, the Midtown Tunnel, and Portsmouth before potentially catching the short \#85 ride near the end – solely to avoid another moment under Stella's roof or in her car.
+
+Knowing the argument was futile, Stella knelt beside Leo's chair as Delores impatiently pushed him towards the door. "Okay, buddy," Stella murmured, giving him a tight hug. "Be safe. Call us. You know how now."
+
+Luna rushed forward, hugging him fiercely too. "Bye, Leo. Love you. Be careful."
+
+Delores watched the affectionate goodbyes with a look of pure resentment before pointedly pulling the wheelchair away. Stella and Luna stood in the doorway, watching as Delores maneuvered Leo down the ramp. They started heading down the sidewalk toward the nearest bus stop for the CVTA route that would begin their long, convoluted journey back across the water to Portsmouth.
+
+Leo glanced back once, a silent, worried look passing between him and his sisters, before Delores urged him forward. The sisters remained there until Leo and Delores turned the corner and disappeared from view. The door closed, leaving the house quiet but heavy with the weight of the difficult weekend and the gnawing worry for Leo, heading back into Delores's suffocating control via a needlessly difficult bus trip.
+
+

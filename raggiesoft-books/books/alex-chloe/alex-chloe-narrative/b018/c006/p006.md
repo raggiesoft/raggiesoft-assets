@@ -1,0 +1,32 @@
+# Part 6: A New Horizon
+
+The conversation that night on the sofa was a turning point. The next morning, with a quiet, grim resolve, they began the familiar dance with the insurance company, submitting the request and waiting for the inevitable, low-ball offer.
+
+It arrived a few months later, in the spring of 2028. The official approval letter stated that their approved solution was a standard-issue mPad bolted onto a generic power chair base.
+
+The three of them read it together in their office. Chloé was the first to speak, her voice a mixture of incredulous laughter and pure rage. "You have got to be kidding me," she said, staring at the letter. "They want to replace a custom-built engineering workstation with an mPad on a stick. Do they have any idea what you actually do?"
+
+Megan just shook her head, a look of weary, cynical disgust on her face. "Of course, they don't. This isn't about his needs. This is about them checking a box with the cheapest possible option. This is useless for him."
+
+Alex, however, wasn't angry. He wasn't even surprised. He just looked at the letter, a slow, powerful, and deeply satisfied smile spreading across his face. He no longer needed to fight them. He no longer needed their approval. He was free.
+
+He turned to his two partners, his eyes shining with a new, liberating clarity.
+
+IT'S OKAY, his Quantum Design Studio voiced, its tone calm and completely certain. WE'RE NOT GOING TO APPEAL. WE'RE NOT EVEN GOING TO ACCEPT.
+
+Chloé and Megan looked at him, completely bewildered. "What?" Chloé asked. "Not accept? But Alex, it's something. We could use it for..."
+
+NO, he typed, his smile widening into a triumphant grin. WE DON'T NEED THEIR MONEY. WE DON'T WANT THEIR MONEY. He paused, a lifetime of frustration and struggle giving way to a final, powerful declaration. WE'RE PAYING FOR IT OURSELVES.
+
+He swiveled his chair to his computer and pulled up a browser window, navigating to the official website for Articulate Solutions. "What are you doing?" Chloé asked, a new, exciting hope dawning in her eyes.
+
+I'M GOING SHOPPING, he typed.
+
+With Chloé and Megan looking over his shoulder, he began to build his new machine. The cost would be funded entirely by the company he had built with his own two hands: Echo Bridge, LLC.
+
+He didn't compromise on a single component. He selected the "Quantum Design Studio Pro," a flagship convertible workstation. He maxed out the specs: a top-tier mobile processor with a dedicated AI co-processor, 128 GB of RAM, a 16 TB Gen5 SSD, and a high-end mobile graphics card. He selected the 16-inch, 4K+ OLED touchscreen and, most importantly, the state-of-the-art, integrated eye-gaze tracking system.
+
+It was a no-compromises machine for a man whose life's work demanded nothing less.
+
+He clicked "Purchase." The order confirmation appeared on the screen. A new, more powerful future was on its way, not as a hard-won victory from a reluctant insurance company, but as a self-funded, completely independent, and deeply satisfying executive decision.
+

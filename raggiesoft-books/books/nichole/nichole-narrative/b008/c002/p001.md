@@ -1,0 +1,34 @@
+# Part 1: The Zero-Friction Morning
+
+## Date: Monday, August 30, 2004 Time: 6:30 AM Location: Unit 404, The Foundry Lofts
+
+The alarm on the bedside table didn't blare. It started with a low, gradual hum—a custom "soft wake" setting Patrick had programmed so it wouldn't trigger Nichole's startle reflex.
+
+Patrick opened his eyes. He didn't groan or hit snooze. He was instantly online.
+
+He shifted his weight. Beside him, in the center of the massive King-sized memory foam mattress, Nichole was still asleep. Because of the "Zero Friction" protocol they had established in April, she wasn't tangled in pajama pants or fighting the drag of cotton sheets. She was lying smooth and relaxed against his side, her spasticity kept in check by the anchor of his leg over hers.
+
+Patrick sat up carefully. He placed a hand on her shoulder, applying gentle, steady pressure to ease her into wakefulness without a spasm.
+
+"Game day, Nikki," Patrick whispered.
+
+Nichole blinked open her eyes. She didn't look terrified like she had on the first day of middle school. She looked ready.
+
+## Time: 6:45 AM Location: The Master Bath
+
+The morning routine was a silent ballet of efficiency.
+
+Patrick rolled the shower chair into the slate-tiled, zero-entry stall. He turned on the water, testing the temperature on the sensitive skin of his inner forearm—a muscle memory ingrained over years of practice. It was hot enough to loosen tight muscles, but safe.
+
+He helped Nichole transfer. He didn't struggle with her weight. At nineteen, Patrick was stronger than he had ever been. He used the "deadlift carry" she preferred—left arm under her knees, right arm around her back—keeping her close to his center of gravity. It felt secure. It felt safe.
+
+He washed her hair, his fingers working quickly and gently. He checked her skin integrity. He managed the mechanics of her body with the detachment of a nurse and the tenderness of a brother.
+
+When they were done, he dried her off with the thick towels warmed on the rack.
+
+"Hair up or down?" Patrick asked, holding the brush.
+
+Nichole tapped the counter twice. *Up.*
+
+"Combat mode. Good call," Patrick grinned. He pulled her hair back into a tight, efficient ponytail that wouldn't get caught in her headrest.
+

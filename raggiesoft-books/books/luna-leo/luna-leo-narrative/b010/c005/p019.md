@@ -1,0 +1,32 @@
+# Part 19: The Contaminated Sanctuary
+
+He was clean, he was cared for, and he was surrounded by his fortress of love. As Leo lay on Stella’s bed, a profound weariness settled deep in his bones.
+
+"Alright, buddy," Stella said softly, her voice full of a gentle, loving purpose. "Ready to get you into your own bed for the night? You must be exhausted."
+
+She and Luna made a move to help him sit up for the transfer back to his wheelchair. But the moment the words "your own bed" hit his ears, Leo flinched as if struck. His body went rigid, a new and terrible wave of panic washing over him, completely different from the earlier meltdown. He scrambled back on the waterbed, away from them, shaking his head violently, a low, guttural sound of pure terror escaping him.
+
+His sisters and Olivia froze, instantly recognizing this new, specific fear.
+
+He reached a trembling hand for Luna's AAC device, which she had placed on the nightstand. His fingers fumbled, his message a torrent of raw, fragmented panic.
+
+NO. NOT MY ROOM. NOT MY BED. SHE WAS THERE. DELORES. IN MY BED. VIOLATION. CAN'T. CAN'T SLEEP THERE. EVER AGAIN. TOO SCARED. PLEASE.
+
+A profound, horrified silence fell over the room as the three women processed the words. It wasn't just the memory of Delores; it was the contamination of his one true sanctuary. She had been *in his bed*. The place he had always retreated to for safety was now the source of his greatest terror.
+
+They all understood instantly. There would be no discussion, no attempt to reason with him. His fear was absolute, and their priority was his safety.
+
+Stella's expression was one of fierce, unwavering resolve. She looked at her king-sized bed, then at her brother, and then at the two women who were just as vital to his well-being as she was. "Okay," she said, her voice a calm, non-negotiable command in the face of this new crisis. "New plan. Nobody is sleeping alone tonight."
+
+Leo looked up at her, his eyes wide and pleading. He was still trembling, but a flicker of hope had ignited. He typed again, his request a desperate, specific plea for the only configuration of safety he could imagine.
+
+LUNA... ON ONE SIDE. OLIVIA... ON THE OTHER. PLEASE?
+
+Stella’s heart ached with love for him. She didn't hesitate for a second. "You got it, buddy." She looked at Luna and Olivia, a silent question in her eyes that she already knew the answer to. They both gave her a firm, determined nod.
+
+"Alright, team," Stella said, her voice full of a weary but unbreakable love. "It's going to be a tight squeeze, but we're making it work. My bed is your bed tonight, Leo."
+
+It was a chaotic but loving ballet of logistics. Stella and Olivia quickly retrieved pillows and blankets. They all crammed onto the large waterbed, a strange, four-person raft in a sea of trauma. Stella took the outside edge, giving the three of them as much space as she could.
+
+Leo was in the middle, a position of ultimate safety. Luna immediately curled up on one side of him, and Olivia on the other. They flanked him, their arms wrapping around him, creating a warm, living fortress. He was surrounded, held, and protected. He wasn't just safe for a night. He was safe forever. And in the quiet darkness, cocooned by the unwavering love of the three most important women in his life, he finally, truly, began to feel the first fragile sense of peace.
+

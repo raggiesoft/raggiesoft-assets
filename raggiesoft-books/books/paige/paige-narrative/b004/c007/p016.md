@@ -1,0 +1,63 @@
+# Part 16: The Shutdown Protocol
+
+## Thursday, May 13, 2004 — 21:30 PM (EST) 105 Pepper Street SE, Christiansburg, VA
+
+The house was cool and smelled faintly of old wood and laundry detergent. It was the smell of stasis. Nothing had changed while they were gone. The furniture was exactly where they left it. The silence was heavy and protective.
+
+There was no unpacking. There was no sorting of laundry. There was only the imperative of rest.
+
+"Protocol: Crash," Jessica announced, dropping her keys in the bowl by the door. "Zero energy remaining."
+
+"Agreed," Paige said, rubbing her face with both hands. "My battery is at 1%."
+
+They moved as a unit to the master bedroom at the back of the house. It was a large room, dominated by a massive King-sized bed. It wasn't just furniture; it was the raft. It was the one place where the geometry of their family made physical sense.
+
+Freddie walked to the edge of the bed. He felt the soft carpet under his socks. He looked at the expanse of the mattress.
+
+"Target acquired," Freddie whispered.
+
+He didn't need to ask permission here. He didn't need to explain why textures bothered him or why clothing felt like a cage after a fourteen-hour travel day.
+
+He pulled off his hoodie. It fell to the floor in a heap of orange fabric. Next came the t-shirt. Then the jeans. Then the rest.
+
+Paige and Jessica did the same. There was no hesitation, no modesty, and no sexualization. It was simply the removal of the "outside" layer. The airport air, the seatbelt grime, the stress of the checkpoint—it all clung to the fabric. By stripping it off, they were shedding the mission.
+
+They climbed in.
+
+The sheets were cool cotton, clean and crisp.
+
+Freddie scrambled to the center. It was his designated coordinate. Paige climbed in on the left (the driver’s side). Jessica climbed in on the right (the guard side).
+
+They settled instantly.
+
+Freddie lay on his back, staring up at the dark ceiling. He felt the heat of Paige’s arm against his left side. He felt the weight of Jessica’s leg draped over his shin on the right.
+
+"Sandwich complete," Freddie murmured.
+
+"Lights out," Jessica whispered, reaching over to the bedside lamp. *Click.*
+
+The room plunged into darkness. Not the scary darkness of a hotel room, but the familiar, heavy blackness of home.
+
+"Alarm status?" Freddie asked into the void.
+
+"Disabled," Paige promised, her voice already thick with sleep. "No alarms. No schedules. We sleep until the sun wakes us up."
+
+"And then?" Freddie asked.
+
+"And then we make pancakes," Jessica mumbled. "But not until noon."
+
+Freddie closed his eyes.
+
+He visualized his internal dashboard. The warning lights that had been flashing red for days—*Stress*, *Fear*, *Overload*—flickered and turned off, one by one.
+
+*Checkpoint: Cleared.* *Flight: Landed.* *Tunnel: Survived.* *Vanessa: Gone.*
+
+"System... shutting down," Freddie whispered.
+
+He rolled onto his side, facing Paige, curling his knees up. Jessica shifted closer, her arm coming over to rest on his hip, locking him in place.
+
+For the first time in a week, Freddie didn't just sleep. He rested. The emergency brake was off. The engine was cold. The truck was parked in the yard.
+
+He was home.
+
+

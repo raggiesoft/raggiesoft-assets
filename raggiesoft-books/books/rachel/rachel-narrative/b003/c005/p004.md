@@ -1,0 +1,41 @@
+# Part 4: Fortifying the Perimeter – 10:30 AM
+
+The vacuum finally whined to a halt. The scraping stopped.
+
+The sudden silence in the living room was deafening. The sweep carefully packed his fiberglass rods away, peeling the plastic drop cloth off the front of the pristine, newly cleaned hearth. He gathered his equipment, still respectfully keeping his eyes averted from the medical bed, and walked back to the foyer.
+
+Dad followed him to the front door, handed him a check, and locked the deadbolt the second the man stepped off the porch.
+
+The threat was gone.
+
+"He's out," Dad announced, turning back into the living room.
+
+The collective sigh of relief from the Base Camp was audible. Jessica and Janette uncrossed their arms, and Baby let his ears flop back into a relaxed position. Rachel’s death grip on my hand finally loosened into a comfortable, exhausted hold.
+
+But Dad wasn't finished.
+
+He walked past the living room and disappeared into the kitchen. A minute later, he emerged carrying something heavy. It was a brand-new, massive, industrial-grade red fire extinguisher. He also had a cordless drill and a heavy metal mounting bracket.
+
+Dad walked over to the wooden archway that separated the living room from the kitchen—the exact midpoint of the house, perfectly visible from our pillows.
+
+"Base camp, listen to me," Dad said, raising the drill. "The flue is completely clean. Tonight, we are going to build a fire, and we are going to keep this room warm. But when you build a fire, you have to be prepared for the risks."
+
+He drove the heavy steel screws into the wooden stud of the archway. The drill whirred loudly, but it was a safe, familiar sound. It was the sound of our father building something.
+
+He took the heavy red fire extinguisher and locked it securely into the metal bracket. It hung there, bright and undeniable, right in our line of sight.
+
+Dad walked over to the foot of the bed and looked down at us.
+
+"The fire is going to keep the cold away," Dad rumbled, his voice filled with an absolute, unbreakable promise. "But that extinguisher is proof that we are in control. If a single spark ever jumps out of that hearth, if anything ever threatens this room, I will put it out instantly. You are not going to freeze, and you are not going to burn. You are completely safe."
+
+I stared at the heavy red cylinder mounted on the wall, and then looked at my father.
+
+The psychological weight of the gesture was profound. He wasn't just giving us a heat source; he was giving us the visual, undeniable proof of a failsafe. He was demonstrating that the adults had calculated every single variable, mapped every single danger, and fortified the perimeter against it.
+
+"Thank you, Dad," I rasped, the tightness in my chest finally unraveling.
+
+Rachel looked at the fire extinguisher, and a tiny, genuine smile broke across her tired face. She reached out and gave a soft, rhythmic double-tap against my knuckles. *Safe.*
+
+The chill in the air was still there, but it didn't matter anymore. The chimney was clean, the perimeter was locked, and as Dad went to the garage to bring in the first load of seasoned firewood, we knew the Base Camp was officially ready to survive the winter.
+
+

@@ -1,0 +1,12 @@
+# Part 4: Lunch Break
+
+"Alright," Arthur said, clapping Stella gently on the shoulder as they got back into his car. "I think we both need a break and some lunch before we try the Holt place. My treat."
+
+They found a quiet local diner nearby. As they waited for their sandwiches, Stella sighed. "Is it always like this, Grandpa? They just wouldn't talk about a cash price!"
+
+Her grandfather chuckled softly. "Often, sweetheart. Especially these days when financing is such a huge profit driver, just like I warned you. See, running Keystone Motors of Middletown for thirty-five years, I learned you have to train your sales team. Because I didn't need the money from the dealership – I was already doing well with other investments – I taught my team that customer service was more important than being pushy. Some managers today just focus only on maximizing profit per unit through finance and insurance products, not just moving inventory with a fair cash deal. They figure if they keep you focused on that low monthly number, wear you down, you'll eventually agree just to escape."
+
+He took a sip of his iced tea. "It's why my place did so well," he added with quiet pride. "We were regionally famous – people came from eastern Connecticut, southern Massachusetts, driving right past other dealers. They knew Keystone Motors of Middletown dealt straight, that we weren't pushy. Built trust. Everyone knew the jingle: *'There’s only one choice: Keystone Motors!'*. That trust is worth more than squeezing an extra hundred bucks out of a bad financing deal. Anyway," he patted her hand, "the game doesn't change much. Be firm, know what you want, know what it's worth, show them you're serious, and be ready to walk. They hate losing a guaranteed cash sale."
+
+He smiled. "Don't get discouraged. We know what you need for Luna and Leo. That **Sent looked** promising from the specs. Let's get some food in us, then we'll go talk to the Holt folks. Third time's the charm, right?" His confidence, born of years running a successful, customer-focused dealership, was reassuring.
+

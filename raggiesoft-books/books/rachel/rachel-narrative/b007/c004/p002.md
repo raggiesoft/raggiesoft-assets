@@ -1,0 +1,32 @@
+# Part 2: The Concrete Canyons – 11:30 AM (PST)
+
+The local King County 230 deposited us right in the heart of the Bellevue Transit Center. We didn't have to wait long. The massive, articulated TAPS 550 express bus pulled up, its air brakes hissing loudly as the doors swung open.
+
+Jessica navigated the ramp, locking into the tie-down bay, and the pack officially pivoted back toward Seattle.
+
+The 550 didn't take the northern route. It shot straight down Interstate 90, but before we hit the floating bridges, the highway plunged directly through a massive, heavily forested landmass sitting right in the middle of Lake Washington.
+
+"Where are we?" Mom asked, looking out the window at the glimpses of sprawling, multi-million-dollar waterfront estates hidden behind massive iron gates and towering evergreens.
+
+Jessica didn't need to look at the map. Her analytical brain had already memorized the regional demographics from her Quantum orientation packet. "Mercer Island. It's the highest-income zip code in the entire state. The highway actually had to build a series of custom concrete tunnels just to hide the traffic noise so it wouldn't bother the residents."
+
+Mom scoffed, shaking her head at the sheer, obnoxious scale of the architecture rolling past the windows. "Must be nice. A whole island of rich snobs hiding from the rest of the world."
+
+Jessica tapped her fingers rhythmically against her push-rims. "William Keswick lives here."
+
+Mom froze. She looked away from the window, turning slowly toward Jessica. "Did I just call the CEO of Quantum a rich snob?"
+
+"You did," Jessica replied, a rare, highly amused smirk breaking through her stoic armor. "But considering he’s the one paying my entire NPU tuition and putting me on a highly competitive corporate salary starting Monday, we’ll let it slide. His estate is supposedly built right into the eastern shoreline. Sixty-six thousand square feet."
+
+Mom blinked, trying to process the sheer mathematical absurdity of a single house being that large. "Lord have mercy."
+
+The bus cleared the Mercer Island tunnels and dropped us onto the third floating bridge spanning the lake: the Homer M. Hadley Memorial Bridge.
+
+As we crossed the massive expanse of blue water, my brain locked onto the parallel structure running right next to us. It was the Lacey V. Murrow Memorial Bridge, carrying the eastbound traffic. I stared out the bus window, letting the data catalog itself in my head. It had been exactly ten years since the original Murrow bridge sank to the bottom of the lake during a massive Thanksgiving storm in 1990. Tracking the historical engineering trivia gave my mind a quiet, organized task to focus on as the skyline of Seattle rapidly approached.
+
+Because it was Saturday, the Downtown Seattle Transit Tunnel was locked down. The 550 couldn't plunge into the quiet, subterranean electric grid. Instead, it exited the highway and dropped us directly onto the heavy surface streets of 4th Avenue.
+
+The visual transition was staggering.
+
+We stepped off the bus and into a towering, man-made canyon of glass, steel, and concrete. The sheer vertical scale of the financial district blocked out the midday sun, casting long, sharp shadows across the gridlocked traffic. It was loud, chaotic, and vibrating with the heavy energy of a major metropolitan hub, but it was nothing compared to the absolute sensory gauntlet waiting for us three blocks away.
+

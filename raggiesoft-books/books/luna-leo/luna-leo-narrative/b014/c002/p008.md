@@ -1,0 +1,98 @@
+# Part 8: The Flight Risk
+
+## Monday, December 18, 2006 Iron County Superior Court - Oakhaven 09:00 AM
+
+The courtroom was tense.
+
+**Robert Halloway** sat at the defense table in an orange jumpsuit. He whispered urgently to his lawyer.
+
+**Officer Dave Miller** had just finished his testimony regarding the assault at the donut shop.
+
+The State Prosecutor stood up. He looked confident. He held the evidence bag containing the foreign passport.
+
+"Your Honor," the Prosecutor began. "The State vehemently opposes bail. When the defendant's rental car was searched, we found a passport from **Volstov**, a nation with no extradition treaty. Mr. Halloway has wired millions offshore. He is a flight risk of the highest order."
+
+Judge Vance nodded, looking at the defense attorney. "Counsel? Your client has a ticket to a rogue state in his pocket. Convince me not to remand him."
+
+The Defense Attorney stood up to argue. "Your Honor, my client is a businessman—"
+
+## The Breach
+
+*BANG.*
+
+The double doors at the back of the courtroom didn't just open; they were thrown wide.
+
+Three men in dark suits and windbreakers emblazoned with **FBI** marched down the center aisle. They moved with a speed and aggression that made the bailiffs reach for their weapons before freezing.
+
+The State Prosecutor spun around. "Excuse me? This is a closed arraignment! You can't just—"
+
+"Federal Agents!" the Lead Agent shouted, his voice echoing off the walls. "Nobody move!"
+
+Judge Vance slammed her gavel. "Order! This is my courtroom! Who do you think you are?"
+
+The Lead Agent didn't stop until he reached the bar. He flashed a badge.
+
+"Special Agent Ross, FBI Counter-Intelligence," he announced. "We are asserting federal jurisdiction over this prisoner."
+
+The Prosecutor blinked, stunned. "Jurisdiction? For a simple assault? We have him on state charges. You can't just—"
+
+"We aren't taking him for assault," Ross cut him off, slamming a federal warrant onto the defense table.
+
+He pointed a finger at 'Robert.'
+
+"The man in custody is not Robert Halloway. 'Robert Halloway' is a synthetic identity created twenty years ago. His true name is **Colonel Viktor Krov**."
+
+The room went dead silent. The Defense Attorney dropped his pen. Sarah, sitting in the front row, gasped.
+
+"Viktor Krov?" Judge Vance asked, looking at the warrant. "The... fugitive?"
+
+"He is a known intelligence operative for the **Democratic Republic of Volstov**," Ross continued, his voice cold. "He is wanted for Espionage, Visa Fraud, and Acting as an Unregistered Foreign Agent. We have been tracking him for six months. Your arrest on Saturday just accelerated our timeline."
+
+Ross looked at the State Prosecutor.
+
+"You can keep your assault charge, Counselor. But he’s coming with us. He’s going to a black site, not the county jail."
+
+## The Reaction
+
+Viktor Krov stood up. The mask of the "Concerned Dad" fell away completely. His face settled into a cold, military sneer. He looked at Agent Ross with recognition.
+
+"Ross," Krov said, his American accent slipping into a harsh Slavic edge. "You finally found me."
+
+"We found you," Ross confirmed. "And you aren't going back to Volstov."
+
+"I am a Diplomat!" Krov shouted, playing his last card. "I demand access to the Consulate! I have immunity!"
+
+Judge Vance looked at the FBI Agent.
+
+"Does he?" Vance asked.
+
+"He is unregistered," Ross said. "He is a spy, Your Honor. Not a diplomat. He has no standing."
+
+Judge Vance looked at Krov. She looked at the chaos in her courtroom. She looked at Sarah, trembling in the front row.
+
+She slammed her gavel.
+
+"**BAIL DENIED**," Vance ruled. "The defendant is remanded to the immediate custody of the United States Marshals. Get him out of my town."
+
+## The Extraction
+
+The FBI agents swarmed the table. They didn't use standard handcuffs; they used heavy shackles.
+
+As they dragged him out, Krov twisted around. He looked at Sarah.
+
+"You stupid girl!" he screamed. "You don't know what you've done! You destroyed the mission!"
+
+Sarah didn't flinch. She watched the man who had terrorized her for eighteen years get hauled away by the Federal Government.
+
+Leo, sitting in the aisle in his Titan, tapped his **Quantum Communicator**.
+
+*"HE WAS A GHOST,"* the robotic voice said. *"NOW HE IS CAUGHT."*
+
+"He's gone," Stella whispered, holding Sarah tight. "He's really gone."
+
+The doors swung shut. The State Prosecutor looked at his empty table, then at the Judge.
+
+"Well," the Prosecutor muttered. "I guess that clears my docket for the morning."
+
+"It certainly does," Judge Vance said, exhaling slowly. "Court is adjourned."
+

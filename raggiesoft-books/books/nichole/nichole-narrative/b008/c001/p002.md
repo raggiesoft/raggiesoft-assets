@@ -1,0 +1,102 @@
+# Part 2: The System Reboot
+
+## Date: Friday, August 27, 2004 Time: 9:45 AM Location: The Media Room (Quiet Zone)
+
+The heavy soundproof door clicked shut, sealing out the chaos of the arena floor. The silence in the media room was sudden and absolute.
+
+Patrick exhaled, leaning back against the white wall next to the ID camera setup. He looked at the two plastic cards in his hand—their tickets to the university.
+
+"Okay," Patrick said, his voice low and calm. "We got the IDs. The housing waiver is in the system. We don't need to listen to the Dean of Students give a speech about 'Finding Your Passion.' We can be back at the loft in twenty minutes."
+
+He moved behind Nichole’s chair. It was a sleek, custom-built manual chair—titanium frame, ultra-lightweight, with high-performance wheels. There were no motors to hum, no batteries to charge. It was just simple, mechanical efficiency.
+
+He gripped the push handles.
+
+"Ready to roll out?"
+
+Nichole sat there, her hands gripping her armrests. Her chest was still tight. The "Hive" out there had rattled her sensors. Every instinct screamed Run. Hide. Go back to the fortress.
+
+But another voice—smaller, but stubborn—whispered something else.
+
+If you leave now, you start the semester running away.
+
+She didn't want to be the "Special Case" who disappeared out the back door. She was a student. She belonged here just as much as the cheerleaders and the guys in the backwards baseball caps.
+
+She lifted her hand. She made a fist, then opened it. Wait.
+
+She reached for her communication device.
+
+"STOP."
+
+Patrick paused. He came around to the front of the chair, kneeling down so he was eye-level with her.
+
+"What's up, Nikki?"
+
+Nichole looked at him. She pointed to her chest, then made a squeezing motion with her arms.
+
+"NOT. LEAVING. YET. NEED. SQUEEZE."
+
+Patrick understood immediately. It wasn't about affection; it was about regulation. Her proprioceptive system—the internal sense of where her body was in space—was frazzled by the noise and lights. She felt like she was floating, disintegrating. She needed Deep Pressure Therapy to put the pieces back together.
+
+"System Reboot?" Patrick asked.
+
+Nichole nodded.
+
+"Okay. Arms up."
+
+Patrick stood up and moved in close. He didn't hug her like a brother greeting a sister. He hugged her like a mechanic securing a load.
+
+He wrapped his arms around her upper torso, applying firm, steady, crushing pressure. He squeezed hard—hard enough that it might have hurt someone else, but for Nichole, it was grounding.
+
+He held the pressure for ten seconds. One. Two. Three...
+
+He released slowly.
+
+Then he moved to her shoulders, pressing down with his full weight.
+
+Then he squeezed her forearms, compressing the muscles from wrist to elbow.
+
+Nichole closed her eyes. She felt her heart rate drop. She felt the static in her brain clear. The "floating" sensation vanished. She could feel the edges of her body again. She was solid. She was real.
+
+She took a deep breath. The air in the room felt cooler. The lights seemed less bright.
+
+Patrick stepped back, watching her face closely. He was reading the telemetry.
+
+"Status?"
+
+Nichole opened her eyes. She looked at the door. The roar of the orientation was still out there, muffled but present.
+
+She wasn't afraid of it anymore.
+
+She tapped her screen.
+
+"SYSTEM. ONLINE."
+
+She looked at Patrick, then at the door.
+
+"WE. STAY."
+
+Patrick raised an eyebrow. "You sure? We can skip the speeches. No one will know."
+
+Nichole shook her head.
+
+"NO. SKIPPING. WE. ARE. FRESHMEN."
+
+Patrick grinned. It was that stubborn Bennett pride. She was terrified, but she was refusing to yield.
+
+"Alright then," Patrick said, moving back to the push handles of her manual chair. "If we're doing this, we're doing it right. I'll find us a spot near the back, close to the exit tunnel, just in case. But we go in through the front door."
+
+He unlocked the brakes.
+
+"Ready to face the mob?"
+
+Nichole gripped her armrests. She felt the lingering pressure of his hug on her ribs, a phantom armor protecting her.
+
+"GO."
+
+Patrick pushed the door open. The noise of the arena rushed back in—a wall of cheers and music.
+
+But this time, Nichole didn't flinch. She sat up straight in her chair, lifting her chin.
+
+They rolled out of the quiet room and back into the lights, two soldiers rejoining the formation.
+

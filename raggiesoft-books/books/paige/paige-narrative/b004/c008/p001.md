@@ -1,0 +1,256 @@
+# Part 1: The Invalid Variable
+
+## Sunday, May 23, 2004 — 15:10 PM 105 Pepper Street SE
+
+The living room of 105 Pepper Street was a sanctuary of controlled variables. The air conditioner hummed its steady, white-noise lullaby, keeping the Virginia humidity on the other side of the vinyl siding.
+
+Freddie sat curled on the beige sofa, the weight of his Iron-Logic laptop warm against his thighs. He was deep in the code for the "Asteroid Belt" page of Project Helios, optimizing the table borders to ensure perfect alignment.
+
+On his right, Paige sat thigh-to-thigh with him. She was reading a paperback, but her presence was a constant stream of tactile data: Heat. Pressure. Safety. Her leg pressed against his, a grounding wire that kept his own nervous system from fraying.
+
+In the kitchen, the clink of glass jars signaled that Jessica was organizing the spice rack—a rhythmic, domestic sound that Freddie filed under "Normal Operations."
+
+*Knock. Knock. Knock.*
+
+The sound was wrong. It wasn't the heavy, rhythmic thud of a delivery driver. It was a weak, scratching sound against the wood. A hesitation.
+
+Freddie froze. His fingers hovered over the keyboard. The sudden introduction of an unknown variable caused a spike in his heart rate.
+
+"Stay put," Jessica commanded softly.
+
+She moved past the sofa, her socks silent on the carpet. She approached the door but didn't touch the handle. She leaned in, pressing her eye to the peephole.
+
+Freddie watched her back muscles tense. She stood perfectly still for a second, processing visual input. Then, she reached up and threw the deadbolt.
+
+*Click.*
+
+But she didn't open the door fully. She engaged the brass security chain, sliding it into the track. She cracked the door two inches. The chain went taut, a golden line of defense.
+
+"What do you want?" Jessica asked. Her voice was zero degrees Kelvin.
+
+"I didn't have anywhere else to go," a voice whispered from the porch.
+
+Freddie flinched. He knew that frequency. It was scratchy, broken, and terrified.
+
+*Vanessa.*
+
+"My aunt kicked me out," Vanessa sobbed through the crack. "I... I hitchhiked back. I walked from the highway."
+
+"Not our problem," Jessica said, starting to push the door shut. "You're banned. Leave."
+
+"Wait!"
+
+Vanessa jammed her foot into the gap at the bottom of the door, wedging her dirty sneaker between the frame and the heavy wood.
+
+Jessica stopped pushing. She looked down at the foot. Then she looked through the crack, her eyes cold.
+
+"Remove the obstruction," Jessica warned calmly. "Or I will remove it for you."
+
+"Jessica, please—"
+
+"I am going to slam this door in three seconds," Jessica stated. "If your foot is there, I will break it. One."
+
+Vanessa hesitated.
+
+"Two." Jessica pulled the door back slightly to get momentum.
+
+Vanessa yanked her foot back instantly.
+
+*WHAM.*
+
+Jessica didn't close it all the way. She caught it just before the latch clicked, keeping the chain taut, maintaining the two-inch visual sliver.
+
+"I'm listening," Jessica said through the gap. "Make it fast."
+
+Freddie set his laptop on the coffee table. He stood up. The pull of the doorway was magnetic—a source of error that needed to be resolved. He walked up behind Jessica, looking over her shoulder.
+
+Vanessa stood on the porch. She looked wrecked. She was wearing a faded, oversized flannel shirt that hung off her shoulders like a tarp. Her hair was greasy and loose. Her face was gaunt, dark circles bruising the skin under her eyes.
+
+She looked like a system in total collapse.
+
+"Illness?" Freddie asked softly.
+
+Vanessa’s eyes locked onto his through the gap. They widened, filling with fresh tears.
+
+"Freddie," she breathed. "Freddie, please. You have to help me."
+
+"Why?" Jessica demanded, not moving an inch. "Why does he have to help you?"
+
+Vanessa looked at Jessica, then back at Freddie. She took a shuddering breath.
+
+Then, she moved. She placed her hands low on her stomach, over the loose flannel fabric. She arched her lower back slightly, thrusting her hips forward. She pressed the fabric down against her skin, molding it to emphasize a shape.
+
+It wasn't a natural stance. It was a pose. It was a performance.
+
+"Because I'm pregnant," she said.
+
+The word hit the cool air of the living room like a physical object. *Pregnant.*
+
+Freddie blinked. He processed the definition. Biological reproduction. Gestation. Fetus.
+
+He looked at her stomach. He saw the curve she was straining to emphasize with her hands and her posture. To his literal mind, the visual data was absolute.
+
+*Input: Convex curvature of the abdomen.* *Input: Verbal confirmation.* *Conclusion: Advanced gestation.*
+
+"So?" Jessica said, her voice dripping with skepticism. She didn't look at the stomach; she looked at Vanessa's arching back. She saw the effort. She saw the act. "Congratulations. Go find the father."
+
+Vanessa didn't look away from Freddie. She pushed her stomach out further, selling the silhouette.
+
+"I did," she whispered. "He's standing right there."
+
+The silence that followed was absolute. The hum of the AC seemed to vanish.
+
+"It's Freddie's," Vanessa claimed, her voice gaining a desperate, terrifying strength. "It happened in Pasco. In the bathroom. I... I tried to stop him, but..."
+
+She let the sentence trail off, painting a picture in the negative space. A picture of a traumatized boy losing control. A picture of a blackout rage.
+
+For a split second, the "Pasco File" opened in Freddie’s mind. The memory was fragmented by panic—the cold tile, the shouting, the pain in his back.
+
+*Did I?* The "Robert Virus" flared up, suggesting that he was broken, that he was a monster capable of things he couldn't remember. *Did the system fail? Did I lose time?*
+
+He looked at her stomach again. The bump looked real to him because she was presenting it as real. But then, his logic engine kicked in.
+
+"The... the geometry," Freddie stammered, pointing a shaking finger at the crack in the door. "The mass is significant. Biology dictates time. If the conception was Pasco... that was sixteen days ago."
+
+He frowned, his logic processor struggling to reconcile the visual input with the math.
+
+"A sixteen-day embryo is microscopic," Freddie whispered. "Your abdomen suggests... months."
+
+Vanessa flinched. She realized she was overselling it. She adjusted her stance, slouching slightly to make the flannel bunch up more, trying to hide the lack of actual mass.
+
+"It's... it's fast," Vanessa lied, desperate to bridge the logic gap. "It's growing so fast, Freddie. It's a strong baby. It's *yours*."
+
+Jessica snorted. A harsh, derisive sound.
+
+"Oh, stop it," Jessica snapped. "Stop pushing your gut out, Vanessa. You look ridiculous."
+
+"I'm not!" Vanessa cried, clutching the shirt.
+
+"You are," Paige said, stepping up beside Freddie. She glared through the crack. "I took AP Biology. Sixteen days? You wouldn't even be late yet. You're bloating, and you're arching your back to manipulate him."
+
+Paige turned to Freddie, grabbing his arm to ground him.
+
+"She is faking the visual, Freddie," Paige stated firmly. "Do not accept the input. It is a performance."
+
+"But she said..." Freddie started, confused by the conflicting data.
+
+"She lied," Paige said. "And about Pasco? That didn't happen either. I felt you. I felt the panic. I felt the pain. If you had done that... if you had crossed that line... I would have felt it. It didn't happen."
+
+Freddie looked at Vanessa. He looked at the hand pressing the flannel.
+
+Then, a different file opened. It wasn't a memory of trauma. It was a memory of hard, medical data.
+
+- **Date:** 1999
+
+- **Location:** Pediatric Specialist, Norfolk
+
+- **Subject:** Freddie Avery (Age 14)
+
+- **Result:** Anomalous development. Seminal fluid present. Sperm count: Zero.
+
+- **Diagnosis:** Azoospermia
+
+The panic evaporated. The static cleared instantly, replaced by the cool, blue screen of logic.
+
+Vanessa was claiming an output that his hardware could not produce.
+
+He looked at her tears. He looked at her desperation. He looked at the fake bump she was straining to maintain.
+
+He realized, with a sudden, clinical clarity, that she must have been with someone else. She must have had an affair.
+
+Freddie processed this "betrayal."
+
+Did it hurt? No.
+
+To Freddie, the terminology of relationships was literal, not social. To be a "girlfriend" meant she was a girl who was a friend. To be a "partner" meant a shared project. It meant synchronization. It meant two systems running in parallel to maintain the same server.
+
+Vanessa was not his partner. She was a user who had spent time in his orbit. She was a guest account with limited privileges. The fact that she had docked with another port was irrelevant to him emotionally. It was just data. She had sought compatibility elsewhere.
+
+There was only one valid "partner" in his architecture.
+
+He glanced at Paige, who was standing beside him, her arms crossed, her eyes blazing with protective fury.
+
+*Paige.* She was his twin. His co-processor. The redundant system that kept him online when his own hardware failed. She was the one who managed the inputs he couldn't handle. She was the one who shared his timeline, his biology, and his survival.
+
+*That* was a partner.
+
+Vanessa was just noise.
+
+Freddie adjusted his glasses. He stepped closer to the chain.
+
+"That is," Freddie stated, his voice flat and devoid of emotion, "a biological impossibility."
+
+Vanessa blinked, thrown off by his calm. She straightened up slightly, losing the "bump" posture for a second before remembering to slouch again. "Freddie, please... I know you're scared. I know you blocked it out..."
+
+"You remember a fiction," Freddie said. "Your data is corrupted."
+
+Jessica stepped forward, her face hardening into a look of supreme victory. She looked at Vanessa through the crack.
+
+"Vanessa," Jessica said, her voice dropping to a conversational bore. "Do you know what 'Azoospermia' is?"
+
+Vanessa paused, her sob hitching. "What?"
+
+"It means he shoots blanks," Jessica said, crossing her arms. "Complete sterility. We've known since he was fourteen. We have the charts. We have five years of lab reports on file."
+
+Vanessa’s face went white. She stood up straight, forgetting to arch her back. The "bump" vanished instantly under the loose flannel.
+
+The "victim" mask slipped, revealing the raw panic underneath.
+
+"Your variable is invalid," Freddie said quietly. "The output you are claiming—the pregnancy—cannot be derived from my input. The system does not support that function."
+
+"Maybe the doctors were wrong!" Vanessa grasped, her voice rising in pitch. "Miracles happen! Stress can change things!"
+
+"Stress doesn't rewrite DNA," Jessica snapped. "And doctors aren't wrong five years in a row."
+
+Jessica looked at Vanessa’s stomach, which was now flat again as Vanessa panicked. Her eyes narrowed.
+
+"You're pregnant," Jessica deduced. "I believe that part. You look sick. But it isn't Freddie's. It's probably one of the random guys you hooked up with at a party before you decided to 'kidnap' him. Or maybe someone back at school."
+
+Freddie watched Vanessa’s face. He saw the flinch.
+
+"You tried to kidnap him," Jessica hissed through the crack. "You abused him. And now you tried to pin your mistake on him because you thought he was 'broken.' You thought he would believe he was a monster just because you puffed your stomach out."
+
+Jessica smiled, but it was a terrifying expression.
+
+"But he knows his code. And so do we."
+
+Vanessa stood on the porch, the heat radiating around her. Her Trojan Horse had burned down before it even breached the wall.
+
+"Please," she whispered, her voice small. "I have nowhere else to go."
+
+"You aren't coming in here," Freddie said.
+
+He reached past Jessica. He grabbed the door handle.
+
+"You are dismissed," Freddie said. "If you return to these coordinates, we will contact law enforcement for trespassing."
+
+"Freddie—"
+
+"Connection terminated," Freddie whispered.
+
+He slammed the door.
+
+*Click-THUNK.* The deadbolt slid home.
+
+Inside, the cool air returned. The silence of the house wrapped around them.
+
+"Status?" Jessica asked, turning to face him.
+
+Freddie looked at his hands. They were steady.
+
+"Status: Secure," Freddie said. He looked at Paige. "I did not blackout. I remembered correctly. I stopped her."
+
+"You did," Paige beamed, hugging him hard. "You stopped her then, and you stopped her now."
+
+"She had an affair," Freddie noted, resting his chin on Paige's head. "She sought compatibility elsewhere."
+
+"She sought chaos," Jessica corrected, walking to the phone. "And she found it. Now, I'm calling the lawyer. We're getting that paper trail started."
+
+"Agreed," Freddie said.
+
+He walked back to the sofa. He sat down and picked up his laptop. The screen glowed with the clean, orderly lines of his code.
+
+The threat was deleted. The variable was null.
+
+"Resuming orbit," Freddie murmured.
+

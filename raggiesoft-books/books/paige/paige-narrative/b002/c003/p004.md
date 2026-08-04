@@ -1,0 +1,32 @@
+# Part 4: Pepper Plaza
+
+The rest of the drive was a blur of darkness and trucks. Jessica navigated the "chute" of I-81 with aggressive competence, darting between massive 18-wheelers that swayed in the wind.
+
+"Exit 118B," Jessica announced an hour later. "Christiansburg. Blacksburg. The Holy Land."
+
+She took the ramp, looping around onto **US-11 / Business US-460**.
+
+"Falling Branch Park and Ride is right there," Jessica pointed to a dark lot off the exit. "That’s the end of the line for the local buses. But we're going downtown."
+
+She turned left, heading into the heart of Christiansburg. The town was older, grittier than the polished suburbs of Virginia Beach. They passed auto parts stores and diners until the road opened up into a square dominated by the county courthouse.
+
+"Pepper Plaza," Jessica announced, turning into a side street. "Transfer point."
+
+Freddie looked out the window. It was a hub of activity.
+
+Three buses were idling in the plaza, their engines rumbling. They weren't the yellow school buses he was used to. These were sleek, white and maroon city buses marked **Blue Ridge Transit**.
+
+"Look at the signs," Freddie whispered, reading the LED headers.
+
+The first bus, a massive 60-foot articulated vehicle that bent in the middle like an accordion, displayed: **1 CPI**. "That one goes to the university," Jessica explained. "Straight shot."
+
+The second bus, a standard 40-foot model, displayed: **1 FALLING BRANCH**. "That one goes back to where we just got off the highway," Jessica said. "It runs the full length. No short turns.".
+
+A third bus sat nearby, displaying **3 RADFORD**.
+
+"The grid is active," Freddie said, fascinated by the coordination of the heavy machines.
+
+"It runs seven days a week," Jessica said. "If you have a student ID, you ride for free. Anywhere.".
+
+She pulled the Avalon into a parking lot just a block away from the plaza. It was a brick apartment building that looked like it had been built in the 70s—solid, unpretentious, and quiet.
+

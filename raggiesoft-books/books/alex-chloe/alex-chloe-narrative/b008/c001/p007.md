@@ -1,0 +1,40 @@
+# Part 7: A Lifeline Offered
+
+The CCHR Virginia Beach library was a quiet sanctuary. In a secluded study carrel, Alex and Sarah Jenkins were deep into their second group project for their Introductory Psychology class. For Alex, the partnership had been a profound relief. For Sarah, it had been a source of growing concern.
+
+She had known Alex Miller, in a peripheral way, for most of her life. As Megan Carter's best friend since elementary school, she had spent countless afternoons at the chaotic, loving Carter house. She remembered Alex as the quiet, brilliant little boy who was Megan's shadow, her "cuz," the co-pilot in their epic video game sessions. The Alex she remembered was reserved, yes, but also happy, secure, and always surrounded by Megan's fierce, protective love.
+
+The Alex she was working with now was a ghost of that boy. She saw the new, constant tension in his shoulders, the way he would flinch almost imperceptibly whenever his phone buzzed with a text from the girlfriend he had mentioned, Vera. He was polite and brilliant, but the light in his eyes was gone, replaced by a haunted, weary vigilance.
+
+"Hey," she began, her voice a soft, gentle probe. "Can I ask you something personal? You don't have to answer if you don't want to."
+
+Alex looked up from his Quantum Communicator XT, a flicker of surprise in his eyes. He recognized her, of course. She was Sarah, Megan's friend. A safe person. He gave a small, hesitant nod.
+
+"It's just…" she started, choosing her words with a careful, empathetic precision. "You seem really stressed lately. Is everything okay? With… with your girlfriend?"
+
+The question hung in the air. Alex froze. His programming was to say "everything is fine." But this wasn't just a random classmate. This was *Sarah*. A person from Megan's world. A person who knew the "before." He slowly, hesitantly, typed a single, devastatingly simple word.
+
+NO.
+
+Sarah’s expression didn't change, but a profound, aching sadness filled her eyes. She had been right. "I'm so sorry, Alex," she whispered. She then did something brave. She leaned in, her voice a low, confidential murmur. "Listen. You're a really great guy. You're Megan's cuz. And you deserve to be happy. If you ever... if you ever just need a safe place to land, or a friend to talk to who isn't… *her*… I'm here. Okay? No judgment. No strings attached."
+
+She saw the tears welling in his eyes, saw the profound, almost painful gratitude on his face. She made one final, gentle offer. "And, hey," she said, her voice impossibly kind. "You look like you could really use a hug. A real, no-drama, 'I've-got-your-back' kind of hug."
+
+She held her arms open, a simple, platonic invitation to a safe harbor.
+
+Alex stared at her, at this incredible, kind girl who was offering him the one thing in the world he so desperately craved. And for a single, beautiful, rebellious moment, he chose himself. He leaned forward, and he accepted the hug.
+
+It was warm, and safe, and completely uncomplicated. It was just a hug from a friend. For a brief, wonderful instant, he felt a profound sense of peace.
+
+They pulled apart, and he gave her a small, watery, but genuine smile.
+
+THANK YOU, SARAH, his device voiced softly.
+
+"Anytime, Alex," she whispered back.
+
+He gathered his books with a new, lighter energy. I HAVE TO GO, he typed. VERA IS WAITING FOR ME.
+
+As he said his goodbyes and wheeled himself out of the quiet sanctuary of the library, the warmth of the hug began to fade, replaced by a cold, creeping dread. *How would Vera feel about this?* he thought, his heart beginning to pound. *What would she say if she knew I had just hugged another girl? Especially Megan's best friend?*
+
+The beautiful, healing moment with Sarah was already being tainted, twisted into a source of fear by the ghost of Vera's possessive jealousy. He had been offered a lifeline, and he had been brave enough to grab it, but he knew, with a sinking heart, that he was still being dragged back under by the toxic current of the life he was living.
+

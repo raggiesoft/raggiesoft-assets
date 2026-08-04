@@ -1,0 +1,58 @@
+# Part 1: The Official Stamp
+
+## August 10, 2006 Rhode Island DMV - Oakhaven Branch 08:30 AM
+
+The Department of Motor Vehicles in Oakhaven was a low brick building next to the courthouse. It smelled of floor wax and anxiety.
+
+The Fortress took up a row of plastic chairs. They weren't just there for a renewal; they were there for a total identity change.
+
+Stella held a thick accordion folder labeled **RESIDENCY EVIDENCE**. Inside were the "Holy Trinity" of documents required by the State of Rhode Island:
+
+1.  **The Deed** (Book 402, Page 88).
+
+2.  **Utility Bills** (MagnaNet, Water, Gas) in Stella’s name.
+
+3.  **Social Security Cards & Birth Certificates**.
+
+"Number 42," the automated voice droned.
+
+"That's us," Stella said. "Let's process the fleet."
+
+**The Drivers** Stella and Olivia stepped up to the counter. They handed over their Virginia driver's licenses. The clerk punched a hole in them—voiding their old lives—and handed them back as souvenirs.
+
+They took the vision test. They signed the pads. They smiled for the camera.
+
+Ten minutes later, they held temporary paper licenses. The hard plastic **Rhode Island Licenses** would arrive in the mail.
+
+- **Address:** 8 Ocean View Lane, Iron Point, RI.
+
+**The Non-Drivers** Next, it was Leo, Luna, and Eleanor’s turn. They didn't need licenses, but they needed **State IDs**.
+
+- **Why:** To prove residency for the library, the ferry, and eventually, the University tuition reclassification.
+
+Leo rolled up to the camera. He hit the **ELEVATE** button on his Titan X-Treme, raising himself to lens height. He didn't smile; he gave a cool, neutral expression.
+
+*FLASH.*
+
+**The Sentinel** Finally, the car. Stella handed over the Virginia title for the **2001 Holt Sentinel**. The clerk handed her a set of fresh, metal plates. They featured the famous **Rhode Island Wave** design.
+
+"Here you go," the clerk said. "Anchor plates."
+
+Stella took them. They were heavy.
+
+## 10:00 AM 8 Ocean View Lane - The Driveway
+
+They returned home. Stella grabbed a screwdriver.
+
+She removed the Virginia plates from the Sentinel. They were bug-splattered and faded from the southern sun. She tossed them into a box of keepsakes.
+
+She screwed on the new **Rhode Island** plates.
+
+"Official," Stella announced, wiping her hands. "We are no longer tourists. We are locals."
+
+Leo looked at the blue wave on the license plate. He looked at the **Iron Point** sticker Stella applied to the windshield (for the town dump and beach parking).
+
+He tapped his **MagnaByte Scribe**.
+
+*"SYSTEM UPDATE COMPLETE,"* he typed. *"VIRGINIA UNINSTALLED."*
+

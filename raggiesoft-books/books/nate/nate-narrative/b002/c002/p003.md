@@ -1,0 +1,38 @@
+# Part 3: The ORF Strategy (11:15 AM)
+
+The click of the phone receiver settling back into its cradle felt like a starter pistol going off in Nate’s chest.
+
+He sat in his manual wheelchair near the kitchen counter, a massive, irrepressible grin plastered across his face. His right leg bounced rapidly against the footplate, a rhythmic, physical manifestation of the ADHD and autistic joy currently overloading his system. They were together. They were safe. And in just a few hours, they would be here.
+
+But the wait was going to be agonizing. It was only a little past eleven in the morning, and Meridian Airlines Flight 492 wasn't scheduled to touch down until 2:15 PM.
+
+To manage the electric anticipation buzzing in his veins, Nate’s mind naturally shifted into logistical problem-solving. He closed his eyes, mentally visualizing the exact layout of Norfolk International Airport. Growing up in the area, he knew the building's architecture like the back of his hand.
+
+The original plan had been to wait at the bottom of the baggage claim escalators in the main arrivals building. It was the standard protocol for picking up relatives. But as he pictured the flow of foot traffic, a sudden realization hit him.
+
+If he and Sarah waited at baggage claim, Brittany and Megan would have to deplane, walk down the concourse, exit the sterile TSA area, cross the massive pedestrian skybridge, and then ride the escalators all the way down before they even saw each other. That was easily ten to fifteen minutes of wasted time. Fifteen minutes where they were technically in the same building, but still separated.
+
+Nate opened his eyes, pivoting his wheelchair around to face the kitchen table where Sarah was going over her own mental checklist.
+
+"Sarah," Nate said, his voice sharp with sudden inspiration. "We need to change the extraction point."
+
+Sarah looked up from her notepad, her eyebrows raising in mild surprise. For two years, Valerie had conditioned Nate to passively accept whatever plans were handed to him. Hearing him take absolute, tactical command of a situation was a massive, beautiful step forward. "Okay. What's the new plan, commander?"
+
+"Why are we waiting at the bottom of the escalators?" Nate asked, his hands animating his words. "That means we have to wait for them to cross the entire airport. If we park in the main garage, we can take the elevators straight up to the concourse lobby. We can wait right outside the TSA exit doors."
+
+Sarah’s eyes lit up as she followed his logic.
+
+"Think about it," Nate continued, his excitement bleeding into his rapid cadence. "The second they clear security, we'll be right there. I can see them the exact moment they walk out. And then, we can all walk back to the Departures building together. We can take the pedestrian skybridge with the moving walkway, catch up while we cross over the road, and go down to baggage claim to get their duffel bags as a group."
+
+Sarah leaned back in her chair, a deeply proud smile spreading across her face. It was a brilliant logistical adjustment. It maximized their time together and turned a mundane baggage wait into a shared, triumphant march across the airport. It also meant that if Megan was struggling with her crutches or her spasticity after the flight, Sarah would be there to immediately take over pushing her transport chair, giving Brittany a much-needed break.
+
+"That," Sarah declared, closing her notepad with a definitive snap, "is a flawless plan. We intercept them at the concourse exit. We secure the perimeter immediately, and we escort them to baggage claim together."
+
+Nate gripped his push-rims, his heart hammering with a fierce, protective energy. He wasn't just a passive participant waiting to be rescued anymore. He was part of the garrison. His cousins had taken care of him his entire life, and they were giving up everything to come back and do it again. The absolute least he could do was make sure he was the very first thing they saw when those sliding glass doors opened.
+
+"We need to leave at 1:00 PM," Nate stated, checking his watch again.
+
+"1:00 PM on the dot," Sarah confirmed. "I'll go warm up the car."
+
+Nate wheeled himself toward the hallway mirror to double-check his jacket. The wait was still going to be excruciating, but the dread was entirely gone. He had a mission, he had a route, and he had exactly three hours left until the triplets were whole again.
+

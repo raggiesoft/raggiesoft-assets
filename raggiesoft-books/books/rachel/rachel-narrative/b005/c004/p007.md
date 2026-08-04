@@ -1,0 +1,48 @@
+# Part 7: The System Overload – 6:10 PM
+
+My fork scraped against the ceramic plate, pushing a piece of honey-glazed ham around, but my processor was completely detached from the dining room. I was running the simulation for tomorrow. *Open door. Merry Christmas. Light hug.* Just the thought of Bonnie standing on our porch, smiling at me, sent a sudden, massive flush of heat straight up my neck and into my cheeks.
+
+"He's doing it again!" Michelle shrieked from the loveseat, pointing a plastic fork at my face. "Look how red he is! He's thinking about his girlfriend!"
+
+The chaotic hum of the living room immediately shifted its focus back to me. The teasing flared up instantly, a volley of standard-hardware middle school giggles launching from the card table and the loveseat. I squeezed my eyes shut, my CP spasticity causing my shoulders to twitch under the sudden, unwanted spotlight.
+
+Katherine leaned forward, her brow furrowed in genuine, standard-hardware confusion. "I don't even get it," she challenged, gesturing toward our sofa with her dinner roll. "How do you even have a girlfriend when you are literally always cuddling with Ashley? Doesn't Bonnie get mad?"
+
+My chest tightened. It was the exact, terrifying standard-hardware trap I had worried about all fall. But before the buzzing panic could lock my vocal cords, the Sentinel intercepted the threat.
+
+Ashley didn't uncross her arms, and she didn't lift her head from my shoulder. She just leveled her dark eyes at Katherine. "Bonnie doesn't get mad because Bonnie understands the parameters," Ashley stated, her tone flawlessly calm and entirely absolute. "She knows I am his honorary sister. We already had the conversation. I'm his wingman."
+
+It was a perfectly logical, mathematically sound explanation. But standard-hardware teenagers thrive on manufactured drama, and the logic didn't compute for them.
+
+"Yeah, right," Maria laughed from her end of our floral-print sofa. "Wait until Bonnie catches you two squished together like that. She's going to dump him."
+
+"She is not," Ashley snapped, a sharp, defensive edge creeping into her voice.
+
+But the damage to my processor was already done. Katherine and Michelle latched onto the joke, giggling and loudly debating how long it would take for Bonnie to get jealous and break up with me. They were just running the standard middle-school teasing script, but to my rigid, highly sensitive operating system, they were introducing catastrophic, unpredictable variables into my safe zone.
+
+*What if Ashley is wrong? What if Bonnie sees us in the hallway and gets mad? What if she thinks I lied to her?*
+
+My internal telemetry violently slipped from Green to Yellow. My breathing turned rapid and shallow. The noise in the living room—the movie, the clinking silverware, the giggling—morphed into a crushing auditory wall. My hands started to shake, the fork rattling against my plate, and a hot, panicked tear burned at the corner of my eye. I was hitting an operational freeze, completely unable to defend myself against the verbal assault.
+
+"Hey! That is enough!"
+
+The sharp, booming command didn't come from our sofa. It came from the dining room table. Dan and Aunt Janet were both glaring across the room.
+
+"Drop it, right now," Aunt Janet scolded harshly, her motherly radar finally registering my visible, physical distress. "Leave Michael alone. Eat your dinner."
+
+The cousins immediately fell silent, shrinking back into their seats. The teasing instantly vaporized under the adult intervention.
+
+But the static was still buzzing violently under my skin. From her seat at the crowded dining table, Janette looked over with deep, protective concern. She instinctively started to stand up to help, but she was completely boxed in by Jim, Joan, and the tight geometry of the heavy wooden chairs. She couldn't physically reach the perimeter.
+
+She didn't have to. The core pack was already reacting.
+
+Rachel, who was still anchored directly in my lap, felt the frantic, shallow rise and fall of my chest. She immediately dropped her fork onto her TV tray and wrapped both of her small arms completely around my torso. She buried her face directly into my sternum and squeezed with every ounce of her strength, manually forcing my erratic heart rate to synchronize with the heavy, crushing pressure of her embrace.
+
+On my right, Ashley shifted her weight, leaning heavier against my side to close any remaining gaps. She reached over and gripped my shaking forearm. "They don't know the math, Michael," Ashley whispered softly, her voice a steady, grounding tether. "The perimeter is safe. Bonnie knows exactly who we are. You're okay."
+
+And from my left, sitting in her docked manual wheelchair, Jessica reached across the small divide. The absolute adult in the room bypassed the chaos entirely, placing her hand firmly on my knee.
+
+"Breathe, Michael," Jess commanded quietly, her pragmatic voice cutting straight through the lingering static. "The system is secure. Eat your dinner."
+
+Anchored by the deep pressure of my Bug, the logic of my Sentinel, and the unyielding command of my older sister, the buzzing panic finally began to recede. My processor cooled down, the catastrophic variables were deleted, and the indestructible walls of our pack settled back into place.
+

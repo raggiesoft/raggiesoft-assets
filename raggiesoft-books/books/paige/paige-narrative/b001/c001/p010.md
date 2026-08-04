@@ -1,0 +1,47 @@
+# Part 10: The Table
+
+Gus's Grille was a sensory experience that Freddie usually found challenging, but tonight, it felt like a victory lap. The restaurant was a long, narrow establishment with black-and-white checkered floors and red vinyl booths that squeaked when you sat on them. It smelled of frying oil, coffee, and lemon polish.
+
+"Party of ten!" Robert announced to the hostess, a woman named Barb who had seen the Avery clan grow from a manageable quartet to a small army over the last decade.
+
+"I'll put two tables together in the back, hon," Barb said, grabbing a handful of laminated menus.
+
+The logistics of seating the Avery family were complex. It required a strategy that rivaled the marching band’s drill charts.
+
+Robert and Ellen took the ends of the long, improvised table. Jessica sat near the middle, acting as the peacekeeper between the younger sets of twins. Sarah and Jenna (age 10) were immediately engaged in a silent, high-stakes battle over who got the salt shaker. Harper (age 7) was vibrating with energy, her purple headphones pulled down around her neck, loudly explaining the plot of a cartoon to anyone who would listen.
+
+Freddie slid into the booth side against the wall. Paige slid in next to him, effectively trapping him in the corner. This was calculated. It meant Freddie only had to defend one side. He didn't have to worry about waiters bumping his chair or people walking behind him. He was encased in the "Safe Zone."
+
+"So," Robert said, opening his menu. "High school. Big league. How bad was it?"
+
+"It was loud," Freddie admitted, picking up a crayon to doodle on the paper placemat. He drew a series of squares—the keys of the marimba. "But the math is good."
+
+"Math?" Robert asked, raising an eyebrow.
+
+"The rhythm," Paige translated, pouring water from a pitcher into Freddie’s glass. "Mr. Panoff says music is just math in time. Freddie likes the grid."
+
+"And the chair?" Ellen asked, looking over the top of her menu. "No more issues with the section leader?"
+
+"Jessica handled it," Freddie said, shading in the squares.
+
+All eyes turned to Jessica. She didn't look up from her menu. "I didn't do anything. I just read my book."
+
+"She sat in the corner and terrified Heidi with her aura," Paige corrected, smirking. "It was beautiful."
+
+The waitress arrived to take their drink orders. This was usually the point where the noise level spiked, but the family had a system. They ordered in age order, descending.
+
+"Cola," Jessica said. "Lemon-Lime," Paige said. "Lemon-Lime," Freddie repeated (he always ordered what Paige ordered to minimize decision fatigue). "Root Beer!" Jenna shouted. "Water," Sarah corrected, moving the soda away from her twin.
+
+As the order went around the table, Freddie leaned back against the vinyl seat. The "Spoons" were low, but they weren't gone. The drafting chair had saved his back, and Paige had saved his mind.
+
+He looked at his father, who was currently trying to stop four-year-old Elara from climbing onto the table to reach the basket of rolls. He looked at Amanda, the silent twin, who was methodically tearing a napkin into perfect, identical strips.
+
+This was his unit. The band was a new system, a new architecture he had to learn, but this table was the foundation.
+
+"I think I can do this," Freddie said quietly, more to himself than anyone else.
+
+Paige heard him. She bumped his shoulder with hers. "I know you can. We're just hitting things with sticks, remember?"
+
+"Texture," Freddie whispered, drawing a final line on his placemat. "It's all about texture."
+
+

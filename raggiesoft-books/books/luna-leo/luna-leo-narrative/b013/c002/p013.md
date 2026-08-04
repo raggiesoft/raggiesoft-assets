@@ -1,0 +1,41 @@
+# Part 13: The Lobster Toast
+
+## December 28, 2005 The University Inn - Room 101 (The Suite) 07:30 PM
+
+The blizzard had intensified. Outside, the wind screamed against the glass, but inside the suite, the heavy curtains were drawn back just enough to watch the snow pile up on the balcony railing.
+
+The room was warm, lit by the soft glow of the lamps and the flickering electric fireplace.
+
+In the center of the room, Room Service had set up a banquet. A rolling cart covered in a white linen tablecloth held the prize.
+
+Four massive bowls of **Braxton Clam Chowder** (thick, creamy, and steaming). A platter of **Lobster Mac & Cheese** (made with local sharp cheddar and huge chunks of claw meat). A basket of warm sourdough bread.
+
+Arthur sat in the armchair, a napkin tucked into his collar. Eleanor sat on the sofa next to him.
+
+Stella, Olivia, Luna, and Leo gathered around.
+
+Stella raised her glass of sparkling cider.
+
+"To the recon mission," Stella said. "We came to see if we could survive here. We didn't just survive. We conquered."
+
+"We bought a house," Luna added, clinking her glass against Stella's. "Well, we bought the dirt for a house."
+
+"And we found the school," Olivia said. "And the train."
+
+Leo raised his glass. He looked at the map of Iron Point that was still open on the table. He looked at the **BTA System Map** taped to the wall.
+
+He tapped his Quantum Communicator.
+
+"WE SECURED THE PERIMETER."
+
+"That we did, son," Arthur said, his voice warm and steady. "That we did."
+
+He looked at Stella.
+
+"You did good, General," Arthur said. "You found the high ground. Now, let's eat this lobster before it gets cold. I intend to enjoy every bite of my victory dinner."
+
+They ate. The chowder was rich, the lobster was tender, and the company was perfect.
+
+Outside, the city of Braxton was shutting down, buried under two feet of snow. But inside Room 101, the Porter-Walker family was warm, fed, and ready for the future. They had planted their flag. Now, they just had to wait for the snow to melt so they could start digging.
+
+

@@ -1,0 +1,177 @@
+# Part 9: New Year's Eve (The Shift Change)
+
+## **Date:** Saturday, December 31, 2005 **Time:** 7:00 PM **Location:** Unit 404, The Foundry Lofts
+
+The loft didn't look like a party venue. It looked like a high-end recovery suite.
+
+The main lights were dimmed to reduce sensory input. The TV was on low volume. The air smelled of rubbing alcohol (from Patrick’s frequent hand sanitizing) and the savory warmth of the slow cooker Tom and Ellen had brought.
+
+Nichole was "throned" in the center of the living room. Patrick had moved the recliner to face the window, propped her rigid, blue-foam-encased legs on a stack of three firm pillows, and covered her with her favorite weighted blanket. She was wearing noise-canceling headphones around her neck, ready to deploy if the chatter got too loud.
+
+## The First Shift: 1900 Hours Guests: Uncle Mark & Aunt Carol
+
+The buzzer rang. Patrick checked the monitor. *Mark and Carol.*
+
+"Okay, troops," Patrick announced softly to the room. "First wave inbound. Fifteen minutes max for direct interaction, then we rotate them to the kitchen so Nichole can rest."
+
+He buzzed them in.
+
+Uncle Mark and Aunt Carol entered, bundled in heavy coats against the freezing Rhode Island wind. They didn't bring booze—Mark knew better than to bring a depressant into a house running on narcotics and exhaustion.
+
+Instead, Mark was carrying a massive, foil-wrapped tray from the best Italian bakery on Federal Hill.
+
+"We come bearing carbs," Mark whispered, setting the tray of cannolis and pastries on the island. "Comfort food. No chewing required."
+
+"Perfect," Patrick said, genuinely grateful. "Sugar crash is exactly what the night shift needs."
+
+Aunt Carol rushed toward the recliner but stopped short when she saw the leg braces. "Oh, honey. Those look... heavy."
+
+Nichole gave a small, tired smile. She typed on her VocaLink, which was mounted on a swing-arm Patrick had rigged to the chair.
+
+"THEY. ARE. HEAVY. BUT. I. AM. OKAY."
+
+"We're keeping it low-key," Mark said, taking off his coat. "We just wanted to see the patient before the ball drops."
+
+Patrick guided them to the kitchen island, away from Nichole’s immediate personal space. This was the strategy: **Divide and Conquer.**
+
+The family chatted in the kitchen—Uncle Mark asking Patrick about the "nursing thing" and if he was *really* doing all the wound care himself (to which Patrick simply showed him the logbook, shutting down any doubt).
+
+After twenty minutes, Patrick checked his watch.
+
+"Okay," Patrick said cheerfully but firmly. "Patient needs a repositioning break. We're going to cycle the room."
+
+Mark and Carol took the hint. They came over, gave Nichole gentle, non-contact air-kisses, and said their goodbyes.
+
+"Happy New Year, sweetie," Carol whispered. "You get strong."
+
+As the door clicked shut behind them, Nichole let out a long breath. Her shoulders dropped.
+
+"Energy vampires," Patrick joked, adjusting her pillow stack. "You held up good."
+
+## The Second Shift: 2200 Hours Guests: Tom & Ellen (The Parents)
+
+By 10:00 PM, the vibe had shifted. The "guests" were gone. Now it was just the Core Team.
+
+Tom and Ellen were sitting on the couch, not as visitors, but as backup. Ellen was knitting. Tom was reading the newspaper. It was quiet, comfortable silence—the kind of silence you can only have with immediate family.
+
+Nichole was dozing, the heavy painkillers making her drift in and out.
+
+Patrick was at the kitchen island, mixing a "medication cocktail" (crushing the 10:00 PM muscle relaxant into pudding).
+
+"So," Tom said quietly, putting down the paper. "We talked about the school schedule. You're really sitting out the Spring?"
+
+Patrick nodded. He walked over with the pudding.
+
+"Spring and Summer," Patrick confirmed. "I already emailed the Dean. We're taking a medical leave of absence. We restart Junior year in September."
+
+Ellen looked up, worried. "That pushes your graduation back a whole year, Patrick. You're going to be a year behind your class."
+
+Patrick fed Nichole a spoonful of pudding. She swallowed sleepily.
+
+"I'm not behind, Mom," Patrick said, wiping Nichole’s chin. "I'm specializing. Look at this."
+
+He gestured to the loft—the rigged equipment, the charts, the supply station.
+
+"I'm getting a master's degree in Rehabilitation Nursing right now. I just don't have to pay tuition for it. By the time we go back in the Fall, she's going to be sitting straight in her chair for the first time in her life. No more slouching. No more fighting gravity."
+
+Tom looked at his son. He looked at the confidence in his posture. He wasn't the scramble-brained kid trying to keep up anymore. He was a professional managing a case.
+
+"Fair enough," Tom nodded. "The Gap Year it is."
+
+## The Midnight Moment: 23:59 Hours
+
+The TV volume was turned up slightly. The national broadcast from Times Square was counting down. The famous crystal ball was descending.
+
+"Wake up, Sleeping Beauty," Patrick whispered, gently shaking Nichole’s shoulder. "It's the drop."
+
+Nichole blinked her eyes open. She groggily focused on the TV screen.
+
+Tom and Ellen stood up. Patrick held up his mug of black coffee. He put a straw in Nichole’s glass of sparkling apple cider.
+
+"Ten... Nine... Eight..."
+
+Outside, fireworks popped over the Providence River, dull thuds against the brick walls.
+
+"Three... Two... One..."
+
+**HAPPY NEW YEAR!**
+
+On the screen, crowds cheered. Confetti fell.
+
+In the loft, it was quiet.
+
+Tom kissed Ellen. They both leaned down and kissed Nichole’s forehead.
+
+"Happy New Year, Nikki," Tom said thicky. "2006. A new start."
+
+Patrick clinked his mug against Nichole’s cider glass.
+
+"To the gap year," Patrick whispered to her. "No classes. No homework. Just you, me, and the rehab. We're going to rebuild the machine."
+
+Nichole took a sip of cider. She looked at her legs—straight, heavy, and hurting. She knew she would never run. She knew the wheelchair was permanent. But looking at her legs now, she realized they weren't fighting her anymore. The tension was gone.
+
+She moved her hand to her device. She didn't type a long sentence. She just typed two words.
+
+**BETTER. SEAT.**
+
+Patrick smiled. He knew exactly what she meant. It wasn't about walking away; it was about sitting without pain.
+
+"Yeah. The best seat in the house."
+
+He checked the time. *00:05.*
+
+"Okay," Patrick announced. "Party's over. Meds are kicking in. Mom, Dad, you guys can crash in the guest room or head back, but the patient is going dark."
+
+## The Sleep Transfer
+
+"We're staying," Ellen said, already moving to clean up the kitchen. "I'll take the 6:00 AM shift. You sleep."
+
+Patrick didn't argue about the help, but he shook his head at the implication that he could just leave Nichole there.
+
+He looked at Nichole. She was slumped in the recliner, the noise-canceling headphones crooked on her neck, her breathing deep and heavy with the narcotic cocktail. To an outsider, she looked peaceful. To Patrick, she looked like a time bomb.
+
+He knew her autism better than the surgeons knew her hamstrings.
+
+If she woke up at 3:00 AM in the living room chair—disoriented, in pain, and without the tactile pressure of him next to her—she wouldn't just be confused. She would panic. The "location error" would trigger a sensory meltdown that could spike her heart rate and tear her sutures.
+
+"I can't leave her here, Mom," Patrick whispered, setting his coffee mug down. "If she wakes up and the environment is wrong, she'll thrash. We have to reset to base."
+
+Tom watched from the hallway. "Do you want me to help lift?"
+
+"No," Patrick said, cracking his knuckles. "You guys head to the guest room. Too many hands will wake her up fully. I need to keep her in the 'twilight zone' so she goes right back down."
+
+He walked over to the recliner. He crouched down so his face was level with hers. He didn't shake her this time. He used the **Tactile Cue**—a firm, grounding squeeze on her shoulder.
+
+"Nikki," Patrick murmured, his voice low and vibrating against her ear. "Mission isn't over. Transfer to base."
+
+Nichole groaned, her eyes fluttering but not focusing. She was deep in the chemical fog. But the voice registered. *Patrick. Safe. Move.*
+
+She didn't fight him. She surrendered to the handling.
+
+Patrick brought the wheelchair close. He executed the transfer with a fluid, silent strength—heaving her rigid, heavy body from the recliner, pivoting on his heels, and settling her into the chair without a single jolt.
+
+He wheeled her into the master bedroom.
+
+The room was pitch black, save for the green glow of the clock and the humidifier's blue light.
+
+He transferred her to the King bed. He arranged the pillow stack under her casted legs—critical for edema management. He checked the straps on her immobilizers.
+
+Then, he stripped off his jeans and hoodie, changing into sweatpants.
+
+He climbed in.
+
+He didn't stay on "his side." He moved to the center, pressing his side against hers. He threw his heavy arm over her chest, providing the deep pressure she craved.
+
+Nichole stirred. She felt the mattress. She felt the heavy arm. The "data" was correct.
+
+*Right place. Right person.*
+
+She let out a long, shuddering breath and sank back into the dark.
+
+Patrick listened to her breathing sync with his own. He stared at the ceiling for one minute, running the mental checklist—*Meds logged. Parents secure. Patient stabilized.*
+
+"Happy New Year, Nikki," he whispered into the dark.
+
+He closed his eyes. The Machine powered down.
+
+

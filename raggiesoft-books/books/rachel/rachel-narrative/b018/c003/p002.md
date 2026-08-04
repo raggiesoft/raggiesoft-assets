@@ -1,0 +1,24 @@
+# Part 2: The Transit Trap – 11:30 AM
+
+After pacing the room and letting the stiff, aching spasticity slowly bleed out of my calves, the logistical reality of the morning finally set in. We couldn't stay in our skin forever, no matter how safe and perfectly regulated the locked bedroom felt.
+
+We moved to our open duffel bags on the floor, meticulously selecting our clothes for the day. For both of us, the sensory profile of our wardrobe was non-negotiable. I pulled on a pair of loose, worn-in sweatpants and an oversized, tagless t-shirt, while Rachel opted for her softest cotton lounge pants and a baggy, familiar hoodie.
+
+We managed to drag ourselves out of the small spare bedroom, pulling on our comfortable, oversized day clothes. The mechanical click of the door unlocking felt unnecessarily loud in the quiet hallway.
+
+As we shuffled downstairs and into the kitchen to grab something to drink and assemble a quick breakfast, we were immediately greeted by the rhythmic thumping of golden tails. Jimbo and Teddy were waiting by the kitchen island, their soft, eager eyes tracking our every move. Rachel dropped to the linoleum for a brief moment, burying her face into Teddy's dull golden fur to borrow a quick dose of his calming, deep-pressure weight, before standing back up to grab the cereal boxes from the pantry.
+
+We poured our standard bowls of sugary cereal and sat at the kitchen table, chewing in a comfortable, synchronized silence. Mom was currently occupied upstairs; the muffled hum of the washing machine and the creak of the floorboards indicated she was sorting through the laundry and preparing for the work week.
+
+I looked out the kitchen window at the quiet suburban street, and the reality of our temporary geography truly set in. The townhouse in the Lynnhaven district would give us back our independence tomorrow, but today, we were effectively trapped.
+
+Unlike the massive, interconnected Columbia Transit Service we had utilized in the Pacific Northwest to navigate seamlessly across state lines, the public transit infrastructure in this specific, residential sprawl of Virginia Beach was severely restricted. The buses here did not run in the evenings, and they absolutely did not run on Sundays.
+
+If Rachel and I wanted to go anywhere—to grab food, to see a movie, or just to escape the house—we were entirely dependent on Mom to drive us.
+
+"We're grounded," Rachel rasped quietly, looking out the kitchen window at the empty road.
+
+"We are," I agreed, taking a sip of water to wash down the sweet cereal. "But we get the keys tomorrow. One more day of relying on Mom's sedan, and then we have the townhouse."
+
+Rachel hummed a soft, accepting note, her shoulders relaxing as she processed the timeline. With no transit options and zero desire to navigate the outside neurotypical world on a day dedicated to practical jokes, the agenda for our Sunday was officially set. There would be no unpredictable excursions and no sudden surprises. We were committing to a day of absolute, unmoving rest.
+

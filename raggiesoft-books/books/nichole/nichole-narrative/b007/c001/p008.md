@@ -1,0 +1,67 @@
+# Part 8: The Final Transfer
+
+## Date: January 3, 2004 Time: 11:00 AM Location: The Cemetery, Middletown, Rhode Island
+
+The first week of January was brutally cold. A fresh layer of snow blanketed Aquidneck Island, and the wind coming off the bay was sharp enough to sting the eyes.
+
+But the new Liberty commercial transport van didn't flinch. Its heavy-duty, all-wheel-drive chassis cut through the unplowed lanes of the historic cemetery with absolute authority.
+
+Patrick parked the van near the family plot. The heater was running at full blast, keeping the interior warm.
+
+"Okay, final checks," Patrick said, stepping to the back.
+
+He bundled Nichole in her heaviest winter coat, layered a wool scarf around her neck, and secured her custom thermal blanket around her legs. He pulled a thick knit hat over her ears.
+
+She looked like an astronaut ready for a spacewalk.
+
+"Ready, Nikki?" Patrick asked.
+
+Nichole nodded. She was sad, but her heart was full.
+
+Patrick engaged the new dual-arm hydraulic lift. It hummed silently, lowering them out of the warm cabin and onto the frozen cemetery road.
+
+They rolled toward the gravesite. The ground was hard-packed snow and frozen earth. In the old van, pushing the chair through this terrain would have been a grueling, exhausting fight.
+
+But with the new commercial-grade winter tires on the Titan AeroMotion, and Patrick wearing his heavy boots, they glided forward without missing a beat.
+
+They joined the rest of the family at the green canvas tent set up over the open grave. Helen’s casket was silver, matching the wheelchair she had left behind in the living room.
+
+The service was short and stripped of tragedy. The priest read the obituary that Helen had typed out herself. It was practical, loving, and focused entirely on how proud she was to see her family reunited on the island.
+
+When the prayers concluded, the funeral director gestured for the family to say their final goodbyes.
+
+Tom and Ellen stepped up, placing a single white rose on the casket. Uncle Mark and Aunt Carol followed.
+
+Then, Patrick pushed Nichole to the edge of the grave.
+
+Next to Helen's plot was a headstone from 1992—Grandpa Arthur Bennett. After twelve years, the set was complete again.
+
+Nichole looked at the silver casket. For eighteen years, this woman had quietly deferred her own comforts. She had skipped vacations. She had lived in a small, cramped apartment. She had saved her Social Security checks.
+
+She had done it all in absolute silence, waiting in the shadows so that when the day came, her grandchildren could buy their freedom.
+
+Patrick reached into his pocket. He pulled out the passbook for the local savings account that Tom had given him for safekeeping.
+
+Patrick rested his hand on the cold silver metal of the casket.
+
+"Thank you, Grandma," Patrick whispered, his breath visible in the freezing air. "We won't waste a single penny. I promise."
+
+Nichole unzipped her coat just enough to free her right hand. She reached for her mouse.
+
+She didn't use the standard text-to-speech module. She had spent the last two days coding a specific audio file for this exact moment.
+
+She clicked the mouse.
+
+"SLEEP. WELL. GRANDMA. THE. MACHINE. IS. FUNDED."
+
+The synthetic voice cut through the winter wind. It wasn't just a goodbye. It was a status report. *Mission accomplished.*
+
+Tom smiled through his tears, putting his arm around Ellen.
+
+"Alright," Uncle Mark said, his voice thick as he clapped Patrick on the shoulder. "Let's get her inside. Mom would kill us if she knew we let Nikki catch a cold out here."
+
+Patrick nodded. He turned the heavy chair around and pushed Nichole back toward the waiting, idling van.
+
+The gap year had taken their grandmother, but she hadn't left them behind. She had launched them.
+
+

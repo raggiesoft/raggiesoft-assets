@@ -1,0 +1,30 @@
+# Part 5: Project Freedom
+
+The apartment hunt on Saturday had been an exhilarating success, cementing the first half of their new future. On Sunday afternoon, the "family of six" plus Megan reconvened in the Millers' living room to tackle the second, equally important project: cashing in the Christmas present. The mission was to find the perfect accessible van.
+
+"Okay," Megan said, pulling up a chair to the family's desktop computer. "Before we start randomly looking, I think we have a pretty solid lead. Remember how I told you about my coworker's van?"
+
+Alex and Chloé both nodded, remembering the conversation from that miserable, rainy night weeks ago.
+
+"Right," Megan continued. "His wife uses a power chair, and they have a 2004 Holt Wayfarer with a side-entry ramp. He raves about it. He says it's reliable, has a ton of interior space for her to maneuver, and the conversion didn't require any weird structural compromises. I think that's where we should start our search."
+
+"That's a fantastic lead, Megan," James said, navigating to the Holt Automotive website. "Let's build one."
+
+The screen filled with the image of a shiny new Holt Wayfarer. The four parents immediately fell into their familiar roles, debating engine sizes and safety features. Chloé was on her laptop, reading driver reviews, while Megan offered insights based on what she'd seen of her coworker's van.
+
+"His is a silver SXT," Megan noted. "He said the power sliding doors on that trim level are a must-have for the ramp conversion."
+
+Alex watched them all, a quiet, intense focus in his eyes. He wasn't just a passenger in this decision; he was the lead engineer. He had spent the morning on the websites of accessibility vendors, and he knew exactly what to look for. He wheeled himself closer to the desk, his gaze fixed on the optional features list for the minivan. He spotted a potential disaster.
+
+WAIT, his Quantum Communicator XT voiced, the single word cutting through the chatter. Everyone stopped and looked at him. He pointed to a specific line on the screen.
+
+STOWAWAY SEATING, his device read aloud. THE SECOND-ROW SEATS FOLD INTO THE FLOOR. THAT MEANS THERE ARE COMPARTMENTS BUILT INTO THE CHASSIS. He paused, his fingers flying across the keyboard. THOSE COMPARTMENTS WILL MAKE IT IMPOSSIBLE FOR THE VENDOR TO DO A FULLY LOWERED FLOOR CONVERSION. WE CANNOT GET THAT OPTION.
+
+A hush fell over the room. It was a critical, expert observation that none of them had considered. The very feature a typical family would want was the one thing that would make the van useless for them.
+
+James looked at his son, a slow, proud grin spreading across his face. "Good catch, Alex. A really good catch."
+
+With Alex's expert guidance, they spent the next hour meticulously building their perfect vehicle online. They selected the right engine, the essential safety features, and, most importantly, the specific interior configuration that would serve as the ideal "blank canvas" for the conversion. No sunroof, no StowAway seating, no rear entertainment system that would interfere with headroom.
+
+By the end of the afternoon, they had a printout with a picture of a silver Holt Wayfarer SXT and a detailed list of the exact specifications they needed. They weren't just going car shopping tomorrow. They were going to the dealership with a precise, non-negotiable plan, ready to acquire the key to their new, more accessible life.
+

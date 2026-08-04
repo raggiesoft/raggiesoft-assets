@@ -1,0 +1,98 @@
+# Part 4: The Fleet Upgrade – Friday, October 25, 2052 – 14:00
+
+The sprawling, open-concept living room was a masterclass in sensory regulation.
+
+With the afternoon sun pouring through the hydro-glass windows, Wyatt had dimmed the interior ambient lighting to a soft, barely-there glow. The massive, high-fidelity stereo system was entirely powered down. The only sound in the room was the gentle, natural crackle of the localized geothermal fireplace and the hushed, melodic voice of a nearly three-year-old boy.
+
+Sarah was resting sideways on the leather sofa, a thick blanket pulled over her legs. Her pregnancy was advancing beautifully into the second trimester, her growing bump carrying Evan and Tyler with a smooth, effortless grace that completely defied the harrowing medical gauntlet of her first pregnancy.
+
+Down on the plush rug, Jack was holding court.
+
+At five months old, Molly and Claire were sitting up with the support of molecularly printed foam wedges. They were completely silent, their identical dark eyes locked with laser-like focus on their older brother.
+
+Jack was holding his ruggedized datapad, swiping through the high-definition archives of the Earth Conservatory and the newly updated topographical maps of Planet Eden. He wasn't just showing them pictures; he was actively narrating the history of their world.
+
+"And this is the big waterfall in the eastern mountains," Jack explained, his vocabulary astonishingly crisp and authoritative for a toddler. He pointed to the glowing blue hologram. "Daddy says when we get bigger, we are going to build a village there. It will be called Genesis."
+
+Molly cooed, reaching out to pat the hologram. Claire mimicked her, a soft, fascinated smile on her face. They were becoming a captive audience of tiny historians, absorbing every single detail Jack offered them about the planet they would one day help oversee.
+
+On the far side of the room, the Vanguard was entirely at peace.
+
+Because the sensory environment was perfectly optimized—low light, no loud noises, and a comfortable 21.6°C—Leo was deeply relaxed. He was sitting in the center seat of the Chariot Mark II, his scissored legs resting against the familiar wooden footboards. Nora was sitting on the floor, leaning her back heavily against the side of the wagon, while Ellie sat cross-legged at the front, her tactical watch temporarily suspended in the absolute quiet of the estate.
+
+The peace held perfectly until the heavy brushed-steel doors of the main pneumatic elevator hissed open down the hall.
+
+Wyatt Colton strode into the living room. His canvas work pants were dusted with polymer shavings, and he was wiping his hands on a rag. His mechanic’s brain was buzzing with the satisfaction of a successfully completed manufacturing cycle.
+
+"Alright, squad," Wyatt announced, his deep voice keeping to a respectful, moderate volume. He stopped in front of the Chariot. "We need to talk about logistics. Specifically, the transport vehicle."
+
+The Vanguard immediately snapped to attention. Ellie stood up, brushing off her overalls, and crossed her arms. Nora looked up, her empathetic eyes instantly catching the serious, practical shift in her father's tone.
+
+Leo let out a low, questioning hum.
+
+Wyatt crouched down, placing his massive hand gently on the heavy timber railing of the wagon. He had built the Chariot Mark II over a year ago. It had served them flawlessly in the forests and the hallways, but physics were absolute.
+
+"Leo," Wyatt said gently, looking at his nearly seven-year-old son. "You're getting too tall, buddy. Your knees are hitting the front safety bar, and the five-point harness is completely maxed out. You've outgrown the wagon."
+
+Leo’s humming instantly hitched. His eyes darted to the wooden siding of the wagon. This wasn't just a vehicle to him; it was his mobile sanctuary. It was the exact dimension of deep pressure he relied on. His back stiffened against the memory-foam seat.
+
+Sensing his rising panic, Nora immediately let out a distressed whimper. She scrambled up, heavily favoring her right side, and wrapped her arms protectively around Leo's shoulders. She glared at Wyatt, tears instantly welling in her dark eyes.
+
+"No," Nora protested, her breathy voice fiercely defensive. She patted the wooden rail. "Our wagon. We keep."
+
+"I know you love it, Nora," Wyatt soothed, his heart aching at her distress. He hated disrupting their routines. "But it's hurting his legs to be cramped in there. We have to upgrade."
+
+Nora shook her head stubbornly, burying her face in Leo's neck to comfort him. Leo slammed his shaking hand down on his AAC tablet.
+
+"Sad," the automated voice echoed in the quiet room. "No."
+
+Wyatt looked at Sarah, offering a helpless, sympathetic sigh. He turned his attention to the commanding officer.
+
+Ellie had not panicked. She had not cried.
+
+She stepped closer to the Chariot. She looked at Leo's long legs, noting how tightly his knees were wedged against the front timber frame. She inspected the fully extended nylon straps of the harness digging into his shoulders. She processed the sheer, undeniable biomechanics of the situation.
+
+Ellie looked up at Nora, giving her sister's arm a firm, grounding pat. Then, she looked her father dead in the eyes.
+
+"Too small," Ellie stated, her tactical pragmatism completely overriding her sentimentality. She pointed at Leo's cramped legs. "Gear is compromised. Need new transport."
+
+"Exactly, Commander," Wyatt smiled, incredibly grateful for her unyielding logic. "And Dada didn't just build one new transport. Aria, bring them up."
+
+The elevator doors hissed open again. Three automated, hovering maintenance drones glided into the living room, carefully depositing Wyatt's latest masterworks onto the polished stone floor.
+
+Wyatt hadn't just built a wheelchair. He had built an entire armored fleet.
+
+"Because we're a planetary exploration unit now," Wyatt explained, standing up and gesturing to the three incredibly sleek, highly specialized mobility chairs, "one vehicle isn't going to cut it anymore. So, I built an arsenal."
+
+He pointed to the first chair. It was forged from polished, lightweight titanium, featuring seamless, frictionless wheels and a deep, custom-molded memory-foam racing seat.
+
+"Transport One," Wyatt briefed them. "The Daily Driver. Frictionless bearings. Built for the polished stone of the estate and the paved pathways we're going to lay down in the valley. It glides like air."
+
+He moved to the second chair. It was an absolute beast, painted in a tactical matte-black. It sat high off the ground on four massive, deep-treaded pneumatic tires, complete with heavy-duty coil-over shocks and a reinforced roll-cage.
+
+"Transport Two," Wyatt grinned. "The Off-Roader. Independent suspension. For the forests, the mud, and the mountain trails. It won't feel a single bump."
+
+Finally, he pointed to the third chair. It was wider, crafted from non-corrosive, oxidized-resistant alloys. Instead of standard tires, it featured four massive, gray, balloon-like cylinders.
+
+"And Transport Three," Wyatt finished, crossing his arms proudly. "The Amphibious Rover. It has low-pressure balloon tires that won't sink. We haven't mapped the southern hemisphere yet, but if we ever find an ocean, a lake, or a sandy beach on this planet, Leo is going right into the water with us."
+
+The Vanguard stared at the fleet.
+
+Nora’s tears stopped. She limped over to the Daily Driver, reaching out to touch the plush, ergonomically designed push-bars Wyatt had integrated into the back specifically for her to lean on. They were perfectly positioned for her height.
+
+Ellie marched past her, aggressively testing the front pull-handle of the Off-Roader. She threw her weight against it, watching the massive shocks absorb the kinetic energy flawlessly.
+
+Ellie looked at Wyatt. She gave the matte-black frame a firm, resounding slap of approval.
+
+"Good gear," Ellie commanded.
+
+Wyatt carefully unbuckled Leo from the cramped Chariot and lifted him into the deep, heavily bolstered memory-foam seat of the new Daily Driver. As Wyatt secured the new, wider five-point harness, he watched his son closely.
+
+The new seat offered even better lateral compression than the wooden wagon. The deep pressure enveloped Leo perfectly. His rigid muscles unlocked. His panicked humming smoothed out into a loud, joyous, vibrating purr of absolute approval.
+
+Nora beamed, taking her place at the rear push-bars. Ellie took the front. The unit was re-established, heavily armored, and completely ready for whatever terrain Planet Eden threw at them next.
+
+"I think you just earned yourself a promotion, Chief Engineer," Sarah laughed softly from the sofa, resting her hand over the two new lives growing in her belly.
+
+"Just keeping the squad rolling," Wyatt smirked, his protective heart completely full as the Vanguard expertly maneuvered their new titanium transport around the coffee table.
+

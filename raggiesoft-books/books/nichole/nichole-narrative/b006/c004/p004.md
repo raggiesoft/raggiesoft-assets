@@ -1,0 +1,64 @@
+# Part 4: The Machine at Rest
+
+## Date: July 1, 2003 Time: 6:45 PM Location: A Highway Hotel, New Brunswick, New Jersey
+
+Aunt Carol’s sedan led the way down State Route 27, her taillights glowing red in the dusk as the heavy Bennett van followed closely behind.
+
+They pulled into the parking lot of a major highway hotel just off the main drag. It was a standard, functional building, but crucially, it was flat.
+
+Carol jumped out of her car, immediately grabbing two of the duffel bags from the back of the van while Tom unloaded the rest. Patrick lowered the hydraulic lift, and the whine of the motor echoed in the quiet evening air as Nichole’s purple wheelchair hit the pavement.
+
+"Room 112 and 114," Tom said, holding up the plastic keycards. "First floor, right off the lobby."
+
+Carol helped them lug the bags inside. The setup was perfect for their needs. It was a pair of adjoining rooms with an internal connecting door that had been propped open.
+
+Room 114 was a standard double with two queen-sized beds. Room 112 was the accessible suite, featuring a wide turnaround space, a roll-in shower, and a single, massive king-sized bed.
+
+"The architect probably thought the disabled parent would take the king bed, and the kids would take the two queens," Ellen noted, dropping her purse on the desk.
+
+"Well, the architect didn't know the Bennetts," Tom said, tossing his and Ellen’s bags onto one of the queen beds. The other queen bed would remain empty.
+
+Patrick rolled Nichole straight into the accessible room. He parked her next to the king bed, the massive mattress looking like a life raft after seven hours in the van.
+
+"Alright, you guys are settled," Carol said, coming in to give Nichole one last hug. "I’m heading back across the river. You get some rest. And call me after the tour!"
+
+"Thanks, Carol," Ellen smiled, walking her sister back out to the parking lot.
+
+With the door closed and the connecting door open, the "machine" went to work.
+
+Patrick locked the brakes on Nichole’s chair. He unstrapped his own rigid plastic ankle brace with a loud *rrrippp* of velcro, tossing it into the corner so he could move more freely.
+
+"Bath time," Patrick said.
+
+Nichole nodded, her eyes heavy.
+
+In the accessible bathroom, Patrick pulled down the wall-mounted shower bench. He transferred Nichole from her chair to the bench with the smooth, practiced deadlift she preferred—scooping her under the knees and back, holding her close to his chest for a brief second of deep pressure, and setting her down gently.
+
+The routine was devoid of awkwardness. It was pure efficiency. Patrick adjusted the water temperature, keeping the handheld showerhead low so it wouldn't splash her face. He washed her hair, his fingers working the shampoo into her scalp, which made Nichole’s eyes flutter shut in relief. The warm water helped melt the rigid tone in her shoulders.
+
+After drying her off with the thick hotel towels, Patrick carried her to the king-sized bed.
+
+"Stretch check," Patrick announced.
+
+Nichole lay flat on the mattress. The long van ride had caused her hip flexors to contract. Patrick stood at the foot of the bed. He placed his hands on her shins and slowly, firmly, pushed her knees toward her chest.
+
+Nichole grimaced, letting out a sharp, clicking breath as the spastic muscles fought the movement.
+
+"I know, I know," Patrick murmured, holding the stretch at the point of resistance. "Breathe through it. Let it go."
+
+He held the stretch for thirty seconds, letting his body weight do the work until he felt the muscle fibers finally yield and relax. He repeated the motion on her hamstrings and ankles, realigning her body after a day of sitting at a ninety-degree angle.
+
+Finally, he helped her into her oversized sleep shirt.
+
+In the adjoining room, Tom and Ellen were unpacking their toiletries, the murmur of the local news playing on their television. The proximity was comforting—close enough for an emergency, but with the boundary of their own space.
+
+Patrick turned off the bedside lamp, plunging their room into darkness, save for the sliver of light from the connecting door.
+
+He climbed into the king-sized bed, sliding under the heavy hotel comforter. Nichole immediately gravitated toward him. She shifted her weight, rolling onto her side to press her back against his chest.
+
+Patrick wrapped his arm around her waist. He draped his heavier, stronger leg over hers, using his own body weight to pin her legs down. It was a weighted blanket made of flesh and blood, preventing her legs from involuntarily kicking in the night.
+
+Nichole let out a long, shuddering sigh. The hum of the highway vanished. The fear of tomorrow's Vermont tour faded.
+
+With Patrick’s arm around her and his steady heartbeat against her back, she was grounded. The machine was powered down, safe and secure for the night.
+

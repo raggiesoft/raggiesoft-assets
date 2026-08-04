@@ -1,0 +1,96 @@
+# Part 4: The 50,000 Crib Deficit – Sunday, May 12, 2045 – 23:45
+
+The noise was absolute, deafening chaos.
+
+It wasn't the guttural roar of the NTTR drill rigs or the howling wind of a super-cell storm. It was a high-pitched, overlapping, endless wall of sound that vibrated right through the thick stone walls of the estate.
+
+Crying.
+
+Wyatt sprinted down the main corridor, his arms loaded with a massive stack of roughly hewn alien pine planks. His bare feet slipped frantically on the polished floor.
+
+He burst through the brushed-steel doors of the automated medical wing. The pristine, sterile facility was completely gone, swallowed by an endless sea of tiny, hovering bassinets. They stretched down the hallways, spilled into the examination rooms, and completely choked the surgical bays.
+
+*"Warning,"* Aria’s synthesized voice blared from the ceiling, completely devoid of her usual warmth. *"Hydroponic yields depleted. Pureed spinach reserves at zero percent. Current crib deficit: forty-nine thousand, nine hundred and ninety-seven."*
+
+"I'm building as fast as I can!" Wyatt roared over the deafening wails of fifty thousand infants, dropping the massive stack of timber onto the floor with a heavy clatter. He looked down at his hands—he didn't even have a hammer. He had a socket wrench and a 1985 VCR remote.
+
+"Wyatt!"
+
+He spun around. Sarah was standing in the doorway of the gestation lab. She was heavily pregnant, her hands resting protectively over her swollen stomach, her eyes wide with sheer, unadulterated panic as a sea of crying babies surrounded her ankles.
+
+"Wyatt, where do we put them?!" Sarah cried out, desperately trying to calm a dozen infants at once. "We only built one nursery! They're hungry, Wyatt! All fifty thousand of them!"
+
+"I don't know!" Wyatt yelled, his chest heaving as the walls of the medical wing literally began to buckle under the sheer volume of screaming children. "Aria, put them back! Put them back to sleep!"
+
+*"Error,"* Aria droned. *"Decanting process irreversible. Good luck, Mr. Colton."*
+
+Wyatt gasped, his eyes snapping open.
+
+He bolted upright, his massive chest heaving violently as he sucked in a desperate, ragged breath of the flawless, 21.6°C air.
+
+The deafening wails instantly vanished.
+
+The master suite was completely, beautifully silent, save for the soft crackle of the localized geothermal fireplace and the gentle patter of leftover rain against the hydro-glass window.
+
+Wyatt dragged a shaking, calloused hand down his face, wiping away a cold sweat. His heart was hammering against his ribs like a trapped bird.
+
+Beside him, the sudden movement shifted the heavy duvet. Sarah stirred, her eyes fluttering open in the dim, amber light of the fire. She pushed herself up onto her elbows, instantly recognizing the rigid, panicked tension in his broad shoulders.
+
+"Wyatt?" Sarah whispered, her hand immediately coming up to rest flat against his bare back. "What's wrong? Was it a nightmare about Sector 4?"
+
+Wyatt let out a long, shuddering exhale, dropping his face into his hands.
+
+"No," Wyatt mumbled, his voice a thick, gravelly rasp. He turned his head to look at her, his eyes still wide with the lingering terror of his subconscious. "It was a nightmare about the basement. Sarah... they all woke up. All fifty thousand of them. At the exact same time."
+
+Sarah blinked, processing the sheer logistical horror of his dream. A tiny, empathetic smile touched the corners of her mouth as she realized his mechanic's brain had completely short-circuited over the infrastructure requirements of an instant civilization.
+
+"Oh, Wyatt," she murmured, shifting closer to wrap her arms around his waist from behind, pressing a kiss to his shoulder blade. "It was just a dream."
+
+"I know," Wyatt breathed, running a hand through his dark hair. "I know it was. But I just... I need to see it. I need to make sure the system didn't glitch. If Aria accidentally initiated the decanting sequence while we were asleep..."
+
+He didn't need to finish the sentence. Sarah completely understood. The weight of what they had discovered today was astronomical, and it was entirely natural that it was haunting his sleep.
+
+"Okay," Sarah said softly, untangling herself from the heavy blankets. "Let's go check."
+
+They didn't bother digging through the dressing room for clothes. They just grabbed two incredibly thick, plush white bathrobes the billionaire had left hanging on the bathroom door and wrapped themselves tightly against the chill they knew was waiting for them below.
+
+They walked barefoot out of the master suite, the quiet, empty halls of the estate offering an immediate, soothing contrast to Wyatt's nightmare.
+
+They stepped into the pneumatic elevator. The descent to the bedrock felt longer this time, the icy air seeping through the gaps in their robes as the doors finally parted on the Genesis Vault.
+
+Wyatt stepped out, his breath pluming in the freezing, sterile air.
+
+He stopped, his shoulders dropping a full two inches as absolute relief washed over him.
+
+The massive, cavernous room was perfectly still. It was bathed in the same icy-blue light. The towering banks of cryogenic stasis pillars stood in perfect, geometric silence, humming with the low, steady vibration of deep-freeze.
+
+There were no automated alarms. There were no crying infants.
+
+Sarah walked past him, stepping up to the circular command terminal in the center of the room. The glass interface woke up at her touch.
+
+"Aria," Sarah said quietly, her breath forming a white cloud in the air. "Status report on the Genesis cohort. Have any decanting sequences been initiated?"
+
+*"The Genesis cohort remains in perfectly stabilized cryogenic stasis, Sarah,"* Aria’s synthesized voice chimed from the vault's speakers, calm and unbothered. *"Zero subjects have been initiated for the decanting process. The automated medical wing on Sub-Level 1 remains entirely dormant."*
+
+Wyatt walked up behind Sarah, wrapping his arms around her waist and resting his chin on her shoulder as he stared at the glowing blue data on the terminal.
+
+"Are you sure?" Wyatt asked, needing absolute confirmation.
+
+*"I am absolutely certain, Wyatt,"* Aria replied warmly. *"The only active, biological development currently occurring within the entire perimeter of the estate is located safely within Administrator Sarah's uterus. The three fetal heartbeats are strong and perfectly synchronized."*
+
+Wyatt let out a low, echoing chuckle, the last lingering threads of his panic dissolving completely into the freezing air of the vault.
+
+"Okay," Wyatt sighed, tightening his grip on Sarah and pressing a kiss to her cheek. "Okay. Three is enough for now."
+
+Sarah laughed, leaning her head back against his chest. She reached down, her hands resting protectively over the small, firm swell of her lower abdomen beneath the plush bathrobe.
+
+"Just the three of them," Sarah agreed softly, looking out over the sleeping thousands. "The rest of the neighborhood can wait their turn."
+
+Wyatt nodded in absolute agreement. They stood there for a few more minutes, the quiet, humming silence of the vault acting as the ultimate reassurance that they were in complete control of their future.
+
+"Come on, Mr. Colton," Sarah whispered, shivering slightly as the chill finally cut through her robe. "Let's go back to bed. We have to start studying pediatric nutrition in the morning."
+
+Wyatt turned her away from the terminal, keeping his arm securely around her shoulders as they walked back to the elevator.
+
+The universe was safe. The vault was sleeping. And as the brushed-steel doors closed, carrying them back up to the warmth of their sanctuary, Wyatt finally felt ready to get some rest.
+

@@ -1,0 +1,26 @@
+# Part 7: Un Avenir Sans Fardeau (A Future Unburdened)
+
+A few days later, the official copy of the DNA report and the served Cease and Desist letter arrived from Ms. Albright’s office. Holding the documents, seeing the irrefutable proof and the legal finality in black and white, brought another wave of profound relief. It was truly, definitively over.
+
+That evening, the seven of them gathered in the Millers' living room. Alex was on the sofa, flanked by the now-familiar, comforting presence of Chloé on one side and Megan on the other. James and Emily, and Thomas and Sophie sat in the armchairs opposite them, their faces etched with a hopeful anticipation.
+
+James held up the documents from the lawyer. "We have the final word," he said, his voice steady but full of a deep, underlying emotion. He looked directly at Alex. "Ms. Albright received the official results. The probability of paternity is zero percent. Alex, you are not the father."
+
+A collective, shuddering breath of pure relief went through the room. Emily and Sophie were openly crying, their tears ones of profound joy and release. Chloé and Megan, in perfect sync, wrapped their arms around Alex, creating a fortress of triumphant, loving support.
+
+Alex read the report himself, his eyes tracing the cold, beautiful, scientific words that officially severed the last toxic thread connecting him to Vera. He felt a weight he didn't even realize he was still carrying lift from his soul.
+
+James then held up the other document. "And this," he said, his voice now a low, dangerous growl, "is a copy of the Cease and Desist order that was delivered to Vera and her mother this afternoon. It details, in no uncertain terms, that she is to have no contact with any of us, ever again. It includes the DNA results and the medical report on your infertility. It is ironclad."
+
+IT'S... REALLY OVER? Alex's device voiced, the words a quiet, hopeful question.
+
+"It's really over, cuz," Megan said, squeezing his shoulder. "She has no move left to make. She's been legally and scientifically checkmated."
+
+Thomas Mason, who had been quiet, raised an imaginary glass. "A toast," he said, his voice booming with relief. "To Alex and Chloé, and to a future without burdens. *Un avenir sans fardeau*."
+
+Later that night, after the Masons had gone back next door, the house settled into a new, more peaceful normal. Chloé, knowing her place was with Alex, started to head towards his room. Megan stood up from her own chair.
+
+"I'm going to turn in, too," Megan announced. "Long day." She didn't head for the guest room. She headed for the guest room that was now, and for the foreseeable future, simply "Megan's room." It was her base of operations, her home within a home, the physical manifestation of the promise she and the family had made. She was the live-in guardian, the third musketeer.
+
+Chloé smiled at her, a look of profound, sisterly gratitude passing between them. The conversation didn't need to be had. This was the plan. This was the team. The three of them, together, were ready to start their new, unburdened life.
+

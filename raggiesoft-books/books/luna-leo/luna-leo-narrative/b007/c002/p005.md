@@ -1,0 +1,64 @@
+# Part 5: The Sterling Standard
+
+Monday Morning Northwood High School Band Room
+
+The Band Room was its usual morning cacophony. Trumpet players were seeing how high they could squeak, drummers were practicing rudiments on the backs of chairs, and the smell of valve oil was thick in the air.
+
+Luna walked into Mr. Thompson’s office, the heavy-duty thermal gig bag slung over her shoulder. She looked a mixture of proud and terrified.
+
+"Mr. T?" she knocked on the open door.
+
+Mr. Thompson looked up from his coffee. "Morning, Luna. Did you bring the rental back? I have the paperwork ready if you want to renew it for the semester."
+
+"Actually," Luna said, unzipping the gig bag, "we returned the rental on Saturday."
+
+Mr. Thompson’s face fell slightly. "Oh. decided it wasn't for you? That's okay. It’s a tricky embouchure—"
+
+"No," Luna interrupted, a grin breaking out. "Stella decided we don't rent."
+
+She pulled out the cherry wood case.
+
+Mr. Thompson stopped drinking his coffee. He stared at the case. It wasn't the black molded plastic of a student flute. It was dark, polished wood with brass latches. It looked like something that belonged in a symphony hall, not a high school locker.
+
+"Luna," he said slowly. "What is that?"
+
+"It's an Orpheus," she said, popping the latches.
+
+She lifted the lid.
+
+The overhead fluorescent lights of the office caught the instrument, and it didn't just shine; it gleamed with the dark, rich luster that only solid sterling silver possesses.
+
+Mr. Thompson stood up. He didn't ask permission; he just reached out with reverence, his hands hovering for a second to ensure they were clean before he gently lifted the body joint.
+
+He inspected it with a practiced eye. He saw the hallmarks immediately: the pointed French key arms, the open holes, the weight of the solid silver tubing. He looked at the footjoint.
+
+"It has a B-foot," he whispered. "And a gizmo key."
+
+He looked at the headjoint. "Hand-cut silver."
+
+He looked at Luna, his eyes wide. "Luna... this is an **Orpheus 680**. This is a conservatory flute. This costs more than my first car."
+
+"Stella said she didn't want to buy an intermediate one just to replace it later," Luna explained, feeling a flush of pride. "She said she wanted the one I wouldn't outgrow."
+
+Mr. Thompson laughed, a sound of pure disbelief.
+
+"Outgrow? Luna, you could play principal chair in the **Tidewater Symphony** with this. You will *never* outgrow this."
+
+Luna blinked. *Principal chair?* She had only ever thought about playing for the band, and playing for Leo. But the way Mr. Thompson said it—with such absolute certainty—planted a tiny, thrilling seed in her chest. She looked at the silver instrument in his hands. It wasn't just a flute anymore; it was a possibility.
+
+Mr. Thompson carefully, almost reluctantly, placed the body back into the velvet nest of the case. He looked at her with a sudden, intense seriousness.
+
+"Listen to me," he said, his voice dropping. "You do not leave this on your chair. You do not let the trumpet players hold it. You do not let anyone 'try it out.' If you have to use the restroom during rehearsal, this goes back in the case, and the case goes with you. If this gets dented, I will personally cry."
+
+"I know," Luna promised, zipping the thermal cover back over the wood. "I'm guarding it with my life. Leo is too."
+
+She pointed out the office window. Leo was parked by the percussion cabinet, watching them. He gave Mr. Thompson a solemn thumbs-up.
+
+Mr. Thompson shook his head, smiling. "Your sister doesn't mess around, does she?"
+
+"Nope," Luna said, shouldering the bag. "She says we don't play on junk."
+
+"Clearly," Mr. Thompson murmured, watching her head back to the woodwind section. "Clearly."
+
+
+

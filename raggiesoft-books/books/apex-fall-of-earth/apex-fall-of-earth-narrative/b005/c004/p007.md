@@ -1,0 +1,58 @@
+# Part 7: Biology 101 – Friday, May 10, 2045 – 14:15
+
+Sarah dismissed the holographic web browser with a swipe of her hand, the floating table of the Genesis Vault receding back into the glass terminal. The thrill of coding her first dynamic intranet page was settling, making room for the profound, human reality of what she had just been organizing.
+
+She leaned back against the plush leather sofa, resting her bare shoulder against Wyatt's arm. He draped his hand casually over her knee, perfectly content to sit in the quiet library while the storm continued to beat against the mountain outside.
+
+"Aria," Sarah said, looking up at the mahogany ceiling, her tone shifting from academic focus to a quiet, deeply personal curiosity. "I have some questions about the Sol System medical database. Specifically regarding... human reproduction."
+
+Wyatt turned his head, his dark eyes instantly locking onto her with a warm, attentive focus.
+
+*"I am ready to access the anatomical and biological archives, Sarah,"* Aria replied smoothly. *"What would you like to know?"*
+
+"When Wyatt and I conceive a child naturally," Sarah started, her voice softening as she said the words out loud. "When does the biological system actually decide if it's going to be a boy or a girl? Does it happen as the baby grows?"
+
+*"According to standard human biology, the biological sex is determined at the exact moment of fertilization,"* Aria explained, projecting a highly detailed, purely clinical 3D rendering of chromosomal pairing above the table. *"The female ovum always carries an X chromosome. The male spermatozoon carries either an X or a Y chromosome. Whichever sperm successfully breaches the ovum dictates the genetic makeup immediately. XX will develop as a female, and XY will develop as a male. The blueprint is locked in at conception."*
+
+Wyatt smiled, his thumb tracing a slow circle on her knee. "Locked in from day one."
+
+"Okay," Sarah nodded, processing the fact. She looked around the cavernous, opulent library. "So, since we don't exactly have an OB/GYN in the valley, and I assume we won't have access to standard clinical exams... does that mean we won't actually find out if we're having a boy or a girl until the day they're born?"
+
+There was a brief, almost amused pause from the ceiling array.
+
+*"Sarah, while you are correct that there are no practicing obstetricians on Exoplanet 4, your assumption regarding your medical access is incorrect,"* Aria clarified. *"The original architect built an automated, state-of-the-art medical wing on Sub-Level 1 to support the Genesis Vault. It is equipped with advanced non-invasive fetal monitoring, including high-definition ultrasonography and genetic blood-panel synthesizers."*
+
+Wyatt's eyebrows shot up. "You're saying we have ultrasound machines in the basement?"
+
+*"Precisely, Wyatt,"* Aria confirmed. *"If you wish to monitor the pregnancy, you can safely determine the biological sex via ultrasound around the eighteenth to twentieth week of gestation. However, if you prefer to bypass the medical wing's diagnostic tools, you will indeed find out at the moment of delivery."*
+
+Sarah let out a bright, genuinely relieved laugh. The idea of navigating a completely blind pioneer pregnancy had been a lingering, terrifying shadow in the back of her mind. Knowing they had a fully stocked, automated medical suite completely changed the dynamic.
+
+"An ultrasound," Sarah breathed, leaning her head against Wyatt's shoulder. "We'll actually get to see them."
+
+"We'll get to see them," Wyatt echoed, pressing a firm, loving kiss to her temple.
+
+Sarah looked back at the blank glass of the holographic table, her mind pivoting to the fifty thousand sleeping souls buried miles beneath their feet.
+
+"What about the Genesis Vault, Aria?" Sarah asked. "When we finally decide to initialize the automated medical wing and start decanting those embryos... when does the system decide if they are boys or girls? And when do we find out?"
+
+*"I believe you already have the answer to that question, Sarah,"* Aria replied, her synthesized voice carrying a distinct note of programmed pride. *"Consider the SQL query you wrote this morning, and the PHP web page you just rendered."*
+
+Sarah frowned, her analytical mind immediately pulling up the plain text code she had just written.
+
+SELECT embryo_id, donor_id, gender FROM genesis_vault
+
+Her eyes went wide. She looked at Wyatt, the realization hitting her like a physical spark.
+
+"The gender column," Sarah gasped. "It was already populated. I pulled the data."
+
+*"Exactly,"* Aria validated. *"An embryo is, by definition, a fertilized ovum. Therefore, the moment of conception has already occurred in a clinical laboratory on Earth. The biological sex of all fifty thousand subjects in the Genesis Vault is already permanently locked in. The original geneticists documented it prior to cryogenic freezing."*
+
+"We don't have to wait for them to grow," Wyatt realized, shaking his head in sheer amazement at the pristine organization of the billionaire's ark. "We already know."
+
+*"You have absolute omniscience over the vault's demographics,"* Aria confirmed. *"When you decide it is time to expand the population, you can use the intranet page Sarah just built to intentionally select the exact ratio of males to females you wish to decant for the first generation."*
+
+Sarah looked at her hands, the sheer, staggering weight of their new reality settling over her. She wasn't just going to be a mother to her own children. She and Wyatt held the exact blueprints to the entire future of the human race, neatly organized in a database waiting for them to click 'execute'.
+
+"Well," Sarah smiled, a profound sense of peace washing away the last remnants of the NTTR's trauma. "I guess that means we get to plan exactly what kind of neighborhood our kids are going to grow up in."
+

@@ -1,0 +1,122 @@
+# Part 10: The Decompression Chamber
+
+## Tuesday, June 22, 2004 — 08:30 AM 105 Pepper Street SE
+
+The sun streamed through the living room blinds, illuminating the wreckage of the sleepover.
+
+The "Platoon" was dismantling. The air was filled with the sounds of zippers zipping, nylon rustling, and the distinct whoosh of air mattresses being deflated.
+
+Jenna was rolling on top of her mattress to squeeze the air out. Sarah was folding hers with military precision. Harper was sitting on the edge of the pull-out sofa, eating a strawberry toaster pastry and looking miserable.
+
+"Do we have to go?" Harper asked, kicking her legs against the metal frame.
+
+"Yes," Aunt Linda called from the kitchen, where she was filling travel mugs with coffee. "I have a shift tomorrow, and you have summer reading to start. The van leaves in T-minus twenty minutes."
+
+Freddie sat in his wheelchair near the window, fully dressed in a fresh flannel shirt. He watched the organized chaos. He felt tired—a good, heavy, physical tiredness—but his mind was clear.
+
+"Status of the perimeter?" Freddie asked.
+
+"Perimeter is clearing," Paige said, walking by with an armful of sheets. "We’re almost packed."
+
+## 09:00 AM The Driveway
+
+The van was loaded. The side door was open. The engine was idling.
+
+It was time for the final extraction.
+
+The Twins (Amanda and Elara) went first. They didn't do single hugs. They attacked Freddie simultaneously.
+
+"Twin sandwich!" Elara yelled.
+
+They squeezed him from both sides. Freddie patted their backs. "Safe travels, units."
+
+Sarah stepped up. She adjusted her glasses. She looked at Freddie, then at the house.
+
+"The statistical probability of us returning before school starts is high," Sarah stated. "I have calculated the fuel costs. It is feasible."
+
+"I look forward to the data," Freddie smiled, shaking her hand firmly, which then turned into a quick, awkward hug.
+
+Jenna punched Freddie lightly on the shoulder. "Happy birthday to me. Thanks for the bowling, Captain. Keep the bumpers up."
+
+"Always," Freddie nodded.
+
+Then came Harper.
+
+She dragged her feet. She stood in front of his wheelchair, looking at her sneakers.
+
+"Hey," Freddie said softly. "Look at me."
+
+Harper looked up. Her eyes were glassy.
+
+"You played a clean game," Freddie told her, referencing the cards. "And you give excellent hugs. You are Level 1 clearance, Harper. Never forget that."
+
+Harper sniffled. She lunged forward, wrapping her arms around his neck one last time.
+
+"Don't get sad again," Harper whispered into his ear. "Call us if the bad thoughts come back."
+
+"I will," Freddie promised. "I have the Triad. I am safe."
+
+Aunt Linda was the last. She hugged Jessica and Paige first, whispering instructions about groceries and locks. Then she came to Freddie.
+
+She didn't hug him like a child. She cupped his face in her hands.
+
+"You did good, Freddie," Linda said. "You survived the storm. Now enjoy the quiet. You earned it."
+
+"Thank you, Aunt Linda," Freddie said. "For the rescue."
+
+"Anytime," she winked. "Alright, load up! We’re burning daylight!"
+
+The doors slammed shut. The engine revved.
+
+Freddie, Paige, and Jessica stood on the porch (Freddie on the ramp). They waved as the van backed out, turned onto Pepper Street, and disappeared around the corner.
+
+## 09:15 AM The Living Room
+
+They walked back inside. Jessica locked the deadbolt.
+
+The silence was sudden.
+
+It wasn't the scary, empty silence of the apartment in Norfolk. It was the settling silence of a house that had been vibrated to its core and was now resting.
+
+The living room was still messy. The pull-out bed was stripped but open. The coffee table was pushed against the wall. Deflated air mattresses sat in a pile by the basement door.
+
+Freddie rolled to the center of the room. He stopped.
+
+He closed his eyes and took a deep breath. He listened to the hum of the refrigerator. He listened to the AC unit click on.
+
+"Status?" Paige asked softly, walking over to stand by his left wheel.
+
+Freddie opened his eyes.
+
+He looked at the empty room. He looked at the sunlight hitting the carpet where Harper had been sleeping.
+
+"Input levels are dropping," Freddie said. His shoulders relaxed. The tension he had been holding in his neck for two days finally released. "Decompression initiated."
+
+Jessica walked over to his right side. She sat down on the edge of the pull-out bed, leaning back on her hands.
+
+"It’s quiet," Jessica noted.
+
+"It is," Freddie agreed.
+
+"Is it too quiet?" Paige asked, touching his hand.
+
+Freddie considered this. He ran a diagnostic on his brain. Was the silence dangerous? Did it leave room for Vanessa’s voice?
+
+He listened. He heard nothing but his sisters breathing.
+
+"Negative," Freddie said. "It is... peaceful."
+
+He looked at Paige. He looked at Jessica.
+
+The "Platoon" was gone. The "Army" had retreated. It was just them now. The Core, the Anchor, and the Shield.
+
+"We have the house," Freddie stated. "We have the food. We have the silence."
+
+"And we have the remote," Jessica grinned, reaching for it.
+
+Freddie let out a long breath. He leaned his head sideways, resting it against Paige’s hip as she stood next to him.
+
+"We are home," Freddie whispered.
+
+
+

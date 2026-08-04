@@ -1,0 +1,144 @@
+# Part 9: The Restoration
+
+## Sunday, May 9, 2004 — 18:00 PM (PST) The Cascade Suites, Room 412
+
+The storm in the hotel room had passed, leaving behind a stillness that felt fragile but solidifying.
+
+Freddie lay beneath Paige, his chest rising and falling in a slow, rhythmic cadence that finally matched hers. The violent tremors that had racked his body twenty minutes ago had smoothed out into a low-level vibration of exhaustion.
+
+Paige was still lying fully on top of him, stomach to stomach, her legs hooked around his thighs, her arms locked around his shoulders. But the quality of the hold had changed. She wasn't restraining a thrashing patient anymore; she was hugging a brother who was holding on for dear life.
+
+She felt his arms tighten around her back, his fingers digging into her t-shirt, pulling her down.
+
+*He likes the weight,* Paige realized. *He isn't fighting it. He needs it.*
+
+She didn't move. She let her full weight settle, becoming a human gravity blanket. She pressed her cheek against his damp hair.
+
+"We stick together," Paige whispered into the silence, repeating the mantra. "The Unit is solid. No matter what."
+
+"Unconditional," Jessica added softly from her spot on the mattress beside them. She rested her hand on Freddie’s arm, her thumb rubbing a slow circle. "We don't leave. We don't quit. We just hold the line."
+
+Freddie squeezed his eyes shut. He couldn't speak—the audio driver was still offline—but he squeezed Paige’s ribs in response. *Acknowledged.*
+
+They lay there for a long time, the grey Seattle light fading outside the blackout curtains. The only sound was the air conditioner and the synchronized breathing of the three siblings.
+
+Then, a new sound broke the quiet.
+
+*Gurgle-rumble.*
+
+It was a deep, resonant protest from Freddie’s stomach.
+
+A second later, Paige’s stomach answered with a high-pitched growl of its own.
+
+Freddie’s eyes opened. He looked up at Paige. A flicker of awareness returned to his gaze—the "Captain" coming back online, realizing that the "Crew" was running on empty.
+
+He tapped Paige’s shoulder twice with his index finger. *Tap-tap.*
+
+The Signal.
+
+"Hungry?" Paige asked softly, lifting her head to look at him.
+
+Freddie nodded, a small, jerky movement against the pillow.
+
+"Okay," Paige said. "That means we have to move. Are you ready for the weight to lift?"
+
+Freddie hesitated. He liked the pressure. It was safe. But the biological imperative for fuel was becoming critical.
+
+He tapped her shoulder again. *Proceed.*
+
+"Slowly," Jessica commanded.
+
+Paige disengaged carefully. She unhooked her legs. She pushed herself up, sliding off him and settling onto the mattress at his side.
+
+The loss of pressure was jarring, but Freddie didn't panic. He immediately reached out and grabbed Paige’s hand, lacing their fingers together.
+
+"I'm here," Paige promised.
+
+"Dinner," Jessica announced, standing up from the bed. "I'm on mess duty."
+
+She looked at Freddie. He was lying flat, staring at the ceiling. If she went to the kitchenette, he wouldn't be able to see her. He would lose visual contact with one-third of the Unit.
+
+"Reorient," Jessica ordered. "Paige, help him turn. Head to the foot of the bed. Prop him up. I want him to have eyes on the kitchen."
+
+"Copy," Paige said.
+
+She helped Freddie shift. His legs were heavy and stiff, but together they rotated his body 180 degrees. He leaned back against a stack of pillows at the foot of the King bed.
+
+From this vantage point, he had a direct line of sight to the small kitchenette.
+
+"Visual confirmed?" Jessica asked, standing by the stove.
+
+Freddie nodded. He could see Jessica. He could feel Paige next to him, her arm wrapped around his waist, her head resting on his shoulder.
+
+The formation was broken, but the connection was intact.
+
+"Menu," Jessica mused, opening the fridge. "We need soft. We need comfort. We need... Grilled Cheese."
+
+She pulled out the loaf of soft white bread and the package of mild cheddar slices they had bought at Market Street Grocery.
+
+"And tomato soup," she added, grabbing a can from the cupboard. "Classic protocol."
+
+Freddie watched her work. The rhythm of her movements—buttering the bread, lighting the burner—was soothing. It was domestic. It was normal.
+
+His mind began to drift. He wondered about the time zone. *18:15 PM PST.* That was *21:15 PM EST*.
+
+Back in Virginia, the "Prime Time Block" would be starting.
+
+He thought about the show they watched on WNRV. **The Local**. The bar where "everybody knows your name."
+
+He wanted that. He wanted to hear the piano theme song. He wanted to see the wood-paneled bar where people were safe, where they were recognized, where they belonged.
+
+He looked at the TV mounted on the wall. He opened his mouth to ask for it.
+
+*The Local,* he tried to say.
+
+But his throat just clicked. The words were stuck behind the firewall of the meltdown. He felt a tear leak out of his eye in frustration.
+
+Paige felt the tension in his arm. She looked at him. She saw him staring at the blank TV screen with a longing that broke her heart.
+
+"TV?" Paige guessed softly.
+
+Freddie nodded.
+
+"You want to watch something?"
+
+He nodded again. He tried to hum the theme song, but it came out as a shaky breath.
+
+"It's okay," Paige soothed, rubbing his arm. "We'll find something. Jessica, remote?"
+
+Jessica tossed the remote onto the bed. Paige picked it up.
+
+"Let's see what Seattle has," Paige said, pointing it at the screen.
+
+She turned it on. She cycled through the channels. News. Sports. Static.
+
+Then, she hit a channel showing a familiar, grainy image. A bar. A tall man drying a glass. A short man walking in the door.
+
+"NORM!" the TV audience shouted.
+
+Freddie’s breath hitched. *They found it.* Even here, on the other side of the continent, the signal existed.
+
+"The Local," Paige smiled. "Good call, Captain."
+
+She put the remote down. Freddie leaned his head against hers. He watched the show. He listened to the laugh track.
+
+"Soup's on," Jessica called out.
+
+She brought two plates over to the bed. Grilled cheese sandwiches, cut into triangles (no crusts), and mugs of tomato soup.
+
+She placed the tray on the mattress between them.
+
+"Eat," Jessica commanded gently. "Soft food. Easy chewing."
+
+Freddie picked up a triangle. It was warm. It was soft.
+
+He took a bite. The cheese was melted perfectly.
+
+He looked at the TV where the characters were raising a glass. He looked at Jessica, who had pulled the desk chair over to sit right next to the bed so she could eat with them. He looked at Paige, who was blowing on her soup.
+
+He couldn't say the words yet. He couldn't say *Thank you* or *I love you* or *I'm sorry I tried to leave.*
+
+But as he dipped his sandwich into the soup, surrounded by his sisters and the glow of the TV, Freddie knew one thing.
+
+He was in the place where everybody knew his name. And he was never leaving again.
+

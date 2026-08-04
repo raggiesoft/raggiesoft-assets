@@ -1,0 +1,73 @@
+# Part 9: The Engine Block – Tuesday, January 9, 2046 – 10:00
+
+The adrenaline that had sustained Wyatt Colton for the first month of his children’s lives was finally beginning to run dry.
+
+He stood at the medical sanitization basin, staring blankly at the steaming water cascading over his massive, calloused hands. He had just finished the 09:00 feeding cycle, and the heavy, dragging ache in his lower back was radiating up into his shoulders. He blinked slowly, his eyes burning under the brilliant white LEDs of the medical bay.
+
+He swayed, just a fraction of a centimeter, catching his weight against the edge of the steel sink.
+
+"Wyatt Colton."
+
+The voice was soft, but it carried an undeniable, absolute authority.
+
+Wyatt turned off the water and grabbed a sterile towel, turning around. Sarah was no longer confined flat to the memory-foam mattress. At five weeks postpartum, her body was healing beautifully. The color had fully returned to her cheeks, the devastating exhaustion had faded, and she was sitting completely upright on the edge of the bio-bed, her legs dangling comfortably.
+
+She was watching him with a look of intense, uncompromising love.
+
+"Sit down," Sarah commanded, pointing to the rolling metal stool.
+
+"I need to log their intake volumes in the console," Wyatt deflected mildly, tossing the towel into the reclamation chute. "Aria needs the data to adjust the fortification parameters for the next—"
+
+"Aria already logged it. I watched the console update while you were washing your hands," Sarah interrupted, her dark eyes locking onto his. "You haven't slept more than two consecutive hours since the first week of December, Wyatt. I am healing. I am strong enough to sit in the wheelchair and manage the syringe feeds. It is your turn to sleep."
+
+Wyatt opened his mouth to argue, his S.H.O.P. Marine instincts instantly rebelling against the idea of standing down from his post. But as he looked at her, he realized she was right. He was operating in a heavy, cognitive fog.
+
+"Okay," Wyatt relented, letting out a long, gravelly sigh as he walked over and sank onto the stool beside her. He leaned forward, resting his heavy head against her shoulder. "Okay. Just a few hours."
+
+Sarah smiled, wrapping her arms around his broad, exhausted shoulders and pressing a warm kiss into his dark hair. She held him for a quiet minute, relishing the feeling of her own returning strength. She could finally be his anchor again.
+
+"Before you lay down," Sarah murmured softly, "bring them over here. I want to see them."
+
+Wyatt nodded slowly. He stood up, rolling his shoulders to shake off the fatigue, and walked over to the far wall. He unlocked the heavy casters on the three transparent incubators, carefully rolling them over to the bio-bed one by one, clicking them into a tight row directly in front of Sarah.
+
+He dropped back onto his stool, his elbows resting on his knees as he and Sarah looked through the clear, curved plastic walls.
+
+At five weeks old, they were finally beginning to put on real weight. Their skin was no longer translucent, and the tiny CPAP masks had been downgraded to specialized nasal cannulas as their lungs grew stronger.
+
+But as Sarah looked down the line of bassinets, her brow furrowed in quiet fascination.
+
+"Wyatt... look at how they're sleeping," Sarah whispered, leaning forward slightly.
+
+Wyatt blinked, his tired eyes focusing on the specific positioning of his children within their medical boxes.
+
+They weren't resting in the center of their respective memory-foam mattresses.
+
+In the first incubator on the left, Ellie had wiggled and kicked her tiny body entirely to the right side of the box. She was mashed up against the transparent acrylic wall, her right cheek and tiny right hand pressed completely flat against the plastic boundary separating her from her sister.
+
+In the middle incubator, Nora had mirrored the movement. She was curled tightly against the left side of her enclosure, her tiny forehead pressed against the exact spot on the plastic where Ellie’s hand rested on the opposite side of the gap.
+
+And in the third incubator on the right, Leo had somehow managed to scoot his rigid, tense little body all the way to his left. His tiny, trembling left fist was pressed firmly against the acrylic wall, directly adjacent to Nora’s back in the neighboring box.
+
+They had all migrated to the extreme edges of their enclosures, physically clustering as close together as the heavy medical hardware would mathematically allow.
+
+Sarah let out a soft, beautiful laugh, her heart melting at the sight. "They're totally huddled up. Why are they all squished against the sides like that?"
+
+Wyatt rubbed his bearded jaw, his mechanic's brain instantly analyzing the physical environment of the hardware. He looked at how tightly he had locked the casters together, leaving only a few centimeters of space between the heavy life-support bases of the three machines.
+
+"It's the compressors," Wyatt deduced, his voice low and confident in the completely logical, entirely wrong explanation. "Each incubator has an independent dual-compressor for the air filtration and the thermal scrubbers. When you park them this close together, the kinetic vibration from the motors overlaps in the center."
+
+He reached out, resting his calloused fingertips lightly against the small gap between Ellie and Nora's incubators, feeling the faint, rhythmic hum of the machinery.
+
+"It's creating a localized harmonic vibration," Wyatt explained softly, looking back at Sarah. "Premature babies love white noise and low-frequency vibrations. It mimics the physical sensation of being inside the womb. They aren't trying to get to the edge; they're just gravitating toward the strongest source of the kinetic hum. It's like sleeping next to a warm engine block."
+
+"That makes perfect sense," Sarah smiled, thoroughly convinced by his flawless mechanical logic. She reached out to gently tap the plastic near Ellie’s squished cheek. "Little mechanics, already seeking out the engines."
+
+Wyatt chuckled, a deeply affectionate, exhausted sound that rumbled in his chest. To him, it was just a beautiful quirk of the medical bay's acoustics and their biological instincts to self-soothe.
+
+"Let them sleep," Wyatt murmured, standing up from the stool. He leaned down, kissing Sarah deeply. "I'm going to lay down on the floor mattress for a few hours. Wake me if the telemetry monitors even beep."
+
+"I will," Sarah promised, her eyes locked lovingly on the three tiny babies clustered against their plastic walls. "Go to sleep, Wyatt."
+
+As Wyatt finally collapsed onto the heavy mattress on the floor, letting the exhaustion completely pull him under, he had absolutely no idea that the "harmonic vibration" of the motors meant absolutely nothing to his children. They were just desperately trying to get back to each other.
+
+

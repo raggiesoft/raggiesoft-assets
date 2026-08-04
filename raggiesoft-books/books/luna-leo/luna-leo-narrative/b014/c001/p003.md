@@ -1,0 +1,182 @@
+# Part 3: The Split Screen
+
+## August 28, 2006 09:15 AM
+
+The morning sun streamed through the windows of Braxton State University. The Fortress was deployed across the campus, each member engaging their respective targets.
+
+## Location: The Centennial Library - 4th Floor (Quiet Zone) Agent: Stella Porter
+
+Stella claimed a corner carrel with a view of the ocean. She opened her laptop. She wasn't here to write a paper; she was here to build a headquarters.
+
+She opened her code editor. It was time to upgrade her business presence. Porter Web Solutions needed a new face—something that said "High-End Consultant," not "Freelancer."
+
+She typed the header code. \<title\>Porter Web Solutions \| Architecture for the Digital Age\</title\>
+
+She began designing the layout. Clean lines. Grey scale with bold accent colors. Solid. Reliable. Just like the house in Iron Point.
+
+She paused to check her email. A client in Virginia had sent a panic message about a server crash. Stella fixed it in five minutes, billed them \$150, and went back to coding.
+
+She took a sip of coffee. The library was silent, efficient, and free. She was making money while sitting in a university she didn't technically attend (yet).
+
+"Perfect office," she whispered.
+
+## Location: Humanities Building - Room 204 Agent: Olivia Walker Porter
+
+The Social Theory lecture was full. Olivia sat in the second row, notebook open.
+
+A guy in a lacrosse hoodie slid into the empty seat next to her. He gave her a look—the "first day of class scan."
+
+"Hey," he whispered, leaning in. "I'm Jason. You a transfer? I haven't seen you around."
+
+Olivia turned. She didn't smile. She didn't frown. She just adjusted her hand on the desk, deliberately bringing her left hand into the light.
+
+On her ring finger, the heavy silver band with the Celtic knotwork—the one matching Leo’s—caught the fluorescent glare.
+
+"I'm Olivia," she said, her voice polite but final. "And yes, I transferred. My partner and I just moved here."
+
+Jason saw the ring on Olivia’s finger. He saw the Celtic knotwork. He heard the word "Partner." He did the math.
+
+"Oh," he said, leaning back, his confidence deflating slightly. "Right. Cool. Welcome to Braxton."
+
+He held his hands up in a *my bad* gesture and swiveled in his seat, turning his back to Olivia to focus on the girl sitting on his right. She was wearing a BSU Nursing sweatshirt and taking notes with a multi-colored pen.
+
+Olivia watched from the corner of her eye. She knew exactly what was coming.
+
+"Hey," Jason whispered, flashing the smile that probably worked in high school. "I'm Jason. Lacrosse team. I missed the syllabus part—did the prof mention the grading curve?"
+
+The girl stopped writing. She turned to look at him. She didn't look impressed.
+
+"He said check the portal," she whispered back.
+
+"Right, right," Jason nodded. "So, are you a transfer too? Or..."
+
+The girl sighed. She reached up to tuck a strand of hair behind her ear. As she did, the fluorescent lights caught the rock on her left hand. It wasn't a subtle silver band like Olivia’s. It was a diamond engagement ring paired with a gold wedding band.
+
+"I'm a Senior," she said, tapping the ring against her notebook. *Click-click.* "And my husband is picking me up after class. He plays linebacker for the Iron Works."
+
+Jason paled. "Oh. Uh. Cool. Congrats."
+
+He faced forward, staring straight at the chalkboard.
+
+He glanced at the girl in the row ahead of him. She was wearing a ring. He glanced at the girl two seats down. Ring.
+
+Olivia stifled a laugh. It was a statistical anomaly, or perhaps cosmic justice. Jason had walked into a minefield of commitment.
+
+She smoothed the page of her notebook. She wasn't here for dates. She wasn't here for the "College Experience." She was here for a degree.
+
+And she already had her person. He was currently in the Engineering building, probably building a robot to carry his books.
+
+She looked at her own ring. It wasn't just a promise to Leo; it was the ultimate "Do Not Disturb" sign.
+
+*Fortress Secure,* she thought, and began to write.
+
+## Location: Engineering Building - Lecture Hall A Agent: Leo Arthur Porter
+
+The professor was drawing force vectors on the whiteboard.
+
+"The sum of the moments must equal zero," the professor droned.
+
+Leo was typing notes on his laptop with one hand. With his other hand, he was trying to keep his heavy Calculus III textbook from sliding off his lap.
+
+The book slipped. Leo grabbed it, but his elbow bumped the joystick. The Titan X-Treme lurched left, hitting the desk leg with a loud CLANG.
+
+The class turned. A few guys in the back snickered.
+
+Leo froze. He hated being the disruption.
+
+The girl on his left—Sarah (Mechanical Engineering)—didn't laugh. She reached out quickly and steadied the book before it hit the floor.
+
+The girl on his right—Amanda (Civil Engineering)—put a hand on the desk leg to dampen the vibration.
+
+"You good?" Sarah whispered, her eyes scanning the textbook for damage.
+
+Leo nodded. He adjusted his glasses. He tapped his Quantum Communicator.
+
+"BAD CARGO MANAGEMENT," the robotic voice whispered (volume set to 10%). "NO TRUNK."
+
+Sarah looked at the chair. She looked at the book sliding on his slick pants. She ignored the guy behind her who was trying to get her attention to ask for a pencil.
+
+"You need a bracket," Sarah whispered, her mind already modeling the stress points.
+
+Leo’s eyes lit up. He minimized his notes window and opened a CAD file he had started the night before in the food court. It was a rough wireframe of a rear-mounted aluminum rack.
+
+He tilted the screen so Sarah and Amanda could see.
+
+"PROJECT M.U.L.E.," Leo typed.
+
+Amanda leaned in, ignoring the lecture completely. "Cantilevered off the rear rail? That's smart. Keeps the center of gravity low over the axle. Good for static loads."
+
+"We have a machine shop," Sarah whispered, grinning. "Open hours start at 2:00. We could cut that stock in an hour if we use the waterjet."
+
+Leo looked at them. He looked at Sarah. He looked at Amanda. They weren't looking at him with pity. They weren't looking at him with romantic interest. They were looking at his CAD file.
+
+Then, Sarah noticed his left hand resting on the armrest. She saw the heavy silver band with the Celtic knotwork—matching the one Olivia wore.
+
+She nudged Amanda. Amanda looked.
+
+They exchanged a look of pure relief.
+
+The unspoken translation: He’s taken. He’s serious. He isn't going to ask us out or make it weird. We can just build robots.
+
+"Bring the plans to the shop, Leo," Sarah said, her tone shifting from 'helpful classmate' to 'project partner.' "Let's build it."
+
+Leo nodded. He didn't just have classmates. He had a team.
+
+"AFFIRMATIVE," he typed. "SEE YOU AT 1400."
+
+The three of them turned back to the front, ignoring the rest of the room, united by the only thing that mattered: The Work.
+
+## Location: Fine Arts Center - Room 402 Agent: Luna Eleanor Porter
+
+The Music Theory class was buzzing. The professor, Mr. Davies (an adjunct who played flute in the local pit orchestras), was taking roll.
+
+"Luna Porter?" he called out.
+
+"Here," Luna said.
+
+A ripple went through the room. A girl in the front row turned around. "Wait. Porter? Are you the one?"
+
+"The one what?" Luna asked.
+
+"The Freshman with the silver flute," the girl said. "Everyone is talking about it. They say you have a professional horn."
+
+Mr. Davies looked up. "Is that true, Luna? I heard a rumor from Dean Sterling about an Orpheus?"
+
+Luna hesitated. She didn't want to be arrogant. But she remembered the Dean's advice: Establish dominance.
+
+She reached down and unzipped her thermal bag. She pulled out the cherry wood case. She placed it on her desk and opened it.
+
+The silver Orpheus 680 gleamed under the classroom lights.
+
+The room went silent. Even the trumpet players stopped talking.
+
+"It's a 680," Mr. Davies breathed, stepping closer. "Hand-cut? B-foot?"
+
+"Yes," Luna said.
+
+"Can you..." Mr. Davies hesitated. "Do you mind playing something? Just to let us hear the tone?"
+
+Luna stood up. She assembled the instrument quickly.
+
+She didn't play a scale. She closed her eyes. She thought of the blizzard. She thought of the empty lot in Iron Point.
+
+She played Debussy’s Syrinx.
+
+From memory.
+
+The sound filled the classroom—dark, mournful, and massive. It wasn't a student sound. It was a sound that had already won a war.
+
+She played the first phrase, let the silence hang, and then lowered the flute.
+
+The class stared at her.
+
+Mr. Davies blinked. He pushed his glasses up his nose.
+
+"Right," he said, his voice a little shaky. "Well. Dean Sterling mentioned she found a Principal Chair. Now I hear why."
+
+He went back to the chalkboard. "Okay, everyone. Intervals. Let's try to focus."
+
+Luna sat down. She packed the silver away. She caught the eye of the girl in the front row, who gave her a thumbs-up.
+
+Luna smiled. The rumor was true. The Fortress had arrived.
+

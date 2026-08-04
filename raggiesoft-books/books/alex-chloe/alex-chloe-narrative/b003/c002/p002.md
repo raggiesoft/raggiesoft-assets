@@ -1,0 +1,38 @@
+# Part 2: Birthday Twins (Early April 2000)
+
+The last traces of a long Virginia winter were finally melting away, replaced by the soft, tentative warmth of early April. It was a lazy Saturday afternoon at the Miller house. Alex and Chloé were in their usual spot on the living room sofa, a comfortable silence between them as Alex focused on a level of a new computer game and Chloé idly flipped through a magazine.
+
+Chloé let out a theatrical sigh, tossing the magazine onto the coffee table. "Ugh. My birthday is next week, and I still have absolutely no idea what I want. Mom keeps asking, but my brain is just... empty."
+
+Alex paused his game, his curiosity piqued. He had been so wrapped up in their shared world of school, homework, and weekend adventures that the passage of time, and the approach of his own fifteenth birthday, had barely registered. He did some quick mental math. Next week...
+
+He typed on his AAC, the synthesized voice cutting through the quiet room. YOUR BIRTHDAY IS NEXT WEEK? WHAT DAY?
+
+"The eighth," Chloé said without looking up, still staring at the ceiling as if waiting for inspiration to strike. "April eighth. I'll officially be fifteen. Old and decrepit." She grinned, then noticed the profound silence from Alex's side of the couch. She turned to look at him. "Why? What's that look for?"
+
+Alex was staring at her, his eyes wide with an expression of pure, unadulterated astonishment. His fingers moved to his keypad, slowly, deliberately, as if typing the most important message of his life.
+
+CHLOÉ. MY BIRTHDAY… IS ALSO APRIL EIGHTH.
+
+Chloé stared back at him, her brain taking a moment to process the words. "What?" she breathed. Then, a slow, incredulous smile spread across her face. "No. No way. You are totally messing with me right now."
+
+Alex just shook his head, his own grin growing wider.
+
+"Seriously? April eighth? Get out!" she demanded playfully. "Show me some proof! Your school ID, something!"
+
+Laughing, Alex wheeled over to the small table where his backpack sat. He fished out his wallet and pulled out his Northwood High student ID. He handed it to her. Chloé took it, her eyes dropping to the small print under his picture. There it was, clear as day: DOB: 04/08/1985.
+
+Her jaw dropped. She looked from the ID to his beaming face and then back to the ID. A delighted, disbelieving laugh bubbled up out of her. "Oh my god," she whispered. "Oh my GOD! We have the same birthday!"
+
+In the next instant, she launched herself at him, wrapping him in a fierce, joyous, all-encompassing hug. "We're birthday twins, Alex! Birthday twins!" she squealed, rocking him back and forth in his chair. Alex hugged her back just as tightly, his own laughter, a rare and happy sound, joining hers.
+
+When they finally pulled apart, both of them breathless and giddy, Chloé was looking at him as if seeing a piece of a puzzle she didn't even know was missing slide perfectly into place.
+
+"Of course," she said, as if it were the most obvious thing in the universe. "Of *course* we have the same birthday. It makes so much sense! We were destined to be best friends! It was written in the stars!"
+
+Alex, his heart feeling almost too big for his chest, couldn't stop smiling. All his life, he had been an only child, his birthday a day that was just his. Now, he shared it with the most important person in his world. It didn't make him feel less special; it made him feel profoundly, deeply connected. He had found his other half, his platonic soulmate, and it turned out they had been linked from the very first day.
+
+BEST BIRTHDAY PRESENT EVER, he typed, his eyes shining. KNOWING THIS.
+
+Chloé’s smile softened, her own eyes shimmering with happy tears. "Me too, Alex," she said softly. "Me too." The discovery was a welcome, wonderful surprise, another perfect, unbreakable thread woven into the beautiful, ever-strengthening tapestry of their friendship.
+

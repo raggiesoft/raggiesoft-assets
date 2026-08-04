@@ -1,0 +1,60 @@
+# Part 3: The Pitch
+
+## Date: Saturday, July 16, 1994 Time: 7:30 AM Location: The Cockpit
+
+Patrick woke up with the mission. The storm had passed, leaving the morning air thick and heavy. The box fan was still rattling in the window, pulling in the scent of wet asphalt and low tide.
+
+He crawled out of the low futon, careful not to wake Nichole. She was sleeping deeply, her arm thrown over her eyes to block the morning light filtering through the blinds. He climbed onto Uncle Mark’s stool at the workbench. He found a pad of graph paper and a box of crayons.
+
+He didn't know the schematic symbols yet. He didn't know what a resistor looked like on paper. But he knew the logic. He drew a blue square: *THE BATTERY.* He drew thick black lines: *THE WIRES.* He drew a red circle with yellow spikes radiating from it: *THE BEACON.*
+
+The door creaked open. Uncle Mark walked in, holding two mugs of coffee. He was wearing a t-shirt that said NEWPORT STORM CHASERS. "Morning, Foreman," Mark whispered, handing a mug to an invisible person in the hallway before stepping inside. "You're up early."
+
+Patrick didn't look up. He was shading the red circle. "I know how to fix it," Patrick said.
+
+Mark set his mug down on a coaster (a piece of scrap cork). He leaned over Patrick’s shoulder. "Fix what?"
+
+Patrick pointed to the SignalMaster radio. Specifically, he pointed to the small, red LED labeled TX STANDBY. Even though the radio was off, that little light pulsed slowly. *Blink... Blink...* "That," Patrick said. "I want to put that on Nichole’s chair."
+
+Mark looked at the radio. Then he looked at Nichole, sleeping in the corner. "A status light?" Mark asked.
+
+"A safety light," Patrick corrected. "Last night was dark. If we were outside, cars wouldn't see her. The wheelchair is black. She disappears." He tapped his drawing. "I want to build a blinker. High visibility. Mounted on the back cane."
+
+Mark stared at the drawing. He rubbed his chin, looking from the nine-year-old boy to the complex radio equipment. He didn't smile like it was cute. He nodded like it was brilliant. Mark turned to the door. "Tom! El! You need to see this."
+
+Tom and Ellen appeared in the doorway a moment later, looking groggy and clutching their coffees. "Is everything okay?" Ellen asked, instantly looking at Nichole to check for distress.
+
+"Everything is better than okay," Mark said. "Patrick has a proposal."
+
+Patrick spun the stool around. He held up the graph paper. "It's a proximity alert system," Patrick said, using words he had picked up from Mark’s magazines. "We mount a red strobe on the back of the chair. Powered by a 9-volt. If we go out at night, we turn it on. Cars see the flash before they see the wheels."
+
+Tom stepped into the room. He took the paper. He looked at the blue square and the red sun. "A taillight," Tom realized. "Like on a bike. But brighter."
+
+"Much brighter," Patrick said. "Like the radio tower."
+
+Ellen looked at Nichole. She thought about the dark parking lots, the crosswalks at dusk, the constant anxiety of pushing a black wheelchair through a world that rarely looked down. "Patrick," Ellen said, her voice soft. "That is a wonderful idea."
+
+"I need parts," Patrick said, looking at Mark. "We need to go to the mall."
+
+"Circuit Barn," Mark agreed. "They open at nine."
+
+Tom handed the paper back to his son. "Okay. While you boys do the engineering run, your mother and I need to figure out how to see Grandma Helen."
+
+"She's at the apartment on Pond Avenue," Mark said. "3C."
+
+"Exactly," Tom sighed. "Third floor. No elevator. Just that narrow winding staircase. There is no way we are carrying Nichole up three flights of spiral stairs. It’s not safe for her or us."
+
+"So we bring Grandma to us," Ellen suggested. "Is there a park nearby?"
+
+"Equity Park," Mark said. "It's right across from your old stomping grounds on Broadway."
+
+Tom smiled, a look of nostalgia crossing his face. "Dip & Sip," Tom said. "I spent two summers working the fryer there. Best glazed sticks in the state."
+
+"And the coffee is still like rocket fuel," Mark added. "There's a Heritage Farms right next door if you need to grab milk or snacks for the kids."
+
+"Perfect," Tom decided. "Mark, you take the team to Circuit Barn. Get the parts. Ellen and I will walk over to Pond Ave, pick up Mom, and walk her down to Broadway. We'll meet you at the Dip & Sip at... let's say 11:00?"
+
+"11:00," Mark confirmed. "Operation Blinker is a go."
+
+Patrick turned back to his drawing. He added a switch. Nichole stirred on the futon. She opened her eyes, blinking against the light. She saw Patrick at the desk. She saw the adults standing around him. She didn't know what was happening, but she saw Patrick smiling. She pulled the quilt up and smiled back. The Bennett Machine was already at work.
+

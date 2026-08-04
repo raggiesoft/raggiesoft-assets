@@ -1,0 +1,28 @@
+# Part 6: The Training Montage & The Sign (Early June 1999)
+
+The first few days with the new equipment were a strange mixture of exhilarating freedom and frustrating relearning. The new titanium wheelchair was so light and responsive that Alex kept oversteering. The new "Quantum Communicator XT," was a universe of new menus and features that felt both powerful and overwhelming.
+
+His primary training partner, as always, was Megan.
+
+Their training sessions became the main event of the early summer afternoons. They started in the quiet, controlled environment of the Miller house, practicing on his AAC until the new word prediction felt like an extension of his own thoughts. Their next training ground was the real world. They took the new chair to the mall, a perfect, chaotic obstacle course. Megan didn't just push him; she acted as his coach.
+
+"Okay, cuz," she'd say, "we're going to go from the food court to the comic book store. Non-stop. You're driving. Don't hit any old ladies."
+
+His first few attempts were a series of jerky starts and sudden stops. But with Megan walking beside him, offering quiet words of encouragement and laughing with him every time he nearly took out a mannequin, his confidence grew. By the end of the afternoon, he was zipping through the mall with a new, joyful grace.
+
+As Megan pulled her Holt sedan into the Miller driveway late that afternoon, a comfortable, triumphant silence filled the car. The training session had been a huge success. As she turned off the engine, her gaze drifted to the house next door, the one that had been empty for months.
+
+"Hey, look at that," she said, pointing.
+
+Alex followed her gaze. The familiar "For Sale" sign that had been a permanent fixture on the lawn all year now had a bright red banner slapped across it. In bold, white letters, it read: SOLD.
+
+They both stared at the sign for a long moment. New neighbors. The thought was a small, interesting ripple in the quiet pond of their summer.
+
+I WONDER IF THEY HAVE ANY KIDS, Alex typed on his communicator, his voice now sounding clearer and more confident than ever before.
+
+"Me too," Megan said, a thoughtful smile on her face. "Guess we'll find out soon enough."
+
+She hopped out of the car to help him with his chair. The sign next door was a simple, mundane detail, a minor change in the landscape of Lisa Court.
+
+
+

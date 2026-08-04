@@ -1,0 +1,70 @@
+# Part 4: Silver and Ownership
+
+The bell above the door chimed as the fortress entered the music store. It was the same shop where they had bought the saxophone and the xylophone years ago. The smell of brass polish and sheet music was familiar and comforting.
+
+Stella marched up to the counter, the battered black rental case in hand. She placed it on the glass with a decisive thud.
+
+"We're returning this," Stella told the clerk. "The rental period is up."
+
+"Okay," the clerk said, reaching for a clipboard. "Did she lose interest? It happens a lot with flute. It's harder than it looks."
+
+"No," Stella said, her voice firm. "She learned it. Now we want to buy one. Brand new. And not a student model."
+
+The clerk blinked, surprised. "Oh! Well, we have some excellent intermediate options. The Orpheus 300 series is great for high schoolers—"
+
+"I don't want intermediate," Stella cut him off gently but firmly. "I don't want to have to come back here in two years to upgrade her because she got too good for it. I want to buy *one* flute. I want the last flute she will ever need to own, even if she plays it for the rest of her life. Which one is that?"
+
+The clerk’s eyebrows shot up. He looked from Stella’s determined face to Luna’s hopeful one, realizing this wasn't a standard parent trying to save money. "Well... if you want a 'forever' instrument, we do have one. It's an **Orpheus 680**. Professional conservatory model. Solid sterling silver headjoint, body, and footjoint. French pointed key arms. It's... it's a serious investment, ma'am."
+
+"Let's see it," Stella said.
+
+The clerk unlocked a glass case behind the counter and retrieved a standard hard case. He set it on the velvet counter and popped the latches.
+
+The instrument inside didn't just shine; it glowed. It had a depth of luster that the rental flute couldn't touch. It looked less like a machine and more like jewelry.
+
+"Go ahead," Stella nodded to Luna.
+
+Luna assembled it carefully, her hands trembling slightly. The metal felt heavier, cooler, and more substantial. She raised it to her lips, set her embouchure, and played the opening phrase of **"Kaleidoscope Sun."**
+
+The sound that came out was shocking. It wasn't thin or airy. It was rich, dark, and velvety. It projected across the shop with a resonance that seemed to hang in the air.
+
+Leo’s eyes went wide. He tapped his **Quantum Communicator** immediately.
+
+"THAT IS THE SOUND. THE TRUE LIGHT."
+
+Luna lowered the flute, cradling it like it was made of glass. She looked at Stella, her eyes shining. "It's perfect."
+
+"We'll take it," Stella said instantly. "But I don't like that plastic case. Do you have something that will last?"
+
+The clerk, realizing he had a serious buyer, nodded quickly. "We have a cherry wood presentation case. It's hand-carved, velvet-lined." He paused. "We also offer a service to have the artist burn the musician's name into the lid. It takes a few days, but we can prepay for it now."
+
+"Add it," Stella said. "I want 'Luna Porter' burnt right into the wood. And I want a thermal-lined gig bag to carry it in, and your best deluxe cleaning kit. Silk swabs, not cotton."
+
+The clerk typed furiously into his computer. He cleared his throat, looking a bit nervous. "Ma'am... I just need to be clear about the pricing. The 680 lists for three thousand. With the custom case, the engraving service, the gig bag, and the deluxe kit, your subtotal is **\$3,400.00**."
+
+He tapped a key. "With the 4.5% Virginia tax, the grand total comes to **\$3,553.00**. We do offer financing plans, but—"
+
+"No financing," Stella interrupted, channeling the spirit of **Arthur Bennett**. She looked at the total on the register screen. **\$3,553.00**.
+
+"Can you hold it for twenty minutes?" Stella asked, grabbing her purse. "I'm going to the bank next door to get a cashier's check. I don't want to hit my daily debit limit."
+
+The clerk stared at her. "Uh... yes. Yes, of course. I'll put it in the back."
+
+"We'll be right back," Stella said.
+
+**Not even Twenty Minutes Later,** they walked back into the store. Stella handed the clerk a certified cashier's check for **\$3,553.00**.
+
+"Paid in full," she said. "Give her the cleaning kit and the bag now. We'll bring the wood case back for the engraving next week."
+
+Ten minutes later, they walked out to the **Holt Sentinel**. Luna sat in the front seat, the silver flute securely packed in its temporary case inside the new, heavy-duty gig bag on her lap.
+
+"It's mine," she said softly, still in disbelief. "It's really mine."
+
+"It's yours," Stella confirmed, starting the engine. The big V8 rumbled to life. "You put in the work, Luna. You earned the tool. We don't play on junk in this family."
+
+In the back seat, Leo smiled. He tapped a message, though he didn't play it out loud, just holding the screen up for Luna to see in the rearview mirror.
+
+"NOW WE CAN PRACTICE THE SIGNAL FOR REAL."
+
+Luna nodded, clutching the bag tight. The fortress had a new voice—a professional, solid silver voice—and this time, they owned it free and clear.
+

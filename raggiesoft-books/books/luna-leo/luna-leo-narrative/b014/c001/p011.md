@@ -1,0 +1,171 @@
+# Part 12: The Glass Wall
+
+## Spring 2007 8 Ocean View Lane - The Twin Wing Friday, 11:30 PM
+
+The house was quiet. The day had been good—classes, a successful M.U.L.E. test, and a dinner of clam cakes.
+
+Leo and Olivia were in their room. They had just finished the nightly routine—teeth brushed, pajamas on. They were in bed, settling into their usual position.
+
+Leo lay on his back. Olivia was on his left, reading a book.
+
+Leo looked at her. He felt a surge of overwhelming affection. She was his best friend. She was his protector. She wore his ring. In his heart, she was his wife.
+
+He reached out. He touched her arm.
+
+Usually, this was the signal for a cuddle. But tonight, Leo wanted more. His body was waking up. He was twenty-one years old.
+
+He moved his hand. He didn't stop at her shoulder. He traced the line of her collarbone. He leaned in, trying to kiss her—not on the cheek, but on the lips. He pressed his body against hers, making his intent clear.
+
+Olivia froze.
+
+She didn't recoil in disgust. She stopped breathing for a second, her heart breaking.
+
+She caught his hand gently but firmly. She pulled back just enough to look him in the eye.
+
+"Leo," she whispered. "Pause."
+
+Leo frowned. He looked confused. He looked at the ring on her finger.
+
+He reached for his Scribe on the nightstand.
+
+"WE ARE PARTNERS," he typed. "WE ARE MARRIED."
+
+"We are partners," Olivia agreed, her voice trembling. "But we aren't married. Not like that."
+
+"I WANT YOU," Leo typed. "I AM A MAN. YOU ARE MY WOMAN."
+
+Olivia closed her eyes. This was the moment she had dreaded. She sat up, turning on the lamp.
+
+"Leo, we need to talk to Stella," she said. "I can't explain this alone. Please."
+
+Leo looked at her face. He saw the sadness. He nodded.
+
+## 11:45 PM The Kitchen
+
+The house was silent. Stella was making tea.
+
+She saw them come in—Leo rolling in his manual chair, looking confused and hurt, and Olivia walking beside him, her face streaked with tears. Luna trailed behind them in her pajamas, drawn by the emotional disturbance in the Force.
+
+"Sit down," Stella said gently.
+
+She placed hot chocolate on the table.
+
+"Leo," Stella said, sitting opposite him. "Olivia tells me you wanted to... change the relationship tonight."
+
+Leo looked at the table. He felt a burning shame, but mostly confusion. His body was twenty-one. His hormones were firing. But his understanding of what to do with those feelings was scrambling.
+
+He tapped his Quantum Communicator.
+
+"I AM A MAN," he typed. "SHE IS MY WIFE. WE HAVE RINGS. WHY CAN'T I TOUCH HER?"
+
+Stella reached out and covered his hand.
+
+"Leo, look at me."
+
+She stood up and walked to the hallway wall. She took down the framed Court Order—the one signed by Judge Miller. She brought it to the table and laid it flat.
+
+She pointed to the legal language: Findings of Fact: Incapacity.
+
+"Do you remember what this paper does?" Stella asked.
+
+"IT PROTECTS ME," Leo typed instantly. "IT KEEPS DELORES AWAY."
+
+"Yes," Stella said. "It protects you because the Court says you cannot make legal decisions for yourself. You can't sign a contract. You can't sell the house. It stops bad people from tricking you."
+
+She looked him dead in the eye.
+
+"But it also stops us. Because under the law... Sex is a contract. It requires Consent. And this paper says you cannot give it."
+
+She pointed to Olivia.
+
+"Olivia isn't just your partner, Leo. She is your Guardian. If she sleeps with you... the State doesn't call it love. They call it Abuse. They call it Exploitation."
+
+Leo stared at the paper. A dark memory surfaced. The guest room in Kent. The weight of Delores on his chest. The way she didn't care that he was frozen in fear.
+
+"DELORES WANTED IT," Leo typed slowly, his hand shaking. "SHE TRIED."
+
+Stella went still. A cold, dangerous light entered her eyes. She looked at the screen.
+
+"She tried?" Stella whispered. "Did she touch you?"
+
+"ALMOST," Leo typed. "SHE STOPPED BECAUSE I WAS SCARED. BUT SHE WANTED TO USE ME."
+
+"Yes," Stella said, her voice hard as granite. "Delores was a predator. She wanted to use your body because she knew your mind couldn't stop her. She didn't care about the paper. She didn't care about you."
+
+She squeezed his hand, bringing him back to the present.
+
+"Look at Olivia, Leo."
+
+Leo looked up. Olivia was crying, her hand over her mouth.
+
+"Olivia stops herself," Stella said fiercely. "She wants to be close to you. But she stops because she respects you. She respects the paper. She respects your safety more than she wants your body. That is what love looks like."
+
+Leo processed the data.
+
+- Delores: Ignored the incapacity. (Predator).
+
+- Olivia: Obeys the incapacity. (Protector).
+
+The shame vanished. Olivia wasn't rejecting him; she was guarding him.
+
+"OLIVIA IS SAFE," Leo typed.
+
+"She is," Stella said. "But to keep her safe—to keep her out of jail—you have to stop at the line."
+
+Leo looked at Luna.
+
+"AND US?" he typed. "WE ARE THE SAME. NO GUARDIANSHIP CONFLICT."
+
+"But the paper still applies," Stella said, tapping the Incapacity line. "You are both twenty-one physically. But emotionally? In the way you process risk? You are younger. Imagine two fourteen-year-olds trying to navigate an adult relationship alone. It would be a disaster."
+
+She took a breath.
+
+"And there is the Biological Wall. Incest is illegal. If the State found out, they wouldn't just scold you. They would separate you permanently. They would put you in different facilities to stop it."
+
+Leo’s head snapped up. Separation.
+
+"NO," he typed rapidly. "LUNA STAYS."
+
+"Then the line stands," Stella said. "No sex. With anyone. Ever. That is the price of the Fortress."
+
+The Verdict
+
+"So," Stella said. "We need to define our terms."
+
+She held up one finger.
+
+"Definition A: Sleeping. Resting. Cuddling. The Pile. Deep Pressure Therapy. Lying stomach-to-stomach to stop the shaking."
+
+She looked at them. "Do you need that?"
+
+"YES," Leo and Luna nodded in unison.
+
+"That is legal," Stella promised. "That is Care. That is allowed. You never have to stop that."
+
+She held up a second finger.
+
+"Definition B: 'Sleeping With'. Sex. Intercourse."
+
+"That is forbidden," Stella said. "With Olivia. With Luna. With Me. The Fortress has to be a Platonic Zone. That is how we stay together."
+
+Leo looked at Olivia. He looked at Luna. He looked at Stella.
+
+He realized that his love for them was bigger than sex. His love was survival.
+
+"SYSTEM UPDATE," he typed. "DEFINITION A ONLY. NO SEX. ONLY LOVE."
+
+"Only love," Olivia whispered, reaching out to take his hand again.
+
+"Twin Unit," Luna agreed, leaning her head on his shoulder. "Just the pile."
+
+Stella stood up. She kissed Leo’s forehead.
+
+"You're safe, Leo. You don't have to grow up any faster than you are. We've got the adult stuff handled."
+
+"FORTRESS SECURE," Leo typed.
+
+"Fortress secure," Stella agreed. "Now, finish your chocolate. It's midnight. Who wants toast?"
+
+They ate in the quiet kitchen, four people bound by a love that didn't need sex to be real. They were safe in their truth: The paper that stopped the monster also defined the love.
+
+

@@ -1,0 +1,73 @@
+# Part 8: The Hand-Off
+
+The cafeteria was a roar of noise—three hundred freshmen shouting over the clatter of plastic trays and the smell of rectangular pizza.
+
+Mrs. Hatcher pushed the Titan AeroMotion through the double doors, scanning the crowd. She looked relieved to be done with her shift of direct responsibility. She spotted him near the vending machines.
+
+"There he is," she said, steering Nichole toward the corner table they had claimed since the first week.
+
+Patrick was already waiting. He had saved two seats by throwing his backpack on one and his jacket on the other. When he saw the purple chair approaching, he didn't wait for Mrs. Hatcher to park it. He stepped forward to meet them halfway.
+
+Mrs. Hatcher stopped. She knew the drill. The first week of school, she had tried to argue about "liability" and "student safety" when Patrick took the chair. But after the meeting with Principal Harrison—and the memo that was now stapled to the front of Nichole’s file—she simply let go of the handles.  
+
+"She's all yours," Mrs. Hatcher said, stepping back. "She was... quiet in English."
+
+Patrick didn't look at the aide. He looked at his sister.
+
+"Hey," Patrick said.
+
+Nichole didn't wait. She reached out, her arms fighting the gravity that always tried to pull them down, and grabbed the front of Patrick's t-shirt. She pulled him down toward her.
+
+Patrick dropped to one knee instantly. He let her wrap her arms around his neck, squeezing with a strength that belied her slender frame. It wasn't a polite greeting. It was a desperate re-coupling. She buried her face in his shoulder, inhaling the familiar scent of laundry detergent and home. She was washing away the smell of the English classroom, the ticking clock, and the fear of the purple mats.
+
+"I got you," Patrick murmured, patting her back rhythmically. "I'm right here. We're back together."
+
+He held her until he felt her grip loosen, just a fraction.
+
+"Hungry?" he asked, pulling back to look at her.
+
+Nichole adjusted her glasses, which had been knocked askew by the hug. She took a deep breath and nodded. She tapped her armrest. Pizza.
+
+"Let's roll."
+
+Patrick stood up and moved behind the chair. He gripped the black rubber push handles. The difference was instant. When Mrs. Hatcher pushed, she was tentative, jerking the chair at every crack in the linoleum. When Patrick pushed, he was fluid. He knew exactly how much force to use to pivot on a dime. He knew her center of gravity.  
+
+They approached the serving line. This was the obstacle course.
+
+The serving line was designed for standing students. The tray rails were too high for a seated person to reach comfortably, and the sneeze guards made it impossible for Nichole to grab a milk carton without awkwardly maneuvering her torso.
+
+The lunch ladies watched them come. They, too, had learned the Bennett routine.
+
+Patrick steered the Titan with one hand—his right hand gripping the center of the push bar for leverage—while his left hand grabbed a brown plastic tray.
+
+"Two pepperoni," Patrick said to the woman in the hairnet.
+
+He balanced the tray on the push handle of the wheelchair, using it like a makeshift table. He grabbed two milks—one chocolate, one white—and tossed them onto the tray.
+
+"Salad?" he asked Nichole, leaning down.
+
+Nichole made a face and shook her head. No.
+
+"Vegetables are good for you," Patrick teased, but he skipped the salad bowl.
+
+He navigated the tight turn at the cashier, spinning the chair on one wheel to avoid clipping the silverware bin. It was a dance they had perfected over years of navigating spaces not built for them.  
+
+"Hey, Patrick," a guy from his gym class nodded as they passed.
+
+"Sup, Mike," Patrick said, not breaking his stride.
+
+They reached their table. Patrick parked her, locking the brakes with a familiar click-click. He sat down next to her, sliding her tray onto the table and opening her milk carton before she even had to ask.  
+
+Mrs. Hatcher and the other aides were watching from the staff table across the room. They whispered, watching the boy do the job they were paid to do, but doing it with an ease they couldn't replicate.
+
+Nichole took a sip of her chocolate milk. She looked at Patrick, then at the noisy, chaotic cafeteria. She wasn't scared anymore. The noise was just noise. The crowd was just a crowd.
+
+As long as Patrick was driving, she was safe.
+
+She tapped her VocaLink.
+
+"BETTER."
+
+Patrick took a bite of his pizza and grinned. "Yeah. Much better."
+
+

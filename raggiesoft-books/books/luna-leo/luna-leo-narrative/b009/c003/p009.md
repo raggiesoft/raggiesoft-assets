@@ -1,0 +1,15 @@
+# Part 9: The Journey Continues
+
+The final morning in Washington, D.C. was one of smooth, practiced efficiency. The fortress four woke early, the excitement for the next leg of their journey a quiet, shared energy in the room. The suitcases, already packed by Stella the night before, stood ready by the door.
+
+They moved through their morning routines with a comfortable familiarity, a well-oiled team. With their bags packed and the room cleared, they checked out of The Statesman Hotel and made their way via the District Rail back to the grand, cavernous space of Union Station.
+
+"Okay, team," Stella announced, checking the large departure board. "Our train to Philadelphia doesn't leave until 8:50 AM, so we have plenty of time for a proper breakfast. Let's head down to the food court."
+
+They took the elevator down to the station's lower level, a bustling food court already humming with the energy of morning commuters and fellow travelers. They found a table, and Stella and Luna went off to gather a feast of breakfast sandwiches, fruit, and, most importantly, a large hot chocolate for Leo.
+
+The meal was a relaxed, happy affair. They ate and talked, their conversation filled with their favorite moments from the past few days—the awe of the Finch Museum of Air and Space, the quiet dignity of the Lincoln Memorial, and the delicious discovery of poutine and Montreal smoked meat.
+
+With their stomachs full and their spirits high, they made their way to the departure gate. A Red Cap assisted them with their luggage, leading them down the platform to the Business Class car of the ARTS *Northeast Regional*. They boarded the train, finding their familiar four-person table, and settled in for the next leg of their great adventure. The whistle blew, and with a gentle lurch, the train pulled out of the station, the grand dome of the Capitol Building sliding past their window as they journeyed north toward Philadelphia.
+
+

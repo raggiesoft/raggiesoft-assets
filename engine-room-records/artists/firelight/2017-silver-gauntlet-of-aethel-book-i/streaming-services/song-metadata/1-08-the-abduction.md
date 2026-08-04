@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 2017-11-21
 * **Real-World DSP Release Date:** 2026-04-24
-* **Generated On:** 07-18-2026 09:04:32 PM
+* **Generated On:** 07-19-2026 08:33:41 AM
 * **Master File Located At:** ../../vault/wav/1-08-the-abduction.wav
 
 ## Distribution & AI Disclosure Notes

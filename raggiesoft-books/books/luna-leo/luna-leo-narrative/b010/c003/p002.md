@@ -1,0 +1,16 @@
+# Part 2: The College Pickup (Friday Afternoon)
+
+The blue Holt Sentinel idled near the entrance of the community college campus in Norfolk that Friday afternoon. Stella gripped the steering wheel, her knuckles white for a moment before she forced herself to relax. Beside her in the back seat, Luna stared stonily out the window, headphones already clamped over her ears, emitting a faint tinny beat of some angry rock song. The original plan for a relaxed, siblings-only weekend felt like a distant memory, replaced by dread.
+
+Stella saw Leo wheeling himself out of the main doors, his backpack slung over the chair handles. His face lit up briefly when he saw the Sentinel, a welcome sight. But the relief quickly faded as Delores emerged right behind him, carrying her own overnight bag, practically attached to his side, her expression one of possessive determination.
+
+Stella got out, forcing a pleasant expression she didn't feel. "Hey, Leo! Ready for the weekend?"
+
+Before Leo could respond, Delores stepped forward, bypassing Stella completely as if she weren't there. "Hi, Stella. We're ready." She walked around to the front passenger door, opened it, and slid into the seat, claiming it as rightfully hers.
+
+Luna gasped audibly from the back seat, yanking off her headphones. "What--? Stella!"
+
+Stella shot Luna a warning look in the rearview mirror before turning back to the situation, biting back her own sharp retort. This was exactly the kind of possessive power play Delores had been escalating. Arguing about it now would only make things worse for Leo.
+
+"Right," Stella said tightly, forcing calmness. "Okay, Leo, looks like you and Luna get the back seat today."
+

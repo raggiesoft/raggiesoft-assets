@@ -1,0 +1,62 @@
+# Part 2: The Embouchure Struggle
+
+The living room was quiet. Leo was parked at the **MagnaByte** station, working on a history paper, the rhythmic *clack-clack-clack* of his keyboard providing a steady backbeat.
+
+Luna sat on the sofa, the assembled flute in her hands. She had the instruction book open to "Page 1: Forming the Embouchure."
+
+"Okay," she muttered to herself. "Roll out lower lip. Center aperture. Blow across the hole, like blowing over a soda bottle."
+
+She took a breath, set her mouth, and blew.
+
+Fffffffffffffffffft.
+
+Air. Just the sound of rushing air. No tone. No music. Just wind.
+
+Leo stopped typing. He turned his chair slightly to look at her.
+
+"Shut up," Luna said, though he hadn't said a word. "Mr. Thompson said it was hard."
+
+She adjusted the headjoint. She tightened her lips. She blew again.
+
+Whoooosh.
+
+"Ugh!" Luna lowered the flute, frustration bubbling up. On the sax, you just put the mouthpiece in and blew, and *HONK*, there was sound. This felt impossible. "It's broken. Or I'm broken. I can't do it."
+
+Leo watched her. He saw the tension in her shoulders. He remembered the day at the mall with the clothes—how making choices was hard, but the result was worth it. He tapped his **Quantum Communicator**.
+
+"TRY AGAIN. AIM DOWN."
+
+Luna glared at the shiny silver tube. "Aim down. Easy for you to say."
+
+She reset. She thought about the song—**"Kaleidoscope Sun."** She thought about the moment at **1:30** where the melody cut through the rock. It wasn't a loud sound; it was a focused one.
+
+Aim down, she thought. Focus the stream.
+
+She took a smaller breath this time. She relaxed the corners of her mouth just a fraction. She blew.
+
+Toooooooo.
+
+It was a small, breathy, slightly sharp B-flat. But it was a note. It was a clear, distinct, musical tone.
+
+Luna’s eyes went wide. She froze, afraid to move her mouth and lose the sweet spot. She blew again, sustaining it.
+
+Toooooooooooooo.
+
+Leo grinned. He typed quickly.
+
+"THERE IT IS. THE SIGNAL."
+
+Luna lowered the flute, a massive grin breaking across her face. "I got it. I actually got it."
+
+"KEEP GOING," Leo commanded via his device. "PLAY THE SONG."
+
+"I can play *one note*, Leo," Luna laughed. "The solo is going to take a while. Especially the part at 3:50. That part is insane."
+
+"WE HAVE TIME," Leo tapped.
+
+Luna looked at the flute in her hands. It wasn't just a rental instrument anymore. It was a challenge. And for the first time, she felt like she held the key to their secret language.
+
+"Yeah," she said, raising the instrument again. "We have time."
+
+She took a breath and tried to find the B-flat again, the first brick in the fortress of sound she was building for him.
+

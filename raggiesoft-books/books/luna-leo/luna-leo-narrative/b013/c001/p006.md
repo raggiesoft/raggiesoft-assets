@@ -1,0 +1,96 @@
+# Part 6: The Northward Compass
+
+November 24, 2005 (Thanksgiving Day) 1091 Daniel Maloney Drive
+
+The small house in Virginia Beach smelled of sage, roasted turkey, and the specific, sweet scent of Eleanor Bennett’s sweet potato casserole.
+
+The "Fortress" was hosting this year. It was a rite of passage. Stella and Olivia moved around the kitchen with a synchronized efficiency that spoke of years of partnership. Luna was setting the table, ensuring every fork was perfectly aligned. Leo was parked at the end of the table, acting as the DJ, controlling the stereo via his **Quantum Communicator**.
+
+The playlist was a soft mix of **Greensleeve** and acoustic jazz.
+
+The front door opened, and the guests of honor arrived.
+
+Arthur and Eleanor Bennett stepped in out of the cool November afternoon. Arthur looked dapper in a wool cardigan, and Eleanor carried a covered pie dish as if it contained the crown jewels.
+
+"Something smells wonderful," Eleanor declared, kissing Stella on the cheek. "And I don't think it's the turkey. I think it's competence."
+
+"We learned from the best," Stella smiled, taking the pie. "Pumpkin?"
+
+"Apple-Cranberry," Eleanor corrected. "New England style. None of that southern pecan nonsense today."
+
+They settled around the table. The **2001 Holt Sentinel** sat in the driveway outside, visible through the window—the steel chariot Arthur had helped them buy five years ago.
+
+The meal was cheerful. They talked about classes at CCHR, about Olivia’s sociology paper, and about the recent winning streak of the **Boston Beacons**.
+
+But as the plates were cleared and the pie was served, the air shifted. It was time.
+
+Stella tapped her spoon gently against her glass.
+
+"We have an announcement," Stella said.
+
+Arthur put down his fork, his eyes twinkling. "You finally bought a minivan?"
+
+"Not yet, Grandpa," Stella laughed. "Better. We have a plan for next year. For after graduation."
+
+She looked at the twins. "Go ahead."
+
+Luna sat up straighter. "We went to the Transfer Fair last month. We looked at VDU and CPI. But... they didn't fit."
+
+"VDU is too close," Olivia added. "And CPI is too hilly."
+
+"So," Luna continued, "we looked further. And we found a school that wants us. Both of us."
+
+Leo tapped his screen. The synthesized voice cut through the room, clear and proud.
+
+"BRAXTON STATE UNIVERSITY."
+
+Arthur’s eyebrows shot up. "Braxton? Up in New England? That's... that's home territory."
+
+"It is," Stella said. "It's on the coast. It's flat. And Grandpa... the infrastructure is incredible. They have a train system that makes D.C. look like a toy set."
+
+"THE TRAIN GOES TO THE CLASSROOM," Leo typed, his eyes shining. "LEVEL BOARDING. NO RAMPS NEEDED."
+
+"And the Conservatory," Luna burst out, unable to hold it back. "The Dean of Music emailed me. She heard the recording of *Syrinx* on the Orpheus flute. She wants me to audition for Principal Chair. As a freshman."
+
+Eleanor gasped, clapping her hands together. "Principal Chair? Oh, Luna, that's magnificent! Your mother... well, she wouldn't have understood, but I do. That is a serious honor."
+
+"It is," Luna beamed.
+
+"So," Stella concluded, "we're going up for a recon mission. We're spending Winter Break in Braxton City. We need to see the campus, ride the trains, and... look for land."
+
+"Land?" Arthur asked, his business brain engaging.
+
+"We're going to build," Stella said firmly. "We're selling this place. With the market the way it is, we'll make a profit. We're going to take that, plus the trust allocation, and build a house in the suburbs that actually works for us. No retrofitting. Built from scratch."
+
+Arthur leaned back in his chair. He looked at his four grandchildren. He saw Stella, the protector. Olivia, the partner. Luna, the artist. And Leo, the architect of his own future.
+
+He didn't look sad that they were leaving. He looked relieved.
+
+"New England," Arthur mused. "Real winters. You'll need snow tires for the Sentinel. Good ones. Blizzaks."
+
+"Already on the list," Stella promised.
+
+"And you'll need coats," Eleanor added. "Real wool. Not these windbreakers you wear down here."
+
+"We'll get them," Olivia said.
+
+Arthur looked at Leo. "And the engineering program? It's good?"
+
+Leo pulled up a photo on his mounted screen. It was the picture of **Dr. Aris** holding the balsa wood bridge.
+
+"THE DEAN IS A BUILDER," Leo typed. "HE RESPECTS THE LOAD."
+
+Arthur chuckled, a deep, warm sound. "He respects the load. I like that. Well, Stella... it sounds like you've done your homework. As usual."
+
+He reached across the table and took Eleanor’s hand.
+
+"We came South a long time ago," Arthur said softy. "Maybe it's time for the Porters to go back North. It's good country. Hard country, sometimes. But good."
+
+"We're ready," Stella said.
+
+"I know you are," Arthur said, raising his coffee mug. "To Braxton. And to the Bulls."
+
+"To the Bulls," the family echoed.
+
+Outside, the wind rattled the siding of the little house on Daniel Maloney Drive. It was a safe house, a good house. But as they ate their apple-cranberry pie, they all knew it was temporary. The compass had swung North, and they were ready to follow it.
+

@@ -1,0 +1,29 @@
+# Part 21: The Comfort of Home
+
+The Réveillon at Arthur and Eleanor's house was a resounding success, a beautiful and boisterous celebration that officially and joyfully merged two families. As they all returned to the luxurious fortress suite at The Atlantic Grand Hotel, a sense of happy, contented exhaustion settled over everyone. The Canadian family marveled again at the opulence of their rooms, ready to fall into their comfortable beds.
+
+But as Stella, Luna, and Olivia got ready for bed in their own wing, they noticed Leo was unusually quiet. He sat in his wheelchair, looking around the magnificent room—the grand furniture, the stunning ocean view, the impossibly large Alaska King bed—but his expression wasn't one of contentment. It was one of longing.
+
+Olivia, ever attuned to him, knelt by his side. "Hey, *mon chum*," she whispered. "You okay? You seem a million miles away."
+
+Leo looked at her, then picked up his Scribe, his fingers moving slowly but with a clear purpose.
+
+"I AM SO GRATEFUL," he typed. "THIS IS THE NICEST PLACE EVER. BUT... IT'S NOT HOME. I WANT TO GO HOME. I WANT TO SLEEP IN OUR BED. IN OUR ROOM."
+
+The request was so simple, so pure. He had enjoyed the luxury, the pampering, the grand vacation his grandparents had gifted him. But after the trauma of being ripped from his safe world, what he craved more than anything was the deep, grounding comfort of the familiar. He wanted to be in the sanctuary he and Olivia had built together, the room with the deep blue walls they had painted themselves.
+
+Olivia read the message and didn't hesitate for a second. She happily supported the decision, understanding it completely. "Okay," she said softly, squeezing his hand. "Let's go home."
+
+She looked up at Stella and Luna, who had both read the message over her shoulder. They nodded in immediate, unanimous agreement.
+
+"Of course," Stella said, already starting to gather their few overnight things. "If you want to go home, we go home."
+
+There was no argument, no questioning. They understood. The pampering had served its purpose—it had helped him heal. But the final step of that healing was returning to the place that was truly his.
+
+A short time later, the four of them slipped quietly out of the grand hotel and made the short drive back to their own quiet house on Daniel Maloney Drive.
+
+An hour later, Leo was finally where he wanted to be. He was in his own bed—the one he and Olivia had picked out together—under the deep blue comforter that matched the walls they had painted. Olivia was a warm, steady presence beside him, her arm wrapped protectively around him.
+
+He was no longer a guest in a five-star hotel. He was the king in his own castle, co-ruler of a sanctuary built just for him. The sounds and smells were familiar, the bed was theirs, and he felt a profound sense of security settle deep into his bones. The luxury had been wonderful, but this? This was home. And it was perfect.
+
+

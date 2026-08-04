@@ -1,0 +1,113 @@
+# Part 3: The Reunion
+
+## Friday, November 14, 2008 — 15:00 PM 105 Pepper Street SE
+
+The silver Avalon pulled into the driveway.
+
+The house looked exactly the same. The white siding. The green grass. The ramp.
+
+"Home," Harper breathed.
+
+They unloaded. Harper rolled up the ramp faster than she had ever moved. Jessica unlocked the door.
+
+Inside, the living room was waiting.
+
+Sarah and Jenna (now 19) were sitting on the floor, surrounded by textbooks. They were sophomores at Radford University now, commuting from the Base.
+
+"Survivor returns!" Jenna cheered, jumping up.
+
+"Status?" Sarah asked, adjusting her glasses.
+
+"Traumatized," Harper announced, rolling into the center of the room. "People are crazy. I require immediate stabilization."
+
+"We have pizza coming," Jenna said. "And we rented a movie. A quiet one."
+
+"Where's Linda?" Harper asked.
+
+"She's picking up the twins from school," Jessica said. "She'll bring them over for dinner, then take you all back to Radford tonight."
+
+Harper’s face fell. The relief vanished, replaced by a heavy, sinking weight.
+
+"Back to Radford," she repeated.
+
+She looked at the basement door. She looked at the TFL lift. She looked at the sofa where Freddie was transferring from his wheelchair to his "Docking Station."
+
+"I don't want to go back," Harper whispered.
+
+She rolled over to the sofa. Freddie was settling in. He patted the cushion next to him.
+
+Harper climbed out of her chair. She didn't sit next to him; she climbed onto him. She was sixteen, tall and lanky, but she curled up on his lap like she was five. She buried her face in his neck.
+
+"Freddie," she whispered. "Let me stay. Please. I can sleep on the floor. I can sleep in the bathtub. I don't care."
+
+Freddie wrapped his arms around her. He felt the tension in her frame.
+
+"You want to transfer residency," Freddie noted.
+
+"I hate the apartment," Harper cried softly. "I mean... Aunt Linda is great. She tries. But it's not here. It's not the Unit. I feel like... like a satellite that's drifting too far away. And after Travis... I just want to be where the walls are thick."
+
+She tightened her grip on his shirt.
+
+"I'm sixteen. I can drop out of high school. I can get a GED. I can move in."
+
+Jessica sat down on the coffee table. She looked at Harper with sad, serious eyes.
+
+"Harper," Jessica said. "We want you here. You know that. The Mega-Bed has a spot with your name on it."
+
+"Then let me stay!"
+
+"We can't," Jessica said. "Not yet."
+
+"Why?" Harper demanded, pulling back to look at them. "Mom isn't even looking anymore! She doesn't care!"
+
+"Because of the law," Sarah said from the floor. "Custody is a legal framework. Aunt Linda has guardianship. If you move in here... if you technically 'run away' to live with your adult siblings... Ellen could sue. She could claim Linda is unfit. She could try to take Amanda and Elara back."
+
+Harper froze.
+
+"She could take the twins?"
+
+"She could try," Jessica said. "She could say Linda lost control of the household. We can't risk the twins, Harper. They need Linda. They need the stability of that apartment until they're old enough to choose."
+
+Harper slumped against Freddie. The logic was ironclad.
+
+"So I have to wait," Harper whispered.
+
+"Two years," Freddie said. He held her tight. "730 days."
+
+"It feels like forever," Harper sniffled.
+
+"It is a finite set," Freddie corrected. "We can count it down."
+
+He pointed to the wall. There, next to the TV, Jenna had installed a digital countdown clock she had built from an LED kit.
+
+DAYS UNTIL ORBITAL MERGE: 712
+
+"We are counting," Freddie said. "Every day, the number gets smaller."
+
+Harper looked at the red numbers.
+
+"Two years," she repeated.
+
+"And until then," Paige said, sitting next to them and rubbing Harper's back. "You have weekends. You have holidays. You have summers."
+
+"And you have the bus," Freddie reminded her. "The Free Ride."
+
+Harper nodded slowly. She wiped her eyes.
+
+"Okay," she said. "I can do two years. But I'm staying tonight. Aunt Linda said I could have a sleepover."
+
+"Affirmative," Freddie said. "The Mega-Bed is prepped."
+
+"And no fighting over the remote?" Harper asked, looking at Jenna.
+
+"I hereby grant you remote control privileges for the duration of the weekend," Jenna solemnly vowed.
+
+Harper smiled. She leaned back against Freddie, listening to his heartbeat.
+
+"No drama," Harper whispered. "Just us."
+
+"Just us," Freddie agreed.
+
+The Base was secure. The Satellite was docked. And outside, the world could be as loud and chaotic as it wanted, because inside 105 Pepper Street, the volume was always perfect.
+
+

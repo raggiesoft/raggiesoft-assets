@@ -1,0 +1,32 @@
+# Part 8: The Journey Home
+
+The last hour of Chloé's shift passed in a blur of routine tasks. But through it all, she was acutely aware of Alex's presence, a quiet sentinel at his table in the main reading area. Finally, the large clock on the library wall ticked over to seven o'clock. Her shift was over.
+
+She gathered her things and walked over to Alex's table. "Ready to go home?" she asked softly.
+
+He gave a single, firm nod. YES, his device voiced, the word simple and full of a deep, weary longing. HOME.
+
+Chloé gently took the handles of his wheelchair, her touch a familiar, comforting weight. It was an unspoken agreement, an act of care that he accepted without question. Tonight, he didn't need to be independent; he needed to be taken care of.
+
+The short walk across Buckner Boulevard to their apartment complex felt like the final leg of an exhausting marathon. When Chloé unlocked the door, the first thing they saw was Megan, who looked up from her laptop at the kitchen table, a welcoming smile on her face. Her smile faltered the moment she saw Alex.
+
+She took in his pale face, the bruised, haunted look in his eyes, the almost imperceptible tremor in his hands. She knew that look. It was the quiet, exhausted aftermath of an autistic meltdown. She didn't need an explanation.
+
+"Okay," Megan said, her voice immediately shifting into a calm, practical, and deeply caring tone. She stood up, closing her laptop. "Chloé, you get him settled on the sofa. I'm making dinner tonight."
+
+Chloé looked at her, a wave of profound gratitude washing over her. She nodded, her own focus narrowing to Alex's immediate need for comfort. She wheeled him into the living room and helped him transfer to the sofa.
+
+Megan went to work in the kitchen. She didn't ask what he wanted; she already knew his ultimate comfort meal. A few minutes later, the familiar, comforting scent of butter melting in a hot pan and ham sizzling filled the small apartment.
+
+She soon emerged from the kitchen carrying three plates. On each was a perfectly golden-brown grilled ham and cheese sandwich, served with a side of crispy potato chips and a tall glass of ice-cold milk. She handed one plate to Chloé, then turned to Alex.
+
+MEGAN, his Quantum Communicator XT voiced softly from its stand near the sofa. SIT WITH US. PLEASE.
+
+"Of course, cuz," she said, her voice full of a deep, unwavering love.
+
+She placed their plates on trays and then settled onto the sofa on Alex's other side. He was now flanked, a perfect, protective cocoon. They ate their simple, comforting meal in a shared, peaceful silence.
+
+When they were done, Alex, utterly spent, leaned his head against Chloé's shoulder. She immediately wrapped her arm around him, pulling him close. At the same time, he leaned back into Megan, who mirrored the gesture, her own arm coming to rest around his back, her hand a steady, grounding presence.
+
+He was surrounded. Held. Protected. As he listened to the familiar, comforting sounds of them eating and the low murmur of the television, he closed his eyes. He was safe. He was home. And he was held by a fortress of love so powerful that no ghost from his past could ever truly break through.
+

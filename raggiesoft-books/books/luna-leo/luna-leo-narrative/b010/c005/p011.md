@@ -1,0 +1,46 @@
+# Part 11: Restoring Dignity
+
+With the bag of new, warm clothes in hand, Olivia guided Leo to the nearest family restroom. The click of the lock behind them was the sound of another small sanctuary secured.
+
+"Okay," she said softly. "Let's get you out of these wet things."
+
+With gentle, efficient movements, she helped him change out of his soaked, filthy sweatshirt and jeans and into the new, dry clothes. The physical relief for Leo was immediate and profound. He let out a long, shuddering sigh, the tension in his shivering shoulders finally beginning to ease. He felt clean. He felt warm. He felt human again.
+
+As he sat comfortably in his chair, Olivia realized with a pressing urgency that she needed to use the toilet herself. The thought of leaving him alone, even for a moment, didn't even cross her mind. After what he'd been through, abandoning him was not an option under any circumstance; his need for comfort and security would override EVERYTHING.
+
+She knelt beside his chair so they were at eye level, her voice soft and full of respect. "Leo, I need to use the toilet, too. I am not going to leave this room. Is it okay with you if I use it while you're here?"
+
+Leo looked at her, his eyes filled with a mixture of his lingering fear and a deep gratitude for her understanding. She wasn't just telling him; she was asking. He nodded, then reached for her phone. With slow, deliberate taps on the T9 keypad, he wrote his reply: "SCARED TO BE ALONE. BUT I UNDERSTAND. YES. OKAY. THANK YOU FOR STAYING."
+
+"Thank you, Leo," she whispered. Prioritizing his security over her own privacy, she used the toilet. It wasn't awkward; it was an act of mutual trust and profound care.
+
+Now that he had a substantial meal and fluids in his system, it wasn't long before Leo indicated that he needed to use the toilet again. Olivia helped him without a second thought. With all of his most immediate needs met, the panicked, desperate edge to his exhaustion began to soften into a simple, bone-deep weariness.
+
+Olivia's first instinct after getting Leo changed into these fresh clothes was to get her bearings. She spotted a large departure monitor and guided Leo towards it, her eyes scanning the list of flights. She found it: "Gateway 1138 to MDW... On Time... 1:10 PM... Gate B12."
+
+She glanced at her watch. It was just shy of 8:00 AM. Five hours. They had five long hours to wait. She looked down the concourse in the direction of the B gates. Even from a distance, the area was a chaotic swarm of holiday travelers.
+
+"Okay," she said softly, more to herself than to Leo, her voice a mixture of exhaustion and resolve. "Five hours. We are not spending five hours in *that*."
+
+Instead of heading towards their bustling departure gate, she turned them in the opposite direction, searching. Near the end of the terminal, she found what she was looking for: a gate for a later flight that was currently empty and quiet. A row of deserted chairs faced a large window overlooking the tarmac.
+
+"Here," she said softly. "This is better. A quiet place to land for a while."
+
+Leo looked at the empty chairs, then at her, a look of profound gratitude in his eyes. He carefully transferred himself from his wheelchair into one of the gate chairs. The moment he was seated, a wave of sheer, bone-deep exhaustion washed over him. He slumped against the back of the chair, his body trembling slightly.
+
+Olivia sat down beside him, placing their bags at her feet. She didn't say anything. She just opened her arm, a silent invitation.
+
+He didn't hesitate. He leaned heavily against her, his head finding the natural, comforting space on her shoulder. She immediately wrapped her arm around him, pulling him close in a firm, protective, and completely grounding hug. It wasn't a romantic gesture; it was the act of a guardian creating a fortress. As he settled against her, she leaned her head against his, whispering softly into his hair, "I love you, Leo. You're safe now. I'm taking you all the way home."
+
+He closed his eyes, and for the first time since Delores had hurled his voice to the floor, he felt safe enough to let his guard down. He couldn't speak, he couldn't type, but he didn't need to. A single, hot tear of pure relief escaped his closed eye, and the faintest, most fragile of smiles touched his lips. Olivia felt the slight shift, saw the tear trace a path by his temple, and understood his silent reply as clearly as if he had voiced it: *I love you too.*
+
+The echoing announcements of the airport faded into a distant hum. All he could feel was the steady rise and fall of Olivia’s breathing, the secure pressure of her arm around his shoulders, and the simple, profound peace of being held by his best friend. He drifted into a light, shallow, and fitful doze against her shoulder, his body too exhausted and his mind too hyper-vigilant to find true sleep in the bustling airport.
+
+After a short while, he stirred, lifting his head. The immediate need for rest had been replaced by a need for a quiet distraction. He gently tapped Olivia's arm, then pointed out the large window.
+
+Olivia understood instantly. "You want to watch the planes?" she asked softly.
+
+He gave a small, grateful nod. She helped him transfer back to his wheelchair and repositioned it, so it was directly facing the window, a panoramic view of the active runways before him. She sat beside him again, her presence a quiet, comforting constant.
+
+They sat there for a long time, not speaking, just watching the complex, powerful ballet of the airport. They watched the ground crews, the baggage carts zipping by, and the massive passenger jets gracefully taking off and landing. For Leo, it was a perfect, soothing activity—a world of complex systems, of predictable departures and arrivals. Each plane that took off, heading east, was a quiet, hopeful symbol of his own journey home.
+

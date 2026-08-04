@@ -1,0 +1,180 @@
+# Part 3: The Quiet Room
+
+## Wednesday, July 23, 2003 09:45 AM
+
+The morning of the Midterm Exam did not begin with panic. It began with logistics.
+
+The Avery Unit stood at the crossroads of the Drillfield, a paved hub where the paths to different academic buildings diverged. To the left lay Archer Hall, where the main body of HPE 204 would assemble to take their test in the standard, fluorescent-lit classroom.
+
+To the right lay Henderson Hall, the home of Services for Students with Disabilities (SSD).
+
+"Operational check," Jessica announced, adjusting her backpack. She looked at Freddie. "You have your implements?"
+
+Freddie patted his pocket. "Two Titan Graphite No. 2 pencils. One polymer eraser. One bottle of water, label removed per testing center protocol."
+
+"And the data?" Paige asked, smoothing the collar of his grey t-shirt.
+
+"The database is indexed," Freddie tapped his temple. "Anatomy. Physiology. The endocrine system. The variables are locked."
+
+"Good," Jessica said. She checked her watch. "Our exam starts at 10:00. Yours starts at 10:00, but you have the 'Double Time' modification. That gives you until 12:00. We will be done by 11:00."
+
+"Rendezvous point?" Freddie asked.
+
+"The bench outside Henderson," Paige said. "We'll come to you. Don't move. Just wait."
+
+"Understood," Freddie said. He looked at the split in the path.
+
+Usually, separation induced a spike in his cortisol levels. The idea of entering a building without his flank guards was a "High Risk" scenario. But today felt different. He wasn't going into a chaotic lecture hall filled with whispering students and unpredictable social variables.
+
+He was going to the Quiet Room.
+
+"Go get 'em, Captain," Paige smiled, squeezing his hand one last time before letting go. "Show them you know the schematics."
+
+"Affirmative," Freddie said.
+
+He turned and walked toward Henderson Hall. He didn't look back. He focused on his gait—heel, toe, heel, toe—keeping his rhythm steady.
+
+## 10:00 AM The Testing Center
+
+The SSD Testing Center was a sanctuary of silence. The floor was carpeted in a thick, sound-absorbing weave. The walls were painted a soothing, neutral beige.
+
+Freddie walked to the front desk. The receptionist—the same woman who had helped him with the intake forms—smiled.
+
+"Good morning, Freddie," she whispered. "You're in Carrel 4 today."
+
+She handed him the exam packet. It was sealed in a large manila envelope.
+
+Freddie walked to Carrel 4. It was a high-walled cubicle, creating a visual "blinder" effect that blocked out the rest of the room. Inside, there was a simple desk, a comfortable chair, and a white noise machine set to "Low Fan."
+
+He sat down. He arranged his pencils. He took a sip of water.
+
+He broke the seal on the envelope.
+
+He pulled out the exam. HPE 204: MIDTERM EXAMINATION.
+
+He looked at the clock on the wall. 10:00 AM. He had two hours. The pressure valve in his chest released. Without the ticking clock of a standard 50-minute period, the anxiety of "running out of time" vanished.
+
+He turned to Page 1.
+
+*Question 1: Define the function of the Epididymis.*
+
+Freddie smiled. The data appeared in his mind like a pop-up window in an operating system. *Storage and maturation vessel for sperm cells. Located on the posterior surface of the testes.*
+
+He filled in the bubble on the Opti-Scan sheet. The graphite moved smoothly.
+
+He moved through the multiple-choice section with mechanical precision. He didn't second-guess. He didn't get distracted by the sound of someone else coughing (because in the Quiet Room, no one coughed, or if they did, the white noise machine ate the sound).
+
+Then, he reached Page 5. The Diagrams.
+
+There were two large, black-and-white line drawings. Cross-sections.
+
+*Figure A: Female Reproductive System (Lateral View).* *Figure B: Male Reproductive System (Lateral View).*
+
+The instructions were simple: *Label structures 1 through 10.*
+
+Freddie looked at Figure A.
+
+To a standard student, this was just a drawing in a book. It was abstract lines and shapes.
+
+But Freddie had the "Source Code."
+
+He closed his eyes for a microsecond. He accessed the memory file from Monday afternoon—the "Verification Session" in the living room.
+
+He didn't see anything salacious. He didn't see "pornography." He saw the clinical reality. He remembered Jessica sitting on the coffee table, the textbook open, pointing to her own anatomy to clarify the difference between the *urethra* and the *introitus* because the diagram in the book was confusingly drawn.
+
+He remembered Paige explaining the angle of the *uterus* based on where she felt cramps.
+
+The mystery was gone. The shame was gone. It was just hardware.
+
+He looked back at the paper. Structure \#3 pointed to the muscular wall of the uterus.
+
+*Myometrium,* Freddie wrote in neat, block letters.
+
+Structure \#7 pointed to the external fold of skin protecting the vestibule.
+
+*Labia Majora,* he wrote.
+
+He moved to Figure B. Again, the memory file opened. He recalled the discussion about the *vas deferens* and how it routed around the bladder—a piece of biological plumbing that Freddie had found inefficient but fascinating during their study session.
+
+He labeled the *Prostate Gland*. He labeled the *Seminal Vesicle*.
+
+He finished the diagrams in four minutes.
+
+He sat back in his chair. He was only forty-five minutes into a two-hour block.
+
+He checked his work. Every bubble was dark. Every label was legible.
+
+He felt a surge of pride. Not just because he knew the answers, but because he was sitting in a room by himself, handling the subject matter without a single tremor of embarrassment.
+
+The "Robert Virus"—the voice that told him bodies were dirty and he was broken—was silent. It couldn't survive in this environment of pure data.
+
+Freddie Avery stood up. He walked to the front desk.
+
+"Finished?" the receptionist whispered, looking surprised.
+
+"Output complete," Freddie confirmed. "Time elapsed: 52 minutes."
+
+He handed over the packet. He walked out of the quiet building into the heat of the July morning, feeling lighter than air.
+
+## 11:00 AM The Reunion
+
+Freddie sat on the wooden bench outside Henderson Hall. He had his orange hoodie draped over his lap (too hot to wear, but necessary to have nearby).
+
+He watched the stream of students pouring out of Archer Hall across the Drillfield.
+
+He spotted them immediately.
+
+Jessica was walking with a long, confident stride, her backpack slung over one shoulder. Paige was right beside her, matching her pace.
+
+They saw him on the bench. Paige waved, a big, sweeping motion.
+
+They closed the distance.
+
+"You're out early!" Paige said, dropping her bag on the grass and sitting next to him. "How was it?"
+
+"The environment was optimal," Freddie reported. "White noise. Visual barriers. Zero friction."
+
+"And the test?" Jessica asked, sitting on his other side.
+
+"I decimated it," Freddie stated flatly.
+
+Jessica laughed, high-fiving him. "That’s what I like to hear. The diagrams?"
+
+"Labeled," Freddie said. "The reference data... proved useful. The textbook illustrations regarding the *fimbriae* are spatially misleading, but I corrected for the distortion based on our review."
+
+"Good," Paige smiled, leaning her head on his shoulder. "We crushed it too. I think I missed one on the hormone cycle, but the rest was easy."
+
+"So," Jessica stood up, dusting off her jeans. "Midterm: Conquered. That means the 'Study Block' is officially lifted."
+
+She looked at her siblings.
+
+"We have the rest of the day. We have mobility. We have a car. What is the celebration protocol?"
+
+Freddie thought about it. He ran the options.
+
+- *Option A:* Go home. Safe, but routine.
+
+- *Option B:* The Mall. Loud, chaotic.
+
+- *Option C:* Something new. Something they hadn't done yet because they were too busy surviving.
+
+He looked at the sky. It was blue, clear, and vast.
+
+"I require... elevation," Freddie said.
+
+"Elevation?" Paige asked.
+
+"We are in the mountains," Freddie observed. "But we have remained at street level. I want to see the grid from above."
+
+Jessica grinned. "I know a spot. It’s called Wind Rock. It’s a bit of a hike—about a mile—but the trail is wide. It’s on the Appalachian Trail."
+
+She looked at Freddie’s legs. "It’s uneven terrain. Roots. Rocks. Can you handle the input?"
+
+Freddie looked at his sisters. He felt the phantom weight of Paige’s arm around his waist, the solid presence of Jessica on his left.
+
+He thought about the "Machine" of the football team, the "Engine" of the wheelchair singer.
+
+"If I stumble," Freddie said, "the Unit will stabilize."
+
+"Damn straight," Jessica said. "To the Avalon. We’re going to the top of the world."
+

@@ -1,0 +1,10 @@
+# Part 1: Gearing Up
+
+The rest of the week was a happy, domestic blur of preparation. On Thursday, they made a trip to the CCHR bookstore, a place that had felt intimidating and lonely to Alex just a few months ago. This time, they weren't alone. Megan, having officially moved into the Miller's guest room for the semester, came with them, a cheerful and essential extra set of hands.
+
+The air in the bookstore smelled of new paper and fresh ink. The three of them moved through the aisles as a seamless team. Chloé read from their shared class list, Megan navigated the tall stacks to pull down the heavy, expensive textbooks, and Alex, the designated cart driver, expertly maneuvered his wheelchair through the narrow aisles, his lap piling high with books. The quiet laughter of the three of them echoed in the near-empty store. Alex felt a thrill of pure, uncomplicated excitement, a feeling he hadn't associated with school since before Vera.
+
+They spent Friday afternoon in Alex's room, organizing their new school supplies. They labeled matching binders, packed their backpacks, and compared notes on which professors were rumored to be the toughest, with Megan offering her "veteran" advice from her time at VDU. It was a familiar high school ritual, but now it was imbued with the weight and freedom of their new adult lives.
+
+The contrast to the start of the Fall semester was profound. Then, he had been alone, terrified, and walking into a trap. Now, he was flanked by his best friend, his wife, his partner—and his favorite cousin, his staunchest ally. He felt like he could face anything.
+

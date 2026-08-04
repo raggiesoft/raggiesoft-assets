@@ -1,0 +1,31 @@
+# Part 10: The Point of No Return
+
+The week after Geneviève's triumphant report was a flurry of logistical activity. The mission: to turn the plan into a series of non-refundable confirmations. The Lynnwood apartment was once again a command center, but this time, the energy was one of joyful, irreversible momentum.
+
+It all started with the venue. On a Tuesday evening, the three of them gathered around the laptop for a video call with Aunt Geneviève and a representative from Le Manoir Hovey. After a final walkthrough of the accessibility features via webcam, Chloé took a deep, steadying breath. "It's perfect," she said, looking at Alex and Megan. "Should we do it?"
+
+YES, Alex's device voiced, a note of profound, happy certainty in its tone.
+
+"A thousand times, yes," Megan added, grinning.
+
+With a click of a mouse and the entry of a credit card number provided by their parents, the deposit was paid. The venue was booked. It was happening.
+
+The next phase was a massive, coordinated, cross-border travel-planning operation. While the Leclercs handled booking a block of hotel rooms at a charming inn in nearby North Hatley for all the out-of-town guests, "Team USA" tackled the flights.
+
+In their Lynnwood office, Megan, a master of travel websites, took the lead. "Okay," she announced, "I've found a good block of seats on a direct Gateway Airlines flight from Norfolk (ORF) to Montréal (YUL) for the Thursday before the wedding. It gets everyone in with plenty of time."
+
+The screen was filled with a complex seating chart. WE NEED TO MAKE SURE GRANDMA AND GRANDPA ARE IN AN AISLE SEAT, Alex typed, his mind already working through the accessibility logistics for his grandparents.
+
+"Already on it," Megan confirmed, her fingers flying across the keyboard. "And I've booked three rental minivans to be picked up at Trudeau. That should be enough to shuttle the entire Carter-Miller circus into the Eastern Townships."
+
+They worked for hours, a perfect, efficient team. They booked flights for the Millers and the Carters. They coordinated arrival times with the Leclercs. They sent out a mass email with hotel information and travel details to all their American friends and family.
+
+By the end of the evening, the core components of their wedding were no longer just ideas; they were confirmed reservations, ticketed flights, and paid deposits. They leaned back in their chairs, a profound sense of accomplishment washing over them.
+
+"Wow," Chloé breathed, looking at the spreadsheet of names and flight numbers. "This is really happening."
+
+Megan reached over and squeezed her shoulder. "It's really happening."
+
+The last summer in Virginia felt like a lifetime ago. They weren't just a group of kids dreaming of the future anymore. They were three capable, confident adults, putting the final, logistical touches on the most important day of their lives. The wedding was planned. The tickets were booked. All that was left was to go home and say, "I do."
+
+

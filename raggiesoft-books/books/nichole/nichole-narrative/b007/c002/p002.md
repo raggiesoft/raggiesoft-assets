@@ -1,0 +1,44 @@
+# Part 2: The Application
+
+## Time: 11:15 AM Location: Office of Undergraduate Admissions, BSU
+
+Leaving the Housing Office with their signed Commuter Waivers in hand, Patrick pushed Nichole up the ramp to the Main Administration Building.
+
+They didn't mail their applications. They wanted to do this in person.
+
+They rolled up to the intake desk. Patrick swung his heavy backpack around to his chest and unzipped the main compartment. He pulled out three thick manila envelopes.
+
+Two were standard undergraduate applications: one for the **College of Engineering** (Patrick) and one for the **Department of Technical Communication** (Nichole). Inside were their high school transcripts, their essays, and the doctor's notes detailing their physical limitations—not as excuses, but as engineering constraints they had successfully solved.
+
+"Undergraduate application drop-off," Patrick said to the registrar, sliding the first two envelopes across the counter. "For the Fall 2004 semester."
+
+The clerk took them and stamped both envelopes with a heavy *THUD*. **RECEIVED: JAN 22 2004.**
+
+"Notifications go out in April," the clerk smiled. "Good luck."
+
+Patrick didn't step back yet. He held onto the third envelope. It was heavier than the others. It contained his immunization records, his CPR certification card from the Newport Community School, and his prerequisite grades for Anatomy & Physiology.
+
+"And this one," Patrick said, sliding the third envelope over. "For the **College of Health Professions**. The LPN accelerated track."
+
+The clerk looked at the label: **PATRICK BENNETT - SCHOOL OF PRACTICAL NURSING.**
+
+She looked up at him, a flicker of surprise in her eyes. It was rare to see an engineering applicant also dropping off a nursing packet.
+
+"Double major?" she asked.
+
+"Something like that," Patrick said. "I'm building the machine, but I need to know how to fix the operator."
+
+The clerk smiled and brought the stamp down one last time. **RECEIVED: JAN 22 2004.**
+
+"That program is competitive," she noted, placing it in the special medical routing bin. "But if your grades are good, they'll be lucky to have you."
+
+Patrick pushed Nichole away from the desk. They stopped in the center of the warm lobby, looking out the glass doors at the snowy campus quad.
+
+The Gap Year wasn't a delay anymore. It was a foundation. The transit routes were timed. The Fortress in Portsmouth was built. The 529 plans were fully funded. And now, the paperwork for their independence—both academic and medical—was in the system.
+
+Nichole looked at the "RECEIVED" stamp on her receipt. She was officially in the queue.
+
+She tapped her screen. **"WE. ARE. READY."**
+
+"Yeah," Patrick said, squeezing her shoulder. "We're ready. Now all we have to do is wait for the mail."
+

@@ -1,0 +1,164 @@
+# Part 6: The Wet Room
+
+## Monday, July 2, 2007 — 08:00 AM The Bridge (Basement), 105 Pepper Street SE
+
+The noise was absolute.
+
+Miller, the contractor who had cut the aperture for the lift last week, was back. This time, he was wielding a concrete saw to carve a channel into the basement slab for the new trench drain.
+
+*REEEEE-GRIND.*
+
+Upstairs in the living room, Freddie sat in **The Rover**, his high-fidelity earplugs inserted deep. He could still feel the vibration in the wheels of his chair.
+
+"Structural modification," Freddie noted, feeling the floorboards buzz. "They are rewriting the foundation."
+
+"They're making a path," Paige said, sitting on the arm of the sofa. "A zero-entry path."
+
+Downstairs, the grinding stopped abruptly. The dust hung in the air like fog.
+
+Miller stood up, wiping concrete dust from his safety goggles. He took a drink of water, and then his eyes drifted to the center of the room.
+
+The **Access-Pro TFL-3000** was parked in the "Down" position. The sleek steel rails shot up through the ceiling, vanishing into the living room. The "Plug" on the roof of the car was perfectly flush with the ceiling joists above.
+
+Miller walked over to it. He tapped the heavy steel track.
+
+"Well, I'll be damned," Miller muttered, looking up at the hole he had cut. "I thought you folks were crazy for cutting into that oak floor. But this... this is slick."
+
+He looked at the open cab, then at the ramp he was cutting into the concrete for the shower.
+
+"It ain't an elevator," Miller realized aloud. "It's a transporter."
+
+## Friday, July 6, 2007 — 16:00 PM The Rough-In
+
+The dust had settled. The noise had stopped.
+
+Freddie rode the TFL down to the basement to inspect the progress.
+
+The corner was transformed. Where once there was just a lonely toilet sitting in the open, there were now walls—2x4 framing covered in green mold-resistant drywall.
+
+Miller had built a 6-foot by 8-foot enclosure. It was spacious.
+
+"Clearance check," Freddie said, rolling inside the framed "room."
+
+He spun The Rover in a 360-degree circle. He didn't hit a wall.
+
+"Five-foot turning radius confirmed," Freddie nodded. "ADA compliant."
+
+He looked at the floor. The concrete had been sloped gently toward a long, stainless steel grate along the back wall—the linear drain.
+
+"No curb," Freddie whispered. "I can roll right over the drain."
+
+"And look," Jenna pointed to the electrical box wired into the doorframe. "That’s for the door. Miller thinks we're crazy for spending the money on it, but he wired it."
+
+## Wednesday, July 11, 2007 — 14:00 PM
+
+The Finishes
+
+The tiling was complete.
+
+True to the "Industrial/Sci-Fi" aesthetic of the Avery Unit, they hadn't chosen beige bathroom tile. They had chosen White Subway Tile for the walls (clean, institutional, bright) and Matte Black Hexagon Tile for the floor (high grip for the wheelchair).
+
+The grout was dark grey.
+
+"High contrast," Sarah approved, inspecting the grout lines. "Easy to identify dirt. Easy to clean."
+
+The fixtures were installed next.
+
+• The Sink: A wall-mounted "trough" style sink with no cabinet underneath, allowing Freddie to roll his knees completely under it.
+
+• The Shower: A heavy chrome unit with a rainfall head on the ceiling and a handheld wand on a long hose, positioned low enough for a seated user to reach.
+
+"It looks like a decontamination chamber," Freddie said approvingly. "It is... sterile."
+
+## Friday, July 13, 2007 — 10:00 AM
+
+The Smart Glass
+
+The final piece arrived in a crate marked FRAGILE: SWITCHABLE PRIVACY GLASS.
+
+This was the most expensive single item in the renovation, funded by a significant chunk of the Avery Grant.
+
+Miller and his assistant carefully lifted the heavy glass slab into the doorframe. It was a single, massive pane of glass, framed in brushed aluminum.
+
+"Okay," Miller said, wiping his hands on his pants. "It's wired. You want to test it?"
+
+Freddie rolled up to the door.
+
+Currently, the glass was opaque—a milky, frosted white. He couldn't see through it.
+
+"Default state is 'Privacy'," Jessica explained. "When the power is off, the liquid crystals are scattered. It blocks the view."
+
+"Switch is here," Jenna pointed to a sleek rocker switch on the outside wall (and a matching one inside).
+
+Freddie reached out. He flipped the switch.
+
+Click.
+
+Instantly—faster than a blink—the glass turned completely transparent.
+
+The milky white vanished. It looked like the door wasn't even there. He could see the subway tile, the chrome shower, the black floor.
+
+"Whoa," Jenna breathed. "Star Trek force field."
+
+"PDLC technology," Freddie murmured, mesmerized. "Polymer Dispersed Liquid Crystal. Voltage aligns the particles."
+
+"Here's the logic," Jessica said. "99% of the time, we leave it ON (Clear). When you're showering, we can see you. We know you're safe. You can see us working on the servers or folding laundry. You aren't in a box."
+
+"But," Sarah added, "if we ever have a guest... or if a plumber comes... or if Mom forces her way in... we hit the switch. Frost Mode. Instant visual barrier."
+
+"Privacy on demand," Freddie said. "Security default."
+
+He rolled into the bathroom. He looked out through the clear glass. He saw his sisters standing in the basement.
+
+He flipped the switch inside.
+
+Zap. The world turned white. He was hidden.
+
+He flipped it back.
+
+Zap. He was connected again.
+
+"Optimal," Freddie decided. "The variable is controlled."
+
+## Friday, July 13, 2007 — 19:00 PM
+
+The First Cycle
+
+The contractors were gone. The dust was swept. The basement was theirs.
+
+"Maiden voyage," Paige announced. "Shower protocol."
+
+The Avery Unit descended—Freddie via the TFL, the sisters via the stairs.
+
+They stripped down in the main basement area. The "No Armor" rule was now standard operating procedure.
+
+Freddie rolled The Rover into the new bathroom.
+
+He didn't have to be lifted over a tub rim. He didn't have to be transferred to a slippery plastic bench.
+
+He simply rolled his titanium chair right under the shower head. The titanium wouldn't rust. The cushion was waterproof.
+
+"Water on," Freddie said.
+
+He reached out and turned the lever.
+
+Warm water rained down from the ceiling. It soaked him, running over the matte black frame of the chair, swirling into the trench drain.
+
+He looked up.
+
+Through the clear glass door, he saw the basement.
+
+He saw Jenna plugging cables into her server rack, bathed in the blue glow of LEDs.
+
+He saw Sarah organizing a shelf of towels, lining up the edges.
+
+He saw Jessica and Paige sitting on the newly constructed platform of the Mega-Bed, watching him.
+
+They weren't hovering. They weren't panicked. They were just... there.
+
+He wasn't cut off. He wasn't alone in a closet. He was in the center of the hive.
+
+Freddie closed his eyes, letting the water run over his face.
+
+"System status," he whispered to the steam. "Perfect."
+

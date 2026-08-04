@@ -1,0 +1,104 @@
+# Part 10: The Descent Protocol
+
+## Thursday, May 13, 2004 — 02:15 PM (CST) Flight 492, Descending into Chicago
+
+The cabin chime sounded. *Bing-Bong.*
+
+**"Flight attendants, prepare for arrival."**
+
+Jessica looked out the window. The white floor of clouds had broken apart, revealing the flat, grey-green grid of the Midwest. To the east, the massive expanse of Lake Michigan looked like an ocean.
+
+She tried to move her left arm. Nothing happened. It was a dead weight, pinned beneath Freddie’s chest.
+
+"Freddie," Jessica whispered, leaning her head down to his ear. "Reboot. We are entering the pattern."
+
+Freddie didn't move. He was deep in the void.
+
+"Freddie," she said, louder this time. She used her right hand to gently shake his shoulder. "Systems online. Now."
+
+Freddie gasped, his body jerking awake. He sat up abruptly, pulling away from the warmth of her shoulder.
+
+"Status?" he panicked, looking around wildly behind his dark glasses.
+
+"Descent," Jessica said, grimacing as the blood rushed back into her left arm. It felt like fire ants were marching from her shoulder to her fingertips. She cradled the limb against her chest, trying to massage life back into it.
+
+"Your arm," Freddie noticed, seeing her wince. "Damage report?"
+
+"Just asleep," Jessica promised, biting her lip. "Pins and needles. It means you were safe. It's a fair trade."
+
+"Look," Paige said, pointing out the window to distract him. "Lake Michigan. It's huge."
+
+Freddie looked. The water was choppy and grey.
+
+"It looks cold," Freddie assessed.
+
+"It's Chicago," Paige said. "It's always cold."
+
+The plane banked sharply. The landing gear dropped with a heavy *thud-clunk* that vibrated through the floor. The wind noise increased to a roar.
+
+"Prepare for impact," Freddie whispered, gripping the armrests.
+
+"Not impact," Jessica corrected, flexing her tingling fingers. "Arrival."
+
+The plane flared over the runway. The tires kissed the concrete—a screech, a bump—and then the roar of the reverse thrusters threw them forward against their seatbelts.
+
+"Braking," Freddie recited. "Decelerating. Runway confirmed."
+
+The plane slowed to a taxi speed, exiting the runway and joining the long conga line of aircraft moving toward the terminal.
+
+## 02:40 PM (CST) — Gate B14
+
+The seatbelt sign pinged off. instantly, the cabin erupted in the sound of clicking buckles and overhead bins slamming open.
+
+"Hold," Jessica commanded. "We wait."
+
+They sat in Row 2 while the river of passengers flowed past them. Freddie kept his head down, hood up, waiting for the aisle to clear.
+
+Finally, the flight attendant waved at them. "Wheelchair is right at the door, folks."
+
+"Let's move," Jessica said.
+
+She stood up, but her left hand was still clumsy, the sensation not fully returned. She reached for Freddie’s bag, but her grip was weak.
+
+"I've got the heavy stuff," Paige said, grabbing both duffel bags and slinging them over her shoulders. "You just guide him."
+
+"Okay, Freddie," Jessica said. "Can you walk to the door?"
+
+"Affirmative," Freddie said.
+
+He stood up. His legs were stiff from three hours of being folded. He wobbled.
+
+Jessica reached out with her good right arm to steady him. Paige used her hip to guide him from behind.
+
+They walked the ten feet to the aircraft door. The cold air of the jet bridge hit them—that distinct Chicago smell of damp concrete and diesel.
+
+The wheelchair was waiting. It was a wide, heavy-duty airport model with a "Stowell" logo on the back.
+
+Freddie sat down.
+
+It was instant relief. The moment his weight hit the vinyl seat, the "Emergency Brake" re-engaged. He wasn't asleep, but he was safely contained. He pulled his legs up onto the footrests. He pulled his hood down tight. He checked his earplugs.
+
+"Armor check," Freddie muttered. "Secure."
+
+"I'm driving," Paige announced, stepping behind the chair. "Jessica, your arm is still twitching. You fly point."
+
+"Copy," Jessica said, shaking her hand out one last time. "We need to get to Concourse C for the connection. That means we have to go under the tarmac."
+
+"The tunnel," Freddie whispered from inside the hood.
+
+"We'll be quick," Jessica promised. "Eyes down. Focus on the floor."
+
+They moved up the jet bridge and into the terminal.
+
+O'Hare was an assault. It was louder, brighter, and faster than Seattle. The ceilings were low in this part of the concourse, amplifying the noise of thousands of people.
+
+Jessica led the way, cutting a path through the crowd like an icebreaker. Paige pushed the chair close behind, keeping Freddie in her slipstream.
+
+They reached the central rotunda. In the middle of the chaos was a set of wide, stainless-steel elevators marked **"To Concourse C / Baggage Claim."**
+
+Jessica hit the down button.
+
+"Here we go," she warned Freddie as the doors slid open. "Next stop: The Light Show."
+
+They rolled into the elevator car. The doors closed, cutting off the terminal noise for a brief, merciful second before they began the descent into the underground.
+

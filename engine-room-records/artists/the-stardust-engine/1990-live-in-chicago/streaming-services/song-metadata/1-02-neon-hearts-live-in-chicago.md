@@ -18,7 +18,7 @@
 * **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** 1990
 * **Real-World DSP Release Date:** 2026-04-01
-* **Generated On:** 07-18-2026 10:28:48 PM
+* **Generated On:** 07-19-2026 09:57:50 AM
 * **Master File Located At:** ../../vault/wav/1-02-neon-hearts-live-in-chicago.wav
 
 ## Distribution & AI Disclosure Notes

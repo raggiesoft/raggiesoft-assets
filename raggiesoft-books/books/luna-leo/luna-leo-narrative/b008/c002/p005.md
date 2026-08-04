@@ -1,0 +1,48 @@
+# Part 5: Saturday Respite and a Planned Weekend Stay
+
+The aroma of Stella’s pancakes soon filled the cozy house at 1091 Daniel Maloney Drive, a cheerful counterpoint to the lingering evidence of the previous night’s fierce thunderstorm outside. Gutters overflowed, and the streets of their Virginia Beach neighborhood showed puddles from the deluge, but inside, a sense of calm and comfortable normalcy prevailed. Leo and Olivia Walker, their earlier nervousness about the "morning after" completely dispelled by Stella and Luna’s easy acceptance, joined the sisters at the kitchen table, the atmosphere light and relaxed.
+
+"Storm Superhero Friend Olivia definitely gets extra syrup," Luna declared, passing the bottle to Olivia with a grin.
+
+Olivia laughed. "I accept the title and the syrup! Though I think Leo was the brave one last night, facing down all that thunder." She gave Leo a warm, affectionate smile.
+
+Leo, munching happily on a pancake, typed on his Quantum Communicator XT: "WAS EASIER WITH YOU HERE, OLIVIA. THANK YOU FOR STAYING."
+
+"Anytime, Leo. Honestly," Olivia said, her gaze sincere.
+
+Stella, flipping a pancake, added, "Well, the good news is the power stayed on, and it looks like the worst is over. Olivia, with your parents working through the weekend at the hospital and the neighborhood still a bit messy from the storm, you are officially a Porter houseguest for the *entire weekend*. No arguments. We’d love to have you stay through till Monday morning."
+
+Luna’s eyes lit up. "Yes! A full weekend with Olivia! We can finish that Government presentation, Leo, and maybe finally subject Stella to 'Carnival of Cosmic Creeps'!" She winked at Olivia.
+
+Leo typed eagerly: "YES! PLEASE STAY, OLIVIA. THE WHOLE WEEKEND. WE CAN FINISH THE PRESENTATION." He paused, then a mischievous glint appeared in his eyes as he continued typing, directing his next comment more towards Olivia. "AND, YES, WE MUST WATCH 'CARNIVAL OF COSMIC CREEPS'. I KNOW HOW MUCH YOU LOVE THAT ONE."
+
+Olivia gasped dramatically, a hand flying to her chest, her eyes wide with feigned horror and true delight. "'Carnival of Cosmic Creeps'! Oh, Leo, you *know* that's my ultimate guilty pleasure! The terrible rubber suits! The acting! The plot holes you could drive a Holt Sentinel through! It’s cinematic perfection!" She then grinned at Stella and Luna. "You guys haven't lived until you've seen the giant evil space clowns trying to turn people into cotton candy with ray guns."
+
+Stella chuckled, shaking her head. "The things I endure for this family. Alright, if it makes you two happy..."
+
+"It's a classic of the 'so-bad-it's-good' genre," Luna said, laughing. "Leo actually *tolerates* it because Olivia quotes all the best bad lines. It’s kind of hilarious to watch them watch it."
+
+Leo beamed. He wasn't a huge fan of B-movies himself, but Olivia's infectious enthusiasm for these cheesy, terrible films was endearing. He would gladly sit through any number of "Cosmic Creeps" or their equally ridiculous sequels, because watching them with Olivia, listening to her laugh, and sharing her joy in something so unapologetically silly, simply meant more precious time spent with his best friend.
+
+Olivia, sensing his affectionate indulgence, leaned over and gave his arm a playful nudge. "You just love my insightful commentary, admit it."
+
+"THE COMMENTARY IS... MEMORABLE," Leo typed, a clear tease in his message. "THE COMPANY IS EXCELLENT."
+
+"You guys are the best," Olivia said, her heart warming at their genuine insistence for her to stay the whole weekend. "Okay, then. 'Cosmic Creeps' it is for tonight, after we conquer American Government. But I'll definitely need to run home for some things."
+
+And so, Saturday unfolded with a comfortable, easy rhythm. After breakfast, Leo and Olivia did indeed make significant headway on their school presentation. Later, as the afternoon sun finally broke through the clouds, drying out their neighborhood, Stella suggested, "Olivia, if you're staying through till Monday morning, you'll need your pajamas, toiletries, and fresh clothes for school. Your place on Livingston Oak Drive isn't far at all; why don't we all take a walk over now while the weather's good, and you can pack a proper overnight bag for the weekend?"
+
+"That’s a great idea, Stella," Olivia said gratefully. "I was just thinking about that."
+
+The four of them bundled up and headed out. The short, familiar ten-minute walk through their Virginia Beach neighborhood led them to Olivia’s house at 1944 Livingston Oak Drive. While Olivia quickly packed an overnight bag with pajamas, a couple of changes of clothes for Sunday and for school on Monday, and her toiletries, her parents were still at work. She left them a detailed note.
+
+Bag packed, they walked back to 1091 Daniel Maloney Drive. Later that evening, as Stella was tidying the living room after dinner and their viewing of "Carnival of Cosmic Creeps" (which was as delightfully terrible as Olivia remembered), she quietly picked up the spare pillow and blanket she had left out for Olivia on the sofa the previous night. With a small, knowing smile, she folded them neatly and put them away in the linen closet. It was clear to her, and to Luna, after witnessing their easy companionship all day and the profound comfort Olivia had provided Leo during the storm, that Olivia would be sharing Leo’s room, and his bed, for the remainder of the weekend. Their absolute trust in Olivia, and their deep understanding of the unique, platonic comfort and security she offered Leo, made this an unspoken, naturally accepted arrangement now. They knew Leo would feel safest and sleep best with his steadfast friend nearby.
+
+The rest of Saturday evening passed with comfortable chatter. When bedtime arrived, there was a new level of easy expectation. Olivia, now in her own pajamas, went to Leo’s room. This would be her first time sleeping in his bed in actual pajamas, the previous night having been an unplanned necessity where she'd only removed her shoes. She settled into Leo’s full-sized bed beside him with the same easy, platonic naturalness as before, but this time it felt planned, accepted, and even anticipated by everyone. The comfort of their shared space was paramount. They might have talked quietly for a while. Olivia might have spooned him for a bit, or he might have just leaned his head against her shoulder as they talked, the physical closeness entirely about reassurance and platonic affection.
+
+"Thanks for staying the whole weekend, Olivia," Leo might have typed before they drifted off. "Today was great. Even the Cosmic Creeps."
+
+"Wouldn't trade it, Leo," Olivia would have murmured, her voice soft with sleep. "Sweet dreams. Tomorrow, more adventures... and maybe we can even convince Stella to watch the sequel?"
+
+He smiled in the darkness. With Olivia beside him, safe and sound for the whole weekend, the world felt right.
+

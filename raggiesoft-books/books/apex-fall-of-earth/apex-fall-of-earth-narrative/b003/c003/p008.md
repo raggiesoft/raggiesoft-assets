@@ -1,0 +1,50 @@
+# Part 8: The Ping – Saturday, October 22, 2044 – 12:00 (An hour into the second half of the shift)
+
+Wyatt stepped back onto the primary catwalks of Sector 4, the heavy blast door of their sanctuary locked safely behind them. The oppressive, sulfur-choked heat of the excavation levels swallowed them whole, replacing the quiet intimacy of the break room with the deafening, bone-rattling roar of the deep-core drills.
+
+He and Sarah seamlessly fell back into step, maintaining that disciplined six-inch professional gap. They were technically back on the clock, walking the long, winding perimeter of sub-level 4-C.
+
+An hour into the second half of the shift, the ambient vibration in the deck plates suddenly changed pitch.
+
+A deafening, metallic *CRACK* echoed through the cavernous shaft above them. A secondary coolant main running along the upper bulkhead violently ruptured under the immense pressure of the failing facility. A massive geyser of freezing, pressurized nitrogen gas blasted into the corridor, instantly dropping the temperature and filling the catwalk with a blinding, dense white fog.
+
+The automated hazard klaxons in the immediate vicinity flared to life, spinning an angry, strobing yellow light through the vapor.
+
+Wyatt reacted instantly. He grabbed Sarah by the shoulder, pulling her hard against his chest and hauling her backward behind a thick concrete support pillar to shield her from the freezing spray. She gripped the front of his heavy armor, pressing her face into his collarbone as the high-pressure gas hissed violently past their cover.
+
+It took three agonizing minutes for the emergency shut-off valves to finally kick in. The deafening hiss died down, and the heavy ventilation scrubbers slowly began pulling the white fog out of the corridor.
+
+As Wyatt stepped out from behind the concrete pillar, brushing a layer of frost off his black utility sleeve, his Level 1 PDA violently vibrated against his hip.
+
+A split second later, Sarah's datapad did the exact same thing.
+
+They both unclipped their devices. It wasn't a standard automated hazard warning. The screen was flashing with a harsh, red border: *MANUAL OVERRIDE. LOCATION QUERY INITIATED.*
+
+Wyatt stared at the screen. It was a direct, active ping from a Supervisor terminal at the Sector 1 Security Checkpoint. For the first time since they had stepped off the transport shuttle, someone in management was actually looking at their specific dots on the tracking grid. It struck them both as incredibly odd—Apex Management hadn't cared about individual contractors for three days, treating them entirely as background noise.
+
+He looked at Sarah. She was staring at her own screen, her brow furrowed in sudden, sharp alarm.
+
+A second later, the red border on both of their PDAs vanished, replaced by a solid block of green text: *COORDINATES VERIFIED. ROUTINE PATROL NODE 4-C. STATUS: COMPLIANT.*
+
+Because they had decided to play it safe and actually resume their assigned perimeter route after leaving the break room, they were standing in the exact square foot of the facility where the HR algorithm expected them to be. It was a terrifying stroke of sheer luck.
+
+Wyatt exchanged a tense, loaded look with Sarah.
+
+"They're watching," she whispered, her voice barely carrying over the whining air scrubbers. The thrill of their lunchtime rebellion was instantly replaced by a cold, calculating pragmatism. "A pipe blows, and a Supervisor actually checks the perimeter guard to see if we ran."
+
+"Management is terrified," Wyatt replied, his voice a low, hard rumble. He clipped his PDA back onto his belt. "Whatever they're digging into down there is causing structural failures, and it's making them paranoid. They're finally paying attention to the grunts."
+
+Sarah clipped her datapad away, her posture going rigidly professional. "We can't risk it," she said, her eyes locking onto his with absolute seriousness. "If they ping us again and we're off the grid in the filtration banks, they won't just write us up. They'll send an armed squad."
+
+"Agreed," Wyatt said, giving her a firm nod. "We toe the line. We walk exactly where they tell us to walk for the rest of the shift. No blind spots. No detours."
+
+They both turned their heavy Mark-IV flashlights back on, the beams cutting through the lingering nitrogen fog. They resumed their march down the grated catwalk, their boots hitting the metal in perfect synchronization.
+
+The romantic, electric tension that had been keeping them buoyant all afternoon was forcefully compartmentalized, locked away behind the dead-eyed mask of an Apex contractor. They didn't let their hands brush. They didn't share any lingering looks. They just did the job.
+
+For the next four hours, the patrol was an agonizing exercise in vigilance. Every time a pipe groaned or a drill rig shuddered, Wyatt instinctively waited for the vibration of his PDA. He waited for the heavy thud of combat boots approaching from a cross-corridor.
+
+But the PDAs remained silent. No more pings came through the network. The panicked Supervisor at the checkpoint had likely verified a few random coordinates after the pipe burst and then went right back to staring terrified at the main elevators.
+
+Still, Wyatt and Sarah didn't drop their guard for a single second. Apex Defense Solutions had proven that it was a sleeping, heavily armed giant. The facility was actively breaking apart, and the corporate chain of command was fraying at the edges. They walked the remainder of Day 3 in hyper-aware silence, counting every agonizing minute until the twelve-hour klaxon finally screamed, desperate to get back to the one room in this hellhole where Apex couldn't touch them.
+

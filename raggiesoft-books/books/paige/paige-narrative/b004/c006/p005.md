@@ -1,0 +1,116 @@
+# Part 5: The Hypothesis & The Lock
+
+## Monday, May 10, 2004 — 19:00 PM (PST) Cabin 4, The Iron Creek Lodge
+
+The dinner plates were washed and dried. The fire in the woodstove had settled into a steady, glowing bed of coals.
+
+Outside, the weather finally turned. It started as a whisper against the cedar logs, then grew into a steady, rhythmic tapping on the skylights. The Pacific Northwest rain had arrived—not a storm, but a curtain of grey water enclosing the cabin.
+
+"Perimeter sealed," Freddie noted, looking up at the skylight. "The rain is the final layer."
+
+They were sitting on the rug again, the "S'mores Protocol" abandoned for the moment. The mood had shifted from comfort to calibration.
+
+"Freddie," Jessica said gently, sitting opposite him with her legs crossed. "We need to debug the code. You said Vanessa told you we wanted to leave."
+
+Freddie nodded. He pulled his knees up to his chest, wrapping his arms around his shins.
+
+"She explained the plot," Freddie said. "Of the movie. *The Skyline Wait*."
+
+"I don't know that one," Paige said, leaning against the sofa.
+
+"Vanessa said it is a classic," Freddie explained. "A man and a woman are lonely. They live small, sad lives. But they both hear a signal... a call to meet on top of the tallest tower in the Rainy City. They meet in the rain. And suddenly, the data resolves. They are happy. They are complete."
+
+He rested his chin on his knees.
+
+"She said I was the man in the movie. And she was the woman. And if we went to the Sky-Spire... we would fix the glitch in our lives."
+
+"And us?" Jessica asked.
+
+"She said I was the anchor dragging you down," Freddie whispered. "She said Paige wanted to study art in Italy. She said Jessica wanted to work in finance in New York City. She said the only reason you stayed in Christiansburg... was because I couldn't function without you."
+
+He looked at them, his eyes wet behind his glasses.
+
+"She said if I left... you would be free."
+
+"Oh, Freddie," Paige breathed. She scooted across the rug and grabbed his hand. "That is a lie. A total, system-wide error."
+
+"I don't want Italy," Paige said fiercely. "I want *here*. I want the New River Valley. I want to draw in our room while you play video games."
+
+"And I definitely don't want New York," Jessica added, shaking her head. "I want to manage the Silo. I want to keep us safe. We stay because we *want* to stay. Not because we have to."
+
+Freddie absorbed this. "So the Black Hole hypothesis... is false?"
+
+"False," Jessica confirmed. "You are the Sun. We orbit you because it’s warm."
+
+Freddie let out a long breath. One weight lifted. But the heavier one remained.
+
+He looked at the fire. The orange light danced on the glass.
+
+"There is... one more variable," Freddie said. His voice dropped to a frequency so low they almost missed it. "The Pasco Lock."
+
+The room went silent. The rain tapped harder on the roof.
+
+"In Pasco," Freddie started, his hands gripping his shins until his knuckles turned white. "In the bus terminal. She... initiated a sequence."
+
+Paige froze. Jessica went perfectly still.
+
+"She tried to kiss me," Freddie whispered. "She tried to... access the hardware. She said it was part of the movie. The consummation."
+
+He squeezed his eyes shut.
+
+"I froze. I locked up. System failure."
+
+"Good," Jessica said, her voice hard as flint. "You rejected the input."
+
+"I rejected it," Freddie agreed. "But... the logic remains."
+
+He opened his eyes and looked at Paige. This was the hardest thing he had ever calculated. It went against every social protocol, every line of code in the manual. But it was the truth of his operating system.
+
+"I told her no," Freddie said. "Because she is a Stranger. She is an Unknown Variable. I cannot trust her data."
+
+He swallowed hard.
+
+"If..." Freddie stammered. "If the rules were deleted. If the taboo did not exist in the database... and I *had* to choose a partner..."
+
+He looked straight at Paige.
+
+"It would be you."
+
+The confession hung in the air, heavy and terrified. Freddie braced himself for the recoil. He waited for them to pull away. He waited for the disgust. *Incest. Broken. Monster.*
+
+But Paige didn't flinch.
+
+She looked at him with sad, deep understanding. She didn't see a predator. She saw a boy who equated Intimacy with Safety.
+
+"I know," Paige whispered.
+
+She reached out and pulled him into her arms. She held him tight, rocking him slightly.
+
+"I know, Freddie. It’s because you trust me."
+
+"It is logic," Freddie sobbed into her shoulder, the tears finally breaking loose. "Sex requires trust. I only trust the Unit. Therefore... the only logical partner is the Unit."
+
+"It makes sense," Jessica said softly, moving to sit beside them, rubbing his back. "It’s not weird, Freddie. It’s just... your wiring. You equate safety with love. And we are the only safety you have."
+
+"I don't want to do it," Freddie choked out. "I know it is wrong. I know the code forbids it."
+
+"We know you don't," Paige soothed, stroking his hair. "We know you aren't trying to hurt me. You were just rejecting *her*. You were saying, 'I would rather have my sister, who I trust, than this stranger who scares me.'"
+
+"Yes," Freddie wept. "That is the calculation."
+
+"Then the calculation is valid," Jessica declared firmly. "You aren't a monster, Freddie. You're just a Navigator who wants to stay on the map."
+
+They sat there for a long time while the rain washed the roof. Freddie cried out the shame of the bus terminal, the confusion of his own body, and the fear that he was broken.
+
+And his sisters just held him. They didn't judge the thought. They understood the source.
+
+He wasn't choosing incest. He was choosing Safety. He was choosing the only people in the world who had never hurt him.
+
+"You are safe," Paige whispered, kissing his forehead. "You are safe with us. No more strangers. No more movies."
+
+"Just the Unit," Freddie whispered back, his voice ragged.
+
+"Just the Unit," Jessica agreed.
+
+The Pasco Lock was broken. The secret was out. And the walls of the cabin didn't collapse. The fire kept burning. The rain kept falling. And his sisters kept holding him.
+

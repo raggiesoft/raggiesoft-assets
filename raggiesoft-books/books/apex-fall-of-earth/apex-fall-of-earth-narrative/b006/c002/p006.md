@@ -1,0 +1,46 @@
+# Part 6: Reaching in the Dark – Tuesday, December 5, 2045 – 05:15
+
+Sarah tried to push herself up on her elbows, her dark eyes frantic with the desperate need to see the children she had just spent seven grueling months building. But her muscles were entirely spent, her arms trembling under her own weight.
+
+"Hey, hey, don't move," Wyatt ordered gently, immediately pressing his hands to her shoulders to keep her flat on the memory-foam mattress. "You are completely redlined, Sarah. I'll bring them to you."
+
+He stood up from his stool and walked over to the far wall.
+
+The three neonatal incubators were mounted on heavy, anti-microbial casters, their independent life-support batteries humming seamlessly. Wyatt unlocked the brakes on the first unit. Moving with a terrifying, agonizing care—as if he were transporting live munitions—he rolled Ellie’s bassinet across the floor, parking it flush against the right side of Sarah’s bio-bed.
+
+He went back for Nora, clicking her bassinet into place right next to Ellie’s. Finally, he brought Leo over, lining his incubator up on the end.
+
+Sarah turned her head on the pillow, tears instantly flooding her eyes and tracking down her exhausted face.
+
+She looked through the transparent, curved plastic walls of the three medical boxes. They were incredibly small, their tiny chests rising and falling under the molecularly printed CPAP masks, surrounded by a terrifying web of biometric sensors and IV lines.
+
+"Oh, Wyatt," Sarah sobbed, reaching a shaking hand out to rest it against the warm, clear plastic of Ellie’s incubator. "They're so tiny."
+
+"They're nine weeks early, Sarah," Wyatt murmured, pulling his stool up right behind her so he could watch them with her. He rested his heavy hand on her shoulder. "But Aria says their vitals are stabilizing. They're going to be okay. They're fighting."
+
+As if responding to his voice, the agitation inside the three incubators suddenly shifted.
+
+Inside the first bassinet, Ellie’s eyes were squeezed completely shut against the clinical light, but she let out a frustrated grunt. She kicked her legs, her tiny right arm breaking free of the thermal swaddle. She blindly reached out, her fingers splaying wide as she pressed her tiny hand flat against the right-side wall of her incubator.
+
+In the middle bassinet, Nora was whimpering softly. Her eyes were also shut tight, but she shifted her weight, rolling her head to the side. Both of her tiny, fragile arms stretched outward, her hands blindly grazing the left and right walls of her own plastic enclosure.
+
+And in the third bassinet, the profound, rigid terror that had locked Leo in place finally cracked. Still entirely silent, and with his eyes pressed firmly shut, the boy slowly turned his head to the left. His tiny, trembling left hand uncurled from its panicked fist, reaching out to press weakly against the left-side wall of his incubator, mirroring the exact placement of Nora's hand on the other side of the gap.
+
+Sarah let out a wet, breathless laugh, completely captivated by the movement. She shifted her own hand on the outside of the plastic, covering the spot where Ellie’s tiny palm was pressed against the inside.
+
+"Look at them, Wyatt," Sarah whispered, her heart overflowing with a fierce, protective warmth. "Their eyes aren't even open yet, but they're already reaching out. They know I'm right here."
+
+Wyatt smiled, a deep, resonant warmth filling his chest as he looked at the three of them blindly stretching their tiny limbs toward the edges of their medical boxes. His S.H.O.P. Marine brain found the most logical, comforting explanation for the behavior.
+
+"They're rooting," Wyatt agreed softly, his thumb gently stroking Sarah’s shoulder. "Aria said their biological instincts are redlining. They can probably hear your voice, or smell you. They're just trying to find their mother."
+
+"I'm right here," Sarah promised, her voice breaking as she looked down the line at her three beautiful, restless children. "I'm right here, babies."
+
+Inside the incubators, the triplets continued to press their hands against the transparent boundaries that separated them. They weren't looking for their mother, and they certainly weren't rooting for food. They were desperately, blindly searching the empty air for the physical, comforting weight of the siblings they had shared every single second of their existence with.
+
+But Wyatt and Sarah had absolutely no idea. To the new parents, it was just the beautiful, chaotic, uncoordinated reflexes of three premature newborns adjusting to a vast, empty world.
+
+Wyatt leaned down, pressing a kiss to Sarah’s damp hair. They had survived the Apex Megacorporation, they had survived the dead earth, and they had survived the delivery.
+
+"Get some rest, Sarah," Wyatt murmured, keeping his vigilant watch over the three incubators. "I'm not taking my eyes off them. I promise."
+

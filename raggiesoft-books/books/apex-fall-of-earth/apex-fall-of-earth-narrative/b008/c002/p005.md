@@ -1,0 +1,80 @@
+# Part 5: The Endocrine Protocol – Friday, October 20, 2056 – 14:00 (Local Eden Time)
+
+The sprawling residential living room of The Sanctuary was a study in profound, accelerated growth. Over the past year, the entire linguistic landscape of the mountain fortress had shifted. The soft, childish echoes of Mama and Dada had been completely eradicated, replaced by the crisp, highly articulate, and fiercely capable voices of the Colton squad.
+
+Over by the massive hydro-glass windows, Wyatt Colton was currently conducting a hazard assessment of his own genetics.
+
+At three years old, identical twins Tyler and Evan were locked in a tug-of-war over a heavy, molecularly printed crate filled with solid polymer building blocks. Most three-year-olds would struggle to even slide the crate across the floor. Tyler and Evan had it hoisted three inches in the air between them. Their small arms already displayed a shocking, dense musculature, their physical brawn developing at an incredible, undeniable rate.
+
+"Let go, Evan," Tyler demanded, his voice entirely clear and completely devoid of toddler babble. His small biceps flexed as he pulled the heavy crate. "I need the base pieces."
+
+"We build it together, Tyler," Evan countered smoothly, planting his sturdy boots into the plush rug and effortlessly matching his brother's immense pulling force. "That is the rule."
+
+"Hold up, enforcers," Wyatt intervened gently, stepping over and placing a massive, calloused hand on the center of the crate to ground it. "You're both right, but you need to dial back the kinetic output. If you pull any harder, you're going to snap the polymer handles. You have to control your strength, boys."
+
+Tyler and Evan looked up at Wyatt. They instantly released the tension, letting the crate settle onto the rug.
+
+"Understood, Dad," Tyler nodded seriously.
+
+"We will control our mass, Dad," Evan agreed.
+
+Wyatt smiled, shaking his head as he patted their shoulders. He looked across the room, where the linguistic architect responsible for their perfect grammar was holding his own daily seminar.
+
+Six-year-old Jack was sitting cross-legged on the floor mat, a thick, physical textbook resting on his lap. He was reading at a nine-year-old level, effortlessly parsing the advanced Earth history and atmospheric physics texts Aria provided. Sitting perfectly upright in front of him were four-year-old Molly and Claire.
+
+"And so, the atmospheric pressure dictates the weather patterns," Jack explained, his diplomatic voice calm and melodic as he traced a diagram in the book. "When the warm air from our valley rises and meets the cold air rolling off the mountain peaks, it creates condensation."
+
+Molly leaned forward, her identical dark eyes sharp with understanding. "So the condensation is what creates the heavy rain clouds over the waterfall?" she asked, her four-year-old voice delivering a flawless, perfectly structured sentence.
+
+"Exactly, Molly," Jack beamed with pride.
+
+"That is a highly efficient ecological system, Jack," Claire added thoughtfully, resting her chin on her hands. "The water cycle sustains the pine forests without manual irrigation."
+
+Sarah was sitting on the leather sofa, watching the younger tiers operate with absolute awe. She was holding a cup of tea, her dark eyes eventually drifting from the younger kids to the exact center of the room, where the atmosphere was significantly heavier.
+
+The Vanguard was ten years old. And puberty had fully breached the hull.
+
+Leo was sitting in his titanium Daily Driver wheelchair. His body had shot up over the last year, his shoulders broadening out as the boyish softness faded. But the biological updates were terrifying to his profoundly neurodivergent brain. Earlier that morning, his vocalizations had suddenly, violently cracked, shifting from a high hum into a deep, unpredictable baritone grunt.
+
+The loss of control over his own vocal cords had sent him into a panicked spiral. He was currently completely rigid, his scissored legs locked against the footboards, his hands trembling.
+
+He was not alone. The triplets were an indivisible organism.
+
+Nora had dropped her titanium forearm crutches onto the rug. Her own body was changing—she had grown taller, and the shifting center of gravity required constant, exhausting recalibration of her gait—but her profound empathy overrode her own discomfort. She was leaning heavily into the right side of the wheelchair, her arms wrapped fiercely around Leo’s chest, her cheek pressed against his neck to provide maximum deep pressure.
+
+On his left, Ellie was positioned like a vice. Her tactical canvas vest had been adjusted outward yet again to accommodate her developing body, a biological reality she tolerated with absolute, grumbling pragmatism. She had her arms locked around Leo's opposite shoulder, layering her solid weight over Nora's to create an impenetrable, crushing physical shield.
+
+Sarah set her tea down and walked over, kneeling on the floor in front of the wheelchair. She didn't try to break the perimeter; she just wanted to offer Leo the logical data his brain craved.
+
+"Aria," Sarah requested softly. "Please display the biological schematic."
+
+A gentle blue hologram materialized above the floor, showing a highly detailed, rotating diagram of the human endocrine system.
+
+"Leo, I know you are scared," Sarah said, keeping her voice incredibly steady and grounded. "Your vocal cords are lengthening. Your body is flooding with new hormones. It feels chaotic, but look at the diagram. It is a perfectly ordered, entirely predictable biological sequence. You are not losing control; your system is simply upgrading to its adult framework."
+
+Leo stared at the glowing blue data. He took a massive, shuddering breath, the crushing weight of Ellie and Nora physically anchoring his nervous system to the present reality.
+
+He reached a trembling hand down to his ruggedized AAC tablet. His fingers flew across the glass.
+
+"My biological framework is altering without my permission," Leo’s tablet announced, the digital voice loud and desperate in the quiet room. "My vocal frequencies are anomalous. My physical dimensions are expanding. It is terrifying. I do not want the Vanguard to change."
+
+Nora lifted her head slightly from his shoulder. She didn't try to speak, knowing her slight speech impediment would require too much energy while she was maintaining the compression hold. Instead, she kept her right arm locked around him and used her left hand to tap the sleek AAC device strapped to her forearm.
+
+"We are experiencing the updates too, Leo," Nora's AAC chimed in a warm, clear voice. "My center of gravity is different. I am feeling highly emotional. But our perimeter is exactly the same. We are not changing who we are. We are just getting taller."
+
+Ellie didn't use an AAC, but she offered her own tactical assessment.
+
+"Armor requires constant refitting," Ellie grumbled, scowling down at her canvas vest. "Hormones are a logistical nightmare. But the unit holds. We do not separate. Negative on the separation."
+
+Leo processed the data. He looked at the holographic diagram, then at the heavy, comforting weight of his sisters perfectly boxing him in. The terror of the biological unknown slowly began to recede, neutralized by the absolute, immovable constants in his life.
+
+He dropped his head against Nora's hair, letting out a low, deep, baritone hum of relief that rumbled in his chest. He tapped his tablet once more.
+
+"The compression is optimal. The data is accepted. We are upgrading together," Leo's AAC stated.
+
+Wyatt walked over from where the twins had been wrestling, stepping up behind Sarah and resting his hands on her shoulders. He looked at his ten-year-old triplets, locked in a fierce, loving embrace to weather the storm of growing up. He looked at Jack, teaching his sisters the mechanics of rain. And he looked at Tyler and Evan, the massive three-year-old enforcers promising to control their strength.
+
+"No more babies in the house, Sarah," Wyatt murmured quietly, his protective heart swelling with an immense, unshakeable pride. "They're becoming a real command staff."
+
+"They're going to need to be," Sarah whispered back, resting her hand over Wyatt's. She looked out the hydro-glass windows, toward the valley where the durasteel foundations of Genesis were waiting. "Two more years, Wyatt. Then we wake the vault."
+

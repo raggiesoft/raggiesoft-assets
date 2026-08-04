@@ -1,0 +1,54 @@
+# Part 4: The Sentinel’s Briefing – 9:00 AM
+
+By 9:00 AM, the torn wrapping paper had been mostly cleared into trash bags, and the living room was settling into a comfortable, exhausted post-gift haze. Then, a sharp, familiar knock sounded at the front door.
+
+Because they only lived a single block away over on Rich Court, Jim, Joan, Melissa, and Ashley had simply walked over in the freezing morning air.
+
+Dad opened the door, and the Honorary Pack flooded into the foyer.
+
+Ashley didn't even bother taking off her coat before she bypassed the adults and sprinted directly into the living room. She launched herself at the sofa bed, tackling Rachel and me into a massive, breathless embrace. I wrapped my arms around her, returning the fierce, deep-pressure pack hug, instantly feeling my nervous system regulate under her familiar weight. She pulled back, beamed at us, and then moved over to give Jessica the exact same deeply loving, grounding squeeze.
+
+For the next twenty minutes, the house was a blur of overlapping voices and torn paper as we exchanged our gifts with the Raybourns. But as the adults and the older girls migrated toward the galley kitchen to get coffee, Ashley’s demeanor shifted.
+
+The casual, excited best friend vanished, completely replaced by the tactical, fiercely loyal Sentinel. She knew exactly what time it was, and she knew my processor was actively redlining over the impending noon deadline.
+
+"Alright, Michael, up," Ashley ordered quietly, grabbing my sleeve and pulling me to my feet. "We need to run the protocol."
+
+I stood up on the dark blue polyester carpet, my hands already starting to sweat. "I don't understand the physical parameters, Ash. If I'm supposed to hug her, how hard do I squeeze?"
+
+"That is exactly why we are practicing," Ashley said, stepping directly in front of me. "A romantic hug is not a pack hug. You cannot use her as a human cargo strap. It's quick, and it's light. Show me what you were planning to do."
+
+I didn't hesitate. I reached out and wrapped my arms completely around Ashley's torso, pulling her flush against my chest and clamping down with a heavy, rib-crushing grip. The intense, continuous physical contact instantly felt amazing—it was the exact deep-pressure grounding I relied on to survive the chaotic static of the world.
+
+"Okay, stop, stop," Ashley laughed, patting my back until I let her go. "Michael, you are going to literally break her spine. That is a survival hug. You are trying to say 'hello,' not 'protect me from a meltdown.' Watch."
+
+She stepped back, then stepped forward again, wrapping her arms loosely around my waist. She applied almost zero pressure, resting her head lightly near my shoulder for exactly two seconds before stepping back.
+
+"Like that," she instructed. "Try it."
+
+I stepped forward and tried to mimic the geometry. But the absolute second my arms wrapped around my best friend, my brain completely bypassed the instructions. The tactile comfort of holding her was too grounding. I accidentally locked my arms again, leaning my full weight into her and sighing happily. I was enjoying the physical affection so much that I completely forgot the objective of the lesson.
+
+"Michael!" Ashley giggled, shoving me away playfully. "Focus! Light pressure. Two seconds. Go."
+
+We ran the drill four more times. Each time, I had to actively fight my own biological drive for heavy proprioceptive input. Finally, on the fifth attempt, I managed to wrap my arms around her waist, hold the light pressure for a beat, and step back without locking my elbows.
+
+"There," Ashley grinned, pointing at me. "That was perfect. That is the exact hug you give Bonnie."
+
+"Okay," I breathed, running the new data loop in my head. "Light pressure. Two seconds."
+
+"Now, the photo," Ashley directed, grabbing me by the shoulders and physically steering me toward the front-wall brick fireplace. "When she gets here, I am taking a picture of the two of you. Stand right here."
+
+She positioned me directly between the dark brick hearth and the glowing Christmas tree.
+
+"I'm going to stand exactly where she's going to stand," Ashley said.
+
+She stepped up flush against my right side. She wrapped her arm around my back, her bright red hair resting perfectly against the shoulder of my white t-shirt. I put my arm around her waist, settling into the pose. As I looked out at the empty living room, a massive, genuine smile broke across my face. I wasn't just practicing; I was standing in my safe harbor with the one person outside of my family who I trusted with my absolute life.
+
+"Perfect," Ashley nodded approvingly, stepping back and looking at the staging area. "You're going to do great."
+
+From the kitchen, Jim called out that it was time for the Raybourns to head back to Rich Court so Jim and Joan could start prepping their own holiday dinner.
+
+Melissa, Jim, and Joan grabbed their coats, exchanging a final round of hugs before stepping out into the cold Virginia morning. But Ashley didn't put her coat on. She simply walked back over to the sofa bed and sat down next to Rachel.
+
+Ashley wasn't leaving. She was looking forward to seeing Bonnie just as much as I was, but more importantly, she knew her role as the Honorary Sister. When noon finally struck, she knew my processor might still freeze, and she was staying firmly on station to run the wingman logistics and translate the outside world for me.
+

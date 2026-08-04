@@ -1,0 +1,24 @@
+# Part 1: Safe Harbor, Stark Reality
+
+Thanksgiving morning 2003 dawned bright, cold, and blessedly quiet outside Stella’s small Virginia house. Inside, however, a profound warmth settled, deeper than any furnace could provide. Leo surfaced slowly from a deep, exhausted sleep, the kind that follows immense stress and trauma. For a disoriented moment, he didn't know where he was. The gentle undulation beneath him wasn't his mattress; it was Stella's king-sized waterbed. He wasn't alone. Warmth pressed against him from both sides. He blinked his eyes open. On his left, Luna was curled close, fast asleep, her breathing soft and even. On his right, Olivia lay facing him, her eyes just opening, a soft, tired smile touching her lips. Stella was already awake and quietly moving about the room, getting herself ready for the day.
+
+Memory flooded back – arriving late last night, the overwhelming relief and subsequent meltdown at the airport, seeking refuge here in Stella's room with all three of his trusted women, the unspoken invitation as Stella lifted the covers, settling between them. Curled protectively between his twin and his best friend, the lingering fear from his ordeal in Washington felt distant, muted, held firmly at bay by their immediate, reassuring presence. This wasn't strange or awkward; it was the absolute safety he had desperately needed after being so alone and terrified.
+
+As they began to stir fully, shifting slightly in the large bed, the faint but unmistakable sour smell of neglect became apparent in the close quarters. Olivia and Luna exchanged a quick, worried glance over Leo’s sleeping form. He hadn't just been through emotional trauma; his basic physical care had clearly been compromised during his time away.
+
+Olivia sat up slowly, rubbing her eyes, her expression shifting from sleepy warmth to gentle concern. "Morning," she whispered, looking down at Leo as his eyes fluttered open. Luna also sat up, her focus immediately on her brother.
+
+"Hey, sleepyhead," Luna murmured, reaching out to touch his arm reassuringly.
+
+The first priority was clear. "Leo," Stella said softly, "first thing, how about a nice, long, warm bath? Get you feeling all fresh and comfortable?"
+
+Leo’s eyes, still clouded with sleep and the lingering shadows of the past week, immediately lit up. A bath. A proper bath, here, safe. He reached eagerly for Luna’s AAC device on the nightstand. He typed quickly, his excitement overriding any grogginess: BATH! YES! WITH STELLA, OLIVIA, AND LUNA? BOTH? PLEASE?
+
+His plea to have *all three* of them help, just like they used to before Delores interfered, touched both sisters and his best friend deeply. It wasn't just about getting clean; it was about reclaiming that specific comfort, that shared routine of care only they provided.
+
+"Of course, all three of us, Leo," Luna said warmly, already moving to get out of bed.
+
+"Absolutely, buddy," Stella confirmed, her heart aching slightly at the evidence of neglect but focusing on his immediate happiness. "Let's get you properly relaxed and comfortable. Just like old times, the three of us."
+
+“Promise, Leo, we got you,” Olivia said.
+
