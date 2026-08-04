@@ -1,19 +1,19 @@
 #!/bin/bash
 
-# --- SARAH: AUTONOMOUS DEPLOYMENT (v4) ---
+# --- SARAH: AUTONOMOUS DEPLOYMENT (v4.1 - Nuclear Override Edition) ---
 # "I check for updates every 5 minutes. If Jenna pushed code, I deploy it instantly."
 # NO SUDO REQUIRED.
-
-# 0. ROOT PRIVILEGE CHECK
-if [ "$EUID" -eq 0 ]; then
-    echo "🛑👩‍💼 SARAH: WHAT ARE YOU DOING?! I explicitly told you I do not need root!"
-    echo "          ABORTING: Drop the sudo and let me do my job."
-    exit 1
-fi
 
 # 1. CONFIGURATION
 REPO_DIR="/home/michael/raggiesoft-hub"
 WEB_ROOT="/var/www/raggiesoft.com"
+FORCE_RESET=false
+
+# Check for the nuclear override flag
+if [ "$1" == "--force-reset" ]; then
+    FORCE_RESET=true
+    echo "🚨 SARAH: NUCLEAR OVERRIDE INITIATED. Forcing a clean deployment..."
+fi
 
 # 2. THE INTELLIGENCE CHECK (Detect Changes)
 # Sarah quietly checks the Vault before waking up fully.
@@ -26,18 +26,27 @@ git fetch origin main
 LOCAL=$(git rev-parse HEAD)
 REMOTE=$(git rev-parse origin/main)
 
-if [ "$LOCAL" == "$REMOTE" ]; then
-    # No changes. Sarah goes back to sleep silently.
-    exit 0
+# If we aren't forcing a reset, run the standard intelligence check
+if [ "$FORCE_RESET" = false ]; then
+    if [ "$LOCAL" == "$REMOTE" ]; then
+        # No changes. Sarah goes back to sleep silently.
+        exit 0
+    fi
+    echo "👩‍💼 SARAH: Change detected! Jenna pushed updates."
+    echo "   Previous: $LOCAL"
+    echo "   New:      $REMOTE"
+else
+    echo "👩‍💼 SARAH: Bypassing version check. Purging local repository cache."
 fi
 
-# 3. IF WE ARE HERE, CHANGES WERE DETECTED
-echo "👩‍💼 SARAH: Change detected! Jenna pushed updates."
-echo "   Previous: $LOCAL"
-echo "   New:      $REMOTE"
-
-# Pull the updates
+# 3. PULL UPDATES
+# --hard resets tracked files to exactly match GitHub
 git reset --hard origin/main
+
+# If forcing, ruthlessly delete any untracked or ghost files that drifted in
+if [ "$FORCE_RESET" = true ]; then
+    git clean -fdx
+fi
 
 # 4. DEPLOY (Standard User Mode - No Sudo)
 echo "👩‍💼 SARAH: Syncing files to Showroom..."
