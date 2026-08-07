@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v7.1 - Multi-Repo Routing Edition) ---
+# --- JENNA: THE DEVELOPMENT LIAISON (v7.2 - Multi-Repo Routing Edition) ---
 # Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
@@ -12,6 +12,7 @@ SERVER_ROOT=$(cd "$ASSETS_ROOT/.." && pwd)
 HUB_ROOT="$SERVER_ROOT/raggiesoft-hub"
 CMS_ROOT="$SERVER_ROOT/stardust-engine-cms"
 NARRATIVES_ROOT="$SERVER_ROOT/raggiesoft-narratives"
+NEBULAE_ROOT="$SERVER_ROOT/raggiesoft-nebulae"
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -185,7 +186,7 @@ function run_orphan_audit() {
                 \$filename = \$timestamp . '_Jenna_Audit_Report.txt';
                 \$logPath = \$logsDir . '/' . \$filename;
                 
-                \$output = \"JENNA'S PAGE AUDIT REPORT\nGenerated: \" . \$prettyDate . \"\nSummary:   \" . count(\$orphans) . \" Orphans | \" . count(\$drafts) . \" Drafts | \" . count(\$exposed) . \" EXPOSED\n\n\";
+                \$output = \"JENNA'S PAGE AUDIT REPORT\nGenerated: \" . \$prettyDate . \"\nSummary:   \" . count(\$orphans) . \" Orphans | \" . count(\$drafts) . \" EXPOSED\n\n\";
                 
                 if (!empty(\$exposed)) {
                     \$output .= \"🚨 EXPOSED DRAFTS (Linked!)\n=================\n\";
@@ -283,8 +284,16 @@ function do_pull() {
     else
         cd "$NARRATIVES_ROOT" && git pull origin main
     fi
+
+    echo "   5. Checking the Nebulae Incubator..."
+    if [ ! -d "$NEBULAE_ROOT" ]; then
+        echo "      > Repository missing. Cloning Nebulae from GitHub..."
+        cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-nebulae.git
+    else
+        cd "$NEBULAE_ROOT" && git pull origin main
+    fi
     
-    echo "   5. Hauling the heavy boxes (DigitalOcean Spaces)..."
+    echo "   6. Hauling the heavy boxes (DigitalOcean Spaces)..."
     "$RCLONE_BIN" sync do-spaces:assets.raggiesoft.com "$ASSETS_ROOT" \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
@@ -330,6 +339,13 @@ function do_push() {
             cd "$NARRATIVES_ROOT"
             if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
                 echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the Narratives repository."
+                exit 1
+            fi
+        fi
+        if [ -d "$NEBULAE_ROOT" ]; then
+            cd "$NEBULAE_ROOT"
+            if git show-ref --tags "$TAG_NAME" --quiet || git ls-remote --tags origin | grep -q "refs/tags/$TAG_NAME"; then
+                echo "🛑 JENNA: ABORTING! The tag '$TAG_NAME' is already used in the Nebulae repository."
                 exit 1
             fi
         fi
@@ -425,6 +441,32 @@ function do_push() {
             git tag -a "$TAG_NAME" -m "Release $TAG_NAME"
             git push origin "$TAG_NAME"
             echo "      ✓ Narratives Tag sent to GitHub."
+        fi
+    fi
+
+    # 4.7 NEBULAE PUSH
+    echo "   -> Packaging the Nebulae Incubator..."
+    if [ -d "$NEBULAE_ROOT" ]; then
+        cd "$NEBULAE_ROOT"
+        git add .
+        
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push origin main
+             echo "      ✓ Nebulae committed and sent to GitHub."
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending Nebulae commits. Pushing now..."
+             git push origin main
+             echo "      ✓ Pending Nebulae code sent to GitHub."
+        else
+             echo "      (Nebulae is clean and up to date.)"
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Nebulae with tag: $TAG_NAME..."
+            git tag -a "$TAG_NAME" -m "Release $TAG_NAME"
+            git push origin "$TAG_NAME"
+            echo "      ✓ Nebulae Tag sent to GitHub."
         fi
     fi
 

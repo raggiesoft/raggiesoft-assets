@@ -1,12 +1,9 @@
 #!/bin/bash
 
-# --- SARAH: AUTONOMOUS DEPLOYMENT (v4.1 - Nuclear Override Edition) ---
+# --- SARAH: AUTONOMOUS DEPLOYMENT (v5.0 - Multi-Site Edition) ---
 # "I check for updates every 5 minutes. If Jenna pushed code, I deploy it instantly."
 # NO SUDO REQUIRED.
 
-# 1. CONFIGURATION
-REPO_DIR="/home/michael/raggiesoft-hub"
-WEB_ROOT="/var/www/raggiesoft.com"
 FORCE_RESET=false
 
 # Check for the nuclear override flag
@@ -15,57 +12,58 @@ if [ "$1" == "--force-reset" ]; then
     echo "🚨 SARAH: NUCLEAR OVERRIDE INITIATED. Forcing a clean deployment..."
 fi
 
-# 2. THE INTELLIGENCE CHECK (Detect Changes)
-# Sarah quietly checks the Vault before waking up fully.
-cd "$REPO_DIR" || exit
+# Sarah's deployment brain
+function deploy_site() {
+    local SITE_NAME=$1
+    local REPO_DIR=$2
+    local WEB_ROOT=$3
 
-# Fetch the latest info from GitHub (but don't merge yet)
-git fetch origin main
-
-# Compare: Where am I (HEAD) vs. Where is GitHub (origin/main)?
-LOCAL=$(git rev-parse HEAD)
-REMOTE=$(git rev-parse origin/main)
-
-# If we aren't forcing a reset, run the standard intelligence check
-if [ "$FORCE_RESET" = false ]; then
-    if [ "$LOCAL" == "$REMOTE" ]; then
-        # No changes. Sarah goes back to sleep silently.
-        exit 0
+    # Ensure repository exists locally before attempting sync
+    if [ ! -d "$REPO_DIR" ]; then
+        echo "⚠️ SARAH: Cannot deploy $SITE_NAME. Repository missing at $REPO_DIR."
+        return
     fi
-    echo "👩‍💼 SARAH: Change detected! Jenna pushed updates."
-    echo "   Previous: $LOCAL"
-    echo "   New:      $REMOTE"
-else
-    echo "👩‍💼 SARAH: Bypassing version check. Purging local repository cache."
-fi
 
-# 3. PULL UPDATES
-# --hard resets tracked files to exactly match GitHub
-git reset --hard origin/main
+    cd "$REPO_DIR" || return
 
-# If forcing, ruthlessly delete any untracked or ghost files that drifted in
-if [ "$FORCE_RESET" = true ]; then
-    git clean -fdx
-fi
+    # Fetch the latest info from GitHub
+    git fetch origin main
 
-# 4. DEPLOY (Standard User Mode - No Sudo)
-echo "👩‍💼 SARAH: Syncing files to Showroom..."
+    LOCAL=$(git rev-parse HEAD)
+    REMOTE=$(git rev-parse origin/main)
 
-# rsync options:
-# -a: Archive mode (preserves permissions/times)
-# --no-o: Don't try to change Owner (prevents "Operation not permitted" error)
-# --no-g: Don't try to change Group (Let the folder's SetGID handle it)
-rsync -av --delete --no-o --no-g \
-    --exclude '.git' \
-    --exclude '.gitignore' \
-    --exclude 'deploy.sh' \
-    --exclude 'README.md' \
-    "$REPO_DIR/" "$WEB_ROOT/"
+    # Standard intelligence check
+    if [ "$FORCE_RESET" = false ]; then
+        if [ "$LOCAL" == "$REMOTE" ]; then
+            return # No changes, stay silent
+        fi
+        echo "👩‍💼 SARAH: Change detected in $SITE_NAME! Jenna pushed updates."
+    else
+        echo "👩‍💼 SARAH: Bypassing version check for $SITE_NAME. Purging local repository cache."
+    fi
 
-# 5. PERMISSIONS (Self-Correction)
-# Since 'michael' owns the folder now, Sarah can chmod her own files without sudo.
-echo "👩‍💼 SARAH: Standardizing file permissions..."
-find "$WEB_ROOT" -type d -exec chmod 755 {} +
-find "$WEB_ROOT" -type f -exec chmod 644 {} +
+    # PULL UPDATES
+    git reset --hard origin/main
+    if [ "$FORCE_RESET" = true ]; then
+        git clean -fdx
+    fi
 
-echo "✅ SARAH: Deployment Complete at $(date)"
+    # DEPLOY
+    echo "   -> Syncing $SITE_NAME to Showroom..."
+    rsync -av --delete --no-o --no-g \
+        --exclude '.git' \
+        --exclude '.gitignore' \
+        --exclude 'README.md' \
+        "$REPO_DIR/" "$WEB_ROOT/"
+
+    # PERMISSIONS
+    find "$WEB_ROOT" -type d -exec chmod 755 {} +
+    find "$WEB_ROOT" -type f -exec chmod 644 {} +
+    echo "✅ SARAH: $SITE_NAME Deployment Complete."
+}
+
+# 1. PROCESS RAGGIESOFT HUB
+deploy_site "Hub" "/home/michael/raggiesoft-hub" "/var/www/raggiesoft.com"
+
+# 2. PROCESS NEBULAE INCUBATOR
+deploy_site "Nebulae" "/home/michael/raggiesoft-nebulae" "/var/www/nebulae.raggiesoft.com"
