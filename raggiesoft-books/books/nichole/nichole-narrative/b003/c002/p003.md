@@ -1,0 +1,42 @@
+# Part 3: The Bus Loop
+
+Location: The "Backstage" (Bus Loop)
+
+The door swung open, and they burst out into the Virginia spring air.
+
+The silence was sudden and shocking. The heavy steel door slammed shut behind them, muffling the electronic shriek to a dull thrum.
+
+They weren't on the grass. They were standing on the concrete sidewalk of the Bus Loop—the "Backstage" area defined by the three brick towers with circular porthole windows.  
+
+The air was grey and smelled of ozone, but it was fresh.
+
+"We're out," Patrick panted, adjusting his grip. "We have to cross."
+
+The evacuation protocol demanded they clear the building entirely. The Bus Loop was a massive paved canyon, and the "Muster Point" was the chain-link fence on the far opposite side, bordering the residential neighborhood.
+
+Patrick stepped off the sidewalk and onto the asphalt.
+
+He walked fast, carrying her across the empty lanes where the buses usually lined up. His arms were burning. His left calf was cramping hard from the stairs.
+
+Nichole could feel his heart hammering against her chest. She could feel the tremor in his arms. She wanted to stay there—held high, wrapped in his warmth, safe from the ground.
+
+But as they reached the grassy verge at the fence line, she felt him sag.
+
+He’s tired, she realized. The machine is overheating.
+
+She loosened her grip on his neck. She tapped his shoulder twice. Down.
+
+Patrick looked at her. He didn't want to put her down on the dirty asphalt, but his muscles were failing.
+
+"The curb," Patrick wheezed.
+
+He stepped up to the concrete curb that ran along the fence line. He knelt down, his knee hitting the dirt.
+
+He lowered her gently. He didn't just drop her; he controlled the descent until she was seated securely on the curb, her legs extended onto the asphalt.
+
+Nichole hated the ground. The ground was vulnerable. But she accepted it. She wrapped her arms around her knees, curling into herself.
+
+Patrick didn't stand up and walk away. He didn't go look for his homeroom teacher.
+
+He sat down on the curb right next to her, their shoulders pressing together. He leaned his head back against the chain-link fence, gasping for air, wiping sweat from his eyes.
+

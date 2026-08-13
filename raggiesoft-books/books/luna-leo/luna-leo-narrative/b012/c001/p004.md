@@ -1,0 +1,16 @@
+# Part 4: A Toast at The Tidewater Grill
+
+The restaurant Arthur had chosen, The Tidewater Grill, was a perfect choice. It was a bright, airy space with large windows that overlooked a small, manicured garden, the decor a tasteful blend of classic and coastal. The staff was welcoming, and they were quickly shown to a large, round table with plenty of room to comfortably position Leo's wheelchair right next to Olivia.
+
+The atmosphere at the table was one of pure, uncomplicated joy. The anxiety of the morning had completely melted away, replaced by a celebratory buzz.
+
+"A toast," Arthur said, raising his glass of iced tea once everyone was seated. "To the newest member of the Porter clan, official in the eyes of the Commonwealth of Virginia. To Olivia Walker Porter. We are so very proud and happy to have you."
+
+"To Olivia!" everyone echoed, their glasses clinking together over the center of the table. Olivia's cheeks flushed with a happy, rosy pink, her smile so bright it seemed to light up their corner of the restaurant.
+
+When the waiter came to take their orders, the choices reflected their personalities perfectly. **Leo**, who had been studying the menu with intense focus, had already made up his mind. He used his communicator to order a thick **bacon cheeseburger with extra pickles**. **Olivia**, seated beside him, chose a **grilled chicken club sandwich on sourdough**. **Luna** opted for the **blackened fish tacos**, while **Stella** ordered a large **Cobb salad with grilled salmon**. **Arthur**, true to form, requested a hearty **prime rib sandwich**, and **Eleanor** decided on the **broiled crab cakes**.
+
+As they waited for their food, the conversation was light and full of laughter. They talked about the upcoming commitment ceremony, the final details of the flowers, and the music Luna would play. There were no tense silences, no undercurrents of worry. For the first time in a long time, the future felt bright and full of promise.
+
+Leo was relaxed and happy, his earlier separation anxiety now a distant memory. He sat close to Olivia, their chairs angled towards each other, a comfortable, self-contained unit within the larger family circle. He would occasionally lean over to type something on his communicator, adding a quiet joke or observation to the conversation, his clear voice a now-familiar and welcome part of their family's symphony. This lunch wasn't just a meal; it was a celebration of a new name, a new beginning, and the unshakable strength of the fortress that now officially, in the eyes of the law, included Ms. Olivia Walker Porter.
+

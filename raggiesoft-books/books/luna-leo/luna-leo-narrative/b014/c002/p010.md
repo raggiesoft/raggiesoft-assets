@@ -1,0 +1,104 @@
+# Part 10: The Identity Protocol
+
+## December 18, 2006 Iron County Superior Court - Witness Room 10:45 AM
+
+The FBI agents had left with their prisoner. The door was closed.
+
+**Sarah** sat at the small table. She looked at her hands. She looked at the file Agent Ross had left—the one detailing the lies of **Viktor Krov**.
+
+"He named me," she whispered. "He picked 'Sarah'. He picked 'Emily'. He picked 'Halloway'."
+
+She looked up at Stella.
+
+"I don't want any of it. If I keep the name Sarah... every time someone says it, I'll hear his voice."
+
+Stella nodded. "Then we burn it. All of it."
+
+**Judge Silas Miller**, still in his street clothes, clicked his pen. He pulled a blank **Petition for Change of Name** form from his briefcase.
+
+"Okay," Miller said. "We are doing a full scrub. New First. New Middle. New Last."
+
+"Last name is **Porter**," Sarah said immediately, looking at Leo. "If the offer still stands."
+
+*"OFFER CONFIRMED,"* Leo typed on his **Titan** console. *"CREW IS FAMILY."*
+
+"Okay," Sarah said. "Sarah is gone. Who am I?"
+
+She looked at the engineering textbook in her lap. She looked at the **M.U.L.E.** bracket on the back of Leo’s chair—the thing she had helped build. She wanted a name that sounded structural. Something that couldn't be broken.
+
+"**Maya**," she said. "I always liked Maya. It sounds... solid."
+
+"**Maya Steele Porter**," Judge Miller tested it. "Has a nice ring to it."
+
+Sarah—no, **Maya**—nodded. "Do it."
+
+Miller filled out the form.
+
+- **Petitioner:** Sarah Emily Halloway.
+
+- **New Name:** **Maya Steele Porter**.
+
+- **Reason:** Safety / Witness Protection.
+
+He signed the order.
+
+"Done," Miller said. "Sarah Halloway is legally dead. Long live Maya Porter."
+
+## 12:30 PM "The Cut & Color" Salon - Braxton City
+
+They didn't go home. They went straight to the city.
+
+Stella walked into the high-end salon on Main Street. She didn't have an appointment, but she had the **Platinum Card**.
+
+"We need an emergency session," Stella told the stylist. "The full works. Cut. Color. Radical change."
+
+Maya sat in the chair. She looked at herself in the mirror. She had mousey brown hair, pulled back in a ponytail—the way her father liked it. Conservative. Quiet.
+
+"Change it," Maya said to the stylist. "I don't want to recognize her."
+
+"What color?" the stylist asked.
+
+Maya looked at Leo’s wheelchair—**Jet Black** with neon accents. She looked at the **BTA** trains. She looked at the modern world she was joining.
+
+"**Black**," Maya decided. "Blue-black. Like ink. And cut it short. An angled bob. Sharp."
+
+"That's a commitment," the stylist warned. "Going that dark... it's hard to go back."
+
+"I'm not going back," Maya said.
+
+## The Process
+
+For three hours, the Fortress waited.
+
+- **Leo** sat in the waiting area, working on his laptop.
+
+- **Luna** read a magazine.
+
+- **Olivia** brought coffee milk.
+
+- **Stella** paid the bill in advance (\$300 + Tip).
+
+The stylist applied the dye. The chemical smell filled the air—the smell of change. She snipped the long, brown ponytail off and let it fall to the floor.
+
+## The Reveal
+
+The chair spun around.
+
+Maya stood up.
+
+Her hair was a sleek, sharp helmet of **Midnight Blue/Black**. It framed her face, making her eyes look fiercer, older, and stronger. She didn't look like a scared girl from Ohio anymore. She looked like a cyberpunk engineer. She looked like she belonged in **Roebling Hall**.
+
+She looked in the mirror. She touched the sharp angle of the cut.
+
+"She's gone," Maya whispered.
+
+Leo rolled up to her. He raised his seat elevator to look her in the eye.
+
+He tapped his **Quantum Communicator**.
+
+*"HELLO MAYA,"* the robotic voice said. *"NICE UPGRADE."*
+
+Maya smiled. It was a real smile.
+
+"Hello Leo," she said. "I like the new specs."
+

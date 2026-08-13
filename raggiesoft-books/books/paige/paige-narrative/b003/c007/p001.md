@@ -1,0 +1,58 @@
+# Part 1: The Debugger
+
+## Thursday, July 10, 2003 09:45 AM
+
+The waiting room of **Dr. Arrington’s** office was located in a quiet brick building off North Main Street in Blacksburg. It felt less like a clinic and more like a professor's study, which helped lower the ambient threat level.
+
+The floor was carpeted in a muted blue that absorbed the sound of footsteps. A small fountain in the corner provided a constant, rhythmic *trickle-splash-trickle*—white noise for the soul.
+
+Freddie sat in the corner chair. He was wearing his "Standard Uniform": loose-fitting jeans and a soft grey t-shirt with no tags.
+
+On his right sat Paige. She was his mirror. She wore an almost identical grey t-shirt, her leg pressed firmly against his to provide a constant stream of tactile data.
+
+On his left sat Jessica. She wore a long-sleeved forest green top—the color of the mountains, the color of stability. She held the clipboard with the intake forms.
+
+"Question 4," Jessica read softly. "Does the patient experience distress during changes in routine?"
+
+Freddie looked at the fountain. He thought about the time his father tried to trade the family's Holt Club Wagon for a sedan without a family meeting.
+
+"Distress is... inaccurate," Freddie corrected. "It is a fatal error. The system hangs."
+
+"Checking 'Severe'," Jessica murmured, marking the box. "Question 5: Does the patient have difficulty interpreting non-verbal cues?"
+
+Paige squeezed Freddie’s knee. "Remember when Heidi told you to 'break a leg' before the concert, and you asked her which bone?"
+
+"It was a valid query," Freddie defended. "The tibia is the most structurally sound choice."
+
+"Checking 'Yes'," Jessica said.
+
+She flipped to the back page. "Okay, last part. **HIPAA Authorization**. Who is allowed to access your medical records and discuss your care?"
+
+"The Admin Team," Freddie stated immediately.
+
+"I need names, Freddie," Jessica smiled.
+
+"Paige Avery," Freddie listed. "Jessica Avery. And Ellen Avery."
+
+"Mom?" Paige asked softly.
+
+"She is the primary source of genetic code," Freddie said. "She requires read-only access."
+
+Jessica wrote the names down and signed the witness line. Just as she finished, the heavy oak door to the inner office opened.
+
+A man stood there wearing a tweed jacket with patches on the elbows. He held a mug of tea and looked kind, but tired.
+
+"Freddie Avery?" he called out. His voice was gravelly but soft.
+
+Freddie stood up. Paige and Jessica rose with him, forming a wall.
+
+"I'm Dr. Arrington," the man said. He looked at the three of them. "I usually only take one support person back with the patient. The room is a bit small."
+
+Freddie froze. Separation anxiety spiked. He looked at Jessica.
+
+"Go," Jessica said firmly, handing the clipboard to Paige. "I’ll hold down the fort out here. Paige is the Primary Anchor today."
+
+"Protocol accepted," Freddie whispered.
+
+Paige took Freddie’s hand. "Come on, Architect. Let's go see the wizard."
+

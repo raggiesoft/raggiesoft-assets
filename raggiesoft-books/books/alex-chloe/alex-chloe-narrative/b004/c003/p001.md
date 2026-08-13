@@ -1,0 +1,18 @@
+# Part 1: Re-establishing a Rhythm (Fall 2000)
+
+Returning to Northwood High after a month-long, life-threatening ordeal felt like stepping back into a world that had kept spinning while theirs had stopped. For Alex, the physical toll of the pneumonia was still evident. He was thinner, and his stamina was low; the long push from the drop-off to their first-period class left him more tired than it used to. For Chloé, the emotional weight of the past month had been immense, and seeing Alex back in their shared classes, safe and recovering, was a quiet, profound relief.
+
+Their daily routine at school, once a simple matter of companionship, was now subtly different, imbued with a new layer of protective care from Chloé. She was more attuned than ever to his physical state, her gaze often flicking to him in the middle of a lecture to check his breathing or his color.
+
+The 90-minute Lunch/Study Hall block became the crucial anchor of their day. After grabbing a quick lunch in the cafeteria, they would immediately retreat to a quiet, reserved table in the back of the library. This was their new command center.
+
+"Okay," Chloé would say, pulling out a stack of books and photocopied notes. "Let's start with Biology. Mrs. Davison gave me all the worksheets you missed on cellular respiration. It's kind of boring, but I took really good notes."
+
+The roles were reversed. For years, Alex, with his sharp, analytical mind, had often been the one to quietly help Chloé grasp a complex math problem or a scientific concept. Now, she was his academic lifeline. She would patiently go over what he had missed, explaining concepts, her handwriting a familiar, comforting guide on the pages of her notebook.
+
+Alex was a diligent student, his mind as sharp as ever, but the physical fatigue made the long school days a challenge. He would listen intently, his AAC device ready with questions. SO THE MITOCHONDRIA... THAT'S WHERE THE ATP IS ACTUALLY PRODUCED?
+
+"Exactly!" Chloé would whisper, a small, proud smile on her face. "See? You've got this."
+
+Their partnership, always strong, had been forged into something even more resilient by the fire of his illness. Chloé was no longer just his best friend; she was his tireless advocate, his tutor, and his guardian, ensuring he didn't fall behind while his body healed. And for Alex, her unwavering presence was a constant, comforting reminder that he had faced the worst and had not been alone. Together, they were slowly, methodically, re-establishing their rhythm, one textbook and one shared, quiet study session at a time.
+

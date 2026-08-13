@@ -1,0 +1,14 @@
+# Part 2: The Study Session
+
+A week before the project was due, Hannah approached Alex after class. "Hey, Alex," she began, a little nervously. "I was wondering... would you want to get together at the library after school sometime this week to go over our final presentation? I think we're in good shape, but I just want to make sure we're on the same page."
+
+Alex looked over at Chloé, who was waiting for him by the door. She gave him a small, encouraging nod. It was good for him to have other academic connections.
+
+YES, Alex typed to Hannah. THE LIBRARY IS GOOD. WEDNESDAY?
+
+That Wednesday, after school, Alex and Hannah met in the library. Chloé, who had her own study group for a history project, gave him a wave as she headed to a different section. "See you at home later!" she called out.
+
+The study session with Hannah was productive. She was organized, and her notes were meticulous. But for Alex, the experience was a study in contrasts. The conversation was good, but it was *work*. He had to explain every thought completely, from the beginning. There was no shared history, no inside jokes, no ability for her to finish his sentences or understand his meaning from a single, raised eyebrow. The silences weren't the comfortable, companionable quiet he shared with Chloé; they were just... empty spaces he felt he had to fill.
+
+He found himself missing Chloé's easy presence, her intuitive understanding of him. He was glad when the study session was over.
+

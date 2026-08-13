@@ -1,0 +1,32 @@
+# Part 13: A Quiet "I Do" for Practical Love (January 5, 2004)
+
+The first week of the new year in Virginia was a period of intense, focused planning. After the trauma of Kent and the quiet healing of the holidays, the path forward for Alex and Chloé was clear. Their new semester, together, as CCHR students was about to begin. But first, there was one final, practical matter to attend to.
+
+Chloé's Canadian relatives had unanimously decided to extend their stay for the special occasion. On the cold, clear morning of Monday, January 5th, 2004, a small, international group gathered at the Virginia Beach Circuit Courthouse. It was Alex and Chloé; their four parents; Alex's grandparents; and Chloé's entire Québécois family. There was no white dress, no elaborate decorations. It was not a wedding of pomp, but one of profound, quiet purpose.
+
+Chloé wore a simple, elegant blue dress. Alex wore a crisp button-down shirt and slacks. As they stood before the civil celebrant, their families filling the small ceremony room, they were nervous, but their resolve was absolute. Standing proudly by Alex's side, in the traditional role of the groom's witness, was his Best Woman, Megan Carter.
+
+This marriage was the ultimate act of their platonic partnership, a practical decision to ensure Chloé could legally be his advocate and next-of-kin. But as they stood there, hands linked, the weight of the moment felt like more than just a legal formality.
+
+The celebrant's words were simple and direct. When it came time for the vows, they turned to each other.
+
+"I, Chloé Mason, take you, Alex Miller, to be my husband," Chloé said, her voice clear and steady, her eyes locked on his. "To be my partner, my best friend, and my family. To have and to hold, in sickness and in health, to protect and support, always."
+
+Alex, in turn, had pre-programmed his vows. He pressed a button on his AAC, and the synthesized voice, full of a quiet, unwavering devotion, spoke the words he had written. I, ALEX MILLER, TAKE YOU, CHLOÉ MASON, TO BE MY WIFE. MY BEST FRIEND. MY ANCHOR. AND MY HOME. I PROMISE TO BE YOUR CONSTANT, TO TRUST YOU, AND TO CHERISH YOU, ALL THE DAYS OF MY LIFE.
+
+A soft sob came from the front row, where Mémère Madeleine was dabbing her eyes with a handkerchief.
+
+The celebrant then asked, "And is it your intention, Chloé Angélique Mason, to take the surname of your husband?"
+
+Chloé looked directly at Alex, a radiant, unwavering smile on her face. Her voice was full of a proud, happy finality. "Yes," she stated, for the record and for everyone to hear. "I do. I want to be Chloé Angélique Miller."
+
+"May we have the rings?" the celebrant asked, a warm smile on her own face.
+
+Megan stepped forward, her own eyes shining. She opened a small box and presented the two simple, slender gold bands. She handed one to Chloé, and then placed the other gently into Alex's hand, giving his fingers a firm, reassuring squeeze.
+
+They exchanged the rings. And when the celebrant pronounced them husband and wife, the kiss they shared was not one of fiery passion, but one of deep, abiding affection—a soft, gentle press of lips that sealed a lifetime of trust.
+
+The celebration that followed was a lively, bilingual lunch at a nearby family restaurant. Uncle David gave Alex a bone-crushing hug. "Welcome to the family, officially, my boy," he boomed. Mathieu and Isabelle teased their cousin about being an "old married lady" now.
+
+There were no grand toasts, just the warm, happy tears of their mothers and grandmothers, and the simple, profound reality of what they had just done, witnessed and supported by every single person they loved. They were Alex and Chloé Miller now. Their lives, which had been intertwined since childhood, were now legally and forever bound. They were a team, a single, cross-border family, ready to face whatever the future held, together.
+

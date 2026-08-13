@@ -1,0 +1,106 @@
+# Part 2: The Terrain Deficit – Wednesday, April 12, 2051 – 10:00
+
+The main foyer of the Colton estate looked like the staging ground for a planetary invasion.
+
+Wyatt was kneeling on the polished stone floor, stuffing a heavy canvas rucksack with military-grade med-kits, high-density rations, thermal blankets, four different types of synthesized juice, and a localized perimeter-alert beacon. He was preparing for a thirty-minute walk, but his S.H.O.P. Marine paranoia was treating it like a month-long siege.
+
+"Wyatt, we are literally walking fifty yards to look at a tree," Sarah laughed, shifting the heavily bundled, ten-month-old Jack onto her hip. Jack was babbling happily, entirely unbothered by his father's tactical anxiety.
+
+"The perimeter is secure, but the terrain is unpredictable," Wyatt grunted, zipping the rucksack tight. He stood up, hoisting the heavy pack over his broad shoulders.
+
+He looked down at the Vanguard.
+
+They were 4.5 years old, and they were fully suited up. Wyatt had utilized the molecular printers to weave them custom, heavy-duty canvas exploration gear. Ellie stood at the front of the Chariot, wearing a miniature tactical vest over her jacket. Nora stood at the rear push-bar, leaning her weight against it, looking nervously at the massive, sealed durasteel blast doors.
+
+Leo was strapped into the center seat, his AAC tablet resting securely on his lap tray. He was humming a low, steady note, picking up on the intense, buzzing energy of the room.
+
+Ellie stepped forward. She didn't look at the blast doors; she looked at Wyatt. She crossed her arms over her chest, conducting her final pre-flight inspection of the adults.
+
+"Gear," Ellie demanded.
+
+"Rucksack is packed, Commander," Wyatt confirmed, tapping the heavy canvas strap.
+
+"Recruit," she pointed at Jack.
+
+"Fed and strapped in," Sarah smiled, giving a playful salute.
+
+Ellie gave a firm nod. She marched back to the front of the Chariot, wrapping her small, strong hands around the wooden pull-handle. She looked at the heavy durasteel doors, her dark eyes narrowing with absolute, fearless determination.
+
+"Open," Ellie commanded.
+
+Wyatt tapped the biometric scanner on the wall.
+
+With a deep, pneumatic hiss that vibrated through the floorboards, the massive blast doors unsealed. They parted slowly, sliding back into the stone walls to reveal the true, unfiltered reality of Planet Eden.
+
+The bright, golden light of the alien sun flooded into the foyer. A cool, crisp spring breeze swept inside, carrying the sharp, piney scent of the massive emerald forests that surrounded the estate.
+
+Nora gasped, her eyes going wide. She shrank back slightly, pressing her cheek against the back of Leo's seat. It was incredibly bright, and the space was terrifyingly open.
+
+Leo’s humming hitched. The sudden rush of wind against his face and the brilliant sunlight was a massive sensory shift. But as Nora's hand squeezed his shoulder, anchoring him, his spastic muscles relaxed. He let out a loud, vibrating grunt, his face turning toward the warmth of the sun. He slammed his hand down on his tablet.
+
+"Good," the mechanical voice echoed into the fresh air.
+
+"Alright, squad," Wyatt smiled, his chest swelling with emotion as he watched his children experience their home world for the first time. "Move out."
+
+Ellie leaned forward, digging her boots into the polished stone. She pulled the Chariot forward, rolling smoothly down the short durasteel ramp and out of the bunker.
+
+The moment the front wheels left the metal ramp and hit the forest floor, the excursion catastrophically halted.
+
+Wyatt had engineered the Chariot to absolute perfection—for the inside of the estate. The frictionless, smooth-gliding casters were designed for polished stone, hard-light grating, and plush residential rugs.
+
+The moment they hit the soft, loamy dirt and thick alien pine needles, the small, smooth wheels immediately sank two inches into the soil.
+
+Ellie grunted, planting her feet and pulling with all her toddler strength. The wagon lurched violently, jumping over a thick tree root before bogging down in a patch of mud.
+
+In the back, Nora pushed as hard as she could, but her weaker left leg couldn't find any traction in the loose dirt. She slipped to one knee, letting out a sharp, frustrated whimper.
+
+But the real crisis was in the center seat.
+
+Because the wagon had no suspension and the wheels were completely rigid, every single rock, root, and dip in the dirt sent a jarring, violent shockwave directly through the wooden frame. The sudden, chaotic bouncing instantly triggered Leo's severe spasticity. His scissored legs locked perfectly straight, his back arching against the five-point harness as his muscles seized in panic.
+
+He couldn't hit his tablet. He just let out a sharp, terrified cry, his eyes wide with distress.
+
+"Hold!" Ellie shouted, instantly dropping the front handle.
+
+Wyatt and Sarah were already moving. Wyatt dropped the heavy rucksack, sprinting to the wagon. He reached into the center seat, placing his massive, warm hands firmly over Leo's rigid chest and legs, providing deep, steady pressure.
+
+"I've got you, buddy. You're okay, Dada's got you," Wyatt murmured, waiting for the intense muscle spasms to pass.
+
+Sarah knelt in the dirt next to Nora, pulling her middle daughter into a tight hug and brushing the mud off her training pants. "Are you hurt, Nora?"
+
+"Stuck," Nora sniffled, pointing at the wheels.
+
+Ellie didn't cry. She didn't look scared. She marched around the side of the wagon, crouching down in the dirt to inspect the smooth, frictionless casters that were completely buried in the mud. She stood up, wiped her dirty hands on her tactical vest, and glared directly at the Administrator of Planet Eden.
+
+She pointed a tiny, dictatorial finger at the sunken wheel.
+
+"Broken," Ellie stated flatly.
+
+Wyatt looked down at the wheels, his mechanic's brain instantly processing the catastrophic engineering failure. He had built a street vehicle. He hadn't accounted for the rolling resistance of loose soil, the lack of traction for Nora's footing, or the absolute necessity of a shock-absorbing suspension system for Leo's rigid spine.
+
+He had failed the Vanguard.
+
+"It's not broken, Commander," Wyatt sighed, rubbing the back of his neck in defeat. "It's just... the wrong gear. Dada messed up. The wheels are too small for the dirt."
+
+Ellie looked at the vast, beautiful alien forest stretching out before them. She looked at Jack, who was happily babbling in Sarah's arms, completely capable of walking on the dirt.
+
+Then, she looked back at Leo, who was just starting to relax under Wyatt's hands.
+
+If they pushed forward, Leo would be in pain, and Nora would fall. If they left Leo inside, the unit would be broken.
+
+The commanding officer made the only tactically sound decision available.
+
+Ellie marched to the front of the Chariot. She grabbed the handle, but instead of pulling forward, she hauled it backward, dragging the front wheels out of the mud and back onto the durasteel ramp. She looked at Wyatt, her dark eyes uncompromising.
+
+"Base," Ellie ordered. "Fix it."
+
+"Copy that, El," Wyatt agreed immediately, a fierce, overwhelming swell of pride washing over him. She hadn't thrown a tantrum about missing the forest. She simply refused to leave her brother behind.
+
+They rolled the Chariot back into the foyer, the heavy blast doors hissing shut behind them, sealing out the alien sun.
+
+"Well," Sarah smiled gently, kissing Wyatt's cheek as she carried Jack back toward the living room. "I guess it's back to the Fab-Foundry for you, Mr. Colton."
+
+"Pneumatic tires," Wyatt muttered to himself, his brain already drafting the blueprints. "Independent coil-over suspension. Deep treads. Wider wheelbase for Nora's stability..."
+
+The Vanguard was going to conquer the outside world. But first, Wyatt had to build them a tank.
+

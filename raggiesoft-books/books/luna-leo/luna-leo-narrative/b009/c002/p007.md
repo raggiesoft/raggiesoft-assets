@@ -1,0 +1,102 @@
+# Part 7: A Taste of Stanstead
+
+Tired, damp, but happy after a full day of museum exploration, the fortress four emerged into the misty evening, their thoughts turning to dinner. As they walked down a side street near their hotel, a warm glow from a small restaurant window caught their eye. A charming, hand-painted sign above the door read "Le Gout de Montréal" and promised, in smaller letters, "Authentic Smoked Meat & Poutine."
+
+Olivia stopped dead in her tracks, a look of pure, disbelieving joy on her face. "No way," she whispered, her voice full of a sudden, powerful emotion.
+
+"No way, what?" Stella asked, confused by her friend's abrupt halt and intense reaction. She, Luna, and Leo looked at the sign, but the words "Le Gout de Montréal" held no special meaning for them.
+
+"That's..." Olivia began, her voice thick with a nostalgic awe, "That's food from home. From near my home in Québec. Smoked meat... poutine... I can't believe there's a place like this here."
+
+The decision was instantaneous. "Well, then that's where we're eating," Stella declared, her own curiosity now piqued.
+
+They opened the door and were immediately enveloped by a wall of warmth and the delicious, savory smell of smoked meat and spices. The small restaurant was cozy, with hockey jerseys framed on the walls and the low, musical murmur of French conversation.
+
+A host approached their group, a warm, professional smile on his face. "Good evening, folks. Welcome," he said, his English perfect but carrying a very specific, familiar lilt that Olivia recognized instantly. It was the unmistakable musicality of someone from Sherbrooke, the city just north of her hometown, a sound she had heard her entire life. Her face lit up with a genuine, delighted smile.
+
+Seeing this familiar accent as an open invitation, she stepped forward, and a transformation occurred.
+
+"*Bonsoir! On est quatre, s'il vous plaît,*" (Good evening! We are four, please,) she said. The language that flowed from her was not slow or formal. This was fluid, rapid, and musical. This was the Eastern Townships Québécois French of her childhood.
+
+The host, a young man with a friendly face, broke into a huge grin, his own accent immediately apparent as he replied in kind. "*Absolument! Bienvenue!*" (Absolutely! Welcome!)
+
+This was the first time Stella, Luna, and Leo had ever heard Olivia's true heart language in a natural, happy conversation. It was a revelation. She was more expressive, her hands moved more as she talked, and her entire presence seemed to light up. They watched in fascinated awe as she was led to their table, chatting easily with the host.
+
+Olivia, completely in her element, took charge of ordering.
+
+"Okay," she said to her friends, her voice full of excitement. "We have to start with an appetizer. You guys have never had real poutine before. It's the best thing ever. It's french fries, with fresh cheese curds, and they pour hot gravy all over it so the cheese gets melty. We have to get it."
+
+Based on her mouth-watering and enthusiastic description, a chorus of agreement came from Stella, Luna, and Leo.
+
+Olivia turned to the waitress. "*Alors, on va prendre une grosse poutine pour la table pour commencer, s'il vous plaît.*" (So, we'll take a large poutine for the table to start, please.)
+
+The waitress smiled and nodded. "*Et pour boire?*" (And to drink?) Their waitress, an older woman with kind eyes and a warm accent that Olivia recognized instantly as being from Magog, was just as delighted.
+
+"Oh!" Olivia's eyes lit up. She turned back to the table. "You guys have to try Québec soda. It's different. Sweeter. Made with real cane sugar." She then turned back to the waitress with a familiar ease. "*Quatre liqueurs, s'il vous plaît. Des colas Laurentian.*"
+
+The moment the word "*liqueurs*" left her lips, Leo flinched as if he'd been struck. His eyes went wide with panic, and he began shaking his head frantically, a low, distressed sound escaping his throat.
+
+Olivia stopped instantly, her happy, nostalgic mood evaporating. She saw the raw fear on his face and immediately held up a hand to the waitress to pause, turning her full attention to Leo. "Leo? What's wrong?"
+
+He was already fumbling for his Quantum Communicator, his hands trembling. He typed a short, panicked message.
+
+"NO! NO LIQUOR! NO ALCOHOL! PLEASE OLIVIA NO!"
+
+The waitress, seeing his distress, took a respectful step back. Olivia's heart broke as she instantly understood the misunderstanding. She placed a gentle, steadying hand on his arm.
+
+"Whoa, whoa, hey, *mon ami*," she said, her voice a low, soothing murmur. "It's okay. Shhh. It's okay. It's not liquor. I promise you, there is no alcohol." She looked him directly in the eye, her expression full of sincerity. "'Liqueur' is just what we call soda in Québec. Soft drinks. That's all. It's just cola. I would never, *ever* order you alcohol. I promise."
+
+A wave of profound relief washed over Leo's face, followed by a flush of slight embarrassment. He took a shaky breath and gave her a small, trusting nod.
+
+"We're okay?" she whispered. He nodded again.
+
+Only then did Olivia turn back to the waitress, who was watching them with an expression of deep, compassionate understanding. "*Oui, quatre colas, s'il vous plaît,*" Olivia confirmed, her voice a little softer now. (Yes, four colas, please.)
+
+A few minutes later, four glass bottles of Laurentian Cola arrived, followed by the main event: a huge, steaming platter of poutine. It was a beautiful, delicious mess of crispy golden fries, glistening brown gravy, and glistening, half-melted cheese curds.
+
+Olivia demonstrated the technique, showing them how to get the perfect bite with a bit of everything. Stella, Luna, and Leo each took their first taste.
+
+The reaction was instantaneous and universal. It was salty, savory, rich, and cheesy all at once. The "squeak" of the fresh cheese curds was a new and delightful texture. Luna's eyes went wide. "Oh my god, Liv, this is amazing!"
+
+Leo, after his first bite, gave an enthusiastic thumbs-up and immediately went back for more. It was a moment of pure, delicious discovery.
+
+But the main courses were the true revelation. The waitress placed towering sandwiches of Montréal-style smoked meat in front of them. The hand-carved, pepper-crusted, impossibly tender brisket was piled high on thin slices of rye bread with a smear of yellow mustard.
+
+Olivia was right: Leo absolutely loved it. It was savory, smoky, and so tender it practically melted in his mouth. After his first bite, he looked at Olivia with an expression of pure bliss and gave a definitive thumbs-up. This was a flavor profile he had never experienced, and it was perfect. The joy on his face was a powerful, unspoken "thank you" to Olivia for introducing him to this new world.
+
+This meal was more than just dinner; it was a powerful and delicious preview. The experience was so positive, so full of new and wonderful flavors, that it planted a seed. For Stella, it was a logistical puzzle to solve for the future. For Luna, it was a new place to dream about. And for Leo, it was a tangible taste of the world Olivia came from.
+
+The main courses of Montréal smoked meat were just as incredible, but the poutine was the star of the show. In this tiny, unexpected pocket of Québec, in the heart of Washington, D.C., the fortress didn't just have a meal. They discovered new favorites and shared a piece of Olivia's home, a deeper, more authentic connection to the person who had become the unshakable pillar of their family.
+
+As the waitress returned to clear their plates, she asked with a warm smile, "*Avez-vous gardé de la place pour le dessert?*" (Did you save room for dessert?)
+
+Olivia laughed. "She wants to know if we saved room for dessert," she translated for the table. "And the answer is always yes, right?"
+
+There was a chorus of enthusiastic agreement.
+
+"Okay," Olivia said, scanning the dessert menu. "We have some classics here. There's *Pouding Chômeur*, which is 'poor man's pudding'—it's a simple white cake that makes its own maple caramel sauce as it bakes. And they have *Tarte au Sucre*, which is a sugar pie. It's basically like a pecan pie, but without the pecans. Pure maple and brown sugar goodness."
+
+"Sugar pie!" Luna said immediately. "I want that."
+
+"Me too," Stella agreed.
+
+Leo, a devoted fan of anything with maple, typed on his Quantum Communicator: "SUGAR PIE PLEASE."
+
+Olivia smiled at the waitress. "*Alors, on va prendre trois pointes de tarte au sucre, et un pouding chômeur pour moi, s'il vous plaît.*" (So, we'll take three slices of sugar pie, and a poor man's pudding for me, please.)
+
+The desserts were the perfect, sweet conclusion to their culinary adventure. The sugar pie was incredibly rich and sweet, and the Pouding Chômeur was warm, gooey, and comforting. They shared bites, their faces alight with the joy of new discoveries.
+
+This meal was more than just dinner; it was a powerful and delicious preview of a world Leo was just beginning to explore. The experience was so positive that it planted a seed. The unspoken thought hung in the air: one day, they would have to go to Québec themselves and experience all of this in its homeland. For now, they had this perfect, unexpected taste of it, a memory they would cherish long after they left the city.
+
+The desserts were the perfect, sweet conclusion to their culinary adventure. The sugar pie was incredibly rich, and the Pouding Chômeur was warm and comforting. They shared bites, their faces alight with the joy of new discoveries.
+
+As the last of the dessert was savored, Stella caught the waitress's eye and made the universal sign for the check. The waitress returned with the bill, and Olivia once again acted as the seamless translator between the two worlds. As Stella handed her the credit card to settle the bill, she took a small, brave breath, wanting to show her appreciation.
+
+She looked at the waitress and, with a careful, practiced concentration, stumbled through a new phrase, her American accent clumsy but her effort clear and sincere. "*C'était... parfait. Merci beaucoup.*" (It was... perfect. Thank you very much.)
+
+The waitress beamed, her eyes crinkling in a genuine, delighted smile, clearly touched by the earnest attempt.
+
+A few minutes later, they were all bundled back up in their raincoats, preparing to head back out into the night. They said their goodbyes to the friendly staff in a mix of English and newly learned French, their hearts and stomachs full.
+
+Stepping out of the warm, fragrant restaurant and back into the cool, misty rain of the D.C. night was a gentle return to reality. The streetlights glistened on the wet pavement, and the city felt quiet and peaceful. They made their way to the nearby District Rail station, a tired but happy fortress, ready to return to their hotel after a day of profound discoveries, both emotional and culinary.
+

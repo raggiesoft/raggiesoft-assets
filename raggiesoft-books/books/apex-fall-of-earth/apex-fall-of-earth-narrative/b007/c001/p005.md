@@ -1,0 +1,116 @@
+#  Part 5: The Interrogation – Tuesday, May 2, 2051 – 10:00 (Standard Galactic Time)
+
+The pneumatic elevator hummed a low, steady note as it carried Wyatt and Sarah Colton down to Sub-Level 5.
+
+Before they had left the residential wing, Wyatt had laid down the absolute law. He had knelt in front of his five-and-a-half-year-old commanding officer, looked Ellie dead in the eyes, and firmly stated that the basement was strictly off-limits. This was an adults-only operation. The Vanguard was to remain in the living room, keep the perimeter secure, and entertain sixteen-month-old Jack. Ellie had given a sharp, obedient nod.
+
+Wyatt should have known better.
+
+As the elevator dropped, up in the living room, Ellie immediately marched over to the localized intercom panel on the wall. She didn't have administrative clearance to open restricted doors, but the communication lines were a different story. She dragged a heavy wooden stool over, climbed up, and tapped the glowing green 'All-Call' icon, linking the residential speakers directly to the Sub-Level 5 audio feed.
+
+She hopped down, gesturing for Nora, Leo, and little Jack to gather around the speaker. The ringleader had secured the intel.
+
+Down in the holding block, the elevator doors parted. Wyatt and Sarah stepped out into the brilliantly lit, sterile corridor. They walked up to Cell 1.
+
+The holding cell was fully compliant with the ancient Earth laws Wyatt had cited. It was clean, warm, and equipped with a comfortable cot and a sanitary unit. The front wall was a solid, transparent pane of impenetrable hard-light energy.
+
+Sitting on the edge of the cot was High Director Kael.
+
+His shattered left arm had been perfectly set and stabilized in a high-tech medical splint by the automated Sentinel drones. His burns were treated, and a tray of synthesized, high-density rations sat untouched on a small table.
+
+Kael looked up as the heavy blast doors to the corridor opened. He expected to see a rival corporate CEO, or perhaps a heavily armed mercenary warlord who had somehow outmaneuvered his fleet.
+
+Instead, a massive, heavily scarred man in canvas work pants and a woman in a soft denim jacket stepped up to the hard-light barrier.
+
+Kael’s sharp, angular face froze. His calculating mind rapidly processed their faces against the massive, galaxy-wide bounties he had issued six years ago. He recognized the broad shoulders, the dark beard, and the fierce, unyielding eyes.
+
+"Contractor Colton," Kael whispered, the words tasting like ash in his mouth. He looked at the woman standing beside him, recognizing the face that belonged to a missing Helios Geoscience file. "Contractor Hayes."
+
+"It's Mrs. Colton now," Sarah corrected, her voice echoing coldly in the holding block.
+
+Kael slowly stood up, cradling his splinted arm. His imperial pride, already fractured by the destruction of the *Tartarus*, completely shattered. He had been outplayed, outgunned, and swatted out of the sky by a minimum-wage S.H.O.P. Marine and an acquisition transfer.
+
+"This is impossible," Kael hissed, stepping up to the energy barrier. "You are grunts. You held a flashlight in Sector 4. How did you build a planetary defense grid?"
+
+"I'm a mechanic, Kael," Wyatt rumbled, resting his heavy hands on his belt. "You’d be amazed what a grunt can build when you don't micromanage his tool-kit. But we aren't here to talk about my engineering. We have some questions for you."
+
+Before Wyatt could ask his first question, his S.H.O.P. Marine situational awareness caught a tiny, blinking green LED on the corner of the cell’s intercom unit.
+
+Wyatt paused. He narrowed his eyes, recognizing the active two-way audio feed bridging directly to the residential living room.
+
+A slow, deeply amused smirk crossed his face. *Nice try, El.*
+
+Wyatt reached out, tapping a command into his wrist-mounted comm-link. "Aria. Sever the residential audio link. Keep the Vanguard off the comms."
+
+The green LED instantly went dark. The kids had managed to hear exactly ten seconds of the conversation before the Administrator pulled the plug. There would be no graphic details of galactic war crimes broadcast into the nursery today.
+
+Wyatt turned his full, terrifying focus back to the Sovereign of Acheron.
+
+"First question," Sarah stepped forward, her dark eyes locking onto Kael with a fierce, unwavering intensity. She wasn't an eighteen-year-old rookie anymore; she was the mother of four, and she wanted answers about the very foundation of her family. "The Omni-Cycle blockers. The mandatory injections Apex forced on every female contractor before deployment. Why was my batch nothing but cheap saline?"
+
+Kael sneered, a remnant of his corporate arrogance flaring up. "You think I personally oversee the medical inventory of minimum-wage labor? The Board of Directors slashed the pharmaceutical budget in the third quarter of 2044 to maximize the profit margins of the Nevada excavation. Real synthetic blockers are expensive. Saline is virtually free. It was a calculated cost-saving measure. If a few contractors bred, they would just be terminated for breach of contract anyway."
+
+Sarah stared at him. The sheer, ruthless cruelty of the corporate math was staggering. They had risked the lives and bodies of thousands of women just to boost a quarterly stock price.
+
+She looked at Wyatt, the final piece of the timeline locking flawlessly into place. She had suspected it when Aria first diagnosed the triplet pregnancy, but hearing the dictator confirm the exact third-quarter budget cut cemented it.
+
+"The second night," Sarah murmured, a profound realization washing over her as she looked at her husband. "Our first night in the abandoned break room. The blocker was already entirely useless."
+
+Wyatt nodded slowly, his jaw tightening as he looked back at Kael. The corporation's greed had inadvertently given them Ellie, Nora, and Leo.
+
+"Second question," Wyatt demanded, his voice dropping into a lethal register. "Earth. When we were patrolling Sector 4, the deep-core drills hit something biological. Something that bled. What the hell did you wake up down there, Kael? Why did you crack the mantle?"
+
+Kael’s expression darkened. The arrogant sneer vanished, replaced by a shadow of genuine, lingering terror.
+
+"It wasn't a localized hazard," Kael answered, his voice dropping. "It was an apex-level subterranean hive-mind. It had been dormant in the crust for millions of years. Our deep-core drills pierced its primary gestation chamber. We didn't want to wake it up, Colton. We just wanted the massive palladium deposits sitting directly beneath it."
+
+"So you dropped a tungsten rod from orbit," Wyatt concluded, his hands balling into massive fists. "You tried to vaporize it to protect your mining rights."
+
+"We tried to sterilize the site!" Kael snapped defensively. "If the Global Defense Coalition found out we had disturbed a planetary-scale biological weapon, they would have revoked our contracts and seized our assets! We initiated a localized kinetic strike to bury the hive. We didn't calculate that the impact would fracture the tectonic plates and trigger the Yellowstone caldera. It was a... an acceptable risk that exceeded mathematical tolerances."
+
+Sarah shook her head in sheer disgust. "You burned the cradle of humanity to dust to protect your profit margins."
+
+"We survived," Kael shot back, lifting his chin. "Apex always survives. The Earth Remnant is nothing but a fleet of homeless refugees. Acheron remains strong."
+
+"Are they?" Wyatt asked, stepping right up to the hard-light barrier, towering over the dictator. "If Acheron is so strong, High Director, why are you out here? Why are you personally flying a flagship in the uncharted outer arms, desperate to reclaim an obsolete listening post?"
+
+Kael hesitated, his eyes darting away for a fraction of a second. It was all the confirmation Wyatt needed.
+
+"You're losing," Wyatt stated, a grim, triumphant satisfaction settling into his chest. "The Earth Remnant isn't just a refugee fleet. They're a sovereign coalition, and they are actively hunting you down. They've pushed you to the absolute fringes of the galaxy. You came to Exoplanet 4 because you are desperate for off-grid resources to rebuild your armada."
+
+Kael didn't answer. His silence was a deafening confession. The Apex Megacorporation was crumbling under the relentless pursuit of the very people they had tried to exterminate.
+
+Wyatt stepped back, completely finished with the interrogation. He had the answers he needed.
+
+"What happens now, Colton?" Kael demanded, stepping up to the glass. "You possess a multi-billion-credit dreadnought and a fully armed planetary shield. Name your price. I can authorize a massive transfer of untraceable credits to any neutral account you wish. You can live like kings on any world in the inner core."
+
+"I already live like a king," Wyatt rumbled, wrapping his heavy arm securely around Sarah’s waist. He looked at the dictator with absolute, unshakeable pity. "And we don't use currency on Planet Eden."
+
+"Then what are you going to do with me?" Kael sneered, trying to mask his rising panic. "You quoted the Geneva Conventions. You claim you have rules. You can't execute a prisoner of war."
+
+"I'm not going to execute you, Kael," Wyatt said, a slow, predatory smile spreading across his scarred face. "As you pointed out, Apex Defense Solutions is a rogue state. We don't have the jurisdiction to put you on trial for the destruction of Earth."
+
+Sarah looked at Kael, her dark eyes flashing with fierce justice.
+
+"But the Earth Remnant does," Sarah finished smoothly. "They issued a galaxy-wide, Class-1 Tribunal Warrant for you and your executive board. They want you for crimes against humanity."
+
+The blood completely drained from High Director Kael's face. The Earth Remnant wouldn't offer him a clean death or a comfortable cell. They would put him in chains and broadcast his trial to the entire surviving human race.
+
+"You wouldn't," Kael breathed, stepping backward. He looked at the massive, scarred mechanic. "If you drop this shield to transport me to the Perseus Arm, my remaining loyalist fleets will intercept you! You have a family upstairs. You won't risk leaving your fortress to deliver me."
+
+Wyatt let out a low, booming laugh that echoed off the sterile walls.
+
+"You're absolutely right, Kael. I am not leaving my kids behind, and I'm certainly not packing them into a dreadnought to drag them through a warzone just for you," Wyatt agreed, crossing his arms over his chest. "Which is why I'm not delivering you."
+
+He looked up at the ceiling array.
+
+"Aria. Package the sensor logs of the *Tartarus*'s destruction, along with High Director Kael's verified biometric signature," Wyatt ordered, his voice ringing with absolute finality. "Transmit a narrow-beam, heavily encrypted burst directly to the nearest Earth Remnant staging ground. Tell the Global Defense Coalition we caught their bounty."
+
+*"Transmission compiled and sent, Administrator,"* Aria chimed perfectly. *"I have included our orbital coordinates."*
+
+Kael stumbled backward, hitting the edge of his cot as his knees gave out.
+
+"I'm not leaving my driveway, Kael," Wyatt smirked, looking down at the broken dictator. "I'm just going to open the shield gate exactly wide enough for an Earth Coalition prison transport to land. They're coming to pick you up."
+
+As the heavy blast doors slid shut, sealing the terrified dictator inside, Wyatt and Sarah turned away. The ghosts of the Nevada Test and Training Range were finally, permanently laid to rest. The Colton family didn't even have to lift a finger to watch the Apex empire fall.
+

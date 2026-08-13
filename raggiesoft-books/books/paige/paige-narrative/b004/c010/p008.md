@@ -1,0 +1,38 @@
+# Part 8: Division of Labor
+
+## Sunday, June 20, 2004 — 09:30 AM 105 Pepper Street SE
+
+The breakfast dishes were cleared. The sun was climbing higher, heating up the vinyl siding of the house. Inside, the air conditioner hummed its steady, protective note.
+
+In the entryway, Jessica was putting on her boots. Aunt Linda stood by the door with her purse, checking her shopping list.
+
+"Okay, listen up," Jessica announced, addressing the troops in the living room. "Linda and I are initiating Operation: Sugar Rush. We are going to hit the grocery store and the party supply shop. We have to prep for the twin’s 15th tomorrow."
+
+"We need candles," Jenna shouted from the floor. "Fifteen of them. Don't skimp."
+
+"Noted," Jessica said. She looked at Freddie.
+
+He was sitting on the beige sofa. Paige was right next to him, her arm looped through his, her leg pressed against his thigh. She hadn't moved more than six inches from him since he woke up.
+
+"Paige," Jessica asked, though she already knew the answer. "Do you want to come? We could use help carrying the soda."
+
+"Negative," Paige said instantly. She tightened her grip on Freddie’s arm. "I am remaining at Base. The Captain needs a co-pilot."
+
+Jessica nodded. She saw the look in Paige’s eyes—a hard, defensive glint. The Vanessa incident had rattled the cage. Paige wasn't just being affectionate; she was standing guard. She was the firewall, and she wasn't leaving the server unattended.
+
+"Understood," Jessica said. "You have the con. Don't burn the house down."
+
+"We will maintain status quo," Freddie promised.
+
+"Now, for the rest of you," Jessica pointed to the younger sisters. "We have a logistics issue. Five girls, three days of travel clothes, and one weekend. We have a mountain of laundry."
+
+Sarah sighed, pushing her glasses up her nose. "The Clothing Mountain."
+
+"Exactly," Jessica said. "Sarah, Jenna, Harper. You are the Laundry Brigade. The machines are in the Underworld. Detergent is on the shelf. I want everything washed, dried, and folded by the time we get back."
+
+"What about Amanda and Elara?" Jenna protested.
+
+"They are nine," Jessica said. "They are assigned to Cuddle Duty. They help Freddie regulate. Now, move out."
+
+Jessica and Linda walked out the door. The lock clicked shut.
+

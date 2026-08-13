@@ -1,0 +1,190 @@
+# Part 2: The Certification
+
+## Date: July 20, 2002 (Saturday) Time: 8:45 AM Location: American Red Cross, Virginia Beach Chapter
+
+The classroom smelled of rubbing alcohol and rubber.
+
+It was a windowless training room on Virginia Beach Boulevard, filled with rows of tables and a collection of "Resusci Anne" torsos scattered on the grey carpet.
+
+Patrick sat in the front row. He looked out of place.
+
+To his left was a group of four bored teenagers getting certified for summer lifeguard jobs. To his right was a nervous young couple expecting their first child. In the back were three construction foremen who were clearly there because HR made them come.
+
+The instructor, a retired Fire Captain named Mr. Miller, walked to the front. He looked like a man who had kicked down a lot of doors in his life. He slapped a clipboard onto the podium.
+
+"Alright," Miller barked. "Welcome to Adult and Pediatric First Aid, CPR, and AED. I’m Miller. I spent twenty-five years on the engine. I’ve seen what happens when people know this stuff, and I’ve seen what happens when they don’t."
+
+He scanned the room. He lingered on the lifeguards who were texting under the table. Then his eyes landed on Patrick. The kid was staring at him like he was delivering a mission briefing.
+
+"You," Miller pointed at Patrick. "You look a little young for the 'Corporate Safety Officer' role. Lifeguarding?"
+
+"No, sir," Patrick said. His voice didn't crack.
+
+"Babysitting?"
+
+"Primary caregiver," Patrick corrected. "For a high-needs adult. My twin sister."
+
+The room went quiet. The lifeguards looked up from their phones.
+
+Miller raised an eyebrow. "Family?"
+
+"She has Cerebral Palsy and airway risks," Patrick said simply. "She relies on me for transfers and feeding. If she chokes, I'm the only one there."
+
+Miller nodded slowly. The skepticism vanished from his eyes. "Okay. Then listen up. Because for some of you, this is a merit badge. For him, it's Tuesday."
+
+## The Compressions
+
+Two hours later, the tables were pushed back. The room was a sea of kneeling students.
+
+"Knees shoulder-width apart!" Miller yelled, walking the lines like a drill sergeant. "Interlock your fingers! Lock your elbows! You are not massaging the heart; you are *becoming* the heart."
+
+Patrick was kneeling over the plastic torso of "Resusci Anne." He wasn't just going through the motions. In his mind, the plastic skin wasn't plastic. It was Nichole.
+
+"And... push!"
+
+*Click-clack. Click-clack.* The mannequin's chest clicked with every compression, indicating proper depth.
+
+"Harder!" Miller corrected the nervous dad-to-be next to Patrick. "You're dusting him off! Break the ribs if you have to! Circulate the blood!"
+
+Patrick drove his weight down. *One-and-two-and-three-and-four.*
+
+He was sweating. His triceps burned. But he kept the rhythm perfect. 100 beats per minute. *Stayin' Alive.*
+
+He wasn't panicked. He was angry. He was attacking the problem.
+
+"Time!" Miller called out.
+
+The lifeguards collapsed back on their heels, laughing and shaking out their wrists. "Man, that's a workout."
+
+Patrick didn't laugh. He stayed in position, checking the airway again.
+
+Miller stopped in front of him. "Good rhythm, Bennett. You got good recoil. You let the chest expand all the way back up."
+
+"My dad said if I don't hear the click, she's dead," Patrick said, wiping sweat from his forehead.
+
+"Your dad is right," Miller said. "Most people are too polite. Death isn't polite. You have to be meaner than the Reaper."
+
+## The Airway (The Feeding Protocol)
+
+They moved on to Choking and Airway Obstructions.
+
+"Universal sign for choking," Miller said, clutching his own throat. "Hands at the neck. No sound. If they can cough, let them cough. If they go silent, you go to work."
+
+He looked at Patrick. "You mentioned feeding issues earlier. She aspirates?"
+
+Patrick nodded. "She feeds herself ninety percent of the time. But if her spasticity is high, or she's tired, the coordination goes. She can't manage the fork, and her swallow reflex gets delayed. That's the danger zone. I have to step in and pace her."
+
+Miller nodded, appreciating the nuance. "So you're managing a 'dysphagia' patient. That changes the game. If she chokes in the chair, you can't spin her around for a standard Heimlich, can you?"
+
+"No," Patrick said. "She's strapped in. Chest harness, hip belt."
+
+"Exactly," Miller addressed the class. "You can't do standing abdominal thrusts on a wheelchair user who is strapped down. You have to modify."
+
+Miller grabbed a chair. He sat in it.
+
+"You lean them forward," Miller demonstrated. "Gravity is your friend. You work from the side or the front if you have to, using chest thrusts if the abdomen is compressed by the chair. You clear the mouth with a finger sweep *only* if you see the object."
+
+Patrick took notes furiously. This was the nightmare scenario: Sunday dinner, a piece of steak, a bad spasm, silence.
+
+## The 911 Drill (The Stumble)
+
+After lunch, they moved to "Scene Management."
+
+"Okay," Miller said, pacing the room. "Everyone focuses on the chest compressions. But the compressions don't save the patient; the ambulance does. You are just the bridge. If you can't get the ambulance there, you're just exercising over a corpse."
+
+He pointed to the whiteboard. 1. LOCATION 2. NATURE OF EMERGENCY 3. PATIENT STATUS 4. SCENE SAFETY
+
+He pointed to one of the lifeguards. "You. Go. Someone is drowning."
+
+The teenager picked up the dummy phone, shrugging. "Yo, 911? Yeah, we're at the pool at the rec center. Dude is under the water."
+
+"Which rec center?" Miller pressed. "There are six in Virginia Beach. Are you at Great Neck? Bayside? Fairlawn?"
+
+"Uh... Fairlawn?"
+
+"Indoor or outdoor pool?" Miller trapped him.
+
+"Outdoor?"
+
+"Wrong," Miller snapped. "Fairlawn doesn't *have* an outdoor pool. Dispatch is now confused. They are sending police to check the parking lot while your guy drowns inside. You just killed him."
+
+## The 911 Drill (The Machine)
+
+Miller looked at Patrick.
+
+"Bennett," Miller said. "Show them how it's done. Scenario: Sunday dinner. Sister chokes. Go."
+
+Patrick picked up the phone. He stared at the wall, visualizing the kitchen at 1850 Delaney.
+
+"Medical Emergency," Patrick said. His voice was flat, loud, and commanding.
+
+"Go ahead," Miller said.
+
+"Location is 1850 Delaney Street," Patrick recited. "Corner of Delaney and Morrison. White house, blue shutters."
+
+Miller nodded. *Cross-street. Good.* "Nature of emergency?"
+
+"Seventeen-year-old female, wheelchair user," Patrick rattled off, shifting into the bullet-point cadence his mother had drilled into him. "History of Cerebral Palsy and Autism. Patient is non-verbal. Family is on scene and can interpret for responders. Current status: Complete airway obstruction. Heimlich ineffective. Patient is turning cyanotic."
+
+Miller raised an eyebrow. He flagged the neuro-status immediately. "Resources on the way," Miller said. "Stay on the line."
+
+Patrick wasn't done. He added the safety protocol.
+
+"Front door is unlocked," Patrick said firmly. "I have two dogs—Black Labs named Baby and Archie. They are secured in the back room. Baby is the size of a Great Dane, but he is friendly. Scene is safe for entry."
+
+Miller lowered the phone. He stared at Patrick.
+
+"The dogs?" Miller asked, breaking character.
+
+"Archie is average," Patrick explained. "But Baby is a hundred pounds. He looks scary if you don't know him. My mom said to always tell Dispatch the dogs are secured so the paramedics don't hesitate at the door."
+
+Miller was silent for a moment. He looked at the dummy phone, then back at Patrick.
+
+"You... you nailed that," Miller said, shaking his head slightly. "First try. No 'ums,' no 'uhs,' no panic. Most people freeze up their first time on the hot seat. You sounded like a twenty-year veteran."
+
+Miller turned to the class, his face serious.
+
+"Did you guys catch the details in that history?" Miller asked the room. "He didn't just tell me she was choking. He gave me the magic words: 'Cerebral Palsy, Airway Obstruction, Cyanotic.' Do you know what that does?"
+
+The lifeguards shook their heads.
+
+"That upgrades the call," Miller explained. "If you just say 'choking,' you might get a Basic Life Support (BLS) truck with EMTs. But Bennett just told me the Heimlich failed. That means the obstruction is wedged deep. A basic crew can't fix that."
+
+He walked over to the whiteboard and wrote ALS = INTUBATION.
+
+"Because of his details, Dispatch is sending an Advanced Life Support unit with a Paramedic," Miller said, tapping the board hard. "They carry laryngoscopes. They can intubate. They can paralyze the throat muscles to get the food out. In this scenario, his sister *needs* a tube to breathe."
+
+He looked back at Patrick, his expression grim but approving.
+
+"If you had just said 'help, she's choking,' we might have sent the wrong team. And by the time the Paramedics arrived to back them up, she'd be gone."
+
+Miller nodded at Patrick.
+
+"That was a professional Handover, Bennett. You didn't just call for help. You diagnosed the resource she needed. That is how you save a life."
+
+## The Final Exam
+
+At 4:30 PM, Patrick walked out of the building. He had a crisp card in his wallet: Red Cross Certified - Adult/Pediatric CPR/AED/First Aid.
+
+Miller was smoking a cigarette by the back door. He nodded as Patrick walked to his van.
+
+"Hey, Bennett," Miller called out.
+
+Patrick stopped. "Sir?"
+
+"You're going to college with her?" Miller asked. He had picked up the details during the breaks.
+
+"Yes, sir. Next year."
+
+"Don't be a hero," Miller advised, flicking the ash. "If she goes down, you call 911 *first*. Then you work. Don't try to solo it just because you love her. You get the cavalry coming."
+
+"Copy that," Patrick said. "Call first. Lock up Baby and Archie. Then compressions."
+
+"You're a good brother," Miller said. "She's lucky."
+
+Patrick shook his head, unlocking the van door. "I'm the lucky one. She's the brains. I'm just the hardware."
+
+He got into the driver's seat. He placed the certification card in the center console, right next to the VocaLink travel charger.
+
+Another system upgrade complete. The Machine was now rated for emergency operations.
+

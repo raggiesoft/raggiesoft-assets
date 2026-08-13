@@ -96,7 +96,28 @@ elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
 fi
 
 if [ "$USE_UPSCALER" = true ]; then
-    echo "   ✅ HARPER: Upscaler loaded: $UPSCALER_CMD"
+    # --- HARPER HARDWARE DETECT: Dynamic GPU Capability Check ---
+    if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+        # Ask Windows for the GPU name using PowerShell (stripping carriage returns)
+        GPU_NAME=$(powershell -NoProfile -Command "(Get-CimInstance -ClassName Win32_VideoController).Name" | head -n 1 | tr -d '\r')
+        
+        # Disable if known integrated graphics lacking dedicated VRAM are detected
+        if [[ "$GPU_NAME" == *"AMD Radeon(TM) Graphics"* || "$GPU_NAME" == *"Intel"*"Graphics"* ]]; then
+            echo "   ⚠️  HARPER: Integrated GPU detected ($GPU_NAME). Engaging iGPU Safe Mode (Throttled Tile Size)."
+            IGPU_SAFE_MODE="-g -1"
+        else
+            echo "   ✅ HARPER: Upscaler loaded for Windows GPU: $GPU_NAME"
+            IGPU_SAFE_MODE=""
+        fi
+        
+    elif [[ "$OSTYPE" == "darwin"* ]]; then
+        # Ask macOS for the chip name (M1/M2/M3 handle Vulkan compute beautifully via MoltenVK)
+        MAC_CHIP=$(sysctl -n machdep.cpu.brand_string | tr -d '\n')
+        echo "   ✅ HARPER: Upscaler loaded for macOS: $MAC_CHIP"
+        
+    else
+        echo "   ✅ HARPER: Upscaler loaded: $UPSCALER_CMD"
+    fi
 else
     echo "   ⚠️  HARPER: Upscaler missing from $UPSCALER_BASE. Skipping art enhancement."
 fi
@@ -199,10 +220,12 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 WIN_IN=$(cygpath -w "$(pwd)/$RAW_ART")
                 WIN_OUT=$(cygpath -w "$(pwd)/$UPSCALED_ART")
                 WIN_MODELS=$(cygpath -w "$(dirname "$UPSCALER_CMD")/models")
-                "$UPSCALER_CMD" -i "$WIN_IN" -o "$WIN_OUT" -m "$WIN_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
+                "$UPSCALER_CMD" -i "$WIN_IN" -o "$WIN_OUT" -m "$WIN_MODELS" -n "$MODEL_NAME" -s 4 -f jpg $IGPU_SAFE_MODE
             else
+                UNIX_IN="$(pwd)/$RAW_ART"
+                UNIX_OUT="$(pwd)/$UPSCALED_ART"
                 UNIX_MODELS="$(dirname "$UPSCALER_CMD")/models"
-                "$UPSCALER_CMD" -i "$RAW_ART" -o "$UPSCALED_ART" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
+                "$UPSCALER_CMD" -i "$UNIX_IN" -o "$UNIX_OUT" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
             fi
             
             echo "      ✅ HARPER: Artwork successfully upscaled to /streaming-services/album-art/"
@@ -386,48 +409,42 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         METADATA_MD="streaming-services/song-metadata/${FILE_BASE}.md"
 
         if [ ! -f "$METADATA_MD" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 📋 Drafting DDEX Metadata sheet..."
+            echo "         -> 📋 Drafting DistroKid-Optimized Metadata sheet..."
             cat <<EOF > "$METADATA_MD"
-# $TITLE - Distribution Metadata
+# $TITLE - DistroKid Quick-Copy Sheet
 
-## Core Track Information
+## 1. DistroKid Upload Form Data
 * **Track Title:** $TITLE
+* **Primary Artist:** $ALBUM_ARTIST
+* **Genre:** $GENRE
+* **Real-World DSP Release Date:** $REAL_RELEASE_DATE
+
+**DistroKid AI Credits Questionnaire:**
+* **Did AI generate any part of this track?** Yes
+* **Which parts?**
+  * [ ] **The lyrics** *(Leave blank - Human authored)*
+  * [x] **The music** *(AI composed the melody/arrangement)*
+  * [x] **All of the audio** *(Everything the listener hears is AI-generated)*
+* **Artist Identity:** AI Persona
+
+## 2. DistroKid Credits Dashboard (distrokid.com/credits)
+*DistroKid requires a real human name for all songwriter credits.*
+* **Songwriter (Required):** Michael P. Ragsdale
+* **Songwriter Role:** Lyricist
+* **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
+
+## 3. Internal Catalog Information
 * **Engine Room ID:** $ERR_ID
 * **ISRC:** $ISRC_CODE
 * **Album UPC / GTIN-12:** ${ALBUM_UPC:-None}
 * **Track Length:** $RUNTIME
-* **Album / Release Title:** $ALBUM_NAME
-* **Release Type:** $ALBUM_RELEASE
-* **Production Type:** $ALBUM_PRODUCTION
-* **Disc Number:** $DISC_NUM
-* **Track Number:** $TRACK_NUM
-* **Primary Artist (Release Persona):** $ALBUM_ARTIST
-* **Real-World / Legal Artist:** Michael P. Ragsdale
-* **Genre:** $GENRE
-* **Explicit Content:** No (Clean)
-* **Vocal Language:** English (EN-US)
 * **Fictional Narrative Release Date:** $NARRATIVE_DATE
-* **Real-World DSP Release Date:** $REAL_RELEASE_DATE
-* **Generated On:** $CURRENT_DATETIME
 * **Master File Located At:** ../../vault/wav/${FILE_BASE}.wav
 
-## Distribution & AI Disclosure Notes
-
-**1. Rights & Clearances**
-* **Commercial Rights:** 100% cleared. Generated using a commercial-tier Suno Premium subscription.
-* **Copyright Ownership:** The underlying narrative, lyrics, and the '$ALBUM_ARTIST' persona are Copyright Michael P. Ragsdale. While freely distributed under CC BY-SA 4.0 on RaggieSoft.com, full commercial rights are retained and authorized for this specific distribution.
-* **Impersonation/Voice Cloning:** NONE. All vocals are entirely synthetic and do not clone, mimic, or impersonate any real-world artist or person.
-
-**2. Creative Process & Human Contribution**
-* This track is a human-directed production.
-* **Human/Author Contribution:** Original narrative concept, thematic direction, lyric writing, and persona creation.
-* **AI Assistance (Gemini):** Lyric refinement and style prompting.
-* **AI Generation (Suno):** AI-assisted instrumentation, composition, and vocal generation.
-
-**3. Suggested DDEX Credits (For Spotify/Apple Music)**
-* Lyrics: Human
-* Instrumentation/Music: AI-Generated
-* Vocals: AI-Generated
+## 4. Rights & Clearances
+* **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.
+* **Copyright:** CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft.
+* **Impersonation:** NONE. Synthetic vocals only.
 EOF
         else
             echo "         ⏭️  DSP Metadata sheet already exists! Fast-forwarding."

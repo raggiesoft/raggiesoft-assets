@@ -1,0 +1,30 @@
+# Part 5: A Room with a View (of Three Rivers)
+
+The Three Rivers Transit Authority (3RTA) bus dropped them off directly in front of their hotel for the next few days: The Three Rivers Grand Hotel. It was a beautiful, historic building in the heart of downtown, fancy without being overly stuffy—another perfect 4-star pick by Stella.
+
+The check-in process was smooth. The bellhop who helped them with their bags, a friendly older man with a thick local accent, smiled warmly. "Yinz new to Pittsburgh?" he asked as he led them to the elevator. "Welcome. Hope you enjoy the city."
+
+Their room was spacious and comfortable, with a large window overlooking the confluence of the rivers. Just as Stella had requested, it featured two queen beds and a fully accessible bathroom. This one was different from the D.C. hotel; instead of a roll-in shower, it had a large bathtub equipped with heavy-duty grab bars and a built-in transfer bench, another type of accessible setup that Stella wanted Leo to be comfortable with.
+
+The sleeping arrangements were now their established routine: Stella and Luna took one bed, while Olivia and Leo took the other. They were all tired from the long day of travel, the excitement of the mountains giving way to a comfortable, road-weary exhaustion.
+
+They didn't make plans for the evening. The goal was simply to rest, order some room service, and recharge. As the city lights began to sparkle on the three rivers below their window, the fortress settled in for a quiet night. They had conquered another leg of their journey, another new city, and were safe and sound together, ready for whatever adventures the Steel City had in store for them tomorrow.
+
+The Three Rivers Grand Hotel was a welcome sanctuary after the long day of travel. Their room was spacious and comfortable, with a large window overlooking the confluence of the rivers, now a glittering tapestry of city lights. But as they settled in for the night, a profound and desperate sadness washed over Leo.
+
+He looked out the window at the unfamiliar skyline of Pittsburgh, and the reality of their journey hit him with a fresh wave of grief. Washington, D.C. had been a thrilling first stop, but this new city, Pittsburgh, was another marker on the long, inexorable path leading west. Each new city meant they were closer to Seattle. Closer to the goodbye. The thought was a physical ache in his chest, a knot of pure panic.
+
+He felt the familiar, terrifying prelude to a meltdown—a tightness in his chest, a buzzing in his ears. He was hurting. He was upset. And he was profoundly scared of 'Goodbye Olivia.' He needed his fortress. All of it. Now.
+
+He turned away from the window, his expression one of raw, heartbreaking urgency. He looked at the two queen beds, then at the three women he trusted with his life. He didn't use his device. His wide, pleading eyes said everything. He pointed to one bed, then held up four fingers, his expression a silent, desperate plea.
+
+Luna and Olivia, who were getting ready to take their usual bed with him, froze. They understood. Stella, who was just about to get into her own bed, understood too. Tonight, the usual arrangement wasn't enough.
+
+"He wants us all together," Stella whispered, her heart breaking for him.
+
+There was no hesitation. There was no discussion about comfort or practicality. His need was absolute. Without a word, the three women moved to the same queen bed. It was a ridiculous, impossible squeeze. They lay sideways across the mattress, a tangle of limbs and shared pillows, a human raft in the middle of a vast ocean of a hotel room.
+
+Stella was on one edge, Luna on the other. And in the middle, Leo was completely and utterly enveloped, Olivia's arms wrapped around him from behind, his head tucked under her chin. It was uncomfortable. It was cramped. And it was the safest he had felt since the trip began.
+
+The fear of the journey, the ache of the impending separation, was still there, but it couldn't touch him here. For tonight, the fortress had pulled its walls in so tight that nothing could get through. Surrounded on all sides by the physical, tangible love of his entire world, he finally, mercifully, drifted off to sleep.
+

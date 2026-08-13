@@ -1,0 +1,38 @@
+# Part 14: The Journey Home Begins
+
+The hours passed in a quiet, healing blur. After a second, simple meal and another necessary trip to the family restroom, Olivia saw the time on her phone. It was just after noon.
+
+"Okay," she said softly, gently rousing Leo from another light doze. "It's time. Let's go get us on that plane."
+
+They made their way to Gate B12, which was now a chaotic hub of holiday travelers. Olivia, now pushing Leo's manual wheelchair, navigated them to the desk, where she checked in with the gate agent.
+
+"Hi," she said, presenting their boarding passes. "We're here for pre-boarding for Flight 1138. Leo Porter will need to gate-check his wheelchair and will need an aisle chair to board."
+
+"Of course," the agent said, her eyes kind as she looked at Leo. She placed a large, brightly colored tag on the back of his wheelchair. "This will ensure your chair is brought up to the jet bridge for you in Chicago. We have an aisle chair right here for you."
+
+A few minutes later, the call they'd been waiting for echoed through the terminal: "We would now like to begin pre-boarding for Gateway Airlines Flight 1138 to Chicago-Midway, for any families with small children and passengers requiring special assistance."
+
+"That's us," Olivia said with a reassuring smile.
+
+They were the first ones down the jet bridge. At the open door of the aircraft, Olivia helped Leo transfer from his own chair into the narrow, specialized aisle chair. As the ground crew carefully took his manual chair away to be stowed in the cargo hold, a flight attendant greeted them.
+
+"Good afternoon! Welcome aboard," she said warmly. "You can take any open seats you like. The bulkhead row up front has the most legroom if you'd like."
+
+Olivia smiled politely but shook her head. "Thank you, that's very thoughtful," she said. "But could we actually take the second row? He'll need to use the tray table for my laptop and his meal, and I know the bulkhead seats don't have them on this plane."
+
+The flight attendant, impressed by her specific knowledge, nodded. "Of course, not a problem at all. Second row it is."
+
+Olivia gently guided the aisle chair to the second row. Before helping Leo transfer, she looked at the three empty seats. "Leo," she said softly, her voice full of a sudden, tender warmth. "Which one do you want?"
+
+He looked at her, a little confused by the question.
+
+"You should take the window," she said, her smile soft and genuine. "It's your first time flying. You should get to see everything."
+
+A small, grateful smile touched Leo's lips. He nodded. Olivia helped him transfer into the window seat, then took the middle seat beside him, leaving the aisle seat open for now. As the ground crew came to retrieve the aisle chair, and before the main boarding process began, Olivia got the attention of the lead flight attendant.
+
+"Hi," she began, her voice low and clear. "I just wanted to let you know before we get busy. My friend Leo, here, is non-verbal and autistic. His main communication device was destroyed, so he's using my laptop for now. We know all electronics have to be turned off for takeoff and landing, and he'll be completely without a voice during that time. He also can't write legibly because of his Cerebral Palsy. If he needs something, he'll likely tap my arm or make a sound to get my attention. I can interpret for him, but I just wanted you to be aware so there's no confusion or alarm."
+
+The flight attendant's expression was one of pure, professional compassion. "Thank you so much for letting us know," she said sincerely. "That is incredibly helpful. Please don't hesitate to use the call button if either of you need anything at all. We'll take good care of him."
+
+With that, the final piece of the plan was in place. Olivia settled back into her seat and took Leo's hand, giving it a firm, triumphant squeeze. They were on the plane. They were safe. And for the first time in what felt like a lifetime, Leo could look out the window at a new and hopeful horizon, knowing his best friend had thought of everything.
+

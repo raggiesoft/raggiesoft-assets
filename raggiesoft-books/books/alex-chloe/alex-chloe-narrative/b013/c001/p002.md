@@ -1,0 +1,74 @@
+# Part 2: La Taverne des Voyageurs (2010)
+
+The atmosphere inside "La Taverne des Voyageurs" in downtown Montréal was a living thing—a roaring, pulsating beast of pure hockey fervor. The air was thick with the smell of beer and poutine, and every square inch of space was occupied by a passionate fan draped in the red and white of Canada.
+
+At a large corner booth—one of the best in the house, a reservation Uncle David had managed to snag—Chloé Miller was in her absolute element, screaming encouragement in flawless, rapid-fire Québécois French along with the rest of the bar.
+
+Beside her, Alex Miller and his cousin, Megan Carter, were a quiet, brave, two-person island of red, white, and blue. They both wore American jerseys and matching beanies. Alex had maneuvered his Quantum Glide XT to the head of the large corner booth, with Megan at his side, making them equal participants in the bustling family group. They had already endured a dozen good-natured jeers from other patrons, all of which they’d met with calm smiles and a shared, conspiratorial look.
+
+Chloé's hand rarely left Alex’s arm, a subtle but clear protective signal to the rest of the bar. Unaware that her uncle had already briefed the owner to ensure the two Americans were treated as welcome guests, her instinct was always to be their first line of defense: *They're with me. Be nice.*
+
+During a commercial break in the tense third period, with the Canadians clinging to a 2-1 lead, Alex and Megan exchanged a look. It was time. Alex typed on his AAC, the volume turned up high to be heard over the din. YOU KNOW, FOR SOMEONE BORN IN VERMONT, YOU'RE MAKING A LOT OF NOISE FOR THE WRONG TEAM.
+
+A nearby patron who overheard let out a shocked but amused laugh. Chloé threw her head back and laughed, then leaned in to shout her reply, not just to Alex and Megan, but to everyone at their table, entirely in passionate Québécois French.
+
+"*C'était un heureux accident, et vous le savez très bien!*" she retorted, her eyes sparkling. "*Je suis née au Vermont seulement parce que j'étais trop impatiente!*" (Translation for the reader: "That was a happy accident, and you know it very well! I was only born in Vermont because I was too impatient!")
+
+She then turned her gaze to Alex, her smile softening with deep affection as she added, "*Il fallait bien que je partage mon anniversaire avec mon meilleur ami, non?*" (Translation for the reader: "It was necessary that I share my birthday with my best friend, right?")
+
+Finally, she turned back to the surrounding patrons, her voice rising with pride. "*J'étais censée être une bonne petite Québécoise, née sur notre glace! Mon cœur est ici!*" (Translation for the reader: "I was supposed to be a good little Quebecer, born on our ice! My heart is here!")
+
+The man at the next table roared his approval, "*Bien dit, madame! Allez les Rouges!*" (Well said, ma'am! Go Reds!), and Chloé raised her glass in a toast. The friendly rivalry, and Chloé's unshakable allegiance, was now a matter of public record.
+
+The final minute of the game was agonizing. The entire bar was on its feet, a single, roaring organism. The Americans pulled their goalie. Then, with less than thirty seconds left, a scramble, a shot, a goal. The U.S. had tied the game.
+
+An absolute, profound, soul-crushing silence fell over the bar. A hundred cheers vanished into a single, collective groan. In that vacuum of sound, Alex and Megan, on pure instinct, threw their heads back and let out a sharp, shared cry of pure, unadulterated joy, punctuated by a loud, triumphant high-five across the table.
+
+Every head in the bar swiveled to stare at them. Alex and Megan both froze, realizing their dual celebration might not have been wise. Chloé just laughed, throwing a protective arm around Alex and giving Megan a look that said, "I've got your back, too."
+
+The entire bar was a single, tense entity, waiting for sudden-death overtime to begin. In the brief intermission, Chloé leaned over to the two hopeful Americans, a wicked glint in her hazel eyes. Speaking in loud, clear, and challenging Québécois French for the benefit of everyone around them, she made her proposition.
+
+"Bon, les Américains, le gros pari, là, maintenant," she said, her voice carrying over the din. "Si le Canada gagne... vous deux, vous enlevez vos chandails, pis vous mettez celui du gagnant pour le reste du voyage." (Okay, Americans, the big bet, right now. If Canada wins... you two, you take off your jerseys, and you put on the winner's for the rest of the trip.)
+
+She gestured to a bag under the table where Uncle David had stashed two brand new Canadian jerseys. A cheer of approval went up from the surrounding tables. Uncle David slammed his hand on their table in delighted agreement. The bet was now a public contract.
+
+Alex and Megan exchanged a look of pure, competitive fire. He grinned. YOU’RE ON, MASON, his device voiced.
+
+"Hope you like wearing stars and stripes, Chloé!" Megan added, her own voice full of a confident, teasing challenge.
+
+The game went to sudden-death overtime. The tension was now a religious fervor. Two minutes in, a Canadian forward streaked down the side, took a pass, and fired the "Golden Goal."
+
+The silence didn't just break; it exploded. The bar erupted into a single, deafening roar of pure, cathartic joy. Chloé was screaming, jumping, completely lost in the moment, hugging her aunt and uncle.
+
+Alex and Megan sat amidst the happy pandemonium, a disappointed but awestruck pair of witnesses. After the initial wave of celebration passed, Chloé pushed her way back through the jubilant crowd to their side, a triumphant, teasing smile on her face.
+
+"*Il est temps de payer, mes chers Américains!*" she yelled over the noise. (Time to pay up, my dear Americans!)
+
+Uncle David, roaring with laughter, pulled the two pristine Canadian jerseys from the bag and held them up like trophies. The patrons at the surrounding tables, realizing what was happening, began to cheer and chant a single, unified command: "*Mettez-le! Mettez-le! Mettez-le!*" (Put it on! Put it on! Put it on!)
+
+Alex and Megan exchanged a look of theatrical, shared defeat. With the entire section of the bar now watching them, they both reached up and slowly pulled off their American beanies, placing them on the table. Then, they pulled their American jerseys off over their heads, revealing simple grey undershirts.
+
+The crowd offered a smattering of mock-sympathetic "awws" followed by more cheers. Alex and Megan then took the proffered Canadian jerseys and, to a fresh wave of triumphant and good-natured applause, pulled them on.
+
+Chloé was laughing so hard tears streamed down her face as she quickly raised her phone to immortalize their dual "surrender." She leaned in for the picture, throwing an arm around a newly-Canadianized Alex. Beside them, Megan wore the slightly-too-large red and white jersey with a tight-lipped, pained smile—the universal expression of a person honoring a bet they deeply regretted making.
+
+After snapping the photo, Chloé finally lowered the phone and gave Alex a huge, triumphant hug. "It looks good on you," she said, her voice full of love for her defeated rival.
+
+TRAITOR, his device replied, but the synthesized voice couldn't hide the smile on his face.
+
+Megan just shook her head, a grin finally breaking through her pained expression. "Okay, you win this round, Mason," she conceded. "But just you wait until the Brawlers play the Voyageurs."
+
+The entire bar was a sea of celebration, but in that small corner booth, a family, a team, was having a moment of pure, uncomplicated joy.
+
+It was in that moment, surrounded by a hundred roaring, jeering, but ultimately harmless strangers, that a profound and life-altering realization struck Alex with the force of a physical blow. He though of high school, of the cold, genuine fear he felt when bullies like Josh Riley targeted him. That had been real hostility, a threat of actual harm. This... this was different. This was loud, it was mercilessly teasing, but it was completely, utterly safe.
+
+He was in the heart of "enemy territory," one of two dissenters in a temple of the opposition, and he was being protected. Chloé's hand on his arm, her family's presence, the owner's quiet word, and Megan's unwavering, laughing solidarity right beside him—it was an invisible, unbreakable shield.
+
+He looked at Chloé, at her laughing, triumphant face, and the last of the walls around his heart, the ones built by years of social anxiety and the deep, toxic trauma of Vera, simply crumbled. He had always loved Chloé, his best friend, his anchor. But this feeling, this profound sense of absolute safety that allowed him to be vulnerable, to be the "loser," to be teased without fear... it was more than just platonic love.
+
+He was in love with her. Romantically. Completely.
+
+The thought was so sudden, so powerful, it almost took his breath away. He glanced at Megan, who caught his eye and gave him a sympathetic, "we'll get 'em next time" grin. He knew, with an absolute certainty, that if he were to tell her, she would grant her approval instantly and unconditionally. But he wasn't ready to say it, not yet. Not even to her.
+
+For now, he just knew, with a certainty that settled deep in his soul, that his life's path had just become irrevocably clear.
+

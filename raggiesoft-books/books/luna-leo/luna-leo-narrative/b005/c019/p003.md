@@ -1,0 +1,34 @@
+# Part 3: Mary is Snubbed
+
+It happened during the chaotic rush between classes a week or so after "The Talk" and the corresponding Family Life unit at school. Leo was navigating his wheelchair through the crowded hallway, momentarily separated from Luna who had stopped quickly at her locker. Suddenly, a girl Leo recognized from his English class, Mary Jenkins, stepped directly in front of his chair, stopping him.
+
+"Hey, Leo," she said, her voice overly sweet. She leaned down conspiratorially, glancing around the bustling hall. "Listen, I know this place nobody ever goes. It's the big custodial closet down the science wing. Totally private." She smirked. "We could hang out there for a bit, you know?"
+
+Leo stared at her, confused at first, then alarmed as her implication sunk in. His mind flashed back instantly to Stella’s serious talk about consent, reinforced just days ago in health class: *'No' means no. If someone can't say yes clearly, it's not consent.* He didn't want to go anywhere with Mary, especially not a hidden closet. He felt a cold knot of panic form in his stomach. He needed to say no, but how? His AAC device was in his backpack hanging on the back of his chair, turned off to save the battery. Luna always understood his gestures, so he rarely needed it just for navigating hallways. Even if he could twist around to reach it (and he definitely didn't want to turn towards Mary right now), he knew he couldn't get it out, turned on, and type a message before she dragged him off somewhere.
+
+Mary, oblivious to his internal panic and mistaking his silence for agreement, chirped, "Cool," and grabbed the handles of his wheelchair. "Come on, before the bell rings."
+
+She started pushing him down the hallway, angling towards the less crowded science wing. Leo's panic surged. Trapped, unable to voice his refusal, he started shaking his head vigorously side-to-side, twisting slightly in his chair, trying desperately to convey his dissent. *No! Stop!* Tears of frustration and fear started to prick his eyes.
+
+Just as they neared the turnoff for the science wing, a figure stepped out from a classroom – Mr. Henderson, one of the school's older, kindly custodians, pushing a cleaning cart. Mr. Henderson knew most of the students at Northwood High after working there for years, and he certainly knew Leo Porter and the fact that he was non-verbal. He immediately noticed the scene: Mary Jenkins pushing Leo's chair forcefully, and Leo himself shaking his head frantically, face pale and distressed – a stark contrast to the boy's usual quiet composure.  
+
+"Hold on there, young lady," Mr. Henderson said, his voice calm but firm, positioning his cart slightly to block their path. "Everything alright here?"
+
+Mary stopped, plastering a falsely bright smile on her face. "Oh, yes, Mr. Henderson! We're fine. Leo and I were just... heading off to talk."
+
+Leo seized the opportunity, abandoning any thought of the inaccessible device. He focused all his energy on shaking his head "No" as hard as he could, looking directly at the custodian with wide, pleading eyes.
+
+Mr. Henderson looked from Mary's forced smile to Leo's terrified, insistent denial. Knowing Leo couldn't speak and seeing his clear distress made Mary's explanation ring false. "He doesn't look like he wants to go with you," the custodian observed quietly.  
+
+"Oh, he does!" Mary insisted, tightening her grip on the handles. "He's just shy. He can't talk, you know."
+
+Leo shook his head again, even more vehemently. *No! She's lying!*
+
+Mr. Henderson held Mary's gaze. He knew shyness, and this wasn't it. This was fear. "Maybe he can't talk," he said, his voice still quiet but leaving no room for argument, "but he's telling me 'No' loud and clear right now. Let go of his chair, please."
+
+Mary hesitated, then flushed angrily as she realized she wasn't going to win. She dropped her hands from the handles with a huff. "Whatever," she muttered, shooting Leo a glare before disappearing into the thinning crowd as the warning bell rang.
+
+Mr. Henderson turned to Leo, his expression softening with concern. "You okay, son?" he asked gently. Leo nodded, taking deep, shaky breaths, relief washing over him. "Where were you headed?" Mr. Henderson asked. Leo pointed back down the main hallway, towards where Luna's locker was.
+
+"Alright," Mr. Henderson nodded. "Let's get you back that way." He took hold of Leo's handles and began wheeling him gently away from the secluded science wing, back towards the safety of the main corridor and, hopefully, Luna. Leo leaned back in his chair, immensely grateful for the custodian who had seen, understood, and believed his silent "No."
+

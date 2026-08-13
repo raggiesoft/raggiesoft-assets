@@ -1,0 +1,56 @@
+# Part 1: The First Semester – Friday, May 10, 2045 – 08:00
+
+The morning light filtering through the camouflaged hydro-glass of the master suite was a soft, bruised gray.
+
+Wyatt and Sarah woke up slowly, completely unrestricted by alarm clocks or shift sirens. For a long time, they simply lay in the center of the massive Alaskan King bed, entirely bare beneath the heavy duvets, listening to the relentless, oceanic drumming of the rain against the mountain.
+
+Eventually, Wyatt slipped out of bed and walked over to the floor-to-ceiling window. Sarah joined him a moment later, wrapping her arms around his waist from behind and resting her chin against his bare shoulder.
+
+They looked down at the valley where they had landed just yesterday. It was completely unrecognizable.
+
+The clearing, the tree line, and the 96-square-meter garden they had planted were entirely gone. The winding river had swelled into a massive, violent lake, choking the valley from canyon wall to canyon wall with churning, muddy water.
+
+"Aria," Wyatt said quietly, staring down at the devastation. "What's the current depth of the floodwater in our original landing zone?"
+
+*"The localized telemetry indicates the water level has crested at twenty-one point four meters, Wyatt,"* Aria reported from the bedroom's acoustic array. *"The super-cell storm stalled over the eastern ridge, resulting in significantly higher precipitation than my initial fifteen-meter projection."*
+
+Sarah’s grip tightened around Wyatt’s waist. Twenty-one meters. If they had stayed in the valley, *The Nomad* would be completely submerged, its landing struts likely sheared off by the sheer kinetic force of the current.
+
+"Good thing we moved into the penthouse," Wyatt murmured, leaning his head back against hers.
+
+Leaving the window and the flooded world behind, they walked entirely nude out of the master suite and down the wide, climate-controlled hallway toward the kitchen. The estate's perfect **21.6°C** ambient temperature made the Eden Rule incredibly easy to maintain.
+
+Since they weren't turning on the massive induction stove or dealing with spitting grease, there was no need to get dressed. Sarah raided the billionaire's stasis pantry, emerging with a box of honey-toasted oat cereal and a perfectly chilled jug of real, preserved whole milk. They sat side-by-side at the massive marble island, enjoying the simple, sweet crunch of the cereal and the profound peace of their sanctuary.
+
+"So," Wyatt said, scooping up his last spoonful of milk. "It's pouring rain outside, we have a mountain to ourselves, and we have the entire sum of human knowledge sitting in the mainframe. I say today is the perfect day to go back to school."
+
+Sarah smiled brilliantly, her analytical mind already racing with the possibilities. "I couldn't agree more. We have a lot to build, and we need the right tools in our heads to do it."
+
+They finished their breakfast and carried their bowls to the automated sanitization basin. From there, they walked into the estate's sprawling library—a beautiful, sunken room featuring rich mahogany paneling, leather seating, and a massive, interactive holographic table in the center.
+
+They sat down together on the plush leather sofa, completely comfortable in their own skin, and activated the terminal.
+
+"Aria, access the university archives," Sarah instructed. "We need to set up two distinct curriculums."
+
+*"The archives are open, Administrators,"* Aria chimed warmly. *"Please define your learning parameters. However, before we begin, I must establish my operational parameters regarding your education. According to my core safety guidelines, I cannot act as a direct instructor, nor can I complete any coursework, write code, or solve equations on your behalf. I can only curate your syllabuses, provide the required reading and lectures, point you toward the correct methodologies, and grade your practical assignments based on established academic rubrics."*
+
+"Understood, Aria," Sarah nodded, appreciating the boundaries. They didn't want the AI to do the work for them; they actually wanted to *learn*. "That's exactly what we need."
+
+"Alright, I'll go first," Wyatt said, leaning forward and resting his elbows on his bare knees. "Since I was sixteen, I’ve bounced around every low-level mechanic job the core worlds had to offer. I know how to patch a pipe and fix a broken drive, but nobody ever taught me *why* any of it worked. And when we joined Apex? We were S.H.O.P. Marines for exactly four days before the world ended. We were basically just unarmed, glorified security guards. I want to change that. I want to understand the actual mechanics. I want to study applied physics, fluid dynamics, and the underlying theoretical engineering behind the ship's repulsorlifts and FTL drives."
+
+*"Curating curriculum now,"* Aria responded. A massive stack of digital textbooks, holographic lecture modules, and complex physics schematics populated on Wyatt's side of the glass table. *"I have structured a pathway beginning with Advanced Mechanical Engineering and transitioning into Theoretical Astrophysics. Your first assignment will be to calculate the thermal drag coefficient of a standard repulsor-coil."*
+
+"Perfect," Wyatt grinned, staring at the complex math with genuine excitement instead of the dread of another dead-end job.
+
+"My turn," Sarah said, shifting closer to the table. "I spent my entire childhood on an agricultural colony just trying to survive, and then four days in a corporate uniform. I want to learn how to build digital systems from the ground up. We have fifty thousand embryos in the Genesis Vault, and eventually, we're going to have a massive, bustling colony. I need to build a localized, highly secure corporate-style intranet to manage the estate, track the genetic lineages, and organize the physical infrastructure. I want to study full-stack software development, relational database architecture, and physical server management."
+
+*"Curating curriculum now,"* Aria acknowledged. A completely different set of data bloomed on Sarah's side of the table: cascading lines of code, network topology maps, and database structuring modules. *"I have structured a pathway starting with foundational programming languages and advancing to enterprise-level network architecture. Your first assignment will be to design and execute a basic, bug-free localized database query without my assistance. If your code compiles successfully, I will grade it as a pass. If it fails, I will point you toward the syntax errors, but you must debug it yourself."*
+
+"Deal," Sarah agreed, her eyes gleaming as she looked at the cascading code. She was eighteen years old, and she was going to build the digital backbone of a new civilization.
+
+Wyatt looked over at his wife, completely bare, intensely focused, and ready to conquer an entire university degree from the comfort of their living room. He leaned over and kissed her temple.
+
+"Happy first day of classes, Mrs. Colton," Wyatt whispered.
+
+"Same to you, Mr. Colton," Sarah smiled, already opening her first lecture. "Now hush. I have to figure out how to structure a server array."
+

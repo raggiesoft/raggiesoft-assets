@@ -1,0 +1,24 @@
+# Part 18: The Second Video Call
+
+Back in the quiet comfort of Megan's apartment, with the delicious taste of their dinner from The Tender Shack still lingering, Megan initiated the now-familiar video call. A moment later, Chloé's face once again filled the screen, a beacon of warmth from three thousand miles away.
+
+"Hey again, you two," Chloé said, her smile immediate and genuine. "How was the rest of the open house? Did you survive the elevator apocalypse?"
+
+Megan laughed and settled onto the sofa next to Alex, pulling him into the same close, protective hug as the night before. Chloé saw the gesture on her screen and her own smile softened with gratitude. Seeing Alex so safe, so completely enveloped in the care of his trusted cousin, was the only thing that made the distance between them bearable.
+
+"We survived," Megan confirmed. "But more importantly, your boy here was a superstar."
+
+The call, like the night before, was a comfortable space for all three of them, but everyone understood it was for Alex and Chloé's benefit. He was the one who did most of the talking, his Quantum Communicator XT buzzing with a new, confident energy.
+
+IT WAS GOOD, he began, detailing his day. He talked about the academic fair, the professors he'd spoken to, and the insightful questions he'd asked. I WAS PRACTICING, he explained. FOR WHEN WE HAVE TO TALK TO THE NPU DEPARTMENTS. I KNOW WHAT TO ASK NOW.
+
+He then told her about the residential tour, his tone shifting. THEY SHOWED US A DORM ROOM. IT WAS TERRIBLE, CHLOÉ. SO SMALL. AND TWO BEDS. The simple statement was loaded with meaning. I WOULD NOT BE HAPPY IN A ROOM WITH SOME OTHER GUY, IN A TINY TWIN BED. I WANT A ROOM WITH YOU. I WANT TO BE BACK IN BED WITH YOU.
+
+"I know, my love," Chloé said softly, her own voice full of longing. "Me too. The Christmas break can't come fast enough." A thought occurred to her. "What about Megan's place? Is her apartment on campus?"
+
+"It is," Megan chimed in, choosing her words with a subtle, deliberate care, "but it's a specific upperclassman dorm. They're all single-occupancy one-bedrooms. They wouldn't let the two of you live here together, even with the accommodations. We already looked into it as a backup plan."
+
+The confirmation settled it. An off-campus apartment was their only path forward, a fact they were all now completely at peace with.
+
+They talked for another hour, the conversation drifting easily from topic to topic. Alex felt relaxed and safe, his body leaning into his cousin's supportive embrace, his mind and heart fully engaged with his best friend on the screen. He was surrounded, in person and through the screen, by the two most important women in his life, and in that moment, the suffocating presence of Vera felt like a distant, powerless ghost.
+

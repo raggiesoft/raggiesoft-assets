@@ -1,0 +1,12 @@
+# Part 3: Ghosts of Keystone Motors of Middletown
+
+Stella slowed the car, pulling towards the shoulder. Luna and Leo looked. Where the iconic "Keystone Motors of Middletown" sign should have been, there was nothing but an empty facade. The building itself looked vacant, undergoing renovation. The large showroom windows were dark or papered over. The sprawling lot where rows of new Holts once gleamed sat empty, save for a few construction vehicles. It wasn't just that Keystone Motors of Middletown was gone – the national chain that bought it, the one that had abandoned Arthur's customer service principles, was gone too. It wasn't even a Holt dealership anymore.
+
+A large banner stretched across the front of the quiet building read: "Coming Soon: BayState Market – Your Neighborhood Food Store!"
+
+A wave of silence filled the Sentinel. Arthur’s walkie-talkie remained quiet. Stella glanced in the rearview mirror; her grandfather’s car had pulled up slowly behind them.
+
+After a long moment, Arthur’s voice, heavy with resignation, came back. "Well... how about that. A supermarket." There was no anger, just a quiet sadness. "Progress, I suppose."
+
+He didn't say anything more as Stella sat there for another moment, the ghost of "There’s only one choice: Keystone Motors!" seeming to hang silently in the air, soon to be replaced by the promise of weekly grocery specials. The sight was a stark confirmation of his fears realized – the legacy he built, sold, and then saw decline into corporate greed had now vanished entirely, making way for something utterly unrelated.
+

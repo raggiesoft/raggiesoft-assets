@@ -1,0 +1,25 @@
+# Part 4: A New Threshold of Trust (Summer 2003)
+
+The next evening, after another day spent exploring Lynnwood, a quiet, domestic comfort settled over their hotel room. The trip, which had started as a "last big adventure," was beginning to feel less like a vacation and more like a preview of their future life together.
+
+As they were getting ready for bed, Chloé went to her suitcase and pulled out a small, discreet medical case. It was time for the maintenance routine that had been a quiet, solitary part of her life for years. In the past, this was the moment she would have gently told Alex she needed some private time, a necessary boundary that had always caused him a flicker of separation anxiety.
+
+Alex, seeing the case, felt a familiar, conditioned pang of anxiety. He started to turn away, to give her the space he had learned she needed. But Chloé’s voice, soft and gentle, stopped him.
+
+"Alex?"
+
+He turned back to her. She was standing by the bathroom door, the case in her hand, a soft, vulnerable, and completely trusting look in her hazel eyes.
+
+"You don't... you don't have to go anywhere," she said quietly. "If you don't want to. I know it's... my private medical stuff. But you're my best friend. My person. And... I don't want to have to be separate from you for this anymore, unless you're uncomfortable." She gave a small, slightly nervous smile. "I was thinking... you could just come sit with me? Maybe read to me from that book we bought, like we used to? I just... I'd rather you be there."
+
+The offer was a profound gesture of trust, an invitation into the last, most private corner of her world, made possible by the new level of intimacy they had shared the previous night. The anxiety that had been coiling in Alex's chest instantly dissolved, replaced by a wave of warmth and a fierce, protective love for this incredible young woman. She wasn't pushing him away; she was pulling him closer.
+
+He didn't need his device for this. He simply met her gaze and gave her a slow, certain nod.
+
+Chloé's relieved smile was radiant. "Okay," she whispered.
+
+\[Maintenance Dilation Occurs Off-Screen\]
+
+A little while later, they were settled back in their king-sized bed. Alex was reading aloud from a fantasy novel, his synthesized voice a calm, steady presence in the quiet room. Chloé’s head was resting on his shoulder, her eyes closed, listening. The boundary that had existed between them for four years was gone, replaced by an even deeper, more seamless intimacy. They were best friends, platonic soulmates, and now, they were partners in every aspect of their shared lives, with no secrets and no walls between them.
+
+

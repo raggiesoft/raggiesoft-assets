@@ -1,0 +1,94 @@
+# Part 2: The Commander’s Blessing – Sunday, August 12, 2063 – 13:00 (Local Eden Time)
+
+The heavy, rhythmic thrum of industrial repulsor engines echoed across the elevated plateau of the Genesis valley.
+
+Eighteen-year-old Ellie Grace Colton stood perfectly still at the edge of the central village green, a ruggedized datapad resting casually in her hand. She was officially a legal adult, but she had been carrying the authority of a planetary commander for over a decade. Dressed in durable canvas cargo pants and a tailored, lightweight tactical vest over her dark t-shirt, she watched as four massive automated heavy-lifter drones lowered the final, massive durasteel roof truss onto the newly constructed Town Hall.
+
+"Aria, adjust drone four by two degrees to the port side," Ellie commanded, her voice ringing with absolute, unshakeable authority. "Lock the foundation pins."
+
+With a deafening, echoing CRACK, the heavy timber and steel structure locked seamlessly into place. The Town Hall—the central hub for their growing civilization and the final major building of Phase One—was officially complete.
+
+Ellie lowered her datapad, turning around to check her perimeter.
+
+Directly behind her, the core of the Vanguard was stationed in the shade of a massive alien pine. Leo, now a broad-shouldered, incredibly strong eighteen-year-old, sat in his titanium powerchair. Despite his size, his profound sensory needs remained entirely unchanged. Nora stood directly behind his seat, leaning heavily onto his ergonomic push-handles to support her weaker left side. At eighteen, she still kept her custom titanium forearm crutches holstered on the sides of the chair, vastly preferring the physical, empathetic anchor of holding her brother.
+
+Leo hummed a low, satisfied baritone note, feeling the deep vibration of the construction settling into the bedrock.
+
+But Ellie’s dark, calculating eyes weren't focused on the heavy machinery anymore. She was looking across the sprawling village green.
+
+Sitting on the edge of a newly installed wooden bench was thirteen-year-old Jack. The diplomat had grown into a tall, broad-shouldered teenager, possessing his father's physical presence but entirely lacking his S.H.O.P. Marine intensity. Jack was soft-spoken, infinitely patient, and possessed a gravitational empathy that drew the entire village toward him.
+
+Currently, that gravity was focused entirely on a single five-year-old girl.
+
+Willow Jane Campbell was sitting right next to Jack, her small hands animatedly waving as she pointed at the new Town Hall.
+
+"It's absolutely massive, Jack, it is!" Willow beamed, her bright, rolling Sydney accent echoing clearly across the green. "Reckon we could fit the whole valley in there for a proper knees-up?"
+
+"We probably could, Willow," Jack smiled, his voice a calm, melodic anchor. He reached out, gently adjusting the collar of her canvas jacket to ward off the slight afternoon chill. "But I think we'll save the big parties until the next neighborhood wakes up."
+
+Standing exactly three feet away from the bench, functioning as an impenetrable, highly vigilant praetorian guard, were eleven-year-old Molly and Claire. The twin girls absolutely adored their older brother, and by extension, they had extended their fierce, uncompromising protection over Willow.
+
+Across the green, ten-year-old Tyler and Evan—the family's massive, heavily muscled enforcers—were currently flexing their biceps as they hauled heavy polymer crates of construction scrap toward the recycling drones. Tyler intentionally swung a crate a little too wide, stepping into Jack's airspace.
+
+Molly instantly stepped forward, crossing her arms and fixing her younger brother with a lethal glare.
+
+"Maintain your corridor, Tyler," Molly warned sharply. "You are disrupting their airspace."
+
+Tyler grunted, rolling his eyes, but he immediately adjusted his path, completely unwilling to challenge the twins when they were guarding the diplomat.
+
+Ellie watched the entire dynamic unfold. She watched the way Willow leaned her head against Jack's arm, entirely safe and completely content. She watched the way Jack naturally shifted his posture to shield the little girl from the wind, completely dedicated to her happiness.
+
+The commanding officer processed the logistics. Jack was the peacemaker, but he possessed a fatal flaw: he was too forgiving. He would absorb the galaxy's pain just to keep the peace. He needed a permanent, fiercely loyal anchor who would remind him of his own worth. Looking at the five-year-old girl who had refused to let go of Jack's finger since the day she took her first breath, Ellie saw the ultimate long-term strategic asset.
+
+Ellie stepped over to the powerchair. She tapped Leo’s shoulder, then pointed across the green.
+
+"Look," Ellie murmured. "The diplomat and the recruit."
+
+Nora followed her gaze, her deeply empathetic heart immediately swelling. She reached over, guiding Leo's shaking, spastic hand down to his AAC tablet.
+
+"They are a highly efficient unit," Leo's deep, synthesized voice announced into the quiet shade.
+
+"They are," Ellie agreed softly, a rare, incredibly warm smile breaking her stoic facade. She gave the pairing a single, definitive nod. "She grounds him. The perimeter is perfect. I authorize it."
+
+Wyatt Colton stepped out of the newly finished Town Hall, wiping sawdust from his canvas pants. At forty-two, his dark beard was heavily threaded with gray, but his massive frame was just as formidable as ever. He walked over to his eighteen-year-old children, a look of profound pride on his face.
+
+"The structural integrity is flawless, El," Wyatt praised, clapping a heavy hand on her shoulder. "The village is officially operational. Which brings me to a logistical question for the Vanguard."
+
+Ellie turned to face him, crossing her arms. "Go ahead, Dad."
+
+"Mom and I have been mapping out the residential zoning," Wyatt explained, gesturing toward the beautiful, elevated timber cabins lining the riverbank. "You three are legal adults now. You're eighteen. If you want your own cabins down here in the valley, right next to the river, I will break ground on them tomorrow. You've earned your own space."
+
+Ellie didn't even blink. She looked at Nora, whose eyes had widened in sudden, absolute panic. She looked at Leo, whose humming hitched as his body tensed against the memory-foam seat at the mere suggestion of leaving his lifelong perimeter.
+
+To the neurodivergent core of the Vanguard, the mountain estate wasn't just a house; it was their sensory armor. They relied on the exact, flawless 21.6°C ambient temperature. They relied on the specific, muffled hum of the geothermal reactors. They relied on the massive, floor-level Mega-Bed where they had slept huddled together every single night for eighteen years.
+
+"Negative," Ellie stated, her voice iron-clad and completely uncompromising. "We do not relocate. The mountain is our base. We stay in The Sanctuary."
+
+"The Sanctuary is our perimeter," Leo's tablet chimed aggressively, confirming the commander's orders.
+
+Wyatt let out a low, deeply affectionate chuckle, holding his hands up in immediate surrender. "Copy that. I just wanted to offer. You three have the master suite in the residential wing for as long as you want it."
+
+Sarah walked up to join them, having just finished checking the agricultural yields in the nearby fields. She slipped her arm around Wyatt’s waist, smiling at her adult children.
+
+"Well, if the Vanguard is staying in the mountain, that means the valley cabins are wide open for the next phase of expansion," Sarah noted, her dark eyes shining with visionary excitement. She looked out over the sprawling, beautiful town they had built. "The Town Hall is finished. Cohort Two is safely settled in the nursery. I think it's time we start drafting the blueprints for Cohort Three."
+
+"I was thinking the exact same thing," Wyatt agreed, his mechanic's brain already running the math. "We have the infrastructure now. We can handle a larger payload. When the cabin expansion is complete next spring, we don't just pull ten or twenty embryos. We go for fifty."
+
+"Fifty new recruits," Ellie nodded, her tactical brain processing the massive influx of personnel. "A full platoon. Acceptable."
+
+"And we need a new cultural matrix for them," Sarah added, looking up at the ceiling array hidden beneath the eaves of the Town Hall. "Aria, we've done Sydney, and we've done the London Cockney. What's next on the archival preservation list?"
+
+"Actually," Wyatt interrupted softly, his voice dropping into a deep, nostalgic register. He looked out at the rushing river, a distant memory of his life before the corporate drafts surfacing. "I know exactly what the next matrix is."
+
+Sarah looked up at him, surprised. "You do?"
+
+"Newport, Rhode Island," Wyatt said, a wistful smile touching his scarred face. "Southern New England. It's where my family was from, generations ago, before we were all drafted into the deep-sea welding rigs and shipped off-world. My grandfather used to talk about the ocean there. I want to hear that accent again. I want to hear a little bit of my history walking around this valley."
+
+"Accessing regional data for Newport, Rhode Island, Administrator," Aria’s voice filtered down from the eaves. "I have isolated the Southern New England phonetic matrix and corresponding cultural archives. The holographic educators are prepped and standing by for Cohort Three."
+
+Sarah rested her head against Wyatt's shoulder, her heart swelling for the husband who had sacrificed everything to build this world for them.
+
+"Fifty new kids from Rhode Island," Sarah smiled warmly. "I think they're going to fit right in."
+
+The Colton family stood together in the shade of the alien pines, watching Jack patiently explain the mechanics of a water-wheel to a fascinated Willow. The first generation was thriving, the Vanguard was unshakeable, and the village of Genesis was finally ready to truly open its doors.
+

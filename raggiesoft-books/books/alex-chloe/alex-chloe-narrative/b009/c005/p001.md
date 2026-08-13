@@ -1,0 +1,54 @@
+# Part 1: The Excitement and the Learning Curve
+
+The next morning was a beautiful Saturday without a cloud in the sky. When Alex, Chloé, and Megan walked into the Millers' kitchen, they found all four parents already gathered around the dining table. But instead of textbooks, the table was covered with printouts from apartment rental websites and a large, creased map of Virginia Beach.
+
+The three of them exchanged a look of complete surprise. They had just decided last night that they needed to talk to their parents about the van. They hadn't said a word about an apartment.
+
+"Good morning, you three," Emily said, her smile warm and knowing. "Sleep well?"
+
+"We did," Chloé said, still a little bewildered by the scene. "We, uh, we actually needed to talk to you all about something."
+
+She took a deep breath. "After yesterday, with the rain and how exhausted we both were... Alex and I talked. We think it's time to cash in our Christmas present. We're ready for the accessible van."
+
+The four parents looked at each other, a slow, shared smile spreading across their faces.
+
+"It's funny you should say that," James said, leaning back in his chair. "Because your mothers and I have been having our own conversations. We saw how wiped out all three of you were last night. And we realized that the van is only part one of the solution."
+
+"A new van will make getting to and from campus easier, *oui*," Sophie added, her eyes twinkling. "But it doesn't solve the problem of you still having to do homework at ten o'clock at night. You are all doing too much."
+
+"We realized," Thomas continued, getting to the point with his usual practicality, "that a ten-minute commute is still a commute. The real solution is for you three to have your own place, your own sanctuary, where you can live and work without all the extra travel."
+
+"So," Emily concluded, gesturing to the papers spread across the table, "we decided to get a head start. Welcome to the official first day of the Miller-Mason-Carter apartment hunt."
+
+Alex, Chloé, and Megan were speechless. They had come in ready to start a negotiation for the van and had walked into a fully-formed plan for their entire future. The relief and gratitude were so overwhelming, Chloé felt tears spring to her eyes.
+
+"Okay," she finally managed to say, a happy, watery laugh escaping her. "Okay. Let's find an apartment."
+
+They all dove into the task, a multi-generational task force on a mission. While their fathers debated logistics, Alex and Chloé were lost in the dream of it. LOOK AT THAT KITCHEN, Alex typed on his Quantum Note. COUNTER SPACE!
+
+Chloé leaned over his shoulder, a happy grin on her face. "And look at that living room! Our sofa would fit perfectly by that window."
+
+She then straightened up, her expression turning serious. "Okay, but before we get too excited, we have to do the most important thing first. We need to cross-reference every single address with the CVTA bus schedule."
+
+Sophie nodded in approval. "A very smart idea, *ma chérie*."
+
+Chloé, remembering the freedom and efficiency of the Transit Authority of the Puget Sound system, was confident. "It was a lifesaver for me in Lynnwood," she explained. "If the car was ever in the shop, Alex needs that same independence. He has to have a reliable way to get to campus on his own."
+
+With a determined look, she pulled her MagnaByte laptop closer and navigated to the Coastal Virginia Transit Authority website. She found the page for routes serving the CCHR campus. Her confident smile slowly began to falter, her brow furrowing in dawning disappointment.
+
+"Okay... Route 25, Newtown Road... Weekdays only, and the last bus leaves campus at 5:45 PM. And... it only runs once an hour."
+
+A heavy silence fell over the table. "Once an hour?" Emily repeated.
+
+Chloé slumped back in her chair, the stark reality hitting her. This was a skeletal, commuter-focused service. It was a non-starter. "Well," she said, letting out a long, frustrated sigh. "So much for that idea. That's... really disappointing."
+
+Alex’s own face had fallen. The dream of independent travel, a freedom he had so recently and wonderfully experienced, had just vanished. For those few weeks in Lynnwood, he had ridden the bus with Chloé to the NPU campus every day. He remembered the simple, profound dignity of rolling his own chair onto the bus, locking into place, and being just another commuter. He had hoped, so desperately, that he could have that same freedom here. That hope had just been dashed. He looked from Chloé to Megan, a quiet, profound sadness in his eyes.
+
+Chloé immediately reached over and took one of his hands. Megan, seeing his distress, took the other, her grip firm and reassuring.
+
+IT'S OKAY, CHLOÉ, his device voiced softly, though the message was as much for himself as it was for her. WE HAVE THE VAN COMING. YOU TWO ARE MY RIDE. WE ARE A TEAM.
+
+"Damn right we are," Megan said, squeezing his hand.
+
+"Always," Chloé added, managing a small, determined smile. "Okay," she said, taking a deep breath and turning back to the map, her resolve returning. "New plan. We no longer factor in the buses. We just find the best, safest, most accessible apartment we can, and we make it work from there. Together."
+

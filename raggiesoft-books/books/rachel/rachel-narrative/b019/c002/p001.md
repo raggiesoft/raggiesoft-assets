@@ -1,0 +1,56 @@
+# Part 1: The Twenty-First Milestone – 6:30 PM (EST)
+
+In the neurotypical civilian world, turning twenty-one is a loud, chaotic, and culturally mandated rite of passage. The societal script dictates that you gather a massive group of people, descend upon crowded bars, and consume as much unpredictable, volatile alcohol as physically possible.
+
+For our pack, that script wasn't just unappealing; it was a terrifying sensory and psychological nightmare.
+
+We absolutely despised the loss of control that came with alcohol. The ghost of Delores and her cousin Brandi, who had weaponized booze to fuel their unpredictable, violent mood swings and coercive assaults, was permanently locked out of our ecosystem. Sobriety wasn't just a preference for us; it was a fundamental pillar of our perimeter. We needed absolute, mathematical clarity to survive.
+
+So, for Rachel’s twenty-first birthday, the celebration was executed with flawless, trauma-informed precision.
+
+We were at Pembroke Mall, tucked safely away from the Friday night retail crowds inside a dimly lit, high-end Italian restaurant. Jessica had called two weeks in advance to specifically secure the massive, U-shaped leather booth in the quietest back corner of the dining room.
+
+The seating geometry was absolute perfection.
+
+I slid all the way into the deep center of the curved leather booth. Rachel immediately slid in right next to me, pressing her shoulder and hip flush against my right side, hooking her arm through mine. She leaned her weight heavily against my ribs, letting out a soft, contented hum as the deep pressure grounded her nervous system.
+
+Kristin slid into the booth on my left, pressing her shoulder warmly against mine and lacing her fingers through my free hand under the table. Ashley took the outer edge on Rachel's right, completely boxing my little sister in with a wall of fierce, protective loyalty.
+
+Jessica parked her manual wheelchair at the open head of the table, locking her brakes with a satisfying mechanical *click*. From her vantage point, she commanded the entire space, her back to the wall and her sharp eyes covering the entire restaurant.
+
+When the waitress approached our table, she took one look at the birthday balloon Ashley had tied to the salt shaker and smiled brightly.
+
+"Happy birthday!" the waitress beamed. "Turning twenty-one is a big deal! Can I bring you the cocktail menu to celebrate?"
+
+Rachel shrank back just a fraction of an inch against my side, her dark eyes darting toward Jessica. The sudden introduction of the alcohol variable triggered a microscopic spike in her anxiety.
+
+Jessica didn't miss a beat. The Director of Defense Integration raised a hand, her corporate armor sliding into place with polite, frictionless authority.
+
+"Thank you, but we won't need the cocktail menu tonight," Jessica stated smoothly, her tone leaving absolutely zero room for negotiation. "We are a strictly generic cola and iced tea table. But we will be ordering a massive amount of garlic bread to start."
+
+The waitress didn't push it. "You got it. Colas and teas coming right up."
+
+The moment the waitress walked away, Rachel let out a long, shaky exhale, the rigid tension melting out of her shoulders. She squeezed my arm, a brilliant, radiant smile breaking across her face.
+
+"Thank you, Jess," Rachel rasped softly across the table.
+
+"Always," Jessica smiled, adjusting her glasses. "Tonight is about heavy carbohydrates, zero surprises, and celebrating the fact that my little sister is officially a thriving, twenty-one-year-old adult."
+
+It was the absolute truth. The transformation in Rachel over the last year had been staggering. She was no longer the terrified, mute girl hiding from her father's temper. She was taking classes at CCHR, mapping out her academic future. She was working her shifts at The Spot, handling the retail grid with incredible resilience. And every Friday night, she was stepping onto the puzzle mats at the Lynnhaven Academy of Seondu, methodically earning her way toward her Midnight Blue belt.
+
+When the food arrived, the table was completely covered in massive porcelain bowls of fettuccine alfredo, baked ziti, and chicken parmesan.
+
+We ate in a warm, insulated bubble of pure pack safety. There was no pressure to perform, no chaotic social expectations to mask through, and no fear of the environment suddenly shifting. Ashley and Kristin kept the conversation light, recounting a ridiculous story from their own retail shifts, while Rachel laughed, stealing bites of my garlic bread.
+
+When the plates were finally cleared, the waitress brought out a massive slice of rich chocolate cake with a single, glowing candle.
+
+We didn't sing loudly or make a public spectacle. We leaned in close across the table, our voices dropping into a quiet, harmonized whisper as we sang *Happy Birthday*.
+
+Rachel closed her eyes, took a deep breath, and blew the candle out.
+
+"Did you make a wish, Bug?" I asked, resting my chin gently against the top of her dark hair.
+
+Rachel opened her eyes and looked around the booth. She looked at Ashley, her original Sentinel. She looked at Kristin, the woman who had helped rebuild my heart. She looked at Jessica, the brilliant architect of our freedom. And then she looked up at me.
+
+"No," Rachel answered, her raspy voice vibrating with absolute, undeniable peace. "I already have everything I want right here."
+

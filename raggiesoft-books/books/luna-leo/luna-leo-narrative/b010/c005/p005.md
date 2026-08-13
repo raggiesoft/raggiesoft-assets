@@ -1,0 +1,52 @@
+# Part 5: Sanctuary in a Sterile Room
+
+The family restroom was a small, sterile, and blessedly quiet haven. The heavy door was locked, silencing the chaotic hum of the airport terminal. For the first time in days, Leo was in a private space with someone he trusted completely. The relief was so profound it was almost painful.
+
+Olivia's movements were a study in gentle, practiced efficiency. She still had Stella on the line, her phone wedged between her ear and shoulder. "Stella? I'm here with him in the family restroom," she said, her voice a calm report from a battlefield. She hit the speakerphone button, placing the phone on the small counter so Leo could hear, so they could all be in this together.
+
+"Is he okay? Liv, what's happening?" Stella's voice, tinny but clear, filled the small room.
+
+As Olivia began to help Leo with his toileting needs, her actions communicating a simple, powerful truth that his needs were not a burden, her eyes caught the angry red mark on his hip.
+
+"Leo," she said gently, her voice tight with a new, colder anger. "Is this what I think it is?"
+
+He nodded, a flicker of the old shame in his eyes, and let out a low, involuntary grunt of pain as she gently touched the area around it. It was a Stage I pressure sore, the one he'd discovered in Salt Lake City, now darker and more painful.
+
+Through the speaker, Stella could hear Leo's pained sound. "What was that? What's wrong?"
+
+"He has a pressure sore, Stella," Olivia said, her own voice a steady counterpoint to the fury she knew was coming. "Stage one, on his hip. It looks bad."
+
+A string of furious, choked curses came through the phone. It was Stella, her voice a low, dangerous growl Leo had not heard in years. "That woman," she seethed. "That absolute monster. She let this happen."
+
+"We've got him now," Olivia said calmly. "What's the plan? How do we get him home?"
+
+"Your flight," Stella said, her voice now a blade of ice-cold command. "Gateway 1138 to Midway, then Gateway 412 to Norfolk, correct?"
+
+"Yes," Olivia replied.
+
+"And Liv," Stella's voice continued, the sound of a conservator preparing for war. "That AAC device she smashed? That's an eight-thousand-dollar piece of medical equipment. That, plus whatever this last-minute flight costs... oh, I'm going after her. Legally. I am going to make sure she pays for every single second of this."
+
+"Good," Olivia said simply. "She deserves it."
+
+Stella took a deep, steadying breath, pivoting back to the immediate logistics. "Okay. You still have that confirmation code I gave you on the phone earlier?"
+
+Olivia pulled the small slip of paper from her pocket where she had frantically scribbled it during her cab ride. "G-W-seven-three-niner-K-L. I've got it right here."
+
+"Perfect," Stella confirmed, a wave of exhausted triumph in her voice. "I've flagged his ticket for full assistance. Can you get him to the gate?"
+
+"I'm on it," Olivia promised.
+
+"Okay. Just... just take care of my brother."
+
+"Always."
+
+Olivia didn't just say the word; she breathed it like a solemn vow. It carried the weight of years of shared history, a quiet testament to every single time she had stepped in to protect him when Stella or Luna couldn't be there. It wasn't just a promise for today; it was an absolute, unbreakable truth.
+
+Olivia ended the call. She finished helping Leo, then took a damp paper towel and gently washed his face, wiping away the grime, the sweat, and the tears of the morning. Her touch was gentle, her presence a silent, unwavering shield. He was clean, he was safe, and for the first time in what felt like a lifetime, he was being cared for.
+
+He looked at his reflection in the mirror—pale, exhausted, but with a flicker of his old self returning. He met Olivia's gaze in the mirror, his eyes conveying a universe of gratitude.
+
+She just smiled, a small, sad, and deeply loving smile.
+
+"Come on," she said softly. "First things first. You're starving. Let's get you some real food."
+

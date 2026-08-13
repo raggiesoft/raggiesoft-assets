@@ -1,0 +1,110 @@
+# Part 2: The Rainy Day Express
+
+## August 28, 2006 Iron Point Station - Platform 06:10 AM
+
+The first Monday of classes brought the first real rain of the semester. A heavy, grey Atlantic drizzle soaked the platform.
+
+The Fortress stood under the shelter. Leo sat in his Titan X-Treme, the new rain cover protecting his joystick console.
+
+"6:15 BTA is on time," Stella noted, checking the board. "But look at track 1."
+
+**ARTS COASTAL 84 (Boston) - DELAYED** **EST ARRIVAL: 06:10 AM**
+
+"The silver train is late," Luna said. "But it's here now."
+
+A horn blasted. The sleek ARTS Coastal locomotive roared into the station. It wasn't the usual morning commuter; it was the intercity express running 40 minutes behind schedule.
+
+The conductor deployed the bridge plate.
+
+"Anyone for the city?" he called out.
+
+"Four for Narraganset," Stella said, flashing her Bull Pass.
+
+"Coach is open," the conductor waved them on. "Get in before you get soaked."
+
+They rolled into the warm, carpeted Coach car. It was quieter than the commuter rail—less chatter, more people sleeping with neck pillows.
+
+Leo parked in the rear bay. He plugged in his Scribe.
+
+"ACCIDENTAL UPGRADE," he typed.
+
+"We take the wins where we find them," Stella said, shaking out her umbrella.
+
+The train launched. Because it was an ARTS train, it skipped Rockwell, and Southport. The rain blurred the windows into grey streaks, making only one pit stop at BCI Airport.
+
+## 06:30 AM Narragansett Esplanade Station
+
+Twenty minutes later, they glided into the station.
+
+"Now arriving... Narragansett Esplanade. Transfer for Metro and Ferries."
+
+They exited onto the covered Sky Platform. The wind was whipping rain sideways through the open sides of the canopy.
+
+"Tunnels," Olivia commanded. "Immediately."
+
+They took the glass elevator down past the Plaza level (where the students waiting for the bus were getting soaked) and straight to Level 1 (The Concourse).
+
+They pushed through the double doors of the Bull Run.
+
+The silence and warmth of the underground city enveloped them.
+
+"Safe," Luna breathed, pulling off her hood.
+
+They walked down The Stampede corridor to The Foundry. It was bustling with breakfast.
+
+They ate together—eggs, toast, and coffee milk on tap.
+
+## 08:15 AM The Separation
+
+Breakfast was over. It was time to deploy.
+
+Stella stood up. "I'm heading to the Library. 4th floor, quiet zone. Text me if the world ends."
+
+She hugged them each in turn.
+
+Olivia checked her schedule. "Social Theory in the Humanities Building. That's down Academic Avenue."
+
+She kissed Leo on the cheek. "Good luck, mon chum. Build something cool."
+
+"See you at lunch," Leo typed.
+
+That left the twins.
+
+"We have time," Luna said. "Let's hit the Vault."
+
+They rolled down Arts Alley to the Fine Arts Center. They took the elevator to the 3rd Floor.
+
+Leo tapped his card. BEEP-CLICK.
+
+They entered Room 304. It was silent.
+
+Luna assembled her Orpheus 680. She didn't play scales. She played Syrinx.
+
+The haunting melody filled the soundproof room. Leo sat in his Titan, eyes closed, letting the music center him before the chaos of the day. It was their last moment of peace.
+
+## 08:45 AM Fine Arts Center - Elevator Lobby
+
+They stood by the elevator.
+
+"Okay," Luna said. "Music Theory is on the 5th floor. Structural Analysis is next door in Engineering."
+
+"Basement tunnel," Leo confirmed. "I am not going outside."
+
+Luna leaned down. She wrapped her arms around his neck. Leo hugged her back, hard.
+
+"Go be brilliant," she whispered.
+
+"GO BE LOUD," Leo typed.
+
+He kissed her cheek. She kissed his forehead.
+
+The elevator dinged.
+
+Luna got in to go UP. Leo waited for the next car to go DOWN.
+
+The doors closed, separating them.
+
+Leo sat alone in the hallway for a second. Then he turned his chair. He pushed his joystick forward.
+
+He rolled into the elevator, descended to the tunnel, and headed for the Engineering building. He was a Bull. And he was ready to work.
+

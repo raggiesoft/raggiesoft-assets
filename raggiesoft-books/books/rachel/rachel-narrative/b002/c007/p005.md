@@ -1,0 +1,54 @@
+# Part 5: The Protocols of Base Camp – 6:00 PM
+
+By early evening, the heavy narcotic haze from the hospital sedatives began to wear off, replaced by the deep, throbbing reality of our injuries and the sudden, pressing need for basic bodily functions.
+
+The living room base camp was secure, but actually *living* in it required a set of strict, mechanical protocols to ensure we didn't accidentally destroy our internal organs just trying to eat or use the restroom.
+
+**The Eating Protocol: The Wedge** Around six o'clock, Mom walked into the living room carrying two trays. Eating completely flat on our backs was a massive choking hazard, but using our core muscles to sit up was strictly forbidden.
+
+"Alright, time for the wedges," Dad announced.
+
+He had brought home two dense, medical-grade foam wedge pillows from the hospital. To get us propped up, we had to use a strict, assisted maneuver. Dad slid his massive hands under my shoulder blades while Jessica held my feet. "Do not crunch," Dad ordered. "Keep your stomach completely relaxed. Let me do the lifting." I let my body go completely limp. Dad lifted my upper body as a single, rigid plank while Mom swiftly slid the foam wedge directly behind my back, resting me against it at a perfect, supported forty-five-degree angle. They repeated the exact same process for Rachel.
+
+Mom set the trays down on our laps, carefully ensuring the plastic edges didn't press against my medical binder or Rachel's left side. "Everything is already cut into bite-sized pieces," Mom explained, pointing to the grilled chicken and vegetables. "I don't want you struggling to cut anything with a knife. Slicing requires you to bear down, and bearing down flexes your obliques. Use your forks, chew slowly, and let us know when you're full."
+
+**The Restroom Protocol: The Plank Carry & The Privacy Door** The most terrifying hurdle came an hour after dinner, when I finally had to use the bathroom.
+
+At ten years old, the idea of my father having to carry me to the toilet made my face burn with a deep, humiliating shame. I was supposed to be the older brother. I was supposed to be independent. But when I tried to subtly shift my weight to see if I could slide off the mattress myself, the immediate, white-hot flare of my torn fascia made my breath catch.
+
+Dad saw me wince. He knew exactly what was happening, and he immediately stepped in to kill the shame before it could take root.
+
+"Alright, bathroom protocol," Dad stated clearly, addressing the entire room so it was a matter of logistics, not embarrassment. "Jessica, Janette, clear the hallway."
+
+Dad walked over to my side of the mattress. Because bending my waist was out of the question, a standard "bridal carry" would compress my core too much.
+
+"Keep your legs perfectly straight, Michael," Dad instructed.
+
+Dad slid his left arm under my knees and his right arm firmly under my mid-back, bypassing my stomach entirely. He lifted me in a rigid "plank" hold. My core stayed perfectly flat as he carried me out of the living room and down the short hallway to the downstairs half-bath.
+
+He didn't just drop me on the toilet—sitting down unassisted requires abdominal braking. Dad carefully pivoted, bending his own knees to lower me slowly until I was seated upright on the lid, making sure my spine was perfectly straight.
+
+"Okay," Dad said, his voice dropping to a low, respectful volume. "You are not going to lean forward. When you are done, you do not lean forward to wipe, because that will pinch the hernia. You use your arms to brace yourself."
+
+I stared at the tile floor, my face bright red.
+
+Dad reached out and gently tilted my chin up so I had to look at him.
+
+"Michael, listen to me," Dad said, his eyes filled with absolute, unwavering respect. "There is zero shame in this. You survived a horrific injury. My job is to be your legs right now. Your job is just to heal."
+
+I swallowed the lump in my throat and gave a tiny nod.
+
+"I am stepping outside," Dad promised, establishing the ultimate privacy rule. "I am pulling the door completely shut. It will not click the latch, so it's technically open a fraction of an inch so I can hear you. Take as much time as you need. When you are finished, you call my name, and I will come back in to lift you straight up so you don't have to bend. Understand?"
+
+"I understand," I whispered.
+
+Dad stepped out into the hallway and pulled the door shut. The latch stopped just a millimeter shy of the strike plate.
+
+Left alone in the bathroom, a profound sense of dignity washed over me. I was completely helpless, reliant on my father for the most basic human functions, but he was executing it with absolute, militant respect for my boundaries.
+
+When I was finished, I called out softly. Dad immediately re-entered, helped me clean up without letting me bend, lifted me back into the rigid plank carry, and transported me safely back to the right side of the pillow wall.
+
+When Rachel’s turn came, Mom executed the exact same protocol. She carried the eight-year-old to the bathroom, helped her pivot, and immediately stepped outside, pulling the door shut to give her total privacy.
+
+The indignity of our injuries was immense. But the pack had built a system that protected not just our torn bodies, but our pride.
+

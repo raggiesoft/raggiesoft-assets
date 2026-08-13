@@ -1,0 +1,20 @@
+# Part 1: A Layover in Philly
+
+The ARTS *Northeast Regional* glided smoothly into Philadelphia's 30th Street Station right on time. The two-hour journey from Washington had been a quiet, comfortable ride, another successful leg in their grand adventure.
+
+Disembarking onto the busy platform, they found themselves in a space that felt just as grand and historic as D.C.'s Union Station. The main concourse was immense, with a soaring, coffered ceiling, Art Deco chandeliers, and massive windows that flooded the space with natural light.
+
+"Whoa," Luna said, craning her neck to look up. "This place is huge."
+
+"Okay, team," Stella announced, checking the departure board. "Our next train, the *Pennsylvanian* to Pittsburgh, leaves at 12:42 PM. That gives us about two hours. It's not enough time to go out and explore the city, but it's perfect for a good lunch."
+
+She led them through the bustling station, her eyes scanning the directories. She had, of course, already researched their best option. They found a food vendor in the main concourse that specialized in Philadelphia's most famous culinary export: the cheesesteak.
+
+They found a table in the station's seating area, and Stella and Luna went to retrieve the food. They returned with a tray laden with sandwiches, sodas, and a large hot chocolate for Leo. The cheesesteaks were a delicious, messy, and perfect layover meal. The warm, crusty rolls were filled with thinly sliced steak, grilled onions, and a generous layer of melted cheese.
+
+"Okay, this is amazing," Olivia said after her first bite, a sentiment echoed by everyone at the table.
+
+As they ate, they talked excitedly about the next leg of their journey. "This is the scenic part," Stella explained, pointing to a route on her map. "The train will go right through the Allegheny Mountains. The views are supposed to be incredible."
+
+The two-hour layover passed quickly. With their stomachs full and their spirits high, they gathered their luggage and made their way to the platform for their next train. They were about to leave the bustling East Coast corridor behind and venture into the heart of the American landscape.
+

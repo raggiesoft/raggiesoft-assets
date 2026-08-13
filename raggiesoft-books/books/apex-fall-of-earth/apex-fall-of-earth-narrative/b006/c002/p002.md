@@ -1,0 +1,68 @@
+# Part 2: The Vanguard's Spear – Tuesday, December 5, 2045 – 02:45
+
+The clinical, brilliant white light of the medical bay reflected off the polished glass of the diagnostic monitors.
+
+Wyatt was seated on the wide platform of the bio-bed, his chest pressed flush against Sarah’s spine. Her body was rigid, her hands gripping his thick forearms with bone-crushing force as another massive contraction peaked.
+
+"That's it, Sarah," Wyatt coached, his deep voice a steady, grounding vibration against her back. "Use the gravity. Push into it."
+
+Sarah let out a fierce, guttural cry, her chin tucked to her chest.
+
+Above them, the holographic telemetry displayed three perfectly synchronized, rapid heartbeats. The data streams were flawless. Despite being exactly nine weeks premature, the biological machinery was operating at peak efficiency.
+
+"Subject A is traversing the birth canal with zero indications of fetal distress," Aria’s synthesized voice reported calmly. "Heart rate holds steady at one hundred and forty-five beats per minute. Delivery is imminent."
+
+Wyatt knew the exact tolerances of the timeline. He couldn't catch his daughter from behind his wife.
+
+"Aria, engage the lateral pelvic and lumbar supports," Wyatt commanded.
+
+The memory-foam bio-bed instantly responded. Thick, padded lateral arms smoothly extended from the frame, locking securely around Sarah’s ribcage and hips, perfectly maintaining her upright, gravity-assisted posture.
+
+Wyatt slid backward off the platform and stepped quickly to the foot of the bed. He pulled on a pair of sterile, micro-textured gloves, his jaw locking into a mask of absolute, S.H.O.P. Marine focus.
+
+He looked at Sarah. Her dark hair was plastered to her forehead with sweat, but her eyes were fiercely determined.
+
+"She's right here, Sarah," Wyatt said, his voice thick with a sudden, overwhelming surge of emotion. "One more push. Bring her home."
+
+Sarah took a deep, shuddering breath, bearing down with every ounce of strength she had left in her exhausted frame.
+
+The delivery was mechanically and biologically flawless. There was no cord compression, no shoulder dystocia, and no hesitation.
+
+Wyatt reached out, his massive, calloused hands incredibly gentle as he safely caught the tiny, slippery weight of his firstborn daughter.
+
+She was small—the inevitable reality of a thirty-one-week triplet—but she was vigorously, undeniably alive. The second her chest cleared the birth canal and hit the cold, sterile air of the medical bay, she didn't wait for Aria’s automated suction to clear her airway.
+
+Ellie Colton opened her mouth and let out a sharp, furious, completely indignant wail.
+
+Sarah collapsed back against the memory-foam supports, tears of profound relief and pure joy streaming down her face as she heard the sound. "Wyatt..." she sobbed, reaching a shaking hand toward him.
+
+Wyatt stood frozen for a fraction of a second, staring down at the tiny, screaming life in his hands. Her eyes were squeezed shut, her tiny fists balled up tightly by her face. The sheer, universe-altering magnitude of the moment hit him so hard it physically stole the breath from his lungs. The corporate wars, the dead Earth, the buried dreadnought—none of it mattered. This was his daughter. The tip of the spear.
+
+But his mechanic's brain immediately overrode his awe. The clock was ticking.
+
+"She's perfect, Sarah. She's absolutely perfect," Wyatt choked out, a massive, tearful smile breaking across his scarred face.
+
+He moved with rapid, practiced precision. He grabbed the sterile clamps from the automated surgical tray, securing the umbilical cord in two places before slicing cleanly between them.
+
+He turned and took two large steps toward the far wall, where the three heated, transparent neonatal bassinets were waiting. He gently placed Ellie onto the soft, pre-warmed scale of Bassinet 1.
+
+"Execute Macro Beta," Wyatt commanded.
+
+"Macro Beta recognized," Aria chimed instantly.
+
+The automated armatures descended flawlessly. While Wyatt stepped back, the machine took over the stabilization protocol. A soft, low-pressure suction catheter cleared the last of the amniotic fluid from Ellie's nose and mouth. A thermal, molecularly printed blanket expertly swaddled her tiny limbs to preserve her body heat, and a glowing biometric sensor scanned her vitals.
+
+"Subject A Apgar score is eight at one minute. Oxygen saturation is ninety-four percent and climbing. Independent respiration is strong," Aria reported.
+
+Ellie’s furious crying settled into a rhythmic, healthy fussing as the warmth of the bassinet enveloped her.
+
+Wyatt looked at his firstborn for one more second, his heart expanding until it felt like it would crack his ribs. He had done it. They had done it.
+
+But the telemetry monitor above the bio-bed flashed.
+
+Wyatt immediately spun away from the bassinet, stripping off his soiled gloves and snapping a fresh pair onto his hands as he rushed back to the foot of the bio-bed.
+
+The transition was over. The Interval had begun.
+
+"One down, sweetheart," Wyatt said, his dark eyes locking onto Sarah's as she braced herself for the next wave. "She's safe. Now let's go get her sister."
+

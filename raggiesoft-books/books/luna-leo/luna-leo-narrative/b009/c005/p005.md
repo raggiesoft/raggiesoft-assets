@@ -1,0 +1,22 @@
+# Part 5: The Long Night Begins
+
+The quiet, efficient work of the sleeping car attendant had transformed their small room into a dark, cozy sanctuary, but it could not silence the grief within it. The simple sandwiches and cartons of milk he had left for them sat untouched.
+
+Stella, running on pure, adrenalized love, knew they had to eat something. With a soft, gentle voice, she managed to coax her siblings into taking a few bites. She broke off small pieces of a turkey sandwich, and after several quiet offerings, both Luna and Leo mechanically ate a little, more out of reflex than appetite. Stella forced herself to eat a few bites as well, knowing she needed to keep up her own strength.
+
+The crying had finally subsided, replaced by a profound, bone-deep exhaustion. The twins were spent, physically and mentally. It was time to rest.
+
+"Okay," Stella whispered. "Let's get you two settled."
+
+The sleeping arrangement was a matter of pure logistics and safety. Stella would take the narrow top bunk. The larger lower bunk was for Luna and Leo. Stella gently guided her brother to the space against the wall, a simple, protective measure to ensure he wouldn't accidentally roll off the moving train's bed in his sleep. Luna curled up on the outside, a silent, sisterly barrier.
+
+They were both very upset, their bodies still trembling with the aftershocks of the meltdown, but the storm had broken, leaving a fragile, desolate quiet. Stella looked down at them from her bunk.
+
+"Do you want to change into pajamas?" she asked softly.
+
+There was no response from the bunk below, only the sound of their quiet, ragged breathing.
+
+Stella did not ask again. She understood. They were in a place beyond decisions, beyond the simple comfort of changing clothes. She was allowing them to make the decision for themselves, when they were ready.
+
+She turned off the main light, leaving only a small, dim nightlight to cut through the oppressive darkness. She lay in her bunk, listening to the rhythmic clatter of the wheels on the track and the quiet, heartbreaking sounds of her two siblings grieving in the bunk below. The long night was just beginning.
+

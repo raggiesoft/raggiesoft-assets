@@ -1,0 +1,76 @@
+# Part 7: The Sacred Trust
+
+## Date: July 16, 2004 Time: 12:25 AM Location: The Master Bedroom
+
+Patrick lay still in the dark, staring at the spinning blades of the ceiling fan.
+
+Next to him, Nichole was in deep REM sleep. They were sleeping skin-to-skin—a necessity for her thermal regulation and sensory grounding. Her back was pressed against his chest, her head tucked under his chin, her arm draped over his bicep.
+
+She was completely nude. He was completely nude. It was the way they had slept since moving in, a practical arrangement to manage her night sweats and ensure he could feel the slightest vibration of a seizure before it fully took hold.
+
+But tonight, the intimacy felt heavy.
+
+His mind, usually occupied with hydraulic schematics or subway schedules, drifted to a darker, colder place. He thought about the appointment card magnetized to their refrigerator—the reminder for her next injection at Dr. Lin’s office.
+
+ProGest-Depot.
+
+The shot was a logistical triumph. It eliminated the hygiene nightmares and the debilitating cramps that triggered her spasticity. It made their life manageable. But it also did something else: it shut down her reproductive system.
+
+And then, his mind drifted to his own medical file. The diagnosis from when he was fourteen. Non-obstructive Azoospermia. The factory that was supposed to make the genetic material was permanently closed.
+
+Patrick felt a chill that had nothing to do with the air conditioning.
+
+He looked down at his sister. In the dim light of the streetlamps filtering through the blinds, he could see the curve of her spine, the softness of her skin.
+
+She was the perfect victim.
+
+He analyzed the variables with the cold detachment of an engineer, and the result made him want to vomit.
+
+- Variable 1: Mobility. She couldn't walk. She couldn't run. She couldn't fight off a man of his size.
+
+- Variable 2: Voice. She couldn't scream. Even if she did, the apartment walls were thick concrete.
+
+- Variable 3: Biology. This was the terrifying clincher. If he were a monster—if he were one of those men he read about in the statistics—he could do anything to her. And there would be no consequences. She was on birth control. He was sterile. There would be no pregnancy. There would be no DNA evidence that "didn't belong." There would be no biological alarm bell to alert a doctor or a parent.
+
+It was a closed loop. A black box. The "Perfect Crime" handed to him on a silver platter by biology and pharmacology.
+
+Patrick felt a wave of physical nausea roll through his gut. He knew the statistics. He knew that disabled women were the most vulnerable population on earth. He knew that predators sought out roles like his specifically because it offered this level of access.
+
+He looked at his own hands. These were the hands that lifted her naked body into the shower every morning. The hands that applied the barrier cream. The hands that carried her to the toilet. The hands that were currently resting protectively over her hip.
+
+He possessed total, unchecked, absolute power over her existence.
+
+The thought was terrifying. Not because he was tempted—the very idea made his skin crawl—but because he realized the sheer magnitude of the gamble she had taken.
+
+She knew he was sterile. She knew she was on the shot. She knew the door was locked.
+
+And yet, she was asleep.
+
+She was limp, relaxed, and uncurled. Her breathing was slow and even. She hadn't flinched when he put his arm around her.
+
+She had placed her body, her dignity, and her entire life into his hands and said, “I trust you.”
+
+She believed, down to her marrow, that he was the one man on earth who would never, ever cross the line. She believed that his hands were tools of service, not weapons of conquest.
+
+Patrick clenched his jaw in the dark until his teeth ached.
+
+That trust was heavier than the wheelchair. It was heavier than the rent. It was a terrifying, sacred weight.
+
+He shifted slightly, pulling the duvet up to cover her shoulder, shielding her exposed skin from the cool air.
+
+I will not fail you, he thought, the vow hardening like steel in his chest.
+
+His sterility wasn't a curse. It was a sign. He wasn't built to create new life; he was built to protect this life. He was the barrier between her and the statistics. He was the living proof that total dependence didn't have to mean exploitation.
+
+He would bathe her. He would carry her. He would sleep naked beside her for warmth. And he would treat her with more reverence than a queen, precisely because she couldn't demand it.
+
+She had given him the keys to the fortress. His job was to make sure the monsters never got in—even the ones that might hide in the darkest corners of human nature.
+
+He kissed the top of her head—a light, fierce seal of protection.
+
+"Sleep tight, Nikki," he whispered into the silence. "You're safe."
+
+And he meant it. For as long as there was breath in his lungs, she would never have to be afraid in her own bed. He would be the exception to the statistic, every single night, for the rest of his life.
+
+
+

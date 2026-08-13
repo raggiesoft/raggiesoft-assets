@@ -1,0 +1,54 @@
+# Part 4: The Acceleration – Monday, October 24, 2044 – 12:05 (They hadn't even been out of the engine room for twenty minutes)
+
+The crisp, sweet juice of the apple was still cold on Wyatt’s tongue. He took another bite, the loud crunch echoing comfortably in the thick, humid air of the Hydroponics Bay. Sarah leaned against the heavy iron bulkhead beside him, a soft, genuine smile finally relaxing the tense lines around her eyes.
+
+For three minutes, the universe was entirely contained within the warm, vibrant glow of the UV lights and the steady rush of the newly repaired water pump.
+
+Then, the rusted PA speaker above the bulkhead door violently violently cleared its throat.
+
+*BEEEEEEP. BEEEEEEP. BEEEEEEP.*
+
+Wyatt stopped chewing. The apple in his hand suddenly felt like a stone. Sarah’s smile vanished instantly, her shoulders slamming back against the iron wall as the agonizing dual-tone alarm physically rattled the PVC piping.
+
+They hadn't even been out of the engine room for twenty minutes. The forty-eight-hour warning from the last broadcast hadn't even begun to tick down.
+
+The heavy, grating alarm cut off, replaced by a thick wall of distorted static. It sounded different this time—wetter, heavier, as if the transmitters on Earth were physically drowning in earth and rock.
+
+*"THE FOLLOWING MESSAGE IS TRANSMITTED AT THE REQUEST OF THE DEPARTMENT OF DEFENSE AND THE UNITED STATES NORTHERN COMMAND."*
+
+Wyatt dropped the apple into the galvanized steel tray, his jaw clenching so hard his teeth ached. FEMA wasn't leading the broadcast anymore. The military had taken full control of the grid.
+
+*"PREVIOUS TIMELINE ESTIMATES REGARDING THE SUBTERRANEAN ANOMALY ARE NULL AND VOID. I REPEAT. PREVIOUS TIMELINE ESTIMATES ARE NULL AND VOID."*
+
+Sarah’s breath caught in her throat. She stepped closer to Wyatt, her grease-stained fingers wrapping tightly around his forearm. He instantly pulled her against his side, his eyes locked onto the black metal grating of the speaker.
+
+*"THE ORGANIC MASS HAS DEMONSTRATED UNPREDICTABLE ACCELERATION TACTICS. IT HAS BREACHED THE PACIFIC FAULT LINE. THE METROPOLITAN AREAS OF LOS ANGELES, SAN DIEGO, AND PHOENIX HAVE EXPERIENCED TOTAL SUBTERRANEAN COLLAPSE. SURVIVAL RATES ARE ZERO. BIOMASS ASSIMILATION IS ONE HUNDRED PERCENT."*
+
+"Phoenix?" Wyatt whispered, the strategic impossibility of it chilling his blood. "Phoenix is three hundred miles in the other direction. It's moving in multiple directions at once."
+
+The synthesized voice didn't panic. It delivered the death toll of tens of millions of people with the exact same inflection it used to announce the time.
+
+*"THE WESTERN SEABOARD IS CLASSIFIED AS LOST. THE ANOMALY IS UTILIZING THE PACIFIC OCEAN TO COOL EXPANSION FRICTION. IT IS GROWING."*
+
+A harsh, jagged screech of feedback tore through the audio, making Sarah wince and press her face against Wyatt's shoulder.
+
+*"ALL REMAINING CIVILIAN POPULATIONS EAST OF THE ROCKY MOUNTAINS ARE ORDERED TO PREPARE FOR IMMEDIATE, CONTINENTAL EVACUATION. THE UNITED STATES MILITARY IS INITIATING SCORCHED EARTH PROTOCOLS ALONG THE CONTINENTAL DIVIDE. MAY GOD BE WITH YOU."*
+
+*\<HEAVY AUDIO DISTORTION\>* *\<TRANSMISSION TERMINATED\>*
+
+The speaker snapped off. The heavy, rhythmic rush of the ebb-and-flow water pump filled the silence, but the warmth of the room was completely gone.
+
+Sarah stared blankly at the half-eaten apple resting in the clay pebbles. Los Angeles. San Diego. Phoenix. Gone. Not in two days. In less than two hours. Whatever Apex had dug up in Sector 4 wasn't just a localized biological hazard. It was a planet-killer, and it was sprinting.
+
+"They said forty-eight hours," Sarah murmured, her voice trembling, stripped of all its previous fierce resolve. "Wyatt, they said they had two days."
+
+Wyatt stared up at the dead speaker, his mechanic's brain trying to calculate the sheer, horrifying mass required to hollow out the entire western seaboard in an afternoon.
+
+"It's feeding," Wyatt said, his voice a low, grim rasp. He looked down at Sarah, his arms tightening protectively around her. "The more people it consumes, the faster it grows. It hit the coastal population centers, and it just... exploded."
+
+He looked around the rusted, heavy iron bulkheads of Delta 9. The station had felt like a prison when they first boarded it. Then it felt like a hideout. Now, it felt entirely too small. They were safe from the physical destruction, but the psychological weight of sitting in a quiet, humid room while a world was eaten alive was suffocating.
+
+Sarah buried her face in his chest, her hands gripping his undershirt like a lifeline. "Wyatt... how long until it eats the rest of it?"
+
+Wyatt didn't answer. He just held her, staring into the harsh purple glare of the UV lights. Because looking at the timeline, the terrifying reality was that Earth might not even make it to the weekend.
+

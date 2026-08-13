@@ -1,0 +1,48 @@
+# Part 2: The Route 106 Escort – 11:30 AM (PST)
+
+The peaceful hum of the apartment shifted as Jessica finally initiated the logistical phase of the day.
+
+"Alright, team," Jessica announced, wheeling into the bedroom. "It's time to mobilize. We are heading down to Rainier Avenue. You need actual clothes, Michael. We are leaving the squalor of Kent completely in the past, and that means a completely fresh wardrobe."
+
+Kristin, fully awake and dressed, grabbed her lanyard from the kitchen counter. "I've got my employee discount card ready to go. We'll stretch that hardware budget as far as it can possibly go."
+
+But before we could leave, I needed to change out of my long nightshirt.
+
+Rachel’s separation anxiety immediately redlined. The absolute terror of losing her Bear again spiked so hard her breathing hitched. When I walked toward my bag to grab my clean Quantum sweatpants and t-shirt, she shadowed me instantly, completely refusing to step out into the hallway or close the door between us.
+
+"I'm not leaving the room," Rachel rasped, her voice tight and unyielding. "And I am not turning around."
+
+"I know, Bug," I assured her gently.
+
+The standard, neurotypical rules of adult modesty had been completely burned to the ground by Kent. Privacy simply did not exist for us today, and I didn't care. I needed her to feel safe just as much as she needed me to be safe.
+
+She stepped right into my personal space, gripping my left forearm with both of her hands. She didn't look down or look away; she locked her dark eyes directly onto my face, maintaining an unbroken, fierce visual tether.
+
+I awkwardly navigated changing my clothes one-handed. I pulled the oversized Quantum sweatpants on under the hem of the long nightshirt, then pulled the nightshirt off, swapping it for the clean t-shirt. Throughout the entire clumsy process, Rachel never blinked, and she never let go of my arm. She had to *see* that I was still standing right there.
+
+The second the clean shirt was over my head, she shifted her grip, sliding her arm firmly through mine and locking us together.
+
+We bundled up in our heavy winter coats and stepped out of the apartment.
+
+The gray, damp Pacific Northwest chill bit at our cheeks as we walked to the intersection of Edmonds Avenue NE and NE 3rd Street. Rachel pressed her shoulder firmly against my bicep. Because we were exactly the same height, her physical presence was a solid, unshakeable wall. She was walking point, acting as my physical shield against a world she still deemed highly hostile.
+
+The heavy air brakes of the TAPS Route 105 hissed as the bus pulled up to the curb. Kristin boarded first to pay her fare, followed by Jessica rolling up the hydraulic ramp. Rachel and I boarded last.
+
+The bus wasn't terribly crowded, but Rachel didn't take any chances. She guided me to a two-seater near the back, sliding in right next to me. She pressed her knee against mine and wrapped both of her hands around my forearm. The deep rumble of the diesel engine vibrated through the floorboards as the bus carried us the short distance to the Renton Transit Center.
+
+"Transferring here," Jessica instructed as the lift lowered her to the damp concrete of the transit hub. "We just need to catch the 106."
+
+Navigating a busy transit center is normally a sensory minefield for my processor, but my perimeter was absolutely flawless. Rachel’s unyielding grip kept my nervous system completely grounded. I didn't have to scan the crowd for threats. My Bug was doing the scanning for me.
+
+We waited at the bay until the heavy, articulated Route 106 pulled up.
+
+We boarded, settling in for the ride out of the transit center. The bus merged onto Rainier Avenue South, carrying us smoothly toward the massive commercial sector. I watched the sprawling strip malls and heavy traffic blur past the rain-streaked windows, my chest feeling lighter with every passing mile that put distance between me and Kent.
+
+"Stop requested," Jessica called out a few minutes later, pulling the yellow cord.
+
+The bus dropped us off right on the exact same side of the street as the sprawling, massive Franklin’s Market. But as the bus pulled away, Jessica didn't steer her wheelchair toward the massive grocery superstore.
+
+Instead, she banked left, navigating down the sidewalk toward a very familiar, bright red-and-white fast-food sign glowing near the edge of the parking lot. Sitting atop the tall metal pole was the massive, slightly absurd, School Bus Yellow plastic head of the *Jumping Jester*.
+
+"Change of plans," Jessica smiled, pushing the heavy glass door of the restaurant open. "We are doing lunch before we shop. You need a hot meal that you didn't have to cook, and you definitely deserve some junk food after the last forty-eight hours."
+

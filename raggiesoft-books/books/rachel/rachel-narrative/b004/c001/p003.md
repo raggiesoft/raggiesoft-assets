@@ -1,0 +1,51 @@
+# Part 3: Deploying Base Camp – 8:00 PM
+
+With the dining room table finally cleared of algebra worksheets and dinner plates, the kinetic energy of the house shifted completely toward the weekend. It was time to transform the living room.
+
+"Alright, let's get this set up," I announced, grabbing the edge of the heavy floral sofa cushions.
+
+Ashley and Rachel immediately jumped in to help. We tossed the cushions aside, grabbed the metal handle hidden beneath the frame, and hauled the queen-sized mattress out into the center of the carpet with a loud, familiar squeak of springs. Ashley sprinted upstairs to grab her duffel bag, while Rachel and I headed for the hall closet to haul out an absolute mountain of pillows, quilts, and heavy comforters.
+
+As we were dumping the blankets onto the mattress, Jessica walked out of the laundry hallway carrying a rolled-up twin air mattress and an electric pump.
+
+"Make room," Jessica smiled, dropping the plastic roll onto the floor right next to the sofa bed. She plugged the pump into the wall outlet, and it immediately roared to life with a high-pitched, mechanical whine. "I'm not missing out on the pre-theme park sleepover."
+
+Rachel’s face lit up. Our teenage sentinel was staying downstairs with us, just like old times.
+
+As the air mattress slowly inflated, I stood next to the sofa bed and looked down at the flat, empty mattress. I caught Rachel looking at it, too. A heavy, profound realization passed silently between us.
+
+We didn't need to ask Uncle Jim or Dad to lift us into a rigid plank. We didn't have to carefully arrange dense, medical-grade foam wedges behind our backs. We weren't trapped inside thick canvas binders, terrified that a sudden movement would tear our fascia or rupture a healing organ. We were just healthy, mobile teenagers getting ready for a sleepover.
+
+I bumped my shoulder against Rachel's. *We made it, Bug,* I thought, offering her a quiet, knowing smile.
+
+Rachel bumped my shoulder right back, her dark eyes reflecting the exact same overwhelming gratitude. *We did, Bear.* Once Jessica’s air mattress was fully inflated and covered in her own blankets, we initiated the standard bathroom rotation. We took turns heading down the hall to wash our faces and change into our comfortable, oversized sleep clothes.
+
+By the time we all migrated back to the living room, Mom and Dad were standing at the bottom of the stairs.
+
+"Alright, crew, we're heading up," Dad announced. He clapped his hands twice, looking down at Archie and Baby. "Come on, boys. Upstairs."
+
+Baby let out a low, disappointed grumble, his heavy tail drooping, while Archie looked utterly betrayed, dropping his slobber-soaked rope toy onto the carpet.
+
+"Aww, let them stay down here," Ashley pleaded from the edge of the sofa bed.
+
+"Absolutely not," Mom said firmly, pointing at the floor. "Jessica has the air mattress out. If Baby steps on that plastic with his massive paws, or if Archie gets the 'zoomies' in the middle of the night, they will puncture it in three seconds flat. They're sleeping in our room tonight."
+
+With heavy, dramatic sighs, the two Labs slowly trudged up the wooden stairs behind our parents.
+
+"Have fun tomorrow, guys," Mom called down before the master bedroom door clicked shut. "Get some sleep!"
+
+The downstairs officially belonged to the pack.
+
+Jessica settled onto her air mattress on the floor, pulling her quilt up and getting comfortable. On the sofa bed, we fell into our immediate, non-negotiable geometry. I climbed into the absolute center of the mattress. Ashley slid in on my left side, and Rachel climbed in on my right.
+
+I lay flat on my back, and they both immediately closed the distance. Rachel pressed her side flush against my ribs, throwing her arm securely over my chest to anchor herself. Ashley leaned her head gently against my other shoulder. I wrapped my arms around both of them, pulling them in tight to provide the deep, grounding pressure that regulated our entire ecosystem.
+
+"Goodnight, guys," Jessica whispered into the dark room, reaching up to click off the small reading lamp.
+
+"Goodnight, Jess," Ashley replied, her voice buzzing with anticipation in the dark.
+
+I stared up at the shadowed ceiling, listening to the synchronized breathing of my best friend and my little sister resting safely against my sides. The perimeter was perfectly locked. The trauma of the past was far away, and tomorrow was going to be an absolutely massive day.
+
+"Goodnight, everyone," I whispered.
+
+

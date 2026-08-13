@@ -1,0 +1,52 @@
+# Part 2: Zero Tolerance
+
+Dr. Thorne moved through the syllabus with the efficiency of a surgeon. She didn’t pace; she planted herself behind the podium and let the weight of the topics settle over the room.
+
+"Week four covers reproductive anatomy," she said, tapping the document. "Week five, the physiology of sexual response. Week six, we begin our unit on contraception and STI prevention. Do not assume you know this material because you took a health class in ninth grade. The statistics suggest otherwise."
+
+She flipped a page. "Regarding visual aids: We will be viewing diagrams and clinical photography. These are medical images. They are not pornography. If you cannot distinguish between the two, you will struggle to pass the midterm."
+
+The room was silent, save for the scratching of pens. Freddie appreciated the bluntness. There was no ambiguity here.
+
+Then, Dr. Thorne reached the section on sexual dysfunction. "We will discuss common issues ranging from erectile dysfunction to vaginismus..."
+
+A sharp, high-pitched giggle erupted from the third row.
+
+It wasn’t a cough disguised as a laugh. It was a full-blown, open-mouthed cackle. A girl with blonde highlights and a popped collar—who had spent the last ten minutes whispering to her neighbor—had apparently found the medical terminology hilarious. She was exactly the type Freddie had clocked earlier: someone who signed up hoping for an "easy A" and perhaps some titillating live demonstrations, treating a university course like a bachelorette party.
+
+The silence that followed was absolute.
+
+Dr. Thorne stopped mid-sentence. She didn’t sigh. She didn’t scold. She simply pointed a manicured finger at the door.
+
+"Out," she said. Her voice was level, devoid of anger but terrifyingly final.
+
+The girl blinked, her smile faltering. "What? I was just—"
+
+"You were disrupting my lecture and disrespecting the material," Dr. Thorne said. "Pack your bag. You are dropped from the course effective immediately. I will email the registrar before this class ends."
+
+"But—"
+
+"Now."
+
+The girl’s face flushed a deep crimson. The reality of losing three credits in the first twenty minutes of the semester seemed to crash down on her. She shoved her notebook into her bag, the sound of the zipper loud in the quiet room. She stood up, smoothing her skirt, trying to salvage some scrap of dignity by pretending she didn't care.
+
+She walked down the aisle, chin held high, passing the second row.
+
+As she came abreast of Freddie, she paused. She had seen him walk in earlier, noting the uneven rhythm of his gait, the way his foot dragged slightly, and how heavily he leaned on the blonde girl next to him for stability. In her mind, she did the quick, cruel calculus of the immature: *Disability means desperation.*
+
+She slowed her pace and locked eyes with him. Her expression shifted from embarrassment to a bizarre, heavy-lidded sultry gaze—an exaggerated, "I want you" look. It was performative and predatory, a smirk that said, *I bet you’d take whatever you could get.*
+
+She winked, then pushed through the double doors, letting them slam behind her.
+
+Freddie stared at the closed door, his stomach turning. He wasn't flattered; he was insulted. She had looked at him and seen an easy target, a lonely guy who would be grateful for the attention of a girl who just got kicked out of sex ed.
+
+She couldn't have been more wrong.
+
+He felt a hand slide firmly onto his forearm, squeezing with a familiar, grounding pressure. It was Paige. She didn't look at the door; she was looking at him, her blue eyes calm and knowing. On his other side, Jessica shifted in her seat, her shoulder pressing solidly against his, creating a physical barrier of support.
+
+Freddie let out a breath, the tension in his spastic muscles easing under Paige's touch. He didn't need the validation of a stranger looking for a rebound. He had Paige, his twin and safe person. He had Jessica, his rock. He had five other sisters back home in Virginia Beach who made up his entire world. He had more love and support in his life than that girl would likely ever understand.
+
+He glanced at Paige, offering a small, dismissive shrug. She smiled—a tiny, private expression that said, *I know. She’s gone. You’re safe.*
+
+"As I was saying," Dr. Thorne continued, her voice slicing through the lingering awkwardness. "Vaginismus. Now, let’s turn to page four regarding the attendance policy..."
+

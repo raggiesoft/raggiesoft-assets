@@ -1,0 +1,42 @@
+# Part 1: Damage Control
+
+## Date: June 15, 2003 (The Day After Graduation) Time: 10:30 AM Location: The Bennett Living Room, 1850 Delaney Street, Virginia Beach
+
+Tom nodded at Patrick, sensing the density of the air in the room. He picked up the toolbox and the wobbly wheel Patrick had removed. "I'll take the rim out to the garage vice. I’ll get it true again. You two... take your time."
+
+Tom stepped out, closing the door softly behind him. The click of the latch was the only sound in the house.
+
+Patrick turned back to Nichole. The living room felt safe—the carpet was thick, the blinds were drawn against the harsh sun—but Nichole was vibrating. It was a subtle, high-frequency tremor that rattled the armrests of her chair.
+
+"Okay," Patrick said, his voice dropping to a whisper. "Dad's gone. Let's check the ribs."
+
+Nichole squeezed her eyes shut. The ribs were the worst. That was where the first man—the one chasing a front-row seat—had kicked her when she was crawling into the gap.
+
+Patrick moved the bag of frozen peas he had wrapped in a towel. He gently lifted the side of her loose t-shirt.
+
+He hissed through his teeth.
+
+It wasn't just a bruise. It was a landscape of violence. A mottled sweep of deep purple and angry red wrapped around her right ribcage. But right in the center, clear as a fingerprint, was the tread pattern of a heavy work boot.
+
+Patrick stared at the tread mark. He felt bile rise in his throat. He could see the physics of it—the heel striking her fragile, wasted intercostal muscles, driving the breath out of her lungs.
+
+"Deep breath for me, Nikki," Patrick commanded softly. "I need to know if the pleura is punctured. Breathe in."
+
+Nichole tried. She sucked in a breath. *Hitch.* Pain flared hot and sharp, like a knitting needle stabbing her side. She stopped halfway, letting the air out in a ragged gasp.
+
+"Sharp or dull?" Patrick asked, his hand hovering over the spot, afraid to touch it.
+
+Nichole opened her eyes. She held up one finger. *Sharp.* Then she tilted her hand. *But fading.*
+
+"Okay," Patrick exhaled, his shoulders slumping. "If it was a punctured lung, you'd be coughing froth. It's just... really deep bruising. Maybe a hairline fracture."
+
+He placed the cold pack gently against her side. Nichole flinched, a tear leaking from the corner of her eye. It wasn't just the cold. It was the memory.
+
+Every time she closed her eyes, she didn't see the darkness of her eyelids. She saw the floor. She saw the forest of legs. She saw the heels of shoes coming down like pistons. She remembered the sound—not the music, but the thud-thud-thud of running feet inches from her face.
+
+She remembered the absolute, crushing realization that she was *matter*. To the crowd, she wasn't a girl. She wasn't a valedictorian. She was debris. She was a speed bump on the way to a wooden bench.
+
+She felt a sob rising in her chest, but she swallowed it down. If she cried, her diaphragm would spasm, and the ribs would feel like they were breaking all over again.
+
+She looked at Patrick. He wasn't looking at her injury anymore. He was staring at the floor, his jaw clenched so hard a muscle was jumping in his cheek. He looked like he wanted to punch a hole through the wall.
+

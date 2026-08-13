@@ -1,0 +1,24 @@
+# Part 6: Poutine Logistics and a Fortress in French Class
+
+In the days that followed, the upcoming Réveillon became the central focus of their planning. Of all the traditional foods Olivia had described, it was the poutine that had captured Leo's imagination the most. The very fact that it was difficult to get in the United States made it feel like a culinary treasure hunt, and he declared it was the thing he was most looking forward to trying.
+
+This sent Stella and Olivia into "logistics mode."
+
+"Okay," Stella said one evening, laptop open on the dining room table. "I've been researching. The best, most authentic cheese curds come from dairies in Québec. If we want them to be fresh and squeaky for Christmas Eve, we need to place an order for overnight, refrigerated shipping to arrive on December 23rd."
+
+"Perfect," Olivia said, peering over her shoulder. "My parents can recommend a good *fromagerie*. And I have a great family recipe for the gravy. It's the most important part."
+
+Amidst the delicious food planning, an email arrived that solidified another part of their future. Stella opened it and smiled. "It's official," she announced. "My application to CCHR was accepted. I'm a student again."
+
+True to their plan, they all sat down together at the computer that night. One by one, Stella, Luna, Leo (with Stella's help), and Olivia navigated the CCHR student portal and officially enrolled in the same "Beginning French I" class for the Spring 2004 semester. It was a tangible, exciting step, booking their first shared adventure as a complete fortress.
+
+Seeing their names lined up on the class roster gave Olivia a renewed sense of purpose. She ramped up their nightly French lessons, determined to give them a head start.
+
+"My goal," she declared playfully, "is to have everyone comfortable with the basics of Québécois French before our class even starts. That way, you'll all be ahead of the curve when the professor starts teaching Metropolitan French."
+
+With their academic adventure now set in stone, Olivia doubled down on her informal French lessons. Her goal was to have everyone comfortable with the basics of Québécois French before their formal class in Metropolitan French began.
+
+"Okay," she'd say cheerfully, "tonight we learn how to order food. Very important for poutine!"
+
+She taught them phrases like, "*Je voudrais...*" (I would like...) and "*S'il vous plaît*" (Please). It was a happy, low-pressure routine. For Leo, these lessons were a quiet joy. He was not only reclaiming his voice, but expanding it, filling his world with new sounds, new flavors, and the unwavering promise of a future built on a foundation of love and family.
+

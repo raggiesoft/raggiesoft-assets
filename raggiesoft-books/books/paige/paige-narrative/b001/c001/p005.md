@@ -1,0 +1,36 @@
+# Part 5: The File
+
+By noon, the humidity had breached the band room walls, making the air thick and heavy, but Freddie was still sitting upright.
+
+The drafting chair was a miracle. While the other freshmen were shifting their weight from foot to foot, grimacing as the blood pooled in their heels, Freddie was stable. He had spent the last three hours learning the warm-up packet—a series of exercises called "Eight on a Hand" and "Accent Tap."
+
+Heidi was still angry, but she had shifted from vocal confrontation to aggressive silence. She communicated with the rest of the Pit using words; she communicated with Freddie by pointing at things or slamming music sheets onto his stand.
+
+"Lunch break!" Panoff announced, checking his watch. "One hour. Be back at one o'clock, watered and ready to sweat."
+
+As the room dissolved into the chaos of teenagers scrambling for their bags, Freddie stayed in his chair for a moment, letting his arms hang loose. His wrists were sore, but his legs—usually burning by this time of day—felt fine.
+
+"Avery," Mr. Panoff called out.
+
+Freddie tensed. He saw Heidi pause near the door, her ears practically swiveling around to catch the conversation.
+
+Mr. Panoff walked over to the marimba, holding a manila folder. He didn't look like he was about to scold anyone; he looked administrative.
+
+"I just wanted to double-check that the height is working for you," Panoff said, tapping the back of the drafting chair. "Your mom called the main office last week to make sure the paperwork came over from Pope Middle."
+
+Freddie nodded. "It's perfect. Thank you."
+
+"Good. The file from Pope was very specific," Panoff said, opening the folder briefly. Freddie caught a glimpse of official-looking forms—the accommodations his parents had fought for since elementary school. The transfer from Pope Middle to Northwood was supposed to be seamless, just a matter of moving a file from one cabinet in the city to another, but Freddie knew his mother hadn't left it to chance. She had ensured the "system" followed him.
+
+"We don't want you burning out in the first week," Panoff continued, closing the folder. "If the section leader gives you any more grief about the seating arrangement, you send her to me. The chair is non-negotiable. It's in the file."
+
+Heidi, realizing there would be no vindication for her, pushed the door open and stormed out into the hallway.
+
+Paige appeared at Freddie’s elbow, handing him his lunch bag. "See? Mom and Dad handled it."
+
+"Yeah," Freddie said, sliding off the chair. He felt steady on his feet. The chair hadn't just saved his energy; it had legitimized his presence. He wasn't breaking the rules; he was following a different set of them, written down in ink in a file from Pope Middle School.
+
+"Come on," Paige said, hooking her arm through his. "Let's go find a quiet place to eat. I think I saw a tree outside that isn't surrounded by drummers."
+
+"A tree sounds good," Freddie agreed. He looked back at the drafting chair one last time—his fortress in the middle of the battlefield—and followed his sister out into the sun.
+

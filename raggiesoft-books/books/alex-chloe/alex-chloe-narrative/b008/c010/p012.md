@@ -1,0 +1,40 @@
+# Part 12: A Rivalry is Born (December 25, 2003)
+
+The Miller house was quiet, the happy chaos of Christmas Day having finally settled into a peaceful, contented silence. The Leclercs had gone back to the Mason house next door, and the parents were quietly chatting in the living room. In Alex's room, the three of them—Alex, Chloé, and Megan—were unwinding from the long, exciting day, all piled comfortably on his full-sized bed.
+
+A laptop rested on a pillow between them, but Alex wasn't playing a game or reading about science. He had a web browser open and was scrolling through the official website of the Boston Brawlers, his brow furrowed in concentration as he read about the team's history and player stats.
+
+Chloé, propped up on one elbow, watched him with a look of mock horror. "I can't believe you're serious," she whispered, her voice a theatrical stage whisper full of disbelief. "You're really doing it. You're researching the enemy."
+
+Megan, sitting on Alex's other side with an arm draped comfortably around his shoulders, just grinned, a look of pure delight on her face. "It's not too late to join the winning side, Chloé. We have better jerseys."
+
+Alex turned to Chloé, a slow, teasing smile spreading across his face. He alt-tabbed to a simple text editor and typed, the words appearing in a clean, sans-serif font.
+
+\<They seem like a good team. Smart. Strategic.\>
+
+Chloé leaned in to read the screen. "They're the bad guys, Alex!" she insisted, playfully nudging his shoulder. "We're the Voyageurs! We're the heroes of the story!"
+
+He chuckled, a soft, happy sound, and typed his reply below the first one.
+
+\<Who won last night?\>
+
+Chloé gasped, feigning a mortal wound as she read the words. "Oh, you are not bringing that up again! That was a fluke!" she said, but she couldn't suppress her own laugh.
+
+The friendly rivalry, their very own, was officially born.
+
+After a few more minutes of good-natured teasing, Megan stretched and stood up. "Alright, you two," she said, her voice full of a fond, sisterly warmth. "I'm going to head to my room. You guys have fun plotting your future hockey dynasty." She leaned down and gave Alex one last, firm hug goodnight. "Night, cuz." She then turned to Chloé, a final, playful twinkle in her eye. "The offer still stands, Mason. Come to the dark side. We have better jerseys."
+
+Chloé just laughed and shook her head. "Never, Carter. Never."
+
+With Megan gone, a more serious quiet settled between them. Chloé's expression softened. "Are you excited?" she asked, her voice barely a whisper. "About... January fifth?"
+
+Alex's smile faded slightly. He looked down at the laptop, his hands stilling on the keyboard. He thought for a moment before typing his honest reply in the text editor.
+
+\<I'm scared. The word... 'marriage'... it still makes me feel... bad. Because of Vera.\>
+
+Chloé’s heart ached for him. She reached out and took his hand, her grip firm and reassuring. "I know," she said softly. "And that is completely okay. We don't ever have to call it that, between us. It's just a piece of paper, Alex. A legal tool to keep you safe. That's all."
+
+She looked at him, her gaze direct and full of the unwavering, platonic love that had been his anchor for years. "But for the record," she added, her voice thick with an emotion that was pure, uncomplicated devotion, "I can't wait. Not because of the paper, but because it feels like... the most 'us' thing in the world. A promise to always, always be your person. To be your team."
+
+He looked at her, at the absolute sincerity in her eyes. She understood. She always understood. She wasn't just his best friend; she was his teammate. And for the first time, the thought of the ceremony in a few weeks didn't feel like a terrifying echo of the past, but like the first step into a safer, stronger future, with his captain right by his side.
+

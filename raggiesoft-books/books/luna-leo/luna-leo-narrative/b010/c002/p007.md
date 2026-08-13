@@ -1,0 +1,13 @@
+# Part 7: A Fragile Normalcy
+
+The next morning, the terror of the previous night felt like a distant, foggy dream to Leo. When he woke, Delores was bright and cheery, a complete one-eighty from her cold fury the day before. It was another mask, a carefully constructed performance of normalcy, but it was one that Leo, in his desperate desire for peace, did not pick up on. Her cheerfulness felt like a reprieve, a sign that maybe things were okay, that he had imagined the severity of the argument between her and her mother.
+
+His resolve from the night before, the desperate plan to tell Stella, Luna, and Olivia everything, was forgotten, pushed aside by the immediate, powerful need to avoid any further conflict.
+
+When he arrived at the CCHR campus, he was just happy to be back in a familiar environment. He saw Luna waiting for him in their usual spot in front of the Martin Building. The moment he was within reach, she pulled him into a tight, fierce hug. She was still deeply upset about the controlled, tense visits and the clear signs of neglect, but having her brother back, feeling him hug her with his familiar, comforting strength, was all that mattered in this moment. She was just happy that her brother still liked hugging her.
+
+"Ready for another riveting lecture on transcendentalism?" she asked, her voice full of a forced, cheerful energy that mirrored his own fragile peace.
+
+He gave a genuine, relieved smile. They headed into the building for their shared American Literature class, with Luna grateful for every moment she had with Leo, safely away from Delores's suffocating presence. For a blissful fifty minutes, they were just twins again, a small, two-person fortress in a quiet classroom, and the tension of their other reality felt, for a moment, a world away.
+
+

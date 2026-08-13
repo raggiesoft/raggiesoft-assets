@@ -1,0 +1,48 @@
+# Part 7: The Supply Run
+
+## July 28, 2006 8 Ocean View Lane 05:00 PM
+
+The house was hushed, settled into the deep, rhythmic quiet that always followed a period of sensory overload.
+
+In the living room, the scene hadn't changed much since the Census worker’s visit, but the tension had dissipated. The "Twin Frequency" was humming at a steady, low vibration.
+
+Leo lay on top of Luna on the sectional, his weight fully surrendered to her support. His eyes were closed, his breathing deep and even, synced perfectly with his sister’s. The buzzing static of the Aquarium crowds had finally faded, replaced by the physical certainty of gravity and touch.
+
+Olivia sat on the floor beside the sofa, her back resting against the cushions. Her hand was still on Leo’s neck, her thumb working a stubborn knot of tension at the base of his skull. She wasn't trying to fix him; she was just being there, a third point of contact in their closed circuit.
+
+Stella walked quietly down the hall from the East Wing, her car keys in hand. Eleanor followed her, looking refreshed after her afternoon rest.
+
+"We're heading out," Stella whispered, pausing at the edge of the living room. She didn't step fully in; she respected the bubble. "We need to stock the fridge properly. **BayState Market** is good for staples, but Grandma wants to go to **Heritage Market** for the produce."
+
+"And the bakery," Eleanor added softly. "They make a cranberry walnut bread that Arthur loved. I think it would be good for breakfast."
+
+Olivia looked up and nodded. "Take your time. We're good here. He's stabilizing."
+
+"Does he need anything specific?" Stella asked.
+
+"Just quiet," Olivia said. "And maybe some of that **Autocrat** milk when he wakes up."
+
+"On the list," Stella promised.
+
+She looked at the pile of siblings on the sofa. It looked like a tangle of limbs to an outsider, but to her, it looked like a masterfully engineered support structure.
+
+"You're in charge, Liv," Stella said. "Fortress is yours."
+
+"Copy that," Olivia smiled.
+
+Stella and Eleanor walked out to the garage. The heavy, insulated door of the **Holt Sentinel** clicked shut, sealing the house back into silence.
+
+As the garage door rumbled open and the car backed out, Olivia turned back to the twins.
+
+Leo shifted slightly, letting out a long, ragged sigh.
+
+"You okay, *mon chum*?" Olivia whispered.
+
+Leo didn't open his eyes. He just tapped his fingers against Luna’s side—a slow, rhythmic pattern. *Tap. Tap. Tap.*
+
+"He says he's landing," Luna murmured, her voice vibrating against Leo’s chest. "The spinning stopped."
+
+"Good," Olivia said, resuming the gentle massage on his neck. "Just breathe. We aren't going anywhere."
+
+For the next hour, the only sounds in the house were the hum of the refrigerator and the soft breathing of the Fortress, holding itself together while the world outside rushed by.
+

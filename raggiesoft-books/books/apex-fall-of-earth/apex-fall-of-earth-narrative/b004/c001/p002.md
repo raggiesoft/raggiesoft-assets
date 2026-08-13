@@ -1,0 +1,48 @@
+# Part 2: The Ghost Ship – Monday, October 24, 2044 – ~10:00 (A few more hours pass)
+
+The quiet luxury of the Captain's Quarters held them for a few more hours, but eventually, the reality of their situation pulled Wyatt out of the heavy blankets.
+
+Apex Defense Solutions was a massive, many-tentacled beast. The Architect had promised them that Outpost Delta 9 was off the network, but Wyatt needed to see it with his own eyes.
+
+He pulled on his heavy canvas uniform pants and a plain black undershirt, leaving the stiff, abrasive S.H.O.P. armor jacket pooled on the floor. Sarah joined him a few minutes later, looking incredibly vibrant and entirely in her element in the slate-blue fabric of her Helios uniform.
+
+They walked together down the curved, grated corridor, the yellow track lighting buzzing faintly overhead. They pushed through the heavy double doors into *OPERATIONS*.
+
+The command center was just as they had left it. The massive CRT monitor glowed with a steady, amber command prompt, the Architect's final message permanently burned into the physical memory banks.
+
+"The Architect said the station was ours," Sarah murmured, stepping up to the heavy steel console. Her fingers lightly traced the edge of the chunky, mechanical keyboard. "But what does the Apex registry say? We have to make sure the automated tracking grid isn't pinging a heartbeat back to Earth."
+
+"Exactly," Wyatt agreed, stepping in beside her.
+
+He didn't look at the amber screen. He looked up at the massive, physical communications board bolted to the bulkhead above the terminal. It was a dizzying array of analog dials, thick coaxial cables, and heavy toggle switches.
+
+He traced the thick black cable labeled *PRIMARY UPLINK* down to a heavy, glass-covered breaker box. He flipped the metal latch and pulled the glass open.
+
+"Look at this," Wyatt said, his voice dropping an octave.
+
+Sarah leaned in close. Inside the box, the heavy copper fuses that would normally connect the station's automated transmitter to the deep-space relay network were simply gone. The metal housing was empty, dusted with a fine layer of age.
+
+"It's physically severed," Wyatt explained, a massive wave of relief finally washing the last traces of paranoia from his shoulders. To the corporate overlords on Earth, they didn't exist; they were just analog ghosts haunting a rusted machine. "You can't hack a missing fuse. The hardware doesn't exist. To the Apex automated grid, Outpost Delta 9 isn't just offline. It's an abandoned piece of space junk. It hasn't broadcast a signal in decades."
+
+Sarah let out a long, shaky breath, her shoulders dropping as the absolute finality of their escape sank in.
+
+"We really are ghosts," she whispered, looking up at him. "Nobody is coming to relieve us. No supply drops. No Supervisors."
+
+"Just us," Wyatt confirmed, closing the glass cover with a soft *clink*.
+
+He turned away from the communications board, looking out at the rest of the command center. The station was abandoned, but it wasn't dead. The life support systems hummed steadily, and the heavy, physical architecture was built to outlast them both.
+
+"The hydroponics bay should be in the lower ring," Sarah said, her analytical mind immediately pivoting from survival to sustainability. "If this was designed as a long-term executive listening post, there has to be a localized food supply. We can't live on foil-wrapped nutrient blocks for the rest of our lives."
+
+"I'll check the power grid and the exterior airlocks," Wyatt added, the mechanical logistics of the rig already clicking into place in his head. "I want to know exactly what kind of shape the hull is in before we start pushing buttons."
+
+Sarah smiled, a bright, capable energy radiating from her. For the first time, they weren't scrambling to survive a corporate meat grinder. They were managing their own home.
+
+"Meet back in the Mess Hall in an hour?" she asked, already turning toward the corridor.
+
+"An hour," Wyatt nodded.
+
+He watched her walk out of the command center, the slate-blue of her uniform disappearing down the curved hallway. The silence of the outpost wrapped around him, but it wasn't the heavy, terrifying silence of the NTTR. It was the quiet, steady hum of freedom.
+
+Wyatt grabbed his heavy Mark-IV flashlight from the console, turning to inspect the rusted maintenance panels, ready to get his hands dirty.
+

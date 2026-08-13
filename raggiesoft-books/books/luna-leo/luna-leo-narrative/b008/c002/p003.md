@@ -1,0 +1,34 @@
+# Part 3: Weathering the Storm – A Best Friend's Comfort
+
+Stella, true to her word, whipped up a comforting dinner of pasta with a simple sauce, the normalcy of the task a small anchor against the storm’s fury. They ate in the living room, the television providing a low murmur of distraction, though Leo mostly picked at his food, his gaze frequently darting towards the windows as lightning illuminated the room in stark, unsettling flashes, followed by window-rattling cracks of thunder.
+
+Around 9 PM, the thunderstorm was, if anything, more intense than at dinnertime. The wind howled like a banshee, rain hammered against the house as if trying to break in, and each clap of thunder seemed to detonate directly overhead. Leo was visibly pale, his hands clenched tightly in his lap, his attempts to focus on the cheesy alien movie failing utterly. He jumped with every thunderclap.
+
+"Okay, buddy," Stella said gently, seeing his profound distress. "I think it's probably time for you to head to bed. Try to get some rest. This will pass eventually. Luna, why don't you help Leo get into his pajamas first, make sure he's all set." Meanwhile, Stella went into the closet to get the spare pillow and blanket so that Olivia would have a place to sleep tonight. “Please, make yourself at home on the sofa.”
+
+Olivia got the pillow and blanket set up for herself on the sofa. Meanwhile, Luna accompanied Leo to his bedroom, helping him with his nighttime routine and getting him into his comfortable pajamas. Once he was settled in his pajamas, Luna gave him a reassuring hug, then the two of them headed back to the living room where Olivia was finishing setting up the pillow and blanket on the sofa. Luna gently excused herself to her bedroom and Leo wheeled himself back over to be at Olivia’s side, looking frightened by the thunder and lighting.
+
+"Hey," she said softly, gently ruffling his hair, "Ready to try and get some sleep?"
+
+He nodded, then gestured towards his bed, then to her, a clear but hesitant invitation, his eyes full of fear. "WILL YOU... SIT WITH ME? JUST... UNTIL I FALL ASLEEP? THE THUNDER... IT'S REALLY, REALLY BAD TONIGHT."
+
+"Of course, Leo," Olivia Walker said without a moment's hesitation, her heart aching at his visible distress. "I'll stay right here." She saw the searching look in his eye that needed no explanation: Leo wanted Olivia to follow him into his bedroom.
+
+She followed him into the bedroom and sat on the edge of his full-sized bed as he transferred himself and lay down, pulling the covers up tightly. The room was lit only by a small nightlight, casting long, dancing shadows with each flash of lightning. Another deafening clap of thunder made Leo jump violently, a small, terrified whimper escaping him.
+
+Olivia didn't quite know what made her decide it in that instant – perhaps the depth of his fear, the memory of how comforting their platonic hugs had become during their intense senior year friendship, or simply an overwhelming instinct to offer profound, immediate reassurance during this, their first shared crisis of this nature. Instead of just sitting on the edge of the bed, she kicked her shoes off and gently lay down under the covers beside him, turning on her side to face him. She did not care that she was still in her day clothes, in this moment, she only cared about comforting Leo.
+
+"It's okay," she whispered, her voice a calm anchor in the turmoil. "I'm right here."
+
+Leo looked at her, his eyes wide with a mixture of raw fear and dawning relief. Hesitantly, almost shyly, he shifted closer. Olivia, understanding his unspoken need for comfort and security, opened her arm, and he nestled against her side, like a small boat finding a safe harbor in a terrible storm. She pulled the edge of his comforter more securely around him, then drew him close, her arm protectively around his shoulders. He curled into her, his head resting near her shoulder, and she could feel the violent tremors running through him with each terrifying crash of thunder.
+
+This was new territory for them – their first time sharing a bed, their first overnight stay. But there was no awkwardness, no romantic tension, only the profound comfort of a deep, trusting, and entirely platonic friendship facing down a shared fear. She held him close, murmuring soft, meaningless reassurances, "It's just noise... it'll pass soon... you're safe in here..." Sometimes she gently spooned him as she put a protective arm around him, her steady presence a shield against the storm's relentless fury. She might have started humming a quiet, tuneless, calming sound, or simply matched her breathing to his, trying to lend him her calm, her warmth. She instinctively knew that her unwavering physical presence was the most potent comfort she could offer.
+
+Another blinding flash of lightning illuminated the room, followed instantaneously by an explosive crack of thunder that seemed to shake the very foundations of 1091 Daniel Maloney Drive. Leo tensed violently, a choked whimper escaping him, his face buried against her shoulder.
+
+"Shhh, it's alright, Leo," Olivia whispered, holding him a little tighter, her own heart thumping but her voice a steady reassurance. "Just a big noise. See? It passed. We're okay. I'm right here with you." She rubbed his back gently, rhythmically. "Think about something nice. Think about that government presentation we're going to ace. Think about how good Stella's pasta was."
+
+Slowly, very slowly, wrapped in Olivia Walker's warm, platonic embrace, feeling the rise and fall of her steady breathing, the secure pressure of her protective arm, Leo’s acute fear began to ebb. The storm outside continued to rage, a wild, elemental fury, but inside his room, cocooned in the warmth of his bed and the steadfast, loving affection of his best friend, a fragile peace began to settle.
+
+He wasn't alone with his terror. Olivia was there, a calm, loving presence, proving once again why their friendship was such a precious, irreplaceable part of his life. He eventually drifted into an exhausted but peaceful sleep, still held securely in Olivia’s platonic embrace, the storm outside no match for the quiet strength and profound comfort of their extraordinary friendship. And Olivia, too, after ensuring Leo was truly, deeply asleep and the worst of the storm seemed to be moving off, would eventually succumb to her own weariness, her protective arm still around him, having been his steadfast, safe harbor in their first shared storm.
+

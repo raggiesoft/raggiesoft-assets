@@ -1,0 +1,28 @@
+# Part 4: A Mission of Restoration
+
+With breakfast finished and the last of the hot chocolate savored, a new, focused energy settled over the group. The quiet, healing morning had served its purpose. Now, it was time for the practical necessities of Leo's restoration.
+
+"Okay, team," Stella announced, her voice a gentle but firm call to action. "The doorbuster crowds are probably gone by now, but the stores are still going to be a zoo. We have a few critical missions today, and we need to split up to be efficient."
+
+She laid out the plan. "Grandpa, Grandma," she said, turning to Arthur and Eleanor, "I need you two on the most important mission. Head to the bank and get the original guardianship and conservatorship documents out of my safe deposit box. We need them to get the ball rolling on adding Olivia to the paperwork."
+
+"You got it, Captain," Arthur said with a serious, loving purpose. "We'll get it done."
+
+"The rest of us," Stella continued, her gaze sweeping over Luna, Olivia, and Leo, "are Team Mall. Our first priority is a new pressure relief cushion for Leo's chair. His current one is completely worn out. After that, clothes. We are getting him an entire new wardrobe. He's starting completely fresh." She had the debit card for the twins' trust fund in her wallet, an account with more than enough funds to cover everything they needed and more.
+
+They split into two cars. As Arthur and Eleanor sped off towards the bank, the "fortress four"—Stella, Luna, Olivia, and Leo—made their way to the mall. The parking lot was a battlefield, but Stella found a spot with surprising ease. Inside, the mall was a throng of humanity, a chaotic symphony of holiday music, sale announcements, and the roar of thousands of conversations.
+
+For Leo, who had been so overwhelmed by the airport, this should have been a nightmare. But it wasn't. He was surrounded. Stella pushed his chair, taking the lead with a calm confidence. Luna walked on one side, and Olivia on the other, their proximity a silent, impenetrable shield. No one jostled him. No one crowded him. His guardians were on high alert, creating a bubble of safety for him in the middle of the Black Friday chaos.
+
+Their first stop was a specialty medical supply store. Stella, with a no-nonsense directness, explained their need to the clerk, who brought out several high-quality pressure relief cushions. Leo, with Olivia's and Luna's help, tested each one, the final choice made based on his comfort. It was a simple, respectful transaction, a world away from having his needs ignored.
+
+Next, they descended on a large department store. For the next hour, they moved through the men's section, a focused and efficient team. Stella held up shirts, Luna fetched different sizes, and Olivia offered opinions. But the final choice was always Leo's. He would point, nod, or use Luna's AAC to specify a color. The pile of clothes in their shopping cart grew: new jeans, soft-flannel pajama pants, comfortable sweatshirts, socks, underwear—everything. It wasn't just shopping; it was a systematic erasure of Delores's neglect, each new, clean item a quiet act of defiance and a reaffirmation of his worth.
+
+They were deep in the process of picking out new sweaters when Arthur and Eleanor, their own mission accomplished with the precious legal documents secured in a large manila envelope, found them.
+
+"Looks like a successful mission," Arthur boomed, a proud, satisfied smile on his face as he looked at the mountain of new clothes.
+
+"He's got a whole new look," Eleanor added, beaming.
+
+As they all headed back to the cars, laden with bags, Leo felt a profound sense of peace. He was tired, but not overwhelmed. He had been seen, heard, and cared for in every possible way. The day wasn't just about the things they had bought; it was about the way they had bought them. It was another layer of his dignity, carefully and lovingly, restored.
+

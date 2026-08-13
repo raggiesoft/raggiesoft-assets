@@ -1,0 +1,110 @@
+# Part 3: The Principal Chair
+
+## August 22, 2006 Braxton Conservatory - Dean Sterling’s Office 01:00 PM
+
+The walk from the Humanities Building to the Fine Arts Center took ten minutes. They navigated the "Freshman Herd" and took the elevator up to the **4th Floor**.
+
+Dean Elise Sterling was waiting for them. She looked exactly as she had in the winter—sharp, professional, and radiating the energy of a woman who didn't suffer fools.
+
+"Ms. Porter," Sterling said, standing up to shake Luna’s hand. "And the entourage. Welcome back to Braxton."
+
+"It's good to be back," Luna said, gripping her flute case. She felt different than she had in December. She wasn't a visitor hoping to get in; she was a resident with a student ID.
+
+"I trust you've been practicing?" Sterling asked.
+
+"Every day," Luna confirmed. "The new studio in the house is... perfect."
+
+"Good," Sterling said. "Because I have your ensemble placement."
+
+She handed Luna a schedule printed on heavy cream paper.
+
+**LUNA ELEANOR PORTER - Freshman**
+
+- **Ensemble:** **Wind Symphony** (Top Tier).
+
+- **Chair:** **Principal Flute** (Pending Seating Audition).
+
+- **Private Instruction:** Dr. Sterling (Thursdays, 11:00 AM).
+
+"Wind Symphony meets **Mondays, Wednesdays, and Fridays from 4:00 PM to 6:00 PM**," Sterling explained. "Does that conflict with any of your gen-eds?"
+
+Luna checked her new schedule.
+
+- **FR-Q 101:** Tuesdays/Thursdays, 2:00 PM – 3:30 PM.
+
+"No conflicts," Luna said. "Our French class is on off-days."
+
+"French?" Sterling asked.
+
+"Québécois French," Olivia interjected proudly. "With Dr. Gagnon."
+
+Sterling raised an eyebrow. "Gagnon? You signed up for the dialect track? Brave choice. He’s tougher than the Parisians. Most students avoid him unless they grew up on the border."
+
+"I did," Olivia said, her voice shifting to that confident, bilingual cadence. "I'm a dual citizen. Born in Sherbrooke, grew up in Stanstead. My mother is Québécoise."
+
+Sterling looked at her with new interest. "Ah. So you're the ringer in the class."
+
+"I'm the anchor," Olivia corrected, gesturing to the others. "Dr. Gagnon offered to let me test out, but I refused. I don't need the class for me; I'm taking it to ensure *they* learn the dialect properly."
+
+Sterling blinked. "Why? It's just a language requirement."
+
+"It's not just a requirement," Olivia said seriously. "The goal is for Stella, Luna, and Leo to pass the **TEFAQ**."
+
+"The... TE-what?"
+
+"The **TEFAQ**," Olivia enunciated clearly. "The *Test d’Évaluation de Français pour l’accès au Québec*. It's the official oral fluency exam required for immigration to Québec. It evaluates listening and speaking at a very high level—specifically the North American dialect."
+
+She put a hand on Leo's shoulder.
+
+"I already have my papers. I'm a citizen. I want them to have the option to come home with me if they ever need to. So we're doing it the hard way."
+
+Sterling sat back in her chair. She looked at the four of them. Most freshmen were trying to figure out how to do laundry. These students were executing a multi-year international legal strategy.
+
+"You're building a backdoor to Canada," Sterling realized, a small, impressed smile touching her lips. "Just in case."
+
+"We like options," Stella said calmly. "And we like excellence."
+
+"Ambition," Sterling murmured, nodding approval. "I like it. Gagnon will work you hard, but if that's the goal, he's the only one who can get you there."
+
+"Excellent," she said, turning her attention to Leo.
+
+"And Mr. Porter," she said. "Regarding your workspace."
+
+She gestured to his **Bull Pass** (Student ID) clipped to his belt reel.
+
+"I've updated your permissions in the security database," Sterling said. "Your card—and Luna’s—are now coded for **Room 304**. It is a restricted area. No other student IDs will work on that lock."
+
+Leo picked up his card. He looked at it. It unlocked the subway. It unlocked the library. And now, it unlocked his sanctuary.
+
+*"ACCESS GRANTED,"* he typed on his **Quantum Communicator**.
+
+"The renovations are complete," Sterling added. "The floating floor is installed. The acoustic treatment is hospital-grade. I walked in there yesterday while a trumpet major was blasting in 305. I heard nothing. It is a vault."
+
+*"SILENCE IS GOLDEN,"* Leo typed. *"THANK YOU."*
+
+"It’s your room," Sterling said. "Just remember the rule: If I hear that glockenspiel in the hallway, the deal is off. Keep the door closed."
+
+*"SEALED TIGHT,"* Leo promised.
+
+"One last thing," Sterling said, looking at Luna. "The first Wind Symphony rehearsal is Monday. The upperclassmen are going to be... curious. They've heard rumors about the 'Freshman with the Silver Flute.'"
+
+She leaned forward.
+
+"Don't be shy, Luna. When you sit in that first chair, you own it. If a Junior gives you side-eye, you play *Syrinx* during the warm-up. Establish dominance."
+
+Luna grinned. She gripped her flute case.
+
+"I'll be ready," Luna said.
+
+"I know you will," Sterling smiled. "Now go get your locker assignment. Top floor, number 402. It fits the saxophone case, too."
+
+They walked out of the office. Luna looked at the schedule in her hand.
+
+**Principal Flute.**
+
+She looked at Leo.
+
+*"TOP OF THE PYRAMID,"* Leo typed.
+
+"It's a good view," Luna said. "Now let's go find Room 304. I want to test the lock."
+

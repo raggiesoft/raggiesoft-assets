@@ -1,0 +1,184 @@
+# Part 1: The Descent
+
+## Sunday, June 24, 2007 — 11:30 AM 105 Pepper Street SE, Christiansburg, VA
+
+The morning light filtered through the blackout curtains of the Master Bedroom, signaling that the "Silo" had successfully protected its occupants for another rotation.
+
+Freddie woke up in the center of the mass. The heat was immense.
+
+To his left, Paige was still asleep, her arm thrown over his chest. To his right, Jessica was awake, staring at the ceiling. At the foot of the bed, Jenna was sprawled diagonally across everyone’s ankles, and Sarah was curled into a tight, efficient ball on the far edge, holding Freddie’s wrist.
+
+"Status?" Freddie whispered, his voice raspy.
+
+"Crowded," Jessica whispered back, smiling. "But secure."
+
+Jenna stirred, kicking out a leg. "I need coffee. And I need to calibrate the servers."
+
+"Coffee first," Sarah mumbled into the pillow.
+
+They disentangled themselves from the "Heap." One by one, they climbed out of the King bed.
+
+No one reached for clothes. The "No Armor" protocol was in full effect. The air conditioning was set to a brisk 68 degrees, making the cool air feel refreshing against their warm skin.
+
+They moved into the living room. Jenna grabbed the digital camera from the coffee table.
+
+"I can film it again," Jenna offered, seeing Freddie look toward the kitchen door—the gateway to the basement. "I can get better lighting this time. I’ll do a commentary track."
+
+Freddie sat in The Rover, spinning the wheels slightly. He looked at the closed door.
+
+He appreciated the data. He appreciated the video. But staring at a screen was not the same as verifying the architecture. He needed to know the distance. He needed to gauge the acoustic properties.
+
+He needed to know exactly where his sisters were going to sleep so he could map them in his mind when he was upstairs.
+
+"Negative," Freddie stated. "I require physical verification. The video lacks depth perception."
+
+Sarah paused in the middle of stretching. "The stairs are non-compliant, Freddie. Steep gradient. No landing."
+
+"I have legs," Freddie said, though they felt stiff. "And I have a team."
+
+He looked at Jessica and Paige.
+
+"Spotters?" Freddie asked.
+
+"Always," Paige said immediately, moving to his side.
+
+"If you want to go down there, we get you down there," Jessica confirmed. "Formation Alpha."
+
+They moved to the kitchen. Jessica opened the narrow pantry door. The smell of dry concrete and old lumber wafted up—a sharp contrast to the lemon polish of the main floor.
+
+The stairs were indeed steep. They were unfinished wood, narrow and open-backed.
+
+"Okay," Jessica strategized, looking down into the gloom. "I take point. I’ll be two steps below you. I’m the catch net. If you slip, you fall into me."
+
+"I take the rear," Paige said, stepping behind Freddie. "I control the descent speed. Hand on the waist."
+
+"Jenna, Sarah—go down first," Jessica ordered. "Clear the landing zone."
+
+The twins scampered down the stairs, their bare feet thumping on the wood. They waited at the bottom, looking up like ground crew waiting for a shuttle landing.
+
+"Ready?" Jessica asked, descending two steps and turning around to face him. Her eyes were level with his knees.
+
+Freddie stood up from The Rover. He gripped the handrail with his right hand. It was rough wood—he made a mental note to sand it later.
+
+"Ready," Freddie said.
+
+He took the first step.
+
+His right leg—the tighter one—trembled as it took the weight. He wobbled.
+
+Instantly, Paige’s hands were on his hips, stabilizing him. Jessica reached up and placed her hands on his thighs, guiding his foot placement.
+
+"Easy," Jessica murmured. "One step. Good. Next."
+
+It was a slow, intimate procession. Without clothes, there was no fabric to slip, no loose shirts to get caught.
+
+Paige’s skin pressed against his back, her chest warm against his spine. Jessica’s hands on his legs were firm and grounding.
+
+They moved as a single organism, flowing down the narrow chute.
+
+Step. Stabilize. Step. Stabilize.
+
+"Halfway," Freddie breathed, focusing on the top of Jessica’s head.
+
+"You got it," Paige whispered in his ear. "Gravity is under control."
+
+They reached the concrete floor. Jessica stepped back, allowing Freddie to take the final step.
+
+He landed on the slab. It was cold under his feet—a sharp, industrial shock compared to the hardwood upstairs.
+
+"Touchdown," Freddie announced.
+
+He looked around.
+
+The basement was vast. It ran the full length of the house. The concrete floor was bare, save for the temporary setups the twins had thrown together last night.
+
+To his left, Sarah’s domain was currently just a sleeping bag neatly rolled out on the floor near the washer and dryer. Her carry-on case was open, her clothes already stacked in precise piles on top of the dryer.
+
+To his right, Jenna’s kingdom was a chaotic nest of blankets and pillows thrown into the corner, surrounded by boxes of computer parts that hadn't been unpacked yet.
+
+"It is... potential," Freddie noted. "Currently unfurnished."
+
+"We haven't ordered the beds yet," Jessica explained, walking over to inspect the water heater. "We were going to do a run to the mattress store tomorrow. Two twins? Or maybe bunk beds to save floor space?"
+
+Jenna looked at her pile of blankets. Then she looked at Freddie, who was rubbing his arms in the cool basement air.
+
+"Do we want beds down here?" Jenna asked suddenly.
+
+Sarah looked up from her neat stack of shirts. "Clarification?"
+
+"Last night," Jenna said, gesturing upstairs. "The Heap. The Silo. It was... crowded. But it was good crowded."
+
+She looked at Freddie.
+
+"You slept better, didn't you?" Jenna asked. "With all of us?"
+
+"I did," Freddie admitted softly. "The pressure was... complete. The perimeter was sealed on all sides."
+
+"If we move down here," Jenna continued, pacing the concrete floor, "then at night, the team splits. You guys are upstairs. We're downstairs. If Freddie wakes up scared... we aren't there."
+
+Sarah frowned, processing the logic. "Separation of forces creates vulnerability."
+
+"Exactly," Jenna said. "And honestly? I liked it too. I liked the weight. It stopped my brain from spinning."
+
+"So what's the proposal?" Jessica asked, leaning against a support pole. "We can't fit five people in a King bed forever. Someone is going to get kicked in the face."
+
+"We get a bigger bed," Sarah stated.
+
+"They don't make bigger beds," Paige said. "King is the max."
+
+"Then we build one," Freddie said.
+
+The idea hit him like a lightning bolt. He looked at the vast, open floor plan of the basement.
+
+"We possess the technology," Freddie murmured, his eyes scanning the space. "We can combine mattresses. Two Queens? Or a King and a Twin? We can build a frame that locks them together. A 'Mega-Bed'."
+
+"A Mega-Bed," Jenna whispered, eyes shining. "Down here?"
+
+"The space is sufficient," Freddie confirmed. "But..." He looked back at the stairs.
+
+The steep, dangerous, narrow stairs.
+
+"Access is the bottleneck," Freddie said, his shoulders slumping. "I cannot commute to the basement. The energy cost of the stairs is too high for daily ingress and egress."
+
+"Then we fix the stairs," Jenna said. "We build a ramp!"
+
+"Too steep," Freddie corrected. "The angle would require fifty feet of run."
+
+Sarah walked over to the corner of the room, near where the old coal chute used to be. She looked up at the ceiling.
+
+"What about... an elevator?" Sarah asked.
+
+"An elevator?" Jessica laughed. "Sarah, this is a ranch house, not a hotel. You can't just put in an elevator. It costs fifty thousand dollars and you need a shaft."
+
+"Not a people elevator," Sarah clarified, her hands moving as she visualized it. "Like... a platform. Just for one person. Like a forklift, but for a house."
+
+Freddie perked up. "A vertical lift," he whispered. "Hydraulic or screw-drive. Low footprint."
+
+"Yes!" Jenna shouted. "We cut a hole in the floor! Right there!" She pointed to a spot between the joists. "We put in a little platform. Freddie rolls on upstairs, pushes a button, zzzzzip, he's downstairs! No stairs! No spotters!"
+
+Freddie looked at the ceiling. He imagined it. A dedicated lift. A direct line from the living room to the basement.
+
+"If we had the lift," Freddie said, his voice trembling with excitement, "the basement becomes accessible. The Mega-Bed becomes viable."
+
+"And we all sleep together," Paige finished the thought, squeezing his hand. "No one gets left out."
+
+"We need to research," Freddie said. "The terminology. The cost. The structural requirements."
+
+"I'll get the laptop," Jessica said, starting for the stairs. "Let's look it up. Right now."
+
+"Wait," Freddie said. "I want to... verify the dimensions first."
+
+He walked—slowly, carefully—across the concrete to the center of the room. He lay down on the floor.
+
+"Freddie?" Paige asked.
+
+"Mapping," Freddie said. "Lie down. Let's see if five fit."
+
+Jenna didn't hesitate. She flopped down next to him. Sarah lay down on his other side. Paige and Jessica filled in the gaps.
+
+They lay on the cold concrete floor of the unfinished basement, five naked adults staring up at the exposed rafters, visualizing a future where walls didn't matter, stairs didn't matter, and they never had to sleep apart again.
+
+"It fits," Freddie whispered. "The architecture holds."
+
+"Then we build it," Jessica declared. "We build the hive."
+

@@ -1,0 +1,67 @@
+# Part 5: Range of Motion
+
+Luna finished adjusting the waistband of her black athletic shorts and tugged at her comfortable, oversized grey cotton tee. Relieved to be done with the frantic change-out, she grabbed her water bottle and headed for the exit.
+
+She navigated the sharp privacy turn at the end of the locker room’s short hallway and stepped through the single door that was propped open, leading directly onto the gym floor.
+
+It was **07:22 AM**, seven minutes into first period.
+
+The gym was a cavernous box painted in broad stripes of **Purple and Gold**, championship banners hanging proudly from the rafters. At this ungodly hour, the massive space was a chaotic sea of humanity—nearly a hundred students, all Freshmen and Sophomores struggling to wake up while serving their mandatory sentence of physical education.
+
+The rule was simple: class started at **07:15 AM sharp**. You had ten minutes to dress out. Once you stepped onto the gym floor, you started moving. You walked or jogged laps around the perimeter until everyone was ready and the teachers blew the whistle to call their squads to their lines.
+
+The gym floor was a moving river of teenagers in mismatched athletic gear, a sluggish, counter-clockwise current of gossip, shuffling sneakers, and yawns.
+
+Luna ignored them all, her eyes scanning across the vast expanse of the court toward the **main entrance**.
+
+There he was.
+
+Leo was parked just inside the heavy double doors that led out to the Commons. Since the clinic was located back in the Commons with no direct access to the gym, Mr. Peters had pushed him down the main hallway and deposited him here before heading back.
+
+By the strict letter of the law, Leo was supposed to immediately begin pushing his own laps the moment he rolled through those doors to keep his heart rate up.
+
+But Leo wasn't moving. He sat like a rock in the stream, his wheelchair braked, his eyes fixed intently across the gym on the girls' locker room door, waiting for her.
+
+A tall male gym teacher with a whistle on a lanyard walked past him near the entrance, checking his watch. It was too early for arguments. In September, this teacher would have stopped and ordered Leo to "get moving." Now, in October, he just glanced at the stationary wheelchair, sighed, and shook his head. They had learned that Leo Porter was immovable until his twin sister arrived. The faculty had collectively silently agreed to lose this particular battle rather than fight it every morning before the sun was fully up.
+
+Luna saw him waiting and felt that familiar click of relief. But she didn't cut across the busy court to rush to him—she never ran, even if her cerebral palsy hadn't made it difficult, she simply refused to hurry this early in the morning.
+
+Instead, she stepped into the flow of students walking the perimeter, merging with the sluggish current. She walked her lap with a steady, determined gait. Her left foot dragged slightly, a rhythmic *scuff-step, scuff-step* on the polished wood. She rounded the far corner and passed the bleachers, letting the counter-clockwise traffic carry her around the gym until the loop brought her naturally to the main double doors.
+
+She arrived at his side, breathless from the quick change but smiling.
+
+"You're holding up traffic," she teased, grabbing the handle of his chair for a second. It wasn't just affectionate; she leaned her weight on the sturdy frame, steadying herself. His chair was her anchor in the chaos.
+
+Leo looked up, the tension leaving his shoulders. He released his brakes immediately.
+
+"READY," he tapped on his **Quantum Communicator**.
+
+"Okay," Luna said, falling into step beside him. "Let's go."
+
+They merged back into the flow of students. This was their ritual. For these few minutes before the classes split up, they weren't just siblings; they were a convoy. Luna walked on the outside, shielding him from the erratic movements of the drowsy sophomores, while Leo maintained a steady rhythm with his push rims, matching her walking pace perfectly.
+
+They passed Coach Miller, the Adapted PE teacher, who stood near the center circle. She watched the two of them approach—Luna using the chair for stability, Leo using Luna for protection. It was a symbiotic loop that worked better than any accommodation plan the district had written.
+
+They completed two full laps together, side-by-side, the rhythm soothing the sting of the earlier separation in the clinic.
+
+Then, the shrill blast of a whistle cut through the noise.
+
+"ALRIGHT! LINE UP! SQUADS ON THE LINES!"
+
+The river of students fractured. The main body of the students headed toward the bleachers for roll call with the other four teachers. Luna and Leo broke away from the pack, heading toward the far corner of the gym where the heavy vinyl curtain was partially lowered.
+
+"Today is upper body and core," Coach Miller announced as the six students in the Adapted PE class gathered in a loose circle. "We're starting with passing drills. Medicine balls. Two pounds. Let's go."
+
+Luna grabbed a mat and sat down next to Leo's left wheel. This was the other reason she was here. She didn't need to run a mile at 7:30 in the morning; she needed to strengthen the muscles that compensated for her limp so she could navigate the halls for the rest of the day.
+
+"Ready?" she asked, picking up a weighted rubber ball.
+
+Leo nodded, raising his hands.
+
+Luna tossed the ball gently. Leo caught it, his arms dipping slightly under the weight, but he stabilized himself using his core. He pushed the ball back to her, a concentrated effort that made his glasses slip slightly down his nose.
+
+Thump. Catch. Push. Thump. Catch. Push.
+
+For the next forty-five minutes, the architectural hostility of the building, the rigid rules of the clinic, and the brutal 7:15 AM start time didn't matter. They were just athletes in gym class, working up a sweat, together.
+
+

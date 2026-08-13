@@ -1,0 +1,50 @@
+# Part 5: A Guardian's Shadow
+
+The heavy, resentful silence in the apartment after Stella and Luna's departure was a familiar poison to Clara Mahone. She watched her daughter, Delores, pace the small living room, still fuming over the perceived slights of the afternoon—the bath, her mother's lack of absolute support, and the infuriatingly close bond between Leo and his sisters.
+
+But for Clara, the scene had planted a seed of deep, nagging unease. It wasn't just Delores's anger; it was the quiet, unshakeable authority Stella had projected. It felt like more than just a bossy older sister. Wanting to understand more about the family her daughter was so entangled with, Clara sat down at their slow, dial-up computer.
+
+She navigated to the Virginia Beach Circuit Court's public records website. Her search was simple: "Porter, Leo."
+
+A case file popped up almost instantly. It wasn't a criminal record; it was a civil case. The name was "In Re: Guardianship of Leo Porter." She clicked on it. The details were sparse on the public page, but the most important facts were there in black and white: a final order had been entered in 1999. The petitioner, and now the legally appointed guardian and conservator, was listed as "Porter, Stella."
+
+Clara stared at the screen, a cold dread washing over her as the implications crashed down. Guardian. Conservator. These weren't just family nicknames; they were legal titles. Stella wasn't just "in charge"; she had the full authority of the court behind her.
+
+She called Delores over to the computer, her voice grim. "Delores, you need to see this."
+
+Delores looked at the screen, her expression shifting from impatience to confusion. "Guardian? What is that? Some stupid thing she made up?"
+
+Clara took a deep breath, realizing she had to explain this in the simplest, most absolute terms possible. It was like desperately trying to explain to a young child that 2 + 2 = 4.
+
+"No, honey, it's not made up," Clara said, her voice slow and deliberate. "This is a court order. It means a judge decided that Leo is... 'incapacitated.' That he can't make his own decisions. So the court gave Stella the legal power to make them for him."
+
+"So?" Delores scoffed. "She's just his bossy sister with a piece of paper."
+
+"No, Delores, you are not hearing me," Clara said, her voice sharp, forcing her daughter to look at her. "It means Stella controls *everything*. His money, that's the 'conservator' part. But the 'guardian' part... that means she controls who he sees, where he lives, his medical care... everything about his life."
+
+She leaned in, her voice dropping to a deadly serious whisper. "Do you understand what that means? It means if Stella decides you are bad for him, she has the legal power to end this relationship. She can get a court order to keep you away from him, and there would be nothing you could do about it. You need to be very, very careful."
+
+Delores stared at her mother, then back at the computer screen, the words "Guardian" and "Conservator" glowing with a new, menacing light. She still didn't fully grasp the true, unbreachable power Stella held, but she interpreted the titles through her own toxic lens. In her mind, the guardianship meant one thing: Stella was CONTROLLING Leo. She wasn't acting as a safety net; she was a jailer, an obstacle preventing Leo from having the "real life" that Delores believed only she could provide.
+
+The knowledge didn't inspire respect or caution; it ignited a new, deeper, and more resentful fire. Stella wasn't just a rival anymore; she was the enemy, the person who had to be defeated to "free" Leo and claim him for herself.
+
+Clara saw the look on her daughter's face—the anger, the resentment, the complete lack of fear—and a new, colder dread washed over her. Delores still didn't get it. She didn't understand the most dangerous part.
+
+"Delores, look at me," Clara said, her voice dropping to a low, urgent whisper that forced her daughter's attention. "This isn't just about who he's allowed to see. There's more. Something you need to understand right now."
+
+Delores just stared, her expression a mask of petulant defiance.
+
+"That word, 'incapacitated'," Clara continued, her voice trembling slightly with the weight of what she was about to say. "It means the court has said he can't legally make big decisions. He can't sign a contract. He can't get married." She paused, then delivered the final, brutal truth. "And he cannot legally consent to have a sexual encounter."
+
+"What?" Delores scoffed, a bitter laugh escaping her. "That's ridiculous. He's a grown man. If he wants to—"
+
+"It doesn't matter what he wants!" Clara's voice was a sharp, terrified hiss. "Do you understand me? It doesn't matter what he says or does. A judge has said he *can't* consent. If you were to have... an encounter with him, the law wouldn't see it as two people being together. They would see it as you with someone who legally cannot say yes. Do you know what that's called, Delores?"
+
+Delores just stared, the meaning still not penetrating her thick wall of arrogance.
+
+"It's called rape," Clara whispered, the word hanging in the air like a death sentence. "And it's a felony. They put you in prison for a very, very long time for that."
+
+The color drained from Delores's face, but it was quickly replaced by a flush of pure, indignant rage. "That's a lie!" she spat. "That's just another stupid, controlling rule Stella made up to keep him away from me! She's turning you against me! He's not a baby! He wants me!"
+
+Clara looked at her daughter, at the complete, unshakeable delusion in her eyes, and knew she was fighting a losing battle. She had laid out the stark, terrifying truth, and Delores had simply refused to believe it, twisting it into another grievance against her perceived rival. The warning had been given, but it had not been heard.
+

@@ -1,0 +1,24 @@
+# Part 4: The Afterglow – A New Dawn, A Reclaimed Voice
+
+Wrapped in the comforting darkness, with Chloé’s soft breathing a steady rhythm beside him, Alex felt a profound sense of peace settle deep in his bones. It wasn’t just the physical release, as wonderful and comforting as that had been with her, his only trusted partner. It was something more. It was the feeling of wholeness, of reclaiming a part of himself that Vera’s coercion had tried to steal and contaminate.
+
+Being intimate with Chloé, an act born of their unique platonic love, mutual curiosity, and absolute trust, felt like washing away the last vestiges of Vera’s shadow. It was a quiet affirmation that he was safe, that he was cherished for who he was, and that he had agency over his own body and his own experiences. A memory surfaced, clear and sharp: the morning after his rescue, tasting cereal with lots of cold milk, a simple pleasure Vera had denied him. This moment, lying here with Chloé, felt like that, magnified a thousand times. It was the taste of freedom, the feeling of a fundamental right restored, a profound sense of *this is good, this is right, this is ours*.
+
+Chloé stirred, her sleepy murmur in Québécois French a familiar comfort. "*Tu es bien, Alex?*" (Are you okay, Alex?)
+
+He held her a little closer. He reached for his AAC, his fingers moving with a new, lighter touch. He wanted to tell her, to share this profound shift he felt. He started to type in their usual French, then paused. A different impulse, tentative but clear, nudged him. He switched the language setting on his device.
+
+His synthesized voice, when it came, was in American English, the first time he had voluntarily chosen it for such an intimate, emotional expression since Vera. The words were soft, a little hesitant, but clear.
+
+"Chloé," it said. "Yes. So good. Like… like finally having milk on my cereal again, but… so much more. Thank you."
+
+Chloé went very still for a moment, absorbing his words, and more profoundly, the language he had chosen. She understood instantly the depth of the gift he was offering her, the monumental step he was taking. Tears pricked her eyes. She lifted her head to look at him in the dim light, her own voice a little thick with emotion, also in gentle American English.
+
+"Oh, Alex," she whispered. "That's… that’s the most beautiful thing you could have said." She knew exactly what he meant about the milk, the symbolism of reclaiming something precious and denied. "I'm so glad you feel safe enough. With me."
+
+He smiled, a genuine, untainted smile that reached his eyes. "Only with you, Chloé. Always."
+
+A new ease settled between them. In the days and weeks that followed, this linguistic healing continued, always organically, always led by Alex. During video calls with their parents, he would start to offer more of his contributions in English when discussing plans, his parents responding with quiet joy. While watching an American movie, he might make a joke in English about a character’s silly line, and Chloé would laugh, the sound pure and unforced.
+
+Chloé never pushed. If he reverted to Québécois French for a difficult emotion or a moment of fatigue, she flowed with him, their safe language always there as an anchor. But increasingly, Alex found himself reaching for English words, testing them out in the sanctuary of Chloé’s presence, finding they no longer tasted of fear, but of connection, of his wider world, of his future. The intimacy they had reclaimed was not just physical; it was the intimacy of shared languages, shared healing, and the unwavering promise that with Chloé, he would always, always be safe to be his whole self.
+

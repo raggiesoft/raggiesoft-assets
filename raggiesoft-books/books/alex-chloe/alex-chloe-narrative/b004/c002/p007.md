@@ -1,0 +1,12 @@
+# Part 7: The Road Back
+
+Through that long, dark night they waited, they clung to each other. And somehow, slowly, miraculously, Alex held on. By morning, the crisis had passed. His fever had broken, and his oxygen levels, while still dangerously low, had stabilized. He wasn't out of the woods, but he had turned a corner.
+
+The recovery was a slow, arduous process. He spent another week in the hospital, gradually being weaned off the oxygen. Chloé's visits were the highlight of his days, her presence a constant, reassuring beacon.
+
+Finally, the day came when he was discharged. He was weak, frail, and had lost a significant amount of weight, but he was alive. The doctor's orders were clear: at least two full weeks of strict bed rest at home before he could even think about returning to school.
+
+Those two weeks were a quiet, focused period of healing. Chloé's routine was relentless. She would go to school, her mind still half-focused on Alex, then race home to relieve Emily, who had been watching over him all day. The roles were reversed now. Chloé, who had been the one receiving help with her studies, was now the one bringing home assignments for Alex, patiently explaining what he had missed in their shared classes. She would sit by his bed, reading their textbooks aloud, her voice a calm, steady presence.
+
+The weight on her was immense—the stress of her own schoolwork, the worry for Alex, and the responsibility of helping him catch up. But she never complained. Every small sign of his returning strength—the first time he was able to sit in his wheelchair for an hour, the first time he made one of his dry, witty jokes on his AAC—was a victory.
+

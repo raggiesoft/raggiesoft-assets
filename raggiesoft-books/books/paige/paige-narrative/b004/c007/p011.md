@@ -1,0 +1,120 @@
+# Part 11: The Neon Horizon
+
+## Thursday, May 13, 2004 — 14:50 PM (CST) The Connector Tunnel, Chicago O'Hare
+
+The elevator doors slid open.
+
+They didn't step into a hallway. They stepped into a computer chip.
+
+The connector tunnel between Concourse B and Concourse C was unlike anything else in the airport. The ceiling was low and curved, lined with hundreds of feet of mirrored panels and neon tubes.
+
+As they rolled out of the elevator, the lights flared—electric blue, turning to violet, turning to hot pink.
+
+And there was music. It wasn't a song; it was a synthesized, ambient hum that seemed to vibrate the very air. *Woom-woom-woom-woom.*
+
+"Sensory warning," Jessica said, her voice echoing off the glass walls. "It's intense."
+
+"I see it," Freddie whispered.
+
+He looked up from under his hood. Even through his dark sunglasses, the colors were vivid. To a neurotypical person, it was a cool art installation. To Freddie, it was a raw data stream.
+
+*Blue. 4 seconds. Fade. Magenta. 3 seconds. Pulse. Sound frequency 440Hz shifting to 432Hz.*
+
+He couldn't just "watch" it. His brain tried to **solve** it. He tried to find the algorithm that controlled the chaos.
+
+"Let's take the ride," Paige said.
+
+She pushed the wheelchair onto the first moving walkway. It was a horizontal escalator—a continuous track of grooved metal plates.
+
+*Clack-clack-clack.*
+
+The wheels of the chair hit the metal pallets, vibrating instantly. The sound was mechanical and grinding, a sharp contrast to the smooth synth music above.
+
+To their left, another metal track carried passengers the same direction. To their right, two lanes of traffic moved against them, faces illuminated by the neon glow.
+
+Freddie gripped the armrests. His head snapped back and forth.
+
+"The sequence is irregular," Freddie panicked, his breathing speeding up. "Blue doesn't always follow Teal. There is a random number generator. I can't... I can't predict the next photon."
+
+He was hyperventilating. The sheer volume of variable data was crashing his processor. The music was syncing with the lights in a way that felt like it was physically touching his skin.
+
+"He's looping," Paige said, seeing his hands flapping slightly inside his sleeves. "He's trying to decode the wall."
+
+"Block him," Jessica commanded.
+
+Jessica, who was standing beside the chair, stepped directly in front of it. She planted her sneakers on the grooved metal plates, facing forward.
+
+She was a wall of denim and cotton.
+
+"Eyes on me, Freddie," she said, her voice cutting through the synth music and the mechanical rumble of the floor. "Look at my shirt. Look at my hair. Ignore the perimeter."
+
+Freddie stared at the back of Jessica’s white t-shirt. It was a solid, non-glowing object. It was static. It was safe.
+
+"Focus locked," Freddie wheezed, squeezing his eyes shut for a second to reset.
+
+They reached the end of the first span. The metal plates disappeared under the comb teeth at the end of the track.
+
+*Ka-clunk.* The wheelchair rolled off the track and onto the tiled floor.
+
+They had to walk twenty feet to the next set of walkways. The neon ceiling above them pulsed a deep, angry red.
+
+"Halfway," Jessica said, checking Freddie. He was sweating. The humidity in the tunnel was higher than the concourse. "We need to clear this sector. He's overheating."
+
+"New tactic," Paige decided. "We don't ride. We run."
+
+"On the plates?" Jessica asked.
+
+"Speed multiplier," Paige confirmed. "If I push him *on* the track, we move at double velocity. We get out in half the time."
+
+"Do it," Jessica said.
+
+They approached the second span.
+
+Paige hit the metal walkway at a jog. She shoved the heavy wheelchair onto the moving plates, but she didn't stop walking. She kept her legs pumping, her sneakers thudding against the metal slats, pushing the chair forward relative to the track.
+
+"Moving!" Paige shouted to a businessman standing on the right. "On your left!"
+
+Jessica sprinted ahead, clearing the path.
+
+"Make a hole!" Jessica called out, her voice authoritative. "Medical transport coming through!"
+
+Freddie felt the wind pick up. The vibration of the metal plates buzzed through the frame of the chair. The neon lights smeared into streaks of color—blue-green-yellow—blurring into a single line of light.
+
+He didn't try to decode it anymore. It was moving too fast.
+
+"Warp speed," Freddie whispered, clutching his chest.
+
+He kept his eyes glued to Jessica, who was jogging backward now, five feet in front of him, making sure no one stepped into their path.
+
+"Almost there," Jessica yelled over the increasing volume of the music. "I see the elevators!"
+
+The end of the tunnel loomed. The neon stopped. The ceiling turned to boring, beautiful white tile.
+
+"Brakes!" Paige yelled.
+
+She hauled back on the wheelchair handles.
+
+*Ka-clunk.*
+
+They flew off the end of the metal track, the wheels hitting the tile with a skid. They carried enough momentum to roll straight across the lobby.
+
+Jessica slammed her hand against the "Up" button for the elevator.
+
+The doors opened instantly, as if the building knew they needed sanctuary.
+
+They rolled inside. The doors slid shut, cutting off the neon glare and the wailing synthesizer.
+
+The silence in the elevator was heavy.
+
+Freddie pulled his hood down slightly. He was trembling, but he was intact.
+
+"Algorithm... unsolved," Freddie gasped.
+
+"It doesn't matter," Paige said, leaning against the elevator wall, breathing hard. "We beat the level."
+
+Jessica hit the button for the Concourse Level.
+
+"Next stop: The Gate," she said. "And actual air."
+
+The elevator began to rise, lifting them out of the underworld and toward the final plane that would take them home.
+

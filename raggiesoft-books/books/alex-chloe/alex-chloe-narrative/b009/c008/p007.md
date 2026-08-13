@@ -1,0 +1,28 @@
+# Part 7: The Aftermath
+
+Slowly, the roaring in Alex's ears subsided, replaced by the gentle, steady anchor of Chloé's voice. His breathing evened out. The rigid terror gripping his muscles began to loosen. He was back in the CCHR library, the scent of old paper and dust motes replacing the phantom smell of diesel fumes. He looked at Chloé, his eyes full of a deep, weary gratitude.
+
+He took a shaky breath and leaned forward just enough to indicate what he needed next. Chloé understood instantly. She rose from her kneeling position and wrapped her arms around him in one of their signature "big squeeze" hugs, holding him firmly, providing the deep, grounding pressure that she knew soothed his overloaded senses. He leaned into her, his own arms wrapping around her waist, his cheek resting against her shoulder. It was a hug that was not about comfort, but about reconstruction, putting the shattered pieces of his composure back together.
+
+After a long moment, he gave her a gentle squeeze, a signal that he was okay. As she loosened her embrace, he reached for his keyboard, his hands still trembling slightly.
+
+I AM OKAY, his device voiced, the tone a little shaky but resolute. I AM SORRY.
+
+"You have nothing to be sorry for," Chloé whispered, wiping a tear from her own cheek. "Do you want to go home?"
+
+He shook his head, his determination returning. NO. I WANT TO FINISH MY SHIFT. He looked towards the circulation desk, then back at her. AND YOU NEED TO FINISH YOURS. WE CAN'T LET IT WIN.
+
+Chloé's heart ached with a fierce, proud love for him. Even after a terrifying meltdown, his first instinct was to reclaim his space, to refuse to be driven out by the ghosts of his past.
+
+"Okay," she said softly. "Okay, we finish our shifts. But you promise me—if you feel it coming back, even a little, you use your communicator to call my desk. Immediately. Deal?"
+
+DEAL, he typed.
+
+She gave his hand one last squeeze and, with a reassuring look at the head librarian who had been watching from a distance, walked back to her post at the circulation desk. Alex took another deep, centering breath and turned back to the student's corrupted file. With a quiet, focused intensity, he went back to work.
+
+An hour later, his shift was over. He tidied his workstation and packed his Quantum Note into his bag. Normally, he would head for a quiet carrel in the back of the library to read or work on homework while he waited for Chloé. But not today.
+
+Instead, he navigated his wheelchair out of the computer lab and into the main reading area. He found an empty table, not one tucked away for privacy, but one in the open, positioned at a perfect angle. From this new vantage point, he had a clear, unobstructed view of the entire circulation desk, where Chloé was busy scanning books and helping students.
+
+He unpacked his calculus textbook and got to work. But every few minutes, his eyes would lift from the page, his gaze flicking over to the front of the library. He wasn't just waiting for her; he was watching her. He needed to see her, to have her in his line of sight, a constant, reassuring presence that kept the ghosts at bay. Their sanctuary had been breached, and for now, she was the only thing that made it feel safe again.
+

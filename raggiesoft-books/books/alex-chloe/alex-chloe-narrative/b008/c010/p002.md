@@ -1,0 +1,30 @@
+# Part 2: The Doctor's Verdict
+
+A few days after their return to Virginia, the entire, seven-person family unit sat in the quiet, tense waiting room of Dr. Adams, Alex's primary care physician since he was a boy. The appointment was a non-negotiable necessity. They needed a full, professional assessment of the damage Vera had done.
+
+When the nurse called his name, a silent, supportive understanding passed between them. Chloé and Megan each gave his hand a firm, reassuring squeeze. This was a place for parents. They would wait.
+
+In the sterile, quiet exam room, Dr. Adams, a kind, no-nonsense woman who had known Alex his entire life, conducted a thorough examination. Emily stood by, her heart a tight knot of anxiety, as the doctor checked Alex's vitals, noted his significant weight loss, and carefully examined the still-healing pressure sores on his back and hips.
+
+After a long, quiet examination, Dr. Adams sat down on the stool opposite them, her expression a mask of profound, professional gravity.
+
+"Emily," she began, her voice low and serious, "I need you to understand the severity of what has happened here. This is not just a case of poor judgment or a bad trip. This is a case of profound, life-threatening neglect."
+
+Emily just nodded, her hands clasped tightly in her lap.
+
+"Based on his weight loss, the signs of dehydration, and the state of these pressure sores," Dr. Adams continued, her clinical, matter-of-fact tone making the words even more chilling, "Alex was in the early stages of catastrophic systemic failure. The human body, especially one with the pre-existing challenges of Cerebral Palsy, cannot sustain that level of malnutrition and medication withdrawal for long."
+
+She looked directly at Emily, her gaze unwavering. "You told me on the phone that his friend, Chloé, got him out of there on a Wednesday."
+
+"Yes," Emily whispered, “His ex-girlfriend dragged him on a bus from Norfolk to Seattle on the Saturday before Thanksgiving. Chloé then rescued him on Wednesday, the day before Thanksgiving.”
+
+"Then I can say, with a very high degree of medical certainty," Dr. Adams stated, her voice leaving no room for doubt, "that she saved his life. If he had remained in that situation for another few days, a week at the absolute most, the infection from these sores would have become septic. His kidneys would have failed. His heart would have stopped. We would be having a very different, and much more tragic, conversation right now."
+
+The words hung in the air, a cold, hard, and undeniable confirmation of their worst fears. Emily let out a single, choked sob, the sound a mixture of pure, white-hot fury at Vera and a profound, bottomless gratitude for Chloé.
+
+Dr. Adams continued, outlining a detailed recovery plan of nutrition, physical therapy, and careful monitoring. But her final words were what truly landed.
+
+"What happened to him was a profound trauma, Emily," she said, her professional demeanor softening with a lifetime of empathy for this family. "The physical recovery will be slow. The emotional recovery will be even slower. He is going to need his entire fortress around him for this."
+
+When Emily and Alex emerged from the exam room a few minutes later, the other five family members stood up as one, their faces a mural of anxious hope. Emily didn't need to say a word. The look on her face—the horror, the grief, and the new, steely, unbreakable resolve—told them everything they needed to know. The quiet war to protect Alex Miller was over. The lifelong, unwavering mission to help him heal had just officially begun.
+

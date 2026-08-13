@@ -1,0 +1,30 @@
+# Part 1: Museum Hopping
+
+The fortress four woke on their second full day in Washington, D.C. to the gentle, rhythmic drumming of rain against their hotel room window. A quick look outside confirmed Stella's morning weather check: it was a gray, drizzly day, making a raincoat essential.
+
+"Well," Stella said, looking out at the wet streets, "looks like it's a museum day, team."
+
+There was a chorus of agreement. The plan was already in place, a perfect rainy-day contingency. "Okay," Stella announced, pulling out her DATA maps. "First stop, the Air and Space Museum for the morning, then we'll grab lunch and hit the Natural History Museum for the afternoon. It's all indoors."
+
+Their journey to the National Mall was a smooth and practiced affair. They were becoming old pros at the city's transit system. A short walk to the Judiciary Square station, a quick ride on a nearly empty Red Line train, and then a transfer at Gallery Place put them on a Yellow Line train heading toward L'Enfant Plaza.
+
+The train glided to a stop at the L'Enfant Plaza station, and they disembarked onto the upper-level platform. The elevator to the street was visible on the level above them, seemingly just a short ride up.
+
+"Okay, this is the tricky part," Stella announced as the train pulled away, her voice a mix of frustration and pride in her research. "That elevator," she said, pointing up toward the mezzanine, "doesn't actually come down to this platform."
+
+Luna looked around the station, confused. "What do you mean? It's right there. How do we get up?"
+
+"Welcome to the L'Enfant Plaza elevator maze," Stella said with a wry smile. "To get to that elevator, we first have to take *this* elevator down to the lower level platform."
+
+She led them to an elevator at the end of their platform. They all piled in, and the doors opened one level below, on the platform for the Blue and Orange lines. The air was thick with the smell of damp concrete and the rumble of different trains. Stella then led them across the crowded lower platform to a *second* elevator.
+
+"Now this one takes us up to the *other* upper-level platform," she explained as they rode it up. When the doors opened, they were on the opposite side of the tracks from where they had started. From there, they had to cross that platform to a *third* elevator.
+
+"And *this* one," Stella said with a triumphant finality, "finally takes us up to the mezzanine where we can get out."
+
+"That was... insane," Olivia said, shaking her head as they finally exited the fare gates. "We had to take three different elevators just to get up one level."
+
+"And now you know why I did so much research," Stella said with a small, satisfied smile. Without her meticulous, step-by-step plan, they would have been hopelessly lost. It was another quiet, powerful demonstration: for Leo to navigate the world, it required a fortress, and that fortress needed a brilliant general.
+
+Emerging from the final elevator onto the street, they were just a short, accessible walk from the imposing, modern facade of the Finch Museum of Air and Space, ready to explore the wonders of flight and space, safe from the rain and secure in their fortress.
+

@@ -1,0 +1,70 @@
+# Part 4: The Mole Lifestyle
+
+## Date: November 15, 2003 Time: 9:15 AM Location: The Braxton Link (Sub-University Avenue) leading to the Tech Core
+
+They didn't have to go outside into the freezing November wind to find the Tech Core.
+
+Back on the main Concourse level, Patrick pushed Nichole past the bronze Bull statue and into a wide, brightly lit subterranean corridor. This was the BSU section of The Braxton Link, the massive pedestrian network that connected the entire campus underground.
+
+To the students, walking these tunnels was known as "Walking the Bull Run".
+
+The corridor was packed with students. It was warm, dry, and bustling with the energy of a self-contained city. Patrick looked up at the wayfinding signs hanging from the ceiling. The underground grid perfectly mirrored the surface streets above: they were currently rolling down *Sub-University Avenue*, heading toward the intersection of *Sub-College*. Distance markers were posted at every intersection in both imperial and metric units.
+
+"Look at this, Nikki," Patrick marveled, gesturing to the smooth concrete floors and automatic doors. Every single building on campus—from the main library to the maintenance sheds—had a direct, climate-controlled connection to the tunnels. It was the ultimate "Mole" lifestyle; a student could go days without stepping outside during winter finals.
+
+For Nichole, it meant the environment was entirely conquered. No snowbanks to get stuck in. No icy ramps to slide down.
+
+They followed the blue directional arrows to the "Tech Core" and entered the basement of the College of Engineering and Computer Science. They took a massive freight-sized glass elevator—smelling faintly of soldering iron and ozone—up to the third floor.
+
+The breakout session was in a high-tech lab with stadium-style workbenches.
+
+A professor in a BSU hoodie was standing at the front of the room, holding up a complex motherboard.
+
+"Welcome to the Engine Room," the professor said as the room settled. "You are here because you want to build things. Software, hardware, mechanical, civil. It’s all connected here at BSU."
+
+Patrick leaned forward, his eyes locked on the circuitry. He had always wanted to be an engineer. He wanted to understand how the parts of the world fit together.
+
+"But let me tell you a secret," the professor continued, putting the motherboard down and pulling up a slide on the projector. The slide just had one word: DOCUMENTATION. "The most brilliant piece of code, the most revolutionary bridge, the most advanced hydraulic lift... they are all completely worthless if no one knows how to use them."
+
+Nichole stopped scanning the room. She looked at the screen.
+
+"That is where the Department of Technical Communication comes in," the professor explained. "Here at Braxton, our Tech Writers are embedded directly into the Engineering and Computer Science labs. They translate the genius of the engineers into manuals, user interfaces, and safety protocols that the rest of the world can understand. They are the bridge between the machine and the human."
+
+Nichole’s breath hitched.
+
+She looked down at her Apex ConvertiBook. For the last two months, what had she been doing? She had mapped out the fuse box of the Portsmouth house. She had written the step-by-step safety manual for the hydraulic bathtub. She had documented the exact bus transfer times for the OSTA grid.
+
+She had always wanted to be a writer. She loved stories. But fiction felt solitary.
+
+*Technical Writing*, however... that was a team sport.
+
+She looked at her twin brother. Patrick was practically vibrating with excitement, staring at the engineering labs visible through the glass wall. He was going to build the Machine.
+
+But a Machine needs a manual.
+
+Nichole reached for her mouse. She opened her main text-to-speech window, but she didn't hit the broadcast button. She just wanted Patrick to read it.
+
+She tapped his arm. Patrick looked down at her screen.
+
+"YOU. BUILD. IT."
+
+Patrick read the words. He looked at her, tilting his head. "Build what?"
+
+Nichole deleted the line and typed the next one.
+
+"THE. MACHINE. YOU. BUILD. I. WRITE. THE. MANUAL."
+
+Patrick’s eyes widened as the realization hit him. He looked from his sister's screen up to the professor, who was now explaining the joint degree paths. BSU didn't force you into silos. An engineer and a technical writer could take their core project classes together.
+
+Patrick looked back down at Nichole. She wasn't just tagging along to his dream. She was integrating into it.
+
+"A two-person engineering firm," Patrick whispered, a slow grin spreading across his face.
+
+Nichole clicked her mouse, the synthesized voice cutting through the low murmur of the lecture hall just loud enough for the students around them to hear.
+
+"BENNETT. DYNAMICS."
+
+Patrick laughed. "Bennett Dynamics. I like the sound of that."
+
+The Gap Year wasn't just about learning to ride the bus anymore. It was about prep work. They had found their major. They had found their campus. Now, they just had to get accepted.
+

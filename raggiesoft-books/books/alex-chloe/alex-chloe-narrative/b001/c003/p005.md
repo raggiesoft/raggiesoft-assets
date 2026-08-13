@@ -1,0 +1,36 @@
+# Part 5: The Fizzle
+
+A few weeks after the disastrous movie "date," the performative relationship between Alex and Jennifer was on its last legs. The final, awkward nail in the coffin came on a Saturday afternoon at the Chesapeake Bay Mall in Virginia Beach.
+
+The "date" was another of Ashley Parker's ideas. She and her friends had dragged Jennifer and Alex to the mall, and they were all sitting in the loud, chaotic food court upstairs. The vibe was palpably uncomfortable.
+
+Suddenly, a familiar, cheerful voice cut through the noise. "Hey, you two."
+
+It was Megan Carter, a welcome sight. She was at the mall with her own high school friends and had spotted her cousin. She came over to their table, her presence an immediate, calming force.
+
+"Didn't expect to see you here, cuz," she said, and without a second thought, she wrapped an arm around Alex's shoulders, pulling him into a familiar, one-armed hug.
+
+The effect on Alex was instantaneous. He visibly relaxed, leaning into his cousin's embrace, a look of pure, uncomplicated comfort on his face.
+
+Across the table, Ashley Parker and her friends had been watching with narrowed, gossipy eyes. "Whoa, look at that!" Ashley said, her voice a loud, carrying whisper. "Guess we know who he *really* wants to cuddle with. Two-timing on Jennifer already, Miller?"
+
+Another girl snickered. "Guess he likes older women."
+
+Alex tensed, the comfortable bubble of safety instantly popping.
+
+Megan's head snapped up, her expression shifting from warm affection to a look of pure, cold steel. "Are you talking to my cousin?" Megan asked, her voice dangerously quiet.
+
+Ashley, for all her bravado, was still just a middle schooler. Being the direct target of a high school junior's ice-cold fury was a terrifying experience. "I... uh... we were just joking," she stammered.
+
+"It wasn't funny," Megan stated, her voice leaving no room for argument. "This is my cousin. My family. It has nothing to do with you, and you will not make it into something ugly." She then made a decision. Her cousin was not going to spend one more second in this toxic environment.
+
+She looked at Alex, her expression softening instantly. "You know what, cuz?" she said, her voice bright and full of a sudden, wonderful energy. "My friends and I were just about to go check out the new arcade. You should come with us. It'll be way more fun than sitting here with... this."
+
+Alex looked at Jennifer, who just gave him a small, sad, and deeply relieved nod. Then he looked back at Megan, his eyes full of a profound, grateful relief. He gave a single, firm nod of his own.
+
+"Great," Megan said, her voice full of a final, cheerful authority. She stood up and began to guide his wheelchair away from the table. "Jennifer, it was nice to see you," she said over her shoulder, a clear and final dismissal.
+
+Alex didn't look back. He allowed Megan to lead him across the food court to a different, larger table where her own friends were sitting. They greeted him with easy, uncomplicated smiles. They had all seen the rescue for what it was, and they welcomed him into their circle without a hint of awkwardness.
+
+For the rest of the afternoon, Alex was not a pawn in a cruel social game. He was just a kid, hanging out with his older cousin and her cool, genuinely nice friends. As he watched Jennifer and her group leave the food court and head downstairs a little while later, he knew, with a quiet and absolute certainty, that it was over. This whole, strange, uncomfortable experiment was done. He had just been shown what real, effortless friendship felt like, and he knew he would never settle for anything less again.
+

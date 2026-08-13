@@ -1,0 +1,42 @@
+# Part 3: The Calling Cards – 8:30 AM
+
+Mom reached into the pocket of her cardigan. She completely ignored Dad, stepping around me to press a thick, heavy stack of plastic cards into Rachel's trembling hands.
+
+"Put these in your pockets," Mom whispered fiercely, her voice dropping so Dad couldn't hear the exact details of the transaction. "Hide them. Do not let him see them."
+
+I reached into my own jeans pocket, my fingers brushing against an identical, massive stack of plastic. Prepaid calling cards. Hundreds of hours of long-distance minutes.
+
+It was our secret arsenal. Only Mom, Jessica, Rachel, and I knew about them. Dad had no idea how we planned to fund our survival. The one, singular grace of the judge's court order was a strictly written clause: *Michael and Rachel must be allowed unrestricted communication with each other.* Dad legally couldn't stop us from talking, but Mom wasn't going to give him the chance to use the long-distance phone bill as an excuse to cut us off.
+
+Rachel shoved the stack of cards deep into the pockets of her cargo pants.
+
+"Rachel, let's go," Dad called from the open front door, the engine of the truck revving impatiently.
+
+Rachel looked up at me. The panic in her dark eyes was absolute. Her anchor was being ripped away, and she was about to be dragged into a terrifying, unpredictable world of airplanes, armed guards, and strange houses.
+
+I didn't hesitate. I stepped forward and wrapped my arms around her.
+
+It wasn't a normal hug. It was a desperate, crushing collision. I locked my arms around her ribs, squeezing with every ounce of physical strength I possessed, trying to imprint the heavy, grounding pressure into her nervous system so she could carry it with her through the metal detectors. She buried her face into my chest, her hands fisted so tightly in the fabric of my shirt I heard the cotton tear.
+
+We had never used the neurotypical scripts for affection. We didn't do casual hugs, and we never, ever used the emotional buzzwords that normal families threw around. Our brains didn't need the verbal confirmation; we proved our bond through proximity and protection.
+
+But the proximity was gone. The absolute worst-case scenario had arrived, and the situation demanded total, unfiltered clarity.
+
+"I love you," I whispered fiercely into her hair, the words feeling heavy and monumental on my tongue. It was the first time I had ever said those words out loud to another human being.
+
+Rachel sobbed, a violent, full-body shudder ripping through her frame. She squeezed me so hard my ribs ached.
+
+"I love you too," she wept into my chest, her voice breaking on the vow.
+
+"Call me the second you land," I ordered, my voice shaking. "I'll be right by the phone. Unrestricted communication. He can't stop us."
+
+"I will," she promised.
+
+She pulled away. She didn't look at Mom, and she didn't say goodbye to the empty house. She just turned around, walked out the front door, and climbed into the passenger seat of Dad’s truck.
+
+Dad pulled the front door shut behind them.
+
+The heavy lock clicked into place, and the house was suddenly, terrifyingly silent. I stood alone in the foyer, the phantom pressure of her hug still burning against my ribs, and listened to the truck back out of the driveway, taking my sister three thousand miles away.
+
+
+

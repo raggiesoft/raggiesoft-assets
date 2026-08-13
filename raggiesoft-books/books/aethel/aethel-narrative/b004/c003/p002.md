@@ -1,0 +1,142 @@
+# Chapter 1: The Shadow at Noon
+
+## Part 1: The Cold Draft
+
+Theme: ominous-warning
+
+Location: The Cottage Bedroom
+
+POV: Kaela
+
+=
+
+Kaela woke up because the birds had stopped singing.
+
+She lay in bed, staring at the timber beams. Usually, at this hour, the sparrows in the ivy were noisy. The rooster at the mill was crowing. The town was waking up.
+
+But today, there was silence.
+
+She shifted. Kaelan was asleep beside her, lying on his stomach, one arm thrown over her waist. He was a furnace, as always, radiating a steady 99 degrees of comfort.
+
+But the air in the room felt wrong. It didn't feel like morning air. It felt... thin.
+
+"Sun," Kaela whispered, nudging him.
+
+Kaelan groaned into his pillow. "Is Horg here? Tell the door to suggest Luncheon."
+
+"No," Kaela said, sitting up. She shivered. The quilt slipped down, and the air hit her skin. "Something is wrong. It's too quiet."
+
+Kaelan rolled over. He opened his eyes. They were gold, but they looked dim, like a lantern running low on oil.
+
+He sat up. He frowned.
+
+"I feel..." He rubbed his chest. "I feel heavy. Like the gravity is turned up."
+
+"I didn't touch the gravity," Kaela said immediately.
+
+Kaelan got out of bed. He walked to the window. He unlatched the "Guillotine" gravity seal with a touch of his hand and pushed the shutters open.
+
+He froze.
+
+"Kaela," he said. His voice was flat. "Come here."
+
+Kaela climbed out of bed, grabbing her robe. She walked to the window and looked out.
+
+It was noon. The clock on the mantel said so.
+
+But outside, the sky was not blue.
+
+It was a sickly, washed-out grey. The twin suns were there, but they looked wrong. They weren't blindingly bright orbs of fire. They looked like pale, white discs, as if seen through heavy smoked glass.
+
+The light hitting Sunstead was dim, colorless, and cold.
+
+"Where is the heat?" Kaelan asked, reaching his hand out the window. "The suns... I can't feel them. I can't feel the connection."
+
+He usually drew a constant trickle of power from the suns to recharge his internal battery. Now, he felt like he was sucking on a straw that had been pinched shut.
+
+"It's the Unseen," Kaela whispered, gripping the windowsill until the wood cracked.
+
+"How do you know?"
+
+"Because," Kaela pointed to the garden. "Look at the shadows."
+
+Kaelan looked.
+
+The shadows of the trees, the fence, and the tub were not moving. The wind had stopped. The leaves were frozen in mid-sway.
+
+"Stasis," Kaelan realized. "He's not attacking the core. He's dampening the atmosphere. He's trying to suffocate the energy."
+
+## Part 2: The Dimming of the Town
+
+Theme: sunstead-panic
+
+Location: The Town Square
+
+POV: Kaelan
+
+=
+
+They dressed quickly—armor this time. Kaelan put on his leather jerkin and strapped his knife to his thigh. Kaela grabbed her staff.
+
+They ran down the ridge path.
+
+The town was in a state of confused panic. People were standing in the streets, looking up at the pale, ghostly suns.
+
+"It's freezing!" Mrs. Gable shouted, hugging her shawl tight. "It's noon in July, and I can see my breath!"
+
+Horg was standing by the forge. His fire was out.
+
+"The coal won't catch," Horg told them as they approached. He looked terrified. "I've struck the flint ten times. The spark... it just dies. The air is too heavy."
+
+Kaelan stepped up to the forge.
+
+"Let me try," he said.
+
+He placed his hand on the cold coals. He engaged the Circuit. He pushed a pulse of heat into the fuel.
+
+Usually, this would result in a roaring inferno.
+
+Today, the coals glowed a dull, reluctant red for a second, then faded back to black the moment Kaelan broke contact.
+
+"It's being suppressed," Kaelan said, looking at his hand. "Entropy. Something is actively sucking the heat out of the world."
+
+"Is it the King?" the Miller asked, running up. "Did Roderick send a wizard?"
+
+"No," Kaela said, looking at the grey sky. "This isn't a wizard. This is the Void."
+
+She looked at Kaelan.
+
+"The Unseen is here. He's not sending minions anymore."
+
+Kaelan looked at the shivering townsfolk. He looked at the dim suns. He felt the sluggish beat of the earth's heart, slowed by the cosmic dampening.
+
+"He wants to stop the spinning," Kaelan realized. "He wants to turn Earth into a cold, dead rock."
+
+"What do we do?" Horg asked. "Do we fight?"
+
+"You can't fight the cold with a hammer, Horg," Kaelan said grimly.
+
+He turned to the Council.
+
+"Get everyone inside. Isolate the houses. Close the shutters. Light every candle you have—if they will light."
+
+"Where are you going?" Mrs. Gable asked.
+
+Kaelan looked at the ridge. He looked at his fortified cottage.
+
+"We're going to make a call," Kaelan said. "We need to know where the source is. And to do that..."
+
+He looked at Kaela.
+
+"...we need to amplify the signal. We need the Garden Bath."
+
+"The bath?" Horg blinked. "Now?"
+
+"Water conducts," Kaela explained quickly. "And the granite holds the charge. It's the biggest antenna we have."
+
+They turned and ran back up the hill.
+
+The invasion had begun. But there were no soldiers to gravity-crush, and no swords to melt. The enemy was the cold itself.
+
+And the only thing standing between Sunstead and absolute zero was the internal fire of the Twins.
+

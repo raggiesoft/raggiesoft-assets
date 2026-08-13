@@ -1,0 +1,58 @@
+# Part 4: The Bleeding Bedrock – Saturday, October 22, 2044 – ~06:00
+
+Wyatt and Sarah wandered off the primary catwalks, taking advantage of the blind spots in the surveillance grid to walk hand-in-hand through the blistering lower levels of Sector 4. The deeper they went, the more the air felt like a physical weight. It wasn't just the oppressive heat and the failing ventilation scrubbers whining in a desperate pitch. The gravity itself felt distinctly wrong down here—heavier and more punishing than the standard gravity on either of their home planets, dragging at their steel-toed boots with every step. The stench of sulfur and burning copper was thick enough to taste.
+
+Wyatt turned down a narrow, restricted observation corridor overlooking Deep-Core Shaft 7.
+
+At the end of the walkway was a massive, reinforced plexiglass window, thick with dust and grime. He let go of Sarah’s hand just long enough to wipe a clearing on the glass with his heavy leather glove.
+
+They both looked down into the cavernous shaft.
+
+A massive, automated drill bit—the size of a small transport shuttle—was being hoisted up from the bedrock by heavy industrial chains. It was glowing a dull, angry orange from the sheer thermal friction of the dig. But that wasn’t what made Wyatt's stomach drop.
+
+The drill bit wasn't just covered in pulverized subterranean bedrock. It was choked with thick, dark, coagulated ribbons of a fibrous material. As the massive piece of machinery hung suspended over the shaft, heavy, viscous drops of a dark, crimson fluid fell from the grinding teeth, sizzling violently as they hit the hot metal plating below.
+
+"Wyatt," Sarah whispered, her voice barely carrying over the ambient hum. She wasn't looking through the glass; she had her PDA tethered to a nearby, unsecured maintenance terminal. Her eyes were locked on the diagnostic data flooding her small screen.
+
+"Tell me that's a subterranean oil pocket," Wyatt said, his voice tight, staring at the dark red sludge dripping off the drill.
+
+"It's not oil," she said, her fingers flying across the keypad. Her face was pale in the glow of the screen. "The thermal scanners are logging it as a bio-hazard. The chemical composition... it's organic. The cellular structure is ancient, but it's actively reacting to the drill. It's necrotic tissue."
+
+She unplugged the tether, looking up at him with sheer, unadulterated horror.
+
+"They aren't mining, Wyatt," she breathed out. "They're cutting into something that's bleeding."
+
+A heavy, violent tremor suddenly shook the entire corridor, accompanied by a low, guttural groan that didn't sound like shifting tectonic plates. It sounded almost... biological. A deep, cosmic wrongness settled into Wyatt's bones. The panicking scientists, the heavily armed guards, the failing power grid—it all snapped into terrifying focus. Apex Defense Solutions didn't just dig too deep. They had hit something apocalyptic, and they were trying to cover it up with thousands of expendable bodies.
+
+Wyatt looked at Sarah. She was staring at the bloody drill bit, the crushing realization hitting her that this entire facility was a tomb. If whatever was buried down there woke up, Apex wasn't going to send an evacuation shuttle. Management was going to seal the blast doors and let them all burn.
+
+"We're done," Wyatt said, his voice a low, hard command. He reached out, gripping her hand firmly. "We're done walking the line today."
+
+She didn't argue. She clipped her PDA to her belt, gripping his hand like a lifeline.
+
+Wyatt didn't care about the patrol route. He didn't care about the cameras or the biometric logs. He pulled her away from the observation window, navigating the rusted labyrinth of Sector 4 with a desperate, singular focus. They bypassed the main catwalks entirely, slipping through the blind spots and maintenance shafts until they finally reached the heavy, unlatched blast door of the abandoned filtration sector.
+
+Wyatt heaved the door open, pulled her inside, and slammed it shut. He immediately jammed the decommissioned steel pipe under the handle, barricading them inside the silent, dead-air break room.
+
+The second the door was secured, the adrenaline of the escape crashed into the terrifying reality of what they had just seen.
+
+Sarah dropped her heavy flashlight onto the cracked vinyl sofa. She turned to Wyatt, her hands shaking. She wasn't just scared of Apex anymore; she was terrified of how little time they might actually have left. Every single moment in this hellhole suddenly felt incredibly fragile.
+
+Wyatt closed the distance between them in a single stride, wrapping his broad arms around her and pulling her flush against his chest.
+
+She buried her face into his neck, her hands gripping the thick fabric of his black utility shirt as if she was trying to anchor herself to his heartbeat. Wyatt held her tightly, resting his chin against the top of her head, closing his eyes in the dim emergency lighting.
+
+"I've got you," he murmured fiercely, rubbing a steady hand up and down her back. "I've got you, Sarah."
+
+She looked up at him, her eyes shining with a mixture of fear and absolute, overwhelming devotion. The cosmic horror waiting beneath the facility made the corporate rules completely meaningless. The only thing that mattered, the only thing that was actually real, was the man holding her.
+
+She pulled him down into a deep, desperate kiss. It wasn't just passionate; it was hungry and urgent. Her tongue swept past his lips, meeting his with a heat that chased away the cold dread of the facility. Wyatt kissed her back with everything he had, his hands tangling in her hair, backing her slowly toward the small sofa.
+
+He broke the kiss just long enough to catch his breath, their foreheads resting against each other.
+
+"Whatever happens out there," she whispered, her hands framing his face, her thumb gently brushing his scarred cheek. "I don't care. I just want to be here. With you."
+
+"I'm not going anywhere," Wyatt promised, kissing her again, softer this time, letting the profound depth of his feelings for her settle the erratic pounding of his heart.
+
+They both sat down on the narrow sofa, pulling the heavy deployment sleeping bag over their legs. Wyatt wrapped his arms completely around her, and she melted into his side, resting her head on his chest. Apex might be digging its own grave outside that barricaded door, but right now, hidden in the dark, Wyatt had the only thing in the universe he actually cared about. He just held her, determined to cherish every single second they had left together.
+

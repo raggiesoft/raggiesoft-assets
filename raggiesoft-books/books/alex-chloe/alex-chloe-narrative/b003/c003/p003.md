@@ -1,0 +1,32 @@
+# Part 3: The Journey North (Late July 2000)
+
+The first beep of the 4:30 AM alarm was a jarring intrusion into the pre-dawn stillness. In the Miller house, lights flicked on one by one. The air was thick with the sleepy, hushed energy of an early start. After a quick breakfast, the final phase of the operation began: loading the last of the bags and the all-important snack cooler into the back of the Mason minivan.
+
+With a final check and a quiet "Here we go," Thomas Mason pulled the minivan out of the driveway and onto the sleeping streets of Lisa Court. He made the turn onto Blue Knob Road, then followed the familiar route from Woods Corner onto Centerville Turnpike, then to Indian River Road, its streetlights casting lonely pools of light in the darkness. Soon, they were merging onto I-64 West. The adventure had truly begun.
+
+Following James’s directions, Thomas took Exit 282 for US-13 North, the direct route that led to the engineering marvel the locals called the Chesapeake Bay Bridge-Tunnel.
+
+"Better have some cash ready," James said from the middle row as the distant lights of a toll plaza appeared. "It's ten dollars."
+
+A few moments later, Thomas handed a ten-dollar bill to a toll collector. "Ten bucks for the shortcut to poutine," he said with a chuckle. "Worth it."
+
+For the next half-hour, they were in a world of their own, suspended over the vast, dark expanse of the Chesapeake Bay. They drove on a roadway that seemed to float on the water, before plunging into the echoing, brightly-lit tube of an underwater tunnel, then re-emerging into the salty air. In the back, Chloé and Alex stared out the windows, mesmerized.
+
+Once they made landfall on the Eastern Shore, the minivan settled in for the long, steady drive north. They crossed into Maryland and then Delaware, where Thomas guided them onto the newly built sections of State Route 1, a smooth, modern highway that bypassed the slower local roads. They crossed the Delaware Memorial Bridge into New Jersey, the industrial landscape of the Turnpike stretching before them under a now-bright morning sky.
+
+Lunch was a quintessential road trip experience at a bustling service area on the New Jersey Turnpike. The six of them stretched their legs and ate burgers and fries in the noisy food court, a welcome break from the confines of the van.
+
+Back on the road, they followed the plan to bypass the infamous New York City traffic. At Exit 11, they left the Turnpike for the Garden State Parkway, its green, tree-lined median a pleasant change. The Parkway took them north to I-287, which became the New York State Thruway, leading them west towards the wide expanse of the Tappan Zee Bridge.
+
+"Thank you for not making us drive through the Bronx," Sophie said to James with genuine gratitude.
+
+"Happy to oblige," James replied. "The Cross-Bronx Expressway is a nightmare on its best day."
+
+On the other side of the Hudson River, they transitioned onto the scenic Hutchinson River Parkway, which seamlessly became Connecticut's State Route 15—the Merritt Parkway. The road was beautiful, winding through woods and featuring unique, art deco-style bridges, but its narrow lanes and lack of shoulders kept Thomas alert at the wheel.
+
+Finally, in Meriden, Connecticut, came the last major turn of the trip. They left the winding parkway and merged onto the wide, straight expanse of I-91 North. A sign confirmed their path: "Springfield, St. Johnsbury, VT."
+
+"This is it," Thomas announced to the van. "The home stretch. This road takes us all the way to the finish line."
+
+A comfortable, anticipatory quiet settled over the group. They were tired, but the journey was almost over. Ahead of them lay the final few hours of driving through the beautiful landscapes of New England and, at the end of it, the unique world of the Vermont-Québec border.
+

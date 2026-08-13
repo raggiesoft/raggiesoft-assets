@@ -1,0 +1,22 @@
+# Part 4: The Honeymoon
+
+The day after their beautiful wedding was a day of profound, quiet peace. The last of the out-of-town guests had departed, leaving the Leclerc house in a state of happy, contented exhaustion. The three of them—Alex, Chloé, and Megan—spent the day in a lazy, blissful blur, helping the Leclercs with the minor cleanup, looking through the first batch of digital photos from the wedding, and reliving their favorite moments.
+
+That evening, after a simple dinner of leftovers from the reception, a quiet, unspoken question hung in the air. This was their "wedding night," their last night in Canada, the traditional start of a honeymoon.
+
+Aunt Geneviève, with a knowing, delicate tact, tried to create an opening for the newlyweds. "*Megan, ma belle,*" she said, "*il y a un bon film qui joue à la télévision dans le salon, si tu veux te relaxer.*" (Megan, my sweet, there's a good movie playing on the television in the living room, if you want to relax.)
+
+It was a gentle, loving suggestion for her to give the couple some space. Megan smiled, understanding the gesture. "Thanks, Tante, maybe in a little..."
+
+But before she could finish, Chloé reached out and took her hand, a warm, firm, and completely unambiguous gesture. "No," Chloé said softly, but with an absolute certainty that left no room for debate. "Tonight is for all three of us."
+
+She looked at Alex, who was watching her, a look of profound, quiet love and agreement on his face. This was their first major decision as a romantic couple, and it was a unanimous one. Their honeymoon, like their life, was a three-person affair.
+
+They didn't go out. They didn't do anything grand. They simply migrated to the cozy back porch of the Leclerc house, which overlooked the dark, quiet expanse of the Eastern Townships. They wrapped themselves in warm blankets, a familiar three-person huddle against the cool autumn air.
+
+They didn't talk much. They just sat together, listening to the crickets, watching the stars appear in the vast, clear Canadian sky. It was more intimate, more profound, and more *them* than any fancy honeymoon suite could ever be.
+
+Later, as they prepared for bed, the routine was the same as it had been the night before. They went to the large guest room where the king-sized bed was waiting. Alex settled into his customary spot in the middle, and Chloé and Megan climbed in on either side.
+
+In the quiet darkness, Alex reached out his hands, finding Chloé's on one side and Megan's on the other. This was their honeymoon. Not a night of passion, but a night of profound, quiet, and complete contentment. It was the perfect, silent reaffirmation of the promise they had made to the world, and to each other: they were not just a couple. They were a team. A family. An unbreakable, three-person unit, now and for all the nights to come.
+

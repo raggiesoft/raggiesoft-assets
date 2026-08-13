@@ -1,0 +1,78 @@
+# Part 6: The Return
+
+## Time: 11:05 AM Location: Room 204 (Mrs. Dalloway’s Latin Class)
+
+They reached Room 204. Mrs. Dalloway’s door was closed. Through the reinforced window, Patrick could see the class was already seated, heads bent over their textbooks.
+
+Harrison didn't knock. He turned the knob and pushed the heavy wood door open, gesturing for Patrick to enter first.
+
+The classroom was quiet, filled with the scratching of pencils and the low murmur of declensions. When the door opened, twenty heads turned.
+
+In the front row, parked at the single accessible desk, was the purple Titan AeroMotion.
+
+Nichole was sitting rigid, her head down, her fingers furiously twisting the hem of her t-shirt. She wasn't working. She was waiting.
+
+When she heard the heavy latch click, her head snapped up. Her eyes behind her glasses were wide, swimming with fear. She saw Patrick enter.
+
+Then she saw the Principal standing right behind him, filling the doorframe.
+
+Her face crumpled. She tapped her armrest frantically. *Trouble. Trouble. Trouble.* In her mind, the Principal only appeared to take people away.
+
+Mrs. Dalloway, a stern woman who tolerated zero interruptions, stopped mid-sentence. She looked over her reading glasses, ready to scold a tardy student. "Mr. Harrison?"
+
+Principal Harrison stepped fully into the room. He placed a hand on Patrick’s shoulder—not a grip of detention, but a heavy pat of solidarity.
+
+"Apologies for the interruption, Mrs. Dalloway," Harrison’s voice boomed, carrying clearly to the back of the room. "I detained Mr. Bennett for an administrative matter. He is not tardy. Please mark him present."
+
+Harrison paused, looking around the room, making sure every student was listening. He looked directly at Nichole.
+
+"Patrick has been assisting me with an important safety review regarding the wrestling room," Harrison announced. "His input was invaluable to the administration. He is excused for the time missed."
+
+He looked down at Patrick. "Thank you again, Mr. Bennett."
+
+"Thanks," Patrick said, his voice a little thick.
+
+Harrison nodded once, gave a polite wave to the teacher, and backed out of the room, closing the door softly.
+
+The silence in the room stretched for a second.
+
+Patrick turned toward the front row.
+
+Nichole was staring at him. She didn't blink. She looked at the door where the Principal had just left, then back at her brother. She was trying to process the data: *No pink slip? No yelling? "Safety Review"?*
+
+Patrick walked over to her. He didn't care that the class was watching. He didn't care that Mrs. Dalloway was clearing her throat.
+
+"It's okay," Patrick whispered, crouching down next to her wheel so he was at eye level. "I'm good. We're good."
+
+Nichole let out a sound—a sharp, shuddering exhale that was half-sob, half-laugh.
+
+She raised her arms.
+
+Patrick didn't hesitate. He leaned in, wrapping his arms around her shoulders, burying his face in the crook of her neck. It was the same hug that had gotten him sent to the office forty minutes ago. The same "unapproved restraint" that the system had tried to criminalize.
+
+But here, it was just a hug.
+
+He felt her small hands clutch the back of his flannel shirt, gripping the fabric tight. He felt the tension leaving her frame, the rigid spasticity melting away as she realized he hadn't been taken away.
+
+"I told you," Patrick whispered into her hair, squeezing tight. "Armor up."
+
+He pulled back, just enough to see her face. She was wiping her eyes under her glasses.
+
+She reached out and tapped the VocaLink screen mounted to her tray.
+
+SAFE.
+
+"Yeah," Patrick smiled, standing up.
+
+He walked to the empty desk next to her—the one the school had placed there not because they wanted them together, but because Mrs. Dalloway was the only Latin teacher in the building.
+
+He dropped his backpack. He reached out and adjusted her glasses one last time, leveling them on her nose.
+
+"Salve, soror," Patrick whispered. (*Hello, sister.*)
+
+Nichole blinked slowly, the panic finally gone from her eyes.
+
+*Salve.*
+
+Patrick opened his textbook. He felt the weight of the "Secret Agent" badge in his pocket. It felt heavier now, but it also felt secure. He glanced at the door one last time, grateful for the large man who guarded it.
+

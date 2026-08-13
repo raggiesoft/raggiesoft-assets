@@ -1,0 +1,100 @@
+# Part 3: The Solar Bloom – Tuesday, November 1, 2044 – 10:30
+
+They walked away from the edge of the dark silicate plateau, following a gentle slope that led directly down into the river valley.
+
+The moment they stepped off the warm bedrock and onto the actual soil of the planet, Sarah stopped. She closed her eyes, letting out a long, contented sigh as the cool, damp earth and soft blades of alien grass slipped between her bare toes. There was no concrete, no grated metal, no sterile linoleum. It was entirely wild and completely forgiving.
+
+Wyatt stood beside her, looking down at his own bare feet planted firmly in the dirt. He had spent his entire life working on floating ocean rigs and subterranean bunkers. The sensation of solid, living ground beneath his heels was staggering.
+
+Before they could venture further into the tree line, a sudden, deep mechanical whirring echoed from the plateau behind them.
+
+Wyatt instantly turned, his protective instincts flaring as he looked back at the massive, rusted hull of *The Nomad*.
+
+Along the top spine of the dreadnought, heavy armored plating was smoothly sliding back. Massive, articulated arms began to rise from the hull, unfolding outward like the metallic wings of a giant bird. Hundreds of square meters of pristine, highly advanced photovoltaic panels spread wide, angling themselves perfectly to catch the golden light of the foreign sun.
+
+Wyatt unclipped his PDA, pressing the comms button. "Aria? Status report."
+
+*"Everything is operating optimally, Wyatt,"* Aria’s voice chimed cheerfully from the small speaker in his hand. *"Internal sensors indicated that our secondary battery reserves were depleted following the atmospheric entry burn. I have deployed the ship's solar array to begin the recharge cycle."*
+
+Wyatt blinked, staring at the massive panels gleaming in the sunlight. "Solar? I thought the ship ran entirely on the fission reactor."
+
+*"The Nomad utilizes a dual-redundancy power system,"* Aria explained smoothly. *"The ship can run indefinitely on either the fission core or the solar array for standard life support, environmental controls, and internal systems. They can operate independently or in tandem. However, please note that the fission reactor is strictly required to power the FTL drive, the deflector shields, and the heavy atmospheric thrusters."*
+
+"He really thought of everything," Wyatt murmured, shaking his head in sheer admiration for the paranoid billionaire's engineering. They wouldn't even have to burn their nuclear fuel to keep the lights on and the hydroponics running. The sun would do it for them.
+
+"Good work, Aria. Keep the batteries topped off," Wyatt said, clipping the PDA back to his belt.
+
+He turned back to Sarah, offering his hand. They continued their walk down into the valley, the towering, emerald-green trees parting naturally to reveal the riverbank.
+
+The water was crystal clear, flowing gently over smooth, polished stones. It wasn't raging or dangerous; it was a peaceful, steady current that fed the sprawling forest around it. The air here was noticeably cooler, filled with the sweet mist of the rushing water.
+
+Wyatt looked up the slope, tracing the line from the riverbank back up to the edge of the bedrock plateau where *The Nomad* was parked.
+
+"Right there," Wyatt said, pointing to a natural, elevated clearing nestled just below the rock line but high enough to overlook the water. "That's where we build the house. We'll have the ship right behind us for power and supplies, and the river right at our front door."
+
+"It's perfect," Sarah agreed, stepping up to the edge of the water. She let the gentle current wash over her feet, the cold water feeling incredible against her skin.
+
+She looked out across the virgin wilderness, her expression turning thoughtful and quiet.
+
+"During the jump, we talked about being blank slates," Sarah said, her voice soft over the bubbling of the river. She looked back at him, her eyes reflecting the golden sunlight. "There are no governments here, Wyatt. No Apex Defense Solutions. There's no one to issue us a marriage license. If we... if we decide to have kids someday, there's no hospital to print a birth certificate."
+
+Wyatt walked over to her, stepping into the shallow edge of the river so he was standing right in front of her. He reached out, gently resting his hands on her hips.
+
+"I don't need a piece of paper from a dead government to know that you're my wife, Sarah," Wyatt said, his voice a low, unwavering promise. "As far as I'm concerned, we're already married. And if we have kids, they don't need legal names or corporate serial numbers. We'll just pick out their names together."
+
+Sarah smiled, leaning her hands against his chest. "We can have Aria act as the county clerk. She can record their names and their birthdates in the ship's archives."
+
+As if cued by her name, the PDA on Wyatt's belt chimed.
+
+*"I would be honored to maintain the family registry, Sarah,"* Aria volunteered, her tone perfectly helpful. *"For chronological accuracy, I recommend we continue utilizing Standard Ship's Time. My orbital modeling indicates that Exoplanet 4 orbits its host star in a cycle nearly identical to Earth's 365-day year, and its rotation provides a standard 24-hour day. Furthermore, the local gravity is 1.02 Earth-standard. From a biological and chronological standpoint, the differences are entirely negligible. A rounding error."*
+
+"Ship's Time it is," Wyatt laughed, looking up at the sky.
+
+*"If I may make one further suggestion, Administrators,"* Aria’s voice chimed again, breaking through the gentle rushing of the river.
+
+"Go ahead, Aria," Sarah said, looking down at the PDA clipped to Wyatt's belt.
+
+*"While the duration of the year and the 24-hour rotational cycle are nearly identical to Earth-standard, our current chronological date of November 1st does not align with the local seasonal tilt or the solar apex,"* Aria explained, her processing logic perfectly sound. *"Based on ambient telemetry from the hull sensors, the current surface temperature in this valley is a stable **23.8°C**, and the local flora is in a state of mid-spring bloom. To optimize your agricultural cycles and align your circadian rhythms with the local sunrise, I recommend calibrating the ship's calendar to match the local environment."*
+
+Wyatt raised an eyebrow. "You want to fast-forward the clocks."
+
+*"Precisely,"* Aria confirmed. *"To maintain seasonal continuity and accurately reflect the current climate, I propose advancing the official registry to May 7th, 2045, and syncing the local chronometer to 14:42. It will provide a seamless baseline for your new life."*
+
+Wyatt looked at Sarah.
+
+November 1, 2044. That was the date blinking on their screens. It was the day they had dropped out of the FTL slipstream. It was the day they had listened to a dot-matrix printer aggressively hammer out the final, dying breaths of the planet they used to call home.
+
+Holding onto that date felt like carrying a ghost.
+
+Sarah reached down, her wet fingers lightly brushing the edge of the PDA on Wyatt's belt. She looked up at him, her eyes reflecting the bright, spring sunlight of Exoplanet 4.
+
+"A blank slate," Sarah whispered softly. "We leave it all behind. Even the year."
+
+Wyatt nodded, a profound sense of closure washing over him. He pressed the comms button.
+
+"Do it, Aria. Calibrate the grid."
+
+*"Acknowledged. Executing temporal calibration now."*
+
+Wyatt and Sarah looked down at the battered, heavy-duty screen of the Level 1 PDA. The blocky green text flickered. The old date and the agonizing timeline of the Nevada Test and Training Range vanished completely.
+
+The screen blinked, solidifying into a brand new reality:
+
+- **DATE: May 7, 2045**
+
+- **LOCAL TIME: 14:42**
+
+- **TEMP: 23.8°C**
+
+"May 7th," Sarah smiled, looking around at the lush, vibrant green canopy of the forest and the crystal-clear water rushing over her feet. It finally felt right. "It really is a beautiful spring day."
+
+"It's perfect," Wyatt agreed.
+
+They stood there in the gentle current, the warm **23.8°C** breeze rustling through the trees. They had completely detached themselves from the apocalyptic timeline of their past. They were no longer refugees running from the end of the world in the bitter cold of November.
+
+They were the very first pioneers of a brand new world, stepping into the warm afternoon sun of a brand new year.
+
+"So," Wyatt said, a slow, relaxed grin spreading across his face as he looked toward the elevated ridge overlooking the river. "It's two-forty-five in the afternoon. We have a few hours of daylight left. Do you want to start mapping out where the front porch is going to go?"
+
+"I thought you'd never ask," Sarah laughed, taking his hand as they waded out of the river and walked up the mossy bank, ready to finally start building their future.
+

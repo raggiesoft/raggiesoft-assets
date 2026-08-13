@@ -1,0 +1,100 @@
+# Part 5: Frequency Tuned
+
+## Saturday, May 8, 2004 — 14:15 PM (PST) The Cascade Suites, Room 412
+
+"Extraction commenced," Jessica announced softly.
+
+She draped a massive bath sheet over Freddie’s shoulders while he was still sitting in the draining water. Paige wrapped another around his legs. They patted him dry with gentle, rhythmic motions, treating him like a newborn.
+
+"Up we go," Paige whispered.
+
+They lifted him out of the tub. The air in the bathroom was cooler than the water, but the towels were thick and retained the heat. They didn't bother with clothes. The promise had been made: just blankets.
+
+They shuffled him back into the main room. The heavy curtains were still doing their job; the room was a cave of eternal twilight.
+
+"Target acquired," Jessica said, nodding toward the bed. "Prepare for docking."
+
+They lowered him onto the mattress. The sheets were cool and crisp against his clean, warm skin. He sank into the center, the depression in the mattress welcoming him back.
+
+Jessica climbed in on his right; Paige took the left. They pulled the heavy duvet up to their chins, sealing the three of them in a single, continuous warmth.
+
+Freddie let out a long, shuddering breath. He smelled of verbena soap and clean cotton. The bus smell was gone. The dirt was gone. But the silence in the room was suddenly too loud. It left too much space for his thoughts to echo.
+
+"Input," Freddie murmured, staring up at the dark ceiling. "Need... audio input. Verify world status."
+
+"TV?" Paige asked, her hand resting on his chest.
+
+"No," Freddie said. "Too bright. Just... signals. Radio."
+
+Jessica reached over to the bedside table. She fumbled with the sleek, wood-paneled hotel alarm clock/radio. She clicked the dial to ON and adjusted the volume to a low hum.
+
+The speaker crackled to life.
+
+*"...at Bob’s Discount Furniture on 4th! We’re slashing prices on all sectionals! If you need a recliner, we’ve got ‘em! If you need a dinette set, come on down! Don't let your living room live in the past..."*
+
+The mundane, aggressive cheerfulness of the commercial was grounding. It was proof that somewhere, people were buying sofas. Somewhere, life was normal.
+
+Then, the static hissed as the station signal adjusted. A smooth DJ voice broke in.
+
+*"That was a word from our sponsors. Now, we’re getting back to our Saturday block. We’re keeping it retro this afternoon. Here’s a deep cut for anyone out there weathering a storm. This is Mirage."*
+
+The synth pads swelled—warm, expansive, and distinctly 1980s. A clean, melodic electric guitar riff cut through the air, crying out with a gentle, melancholy hope.
+
+Freddie closed his eyes.
+
+The female vocal came in, clear and reassuring, an alto voice that sounded like a promise kept.
+
+*"The storm is over now, the static's gone* *Right here is where you've been all along* *Your voice was lost, your world was gray* *We're here to chase the dark away..."*
+
+Freddie felt Paige’s thumb stroking the back of his hand. The rhythm matched the beat of the song—a steady, mid-tempo pulse.
+
+*"You walked through fire, you walked through rain* *But you will never walk alone again"*
+
+The lyrics bypassed his ears and went straight to his chest. He *had* walked through fire. He had walked through the rain of the terminal, the fire of the shame in the closet.
+
+The chorus swelled, filling the small hotel room.
+
+*"We are your sanctuary in the storm* *A fire here to keep you safe and warm* *Inside this circle, held so tight* *We'll be your true and gentle light..."*
+
+Jessica shifted, pulling the duvet tighter around his shoulders. "Inside the circle," she whispered, echoing the song. "That's us. The perimeter is sealed."
+
+*"So let the painted smile fall down* *You're standing on your native ground* *You're home... you're finally home"*
+
+A tear leaked out of the corner of Freddie’s eye, sliding hot into his hairline. *The painted smile.* The mask he had worn for the Dean. The mask he had worn for Vanessa. The desperate, grinning attempt to be a "good student" while he was dying inside. It crumbled.
+
+*"The mask you wore is on the floor* *You don't need it anymore* *The silence has no power here* *We'll banish every single fear..."*
+
+The song continued, the singer’s voice gaining power, urging him to let go.
+
+*"Just let it go, the heavy load* *At the ending of this lonely road* *Just lean on us, we'll hold the line..."*
+
+And then, the line that broke him.
+
+*"Your broken heart will mend with time"*
+
+Freddie made a sound—half-sob, half-gasp.
+
+His heart *was* broken. It wasn't just the fear or the exhaustion. It was the heartbreak of having his autonomy stolen, of being treated like an object, of being discarded in a bus terminal. It felt shattered.
+
+But the song didn't say it was fixed. It said it *would* mend. With time.
+
+"Did you hear that?" Paige whispered, her face pressing into his shoulder. "It’ll mend, Freddie. We have time. We have all the time."
+
+The guitar solo soared, a high, crying melody that sounded like relief. It sounded like the feeling of the hot water hitting his back. It sounded like Jessica’s arm across his chest.
+
+*"You're home... you're finally home* *We are your sanctuary... you're not alone."*
+
+The song faded out into a gentle reverb.
+
+The room was silent again, but the silence wasn't empty anymore. It was filled with the resonance of the music.
+
+Freddie lay perfectly still, sandwiched between the two people who shared his DNA, his history, and his soul. The radio hummed with low static.
+
+"Data received," Freddie whispered, his voice thick. "Message... acknowledged."
+
+"Status?" Jessica asked, her voice fierce and protective in the dark.
+
+Freddie took a breath. It didn't shudder this time.
+
+"Safe," Freddie said. "I am safe."
+

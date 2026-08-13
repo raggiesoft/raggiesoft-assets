@@ -1,0 +1,10 @@
+# Part 1: The Tutor (Late August - Early September 2003)
+
+The first few weeks of the fall semester were defined by two competing forces in Leo’s life: the deep, aching void left by Olivia’s departure, and the small, fragile glimmer of hope offered by Delores.
+
+True to her word, Delores became his algebra tutor. They met in the college library after his classes, and she was brilliant. She was patient, she was kind, and she had a gift for explaining complex equations in a way that finally made sense to him. For the first time, Leo felt a flicker of academic confidence in a subject he had always feared.
+
+Their study sessions quickly bled into more. Delores was a masterful conversationalist, and she began her "love bombing" campaign with a surgeon's precision. When he mentioned his love for the band Origin, she would feign a deep, lifelong passion, having gone home and done just enough hurried, dial-up research to memorize the names of their most popular 80s hits. She would listen, enraptured, as he typed out stories about his childhood, making him feel seen and understood in a way he desperately craved.
+
+The daily phone calls with Olivia were his lifeline, but they were also a painful reminder of the distance between them. Delores, in contrast, was *here*. She was a tangible presence, a warm body in the seat next to him, and he began to cling to that.
+

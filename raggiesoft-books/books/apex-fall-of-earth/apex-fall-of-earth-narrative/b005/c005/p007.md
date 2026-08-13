@@ -1,0 +1,82 @@
+# Part 7: The Six Moons – Saturday, May 11, 2045 – 10:45
+
+The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal fire pit, Wyatt and Sarah sat completely bare, comfortably entwined on the plush sectional sofa.
+
+Sarah looked at the massive, sprawling orbital map. Now that the star and their home world were named, the sheer scale of the billionaire's chosen sanctuary was glaringly obvious.
+
+"Aria," Sarah said, tracing a finger through the air toward the outer rings of the hologram. "How many planets are actually in this system?"
+
+"The Helios System is exceptionally large, Sarah," Aria replied, the holographic display zooming out to encompass the entire gravitational footprint of the star. "There are twenty-one distinct planetary bodies orbiting the primary star. Planet Eden sits perfectly within the habitable zone at position four. The remaining twenty bodies comprise three inner rocky planets, seven massive gas giants, and ten outer ice-dwarfs in the system's distant perimeter."
+
+"Twenty-one planets," Wyatt let out a low whistle, his arm resting securely around Sarah's bare waist. "The Apex orbital cartographers would have spent decades cataloging a system this big. We need to fill in the blanks."
+
+"We can't just leave them as numbers," Sarah agreed. She leaned her head back against Wyatt's shoulder, looking at the golden star burning in the center of the projection. Her mind traced the academic archives she had loved as a child.
+
+"If the star is Helios," Sarah mused, "we should stick to the Earth archives. The old mythology. It honors where we came from, but leaves the corporate history behind."
+
+"I was a deep-sea welder and a S.H.O.P. Marine," Wyatt chuckled, his chest rumbling against her back. "My knowledge of ancient Earth mythology is a little rusty. What goes with Helios?"
+
+"The Titans," Sarah smiled, looking up at the ceiling array. "Aria, can you pull the names of the mythological figures associated with Helios and the ancient pantheon, and map them to the remaining twenty planets based on their orbital characteristics?"
+
+"Synthesizing archival mythology with planetary telemetry," Aria confirmed smoothly.
+
+Instantly, neat, blocky text appeared next to every single orbit in the glowing blue hologram.
+
+"Planet 1, scorching close to the star, is designated Icarus," Aria announced, guiding them through their new solar system. "Planet 2 is Eos (Dawn), and Planet 3 is Selene (Moon). Planet 4 remains Eden."
+
+The map zoomed outward to the massive gas giants. "Planets 5 through 11 are designated as the primary Titans: Atlas, Oceanus, Hyperion, Themis, Cronus, Rhea, and Prometheus." Finally, the map expanded to the freezing, dark outer rim. "The ten outer ice-dwarfs are designated Epimetheus, Leto, Mnemosyne, Tethys, Phoebe, Coeus, Crius, Asteria, Erebus, and finally, the furthest planet in the absolute dark, Nyx."
+
+Wyatt looked at the fully labeled, sweeping galactic map. It looked like a real, established star system. It wasn't just a string of clinical corporate barcodes anymore; it was a map with history and character.
+
+"That's incredible," Wyatt murmured, thoroughly impressed. He tapped the edge of the glass table, zooming the projection rapidly back in until the blue-and-green marble of Planet Eden filled the space between them.
+
+Orbiting their beautiful, vibrant home world were six distinct, small spheres of gray and white rock.
+
+"Okay, the rest of the system belongs to the myths," Wyatt said, his voice dropping to a softer, deeply personal register. He looked down at Sarah. "But these six moons belong to Eden. They orbit our home. They shouldn't be named after old gods. They should be ours."
+
+Sarah’s eyes shone in the blue light of the hologram. She turned her body completely toward him, tucking her bare leg over his. She absolutely loved the idea.
+
+"Okay," Sarah whispered, a radiant smile on her face. "You pick the first one."
+
+Wyatt looked at the largest of the six moons, a heavy, cratered sphere providing a massive gravitational counterbalance to the planet's oceans. He didn't have to think very hard about what had kept him grounded through the nightmare of the NTTR.
+
+"Anchor," Wyatt said, looking directly into Sarah's eyes. "Because you're mine. And because this is where we finally stopped drifting."
+
+"Moon 1 designated: Anchor," Aria logged quietly.
+
+Sarah’s heart fluttered. She looked at the second moon, a smooth, pale orb circling closely to Anchor.
+
+"Nomad," Sarah chose, her hand coming up to rest flat against his scarred chest. "To honor the ship that brought us here. We aren't wandering anymore, but we can't ever forget how we survived."
+
+"Moon 2 designated: Nomad."
+
+Wyatt nodded, looking at the third moon. "When we were walking the perimeter in Sector 4, I told you I'd protect you. I want something that represents the shielding of this estate. Let's name the third one Aegis."
+
+"Moon 3 designated: Aegis."
+
+"The fourth one is for the vault," Sarah said, her protective, maternal instincts flaring as she thought of the fifty thousand lives sleeping in the bedrock beneath them. "For the future we're going to build. Genesis."
+
+"Moon 4 designated: Genesis."
+
+"The fifth is Haven," Wyatt added without hesitation, pulling her flush against him. "Because that's exactly what this mountain is."
+
+"Moon 5 designated: Haven."
+
+They were down to the final, smallest moon on the outermost orbital ring. It was a tiny, fast-moving satellite that caught the light of Helios brilliantly.
+
+Sarah looked at it, completely overwhelmed by the absolute perfection of the life they were charting out. She traced her thumb over Wyatt's collarbone, entirely at peace in her own skin, in her own home.
+
+"Aurora," Sarah whispered into the quiet room. "For the new dawn."
+
+"Moon 6 designated: Aurora," Aria finalized. "The cartography of the Helios System is one hundred percent complete and permanently logged into the primary archives."
+
+Wyatt and Sarah sat in the center of their living room, completely bare, looking at the glowing map of their universe.
+
+Helios. Planet Eden. Anchor, Nomad, Aegis, Genesis, Haven, and Aurora.
+
+They had literally drawn the map for the future of humanity. When their children were born, and when the Genesis cohort finally woke up, they would look up into the night sky and see the story of how Wyatt and Sarah Colton had saved them all.
+
+Wyatt kissed her, a deep, slow, and profoundly loving seal on their new reality.
+
+"We did it," Wyatt murmured against her lips. "We really made it."
+

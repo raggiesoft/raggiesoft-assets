@@ -1,0 +1,52 @@
+# Part 2: Raising the Canvas – Friday, June 26, 2071 – 13:00 (Local Eden Time)
+
+The eastern lake was a massive, pristine body of freshwater that mirrored the brilliant blue sky and the towering, emerald-green peaks of the alien pines.
+
+The two silver runabouts sat parked on a flat, rocky outcrop a hundred yards from the shoreline. The air was fresh, carrying the rich scent of damp earth and pine sap. It was a perfect, comfortable 23°C.
+
+Leo sat in his Off-Road powerchair right at the edge of the tree line, watching the construction of their temporary civilization. The ambient sounds of the forest—the rhythmic lapping of the water, the rustle of the wind in the canopy, and the distant calls of the local fauna—filtered through his acoustic earplugs as a gentle, harmonious symphony.
+
+Fifty feet away, the heavy machinery of the Colton family was operating at maximum capacity.
+
+Tyler and Evan were a blur of synchronized, heavily muscled motion. They slammed the heavy, molecularly printed durasteel stakes deep into the dirt, securing the massive, reinforced carbon-fiber poles that formed the skeleton of the expedition tent.
+
+"Pull the main line taut, Evan!" Tyler grunted, hoisting the center ridge-pole upward.
+
+"Line is secured! Lock the tensioners!" Evan called back, tying off the heavy nylon paracord to a nearby boulder.
+
+With a heavy, snapping thud, the sprawling, weather-resistant canvas shell was hauled over the frame. It billowed in the wind for a fraction of a second before the twins locked it down, instantly creating a massive, multi-room structure in the middle of the wilderness.
+
+Leo’s dark eyes tracked the geometry of the tent. It perfectly matched the CAD file.
+
+Inside the structure, Ellie and Nora were already executing the internal logistics. They deployed the modular privacy walls, zipping the heavy canvas partitions securely into place to separate the sleeping sectors.
+
+Jack and Claire were setting up the communal field kitchen under the extended front awning of the tent, organizing the portable solar-stoves and the vacuum-sealed rations, while Molly and Willow were tasked with organizing the sleeping gear.
+
+"Alright, Willow, this is your sector," Molly’s polite, analytical voice drifted over from Partition One. "Your sleeping pad is inflated. You have absolute privacy in here. If you need to change your clothes, or if you just want some quiet time to read, you just zip the partition door shut. No one comes in without knocking."
+
+"Thanks, Molly," Willow smiled, tossing her personal duffel onto her bed. She zipped the canvas door shut, testing the privacy of her space before unzipping it again and bounding back out to the main living area. "Right, where are the fishing rods?"
+
+Leo watched from his chair, a deep, resonant purr of satisfaction vibrating in his chest. The rules were established. The environment was tamed.
+
+Nora walked out of the massive tent, her crutches sinking slightly into the soft pine needles. She navigated the uneven terrain carefully until she reached Leo's side. She leaned against his wheel, wrapping her arm securely around his shoulder.
+
+"The Mega-Bed is inflated in our sector," Nora breathed softly, pressing a kiss to his temple. She tapped her AAC. *"It takes up the entire floor of Partition Three. We have the heavy blankets and your compression vest perfectly laid out. It feels just like our room back home."*
+
+Leo reached down and typed on his MagnaPad.
+
+"The tactical deployment is highly efficient," Leo announced. "The sensory parameters of the wilderness are well within acceptable tolerances. I am experiencing zero dysregulation."
+
+"That's what we like to hear, Overseer," Jack smiled, walking over from the field kitchen and wiping his hands on a towel. He looked out at the sprawling, glittering expanse of the lake. "We have seven days of absolute, uninterrupted peace. No S.H.O.P. Foremen, no Earth Remnant politics, and no corporate armadas."
+
+Ellie stepped out of the tent, her hands resting on her tactical belt. She looked at the perfectly pitched canvas fortress, the accessible restroom module parked exactly twenty meters away, and the perimeter of alien pines surrounding them.
+
+"Base camp is fully operational," the Commander declared, turning to look at her unit. "The afternoon is cleared for recreational deployment. Dismissed."
+
+Tyler and Evan immediately let out a loud, triumphant whoop, shedding their heavy canvas work shirts and sprinting directly for the lake, launching themselves into the freezing, crystal-clear water with a massive, synchronized splash.
+
+Jack laughed, grabbing a skipping stone from the dirt and tossing it to Willow. "Come on, sparrow. Let's see if you can beat my record."
+
+Leo sat in his chair, anchored by the heavy, loving weight of Nora against his right side, and the solid, unyielding presence of Ellie stepping up to take her post on his left. He felt the cool breeze on his face and listened to the muffled, joyful shouts of his family echoing across the water.
+
+The universe was mathematically perfect. The wilderness was officially secured.
+

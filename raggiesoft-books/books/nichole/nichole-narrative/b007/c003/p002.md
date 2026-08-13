@@ -1,0 +1,76 @@
+# Part 2: The River and the System
+
+## Date: April 18, 2004 Time: 10:45 AM Location: The Braxton Riverwalk (North End)
+
+They decided to skip the pharmacy. They had plenty of supplies from the move, and frankly, looking at pill bottles felt too much like work.
+
+"Let's test the terrain," Patrick suggested, steering them away from the commercial district and toward the river.
+
+They rolled down to the Braxton Riverwalk, a pedestrian path that hugged the edge of the Braxton River as it widened into the bay.
+
+This was the ultimate accessibility test.
+
+"Cobblestones," Patrick muttered, looking at a section of "historic" pavement near the old textile mills. "The enemy of the spine."
+
+But the city had recently renovated the path. Beside the charming-but-bumpy cobblestones was a wide, smooth strip of poured concrete, specifically designed for bikes and wheelchairs.
+
+Nichole rolled onto the smooth concrete. She picked up speed. The Titan AeroMotion hummed quietly, its suspension absorbing the tiny cracks in the pavement.
+
+She looked out at the water. The river was busy with tugboats and the occasional BTA ferry cutting through the chop.
+
+This wasn't just a path; it was their backyard. They could come here to study. They could come here to escape the apartment.
+
+"Accessible fishing pier," Patrick noted, pointing to a lowered railing section on a wooden dock. "We could actually bring rods down here."
+
+Nichole looked at the water, then back at the city skyline rising behind them. The Foundry Lofts were visible in the distance, a brick fortress standing watch over their new kingdom.
+
+She took a deep breath of the salty, river air. It smelled like freedom. And diesel. And...
+
+She sniffed again.
+
+"SMELL. THAT?"
+
+Patrick sniffed. "Onions. Meat sauce. Celery salt."
+
+He checked his mental map. "We're two blocks away."
+
+## Time: 11:30 AM Location: Buddy's Famous System, 4th Street
+
+They rolled up to Buddy's Famous System. It was a tiny, narrow storefront with a steamed-up window and a neon sign buzzing in the daylight: HOT WIENERS - COFFEE MILK.
+
+It wasn't accessible by modern standards—there was a two-inch lip at the door.
+
+Patrick didn't hesitate. He did a "wheelie-pop," tilting Nichole back just enough to get her front casters over the threshold, then shoved the rear wheels up and over.
+
+"Dynamic entry," Patrick grinned.
+
+Inside, the place was loud, tiled, and smelled like heaven. A line of men in paper hats stood behind the counter, lining up buns on their bare left arms—the famous "up the arm" technique.
+
+They found a small booth in the back. Patrick transferred Nichole to the inside of the booth (the bench was firm and stable) and collapsed her wheelchair, parking it against the wall.
+
+A waitress with a thick Rhode Island accent came over, popping her gum. "What can I getcha, hun?"
+
+Patrick looked at Nichole. They had rehearsed this order.
+
+"Six wieners, all the way," Patrick said confidently. "Two large fries. And two coffee milks."
+
+"All the way" meant the works: a steamed bun, the wiener (never call it a hot dog), yellow mustard, chopped onions, celery salt, and the signature meat sauce.
+
+Ten minutes later, the feast arrived on heavy ceramic plates.
+
+Nichole picked up her wiener. It was messy. It was greasy. It was glorious.
+
+She took a bite. The snap of the casing, the spice of the meat sauce, the crunch of the onions.
+
+She washed it down with a long sip of coffee milk—sweet, creamy, and distinctively Rhode Island.
+
+She looked at Patrick, who was already on his second wiener.
+
+They weren't just students. They weren't just patients. They were locals.
+
+She tapped the table with her free hand, getting his attention. She swallowed and grinned.
+
+"WE. LIVE. HERE. NOW."
+
+"Yeah, Nikki," Patrick smiled, wiping mustard off his lip. "We really do."
+

@@ -1,0 +1,78 @@
+# Part 3: The Gateway Protocol
+
+## Thursday, May 13, 2004 — 09:45 AM (PST) SeaTac Airport, Main Terminal (Departures)
+
+The hotel shuttle hissed to a halt at the curb marked **GATEWAY AIRLINES**.
+
+The sliding door opened, and the noise of the airport invaded the van. Whistles, shouting police officers, idling buses, and the roar of jets overhead.
+
+"Armor up," Freddie whispered.
+
+He pulled his hood up. He slid his black sunglasses onto his face. He reached into his pocket and jammed the foam earplugs deep into his canals. The world muffled instantly, turning from a scream into a dull roar.
+
+"Let's move," Jessica said, grabbing his duffel bag.
+
+They stepped out onto the sidewalk. The air smelled of jet fuel and exhaust.
+
+Inside the terminal, the chaos was visual. Lines of people snaked around velvet ropes. Screens flashed red and yellow updates.
+
+They approached the counter for **Gateway Airlines**. The signage was bright blue and gold.
+
+"I need the Chariot," Freddie said, gripping the strap of his backpack until his knuckles turned white. Standing in this line was impossible. The floor felt like it was vibrating.
+
+"I'm on it," Jessica said.
+
+She walked up to the counter, bypassing the main queue by heading to the "Special Assistance" desk. The agent, a woman with kind eyes and a Gateway scarf, looked up.
+
+"Checking in?" she asked.
+
+"Three for Roanoke (ROA), connecting through Chicago (ORD)," Jessica said, handing over their IDs. "And we need a wheelchair request for my brother. He has Cerebral Palsy and is autistic. The standing and the noise are... not an option today."
+
+"Not a problem at all," the agent typed quickly. "I'll tag him for 'WCHR'—that means he can walk to the seat, but needs distance assistance."
+
+She looked at Freddie, who was standing slightly behind Paige, his hood pulled low, wearing sunglasses indoors.
+
+"Is he okay?" the agent asked gently.
+
+"He's shielding," Jessica explained clearly, making sure the security officer standing nearby could hear. "The hoodie and glasses cut the sensory input. He's not trying to hide; he's trying to cope."
+
+"Understood," the agent smiled. "I'm printing your boarding passes now. You are marked 'Pre-Board.' That means you go down the jetway first. You can take any seat you want."
+
+Freddie let out a breath he didn't know he was holding. Gateway’s "Open Seating" policy was usually a source of anxiety for travelers, but for the Unit, it was a tactical advantage.
+
+"The Sandwich is confirmed," Freddie whispered to Paige.
+
+"What's the formation?" Paige asked, leaning in.
+
+"Middle," Freddie stated firmly. "I want the middle seat. You on the window. Jessica on the aisle."
+
+"You want the middle?" Paige clarified. "Usually people hate the middle."
+
+"I need containment," Freddie explained, pressing his hands to his sides. "I need pressure from both sides. I want to be held."
+
+"We can do that," Jessica promised, taking the boarding passes. "We'll lock you in."
+
+A young man in a Gateway uniform arrived pushing a standard airport wheelchair—blue vinyl seat, heavy chrome frame.
+
+"Ride for Avery?" the attendant asked.
+
+"That's him," Jessica pointed.
+
+Freddie sat down. The relief was instantaneous. His legs stopped trembling. He wasn't supporting his own weight anymore; the machine was doing it for him.
+
+"I can push him," Jessica offered, reaching for the handles.
+
+"Insurance says I gotta take him through the checkpoint," the attendant smiled. "But you ladies can be his wingmen."
+
+"We're his sisters," Paige corrected, stepping to the side of the chair. "And we stick close."
+
+"Let's roll," Freddie commanded from the chair.
+
+He gripped the armrests. He thought about the connection in Chicago—**O'Hare (ORD)**. He had read the forums. It was the busiest airport in the world. It was a city of glass and steel, filled with millions of people running.
+
+But he had the Chariot. He had the Pre-Board status. And in a few hours, he would be sandwiched between Jessica and Paige, pressurized and safe, cruising at 30,000 feet.
+
+"Next stop, Chicago," Jessica said, patting his shoulder.
+
+The convoy moved forward toward the security checkpoint, a small island of order in the sea of travelers.
+

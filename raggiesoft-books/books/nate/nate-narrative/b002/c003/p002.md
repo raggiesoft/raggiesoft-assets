@@ -1,0 +1,54 @@
+# Part 2: The Food Court Command Center (1:15 PM)
+
+The glass elevator chimed, the doors parting to release Nate, Megan, Brittany, and their escorts onto the second-floor landing. A moment later, the walking phalanx stepped off the top of the metal escalators, seamlessly merging back around the three wheelchairs.
+
+The upstairs food court of Chesapeake Bay Mall was a massive, echoing cathedral of skylights, neon signs, and the overlapping smells of bourbon chicken, baking pizza, and frying oil. It was loud, crowded, and perfectly chaotic.
+
+"Alright," Aunt Clara announced, taking point alongside Evelyn. "We need tables. A lot of them."
+
+They moved as a unit toward the center of the food court. Dead ahead was the mall's main seating pavilion—an aesthetic, square area nestled under a structure adorned with decorative awnings that proudly read 'FOOD COURT' on all four sides. It was the most visually appealing spot to sit, bordered by faux palm trees and brass railings.
+
+Sarah, pushing Nate’s chair at the front of the pack, slowed her pace, her eyes scanning the floor pattern.
+
+"Nope. Wave off," Sarah called out over the din of the crowd, pointing down. "We've got steps."
+
+Nate leaned forward slightly. Sure enough, the central pavilion was a sunken seating area. There were three distinct, tiled steps leading down to the tables, and absolutely no ramp in sight.
+
+For a split second, Nate’s chest tightened out of sheer, conditioned habit. When he was with Valerie, architectural barriers like this were a nightmare. If she wanted to sit in the sunken area and he couldn't get his wheelchair down the stairs, she would audibly sigh, roll her eyes, and loudly complain about how his "limitations" always ruined her plans, making a huge scene until he felt thoroughly humiliated.
+
+But he wasn't with Valerie anymore.
+
+"Classic," Megan scoffed from her transport chair, shaking her head at the steps. "Who designed this place?"
+
+"Someone who never had to push a set of wheels," David agreed effortlessly. He didn't break stride, simply pivoting Brittany's chair to the right. "Outer perimeter it is. Francis, grab the flank."
+
+"On it," Francis said, effortlessly steering Megan's chair to follow David's lead.
+
+There was no sighing. There was no eye-rolling. There was zero guilt trip. The entire family—all sixteen of them—fluidly adjusted their trajectory without a single complaint, bypassing the inaccessible pavilion and heading for the vast sea of open, flat-level seating that wrapped around the outer edges of the food court.
+
+"Over there," Jessica pointed. "By the windows. Grab those four empty tables before that group of teenagers gets them!"
+
+James, balancing Noah on his hip, jogged ahead with Ashley and Lauren to secure the territory. Within minutes, the family had pushed four square tables together into a massive, makeshift banquet arrangement.
+
+Francis and David expertly angled Megan and Brittany’s chairs into the mix, while Sarah locked the brakes on Nate's manual chair right at the head of the table. The barrier of the sunken floor had been rendered completely irrelevant by the sheer, unbothered efficiency of the garrison.
+
+"Okay, deployment time," Evelyn directed, pulling out her wallet. "Who wants what? We are doing a divide-and-conquer strategy for the food lines."
+
+"Bourbon chicken for me," Brittany requested, leaning her arms on the table.
+
+"Pizza," Megan voted.
+
+"I'll take a burger," Nate smiled, looking around the massive table of his aunts, cousins, and sister.
+
+"And for the hero of the hour," Jessica said, settling two-year-old Emma onto her lap. "One giant pretzel."
+
+"With cheese," Emma babbled definitively, kicking her light-up sneakers against the table leg.
+
+"With extra cheese," Francis agreed, kissing the top of his daughter's head. "I'll go get it right now. She earned it. I still can't believe she told that woman off."
+
+"She said what we were all thinking," Aunt Julia laughed, shaking her head. "I was half a second away from hitting that girl with my purse, but Emma beat me to it."
+
+Nate rested his hands on his lap, letting the loud, overlapping conversations of his family wash over him. The food court was easily the most overstimulating environment in the city today, but surrounded by the people who loved him, protected him, and effortlessly accommodated him, he had never felt more grounded.
+
+He looked across the table at Brittany and Megan. The triplets shared a silent, knowing look amidst the chaos. They had survived the worst, and now, they were exactly where they were always meant to be.
+

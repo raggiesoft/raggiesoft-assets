@@ -1,0 +1,44 @@
+# Part 3: A Grateful Introduction
+
+The voter registration and college application assembly concluded, and the auditorium slowly began to empty. Third period was nearly over. For many seniors, including Luna, Leo, and Olivia Walker, this meant their lunch period was next, fourth period, but the cafeteria wouldn't open for another few minutes. Students milled about in the main school lobby outside the auditorium, waiting for the bell.
+
+Leo felt drained. The earlier confrontation with Josh Riley, the tension of the assembly with Josh’s group behind them, and the subsequent relief when Ms. Davison had removed them, had left him feeling frayed. Luna, ever attuned to him, noticed his weariness.
+
+"Clinic first for meds, then home?" Luna suggested quietly, already sensing his answer. The thought of navigating the noisy, crowded cafeteria today felt like too much for both of them, especially Leo.
+
+Leo gave a grateful nod, his eyes conveying everything Luna already knew. That was all the confirmation she needed; their twin shorthand transcended the need for his Quantum Communicator XT in moments like this. Stella had ensured their IEPs for senior year included the same accommodation they'd had in sophomore year: if Luna was available to drive (which she was, as a licensed senior), they could sign out after their morning medication stop at the clinic and go home to decompress, especially on days when the school environment felt particularly overwhelming. Today definitely qualified.
+
+They made their way to the school clinic, a small, quiet oasis accessible through a door directly off the main lobby. The nurse, Mrs. Henderson, greeted them with her usual calm efficiency. After they took their scheduled lunchtime medications, Luna signed them both into the clinic log.
+
+With that done, they began heading towards the main office, also accessed from the lobby, to officially sign out for the day. As they approached the office entrance, a girl stepped forward from where she seemed to have been waiting near a display case in the lobby.
+
+"Excuse me?" she said, her voice clear and friendly. Luna and Leo paused. They both recognized her instantly – it was the girl from the auditorium, the one Luna had seen alert Ms. Davison. And Leo now realized, with a start, that her voice was the same sharp, indignant one they’d overheard defending them against Josh after the elevator incident (which had also let out into this lobby area). Their unseen ally.
+
+She had kind, intelligent eyes and a gentle smile. "I'm Olivia Walker," she introduced herself, looking primarily at Leo, then including Luna with her smile. "I was in the assembly with you both. I… I just wanted to say I’m really sorry about how that guy, Josh Riley, was acting. It was completely out of line."
+
+Leo felt a warmth spread through him at her directness and sincerity. Luna nodded, her own appreciation evident. "Thanks, Olivia," Luna said. "I'm Luna Porter, and this is my twin brother, Leo."
+
+Leo offered a wave and a smile, then typed on his Quantum Communicator XT: HELLO OLIVIA. THANK YOU. JOSH IS OFTEN A JERK.
+
+Olivia chuckled softly, a pleasant sound. "Understatement of the year. I actually overheard him being a complete Neanderthal to you guys by the elevator before the assembly too. I was on the first floor and heard him going off. My classroom is right near there." She shook her head. "I was glad Ms. Davison took him and his charming friends out of the assembly. No one should have to put up with that."
+
+"Yeah, well, Ms. Davison is pretty great," Luna said, then added, "And thank you for, you know… pointing it out to her. We saw you. That was really cool of you."
+
+Olivia blushed slightly. "Oh, it was nothing. I just… I hate bullies. And it was obvious he was making Leo really uncomfortable." She looked at Leo with genuine empathy. "Are you okay?"
+
+Leo met her gaze. There was no pity in her eyes, just sincere concern. BETTER NOW, he typed. YOUR HELP… AND LUNA’S… AND MS. DAVISON… MADE IT BETTER. THANK YOU AGAIN.
+
+"You're very welcome, Leo," Olivia said softly. She paused for just a beat, and for a fleeting moment, a hint of something – perhaps slight surprise at her own impending action, or a touch of natural reserve – seemed to cross her features. Then, before Leo or Luna could quite process that subtle shift, Olivia’s expression settled into one of clear, kind intent. As if moved by an undeniable impulse, she reached out and offered Leo a gentle, almost tentative hug, right there in the lobby. It wasn't a big, encompassing squeeze, but a light, respectful, and incredibly warm gesture of peer-to-peer comfort and solidarity.
+
+Leo, surprised by the unexpected warmth from someone they'd only just officially met, but also deeply touched by the genuine kindness that had already twice defended him that day, returned the gentle hug without hesitation. It felt… nice. Simple. Sincere. Different from his sisters' familiar, fiercely protective hugs, but good in its own quiet way. Luna, watching, registered Olivia’s brief, almost questioning hesitation before the hug, making the subsequent gesture of comfort feel even more genuine and thoughtfully given, rather than automatic or impulsive.
+
+As Olivia stepped back, her smile was warm. "Well, I should probably head to the cafeteria. Glad you're doing better, Leo. And it was really nice to officially meet you both, Luna, Leo."
+
+"You too, Olivia," Luna said. Leo waved.
+
+With a final smile, Olivia headed off towards the noisy throng gathering outside the cafeteria.
+
+Luna turned to Leo. "Okay, decompression time for real now." She took the handles of his chair. "So, Olivia Walker, huh? She seems… pretty awesome, actually."
+
+Leo nodded, a thoughtful, almost peaceful expression settling on his face. YES. AWESOME, he typed as they made their way to the office to sign out. The encounter with Josh had been awful, but the unexpected kindness and support from Olivia had started to soothe the raw edges. That gentle, platonic hug, a simple gesture of human connection from a peer who saw him and stood up for him, felt like it might, just might, mean something truly good. He was still looking forward to the quiet of home, but the world inside Northwood High suddenly felt a little less hostile, a little more hopeful, thanks to Olivia Walker.
+

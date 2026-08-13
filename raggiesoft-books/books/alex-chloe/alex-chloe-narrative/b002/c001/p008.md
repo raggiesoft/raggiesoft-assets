@@ -1,0 +1,40 @@
+# Part 8: A Ramp of Welcome (Mid-Summer 1999)
+
+The weeks following the ice cream outing saw Alex and Chloé become virtually inseparable. Their initial hedge-side conversations had quickly evolved. Chloé, with her easygoing nature, had started hopping the low boxwood hedge to join Alex in his yard, or Alex would wheel his chair to the edge of her driveway to chat. The well-worn path in the grass between their two front yards was a testament to their constant comings and goings.
+
+Both sets of parents, James and Emily Miller and Thomas and Sophie Mason, observed this blossoming friendship with quiet delight. They saw how Alex, often reserved, opened up with Chloé, his laughter (both his own and via his AAC) more frequent, his engagement with the world around him more vibrant. They saw how Chloé, new to the neighborhood, had found an instant, genuine connection, her days filled with the easy companionship of her best friend.
+
+It became clear to Thomas and Sophie Mason that Alex was spending nearly as much time at their house as he was at his own, or Chloé was at Alex’s. While their front door had only a single step, the back porch, which led into their sunny kitchen – a frequent hub for cookies and conversation – had three awkward steps. Alex, with his determination, could manage them with great effort and his parents’ help if they were visiting as a family, but it wasn't ideal for the spontaneous, independent back-and-forth that was becoming the hallmark of the teenagers' friendship.
+
+One Saturday morning, a couple of weeks after the ice cream outing, Alex and Chloé were engaged in an intense sidewalk chalk art competition on the Masons' driveway. Thomas Mason sat on his porch steps, ostensibly reading the paper but mostly watching them, a thoughtful expression on his face. He was a practical man, good with his hands, and he saw a problem that needed a straightforward solution.
+
+Later that day, after Chloé had gone home for lunch, Thomas approached James Miller, who was tending his roses.
+
+"James," Thomas began, his Vermont practicality evident, "Sophie and I were talking. It's wonderful seeing Alex and Chloé together so much. They're great kids."
+
+James smiled. "They really are, Thomas. We haven't seen Alex this happy and engaged in… well, ever, I think."
+
+"Exactly," Thomas agreed. "And we want to make sure Alex always feels as welcome and comfortable at our place as Chloé clearly does at yours. That step into the front door, it’s a bit of a pain for him, would you agree?"
+
+James nodded. "He manages, but yes, it’s not ideal for his chair."
+
+"Well," Thomas said, a hint of a plan in his voice, "I was thinking. I’m pretty handy with lumber – built a fair few decks back in Vermont and Québec. I reckon I could put a good, sturdy wheelchair ramp up to our front stoop without too much trouble. Make it easy for Alex to come and go as he pleases, just like Chloé does between our houses."
+
+James Miller was genuinely touched by the offer. "Thomas, that's… that’s incredibly thoughtful of you. Are you sure? That’s a fair bit of work."
+
+"Nonsense," Thomas said with a wave of his hand. "Good project. And frankly, James, seeing those two together? Anything that makes their friendship easier is worth doing." He winked. "Besides, I’ve got a daughter who will likely volunteer my labor for any project that benefits Alex."
+
+And so, the following weekend, the sounds of sawing and hammering filled the Masons' front yard. Thomas Mason, with Chloé sometimes acting as an eager if unskilled assistant (mostly fetching tools or holding boards steady), set to work. Alex watched the construction from his own yard with keen interest, a growing sense of anticipation building.
+
+By Sunday afternoon, it was complete: a handsome, well-angled wooden ramp, sturdy and safe, leading smoothly from the Masons' lawn up to their front stoop and the living room door. Thomas had even added railings.
+
+"Alright, Alex!" Thomas called out, wiping sawdust from his brow as Chloé beamed beside him. "Come give it a test run!"
+
+With Emily and James watching proudly from their own yard, Alex wheeled over. He approached the base of the new ramp, his hands gripping his push rims. He started up, the incline gentle, the surface smooth. He reached the porch, turned easily, and then, with a triumphant grin, wheeled right through the open living room door where Sophie Mason was waiting with a plate of freshly baked maple cookies.
+
+IT WORKS! PERFECT! Alex typed on his AAC, his voice filled with genuine delight as he accepted a cookie from Sophie.
+
+Chloé cheered, rushing over to give him a high-five, followed, of course, by one of their now-standard congratulatory hugs. "See, Alex? Now you can escape to our house for Mom’s cookies anytime you want, no problem!"
+
+The new ramp wasn't just a piece of construction; it was a tangible symbol of welcome, of families embracing each other’s children, of practical love in action. It physically erased a barrier, making the Masons' home as accessible and inviting to Alex as his own. The well-worn path in the grass between their houses was now officially a two-way street, open and ready for all the shared adventures the rest of the summer, and the years beyond, would bring.
+

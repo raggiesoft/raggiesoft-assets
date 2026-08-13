@@ -1,0 +1,56 @@
+# Part 8: The Observation Deck – 6:30 PM
+
+"Class dismissed! Line up and bow out!" Master Curtis barked, signaling the end of the hour.
+
+I stood perfectly rigid in the line next to Rachel. Every instinct in my body screamed at me to refuse the bow. I didn't want to show a single ounce of respect to the man who had just intentionally hurt us. Beside me, I could feel Rachel trembling, her tiny shoulders tense with the exact same rebellious urge. But the fear of what he might do to us if we defied him was far heavier than our pride.
+
+We had to bow.
+
+I carefully hinged at my hips. The second my torso angled forward, a hot, tearing sensation ripped straight through the center of my stomach, dropping me to my knees in my mind, though my feet stayed planted. Beside me, Rachel let out a tiny, sharp hiss through her teeth as she bent forward, her left arm clamped rigidly against her side.
+
+Our eyes fixed firmly on the freezing linoleum, and we immediately turned toward the exit.
+
+We pushed through the heavy double doors, desperate for the sanctuary of the second-floor observation deck. Normally, this escape was a frantic, scrambling sprint. Today, the metal staircase looked like an impossible mountain.
+
+Climbing required us to lift our knees, and lifting our knees required us to engage the very muscles Master Curtis had just crushed.
+
+Every single step was an absolute, agonizing chore. I had to grab the cold metal handrail with both hands and pull my upper body weight upward, dragging my heavy legs up one step at a time to keep my stomach from violently seizing. Beside me, Rachel was doing the same, her face completely drained of color. She was taking tiny, shuddering breaths, terrified to expand her lungs as she painstakingly dragged her bare feet up the metal treads beside me.
+
+It felt like it took an eternity, but we finally reached the absolute top row of the wooden bleachers, navigating all the way to our designated sanctuary in the far right corner. My back hit the painted cinderblock, and my right shoulder pressed flush against the side wall.
+
+Normally, this was the part of the routine where Rachel would wedge herself into the space next to my right side. But today, the baseline was completely shattered.
+
+She didn't sit next to me. She climbed directly onto my lap.
+
+It was a clumsy, excruciating maneuver. She whimpered softly as she pulled her legs up, desperately favoring her left side. The second her weight settled across my lap and pressed against my stomach, my abdominal muscles violently spasmed in protest, sending a sickening wave of fire radiating through my gut. I bit the inside of my cheek so hard I thought I tasted blood, forcing my body to stay perfectly rigid so I wouldn't jostle her.
+
+She pulled her knees tightly to her chest, curled into a tiny, trembling ball, and wrapped her arms around my torso. Burying her face completely into the heavy white cotton of my *dobok*, she started to cry.
+
+It wasn't a loud, chaotic meltdown. It was a silent, devastated weeping. I could feel the hot tears soaking straight through my uniform, burning against my chest.
+
+To the rest of the world, and especially to myself, my extra weight was a source of deep, humiliating self-consciousness. But to Rachel, my size was never a flaw. To her, it just meant I was a bigger, softer pillow—a solid, unyielding mass she could completely sink into when the world became too sharp. I was a safe harbor, and right now, she needed every inch of that comfort, even if providing it was causing me agonizing physical pain.
+
+I wrapped both of my arms tightly around her shaking shoulders, pulling her flush against me to provide the deep, heavy pressure she desperately needed.
+
+She wasn't weak for crying. Not in my eyes. Master Curtis could call us whatever he wanted, but he was a grown man who had used his full body weight to crush an eight-year-old girl. Twice.
+
+And as I sat there, fighting my own tears, the sickening realization crystallized in my mind: I knew I hadn't imagined it. That second pass felt fundamentally different than the first. The way his foot had dug into my soft tissue, lingering for that extra, agonizing fraction of a second... it wasn't a slip of his balance or a standard drill. It was a deliberate, malicious compression designed to inflict maximum pain, weaponizing my own body against me. He had done the exact same targeted thing to her.
+
+The physical pain wasn't the only thing that had been crushed on that floor; the brilliant, defiant voice she had found on Tuesday was entirely gone. The situational mutism had slammed back down like a steel vault door. Master Curtis hadn't just stepped on us to punish us—he had done it to silence her.
+
+Down below, the cavernous gymnastics floor was a blur of motion and upbeat music.
+
+Through the wooden railing, I saw Jessica practicing on the spring floor. As she finished a tumbling pass, she looked up toward our corner, exactly like she always did. She spotted us, offering her usual, bright smile and a quick wave to let us know she saw our perimeter.
+
+I managed a weak, robotic wave back. Rachel didn't move.
+
+I desperately wished Jessica and Janette could just drop their chalk, climb the metal stairs, and hold us. We needed our older sister. We needed the pragmatic, fierce protector who knew how to make the adult world back down. But the rigid rules of the facility meant they couldn't leave their class until it officially ended at 7:00 PM. We had thirty agonizing minutes to wait.
+
+As the minutes ticked by, the heavy, dead weight of Rachel pressing down on me began to cut off the circulation in my legs. The familiar, uncomfortable prickle of pins and needles started creeping up my calves, aggravating my spasticity.
+
+But I didn't complain, and I certainly wasn't going to push her off.
+
+I just carefully, gently adjusted her weight, shifting my hips to relieve the worst of the pressure on my nerve endings while keeping my arms locked securely around her ribs. I didn't care about my legs falling asleep, and I didn't care about the tearing throb in my own stomach.
+
+I just held her tightly against my chest, staring blankly out over the gym, entirely focused on being the physical shield my baby sister needed until it was finally time to go home.
+

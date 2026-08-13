@@ -1,0 +1,106 @@
+# Part 4: The Tower of Words
+
+## Location: Batten Arts & Letters (The BAL), 45th St & Hampton Blvd Time: 1:30 PM
+
+"Okay, hydrate!" Megan commanded, uncapping her water bottle. "We are crossing the desert."
+
+The group moved out of the Welcome Center and headed north along Hampton Boulevard. The Virginia heat hit them like a physical blow—humid, heavy, and smelling of hot asphalt.
+
+They rolled past the massive parking garage, heading toward 45th Street. Looming ahead was Batten Arts & Letters—or "BAL" as everyone called it. It was a nine-story brick monolith that looked like a fortress of humanities.
+
+"This is the heart of the College of Arts and Letters," Megan shouted over the traffic noise. "English, History, Foreign Languages, Political Science. If you write papers, you live here."
+
+Instead of going to the main front doors which had heavy foot traffic, Megan led them up a gentle concrete slope to the side entrance of the BAL Addition.
+
+"We’re taking the shortcut to the AC!" she announced.
+
+Patrick pushed Nichole up the grade. It was steep but manageable. He hit the handicap door button with his hip, and the doors swung open, blasting them with frigid, conditioned air.
+
+## The Split Level
+
+They entered a wide, tiled hallway. To their left was a small coffee bar, currently shuttered for the summer, a metal grate pulled down over the espresso machine. Across the hall was a large tiered lecture hall, its doors propped open to reveal rows of empty seats waiting for the fall semester.
+
+"This is the 'Fishbowl' coffee spot," Megan noted. "During the semester, the line wraps around the corner. Caffeine is the primary fuel source for English majors."
+
+She led them further down the hallway. Then, the architecture got tricky.
+
+The hallway ended at a wide set of stairs leading down to the main elevator lobby. It was a "split level" design common in 70s buildings—just six steps down, but six steps was a canyon for a wheelchair.
+
+"Okay, folks, watch your step," Megan said, hopping down the stairs. She pointed to a machine on the right side of the staircase. "And for anyone with wheels, we have the VPL right here."
+
+It was a Vertical Platform Lift—a small, open-air mechanical pod designed solely to bridge the six-step gap.
+
+Patrick looked at it. It wasn't a freight elevator. It was a dedicated piece of access tech.
+
+"Go ahead," Megan smiled. "We'll wait."
+
+Patrick rolled Nichole onto the metal platform. He closed the safety gate. He pressed the "Down" arrow.
+
+Whirrrrrrrrr.
+
+The machine was slow, descending with a loud mechanical hum, but it was smooth. Patrick stood next to her on the platform as they sank below the floor level of the upper hallway and arrived at the main lobby level.
+
+The gate unlocked. They rolled out.
+
+"Functional," Patrick noted. "Beats a ramp."
+
+## The Elevator Squeeze
+
+"Alright," Megan gathered the group in the main lobby. "Now we head to the summit. Creative Writing is on the 8th floor. The elevators here serve floors 1 through 9."
+
+She gestured to the elevator bank. There were three elevators, but the doors looked narrow.
+
+"Warning," Megan laughed. "These elevators are... vintage. They are cozy. We're going to have to split up."
+
+She pressed the 'Up' button. Two of the three elevators dinged at once.
+
+"Okay, first half with me!" Megan ushered the Marine Biology kid and the Psychology girl into the first car.
+
+Patrick looked at the second car. It was small.
+
+"Squeeze in," Patrick told his parents.
+
+He rolled Nichole into the back corner. Tom and Ellen squeezed in beside them. Another family—a mom and her son interested in History—crowded in near the doors.
+
+"Everyone breathe in," Tom joked as the doors rattled shut.
+
+The elevator lurched upward. It was hot, smelling of old motor oil and decades of students. It hummed and vibrated as it passed the floors. 2... 3... 4...
+
+"This is tight," Patrick whispered to Nichole. "But it works."
+
+## The Eighth Floor
+
+Ding.
+
+The doors slid open on the 8th Floor.
+
+The vibe changed instantly. The lobby here was quieter. The walls were lined with bulletin boards layered thick with flyers: Poetry Slam Tonight, Literary Journal Submissions, Playwright Workshop.
+
+Megan was waiting for them as they spilled out of the elevator.
+
+"Welcome to the Writer’s Colony," Megan whispered dramatically.
+
+She walked them down the hall, pointing to a suite of offices with frosted glass doors.
+
+"This is the English Department," she said. "If you are Creative Writing, this is your home base. VDU has a massive MFA program, which means our undergrads get to take workshops with published authors. We have poets, novelists, and screenwriters on faculty."
+
+She pointed to a seminar room with a large window overlooking the campus.
+
+"That's the Workshop Room. In Creative Writing classes, you don't just listen to lectures. You sit in a circle, you read your work aloud, and you critique each other. It’s intense, but it makes you better."
+
+Nichole looked at the room. She pictured herself at the table. Not in the back. At the table. Reading her sci-fi story.
+
+Megan looked right at Nichole.
+
+"The literary journal, The Mace & Crown, has its office down the hall. They take student submissions starting freshman year. Just saying."
+
+Nichole felt a shiver. Submission. Publication.
+
+She looked at Patrick. The VPL was slow. The elevators were tight. But they got her here. They got her to the room where the writers lived.
+
+She tapped her armrest.
+
+MY. FLOOR.
+
+"Yeah," Patrick grinned, looking at the flyer for a Sci-Fi Lit class. "I think we found your lab."
+

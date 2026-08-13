@@ -1,0 +1,46 @@
+# Part 3: The Checkpoint – Friday, October 21, 2044 – ~01:30
+
+Wyatt tossed his empty, stamped-metal tray into the magnetic reclamation bin. Sarah dropped hers right after him, the metallic clatter lost in the low, anxious hum of the Mess Hall.
+
+He led the way out, following the scuffed yellow line painted on the concrete toward Sector 1: Security Processing. Sarah walked much closer to him today. Yesterday, she had kept a polite, nervous distance, unsure of the massive, scarred veteran she was partnered with. Today, after eight hours cramped together in a thirty-inch metal cubby and the promise he had just made at the breakfast table, she stayed right at his shoulder. Her presence was a steady, reassuring weight in his blind spot.
+
+As they navigated the congested corridor, Wyatt caught himself glancing down at her. The harsh fluorescent light caught the pale Nevada dust on her crisp, slate-blue Helios uniform. She was only eighteen, completely out of her depth in this corporate meat grinder, yet she was holding her head up. He felt a sudden, quiet curiosity gnawing at the back of his mind. *Is there a guy back home?* A high school boyfriend she was sending her hazard pay to? Someone waiting for her contract to end? He immediately forced the thought down. He had only met her yesterday. Asking about her personal life right now would cross a line, and the last thing he wanted to do was ruin the fragile trust that was keeping her grounded.
+
+Walking beside him, Sarah was having the exact same internal debate. She watched the way the crowd of hardened contractors naturally parted for his 6'1" frame, and the way he subtly shifted his stance to keep people from bumping into her. It was a quiet, fierce protectiveness. She bit the inside of her cheek, wondering if there was a woman back home or on one of those deep-sea rigs who was missing him. *Someone has to be.* A guy this solid, who actually looked out for people instead of preying on them, didn't usually end up in the desolate desert alone. But she swallowed the question, keeping her eyes fixed forward. She didn't want to make things complicated. She just wanted to survive the shift.
+
+As the fortified bottleneck of the Security Checkpoint came into view, Wyatt slowed his pace, letting the distance between them open up just a fraction of an inch. He leaned his head down, keeping his voice to a low, barely audible rumble over the drone of the corridor.
+
+"Listen to me," Wyatt murmured, not looking at her. "People in the Mess Hall were staring. The veteran S.H.O.P. Marines already noticed us double-bunking and eating together. The contrast between my armor and that bright Helios uniform makes us a walking target."
+
+Sarah tensed slightly, but she kept walking, her eyes fixed on the heavy blast doors ahead.
+
+"The guards at the glass are on edge today," Wyatt continued. "If Management thinks a S.H.O.P. veteran is getting attached to an acquisition transfer, they will flag us for fraternizing and reassign one of us just to make a point. When we step up to that line, I have to play the part. I'm going to act like I don't care about you. Don't take it personally."
+
+Sarah gave a barely perceptible nod. She completely understood. It was just another layer of the corporate survival game. "Play the part," she whispered back. "I'm ready."
+
+They reached the Checkpoint. The bottleneck felt even more oppressive today. Through the thick wall of bulletproof glass, the air in the processing booth looked stale. The heavily armored Apex Supervisor sitting at the terminal had deep, dark bags under his eyes. His company-issued combat shotgun wasn't resting against the desk like it was yesterday; it was sitting right across his lap, his hand resting near the trigger guard.
+
+The line of contractors shuffled forward. Wyatt stepped up to the yellow line. He didn't block Sarah protectively this time; he stood rigid, entirely indifferent, embodying the exact callous, dead-eyed demeanor of a hardened mercenary who didn't care if the rookie behind him lived or died.
+
+The Supervisor didn't look up from his monitor. He just rubbed his heavy jaw and grunted into the two-way speaker, the words practically bleeding together into a singular, exhausted drone.
+
+"Name, serial, age, and retinal scan."
+
+"Colton, Wyatt J. Contractor ID: 884-Bravo. Age twenty-three," Wyatt barked flatly, his tone abrasive. He leaned down, pressing his face against the cold plastic molding of the scanner. The red laser swept his right eye.
+
+The machine beeped green. The heavy metal transfer drawer slid open, dispensing his battered Level 1 PDA and the heavy, Mark-IV industrial flashlight. Wyatt grabbed his gear and shoved his way through the heavy metal turnstile, not looking back once to see if Sarah was following him. He walked over to the staging area and stood with his back to the glass, waiting.
+
+Sarah stepped up to the yellow line. She didn't stammer today. She didn't look at the armed guard with wide-eyed terror, and she didn't let Wyatt's performance rattle her. She just looked through the bulletproof glass, repeated the mechanical script, and leaned into the scanner.
+
+"Hayes, Sarah M. Contractor ID: 912-Echo. Age eighteen."
+
+The drawer clunked open. She grabbed her flashlight and PDA, pushing through the turnstile to join him. Once they were through the gate and safely out of the Supervisor's line of sight, the cold, corporate facade instantly dropped. She looked up at him, offering a small, tight smile that said she was ready to work.
+
+Wyatt unclipped his flashlight, the heavy metal casing cool against his taped palm. The fierce protectiveness bled right back into his posture.
+
+"Sector 4," Wyatt said quietly, nodding toward the descending blast doors. "Stay in my shadow."
+
+"Right behind you," she replied, her grip on her own flashlight tightening.
+
+They both turned and began the long, steep descent into the suffocating heat and deafening noise of the lower excavation levels, leaving the checkpoint behind.
+

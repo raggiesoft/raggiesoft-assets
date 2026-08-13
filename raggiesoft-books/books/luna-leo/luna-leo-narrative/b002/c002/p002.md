@@ -1,0 +1,78 @@
+# Part 2: Student Training and Education Program
+
+The presence of Officer Davis in their 5th-grade classroom at Willow Creek Elementary created a buzz of excitement that Mrs. Gable, their regular teacher, struggled to contain. Project S.T.E.P. day was always a bit different. Officer Davis, uniformed and smiling, stood near the front, beside a tall metal cart holding a television and video player – technology that still held a certain novelty in the classroom. Luna and Leo sat at their shared table near the back. Luna adjusted the ill-fitting, slightly oversized glasses perched on her nose – a relatively new addition this year after squinting at the microwave clock had revealed her nearsightedness. The world was somewhat clearer with them, but she still found herself squinting occasionally to see the board properly, and they constantly slid down her nose. Leo watched the officer with quiet intensity, while Luna fidgeted slightly, glancing between the officer, now clearly visible thanks to her glasses, and the intriguing TV cart.  
+
+"Alright, settle down, class," Officer Davis said, his voice friendly but firm. "As you know, I'm here today for our Project S.T.E.P. lesson. We're going to talk about making good choices and saying 'No' to things that can hurt you, like drugs, alcohol, and cigarettes."  
+
+He gave a brief, simple talk, emphasizing resisting peer pressure and the dangers of trying unknown substances. He didn't delve into complex issues of addiction, focusing instead on clear rules and refusal skills aimed at ten-year-olds. Luna listened, pushing her glasses up slightly as she focused on the officer, absorbing the message that saying "No" was important. Leo, non-verbal as always, tracked the officer's movements, taking in the uniform and the serious tone. Neither twin connected the officer's warnings about "alcohol" or "drugs" to the cans of beer their parents drank every night at home; in their minds, that was just "beer," something adults did that sometimes made them sleepy or inexplicably angry, entirely separate from the dangerous, abstract substances Officer Davis was talking about.  
+
+"Now," Officer Davis announced, gesturing towards the TV cart, "we're going to watch a special video with some familiar faces who want to help you understand why it's important to stay drug-free."  
+
+He slid a video tape into the cassette player, and after a moment of static, the opening sequence of "Toon Brigade Against Trouble" filled the screen. A ripple of recognition went through the class as classic cartoon characters appeared. Luna leaned forward slightly, her glasses helping her see the animated details clearly, even if the cartoon felt a bit young compared to others she watched. Leo watched impassively, recognizing the characters but mainly focused on the novelty of the video presentation itself.  
+
+They watched the story unfold – the main character, Michael, stealing money for marijuana, the cartoon characters coming to life to intervene, the scary personification of smoke with his gravelly voice trying to tempt him. The message was blunt: drugs turn you into someone you're not, hurt your family, and lead to trouble. The twins absorbed the narrative at face value. Drugs = bad. Saying no = good. The nuances of addiction, enabling, or the specific effects of different substances like the alcohol their parents consumed were completely lost on them, disconnected from the simplistic, albeit star-studded, warning playing out on screen. It was a story about cartoon characters fighting a scary smoke monster and telling a kid not to steal or smoke marijuana – concepts far removed from the confusing reality of their home life.  
+
+When the video ended, Officer Davis turned the lights back up. "See?" he said. "Even toons know drugs are bad news! Remember to make smart choices and just say no." He maybe passed out some Project S.T.E.P. rulers or stickers as the bell rang, signaling the end of the session.  
+
+Luna and Leo gathered their things along with the other students. They had watched the cartoon, heard the officer, and received the core Project S.T.E.P. message. But the deeper understanding of substance abuse, especially as it manifested in their own family, remained completely untouched, obscured by the innocence of their age, the inadequacy of Luna's ill-fitting glasses, and the normalization of their parents' behavior in their young eyes.
+
+
+It was late afternoon in May 1998. Carol Evans, a dedicated middle school teacher at the end of a long day, sat at her desk, staring at the growing pile of ungraded papers beside a list of phone numbers. Her gaze lingered on Luna and Leo’s names. Leo’s stack of missing reports felt like a lead weight in her stomach. Luna’s recent silence in class was just as concerning.
+
+Ms. Evans picked up the phone on her desk and dialed the twins’ home number for what felt like the tenth time that week. This time, someone actually answered. "Hello?" It was the twins' mother, her voice flat, uninterested.
+
+"Hello, Mrs. Porter? This is Carol Evans, Luna and Leo's teacher at school."
+
+"Oh. Yes?" The response was clipped, impatient.
+
+"I'm calling because I'm concerned about Leo's missing assignments and Luna's participation recently. I was hoping we could schedule a time to talk about how we can better support them..."
+
+"They're fine," the mother interrupted dismissively. "Kids slack off sometimes. They'll catch up. We're busy." Before Ms. Evans could press further, the line clicked dead.
+
+Frustrated and deeply troubled, Ms. Evans hung up the phone with a sigh. It was the same brick wall she always hit. They simply wouldn't engage. She thought back to the twins' journey, particularly the vital role that old MagnaByte Opus had played – remembering vividly their struggles with the Quantum OS 95 machines years earlier and how the GS had been the key to their success. Now, without that specific, familiar tool at home, and with parents who wouldn't engage, they were floundering. This wasn't just kids struggling; this felt different. It felt like neglect.
+
+An idea, risky and unprofessional, surfaced again in her mind. Stella. The older sister. She’d always been the responsible one, the one who seemed to genuinely care, even when she was just a teenager herself. Ms. Evans knew Stella was in college now, living on her own. They’d exchanged Christmas cards, a brief chat here and there when Stella had visited the school before moving out. Ms. Evans still had her contact number jotted down somewhere...
+
+She hesitated. Calling a sibling, especially one who wasn't the legal guardian, to discuss concerns about parental support? It was a massive breach of protocol, a potential career-ender if reported. But the image of Luna’s withdrawn face, the thought of Leo’s bright mind trapped behind communication barriers, and the utter dismissal she'd just received from their mother spurred her on. What was the alternative? Let them continue to slip through the cracks?
+
+Taking a deep breath, Ms. Evans found Stella’s number in her personal address book and dialed, hoping she was doing the right thing.
+
+The phone rang in Stella’s small apartment, jarring her from studying notes spread across her secondhand kitchen table. Stella, still 19 (just weeks shy of her 20th birthday), was juggling college courses and a part-time job, trying to build a life separate from the suffocating atmosphere of her parents' house. The ringing phone was an interruption, and she answered it without knowing who was on the other end.
+
+“Hello?” Stella answered.
+
+“Stella? It’s Carol Evans.” Hearing her former middle school teacher's voice surprised her. Ms. Evans rarely called her directly. What could she be calling about?
+
+“Ms. Evans?” Stella replied, slightly puzzled by the unexpected call. “It’s good to hear from you. Is everything okay?”
+
+“Physically, yes, as far as I know. But Stella… I’m calling because I’m worried about Luna and Leo. I know this is highly irregular, contacting you like this, but I’ve hit a wall with your parents.”
+
+Stella’s stomach tightened instantly at the mention of the twins. The casual curiosity vanished, replaced by apprehension. “What’s happened?”
+
+“It’s their schoolwork, their engagement. Leo has missed turning in three major reports in my class. He just… can’t seem to get them done at home. And Luna, she’s become so quiet, withdrawn. She barely participates anymore.” Ms. Evans sighed. “I’ve tried scheduling meetings, phone calls… your parents either don’t respond or brush it off. They don’t seem to grasp the support the twins need.”
+
+“I know,” Stella said quietly, the familiar frustration rising. “They never really have.”
+
+“That’s just it,” Ms. Evans continued, her voice lowering slightly, conspiratorially. “I need to tell you something you might not fully realize, Stella. About that old MagnaByte computer the school kept for them for so long, the Opus?”
+
+“Yeah?” Stella’s mind flashed back to her own elementary and middle school days – the rows of beige machines, the satisfying click of the keys. She’d used them herself for typing lessons and maybe a game or two. She knew the twins had used one too, but she hadn't given it much thought beyond that.
+
+“It wasn’t just something they *liked*, Stella. It was essential. For Leo… being non-verbal and with his difficulty holding a pencil… that keyboard was literally the *only* way he could effectively communicate his thoughts in writing. It leveled the playing field for him, let him complete assignments, show us what he knew. And for Luna, you know how she sometimes struggles to get her words out? Typing on that simple interface helped her organize her thoughts, bypass those verbal stumbles. It gave them both such confidence.”
+
+Stella listened intently, a new understanding dawning. She remembered using the machine, but she hadn't known the specifics of the breakthrough the twins had experienced a few years after her time with it, or how vital it had become for *them*. Ms. Evans’ explanation framed the familiar machine differently – not just as a computer, but as a vital assistive tool tailored to their specific needs.
+
+“We kept that machine running for them long after it was obsolete for everyone else because we saw the profound difference it made,” Ms. Evans emphasized. “Now, without that kind of accessible tool at home, Leo can’t complete his written work, and I suspect Luna’s withdrawal might be partly frustration, feeling like she can’t express herself easily either. The school provides what it can during the day, but the lack of follow-through and appropriate tools at home… Stella, it’s bordering on educational neglect.”
+
+The words hung in the air. Neglect. It wasn't just Stella's gut feeling anymore; a professional was saying it.
+
+“I shouldn’t be telling you all this, Stella. If the administration knew… well, it breaks confidentiality rules. But I’ve watched these kids since elementary school liaised with their teachers, I *know* what they’re capable of with the right support, and I can’t stand by and watch them founder because their parents won’t provide it.”
+
+Stella felt a surge of protective anger towards her parents, quickly followed by a cold wave of determination. Ms. Evans’ explanation of *why* the MagnaByte was so important clicked everything into place. It wasn’t just about giving them *a* computer; it was about giving them the *right* kind of access.
+
+“Thank you, Ms. Evans,” Stella said, her voice low but firm. “Thank you for telling me. I… I understand. I need to do something.”
+
+“I hoped you would,” Ms. Evans replied, relief evident in her tone. “Be careful, Stella. But they need someone fighting for them.”
+
+Hanging up the phone, Stella stared blankly at her textbooks. The call had changed everything. The vague worry had coalesced into a clear objective. It would be a long, hard road, starting now, but she knew she had to fight for guardianship. This phone call sparked the difficult, year-long journey of seeking legal advice, gathering evidence, and fighting for guardianship and conservatorship – a battle she would ultimately win just before turning 21, allowing her to bring Luna and Leo into her care right before they started their freshman year of high school. And deep down, a new determination formed, fueled by this new understanding: somehow, someday, she had to find a way to bring that specific kind of accessibility back into their lives.
+
+

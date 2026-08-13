@@ -1,0 +1,26 @@
+# Part 4: The Expected Rejection
+
+The ninety-day review period passed with a slow, grinding silence. In early September, the anticipated letter arrived. It came not to their apartment, but to the Miller house on Lisa Court, as James was managing the complex insurance battle. He brought it over that evening, his face a mask of grim, weary resolve. The three of them were in their office, working on homework.
+
+"Well, kids," James said, sliding the thick envelope onto Megan's desk. "We got the official response from the insurance company."
+
+Chloé's heart leaped with a hope she immediately tried to squash. "And?" she asked, her voice barely a whisper.
+
+"And," James said, letting out a long sigh, "just like the vendor predicted... they denied it."
+
+Chloé slammed her hand on the table, a sharp sound in the quiet room. "They what?! On what grounds? We gave them everything!"
+
+James slid the official denial letter across the table. Chloé snatched it and read the cold, bureaucratic language, her anger rising with every word. "'The request for a power wheelchair with a standing feature is denied as the standing function is not deemed medically necessary...' Not medically necessary?" she spat, her voice dripping with disbelief. "And what about the communicator?"
+
+"Same thing," James said grimly. "'The patient's current speech-generating device is still considered functional.'"
+
+The room was silent for a long moment. Alex had been listening, his expression unreadable. But inside, a familiar, cold rage was building. It was the rage of powerlessness. He wheeled himself to the table, his movements sharp and precise. His fingers flew across the keyboard of his "functional" device, which was, of course, plugged into the wall.
+
+SO, his AAC voiced, the synthesized tone cold and sharp. SOMEONE IN AN OFFICE IN ANOTHER STATE, WHO HAS NEVER MET ME, WHO HAS NEVER SEEN ME STRUGGLE TO REACH A BOOK ON A SHELF, THINKS THEY KNOW MY BODY BETTER THAN MY DOCTORS. BETTER THAN MY PHYSICAL THERAPIST. BETTER THAN MY FAMILY. He paused, his gaze locking with his father's. THEY THINK THEY KNOW BETTER THAN ME.
+
+"Yes, son," James said, his voice a low growl of shared anger. "They do. They think if they say 'no' enough times, we'll get tired and go away." He then reached into his briefcase and pulled out another, even thicker, stack of papers. "And now, we prove them wrong."
+
+He spread the new forms on the table. It was the appeal paperwork. "This is just the next round," James explained, his voice now full of a quiet, fierce determination. "They denied it. We expected that. Now, we appeal. We get another, more strongly worded, letter of medical necessity. We submit testimonials from all three of you about how the current equipment is failing. We don't give up. We just fight harder."
+
+Chloé came and stood behind Alex, her hands resting on his shoulders. At the same time, Megan moved to his side, her own hand a firm, grounding presence on his arm. They were a silent, unshakeable wall of support on either side of him. The denial letter, with its cold, clinical dismissal of his needs, still lay on the table. It hurt. It was a profound, deeply personal insult. But looking at his dad's resolute face, and feeling the steady, unwavering presence of both Chloé and Megan beside him, Alex knew this wasn't an ending. It was just the end of the beginning. The battle was far from over.
+

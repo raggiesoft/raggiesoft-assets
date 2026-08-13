@@ -1,0 +1,84 @@
+# Part 11: The Locked Door – 7:45 PM
+
+The rest of the car ride was a suffocating, heavy silence. We dropped Janette off at Aunt Janet's house first. Janette reached over the seat and gave my shoulder one last, fierce squeeze before getting out of the car, her eyes still lined with angry tears. She didn't want to leave us, but there was nothing she could do to stop the momentum of the evening.
+
+When Mom finally pulled the sedan into the driveway of 1852 Delaney Street, my torn stomach tightened into a knot of pure dread.
+
+We walked through the front door. Dad was already home from work, sitting in his recliner in the living room with the evening news playing on the television.
+
+Mom didn't even take her purse off her shoulder before she started unloading the events of the car ride. She framed it exactly the way she had in the sedan—that Jessica was being dramatic about a standard martial arts conditioning drill, and that Rachel and I were just crying because the class was too hard.
+
+Jessica didn't back down. She dropped her heavy gym bag right on the foyer linoleum and stood her ground, passionately trying to explain the sheer, crushing weight Master Curtis had put on us, and the deliberate, lingering pause he took on Rachel's stomach.
+
+Dad listened for about thirty seconds before he held up a heavy, calloused hand, shutting the argument down completely.
+
+"Ellen is right, Jessica," Dad said, his voice carrying that absolute, unyielding blue-collar authority. He didn't look at me, and he didn't look at Rachel, who was currently leaning all of her weight against my side just to stay upright. He just looked at his oldest daughter. "It's a Dojang, not a playground. They are trying to earn black belts. If Master Curtis says they need to learn how to take a hit and build their core strength, then that's what they do. It builds discipline. It builds character. Crying about it isn't going to get them anywhere."
+
+The adult echo chamber was completely sealed. Dad had taken Mom and Master Curtis's side without a single moment of hesitation.
+
+Jessica stared at him, her chest heaving, her eyes burning with an intense, helpless fury. She was fourteen years old. She had no legal authority, no financial leverage, and absolutely no way to break through the brick wall of their parenting logic.
+
+She couldn't win the argument, so she completely abandoned it.
+
+Jessica turned around, grabbed my arm, and reached out to take Rachel’s hand.
+
+"We're going upstairs," Jessica announced, her voice trembling with cold, concentrated rage.
+
+She didn't wait for permission. She practically marched us toward the wooden steps. Just like at the Dojang, the staircase was a massive, agonizing obstacle. Jessica realized it instantly. She scooped Rachel up into her arms, carrying her up the steps so she wouldn't have to bend her torso, while I gripped the wooden banister with both hands, dragging my legs up one agonizing tread at a time to keep my gut from seizing.
+
+We bypassed my bedroom entirely. Jessica pulled us both into the room she shared with Rachel.
+
+The second we crossed the threshold, Jessica slammed the door shut and engaged the lock. The heavy, metallic click echoed loudly in the room. It was the only boundary she actually had the power to enforce.
+
+The three of us gravitated immediately toward the heavy, silver metal-tube bunk bed. We sat down together on the lower bunk—Rachel’s bed.
+
+The adrenaline of the confrontation downstairs was fading, leaving only the deep, blinding fire in our midsections. Rachel was curled into a ball next to me, her breathing ragged and shallow, fresh tears spilling over her eyelashes as she clutched her side.
+
+"Let's get these heavy uniforms off," Jessica whispered, her voice softening instantly as she shifted from furious daughter to protective older sister.
+
+She helped Rachel untie the rigid canvas belt. I managed to unknot my own, letting it fall to the carpet. The thick white cotton *doboks* were suffocating.
+
+Jessica gently pulled the V-neck top over my head. I was wearing a white undershirt beneath it.
+
+"Lift it up, Michael," Jessica asked quietly. "Let me see."
+
+I hesitated, my hands shaking, but I slowly pulled the hem of my undershirt up to my ribs.
+
+Jessica let out a sharp, horrified gasp.
+
+Right in the center of my stomach, spanning the exact width of an adult male's foot, the skin was an angry, inflamed, mottled red that was already darkening into a sickly purple. But it wasn't just the color. Right in the center, where his heel had dug in during the second pass, the tissue looked swollen and fundamentally wrong. It was the undeniable, physical proof of the crushing pressure I had endured. It wasn't "character." Something deep inside me was severely broken.
+
+Jessica swallowed hard, her eyes pooling with tears. She turned to Rachel, who was wearing a tank top under her uniform.
+
+"Can I look, Rachel?" Jessica asked gently.
+
+Rachel gave a tiny, frightened nod. Jessica carefully lifted the edge of the tank top.
+
+The bruising on Rachel's stomach was stark and violent against her pale skin, sitting right over her lower ribs. The area was visibly swollen, puffing outward in a way that made it completely obvious why every breath was causing her to whimper in agony.
+
+Jessica covered her mouth with both hands, a jagged sob catching in her throat. Seeing the physical evidence completely shattered her. She wasn't a doctor, but she was an athlete, and she knew exactly what severe trauma looked like.
+
+She knew we needed to be in a hospital. But the crushing, suffocating reality of her situation came crashing down on her: the adults downstairs didn't care. They had already decided we were fine. If she went back down there and demanded they look, Dad would just yell at her for undermining him. She was entirely powerless to get us the medical help we desperately needed.
+
+She wiped her eyes roughly, forcing the tears away. If the adults weren't going to protect us, she would do it herself.
+
+She reached into the bottom drawer of Rachel's dresser and pulled out a pair of soft, loose cotton sleep shorts for Rachel. Then, she reached into the corner basket where I kept a spare set of my own sleep shorts for the nights the house got too loud and I needed to escape.
+
+"Change into these," Jessica instructed, her voice thick with emotion but entirely steady. "Nothing tight around your waists tonight."
+
+We pulled the soft shorts on, leaving our undershirts exactly as they were. The absence of the heavy martial arts gear was a minor relief, but the tearing ache remained.
+
+Jessica sat back down on the edge of the lower bunk, looking at the two of us huddled together.
+
+"I don't care what Mom and Dad say," Jessica whispered fiercely, leaning in and wrapping her arms around both of our shoulders, pulling us into a tight, protective huddle. "I don't care about the belts, and I don't care about building character. That man hurt you. You are not weak. They are wrong."
+
+Rachel let out a soft, exhausted hum, leaning her head heavily against my arm.
+
+"Michael," Jessica said, looking at me with a sad, desperate need to provide whatever comfort she could physically engineer. "You aren't going to your room tonight. You're staying right here. You and Rachel share the bottom bunk, just like we do when the house is too crowded."
+
+I nodded, profound relief washing over me. I didn't want to be alone in my twin bed across the hall. I needed to be exactly where I was.
+
+Jessica stood up, pulling the heavy red quilted blanket down from the top bunk to add an extra layer of warmth and weight over us. She tucked us in, making sure the blanket was secure without pressing down on our stomachs, before climbing up the metal rungs to her own bed.
+
+The room went dark as she clicked off the lamp. The adults downstairs were completely locked out. For tonight, the bottom bunk was our absolute sanctuary, and as Rachel pressed her back firmly against my side to anchor herself, we finally allowed ourselves to close our eyes.
+

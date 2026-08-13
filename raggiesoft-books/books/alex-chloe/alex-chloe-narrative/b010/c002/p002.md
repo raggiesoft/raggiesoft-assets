@@ -1,0 +1,30 @@
+# Part 2: An Unwavering Bond
+
+A few days later, the roles were reversed. It was a busy afternoon at the CCHR library, and Chloé was expertly managing a small crowd at the circulation desk. A tall, athletic-looking young man named Mark, who was in her World Literature class, approached the counter, looking flustered.
+
+"Chloé, hey," he said, running a hand through his hair. "I can't find that reserve book for Dr. Evans's class anywhere. The online system says you have it, but it's not on the shelf."
+
+"Don't worry, Mark," she said with a calm, reassuring smile. "Sometimes they get put back in the wrong spot. Let me check the return cart."
+
+She found the book in a few moments, her efficiency and quiet competence on full display. As she checked it out to him, he leaned against the counter, his demeanor shifting from stressed to charming.
+
+"You're a lifesaver," he said, his smile genuine. "Seriously, I'd be totally lost in that class without your notes." He glanced at her left hand, where her gold wedding band was clearly visible, but his next words made it clear he was choosing to ignore it. "You know, a bunch of us are going to grab some pizza over at Tony's after class to cram for the mid-term. You should come with us."
+
+From his post in the computer lab, Alex watched the exchange through the large glass wall. He saw the easy, confident way Mark was leaning on the counter. He saw the way his eyes were fixed on Chloé. A younger Alex might have felt a flicker of insecurity, a pang of jealousy. But the Alex of 2006, confident in his own worth and utterly secure in his partnership with Chloé, felt nothing but a quiet, profound sense of pride. He wasn't threatened. He was just watching his brilliant, beautiful wife be her amazing self.
+
+Chloé's smile never wavered, but her eyes became a little more direct.
+
+"That's a really nice offer, Mark, but I have to pass," she said, her voice warm but with an unmistakable firmness. "My husband and I have a study date." She gestured with her head towards the computer lab. "Alex and I are planning on tackling the horrors of calculus together tonight."
+
+Mark's confident smile faltered. He followed her gaze and saw Alex, who gave him a small, polite, and completely unbothered nod. "Oh," Mark said, the realization finally dawning on him. "Right. Your husband. Of course." He took the book, his cheeks flushing slightly. "Well, uh... thanks for finding this." He quickly retreated, disappearing into the library stacks.
+
+Chloé watched him go, then turned her gaze back to the computer lab, a soft, amused smile on her face. A moment later, an instant message popped up on the screen of her MagnaByte laptop. It was from Alex.
+
+HE SHOOTS, HE MISSES. BETTER LUCK NEXT TIME, MARK.
+
+She laughed quietly, her fingers flying across the keyboard in response.
+
+DON'T GET COCKY, MILLER. YOU'RE THE ONLY ONE ON THE TEAM.
+
+He looked up and met her gaze across the library. His synthesized voice wasn't needed. The look they shared was a private, perfect communication, a silent affirmation of a bond that was so complete, so absolute, that the rest of the world simply faded away.
+

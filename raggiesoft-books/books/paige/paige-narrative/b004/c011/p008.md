@@ -1,0 +1,90 @@
+# Part 8: The Photographic Evidence
+
+## Monday, June 21, 2004 — 21:30 PM The Living Room
+
+The "Hygiene Squad" had returned from the basement, and Amanda and Elara had descended from the upstairs bathroom. The living room was now filled with eight clean, minty-smelling siblings wearing mismatched flannel pajamas.
+
+Jenna and Sarah were heading toward the basement door to retrieve the air mattresses for the "Mega-Bed" construction.
+
+"Hold it," Aunt Linda commanded, standing in the center of the room.
+
+She was holding a silver and black camera—an Opti-View 35mm—which she had dug out of her purse.
+
+"Before we turn this room into a campground," Linda announced, winding the film wheel with a satisfying crk-crk-crk sound. "I need evidence."
+
+"Aunt Linda," Jessica groaned, rubbing her eyes. "We look like train wrecks. I have pizza grease in my pores."
+
+"I don't care," Linda said firmly. "Everyone on the sofa. Now."
+
+"All of us?" Harper asked, yawning. "It’s a three-person sofa."
+
+"It’s a family sofa," Linda corrected. "We improvise. Freddie, stay put. You are the anchor."
+
+Freddie, still parked in the center of the beige sofa, adjusted his glasses. "I am ready to receive docking procedures."
+
+Linda began directing traffic like an air traffic controller.
+
+"Okay, Triad in the middle," Linda ordered. "Paige, port side. Jessica, starboard side. Squeeze him in. I want no daylight between you."
+
+Paige snuggled into Freddie’s left, resting her head on his shoulder. Jessica wedged herself into his right, wrapping an arm around his waist.
+
+"Okay, now the layers," Linda pointed. "Harper, you are cleared for landing. Low voltage this time."
+
+Harper, significantly calmer now that the sugar had left her system, climbed up. She didn't bounce. She didn't vibrate. She simply curled up on Freddie’s lap, tucking her legs in and resting her head on his chest.
+
+"Acceptable," Freddie whispered, resting his chin on the top of her head. "Heart rate is nominal."
+
+"Twins, up and over," Linda gestured.
+
+Amanda and Elara climbed up the back of the sofa. They draped themselves over the top cushions, their arms hanging down over Freddie’s shoulders, their chins resting near his ears. Freddie was now wearing a hat made of sisters.
+
+"Birthday Girls, flank positions," Linda directed.
+
+Sarah and Jenna, too big to fit on the cushions without crushing someone, sat on the floor in front of the sofa, leaning back against Freddie’s knees. Sarah rested her cheek against his left leg; Jenna rested hers against his right.
+
+Linda stepped back. She looked through the viewfinder.
+
+It was a mountain of flannel, hair, and limbs. You couldn't tell where one sibling started and another ended. In the center of it all, Freddie looked small, weighed down, and overwhelmed.
+
+And he looked happier than she had ever seen him.
+
+The terror of the last week—the bus, the note, the empty wheelchair in the hallway—felt a million miles away.
+
+"Squeeze in!" Linda called out, her voice thick with emotion. "Smile!"
+
+"Cheese!" Elara yelled.
+
+"Pizza!" Jenna corrected.
+
+Whiiiiiiine-CLICK.
+
+The flash blinded them for a second.
+
+"One more," Linda insisted, winding the film. "Just in case someone blinked."
+
+Whiiiiiiine-CLICK.
+
+"Okay, now a silly one," Linda laughed, wiping a tear from her eye. "Go nuts."
+
+Jenna stuck her tongue out. Elara made bunny ears behind Freddie’s head. Harper crossed her eyes. Jessica puffed out her cheeks. Freddie simply pushed his glasses down his nose and looked over the rim with a "stern librarian" face.
+
+Whiiiiiiine-CLICK.
+
+Linda lowered the camera. She looked at the tableau one last time before breaking the spell.
+
+She thought about Vanessa. She thought about how hard that girl had tried to make Freddie feel like a burden—like his needs were too heavy for anyone to carry.
+
+Look at this, Linda thought fiercely. He isn't a burden. He's the foundation.
+
+"Alright," Linda sniffled, putting the camera back in her purse. "Photo session adjourned. Laundry Brigade, go get the mattresses. Let's get this camp set up."
+
+As the pile slowly disentangled itself—limbs retracting, sisters sliding off—Freddie stayed still for a moment, savoring the lingering warmth of the pressure.
+
+"System check," he whispered to Paige as she sat up.
+
+"Full battery," Paige smiled, squeezing his hand. "We're full."
+
+"Affirmative," Freddie said.
+
+He watched Sarah and Jenna drag the deflated air mattresses up from the basement, ready to build the raft that would keep them all together through the night.
+

@@ -1,0 +1,70 @@
+# Part 3: The Brain Break – 10:15 AM
+
+For the first hour and fifteen minutes, the only sounds in the living room were the scratch of graphite against wide-ruled paper, the soft, metallic clicking of Grandma Loretta’s knitting needles, and the steady, rhythmic breathing of the dogs.
+
+I worked my way through the fifth-grade math diagnostic. The fractions and long division were familiar, but executing them on a wooden lap desk while trapped in a medical binder was a completely different experience. To see the paper clearly, I had to tuck my chin tightly against my chest. Gravity was relentless. After an hour of being propped at a forty-five-degree angle, the muscles in the back of my neck were screaming, and the thick canvas wrapped around my torn fascia felt like a heavy, suffocating vise.
+
+Beside me, Rachel was physically slowing down. Her pencil strokes were getting lighter, her breathing growing incredibly shallow as she fought the deep, burning ache in her cracked ribs.
+
+Mrs. Higgins didn’t miss a single detail. She wasn't just assessing our academic retention; she was actively, carefully monitoring our physical endurance.
+
+When the grandfather clock in the hallway chimed the quarter-hour, Mrs. Higgins gently tapped her red pen against her clipboard.
+
+"Alright, pencils down," Mrs. Higgins announced, her tone leaving no room for argument. "That is enough for the first block. We are taking a mandatory fifteen-minute brain break."
+
+I let out a long, shaky exhale, immediately dropping my yellow pencil onto the wooden desk.
+
+Rachel stopped writing instantly. She carefully slid her diagnostic packet toward the edge of her lap desk so Mrs. Higgins could reach it without having to lean over the mattress. In the top margin of the front page, written in incredibly neat, careful third-grade cursive, was a tiny note: I am tired.
+
+Mrs. Higgins leaned forward and picked up the packet. She read the note. She didn't coo at Rachel with exaggerated sympathy, and she didn't make a big show of her empathy. She executed the exact trauma protocol she had been briefed on. She just gave Rachel a brief, respectful nod.
+
+"Understood, Rachel. You did excellent work," Mrs. Higgins said neutrally, filing the packet into a manila folder. She collected my diagnostic as well. "Looking down at that angle for prolonged periods is very hard on the cervical spine. I am going to step into the kitchen for a few minutes to review these diagnostics and grab a cup of coffee. You two just relax. We will switch to reading comprehension when I get back."
+
+Mrs. Higgins stood up from her oak chair, smoothed her long cardigan, and walked down the hallway. The heavy wooden door of the kitchen clicked shut behind her.
+
+The moment the adult from the outside world left the room, the invisible, hyper-vigilant tension in the base camp completely evaporated. On their floor mattresses, Jessica and Janette instantly dropped their rigid sentry postures.
+
+"Uncle Jim?" I called out, my voice raspy and exhausted.
+
+The kitchen door immediately opened, and Jim stepped out into the hallway. "What do you need, buddy?"
+
+"Can we go flat for the break?" I asked. "My neck is killing me."
+
+Rachel looked at Jim and gave a firm, emphatic nod. She wanted off her wedge just as badly as I did.
+
+"You got it," Jim said, walking over to the sofa bed and rolling up his flannel sleeves. "Jess, Janette, you're up."
+
+The older girls didn't hesitate. After sitting perfectly still for over an hour, they were absolutely desperate to be useful. They sprang up from the floor. Jessica carefully lifted the wooden lap desk off my legs, while Janette did the same for Rachel, setting the desks safely on the coffee table.
+
+Janette then moved to the head of the bed on Rachel's side, and Jessica took the corresponding spot on mine.
+
+Jim dropped to one knee beside Rachel. "Ready, sweetheart?"
+
+Rachel closed her eyes, took a shallow sip of air, and nodded. Jim slid his arms under her knees and shoulder blades, lifting her upper body in a smooth, rigid plank. The second her weight was off the foam, Janette swiftly reached in and yanked the heavy medical wedge out from behind her, tossing it onto the carpet. Jim carefully lowered Rachel until her spine was perfectly flat against the mattress. She let out a long, shuddering sigh, her shoulders dropping their rigid tension instantly.
+
+Jim stepped around the foot of the bed. "Your turn, Michael."
+
+I let my body go completely slack. Jim lifted me, my core staying perfectly limp, and Jessica expertly pulled my wedge away. As Jim lowered me flat against the bed, the rush of relief in my neck and lower back was profound. Without gravity forcing my weight down into my hips, the suffocating pressure of the medical binder immediately eased.
+
+"Better?" Jim asked quietly.
+
+"So much better," I breathed.
+
+"I'll be back in ten minutes to prop you back up," Jim promised, retreating to the kitchen to give us our space.
+
+Grandma Loretta stepped out of the kitchen right behind him, carrying two small paper cups of ice water, each outfitted with a flexible plastic straw. Because we were flat on our backs, she gently held the cups near our faces, allowing us to hydrate without having to lift our heads or engage our healing cores.
+
+Once we had our water, she set the cups aside and went back to her armchair to resume her knitting.
+
+I turned my head to the left. Rachel was already looking at me. Without a single word, she reached her pale hand up over the massive, three-pillow barrier. I laced my fingers tightly through hers, our standard, desperate grounding technique instantly locking into place.
+
+Baby, sensing the break in the academic protocol, let out a massive yawn, his jaws snapping shut with a soft click. He adjusted his weight, resting his heavy chin right back against the mattress next to Rachel’s hip, letting out a deep, contented huff.
+
+"You doing okay, Bug?" I whispered, my voice barely carrying over the quiet hum of the house.
+
+Rachel gave my fingers two tired, but incredibly firm, squeezes.
+
+She was physically exhausted, and her ribs were a deep, throbbing ache, but the panic hadn't set in. The teacher hadn't yelled. The teacher hadn't hovered or tried to force her to speak. The perimeter was holding perfectly.
+
+We lay there perfectly flat in the quiet living room, physically drained but mentally victorious. The adults had built a system to protect us, the teenage guard had proven their usefulness, and as I listened to Mrs. Higgins quietly talking to Uncle Jim in the kitchen, I realized the homebound instruction was actually going to work.
+

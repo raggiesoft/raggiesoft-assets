@@ -1,0 +1,20 @@
+# Part 10: Opening Remarks
+
+At eight o'clock sharp, the low hum of conversation in the Sinclair Center ballroom quieted as a distinguished-looking woman in a VDU-blue blazer stepped up to the podium on stage.
+
+"Good morning, everyone, and welcome to Virginia Dominion University!" she began, her voice warm and commanding. "My name is Dr. Evelyn Reed, and I have the distinct honor of serving as the President of this wonderful institution. On behalf of our entire faculty, staff, and student body, thank you so much for spending your Saturday with us."
+
+Megan leaned over to Alex. "Dr. Reed is great," she whispered. "She actually knows the names of most of the student government leaders."
+
+Dr. Reed continued, her speech hitting all the familiar, comforting beats of an academic welcome. She acknowledged the importance of the college decision process for the families in the room. She spoke glowingly of VDU's mission to provide "a practical, hands-on education for the leaders and innovators of tomorrow."
+
+She highlighted a few points of pride—the brand-new Engineering and Computational Sciences building, the success of their "Griffins" basketball team in the previous year's tournament, and a recent grant awarded to the marine biology department.
+
+"Today is all about discovery," Dr. Reed said, gesturing to the crowd with an open, welcoming hand. "We want you to explore our beautiful campus, to visit our academic fair and speak with our world-class faculty. We want you to talk to our incredible students—they're the real heart of VDU, and they'll give you the real story."
+
+She gave them a quick overview of the day's schedule—campus tours first, then the residential life tour and lunch, followed by the academic fair in the afternoon.
+
+"So please," she concluded, her smile genuine and inviting, "be curious. Ask tough questions. And most importantly, try to picture yourself here, as part of the VDU family. We are so excited to see what the next generation of Griffins will achieve. Welcome to VDU, and have a fantastic day!"
+
+A wave of enthusiastic applause filled the ballroom. As the crowd began to organize into smaller tour groups, Megan turned to Alex. "Alright, cuz," she said with a grin. "Ready to see the sights?"
+

@@ -1,0 +1,74 @@
+# Part 2: The Brute Protocol – 10:28 AM
+
+The frosted glass door with the gold star swung open. A man stepped out, carrying a stack of freshly printed group fitness schedules. He wore a purple polo shirt that looked a size too small.
+
+He stepped behind the desk just as Sarah retrieved a heavy, black credit card from her wallet. Jason was already typing at his terminal, pulling up four blank membership clipboards, blissfully unaware of the tension.
+
+"Hey, boss," Jason said cheerfully, not looking up from the screen. "Got four new VIPs signing up today."
+
+The manager didn’t respond. He stopped dead in his tracks. His eyes tracked from the credit card in Sarah’s hand, up her massive forearm, past her incredibly broad shoulders, and finally to her stoic, unreadable face. Then, his gaze snapped to Abbey standing right beside her.
+
+From my seated vantage point, I watched the manager’s face drain of color. People stare at my cousins all the time. Usually, it’s just wide-eyed shock at their sheer size. But the look on this man's face wasn't shock. It was absolute, unhinged terror.
+
+I watched his eyes dart rapidly over their arms and necks. He was looking for something. I had seen enough loud, aggressive guys in parking lots to know what an angry man looked like—they usually wore tight, cut-off shirts, their skin turning red with thick, ropey veins popping out of their necks as they yelled.
+
+But Abbey and Sarah weren't doing any of that. They were just standing perfectly still in their heavy denim jeans and plain, dark navy t-shirts. Their skin was smooth and pale. There were no bulging, angry veins. There was no posturing. There was just their impossible, quiet mass.
+
+The manager’s brain seemed to short-circuit. He couldn't figure them out. He looked at my quiet, perfectly still cousins like they were about to tear the building down.
+
+I didn't understand. Why was he so scared? We were just standing there.
+
+The manager dropped the stack of schedules. The papers scattered across the purple laminate, fluttering to the floor. He lunged forward, his hand diving under the lip of the desk.
+
+The Brute Siren detonated.
+
+The sound wasn't just loud; it was a physical force. A 120-decibel, industrial air-raid klaxon ripped through the air-conditioned lobby, instantly shattering the low hum of the treadmills. At the exact same time, twin strobing red lights mounted above the desk began to flash with violent, blinding intensity.
+
+Out on the floor, the casual members froze. I saw a dozen heads snap toward the desk. They were looking around, confused. No one was dropping weights. No one was yelling. There was no reason for the alarm.
+
+But the noise hit my nervous system like a live wire.
+
+My hands flew to my ears, but it didn't help. The siren vibrated in my teeth. The red strobes seared through my eyelids even when I squeezed them shut. My brain completely overloaded.
+
+The neurological misfire was instantaneous. The electrical signals controlling my cerebral palsy scrambled. Every muscle in my body locked into a brutal, autonomic spasm. I felt my spine arch violently against the canvas backing of my chair.
+
+"Ahhh!" The scream ripped out of my throat, raw and uncontrolled.
+
+My body began to shake violently. The severe, chaotic spasticity threw off my center of gravity. I felt the right wheel of my chair lift off the rubber flooring. I was tipping.
+
+I hit the ground hard, my shoulder taking the brunt of the impact. The cold, rubberized floor rushed up to meet me, but I couldn't stop the spasm. I lay there, writhing, my limbs locked and vibrating, sobbing hysterically as the klaxons continued to tear my reality apart.
+
+Above me, the world exploded into motion.
+
+Sarah’s credit card vanished instantly. Jason backed away from his register, his hands raised in shock.
+
+"WILL SOMEONE SHUT THAT DAMN ALARM OFF?!" Samantha’s voice sliced through the mechanical wail. She was on her knees beside me, her hands hovering, desperately trying to find a safe way to hold me while my muscles thrashed.
+
+Through the strobe lights, I forced my eyes open for a fraction of a second. I saw Samantha glaring up, looking the manager dead in the eye. The manager was completely frozen, his hand still hovering near the desk, just staring down at me in horror.
+
+"We are leaving," Abbey commanded. Her voice wasn't a yell. It was a cold, absolute directive.
+
+Through the blinding red flashes, I looked up and saw the terrifying, instantaneous shift. The heavy denim of Abbey's jacket pulled taut as her massive fists clenched, turning her knuckles bone-white. She planted her boots into the rubber floor, dropping her center of gravity. I saw Sarah's eyes lock onto the manager. It was the exact same dead, calculating emptiness I had seen two years ago, right before they cornered my father and my uncle.
+
+I knew exactly what my cousins were capable of. I knew the terrifying, absolute silence that followed their wrath that night. They were going to rip that purple desk off its steel bolts and bury the manager underneath it.
+
+But then, amidst the shrieking klaxon, Sarah’s eyes flicked to Abbey. A single, silent exchange. The tactician calculating the collateral damage of a demolished room versus my immediate, critical safety.
+
+The abort code.
+
+The monstrous tension vanished, swallowed whole. They didn't touch him. Instead, the raw, world-ending violence they had weaponized against my abusers was instantly leashed and redirected into absolute discipline. Abbey and Sarah descended on me simultaneously. Abbey slid her massive arms under my back while Sarah took my legs. They didn't struggle against my spasticity; they simply absorbed it. I could feel their muscles hard as concrete, vibrating with suppressed adrenaline, yet they handled my fragile, locked body as if I were made of glass.
+
+I was sobbing from the sensory agony, but beneath the noise, a profound, desperate wave of relief washed over me. I was the only thing tethering them to humanity in that room. They chose my safety over the carnage. With effortless ease, they lifted my thrashing body entirely off the floor.
+
+Beside them, Samantha grabbed the handles of my fallen wheelchair, righting it in a single motion.
+
+As Abbey and Sarah carried me toward the automatic doors, the klaxons still screaming, I saw the faces of the casual members on the floor. They were staring daggers at the manager. They saw me crying. They saw my massive cousins carrying me out.
+
+The glass doors slid open, and the heat of the parking lot hit us.
+
+We cleared the perimeter. Sarah moved ahead, popping the rear door of the sedan. Abbey deposited me gently onto the backseat. I was still crying, my muscles still locked in a rigid spasm, my hands glued to my ears to block out the phantom echoes of the siren.
+
+"I've got him," Samantha said, her voice shaking but fiercely determined. She dove into the backseat right beside me.
+
+The door slammed shut, cutting off the noise of the gym, leaving me in the dim, quiet sanctuary of the car as Samantha wrapped her arms around me, pulling me into the deep-pressure hold I needed to survive.
+

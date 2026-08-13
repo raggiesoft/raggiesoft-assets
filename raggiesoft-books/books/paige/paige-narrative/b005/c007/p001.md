@@ -1,0 +1,62 @@
+# Part 1: The Intruder
+
+## Friday, November 14, 2008 — 19:30 PM 105 Pepper Street SE
+
+The pizza delivery car pulled into the driveway, its headlights sweeping across the living room window.
+
+Inside, the atmosphere was fragile. The Avery Unit had shifted into "Bunker Mode." The curtains were drawn. The lights were low. Freddie was parked in The Rover near the kitchen, watching Harper.
+
+Harper was sitting on the floor, sorting through her backpack. She was moving frantically, pulling out clothes and books as if checking for contamination.
+
+Ding-Dong.
+
+The doorbell rang. It was a standard, two-note chime.
+
+Harper flinched. She scrambled backward, crab-walking across the carpet until her back hit the sofa. Her eyes went wide, fixed on the door.
+
+"It's just the pizza, Harp," Jenna said from the recliner, standing up. "I got it."
+
+Jenna opened the door.
+
+Standing on the porch was the delivery driver. He was young—maybe nineteen or twenty. He was tall, broad-shouldered, and wearing a baseball cap pulled low.
+
+He looked, from a distance, just enough like a high school senior. Just enough like Travis.
+
+"Large pepperoni, large cheese," the driver said, his voice deep and booming. "That'll be eighteen-fifty."
+
+Harper let out a small, strangled whimper. She pulled her knees to her chest, burying her face in her arms.
+
+"Male," Harper whispered, her voice shaking. "Proximity alert."
+
+Freddie saw the reaction. He didn't hesitate.
+
+He rolled The Rover forward, placing himself directly between Harper and the door. He turned the chair sideways, creating a matte-black titanium wall.
+
+"Visual block established," Freddie said calmly.
+
+He looked at Harper. He extended his hand down to her.
+
+"Grab on," Freddie commanded softly. "Anchor point active."
+
+Harper reached up. She grabbed his hand with both of hers, squeezing with a desperate, white-knuckled grip. She didn't look at the door. She looked at Freddie’s wheel.
+
+Jenna paid the driver quickly. "Thanks. Keep the change."
+
+She slammed the door. She threw the deadbolt.
+
+"Secure," Jenna announced.
+
+Harper didn't let go of Freddie’s hand. She pulled herself up, using his chair as a ladder, until she was standing. Then, she didn't stop. She climbed into his lap.
+
+She was sixteen years old. She was tall. But she curled up on him like a child, hiding her face in his neck, her legs draped over the armrest of the wheelchair.
+
+"He was loud," Harper whispered into his shirt. "He sounded like him."
+
+"He is gone," Freddie promised, wrapping his arms around her waist to hold her steady. "He was a logistical variable. Pizza delivery. Nothing more."
+
+"I hate them," Harper cried softly. "I hate boys. They're loud and they grab."
+
+She tightened her grip on his shoulders.
+
+"Except you," she whispered. "You don't grab. You hold."
+

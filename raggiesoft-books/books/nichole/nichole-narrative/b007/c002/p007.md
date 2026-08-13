@@ -1,0 +1,140 @@
+# Part 10: The Early Deployment
+
+## Date: April 17, 2004 Time: 9:00 AM Location: The Loading Dock, The Foundry Lofts
+
+"Why wait?" Patrick had asked at dinner the night before. "The meter is running. The keys work. Let's launch."
+
+So they didn't wait for August. They launched the next morning.
+
+The heavy-duty Liberty van was parked in the dedicated loading bay of The Foundry. Next to it was Uncle Mark’s pickup truck, the bed piled high with boxes marked OFFICE and CLOTHES.
+
+They weren't moving "dorm stuff." They were moving an entire ecosystem.
+
+The freight elevator at The Foundry was massive—originally designed to haul pallets of cotton bales, now perfect for hauling a life.
+
+## Time: 11:30 AM Location: The Master Bedroom (Unit 404)
+
+The first order of business was the anchor.
+
+Tom and Uncle Mark wrestled the new King-sized mattress through the doorway. It was a high-density memory foam model—firm enough for transfers, soft enough to prevent pressure sores.
+
+They dropped it onto the low-profile platform frame Patrick had assembled.
+
+"Center of the room," Patrick directed. "We need turning radius on both sides."
+
+Nichole rolled into the room. She inspected the setup. For the first time, their sleeping arrangement wasn't a compromise or a "medical necessity" squeezed into a guest room. It was the centerpiece of the master suite.
+
+To the left of the bed, they set up the charging station: outlets for the Apex ConvertiBook, the Titan AeroMotion batteries, and the emergency backup suction machine.
+
+It wasn't just a bedroom. It was the Recharge Bay.
+
+## Time: 1:00 PM Location: The Second Bedroom (The Command Center)
+
+While the women unpacked the kitchen, Patrick and Nichole took over the second bedroom.
+
+This wasn't a guest room. This was Bennett Dynamics HQ.
+
+"Desks against the south wall," Patrick ordered, directing Uncle Mark.
+
+They set up a long, continuous L-shaped workstation.
+
+- Station 1 (Patrick): Dual monitors for CAD work and engineering schematics.
+
+- Station 2 (Nichole): A custom-height cutout section where her wheelchair could roll directly under the desk. Her monitor was mounted on an articulating arm that could swing down to her eye level.
+
+They ran the ethernet cables. They plugged in the server tower.
+
+Nichole clicked her mouse, and the screens flickered to life. The room hummed with the sound of cooling fans.
+
+She tapped her screen.
+
+"THE. NETWORK. IS. LIVE."
+
+## Time: 2:30 PM Location: The Kitchen
+
+Aunt Carol and Ellen were marveling at the appliances.
+
+"Look at this stove, Nikki," Ellen called out.
+
+Nichole rolled into the kitchen. The stove was a high-end electric model, but the controls weren't on a back panel where she would have to reach over hot burners. They were mounted on the front face, oversized and easy to turn with the side of a hand.
+
+"And the washer," Carol pointed to the laundry closet.
+
+It was a front-loading industrial drum. Nichole could roll right up to it, open the door, and pull wet clothes out without standing up. The dryer was stacked right next to it, also at seated height.
+
+"And the dishwasher," Patrick noted, opening the machine. "Full size. No more washing dishes in a bathroom sink."
+
+It was a fully accessible ecosystem. For the first time, Nichole could theoretically cook a meal (or at least heat one up) and do her own laundry without asking for a single pair of standing legs to help her.
+
+## Time: 6:00 PM Location: The Living Room
+
+The sun was setting through the massive industrial windows, painting the loft in orange and purple light. The boxes were flattened. The pizza boxes were open on the coffee table.
+
+The family stood around, the mood shifting from "work" to "goodbye."
+
+This wasn't dropping kids off at a dorm for a semester. This was moving adults into their permanent residence.
+
+"Well," Tom said, jingling his keys. "You guys have everything? Food? Meds? Emergency numbers?"
+
+"We're good, Dad," Patrick said. He looked calm. He looked ready.
+
+Ellen walked over to Nichole. She bent down and hugged her daughter.
+
+"You call us," Ellen whispered. "For anything. The ferry ride is only twenty minutes."
+
+Nichole squeezed her mother’s hand. She typed quickly.
+
+"WE. ARE. ONLINE. GO. HOME. RELAX."
+
+Uncle Mark clapped Patrick on the shoulder. "Hold down the fort, Engineer."
+
+The family filed out. The heavy steel door clicked shut. The deadbolt slid home with a solid thunk.
+
+## Time: 8:00 PM
+
+The apartment was quiet. The only sound was the low hum of the refrigerator and the distant rumble of the city below.
+
+Patrick walked over to the windows. He looked down at Foundry Square. He could see the entrance to the subway station. He could see the lights of the city.
+
+Nichole rolled up beside him.
+
+They were nineteen years old. They had an apartment, a fully funded bank account, a secured grid, and four months to explore the city before a single professor told them what to do.
+
+"We did it, Nikki," Patrick whispered, looking at the reflection of his sister in the glass. "We're free."
+
+Nichole didn't look at the reflection. She looked at the city.
+
+She tapped her armrest.
+
+"PLAYER. ONE. READY."
+
+Patrick grinned. "Player Two ready."
+
+He turned away from the window.
+
+"How about we test that front-loading washer? I think I sweated through this shirt."
+
+Nichole spun her chair around, her motor whining happily on the polished concrete.
+
+"GAME. ON."
+
+Patrick and Nichole signed the lease. As their pens hit the paper, the final piece of the Gap Year locked into place.
+
+Mr. Caldwell handed Patrick two heavy black electronic key fobs.
+
+"These give you access to the main lobby, the elevators, your apartment door, and the basement entrance to the Metro station," Mr. Caldwell said. "Welcome to The Foundry."
+
+Nichole stared at the little black fob in Patrick’s hand. It was the key to the city.
+
+As they rolled out of the leasing office and into the sun-drenched lobby, the family erupted into cheers. Aunt Carol hugged Ellen, and Tom shook Patrick's hand.
+
+Uncle Mark walked over and leaned down next to Nichole's chair.
+
+"You guys have your own castle now," Mark said, his voice thick with pride. "But remember the rules of the grid. Redundancy. The Bennett Wing back in Portsmouth? That mini-apartment is yours forever. For the holidays, for the summer, or if you just want to come home and use the tub. You always have a base on the island."
+
+Nichole reached up and patted her uncle's cheek. She clicked her mouse.
+
+"THE. MACHINE. HAS. TWO. HOMES. NOW."
+
+"Exactly," Patrick grinned, looking around the lobby of their new building. "Now... we just have to figure out how to move all our stuff on the subway."
+

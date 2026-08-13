@@ -1,0 +1,21 @@
+# Part 5: The Flight Home
+
+The next morning, the Miller-Mason-Carter clan was a small, efficient army at Norfolk International Airport. The goodbyes were tearful but full of a new, profound sense of hope and excitement for the future.
+
+"You call us the second you land," Emily said, pulling all three of them into a final, massive group hug. "And we want a full demonstration of this new mPad app as soon as you have a prototype!"
+
+As they headed to the gate for their flight, Chloé looked at their boarding passes. "Okay, first leg is ORF to Minneapolis-Saint Paul, then on to Seattle," she confirmed.
+
+When it was time to pre-board, they made their way onto the plane. They had a full three-seat row to themselves. Chloé started to head for the middle seat out of habit, but Alex gently stopped her, a quiet, determined look on his face. He gestured for her to take the window seat.
+
+I WILL TAKE THE MIDDLE, his Quantum Design Studio voiced, its tone completely non-negotiable.
+
+Chloé and Megan exchanged a small, knowing, and deeply loving smile. They understood. This was his new rule, a simple but profound declaration of his needs. He would never take a window or an aisle seat on a flight again. To do so would mean having to choose between hugging Chloé *or* Megan. The middle seat was the only one that allowed him to be hugged by both.
+
+He settled into the middle seat, a look of profound, quiet contentment on his face. Chloé took the window, and Megan took the aisle. The moment they were all settled, he reached out his hands. Chloé took one, and Megan took the other. As the plane took off, he leaned his head against Chloé's shoulder, while Megan’s own head came to rest gently on his other side. He was in his fortress, his nest, a perfect, three-person cocoon of safety and security.
+
+Their connection in Minneapolis-Saint Paul (MSP) was as smooth and stress-free as James had planned. For the final, long leg of the journey to Seattle, their seating arrangement remained the same, an unspoken, unbreakable constant.
+
+They landed in Seattle late that evening, tired from the long day of travel but buzzing with a new, creative energy. They had returned to Virginia for a high school reunion, a trip back into the past. They were returning to Lynnwood with a whole new future, a brand-new set of tools, and a brilliant, world-changing idea. The real work was about to begin.
+
+

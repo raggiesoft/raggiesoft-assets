@@ -1,0 +1,70 @@
+# Part 6: The "Stiff Leg" Transfer (The Physical Test)
+
+## **Date:** Tuesday, December 27, 2005 **Time:** 6:30 PM **Location:** The Foundry Lofts, Parking Garage
+
+The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from "wet" to "glazed."
+
+By the time Patrick pulled the van into the covered garage of the Foundry Lofts, the relief was palpable. He had beaten the freeze.
+
+But now came the moment Patrick had been dreading since they left the PACU.
+
+For nineteen years, their transfer protocol had been the **"Deadlift Hug."** It was fast, intimate, and secure. He would scoop her up, she would wrap her arms around his neck, and for five seconds, she was weightless. It was the only way she liked to be moved.
+
+But looking at her legs now—stuck straight out in rigid blue foam immobilizers—Patrick knew the hug was impossible.
+
+He opened the side sliding door. The garage was cold, damp, and smelled of concrete and exhaust.
+
+Nichole looked up at him from the passenger seat. She was exhausted, pale, and shivering slightly under her layers. Her eyes were pleading for the usual scoop. *Just pick me up. Just get me warm.*
+
+Patrick shook his head gently.
+
+"I can't do the hug, Nikki," Patrick said, his voice dropping into his clinical register to mask his own fatigue. "If I scoop you, your knees will buckle. If your knees buckle, you tear the sutures."
+
+Nichole made a frustrated noise in her throat. She hated "clinical" transfers. They felt cold. They felt like being handled by a stranger.
+
+"We have to do it by the book," Patrick said, effectively putting his LPN hat on. "**Orthopedic Plank Protocol.** It’s going to feel stiff. It’s going to feel weird. But it keeps your legs straight."
+
+He deployed the modified manual wheelchair parallel to the sliding door and locked the brakes. He removed the armrest to create a bridge.
+
+"I need you to trust the hold," Patrick said.
+
+He didn't lean in for a hug. He widened his stance, planting his feet like a linebacker on the concrete floor. He reached in, sliding one arm under her shoulders and the other deep under her hips, locking his hands together to form a rigid cradle.
+
+It was a mechanical grip, not an emotional one.
+
+"On three," Patrick commanded. "You are a plank. Do not try to help. Do not try to curl. Stay stiff."
+
+Nichole looked at him. She hated this. She hated being a "plank." But she looked at her bandaged legs, and she looked at the focus in his eyes—the same focus she saw when he was studying for his boards.
+
+She took a breath. She stiffened her core. She surrendered to the protocol.
+
+"One. Two. Three."
+
+Patrick exhaled sharply as he lifted.
+
+It was awkward. He rotated his entire torso as a unit, swinging her rigid legs out of the footwell. As her legs cleared the doorframe, they swung wide, heavy and unbending.
+
+Patrick caught her ankles with his own hip, using his body as a soft barrier to stop the momentum before it could twist her hips.
+
+He shuffled backward, controlling the arc. He kept her completely flat, maintaining the zero-degree alignment the surgeon had ordered.
+
+"Descent," he grunted.
+
+He squatted, using his quads, lowering her slowly until her hips touched the wheelchair seat.
+
+*Touchdown.*
+
+She landed perfectly centered. Her legs remained straight, supported by the elevated leg rests he had pre-adjusted.
+
+Patrick straightened up, rolling his shoulders to release the tension. He didn't smile yet. He checked the bandages. No slippage. No grimace of acute pain.
+
+He leaned in and buckled the chest strap.
+
+"I know you hated that," Patrick whispered, the professional mask slipping just enough to show the brother underneath. "But the surgery held."
+
+Nichole looked up at him. She let out a long breath, releasing the tension in her neck. She didn't like the transfer, but she respected the skill. He hadn't hurt her.
+
+She gave him a tiny, tired thumbs up.
+
+"Okay," Patrick said, grabbing the push handles and draping her heavy wool blanket over her legs. "Let's get you upstairs. The heat is on."
+

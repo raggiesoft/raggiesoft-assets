@@ -1,0 +1,20 @@
+# Part 3: The Decision
+
+## Date: April 2043 Location: The Kitchen, Unit 404
+
+The papers were spread out on the island. The Deed: 95 West Main Road (Inherited, Mortgage Free). The Lease: The Foundry Lofts (Renewing in June).
+
+"The rent is going up again," Patrick noted, looking at the notice. "\$4,500 a month." He looked at the deed to the Portsmouth house. "Taxes on the Fortress are \$6,000 a *year*."
+
+Financially, it was a no-brainer. But emotionally, it was heavy. Moving back to Portsmouth meant admitting that the adventure was over. It meant leaving the center of the world and retreating to the edge.
+
+"If we move back," Patrick said, staring at his coffee, "we're isolated. The bus runs every 30 minutes, sure. But we won't be going to art galleries on Tuesday nights. We won't be 'urban professionals' anymore."
+
+Nichole looked out the window at the Braxton skyline. She loved this view. She loved the energy. But then she thought about the tub. The hydrotherapy tub in the Bennett Wing in Portsmouth. Deep. Hot. Jets that massaged her aching hips. The shower in the loft was great, but standing up to wash her was getting harder for Patrick. In the Portsmouth tub, he could sit on the bench next to her.
+
+She thought about the elevator. In Portsmouth, if the elevator broke, they were just stuck on the first floor—where the kitchen, bedroom, and living room were. In the Loft, if the elevator broke, they were trapped in the sky or buried underground.
+
+She reached for her mouse. WE. ARE. TIRED. PAT. THE. FORTRESS. IS. EASY. I. WANT. EASY.
+
+Patrick read the words. *I want easy.* He let out a long breath. He rubbed his eyes. "Me too, Nikki. Me too."
+

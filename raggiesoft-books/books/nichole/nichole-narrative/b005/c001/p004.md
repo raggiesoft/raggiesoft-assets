@@ -1,0 +1,151 @@
+# Part 4: The Promise
+
+## Location: Northwood High School, The Hallway outside the Gym Time: 10 minutes after the stampede
+
+Patrick dragged the *Titan AeroMotion* out of the gymnasium and into the cool, quiet hallway. The heavy doors swung shut, muting the relentless blaring of the band to a dull thrum.
+
+He hit the brakes. He immediately knelt in front of the chair.
+
+Nichole was shaking so hard the footrests were rattling. Her face was streaked with dust and tears. Her purple gown was torn at the shoulder, smudged with black rubber marks from someone’s shoe.
+
+She was hyperventilating—short, sharp gasps that sounded like a drowning victim fighting for air.
+
+She reached for her *VocaLink*. Her hands were trembling so violently she missed the keys three times before she connected.
+
+HOME GO NOW PLEASE
+
+She looked at him, her eyes wide and feral with panic. She tapped the screen again, harder.
+
+I WANT TO LEAVE THEY STEPPED ON ME I THOUGHT I WAS DEAD
+
+Patrick took her hands. He squeezed them, applying the "Vice Grip"—the deep pressure she needed to ground herself.
+
+"I know," Patrick said, his voice shaking with his own adrenaline. "I know. I've got you. You're safe."
+
+NO CEREMONY NO PEOPLE GO
+
+She tried to pull her hands away to unlock the brakes herself, desperate to flee the building.
+
+"Bennett!"
+
+Mr. Henderson, the history teacher, came jogging out of the gym. He looked flushed and stressed.
+
+"Patrick, thank god you found her," Henderson said, checking his watch. "Look, we need to get you both back in line. They're starting the presentation of diplomas in five minutes. You need to go to the 'B' section, and Nichole needs to go to the accessible ramp on the left."
+
+Nichole made a sound—a high, keening whimper of distress. She shook her head violently, burying her face in her hands.
+
+Patrick stood up. He didn't look like a high school student anymore. He looked like a wall.
+
+"She is not going to the ramp," Patrick said. His voice was flat, final, and terrifyingly calm.
+
+"Patrick, the seating chart—" Henderson started.
+
+"Burn the chart," Patrick snapped. "She is not leaving my side. We are walking together. I am pushing her. And if anyone tries to separate us again, we are walking out that door and never coming back."
+
+Henderson looked at Patrick’s face. He saw the dust on his cheek. He saw the tear in his gown. He saw the absolute, non-negotiable fury in his eyes.
+
+"Okay," Henderson said, putting his hands up. "Okay. We'll adjust. Just... get in line."
+
+Patrick turned back to Nichole. He crouched down again.
+
+"Nikki," he whispered. "We can go. If you really want to, we can leave right now."
+
+He reached out and gently brushed a smudge of dirt off her cheek.
+
+"But we earned this," Patrick said softly. "You worked harder than any of them. You dragged yourself to class through snow and pain and surgeries. If we leave now, they win. The people who stepped on you win."
+
+Nichole sniffled. She looked at the door to the parking lot. Freedom. Silence.
+
+Then she looked at Patrick.
+
+"I will be right there," Patrick promised. "I will have my hands on this chair the entire time. I won't let go. Not for a second."
+
+Nichole looked at her lap. She saw the torn gown. She felt small and broken.
+
+Patrick reached into his pocket. He pulled out her mortarboard cap. It was crushed, the cardboard stiffener bent in half.
+
+"Here," Patrick said.
+
+He carefully popped the cardboard back into shape. He smoothed the purple fabric. He used the bobby pins she had stored in her armrest to pin it securely to her hair, making sure the gold tassel was hanging perfectly on the right side.
+
+"You look like a graduate," Patrick smiled. "You look like a Lion."
+
+Nichole took a deep, shuddering breath. She tapped her armrest once. *Okay.*
+
+## The Crossing
+
+When the name "Bennett" was called, the gym went quiet.
+
+They didn't call two names. They just said "The Bennetts."
+
+Patrick didn't walk in the line of boys. He walked behind the chair.
+
+He pushed her up the ramp. The wheels hummed on the wood.
+
+He didn't look at the principal. He didn't look at the crowd. His eyes were locked on the back of her head, watching for the slightest tremble.
+
+They reached center stage.
+
+Nichole reached out with her left hand—her good hand—and took her diploma. Patrick took his.
+
+They didn't stop to shake hands. Patrick spun the chair smoothly, executing a perfect pivot, and rolled her across the stage.
+
+For a moment, the crowd hesitated. They saw the torn gown. They saw the dust on Patrick’s knees. They realized something had happened.
+
+Then, the applause started. It wasn't polite applause. It was a roar.
+
+Patrick didn't care. He just kept pushing.
+
+## Location: Northwood High School, The Hallway outside the Gym Time: 12:30 PM (Immediately following the Tassel Ceremony)
+
+The moment the tassels were turned, Patrick didn't wait for the recessional music. He didn't wait for the rows to be dismissed.
+
+He unlocked the brakes on the *Titan AeroMotion* and pivoted the chair hard to the left.
+
+"Hang on," Patrick muttered.
+
+He sprinted toward the side exit—a heavy steel door marked with a red sign: EMERGENCY EXIT ONLY - ALARM WILL SOUND.
+
+Patrick didn't hesitate. He didn't care about the sign. He didn't care about the administration. He hit the crash bar with his full weight.
+
+CLANG. WHEE-WHEE-WHEE-WHEE!
+
+The local alarm shrieked, a piercing, staccato siren that cut through the gym's cheering. Heads turned. A teacher pointed.
+
+Patrick ignored them all. He shoved the chair through the doorway and burst into the bright, hot Virginia sunlight.
+
+The door swung shut behind them on its hydraulic closer. The shrieking alarm was instantly muffled, then silenced as the magnetic seal re-engaged.
+
+They didn't stop at the sidewalk. Patrick kept running, pushing the chair over the curb and onto the grass. He pushed her all the way to the far end of the parking lot, away from the cars, away from the crushing mob of parents, and away from the noise of the band.
+
+He stopped under the shade of a lone oak tree at the edge of the property.
+
+The silence was beautiful. The only sound was the wind in the leaves and the distant cry of seagulls from the landfill.
+
+Nichole slumped in the chair. The adrenaline crash hit her hard. She started crying again—soft, exhausted sobs of relief.
+
+Patrick walked around to the front of the chair. He looked at his grass-stained dress shoes. He knelt in the dirt, ruining the knees of his graduation pants without a second thought.
+
+He wrapped his arms around her waist, burying his face in her lap. She wrapped her arms around his neck, holding on for dear life.
+
+"I'm sorry," Patrick whispered into her torn gown. "I'm so sorry I lost you."
+
+Nichole shook her head against his shoulder. She tightened her grip, her fingers digging into the fabric of his gown.
+
+She pulled back just enough to type one last thing on her screen.
+
+PROMISE ME
+
+"Anything," Patrick said.
+
+NEVER LET GO NOT IN A CROWD NOT EVER
+
+Patrick looked her in the eye. He took her hand—the one that had been stepped on—and kissed her knuckles.
+
+"I promise," Patrick said. "I will never be more than an arm's reach away. For the rest of our lives. You and me against the world."
+
+Nichole hugged him tightly. It was the strongest hug she had ever given. It was her "Yes."
+
+They stayed there under the tree for an hour, ignoring the graduation parties starting around them, just breathing the fresh air, safe in the silence of the Fortress they had built for two.
+
+

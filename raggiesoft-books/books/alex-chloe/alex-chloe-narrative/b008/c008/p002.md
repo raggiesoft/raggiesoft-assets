@@ -1,0 +1,32 @@
+# Part 2: The Clinic Visit and a Clean Slate
+
+True to her word, Chloé had found a clinic in Seattle’s University District, well-regarded for its discreet services and, crucially, its ability to offer support in French. The bus journey from Lynnwood on Transit Authority of the Puget Sound was undertaken with a quiet gravity, Chloé’s steady presence a constant reassurance for Alex.
+
+Upon arriving, they were met with a calm, professional atmosphere. Chloé, speaking in gentle English, explained their need for French-language support and that Alex required both STI screenings and a consultation regarding fertility testing. The receptionist was immediately understanding.
+
+Within minutes, a nurse named Sylvie, her smile warm and her Metropolitan French surprisingly fluent, greeted them. "Bonjour Monsieur Miller, Madame Miller," she said, using Chloé's married name naturally. "Bienvenue. Comment puis-je vous aider aujourd'hui?" *(Translation: Hello Mr. Miller, Mrs. Miller. Welcome. How can I help you today?)*
+
+Chloé briefly explained in French that Alex needed routine health screenings following a difficult situation and was also interested in understanding his fertility status. Nurse Sylvie listened with visible empathy, her gaze kind and direct when she addressed Alex, always allowing him time to formulate his responses via his AAC, which was set to its Québécois French output.
+
+Nurse Sylvie detailed the STI testing process clearly and respectfully. Then, she addressed the fertility testing. "Concernant la fertilité, Monsieur Miller," she explained, "nous pouvons faire un premier dépistage aujourd'hui avec votre échantillon. Cela nous donnera une indication initiale. Pour une évaluation absolument concluante, des tests plus approfondis avec un spécialiste seraient nécessaires par la suite, mais nous pouvons commencer le processus." *(Translation: Regarding fertility, Mr. Miller, we can do an initial screening today with your sample. This will give us an initial indication. For an absolutely conclusive evaluation, more in-depth tests with a specialist would be necessary afterwards, but we can begin the process.)*
+
+Alex typed his questions, and Nurse Sylvie answered with patience and sensitivity. The fact that he could understand everything directly, in a language that felt safe, with Chloé by his side translating any nuanced medical terms if needed, significantly eased his anxiety. The actual sample collections for both sets of tests were handled with utmost professionalism and regard for his dignity.
+
+The wait for the results over the next few days was subtly tense. Alex tried to focus on his remote college work, and Chloé on her NPU studies, but the unspoken questions hung in the air of their small Lynnwood apartment. Chloé did her best to maintain a normal, comforting routine.
+
+When the clinic called Chloé with the initial results, she took the call privately first, her heart pounding. Then, with a deep, slow breath of profound relief regarding one part, and gentle preparedness for the other, she went to Alex, who was waiting anxiously in the living room.
+
+"Alex," she said, kneeling beside his chair, her voice soft, her eyes shining. She spoke in French. "Les résultats des tests ITS sont arrivés. Tout est clair, mon cher. Tu es en parfaite santé. Pas d'infections." *(Translation: Alex. The STI test results are back. Everything is clear, my dear. You are in perfect health. No infections.)*
+
+An immense, unspoken weight lifted from both of them. Alex closed his eyes for a moment, a shudder passing through him. Vera’s physical violation, as horrific as it had been, had not left *that* particular lasting scar. He reached for Chloé’s hand, his grip tight.
+
+Chloé took another gentle breath, her expression turning incredibly tender. "Et pour le test de fertilité préliminaire, Alex..." she began. "Les premiers résultats indiquent... eh bien, ils montrent que, comme moi, il semble que tu ne pourras pas concevoir d'enfants biologiquement. Ton sperme... les médecins disent qu'il est comme 'tirer à blanc'. Comme l'infirmière Sylvie l'a expliqué, d'autres tests plus approfondis seraient nécessaires avec un spécialiste pour confirmer cela absolument, mais c'est ce que l'analyse initiale suggère très fortement." *(Translation: And for the preliminary fertility test, Alex... The initial results indicate... well, they show that, like me, it seems you won't be able to conceive children biologically. Your sperm... the doctors say it's like 'shooting blanks'. As Nurse Sylvie explained, other, more in-depth tests would be needed with a specialist to absolutely confirm this, but this is what the initial analysis very strongly suggests.)*
+
+Alex absorbed this news quietly. It wasn't a shock like the fear of an STI had been. Knowing about Chloé's infertility for so long, and now this strong indication about himself... it felt like another piece of their intertwined reality, another way their paths, their very bodies, mirrored each other in unexpected ways. There might be a quiet flicker of sadness, a resignation for a possibility he hadn't actively considered but that was now being framed, yet it was strangely buffered by Chloé's presence, by their shared journey.
+
+He looked at Chloé, whose eyes were filled with love and understanding. He typed on his AAC: "ALORS... LE PREMIER PAS EST FAIT. PAS D'ITS. C'EST LE PLUS IMPORTANT MAINTENANT. POUR LE RESTE... NOUS VERRONS ENSEMBLE, AVEC LES AUTRES TESTS." *(Translation: SO... THE FIRST STEP IS DONE. NO STIS. THAT'S THE MOST IMPORTANT THING NOW. FOR THE REST... WE WILL SEE TOGETHER, WITH THE OTHER TESTS.)*
+
+Chloé brought his hand to her cheek. "Oui, Alex. Pas d'ITS. C'est une immense victoire. Et pour le reste, nous sommes ensemble, quoi qu'il arrive. Toujours." *(Translation: Yes, Alex. No STIs. That's a huge victory. And for the rest, we are together, no matter what. Always.)*
+
+The initial all-clear on the STIs was a vital reclamation of his physical well-being. The preliminary news about his fertility, while significant, was something they would face together, seeking conclusive answers in the coming weeks. For now, the most immediate shadow had lifted.
+

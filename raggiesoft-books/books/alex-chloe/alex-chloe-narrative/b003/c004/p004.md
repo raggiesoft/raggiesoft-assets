@@ -1,0 +1,56 @@
+# Part 4: The Last Farewell (Summer 2000)
+
+As dusk settled over the Leclercs' backyard, painting the sky in soft shades of purple and orange, the boisterous energy of the reunion began to wind down. A pleasant, contented weariness had replaced the earlier chaotic excitement. It was time to say goodbye.
+
+The farewells were a long, heartfelt, and quintessentially Québécois affair. There were prolonged hugs, kisses on both cheeks (*la bise*) for everyone, and loud, overlapping promises to visit again soon. Geneviève pulled Emily into a warm embrace. "You must come back next summer! For longer!" David shook James's hand firmly. "It was a true pleasure to meet your family, James. You are welcome here anytime."
+
+Mathieu gave Chloé a brotherly shove. "Don't be a stranger, Vermont." Isabelle gave her another tight, sincere hug, whispering, "You have to write to me!"
+
+The entire Leclerc clan extended their warmth to Alex, who found himself receiving gentle pats on the shoulder and kind smiles. Uncle David clapped him on the arm. "You are a good man, Alex Miller. You come back and see us, you hear?"
+
+Finally, after a dozen last goodbyes, the six of them managed to pile back into the Mason minivan, their hearts full and their bellies even fuller. A chorus of "Au revoir!" and "Safe travels!" followed them as Thomas pulled away from the curb.
+
+For the final time on their trip, they made the short drive from Stanstead to the U.S. Port of Entry in Derby Line. As they approached the familiar brick customs building, they could see Beth on duty, her shift nearing its end. She saw the minivan and leaned out with a knowing smile.
+
+"Heading back for the night?" she asked as they rolled to a stop.
+
+"That's the plan," Thomas confirmed. "We were at my sister-in-law's for the family reunion. This is our last time across for this trip. We're heading back to Virginia first thing in the morning."
+
+"Ah, the big drive home," Beth said sympathetically. "Well, I won't hold you up. I assume you didn't bring the whole party back with you?"
+
+"Just leftovers and some very good memories," Sophie replied.
+
+"The best kind of souvenirs," Beth said with a nod. "Alright folks, you're all clear. Have a good night's sleep before you hit the road tomorrow. It was good seeing you Masons back in town."
+
+"You too, Beth," Thomas said, and with a final, friendly wave, they were back in the United States.
+
+A few minutes later, they arrived at the Derby Line Inn. The check-in was simple, and soon they were back in their adjoining rooms. The four parents congregated in the room with the two queen beds, talking in low, tired voices about the wonderful day.
+
+In the connecting room, Alex and Chloé were already getting ready for bed. The day had been incredible, but also incredibly draining for Alex. Chloé, knowing this, helped him get a glass of water and made sure his AAC was charging on the nightstand.
+
+They settled into the large king-sized bed, the familiar comfort of the routine a welcome anchor after the day's excitement. The connecting door to their parents' room was propped open, the soft murmur of their conversation a soothing backdrop.
+
+"That was..." Chloé whispered in the dark, "a lot."
+
+Alex, already half-asleep, reached for her hand, his fingers lacing with hers. He didn't need his device. He just gave her hand a gentle, grateful squeeze. It said everything. *It was a lot. And it was perfect. And I'm glad you were there.*
+
+Chloé squeezed back, understanding completely. Within minutes, their breathing evened out, two exhausted but deeply contented teenagers falling asleep, their incredible summer adventure in this town of two countries drawing to a peaceful close. The long road home to Virginia was waiting for them in the morning.
+
+Outline for the End of the Trip (Start of a new "Departure" Chapter 5)
+
+Part X: The Last Farewell
+
+The End of the Party: As dusk settles, the reunion winds down. The scene is filled with long, emotional Québécois goodbyes—hugs, kisses on both cheeks, and loud promises to visit again soon. The Leclercs and other relatives extend a heartfelt, genuine invitation for the Millers to return anytime.
+
+The Final Crossing: The Mason minivan makes its final, casual southbound crossing from Stanstead to Derby Line to return to the hotel for their last night. The interaction with the U.S. officer (maybe Frank or Beth again) is brief, familiar, and tinged with the happy exhaustion of the day.
+
+Part Y: The Journey Home
+
+An Early Start: The next morning, they pack the minivan for the final time. There's a sense of bittersweet finality. They might make one last stop at a Derby Line diner for a classic American breakfast.
+
+The Drive South: The long drive back to Virginia serves as a bookend to their journey north. The conversation is more reflective, filled with memories of the trip. The Millers express their profound gratitude for the experience. Alex and Chloé might be quiet in the back, already processing the incredible adventure and perhaps feeling sad that it's over, but their physical closeness a constant comfort.
+
+The Final Image: The chapter concludes as they cross back into Virginia, leaving the unique world of the border far behind, filled with memories of a special time and place, unknowingly carrying the last impressions of a world on the cusp of permanent change.
+
+
+

@@ -1,0 +1,72 @@
+# Part 8: Leftovers, Bus Schedules, and Locked Doors (Sunday Evening/Night)
+
+The rest of Sunday passed under the heavy, oppressive cloud left by the previous day's arguments and Delores’s continued attempts to control Leo and undermine Stella. Luna remained largely invisible, barricaded in her room or behind her MagnaByte screen. Stella navigated the hours, maintaining a strained civility for Leo’s sake.
+
+When dinnertime arrived, Stella simply pulled out the leftover spaghetti from the night before. Delores looked at the reheated pasta with barely concealed disdain. "Oh," she said. "Leftovers. How... quaint." The meal was quick and silent. Luna didn't emerge.
+
+As the evening drew to a close, Delores started thinking about their departure the next morning. "We should check the bus schedule," she announced, heading towards Stella’s computer, assuming they'd leave Monday as originally planned when Stella first proposed the visit.
+
+She pulled up the Coastal Virginia Transit Authority (CVTA) website and began scrolling through the schedules for Monday. Her face suddenly tightened in frustration. "Are you kidding me?" she muttered, reading the holiday alert banner. "Tomorrow's Columbus Day! They're running a *Saturday* schedule!"
+
+She quickly checked the specific routes needed for the multi-transfer journey from Norfolk back to Portsmouth, realizing the reduced frequency would make the already long trip even worse. Then she checked the connecting Route \#85 in Portsmouth, the one required for the short but necessary final leg from Churchland Shopping Center to their apartment area near Twin Pines and Gateway Drive. Her expression turned thunderous. "And the \#85 doesn't run *at all* on Saturdays! Unbelievable!"
+
+She briefly considered calling her mother for the short ride from Churchland, then remembered with annoyance, "Right, Mom's working the holiday shift tomorrow."
+
+Trapped by the bus schedule and her mother's unavailability for the crucial final leg, she was stuck. Stella, overhearing the commotion, walked over. "Problem?"
+
+"The stupid buses aren't running right tomorrow because of the holiday," Delores snapped. "The \#85 is completely offline."
+
+"Looks like you're stuck here until Tuesday then," Stella pointed out calmly. "Unless you want me to just drive you both back? We could leave whenever you want tomorrow morning, be there in thirty minutes."
+
+Delores shot Stella a venomous look. The thought of relying on Stella was clearly unthinkable, even if it meant spending another entire day and night in this house. "No," she snapped curtly. "Absolutely not. We are *not* getting back in the car with you or Luna. We'll wait for the regular weekday service, including the \#85, on Tuesday morning."
+
+Her stubborn refusal cemented their fate for another tense 24 hours. She stalked off towards Leo's room, calling his name. The familiar dread returned for Stella. The click of Leo's bedroom door locking echoed the finality of Delores's decision.
+
+A few minutes later, there was a soft knock on Stella's master bedroom door. Stella opened it to find Luna standing there, looking small and miserable, clutching her pillow.
+
+"Stella?" Luna whispered. "Can I... can I stay in here tonight? With you?" She looked towards Leo's closed door. " I can't sleep in my room. Knowing she's... *still here*... and in there. I just... I can't. "
+
+Stella pulled her into a hug. "Of course, you can. Come on in." They settled onto Stella's large king-sized waterbed.
+
+"I hate her so much, Stella," Luna finally whispered fiercely. "She's horrible to him..."
+
+"I know," Stella whispered back. "Believe me, I hated every second... This weekend... it just shows me how much worse it must be for him over there. We *have* to help him, Lu. But it has to be smart. It has to be when *he's* ready."
+
+They lay in silence for a few moments, the weight of the situation heavy between them. Stella shifted slightly, propping herself up on an elbow to look directly at Luna in the dim light.
+
+"Lu," she said quietly, her voice intense, capturing Luna’s full attention. "There's something else... something really, really important we need to talk about, just in case."
+
+Luna looked back, sensing the gravity in Stella's tone. "What is it?"
+
+"Have you ever heard of a collect call?" Stella asked.
+
+Luna frowned, thinking. The term sounded vaguely familiar, maybe something from an old movie, but she shook her head. "No. What is it?"
+
+"Okay," Stella took a breath, choosing her words carefully. "Normally, when you make a phone call, especially from a payphone, the person making the call pays for it, right?" Luna nodded. "Well, a collect call is the opposite. It's a way someone can make a call, usually through an operator, and have the person they are *calling* pay the charges instead."
+
+"Why would someone do that?" Luna asked, looking puzzled.
+
+"Usually," Stella explained, "it's because the person making the call doesn't have any money or coins on them. But for Leo..." she paused, meeting Luna's eyes significantly, "...it could also be an emergency way to reach us if something happens. If he's somewhere, maybe stranded, and can't use his own phone or device, or has no money... making a collect call might be his only option to get help."
+
+Stella continued, "Now, think about it - if something happened to his AAC device, like if it got broken or taken..." *(Her voice tightened slightly at the thought)* "...he wouldn't be able to just speak to the operator easily to set up that collect call. That's where something called a TTY might come in. Have you ever seen those special phones, sometimes near payphones in airports or public buildings, that have a keyboard and a little text screen?"
+
+Luna wrinkled her brow, then gave a hesitant nod. "Maybe? Like... for Deaf people?"
+
+"Exactly," Stella confirmed. "TTY stands for TeleTYpewriter. People who are Deaf or have trouble speaking use them to type messages back and forth over the phone line, usually with a relay operator helping. So, if Leo's AAC was broken, he might *have* to find one of those TTY phones to type his request for an emergency collect call to the operator. The operator would then type back to him on the little screen."
+
+She leaned closer, her voice dropping to an urgent whisper. "The reason I'm telling you *both* things – collect calls and TTYs – is this: If you ever get a call from an operator asking if you'll accept charges from Leo Porter, especially if they mention it's a TTY call, I need you to say yes. Immediately. Don't ask questions, don't worry about the cost... I don't care if it's three o'clock in the morning... You accept the charges. Always. Understand?"
+
+Luna stared back, the layers of potential emergency settling heavily. She nodded slowly. "Okay, Stella. I understand. Accept the charges from Leo. TTY or regular. Anytime. No matter what."
+
+"Okay," Stella affirmed, squeezing Luna's hand. "And remember the other part. If I'm not home when that call comes... after you accept the charges, you immediately tell the operator you need to make it a three-way call. Give them my cell number... and tell them to get me on the line *right away*... Ask the operator to add me to the call."
+
+Luna repeated, processing the steps. "Accept the call. Tell operator three-way. Call your cell."
+
+"Exactly," Stella confirmed. "Crucial I know right away."
+
+Luna nodded again, more firmly this time. "Got it."
+
+"Good," Stella nodded, relief mixing with the underlying fear that prompted the conversation. "I'm going to explain all this to him Tuesday morning too... So he knows all the ways he might be able to reach us if he ever needs help."
+
+The unspoken fear hung heavily between them. Another sleepless night stretched ahead, filled with worry for the boy behind the locked door down the hall.
+

@@ -1,0 +1,46 @@
+# Part 3: The Mic Drop – 4:05 PM
+
+Abbey leaned over the table, her sheer physical density dominating the room, and dictated the absolute, non-negotiable terms of my high school transition.
+
+Dr. Wallace’s pen shook slightly as he filled out the official district IEP matrix exactly as instructed:
+
+- **Primary Placement:** Tobias Mercer will attend his zoned school, Northwood High School. The Ocean Lakes placement is formally and permanently declined.
+
+- **Elective Mandate:** Tobias will be enrolled in the high school band program. Supported by the middle school director's recommendation, he is exclusively assigned to the front ensemble (the pit). This is a required accommodation to ensure he remains in the immediate vicinity of his sister Samantha.
+
+- **Locker Assignment:** Standard high school policy dictates freshmen must share lockers, while upperclassmen receive private ones. This policy is overridden. Tobias will share a locker exclusively with his sister, Samantha.
+
+- **Scheduling Synchronization:** Tobias and Samantha must be assigned the exact same lunch period for daily feeding and deep-pressure regulation.
+
+- **Transportation Waiver:** All district-provided specialized transportation is officially declined. Tobias will arrive and depart campus exclusively via private transport in his sister's vehicle.
+
+- **Standard Accommodations:** The district will provide a dedicated 1-to-1 aide strictly for physical navigation and restroom transfers. Tobias will be enrolled in Adapted Physical Education (APE) to protect his joints. He is granted explicit, documented permission to use the student-restricted campus elevator, overriding the standard disciplinary policy against student usage, and is granted a two-minute early dismissal from all classes to navigate the hallways before the bell rings.
+
+Dr. Wallace finished writing. He stared at the completed matrix, the reality setting in that he had just officially signed away the district's top scorer to a neighborhood school with an underfunded science department.
+
+He looked up at me, his administrative ego unable to handle the absolute defeat. He couldn't help himself. He had to make one final, pathetic comment.
+
+"I have signed it, Toby," Dr. Wallace said softly, shaking his head. "You are going to Northwood. But I have to say... walking away from a multi-million-dollar facility, walking away from the grant funding and the elite resources we built specifically for minds like yours... it is a profound waste."
+
+The room went dead silent.
+
+Grandmother Eleanor did not speak. Abbey and Sarah did not move. They didn't need to defend me. They had secured the perimeter and finalized the legal paperwork; the actual intellectual execution was entirely mine.
+
+I raised my right hand and rested it over my dynamic-display speech board. My fingers began to fly across the grid. The sharp *click-click-click* of my selections echoed off the cinderblock walls of the Morrison conference room. I queued up the exact budgetary figures and maintenance logs I had memorized from the *Virginian-Pilot* archives regarding the school's highly controversial 1994 opening.
+
+I hit the activation button. The digitized, synthesized voice cut through the room with absolute mathematical precision.
+
+***"Virginia Beach City Public Schools spent exactly forty-two thousand, one hundred and fifty-one dollars to construct an electronic, sun-sensing flagpole on the roof of Ocean Lakes High School. An expenditure so reckless that the assistant superintendent who authorized it was fired for improper spending before the building even opened."***
+
+Dr. Wallace’s mouth opened slightly, but no sound came out. Mr. Harrison stared at the laminate table.
+
+***"Furthermore,"*** my device continued, cold and unyielding, ***"because you mounted the mechanism in the center of a pyramid skylight where the Dam Neck Annex winds continually shred the fabric, the flags constantly jam in the retraction motor. Consequently, your district spends an additional three thousand dollars every few months to rent a bucket crane just to unjam it."***
+
+I maintained unblinking eye contact with Dr. Wallace as my fingers tapped the final sentence.
+
+***"You do not possess elite resources, Dr. Wallace. You possess a broken electronic flagpole that hemorrhages three thousand dollars of taxpayer money per repair. Northwood High School possesses my sister. My decision is final."***
+
+There was absolutely nothing left to say. The intellectual demolition was total.
+
+Dr. Wallace quietly gathered his files, snapped his briefcase shut, and stood up. The district personnel practically fled the guidance suite, looking deeply relieved that they had managed to escape the meeting without Eleanor dropping the sealed complaint envelope into the mail.
+

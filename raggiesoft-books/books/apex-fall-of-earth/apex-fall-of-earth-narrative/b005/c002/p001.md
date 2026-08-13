@@ -1,0 +1,64 @@
+# Part 1: The River – Thursday, May 9, 2045 – 06:30
+
+For the first time in their entire lives, Wyatt and Sarah were not woken up by the harsh, mechanical blare of a shift klaxon or the sudden, blinding flicker of overhead fluorescent tubes.
+
+They woke up to the sun.
+
+The first golden rays of the morning breached the towering canopy of the alien pines, spilling across the clearing and warming the damp earth. The cyan bioluminescence of the moss had gently faded with the dawn, replaced by the rich, vibrant greens of the waking forest. The melodic, chiming calls of the nocturnal wildlife gave way to the bright, cheerful songs of the morning birds.
+
+Inside the heavy deployment bag, Wyatt stirred. He blinked his eyes open, squinting against the natural sunlight filtering through the leaves. His internal biological clock—battered by years of rotating corporate shifts and subterranean darkness—was finally, seamlessly locking into a natural circadian rhythm.
+
+He looked down. Sarah was still fast asleep, her bare chest rising and falling in a slow, peaceful rhythm against his side, her face buried in the crook of his neck.
+
+Wyatt didn't move. He just laid there in the dirt, the cool morning breeze drifting over his exposed shoulders, and listened to the river. There was no schedule today. There was no quota.
+
+A few minutes later, Sarah let out a soft sigh. Her eyelashes fluttered, and she slowly opened her eyes, immediately met by the sight of the green canopy overhead and Wyatt’s calm, adoring gaze.
+
+A slow, brilliant smile spread across her face. "Good morning."
+
+"Good morning," Wyatt murmured, his voice thick with sleep. He leaned down and kissed her forehead.
+
+Sarah stretched her arms above her head, the cool morning air washing over her bare skin as she pushed the heavy top layer of the sleeping bag down. She sat up, looking around the quiet, sunlit clearing. They were completely alone. There were no cameras, no neighbors, and absolutely no expectations.
+
+She looked down at her discarded clothes from the night before, resting in a pile on the moss, and then looked toward the rushing water of the valley.
+
+"You know," Sarah said, a playful spark lighting up her eyes as she stood up from the sleeping bag, entirely nude in the morning sun. "There is absolutely no one on this planet to tell us we have to put those back on."
+
+Wyatt laughed, a deep, chest-rumbling sound. He kicked the rest of the sleeping bag off and stood up beside her, stretching his heavily muscled frame in the warm breeze. "I don't think the trees are going to file a complaint with HR."
+
+They left their clothes in the dirt and walked side-by-side down the gentle slope toward the river. The morning dew on the grass felt incredible against their bare feet and ankles.
+
+They waded into the crystal-clear water. It was brisk—a refreshing shock that instantly washed away the grogginess of sleep and the lingering sweat of yesterday's labor.
+
+Sarah gasped, laughing as she dove completely under the surface, her dark hair fanning out in the gentle current. She surfaced a moment later, wiping the water from her eyes, and splashed a handful of the freezing river directly at Wyatt’s chest.
+
+Wyatt gasped at the cold, immediately lunging forward and wrapping his arms around her waist, lifting her up out of the water as her laughter echoed through the valley.
+
+They spent the next half hour just playing in the current, washing the dirt from their skin and tangling their limbs together in the shallow pools near the bank.
+
+"This has to be how our ancestors did it," Sarah said, resting her arms on Wyatt's shoulders as the water rushed past their waists. "Thousands of years ago, before the concrete and the deep-core drills. Just waking up with the sun and washing in the river."
+
+"They had the right idea," Wyatt agreed, pulling her in for a wet, lingering kiss.
+
+Eventually, their stomachs began to rumble, reminding them that they still possessed very human metabolisms.
+
+They waded out of the river, letting the warm **23.8°C** ambient air dry their bare skin as they walked back up the slope to their makeshift campsite. Wyatt bent down, rolling the heavy sleeping bag tightly together and tucking the foam pillow under his arm, while Sarah gathered up their dirty clothes from yesterday.
+
+They walked barefoot up the grooved metal ramp and back into the quiet, climate-controlled cargo bay of *The Nomad*.
+
+"Alright," Sarah said, heading straight for the ladder that led to the upper living quarters. "I'm going to raid the pantry. I saw some vacuum-sealed bacon and powdered eggs in there yesterday."
+
+"Bacon?" Wyatt asked, stopping at the base of the ladder and looking down at his completely bare torso and legs. He raised an eyebrow at her. "Sarah, as much as I love this new dress code... standing naked in front of a frying pan full of spitting, hot grease sounds like a tactical error."
+
+Sarah paused, visualizing the exact physics of hot oil. She grimaced, letting out a sharp laugh.
+
+"Point taken," she agreed. "Second-degree burns are not on the pioneer itinerary. Let's get dressed."
+
+They headed into the quarters and opened the billionaire's pristine wardrobe lockers. They dug past the heavy canvas work clothes and found exactly what they needed for a warm spring day on the frontier.
+
+A few minutes later, they emerged. They were still barefoot, keeping their sacred promise to the planet, but they had traded their nudity for fresh, clean underwear, perfectly worn-in jean shorts, and soft cotton t-shirts.
+
+Sarah walked into the ship's compact galley, her bare feet padding softly against the deck plates. She pulled a heavy cast-iron skillet from the rack, fired up the induction stove, and tore open a pack of preserved bacon.
+
+As the meat hit the hot pan with a loud, satisfying sizzle, Wyatt leaned against the galley counter, crossing his arms and watching her cook. They were out of the woods, back inside a billionaire's dreadnought, but the profound, quiet peace of the morning hadn't faded at all.
+

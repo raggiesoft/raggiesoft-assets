@@ -1,0 +1,64 @@
+# Part 10: The Pulse of the City
+
+## December 28, 2005 Narraganset Esplanade Station - Level 0 (The Deep) 02:30 PM
+
+Having secured the hotel rooms and eaten lunch, the Fortress was safe. But Leo was restless. He knew the Regional Rail was dead. He knew the buses were buried. But his internal map told him that physics didn't apply 60 feet underground.
+
+"I want to see the heartbeat," Leo typed.
+
+Luna grabbed her coat. "Let's go down."
+
+They took the elevator from the hotel lobby, bypassed the empty Concourse, and descended into **The Deep**.
+
+The air pressure changed as the elevator dropped. The temperature stabilized at a constant, geothermal 55 degrees.
+
+They stepped out onto the island platform. It was eerie. Usually, this platform was a mosh pit of students and commuters. Now, it was a concrete cathedral of silence, lit by the dim emergency power settings.
+
+Leo rolled to the edge. He looked at the overhead display.
+
+BLUE LINE - WEST END - 18 MIN RED LINE - STADIUM/ARMORY - 14 MIN SERVICE ALERT: SURFACE STATIONS SUSPENDED
+
+"It's shrinking," Luna whispered, her voice echoing. "The whole map just got cut in half."
+
+"SURVIVAL MODE," Leo typed. "IT PROTECTS THE CORE."
+
+A chime sounded—not the cheerful arrival chime, but a slower, solitary note.
+
+From the dark tunnel to the west, twin headlights appeared. A **Blue Line** train glided in. It wasn't moving at its usual aggressive speed; it was crawling, sensing for power fluctuations.
+
+The doors hissed open.
+
+Only three people got off.
+
+1.  A nurse in scrubs (heading to the University Hospital).
+
+2.  A police officer with snow on his boots.
+
+3.  A BTA track inspector carrying a heavy flashlight.
+
+They nodded to each other—a silent brotherhood of the essential.
+
+Leo looked into the train car. It was warm. The lights were on. The digital map on the wall showed the stops. The lights for **Fairview** and **Suburbia** were dark. Only the **Underground** lights were glowing.
+
+"THE VEINS ARE CLOSED," Leo typed. "BUT THE HEART IS PUMPING."
+
+"It's the lifeline," Luna agreed. "If you get sick, or if the power goes out upstairs, this is the only way to move."
+
+The conductor stuck his head out of the window. He saw the twins.
+
+"You two need a ride to the Hospital?" he asked, his voice echoing.
+
+"No," Luna called back. "Just checking the lines. We're staying at the hotel."
+
+"Smart," the conductor said. "Stay dry. It's nasty up top. We're cutting back to 30-minute headways soon."
+
+The doors closed. The train hummed and vanished back into the tunnel, carrying the nurse to her shift.
+
+Leo sat there for a moment, listening to the silence return. He felt a deep, vibrating rumble in the floor—not a train, but the earth itself, insulated from the storm above.
+
+He realized why he loved the BTA. It wasn't just because it was convenient. It was because it was resilient. When the roads failed, when the luxury cars spun out, when the King's College shuttle gave up... the trains kept rolling.
+
+*"I LIKE TUNNELS,"* he typed, turning his chair back toward the elevator. *"THEY ARE SAFE."*
+
+They ascended back to the surface, leaving the slow, steady heartbeat of the city to pump in the darkness below.
+

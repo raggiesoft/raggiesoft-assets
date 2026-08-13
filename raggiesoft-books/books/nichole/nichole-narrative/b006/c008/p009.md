@@ -1,0 +1,117 @@
+# Part 10: The Credential Hunt
+
+## **Date:** October 4, 2003 **Time:** 8:30 PM **Location:** The Bennett Wing (Mini-Apartment), 95 West Main Road, Portsmouth, RI
+
+The contractors had gone home for the weekend. The house was quiet, save for the rhythmic *thump-thump* of the dishwasher in the main kitchen where Aunt Carol was cleaning up after dinner.
+
+Inside the Bennett Wing, the "Command Center" was fully active.
+
+Patrick sat at his desk, the glow of his heavy laptop illuminating his face. Next to him, Nichole was parked under her custom cutout desk, her *Apex ConvertiBook* humming as she organized her music library.
+
+"Okay," Patrick said, cracking his knuckles. "We have the house. We have the van coming. Now, I need the armor."
+
+He opened a browser window. The dial-up modem hissed and screeched, connecting to the Rhode Island grid.
+
+"Dr. Aris at Putney said I wasn't 'qualified,'" Patrick muttered, the old anger simmering low in his gut. "She wants a professional? Fine. I'll become a professional."
+
+He started his search locally. **NURSING PROGRAMS NEWPORT RI.**
+
+The search results were sparse. The top hit was the **Newport Community School**.
+
+Patrick clicked the link. He scrolled through the course offerings. *Culinary Arts... Automotive... Health Careers.*
+
+He clicked *Health Careers*.
+
+**Certified Nursing Assistant (CNA).** *8-week course. Prepares students for basic patient care hygiene, feeding, and ambulation.*
+
+Patrick frowned. He read the course description. It was exactly what he expected—the "Gait Belt" class.
+
+"It's just the basics, Nikki," Patrick said, turning his screen so she could see. "It teaches me how to wipe and how to lift. I already know that. And look at the scope of practice."
+
+He pointed to the limitation line: *Must work under the direct supervision of a Registered Nurse (RN) or Licensed Practical Nurse (LPN).*
+
+"If I get this," Patrick said, shaking his head, "I'm still an underling. If we move into a dorm or an apartment, the Housing Director can still say, 'That's great, Patrick, but who is supervising you?' They can still force an agency nurse on us."
+
+Nichole looked at the screen. She tapped her mouse.
+
+*NOT. ENOUGH. RANK.*
+
+"Exactly," Patrick said. "I need rank. I need the license that lets me give the orders."
+
+He went back to the search bar. He looked west, across the bay.
+
+"Let's check the big city," Patrick said. "Braxton."
+
+He typed: **BRAXTON NURSING PROGRAMS.**
+
+The results flooded in. But one link stood out immediately because it bore the familiar blue-and-silver logo they had seen on the website during their research in New Jersey.
+
+**Braxton State University - College of Health Professions.**
+
+Patrick clicked. The BSU website loaded.
+
+He expected to see only the four-year Bachelor of Science in Nursing (BSN)—a degree he didn't have time for if he was going to be an engineer. But then he saw a sidebar link under **Allied Health & Certificate Programs**.
+
+**Practical Nursing (LPN) Program.**
+
+Patrick clicked.
+
+The page loaded. It featured a photo of students in crisp blue scrubs standing inside a high-tech simulation lab, working on a computerized mannequin. Behind them, through a window, was the massive brick facade of a hospital.
+
+Patrick read the text aloud, his voice rising with excitement.
+
+"Located on the BSU Campus within the **University Medical Center** complex," Patrick read. "Braxton State's Level 1 Trauma Center serves as the primary clinical site."
+
+He scrolled down to the program details.
+
+- **Credential:** Prepares students to sit for the **NCLEX-PN** (National Council Licensure Examination).
+
+- **Duration:** 12-15 Months (Accelerated).
+
+- **Eligibility:** Open to matriculated BSU students and continuing education adults.
+
+Patrick stopped scrolling. He looked at Nichole.
+
+"It's *there*," Patrick whispered. "It's right on campus. It's in the hospital right next to the Engineering building."
+
+He looked at the map on the screen. The **University Medical Center** wasn't just an academic building; it was the Level 1 Trauma Center for the entire city of Braxton. It was a massive, 24/7 fortress of medicine. And it was connected to the rest of the campus by **The Bull Run** tunnels.
+
+"I could go to Engineering class in the morning," Patrick mapped it out, his hand tracing the air. "Then roll through the tunnel to the hospital for Clinicals in the afternoon. And because it's a university program, my student ID works for everything."
+
+He looked at the scope of practice for an LPN in Rhode Island.
+
+- *Medication Administration.*
+
+- *Sterile Wound Care.*
+
+- *Tracheostomy Care.*
+
+- *Supervision of CNAs.*
+
+"This is the shield, Nikki," Patrick said, pointing to the letters **NCLEX-PN**. "If I pass that board exam, I am a nurse. A state-licensed nurse. If a Housing Director tells me I'm 'just a brother,' I slap my license on the desk and tell them I'm her medical provider."
+
+Nichole looked at the photo of the teaching hospital. It looked massive. Professional. Serious.
+
+If Patrick had that badge, no one could touch them. No one could separate them. He wouldn't just be her sibling; he would be the medical authority in the room.
+
+She reached for her mouse.
+
+*ENGINEER. AND. MEDIC.*
+
+"Yeah," Patrick grinned. "Double major. Sort of."
+
+He bookmarked the page.
+
+"I'm applying," Patrick said. "I'll do the prerequisites during the Gap Year at the community college here in Newport, and then I'll transfer into the clinical program when we start at BSU next fall."
+
+He looked at his sister.
+
+"We aren't just going to college, Nikki. We're taking over the whole grid."
+
+Nichole smiled. She tapped her screen.
+
+*THE. MACHINE. GETS. AN. UPGRADE.*
+
+"Big upgrade," Patrick agreed. "Now let's go tell Uncle Mark we found the loophole."
+
+

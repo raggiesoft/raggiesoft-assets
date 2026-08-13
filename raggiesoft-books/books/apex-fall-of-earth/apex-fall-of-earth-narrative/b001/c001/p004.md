@@ -1,0 +1,46 @@
+# Part 4: Intake – Thursday, October 20, 2044 – 04:00
+
+The Sierra Pacific shuttle hit the landing pad with a heavy, jarring thud that rattled the fillings in Wyatt’s teeth. The atmospheric engines whined down into a low, mechanical idle. A second later, the pneumatic locks disengaged, and the heavy metal ramp at the front of the cabin hissed open.
+
+A wave of dry, blistering Nevada heat rolled into the cramped cabin, instantly suffocating the stale air conditioning. It smelled of baked asphalt, diesel exhaust, and dust.
+
+"Out! Move it!" an Apex supervisor barked from the bottom of the ramp, his voice amplified by a tinny handheld megaphone. He was wearing the standard-issue black tactical gear, marked with a vivid red armband to signify his authority. "Form a single line! Have your identification ready!"
+
+Wyatt grabbed his canvas duffel bag from under his seat and joined the sluggish, sweating column of contractors filing out of the shuttle. When his steel-toed boots hit the tarmac, the sheer intensity of the desert sun forced him to squint.
+
+There was no time to take in the landscape. The landing pad was surrounded by high concrete blast walls, effectively blinding them to the rest of the Nevada Test and Training Range. Waiting on the tarmac was a fleet of heavy, armored ground transports. They were painted matte gray with the blocky, angular Apex Defense Solutions logo stenciled on the sides.
+
+There were no windows on the transports. Apex didn't want its subcontracted labor mapping the surface layout of a classified DoD black site.
+
+"Load up! Back to front!" the supervisor yelled, pointing a lazy, gloved finger toward the open doors of the nearest vehicle.
+
+Wyatt climbed into the back of the transport, finding a spot on the hard metal bench running along the interior wall. As the rest of the S.H.O.P. Marine recruits piled in behind him, the heavy rear doors slammed shut, plunging the cabin into a dim, claustrophobic gloom illuminated only by a single red running light in the ceiling.
+
+The engine roared to life, and the transport lurched forward.
+
+The ride was rough, entirely silent, and completely blind. Wyatt rested his forearms on his knees, letting the heavy rocking of the chassis roll through his broad shoulders. He felt the transport descend, the angle of the floor tilting sharply downward as they drove deep into the earth. The temperature in the dark cabin began to drop, the blistering desert heat replaced by the chill of subterranean concrete.
+
+Ten minutes later, the transport ground to a halt. The rear doors swung open, spilling harsh, flickering fluorescent light into the cabin.
+
+"Out! Line up at the processing gates!"
+
+Wyatt stepped out into a massive, cavernous intake bunker. It looked like an underground loading dock that hadn't been properly scrubbed in a decade. Rust streaked the heavy support pillars, and the yellow safety lines painted on the floor were scuffed and faded from millions of heavy boots. The air here was heavy, tasting of ozone, cheap floor wax, and the metallic tang of industrial machinery vibrating through the floorboards.
+
+This was the belly of the beast.
+
+He shuffled forward with the herd, funneling toward a row of fortified security checkpoints. The architecture was deliberately brutalist, designed to make every single person standing in line feel incredibly small. High above them, bolted to the concrete bulkheads, automated security cameras tracked the crowd on motorized swivels.
+
+Wyatt finally reached the front of the line. There was no human HR representative waiting to greet him. There was just a heavy metal turnstile and a battered, uniform DoD badge reader bolted to the cinderblock wall.
+
+He pulled the lanyard around his neck, holding up his identification. He pressed the plastic card flush against the scanner.
+
+The machine read the gray stripe. It read the blocky text: *C0-BASIC*.
+
+For a second, the scanner ground heavily, processing the data through the Apex Analytics grid. Then, the device gave a muted chirp. A small LED light above the sensor flipped from red to a dull, indifferent green.
+
+The heavy metal teeth of the turnstile clunked loudly, disengaging the lock.
+
+Wyatt pushed his weight against the cold steel bar and stepped through to the other side. He adjusted the strap of his canvas bag, looking down the long, windowless concrete corridor that led toward the barracks. He was officially in the system.
+
+He put his head down and started walking.
+

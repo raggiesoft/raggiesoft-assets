@@ -1,0 +1,46 @@
+# Part 9: The Heavyweight Knockout Grill – 6:45 PM (PST)
+
+We finally unlocked the door to Jessica’s apartment, stepping out of the freezing Washington rain and into the warm, brilliantly lit sanctuary.
+
+"Alright, everybody drop your bags," Jessica commanded, wheeling toward the kitchen. "It's Thanksgiving Eve. I am not making anyone cook a massive meal tonight. We are doing burgers."
+
+She pulled a massive, heavy-duty indoor appliance from the cabinet and set it on the counter. It was a *Heavyweight Knockout Grill*, the slanted, non-stick plates already heating up.
+
+Within twenty minutes, the apartment smelled incredibly like seasoned beef and toasted buns. Rachel and Kristin were laughing together at the kitchen island, pulling sodas from the fridge, completely at ease in each other's space.
+
+I sat on one of the plush barstools, watching my big sister expertly flip the burgers on the Knockout Grill. I thought about the \$56,000 sitting in my name, the clean inbox, the TAPS transit pass in my wallet, and the absolute shrine in Building 35.
+
+Jessica plated the first two burgers, turned off the grill, and wheeled over to my stool. She reached up, pulling me down slightly to press a warm, lingering kiss to my right cheek.
+
+"She is a Sentinel, Michael," Jessica whispered softly, leaving absolutely no room for doubt. "You are completely safe with her. Just as safe as you were with Ashley."
+
+A second later, Rachel stepped up to my left side. She wrapped her arm tightly around my shoulders and pressed a firm, affectionate kiss to my left cheek.
+
+"Best friend approved, Bear," Rachel murmured fiercely. "One hundred percent."
+
+The dual physical affection from my sisters—the two most highly guarded, fiercely protective forces in my universe—was the final, irrefutable data point my black-and-white processor needed. The perimeter wasn't just secure; it was impenetrable. There were no hidden variables.
+
+I looked across the kitchen island at Kristin. She was leaning against the counter, holding an ice-cold soda, watching me with that same patient, steady gaze she had held in the dark of the Monarch Cinemas.
+
+I waited for the familiar, suffocating spike of panic to hit my chest. I waited for the trauma-wired instinct to tell me to run. But it didn't come. The ice had completely melted. The door she had pointed out to me in the theater wasn't just unlocked; I actively wanted to open it.
+
+I stood up from the barstool and walked slowly around the island. Kristin didn't tense. She just set her soda down and smiled, letting me close the distance entirely on my own terms.
+
+"Kristin," I said quietly, my voice surprisingly steady. "I think I want to turn the key now. Just... gently. Just to see what's on the other side."
+
+Her smile softened beautifully. She understood the exact parameter. "You set the pace, Michael."
+
+I reached out, tentatively placing my hands on her waist. She stepped naturally into my space, wrapping her arms loosely around my neck, radiating nothing but warmth and safety.
+
+I leaned down, closing my eyes. When our lips met, it wasn't the chaste, rapid peck from the theater designed simply to break a panic spiral. It was intentional. It was lingering, soft, and undeniably romantic.
+
+It wasn't the first romantic kiss of my adult life. I had shared deep, passionate intimacy with Ashley back in 2004, during the Summer of the Sentinel. But that felt like a completely different lifetime.
+
+*Before the dark times,* my processor noted, borrowing the solemn weight of an old Guardian. *Before Delores.* For two years, Delores had treated my body as a transaction, a contract, and a tool for punishment. But standing here, feeling the gentle, pressure-free warmth of Kristin returning the kiss, the ghost of the East Coast finally let go. This wasn't a trap. It was just a beautiful, quiet exchange between two people in a warm apartment, surrounded by the people I loved most.
+
+When I pulled back slowly, Kristin was beaming, her eyes shining with quiet pride. I looked over my shoulder. Jessica and Rachel were both grinning from ear to ear, silently celebrating the massive psychological milestone.
+
+I pulled Kristin into a deep, comfortable hug, burying my face in her shoulder. I took a deep breath, the ambient warmth of the apartment settling deep into my bones.
+
+The war was officially over.
+

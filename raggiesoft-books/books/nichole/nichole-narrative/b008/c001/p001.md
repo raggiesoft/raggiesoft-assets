@@ -1,0 +1,128 @@
+# Part 1: The Sorting Failure
+
+## Date: Friday, August 27, 2004 Time: 9:00 AM Location: The Braxton State University Arena (The Bull Pen)
+
+The elevator doors slid open at the "Event Level" of the brand-new BSU Arena.
+
+Patrick and Nichole rolled out—and immediately hit a wall of sound.
+
+The arena floor, usually reserved for basketball games and convocations, had been transformed into a chaotic labyrinth of pipe-and-drape, folding tables, and thousands of eighteen-year-olds. It smelled of floor wax, cheap cologne, and anxiety.
+
+"Whoa," Patrick said, his voice drowned out by the thumping bass of the 'Welcome Week' DJ and the roar of a thousand conversations.
+
+Nichole gripped the armrests of her Titan AeroMotion. Her eyes widened. The overhead stadium lights were dazzlingly bright, reflecting off the polished hardwood. The sheer density of people was terrifying.
+
+"TOO. LOUD," she tapped, her hand shaking slightly.
+
+"Stay close," Patrick said, stepping into the "pocket" behind her chair to act as a human shield. "We just need the IDs. Then we bail."
+
+They navigated the maze of stanchions toward the tables marked CHECK-IN: A-C.
+
+## Time: 9:15 AM Location: Check-In Table B
+
+They reached the front of the line. A cheerful sophomore in a bright yellow "ORIENTATION LEADER" polo shirt smiled at them.
+
+"Welcome to BSU! Name?"
+
+"Bennett," Patrick said. "Patrick and Nichole."
+
+The volunteer typed into her laptop. She frowned. She typed again.
+
+"Um," she said, her smile faltering. "I have you guys in the system, but... your housing assignment is blank."
+
+"We know," Patrick said calmly. "We have a waiver."
+
+The girl looked confused. "Everyone has to live on campus freshman year. Unless you're a commuter living with parents? But the system says..." She squinted at the screen. "It says 'Medical Hardship - Independent.' I don't see a dorm key packet for you."
+
+"We don't need keys," Patrick said, his patience thinning as the line behind them grew restless. "We live in The Foundry. We just need our Bull Pass cards."
+
+"But I can't print the orientation packet without a housing code," the girl insisted. "The system won't let me advance to the 'ID Photo' screen until I scan a key packet."
+
+Patrick sighed. It was a classic "Edge Case" failure. The software was designed for the 99%—the kids moving into Elm Hall or Oak Hall. The Bennett Machine was the 1%.
+
+"Supervisor," Patrick said firmly.
+
+The girl waved her hand. An older woman in a BSU blazer hurried over, looking harried.
+
+"Problem?"
+
+"They don't have housing," the girl said. "It's throwing a null error."
+
+The supervisor leaned in, saw the wheelchair, saw Patrick, and looked at the screen. She saw the code HARDSHIP-IND-04.
+
+"Oh, for heaven's sake," the supervisor muttered, pulling a master key card from her lanyard. She swiped it through the reader. "Override Code 44. It happens every year. The system thinks 'Waiver' means 'Missing Data.'"
+
+She looked at Patrick. "You're cleared. No dorm intro for you. Just head to Station 5 for the ID."
+
+The volunteer grumbled as the screen finally unlocked. "They really need to patch that. It makes us look incompetent."
+
+## Time: 9:30 AM Location: The Arena Floor (Center Court)
+
+They moved away from the table, but the crowd was getting denser. A cheerleading squad was doing a routine near the center circle. A mascot was firing t-shirts into the crowd with a cannon.
+
+Nichole stopped. She put her hands over her ears. Her head dropped.
+
+It was too much. The strobe lights, the screaming, the sheer unpredictable chaos of it. Her sensory processing system was red-lining.
+
+Patrick saw the signs immediately. The rigid posture. The hands.
+
+"Abort," Patrick said.
+
+He didn't try to push through the crowd to Station 5. He looked around. He spotted a man in a BSU Staff polo holding a clipboard near a side tunnel—clearly a facility manager.
+
+Patrick rolled Nichole straight toward him, cutting through a line of confused freshmen.
+
+"Excuse me!" Patrick barked, using his "Command Voice."
+
+The staffer looked up.
+
+"We have a medical situation," Patrick said, pointing to Nichole. "Sensory overload. I need a quiet room. Now."
+
+The staffer didn't argue. He saw the distress. He pointed to a heavy gray door just ten feet away marked MEDIA ROOM - NO ENTRY.
+
+"In there," the staffer said, swiping his badge to unlock it. "It's soundproofed for the press."
+
+## Time: 9:35 AM Location: The Media Room
+
+The heavy door clicked shut. The roar of the arena vanished instantly, replaced by the hum of silence. The room was cool, carpeted, and lit by soft recessed lighting.
+
+Nichole took her hands off her ears. She let out a ragged breath.
+
+"You okay, Nikki?" Patrick asked, kneeling beside her.
+
+Nichole nodded. She tapped her screen.
+
+"THE. HIVE. IS. ANGRY."
+
+Patrick chuckled. "Yeah. It's a zoo out there."
+
+The door opened again. The staffer poked his head in, followed by a woman carrying a portable camera setup and a laptop.
+
+"I figured you guys didn't want to go back out there," the staffer said. "Sarah here is from the ID office. She can process your Bull Passes right here."
+
+Sarah set up the camera against a plain white wall.
+
+"Sorry about the mess out there," she said kindly. "We can do the photos here. You guys are the twins with the Foundry waiver, right? The Registrar mentioned you might be coming through."
+
+Patrick stood up. He helped Nichole sit up straight. He fixed her hair.
+
+"Ready for your close-up?" he asked.
+
+Nichole smiled. It was a small, quiet victory.
+
+Flash.
+
+Five minutes later, Sarah handed them two plastic cards. NAME: BENNETT, NICHOLE. STATUS: STUDENT.
+
+NAME: BENNETT, PATRICK. STATUS: STUDENT.
+
+"You're all set," the staffer said. "You can take the service elevator in the back hallway. It goes straight up to the street level. You can skip the 'Dorm Life' presentation. I think you guys have 'Independent Living' figured out."
+
+Patrick took the cards. He looked at Nichole.
+
+"Ready to go home?"
+
+"YES."
+
+They rolled out the back way, bypassing the chaos entirely. They had the cards. They had the waiver. And they had no intention of ever setting foot on that arena floor again.
+

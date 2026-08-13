@@ -1,0 +1,38 @@
+# Part 2: The Gridlock Ultimatum – 3:11 PM
+
+Twenty-five minutes away, inside the pristine, air-conditioned administrative conference room at Ocean Lakes High School, the atmosphere was relaxed and confident. Dr. Richard Wallace, Linda Vance, and Mr. Harrison sat around a polished mahogany table, their recruitment packets meticulously arranged.
+
+When the conference room telephone rang, Linda Vance smiled confidently and pressed the speakerphone button.
+
+"Linda Vance speaking," she chimed. "Are the Mercers at the front security desk?"
+
+"Linda, it's Brenda from Morrison Guidance," the voice crackled through the speaker, sounding breathless and deeply stressed. "They aren't at your security desk. They are standing right in front of mine."
+
+The confident smiles in the Ocean Lakes conference room vanished instantly. Dr. Wallace leaned forward, his brow furrowing. "What do you mean they are at Morrison? Didn't they receive the amended location notice?"
+
+Back in the Morrison Middle School guidance office, Brenda’s hand shook slightly as she kept the phone on speaker, resting the receiver on her desk so everyone in our phalanx could hear.
+
+Grandmother Eleanor leaned slightly forward, directing her voice toward the speaker. "We received the amended notice, Dr. Wallace. We simply ignored it, as it violates federal special education procedure. You cannot unilaterally alter the location of a transition meeting without the mutual consent of the joint guardians."
+
+Through the static of the speaker, we could hear the distinct sound of a chair scraping violently against the floor at Ocean Lakes as Dr. Wallace stood up.
+
+"Mrs. Whitmore!" Dr. Wallace said, his voice completely abandoning its polished, administrative tone. The bureaucratic panic was fully setting in. "I apologize for the miscommunication. But please, listen to reason. It is 3:12 PM. The 15:00 shift change at NAS Oceana just let out. Westbound Dam Neck Road on the approach to SR-410 is an absolute parking lot right now."
+
+He let out a desperate, pleading breath.
+
+"It is physically impossible for us to make it across the city to Morrison Middle in thirty minutes," Dr. Wallace begged. "We will be stuck in a dead standstill. Please, I am asking you, just put Toby in the car and come to the Ocean Lakes campus. It makes so much more logistical sense."
+
+I looked up at Sarah. She slowly raised her left arm, pulling back the sleeve of her navy t-shirt to look at her heavy, utilitarian wristwatch. She didn't say a word. She just locked eyes with the guidance secretary and tapped the glass face of the watch once.
+
+Abbey stepped forward. She leaned her towering 6'4" frame over the reception counter, bringing her face close to the speakerphone.
+
+"Logistics are your problem, Dr. Wallace, not ours," Abbey said, her voice a low, terrifying rumble of absolute authority. "You drafted the legal paperwork for a 3:15 PM meeting. If base traffic is a known variable, you should have factored that into your travel time. You should already be sitting in this building."
+
+"Abigail, please, be reasonable—"
+
+"You now have twenty-seven minutes," Abbey interrupted, her tone cold and completely immovable. "If you are not sitting in this room when the clock expires, we are filing the procedural safeguards complaint. There is no grace period."
+
+Abbey reached out her massive hand and firmly pressed the disconnect button on the secretary's telephone, cutting the line dead.
+
+She stood back up and crossed her arms over her chest, taking up a position right beside my wheelchair to reinforce the perimeter. The Morrison guidance secretary stared at the disconnected phone in absolute horror, realizing she was now trapped in a waiting room with an unyielding matriarchy while her central office bosses were about to fight the worst rush-hour traffic in the city.
+

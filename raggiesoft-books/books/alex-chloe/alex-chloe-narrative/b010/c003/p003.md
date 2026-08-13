@@ -1,0 +1,36 @@
+# Part 3: Bienvenue au Québec (Welcome to Québec)
+
+The final leg of their journey north felt like a homecoming. As they drove up Interstate 91, the familiar, rolling green mountains of Vermont gave way to the distinct landscape of the Eastern Townships. Chloé, who had taken over driving for this final, symbolic leg, took the exit for Derby Line.
+
+"Okay, team," she announced, her voice a mixture of excitement and business-like efficiency as they approached the Stanstead Port of Entry. "Documents, please. Let's get everything in order before we get to the booth."
+
+Megan, sitting in the passenger seat, was already prepared. She handed over her U.S. Passport, her Virginia Driver's License, and her NEXUS card. Alex, from his spot in the back, passed his own document folder forward. Chloé took them, adding them to a neat pile on the center console. She then opened her own travel wallet, which contained both her American and Canadian passports. She deliberately pulled out the dark blue Canadian passport and set her American one aside.
+
+"Wait," Megan said, her curiosity piqued. "Aren't you going to show them both?"
+
+Chloé shook her head, a small, knowing smile on her face. "Nope. That's one of the first rules you learn as a dual citizen," she explained, her voice taking on the patient tone of a seasoned cross-border traveler. "When you're entering Canada, you have to present yourself as a Canadian. You show them your Canadian passport. When we drive back home, I'll show the American officers my U.S. passport. You always have to enter a country as a citizen of that country, if you are one. It's just the law, eh?"
+
+Megan's eyes widened with a new understanding. "Wow. I never knew that."
+
+"The more you know," Chloé grinned.
+
+She pulled the Holt Wayfarer up to the Canada Border Services Agency (CBSA) booth. The officer inside, a professional-looking man in a crisp uniform, looked at them. "Good afternoon, welcome to Canada," he said in clear, standard English.
+
+Chloé, as was her absolute right, immediately and politely responded in her native language, handing him her Canadian passport first. "*Bonjour, Monsieur,*" she said, her Québécois French warm and confident.
+
+The officer, without missing a beat, switched seamlessly to French. "*Bonjour. Vos documents, s'il vous plaît.*" (Hello. Your documents, please.)
+
+Chloé handed over the neat stack of documents: her Canadian Passport, Virginia Driver's License, and NEXUS card; Alex's U.S. Passport, Virginia State ID, and NEXUS card; and Megan's U.S. Passport, Virginia Driver's License, and NEXUS card.
+
+The officer looked through them. Alex, knowing the routine, was ready for the questions, his Quantum Communicator Pro V prepared to answer fluently in French.
+
+But Chloé, ever the thoughtful leader of their trio, made a conscious, inclusive choice. Seeing Megan looking a little lost, she gracefully switched back to English.
+
+"We're just up for the week to visit my family," Chloé explained. "My aunt and uncle, the Leclercs, live right here in Stanstead."
+
+The officer, appreciating the gesture, continued in English. He asked a few standard questions, stamped their passports with a firm *thunk, thunk, thunk*, and then looked at the three of them—Alex and Chloé, a perfect, seasoned team, and their clearly excited American friend.
+
+"Alright, folks," he said, a small, welcoming smile on his face as he handed back their documents. "Enjoy your visit. Welcome home, Ma'am."
+
+The moment the gate lifted and their van rolled onto Canadian soil, a palpable sense of joy filled the vehicle. The arrival at the Leclerc house was a massive, joyous, and loud family reunion. Megan was immediately enveloped in a sea of warm, welcoming hugs and rapid-fire French. Alex and Chloé stayed by her side, acting as her proud, bilingual guides and translators. For Megan, it was a full, wonderful, and slightly overwhelming immersion into the heart of Chloé's world.
+

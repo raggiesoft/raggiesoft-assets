@@ -1,0 +1,22 @@
+# Part 10: Airside Mission – Clothing
+
+Once they were airside, Olivia’s first priority was to get Leo out of his cold, wet clothes. She quickly spotted a large airport gift shop that sold souvenir apparel. She wheeled Leo inside, parked him near a rack of thick sweatshirts, and dialed Stella.
+
+"Stel, it's me," Olivia said the moment the call connected. "We're through security. He's safe." She took a breath, her voice lowering slightly as she looked down at Leo's soaked and disheveled state. "I know we talked about just getting him a sweatshirt, but his clothes are completely soaked through and just filthy. He really needs a full change of everything to get through this trip comfortably. I'm at a shop now, and I think I should get him everything: a t-shirt, the new hooded sweatshirt, sweatpants, a pack of underwear, and some socks. Is that okay?"
+
+"Liv, if you think that's what he needs, then that's what we'll do. Absolutely," Stella's voice came back, full of confidence in Olivia's assessment. "I trust your judgment completely. Get him whatever you think is best." Her voice then hardened with grim purpose. "But Olivia, please, remember to get a receipt for everything. This is all coming from the trust fund, so I need it for the records. And I am adding every single cent to the bill we're sending Delores."
+
+"Understood," Olivia said, her own voice firm. "Full set of clothes, keep the receipts. I'm on it."
+
+After ending the call, she turned to Leo. Olivia knew exactly how Delores had restricted him, belittling his preferences and stripping away his identity. Getting him dry was the physical priority, but Olivia recognized a crucial psychological one, too: she was going to make sure he chose his own clothes.
+
+"Okay," she said softly, holding up two thick, fleece-lined sweatshirts from the rack. "Gray or black?"
+
+Leo looked at them for a moment. He pointed weakly but definitively to the **light grey** hooded sweatshirt. It was clean, simple, and a world away from the heavy, dark blue cotton currently clinging to his skin.
+
+"Gray it is," Olivia smiled, draping it over her arm. She then held up the matching **light grey** sweatpants. "Matching set?"
+
+Leo gave a small, resolute nod. They continued this way, with Leo selecting a fresh white t-shirt and thick socks. At the register, Olivia paid for the items and carefully tucked the long receipt into her wallet. With the bag of new, warm clothes in hand, she turned to Leo with a triumphant smile.
+
+"Okay, mission accomplished. Let's go find a family restroom and get you changed."
+

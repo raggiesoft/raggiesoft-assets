@@ -1,0 +1,30 @@
+# Part 2: The Siege
+
+## Time: 5:15 PM Location: The Kitchen
+
+The wind howled outside, rattling the panes of glass. It was a terrifying sound, the kind that made you acutely aware of how fragile human structures usually were.
+
+But Unit 404 didn't feel fragile. It felt like a tank.
+
+"Situation Report," Patrick announced, opening the pantry.
+
+"We have power," he noted, glancing at the microwave clock. "Though the lights have flickered twice. We are on the fourth floor, so we are forty feet above the floodwaters. We are dry. We are temperature controlled."
+
+He looked at the shelves.
+
+"We have four boxes of pasta. Two jars of sauce. A full loaf of bread. Peanut butter. Marshmallow creme."
+
+He opened the fridge. "And the filtered water pitcher is full."
+
+Nichole looked around the loft. In Portsmouth, a storm like this meant panic. It meant worrying about the sump pump in the basement. It meant worrying about a tree falling on the power lines and cutting off her air conditioning.
+
+But here? The Foundry was built of brick and reinforced concrete. The power lines were buried underground in the city grid.
+
+She realized that being "trapped" wasn't a problem if you didn't want to go anywhere.
+
+She reached for her mouse.
+
+"WE. HAVE. THE. HIGH. GROUND."
+
+"Exactly," Patrick grinned. "The wizard would be proud."
+

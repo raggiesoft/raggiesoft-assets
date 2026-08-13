@@ -1,0 +1,213 @@
+# Part 5: The Fortress Weekend
+
+## Date: August 28, 2004 Time: 10:00 AM Location: Unit 404, The Foundry Lofts, Foundry Square
+
+The Saturday before classes began was traditionally a day of chaos for freshmen.
+
+Across the city, in the dormitories of South Hall and West Hall, two thousand eighteen-year-olds were currently screaming over roommates, fighting for shower time in communal bathrooms, and trying to figure out how to do laundry without shrinking their jeans.
+
+In Unit 404 of The Foundry Lofts, the only sound was the hiss of the espresso machine.
+
+Patrick stood at the kitchen island, pressing a puck of coffee grounds. He was wearing sweatpants and a t-shirt. He looked rested.
+
+Nichole was parked at the window in her Titan AeroMotion. She was watching the city wake up.
+
+From their fourth-floor vantage point, she could see the entrance to the Foundry Square Metro station below. She watched people hurrying down the stairs, disappearing into the earth to catch the Blue Line.
+
+She wasn't hurrying. She was holding a mug of coffee on her lap tray, the ceramic warm against her palms.
+
+"Radio silence," Patrick noted, bringing his own mug over. "Mom hasn't called since yesterday."
+
+Nichole smiled. "SHE. KNOWS. THE. RULES."
+
+Ellen knew that this weekend wasn't about parenting. It was about calibration.
+
+Patrick leaned against the window frame. He looked down at the street.
+
+"You know," he said, taking a sip. "Right now, there is a 'mandatory' social mixer happening on the quad. Ice cream social. 'Meet your future best friends.'"
+
+Nichole made a face. She tapped her screen.
+
+"HARD. PASS."
+
+"Agreed," Patrick said. "But you know what they're doing right now? They're scanning the crowd. They're looking for dates. They're trying to find someone to hook up with."
+
+He looked at Nichole. The morning sun caught the silver rim of her glasses.
+
+"Can you imagine?" Patrick asked, his voice dropping to a low, horrified whisper. "Can you imagine bringing someone here?"
+
+He gestured to the loft—their sanctuary. The King bed where they slept anchored together. The roll-in shower where they washed each other. The supply closet stocked with catheters and bowel management supplies.
+
+"Imagine trying to explain the 'Zero Friction' sleep protocol to a girl I met in English 101," Patrick said, shaking his head. "Imagine telling her, 'Sorry, we can't go back to your place, I have to carry my sister to the toilet at 10 PM.'"
+
+It wasn't just awkward. It was impossible.
+
+Any romantic partner would demand boundaries. They would demand time. They would demand priority.
+
+And every minute Patrick gave to a girlfriend was a minute Nichole was left vulnerable.
+
+Nichole looked at him. She thought about the reverse.
+
+She imagined a boy. A "nice" guy from her Psychology class. Maybe he would offer to push her chair. Maybe he would want to "take care" of her.
+
+A cold shiver ran down her spine.
+
+She remembered the statistics Patrick had read. She remembered the nausea.
+
+If she let a boyfriend into the inner circle—if she let him lift her, bathe her, or sleep next to her—she was handing him the keys to her destruction.
+
+She thought about anger.
+
+Patrick never got mad at her. It wasn't that he was a saint; it was a choice he had made years ago, a hard-coded override in his brain.
+
+If a strap got stuck, he swore at the strap. If the van wouldn't start, he kicked the tire. If she had an accident in the middle of the night, he got frustrated at the laundry, or the situation, but never at her.
+
+He had vowed to be her protector, and that meant he could never be a threat. His patience was infinite because it had to be.
+
+But a boyfriend? A boyfriend was a variable.
+
+If a boyfriend got mad... and she couldn't move... and she couldn't speak...
+
+If he snapped because she was "too much work," or because she needed the bathroom during a movie, or because she couldn't be intimate in the way he wanted...
+
+She closed her eyes. The risk profile was unacceptable.
+
+The only man she could trust with her absolute physical helplessness was the one who had calibrated his entire existence to ensure she never felt like a burden.
+
+She opened her eyes. She looked at Patrick.
+
+She reached for her mouse.
+
+"NO. OUTSIDERS."
+
+"No outsiders," Patrick agreed, clinking his mug against hers. "The loop stays closed. We don't need a date to the dance. We need a degree."
+
+## Time: 2:00 PM Location: The Command Center (Second Bedroom)
+
+The afternoon was dedicated to "The Pre-Flight Check."
+
+It wasn't enough to be moved in. They had to be operational.
+
+Patrick sat at his desk, sorting the physical gear.
+
+"Backpack loadout," Patrick announced.
+
+He packed his bag: Engineering graph paper. Mechanical pencils. A spare battery for the Apex ConvertiBook. A poncho (just in case the tunnels flooded again).
+
+Then he packed her bag—a sleek, side-mounted saddlebag that attached to the frame of her wheelchair.
+
+"Hydration," Patrick listed, sliding a water bottle into the holder. "Stylus. Backup mouse. Straws."
+
+He checked the medication kit. A small, discreet pouch containing a rescue inhaler and an emergency muscle relaxant.
+
+"Tech check," Nichole tapped.
+
+She fired up the Apex ConvertiBook. She opened Quantum Studio. She opened the text-to-speech engine.
+
+She ran a diagnostic on her custom voice profile.
+
+"TESTING. ONE. TWO. THREE."
+
+The voice was crisp. Loud enough to cut through a lecture hall, but not shouting.
+
+She checked the file paths for her homework folders.
+
+C:\USERS\NIKKI\DOCUMENTS\BSU\FALL_2004\ENG_101 C:\USERS\NIKKI\DOCUMENTS\BSU\FALL_2004\MATH_095
+
+Everything was nested. Everything was ready.
+
+Patrick looked at the Metro schedule on the wall.
+
+"Blue Line runs every 8 minutes during peak hours," Patrick recited. "It's a twelve-minute ride from Foundry Square to Narragansett Esplanade. If we leave the apartment at 8:15 AM, we are in our seats for English 101 by 8:40 AM with a twenty-minute buffer for elevator delays."
+
+Nichole nodded. The math was solid.
+
+She looked at the map of the Braxton Link.
+
+The Foundry wasn't student housing. It was a fortress of solitude three stops away from the chaos.
+
+While the other freshmen were currently getting lost on campus, Patrick and Nichole were sitting in air-conditioned silence, three miles away, waiting to deploy.
+
+## Time: 6:00 PM Location: The Living Room
+
+They ordered Chinese food. They ate it out of the cartons on the coffee table, watching the sun set over the Braxton skyline.
+
+They didn't talk much. The "Calm Before the Storm" was heavy in the room.
+
+Tomorrow was Sunday—the final day of rest. Monday was the launch.
+
+Nichole looked at her brother. He was staring at the TV, but he wasn't watching it. His leg was jumping—a rapid, nervous rhythm that shook the cushion they were sharing.
+
+The nervous energy was building.
+
+He was the engine. He was running simulations in his head: What if the lift breaks? What if the subway stalls? What if the accessible door is locked? What if I fail her?
+
+Nichole reached out. She put her hand on his bouncing knee, pressing down firmly.
+
+He stopped. He looked at her, his eyes wide and anxious.
+
+She didn't use the computer. She didn't offer a hand signal.
+
+She reached up. She grabbed the front of his t-shirt with her hand, bunching the fabric in her fist. She tugged him toward her.
+
+Patrick understood instantly. He leaned in.
+
+Nichole wrapped her arms around his neck. She squeezed him as hard as she could, burying her face in the crook of his neck.
+
+It wasn't just to comfort him. She needed this, too.
+
+She loved the hugs. She loved the crushing, solid weight of his arms around her. It was the only time she felt completely contained, completely safe from the chaotic sensory input of the world. It was her reset button.
+
+As Patrick’s arms locked around her ribs, applying that heavy, hydraulic pressure she craved, Nichole thought about the hypothetical boyfriend again.
+
+A boyfriend would be terrified to break her.
+
+He would look at her wheelchair, her thin frame, and her spastic muscles, and he would treat her like glass. He would hug her gently, leaving vast gaps of air between them, offering a "comforting" touch that did absolutely nothing to quiet the static in her brain.
+
+Or worse—he would try to be firm, but he would get the mechanics wrong.
+
+He wouldn't know that her left floating rib was sensitive. He wouldn't know that if you squeezed her shoulders while her neck tone was high, it felt like being stabbed. He wouldn't know to time the compression with her exhale so she didn't feel suffocated.
+
+A boyfriend would be a fumble.
+
+But Patrick was a precision instrument.
+
+He knew exactly where to apply the force. He distributed the weight of his arms evenly across her back, avoiding the pressure points. He knew exactly how hard to squeeze to trigger the dopamine release without bruising her skin.
+
+He was calibrated to her chassis.
+
+Patrick let out a long breath, the tension leaving his frame. He wrapped his arms around her waist, pulling her flush against him, holding her tight.
+
+They sat there for a long time, the takeout forgotten on the table, just holding on. The engine didn't have to run right now. It just had to idle.
+
+Patrick pulled back just enough to look at her. He smiled—a real, crooked smile that reached his eyes.
+
+"Yeah," he whispered, smoothing her hair. "We're good. We're ready."
+
+## Time: 10:00 PM Location: The Master Suite
+
+The lights of the city were bright outside, but the heavy blackout curtains of the loft turned the room into a cave.
+
+Patrick finished the transfer. He laid Nichole in the center of the King bed.
+
+He climbed in next to her. He pulled the heavy duvet up.
+
+"Last sleep before we're officially college students," Patrick whispered.
+
+Nichole shifted, pressing her back against his chest. She felt his arm drape over her, heavy and protective.
+
+She thought about the thousands of students in the dorms tonight—sleeping in strange beds, listening to strangers snore, worrying about where the bathroom was.
+
+She was home. She was safe.
+
+She closed her eyes.
+
+The loop was closed. The fortress was sealed. The Machine was ready to run.
+
+"Goodnight, Asset," she thought.
+
+"Goodnight, Boss," he whispered, as if he could hear her.
+
+They slept. Monday was coming. But tonight, they were untouchable.
+
+

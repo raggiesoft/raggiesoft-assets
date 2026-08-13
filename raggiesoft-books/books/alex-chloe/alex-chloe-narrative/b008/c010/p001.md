@@ -1,0 +1,48 @@
+# Part 1: The Insurance Dilemma and a Loving Proposition (Mid December 2003)
+
+The flight from Seattle to Norfolk for winter break had been Alex Miller’s first, and having Chloé Mason and Megan Carter steadfastly by his side had made all the difference. The weeks spent in the quiet sanctuary of Chloé’s Lynnwood apartment since his rescue had been a period of intense healing. Now, back in Virginia, surrounded by his entire family, Alex felt a fragile sense of peace.
+
+The upcoming Christmas holiday held a special anticipation for Chloé, with her extended Leclerc family flying in from Montréal. A few days before they were due to arrive, on a quiet evening in mid-December, the *seven* of them—the four parents, Alex, Chloé, and Megan—were gathered in the Millers' living room.
+
+James Miller, after a thoughtful pause, gently broached the topic that had been on all their minds. "Alex, son," he began, "we need to talk about next year. And about long-term support. Especially," he added, his brow furrowing slightly, "health insurance."
+
+Alex nodded, understanding the weight of his father’s words. I KNOW, DAD. INSURANCE IS EXPENSIVE. I WORRY TOO, he typed.
+
+Chloé spoke up. "Once I graduate and get a good full-time job, those kinds of jobs usually come with really good family health benefits. But," she added, "those benefits are generally for the employee, their legal spouse, and dependent children."
+
+James leaned forward slightly. "Alex, there is… a legal way that you could potentially be considered Chloé’s 'family member' for insurance purposes in the future..."
+
+A tense silence filled the room. Alex felt a sudden, cold dread. He knew, with sickening certainty, what his father was alluding to. *Marriage.* The word itself felt like a brand, seared into his memory by Vera. His body began to tremble, his fingers flying across his AAC keypad, the English words tumbling out in a rush of pure panic: NO! DAD, NO! MARRIAGE? CHLOÉ AND I… WE ARE BEST FRIENDS! I CAN’T… VERA… SHE SAID… IT WOULD RUIN EVERYTHING!
+
+His voice, via the device, was high with distress. He was spiraling. In an instant, he was flanked. Chloé was on one side, her hand on his arm, her voice a low, calming hum of their soothing Québécois French. Megan was on the other, her arm wrapping around his shoulders in a firm, grounding hug, a solid, unwavering presence.
+
+"Shhh, Alex, *respire avec moi, mon trésor*," Chloé murmured. (Shhh, Alex, breathe with me, my treasure.) "I've got you, cuz," Megan whispered into his other ear. "Just breathe. We've got you."
+
+"Oh, sweetheart, no," Emily Miller said gently. "That's not what your father meant. We all know your bond with Chloé is a precious, platonic friendship."
+
+James, his voice filled with regret, explained. "Son, I am so sorry. I was suggesting a 'marriage of convenience.' A legal arrangement, purely for the practical purpose of Chloé being able to share her future work benefits with you. Nothing about your friendship would need to change."
+
+Sophie Mason added her warm, Québécois-inflected English, "Think of it, *mes chéris*, as a very strong promise, a legal way for Chloé to take care of you, like family does."
+
+He looked at Chloé, at the absolute sincerity in her eyes. Then he looked at Megan, whose steadying hug was a silent promise of protection. This wasn't Vera. This was his family.
+
+He took a deep breath. He switched his AAC back to English, his eyes on Chloé. CHLOÉ. OUR PARENTS. IF THIS MARRIAGE… IS JUST A LEGAL WAY… FOR YOU TO HELP ME... AND IF NOTHING ELSE… NOTHING ABOUT US… CHANGES… THEN… THEN YES. I THINK… I THINK I CAN DO THAT. TO BE SAFE. TO STAY WITH YOU.
+
+Chloé’s eyes welled, but she smiled, a radiant, relieved smile. "Yes, Alex. Absolutely. Still Alex and Chloé."
+
+A quiet, profound understanding settled over the room. Alex then turned his gaze to Megan, a new, brilliant idea forming.
+
+MEGAN, he typed, his voice now steady. I HAVE A QUESTION. FOR THE WEDDING. THE GROOM IS SUPPOSED TO HAVE A BEST MAN. BUT... WHY DOES IT HAVE TO BE A MAN? He paused, looking at his cousin, his first friend, the one who had just flown across the country to be his shield. WILL YOU BE MY BEST WOMAN?
+
+The room erupted in a fresh wave of happy, tearful laughter. Megan pulled him into another fierce hug. "Are you kidding me?" she cried. "Of course, I will! I would be honored, Alex!"
+
+A few minutes later, Sophie was on the speakerphone with her sister in Stanstead, the whole family gathered around. After explaining the plan for the marriage of convenience, Emily, her voice brimming with pride, added the latest development.
+
+"And Geneviève," she said, "Alex just asked Megan to be his Best Woman at the ceremony!"
+
+A delighted cheer came over the line. "*Formidable!*" Uncle David's booming voice declared. "*C'est ça, la famille!*" (Wonderful! That's what family is!)
+
+"*Pas de problème,*" Geneviève said, her voice clear and resolved. "We will change our flights. We will be there. Of course, we will be there."
+
+The plan was set. Their entire, united, cross-border family would be there to witness the quiet, powerful union, with Alex's Best Woman standing proudly by his side.
+

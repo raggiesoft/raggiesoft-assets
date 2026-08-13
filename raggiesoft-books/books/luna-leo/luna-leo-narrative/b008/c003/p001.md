@@ -1,0 +1,30 @@
+# Part 1: A Quiet Evening Promised
+
+The invitation had come a week before, delivered by Richard Porter during a brief, somewhat stilted phone call to Stella. New Year’s Eve, he’d proposed, could be a quiet family affair at his and Elizabeth’s Virginia Beach home for his seventeen-year-old grandchildren, Luna and Leo. He’d painted a picture of subdued celebration: perhaps a board game or two, some old family movies Stella might remember from her own childhood (though she had few fond memories of such with her own parents), and a selection of special snacks as they all waited to watch the televised ball drop from Times Square. "Just a nice, calm way for them to ring in 2003 with their grandparents," Richard had assured Stella. "Get to know them a bit better, you know. No fuss."
+
+Stella, now twenty-four and the twins’ unwavering guardian, had been hesitant. The relationship with Leo and Luna’s paternal grandparents had always been distant, marked by years of their indifference during David and Karen Porter’s worst periods of neglect, followed by a cautious, very gradual re-establishment of contact after Stella gained custody. Richard and Elizabeth had never been actively malicious like David and Karen, but their passivity and lack of support during the difficult years had left a lingering caution in Stella’s heart. Still, they were family, and Luna and Leo were curious, if wary. Perhaps, Stella thought, a quiet, supervised evening like the one Richard described could be a tentative step towards building some semblance of a broader family connection for the twins. Her maternal grandparents, Arthur and Eleanor Bennett, were a loving constant, but this other side of their heritage remained largely unknown territory.
+
+"Okay, Grandpa," Stella had finally agreed, using the familial term with a practiced neutrality. "That sounds… nice. Luna and Leo would like that. I can drop them off around seven?"
+
+And so, on the chilly evening of December 31, 2002, Stella’s Holt Sentinel pulled up to the curb of Richard and Elizabeth Porter’s neat suburban house in Virginia Beach. The street was quiet, most families likely engaged in their own New Year's Eve preparations. As Luna and Leo got out, Stella gave them both a quick hug. "Call me if you need anything at all, okay? Anything. I’ll be back to get you around one."
+
+"We will, Stel. Thanks," Luna said, offering a small, hopeful smile. Leo nodded, his Quantum Communicator XT ready on his lap.
+
+Richard and Elizabeth met them at the door, their smiles wide and welcoming, almost effusively so. "Luna! Leo! Come in, come in, dears! So glad you could make it!" Elizabeth exclaimed, ushering them inside. The house was tidy, warm, and, most importantly to Stella’s assessing gaze, quiet. There was no blaring music, no sign of other guests, just the low murmur of a pre-show about the Times Square preparations playing on the television in the living room.
+
+"We were just about to break out the checkers championship of the century," Richard announced with a chuckle, gesturing towards a game board already set up on the dining room table. "And your grandmother made her famous seven-layer dip."
+
+"Smells good, Grandma," Luna offered politely.
+
+"Help yourselves, dears. Sodas are in the fridge," Elizabeth said, beaming.
+
+Stella lingered for a few minutes, observing. The Grandparents seemed genuinely pleased to have the twins there, the atmosphere calm and appropriately subdued for a family evening. There were no red flags, nothing to suggest the evening would be anything other than what Richard had promised.
+
+"Alright," Stella said finally, satisfied for the moment. "You kids have a good time. Be good. I'll see you after midnight."
+
+"We will, Stella! Happy New Year, if we don't see you right at twelve!" Luna called out.
+
+With a final wave, Stella departed, leaving Luna and Leo to navigate this tentative family gathering. For the first hour or so after she left, the evening unfolded much as promised. They did play a rather unexciting game of checkers with Richard, who seemed to genuinely try to engage Leo by waiting patiently for his typed moves on the Quantum Communicator XT. Elizabeth brought out the seven-layer dip and some sparkling cider, making polite conversation about their senior year of high school and their plans after graduation. They talked about the upcoming college semester, and Richard and Elizabeth expressed mild, appropriate interest.
+
+Leo and Luna, while still carrying the inherent caution born of their, began to relax, just a fraction. The house was quiet, their grandparents were being attentive in a way that felt almost… normal. Perhaps, Luna thought, this New Year’s Eve wouldn’t be so bad after all. Perhaps this was a genuine attempt by Richard and Elizabeth to connect. Leo, too, allowed a sliver of hope to surface. He even typed out a detailed explanation of his favorite class when Richard asked about school. The quiet rhythm of the evening, the low hum of the television, the desultory conversation – it was all deceptively, peacefully ordinary.
+

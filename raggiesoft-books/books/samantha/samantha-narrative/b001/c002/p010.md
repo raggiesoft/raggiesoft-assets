@@ -1,0 +1,26 @@
+# Part 10: The Kitchen Perimeter – 6:45 PM
+
+The transition from the living room to the kitchen was seamless. Abbey lifted me from the mattress camp with effortless ease, carrying my compact frame into the dining room while Samantha shadowed our every step.  
+
+The kitchen was warm and smelled incredible, a sharp contrast to the sterile, terrifying cold of the last twenty-four hours.
+
+Grandmother Eleanor was stationed at the oven. The severe, aristocratic authority she had displayed while discussing legal strategy had softened into pure, profound relief. She kept looking over her shoulder at Samantha and me, a quiet, watery smile touching her lips. She was making a traditional dinner for the three of us: a whole roasted chicken with rosemary, soft glazed carrots, and creamy mashed potatoes that I wouldn't have to struggle to chew.  
+
+On the other side of the kitchen, taking up all four burners of the stove, Sarah was operating on a completely different scale.
+
+The twins took turns cooking for each other, and tonight was Sarah's shift. While they viewed food as the necessary fuel to maintain their towering 6'4" frames, they absolutely refused to eat bland meals. Sarah was manning two massive cast-iron skillets, her thick, dense arms effortlessly tossing several pounds of sliced steak and diced bell peppers. She was aggressively seasoning the massive mounds of meat with heavy shakes of garlic powder, cracked black pepper, and thick dark soy sauce.  
+
+The sheer volume of food was staggering, but the rich, spicy aroma filling the air proved Sarah wasn't just cooking for utility; she was making sure it tasted incredibly good.
+
+When it was time to eat, the difference in our physical realities was laid bare on the table. Grandmother Eleanor plated three standard, reasonable portions for herself, Samantha, and me.
+
+Sarah, however, retrieved two massive, oval-shaped serving platters. She dumped an entire skillet of the sizzling steak and peppers onto each one, burying the meat under a mountain of steaming white rice. She set one platter in front of Abbey, dropping a heavy metal fork next to it, and took the other for herself.
+
+There were no delicate glasses on the table, and in accordance with the matriarchy's zero-tolerance policy, absolutely no alcohol. Instead, a massive, heavy plastic pitcher of ice water sat directly between my cousins.  
+
+Samantha pulled her chair flush against mine. She kept her left arm anchored tightly around my chest to provide the deep-pressure regulation my misfiring nervous system required, using her free hand to carefully feed me a bite of the mashed potatoes.  
+
+Across the table, the twins ate. They consumed the massive piles of steak and rice with calculated efficiency, needing the immense calories to act as my physical armor. But as Abbey took her first massive bite, her stoic face relaxed, and she gave her sister a firm, appreciative nod. It was a staggering amount of food, but it was delicious.  
+
+Surrounded by the smell of roasted chicken, the clinking of silverware, and the towering, tank-like presence of my cousins boxing in the table, I swallowed my food and finally let myself believe it. We were safe.
+

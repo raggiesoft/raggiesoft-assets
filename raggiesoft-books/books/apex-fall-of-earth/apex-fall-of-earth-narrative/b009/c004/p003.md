@@ -1,0 +1,98 @@
+# Part 3: The Collection Agency – Wednesday, June 17, 2071 – 09:15 (Local Eden Time)
+
+The morning sun had barely crested the eastern ridge when the tactical alarms in the Combat Information Center violently shattered the quiet of the mountain estate.
+
+Down in Sub-Level 3, twenty-five-year-old Ellie Colton stood over the primary holotable, her dark eyes locked onto a newly materialized red icon hovering just outside the planet's hard-light deflector shield.
+
+"Aria," Ellie barked, her hands gripping the edge of the glass. "Identify."
+
+"The vessel is a heavily armed, unregistered frigate, Commander," Aria’s synthesized voice reported briskly. "It does not bear the insignia of the Earth Remnant or the Global Defense Coalition. It is currently maintaining a holding pattern directly above the Lunar Embassy on Anchor, and it is broadcasting a localized, unencrypted demand on a continuous loop."
+
+"Put it on speaker," Ellie ordered.
+
+A rough, synthetic-filtered voice filled the CIC. *"To the operators of the shielded system. We are the Crimson Syndicate. You salvaged a scrap-runner yesterday. The woman inside belongs to us. Lower your barrier and facilitate the transfer, or we will establish a permanent blockade."*
+
+Ellie’s jaw locked. Her tactical instincts, honed since she was three years old, screamed that the fragile, weeping scavenger currently sleeping in Guest Cabin Four was a massive, walking liability.
+
+Ellie tapped her comm-cuff. "Jack. We have a situation."
+
+Down in Genesis Village, Jack Colton was standing on the front porch of Guest Cabin Four. He was holding a thermal thermos of hot tea and a molecularly printed plate of fresh breakfast rations, intending to check on their new refugee.
+
+He tapped his wrist. "Go ahead, El."
+
+"Your stray dog brought fleas," Ellie said bluntly over the channel. "A heavily armed Syndicate frigate is parked over Anchor. They’re claiming Sloane belongs to them. They want her back."
+
+Jack frowned, looking at the heavy timber door of the cabin. "A Syndicate? Ellie, she said she was attacked by pirates. These must be the people who shot her down."
+
+"Or they're exactly who she says they aren't," Ellie countered coldly. "Bring her up to the mountain lift. We are taking the runabout to the Embassy. I want to look these 'pirates' in the eye, and I want her in the room when I do."
+
+Ten minutes later, Jack escorted a visibly trembling Sloane into the sleek, silver cabin of the runabout.
+
+Sloane was playing her part to absolute perfection. She kept her arms wrapped tightly around her torso, her breathing shallow and erratic. The moment Jack sat in the pilot's seat, she reached across the center console, her fingers gripping his forearm with a desperate, white-knuckled intensity.
+
+"Jack, please," Sloane begged, her dark eyes welling with tears. "You can't let them take me. I don't know who the Crimson Syndicate is! They must be the pirates who attacked my ship in the Corvus sector. If you hand me over to them, they'll kill me!"
+
+Jack looked down at her shaking hand, his profound, gravitational empathy instantly engaging. He covered her hand with his own, offering a steady, reassuring squeeze.
+
+"I'm not handing you over to anyone, Slow-anne," Jack promised, his melodic voice dropping into a firm, protective register. "You requested asylum, and we granted it. You are under my family's protection. I just need you to stand behind me and tell them exactly what you just told me."
+
+Sloane nodded fervently, burying her face against his shoulder as the runabout tore through the atmosphere and shot toward the moon. Inwardly, however, her mind was racing.
+
+She knew *exactly* who the Crimson Syndicate was. She owed them two million galactic credits—a massive, insurmountable gambling and smuggling debt she had racked up across three different rim-worlds. They weren't pirates; they were the galaxy's most lethal collection agency. But she also knew that the Colton family possessed a defense grid capable of vaporizing armadas. If she could just keep Jack thoroughly convinced of her innocence, his family’s terrifying firepower would act as her personal, impenetrable bodyguard.
+
+The runabout docked at the Lunar Embassy. Jack and Sloane walked down the pressurized hydro-glass corridor, flanked immediately by Ellie, who fell into step beside them. The Commander didn't offer Sloane a single word of comfort. She just stared straight ahead, her hand resting casually near the customized heavy plasma sidearm holstered on her thigh.
+
+They reached the primary diplomatic concourse.
+
+Standing on the opposite side of a reinforced, hard-light security barrier were three massive, heavily augmented mercenaries wearing the deep red insignia of the Syndicate.
+
+Jack stepped up to the barrier. He didn't reach for a weapon. He stood tall, projecting the calm, unshakeable authority of a man who held the keys to a god-tier fortress. Sloane cowered immediately behind his broad shoulders, gripping the back of his canvas jacket.
+
+"I am Jack Colton, Diplomatic Liaison for this system," Jack stated smoothly. "You are trespassing in sovereign airspace. State your business."
+
+The lead mercenary—a towering brute with a cybernetic jaw—sneered through the barrier. He completely ignored Jack, his mechanical eye zooming in on the terrified woman hiding behind him.
+
+"Well, well. Look who found a shiny new place to hide," the mercenary mocked, his voice a metallic rasp. He looked back at Jack. "That girl is Sloane. She owes the Syndicate two million credits. Her ship was collateral, and her life is the interest. Hand her over, Colton. We don't want a war with the people who broke Apex; we just want our money."
+
+"I don't know what you're talking about!" Sloane cried out from behind Jack, her voice cracking with perfect, hysterical terror. She grabbed Jack's arm, pulling herself flush against his side. "Jack, I swear to God, I've never seen these men in my life! They're lying! They just want to sell me to the labor camps!"
+
+Jack looked at the mercenary, his jaw setting into a hard, uncompromising line. He felt Sloane trembling against him, and his protective instincts completely locked the perimeter down.
+
+"You heard her," Jack said, his voice entirely devoid of its usual warmth. "She doesn't know you, and she doesn't owe you anything. Furthermore, she has been granted Level-1 Civilian Asylum by the Administrators of Planet Eden. She is under our protection."
+
+The mercenary laughed, a harsh, grinding sound. "Asylum? She’s playing you, kid. She’s a grifter. You're shielding a rat."
+
+Before Jack could respond, Ellie stepped forward.
+
+The twenty-five-year-old Commander didn't possess Jack's diplomacy. She possessed Wyatt Colton's lethal, terrifying pragmatism.
+
+"You have exactly thirty seconds to walk back to your ship and break orbit," Ellie commanded, her dark eyes completely dead, her voice ringing with the authority of a planetary executioner. "If you are still in our airspace on second thirty-one, I will not open the shield gate to let you out. I will turn your frigate into cosmic dust and leave you to suffocate on this moon. Choose."
+
+The mercenary stopped laughing. He looked at Ellie's cold, dead-eyed stare. The galaxy knew the rumors of the Colton family. They knew what happened to the *Tartarus*. The Syndicate was ruthless, but they weren't suicidal.
+
+"Fine," the mercenary spat, taking a step back toward the airlock. He pointed a massive, augmented finger directly at Sloane. "But debts don't just disappear. You can't hide behind the Coltons forever, rat. We'll be back."
+
+The mercenaries turned and marched back down the docking tube. A few minutes later, their frigate broke orbit, jumping into the safety of sub-light transit.
+
+Sloane let out a massive, theatrical sob of relief, collapsing against Jack's chest. "Thank you. Oh, Jack, thank you so much."
+
+Jack wrapped his arms around her, gently stroking her hair. "It's okay, Slow-anne. They're gone. You're safe."
+
+But Ellie didn't join the embrace.
+
+The Commander stood perfectly still, her arms crossed over her tactical vest. She looked at the terrified, weeping girl buried in her brother's arms, and her brilliant, analytical mind ran the exact same calculations High Director Kael once had.
+
+A random scavenger doesn't attract a dedicated Syndicate hit squad.
+
+"You have a lot of heavily armed enemies for a simple, nomadic scavenger, Sloane," Ellie noted, her voice dripping with ice.
+
+Sloane looked up from Jack's shoulder, her eyes wide and innocent. "I... I told you, Commander. They must be the pirates who took my ship. They just wanted to finish the job."
+
+Ellie didn't buy a single syllable of it. The structural integrity of the girl's story was completely compromised.
+
+"You are allowed to stay. For now," Ellie stated coldly, laying down the absolute law. "Because my family does not throw unarmed people to the wolves. But understand this, Sloane: Jack is a diplomat. He looks for the best in people. I am the Commander. I look for the threat. And I will be watching you."
+
+Ellie turned on her heel and marched back toward the runabout.
+
+Sloane buried her face back in Jack's chest, hiding the cold, triumphant smirk that touched her lips. She had officially secured her human shield. The Commander was a problem, yes, but as long as Jack was willing to stand between her and the rest of the universe, Sloane knew she had already won the war.
+

@@ -1,0 +1,102 @@
+# Part 2: The Buffer
+
+## Wednesday, July 16, 2003 14:15 PM
+
+The walk from Archer Hall to **Newman Library** was different today. The air was still hot, the humidity still oppressive, but the social atmosphere was lighter.
+
+The "Noise Sector" had been purged. The class roster had been refined down to the serious, the studious, and the Avery Unit.
+
+They entered the library, the automatic doors sliding open to release a blast of cool, book-scented air. It was a smell Freddie loved—paper, adhesive, and the quiet hum of concentration.
+
+"Study Room 4 is booked," Jessica announced, checking her watch. "We have it until 16:15. That gives us two hours to build the buffer."
+
+They bypassed the main stacks and headed for the group study rooms on the second floor. These were glass-walled aquariums of silence, perfect for isolation.
+
+Jessica swiped her **PolyPass** to unlock the door.
+
+"Base established," Freddie whispered, stepping inside.
+
+## 14:30 PM
+
+The table was round, but they sat in a semi-circle—Jessica on the left, Paige in the middle, Freddie on the right.
+
+The laptop deployment began.
+
+Jessica opened her sleek **Titanium MagnaByte**. It was the envy of the engineering department—thin, metallic, and running the proprietary Magna-OS.
+
+Paige opened her standard-issue **Quantum**. It was a boxy, beige workhorse, identical to the ones in the campus labs.
+
+Freddie set up his workstation with the precision of a field medic. He opened his heavy **Iron-Logic** laptop. He didn't reach for the trackpad. His spastic diplegia made the small, sensitive surface a nightmare; his fingers would jump or drag, sending the cursor flying across the screen in erratic vectors.
+
+Instead, he reached into his bag and pulled out his **Digi-Track**—a heavy, stationary mouse with a large red ball on top. He didn't have to move his arm to use it; he just had to roll the ball with his palm or fingers. It was stable. It was precise.
+
+He plugged the USB cable into the side port. *Ding-dong.* The computer recognized the device.
+
+"Input device active," Freddie confirmed, rolling the red ball. The cursor moved smoothly to the browser icon.
+
+"Okay," Jessica said, logging into the **Edu-Link** portal. "Dr. Thorne posted the assignment for next week. It's a labeling exercise and a short reflection on the physiological differences between the male and female response cycles."
+
+"I have the diagrams," Freddie said, navigating to the file directory where he saved his scans.
+
+"We work together," Jessica instructed. "We discuss the answers. But we type our own words. Academic honesty is non-negotiable. If we get flagged for plagiarism, we lose the scholarship."
+
+"Understood," Paige said, cracking her knuckles. "Let's do this."
+
+## 15:30 PM
+
+For an hour, the only sounds in the room were the clicking of keys, the rolling of Freddie’s trackball, and the low murmurs of collaboration.
+
+"Structure 7," Freddie asked, squinting at the screen. "Is that the fimbriae or the ovary?"
+
+"Look at the attachment point," Paige guided him, pointing to her own screen. "It's the finger-like projections at the end of the tube."
+
+"Fimbriae," Freddie corrected himself. "Catching the ova."
+
+He typed the answer. His typing was slow—he used a "hunt and peck" method with two fingers—but it was accurate. He didn't rush. He didn't panic.
+
+They moved through the assignment with the efficiency of a well-oiled machine. There was no "I'll do it later." There was no procrastination.
+
+Jessica kept them on track. "Reflection question," she read. "Discuss the role of the refractory period."
+
+"System reboot," Freddie muttered, typing. *'A mandatory recovery phase in the male physiological cycle where restimulation is impossible.'*
+
+"Good phrasing," Jessica noted, glancing at his screen. "Clinical."
+
+## 16:00 PM
+
+Freddie clicked the final box on the digital form.
+
+He rolled the red ball over to the **SUBMIT** button. He hovered there for a second, savoring the moment.
+
+The class didn't meet again until Friday. The homework wasn't due until Monday.
+
+If he clicked this button now, the "Deadline" variable would be deleted from his mental RAM. If he had a meltdown tomorrow, or if his batteries drained to zero again, it wouldn't matter. The work was done.
+
+"Click it," Paige whispered.
+
+*Click.*
+
+**SUBMISSION CONFIRMED.** **GRADE STATUS: PENDING**
+
+Freddie let out a long exhale. He leaned back in his chair, taking his hand off the trackball.
+
+"Buffer established," Freddie announced.
+
+Jessica clicked submit on her own screen a second later. Paige followed.
+
+"We are clear," Jessica smiled, closing her MagnaByte with a satisfying *snap*. "No homework for five days. The weekend is ours."
+
+"Zero anxiety," Freddie noted. "The queue is empty."
+
+He unplugged his mouse, winding the cord carefully. He packed his heavy laptop.
+
+He looked at his sisters. They weren't just study partners; they were his safety net. They had anticipated the crash and built a guardrail before he even got close to the edge.
+
+"Thank you," Freddie whispered. "For the... pre-emptive maintenance."
+
+"Always," Paige said, slinging her bag over her shoulder. "Now come on. We have fifteen minutes left on the room reservation, but I say we get out of here early. I think there's a frozen yogurt place in the Student Center that needs our attention."
+
+"Frozen yogurt," Freddie agreed, standing up. "Texture: Smooth. Temperature: Cold. Variable accepted."
+
+They walked out of the library, leaving the stress of the assignment behind them in the digital ether, stepping back into the summer afternoon with nothing but free time ahead.
+

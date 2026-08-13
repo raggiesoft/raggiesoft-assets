@@ -1,0 +1,81 @@
+# Part 6: Shopping for a Van
+
+The next day, the "family of six" plus Megan set out on their mission. Megan had taken a personal day off from work; this was a trip she refused to miss. Her own aging Holt sedan was starting to show its years, and she had decided that today, she would also find a new, more reliable car for herself.
+
+Their first stop was a massive Holt Automotive dealership off Virginia Beach Boulevard. They were immediately descended upon by a slick salesman named Rick. After twenty minutes of fruitless back-and-forth trying to get him to understand their specific, non-negotiable needs for the accessible van, the family stood up as one to walk out.
+
+As they were leaving, Rick, seeing a potential sale slipping away, turned his attention to Megan. "Ma'am, while your family is thinking, can I interest you in a new sedan? We have some fantastic financing deals today!"
+
+"Actually, yes," Megan said, seeing a chance to be efficient. "I'm looking for a base model sedan. Reliable, good gas mileage, and the biggest trunk you've got. No bells and whistles."
+
+"Bells and whistles are what make it fun!" Rick oozed, gesturing to a flashy, top-of-the-line model with a sunroof and chrome wheels. "Let me show you our luxury package..."
+
+Megan just shook her head and walked away, catching up with her family. "Let's go," she said, her voice tight with annoyance. "This guy doesn't listen either."
+
+The second dealership was a bust before they even got out of the car. Every single Holt Wayfarer in their inventory was a higher-end model with the problematic StowAway seating. Megan, checking their website on her phone, saw it was the same for the sedans—only fully-loaded, luxury-package models were in stock.
+
+The third was even more frustrating. A young, overly enthusiastic salesman tried to convince them that a luxury model Wayfarer was "a much better investment," completely ignoring their explanations. After James finally shut him down, the salesman turned to Megan. "And for you, madam! We have a beautiful sedan with a premium 12-speaker sound system and heated leather seats..."
+
+"I just need a big trunk and good gas mileage," Megan repeated, her patience worn thin. She then gestured with her head in Alex's direction, her gaze firm and unwavering. "I need to be able to put my cousin's wheelchair in that trunk. I don't have room for a subwoofer. Trunk space is more important."
+
+The salesman's jaw snapped shut, his pitch completely deflated by the stark, unarguable reality of her statement.
+
+They left that dealership too, the entire family now thoroughly drained and discouraged. The experience wasn't just about the van anymore; it was a universal frustration with a sales culture that refused to listen to what a customer actually needed.
+
+By one o'clock, they were all feeling drained and discouraged. The relentless, tone-deaf sales pitches and the complete disregard for their specific needs had worn them down. They pulled into the parking lot of a Winnie's Old-Fashioned Burgers, the mood in the two cars a mixture of frustration and resolve.
+
+They found a large booth in the corner, and the simple, familiar act of ordering burgers and fries was a welcome relief from the stress of the morning. Alex, a connoisseur of comfort food, ordered a combo with one of Winnie's famous square-pattied burgers and a large chocolate Chiller.
+
+As they sat down to eat, Emily sighed, stirring the ice in her tea. "This is ridiculous," she said, her voice laced with a weary frustration. "It's like they're not even listening to what we need."
+
+"They're not trained to listen," Thomas replied grimly, taking a bite of his burger. "They're trained to sell what they have on the lot. They see a young couple and think 'minivan,' but they don't see the specific, non-negotiable requirements. This is a specialized purchase, and we need a specialized approach."
+
+Megan nodded in agreement. "My friend went through the same thing trying to buy a specific work truck. The salesmen kept trying to sell her a family SUV. They just hear what they want to hear."
+
+Alex, who had been quietly eating, took a long sip of his Chiller. The cold, thick, chocolatey treat was a familiar comfort. He looked around the table at his entire family, all here, all fighting for him, and felt a surge of gratitude that pushed back against the morning's discouragement.
+
+It was Sophie who rallied them. "Well," she said, her tone full of a quiet, unshakeable optimism. "We are not defeated yet, *non*? It is only lunchtime." She looked at James. "We have one more place on our list, yes? The smaller, family-owned dealer in Chesapeake."
+
+James nodded, a new resolve in his eyes. "That's right. Stan's Holt Automotive. It's our last shot for the day." He looked at Alex and Chloé. "What do you say, kids? Do we finish our Chillers and go give it one more try? We don't give up."
+
+Chloé looked at Alex, who gave a firm, determined nod. "We're in," she said, her own voice full of a renewed strength.
+
+They finished their lunch, the simple, comforting meal having done its job. The frustration from the morning hadn't vanished, but it had been transformed into a focused, unified resolve. They were a team. And they had one more battle to fight.
+
+There was one dealership left on their list, a smaller, family-owned Holt dealer over in Chesapeake. They decided to give it one last shot.
+
+The moment they walked in, the atmosphere was different. The salesman who approached them, a calm, middle-aged man named Stan, simply asked, "How can I help you folks today?"
+
+James, weary from the day's battles, handed him the printout. "We need to order this exact vehicle for a wheelchair conversion," he said.
+
+Stan looked at the sheet, then at Alex, a look of immediate, quiet understanding on his face. "Ah, for a lowered-floor conversion," he said, nodding. "You've done your homework. No StowAway, no sunroof. You've got it right."
+
+He led them to his desk and treated the transaction with the seriousness and respect of someone facilitating the purchase of a crucial piece of medical equipment. "This is a factory order, so it's straightforward," Stan explained. "I'll put the order in at just a few hundred over our invoice cost. We'll have it delivered directly to the accessibility vendor you choose. We know the process."
+
+The relief in the room was palpable. As the parents began to finalize the paperwork for the Wayfarer with Stan, Megan spoke up.
+
+"Stan," she said, "I'm actually looking to buy a new car for myself today, too. I'll be trading in my old sedan."
+
+"Of course," Stan said, his professional, no-nonsense demeanor not changing a bit. "What are you looking for?"
+
+"A new Holt sedan," she said. "Something reliable, safe, and with the biggest trunk you've got." She glanced over at Alex with a meaningful look.
+
+While the van order was being processed, Stan had another salesperson bring a beautiful sedan in "Starry Night Blue Metallic" around to the front of the dealership. Before she would even discuss the price, however, Megan had one non-negotiable condition.
+
+"Okay, cuz," she said, turning to Alex. "This is the real test. We're not guessing. We're doing it for real."
+
+Alex transferred from his wheelchair to the comfortable passenger seat of the new car. The moment he was settled, Megan and Chloé, moving with the practiced, efficient sync of a pit crew, went to work. They expertly folded his titanium manual wheelchair, detached the mounting arm for his AAC, and packed the main device into its padded case.
+
+With a shared, determined look, they began the real-life game of Tetris, carefully maneuvering the folded chair, the arm, the tray, and the case into the sedan's trunk. The other family members and the salesperson watched in respectful silence. After a moment of careful positioning, the last piece slid into place. The trunk closed with a satisfying, solid thud.
+
+It all fit.
+
+Megan let out a breath she hadn't realized she was holding and broke into a wide, triumphant grin. She looked at Stan. "Okay," she said, her voice full of a new, final authority. "Now we can talk about the price."
+
+With that confirmed, Megan's own deal was made. Stan, true to his character, gave her a fair, straightforward price on the new sedan and a good value for her trade-in, completely free of the high-pressure tactics they had endured all morning.
+
+They left the dealership an hour later, their mission a resounding success on two fronts. The order for the new accessible van was in. And Megan had a brand-new car. They all gathered in the parking lot, where Alex, Megan, and Chloé climbed into Megan's new sedan for the triumphant ride home.
+
+As they drove back to Lisa Court, the three of them were already making plans. The new Holt Wayfarer would be their primary vehicle. To ensure maximum flexibility and safety, both Chloé and Megan would be listed on the insurance, and both would have their own set of keys. And for Megan's new sedan, the arrangement would be the same. It wasn't just "Megan's car" and "their van." It was their fleet, a shared resource for their new, interconnected life, a tangible symbol of the promise they had all made to take care of each other, no matter what.
+
+

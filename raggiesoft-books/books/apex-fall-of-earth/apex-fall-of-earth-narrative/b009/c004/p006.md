@@ -1,0 +1,73 @@
+# Part 6: The Filter – Wednesday, June 17, 2071 – 22:30 (Local Eden Time)
+
+The sprawling timber Main Residence in Genesis Village was finally winding down for the night. The heavy, automated shutters had been drawn over the windows, sealing the comfortable home against the dark of the valley.
+
+In the central hallway, Jack stood outside the door to Willow’s private bedroom.
+
+"Alright, wild sparrow. Lights out," Jack smiled softly, leaning against the doorframe.
+
+At thirteen, Willow was fiercely independent, but she still relied entirely on the emotional baseline of the people who had raised her. She stepped forward, wrapping her arms tightly around Jack’s waist for her customary goodnight hug.
+
+"Night, Jack-Jack," Willow murmured, her thick Sydney accent muffled against his chest. She pulled back, looking up at him with a bright, sleepy smile. "I'm glad you're home. And I'm glad she's gone."
+
+"Me too," Jack agreed, giving her shoulder an affectionate squeeze. "Sleep well. I'll see you in the morning."
+
+Willow ducked into her room, the door sliding shut behind her.
+
+Jack let out a long, exhausted breath and walked down to the end of the hall, pushing open the door to the primary bedroom.
+
+The room was dominated by a massive, custom-built mattress resting directly on the polished floorboards—a slightly scaled-down echo of the Vanguard's Mega-Bed up in the mountain. Sitting cross-legged in the center of the bed, wearing soft, oversized sleep-shirts, were nineteen-year-old Molly and Claire.
+
+Jack kicked off his boots, shedding his canvas work jacket, and climbed onto the mattress.
+
+He didn't sit up. The crushing emotional exhaustion of the day finally overtook his diplomatic posture. He lay down flat on his back in the center of the bed, staring up at the timber ceiling, and let out a heavy, ragged sigh.
+
+Instantly, the twins moved in.
+
+Molly lay down on his right side, throwing her arm securely over his chest and resting her cheek against his shoulder. Claire mirrored her identically on his left, her arm crossing over Molly's, her head tucking comfortably against his bicep. They provided the exact, heavy, deep-pressure grounding that had defined the Colton family's love language since they were infants.
+
+Jack closed his eyes, his broad shoulders completely relaxing into the mattress as he absorbed the safe, familiar weight of his sisters.
+
+"I didn't want to say this in front of Willow," Jack murmured into the quiet room, his voice barely above a whisper. "But when Sloane realized I wasn't going to sleep with her... she asked me to steal a ship. She wanted me to run away with her. She wanted me to leave you all behind."
+
+Molly’s arm tightened instantly around his chest. "She was trying to isolate her host. It's textbook parasitic behavior."
+
+"She saw your empathy as a vulnerability to be exploited," Claire added, her voice a soft, analytical hum against his left side. "But she critically underestimated your perimeter. You are anchored to this unit, Jack. We wouldn't let you drift away, even if she managed to sever the tether."
+
+"I know," Jack breathed, turning his head to press a kiss to Molly's hair, and then Claire's. "Thank you for looking into the Earth Remnant logs. If you hadn't pulled her syndicate bounties, I don't know how long it would have taken me to see through the act."
+
+"We will always protect your blind spots, Jack," Molly promised fiercely.
+
+Jack reached over to the nightstand, tapping the comm-cuff resting on the wood.
+
+"Jack to Vanguard," he called out softly.
+
+There was a microsecond of static before the channel opened.
+
+*"Commander here,"* Ellie’s voice replied, crisp and clear. Jack could hear the faint, muffled hum of the mountain's geothermal reactors in the background. Ellie was in The Sanctuary, undoubtedly nestled perfectly alongside Nora and Leo in their own Mega-Bed.
+
+"Just checking in, El. The village is secure," Jack reported.
+
+*"Copy that. And congratulations, Jack,"* Ellie said, a rare note of profound approval bleeding into her tactical tone. *"You successfully identified a hostile variable, revoked its access, and took out the trash. The diplomatic corps performed exceptionally today."*
+
+Jack let out a soft chuckle. "I'll try to vet them better next time, Commander."
+
+*"There won't be a next time,"* Ellie corrected, her voice shifting into absolute, iron-clad planetary law. *"Dad and I just finished updating the Sentinel Directive. From this moment forward, the Aegis shield does not open for biological assets under any circumstances. If a refugee or an ambassador arrives in this system, they remain at the Lunar Embassy on Anchor. Period."*
+
+"The moon acts as the absolute filter," Claire noted approvingly against Jack's side.
+
+*"Exactly,"* Ellie confirmed. *"The Embassy is the sieve. No one breathes the atmosphere of Eden unless they have been vetted for months up in the 0.48G. We do not bring unknown variables into the valley ever again."*
+
+"Understood, Commander," Jack agreed, fully supporting the lockdown. He had learned his lesson the hard way. His empathy was a gift, but it required Ellie's armor to keep it safe.
+
+*"Rest up, Logistics Officer,"* Ellie ordered gently. *"We'll see you tomorrow."*
+
+The comm clicked off.
+
+Jack let his hands rest over his sisters' arms, the heavy, lingering toxicity of Sloane completely banished from the room. The perimeter was locked, the rules were set, and he was completely, perfectly safe.
+
+"Goodnight, Jack," Claire whispered.
+
+"Goodnight," Jack smiled, closing his eyes and letting the comforting weight of his family pull him down into a deep, dreamless sleep.
+
+

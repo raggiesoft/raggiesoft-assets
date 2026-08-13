@@ -1,0 +1,26 @@
+# Part 7: A Tale of Two Frances
+
+Their quest for French language resources led them to a large bookstore in a local shopping center. The four of them made their way to the small language and reference section, a sense of shared purpose making the simple errand feel like an adventure.
+
+"Okay, here we go," Stella said, scanning the shelves. "French... French..."
+
+They found a small section with beginner's guides, workbooks, and dictionaries. Olivia picked up a popular "Learn French in 30 Days" book. On the cover was a picture of the Eiffel Tower and a prominent blue, white, and red French flag.
+
+She flipped through the first few pages, a small, amused smile playing on her lips. "Yep," she said, holding it up for the others to see. "Just as I thought. This is France-French."
+
+"What do you mean?" Luna asked, peering at the book. "Isn't all French the same?"
+
+"Not really," Olivia explained, her inner linguist coming to life. She pointed to a picture of a car in the vocabulary section. "See? They call a car *une voiture*. Where I'm from, we usually say *un char*. And here," she flipped to another page, "they say *le week-end* for 'weekend.' We say *la fin de semaine*, which is the literal translation."
+
+She continued to scan, chuckling to herself. "Oh, and they want you to call your boyfriend *mon petit ami*. Back home, I'd call him *mon chum*. It's a whole different world."
+
+For Olivia, this was a new and interesting challenge. It was like an American English speaker picking up a book on British English—familiar, yet full of surprising and sometimes funny differences.
+
+"This is perfect, though," she concluded, her smile genuine. "This is the formal stuff. It'll be great for all of us to learn it properly for class."
+
+They chose a few different books—a comprehensive guide, a verb workbook, and a pocket dictionary—and headed to the register. Leo, who had been quietly absorbing the conversation, used his Scribe to type a message for Olivia as they walked.
+
+"I LIKE 'UN CHAR'. AND 'MON CHUM'."
+
+Olivia laughed, a bright, happy sound. "Me too, Leo. Me too."
+

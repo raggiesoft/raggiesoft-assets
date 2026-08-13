@@ -1,0 +1,36 @@
+# Part 1: The Powder Keg – Thursday, October 20, 2044 – ~05:00
+
+Wyatt led Hayes down the grated metal catwalks of Sector 4. The air here was colder, smelling intensely of ozone and burning coolant. Below them, massive, automated drill rigs pounded into the Nevada bedrock with a rhythmic, bone-rattling thud.
+
+He glanced back over his shoulder to check her spacing. The visual contrast between them was almost comical. Wyatt was wrapped in the stiff, abrasive black and hazard-yellow armor of an Apex S.H.O.P. Marine, blending perfectly into the industrial grime and shadows of the facility. A few paces behind him, Hayes was practically glowing. She was still wearing the crisp, slate-blue and soft gold uniform of a Helios Field Safety Technician.
+
+He could see the defensive tension in her shoulders. She was waiting for it. She expected him to stop, turn around, and belittle her for the bright colors—to mock the academic illusion she'd bought into, or treat her like the naive, acquired inventory the rest of the veterans saw her as.
+
+Wyatt didn't say a word about it. He knew the uniform made her a target, but tearing her down wouldn't make the shift go any faster. Instead, he just gave her a brief, grounding nod to keep her pace, and turned his attention back to the perimeter.
+
+He could almost feel the relief wash over her in the dark. The initial panic was wearing off, replaced by the grim focus required to just get through the next eleven hours. She was quiet, her footsteps were steady, and piece by piece, she was starting to trust him.
+
+Up ahead, a heavy, automated blast door was jammed half-open, spilling bright, sterile white light into the dim corridor.
+
+Wyatt held up a single fist—the universal signal to halt. Hayes froze instantly behind him. They both pressed their backs against the cold metal bulkhead, staying completely out of the camera's line of sight, and listened.
+
+Inside the lab, two high-level Apex scientists were frantic.
+
+"I don't care what the Board's projections say, the telemetry from the deep-mantle array is completely inverted!" the first scientist snapped, his voice cracking with panic. "These aren't natural seismic anomalies. The pressure isn't coming from the drill bits. Something is pushing up."
+
+"Keep your voice down," the second one hissed, pacing nervously. "If Management hears you questioning the integrity of the lower filters, they'll void our contracts. Do you want to pay back your signing bonus? Because I don't."
+
+"We won't have to worry about our bonuses if the containment field fails!" the first one fired back. "They lied to us. They told us this was a stabilized grid. We're sitting on a powder keg, and they've locked the executive elevators. We're trapped down here with the grunts."
+
+Wyatt looked back at Hayes. Her eyes were wide in the dim light.
+
+He looked back toward the crack in the door. The realization settled over him like a heavy lead blanket. That soundproof glass in the Mess Hall? The slightly better synthetic food? It was all just a cheap illusion. These scientists weren't the elite. They were just as miserable, terrified, and expendable as the contractors sleeping on the floor. Apex had just bought their silence with better chairs.
+
+Wyatt glanced down at his standard-issue PDA. The internal tracker was blinking a dull yellow. If he stayed stationary in an unauthorized zone for much longer, the red-banded supervisors were going to flag him for sleeping on the job and dock his pay—or worse, send a patrol to find him.
+
+He didn't have the luxury of eavesdropping on corporate doom.
+
+Wyatt gave Hayes a subtle shake of his head and pointed his heavy flashlight down the corridor. *Not our problem. Keep moving.*
+
+She nodded, understanding perfectly. They both slipped away from the lab in total silence, leaving the scientists to their panic, and continued their march into the dark.
+

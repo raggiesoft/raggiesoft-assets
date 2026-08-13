@@ -1,0 +1,66 @@
+# Part 6: The Mapmakers – Saturday, May 11, 2045 – 10:30
+
+The heavy, rhythmic hum of the automated sanitization cycle vibrated faintly through the polished stone walls as Wyatt and Sarah walked away from the pneumatic chute.
+
+Their t-shirts and denim cut-offs were gone, dispatched to the washing mechanisms below, and the Eden Rule was officially back in full effect. Completely bare, the flawless 21.6°C ambient air of the estate washed over their skin, an invisible, comforting blanket that instantly put them both at ease.
+
+They bypassed the mahogany library and stepped down into the massive, open-concept living room. The localized geothermal fire pit was flickering warmly in the center of the recessed seating area, casting a soft, amber glow across the dark stone. Outside the camouflaged hydro-glass window, the super-cell storm had settled into a steady, rhythmic rain, blurring the flooded valley below into a wash of slate-gray.
+
+Sarah curled up on the plush, oversized sectional sofa, tucking her legs beneath her. Wyatt sat right beside her, his broad, scarred frame acting as a natural backrest as she leaned comfortably into his chest. He wrapped his arms around her bare waist, his chin resting near the top of her head.
+
+"You know," Sarah murmured, her eyes tracing the mesmerizing dance of the fire. "We just spent the morning studying how to be parents, and we established a timeline for the kids. But I just realized something glaringly obvious."
+
+"What's that?" Wyatt asked, his thumb gently stroking her hip.
+
+"When our kids are old enough to ask where they live, or when we finally start decanting the embryos from the Genesis Vault and they ask what planet they're on... what are we going to tell them?" Sarah tilted her head back to look up at him. "We can't tell them they live on Exoplanet 4 in System 88-Tango. Those are just cold, offline corporate designations from a paranoid billionaire's star chart. If this is going to be a civilization, it needs an identity."
+
+Wyatt’s eyes lit up. He looked out the massive window at the rain-swept world they had claimed. She was entirely right. They had scrubbed The Nomad's digital registry and changed their own names, but they were still living on a map drawn by Apex executives.
+
+"We need to name it," Wyatt agreed, a slow, pioneer's grin spreading across his face. "All of it. The system, the star, the planet, and the house."
+
+"Aria," Sarah called out to the ceiling array, her voice ringing with clear, purposeful energy. "Bring up the local astrometrics on the glass table."
+
+The heavy glass coffee table in the center of the seating area woke up with a soft chime. A beautiful, glowing blue holographic projection of their solar system blossomed in the air, with the local golden star burning in the center and their blue-and-green terrestrial world orbiting perfectly within the habitable zone.
+
+"Astrometrics displayed, Administrators," Aria replied smoothly. "Awaiting your cartographic designations."
+
+"Let's start with the star and the system," Wyatt suggested, looking at the glowing golden orb in the hologram. "Our own sun."
+
+Sarah stared at the projection for a long time. A thoughtful, deeply personal expression crossed her face.
+
+"When I signed my contract on the colony, I was wearing a slate-blue uniform for the Helios Geoscience Institute," Sarah said softly, her fingers lacing through Wyatt's. "The recruiter promised me an academic future. He promised me a collaborative, peaceful environment dedicated to discovery. Apex Defense Solutions swallowed that company and turned it into a meat grinder."
+
+She looked up at Wyatt, a fierce, reclaiming fire in her eyes. "Apex ruined the company, but they can't ruin the idea. I want to take the name back. I want to name our star Helios. And the system... the Helios System."
+
+Wyatt looked at his brilliant, resilient wife. It was the perfect tribute—a complete reclamation of the hope she had lost and found again.
+
+"The Helios System," Wyatt confirmed, nodding with absolute certainty. "Aria, log it."
+
+"Acknowledged. System 88-Tango is now permanently registered as the Helios System. The host star is designated Helios," Aria chimed, the text floating above the hologram updating instantly.
+
+"Now for the planet," Wyatt said, leaning forward slightly to look at the blue-and-green marble slowly rotating in the hologram. "Exoplanet 4. What do we call our new world?"
+
+He looked down at Sarah's bare skin, and then out at the lush, towering green forest waiting for them beyond the rain. The answer felt almost incredibly obvious.
+
+"Well," Wyatt smiled, his voice a low, warm rumble. "We walk around in our own skin. We harvest fruit right off the branch. We have the Eden Rule."
+
+Sarah’s face broke into a massive, radiant smile. "Eden."
+
+"Planet Eden," Wyatt declared. "It fits perfectly."
+
+"Exoplanet 4 is now permanently registered as Eden," Aria updated, the new name glowing proudly above their home world in the projection.
+
+"And finally," Sarah said, looking around the massive, luxurious, multi-level mountain fortress that had shielded them from the storm and hidden them from the galaxy. "The estate. The billionaire built it as a doomsday bunker, but for us... it's the exact opposite. It's the only place we've ever been truly safe."
+
+"It's a sanctuary," Wyatt murmured, resting his hand flat against her bare stomach, right where their future children would eventually grow.
+
+"The Sanctuary," Sarah echoed, the name carrying a heavy, profound weight. "That's it, Wyatt. We are Wyatt and Sarah Colton. We live at The Sanctuary, on the planet Eden, in the Helios System."
+
+"Registry complete," Aria announced, her synthesized voice carrying a distinct note of finality. "The localized cartography has been fully overwritten. The corporate designations have been permanently purged from the archives."
+
+Wyatt leaned back, pulling Sarah fully against his chest, a deep, overwhelming sense of accomplishment washing over him. The map was theirs. The universe was theirs.
+
+They weren't just surviving anymore. They had officially named their home, laying the foundational bedrock for the thousands of lives currently sleeping in the vault miles below them.
+
+"Planet Eden," Sarah whispered, closing her eyes and listening to the gentle crackle of the geothermal fire pit. "I think the kids are going to love it here."
+

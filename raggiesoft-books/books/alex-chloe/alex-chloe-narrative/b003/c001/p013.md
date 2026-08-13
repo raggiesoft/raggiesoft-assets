@@ -1,0 +1,22 @@
+# Part 1: A Canadian Word (Winter 1999)
+
+The first real cold snap of their freshman year arrived in late November, a crisp, brilliant weekend where the Virginia sky was a deep, cloudless blue but the wind had a sharp, biting edge. For Chloé, who was used to the profound, bone-deep cold of the Eastern Townships, it was invigorating. For Alex, it was just cold.
+
+Chloé was at Alex's house, and they were planning to walk over to the local library to pick up some books for a history project. As they were getting ready to leave, bundling into their winter jackets, Chloé pulled on a bright red knit hat. She looked over and noticed Alex was still bare-headed.
+
+"Whoa, hang on," she said, stopping him before he wheeled out the door. "It's really windy out there. You'll freeze your ears off! Where's your toque?"
+
+Alex paused, a look of genuine, logical confusion on his face. He had never heard that word before. He typed on his AAC.
+
+WHAT IS A TOQUE?
+
+Chloé blinked, then a look of understanding dawned on her face. "Oh! Right. You guys probably call them something else here. A toque," she said, pointing to the hat on her head, "is what we call a winter hat in Canada. You know, a knit hat. It's a Canadian thing."
+
+Alex's expression cleared. It was just a word. A Canadian word. It made perfect sense that Chloé, with her Québécois mother, would use it. He filed the new piece of information away in his mind, a new word for their shared vocabulary.
+
+I THINK MY MOM CALLS IT A BEANIE, he typed, his tone purely informational.
+
+"Beanie! Okay, cool," Chloé said with a nod. "Well, you should go get your beanie, then. It's cold out!"
+
+A moment later, with Alex properly bundled in his own winter hat, they went out into the bright, cold afternoon, ready for their trip to the library.
+

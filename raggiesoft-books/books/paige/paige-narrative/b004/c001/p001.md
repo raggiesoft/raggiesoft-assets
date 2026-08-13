@@ -1,0 +1,116 @@
+# Part 1: The Remainder
+
+## Spring 2004 Tuesday, January 20, 2004 — 14:00 PM
+
+The lecture hall in **Copernicus Hall** was a vast, tiered cavern designed to hold two hundred students, but for **PHY 102: Introduction to Astronomy**, it felt comfortably full with just over a hundred.
+
+For Freddie Avery, this room was a sanctuary compared to the biological chaos of a dissection lab.
+
+The air was cool and dry. The lighting was dim to allow for the overhead projector. The subject matter—*Stellar Evolution and Orbital Mechanics*—was pure, unadulterated logic.
+
+Freddie sat in the fourth row, center.
+
+As the noise of the pre-class chatter rose, he initiated the "Docking Protocol." He wasn't just sitting next to Paige; he was integrated with her.
+
+Paige sat on his right. She had her arm wrapped firmly around his shoulders, her hand resting protectively on his upper arm. It wasn't a casual drape; it was a shield wall.
+
+She pulled him in close, and Freddie leaned heavily into her side, pressing his face against the soft cotton of her sweater.
+
+To the uninitiated, it might have looked intense. To Paige, it was a necessary signal to the room: *He is occupied. He is protected. Keep walking.*
+
+She scanned the aisle with narrow eyes, looking for any "Krystals"—anyone with popped collars or chewing gum who might see a vulnerable target.
+
+"Okay, everyone," **Professor Haldeman** announced, his voice booming over the PA system. "We are moving into the practical application phase. The semester-long project is **'Designing a Solar System.'**"
+
+Freddie perked up, though he stayed glued to Paige’s side. *World-building.*
+
+"This is a collaborative effort," Haldeman continued. "You will form groups of **four**. No more, no less. The workload is calibrated for a quartet. Take the next five minutes to assemble your teams."
+
+The room dissolved into chaos. Chairs scraped. Backpacks thumped.
+
+"Hold fast," Jessica said calmly from Freddie’s left, opening her **MagnaByte** laptop. "Let the particles settle. We are the nucleus."
+
+"We are three," Freddie whispered into Paige’s shoulder. "The integer is incorrect. We require a fourth variable."
+
+"We'll find one," Paige said, tightening her grip on his shoulder. She glared at a guy in a backward baseball cap who looked like he was about to approach. The guy saw the hug, saw the glare, and moved on.
+
+"Is this seat taken?"
+
+The voice was soft. It wasn't shrill. It wasn't loud. It was low, modulated, and calm.
+
+Freddie peered out from the safety of Paige’s shoulder.
+
+Standing in the aisle was a girl. She looked... tidy.
+
+She was wearing a pressed button-down shirt tucked into a knee-length skirt. Her hair was pulled back in a severe, efficient bun held in place by a tortoise-shell clip. She held a notebook clutched to her chest with both arms.
+
+Paige didn't let go. She kept her arm locked around Freddie, staring the girl down. *State your business.*
+
+The girl looked at the hug. She looked at Freddie’s face—the dark eyes, the glasses, the nose. Then she looked at Paige’s face.
+
+She didn't sneer. She didn't look confused. She nodded, a small, clinical gesture of recognition.
+
+"I see the resemblance," the girl said quietly. "Strong genetic markers. Siblings?"
+
+Paige blinked. The girl hadn't made it weird. She had identified the data.
+
+"Twins," Paige stated, her grip relaxing just a fraction.
+
+"Efficiency," the girl noted. "You already have a communication shorthand. That will be useful for the project."
+
+She looked at Freddie. She didn't look at his legs or the way he was hiding. She looked past him to the screen of his heavy **Iron-Logic** laptop sitting on the desk.
+
+"I noticed your interface," she said to Freddie. "You're using the dark mode setting on the astronomical software. White text on black background."
+
+Freddie sat up slightly, though he kept Paige’s arm around him.
+
+"It reduces eye strain," Freddie replied automatically. "It mimics the vacuum of space. It is superior for data retention."
+
+"I agree," the girl said. She offered a small, contained smile. It wasn't a predatory smirk. It was a polite expression of data alignment.
+
+"I'm Vanessa," she said. "I am currently unassigned. My previous lab partner dropped the course. I have a 4.0 GPA in mathematics, and I actually enjoy spreadsheets."
+
+Jessica looked her up and down from the other side. The "Matriarch Scan" was running.
+
+- **Smoke smell?** Negative. She smelled like soap and old paper.
+
+- **Chaotic energy?** Negative. She stood perfectly still.
+
+- **Reaction to the Hug:** Neutral/Positive.
+
+"We need a fourth," Jessica admitted, relaxing her shoulders. "I'm Jessica. This is Paige. And the Captain there is Freddie."
+
+"The Captain?" Vanessa asked.
+
+"He understands the orbital mechanics," Paige explained. She finally let her arm drop from Freddie’s shoulder, though she kept her hand resting on his arm. "We just handle the logistics."
+
+Vanessa nodded. She looked at the empty seat next to Jessica (on the outside of the phalanx).
+
+"May I?" she asked.
+
+Freddie looked at her. She felt... orderly. She felt like a person who read the manual before opening the box.
+
+"Clear for docking," Freddie whispered.
+
+Vanessa sat down. She didn't slam her bag. She placed it quietly on the floor. She opened her notebook. She uncapped a pen.
+
+She sat up straight, ready to work.
+
+"So," Vanessa said, her voice dropping to a library whisper that didn't trigger Freddie’s sensory alarms. "For the habitable zone calculation... are we assuming a G-type main sequence star, or are we going exotic?"
+
+Freddie looked at her. She spoke the language. She respected the volume.
+
+"G-type," Freddie said, turning his body slightly toward her. "Standard yellow dwarf. It provides the most stable baseline for life."
+
+"Agreed," Vanessa said, writing it down. "Stability is key."
+
+Paige looked at Jessica over Freddie’s head. She raised an eyebrow. *She seems okay. She gets it.*
+
+Jessica nodded. *She's quiet. She's smart. She's safe.*
+
+Freddie looked at his screen, then at the new variable in their equation.
+
+For the first time in a long time, a stranger had entered the perimeter, and the alarms hadn't gone off.
+
+"Group 4 formed," Freddie noted. "Status: Complete."
+

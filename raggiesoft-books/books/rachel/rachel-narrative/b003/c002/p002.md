@@ -1,0 +1,60 @@
+# Part 2: The Vault and the VHS – 9:30 AM
+
+The quiet safety of the living room hung in the balance. Rachel had just spoken the terrifying truth out loud, admitting to Ashley that she was afraid of being stepped on again.
+
+Ashley, still resting her head gently on the edge of the quilts, suddenly pulled back. Her brow furrowed in deep, ten-year-old confusion. Her brain was trying to connect the dots between a martial arts class and the horrific medical setup in our living room.
+
+"Wait," Ashley said, her voice dropping into a shocked whisper. She looked at Rachel, then at me. "Someone *stepped* on you two? Like... on purpose?"
+
+The question wasn't meant to be hurtful. It was just innocent disbelief. But the moment the words hit the air, the memory of Thursday night violently flooded back. The image of the Dojang ceiling. The smell of the foam mats. The suffocating, crushing weight of a grown man bearing down on our stomachs.
+
+Rachel’s breathing hitched. Her hand clamped down on mine over the pillow wall with terrifying force. She squeezed her eyes shut, and I could physically see the heavy, iron vault door slam shut over her vocal cords. Bringing up the memory had instantly triggered the mutism. She was completely locked in again.
+
+"I'm here, Bug," I whispered frantically, trying to anchor her. I looked at our best friend. "Ash, she can't—"
+
+"I'll tell her," Jessica interrupted firmly from her floor mattress.
+
+Jessica sat up straight, crossing her arms. At fourteen, she possessed a fierce, protective edge that completely overrode any polite hesitation. She wasn't going to let Rachel suffer through the memory, and she wasn't going to sugarcoat what had been done to us.
+
+Ashley turned to look at my older sister, her blue eyes wide.
+
+"It was the instructor," Jessica explained, her voice vibrating with a cold, absolute anger. She completely refused to use his title. He wasn't a Master. He was just a monster named Curtis. "On Tuesday, Rachel was trying to be brave. She finally used her voice in class and called Curtis mean. He didn't like that a little girl talked back to him."
+
+Ashley gasped, her hands covering her mouth.
+
+"So on Thursday, he punished the entire class," Jessica continued, her jaw tight. She kept the details brief, sparing us the visceral horror but delivering the factual gravity of the assault. "He made all the kids lie flat on the mats, and he walked down the line. He stepped his bare foot right onto their stomachs. He hurt a six-year-old boy named Drew so badly they had to rush him to the hospital for emergency surgery. And then he came back and did it again to Michael and Rachel."
+
+"He sent them to the emergency room," Janette chimed in, her own voice thick with disgust. "That's why they have the medical binders. He tore Michael's stomach muscles, and he cracked Rachel's ribs."
+
+Ashley stared at us, the innocent confusion completely vanishing from her face. It was replaced by a pure, unadulterated, ten-year-old fury. In Ashley's world, Rachel and I were her pack. The realization that a grown adult had deliberately hunted her best friends completely shattered her worldview.
+
+She didn't ask any more questions. She didn't press Rachel to talk. Ashley just crawled completely onto Jessica's floor mattress, positioned herself right next to Baby, and glared at the front door as if daring Curtis to try and walk through it.
+
+"If he ever comes near you guys again," Ashley declared fiercely, "my dad will destroy him."
+
+"He's in jail, Ash," I promised her quietly. "He's not getting out."
+
+The tension in the room was thick enough to cut with a knife. The emotional toll of recounting the story had exhausted us, and Rachel's knuckles were still white from gripping my hand. We needed a distraction. We needed the Base Camp to feel like a sanctuary again, not a triage tent.
+
+Janette recognized the shift in the atmosphere immediately. She stood up from her mattress and walked over to the entertainment center.
+
+"Okay, no more talking about the Dojang," Janette ordered, taking charge. She opened the heavy wooden doors of the TV cabinet and pulled out a stack of black VHS tapes. "It's Tuesday morning, the adults are at work, and we have the TV to ourselves. What are we watching?"
+
+"Majestic Studios," Ashley requested instantly, recognizing the classic, white clamshell cases.
+
+"Obviously," Janette smiled. She held up two tapes. "We did *The Desert Prince* and *The Lion's Reign* yesterday. So today, it's a double feature: *The Coral Kingdom*, and then *The Enchanted Rose*."
+
+I felt Rachel's grip on my hand loosen just a fraction of an inch. *The Coral Kingdom* was exactly what she needed. It was the animated classic about the red-haired mermaid who loses her voice but still manages to beat the sea witch and get her happy ending. It was a safe, predictable narrative where the monsters always lost.
+
+"Perfect," Jessica agreed.
+
+Janette slid *The Coral Kingdom* into the VCR and pushed the heavy tape in until the machine whirred to life. She grabbed the remote, turned the volume up just enough to drown out the quiet hum of the refrigerator in the kitchen, and went back to her post on the floor.
+
+The familiar, sweeping orchestral music filled the living room, instantly changing the entire energy of the house.
+
+I lay back against my foam wedge, staring straight ahead at the TV screen. To my left, Rachel did the same. Our hands remained firmly laced together over the three-pillow barrier. Below us, Archie let out a soft snore from under the coffee table, and Baby rested his heavy chin on his paws. Ashley sat cross-legged on the floor, leaning comfortably against Jessica's shoulder.
+
+Through the heavy wooden door leading to the kitchen, I could hear the faint murmur of Uncle Jim talking to Grandma Loretta, the scent of fresh coffee drifting under the doorframe.
+
+The marathon had officially begun. We were trapped in our medical binders, and the pain in my core was a constant, dull ache. But as the animated mermaid swam across the screen, surrounded by our sisters, our best friend, our dogs, and the protective adults in the kitchen, the Base Camp finally felt safe again.
+

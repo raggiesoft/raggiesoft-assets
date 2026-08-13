@@ -1,0 +1,88 @@
+# Part 13: The Imperial Rapids – 4:45 PM
+
+When we finally stumbled off *The Siege Engine*, our throats were completely raw from the screaming contest, but we were absolutely victorious.
+
+I checked my waterproof digital watch. "It's almost five o'clock. We have to be at the *Sovereign Palace Theater* by six to get into our uniforms."
+
+"We have time for exactly one more ride," Ashley calculated, wiping a bead of sweat from her forehead. The afternoon sun had baked the leftover rainwater off the pavement, causing the heavy, suffocating Virginia humidity to return with a vengeance. "And I am boiling. We are going to Italy's water ride."
+
+We joined the massive, winding queue for *The Imperial Rapids*.
+
+Because it was sweltering and the ride was famous for soaking people, the line was agonizingly long. But standing next to Bonnie, our fingers still loosely laced together, the hour-long wait felt entirely insignificant.
+
+When we finally reached the front of the line, the logistics of boarding required a precise, well-practiced tactical maneuver.
+
+The loading station for the rapids was a massive, continuously moving circular wooden turntable. The boats themselves were giant, fiberglass circles designed to look like oversized black tires, constantly drifting along the edge of the rotating platform.
+
+For someone with cerebral palsy, transferring from stationary wooden stairs onto a rapidly moving, wet floor, and then stepping down into a bobbing raft, is an absolute nightmare for equilibrium and muscle spasticity.
+
+I didn't even have to ask. As we approached the stairs, Ashley dropped into her role as my mobility assist with flawless, instinctual precision.
+
+She stepped in front of me, planting her feet securely on the moving turntable first. She reached back, locking her hand around my wrist in an iron-clad, utilitarian vice grip. She acted as a rigid, immovable counterbalance, absorbing my weight and stabilizing my center of gravity as I stepped off the stairs and onto the rotating floor.
+
+Once I was safely on the platform, she helped guide me down into the heavy rubber raft. It was just another piece of the Base Camp algorithm—a completely platonic, essential function of our pack that Bonnie now perfectly understood.
+
+The raft seated six people in pairs of two around a circular central core. I slid into one of the bench seats, and Bonnie immediately climbed in right next to me. Ashley took the bench to our left, sitting next to a random middle schooler, while two other random tourists filled the remaining bench to our right.
+
+I reached over and pulled the heavy, thick canvas seatbelt across both Bonnie's waist and mine, clicking it securely into the buckle. Sharing a single seatbelt forced us tightly shoulder-to-shoulder, our knees pressed together in the cramped footwell.
+
+The raft bumped off the loading platform and drifted out into the artificial river.
+
+Unlike the log flume, *The Imperial Rapids* featured no steep drops. It was a chaotic, gently sloping river that continuously spun the massive rubber tire as it bounced off the submerged wooden walls.
+
+For the first half of the ride, we just drifted, getting splashed by the occasional rapid. But as the current pushed us around the final bend, the true threat of the ride loomed overhead.
+
+Spanning across the width of the river was a massive, stone Roman aqueduct. Every few seconds, a torrential, punishing waterfall dumped straight down from the arches into the river below.
+
+As our raft drifted closer, the current caught us, spinning us directly toward the waterfall.
+
+Panic instantly erupted in the raft. "Grab the wheel!" the tourist across from us yelled.
+
+Everyone in the boat lunged forward, grabbing the circular metal bar mounted in the center console, trying desperately to yank their body weight to the side to steer the raft away from the falling water. Bonnie grabbed the bar, laughing hysterically, trying to pull us out of the line of fire.
+
+My processor knew the physics. Grabbing that central ring was a 100% psychological placebo effect. You absolutely cannot steer a two-ton, free-floating fiberglass raft by pulling on a metal ring bolted to its own floor. The current and the bumper walls dictated the spin, and our fate was entirely at the mercy of the water. But it always made people feel better to try.
+
+I wrapped my arm around Bonnie's shoulders, bracing for impact as the spin slowed down, locking our side of the raft directly under the shadow of the aqueduct.
+
+"Incoming!" Ashley yelled, ducking her head.
+
+The waterfall hit us with the force of a collapsing roof.
+
+Hundreds of gallons of freezing water dumped directly onto my and Bonnie's heads. It completely overwhelmed us, soaking our hair, our shirts, and our jeans in a fraction of a second. I gasped at the freezing shock, pulling Bonnie tighter against my side as the water cascaded over us. The blast radius exploded outward, successfully splashing Ashley and the middle schooler next to her, leaving the two random tourists completely dry on the opposite side of the raft.
+
+We drifted out from under the aqueduct, utterly annihilated by the water.
+
+Bonnie wiped her soaking wet hair out of her eyes and burst into a fit of uncontrollable, breathless laughter. I sat next to her, dripping wet and shivering in the afternoon heat, laughing right along with her.
+
+As the current mellowed out, the raft bumped against the wooden guide rails and engaged with the final lift hill. A heavy, metallic *clack-clack-clack* echoed over the water as a wide rubber conveyor belt caught the bottom of our raft, slowly pulling us up a steep incline back toward the elevated loading station.
+
+Ashley wiped the water from her face and looked across the raft at me. A perfectly synchronized, silent data exchange happened between us. It was time for the absolute most classic, time-honored local prank in the park.
+
+Ashley grabbed the central ring with both hands, her face dropping into a mask of deadpan, grave seriousness. "Alright, brace yourself, Bonnie."
+
+Bonnie blinked, wiping a drop of water from her nose. "For what?"
+
+"The big drop," I said, matching Ashley’s completely serious tone. I tightened my arm around Bonnie's shoulders. "It's a seventy-foot vertical plunge in the dark. That's why the lift hill is so steep."
+
+Bonnie’s eyes widened. As a coaster nerd, her brain was desperately trying to calculate the physics. "Wait, what? I didn't see a massive drop from the midway. The park map didn't say—"
+
+"It's built into a tunnel underground," Ashley interrupted smoothly, pointing up toward the top of the conveyor belt. "Hold your breath when we go over the edge or the water goes straight up your nose."
+
+Bonnie instantly tensed up. She grabbed my hand with a vice grip, her heart rate spiking against my side as she stared in absolute terror at the crest of the lift hill. She was completely bracing for a massive, stomach-dropping freefall.
+
+The raft reached the absolute top of the incline.
+
+Instead of plunging into the abyss, the raft simply leveled out, rolling gently off the conveyor belt and bumping softly against the spinning wooden turntable of the unloading station.
+
+Ashley and I completely lost it. We burst into hysterical laughter, our absolute absolute flawless deadpan delivery breaking the second we hit the flat platform.
+
+Bonnie stared at the completely flat, safe station, her brain taking a full three seconds to process the math. Then, she groaned, dropping her head against my shoulder and lightly shoving my chest.
+
+"I hate you both so much," Bonnie laughed, her cheeks burning bright pink as the ride operator opened the air gates.
+
+"Local privilege," Ashley smirked, wringing out the hem of her wet t-shirt as she stood up. "We get everyone with that."
+
+I helped Bonnie unbuckle our shared seatbelt, and with Ashley stepping onto the moving platform first to stabilize my exit, our pack successfully navigated the final ride of the afternoon. We were completely exhausted, entirely soaked, and perfectly happy.
+
+"Come on," I said, giving Bonnie's hand one last squeeze before letting go so we could navigate the crowd. "We have an hour to dry off before Ms. Pitizer kills us for showing up to the *Sovereign Palace Theater* looking like drowned rats."
+

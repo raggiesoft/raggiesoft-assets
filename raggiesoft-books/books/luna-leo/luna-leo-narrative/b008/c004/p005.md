@@ -1,0 +1,36 @@
+# Part 6: Saturday Matinee and a Souring Mood
+
+Their meal finished amidst laughter and excited chatter, the remnants of burgers and fries from Golden Star Burgers littering the table. Stella crumpled her napkin. "Alright, movie moguls, time to head to the theater. Don't want to miss the previews!"
+
+As they began to gather their things, Luna, while helping Leo adjust his backpack on his chair, glanced up. Her eyes suddenly narrowed, her posture stiffening almost imperceptibly. Across the now slightly less crowded food court, a familiar figure had just walked in, flanked by a couple of giggling friends: Jessica.
+
+Luna’s internal "JERK ALERT!!" klaxon blared. Instinctively, a defense mechanism honed by past unpleasant encounters involving Jessica’s unwelcome and often mocking attention towards Leo, Luna began to hum, very softly, almost under her breath – the searching, ethereal flute melody from Origin's "Kaleidoscope Sun." It was so quiet, Stella, busy clearing her tray, likely didn't register it.
+
+Olivia, who had been chatting happily with Leo, caught the tail end of Luna’s soft hum. It was the same faint, almost mystical-sounding wisp of a melody she remembered hearing Luna hum in the assembly a few days before Josh Riley was removed. Her attention sharpened. Then, she noticed Leo’s reaction to the hum: he gave a small, almost imperceptible nod towards Luna, his expression shifting from relaxed anticipation to a more guarded, alert awareness, though his smile for Olivia didn't falter. Olivia didn't understand the specific signal, but she was starting to connect the dots: Luna’s quiet hum often preceded or coincided with Leo having a subtle but definite shift in his demeanor, especially if there was someone unpleasant nearby. She glanced in the direction Luna was subtly watching and saw Jessica, her face already contorting into a familiar sneer as she spotted Leo’s group. *Ah,* Olivia thought with dawning comprehension. *That explains the hum.*
+
+Leo, having also followed Luna's gaze and registered Olivia's quick, perceptive glance, saw Jessica. A flicker of remembered discomfort, of her previous dismissive comments and pushiness, crossed his face. He gave Luna that tiny, almost invisible nod of acknowledgment. *Playing the Flute.* Message received.
+
+Jessica and her friends, loud and oblivious, were scanning the food court options. "Like, oh my god, that new sci-fi movie is going to be epic!" one of Jessica’s friends declared loudly. "We totally have to get good seats!"
+
+"Duh, that's why we're trying to get there now," Jessica replied, tossing her hair. "Let’s just grab a soda and then hit the ticket line before it gets insane." She clearly hadn't heard Olivia's earlier comment about it being sold out for weeks.
+
+Stella, Luna, Leo, and Olivia made their way out of the food court, heading towards the cineplex located at the far end of the mall. They could hear Jessica’s group laughing and talking animatedly as they followed a similar path a short distance behind them, clearly intending to see the same blockbuster.
+
+The lobby of the cineplex was already bustling. Large posters for the new sci-fi movie adorned the walls, many stamped with a stark, red "SOLD OUT" banner. A long, snaking line had formed at the ticket counter.
+
+Stella, unfazed, led her group past the lengthy queue, directly towards the usher checking tickets at the entrance to Auditorium 3. She presented their pre-purchased tickets from her phone. The usher scanned them with a professional smile. "Enjoy the show! Straight down the hall, last theater on your left."
+
+As they walked towards their auditorium, they heard a commotion erupting from the ticket line they had just bypassed. Jessica’s voice, sharp with indignation and disbelief, cut through the lobby noise.
+
+"What do you *mean*, SOLD OUT?! That's impossible! We just got here! We want four tickets for the next showing of 'Chronos Shift'!"
+
+"I'm sorry, miss," the flustered ticket agent's voice replied, strained but firm, "but 'Chronos Shift' is completely sold out. All showings for today and tomorrow have been fully booked for over a week. There are literally no seats left."
+
+"But... but we came all this way!" one of Jessica’s friends wailed, her voice laced with dismay. "It's the only thing we wanted to see!"
+
+Jessica's frustrated sigh was audible even from where Leo's group paused for a moment near their theater entrance. "Ugh, this is ridiculous! This always happens to me! Some people get all the luck," she grumbled bitterly, shooting a sour, unknowing glance towards the general direction of the departing crowd, which included Stella’s group disappearing into their auditorium. Her plans for an "epic" movie afternoon were clearly ruined.
+
+Luna exchanged a small, almost imperceptible smirk with Leo, who offered a tiny, relieved shrug. Stella simply ushered them into the dim theater, a quiet satisfaction in her expression. Olivia, now with a clearer understanding of Luna's subtle signals and the dynamics at play, gave a small, empathetic smile towards Leo, just happy to be with her friends and about to see the most anticipated movie of the year. The Flute's refrain had served its subtle purpose of shared awareness, and now, a different kind of adventure awaited them on the big screen, secure in the knowledge their seats were guaranteed.
+
+
+

@@ -1,0 +1,58 @@
+# Part 4: The Ark – Friday, May 10, 2045 – 12:30
+
+Sarah kept her hand pressed against the rough, textured bark of the massive White Oak. For a girl who had grown up in the failing, rust-choked agricultural colonies of the frontier, standing barefoot beneath a tree that had evolved millions of years ago on humanity's homeworld was a spiritual experience.
+
+She wiped the tears from her cheeks and looked around, her eyes wide with absolute wonder.
+
+"Aria," Sarah called out, her voice soft, almost afraid to disturb the profound peace of the room. "How big is this place?"
+
+*"The Earth Conservatory spans exactly four point two acres, Sarah,"* Aria’s voice filtered down, not from a harsh PA speaker, but from flawlessly hidden acoustic drivers integrated into the artificial topography. It sounded like the voice was simply riding the gentle breeze. *"The original architect wanted enough space to prevent agoraphobia during generational lockdowns."*
+
+Wyatt stepped away from the oak, his bare feet sinking into the thick, vibrant Kentucky bluegrass. He looked up at the ceiling.
+
+It wasn't a flat roof painted blue. The ceiling was a massive, vaulted dome lined with millions of volumetric micro-LEDs. They didn't just project light; they created an illusion of infinite depth. Right now, it displayed a brilliant, clear noon sky with a few wispy, perfectly rendered cumulonimbus clouds slowly drifting toward the simulated horizon.
+
+"The sky," Wyatt noted, thoroughly impressed. "It’s matching the time of day."
+
+*"Correct, Wyatt,"* Aria chimed. *"The circadian lighting array is synced to the estate's master chronometer. It simulates a flawless Earth-standard diurnal cycle, including dynamic sunrises, sunsets, and lunar phases. Furthermore, hidden atmospheric turbines generate randomized, gentle cross-breezes to ensure the flora develops proper structural tension in their root systems."*
+
+Sarah left the oak tree, lacing her fingers through Wyatt’s as they followed the winding cobblestone path deeper into the conservatory.
+
+Every step revealed a new, painstakingly curated biome. To their left, the rolling grass gave way to a spectacular botanical garden. There were thick bushes of blooming hydrangeas in vibrant blues and purples, creeping vines of sweet-smelling jasmine, and rows of pristine, deep-red heirloom roses.
+
+The air here was heavily perfumed, a sweet, intoxicating mix of pollen and rich, damp topsoil that made the recycled oxygen of the upper decks feel entirely sterile by comparison.
+
+As they walked past a cluster of tall, swaying sunflowers, a sudden flash of movement caught Sarah's eye.
+
+A tiny, delicate creature with brilliant orange and black wings fluttered past her shoulder, landing gracefully on the center of a sunflower.
+
+"A butterfly?" Sarah gasped, leaning in closer. "Wyatt, look. It's real."
+
+*"The Conservatory maintains a perfectly balanced, closed-loop ecosystem of essential invertebrates,"* Aria explained, acting as the ultimate tour guide. *"While there are no vertebrate animals to manage, there is a sustaining population of Apis mellifera—honey bees—and various Lepidoptera species to ensure natural cross-pollination of the blooming flora. They nest in the eastern ridge of the dome."*
+
+"He brought the bees," Wyatt chuckled, shaking his head. "I'm telling you, Sarah, this guy wasn't just building a bunker. He was building Noah's Ark."
+
+They continued down the path, the sound of trickling water drawing them toward the back of the massive cavern.
+
+Nestled at the base of a gentle, artificial hill was a beautifully crafted reflecting pond, fed by a babbling, recirculating brook that spilled over smooth river stones. Weeping willows lined the banks, their long, leafy branches trailing lazily in the cool water.
+
+Wyatt and Sarah walked to the edge of the pond. Without a word, they both sat down on the soft, mossy bank.
+
+They were completely bare, sitting in a perfect, 21.6°C simulated summer afternoon, while a violent super-cell storm raged against the mountain outside.
+
+Sarah leaned her head against Wyatt's shoulder, looking across the pond at a small grove of Japanese cherry blossoms, their pale pink petals occasionally drifting down to float on the surface of the water.
+
+"I can't believe this is ours," Sarah murmured, her hand resting on Wyatt's knee. "Apex thought they owned the universe. They thought they owned us. And all the while, this was just sitting here in the dark, waiting to be turned on."
+
+"It's not waiting anymore," Wyatt said, his arm wrapping securely around her waist.
+
+He looked at the towering oak tree in the distance, the buzzing bees, and the bright, simulated sky. Back on Earth, the megacorporation had driven the planet to a catastrophic, apocalyptic collapse. But here, millions of miles away, the best parts of that world had been perfectly preserved.
+
+"When we have the kids," Sarah said softly, her eyes drifting shut as a gentle, artificially generated breeze washed over them, carrying the scent of jasmine. "We're going to bring them here. We'll lay a blanket out under that oak tree, and we can read to them from the university archives."
+
+Wyatt smiled, his heart swelling with a profound, overwhelming sense of peace. He kissed her bare shoulder.
+
+"A picnic in the park," Wyatt agreed. "Right in our own basement."
+
+They sat by the reflecting pond for a long time, simply soaking in the absolute serenity of the Conservatory. It wasn't just a room; it was a promise that no matter what happened in the galaxy, the beauty of their origins would never be lost.
+

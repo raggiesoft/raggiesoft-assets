@@ -1,0 +1,62 @@
+# Part 10: The Wrap Up
+
+## Date: October 12, 2004 Time: 8:30 AM Location: The Pharmacy Waiting Area
+
+They were sitting in the plastic chairs, waiting for the pharmacist to mix the Nystatin. The adrenaline had faded, but the image of the screaming man was still fresh.
+
+Nichole was watching the floor, her mind replaying the way the man had grabbed the woman’s arm. *Property.*
+
+Patrick leaned forward, resting his elbows on his knees, matching her eye level.
+
+"You know what just happened back there?" Patrick asked quietly.
+
+Nichole looked at him. She tapped her chest. *Scary.*
+
+"Yeah, he was scary," Patrick agreed. "But did you see what the nurses did? Did you see what happened when they finally got her alone behind that door?"
+
+Nichole thought about it. The shouting stopped. The man was taken away. The woman was safe.
+
+"That protocol—the 'Two Minute Rule' where I wait outside?" Patrick pointed to the clinic door. "That is the Escape Hatch."
+
+He took her hand, his grip loose and voluntary.
+
+"That guy? He relies on never letting her go. He relies on being in the room so he can answer for her. 'She doesn't speak English.' 'She's clumsy.' 'She's mine.'"
+
+Patrick tightened his jaw.
+
+"The only way the doctors can catch a guy like that is to force him to let go. Even for just two minutes."
+
+He looked Nichole dead in the eye.
+
+"That's why I sit in the chair, Nikki. Even when you're crying. Even when you're hurting and you want me. I sit in that chair to prove to every single person in this building that I am not him."
+
+"I give you the room," Patrick said, pressing his thumb gently into her palm, "so you can tell them the truth. And if the truth is 'Patrick is safe,' then I come back. But I will *always* give you the room first."
+
+Nichole looked at him. She realized that his refusal to break the rules wasn't him abandoning her. It was him giving her a weapon she would hopefully never need to use, but one he demanded she have anyway.
+
+She squeezed his hand back.
+
+She understood. The empty chair wasn't a void. It was a shield.
+
+## Date: October 12, 2004 Time: 8:45 AM Location: The Pharmacy / BTA Bus Stop
+
+They picked up the Nystatin cream and the oral antifungal without issue.
+
+By 9:00 AM, they were back on the OSTA bus, heading toward the ferry.
+
+The crisis was contained. The infection was being treated. But the lesson of the morning had been permanently burned into the Bennett Machine's operating code.
+
+Protocol wasn't a hassle. Protocol was a shield.
+
+As the bus rumbled down Broadway, Patrick leaned over.
+
+"We missed English," he noted, checking his watch. "Professor Harrison is going to wonder where the front row went."
+
+Nichole smiled tiredly. She tapped her screen.
+
+"TELL. HIM. WE. WERE. FIGHTING. MONSTERS."
+
+Patrick laughed, wrapping his arm around her shoulders.
+
+"Yeah. We were."
+

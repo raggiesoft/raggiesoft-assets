@@ -1,0 +1,32 @@
+# Part 4: The Unraveling and The Aftermath
+
+The two weeks of waiting for the test results were, for Vera, a period of smug, righteous certainty. She was pregnant. It had to be Alex's. She had won.
+
+The call from her lawyer, Mr. Henderson, came on a Tuesday afternoon. "Vera," he said, his voice flat and weary, "the results are in. I need you to come to my office to review them."
+
+She arrived with a triumphant smirk, ready to discuss financial terms. Mr. Henderson, however, slid the official lab report across his desk. Vera snatched it up, her eyes scanning for the conclusion: "*Based on the genetic markers analyzed, the alleged father, Alexander J. Miller, is excluded... The probability of exclusion is 99.9%.*"
+
+Mr. Henderson watched her, expecting tears or anger. He got delusion.
+
+Vera stared at the paper, her smirk twisting into something sharp and conspiratorial. She tapped the page, her finger landing on the "99.9%."
+
+"See?" she whispered, her voice a low, triumphant hiss. "It's not a hundred. That 0.1%. That's Alex. That's *us*. Our connection is stronger than their stupid science. This proves it!"
+
+"Vera," her lawyer said, his voice now full of a weary, dawning horror. "That's not what that means. For all legal and scientific purposes, this is a 100% exclusion. The case is over."
+
+"Then they got to the lab!" she shrieked. "His rich parents, they paid them off!"
+
+Mr. Henderson stood up, his professional patience finally exhausted. "Vera, I can no longer represent you. Your claim is baseless, and your refusal to accept the scientific facts puts you in significant legal jeopardy. We are done here." He showed her the door.
+
+That same afternoon, the phone rang in the Miller house. The entire family—the Millers, the Masons, and Megan—was gathered, a quiet, anxious vigil. James answered, putting the call on speakerphone.
+
+"James," Ms. Albright said, a note of grim satisfaction in her voice. "The results are in. Zero percent probability. Alex Miller is not the father."
+
+A single, profound, collective breath of relief went through the room. Alex, sitting on the sofa between Chloé and Megan, felt a tremor of pure, unadulterated relief wash over him. Chloé and Megan immediately enveloped him in a tight, three-person hug, a fortress of loving, triumphant support.
+
+The final communication was not a letter, but a legal package sent via courier the next day. It contained a formal, legally binding Cease and Desist order, drafted by Ms. Albright, forbidding Vera from any and all contact with Alex, Chloé, and their families. Attached to it were two exhibits: a certified copy of the DNA test results, and a certified copy of Alex's complete medical file on his Azoospermia.
+
+The package was addressed to Vera Kowalski, c/o Robyn Kowalski, ensuring that her mother would be aware of the legal finality of the situation.
+
+Faced with the undeniable, scientific truth, and now abandoned by her own lawyer, Vera's lie had crumbled into dust. She had no move left to make. The final, desperate thread she had tried to use to tether herself to Alex had been decisively, and legally, severed. He was free.
+

@@ -1,0 +1,148 @@
+# Part 2: The Inside Man
+
+Freddie held Harper for another minute, letting the heat of her small body soak into his chest. It was a good weight. It was a simple weight. The pressure on his sternum was actually helping to regulate his breathing, slowing the frantic thump-thump-thump of his heart.
+
+But the question marks in his head were getting louder, drowning out the comfort. He needed to process the data. He needed to analyze the crash. And he couldn't do that with a seven-year-old who thought he was just "leaking."
+
+"Harper," Freddie whispered, loosening his grip slightly on her back.
+
+"Yeah?" Harper mumbled into his shirt, snuggling deeper. "I'm still being a rock."
+
+"You are an excellent rock," Freddie said gently. "But I need to... debrief. I need to have a Big Kid conversation with the Lieutenants. It is classified."
+
+Harper pulled back. She pouted, her lower lip jutting out in a display of supreme disappointment. She liked being the one to fix things. She liked the rare privilege of being allowed in the "Cuddle Zone."
+
+"I can keep secrets," Harper insisted. "I know about the stash of candy bars in the pantry. I never told Mom."
+
+"I know," Freddie said, managing a weak, watery smile. "But this is High School Business. It is... boring. And sad. I do not want to upload sadness to you."
+
+Jessica leaned in, brushing a stray glitter-flake off Harper’s shoulder. "He needs a minute, Harp. We just need to talk about schedules and boring stuff. Go check on the twins? I think I heard them fighting over the red crayon."
+
+Harper sighed—a long, dramatic exhale that ruffled Freddie’s bangs.
+
+"Fine," she grumbled. She slid off his lap, her feet hitting the carpet with a thud. She adjusted her purple headphones around her neck. "But I'm coming back later. The rock is still available."
+
+"Noted," Freddie said.
+
+Harper turned to march out.
+
+"Harper," Jessica added softly. "Close the door behind you? Gently, please. No slams."
+
+Harper nodded solemnly. She walked to the double doors of the living room. She grabbed the brass handle. She looked back at Freddie one last time—verifying he was still intact—and then pulled the door shut with infinite care.
+
+Click.
+
+The silence that followed was heavy. The room felt suddenly larger and colder without the seven-year-old's energy.
+
+Freddie looked at Paige. Then he looked at Jessica.
+
+"Why?" Freddie asked. It was a single word, but it carried the weight of the entire afternoon.
+
+"Because Josh is a snake," Jessica said immediately, her hands balling into fists on her lap.
+
+"No," Freddie shook his head, staring at his hands. "I understand Josh. He is a predator. He attacks to establish dominance. That is... logical behavior for a bully."
+
+He took a shaky breath, picking at a loose thread on the sofa cushion.
+
+"I do not understand Courtney."
+
+Paige shifted, turning to face him fully, taking his hand again. "What do you mean?"
+
+"I was nice," Freddie said, his voice trembling. "I gave her the snowflake. I listened to her stories about the magnet program. I never... I never touched her without permission. I never bragged. I followed the protocols of friendship."
+
+He looked up at his sisters, his eyes red and searching for a data point he had missed.
+
+"I input kindness. I input respect. The expected output is friendship. Or at least... a query. Why did she believe the lie without asking me? Why did she just... delete me?"
+
+Jessica sighed, her expression darkening. She sat back on the coffee table, crossing her arms.
+
+"Because Josh didn't just say it to her face, Freddie," Jessica said, her voice tight. "He planted it. He used Derek."
+
+Freddie blinked. "Derek? The snare drummer?"
+
+"Yes," Jessica spat. "Josh told Derek the lie in the locker room. And because Derek is an idiot who loves drama, he went straight to Courtney and 'confirmed' it. He told her, 'Yeah, I heard Avery talking about it too.'"
+
+Freddie felt the blood drain from his face. "Corroboration," he whispered. "Two sources. Independent verification."
+
+"False verification," Paige corrected fiercely. "Derek didn't hear anything. He just wanted to be important. But Courtney... she’s fifteen, Freddie. And fifteen-year-old girls are terrified of being played. Josh and Derek made her feel stupid, and when people feel stupid, they panic. She panicked and hit the eject button."
+
+"So I did nothing?" Freddie asked.
+
+"You did nothing," Paige confirmed.
+
+"It... it bothers me," Freddie choked out, a fresh wave of tears leaking from his eyes. "It bothers me that I have no data to correct. If I had made a mistake, I could fix it. But if the error is external... I cannot patch it."
+
+The unfairness of it washed over him. He had lost his first crush, his first connection outside the family, not because of a failure in his system, but because of a glitch in someone else's.
+
+"It hurts," Freddie whispered.
+
+"I know," Jessica said softly, reaching out to rub his shin. "It sucks. It’s the worst kind of hurt."
+
+They sat there for a long time, the afternoon light fading in the windows. Paige held him. Jessica guarded him. They didn't have a solution, because there wasn't one. Courtney was gone.
+
+Eventually, Freddie pulled back. He sniffed, wiping his face with his sleeve. It came away wet and sticky.
+
+"I am... gross," Freddie murmured. "My face is tight. The salt is drying."
+
+"Tears do that," Jessica noted.
+
+"I require... cleanup," Freddie said. He started to stand, then hesitated. He didn't want to go to the bathroom alone. The mirror was in there. If he looked in the mirror right now, alone, he would just see the red eyes and the "freak" Courtney had looked at.
+
+"We got you," Paige said, standing up and offering him a hand.
+
+They walked him to the hallway bathroom. It was small, smelling of lavender soap and damp towels.
+
+Freddie sat on the closed toilet lid. He didn't have the energy to stand at the sink.
+
+Jessica ran the water until it was warm. She wet a soft washcloth.
+
+"Glasses off," Jessica commanded gently.
+
+Freddie took off his glasses. The world blurred, becoming soft and indistinct.
+
+Jessica wiped his face. She started at his forehead, wiping away the sweat of the panic. She moved to his eyes, pressing the warm cloth gently against the swollen lids.
+
+"It feels good," Freddie whispered.
+
+"Warmth helps the swelling," Jessica said.
+
+Paige stood by the door, handing Jessica a dry towel when she was done. She watched them. This was their system. When the world broke Freddie, they put him back together.
+
+Jessica dried his face. She put his glasses back on him.
+
+"Better?" Jessica asked.
+
+Freddie blinked. His eyes still burned, and he knew they looked puffy, but the crusty, tight feeling was gone. He felt... reset.
+
+"Better," Freddie confirmed.
+
+He stood up. He smoothed his shirt.
+
+"What now?" Paige asked. "Do you want to go to the room? We can close the door. Block out the signal. I can read to you."
+
+Freddie considered it. The bedroom was safe. It had his drawing table. It had silence.
+
+But then he heard a noise from the kitchen. The rumble of the garage door opening. The sound of the twins running down the hall screaming about a lost toy.
+
+"Mom is home," Freddie noted.
+
+"Dad isn't," Jessica added, checking her watch. "Late shift at the plant. He won't be back until midnight."
+
+Freddie processed this. No Robert. No judgment. Just the sisters and Mom.
+
+If he went to his room, he would be alone. He would be hiding. And if he hid, it felt like admitting he was guilty.
+
+"I am... hungry," Freddie realized. The emotional purge had hollowed him out.
+
+"Dinner?" Paige asked.
+
+"I do not want to hide," Freddie stated. He looked at his sisters. "I want to be in the living room. With the Unit."
+
+"Red eyes and all?" Jessica asked, smiling slightly.
+
+"Red eyes and all," Freddie said. "I am damaged. But I am operational."
+
+"That's the spirit," Paige said, squeezing his hand.
+
+They walked out of the bathroom together, heading not for the shadows, but for the kitchen, ready to face the noise of the family dinner.
+

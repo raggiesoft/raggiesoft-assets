@@ -1,0 +1,112 @@
+# Part 1: The Transaction
+
+## Wednesday, June 16, 2004 — 10:00 AM 105 Pepper Street SE — The Dining Room
+
+The dining room table was covered in a sea of paperwork. It wasn't the usual clutter of textbooks or laptops; these were heavy, legal-sized documents on bond paper, bound with blue backers.
+
+At the head of the table sat **Great Aunt Marge**. She was eighty-two, frail, and breathing with the help of a portable oxygen tank, but her eyes behind her bifocals were as sharp as cut glass.
+
+Surrounding her was a phalanx of professionals she had summoned personally.
+
+- **Mr. Sterling:** Her estate attorney, a man who wore suspenders and had zero sense of humor.
+
+- **Mrs. Gable:** Her real estate agent, there to facilitate the transfer of the title.
+
+- **Dr. Vance:** The family physician, there for a specific, legal purpose.
+
+- **A Notary Public:** A woman named Brenda with a heavy embossing seal.
+
+Sitting opposite them were the Averys: Jessica, Paige, and Freddie. They looked nervous. They felt like they were in a courtroom.
+
+"Alright," Mr. Sterling said, adjusting his glasses. "Before we execute the Deed of Sale, we must establish the capacity of the Grantor. Dr. Vance?"
+
+Dr. Vance stepped forward. He didn't smile. He looked at Marge.
+
+"Margaret," Dr. Vance said gently. "I need to ask you a few questions for the record. Can you tell me today's date?"
+
+"It is June 16th, 2004," Marge said, her voice raspy but firm. "It is a Wednesday. And it is getting warm outside."
+
+"Can you tell me where we are?"
+
+"We are at 105 Pepper Street. My house. Which I am about to sell."
+
+"And can you tell me," Dr. Vance continued, glancing at the lawyer, "why we are here? Do you understand the nature of this transaction?"
+
+Marge straightened up in her chair. She looked past the doctor, past the lawyer, and locked eyes with Freddie.
+
+"I am selling this property to my great-nieces and great-nephew," Marge stated clearly. "I am bypassing my niece, Ellen, entirely. I am doing this to ensure that when I die, Ellen cannot evict them, harass them, or force them to live according to her... outdated standards."
+
+She looked at the lawyer.
+
+"I am of sound mind, Mr. Sterling. My lungs are failing, not my brain. I know exactly what I am doing. I am securing their perimeter."
+
+Freddie blinked. *Securing the perimeter.* She used their language.
+
+Dr. Vance nodded. He signed an affidavit attached to the file. "Medical capacity confirmed. She is lucid and fully aware of the consequences of her actions."
+
+"Excellent," Mr. Sterling said. He slid the heavy stack of papers toward Marge.
+
+"This is a **Quitclaim Deed** transferring ownership from Margaret E. Lewis to Jessica, Paige, and Freddie Avery as **Joint Tenants with Right of Survivorship**," Sterling explained. "This means if anything happens to one of you, the house automatically belongs to the others. It cannot be inherited by parents or spouses. It stays in the Unit."
+
+"Perfect," Jessica whispered.
+
+"Now," the Real Estate Agent spoke up. "Regarding the purchase price. We are listing the sale price as **One Dollar**."
+
+"One dollar?" Paige asked. "Is that legal?"
+
+"It is essential," Mr. Sterling said. "If Marge simply *gave* you the house, Ellen could argue in probate court that it was a gift made under duress or senility. She could try to claw it back as part of the estate inheritance."
+
+He tapped the table.
+
+"But a **Sale**? A sale is a contract. If money changes hands—even a nominal amount—it is a completed transaction. Consideration has been paid. The deal is closed. Ellen cannot overturn a valid real estate sale just because she doesn't like the price."
+
+Marge reached into her purse. She pulled out a pen.
+
+"I want them safe," Marge said, her hand shaking slightly as she hovered over the signature line. "I know about the bed, Jessica."
+
+The room went silent. Jessica stiffened. Paige grabbed Freddie’s hand under the table.
+
+"I know you three sleep together," Marge continued, her voice soft. "And I know Freddie wants a wheelchair."
+
+"Mother says..." Freddie started, his voice small. "Mother says it is giving up."
+
+"Your mother," Marge snapped, "is a fool. She cares more about what the neighbors think than what her children need."
+
+Marge looked at Freddie with fierce affection.
+
+"If a wheelchair helps you move, you get one. If sleeping in a pile like puppies keeps the nightmares away, you do it. This house is yours. You make the rules. No one else."
+
+She pressed the pen to the paper.
+
+*Scritch-scratch.*
+
+She signed her name with a flourish. **Margaret E. Lewis.**
+
+The Notary stamped it. *KER-CHUNK.*
+
+"It is done," Mr. Sterling said. He looked at the Averys. "Now. We need the consideration. Who is paying?"
+
+"I have the asset," Freddie announced.
+
+He reached into his pocket. He pulled out a crisp, single George Washington one-dollar bill. He had ironed it that morning.
+
+He stood up. He walked to the head of the table.
+
+He handed the bill to his Great Aunt.
+
+"Payment rendered," Freddie said formally. "Thank you for the... base."
+
+Marge took the dollar. She held it up to the light, then tucked it into her blouse pocket over her heart.
+
+"Best deal I ever made," Marge whispered. She reached out and squeezed Freddie’s hand. "Take care of them, Captain."
+
+"I will," Freddie promised.
+
+Mr. Sterling gathered the files. "I will file this with the County Clerk within the hour. By 2:00 PM, the deed will be public record. The house is yours."
+
+Marge slumped back in her chair, exhausted but smiling.
+
+"There," she breathed. "Let Ellen try to break that."
+
+The firewall was installed. The Avery Unit had a permanent home. And it only cost them a dollar.
+

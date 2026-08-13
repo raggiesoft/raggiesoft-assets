@@ -1,0 +1,38 @@
+# Part 9: Sacres and Seafood
+
+A few days later, the four of them were at the **Cardinal Foods** on Kempsville Road for their weekly grocery run. The store was moderately busy, a typical pre-holiday afternoon. As they moved through the aisles, Leo, now using his new **Quantum Communicator**, was happily discussing the menu for the upcoming Réveillon with Olivia.
+
+"WHAT ABOUT THE MEAT PIE? TOURTIÈRE? CAN WE GET THAT HERE?" his new voice asked.
+
+"That, we can make!" Olivia said cheerfully. "It's mostly ground pork, onions, and spices. We can get everything for it today. Same for the *bûche de Noël*."
+
+Their cheerful planning, however, came to an abrupt halt in the narrow frozen foods aisle. Leo had positioned his wheelchair to one side, leaving ample room for other shoppers to pass, while Olivia scanned the freezers for a specific brand of pie crust. A woman with a pinched expression and an overflowing cart approached from the opposite direction. Seeing Leo, she stopped and let out a loud, impatient sigh.
+
+"Excuse me," she said, her voice sharp and dripping with entitlement. "Some of us are trying to shop here. Can you move that thing? You're completely blocking the aisle."
+
+Olivia turned, her expression polite but firm. "I'm sorry, ma'am, but he's pulled as far to the side as he can get. There's plenty of room for you to get by."
+
+The woman scoffed, looking at Leo's chair with open disdain. "It would be a lot easier if people didn't bring these contraptions into a crowded store. It's inconsiderate."
+
+Leo flinched, shrinking back in his chair. Stella and Luna, who were a few feet away, stopped and turned, their own expressions hardening.
+
+Olivia's polite demeanor evaporated. Her incredible 6'3" frame, which she usually held with a gentle grace, seemed to straighten and grow even more imposing. She took a half-step forward, placing herself squarely between the woman and Leo. Her voice, when she spoke, was dangerously quiet. "He has just as much right to be here as you do. Now, I am going to ask you one time, politely. Please, go around."
+
+With a final, disgusted huff, the woman aggressively maneuvered her cart past them, deliberately bumping the side of Leo's chair as she did so. "Whatever," she muttered.
+
+That was the final straw. Olivia, whose Québécois heritage and fierce protective instincts sometimes surfaced when provoked, fixed the woman with an icy stare. A torrent of sharp, unfamiliar French words erupted from her, spoken with a low, venomous fury that cut through the aisle's quiet hum.
+
+"Écoute-moi bien, ma p'tite énervante," she began, her Québec French fluent and sharp. "Laisse-le tranquille. Décalisse avant que j'me fâche pour de vrai. Compris? Va-t'en! Hostie de marde!" (Listen to me closely, my little annoying one. Leave him alone. Scram before I get really angry. Understand? Get lost! Dammit!)
+
+The woman froze mid-step, her hand still on her cart, and turned back. She didn't understand a single word, but the sheer, cold fury in Olivia's tone was unmistakable. She stared, mouth slightly agape, at the tall, formidable young woman now glaring at her with undisguised contempt. The woman's face paled, her earlier entitlement completely vanishing, replaced by a look of pure shock and intimidation. Without another word, she abandoned her attempt to continue down the aisle, spun her cart around with a clatter, and practically fled in the direction she came from, a scared little crybaby running away from a fight she had started and immediately lost.
+
+The aisle was silent for a moment. Stella and Luna stared, completely stunned but also deeply impressed. Luna was the first to speak, her voice a mixture of awe and confusion. "Whoa. Liv... what was *that*? None of those words are in our books."
+
+Olivia took a deep, calming breath, the anger slowly receding, replaced by a weary grimace. "No," she said. "They wouldn't be. Those are *les sacres*."
+
+Leo typed on his new laptop, his voice quiet but curious. **"SACRES?"**
+
+"It's... church words," Olivia tried to explain, a faint, dark humor in her voice as she gently squeezed Leo's shoulder. "Back in the day, the most offensive thing you could do in Québec was swear using holy words from the Catholic Church. *Tabarnak* from 'tabernacle,' *câlisse* from 'chalice,' *ostie* from 'host.' They're the worst curse words we have." She gave a wry smile. "My mom would wash my mouth out with soap if she heard me. But they're... useful. For when you're really, *really* angry." She looked at Leo, her expression softening. "It's the part of the language that's good for scaring off snakes."
+
+Stella, Luna, and Leo looked at each other, a new, deeper understanding dawning. They had just received their first lesson in a part of Olivia's language that wasn't about polite greetings or ordering food; it was about righteous, protective fury. It was the language of the fortress.
+

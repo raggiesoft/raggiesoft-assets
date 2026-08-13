@@ -1,0 +1,22 @@
+# Part 2: Crossing the Columbia River – 8:30 AM (PST)
+
+The damp, biting cold of the Pacific Northwest morning did nothing to slow our momentum. We left the quiet warmth of the Crown Regency, walking the short distance to the Rose City Center CTS station. My lower back was a tight, throbbing knot of exhausted muscle from carrying Jessica the night before, but having Rachel physically tethered to my side, acting as a living crutch, made the pain manageable.
+
+We had a mission to execute, and Jessica had engineered the logistics flawlessly.
+
+Rachel was in her element, leading the navigation with absolute, hyper-fixated precision. We boarded the northbound CTS light rail, riding the train to the end of the line at the Delta Park / Vanport station. From there, the transit algorithm shifted to heavy rubber tires.
+
+We transferred onto a massive, articulated CTS bus, the diesel engine roaring as it carried us over the steel grating of the Interstate Bridge. We passed Jantzen Beach, crossing the invisible state line over the dark, choppy waters of the Columbia River, and descended into Downtown Vancouver.
+
+"Transferring here," Rachel announced smoothly, guiding us off the bus and into the damp morning air.
+
+We caught our next connection, riding steadily down Fourth Plain Boulevard until the sprawling concrete footprint of Vancouver Plaza came into view. From the massive transit island at the mall, we boarded our final leg: the Route 7.
+
+As the bus hissed its way toward the Orchards section of Vancouver, I looked over at Jessica. She was staring out the rain-streaked window, her expression an impenetrable, tactical mask.
+
+She had set the perfect trap for our father.
+
+Dad was notorious for using cheap logistical complaints to avoid accountability. He always whined about the cost of gas, the traffic on the bridge, or the hassle of crossing into Portland. So, Jessica had simply eradicated his excuses. We were going to The Riverway Diner—a classic, vinyl-booth restaurant sitting right next to Franklin's Hypermarket. By car, the diner was exactly seven minutes away from his second-floor walk-up at the Prairie View Apartments.
+
+She had invited his girlfriend, Cathy. She had offered to pay the entire breakfast bill, and she even offered to hand him cash for the gas he used to drive the seven minutes down the road. She had systematically removed every single roadblock he could possibly use to justify abandoning us.
+

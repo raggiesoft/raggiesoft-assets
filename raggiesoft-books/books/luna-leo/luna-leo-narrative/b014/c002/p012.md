@@ -1,0 +1,120 @@
+# Part 12: The Ghost Tax
+
+## December 19, 2006 Coastal Insurance Agency - Oakhaven, RI 09:10 AM
+
+The insurance office was wood-paneled and smelled of coffee. **Mr. Russo**, the agent who handled the Porter Home and Auto bundles, sat behind his desk typing.
+
+"Okay, Stella," Russo said. "Adding a driver to the **2001 Holt Sentinel**. Name?"
+
+"**Maya Steele Porter**," Stella said. She slid the brand-new, still-warm Rhode Island license across the desk.
+
+Russo typed the license number into his terminal. He hit *Enter*. He waited. He frowned. He hit *Enter* again.
+
+"Stella," Russo said, peering over his glasses. "The system is flagging this. It says 'No Record Found.' According to the DMV database, this license was issued... yesterday?"
+
+"It was," Stella confirmed.
+
+"And there's no previous history," Russo noted. "No credit check. No prior carrier. As far as the computer is concerned, this person was born yesterday."
+
+He looked at Maya.
+
+"You're eighteen," Russo said. "Have you driven before?"
+
+Maya hesitated. She looked at Stella.
+
+"I drove in Ohio," Maya whispered. "Since I was sixteen."
+
+"Okay," Russo said, reaching for a notepad. "If you give me your old license number and your old name, I can link the records. It’ll prove you have two years of clean driving. That will save you about **\$800 a year** on the premium. Otherwise, you’re rated as a 'New Operator'—same risk category as a sixteen-year-old."
+
+Maya froze. Linking the records meant typing **"Sarah Halloway"** into the system. It meant connecting the new, clean Maya Porter to the toxic, tracked Sarah Halloway.
+
+Mr. Russo looked at the computer screen. He looked at the "No Record Found" error. He looked at the **\$800** surcharge.
+
+"Stella," Russo said, taking off his glasses. "I've been your grandfather's agent for thirty years. I'm trying to save you money here. If this young lady has a license from another state, we can link the records. We can pull her history. It saves you nearly a thousand dollars a year."
+
+He picked up his pen.
+
+"What was the previous license state? Ohio?"
+
+Maya froze.
+
+Stella placed her hand firmly on the desk. "Mr. Russo. Stop."
+
+She glanced at the small TV mounted in the corner of the office. It was tuned to the **National News Network**. The headline scrolling across the bottom read:
+
+**SPY RING BUSTED IN RHODE ISLAND.** **COLONEL VIKTOR KROV REMANDED WITHOUT BAIL.** **DAUGHTER 'SARAH HALLOWAY' IN PROTECTIVE CUSTODY.**
+
+Stella pointed to the screen.
+
+"You see that?" Stella asked.
+
+Russo looked. He read the name **Sarah Halloway**. He looked at the girl sitting in the chair—the one with the brand-new, jet-black bob cut and the terrified eyes.
+
+He looked back at Stella. The realization hit him like a truck.
+
+"Oh," Russo whispered. "Oh my god."
+
+"Her name is **Maya Porter**," Stella said, her voice low and intense. "Sarah Halloway is gone. And she needs to stay gone."
+
+She leaned in.
+
+"If you link those files, Mr. Russo... if you type 'Sarah Halloway' into your database to save me eight hundred bucks... you create a digital bridge. A bridge that her father's lawyers can find. A bridge that foreign intelligence can find."
+
+She tapped the new license on the desk.
+
+"We need an air gap. Total isolation. This policy cannot have a single byte of data connecting her to Ohio. She needs to be a ghost."
+
+Russo looked at Maya. He saw the fear. He saw the new life she was trying to build. He remembered Arthur Bennett, and how he always protected his own.
+
+Russo deleted the text in the "Prior History" field.
+
+"Understood," Russo said, his voice grave. "New driver. Zero history. We pay the surcharge."
+
+"We pay the surcharge," Stella confirmed. "It's the cost of safety."
+
+Russo typed quickly. He wasn't just an agent anymore; he was part of the cover-up.
+
+"I'm flagging the file as **VIP / RESTRICTED ACCESS**," Russo said. "It means only I can open it. No customer service reps. No data sharing."
+
+He printed the card.
+
+**INSURED: STELLA MARIE PORTER AUTHORIZED DRIVERS:**
+
+1.  **STELLA PORTER**
+
+2.  **OLIVIA PORTER**
+
+3.  **MAYA PORTER**
+
+**VEHICLE: 2001 HOLT SENTINEL**
+
+He handed it to Maya with both hands.
+
+"Drive safe, Ms. Porter," Russo said. "And welcome to the neighborhood."
+
+## The Keys
+
+They walked out to the parking lot. The **Holt Sentinel** was parked in the front row, its snow tires gripping the asphalt.
+
+Stella stopped. She held up the keys.
+
+"You're insured," Stella said. "You're licensed. You're a ghost."
+
+She tossed the keys to Maya.
+
+"You drive."
+
+Maya caught the keys. She looked at the heavy, American steel of the Sentinel. It wasn't the rental car her father drove. It was the Tank.
+
+"Really?" Maya asked.
+
+"We need to test your winter driving skills," Stella smiled. "Leo, you're copilot. Navigate her to the grocery store. We need milk."
+
+Leo rolled to the passenger door. Maya helped him transfer in—she knew the drill now. She folded his manual chair and put it in the trunk.
+
+She climbed into the driver's seat. She adjusted the mirror. She saw **Maya Porter** looking back.
+
+*"IGNITION,"* Leo typed from the shotgun seat.
+
+Maya turned the key. The V8 roared to life. She put it in gear and drove the Fortress out of the lot, leaving Sarah Halloway behind in the database of ghosts.
+

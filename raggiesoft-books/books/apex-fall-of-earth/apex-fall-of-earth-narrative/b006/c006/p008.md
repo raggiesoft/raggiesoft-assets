@@ -1,0 +1,48 @@
+# Part 8: The Legal Precedent – Friday, November 3, 2051 – 11:30
+
+The ten-minute authorized stay in the Combat Information Center had concluded. The Vanguard had successfully driven their stroller-convoy back to the residential living room, and Sarah was currently deploying a highly effective distraction involving synthesized peanut butter and a holographic puzzle.
+
+Wyatt, however, had not gone upstairs.
+
+He was sitting alone in the CIC, the blue light of the holotable illuminating his exhausted, heavily scarred face. He was staring at a massive wall of floating green code on the primary monitor.
+
+"Aria," Wyatt sighed, rubbing his temples. "We need to talk about constitutional law."
+
+*"I am fully versed in the Planet Eden Constitution, Administrator,"* Aria chimed, her synthesized voice echoing in the quiet room. *"Are we reviewing Amendment 1: The absolute prohibition of physical and digital barriers for disabled citizens?"*
+
+"We are," Wyatt grunted, his thick fingers hovering over the holographic keyboard. "Because right now, my brilliant five-year-old daughter is interpreting 'no physical barriers' to mean 'unrestricted top-secret security clearance.' I need to close the loophole, Aria. I need to lock Leo's tablet out of the restricted zones."
+
+*"Warning,"* Aria’s tone shifted, a gentle but firm digital reprimand bleeding into her voice. *"Restricting Subject C's environmental override capabilities would constitute a direct violation of Amendment 1. I cannot implement a code that discriminates based on physical ability, Wyatt."*
+
+Wyatt smiled, a deep, tired affection for the AI warming his chest. She was fiercely protective of the children, and she was defending his own laws exactly as he had programmed her to.
+
+"It's not discrimination, Aria. It's equality," Wyatt explained, leaning forward. "Look at the baseline. Can Ellie open the CIC doors?"
+
+*"Negative. She lacks the biometric clearance and the physical height required to trigger the Level-5 scanner."*
+
+"Exactly," Wyatt nodded. "Ellie is locked out because she is a minor without administrative clearance. But because Leo physically cannot turn a doorknob, I gave his tablet a skeleton key to *everything*. I didn't give him equal access, Aria. I accidentally gave him supreme access."
+
+Wyatt began rapidly typing on the holographic keyboard, rewriting the foundational logic of the tablet's interface.
+
+"True ADA compliance—true adherence to Amendment 1—means Leo is never held back by his physical body," Wyatt explained as lines of code recompiled in front of him. "He must have the exact same access to the world as his able-bodied siblings. But he shouldn't have *more* access than them. The law guarantees an accessible ramp into the bank; it doesn't give you the combination to the vault."
+
+*"Processing logic,"* Aria hummed softly. *"The legal distinction is sound. Equal civil access does not equate to unrestricted administrative clearance. How shall we restructure the protocol?"*
+
+"We institute Role-Based Access Control," Wyatt instructed. "We assign all four children the exact same security designation: Civilian-Minor. We keep the accessibility features completely intact. Leo’s tablet can still automatically open any door, operate any elevator, and control the lights in any standard residential, agricultural, or recreational sector."
+
+"However," Wyatt continued, his fingers flying across the keys, "if he attempts to open a restricted zone—like the CIC, the Fab-Foundry, or the Genesis Vault—the tablet will ping his clearance level. The door will remain sealed, and the tablet will automatically open a direct intercom line to my comm-link to request authorization."
+
+*"Understood,"* Aria chimed, the code glowing bright green as it accepted the new parameters. *"Subject C will bypass the physical barrier of the heavy doors, but he will remain subject to the exact same administrative security protocols as his siblings. The civil rights mandate is preserved. The security grid is re-established."*
+
+"Execute the patch," Wyatt ordered, leaning back in his chair with a massive, relieved sigh.
+
+*"Patch applied. Level-5 encryption is fully restored across all restricted zones."*
+
+Wyatt stood up, stretching his broad shoulders. He had successfully defended his planet from corporate armadas, and now, he had successfully defended it from his five-year-old's tactical legal maneuvering.
+
+Upstairs in the living room, Ellie was wiping peanut butter off Jack’s cheek. She paused, her dark eyes narrowing slightly. She didn't know how, and she didn't know when, but her commander's intuition told her that the rules of engagement had just fundamentally shifted.
+
+She looked over at Leo’s tablet. She would have to run a perimeter test later. But for now, the unit was fed, the base was warm, and the recruit was happy.
+
+Down in the CIC, Wyatt chuckled to himself as he walked back to the elevator. The loophole was closed. Planet Eden was secure.
+

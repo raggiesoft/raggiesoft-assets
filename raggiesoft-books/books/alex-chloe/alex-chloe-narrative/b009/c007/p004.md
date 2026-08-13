@@ -1,0 +1,28 @@
+# Part 4: The First Night
+
+After a celebratory pizza dinner eaten on the floor of their new living room with their parents, Alex, Chloé, and Megan were finally alone. The silence in the apartment was a new kind of quiet. It wasn't the silence of an empty house; it was the silence of *their* own space.
+
+They were surrounded by boxes, but it didn't feel chaotic. It felt like potential.
+
+"Okay, team," Megan said, clapping her hands together with a determined energy. "Operation: Make It Livable begins now."
+
+They worked together in a comfortable, practiced rhythm. Chloé took charge of the kitchen, unpacking the box labeled "FIRST NIGHT ESSENTIALS," which contained their three oversized mugs—one blue, one green, one yellow—and the coffee maker. Megan tackled the bathroom, stocking it with the towels and toiletries they had bought at Landmark. Alex, meanwhile, carefully unpacked his most precious possessions: his computer and a stack of favorite books, setting them up in their new shared office.
+
+Their final task of the night was a symbolic one: making their new, shared king-sized bed. The three of them worked together, unfurling the new sheets and settling the heavy grey comforter into place. Standing back, they looked at the bed that would be their sanctuary.
+
+It was in that quiet moment that Alex turned to them, his expression a mixture of exhaustion and a quiet, vulnerable hope.
+
+I NEED A BATH, his Quantum Communicator XT voiced. He paused, his gaze moving from Chloé to Megan and back again. I NEED... BOTH OF YOU. TO HELP. I NEED TO KNOW WE ARE A TEAM. HERE.
+
+The request hung in the air, a profound act of trust. He needed to be sure that the fortress of safety he had on Lisa Court had successfully moved with them to this new, unfamiliar place.
+
+Chloé’s smile was soft and immediate. "Of course, Alex," she said, her voice full of a quiet, unwavering love. "Always."
+
+"You got it, cuz," Megan added, her own expression one of deep, sisterly affection. "The three musketeers, remember? That's a three-person job."
+
+They helped him into the bathroom, their movements a seamless, collaborative dance in the new space. It was the first time they had worked together in this way, and their practiced, respectful care was a testament to their unique bond. As he sat in the warm, clean water of his very first bath in his very own home, with Chloé on one side and Megan on the other, a profound sense of peace washed over him. He was safe. His team was here.
+
+Later, after they were all in their pajamas, they climbed into the massive, comfortable king-sized bed. Alex settled in the middle. Chloé curled up on one side, and Megan on the other.
+
+He was flanked, held, and protected. The last lingering anxieties about the new apartment, the new life, the changes—they all melted away. In the quiet of their very own home, on the first night of the rest of their lives, he was exactly where he was supposed to be, surrounded by the two people who were his entire world. He was home.
+

@@ -1,0 +1,44 @@
+# Part 5: The Verdict
+
+Two Days Later Braxton State University - Dean Sterling’s Office
+
+Dean Elise Sterling sat at her desk, Dr. Aris standing behind her. On her computer monitor, a video file labeled PORTER_LUNA_SYRINX.mpg was playing.
+
+The office was silent, save for the sound of Luna’s flute pouring from the high-quality speakers.
+
+Sterling watched the screen intently. She wasn't looking at Luna’s face; she was looking at her hands.
+
+"Look at that hand position," Sterling murmured. "Relaxed. French pointed arms on the keywork. That really is a professional instrument."
+
+Then, the finale came. The descent to the Low B.
+
+On the recording, the note was stable, dark, and perfectly in tune. It didn't waver.
+
+The video ended.
+
+Dean Sterling sat back in her chair. She took off her glasses.
+
+"Elias," she said, looking up at the Engineering Dean. "That wasn't a high school audition tape. That was a junior recital performance."
+
+"I told you," Dr. Aris grinned. "She's a unicorn. And her brother is an engineering genius. They come as a set."
+
+"I want her," Sterling said instantly. "I want her in the Wind Symphony. I want her in the Chamber program. Frankly, I want to hear her play that scale live in this room right now to make sure the microphone wasn't enhancing the tone."
+
+"She's in Virginia," Aris reminded her. "At a community college."
+
+Sterling frowned at the map on her wall. "Virginia. That's... inconvenient. Can we fly her up for a live audition? Next week?"
+
+"It's complicated," Aris explained. "I met the family. They're a tight unit. The sister—Stella—is the Guardian. The brother uses a wheelchair. They don't do 'spontaneous trips.' They move like an aircraft carrier battle group. It takes planning."
+
+Sterling tapped her desk, looking at the frozen image of Luna holding the silver flute.
+
+"Fine," she decided. "If I can't get her in the room, I'll get her on paper. We accept the video as the primary audition. I'm waiving the live requirement based on 'geographic hardship' and 'exceptional merit.'"
+
+She pulled out a heavy, cream-colored sheet of stationery.
+
+"I'm drafting the acceptance letter," Sterling announced. "And I'm flagging her for the Principal Flute chair placement auditions in August. If she plays like that in person, she's going to bury the upperclassmen."
+
+"I'll let them know," Aris said, heading for the door. "I think the Porters are going to like Braxton."
+
+"They better," Sterling muttered, already typing. "Because I just found my soloist for the Debussy cycle."
+

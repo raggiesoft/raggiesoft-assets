@@ -1,0 +1,26 @@
+# Part 6: A Quiet Place in the Chaos (c. 1992)
+
+The Carter house after school was a symphony of cheerful, chaotic energy. The front door would burst open, and in would tumble a cascade of backpacks, lunchboxes, and three lively sisters—Jessica, Megan, and Cassie—all talking at once about their day. A few minutes later, the school bus that served students with special needs would arrive, and Emily Miller would help her seven-year-old son, Alex, down the lift and into the house.
+
+On most days, the noise and activity were a joyous, loving storm that Alex, with his emerging autistic traits, found overwhelming. He would sit quietly in his wheelchair in the entryway, a small, still island in a sea of motion, while his cousins buzzed around him.
+
+One afternoon, the chaos was particularly intense. Jessica, the oldest, was recounting a dramatic story about a disagreement with her best friend. Cassie, the youngest, was proudly showing off a finger-painting that was more paint than paper. Their grandmother, Eleanor Prescott, was in the kitchen, offering a running, loving, and completely unsolicited commentary on everyone's day.
+
+Alex felt the familiar, uncomfortable buzzing start in his head. The sounds were too loud, the movements too fast. He began to shrink into himself, his hands starting to fidget, a low, anxious hum building in his chest.
+
+Megan, who was nine at the time, saw it instantly. While everyone else was caught up in the happy whirlwind, she saw her cousin, her favorite person, beginning to unravel. With a quiet determination that was far beyond her years, she walked over to him.
+
+"Hey, cuz," she said softly, her voice a calm anchor in the storm. "It's a little loud in here, huh? Let's go somewhere quiet."
+
+She didn't wait for a response. She just gently took the handles of his wheelchair and maneuvered him out of the bustling main living area and down the hall to her own bedroom, a space she shared with Cassie. She closed the door, and the overwhelming noise of the house instantly softened to a distant, manageable hum.
+
+Her room was a typical kid's room, a colorful explosion of toys and books. She wheeled him to the corner where a large, comfortable beanbag chair sat. "Want to see my new dolls?" she asked, already pulling out a box.
+
+Alex's anxious hum began to subside. Here, in this quiet space, with just Megan, he could finally breathe. He watched as she began to play, her imagination creating a complex and dramatic story for her dolls. He didn't join in, not with words, but he was a rapt audience.
+
+After a while, Megan seemed to run out of steam. She looked at Alex, who was now completely calm. "You're a good listener, you know that?" she said with a genuine, warm smile.
+
+She then did what felt most natural. She slid from the floor onto the bed and patted the space beside her. "Come on up," she said. "The floor is hard."
+
+He transferred himself from his chair to her bed, a practiced move even at his young age. He settled beside her, and she immediately wrapped an arm around him, pulling him into a familiar, comforting hug. This was their language. He wasn't the quiet, overwhelmed boy in the wheelchair out there. In here, he was just Alex, and he was safe. And Megan, in that quiet, simple moment, officially and forever took on the role she was born to play: she was his guardian, his protector, his quiet place in the storm.
+

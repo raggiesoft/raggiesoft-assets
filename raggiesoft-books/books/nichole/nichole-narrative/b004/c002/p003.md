@@ -1,0 +1,212 @@
+# Part 3: The Maintenance Crew
+
+## Date: July 21, 2002 (Sunday) Time: 10:15 AM Location: 1850 Delaney Street, Hallway Bathroom
+
+The CPR card was in his wallet. The transfer training was done. But the real test wasn't holding a phone or doing chest compressions on a plastic dummy.
+
+The real test was biology.
+
+They were in the living room when Nichole tapped the arm of her chair. She made a specific sound—a sharp *huff*.
+
+Patrick looked over. She pointed to the top-left corner of her letter board.
+
+BATHROOM.
+
+Patrick paused. He remembered the conversation he’d had with his parents in the kitchen just an hour ago.
+
+*"It's all or nothing, Pat,"* Tom had said, leaning against the counter. *"If you want to be her aide in college, you can't pick and choose the duties. You can't just do the heavy lifting and call a nurse for the messy stuff. You have to wipe. You have to deal with periods. You have to deal with stomach flu. If you can't handle poop, you can't be her roommate."*
+
+Patrick took a breath. "Roger that," he said to Nichole. "Let's go."
+
+## The Setup
+
+He wheeled her into the bathroom. It was the same space as the shower training, but the logistics were different.
+
+The toilet had a raised seat with handlebars—an assistive device Tom had installed years ago.
+
+"Okay," Patrick said, closing the door.
+
+He didn't lock it—safety rule \#1—but he latched it shut.
+
+"Transfer first," Patrick narrated, falling back on his checklist. "Then clothes."
+
+He parked the chair. He locked the brakes.
+
+He performed the lift—the "Cradle"—swinging her from the AeroMotion to the toilet seat. He lowered her carefully, ensuring her hips were aligned so she wouldn't slip.
+
+"Stable?"
+
+Nichole gripped the handlebars. She nodded. *Stable.*
+
+Patrick knelt. He unbuttoned her jeans. He pulled them down, along with her underwear, past her knees to her ankles.
+
+## The Safety Protocol
+
+He stood up and reached for the door handle.
+
+"Okay," Patrick said, averting his eyes. "I'm going to step out to give you some privacy. Just knock on the wall when you're..."
+
+*Whack.*
+
+Nichole’s hand shot out and slapped his leg. Hard.
+
+Patrick stopped. He looked down.
+
+Nichole was shaking her head firmly. *No.*
+
+She pointed a finger directly at the tile floor next to the sink. *Stay.*
+
+"You want me to stay?" Patrick asked. "I thought... you know, privacy?"
+
+Nichole rolled her eyes. She pointed to her mouth and shook her head. *No sound.* Then she mimed a silent gasp—her eyes going wide, her mouth opening, but no air moving.
+
+Then she pointed two fingers at her own eyes, then pointed them at Patrick’s eyes.
+
+*Eyes. On. Me.*
+
+The logic hit Patrick like a brick.
+
+If she had a spasm mid-stream and tipped over, or if she choked on saliva, or if she had a silent seizure, she couldn't yell for him. A thump on the wall might be the last thing she ever did.
+
+If he was facing the wall, or out in the hall, he wouldn't know she was in distress until she hit the floor.
+
+"Right," Patrick said, the color draining slightly from his face as he realized the stakes. "If you go silent, I won't know. I need to see your face."
+
+Nichole nodded. *Exactly.*
+
+"Okay," Patrick said. "Privacy is overridden. Safety is active."
+
+He didn't turn to the wall. He leaned his back against the sink vanity, crossing his arms. He didn't look at her body—he kept his eyes locked strictly on her face, watching for the subtle signs of distress: a grimace, a change in color, a silent panic.
+
+"I'm watching," Patrick said, his voice flat and clinical. "I got you."
+
+Nichole grunted. *Good.*
+
+## The Act
+
+The room was quiet, save for the bathroom fan.
+
+Patrick stood guard, staring at her eyes. It was intense. Most siblings avoided eye contact in the bathroom; here, it was the lifeline. He watched her pupils. He watched her breathing pattern. He watched the tension in her jaw.
+
+Five minutes passed. Then, her expression changed. The strain left her face. She let out a long breath and looked at him with a specific, relaxed expression.
+
+*Done.*
+
+Patrick nodded. He didn't need words. The face told the story.
+
+"Okay," Patrick said, pushing off the sink. "Phase Two."
+
+He walked to the cabinet. He grabbed the box of latex gloves Ellen kept there. He snapped a pair on. *Snap.*
+
+The sound was professional. It signaled the shift. He wasn't her brother right now; he was the aide.
+
+He grabbed the toilet paper. He grabbed the packet of wet wipes (essential for thoroughness).
+
+"Lean forward," Patrick instructed gently. "Hold the bars tight."
+
+Nichole leaned her weight onto the handlebars, tipping her torso forward to give him access.
+
+Patrick knelt beside the toilet.
+
+"I'm going to wipe," Patrick said, announcing his move so he didn't startle her. "Front to back. Just like Mom said."
+
+He reached in.
+
+He didn't flinch. He didn't gag. He didn't make a face. He treated the task with the same grim determination he had applied to the CPR dummy.
+
+He wiped. He checked. He wiped again with a wet wipe to ensure she was perfectly clean. Infection was the enemy.
+
+"One more," he muttered. "Making sure."
+
+He finished. He disposed of the wipes in the trash. He pulled his gloves off, snapping them inside out, and dropped them in the bin.
+
+He stood up.
+
+"Okay. Clean."
+
+He pulled her pants and underwear back up.
+
+"Ready for pickup?"
+
+Nichole nodded. She looked relieved. The worst part was over.
+
+Patrick performed the lift, pulling her up, adjusting her clothes the rest of the way, and settling her back into the AeroMotion.
+
+## The Aftermath
+
+He wheeled her to the sink. He washed his hands with soap for a full twenty seconds. He helped her wash her hands too.
+
+They looked at each other in the mirror.
+
+It was done. The taboo was broken. They had survived the most intimate, vulnerable part of caregiving, and the world hadn't ended.
+
+Patrick dried his hands. He looked at Nichole’s reflection.
+
+"That wasn't so bad," Patrick said. "Just maintenance."
+
+Nichole smiled. She tapped her hand on her armrest.
+
+*Maintenance.*
+
+"We good for college?" Patrick asked.
+
+Nichole gave him a thumbs up.
+
+Patrick unlocked the brakes.
+
+"Alright," he said. "Let's go finish that cartoon."
+
+He wheeled her out of the bathroom. The door to the adult world had been kicked open, and they had rolled right through it, dignity intact.
+
+## The Debrief, Time: 11:00 AM Location: The Kitchen
+
+Tom and Ellen were sitting at the kitchen table, nursing their second cups of coffee, when the wheels of the AeroMotion rolled onto the linoleum.
+
+They looked up. There was a subtle tension in the air. They knew what had just happened. This was the "make or break" moment. If Patrick came out looking traumatized, or if Nichole looked distressed, the college plan was dead.
+
+Patrick walked in, pushing the chair. He looked calm. He looked bored, actually.
+
+"Mission complete," Patrick announced, heading straight for the fridge to grab a soda. "Hygiene protocols observed. Hands washed. No casualties."
+
+Ellen let out a breath she didn't realize she was holding. "Everything went okay?"
+
+Nichole tapped the tray of her chair to get their attention. She had her VocaLink back now.
+
+"PATRICK. TRIED. TO. HIDE."
+
+Tom frowned. "Hide?"
+
+Patrick cracked his soda. "I tried to give her privacy," he explained, leaning against the counter. "I started to step out, but she called me back. Then I tried to face the wall."
+
+Nichole typed rapidly.
+
+"DANGEROUS. SILENT. ASPIRATION. RISK."
+
+She looked at her father. She pointed to her eyes, then to Patrick.
+
+"EYES. ON. TARGET."
+
+Ellen nodded vigorously. "She's right, Patrick. I know it feels polite to look away, but medically, you can't. If she seizes or chokes while she's bearing down, she won't make a sound. You have to watch the face. Always."
+
+"I know that now," Patrick said, taking a sip. "She slapped my leg. Corrective action taken. I watched her the whole time. It was..." He shrugged. "...clinical. It wasn't weird."
+
+Tom looked at his son. He saw the shift. Yesterday, Patrick was a brother protecting his sister from bullies. Today, he was a caregiver protecting his patient from biology.
+
+"You're learning," Tom said. "Good job, Nikki. You have to train him. He's the hardware, but you're the software."
+
+Nichole grinned. She typed one last sentence before switching her screen to the Sims.
+
+"HE. WIPES. GOOD."
+
+Patrick choked on his soda. "Okay! That's enough sharing for one day."
+
+Ellen laughed, the sound bright and relieved. "Alright. Training complete for the weekend. Who wants grilled cheese?"
+
+"ME," the VocaLink said.
+
+"Me," Patrick said.
+
+The deal was sealed. They were going to college.
+
+
+

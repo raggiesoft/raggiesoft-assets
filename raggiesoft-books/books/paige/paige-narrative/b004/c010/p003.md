@@ -1,0 +1,30 @@
+# Part 3: The Privacy Protocol
+
+They went back upstairs (retreating from the toilet as fast as possible). Freddie was waiting in the hallway.
+
+He looked at his younger sisters. He saw the potential for anxiety.
+
+"Briefing," Freddie said, his voice serious.
+
+The girls looked at him.
+
+"I do not possess the agility to navigate the stairs safely," Freddie stated, gesturing to his legs. "Therefore, I will never descend to the Underworld."
+
+He looked specifically at Sarah and Jenna, the teenagers who were most sensitive about privacy.
+
+"Once you are downstairs, you are invisible to me," Freddie promised. "I will not breach the perimeter. Your privacy is absolute."
+
+"Thanks, Freddie," Sarah exhaled, relieved.
+
+"However," Freddie continued, pointing to the hallway bathroom—the only distinct room with a locking door. "Because the downstairs facility is... compromised... you will likely require this bathroom."
+
+"Likely?" Jenna snorted. "Definitely."
+
+"This creates a traffic bottleneck," Freddie analyzed. "We must implement a Knock Protocol. One knock: Check status. Two knocks: Urgent. Three knocks: Emergency."
+
+"And if the door is locked?" Amanda signed, and Elara translated.
+
+"If the door is locked," Freddie said, "you wait. Unless you are brave enough to use the Pittsburgh."
+
+"I'd rather die," Harper decided.
+

@@ -1,0 +1,46 @@
+# Part 3: The Infamous Game and Instant Justice (First Day of School Lunch, Fall 1999)
+
+The morning classes of their first day at Northwood High passed in a blur of new teachers, syllabi, and the daunting task of navigating crowded hallways. For Alex Miller and Chloé Mason, the 5th period lunch bell was a welcome reprieve. They found themselves in the vast, echoing cafeteria, a chaotic sea of anxious freshmen and more seasoned upperclassmen.
+
+Their saving grace was Megan Carter. As a senior, she was a seasoned veteran of the Northwood social ecosystem, and lunch was the one period her schedule overlapped with theirs. She had saved them a relatively quiet table near a window. When she arrived a few minutes after them, her first act, as always, was to give Alex a big, loving hug.
+
+"Hey, cuz," she said, ruffling his hair. "How's the first day treating you?"
+
+Alex smiled, a genuine, relaxed expression he reserved only for his inner circle. At this point in his life, Chloé and Megan were the only two people he felt truly comfortable hugging, and he cherished the easy, unconditional affection they both offered.
+
+Across the room, Josh Riley and his two goons had clearly not absorbed the upperclassmen's warnings about the legendary Mrs. DeMarco. About halfway through the lunch period, a ripple of nervous giggles started emanating from their table, followed by the unmistakable, booming shout – "PENIS!" – from Josh Riley himself.
+
+Alex and Chloé exchanged a wide-eyed look. Megan just sighed, a look of profound, world-weary disappointment on her face. "And there it is," she muttered. "Every year, there's always one. An idiot who thinks he's the first person to ever discover 'The Penis Game'."
+
+Mrs. DeMarco, who had been calmly supervising the serving line, didn't even flinch. Her head turned slowly, her gaze locking onto Josh Riley's table.
+
+"Oh, this is going to be good," Megan whispered, a grin spreading across her face. "Watch and learn, kids. You're about to witness a master at work."
+
+The students at the tables nearest to Josh's went utterly silent. Josh, high on his own audacity, was still grinning when Mrs. DeMarco arrived at his table.
+
+"Mr. Riley, I presume?" she said, her voice deceptively calm.
+
+Josh's grin faltered, the sheer, unshakeable authority radiating from the woman in front of him finally penetrating his thick skull. He tried to maintain his cool, but his voice came out a little less confident than he intended. "Yeah? What's up?"
+
+"What's 'up,' Mr. Riley," Mrs. DeMarco stated, her voice carrying easily, "is your apparent inability to comprehend simple social decorum. This particular display of puerile exhibitionism," she gestured vaguely towards him, "is, if my records are correct, the 253rd time I have had the distinct displeasure of encountering it in my tenure."
+
+Megan let out a snort of laughter. "She still keeps a tally. That's amazing."
+
+"It is neither original, nor clever, nor remotely amusing," Mrs. DeMarco continued, her voice a low, dangerous thrum. "It is merely tedious. And frankly, quite pathetic."
+
+She paused, letting her words hang in the air. Josh’s smirk had vanished, replaced by a dawning look of horror.
+
+"Therefore, Mr. Riley," Mrs. DeMarco announced, "allow me to be the first to officially welcome you to Northwood High's most exclusive after-school enrichment program. You, and your two equally misguided associates, will report to me, here in the cafeteria, promptly at 2:15 PM this afternoon, and every afternoon for the remainder of this week. You have all earned yourselves an intensive, four-day seminar in advanced sanitation techniques, commonly known as TRASH DUTY."
+
+She leaned in slightly. "And believe me, Mr. Riley, after a week with our dumpsters, the only four-letter words you'll be contemplating will be 'soap' and 'work'. Am I understood?"
+
+Josh Riley could only manage a strangled, "Y-yes, Mrs. DeMarco."
+
+"Excellent," she said. "And one more thing. Any more outbursts, in any language – and yes, Mr. Riley, I do mean *any* language – and we will be discussing an extension of your… apprenticeship. Perhaps into the fascinating world of grease trap maintenance."
+
+With a final, withering glare, Mrs. DeMarco turned and resumed her patrol, leaving behind a cafeteria that erupted into a low buzz of awed, slightly terrified whispers. The legend was real.
+
+Alex and Chloé looked at each other, a mixture of shock and profound relief on their faces. Alex typed on his AAC: GLAD THAT WASN'T US. MRS. DEMARCO IS… SCARY GOOD.
+
+Megan just grinned, taking a calm bite of her sandwich. "See?" she said. "Northwood High Rule Number One: Do not cross Mrs. DeMarco. And that, my friends, is how it's done."
+

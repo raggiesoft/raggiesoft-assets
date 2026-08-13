@@ -1,0 +1,50 @@
+# Part 10: The Living Light – Wednesday, May 8, 2045 – 21:00
+
+As the golden sun finally dipped below the horizon, the sky over Exoplanet 4 didn't simply fade to black. It transitioned into a breathtaking tapestry of deep indigo and violet, giving way to an impossibly dense, glittering expanse of uncharted stars.
+
+But the true magic didn't come from the sky. It came from the earth.
+
+Wyatt and Sarah were walking back up the gentle, hundred-meter slope from the riverbank when the forest began to change. As the ambient daylight vanished, the undergrowth around their bare feet slowly began to wake up.
+
+It started with the moss. The thick, rich carpet of green they had been walking on all afternoon began to emit a soft, pulsing bioluminescence. It glowed with a warm, radiant cyan, casting a gentle pool of light around their ankles.
+
+Sarah stopped, letting out a soft, breathless gasp. She lifted her foot and pressed it back down into the moss. The vegetation reacted to the pressure, the cyan glow momentarily brightening under her toes before rippling outward in a slow, expanding ring of light.
+
+"Wyatt, look," she whispered, her eyes wide with absolute wonder.
+
+Wyatt looked down, completely mesmerized. But the moss was only the beginning.
+
+All around them, the towering alien forest was coming alive. The broad, fern-like leaves of the bushes began to trace their own veins in faint, glowing streaks of violet and magenta. High above them, the massive canopies of the pine-like trees shimmered with thousands of tiny, natural lanterns—clusters of glowing flora hanging from the branches like floating embers.
+
+And then came the fauna.
+
+From the dense foliage, tiny, winged insects drifted into the open air. They were larger than Earth fireflies, emitting a steady, warm golden light that trailed behind them as they danced through the cyan and violet hues of the forest.
+
+The air was filled with a new soundscape. There were no harsh, predatory shrieks or the terrifying rustle of unseen dangers in the dark. The nocturnal chorus of Exoplanet 4 was a symphony of soft, melodic hums, rhythmic clicks, and a chiming noise that sounded almost like wind blowing through hollow glass tubes. It was incredibly soothing, vibrating in perfect harmony with the rush of the nearby river.
+
+Wyatt turned his head toward the water. Beneath the surface of the crystal-clear river, schools of small, darting aquatic life glowed with a brilliant, electric blue, turning the winding current into a ribbon of liquid starlight.
+
+"It's like a fairy tale," Sarah breathed, stepping further into a patch of glowing ferns. The violet light reflected softly against the denim of her jeans and the heather-gray of her t-shirt. She spun around, taking in the 360-degree panorama of the living, breathing, glowing world.
+
+Wyatt stood on the path, entirely captivated—not just by the bioluminescent forest, but by the woman standing in the center of it.
+
+He had spent his entire life working on rusted, deep-sea welding rigs where the water was pitch black and terrifying. He had spent his time on land in the cramped, miserable confines of corporate staging facilities where the only light came from flickering, migraine-inducing fluorescent tubes. He had been taught that the dark was something to fear.
+
+But here, the dark wasn't empty. It was vibrant. It was welcoming.
+
+"I've never seen anything like this," Wyatt murmured, stepping off the path to join her. As his heavy frame pressed into the moss, the cyan light bloomed around his feet. "It's like the entire planet is breathing."
+
+Sarah reached out, catching one of the golden, glowing insects on the back of her hand. It didn't bite or sting; it just rested there for a moment, illuminating her skin with its warm light, before taking flight again into the canopy.
+
+She looked up at Wyatt, her face illuminated by the surreal, multi-colored glow of the sanctuary they had claimed. The sheer joy in her expression completely erased the last lingering shadows of the NTTR.
+
+"In that bunker on Earth, the dark was just a cage," Sarah whispered, lacing her fingers through his. "And back on my home colony, the nights were just cold and empty. But here... it's like a whole new world just opened up for us. It doesn't feel like we're hiding in the dark, Wyatt. It feels like we're a part of it."
+
+Wyatt pulled her close, wrapping his arms around her waist. The warm, humid breeze carried the sweet scent of the glowing flora, entirely devoid of ozone or exhaust.
+
+"We are a part of it," Wyatt agreed, his voice a low, deeply contented rumble. He rested his forehead against hers, the radiant light of the forest wrapping around them like a protective blanket. "This is our home, Sarah. All of it."
+
+They didn't rush back to the safety of *The Nomad*. They had no reason to. They spent hours simply wandering barefoot through the illuminated woods, following the glowing riverbank, and pointing out new colors and sounds to each other in the dark.
+
+For the first time in their lives, they weren't surviving. They were exploring. And as they walked hand-in-hand through the living light of their new planet, they silently promised each other to savor absolutely every single moment of it.
+

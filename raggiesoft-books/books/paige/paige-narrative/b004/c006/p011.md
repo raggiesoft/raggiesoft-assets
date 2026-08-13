@@ -1,0 +1,56 @@
+# Part 11: Glacial Flour
+
+## Tuesday, May 11, 2004 — 14:30 PM (PST) The Bank of the Nisqually River (Behind Cabin 4)
+
+The nap was short—just a quick system reboot after the heavy burger. Now, they were outside.
+
+They had walked past the porch, pushing through the waist-high ferns to the riverbank. The air was colder here, radiating off the water. The roar of the river was constant, a wall of white noise that drowned out the distant highway.
+
+They sat on a large, bleached drift-log that had been tossed up by a winter storm. It was stripped of bark and smooth as bone.
+
+Freddie stared at the water. It wasn't the clear, blue water of a swimming pool. It wasn't even the brown of a muddy creek. It was opaque. It was a milky, grey-green color, rushing violently over the smooth river stones.
+
+"It looks dirty," Paige observed, tossing a small pebble into the current. It vanished instantly into the murky flow. "Like someone poured concrete mix in it."
+
+"It is not dirt," Freddie corrected gently. He adjusted his glasses, looking up toward the invisible summit of the volcano hidden by the trees. "It is rock."
+
+"Rock?" Jessica asked, pulling her knees to her chest to stay warm. "How can water be rock?"
+
+"Glacial flour," Freddie explained. "The glacier... the ice is so heavy. It grinds against the mountain. It crushes the stone into dust. Fine powder."
+
+He pointed to the rushing grey water.
+
+"The water picks up the dust. That color... it is liquid mountain. We are watching the volcano dissolve, one grain at a time."
+
+"That is... incredibly metal," Paige laughed. "We're watching the mountain bleed."
+
+"No," Freddie shook his head. "We are watching it change. It flows down here. It goes to the ocean. It becomes sand. It becomes something else."
+
+He picked up a smooth, grey stone from the bank. It was cold and heavy in his hand.
+
+"It doesn't stay stuck," Freddie whispered. "It moves."
+
+He looked at the stone, then out at the rushing water.
+
+"Vanessa wanted me to be a statue," Freddie said softly. "She wanted me to stay in her story. To be fixed in one place. But I am not a statue. I am the river."
+
+"You flow," Jessica agreed, leaning her head on his shoulder.
+
+"I flow," Freddie repeated.
+
+He threw the stone. It splashed into the grey current and was gone, carried away toward the Pacific Ocean.
+
+They sat there for an hour, watching the liquid mountain rush by, listening to the roar that scrubbed the air clean.
+
+"I like this place," Freddie decided. "The Iron Creek Lodge. The grey water. The quiet."
+
+"We can come back," Paige promised. "Whenever the static gets too loud. We know where the bunker is now."
+
+"Coordinate saved," Freddie nodded.
+
+"Come on," Jessica said, standing up and dusting off her jeans. "It's getting cold. Let's go inside. I think we have enough supplies for one last round of Mac and Cheese before we have to head back tomorrow."
+
+"Affirmative," Freddie said.
+
+He took one last look at the grey river—the grinding, moving, living force of nature—and then turned back toward the warmth of the cabin and the safety of the Unit.
+

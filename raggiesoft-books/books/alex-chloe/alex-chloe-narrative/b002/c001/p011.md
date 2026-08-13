@@ -1,0 +1,50 @@
+# Part 11: The First Sleepover – Labor Day Weekend (1999)
+
+The golden, late-summer light of Labor Day weekend 1999 cast long shadows across the Millers' and Masons' adjoined backyards. The summer had woven Alex Miller and Chloé Mason into an inseparable pair. Their initial friendly hugs had blossomed into a daily currency of warm, reassuring embraces; by now, Alex and Chloé really, really liked hugging each other, and these gestures were freely offered and given between them as a primary language of their platonic affection and mutual comfort. Chloé, with her intuitive nature and constant proximity, had also subtly begun to assist Alex with small, everyday acts of care, always respectfully and without him even needing to ask. If his shirt was askew after a particularly enthusiastic video game session, she’d gently straighten it. If he was struggling to open a tricky snack package, her hands would be there. These weren't grand gestures, just the quiet, practical ways their lives had become intertwined.
+
+High school loomed, just days away after the long weekend. For any fourteen-year-old, it was a daunting prospect. For Alex, with his Cerebral Palsy, his AAC, and his autism which made new social environments particularly challenging, the anxiety was a heavy weight. Chloé, though outwardly more confident, had her own quiet nerves about starting at a big new school in an unfamiliar state.
+
+On Saturday evening of that Labor Day weekend, after a shared family barbecue at the Millers' (James Miller prided himself on his grilled burgers, and Sophie Mason had contributed her amazing maple-baked beans, a Vermont-Québec fusion treat), and as the Masons prepared to head back next door, Alex felt a familiar wave of pre-big-event restlessness. The fireflies were beginning their nightly dance, and the air was cooling. Chloé, sensing his unease as she always did, lingered by his side on the patio swing Thomas Mason had recently reinforced for them, perhaps giving his shoulder a comforting squeeze.
+
+"Hey," she said softly, once their parents were momentarily distracted with carrying dishes inside from the picnic table. "Nervous about sleeping tonight too?" The prospect of facing high school on Monday felt like a giant, shadowy monster.
+
+Alex looked at her, immense gratitude in his eyes for her understanding. He nodded, then typed on his AAC, its screen glowing faintly in the twilight: YES. WISH YOU DIDN'T HAVE TO GO HOME.
+
+Chloé bit her lip for a moment, then a thought sparked. "Well… what if I didn't?" she said, a little hesitantly, but with a growing resolve. "I mean, we're practically always together anyway. And it *is* a long weekend. Maybe… maybe I could just stay over? Here? I can take the sofa in the living room. We could watch that old sci-fi movie marathon on TV tonight, you know, the one with the terrible rubber-suit aliens? Keep each other from totally freaking out about freshman year." Her offer was immediate, her desire to ensure Alex wasn't alone with his anxiety palpable.
+
+Emily and James Miller exchanged a warm look, then smiled. They had seen how much calmer and happier Alex was when Chloé was around, how their easy companionship and frequent, warm hugs soothed his anxieties. Sophie and Thomas Mason, having also witnessed the depth of their children’s remarkable and entirely platonic bond over the summer, trusted Chloé implicitly and saw Alex as practically a second child already.
+
+"Of course, Chloé dear," Emily said warmly, her eyes kind. "The sofa pulls out, and we have extra blankets and pillows. That’s a lovely idea. You two can have your movie marathon."
+
+"Just try to get *some* sleep before dawn, you two adventurers," James added with an affectionate chuckle.
+
+Sophie Mason smiled. "A very good idea, *ma chérie*. You be good for the Millers. We'll see you in the morning, bright and early, probably." Thomas nodded his easy approval.
+
+So, Chloé ran next door through the connecting yards in the gathering dusk to grab her pajamas, a toothbrush, and her favorite well-loved stuffed otter, Barnaby. Later that evening, after the sci-fi movie marathon had indeed commenced (and was proving to be as delightfully terrible as they’d hoped), and after Alex’s parents had helped him with his usual evening routine in his accessible bathroom and settled him into his full-sized bed, Chloé made up the sofa bed in the adjoining living room. The Millers said their goodnights, leaving the two friends to their late-night movie whispers.
+
+She came to Alex’s doorway, a dim silhouette against the flickering light from the TV in the living room. "Night, Alex. Try not to dream about giant alien brains invading Northwood High during first period algebra."
+
+He managed a small, sleepy smile from his bed. NIGHT, CHLOÉ. THANKS FOR STAYING.
+
+As she turned to leave for the sofa, Alex instinctively reached out a hand from under his covers. Chloé, without a word, stepped back into the room and took it. Their hands clasped for a moment. Then, in a gesture that had become as natural as breathing for them over the summer, she leaned down. Alex met her halfway, reaching up from his bed, and they shared one of their now-familiar, warm, reassuring hugs. It was a comforting embrace that spoke of shared nerves for the coming Monday and their unwavering, platonic support for each other.
+
+"Goodnight for real this time, Alex," she whispered, giving his hand a final squeeze before gently backing out of his room, leaving his door slightly ajar as he liked.
+
+Hours later, the house was dark and silent, save for the rhythmic ticking of the hall clock. A choked gasp tore through the quiet. Alex was thrashing in his bed, tangled in his sheets, caught in the grip of a vivid nightmare – he was lost in the vast, echoing, and confusing hallways of the new high school, his AAC device silent and unresponsive, classmates pointing and laughing, unable to find his classroom or a friendly face. Small, terrified whimpers escaped him.
+
+Chloé, a light sleeper by nature and already subconsciously attuned to any sound from Alex’s room, was awake instantly. She sat bolt upright on the sofa bed, her heart pounding. That sound… Alex.
+
+She was out of the sofa bed in a flash, her bare feet silent on the carpet as she rushed to his doorway. "Alex?" she whispered into the darkness. "Alex, wake up! You're having a bad dream!"
+
+She reached his side, her hand finding his shoulder in the dark, gently shaking him. Alex’s eyes flew open, wide and unfocused with residual terror. He was trembling violently, tears streaming down his face in the faint moonlight filtering through his window.
+
+"Shhh, it's okay, you're okay," Chloé murmured, her voice a soothing balm as she sat on the edge of his full-sized bed. "It was just a dream. You're here, in your room. You're safe. I'm here."
+
+He looked at her, disoriented, still caught in the dream's fear, the images of mocking faces and silent corridors vivid in his mind. He reached out a shaky hand, blindly seeking comfort, a small, almost inaudible sound of distress escaping him. Chloé took his hand without hesitation, her grip firm and reassuring.
+
+"I'm right here," she said softly. He was still so scared, so unsettled, his whole body shaking. The thought of leaving him alone again, of her going back to the sofa in the other room, felt entirely wrong, impossible. Without a second thought, acting purely on the instinct to comfort her best friend, the person who had become her other half that summer, she kicked off her slippers, slid under the covers of his full-sized bed, and gathered him into a reassuring, platonic hug.
+
+"It's okay, Alex," she whispered, holding him close as he cried, stroking his hair, her own heart aching for his fear. "Just a nightmare. I'm here now. You're not alone. You're safe."
+
+He clung to her, burying his face against her shoulder, the terror slowly, painstakingly receding, replaced by the profound, grounding comfort of her steady presence, her familiar scent, the warmth of her body next to his. Eventually, lulled by her closeness, her gentle hand rubbing his back, and her soft, meaningless, soothing whispers, his sobs quieted, and he drifted into a peaceful, secure sleep, still nestled in her arms. Chloé, watching over him, her own nerves settling, eventually dozed off too, her arm still protectively around him, their breathing falling into a shared, quiet rhythm.
+

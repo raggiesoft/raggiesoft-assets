@@ -1,0 +1,103 @@
+# Part 7: The Closet
+
+## September 2001
+
+The trigger wasn't a slammed door this time. It was the sound of paper hitting the kitchen table—a sharp *thwack* that echoed up the ventilation shafts like a gunshot.
+
+"Three thousand dollars, Ellen?" Robert’s voice started low, vibrating through the floorboards. "Three thousand dollars on a card that was supposed to be for emergencies?"
+
+"School clothes are an emergency!" Ellen shouted back, her voice already pitched at the frequency that made the air pressure in the house feel like it was dropping. "The twins outgrew everything. Freddie needed new shoes. What did you want me to do, Robert? Send them to school in rags?"
+
+Upstairs in their bedroom, Paige sat on her bed, reading. At the first shout, she slammed her book shut, her jaw setting into a hard line. She was tired of this. She was tired of the money fights. She was tired of the way the house shook every time the credit card bill arrived.
+
+"I want you to stick to the budget!" Robert roared from the kitchen. "I am drowning here! I am working six days a week, and I come home to this?"
+
+Paige took a breath, preparing to say something soothing to Freddie. She looked over at his desk.
+
+"It’s okay, Freddie, just put your headphones—"
+
+She stopped. The desk chair was spinning slowly, empty.
+
+*Rumble-click.*
+
+The sound came from the other side of the room. It was the distinctive, heavy sound of the sliding closet door hitting its frame.
+
+Paige stared at the closed wooden door. For a second, her brain didn't process it. *Where did he go?* Then, the realization hit her. The noise had spiked too fast. He hadn't waited for orders. He had retreated to the bunker on his own.
+
+She stood up and walked quickly to the closet. She didn't yank the door open; she slid it back just a few inches, gentle and slow.
+
+Freddie was huddled in the far corner, wedged behind a row of hanging winter coats. He was slumped awkwardly against the side wall, his chin tucked into his chest, his hands clamped over his ears. He was rocking, and with every backward motion, the back of his head hit the drywall with a dull *thud*.
+
+"Freddie?" Paige whispered.
+
+He didn't answer. He was vibrating, lost in the static.
+
+Paige looked back at the bedroom door. The shouting downstairs was escalating.
+
+*"I am forty years old, Ellen! I am tired!"*
+
+Paige stepped into the closet, pushing a pile of old board games out of the way with her foot. She reached up and pulled the sliding door shut.
+
+*Click.*
+
+The darkness was instant. The air smelled of cedar chips and old wool.
+
+Paige knelt beside him. She put her hand on the back of his neck and felt the tension; his muscles were rock hard, and the way he was slouched against the wall was forcing his neck into a painful angle.
+
+"Freddie," she whispered, her voice calm and authoritative. "We need to fix your position. You're hurting your neck."
+
+He didn't move on his own, so she took charge. She gently guided his shoulders away from the wall.
+
+"Down," she instructed. "Lie down. The wall is too hard."
+
+She guided him down to the floor. It was cramped—the closet was only two feet deep—but if they lay lengthwise, they could fit. Freddie curled onto his side, his knees drawn up to his chest, shivering violently.
+
+Paige reached into the darkness and grabbed a handful of sweaters from a low shelf. She bundled them into a soft, lumpy mound and tucked it under his head.
+
+"Pillow," she whispered.
+
+Freddie let his head sink into the wool. He was still squeezing his eyes shut, his hands pressed over his ears.
+
+Paige lay down beside him. The space was tight; her back was pressed against the sliding door, and her front was pressed against his back. She wrapped her arm over his waist and pulled him in tight, spooning him in the pitch black.
+
+"I'm here," she whispered into his ear, her voice a low rumble designed to cut through the panic.
+
+She tightened her grip, squeezing him with as much force as she could muster. She hooked her leg over his ankles, pinning him down, providing the deep pressure grounding he needed to stop floating away.
+
+"I've got the perimeter," Paige promised. "I'm right here. I'm not going anywhere. We stay in the bunker until the all-clear."
+
+Downstairs, the fight raged on. Words like *tuition*, *interest rates*, and *mistake* floated up through the floorboards.
+
+Freddie flinched at a particularly loud shout. Paige squeezed harder, absorbing the shockwave with her own body.
+
+"Just static," she soothed, burying her face in the back of his shirt. "Focus on the squeeze. Just the squeeze."
+
+Time became fluid in the closet. The air grew hot and stale.
+
+One hour passed. The screaming downstairs evolved into the slamming of doors, then the heavy, angry silence of two people ignoring each other in the same room.
+
+Two hours passed. The silence upstairs stretched out. Freddie’s shivering had stopped. He was heavy against her arm now, his breathing shallow and even. The adrenaline crash had hit him, leaving him limp in her hold.
+
+Three hours passed. It was now evening. The gray line of light under the door had faded to black. Paige’s arm was asleep, stinging with pins and needles, but she didn't move. She kept her promise. She stayed right at his side.
+
+"Freddie?" she whispered finally. Her throat was dry.
+
+"System... rebooting," Freddie mumbled into the pile of sweaters. His voice sounded thick, detached.
+
+"Is the noise gone?"
+
+"The noise is gone."
+
+Paige slowly unhooked her leg and pulled her numb arm back. She reached up and pushed the sliding door open.
+
+The bedroom light, even though it was just the lamp on the desk, felt blinding. They blinked, emerging from the cave like survivors of a bombing raid. They were stiff, their clothes wrinkled, their dignity left somewhere back in the dust bunnies.
+
+Freddie crawled out first. He stood up, swaying slightly. He looked at the closed bedroom door, terror flashing in his eyes that it might open.
+
+"We stay here," Paige said firmly, climbing out and rubbing her cramping arm. "We don't go down for dinner. We don't go down for water. We stay in the room."
+
+Freddie nodded. He walked to his bed and sat down, staring at the wall.
+
+Paige looked at him—at the fear still lingering in his posture—and then she looked at the floor where the vibrations of the screaming had come from. She wasn't just his sister anymore. She was the only adult in the house. And she made a silent promise to the room: *The dorms. The apartment. Whatever it takes. We are getting out.*
+
+

@@ -1,0 +1,23 @@
+# Part 7: The Aftermath at School
+
+Monday morning at Northwood Middle School felt different. Alex was a little anxious, bracing himself for the inevitable awkwardness of seeing Jennifer and her friends after the disastrous weekend at the mall.
+
+He saw her at her locker between first and second period. The first thing he noticed was that she was alone. Ashley Parker and the rest of the group were a few feet down the hall, pointedly ignoring her. Jennifer, for her part, seemed to be actively avoiding them.
+
+Their eyes met for a brief, fleeting moment across the crowded hallway. Jennifer's expression wasn't angry or mocking. It was a look of profound, genuine, and deeply sad apology. She gave him a small, almost imperceptible nod of acknowledgment, then quickly looked away, her shoulders slumped. Alex returned the nod. In that single, silent exchange, it was officially, and mutually, over.
+
+Later that afternoon, at the Carter house, the final piece of the story clicked into place. Alex was at the kitchen table, trying to focus on his homework, the events of the weekend still a heavy weight in his mind. Megan had an expression a mixture of grim satisfaction and sympathy.
+
+"So," she began, dropping her backpack on a chair and grabbing a soda from the fridge. "You are not going to believe the call I got last night."
+
+She explained that Sarah Jenkins, had a younger sister, Kim, who was part of Ashley Parker's friend group. Kim had been one of the girls at the mall. Apparently, Sarah had overheard Kim talking about the "hilarious" incident and had given her little sister a thunderous, hour-long lecture on the subjects of bullying, ableism, and basic human decency.
+
+"The lecture worked," Megan continued, sitting down across from Alex. "Kim, feeling incredibly guilty, ratted out Ashley completely. She told her sister everything. That the whole thing, from the very beginning, was a cruel dare that Ashley cooked up to humiliate Jennifer. That they were never your friends. It was all a game."
+
+Alex listened, a quiet, sad validation settling over him. It wasn't a surprise, not really. But hearing it confirmed, knowing that his instincts had been right all along, was a final, painful kind of closure.
+
+"Sarah was furious," Megan finished, her own protective anger flaring. "She told her sister that if she ever sees her participating in anything like that again, she'll tell their parents everything. So, it looks like Ashley's little gang just lost a member."
+
+Alex looked across the kitchen table at his cousin, at the fierce, unwavering loyalty in her eyes. He had known Jennifer was gone, but now he understood why. The painful, confusing, and ultimately cruel chapter of his life was finally, truly, over.
+
+

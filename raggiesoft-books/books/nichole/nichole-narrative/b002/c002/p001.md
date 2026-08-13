@@ -1,0 +1,87 @@
+# Part 1: Arrival at Morrison Middle School
+
+Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison
+
+The morning air was different than the Test Run. The August humidity was still there, but now it was mixed with the smell of diesel exhaust and the nervous energy of a thousand kids waking up.
+
+"07:45," Patrick said, checking his Kronos watch. "Right on schedule. Thirty minutes to the bell."
+
+He stood at the corner of Earnhardt Street and Morrison Street, gripping the handles of the Titan AeroMotion Lite. Nikki sat low in the purple frame, her new backpack slung over the back canes. She was wearing her "First Day" outfit—a stiff new pair of Mammoth jeans and a crisp polo shirt that Ellen had insisted on.
+
+"Ready to roll?" Patrick asked.
+
+Nikki tapped her armrest. *Go.*
+
+They crossed Earnhardt Street, leaving the safety of the last ADA curb cut behind them. They rolled past the "No Sidewalk" sign and entered the street.
+
+"Zone One clear," Patrick muttered.
+
+They rolled down the gutter of Morrison Street. To their right, they passed 1789 Morrison Street. The steep concrete driveway was empty. No buses here. Just a quiet blue house with vinyl siding.
+
+But ahead of them, the world changed.
+
+At the next intersection—where the school driveway cut through the sidewalk—the view turned yellow.
+
+A line of school buses was parked bumper-to-bumper along the curb, starting exactly at the crosswalk and stretching all the way up the hill toward the main entrance.
+
+The Yellow Wall.
+
+"Okay," Patrick said, his voice tightening. "We have to cross the mouth of the beast."
+
+They approached the Bus Loop Entrance. This was the danger zone. The sidewalk ended here at the jagged curb drop, forcing all the walkers to step down into the street to cross.
+
+But Patrick and Nikki were already *in* the street.
+
+They rolled past the trapped sidewalk. To their right, the massive grille of a Stalwart bus loomed over them, the first in the line. Its engine was idling, a deep, rattling thrum that vibrated through the asphalt and into Nikki’s wheels.
+
+"Clear left," Patrick called, checking the traffic lane.
+
+He pushed them across the opening of the Bus Loop.
+
+Now, they were in the trench.
+
+To their right was the solid wall of yellow steel. The buses were parked tight against the curb, completely blocking access to the sidewalk.
+
+To their left was the live traffic lane. Parents in Liberty Sentry sedans and minivans were inching past, frustrated by the bottleneck.
+
+"Keep your elbows in," Patrick warned.
+
+He steered the Titan closer to the buses, trying to give the cars room. They were rolling in a space no wider than a bike lane, sandwiched between twenty tons of idling bus and moving traffic.
+
+The heat was intense. The exhaust from the buses blasted directly into their faces at wheelchair height.
+
+Nikki tucked her chin down, entering "Turtle Mode." She squeezed her eyes shut against the fumes.
+
+Step-drag-push. Step-drag-push.
+
+They passed Bus \#42. Then Bus \#89.
+
+A red sedan squeezed past them on the left, its mirror missing Patrick’s elbow by inches. The driver honked—a short, angry *blat*.
+
+"I can't go anywhere!" Patrick yelled back, his voice lost in the roar of the diesel engines. "The curb is blocked!"
+
+He looked for an opening. A gap between buses? No. Even if there was a gap, the curb behind it was six inches high. There was no way up.
+
+"We have to go all the way to the Island," Patrick shouted over the noise.
+
+They kept rolling. It felt like a mile, but it was only a hundred yards. Finally, the line of buses broke.
+
+Ahead, they saw the Visitor Island—the small concrete refuge in the middle of the parking lot loop.
+
+"Target sighted!"
+
+Patrick sprinted the last twenty feet. He swerved right, cutting in front of a stopped minivan, and hit the incline of the solitary ramp.
+
+Bump-roll.
+
+They were up. They rolled across the crosswalk and onto the wide, safe sidewalk of the Main Entrance.
+
+Patrick stopped pushing. He bent over, hands on his knees, coughing the taste of diesel out of his throat.
+
+Nikki sat up, adjusting her glasses. She looked back at the street—the chaotic canyon of yellow and asphalt they had just survived.
+
+She looked at Patrick and tapped her temple. *Crazy.*
+
+"Yeah," Patrick wheezed, wiping sweat from his eyes. "Welcome to middle school."
+
+

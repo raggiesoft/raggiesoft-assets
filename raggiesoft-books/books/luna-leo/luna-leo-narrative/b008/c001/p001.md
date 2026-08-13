@@ -1,0 +1,48 @@
+# Part 1: An Unseen Ally
+
+The bell indicating the end of second period on a crisp Purple Day in the fall of their senior year (2002) was still a couple of minutes away, but for Leo and Luna Porter, Latin class on the second floor of Northwood High was already concluding. Their teacher, Ms. Evelyn Reed, a kind woman who understood their IEP needs, always dismissed them precisely two minutes early from their second-period Latin IV class. This small accommodation was a lifeline, allowing them to navigate the hallways and, crucially, reach the school’s often-congested single elevator before the chaotic flood of students erupted from classrooms for the transition to third period. Today, third period for their grade was a mandatory assembly in the auditorium, focused on the upcoming November elections and the daunting college application process.
+
+Luna tucked her Latin IV textbook into her backpack, which hung on the back of Leo’s wheelchair, and took hold of the handles. “Ready, Leo?” she asked, her voice soft. "Big assembly next."
+
+Leo, who had been diligently taking notes on a portable device connected to his Quantum Communicator XT, gave a small nod, sending his saved notes to his main unit. He offered Ms. Reed a polite wave, and she smiled back.
+
+Luna pushed Leo’s chair out into the still-quiet hallway, their practiced rhythm smooth and efficient. They headed towards the elevator, a short distance away. Just as they approached its brushed metal doors, a voice, laced with a familiar sneering tone, cut through the relative calm.
+
+“Well, well, look who gets a private ride,” Josh Riley drawled. He was leaning against the opposite wall with a couple of his usual snickering friends, having apparently ducked out of his own class early. His eyes raked over Luna pushing Leo’s chair. “Going for a little elevator quickie before the assembly, Porter? Pretty convenient having your own private room on wheels, huh?” His insinuation was crude, ugly, and delivered with a smirk that made Luna’s blood boil.
+
+Luna stopped abruptly, whirling Leo’s chair slightly to face Josh, her eyes flashing. “What did you just say, you pig?” she hissed, her voice tight with fury. The words, though low, were sharp enough to make Josh’s friends shuffle uncomfortably. Leo tensed in his chair, his own anger flaring at the disgusting comment, though his immediate concern was for Luna, knowing how much such remarks upset her.
+
+Josh, surprised by her direct confrontation, actually took a step back, though his smirk didn’t entirely vanish. “Hey, just an observation. You’re always pushing him around, going off alone together. A guy can wonder.”
+
+“He’s my *brother*, you ignorant slimeball!” Luna spat, her voice trembling slightly with rage. “My *twin* brother. And he needs the elevator because he’s in a wheelchair, not that it’s any of your disgusting business!”
+
+Josh’s smirk finally faded, replaced by a flicker of surprise, then a defensive sneer. “Oh. Brother, huh? Whatever.” He shrugged, trying to regain his cool in front of his friends, but Luna’s fierce protectiveness and the unexpected revelation had clearly thrown him. “Still looks cozy.”
+
+“You’re pathetic,” Luna said, her voice dripping with contempt. She pressed the elevator call button with a sharp jab of her finger, refusing to give him the satisfaction of further engagement. The elevator doors dinged open almost immediately. She pushed Leo inside, turning her back on Josh and his now much quieter friends without another word.
+
+Inside the elevator, as the doors closed, Luna let out a shaky breath. Leo reached over and squeezed her hand reassuringly. He typed quickly on his Quantum Communicator XT: JOSH IS A JERK. IGNORE HIM. YOU WERE BRAVE, LU.
+
+Luna managed a weak smile. “Thanks, Leo. He’s just… ugh. Some guys are just the worst.” The ride down was silent, the memory of Josh’s insinuation leaving a sour taste.
+
+As the elevator doors opened onto the bustling first-floor hallway, the warning bell for the end of second period shrilled loudly, and students began to pour out of the nearby classrooms, a wave of bodies and noise heading towards the auditorium for the third-period assembly. Luna and Leo joined the flow, navigating through the growing crowd.
+
+Just as they passed a small alcove near the main office, they overheard a distinct, clear female voice, sharp with indignation, cutting through the hallway chatter.
+
+“—and furthermore, Josh Riley, not only are they *siblings*, which anyone with half a brain and two eyes could figure out if they paid attention for more than five seconds, but Leo Porter uses a wheelchair! That elevator isn't a luxury for them; it’s a necessity for him to get to the third-period assembly like everyone else! Maybe if you spent less time making disgusting assumptions and more time learning basic empathy, you wouldn’t sound like such a complete Neanderthal!”
+
+Luna and Leo exchanged surprised glances. They couldn't see who was speaking, as the voice came from just around the corner of the alcove, but the target of the verbal dressing-down was unmistakably Josh Riley. They could hear his mumbled, defensive retorts, quickly shut down by the girl’s articulate and precise takedown of his earlier behavior.
+
+“And another thing,” the voice continued, even more fiercely, “making those kinds of sexually harassing comments in a school hallway is not okay. It’s gross, it’s disrespectful, and frankly, someone should report you for it. Grow up.”
+
+A moment of stunned silence followed from Josh’s direction, then the distinct sound of retreating footsteps.
+
+Luna and Leo looked at each other again, eyebrows raised. Whoever that girl was, she had just, in no uncertain terms, eviscerated Josh Riley for his comments about them – comments she must have overheard from the first-floor landing as they exited the elevator, or perhaps Josh had been foolish enough to repeat his pathetic insinuations to his friends downstairs.
+
+A small, almost imperceptible smile touched Luna’s lips. Leo felt a flicker of surprised gratitude. Someone else had heard. Someone else thought Josh was a pig. Someone else had stood up for them, without even knowing them.
+
+They didn’t see the girl, and the flow of students was now thick as they all headed towards the auditorium for the assembly. Luna and Leo continued on, the unpleasant encounter with Josh slightly mitigated by the unseen, articulate defense from a stranger.
+
+They found their usual accessible seating in the auditorium. A few minutes later, Josh Riley and his snickering friends shuffled in, looking decidedly less cocky than they had upstairs. They spotted the Porter twins and, with a shared look of lingering resentment, deliberately chose the seats directly behind them, setting the stage for the discomfort that was to follow during the assembly.
+
+Luna settled beside Leo, a new thought forming: *I wonder who that girl was?* The seed of a potential ally, someone who understood without needing explanation, had been unexpectedly planted, just before the start of the third-period assembly.
+

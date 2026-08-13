@@ -1,0 +1,44 @@
+# Part 6: The Ball Pit Strategy – 8:30 PM
+
+Melissa pulled the heavy nylon zipper of the tent door shut, sealing us inside the canvas fortress. The only light came from a pair of heavy-duty plastic flashlights aimed up at the domed ceiling, casting a warm, diffused glow over the wall-to-wall patchwork of sleeping bags and quilts. From the corner, the silver portable stereo played a local FM pop station at a low, comfortable volume.
+
+The sleeping arrangements naturally fell into our established pack hierarchy.
+
+Melissa and Jessica, as the teenagers and acting commanders, took up the sentinel positions. Melissa stretched out horizontally across the back wall of the tent, while Jessica claimed the space directly parallel to the zippered door, physically placing themselves between us and the outside world.
+
+That left the center of the massive floor entirely to the youth guard.
+
+I lay flat on my back right in the middle. Rachel immediately curled up on my left side, resting her head lightly against my shoulder, her arm thrown over my chest. Ashley claimed the space on my right, shuffling her sleeping bag close so that her shoulder pressed firmly against my arm. I was the anchor point, completely surrounded by the safe, comfortable weight of my favorite people.
+
+Even though the sun had gone down and we were officially tucked into bed, nobody was actually going to sleep. The energy was way too high.
+
+"Ten days," Ashley whispered into the dim light, staring up at the nylon ceiling. She couldn't stop smiling. "Ten days until *Captain Charlie's*."
+
+"I can't wait," I agreed, turning my head slightly to look at her.
+
+"Okay, but we need a strategy for the ball pit," Ashley insisted, propping herself up on one elbow to look at Rachel and me. "Last time, a bunch of older kids were throwing the plastic balls at everyone. We have to stick together."
+
+"We will," I promised. The ball pit was legendary, but it was practically a survival course. "We go in as a unit. If we hold onto each other, nobody can sink to the bottom."
+
+Rachel shifted against my left side. She reached her hand across my chest and tapped Ashley’s arm to get her attention.
+
+"I... will... be... brave," Rachel whispered, the rasp in her voice soft but fiercely determined. "We... will... conquer... it."
+
+"Yes!" Ashley giggled quietly, trying not to be too loud and alert the adults in the house. "We will conquer the ball pit. And then we are taking over the roller-bowling lanes. I want the jackpot tickets."
+
+"Just remember to pack the earplugs," Jessica chimed in from her sentinel spot by the door, her eyes closed but clearly listening to every word.
+
+"Already on the checklist," I confirmed.
+
+*Captain Charlie's Pizza Arcade* was a sensory nightmare of flashing neon lights, animatronic bands, and a hundred arcade cabinets constantly blasting 8-bit sirens and token alarms. Under normal circumstances, the sheer volume would send Rachel and me straight into sensory overload. But we were a highly functional team. We knew exactly how to handle it. Mom had a stash of soft, foam earplugs that dampened the overwhelming high-pitched frequencies of the arcade without blocking out normal human voices. With the earplugs securely in place, the arcade went from a terrifying assault to a perfectly manageable wonderland.
+
+"I'll remind Mom to put them in her purse before we leave next Saturday," I told Rachel, giving her shoulder a reassuring squeeze.
+
+Rachel nodded against my t-shirt, completely at ease. She knew her boundaries, she knew her accommodations, and she knew her pack would ensure they were met.
+
+The quiet chatter continued for another hour, drifting from arcade strategies to middle school gossip, mixing effortlessly with the low hum of the radio and the chirping of crickets outside the thin nylon walls. The night air was cool, but the center of the tent was incredibly warm.
+
+I closed my eyes, listening to Ashley's excited whispering on my right and feeling the steady, rhythmic breathing of my little sister on my left. Melissa and Jessica were guarding the doors, Mom and Dad were just a scream away, and the future was nothing but a neon-lit birthday party.
+
+It was the absolute peak of our childhood.
+

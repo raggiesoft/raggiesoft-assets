@@ -1,0 +1,56 @@
+# Part 7: Factory Settings
+
+## Tuesday, May 11, 2004 — 09:30 AM (PST) Cabin 4, The Iron Creek Lodge
+
+Sunlight.
+
+Not the harsh, fluorescent glare of a hospital or a terminal. This was soft, green-filtered light streaming through the skylights, dappled by the fir branches overhead.
+
+Freddie opened his eyes.
+
+He didn't panic. He didn't check the time. There was no alarm clock screaming at him.
+
+He was warm. He was in the center of the Alaska King.
+
+To his left, Jessica was still asleep, her arm thrown over her eyes. To his right, Paige was awake, quietly scrolling through the digital camera screen.
+
+"Morning," Paige whispered, noticing he was online.
+
+"Morning," Freddie croaked. "Status?"
+
+"Rain stopped," Paige reported, tilting the camera screen so he could see. She pointed to a blurry but majestic shot of the massive, snow-capped volcano looming over the road. "Jessica actually got a decent shot while we were moving. I was too busy fighting that slushbox transmission to look up, but she caught the mountain."
+
+Freddie stared at the tiny LCD screen. The mountain looked huge even in 2 megapixels.
+
+"It is... significant," Freddie whispered.
+
+He stretched. His legs extended into the vast, cool flannel at the foot of the bed. He felt the absence of clothing—no waistband digging in, no twisted fabric. Just skin and sheets. It felt... streamlined. Pure.
+
+"Hungry?" Jessica mumbled from the other side, rolling over and yawning.
+
+"Cereal protocol," Freddie suggested.
+
+They didn't rush to cover up. They didn't scramble for robes or hide behind towels. They simply slid out of the massive bed, moving with the easy comfort of people who had shared a womb and a lifetime of close quarters.
+
+Freddie walked to the kitchenette. The pine floorboards were cool under his bare feet. He liked the sensation. It was raw, honest data.
+
+He opened the fridge and pulled out the gallon of milk. Jessica grabbed the box of **Honey Nut Hoops**. Paige grabbed the ceramic bowls.
+
+They sat at the small round wooden table near the window. The sunlight played across their shoulders.
+
+They ate in comfortable silence for a few minutes, the only sound the crunch of cereal and the clink of spoons.
+
+"This is correct," Freddie said, looking at his sisters. "No armor. No secrets."
+
+"It's easier," Jessica agreed, resting her chin on her hand. "Clothes are just costumes we wear for the Outside. In here, we don't need to perform."
+
+"We have to put the costumes on soon, though," Paige reminded them, gesturing to the brochure on the counter with her spoon. "The Iron Giants are waiting. And welding slag is sharp."
+
+Freddie nodded. He finished his milk, drinking the sweet remnants from the bowl.
+
+"We will armor up," Freddie said, standing up and stretching his arms overhead. "But only because the environment requires protection. Not because we are hiding."
+
+He walked to the pile of clothes they had left by the bathroom door the night before. He picked up his jeans.
+
+"Initiating boot sequence," Freddie announced. "Let's go see the machines."
+

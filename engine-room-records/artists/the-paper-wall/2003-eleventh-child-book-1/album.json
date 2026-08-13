@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "The Eleventh Child, Book 1: System.Crash",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Paper Wall"
+  },
+  "isRockOpera": true,
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Electronic / Narrative / Rock Opera",
+  "datePublished": "2026-08-28",
+  "temporalCoverage": "2003-08-20",
+  "description": "The first half of a sprawling rock opera following Jordan's harrowing escape from a lifetime of medical and emotional abuse. This act chronicles his terrifying first days of independence, sensory overload, and the life-changing dorm room mix-up that introduces him to his chosen family.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release"
+}

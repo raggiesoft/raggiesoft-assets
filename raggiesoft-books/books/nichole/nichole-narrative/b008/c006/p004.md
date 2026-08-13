@@ -1,0 +1,122 @@
+# Part 4: The Physical Toll
+
+## **Date:** Tuesday, January 17, 2006 **Time:** 4:00 PM **Location:** The Master Bedroom, Unit 404
+
+The alarm on Patrick’s watch beeped. *Beep-beep. Beep-beep.*
+
+It cut through the creative silence like a knife.
+
+Nichole froze. Her hands, which had been resting on the laptop keyboard, curled into fists. She knew what that sound meant. The writing session was over. The "escape" was over.
+
+"1600 hours," Patrick said softly. He reached out and gently closed the lid of the Apex ConvertiBook. The glowing green hills of the screen vanished, leaving only the gray reflection of the winter afternoon.
+
+"PROM time," Patrick announced. "Passive Range of Motion. Let's migrate to the bed."
+
+Nichole let out a frustrated, guttural sound—a low groan of protest. She looked at the Letter Board. She slammed her finger onto the red tape.
+
+**N - O**
+
+"I know," Patrick said, standing up and unlocking the brakes on her wheelchair. "I know you hate it. I hate it too. But the hamstrings are like wet cement right now. If we don't move them before they set, they harden short. And if they harden short, the surgery was for nothing."
+
+He didn't sugarcoat it. He respected her intelligence too much for that.
+
+He wheeled her into the bedroom. He executed the transfer to the King bed, laying her flat on her back.
+
+## The Unveiling
+
+Patrick stood at the foot of the bed. He took a deep breath.
+
+"Okay. Removing the armor."
+
+He undid the heavy Velcro straps of the **Blue Foam Immobilizers**. *Rip. Rip. Rip.*
+
+He carefully slid the foam troughs out from under her legs.
+
+For the first time all day, her legs were free. They looked pale and atrophied (skinny) from weeks of disuse. The incision scars on her inner thighs were red and angry-looking lines, healing but still tender.
+
+Without the braces, her legs felt vulnerable. Her muscles twitched, looking for the support that wasn't there.
+
+"Okay, Nikki," Patrick said, his voice dropping into his calm, rhythmic 'Therapy Mode.' "We're doing the Standard Three. Hamstrings. Abductors. Hip Flexors. Ten reps each. You tell me when to stop."
+
+He didn't need a safe word. He knew her face.
+
+## The Stretch
+
+Patrick moved to her right side. He slipped one hand under her heel and the other under her knee, supporting the joint fully.
+
+"Going up," Patrick narrated. "Slow and steady."
+
+He lifted her leg. The knee stayed straight. He raised it to 20 degrees. 30 degrees.
+
+At 40 degrees, he hit the **"End Feel"**—the point where the muscle physically stopped stretching.
+
+Nichole hissed through her teeth. Her hands gripped the duvet covers, her knuckles turning white. Her eyes squeezed shut.
+
+The pain wasn't sharp; it was a deep, tearing burning sensation as the surgically lengthened tendon was pulled taut.
+
+"Breathe," Patrick coached, holding the leg steady at the point of pain. "Don't fight it. Melt into it. One... two... three..."
+
+Nichole held her breath. Her body wanted to spasm—to fight the stretch—but her mind fought for control. *Trust him. He won't break it.*
+
+"And down," Patrick whispered.
+
+He lowered the leg. Nichole exhaled, a long, shaky breath.
+
+"That was good," Patrick praised. "That was forty-five degrees. You're gaining ground."
+
+He did it nine more times. Each time, he watched her eyes. If she flinched too hard, he backed off an inch. If she relaxed, he pushed an inch. It was a silent conversation of pressure and release.
+
+## The Adductors (The Danger Zone)
+
+"Okay," Patrick said, wiping a bead of sweat from his own forehead. "Now the hard one. Abduction. Opening the gates."
+
+This was the site of the surgery.
+
+He held her ankle. He slowly moved her leg outward, away from the midline, separating her knees.
+
+For a girl who had spent twenty years with her knees locked together by spasticity, this felt unnatural. It felt like being pulled apart.
+
+Nichole’s eyes flew open. She looked at him, panic rising in her chest. *Too far. Too far.*
+
+She slapped the mattress with her hand. *Thwack.*
+
+Patrick stopped instantly. He didn't drop the leg; he just froze in place.
+
+"I got you," Patrick said, locking his arms like stone pillars. "I'm not moving. You're safe. We're just holding here."
+
+He didn't push past the panic. He waited for it to subside.
+
+He looked her dead in the eye.
+
+"I am the anchor," Patrick whispered. "I'm not going to let it tear. Trust the hold."
+
+Nichole looked at him. She saw the sweat on his face. She saw the absolute focus. He wasn't looking at her leg; he was looking at *her*.
+
+She closed her eyes. She took a breath. She stopped fighting his grip. Her muscle relaxed, just a fraction.
+
+"There it is," Patrick murmured. "Good girl. Five... four... three..."
+
+He gently brought her leg back to the center.
+
+"Done," Patrick exhaled. "Right side clear."
+
+## The Aftermath
+
+Twenty minutes later, the session was over. Patrick re-applied the blue braces, strapping them tight. The "Armor" was back on.
+
+Nichole lay back against the pillows, exhausted. Her forehead was damp with sweat. Her legs throbbed, but it was a "good" throb—the feeling of blood flow returning.
+
+Patrick sat on the edge of the bed. He looked tired too. Taking someone else’s pain was heavy work.
+
+He reached out and brushed a strand of damp hair off her forehead.
+
+"You're tough as nails, Nikki," Patrick said quietly. "Most guys at the gym would have quit after the first rep."
+
+Nichole turned her head. She looked at the Letter Board on the nightstand. She didn't have the energy to lift her hand to it.
+
+Instead, she just reached out and took his hand. She squeezed it. *Hard.*
+
+It was the only communication needed.
+
+*We survived.*
+

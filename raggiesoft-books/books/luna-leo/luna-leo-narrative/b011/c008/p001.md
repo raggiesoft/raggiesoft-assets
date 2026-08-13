@@ -1,0 +1,42 @@
+# Part 3: The Day in Court
+
+The Virginia Beach Circuit Courtroom was a place of quiet, formal procedure, a world away from the chaotic emotions of the past few months. Stella sat with Sarah Jenkins at the plaintiff's table, a thick, organized binder of evidence between them. Across the aisle, Delores sat with her beleaguered legal aid attorney, who looked like he'd rather be anywhere else.
+
+The demand letter had been ignored. The summons to court, however, had not.
+
+Sarah Jenkins was methodical, presenting the case with a calm, unshakable clarity. She submitted the receipts, the invoice for the Quantum Communicator, the airline ticket, and the photos of Leo's pressure sores. The destroyed AAC device itself was entered into evidence, its shattered screen and broken casing a silent, damning witness on the clerk's desk.
+
+When it was the defense's turn, Delores's lawyer made a weak argument about the trip being a simple misunderstanding between young lovers. Then, he made the mistake of letting Delores take the stand.
+
+"Ms. Mahone," her lawyer began, "please tell the court what happened in Washington."
+
+"He's lying," Delores said immediately, her voice dripping with venom as she glared at Stella's table. "All of it. He wanted to go on the trip! He loved it! It was an adventure! We were going to start a new life! Then *they* interfered and poisoned him against me."
+
+Sarah Jenkins's cross-examination was brief and brutal. "Ms. Mahone, did you or did you not destroy the seven-thousand-dollar medical device entered as Exhibit A?"
+
+"He threw it! He has terrible tantrums!" Delores snapped back.
+
+"So, your testimony is that this young man, who struggles to lift the device onto its mount, somehow threw this six-pound object with enough force to cause this level of damage?"
+
+"He gets... strong when he's angry," Delores stammered, her lie transparently thin.
+
+The judge looked on, his expression unreadable but his pen scratching notes furiously.
+
+After the testimony, Delores's lawyer gave a short, uninspired closing argument. Then, as he was about to sit down, Delores stood up abruptly.
+
+"Your Honor," she declared, speaking directly to the judge, completely ignoring her own attorney who was trying to pull her back to her seat. "This is all a setup! His sister has always had it out for me! She's controlling him! He doesn't need *her* as a guardian, he needs *me*! I love him! I'm the only one who understands what he really wants! I should be his guardian and conservator, not her!"
+
+The judge's gavel came down with a crack that made everyone jump. "That is enough, Ms. Mahone!" his voice boomed, filled with a cold fury. "You will sit down and be silent. You will not address this court directly again. You will speak only through your counsel. Is that understood?"
+
+Delores, stunned into silence by the force of the judge's anger, sank back into her chair, her face pale.
+
+During her closing argument, Sarah Jenkins first systematically recapped the economic damages, pointing to the mountain of receipts and invoices totaling \$8,745.00. "These are the tangible costs, Your Honor," she stated clearly. "The price of a flight, the cost to replace a vital piece of medical equipment. But they do not account for the true scope of the harm done here."
+
+She then turned her focus to the intangible, her voice resonating with controlled passion. "Your Honor, we are also asking the court to award damages for pain and suffering and intentional infliction of emotional distress. The evidence shows that the defendant's actions were not merely negligent; they were malicious and cruel. She systematically isolated a vulnerable, disabled young man, denied him his medication, destroyed his only means of communication, and abandoned him three thousand miles from home. The terror, the humiliation, and the physical pain he endured cannot be quantified on an invoice, but it is real, it is profound, and it demands justice."
+
+Delores could be seen whispering furiously to her lawyer, clearly confused and outraged by the concept of being made to pay for someone's *feelings*.
+
+"Judgment for the plaintiff in the full amount of all documented economic damages," he declared. He then looked directly at Delores, his contempt palpable. "Furthermore, for the clear and malicious nature of the defendant's actions, this court awards an additional sum for pain and suffering." He named a significant figure that made Delores gasp. "This court strongly advises the plaintiff to seek a permanent restraining order. This proceeding is concluded."
+
+
+

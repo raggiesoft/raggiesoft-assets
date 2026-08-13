@@ -1,0 +1,26 @@
+# Part 3: A Healthy Friendship
+
+The CCHR café in the Kempsville Building was packed with the lunchtime rush, a loud, chaotic, and happy hum of student life. Alex, Chloé, and Sarah Jenkins had managed to snag a corner booth, their trays laden with sandwiches and bottled sodas. The conversation was easy and animated, a comfortable mix of complaining about their shared statistics professor and making plans for the weekend.
+
+"I'm telling you," Sarah said, laughing, "if I have to calculate one more standard deviation, my brain is going to melt."
+
+I FIND IT SOOTHING, Alex's device voiced, a hint of his dry humor in the synthesized tone. THE LOGIC IS VERY CALM.
+
+"Of course you do, you weirdo," Chloé teased, bumping his shoulder with hers. "Some of us prefer the chaotic beauty of English literature."
+
+Their easy, back-and-forth rapport was a source of constant joy for Sarah. As a psychology major, she had seen the shell of a young man Alex had been under Vera's thumb, and to see him now—confident, happy, and so obviously cherished—was a profound relief.
+
+As they were finishing their meal, the conversation turned back to the previous semester. "I just want to say one more time, Alex," Sarah said, her expression turning serious and sincere. "I'm so glad you're okay. I was genuinely worried about you."
+
+Alex's own expression softened. He reached across the table and, in a simple, profound gesture of friendship and gratitude, pulled her into a warm, one-armed hug. I AM GLAD YOU ARE MY FRIEND, SARAH, he typed after they pulled apart.
+
+Across the crowded café, Jessica and Mark were watching. Mark just raised an eyebrow in surprise. Jessica, however, scowled. "Can you believe that?" she muttered to Mark, her voice dripping with a petty, jealous spite. "Right in front of his wife. She just lets him hug other girls like that?"
+
+Chloé, who had seen the whole exchange, didn't have a problem with it at all. She was smiling, a warm, genuine expression of happiness on her face. To her, this wasn't an act of betrayal; it was a beautiful sign of Alex's healing. It was proof that he felt safe enough to form healthy, affectionate friendships again, a freedom Vera had stolen from him. The idea of being jealous was absurd. This was a victory.
+
+After hugging Sarah, Alex turned to Chloé, his arm wrapping around her shoulders in a familiar, effortless gesture, pulling her close. She leaned her head against his, a perfect, silent affirmation of their bond.
+
+Sarah watched them, her heart full. "You two are the real deal," she said softly.
+
+The three of them resumed their conversation, paying Jessica and Mark no mind at all. They were in their own world, a strong, healthy, and happy triangle of friendship, completely unbothered by the gossip or judgment of those who couldn't possibly understand the depth of the trust they shared.
+

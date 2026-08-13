@@ -1,0 +1,32 @@
+# Part 1: The Proposition
+
+The three of them were settled in the living room for a quiet evening. Megan was curled up in an armchair, reading a book for her work's book club. Alex and Chloé were on the sofa, watching a movie, their bodies comfortably intertwined, a new and wonderful intimacy that had become as natural as breathing.
+
+During a quiet moment in the film, Chloé turned her head, her cheek resting on Alex's shoulder. She watched him for a long moment, a profound, contented happiness in her eyes.
+
+"You know," she began softly, her voice a low murmur, "that day at the courthouse in Virginia... that was for them. For the law, for the insurance, for protection. It was necessary, and it was a promise. But it wasn't... *us*."
+
+Alex turned his head to look at her, a silent, questioning look in his eyes.
+
+She took his hand, lacing her fingers with his. "I think we deserve a day that's just for us," she continued, her voice full of a new, hopeful energy. "A real wedding. With our friends, our family. A party. A celebration of this," she said, gesturing to the two of them. "Of the 'us' we are now."
+
+She paused, then took a deep breath, revealing the full, audacious scope of her idea. "And I think... I think we should have it in Stanstead."
+
+The idea hung in the air, full of a beautiful, poetic significance.
+
+Megan lowered her book, a slow, brilliant smile spreading across her face. "Chloé," she said, her voice full of awe, "that is the most perfect idea I have ever heard."
+
+Alex stared at Chloé, the implications of her suggestion washing over him. A wedding. A real one. Not in Virginia, the site of so much of his old pain, but in her hometown. In Stanstead. In the place that represented safety, family, and the very heart of the woman he loved. It wouldn't just be a ceremony; it would be a pilgrimage, a final, triumphant arrival.
+
+A slow, brilliant smile spread across his face. He reached for his Quantum Communicator Pro X, his fingers moving with a new, joyful energy.
+
+YES, his device voiced, the tone clear and full of a profound, happy certainty. A REAL WEDDING. FOR US. IN STANSTEAD. I WANT THAT. I WANT THAT VERY MUCH.
+
+"Really?" Chloé breathed, a tear of pure joy slipping down her cheek.
+
+YES, he repeated. He then looked at his cousin. BUT ONLY IF MY BEST WOMAN IS AVAILABLE.
+
+Megan let out a happy, tearful laugh. "Are you kidding me, cuz?" she said, her voice thick with emotion. "You try having that party without me. Just try."
+
+The decision was made. In the quiet of their Lynnwood apartment, a new, joyful, and incredibly exciting plan had just been born. They were going home to get married. For real this time.
+

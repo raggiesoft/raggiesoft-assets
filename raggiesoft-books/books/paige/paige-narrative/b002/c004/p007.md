@@ -1,0 +1,78 @@
+# Part 7: The Reset
+
+## 15:15 PM
+
+The bench was made of rough-hewn wood and cold iron, sitting on the edge of a grassy overlook near Bennett Hall. From here, the campus spread out below them like a circuit board—the grid of the Drillfield, the stone towers of the academic buildings, and in the distance, the massive concrete bowl of **The Crucible**.
+
+Freddie sat in the middle, staring at the mountains. He was completely silent. The screaming had stripped his throat raw, leaving him in a state of absolute mute exhaustion. The static in his head had settled from a roar into a dull, heavy gray noise.
+
+Paige sat pressed against his side, her arms wrapped tightly around his ribs, her head resting on his shoulder. She wasn't just hugging him; she was holding him together. She was applying the deep pressure he couldn't ask for.
+
+Jessica stood in front of them, blocking the sun, acting as a visual shield against the few students walking past on the sidewalk.
+
+"Autism," Jessica whispered the word, tasting it. It felt heavy. "That’s what she asked."
+
+"I've heard the word," Paige said softly, her cheek still pressed against Freddie’s jacket. "But I thought it meant... I didn't think it meant *this*. I thought it meant you couldn't look at people at all."
+
+"He looks at *us*," Jessica said. "He looks at the terminal."
+
+"We'll look it up," Paige vowed, squeezing Freddie tighter. "Tonight. We'll go to the library or use Jessica's computer. We'll find out what the variables are."
+
+Freddie heard them, but the words were distant. He was focusing on the wind. The air here was thin and cold. It bit at his cheeks. It was real. It grounded him.
+
+*Autism.*
+
+He filed the word away. It was a label. A diagnostic code. If it was a valid code, it meant there was a manual. And if there was a manual, there was a way to operate the system.
+
+They sat there for twenty minutes. The sun began to dip lower, casting long shadows across the "Ironstone" fortress.
+
+Jessica finally crouched down so she was at eye level with Freddie. She didn't touch him—she knew Paige was handling the tactile input—but she spoke clearly and directly.
+
+"Okay, Freddie," Jessica said. "Status check. We are done with the official schedule. The Housing Office is a fail state. We know that."
+
+Freddie didn't blink. He just stared at her nose, avoiding her eyes.
+
+"Here is the decision tree," Jessica continued. "Option A: We walk to the bus stop right now. We take the Number 1 back to Christiansburg. We order pizza, we watch a movie, and we go home tomorrow."
+
+She paused.
+
+"Option B: We stay. The game starts at 19:00. The sun is going down. The 'Ironheads' are gathering. We go to the stadium tunnel. We watch the team run out. We feel the Stomp."
+
+Paige shifted slightly. "Jess, maybe we should just go..."
+
+"No," Jessica said firmly, keeping her eyes on Freddie. "He decides. He came here for the architecture. He came here for the machine. I want to know if he still wants to see it."
+
+She waited.
+
+Freddie looked at the mountains. He replayed the day in his head. *The Terminal. The black screen. The blinking green cursor.* *The Stardust Engine. The man in the wheelchair who didn't hide his broken legs.* *The Housing Director. The rejection. The broken Blueprint.*
+
+It was a critical error. A fatal system crash.
+
+But...
+
+He thought about the Terminal again. *user@cpi-cs-lab:~\$*. It was the only time in his life he had felt like he was speaking his native language. If he left now, he was leaving that language behind. He would go back to Virginia Beach, back to the noise, back to the silence of his father's house.
+
+He didn't want to go back. He wanted to find a loophole.
+
+Freddie took a deep, shuddering breath. He slowly peeled his right hand away from his chest.
+
+He pointed a shaking finger toward the massive stadium in the distance.
+
+"The... Machine," Freddie rasped. His voice was a wreck, barely a whisper.
+
+Jessica smiled. It was a fierce, proud smile.
+
+"Affirmative," Jessica said, standing up. "We proceed to The Crucible."
+
+"Are you sure?" Paige asked, pulling back to look at his face. "It's going to be loud. Louder than the cafeteria."
+
+Freddie nodded slowly. "Structured... noise," he whispered. "The... grid."
+
+"Okay," Paige said, wiping a stray tear from his cheek with her thumb. "Then we go."
+
+She helped him stand up. He was shaky, his legs feeling like lead, but once he was upright, he locked his knees. He checked his backpack straps. He adjusted his collar.
+
+"Reset complete," Jessica announced. "Let's go see the anvil."
+
+They walked down the hill, away from Bennett Hall and its impossible rules, moving toward the dark, looming shape of the stadium where Freddie hoped he could drown out the rejection in sixty thousand decibels of rhythm.
+

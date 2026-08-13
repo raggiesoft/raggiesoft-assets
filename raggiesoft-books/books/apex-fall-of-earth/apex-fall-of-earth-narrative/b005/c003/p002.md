@@ -1,0 +1,74 @@
+# Part 2: Dead Reckoning – Thursday, May 9, 2045 – 17:15
+
+*The Nomad* tore upward through the massive alien canopy just as the sky completely unzipped.
+
+The transition from the quiet, stifling humidity of the valley to the apocalyptic fury of the super-cell was instantaneous. A solid wall of torrential, slate-gray rain slammed against the forward viewport with the concussive force of machine-gun fire. The massive dreadnought, weighing thousands of tons, immediately shuddered violently as a sheer crosswind caught its flat, un-aerodynamic fuselage.
+
+In the Operations center, the amber emergency lights flickered. Wyatt gripped the heavy steering yoke, his knuckles turning white as he fought to keep the nose pitched upward.
+
+"Altitude passing two thousand meters!" Sarah shouted over the deafening roar of the storm and the deep, grinding whine of the fission reactor pushing the repulsorlifts to their absolute limits. She had dropped into the co-pilot's chair, rapidly strapping the heavy, four-point harness over her shoulders.
+
+Suddenly, the primary CRT monitor in the center console let out a sharp, static hiss. The wireframe topographical map of the mountain range artifacted, dissolved into a mess of jagged green pixels, and completely vanished.
+
+*"Warning,"* Aria’s voice clipped, fighting through severe audio distortion. *"The localized barometric anomaly is highly charged with electromagnetic interference. It is currently acting as a massive atmospheric Faraday cage. I have lost the primary LIDAR telemetry and topographical radar. The digital navigation grid is blind."*
+
+Wyatt swore under his breath as the digital HUD projected on the glass faded to black.
+
+They were flying a multi-billion-credit dreadnought straight into a jagged mountain range, and they couldn't see past the nose of the ship.
+
+"Aria, can you ping the billionaire's coordinates?" Wyatt demanded, wrestling the yoke hard to the left as a massive downdraft tried to swat the ship back into the flooding valley.
+
+*"I have the analog coordinates locked, Wyatt,"* Aria responded, her voice cutting in and out. *"Heading zero-four-niner. Elevation... unknown. You are approaching the primary mountain ridge. You must rely on manual visual flight rules."*
+
+"VFR in a hurricane," Wyatt grunted, his boots planted firmly on the rudder pedals. "Perfect."
+
+Under any normal aerospace regulations on any colonized world, attempting to fly VFR—Visual Flight Rules—in a zero-visibility super-cell storm was a guaranteed death sentence. A pilot needed the horizon to fly visual. Right now, there was no horizon. There was only the violent, swirling gray abyss of rain and the terrifying certainty that millions of tons of unyielding rock were waiting for them somewhere in the dark.
+
+But staying grounded meant drowning under fifteen meters of rushing water. Grounding was not an option.
+
+"Sarah! I need analog readouts!" Wyatt yelled, his eyes locked on the opaque gray wall outside the glass. "Read the physical gauges! The storm can't scramble a mechanical gyro!"
+
+Sarah's hands flew across her side of the console, completely ignoring the dead digital screens. She found the retrofitted 2044-era analog dials the billionaire had installed as a paranoid backup system.
+
+"Pitch is five degrees up! Roll is level, but you're crabbing hard to the starboard side!" Sarah called out, her voice a steady, unbreakable anchor in the chaos. "Altimeter reads four thousand meters and climbing! Heading is zero-four-five... correct to starboard!"
+
+Wyatt threw his weight into the yoke, correcting their heading. The dreadnought groaned, the heavy lead and titanium armor plates vibrating under the immense atmospheric pressure.
+
+Suddenly, a blinding, multi-forked bolt of cyan lightning arced directly across the nose of the ship.
+
+The flash was agonizingly bright, but for a fraction of a second, the impenetrable curtain of rain was illuminated. And in that split second of brilliant light, Wyatt saw it.
+
+Less than a kilometer dead ahead, a massive, jagged spire of black rock was rising straight up into the storm.
+
+"Brace!" Wyatt roared.
+
+He didn't try to steer around it—the dreadnought was far too heavy and sluggish to bank in time. Instead, he slammed his fist into the main thruster override and pulled the yoke completely back into his chest.
+
+*The Nomad* screamed as the fission core dumped raw power directly into the vertical repulsorlifts. The massive ship surged straight up. The G-force pinned Wyatt and Sarah violently back into their seats, the harness straps digging into their collarbones.
+
+Another flash of lightning illuminated the viewport. The jagged peak of the mountain passed less than fifty meters below their ventral hull, the jagged rocks looking like the teeth of a massive predator snapping in the dark.
+
+"Clear!" Sarah yelled, her heart hammering against her ribs as the altimeter dial spun wildly. "We cleared the peak! Five thousand, five hundred meters!"
+
+"We're in the range now!" Wyatt yelled back, his arms burning from the sheer physical exertion of fighting the atmospheric drag. "Where's the beacon?"
+
+"Tracking analog ping!" Sarah shouted, tapping the glass of the old-school radio-direction finder. A tiny green needle was twitching frantically against the dial. "It's close, Wyatt! Heading zero-five-zero! Altitude is leveling out... I think we're over the plateau!"
+
+The turbulence suddenly shifted. The violent, swirling updrafts from the valley gave way to a smoother, albeit incredibly fast, horizontal gale.
+
+"Cutting forward velocity!" Wyatt announced, pulling the heavy throttles back and angling the repulsorlifts to act as air-brakes.
+
+The massive ship shuddered as it bled off speed, hovering blindly in the storm. The rain was still hammering the glass, but the terrifying threat of the jagged peaks had vanished. They had reached the coordinates. They were high above the flood line.
+
+Wyatt carefully eased the yoke forward, his muscles trembling from the sheer exertion of fighting the storm, initiating a slow, blind vertical descent through the clouds.
+
+"Sarah, deploy the landing struts!" Wyatt commanded over the deafening roar of the rain, his hands completely occupied with wrestling the heavy steering yoke against the crosswinds. "We have to take her down manual!"
+
+Sarah didn't hesitate. She reached across the center console and grabbed the heavy, yellow-and-black striped analog lever. She yanked it hard backward.
+
+A deep, hydraulic *thud* vibrated violently through the deck plates beneath their bare feet as the massive, heavy-duty landing gear physically dropped from the armored underbelly and locked into place.
+
+"Struts deployed and locked!" Sarah shouted, her eyes glued to the twitching needle of the analog altimeter. "Three hundred meters to the deck! Two hundred! You're coming in hot, Wyatt!"
+
+Wyatt gritted his teeth, his eyes straining against the opaque gray void outside the viewport. "Brace for impact!"
+

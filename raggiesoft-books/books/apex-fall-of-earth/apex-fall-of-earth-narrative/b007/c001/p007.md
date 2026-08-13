@@ -1,0 +1,81 @@
+# Part 7: The Classified Intel – Friday, May 5, 2051 – 14:15
+
+The heavy, brushed-steel blast doors of the primary hangar hissed shut, sealing the mountain fortress behind Wyatt and Sarah Colton.
+
+They walked hand-in-hand down the wide, softly illuminated stone corridor of the residential level. The adrenaline of handing the High Director of Apex Defense Solutions over to the Earth Remnant was slowly fading, replaced by the deep, resonant peace of knowing the galaxy could no longer touch them.
+
+As they approached the archway leading into the sprawling living room, Wyatt let out a heavy sigh, slowing his pace.
+
+"Brace yourself," Wyatt murmured out of the corner of his mouth, his dark eyes fixed on the plush rug ahead. "The commanding officer is waiting."
+
+Sarah followed his gaze and had to bite the inside of her cheek to suppress a smile.
+
+At five and a half years old, Ellie Colton was standing dead center in the living room. She wasn't playing with blocks, and she wasn't entertaining her sixteen-month-old brother, Jack, who was currently happily stacking magnetic tiles near the sofa.
+
+Ellie was standing with her feet planted shoulder-width apart, her arms crossed tightly over her miniature canvas vest. Her dark, calculating eyes were locked directly on the archway, completely zeroed in on her parents.
+
+Behind her, Nora was sitting on the floor next to Leo’s Chariot. She offered her parents a highly apologetic, empathetic grimace, knowing full well that a storm was about to break. Leo was humming a steady, rhythmic note, perfectly content, occasionally tapping the edge of his AAC tablet.
+
+Wyatt and Sarah stepped into the room. They knew the rules of engagement with their oldest daughter. You didn't talk down to her, you didn't coddle her, and you absolutely never played dumb. If you lied to Ellie, she would simply reverse-engineer the lie and hold it against you for months.
+
+"Commander," Wyatt greeted, adopting a respectful, professional stance.
+
+Ellie didn't blink. She uncrossed her arms and pointed a rigid finger at the localized intercom panel mounted on the wall.
+
+"Comms went dark," Ellie stated, her voice sharp and incredibly accusatory. "Audio link severed. Ten seconds in. Why?"
+
+"There was a technical override," Wyatt replied smoothly, keeping his hands resting on his belt.
+
+Ellie’s brow furrowed into a deep, highly skeptical *V*. She took two flat-footed steps forward, entirely rejecting the vague excuse.
+
+"Aria does not glitch," Ellie countered, her tactical brain firing on all cylinders. "Aria maintains the grid. Audio link was manually blocked. You cut the feed, Dada."
+
+Sarah let out a soft, defeated laugh, resting her hand on Wyatt’s broad bicep. "She's got you, Wyatt. Hand over the intel."
+
+Wyatt looked down at the tiny, fiercely intelligent tactician. He dropped heavily to one knee, putting himself exactly at eye level with his daughter. He didn't offer a patronizing smile. He gave her the absolute, unvarnished truth.
+
+"You're right, El. Aria didn't glitch. I tapped my comm-link and ordered her to sever the audio feed to the living room," Wyatt admitted, his deep voice serious and entirely respectful.
+
+Ellie crossed her arms again, waiting for the logistical justification. "Unit needs intel. Why blind the squad?"
+
+"Because the man sitting in that holding cell was High Director Kael," Wyatt explained, keeping his tone calm and steady. "He is the man who broke Earth. He did terrible, horrific things to millions of people, Ellie. And when Mama and I asked him why he did it, his answers were entirely classified."
+
+Ellie tilted her head, processing the term. "Classified?"
+
+"Restricted clearance," Sarah chimed in, walking over to crouch down next to Wyatt. She looked into Ellie's eyes. "It means the information is a psychological hazard. The things he said about how he hurt people... they aren't things a five-year-old brain is meant to carry. It's too heavy. Dada cut the feed to protect the perimeter of your mind."
+
+Ellie stared at Sarah, and then at Wyatt.
+
+Her neurodivergent, highly structured brain chewed on the concept. She understood physical perimeters—locking doors, building walls, keeping the unit physically safe. The idea of an *audio* perimeter—blocking harmful acoustic data from entering the unit's ears—made perfect, mechanical sense.
+
+She looked back at the intercom panel, realizing she had accidentally opened the gates to a psychological hazard.
+
+"Hazard acknowledged," Ellie finally said, her rigid posture dropping a fraction of an inch. She gave a firm nod of acceptance. "Good block, Dada. Perimeter secure."
+
+"Thank you, Commander," Wyatt smiled, an overwhelming wave of relief washing over him. He reached out and gently ruffled her dark hair.
+
+"But," Ellie added immediately, her eyes locking back onto his. The interrogation wasn't over. "Target status. Where is the bad man?"
+
+"The target has been successfully extracted," Wyatt reported, giving her the final tactical debriefing. "Mama and I opened the shield gate. A transport ship from the Earth Coalition came down and took him away. He is going to stand trial for his crimes in front of the entire galaxy. He is never coming back to Eden."
+
+Nora, listening intently from her spot near the Chariot, let out a massive, breathy sigh. She leaned her head against Leo's shoulder, the tension leaving her tiny frame.
+
+Leo slammed his palm down on his AAC tablet.
+
+*"Gone,"* the digital voice announced clearly.
+
+"He's gone, Leo," Sarah agreed warmly, standing up and walking over to kiss Nora's cheek and ruffle Leo's hair.
+
+Ellie processed the final status report. The threat was neutralized. The perimeter was locked. The psychological hazard was shipped off-world. The mission was officially complete.
+
+The fierce, terrifying S.H.O.P. Marine commander instantly vanished, flawlessly replaced by a five-year-old who had just realized it was mid-afternoon.
+
+Ellie turned her back on Wyatt, marching directly toward the kitchen archway.
+
+"Debrief complete," Ellie announced over her shoulder. "Rations now. Apple slices. And peanut butter."
+
+Wyatt let out a booming, chest-deep laugh, pushing himself up off the floor. He watched his commanding officer march away, completely unfazed by the galactic war they had just concluded.
+
+"You heard the Commander," Wyatt grinned, offering Sarah his hand. "Let's go prep the rations. I think we've all earned a snack."
+
+

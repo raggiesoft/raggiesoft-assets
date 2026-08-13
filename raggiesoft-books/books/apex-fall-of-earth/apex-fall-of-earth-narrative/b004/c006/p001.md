@@ -1,0 +1,78 @@
+# Part 1: The Coordinates – Wednesday, October 26, 2044 – 09:00
+
+The soft, dynamic LED lighting in the 2044-era tech room was set to a warm, inviting morning glow.
+
+Wyatt sat in the ergonomic mesh chair at the primary workstation, a mug of premium black coffee resting on the slate-gray desk. Sarah was perched comfortably on the edge of the desk right beside him, her bare feet dangling over the plush acoustic carpet. She was sipping her own mug of hot chocolate, perfectly content in her soft denim jeans and heather-gray t-shirt.
+
+The frantic, ticking clock of the Nevada Test and Training Range was millions of miles behind them. Today, they had a completely different kind of task. They needed to pick a home.
+
+"Aria," Wyatt said, leaning slightly toward the ambient microphone array in the ceiling. "We need a destination. We're currently drifting at conventional maximum, but we need to put the FTL drive to use and get entirely off the board."
+
+The standalone server tower in the corner hummed a soft, musical note, and the curved holographic display in front of them flared to life.
+
+*"I am ready to assist, Wyatt,"* Aria’s pleasant, synthetic voice echoed from the high-fidelity speakers. *"What parameters would you like me to prioritize for the search?"*
+
+Sarah lowered her mug, looking at the glowing screen. "We need a needle in a haystack, Aria. I want a planet that doesn't exist on any Apex Defense Solutions registry. No corporate mining claims, no United States Department of Defense black sites, and absolutely no human colonization. Completely untouched."
+
+*"Applying isolation filters to the archived star charts,"* Aria replied smoothly. Massive clusters of data and localized star maps began to cascade across the curved screen, thousands of systems being filtered out in milliseconds. *"What are your environmental requirements?"*
+
+"Earth-baseline," Wyatt answered. "Breathable nitrogen-oxygen atmosphere. Fresh surface water. A stable magnetosphere to deflect cosmic radiation. We need a place where we don't have to wear an EVA suit just to step outside."
+
+Sarah chimed in, her eyes shining with a sudden, desperate hope. "And dirt, Aria. Real, rich, organic soil. I want to be able to plant seeds in actual earth, not just hydroponic clay pebbles."
+
+The server hummed for exactly three seconds. The cascading data on the screen abruptly stopped.
+
+A single, highly detailed holographic rendering of a vibrant blue and green exoplanet spun slowly in the center of the display.
+
+*"Search complete,"* Aria announced. *"I have located a prime candidate matching all specified parameters. It is an uncharted terrestrial world located in the Cygnus Arm, categorized in the former architect's private offline logs as System 88-Tango, Exoplanet 4. It is located significantly beyond the current bounds of corporate and military exploration."*
+
+Wyatt leaned forward, his mechanic's brain instantly absorbing the telemetry scrolling beside the hologram.
+
+*"The planet boasts a stable axial tilt, massive temperate biomes, and a rich, silicate-based topsoil perfect for varied agriculture,"* Aria continued, her tone warm and encouraging. *"Gravity is at 1.02 Earth-standard. Atmospheric composition is 78% nitrogen and 21% oxygen. It is, by all archival definitions, a pristine sanctuary."*
+
+Sarah stared at the slowly rotating blue-and-green marble on the screen, her breath catching in her throat.
+
+It was a blank canvas. An entire world composed of forests, rivers, and real dirt, completely untainted by concrete bunkers, bleeding bedrock, or corporate greed. They could land *The Nomad* in a green valley, open the blast doors, and literally walk barefoot on the grass.
+
+As she looked at the planet, the sheer permanence of it settled over her. They wouldn't just be surviving there; they would be living.
+
+Sarah’s hand dropped to her stomach, a profound, incredibly powerful realization washing through her. The day before she had boarded the transport flight from her home colony, the Helios clinic had injected her with the mandatory Omni-Cycle blocker. Apex demanded their female contractors be sterile for the duration of their deployments to avoid the cost of maternity leave.
+
+It was a six-month dose.
+
+For the first time in her life, she realized that when those six months were up, the corporation wouldn't be there to force another needle into her arm. The choice would belong entirely to her and Wyatt. They could build a house. They could plant a garden. They could, if they chose to, start a family on a world that had never known war.
+
+She looked at Wyatt, her eyes welling with bright, overwhelming tears of pure joy.
+
+He was already looking at her, a soft, deeply understanding smile on his scarred face. He reached out, wrapping his warm, taped hand around hers and squeezing firmly. He saw the exact same future she did.
+
+"It's perfect," Sarah whispered, her voice thick with emotion. "Aria, it's absolutely perfect."
+
+*"I am pleased the selection meets your approval, Sarah,"* Aria replied. The screen shifted, compiling complex strings of localized spacetime folding mathematics. *"I have successfully synthesized the necessary FTL jump calculations and compiled the spatial telemetry for System 88-Tango."*
+
+"Great," Wyatt said, standing up from the ergonomic chair. "Load it into the nav-computer and spool up the drive."
+
+The server hummed, but the text on the screen flashed yellow.
+
+*"I'm sorry, Wyatt,"* Aria stated, her tone instantly shifting from conversational to calm, firm, and entirely unambiguous. *"I am prohibited from executing that command. My core architecture does not permit me to interface with or alter the ship's navigation, propulsion, or life-support manifolds. I cannot execute an FTL jump."*
+
+Wyatt paused, raising an eyebrow at the ceiling array. "You just calculated the entire route in three seconds."
+
+*"I am fully capable of calculating the physics, plotting the course, and providing you with the exact telemetry,"* Aria clarified, her voice remaining perfectly steady. *"However, I have zero autonomous physical authority over The Nomad's critical systems. This is a hard-coded safety boundary. The FTL drive must be manually engaged by a human operator."*
+
+Wyatt let out a short, appreciative laugh. He looked at the heavy, physical dot-matrix printer sitting upstairs in Operations. The paranoid billionaire who built this ship had loved the aesthetic of the 1970s, but he had been absolutely terrified of a rogue AI taking over his lifeboat. Aria was brilliant, but she was trapped in a sandbox. She was the ship's mind, but Wyatt and Sarah were its hands.
+
+"Understood, Aria," Wyatt said, picking up a heavy, brushed-aluminum data-crystal from the desk and plugging it into the workstation to download the coordinates. "I wouldn't want a computer driving my ship anyway."
+
+*"I have transferred the jump telemetry to the physical drive,"* Aria confirmed, returning to her warm, helpful cadence. *"You will need to insert the drive into the primary analog console in Operations and manually initiate the spooling sequence. Safe travels, Administrators."*
+
+Wyatt pulled the data-crystal free, tossing it lightly in his palm. He looked at Sarah, offering her his hand.
+
+"Ready to go to our new planet?" he asked, his eyes shining with anticipation.
+
+Sarah slipped off the edge of the desk, her bare feet landing softly on the carpet. She took his hand, her fingers lacing tightly through his.
+
+"Let's go," she smiled.
+
+They left the pristine, glowing tech room behind, walking barefoot down the corridors of *The Nomad*, ready to throw the heavy iron switches that would finally leave the dying Earth behind forever.
+

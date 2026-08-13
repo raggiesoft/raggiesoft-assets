@@ -1,0 +1,76 @@
+# Part 2: The Baffle – Monday, October 24, 2044 – ~11:30
+
+Wyatt wiped a streak of dark grease from his forehead with the back of his hand, his muscles burning as he finally muscled the secondary coolant valve closed. The massive iron wrench slipped with a heavy *clack*, but the line was sealed.
+
+He took a deep breath of the hot, copper-scented air, turning back to check the primary atmospheric manifold bolted to the far wall.
+
+His blood ran instantly cold.
+
+The main life-support panel was a towering wall of heavy glass dials and thick rubber hoses. The largest dial—a six-inch analog gauge tracking the station’s primary O2 recycling loop—was dropping rapidly. The needle wasn't just drifting; it was physically ticking backward, grinding against the red warning zone.
+
+A localized, mechanical klaxon suddenly kicked in, a grating, high-pitched whine that cut cleanly through the deep bass of the reactor.
+
+"Wyatt?" Sarah yelled over the noise, instantly dropping her notebook. She was on her feet, the raw panic from the NTTR flashing in her eyes.
+
+"The main scrubber is seizing!" Wyatt shouted, dropping the massive wrench. It clanged loudly against the grated floor as he lunged toward the atmospheric manifold.
+
+He grabbed the heavy, cast-iron handle of the filter housing and threw his weight backward. It didn't budge. The hydraulic seal had locked up.
+
+Delta 9 didn't use digital, chemical-synthesis air scrubbers. It used a massive, industrial carbon-baffle system that physically filtered the carbon dioxide out of the station's recycled air. If the baffle seized in the closed position, the entire station would suffocate on its own exhalations in a matter of hours. There was no backup.
+
+"Sarah, get over here!" Wyatt roared, his voice cracking over the screaming klaxon.
+
+She didn't hesitate. She didn't freeze. She sprinted across the grated floor plates, dodging the blistering hot steam pipes, and slammed to a halt right next to him.
+
+"What is it? What do we do?" she demanded, her hands hovering over the terrifying mess of pressurized hoses.
+
+"The carbon core is jammed, and the housing is under massive negative pressure!" Wyatt yelled, pointing to a heavy, rusted pneumatic lever situated exactly four feet away from the filter door. "I have to physically rip the old filter out and slam the bypass open, but I can't break the vacuum and reach the door at the same time!"
+
+He looked her dead in the eyes, the amber warning lights flashing violently across his face. "I need you to pull that release bar and hang onto it. Do not let it snap back, or it will crush my arm inside the housing!"
+
+Sarah looked at the rusted, heavy iron bar. It was designed to be pulled by two fully grown Apex technicians, not one hydroponics gardener. But the O2 needle behind Wyatt was flatlining.
+
+"Tell me when!" Sarah shouted. She grabbed the heavy metal bar with both hands, planting her boots firmly against the steel deck plating. The metal was freezing cold, completely frosted over from the compressed gas venting around it.
+
+Wyatt wedged his fingers into the minimal gap of the filter door, his boots finding traction on the grating. The muscles in his back and shoulders coiled tight.
+
+"PULL!"
+
+Sarah threw her entire body weight backward. The rusted pneumatic cylinder screamed, fighting her with terrifying mechanical resistance. Her boots slipped an inch on the grease-stained floor, but she dug her heels in, a guttural cry escaping her throat. The lever slowly, agonizingly ground downward.
+
+With a deafening *CRACK*, the pressure vacuum broke.
+
+The filter door popped open exactly six inches. Wyatt didn't hesitate. He thrust his arm into the freezing, pressurized housing, his hand blindly searching for the jammed carbon core.
+
+"Hold it, Sarah! Hold it!" he gritted out, his shoulder pinned against the heavy iron door as it tried to aggressively snap shut under the station's internal pressure.
+
+"I've got it!" she screamed back. Her arms were shaking violently, the heavy metal bar threatening to rip itself from her frozen grip. Her knuckles were stark white.
+
+Wyatt found the heavy locking pin on the carbon baffle. He wrapped his hand around it and ripped it violently to the left.
+
+*CLANG.* The jammed core disengaged. A massive, concussive blast of localized air exploded out of the manifold, hitting Wyatt directly in the chest and knocking him backward onto the floor grates.
+
+The heavy iron door slammed completely open, and the pneumatic lever in Sarah's hands instantly lost its resistance, sending her stumbling backward until she hit the edge of a supply crate.
+
+The grating klaxon died instantly.
+
+For a terrifying second, the only sound in the room was the low, steady hum of the fission reactor.
+
+Then, the massive atmospheric manifold took a deep, shuddering mechanical breath. A loud, rushing sound echoed through the heavy ventilation shafts above them as the bypass engaged, flooding the entire station with fresh, heavily filtered oxygen.
+
+Wyatt lay flat on his back on the cold grating, staring up at the amber lights on the ceiling, his chest heaving. The O2 needle on the glass dial smoothly climbed out of the red zone, settling directly into the center of the green.
+
+Sarah slid down the side of the supply crate, sitting on the floor with her knees pulled up to her chest. She looked at her trembling hands, the freezing metal having left harsh red indents across her palms.
+
+Wyatt slowly sat up, wiping a smear of carbon dust from his cheek. He looked over at her, sitting amidst the tangle of exposed pipes and grease.
+
+"You okay?" his voice was barely a rasp, the adrenaline slowly draining out of his system.
+
+Sarah let out a shaky, disbelieving laugh, letting her head fall back against the metal crate. She took a deep, deliberate breath of the cold, clean air rushing out of the overhead vents.
+
+"Remind me," Sarah panted, a breathless smile cutting through the grease on her face. "Next time you invite me down here... I'm staying in the garden."
+
+Wyatt barked out a laugh, the sound rich and incredibly relieved. He pushed himself off the floor, walking over and offering her his hand. She took it, and he hauled her to her feet, immediately pulling her into a tight, bruising hug.
+
+They weren't just surviving. They were a team. And they had just kept their lifeboat breathing.
+

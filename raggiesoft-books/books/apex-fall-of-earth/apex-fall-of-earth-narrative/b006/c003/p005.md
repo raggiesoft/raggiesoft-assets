@@ -1,0 +1,74 @@
+# Part 5: The Supply Drop – Thursday, May 14, 2046 – 11:30
+
+Spring had finally touched the northern hemisphere of Planet Eden, turning the dense, alien pine forests surrounding the estate a vibrant, deep emerald.
+
+Down in the Combat Information Center on Sub-Level 3, the ambient lighting was a calm, steady blue. At five months old, the triplets were currently napping peacefully upstairs in the massive Mega-Crib, securely anchored to one another while Sarah watched over them via the internal monitors.
+
+Wyatt was standing over the primary holographic table, running diagnostic checks on the geothermal power plant, when the system suddenly chimed.
+
+"Administrator," Aria’s voice announced, entirely devoid of the urgent, blaring alarms that usually accompanied a breach. "A spatial anomaly has resolved in the upper thermosphere. A single vessel has dropped out of sub-light transit."
+
+Wyatt straightened up, his broad shoulders instantly tensing as his S.H.O.P. Marine instincts flared. "A scout? Corporate armada?"
+
+"Negative, Wyatt. It is a mass-conveyance civilian transport," Aria reported, the holotable flaring to life to display a glowing, ragged icon. "Its drive signature is highly unstable. It is venting plasma, and its primary life-support systems are operating at fourteen percent capacity. The vessel is heavily battle-damaged."
+
+Wyatt stared at the telemetry. It wasn't an invasion; it was a shipwreck.
+
+He tapped his comm-cuff. "Sarah. Are you seeing this on the residential monitors?"
+
+"I see it, Wyatt," Sarah’s voice replied, tight with a mixture of empathy and profound, deeply ingrained paranoia. "They're limping. But the Sentinel Directive stands. We don't know who they really are."
+
+"Agreed," Wyatt rumbled. He leaned his heavy hands on the glass edge of the holotable. "Aria. Open the audio-only hailing frequency. Wideband."
+
+"Channel open."
+
+Wyatt took a slow breath, letting his voice drop into a deep, uncompromising register. "Unidentified vessel, you have entered the sovereign, restricted airspace of Planet Eden. Cut your main drives and state your intentions immediately."
+
+For a long, tense moment, there was only the hiss of cosmic static. Wyatt's hand hovered over the biometric execution rune, fully prepared to bring the Aegis offensive batteries online if they powered up weapons.
+
+Then, a voice broke through the static.
+
+"...Please," a ragged, desperate, and incredibly exhausted voice crackled over the speakers. It was an older man, his lungs clearly struggling against the failing life support. "This is the civilian transport 'Pilgrim.' We... we have no hostile intent. We are unarmed. We are refugees from the Corvus sector."
+
+Wyatt’s finger paused over the glass. "What happened to the Corvus sector?"
+
+"Apex," the man coughed, the audio peaking with a horrific sound of absolute defeat. "Apex Defense Solutions. They... they cracked the mantle. Strip-mined the core. They burned our world to ash to extract the heavy metals. We are the last three hundred survivors. Our hyper-drive is cracked, our fusion cells are empty, and my people are starving. We saw the atmospheric readings of your planet... we just need a place to land."
+
+Down in the CIC, the silence was deafening.
+
+Wyatt’s heart pounded against his ribs. Apex. The exact same ruthless, planet-killing megacorporation that had destroyed Earth. He knew exactly what these people were running from because he had run from the exact same fire. Every shred of his humanity screamed at him to lower the shield gate, open the estate, and let them find sanctuary in the green forests of Eden.
+
+But then he thought of the Mega-Crib upstairs. He thought of Ellie’s protective gaze, Nora’s fragile whimpers, and Leo’s terrifying, silent panic. He thought of Sarah.
+
+He was a father first. And a father could not invite three hundred starving, desperate, unknown strangers into a perfectly secure bunker. It only took one desperate refugee with a concealed weapon to end his entire universe.
+
+"Captain of the Pilgrim," Wyatt spoke, his voice heavy with a profound, agonizing regret, but absolute in its resolve. "I am sorry for what Apex did to your home. I know exactly who they are. But this planet is a closed ecosystem. It is under absolute quarantine. I cannot permit you to land."
+
+A soft, devastated sob echoed over the comms channel. "We won't survive another jump. We have no fuel."
+
+"I didn't say I wouldn't help you," Wyatt corrected sharply, his mechanic's brain rapidly shifting gears.
+
+He looked up at the ceiling array. "Aria. Load an automated, unmanned orbital delivery drone from the Fab-Foundry. Pack it with two fully charged, heavy-duty fusion cores from our secondary reserves. Synthesize enough high-density nutritional rations and medical supplies to sustain three hundred biological adults for six months. I want it loaded and in the launch tube in five minutes."
+
+"Processing logistical request, Administrator," Aria confirmed, the subterranean machinery instantly roaring to life beneath Wyatt's feet. "Payload assembly initiated."
+
+"Captain," Wyatt ordered through the comms. "Maintain your geostationary orbit. I am firing an automated resupply drone through the shield gate. It contains enough raw fusion power to repair your drives and jump you to the Outer Rim, and enough food and medical supplies to keep your people alive until you find a safe harbor. Do not attempt to follow the drone's trajectory back through the shield. It will incinerate you."
+
+The static crackled heavily, followed by the sound of the old man weeping openly. "Thank you. Whoever you are... God bless you."
+
+Ten minutes later, Wyatt watched the tactical monitor as a sleek, unmanned drone shot out from the planet's surface, seamlessly passed through the microscopic opening in the Aegis shield, and intercepted the battered refugee ship. The drone deployed the massive cargo pod before immediately self-destructing into harmless dust to prevent reverse-engineering.
+
+Wyatt held his breath as the Pilgrim brought the supplies aboard.
+
+An hour later, the ship's drive signature suddenly flared a brilliant, healthy blue. The fusion cores had been installed.
+
+"They are breaking orbit, Wyatt," Aria reported as the glowing icon banked sharply away from the planet. "They are initiating a sub-light jump. The sector is clear."
+
+Wyatt let out a long, heavy exhale, leaning back from the holotable. He tapped his comm-cuff. "They're gone, Sarah."
+
+"You did the right thing, Wyatt," Sarah’s voice came back, thick with emotion. "We aren't monsters. We helped them. But our babies have to come first. Eden isn't ready for visitors yet. We need a population, we need infrastructure, we need a government."
+
+"We need time," Wyatt agreed, powering down the holotable. The CIC returned to its calm, steady blue.
+
+Planet Eden remained a ghost in the dark—a heavily armed, completely inaccessible fortress that occasionally offered a lifeline to those who were willing to just talk.
+

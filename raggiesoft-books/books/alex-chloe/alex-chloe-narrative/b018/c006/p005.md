@@ -1,0 +1,34 @@
+# Part 5: The Physical Toll (Late 2027)
+
+By the late fall of 2027, the relentless pace was catching up with Alex. The Lynnwood Discovery and Care Center was a thriving reality, and Echo Bridge was a successful, growing company. But the cost of running both dreams simultaneously was a debt being paid by Alex's body.
+
+The scene that brought it all to a head was a quiet one. The three of them were on the sofa in the living room of their Lynnwood house, a rare, quiet evening with no urgent deadlines. Alex was in his usual spot in the middle, a laptop on his lap, trying to work on a new, complex design.
+
+He had to stop, a sharp, involuntary wince contorting his features as a painful cramp seized his right hand. He quickly pulled his hand back from the keyboard, trying to flex his fingers, to work out the pain, hoping neither of them had noticed.
+
+But Megan noticed. She had been watching him from his left side, her expression one of quiet, growing concern. She had known him his entire life, from the time he was two years old. She knew the subtle, almost imperceptible signs of his physical distress better than anyone on earth, sometimes even better than he knew them himself. She saw the new, deeper lines of exhaustion around his eyes, the slight tremor that now sometimes lingered in his hands even when he wasn't tired.
+
+"Cuz," she said, her voice a soft but unignorable anchor in the quiet room. "You need to stop."
+
+Alex looked at her, a flicker of his old, stubborn defensiveness in his eyes. I'M FINE, he started to type with his other hand.
+
+"No, you're not," she said, her voice firm but full of a deep, aching love. "I see it. The way your hands are cramping all the time now. The way you're holding your shoulders. You're in pain, Alex. And you're trying to hide it from us."
+
+Chloé, who had been reading on his other side, put her book down. She had seen it too, but had been waiting for him to be ready to talk. She took his cramping hand in hers and began to gently massage his wrist, her touch a familiar, loving comfort. "She's right, my love," Chloé said softly. "We're worried about you. You're pushing yourself too hard."
+
+The gentle, unified, and completely undeniable truth from his two protectors was a wall he could no longer hide behind. He looked from Chloé's loving, concerned face to Megan's, and the facade of strength he had been maintaining for months finally crumbled.
+
+A long, shuddering sigh escaped him. He let his head fall back against the sofa cushions, a look of profound, weary defeat on his face.
+
+IT'S GETTING HARDER, his Quantum Design Studio voiced, the words a quiet, heartbreaking confession. THE KEYBOARD. THE MOUSE. MY HANDS... THEY JUST CAN'T KEEP UP WITH MY BRAIN ANYMORE. I'M SO... TIRED.
+
+Chloé and Megan immediately enveloped him in a three-person hug, a fortress of unconditional love and support.
+
+"We know," Chloé whispered into his hair.
+
+"And it's okay," Megan added, her own voice thick with emotion. "It's not a failure. It just means the tools need to change."
+
+She pulled back just enough to look him in the eye, her expression now full of a new, practical resolve. "So," she said, her voice a familiar, comforting echo of a dozen other crises they had faced together. "We make a new plan. We start the process for the next upgrade. We find a better way. Together."
+
+He looked at them, at his wife and his cousin, at his two unwavering anchors, and for the first time in months, he felt a flicker of genuine hope. The tools that had brought him this far were now a source of pain. It was time to adapt. It was time to build a new bridge to the future.
+

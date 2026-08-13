@@ -1,0 +1,200 @@
+# Part 7: The Hydrostatic Lock
+
+## Date: September 28, 2003 Time: 3:30 PM Location: The Master Bath, The Bennett Wing (First Floor)
+
+The green landscaping van and the unmarked sedans were gone. The driveway was empty again, save for the tire tracks in the gravel. Upstairs, the red light above Uncle Mark’s SCIF door was glowing—a silent signal that the "Firewall" was active and processing the breach.
+
+Downstairs, in the first-floor hallway, the adrenaline crash hit Nichole like a physical weight.
+
+She sat in her Titan AeroMotion just outside the double doors of the Bennett Wing. Her hands were trembling again, the aftershocks of the confrontation with "David" vibrating through her nervous system. She felt cold, despite the mild September afternoon. The intrusion of the spy—a man who looked at her family and saw only leverage—made her feel exposed.
+
+Patrick saw the shiver. He saw the way her shoulders were hunching up toward her ears in the beginning stages of Turtle Mode.
+
+"Okay," Patrick said, his voice low and steady. "We need to scrub the hard drive. Reset the system."
+
+He turned her chair around and pushed her through the double doors into their mini-apartment. He bypassed the kitchenette and the study desks, rolling straight into the en suite master bathroom.
+
+The dry run earlier had proven the fit. Now it was time for the real thing.
+
+"Protocol is live," Patrick announced, locking the bathroom door.
+
+He walked over to the massive white hydrotherapy tub. The heavy acrylic side door was unlatched and swinging open.
+
+"We wash it off," Patrick said. "All of it."
+
+He turned to Nichole. The routine of undressing was usually a quick, efficient process to get from chair to bed. But today, the goal wasn't sleep; it was immersion.
+
+He helped her out of her jeans and t-shirt, placing them in the hamper. Then, without pausing or turning away, he stripped off his own clothes.
+
+He didn't do it with shame or hesitation. He did it with the same grim determination he had shown when staring down the spy on the porch. The outside world had tried to invade their space; by stripping down, they were reclaiming it.
+
+"Ready?" Patrick asked.
+
+Nichole nodded.
+
+Patrick unlocked the brakes on her chair. He rolled her right up to the open side door of the tub.
+
+The transfer was even easier than the dry run. He slid his arms under her—skin against skin—and shifted her sideways. She landed softly on the molded acrylic bench.
+
+Patrick stepped in after her. He sat down next to her on the double-wide seat.
+
+He reached out and pulled the heavy, watertight door shut. He engaged the locking lever.
+
+KA-THUNK.
+
+The seal compressed. They were locked in.
+
+"Water on," Patrick said.
+
+He turned the high-flow faucet handles. Water thundered into the basin—hot and fast.
+
+Because it was a walk-in tub, they had to sit and wait for the level to rise. Usually, this would be the cold, awkward part. But Patrick didn't let it be. He wrapped his left arm around her shoulders immediately, pulling her flush against his side, sharing his body heat while the water swirled around their ankles, then their calves.
+
+"Here it comes," Patrick whispered as the heat reached their waist.
+
+The water crept up their chests. It was hot—calibrated to shock the tension out of tight muscles. Nichole let out a long, shuddering gasp as the warmth finally enveloped her shoulders. The buoyancy took over, lifting the weight of gravity off her spine. Her legs, which had been locked in a rigid extension reflex from the stress, began to float and soften.
+
+Once the water level hit the safety sensor, Patrick reached out and hit the pneumatic button on the rim.
+
+WHOOSH.
+
+The jets kicked on. The water began to churn with white foam. The vibration hummed through the acrylic shell of the tub, massaging Nichole’s back and hips.
+
+She leaned her head back against the rim, closing her eyes. The sound of the jets drowned out the memory of the spy's voice. The heat seeped into her bones.
+
+Patrick grabbed the sponge and the bottle of body wash—cucumber melon, her favorite.
+
+"Lean forward," he murmured close to her ear.
+
+She complied, tipping her head forward. Patrick washed her back, his movements rhythmic and firm. He scrubbed away the sweat of the panic attack. He washed her shoulders, her arms, her hands.
+
+When she was clean, he handed her the sponge. Her motor control was loose and uncoordinated from the heat, but she gripped it. She couldn't wash his back, but she rested the soapy sponge on his chest, rubbing it gently in circles.
+
+Patrick took over, finishing the job on himself, washing his own arms and face, splashing the hot water over his head.
+
+They sat there for twenty minutes, submerged in the churning heat.
+
+Patrick shifted his position on the bench. He wrapped his left arm around her shoulders, pulling her flush against his side. The water made them weightless. Nichole floated against him, her head resting securely in the hollow of his neck.
+
+It was the ultimate "Zero Friction" environment. No clothes to bind them. No gravity to fight. Just the two of them, sealed inside a watertight capsule in their own wing of the fortress, insulated from the spies, the government, and the world.
+
+"We're good, Nikki," Patrick said, his voice rumbling in his chest against her ear. "The Fortress held. Mark held the line. And we're right here."
+
+Nichole made a soft, contented clicking sound in her throat.
+
+She looked at her brother’s arm holding her safe in the water. She realized that this—this shared heat, this absolute lack of boundaries—was the strongest defense they had. The spy had tried to buy secrets with money. He didn't know that the Bennetts' real secret was something that couldn't be bought.
+
+She closed her eyes, listening to the hum of the machine, finally clean.
+
+The washing was done. The soap suds swirled away toward the drain filter, leaving the water clear and steaming.
+
+Patrick dropped the sponge onto the side ledge. He didn't reach for the drain lever. He didn't reach for the towels.
+
+"Engine shutdown," Patrick murmured, leaning his head back against the acrylic rim.
+
+He shifted his position on the wide, molded bench. He slid his left arm fully around Nichole’s shoulders, pulling her flush against his side. The buoyancy of the water made her weightless, allowing her to float into him without any pressure on her joints.
+
+Nichole let out a long, shuddering exhale. She nestled into him, her head finding its natural resting place in the hollow of his neck. Her right arm draped across his chest, her hand resting over his heart.
+
+This was the core function of the Bennett Machine.
+
+For eighteen years, her muscles had fought a constant, losing war against gravity. Her hamstrings pulled tight; her adductors locked; her neck stiffened against the weight of her own head.
+
+But in the water, the war was suspended.
+
+The high-powered jets built into the lumbar section of the bench roared against their lower backs. The vibration hummed through their connected bodies, shaking the last remnants of the "fight or flight" tension out of Nichole’s hips.
+
+She closed her eyes. The heat seeped deep into her marrow. She felt Patrick’s breathing slow down, his chest rising and falling in a rhythmic, hypnotic cadence against her cheek.
+
+She didn't have to hold her head up. He had it. She didn't have to worry about sliding. He had her. She didn't have to worry about the cold, the spies, or the stares of strangers. The heavy, watertight door was locked. The world was sealed out.
+
+Patrick turned his head slightly, pressing his cheek against her wet hair.
+
+"We're good, Nikki," Patrick whispered, his voice rumbling in his chest against her ear. "The Fortress held. Mark held the line. And we're right here."
+
+Nichole made a soft, contented clicking sound in her throat. Here.
+
+She tightened her grip on him just a fraction—not out of fear, but out of possession. This was her brother. This was her engine. And in this moment, stripped of all the armor and the technology and the noise, they were just two souls sharing the same warmth.
+
+They sat there for thirty minutes, pruning in the heat, watching the steam rise and fog the mirror above the vanity.
+
+It was the ultimate "Zero Friction" environment. No clothes to bind them. No gravity to fight. Just the two of them, sealed inside a watertight capsule in their own wing of the fortress, insulated from the spies, the government, and the world.
+
+When the water finally began to cool, Patrick didn't rush the exit. He reached out and turned the drain knob first, letting the water level drop slowly while they were still seated, prolonging the warmth until the very last second.
+
+Only when the water was gone did he reach for the towels.
+
+"Ready to dry out?" he asked softly.
+
+Nichole nodded against his shoulder. She was clean. She was loose. And for the first time since the black sedan had pulled into the driveway, she wasn't afraid.
+
+The machine was reset.
+
+The water gurgled away, leaving the white acrylic tub empty. Patrick reached for the thick towels on the rack. He wrapped Nichole first, draping the terrycloth over her shoulders and tucking it around her legs to keep the sudden chill of the air away. He quickly dried himself with a second towel, wrapping it around his waist.
+
+"Exit sequence," Patrick murmured.
+
+He unlatched the heavy door. It swung open. He stepped out onto the bathmat, planting his feet firmly.
+
+He reached in and scooped Nichole up from the bench. She was warm and damp, smelling of cucumber melon. He settled her into her Titan AeroMotion which was parked right next to the tub.
+
+As soon as she was seated, Nichole tapped her hip. A sharp, specific double-tap.
+
+Patrick nodded. "Pit stop. Got it."
+
+He wheeled her the few feet to the toilet. It was a comfort-height model with heavy-duty grab bars bolted into the studs—another one of Uncle Mark’s specifications.
+
+Patrick locked the wheelchair brakes. He lifted her again, pivoting smoothly to place her on the toilet seat. He helped her adjust her position, ensuring her balance was secure against the grab bar.
+
+Then, he stepped back to the sink vanity, just two feet away.
+
+He didn't turn around. He didn't check his watch. He didn't look at the floor.
+
+He crossed his arms and looked directly at her face.
+
+In the early days, years ago, he used to try to give her privacy. He would turn his back or step into the hallway. But Nichole had put a stop to that.
+
+“If I seize, I am silent,” she had typed once. “If I choke, I am silent. If I fall, I cannot catch myself. You are my sensor suite. Eyes on.”
+
+So he watched her. He watched her eyes for the glazing that indicated a silent seizure. He watched the tension in her jaw that signaled pain. He watched her breathing rhythm. It wasn't voyeurism; it was telemetry.
+
+Nichole met his gaze. She didn't blink or look away. She felt safer with his eyes on her than she did alone. His focus was a tether, keeping her anchored to the room.
+
+After a moment, her expression relaxed. She gave a small nod. Done.
+
+Patrick moved instantly. He grabbed the wipes and the toilet paper. He cleaned her efficiently and thoroughly, checking her skin integrity one last time. He helped her transfer back to the wheelchair.
+
+Then, without a word, Patrick used the toilet himself. There was no shuffling around, no "your turn, my turn." They were a single functional unit sharing a biological necessity in their private fortress.
+
+He washed his hands at the sink, scrubbing for a full thirty seconds, then helped Nichole wash hers.
+
+"Clean," Patrick said, drying his hands. "Let's get some armor on."
+
+He pushed her out of the humid bathroom and into the cool, quiet bedroom of the Bennett Wing. The afternoon sun was slanting through the windows, illuminating the dust motes dancing in the air.
+
+He parked her next to the bed. He lifted her onto the mattress, laying her flat so he could dress her easily.
+
+"Sweats?" Patrick asked, opening the dresser drawer. "We aren't going anywhere."
+
+Nichole made a soft hummm. Yes.
+
+Patrick pulled out a pair of soft grey sweatpants and a fresh t-shirt. He dressed her with the same fluid motion he used for everything else—lifting her hips to slide the pants up, rolling her gently to smooth the shirt down. He put thick wool socks on her feet to guard against the draft.
+
+Then, he grabbed his own clothes. He pulled on boxers and a pair of matching grey sweatpants. He pulled a hoodie over his head.
+
+He sat down on the edge of the bed, tying his shoes—not because he was going out, but because the rubber soles gave him better traction for transfers.
+
+He looked at Nichole. She was lying on the bed, dressed, clean, and calm. The terror of the spy and the black sedan felt like a bad dream from a different life.
+
+Patrick reached out and brushed a damp strand of hair from her forehead.
+
+"We good, Nikki?"
+
+Nichole reached for her ConvertiBook on the swing arm. She clicked the mouse.
+
+"SYSTEM. GREEN."
+
+Patrick smiled. "Good. Now let's go see what Uncle Mark is doing. I bet he's starving."
+
+He lifted her back into her chair. The Bennett Machine was serviced, refueled, and ready to roll back out into the hallway.
+

@@ -1,0 +1,50 @@
+# Part 10: Off the Clock – Friday, October 21, 2044 – 13:00 (The twelve-hour klaxon finally screamed)
+
+The twelve-hour klaxon finally screamed, a harsh, mechanical wail echoing down the grated catwalks of Sector 4. Around them, the few contractors who actually made it to the end of their perimeter routes slumped their shoulders in collective, crushing relief.
+
+Wyatt and Sarah didn't flinch. They just exchanged a single, loaded look. It was time to play the game one last time.
+
+Wyatt joined the gray tide of contractors shuffling toward the elevators, keeping a disciplined six inches of professional distance between him and Sarah. The visual contrast between his heavy black-and-yellow S.H.O.P. Marine armor and her bright slate-blue Helios FST uniform made them a glaring anomaly in the ranks. The ascent to Sector 1 was a slow, suffocating grind, but he didn't let the impatience show.
+
+They merged into the Mess Hall. The cavernous room was an absolute madhouse of exhausted, sweating bodies and paranoid, heavily armed Supervisors. Wyatt kept his head down, guiding Sarah toward the wall dispensers. He pressed his thumb to the scanner. *Clunk.* She scanned her wrist. *Clunk.* The system registered their biometric signatures, logging them as fed and compliant.
+
+Wyatt grabbed their dented foil wrappers and found a small space at the end of a bolted metal bench. He didn't talk to her. He just tore into the dense, gray nutrient blocks, chewing methodically and swallowing them down as fast as physically possible.
+
+Sarah didn't take it personally. She knew exactly why he wasn't speaking to her: he was simply keeping up the appearance of the aloof, untouchable veteran. On paper, the HR algorithm considered Sarah just as much a S.H.O.P. Marine as Wyatt was, but Apex Defense Solutions would never admit to that, nor would they spend the credits to outfit an acquisition transfer properly. Until they did, her Helios uniform was a massive target, and Wyatt’s cold shoulder in public was her shield.
+
+Wyatt tossed the empty wrappers into the magnetic reclamation bin.
+
+"Ready?" he murmured, not looking directly at her.
+
+"Let's go," she whispered back.
+
+Wyatt merged back into the departing crowd funneling toward the Security Checkpoint. But right as the herd shifted right toward the crushing misery of Barracks 4, he subtly veered left.
+
+He ducked behind a massive, humming filtration bank. Sarah was a ghost right on his heels, her hand lightly gripping the back of his tactical belt to stay anchored to him in the dim light. Wyatt navigated the labyrinth of maintenance stairwells and forgotten access corridors with absolute precision, avoiding the main catwalks and dodging the sweeping arcs of the few automated cameras that still functioned. Every shadow they crossed made his heart hammer against his ribs. If a Supervisor caught them moving away from the dormitories, the entire illusion would break.
+
+But the corridors remained empty.
+
+The rusted blast door of the abandoned break area loomed ahead. Wyatt pulled it open, ushering her inside, and heaved it shut behind them. The metallic screech of the hinges was terrifyingly loud, but the second the heavy latch clicked into place, the facility's deafening roar vanished.
+
+Wyatt didn't take any chances. He grabbed a heavy, decommissioned steel pipe resting near the dead vending machine and wedged it firmly under the door handle, bracing the other end against a groove in the grated floor. He threw his weight against the door to test it. It didn't budge an inch.
+
+They were barricaded. They were completely off the grid.
+
+Wyatt turned around, unhooking the heavy Mark-IV flashlight from his belt and dropping it onto the cracked vinyl sofa next to their canvas duffel bags.
+
+Sarah was standing in the center of the dim room. The adrenaline of the illicit sneak was radiating off her, making her eyes shine in the ambient light. She didn't hesitate. The corporate armor hit the floor.
+
+She crossed the room and threw her arms around his neck, pulling him down into a desperate, consuming kiss.
+
+Wyatt caught her, his taped hand sliding to the small of her back to press her flush against him, his other hand tangling in her hair. She parted his lips, her tongue meeting his with an absolute, fiery passion that completely washed away the sterile taste of the nutrient paste. It was a deep, wet, hungry kiss that claimed everything Apex tried to strip away from them today.
+
+When they finally broke for air, her chest was heaving against his. She didn't let go of his neck.
+
+"We're completely alone," Sarah whispered, her voice a breathless, intoxicating rasp as she looked up at him. "No cameras. No shift rotations. Nobody is coming through that door."
+
+Wyatt looked down at her, his hands gripping her waist, feeling the heat of her skin right through the stiff fabric of her uniform. The absolute privacy of the locked room sank into his bones. The question hung heavily and electrically in the quiet air between them: exactly how far could they take this tonight?
+
+Wyatt didn't answer with words. He just pulled her back in.
+
+*\[The scene fades to black, the ambient hum of the facility's distant machinery masking the quiet, profound reclamation of their humanity as Apex's control over them finally breaks for the night. Note: we’re skipping over an exploratory sexual encounter, to comply with safety guidelines. Also, this is when the triplets (Ellie, Nora, and Leo) are conceived – we don’t know it yet, but the birth control Sarah was given was nothing more than a lie and a cheap placebo.\]*
+

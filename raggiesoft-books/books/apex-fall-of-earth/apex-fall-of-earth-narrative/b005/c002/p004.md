@@ -1,0 +1,62 @@
+# Part 4: The First Harvest – Thursday, May 9, 2045 – 08:30
+
+Wyatt set the clean cast-iron skillet on the drying rack and turned to look at Sarah. He took in her fresh cotton t-shirt and clean denim shorts, and then looked down at his own clean clothes.
+
+He let out a short, practical laugh.
+
+"Sarah," Wyatt said, crossing his arms and leaning against the galley counter. "We are about to go out into the sun and rip up 96 square meters of alien sod and dense topsoil by hand. In about ten minutes, we are going to be completely covered in mud and sweat."
+
+Sarah looked down at her clothes, realizing the immediate flaw in their morning routine. The billionaire had stocked *The Nomad* with plenty of supplies, but their wardrobe wasn't infinite, and running the ship's heavy-duty washing machines for a single outfit felt like a waste of clean water.
+
+She looked back up at Wyatt, a bright, uninhibited smile spreading across her face. She reached down and gripped the hem of her t-shirt.
+
+"Take them off," Sarah declared, pulling the shirt over her head and tossing it onto the dining table. "There's no one here to see us, and I am not ruining a perfectly good pair of shorts just to dig in the dirt."
+
+Wyatt didn't hesitate. He stripped off his t-shirt and canvas shorts, leaving them in a neat pile next to hers. They had already broken the ultimate corporate taboo by sleeping under the stars; working the land in their own skin felt entirely natural.
+
+Completely nude and barefoot, they climbed down the ladder to the cavernous cargo bay.
+
+Wyatt bypassed the high-tech surveying gear and opened a secondary polymer crate marked for agricultural terraforming. Inside, they found exactly what they needed to fulfill their promise to the valley: purely analog, heavy-duty manual hand tools. No plasma cutters or motorized tillers. Just a pair of forged steel spades, a heavy iron hoe, and a manual hand-trowel.
+
+They carried the tools down the grooved metal ramp and stepped out into the warm, morning sun.
+
+When they reached the 12-by-8-meter grid marked by the neon-orange string, they didn't waste any time. They drove the steel spades into the earth.
+
+The work was immediately, unapologetically brutal. The alien grass was deeply rooted, and the topsoil was dense and heavy with moisture from the nearby river. Wyatt used his massive, heavily muscled frame to break the stubborn sod, driving the spade deep into the earth and turning over massive, dark clumps of loam. Sarah followed right beside him with the heavy iron hoe, breaking the clods apart and smoothing the soil into neat, breathable rows.
+
+Within the first hour, they were both drenched in sweat. The golden sun beat down on their bare shoulders, and their legs and torsos were quickly coated in a thick, dark layer of rich soil. Their muscles burned, and their hands ached against the wooden handles of the tools.
+
+But it was the best kind of exhaustion. It wasn't the frantic, terrified labor of a S.H.O.P. Marine trying to meet a corporate quota before the klaxon sounded. Every strike of the spade, every drop of sweat that hit the ground, was an investment in their own survival. They were building their sanctuary with their own two hands.
+
+By the time the sun approached its zenith, the entire 96-square-meter grid had been transformed. The wild grass was gone, replaced by a massive, perfectly turned rectangle of dark, incredibly rich earth, ready to receive life.
+
+Wyatt leaned heavily on the wooden handle of his spade, his chest heaving as he wiped a streak of dirt from his forehead. He looked at Sarah. She was entirely covered in mud, her dark hair sticking to her neck, but she was glowing with pure, undeniable triumph.
+
+Wyatt unclipped the Level 1 PDA from the belt he had left resting on a nearby rock.
+
+"Aria," Wyatt panted, his voice laced with exhaustion and deep satisfaction. "The grid is tilled. We're ready for seeds. What do we have in the ship's vault that will take to this soil?"
+
+The PDA chimed perfectly.
+
+*"I have been analyzing the soil composition via the hull's localized telemetry,"* Aria responded smoothly. *"The dirt in your grid is exceptionally rich in nitrogen and organic matter, with a perfectly balanced pH level. Considering the current spring climate of 23.8°C, I highly recommend accessing the heirloom Earth seed vault in Hydroponics Bay 3."*
+
+"What are we planting, Aria?" Sarah asked, stepping closer to the PDA.
+
+*"For maximum caloric density and nutritional sustainability, I suggest dividing the grid into three primary crops,"* Aria calculated. *"Standard Earth potatoes, climbing tomatoes, and leafy spinach. The potatoes will require a trench depth of 15 centimeters, spaced 30 centimeters apart. The tomatoes should be planted at a depth of 5 centimeters, and the spinach seeds broadcast lightly over the topsoil and covered with 1 centimeter of dirt. I will monitor the soil moisture and advise you on irrigation from the river."*
+
+"Potatoes, tomatoes, and spinach," Sarah grinned, looking out over the dark earth. "It's perfect."
+
+They spent the next hour carefully burying the seeds exactly to Aria's metric specifications, gently patting the dark soil over their future harvest.
+
+When the final seed was in the ground, Wyatt and Sarah stepped back over the orange string. They stood side-by-side, completely exhausted, completely nude, and completely filthy. The dark, fertile mud was caked on their feet, their legs, and their hands.
+
+But looking at the freshly planted garden, a profound, unbreakable sense of accomplishment washed over them. They had officially staked their claim. They had sown the seeds of their new life.
+
+Sarah looked down at herself, and then over at Wyatt’s mud-streaked chest. She let out a breathless, exhausted laugh.
+
+"Well," Sarah said, pointing a dirty finger toward the valley. "I think it's time to use the pool."
+
+Wyatt tossed the spade aside with a tired grin. He reached out, grabbing her muddy hand in his, and together they ran down the grassy slope.
+
+They didn't slow down when they hit the riverbank. They plunged directly into the crystal-clear, freezing water. The shock of the cold river felt absolutely divine against their overheated skin, instantly washing away the sweat, the ache of the morning's labor, and the dark soil of their brand new garden.
+

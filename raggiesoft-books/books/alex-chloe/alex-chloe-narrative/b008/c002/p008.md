@@ -1,0 +1,29 @@
+# Part 8: The Love Bomb
+
+The first few days after Megan's late-night rescue were tense. Alex was quiet and distant, creating a wall of polite, monosyllabic responses. Vera, perceptive as a predator, knew she had made a serious tactical error by refusing to take him home. She saw the new, quiet resolve in his eyes, a resolve forged by his cousin's intervention, and recognized it as a direct threat to her control. And so, she began her counter-offensive.
+
+The following Wednesday, when she picked him up after their shared class, the prickly, possessive girlfriend from the previous week was gone, replaced by a kind, attentive, and overwhelmingly affectionate partner.
+
+"I brought you something," she said, handing him a small bag as they got into her car. Inside was a rich, decadent slice of chocolate cake from his favorite bakery. "A peace offering. I'm so, so sorry about the other night, Alex."
+
+The unexpected kindness was a disarming first volley. At her apartment, the "love-bombing" continued. She didn't turn on the TV or complain about her day. Instead, she sat with him, asking him about his classes with a focused, seemingly genuine interest. She praised his intelligence, telling him how she knew he was the smartest person in all his classes.
+
+She had created a perfect, irresistible illusion of the caring, supportive girlfriend he so desperately wanted her to be.
+
+"I was just so scared," she said, her voice a soft, apologetic murmur as she sat beside him on the sofa. "When you said you wanted to go home... I panicked. I missed you so much, and I get a little crazy sometimes. I just love you, and I can't stand the thought of anyone, even your cousin, taking you away from me."
+
+The apology was a perfectly calibrated weapon, designed to make him feel guilty for her bad behavior. And it worked. The memory of Megan's safe, platonic hugs began to fade under the constant, intense pressure of Vera's renewed affection.
+
+He knew, in a quiet, logical part of his brain, that it was all an act. He knew the real Vera was lurking just beneath the surface. But he was so tired of fighting, so tired of being alone. The VDU weekend with Megan felt a million miles away. Vera was here, now, offering a compelling imitation of the affection he so desperately craved.
+
+The final cave-in happened after she had made him dinner—a real, home-cooked meal, the first she'd made in months. As they were eating, she looked at him, her eyes shining with what looked like genuine love.
+
+"I just want you to be happy, Alex," she whispered. "That's all I've ever wanted. I know I'm not perfect, but I'm trying. I'm really trying. For you. For us."
+
+The false promises, the intense, manufactured affection, it was all too much. The thought of the massive, emotionally draining battle it would take to leave her felt impossible. The path of least resistance was to simply... believe her. To surrender.
+
+He reached for his Quantum Communicator XT and typed the words that sealed his fate. I KNOW YOU ARE. I LOVE YOU TOO, VERA.
+
+The moment the words were spoken, he saw a flicker of cold, possessive triumph in her eyes before it was quickly masked by another beaming smile. The escape hatch had just been closed. The vacuum of his loneliness had been filled, and he was once again, completely and utterly, in her clutches.
+
+

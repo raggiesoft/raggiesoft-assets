@@ -1,0 +1,28 @@
+# Part 8: The Cross-Country Problem
+
+As the quarantine days ticked by, a new and urgent problem began to dominate their conversations. They were safe in Virginia, but their entire life—their apartment, their jobs, their responsibilities—was three thousand miles away in Lynnwood. And one responsibility, in particular, was a source of growing anxiety for all three of them.
+
+"The fish," Chloé said one evening, her voice laced with worry. "And the snails. And the plants. The aquarium."
+
+It wasn't just a fish tank; it was the first living ecosystem they had built together, the symbolic heart of their dream. They had a trusted neighbor who could check on their apartment, but a complex, planted aquarium required daily, expert care.
+
+"She's right," Megan said, her own face a mask of grim concern as she looked up from her laptop. "We're stranded, and our little world is in peril."
+
+Flying was no longer an option. The airline industry was in freefall. The risk of getting stranded again, or being exposed to the virus in a crowded airport, was too high. While Alex and Chloé worried, Megan, ever the project manager, began to research.
+
+Her screen was a complex grid of rental car websites, cross-country train schedules, and news articles about state-by-state travel restrictions. For hours, the three of them worked as a team. Alex used his knowledge of logistics to map out potential routes, Chloé was on the phone trying to find a one-way car rental that wasn't already sold out, and Megan was deep in the fine print, trying to figure out which states had already implemented their own quarantine requirements for travelers.
+
+The conclusion was always the same: it was a logistical nightmare.
+
+James Miller, who had been watching their frustrating, fruitless search, finally walked over to the dining room table and spread a large road atlas out on top of their laptops.
+
+"There's only one way," he said, his voice a quiet, practical anchor in their sea of digital chaos. He traced a finger across the entire width of the United States. "We have to drive."
+
+The idea was daunting. A cross-country road trip in the middle of a pandemic. A journey of nearly 3,000 miles through a country that was locking down.
+
+"It's too much for just the three of them," Emily said, her voice full of a mother's worry.
+
+"Then they won't go alone," Thomas Mason stated, his tone as absolute as it had been on the night of the rescue mission.
+
+A new, even more ambitious plan began to form. A plan that would require one more incredible act of family solidarity to get their children, and their dream, safely home.
+

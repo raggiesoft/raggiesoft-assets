@@ -1,0 +1,13 @@
+# Part 8: Alex’s Recovery
+
+The two weeks following Alex's discharge from the hospital were a period of mandated, quiet quarantine. The doctors had been clear: after a serious bout of pneumonia, his immune system was compromised, and he needed to rest and recover at home, away from the germ-filled hallways of Northwood High.
+
+For Alex, it was a strange, suspended time. For Chloé, it was a period of unwavering, round-the-clock dedication. She became his constant companion, his caregiver, and his link to the outside world. Every day after school, she would come directly to his house, bringing his homework assignments and a detailed, often humorous, report on the day's events. They would work on their shared classes together, and in the evenings, their familiar, comforting sleepover routine was an essential part of his healing.
+
+But they weren't entirely alone. Every evening, like clockwork, Megan Carter would arrive at the Miller house. Her own days were a busy juggle of her college classes and her part-time job, but she made a point to stop by every single night. She was a breath of fresh air, a welcome connection to the world beyond Alex's recovery.
+
+She would arrive with stories from her own day, her cheerful, no-nonsense energy cutting through the quiet stillness of the house. She'd pull up a chair, and the three of them would talk, their conversation a comfortable, easy flow. Megan's visits weren't just social calls; they were a crucial part of Alex's support system. She would bring him his favorite snacks, quiz him for a history test, or just sit with them in a comfortable, shared silence while they all did their homework.
+
+Finally, after two long, quiet weeks at home, Alex was cleared to return to school. The day he wheeled back into Northwood High, with Chloé by his side, the sense of relief was profound. The weight that had been pressing down on Chloé's shoulders for a month finally lifted. He was back. He was safe. They were a unit again. The longest two weeks of their lives were finally over.
+
+

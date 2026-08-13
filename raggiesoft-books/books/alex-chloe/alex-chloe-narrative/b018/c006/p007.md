@@ -1,0 +1,34 @@
+# Part 7: The Rejection
+
+A few months after Alex’s new "Quantum Design Studio Pro" arrived, the three of them were in their shared office at the LDCC, a space now buzzing with the energy of a real, functioning enterprise. The initial enterprise contracts had given Echo Bridge a solid financial footing, and new individual sales of Axon were coming in every day.
+
+Megan, who handled all the initial business inquiries, was sorting through a new batch of emails. Suddenly, she stopped, a look of pure, unadulterated disbelief on her face.
+
+"You are not going to believe this," she said, her voice a low, dangerous murmur.
+
+Chloé and Alex looked up from their own work. "What is it?" Chloé asked.
+
+Megan just turned her monitor so they could both see. It was an email from a Vice President of Procurement at a major national health insurance company. The name was instantly, sickeningly familiar. It was the same company that had spent of Alex’s life fighting them, the same company that had deemed a standing function "not medically necessary," the same company that had finally, grudgingly offered him an mPad bolted onto a power chair.
+
+The email was full of cheerful, corporate jargon. They were "impressed with the innovative scripting solutions of the Axon platform" and were "interested in exploring an enterprise-wide licensing agreement" for their own clients who required AAC devices.
+
+A profound, dead silence filled the office.
+
+Then, a low, guttural sound of pure, unadulterated rage, a sound he hadn't made in years, was torn from Alex's chest. His hands flew to his keyboard, his movements sharp and furious. The words appearing on his screen were not a polite business reply; they were a torrent of raw, white-hot fury.
+
+ARE YOU KIDDING ME? THE SAME COMPANY THAT SAID I DIDN'T DESERVE A REAL VOICE NOW WANTS TO BUY MINE? THE SAME COMPANY THAT TRIED TO SCREW ME OVER NOW WANTS TO PROFIT FROM MY WORK? HELL NO. TELL THEM TO GO TO HELL.
+
+He was about to hit "Send."
+
+"Whoa, whoa, whoa, cuz," Megan said, her voice a calm, steady anchor as she reached out and gently placed her hand over his, stilling his fingers. "Hold on. Just... hold on."
+
+Chloé was at his other side in an instant, her own hand a firm, grounding presence on his shoulder. "He's right, my love," she said, her own voice full of a quiet, shared anger. "They absolutely deserve that email. But..."
+
+"But," Megan continued, finishing her thought, "you're a CEO now. We're a real company. And we have to be professional, even when we're telling someone to go to hell." She looked at him, her expression one of deep, unwavering solidarity. "You are one hundred percent right to feel this way. Your anger is completely and totally justified. But we are not going to give them the satisfaction of an emotional response. We are going to cool off. And then, when we're all calm, the three of us are going to sit down and write the most professional, polite, and absolutely devastating rejection letter they have ever received."
+
+Alex stared at his screen, at the angry, blinking cursor. He looked at Chloé, at the fierce, protective fire in her eyes. He looked at Megan, at her calm, strategic resolve. He took a deep, shuddering breath, and the tidal wave of his rage began to recede, replaced by a cold, hard certainty.
+
+They were right.
+
+He deleted the angry email. The response could wait. They would do it together, not as a wounded victim, but as the proud, unified, and completely untouchable founders of Echo Bridge.
+

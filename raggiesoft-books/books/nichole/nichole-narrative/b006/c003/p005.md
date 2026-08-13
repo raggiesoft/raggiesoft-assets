@@ -1,0 +1,80 @@
+# Part 5: The Sanctuary
+
+## Location: Batten Arts & Letters (BAL) to Perry Library Time: 1:50 PM
+
+"Going down!" Megan announced, pressing the call button in the 8th-floor lobby.
+
+The elevator system, true to its vintage nature, only sent one car. The doors slid open with a rattle.
+
+"Okay, capacity limits are real," Megan joked, ushering the Marine Biology family and the Psychology student into the car. "I'll take the first group down. Second group, just hit '1' and meet us in the lobby!"
+
+The doors closed, leaving the Bennetts and the History family waiting in the quiet hallway.
+
+Patrick leaned against the wall, wiping sweat from his forehead with the back of his hand. Even in the air-conditioned hallway, the exertion of the tour was catching up to him. Pushing a 250-pound combined weight (chair + Nichole) up the slope and managing the transfers required focus, and his body was running hot.
+
+Ding.
+
+The second elevator arrived.
+
+"Our turn," Patrick said. He rolled Nichole in, backed her into the corner, and they rode the rattling box down eight stories.
+
+## The Heat Wave
+
+They met Megan in the ground floor lobby. Instead of heading back toward the split-level stairs and the slow platform lift, Megan pointed to the double doors on the right wall.
+
+"We’re exiting straight out the side," she said. "Efficiency!"
+
+They pushed through the heavy doors and stepped back out into the Norfolk afternoon.
+
+The heat was oppressive. It was 92 degrees with 90% humidity—the kind of air you had to chew before you inhaled.
+
+"Library is right there," Megan said, pointing across a patch of concrete and dying grass. "We're skipping the main ceremonial entrance because, frankly, nobody wants to walk that far in this heat."
+
+They moved quickly along the sidewalk. Patrick grit his teeth. The sun was beating down on his neck. His t-shirt was sticking to his back. For someone with mild CP, thermoregulation could be tricky; his body worked twice as hard to perform standard movements, generating excess heat that didn't always dissipate fast enough.
+
+"Water," Patrick rasped, reaching for the bottle tucked in Nichole’s side pocket.
+
+He took a long, desperate swig of the ice water. He handed the bottle to Nichole. She took a sip through the straw, her eyes scanning his face. She knew the signs. He was getting flushed.
+
+"Almost there," Tom said, shielding his eyes from the glare.
+
+They reached the utilitarian side entrance of Perry Library. Megan swiped her student ID to unlock the door (a Summer Session security protocol) and held it open.
+
+## The Cool Zone
+
+They rolled inside.
+
+The drop in temperature was instant and glorious. The library was kept at a meat-locker temperature to preserve the books (and the students).
+
+Patrick stopped the chair immediately inside the door. He leaned his head back, letting the cold air blast his flushed face.
+
+"Oh, thank God," he whispered.
+
+Nichole watched him. She tapped his hand. Okay?
+
+"Yeah," Patrick nodded, his breathing slowing down. "Just need a minute. My radiator is boiling over."
+
+Megan gathered the group in the wide, carpeted lobby. It smelled of old paper, coffee, and quiet desperation.
+
+"Welcome to Perry Library," Megan said, keeping her voice to a respectful library volume. "This is your second home. It’s four floors of resources. We have computer labs, group study rooms, and the 'Quiet Floors' up top where silence is strictly enforced."
+
+She walked them toward a bank of computers.
+
+"But the best part?" Megan smiled. "During the Fall and Spring semesters, the library is open 24 hours a day from Sunday to Thursday. So when you’re pulling that all-nighter for your Midterm paper, you don't have to do it alone in your apartment. You can come here, be safe, and suffer in solidarity."
+
+The parents nodded approvingly at the safety aspect. The students nodded knowingly at the "suffering" aspect.
+
+Patrick took another sip of water. 24-hour access.
+
+He looked at Nichole. He imagined them here at 2:00 AM. Him working on a circuit diagram for Engineering. Her typing a chapter of her novel. Safe. Cool. Accessible.
+
+"And," Megan added, pointing to a copier room. "We have accessible workstations on every floor with screen readers and adjustable desks. You don't have to ask for them; they're just there."
+
+Nichole looked at the adjustable desk. It was just sitting there. Waiting.
+
+She tapped her armrest.
+
+GOOD. LIBRARY.
+
+"Yeah," Patrick whispered, his body temperature finally returning to normal. "Good library."
+

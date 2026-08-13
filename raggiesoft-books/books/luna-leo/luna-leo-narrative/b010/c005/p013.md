@@ -1,0 +1,50 @@
+# Part 13: The Storm Before the Calm
+
+The quiet of their secluded gate area was a fragile peace. Though Leo had calmed after hearing the song, Olivia could see he was still vibrating with a powerful, unreleased emotion. He was masking, holding himself together with a discipline that she knew was costing him dearly. Their flight was soon. She knew he needed a final, private moment to reset before facing the confinement of the plane.
+
+"Okay," she said softly. "Let's get you freshened up one last time before we have to deal with the tiny airplane bathroom."
+
+She guided him to a nearby family restroom, the lock clicking shut behind them with a sound of blessed privacy. It was a small, sterile, but safe space. "I'm just going to call Stella and Luna for a final check-in before we board, okay?" Olivia said, pulling out her phone.
+
+She hit the speakerphone button as the call connected, and Stella's voice, warm and anxious, filled the small room. "Liv? You guys okay? Getting close?"
+
+"We're good," Olivia said, her voice a calm reassurance. "We're just taking a final pit stop before heading to the gate. He was doing really well, but the airport was playing this song... *'Homeward on This Day'*..."
+
+"Oh, I know that one," Luna's voice chimed in. "The Christmas one. It's beautiful."
+
+"It is," Olivia agreed, her gaze fixed on Leo. "And it kind of... it hit him right in the heart. The promise of coming home, not being alone... it was a lot. He's okay, just... overwhelmed with happiness, I think."
+
+As she spoke the words, giving voice to his overwhelming joy and relief, the dam of his control finally broke. The safety of the private room, with only Olivia's voice and the distant, familiar sound of his sisters on the phone, was the permission he needed to finally let go.
+
+A raw, guttural sob was torn from his chest, a sound of pure, unrestrained emotional release. He slumped forward in his chair, his body wracked with tremors, the pent-up joy, fear, and relief of the last five days erupting in a tidal wave.
+
+"Liv? What was that?!" Stella's voice was sharp with alarm. "What's happening?!"
+
+Olivia didn't answer her. She was already in motion, dropping to her knees in front of Leo's chair, her focus absolute. She wrapped her arms around him, pulling him into a fierce, grounding hug, her body a shield against his storm. Her first instinct was to soothe him in her heart language, the words a soft, urgent balm.
+
+"*Je te tiens, Leo. Respire avec moi, mon amour,*" she murmured into his ear. (I've got you, Leo. Breathe with me, my love.)
+
+He clung to her, the sound of her voice a familiar comfort, but his breathing was still ragged, his body trembling. She saw the confusion still mixed with the terror in his eyes and realized—of course, he didn't know the words. He only knew her tone. In that instant, a quiet, fierce vow formed in her heart: *When he's better, when he's safe, I'm going to teach them. All of them. So they can have this language, too. So they can all share this safe place.*
+
+She switched seamlessly to English, her voice just as gentle but now clear and direct for him to hold onto.
+
+"I've got you," she whispered, her cheek against his hair. "I've got you. You're safe. Just breathe with me, Leo. I'm right here."
+
+Through the open phone line, Stella and Luna could hear it all: Leo's raw, wordless cries, and Olivia's calm, steady voice shifting from the musical cadence of French to the direct, grounding anchor of English, a constant, loving presence in the middle of his meltdown.
+
+After several long minutes, the storm began to subside. Leo's sobs quieted, and he leaned heavily against Olivia, utterly and completely spent.
+
+"He's okay," Olivia finally said into the phone, her voice thick with her own unshed tears. "He's okay. It was just... everything at once. He's coming back."
+
+She stayed with him, just holding him, until his breathing was deep and even. Then, with a gentle, matter-of-fact tenderness, she transitioned back to the practical. The necessary tasks of toileting and cleaning still remained. She helped him, her movements respectful and sure. She knew a proper bath was what he truly needed, a deep cleaning to wash away the last five days, but that was impossible here. She did the best she could with warm water and paper towels, a quiet act of restoring his dignity. She quickly took care of her own needs, her focus never leaving him. She understood that he would be terrified if she asked him to wait outside the restroom while she took care of her needs, and decided to throw privacy out the window.
+
+When they were both ready, she knelt in front of him again. "Okay?" she asked softly.
+
+He gave a small, exhausted nod. He was drained, but the wild, chaotic energy was gone, replaced by a profound, quiet peace.
+
+"Okay," she said again, picking up the phone. "Stella, Luna? We're okay. We're going to head to the gate now. We'll see you in a few hours."
+
+"We love you both," Stella's voice said, full of a gratitude that needed no other words.
+
+Olivia ended the call. They had weathered the storm. Now, all that was left was the final journey home.
+

@@ -1,0 +1,80 @@
+# Part 1: The Orange Army
+
+## December 29, 2005 The University Inn - Room 101 07:00 AM
+
+The storm had broken in the middle of the night.
+
+Leo was the first one awake. He sat in his manual chair, parked directly in front of the floor-to-ceiling window of the suite. The curtains were thrown wide open.
+
+The world outside was blindingly bright. The sun had risen over the Atlantic, reflecting off twenty-four inches of fresh, pristine white snow that blanketed the plaza, the station roof, and the city beyond. The sky was a piercing, cloudless blue.
+
+But the city wasn't sleeping. It was at war.
+
+Down in the plaza, a fleet of **Bobcats** and front-end loaders—painted in high-visibility BTA Orange—were performing a synchronized ballet. They were scraping the pavement, pushing the snow into massive mountains designated as "Melt Zones" at the far edges of the loop.
+
+But the real show was on the tracks.
+
+Leo watched the elevated **Regional Rail** viaduct. A massive yellow locomotive was moving slowly down the line. It wasn't pulling passenger cars. On its front was a **Rotary Snow Plow**—a spinning turbine of steel blades chewing through a four-foot drift and blasting a geyser of snow over the side of the bridge and into the ocean.
+
+Behind it came the "Jet Blower"—a maintenance vehicle literally equipped with a jet engine exhaust nozzle, melting the ice off the switches with a roar that Leo could feel through the double-paned glass.
+
+Arthur Bennett walked out of the bedroom, tying his robe. He stood next to Leo, squinting against the glare.
+
+"Look at that," Arthur murmured, pointing to the plow. "Virginia shuts down for an inch of slush. These people? They bring out the heavy artillery."
+
+Leo tapped his Quantum Communicator.
+
+"IT IS A SIEGE ENGINE."
+
+"It's beautiful," Arthur agreed. "That is tax money well spent. Look at the coordination. The loaders clear the bus loop while the jets clear the rail. They aren't waiting for it to melt. They are evicting it."
+
+Stella and Olivia emerged, looking sleepy but drawn by the light. Luna joined them, wrapping a duvet around her shoulders.
+
+"Is the world still there?" Luna yawned.
+
+"It's buried," Stella said, looking down at the plaza. "But they're digging it out fast."
+
+Leo zoomed in with his eyes (and his mental map). He saw the digital sign on the platform:
+
+REGIONAL RAIL - SERVICE SUSPENDED ESTIMATED RESUMPTION: 12:00 PM
+
+"FIVE HOURS," Leo typed. "THEN THE BEAST RUNS AGAIN."
+
+"That's fast," Olivia noted. "Two feet of snow and they're running by noon?"
+
+"Efficiency," Stella said, pouring coffee from the in-room machine. "This city doesn't like excuses."
+
+They watched for another hour as the "Orange Army" reclaimed the infrastructure. It was satisfying—a visual representation of order conquering chaos.
+
+But as the clock ticked toward **09:00 AM**, the novelty began to wear off for Leo.
+
+He spun his manual chair in a tight circle. He rolled to the door. He rolled back to the window. He checked his laptop. He checked the BTA status page again.
+
+He was trapped.
+
+The plaza was a construction zone. The trains were stopped. The sidewalks were still being cleared.
+
+He felt the walls of the hotel room closing in. He needed movement. He needed data. He needed to *go*.
+
+He tapped his screen, the sound sharp in the quiet room.
+
+"CABIN FEVER. CRITICAL LEVELS."
+
+Stella looked up from her breakfast. She knew that look. It was the "kinetic energy overload" look.
+
+"You need to roll," she diagnosed.
+
+"I NEED DISTANCE," Leo confirmed.
+
+"We can't go outside," Luna pointed out. "It's ten degrees and there are bulldozers everywhere."
+
+Stella smiled. She reached into her purse and pulled out the hotel key card.
+
+"Who said anything about outside?" Stella asked. "We have an entire subterranean city to inspect. Who wants to go walk the **Bull Run** and see where the Engineering building is?"
+
+Leo’s eyes lit up. He grabbed his wheels.
+
+"TUNNEL RECON," he typed. "LET'S GO."
+
+"Suit up," Stella commanded. "Light jackets only. It's seventy degrees underground."
+

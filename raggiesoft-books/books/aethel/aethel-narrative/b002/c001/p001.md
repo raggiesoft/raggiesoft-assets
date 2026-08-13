@@ -1,0 +1,1552 @@
+# Chapter 1: The Sundering of Sunstead
+
+## Part 1: A Home in the Hearth
+
+The world outside was ending. At least, that was how it felt to seven-year-old Kaelan.
+
+The cottage on the ridge was groaning. The heavy timber beams, usually so solid, creaked under the assault of the wind. Rain lashed against the thatched roof like handfuls of gravel thrown by an angry giant.
+
+*BOOM.*
+
+Thunder shook the floorboards.
+
+Kaelan yelped and dove under the thick wool blanket, pulling it over his head until he was a trembling lump in the center of the bed.
+
+"It’s just noise, Kaelan," a small voice whispered next to him. "It’s just the sky clapping."
+
+"It’s loud," Kaelan muffled from under the wool. "It sounds like rocks breaking."
+
+It was a strange irony that the boy who carried the essence of a star in his blood was terrified of a summer storm. But Kaelan didn't feel like a star. He felt small. He felt the vibrations of the thunder in his teeth, and it made his skin prickle with an energy he didn't know how to control.
+
+A hand found his under the covers. It was cool, dry, and steady.
+
+"I'm right here," Kaela whispered.
+
+Kaelan lowered the blanket just enough to peek out with one gold-flecked eye.
+
+The cottage was one room—a single, square box of stone and wood that held their entire world.
+
+On the far wall was the hearth, where a fire crackled defiantly against the damp chill. Above it hung drying bundles of sage and lavender. To the left was the small kitchen area: a shelf with three wooden bowls, a water barrel, and a heavy iron pot. To the right was Elara’s workspace, dominated by a loom that cast long, spindly shadows in the firelight.
+
+There were no walls to separate them. There was no privacy.
+
+In the corner near the door stood a simple wooden screen, behind which sat the chamber pot and a washbasin—the only concession to modesty in the tiny house. When they needed to wash, they took turns standing behind the screen while the others looked at the fire. It wasn't a hardship; it was just life.
+
+And in the warm corner furthest from the drafty door were the beds. One narrow cot for Elara, and a slightly wider, low wooden frame for the twins.
+
+Elara was sitting in her rocking chair by the fire, mending a tunic. She didn't flinch when the thunder roared again. She bit a thread, her face calm in the orange glow.
+
+"Elara?" Kaelan whispered.
+
+"I hear it, little one," Elara said without looking up. Her voice was deeper than the other village women's, rough like unpolished stone. "The sky is washing the dust off the roof. It will pass."
+
+*CRACK-BOOM.*
+
+A flash of lightning illuminated the cracks in the shutters.
+
+Kaelan squeezed his eyes shut and burrowed closer to his sister. He didn't care that the bed was small. He didn't care that her elbow was digging into his ribs. He wanted to be closer. He wanted there to be zero space between them so the thunder couldn't get in.
+
+Kaela shifted, wrapping her skinny arms around him. She was the younger twin by minutes, and physically smaller, yet in moments like this, she felt like the older one.
+
+She hummed. It was a low, vibrating sound against his chest.
+
+Kaelan focused on it. He focused on the *thump-thump-thump* of her heart. It was slower than his. It was steady.
+
+"Stop shaking," Kaela murmured into his ear. "You're making the bed squeak."
+
+"I can't help it," Kaelan whispered back. "I hate it."
+
+"Close your eyes," she commanded gently. "Listen to the fire, not the rain."
+
+Elara set her sewing down. She stood up—a tall, formidable silhouette—and walked over to their bed. She looked down at the lump of blankets with a soft, rare smile.
+
+"Is the warrior hiding?" she teased gently.
+
+Kaelan poked his head out. "The sky is angry."
+
+"The sky is just loud," Elara corrected. She sat on the edge of their bed. The mattress dipped under her weight, pulling the twins toward her.
+
+She reached out and brushed the hair back from Kaelan’s forehead. Her hand was calloused, scarred from years of wielding weapons she no longer carried, but her touch was incredibly gentle.
+
+"Do you know why we are safe here?" Elara asked.
+
+"Because the walls are thick?" Kaela guessed.
+
+"Because of the Hearth," Elara said. She gestured to the fireplace. "As long as the fire burns, the shadows stay outside. And do you know how to keep the fire burning?"
+
+Kaelan shook his head.
+
+"You sing to it," Elara said.
+
+She began to hum. It wasn't a nursery rhyme. It was an old song, a melody from a time before the King, before the silence. It was the *Hearth-Song*.
+
+*"Sleep now, embers, deep and red,* *Watch the window, watch the bed.* *Stone be strong and wood be dry,* *Let the storm go passing by."*
+
+Her voice was low and rich, filling the small room, pushing back the sound of the thunder.
+
+Kaelan felt his muscles loosen. The prickling in his skin faded. He looked at Kaela. She was already half-asleep, her breathing syncing with the rhythm of the song.
+
+*"Gold for morning, Silver for night,* *Keep the circle warm and bright.* *Brother’s shield and Sister’s eye,* *Safe beneath the stormy sky."*
+
+Elara finished the song, her hand resting on their covered feet.
+
+"See?" she whispered. "The thunder is moving away. It knows it cannot come in here."
+
+Kaelan listened. The booms were quieter now, rolling away toward the mountains. The rain was just a gentle tapping on the roof.
+
+He let out a long breath. He turned on his side, facing Kaela.
+
+There was barely enough room for them both. His knees knocked against hers. Her forehead rested against his chin. In the summer, it would be too hot. In the winter, it would be perfect.
+
+But tonight, Kaelan didn't want a bigger bed. He didn't want his own room. If he had his own room, he would be alone with the thunder.
+
+"Night, Kaelan," Kaela mumbled, her hand clutching the back of his tunic.
+
+"Night, Moon," Kaelan whispered.
+
+He closed his eyes, surrounded by the smell of sage, woodsmoke, and safety. He felt the warmth of his sister on one side and the warmth of the hearth on the other.
+
+He was exactly where he wanted to be.
+
+Elara watched them for a moment longer, making sure they were asleep. Then she stood up and walked back to her chair. She picked up her sewing, but she didn't work. She looked at the iron axe leaning in the corner, hidden in the shadows.
+
+"Sleep well, starlights," she whispered to the fire. "I will watch the door."
+
+## Part 2: The First Spark
+
+The autumn of their tenth year brought the Harvest Festival to Sunstead.
+
+The town square was transformed. Garlands of dried corn and red berries were strung between the lamp posts. The air smelled of roasting chestnuts, spiced cider, and the woodsmoke that drifted from the communal bonfires.
+
+For most children, it was a night of magic. For Kaelan, it was a test of patience.
+
+He sat at a long trestle table near the blacksmith’s forge, surrounded by other boys his age. They were participating in the "Carver’s Contest"—a tradition where the children whittled figures from blocks of soft pine to place on the ancestors' shrine.
+
+Jace, the baker’s son, was carving a wolf. It was crude, but recognizable. Mik, the tanner’s boy, was carving a shield.
+
+Kaelan was trying to carve a horse.
+
+It did not look like a horse. It looked like a potato with splinters.
+
+"Easy, lad," Horg the blacksmith rumbled, passing by the table. He rested a heavy hand on Kaelan’s shoulder. "Don't fight the wood. Follow the grain."
+
+"The grain is stupid," Kaelan muttered, his brow furrowed in intense concentration.
+
+He gripped the small carving knife tighter. His hands were already larger than the other boys', broad and calloused from helping Elara chop firewood. He felt clumsy. He felt too big for his own skin.
+
+Across the square, near the weaver’s stall, Kaela was sitting with the girls, braiding ribbons into a wreath. She wasn't looking at him, but Kaelan felt her presence in the back of his mind—a cool, calm hum that kept his frustration from boiling over.
+
+*It’s just wood,* her voice whispered in his head. *Be gentle.*
+
+*I am being gentle,* Kaelan thought back, snapping a flake of pine off the block with too much force.
+
+"That's not a horse," Jace sneered, leaning over to look at Kaelan’s work. "That's a rock."
+
+The other boys laughed.
+
+Kaelan felt a flush of heat rise up his neck. "It's a warhorse. It's supposed to be thick."
+
+"It's ugly," Jace said, emboldened by the laughter. "Just like your sword fighting. You're always tripping over your own feet, Kaelan. You're just a big, clumsy ox."
+
+"Shut up, Jace," Kaelan warned. The knife handle felt warm in his hand. Not from friction, but from him.
+
+"Or what?" Jace teased. "You gonna fall on me?"
+
+Jace reached out and poked the wooden block. "Maybe you should go sit with your sister and braid flowers. That's safer for you."
+
+The insult wasn't clever, but it hit the sore spot—Kaelan’s fear that he didn't belong, that he was different.
+
+The hum in Kaelan’s mind spiked. The connection to Kaela didn't break, but his anger drowned out her calm.
+
+"I said," Kaelan said through gritted teeth, "shut *up*."
+
+He slammed his hand down on the table to steady the wood block.
+
+He didn't mean to do it. It was just a surge of frustration, a desire to make the world stop laughing at him.
+
+But his emotions were the trigger for a star.
+
+*WHOOSH.*
+
+Heat—dry, intense, and sudden—exploded from Kaelan’s palm.
+
+It didn't just warm the wood. It flash-ignited it.
+
+The pine block didn't catch fire slowly; it burst into a ball of white-hot flame instantly. The sudden expansion of air blew the carving knife out of Kaelan’s other hand. It spun across the table and stuck, quivering, in the wood inches from Jace’s hand.
+
+Jace screamed, falling backward off the bench.
+
+The other boys scrambled away, knocking over the trestle table.
+
+"Fire!" someone shouted. "The boy started a fire!"
+
+Kaelan sat frozen on the bench. The pine block was gone, reduced to a pile of white ash in seconds. The table beneath his hand was scorched black, the wood smoking and curled in the shape of his palm print.
+
+The music in the square stopped. The laughter died.
+
+Dozens of eyes turned toward the forge.
+
+Kaelan looked at his hands. They weren't burned. They were glowing—a faint, terrifying red light pulsing beneath the skin of his palms.
+
+"I..." Kaelan stammered, looking at Jace, who was pale and shaking on the cobblestones. "I didn't mean to..."
+
+"Stay back!" Jace’s mother, the baker’s wife, rushed forward, pulling her son behind her. She looked at Kaelan not with anger, but with fear. Pure, unadulterated fear. "Keep away from him!"
+
+Horg stepped in, grabbing a bucket of water from the quench tank and dousing the smoking table. Steam hissed violently, clouding the air.
+
+Kaelan stood up. He felt like he was suffocating. The heat inside him was still rising, a panic loop that fed on itself. The more scared he got, the hotter he became. The air around him began to distort.
+
+"Kaelan."
+
+A small hand took his.
+
+It didn't burn.
+
+Kaela was there. She didn't look at the smoking table. She didn't look at the angry adults. She looked him right in the eye.
+
+"Look at me," she commanded softly.
+
+She squeezed his glowing hand. She didn't flinch, even though his skin must have been fever-hot.
+
+She took a deep breath. Kaelan involuntarily mimicked her.
+
+She projected peace. She projected the feeling of cool river water, of snow on slate, of the moon rising over a quiet hill.
+
+*Cool down,* she whispered in his mind. *It’s okay. I’ve got you.*
+
+The red glow in Kaelan’s hands faded. The distortion in the air vanished. The heat receded back into his core, locked away behind the wall of her calm.
+
+Kaelan slumped, his knees shaking. He looked around the circle of townspeople.
+
+They were whispering.
+
+"Did you see that?" "His hands..." "He's not right. That boy isn't right."
+
+Elara pushed through the crowd. She looked at the scorched table, then at the terrified look on Kaelan’s face. She didn't scold him. She placed a hand on his shoulder—a protective, claiming gesture.
+
+"Accidents happen," Elara announced, her voice leaving no room for argument. "The pine was full of resin. A spark from the forge must have caught it."
+
+She looked at Horg. The blacksmith met her eyes. He knew a forge spark didn't do *that*, but he nodded slowly.
+
+"Aye," Horg grunted. "Dry wood. Dangerous stuff."
+
+Elara steered the twins away. "Come. The festival is over for us tonight."
+
+They walked back up the ridge in silence. Kaelan kept his head down, listening to the sounds of the festival starting up again behind them—sounds he was no longer part of.
+
+When they reached the cottage, Kaelan didn't go inside. He sat on the chopping block, staring at his hands.
+
+Kaela sat next to him.
+
+"They're scared of me," Kaelan whispered.
+
+"They don't understand," Kaela said.
+
+"I could have hurt him, Kaela. I could have burned Jace." He looked at her, his gold-blue eyes filled with tears. "I'm a monster."
+
+"No," Kaela said firmly. She took his hand again, interlacing her fingers with his. "You're just... loud. You have a lot of fire, Kaelan. You just have to learn how to keep the door shut until you need it."
+
+"I don't know how," he admitted.
+
+"I know," she said, leaning her head on his shoulder. "That's why I'm here. I'll hold the door for you."
+
+Kaelan looked at their joined hands. He realized then that she wasn't just his sister. She was his safety mechanism. Without her, he would burn everything he touched.
+
+He squeezed her hand. "Don't let go."
+
+"I won't," Kaela promised.
+
+And for the rest of his childhood, Kaelan never tried to carve wood again. He stuck to iron, stone, and things that couldn't burn, terrified of the spark that lived in his own blood.
+
+## Part 3: The Night of the Bowls (Age 11)
+
+The cottage on the ridge was not merely a structure of wood and stone; it was a living thing with a distinct, grumpy personality.
+
+In the summer, the stone walls held the heat of the day long into the night, turning the single room into a baking oven that forced the twins to sleep atop the covers, limbs tangled in a sweaty, exhausted heap.
+
+In the winter, the draft under the door whistled a lonely, high-pitched tune that Kaela harmonized with when she thought no one was listening.
+
+But it was the Spring Rains that truly tested the friendship between Kaelan and the house.
+
+It was two hours past midnight. The rain was a steady, relentless drumming against the thatch.
+
+*Plip.*
+
+Kaelan stirred in his sleep.
+
+*Plip.*
+
+He frowned, shifting his head to the left on the pillow.
+
+*Plip. Splash.*
+
+A drop of freezing water hit him directly in the eye.
+
+"Gah!" Kaelan sat up, wiping his face. "Again! Elara!"
+
+Elara didn't wake. She was snoring softly in her cot, a rhythmic rumble that rivaled the thunder.
+
+Kaela sat up next to him, rubbing her eyes. " Is it the leak?"
+
+"It's the *enemy*," Kaelan grumbled, glaring at the dark ceiling. "It moved. Last week it was over the foot of the bed. Now it's sniping me."
+
+He scrambled out of the warm covers. The air in the cottage was damp and smelled of wet straw and ozone.
+
+"Don't wake Elara," Kaela whispered. "She was weaving until sunset. Her hands hurt."
+
+Kaelan sighed. He walked to the kitchen shelf and grabbed a wooden bowl. He climbed onto the foot of their bed, balancing precariously on the mattress.
+
+"I can't reach it," he hissed, stretching his arm up toward the darkened rafters. "I need something taller."
+
+"I'll hold you," Kaela said.
+
+She got out of bed. She was small for eleven, all elbows and knees, but she braced herself against his legs.
+
+"Steady," she whispered.
+
+Kaelan stretched. He wedged the bowl into the crook of the beam, right where the water was trickling in.
+
+*Plip. Tink.*
+
+The drop hit the wood of the bowl instead of his eye.
+
+"Got it," Kaelan whispered triumphantly. He jumped down.
+
+*Plip. Tink.*
+
+*Plip. Tink.*
+
+The sound was rhythmic. Louder than the rain.
+
+Kaelan stared at the bowl. "I can't sleep with that."
+
+"It's loud," Kaela agreed.
+
+She went to the kitchen and grabbed a rag. She climbed up onto Kaelan’s shoulders this time—he grunted but held her steady—and draped the rag inside the bowl to muffle the sound.
+
+Silence returned.
+
+They climbed back into bed. But now, they were awake.
+
+Kaelan stared at the thatch. "When I'm big," he whispered, "I'm going to rip that grass off. I'm going to put stone up there. River slate. Tight and gray."
+
+"Stone is heavy," Kaela murmured, pulling the quilt up to her chin. "The beams might break."
+
+"Then I'll put in new beams. Iron ones. Like Horg uses."
+
+"Then it won't smell like grass anymore," Kaela said. "I like the smell of the wet grass."
+
+Kaelan sniffed the air. It did smell good—earthy, sweet, and ancient. It smelled like safety.
+
+"It smells like a wet dog," Kaelan argued, though he didn't mean it.
+
+He shifted, trying to find a dry spot on the pillow. The bed was small. To avoid the damp patch where the leak had been, he had to scoot to the center.
+
+Kaela scooted too.
+
+They ended up pressed shoulder-to-shoulder, hip-to-hip, huddled in the dry center of the mattress.
+
+The cottage felt small. It felt crowded. The roof leaked, the door drafted, and the floorboards squeaked if you stepped on them wrong.
+
+But as Kaelan listened to the rain hammering against the walls, he realized that the smallness was the point. The storm was huge. The world was huge. But in here, in this tiny, leaking box, the world was just big enough for the two of them.
+
+He felt Kaela’s breathing slow down as she drifted back to sleep. He felt the warmth radiating from her arm into his.
+
+"Slate," he whispered stubbornly to the dark. "One day."
+
+"Go to sleep, Sun," Kaela mumbled, draping her arm over his chest to keep him still.
+
+"Night, Moon."
+
+Kaelan closed his eyes. He didn't move away. He stayed right there in the cramped, dry center of his world, and he slept better than any King in a five-bedroom palace ever could.
+
+## Part 4: The Weaver's Lesson
+
+The summer they turned twelve, the population of Sunstead swelled. It was the year of the Great Trade, when merchants from the Southern Coast braved the high passes to exchange salt and dried fish for the plateau’s ore and wool.
+
+The market square, usually a comfortable gathering of familiar faces, became a cacophony. Strangers shouted in foreign dialects. Donkeys brayed. Metal clashed against metal.
+
+For Kaelan, it was exciting. He ran through the crowds, staring at the exotic wares, his eyes wide with the thirst for adventure.
+
+For Kaela, it was an assault.
+
+She walked beside Elara, clutching a basket of wool, her head down. She wasn't just hearing the noise with her ears; she was feeling it in her blood.
+
+Every person in the square was a broadcast. She felt the merchant’s greed like an oily film on her skin. She felt the guard’s boredom like a heavy weight. She felt a child’s scraped knee as a sharp, phantom pain in her own leg.
+
+It was too much. It was a roar of conflicting emotions, a tidal wave of *other people*.
+
+"Kaela?" Elara asked, pausing near a stall selling spices. "You're pale."
+
+"It's loud," Kaela whispered, pressing her hands over her ears. "Elara, it's so loud."
+
+Elara looked around. "The crowd?"
+
+"The *feelings*," Kaela gasped.
+
+A group of sailors walked by, laughing raucously about a tavern brawl. Their aggression hit Kaela like a physical blow. The world tilted. The colors of the market banners smeared together into a nauseating blur.
+
+She dropped the basket.
+
+"Kaela!"
+
+She didn't hit the ground. Elara caught her, scooping the twelve-year-old up into her strong arms as if she were still a toddler.
+
+"Kaelan!" Elara shouted, her voice cutting through the din.
+
+Kaelan, who had been admiring a curved scimitar three stalls away, snapped his head around. He saw his sister limp in Elara’s arms.
+
+The excitement vanished from his face. He sprinted over, pushing through the crowd with zero regard for politeness.
+
+"What happened?" he demanded, his hands already glowing with panic-heat. "Who hurt her?"
+
+"No one," Elara said, turning toward the ridge. "Everything. Move, boy. Clear the way."
+
+They hurried back to the cottage. As soon as they crossed the threshold and closed the heavy oak door, the roar of the market faded to a muffled hum.
+
+Elara laid Kaela on the bed. She placed a cool, damp cloth on the girl's forehead.
+
+Kaela lay there, trembling. Her eyes were squeezed shut. "Make it stop," she whimpered. "It's like bees in my head."
+
+Kaelan stood by the bed, looking helpless. He wanted to fight the bees, but he couldn't burn a headache. He took her hand, trying to project his own simple, fierce protectiveness, but he worried he was just adding to the noise.
+
+"It is the curse of the Mirror," Elara murmured, brushing the hair back from Kaela’s face. "You reflect everything, little moon. And when there is too much light, you go blind."
+
+She turned to Kaelan. "Go to the spring. Fetch fresh water. Cold water."
+
+Kaelan nodded and ran out the door.
+
+Elara waited until he was gone. She lifted Kaela into a sitting position.
+
+"Open your eyes, Kaela."
+
+"It hurts."
+
+"Open them."
+
+Kaela forced her eyes open. They were bloodshot, the silver flecks swirling chaotically.
+
+Elara led her not to the table, but to the loom in the corner.
+
+It was a massive, upright frame of dark oak, strung with hundreds of vertical threads—the warp. A shuttle wound with blue wool sat on the bench.
+
+"Sit," Elara commanded.
+
+Kaela sat. "I can't weave. my hands are shaking."
+
+"You are shaking because your mind is a knot," Elara said. She sat behind Kaela, guiding her hands to the shuttle. "You are trying to feel the whole world at once. You cannot hold the ocean, Kaela. You can only hold a cup."
+
+Elara placed her hands over Kaela’s.
+
+"Look at the threads," Elara instructed. "Don't look at the whole cloth. Look at *one* thread."
+
+She guided the shuttle through the warp. *Over. Under. Over. Under.*
+
+"The world is chaos," Elara whispered, the rhythm of her voice matching the click-clack of the loom. "People are messy. Their thoughts are tangled. But here? Here, there is only the pattern."
+
+*Clack.* Elara pulled the beater bar down, packing the thread tight.
+
+"One thread," Elara said. "Order."
+
+Kaela watched the blue wool slide into place. It was a straight, clean line. It made sense.
+
+"Again," Elara said.
+
+Kaela threw the shuttle. Her hand trembled, but she focused on the motion. *Over. Under.*
+
+She focused on the texture of the wood. She focused on the tension of the string.
+
+Slowly, the roar in her head began to recede. The merchant’s greed, the sailor’s aggression—they faded into background noise, drowned out by the immediate, tactile reality of the weave.
+
+*Clack.*
+
+"Better?" Elara asked softly.
+
+Kaela let out a long breath. Her shoulders dropped. "Yes."
+
+"This is your shield," Elara explained. "Kaelan has his fire. He burns the world to make space for himself. You? You weave it. You take the chaos and you force it into a line. You make it a picture you can understand."
+
+Kaelan burst back through the door, a bucket of water sloshing in his hand.
+
+"I got it!" he panted. "Is she okay?"
+
+He stopped.
+
+Kaela was sitting at the loom. She looked pale, but she wasn't crying. She was working the shuttle with a grim, rhythmic intensity.
+
+*Click. Clack. Click. Clack.*
+
+She looked up at him.
+
+"I'm okay," she said. Her voice was quiet, but steady.
+
+She looked back at the threads. She realized then that she wasn't just making cloth. She was building a wall, thread by thread, to keep the noise out.
+
+"I'm making a pattern," she told him.
+
+Kaelan set the bucket down. He didn't understand the loom—it looked boring and complicated to him—but he understood the look in her eyes. It was the same look he had when he held a sword. Control.
+
+"It looks... straight," Kaelan offered.
+
+"It is," Kaela said, throwing the shuttle again. "It's perfect."
+
+## Part 5: The Wolf in the Canyon
+
+Thirteen was a dangerous age. It was the age where the boundaries of the backyard felt too small, but the world beyond the ridge was still too big.
+
+Kaelan and Kaela were testing the boundaries.
+
+They were three miles from the cottage, deep in the Red Canyon—a winding scar in the earth where the suns didn't reach the bottom until high noon. The air here was cooler, smelling of dry clay and shadow.
+
+"Elara said not to go past the Twisted Rock," Kaela noted, though she didn't stop walking. She was balancing on a fallen log, her arms outspread, practicing the grace she used at the loom.
+
+"Elara worries too much," Kaelan said from ahead. He was hacking at a patch of dead briars with a stick he was pretending was a sword. "We’re practically adults. Joren says boys my age in the Capital are already squires."
+
+"Joren also says he once wrestled a river troll," Kaela reminded him. "Joren likes stories."
+
+Kaelan ignored her. He scrambled up a scree slope, his boots sending a cascade of pebbles clattering down. "Come on. I want to see the caves on the north wall. I bet there’s old metal in there. Or maybe a crystal."
+
+Kaela hopped down from the log. She dusted off her tunic. The canyon was quiet. Too quiet. Usually, there were lizards skittering on the rocks or hawks screeching in the thermals.
+
+Today, the silence felt... heavy. It felt like a held breath.
+
+"Kaelan," she said, pausing. She reached out with her mind, not focusing on anything specific, just testing the air.
+
+It hit her like a smell—a sharp, jagged spike of *hunger*.
+
+"Stop," Kaela whispered.
+
+"What?" Kaelan looked back, impatient. "Are you tired?"
+
+"Something's here," she hissed. "Something... empty."
+
+Kaelan rolled his eyes, but his grip on his stick tightened. "A coyote? I can handle a coyote."
+
+"No. It feels heavier than a coyote."
+
+A pebble clicked on the canyon wall above them.
+
+Kaelan looked up.
+
+Standing on a ridge twenty feet above them was a Wolf. It wasn't the scrawny, skittish things that raided the chicken coops. This was a Canyon Grey—a beast the size of a pony, with shoulders made of corded muscle and fur matted with red dust. Its eyes were yellow, intelligent, and fixed directly on Kaelan.
+
+It didn't growl. It just assessed the drop.
+
+"Okay," Kaelan said, his voice jumping an octave. "That's not a coyote."
+
+"Don't run," Kaela warned, her mind racing. "If you run, it triggers the chase."
+
+"I'm not running," Kaelan said, though his feet were shifting backward. "I'm... tactically repositioning."
+
+The wolf dropped.
+
+It moved with terrifying fluidity, sliding down the scree slope in a controlled avalanche. It hit the canyon floor ten paces from them and snarled, revealing teeth that looked like ivory daggers.
+
+Kaelan panicked.
+
+His instinct—the "loud" instinct—took over. He didn't think about his surroundings. He just wanted the threat gone.
+
+"Back!" Kaelan shouted.
+
+He threw his hand out. He didn't summon a controlled flame; he unleashed a blast of raw, undirected heat.
+
+*FWOOM.*
+
+A wave of fire erupted from his palm. It scorched the air, singing the wolf’s fur. The beast yelped and scrambled back.
+
+But Kaelan had aimed too high.
+
+The blast hit the dry, brittle brush clinging to the canyon wall behind the wolf. The brush ignited instantly. The heat expanded rapidly in the narrow space, cracking the sandstone.
+
+*CRACK-RUMBLE.*
+
+"Kaelan!" Kaela screamed.
+
+A shelf of rock, loosened by the thermal shock, sheared off the wall. It crashed down between the twins and the wolf, kicking up a blinding cloud of red dust.
+
+Kaelan coughed, waving his hands. "I got it! Did I get it?"
+
+"You almost got *us*!" Kaela yelled, her voice sounding thin in the dust. "You can't just blow things up!"
+
+A low growl came from the dust cloud. The wolf hadn't fled. It was cornered now, cut off from its retreat by the burning brush. And it was angry.
+
+It lunged through the smoke, bypassing Kaelan entirely. It went for the smaller target.
+
+Kaela saw the yellow eyes emerge from the haze. She didn't have fire. She didn't have a stick.
+
+She had the Weave.
+
+She stood her ground. She slammed her mental shields down, focusing on the wolf’s mind. She tried to find the thread of its aggression and pull it.
+
+*Stop,* she projected. *We are not prey. We are stone.*
+
+The wolf faltered mid-stride, confused by the sudden psychic pressure. It shook its head, whining.
+
+It was working. Kaela had the thread. She just needed to hold the tension.
+
+*KAELA! MOVE!*
+
+The thought screamed into her head with the force of a trumpet blast. It was Kaelan. He was terrified for her, and his fear was so "loud" that it shattered her concentration like a rock through a window.
+
+Kaela gasped, the connection breaking.
+
+The wolf, released from the mental hold, snapped its jaws. It lunged.
+
+Kaela threw herself backward, but she wasn't fast enough. The wolf’s claws raked across her shin, tearing through her trousers and drawing blood.
+
+She cried out, hitting the dirt.
+
+"NO!" Kaelan roared.
+
+He didn't use fire this time. He threw his stick and tackled the beast. He was thirteen, fueled by adrenaline and the absolute horror of seeing his sister bleed.
+
+He slammed into the wolf’s side. The heat of his skin burned the animal. He scrambled on top of it, shouting incoherently, grappling with a predator three times his weight.
+
+The wolf, burnt and confused by these prey-things that fought like demons, decided the meal wasn't worth the pain. It kicked Kaelan off, sending him sprawling into the dust, and scrambled up the opposite canyon wall, vanishing into the rocks.
+
+Silence returned to the canyon, broken only by the crackle of the brush fire Kaelan had started.
+
+Kaelan lay in the dirt, chest heaving. He scrambled up and ran to Kaela.
+
+"Kaela! Are you okay?"
+
+Kaela was sitting up, clutching her leg. The scratch wasn't deep, but it was bleeding sluggishly. She looked at Kaelan. Her face wasn't fearful; it was furious.
+
+"I had him," she hissed, wincing. "I had him calm, Kaelan! I was weaving him!"
+
+"He was going to bite you!" Kaelan argued, his hands hovering over her leg, afraid to touch it in case he burned her. "I saved you!"
+
+"You *broke* me!" Kaela snapped. "You shouted so loud in my head I couldn't think! You panicked, you started a fire, and you caused a rockslide!"
+
+Kaelan sat back on his heels. He looked at the burning brush. He looked at the pile of fallen rocks. He looked at the blood on her leg.
+
+"I..." He swallowed hard. "I just wanted to protect you."
+
+"You can't protect me if you don't trust me," Kaela said, tearing a strip from her tunic to bind her leg. "You're just... noise and fire. You're dangerous, Kaelan."
+
+The words hung in the hot air.
+
+"I know," Kaelan whispered.
+
+They walked home in silence. When they reached the cottage, Elara didn't ask what happened. She saw the burnt clothes. She saw the bandage on Kaela’s leg. She saw the shame in Kaelan’s eyes.
+
+She cleaned the wound. She fed them stew.
+
+That night, after the twins were in bed—lying stiffly apart, the gap between them feeling miles wide—Elara sat by the fire, sharpening an old sword.
+
+"Tomorrow," Elara said to the darkness of the room. "We go to the Dust Bowl."
+
+Kaelan poked his head out from the covers. "To play?"
+
+"No," Elara said, testing the edge of the blade. "To train. You have power, both of you. But power without discipline is just a forest fire waiting to happen."
+
+She looked at them.
+
+"You almost died today because you fought alone. Starting tomorrow, you learn to fight together. Or you don't leave this ridge again."
+
+## Part 6: The Merchant of Questions
+
+##### Scene 1: Storm the Castle
+
+The midday sun beat down on the schoolyard—a flat patch of packed earth behind the Weavers’ Hall. A game of "Storm the Castle" was in full swing.
+
+Kaelan was the King of the Castle (which was actually just a large pile of wooden crates). He stood at the top, his chest heaving, a wooden sword clutched in his hand. His hair was a wild mop of black, and his eyes—that strange mix of gold and blue—flashed with the thrill of the fight.
+
+"Come on!" he shouted to the three boys below him. "I can take all of you!"
+
+The boys charged. Kaelan moved faster than a seven-year-old should. He dodged a grab, parried a stick, and shoved the biggest boy, Jace, backward with a laugh. Jace stumbled, not just from the push, but from the sudden wave of heat that seemed to radiate from Kaelan’s skin.
+
+Sitting on a bench ten paces away, Kaela watched.
+
+She didn't like "Storm the Castle." She preferred to watch the ants march in lines or listen to the wind whistle through the canyon. Her copper hair was braided tightly back, and her eyes were fixed on her brother.
+
+She felt his excitement like a buzz in her own teeth. When he laughed, she smiled. When he stumbled, her own foot twitched.
+
+"Kaelan, watch out!" she called out, pointing to the left.
+
+Kaelan spun around just in time to block a sneak attack from Jace’s little brother. He disarmed the boy and cheered. "I win! Again!"
+
+He jumped down from the crates, dusting off his trousers. Kaela was there instantly, holding out a waterskin.
+
+"You were amazing," she said, beaming. "Did you see how Jace fell? It was like the air pushed him."
+
+Kaelan took the water, but he frowned. He looked over at the other boys, who were whispering and rubbing their bruised arms. "I didn't need you to warn me, Kaela. I saw him."
+
+"I just wanted to help," she said, reaching out to brush a smudge of dirt from his cheek.
+
+Kaelan swatted her hand away. "Stop it. You’re always hovering. It’s weird."
+
+Kaela’s smile faltered. "I’m your sister."
+
+"Yeah, but you don't have to be my shadow," Kaelan grumbled. He ran off to join the other boys, leaving Kaela standing alone with the waterskin. She watched him go, a small, sharp pain in her chest that had nothing to do with a physical injury. She didn't understand why he wanted to be apart. weren't they the same?
+
+##### Scene 2: The Traveler
+
+Later that afternoon, the twins were walking home through the market. The Great Gates were open, and a caravan had just arrived from the East.
+
+The market was a riot of noise. Merchants were shouting prices for spices, silk, and iron. But one wagon stood out. It was painted a sleek, glossy black, and the man standing beside it didn't look like a trader. He looked like a listener.
+
+He was tall, thin, with a beard trimmed to a sharp point. He wore robes of expensive grey wool. He wasn't shouting. He was leaning against his wagon, peeling an apple with a silver knife, his eyes scanning the crowd.
+
+His name was Varek. And he served the High Sage.
+
+His eyes stopped when he saw the copper braid. Then they slid to the black hair of the boy walking a few steps ahead.
+
+Varek straightened up. He tossed the apple peel to a goat and stepped into the twins' path.
+
+"Well now," Varek said, his voice smooth as oil. "You two don't look like the rest of these dusty rock-hoppers."
+
+Kaelan stopped. He puffed out his chest, trying to look like the guards at the gate. "We’re Sunstead folk. Get out of the way."
+
+Varek chuckled. "Feisty. I like that." He crouched down so he was eye-level with them. Up close, he smelled of lavender and something rotten. "I’m looking for apprentices. Smart children. Special children. Do you have parents, little one?"
+
+"Yes," Kaela said instantly, stepping up beside Kaelan. She grabbed her brother’s hand. Her skin went cold. She didn't know why, but this man felt like a snake in the grass. "We have an aunt. And she’s waiting for us."
+
+"An aunt," Varek repeated, his eyes narrowing. He looked at their eyes—the gold flecks. He had a list of traits to look for. The High Sage paid well for anomalies. "And does this aunt tell you stories about where you came from? About the sky?"
+
+Kaelan frowned. "What are you talking about? We’re from here."
+
+"Are you?" Varek reached into his robe and pulled out a small, crystal pendulum. He held it out. "Hold this for a moment, boy. If it glows, I’ll give you a gold coin."
+
+Kaelan’s eyes widened. A gold coin could buy a real sword. He reached out.
+
+"Don't!" Kaela hissed, yanking his hand back.
+
+"Let go, Kaela!" Kaelan snapped.
+
+"Touch the crystal, boy," Varek urged, his smile tight. "Just a touch."
+
+Suddenly, a shadow fell over them.
+
+"The children are not for sale," a voice said. It was calm, low, and terrifying.
+
+Varek looked up. Standing behind the twins was Elara. She didn't look like a weaver today. She looked like a mountain that had decided to walk. Her hands were empty, but the way she stood made Varek’s survival instincts scream.
+
+"Just offering a game, good woman," Varek said, standing up slowly. He pocketed the crystal. "Fine children. Unique features. Not much copper hair in these parts."
+
+"My sister was from the North," Elara lied, her face a stone mask. "Come, Kaelan. Kaela."
+
+She ushered the children away, her hand firm on Kaelan’s shoulder. She didn't look back, but Varek did. He watched them disappear into the crowd, then pulled a small notebook from his pocket and began to write.
+
+##### Scene 3: Inside the Cottage
+
+That evening, the cottage was tense. Elara had sent the twins to their room early.
+
+Kaelan was pacing the small bedroom. "He was going to give me a gold coin, Kaela! Why did you have to ruin it?"
+
+Kaela sat on her bed, hugging her knees. "He was bad, Kaelan. He felt like... like cold water. He wanted to hurt us."
+
+"You don't know that," Kaelan scoffed. "You’re just scared of everything."
+
+"I'm not scared for me," she whispered. "I'm scared for you."
+
+Kaelan threw himself onto his bed, turning his back to her. "Well, stop it. I don't need you to save me."
+
+##### Scene 4: A Shadow at the Market
+
+Down in the town square, the sun had set. The market was emptying out.
+
+Varek sat at a table outside the 'Drunken Mule' tavern, nursing a cup of wine. He had confirmed the location. Tomorrow, he would leave for the Capital to report to the High Sage. Two potential subjects. The descriptions matched the Omens.
+
+A shadow fell across his table.
+
+Varek looked up. It was Joren, the gate guard. And behind Joren stood the blacksmith. And the baker. And the Matron.
+
+There were six of them. They weren't armed with swords. They held hammers, rolling pins, and heavy walking sticks.
+
+"Can I help you?" Varek asked, his hand drifting to the dagger in his boot.
+
+"You’ve been asking a lot of questions today, stranger," Joren said. His voice was friendly, but his eyes were hard as flint. "About the weaver’s children."
+
+"Just making conversation," Varek said.
+
+"We don't like conversation about our own," the Matron said. She stepped forward. "We value our privacy in Sunstead."
+
+Varek stood up, sneering. "Do you know who I represent? I serve the Court of the—"
+
+"We bow to no King," the blacksmith interrupted, hefting a hammer that looked heavy enough to crack an anvil. "And we don't like spies."
+
+Varek realized then that he had made a mistake. He assumed this was a peasant village. He had forgotten that Sunstead was built by people who had run away from men like him.
+
+"I will leave," Varek said, backing away. "Right now."
+
+"The road is dangerous at night," Joren said, stepping closer. "Lots of steep cliffs. Loose rocks. A man could slip."
+
+Varek turned to run, but the baker blocked his path.
+
+The circle closed in. There was no shouting. No commotion. Just the quiet, efficient work of a town protecting its family.
+
+##### Scene 5: The Next Morning
+
+The next morning, Kaelan and Kaela walked to school.
+
+"Look," Kaelan said, pointing to the market square. "That black wagon is gone."
+
+"Good," Kaela said, a shiver running down her spine.
+
+They passed Joren at the gate. He was sharpening his spear. He looked up and winked at them.
+
+"Morning, little ones," Joren said brightly. "Beautiful day, isn't it? The air is clear."
+
+"Did you see the merchant leave?" Kaelan asked.
+
+"Oh, yes," Joren said, testing the edge of his blade. "He left in a hurry. Took the High Pass. Very treacherous, that pass. I doubt we’ll be hearing from him again."
+
+Kaela looked at Joren, then at the empty spot where the wagon had been. She understood. She didn't know exactly what had happened, but she knew the town had swallowed the bad man.
+
+She reached out and took Kaelan’s hand.
+
+This time, Kaelan didn't pull away. He just squeezed her fingers, briefly, before letting go to run ahead toward the schoolyard.
+
+"Hurry up, slowpoke!" he yelled back.
+
+Kaela smiled, but her eyes remained on the horizon. She knew they were safe here, but she also knew, for the first time, that the safety was bought with silence and shadows.
+
+## Part 7: The Unripe Fruit
+
+Far to the North, where the compass needles spun uselessly and the wind tasted of iron, the High Tower pierced the sky.
+
+It had not been built by stone masons. It had been raised from the bedrock of the Voidlands by sheer will. It was a spire of impossible, glossy obsidian, twisting upward like a jagged needle, seemingly stitching the frozen earth to the darkened clouds above.
+
+Inside the throne room, the temperature was absolute zero.
+
+Lord Malakor sat upon the Seat of Silence. He was no longer the hunched High Sage who had whispered in King Aric’s ear. Here, in his domain, he was magnificent and terrible. His skin was the color of moonlight on snow, and his robes were woven from the shadows that clung to the corners of the room.
+
+He was waiting. He had been waiting for seven years.
+
+The heavy doors at the far end of the hall groaned open. A figure stumbled in, trailing a scent of old blood and fear.
+
+It was Varek. The merchant looked nothing like the arrogant spy who had peeled an apple in the Sunstead market weeks ago. His fine grey robes were shredded. His left arm hung uselessly at his side, and a jagged scar ran from his temple to his jaw—a souvenir from his tumble down the Sunstead cliffs when the "friendly" townsfolk had tried to ensure his silence.
+
+He had crawled through the snow for days to get here. He was frostbitten, broken, and shivering.
+
+But he was smiling.
+
+"My Lord," Varek rasped, falling to his knees on the black ice floor. "I have... returned."
+
+Malakor did not move. His voice seemed to come from the walls themselves. "You return damaged, little spy. Did the sheep bite the wolf?"
+
+"They are not sheep," Varek wheezed, coughing up a speck of blood. "Sunstead... it is a fortress of vipers. They protect their own."
+
+"And why should I care about a hamlet of dusty rebels?" Malakor asked, his fingers drumming idly on the armrest of the throne. "I sent you to find anomalies. You bring me only failure."
+
+"No," Varek whispered, looking up. His eyes burned with the desperate triumph of a man who knows he holds a winning card. "Not failure. I found them."
+
+Malakor’s hand stopped moving. The shadows in the room seemed to lean in.
+
+"Explain."
+
+"Two children," Varek said, the words tumbling out. "A boy and a girl. Seven years old, give or take. Living with a woman who calls herself a weaver, but she moves like a soldier."
+
+"Describe them," Malakor commanded.
+
+"The boy... he is restless," Varek said. "He gets into fights. When he is angry, the air around him shimmers. I saw him push a boy without touching him. It was heat, My Lord. Pure, raw thermal force."
+
+Malakor leaned forward. "And the girl?"
+
+"Different," Varek said. "Quiet. Watchful. She stopped the boy from touching my test crystal. She sensed the trap before I even sprung it. She has the sight. And..." Varek hesitated. "She has the copper hair. The boy has the black."
+
+Malakor closed his eyes.
+
+For a moment, he was back in the Silver Sun Temple. He saw Lyra running. He saw Aelion burning. He saw the two golden sparks shooting into the void just as the world collapsed.
+
+A low, rumbling sound filled the throne room. It was Malakor laughing.
+
+"They survived," he murmured. "Against all odds, the little stars didn't burn out."
+
+"I can lead the Shadow Guard there," Varek offered eagerly, trying to stand up. "We can raze the town. Burn Sunstead to the ground. Drag them out of the ashes and bring them to you by the new moon."
+
+Malakor opened his eyes. They were void-black, rimmed with violet fire.
+
+"No."
+
+Varek froze. "My Lord? But... they are right there. If they grow strong..."
+
+"That is exactly the point, you fool," Malakor sneered. He stood up, descending the steps of the dais. He towered over the cowering merchant.
+
+"Think, Varek. What happens if you pluck an apple before the frost? It is sour. It is hard. It offers no sustenance."
+
+Malakor paced around Varek, his movements liquid.
+
+"These children... they are the last concentrated essence of the Silver Sun. They are batteries of infinite potential. But right now? They are empty vessels. They have barely tapped into their inheritance. If I take them now, I get two frightened children with a spark of magic. I get a candle."
+
+Malakor stopped and looked south, his gaze piercing the stone walls, looking across the hundreds of miles toward the unsuspecting town on the plateau.
+
+"I do not want a candle," Malakor whispered. "I want a supernova."
+
+He turned back to Varek.
+
+"I need them to ripen. I need them to struggle. I need them to train. Let this 'Weaver' teach them control. Let her expand their capacities. Let their power cut deep channels into their bodies."
+
+"So... we do nothing?" Varek asked, confused.
+
+"We wait," Malakor corrected. "We watch. You will return to the south—after I fix your broken bones. You will establish a network around Sunstead. Do not enter the town. Do not alert the Weaver. Just watch."
+
+Malakor raised a hand. Shadowy tendrils shot out, wrapping around Varek’s injured arm. The bone snapped back into place with a sickening crunch. Varek screamed, then gasped as the pain vanished, replaced by a cold, numb strength.
+
+"Wait until they are fully grown," Malakor commanded. "Wait until the boy is a furnace and the girl is a mirror. When they are ready to burst with power... then, and only then, will we harvest them."
+
+He returned to his throne and sat, the shadows draping over him like a cloak.
+
+"They think they are hiding," Malakor mused. "But they are merely fattening themselves for the feast."
+
+"Go."
+
+Varek bowed so low his forehead touched the ice. "As you command, Lord Malakor."
+
+The merchant scrambled backward and fled the room.
+
+Left alone in the silence, Lord Malakor smiled. It was a patient, terrifying smile. He had all the time in the world. He had already won; the heroes just didn't know it yet.
+
+## Part 8: The Last Sunset
+
+At fourteen, the twins were a storm trying to fit inside human skin.
+
+The Dust Bowl—a natural amphitheater of red rock a mile behind Elara’s cottage—rang with the clack-clack-clack of hardwood striking hardwood.
+
+Kaelan was growing fast. His shoulders were broadening, his chest thickening with the labor of the forge, and his black hair was a wild, sweat-slicked mop. He moved with the aggressive momentum of a landslide.
+
+Kaela was a whip-crack. Slender and lithe, her copper hair tied back in a warrior’s knot, she didn't meet his force; she redirected it.
+
+"Again!" Kaelan shouted, grinning through the grit on his teeth.
+
+He lunged. It was a feint, a drop of the shoulder meant to disguise a vicious upward swing of his practice sword. Against any village boy, it would have ended the fight.
+
+But Kaela didn't react to the feint. She didn't even blink. Before Kaelan had even started the upward swing, she was already moving to her left, her quarterstaff snapping out to occupy the exact empty space where his ribs were about to be.
+
+Kaelan gasped, twisting mid-air to avoid the blow. He felt the impact of her mind before her staff even touched him—a sharp, copper-tasting spike in the back of his head. He dropped his sword and rolled, coming up with a handful of red dust to throw in her face.
+
+But Kaela had already closed her eyes and turned her head. She knew the dust was coming.
+
+It was a stalemate. It was always a stalemate.
+
+Kaelan drove his sword into the dirt with a growl of frustration. "Stop it! You’re doing it again!"
+
+"I’m not doing anything!" Kaela argued, lowering her staff, her chest heaving. "You’re shouting, Kaelan! Your thoughts are so loud they hurt my ears!"
+
+"I didn't say a word!"
+
+"You don't have to!" Kaela snapped back, rubbing her temples. "I heard 'Upward Swing' before you even moved your feet. And then I heard 'Dirt.' It echoes!"
+
+"Well, you’re no better," Kaelan accused, stalking toward the water barrel. "I knew you were going left. I felt it. It’s like fighting a mirror. It’s annoying."
+
+Elara sat on a nearby boulder, whittling a new arrow shaft. She watched them with a critical, guarded expression.
+
+They called it "shouting" or "echoing." To them, it was just a twin thing—an annoying lack of privacy that had plagued them since they were toddlers. They assumed everyone felt their siblings' intentions like a physical hum in the air. They didn't know why it happened, only that it made fighting each other maddeningly difficult.
+
+"Rest," Elara commanded, her voice cutting through their bickering. "You are both telegraphing. A warrior’s mind must be a still pool, not a thunderstorm."
+
+Kaelan grabbed the waterskin and flopped down onto the sand next to his sister. He took a long drink, then wiped his mouth. "It feels like cheating," he muttered. "How am I supposed to be a great warrior if I can't even surprise my own sister?"
+
+"Maybe we aren't meant to fight each other," Kaela suggested softly. She took the waterskin from him. "Maybe we’re only meant to fight back-to-back."
+
+Kaelan looked at her. The frustration in his gold-blue eyes softened. "Back-to-back," he repeated. "I like that better."
+
+Elara looked out past the canyon rim, scanning the horizon. It was a habit she couldn't break, even though the threat had diminished.
+
+Sunstead had become a true sanctuary. Seven years ago, after the merchant Varek had been run out of town, the Town Council had taken a silent, brutal stance against outsiders. The "Spy Network" Lord Malakor had tried to establish never took root. Every stranger with a notebook, every merchant with too many questions, found themselves escorted to the high cliffs by Joren and the blacksmith. They were given a choice: leave and forget the name Sunstead, or learn to fly.
+
+The network had been routed. The eyes of the enemy had been gouged out in this part of the world. For now, the twins were hidden in a blind spot.
+
+But blind spots don't last forever.
+
+"The sun is dipping," Elara noted. "The desert gets cold fast."
+
+Kaelan sat up, shivering slightly as the sweat on his skin cooled. But he didn't reach for his tunic.
+
+Kaela scooted closer to him. "You’re cold."
+
+"I'm fine," Kaelan said, puffing out his chest. "Cold makes you tough."
+
+"Don't be stupid," Kaela said. She leaned into him, wrapping her arms around his waist and resting her head on his shoulder.
+
+For a moment, Kaelan tensed. He was fourteen—an age where boys in the village started puffing up, pushing away affection to prove their manhood. He looked at Elara, as if checking to see if she was laughing at him.
+
+Elara wasn't laughing. She was watching with a sad, gentle smile.
+
+Kaelan exhaled. He dropped the tough-guy act. He wrapped his heavy arm around Kaela’s shoulders, pulling her in tight. He rested his chin on the top of her head, smelling the dust and the sage shampoo she used.
+
+The connection between them—that loud, shouting psychic link—suddenly went quiet. Or rather, it harmonized. When they weren't fighting, the resonance wasn't a noise; it was a hum. A comfort.
+
+"I’m going to get strong enough so I don't have to telegraph," Kaelan whispered into her hair. "I’m going to be so fast that even if you hear me, you won't be able to stop me."
+
+Kaela smiled against his ribs. "And I’ll be so still that you won't hear me at all."
+
+"Deal," Kaelan said. He squeezed her, a rough, clumsy hug full of fierce protection. "I love you, Kaela. Sun and Moon."
+
+"Sun and Moon," she murmured back, closing her eyes.
+
+Elara watched the sun slip below the red rocks, bathing the twins in a fleeting, golden light. It was a perfect moment. The boy, burning with ambition and fire. The girl, deep and calm as a well. They were two halves of a whole, holding onto each other against the encroachment of the night.
+
+Elara’s heart ached. She knew the nature of stars. Gravity pulled them together, but eventually, their own heat would push them apart.
+
+She saw Kaelan’s eyes drift away from his sister, looking toward the East—toward the jagged peaks where the world was big, and dangerous, and full of the glory he craved. He was holding her, but his spirit was already packing its bags.
+
+"Hold on to him, little one," Elara whispered to the wind, too low for them to hear. "Hold on while he still lets you."
+
+"Race you back!" Kaelan yelled suddenly, breaking the embrace and shoving Kaela playfully into the sand. He scrambled up, grabbing his sword. "Last one to the cottage scrubs the pots!"
+
+"Hey!" Kaela laughed, grabbing her staff and scrambling after him.
+
+They sprinted into the twilight, their laughter echoing off the canyon walls—the last truly unified sound they would make for a very long time.
+
+## Part 9: Sunstead Harvest Festival
+
+##### Scene 1: The Morning of the Feast
+
+Theme: sunstead
+
+Location: The Cottage on the Ridge
+
+POV: Kaelan
+
+=
+
+The heat in the cottage wasn't the angry, suffocating heat of a fever. It was the thick, lazy warmth of a stone oven that had been baking in the sun all day.
+
+Kaelan woke up slowly, floating in a haze of comfort.
+
+He wasn't lying on his back. He was curled on his side, his body curved protectively around Kaela’s back. His left arm was tucked under her pillow, while his right arm was draped heavy and secure over her waist, pulling her flush against his chest.
+
+He breathed in. The scent of her hair—dried sage and rain—filled his nose.
+
+In the training circle, Kaelan was trying to learn how to be "hard." He practiced his scowl. He practiced pushing people away. But here, in the quiet grey light of dawn, his guard was non-existent.
+
+He squeezed her gently, just to feel the steady rise and fall of her breathing against his ribs. He liked being the big spoon. He liked the feeling of being the wall between her and the drafty door. It made him feel useful without having to burn anything.
+
+Kaela stirred, shifting her hips slightly as she woke. She didn't pull away; she leaned back into him, seeking the heat.
+
+"You're a furnace," she mumbled sleepily, her voice thick with dreams.
+
+"Complaining?" Kaelan whispered into the back of her neck.
+
+"Mm-mm. Observing." She patted the hand that was resting on her stomach. "Don't move. It's cold outside the blanket."
+
+"I'm not moving," Kaelan promised. "I'm staying right here."
+
+He meant it. He could stay here for a hundred years. Just Kaelan and Kaela, wrapped in wool and silence, safe from the expectations of the village and the strange, itching power in his own blood.
+
+But the world had other plans.
+
+Drifting in through the cracks in the shutters, riding on the morning breeze, came a smell that no teenage boy could ignore.
+
+Yeast. Honey. Roast pork.
+
+Kaelan’s stomach gave a loud, treacherous growl that vibrated against Kaela’s spine.
+
+Kaela giggled. The spell was broken.
+
+"The hero is hungry," she teased, untangling herself from his grip and rolling over to face him. Her copper hair was a wild mess, sticking up in every direction.
+
+"It's the honey-cakes," Kaelan defended, though he smiled. He missed the contact immediately. "The Matron must have started baking at midnight."
+
+Kaela sat up, stretching her arms over her head. "Then we should get up. I promised Joren I'd help string the high line before noon. And you promised to haul the wood."
+
+"I did?"
+
+"You did." She kicked the blankets off, shivering as the cool morning air hit her skin. She tossed a bundle of fabric at his head. "Put this on."
+
+Kaelan caught it. It was his "good" tunic—a deep russet linen that Elara had woven two winters ago. It was getting tight across the shoulders now, but it was clean.
+
+He pulled it on. It smelled of lavender. He wrinkled his nose.
+
+"Do I have to smell like a flower?"
+
+"You smell like a clean human being," Kaela corrected, pulling on her own festival dress—a simple shift of cream-colored wool. "It's a nice change from 'wet dog' and 'hot iron'."
+
+Elara was already outside. Kaelan could hear the thwack of her walking stick against the porch post.
+
+Kaelan walked to the water basin and splashed his face. He looked at his reflection in the small polished steel mirror. He saw a fifteen-year-old boy who looked... happy. The tension that usually lived in his jaw was gone.
+
+He turned to find Kaela braiding her hair. She caught his eye in the mirror.
+
+"You're buzzing," she noted.
+
+"I'm hungry," Kaelan corrected.
+
+"No, you're happy." She smiled, tying off the copper braid with a green ribbon. "I like it. It feels like... sunshine."
+
+"Don't get used to it," Kaelan quipped, though the grin stayed on his face. "I'm sure Jace will say something stupid by noon and I'll be annoyed again."
+
+"If Jace says something stupid," Kaela said, slipping her feet into her dancing boots, "I'll trip him with a thought. You don't have to burn anything."
+
+"Deal."
+
+They walked out onto the porch. The heat of the twin suns hit them—Gold warming the skin, Silver cooling the eyes.
+
+Elara was waiting by the gate. She looked at them—the tall, broad-shouldered boy and the lithe, sharp-eyed girl.
+
+"Well," Elara rasped, her voice rough but warm. "You scrub up nicely. Almost look like civilized folk."
+
+"We try," Kaelan grinned, offering her his arm. "Ready to go down?"
+
+"I am ready to eat a honey-cake," Elara declared, taking his arm. "And if Horg burns that pig again this year, I am going to hit him with this stick."
+
+"I'll handle the pig," Kaelan promised.
+
+They began the walk down the winding path toward the red dust and the music, leaving the quiet cottage behind for the day.
+
+##### Scene 2: The Afternoon Preparations.
+
+Theme: sunstead
+
+Location: The Market Square
+
+POV: Kaela
+
+=
+
+The Market Square was not built for verticality. It was a flat expanse of cobblestones designed for carts and stalls. But for the Festival of the Twin Suns, the town insisted on defying gravity.
+
+Kaela stood on the third rung of a rickety wooden ladder, clutching a bundle of twine in her teeth.
+
+"Higher, lass," Joren called from below. He was holding the ladder steady with one hand and shading his eyes with the other. "It needs to clear Horg’s head when he stands up, or he’ll knock it down and set his beard on fire again."
+
+Kaela climbed two more rungs. The air up here was warmer, trapped by the canvas awnings of the nearby shops. She reached up to the iron hook embedded in the Tanner’s wall.
+
+She felt the crowd below her not as a roar, but as a hum. Today, the town wasn't broadcasting stress or fear; it was broadcasting *purpose*.
+
+The Baker was anxious about his dough rising (a soft, yeasty flutter in Kaela’s mind). The Weaver was proud of her new ribbons (a bright, silky thread of satisfaction). Joren was worried about his knees (a dull, grinding ache that Kaela felt sympathetically in her own joints).
+
+*It’s okay, Joren,* she thought, projecting a pulse of soothing calm toward the old guard. *We’re almost done.*
+
+"Don't you go using your spook-magic on my rheumatism," Joren grumbled good-naturedly, though he sighed in relief as the pain dulled. "A man earns his aches."
+
+"Then stop climbing ladders," Kaela teased around the twine.
+
+She tied the heavy paper lantern to the hook. It swung wildly in the canyon breeze. She visualized the air around it thickening, stilling the motion instantly.
+
+"Show off," Joren chuckled.
+
+Kaela climbed down. She dusted the red grit from her hands. "It's not showing off. It's efficiency."
+
+A commotion from the center of the square drew her attention.
+
+"Make way! Heavy load! Move your feet or lose your toes!"
+
+It was Horg. The blacksmith was stripped to the waist, his massive chest shining with sweat and coal dust. He was carrying a shovel that looked more like a siege weapon.
+
+Behind him came the "Wood Brigade"—a line of teenage boys hauling the fuel for the roasting pit.
+
+Kaelan was at the front.
+
+He was carrying a log that should have required two men. It was a thick trunk of seasoned oak, resting on his shoulder as if it were a twig. He wasn't sweating. In fact, he looked like he was enjoying the burn.
+
+"Easy, Kaelan!" Jace panted from behind him. Jace was carrying a bundle of kindling, his face red with exertion. "You're walking too fast!"
+
+Kaelan stopped near the fire pit, dropping the log with a satisfying *thud*. He wiped his hands on his trousers, grinning.
+
+He spotted Kaela. His face lit up.
+
+He crossed the square in three long strides. He didn't wave. He didn't nod. He walked right up to her and pulled her into a hug.
+
+It wasn't a polite greeting. It was a collision. He wrapped his arms around her waist and lifted her slightly off the ground, squeezing until her ribs creaked.
+
+"Hey, Moon," he murmured into her hair, smelling of oak and ozone.
+
+Kaela hugged him back instantly, her arms looping around his neck. She pressed her face into his shoulder. Even though they had only been apart for two hours, the contact felt like a relief, like a circuit closing.
+
+"Hey, Sun," she whispered. "You're dusty."
+
+"You're bossy," he countered, setting her down but not letting go of her waist. He kept his arm draped over her shoulders, leaning his weight against her. It was his way of recharging.
+
+"Is the pit ready?" Kaela asked, leaning into him.
+
+"Almost. Horg wants it deeper. Says the boar is a monster this year."
+
+"Digging team!" Horg bellowed from the center of the square. "Kaelan! Stop cuddling your sister and grab a pickaxe! The clay won't break itself!"
+
+Kaelan sighed, but he was smiling. He squeezed Kaela’s shoulder one last time.
+
+"Duty calls," he said.
+
+"Don't break the rocks," Kaela warned, patting his chest.
+
+"I'll try," he promised.
+
+He ran back to the pit, grabbing a pickaxe and swinging it with a force that made the ground tremble.
+
+Kaela watched him go, a warm, golden feeling spreading in her chest. She picked up another lantern.
+
+"Ready for the next one, Joren?"
+
+"Ready," the old guard said, bracing the ladder. "Let's light this town up."
+
+They worked through the afternoon, the Golden Sun dipping lower, casting the square in a deep, amber glow. The pit was dug. The wood was stacked. The lanterns were strung.
+
+It wasn't magic that built the festival. It was sweat, red dust, and the simple, undeniable magic of neighbors working together to push back the dark.
+
+##### Scene 3: The Festival Night
+
+Theme: sunstead-night-festival
+
+Location: The Market Square (Night)
+
+POV: Kaelan
+
+=
+
+The Sunstead Harvest Festival was not a polite affair. It was a riot of red dust, roasted meat, and music that shook the canyon walls.
+
+By nightfall, the market square had transformed into a world of fire and gold.
+
+Dozens of paper lanterns, strung by Kaela and Joren earlier that day, glowed overhead like captured stars. Below, three massive bonfires roared in the designated pits, casting long, dancing shadows against the shop fronts. The air was thick with the smell of Horg’s famous "Pit-Roast"—a whole boar that had been burying in coals since dawn—and the sweet, sticky scent of honey-glazed apples bubbling in copper cauldrons.
+
+Kaelan stood by the main fire pit. At fifteen, he was already taller than most of the men in the village, his shoulders broad from the forge. He wasn't wearing his tunic; the heat of the fire was intense, and he was the only one who could get close enough to tend the meat without singeing his eyebrows.
+
+"Turn it, lad!" Horg bellowed from the cider table, waving a tankard. "The fat needs to render! Don't let it char!"
+
+Kaelan grinned. He stepped right up to the edge of the inferno.
+
+Five years ago, this much fire would have terrified him. Five years ago, he would have been afraid of losing control, of flashing hot and hurting someone.
+
+Now, he just breathed it in.
+
+He reached out and gripped the heavy iron spit with his bare hands. The metal was searing hot, glowing a dull cherry-red at the ends. It was hot enough to blister normal skin instantly. To Kaelan, it just felt... comfortable.
+
+He closed his eyes for a second, tuning into the thermal energy of the pit. He felt the pockets of uneven heat in the coals.
+
+*Even it out,* he thought.
+
+He channeled a fraction of his inner warmth into his palms—not to burn, but to regulate. He became the thermostat. He pushed the heat from his hands into the iron rod, distributing it perfectly along the length of the boar.
+
+The fat sizzled, dripping onto the coals with a savory hiss.
+
+"Show off," Jace called out from the crowd, though there was no malice in it this year. Jace was eating a candied apple, leaning against a girl from the weaver’s guild.
+
+"Hungry, Jace?" Kaelan called back, laughing as he turned the heavy spit effortlessly. "Or are you just jealous that I'm the one controlling the dinner?"
+
+"Just don't burn it like you did the table!" Jace retorted.
+
+The crowd laughed. It was an old joke now, a fond memory of a scary moment that had become town lore. *Remember when Kaelan roasted the carving contest?*
+
+Kaelan laughed too. He didn't feel like a monster today. He felt like the hearth. He felt the town gathering around him for warmth, and for the first time, the "weight" of his gravity felt like a hug, not a cage.
+
+A cheer went up from the center of the square. The fiddles kicked into a higher gear—a fast, weaving melody that demanded movement.
+
+Kaelan wiped his hands on a rag and stepped back from the fire to watch.
+
+The "Lantern Dance" was beginning.
+
+Kaela was in the center. She was wearing her cream-colored dress, the green sash spinning around her waist as she twirled. She wasn't just dancing; she was conducting.
+
+Kaelan felt it through their bond—a soft, rhythmic pulse of empathy she was sending out to the crowd.
+
+*Step left,* she broadcasted gently. *Spin now.*
+
+It wasn't mind control; it was harmonization. She took the chaotic energy of three hundred people—the drunk, the clumsy, the tired—and she wove them into a pattern. The baker twirled the seamstress without stepping on her toes. The old Matron tapped her foot in perfect sync with the drum.
+
+She looked beautiful. She looked like she belonged here more than she belonged anywhere else in the universe.
+
+As the song ended, the crowd erupted in applause. Kaela curtsied, breathless and flushed with joy.
+
+She scanned the crowd. She found him instantly.
+
+She ran over, dodging dancers and drinkers. Kaelan met her halfway near the fountain.
+
+"You smell like smoke," she announced, beaming.
+
+"You smell like vanilla," he countered.
+
+He opened his arms, and she dove into the hug. He lifted her slightly off the ground, squeezing tight. It wasn't a polite greeting; it was a collision of relief and happiness. He rested his chin on the top of her head, feeling the thrum of her excitement in his own chest.
+
+"I saved you the best pieces," Kaelan whispered.
+
+"You better have."
+
+They sat on the wide stone rim of the fountain. The water bubbled behind them, a cool counterpoint to the heat of the fires.
+
+Kaelan produced a wooden platter he had stashed away. It was piled high with the choicest cuts of the roast pork—crispy skin and tender meat—and two massive, sticky honey-cakes.
+
+They ate shoulder-to-shoulder, their legs touching.
+
+"You're running hot," Kaela murmured around a mouthful of pork, nudging him.
+
+"It's the fire," Kaelan said, taking a massive bite of a honey-cake. "And the crowd. It's... good heat."
+
+"I know," Kaela said. She finished her meat and leaned her head on his shoulder, sighing with pure contentment. "The noise isn't bad tonight. It's all... golden. Like honey."
+
+Kaelan looked out at the square.
+
+He saw Mrs. Gable laughing with the Tanner, her usual scowl replaced by a wine-flushed grin. He saw Jace trying to impress the weaver girl with a juggling trick and dropping an apple, causing them both to double over laughing. He saw Elara sitting on a bench with Joren, sharing a blanket against the evening chill, watching the twins with a look of fierce, quiet pride.
+
+"I could stay here," Kaelan whispered, almost to himself. "I could do this. Fifty years of roasting pigs and fixing roofs."
+
+"It's a good life," Kaela agreed, closing her eyes and snuggling closer into his side.
+
+For a moment, the "shouting" in their minds—the connection that usually carried anxiety or warning—carried only one thing: Contentment.
+
+It was the peak of the mountain. The perfect, crystallized moment of "Before."
+
+Before the sickness. Before the silence. Before the Red Banners.
+
+They sat there as the suns fully set and the stars came out, the Golden Sun and the Silver Moon, finally at rest, watching over the town they loved, content to be nothing more than neighbors.
+
+##### Scene 4: The Walk Home
+
+Theme: sunstead-night
+
+Location: The Path to the Ridge
+
+POV: Kaela
+
+=
+
+The music didn't stop all at once; it faded, instrument by instrument, until only a single fiddle remained, playing a slow, sweet lullaby to the dying embers of the bonfires.
+
+Kaela walked a few paces behind Kaelan and Elara as they began the ascent up the switchback trail.
+
+The air was cooler now. The Silver Moon was high, washing the red dust of the canyon in a pale, ghostly light that made the world look like a drawing in charcoal and chalk.
+
+Kaela hummed the melody of the Lantern Dance under her breath. She was exhausted—her feet throbbed in her boots, and her mind felt pleasantly fuzzy, like a muscle that had been worked hard and then relaxed. The "noise" of the town was settling into a drowsy murmur. The Baker was asleep (a heavy, rhythmic static). Joren was humming on his watch (a bright, alert thread).
+
+Ahead of her, Kaelan was offering his arm to Elara.
+
+At fifteen, he was already shooting up, his frame broadening with that strange, sudden density that marked their lineage. In the moonlight, he looked less like a boy and more like a young tree—solid, rooted, and radiating a faint, palpable heat that kept the chill away from the old woman.
+
+"You're walking too fast," Elara chided gently, though she leaned heavily on his arm. "Your legs are longer than mine, little sun."
+
+"I'm barely moving," Kaelan teased, slowing his pace to a crawl. "You're just tired because you ate three honey-cakes."
+
+"I ate two," Elara corrected with mock dignity. "And I am not tired. I am simply... savoring the climb."
+
+Kaela watched them. She felt the affection rolling off Kaelan—a warm, golden wave of protectiveness. He was adjusting his stride, softening his movements, treating Elara like she was made of glass.
+
+Then, Elara’s boot caught on a loose root.
+
+It wasn't a bad trip. On any other night, she would have stumbled, cursed, and righted herself.
+
+But tonight, her knee simply folded.
+
+"Whoa!" Kaelan said.
+
+He didn't just catch her; he stabilized her. He moved with a speed that blurred in the moonlight, his arm sweeping around her waist to hold her up before she could hit the dirt. To him, she must have weighed nothing.
+
+"I've got you," Kaelan said, easily hoisting her back to her feet. "Careful. The roots are tricky in the dark."
+
+Elara didn't answer immediately. She stood there, gripping Kaelan’s forearm, her breathing ragged and shallow.
+
+Kaela stopped humming.
+
+She felt it. It wasn't the sharp spike of pain from a twisted ankle. It was a *hollow* sound.
+
+Inside Elara’s chest, the steady drumbeat of her life-force stuttered. It felt thin. It felt like a candle flame flickering in a drafty room.
+
+*Fear,* Kaela sensed. Not fear of falling, but a deep, sudden fear of *stopping*.
+
+Kaela hurried forward. "Elara? Are you okay?"
+
+Elara straightened up, pulling her hand away from her chest and smoothing her shawl. The fear vanished from her surface thoughts, replaced by a wall of practiced calm.
+
+"I am fine," Elara wheezed, forcing a smile. "Just old bones. And perhaps one too many cups of cider."
+
+She looked at Kaelan. She reached up and patted his cheek. Her hand looked very small against his jaw.
+
+"You are getting so tall," she whispered, a strange sadness in her voice. "You are growing like a weed in the sun. Soon, you won't fit in the cottage at all."
+
+"I'll always fit," Kaelan said firmly. "I'll just duck."
+
+Elara laughed, but it turned into a cough—a wet, rattling sound that she quickly stifled in her sleeve.
+
+"Come," she said, tapping her stick on the ground. "The fire will be out. And I need to sleep for a week."
+
+They finished the climb in silence.
+
+When they reached the cottage, the fire was indeed low, just a bed of glowing red coals in the hearth.
+
+Kaelan helped Elara to her cot. He knelt and untied her boots, his movements gentle and practiced. Kaela brought her a cup of water.
+
+"Sleep well, starlights," Elara murmured as she pulled the quilt up. Her voice was already fading, drifting toward dreams.
+
+"Night, Elara," they said in unison.
+
+Kaelan walked to the hearth. He threw a fresh log on the coals. He stared at the flames for a moment, his back stiff.
+
+Kaela walked up behind him. She wrapped her arms around his waist, resting her cheek against his back. She could feel the heat of him—the steady, nuclear warmth of 105 degrees that made him a living radiator.
+
+"She's tired," Kaelan whispered, staring at the fire.
+
+"I know," Kaela said. She didn't tell him about the hollow sound. She didn't tell him about the stutter in the drumbeat. Not tonight. Tonight was perfect, and she wanted to keep it that way for just a few more hours.
+
+"She stumbled," Kaelan said, a thread of worry entering the bond.
+
+"The roots are tricky," Kaela lied, tightening her hug. "Come to bed, Sun. You smell like smoke."
+
+Kaelan turned in her arms. He looked down at her, his gold-blue eyes searching hers for reassurance. He found it—or at least, the reflection of it.
+
+"Okay," he said.
+
+They climbed into the small bed. They curled up together, the big spoon and the little spoon, the Engine and the Steering, holding onto the memory of the music and the taste of honey, trying to ignore the quiet, rattling breath coming from the cot across the room.
+
+## Part 10: The Song of the Anvil
+
+Theme: sunstead-joy
+
+ocation: Horg’s Smithy
+
+Time: Two years before Elara’s death (Age 14)
+
+=
+
+The forge wasn't just loud; it was singing.
+
+"Rhythm, lad!" Horg bellowed over the roar of the bellows. "Don't just hit it! Talk to it!"
+
+Kaelan grinned, his face streaked with soot and sweat. He swung the hammer. CLANG.
+
+From the corner of the shop, sitting atop an overturned rain barrel, Kaela winced theatrically, covering her ears. "You're shouting at it, Sun. Try whispering."
+
+"Iron is deaf, Moon!" Kaelan laughed, swinging again. CLANG. "It only listens to percussion!"
+
+He was in his element. The heat of the forge didn't bother him; it felt like an extension of his own skin. He wiped his brow with a forearm, leaving a smear of black dust, and looked over at his sister.
+
+She was supposed to be weaving at the cottage, but she had "escaped" an hour ago, claiming the loom was giving her a headache. Now, she was braiding a strip of leather, swinging her legs against the side of the barrel, watching him with eyes that shone like polished silver.
+
+"You're running hot," she called out, not looking up from her braid.
+
+Kaelan paused. He realized the handle of the hammer was smoking slightly in his grip. He was pushing too much of his own fire into the tool again.
+
+"Oops," he muttered.
+
+Kaela didn't scold him. She just hopped off the barrel. She walked over to the anvil, moving through the chaotic workspace as if she were made of smoke.
+
+She stopped right next to him. She didn't mind the heat radiating off him, or the smell of sulfur and sweat.
+
+She placed a cool, small hand on his bicep.
+
+"Cool down," she whispered.
+
+It wasn't a command; it was a gift. Kaelan felt a wave of blue, river-cool energy wash over him, tempering his internal furnace. The smoke curling from the hammer handle vanished. His shoulders dropped.
+
+"Thanks," he said, leaning into her touch. He bumped his shoulder against hers—a rough, affectionate nudge. "You're hovering."
+
+"You're scorching the merchandise," she teased, bumping him back. "Horg hates it when you melt the tongs."
+
+"I do indeed!" Horg grumbled, though he was grinning through his beard. He walked over, inspecting the horseshoe Kaelan had been shaping.
+
+"Not bad," the blacksmith admitted. "A bit rough on the edges, but it'll hold a hoof." He looked between the twins—the boy glowing with exertion and the girl who acted as his thermostat.
+
+"Now," Horg said, crossing his massive arms. "I believe there was a rumor of payment?"
+
+Kaela’s eyes lit up. "The toll."
+
+She ran back to her barrel and produced a basket covered in a checkered cloth. She whipped the cloth away with a flourish.
+
+Inside sat six golden-brown tarts, their centers bubbling with dark purple berry jam.
+
+"Berry tarts," Kaela announced. "Elara's recipe. But I added extra honey."
+
+Horg let out a sound that was half-growl, half-moan. "Give it here, you little thief."
+
+He grabbed a tart with his calloused fingers, popping the whole thing into his mouth. He closed his eyes in bliss.
+
+Kaelan dropped his hammer on the rack. He stripped off his heavy leather apron and turned to Kaela.
+
+"Do I get one?"
+
+"Did you wash your hands?" Kaela asked archly, holding the basket out of reach.
+
+Kaelan looked at his hands. They were black with coal dust. He looked at Kaela’s clean white tunic.
+
+"No," he said, a mischievous glint in his eye. "But I'm going to hug you anyway."
+
+"Kaelan, no!" Kaela shrieked, laughing as she tried to back away. "You're filthy!"
+
+"I'm your brother!" Kaelan roared, lunging for her.
+
+He caught her in a bear hug, lifting her feet off the ground. He spun her around, burying his soot-stained face in her neck, intentionally rubbing his dirty cheek against hers.
+
+"Gross!" Kaela laughed, though she didn't push him away. She wrapped her arms around his neck, hugging him back just as hard, heedless of the grime transferring to her clothes.
+
+"You smell like a chimney," she told him, resting her chin on his shoulder.
+
+"You smell like berries," he replied, squeezing her tight.
+
+They stood there for a moment in the center of the forge, swaying slightly, the circuit of their connection humming with a warm, golden contentment. There was no space between them. There was no silence.
+
+Horg watched them, chewing his tart, a crumb of crust caught in his beard. He smiled.
+
+"Alright, break it up," Horg grunted warmly. "Before you get soot in the pastries. Kaelan, go wash up. Kaela... give me another tart."
+
+Kaelan set his sister down. He kept his arm around her shoulders as they walked toward the water bucket, leaving a trail of red dust and laughter in their wake.
+
+The shop felt full. It felt loud. It felt unbreakable.
+
+## Part 11: Feeding Time
+
+Theme: sunstead-joy
+
+Location: Behind Horg’s Smithy
+
+Time: Two years before Elara’s death (Age 14)
+
+=
+
+The merchant from the Southern Coast, a man named Varrick (not the spy Varek), backed up slowly until his back hit the wall of the smithy. His face was the color of curdled milk.
+
+"What... by the Light... is that?" Varrick stammered, pointing a trembling finger at the pen.
+
+Inside the reinforced enclosure, a creature the size of a wagon was chewing on a rusted anvil. It looked like a badger that had been armored for war. Its back was a forest of three-foot-long steel spikes that clattered like wind chimes when it moved. It let out a sound that was half-growl, half-grinding-gears.
+
+"That's just Clinker," Horg said, beaming with paternal pride as he hauled a bucket of coal toward the gate. "Don't mind the teeth. He's teething. Itchy gums."
+
+"It's eating an anvil!" Varrick shrieked.
+
+"It was a cracked anvil," Horg corrected defensively. "Recycling, it is."
+
+Kaelan and Kaela were sitting on the fence of the pen, their legs dangling dangerously close to the beast. Kaelan was eating an apple. Kaela was braiding a leather strap.
+
+"He likes it when you scratch behind the ears," Kaelan told the terrified merchant. "But you have to use a rake. If you use your hand, you'll lose a finger."
+
+"He doesn't mean to," Kaela added helpfully. "He just thinks fingers are sausages."
+
+The merchant looked ready to faint. "You... you let children near these monsters?"
+
+"They aren't monsters," Horg grumbled, unlocking the gate. "They're just misunderstood. They have anxiety."
+
+Horg stepped into the pen. The massive beast, Clinker, dropped the anvil with a deafening CLANG. It turned its beady eyes toward the blacksmith.
+
+It charged.
+
+The merchant screamed.
+
+Clinker slammed into Horg, nearly knocking the giant man over. But he didn't bite. He began to lick Horg’s face with a tongue that looked like a rasp file, making happy, snorting noises that shook the ground.
+
+"Get off, you big lug!" Horg laughed, trying to push the five-hundred-pound head away. "I've got your coal! And look! Mrs. Gable sent over the burnt crusts from the pies!"
+
+Clinker’s tail—a short, spiked club—began to wag. Thump-thump-thump against the wooden fence.
+
+"Kaelan!" Horg shouted over the slobbering. "He's got a chill! The draft in the canyon was bad last night!"
+
+"On it," Kaelan said.
+
+He hopped off the fence. He didn't draw a weapon. He walked right up to the beast that could snap a man in half.
+
+Clinker saw him and let out a chuff of excitement.
+
+Kaelan placed both hands on the creature's armored flank. He closed his eyes. A soft, orange glow emanated from his palms. He pushed his internal heat into the beast, warming the cold-blooded creature’s core.
+
+Clinker groaned in pure ecstasy. The steel quills on his back relaxed, laying flat. He flopped onto his side, exposing a soft, grey belly, kicking his legs in the air.
+
+"Who's a good boy?" Kaelan cooed, rubbing the warm belly scales. "Who's a toasty boy?"
+
+"Kaela," Horg called out. "Princess is jealous."
+
+In the corner of the pen, a second, slightly smaller beast was whining—a high-pitched sound like a steam whistle.
+
+Kaela hopped down. She walked over to Princess. She didn't use heat. She placed her forehead against the creature's massive, armored snout.
+
+She hummed. A low, calming melody.
+
+Princess stopped whining. Her eyes drooped. She let out a long sigh of contentment, nuzzling into Kaela’s shoulder gently, careful not to prick the girl with her quills.
+
+"See?" Horg told the merchant, who was now hyperventilating. "Gentle as lambs. You just have to know how to handle 'em."
+
+Horg tossed a piece of coal into the air. Clinker caught it mid-air with a crunch, swallowing it whole.
+
+"Now," Horg said, wiping slobber from his beard. "About that price for the iron ingots. I think a discount is in order, don't you? Clinker gets sad when I overpay."
+
+Clinker burped. A small puff of smoke came out of his nose.
+
+"Yes," the merchant squeaked. "Discount. Absolutely."
+

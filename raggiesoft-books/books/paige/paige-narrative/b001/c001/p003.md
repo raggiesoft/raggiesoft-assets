@@ -1,0 +1,60 @@
+# Part 3: The Section Leader
+
+Paige was wrong. There were not *less* people. Or rather, there were fewer people than the full band, but the people who were there were the loudest human beings Freddie had ever encountered.
+
+Northwood High School was a sprawling brick fortress, and the band room was its cavernous heart. As soon as Jessica dropped them off at the curb—promising to be back at 5:00 PM sharp—the wall of sound hit Freddie like a physical blow.
+
+Inside the band room, fifty kids were unpacking gear. Snares were rattling like machine guns. Bass drums were thumping deep enough to vibrate Freddie’s ribcage. The "Pit"—the stationary percussion section up front—was a clutter of xylophones, marimbas, vibraphones, and gongs.
+
+And there, right in the center of the Pit setup behind a massive rosewood marimba, was a chair.
+
+It wasn't a standard folding chair. It was a high-backed, padded drafting chair with a foot ring, looking distinctly out of place among the standing instruments. Mom must have called ahead. Seeing it anchored Freddie. It was a tangible sign that he was allowed to exist here.
+
+He started to make his way toward it, his gait uneven, his spastic muscles fighting the friction of the floor wax. Paige was right beside him, her presence a shield against the sensory chaos.
+
+"Hey! You! Freshman!"
+
+The voice was sharp, cutting through the ambient noise like a piccolo. A girl marched over to them, clipboard clutched to her chest like a weapon. She was a Senior, wearing a shirt that said *PERCUSSION* in aggressive block letters. Her ponytail was pulled back so tight it pulled at her eyelids.
+
+This was Heidi, the Pit Section Leader.
+
+"What do you think you're doing?" Heidi demanded, stepping between Freddie and the marimba.
+
+Freddie froze. "I... I was going to set up."
+
+"Not with that," Heidi snapped, pointing a manicured finger at the drafting chair. "We don't sit in the Pit. We stand. It's about posture. It's about presence. If you sit, the audience can't see you."
+
+"He needs it," Paige interrupted, her voice dropping an octave, becoming dangerous. She stepped slightly in front of Freddie. "He has Cerebral Palsy."
+
+Heidi rolled her eyes, a gesture of supreme teenage annoyance. "Look, everyone’s feet hurt, okay? We’re all going to be standing for eight hours. It’s not fair if he gets a throne just because he doesn't want to work as hard as the rest of us. If you can't stand, you can't march."
+
+"We aren't marching," Paige countered, her fists clenching at her sides. "That's why we're in the Pit."
+
+"It's the principle," Heidi insisted. She grabbed the back of the chair. "I'm moving this. You can stand like everyone else, or you can join the chess club."
+
+The shame hit Freddie harder than the noise. He felt small. The "Architecture" of his safety was collapsing. He looked at his legs, the "bad wiring" that made him different, and wished he could just dissolve into the floor. He wasn't a musician; he was a problem. A logistics issue.
+
+"Heidi."
+
+The name was spoken calmly, but it carried enough weight to stop the room.
+
+Mr. Panoff stood near the office door. He didn't look angry, but he looked serious. The manic energy of the "Morning Zoo" conductor was gone, replaced by the stillness of a teacher who was disappointed.
+
+"Sir," Heidi straightened up, putting on her 'perfect student' mask. "I was just explaining the posture standards to the freshman. We can't have chairs cluttering the visuals."
+
+Mr. Panoff didn't look at the chair. He looked at Heidi. "Heidi, bring your clipboard. Come to my office, please. Now."
+
+"But I need to tune the—"
+
+"Now," Panoff repeated. He looked past her, making direct eye contact with Freddie. His expression softened. He nodded once toward the drafting chair. "Freddie, take your seat. We'll start warm-ups in five minutes."
+
+Heidi flushed pink, her mouth opening and closing like a fish, but she didn't argue. She followed Panoff into the glass-walled office. Through the window, Freddie saw Panoff gesturing—not shouting, but explaining with firm, chopping hand motions. He was dismantling her argument piece by piece.
+
+Freddie let out a breath he didn't know he was holding. He stepped past the invisible line Heidi had drawn and sank into the chair. The padded back support caught him, holding his spine straight without him having to fight gravity. His legs, already tight from the morning, relaxed against the foot ring.
+
+Paige leaned in, pretending to adjust a mallet bag on the floor next to him.
+
+"She's going to hate us," Freddie whispered, watching the office door.
+
+"Let her," Paige whispered back, her voice fierce. "You have the chair. That's all that matters."
+

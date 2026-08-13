@@ -1,0 +1,182 @@
+# Part 2: The Green and Gold
+
+## October 2005 CCHR - Virginia Beach Campus Gymnasium
+
+The gymnasium was a humid maze of vinyl banners, cheap folding tables, and the dull roar of students negotiating their futures. Stella marched at the front of the phalanx, her expression focused. Luna pushed Leo’s manual wheelchair, while Olivia walked flank, scanning the crowd.
+
+"Okay," Stella said, checking her clipboard. "The goal is specific: We need strong Engineering for Leo, a serious Conservatory for Luna, and a Social Sciences program for Olivia. And we need a campus that isn't built on a hill."
+
+They approached the first row of tables: The In-State Standards.
+
+First was Virginia Dominion University (VDU). The table was manned by a bored student worker texting on a flip phone. He pushed a generic brochure toward Luna without making eye contact.
+
+"Commuter lots are in Zone C," he recited flatly. "Classes are mostly in the Batten Arts Building."
+
+Leo looked at the brochure. It was just more of the same—concrete, humidity, and proximity to the memories they were trying to escape.
+
+*"BACKUP PLAN,"* Leo typed on his Quantum Communicator.
+
+"Agreed," Stella said. "Next."
+
+They moved to Thomas Jefferson University (TJU). The recruiter was polished, wearing a blazer with a crest. "We are the flagship," she said. "Tradition. History. The Academical Village."
+
+"Accessibility?" Olivia asked.
+
+"Well, the Lawn is historic," the recruiter admitted, using a tone that suggested history was more important than wheels. "It's gravel and terraced. And the Rotunda... well, it's Thomas Jefferson. It has stairs. But we have waivers for students who can't access the upper levels."
+
+Leo’s head snapped up. He tapped his screen rapidly. He turned it toward the recruiter.
+
+"INCORRECT."
+
+The recruiter blinked. "Excuse me?"
+
+"THE ROTUNDA HAS A CYLINDRICAL ELEVATOR HIDDEN IN THE EAST SHAFT. IT WAS INSTALLED DURING THE RENOVATION. IT DOES NOT REQUIRE A KEY."
+
+The recruiter stared at the screen, then at Leo. "I... I actually didn't know that."
+
+"MOST PEOPLE DON'T," Leo typed. "THAT IS THE PROBLEM. I DO NOT WANT TO USE SECRET ELEVATORS. I WANT FRONT DOORS."
+
+"Moving on," Stella said, giving Leo a proud nod. "We don't do 'hidden' accommodations."
+
+Next was Commonwealth Polytechnic Institute (CPI). The recruiters wore maroon and orange polos. "Best engineering in the state," the recruiter beamed. "But... it is in the mountains. Very hilly. Wind tunnels in the winter."
+
+Leo shuddered. "I DO NOT LIKE MOUNTAINS," he tapped. "OR WIND."
+
+They drifted toward the "Out of State" section. The crowds thinned here.
+
+Then, they saw it. A corner booth draped in aggressive Green and Gold. The banner read:
+
+BRAXTON STATE UNIVERSITY *Ex Terra Vires*
+
+Behind the table stood a man who didn't look like a recruiter. He looked like a professor. He had wild gray hair and a name tag that read Dr. Aris, Dean of Engineering. He wasn't handing out pens; he was building a small bridge out of balsa wood blocks on the table.
+
+Leo’s eyes locked onto the structure. He rolled closer. He tapped his screen.
+
+"CANTILEVER."
+
+Dr. Aris looked up. He saw Leo. He didn't see the wheelchair; he saw the interest.
+
+"Correct," Dr. Aris smiled. "It distributes the load to the supports. You like engineering, son?"
+
+"I LIKE STRUCTURE," Leo typed. "AND LOGIC."
+
+"Then you'd like Braxton," Dr. Aris said. He reached under the table and pulled out a heavy, glossy booklet titled "Campus Accessibility Master Plan: 2005."
+
+"We aren't just a school; we're a city on the water. We just finished retrofitting the entire Engineering quad. Automatic doors on every lab. Adjustable height workbenches in the machine shop. And we're connected directly to the city by the BTA."
+
+Stella stepped forward. "The BTA?"
+
+"The Braxton Transit Authority," Dr. Aris explained. "We have a heavy rail station right on campus. The train stops at the library."
+
+He opened a map. Stella leaned in. She saw the words **"Braxton, Rhode Island."**
+
+"Rhode Island," Stella breathed. Her accent slipped instantly, the vowels flattening out as she dropped the mask she’d worn in Virginia. "That's... that's home territory. I grew up in Newport."
+
+"It's coffee milk country," Dr. Aris grinned, catching the accent.
+
+Stella’s eyes lit up. "You have Autocrat?"
+
+"On tap in the dining hall," Dr. Aris joked. "But seriously. We have a unique program called the Bull Pass. Your student ID is your transit ticket. Buses, subways, ferries, and the regional train. Free. Unlimited. You can live twenty miles out in the suburbs and ride the express train to class for zero dollars."
+
+Leo looked at the map. He traced the thick line of the railway. A straight, logical steel connection from the suburbs to the classroom.
+
+*"THE TRAIN GOES TO CLASS,"* Leo typed, his eyes wide.
+
+"Level boarding," Dr. Aris confirmed. "From the platform to the desk, zero stairs."
+
+Luna looked at the other side of the table, where a woman from the Music Department was organizing pamphlets.
+
+"Do you have a Conservatory?" Luna asked.
+
+"The Braxton Conservatory," the woman answered. "We share a plaza with the Symphony Hall. Our students play with the pros. It's intense, but if you can play, we want you."
+
+Olivia looked at the course catalog. "Social Sciences?"
+
+"Top tier," Dr. Aris said. "And we have a graduate school of business."
+
+Suddenly, a scoff came from the table across the aisle.
+
+It was draped in purple velvet with gold tassels. King's College.
+
+The recruiter, a young man in a suit that cost more than the Sentinel, was looking at them with thinly veiled amusement.
+
+"Braxton State," the King's recruiter sneered softly to a student he was wooing. "If you want to ride the bus with the janitors, go ahead. At King's, we have... standards."
+
+Stella turned her head slowly. She gave the King's recruiter a side-eye that could have stripped paint. She saw the arrogance. She saw the exclusion.
+
+She looked back at Dr. Aris, who was smiling patiently.
+
+"Who are they?" Stella asked, jerking a thumb at the purple table.
+
+"Our rivals," Dr. Aris said. "They live on the hill. We built the city. They buy their way in; we build our way up."
+
+Leo looked at the map again. He looked at the train line. He looked at the "Bull Pass" logo.
+
+He looked at Stella. He didn't need to type anything.
+
+This is the one.
+
+"Dr. Aris," Stella said, picking up the heavy accessibility guide. "Tell me about the housing market in the suburbs. Specifically near the train stations."
+
+"It's a buyer's market in Iron Point," Dr. Aris said. "Quiet. Coastal. End of the line."
+
+"End of the line," Stella repeated, a smile touching her lips. "Sounds perfect."
+
+Luna stepped forward, resting her hand on Leo’s shoulder. "Dr. Aris? I know you're Engineering, and Leo is definitely sold... but what about the Conservatory? Is it really integrated with the rest of the school?"
+
+Dr. Aris chuckled, reaching for a different stack of glossy brochures on the corner of the table. "I try not to step on Dean Sterling's toes—she runs a tight ship over at Music—but yes. We share the plaza. The Engineers build the acoustics, and the Musicians fill them."
+
+He handed Luna a brochure titled "Braxton Conservatory: Performance & Theory."
+
+"What's your primary?" Dr. Aris asked.
+
+"Tenor Saxophone for marching," Luna said confidently. "But Flute for concert. That's where my heart is."
+
+"Doubling," Dr. Aris nodded appreciatively. "That takes lung power. Do you have your instrument?"
+
+"I have class right after this," Luna said. She shifted the heavy-duty thermal gig bag on her shoulder. "I never leave it in the car."
+
+"May I?" Dr. Aris asked, gesturing to the bag. "I have a soft spot for precision manufacturing. Musical instruments are just engineering with soul."
+
+Luna looked at Stella, who gave a small nod.
+
+Luna unzipped the thermal cover and pulled out the cherry wood case. She didn't open it fully—it was a crowded gym, after all—but she popped the brass latches and lifted the lid just enough to reveal the contents.
+
+The overhead gymnasium lights caught the body of the flute. It didn't shine with the harsh glare of nickel-plate; it glowed with the deep, lustrous warmth of solid silver.
+
+Dr. Aris leaned in. He adjusted his glasses. He didn't touch it, but his eyes traced the mechanism. He saw the French pointed key arms. He saw the open holes. He saw the B-footjoint.
+
+"That," Dr. Aris said, his voice dropping a reverence usually reserved for suspension bridges, "is not a student flute."
+
+"No," Luna said proudly. "It's an **Orpheus 680**."
+
+She glanced at Stella. "My sister bought it for me. She said she didn't want me to play on junk. She wanted the one I wouldn't outgrow."
+
+Dr. Aris looked at Stella with newfound respect. "You have an eye for investment, Ms. Porter. That is a conservatory-level tool."
+
+He reached into his pocket and pulled out a slim digital camera. "Do you mind? Dean Sterling is always complaining that transfer students show up with marching band beaters. I'd love to show her that we have a serious candidate coming down the pipeline."
+
+"Sure," Luna beamed. She tilted the case so the light hit the **Orpheus** logo.
+
+Click.
+
+Dr. Aris checked the display. "Perfect. I'll attach this to my report."
+
+"Tell her it's a 680," Luna added, closing the case and snapping the latches. "And tell her I'm working on the Debussy *Syrinx*."
+
+She grabbed a notepad from the table and scribbled down an address. "Here's my school email," Luna said, handing it to him. "Have her email me. I want to know about audition repertoire."
+
+Dr. Aris took the paper and tucked it into his breast pocket, right next to his engineering pens.
+
+"I will make sure it hits her desk tomorrow morning," Dr. Aris promised. He looked at the line of students forming behind them—people starting to realize that the Braxton table was the place to be.
+
+"We're holding up the line," Stella noted, stepping back. "Thank you, Doctor. You've given us a lot to think about."
+
+"It sounds like you've already made up your minds," Dr. Aris smiled, shaking Leo’s hand. "See you in the fall, Leo. I expect great things from that cantilever bridge."
+
+"COUNT ON IT," Leo typed.
+
+As the Fortress rolled away, heading toward the exit, they didn't look back at the VDU table or the snobs at King's College. They walked out into the Virginia sunshine, but their heads were already six hundred miles north, listening to the hum of the train and the whistle of the wind in Iron Point.
+
+They had a target. Now, they just had to finish the semester and pack the car.
+

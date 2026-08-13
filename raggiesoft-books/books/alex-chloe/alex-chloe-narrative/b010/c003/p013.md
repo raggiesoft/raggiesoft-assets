@@ -1,0 +1,34 @@
+# Part 13: A Family Farewell (Summer 2006)
+
+That evening, the Leclerc house was filled with the warm, inviting aroma of a home-cooked meal. The three of them arrived for their farewell dinner, greeted at the door by the entire family. Seated in a comfortable armchair of honor was Chloé’s maternal grandmother, Mémère Madeleine.
+
+"*Ah, Chloé, ma petite-fille!*" she said, her Quebecois French a rich, comforting sound. "*Et voici tes Américains!*"(Ah, Chloé, my granddaughter! And here are your Americans!)
+
+Alex wheeled closer, offering a warm smile. BONJOUR, MADAME. C'EST UN HONNEUR DE VOUS RENCONTRER ENFIN. (Good evening, Madame. It is an honour to finally meet you.)
+
+Mémère Madeleine’s eyes twinkled as she listened to the device, patting Alex’s hand. "*Un jeune homme avec de bonnes manières,*" she declared to the room. "*Et il parle un bon français! Tu as bien choisi, Chloé.*" (A young man with good manners. And he speaks good French! You chose well, Chloé.)
+
+The dinner was a loud, happy, and chaotic affair. The table was laden with classic Quebecois comfort food. The conversation, almost entirely in French, swirled around them. Megan, seated between Chloé and Tante Geneviève, was a happy and engaged participant, her brain working overtime to keep up with her week-long crash course in Québécois French. The family was delighted by her efforts, patiently correcting her pronunciation and cheering every time she successfully constructed a sentence.
+
+Uncle David, a passionate fan, inevitably turned the conversation to hockey. He looked at Alex and Megan with a curious grin. "*Alors, mes Américains. Vous venez de la Nouvelle-Angleterre. Vous devez bien avoir une équipe de hockey, non?*" (So, my Americans. You're from New England. You must have a hockey team, right?)
+
+Alex, who had never given it much thought, considered the question. I SUPPOSE THE BRAWLERS ARE OUR HOME TEAM, his device replied in English for Megan's benefit.
+
+Megan nodded emphatically. "The Boston Brawlers. Best team in the league," she declared with a proud, confident grin.
+
+Uncle David recoiled with a look of mock-seriousness, placing a hand over his heart. "Attendez, attendez," he said dramatically. "Vous êtes des partisans des Brawlers? Tous les deux? Ma nièce, une fille des Voyageurs, mariée à un fan des Brawlers? C'est une tragédie!" (Translation for the reader: "Wait, wait. You're Brawlers fans? Both of you? My niece, a Voyageurs girl, married to a Brawlers supporter? It's a tragedy!")
+
+The cousins, Mathieu and Isabelle, immediately jumped in, teasing Alex and Megan mercilessly about their "terrible" choice in hockey teams. Chloé, swept up in her family's passionate loyalty, found herself laughing and instinctively taking their side.
+
+Alex and Megan took the good-natured assault with matching grins. The friendly rivalry was officially established, a running joke that would clearly define all their future family visits.
+
+All too soon, it was time to leave. The goodbies were long and heartfelt, with hugs and kisses on both cheeks for all three of them.
+
+"*Revenez bientôt, vous entendez?*" Uncle David said, shaking Alex's hand firmly. "*On va faire de vrais partisans des Voyageurs de vous deux!*" (You come back soon, you hear? We will make true Voyageurs fans of you both!)
+
+As Chloé drove the van back to their hotel for their last night in Canada, a comfortable, bittersweet silence settled between them. The week had been a whirlwind of new memories layered over old ones.
+
+YOUR GRANDMOTHER IS WONDERFUL, Alex typed into the quiet of the car.
+
+"She is," Chloé agreed, her voice a little thick with emotion. "She loved both of you." She glanced over at him, a playful smile returning. "Even if you are a Brawlers fan."
+

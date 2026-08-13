@@ -1,0 +1,80 @@
+# Part 3: The Hardware Check – 2:45 PM
+
+The suffocating heat of the Best Tech parking lot faded as Mom cranked the sedan’s air conditioning to the maximum setting. The physical escape from the Nexar recruiter had drained the last reserves of my internal battery. I rested my head against the cool glass of the passenger window, my CP-affected legs throbbing a dull, steady rhythm of pain.
+
+Mom didn't start the car immediately. She reached into the center console, pulled out a folded, ink-stained section of *The Tidewater Ledger*, and dropped it onto the steering wheel.
+
+"I wasn't going to bring this one up because it isn't an apartment complex," Mom explained, tracing her finger down the tiny text of the classifieds section. "It's an independent listing. Just a husband and wife who own a building through an LLC. But after that corporate nightmare in the store, I think independent is exactly what we need."
+
+She put the car in gear and drove us deep into the historic, tree-lined grid of the Ghent neighborhood.
+
+Ten minutes later, we pulled into a private, decal-controlled parking lot.
+
+The building at 801 Greenway Court was a two-story, flat-roofed brick structure. It didn't have a massive leasing office, a swimming pool, or corporate signage. It was just a quiet, unassuming residential block.
+
+A man in his fifties was standing on the front walkway, waiting for us. He didn't have the slick, predatory polish of the Best Tech recruiter. He just looked like a guy who knew how to fix a leaky faucet.
+
+"Ellen?" he asked, waving as we approached. "I'm Dave. My wife Deb and I own the place."
+
+"Thank you for meeting us on such short notice, Dave," Mom said, shaking his hand. She gestured to us. "This is my son, Michael, and his best friend, Ashley. They're the ones who will be staying here."
+
+Dave smiled, a genuine, uncomplicated expression. "Nice to meet you both. Let me show you how the building works."
+
+He walked us up to the glass-front entrance.
+
+"First thing," Dave said, pulling a brass key from his pocket and sliding it into the deadbolt. "The main door stays locked 24/7. You can't get into the lobby unless you have an apartment key."
+
+Ashley’s posture instantly relaxed. It was a massive architectural win. The perimeter was physically sealed against the outside world. No uninvited guests could just wander up to the apartment door.
+
+Dave pushed the glass door open, and we stepped into a cool, air-conditioned lobby. The wall was lined with standard, locking metal mailboxes. Just past the mailboxes, the floor elevated slightly to reach the main ground-floor hallway.
+
+My processor immediately booted up, running the physical math.
+
+I stared at the elevation change. It was exactly three steps. But they weren't slippery wood or standard, worn-down apartment carpet. They were covered in thick, heavy-duty black industrial rubber, featuring a dense grid of raised circular grips.
+
+I ran the parameters of my Cerebral Palsy against the obstacle. A steep, narrow flight of exterior stairs was a massive fall risk. But three shallow steps completely coated in high-traction rubber? The raised circles would provide absolute, unyielding grip for my stiff, unpredictable legs. It was the exact opposite of Greg's frictionless shower trap.
+
+*Acceptable toll.* I could navigate these three steps even on my worst spasticity days.
+
+"We're looking at Unit A5," Dave said, leading us up the short flight of rubber stairs and down the main hallway. "The 'A' units are all down here on the ground floor. The 'B' units are upstairs."
+
+Another massive win. Ground floor meant no daily battles with gravity.
+
+Dave unlocked the wooden door to A5 and pushed it open.
+
+Ashley and I stepped inside. The apartment was a true studio—a single, rectangular space that combined the living and sleeping areas, with a small kitchenette and a separate bathroom.
+
+"I'll be honest with you," Dave said, rubbing the back of his neck as he looked at the two of us. "It's a great unit, but it's really designed for one person. It might be a pretty tight squeeze for two teenagers."
+
+Ashley and I looked at each other.
+
+Dave was operating on standard-hardware logic. To a neurotypical adult, a small rectangular room meant a lack of privacy and personal space. But to my autistic processor, a small, clearly defined rectangle was a flawless environment. There was no wasted space, no echoing empty rooms, and no architectural gray areas.
+
+And after last night—when we had bypassed all societal rules of privacy to sleep in our birthday suits, completely tangled together just to regulate my fried nervous system—the concept of a "tight squeeze" wasn't a warning. It was a feature.
+
+"We prefer a tight perimeter," Ashley answered for both of us, her voice calm and absolute. "The footprint is perfect."
+
+Mom stepped into the center of the room, looking around with a critical, maternal eye. She turned to Dave.
+
+"I'll be acting as the financial guarantor," Mom stated, shifting into full executive mode to secure the perimeter. "I'll sign the paperwork with your LLC and handle the rent. But I want both of their names on the physical lease."
+
+Dave raised an eyebrow but nodded slowly. "I don't have a problem with that. Any particular reason?"
+
+"Ashley is leaving for Shenandoah Valley University at the end of August," Mom explained, looking affectionately at the Sentinel. "When the dorms close for the holidays or the summer, she needs a legally established home base to return to. This apartment will be hers just as much as his."
+
+My chest hitched. The crippling dread of late August suddenly lost a fraction of its power. The math had just changed. Ashley was leaving, but Mom was hardcoding a return vector into the legal paperwork.
+
+"Makes sense to me," Dave agreed easily. "Oh, one last thing. Are there any pets?"
+
+"One dog," I spoke up quickly, my voice raspy but determined. "Archie. He's a one-eyed rescue. He doesn't bark, and he stays close to me."
+
+Dave smiled. "Archie sounds like a good fit for A5. We'd be happy to have him."
+
+The physical tension that had been locking my spine in a vice grip since we walked out of 1852 Delaney Street finally, completely snapped. I let out a long, shuddering breath, my shoulders dropping three inches.
+
+There was no impossible Catch-22 here. There was no corporate camouflage or logistical paradox. It was just a locked brick building, a ground-floor rectangle, and a landlord who didn't care about our non-traditional parameters.
+
+Mom reached into her purse to pull out her checkbook for the deposit. Ashley stepped up beside me, our shoulders brushing as we looked around the empty studio.
+
+The physical Base Camp on Delaney Street was gone forever. But as I looked back through the open doorway toward the three rubber steps leading to the lobby, I knew we had successfully established the outpost.
+

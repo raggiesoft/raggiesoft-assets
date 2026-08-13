@@ -1,0 +1,110 @@
+# Part 2: The Ramp
+
+## 14:45 PM Galaxy Lanes, Christiansburg
+
+The bowling alley smelled of floor wax, rental shoes, and greasy fries. It was a cacophony of crashing pins, arcade bells, and synth-pop music.
+
+To **Freddie**, it was chaos. But it was good chaos. It was the sound of people having fun, not the sound of people fighting.
+
+They secured two lanes at the end of the row.
+
+**Jessica** walked up to the control console. She looked at the blinking green screen.
+
+"Okay," Jessica announced to the group. "Since we have players ranging from age nine to... well, Aunt Linda... and since we are here to celebrate, not to suffer, I am activating the **Safety Protocol**."
+
+She pressed a button. Bumper Rails: ON.
+
+HISSS-CLACK.
+
+Down the length of both Lane 1 and Lane 2, long black rubber rails rose up from the gutters. They snapped into place, effectively sealing off the trench on either side.
+
+"Bumpers!" **Harper** cheered, jumping up and down. "Pinball bowling!"
+
+"Hey!" **Jenna** protested, crossing her arms. "I don't need bumpers. I'm fifteen."
+
+"You threw three gutter balls in a row last time," **Sarah** reminded her, adjusting her glasses. "The data supports the bumpers."
+
+"Besides," **Aunt Linda** laughed, lacing up her shoes. "It makes the game faster. No one likes watching a ball roll into the sewer."
+
+**Freddie** rolled his wheelchair up to the approach on Lane 2. He looked at the long wooden lane. With the bumpers up, it looked less like a challenge and more like a chute. A safe path.
+
+"I approve," Freddie stated, looking at the black rails. "It is a containment field. The error margin is reduced to zero."
+
+"Exactly," Jessica grinned. "You literally can't miss. Now, let’s get you set up."
+
+She dragged over the metal ramp—**The Launcher**.
+
+"Okay, Captain," **Paige** said, grabbing a six-pound orange ball. "You have the ramp. You have the bumpers. Do your worst."
+
+Freddie leaned forward. He studied the geometry.
+
+Without the bumpers, he would have had to aim for a perfect center line. But with the bumpers... he could get creative.
+
+"Angle the ramp ten degrees to the right," Freddie instructed.
+
+"Right?" Jessica asked. "That points at the wall."
+
+"Trust the ricochet," Freddie said.
+
+Jessica shifted the ramp. Freddie placed the orange ball at the top. He held it with one hand. He waited for the lane to clear.
+
+"Launch," Freddie whispered.
+
+He let go.
+
+The ball rumbled down the metal ramp—clank-clank-clank. It hit the wood and rolled slowly toward the right side.
+
+"It’s gonna hit the rail," Jenna critiqued from the next lane.
+
+THUMP.
+
+The ball hit the right bumper. It bounced off the rubber at a sharp angle, redirecting toward the left.
+
+THUMP.
+
+It hit the left bumper. It zig-zagged back toward the center.
+
+It was a slow-motion pinball game. The ball wove back and forth, gathering no speed but maintaining its forward momentum.
+
+It reached the pins. It hit the head pin on a perfect, glancing angle.
+
+CRASH.
+
+The pins toppled. Because the ball was moving slowly, they didn't explode; they fell over like dominos, knocking each other down in a lazy, satisfying cascade.
+
+**STRIKE.**
+
+The overhead monitor flashed a cheesy animation of a bowling pin dancing.
+
+"Geometry!" Freddie announced, raising a fist.
+
+"That was total luck!" Jenna yelled.
+
+"Calculated trajectory," Freddie corrected. "The bumpers are part of the equation."
+
+**The younger sisters took the lane next.**
+
+**Amanda** and **Elara** (Lane 1) took full advantage of the rails. They didn't even try to aim. They just hurled the ball as hard as they could. Their balls bounced 4, 5, sometimes 6 times before hitting the pins.
+
+PING-PONG-PING-PONG-CRASH.
+
+They giggled maniacally every time it hit a rail.
+
+Even **Harper** found her confidence. Usually, she was afraid of messing up. But with the rails up, she couldn't fail. She stepped up, closed her eyes, and bowled a spare.
+
+**Paige** sat next to Freddie while Aunt Linda took her turn.
+
+"You like the bumpers?" Paige asked, handing him a soda.
+
+"Affirmative," Freddie said, watching the ball bounce safely down the lane. "It prevents the 'gutter' scenario. It keeps the object in play."
+
+He looked at his sisters—laughing, high-fiving, safe within the lane.
+
+"It is... a good system," Freddie decided. "We should keep the bumpers up."
+
+"Don't worry," Paige smiled, squeezing his shoulder. "We are the bumpers. You aren't going in the gutter, Freddie. Not on our watch."
+
+Freddie watched his orange ball return through the ball return machine.
+
+Safe return, he thought. Always.
+

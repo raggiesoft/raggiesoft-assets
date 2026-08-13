@@ -1,0 +1,13 @@
+# Part 8: The Holiday Afterglow
+
+The drive back to the house on Daniel Maloney Drive was quiet, the car filled with the warm, contented exhaustion that follows a day of profound happiness. The grand feasts and boisterous celebrations were over, leaving a peaceful afterglow.
+
+Once home, there was a quiet, unspoken agreement that the day was done. Stella, Luna, Leo, and Olivia moved through their evening routines with a comfortable, practiced rhythm. The Canadian family was safely ensconced in their luxurious hotel, and the house on Daniel Maloney Drive was once again a quiet sanctuary for its four residents.
+
+Luna, tired but happy, retreated to her newly painted sage-green room, eager to curl up with one of the new books she had received. Stella, after ensuring all was well, settled into her own room, the matriarch of the fortress finally allowing herself a moment of quiet rest.
+
+In their shared bedroom, with its deep blue accent wall, Olivia helped Leo get ready for bed. There was no need for words. The day had been wonderful, but it had also been a lot. As he settled into his side of their bed, Olivia a warm and steady presence beside him, Leo felt a sense of peace so deep it was a physical comfort.
+
+He was surrounded by the evidence of his family's love: the new paint on the walls, the gifts from his new Canadian family, and most importantly, the unwavering presence of his *ma blonde* right beside him. The shadow of his fear, the memory of Delores, was still there, but tonight it felt very, very far away. He drifted off to sleep, not to the sound of crashing waves at a grand hotel, but to the quiet, familiar, and infinitely more comforting sound of his best friend's steady breathing.
+
+

@@ -1,0 +1,101 @@
+# Cardiac Rehab (The Breaking Point)
+
+**LORE NOTE:**
+Surviving the heart attack and the CABG surgery was only the beginning; now Jordan must face the grueling, agonizing marathon of Cardiac Rehab. At just nineteen years old, he finds himself on treadmills and lifting light weights alongside patients four times his age, battling the terrifying fragility of his healing sternum and the profound exhaustion of his traumatized body. This track captures the physical and psychological "breaking point" where the pain and frustration make him want to quit entirely. However, unlike his isolated past, he is surrounded by the unbreakable wall of his chosen family. Mark acts as his spotter, Hannah brings him water, and the entire Pact of Six anchors him. When his body screams to give up, their collective strength carries him across the finish line, proving that recovery is not a solo endeavor.
+
+**LYRICS:**
+
+(Intro)
+(A slow, heavy, repetitive drumbeat, mimicking the exhausted, dragging footsteps on a treadmill. A low, grinding bassline builds tension, accompanied by the hiss of an oxygen cannula.)
+
+(Verse 1)
+(Vocals are strained, breathless, and full of exertion)
+Fluorescent lights and a rubber floor
+Every step is a heavy, brutal war
+The wires pull beneath my shirt
+Every single breath is designed to hurt
+I'm nineteen years old, I shouldn't be here
+Walking on a track fueled by clinical fear
+The sternum aches, the muscles scream
+Trapped inside this slow-motion dream
+
+(Pre-Chorus)
+The incline rises, the resistance grows
+How much further? Nobody knows.
+The monitor flashes, the numbers climb
+I'm a prisoner of this healing time
+I want to rip off the leads, I want to fall
+I am staring at the impossible wall!
+
+(Chorus)
+(The music hits hard, a heavy, driving, mid-tempo rock anthem)
+This is the breaking point! The edge of the fray!
+The moment my body just wants to give way!
+The engine is stalling, the spirit is cracked
+A nineteen-year-old on his back, under attack!
+But I look to my left, and I look to my right
+I'm not doing this on my own tonight!
+They're holding the line, they're taking the weight
+We're pushing right through the breaking point gate!
+
+(Verse 2)
+Mark is beside me, matching my pace
+A brotherly sweat on his focused face
+Hannah is waiting at the end of the line
+With a bottle of water and a "you're doing fine"
+Aubrie and Madi, Zoe, Lauren, too
+A gallery of love that is pulling me through
+When my knees start to buckle, when my vision goes gray
+They are the anchor that keeps me in play
+
+(Pre-Chorus)
+The incline rises, the resistance grows
+How much further? Nobody knows.
+But I hear their voices, a chorus so loud
+A beautiful, stubborn, and furious crowd!
+I won't rip off the leads! I refuse to fall!
+We are breaking right through the impossible wall!
+
+(Chorus)
+This is the breaking point! The edge of the fray!
+The moment my body just wants to give way!
+The engine is stalling, the spirit is cracked
+A nineteen-year-old on his back, under attack!
+But I look to my left, and I look to my right
+I'm not doing this on my own tonight!
+They're holding the line, they're taking the weight
+We're pushing right through the breaking point gate!
+
+(Bridge)
+(The heavy beat drops to just a pulsing bass and a snare drum snapping like a whip)
+(Spoken, breathing heavily)
+"I can't... I can't do another mile."
+(Spoken - Mark)
+"Yes you can, buddy. Just look at me. One step."
+(Spoken - Aubrie)
+"We're right here, Jordan. We've got you."
+(Sung)
+The trauma told me I was weak and alone
+But this family is carved out of iron and bone!
+One more step! One more breath!
+We're walking away from the shadow of death!
+
+(Guitar Solo - Sweaty, triumphant, and soaring, fighting against the heavy rhythm)
+
+(Chorus)
+This is the breaking point! The edge of the fray!
+The moment my body just wants to give way!
+The engine is stalling, the spirit is cracked
+A nineteen-year-old on his back, under attack!
+But I look to my left, and I look to my right
+I'm not doing this on my own tonight!
+They're holding the line, they're taking the weight
+We're pushing right through the breaking point gate!
+
+(Outro)
+(The heavy drumbeat gradually slows down, stabilizing into a normal, resting tempo)
+Pushing through...
+We made it through...
+(A deep, clear exhale)
+System stabilizing.
+Rehab complete.

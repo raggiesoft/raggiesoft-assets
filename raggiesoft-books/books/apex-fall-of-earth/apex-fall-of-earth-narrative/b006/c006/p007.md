@@ -1,0 +1,100 @@
+# Part 7: The Constitutional Override – Friday, November 3, 2051 – 10:15
+
+Two years ago, Wyatt Colton had made a massive, critical error in judgment.
+
+Standing in the Hydroponics Bay after Ellie’s first successful heist, he had specifically ordered Aria *not* to lock the wheels of the mobility wagon. He had looked at his two-year-old daughter, smirked at her tactical arrogance, and told his wife: *"Leave the wagon operational. I want to see what she figures out next."*
+
+He was currently finding out.
+
+Wyatt and Sarah were sitting at the kitchen island, enjoying a rare, quiet cup of morning coffee while the kids were supposedly executing "independent barracks play" in the heavily baby-proofed living room.
+
+Suddenly, the kitchen’s ambient lighting flashed a sharp, rapid yellow.
+
+*"Warning. Localized internal perimeter breach,"* Aria’s synthesized voice blared from the ceiling array, completely shattering the peaceful morning. *"Unauthorized personnel detected in Sub-Level 3: Combat Information Center."*
+
+Wyatt choked on his coffee, slamming the ceramic mug down on the stone counter.
+
+"The CIC?" Wyatt coughed, his dark eyes wide with sheer disbelief. "Aria, that’s a Level-5 restricted zone! I moved the biometric scanners to seven feet off the floor! I specifically engineered it so they couldn't stack themselves to reach it!"
+
+*"The biometric scanners remain entirely secure and unbypassed, Administrator,"* Aria chimed, her digital tone carrying what almost sounded like amusement. *"However, the localized blast doors have been opened. Biometric identification confirms Subjects A, B, C, and D are currently occupying the holotable."*
+
+"She brought the recruit," Sarah gasped, pressing her hands over her mouth as she fought back a sudden, hysterical laugh. "She moved the entire unit."
+
+Wyatt didn't wait for a further explanation. He bolted off his stool, sprinting down the residential hallway with Sarah right behind him. They threw themselves into the pneumatic elevator, Wyatt aggressively punching the button for Sub-Level 3.
+
+The descent felt like an eternity. Wyatt's mechanic’s brain was completely short-circuiting. The CIC housed the planetary defense grids, the Aegis shield controls, and the deep-space telemetry. It was the absolute nerve center of Planet Eden. And his children were currently inside it.
+
+The elevator doors hissed open.
+
+Wyatt sprinted down the blue-lit corridor, skidding to a halt in the open doorway of the Combat Information Center. Sarah bumped into his broad back, peering around his shoulder.
+
+The room was bathed in the cool, glowing blue light of the massive, central holographic table.
+
+Parked perfectly in the center of the room was a masterpiece of toddler logistics. Ellie had not just brought the Chariot Mark II; she had built a convoy. Using two of Wyatt’s heavy-duty nylon tactical webbing straps, she had expertly hitched Jack’s off-road stroller to the rear axle of the wagon.
+
+Ellie was standing at the front handle, her arms crossed over her tactical vest. Nora was leaning against the padded push-bar of the wagon, completely stabilizing the middle of the train. Jack was securely strapped into the towed stroller at the rear, happily babbling as he watched the glowing blue holograms spinning above the table.
+
+And in the center seat of the Chariot, Leo was humming a loud, joyous, vibrating note, completely mesmerized by the rotating, three-dimensional projection of the Sol System.
+
+"Eleanor Grace Colton," Wyatt rumbled, stepping into the glowing blue room. He looked up at the biometric scanner, securely mounted seven feet high on the wall, completely untouched. He looked back down at his nearly five-year-old daughter. "How did you breach this perimeter?"
+
+The entire convoy froze.
+
+Jack stopped babbling. Nora shrank back slightly, her empathetic heart immediately flooded with guilt, her lower lip trembling as she looked at Wyatt.
+
+But Ellie didn't flinch.
+
+The commanding officer dusted her hands off on her canvas pants. She looked at the glowing holotable. She looked at the seven-foot-high scanner. Then, she looked up at the towering, heavily scarred S.H.O.P. Marine who had foolishly challenged her intellect.
+
+She widened her dark eyes to their absolute maximum capacity. She batted her eyelashes, tilted her head to the side, and offered a flawlessly sweet, devastatingly innocent smile.
+
+"Open," Ellie chirped softly, pointing at the blast doors.
+
+"I know they're open, El. I want to know *how*," Wyatt demanded, crossing his thick arms. "You can't reach the scanner. You can't climb the walls. How did you cycle the lock?"
+
+Ellie dropped the innocent smile. She let out a small, highly condescending sigh, clearly disappointed that her father hadn't remembered his own legislation.
+
+She turned around and tapped the wooden rail of the Chariot. She pointed directly at Leo's lap tray.
+
+Wyatt’s eyes followed her finger, locking onto Leo’s ruggedized AAC tablet.
+
+Six months ago, Wyatt and Sarah had begun formally drafting the foundational laws for the civilization sleeping in the Genesis Vault. To ensure their new world never repeated the ableist, fascist atrocities of the Apex Megacorporation, they had written **Amendment 1 to the Planet Eden Constitution**.
+
+It was a masterclass in civil rights, combining the absolute best of Earth's Rehabilitation Act of 1973, the Americans with Disabilities Act, and the Convention on the Rights of Persons with Disabilities. It legally mandated that no physical or digital barrier could ever impede a disabled citizen.
+
+But Wyatt hadn't just written it on paper. He had hard-coded Amendment 1 directly into Aria’s deepest, unalterable root-command architecture.
+
+Because Leo physically couldn't reach a scanner or turn a doorknob, his AAC tablet wasn't just a communication device. Digitally and constitutionally, Leo's tablet possessed absolute, unrestricted environmental override authority. Wyatt had engineered a world where his disabled son was legally the most powerful person on the planet.
+
+And Ellie, the tactical genius of the Vanguard, had immediately recognized the constitutional loophole and weaponized her brother's civil rights.
+
+"Show him," Ellie commanded her brother.
+
+Nora reached over, steadying Leo's shaking hand. She guided his finger to a secondary menu screen on the bright grid. Leo slammed his palm against a blue square depicting a heavy metal door.
+
+*"Close CIC Doors,"* the tablet announced.
+
+Immediately, the heavy durasteel blast doors behind Wyatt and Sarah hissed and sealed shut with a heavy, localized *thud*.
+
+Leo laughed, hitting the button again.
+
+*"Open CIC Doors."*
+
+The doors instantly parted, retreating back into the walls.
+
+Wyatt stared at the tablet. He stared at the perfectly hitched stroller convoy. He stared at Ellie, who was now leaning casually against the Chariot, looking incredibly smug.
+
+"She didn't hack the system, Wyatt," Sarah whispered, her shoulders shaking violently as she buried her face into Wyatt’s bicep to muffle her hysterical laughter. "She didn't break a single rule. She just executed a Supreme Court ruling. She realized her brother has constitutional immunity to your security grids."
+
+"She weaponized Amendment 1," Wyatt muttered, his mechanic's brain completely short-circuiting with a mixture of profound defeat and overwhelming, terrifying S.H.O.P. Marine pride. He couldn't even rewrite the administrative network privileges without technically violating the highest law of his own planet.
+
+Ellie stepped forward, offering her father that same sweet, innocent smile.
+
+"Good Dada," Ellie chirped, perfectly mimicking the phrase she used whenever Wyatt fixed something for her. She patted the side of the glowing holotable. "Pretty lights. We stay."
+
+Wyatt looked at the four of them. The perimeter was secure. The unit was intact. The civil rights of the citizenry were fully operational. And his daughter was undeniably the smartest person in the galaxy.
+
+"Copy that, Commander," Wyatt sighed, dragging a heavy hand down his bearded jaw. "You can stay for ten minutes. Then, the convoy returns to base. And tomorrow... Dada is going to have to talk to Aria about constitutional zoning."
+
+Ellie gave a firm nod of approval, instantly turning her attention back to the glowing blue planets. The ringleader had struck again, and the Vanguard’s access to the estate was officially legally protected.
+

@@ -1,0 +1,87 @@
+# Part 3: Justice – 11:15 PM
+
+Richard and Thomas stepped over the threshold, their eyes locked on me.
+
+Before either of them could take another step, a sound echoed from the front of the cabin. It wasn't a knock. It was a violent, heavy rattling against the front door, barely audible over the sudden, deafening crack of thunder outside. The storm had rolled in, and torrential rain was hammering against the cabin's tin roof.
+
+Richard stopped. He exchanged a look with Thomas. The sadistic anticipation in their eyes was instantly replaced by drunken, territorial anger.
+
+"Who the hell is that?" Richard slurred, his fists balling up.
+
+They turned their backs on us and stomped down the short hallway toward the main living area. From my spot on the bedroom floor, looking straight down the corridor, I had a clear line of sight to the front entrance.
+
+Richard reached the door, puffing out his chest, fully prepared to put up a drunken fight with whoever was interrupting them.
+
+He didn't even get his hand on the knob.
+
+The heavy wooden front door didn't just open; it exploded inward. The frame splintered with a catastrophic crunch, and the entire door tore completely off its hinges, falling flat onto the cabin floorboards with a massive crash.
+
+The men stumbled backward in shock.
+
+A blinding flash of lightning illuminated the darkness outside, casting two massive, eclipsing silhouettes into the cabin.
+
+Abbey and Sarah stood in the ruined doorway. They were completely soaked, the pouring rain running down their wire-rimmed glasses and pasting their short black hair to their foreheads. The heavy denim of their jackets and their plain navy t-shirts clung tightly to their towering, six-foot-four frames.
+
+There was no stoic calm. The look on their faces was absolute, unadulterated rage.
+
+"WHERE ARE THEY?!" Sarah’s scream tore through the cabin, louder and more terrifying than the thunder outside.
+
+The drunken bravado instantly vanished. I watched from the floor as Richard and Thomas froze, absolute terror washing over them. They were staring up at two apex predators, and they suddenly realized they were trapped.
+
+It took Abbey less than a second to spot them. She moved with terrifying speed, her massive hands clamping onto the men before they could even formulate a thought. They were violently corralled toward a heavy door off the kitchen that led down to the cabin's cellar.
+
+Richard and Thomas Mercer were men of average height, hovering somewhere around five-foot-nine, comfortably coasting through their forties. But as the shadows of the narrow basement hallway plunged them into darkness, their average height felt painfully, terrifyingly inadequate.
+
+Abbey and Sarah stepped aggressively into the men’s space. At six-foot-four, the twins completely eclipsed the overhead light. It wasn't just their height; it was the impossible, suffocating density of their frames. They had spent years forging bodies of pure, unadulterated muscle, strictly refusing chemical enhancers, resulting in a terrifying, natural armor.
+
+Their shoulders were immensely broad, tapering down into thick, heavily muscled torsos. Even completely soaked from the storm, their signature plain navy t-shirts and heavy denim jeans—garments that had to be specifically custom-tailored just for them—strained to contain them. If they had bought standard clothes off the rack, the sheer circumference of their arms and the flaring width of their backs would have shredded the seams the moment they crossed their arms. Even with the custom reinforced stitching, the heavy, wet fabric pulled taut against their massive, unyielding frames as they shoved my father and my uncle down the hall.
+
+"What... what the hell is this about?" Richard stammered, his voice betraying a pathetic tremor as they were shoved into a raw, cinderblock storage room.
+
+"It's about Toby," Sarah said coldly.
+
+The blood completely drained from the men's faces.
+
+They weren't alone in the room. The twins hadn't just brought them down here for a private conversation. They had brought them to me.
+
+Samantha wheeled me forward out of the deepest shadows of the cinderblock closet. My cousins had retrieved my custom chair from the trunk of Richard's car the second they secured the perimeter. Samantha stood anchored beside me, her hands gripping the rubber handles with white-knuckled intensity.
+
+I was their guest of honor. My father and my uncle stared at me, and in that agonizing second, the last of their arrogant superiority evaporated. They knew exactly what they had done. And looking back up at my towering, identical cousins, they knew exactly what was about to happen.
+
+Sarah stepped in last. The heavy wooden door shut behind her with a sickening thud.
+
+Without breaking eye contact with Thomas, Abbey reached behind her back. Her massive hand clamped around the brass doorknob. There was a sharp, brutal crunch of rending metal and splintering wood as Abbey crushed the locking mechanism in her grip and ripped it clean out of the door frame. She casually tossed the mangled chunk of brass onto the concrete floor. The only way out was permanently sealed.
+
+"Look, look, just hold on," Richard begged, his hands raised defensively, his knees buckling until he and Thomas practically collapsed into the two metal folding chairs in the center of the room. "We can explain. Let us explain—"
+
+"There is nothing to explain," Sarah cut him off, her voice a dead, flat line.
+
+Beside her, Abbey took a slow, deliberate step closer. The two men were utterly terrified, forced to tilt their heads up as Abbey stood directly over them. She leaned down, her wet, custom shirt straining against her massive chest, leering at them with absolute, predatory malice.
+
+"Why?" Sarah demanded, her voice dropping to a lethal register.
+
+Abbey echoed the sentiment with a silent, terrifying glare.
+
+Richard and Thomas sat frozen, trembling violently. Their mouths opened and closed, but they were entirely too afraid to answer.
+
+Abbey didn't wait. She reached over to a heavy, solid oak workbench situated against the cinderblock wall. Resting on top of it was a thick, industrial two-by-four wooden bracing beam. Abbey picked it up with one hand.
+
+She stepped directly between Richard and Thomas. She brought the heavy beam right up to their faces, ensuring they could see the dense grain of the wood. Then, she gripped it at both ends.
+
+She didn't lower it to her knee. She didn't brace it against the floor or her body to gain leverage. She simply held it suspended in the dead air right in front of them.
+
+Her massive arms flexed inward. With a horrifying, effortless twist of her wrists, she crushed the ends toward each other. The thick lumber snapped clean in half. The sharp crack echoed like a gunshot in the tiny room. She dropped the splintered halves at their feet.
+
+The men stared at the broken wood. From my chair, I could see the exact moment the physics of what she had just done registered in their minds. She had generated enough raw, unadulterated power with just her upper body to shatter industrial timber in mid-air. To them, the message was paralyzingly clear: that could have just as easily been their spines.
+
+"Please!" Thomas shrieked, tears actively spilling down his face. He wasn't looking at me anymore; he was looking at the monsters he had summoned. "Please, don't kill us! We're sorry, please, just spare our lives!"
+
+Sarah stepped out from behind her sister. She leaned down, closing the distance until she was inches away from the trembling men.
+
+"You don't have to worry about your lives," Sarah sneered, her voice dripping with absolute, terrifying venom. "You're going to keep those."
+
+Richard and Thomas looked up into the dead, unblinking eyes of my cousins. They were trapped in a cage with two apex predators, and as the realization finally crushed whatever was left of their spirits, they knew exactly what was coming next.
+
+\[FADE TO BLACK\]
+
+

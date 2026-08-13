@@ -1,0 +1,44 @@
+# Part 1: The Cumberland Gap – 12:05 AM
+
+The heavy wooden door to the cellar shut with a sickening thud, permanently sealing my father and my uncle in the dark.
+
+I couldn't stop crying. The tears were blinding, burning my eyes and soaking my face. My nervous system was completely shattered, leaving me utterly incapable of vocalizing a single sound. Every breath I took was a ragged, wet gasp that hitched painfully in my chest.
+
+"I've got him," Abbey’s voice was surprisingly gentle, a stark, jarring contrast to the terrifying malice she had just unleashed a minute prior.
+
+She bent down over my custom chair. With an effortless, fluid motion, she slid one massive arm under my knees and the other behind my back, lifting my rigid, thrashing body into the air as if I weighed absolutely nothing. I buried my face into the heavy, wet denim of her jacket.
+
+"Grab his chair," Sarah instructed Samantha, her voice clipped and entirely focused on the logistics of our escape. "We are leaving."
+
+Abbey carried me down the short hallway and through the ruined frame of the front door, stepping out into the violent Kentucky night. The storm was absolute chaos. The torrential downpour instantly soaked us, but Abbey tucked me tightly against her immensely broad chest, her towering frame acting as a physical shield against the biting wind and the rain.
+
+A sudden, deafening crack of thunder shook the ground.
+
+My entire body violently flinched, my limbs locking up as fresh terror spiked through my veins. I hated thunderstorms. The sudden, concussive noise always felt like a physical blow. But as I squeezed my eyes shut against the brilliant flash of lightning, Abbey just tightened her grip, her massive arms providing an impenetrable, stabilizing barrier. I was terrified of the sky, but I implicitly trusted the titan holding me. Nothing was going to hurt me while I was in her arms.
+
+The twins’ heavy sedan was idling in the mud just a few yards away, the headlights cutting through the sheets of rain. Abbey pulled the rear passenger door open and carefully maneuvered me inside, setting me down gently in the dead center of the backseat.
+
+The interior of the car was a sanctuary. The heater was blasting, fighting back the damp chill of the mountains.
+
+Samantha slid into the seat behind the passenger side, immediately throwing her arms around me before the door even closed. She pulled me tightly against her side, interlocking her fingers across my chest. As Abbey reached in to secure my lap and shoulder belts—and then Samantha's—my sister squeezed me with every ounce of strength she had, applying the deep, unyielding pressure my short-circuiting brain desperately needed. The seatbelts restricted her movement, but she adjusted her grip, anchoring her chin on top of my head and refusing to let go.
+
+The trunk slammed shut as Sarah stowed my chair. A second later, she slid into the driver's seat, pulling the door shut against the storm, while Abbey folded her massive frame into the passenger seat.
+
+"Everyone secure?" Sarah asked, looking at us through the rearview mirror. Her jaw was clenched so tight I could see the muscle jumping in her cheek.
+
+"We're good," Samantha answered, her voice trembling but resolute. "Drive."
+
+"We're going home, Toby," Abbey said softly, looking over her shoulder at me. "It's over."
+
+Sarah shifted the car into drive. The tires spun for a fraction of a second in the mud before finding traction, pulling us away from the decaying cinderblock cabin and the nightmare we were leaving behind.
+
+We navigated the treacherous, uneven gravel roads in heavy silence. The only sounds were the violent drumming of the rain against the roof and the rhythmic, metronomic sweep of the windshield wipers. Samantha rocked me slightly, absorbing the bumps of the road, her heartbeat thumping steadily against my back.
+
+We finally hit the pavement of US-25E. Sarah turned the steering wheel, pointing us north toward the state line.
+
+Despite the absolute, unadulterated rage radiating from the front seat, Sarah drove with cold, mechanical precision. She was furious, but she was a tactician first. The needle on the speedometer climbed to exactly the posted limit and froze there. She wasn't going to give a single Kentucky state trooper a reason to pull us over and delay our extraction by even a minute.
+
+Through the blur of my tears and the rain-streaked windows, I watched the jagged, pitch-black silhouettes of the Appalachian Mountains loom over us. We passed through the Cumberland Gap, the tires humming smoothly as the road transitioned.
+
+We merged onto US-58 East. We had just crossed the border back into Virginia. We were finally on the long road home.
+

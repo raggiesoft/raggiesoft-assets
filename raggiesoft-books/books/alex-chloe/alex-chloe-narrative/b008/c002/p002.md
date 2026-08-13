@@ -1,0 +1,22 @@
+# Part 2: The Refusal
+
+After an hour of lying beside Vera in the tense, hollow silence, the internal battle within Alex finally reached a verdict. The discomfort had grown into a profound and undeniable sense that he needed to leave. This wasn't right. This wasn't safe. He wanted to go home.
+
+He sat up, the movement causing Vera to stir beside him. He reached for his Quantum Note, the only device he had with him.
+
+VERA, he typed, his thumbs moving with a new, shaky resolve. I'M REALLY TIRED. I THINK... I WANT TO GO HOME NOW.
+
+Vera's sleepy, content expression instantly vanished, replaced by a look of sharp, wounded disbelief. "Go home?" she repeated, sitting up. "What are you talking about? You're staying the night. We talked about this."
+
+I KNOW, he typed. BUT I'VE CHANGED MY MIND. I'M NOT... COMFORTABLE. I WANT TO GO HOME.
+
+"Don't be silly, Alex," she said, her voice shifting from wounded to a tone of sweet, condescending reason that immediately set his teeth on edge. "You're staying with me. We're a couple. This is what couples do." She reached out and stroked his arm, her touch suddenly feeling possessive and cloying. "You're just nervous. It's our first time. Just relax."
+
+Her complete dismissal of his feelings, the casual way she reframed his genuine discomfort as simple "nerves," was a jarring, cold shock. He pulled his arm away.
+
+I AM NOT NERVOUS, VERA, he typed, his message now firm and direct. I AM UNCOMFORTABLE. I WANT YOU TO TAKE ME HOME. THAT IS MY FINAL DECISION.
+
+The smile on Vera's face evaporated, replaced by a cold, hard glare. "No," she said, her voice now flat and devoid of any warmth. "I'm not driving you all the way back to Virginia Beach at ten o'clock at night just because you changed your mind. You're being ridiculous. You're staying here."
+
+She turned her back to him, lying down and pulling the covers up to her shoulder in a gesture of absolute finality. The conversation was over. His feelings were irrelevant. His decision was meaningless. He was trapped.
+

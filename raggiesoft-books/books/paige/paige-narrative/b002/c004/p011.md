@@ -1,0 +1,88 @@
+# Part 11: System Overload
+
+## 20:00 PM (Second Quarter)
+
+The temperature in the valley dropped to 38 degrees, but inside **The Crucible**, the heat was rising.
+
+The second quarter wasn't a battle; it was a malfunction. The Tallahassee State Renegades, a team built on speed, flash, and television contracts, were suffering a catastrophic system failure.
+
+"Look at them," Freddie said, pointing a gloved finger at the field. "They are arguing."
+
+On the sideline, the Renegades' head coach was screaming at his offensive coordinator. The quarterback was throwing his helmet. They were disintegrating.
+
+"Panic logic," Jessica explained, her breath steaming in the cold air. "They expected to be up by twenty points. Now they're down by ten, and they can't hear themselves think. The pressure is cracking the pipe."
+
+## 12:15 Left in 2nd Quarter
+
+Tallahassee had the ball on their own 20-yard line. Third down and eight.
+
+The "Ironheads" in the North End Zone didn't just scream; they synchronized.
+
+*WHOOOOOOOOOO....*
+
+The noise rose in pitch, a continuous, deafening siren designed to disrupt communication.
+
+The Renegades' quarterback tapped his helmet, looking confused. He hiked the ball.
+
+*The Blitz.*
+
+A CPI linebacker, disguised as a safety, shot through the gap like a piston. He hit the quarterback before he could even look downfield.
+
+*BOOM.*
+
+The ball fluttered harmlessly to the turf. Fourth down.
+
+"PUNT TEAM!" Jessica roared, joining the chant that echoed around the bowl. "BLOCK! THAT! KICK!"
+
+## 06:30 Left in 2nd Quarter
+
+CPI took over on the 45-yard line.
+
+They didn't get fancy. They ran the "Steamroller" offense.
+
+*Handoff. Four yards. First down.* *Handoff. Six yards. First down.*
+
+It was boring. It was brutal. It was engineering applied to sport.
+
+"They are maximizing time of possession," Freddie noted, watching the clock tick down. "They are starving the other system of resources."
+
+"Exactly," Jessica grinned. "We keep the ball. They get cold."
+
+On the fifth play of the drive, the CPI quarterback faked the handoff. The entire Tallahassee defense bit on the run, crashing the middle.
+
+The quarterback rolled right. He floated a perfect, gentle pass to a tight end standing all alone in the end zone.
+
+**TOUCHDOWN FORGERS.**
+
+The cannon fired. The stadium shook. The band struck up the fight song.
+
+**CPI FORGERS: 17** **TALLAHASSEE ST: 0**
+
+## 00:45 Left in 2nd Quarter
+
+Desperation set in. The Renegades got the ball back with less than a minute to play. They abandoned their playbook and started throwing "Hail Marys"—long, low-probability passes hoping for a miracle.
+
+"Error," Freddie whispered as the quarterback wound up for a deep throw. "Low probability."
+
+The ball soared through the night air. A CPI cornerback read the trajectory perfectly. He didn't just bat it down; he caught it.
+
+**INTERCEPTION.**
+
+The crowd noise hit a frequency that Freddie felt in his teeth. He pressed his hands over his earplugs, but he was smiling. He was smiling because the logic was holding. The "Machine" was working.
+
+With ten seconds left, CPI kicked a 40-yard field goal as time expired.
+
+The ball split the uprights.
+
+**HALFTIME**
+
+**CPI FORGERS: 20** **TALLAHASSEE ST: 0**
+
+The scoreboard glowed with the impossible numbers. The number four team in the nation wasn't just losing; they were being erased.
+
+"Number four in the nation, huh?" Jessica laughed, high-fiving Paige. "Maybe they should try playing some actual football."
+
+"They are incompatible with this environment," Freddie concluded, looking at the dejected Renegades jogging toward the locker room. "The Iron City is a closed system. And they are not admins."
+
+"You got that right," Jessica said, putting an arm around his shoulder. "Now, stay close. Halftime means the marching band. And we have the best damn band in the land."
+

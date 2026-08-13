@@ -1,0 +1,130 @@
+# Part 8: The Safe House
+
+## Location: 168 Hermitage Road, Staunton (Annex), Virginia Time: 2:30 PM
+
+The transition from the highway to the country road was like stepping out of a noisy factory and into a library.
+
+Tom slowed the van as they wound their way down Hermitage Road. The rigid geometry of the government complex was replaced by the chaotic, organic beauty of the Shenandoah Valley. Massive oak trees arched over the road. White fences lined the pastures.
+
+"I remember the fence," Patrick whispered, looking out the window. It was a fragment of a memory from when he was four—just a flash of white wood and green grass.
+
+Tom turned into the gravel driveway of Number 168.
+
+It was a farmhouse that had stood since the turn of the century. It had a wide wraparound porch, wind chimes singing in the breeze, and—crucially—a wooden ramp that looked like it had been built by someone who knew what they were doing.
+
+Before the engine even stopped, the front door flew open.
+
+Sherry stepped out. She was wearing jeans and a flour-dusted apron. She wiped her hands on a towel and practically ran down the steps.
+
+"Get out of that van!" she hollered, her voice cutting through the humid afternoon air. "I swear, Ellen, you look like you've been fighting a war."
+
+Tom lowered the lift. The hydraulic whine was the only mechanical sound in a soundscape of crickets and distant bleating.
+
+When Nichole rolled onto the gravel, she braced herself. She expected the "Look." The pitying tilt of the head. The voice jumping up an octave to talk to the "poor disabled girl."
+
+Sherry stopped. She put her hands on her hips. She looked Nichole dead in the eye—adult to adult.
+
+"Well," Sherry said, a grin spreading across her face. "You aren't four years old anymore. You look exactly like your grandmother. Same fierce eyes."
+
+She turned to Patrick, who was unfolding his tall frame from the backseat, his posture still stiff with defensive rage.
+
+"And you," Sherry said, shaking her head. "Patrick Bennett. You were knee-high to a grasshopper the last time I saw you. Now you're a linebacker."
+
+Patrick blinked, his guard dropping an inch. "Hi, Aunt Sherry."
+
+"Come here," she commanded. She pulled Patrick into a hug that smelled of yeast and cinnamon. Then she leaned down and hugged Nichole, not delicately, but firmly. "Welcome home. I heard you had a day."
+
+"We met the bureaucracy," Ellen sighed, climbing out of the passenger seat.
+
+"I have pie," Sherry declared, as if pie was the universal solvent for bureaucracy. "Cherry. And I bought the good vanilla ice cream. Come on."
+
+## The Kitchen
+
+The farmhouse kitchen was the anti-Roosevelt.
+
+At Roosevelt, everything was beige, plastic, and bolted down. Here, everything was wood, ceramic, and cluttered with life. There were jars of preserves on the counter. There was a cat sleeping on top of the refrigerator.
+
+Sherry sat them down at a massive oak table. She cut slices of pie that were obscenely large and topped them with scoops of melting ice cream.
+
+"So," Sherry said, pouring iced tea. "Ellen told me. Door Greeter?"
+
+Nichole looked at her plate. The shame flushed her cheeks again.
+
+"And a potato scooper," Patrick added, stabbing his pie with a fork. "Because apparently, I can't handle a keyboard."
+
+"Idiots," Sherry spat. "absolute morons."
+
+She walked over to a sidebar and picked up a manila envelope. She tossed it onto the table in front of Nichole.
+
+"Your Aunt Carol sent me a copy," Sherry said. "The manuscript. *Senior Year*."
+
+Nichole froze. "You read it?"
+
+"I read it twice," Sherry said. "The dialogue in Chapter 3? Where the twins are communicating without speaking? That is high-level stuff, Nichole. That isn't 'Door Greeter' work. That is a career."
+
+She leaned in, resting her elbows on the table.
+
+"Don't you let some government paper-pusher tell you who you are. You are a writer. And Patrick, I know you built that website for Carol's business. You are an engineer. If they can't see that, then they are blind. And we don't work for blind people."
+
+Nichole felt a lump form in her throat. But this time, it wasn't fear. It was validation. Here, in this kitchen, she wasn't a set of limitations. She was a talent.
+
+She tapped her armrest. *Safe.*
+
+## The Pasture
+
+After the pie, they went outside to the back porch.
+
+The property sloped down toward a creek. In the lower pasture, a flock of sheep was grazing, moving like a single white cloud across the green.
+
+Lying in the shade of the porch were two Border Collies—Buster and Scout.
+
+Patrick tensed as the dogs lifted their heads. He was usually wary of dogs he didn't know—balance issues made him nervous around jumpers.
+
+"They're working dogs, Patrick," Sherry said softly. "They won't jump. They know their job."
+
+The dogs trotted over. They didn't bark. They didn't jump. Buster walked right up to the wheelchair, sniffed the rubber tire, and then rested his chin gently on Nichole’s footrest.
+
+Nichole reached down. Her hand brushed the dog's soft ears.
+
+*Flash.*
+
+A memory hit her. She was four years old. She was sitting in the grass. A wet nose. The smell of wet fur. A rough tongue on her hand.
+
+She looked at Patrick. He was kneeling—carefully—rubbing Scout's flank.
+
+"I remember this," Patrick whispered. "The smell. The sheep."
+
+"You used to chase them," Sherry laughed, leaning against the railing. "Well, you tried. They were faster. But you two were always out here. You'd sit in the grass for hours, just watching the clouds. You never needed anyone else. Just each other."
+
+She looked at the twins—eighteen now, battered by the world, but still a closed loop.
+
+"That hasn't changed, has it?" Sherry observed.
+
+"No," Patrick said, standing up and wiping his hands on his jeans. "It hasn't."
+
+"Good," Sherry said. "Because the world is going to try to split you up. Like they did today. They think it's 'healthier.' They don't understand that you two are a single engine. You run on two cylinders."
+
+She pointed north, toward the mountains.
+
+"That school in Vermont? Putney?"
+
+"Yeah?" Patrick asked.
+
+"Do they get it?" Sherry asked. "Do they understand the engine?"
+
+"Their brochure says they do," Ellen said, joining them on the porch. "Universal Design. Support for complex needs."
+
+"Then you go," Sherry said firmly. "You sleep here tonight. You sleep late. You eat a country breakfast. And then you drive north until you find a place that treats you like people, not potatoes."
+
+Nichole watched the sheep moving in the distance. They were safe because they stayed together. The dogs protected them.
+
+Patrick was her dog. She was the sheep. Or maybe they were both wolves.
+
+She looked at the mountains. The fear of the morning was fading, replaced by the calm of the valley and the sugar rush of the pie.
+
+She reached for her VocaLink.
+
+*WE. GO. NORTH.*
+
+"Damn right," Sherry smiled. "Vermont or bust."
+

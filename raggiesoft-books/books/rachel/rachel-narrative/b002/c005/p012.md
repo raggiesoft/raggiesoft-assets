@@ -1,0 +1,67 @@
+# Part 12: The Fracture – 8:15 PM
+
+The room wasn't pitch black yet. It was mid-August in Virginia Beach, which meant the sun had only just dipped below the horizon a few minutes ago. A fading, dusky violet twilight bled through the bedroom blinds, casting long, soft shadows across the carpet, mixing with the thin sliver of yellow hallway light underneath the locked door.
+
+I lay perfectly still on the bottom bunk, curled around Rachel on the narrow twin mattress. The soft cotton of my sleep shorts was a minor comfort, but our physical reality was agonizing.
+
+Our breathing was a synchronized struggle. Every time Rachel tried to draw a full breath, a sharp, terrifying catch in her chest forced her to exhale in a shallow, ragged whimper. Beside her, my own breathing was carefully measured; every expansion of my diaphragm tugged at the deep, tearing fire in the center of my gut, causing my core to violently, involuntarily clench.
+
+Even our sleeping position hurt. Lying on my side pulled painfully at my bruised tissue, and Rachel curling her knees up put agonizing pressure on her ribs. But neither of us pulled away. The physical pain of cuddling was vastly overshadowed by the desperate, emotional need to stay anchored to one another.
+
+If the silver metal-tube bedframe had been just a little bit wider—if the mattress were a queen instead of a twin—we would have welcomed Jessica to climb down the rungs and squeeze right in between us. If Janette hadn't been dropped off at Aunt Janet's house, we would have pulled her onto the mattress, too. We were a pack, and right now, we just wanted our pack physically touching.
+
+Suddenly, heavy, authoritative footsteps stopped right outside our room.
+
+The brass doorknob turned sharply, hitting the metal strike plate of the engaged lock with a loud, aggressive *clack*.
+
+Rachel flinched violently, her hands instantly flying up to grip my t-shirt. Her entire body went rigid.
+
+"Jessica, open this door," Dad’s voice demanded through the painted wood. "I know Michael is in there. His bedroom is empty."
+
+None of us moved. Up on the top bunk, Jessica shifted quietly. In the violet twilight, I saw her face appear over the edge of the mattress. She looked down at the lower bunk, her eyes scanning Rachel and me to make sure we were securely tucked under the heavy red blanket. When she saw we were safe, her jaw set into a hard, defiant line. She didn't say a single word. She was holding the perimeter exactly as she had promised.
+
+"Michael. Rachel," Dad called out, his tone dropping into that heavy, impatient register. "Stop hiding and open the door. We need to talk about this attitude."
+
+I squeezed Rachel tighter, pressing my chin against the top of her head. We weren't answering. The adult world outside that door had completely failed us, and we were officially boycotting it.
+
+When Jessica still refused to turn the lock, the silence in the hallway stretched out for several agonizing seconds. But instead of the familiar sound of Dad's heavy boots retreating down the stairs, a different sound bled through the wood.
+
+It was Mom’s voice, hushed but undeniably tense.
+
+"Tom, just let it go for tonight," Mom murmured. Her tone wasn't the dismissive, patronizing voice she had used in the car. It sounded strained. It sounded like the absolute certainty of her parenting logic had finally developed a hairline fracture.
+
+"I'm not going to let them lock us out of rooms in our own house, Ellen," Dad snapped back, keeping his voice low but failing to mask his irritation. "They're being dramatic. They need to learn that they can't just throw a tantrum every time a class gets physically demanding."
+
+"But what if it wasn't just a tantrum?" Mom asked, the doubt in her voice bleeding through the door frame. "Tom... you didn't see the way Rachel was crying in the car. I've never seen her break down like that. Not over a drill. Jessica said he lingered on them. Maybe... maybe we should actually listen to the kids. Maybe we should look at them."
+
+My heart hammered against my ribs. I stopped breathing entirely, straining to hear the exchange. Mom was actually questioning it. The impenetrable, united front of the adults was cracking.
+
+Dad let out a sharp, dismissive scoff that vibrated with absolute blue-collar arrogance.
+
+"Listen to yourself, Ellen," Dad argued, his ego completely incapable of admitting he might be wrong. "You're going to make them soft. Master Curtis knows exactly what he's doing. If we coddle them now, they are never going to survive in the real world. They are just trying to manipulate you because they didn't get their way. I'm not entertaining it."
+
+"I'm just saying, Tom, if he actually hurt them—"
+
+"He didn't hurt them! It's karate!" Dad interrupted, his temper finally flaring. "If you want to go in there and baby them, fine. But I'm not raising quitters."
+
+The heavy, frustrated thud of Dad's boots echoed as he turned around and marched away, heading down the hallway and heavily descending the wooden stairs.
+
+A heavy, oppressive silence rushed back into the space outside our door.
+
+We waited. I stared at the sliver of yellow light underneath the door, wondering if Mom was going to knock again. I wondered if she was going to ask us to unlock it so she could finally pull up our shirts and see the angry, red bruises for herself.
+
+But she didn't.
+
+After a few seconds, her softer footsteps slowly shuffled away, retreating toward the master bedroom. She had doubted the system, but she didn't have the strength to actively fight Dad on it. She chose the path of least resistance.
+
+Up on the top bunk, Jessica let out a long, shaky exhale.
+
+"They have no idea," Jessica whispered into the dark room, her voice a mixture of profound sadness and cold realization. "They have absolutely no idea what they are doing to us."
+
+I rested my cheek against Rachel's hair. Our parents had just fought over our pain, and the house had subtly, irrevocably shifted. The unified authority of Tom and Ellen Ragsdale was officially broken. It was a tiny, almost imperceptible seed of division, but lying there in the fading twilight with my tearing stomach and my terrified little sister, I knew the truth.
+
+The Delaney Street house was no longer a home. It was just a building where we happened to sleep. The boundary lines of our world had been completely redrawn. From this moment forward, the only people we could ever truly rely on were the ones who hadn't doubted us for a single second—the three of us locked inside this room, and our cousin Janette, whose fierce, protective embrace back on the observation deck proved she was permanently part of our pack.
+
+The adults who were supposed to protect us had failed, but we had each other.
+
+

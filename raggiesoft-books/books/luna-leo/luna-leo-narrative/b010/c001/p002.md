@@ -1,0 +1,48 @@
+# Part 2: American Literature
+
+The classroom in the Martin Building was a standard college classroom, built for about 30 students, with tables arranged in rows facing a large whiteboard. The fortress twins found an accessible spot near the front, giving Leo ample room for his wheelchair. As other students filed in, a middle-aged professor with kind eyes and a tweed jacket entered and began arranging his notes on the table at the front.
+
+Luna, taking a deep, steadying breath, wheeled Leo to the front of the room before the professor began. "Excuse me, Professor?" she began, her voice quiet but clear.
+
+The professor looked up with a warm smile. "Yes?"
+
+"Hi, I'm Luna Porter, and this is my brother, Leo," she said. "We just wanted to give you our academic accommodation sheets from the disability services office." She handed him two folded documents. "The sheets explain our needs, but I also wanted to let you know that I'm his designated caregiver, so I'll be sitting with him to provide any assistance he might need during class".
+
+"Thank you, Luna. I appreciate you bringing this to me directly," the professor said, his gaze shifting to Leo with a respectful and welcoming smile. "Leo, it's a pleasure to have you both in my class."
+
+Leo offered a small, shy smile and a nod in return. The professor's easy acceptance was a small but significant relief.
+
+They returned to their seats just as the class officially began. The professor introduced himself and launched into a review of the syllabus. "This is American Literature, from the Colonial period to the Civil War," he announced. "We'll be exploring a wide range of voices that shaped the early American identity. We'll be starting with the works of Anne Bradstreet and John Smith, moving through the revolutionary fervor of Thomas Paine, delving into the complexities of Nathaniel Hawthorne's *The Scarlet Letter*, and spending significant time with the transcendentalists like Emerson and Thoreau."
+
+Leo listened, a flicker of genuine interest cutting through the fog of his grief. He had always enjoyed history, and this sounded fascinating.
+
+After going over the course requirements, the professor clapped his hands together. "Alright, before we dive in, let's do a quick get-to-know-you session. Just tell us your name, where you're from, and maybe your favorite book."
+
+A wave of anxiety immediately washed over Leo. He was still visibly upset, and the thought of having to "speak" in front of a room full of strangers was daunting. He instinctively reached for his Quantum Communicator, his hands trembling slightly.
+
+Luna, sensing his panic, leaned in. "It's okay," she whispered, her presence a small, solid anchor. "Just take your time. You've got this."
+
+She couldn't completely erase his fear, and she could only help him so much in this public setting. As students around them began to introduce themselves, Leo focused on his screen, slowly and carefully typing out the simple sentences he would need, his heart pounding with a nervous dread that was a mixture of social anxiety and the raw, ever-present ache of his broken heart.
+
+The "get to know you" session moved alphabetically around the small classroom. Leo's anxiety grew with each student's turn. Finally, the professor smiled in their direction. "Porter... Leo?"
+
+It was his turn. He hoped that what he had typed on his AAC would be good enough. His heart pounded as he took a deep breath and pressed the play button. The clear, synthesized voice filled the quiet classroom.
+
+"HELLO. MY NAME IS LEO PORTER. I AM FROM VIRGINIA BEACH. I LIVE WITH MY TWO SISTERS, STELLA AND LUNA. MY INTERESTS ARE CLASSIC ROCK MUSIC, ESPECIALLY THE BAND ORIGIN, AND COMPUTERS. MY BEST FRIEND LIVES IN WASHINGTON STATE NOW. I MISS HER VERY MUCH. THANK YOU."
+
+The raw, honest sadness in his final sentences hung in the air for a moment. The professor's kind expression softened with a deep, compassionate understanding. "Thank you, Leo," he said gently. "We're very glad to have you with us." He then looked to Luna. "And... Porter, Luna?"
+
+Luna gave her brother's arm a quick, supportive squeeze before speaking, her own voice clear and warm. "Hi, I'm Luna Porter. As Leo said, we're from Virginia Beach, and I'm his twin. I guess my favorite book is probably *The Stand* by Sebastian Crowe. I also love Origin, and I play the tenor saxophone and the flute".
+
+"Excellent," the professor said with a nod, making a note. "A family of musicians, then. Welcome, Luna." He then moved on to the next name on his list, the get-to-know-you session continuing its steady, alphabetical march around the room.
+
+After the last student had spoken, the professor glanced at the clock on the wall. "Alright, that takes care of our introductions. With the little time we have left today, let's briefly touch on one of the core themes we'll be exploring this semester: the concept of the 'American Adam'—the idea of the individual remaking themselves in a new, untamed world, free from the constraints of European history."
+
+He began to speak about the Puritan struggle to build a "city on a hill" and the conflicting ideals of rugged individualism versus communal survival that defined early colonial writing. Luna, an avid reader, was immediately engaged, leaning forward and taking diligent notes.
+
+Leo tried to focus. The professor's words were interesting, and he found small moments of intellectual connection, but his mind kept drifting. Every mention of a "new world" or a "journey" was a painful echo of his own recent, heartbreaking journey. He would listen for a few minutes, then his gaze would drift to the window, his thoughts 3,000 miles away in Washington State.
+
+The professor glanced at the clock on the wall, his lecture winding down. "And that's our time for today," he announced, gathering his notes. "For next class, please read the assigned selections from Anne Bradstreet. Have a great first day, everyone."
+
+Students began to gather their bags, the rustling of backpacks and the scraping of chairs the only signal that the period was over. The class was over. They had survived their first shared academic hurdle, but for Leo, the long, lonely day was just beginning.
+

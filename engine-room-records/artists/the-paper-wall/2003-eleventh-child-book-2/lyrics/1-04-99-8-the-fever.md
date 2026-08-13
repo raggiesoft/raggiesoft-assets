@@ -1,0 +1,91 @@
+# 99.8 (The Fever)
+
+**LORE NOTE:**
+This track highlights the lingering, practical consequences of Aubrie Sinclair's medical and emotional neglect. Jordan wakes up feeling unwell and discovers he has a low-grade temperature of 99.8°F. To a typical young adult, this is a minor inconvenience easily solved with over-the-counter medication. But because his mother deliberately weaponized his dependency by never teaching him basic self-care, health literacy, or how to handle minor illnesses, Jordan spirals into a panic. He views this slight fever as a catastrophic system failure. The "very preventable problem" is simply his lack of knowledge on how to take a Tylenol and drink fluids. The track resolves with his chosen family gently stepping in, not just to care for him, but to teach him the basic medical protocols he was maliciously denied.
+
+**LYRICS:**
+
+(Intro)
+(A woozy, slightly off-kilter synth loop. A rhythmic, sluggish bassline mimicking a slightly elevated, heavy heartbeat.)
+
+(Verse 1)
+(Vocals are groggy, confused, and anxious)
+My skin is hot, my joints are tight
+I couldn't sleep at all last night
+I found the plastic in the drawer
+The little screen, the numbered score
+It beeps a tone I do not know
+A flashing warning, pulsing slow
+My system's running hot and strange
+A biological, frightening change
+
+(Pre-Chorus)
+I don't have the manual, I don't have the code
+I'm breaking down on this familiar road
+She kept me blind, she kept me weak
+I don't know the words to speak...
+
+(Chorus)
+(The music swells with a dizzy, anxious energy)
+Ninety-nine point eight!
+Is it a crisis or a glitch?
+I'm staring at the numbers
+And my hands begin to twitch
+A preventable disaster
+A simple, stupid flaw
+Because she never taught me
+The most basic human law!
+I'm burning up in ignorance
+A system left to fail
+Trapped inside this feverish jail!
+
+(Verse 2)
+Do I need a doctor? Do I need to call?
+Am I going to crash against the wall?
+It's just a little number, but it feels so vast
+A phantom from my isolated past
+If she were here, she'd take control
+And charge a heavy, heavy toll
+She'd make me beg for medicine
+And let the helplessness sink in
+
+(Pre-Chorus)
+I don't have the manual, I don't have the code
+I'm breaking down on this familiar road
+She kept me blind, she kept me weak
+I don't know the words to speak...
+
+(Chorus)
+Ninety-nine point eight!
+Is it a crisis or a glitch?
+I'm staring at the numbers
+And my hands begin to twitch
+A preventable disaster
+A simple, stupid flaw
+Because she never taught me
+The most basic human law!
+I'm burning up in ignorance
+A system left to fail
+Trapped inside this feverish jail!
+
+(Bridge)
+(The dizzy music slows down, stabilizing into a warm, gentle acoustic pattern)
+Then Aubrie knocks upon the door
+A glass of water, nothing more
+Two little pills, a gentle hand
+She helps me finally understand
+(Spoken, softly)
+"It's just a little fever, Jordan."
+"You just take these, drink this, and rest."
+"You're not breaking down. You just need a patch."
+
+(Outro)
+(The music is calm, steady, and soothing)
+Ninety-nine point eight...
+Just a little glitch...
+Two little pills...
+A simple, easy switch...
+I'm learning how to fix myself.
+I'm learning how to heal.
+System stabilizing...
+Resting...

@@ -1,0 +1,8 @@
+# Part 2: The Justification
+
+James Miller, recognizing both the legitimacy of the problem and the brilliance of his son's solution, knew exactly how to frame it for the insurance company. He drafted a formal letter, co-signed by Alex's AP Physics teacher, requesting a complete "Legacy Software Compatibility Package."
+
+The letter was a masterpiece of "insurance-speak." It argued that, to access his mandated curriculum, Alex required not just the Kinesis Virtual Engine virtualization software, but also licensed installation media for two legacy operating systems: Quantum OS 98 Second Edition (to run his 32-bit school software) and Quantum OS for Workgroups 3.11(running on top of MS-DOS 6.22, for any truly ancient 16-bit educational tools the school might still use).
+
+The package was approved.
+

@@ -1,0 +1,64 @@
+# Part 14: The Filing
+
+## Date: November 14, 2004, Time: 2:50 PM, Location: Braxton State Campus Police Station
+
+Sergeant Miller watched the footage on the monitor. He saw the grainy image of Kyle cornering Nichole. He saw the hand on the thigh. He saw Patrick’s strike.
+
+He hit pause on a clear shot of Kyle’s face as he recoiled from the hit.
+
+"We don't have swipe logs for that room," Miller muttered, tapping the desk. "It's open access."
+
+"He's wearing a varsity jacket," Patrick pointed out. "Maroon and Gold. Letter 'B' on the chest. And a thick gold chain."
+
+Miller leaned in, squinting at the screen. He grunted.
+
+"Yeah, I see it. Distinctive."
+
+Miller hit the 'Print' button on the console. A grainy black-and-white still of Kyle’s shocked face slid out of the printer.
+
+"This is a small campus, Ms. Bennett," Miller said, picking up the photo. "A guy wearing a jacket like that, acting like he owns the place? He's probably sitting in the cafeteria right now bragging to his buddies about how 'crazy' you guys were."
+
+He pinned the photo to his clipboard.
+
+"I don't need a door log," Miller said confidently. "I'll have two officers do a walk-through of the Union and the Dining Hall with this picture. We'll have him in custody within the hour."
+
+He looked at Nichole.
+
+"Ms. Bennett," Miller said respectfully. "We have enough here to press charges based on the video alone. We can also refer this to the Dean of Students for immediate expulsion proceedings. What is your preference?"
+
+Nichole typed. She didn't hesitate.
+
+BOTH.
+
+I WANT THE TAPE SAVED.
+
+I WANT HIM EXPELLED.
+
+I WANT HIM TO KNOW THAT I AM NOT A TOY.
+
+Miller ripped the report sheet off the pad. He stamped it PRIORITY.
+
+"Done," Miller said. "I'm sending the patrol out now. We'll pick up 'Varsity Jacket' before he finishes his lunch."
+
+Patrick put his hand on Nichole’s shoulder.
+
+"Thank you, Sergeant," Patrick said.
+
+Miller stood up, buckling his belt. "No. Thank her. Most people walk away. She's making sure he doesn't do it to the next girl."
+
+Nichole looked at the Sergeant. She tapped her armrest twice. Acknowledged.
+
+They turned to leave.
+
+As they rolled out of the station, the sun was starting to set. The air was cool.
+
+Nichole took a deep breath. The smell of the police station—floor wax and coffee—was infinitely better than the smell of musk and burning plastic.
+
+She typed one last thing for Patrick to see.
+
+CLEAN NOW.
+
+Patrick smiled. It was a fierce, proud smile.
+
+"Yeah," Patrick said. "Clean."
+

@@ -1,0 +1,34 @@
+# Part 3: The Peak of the City (2010)
+
+Sunday morning began with a smooth, practiced efficiency. The three of them checked out of their Surrey hotel, loaded their weekend bags into the van, and drove the short distance back to the Scott Road SkyLink Station. After parking their car for the day, they were back on the MVTA system, ready for a day focused on the mountains that form a majestic backdrop to the city.
+
+Their journey was a multi-stage transit adventure. They took the SkyLink to the bustling, fully accessible Waterfront Station, then followed the signs for the Harbour Ferry. The ferry, a wide, stable catamaran, offered them a stunning view of the city skyline and the iconic sails of Canada Place as it zipped across the Burrard Inlet.
+
+"This is way better than driving," Megan said, her face pressed against the window like an excited tourist. "Look at that view!"
+
+On the other side, at Lonsdale Quay, they made a seamless transfer to an accessible bus that wound its way up through the hills of North Vancouver. Their first stop was the "Lynn Canyon Salmon Hatchery." They spent an hour there, fascinated. It was a perfect research opportunity. Alex took dozens of photos, his mind already designing a potential salmon run exhibit for their own future centre.
+
+Their final destination was the main event. The bus dropped them at the base of "Summit Peak." They boarded the Skyride, a large aerial tramway that offered a breathtaking, panoramic journey up the steep mountainside. Below them, the dense green of the Douglas firs stretched out, and the city and ocean grew smaller and more spectacular with every foot they climbed.
+
+At the summit, the air was crisp and cool. The view was even more stunning than from Mount Royal in Montréal. But their main goal was the Grizzly Bear Refuge. In a large, protected, and naturalistic habitat, they watched two massive grizzly bears, Grinder and Coola, foraging and playing. They stood for a long time, observing the bears and studying the design of the ethical enclosure. It was direct, powerful inspiration for the kind of large-scale, respectful habitats they dreamed of building.
+
+As the afternoon began to wane, they took the Skyride back down the mountain, their minds buzzing with new ideas. They retraced their path—bus, Harbour Ferry, SkyLink—arriving back at their car in Surrey as the sun began to dip towards the horizon.
+
+They joined the line of cars for the U.S. border, the queue moving slowly through the manicured lawns and flowerbeds of Peace Arch Park. As they waited, Alex looked out the window at the grand white arch and the people strolling freely across the invisible border line within the park's boundaries.
+
+WE DROVE RIGHT THROUGH A PARK TO GET TO THE BORDER, his AAC device commented.
+
+"I know," Chloé said, a note of wonder in her voice. "It's the Peace Arch International Park. We should make a separate trip just to come here sometime. We could have a picnic with one foot in Canada and one in the U.S."
+
+"I am so in for that," Megan added.
+
+I’D LIKE THAT, Alex voiced, and they all smiled at the thought of a future, simpler adventure.
+
+When they finally pulled up to the U.S. CBP booth, the officer was professional and efficient. As required, all three of them presented their U.S. passports and NEXUS cards. The officer asked them what they were bringing back from Canada.
+
+"Just some smoked salmon we bought at the Granville Island Market," Chloé replied, "and about a thousand ideas."
+
+The officer just nodded, the declaration of smoked salmon being a common one at this particular crossing. He waved them through. They drove south on I-5, back towards Lynnwood, the successful weekend trip a solid, foundational pillar for the new, shared dream they were now more determined than ever to build.
+
+
+

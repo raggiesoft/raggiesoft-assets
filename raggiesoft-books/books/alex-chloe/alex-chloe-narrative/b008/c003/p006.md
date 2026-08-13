@@ -1,0 +1,10 @@
+# Part 6: Vera's "Rescue" Mission
+
+The video call with Chloé left Alex with a profound, secret hope. For the first time in months, he had a concrete, tangible end date for his misery: Christmas break. The knowledge that Chloé was coming home for good was a small, bright flame he carefully guarded in the cold landscape of his life with Vera.
+
+He became a better actor. He was more placid, more agreeable. He was counting down the days. Vera, completely unaware of the real reason, misinterpreted his newfound calm. She saw it as proof that *her* influence was finally working, that she was successfully "rescuing" him from the poison of his loneliness and the lingering influence of his "mousy" friend.
+
+This perceived success fed her own toxic need. She didn't just want him; she believed she *needed* him to be whole. Her mission to "fix" his life, to make him hers completely, intensified. The sexual encounters, which had become a frequent, transactional part of their relationship, now became an almost daily occurrence. For Vera, it was a tool of control, a physical reaffirmation of her ownership. For Alex, it was a miserable, hollow act he endured to keep the peace, to avoid an argument, to simply get through one more day until Chloé came home.
+
+He was miserable, but Vera saw a happier, more compliant boyfriend. She didn't know his quiet smiles were because he was thinking of Chloé's CCHR schedule. She didn't know his calm was the patience of a prisoner waiting for a liberation he knew was coming. She saw a victory, and decided it was time for the final, grand gesture of her "rescue."
+

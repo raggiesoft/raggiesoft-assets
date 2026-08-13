@@ -1,0 +1,10 @@
+# Part 3: Waiting Game
+
+Luna carefully inserted the metal key into the lock of Room 112 and pushed the door open. They maneuvered inside the functional, if basic, accessible motel room. True to Stella's instructions, Luna immediately propped the door open with the security latch, leaving a wide gap, and checked that the blinds on the single window were pulled fully open, revealing the gravel parking lot outside.
+
+The room contained two double beds. They wordlessly chose the one closer to the window, and Luna dropped their shared overnight bag onto the worn floral bedspread. Leo positioned his wheelchair beside the bed, and Luna climbed on, sitting sideways. Leo then carefully transferred himself from his chair onto the bed beside her.
+
+Wanting to be close after the long day and surrounded by the unfamiliarity of the motel, Luna shifted, settling comfortably onto Leo's lap as he sat leaning against the headboard. His arms instinctively came around her waist, fingers lacing together gently in front of her. It was a familiar, grounding position for both of them.  
+
+Reaching into her nearby instrument case, Luna retrieved her tenor saxophone. While they waited for Stella, she began to play, not loudly, but softly – improvising a gentle, meandering tune. (This tune would evolve over the years into her senior project, arranged for tenor sax and Leo's modified xylophone, performed at the spring concert.) The soft notes of the saxophone filled the small room, a peaceful counterpoint to the distant sounds of the highway outside the open window and the band members settling into other rooms. They sat there together, Luna playing quietly, Leo holding her close, patiently waiting for Stella in the slightly-too-public intimacy mandated by the band trip rules.
+

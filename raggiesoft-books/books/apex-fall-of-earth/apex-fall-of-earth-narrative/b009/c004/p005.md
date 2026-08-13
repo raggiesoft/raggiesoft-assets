@@ -1,0 +1,50 @@
+# Part 5: The Detox – Wednesday, June 17, 2071 – 21:30 (Local Eden Time)
+
+The Main Residence of Genesis Village was a sprawling, beautifully constructed timber lodge that sat right on the bend of the rushing river. It was loud, lived-in, and currently shared by Jack, Molly, Claire, and Willow.
+
+Tonight, however, it was incredibly quiet.
+
+Jack Colton was sitting alone on the back deck, his long legs stretched out in front of him, staring at the dark water churning under the light of the moons. A half-empty mug of synthesized chamomile tea was growing cold on the railing next to him.
+
+The adrenaline of the confrontation on Guest Cabin Four’s porch had completely evaporated, leaving behind a heavy, bruised exhaustion.
+
+He didn't miss Sloane. The second she had dropped her fragile mask and tried to leverage a sexual encounter to isolate him from his family, his profound empathy had instantly turned to cold, repulsed granite. But he was deeply frustrated with himself. As the designated diplomat of Planet Eden, his entire job was to read people. And he had let a syndicate grifter play him like a cheap violin for two straight days.
+
+The sliding glass door behind him opened with a soft *swish*.
+
+Thirteen-year-old Willow stepped out onto the deck. She was wearing oversized flannel pajama pants and a t-shirt, her dark hair completely loose and falling over her shoulders. She didn't say anything at first. She just walked over to the wooden bench, sat down right next to him, and bumped her shoulder firmly against his bicep.
+
+Jack let out a long, slow exhale, leaning his head back against the timber siding. He bumped her shoulder back.
+
+"You shouldn't beat yourself up over it, you know," Willow said quietly, her thick Sydney vowels soft in the night air. She pulled her knees up to her chest, looking out at the river. "She was a professional liar, Jack-Jack. It’s literally how she made her living. You didn't do anything wrong by trying to help someone who looked like she was dying."
+
+"I let her into the perimeter, Willow," Jack murmured, his voice laced with heavy self-reproach. "Ellie knew it the second she looked at her. Molly and Claire figured it out in an hour. But I was so busy feeling sorry for her that I completely missed the fact that she was a parasite."
+
+He picked up his cold tea, tracing the rim of the mug.
+
+"When she realized I wouldn't stay in her cabin... she tried to buy me," Jack said, a distinct note of disgust entering his melodic voice. "She offered herself like it was a transaction. And when that didn't work, she immediately tried to convince me to steal a ship and abandon all of you."
+
+He shook his head, staring at the dark water. He thought about the historical case studies Aria had made him read—Leo Porter and Alex Miller. Men who had been hollowed out by toxic partners who actively severed their ties to the people who loved them.
+
+"I've never felt toxicity like that before," Jack whispered. "It felt like breathing exhaust."
+
+Willow turned her head, her dark eyes locking onto his profile. Even at thirteen, she possessed an emotional intelligence that perfectly matched his own.
+
+"But you didn't choke on it," Willow pointed out, her voice fiercely proud. "You recognized it, and you cut her off. You didn't let her isolate you. You looked right at her, and you chose us."
+
+Jack finally turned to look at her. He looked at the girl who had refused to let go of his finger on the day she was decanted. She wasn't asking for anything from him. She wasn't trying to manipulate his empathy. She was just sitting in the dark with him, making sure he was okay.
+
+The heavy, suffocating weight of Sloane's betrayal finally washed out of Jack's chest, replaced by the profound, grounding gravity of his real family.
+
+"I will always choose you guys," Jack promised, his voice dropping into a soft, absolute vow. "Always."
+
+Willow smiled, a brilliant, completely genuine expression that reached all the way to her eyes. She reached out, playfully knocking her knuckles against his knee.
+
+"Good," Willow declared confidently. "Because if you'd run off with that total drongo, Molly and Claire would have tracked you down, and Ellie would have dragged you back by your ears. You're stuck with us, mate."
+
+Jack let out a sudden, loud laugh, the tension completely shattering. He reached over, wrapping his massive arm around her shoulders and pulling her into a tight, affectionate side-hug.
+
+"I wouldn't have it any other way, wild sparrow," Jack grinned, resting his chin on the top of her head.
+
+They sat together on the deck for a long time, listening to the rushing water of the Genesis River. The toxic refugee was gone, banished back into the cold vacuum of space, and the prince of Eden was exactly where he belonged.
+

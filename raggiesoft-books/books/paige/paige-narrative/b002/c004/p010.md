@@ -1,0 +1,68 @@
+# Part 10: The False Start
+
+## 19:15 PM (End of First Quarter)
+
+The first fifteen minutes of the game were not a sporting event. They were an execution of physics.
+
+The Tallahassee State Renegades, ranked number four in the nation, had walked onto the field expecting a football game. Instead, they had walked into a sonic weapon.
+
+"Watch the line!" Jessica screamed, pointing a gloved finger at the Renegades' offensive tackle. "He can't hear the snap count! He's vibrating!"
+
+On the field, the Renegades' quarterback was frantically clapping his hands, trying to signal his center. But the noise from the North End Zone—where Jessica, Paige, and Freddie stood—was a physical wall of sound.
+
+*False Start, Number 76, Offense.*
+
+The referee’s voice was barely audible over the roar of delight from the crowd.
+
+"That’s five yards!" Jessica yelled, high-fiving the silver-painted student next to her. "The Machine is eating them alive!"
+
+Freddie watched the game through the tunnel of his orange hood. With the earplugs dampening the chaos into a dull roar, he wasn't overwhelmed. He was fascinated.
+
+He saw the game not as violence, but as a complex, real-time algorithm. The players moved in vectors. The ball followed a parabolic arc. The collision of the defensive line was a transfer of kinetic energy.
+
+"It is... chess," Freddie shouted to Paige. "But with momentum."
+
+"It's a ground war," Paige shouted back, gripping his arm as the play started.
+
+## The Drive
+
+CPI didn't play flashy football. They played "Ironhead" football.
+
+On offense, they didn't throw long, spiraling passes. They ran the ball. Again. And again. And again. It was a mechanical, grinding advance—three yards, four yards, three yards. First down.
+
+"It is inefficient," Freddie critiqued after a short run. "The aerial route offers lower resistance."
+
+"No," Jessica corrected, leaning down. "It’s attrition, Freddie. We wear them down. We grind the steel until it breaks. Look at their defense. They’re hands on their hips. They’re gasping. The altitude is killing them."
+
+## The Turnover
+
+With 4:00 left in the first quarter, the Renegades tried to speed up. Their quarterback dropped back, looking for a deep pass to silence the crowd.
+
+But the CPI defensive end—a massive senior majoring in Civil Engineering—broke through the line. He didn't just tackle the quarterback; he dismantled the pocket.
+
+*CRUNCH.*
+
+The ball popped loose. It bounced on the turf like a chaotic variable.
+
+A maroon jersey fell on it.
+
+The stadium didn't just cheer. It detonated. The "Anvil" noise meter on the Jumbotron redlined and shattered the graphic glass.
+
+## The Score
+
+CPI capitalized instantly. Three plays later, their running back found a hole in the Renegades' defensive line and powered into the end zone.
+
+The cannon in the South End Zone fired. *BOOM.*
+
+The band struck up *Ignition*.
+
+Freddie found himself stomping again. *TING-THUD.*
+
+As the quarter ended, the scoreboard told a story that the sports analysts on TSN hadn't predicted:
+
+**CPI FORGERS: 10** **TALLAHASSEE ST: 0**
+
+"We have the advantage," Freddie stated, looking at the data. "The probability of an UDSet is increasing."
+
+"You're damn right it is," Jessica grinned, wiping sweat from her forehead despite the freezing temperatures. "Welcome to the Iron City, Renegades. We're just getting warmed up."
+

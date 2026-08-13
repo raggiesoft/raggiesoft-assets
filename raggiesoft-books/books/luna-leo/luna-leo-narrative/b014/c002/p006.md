@@ -1,0 +1,98 @@
+# Part 6: The Jurisdiction Trap
+
+## December 15, 2006 8 Ocean View Lane - Living Room 11:30 PM
+
+The fire was crackling. Sarah sat on the sofa, flanked by Amanda and Luna. She was trembling, waiting for the inevitable explosion.
+
+It came from Officer Miller’s shoulder radio.
+
+BEEP-SQUAWK.
+
+"Dispatch to One-Alpha."
+
+Miller pressed his lapel mic. "Go ahead, Marge."
+
+"I have a Robert Halloway on the line from Ohio," Marge said. Her voice was tense. "He is... agitated. He is reporting the kidnapping of his daughter, Sarah Halloway. He claims he tracked her phone to your current location before the signal died. He is demanding we kick down the door."
+
+Sarah flinched. She buried her face in her hands.
+
+Officer Miller didn't move toward the door. He didn't reach for his gun. He looked at the notarized document on the coffee table—the Voluntary Statement of Adult Status.
+
+"Dispatch," Miller said calmly, his voice filling the silent living room. "Advise Mr. Halloway that the subject is located. She is Code 4. Safe and sound."
+
+"He says she isn't safe," Marge relayed, her voice dropping an octave as if quoting a madman. "He says she is mentally unstable. He says she is incompetent and being held against her will by a cult."
+
+Stella snorted from her armchair. "A cult of engineers? That’s a new one."
+
+Judge Silas Miller stood up.
+
+He had thrown his heavy black Judicial Robe back over his flannel pajamas and slippers. It was a ridiculous image, but his face was terrifyingly serious. He looked like a wizard preparing for battle.
+
+He walked over to his nephew. He gestured to the document.
+
+"Read it, Dave," the Judge rumbled. "Read it into the official log. Let him hear the law."
+
+Officer Miller keyed his mic.
+
+"Dispatch, I am looking at a sworn affidavit signed by Sarah Halloway, witnessed by myself and Judge Silas Miller. Quote: 'I am of sound mind and legal age. I am residing at 8 Ocean View Lane of my own free will. I am severing contact with Robert Halloway due to a history of electronic stalking and emotional abuse. Do not release my location.' End quote."
+
+There was a long pause on the radio.
+
+"Copy that, One-Alpha," Marge said. "I will relay verbatim."
+
+## The Counter-Move
+
+A moment later, Marge came back. Her voice was different now—officious and cold.
+
+"Mr. Halloway states that the affidavit is invalid because his daughter is mentally incompetent. He states he is booking the next flight from Cincinnati (CVG) to BCI Airport. He intends to file an Emergency Guardianship Petition to take custody."
+
+Sarah let out a sob. "He's coming. He's going to say I'm crazy. He did it to my mom."
+
+Leo looked at Sarah. He knew that threat. Incapacity. It was the weapon they used to strip you of your humanity.
+
+He tapped his Quantum Communicator.
+
+"HE IS BRINGING CHAINS."
+
+Judge Miller walked to the center of the room, his black robe swirling around his pajama pants. He looked at the radio. He looked at the snow falling outside.
+
+"Let him come," Judge Miller said, speaking to the room, but aiming his voice at the invisible man in Ohio.
+
+He turned to Sarah.
+
+"Sarah, listen to me. If he wants to declare you incompetent, he has to do it here. You are physically in Iron Point. That makes you my resident."
+
+The Judge’s eyes narrowed behind his spectacles.
+
+"He thinks he can fly in here with a lawyer and bully a small-town court? He thinks he can prove that an Engineering Honor Student at BSU is 'incompetent' just because she turned off her phone?"
+
+He laughed. It was a dry, hard sound.
+
+"I dare him," Miller growled. "I dare him to file that motion in my court. I will tear his case apart piece by piece. I will appoint a Guardian Ad Litem who will interview you, not him. And when we prove he's filing false motions to harass a protected woman?"
+
+He looked at Stella.
+
+"We'll hit him with sanctions so hard he'll have to sell his house in Ohio to pay your legal fees."
+
+Stella smiled. It was the smile of the General seeing the enemy march into a minefield.
+
+"You heard the Judge, Sarah," Stella said. "He's walking into a trap. Let him fly to BCI. Let him take the train. Let him file. We have the high ground."
+
+## The Resolution
+
+Officer Miller keyed his mic one last time.
+
+"Dispatch, advise Mr. Halloway that this matter is civil, not criminal. If he steps foot on this property, he will be arrested for criminal trespass. If he wants to file paperwork, the Probate Court opens at 9:00 AM Monday."
+
+"Copy, One-Alpha. Relaying. Have a good night."
+
+The radio went silent.
+
+Sarah looked up. She looked at the Judge, who was adjusting his robe. She looked at Leo, who was nodding in approval.
+
+She wasn't a fugitive anymore. She was a Defendant in a court that was already on her side.
+
+"HE IS COMING," Leo typed. "BUT THE FORTRESS IS READY."
+
+"Let him come," Sarah whispered, wiping her eyes. "I'm not going back."
+

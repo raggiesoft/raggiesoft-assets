@@ -1,0 +1,104 @@
+# Part 7: The Textbook Run
+
+## August 22, 2006 BSU Bookstore - Main Level 03:35 PM
+
+The Bursar's office had been quiet, but the Bookstore was a war zone.
+
+The line for the "Textbook Counter" snaked through the aisles of sweatshirts and mugs. This wasn't a browse-and-shop situation; it was a supply depot. You handed your schedule to a runner, they disappeared into the warehouse stacks, and they came back with your "mandatory" materials.
+
+Stella took point. She collected all four schedules.
+
+"I'll handle the retrieval," Stella said. "You guys guard the perimeter."
+
+She waited in line for twenty minutes. When she finally reached the counter, she handed over the stack of papers.
+
+The runner, a frazzled Sophomore, looked at the combined load.
+
+- Freshman Engineering Block (Leo)
+
+- Conservatory Core (Luna)
+
+- Sociology/Urban Planning (Olivia)
+
+- Grad Business (Stella)
+
+- FR-Q 101 (Everyone)
+
+"I'm gonna need a cart," the runner sighed.
+
+Ten minutes later, he returned. He slammed three massive stacks onto the counter.
+
+- **Leo’s Stack:** Huge. *Calculus III* (heavy), *Physics for Engineers* (heavier), and a *Structural Analysis* book that looked like a cinder block. Plus the French text.
+
+- **Luna’s Stack:** *Music Theory* (spiral bound but thick), *History of Western Music* (massive), and French.
+
+- **Olivia’s Stack:** *Social Theory*, *Urban Design*, *Research Methods*, and French.
+
+- **Stella’s Stack:** One slim paperback: *Advanced Information Systems*. And her French book.
+
+Stella paid. The total was astronomical, but she didn't blink.
+
+## The Logistics
+
+They walked/rolled away from the register with heavy plastic bags digging into their hands.
+
+"This is heavy," Luna groaned, shifting her bag to her other shoulder (away from her flute arm).
+
+Leo looked at his own bag. It weighed at least thirty pounds.
+
+He sat in his **Titan X-Treme**. He had a lap, but he also had a joystick. He placed the heavy bag on his thighs. The bag slid. It hit the joystick. The chair lurched forward.
+
+Leo grabbed the joystick to stop. The bag slid the other way, threatening to fall into his wheels.
+
+He stopped. He looked at the bag. He looked at the chair.
+
+*"POOR DESIGN,"* he typed on his Scribe with one hand, holding the books with the other. *"NO CARGO BAY."*
+
+"Here," Olivia said, taking the heavy bag from him. "I'll carry it. You just drive."
+
+Leo frowned. He hated being the one who couldn't carry his own weight. He was in a \$28,000 machine that could climb a curb, but it couldn't hold a book?
+
+*"INEFFICIENT,"* he typed. *"I AM A TANK WITHOUT A TRUNK."*
+
+"We'll figure it out," Stella said. "For now, let's get these to the station. I'm starving."
+
+## 04:15 PM Narraganset Esplanade Station - Level 1 (Concourse) The Food Court
+
+They took the elevator down to the station's lower level. Unlike the gourmet "Blue Horizon" at the Aquarium, this was a commuter food court: Pizza, Burritos, and a generic Burger stand.
+
+It was crowded with students and commuters waiting for the evening trains.
+
+"Quick dinner," Stella decided. "We have too much cargo to sit for long."
+
+They grabbed a table near the fountain. They piled the bags of books in the center, creating a fortress of knowledge.
+
+Leo ate his burger with one hand, his eyes fixed on the back of his wheelchair. He was mentally measuring the frame rails. He was looking at the empty space between the seat back and the battery cover.
+
+*There is room,* he thought. *Vertical storage. Hard points for mounting.*
+
+He looked at the stack of engineering books.
+
+*If I build a bracket... aluminum... 6061 alloy...*
+
+He pulled out his Scribe. He didn't type a sentence. He opened the **Drawing** app. He started sketching a rough diagram of a rear-mounted cargo rack.
+
+"What are you building?" Luna asked, dipping a fry in ketchup.
+
+*"A BACKPACK,"* Leo typed. *"FOR THE CHAIR."*
+
+"Smart," Olivia said. "Save your lap for lunch."
+
+## The Commute Home
+
+They finished eating and headed up to **Level 3** for the **South Shore Line**.
+
+The train was busy—the beginning of the evening rush. They found a four-seater table, but with the bags of books, it was a tight squeeze.
+
+As the train accelerated toward Iron Point, Leo watched the coastline blur by. He felt the weight of the books next to him.
+
+The "First Year" hadn't even started yet, and he already had his first engineering project. He wasn't going to let Olivia carry his books forever.
+
+*"NEXT STOP: THE SHOP,"* he thought.
+
+The train rattled on, carrying the students, the musician, the protector, and the engineer toward the home they had built. The semester was about to begin.
+

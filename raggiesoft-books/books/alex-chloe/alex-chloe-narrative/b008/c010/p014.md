@@ -1,0 +1,66 @@
+# Part 14: A Grocery Store Guardian (Winter Break 2003)
+
+The aisles of the grocery store were bustling with post-holiday shoppers. Alex, navigating his wheelchair, and Chloé and Megan, sharing duties pushing their nearly full cart, were discussing a grocery list with Emily and Sophie. James and Thomas were a little further down the aisle. It was a comfortable, mundane family outing.
+
+As they rounded the end cap into the snack aisle, a group of rowdy younger teenagers – clearly freshmen from their new Northwood High sweatshirts – came barreling around the corner. One of them, a boy with an arrogant smirk, nearly collided with Alex’s wheelchair.
+
+Instead of apologizing, the boy stopped, looked down at Alex with open disdain, and said loudly to his friends, "Whoa, watch out for the roadblock! Dude can't even move his own chair out of the way. Pathetic." His friends snickered.
+
+Alex tensed. Chloé and Megan immediately stepped forward in perfect, protective sync, their expressions hardening. Before either could speak, however, a different voice, sharp and carrying an unmistakable air of authority, cut through the aisle.
+
+"Young man."
+
+The freshmen startled, turning. Standing there, holding a shopping basket, was Mrs. DeMarco, the ever-vigilant lunch lady of Northwood High. Her eyes were fixed on the offending teenager.
+
+"I believe an apology is in order," she stated, her voice calm but icy. "Not only for your reckless behavior in a public space but for your deeply offensive and ableist remarks to this gentleman."
+
+The bully blanched, recognizing the legend. "I... uh... we were just..." he stammered.
+
+"You were just being incredibly rude and disrespectful," Mrs. DeMarco stated. "Mocking someone's disability is not amusing; it is ignorant and cruel."
+
+Just then, Megan’s face broke into a look of surprised recognition. "Mrs. DeMarco?"
+
+Mrs. DeMarco’s stern expression softened almost imperceptibly as her gaze shifted to Megan. "Miss Carter. A pleasure to see you. I trust university life is treating you well? I always knew you were one of the good ones."
+
+"It treated me very well, thank you, Mrs. DeMarco," Megan said with a warm, respectful smile. "I actually just graduated. Magna Cum Laude."
+
+A rare, genuine smile of pure, unadulterated pride spread across Mrs. DeMarco's face. She reached out and gave Megan's arm a firm, approving squeeze. "Magna Cum Laude," she repeated, her voice full of satisfaction. "Excellent. I expected nothing less. Congratulations, my dear."
+
+Her gaze then shifted to Alex and Chloé, and she addressed them in perfect, clear, Metropolitan French. "*Monsieur Miller, Madame Miller, bonjour. C'est un plaisir de vous revoir. Vous semblez bien portants,*" she said, her tone shifting to one of polite warmth. (English translation for the reader: "Mr. Miller, Mrs. Miller, hello. It's a pleasure to see you again. You seem to be doing well.")
+
+Chloé, delighted, responded in her own best formal French. "*Bonjour, Madame DeMarco! Quel plaisir inattendu! Oui, nous allons très bien, merci.*" (English translation for the reader: "Hello, Mrs. DeMarco! What an unexpected pleasure! Yes, we are very well, thank you.")
+
+Alex, using his AAC device, typed a greeting in English: HELLO, MRS. DEMARCO! SO GOOD TO SEE YOU!
+
+Mrs. DeMarco acknowledged Alex's greeting, then her attention snapped back to the now thoroughly cowed freshman bully. She switched seamlessly back to American English.
+
+"Now, as for you," she said to the lead bully. "Apologize. Sincerely. To Mr. Miller."
+
+The boy mumbled a reluctant, "S-sorry."
+
+"Louder. And look him in the eye," Mrs. DeMarco instructed.
+
+The boy flushed but met Alex’s gaze and said, more clearly, "Sorry, I... I didn't mean it."
+
+"Whether you 'meant it' or not is irrelevant," Mrs. DeMarco corrected crisply. "The impact of your words was disrespectful. And let this be a lesson. Northwood High students are expected to conduct themselves with respect, both on and off school grounds. I will be having a word with your homeroom teachers." She fixed the lead bully with a look that promised no escape. "And you, young man, can consider yourself formally invited to two weeks of trash duty when school resumes in January. Report to me in the cafeteria promptly at 2:15 PM."
+
+The freshmen nodded frantically, eyes wide with terror.
+
+"Excellent," Mrs. DeMarco said. She then gave Alex, Chloé, and Megan another surprisingly warm smile, switching back to Metropolitan French. "*Alors, un bon voyage de retour à Lynnwood, mes chers. Et continuez à bien étudier.*" (English translation for the reader: "Well then, have a good trip back to Lynnwood, my dears. And continue to study well.")
+
+Chloé's own smile was a little sad, but full of a new, profound certainty. She replied in her own best formal French.
+
+"Merci, Madame, mais je ne retourne pas à Lynnwood," she explained respectfully. "Je suis rentrée à la maison. Ma place est ici, en Virginie, avec Alex. Mon rêve, ce n'était pas une université. C'était lui." (English translation for the reader: "Thank you, Madame, but I am not returning to Lynnwood. I have come home. My place is here, in Virginia, with Alex. My dream wasn't a university. It was him.")
+
+Mrs. DeMarco's expression softened into one of deep, quiet understanding and profound respect. She simply nodded, a silent acknowledgment of the powerful, life-altering choice the young woman had made. "*Alors,*" she said, her voice now imbued with a genuine, personal warmth, "*je vous souhaite une très belle vie ensemble. Continuez à bien prendre soin l'un de l'autre.*" (English translation for the reader: "Well then, I wish you a very beautiful life together. Continue to take good care of each other.")
+
+With a final, sharp glance at the now-silent freshmen, Mrs. DeMarco turned and continued her own shopping.
+
+Emily Miller, who had been watching with quiet admiration, chuckled. "Well," she said to Sophie, "I do believe Mrs. DeMarco is still Northwood High's most effective, and impressively multilingual, disciplinary force."
+
+Megan laughed. "She once made a senior football player cry just by looking at him after he cut in the lunch line," she added. "He never did it again."
+
+Alex typed to Chloé, a grin spreading across his face: MRS. DEMARCO. STILL AMAZING. THAT POOR FRESHMAN IN JANUARY!
+
+Chloé laughed, shaking her head in amusement and relief. "Never, ever cross Mrs. DeMarco. That's Northwood High Rule Number One. Some lessons, it seems, are timeless, in any language."
+

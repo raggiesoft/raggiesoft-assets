@@ -1,0 +1,34 @@
+# Part 8: A Cautious Assessment
+
+The "Introduction to Computers" class finished, leaving Luna and Leo feeling exhausted but cautiously optimistic. As they exited the classroom into the now-emptying hallway of the Andrews Building, they nearly collided with another student emerging from the English writing class next door. It was Delores.
+
+"Leo! Hey!" she said, her face lighting up with a brilliant smile as if this were the most wonderful coincidence. She immediately moved to him, giving him another one of those hugs that felt a bit off—a little too tight, a little too proprietary. "Fancy seeing you here! How was your class?"
+
+"IT WAS GOOD. WE LEARNED A LOT," Leo typed on his Quantum Communicator, still feeling a sense of accomplishment from his chat with the professor.
+
+"That's great!" Delores said. Luna, who was now standing behind Leo, her hands resting on his wheelchair handles, watched the interaction closely. She remembered Stella's observation from lunch: *Why does Delores have a problem that Leo's closest friend is a girl?* A sudden, investigative impulse took hold.
+
+As Delores continued to talk to Leo, Luna gently placed her hands on Leo's shoulders and began to give him a firm, comforting shoulder massage. It was a familiar, loving gesture between the twins, a way to ease the tension of a long day. Leo enjoyed it immensely, letting his head loll back slightly with a contented sigh.
+
+Out of the corner of her eye, Luna was watching Delores's face. She saw it: a very slight, almost imperceptible tightening of Delores's smile, a flicker of something cold and annoyed in her eyes before it was quickly masked. It was exactly the reaction Stella had described. The observation gave Luna pause, but she continued the massage for a moment longer before finishing.
+
+"We have to head downstairs to wait for our sister," Luna said, her voice polite as she took the handles of Leo's chair and started toward the elevator.
+
+"Oh, I'll walk with you!" Delores said, not asking if they wanted company, but simply following them as if it were a given. This small act of presumption annoyed Luna, but she kept her expression neutral.
+
+Inside the elevator, Delores chatted with Leo, who politely offered her his phone number, since she had given him hers earlier. As they reached the first floor, Delores glanced at her watch. "Oh, I've got to run," she said. "I have to get back across the river. The last bus in Portsmouth is at 6:00 PM, and I can't miss it." With a final, bright wave, she hurried off, leaving the twins in the relative quiet of the building's lobby.
+
+They found a bench to sit on while they waited for Stella to be done with work. They had about an hour.
+
+"Well," Luna said, breaking the silence. "She seems... nice enough."
+
+Leo gave a noncommittal shrug.
+
+"I mean, I'm willing to give her a chance," Luna admitted. "You need a friend, especially with Olivia gone. But..." She hesitated, then voiced the thought that had been solidifying since the shoulder massage. "The question is, can we trust her? I don't know, Leo. Compared to Olivia... this feels off."
+
+Leo looked at his sister, his own small, stored-away mental notes of the day—the forced hug, the weird feeling—aligning with hers. He simply nodded.
+
+Luna's expression softened. She knew how much he was hurting, how much he missed his best friend. "You know what?" she said, a new, brighter idea in her voice. "The first thing we do when we get home tonight, I promise, we are going to call Olivia and see how she's doing."
+
+The effect was instantaneous. A brilliant, genuine smile broke across Leo's face, the first one Luna had seen all day. The thought of hearing Olivia's voice, of connecting with his best friend across the miles, was a beacon of pure joy. The anxieties of the day, the strange new acquaintance—it all seemed to fade in the bright, hopeful promise of that one phone call.
+

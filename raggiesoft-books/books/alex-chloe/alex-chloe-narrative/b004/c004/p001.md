@@ -1,0 +1,28 @@
+# Part 1: The Blast Radius (Fall 2000)
+
+It was a crisp Saturday afternoon in October of their sophomore year. The initial chaos of the new A/B block schedule had settled into a familiar rhythm. Alex and Chloé were in Alex's room, a comfortable fortress of shared interests. A complex model spaceship, a multi-week project, sat on a low table between them. Today was the day for the final, most delicate phase: applying the tiny, intricate decals.
+
+Alex, a look of intense concentration on his face, was using a pair of specialized tweezers to pick up a tiny, star-shaped insignia. His hands, usually so steady and capable at his keyboard, were betraying him today. A wave of spasticity, a common and frustrating symptom of his Cerebral Palsy, was making his muscles tight and his fine motor control shaky. The tiny decal trembled at the tip of his tweezers. He took a slow, calming breath and moved it carefully towards the model's wing. Just as it was about to make contact, his hand jerked, an involuntary spasm. The tiny decal flew from the tweezers, tumbling into the thick shag carpet.
+
+"*Tsk*," a sharp, frustrated sound escaped him.
+
+"It's okay, Alex," Chloé said gently from her spot on the floor beside him. "We'll find it. No big deal."
+
+She got onto her hands and knees, her fingers carefully combing through the carpet fibers. "Ah! Found it," she said triumphantly a moment later, holding up the tiny decal. "Here, let me try this one. My hands are a little steadier today."
+
+She reached for the tweezers, her offer a simple, practical act of teamwork, no different from the hundred other ways they helped each other every day. But today, it was different. For Alex, her offer wasn't a help; it was a glaring spotlight on his own body's failure. The frustration that had been simmering all afternoon—at his trembling hands, at his uncooperative muscles, at the simple task he desperately wanted to complete himself—finally boiled over.
+
+I DON'T NEED YOUR HELP! his AAC device suddenly blared, the volume startlingly loud in the quiet room, the synthesized voice sharp and laced with a venom she had never heard from him. I CAN DO IT MYSELF! WHY DO YOU ALWAYS HAVE TO TREAT ME LIKE I'M HELPLESS? JUST LEAVE ME ALONE!
+
+Chloé froze, her hand hovering in mid-air. She stared at him, her eyes wide with shock and a deep, immediate hurt. The words were a physical blow. *Helpless?* Was that how he saw her? As someone who treated him like an invalid? She, who had fought so hard to be his partner, his equal?
+
+"Alex, I..." she began, her voice small, "I was just trying to help."
+
+WELL, DON'T! he snapped back via his device. I DON'T NEED YOU TO DO EVERYTHING FOR ME!
+
+He hadn't meant it, not really. The anger wasn't for her; it was for his own body, for the CP, for the sheer, unfair frustration of it all. But in that moment, she was the closest person in the blast radius, and she took the full force of the explosion.
+
+A hurt, angry silence fell between them. Chloé slowly stood up, the tiny decal still pinched between her fingers. She placed it carefully on the table. "Fine," she said, her voice a clipped, wounded whisper. "Do it yourself."
+
+Without another word, she turned and walked out of his room, leaving Alex alone with his model, his malfunctioning body, and the terrible, echoing silence of the words he had just unleashed.
+

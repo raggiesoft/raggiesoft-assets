@@ -1,0 +1,94 @@
+# Part 1: The Mirrored Room – 4:00 PM
+
+The Chesapeake water crisis of 1995 meant that every time you pressed the metal button on the water fountain outside the main gymnastics floor, you got a mouthful of the Currituck Sound.
+
+Rachel and I stood in the hallway of Tidewater Tumblers & Martial Arts, both wearing our heavy, white cotton *doboks* with our solid brown belts tied around our waists. Jessica had already intercepted Rachel before her own class, expertly gathering our little sister's long, flowing black hair—which normally hung well past her shoulders—and tying it back into a tight, practical bun so it wouldn't get caught in her sparring helmet later.
+
+I leaned over and took a small, warm sip from the fountain. It tasted strongly of salt and old pipes. I wiped my mouth with the back of my sleeve, and Rachel immediately stepped up to take her turn, grimacing at the brackish taste but drinking it anyway. It was the only hydration available before we had to cross the threshold into purgatory.
+
+Through the heavy double doors to our right, the massive gymnastics facility was a cavern of activity. The air smelled of chalk dust and sweat, filled with the rhythmic thudding of springboards and the upbeat shouts of coaches. Somewhere out there, fourteen-year-old Jessica and our cousin Janette were thriving, perfectly in tune with their bodies and their environment.
+
+But we weren't allowed out there.
+
+I took a deep breath, grabbed Rachel’s hand, and pulled open the door to the Dojang on our left.
+
+The room sat directly underneath the second-floor observation deck, a boxed-in rectangular space with low ceilings and harsh fluorescent lighting. Unlike a proper Dojang, there were no forgiving foam puzzle mats. Because the room doubled as a dance studio, the floor was covered in hard, slick linoleum tile. We were barefoot, and the floor was always freezing against the soles of my feet. One long wall was lined with wooden double grab bars, and the opposite wall was a massive, floor-to-ceiling mirror.
+
+There was nowhere to hide in this room. The mirror forced you to watch your own failures in real-time.
+
+"Line up! *Cha-ryeot!*" Master Ray barked as soon as we stepped onto the cold linoleum.
+
+Master Ray was the owner of the facility. He wasn't inherently cruel, but he was a traditionalist operating at a frantic, oblivious speed. He didn't teach; he demonstrated, expecting our ten-year-old brains to instantly translate his rapid visual input into complex physical output.
+
+"Brown belts, Basic Form V," Master Ray announced, stepping to the center of the room. "Watch closely. I'm only showing this *poomsae* once."
+
+He dropped into a *Junbi* stance and exploded into motion. It was a blur of blocks, strikes, pivots, and kicks, seamlessly chained together in a rapid-fire sequence. He finished five seconds later, completely balanced, snapping his uniform with a sharp exhalation of breath.
+
+"*Sijak!*" he ordered, clapping his hands. Begin.
+
+I stood in the center of the room, my bare feet slipping slightly on the tile, my heart hammering against my ribs. My autistic processing speed needed the form broken down mechanically—step one, step two, step three. Watching Master Ray speed-run the sequence just looked like a chaotic scramble of limbs. And even if my brain could memorize the pattern, my body couldn't execute it.
+
+I stepped forward, threw an *Arae Makgi*—the first low block—tried to pivot for the inward strike, and immediately froze.
+
+The spasticity in my legs—the tight, unyielding tension of my undiagnosed Cerebral Palsy—locked my hips in place. My brain was screaming the command to shift my weight, but the muscles flat-out refused to fire. I stumbled over my own feet, dropping my arms, completely paralyzed by the physical and cognitive overload.
+
+In the massive mirror, I watched myself fail.
+
+"No, no, no," a sharp, grating voice snapped from the corner of the room.
+
+Master Ray had stepped out to take a phone call, leaving us to the enforcer. Master Curtis stepped onto the floor, his arms crossed over his chest. He was Master Ray's subordinate, and he carried a deep, resentful arrogance. To him, the ADA didn't exist. There was no such thing as a neurological delay or a motor-planning deficit. There was only discipline, and there was weakness.
+
+"You're a brown belt, Michael," Master Curtis sneered, pacing slowly down the line of students. "You still can't even execute an *Idan Ap Chagi*—the jumping front kick—from the green belt curriculum, and now you're freezing on Basic Form V. You have no coordination. You're completely stiff. Do it again."
+
+I forced myself to reset, my face burning with humiliation. I tried to launch into the *Idan Ap Chagi*—a move that required me to kick, launch my entire body weight into the air off a spastic leg, and kick again before landing.
+
+My right leg snapped out, but when I tried to jump, my left calf seized. I barely cleared an inch off the linoleum, my second kick weakly flopping into the air before I landed heavily on the slick tile, completely off-balance.
+
+Master Curtis let out a loud, theatrical sigh of disgust. He didn't correct my posture. He didn't offer a modification. He just called me weak in front of the entire class.
+
+He moved down the line, stopping directly in front of Rachel.
+
+"*Juchum Sogi!* Horse stance!" Master Curtis barked at my eight-year-old sister. "*Momtong Jireugi!* Middle punch! And let me hear the *kihap*. A real one this time."
+
+Rachel dropped perfectly into the wide stance and threw a sharp, technically flawless punch.
+
+But the room remained completely silent.
+
+"I said *kihap*!" Master Curtis yelled, leaning closer to her face. "Spirit shout! Where is your power? Are you mute?"
+
+Rachel's eyes went wide, locking onto the linoleum floor. Her chest heaved. The situational mutism had her vocal cords entirely paralyzed. The absolute terror of being yelled at in a crowded room had triggered a massive sensory roadblock in her brain. She couldn't have made a sound if her life depended on it. She threw another punch, her small fist cutting through the air, but no sound came out.
+
+"Pathetic," Master Curtis spat, shaking his head. "No spirit. No power."
+
+He turned and looked between the two of us, his expression dripping with disdain.
+
+"Time for sparring. Gear up," Curtis announced to the class. He pointed a rigid finger at me, then at Rachel, his lip curling. "You two, pair up."
+
+It wasn't a choice. It was an institutional mandate.
+
+Because we were regulars at her Friday Open Gym sessions, Master April knew exactly how our brains worked. She knew the chaotic sensory overload of the Dojang could trigger my spasticity and paralyze Rachel’s vocal cords. So, the *Sunhoe Sabomnim* had issued a standing, non-negotiable decree: Michael and Rachel are to be paired together for all contact drills.
+
+Master Ray strictly enforced the rule to avoid the wrath of the Ministry, but Curtis despised it. To him, keeping a ten-year-old boy and an eight-year-old girl in their own protective bubble was the ultimate coddling.
+
+"It's a joke," Curtis sneered, stepping closer so only we could hear him. "Michael, you should be sparring with someone your own age and weight class. But you're too slow, so you're stuck fighting your little sister. The Emissary thinks she's keeping you safe, but she's just making you weak."
+
+Curtis desperately wanted to separate us. He wanted to throw me to the aggressive, neurotypical teenagers and put Rachel against someone who would hit her hard enough to force a scream. But the memory of Saturday’s execution was still fresh. The sting of *Bulhapgyeok* still burned his ego. He knew that to argue with the *Sunhoe Sabomnim* was to argue with the Grandmasters themselves. He couldn't defy her decree without risking total excommunication. So, he complied, his jaw pulsing with resentment.
+
+He walked away to pair up the neurotypical kids, leaving us completely isolated at the far end of the room near the double grab bars.
+
+We retreated to our gym bags to put on our armor. I slipped on the hard plastic genital cup, while Rachel strapped on her foam pelvic protector. We pulled the thick, dipped-foam elbow pads, knee pads, and shin guards over our limbs, shoved the plastic mouth guards past our teeth, and strapped the heavy foam helmets under our chins.
+
+By the time we stepped back onto the floor, we were encased in a sensory nightmare of tight straps, suffocating foam, and the taste of sterile plastic.
+
+"*Kyeong-rye,*" Master Curtis ordered from across the room. We bowed to each other. "*Gyeorugi Junbi!* Fighting stance! *Sijak!*"
+
+I raised my padded gloves, my muscles aching, my brain completely exhausted by the impossible demands of the room. Rachel raised her gloves, her face flushed red from the stress of the silent *kihap*.
+
+Master Curtis watched us from across the linoleum, a sour scowl on his face. He thought isolating us in the corner was a punishment. He thought he was quarantining the two weakest links in the Dojang so we wouldn't infect the rest of his class with our "softness."
+
+He didn't realize the brilliant, absolute empathy behind April's decree. The *Sunhoe Sabomnim* hadn't paired us up to isolate us; she paired us up because she knew it was the only thing keeping us from completely breaking down.
+
+Rachel stepped forward and threw a slow, measured *Dollyo Chagi*—a roundhouse kick—toward my ribs. I blocked it easily with my padded forearm, my tense muscles finally relaxing a fraction of an inch. She wasn't trying to hurt me, and I wasn't trying to hurt her. We weren't sparring; we were regulating. The rhythmic, predictable impact of the heavy foam pads was a physical anchor in a room designed to humiliate us.
+
+We didn't say a word around our mouth guards, but as our pads connected, the silent agreement passed between us. The adults in this building were never going to understand us, and we were never going to be what they wanted. But as long as we were paired together, we would survive the hour.
+

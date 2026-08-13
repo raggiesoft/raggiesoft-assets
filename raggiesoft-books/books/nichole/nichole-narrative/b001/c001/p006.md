@@ -1,0 +1,60 @@
+# Part 6: The Park Summit
+
+## Date: Saturday, July 16, 1994 Time: 11:20 AM Location: Equity Park (Broadway, Newport)
+
+The Holt Workmaster rumbled to a stop alongside the curb on Broadway. Across the street, Equity Park was a patch of green calm in the middle of the busy Saturday traffic. It wasn't a playground with swings; it was a "sitting park"—a triangle of grass with sturdy wooden benches and old shade trees.
+
+Uncle Mark killed the engine. "Alright, extraction team," Mark announced. "Target acquired on the north bench."
+
+Patrick scrambled out of the middle seat. He looked across the street. There they were. Mom and Dad were sitting on one bench, drinking iced coffees from Dip & Sip. And on the bench next to them sat Grandma Helen.
+
+She didn't look like a "Grandma" from a storybook. She wasn't wearing a shawl. She was wearing tailored slacks, a crisp white blouse, and her signature red reading glasses on a chain. Even at seventy, she had the posture of a librarian who didn't tolerate nonsense. On her lap sat the prize: a bright pink and orange box from Dip & Sip.
+
+Mark hopped out and opened the passenger door. "Ready for air transport?" Mark asked. Nichole grinned and held up her arms. Mark scooped her out of the cab, his movements practiced and secure, and settled her into her manual chair on the sidewalk. Patrick grabbed the Circuit Barn bag—he wasn't leaving the precious cargo in the truck—and fell in step beside her.
+
+They waited for the walk signal. "Green light," Mark called. The Bennett Machine rolled across Broadway.
+
+## The Reunion
+
+As they approached the bench, Grandma Helen stood up. She lived on the third floor of an apartment building on Pond Avenue. It had a narrow, switchback staircase that Patrick found difficult and Nichole found impossible. For years, the family had tried to figure out how to carry Nichole up. It was dangerous. It was scary. It made everyone sweaty and anxious.
+
+So, they stopped trying. They didn't stop seeing Grandma. They just moved the living room. Equity Park was their living room.
+
+Helen didn't wait for them to reach her. She walked to the edge of the grass to meet them. She hugged Patrick first, smelling of lavender soap and old paper. "There's my scholar," she whispered, squeezing his shoulder. "You look taller. Are you eating your vegetables?" "Sometimes," Patrick admitted.
+
+Then she turned to Nichole. She didn't bend over awkwardly. She walked to the bench and sat down. This put her face exactly at Nichole’s level. Eye to eye. "And there is my writer," Helen smiled, taking Nichole’s hands. "I see you survived the drive with Uncle Mark. Did he play the loud music?"
+
+Nichole nodded vigorously. She tapped the armrest of her chair. *Yes.* Helen laughed. "He never grew out of that phase."
+
+## The Loot
+
+"Okay," Dad said, standing up and opening the pink box. "We have the essentials. Dip & Sip Glazed Sticks. Still warm." He handed one to Patrick and one to Nichole. The donut stick was heavy, coated in a thick, cracked glaze that dissolved instantly on the tongue. It tasted like sugar and vacation.
+
+"So," Grandma Helen said, wiping a crumb from her slacks. "Mark tells me you went to the mall. Did you buy toys?"
+
+Patrick shook his head. He held up the brown paper bag. "Parts," Patrick said seriously. "We're building a proximity alert system," Mark clarified, taking a bite of his own donut. "So we don't lose the precious cargo in the dark."
+
+Helen peered at the bag over her glasses. "An engineer and a safety inspector," she noted. "A very practical team."
+
+She reached into her own tote bag—a canvas bag with the Newport Public Library logo on it. "I have supplies for you, too. Since I can't bring you up to my bookshelves, I brought the library down to you."
+
+She pulled out two hardcover books.
+
+For Patrick: *The Atlas of Mechanisms*. A massive, illustrated encyclopedia full of exploded-view diagrams showing how gears, levers, and pulleys worked, demonstrated by a team of cartoon robots. For Nichole: *The Secret Garden*. The unabridged classic with the beautiful, complex illustrations.
+
+"For the brain," Helen said, handing the heavy mechanics book to Patrick. "And for the heart," she said, placing the novel gently on Nichole’s lap tray. "I know you can't read all the words yet, Nichole. But your mother tells me you love the pictures. And Patrick can read the chapters to you at night."
+
+Nichole ran her hand over the cover of the book. She touched the gold letters. She looked at Grandma Helen. Most adults gave her stuffed animals or baby toys. Grandma Helen gave her *literature*. She gave her respect.
+
+Nichole leaned forward as far as her straps would allow. Grandma Helen leaned in. They touched foreheads—a quiet, gentle bump. *Thank you.*
+
+"You're welcome, my dear," Helen whispered.
+
+## The Picnic
+
+They sat there for an hour. The traffic on Broadway rushed by—tourists heading to the mansions, locals heading to the bridge. But in the triangle of Equity Park, time stood still. Tom and Mark talked about the boat repairs. Ellen and Helen talked about the library's new catalog system.
+
+Patrick sat on the grass, eating his donut and flipping through diagrams of robot gears. Nichole sat in her chair, tracing the vines on the cover of *The Secret Garden*, listening to the wind rustle the leaves of the big shade tree.
+
+She didn't miss the apartment on Pond Avenue. She didn't care about the stairs she couldn't climb. She had the donut. She had the book. She had the breeze. And she had her family, sitting in a circle around her, closing the loop.
+

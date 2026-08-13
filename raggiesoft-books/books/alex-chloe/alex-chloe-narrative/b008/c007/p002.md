@@ -1,0 +1,16 @@
+# Part 2: An Emergency Deep Cleaning – Restoring Dignity (Wednesday, November 22, 2003)
+
+The video call with James and Emily Miller ended, leaving a fragile sense of peace in Chloé Mason’s small one-bedroom Lynnwood apartment. Alex Miller, now eighteen years old like Chloé, was safe, his parents knew, and plans were in motion to eventually get him home to Virginia. But the immediate reality was stark: Alex was exhausted, traumatized, physically unwell from days of Vera’s profound neglect, and he was desperately in need of basic human care.
+
+Chloé looked at her best friend, truly looked at him. The dried tear tracks on his pale cheeks, the way his travel-worn clothes seemed to hang on his eighteen-year-old frame, the subtle but unmistakable sour odor of days without proper hygiene – it all spoke of Vera’s cruelty. Her anger simmered, but she pushed it down, focusing entirely on Alex’s immediate needs.
+
+"Okay, Alex," she said, her voice imbued with a gentle firmness that brooked no argument. She switched fully to the soft, familiar cadence of Québécois French. "*Mon ami, première chose. Avant la nourriture, avant plus de repos, avant toute autre chose, il faut te nettoyer. Vraiment bien nettoyer. Ce monstre ne t'a pas seulement fait du mal au cœur; elle a négligé ton corps, et ça, on va le réparer tout de suite.*" (My friend, first thing. Before food, before more rest, before anything else, we need to get you clean. Really properly clean. That monster didn't just hurt your heart; she neglected your body, and that, we are fixing right now.)
+
+Alex looked at her, a mixture of exhaustion and profound gratitude in his eyes. He reached for his AAC, which Chloé had carefully placed on her small kitchen table, and typed his reply in the same comforting dialect: UN BAIN? MAINTENANT? S'IL TE PLAÎT, CHLOÉ? JE ME SENS… TERRIBLE. (A bath? Now? Please, Chloé? I feel… awful.)
+
+"*Oui, un bain maintenant,*" Chloé confirmed, her Québécois warm and reassuring. "*Et pas juste une petite débarbouillette. Ça demande le grand nettoyage.*" (Yes, a bath now. And not just a quick wash. This calls for the serious cleaning.)
+
+The challenge, however, was her apartment bathroom. It was tiny, standard-issue, and decidedly not wheelchair friendly. With Alex leaning heavily on her, and using every ounce of her strength, she carefully helped him pivot and lower himself onto the tub's edge, then swing his legs over and slide down into the tub itself. It was awkward, physically demanding. Alex was clearly in pain from his pressure sores, but he bore it, his trust in Chloé absolute.
+
+When it was done, getting him out was another careful effort. Chloé wrapped him in fluffy towels before assisting him back into his wheelchair. She helped him dress in her own largest, softest pajama pants and an oversized NPU t-shirt. Back in her main room, Alex looked physically lighter. The angry red marks of the Stage I pressure sores were still visible, and Chloé carefully applied antiseptic cream.
+

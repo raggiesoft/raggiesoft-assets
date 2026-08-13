@@ -1,0 +1,43 @@
+# Part 2: The Living Hell – 2:30 PM
+
+Dead silence fell over the speakerphone.
+
+The mathematical logic of her argument was flawless. A judge had signed off on a house in Washington state with a woman named Cathy, not a cramped room at a local motel off the interstate.
+
+"I am your father," Dad growled, though his voice wavered slightly against the iron-clad wall of her logic. "I can just call the police to enforce the order."
+
+Rachel’s eyes narrowed into a dark, terrifying glare. The threat of the police had paralyzed her last week, but now, trapped in a corner, it just ignited her fury.
+
+"Then call them," Rachel snarled, her voice dropping to a low, dangerous register. "Send them to the door. Drag me out of this house. But I promise you, Dad... the second we are locked in that hotel room, I will make your life a living hell."
+
+I held my breath, my heart hammering against my ribs.
+
+"You think yesterday was bad?" Rachel continued, her voice trembling with absolute rage. "If you force me into a tiny room with you, I will not stop screaming. I won't sleep, which means you won't sleep. I will break everything in the room. Remember what happened when you broke my door? Remember how my hand felt across your face?"
+
+The memory hung heavily in the static of the phone line.
+
+Dad had felt the sting of that slap. He had seen the blinding, uncontrollable meltdown that had consumed her. And his brain, as rigid and stubborn as it was, had to run the calculations of what she was threatening.
+
+He was stuck in a hotel with paper-thin walls. He was already stressed, bleeding money, and exhausted. If he locked a furious, violently resisting, neurodivergent teenager in that room, she would explode. The noise would carry down the hallway. The hotel management wouldn't hesitate to call security, or the police, on a middle-aged man with a screaming teenage girl in his room.
+
+It was a logistical and social nightmare, and Rachel had perfectly calculated the one scenario he absolutely couldn't control.
+
+"You bring me to that hotel," Rachel promised, delivering the final, fatal blow to his plan, "and they will kick you out into the street by midnight."
+
+Dad let out a long, heavy exhale through his nose. The sound of absolute defeat crackled through the speaker. He realized he was completely trapped. The airlines had him boxed in, his finances had him boxed in, and now, his fourteen-year-old daughter had him boxed in.
+
+"Fine," Dad spat bitterly. "Stay at the house. But the second I have two confirmed tickets in my hand, I am coming for you, and we are going straight to the airport. Do not test me on Thursday, Rachel."
+
+The line clicked dead.
+
+Rachel stared at the phone for a long moment. Then, the adrenaline completely washed out of her system. Her shoulders slumped, and she collapsed sideways, resting her head heavily against my leg.
+
+"He backed down," I whispered in disbelief, resting my hand on her shoulder.
+
+"He did," she said, her voice shaking slightly now that the confrontation was over. "But he's right. I can't use the hotel loophole forever. We only bought three days."
+
+"Three days is a long time," I reminded her, squeezing her shoulder firmly. "We'll figure something out."
+
+We had successfully defended the perimeter again, using the adult world's rules against them. But the victory was temporary, and the countdown clock to Thursday was already ticking loudly in the back of my mind.
+
+

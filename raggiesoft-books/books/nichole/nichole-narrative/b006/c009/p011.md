@@ -1,0 +1,98 @@
+# Part 11: The Debrief
+
+## Date: November 15, 2003 Time: 6:30 PM Location: 95 West Main Road, Portsmouth, Rhode Island
+
+The dining room table had been extended to its maximum length. Around it sat the entire consolidated Bennett-Reynolds clan: Uncle Mark, Aunt Carol, Grandma Helen (who had taken the elevator down from the second-floor living room), and Patrick and Nichole’s parents, Tom and Ellen.
+
+Outside, the November wind was rattling the storm windows. Inside, the room was filled with the heat of the oven and the rich, savory aroma of Ellen’s pot roast and freshly baked bread.
+
+Nichole sat at the head of the table. She had her lap tray detached, her wheelchair pulled right up to the wood. Ellen had cut her roast beef into small, manageable pieces.
+
+"Okay, spill it," Aunt Carol said, passing the mashed potatoes. "You two left the house at 6:15 this morning and didn't call for a pickup once. How was Braxton?"
+
+Patrick swallowed a bite of beef. "It's the Fortress, Aunt Carol. But it’s the size of a city."
+
+"No steps?" Grandma Helen asked, adjusting her glasses.
+
+"No steps," Patrick confirmed. "Grandma, you know how Uncle Mark put the elevator in the house so you don't have to go outside to get to the basement?"
+
+Helen nodded.
+
+"Braxton State did that for an entire peninsula," Patrick explained, gesturing with his fork. "It’s called 'The Bull Run.' We walked from the engineering labs to the library, to the gym, and to the cafeteria without ever opening an exterior door. Completely climate-controlled tunnels."
+
+Nichole tapped her screen. **"THE. MOLE. LIFESTYLE."**
+
+Mark chuckled from his seat at the end of the table. "Good engineering. Saves on heating costs and prevents ice slips. What about the financials, Tom? Did you hear back about the tuition?"
+
+Tom, ever the accountant, leaned forward. "That’s what I was worried about. Out-of-state tuition at a public school is brutal. And freshman dorms are mandatory."
+
+"Exempt," Patrick grinned, pulling out the informational packet. "We got the Commuter Waiver. Since our legal domicile is here with family, and we’re within the radius, we don't have to live in the dorms. And because Uncle Mark had us sign the lease in September... we qualify for Rhode Island in-state tuition by the official University Census Date in Fall 2004."
+
+Tom did the math in his head. The tension in his shoulders visibly melted. "That saves us about eight thousand dollars in housing alone."
+
+"And no private loans," Patrick added, looking at his dad. "The financial aid office practically begged us not to take them. They also warned us about predators who go after disabled students' federal benefits. Remember how Kyle at TechStream just assumed Nichole was on SSI and wanted to garnish the checks? The BSU rep explicitly said that if you do receive federal benefits, that money is for your living expenses. The university doesn't try to touch it."
+
+Ellen stopped eating. She looked at her daughter. "They treated you like an adult?"
+
+Nichole smiled. She clicked her mouse. **"THE. PRESIDENT. SAID. NO. PASSENGERS."**
+
+"No passengers?" Ellen asked, confused.
+
+"The school mascot is the Bull," Patrick explained. "They pride themselves on hard work. 'Strength from the Earth.' The president gave a speech. He said he doesn't care if you have a disability or if you come from poverty. Everyone has to pull their weight. No passengers. Everyone drives."
+
+Nichole looked at her brother. **"TELL. THEM. THE. PLAN."**
+
+Patrick sat up straighter. "Okay. So, I’m applying for the College of Engineering and Computer Science. I want to build things. Mechanical, civil, structural."
+
+He gestured to Nichole.
+
+"And Nichole is applying for the Department of Technical Communication. She's going to be a Tech Writer. She embeds directly into the engineering labs. I build the machine. She writes the operating manual, the safety code, and the user interface."
+
+The table went quiet.
+
+Uncle Mark set his fork down. He looked at Patrick, and then at Nichole. He recognized the strategy immediately. It was a systems-level alliance.
+
+"Bennett Dynamics," Mark said softly, a look of profound respect in his eyes.
+
+"Exactly," Patrick said. He paused, looking around the table. "But there's one more piece. The defensive layer."
+
+He reached into his back pocket and pulled out the heavy application guide from the University Medical Center. He slapped it on the table.
+
+**PRACTICAL NURSING (LPN) - ACCELERATED TRACK.**
+
+"We stopped by the Medical Center," Patrick said. "It's right on campus, connected by the tunnels. It's a Level 1 Trauma Center. And they have a program for matriculated students to become Licensed Practical Nurses."
+
+Aunt Carol’s eyes lit up. "The license."
+
+"The license," Patrick confirmed. "I talked to the coordinator. I told her I didn't want the CNA assistant card. I told her I wanted the rank. She gave me the application right there. I can do the prerequisites at the community college here in Newport this year, and then do my clinicals at the trauma center next fall between engineering classes."
+
+He looked at his parents.
+
+"If I pass the NCLEX, I'm not just 'Brother' anymore. I'm a state-licensed nurse. If a housing director, or a hospital, or anyone tries to tell me I'm not qualified to care for Nichole... I show them the badge. I become the medical authority in the room."
+
+Tom picked up the packet. He looked at the words *100% Pass Rate*. He looked at his son.
+
+"You'd be saving us fifty grand a year in agency fees," Tom whispered. "And we wouldn't have strangers in the house."
+
+"And I'd be the one giving the orders," Patrick said firmly.
+
+Nichole tapped her screen. **"MY. MEDIC."**
+
+"My medic," Ellen repeated, tears welling up in her eyes. "My engineer. My writer. My God, you two..."
+
+She reached across the table and put her hand over Nichole’s.
+
+"I am so proud of you both," Ellen whispered, her voice thick with emotion.
+
+Nichole looked around the table. At her father relaxing. At her grandmother who could visit the basement workshop. At her uncle who had built them a command center. And at her brother, her engine, who finally had a direction to run.
+
+She tapped her screen. **"THANK. YOU. FOR. THE. FORTRESS."**
+
+"Anytime, Nikki," Mark winked, raising his own glass. "To the Bull Pass. And to Nurse Bennett."
+
+"To Nurse Bennett," the family echoed.
+
+Patrick grinned, clinking his glass against Nichole's. "Now, pass the gravy. We have applications to write."
+
+
+

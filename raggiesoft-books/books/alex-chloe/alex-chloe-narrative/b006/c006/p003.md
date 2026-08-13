@@ -1,0 +1,36 @@
+# Part 3: The People's Vote
+
+As Mrs. DeMarco walked away, leaving Josh to stew in his own miserable failure, a new, rebellious energy began to buzz through the senior class. They had all seen what he did. A senior named Mark jumped up onto a chair.
+
+"Hey, everyone!" he shouted, getting the crowd's attention. "So, the official ballot box is... uh... out of commission. But I say we don't let one jerk ruin our night! Let's have our own vote! Write-in ballots! On your napkins!"
+
+A cheer of genuine, democratic enthusiasm went up. The students, angry at Josh's blatant attempt to ruin the night, eagerly participated. For the next fifteen minutes, they scribbled the names of popular, well-liked classmates on napkins and dropped them into a large, empty punch bowl.
+
+When the voting was done, Mark took the bowl, his expression one of grave importance. "Okay," he announced, "we will now tally the results!"
+
+Mark returned to the microphone a few minutes later, a triumphant, wicked grin on his face.
+
+"Alright, Northwood Class of 2003!" he announced with the voice of a seasoned announcer. "The people have spoken! By an overwhelming write-in majority, your Prom King is... **Josh Riley!**"
+
+A wave of confused, angry murmurs went through the crowd. "What? No way!" "I voted for Kevin!" Josh, however, looked stunned, and then a slow, arrogant, and deeply stupid smile spread across his face. He had won? He had actually won? He started to stand up, ready to accept his crown.
+
+"And," Mark continued, his voice booming as he held up a hand for silence, "his Prom Queen..."
+
+Just then, a large, 50-gallon, industrial-grey **trash can** was wheeled into the center of the dance floor. Someone had hastily taped a cheap, plastic tiara to the lid.
+
+"...Brenda Binn**!**" Mark roared.
+
+The gymnasium absolutely erupted. The initial confusion of the crowd instantly morphed into a single, deafening, and completely merciless wave of pure, cathartic joy as they realized the beautiful, perfect prank that had just been pulled. Josh Riley's face, which had been a mask of triumph, crumpled into an expression of pure, abject humiliation.
+
+The students started to chant, a single, unified, and brutally funny chorus: **"KISS THE QUEEN! KISS THE QUEEN! KISS THE QUEEN!"**
+
+Flashes from disposable cameras went off, capturing the image of Josh, pale and horrified, and his silent, plastic, and beautifully tiara'd partner for eternity. The DJ, a senior with a wicked sense of humor, even started playing a slow, mournful ballad, the kind typically reserved for the Prom King and Queen's first dance.
+
+Josh was not just being punished by an adult; he was being publicly, hilariously, and permanently rejected by his entire peer group. He stood there, frozen, as the laughter and the chants washed over him, a tidal wave of social annihilation.
+
+Just then, a calm, familiar figure materialized at his side. It was Mrs. DeMarco. She didn't look at the crowd. She just looked at Josh, and then at his newly crowned Queen, a flicker of what might have been a grimly satisfied smile in her eyes.
+
+"It seems you have finally found your perfect match, Mr. Riley," she said, her voice a quiet, devastating counterpoint to the roar of the crowd. "I trust you two will be very happy together during your royal duties." She leaned in, her final words a soft, chilling whisper meant only for him. **"Monday. 6 AM sharp. Don't be late for your first official act as King of the Trash."**
+
+That was the final blow. With a strangled cry of pure, impotent rage, Josh Riley turned and fled, pushing his way through the laughing, jeering crowd and out the gymnasium doors, his high school social career officially and permanently over.
+

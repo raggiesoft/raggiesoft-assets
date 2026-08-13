@@ -1,0 +1,14 @@
+# Part 1: A Simple Cough (Fall 2000)
+
+It started with a simple cough. A few weeks into their sophomore year, Alex developed what seemed like a standard autumn cold. It was a dry, persistent cough that he tried to ignore, a minor annoyance in the background of their busy school days.
+
+"Are you sure you're okay?" Chloé asked one morning as they walked to their first-period class, hearing the rattling sound in his chest. "You sound kind of rough."
+
+IT'S JUST A COUGH, CHLOÉ, Alex's AAC device replied, a hint of his usual stoicism in the synthesized voice. I'M FINE.
+
+But by the time the third-period bell rang for their Lunch/Study Hall block, he wasn't fine. The cough had deepened, and a weariness had settled into his bones that was more than just the usual end-of-week fatigue. He felt a little breathless, the simple act of propelling his chair from Biology to the cafeteria leaving him more winded than usual.
+
+"Okay, that's it," Chloé said, her expression firm with a protective resolve that brooked no argument. "Before we go to lunch, we're stopping at the clinic. You need to take your meds anyway, and I want Nurse Davison to listen to your chest."
+
+Alex, feeling too tired to argue, simply nodded.
+

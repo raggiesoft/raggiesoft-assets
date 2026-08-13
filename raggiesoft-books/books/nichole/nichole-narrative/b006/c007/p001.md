@@ -1,0 +1,88 @@
+# Part 1: The Holy Cow
+
+## Date: July 6, 2003 Time: 7:30 AM Location: BayFront Creamery, West Main Road, Middletown, Rhode Island
+
+The morning air on Aquidneck Island was cool, carrying a dense, salty fog that rolled off the Narragansett Bay.
+
+Tom pulled the van into the crowded parking lot of the BayFront Creamery on West Main Road in Middletown. The building was an unpretentious, single-story brick diner with a teal awning—the absolute heart of local morning life.
+
+Inside, the diner hummed with the clatter of silverware and the low murmur of the morning rush. The smell of frying bacon and maple syrup was intoxicating.
+
+Uncle Mark led the way to a large corner booth with a removable seat at the end, perfectly accommodating the Titan AeroMotion. As soon as they sat down, a waitress with a stained apron and a nametag that read *Deb* walked over with a coffee pot.
+
+"Mornin', Mahk," Deb said, not even looking at her order pad. "The usual today?"
+
+"You betcha, Deb," Mark grinned, his voice booming.
+
+In the twelve hours since they had arrived, Patrick and Nichole had already noticed Uncle Mark’s thick, distinct Newport accent. It was a rhythmic, flattened cadence where the letter ‘R’ was strictly optional.
+
+"But we got a special occasion today," Mark continued, gesturing grandly to the booth. "My family is up from Vuh-ginia. The twins are lookin' at Braxton State today. So we’re gonna need five Holy Cows. And Deb? Bring a round of cawfee milk for the table to stah-t us off."
+
+"Coming right up, Mahk," Deb smiled, pouring water for the table before bustling away.
+
+Patrick looked at his uncle. "Coffee milk? Like, iced coffee?"
+
+"Oh, absolutely not," Mark said, leaning in like he was imparting a sacred truth. "Cawfee milk is an institution. It’s milk stirred up with sweet cawfee syrup. No actual coffee grounds. It is the official state drink of The State of Rhode Island and Providence Plantations. You legally cannot step foot on the BSU campus without drinking one first. It’s in the state constitution."
+
+Mark pointed a finger at Patrick. "You legally cannot step foot on the BSU campus without drinking one first. It’s in the state constitution. Right, Tom?"
+
+Tom, who had grown up in Newport before moving south, chuckled. He knew exactly what the game was.
+
+"That's right," Tom said, flashing an evil grin at his son. "It's a mandatory induction ritual. If you don't drink it, the State Troopers stop you at the bridge."
+
+"See?" Mark beamed. "Your father knows. You can take the boy out of Rhode Island, but you can't take the syrup out of the boy."
+
+When Deb returned, she placed five tall, sweating glasses of a light-brown beverage on the table. Patrick put a straw into Nichole’s glass and held it for her.
+
+Nichole took a sip. Her eyes went wide. It was incredibly sweet, creamy, and tasted like melted coffee ice cream. She made a loud, delighted *hummm* in the back of her throat and immediately took another long pull from the straw.
+
+"See?" Mark beamed. "The girl’s a natural Rhode Islander."
+
+Fifteen minutes later, the breakfast arrived.
+
+Deb needed two trips, aided by a busboy, to unload the "Holy Cow" platters onto the table. In front of each person was a massive oval plate piled high with three eggs, three strips of bacon, three sausage links, breakfast potatoes, toast, and a side plate with three massive, fluffy pancakes drenched in butter.
+
+Nichole didn't hesitate. She grabbed her adapted fork. Usually, with a meal this large, Patrick would cut everything up for her. But today, fueled by the caffeine and sugar of the state drink, Nichole was hyper-focused. She clumsily but determinedly speared a sausage link.
+
+"So," Ellen said, sipping her coffee and looking at Patrick. "What is the exact plan for today?"
+
+"Divide and conquer," Patrick said, wiping a dab of syrup from his lip. "You, Dad, and Uncle Mark are going to stay on this side of the bay. Look at the rental listings, talk to landlords, and figure out the housing logistics."
+
+"And you two?" Tom asked, his protective radar pinging slightly.
+
+"We are going to be commuters," Patrick said confidently. "When breakfast is over, Nikki and I are rolling out to the bus stop right here on West Main Road. We're catching the OSTA Route 60 into Newport. Then we hike the block from Gateway Center over to Perrotti Park. Then, we board the Newport Flyer ferry solo. We ride the boat across the bay to the Narraganset Esplanade Station. We take the elevator up to the Sky Platform to look at the view, and then we tour the campus. By ourselves."
+
+Uncle Mark reached into the heavy pocket of his flannel overshirt. He pulled out two heavy, paper-wrapped cylinders and set them on the table with a loud *thud*.
+
+"Good plan. But you're gonna need these," Mark said.
+
+Patrick looked at the cylinders. "Quarters?"
+
+"Twenty bucks in quarters for each of you," Mark nodded. "The Ocean State Transit Authority—OSTA—and the Braxton Transit Authority over the bridge don't talk to each other. Different fare cards. No day passes. You gotta pay cash. A buck twenty-five for the 60 bus, and four bucks for the ferry. Exact change is king."
+
+Patrick took one roll and placed the other on Nichole's lap tray.
+
+"I know we both technically qualify for the reduced disabled fare," Patrick noted, tapping the heavy roll of coins. "But we don't have the OSTA or BTA reduced fare IDs yet. So we're paying full adult fare today. No exceptions. We don't want any friction."
+
+Nichole looked at the heavy roll of quarters on her tray. It felt incredibly grown-up. She put her hand over the coin roll, a tangible anchor to her upcoming independence. She was going to pay her own fare.
+
+Ellen looked at Nichole. The parents had been with them for every step of Putney and Raritan State. They had been there to absorb the blows. But this was different. This wasn't a guided tour. This was the real world.
+
+"You guys sure you don't want us along as backup?" Tom asked gently. "In case the boat ramp is steep? Or the OSTA lift is broken?"
+
+Nichole swallowed her food. She wiped her mouth with the back of her hand and tapped her VocaLink screen.
+
+"NO. PARENTS."
+
+She looked at her mother and father and gave them a soft, reassuring smile. She wasn't pushing them away out of anger. She was claiming her space. Putney had tried to force her to be "independent" by separating her from her brother. BSU was going to be different. She was going to be independent *with* her brother.
+
+Ellen smiled, her eyes misting up just a little. She reached across the table and squeezed Nichole’s hand.
+
+"No parents," Ellen agreed softly. "You got it, baby."
+
+Patrick raised his glass of coffee milk. "To the Ocean State," he said.
+
+Nichole tapped her cup against his.
+
+They devoured the rest of the Holy Cow, the heavy diner food providing the exact kind of fuel they needed. In thirty minutes, the "Bennett Machine" was going to launch into the wild, testing a fully accessible transit grid for the very first time.
+

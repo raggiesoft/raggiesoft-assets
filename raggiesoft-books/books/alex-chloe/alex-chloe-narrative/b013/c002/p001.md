@@ -1,0 +1,28 @@
+# Part 1: The Accident (Spring 2010)
+
+The winter of 2010 had been dominated by their trip to Quebec and the now-legendary hockey bet that had resulted in Alex and Megan's "flight of shame." Back in their Lynnwood apartment, life had settled into its familiar, intense rhythm. Alex and Chloé had their full-time jobs, Megan was thriving in her career at Quantum, and all three of them were dedicating their evenings and weekends to the all-consuming after-hours work of planning the Lynnwood Discovery and Care Center.
+
+The accident, when it happened, was mundane and completely unexpected. On a rainy Saturday afternoon in early spring, the three of them were working together, moving heavy boxes of donated textbooks for a fundraising book drive.
+
+"Okay, this is the last one," Chloé said, hefting a particularly heavy box into her arms. "I'll take this down to the van, and then we can take a break."
+
+"You sure you got that?" Megan asked, already moving to help her. "It looks heavy."
+
+"I'm good," Chloé insisted with a determined grin. "I'm stronger than I look."
+
+She headed out the door and started down the covered but slick concrete steps of their apartment building's exterior walkway. Megan and Alex were just behind her in the doorway.
+
+Her foot slipped on a wet patch. She tried to catch herself, but the weight of the box threw her off balance. She went down hard, her left ankle twisting beneath her with a sickening, audible snap—a painful, ironic mirror to the right ankle fracture she had suffered as a teenager. The box of books crashed to the ground, its contents spilling across the wet concrete.
+
+For a half-second, there was just stunned silence. Then, a raw, sharp cry of pure agony was torn from Chloé's lips.
+
+Alex and Megan were on her in an instant. Alex was already typing frantically on his AAC, his face a mask of pure terror. Megan was kneeling beside Chloé, her own face pale with shock.
+
+"Chloé, oh my god, are you okay?" Megan asked, her voice shaking slightly. "Don't move."
+
+Chloé just lay there, gritting her teeth against the white-hot waves of pain. "My ankle," she managed to gasp out. "I think... I think it's broken."
+
+CALL 911, Alex's device blared, the synthesized voice a sharp, commanding crack in the quiet afternoon. NOW, MEGAN. CALL 911.
+
+Megan, snapping into action, was already pulling out her phone. The quiet, productive afternoon had just shattered into a million pieces. Their world, for the second time in their lives, was about to revolve around a hospital, a broken bone, and a long, uncertain road to recovery.
+

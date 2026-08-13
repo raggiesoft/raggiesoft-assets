@@ -1,0 +1,68 @@
+# Part 3: The Ghost Ship – Tuesday, October 25, 2044 – ~10:00 (Exactly two hours after breakfast)
+
+The remnants of the omelets were cleared away, the heavy ceramic plates soaking in the small galley sink. For exactly two hours, Wyatt and Sarah had allowed themselves to believe they were safe. They had sat in the Recreation Lounge, the soft cotton of their clean clothes feeling like a physical shield against the universe, and just breathed.
+
+But Wyatt’s mechanical brain never completely shut off. The profound silence of the station was a blessing, but he needed to be absolutely sure the Glass Wall down on Earth was still holding.
+
+"I'm just going to check the passive receiver," Wyatt told her, squeezing her hand before stepping out of the lounge. "Just to listen for the seismology reports. I'll be right back."
+
+Sarah nodded, curling her legs up on the floral sofa, a soft smile on her face.
+
+Wyatt walked down the quiet, curved corridor and pushed open the heavy door to the Operations center. The room was dark, bathed in the low amber glow of the massive wraparound console. The hardwired receiver was still softly hissing with deep-space static.
+
+Wyatt stepped up to the analog board, his hand reaching for the frequency dial to tune back into the unencrypted military channels.
+
+Before his fingers brushed the metal, the communications board violently locked up.
+
+The low hiss of static vanished, replaced by a high-pitched, rhythmic electronic squeal. It wasn't the grating dual-tone of the EBS. It was a tight-beam, heavily encrypted data burst hitting the station's primary dish. The heavy amber CRT monitor directly in front of Wyatt flared to life, lines of raw code cascading down the phosphor screen faster than a human could read.
+
+Then, the heavy dot-matrix printer beside the console violently jerked to life.
+
+*ZZZT-ZZZT-ZZZT.*
+
+Wyatt’s blood ran completely cold. He ripped the perforated paper from the feed slot the second the print head stopped moving. The text wasn't a warning to civilians. It was raw, unencrypted metadata from an approaching Apex Defense Solutions targeting computer.
+
+- **INTERCEPT PROTOCOL: INITIATED**
+
+- **TARGET:** OUTPOST DELTA 9 (LEGACY ASSET 44-A)
+
+- **TELEMETRY DIAGNOSTIC:** O2 SCRUBBERS ACTIVE. THERMAL OUTPUT 72°F.
+
+- **BIO-SIGNATURES DETECTED:** 2 (UNAUTHORIZED)
+
+- **ASSET DEPLOYED:** CLASS-A TACTICAL DROPSHIP (CLEANER SQUADRON)
+
+- **OBJECTIVE:** PURGE AND SECURE. NO QUARTER. **ETA:** 04 HOURS, 12 MINUTES.
+
+"Sarah!" Wyatt roared, his voice tearing through the quiet corridors of the station.
+
+He didn't wait. He slammed his hand down on the heavy *GENERAL QUARTERS* toggle on the analog board. A pulsing, deep-red alarm light began to spin on the ceiling, bathing the command center in the color of an execution.
+
+Sarah burst through the door a second later, her bare feet sliding on the grated floor plates. The serene, relaxed energy she had carried just moments ago was instantly eradicated by the flashing red light.
+
+"What happened? Did the wall fall?" she gasped, her eyes wide with terror.
+
+Wyatt shoved the dot-matrix printout into her hands. "Apex found us. When I fixed the carbon baffles and fired up the hydroponics pumps, the reactor spiked. Their orbital grid caught the thermal bloom when they fired the kinetic strike on Nevada. They know we're here, and they're sending a cleaner crew to silence us."
+
+Sarah stared at the blocky, printed text. Her hands started to shake. The absolute nightmare of Sector 4 had found them in the dark.
+
+"Four hours," she whispered, looking up at him, the claustrophobia of the station suddenly crashing down on her. "Wyatt, we're in a guard tower. We don't have weapons. We don't have an escape pod. We're trapped in a metal box."
+
+Wyatt stared at the main console, his dark eyes tracing the heavy, archaic lines of the analog dials. His mind was racing, tearing apart the blueprints of the station he had been mapping in his head for the last four days.
+
+"No," Wyatt said, his voice dropping into a low, terrifyingly calm register. He looked up at Sarah. "We aren't in a guard tower."
+
+He grabbed her hand and pulled her toward the massive viewport overlooking the station's outer hull. He pointed out into the dark, past the massive rotating parabolic dish, toward the heavy, cylindrical architecture of the lower rings.
+
+"Look at the hull plating. Look at the exhaust baffles," Wyatt said, his mechanic's brain firing on all cylinders. "Apex didn't build this place from scratch. They bought it cheap and retrofitted it. Delta 9 isn't a station, Sarah. It’s an old Class-IV Heavy Deep-Space Hauler. They just parked it, welded the navigational thrusters shut, and called it an outpost."
+
+Sarah looked out the scratched glass, her mind struggling to catch up. "You're saying this thing can move?"
+
+"I'm saying the fission reactor in the basement isn't just a power plant. It's a primary drive core," Wyatt confirmed, a dangerous, reckless spark lighting up in his eyes. "Modern Apex dropships run on sleek, regulated fusion drives. They're safe, but they have a hard speed limit. This bucket of bolts? It runs on raw, unregulated nuclear thrust. If we can manually blow the orbital tethers and reroute the reactor output into the dead engines, we can push this thing into the red zone. We will blow the doors off that dropship."
+
+Sarah looked from the terrifying void of space back to the dot-matrix printout in her hand. A cleaner crew was four hours away. The only option was to turn their lifeboat into a getaway car.
+
+"What do we have to do?" Sarah asked, her voice steadying, the fierce survivor instinct locking back into place.
+
+"We have to go back to the Boiler Room," Wyatt said, turning toward the door. "And we have to wake this ghost ship up."
+

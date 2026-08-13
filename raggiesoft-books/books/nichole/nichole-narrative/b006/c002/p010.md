@@ -1,0 +1,82 @@
+# Part 9: The Pasture
+
+## Location: The Lower Field, 168 Hermitage Road Time: 3:30 PM
+
+The afternoon sun began to dip, casting long, golden shadows across the Shenandoah Valley. The heat broke, replaced by a gentle breeze coming off the Blue Ridge that smelled of clover and damp earth.
+
+Sherry had shooed them off the porch. "Go," she had said, pointing to the barn path. "The animals don't care about your resume. Go say hello."
+
+Patrick pushed Nichole down the gentle dirt slope. It wasn't ADA-compliant pavement. It was bumpy, rutted earth. But unlike the sterile linoleum of Roosevelt, these bumps felt real. They felt like life.
+
+He parked the Titan AeroMotion under the shade of a massive sugar maple tree near the fence line. The sheep were grazing about fifty yards away—white tufts of cotton drifting slowly across the green.
+
+Patrick locked the brakes. He looked around. No Mr. Swayne. No clipboards. No privilege levels.
+
+He let out a breath he felt like he’d been holding since 9:00 AM. His legs—especially the left one, which was spasming from the stress of the day—gave out. He slid down the trunk of the maple tree, sitting in the grass next to Nichole’s wheel.
+
+"We're off the grid," Patrick murmured, closing his eyes and tilting his head back against the bark.
+
+Nichole watched him. She saw the tension finally drain from his shoulders.
+
+Then, the welcoming committee arrived.
+
+Buster and Scout, the two black-and-white Border Collies, trotted over from the barn. They didn't bark. They didn't jump. They moved with the silent, fluid grace of working dogs who understood the assignment.
+
+Buster, the larger male, walked straight up to Patrick. He sniffed Patrick’s stiff left leg, then simply collapsed with a heavy sigh, resting his blocky head directly on Patrick’s thigh.
+
+Patrick opened his eyes. He buried his hand in the dog's thick ruff.
+
+"Hey buddy," Patrick whispered.
+
+Scout, the female, was more interested in the chair. She circled Nichole once, inspecting the metal frame. Then, she sat down directly in front of the footrests, facing outward. She sat at attention, her ears perked, scanning the field.
+
+She was guarding the asset.
+
+Nichole felt a warmth spread through her chest. At Roosevelt, she was a "liability" to be managed. To this dog, she was a member of the flock that needed watching. It was a promotion.
+
+Suddenly, a streak of orange fur shot out of the tall grass.
+
+It was Barnaby, the barn cat. He was a battered old tomcat with a notch in one ear, known for being elusive. But today, he seemed to sense the stillness.
+
+He jumped—light as a feather—onto Nichole’s lap tray.
+
+Patrick tensed, ready to shoo him off, but Nichole made a soft sound. *Stay.*
+
+Barnaby stepped gingerly over the VocaLink screen. He circled twice on her lap, kneading the fabric of her jeans with his paws, and then curled into a tight, vibrating ball against her stomach.
+
+The purring started instantly. It was a deep, rumble-strip vibration that Nichole could feel all the way into her spine.
+
+It was better than any medicine. The rhythmic *thrum-thrum-thrum* of the cat acted as a sensory anchor, counteracting the high-frequency anxiety of the morning. Her spasticity, which had been firing all day from the stress, began to melt. Her shoulders dropped three inches.
+
+"Look at that," Patrick smiled, watching the cat claim his sister. "You're a cat magnet."
+
+Nichole reached out with her good hand, burying her fingers in the orange fur. The cat pushed his head into her palm.
+
+*Real.*
+
+The smell of the grass. The weight of the cat. The dog guarding her feet. The sheep bleating in the distance.
+
+It was the opposite of the institution. The institution was about separation and sterility. The farm was about connection and dirt.
+
+Patrick picked up a stick and tossed it gently for Buster. The dog looked at the stick, looked at Patrick, and didn't move. *I'm off the clock, kid. I'm leaning on you.*
+
+Patrick laughed. It was a genuine, eighteen-year-old laugh.
+
+"They treat us like we belong here," Patrick said, scratching Buster behind the ears. "No intake forms."
+
+Nichole looked at the horizon. The mountains were turning purple as the sun went down. She thought about the "Door Greeter" job. She thought about the "Potato Scooper."
+
+Then she looked at the sheep. They were just living their lives, eating grass, unbothered by the complexities of human bureaucracy.
+
+She tapped her armrest gently, so as not to wake the cat.
+
+Patrick looked up at her.
+
+She looked at him, then at the mountains to the north.
+
+*We are going to find a place like this,* her eyes said. *But with books.*
+
+"Yeah," Patrick agreed, reading her perfectly. "Vermont. Mountains. Green. And no one locking us in cages."
+
+They stayed there until the fireflies started to blink in the tall grass, surrounded by their temporary pack, putting the pieces of their souls back together one purr and one tail-wag at a time.
+

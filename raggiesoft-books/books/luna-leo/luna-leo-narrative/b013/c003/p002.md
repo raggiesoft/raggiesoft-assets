@@ -1,0 +1,146 @@
+# Part 2: The Subterranean City
+
+December 29, 2005
+
+The University Inn - Concourse Tunnel Connection
+
+09:15 AM
+
+The Fortress (minus the grandparents, who had elected to stay by the fireplace with their books) rode the elevator down to **Level 1**.
+
+They stepped out into the wide, brightly lit corridor connecting the hotel to the station. The moving walkways were humming softly, but Leo ignored the "Fast Lane" this time. He saved his energy.
+
+"Okay," Stella said, checking the wall map. "Ashlee said the entrance to the main network is past the ticket hall."
+
+They navigated the station concourse. It was quiet, the usual bustle of commuters replaced by a few stranded travelers and essential BTA staff in orange vests. The digital boards showed that the **Red Line** was running its 20-minute lifeline service, but the Regional Rail was still suspended until noon.
+
+They found the double doors. They were massive, made of fire-rated steel, usually locked to non-students. But today, the mag-locks were disengaged, and a green light glowed above them.
+
+THE BULL RUN
+
+Pedestrian & Accessibility Network
+
+Sector: North Campus
+
+Status: EMERGENCY ACCESS ONLY (Open 24/7)
+
+"Here we go," Luna said. "Into the rabbit hole."
+
+They pushed through.
+
+It wasn't a utility tunnel. It was a subterranean city street. The corridor was twenty feet wide, paved with smooth, polished terrazzo. The air was a steady, conditioned 70 degrees, smelling faintly of floor wax and recycled heat.
+
+The signage was airport-grade:
+
+\$\uparrow\$ ACADEMIC AVENUE (Green Line - Library/Engineering)
+
+\$\rightarrow\$ ARTS ALLEY (Purple Line - Conservatory)
+
+\$\leftarrow\$ THE STAMPEDE (Gold Line - Student Union/Dorms)
+
+"Let's check out the Engineering wing," Stella suggested. "See how far it is."
+
+They started down **Academic Avenue**.
+
+The tunnel seemed to go on forever. On either side, glass doors offered glimpses into the basements of academic buildings—lecture halls, computer labs, study lounges.
+
+They passed **The Centennial Library (Level B1)**. Inside, rows of empty study carrels stretched into the distance.
+
+They passed **The Foundry Dining Hall**. The smell of fresh bread wafted out into the tunnel.
+
+They walked for ten minutes. Then fifteen.
+
+Leo was pushing his manual chair. The floor was smooth—low rolling resistance—but the distance was relentless. He kept a steady pace, but the burn in his shoulders was building. He was used to the compact footprint of CCHR or the high school. This was different. This was miles of infrastructure.
+
+They reached the junction for the **Student Union**.
+
+Leo stopped. He let his hands drop from the rims to his lap. He exhaled sharply, his chest heaving slightly. He looked at his arms. They were trembling.
+
+He looked down the tunnel. The sign for **Engineering** pointed further ahead. Another quarter-mile.
+
+He looked at Olivia. He tapped his chest, then pointed to the side.
+
+Olivia knew the signal instantly. Fatigue. Urgency.
+
+"Pit stop," Olivia announced. "Scan for facilities."
+
+She spotted a blue sign ten yards ahead. **FAMILY RESTROOM**.
+
+"Right there," Olivia said. She stepped behind his chair, taking the push handles. "I've got you, *mon chum*. Relax your arms."
+
+She pushed him to the door. It was a heavy, automated sliding door. She hit the button.
+
+The door slid open. The room inside was massive—Universal Design at its finest. It had a toilet, a urinal, a sink set at wheelchair height, and a changing table that could hold an adult. It was clean, private, and warm.
+
+Stella and Luna waited in the hallway. "We'll study the map," Stella said. "Take your time."
+
+The door slid shut, sealing Olivia and Leo inside.
+
+The dynamic shifted instantly from "exploration" to "care." There was no awkwardness. They had been doing this for years.
+
+"Okay," Olivia said, parking him and locking the brakes. "Arms up."
+
+She helped him out of his jacket. Leo was exhausted; his core muscles were loose, tired from the exertion of the push. He leaned into her support as she helped him transfer to the toilet. She managed the buttons and zippers he was too tired to fumble with.
+
+Leo finished. Olivia helped him clean up, her movements efficient and gentle. She helped him transfer back to the chair, adjusting his shirt.
+
+"You good?" she asked, washing her hands.
+
+Leo nodded, slumping back into the seat. He tapped his **Quantum Communicator**.
+
+"TIRED. ARMS ARE JELLY."
+
+"I bet," Olivia said. "That was a mile of pushing, Leo. And we haven't even hit the Engineering block."
+
+She turned. "Turn around. I need to go too."
+
+Leo didn't turn around. He didn't look away. He just sat there, checking his battery levels on his Scribe, while Olivia used the toilet a few feet away. They were bodies. They were partners. The concept of "privacy" didn't apply inside the Fortress walls, especially not in a family bathroom.
+
+Olivia washed up and dried her hands. She checked her reflection in the mirror, fixing a stray hair.
+
+"Okay," she said. "Ready to roll back out?"
+
+Leo looked at her. Then he looked at his manual wheels. He looked at the door that led back to the endless, sprawling tunnel system.
+
+He realized something. If he came here—if he became a Bull—he couldn't do this manually. He couldn't arrive at a Calculus lecture with shaking arms and no energy left to think. The campus was too big. The scale was too grand.
+
+He needed to upgrade.
+
+He tapped his screen.
+
+"OLIVIA."
+
+"Yeah?"
+
+"I CANNOT PUSH THIS CAMPUS."
+
+Olivia looked at him. She understood immediately.
+
+"It's too big," she agreed.
+
+"I NEED A MOTOR," Leo typed. "I NEED THE TANK."
+
+"Power chair?" Olivia asked.
+
+"POWER CHAIR," Leo confirmed. "IF I AM GOING TO BE AN ENGINEER, I NEED A MACHINE."
+
+Olivia smiled, unlocking the door. "I think Stella will agree. Let's go tell her."
+
+They emerged back into the tunnel. Stella and Luna were waiting.
+
+"Everything okay?" Stella asked.
+
+"We have a strategic update," Olivia said.
+
+Leo tapped his screen, broadcasting the voice to the empty hallway.
+
+"MANUAL OVERRIDE DISENGAGED. INITIATING POWER PROTOCOL."
+
+Stella looked at the long stretch of tunnel ahead. She nodded. "Yeah. I was thinking the same thing watching you push. We'll call the Titan dealer when we get back to Virginia. New city, new wheels."
+
+"Let's head back," Luna said. "I think we've seen enough to know it's huge."
+
+Olivia took the handles of the manual chair. "I'm driving the rest of the way," she stated. "Save your strength for the lobster leftovers."
+
+They turned back toward the hotel, leaving the depths of the Bull Run behind, knowing that the next time Leo entered these tunnels, he would be doing it under his own electric power.
+

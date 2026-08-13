@@ -1,0 +1,76 @@
+# Part 1: Wake Up Call – Friday, October 21, 2044 – 01:00 (After sleeping for eight hours)
+
+The jarring, two-tone blare of the shift-change klaxon cut through the heavy air of the barracks.
+
+Wyatt opened his eyes. The harsh, flickering fluorescent lights of the S.H.O.P. Dormitories were already buzzing back to life. He hadn't moved an inch in eight hours. His arms were still wrapped protectively around Sarah, and her head was still resting quietly against his chest under the scratchy gray Apex blanket.
+
+She stirred at the sound of the alarm, her eyes fluttering open. She looked up at him in the dim, cramped shadows of the metal enclosure. There was no sudden panic, no awkward scrambling to pull away like he might expect from two people who had met just yesterday. Instead, a quiet, profound relief washed over her face. In a facility designed to strip away every ounce of humanity, sleeping on this terrible, spring-shot Twin XL directly on the cold concrete was the safest she had felt since she left home.
+
+Wyatt offered a soft, reassuring smile, his voice raspy from sleep. "We made it through day one."
+
+Sarah smiled back, a genuine, warm expression that completely ignored the miserable concrete cavern around them. She tightened her arms around his torso, giving him one last, firm hug before the corporate reality of Apex Defense Solutions fully set back in. He returned the embrace, silently cementing the fact that whatever this contract threw at them, they were facing it together.
+
+The klaxon blared a second time. Management demanded their pound of flesh.
+
+They both pushed themselves up from the floor, joints popping as they slid out from under the blanket. Because the bottom bunk was essentially a metal cubby on the floor, they had to awkwardly crouch and slide out into the narrow space between the mattress and the rusted back wall.
+
+The aisle was already filling with a chaotic tide of exhausted bodies. The shift rotation was happening. Men and women coming off the night shift were shuffling down the 64-inch walkways, hovering directly over the bunks, waiting impatiently for the current occupants to vacate so they could collapse onto the warm mattresses.
+
+Sarah clutched her folded, slate-blue Helios uniform to her chest. She looked down the aisle, a momentary wave of apprehension hitting her. All around them, dead-eyed contractors were simply stripping off their sweat-soaked sleepwear and pulling on their stiff work clothes. There were no privacy screens, no turned backs, and no hesitation.
+
+She looked back at Wyatt. He was already on his feet, pulling his abrasive black Apex utility shirt over his broad, scarred shoulders, entirely unfazed by the lack of privacy. He wasn't staring at anyone, and no one was staring at him. He was just doing what he had to do to survive the hellhole.
+
+Sarah took a slow, steadying breath. *When in Rome*. Clinging to the rules of the outside world was only going to make this harder. More importantly, she realized she was standing next to the one person in this entire facility she actually trusted.
+
+Without a word, Sarah shed her company-issued undergarments and pulled on her slate-blue cargo pants and uniform shirt right there in the open.
+
+Wyatt didn't make it weird. He didn't turn around with exaggerated politeness or avert his eyes like a blushing teenager—that would just make her feel exposed. He simply continued lacing up his heavy, steel-toed boots, treating her with the exact same grounded, professional respect he had shown her since he shielded her in the washroom.
+
+She zipped up the front of her bright uniform, adjusting the collar. The nametape *HAYES* sat slightly crooked on her chest.
+
+As they both finished dressing, they stepped completely out into the aisle, grabbing their canvas duffel bags. Wyatt looked back at the rumpled Twin XL mattress on the floor.
+
+He waited for a second, expecting the next contractor to push past them and claim the bed.
+
+Nobody came.
+
+Wyatt looked down the aisle. Every other bunk in Row 42 had a fresh, exhausted worker climbing into it. But the space in front of 42-C was completely empty. Vargas, the veteran from yesterday, was nowhere to be seen. The third person on their rotation hadn't shown up either.
+
+Sarah noticed it too. She frowned, stepping closer to him.
+
+"Where's the relief shift?" she whispered. "I thought they double-booked every mattress."
+
+"They do," Wyatt replied, his voice low, his brow furrowing. "Apex doesn't leave empty space. It costs them money."
+
+He looked toward the heavy blast doors at the end of the barracks. A strange, quiet unease settled in his gut. It could be a missed alarm. Or it could be that someone didn't make it back from Sector 4 last night.
+
+"Don't look a gift horse in the mouth, I guess," Sarah muttered, shouldering her bag, though he could hear the slight edge of nervousness in her voice.
+
+"Right," Wyatt said, grabbing his heavy Mark-IV flashlight. "Let's go get some of that terrible synthetic breakfast."
+
+They stood in the narrow aisle, the shift rotation in full swing around them—a chaotic tide of exhausted bodies swapping places—but no one was stepping up to claim Bunk 42-C.
+
+Sarah pulled out her battered Apex datapad, her brow furrowing as she scrolled through the administrative logs.
+
+"Wait," she whispered, tilting the cracked screen toward him. "Look at the master rotation schedule."
+
+Wyatt leaned in. The blocky green text was explicitly clear:
+
+- **Shift 1:** Vargas, M.
+
+- **Shift 2:** Colton, W.
+
+- **Shift 3:** Hayes, S.
+
+The realization hit both of them at the exact same time. The double-booking on their mattress wasn't intentional corporate policy; it was a massive clerical error. The HR algorithm had completely broken during the acquisition, assigning Sarah to walk Shift 2 alongside Wyatt, while keeping her scheduled for the Shift 3 mattress slot. That was why the bed was empty right now. Sarah was supposed to be the one sleeping in it while he walked the perimeter.
+
+"If we tell the Sector Supervisor," Sarah said quietly, looking up from the datapad, "they'll correct the roster. They'll drop me back onto Shift 3."
+
+She left the rest of the sentence unspoken: *We won't see each other again. We'll just be two ships passing in the aisle.* Wyatt looked at her. He thought about the eight hours they had just spent actually feeling human in this miserable concrete cavern. He thought about the trust they had built in that lead-lined maintenance closet, and the quiet comfort of waking up with her in his arms.
+
+"Then we don't tell them," Wyatt said simply, his voice low and decisive. "Apex doesn't need our help fixing their paperwork."
+
+A bright, genuine smile broke across Sarah's face, completely cutting through the gloom of the barracks.
+
+"Agreed," she said, slipping the datapad into her pocket. She bumped her shoulder lightly against his. "Come on. Let's go get breakfast."
+

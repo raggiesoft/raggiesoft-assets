@@ -1,0 +1,171 @@
+# Part 6: The Transit Bible
+
+## Saturday, July 21, 2007 — 15:00 PM 105 Pepper Street SE, Christiansburg, VA
+
+The garlic bread was gone. The spaghetti bowl was empty. The "Mess Hall" (dining room) was littered with dirty napkins and empty sweet tea glasses.
+
+Aunt Linda checked her watch.
+
+"Alright, Satellites," Linda announced, pushing her chair back. "We need to head back to base. I’ve got boxes to unpack, and if I don't get Elara to a power outlet soon, her game is going to die and we'll have a meltdown."
+
+"Aww," Harper groaned, slumping in her purple wheelchair at the table. "Already? We just got the system running."
+
+"You can come back next weekend," Jessica promised, stacking plates. "But before you go, we need to review the Transport Protocol. If you're going to be a Satellite, you need to know how to maintain orbit."
+
+"I know how," Harper said. "Aunt Linda drives the van."
+
+"Incorrect," Freddie said. He rolled The Rover to the kitchen counter, where he had laid out a series of folded paper maps. "The van is a backup system. The primary link is Public Transit."
+
+Harper rolled over, intrigued. "Buses?"
+
+"The lifeblood of the independent operator," Freddie stated.
+
+He pointed to a map labeled Regional Transit Schematic (2007).
+
+"Here is the data," Freddie began, his finger tracing a line. "We are currently at 105 Pepper Street SE. The drop zone is right there."
+
+He pointed out the window. Across the street, diagonally adjacent to their house, was a paved area with a brick shelter.
+
+"Pepper Plaza," Freddie identified. "Located at 9 Roanoke Street. It is the primary node for Christiansburg."
+
+"That's close," Harper noted. "I could roll there in thirty seconds."
+
+"Exactly," Freddie said. "Now, here is your route from Radford."
+
+He tapped a spot on the map marked Highland Village Apartments.
+
+"Step 1: You depart Base Radford. You board a Radford Transit (RT) bus. It costs fifty cents. No transfers. You ride it to the McConnell Transit Center."
+
+"That’s the Hub," Jessica clarified. "Right across from Radford University. Big brick building. You can't miss it."
+
+"Step 2:" Freddie traced a thick blue line running along US-11. "At McConnell, you transfer to Blue Ridge Transit (BT) Route 3. This is the Shuttle. It runs every thirty minutes on weekdays. It connects Radford to Christiansburg via Route 11."
+
+"Cost?" Harper asked, entering 'Logistics Mode'.
+
+"One dollar," Freddie said. "If you need to switch to another Blue Ridge bus later, you ask for a transfer slip. But for this trip? It is a straight shot. Thirty minutes. It drops you right at Pepper Plaza."
+
+"So," Harper calculated. "One bus, one transfer, thirty minutes. Cost: \$1.50 one way."
+
+"For now," Aunt Linda interrupted, digging into her massive purse.
+
+She pulled out a plastic card in a clear sleeve.
+
+"This," Linda declared, holding it up like a badge, "is a Regional 30-Day Pass. It works on everything. Radford Transit, Blue Ridge Transit, Bluewater, Roanoke Valley... all of 'em. I bought one for myself so I can take the girls around without fishing for quarters."
+
+"Pass technology," Freddie approved. "Frictionless entry."
+
+"And here is the best part," Jessica added, leaning against the counter. "You start Radford High School in September, right?"
+
+Harper nodded. "Freshman year. Ugh."
+
+"It has a perk," Jessica grinned. "Starting in September, your Radford High Student ID is a Golden Ticket. You flash that ID, and you ride Radford Transit and Blue Ridge Transit for free. Zero cost."
+
+Harper’s jaw dropped. "Free? Seriously?"
+
+"Unlimited rides," Freddie confirmed. "School policy. They want students mobile."
+
+Harper looked at the map. She looked at the blue line connecting her new home to Freddie’s house. She looked at the bus stop across the street.
+
+In Norfolk, getting anywhere meant begging Ellen for a ride. It meant being loaded into the van like cargo. It meant hearing Ellen sigh about the "inconvenience" of the wheelchair.
+
+Here?
+
+"I can just... go," Harper whispered. "I can get on the bus with my chair—"
+
+"All buses are low-floor or lift-equipped," Freddie assured her. "ADA compliant."
+
+"—and I can come here whenever I want. For free."
+
+"On weekends," Aunt Linda reminded her gently. "School nights are for homework."
+
+"Right, right," Harper waved her off. "But the capability exists."
+
+"What about us?" Elara asked, tugging on Linda’s sleeve. "Do we get free rides?"
+
+"Not yet," Linda said, patting Elara’s head. "You and Amanda are twelve. That means you don't ride the city bus alone. Not until high school. For now, you ride with me, or with Harper if I sign off on it. But mostly me."
+
+Amanda made a soft hmm sound, looking at the map. She traced the blue line with her finger, then pointed to Freddie.
+
+"Yes," Freddie nodded to her. "That line leads to me."
+
+"Okay," Aunt Linda said, checking her watch again. "Lesson over. Load up the van. We'll simulate the bus route next weekend."
+
+The departure was chaotic but happy. Hugs were exchanged. Amanda gave Freddie one last long look and a small wave. Harper spun a 360 in the driveway before hopping into the van.
+
+"Don't forget the countdown!" Harper shouted as the door slid shut. "October 2010! I'm moving in!"
+
+The maroon van backed out of the driveway. It turned onto Pepper Street, drove past the bus stop at Pepper Plaza, and disappeared toward Route 11.
+
+Freddie sat on the front porch in The Rover. The house was quiet again.
+
+"They made it," Jessica said, standing beside him and crossing her arms. "They're safe."
+
+"They are in orbit," Freddie corrected, looking at the empty street. "And the telemetry is good."
+
+He looked at the bus stop across the road.
+
+Route 3.
+
+It wasn't just a bus line. It was a lifeline.
+
+"Let's go downstairs," Freddie said, turning his wheels toward the door. "I need to calibrate the Mega-Bed."
+
+"You just want to take a nap," Jessica teased.
+
+"I am recharging," Freddie said with a small smile. "System maintenance."
+
+## Saturday, July 21, 2007 — 15:05 PM 105 Pepper Street SE, Christiansburg, VA
+
+The map was folded. The "transit bible" seemed complete. Harper was vibrating with the realization that starting in September, her high school ID was essentially a magic wand for regional travel.
+
+"This is going to be epic," Harper grinned, looking at Amanda and Elara. "So, on Saturdays, I'll just flash my badge, grab the nuggets, and we'll roll over here for breakfast. We'll be like a squad."
+
+"Halt," Aunt Linda said, her voice cutting through Harper’s fantasy like a brake squeal.
+
+"Pause," Jessica added, stepping in. "Protocol correction."
+
+"What?" Harper asked, looking between them. "I have the pass. They have the pass—well, Linda has the pass for them. We can ride."
+
+"You can ride," Linda clarified, pointing a manicured finger at Harper. "You are fourteen. You are going to high school. You have demonstrated... moderate situational awareness."
+
+She turned to the twins, Amanda and Elara, who were twelve. Amanda was currently humming at the refrigerator magnets.
+
+"These two," Linda stated, "are twelve. And city buses are public spaces. Strangers. Traffic. Confusion."
+
+"So?" Harper shrugged. "I'll watch them."
+
+"Negative," Freddie said from The Rover. "You are a minor unit. You cannot accept liability for other minor units."
+
+"Freddie is right," Jessica said. "Harper, you can ride solo. That’s your privilege. But Amanda and Elara are grounded to Adult Chaperones Only."
+
+"That means," Paige counted off on her fingers, "They can ride with Linda. They can ride with me. Or Jessica. Or Sarah. Or Jenna. Or Freddie."
+
+"Wait," Harper frowned. "So if I want to bring them, I can't? I have to wait for Aunt Linda to drive us?"
+
+"Or," Jenna grinned, leaning against the doorframe, "one of us rides the bus to Radford, picks them up, and escorts the cargo back to base."
+
+"It’s a chain of custody issue," Aunt Linda said firmly. "Until you are eighteen, Harper, you are a passenger, not a conductor. You worry about getting yourself and that chair on and off the lift safely. Do not worry about wrangling your sisters."
+
+Harper pouted for a second, but then she looked at Amanda, who was wandering toward the basement door again, completely unaware of the conversation.
+
+"Yeah, okay," Harper admitted. "Amanda might try to get off at the wrong stop if she sees a bird she likes. Good point."
+
+"Safety protocols are absolute," Freddie confirmed. "The twins require an 18-plus escort. No exceptions."
+
+"Fine," Harper sighed. "But I'm still coming every weekend."
+
+"That," Linda smiled, "is the plan. Now, load up. The ice cream I promised them is melting in my imagination."
+
+The departure finally happened. The maroon van backed out of the driveway, carrying the "Satellite Unit" back to Radford.
+
+Freddie watched them go from the porch.
+
+He looked at the bus stop across the street at Pepper Plaza.
+
+The network was established. The rules were set.
+
+Harper had her freedom (The Route 3 Shuttle). The twins had their safety (The Adult Chaperone Rule). And Freddie had his team.
+
+"System status," Freddie whispered to the empty driveway. "Green across the board."
+
+

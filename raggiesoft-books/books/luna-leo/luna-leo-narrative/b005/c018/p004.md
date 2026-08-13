@@ -1,0 +1,14 @@
+# Part 4: The Pre-Performance Hustle
+
+Luna was just finishing her soft saxophone melody when Stella appeared at the propped-open doorway of Room 112. "Okay, I'm here!" she announced, stepping inside.
+
+Luna and Leo looked up, visibly relieved. Leo immediately reached over and closed the door firmly, while Luna let the window blinds fall shut with a soft clatter, finally granting them some privacy.
+
+"Alright team, hustle time," Stella said, already scanning the room and grabbing uniform bags. "We don't have long at all. We need to get changed into base uniforms and get right back to the bus. Warm-ups start practically as soon as we get to the high school."
+
+She quickly helped Leo out of his street clothes and into the bib pants and specific undershirt required for the uniform. Then she assisted Luna, ensuring everything was situated correctly. "Jackets and hats stay in the garment bags until we get there," she reminded them, efficiently folding their discarded clothes and stuffing them into an overnight bag. "We'll put those on right before we take the field."  
+
+As she helped Leo adjust his collar, she added, "Remember, we're the last competing band to perform today. Gives us a little more warm-up time, but it means we need to be efficient now. The host band, Sherando High, does an exhibition performance while the judges tally the final scores right after us."
+
+Within minutes, thanks to Stella's focused efficiency and the twins' cooperation, they were both in their partial uniforms. Stella did a quick check of the room, grabbed her chaperone bag and the uniform garment bags, and ushered the twins out the door. "Okay, let's move, move, move! Back to the bus!" The brief respite was over; the energy now shifted entirely towards the impending competition.
+

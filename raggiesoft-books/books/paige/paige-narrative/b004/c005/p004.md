@@ -1,0 +1,108 @@
+# Part 4: The Deep Blue
+
+## Sunday, May 9, 2004 — 13:30 PM (PST)The Bayfront Aquarium
+
+The "Metro-Rail" ride back from the Sky-Spire had been smooth, but the transition to the waterfront was a physical trial. They navigated the "Hill Climb" elevators at the public market, descending from the city streets to the pier level.
+
+By the time they reached Alaskan Way, Freddie’s gait had deteriorated. The adrenaline of the morning's ascent had burned off, leaving behind the heavy, grinding reality of his spastic diplegia. His right foot dragged slightly with every step. He was leaning heavily on Paige, his arm draped over her shoulders, his breathing shallow and tight.
+
+"Target acquired," Jessica announced, pointing to the large wooden structure of Pier 59. "**The Bayfront Aquarium.**"
+
+"Low light protocol," Freddie rasped, trying to sound like the Captain, but his voice was thin. "We’re going under."
+
+They entered the lobby. It was cool and smelled of brine, a welcome relief from the sun, but the queue for tickets was long. Freddie swayed, gripping Paige’s waist to stay upright.
+
+"Status check?" Paige whispered, looking up at him with concern.
+
+"Legs... critical," Freddie admitted, staring at the floor. "Battery low."
+
+Jessica looked around the lobby while waiting in line. She saw the ticket counters, the gift shop, and the eager families.
+
+Then, out of the corner of her eye, she saw them.
+
+Tucked into an alcove near the coat check was a row of blue vinyl wheelchairs. They were standard-issue manual chairs, folded and waiting, with a sign above them: **Complimentary Guest Use**.
+
+Jessica stepped out of line. She walked over to the alcove and pulled one out. She locked the brakes and rolled it over to Freddie.
+
+"Freddie," Jessica said softly.
+
+Freddie looked down at the chair. He froze.
+
+The "Robert Virus" flared up instantly. *Lazy. Giving up. What will people think?*
+
+"No," Freddie whispered, backing up a step. "I can walk. I am not... invalid."
+
+"You aren't invalid," Jessica said firmly. "You're exhausted. You just walked a mile at the Sky-Spire. You've been on your feet for four hours."
+
+"Mom would say..." Freddie started, his voice trembling. "She would say I am quitting."
+
+"Mom isn't here," Paige cut in, her voice fierce. She turned to face him, grabbing both his hands. "She is three thousand miles away. We are here. And we say you are hurting."
+
+She squeezed his hands.
+
+"Look at me, Freddie. You are shaking. If you keep walking, you're going to crash. You're going to be in so much pain you won't even see the fish. Is that what you want?"
+
+"No," Freddie whispered. "I want to see the sharks."
+
+"Then sit down," Jessica said, her hand resting on the push handle. "Let us be the engine. You just be the Navigator."
+
+Freddie looked at the chair. He looked at Jessica’s determined face. He looked at Paige, who was nodding encouragement.
+
+"You promise?" Freddie asked, his voice small. "You won't... think less of me?"
+
+"Oh, Freddie," Paige said, pulling him into a tight, crushing hug right there in the lobby. "We could never think less of you. We think you're the strongest person we know. But even tanks need treads."
+
+Jessica joined the hug, wrapping her arms around his back. "Get in the chair, Captain. That's an order."
+
+Freddie let out a long breath. He nodded.
+
+"Okay," he whispered. "Chair protocol engaged."
+
+He turned and sat. The vinyl seat was cool. As he settled in, the weight came off his spine. The fire in his legs dimmed. He slumped slightly, the relief so profound it almost made him dizzy.
+
+"Better?" Jessica asked.
+
+"Much better," Freddie admitted.
+
+Jessica unlocked the brakes. "Then let's roll."
+
+## 14:00 PM — The Underwater Dome
+
+They moved through the exhibits with a new, effortless rhythm. Jessica pushed the chair, her stride confident and smooth. She navigated the crowds like a pro, using the bulk of the chair to clear a path.
+
+Paige walked right beside him on the left. She didn't just walk; she connected. She rested her hand on the armrest, her fingers lacing through Freddie’s.
+
+It was a physical promise. *I am right here. I am not letting go.*
+
+They passed the jellyfish tank—a tall cylinder of blue light. Freddie leaned back in the chair, his head resting against the canvas, watching the jellies pulse.
+
+"No skeleton," Freddie murmured, relaxed. "Pure propulsion."
+
+"Like us," Paige smiled, squeezing his hand. "Just moving."
+
+They reached the **Underwater Dome**. The moving walkway carried them into the center of the massive glass sphere.
+
+Jessica locked the brakes in the middle of the tunnel.
+
+Fish swam everywhere—above them, beside them, below them. The light filtered through twenty feet of water, casting rippling patterns of teal and azure on Freddie’s face.
+
+He didn't have to worry about balance. He didn't have to worry about falling. He just sat there, safe in his rolling throne, holding his sister's hand.
+
+He looked up. A shark glided over the glass, its white belly visible.
+
+"It is a closed system," Freddie whispered. "Biological equilibrium."
+
+"It's peaceful," Paige said, leaning her head on his shoulder.
+
+"It is weightless," Freddie corrected. "In here... gravity is negotiable."
+
+He looked at his hand laced with Paige’s. He looked back at Jessica, who was leaning over the handles, smiling down at him.
+
+He realized then that the wheelchair wasn't a defeat. It was just another tool in the Avery inventory. It was a vehicle that let him stay in the fight.
+
+"I like the blue," Freddie decided. "It is the opposite of the bus."
+
+"Then we stay," Jessica said. "As long as you want. We just float."
+
+They stayed in the dome for an hour, the three of them suspended in the blue light, watching the fish circle in their endless, silent orbits, letting the cool water wash away the last of the red alert.
+

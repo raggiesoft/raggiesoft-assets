@@ -1,0 +1,34 @@
+# Part 12: A Song of Homecoming
+
+As they sat in the quiet of the empty gate area, a steady stream of generic holiday music drifted from the overhead speakers, part of the airport's ambient soundscape they had been tuning out for hours. Then, a new song began that cut through the background noise. It started with a dramatic, slightly melancholic piano melody, quickly joined by swelling orchestral strings that built a sense of grand anticipation.
+
+Then, a clear, powerful voice sang out, and the words of the chorus seemed to stop time, aimed directly at Leo's heart:
+
+> And the lights are bright, on this winter's night
+>
+> Because you're coming home
+>
+> Yes, you're finally coming home
+>
+> Through the wind and rain, through the doubt and pain
+>
+> You are not alone
+>
+> No, you're finally coming home!
+
+The words hit Leo with the force of a physical blow, but it wasn't a blow of fear. It was a tidal wave of pure, unadulterated, and overwhelming joy. The song, Arctic Symphony Project's "Homeward on This Day," wasn't just a song; it was his story, sung out loud for the whole world to hear. He had been through the wind and rain in Kent. He had been through the doubt and pain on the long journey. But he was not alone, and yes, he was finally, *finally* coming home.
+
+A choked sob of pure, cathartic relief was torn from his chest. He slumped forward in his chair, his body shaking as tears he hadn't realized he was holding back began to stream down his face.
+
+Olivia was on him in an instant, her hand a firm, grounding presence on his back. Her first instinct was to soothe a panic, but as she knelt in front of him and saw his face, she realized this was different. He was crying, yes, but through the tears, his expression was one of profound, almost painful relief. A small, watery smile was on his lips. As she heard the lyrics repeat, she understood. This wasn't a meltdown; it was a release.
+
+"It's okay," she whispered, her voice full of a deep, shared understanding. "It's a happy cry. I know. You're coming home." She wrapped him in a gentle hug, letting him cry it out, her presence a steady anchor in his sea of happy, overwhelming emotion.
+
+After a few minutes, as the song faded and his sobs quieted, she pulled back, wiping a tear from his cheek with her thumb. She saw the emotional and physical exhaustion in his eyes. "Okay," she said, her voice shifting into a tone of gentle, practical care. "All this emotion works up an appetite. I think it's time for lunch."
+
+They made their way to a small cafe in the concourse. "Alright, my friend," she said. "What's the order? You're still calling the shots."
+
+He used her phone, his fingers moving with a new steadiness, and typed out a very specific request: Lunch meat sandwich. Ham, American cheese, lettuce, pickles, and mayonnaise. Chips. And a bottle of water, please. He wasn't feeling a soda; he just wanted something simple and clean.
+
+"An excellent and very specific choice," Olivia said with a warm smile. She ordered his custom sandwich and a simple turkey wrap for herself. They returned to their quiet gate area and ate their meal in a comfortable, peaceful silence. The emotional storm had passed, leaving a calm, hopeful quiet in its wake as they prepared for the final steps of their journey home.
+

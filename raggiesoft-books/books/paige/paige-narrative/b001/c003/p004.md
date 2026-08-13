@@ -1,0 +1,99 @@
+# Part 4: The Law of the Lunchroom
+
+The journey from the clinic to the cafeteria was a slow, agonizing shuffle. The muscle relaxer Mrs. Gable had administered was beginning to soften the edges of the spasms, but Freddie’s legs were still heavy, unresponsive columns of lead.
+
+He was dead weight.
+
+Paige was on his left, Jessica on his right. His arms were draped over their shoulders, his toes dragging slightly on the linoleum. To an outsider, it might have looked like they were carrying a wounded soldier off a battlefield. In a way, they were.
+
+"Almost there," Jessica grunted, adjusting her grip on his waist. "Just focus on moving your feet, Freddie. Left, right, left."
+
+Freddie didn't answer. He couldn't. His voice had locked itself away in the same vault where he kept his eye contact. The physical exhaustion of the meltdown, combined with the medication, had rendered him non-verbal. He just stared at the floor, letting the rhythmic movement of his sisters guide him.
+
+He was starving. The hollow ache in his stomach was the only thing grounding him to the physical world, sharper even than the emotional pain of the hallway.
+
+They pushed through the double doors.
+
+The cafeteria was a wall of sound—a roar of hundreds of conversations bouncing off hard surfaces. Freddie flinched, squeezing his eyes shut, but his sisters tightened their grip, creating a mobile forcefield.
+
+Standing at the end of the serving line, arms crossed like a sentry guarding the gates of the underworld, was Mrs. DeMarco.
+
+She was a short woman with hair the color of steel wool and eyes that could spot an unreturned tray from three zip codes away. As the Averys approached, her gaze locked onto them. She saw the drag of Freddie’s feet. She saw the protective set of Jessica’s jaw. She saw the red-rimmed eyes of all three siblings.
+
+She did not smile. She simply nodded—a subtle, imperceptible granting of asylum.
+
+"We need a table in the back," Jessica whispered to Paige. "Far corner."
+
+"Food first," Paige said. "He needs calories."
+
+They maneuvered him into the line. The queue was long, but as soon as the other students saw the terrifying determination on Jessica’s face, they parted like the Red Sea. No one dared to disrupt the sacred flow of the line when the Matriarch was on a mission.
+
+They reached the serving station. Freddie couldn't lift his head to look at the lunch lady.
+
+"He's non-verbal right now," Paige told the woman behind the glass, her voice steady. "He needs the chicken patty on a bun. Plain. French fries. And a chocolate milk."
+
+"Double fries," Jessica added, reaching for her wallet. "And a cookie."
+
+They loaded the tray. Freddie leaned heavily against the metal railing, his breathing shallow.
+
+"Did you hear about it? Man, it was classic."
+
+The voice was loud. Obnoxious. It cut through the ambient noise like a jagged knife.
+
+Freddie tensed. He knew that voice. It was the same frequency of arrogance he had heard earlier in the year at the football games, but louder now.
+
+Standing two spots behind them in line was Josh Riley. He was a Freshman, like them, but he carried himself with the unearned swagger of a king. He was holding court with a group of snickering boys.
+
+"I told everyone," Josh bragged, loud enough for half the cafeteria to hear. "I said, 'You gotta watch out for the quiet ones.' I shut that down before it even started. Saved Courtney the trouble."
+
+Paige froze. The tray in her hands rattled against the metal slide.
+
+"Wait," one of the other boys laughed. "So you're the one who told her?"
+
+"Hell yeah, I told her," Josh preened, running a hand through his gelled hair. "Someone had to tell the truth about Avery. Can't have a freak like that thinking he has a shot. I told her exactly what he was up to."
+
+Jessica stopped moving. She slowly turned her head, her eyes locking onto Josh Riley. The air around her seemed to crackle. She didn't know *what* Josh had told Courtney—she still didn't know the content of the lie—but she knew he was the architect of her brother's destruction.
+
+"You," Jessica said, her voice low and dangerous.
+
+Josh looked up, seeing Jessica. He smirked. He didn't know he was looking at the Matriarch. He just saw a girl in a skirt.
+
+"What's up, Clarinet?" Josh sneered. "Your brother crying somewhere?"
+
+Jessica took a step forward, leaving Freddie propped against the rail. She was about to violate every known rule of decorum by dismantling Josh Riley on a molecular level.
+
+"Mr. Riley."
+
+The name was spoken softly, yet it silenced the entire serving line.
+
+Mrs. DeMarco materialized from the ether. She didn't walk; she simply arrived. She stood between Jessica and Josh, her steel-wool head barely reaching Josh’s chest, yet looking down on him from a great height.
+
+"M-Mrs. DeMarco," Josh stammered, his swagger evaporating.
+
+"I believe," Mrs. DeMarco said, her voice smooth and terrifyingly calm, "that I heard you discussing the personal affairs of another student. And I believe I heard you taking pride in causing distress."
+
+"I was just... talking," Josh said, shrinking back.
+
+"Harassment," Mrs. DeMarco listed, staring into his soul. "Malice. And loud, boorish behavior in my line. You have violated the sanctity of this room, Mr. Riley."
+
+She pointed a single, manicured finger toward the back of the kitchen—the door marked *CUSTODIAL*.
+
+"Trash duty," she said. "One week. You start today. You will carry Mr. Avery's tray to his table, and then you will report to the scullery."
+
+"But—" Josh started.
+
+Mrs. DeMarco raised an eyebrow. "Backtalk? To me? Make it two weeks. Move."
+
+Josh Riley, the future legend of detention, went pale. He looked at Jessica, then at Freddie, who was still staring at the floor. He picked up Freddie’s tray with trembling hands.
+
+Mrs. DeMarco turned to Jessica. The terrifying mask vanished, replaced by the look of a grandmother who had seen too much.
+
+"Take him to table four," she said gently, nodding at Freddie. "It's quiet. I'll make sure no one bothers you."
+
+"Thank you, Mrs. DeMarco," Jessica whispered.
+
+"Go," Mrs. DeMarco said, turning back to glare at the line to ensure the flow continued. "Eat."
+
+Jessica and Paige hoisted Freddie up again. As they walked toward the quiet table in the back, followed by a humiliated Josh Riley carrying their lunch, Freddie let out a long, shaky breath. The noise was still there, and the hurt was still fresh, but under the watchful eye of the cafeteria supervisor, they were safe.
+
+

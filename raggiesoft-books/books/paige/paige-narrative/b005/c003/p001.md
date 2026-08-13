@@ -1,0 +1,168 @@
+# Part 1: The Radford Protocol
+
+## Saturday, July 21, 2007 — 10:00 AM 105 Pepper Street SE, Christiansburg, VA
+
+The Saturday morning routine at "The Base" was usually a slow, deliberate boot sequence. Freddie would roll The Rover onto the TFL platform, descend to the "Bridge" (the basement), and join the twins for a server diagnostic or a round of Super Plumber Bros.
+
+But today, the house was vibrating with a different kind of energy.
+
+The phone on the kitchen wall rang. It wasn't the shrill, demanding ring of Ellen calling from Norfolk. It was a softer, melodic chirping—the ringtone assigned to "Friendly Forces."
+
+Jessica picked it up. "Avery Base, Jessica speaking."
+
+"Jessie!" The voice on the other end was loud, warm, and distinctly Appalachian. "It's Aunt Linda! We're in the neighborhood!"
+
+Jessica’s posture relaxed instantly. "Aunt Linda? Where are you?"
+
+"We moved back!" Linda announced, her voice crackling with excitement. "I told Ellen I couldn't take the humidity anymore. I packed up the girls and we headed for the hills. We got a place in Radford! Just across the river!"
+
+"Radford?" Jessica repeated, her eyes widening. She covered the mouthpiece and looked at Freddie, who was eating toast at the island. "It's Aunt Linda. She moved to Radford. She has the girls."
+
+Freddie stopped chewing. "The younger units? Harper? Amanda? Elara?"
+
+"All of them," Jessica confirmed. She went back to the phone. "Linda, that's amazing! Where are you staying?"
+
+"We got a big apartment at Highland Village," Linda said. "It's right near the university. But listen, we're in the van right now. We're coming to see you! Ellen gave me the address—though she made a sour face when she did it. We'll be there in twenty minutes!"
+
+"Twenty minutes," Jessica repeated. "Okay. We'll be ready."
+
+She hung up.
+
+"Action stations!" Jessica shouted. "Aunt Linda is inbound! ETA 20 minutes! And she's bringing the satellites!"
+
+The house exploded into motion.
+
+"Clean sweep!" Sarah yelled from the basement stairs. "Hide the laundry! Clear the counters!"
+
+"Wait," Freddie said, raising a hand. "Protocol check. Does Linda know about... the configuration?"
+
+He pointed to the basement door. He pointed to The Rover. He pointed to the fact that they were all currently naked.
+
+"Linda isn't Mom," Jessica said, grabbing a stack of mail off the table. "Linda is cool. But... maybe we put on clothes? Just for the initial handshake?"
+
+"Pants are logical," Freddie agreed. "Social camouflage."
+
+They scrambled.
+
+## 10:20 AM — The Arrival
+
+A beat-up maroon minivan pulled into the driveway behind the Avalon. The side door slid open with a grinding crunch.
+
+Out spilled the chaos.
+
+First came **Harper** (Age 14). She was wearing purple headphones around her neck and a t-shirt that said LOUD NOISES.
+
+She hopped out of the van, but she didn't run to the porch. She turned back to the open door and grabbed the frame of a wheelchair—neon purple, lightweight, and folded.
+
+She yanked it out, snapped it open with a practiced thwack, and sat down in it right there in the driveway.
+
+"Deployed!" Harper shouted, spinning the chair in a tight circle. "Tires on the ground!"
+
+Then came the twins, **Amanda and Elara** (Age 12). They moved like a single organism. Elara was talking a mile a minute. Amanda, the silent twin, was making soft, happy humming noises—hmm-hmm-hmm—as she flapped her hands gently by her sides, looking at the trees.
+
+Finally, Aunt Linda stepped out of the driver's seat. She was wearing a floral muumuu and oversized sunglasses. She looked like a woman who had survived a war and decided to throw a party to celebrate.
+
+"Look at this place!" Linda shouted, waving her arms. "You guys got a whole house! It's adorable!"
+
+Jessica opened the front door. "Aunt Linda!"
+
+They hugged on the porch. It was a real hug—warm, squishy, and smelling of peppermint.
+
+"Get in here, you nuggets!" Linda waved at the younger girls. "Come see your big sisters! And your Captain!"
+
+The girls rushed the porch—Amanda and Elara running, Harper rolling up the ramp with aggressive speed.
+
+Freddie sat in The Rover in the living room. He felt a spike of anxiety. He hadn't seen the younger ones in three years. Would they think his chair was weird? Would they be scared?
+
+Harper burst through the door, her purple wheels blurring. She slammed on her brakes, stopping inches from Freddie.
+
+She didn't look pitying. She looked... competitive.
+
+"Sick wheels," Harper said, eyeing his setup. She reached out and tapped his titanium rim. "Cambered? Matte black? That is high-performance."
+
+Freddie blinked. "It is... optimized. For agility."
+
+"Nice," Harper grinned, patting her own armrest. "I finally got mine. Mom wouldn't let me use it in the house, but Aunt Linda says if my legs hurt, I roll. So I roll."
+
+"Efficiency," Freddie agreed, feeling a massive weight lift off his chest. She wasn't scared. She was a fellow pilot.
+
+"Cool," Harper said. She looked around the living room. "Where's the stereo? This room needs bass."
+
+"Basement," Jenna yelled, popping up from the hole in the floor (riding the TFL up). "We have the subs down there!"
+
+Harper’s eyes went wide. "You have a hole in the floor? That moves?"
+
+"It’s a TFL," Freddie explained. "Thu-Floor Lift. Access to the Bridge."
+
+"I want a ride," Harper declared.
+
+"Authorized," Freddie smiled.
+
+Then came the twins. Elara walked up to Freddie. She looked at him with serious, dark eyes.
+
+"Mom said you were sick," Elara said. "She said you were 'broken.'"
+
+Freddie stiffened. The "Robert Virus" had a variant: The "Ellen Virus."
+
+"Mom is incorrect," Paige said, stepping up behind Freddie and putting her hands on his shoulders. "Freddie isn't broken. He's upgraded."
+
+Amanda walked up to him. She didn't speak words. She looked at his face, then at the wheels of his chair.
+
+"Mmm," Amanda vocalized, a low, inquisitive grunt. She reached out and touched his knee.
+
+She smiled. It was a tiny, private smile.
+
+She reached into her pocket and pulled out a small, perfectly smooth grey stone. She placed it on Freddie's knee.
+
+"Ah!" she exclaimed softly, tapping the stone.
+
+"Data transfer," Freddie whispered, recognizing the gesture. "Object of value."
+
+"She likes you," Elara translated. "She thinks the chair makes you look like a robot. Robots are cool."
+
+"Robots are superior," Freddie agreed.
+
+"Okay!" Linda clapped her hands, stepping into the living room. "So here's the deal. I have custody. Full stop. Ellen signed the papers last week. She said she 'couldn't handle the noise' anymore."
+
+Linda rolled her eyes.
+
+"Her loss, my gain. We are living in Radford. Highland Village apartments. It's nice. It's got a pool. And the best part?"
+
+She looked at the Avery Unit.
+
+"You guys have full visitation rights. Anytime. Day or night. You want to come over for dinner? Come over. You want to take the girls for a weekend? Take them. We are a satellite office."
+
+"Satellite office," Jessica repeated, grinning. "That means the network is expanding."
+
+"And," Linda added, leaning in conspiratorially, "I heard about the bed."
+
+The room went silent.
+
+"The... bed?" Sarah asked.
+
+"The Mega-Bed," Linda winked. "Marge told me before she passed. She said, 'Linda, those kids are sleeping in a pile like hamsters, and it is the sweetest thing I ever saw. Don't let Ellen ruin it.'"
+
+She looked at the TFL. She looked at the open door to the basement where the Mega-Bed waited.
+
+"You guys doing okay? Sleeping good?"
+
+"We sleep... optimally," Freddie said.
+
+"Good," Linda said firmly. "Because if anyone gives you grief about it, you send them to me. I'll hit 'em with my purse."
+
+She hugged Freddie, bending down to wrap her arms around him in the chair.
+
+"We're back, Freddie," Linda whispered. "The mountains are full again."
+
+"The grid is reconnected," Freddie said, feeling the warmth of the family expanding around him. "Signal strength... maximum."
+
+"Now," Harper shouted from the TFL platform, having already rolled onto it. "How do I make this thing go down? I need to see the servers!"
+
+"Press the down arrow," Freddie instructed. "Enjoy the descent."
+
+Whirrrrrrrr.
+
+Harper sank into the floor, cackling with glee as she disappeared into the underworld.
+
+The Avery Unit was back online.
+

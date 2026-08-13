@@ -1,0 +1,12 @@
+# Part 3: Doubts and Desperation
+
+After changing buses again in Knoxville, the journey continued through Nashville. By this point, the accumulation of physical discomfort, Delores’s dismissive behavior, and the profound isolation had solidified a painful realization in Leo’s mind: this relationship wasn't working. It wasn't just a rough patch; it was wrong. He desperately wanted it to be over. He wanted to turn around, get off this endless bus ride, and go back home to the safety and quiet understanding of Stella and Luna.
+
+But the thought was immediately followed by a wave of helplessness. How could he? He had limited funds, no way to easily communicate, and Delores controlled everything about this trip. He was stuck.
+
+Knowing he wanted out but couldn't escape made the rest of the journey an exercise in quiet desperation. Across the plains of the Midwest – navigating another bus change in St. Louis, then onward through Kansas City and Topeka – the landscape flattened into an endless, monotonous panorama that mirrored his internal feeling of being trapped on a ride he couldn't get off. Inside the bus, the tension between Leo and Delores thickened.
+
+At the brief stop in Colby, Kansas – little more than a designated pull-off at a large, dusty truck stop off Interstate 70 – Leo watched Delores step off the bus to stretch her legs. She stood near the front of the coach, staring back east, the direction they had come from, her arms crossed tightly, a deep frown creasing her brow. She kicked absently at a loose piece of gravel, her posture radiating frustration and something Leo couldn't quite decipher – regret? Second thoughts? It seemed, perhaps, that he wasn't the only one questioning this journey. But the moment was fleeting; she quickly shook her head, climbed back aboard with her usual irritable sigh, and didn't say a word, leaving Leo to wonder, trapped in his own silent misery as the bus pulled back onto I-70, continuing west.
+
+Small requests from Leo for help adjusting his position or reaching something from his bag were met with sighs or sharp remarks. Delores seemed to resent his needs, framing them as inconveniences that disrupted her own numb endurance of the trip. Leo retreated further into himself, watching the miles crawl by, each one taking him further from Virginia, further from where he desperately longed to be. The initial excitement of the trip had long since evaporated, replaced by the agonizing knowledge that he wanted to go home, coupled with the dread of the unknown situation awaiting him in Washington.
+

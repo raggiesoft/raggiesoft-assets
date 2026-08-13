@@ -1,0 +1,12 @@
+# Part 1: The Decision
+
+The buzz around the Northwood High senior prom, a week away, was a low hum of excitement and anxiety. For Alex and Chloé, the question wasn't *who* they were going with, but *if* they were going at all.
+
+"It's just a dance," Chloé said one afternoon, a note of uncertainty in her voice as they sat in their usual library spot. "It's loud music, a crowded gym... it's kind of your worst nightmare."
+
+IT IS, Alex's Quantum Glide voiced, his tone serious. BUT... IT IS ALSO OUR LAST HIGH SCHOOL DANCE. EVER. He paused, then looked at her, his expression clear and resolute. I WILL GO. IF YOU WILL GO WITH ME. AS MY BEST FRIEND.
+
+Chloé's face broke into a radiant, relieved smile. "Are you kidding? I wouldn't go with anyone else."
+
+And so, it was decided. They were going to the prom, not as a romantic couple, but as they had been for four years: a team.
+

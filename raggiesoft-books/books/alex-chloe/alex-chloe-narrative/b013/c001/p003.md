@@ -1,0 +1,72 @@
+# Part 3: The Spoils of Victory (2010)
+
+The jubilant, singing crowd spilled out of "La Taverne des Voyageurs" and onto the streets of Montréal, which had erupted into a city-wide celebration. Amidst the sea of red and white, Alex Miller and Megan Carter were a conspicuous, newly-converted pair, their Canadian jerseys feeling heavy on their shoulders. Chloé, her arm linked happily through Alex's, was still buzzing with adrenaline.
+
+"You know, my loves," she said, leaning in with a teasing grin as they approached the family's van, "*le pari n'était pas juste pour le chandail.*" (The bet wasn't just for the jersey.)
+
+Alex and Megan exchanged a look of dawning horror. WHAT ELSE? Alex's AAC device asked, the tone almost pleading.
+
+"*C'est les couleurs du gagnant pour le reste du voyage. Entièrement,*" Chloé declared, her eyes sparkling. (It's the winner's colors for the rest of the trip. Entirely.)
+
+Uncle David, who had overheard, let out a booming laugh. "She is right! You cannot wear your American pants with those glorious jerseys! It is a crime against hockey! There is a National Sports Co. on the way out of the city, we must stop!"
+
+The decision was, of course, unanimous among the Canadians. A short drive later, they pulled into the packed parking lot of the sporting goods store. The moment Alex and Megan wheeled/walked inside, wearing the Canadian jerseys, they were met with knowing grins and a chorus of "Go Canada!" from the staff and other celebrating shoppers. It was a fresh wave of good-natured humiliation.
+
+Chloé, Isabelle, and Mathieu were on a mission, gleefully pulling the most obnoxiously patriotic gear they could find from the shelves for both of their defeated American relatives. They returned with armfuls of red and white apparel.
+
+"*Et pour finir le look...*" Mathieu announced with a dramatic flourish, holding up a pair of bright red sneakers with a maple leaf on the side. (Translation for the reader: "And to finish the look...")
+
+He held them out towards Alex, but Chloé saw the flicker of genuine anxiety in Alex's eyes. She held up a hand, her expression shifting from teasing to serious in a heartbeat.
+
+"Ah, *non*," she said, her voice firm and absolute, leaving no room for argument. "*On ne touche pas aux souliers.*" (Translation for the reader: "Ah, no. We don't touch the shoes.")
+
+Her cousins and Uncle David looked at her, confused for a moment.
+
+"Les souliers d'Alex sont spécialisés," she explained quietly but clearly, so only their family could hear. "C'est pour son handicap, pour lui donner le bon support. Il ne peut pas porter n'importe quoi. Le reste, c'est correct, mais les souliers, c'est la limite." (Translation for the reader: "Alex's shoes are specialized. It's for his disability, to give him the right support. He can't wear just anything. The rest is fair game, but the shoes are the limit.")
+
+The understanding on her family's faces was immediate and total.
+
+"*Absolument,*" Uncle David said, his tone shifting from boisterous to gentle. "*Bien sûr. Les souliers, c'est pour sa santé. Le pari, c'est pour le fun.*" (Translation for the reader: "Absolutely. Of course. The shoes are for his health. The bet is for fun.")
+
+He then turned, a wicked, triumphant grin returning to his face as his gaze fell upon Megan. "*Mais toi, ma nièce américaine... tu n'as pas d'excuse!*" (But you, my American niece... you have no excuse!)
+
+Mathieu, catching on, presented the sneakers to Megan with a dramatic bow. Megan looked at the flimsy-looking fan sneakers, then at the sea of expectant, victorious Canadian faces, and let out a long, theatrical sigh of defeat. "Fine," she said, taking the shoes. "But I'm getting extra poutine for this."
+
+The moment passed as quickly as it came. The teasing was about hockey, not about who Alex was. His safety and comfort would always come first. With that unspoken but now clearly understood rule in place, they proceeded to the checkout with the rest of the uniforms of shame, their good-natured rivalry firmly grounded in a foundation of love and respect.
+
+Alex and Megan endured the indignity of having the red fleece pants held up against them for size. The teasing was merciless but good-natured. The final items were, of course, the headwear.
+
+"*Et maintenant, la couronne des champions!*" Uncle David declared with a grand, theatrical gesture. (And now, the crown of champions!)
+
+He and Mathieu presented Alex and Megan each with a classic, bright red and white toque, the word "CANADA" knitted across the front. Chloé gleefully paid for the two new, complete "wardrobes of shame."
+
+Back in the van, they sat in the back, now fully decked out in Canadian colors from head to toe. The drive back to the hotel in Stanstead was filled with the family's triumphant rehashing of every great save, every brilliant pass, and, of course, the legendary "Golden Goal." For Alex and Megan, it was a long, quiet, and deeply painful ninety-minute drive.
+
+When they finally got back to their hotel room, Alex and Megan looked at their reflections in the mirror. Two people they barely recognized, draped in the colors of the rival nation, stared back. They had made a bet, and they had lost. And they both knew, with a sinking heart, that they would have to wake up and put on this uniform of defeat all over again tomorrow.
+
+Chloé, who had followed them into the room, just leaned against the doorframe, a look of pure, triumphant, and deeply loving satisfaction on her face. "You two look great," she said, her voice dripping with mock sincerity. "It's a good look for you."
+
+Megan just threw a pillow at her.
+
+"Sleep well, my two favorite Americans," Chloé chirped, completely unfazed. "Big day tomorrow. Lots of people need to see you in your new clothes, eh?"
+
+"I can't believe I have to sleep in this jersey," Megan groaned, peeling off the bright red sneakers and tossing them into a corner. "It's a violation of my rights as a Bostonian."
+
+Chloé, who was unpacking their bag of snacks from the sports bar, just grinned, a look of pure, unadulterated triumph on her face. "A bet is a bet, my dear Americans," she said, her voice dripping with mock sympathy. "You look very patriotic, eh?"
+
+Alex and Megan exchanged a look of shared, theatrical misery, which only made Chloé's grin wider. But the playful anger was just that—playful. Beneath it was a deep, comfortable affection.
+
+As bedtime approached, the dynamic shifted seamlessly from rivals to a well-practiced care team. Chloé and Megan, working together with the easy, unspoken rhythm they had perfected over the years, helped Alex with his evening toileting and bathing routine. The teasing stopped, replaced by a quiet, focused, and respectful efficiency.
+
+A little while later, all three of them were in their pajamas, ready for bed. The hotel room had a single, massive king-sized bed, a perfect nest for the three of them. Alex, as always, took his place in the middle, the position of ultimate safety and comfort.
+
+Chloé climbed in on one side, and Megan on the other. They settled in, a familiar, comfortable tangle of limbs.
+
+"You know," Chloé said, her voice a sleepy murmur in the dark as she gave Alex a comforting squeeze while looking at Megan, "for the record, you're both still grounded for that tying goal. It took a year off my life."
+
+Megan snorted.
+
+Chloé laughed softly from the other side. "Serves you right for underestimating us."
+
+Alex, flanked by his two favorite women in the whole wide world, a warm, safe, and happy cocoon of love and friendly rivalry, just smiled. He didn't need to say a thing. He was exactly where he was supposed to be.
+

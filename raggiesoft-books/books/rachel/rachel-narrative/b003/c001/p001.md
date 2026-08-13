@@ -1,0 +1,60 @@
+# Part 1: The Weight of September – 7:00 AM
+
+The gray, early morning light of Monday filtered through the living room blinds, signaling the start of the first official weekday of our new reality.
+
+I woke up to the dull, familiar ache of my torn fascia pressing against the medical binder, but there was a sharper, more immediate discomfort demanding my attention. My bladder was completely full. Beside me, on the left side of the three-pillow barrier, Rachel shifted uncomfortably, her heel pressing rhythmically against my ankle in a silent signal.
+
+"Bear," Rachel whispered, her raspy voice barely carrying over the hum of the air conditioning. "I have to go to the bathroom."
+
+"Me too, Bug," I whispered back.
+
+Jessica was already awake on her floor mattress, staring up at the ceiling. She heard the exchange and immediately sat up, her protective instincts kicking in.
+
+"I've got it," Jess announced softly. She stood up, walked to the bottom of the staircase, and raised her voice just enough to carry to the second floor without echoing. "Mom! Dad! Base camp is awake. We need bathroom protocol!"
+
+The heavy thud of footsteps instantly sounded from the ceiling above us. Doors opened. The adults were moving.
+
+The moment the rhythmic creaking started on the wooden stairs, the atmosphere around the sofa bed drastically shifted. Rachel’s hand, which had been resting loosely in mine over the cotton barrier, suddenly clamped down like a vice.
+
+The invisible vault door slammed completely shut.
+
+Rachel turned her head away from the archway. A single, silent tear slipped out of the corner of her eye, tracking down her cheek and soaking into her pillow. Then came another. She wasn't just selectively mute in front of the adults anymore; she was profoundly, deeply mourning.
+
+I squeezed her hand, my heart breaking in my chest. I knew exactly what she was crying about.
+
+Before Thursday, Rachel had been looking forward to September. She had been slowly, bravely building up the courage to use her voice at school. She had wanted to start third grade as a girl who could talk to her teachers and make friends. But Master Curtis had taken that future and violently crushed it into the Dojang mats.
+
+The terrifying psychological math was permanently burned into her eight-year-old brain: *I used my voice to protect my brother, and a monster stepped on my organs because of it.* To Rachel, her voice wasn't a tool anymore. It was a trigger for violence. She was absolutely terrified to speak, completely convinced that if she made a sound, she would be crushed again.
+
+And looking at her cry, a massive, suffocating wave of guilt crashed over me.
+
+I was her big brother. I was Bear. I was supposed to be the one who protected her from the monsters of the world. But when it mattered most, when Master Curtis had dropped his weight onto her ribs, I had been completely powerless. I had been pinned to the floor, paralyzed by my own torn stomach, unable to stop him. The shame of that failure burned hotter than my physical injuries.
+
+Mom and Dad walked into the living room, completely dressed for the war path. Dad was wearing a sharp suit and tie for his court appearance. Mom was dressed in slacks and a blouse, preparing for a day of merciless phone calls. Grandma Loretta trailed behind them.
+
+"Good morning," Dad said quietly, taking in the somber, heavy mood of the room. He saw Rachel's silent tears and my rigid jaw, and he didn't try to force a cheerful greeting. He just went straight to work.
+
+"Alright, Michael. Let's go," Dad murmured.
+
+I had to let go of Rachel's hand. The separation spiked our anxiety, but biology left us no choice. Dad executed the rigid plank carry flawlessly, sliding his arms under my knees and shoulders, keeping my core perfectly flat as he carried me to the downstairs half-bath.
+
+He stepped out, pulled the door shut to the latch, and gave me my privacy. Five minutes later, he carried me back.
+
+Mom took over for Rachel, carefully lifting the sobbing eight-year-old without putting any pressure on her swollen spleen. Once Rachel was returned to the left side of the bed, our hands instantly found each other over the pillow wall again.
+
+With our immediate needs met, Jessica and Janette took their turns in the bathroom, moving quickly to wash their faces and brush their teeth before returning to the living room.
+
+"Time for the wedges," Mom announced, carrying a tray from the kitchen.
+
+Dad stepped up to my side of the bed, and Mom stepped up to Rachel's. "On three," Dad instructed. "Jess, Janette, be ready."
+
+As Dad and Mom lifted our upper bodies in synchronized, rigid planks, Jessica and Janette swiftly slid the heavy medical foam wedges directly behind our backs. Mom and Dad lowered us down, leaving us propped at the mandatory forty-five-degree angle.
+
+Breakfast was a completely somber affair. Mom placed the trays on our laps: bowls of lukewarm, watery oatmeal and small paper cups containing our morning doses of heavy medication. It required no chewing, no core engagement, and zero effort to digest.
+
+We ate in total silence.
+
+From their posts on the floor mattresses, Jessica and Janette watched us eat. They didn't try to turn on the TV or offer hollow distractions. They deeply understood the gravity of the morning. They knew we were mourning the loss of our fall semester, the loss of our physical strength, and the tragic, violent silencing of Rachel's new voice.
+
+The Monday war was about to begin for the adults, but for the pack trapped on the living room sofa, the battle was simply finding a way to survive the crushing weight of the day.
+

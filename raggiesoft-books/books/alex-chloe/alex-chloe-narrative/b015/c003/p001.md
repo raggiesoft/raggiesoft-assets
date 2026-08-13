@@ -1,0 +1,16 @@
+# Part 1: The Journey East
+
+The journey to their own wedding began on a grey, drizzly Seattle morning. The Lynnwood apartment was quiet, their bags packed and waiting by the door. The three of them—Alex, Chloé, and Megan—took one last look around their shared home, a silent acknowledgment of the life they had built there, before heading to Seattle-Tacoma International Airport in their accessible Holt Wayfarer.
+
+The flight from Seattle to Chicago was the longest leg of their journey. They had pre-boarded the Gateway Airlines flight, and their seating arrangement was a carefully planned and essential part of their travel strategy. On the plane with its three-across seating, they took up a full row. Chloé took the window seat, Megan took the aisle, and Alex, at his own insistence, was in the middle seat.
+
+For Alex, the middle seat wasn't a place of confinement; it was a sanctuary. It was the position of ultimate safety, a warm, protective cocoon between the two most important people in his world.
+
+As the plane took off, pressing them back into their seats, he felt a familiar flicker of travel anxiety. Without a word, Chloé reached over and took one of his hands, her fingers lacing with his. On his other side, Megan draped a comforting arm around his shoulders. He was flanked, grounded, and completely safe.
+
+The long flight passed in a quiet, comfortable blur. They watched movies on their laptops, shared snacks, and dozed. For much of the flight, Alex simply leaned his head against Chloé's shoulder, with Megan's arm a steady, reassuring presence on his other side, a perfect, three-person nest suspended 30,000 feet in the air.
+
+Their connection at Chicago's Midway Airport was a smooth, practiced affair, a testament to the travel logistics James Miller had so carefully planned. For the second, shorter flight from Chicago to Norfolk, the seating arrangement remained the same, an unspoken, non-negotiable constant.
+
+When they finally landed in Norfolk, late in the evening, they were tired, but a deep, happy contentment had settled over them. The first, longest leg of their journey was over. They had crossed the continent as a single, indivisible unit. They were back in Virginia, and the celebration was about to begin.
+

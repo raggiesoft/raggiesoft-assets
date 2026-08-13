@@ -1,0 +1,30 @@
+# Part 4: Seattle
+
+As they descended from the summit of Snoqualmie Pass, the dense evergreen forests of the Cascade Mountains enveloped them. The air grew heavier, carrying the distinct, damp, and clean scent of the Pacific Northwest. They were in a new world.
+
+At the base of the pass, the highway split. The signs pointed in two directions: I-405 North, the faster, more direct bypass route to Lynnwood, and I-90 West, the path that led directly into the heart of Seattle.
+
+"Okay, team," James said from the passenger seat of the Wayfarer. "Decision time. 405 is the quick and dirty way. 90 will take us across the lake and through the city. It'll add forty-five minutes, but..."
+
+THE VIEW, Alex's Quantum Communicator Pro V finished for him, his own voice full of a quiet, hopeful anticipation. I WANT TO SEE THE VIEW.
+
+"Me too," Chloé and Megan said in unison from the car behind them over their walkie-talkies. The decision was unanimous. They were taking the scenic route.
+
+They continued west on I-90. A few minutes later, the dense trees gave way to a breathtaking, panoramic vista. Before them lay the vast, glittering expanse of Lake Washington, and spanning its width was the legendary I-90 floating bridge.
+
+"Whoa," Megan breathed over the walkie-talkie, her voice full of a tourist's pure awe. "The road is... it's actually floating on the water."
+
+They drove onto the bridge, the blue water of the lake stretching out on either side of them, dotted with sailboats and the distant wakes of ferries. For three young adults who had grown up with the familiar waters of the Chesapeake Bay, this was a different kind of magic.
+
+As they came off the bridge and through the Mount Baker Tunnel, the final, spectacular reveal happened. The tunnel opened up, and there it was: the iconic skyline of downtown Seattle, the Space Needle standing like a proud sentinel, with the city's impressive collection of skyscrapers gleaming in the late afternoon sun.
+
+A profound, reverent silence fell over both cars. This was it. This was their new home.
+
+They took the exit for I-5 North, the main artery of the city. The highway was a chaotic symphony of rush hour traffic, but no one cared. They were no longer just passing through; they were a part of it. They drove past the massive stadiums, through the heart of the city, and then north, towards their new life.
+
+Forty minutes later, they took the exit for Lynnwood. The chaotic energy of the city gave way to the quieter, greener landscape of the suburbs. Chloé, her hands steady on the wheel, navigated the final few surface streets, her GPS unit now silent. She didn't need it. Alex had already memorized the map.
+
+She made a final turn into the quiet, well-maintained entrance of the "Cedar Park" apartment complex. She pulled the Holt Wayfarer into a parking spot in front of their new building. Megan pulled in right beside them.
+
+For a long moment, no one moved. They just sat in their cars, the engines humming quietly, and looked at their new home. The journey was over. The great western road had come to an end, right here, in this quiet parking lot in Lynnwood, Washington. They had done it. They were home.
+

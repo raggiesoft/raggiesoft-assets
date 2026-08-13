@@ -1,0 +1,54 @@
+# Part 3: The Canine Guard – 2:30 PM
+
+The living room remained wrapped in a thick, exhausted silence. The physical threat of the meltdown had passed, but the psychological fallout was absolute.
+
+Rachel and I were completely, entirely mute.
+
+It wasn't a choice. It felt as though the connection between our brains and our vocal cords had been cleanly severed by a pair of wire cutters. Even the safe, familiar presence of the youth guard couldn't coax a whisper out of us. We lay flat against our medical wedges, staring blankly at the popcorn ceiling, our hands gripped so tightly together over the pillow wall that our fingers ached.
+
+Ashley sat on the floor mattress, looking at the dark, silent screen of the heavy CRT television. A profound, quiet sadness washed over her face. At ten years old, she was realizing that the assault hadn't just broken our bodies; it had stolen our childhood. *Galactic Samurai Geckos* wasn't just a movie to us. It had been our favorite shared world. And now, that world was permanently infected with terror. The tape was hidden at the bottom of Melissa's bag, and we all knew it could never, ever be played in this house again.
+
+Ashley wiped her eyes with the back of her sleeve, her birthday joy completely overshadowed by the loss.
+
+But as the human pack struggled to navigate the heavy silence, the animal pack seamlessly took over.
+
+Dogs don't need language, and they don't need explanations. They communicate in pressure, heat, and absolute presence. They understand the chemical scent of fear and the rigid posture of terror better than any doctor.
+
+Baby, the massive hundred-and-thirty-pound Black Lab, stood up from his spot on the carpet. He didn't pace. He walked directly to the left side of the sofa bed, bypassing Ashley, and wedged his heavy, broad shoulders right against the mattress. He rested his massive head directly over Rachel’s hip, applying a deep, steadying weight.
+
+On my side, Archie crawled out from under the coffee table. He dragged his neon-green tennis ball with him, but he didn't try to initiate a game. He dropped the ball on the floor, stood up on his hind legs, and rested his front paws gently against the edge of the bed. He pressed his wet nose against my forearm, letting out a low, incredibly soft whine from his throat.
+
+The tactile sensation of their coarse fur and their steady, rhythmic breathing was the perfect grounding mechanism. Rachel uncurled her left hand and buried her fingers deep into the fur behind Baby’s ears. I rested my hand on top of Archie’s head, tracing the familiar lines of his skull.
+
+For the next two hours, the women of the pack circled the wagons.
+
+They didn't demand that we speak, and they didn't ask us how we felt. They simply occupied the space, rebuilding the sanctuary brick by brick. Jessica and Janette stayed positioned on the edges of the bed, acting as physical barricades between us and the hallway. Melissa sat cross-legged on the floor, quietly reading a magazine aloud just to fill the suffocating silence with a calm, rhythmic voice. Ashley leaned against Baby, her hand resting over Rachel's, silently promising that she wasn't going anywhere.
+
+The afternoon crept by, the sun shifting lower in the sky. Because Dad had to leave the house for his closing shift at *Baja Taco* by six o'clock, the evening schedule had to be aggressively condensed.
+
+At four-thirty, Grandma Loretta and Joan began bringing out the food for an early dinner.
+
+The adults had learned a brutal, unforgiving lesson from the meltdown. They understood that the rootkit in our brains had temporarily classified all large adults as potential threats. So, they adapted.
+
+Dad didn't enter the living room. It broke his heart, but his discipline as a protector overrode his desire to comfort us. He, Uncle Jim, Grandma Loretta, and Joan set up their plates at the dining room table down the hall, keeping themselves entirely out of our immediate eyeline to ensure our nervous systems stayed calm.
+
+Jessica and Melissa acted as the runners, bringing our trays to the sofa bed and setting up the floor mattresses for the youth guard.
+
+We ate in the quiet, comforting presence of the girls and the dogs. When the plates were cleared, Joan brought out the massive sheet cake from the bakery box.
+
+Because Dad was leaving, the birthday song had to happen now. The adults stood at the very edge of the living room archway, keeping their distance, while Jessica, Janette, and Melissa sang "Happy Birthday" in soft, hushed voices. Ashley blew out the ten candles, her smile returning just a fraction as everyone softly clapped.
+
+Dad ate his slice of cake standing near the front door, his eyes locked on the Base Camp.
+
+At a quarter to six, Dad set his paper plate down and picked up his car keys. He needed to hit the road to make it to Independence Boulevard on time. He walked toward the living room but stopped a deliberate ten feet away from the sofa bed.
+
+He didn't loom. He didn't reach for us. He just stood there in his manager uniform, his hands tucked safely into his pockets.
+
+"I'm heading out, crew," Dad said, his deep voice carrying across the room, gentle and unwavering. "Uncle Jim and Miss Joan have the perimeter. I'll see you in the morning."
+
+I looked at him. I couldn't force my vocal cords to work, but I gave him a slow, deliberate nod. Over the pillows, Rachel gave him a tiny wave with her fingers.
+
+Dad smiled—a sad, incredibly proud smile—and turned away.
+
+The heavy front door opened, and then clicked shut. The deadbolt turned from the outside. Dad was gone until three in the morning. The house was now completely under the command of the Raybourn cavalry, and as the evening shadows began to fill the living room, the ultimate test of the Sunday shift was about to begin.
+

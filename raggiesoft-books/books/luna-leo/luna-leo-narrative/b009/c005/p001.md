@@ -1,0 +1,62 @@
+# Part 1: The Shattering
+
+The clock tower of Seattle's King Street Station stood as a stoic, indifferent sentinel, counting down the final minutes of their last summer together. Inside the station's grand, echoing waiting hall, the fortress four sat on a hard wooden bench, a small, silent island in a sea of bustling travelers. Their train—the ARTS *Empire Builder* that would carry Stella, Luna, and Leo back across the country to Virginia—was scheduled to depart in less than an hour. Olivia was not getting on.
+
+Leo was a statue of forced composure, a masterpiece of masking. He was putting on a brave face, for Olivia. He smiled when she pointed out something interesting, he gave a thumbs-up when she squeezed his hand. But it was a performance, a desperate, last-ditch effort to pretend his world wasn't about to end. Every tick of the grand station clock was a hammer blow against the fragile walls of his control.
+
+Stella and Luna watched him, their hearts aching. They could see the immense strain behind his eyes, the rigid set of his shoulders. They knew. Olivia knew too. She kept a constant, grounding pressure on his arm, her presence the only thing keeping him from shattering.
+
+Then, a voice, disembodied and amplified, crackled through the station's PA system, clear and inexorable.
+
+"Now boarding on Track 4, the American Rail Transit System Empire Builder, with service to Chicago and points east. All passengers for the Empire Builder to Chicago may now begin boarding on Track 4."
+
+The announcement was the trigger. It was the sound of the world ending.
+
+The mask didn't just crack; it exploded. A sound tore from Leo's chest, a raw, guttural wail of pure, undiluted agony that turned heads across the waiting room. His carefully constructed bravery vanished, replaced by a storm of overwhelming emotion. He was miserable. He was overwhelmed. He was scared. He was upset. He began to rock violently back and forth, silent, wracking sobs shaking his entire body. He was crying, tears streaming down his face as he buried it in Olivia's side, his hands gripping her jacket with a desperate, crushing force.
+
+The effect on Luna was instantaneous and devastating. She was his twin, their emotional connection an invisible, unbreakable cord. Feeling the full, unfiltered force of her brother's raw, catastrophic grief was like being hit by a tidal wave. Her own composure shattered. A choked sob escaped her, and she collapsed in on herself, curling into a tight ball on the bench beside Stella, her own silent meltdown beginning. She wasn't just empathizing with her brother; she was experiencing his heartbreak as if it were her own.
+
+In that moment of dual, silent agony, there was nothing Stella or Olivia could do but hold on tightly.
+
+Stella immediately wrapped her arms around Luna, pulling her shaking, sobbing sister into a fierce, protective embrace, trying to be a physical shield against a pain she couldn't stop.
+
+Olivia, her own face a mask of streaming tears, wrapped her arms around Leo, holding him as he shook and sobbed against her, her embrace the only anchor in his universe. She didn't say a word. There were no words. There was only the sound of two hearts breaking, and the quiet, desperate strength of the two women trying to hold the pieces. The fortress was broken, and all they could do was cling to each other in the ruins.
+
+The minutes ticked by, each one a separate eternity in the echoing hall of King Street Station. The meltdown was not letting up. If anything, it was intensifying. Leo's raw, guttural cries of emotional pain were getting louder and more frequent, his body rigid with grief in Olivia's arms. He was completely lost in the storm, unable to pull himself out of the emotional disaster.
+
+And as his pain crested in waves, so did Luna's. It was as if their hearts were connected by an invisible, raw nerve. Every time a fresh sob tore from Leo, Luna would flinch in Stella's arms, her own body shaking with a mirrored agony. She was trapped in his feedback loop of sorrow, her own meltdown spiraling in perfect, tragic synchrony with his.
+
+Stella was caught in a waking nightmare, a delicate, impossible balancing act. With one arm, she held her sobbing, trembling sister, trying to be a physical anchor for her. With her other hand, she clutched her purse, her eyes darting between the clock on the wall and the departure board. The clock was ticking. She could hear the final boarding calls for other trains, each announcement a fresh spike of anxiety. Their own last call was coming. She had to get them on that train, but how could she move them? How could she tear her brother away from the only person who was holding him together?
+
+Olivia, her own face streaked with tears, was a fortress of one. She didn't try to reason with Leo or quiet him. She just held on, her embrace a fierce, unyielding pressure, her body a shield. She murmured to him, not promises of a future she couldn't guarantee, but a constant, desperate litany of the present: "I'm right here, Leo. I'm holding you. Right now. I've got you."
+
+Then, the voice over the PA system cut through the air again, this time with a new, final urgency.
+
+"Final boarding call for the American Rail Transit System Empire Builder, service to Chicago, now boarding on Track 4. All passengers must be on board at this time. The doors will be closing in five minutes."
+
+The words were a death sentence. Stella looked from the gate to her two shattered siblings, then to Olivia, her face a mask of pure, unadulterated panic. The train was leaving. And Leo was still breaking.
+
+The final boarding call was a death sentence. Stella looked from the gate to her two shattered siblings, then to Olivia, her face a mask of pure, unadulterated panic. She now had no choice. Olivia had no choice. The train was leaving.
+
+Logically, somewhere deep inside, Leo knew he had to get on that train. But the logical part of his brain was offline. His emotional circuits were completely fried, consumed by the catastrophic grief of the separation.
+
+"Liv," Stella's voice was a choked whisper. "We have to. Now."
+
+Olivia, her own face a mask of streaming tears, looked down at the young man clinging to her. This was the hardest thing she would ever have to do. "Leo," she whispered, her voice breaking. "Leo, you have to go. I'm so sorry. You have to go."
+
+The act of separating them was a physical, agonizing struggle. It wasn't a gentle parting; it was a tearing. Finally, with a gut-wrenching sob, Leo's grip was broken.
+
+What happened next was a blur of frantic, desperate motion. Stella, somehow, managed to get a still-sobbing Luna to her feet. With one arm around her sister, she grabbed the handles of Leo's wheelchair and propelled them toward the gate where the ARTS conductor was waiting anxiously.
+
+Olivia walked beside them, her hand on Leo's shoulder until the very last possible second. They reached the edge of the low-level platform. An ARTS attendant was there with a mobile lift, a slow, mechanical platform designed to raise wheelchairs to the level of the train car door.
+
+The process was agonizingly slow. The conductor, seeing the state of the distressed young adults, tried to be kind. "Easy now. We'll get you on."
+
+Stella had to maneuver Leo's chair onto the lift platform. He was still sobbing, his body shaking, his cries raw and ragged. The slow, mechanical whir of the lift as it began its ascent was another jarring, alien sound in his sensory storm. He was being lifted up, away from Olivia, who stood on the platform below, her face a mask of pure, helpless agony as she watched him rise.
+
+It took what felt like an eternity. Once the lift was level with the train car, Stella and the attendant had to quickly and carefully guide his chair across the gap and into the narrow corridor.
+
+They stumbled down the corridor to their family sleeping quarters. Stella bundled them inside the small, private room just as the train doors hissed shut. The meltdown of both Luna and Leo continued in its current severe state, but at least now they were in a private space.
+
+Leo, his cries raw and ragged, scrambled to the window. On the platform, Olivia stood, her arms wrapped around herself, tears streaming down her face. He pressed his hand against the cool glass, and on the other side, she mirrored the action, their palms separated by a heartbreaking inch of glass.
+

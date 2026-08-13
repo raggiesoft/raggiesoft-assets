@@ -1,0 +1,24 @@
+# Part 4: La Première Danse (The First Dance)
+
+After the magnificent, bilingual feast, as the daylight outside began to soften into the warm glow of a Québec twilight, the band leader stepped up to the microphone.
+
+"And now," he announced, his voice a warm, gentle hush over the room, first in French and then in English, "we would like to invite our happy couple to the floor for their first dance as husband and wife in love."
+
+A space cleared in the center of the dance floor. Megan helped Chloé with the train of her dress, and then Alex, with a quiet, determined look on his face, began to drive his "Quantum Glide" power chair to the center of the room. He stopped in the middle of the floor, Chloé standing a few feet away, her eyes shining with an expectant, tearful joy.
+
+He took a deep, steadying breath. And then, with a quiet whir of powerful motors that was almost inaudible beneath the soft music, his chair began to transform. It rose, lifting him smoothly, securely, from a seated position until he was standing tall and proud at his full height.
+
+A collective, soft gasp went through the room. The American family had seen this miracle once before, on the day the chair was delivered. But for the entire Leclerc clan, this was the first time. They stared, their faces a mixture of stunned disbelief and absolute, profound awe. Mémère Madeleine had her hand pressed to her heart, tears streaming down her face.
+
+Alex, now standing, drove his chair forward the final few inches until he was directly in front of his wife. For the second time in their lives, but the first time as romantic partners, they were looking directly at each other, eye to eye.
+
+He reached out his arms, and she stepped into his embrace. She wrapped her arms around his neck, and his own strong, sure arms went around her waist, holding her close. The band began to play a soft, slow ballad.
+
+It wasn't a traditional dance of intricate steps. It was a slow, gentle sway, a perfect, balanced rotation in the center of the room. Alex, using the subtle, precise controls of his joystick, guided them in a slow, graceful circle. Chloé rested her head on his shoulder, her hand gently stroking the back of his neck.
+
+They were in their own world, a bubble of pure, unadulterated joy. This was not the buoyant, equalizing dance of the swimming pool. This was a real, solid, two-feet-on-the-ground dance. He could feel her full weight leaning into him, and he was standing, supporting them both.
+
+From the tables surrounding the dance floor, their entire, united, cross-border family watched, openly weeping with a happiness so profound it was almost a physical presence in the room. This was the moment they had all been fighting for. This was the victory.
+
+As the song came to a close, they just held each other for a long, timeless moment. It was more than a dance. It was a promise kept, a dream realized, and the first, perfect, beautiful moment of the rest of their lives.
+

@@ -1,0 +1,36 @@
+# Part 1: The Blueprint of Home (Spring 2010)
+
+The aftermath of their winter trip to Quebec lingered in their Lynnwood apartment, not in the form of a humiliating Canadian hockey jersey (which had been ceremoniously folded and stored away), but in a renewed sense of purpose.
+
+It was a quiet Sunday afternoon. The 3D printer was silent, and Chloé’s grant-writing textbooks were neatly stacked. They were in a rare moment of pure brainstorming, a large sheet of butcher paper spread across their dining table, the words "Lynnwood Discovery and Care Center" written at the top. Megan, Alex, and Chloé were gathered around it, a tangible sense of excitement in the air.
+
+Chloé, a pen tucked behind her ear, was pacing the small room, her mind buzzing with ideas. "Okay," she began, "I was thinking. This place can't just be a generic shelter. It has to be *us*. It has to tell our story."
+
+Alex looked up from the paper, intrigued. WHAT DO YOU MEAN? his AAC device asked.
+
+"I mean it should be a fusion of all the places that are important to us," she explained, her passion growing. "It should feel like the Pacific Northwest, obviously, because this is our home now. But it should also have a piece of where I'm from, and where you're from. A piece of Virginia, where we all grew up together."
+
+She began to sketch on the paper. "Imagine a section modeled after the Eastern Townships, with a grove of maple and birch trees for rescued birds. We could have a small, rocky shoreline exhibit that looks just like the banks of Lake Memphremagog."
+
+Alex caught her vision immediately, his own excitement building. He began to type, adding to the brainstorm. A VIRGINIA PIEDMONT HABITAT. FOR RESCUED TURTLES AND FOXES. LIKE THE WOODS BEHIND OUR OLD HOUSES.
+
+"Yes! Exactly!" Chloé exclaimed.
+
+For the next hour, they were lost in the creative storm, their shared history pouring out onto the paper in the form of habitats and exhibits. But as the page filled with sketches of different ecosystems from across the continent, Megan, who had been listening with a fond but practical smile, gently brought them back to earth.
+
+"Okay, you two dreamers," she said, her voice a calm, strategic anchor. "I love this. All of it. But Alex is right." She pointed to a note he had just typed. THIS IS HUGE. A ZOO. IT WOULD BE INCREDIBLY EXPENSIVE.
+
+"He's right," Megan continued. "This is a twenty-year plan, not a five-year one. We have to focus. What's the most logical, achievable first step?"
+
+Chloé stopped pacing, looking at the sprawling, continent-spanning plan on the table. She and Alex both knew Megan was right. The sheer complexity was overwhelming.
+
+"Okay," Chloé said, a new resolve in her voice. "New plan. We start with what we know now. We start with home." She drew a bold circle around the words "Pacific Northwest." "We focus on the ecosystems of the Puget Sound area. That's our primary mission. We keep the rest," she tapped the other sketches, "on the back burner. For future expansions."
+
+Alex and Megan both nodded in firm agreement. It was the logical first step.
+
+"But," Chloé added, a new idea sparking from the practical constraint, "that doesn't mean we can't still tell a story. What if the 'Discovery' part of the name is just as important as the 'Care' part? What if, alongside the rescue and rehab, we have a museum? A place where we can teach the public, especially kids, about the incredible wildlife and ecosystems right here in our own backyard."
+
+A slow, brilliant smile spread across Alex's face. A museum. An educational center. It was the perfect fusion of their passions: her love for history and storytelling, his for design and accessible information, and Megan's for community outreach and project management.
+
+The Lynnwood Discovery and Care Center now had a clear, focused mission. It wouldn't just be a shelter; it would be a classroom, a place of learning and connection, rooted in the beauty of the Pacific Northwest. Their dream now had a solid foundation.
+

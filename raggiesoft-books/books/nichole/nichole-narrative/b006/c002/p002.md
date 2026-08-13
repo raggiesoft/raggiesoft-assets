@@ -1,0 +1,42 @@
+# Part 2: The Fortress
+
+## Time: 1:00 PM Location: Roosevelt Rehabilitation Center
+
+Tom maneuvered into the turn lane and made the right onto Route 358.
+
+The landscape shifted again. The commercial clutter of US-250 vanished. On their right, they passed the Augusta County Schools Administration Complex—a sprawling, low-slung brick facility that set the architectural tone for the street: purely bureaucratic.
+
+Route 358 then curved gently to the left. On their left side, they passed a sign for the S.T.A.R. Trail (Supporting Therapeutic Access to Recreation) and a baseball field that looked functional but strangely quiet in the midday heat.
+
+Then, the destination appeared on the right.
+
+"This is it," Tom said, slowing the van.
+
+He turned into the visitors' parking lot. Looming in front of them was the Birdsall-Hoover Building.
+
+It didn't look like a college. It looked exactly like what it was: a state hospital built in the 1960s. It was a long, flat expanse of institutional brick, dominated by a flat roof and heavy glass doors.
+
+Patrick stared at the building layout through the windshield. From the parking lot, he could see two distinct entrances.
+
+- Straight Ahead: The Main Entrance/Visitors Entrance.
+
+- To the Left: A separate entrance marked for Rothrock Hall.
+
+The visual separation was immediate. Even the architecture seemed to be categorizing people before they even got out of the car.
+
+Tom parked the van near the entrance. They all looked at the large sign planted in the grass at the parking lot entrance.
+
+Top Left: The DARS Logo (Department of Aging and Rehabilitative Services). Top Right: The Roosevelt Rehabilitation Center seal. Center Text: BIRDSALL-HOOVER BUILDING *Administration* *Admissions* *Medical Rehabilitation* *Rothrock Hall*
+
+"Medical Rehabilitation," Patrick read aloud. His voice was guarded. "It’s on the sign before Admissions."
+
+Nichole looked at the flat brick facade. She looked at the separate entrances. She felt the hair on the back of her neck stand up. This wasn't a campus quad. This was an intake facility.
+
+She looked at Patrick. He had shifted into "Engineer Mode." His eyes were scanning the doors, the ramps, the signage. He wasn't looking for a dorm room; he was looking for containment protocols.
+
+They exchanged a look. *Shields up.*
+
+"Okay," Patrick said, unbuckling his seatbelt. "Let's see what they're selling."
+
+He walked around to the lift. As Nichole rolled out onto the asphalt, she didn't smile at the birds chirping in the S.T.A.R. Trail woods. She locked her brakes and waited for Patrick to take the handles. They were entering hostile territory.
+

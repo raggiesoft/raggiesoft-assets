@@ -1,0 +1,78 @@
+# Part 3: The Pine Street Skybridge – 9:30 AM (PST)
+
+We stepped out of the historic, perfume-scented sanctuary of The Grand Marché and back into the biting cold of the Seattle morning. The massive holiday crowds were swirling around us on the sidewalks, the visual and auditory data threatening to overwhelm my processor. But my perimeter was absolutely locked.
+
+"Alright, pack," Jessica announced, her hands resting confidently on the push-rims of her manual wheelchair. "Next stop is the food court for soft pretzels. We are taking the skybridge across to the Pine Street Center."
+
+Navigating a multi-level, glass-enclosed mall on Black Friday was a tactical nightmare, but Jessica’s logistics were flawless. We entered the adjacent building and rode the heavy glass elevators up to the skybridge level. The elevated, enclosed corridor spanned directly over the traffic below, funneling a dense, chaotic stream of shoppers between the two retail fortresses.
+
+I kept my head down, focusing my visual input entirely on the rhythmic squeak of Jessica's wheelchair tires rolling over the polished floor. Rachel pressed her shoulder flush against my left side, her hand gripping the thick fabric of my winter coat to anchor me. On my right, Kristin walked shoulder-to-shoulder with me, her presence acting as a tall, unshakeable shield against the oncoming pedestrian traffic.
+
+We emerged into the massive, fourth-floor food court of the Pine Street Center. The sensory assault was immediate: the overwhelming, overlapping roar of hundreds of conversations, the clattering of plastic trays, and the sharp, undeniable smell of baking dough and roasted salt.
+
+Jessica instantly scanned the sprawling dining area, her analytical brain calculating the safest possible geometry. She pointed to a high-top table tucked deep into a far corner, its back pressed firmly against a concrete pillar.
+
+"Secure the perimeter," Jessica instructed Rachel. "Michael, Kristin, you're on pretzel duty."
+
+Rachel didn't hesitate. She gave my arm one last, heavy squeeze and marched over to the table to establish our Base Camp, taking the seat facing outward so she could maintain a visual tether on us in the line.
+
+Kristin and I walked up to the brightly lit pretzel kiosk. The line was short, but the environment was incredibly loud. As we stepped up to the register, the cashier punched in our order—four massive, salted soft pretzels and two large sodas to share.
+
+"That'll be fourteen dollars and fifty cents," the cashier said over the ambient noise of the food court.
+
+Instantly, my trauma-wired processor executed a catastrophic subroutine.
+
+For two years, Delores had weaponized every single financial transaction, treating my body and my bank account as a ledger of compliance and punishment. She controlled my money with absolute, suffocating authority. I was violently conditioned to believe my only value was as a silent, compliant ATM.
+
+My chest seized. A cold sweat broke out on the back of my neck. I frantically reached my trembling hand into the pocket of my coat, but my fingers only brushed against the cold metal of the two heavy rolls of quarters Jessica had given me for bus fare.
+
+The paralyzing reality of my financial status hit me like a physical blow. I didn't have a single dollar bill. The cash from my closed East Coast account had been successfully deposited on Wednesday, but the physical debit card wouldn't arrive in the mail at Jessica's apartment until after the holiday weekend. I was completely, absolutely broke.
+
+The panic spiked into my throat. I couldn't pay the cashier. In Delores's world, failing to pay meant an immediate, public, screaming meltdown. I braced my shoulders, my breathing hitching as I waited for the inevitable humiliation to start.
+
+Before my nervous system could spiral into a full hyperventilating crash, a warm, firm hand closed over my wrist.
+
+Kristin didn't just grab my hand; she applied a steady, deep-pressure compression that manually interrupted the panic spiral.
+
+"Stop," Kristin commanded, her voice dropping into a low, incredibly gentle, but absolutely immovable register.
+
+I froze, my eyes wide and panicked as I looked at her. I braced myself for the anger, anticipating the accusation that I was being useless.
+
+Kristin didn't look angry. Her blue eyes were soft, filled with a fierce, protective understanding. She knew exactly which ghost was currently haunting my nervous system. She stepped completely into my personal space, physically blocking the cashier's line of sight to my panic.
+
+"Michael, look at me," Kristin whispered, her thumb rubbing a slow, grounding circle against my wrist. "You are off-duty. You do not have to pay for this."
+
+"But I have to," I stammered, my vocal cords tight and raspy. "I don't have my card yet. I only have transit quarters. If I don't pay—"
+
+"Nobody is going to scream at you," Kristin interrupted, explicitly deleting the threat from the equation. She maintained her firm grip on my wrist, gently pulling my empty hand out of my coat pocket. "Delores is not here. You are not a transaction to us. You do not have to buy your safety in this pack."
+
+She let go of my wrist, but immediately slid her hand into mine, lacing our fingers together to maintain the physical tether. With her free hand, she pulled her own debit card from her pocket and handed it to the cashier.
+
+"I am using my Franklin's Market discount cash parameters," Kristin explained to me, smiling as she used the exact, logical vocabulary my autistic brain needed to process the exchange without guilt. "I saved a massive amount of money on the hardware and clothing purchases on Wednesday. Yesterday was just Thanksgiving leftovers and staying off the grid. I budgeted that exact surplus specifically to treat my boyfriend to pretzels today. The math balances perfectly. Let me do this for you."
+
+My internal processor completely and violently stalled.
+
+*Boyfriend.*
+
+The word echoed in my mind, drowning out the chaotic roar of the food court entirely.
+
+Just a few days ago in the Crown Regency hot tub, she had fiercely volunteered to *pretend* to be my girlfriend as a human shield against Delores. In the dark of the movie theater, she had explicitly outlined the parameters of a "friendly kiss" to prove my wiring wasn't broken.
+
+But standing here under the harsh fluorescent lights of the Pine Street Center, there were no caveats. There was no "pretend" and no safe-mode disclaimers. She had just stated it to a total stranger as an absolute, permanent, biological fact.
+
+The sheer, irrefutable reality of her declaration hit my processor like a cooling wave. The math balanced. There was no hidden debt, no coercive trap, and no impending punishment. The door she had unlocked for me was wide open, and she had just firmly pulled me through it.
+
+My rigid shoulders finally dropped. The suffocating tightness in my chest dissolved, leaving behind a profound, overwhelming sense of relief. I squeezed her hand tightly, leaning my weight slightly against her side to absorb her steady, calming presence.
+
+"Thank you," I breathed, the phantom ghost of the East Coast financial abuse completely evaporating into the smell of roasted salt and butter.
+
+"Always," Kristin smiled, her cheeks flushing a beautiful, brilliant pink as she took the heavy paper tray of hot pretzels from the cashier.
+
+We turned away from the counter and walked back toward the concrete pillar where Jessica and Rachel were waiting. I didn't reach for my pocket again. I just held my girlfriend's hand, stepping back into the flawless, impenetrable geometry of our perimeter.
+
+As we approached the high-top table, Rachel’s hyper-observant radar instantly detected the shift in our baseline. She looked at our laced fingers, then scanned the relaxed, completely unburdened posture of my shoulders. Her dark eyes darted up to Kristin, processing the quiet, undeniable pride radiating from the Sentinel.
+
+Rachel didn't say a word. She just reached out, bumping her shoulder firmly and affectionately against my arm, a massive, brilliant smile breaking across her face. Best friend approved.
+
+At the head of the table, Jessica adjusted her dark glasses. She took in the new dynamic, her lips curving into a deeply satisfied, corporate smirk. The pack hadn't just survived the morning; the perimeter had officially, permanently expanded.
+

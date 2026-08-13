@@ -1,0 +1,40 @@
+# Part 7: The Living Room Camp – 10:05 AM
+
+The heavy doors of the sedan clicked unlocked.
+
+Abbey stepped out into the damp morning air and opened my door. She reached across my chest, releasing the seatbelt, and leaned in. Just hours ago, I had watched her massive hands completely annihilate a solid industrial two-by-four in mid-air, utilizing a terrifying, explosive rotational torque that defied human limits. Now, those exact same hands were moving with agonizingly slow, deliberate precision.
+
+She slid her arms beneath my knees and behind my back. The sheer mechanical power required to lift my rigid, spastic body out of the car was completely hidden beneath a blanket of absolute gentleness. She scooped me up effortlessly, holding me securely against her chest so my head wouldn't snap back, and carried me up the driveway.
+
+Samantha walked practically glued to Abbey's side, while Sarah popped the trunk and hauled my heavy custom wheelchair out behind us.
+
+When Abbey carried me through the front door, the familiar scent of lemon polish and old paper washed over me. Grandmother Eleanor was waiting in the living room.
+
+She was sitting in her worn wooden rocking chair, bathed in the gray morning light filtering through the curtains. Next to her feet, resting on the hardwood floor, was her canvas knitting bag. Spilling out of the top was a tangle of soft blue yarn and the unfinished sleeve of a sweater she had started knitting for me the week before we were taken. It looked like a relic from another lifetime.
+
+Grandmother Eleanor didn't stand up. She didn't scream, or cry out, or rush toward us with frantic energy. She simply gripped the wooden armrests of her chair, her knuckles turning white, and exhaled a long, trembling breath. She knew exactly how fragile we were right now. Any sudden noise or erratic movement would have sent my nervous system back into redline. She just looked at my face, and then at Samantha's, her eyes shining with profound, overwhelming relief. We were alive. We were in her house.
+
+Abbey carried me to the sofa and set me down onto the cushions with the utmost care. Samantha immediately slid onto the sofa beside me, wrapping her arms around my chest and pulling me back into her deep-pressure hold.
+
+"We need the space," Sarah announced quietly, stepping past Grandmother Eleanor and setting my folded wheelchair against the wall.
+
+Without another word, my towering cousins moved into action. They grabbed the heavy oak coffee table and easily shoved it to the far side of the room. Sarah crouched down, tightly rolling up the large, woven area rug and standing it in the corner, exposing the bare hardwood floor in the dead center of the living room.
+
+Then, they disappeared down the hallway. A minute later, Sarah emerged dragging her heavy queen-sized mattress by the reinforced fabric handles. Abbey followed seconds later, hauling the mattress from my and Samantha's room.
+
+"What are you doing, girls?" Grandmother Eleanor asked softly, watching as the twins dropped the two massive beds directly onto the living room floor, shoving them tightly together to form one sprawling, unified surface.
+
+"Setting up camp," Abbey replied, disappearing down the hall again and returning with an armful of thick comforters, heavy blankets, and every pillow she could carry.
+
+"Standard household boundaries are suspended, Grandmother," Sarah explained, her voice steady and absolute as she helped her sister spread the heavy quilts across the mattresses. "We are establishing a perimeter. Until we build a permanent reinforced frame, they sleep here with us."
+
+Eleanor watched them work for a moment, her eyes moving from the sheer, tank-like muscle of her granddaughters to the exhausted, terrified posture of Samantha and me on the sofa.
+
+"You aren't going to let them out of your sights," Eleanor stated. It wasn't a question.
+
+"Never again," Abbey promised, dropping the last heavy quilt into place. She turned to look directly at Grandmother Eleanor, the gentle demeanor she had used to carry me hardening back into the uncompromising vanguard. "If they sleep, we sleep on the flanks. If they move, we move with them. They are not going into a room alone, they are not closing a door, and they are never leaving our perimeter again."
+
+Eleanor gave a slow, solemn nod of approval. She understood perfectly.
+
+The fortress was built. Abbey and Sarah stood at the edge of the sprawling mattress camp, their broad shoulders rising and falling with exhaustion, waiting for us. The nightmare was finally, truly over.
+

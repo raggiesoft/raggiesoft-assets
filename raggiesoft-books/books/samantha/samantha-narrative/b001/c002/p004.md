@@ -1,0 +1,44 @@
+# Part 4: Dawn and the Drive-Thru – 5:15 AM
+
+The relentless, metronomic hum of Interstate 81 became a hypnotic drone. Trapped in the center of the backseat, shielded by my sister’s unyielding grip and the towering silhouettes of my cousins, I watched the reflective green highway signs slip past in the dark.
+
+As we approached Exit 118 for Christiansburg and Blacksburg, a massive, illuminated billboard cut through the pre-dawn gloom. It was an advertisement for *Hard Reset*, the newest album from the internationally famous rock band, The Stardust Engine. The artwork depicted the silhouettes of the five band members standing on the bridge of a futuristic spacecraft, looking out through a massive window into a vibrant, swirling cosmos.
+
+Dead center in the artwork, framed against the starlight, was the unmistakable silhouette of the lead singer's wheelchair. Even in my state of exhausted, short-circuiting panic, the image registered in my brain. Seeing a wheelchair front and center on a massive, triumphant billboard high above the Virginia highway offered a fleeting, quiet anchor to reality as we sped through the dark.
+
+A few miles later, the glowing neon sign of a Rocket Burger practically bled into the night sky. Abbey didn't ask if we were hungry; she simply engaged the turn signal and guided the heavy sedan down the off-ramp.
+
+The restaurant had just opened at 5:00 AM. There was no discussion of going inside. The car was our fortress, and Abbey wasn't going to breach the perimeter for breakfast. She steered us into the narrow drive-thru lane.
+
+When she rolled her window down to pay, the damp, cool morning air rushed into the cabin, completely overpowered by the heavy, greasy aroma of hot hash browns and breakfast sandwiches. The teenage worker at the window looked incredibly small as he handed the massive paper bags and a drink carrier across the threshold, his eyes widening slightly as Abbey's broad shoulders completely filled his field of view. She took the haul with a polite but entirely dismissive nod, rolling the window up and instantly sealing the cabin again.
+
+She passed the bags and the drinks back to Samantha. We hadn't had a real meal since the nightmare began, surviving only on pure adrenaline and the meager snacks Sarah had grabbed back in Weber City. Now that the immediate terror was finally beginning to recede, my body realized it was absolutely starving.
+
+Abbey had ordered the exact same combo for all four of us: bacon, egg, and cheese biscuits, crispy hash browns, and large, ice-cold orange juices.
+
+When Samantha unwrapped my sandwich, the smell alone made my stomach twist with desperate hunger. I tried to lift my arms to take it from her, but my hands were shaking so violently that my fingers immediately curled back into useless, spastic fists against my chest. The residual panic was still violently redlining my nervous system, leaving me entirely incapable of holding anything.
+
+Samantha saw it instantly. She didn't let go of me. Instead, she tightened her left arm completely around my chest, applying a crushing, grounding pressure to my ribs.
+
+"Shh, it's okay," she whispered, resting her chin firmly on the top of my head. "I've got you. Breathe, Toby. Just breathe with me."
+
+She didn't rush. She held the food away and waited patiently, letting the rhythmic hum of the car engine and the heavy, unyielding weight of her embrace force my violently trembling muscles to slowly decelerate. She mapped her breathing to mine, forcing my ragged gasps to match her steady, calm rhythm.
+
+Only when the violent shaking finally subsided into a dull, exhausted tremor did she bring the food to my mouth. She held the warm biscuit with her free hand, carefully feeding me bite by bite so I wouldn't have to struggle. When I needed a drink, she lifted the large cup to my lips, letting the sharp, sweet shock of the ice-cold orange juice wash over my dry throat. The food was a revelation. It was a desperately needed spike in blood sugar and profound, biological proof that we were still alive. The four of us ate in heavy, exhausted silence as the sedan pushed forward, the quiet, mundane sounds of our meal acting as a final layer of insulation against the horrors of Kentucky.
+
+By the time we reached Staunton and merged onto Interstate 64 East, the pitch-black sky finally began to break.
+
+The sun crested over the horizon, flooding the heavy sedan with warm, golden light. It was a profound, physical relief. The daylight burned away the claustrophobic terror of the Appalachian night. I could finally see the dense, unyielding muscles of my cousins' backs, the sturdy reinforced stitching of their custom shirts, and the quiet, tactical focus on their faces. The monsters couldn't hide in the light, and nothing was getting past the vanguard in the front seats.
+
+The grueling hours stretched on as we pushed past Charlottesville and Richmond. As we approached the coastal plains, my shattered nervous system demanded one final, unavoidable stop.
+
+Sarah pulled us into the New Kent VDOT Rest Area. The sunlight didn't change the protocol.
+
+Abbey deployed my chair, and the four of us formed the exact same impenetrable phalanx we had used in the mountains. We marched past the crowded main facilities and found a single-occupancy family restroom. The heavy door clicked shut, the deadbolt was thrown, and my cousins planted their six-foot-four frames against the exit. The absolute, suffocating density of their bodies formed a human blast shield while Samantha helped me to the sink.
+
+When we returned to the car, the physical toll of the night was visible in the heavy set of Abbey's shoulders. She tossed the keys over the roof to her sister.
+
+"I've got the rest," Sarah said quietly, catching them.
+
+Abbey folded herself into the passenger seat, immediately tilting it back to rest her eyes. Sarah took the wheel. She adjusted the mirrors, her jaw setting into a hard, determined line. We were on the final leg, pushing straight into Hampton Roads.
+

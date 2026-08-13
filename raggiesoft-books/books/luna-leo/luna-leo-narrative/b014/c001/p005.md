@@ -1,0 +1,270 @@
+# Part 6: The Dialect Shock
+
+## August 29, 2006 (Tuesday) Humanities Building - Room 204 02:00 PM
+
+The classroom was full. **FR-Q 101** was a popular elective, mostly because students assumed "French is French."
+
+**The Fortress** sat in the front row, occupying a block of five seats.
+
+- **Leo:** Parked on the end in his Titan X-Treme, laptop open.
+
+- **Sarah:** Next to him (Engineering Cohort).
+
+- **Olivia:** The Anchor.
+
+- **Luna:** The Musician.
+
+- **Stella:** The Graduate Student.
+
+Behind them sat the "AP Crowd"—three Freshmen who had taken AP French in high school. They were loudly conjugating verbs to show off.
+
+"The syllabus looks easy," one guy bragged. "I spent a summer in Paris. I can basically sleep through this."
+
+Then, the door opened.
+
+**Dr. Luc Gagnon** walked in.
+
+He was not wearing a tweed jacket with elbow patches. He was wearing a heavy red-and-black plaid flannel shirt, thick canvas work pants, and boots that looked like they had actually stepped in mud. He looked like he had just parked a logging truck, not a lecture.
+
+He slammed a stack of books onto the desk. He looked at the class.
+
+*"Bon, la gang. On s'y met!"* he shouted, his voice booming with a twang that sounded nothing like the recordings in a language lab. (Alright, gang. Let's get to it!)
+
+The AP kids blinked. They froze. They exchanged confused looks.
+
+*"Aujourd'hui, on oublie Paris,"* Gagnon announced, pacing the room. *"On oublie la Tour Eiffel. Ici, on parle le français de l'Amérique du Nord. On parle avec le ventre."* (Today, we forget Paris. We forget the Eiffel Tower. Here, we speak North American French. We speak with the gut.)
+
+A hand went up in the back row. The "Paris Summer" guy.
+
+"Monsieur?" the student asked, using a perfect, pinched Parisian accent. *"Excusez-moi, mais... you speak very fast. Don't you mean 'Commençons'?"*
+
+Gagnon stopped. He smiled. It was the smile of a wolf looking at a poodle.
+
+"In Paris," Gagnon said in English, "they say *Commençons* (Let us begin). In my classroom, we say *On s'y met* (Let's get at it) or *Aweille* (Let's go/Hurry up)."
+
+He leaned against the desk.
+
+"Let me be clear. Most of you are here because you think French is romantic. You think you're going to order croissants."
+
+He pointed North.
+
+"But the French spoken three hours north of here isn't romantic. It is a survival tool. It is the language of people who survived British conquest, brutal winters, and the Catholic Church. It is tough. It is fast. And it does not care about your high school textbook."
+
+He looked at the AP student.
+
+"If you go to a *dépanneur* in Montréal and ask for *'Le Week-end,'* they will charge you double for your coffee because they know you are a tourist. But if you walk in and talk about *'La Fin de Semaine,'* you pay the local price."
+
+Leo tapped his **Quantum Communicator**.
+
+*"THE TOURIST TAX,"* the robotic voice noted.
+
+"Exactly," Gagnon pointed at Leo. "Language is currency. If you use the wrong currency, you get ripped off."
+
+He scanned the room. He locked eyes with **Olivia**.
+
+*"Olivia,"* he said, switching back to the heavy dialect. *"Dis-leur c'est quoi la météo aujourd'hui."* (Tell them what the weather is like today.)
+
+Olivia didn't hesitate. She didn't translate in her head. She just spoke.
+
+*"Y fait pas chaud, mais au moins y mouille pas. C'est un temps pour mettre une petite laine."* (It isn't hot, but at least it isn't raining. It's weather to put on a sweater/little wool.)
+
+The class stared at her. To the AP kids, it sounded like she was speaking gibberish. The rhythm was musical, bouncy, and completely foreign.
+
+*"Exactement,"* Gagnon beamed. *"Une petite laine. A sweater. In Paris, they say 'un pull.' If you say 'un pull' in Sherbrooke, people will think you are knitting."*
+
+He turned to the whiteboard. He wrote five letters in huge, red marker.
+
+**T-E-F-A-Q**
+
+"This," Gagnon said, hitting the board with his marker, "is the final boss. The *Test d’Évaluation de Français pour l’accès au Québec*. It is the immigration exam."
+
+He looked at the Fortress.
+
+"This family," he gestured to the front row, "is taking this class because they want to pass that test. They want the option to be citizens. The rest of you just want a grade. If you want an 'A' in my class, you have to prove you can survive a conversation in a mechanic's shop in Drummondville. If you want to conjugate verbs, go to the French Department down the hall. If you want to speak the language of this continent, stay here."
+
+Silence filled the room. The AP kids looked terrified.
+
+Sarah leaned over to Leo. "Okay," she whispered. "I'm terrified. But I like him."
+
+*"HE IS PRACTICAL,"* Leo typed on his laptop. *"HE IS NOT DECORATIVE."*
+
+"Like a lumberjack," Sarah agreed.
+
+Stella opened her notebook. She wrote at the top of the page: **OBJECTIVE: CITIZENSHIP LEVEL FLUENCY.**
+
+Dr. Gagnon clapped his hands. *"Aweille! Ouvrez vos livres à la page dix. On commence avec les sacres."* (Let's go! Open your books to page ten. We start with the swear words.)
+
+Olivia grinned. She was home.
+
+## August 29, 2006 Humanities Building - Room 204 02:45 PM
+
+Dr. Gagnon had paused the lecture to let the students "mingle and practice casual greetings."
+
+The **AP French Guy** (Chad) saw his opening. He adjusted his scarf (indoors, in August) and sauntered over to the front row where the Fortress was sitting.
+
+He ignored Leo. He ignored Stella. He locked eyes with **Olivia**.
+
+"Mademoiselle," Chad said, leaning on her desk with a practiced smirk. *"Vous êtes charmante. Peut-être un café après le cours? J'aimerais pratiquer mon... oral."* (You are charming. Maybe a coffee after class? I would like to practice my... oral skills.)
+
+It was slimy. It was condescending. And it was in a terrible, nasal Parisian accent that sounded like a cartoon character.
+
+Olivia looked at him. She didn't just say no. She detonated.
+
+She stood up, towering over him. Her eyes flashed with the cold fury of a Stanstead winter.
+
+*"Écoute-moi bien, mon petit câlisse,"* Olivia snarled, her voice dropping into the guttural growl of the Eastern Townships. (Listen to me well, you little chalice/fucker.)
+
+Chad blinked, confused by the dialect. "Calice?"
+
+*"Dégage d'ici avant que je te crisse mon poing dans la face,"* she continued, the words flowing like hot lava. *"T'es rien qu'un ostie de sans-dessein qui se prend pour le nombril du monde. Tabarnak de vidange!"* (Get out of here before I Christ/throw my fist in your face. You're nothing but a Host/idiot who thinks he's the bellybutton of the world. Tabernacle of garbage!)
+
+The entire class went silent.
+
+*"Esti de piment,"* she finished, crossing her arms. (Host of a pepper/You total idiot.)
+
+Chad stood there, stunned. He recognized the words from church, but he had never heard them used as weapons. "Did you just call me... a tabernacle?"
+
+Suddenly, a laugh erupted from the back of the room.
+
+A girl with bright red hair and a flannel shirt slammed her hand on her desk. She was **Elspeth**, an international student from Glasgow on a soccer scholarship. She marched over to Chad, who looked like he was about to cry.
+
+"Oh, that was beautiful!" Elspeth cheered in a thick Scottish brogue. She got right in Chad's face.
+
+"She told ye to jog on, ye glaikit bawbag!" Elspeth shouted. (She told you to leave, you foolish scrotum.)
+
+Chad backed up. "Excuse me?"
+
+"Ye heard her!" Elspeth continued, enjoying herself. "Don't be giving it the big one, ye absolute numpty. Away and boil yer heid!" (Don't act tough, you total idiot. Go boil your head!)
+
+Chad looked frantically between the two women, trying to find a way to save face. He looked for a weakness.
+
+Then, he looked at their hands.
+
+Olivia was pointing a finger at the door. On her left ring finger, the heavy silver band with the Celtic knotwork—matching the one on the hand of the guy in the wheelchair next to her—glinted in the light.
+
+**Status: Taken.**
+
+Then he looked at Elspeth. She had crossed her arms. On her left ring finger sat a simple, solid gold wedding band.
+
+**Status: Taken.**
+
+Chad’s face turned a deep, violent shade of red. He had just tried to hit on two married (or effectively married) women in front of thirty people, and they had both verbally destroyed him in languages he couldn't parse.
+
+"I... uh... I was just practicing," Chad stammered.
+
+Leo, watching from his Titan, tapped his **Quantum Communicator**.
+
+*"TARGETS UNAVAILABLE,"* the robotic voice announced to the silent room. *"GAME OVER."*
+
+## The Lesson
+
+Dr. Gagnon, who had been watching the entire exchange with a look of pure delight, clapped his hands.
+
+*"Bravo!"* Gagnon shouted. *"A perfect demonstration!"*
+
+He walked to the whiteboard. He picked up a red marker.
+
+"Class," Gagnon announced. "What you just heard was not 'rude.' It was **Cultural Poetry**."
+
+He wrote on the board: **SACRES (The Holy Swear Words)**
+
+"In France," Gagnon explained, "they swear with sex and bodily functions. *Merde. Putain.* Boring."
+
+He gestured to Olivia.
+
+"But in Québec, for three hundred years, the Catholic Church controlled everything. So when we get angry? We don't talk about poop. We talk about the **Altar**."
+
+He wrote the list, translating as he went:
+
+- **Tabarnak** (Tabernacle) = The F-Bomb (Nuclear Level).
+
+- **Câlisse** (Chalice) = Damn/F\*\*k.
+
+- **Ostie / Esti** (Host/Communion Wafer) = Goddamn/Son of a Bitch.
+
+- **Ciboire** (Ciborium/Cup) = Holy Crap.
+
+- **Saint-Chrême** (Holy Oil) = For when you hurt yourself.
+
+"When Olivia called him a *'Tabarnak de vidange,'*" Gagnon said, pointing to Chad (who was slumping into his chair), "she literally called him a 'Tabernacle of Garbage.' It implies his trashiness is **sacred**. It is monumental. It is holy trash."
+
+He looked at Elspeth.
+
+"And the Scottish approach?"
+
+"We just insult the intelligence, sir," Elspeth shrugged. "A *numpty* is a useless person. A *bawbag* is... well, anatomy."
+
+"Wonderful," Gagnon said. "Diversity in anger. That is what this class is about."
+
+He turned back to the board.
+
+"For homework," Gagnon commanded. "I want you to construct three sentences using *Tabarnak* as a verb, an adjective, and a noun. Olivia, you are exempt. You already passed the lab practical."
+
+Olivia sat back down. She looked at Leo. She touched her ring against his armrest.
+
+*"NICE SHOOTING, TEX,"* Leo typed.
+
+"Thanks," Olivia whispered. "He annoyed me."
+
+*"HE IS A TABERNACLE OF GARBAGE,"* Leo agreed. *"DATA VERIFIED."*
+
+From that day on, nobody in the class messed with the Fortress. And Elspeth the Scot became their unofficial bodyguard for any insults that required a hard 'R'.
+
+## August 29, 2006 Humanities Building - Room 204 02:50 PM
+
+Chad stood in the center of the room, his face burning.
+
+He looked at **Olivia** (21). She was glaring at him, her hand resting protectively on the armrest of the guy in the wheelchair. The silver ring on her finger was a "Do Not Enter" sign.
+
+He looked at **Elspeth** (18). She was cracking her knuckles. The gold band on her left hand—a young marriage back in Glasgow before she came over on the scholarship—glinted under the lights.
+
+He looked at **Stella** (28). She was sitting two seats down. She wasn't looking at him with anger; she was looking at him with the bored, dismissive stare of a woman who had fired better men than him before breakfast. Too old, too scary, too rich.
+
+He looked at **Sarah** (18). She was sitting next to Leo. She was wearing safety glasses on her head and had grease under her fingernails. She was currently sketching a diagram of a shear pin on her notebook, completely ignoring the drama. She was clearly part of the "Unit."
+
+Chad did the math.
+
+- **Olivia:** Taken / Scary.
+
+- **Elspeth:** Married / Scary.
+
+- **Stella:** Too old / Scary.
+
+- **Sarah:** Occupied / Engineer.
+
+There was no "prize" here. There was no easy A, and there was no date to be found. This wasn't a classroom; it was a fortress of unavailable women.
+
+"You know what?" Chad stammered, backing away toward the door. "I think... I think I'm in the wrong section. I prefer... traditional French."
+
+He grabbed his bag. He didn't walk; he fled.
+
+"Good riddance," Elspeth shouted after him. "Don't let the door hit ya where the good Lord split ya!"
+
+The door slammed.
+
+Dr. Gagnon watched him go. He looked at the class list. He crossed out **CHAD**.
+
+## The Exodus
+
+When the class ended at 3:30 PM, there was a scramble for the door.
+
+The "Paris Summer" guy was already on his phone. "Yeah, I'm dropping it. He talks like a lumberjack. I'm transferring to FR-M 102."
+
+Half the class followed him.
+
+But the Fortress didn't move. Sarah stayed seated, looking terrified but excited. Elspeth, the Scottish girl in the back row, was grinning. Mateo (the Spanish cellist) was already arguing with Lars (the Dutch architect) about vowels.
+
+Dr. Gagnon watched the AP kids leave. He looked at the twelve students remaining.
+
+*"Bon,"* Gagnon said, a satisfied smile on his face. *"Les touristes sont partis. Maintenant, on peut travailler."* (Good. The tourists are gone. Now we can work.)
+
+Leo looked at the empty seats where Chad used to be. He looked at Olivia.
+
+He tapped his **Quantum Communicator**.
+
+*"PURGE COMPLETE,"* the robotic voice announced.
+
+"We kept the fighters," Olivia agreed. "Now teach me how to swear in Scottish, Elspeth."
+
+"Oh, hen," Elspeth laughed. "You're not ready for *that* lesson."
+

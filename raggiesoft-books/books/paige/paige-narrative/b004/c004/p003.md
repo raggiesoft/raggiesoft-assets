@@ -1,0 +1,72 @@
+# Part 3: The Time Lock
+
+## Friday, May 7, 2004 — 19:45 PM (PST) Pathfinder Terminal, Seattle
+
+Vanessa stood by the bank of payphones near the entrance. The terminal was emptying out. The Averys were gone. The "heroic rescue" was over, and she was just a girl standing in a puddle with a duffel bag.
+
+She dug into her pockets. She found four quarters, a dime, and a lint-covered nickel.
+
+She picked up the receiver. It was greasy. She dialed the number she had written in her notebook months ago—a number she never really intended to use.
+
+*Ring... Ring... Ring...*
+
+"Hello?" A woman’s voice. Older. Distracted. The sound of a TV game show in the background.
+
+"Aunt Carol?" Vanessa asked, her voice trembling. She pressed a hand to her stomach. She felt nauseous—a rolling, sour feeling she assumed was from the bus ride.
+
+"Who is this?"
+
+"It's... it's Vanessa. Your sister’s girl. From Virginia."
+
+Silence on the line. Then, a heavy sigh. "Vanessa? Good lord, it’s been ten years. Is everything okay? Is your mother—"
+
+"I'm in Seattle," Vanessa interrupted. She couldn't do the pleasantries. She was shivering. "I... I came for a visit. I'm at the bus station."
+
+"You're *what*?" The warmth drained out of the voice. "You're in Seattle? Now?"
+
+"I didn't have anywhere else to go," Vanessa lied, or maybe it was the truth now. "Can I... can I come stay with you? Just for a little bit?"
+
+"Vanessa, honey, I work double shifts at the cannery. I don't have a guest room. The house is a mess. You can't just spring this on people."
+
+"Please," Vanessa whispered. She looked around the terminal. A security guard was eyeing her luggage. "I don't have any money for a hotel. I just need a floor. Please, Aunt Carol."
+
+Another sigh. Long. Resigned. "Fine. But I'm not driving into the city tonight. My car’s transmission is slipping. You have to get yourself to Kent."
+
+"Kent?"
+
+"Take the 150 bus," Carol instructed gruffly. "It picks up on 2nd and Pike. Take it to the Kent Station. Walk three blocks east to the trailer park on Central. Lot 44. I'll leave the porch light on."
+
+*Click.*
+
+Vanessa hung up the phone.
+
+The 150. 2nd and Pike.
+
+She grabbed her bag. A wave of dizziness hit her, making the floor tilt. She grabbed the payphone booth to steady herself.
+
+*Just stress,* she told herself, swallowing back the bile. *Just hunger.*
+
+She didn't know that the nausea wasn't from the journey. She didn't know that inside her, a new variable—a permanent consequence of a forgotten night in a dorm room—was already dividing cells.
+
+She dragged her bag out into the rain.
+
+## Friday, May 7, 2004 — 21:30 PM (PST) King County Metro Route 150
+
+The bus to Kent was not a luxury coach. It was a city transit bus, stopping every few blocks, smelling of wet wool and floor cleaner.
+
+Vanessa sat in the back. She had paid her fare with the last of her change. She was penniless.
+
+She watched the city fade away, replaced by the industrial sprawl of the south warehouses.
+
+She thought about Freddie. She thought about the King bed she knew he was sleeping in right now.
+
+*He's weak,* she told herself, shivering in her wet jacket. *He chose the cage.*
+
+She rested her hand on her stomach as the bus hit a pothole, sending a jolt of nausea through her.
+
+*I'm free,* she thought bitterly. *I'm in Seattle. I made it.*
+
+The bus stopped at the Kent Station. It was dark. It was raining.
+
+She stepped off into the night, looking for the lights of a trailer park, completely alone.
+

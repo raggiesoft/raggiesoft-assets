@@ -1,0 +1,51 @@
+# Part 1: The Guidance Office – 6:30 AM
+
+The loud, violent hiss of the school bus air brakes and the sharp smell of diesel exhaust usually signaled the start of our rigid daily routine.
+
+Normally, stepping off the bus at 6:25 AM meant walking into Northwood High School and heading straight for the cafeteria to sit in our specific, predictable corner until the first bell rang at 7:15 AM. But today, we completely bypassed the cafeteria. Rachel’s hand was gripping the fabric of my backpack strap so tightly her knuckles were white as we navigated the sparsely populated, echoing hallways toward the administrative wing.
+
+We walked into the guidance counselor's office. The room smelled like stale coffee and floor wax. Mrs. Gable, a soft-spoken woman with thick glasses, was just turning on her desk lamp and sorting through a stack of college brochures. She looked up in surprise as we stood in her doorway.
+
+"Michael? Rachel?" she asked, frowning slightly at the clock on her wall. "You two are here early. Classes don't start for another forty-five minutes."
+
+"We need help," I said. I didn't wait for an invitation to sit. I guided Rachel to the two rigid, plastic chairs across from the desk and sat down, my legs stiff and aching from the sleepless night.
+
+I laid out the data exactly as I had rehearsed it in the dark. I kept my voice clinical and completely factual. I told her about the shouting. I told her about Dad breaking the locked bedroom door with a screwdriver. I told her about the physical altercation, the absolute terror, and his threat to forcibly drag Rachel out of the house to Washington state to live with a woman we had never met.
+
+"You are a mandatory reporter," I stated, staring directly into Mrs. Gable's eyes, using the bureaucratic rule I was certain would be our shield. "We are reporting an unsafe environment. He broke down her door. You have to stop the court order."
+
+Mrs. Gable’s expression shifted from polite morning confusion to deep, heavy sadness. She let out a long sigh, took her glasses off, and pinched the bridge of her nose.
+
+"Michael," she started, her voice painfully gentle. "Did your mother call the police last night?"
+
+"No," I admitted, my stomach tightening. "She just told us to be reasonable."
+
+"Because she knows what the paperwork says," Mrs. Gable explained quietly. She opened a filing cabinet drawer, pulling a manila folder—our student files—onto her desk. "Your parents filed their legal separation agreement with the school district last week so we would know who to contact in an emergency. Dad has primary physical custody of Rachel. Mom has primary physical custody of you."
+
+"But he broke her door!" I argued, the panic starting to spike. "He tried to grab her!"
+
+"I hear you, and I am so incredibly sorry that you both had to go through that," Mrs. Gable said, looking between us. "It is awful. But from a strictly legal standpoint, taking an interior door off its hinges in a house he still legally owns, to collect a child he has legal custody of, is not going to trigger a child protective services intervention. Especially if your mother isn't contesting it in court."
+
+The room went completely still. The ticking of the wall clock suddenly sounded like a hammer hitting an anvil.
+
+"The school cannot override a judge's custody order, Michael," Mrs. Gable said, delivering the final, fatal blow to our equation. "We don't have that authority. If the court says Rachel belongs in Washington with your father... she has to go."
+
+The math had failed. The ultimate authority didn't care about our survival mechanics.
+
+Rachel shot up out of her plastic chair, her chest heaving. The sheer devastation in her dark eyes instantly morphed into blinding, white-hot fury.
+
+"I can't go!" Rachel yelled, her voice echoing off the cinderblock walls of the small office. "I am in the band! We just mapped out the entire muscle memory for *The Mountain Melodies*! I know every single measure!"
+
+"Rachel, I know how much the band means—" Mrs. Gable tried to soothe her.
+
+"No, you don't!" Rachel snarled, tears of absolute rage spilling down her cheeks. She pointed a shaking finger at me. "I play the marimba right next to him! I need to be next to him! If I go to Vancouver, I lose the music! I lose the pattern! I lose my brother!"
+
+She wasn't just losing a hobby. The marching band was the rigidly structured universe where she finally made sense. The mallet permutations, the 4/4 time signatures, the absolute safety of standing shoulder-to-shoulder with her anchor—it was the only thing keeping her grounded while her family collapsed. And this piece of paper was going to rip it all away.
+
+"Time is up," Mrs. Gable whispered, her own eyes watering behind her glasses as she looked at Rachel's heartbreaking fury. "The stalling is over. I am so sorry, Rachel. But you have to start packing."
+
+Rachel let out a jagged, suffocating gasp. The warning bell for first period suddenly shrilled through the hallways overhead, a harsh, grating sound that made us both flinch.
+
+Rachel spun around, grabbed my arm with bruising force, and practically dragged me out of the plastic chair. She didn't say another word to the counselor. She just pulled me out of the office and into the crowded hallway, running entirely on a furious, desperate need to escape the room where our last hope had just died.
+
+

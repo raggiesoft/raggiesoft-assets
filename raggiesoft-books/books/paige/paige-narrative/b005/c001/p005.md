@@ -1,0 +1,171 @@
+# Part 5: The Migration
+
+## Sunday, June 24, 2007 — 03:15 AM 105 Pepper Street SE, Christiansburg, VA
+
+The silence of the living room was broken by a groan.
+
+It wasn't a sound of distress; it was the sound of a spine complaining about physics. Jenna shifted in the "Heap," her leg kicking out involuntarily as she tried to find a cool spot on the mattress.
+
+There were no cool spots. The beige sofa bed, while functional, was a standard Double. It was fifty-four inches wide.
+
+Packed with five adults, the thermal output was immense. The body heat had pooled in the center of the bed, turning the "cuddle pile" into a kiln.
+
+"Hot," Jenna mumbled, pushing the sheet off her legs. "Too hot."
+
+She tried to sit up, but she was pinned. Sarah’s arm was clamped across her waist. Freddie’s leg was under hers. Jessica was a dead weight on her ankle.
+
+Jenna wiggled. The movement sent a ripple effect through the Unit.
+
+"Movement detected," Freddie whispered, his eyes flying open. He winced. His neck was stiff from sleeping at an odd angle against Paige’s shoulder.
+
+"Jenna?" Sarah mumbled, her grip tightening instinctively before waking up fully. "Status?"
+
+"I need juice," Jenna announced, her voice rasping in the dark. "Cranberry. And I can't feel my left foot. This bed is a trap."
+
+"It’s a sofa," Jessica corrected, yawning and stretching her arms, which caused a domino effect of limbs untangling. "It wasn't built for a platoon."
+
+Jenna finally managed to extract herself. She stood up on the cool hardwood floor, wobbling slightly. She pulled at her oversized t-shirt, which was twisted and damp with sweat.
+
+"Ugh," Jenna complained, flapping the shirt to generate airflow. "I'm boiling. I feel like a burrito in a microwave."
+
+She looked at the others. They were all sitting up now, rubbing sore necks and stretching cramped backs. The "Heap" had been emotionally perfect, but ergonomically disastrous.
+
+"Why are we wearing clothes?" Jenna asked, looking down at her boxers. "It’s 105 Pepper Street. It’s the Base. Why are we roasting in pajamas?"
+
+"Habit," Sarah said, buttoning her top button which had come undone. "Protocol dictates sleepwear for communal areas."
+
+"Correction," Jessica said, swinging her legs off the edge of the mattress. "Protocol dictates *comfort*. I told you earlier: we don't hide bodies here. The house is 1,100 square feet. There is no privacy. Pretending there is just creates laundry and heat stroke."
+
+Jenna didn't need to be told twice.
+
+"System purge," Jenna declared.
+
+She grabbed the hem of her paint-stained t-shirt and pulled it over her head. She shimmied out of her boxers. She tossed the pile onto the recliner.
+
+She stood there in the dim light of the streetlamp filtering through the cracks—naked, unbothered, and finally cooling down.
+
+"Oh, that is *so* much better," Jenna sighed. "Airflow."
+
+Freddie blinked behind his glasses. He looked at Jenna. He ran a diagnostic.
+
+*Shock level: Zero.*
+
+He had read the manual. He had done the coursework. This wasn't "scandalous." It was just Jenna.
+
+"Efficiency," Freddie noted. "Thermal regulation optimized."
+
+He looked at Paige. Paige nodded. She sat up and pulled off her tank top. She stood and stepped out of her shorts.
+
+Jessica followed suit.
+
+Freddie sat on the edge of the bed. He reached for the waistband of his grey pajama pants.
+
+He hesitated for a microsecond—the "Robert Virus" whisper of *shame* trying to run a background script—but he looked at Sarah.
+
+Sarah was sitting perfectly still, fully buttoned up in her blue pajamas, staring at Jenna. Her eyes were wide. She was processing the data.
+
+"It is... unstructured," Sarah whispered. "It violates the standard social contract."
+
+"The social contract is for strangers," Jessica said gently, standing up and stretching her back. "We aren't strangers. We're the Unit. And Sarah? Think about the washing machine. Five sets of pajamas every night? That’s two extra loads a week. Water. Detergent. Folding time."
+
+Sarah’s eyes narrowed. The logic centers of her OCD flared to life.
+
+*Inefficiency detected.*
+
+"Two loads," Sarah calculated. "Plus wear and tear on the fabrics."
+
+She looked at Freddie. He was waiting. He hadn't stripped yet. He was giving her time to calibrate.
+
+Sarah took a deep breath. She unbuttoned the top button. Then the second.
+
+"Laundry reduction is a valid goal," Sarah stated.
+
+She stripped off the blue pajamas. She folded them neatly—even in the dark—and placed them on the stack.
+
+She stood up. She looked at Freddie.
+
+It was the first time she had ever seen him without clothes.
+
+She looked at his chest, the scar from a childhood bike accident on his knee, the way his shoulders were set.
+
+She didn't feel shame. She didn't feel the "ick" factor Ellen had warned them about.
+
+She just felt... accurate. This was the raw data. This was her brother.
+
+"Freddie," Sarah said, nodding to him. "You are authorized."
+
+Freddie stood up. He let the grey pants drop.
+
+Jenna turned from the kitchen doorway. She saw him.
+
+She saw the reality of his body—the slight curvature of his spine from the muscle spasms, the definition in his arms from using the wheelchair.
+
+"You look strong, Freddie," Jenna observed, tilting her head. "Like a swimmer."
+
+Freddie felt a flush of warmth that had nothing to do with embarrassment. "Thank you," he whispered. "I am... aerodynamic."
+
+"Okay," Jenna said, turning back to the kitchen. "Juice run. Then we fix the sleeping arrangement."
+
+She returned a moment later with a glass of cranberry juice. She drank it in three gulps.
+
+"Okay," Jenna wiped her mouth. "The sofa is a failure. My hip hurts. Sarah's elbow was in my spleen."
+
+"Agreed," Paige said, rubbing her shoulder. "Crowding was critical."
+
+"The Silo," Jenna pointed to the ceiling. "The King Bed. It’s 76 inches, right? That’s twenty-two inches wider than this thing."
+
+"It is," Freddie confirmed. "Spatial capacity is significantly higher."
+
+"Let's go," Jenna said. "We migrate to the Silo. We test the King configuration."
+
+"All five?" Sarah asked.
+
+"All five," Jessica confirmed. "We aren't splitting up. Not on the first night."
+
+They moved to the stairs—a procession of pale shapes in the dark house.
+
+They entered the Master Bedroom. The blackout curtains were sealed tight. The room was pitch black, cool, and silent.
+
+They climbed into the massive bed.
+
+## The Configuration (Mark II):
+
+- **Center:** Freddie. The Core.
+
+- **Left Flank:** Paige (The Anchor). She curled into his side, leg over his, hand on his chest.
+
+- **Right Flank:** Jessica (The Shield). She pressed her back against his, locking him in.
+
+- **Far Left:** Jenna (The Roof/Chaos). She sprawled next to Paige, stealing the pillow but draping an arm over the pile.
+
+- **Far Right:** Sarah (The Clamp). She took the edge, but she reached across Jessica to grip Freddie’s wrist. A static, verifying hold.
+
+It was tight. They were shoulder-to-shoulder, skin-to-skin.
+
+But it fit.
+
+Freddie lay in the center of the mass. He felt the weight of four sisters.
+
+He closed his eyes.
+
+The memory of the Pasco bus terminal—the cold floor, the dragging, the searing pain of his back tearing open—flashed in his mind.
+
+*Phantom Pain.* He felt a ghost-sting on his lower back.
+
+But then he felt Paige’s hand over his heart. He felt Sarah’s grip on his wrist. He felt Jessica’s solid warmth on his back. He felt Jenna’s breath on his shoulder.
+
+The phantom pain flickered and died. It couldn't survive in this environment.
+
+*Vanessa had one hostage,* Freddie thought. *I have an army.*
+
+"Status?" Paige whispered from the dark.
+
+"Fortified," Freddie breathed. "The walls are... impenetrable."
+
+"Goodnight, Unit," Jenna mumbled, already drifting off.
+
+"Goodnight," four voices answered.
+
+The breathing synced up. The heat rose. The Avery Unit slept, safe in the Silo, five hearts beating in the dark.
+
+

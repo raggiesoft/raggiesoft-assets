@@ -1,0 +1,38 @@
+# Part 17: A New Dream on the Boardwalk (Summer 2006)
+
+The late afternoon sun cast a golden glow over the Newport waterfront. The three of them sat together on a bench along the accessible boardwalk, the gentle lapping of Lake Memphremagog a peaceful soundtrack. They had finished their maple creemees, the sweet taste still lingering, a perfect end to their nostalgic tour.
+
+Alex looked out over the water, then at a young family walking by, a father laughing as he lifted his small daughter onto his shoulders. He watched them for a long moment, a thoughtful, tender expression on his face. He turned to Chloé, who was leaning contentedly against his shoulder, and began to type on his AAC.
+
+CHLOÉ, the device voiced softly. THIS TRIP... SEEING YOUR FAMILY, YOUR HOME. IT MAKES ME THINK ABOUT... OUR FUTURE. He paused, gathering his thoughts. I KNOW IT'S IMPOSSIBLE. BUT... I WOULD HAVE LIKED TO HAVE KIDS WITH YOU.
+
+The words, so simple and so heartfelt, hung in the quiet air. Megan, who was sitting on Alex's other side, heard the words and her own heart ached with a profound, quiet empathy for her two best friends.
+
+Chloé's heart ached with a familiar, bittersweet pang. She lifted her head from his shoulder and took his hand. "Oh, Alex," she said, her voice a little thick with emotion. "Me too. More than anything."
+
+She looked at their intertwined hands. "You're right," she continued gently, acknowledging the painful truth. "It's not in the cards for us. My body, your body... they just weren't built for that." The fact of their mutual infertility was a quiet, shared sorrow.
+
+Alex gave her hand a gentle squeeze. They sat in silence for another moment, the happy shouts of the child playing nearby a poignant counterpoint. But Chloé, ever the one to find a hopeful path forward, turned to him, a new light sparking in her eyes.
+
+"But you know what we can do?" she began, her voice gaining a new energy. "We have so much... this..." she gestured between the three of them, "...this love, this patience, this ability to take care of things. What if we used it for... others? Not human kids. But creatures that need help."
+
+Alex looked at her, intrigued. Megan leaned forward, a look of dawning excitement on her face.
+
+"I mean it," Chloé continued, the idea taking shape. "Think about all the animals that are hurt or abandoned. We could have a place of our own someday. Not just a house, but a center. A place where we could rescue animals, care for them, help them heal."
+
+A slow, brilliant smile began to spread across Alex's face as he caught her vision. The sadness of a moment ago was being replaced by a new and powerful hope.
+
+Megan, her own mind now racing with the possibilities, jumped in. "And it could be more than just a shelter," she added, her voice full of a sudden, brilliant clarity. "It could be a place for people, too. People like us. A place that's quiet, and calm, and accessible. A place where a kid like you, Alex, could come and learn about animals without being overwhelmed. A place for discovery."
+
+A CARE CENTER, Alex typed, the words coming quickly now, full of excitement. FOR ANIMALS IN NEED. I COULD DESIGN ACCESSIBLE HABITATS. YOU COULD RUN IT.
+
+"Exactly!" Chloé beamed, squeezing his hand tightly. "And Megan could be our ambassador, our connection to the community!" She looked at the city name on a nearby tourist sign. "We could call it... I don't know... The Lynnwood Discovery and..." She paused, looking for the final piece.
+
+...AND CARE CENTER, Alex's device finished, the name now complete.
+
+The Lynnwood Discovery and Care Center. The name hung in the air, a perfect, hopeful seed planted on a quiet afternoon by a Vermont lake. The dream of the children they could never have was gently laid to rest, replaced by the birth of a new, shared purpose. They looked at each other—the three of them—the path of their future, a future filled with creatures great and small, suddenly stretching out before them, bright and full of possibility.
+
+"Time to head to Burlington," Chloé said, a note of finality in her voice as she looked at the time.
+
+They settled in for the last major drive of their vacation, leaving the border towns and their ghosts of the past behind them. The two-hour journey south on the interstate was quiet and reflective. The week had been a whirlwind of family, memories, and new realities. As they drove towards the setting sun, their hearts were full, carrying with them the sweet taste of a shared maple creemee and the quiet, triumphant birth of a dream they would build together.
+

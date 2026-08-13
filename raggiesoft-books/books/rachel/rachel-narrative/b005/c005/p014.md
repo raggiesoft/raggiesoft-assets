@@ -1,0 +1,69 @@
+# Part 14: The Night Watch – 10:30 PM
+
+By 10:30 PM, the acoustic assault of the extended family finally began to recede.
+
+The mass exodus was a slow, chaotic procedure of locating winter coats, exchanging plastic leftover containers in the galley kitchen, and corralling exhausted cousins. The front door of 1852 Delaney Street opened and closed in a steady rhythm, letting the freezing Virginia air sweep across the dark blue polyester carpet.
+
+When the Raybourns finally bundled up to leave, Ashley broke away from the group in the foyer. She marched back into the living room, bypassed the shrinking crowd, and delivered one final, heavy-pressure pack squeeze to my left side before silently rejoining her parents.
+
+When the front door clicked shut for the absolute final time, the sudden silence in the house was almost deafening. The continuous, infinite track was closed. The localized earthquake of Baby and Archie running laps had ceased; both dogs were now collapsed in a pile of exhausted black fur near the base of the Christmas tree.
+
+Mom and Dad stood in the living room, taking in the aftermath of the holiday. The tension of holding the perimeter against Aunt Janet’s judgment was gone, replaced by the heavy, bone-deep exhaustion of surviving a family gathering.
+
+Dad rubbed the back of his neck, his eyes drifting toward the slatted wooden stairs.
+
+Jessica had already re-docked her manual wheelchair at the desk. The massive CRT monitor was fully illuminated, throwing a sharp, blue-white glow across her face. *Quantum Developer Studio 6.0* was open, and her fingers were already poised over the mechanical keyboard.
+
+"Jess," Dad said, his deep baritone softened by fatigue. "You've been staring at that screen all day. Don't stay up too late."
+
+"I know, Dad," Jessica replied smoothly, not taking her eyes off the glowing lines of syntax.
+
+"I mean it," Mom added, stepping over to turn off the main overhead light, plunging the living room into the soft, multi-colored glow of the Christmas tree. "It's been a long day. You need to sleep."
+
+"Just finishing a routing loop," Jessica lied effortlessly. "I'll power down in twenty minutes."
+
+Mom and Dad accepted the tactical deception, entirely too tired to argue with their eldest daughter's absolute hyper-focus. They offered a final round of quiet goodnights to Rachel and me before retreating toward the master bedroom.
+
+The absolute second their bedroom door clicked shut, Jessica pushed her tinted glasses up the bridge of her nose and cracked her knuckles.
+
+She had absolutely no intention of powering down. The Catalyst Initiative was a high-stakes, winner-take-all war, and the other competitors—the wealthy seniors with state-of-the-art flagship rigs—weren't sleeping. She reached toward the beige desktop tower, ensuring the blank floppy disk was firmly seated in the drive for her manual backups, and shifted her brain completely into the digital architecture.
+
+On the screen, her *Axiom* memory manager looked flawless.
+
+\#include \<iostream\>
+
+\#include \<q32.h\>
+
+// Initiating dynamic routing protocols
+
+// Utilizing C++ object hierarchies for Quantum API allocation
+
+class MemoryNode {
+
+public:
+
+MemoryNode\* next;
+
+size_t blockSize;
+
+MemoryNode(size_t size) {
+
+blockSize = size;
+
+next = NULL;
+
+}
+
+// ...
+
+She began linking complex C++ class structures together, relying heavily on virtual functions and standard object-oriented logic. The compiler happily accepted the code. To Jessica, the high-level syntax felt like the ultimate architectural tool. As the lines of code scrolled down the CRT monitor, she was entirely confident that this elegant, modern architecture was going to bypass the operating system flawlessly. Tonight, sitting in the blue glow under the slatted stairs, she just felt invincible.
+
+In the center of the living room, Rachel and I remained perfectly anchored on the deployed sofa bed. I reached down and pulled the heavy, dark blue quilts up over our shoulders, sealing Base Camp for the night.
+
+Rachel rested her head against the pillow, her eyes tracking the soft, blinking lights of the Christmas tree in the front-left corner. Her internal telemetry had completely stabilized into a solid, unshakeable Green.
+
+The acoustic volume of Grandma Loretta’s house was gone. The chaotic geometry of the cousins was gone. The only sound left in 1852 Delaney Street was the steady, relentless, mechanical *clack-clack-clack* of Jessica’s keyboard under the stairs.
+
+To a standard-hardware relative, it might have sounded like a distraction keeping us awake. But to the Pack, it was the ultimate lullaby. It was the sound of the vanguard standing watch. Rachel and I closed our eyes, drifting to sleep to the rhythmic, comforting noise of our older sister holding the absolute perimeter.
+
+

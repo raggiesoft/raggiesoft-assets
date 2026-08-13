@@ -1,0 +1,38 @@
+# Part 2: The Calibration
+
+## Sunday, June 15, 2003 10:15 AM
+
+Freddie kept his finger on the highlighted section of the binder: Deep Pressure Therapy. He read the clinical definition again. Use of firm, heavy pressure to calm the sensory system. He looked at the bullet points about weighted blankets, compression vests, and "holding."
+
+He looked up at Paige. She was leaning against the counter, blowing on her tea, looking relaxed in her oversized t-shirt. For years, she had been his weighted blanket. She had been the one squeezing the static out of him in the middle of the night. A variable occurred to him—one he hadn't processed before because he had been too busy surviving.
+
+"Question," Freddie said, his voice quiet. "Query?" Paige asked, putting her mug down. "The manual says this is 'therapy.' It implies a service provider and a patient." He gestured between himself and Paige. "You provide the pressure. I receive the regulation. But... what is the cost to the provider?" He looked at her, his eyes searching for data he might have missed. "Is it... taxing? Do you require... do you tolerate the hugs because the manual requires it? Am I a burden on your chassis?"
+
+The room went silent. The hum of the refrigerator seemed to stop. Paige’s face crumpled—not with sadness, but with a fierce, protective affection. "Oh, Freddie," she breathed.
+
+She didn't answer with words. She moved. She crossed the small distance between them and wrapped her arms around his neck, pulling his head against her chest. Jessica moved in from the other side. She wrapped her arms around his shoulders, pinning him between them. It was a containment field of pure affection.
+
+"Listen to me," Paige said, her voice vibrating against his ear. "I don't do it because it's in a binder. I don't do it because I have to. I do it because you're my brother. I do it because I love you." "We both do," Jessica added, squeezing him tight. "We know the world is loud, Freddie. We know it wasn't built for your operating system. It was built for people like Dad—loud, messy, and insensitive." "But we are building a new world here," Paige whispered. "And in this world, you are not a burden. You are the core. If you need a hug, you take it. If you need to be held for an hour, we hold you for an hour."
+
+Freddie felt the pressure on both sides. It wasn't just physical weight. It was emotional density. For eighteen years, the primary male authority in his life had told him to "toughen up" and "stop acting weird." Now, the two most important women in his life were telling him to let go.
+
+The data was too much. The "Buffer Overflow" happened—but this time, it wasn't a meltdown of terror. It was a spillover of relief. Freddie’s breath hitched. His chest heaved. "I..." he choked out. A tear leaked out from under his glasses. Then another. "System... overwhelmed," he gasped.
+
+"Okay," Paige said softly. "Okay. Let’s regulate." She gently pulled away, taking his hand. "Come to the couch. We’re going to run a test."
+
+She led him to the plush beige sofa in the living room. "Lie down," she instructed. "On your back." Freddie obeyed. He lay down, sinking into the cushions. He wiped his eyes with his sleeve, feeling exposed. Paige kicked off her slippers. She climbed onto the sofa. She didn't sit next to him. She straddled his hips, then lowered herself down until she was lying completely on top of him, stomach to stomach. She rested her head on his shoulder, her hair spilling over the orange hoodie. She wrapped her arms around his torso and squeezed. She let her full weight settle—all of gravity pressing her down into him.
+
+"How is the pressure?" Paige whispered. Freddie let out a long, shuddering exhale. The weight was immense. It was heavy. It forced his lungs to work harder, which mechanically slowed his breathing. It pinned his arms. It pinned his legs. It silenced the nerves that usually fired random "flight" signals to his brain. "Pressure is... maximum," Freddie whispered. "Static is clearing."
+
+"Good," Paige murmured, digging her chin into his shoulder. "This is the protocol, Freddie. If you need this—if you need my full weight to keep the world from shaking apart—you ask. I am right here. I am not going anywhere."
+
+Jessica sat on the edge of the coffee table, watching them with a soft smile. "I can do this too, Freddie," Jessica offered. "If Paige isn't here, and you need the weight, I will lie on you. I will squash the panic out of you." She paused, raising a finger. "However, there is a logistical restriction." Freddie opened his eyes, looking at Jessica. "Restriction?" "You can't lie on me," Jessica said with a small laugh. "I’m the older sister, but I don't have the twin reinforcement. You’re too tall and too dense. You’d crush me flat."
+
+She pointed at Paige. "But Paige... she’s built different. She’s your mirror. If you need to reverse the polarity—if you need to lie on her to feel the heartbeat—she can take it. She can take your weight." Paige nodded against his chest. "She's right. I can take it. You can't break me, Freddie. We’re made of the same iron."
+
+Freddie processed this rule. Jessica: Top only. Paige: Top or Bottom. Reason: Structural compatibility.
+
+He closed his eyes again, focusing on the sensation of the moment. He felt Paige’s heartbeat drumming against his own sternum. He felt the rise and fall of her breath syncing with his. It was "Deep Pressure Therapy," yes. It was a "Sensory Diet," yes. But as he lay there, crushed into the sofa by the person who knew him best in the universe, it didn't feel like medicine. It felt like being found.
+
+"I like this," Freddie whispered, his voice steadying. "I like the weight." "I know," Paige whispered back, squeezing him one more time, locking him into the safety of the Iron City. "I’ve got you."
+

@@ -1,0 +1,64 @@
+# Part 5: The True Face of Apex – Tuesday, May 7, 2045 – 16:00 (Standard Galactic Time)
+
+Lightyears away from the warm, sunlit river valley of Exoplanet 4, the atmosphere was entirely devoid of life or warmth.
+
+In the absolute center of the sovereign planet Acheron, the true headquarters of Apex Defense Solutions loomed over a sprawling, brutalist metropolis. To the billions of souls who had lived on Earth, Apex was simply a megacorporation—a ruthless, incredibly wealthy defense contractor that won federal bids and managed off-world logistics.
+
+It was a brilliant, terrifying masquerade.
+
+Apex wasn't a corporation. It was a sovereign, totalitarian military dictatorship that had consumed its own star system centuries ago. They expanded their empire by acting as corporate entities on developing worlds, bleeding them of their natural resources and manpower before moving on.
+
+Earth had just been their latest quarry.
+
+When a S.H.O.P. Marine on Earth "toed the corporate line," met their quotas, and earned a highly coveted "promotion to corporate," they didn't get a corner office with a view of the ocean. They were loaded onto a high-speed transport, stripped of their civilian identity, and brought to Acheron. Here, they were integrated into a brutal, fascist military machine, subjected to neural-reeducation, and forced to serve the dictatorship until their bodies gave out.
+
+Wyatt and Sarah hadn't just escaped a bad job. They had narrowly avoided becoming permanent, mind-wiped slaves to a galactic empire.
+
+Inside the central command spire, High Director Kael stood before a massive, three-dimensional holographic projection of the Sol System. The hologram bathed his sharp, angular face in a cold, blue light.
+
+The door to the command center slid open with a sharp, pneumatic hiss. A sub-commander in pristine, matte-black armor stepped into the room, snapping to a rigid salute.
+
+"High Director," the sub-commander reported, his voice devoid of any inflection. "We have received the final telemetry from the Class-A Tactical Dropship, *Clean Sweep*."
+
+"Report," Kael ordered, his hands clasped behind his back. "Has the listening post been purged?"
+
+"The objective is complete, sir, though our intervention was ultimately unnecessary," the sub-commander stated, stepping forward to hand Kael a sleek, metallic datapad. "When the cleaner squadron arrived at the coordinates for Legacy Asset 44-A, they found a localized debris field of shattered iron armor plating, trace amounts of high-yield plastic explosives, and a massive, lingering thermal bloom. It appears the two S.H.O.P. Marines on board attempted to manually ignite the station's dormant sub-light engines. The reactor suffered a catastrophic backfire. The station was vaporized. The two contractors are confirmed dead."
+
+Kael didn't hand the datapad back. He stared at the scrolling telemetry data, his eyes narrowing to cold, calculating slits.
+
+He swiped his finger across the glass, expanding the spectral analysis of the "reactor meltdown."
+
+"A catastrophic backfire," Kael repeated, his voice dropping to a dangerous, icy whisper. "Two minimum-wage grunts accidentally blow a heavily armored listening post to dust at the exact moment we deploy a cleaner crew? Do you believe in coincidences, Commander?"
+
+"Sir, the debris field—"
+
+"The debris field is a smokescreen," Kael interrupted, turning the datapad around and shoving it into the sub-commander's chest. He pointed a long, rigid finger at the glowing blue spike on the graph.
+
+"Look at the isotopic decay of that thermal bloom. Look at the radiation signature. A fission reactor meltdown releases alpha and beta particles in a chaotic, spherical blast radius. This energy reading is perfectly structured. It’s a clean, directional funnel."
+
+The sub-commander stared at the screen, the color slowly draining from his face as the realization hit him. "That signature... it doesn't match conventional sub-light thrusters or a core breach. Sir, that's a spatial rupture."
+
+"Yes," Kael said softly, turning back to the holographic projection of the solar system. "They blew the iron exhaust caps off the thrusters with breaching charges to fake a hull fragmentation, ignited the nuclear drive to blind our standard thermal sensors, and then... they engaged a highly advanced, localized spacetime folding engine. They didn't burn up, Commander. They jumped to Faster-Than-Light speeds."
+
+The sub-commander swallowed hard. "A listening post with an FTL drive? Sir, the automated biometric logs registered them as Contractor Colton, W., and Contractor Hayes, S. They're just S.H.O.P. Marines. How could two expendable pieces of inventory steal a dreadnought?"
+
+Kael’s jaw tightened. The theft of a multi-billion-credit dreadnought was an insult to the empire, but the ship itself wasn't what truly made these two runaways dangerous.
+
+"They were actively monitoring the analog receiver grid when we initiated the kinetic strike on Sector 4," Kael calculated, his mind running through the strategic liabilities. "They know we dropped the tungsten rod. They know Apex intentionally fractured the Earth's mantle and triggered the supervolcano to cover our tracks."
+
+If those two S.H.O.P. Marines made contact with the surviving remnants of Earth's governments—or any rival planetary coalition in the outer arms—they possessed the exact testimony needed to expose Apex’s masquerade to the entire galaxy. They could prove that Apex was guilty of planetary genocide.
+
+"They cannot be allowed to speak," Kael stated flatly. He looked back at the holographic projection, his eyes tracing the infinite, dark void beyond the Sol System.
+
+"Dispatch our elite long-range tracker squadrons. Blanket the outer arms. Scan every known frequency and trace the isotopic decay of that FTL jump wake," the High Director ordered, his voice echoing with absolute, dictatorial authority.
+
+"When you find them, do not destroy the ship; the FTL drive is too valuable. Breach the hull, secure the vessel, and take the two Marines alive. We will bring them to Acheron, strip their minds in the re-education chairs, and put them in the deep-crust labor camps where they belong."
+
+"Yes, High Director," the sub-commander saluted sharply, turning on his heel to execute the hunt.
+
+Kael stood alone in the cold, blue light of the command spire.
+
+Wyatt and Sarah thought they had driven off the map. They thought they had faked their deaths and found a quiet place to hide. But the Apex dictatorship had infinite resources, unlimited time, and a galaxy-spanning reach.
+
+The hunt for *The Nomad* had officially begun.
+

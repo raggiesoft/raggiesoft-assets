@@ -1,0 +1,34 @@
+# Part 8: One Last Line to Cross (Summer 2006)
+
+After spending a quiet, nostalgic hour in the library, wandering through the stacks and marveling at the black line that so neatly divided their two worlds, it was time to head to the hotel. The three of them exited the stately building back onto the American sidewalk of Caswell Avenue, blinking in the bright afternoon sun.
+
+They walked towards the corner, back towards Canada. As they prepared to step onto the sidewalk of Rue Church, the CBSA officer who had been observing from near his vehicle approached them with a polite and professional air.
+
+"*Bonjour,*" the officer said, before switching to English, the default for anyone walking from the U.S. side. "Afternoon, folks. Just a quick spot check, can I see your travel documents, please?"
+
+"*Bonjour, Monsieur. Bien sûr,*" Chloé replied, her Québécois French flowing naturally and catching the officer slightly by surprise. "*Voici nos documents.*" (Hello, sir. Of course. Here are our documents.)
+
+She handed over her Canadian passport and her NEXUS card. Alex and Megan, in turn, presented their U.S. passports and NEXUS cards.
+
+The officer's eyebrows raised slightly at her fluent, local-sounding French. His own French became a little warmer as he took the documents. "*Merci. Alors, quel est le but de votre visite au Canada aujourd'hui?*" (Thank you. So, what is the purpose of your visit to Canada today?)
+
+"Nous séjournons à l'hôtel ici à Stanstead pour la semaine pour rendre visite à ma famille," Chloé explained. "Nous étions juste à la bibliothèque pour un moment." (We are staying at the hotel here in Stanstead for the week to visit my family. We were just at the library for a bit.)
+
+The officer nodded, looking at Alex's documents. Alex then used his AAC, its synthesized voice also in perfect Québécois French. C'EST MA PREMIÈRE VISITE DEPUIS SIX ANS. C'EST BON D'ÊTRE DE RETOUR. (This is my first visit in six years. It's good to be back.)
+
+The officer then turned to Megan, his expression still professional as he looked at her U.S. passport. "And you, Miss?" he asked, switching back to English.
+
+"It's my first visit ever," Megan said, her voice friendly and clear. "I'm with them. We're all here for the week to visit family."
+
+The officer looked from the U.S. passports to Chloé, the picture of their cross-border life becoming clear. He smiled. "*Eh bien, bienvenue chez nous, alors,*" he said to all of them, the phrase a warm welcome back and a welcome for the first time. (Well, welcome home, then.)
+
+He handed back their documents. "*Tout est en ordre. Profitez bien de votre semaine.*" (Everything is in order. Enjoy your week.)
+
+"*Merci beaucoup, Monsieur,*" (Thank you very much, sir) Chloé said.
+
+They walked the last few feet to their Holt Wayfarer, the interaction smooth and respectful, a successful navigation of the new, more formal rules of the border. A few minutes later, they pulled into the parking lot of their hotel in Stanstead. The clock on the dashboard read 3:05 PM. As they entered the lobby, the clerk greeted them with a warm smile.
+
+"Ah, Monsieur and Madame Miller, and Miss Carter? Welcome! We have your rooms all ready for you."
+
+A wave of relief washed over the three of them. After a long day of driving and navigating the new realities of the border, they were finally here. They could unpack, unwind, and truly begin their triumphant return to Chloé's home.
+

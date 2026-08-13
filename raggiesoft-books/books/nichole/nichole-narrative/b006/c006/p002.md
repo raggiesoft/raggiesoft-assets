@@ -1,0 +1,96 @@
+# Part 2: The Juggernaut
+
+## Date: July 5, 2003 (Saturday) Time: 10:00 AM Location: Raritan State University, New Brunswick, New Jersey
+
+The fog of the previous day had burned off, leaving behind a brilliant, sunny Saturday.
+
+Nichole sat in the purple Titan AeroMotion outside the Raritan State University Welcome Center, soaking in the July heat. She hadn't seen a single firework on the Fourth of July, and she didn't care. The sky in New Jersey was clear, the ground was flat, and Vermont was officially three hundred miles in the rearview mirror.
+
+"Alright, tour group seven," a tour guide named Brian called out. He was a lanky junior wearing a red RSU polo. "Let's get moving."
+
+This wasn't an open house. It was just a standard, rolling campus tour.
+
+Brian looked at the Bennett family. He saw the heavy wheelchair. He saw Patrick standing behind it with his hands on the grips. He nodded respectfully at Patrick, then looked down to make direct eye contact with Nichole.
+
+"We'll be taking the accessible ramps into the library," Brian said to her directly. "The campus buses are all equipped with hydraulic lifts, so we'll be hopping on one in about twenty minutes. Sound good?"
+
+Nichole smiled. She tapped her VocaLink screen. "SOUNDS. GOOD."
+
+Brian didn't offer to push. He didn't ask about her diagnosis. He just treated them like any other family in the herd. It was a refreshing dose of Jersey apathy.
+
+The tour was an exercise in scale. Raritan State wasn't a campus; it was a city. Forty thousand students spread across multiple campuses connected by a fleet of massive red-and-white buses. Everything was built in concrete and steel.
+
+For accessibility, it was an industrial dream. The sidewalks were twelve feet wide. Every building had heavy-duty automatic doors. The library had a bank of six elevators.
+
+"It's huge," Patrick noted, pushing Nichole easily along the flat quad. "It's like a small country."
+
+Nichole made a soft, agreeable *hummm*. She liked the energy. It felt alive.
+
+## Time: 11:15 AM Location: The Quad Residence Halls
+
+The tour arrived at the housing stop. They stood in the lobby of a massive, twelve-story brick tower.
+
+"RSU guarantees housing for freshmen," Brian explained to the group. "These are traditional residence halls. Co-ed by building, but strictly separated by gender per room."
+
+Patrick and Tom exchanged a look. Aunt Carol’s research from the night before was about to be put to the test.
+
+While the rest of the group looked at the communal lounge, Tom approached Brian.
+
+"Quick question about disability housing," Tom said quietly, gesturing to his children. "My son and daughter are a package deal. He's her primary care aide. For medical reasons, they need to share a room. Ideally, they need to share a bed for her nighttime spasticity management."
+
+Brian blinked. He wasn't malicious like the administrators at Putney. He was just a twenty-year-old kid looking at a bureaucratic wall.
+
+"Oh, wow. Uh, well," Brian stammered politely. "I know our Disability Office is great with academic stuff... but state housing code is pretty ironclad. Co-habitation for siblings of the opposite gender isn't permitted in standard dorms. And for liability reasons, all the accessible dorms use single-occupancy medical beds. We don't have double beds in the dorms at all."
+
+Nichole heard him. Patrick’s hands tightened on her push handles, bracing for the inevitable *Turtle Mode*.
+
+But Nichole didn't shut down.
+
+Aunt Carol had warned them last night. *It's a state school. They run on a grid system. They don't make exceptions for anybody.* Nichole looked at the cinderblock walls of the mega-dorm. She wasn't angry this time. The betrayal at Putney had been personal—they had promised a sanctuary and delivered a prison. Raritan State was just a juggernaut. It couldn't see her as an individual because it was too big.
+
+It was disappointing, but it wasn't a shock.
+
+Nichole reached up and patted Patrick’s hand on the grip. She made a soft, clicking sound with her tongue. *It's okay.*
+
+Patrick looked down at her, surprised by her calm. He let out a breath he didn't realize he'd been holding.
+
+"No problem, man," Patrick said to the guide, patting his shoulder. "Thanks for the info."
+
+The tour ended amicably twenty minutes later at the campus center. Nichole waved goodbye to Brian, who waved back.
+
+## Time: 12:30 PM Location: US-1 South, New Brunswick
+
+They met Aunt Carol back at the parking garage.
+
+"So?" Carol asked, leaning against the hood of her sedan.
+
+"No go on the dorms," Ellen sighed. "Just like you thought. State policy."
+
+"Well," Carol said, clapping her hands together, ever the pragmatist. "You saw it. Now you know. And now, you need real New Jersey food before you start the drive back to Virginia. Follow me to the diner."
+
+The "Machine" loaded up. Patrick secured Nichole in the van, and Tom started the engine.
+
+They pulled out of the university and onto US Highway 1.
+
+US-1 was a massive, divided highway. On the left side of the highway sat the classic chrome-and-neon diner Aunt Carol was aiming for.
+
+"Alright," Tom said, gripping the wheel. "Watch the master."
+
+Instead of moving into the left lane to make the turn, Carol’s sedan stayed in the far right lane. Tom followed her.
+
+"Why are we in the right lane?" Patrick asked, looking at the diner on their left.
+
+"The New Jersey Jughandle," Tom grinned. "No left turns allowed on the highway. You have to exit right to go left."
+
+Carol’s blinker flashed. She peeled off onto a small exit ramp on the right that looped around in a circle—shaped exactly like the handle of a jug—which brought them to a traffic light facing perpendicular to the highway.
+
+When the light turned green, Carol and Tom drove straight across all the lanes of US-1 and directly into the diner parking lot.
+
+"Genius," Patrick laughed, impressed by the brutal efficiency of the traffic design.
+
+"If only college administrations worked like New Jersey traffic engineers," Tom muttered, putting the van in park.
+
+They unloaded the chair. Nichole rolled toward the diner, the smell of griddle smoke and coffee in the air. She was tired, and she was disappointed that their backup plan had fallen through.
+
+But as Patrick pushed her up the ramp into the diner, his heavy footsteps matching the roll of her wheels, she knew they still had the most important thing. They still had the machine. And they would find a place for it, even if they had to build it themselves.
+

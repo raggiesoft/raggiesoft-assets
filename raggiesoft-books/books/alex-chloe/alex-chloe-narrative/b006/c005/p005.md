@@ -1,0 +1,19 @@
+# Part 5: A Deeper Understanding
+
+The six weeks of Chloé's recovery were transformative.
+
+For the first time in her life, Chloé experienced the world from a seated position. She felt the daily, grinding frustrations of inaccessibility—the doorway that was just a little too narrow, the dropped pen that was suddenly a mile away. Her empathy for Alex, already profound, deepened into a visceral, firsthand understanding.
+
+For Alex, the experience was a revelation. He discovered a well of logistical and emotional strength he never knew he possessed. He wasn't just Alex, the boy who needed help; he was Alex, the person who *gave* help. He was capable. He was strong. He was a caregiver.
+
+The sleeping arrangement, of course, was non-negotiable. Every night, after her bath at the Millers' and with Sophie's help, Chloé would be settled into Alex's bed. He would join her a little later, their shared presence a constant, comforting anchor for both of them.
+
+One evening, as her recovery was nearing its end, they were in his room. Alex had just brought her a glass of water, balancing it carefully on his lap tray as he wheeled it over to her. She looked at him, her eyes full of a new kind of awe and a deep, aching love.
+
+"Thank you, Alex," she whispered, her voice thick with emotion. "For everything. I... I never would have made it through this without you."
+
+He looked at her, at his best friend, his anchor, who he had been able to anchor in return. ALWAYS, CHLOÉ, his device voiced, the simple words a profound, unbreakable vow. I WILL ALWAYS TAKE CARE OF YOU.
+
+Their bond, already unbreakable, had been tempered by this new, shared experience. The impending separation for college, once a distant, sad reality, now felt even more daunting. They had just proven, in the most tangible way possible, how much they truly needed each other, not just as friends, but as a single, functioning, and deeply loving unit.
+
+

@@ -1,0 +1,93 @@
+# Part 6: Establishing Comms – Thursday, May 6, 2049 – 15:00
+
+The afternoon sun poured through the massive hydro-glass windows of the residential living room, casting long, warm shadows across the polished stone floor.
+
+Sarah Colton was curled up on the oversized leather sofa, a thick thermal blanket draped over her lap. She had a mug of warm ginger tea clutched in her hands, taking slow, deliberate sips to fight back the sudden, heavy wave of nausea rolling through her stomach. It was a very specific, terrifyingly familiar kind of exhaustion. She rested her palm flat against her lower abdomen, a quiet, secretive smile touching her lips.
+
+Down on the plush rug, Wyatt was running a logistics operation of a completely different kind.
+
+He was sitting cross-legged, leaning against the heavy wooden wheel of the Chariot. Leo was secured comfortably in the wagon’s center five-point harness, humming softly as he watched the dust motes dance in the sunlight. Nora was sitting on the floor leaning against Wyatt’s massive thigh, her weaker left leg stretched out straight. Ellie was currently patrolling the perimeter of the couch, ensuring the living room was secure.
+
+Wyatt held a ruggedized glass datapad in his lap. He had spent the morning in the Fab-Foundry, not building mechanical armor, but trying to engineer a bridge.
+
+"Okay, Nora," Wyatt murmured, his deep voice incredibly gentle as he held the screen out to his middle daughter. "Let's try the grid again."
+
+Wyatt had programmed Aria to generate a heavily modified, high-contrast visual interface. Instead of complex diagnostic telemetry, the screen was divided into a simple grid of large, brightly colored squares. Each square contained a clear icon: a cup of water, a bowl of food, a musical note, a picture of the wagon, and a picture of a bed.
+
+Because Nora was verbal but struggled immensely with the physical mechanics of speech, Wyatt was hoping the visual aid would help her connect the concepts without the frustrating physical toll of forcing her heavy jaw to articulate the consonants.
+
+"What do you want to do?" Wyatt asked, tapping the edge of the glass.
+
+Nora stared at the screen. Her brow furrowed in deep concentration. She opened her mouth, her jaw working hard as she tried to force the breathy, thin syllable out. "Wa... wa..."
+
+She grew instantly frustrated, her small shoulders slumping as tears pricked her eyes.
+
+"Hey, it's okay," Wyatt soothed immediately. "You don't have to say it. Just show me."
+
+Nora let out a wet sniffle. She reached out with a tiny, trembling finger and pressed the blue square with the picture of a cup.
+
+"Water," Aria’s synthesized voice announced clearly and immediately from the tablet's localized speaker.
+
+Nora physically jumped. Her dark eyes went completely wide, staring at the glass screen in absolute shock. She hadn't just pointed at a picture; the machine had actually spoken the word for her. It had taken the heavy, exhausting burden of physical articulation entirely off her shoulders.
+
+She reached out and pressed the square with the musical note.
+
+"Music," the tablet chimed.
+
+A brilliant, breathtaking smile broke across Nora’s face. She didn't hesitate for a single second. She grabbed the heavy datapad right out of Wyatt’s hands.
+
+She didn't use her new voice to ask for anything. Instead, driven by the profound, unbreakable empathy of the Vanguard, she heavily dragged her left leg as she pulled herself up using the side of the Chariot. She leaned over the wooden rail and placed the glowing tablet directly onto Leo's lap tray.
+
+Leo was staring blankly ahead, locked in his own internal rhythm, his hands lightly trembling in his lap.
+
+Nora gently placed her hands over his. Because of his severe spastic diplegia, his fine motor skills were incredibly rigid. Nora carefully isolated his right index finger, wrapping her small hand around his fist to steady it. She guided his hand down to the glowing glass screen.
+
+She pressed his finger against the icon of the wagon.
+
+"Go," the tablet announced loudly.
+
+Leo’s intense, repetitive humming stopped instantly. His back went perfectly straight against the memory-foam seat. He blinked, his eyes darting down to the glowing grid in his lap.
+
+He had spent his entire three years of life locked behind an impenetrable wall of silence. He could feel, he could hear, he could process the world around him, but he had absolutely zero mechanical ability to project his thoughts back out into it.
+
+Until now.
+
+Leo let out a sharp, vibrating grunt. He fought against the tight spasms in his own arm, his muscles shaking violently with the sheer effort, but he managed to raise his hand. He slammed his palm down onto the tablet, his fingers clumsily hitting the square with the musical note.
+
+"Music," the tablet spoke.
+
+Leo gasped, a massive, uncoordinated, and completely beautiful smile stretching across his face. He hit the glass again.
+
+"Music."
+
+He hit it again, his laughter bubbling up into a loud, joyous vocalization that echoed off the high, timbered ceilings of the living room. For the very first time in his life, Leo Colton had a voice. He had a direct, actionable line of communication to the outside world, and the sheer power of it was electrifying.
+
+Nora wrapped her arms around his neck, resting her cheek against his, completely overjoyed that her brother was finally free from the silence.
+
+The commotion immediately drew the attention of the unit's commander.
+
+Ellie marched over from the couch, her heavy, flat-footed steps purposeful. She stopped next to Wyatt, her dark eyes locking onto the datapad resting in Leo's lap. She watched as Leo clumsily hit the button for "Water," and heard the machine clearly broadcast the request.
+
+Ellie looked at the tablet. Then, she looked up at Wyatt.
+
+She didn't try to take the device away. She didn't throw a tantrum over not having one of her own. Ellie was highly verbal; she didn't need it. But her tactical brain instantly recognized exactly what Wyatt had just handed them.
+
+He hadn't given them a toy. He had given her squad a radio.
+
+Ellie reached out, giving the heavy wooden side of the Chariot two firm, approving slaps. She looked at Wyatt and gave a single, sharp nod of absolute endorsement. The Vanguard was officially online.
+
+Wyatt let out a ragged, overwhelmed breath, scrubbing his heavy hands over his face to hide the tears welling in his dark eyes. He had built the Aegis shield, but this simple pane of glass was the greatest piece of engineering he would ever create.
+
+"Wyatt," a soft voice called from the sofa.
+
+He turned his head. Sarah was watching him, her own face wet with tears. She was smiling, a radiant, exhausted, incredibly beautiful expression that completely took his breath away.
+
+She slowly moved her hand from her tea mug, resting it flat against her stomach.
+
+Wyatt’s S.H.O.P. Marine brain froze. He looked at her hand. He looked at her eyes. He had lived through this exact terrifying, glorious protocol once before.
+
+"Sarah...?" Wyatt whispered, his voice cracking instantly.
+
+"You did good today, Administrator," Sarah laughed softly, wiping a tear from her cheek as she looked at the three toddlers huddled around the glowing tablet. "But you're going to need to build a bigger wagon. We're adding a new recruit."
+
+

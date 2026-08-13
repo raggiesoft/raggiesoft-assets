@@ -1,0 +1,54 @@
+# Part 2: The Morning Logistics – 9:00 AM
+
+The heavy, militant promise of Monday's court hearing hung in the air, but the immediate reality of Sunday morning still had to be navigated. The adrenaline of Dad's speech faded, leaving behind the stark, physical limitations of our broken bodies.
+
+"Okay," Mom said softly, breaking the silence. She clapped her hands together once, shifting into logistical mode. "You both need to eat something so you can take your next round of medication. Jess, Janette, why don't you two head into the kitchen and grab some cereal? Janette, if you want Dad to drive you home to take a real shower and sleep in your own bed today, he can."
+
+Janette didn't even blink. She sat perfectly still on her twin mattress on the floor. "I'm not leaving the perimeter."
+
+"Neither am I," Jess added instantly, crossing her arms. "I'll make breakfast, but I'm not leaving the house. We're staying right here."
+
+Mom looked at the two teenagers. They were exhausted, wearing wrinkled clothes and messy hair, but their loyalty was an absolute, immovable force. Mom offered a tired, grateful smile and nodded. "Okay. Kitchen it is. Let's make something soft."
+
+Because of the catastrophic damage to our abdomens, eating wasn't just about nutrition; it was a delicate medical tightrope. Digestion requires the stomach muscles to work, and bearing down to use the bathroom later would be agonizing. We needed food that required almost zero chewing and would digest with minimal effort.
+
+Ten minutes later, Jess and Janette returned with the two medical-grade foam wedges. Dad executed the rigid plank-lift for me, and Mom did the same for Rachel, carefully propping us up to forty-five-degree angles without engaging our cores.
+
+Mom brought the trays out. Breakfast was a bowl of warm cream of wheat, scrambled eggs cooked incredibly soft, and a few pieces of peeled, diced cantaloupe. Everything was cut into microscopic, bite-sized pieces so we wouldn't have to strain our throats or chest muscles to swallow.
+
+"Eat slow," Mom instructed gently, setting the trays carefully on our laps. "If you feel full, stop immediately. We don't want your stomachs stretching against the bruising."
+
+As we slowly navigated the soft food, my mind turned toward the terrifying prospect of the four months ahead. "When do we have to go back to the hospital?" I asked, dreading the idea of another excruciating transport ride.
+
+"You don't," Mom promised, sitting on the edge of the coffee table they had pushed against the far wall. "The social worker already cleared the house on Friday afternoon while we were at the hospital, so we don't have to worry about an inspection. And the hospital arranged for a pediatric home health nurse to come here."
+
+Rachel looked up from her eggs, her eyes wide with anxiety at the thought of a stranger touching her.
+
+"She's very nice, Rachel," Mom soothed quickly. "Her name is Brenda. She is coming tomorrow at two o'clock in the afternoon. She's just going to check your blood pressure, listen to your breathing, and draw a tiny bit of blood from your arm to make sure your hemoglobin is still stable and the spleen isn't bleeding. And for Michael, she's just going to check the edges of the hernia bulge to make sure it hasn't changed color. That's it. You don't even have to leave the sofa."
+
+I let out a slow breath. A home health nurse was infinitely better than another car ride.
+
+But there was one piece of logistics that couldn't be outsourced to a nurse or handled in bed. The morning bathroom routine.
+
+When the trays were cleared, the reality of our vulnerability set in again. We had established the privacy rules the night before, but the daylight made it feel even more exposing.
+
+At ten years old, my physical privacy was incredibly important to me. I was the only boy of my generation in our family. I was surrounded by a mother, two sisters, and a female cousin. As my body was beginning to grow and change, the idea of any of the women in the house having to carry me to the toilet and wait outside the door made my skin crawl with humiliation.
+
+Dad understood the gender dynamic perfectly. He didn't ask; he simply took charge of my routine, implicitly establishing that this vulnerable task was strictly between the two men of the house.
+
+"Alright, Michael. Let's go," Dad said quietly.
+
+He stepped up to the right side of the bed. I kept my legs perfectly straight. Dad slid his left arm under my knees and his right arm firmly behind my shoulder blades, completely bypassing the thick medical binder wrapped around my torn fascia.
+
+He lifted me in the rigid plank hold and carried me down the hallway to the downstairs half-bath. Just like the night before, he lowered me carefully onto the seat without letting my spine bend, and immediately stepped out into the hallway, pulling the door shut until it rested a millimeter off the latch.
+
+I was helpless, but my dignity was entirely intact. Dad was protecting my pride as fiercely as he was protecting my spine.
+
+When I called his name, he came back in, helped me finish without bending, and carried me back to the sofa.
+
+Mom took over for Rachel's routine. Rachel was eight, and while she idolized me, the bathroom was a boundary where she desperately needed a mother figure. Mom executed the exact same protocol, carrying Rachel with her right side anchored so there was absolutely zero pressure near the swollen capsule of her spleen on the left. Mom stepped out, shut the door, and gave her daughter total privacy.
+
+When we were both safely deposited back into our respective zones on the queen mattress, our hands immediately reached across the three-pillow barrier to lock together again.
+
+The morning routine was exhausting, humiliating, and physically painful. But the pack had executed it flawlessly. The rules of base camp were holding strong, and as Sunday stretched out before us, all we had to do was rest and wait for Monday's war to begin.
+

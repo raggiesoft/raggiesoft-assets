@@ -1,0 +1,64 @@
+# Part 3: The Christmas Compiler
+
+## Date: December 23, 2003 Time: 4:30 PM Location: The Bennett Wing, 95 West Main Road, Portsmouth, Rhode Island
+
+The Fortress smelled like pine needles and roasting turkey.
+
+Outside, a heavy Rhode Island snow was burying West Main Road, piling up against the plexiglass of the OSTA bus shelter. But inside, the house was a 1960s brick oven of warmth and noise.
+
+For the first time since 1994, the entire Bennett-Reynolds clan was under the same roof for the holidays. Grandma Helen was parked in the living room, watching the snow fall through the picture window while Uncle Mark and Tom argued good-naturedly over the Patriots game. In the kitchen, Aunt Carol and Ellen were drinking wine and coordinating a massive Christmas Eve prep sheet.
+
+But back in the Bennett Wing, the focus was entirely digital.
+
+Nichole sat parked at her desk, the heavy Apex ConvertiBook glowing in the dim winter light.
+
+On the desk next to her sat a massive, brick-sized cardboard box. It was her early Christmas present from Uncle Mark: Quantum Studio 2003 Professional Edition.
+
+It was the ultimate upgrade. For years, Nichole had been coding in Quantum Basic 6.0—a great, simple tool that she had used to build her voice synthesizers and automate her text menus. But Basic 6.0 was procedural. It was the minor leagues.
+
+Quantum Studio 2003 was the new standard. It ran on the massive, object-oriented Quantum Framework and used a brand-new, heavyweight language called Q# (Quantum Sharp). This was the software the engineers at Braxton State used.
+
+"Okay, ejecting Disc 2," Patrick announced, pressing the button on the external CD-ROM drive.
+
+Patrick was the designated media handler. At eighteen, Nichole's spasticity meant fine-motor tasks like snapping delicate optical discs onto plastic spindles were impossible without scratching them. Patrick did the physical loading; Nichole did the configuration.
+
+He pulled the disc out and carefully placed Disc 3 into the tray.
+
+"Disc 3 loading," Patrick said, pushing the tray shut. "Only two more to go. This install is massive, Nikki. It’s taking up a gigabyte of hard drive space."
+
+Nichole watched the blue progress bar inch across the screen. She clicked her Quantum OptiMouse to accept the next end-user license agreement.
+
+She wasn't intimidated by the size. She was thrilled.
+
+She opened up a text document she had minimized in the corner of her screen.
+
+"BYE. BYE. BASIC. HELLO. Q#."
+
+Patrick leaned against the doorframe, watching the installation. "You know, this is actual computer science now. OOP—Object-Oriented Programming. No more spaghetti code. You're going to have to learn about classes, encapsulation, inheritance..."
+
+Nichole tapped her screen with a confident *thud*.
+
+"I. INHERITED. A. BRAIN. I. CAN. HANDLE. IT."
+
+Patrick laughed. "I know you can. You're going to be writing the interface drivers for my projects by the fall."
+
+The CD-ROM drive whirred down. The installation wizard flashed a green checkmark: INSTALLATION COMPLETE. REBOOT REQUIRED.
+
+Nichole used her mouse to click *Restart*.
+
+As the Apex machine rebooted, the bedroom door opened. Uncle Mark poked his head in. He was wearing an ugly Christmas sweater that stretched tightly across his broad shoulders.
+
+"Hey, nerds," Mark smiled. "Dinner is in twenty. We're doing the Feast of the Seven Fishes tonight. Aunt Carol has officially taken over the kitchen. How's the new rig?"
+
+"Locked and loaded," Patrick said, pointing to the screen as the desktop loaded and the new purple *Quantum Studio* icon appeared on the screen. "The Boss is officially an enterprise software developer."
+
+Mark walked over and looked at the screen. He rested a heavy, warm hand on Nichole’s shoulder.
+
+"That's my girl," Mark said proudly. "First you conquer the transit grid, then you conquer the code. Braxton State won't know what hit them."
+
+Nichole looked up at her uncle, then over at Patrick. She could hear her grandmother laughing in the living room and smell the feast cooking in the kitchen. The snow was locked outside. The Fortress was holding.
+
+She launched the new software. The heavy loading screen of *Quantum Studio 2003* appeared, ready for her first line of code.
+
+"MERRY. CHRISTMAS. TO. US."
+

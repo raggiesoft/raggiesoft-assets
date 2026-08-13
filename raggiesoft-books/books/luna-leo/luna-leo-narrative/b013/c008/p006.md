@@ -1,0 +1,72 @@
+# Part 6: The Night Watch
+
+## August 23, 2006 8 Ocean View Lane - Eleanor’s Suite 09:30 PM
+
+Eleanor Bennett sat in her armchair by the bay window, looking out at the dark garden. The lights of the **South Shore Line** train flickered through the trees as it headed toward the station—the 9:30 PM Local.
+
+She held a cup of herbal tea. On the table next to her, the photo of Arthur stood in its silver frame.
+
+She looked around the room. It was warm. The floor was radiant-heated. The bathroom was safe. And she knew, because Stella showed her the books, that not a single cent was owed to a bank.
+
+"You did it, Arthur," she whispered to the photo. "You old fox. You really did it."
+
+She thought about the check Stella had written for the land. The check for the tuition. The check for the flutes.
+
+Most families would be drowning in debt trying to support two high-needs adults and a grandmother. They would be fighting with insurance companies and dodging foreclosure.
+
+But the Porters? They were writing checks.
+
+"You taught her well," Eleanor said, touching the glass of the frame. "She doesn't spend a dime she doesn't have. And because of you, she has enough dimes to build a castle."
+
+She turned off her lamp. She climbed into her bed—firm, comfortable, and owned outright. She closed her eyes, listening to the wind off the ocean, feeling safer than she had in twenty years.
+
+## 10:00 PM Stella’s Office
+
+Stella clicked *Send* on her final email.
+
+**INVOICE \#2006-84: SENT.**
+
+She closed her laptop. She stretched, her spine popping. The web development business was booming. The Rhode Island market was hungry for good code, and she was charging premium rates.
+
+She walked out of her office. She checked the front door. The deadbolt was thrown. The **APS Wall** stood silent guard in the foyer.
+
+She walked down the hall to the **Twin Wing**. The door to **Leo and Olivia’s Room** was cracked open.
+
+She peeked in.
+
+The room was dim, lit only by the glow of Leo’s charging station LEDs.
+
+They were in bed. But it wasn't just Leo and Olivia.
+
+**Luna** had migrated.
+
+The Queen bed was a tight squeeze for three adults, but they made it work like a puzzle.
+
+- **Leo** was in the middle, the anchor.
+
+- **Olivia** was on his left, her arm thrown over his chest.
+
+- **Luna** was on his right, curled into his side, her head resting on his shoulder, her leg hooked over his knee to ground his restless hip.
+
+They were asleep.
+
+Stella watched them for a moment. Tomorrow was **Orientation Day** at the Stadium. It was going to be loud, chaotic, and overwhelming. They were charging their batteries the only way they knew how—through contact.
+
+She didn't wake them. She didn't tell Luna to go to her own room. She just pulled the door gently until it clicked into the latch.
+
+## 10:15 PM Stella’s Sanctuary
+
+Stella walked into her own room. The massive **Alaska King** bed looked empty without the pile, but she didn't mind. She knew they would be back in there soon enough—probably after the first nightmare or the first meltdown of the semester.
+
+She sat on the edge of the bed. She looked at the ceiling.
+
+"Okay, Grandpa," she whispered. "We start the big show tomorrow. University. The real deal."
+
+She laid down. She thought about the Tuition Bill she had paid in full. She thought about the Deed in the safe.
+
+She slept the sleep of a woman who owed nothing to anyone except the people down the hall.
+
+The Fortress was locked. The family was together. And tomorrow, the Bulls would charge.
+
+
+

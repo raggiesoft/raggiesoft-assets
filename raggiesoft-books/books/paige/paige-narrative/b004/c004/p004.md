@@ -1,0 +1,254 @@
+# Part 4: The Decontamination Protocol
+
+## Saturday, May 8, 2004 — 11:15 AM (PST) The Cascade Suites, Room 412
+
+There was no sun in the room. The heavy, rubber-backed hotel curtains were drawn tight, snapped together in the middle to prevent even a single photon of Seattle grey from entering.
+
+The room was cool, silent, and timeless.
+
+On the King bed, the mound of duvet shifted slightly.
+
+Freddie opened his eyes. For a long, terrifying second, he didn't know where he was. The darkness was absolute.
+
+He waited for the vibration of the bus. He waited for the smell of the chemical toilet. He waited for the sound of Vanessa telling him to move.
+
+None of it came.
+
+Instead, he felt pain.
+
+It was a dull, throbbing ache that radiated from the base of his spine. The Stage 2 pressure sore was pulsing in time with his heartbeat. Below it, the raw scrape where he had been dragged across the terminal floor burned with a sharp, stinging heat. His legs ached. His neck was stiff. He felt like he had been dropped from a moving vehicle.
+
+But then, he felt the weight.
+
+To his left, a heavy arm was draped across his chest, pinning him to the mattress. To his right, a hand was resting on his head.
+
+He took a breath. He smelled lavender detergent and the specific, familiar scent of Paige’s shampoo.
+
+*The Anchor,* Freddie thought. *I am docked.*
+
+He turned his head to the left. In the dim light of the digital clock—which read **11:16**—he saw Paige’s profile. She was sound asleep, her face pressed into his shoulder.
+
+He turned to the right. Jessica was there, her arm protective over his chest, her breathing deep and even.
+
+They were all nude. No armor. No barriers. Just skin and safety.
+
+Freddie let out a long, shaky exhale. The sound woke Jessica.
+
+She shifted, lifting her head. She blinked, orienting herself in the dark room. She looked down at Freddie.
+
+"Status?" she whispered, her voice rough with sleep.
+
+"System... online," Freddie croaked. "Damage report: High. Pain levels: Significant. But... security is 100%."
+
+Jessica smiled. She leaned down and kissed his forehead.
+
+"Stay put," she whispered. "Refueling protocol."
+
+She slipped out of the bed. The loss of her warmth was immediate, but necessary. Freddie watched her silhouette move to the kitchenette.
+
+He heard the rustle of a cereal bag. The glug of milk. The clink of spoons.
+
+Jessica returned a moment later, balancing three bowls. She placed two on the nightstand and climbed back onto the bed with hers.
+
+"Sit up," she commanded gently. "Just a little."
+
+Paige stirred on his left. "Food?" she mumbled, eyes still closed.
+
+"Honey Oat Rings," Jessica announced. "Breakfast of champions."
+
+Paige sat up, rubbing her eyes. She helped Freddie shift, propping pillows behind his back so he wouldn't put pressure on the sore. He winced, a sharp hiss escaping his teeth as the movement pulled the skin.
+
+"Sorry," Paige whispered, kissing his shoulder. "I know it hurts."
+
+Jessica handed them the bowls.
+
+They sat in the dark, three naked siblings eating cereal in a hotel bed at noon.
+
+Freddie took a bite. The milk was cold. The sugar was immediate energy.
+
+As the nourishment entered his system, the trembling in his hands began to slow. The glucose hit his brain, clearing the last of the fog.
+
+He ate quickly, scraping the bottom of the bowl. He drank the sugary milk.
+
+"Fuel transfer complete," Freddie said, handing the empty bowl to Jessica.
+
+Jessica set the bowls on the floor.
+
+"Okay," Jessica said, wiping her mouth. "Now we plan the day. We can—"
+
+She stopped.
+
+Freddie was moving. He wasn't getting up. He was sliding down.
+
+He removed the pillows from behind his back. He lay flat.
+
+Then, he turned to his left.
+
+He wrapped his arms around Paige’s waist. He buried his face in her neck. He pulled his legs up, tangling them with hers.
+
+He pressed his entire body against hers, eliminating every millimeter of space.
+
+He gripped her skin with a desperation that said, *I am not moving. Do not make me move.*
+
+"Emergency Brake," Freddie whispered into her skin. "Engaged."
+
+Paige didn't hesitate. She lay down with him. She wrapped her arms around his back, careful of the bandage, and pulled him in.
+
+"Brake engaged," Paige confirmed. "We aren't going anywhere."
+
+Jessica looked at them. She saw the way Freddie was clinging to Paige—like a man hanging off a cliff ledge.
+
+She understood. The food had fixed his blood sugar, but his soul was still in shock. He needed time. He needed to feel the anchor hold.
+
+"Okay," Jessica whispered. She lay back down on his right side. She draped her arm over him again, locking him in.
+
+"We stay here," Jessica said. "We have the room for as long as we need."
+
+"Dirt," Freddie mumbled against Paige’s neck. "I am... unclean. The bus residue."
+
+"We know," Paige soothed, stroking his hair. "We'll bathe you. A deep scrub. Hot water. Lots of soap. But not yet. You just rest."
+
+"Bathe later," Freddie agreed, his voice slurring with relief. "Cuddle now."
+
+"Cuddle now," Paige promised.
+
+She tightened her grip. Jessica moved closer.
+
+The world outside the blackout curtains—the rain, the city, the memory of Vanessa—ceased to exist.
+
+There was only the King bed, the darkness, and the Avery Unit, holding the line until the Captain was ready to rise.
+
+## Saturday, May 8, 2004 — 13:30 PM (PST) The Cascade Suites, Room 412
+
+The "Emergency Brake" had held for two hours. They had drifted in a haze of warmth and silence, the cereal bowls empty on the floor, the world outside forgotten.
+
+But biology was a clock that couldn't be paused.
+
+Freddie shifted. He tightened his grip on Paige, trying to ignore the pressure in his bladder, but his body gave an involuntary spasm.
+
+"Captain?" Paige whispered, feeling the twitch against her stomach.
+
+"Status check," Jessica murmured from his other side.
+
+"Bladder capacity... critical," Freddie admitted, his voice muffled by the pillow. "But... mobility systems offline. I do not want to move."
+
+"We know," Jessica said, sitting up and stretching her arms. The movement let a draft of cool air into the cocoon. "But if we don't move, we're going to have a hazmat situation in the bed. And we are *not* ruining these high-thread-count sheets."
+
+"Toilet protocol," Paige announced. She kissed Freddie’s nose. "Disengage the brake, Freddie. Just for a minute."
+
+Freddie reluctantly loosened his grip. He felt heavy—gravity seemed doubled in the hotel room.
+
+"I cannot walk," Freddie said. "Legs are cement."
+
+"We don't need you to walk," Jessica said, sliding off the bed and standing up. She offered her hand to Paige. "We have lift capacity."
+
+They flanked the bed. They were both nude, moving with an unselfconscious efficiency. This was a medical transfer, not a social event.
+
+"Sandwich lift," Jessica commanded. "On three. I'll take the right hook. Paige, left hook."
+
+They bent down. Jessica hooked her arm under Freddie’s right armpit; Paige took the left. They locked their other arms under his knees.
+
+"One. Two. Lift."
+
+They hoisted him. Freddie hung between them, his feet dangling inches off the carpet. He groaned as his back stretched, the sore pulling tight.
+
+"Easy, easy," Paige soothed, taking more of the weight on her side to shield him. "We got you. You're flying."
+
+They carried him into the bathroom. The light was brighter here—even with the door cracked, the white tile reflected the hallway glow.
+
+They lowered him onto the toilet.
+
+"Stabilize," Jessica said. She kept a hand on his shoulder so he wouldn't tip over while he relieved himself.
+
+Once he was finished, they didn't stand him up yet.
+
+"Tub prep," Paige said.
+
+She turned to the massive soaking tub. She put the plug in.
+
+"Okay," Jessica said. "Transfer to tub. Then we handle the rest."
+
+They lifted him again—a short pivot this time—and lowered him into the empty porcelain tub. Freddie sat with his legs extended, his back resting against the cold slope of the tub. He shivered.
+
+"Cold," he whispered.
+
+"Hold on," Paige said. "Heat is coming."
+
+"We need to use the facilities first," Jessica noted. "Don't go anywhere."
+
+Freddie managed a weak, tired smile. "I am... contained."
+
+Paige used the toilet quickly, then Jessica. They flushed, washed their hands, and turned their full attention to the mission.
+
+"Bandages off," Jessica said, her voice dropping to a clinical register. "Before the water."
+
+She knelt by the tub. "Lean forward, Freddie. Lean into Paige."
+
+Freddie leaned forward, resting his forehead against Paige’s stomach as she stood by the rim. Jessica carefully peeled back the tape.
+
+Freddie hissed through his teeth.
+
+"Almost done," Jessica murmured. She pulled the gauze free.
+
+She inspected the wound. It was angry and red, but the bleeding had stopped. The Scab from the drag mark was dark and jagged.
+
+"It's ugly," Jessica admitted. "But it's closing."
+
+She tossed the dirty bandage in the trash.
+
+"Okay," Paige said, rolling up a washcloth. "Deep scrub. Maximum temperature."
+
+She turned the faucet. Steam rose instantly. She tested the water with her wrist. "Perfect."
+
+She plugged the drain and switched the diverter to the handheld shower wand.
+
+"Here it comes," Paige whispered.
+
+She aimed the spray at Freddie’s shoulders.
+
+The hot water hit him. Freddie gasped, his head falling back. The heat penetrated the stiff, frozen muscles of his neck. It soaked into the grime of the orange hoodie that was no longer there. It melted the tension in his spine.
+
+"Oh," Freddie breathed. "Systems... resetting."
+
+Jessica knelt on one side of the tub, Paige on the other. They lathered up the washcloths with the hotel's verbena soap.
+
+They started to scrub.
+
+It wasn't a gentle rinse. It was an excavation.
+
+Jessica took his left arm, scrubbing the skin until it turned pink. She washed away the smell of the diesel fumes. She washed away the sweat of the panic attack in the closet.
+
+Paige took his right arm. She scrubbed his chest. She washed away the phantom sensation of Vanessa’s grip on his hoodie.
+
+"Get it off," Freddie whispered, tears mixing with the steam on his face. "Get her off me."
+
+"We are," Paige promised fiercely, scrubbing his neck where Vanessa had grabbed him. "She's dissolving, Freddie. She's going down the drain."
+
+They washed his hair, massaging the shampoo into his scalp, working out three days of grease and static.
+
+They washed his back, being infinitely careful around the sore, but cleaning the area around it with surgical precision.
+
+The water in the bottom of the tub turned a murky grey.
+
+"Look at that," Jessica said, pointing to the water. "That's the bus. That's the terminal. That's her."
+
+She pulled the plug. The grey water swirled away, sucked down into the pipes of Seattle.
+
+"Gone," Jessica said.
+
+She put the plug back in and filled the tub with fresh, clean, hot water.
+
+Freddie sat in the clear water. He felt light. He felt raw, but he felt clean. The poison was out of his system.
+
+He looked up at his sisters. They were kneeling on the bathmat, wet from the spray, their hair frizzy from the steam, looking at him with total adoration.
+
+"Better?" Paige asked, smoothing his wet hair back from his forehead.
+
+"Better," Freddie whispered. "Clean slate."
+
+"Okay," Jessica said, standing up and grabbing a stack of fluffy white towels. "Extraction time. Then we go back to the nest."
+
+"No clothes," Freddie requested, his eyes drooping. "Just... blankets."
+
+"Just blankets," Paige agreed. "Skin to skin. Until we leave."
+

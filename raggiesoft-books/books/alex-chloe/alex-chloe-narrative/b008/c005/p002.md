@@ -1,0 +1,36 @@
+# Part 2: The Thanksgiving Lie
+
+The Sunday evening before Thanksgiving week, Vera Kowalski was a whirlwind of practiced, bubbly charm. She arrived at the Miller house to pick Alex up for a "study date," knowing all four parents would be there. This was the first, and most crucial, part of her plan.
+
+"Hi everyone!" she said, her smile bright and wide. "I'm so excited for the holiday!"
+
+She launched into the carefully rehearsed performance. "Alex and I have been talking," she began, framing it as a joint decision. "And, well, with Thanksgiving coming up, we think it's time for us to take a really big, important step in our relationship." She looked at the parents, her expression a perfect blend of earnestness and respect. "I was hoping—we were hoping—that you'd be okay with Alex spending the holiday with me and my mom at her apartment. It would be the first time."
+
+She was feeding them their own deepest hopes: that Alex was growing and building a normal life. James, Emily, Thomas, and Sophie exchanged a look. They still harbored deep reservations, but Alex seemed happier lately, and they wanted to trust his judgment.
+
+"What do you think, Alex?" Emily asked gently.
+
+He had been worn down by weeks of her renewed, intense affection. Arguing felt like a betrayal of the "good" girlfriend she was being. It was easier to just agree. He typed a short, simple response. IT IS A GOOD IDEA.
+
+The words were all the parents needed. With cautious hope, they agreed. Vera’s face lit up with a triumphant joy. "Oh, thank you! I'll take great care of him, I promise. I'll bring him back on Friday."
+
+Later, in the car, she made a quick call to her own mother, telling her the opposite lie—that the Millers had invited *her* for the whole week. She had just created a perfect, five-day blackout period. No one would call. No one would check.
+
+They arrived at her small, stuffy apartment. The moment the door was locked, her bubbly demeanor evaporated, replaced by a frantic, manic energy. "I have the most amazing surprise!" she announced, pulling two printed tickets from her purse. "Tada! We're not just staying here! We're going on a real adventure! We're going to Seattle!"
+
+Alex stared at the tickets. They were for a Pathfinder bus, leaving the next morning. A cold, terrifying dread washed over him. VERA, he typed, his hands starting to tremble. WHAT IS THIS? WHY ARE WE GOING TO SEATTLE?
+
+"To see my aunt, of course," she said quickly. "But that's not the best part." She leaned in, her expression a perfect mask of conspiratorial glee. "I've been talking to Chloé."
+
+Alex froze.
+
+"She misses you like crazy, Alex," Vera continued, her lie seamless and practiced. "She feels so bad about how things ended. She wants to see you for Thanksgiving. I told her we'd come. It's all planned. We'll get there, and we'll surprise her at her dorm."
+
+The hook was set. It was the one thing in the world that could override his anxiety and the deep, cold unease he felt. The thought of seeing Chloé sooner than Christmas... it was an irresistible, all-powerful lure.
+
+REALLY? he typed, the word a simple, desperate plea for it to be true. WE ARE REALLY GOING TO SEE CHLOÉ?
+
+"Of course we are, silly!" she sang, snatching the small bag of clothes his parents had packed for him. "It'll be the best Thanksgiving ever! Now, you can't call and spoil the surprise, okay? This is our secret."
+
+He gave a single, firm nod, his heart now hammering not with fear, but with a wild, nervous excitement. He was so caught up in this beautiful, impossible dream that he didn't see the cold, possessive triumph in Vera's eyes. He didn't question how she had been talking to Chloé. He didn't think to ask for details. He was just a boy, finally being offered the one thing in the world he wanted most.
+

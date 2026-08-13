@@ -1,0 +1,46 @@
+# Part 3: A Controlled Visit
+
+One Saturday afternoon in the Summer of 2003, Stella and Luna arrived at Clara Mahone's apartment in Portsmouth for one of their increasingly infrequent, carefully negotiated visits with Leo. Delores had "allowed" them to come over, but the atmosphere was immediately tense. Delores shadowed their every move, inserting herself into conversations, her eyes constantly monitoring Leo. Clara mostly stayed in the kitchen or watched TV, seemingly oblivious or perhaps willfully ignoring the undercurrents.
+
+After about an hour of strained small talk, Stella noticed it – the faint but distinct sour smell of poor hygiene clinging to Leo, combined with his generally disheveled appearance. She caught Luna's eye; Luna gave a tiny, almost imperceptible nod, confirming she'd noticed it too. It spoke volumes about the level of care Delores was actually providing behind closed doors.
+
+"Leo," Stella said gently, trying to keep her voice light despite the rising anger, "how about a bath before we maybe order some pizza later? Get you feeling refreshed?"
+
+Leo looked hesitant, glancing nervously towards Delores. Delores immediately bristled. "A bath? He doesn't need a bath right now, Stella. He's fine. I take care of him."
+
+"He needs one, Delores," Luna stated firmly, stepping forward. "We can smell him from here. It's not okay."
+
+"How dare you!" Delores shot back, her voice rising. "You think you know better? You're just looking for an excuse! Maybe you like seeing my boyfriend naked or something?" The accusation was crude and shocking, designed to shut them down.
+
+Stella stood her ground, refusing to be intimidated. "That's disgusting, Delores, and you know it. He needs basic care, and he's clearly not getting it. We are giving him a bath. Now."
+
+Clara emerged from the kitchen at the sound of raised voices. "What's all this shouting?"
+
+"They're saying I don't take care of Leo!" Delores cried, turning to her mother for support. "They want to give him a bath like he's a baby!"
+
+"He needs one, Clara," Stella said, meeting the older woman's gaze directly. "He smells. It's neglect."
+
+Clara hesitated, looking from her daughter's furious face to Stella's determined one, then glanced at Leo, who looked miserable and trapped. A flicker of doubt, a crack in her usual defense of Delores, crossed her face. Maybe Delores *had* been slacking on this. She sighed, unwilling to escalate further. "Oh, for heaven's sake. If it stops the arguing, just... just give him the bath, girls. Be quick about it." She retreated back towards the kitchen, unwilling to witness or participate further.
+
+Delores looked momentarily stunned that her mother hadn't fully backed her, but Stella and Luna seized the opportunity. Getting Leo into the standard, cramped, non-accessible apartment bathroom was a logistical nightmare. The wheelchair wouldn't fit through the door, requiring a difficult transfer in the narrow hallway. Stella grabbed the clean change of clothes they had wisely brought for Leo "just in case," and once the three siblings were inside the small bathroom, Luna firmly shut the door and clicked the lock, securing a few precious moments of privacy away from Delores's hostile glare.
+
+Delores, hearing the lock click, became even angrier. She rattled the doorknob and banged on the door. "What are you doing in there? Hurry up! You better not be hurting him! Open this door!" Luna immediately reached over and turned the bath faucet on full blast, the roar of the water mostly drowning out Delores's muffled yelling. Clara reappeared in the hallway, drawn by the banging. "Delores Ann, stop that racket right now!" Clara snapped, her patience clearly worn thin by her daughter's behavior. "Go sit down in the living room and be patient. They're his sisters, for crying out loud! They know how to take care of him. Leave them be!" Delores shot her mother a look of betrayal but, perhaps surprised by the sharp command, reluctantly stopped banging and stalked off towards the living room, fuming silently.
+
+Inside the bathroom, amidst the sound of rushing water and lingering tension, the sisters worked together. As they helped Leo undress for the tub, they gently but thoroughly checked his skin for pressure sores, a constant worry given his limited mobility. Their vigilance paid off grimly; they found two distinct areas of persistent redness – Stage I sores beginning on his hip and tailbone. They exchanged a look brimming with silent anger and concern over this clear evidence of neglect. As they began bathing him, Stella paused, meeting Leo's eyes gently over the sound of the running water. "Leo," she asked softly, Luna also watching him closely, "are you... are you happy here? With Delores?"
+
+Leo's eyes darted nervously towards the locked door, then back to his sisters. The answer was plain on his face – a clear, miserable 'No' reflected in his haunted expression. But fear kept him silent. He couldn't risk saying or typing anything Delores might somehow find out about later. He just looked down, shaking his head almost imperceptibly. In that moment, the discomfort of Delores's presence brought a sharp, painful memory to the surface: Olivia. He remembered the easy, platonic comfort of their time together, the way she understood his needs without him having to explain, the simple safety of her presence. The contrast between that memory and his current reality was a physical ache.
+
+Stella and Luna saw it, understood it immediately. Their hearts ached for him, trapped and afraid even to confirm his unhappiness. Knowing Delores was right outside, likely listening despite her mother's intervention, and wanting to avoid causing Leo further distress, they exchanged another silent, pained glance and let the topic drop. They focused instead on the task at hand, carefully applying barrier ointment to the reddened areas after the bath and helping him with toothbrushing and mouthwash. They knew confronting Delores about the sores or the lack of dental care right now would be pointless and likely explosive, especially given her current mood. They would document it mentally, another piece of evidence added to the growing pile.
+
+Afterward, they helped him dry off and dress in the fresh clothes they'd brought. When they finally unlocked the door and emerged, Leo looking and smelling significantly better, Delores was waiting in the living room, arms crossed, face like thunder. The brief refuge behind the locked door, and her mother telling her off, had clearly infuriated her further.
+
+The plan had been to spend the afternoon, maybe watch a movie together. But the tension, now amplified by Delores's anger and the sisters' own quiet fury over the pressure sores and general neglect, was unbearable. Her resentment radiated through the small apartment. She monitored every word exchanged, every glance, her hostility palpable.
+
+Feeling deeply unwelcome and worried about the stress on Leo, Stella caught Luna's eye and gave a slight shake of her head. They couldn't stay. "Okay, Leo," Stella said, forcing a smile. "We should probably head out now. Got some errands to run."
+
+Leo looked disappointed but understood. As they prepared to leave, Stella pulled him into a warm hug. "Love you, buddy. Call us later, okay?" Luna hugged him fiercely too. "Bye, Leo. We love you."
+
+Delores watched the simple, affectionate sibling hugs, her face tightening into a mask of simmering rage. She didn't say anything, but the possessive fury was palpable. Clara, witnessing this specific reaction – the intense jealousy over innocent family affection – for the first time, looked visibly unsettled, though she still didn't intervene or comment.
+
+Upset and deeply worried, Stella and Luna walked out, leaving Leo once again in the tense atmosphere, the brief respite over. The visit, intended to reconnect, had instead starkly illuminated the depth of Delores's control and neglect, leaving the sisters even more worried than before and increasingly determined to find a way to spend real, uninterrupted time with their brother soon.
+

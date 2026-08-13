@@ -1,0 +1,22 @@
+# Part 2: The New Reality
+
+The diagnosis at the hospital was grim: a severe fracture of her ankle, requiring surgery to set the bones with pins and plates. The result was a heavy, cumbersome cast from her toes to her knee and strict doctor's orders: absolutely no weight on that foot for at least six weeks.
+
+The evening Chloé came home from the hospital, the six of them—Alex, Chloé, and their four parents—held a quiet, serious meeting in the Masons' living room. Chloé sat on the sofa, her casted leg propped up on a mountain of pillows, her face a mixture of pain and frustration.
+
+"Okay," Thomas Mason said, his voice practical but full of concern. "Six weeks is a long time. Chloé, you won't be able to get around school on crutches in those crowded hallways. It's not safe. A wheelchair is the only option."
+
+Chloé's heart sank. A wheelchair. For six weeks.
+
+"How are we going to manage?" Emily Miller asked, looking from Chloé's cast to Alex's own wheelchair. "Getting between classes, carrying books, lunch... it's a lot."
+
+Alex, who had been quiet, his mind racing, finally spoke, his AAC device calm and determined. WE WILL MANAGE. AS A TEAM.
+
+He looked at the four parents. I CAN'T PUSH HER CHAIR. BUT I CAN CARRY HER BACKPACK ON MY LAP. I CAN GET HER LUNCH TRAY. I CAN TAKE NOTES FOR HER IN CLASS. I WILL BE HER HANDS.
+
+A new plan, a family plan, began to form.
+
+"He's right," James Miller said, a look of pride on his face. "And we'll be her legs. We'll coordinate. One of us can drop you both off in the morning and get you to first period. One of us can meet you for lunch. We'll be there at the end of the day to get you home. We'll make a schedule."
+
+The dynamic was instantly, profoundly, inverted. Chloé, the fierce protector, was now the one in need of protection. And Alex, who had spent his life receiving care, was now a central, vital part of providing it.
+

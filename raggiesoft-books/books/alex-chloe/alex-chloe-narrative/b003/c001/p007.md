@@ -1,0 +1,52 @@
+# Part 7: A Humble Request and a Changing Tide (Later that Week, Fall 1999)
+
+The acrid memory of grease traps and the lingering phantom smell of Dumpster Number Three were still fresh in Josh Riley's tormented senses. He was, for the moment, actually attempting to complete his ten-page essay on "The Inevitability of Consequences" in the school library, a picture of sullen martyrdom. His usual goon, Mark, was wisely giving him a wide berth.
+
+Meanwhile, an entirely different scene was unfolding near Mrs. DeMarco’s small, tidy office just off the main cafeteria.
+
+Morgan McAllister and Ben Carter stood there a little awkwardly, the usual lunchtime cacophony a dull roar behind them. They’d had another "talk" during their shared sanitation duties the previous afternoon – mostly about the sheer unpleasantness of the task, the lingering aroma on their clothes, and a mutual, unspoken agreement that Josh Riley was, in fact, a complete tool. Ben had found himself surprisingly comfortable talking to Morgan, or at least working alongside her in companionable, non-harassing silence. She was no-nonsense, and after her initial disdain, she'd even shown him a more efficient way to bag leaky trash without getting it on his sneakers. He was beginning to genuinely appreciate her straightforwardness, a stark contrast to Josh's manipulative bluster. He realized he really *didn't* want to be like Josh.
+
+Morgan, for her part, found Ben’s quiet diligence a welcome change from Josh's predatory idiocy. Working with Ben made the "aromatic apprenticeship" slightly less soul-destroying. He didn't leer, he didn't make crude remarks, he just... worked. It had made her think. Maybe, just maybe, there was a way out of her "Morgue McAllister, Queen of the Mess" reputation.
+
+Taking a deep breath, Morgan knocked lightly on Mrs. DeMarco’s open office door. Ben stood a step behind her, looking nervous but resolute.
+
+Mrs. DeMarco looked up from a stack of order forms, her expression neutral but her eyes sharp. "Ms. McAllister. Mr. Carter. An unexpected pleasure. To what do I owe this visit? I trust you’re not here to volunteer for additional grease trap detailing – Mr. Riley has that particular honor well in hand for the foreseeable future."
+
+Morgan flushed slightly but stood her ground. "No, Mrs. DeMarco. Actually… um… we wanted to ask you something. Seriously."
+
+Ben Carter found his voice, surprising himself. "Yeah, Mrs. DeMarco. Some… advice, maybe?"
+
+Mrs. DeMarco leaned back in her chair, a flicker of something unreadable – perhaps intrigue – in her eyes. "Advice? This is a new development. Please, continue."
+
+Morgan took the lead. "Well, Mrs. DeMarco, you know I’m… usually out back with the bins. Because I’m messy. I get it." She swallowed, then rushed on. "But I really, *really* don’t want to be out there anymore. Especially if… well, if *certain people* are going to be permanent fixtures." The unspoken reference to Josh Riley hung in the air. "So, I was wondering… could you maybe give me some tips? On how to… you know… not be a slob at lunch? How to actually clean up my area so it meets… your standards?" She looked genuinely earnest, a hint of desperation in her plea.
+
+Mrs. DeMarco regarded Morgan thoughtfully for a moment. Then, she turned her gaze to Ben. "And you, Mr. Carter? What 'life tips' do you seek? I trust you're not looking for pointers on how to better assist Mr. Riley in his… unique brand of social interaction?"
+
+Ben paled slightly at the memory of Josh's lunchtime antics, then straightened up. "No, ma'am. Definitely not. Actually, that's kind of it. I… I don't want to be like him. I don't want to be a goon, or a wannabe bully. This whole trash duty thing… it’s really not for me, Mrs. DeMarco. And Morgan here," he gestured towards her, a newfound respect in his tone, "she was showing me how to actually do the work yesterday without… well, without making it worse. She’s not like Riley at all, even if she is messy. She made me realize… I don’t want that title."
+
+He took a breath. "So, I guess my question is… how does a guy stop being seen as just… Josh Riley’s dumb goon?"
+
+A long silence filled the small office. Mrs. DeMarco’s expression was still unreadable, but her sharp gaze seemed to soften almost imperceptibly as she looked from Ben’s sincere, anxious face to Morgan’s determined one. She’d seen countless students in her tenure – the defiant, the clueless, the truly malicious. But this… this was different. A genuine request for guidance from two students on the cusp of becoming "habitual offenders" themselves.
+
+Finally, Mrs. DeMarco spoke, her voice surprisingly gentle, though still firm.
+
+"Ms. McAllister," she began, "the path to a tidier lunchtime existence is paved with conscious effort. It begins with awareness. Notice what you bring to the table. Notice what you leave behind. Use the provided receptacles – they are not merely decorative. A damp napkin to wipe spills immediately is often more effective than hoping they will magically evaporate. And a simple scan of your area before you depart… it takes perhaps ten seconds. I am happy to provide you with a laminated checklist of common 'Points of Post-Meal Neglect' if you believe it would be beneficial." A ghost of a smile touched her lips. "Consider it… preventative maintenance."
+
+Morgan actually looked relieved. "A checklist? Yes, please, Mrs. DeMarco. That would… actually help. A lot."
+
+Mrs. DeMarco nodded, then turned to Ben. "Mr. Carter. Detaching oneself from negative associations requires consistent demonstration of positive behavior. You are not defined by Mr. Riley’s poor choices unless you choose to continue emulating them. Choose your companions more wisely. Speak with respect. Act with integrity. Offer assistance to those who need it, rather than ridicule. These are not complex edicts, Mr. Carter, but simple principles of decent human conduct. They are, however, principles Mr. Riley seems pathologically incapable of grasping."
+
+She paused. "Your actions today, Mr. Carter – your diligence at the dumpsters yesterday, and your choice to seek advice rather than follow Mr. Riley down his current aromatic path – speak well of your potential. As do yours, Ms. McAllister, in your desire for self-improvement, however recently acquired."
+
+Morgan looked at Ben, a small, almost shy smile now. Maybe this kid Carter wasn't so bad after all. He seemed to genuinely get it.
+
+Then Morgan, with a sudden boldness that surprised even herself, gestured vaguely towards the cafeteria. "So, Mrs. DeMarco… about the 'title' of Habitual Offender… if Ben and I are, you know, trying to reform… This new kid?" she jerked her thumb in the general direction of where Josh Riley was likely still wrestling with his essay. "He can have my title. With my compliments. I’m officially abdicating."
+
+Ben Carter grinned, a genuine, relieved grin. "Yeah, what she said! He can be King of the Dumpsters all by himself."
+
+For the first time, Mrs. DeMarco allowed a full, if fleeting, smile. "Your abdication is noted, Ms. McAllister. And Mr. Carter, your desire for a different path is commendable. The cafeteria, and indeed the loading dock, always benefits from fewer… 'repeat customers.' Now, if you'll excuse me, I have lunch orders to verify." She gave them a look that was both a dismissal and, perhaps, a sliver of approval. "I trust I will see a marked improvement in both your lunchtime deportment and your post-meal clean-up efforts?"
+
+"Yes, Mrs. DeMarco!" they both said, almost in unison, a wave of unexpected hope washing over them.
+
+As they left her office, stepping back into the lunchtime roar, both Morgan and Ben felt a little lighter. Josh Riley’s sexually suggestive thoughts about them working together, had he voiced them, would have seemed even more ridiculous now. Their "teamwork" by the dumpsters hadn't been about secret trysts; it had been about shared misery leading to an unexpected, shared desire for something better. Josh could have the dumpsters, the grease traps, and the infamy. Morgan McAllister and Ben Carter were aiming for a future that smelled a whole lot sweeter.
+

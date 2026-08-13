@@ -1,0 +1,35 @@
+# Part 6: The Soup Kitchen – Thursday, May 14, 2046 – 21:00
+
+The estate was completely quiet. Upstairs in the nursery, the triplets were deeply asleep in the center of the massive, custom-built Mega-Crib, entirely oblivious to the fact that their father had just saved three hundred lives from the vacuum of space.
+
+Down in the residential living room, the geothermal fireplace cast a warm, flickering amber glow across the heavy timber beams and the polished stone floors.
+
+Wyatt Colton was sitting on the edge of the oversized leather sofa, staring at a sleek glass datapad. Sarah was curled up comfortably on the other end, a soft thermal blanket draped over her lap, her hands wrapped around a warm mug of tea. Her physical recovery was nearly complete, the color in her cheeks a healthy, vibrant flush.
+
+"Aria ran the predictive models on the Corvus sector," Wyatt rumbled, his deep voice breaking the quiet crackle of the fire. "Apex's mining operations are going to create a massive wave of displaced populations. The Pilgrim was just the first. More ships are going to drop out of sub-light transit looking for a quiet place to hide."
+
+Sarah took a slow sip of her tea, her dark eyes looking over the rim of the mug. "They're going to see a dead husk on their scanners."
+
+"Right," Wyatt nodded, his heavy thumb swiping away a line of data. "Standard humanitarian protocol for a quarantined system would be to deploy a network of automated broadcast buoys at the edge of the gravity well. The buoys would ping any incoming ships, warn them of the planetary lockdown, and offer a one-time automated supply drop of fuel and food so they move on without testing the shield."
+
+Wyatt hit a button, locking the screen, and set the datapad face-down on the reclaimed-wood coffee table with a definitive, heavy thud.
+
+"Which is exactly why we are absolutely never going to do it," Wyatt stated flatly.
+
+Sarah didn't even blink. Her fierce, protective maternal instincts perfectly mirrored his S.H.O.P. Marine logic. They were operating on the exact same wavelength.
+
+"Obviously," Sarah agreed instantly, setting her mug down next to his datapad. "A dead, frozen rock doesn't broadcast automated quarantine warnings and hand out heavy-duty fusion cores. The second we do that, we stop looking like a graveyard and start looking like a highly advanced, heavily funded vault."
+
+"Exactly," Wyatt grunted, leaning back against the leather cushions. "We are not running a galactic soup kitchen. If word spreads across the Outer Rim that Planet Eden is handing out free care packages to anyone who shows up, we won't just get peaceful refugees. We'll attract pirate syndicates, warlords, and corporate scavengers."
+
+They didn't need to debate it. They didn't need to weigh the moral implications. The survival of the three tiny lives sleeping upstairs in the Mega-Crib instantly overrode any broader galactic obligations.
+
+"The Sentinel Directive stays exactly as we wrote it," Sarah said firmly, her voice radiating the uncompromising strength of a pioneer mother. "We stay completely dark. If someone stumbles into orbit and opens a hailing frequency on their own, we'll talk. If it's a genuine emergency and the risk is zero, we'll launch a pod. But we do not advertise. We do not broadcast."
+
+"Planet Eden remains a ghost," Wyatt confirmed. "Until the Vanguard is grown. Until we actually have a functioning civilization, a real population, and a fleet that can project power. Then, maybe, we can open the gates. But not today."
+
+Sarah smiled softly, scooting across the leather cushions to rest her head against his broad shoulder. Wyatt wrapped his massive arm around her, pulling her close.
+
+The galaxy would continue to burn outside the impenetrable hard-light barrier of the Aegis grid, but inside the atmospheric bubble, the Colton family was perfectly, absolutely secure. The perimeter was locked, the rules of engagement were permanently set, and the illusion of the dead rock would hold.
+
+
