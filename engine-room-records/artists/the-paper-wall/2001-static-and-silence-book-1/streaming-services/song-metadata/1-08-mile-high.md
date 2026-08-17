@@ -4,7 +4,7 @@
 * **Track Title:** Mile High
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-08-13
+* **Real-World DSP Release Date:** 2026-08-15
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

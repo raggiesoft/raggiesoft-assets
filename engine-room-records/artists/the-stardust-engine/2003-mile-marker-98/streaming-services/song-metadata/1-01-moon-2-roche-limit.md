@@ -4,7 +4,7 @@
 * **Track Title:** Moon 2 (Roche Limit)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
-* **Real-World DSP Release Date:** 2026-08-13
+* **Real-World DSP Release Date:** 2026-08-15
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

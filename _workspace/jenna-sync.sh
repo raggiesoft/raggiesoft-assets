@@ -493,18 +493,34 @@ function do_push() {
     
     # 6. CDN SYNC
     echo "   3. Beaming heavy assets to the CDN..."
+    
+    # PASS 1: The Public Payload
+    # Using "**/vault/**" tells rclone to exclude ANY folder named 'vault' 
+    # no matter where it lives inside the assets root.
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
         --exclude "/.git/**" \
+        --exclude "**/vault/**" \
         --exclude ".gitignore" \
         --exclude ".DS_Store" \
         --exclude "desktop.ini" \
         --exclude "Thumbs.db" \
         --exclude "._*" \
+        --s3-acl public-read \
         $RCLONE_PERF_FLAGS
         
-    echo "👱‍♀️ JENNA: Success! Sarah will pick this up shortly."
+    # PASS 2: The Secure Vaults
+    # Using "--include" tells rclone to ignore everything else and ONLY sync 
+    # the nested vault folders, explicitly locking them down.
+    echo "   4. Securing the Premium Vaults..."
+    "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
+        --config "$RCLONE_CONF" \
+        --include "**/vault/**" \
+        --s3-acl private \
+        $RCLONE_PERF_FLAGS
+        
+    echo "👱‍♀️ JENNA: Success! All public assets are live, and all nested vaults are locked down. Sarah will pick this up shortly."
 }
 
 # --- UNIFIED ARGUMENT PARSER ---

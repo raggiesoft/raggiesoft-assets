@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Guiding Stars",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Paper Wall"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "80s Rock / New Wave / Heartland Rock",
+  "description": "The uplifting 1980s prequel to Static & Silence. It chronicles the unbreakable bond between Leo, his twin sister Luna, their older sister Stella, and his best friend Olivia, establishing the deep roots of their 'found family' dynamic before the darkness set in.",
+  "datePublished": "2026-08-28",
+  "temporalCoverage": "2000-08-20",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release"
+}

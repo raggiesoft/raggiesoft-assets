@@ -4,7 +4,7 @@
 * **Track Title:** The Promise (1989 'Sermon' Demo)
 * **Primary Artist:** 
 * **Genre:** Archival Compilation
-* **Real-World DSP Release Date:** 2026-08-13
+* **Real-World DSP Release Date:** 2026-08-15
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

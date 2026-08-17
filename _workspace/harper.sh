@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# --- HARPER: THE STUDIO ENGINEER (v21.6.2 - Decoupled Standard & Audiophile Archives) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.7.0 - Dynamic Multi-Core Audio Processing) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
@@ -18,7 +18,8 @@
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
 # Deep parses Schema.org standard JSON-LD properties (UPC, Production & Release Types) from album.json.
-# NEW v21.6.2: Scraps the 2GB All-In-One archive constraint. Builds a decoupled Standard Archive (MP3/OGG) and standalone Audiophile (WAV) payload.
+# Scraps the 2GB All-In-One archive constraint. Builds a decoupled Standard Archive (MP3/OGG) and standalone Audiophile (WAV) payload.
+# NEW v21.7.0: Integrates Dynamic Hardware Threading, secure PIDs tracking, and parallelized multi-tier audio pressing.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
@@ -26,7 +27,7 @@
 START_EPOCH=$(date +%s)
 START_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v21.6.2)... Let's hit the Vault!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.7.0)... Let's hit the Vault!"
 echo "   ⏰ Session Started: $START_TIME_STR"
 
 # Define Root relative to script location
@@ -45,6 +46,84 @@ echo "   🎚️  Targeting Studio Archives: $SEARCH_PATH"
 # Initialize Indices
 > "$TEMP_SEARCH_INDEX" 
 > "$TEMP_CATALOG_INDEX"
+
+# --- ARGUMENT PARSING ---
+REBUILD=false
+FORCE_IGPU=false
+OVERWRITE=false
+METADATA_ONLY=false
+ffmpeg_flag="-n"
+
+while [[ "$#" -gt 0 ]]; do
+    case $1 in
+        --rebuild|-y) 
+            REBUILD=true
+            OVERWRITE=true
+            ffmpeg_flag="-y" 
+            ;;
+        --force-igpu) FORCE_IGPU=true ;;
+        --metadata) METADATA_ONLY=true ;;
+        *) echo "🛑 HARPER: Unknown parameter passed: $1"; exit 1 ;;
+    esac
+    shift
+done
+
+# --- PRE-FLIGHT HARDWARE CHECK (Cross-Platform) ---
+IGPU_DETECTED=false
+GPU_INFO=""
+IGPU_SAFE_MODE=""
+
+if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+    GPU_INFO=$(powershell.exe -NoProfile -Command "(Get-CimInstance Win32_VideoController).Name" 2>/dev/null | tr -d '\r')
+elif command -v lspci &> /dev/null; then
+    GPU_INFO=$(lspci | grep -iE 'vga|3d|display')
+elif [[ "$OSTYPE" == "darwin"* ]]; then
+    GPU_INFO=$(sysctl -n machdep.cpu.brand_string | tr -d '\n')
+fi
+
+# The Heuristic Regex (Works against both Windows and Linux outputs)
+if echo "$GPU_INFO" | grep -qiE 'integrated|vega|renoir|cezanne|intel|uhd|iris|radeon.*graphics'; then
+    IGPU_DETECTED=true
+    IGPU_SAFE_MODE="-g 1 -t 32"
+fi
+
+if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = false ]; then
+    echo "🛑 HARPER FATAL ERROR: Integrated GPU (iGPU) Detected!"
+    echo "===================================================================="
+    echo "   Running a complete --rebuild on shared integrated graphics will"
+    echo "   result in extremely long, multi-hour processing times."
+    echo ""
+    echo "   Harper is aborting to prevent an accidental system lockdown."
+    echo ""
+    echo "   If you genuinely wish to proceed with the iGPU, you must append:"
+    echo "   --force-igpu"
+    echo "===================================================================="
+    exit 1
+fi
+
+if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = true ]; then
+    echo "⚠️  HARPER WARNING: iGPU detected, but --force-igpu is active."
+    echo "   Buckle up. This is going to take a while..."
+fi
+
+# --- DYNAMIC HARDWARE DETECTION & WORKER POOL LIMITS ---
+echo "   🔍 HARPER: Scanning system hardware for multi-threading..."
+
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    TOTAL_CORES=$(sysctl -n hw.ncpu)
+else
+    TOTAL_CORES=$(nproc)
+fi
+
+echo "   🎛️  System reports $TOTAL_CORES logical CPU cores."
+
+if (( TOTAL_CORES > 4 )); then
+    MAX_JOBS=$(( TOTAL_CORES - 2 ))
+else
+    MAX_JOBS=2
+fi
+
+echo "   🎚️  HARPER: Concurrency limit dynamically set to $MAX_JOBS simultaneous audio jobs."
 
 # --- LOCATE 7-ZIP BINARY ---
 SEVEN_ZIP_LOCAL="$ROOT_DIR/build-tools/7zip"
@@ -96,49 +175,16 @@ elif [[ "$OSTYPE" == "linux-gnu"* ]]; then
 fi
 
 if [ "$USE_UPSCALER" = true ]; then
-    # --- HARPER HARDWARE DETECT: Dynamic GPU Capability Check ---
-    if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
-        # Ask Windows for the GPU name using PowerShell (stripping carriage returns)
-        GPU_NAME=$(powershell -NoProfile -Command "(Get-CimInstance -ClassName Win32_VideoController).Name" | head -n 1 | tr -d '\r')
-        
-        # Disable if known integrated graphics lacking dedicated VRAM are detected
-        if [[ "$GPU_NAME" == *"AMD Radeon(TM) Graphics"* || "$GPU_NAME" == *"Intel"*"Graphics"* ]]; then
-            echo "   ⚠️  HARPER: Integrated GPU detected ($GPU_NAME). Engaging iGPU Safe Mode (Throttled Tile Size)."
-            IGPU_SAFE_MODE="-g -1"
-        else
-            echo "   ✅ HARPER: Upscaler loaded for Windows GPU: $GPU_NAME"
-            IGPU_SAFE_MODE=""
-        fi
-        
-    elif [[ "$OSTYPE" == "darwin"* ]]; then
-        # Ask macOS for the chip name (M1/M2/M3 handle Vulkan compute beautifully via MoltenVK)
-        MAC_CHIP=$(sysctl -n machdep.cpu.brand_string | tr -d '\n')
-        echo "   ✅ HARPER: Upscaler loaded for macOS: $MAC_CHIP"
-        
+    if [ "$IGPU_DETECTED" = true ]; then
+        echo "   ⚠️  HARPER: Upscaler engaging iGPU Safe Mode (Throttled Tile Size) for $GPU_INFO"
     else
-        echo "   ✅ HARPER: Upscaler loaded: $UPSCALER_CMD"
+        echo "   ✅ HARPER: Upscaler loaded for GPU: $GPU_INFO"
     fi
 else
     echo "   ⚠️  HARPER: Upscaler missing from $UPSCALER_BASE. Skipping art enhancement."
 fi
 
-# --- OVERWRITE & METADATA LOGIC ---
-OVERWRITE=false
-METADATA_ONLY=false
-ffmpeg_flag="-n" 
-
-for arg in "$@"; do
-  case $arg in
-    --rebuild|-y)
-      ffmpeg_flag="-y"
-      OVERWRITE=true
-      ;;
-    --metadata)
-      METADATA_ONLY=true
-      ;;
-  esac
-done
-
+# --- OVERWRITE & METADATA STATUS LOGS ---
 if [ "$OVERWRITE" = true ]; then
     if [ "$METADATA_ONLY" = true ]; then
         echo "   ⚡ HARPER: Rebuild Metadata flag detected! Overwriting JSON & Markdown only."
@@ -151,6 +197,52 @@ if [ ! -d "$SEARCH_PATH" ]; then
     echo "   ❌ HARPER: Whoops! Directory not found at $SEARCH_PATH"
     exit 1
 fi
+
+# --- THE FFMPEG WORKER FUNCTION ---
+press_audio_formats() {
+    local in_wav="$1"
+    local f_base="$2"
+    local t_title="$3"
+    local t_artist="$4"
+    local t_album="$5"
+    local t_year="$6"
+    local t_track="$7"
+    local t_disc="$8"
+    local t_genre="$9"
+
+    # Radio Edit (128kbps)
+    if [ ! -f "web-mp3/$f_base.mp3" ] || [ "$OVERWRITE" = true ]; then
+        ffmpeg -nostdin -hide_banner -loglevel error $ffmpeg_flag -i "$in_wav" $ART_FILE_PARAM \
+        -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
+        -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
+        -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
+        -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
+        -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
+        "web-mp3/$f_base.mp3"
+    fi
+
+    # Premium MP3 (V0)
+    if [ ! -f "vault/mp3/$f_base.mp3" ] || [ "$OVERWRITE" = true ]; then
+        ffmpeg -nostdin -hide_banner -loglevel error $ffmpeg_flag -i "$in_wav" $ART_FILE_PARAM \
+        -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
+        -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
+        -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
+        -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
+        -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        "vault/mp3/$f_base.mp3"
+    fi
+
+    # Premium OGG (Q9)
+    if [ ! -f "vault/ogg/$f_base.ogg" ] || [ "$OVERWRITE" = true ]; then
+        ffmpeg -nostdin -hide_banner -loglevel error $ffmpeg_flag -i "$in_wav" \
+        -codec:a libvorbis -q:a 9 \
+        -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
+        -metadata date="$t_year" -metadata tracknumber="$t_track" -metadata discnumber="$t_disc" \
+        -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
+        -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        "vault/ogg/$f_base.ogg"
+    fi
+}
 
 # --- MAIN LOOP ---
 find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
@@ -225,7 +317,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 UNIX_IN="$(pwd)/$RAW_ART"
                 UNIX_OUT="$(pwd)/$UPSCALED_ART"
                 UNIX_MODELS="$(dirname "$UPSCALER_CMD")/models"
-                "$UPSCALER_CMD" -i "$UNIX_IN" -o "$UNIX_OUT" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg
+                "$UPSCALER_CMD" -i "$UNIX_IN" -o "$UNIX_OUT" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg $IGPU_SAFE_MODE
             fi
             
             echo "      ✅ HARPER: Artwork successfully upscaled to /streaming-services/album-art/"
@@ -234,11 +326,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
         fi
     fi
 
-    # Art Param for FFmpeg
+    # Art Param for FFmpeg (Global Variable exported for the worker function)
     if [ ! -f "$ART_FILE" ]; then
-        ART_FILE_PARAM=""
+        export ART_FILE_PARAM=""
     else
-        ART_FILE_PARAM="-i $ART_FILE -map 0:a -map 1:v -codec:v mjpeg -disposition:v attached_pic"
+        export ART_FILE_PARAM="-i $ART_FILE -map 0:a -map 1:v -codec:v mjpeg -disposition:v attached_pic"
     fi
 
     # Lyrics Check
@@ -270,8 +362,11 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     TEMP_TRACKS_JSONL="temp_tracks_update.jsonl"
     > "$TEMP_TRACKS_JSONL"
 
-    # Process Tracks
-    jq -c '.tracks[]' "tracks.json" | while read -r track_json; do
+    # Initialize the array to hold our active Process IDs
+    declare -a PIDS=()
+
+    # --- PROCESS TRACKS LOOP (Process Substitution to protect the PIDS Array) ---
+    while read -r track_json; do
         FILE_BASE=$(echo "$track_json" | jq -r '.fileName')
         TITLE=$(echo "$track_json" | jq -r '.title')
         DISC_NUM=$(echo "$track_json" | jq -r '.disc // 1')
@@ -332,7 +427,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
             --arg slug "$ARTIST_SLUG" \
             --arg album "$ALBUM_NAME" \
             --arg album_slug "$ALBUM_SLUG" \
-            --arg file_base "$FILE_BASE" \
+            --arg track_slug "$FILE_BASE" \
             --arg r_date "$REAL_RELEASE_DATE" \
             --arg status "$RELEASE_STATUS" \
             --arg owner "Michael P. Ragsdale / RaggieSoft" \
@@ -348,7 +443,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
                 artistPersona: $artist,
                 artistSlug: $slug,
                 albumSlug: $album_slug,
-                trackSlug: $file_base,
+                trackSlug: $track_slug,
                 legalOwner: $owner, 
                 distributor: $distro, 
                 aiClearance: $ai, 
@@ -466,49 +561,19 @@ EOF
         fi
 
         if [ "$METADATA_ONLY" = false ]; then
-            # NEW CHECK: Only run FFmpeg if the WAV actually exists!
             if [ -f "$WAV_FILE" ]; then
-                # --- FREE TIER: Radio Edit MP3 (128kbps for Web Player) ---
-                if [ ! -f "web-mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-                    echo "         -> 📻 Pressing Radio Edit MP3 (128kbps)..."
-                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-                    -codec:a libmp3lame -b:a 128k -id3v2_version 3 -write_id3v1 1 \
-                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                    -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                    -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
-                    "web-mp3/$FILE_BASE.mp3"
-                else
-                    echo "         ⏭️  Radio Edit MP3 already exists! Fast-forwarding."
-                fi
-
-                # --- PREMIUM TIER: V0 MP3 (Vault) ---
-                if [ ! -f "vault/mp3/$FILE_BASE.mp3" ] || [ "$OVERWRITE" = true ]; then
-                    echo "         -> 🎚️ Cutting High-Fidelity MP3 for the Vault..."
-                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" $ART_FILE_PARAM \
-                    -codec:a libmp3lame -q:a 0 -id3v2_version 3 -write_id3v1 1 \
-                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                    -metadata date="$REAL_RELEASE_YEAR" -metadata track="$TRACK_NUM" -metadata disc="$DISC_NUM" -metadata genre="$GENRE" \
-                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                    -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
-                    "vault/mp3/$FILE_BASE.mp3"
-                else
-                    echo "         ⏭️  Premium MP3 already exists! Fast-forwarding."
-                fi
-
-                # --- PREMIUM TIER: Q9 OGG (Vault) ---
-                if [ ! -f "vault/ogg/$FILE_BASE.ogg" ] || [ "$OVERWRITE" = true ]; then
-                    echo "         -> 🎚️ Pressing High-Fidelity OGG for the Vault..."
-                    ffmpeg -nostdin -hide_banner -stats $ffmpeg_flag -i "$WAV_FILE" \
-                    -codec:a libvorbis -q:a 9 \
-                    -metadata title="$TITLE" -metadata artist="$ALBUM_ARTIST" -metadata album="$ALBUM_NAME" \
-                    -metadata date="$REAL_RELEASE_YEAR" -metadata tracknumber="$TRACK_NUM" -metadata discnumber="$DISC_NUM" \
-                    -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
-                    -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
-                    "vault/ogg/$FILE_BASE.ogg"
-                else
-                    echo "         ⏭️  Premium OGG already exists! Fast-forwarding."
-                fi
+                echo "         -> 🎚️ Pressing Multi-Tier Audio (Parallelized)..."
+                
+                # Dispatch the job to the background
+                press_audio_formats "$WAV_FILE" "$FILE_BASE" "$TITLE" "$ALBUM_ARTIST" "$ALBUM_NAME" "$REAL_RELEASE_YEAR" "$TRACK_NUM" "$DISC_NUM" "$GENRE" &
+                
+                # Capture the PID of the job we just spawned
+                PIDS+=($!)
+                
+                # The Safety Valve: Pause if we hit the OS limit
+                while (( $(jobs -p | wc -l) >= MAX_JOBS )); do
+                    wait -n
+                done
             else
                 echo "         ⏭️  Audio source missing. Skipping FFmpeg encoding for $TITLE."
             fi
@@ -516,8 +581,23 @@ EOF
             echo "         ⏭️  Metadata-Only mode active. Skipping audio encoding."
         fi
 
-    done
-    
+    done < <(jq -c '.tracks[]' "tracks.json")
+
+    # --- THE SAFETY GATE ---
+    if [ ${#PIDS[@]} -gt 0 ]; then
+        echo "      ⏳ HARPER: Waiting for background audio rendering pool to finalize..."
+        for pid in "${PIDS[@]}"; do
+            wait "$pid"
+            EXIT_CODE=$?
+            if [ $EXIT_CODE -ne 0 ]; then
+                echo "🛑 HARPER FATAL ERROR: Audio processing crashed on PID $pid!"
+                echo "   Aborting to prevent corrupted Vault Archives."
+                exit 1
+            fi
+        done
+        echo "      ✅ HARPER: All multi-tier audio verified."
+    fi
+
     # Overwrite tracks.json with updated lengths
     if [ -s "$TEMP_TRACKS_JSONL" ]; then
          jq -s '{tracks: .}' "$TEMP_TRACKS_JSONL" > "tracks.json"
@@ -671,6 +751,40 @@ EOF
         else
             echo "         ⏭️  Standard Archive (MP3 & OGG) already exists! Skipping."
         fi
+
+        # --- PACK THE FREE WEB ARCHIVE (128kbps MP3) ---
+        ZIP_FREE="web-mp3/${ARCHIVE_BASE_NAME}-free-archive.zip"
+
+        if [ ! -f "$ZIP_FREE" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing the Free Web Archive (128kbps MP3)..."
+            rm -f "$ZIP_FREE"
+            
+            # Create staging folder isolated outside of /vault
+            mkdir -p web-mp3/staging_free/lyrics
+            
+            # Copy 128kbps audio files
+            cp web-mp3/*.mp3 web-mp3/staging_free/ 2>/dev/null
+            
+            # Copy metadata and root documentation
+            cp "$README_FILE" web-mp3/staging_free/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" web-mp3/staging_free/
+            
+            # Copy lyrics
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md web-mp3/staging_free/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" web-mp3/staging_free/
+            fi
+            
+            # Pack directly into web-mp3/
+            pushd web-mp3/staging_free > /dev/null
+            "$SEVEN_ZIP_CMD" a -tzip -mx=5 "../${ARCHIVE_BASE_NAME}-free-archive.zip" *
+            popd > /dev/null
+            
+            # Cleanup staging directory
+            rm -rf web-mp3/staging_free
+        else
+            echo "         ⏭️  Free Web Archive (128kbps MP3) already exists! Skipping."
+        fi
         
         echo "   📦 HARPER: Vault secure. Archives packed."
     fi
@@ -709,7 +823,9 @@ fi
 END_EPOCH=$(date +%s)
 END_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
 DURATION_SEC=$((END_EPOCH - START_EPOCH))
-DURATION_MIN=$((DURATION_SEC / 60))
+
+DURATION_HOURS=$((DURATION_SEC / 3600))
+DURATION_MIN=$(( (DURATION_SEC % 3600) / 60 ))
 DURATION_REM_SEC=$((DURATION_SEC % 60))
 
 if [ "$METADATA_ONLY" = true ]; then
@@ -719,4 +835,8 @@ else
 fi
 
 echo "   ⏰ Session Ended: $END_TIME_STR"
-echo "   ⏱️  Total Processing Time: ${DURATION_MIN}m ${DURATION_REM_SEC}s"
+if (( DURATION_HOURS > 0 )); then
+    echo "   ⏱️  Total Processing Time: ${DURATION_HOURS}h ${DURATION_MIN}m ${DURATION_REM_SEC}s"
+else
+    echo "   ⏱️  Total Processing Time: ${DURATION_MIN}m ${DURATION_REM_SEC}s"
+fi

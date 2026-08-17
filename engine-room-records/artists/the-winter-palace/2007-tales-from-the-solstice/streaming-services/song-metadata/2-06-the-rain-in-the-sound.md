@@ -4,7 +4,7 @@
 * **Track Title:** The Rain in the Sound
 * **Primary Artist:** The Winter Palace
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-08-13
+* **Real-World DSP Release Date:** 2026-08-15
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

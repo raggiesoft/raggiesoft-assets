@@ -24,7 +24,7 @@
 * **Engine Room ID:** ERR-003-2003-109
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 4:26
 * **Fictional Narrative Release Date:** 2003-12-10
 * **Master File Located At:** ../../vault/wav/1-09-friday-9-31-am-the-attack.wav
 
