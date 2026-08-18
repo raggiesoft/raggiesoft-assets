@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # --- HARPER: THE STUDIO ENGINEER (v21.7.0 - Dynamic Multi-Core Audio Processing) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
@@ -87,7 +87,7 @@ if echo "$GPU_INFO" | grep -qiE 'integrated|vega|renoir|cezanne|intel|uhd|iris|r
     IGPU_SAFE_MODE="-g 1 -t 32"
 fi
 
-if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = false ]; then
+if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = false ] && [ "$METADATA_ONLY" = false ]; then
     echo "🛑 HARPER FATAL ERROR: Integrated GPU (iGPU) Detected!"
     echo "===================================================================="
     echo "   Running a complete --rebuild on shared integrated graphics will"
@@ -101,7 +101,7 @@ if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = fal
     exit 1
 fi
 
-if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = true ]; then
+if [ "$REBUILD" = true ] && [ "$IGPU_DETECTED" = true ] && [ "$FORCE_IGPU" = true ] && [ "$METADATA_ONLY" = false ]; then
     echo "⚠️  HARPER WARNING: iGPU detected, but --force-igpu is active."
     echo "   Buckle up. This is going to take a while..."
 fi
@@ -552,8 +552,17 @@ EOF
         if [ -f "$LYRIC_MD" ]; then
             if [ ! -f "$LYRIC_TXT" ] || [ "$OVERWRITE" = true ]; then
                 echo "         -> 📝 Scrubbing Lyrics for DSP delivery..."
+                
+                # 1. Strip the header up to **LYRICS:**
+                # 2. Delete lines fully enclosed in brackets (e.g., [Guitar Solo])
+                # 3. Delete plain-text structural tags (e.g., Chorus:, Verse 1)
+                # 4. Strip trailing punctuation from the end of all lines
+                # 5. Condense consecutive empty lines
+                
                 sed '1,/\*\*LYRICS:\*\*/d' "$LYRIC_MD" | \
-                sed '/^[[:space:]]*[\[(].*[\])][[:space:]]*$/d' | \
+                sed -E '/^[[:space:]]*\[.*\][[:space:]]*$/d' | \
+                sed -E '/^[[:space:]]*([Vv]erse|[Cc]horus|[Bb]ridge|[Ii]ntro|[Oo]utro|[Hh]ook|[Pp]re-?[Cc]horus|[Ii]nterlude|[Ss]olo)([[:space:]]*[0-9]+)?(:)?[[:space:]]*$/d' | \
+                sed -E 's/[.,?!;:]+[[:space:]]*$//' | \
                 cat -s | sed '/^[[:space:]]*$/{N;/^\n$/D;}' > "$LYRIC_TXT"
             else
                 echo "         ⏭️  DSP Lyrics already clean! Fast-forwarding."

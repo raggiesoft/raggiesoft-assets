@@ -11,6 +11,114 @@
       "legacyTier": "Chart Smash",
       "loreNote": "The genesis of the twin moons project. Cassidy's masterpiece of 80s Cosmic Pop uses a tidal lock as a gorgeous metaphor for unwavering loyalty, now serving as the atmospheric anchor for her entire solo zero-gravity album.",
       "duration": "5:29"
+    },
+    {
+      "fileName": "1-02-periapsis-closest-approach",
+      "title": "Periapsis (Closest Approach)",
+      "isrc": "TBD",
+      "masterWavPath": "studio/periapsis-closest-approach",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 2,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A fast, kinetic track driven by a 16th-note analog sequencer, representing the high-speed thrill of an orbital slingshot maneuver. We need to keep the momentum high right after track one.",
+      "duration": "4:58"
+    },
+    {
+      "fileName": "1-03-the-anchors-weight",
+      "title": "The Anchor's Weight",
+      "isrc": "TBD",
+      "masterWavPath": "studio/the-anchors-weight",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 3,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A mid-tempo track exploring the 'phantom gravity' of her terrestrial past. It acknowledges the trauma of the 1992 'Friction' trial, but without the rage—just the memory of the weight she used to carry before finding the zero-g sanctuary.",
+      "duration": "5:29"
+    },
+    {
+      "fileName": "1-04-silent-ocean-mare-tranquillitatis",
+      "title": "Silent Ocean (Mare Tranquillitatis)",
+      "isrc": "TBD",
+      "masterWavPath": "studio/silent-ocean-mare-tranquillitatis",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 4,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The pace slows down significantly. A deeply melancholic, beautiful track featuring sparse electronic percussion and deep sub-bass. It is the sound of absolute isolation and the overwhelming scale of the universe.",
+      "duration": "5:59"
+    },
+    {
+      "fileName": "1-05-deep-pressure",
+      "title": "Deep Pressure",
+      "isrc": "TBD",
+      "masterWavPath": "studio/deep-pressure",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 5,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A cosmic parallel to the Ghent neighborhood story. The musical equivalent of deep-pressure therapy—a sonically dense, incredibly comforting track that acts as a sensory safe space for the listener.",
+      "duration": "5:29"
+    },
+    {
+      "fileName": "1-06-synchronous",
+      "title": "Synchronous",
+      "isrc": "TBD",
+      "masterWavPath": "studio/synchronous",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 6,
+      "legacyTier": "Deep Cut",
+      "loreNote": "This is a massive, mostly instrumental track where Cassidy's classical piano training shines. She layers intricate, mathematically perfect piano arpeggios over sweeping analog synths, mapping out the orbital mechanics of the band's empire.",
+      "duration": "5:58"
+    },
+    {
+      "fileName": "1-07-the-penumbra",
+      "title": "The Penumbra",
+      "isrc": "TBD",
+      "masterWavPath": "studio/the-penumbra",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 7,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The coldest track on the album. Entering the shadow of the parent planet, this track uses icy synthesizers and a mechanical drum beat to explore the fear of the unknown and the chilling reality of deep space isolation.",
+      "duration": "6:00"
+    },
+    {
+      "fileName": "1-08-goldilocks-zone",
+      "title": "Goldilocks Zone",
+      "isrc": "TBD",
+      "masterWavPath": "studio/goldilocks-zone",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 8,
+      "legacyTier": "Deep Cut",
+      "loreNote": "Breaking out of the shadow of The Penumbra, this track brings back the bright, shimmering pop energy. It is a joyous celebration of finding the perfect, habitable orbit where she can finally breathe.",
+      "duration": "5:02"
+    },
+    {
+      "fileName": "1-09-telemetry",
+      "title": "Telemetry",
+      "isrc": "TBD",
+      "masterWavPath": "studio/telemetry",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 9,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A tighter, more experimental pop track. It relies heavily on rhythmic, pulsing synthesizers mimicking radar pings and data transmissions, representing her communication back to the 'Engine' (Ryan) on his parallel orbit.",
+      "duration": "5:01"
+    },
+    {
+      "fileName": "1-10-sanctuary-zero-g",
+      "title": "Sanctuary: Zero G",
+      "isrc": "TBD",
+      "masterWavPath": "studio/sanctuary-zero-g",
+      "disc": 1,
+      "discName": "Side A: The Sanctuary",
+      "track": 10,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The epic title track and album closer. It builds from a single, echoing piano chord into a towering wall of analog synth brass and spatial reverb, ending the 74-minute journey with a massive, cinematic fade into the void.",
+      "duration": "5:59"
     }
   ]
 }

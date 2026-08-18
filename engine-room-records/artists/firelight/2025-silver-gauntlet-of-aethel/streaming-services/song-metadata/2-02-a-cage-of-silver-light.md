@@ -4,7 +4,7 @@
 * **Track Title:** A Cage of Silver Light
 * **Primary Artist:** 
 * **Genre:** Soundtrack / 80s Rock / Orchestral
-* **Real-World DSP Release Date:** 2026-08-15
+* **Real-World DSP Release Date:** 2026-08-18
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

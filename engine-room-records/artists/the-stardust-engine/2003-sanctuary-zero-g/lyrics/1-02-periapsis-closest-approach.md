@@ -1,9 +1,11 @@
 **LORE NOTE:**
-Following the mid-tempo, sweeping introduction of the title track, *Periapsis (Closest Approach)* immediately hits the accelerator. In astrophysics, the periapsis is the point in an orbit closest to the parent body—where the gravitational pull is strongest and the velocity is at its absolute highest. 
-
-Engineered to showcase the kinetic side of **The Cosmic Tidal Lock Sound®**, this track is driven by a relentless 16th-note analog synth sequencer and a crisp, tight drum machine. Lyrically, Cassidy uses the concept of an "orbital slingshot" to describe stealing momentum from a massive, dangerous gravitational body (like her terrestrial past) just to propel herself further into deep space. It is a brilliant, high-speed 80s synth-pop rush.
+Following the mid-tempo, sweeping introduction of the title track, *Periapsis (Closest Approach)* immediately hits the accelerator. With *Moon 1 (Tidal Lock)* acting as the prologue, this track officially welcomes the listener to the *Sanctuary* exhibition with a 1990s planetarium documentary introduction. Engineered to showcase the kinetic side of **The Cosmic Tidal Lock Sound**, this track is driven by a relentless 16th-note analog synth sequencer and a crisp, tight drum machine. Lyrically, Cassidy uses the concept of an "orbital slingshot" to describe stealing momentum from a massive, dangerous gravitational body (like her terrestrial past) just to propel herself further into deep space. It is a brilliant, high-speed 80s synth-pop rush.
 
 **LYRICS:**
+
+[Spoken Intro]
+*(Spoken clearly, calmly, and methodically, like a narrator in a planetarium documentary. A fast-pulsing electronic hum begins to build.)*
+Welcome to the Engine Room Records Planetarium and our presentation of Sanctuary. Having established our initial tidal lock, our trajectory now brings us to the periapsis. This is the point in our orbit closest to the parent body, where gravitational pull is strongest and our velocity reaches its absolute maximum. Please remain seated as we initiate the orbital slingshot maneuver.
 
 [Intro]
 *(Instrumental - The track immediately blasts off with a fast, pulsing 16th-note analog synthesizer sequencer. A crisp, highly quantized drum machine locks in, setting a dangerously fast, driving tempo before Cassidy's vocals cut in, drenched in spatial reverb.)*

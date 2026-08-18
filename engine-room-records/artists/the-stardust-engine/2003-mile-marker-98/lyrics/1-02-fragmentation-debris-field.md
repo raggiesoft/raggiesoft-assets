@@ -1,0 +1,85 @@
+**LORE NOTE:**
+With *Moon 2 (Roche Limit)* acting as the violent prologue, *Fragmentation (Debris Field)* is the moment the planet completely shatters. 
+
+Bringing back the planetarium narrator from the *Sanctuary* album creates a brilliant, unsettling continuity. The calm, clinical voice of the narrator completely juxtaposes the blistering, industrial arena rock that follows. Lyrically and sonically, this track brings the *Mile Marker 98* cover art to life—a heavy, visceral explosion of distorted guitars and pounding drums representing the violent breaking of the terrestrial past. 
+
+**LYRICS:**
+
+[Spoken Intro]
+*(Spoken clearly, calmly, and methodically, like a narrator in a planetarium documentary. A low, menacing rumble of amplifier feedback begins to swell in the background.)*
+Welcome back to the Engine Room Records Planetarium. 
+Having crossed the Roche Limit, the structural integrity of our satellite has officially failed. 
+We are now experiencing terminal fragmentation. 
+As tidal forces overcome gravitational self-attraction, the celestial body shatters into a high-velocity debris field. 
+Please remain seated and brace for immediate impact.
+
+[Intro]
+*(The planetarium narration is abruptly cut off by an earth-shattering snare crack. A massive, chugging, drop-tuned electric guitar riff explodes into the stereo field. The drums are heavy, acoustic, and pounding. Pure 1990s industrial arena rock.)*
+
+[Verse 1]
+*(Aggressive male rock vocals)*
+The ground is cracking right beneath my boots
+We're ripping up the foundation, pulling the roots
+The sky is falling in a million jagged pieces
+The pressure building up and it never releases!
+I look up and the moon is ripped in half
+Nothing left to do but watch it burn and laugh
+
+[Pre-Chorus]
+The gravity is dead, the center cannot hold
+The core is spilling out, a story never told
+It's raining heavy metal from a shattered sky
+Kiss the quiet sanctuary a bitter goodbye!
+
+[Chorus]
+Fragmentation! We're blowing it apart!
+A million flying pieces of a heavy metal heart
+Fragmentation! Welcome to the crash!
+Turning all the history to cinders and to ash
+We're living in the middle of a debris field
+No blast doors, no shelter, no shield!
+Fragmentation!
+
+[Verse 2]
+I can see the black guitars falling through the space
+A violent collision in the human race
+The magma is spilling from the broken crust
+Turning all the monuments to powder and dust
+You wanted a reaction, you wanted a spark?
+Well now we're throwing fire right into the dark!
+
+[Pre-Chorus]
+The gravity is dead, the center cannot hold
+The core is spilling out, a story never told
+It's raining heavy metal from a shattered sky
+Kiss the quiet sanctuary a bitter goodbye!
+
+[Chorus]
+Fragmentation! We're blowing it apart!
+A million flying pieces of a heavy metal heart
+Fragmentation! Welcome to the crash!
+Turning all the history to cinders and to ash
+We're living in the middle of a debris field
+No blast doors, no shelter, no shield!
+Fragmentation!
+
+[Guitar & Drum Bridge]
+*(The vocals drop out. The drummer goes absolutely berserk on the toms, building a tribal, industrial rhythm. Ryan layers in a series of screeching, dissonant guitar pick-slides that sound like massive tectonic plates grinding together and snapping.)*
+
+[Guitar Solo]
+*(A blistering, aggressive, wah-soaked guitar solo that rips through the heavy rhythm section. It is chaotic, unpolished, and completely visceral—the exact opposite of Cassidy's clean, classical piano arpeggios.)*
+
+[Chorus]
+Fragmentation! We're blowing it apart!
+A million flying pieces of a heavy metal heart
+Fragmentation! Welcome to the crash!
+Turning all the history to cinders and to ash
+We're living in the middle of a debris field
+No blast doors, no shelter, no shield!
+Fragmentation!
+
+[Outro]
+No shield!
+In the debris field!
+Watch it shatter!
+*(The instruments collide in a massive, chaotic final hit, ringing out with heavy, squealing amplifier feedback until it abruptly cuts to dead silence)*

@@ -4,7 +4,7 @@
 * **Track Title:** Moon 1 (Tidal Lock)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
-* **Real-World DSP Release Date:** 2026-08-15
+* **Real-World DSP Release Date:** 2026-08-18
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

@@ -4,7 +4,7 @@
 * **Track Title:** Kaleidoscope Sun
 * **Primary Artist:** 
 * **Genre:** Progressive Rock / Art Pop
-* **Real-World DSP Release Date:** 2026-08-15
+* **Real-World DSP Release Date:** 2026-08-18
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

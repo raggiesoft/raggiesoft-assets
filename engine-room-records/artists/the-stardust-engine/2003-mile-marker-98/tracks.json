@@ -11,6 +11,114 @@
       "legacyTier": "Deep Cut",
       "loreNote": "The spark that ignited Ryan's solo orbit. A dark, aggressive rock track using the Roche limit to describe a toxic, fatal attraction, setting the high-friction, destructive tone for the rest of the record.",
       "duration": "4:15"
+    },
+    {
+      "fileName": "1-02-fragmentation-debris-field",
+      "title": "Fragmentation: Debris Field",
+      "isrc": "TBD",
+      "masterWavPath": "studio/fragmentation-debris-field",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 2,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The moment the planet completely shatters. Bringing back the planetarium narrator, this track is a heavy, visceral explosion of distorted guitars and pounding drums representing the violent breaking of the terrestrial past.",
+      "duration": "6:00"
+    },
+    {
+      "fileName": "1-03-impact",
+      "title": "Impact",
+      "isrc": "TBD",
+      "masterWavPath": "studio/impact",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 3,
+      "legacyTier": "Deep Cut",
+      "loreNote": "Transposes the terrestrial nightmare of the 1990 crash on I-81 into a cosmic collision. Driving 1980s hard rock describing Ryan's vessel being struck by a high-velocity fragment in the debris field.",
+      "duration": "4:49"
+    },
+    {
+      "fileName": "1-04-mayday-the-intercept",
+      "title": "Mayday: The Intercept",
+      "isrc": "TBD",
+      "masterWavPath": "studio/mayday-the-intercept",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 4,
+      "legacyTier": "Chart Smash",
+      "loreNote": "Ryan intercepts the telemetry from Moon 1 and broadcasts a frantic distress signal. A massive 1980s arena rock anthem of survival as Cassidy arrives with the family to pull the broken Engine out of the dark.",
+      "duration": "5:03"
+    },
+    {
+      "fileName": "1-05-star-city-orbital-ward",
+      "title": "Star City: Orbital Ward",
+      "isrc": "TBD",
+      "masterWavPath": "studio/star-city-orbital-ward",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 5,
+      "legacyTier": "Deep Cut",
+      "loreNote": "Transposes Ryan's grueling recovery at Star City General into an orbital medical bay. A brooding hard rock ballad that translates the strict survival routines of Protocol T-10 into starship maintenance.",
+      "duration": "5:59"
+    },
+    {
+      "fileName": "1-06-the-anchors-hold",
+      "title": "The Anchor's Hold",
+      "isrc": "TBD",
+      "masterWavPath": "studio/the-anchors-hold",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 6,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A massive 1980s power ballad detailing Ryan's early days of recovery. A tribute to Cassidy, leaning into the concept that her tight embrace is the only gravitational force keeping his fragmented pieces together.",
+      "duration": "5:59"
+    },
+    {
+      "fileName": "1-07-the-penumbra-transit",
+      "title": "The Penumbra: Transit",
+      "isrc": "TBD",
+      "masterWavPath": "studio/the-penumbra-transit",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 7,
+      "legacyTier": "Deep Cut",
+      "loreNote": "The heavy-rock mirror to Cassidy's coldest solo track. Passing through the celestial shadow, Ryan fuses his driving 1980s hard rock with her signature analog synthesizers to face the dark together.",
+      "duration": "6:00"
+    },
+    {
+      "fileName": "1-08-artificial-gravity",
+      "title": "Artificial Gravity",
+      "isrc": "TBD",
+      "masterWavPath": "studio/artificial-gravity",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 8,
+      "legacyTier": "Deep Cut",
+      "loreNote": "Set during the 'Stalemate Year' of 1991. A stripped-down, acoustic-driven rock track representing Ryan generating his own artificial gravity as he learns to play the guitar again under strict new physical limitations.",
+      "duration": "6:01"
+    },
+    {
+      "fileName": "1-09-friction-re-entry",
+      "title": "Friction: Reentry",
+      "isrc": "TBD",
+      "masterWavPath": "studio/friction-reentry",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 9,
+      "legacyTier": "Chart Smash",
+      "loreNote": "Drops the listener into the white-hot rage of the 1992 catastrophe. High-speed, aggressive hard rock that uses the superheated plasma of atmospheric re-entry as a direct metaphor for Julian Vance's corporate exploitation.",
+      "duration": "5:30"
+    },
+    {
+      "fileName": "1-10-twin-moons-touchdown",
+      "title": "Twin Moons: Touchdown",
+      "isrc": "TBD",
+      "masterWavPath": "studio/twin-moons-touchdown",
+      "disc": 1,
+      "discName": "Side A: The Impact",
+      "track": 10,
+      "legacyTier": "Chart Smash",
+      "loreNote": "The epic Prog-Rock finale. The ultimate musical collision of the two siblings, fusing heavy distorted arena rock with sweeping analog synths. Ends with the Planetarium Narrator safely closing the 74-minute exhibition.",
+      "duration": "5:25"
     }
   ]
 }
