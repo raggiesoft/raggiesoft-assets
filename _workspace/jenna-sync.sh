@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# --- JENNA: THE DEVELOPMENT LIAISON (v7.2 - Multi-Repo Routing Edition) ---
-# Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--public-wifi]
+# --- JENNA: THE DEVELOPMENT LIAISON (v7.3 - Force Push Edition) ---
+# Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--force] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
 # 1. ESTABLISH PATHS (Dynamically resolved across OS)
@@ -46,7 +46,7 @@ fi
 
 function show_help() {
     echo "Usage: "
-    echo "  ./jenna-sync.sh --push -m \"Commit Message\" [-t \"v1.0.0\"]"
+    echo "  ./jenna-sync.sh --push -m \"Commit Message\" [-t \"v1.0.0\"] [--force]"
     echo "  ./jenna-sync.sh --pull"
     echo "  ./jenna-sync.sh --audit"
     echo "Options: --public-wifi (Stealth mode)"
@@ -364,6 +364,9 @@ function do_push() {
     if [ -n "$TAG_NAME" ]; then
         echo "          Applying Tag: $TAG_NAME"
     fi
+    if [ -n "$FORCE_FLAG" ]; then
+        echo "          ⚠️ EXECUTING FORCE PUSH PROTOCOL ⚠️"
+    fi
     echo "          $CONNECTION_MSG"
 
     # 4. HUB PUSH
@@ -374,14 +377,18 @@ function do_push() {
         
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Code committed and sent to GitHub."
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending commits from a previous run. Pushing now..."
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Pending code sent to GitHub."
         else
              echo "      (Hub is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
         fi
 
         if [ -n "$TAG_NAME" ]; then
@@ -400,14 +407,18 @@ function do_push() {
         
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ CMS code committed and sent to GitHub."
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending CMS commits. Pushing now..."
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Pending CMS code sent to GitHub."
         else
              echo "      (CMS is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
         fi
 
         if [ -n "$TAG_NAME" ]; then
@@ -426,14 +437,18 @@ function do_push() {
         
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Narratives committed and sent to GitHub."
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending Narratives commits. Pushing now..."
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Pending Narratives code sent to GitHub."
         else
              echo "      (Narratives are clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
         fi
 
         if [ -n "$TAG_NAME" ]; then
@@ -452,14 +467,18 @@ function do_push() {
         
         if ! git diff-index --quiet HEAD --; then
              git commit -m "$COMMIT_MSG"
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Nebulae committed and sent to GitHub."
         elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
              echo "      ⚠️  Found pending Nebulae commits. Pushing now..."
-             git push origin main
+             git push $FORCE_FLAG origin main
              echo "      ✓ Pending Nebulae code sent to GitHub."
         else
              echo "      (Nebulae is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
         fi
 
         if [ -n "$TAG_NAME" ]; then
@@ -481,22 +500,24 @@ function do_push() {
         echo "      > Committing changes..."
         git commit -m "$COMMIT_MSG"
         echo "      > Pushing to remote..."
-        git push --progress origin main
+        git push $FORCE_FLAG --progress origin main
         echo "      ✓ Workspace synced to GitHub."
     elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
         echo "      ⚠️  Found pending commits. Pushing now..."
-        git push --progress origin main
+        git push $FORCE_FLAG --progress origin main
         echo "      ✓ Pending workspace changes sent to GitHub."
     else
         echo "      (Assets repo looks unchanged.)"
+        if [ -n "$FORCE_FLAG" ]; then
+            echo "      ⚠️  Force pushing anyway..."
+            git push $FORCE_FLAG --progress origin main
+        fi
     fi
     
     # 6. CDN SYNC
     echo "   3. Beaming heavy assets to the CDN..."
     
     # PASS 1: The Public Payload
-    # Using "**/vault/**" tells rclone to exclude ANY folder named 'vault' 
-    # no matter where it lives inside the assets root.
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \
         --exclude "/_workspace/**" \
@@ -511,8 +532,6 @@ function do_push() {
         $RCLONE_PERF_FLAGS
         
     # PASS 2: The Secure Vaults
-    # Using "--include" tells rclone to ignore everything else and ONLY sync 
-    # the nested vault folders, explicitly locking them down.
     echo "   4. Securing the Premium Vaults..."
     "$RCLONE_BIN" copy "$ASSETS_ROOT" do-spaces:assets.raggiesoft.com \
         --config "$RCLONE_CONF" \
@@ -528,12 +547,14 @@ ACTION=""
 COMMIT_MSG=""
 TAG_NAME=""
 USE_PUBLIC_WIFI=false
+FORCE_FLAG=""
 
 while [[ "$#" -gt 0 ]]; do
     case $1 in
         --push) ACTION="push" ;;
         --pull) ACTION="pull" ;;
         --audit) ACTION="audit" ;;
+        --force) FORCE_FLAG="--force" ;;
         --msg|-m) COMMIT_MSG="$2"; shift ;;
         --tag|-t) TAG_NAME="$2"; shift ;;
         --public-wifi) USE_PUBLIC_WIFI=true ;;

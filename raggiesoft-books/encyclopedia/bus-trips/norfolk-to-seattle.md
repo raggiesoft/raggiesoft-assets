@@ -1,6 +1,6 @@
 # Bus Trip from Norfolk
 ## Virginia (Starting Point) 
-* Norfolk (Departure City) [we use CVTA buses to get from Portsmouth to Norfolk: Route 85 to Route 47 to Route 45 to Route 2, and the 2 drops off about a block from the Norfolk Pathfinder terminal]
+* Norfolk (Departure City)
 * Richmond (Bus Change)
 * Charlottesville (Stop)
 * Staunton (Stop, implied restroom/rest stop)

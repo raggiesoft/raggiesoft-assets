@@ -12,9 +12,7 @@
 
 ### Morning — Departure Phase
 - **Norfolk, VA — Departure**
-  - Arrival via CVTA local buses:
-    - Route 85 → Route 47 → Route 45 → Route 2
-  - Pathfinder terminal located ~1 block from Route 2 stop
+  - Departure location. This feels like a grand adventure.
 
 - **Richmond, VA — Bus Change**
   - First major transfer hub
