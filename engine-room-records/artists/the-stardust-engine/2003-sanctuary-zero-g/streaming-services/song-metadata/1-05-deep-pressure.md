@@ -4,7 +4,7 @@
 * **Track Title:** Deep Pressure
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
-* **Real-World DSP Release Date:** 2026-08-18
+* **Real-World DSP Release Date:** 2026-08-31
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

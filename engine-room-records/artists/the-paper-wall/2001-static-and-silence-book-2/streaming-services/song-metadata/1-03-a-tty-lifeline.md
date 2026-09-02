@@ -4,7 +4,7 @@
 * **Track Title:** A TTY Lifeline
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-08-18
+* **Real-World DSP Release Date:** 2026-08-31
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

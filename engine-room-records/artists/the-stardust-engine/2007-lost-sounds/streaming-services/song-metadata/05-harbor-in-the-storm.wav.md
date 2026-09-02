@@ -4,7 +4,7 @@
 * **Track Title:** Harbor in the Storm
 * **Primary Artist:** 
 * **Genre:** Archival Compilation
-* **Real-World DSP Release Date:** 2026-08-18
+* **Real-World DSP Release Date:** 2026-08-31
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

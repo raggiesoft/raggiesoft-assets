@@ -4,7 +4,7 @@
 * **Track Title:** Salt Lake Despair
 * **Primary Artist:** The Winter Palace
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-08-18
+* **Real-World DSP Release Date:** 2026-08-31
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
