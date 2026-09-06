@@ -1,0 +1,14 @@
+{
+  "id": "emily_miller",
+  "firstName": "Emily",
+  "lastName": "Miller",
+  "gender": "F",
+  "birthDate": "1980-12-05",
+  "birthPlace": "NPT-NAVHOS",
+  "parents": ["peter_miller", "susan_miller"],
+  "siblings": ["rachel_miller"],
+  "familyOfOrigin": "miller_peter_core",
+  "attributes": {
+    "socialRole": "Cousin / The Flock"
+  }
+}

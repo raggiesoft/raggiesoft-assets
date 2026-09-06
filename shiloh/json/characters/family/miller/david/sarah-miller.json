@@ -1,0 +1,17 @@
+{
+  "id": "sarah_miller",
+  "firstName": "Sarah",
+  "lastName": "Miller",
+  "gender": "F",
+  "birthDate": "1978-05-02",
+  "birthPlace": "NPT-HOS",
+  "standingHeight": "6'4\"",
+  "parents": ["david_miller", "linda_miller"],
+  "siblings": ["matt_miller"],
+  "familyOfOrigin": "miller_david_core",
+  "attributes": {
+    "career": "LPN / Future MD",
+    "physical": "Natural Bodybuilder",
+    "role": "Primary Protector / Legal Guardian"
+  }
+}

@@ -1,0 +1,362 @@
+{
+    "hospitals": {
+        "NPT-HOS": {
+            "name": "Newport Hospital",
+            "type": "Civilian Hospital",
+            "city": "Newport",
+            "state": "US-RI",
+            "lat": 41.4969,
+            "long": -71.3061
+        },
+        "NPT-NAVHOS": {
+            "name": "Naval Hospital Newport",
+            "type": "Military Hospital",
+            "city": "Newport",
+            "state": "US-RI",
+            "lat": 41.5045,
+            "long": -71.3214
+        },
+        "PVD-HOS": {
+            "name": "Rhode Island Hospital / Women & Infants",
+            "type": "Civilian Hospital",
+            "city": "Providence",
+            "state": "US-RI",
+            "lat": 41.8112,
+            "long": -71.4126
+        },
+        "QCY-MED": {
+            "name": "Quincy Medical Center",
+            "type": "Civilian Hospital",
+            "city": "Quincy",
+            "state": "US-MA"
+        },
+        "BOS-STM": {
+            "name": "St. Margaret's Hospital",
+            "type": "Civilian Hospital",
+            "city": "Boston",
+            "state": "US-MA"
+        },
+        "BOS-NEH": {
+            "name": "New England Hospital for Women and Children",
+            "type": "Civilian Hospital",
+            "city": "Boston",
+            "state": "US-MA"
+        },
+        "UVA-HOS": {
+            "name": "UVA Health System",
+            "type": "Teaching Hospital",
+            "city": "Charlottesville",
+            "state": "US-VA"
+        },
+        "CVL-SMJ": {
+            "name": "Sentara Martha Jefferson Hospital",
+            "type": "Civilian Hospital",
+            "city": "Charlottesville",
+            "state": "US-VA"
+        },
+        "ORF-SNG": {
+            "name": "Sentara Norfolk General Hospital",
+            "type": "Civilian Hospital",
+            "city": "Norfolk",
+            "state": "US-VA"
+        },
+        "PTM-NMCP": {
+            "name": "Naval Medical Center Portsmouth",
+            "type": "Military Hospital",
+            "city": "Portsmouth",
+            "state": "US-VA"
+        },
+        "VAB-SPA": {
+            "name": "Sentara Princess Anne Hospital",
+            "type": "Civilian Hospital",
+            "city": "Virginia Beach",
+            "state": "US-VA"
+        }
+    },
+    "katrina_brooks": {
+        "id": "katrina_brooks",
+        "firstName": "Katrina",
+        "lastName": "Brooks",
+        "gender": "F",
+        "birthDate": "1955-08-14",
+        "spouses": [
+            "casper_brooks"
+        ],
+        "children": [
+            "chloe_brooks",
+            "jessica_brooks",
+            "shiloh_brooks"
+        ],
+        "siblings": [
+            "linda_miller"
+        ],
+        "familyCreated": [
+            "brooks_casper_core"
+        ],
+        "attributes": {
+            "career": "Tenured Professor - Piedmont State University",
+            "timeline": "Relocated to Charlottesville by 1980. Visited Newport in May 1981 when Shiloh was born.",
+            "role": "Legal Guardian"
+        }
+    },
+    "casper_brooks": {
+        "id": "casper_brooks",
+        "firstName": "Casper",
+        "lastName": "Brooks",
+        "gender": "M",
+        "birthDate": "1950-11-08",
+        "spouses": [
+            "katrina_brooks"
+        ],
+        "children": [
+            "chloe_brooks",
+            "shiloh_brooks",
+            "jessica_brooks"
+        ],
+        "familyCreated": [
+            "brooks_casper_core"
+        ],
+        "attributes": {
+            "role": "Girl Dad"
+        }
+    },
+    "jessica_brooks": {
+        "id": "jessica_brooks",
+        "firstName": "Jessica",
+        "lastName": "Brooks",
+        "gender": "F",
+        "birthDate": "1980-02-28",
+        "birthPlace": "UVA-HOS",
+        "parents": [
+            "casper_brooks",
+            "katrina_brooks"
+        ],
+        "siblings": [
+            "chloe_brooks",
+            "shiloh_brooks"
+        ],
+        "familyOfOrigin": "brooks_casper_core",
+        "attributes": {
+            "socialRole": "Cousin / The Flock"
+        }
+    },
+    "chloe_brooks": {
+        "id": "chloe_brooks",
+        "firstName": "Chloe",
+        "lastName": "Brooks",
+        "gender": "F",
+        "birthDate": "1976-10-12",
+        "birthPlace": "NPT-HOS",
+        "parents": [
+            "casper_brooks",
+            "katrina_brooks"
+        ],
+        "siblings": [
+            "shiloh_brooks",
+            "jessica_brooks"
+        ],
+        "familyOfOrigin": "brooks_casper_core",
+        "attributes": {
+            "socialRole": "Cousin / The Flock"
+        }
+    },
+    "shiloh_brooks": {
+        "id": "shiloh_brooks",
+        "firstName": "Shiloh",
+        "lastName": "Brooks",
+        "gender": "F",
+        "birthDate": "1981-05-02",
+        "birthPlace": "NPT-HOS",
+        "parents": [
+            "casper_brooks",
+            "katrina_brooks"
+        ],
+        "siblings": [
+            "chloe_brooks",
+            "jessica_brooks"
+        ],
+        "familyOfOrigin": "brooks_casper_core",
+        "attributes": {
+            "career": "LPN",
+            "medical": "Spastic Diplegia",
+            "role": "Player Two / Teddy Bear / Legal Guardian"
+        }
+    },
+    "peter_miller": {
+        "id": "peter_miller",
+        "firstName": "Peter",
+        "lastName": "Miller",
+        "gender": "M",
+        "birthDate": "1945-11-04",
+        "siblings": [
+            "david_miller"
+        ],
+        "spouses": [
+            "susan_miller"
+        ],
+        "children": [
+            "rachel_miller",
+            "emily_miller"
+        ],
+        "attributes": {
+            "career": "US Navy - Master Chief Fire Controlman (Ret.)",
+            "militaryArc": "30 Years. Stationed in Newport early 1980s. PCS to Norfolk in 1985. Retired in Hampton Roads.",
+            "role": "Girl Dad / The Anchor"
+        }
+    },
+    "rachel_miller": {
+        "id": "rachel_miller",
+        "firstName": "Rachel",
+        "lastName": "Miller",
+        "gender": "F",
+        "birthDate": "1978-09-18",
+        "birthPlace": "NPT-NAVHOS",
+        "parents": [
+            "peter_miller",
+            "susan_miller"
+        ],
+        "siblings": [
+            "emily_miller"
+        ],
+        "familyOfOrigin": "miller_peter_core",
+        "attributes": {
+            "socialRole": "Cousin / The Flock"
+        }
+    },
+    "emily_miller": {
+        "id": "emily_miller",
+        "firstName": "Emily",
+        "lastName": "Miller",
+        "gender": "F",
+        "birthDate": "1980-12-05",
+        "birthPlace": "NPT-NAVHOS",
+        "parents": [
+            "peter_miller",
+            "susan_miller"
+        ],
+        "siblings": [
+            "rachel_miller"
+        ],
+        "familyOfOrigin": "miller_peter_core",
+        "attributes": {
+            "socialRole": "Cousin / The Flock"
+        }
+    },
+    "susan_miller": {
+        "id": "susan_miller",
+        "firstName": "Susan",
+        "lastName": "Miller",
+        "gender": "F",
+        "birthDate": "1948-06-12",
+        "spouses": [
+            "peter_miller"
+        ],
+        "children": [
+            "rachel_miller",
+            "emily_miller"
+        ],
+        "familyCreated": [
+            "miller_peter_core"
+        ],
+        "attributes": {
+            "role": "Navy Wife / Matriarch"
+        }
+    },
+    "matt_miller": {
+        "id": "matt_miller",
+        "firstName": "Matt",
+        "lastName": "Miller",
+        "gender": "M",
+        "birthDate": "1981-05-02",
+        "standingHeight": "5'7\"",
+        "parents": [
+            "david_miller",
+            "linda_miller"
+        ],
+        "siblings": [
+            "sarah_miller"
+        ],
+        "familyOfOrigin": "miller_david_core",
+        "attributes": {
+            "socialRole": "Man of Honor / One of the Girls",
+            "medical": [
+                "Dyspraxia",
+                "Non-verbal",
+                "Sensory Processing Disorder",
+                "Asynchronous Development"
+            ],
+            "notes": "Included in all female-centric family events."
+        }
+    },
+    "sarah_miller": {
+        "id": "sarah_miller",
+        "firstName": "Sarah",
+        "lastName": "Miller",
+        "gender": "F",
+        "birthDate": "1978-05-02",
+        "birthPlace": "NPT-HOS",
+        "standingHeight": "6'4\"",
+        "parents": [
+            "david_miller",
+            "linda_miller"
+        ],
+        "siblings": [
+            "matt_miller"
+        ],
+        "familyOfOrigin": "miller_david_core",
+        "attributes": {
+            "career": "LPN / Future MD",
+            "physical": "Natural Bodybuilder",
+            "role": "Primary Protector / Legal Guardian"
+        }
+    },
+    "david_miller": {
+        "id": "david_miller",
+        "firstName": "David",
+        "lastName": "Miller",
+        "gender": "M",
+        "birthDate": "1951-09-14",
+        "standingHeight": "6'11\"",
+        "spouses": [
+            "linda_miller"
+        ],
+        "children": [
+            "sarah_miller",
+            "matt_miller"
+        ],
+        "siblings": [
+            "peter_miller"
+        ],
+        "familyCreated": [
+            "miller_david_core"
+        ],
+        "attributes": {
+            "physical": "Natural Bodybuilder",
+            "role": "Girl Dad / Legal Guardian"
+        }
+    },
+    "linda_miller": {
+        "id": "linda_miller",
+        "firstName": "Linda",
+        "lastName": "Miller",
+        "gender": "F",
+        "birthDate": "1953-03-22",
+        "standingHeight": "5'5\"",
+        "spouses": [
+            "david_miller"
+        ],
+        "children": [
+            "sarah_miller",
+            "matt_miller"
+        ],
+        "siblings": [
+            "katrina_brooks"
+        ],
+        "familyCreated": [
+            "miller_david_core"
+        ],
+        "attributes": {
+            "role": "Legal Guardian"
+        }
+    }
+}

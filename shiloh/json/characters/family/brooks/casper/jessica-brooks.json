@@ -1,0 +1,14 @@
+{
+  "id": "jessica_brooks",
+  "firstName": "Jessica",
+  "lastName": "Brooks",
+  "gender": "F",
+  "birthDate": "1980-02-28",
+  "birthPlace": "UVA-HOS",
+  "parents": ["casper_brooks", "katrina_brooks"],
+  "siblings": ["chloe_brooks", "shiloh_brooks"],
+  "familyOfOrigin": "brooks_casper_core",
+  "attributes": {
+    "socialRole": "Cousin / The Flock"
+  }
+}

@@ -20638,7 +20638,7 @@ Common Pitfall: If you set 'theme' => 'gloom', you MUST have root.css, extras.cs
     "album": "Neon Hearts",
     "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/1989-neon-hearts",
     "type": "track",
-    "content": "**LORE NOTE:**\r\nRyan's final laugh. As \"punishment\" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding \"pounding drums\" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat[cite: 353]. It was a subtle, rhythmic \"middle finger\" to the executives who tried to silence the \"Engine.\"\r\n\r\n**LYRICS:**\r\n\r\n(Verse 1)\r\nThe stage is empty, the crowd is gone\r\nAnother night, another dawn\r\nWe played the part, we sang the song\r\nAnd now we have to move along\r\n\r\n(Verse 2)\r\nThe neon heart is turning low\r\nIt's just a faded, distant glow\r\nIs this the dream we wanted so?\r\nI guess we'll never know\r\n\r\n(Chorus)\r\nWe're just echoes in the city\r\nIt's not so bad, it's not so pretty\r\nJust echoes, turning to gray\r\nWe'll come back and fight another day\r\n\r\n(Bridge)\r\n(A soft, melodic acoustic guitar solo, underscored by the rhythmic slapping of the guitar body)\r\nAnother day...\r\nAnother way...\r\n\r\n(Chorus)\r\nWe're just echoes in the city\r\nIt's not so bad, it's not so pretty\r\nJust echoes, turning to gray\r\nWe'll come back and fight another day\r\n\r\n(Outro)\r\nAfter the show...\r\nGoodnight...\r\n(fades out on acoustic guitar)"
+    "content": "**LORE NOTE:**\r\nRyan's final laugh. As \"punishment\" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding \"pounding drums\" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic \"middle finger\" to the executives who tried to silence the \"Engine.\"\r\n\r\n**LYRICS:**\r\n\r\n(Verse 1)\r\nThe stage is empty, the crowd is gone\r\nAnother night, another dawn\r\nWe played the part, we sang the song\r\nAnd now we have to move along\r\n\r\n(Verse 2)\r\nThe neon heart is turning low\r\nIt's just a faded, distant glow\r\nIs this the dream we wanted so?\r\nI guess we'll never know\r\n\r\n(Chorus)\r\nWe're just echoes in the city\r\nIt's not so bad, it's not so pretty\r\nJust echoes, turning to gray\r\nWe'll come back and fight another day\r\n\r\n(Bridge)\r\n(A soft, melodic acoustic guitar solo, underscored by the rhythmic slapping of the guitar body)\r\nAnother day...\r\nAnother way...\r\n\r\n(Chorus)\r\nWe're just echoes in the city\r\nIt's not so bad, it's not so pretty\r\nJust echoes, turning to gray\r\nWe'll come back and fight another day\r\n\r\n(Outro)\r\nAfter the show...\r\nGoodnight...\r\n(fades out on acoustic guitar)"
   },
   {
     "id": "1-01-the-stardust-engine-live-in-chicago",
@@ -24494,7 +24494,7 @@ Shadow dancing...
 // TRACK NO:   12
 ------------------------------------------------------------------
 **LORE NOTE:**
-Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat[cite: 353]. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
+Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
 
 **LYRICS:**
 
@@ -57419,7 +57419,7 @@ $pageTitle = "Strategic Assets - Engine Room Records";
                             <div class="col-6">
                                 <ul class="list-unstyled text-muted">
                                     <li class="mb-2"><strong>Hardware:</strong> 24k Gold Plated (Corrosion Resist)</li>
-                                    [cite_start]<li class="mb-2"><strong>Snare:</strong> The "Gated Reverb" Custom [cite: 74]</li>
+                                    [cite_start]<li class="mb-2"><strong>Snare:</strong> The "Gated Reverb" Custom </li>
                                     <li class="mb-2"><strong>Status:</strong> Tour Ready</li>
                                 </ul>
                             </div>

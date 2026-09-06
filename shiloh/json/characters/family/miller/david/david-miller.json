@@ -1,0 +1,16 @@
+{
+  "id": "david_miller",
+  "firstName": "David",
+  "lastName": "Miller",
+  "gender": "M",
+  "birthDate": "1951-09-14",
+  "standingHeight": "6'11\"",
+  "spouses": ["linda_miller"],
+  "children": ["sarah_miller", "matt_miller"],
+  "siblings": ["peter_miller"],
+  "familyCreated": ["miller_david_core"],
+  "attributes": {
+    "physical": "Natural Bodybuilder",
+    "role": "Girl Dad / Legal Guardian"
+  }
+}

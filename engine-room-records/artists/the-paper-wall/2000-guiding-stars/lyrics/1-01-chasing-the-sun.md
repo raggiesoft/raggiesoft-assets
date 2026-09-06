@@ -1,7 +1,7 @@
 # Chasing the Sun
 
 **LORE NOTE:**
-This track serves as an upbeat, triumphant 80s heartland rock anthem that establishes the foundation of Leo's "found family"[cite: 11]. Driven by bright synthesizers and soaring electric guitars, the song captures the pure, unfiltered optimism of a carefree summer road trip shared by Leo, his twin sister Luna, his older sister Stella, and his best friend Olivia[cite: 11]. It highlights their profound bond and youthful energy, setting a joyful and hopeful baseline before the darker events of their future unfold[cite: 11].
+This track serves as an upbeat, triumphant 80s heartland rock anthem that establishes the foundation of Leo's "found family". Driven by bright synthesizers and soaring electric guitars, the song captures the pure, unfiltered optimism of a carefree summer road trip shared by Leo, his twin sister Luna, his older sister Stella, and his best friend Olivia. It highlights their profound bond and youthful energy, setting a joyful and hopeful baseline before the darker events of their future unfold.
 
 **LYRICS:**
 

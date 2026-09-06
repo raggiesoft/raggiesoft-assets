@@ -1,0 +1,16 @@
+{
+  "id": "matt_miller",
+  "firstName": "Matt",
+  "lastName": "Miller",
+  "gender": "M",
+  "birthDate": "1981-05-02",
+  "standingHeight": "5'7\"",
+  "parents": ["david_miller", "linda_miller"],
+  "siblings": ["sarah_miller"],
+  "familyOfOrigin": "miller_david_core",
+  "attributes": {
+    "socialRole": "Man of Honor / One of the Girls",
+    "medical": ["Dyspraxia", "Non-verbal", "Sensory Processing Disorder", "Asynchronous Development"],
+    "notes": "Included in all female-centric family events."
+  }
+}

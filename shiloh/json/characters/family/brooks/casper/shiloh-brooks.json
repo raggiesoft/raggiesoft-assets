@@ -1,0 +1,16 @@
+{
+  "id": "shiloh_brooks",
+  "firstName": "Shiloh",
+  "lastName": "Brooks",
+  "gender": "F",
+  "birthDate": "1981-05-02",
+  "birthPlace": "NPT-HOS",
+  "parents": ["casper_brooks", "katrina_brooks"],
+  "siblings": ["chloe_brooks", "jessica_brooks"],
+  "familyOfOrigin": "brooks_casper_core",
+  "attributes": {
+    "career": "LPN",
+    "medical": "Spastic Diplegia",
+    "role": "Player Two / Teddy Bear / Legal Guardian"
+  }
+}

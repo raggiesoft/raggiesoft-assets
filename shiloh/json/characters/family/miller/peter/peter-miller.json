@@ -1,0 +1,15 @@
+{
+  "id": "peter_miller",
+  "firstName": "Peter",
+  "lastName": "Miller",
+  "gender": "M",
+  "birthDate": "1945-11-04",
+  "siblings": ["david_miller"],
+  "spouses": ["susan_miller"],
+  "children": ["rachel_miller", "emily_miller"],
+  "attributes": {
+    "career": "US Navy - Master Chief Fire Controlman (Ret.)",
+    "militaryArc": "30 Years. Stationed in Newport early 1980s. PCS to Norfolk in 1985. Retired in Hampton Roads.",
+    "role": "Girl Dad / The Anchor"
+  }
+}

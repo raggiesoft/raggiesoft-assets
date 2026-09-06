@@ -1,0 +1,14 @@
+{
+  "id": "rachel_miller",
+  "firstName": "Rachel",
+  "lastName": "Miller",
+  "gender": "F",
+  "birthDate": "1978-09-18",
+  "birthPlace": "NPT-NAVHOS",
+  "parents": ["peter_miller", "susan_miller"],
+  "siblings": ["emily_miller"],
+  "familyOfOrigin": "miller_peter_core",
+  "attributes": {
+    "socialRole": "Cousin / The Flock"
+  }
+}

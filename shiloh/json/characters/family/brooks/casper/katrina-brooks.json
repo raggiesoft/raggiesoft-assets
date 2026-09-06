@@ -1,0 +1,16 @@
+{
+  "id": "katrina_brooks",
+  "firstName": "Katrina",
+  "lastName": "Brooks",
+  "gender": "F",
+  "birthDate": "1955-08-14",
+  "spouses": ["casper_brooks"],
+  "children": ["chloe_brooks", "jessica_brooks", "shiloh_brooks"],
+  "siblings": ["linda_miller"],
+  "familyCreated": ["brooks_casper_core"],
+  "attributes": {
+    "career": "Tenured Professor - Piedmont State University",
+    "timeline": "Relocated to Charlottesville by 1980. Visited Newport in May 1981 when Shiloh was born.",
+    "role": "Legal Guardian"
+  }
+}

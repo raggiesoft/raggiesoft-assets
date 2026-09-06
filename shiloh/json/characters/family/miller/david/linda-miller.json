@@ -1,0 +1,15 @@
+{
+  "id": "linda_miller",
+  "firstName": "Linda",
+  "lastName": "Miller",
+  "gender": "F",
+  "birthDate": "1953-03-22",
+  "standingHeight": "5'5\"",
+  "spouses": ["david_miller"],
+  "children": ["sarah_miller", "matt_miller"],
+  "siblings": ["katrina_brooks"],
+  "familyCreated": ["miller_david_core"],
+  "attributes": {
+    "role": "Legal Guardian"
+  }
+}

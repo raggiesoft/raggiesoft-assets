@@ -471,7 +471,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $floor = document.getElementById('trackAssemblyFloor');
             
             let currentTrackIndex = $floor.children.length + 1;
-            let defaultDiscName = (discNumber === 2) ? "The Journey Home" : "The Long Road West";[cite: 7]
+            let defaultDiscName = (discNumber === 2) ? "The Journey Home" : "The Long Road West";
             
             let blueprint = `
                 <div class="track-block" id="block_${sequentialCounter}">

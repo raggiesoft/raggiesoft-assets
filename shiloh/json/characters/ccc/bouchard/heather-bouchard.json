@@ -1,0 +1,16 @@
+{
+  "id": "heather_bouchard",
+  "firstName": "Heather",
+  "lastName": "Bouchard",
+  "gender": "F",
+  "birthDate": "1980-09-12",
+  "siblings": [
+    "hailey_bouchard"
+  ],
+  "attributes": {
+    "role": "CCC Peer / Former Romantic Interest",
+    "major": "Nuclear Medicine",
+    "psychologicalProfile": "Autistic (Undiagnosed / Unarticulated Burnout)",
+    "status": "Inactive / Disconnected"
+  }
+}

@@ -251,7 +251,7 @@ Inappropriate.
 # The Silly College Experiment (Astrophysics)
 
 **LORE NOTE:**
-This track explores Aubrie Sinclair's manipulative mindset regarding Jordan's enrollment at Commonwealth Polytechnic Institute. She views his desire for higher education as a "silly college experiment" and deliberately sets him up to fail by selecting Astrophysics—a highly complex and mathematically demanding major—as his degree path[cite: 1]. Her intention is not for him to succeed, but to use this "insurmountable mountain" to prove his incompetence, shatter his confidence, and force him to return home, cementing his lifelong dependency on her[cite: 1].
+This track explores Aubrie Sinclair's manipulative mindset regarding Jordan's enrollment at Commonwealth Polytechnic Institute. She views his desire for higher education as a "silly college experiment" and deliberately sets him up to fail by selecting Astrophysics—a highly complex and mathematically demanding major—as his degree path. Her intention is not for him to succeed, but to use this "insurmountable mountain" to prove his incompetence, shatter his confidence, and force him to return home, cementing his lifelong dependency on her.
 
 **LYRICS:**
 

@@ -1,0 +1,13 @@
+{
+  "id": "casper_brooks",
+  "firstName": "Casper",
+  "lastName": "Brooks",
+  "gender": "M",
+  "birthDate": "1950-11-08",
+  "spouses": ["katrina_brooks"],
+  "children": ["chloe_brooks", "shiloh_brooks", "jessica_brooks"],
+  "familyCreated": ["brooks_casper_core"],
+  "attributes": {
+    "role": "Girl Dad"
+  }
+}

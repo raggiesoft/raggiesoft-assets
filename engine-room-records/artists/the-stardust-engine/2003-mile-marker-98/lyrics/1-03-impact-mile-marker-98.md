@@ -4,9 +4,9 @@ Translating the events of December 10, 1990, this track is the cosmic recreation
 **LYRICS:**
 
 **LORE NOTE:**
-This track transposes the defining tragedy of the band's history into the cosmos. On December 10, 1990, Ryan was driving the band's 1988 Holt Freighter Van on Interstate 81 Northbound near Exit 98[cite: 8]. Attempting to beat a winter storm, he was driving cautiously at 40 MPH with hazard lights active when a speeding commercial sedan lost control on the iced road and clipped the van's rear quarter panel[cite: 8]. The collision caused the van to spin off the roadway and roll twice into an embankment[cite: 8]. 
+This track transposes the defining tragedy of the band's history into the cosmos. On December 10, 1990, Ryan was driving the band's 1988 Holt Freighter Van on Interstate 81 Northbound near Exit 98. Attempting to beat a winter storm, he was driving cautiously at 40 MPH with hazard lights active when a speeding commercial sedan lost control on the iced road and clipped the van's rear quarter panel. The collision caused the van to spin off the roadway and roll twice into an embankment. 
 
-While the rest of the family escaped with minor injuries, Ryan was pinned in the wreckage and had to be airlifted to Star City General Hospital[cite: 8]. The crash left him with a complete T10 spinal cord injury, resulting in the permanent loss of all function and sensation below his waist[cite: 8]. 
+While the rest of the family escaped with minor injuries, Ryan was pinned in the wreckage and had to be airlifted to Star City General Hospital. The crash left him with a complete T10 spinal cord injury, resulting in the permanent loss of all function and sensation below his waist. 
 
 *Impact* translates this terrestrial nightmare into a cosmic collision. Operating from Ryan's point of view, the song describes his vessel being struck by a high-velocity fragment in the newly created debris field. Sonically, it pivots away from the 1990s industrial tone of the previous track to embrace a heavy, driving 1980s hard rock sound.
 

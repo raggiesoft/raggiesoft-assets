@@ -1,0 +1,76 @@
+{
+  "hospitals": {
+    "NPT-HOS": {
+      "name": "Newport Hospital",
+      "type": "Civilian Hospital",
+      "city": "Newport",
+      "state": "US-RI",
+      "lat": 41.4969,
+      "long": -71.3061
+    },
+    "NPT-NAVHOS": {
+      "name": "Naval Hospital Newport",
+      "type": "Military Hospital",
+      "city": "Newport",
+      "state": "US-RI",
+      "lat": 41.5045,
+      "long": -71.3214
+    },
+    "PVD-HOS": {
+      "name": "Rhode Island Hospital / Women & Infants",
+      "type": "Civilian Hospital",
+      "city": "Providence",
+      "state": "US-RI",
+      "lat": 41.8112,
+      "long": -71.4126
+    },
+    "QCY-MED": {
+      "name": "Quincy Medical Center",
+      "type": "Civilian Hospital",
+      "city": "Quincy",
+      "state": "US-MA"
+    },
+    "BOS-STM": {
+      "name": "St. Margaret's Hospital",
+      "type": "Civilian Hospital",
+      "city": "Boston",
+      "state": "US-MA"
+    },
+    "BOS-NEH": {
+      "name": "New England Hospital for Women and Children",
+      "type": "Civilian Hospital",
+      "city": "Boston",
+      "state": "US-MA"
+    },
+    "UVA-HOS": {
+      "name": "UVA Health System",
+      "type": "Teaching Hospital",
+      "city": "Charlottesville",
+      "state": "US-VA"
+    },
+    "CVL-SMJ": {
+      "name": "Sentara Martha Jefferson Hospital",
+      "type": "Civilian Hospital",
+      "city": "Charlottesville",
+      "state": "US-VA"
+    },
+    "ORF-SNG": {
+      "name": "Sentara Norfolk General Hospital",
+      "type": "Civilian Hospital",
+      "city": "Norfolk",
+      "state": "US-VA"
+    },
+    "PTM-NMCP": {
+      "name": "Naval Medical Center Portsmouth",
+      "type": "Military Hospital",
+      "city": "Portsmouth",
+      "state": "US-VA"
+    },
+    "VAB-SPA": {
+      "name": "Sentara Princess Anne Hospital",
+      "type": "Civilian Hospital",
+      "city": "Virginia Beach",
+      "state": "US-VA"
+    }
+  }
+}

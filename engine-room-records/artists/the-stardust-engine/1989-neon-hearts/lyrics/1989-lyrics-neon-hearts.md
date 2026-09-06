@@ -517,7 +517,7 @@ Shadow dancing...
 ***
 
 **LORE NOTE:**
-Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat[cite: 353]. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
+Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
 
 **LYRICS:**
 

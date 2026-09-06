@@ -1,0 +1,14 @@
+{
+  "id": "chloe_brooks",
+  "firstName": "Chloe",
+  "lastName": "Brooks",
+  "gender": "F",
+  "birthDate": "1976-10-12",
+  "birthPlace": "NPT-HOS",
+  "parents": ["casper_brooks", "katrina_brooks"],
+  "siblings": ["shiloh_brooks", "jessica_brooks"],
+  "familyOfOrigin": "brooks_casper_core",
+  "attributes": {
+    "socialRole": "Cousin / The Flock"
+  }
+}

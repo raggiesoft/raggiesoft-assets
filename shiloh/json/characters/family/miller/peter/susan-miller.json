@@ -1,0 +1,13 @@
+{
+  "id": "susan_miller",
+  "firstName": "Susan",
+  "lastName": "Miller",
+  "gender": "F",
+  "birthDate": "1948-06-12",
+  "spouses": ["peter_miller"],
+  "children": ["rachel_miller", "emily_miller"],
+  "familyCreated": ["miller_peter_core"],
+  "attributes": {
+    "role": "Navy Wife / Matriarch"
+  }
+}

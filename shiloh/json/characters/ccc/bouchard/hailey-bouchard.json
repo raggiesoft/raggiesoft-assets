@@ -1,0 +1,15 @@
+{
+  "id": "hailey_bouchard",
+  "firstName": "Hailey",
+  "lastName": "Bouchard",
+  "gender": "F",
+  "birthDate": "1980-09-12",
+  "siblings": [
+    "heather_bouchard"
+  ],
+  "attributes": {
+    "role": "CCC Peer",
+    "major": "Desktop Publishing",
+    "status": "Inactive / Disconnected"
+  }
+}
