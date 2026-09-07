@@ -1,0 +1,34 @@
+{
+  "garage": {
+    "label": "The Garage Era",
+    "heading": "2000-2005: The Garage Sessions",
+    "description": "The band's earliest recordings were entirely managed by Matt Miller and tracked in the heavily modified, acoustic-dampened garage of the Albemarle County Kids House.",
+    "albums": [
+      {
+        "title": "Crimson Node",
+        "year": "2000",
+        "url": "/engine-room/artists/crimson-node/discography/2002-crimson-node",
+        "folder": "2002-crimson-node",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/crimson-node/2002-crimson-node/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
+      }
+    ]
+  },
+  "studio": {
+    "label": "The Studio Era",
+    "heading": "2006-2010: Engine Room Production",
+    "description": "Following their graduation and the compound's evolution, the band shifted production out of the garage, utilizing Engine Room Records' heavy analog hardware for their sophisticated sophomore sound.",
+    "albums": []
+  },
+  "modern": {
+    "label": "The Archival Era",
+    "heading": "2026-Present: The Master Tapes",
+    "description": "After two decades locked in the vault, Matt Miller initiated the global release of the band's entire catalog, meticulously distributing the raw, independent sound of the Kids House to modern digital networks.",
+    "albums": []
+  }
+}

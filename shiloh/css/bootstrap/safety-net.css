@@ -1,0 +1,38 @@
+/* safety-net.css (Crimson Node - Vanguard Update) */
+
+/* 1. Typography Fallbacks */
+body {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4 {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* 2. Dark Mode Legibility Fail-Safe */
+[data-bs-theme="dark"] body {
+    background-color: #0D0D0D !important; /* Chassis Black */
+    color: #E6E6E6 !important; 
+}
+
+[data-bs-theme="dark"] a {
+    color: #FF3333 !important; /* Glowing Crimson fallback */
+}
+
+/* Fix button outlines on dark bg */
+[data-bs-theme="dark"] .btn-outline-secondary { 
+    color: #66B2FF; 
+    border-color: #66B2FF; 
+}
+[data-bs-theme="dark"] .btn-outline-secondary:hover { 
+    background-color: #66B2FF; 
+    color: #0D0D0D; 
+}

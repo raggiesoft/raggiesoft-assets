@@ -1,0 +1,98 @@
+/* ==========================================================================
+ * CRIMSON NODE THEME (WCAG AA Compliant)
+ * Concept: The Vanguard LogicPad & The Aesthetic of Wonder
+ * ========================================================================== */
+
+/* --- Light Mode (Default: The Clinical GUI) --- */
+:root,
+[data-bs-theme="light"] {
+  /* Core Brand Colors */
+  --bs-primary: #CC0000;       /* Vanguard Crimson */
+  --bs-secondary: #0044CC;     /* Tactile Blue */
+  
+  /* UI Background & Text */
+  --bs-body-bg: #F8F9FA;       /* Clean Light UI */
+  --bs-body-color: #1A1A1A;    /* High Contrast Dark Text */
+  
+  /* RGB Variables for extras.css (Glows & HUDs) */
+  --bs-primary-rgb: 204, 0, 0;
+  --bs-secondary-rgb: 0, 68, 204;
+  --bs-body-bg-rgb: 248, 249, 250;
+  --bs-body-color-rgb: 26, 26, 26;
+
+  /* Links & Borders */
+  --bs-link-color: #B30000;    /* Darker Red for standard links */
+  --bs-link-hover-color: #800000;
+  --bs-border-color: #D1D1E0;
+  --bs-border-color-translucent: rgba(0, 0, 0, 0.15);
+  
+  /* Semantic Colors (Tweaked for AA Contrast) */
+  --bs-success: #007A3D;       /* Safe Mode Green */
+  --bs-warning: #B37700;       /* System Alert Orange */
+  --bs-info: #0055FF;          /* Blue UI Element */
+  --bs-danger: #CC0000;
+  
+  --bs-success-rgb: 0, 122, 61;
+  --bs-warning-rgb: 179, 119, 0;
+  --bs-info-rgb: 0, 85, 255;
+}
+
+/* --- Dark Mode (The Matte Black Chassis) --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Core Brand Colors */
+    --bs-primary: #FF3333;      /* Glowing Crimson Node */
+    --bs-secondary: #66B2FF;    /* Wireframe Blue */
+
+    /* UI Background & Text */
+    --bs-body-bg: #0D0D0D;      /* Pristine Matte Black */
+    --bs-body-color: #E6E6E6;   /* Clean UI White */
+    
+    /* RGB Variables for extras.css (Glows & HUDs) */
+    --bs-primary-rgb: 255, 51, 51;
+    --bs-secondary-rgb: 102, 178, 255;
+    --bs-body-bg-rgb: 13, 13, 13;
+    --bs-body-color-rgb: 230, 230, 230;
+
+    /* Links & Borders */
+    --bs-link-color: #FF6666;
+    --bs-link-hover-color: #FF9999;
+    --bs-border-color: #262626;
+    --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
+    --bs-tertiary-bg: #1A1A1A;
+
+    /* Semantic Colors (Brightened for Dark BG AA Contrast) */
+    --bs-success: #00E673;      /* Safe Mode Green */
+    --bs-warning: #FFBB33;      /* System Alert Orange */
+    --bs-info: #3385FF;         /* Blue UI Element */
+    --bs-danger: #FF3333;
+    
+    --bs-success-rgb: 0, 230, 115;
+    --bs-warning-rgb: 255, 187, 51;
+    --bs-info-rgb: 51, 133, 255;
+  }
+}
+
+/* Force Dark Mode Override (JS Toggle Compatibility) */
+[data-bs-theme="dark"] {
+    --bs-primary: #FF3333;
+    --bs-secondary: #66B2FF;
+    --bs-body-bg: #0D0D0D;
+    --bs-body-color: #E6E6E6;
+    --bs-primary-rgb: 255, 51, 51;
+    --bs-secondary-rgb: 102, 178, 255;
+    --bs-body-bg-rgb: 13, 13, 13;
+    --bs-body-color-rgb: 230, 230, 230;
+    --bs-link-color: #FF6666;
+    --bs-link-hover-color: #FF9999;
+    --bs-border-color: #262626;
+    --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
+    --bs-tertiary-bg: #1A1A1A;
+    --bs-success: #00E673; 
+    --bs-warning: #FFBB33;
+    --bs-info: #3385FF;
+    --bs-danger: #FF3333;
+    --bs-success-rgb: 0, 230, 115;
+    --bs-warning-rgb: 255, 187, 51;
+    --bs-info-rgb: 51, 133, 255;
+}
