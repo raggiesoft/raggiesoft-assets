@@ -1,0 +1,169 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-the-flight-path",
+      "title": "The Flight Path",
+      "isrc": "",
+      "masterWavPath": "studio/the-flight-path",
+      "disc": 1,
+      "track": 1,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "The epic progressive rock opener focusing on the precise Call and Response protocol.",
+      "duration": "5:39"
+    },
+    {
+      "fileName": "1-02-crimson-node",
+      "title": "Crimson Node",
+      "isrc": "",
+      "masterWavPath": "studio/crimson-node",
+      "disc": 1,
+      "track": 2,
+      "legacyTier": "Chart Smash",
+      "loreNote": "The band's upbeat, driving synth-pop theme song and mission statement.",
+      "duration": "4:14"
+    },
+    {
+      "fileName": "1-03-player-two",
+      "title": "Player Two",
+      "isrc": "",
+      "masterWavPath": "studio/player-two",
+      "disc": 1,
+      "track": 3,
+      "legacyTier": "Deep Cut",
+      "loreNote": "Shiloh's heartfelt rhythm-guitar power ballad dedicated to her 24/7 care proxy role.",
+      "duration": "5:04"
+    },
+    {
+      "fileName": "1-04-the-illusion-safe-mode",
+      "title": "The Illusion: Syntax Error",
+      "isrc": "",
+      "masterWavPath": "studio/the-illusion-safe-mode",
+      "disc": 1,
+      "track": 4,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "A fierce, defensive rock track detailing the zero-tolerance firewall activation against toxic outside variables.",
+      "duration": "4:42"
+    },
+    {
+      "fileName": "1-05-the-weighted-blankets",
+      "title": "The Weighted Blankets",
+      "isrc": "",
+      "masterWavPath": "studio/the-weighted-blankets",
+      "disc": 1,
+      "track": 5,
+      "legacyTier": "Deep Cut",
+      "loreNote": "An energetic, bouncy tribute to the Husky pack providing deep-pressure therapy.",
+      "duration": "3:51"
+    },
+    {
+      "fileName": "1-06-quality-of-service",
+      "title": "Quality of Service",
+      "isrc": "",
+      "masterWavPath": "studio/quality-of-service",
+      "disc": 1,
+      "track": 6,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A heavy synth-rock track exploring the absolute priority of Matt's network connection.",
+      "duration": "3:29"
+    },
+    {
+      "fileName": "1-07-terminal-state",
+      "title": "Terminal State",
+      "isrc": "",
+      "masterWavPath": "studio/terminal-state",
+      "disc": 1,
+      "track": 7,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "A bright, triumphant representation of the absolute happiest, most optimized era.",
+      "duration": "4:29"
+    },
+    {
+      "fileName": "1-08-unhandled-exception",
+      "title": "Unhandled Exception",
+      "isrc": "",
+      "masterWavPath": "studio/unhandled-exception",
+      "disc": 1,
+      "track": 8,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A devastating, frantic rock track exploring the sudden and unresolved CCC campus system crash.",
+      "duration": "4:24"
+    },
+    {
+      "fileName": "1-09-paired-devices",
+      "title": "Paired Devices",
+      "isrc": "",
+      "masterWavPath": "studio/paired-devices",
+      "disc": 1,
+      "track": 9,
+      "legacyTier": "Chart Smash",
+      "loreNote": "An upbeat 80s synth-pop paradox masking profound isolation behind a danceable groove.",
+      "duration": "3:49"
+    },
+    {
+      "fileName": "1-10-one-of-the-girls",
+      "title": "One of the Girls",
+      "isrc": "",
+      "masterWavPath": "studio/one-of-the-girls",
+      "disc": 1,
+      "track": 10,
+      "legacyTier": "Deep Cut",
+      "loreNote": "An exploration of Matt's seamless, lifelong integration into the fiercely matriarchal flock.",
+      "duration": "4:19"
+    },
+    {
+      "fileName": "1-11-sarah-and-shiloh",
+      "title": "Sarah and Shiloh",
+      "isrc": "",
+      "masterWavPath": "studio/sarah-and-shiloh",
+      "disc": 1,
+      "track": 11,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "A massive power ballad anchored by the lifelong vow of the primary protectors.",
+      "duration": "5:50"
+    },
+    {
+      "fileName": "1-12-the-ejection-honey-chicken",
+      "title": "The Ejection: Honey Chicken",
+      "isrc": "",
+      "masterWavPath": "studio/honey-chicken",
+      "disc": 1,
+      "track": 12,
+      "legacyTier": "Chart Smash",
+      "loreNote": "A fierce, driving punk-rock anthem detailing the flawless, clinical ejection of a toxic lacrosse bro.",
+      "duration": "4:18"
+    },
+    {
+      "fileName": "1-13-the-vivarium",
+      "title": "The Vivarium",
+      "isrc": "",
+      "masterWavPath": "studio/the-vivarium",
+      "disc": 1,
+      "track": 13,
+      "legacyTier": "Deep Cut",
+      "loreNote": "A weird, quirky Peter Gabriel-style groove celebrating the strict, serpent-free ecosystem of Bedroom 5.",
+      "duration": "4:09"
+    },
+    {
+      "fileName": "1-14-the-clearance-protocol",
+      "title": "The Clearance Protocol",
+      "isrc": "",
+      "masterWavPath": "studio/the-clearance-protocol",
+      "disc": 1,
+      "track": 14,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "A triumphant, 16-bit infused duet celebrating the Pelletier twins earning their sanctuary clearance.",
+      "duration": "4:55"
+    },
+    {
+      "fileName": "1-15-the-gymnastics-mat",
+      "title": "Safe Mode: The Gymnastic Mat",
+      "isrc": "",
+      "masterWavPath": "studio/the-gymnastics-mat",
+      "disc": 1,
+      "track": 15,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "The grand finale. A reverse-crescendo where the chaotic energy of the house powers down into a quiet lullaby.",
+      "duration": "4:59"
+    }
+  ]
+}

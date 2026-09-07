@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction[cite: 346, 347].
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 

@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Crimson Node",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Crimson Node"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "1980s Pop & Rock / Synth-Prog",
+  "datePublished": "2026-09-07",
+  "temporalCoverage": "2000-09-01",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "conditionsOfAccess": "Cleared - Suno Commercial Premium License",
+  "creativeWorkStatus": "Active Release"
+}

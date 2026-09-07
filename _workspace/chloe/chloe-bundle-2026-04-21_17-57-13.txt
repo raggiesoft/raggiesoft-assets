@@ -39135,7 +39135,7 @@ Don't walk away...
 // TRACK NO:   14
 ------------------------------------------------------------------
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction[cite: 346, 347].
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 
@@ -39456,7 +39456,7 @@ My neon heart...
 ***
 
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction[cite: 346, 347].
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 
@@ -41223,7 +41223,7 @@ My neon heart...
 ***
 
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction[cite: 346, 347].
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 
@@ -46382,7 +46382,7 @@ $pageTitle = "The Hollow Square - Fractured Prisms Lore";
     "album": "Neon Hearts",
     "url": "C:/Program Files/Git/engine-room/artists/the-stardust-engine/albums/1989-neon-hearts",
     "type": "track",
-    "content": "**LORE NOTE:**\r\nRyan's act of \"malicious compliance.\" He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, \"They're all afraid of the burning cross\" (a reference to the canceled \"Promise\" single). [cite_start]It stands as a middle finger to the studio's \"safe\" direction[cite: 346, 347].\r\n\r\n**LYRICS:**\r\n\r\n(Verse 1)\r\nThe red light's on, the tape is rolling\r\nThey're telling me what words to say\r\nI'm trying to find the man I was\r\nBut he gets farther every day\r\n\r\n(Verse 2)\r\nThey want the polish, they want the gleam\r\nThe \"safer\" version of the dream\r\nBut all I hear is a thin machine\r\nAnother part of their big scene\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Verse 3)\r\nThey're all afraid of the burning cross\r\nTerrified of what they lost\r\nSo now they're sanding off the edge\r\nPushing me back from the ledge\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Bridge)\r\n(A very clean, melodic, studio-approved keyboard solo)\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Outro)\r\nA hollow sound...\r\nJust a hollow sound...\r\n(fades)"
+    "content": "**LORE NOTE:**\r\nRyan's act of \"malicious compliance.\" He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, \"They're all afraid of the burning cross\" (a reference to the canceled \"Promise\" single). [cite_start]It stands as a middle finger to the studio's \"safe\" direction.\r\n\r\n**LYRICS:**\r\n\r\n(Verse 1)\r\nThe red light's on, the tape is rolling\r\nThey're telling me what words to say\r\nI'm trying to find the man I was\r\nBut he gets farther every day\r\n\r\n(Verse 2)\r\nThey want the polish, they want the gleam\r\nThe \"safer\" version of the dream\r\nBut all I hear is a thin machine\r\nAnother part of their big scene\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Verse 3)\r\nThey're all afraid of the burning cross\r\nTerrified of what they lost\r\nSo now they're sanding off the edge\r\nPushing me back from the ledge\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Bridge)\r\n(A very clean, melodic, studio-approved keyboard solo)\r\n\r\n(Chorus)\r\nIt's just a hollow sound\r\nMy voice is in the mix\r\nBut the words are not my own\r\nIt's just a hollow sound\r\nAnother plastic fix\r\nI'm singing all alone\r\n\r\n(Outro)\r\nA hollow sound...\r\nJust a hollow sound...\r\n(fades)"
   },
   {
     "id": "1-03-side-by-side",

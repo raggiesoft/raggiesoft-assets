@@ -299,30 +299,22 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     # Create new Vault directories and public Web MP3 directory
     mkdir -p web-mp3 vault/mp3 vault/ogg vault/archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
 
-    # --- HARPER: ARTWORK UPSCALING ---
-    RAW_ART="album-art.jpg"
-    UPSCALED_ART="streaming-services/album-art/album-art-upscaled.jpg"
-    MODEL_NAME="realesrgan-x4plus"
-
-    if [ "$USE_UPSCALER" = true ] && [ -f "$RAW_ART" ] && [ "$METADATA_ONLY" = false ]; then
-        if [ ! -f "$UPSCALED_ART" ] || [ "$OVERWRITE" = true ]; then
-            echo "      🖼️  HARPER: Artwork detected. Firing up the upscaler to 4K..."
-            
-            if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
-                WIN_IN=$(cygpath -w "$(pwd)/$RAW_ART")
-                WIN_OUT=$(cygpath -w "$(pwd)/$UPSCALED_ART")
-                WIN_MODELS=$(cygpath -w "$(dirname "$UPSCALER_CMD")/models")
-                "$UPSCALER_CMD" -i "$WIN_IN" -o "$WIN_OUT" -m "$WIN_MODELS" -n "$MODEL_NAME" -s 4 -f jpg $IGPU_SAFE_MODE
-            else
-                UNIX_IN="$(pwd)/$RAW_ART"
-                UNIX_OUT="$(pwd)/$UPSCALED_ART"
-                UNIX_MODELS="$(dirname "$UPSCALER_CMD")/models"
-                "$UPSCALER_CMD" -i "$UNIX_IN" -o "$UNIX_OUT" -m "$UNIX_MODELS" -n "$MODEL_NAME" -s 4 -f jpg $IGPU_SAFE_MODE
+    # --- DISTROKID DIMENSION COMPLIANCE (Max 3000x3000) ---
+    if [ -f "$UPSCALED_ART" ]; then
+        if [[ "$OSTYPE" == "darwin"* ]]; then
+            # Native macOS check using sips
+            CURRENT_WIDTH=$(sips -g pixelWidth "$UPSCALED_ART" | tail -n1 | awk '{print $2}')
+            if [ -n "$CURRENT_WIDTH" ] && [ "$CURRENT_WIDTH" -gt 3000 ]; then
+                echo "      📏 HARPER: Downscaling art from ${CURRENT_WIDTH}px to DistroKid optimal (3000px)..."
+                sips -Z 3000 "$UPSCALED_ART" > /dev/null 2>&1
             fi
-            
-            echo "      ✅ HARPER: Artwork successfully upscaled to /streaming-services/album-art/"
-        else
-            echo "      ⏭️  Upscaled 4K Artwork already exists! Fast-forwarding."
+        elif command -v identify &> /dev/null && command -v mogrify &> /dev/null; then
+            # Cross-platform fallback using ImageMagick
+            CURRENT_WIDTH=$(identify -format "%w" "$UPSCALED_ART" 2>/dev/null)
+            if [ -n "$CURRENT_WIDTH" ] && [ "$CURRENT_WIDTH" -gt 3000 ]; then
+                echo "      📏 HARPER: Downscaling art from ${CURRENT_WIDTH}px to DistroKid optimal (3000px)..."
+                mogrify -resize 3000x3000\> "$UPSCALED_ART"
+            fi
         fi
     fi
 
