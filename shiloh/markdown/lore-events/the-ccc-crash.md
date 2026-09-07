@@ -1,66 +1,55 @@
-----
+---
 type: lore-event
 tags:
   - lore
   - ccc-campus
-  - kids-house
-  - heartbreak
-  - meltdown
+  - transit
+  - cts-routes
   - unhandled-exception
+  - two-way-pager
+  - charlottesville
 title: "The CCC Crash (The Unhandled Exception)"
-date_in_universe: "Fall 1999"
-location: "Charlottesville Community College, CTS Bus Route, & The Kids House"
+date_in_universe: "Late Spring (Finals Week)"
+location: "Downtown Transit Station (DTS) & CTS Route 7"
 characters_present:
   - Matt Miller (The VIP)
   - Shiloh Brooks (Player Two / Triage)
-  - Heather (The Romantic Interest / Nuclear Medicine)
-  - Hailey (The Twin / Desktop Publishing)
-  - Sarah Miller (The Heavy Crane)
-  - The Huskies (Weighted Blankets)
-tone: "Quietly devastating, profound, clinical, fiercely protective"
+  - Heather (The Silent Burnout)
+  - Hailey (The Twin)
+  - Sarah Miller (The Heavy Crane / Intercept)
+tone: "Quietly devastating, highly tactical, fiercely protective"
 core_conflict: "Autistic processing vs. Silent emotional burnout"
 catalyst: "A sudden, unexplained rejection of a routine goodbye hug on the CTS bus."
-ai_prompt_hooks:
-  - "Highlight the initial perfection of the daytime college routine and the twins' absolute acceptance of Shiloh's clinical duties."
-  - "Focus on the mathematical terror of an 'Unhandled Exception'—a variable deleting itself without executing a shutdown sequence."
-  - "Portray Shiloh's immediate shift into emergency triage on a moving public bus."
-  - "Describe the 48-hour 'Safe Mode' recovery on the living room mat as a silent, fiercely dedicated communal medical operation."
 status: canonical
 ---
 
 # The CCC Crash (The Unhandled Exception)
 
-## I. The Daytime Campus Ecosystem
-After relocating to Albemarle County, Matt Miller and his cousin Shiloh Brooks established a flawless daytime routine. Relying on the Charlottesville Transit Service (CTS), they commuted to Charlottesville Community College (CCC) for daytime IT classes. Shiloh, utilizing Matt's manual wheelchair to stabilize her Spastic Diplegia, acted as his permanent "Player Two" and Private Duty Nurse. 
+## I. The False Baseline (Finals Week)
+The day of the crash was the final day of the Spring Semester. The illusion of system stability was absolute. 
+*   **The Morning Synchronization:** Matt and Shiloh arrived at the Downtown Transit Station (DTS) on the Route 7, perfectly intersecting with Heather and Hailey arriving on the Route 9. Standard, grounding hugs were exchanged as the "CCC Quad" boarded the hourly Route 1 up to the community college for their final exams. 
+*   **The Afternoon Handoff:** After successfully surviving finals, the four of them waited together at the CCC bus bay. The atmosphere was triumphant. Hugs were exchanged again as they boarded the Route 1 back down the hill to the DTS hub. Matt’s internal processor registered the semester as a complete, flawless success.
 
-In the CCC computer labs, they integrated with two identical twins: Heather (studying Nuclear Medicine) and Hailey (studying Desktop Publishing). To Matt’s highly literal brain, the identical twins caused zero visual confusion; they were simply two distinct variables running different operational software.
+## II. The Unhandled Exception (DTS)
+The catastrophic failure occurred during the final transfer at the Downtown Transit Station.
+*   **The Protocol:** The group stood at the Route 9 bay. The standard protocol dictated that Matt would execute a final, tactile goodbye hug with the twins before he and Shiloh crossed the platform to catch their northbound Route 7.
+*   **The Deletion:** As the hydraulic doors of the Route 9 opened, Matt leaned forward from his wheelchair to initiate the hug. Heather, suffering from completely invisible, unarticulated autistic burnout, simply rejected the input. She walked past him, boarded the bus with her sister, and took a seat without looking back.
+*   **The Crash (`Err 6`):** The doors closed, and the Route 9 pulled away. Matt was left suspended in mid-air on the DTS pavement. To his highly logical, systems-oriented brain, a core variable had just deleted itself without throwing an error code. His sensory firewalls instantly collapsed into a violent `Err 6 - Overflow` meltdown. 
 
-## II. The Illusion of the Perfect Fit
-Heather initially represented the ultimate safe variable for Matt. 
-*   **Clinical Acceptance:** She and Hailey were entirely unbothered by Matt's severe dyspraxia and non-verbal status. When Shiloh needed to execute a pivot-transfer or take Matt to the restroom for his MACE routine, the twins simply held down their cafeteria table without an ounce of neurotypical awkwardness.
-*   **The Boolean Boundary:** When Matt used his Vanguard LogicPad to invite Heather back to the Kids House, she declined with a direct, polite *"No thank you."* Because she did not offer fake excuses or manipulation, Matt’s brain processed this as a safe, clean geographic parameter (`Geographic_Limit = CCC_Campus`). 
-*   **The Campus Quad:** The four of them became a highly functional fixture at the college. Hailey assisted Matt with UI/UX icon design for his Visual Basic projects, while Heather connected with Shiloh over clinical anatomy terminology. 
+## III. The Two-Way Pager Protocol
+As Matt’s breathing turned to ragged, panicked gasps and his dyspraxic spasticity locked his limbs, Shiloh immediately dropped to the concrete. 
+*   **The Triage:** Using her own body to shield Matt from the stares of the transit hub, Shiloh wrapped her arms around his shaking frame, applying maximum deep-pressure therapy. 
+*   **The QWERTY SOS:** Because the family's medical network ran on high-end tech, Shiloh didn't need to leave him to find a payphone. She pulled her RIM 950 two-way pager from her scrub pocket. Using her thumbs, she fired a frantic, encrypted text broadcast to the family network: *"ERR 6. DTS. HEATHER DELETED. NEED EXTRACTION."*
 
-## III. The Silent Burnout
-What Matt could not process was Heather’s own invisible, draining social battery. Balancing the grueling academic load of Nuclear Medicine with the intense daily engagement of the CCC social group slowly pushed her autistic processing into the red. Lacking the emotional vocabulary to request a temporary pause or a sensory break, her brain executed an emergency shutdown to survive the burnout. She decided to simply uninstall herself from the routine.
+## IV. The Free Trolley Intercept
+The response was instantaneous, driven by a piece of serendipitous, geographic luck. Sarah Miller—the 6'4", natural bodybuilder and Primary Protector—was already in motion, heading directly toward the epicenter of the crash.
+*   **The Intentional Detour:** Having finished her pre-med final exams early at *The* University of the Piedmont (UP), Sarah normally would have caught the northbound Route 7 directly from the campus to head home. Instead, she deliberately doubled back. Not knowing exactly when Matt and Shiloh would finish at CCC, she caught the eastbound Free Trolley down to the DTS hub, hoping to surprise the "CCC Quad" as they arrived on the Route 1. 
+*   **The Pager Activation:** Sarah had absolutely zero idea an emergency was unfolding. She was anticipating a celebratory reunion. It was only while riding the Free Trolley toward the station that her Omni-Comm 950 pager suddenly buzzed with Shiloh's frantic text: *"ERR 6. DTS. HEATHER DELETED. NEED EXTRACTION."*
+*   **The Command:** Instantly shifting from a celebratory sister into the house's "Charge Nurse," Sarah thumb-typed her reply: *"ON TROLLEY. 5 MINS OUT. HOLD POSITION."*
+*   **The Cavalry:** When the Free Trolley hissed to a stop at DTS, Sarah stepped off the bus like a physical force of nature. Spotting Shiloh on the ground shielding Matt, Sarah crossed the pavement, her sheer physical mass parting the crowd of onlookers to secure the perimeter.
 
-## IV. The Severance (The CTS Bus Crash)
-The devastation occurred during the standard afternoon CTS bus commute. Matt’s manual wheelchair was locked into the ADA bay, with Shiloh gripping the handles and Heather standing nearby. 
-
-As the bus air-brakes hissed to announce Heather’s stop, Matt executed the daily, hardcoded "goodbye" routine. He leaned forward to initiate their standard, platonic hug—the tactile equivalent of a successful system shutdown.
-*   **The Rejection:** Heather did not lean in. Driven by absolute burnout, she simply rejected the input, stood up, and exited the bus without a single word of explanation. 
-*   **The Void:** The hydraulic doors slammed shut, and the bus pulled away, leaving Matt suspended in mid-air. 
-
-## V. The Unhandled Exception (`Err 6 - Overflow`)
-To Matt’s systems-oriented brain, a trusted variable had just vanished without cause. 
-*   **The Infinite Loop:** He fell into an agonizing, stunned silence, frantically scanning his own internal code to find the error he had made, unaware that the failure was entirely on Heather's end. 
-*   **The Overflow:** His sensory firewalls immediately collapsed. The vibration of the diesel engine, the fluorescent lights, and the noise of the passengers triggered a catastrophic system overload (`Err 6`). His breathing grew ragged, and his dyspraxic spasticity locked his limbs. 
-*   **Emergency Triage:** Shiloh instantly dropped to her knees in front of his wheelchair, building a physical shield against the staring passengers. Burying her head against him, she applied massive, grounding deep pressure while frantically dialing her pocket autodialer to trigger the `911` Beeper Code to Sarah's pager at Piedmont State.
-
-## VI. The 48-Hour Safe Mode Reboot
-When Shiloh finally navigated the wheelchair into the Kids House, Sarah (6'4", natural bodybuilder) was waiting. Recognizing a total central nervous system crash, the family initiated a silent, 48-hour intensive care lockdown. 
-
-*   **The Mat Sanctuary:** Sarah effortlessly scooped Matt out of the chair and placed him directly in the center of the heavy-duty foam gymnastic mat in the living room. 
-*   **Total Surrender:** Matt remained completely unresponsive, staring blankly at the ceiling. Sarah and Shiloh took over 100% of his biological functions, feeding him by hand, changing him, and managing his toileting routines directly on the floor. 
-*   **The Husky Blankets:** The house fell perfectly silent. The seventy-pound Siberian Huskies abandoned their usual chattering, stepping onto the mat to drape their heavy bodies across Matt's legs, acting as living weighted blankets. 
-*   **The Reboot:** It took two full days of silent, unconditional love, deep-pressure therapy, and absolute physical surrender before Matt’s internal processor finally cooled down enough to tentatively reach for his ThinkPad and acknowledge the heartbreak.
+## V. The Route 7 Extraction
+When the northbound Route 7 finally arrived, Matt was no longer exposed. 
+*   **The Phalanx:** Sarah took control of the heavy manual wheelchair, muscling it up the ADA ramp with terrifying ease. 
+*   **The Shield Wall:** During the 15-minute ride up the Route 29 corridor back to Albemarle County, Matt was flanked on both sides. Shiloh sat on his left, holding his hand to monitor his clinical vitals, while Sarah stood directly over him on his right, gripping the transit bar and glaring down any passenger who dared to look in their direction. 
+*   **The Aftermath:** Matt was entirely emotionally shattered, silently weeping in his chair as the bus rolled north. But physically, he was encased in an impenetrable fortress of LPN protection.

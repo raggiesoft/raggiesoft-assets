@@ -1,7 +1,7 @@
-# The Ejection: Honey Chicken - DistroKid Quick-Copy Sheet
+# The Flight Path - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
-* **Track Title:** The Ejection: Honey Chicken
+* **Track Title:** The Flight Path
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
 * **Real-World DSP Release Date:** 2026-09-07
@@ -21,12 +21,12 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-999-2000-112
+* **Engine Room ID:** ERR-999-2002-101
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 4:18
-* **Fictional Narrative Release Date:** 2000-09-01
-* **Master File Located At:** ../../vault/wav/1-12-the-ejection-honey-chicken.wav
+* **Track Length:** 5:39
+* **Fictional Narrative Release Date:** 2002-09-18
+* **Master File Located At:** ../../vault/wav/1-01-the-flight-path.wav
 
 ## 4. Rights & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

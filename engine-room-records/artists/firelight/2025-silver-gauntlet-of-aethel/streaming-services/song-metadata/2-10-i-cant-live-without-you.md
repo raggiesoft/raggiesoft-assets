@@ -4,7 +4,7 @@
 * **Track Title:** I Can't Live Without You (Kaela's Theme)
 * **Primary Artist:** 
 * **Genre:** Soundtrack / 80s Rock / Orchestral
-* **Real-World DSP Release Date:** 2026-08-31
+* **Real-World DSP Release Date:** 2026-09-07
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

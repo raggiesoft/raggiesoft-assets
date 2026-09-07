@@ -1,7 +1,7 @@
-# The Clearance Protocol - DistroKid Quick-Copy Sheet
+# Crimson Node - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
-* **Track Title:** The Clearance Protocol
+* **Track Title:** Crimson Node
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
 * **Real-World DSP Release Date:** 2026-09-07
@@ -21,12 +21,12 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-999-2000-114
+* **Engine Room ID:** ERR-999-2002-102
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 4:55
-* **Fictional Narrative Release Date:** 2000-09-01
-* **Master File Located At:** ../../vault/wav/1-14-the-clearance-protocol.wav
+* **Track Length:** 4:14
+* **Fictional Narrative Release Date:** 2002-09-18
+* **Master File Located At:** ../../vault/wav/1-02-crimson-node.wav
 
 ## 4. Rights & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

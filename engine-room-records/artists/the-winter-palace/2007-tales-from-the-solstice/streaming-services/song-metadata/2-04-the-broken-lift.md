@@ -4,7 +4,7 @@
 * **Track Title:** The Broken Lift
 * **Primary Artist:** The Winter Palace
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-08-31
+* **Real-World DSP Release Date:** 2026-09-07
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
