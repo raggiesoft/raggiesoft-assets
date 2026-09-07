@@ -27,24 +27,32 @@
     background-color: rgba(var(--bs-info-rgb), 0.15) !important; 
     border: 1px solid rgba(var(--bs-info-rgb), 0.3) !important;
     backdrop-filter: blur(5px);
-    color: #ffffff !important; 
+    color: var(--bs-body-color) !important; /* WCAG AA Contrast Fix */
 }
 .bg-hud-green {
     background-color: rgba(var(--bs-success-rgb), 0.15) !important;
     border: 1px solid rgba(var(--bs-success-rgb), 0.3) !important;
     backdrop-filter: blur(5px);
-    color: #ffffff !important;
+    color: var(--bs-body-color) !important; /* WCAG AA Contrast Fix */
 }
 .bg-hud-red {
     background-color: rgba(var(--bs-danger-rgb), 0.15) !important;
     border: 1px solid rgba(var(--bs-danger-rgb), 0.3) !important;
     backdrop-filter: blur(5px);
-    color: #ffffff !important;
+    color: var(--bs-body-color) !important; /* WCAG AA Contrast Fix */
 }
 .bg-hud-orange {
     background-color: rgba(var(--bs-warning-rgb), 0.15) !important;
     border: 1px solid rgba(var(--bs-warning-rgb), 0.3) !important;
     backdrop-filter: blur(5px);
+    color: var(--bs-body-color) !important; /* WCAG AA Contrast Fix */
+}
+
+/* Dark Mode Override: Switch back to pristine white for neon glass effect */
+[data-bs-theme="dark"] .bg-hud-blue,
+[data-bs-theme="dark"] .bg-hud-green,
+[data-bs-theme="dark"] .bg-hud-red,
+[data-bs-theme="dark"] .bg-hud-orange {
     color: #ffffff !important;
 }
 

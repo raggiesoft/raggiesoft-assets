@@ -23,8 +23,18 @@ a {
     color: #E6E6E6 !important; 
 }
 
-[data-bs-theme="dark"] a {
+/* Prevent this override from hijacking Bootstrap .btn elements */
+[data-bs-theme="dark"] a:not(.btn) {
     color: #FF3333 !important; /* Glowing Crimson fallback */
+}
+
+/* Force safe contrast on solid buttons in Dark Mode */
+[data-bs-theme="dark"] .btn-primary,
+[data-bs-theme="dark"] .btn-danger,
+[data-bs-theme="dark"] .btn-success,
+[data-bs-theme="dark"] .btn-info,
+[data-bs-theme="dark"] .btn-warning {
+    color: #1A1A1A !important; /* Dark text on bright backgrounds for WCAG AA */
 }
 
 /* Fix button outlines on dark bg */
