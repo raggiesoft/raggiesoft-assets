@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# --- HARPER: THE STUDIO ENGINEER (v21.7.0 - Dynamic Multi-Core Audio Processing) ---
+# --- HARPER: THE STUDIO ENGINEER (v21.8.0 - FLAC Audiophile Upgrade) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 #
 # ROLE:
@@ -12,14 +12,15 @@
 # Generates universal ERR-ID tracking numbers for the Master Catalog.
 # Compiles the Tri-State DSP Status (Released, Pending, Vault Exclusive).
 # Generates 128kbps "Radio Edits" for the free public web player.
-# Routes High-Fidelity MP3s (V0), OGGs (Q9), and Archives into the secure /vault/ directory.
+# Routes High-Fidelity MP3s (V0), OGGs (Q9), FLACs, and Archives into the secure /vault/ directory.
 # Drafts Markdown metadata files for commercial streaming distribution.
 # Binds individual lyric markdown files into a master album-level markdown booklet.
 # Integrates Real-ESRGAN for automated 4K DistroKid art upscaling.
 # Generates sanitized DSP lyrics and structures the /streaming-services package.
 # Deep parses Schema.org standard JSON-LD properties (UPC, Production & Release Types) from album.json.
-# Scraps the 2GB All-In-One archive constraint. Builds a decoupled Standard Archive (MP3/OGG) and standalone Audiophile (WAV) payload.
+# Scraps the 2GB All-In-One archive constraint. Builds a decoupled Standard Archive (MP3/OGG) and standalone Audiophile (WAV/FLAC) payloads.
 # NEW v21.7.0: Integrates Dynamic Hardware Threading, secure PIDs tracking, and parallelized multi-tier audio pressing.
+# NEW v21.8.0: FLAC encoding and dedicated 7z Audiophile archiving.
 #
 # PERSONALITY: High-Energy, Efficient, Loud.
 
@@ -27,7 +28,7 @@
 START_EPOCH=$(date +%s)
 START_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")
 
-echo "🎧 HARPER: Alright! Firing up the mixing board (v21.7.0)... Let's hit the Vault!"
+echo "🎧 HARPER: Alright! Firing up the mixing board (v21.8.0)... Let's hit the Vault!"
 echo "   ⏰ Session Started: $START_TIME_STR"
 
 # Define Root relative to script location
@@ -242,6 +243,17 @@ press_audio_formats() {
         -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
         "vault/ogg/$f_base.ogg"
     fi
+
+    # Premium FLAC (Lossless)
+    if [ ! -f "vault/flac/$f_base.flac" ] || [ "$OVERWRITE" = true ]; then
+        ffmpeg -nostdin -hide_banner -loglevel error $ffmpeg_flag -i "$in_wav" $ART_FILE_PARAM \
+        -codec:a flac -compression_level 8 \
+        -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
+        -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
+        -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
+        -metadata comment="Premium Audiophile Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        "vault/flac/$f_base.flac"
+    fi
 }
 
 # --- MAIN LOOP ---
@@ -297,7 +309,7 @@ find "$SEARCH_PATH" -name "tracks.json" | while read tracks_file; do
     echo "   💿 HARPER: Processing '$ALBUM_NAME' by $ALBUM_ARTIST..."
 
     # Create new Vault directories and public Web MP3 directory
-    mkdir -p web-mp3 vault/mp3 vault/ogg vault/archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
+    mkdir -p web-mp3 vault/mp3 vault/ogg vault/flac vault/wav vault/archives streaming-services/album-art streaming-services/lyrics streaming-services/song-metadata
 
     # --- DISTROKID DIMENSION COMPLIANCE (Max 3000x3000) ---
     if [ -f "$UPSCALED_ART" ]; then
@@ -642,6 +654,7 @@ EOF
         ZIP_MP3="vault/archives/${ARCHIVE_BASE_NAME}-mp3.zip"
         ZIP_OGG="vault/archives/${ARCHIVE_BASE_NAME}-ogg.zip"
         ZIP_WAV="vault/archives/${ARCHIVE_BASE_NAME}-wav.7z"
+        ZIP_FLAC="vault/archives/${ARCHIVE_BASE_NAME}-flac.7z"
         ZIP_STANDARD="vault/archives/${ARCHIVE_BASE_NAME}-standard-archive.zip"
 
         echo "      🎙️  HARPER: Booting up the Archiver. Securing files into the Vault..."
@@ -719,6 +732,31 @@ EOF
             rm -rf vault/archives/staging_wav
         else
             echo "         ⏭️  WAV Master Archive already exists! Skipping."
+        fi
+
+        # Pack FLAC Archive
+        if [ ! -f "$ZIP_FLAC" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 📦 Packing Audiophile FLAC Archive..."
+            rm -f "$ZIP_FLAC"
+            mkdir -p vault/archives/staging_flac/lyrics
+            mkdir -p vault/archives/staging_flac/metadata
+            
+            cp vault/flac/*.flac vault/archives/staging_flac/ 2>/dev/null
+            cp streaming-services/song-metadata/*.md vault/archives/staging_flac/metadata/ 2>/dev/null
+            cp "$README_FILE" vault/archives/staging_flac/
+            [ -f "$ART_FILE" ] && cp "$ART_FILE" vault/archives/staging_flac/
+            
+            if [ "$HAS_LYRICS" = true ]; then
+                cp lyrics/*.md vault/archives/staging_flac/lyrics/
+                [ -f "$COMBINED_LYRICS_FILE" ] && cp "$COMBINED_LYRICS_FILE" vault/archives/staging_flac/
+            fi
+            
+            pushd vault/archives/staging_flac > /dev/null
+            "$SEVEN_ZIP_CMD" a -t7z -mx=9 -ms=on "../${ARCHIVE_BASE_NAME}-flac.7z" *
+            popd > /dev/null
+            rm -rf vault/archives/staging_flac
+        else
+            echo "         ⏭️  Audiophile FLAC Archive already exists! Skipping."
         fi
         
         # Pack the Standard Archive (MP3 & OGG)
