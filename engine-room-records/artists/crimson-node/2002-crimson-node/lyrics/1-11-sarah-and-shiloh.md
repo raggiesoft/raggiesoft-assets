@@ -1,4 +1,5 @@
-# Sarah and Shiloh
+**LORE NOTE:**
+Originally developed under the working title "Matt's Safetynet," "Sarah and Shiloh" is a massive, wind-swept 1980s arena-pop power ballad dedicated to Matt's two most important women. The track immortalizes their joint-and-several legal guardianship and their permanent, lifelong vow to reject outside marriages in order to protect his care ecosystem. Lyrically, the song translates this devotion through the architecture of Matt's custom MDI Notepad software: he named the foundational configuration file sarah.ini because his sister (the "heavy crane") is his ultimate structural baseline, but all internal settings are housed under a [Shiloh] header, as his cousin handles the minute-to-minute execution of his daily life. Together, they form an impenetrable, loving safety net that will never let him fall.
 
 **LYRICS:**
 

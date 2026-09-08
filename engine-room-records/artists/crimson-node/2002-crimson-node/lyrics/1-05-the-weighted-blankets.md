@@ -1,5 +1,5 @@
-# The Weighted Blankets
-
+**LORE NOTE:**
+"The Weighted Blankets" is a heavy, bouncy, high-energy stadium anthem dedicated to the Albemarle County compound's three Siberian Huskies: Kodiak, Maverick, and Echo. The lyrics introduce the pack's distinct personalities: Maverick is the tactical instigator who wedges himself into the living room puppy pile, while Echo is the dramatic vocal siren who screams through the drywall at Admiral the Tokay Gecko—and will absolutely let the entire neighborhood know with a deafening yodel if her dinner is even sixty seconds late. Yet, beneath the acoustic warfare and the chaos, the track honors their critical medical function. When Matt’s system flashes red into an Err 6 meltdown, Kodiak (the stoic anchor) flawlessly drops his seventy-five-pound frame across Matt's legs, providing the immediate, grounding deep-pressure therapy necessary to stabilize the central processor.
 **LYRICS:**
 
 [Intro]

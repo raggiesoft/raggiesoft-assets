@@ -1,5 +1,5 @@
-# The Illusion: Syntax Error
-
+**LORE NOTE:**
+"The Illusion: Syntax Error" is a fierce, defensive 1980s hard rock anthem documenting the activation of the family's absolute zero-tolerance firewall. The track targets Courtney Evans, Matt's high school ex-girlfriend who was enamored with the highly curated "School Matt"—an artificial bubble where his medical needs were quietly handled by a school aide—but completely rejected the reality of his 24/7 care requirements. When she lashed out via an Omni-Q message over Sarah needing to accompany them on a movie date, Sarah printed the permanent chat logs as evidence. Framed as a hostile user failing the system requirements, the song captures the terrifying, impenetrable wall of "heavy steel" the cousins formed to permanently exile the toxic variable, leveraging their legal guardianship to lock her out of the ecosystem forever.
 **LYRICS:**
 
 [Intro]

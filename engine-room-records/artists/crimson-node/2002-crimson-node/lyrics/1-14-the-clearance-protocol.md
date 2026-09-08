@@ -1,4 +1,5 @@
-# The Clearance Protocol
+**LORE NOTE:**
+"The Clearance Protocol" is a massive, triumphant 1980s arena rock anthem that serves as the ultimate narrative reward: Elise and Elodie Pelletier guest-starring on the album as a vocal duet. After the toxic ableism of Courtney Evans and the devastating, silent burnout of Heather and Hailey, the Kids House was fiercely guarded. However, the Pelletier twins slowly and flawlessly proved their loyalty—holding space without pity at the CCC cafeteria, mastering Matt's tactile "double-tap" language, and seamlessly integrating into the living room puppy pile (complete with Elodie arguing with Echo the Husky). As the only non-family members to ever earn the "Pelletier Clearance Protocol" to be alone with Matt, the family invited them into the Garage Studio to record this track. Acoustically, the song bridges classic 80s stadium rock with a nostalgic 16-bit retro console synthesizer riff, creating the ultimate crossover between a soaring pop anthem and a boss-level video game victory screen.
 
 **LYRICS:**
 

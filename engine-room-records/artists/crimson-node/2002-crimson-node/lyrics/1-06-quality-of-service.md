@@ -1,4 +1,5 @@
-# Quality of Service
+**LORE NOTE:**
+"Quality of Service" (originally conceptualized under the working title "The Beeper Code") is a fast, aggressive 1980s synth-punk anthem dedicated to nineteen-year-old Jessica Brooks, the unfiltered in-house SysAdmin. The track highlights the unbreakable network rule of the Kids House: Matt Miller’s Vanguard LogicPad possesses absolute Quality of Service (QoS) priority. If his rig sends a signal to communicate or control his environment, Jessica's POSIX-compliant gateway server instantly throttles everyone else's bandwidth. The song joyfully captures the acoustic aftermath of this protocol—freezing Rachel and Emily's 16-bit shooter LAN matches and causing a muffled burst of naval profanity from down the hall, which Matt responds to with a happy, breathy chuckle, knowing his cousin just cleared the digital lane for him.
 
 **LYRICS:**
 

@@ -1,4 +1,7 @@
-# Unhandled Exception
+**LORE NOTE:**
+Serving as the devastating second movement of the trilogy, "Unhandled Exception" chronicles the sudden, catastrophic system failure at the Downtown Transit Station. Suffering from invisible autistic burnout, Heather rejected the standard goodbye protocol and boarded the Route 9 bus without a word, leaving Matt suspended in mid-air. To Matt's highly logical, systems-oriented brain, a core variable had just deleted itself without throwing a warning code, triggering an immediate Err 6 - Overflow meltdown.
+
+Musically, the track strips away the heavy synthesizers for a completely exposed, vulnerable piano intro before slamming into a relentless, 130 BPM pacing-the-floor rhythm. The bridge deliberately abandons the Vanguard LogicPad tech metaphors entirely, exposing the raw, human agony of a broken man sitting in the wreckage. In a serendipitous moment of accidental art during production, the AI audio driver crashed exactly at the 4:19 mark—a violent, abrupt burst of static that was kept in the final master to simulate the heavy door of the transit bus slamming shut in Matt's face.
 
 **LYRICS:**
 

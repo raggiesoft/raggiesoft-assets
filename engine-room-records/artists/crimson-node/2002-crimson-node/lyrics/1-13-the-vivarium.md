@@ -1,4 +1,5 @@
-# The Vivarium
+**LORE NOTE:**
+"The Vivarium" is a quirky, atmospheric 1980s worldbeat art-pop track dedicated to the sweltering, simulated jungle ecosystem of Bedroom 5. The song celebrates the bizarre mechanics of the room—from the acrylic highway for isopods to the nightly acoustic drywall war between Admiral the highly territorial Tokay Gecko and Echo the Husky (represented in the outro by a theatrical, howling vocal ad-lib). Crucially, the chorus acts as a defiant celebration of Matt's absolute, non-negotiable phobia of snakes, weaponizing the Adults House homeowners insurance policy as a bureaucratic shield to keep the sanctuary permanently serpent-free. Acoustically, the track features a prominent, breathy "flute" melody. Because Chloe was still focused on her collegiate research and hadn't yet brought her premium conservatory flute down to the garage, this sound is actually Jessica playing a synthetic patch on her analog keyboards—a brilliant sonic placeholder that perfectly sets the stage for Chloe's triumphant musical integration on the band's sophomore album.
 
 **LYRICS:**
 

@@ -1,4 +1,5 @@
-# Terminal State
+**LORE NOTE:**
+"Terminal State" serves as the triumphant first movement of a devastating three-part emotional arc. Before the system crashes, we experience the absolute peak of its operational stability. This bright, soaring 1980s progressive rock anthem celebrates the frictionless, judgment-free connection Matt found with identical twins Heather and Hailey at the Charlottesville Community College (CCC) campus. After the toxic, ableist disaster of his high school ex-girlfriend, the twins provided a safe "tactile embrace," allowing Matt to hug them without any neurotypical awkwardness or pity. The track revels in this profound sense of security, explicitly highlighting how these new variables perfectly respected the established hierarchy of the compound by acknowledging his cousin Shiloh ("Player Two") as his primary, unshakeable anchor.
 
 **LYRICS:**
 

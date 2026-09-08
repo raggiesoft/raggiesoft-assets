@@ -1,4 +1,5 @@
-# The Flight Path
+**LORE NOTE:**
+"The Flight Path" serves as the massive, soaring 1980s arena rock opener for the band's debut album. While it sounds like an epic anthem about aviation and gravity, it is actually a precise, metaphorical translation of the physical leverage and transfer mechanics used daily in the Albemarle County Kids House. The "double-tap" refers to the strict tactile confirmation protocol Rachel and Emily enforce before executing a two-person lift for Matt, ensuring his sensory safety and absolute bodily autonomy. Narratively, this track features Emily bringing her powerhouse "naval operator" energy to the lead microphone, backed by Rachel's mathematically flawless, artillery-strike drum fills.
 
 **LYRICS:**
 

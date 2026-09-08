@@ -1,4 +1,5 @@
-# Safe Mode: The Gymnastic Mat
+**LORE NOTE:**
+Serving as the grand finale of the debut album, "Safe Mode: The Gymnastic Mat" captures the peaceful conclusion of a chaotic day inside the Albemarle County compound. As the Navy Gaming Towers spin down and the acoustic warfare of the Vivarium settles, the sister and cousins abandon traditional furniture to gather on the massive, heavy-duty foam gymnastic mat in the living room. The track honors this ultimate sanctuary, highlighting the Husky pack—specifically the "instigator" Maverick and the "stoic anchor" Kodiak—settling onto the floor to provide grounding deep-pressure therapy. During production, the AI engine delivered a serendipitous "happy accident," perfectly capturing the emotional transition from the day's bustling 1980s progressive rock energy into a safe, regulated ambient cooldown. The system finally rests, protected by the phalanx, safely locked in for the night.
 
 **LYRICS:**
 

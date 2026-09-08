@@ -1,4 +1,5 @@
-# Player Two
+**LORE NOTE:**
+"Player Two" shifts the tempo of the album to deliver its emotional core: a heartfelt, rhythm guitar-driven power ballad dedicated to Shiloh Brooks. Operating as Matt's 24/7 companion and trusted technician, Shiloh shares his exact birthdate—a reality reflected in the opening lines. The track explicitly honors her physical reality; navigating her own Spastic Diplegia, she lacks the towering, bodybuilder strength of Sarah (the "heavy crane"). Instead, she protects Matt using flawless, mathematically precise pivot transfers, relying on leverage rather than brute force. Narratively, Shiloh sings this track from her seated studio stool right next to Matt's wheelchair, shredding the melodic guitar solo to seal her vow as his permanent, unshakeable anchor against the outside world.
 
 **LYRICS:**
 

@@ -1,4 +1,5 @@
-# The Ejection: Honey Chicken
+**LORE NOTE:**
+"The Ejection: Honey Chicken" is a fierce, driving punk-rock anthem that memorializes one of the most legendary events in the Kids House: the flawless, clinical ejection of Chloe’s exhausting lacrosse-bro boyfriend, Trent. On a Friday night in 1999, Trent's insecure, neurotypical brain completely short-circuited when he misinterpreted a platonic, two-person clinical leverage lift (executed by Chloe and Emily to remove Matt's shirt after a piece of sticky honey chicken fell on it) as inappropriate intimacy. When Trent shouted about boundaries and invaded the workspace, the family's "automated security system" engaged instantly. Sarah bulldozed him with her bodybuilder frame, Rachel and Jessica unleashed a verbal symphony of destruction, and the Huskies joined the riot line to march him out the front door. The track captures this triumphant, drama-free ejection with pure 1980s rebellious attitude, intentionally scrubbing the actual naval profanity from the lyrics to keep the digital censors happy.
 
 **LYRICS:**
 
