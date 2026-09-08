@@ -1,11 +1,18 @@
 /* extras.css (Crimson Node - Vanguard Update) */
 
 /* 1. Technical Text (Track Lists, Metadata) */
-.tech-font, .metadata, .track-number, .font-monospace {
+.tech-font, .metadata, .track-number {
     font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.85rem;
     letter-spacing: -0.5px;
     text-transform: uppercase;
+}
+
+/* Safely style monospace without forcing uppercase inheritance */
+.font-monospace {
+    font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.85rem;
+    letter-spacing: -0.5px;
 }
 
 /* 2. "Glass Node" Card Style (Aesthetic of Wonder) */
