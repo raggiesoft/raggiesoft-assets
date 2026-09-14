@@ -1,6 +1,21 @@
 {
-  "albumName": "Lost Sounds",
-  "albumArtist": "The Stardust Engine",
-  "narrativeReleaseDate": "2007",
-  "genre": "Archival Compilation"
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Lost Sounds",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "CompilationAlbum",
+  "genre": "Archival Compilation",
+  "temporalCoverage": "2007",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Internal Vault"
+  },
+  "conditionsOfAccess": "Cleared - Internal Vault Only",
+  "creativeWorkStatus": "Abandoned Project"
 }
