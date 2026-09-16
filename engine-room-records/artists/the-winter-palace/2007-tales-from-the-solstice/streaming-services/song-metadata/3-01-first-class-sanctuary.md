@@ -4,7 +4,7 @@
 * **Track Title:** First Class Sanctuary
 * **Primary Artist:** The Winter Palace
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-09-07
+* **Real-World DSP Release Date:** 2026-09-16
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

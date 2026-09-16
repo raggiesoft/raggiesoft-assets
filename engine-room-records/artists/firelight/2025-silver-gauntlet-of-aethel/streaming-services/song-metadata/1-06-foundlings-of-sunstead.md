@@ -4,7 +4,7 @@
 * **Track Title:** Foundlings of Sunstead
 * **Primary Artist:** 
 * **Genre:** Soundtrack / 80s Rock / Orchestral
-* **Real-World DSP Release Date:** 2026-09-12
+* **Real-World DSP Release Date:** 2026-09-16
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

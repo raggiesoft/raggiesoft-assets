@@ -104,13 +104,27 @@ else
     RUNTIME=`ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$SOURCE_WAV" | awk '{printf "%d:%02d\n", $1/60, $1%60}'`
     echo "      ⏱️  HARPER: Track runtime clocked at $RUNTIME"
 
-    if [ "$METADATA_ONLY" = false ]; then
+        if [ "$METADATA_ONLY" = false ]; then
         if [ ! -f "$LOCAL_WAV" ] || [ "$OVERWRITE" = true ]; then
-            echo "         -> 💾 Pulling $MASTER_WAV_PATH from the vault to$LOCAL_WAV..."
+            echo "         -> 💾 Stamping BWF Metadata and pulling $MASTER_WAV_PATH to $LOCAL_WAV..."
             mkdir -p vault/wav
-            cp "$SOURCE_WAV" "$LOCAL_WAV"
+            
+            # Replaces the standard cp command with a lossless FFmpeg metadata pass
+            ffmpeg -nostdin -hide_banner -loglevel error $ffmpeg_flag -i "$SOURCE_WAV" -write_bext 1 \
+            -metadata title="$TITLE" \
+            -metadata artist="$ALBUM_ARTIST" \
+            -metadata album="$ALBUM_NAME" \
+            -metadata date="$REAL_RELEASE_YEAR" \
+            -metadata track="$TRACK_NUM" \
+            -metadata genre="$GENRE" \
+            -metadata publisher="Engine Room Records" \
+            -metadata copyright="CC BY-SA 4.0 - $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft" \
+            -metadata comment="Audio Generation: Suno. AI Elements: Vocals, Instrumentation, Composition. Human Elements: Lyrics, Narrative Lore. License: CC BY-SA 4.0. Commercial Rights Cleared." \
+            -metadata ISRC="$ISRC_CODE" \
+            -c copy "$LOCAL_WAV"
         fi
     fi
+
 fi
 
 if [ -n "$RUNTIME" ]; then

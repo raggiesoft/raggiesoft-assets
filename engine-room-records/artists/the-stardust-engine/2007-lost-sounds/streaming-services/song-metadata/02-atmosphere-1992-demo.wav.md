@@ -2,9 +2,9 @@
 
 ## 1. DistroKid Upload Form Data
 * **Track Title:** Atmosphere (1992 Demo)
-* **Primary Artist:** 
+* **Primary Artist:** The Stardust Engine
 * **Genre:** Archival Compilation
-* **Real-World DSP Release Date:** 2026-09-12
+* **Real-World DSP Release Date:** 2026-09-16
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -21,11 +21,11 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-999--102
+* **Engine Room ID:** ERR-001-2007-102
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
 * **Track Length:** 
-* **Fictional Narrative Release Date:** 
+* **Fictional Narrative Release Date:** 2007
 * **Master File Located At:** ../../vault/wav/02-atmosphere-1992-demo.wav.wav
 
 ## 4. Rights & Clearances

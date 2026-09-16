@@ -116,7 +116,7 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
     HAS_LYRICS=false
     if [ -d "lyrics" ]; then HAS_LYRICS=true; fi
 
-    README_FILE="read-me.txt"
+        README_FILE="read-me.txt"
     {
         echo "=================================================================="
         echo "  $ALBUM_NAME ($NARRATIVE_YEAR)"
@@ -133,8 +133,15 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
         echo "Full License Details: https://raggiesoftmedia.com/licensing"
         echo "Copyright (c) $REAL_RELEASE_YEAR Michael P. Ragsdale / RaggieSoft."
         echo ""
+        echo "PRODUCTION DISCLAIMER:"
+        echo "Audio Generation: Suno."
+        echo "AI Elements: Vocals, Instrumentation, Composition."
+        echo "Human Elements: Lyrics, Narrative Lore."
+        echo "Commercial Rights Cleared via Commercial-Tier Suno Premium."
+        echo ""
         echo "TRACKLIST:"
     } > "$README_FILE"
+
     
     TEMP_TRACKS_JSONL="temp_tracks_update.jsonl"
     > "$TEMP_TRACKS_JSONL"

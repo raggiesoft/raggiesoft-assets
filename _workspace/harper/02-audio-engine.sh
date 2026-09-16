@@ -12,6 +12,9 @@ press_audio_formats() {
     local t_track="$7"
     local t_disc="$8"
     local t_genre="$9"
+    
+    # Define the universal AI disclosure stamp
+    local ai_disclaimer="Audio Generation: Suno. AI Elements: Vocals, Instrumentation, Composition. Human Elements: Lyrics, Narrative Lore. CC BY-SA 4.0. Commercial Rights Cleared."
 
     # Radio Edit (128kbps)
     if [ ! -f "web-mp3/$f_base.mp3" ] || [ "$OVERWRITE" = true ]; then
@@ -20,7 +23,7 @@ press_audio_formats() {
         -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
         -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
         -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
-        -metadata comment="Free Stream Edition | Premium Archives: https://engineroom-records.com" \
+        -metadata comment="Free Stream Edition | $ai_disclaimer" \
         "web-mp3/$f_base.mp3"
     fi
 
@@ -31,7 +34,7 @@ press_audio_formats() {
         -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
         -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
         -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
-        -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        -metadata comment="Premium Archive | $ai_disclaimer" \
         "vault/mp3/$f_base.mp3"
     fi
 
@@ -42,7 +45,7 @@ press_audio_formats() {
         -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
         -metadata date="$t_year" -metadata tracknumber="$t_track" -metadata discnumber="$t_disc" \
         -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
-        -metadata comment="Premium Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        -metadata comment="Premium Archive | $ai_disclaimer" \
         "vault/ogg/$f_base.ogg"
     fi
 
@@ -53,7 +56,7 @@ press_audio_formats() {
         -metadata title="$t_title" -metadata artist="$t_artist" -metadata album="$t_album" \
         -metadata date="$t_year" -metadata track="$t_track" -metadata disc="$t_disc" -metadata genre="$t_genre" \
         -metadata publisher="Engine Room Records" -metadata copyright="CC BY-SA 4.0 - $t_year Michael P. Ragsdale / RaggieSoft" \
-        -metadata comment="Premium Audiophile Archive | Licensing: https://raggiesoftmedia.com/licensing" \
+        -metadata comment="Premium Audiophile Archive | $ai_disclaimer" \
         "vault/flac/$f_base.flac"
     fi
 }
