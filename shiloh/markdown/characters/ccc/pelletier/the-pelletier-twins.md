@@ -24,14 +24,15 @@ status: active
 *   **Affiliation:** Charlottesville Community College (CCC)
 *   **Role:** Life Partners to Matt Miller / Honorary Flock Members
 
-## II. Biological & Physical Reality
-While they occupy a single physical form with a standard female footprint, Elise and Elodie operate as two completely independent legal and psychological entities.
-*   **Skeletal Structure:** To accommodate two distinct spinal columns merging into a single pelvis, their shared shoulder girdle is slightly asymmetrical.
+## II. Biological & Physical Reality (Parapagus Tetrapus)
+While they occupy a single physical form with a standard female footprint, Elise and Elodie operate as two completely independent legal and psychological entities with a complex, highly specialized internal architecture.
+*   **Skeletal Structure & The Inner Pair:** They have two completely separate spinal columns running parallel all the way down, anchoring into a massive, fused pelvic ring with four distinct hip sockets. The two inner sockets house "The Inner Pair" (the tripodes)—vestigial inner legs that terminate just below the knee. When seated, these inner legs rest comfortably on the cushion between their functional outer legs without dragging on the floor.
+*   **The Cardiopulmonary Engine:** They possess two distinct hearts and three lungs (the middle two lungs fused into a single massive central lobe to save space). Two breasts are positioned symmetrically on the far outer sides of their torso.
 *   **Elodie's Tilt:** Elodie has the primary spinal curvature, meaning her neck and head rest at a permanent, outward tilt. This asymmetrical posture is her painless, physiological zero-state. 
-*   **Nutritional Logistics:** Because they have separate esophaguses and stomachs, they both need to eat to prevent localized hunger, even though they share a singular intestinal tract and bloodstream.
-*   **Synchronized Cycle:** They share a single reproductive system and bloodstream, resulting in a single, unified hormonal cycle. However, their distinct brains process these systemic hormonal shifts differently—Elise often becomes quieter and withdrawn, while Elodie's "Husky Diplomat" energy may become more sharply vocal or irritable.
-*   **Coordinated Autonomy:** They possess two separate driver's licenses and seamlessly negotiate their shared limbs to drive standard, unmodified vehicles in the family fleet.
-*   **The Aesthetic:** Their wardrobe requires custom tailoring for two necklines. They heavily lean into a cozy, late-2000s campus aesthetic, utilizing soft earth tones, oversized knit cardigans, and canvas sneakers.
+*   **The Gastrointestinal Sync:** They have two esophagi and two stomachs. The small intestines start separate but merge into a single shared intestinal checkpoint, before splitting back out into two colons and two anuses. Because of this biological chokepoint, they follow a strict "Dietary Law"—they must eat the same meals (or extremely similar variants) at the same time. If they didn't, their stomachs would empty at different speeds and pH levels, causing massive enzymatic confusion and severe cramping.
+*   **Reproductive & Hormonal Management:** They possess two reproductive organs, each with a functional fallopian tube on the far outer side (the inner tubes are vestigial). Because their bloodstreams are connected, they rely on birth control for "Forced Cycle Syncing." This artificially locks their endocrine systems together, preventing a chaotic, never-ending rollercoaster of unsynced hormonal fluctuations.
+*   **Coordinated Autonomy:** They possess two separate driver's licenses and seamlessly negotiate their shared outer limbs to drive standard, unmodified vehicles in the family fleet.
+*   **The Aesthetic & The Denim Dilemma:** Their wardrobe requires significant custom tailoring. Shirts must be altered to cleanly scoop out and widen the collar for two necklines. More critically, buying standard pants off the rack is physically impossible. Every pair of jeans must be deconstructed by a specialized tailor to rip the inner seams and sew in an expanded central gusset to safely house the vestigial inner pair without chafing. They heavily lean into a cozy, late-2000s campus aesthetic, utilizing soft earth tones, oversized knit cardigans, and canvas sneakers.
 
 ## III. The System Patch & Verbal Consensus
 For Matt's highly logical, systems-oriented brain, the twins serve as a flawlessly executed patch to overwrite corrupted memory sectors left behind by past silent departures.
