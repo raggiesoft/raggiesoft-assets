@@ -1799,84 +1799,92 @@ Admiral is the only creature in the house capable of rivaling the vocal volume o
 
 ---
 
-## [FILE: characters/ccc/pelletier/elise-pelletier.md]
+## [FILE: characters/ccc/pelletier/the-pelletier-twins.md]
 
 ---
 type: character-profile
 tags:
-  - character
-  - ccc-campus
-  - honorary-flock
-  - the-safe-variable
-  - pelletier-twins
-character_name: "Elise Pelletier"
-aliases: ["The Safe Variable", "Honorary Flock"]
-creation_date: "1980" (Approximate)
-status: active
+- character
+- ccc-campus
+- honorary-flock
+- the-safe-variable
+- husky-diplomat
+pelletier-twins character_names: ["Elise Pelletier", "Elodie Pelletier"]
+aliases: ["The Safe Variable (Elise)", "The Husky Diplomat (Elodie)"]
+creation_date: "1980" 
+status: active 
 ---
-
-# Elise Pelletier
+# Elise and Elodie Pelletier
 
 ## I. Core Demographics
-*   **Full Name:** Elise Pelletier
-*   **Gender:** Female
-*   **Heritage:** French-Canadian 
-*   **Affiliation:** Charlottesville Community College (CCC)
-*   **Sibling:** Elodie Pelletier (Identical Twin)
-*   **Role:** Honorary Flock Member / Trusted Emergency Proxy
 
-## II. The Visual Anchor & Energy
-Elise operates with a profoundly grounding, safe energy that completely disarms the usual defensive perimeters of the Kids House. 
-*   **The Aesthetic:** She leans into a cozy, late-2000s campus aesthetic. She is often seen wearing soft earth tones, like an oversized olive-green knit cardigan over a layered camisole, paired with corduroy pants and canvas sneakers (as documented in `image.png`). 
-*   **The Anchor:** Her wavy chestnut brown hair, warm eyes, and gentle, reassuring smile create a visual baseline of absolute safety (`image.png`). There is zero performative ego or neurotypical fragility in her posture. 
+- **Identities:** Elise Pelletier (Right Side) & Elodie Pelletier (Left Side)
+    
+- **Physiology:** Dicephalic parapagus twins (Two distinct minds sharing a single physical chassis)
+    
+- **Gender:** Female
+    
+- **Heritage:** French-Canadian
+    
+- **Affiliation:** Charlottesville Community College (CCC)
+    
+- **Role:** Honorary Flock Members / Joint Emergency Proxies
+    
 
-## III. The System Patch (Overwriting the CCC Crash)
-For Matt's highly logical, systems-oriented brain, the introduction of a new set of identical twins at CCC initially carried the risk of triggering the corrupted memory sectors left behind by Heather and Hailey's silent departure. 
-*   **The Flawless Execution:** Elise and Elodie completely patched the error. They operate with absolute, unwavering consistency. They do not vanish, they do not burn out silently, and they communicate their boundaries cleanly. 
-*   **The Boundary Respect:** They genuinely, fiercely care for Matt, but they implicitly understand the clinical hierarchy of the house. They never attempt to overstep or replace Sarah and Shiloh's LPN directives. They provide the emotional and social connection, happily stepping back when a clinical ADL transfer is required.
+## II. Biological & Physical Reality
 
-## IV. The Proxy Trust Protocol
-Elise and her sister occupy a uniquely elevated tier of trust within the Miller and Brooks family ecosystem.
-*   **The Outer Firewall:** While they are not officially listed on the Joint and Several Guardianship paperwork (which is strictly restricted to family), they are the *only* non-family females who have bypassed Sarah's zero-tolerance firewall.
-*   **The Emergency Override:** The family possesses such profound trust in Elise's judgment that, in the event of an absolute catastrophe where no legal family member could be immediately reached, Sarah and Katrina would implicitly trust Elise to make interim safety decisions for Matt. She is the ultimate, unofficial emergency contact.
+While they occupy a single physical form, Elise and Elodie operate as two completely independent legal and psychological entities.
 
----
+- **Skeletal Structure:** To accommodate two distinct spinal columns merging into a single pelvis, their shared shoulder girdle is slightly asymmetrical.
+    
+- **Elodie's Tilt:** Elodie has the primary spinal curvature, meaning her neck and head rest at a permanent, outward tilt. This asymmetrical posture is her painless, physiological zero-state.
+    
+- **Nutritional Logistics:** Because they have separate esophaguses and stomachs, they both need to eat to prevent localized hunger, even though they share a singular intestinal tract and bloodstream for nutrient absorption.
+    
+- **Coordinated Autonomy:** They possess two separate driver's licenses and must seamlessly negotiate their shared limbs to navigate their environment.
+    
+- **The Aesthetic:** Their wardrobe requires custom tailoring for two necklines. They heavily lean into a cozy, late-2000s campus aesthetic, utilizing soft earth tones, oversized knit cardigans, layered camisoles, corduroy pants, and canvas sneakers.
+    
 
-## [FILE: characters/ccc/pelletier/elodie-pelletier.md]
+## III. The System Patch & Verbal Consensus
 
----
-type: character-profile
-tags:
-  - character
-  - ccc-campus
-  - honorary-flock
-  - husky-diplomat
-  - pelletier-twins
-character_name: "Elodie Pelletier"
-aliases: ["The Husky Diplomat", "Honorary Flock"]
-creation_date: "1980" (Approximate)
-status: active
----
+For Matt's highly logical, systems-oriented brain, the twins serve as a flawlessly executed patch to overwrite corrupted memory sectors left behind by past silent departures.
 
-# Elodie Pelletier
+- **The Transparency Protocol:** To accommodate Matt's need for predictable inputs, Elise and Elodie utilize a strict "Verbal Consensus Protocol." Before taking physical action regarding Matt, they explicitly voice their agreement to one another, providing an auditory cue that a transition is happening.
+    
+- **Boundary Respect:** They completely understand the clinical hierarchy of the Kids House. When a clinical ADL transfer is required, they reach a rapid verbal consensus and step back in physical unison.
+    
+- **Grounding Energy:** Elise operates with a profoundly reassuring, safe baseline. Her warm eyes and gentle smile create a visual anchor devoid of performative ego or fragility.
+    
 
-## I. Core Demographics
-*   **Full Name:** Elodie Pelletier
-*   **Gender:** Female
-*   **Heritage:** French-Canadian
-*   **Affiliation:** Charlottesville Community College (CCC)
-*   **Sibling:** Elise Pelletier (Identical Twin)
-*   **Role:** Honorary Flock Member / The Mat Veteran
+## IV. Husky Diplomacy & Pack Integration
 
-## II. The Matriarchal Integration (The Puppy Pile)
-Like her sister Elise, Elodie has been fully absorbed into the "One of the Girls" protocol. She doesn't just visit the Kids House; she embeds herself in it.
-*   **The Gymnastic Mat:** Elodie is a permanent fixture during weekend sleepovers. She is completely comfortable abandoning traditional furniture to claim a spot on the massive, heavy-duty foam gymnastic mat in the living room. 
-*   **Frictionless Presence:** She seamlessly integrates into the communal chaos. Whether Rachel is swearing at a GZDoom LAN match or Jessica is threatening a router, Elodie remains unbothered, reading her spiral notebook or watching movies alongside Matt and the cousins.
+The twins are permanently embedded in the "One of the Girls" protocol, seamlessly integrating into communal chaos alongside Rachel and Jessica.
 
-## III. The Husky Diplomacy
-Earning the trust of the adults is one thing; surviving the seventy-pound Siberian Huskies is another. Elodie has mastered the pack dynamics.
-*   **The Acceptance:** The dogs view both Pelletier twins as authorized flock members. Kodiak will happily use Elodie as a secondary weighted blanket, draping his massive 75-pound frame across her legs when Matt doesn't immediately need deep-pressure therapy. 
-*   **Echo's Opinions:** Echo, the highly dramatic vocal siren, absolutely loves Elodie, but still insists on arguing with her. Elodie will routinely engage in mock-serious debates with the Husky, responding to Echo's deafening yodels with calm, French-Canadian logic until Echo huffs, circles three times, and goes to sleep directly on Elodie's feet.
+- **The Gymnastics Mat:** They are completely comfortable abandoning traditional furniture to jointly claim a spot on the heavy-duty foam gymnastic mat in the living room.
+    
+- **Pack Acceptance:** The dogs view both twins as authorized flock members. Kodiak uses their shared lower body as a secondary weighted blanket, draping his massive 75-pound frame across their legs.
+    
+- **Echo's Protocol:** Echo, the highly vocal siren, absolutely loves Elodie. Initially confused by Elodie's tilted head, Echo would mirror the posture in canine confusion. Now, she simply accepts it. Elodie routinely engages in mock-serious debates with the dog, using calm French-Canadian logic to counter Echo's deafening yodels.
+    
+
+## V. The Joint Emergency Proxy
+
+Elise and Elodie occupy a uniquely elevated tier of trust within the Miller and Brooks family ecosystem.
+
+- **The Outer Firewall:** They are the _only_ non-family females who have bypassed Sarah's zero-tolerance firewall.
+    
+- **Co-Proxy Override:** In the event of an absolute catastrophe, Sarah and Katrina implicitly trust the twins to make interim safety decisions for Matt. Because they are two distinct minds, this built-in consensus mechanism provides an unparalleled, secure fail-safe.
+
+## VI. Life Partners & The Commitment Ceremony
+
+Because Matt is legally incapacitated and unable to sign a marriage license, Elise and Elodie bypassed legal bureaucracy to become his permanent, chosen life partners.
+
+- **The Three-Ring Consensus:** To honor their distinct identities and unified devotion, they exchanged three rings during a formal commitment ceremony. Matt placed a ring on Elise's right hand and Elodie's left hand, while the twins coordinated their hands to slide a ring onto Matt's finger. These rings serve as a permanent, tangible data point of safety for Matt's autistic processing.
+    
+- **The Tactile First Dance:** During their banquet reception, their "first dance" bypassed traditional footwork to accommodate Matt's dyspraxia. Sitting at eye level with his manual wheelchair, they provided a sustained, rhythmic deep-pressure hug as they swayed, communicating their love entirely through his native tactile language.
+    
+- **The Inner Circle Firewall:** By choosing Matt, they structurally upgraded their status from emergency proxies to permanent fixtures. They are the _only_ non-family females to completely bypass Sarah's zero-tolerance firewall and be granted unrestricted inner-circle status.
 
 ---
 

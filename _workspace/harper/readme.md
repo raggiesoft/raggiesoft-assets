@@ -14,7 +14,7 @@ Harper (v21.8.0) is the high-energy, modular Bash workhorse that automates the e
     
 - **Dynamic Threading & iGPU Safety:** Automatically calculates logical CPU cores to maximize concurrent audio rendering without locking up shared integrated graphics.
     
-- **Metadata & AI Compliance:** Deep-parses Schema.org JSON to generate DistroKid-ready DSP sheets and stamps universal AI-assisted production disclaimers across the catalog.
+- **DDEX-Compliant Metadata & AI Transparency:** Deep-parses Schema.org JSON to generate DistroKid-ready DSP sheets. Injects granular AI disclaimers—explicitly dividing human-authored lyrics/lore from synthetic audio—directly into archive `README.txt` files and audio containers (utilizing BWF chunks for WAV masters and native ID3/Vorbis tags for FLAC, MP3, and OGG formats).
     
 - **Vault Archiving:** Decouples heavy standard and audiophile tiers into ultra-compressed 7-Zip archives (`.zip` and `.7z`).
     
@@ -25,9 +25,7 @@ Harper (v21.8.0) is the high-energy, modular Bash workhorse that automates the e
 
 Harper is split into focused modules for safe execution and easy maintenance. They are loaded dynamically by the main `harper.sh` script:
 
-Plaintext
-
-```
+```text
 /harper
 ├── 01-init.sh             # Setup, hardware detection, dependencies
 ├── 02-audio-engine.sh     # The parallelized ffmpeg worker function
@@ -40,8 +38,6 @@ Plaintext
 ## Usage & Flags
 
 Execute Harper from the root workspace directory containing the `/harper` module folder. Ensure `ffmpeg`, `ffprobe`, `jq`, and `7z` (or `7zz`) are available in your environment.
-
-Bash
 
 ```
 ./harper.sh [FLAGS]
