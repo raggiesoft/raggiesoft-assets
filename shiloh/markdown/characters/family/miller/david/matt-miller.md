@@ -78,3 +78,16 @@ Because Matt requires 24/7 care, the family constructed a decentralized, ironcla
 *   **Joint and Several Authority:** While his parents (David and Linda) serve as the lead administrators of his legal Guardianship and Conservatorship, the legal authority is structured "Jointly and Severally" across the entire trusted network. This empowers his sister (Sarah), all of his cousins (Shiloh, Chloe, Jessica, Rachel, Emily), and his aunts/uncles (Casper, Katrina, Peter, Susan) to legally advocate, sign for, or authorize emergency care for him at any given moment, eliminating any single point of failure.
 *   **The Medical Chain of Command:** Within this legal framework, Sarah (LPN) takes the definitive lead on engineering his overarching medical needs and Standard Operating Procedures. Shiloh (LPN), operating as his 24/7 "Player Two," serves as the primary technician responsible for monitoring his minute-to-minute clinical baselines.
 *   **Ethical Scope of Practice:** Despite their vast clinical control over the house, Sarah and Shiloh operate under strict ethical guardrails. They meticulously triage and document Matt’s vital signs, behavioral data, and Medication Administration Records (MARs), but they explicitly do not self-diagnose or prescribe. All medical documentation generated in the Kids House is strictly prepared for hand-off to Matt's official, licensed Primary Care Provider (PCP) and medical specialists.
+### Northwood High School Schedule (1999)
+Matt operates on a strict 7-period schedule at Northwood High School (population ~2,000 students). Because of the overwhelming size of the student body and his mobility limitations, the administration grants him a 2-minute early dismissal from every class. This allows Mr. Vance to navigate the 'Blue Mile' and get Matt to his next class before the hallways flood with the chaotic horde.
+*   **6:50 AM:** Special needs bus arrival.
+*   **7:15 AM:** Start of the school day.
+*   **Period 1:** Government / Economics
+*   **Period 2:** English Literature
+*   **Period 3:** History
+*   **Period 4:** Mathematics 
+*   **Period 5:** Earth Science
+*   **Period 6:** Lunch
+*   **Period 7:** Computer Science / Independent Study
+*   **1:50 PM:** Early dismissal from 7th period to board the special needs bus before the main bus loop is rushed.
+*   **2:00 PM:** General student dismissal.
