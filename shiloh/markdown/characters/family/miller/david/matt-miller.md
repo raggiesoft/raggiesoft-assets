@@ -37,6 +37,7 @@ Matt's physical and neurological profile requires a highly structured, predictab
     *   Dyspraxia
     *   Sensory Processing Disorder
     *   Asynchronous Development
+*   **Cardiometabolic Health (Future Lore):** Years of massive, unrestricted dietary intake of sugar and saturated fats (e.g., giant sodas, buttered popcorn, and candies during family theater trips) will ultimately lay the groundwork for severe cardiometabolic issues later in life, culminating in a critical STEMI and the need for a CABG (Coronary Artery Bypass Graft).
 *   **Mobility:** Matt relies entirely on a manual wheelchair for ambient movement or physical transfers (lifts, slides, pivots) executed by his sister and cousins.
 *   **Vocal Capacity:** Functionally non-verbal. He cannot articulate words, relying instead on alternative communication methods.
 
