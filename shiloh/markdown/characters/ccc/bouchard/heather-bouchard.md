@@ -23,9 +23,14 @@ status: disconnected
 *   **Role:** CCC Peer / Former Romantic Interest
 
 ## II. The Campus Connection
+## II. The Campus Connection (The Rescuer & The Regulator)
 Heather is a student at Charlottesville Community College who shares an identical twin sister, Hailey. She possesses a highly clinical, technically demanding academic track in Nuclear Medicine, which gives her a profound mutual respect for both Shiloh's LPN training and Matt's hardware programming.
 *   **The Safe Variable:** Heather provided Matt with an incredibly safe, judgment-free social environment. She completely accepted his non-verbal communication and his reliance on a manual wheelchair without neurotypical awkwardness or pity.
 *   **The Boolean Boundary:** When invited to the Kids House, Heather provided a clear, polite decline. To Matt, this directness was deeply comforting, establishing a clean geographic parameter (`Geographic_Limit = CCC_Campus`) that allowed their platonic campus friendship to flourish.
+*   **The Rescuer Protocol:** Following the catastrophic "Unhandled Exception" of an abusive relationship Matt endured prior to meeting her, Heather executed a complete recovery protocol. She was the one who picked him up, dusted him off, and re-established his baseline value.
+*   **The Sensory Regulation System:** She acted as a vital grounding mechanism. Around her, Matt was able to safely power down his neurodivergent "masking" subroutines. 
+*   **The Physical Parameters:** Their connection was built entirely on safety, rather than traditional romance. They operated on strict physical boundaries: `Deep_Pressure_Hugs = TRUE` (providing essential grounding), while `Hand_Holding = FALSE` and `Kissing = FALSE` (she was "never ready"). To a systems-oriented brain, these concrete parameters were deeply comforting.
+*   **The Boolean Boundary:** When invited to the Kids House, Heather provided a clear, polite decline. This directness established a clean geographic parameter (`Geographic_Limit = CCC_Campus`) that kept their relationship safely isolated to the campus.
 
 ## III. The Psychological Profile (The Silent Overload)
 Unlike a malicious antagonist, Heather’s ultimate failure in the relationship stemmed from her own internal, unarticulated neurological limits.
