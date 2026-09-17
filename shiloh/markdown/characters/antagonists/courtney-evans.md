@@ -54,3 +54,6 @@ To maintain copyright-safe, in-universe continuity for future AI prompting, gene
 *   **The Matrix (1999) = *The Paradigm***: The highly anticipated, late-90s cyber-dystopian action movie they were supposed to see for his 18th birthday.
 *   **Titanic (1997) = *The Final Note***: The massive 1997 historical romance blockbuster. A poster for *The Final Note* hangs prominently above Courtney's beige computer monitor.
 *   **ICQ / AIM = *Omni-Q***: The primary desktop instant messaging client used by teenagers in 1999.
+### The Mother's Fury
+Courtney's mother actually liked Matt. When she discovered what Courtney did on Friday afternoon via Omni-Q—attempting to ruin the boy's 18th birthday out of pure shallow embarrassment—she was absolutely furious. Courtney was immediately grounded. 
+*   **The Escalation:** When the school inevitably contacts Courtney's mother to report that Courtney cornered Matt in the hallway and attempted to solicit sex from a protected, disabled adult, her mother's fury will reach catastrophic levels, likely resulting in severe, long-term disciplinary action at home.
