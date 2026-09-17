@@ -69,6 +69,10 @@ When variables in his environment become too chaotic or an unexpected threat (li
 *   **The Overload (`Err 6`):** Manifests as loud, distressed (non-word) cries, violent rocking, covering his ears/eyes, and visible terror.
 *   **The Reboot:** Afterward, he requires quiet, rest, and the deeply trusted physical reassurance (deep-pressure therapy) of his primary protectors or the heavy Siberian Huskies.
 
+### The Majesty Express Paradox (2026 Lore)
+While Matt thrives on routine, intense nostalgic triggers from his youth combined with early digital sensory input can cause a system crash. The most prominent example is the "Majesty Express" theater intro from the late 90s. If adult Matt in 2026 seeks out a YouTube video of this intro, it will reliably trigger an autistic meltdown. The raw, unpolished 1990s CGI and high-speed vestibular disconnect (visual plunging with physical stillness) create severe proprioceptive friction. When paired with the abrasive treble-heavy audio mixing, sudden synth-bells, and the overwhelming emotional weight of unlocking a core, joyful childhood memory, his neurodivergent brain is forced to process too much overlapping sensory and emotional data at once, resulting in an `Err 6 - Overflow`.
+
+
 ## VI. Legal & Clinical Architecture (Guardianship)
 Because Matt requires 24/7 care, the family constructed a decentralized, ironclad legal framework to ensure he is never left vulnerable to outside institutional control.
 *   **Joint and Several Authority:** While his parents (David and Linda) serve as the lead administrators of his legal Guardianship and Conservatorship, the legal authority is structured "Jointly and Severally" across the entire trusted network. This empowers his sister (Sarah), all of his cousins (Shiloh, Chloe, Jessica, Rachel, Emily), and his aunts/uncles (Casper, Katrina, Peter, Susan) to legally advocate, sign for, or authorize emergency care for him at any given moment, eliminating any single point of failure.
