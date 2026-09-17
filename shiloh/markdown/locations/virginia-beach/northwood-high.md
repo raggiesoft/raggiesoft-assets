@@ -98,7 +98,8 @@ era: "Fall 1999 - Spring 2003"
 *   **Civility:** Rude behavior results in immediate justice.
 *   **The Mystery Meat Edict:** No verbal, facial, or olfactory critique of the food is permitted.
 *   **The Polyglot Trap:** Mrs. DeMarco is fluent in multiple languages. Insulting her in a foreign tongue results in destruction in that language.
-*   **Zero Tolerance:** "The Penis Game," bullying, or harassment results in immediate assignment to the dumpsters.
+*   **The Annual Idiot:** Every year, some freshman idiot thinks they are the first to discover "The Penis Game" (whoever shouts the word the loudest without getting Mrs. DeMarco's attention wins). All attempts inevitably fail. The universal punishment is a 2:15 PM date with the dumpsters (Trash Duty).
+*   **Zero Tolerance:** Bullying or harassment results in immediate assignment to the dumpsters.
 
 ### The Punishment Scale
 *   **Level 0:** "The Look" (Disappointment).
