@@ -57,3 +57,20 @@ To maintain copyright-safe, in-universe continuity for future AI prompting, gene
 ### The Mother's Fury
 Courtney's mother actually liked Matt. When she discovered what Courtney did on Friday afternoon via Omni-Q—attempting to ruin the boy's 18th birthday out of pure shallow embarrassment—she was absolutely furious. Courtney was immediately grounded. 
 *   **The Escalation:** When the school inevitably contacts Courtney's mother to report that Courtney cornered Matt in the hallway and attempted to solicit sex from a protected, disabled adult, her mother's fury will reach catastrophic levels, likely resulting in severe, long-term disciplinary action at home.
+
+
+## VII. The OSS Fallout & The Nuclear 1990s Punishment
+When Bernard Morgan formally suspends Courtney for three days and removes her from the cheerleading squad for soliciting Matt, it triggers an absolute, nuclear escalation in the Evans household. Her mother, who genuinely liked Matt and had already grounded Courtney for the initial Omni-Q cruelty, does not yell when she arrives at the ISS trailer. She simply signs the paperwork and says, "To the car. Now." The ensuing drive home in suffocating silence marks the beginning of a brutal disciplinary campaign.
+
+*   **The ISS Purgatory:** Before her mother arrives, Courtney is held in the In-School Suspension trailer—the ultimate sensory deprivation chamber. With a droning AC unit, blank walls, and zero talking permitted, she is stripped of her friends, her Omni-Q, and her cheer uniform, left alone with the crushing reality of her consequences.
+*   **The Weaponization of the Brothers:** Having already been assigned her brothers' chores as baseline punishment, the OSS turns this into an 8-hour-a-day job. While her brothers watch TV in the AC, Courtney is forced to mow the lawn, weed in the humid Virginia heat, scrub the bathroom grout with a toothbrush, and wash down the baseboards. She is expected to operate with absolute subservience.
+*   **The Bedroom Deconstruction:** Her cozy suburban sanctuary is entirely dismantled. Her bedroom door is taken off its hinges to eliminate all privacy. The boombox, CDs, makeup, and Tiger Beat magazines are boxed up and locked away. Her room is reduced to a mattress, a dresser, and an unplugged beige computer monitor.
+*   **The Cheer Uniform Surrender:** The OSS legally mandates her removal from the squad, but Mrs. Evans enforces the emotional toll. On the final night of her suspension, Courtney must wash, perfectly iron, and fold her uniform. Her mother then drives her to the school after hours, forcing her to look the coach in the eye, hand the uniform back, and explicitly state she was suspended for a severe behavioral violation.
+*   **The Moral Reckoning (The Apology Letter):** Because Bernard issued a strict No-Contact order, Courtney is legally forbidden from apologizing to Matt. To enforce the psychological weight of this, Mrs. Evans forces Courtney to sit at the kitchen table and write a long, detailed apology letter to Matt and Sarah—only to throw it in the trash when finished, forcing Courtney to accept that some damage simply cannot be undone.
+
+By the time she returns to Northwood High on Thursday morning, The Illusion has been entirely dismantled.
+
+### The Eventual Repair & The Brothers' Intervention
+Despite the nuclear severity of her punishment, Courtney does eventually find redemption. Her two younger brothers—Jason (a Sophomore) and Ryan (a Freshman)—play a crucial role in breaking her ego and guiding her down the right path. While they strictly enforce her subservience during her punishment phase, their tough love ultimately helps her realize the gravity of her ableism. 
+
+Eventually, there will be a repair in the dynamic between Matt and Courtney. She will be allowed back into his orbit as a friend. However, the boundary remains clear: while she earns forgiveness, she will never regain a spot on the gymnastics crash mat. That level of intimacy and inner-circle trust is permanently closed to her.
