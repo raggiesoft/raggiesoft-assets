@@ -106,3 +106,9 @@ The moment she surrenders the purple and gold uniform, her second-in-command tak
 
 ## The Biological Disaster Variable
 As an adult, the heaviest anchor in Courtney's grief is realizing the legal and biological disaster she almost caused. If Matt had given into her apology and they had become physically intimate, the fallout would have destroyed multiple lives. Because of his legal incapacitation under Sarah's joint-and-several guardianship, a teenage pregnancy would be a severe statutory criminal violation, permanently destroying the Miller family’s carefully constructed clinical sanctuary.
+
+
+## The Tragic Irony of the Ghost Letter
+During her OSS, Courtney's mother forces her to write a full apology letter to Matt and Sarah, only to immediately throw it in the trash, citing the absolute boundaries of the No Contact order. 
+
+The tragic irony of this moment is that **if the letter had been sent, Sarah would have given Courtney one chance to prove she was sorry (with Matt's permission).** Despite the strictness of the No Contact order, the Miller family's capacity for grace is massive, and Matt would have accepted the genuine apology. By destroying the letter to teach her daughter a harsh lesson in accountability, Mrs. Evans inadvertently sealed Courtney's isolation and delayed her redemption by years.
