@@ -38,11 +38,24 @@ document.addEventListener('DOMContentLoaded', () => {
         // 4. Ignore external links
         if (targetUrl.origin !== currentUrl.origin) return;
         
-        // 5. Robustly ignore same-page anchor hash links
-        if (targetUrl.pathname === currentUrl.pathname) {
-            if (targetUrl.hash !== '' || link.href.endsWith('#')) {
-                return; // Let the browser handle intra-page navigation
+        // 5. Robustly handle same-page anchor hash links natively without triggering reloads
+        if (targetUrl.pathname === currentUrl.pathname && targetUrl.hash !== '') {
+            e.preventDefault(); // Stop the browser from triggering a hashchange/reload
+            const targetId = targetUrl.hash.substring(1);
+            const targetElement = document.getElementById(targetId);
+            if (targetElement) {
+                // Smooth scroll to the part
+                targetElement.scrollIntoView({ behavior: 'smooth' });
+                // Update URL without reloading
+                window.history.pushState(null, null, targetUrl.hash);
             }
+            return;
+        }
+        
+        // Handle empty hash edge case
+        if (targetUrl.pathname === currentUrl.pathname && link.href.endsWith('#')) {
+            e.preventDefault();
+            return;
         }
 
         // Prevent the hard reload

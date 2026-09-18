@@ -70,7 +70,16 @@ When Bernard Morgan formally suspends Courtney for three days and removes her fr
 
 By the time she returns to Northwood High on Thursday morning, The Illusion has been entirely dismantled.
 
+## VIII. The Post-Graduation Reality & The Single Blemish
+The suspension and cheerleading expulsion in May 1999 marked the absolute only disciplinary infraction of Courtney’s entire K-12 career. However, its severity fundamentally altered the trajectory of her adult life.
+
+*   **The Flipped Hierarchy:** Once her formal punishment concluded, the sibling dynamic never reverted. Jason and Ryan permanently transitioned from admiring younger brothers to the moral guardians of her character. Recognizing that their tough love saved her from a worse fate, Courtney accepted this flipped hierarchy, allowing them to guide her decision-making and hold her accountable long into adulthood.
+*   **The FAFSA Donut Hole:** Following her graduation, the traditional college escape route was closed. The Evans family fell directly into the financial aid "donut hole"—they made too much money to qualify for need-based Pell Grants, but could not afford the exorbitant out-of-pocket costs or private loans required for university tuition. 
+*   **The Cautionary Tale:** Bound by both economics and her moral rehabilitation, Courtney remained in her childhood home after the Class of 1999 dispersed. Her new permanent role was to support the household, work locally, and help raise Jason and Ryan through their remaining high school years. She willingly became the family's cautionary tale, ensuring her brothers learned from the catastrophic consequences of her single, unhandled exception.
+
 ### The Eventual Repair & The Brothers' Intervention
 Despite the nuclear severity of her punishment, Courtney does eventually find redemption. Her two younger brothers—Jason (a Sophomore) and Ryan (a Freshman)—play a crucial role in breaking her ego and guiding her down the right path. While they strictly enforce her subservience during her punishment phase, their tough love ultimately helps her realize the gravity of her ableism. 
 
 Eventually, there will be a repair in the dynamic between Matt and Courtney. She will be allowed back into his orbit as a friend. However, the boundary remains clear: while she earns forgiveness, she will never regain a spot on the gymnastics crash mat. That level of intimacy and inner-circle trust is permanently closed to her.
+
+
