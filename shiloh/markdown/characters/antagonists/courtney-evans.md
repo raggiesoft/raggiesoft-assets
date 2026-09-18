@@ -83,3 +83,26 @@ Despite the nuclear severity of her punishment, Courtney does eventually find re
 Eventually, there will be a repair in the dynamic between Matt and Courtney. She will be allowed back into his orbit as a friend. However, the boundary remains clear: while she earns forgiveness, she will never regain a spot on the gymnastics crash mat. That level of intimacy and inner-circle trust is permanently closed to her.
 
 
+
+
+## The Evans Brothers: Jason (16) and Ryan (14)
+Courtney’s two younger brothers are the architects of her deep rehabilitation during her OSS. Before the incident, the Evans siblings shared a deeply affectionate, highly physical bond—they frequently hugged, and when they were younger, they built indoor tents and slept on the floor together. 
+
+**Jason Evans (Sophomore)**
+Jason (16) is a pragmatic, athletic teenager who heavily benefited from the "halo effect" of his sister’s popularity. He wore faded jerseys, puka shells, and actively guarded Courtney’s relationship with Matt because he genuinely liked and respected Matt. Seeing her attack a disabled boy shattered his respect for her.
+
+**Ryan Evans (Freshman)**
+Ryan (14) is highly observant and emotionally intelligent. He completely idolized Courtney, viewing her as a flawless adult figure. He endured being treated as an NPC just to be in her orbit. Discovering her catastrophic cruelty broke his idolization entirely. As a psychological flip, the 14-year-old freshman dictates the terms of her OSS, acting out of a desperate, grieving need to fix the broken adult in the room.
+
+### The Weaponization of Silence & The Shared Computer
+The brothers’ punishment is brutal because they withdraw their baseline of physical affection entirely. When Jason passes her, he actively steps away to avoid grazing her arm. The coldness is the punishment.
+
+Adding to the devastation is the reality of the family's finances: the only internet-connected PC is in Courtney’s room, a symbol of trust. When she is suspended, Mrs. Evans takes her door completely off its hinges. The bedroom ceases to be a sanctuary and becomes a public thoroughfare. The brothers walk in, sit at her desk, and use the computer, completely ignoring her presence as she sits silently on her mattress. She is a ghost in her own room.
+
+## The End of the Cheer Legacy
+Courtney's Out-of-School Suspension triggers an automatic, school-mandated permanent ban from the Varsity Cheer Squad. Because it occurs in May of her senior year, it is a narrative guillotine. She doesn't just miss a few events; her entire high school legacy is erased. She will have no Senior Night, no flowers, and she cannot wear her uniform or cords at graduation.
+
+The moment she surrenders the purple and gold uniform, her second-in-command takes over. The school machinery moves on without her within 24 hours. The permanent erasure of this identity is the exact catalyst required for her eventual adult transformation.
+
+## The Biological Disaster Variable
+As an adult, the heaviest anchor in Courtney's grief is realizing the legal and biological disaster she almost caused. If Matt had given into her apology and they had become physically intimate, the fallout would have destroyed multiple lives. Because of his legal incapacitation under Sarah's joint-and-several guardianship, a teenage pregnancy would be a severe statutory criminal violation, permanently destroying the Miller family’s carefully constructed clinical sanctuary.
