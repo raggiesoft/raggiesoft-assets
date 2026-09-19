@@ -371,7 +371,7 @@
                 <p class="mt-2 font-monospace">Retrieving data from the Vault...</p>
             </div>`;
         
-        dom.modalElement.show();
+        if (typeof dom.modalElement.showModal === "function") { dom.modalElement.showModal(); } else { dom.modalElement.show(); }
 
         // 2. Fetch MD File (with cache busting ?v=timestamp to ensure fresh lore)
         fetch(url + "?v=" + Date.now())

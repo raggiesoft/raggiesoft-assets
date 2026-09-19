@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const modalElement = document.getElementById('konamiModal');
                 if (modalElement) {
                     if (typeof modalElement.show === 'function') {
-                        modalElement.show(); // Web Awesome Dialog
+                        if (typeof modalElement.showModal === "function") { modalElement.showModal(); } else { modalElement.show(); } // Web Awesome Dialog
                     } else if (window.bootstrap) {
                         let secretModal = bootstrap.Modal.getInstance(modalElement);
                         if (!secretModal) {
