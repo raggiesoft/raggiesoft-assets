@@ -56,3 +56,27 @@ wa-dialog {
     --wa-color-text-normal: #E0E0FF !important;
     color: #E0E0FF !important;
 }
+
+/* Force green buttons to have black text */
+wa-button[variant="success"]::part(label) {
+    color: #000000 !important;
+}
+wa-button[variant="success"]::part(prefix) {
+    color: #000000 !important;
+}
+
+/* Sledgehammer for Dialog Background Transparency */
+wa-dialog {
+    --wa-panel-background-color: #050508 !important;
+    --sl-panel-background-color: #050508 !important;
+}
+wa-dialog::part(panel) {
+    background-color: #050508 !important;
+    opacity: 1 !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+}
+wa-dialog::part(base) {
+    background-color: #050508 !important;
+    opacity: 1 !important;
+}
