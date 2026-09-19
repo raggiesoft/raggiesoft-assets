@@ -44,6 +44,6 @@
     transition: filter 0.3s ease;
 }
 
-[data-bs-theme="dark"] .logo-invert {
+.logo-invert {
     filter: invert(1) grayscale(100%) brightness(100%);
 }
