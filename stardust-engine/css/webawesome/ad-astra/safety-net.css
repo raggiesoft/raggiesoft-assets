@@ -80,3 +80,29 @@ wa-dialog::part(base) {
     background-color: #050508 !important;
     opacity: 1 !important;
 }
+
+/* Force ALL Web Awesome surfaces to be opaque in Ad Astra */
+:root,
+[data-bs-theme="dark"],
+.wa-theme-dark,
+wa-dialog {
+    --wa-color-surface-raised: #050508 !important;
+    --wa-color-surface-lowered: #050508 !important;
+    --wa-color-surface: #050508 !important;
+    --wa-dialog-background-color: #050508 !important;
+    --sl-dialog-background-color: #050508 !important;
+    --wa-panel-background-color: #050508 !important;
+    --sl-panel-background-color: #050508 !important;
+}
+
+wa-dialog {
+    background: #050508 !important;
+}
+
+wa-dialog::part(base) {
+    background: transparent !important; /* Make sure the base wrapper doesn't multiply opacity */
+}
+
+wa-dialog::part(panel) {
+    background: #050508 !important; /* Use shorthand background to override images/gradients */
+}
