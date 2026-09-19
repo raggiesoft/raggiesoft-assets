@@ -25,17 +25,20 @@ document.addEventListener('DOMContentLoaded', () => {
             // If the full sequence is entered
             if (currentPosition === konamiCode.length) {
                 
-                // Trigger the Bootstrap Modal
+                // Trigger the Web Awesome Modal
                 const modalElement = document.getElementById('konamiModal');
-                if (modalElement && window.bootstrap) {
-                    // Check if a modal instance already exists to avoid toggling issues
-                    let secretModal = bootstrap.Modal.getInstance(modalElement);
-                    if (!secretModal) {
-                        secretModal = new bootstrap.Modal(modalElement);
+                if (modalElement) {
+                    if (typeof modalElement.show === 'function') {
+                        modalElement.show(); // Web Awesome Dialog
+                    } else if (window.bootstrap) {
+                        let secretModal = bootstrap.Modal.getInstance(modalElement);
+                        if (!secretModal) {
+                            secretModal = new bootstrap.Modal(modalElement);
+                        }
+                        secretModal.show();
                     }
-                    secretModal.show();
                 } else {
-                    console.warn("Konami Activated, but modal element or Bootstrap is missing.");
+                    console.warn("Konami Activated, but modal element is missing.");
                 }
                 
                 // Reset sequence
