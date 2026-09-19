@@ -14,7 +14,10 @@
         "amazonId": "B0GVGRYWH5",
         "youtubeId": "OLAK5uy_lsQ8F8UUgU5xAd_Hw5Q5hIcWceh8XrcmA",
         "storeStandardUrl": "https://store.raggiesoft.com/products/electric-color-standard-digital-archive",
-        "storeAudiophileUrl": "https://store.raggiesoft.com/products/electric-color-studio-master-archive-wav"
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/electric-color-studio-master-archive-wav",
+        "realRelease": "2026-03-29",
+        "genre": "80s Synth-Rock",
+        "description": "The Stardust Engine's forced mainstream debut, masking their true industrial rock tendencies under Apex Records' polished synth-pop veneer."
       },
       {
         "title": "Neon Hearts",
@@ -26,7 +29,10 @@
         "amazonId": "B0GW96M9X2",
         "youtubeId": "OLAK5uy_nXmBKNOpa6GdEqNExjM9j6GDFhBqKLnAA&",
         "storeStandardUrl": "https://store.raggiesoft.com/products/neon-hearts-standard-digital-archive",
-        "storeAudiophileUrl": "https://store.raggiesoft.com/products/neon-hearts-studio-master-archive-wav"
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/neon-hearts-studio-master-archive-wav",
+        "realRelease": "2026-03-31",
+        "genre": "80s Synth-Pop",
+        "description": "A continuation of the Apex Records \"Cold War\", featuring brighter synths but darker underlying lyrics hinting at the band's growing rebellion."
       },
       {
         "title": "Live in Chicago",
@@ -40,7 +46,10 @@
         "storeStandardUrl": "https://store.raggiesoft.com/products/live-in-chicago-standard-digital-archive",
         "storeAudiophileUrl": "https://store.raggiesoft.com/products/live-in-chicago-studio-master-archive-wav",
         "dspExempt": true,
-        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault."
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault.",
+        "realRelease": "2026-04-01",
+        "genre": "Live Arena Rock",
+        "description": "A simulated live environment capturing the raw, unfiltered energy of the band right before the infamous Crash of '90."
       },
       {
         "title": "Friction",
@@ -53,7 +62,10 @@
         "amazonId": "",
         "youtubeId": "",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "Canceled",
+        "genre": "Industrial Rock",
+        "description": "The scrapped masterpiece. Apex Records deemed it too abrasive and aggressive, leading to the band's departure from the label."
       }
     ]
   },
@@ -72,7 +84,10 @@
         "amazonId": "B0GW3LQT9L",
         "youtubeId": "OLAK5uy_nRjE2QuS--YtWs_8PSodnDgSnHnNRjbWk",
         "storeStandardUrl": "https://store.raggiesoft.com/products/the-warehouse-tapes-standard-digital-archive",
-        "storeAudiophileUrl": "https://store.raggiesoft.com/products/the-warehouse-tapes-studio-master-archive-wav"
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/the-warehouse-tapes-studio-master-archive-wav",
+        "realRelease": "2026-04-02",
+        "genre": "80s Rock",
+        "description": "Forged in \"The Fortress\", this independent release finally unleashed the heavy, unfiltered industrial sound the band always intended to make."
       },
       {
         "title": "Ad Astra (Single)",
@@ -85,7 +100,10 @@
         "amazonId": "B0GWJ1QRKM",
         "youtubeId": "OLAK5uy_kLQWvvMLuBXvl7tsHxZQNeAh6fNxnNGEQ",
         "storeStandardUrl": "https://store.raggiesoft.com/products/escape-velocity-ad-astra-standard-digital-archive",
-        "storeAudiophileUrl": "https://store.raggiesoft.com/products/escape-velocity-ad-astra-studio-master-archive-wav"
+        "storeAudiophileUrl": "https://store.raggiesoft.com/products/escape-velocity-ad-astra-studio-master-archive-wav",
+        "realRelease": "2026-04-03",
+        "genre": "Prog Rock / Space Rock",
+        "description": "A soaring, atmospheric single that signaled a new era of experimental freedom for the band."
       },
       {
         "title": "Hard Reset",
@@ -97,7 +115,10 @@
         "amazonId": "B0GWRXCYW8",
         "youtubeId": "OLAK5uy_nkHJIKW-2bpzPKXLd9VLyd-b1O6GVf5Jc",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-04-05",
+        "genre": "80s Arena Rock / Progressive Pop",
+        "description": "A technological and thematic reset, blending aggressive guitars with cutting-edge 90s digital production."
       },
       {
         "title": "Forger Nation War Chest",
@@ -109,7 +130,10 @@
         "amazonId": "B0GXC2TYX7",
         "youtubeId": "OLAK5uy_nB7P4pRLyatOLTo5O3Bbi-8yrTkrB8AQ8",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-04-14",
+        "genre": "80s Arena Rock / Progressive Pop",
+        "description": "A heavy, political compilation dedicated to the loyal fans who stood by them during the label wars."
       },
       {
         "title": "Midnight Drivers",
@@ -121,7 +145,10 @@
         "amazonId": "B0GZCH6RCG",
         "youtubeId": "OLAK5uy_mMcJzsH_nSEcWkv9sj50pGaHpKvswrmzA",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-05-01",
+        "genre": "80s New Wave / Darkwave / Synth-Pop",
+        "description": "A slick, nocturnal album infused with the anxiety and rapid technological shifts of the new millennium."
       }
     ]
   },
@@ -140,7 +167,10 @@
         "amazonId": "B0HFKW38J4",
         "youtubeId": "OLAK5uy_kBHsCd1eDml2FudbQB5sPDmHhYKOWfNXo&si=8kbABVvkvJWWfqqE",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "",
+        "genre": "Atmospheric Synth-Pop / Ambient / Space Rock",
+        "description": "A zero-gravity atmospheric masterpiece showcasing the mathematically precise Cosmic Tidal Lock Sound. A sanctuary built on unwavering loyalty in the endless black."
       },
       {
         "title": "Mile Marker 98",
@@ -152,7 +182,10 @@
         "amazonId": "B0HFMRSN2Q",
         "youtubeId": "OLAK5uy_neimXHdqelZ9DHyAUvsJcgkomutEwm4Wk&si=jaECIEI6tNIqOYlM",
         "storeStandardUrl": "",
-        "storeAudiophileUrl": ""
+        "storeAudiophileUrl": "",
+        "realRelease": "",
+        "genre": "Heavy Rock / Industrial / Arena Rock",
+        "description": "Blistering, distorted electric guitars and aggressive rock energy. A visceral, high-friction confrontation with the trauma of The Crash of '90."
       }
     ]
   }
