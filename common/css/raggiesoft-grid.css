@@ -456,3 +456,27 @@ wa-button[appearance="plain"] {
 .rounded { border-radius: var(--wa-radius-medium) !important; }
 .p-3 { padding: 1rem !important; }
 .m-2 { margin: 0.5rem !important; }
+
+/* Navbar Container Flex Fix */
+.navbar > .container,
+.navbar > .container-fluid {
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: space-between;
+}
+
+@media (min-width: 768px) {
+    .navbar-expand-md .navbar-collapse {
+        flex-grow: 1;
+        align-items: center;
+    }
+}
+
+/* Additional Margin Helpers */
+.mx-1 { margin-left: 0.25rem !important; margin-right: 0.25rem !important; }
+.mx-2 { margin-left: 0.5rem !important; margin-right: 0.5rem !important; }
+.mx-3 { margin-left: 1rem !important; margin-right: 1rem !important; }
+.px-1 { padding-left: 0.25rem !important; padding-right: 0.25rem !important; }
+.px-2 { padding-left: 0.5rem !important; padding-right: 0.5rem !important; }
+.px-3 { padding-left: 1rem !important; padding-right: 1rem !important; }
