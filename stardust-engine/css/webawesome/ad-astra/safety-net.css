@@ -31,3 +31,28 @@ wa-icon-button[name=\"bars\"] .hamburger-bar { background-color: #FFFFFF !import
 .text-dark { 
     color: #FFFFFF !important; 
 }
+/* Force Web Awesome buttons to respect the theme text colors */
+wa-button[appearance="plain"]::part(base) {
+    color: var(--bs-body-color) !important;
+}
+
+wa-button[appearance="plain"]:hover::part(base) {
+    color: #FFFFFF !important;
+}
+
+.text-body {
+    color: var(--bs-body-color) !important;
+}
+
+/* Force Web Awesome dialogs to have white text in Ad Astra */
+wa-dialog::part(title) {
+    color: #FFFFFF !important;
+}
+
+wa-dialog {
+    --wa-color-neutral-text-body: #E0E0FF !important;
+    --wa-color-neutral-text-normal: #E0E0FF !important;
+    --wa-color-text-body: #E0E0FF !important;
+    --wa-color-text-normal: #E0E0FF !important;
+    color: #E0E0FF !important;
+}
