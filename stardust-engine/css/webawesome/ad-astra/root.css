@@ -62,7 +62,8 @@
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 
-[data-bs-theme="dark"] {
+[data-bs-theme="dark"],
+.wa-theme-dark {
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
@@ -86,7 +87,11 @@
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  --wa-color-text-body: var(--bs-body-color);
   --wa-color-text-normal: var(--bs-body-color);
+  --wa-color-neutral-text-body: var(--bs-body-color);
+  --wa-color-neutral-text-normal: var(--bs-body-color);
+  
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
   --wa-color-neutral-border-quiet: var(--bs-border-color);
