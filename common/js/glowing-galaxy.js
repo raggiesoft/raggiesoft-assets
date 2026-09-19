@@ -12,16 +12,12 @@ function initStardustGalaxy() {
     // Ensure the container is positioned so absolute children stay inside
     container.style.position = 'relative';
     container.style.overflow = 'hidden';
-    container.style.backgroundColor = '#050508'; // Deep space default
 
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    const hour = new Date().getHours();
-    
-    // Day time: 6 AM to 6 PM (Show planet)
-    const isDaytime = hour >= 6 && hour < 18;
+    const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches || document.documentElement.getAttribute('data-bs-theme') === 'dark';
 
-    if (isDaytime) {
-        // Render a CSS-only glowing planet
+    if (!isDarkMode) {
+        // Light Mode: Render a CSS-only glowing planet
         const planet = document.createElement('div');
         planet.className = 'stardust-planet';
         planet.style.position = 'absolute';
@@ -40,7 +36,7 @@ function initStardustGalaxy() {
         
         container.appendChild(planet);
     } else {
-        // Render the starry night sky
+        // Dark Mode: Render the starry night sky
         const starCount = 120; 
 
         for (let i = 0; i < starCount; i++) {
@@ -91,3 +87,12 @@ function initStardustGalaxy() {
 // Bind to both initial load and Stardust Engine SPA lifecycle hook
 document.addEventListener('DOMContentLoaded', initStardustGalaxy);
 document.addEventListener('elara:loaded', initStardustGalaxy);
+
+// Re-render when theme changes dynamically
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+    const container = document.getElementById('stardust-labs-bg');
+    if (container) {
+        container.removeAttribute('data-galaxy-rendered');
+        initStardustGalaxy();
+    }
+});
