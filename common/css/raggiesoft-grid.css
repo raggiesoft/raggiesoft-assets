@@ -497,3 +497,9 @@ wa-button[appearance="plain"] {
   left: 0;
   z-index: 1030;
 }
+
+/* Fix transparent Web Awesome dialog panels */
+wa-dialog::part(panel) {
+  background-color: var(--wa-color-surface-default, #ffffff);
+  color: var(--wa-color-text-normal, #000000);
+}
