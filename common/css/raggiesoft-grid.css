@@ -338,3 +338,53 @@ body {
   .d-md-none { display: none !important; }
 }
 
+
+/* Layout Colors & Borders Polyfill */
+.bg-body-tertiary { background-color: var(--wa-color-surface-raised, rgba(0, 0, 0, 0.05)) !important; }
+.bg-body { background-color: var(--wa-color-surface-default) !important; }
+.text-body { color: var(--wa-color-text-normal) !important; }
+.text-muted, .text-body-secondary { color: var(--wa-color-neutral-text-quiet) !important; }
+
+.border { border: 1px solid var(--wa-color-neutral-border-quiet) !important; }
+.border-top { border-top: 1px solid var(--wa-color-neutral-border-quiet) !important; }
+.border-bottom { border-bottom: 1px solid var(--wa-color-neutral-border-quiet) !important; }
+.border-start { border-left: 1px solid var(--wa-color-neutral-border-quiet) !important; }
+.border-end { border-right: 1px solid var(--wa-color-neutral-border-quiet) !important; }
+
+.border-secondary-subtle { border-color: rgba(255,255,255,0.1) !important; }
+.border-0 { border: 0 !important; }
+
+/* Links */
+.link-secondary { color: var(--wa-color-neutral-text-quiet); text-decoration: none; }
+.link-secondary:hover { color: var(--wa-color-text-normal); text-decoration: underline; }
+
+/* Display utilities missing */
+.d-inline-block { display: inline-block !important; }
+.text-center { text-align: center !important; }
+.text-start { text-align: left !important; }
+.text-end { text-align: right !important; }
+.fw-bold { font-weight: bold !important; }
+.fw-light { font-weight: 300 !important; }
+.opacity-75 { opacity: 0.75 !important; }
+.opacity-50 { opacity: 0.50 !important; }
+
+/* Flex utilities */
+.flex-column { flex-direction: column !important; }
+.justify-content-start { justify-content: flex-start !important; }
+.gap-1 { gap: 0.25rem !important; }
+.gap-2 { gap: 0.5rem !important; }
+.gap-3 { gap: 1rem !important; }
+
+/* Fix for Web Awesome Buttons in Sidebars and Flex Columns */
+wa-button[appearance="plain"]::part(base),
+wa-button.justify-content-start::part(base) {
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+
+wa-button[appearance="plain"] {
+    --wa-button-background: transparent;
+    --wa-button-background-hover: var(--wa-color-surface-raised);
+    --wa-button-border-color: transparent;
+    --wa-button-color: var(--wa-color-text-normal);
+}
