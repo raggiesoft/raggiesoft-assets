@@ -1,5 +1,7 @@
+console.log('CINEMA CAROUSEL SCRIPT FILE LOADED');
 function initializeCinemaCarousel() {
     const carousel = document.getElementById('cinemaCarousel');
+    console.log('initializeCinemaCarousel fired! Found carousel:', carousel);
     const prevBtns = document.querySelectorAll('.cinema-prev');
     const nextBtns = document.querySelectorAll('.cinema-next');
     let autoplayInterval;
