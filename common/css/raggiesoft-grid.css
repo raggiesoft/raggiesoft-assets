@@ -430,3 +430,29 @@ wa-button[appearance="plain"] {
 .list-group-flush > .list-group-item:last-child { border-bottom-width: 0; }
 .list-group-item-action:hover, .list-group-item-action:focus { color: var(--wa-color-brand-text); background-color: var(--wa-color-surface-raised); }
 .list-group-item.active { z-index: 2; color: #fff; background-color: var(--wa-color-brand-fill); border-color: var(--wa-color-brand-fill); font-weight: bold; }
+
+/* Accessibility Polyfills */
+.visually-hidden,
+.visually-hidden-focusable:not(:focus):not(:focus-within) {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* Colors for Skip to Main Content */
+.bg-primary { background-color: var(--wa-color-brand-fill) !important; }
+.text-white { color: #ffffff !important; }
+.z-3 { z-index: 3 !important; }
+.position-absolute { position: absolute !important; }
+.start-0 { left: 0 !important; }
+.top-0 { top: 0 !important; }
+.text-decoration-none { text-decoration: none !important; }
+.rounded { border-radius: var(--wa-radius-medium) !important; }
+.p-3 { padding: 1rem !important; }
+.m-2 { margin: 0.5rem !important; }
