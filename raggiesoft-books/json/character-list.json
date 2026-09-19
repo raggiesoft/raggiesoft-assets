@@ -457,5 +457,230 @@
         "slug": "other/pelletier-elise",
         "category": "fictional",
         "story": "other"
+    },
+    {
+        "firstName": "Cassidy",
+        "lastName": "O\\",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-cassidy.md",
+        "duplicateApprovalReason": "",
+        "slug": "stardust-engine/cassidy-oconnell",
+        "category": "fictional",
+        "story": "stardust-engine"
+    },
+    {
+        "firstName": "Tyler",
+        "lastName": "Wright",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-tyler.md",
+        "duplicateApprovalReason": "",
+        "slug": "stardust-engine/tyler-wright",
+        "category": "fictional",
+        "story": "stardust-engine"
+    },
+    {
+        "firstName": "Evan",
+        "lastName": "Wright",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-evan.md",
+        "duplicateApprovalReason": "",
+        "slug": "stardust-engine/evan-wright",
+        "category": "fictional",
+        "story": "stardust-engine"
+    },
+    {
+        "firstName": "Ryan",
+        "lastName": "O\\",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-ryan.md",
+        "duplicateApprovalReason": "",
+        "slug": "stardust-engine/ryan-oconnell",
+        "category": "fictional",
+        "story": "stardust-engine"
+    },
+    {
+        "firstName": "Holly",
+        "lastName": "O\\",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-holly.md",
+        "duplicateApprovalReason": "",
+        "slug": "stardust-engine/holly-oconnell",
+        "category": "fictional",
+        "story": "stardust-engine"
+    },
+    {
+        "firstName": "Trent",
+        "lastName": "Montgomery",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/montgomery-trent.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/trent-montgomery",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Miller",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-emily.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/emily-miller",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Sarah",
+        "lastName": "Miller",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-sarah.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/sarah-miller",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "The",
+        "lastName": "Pelletier Twins",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/twins-the-pelletier.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/the-pelletier-twins",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Elodie",
+        "lastName": "Pelletier",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elodie.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/elodie-pelletier",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Matt",
+        "lastName": "Miller",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-matt.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/matt-miller",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Chloe",
+        "lastName": "Brooks",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-chloe.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/chloe-brooks",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Rachel",
+        "lastName": "Miller",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-rachel.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/rachel-miller",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Elise",
+        "lastName": "Pelletier",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elise.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/elise-pelletier",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Brooks",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-jessica.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/jessica-brooks",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Shiloh",
+        "lastName": "Brooks",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-shiloh.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/shiloh-brooks",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Courtney",
+        "lastName": "Evans",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/evans-courtney.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/courtney-evans",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Mrs",
+        "lastName": "Periwinkle",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/periwinkle-mrs.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/mrs-periwinkle",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Mrs",
+        "lastName": "Demarco",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/demarco-mrs.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/mrs-demarco",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Bernard",
+        "lastName": "Morgan",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/morgan-bernard.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/bernard-morgan",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Arthur",
+        "lastName": "Vance",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/vance-arthur.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/arthur-vance",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Hailey",
+        "lastName": "Bouchard",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-hailey.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/hailey-bouchard",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Heather",
+        "lastName": "Bouchard",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-heather.md",
+        "duplicateApprovalReason": "",
+        "slug": "crimson-node/heather-bouchard",
+        "category": "fictional",
+        "story": "crimson-node"
+    },
+    {
+        "firstName": "Claire",
+        "lastName": "Manning",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-claire.md",
+        "duplicateApprovalReason": "",
+        "slug": "fractured-prisms/claire-manning",
+        "category": "fictional",
+        "story": "fractured-prisms"
+    },
+    {
+        "firstName": "Rhys",
+        "lastName": "Manning",
+        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-rhys.md",
+        "duplicateApprovalReason": "",
+        "slug": "fractured-prisms/rhys-manning",
+        "category": "fictional",
+        "story": "fractured-prisms"
     }
 ]
