@@ -50,7 +50,7 @@
         modalContent: document.getElementById('lyricsContent')
     };
 
-    let bsModal = null; // Bootstrap Modal Instance
+    let bsModal = null; // Deprecated
 
     // ========================================================================
     // INITIALIZATION & EVENT LISTENERS
@@ -64,9 +64,7 @@
         dom.title.setAttribute('aria-atomic', 'true');
 
         // Initialize Bootstrap Modal
-        if (dom.modalElement) {
-            bsModal = new bootstrap.Modal(dom.modalElement);
-        }
+        
 
         // Attach Persistent Controls (Footer Buttons)
         dom.btnPrev.onclick = () => { let idx = getNextIndex(-1); if(idx !== -1) loadTrack(idx); };
@@ -363,17 +361,17 @@
      * This handles custom headers like **LORE NOTE:**
      */
     window.openLyrics = function(title, url) {
-        if (!bsModal) return; // Guard if modal missing
+        if (!dom.modalElement) return; // Guard if modal missing
 
         // 1. Set Loading State
         dom.modalTitle.textContent = title;
         dom.modalContent.innerHTML = `
             <div class="text-center py-5">
-                <div class="spinner-border text-primary" role="status"></div>
+                <wa-spinner class="text-primary"></wa-spinner>
                 <p class="mt-2 font-monospace">Retrieving data from the Vault...</p>
             </div>`;
         
-        bsModal.show();
+        dom.modalElement.show();
 
         // 2. Fetch MD File (with cache busting ?v=timestamp to ensure fresh lore)
         fetch(url + "?v=" + Date.now())

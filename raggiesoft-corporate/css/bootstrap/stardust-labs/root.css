@@ -33,3 +33,40 @@
     --raggie-glass-shadow: 0 0 20px rgba(0, 229, 255, 0.15); 
     --raggie-gloss-highlight: rgba(0, 229, 255, 0.2);
 }
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --wa-color-brand-fill-loud: var(--bs-primary);
+  --wa-color-brand-text-loud: var(--bs-primary);
+  --wa-color-brand-border-loud: var(--bs-primary);
+  
+  --wa-color-danger-fill-loud: var(--bs-danger);
+  --wa-color-danger-text-loud: var(--bs-danger);
+  --wa-color-danger-border-loud: var(--bs-danger);
+  
+  --wa-color-warning-fill-loud: var(--bs-warning);
+  --wa-color-warning-text-loud: var(--bs-warning);
+  --wa-color-warning-border-loud: var(--bs-warning);
+  
+  --wa-color-success-fill-loud: var(--bs-success);
+  --wa-color-success-text-loud: var(--bs-success);
+  --wa-color-success-border-loud: var(--bs-success);
+
+  --wa-color-info-fill-loud: var(--bs-info);
+  --wa-color-info-text-loud: var(--bs-info);
+  
+  --wa-color-surface-default: var(--bs-body-bg);
+  --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --wa-color-text-normal: var(--bs-body-color);
+  --wa-color-neutral-text-quiet: var(--bs-secondary);
+  
+  --wa-color-neutral-border-quiet: var(--bs-border-color);
+  --wa-color-surface-border: var(--bs-border-color);
+}
