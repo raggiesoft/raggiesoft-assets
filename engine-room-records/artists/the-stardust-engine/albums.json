@@ -60,7 +60,7 @@
   "freedom": {
     "label": "The \"Freedom\" Era",
     "heading": "1995-2007: The \"Freedom\" Era",
-    "description": "After the contract was voided, the band retreated to \"The Fortress\"—a warehouse studio where they finally forged the industrial-rock sound they always heard in their heads.",
+    "description": "After the contract was voided, the band retreated to \"The Fortress\"\u2014a warehouse studio where they finally forged the industrial-rock sound they always heard in their heads.",
     "albums": [
       {
         "title": "The Warehouse Tapes",
@@ -125,16 +125,35 @@
       }
     ]
   },
-  "reignition": {
-    "label": "The \"Re-Ignition\" Era",
-    "heading": "2015-2016: Homecoming",
-    "description": "Following an eight-year hiatus to focus on family, the band returned with a polished, powerful sound that reconciled their pop history with their rock identity.",
-    "albums": []
-  },
-  "modern": {
-    "label": "Modern Era & Soundtracks",
-    "heading": "2017-Present: The Transmission",
-    "description": "The band no longer tours for profit. They operate as a musical collective, releasing atmospheric soundtracks and concept albums broadcast from the Engine Room.",
-    "albums": []
+  "err-planetarium": {
+    "label": "Engine Room Records Planetarium",
+    "heading": "2003: The Twin Moons Project",
+    "description": "An ambitious dual-release project presenting two distinct perspectives\u2014a high-friction confrontation with the trauma of The Crash of '90, and a zero-gravity atmospheric sanctuary.",
+    "albums": [
+      {
+        "title": "Sanctuary (Zero-G)",
+        "year": "2003",
+        "url": "/engine-room/artists/stardust-engine/discography/2003-moon-1-sanctuary-zero-g",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/album-art.jpg",
+        "spotifyId": "0amP6osWds6G3eNfXA9XCJ",
+        "appleId": "6802424206",
+        "amazonId": "B0HFKW38J4",
+        "youtubeId": "OLAK5uy_kBHsCd1eDml2FudbQB5sPDmHhYKOWfNXo&si=8kbABVvkvJWWfqqE",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
+      },
+      {
+        "title": "Mile Marker 98",
+        "year": "2003",
+        "url": "/engine-room/artists/stardust-engine/discography/2003-moon-2-mile-marker-98",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/album-art.jpg",
+        "spotifyId": "4hTTizMIZjAZAOq2nJD6Oq",
+        "appleId": "6802665737",
+        "amazonId": "B0HFMRSN2Q",
+        "youtubeId": "OLAK5uy_neimXHdqelZ9DHyAUvsJcgkomutEwm4Wk&si=jaECIEI6tNIqOYlM",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": ""
+      }
+    ]
   }
 }
