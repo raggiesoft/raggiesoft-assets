@@ -83,7 +83,7 @@
         "slug": "jessica",
         "title": "jessica",
         "description": "",
-        "image": "",
+        "image": "/raggiesoft-books/images/covers/quantum-corporate.jpg",
         "first_route": "/raggiesoft-books/books/jessica/b001/c001/p001",
         "folder": "jessica"
     },
@@ -91,7 +91,7 @@
         "slug": "kelly",
         "title": "kelly",
         "description": "",
-        "image": "",
+        "image": "/raggiesoft-books/images/covers/quantum-corporate.jpg",
         "first_route": "/raggiesoft-books/books/kelly/b001/c001/p001",
         "folder": "kelly"
     },
