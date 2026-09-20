@@ -1,134 +1,51 @@
 [
     {
         "book_num": 1,
-        "book_title": "Alex’s Childhood",
+        "book_title": "Wyatt’s Prologue",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Carter House",
+                "chap_title": "Wyatt – Expendable Assets",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The First Meeting",
+                        "part_title": "The Deep End – Mid-October 2044 (Days prior to arrival)  ",
                         "file_path": "b001/c001/p001.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "Elementary School",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The First Day of Kindergarten",
-                        "file_path": "b001/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Afternoon Block",
-                        "file_path": "b001/c002/p002.md"
+                        "part_title": "Freight – Mid-October 2044 (Interstellar transit) ",
+                        "file_path": "b001/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Eye of the Storm",
-                        "file_path": "b001/c002/p003.md"
+                        "part_title": "The Pipeline – Thursday, October 20, 2044 (Transit to NTTR)",
+                        "file_path": "b001/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Guardian and the Architect",
-                        "file_path": "b001/c002/p004.md"
+                        "part_title": "Intake – Thursday, October 20, 2044 – 04:00",
+                        "file_path": "b001/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "The Nickname",
-                        "file_path": "b001/c002/p005.md"
+                        "part_title": "The Filing Cabinet – Thursday, October 20, 2044 – ~04:20 (Shift starts in 20 minutes)",
+                        "file_path": "b001/c001/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "A Quiet Place in the Chaos",
-                        "file_path": "b001/c002/p006.md"
+                        "part_title": "The Washroom – Thursday, October 20, 2044 – ~04:30",
+                        "file_path": "b001/c001/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "The Grand Prix",
-                        "file_path": "b001/c002/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "A Date with Jennifer (c. 1998)",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Dare and The Setup",
-                        "file_path": "b001/c003/p001.md"
+                        "part_title": "The Trough – Thursday, October 20, 2044 – ~04:40",
+                        "file_path": "b001/c001/p007.md"
                     },
                     {
-                        "part_num": 2,
-                        "part_title": "Senior Week",
-                        "file_path": "b001/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Aftermath of a Movie",
-                        "file_path": "b001/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Antidote",
-                        "file_path": "b001/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Fizzle",
-                        "file_path": "b001/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Better Kind of Friendship",
-                        "file_path": "b001/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Aftermath at School",
-                        "file_path": "b001/c003/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "Alex as a Teenager",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Quiet Place in the Chaos",
-                        "file_path": "b001/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Resonance Cascade",
-                        "file_path": "b001/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Codex",
-                        "file_path": "b001/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Declaration",
-                        "file_path": "b001/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Upgrade",
-                        "file_path": "b001/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Training Montage & The Sign",
-                        "file_path": "b001/c004/p006.md"
+                        "part_num": 8,
+                        "part_title": "The Checkpoint – Thursday, October 20, 2044 – ~04:50",
+                        "file_path": "b001/c001/p008.md"
                     }
                 ]
             }
@@ -136,91 +53,51 @@
     },
     {
         "book_num": 2,
-        "book_title": "Summer of Discovery 1999",
+        "book_title": "Sarah’s Prologue",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The House Next Door",
+                "chap_title": "Sarah – The Promise",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "An Instant Connection",
+                        "part_title": "First Flight – Mid-October 2044 (Days prior to arrival)",
                         "file_path": "b002/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Boardwalk Blasts & Budding Bonds",
+                        "part_title": "The Voyage – Mid-October 2044 (Interstellar transit)",
                         "file_path": "b002/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Sandwiches and Shared Worlds",
+                        "part_title": "The Transfer – Thursday, October 20, 2044 – 08:00 (Local Spaceport Time)",
                         "file_path": "b002/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Sweetness of a Hug",
+                        "part_title": "The Handoff – Thursday, October 20, 2044 – 04:00 (NTTR Local Time)",
                         "file_path": "b002/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Day at Fairlawn and Shared Stories",
+                        "part_title": "The Glitch – Thursday, October 20, 2044 – ~04:15 (Shift starts in exactly forty-five minutes)",
                         "file_path": "b002/c001/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The First Boundary",
+                        "part_title": "The Washroom – Thursday, October 20, 2044 – ~04:30",
                         "file_path": "b002/c001/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "The Reunion",
+                        "part_title": "The Divide – Thursday, October 20, 2044 – ~04:40",
                         "file_path": "b002/c001/p007.md"
                     },
                     {
                         "part_num": 8,
-                        "part_title": "A Ramp of Welcome",
+                        "part_title": "The Checkpoint – Thursday, October 20, 2044 – ~04:50",
                         "file_path": "b002/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "Electives, Echoes of French, and an Informal Tutor",
-                        "file_path": "b002/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Architect of The Codex",
-                        "file_path": "b002/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The First Sleepover – Labor Day Weekend",
-                        "file_path": "b002/c001/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Morning After – A New Normal",
-                        "file_path": "b002/c001/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "Bedtime and Beach Dreams",
-                        "file_path": "b002/c001/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "Beach Day Bound – The Last Day of Freedom",
-                        "file_path": "b002/c001/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Oceanfront Wonders – A Day of Firsts",
-                        "file_path": "b002/c001/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "A Drawer of Belonging",
-                        "file_path": "b002/c001/p016.md"
                     }
                 ]
             }
@@ -228,229 +105,189 @@
     },
     {
         "book_num": 3,
-        "book_title": "Fresh Meat",
+        "book_title": "The Acquisition",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "Welcome to High School",
+                "chap_title": "Wyatt – Orientation Day",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Unofficial Orientation",
+                        "part_title": "The Powder Keg – Thursday, October 20, 2044 – ~05:00",
                         "file_path": "b003/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Bonjour, Madame Beaumont",
+                        "part_title": "The Chain of Command – Thursday, October 20, 2044 – ~06:00",
                         "file_path": "b003/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Infamous Game and Instant Justice",
+                        "part_title": "The Maintenance Closet – Thursday, October 20, 2044 – ~07:00",
                         "file_path": "b003/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "An Aromatic Apprenticeship",
+                        "part_title": "The Grind – Thursday, October 20, 2044 – ~08:00",
                         "file_path": "b003/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "The Lingering Aroma of Justice",
+                        "part_title": "The Break – Thursday, October 20, 2044 – ~11:00 (Six hours into the shift)",
                         "file_path": "b003/c001/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Delinquent, The Dumpsters, and The Deep Fryer's Due",
+                        "part_title": "42-C – Thursday, October 20, 2044 – ~17:00 (The twelve-hour mark hit)",
                         "file_path": "b003/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Humble Request and a Changing Tide",
-                        "file_path": "b003/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Different Kind of \"The Talk\"",
-                        "file_path": "b003/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Quiet Understanding – Their Own Conversation",
-                        "file_path": "b003/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "An Interrupted Lesson and an Inevitable Summons",
-                        "file_path": "b003/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "Cafeteria Justice, Multilingual Edition **",
-                        "file_path": "b003/c001/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "Chapter 2: A First Winter",
-                        "file_path": "b003/c001/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "A Canadian Word",
-                        "file_path": "b003/c001/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "A New Tradition",
-                        "file_path": "b003/c001/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Christmas Eve on Lisa Court",
-                        "file_path": "b003/c001/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "A Quiet Ritual",
-                        "file_path": "b003/c001/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "A Christmas of Firsts",
-                        "file_path": "b003/c001/p017.md"
-                    },
-                    {
-                        "part_num": 18,
-                        "part_title": "A Cross-Border Introduction",
-                        "file_path": "b003/c001/p018.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "Spring Semester at Northwood High",
+                "chap_title": "The Second Shift",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Gaelic Gambit and the Grease Trap Lament",
+                        "part_title": "Wake Up Call – Friday, October 21, 2044 – 01:00 (After sleeping for eight hours)",
                         "file_path": "b003/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Birthday Twins",
+                        "part_title": "The Morning Ration – Friday, October 21, 2044 – ~01:15",
                         "file_path": "b003/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "A Party for Two",
+                        "part_title": "The Checkpoint – Friday, October 21, 2044 – ~01:30",
                         "file_path": "b003/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "A Miller-Mason Birthday Extravaganza",
+                        "part_title": "The Telemetry Anomaly – Friday, October 21, 2044 – ~02:00",
                         "file_path": "b003/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Change of Scenery",
+                        "part_title": "The Anchor – Friday, October 21, 2044 – ~03:00",
                         "file_path": "b003/c002/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The First Step of the Adventure",
+                        "part_title": "The Ghost Shift – Friday, October 21, 2044 – 07:00 (Six more hours until shift change)",
                         "file_path": "b003/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Blind Spot – Friday, October 21, 2044 – ~08:00 (During the one-hour meal rotation)",
+                        "file_path": "b003/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Ghost Roster – Friday, October 21, 2044 – 10:00 (Two hours later)",
+                        "file_path": "b003/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Sanctuary – Friday, October 21, 2044 – 11:00 (With two hours left on the twelve-hour clock)",
+                        "file_path": "b003/c002/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "Off the Clock – Friday, October 21, 2044 – 13:00 (The twelve-hour klaxon finally screamed)",
+                        "file_path": "b003/c002/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "Return to The Sanctuary – Friday, October 21, 2044 – ~13:30 (Setting up camp in the abandoned break room)",
+                        "file_path": "b003/c002/p011.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "One Town, Two Countries",
+                "chap_title": "Day Three",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Adventure Becomes Real",
+                        "part_title": "The Illusion of Control – Saturday, October 22, 2044 – 05:00 (PDA alarm goes off at 0500 hours)",
                         "file_path": "b003/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Night Before",
+                        "part_title": "The Veterans – Saturday, October 22, 2044 – ~05:15",
                         "file_path": "b003/c003/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Journey North",
+                        "part_title": "The Echo – Saturday, October 22, 2044 – ~05:30",
                         "file_path": "b003/c003/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "A Familiar Crossing",
+                        "part_title": "The Bleeding Bedrock – Saturday, October 22, 2044 – ~06:00",
                         "file_path": "b003/c003/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Town Without Walls",
+                        "part_title": "The Pact – Saturday, October 22, 2044 – ~07:00",
                         "file_path": "b003/c003/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "One Street, Two Countries",
+                        "part_title": "Clear Parameters – Saturday, October 22, 2044 – ~08:00 (About twenty minutes into the patrol)",
                         "file_path": "b003/c003/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "A Day of Two Nations",
+                        "part_title": "The Masterclass – Saturday, October 22, 2044 – 11:00 (Mid-shift PA chime)",
                         "file_path": "b003/c003/p007.md"
                     },
                     {
                         "part_num": 8,
-                        "part_title": "The Montréal Rule",
+                        "part_title": "The Ping – Saturday, October 22, 2044 – 12:00 (An hour into the second half of the shift)",
                         "file_path": "b003/c003/p008.md"
                     },
                     {
                         "part_num": 9,
-                        "part_title": "Montréal",
+                        "part_title": "The Prison Break – Saturday, October 22, 2044 – 17:00 (The twelve-hour klaxon)",
                         "file_path": "b003/c003/p009.md"
                     },
                     {
                         "part_num": 10,
-                        "part_title": "The Return Journey",
+                        "part_title": "The Fallen Hierarchy – Saturday, October 22, 2044 – ~17:30",
                         "file_path": "b003/c003/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "A Lesson in Chocolate and Law",
-                        "file_path": "b003/c003/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Forbidden Fruit",
-                        "file_path": "b003/c003/p012.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "La Famille",
+                "chap_title": "Day Four",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Québécois Welcome",
+                        "part_title": "Structural Failure – Sunday, October 23, 2044 – 05:00 (PDA vibrates at 0500 hours)",
                         "file_path": "b003/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Reunion – Food, Family, and French",
+                        "part_title": "The Deployment – Sunday, October 23, 2044 – ~05:15 (Given twenty minutes to collect gear)",
                         "file_path": "b003/c004/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Character Moments and Interactions",
+                        "part_title": "The Transit – Sunday, October 23, 2044 – ~05:30 (Floor detonates; they escape in the shuttle)",
                         "file_path": "b003/c004/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Last Farewell",
+                        "part_title": "The Relic – Monday, October 24, 2044 – 07:15 (Arriving at Outpost Delta 9)",
                         "file_path": "b003/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Captain's Quarters – Monday, October 24, 2044 – ~07:30",
+                        "file_path": "b003/c004/p005.md"
                     }
                 ]
             }
@@ -458,135 +295,181 @@
     },
     {
         "book_num": 4,
-        "book_title": "Sophomore Year",
+        "book_title": "Analogue Ghosts",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A New Rhythm",
+                "chap_title": "Delta Niner",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The A/B Block",
+                        "part_title": "The Blinking Clock – Monday, October 24, 2044 – 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)",
                         "file_path": "b004/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Calendar Keeper",
+                        "part_title": "The Ghost Ship – Monday, October 24, 2044 – ~10:00 (A few more hours pass)",
                         "file_path": "b004/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Broadcast – Monday, October 24, 2044 – ~10:15 (Shortly after checking the command center)",
+                        "file_path": "b004/c001/p003.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "The Longest Two Weeks",
+                "chap_title": "The Lungs of the Station",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Simple Cough",
+                        "part_title": "The Hydroponics Bay – Monday, October 24, 2044 – ~10:30",
                         "file_path": "b004/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Nurse's Verdict",
+                        "part_title": "The Strawberry Festival – Monday, October 24, 2044 – ~10:50 (For the first twenty minutes, it was pure trial and error)",
                         "file_path": "b004/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Hospital",
+                        "part_title": "The Expanding Fracture – Monday, October 24, 2044 – ~11:00",
                         "file_path": "b004/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Turn for the Worse",
-                        "file_path": "b004/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Anchor",
-                        "file_path": "b004/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Touch and Go",
-                        "file_path": "b004/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Road Back",
-                        "file_path": "b004/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "Alex’s Recovery",
-                        "file_path": "b004/c002/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "A New Normal",
+                "chap_title": "The Boiler Room",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Re-establishing a Rhythm",
+                        "part_title": "The Descent – Monday, October 24, 2044 – ~11:15",
                         "file_path": "b004/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A New Low",
+                        "part_title": "The Baffle – Monday, October 24, 2044 – ~11:30",
                         "file_path": "b004/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Harvest – Monday, October 24, 2044 – ~11:45",
+                        "file_path": "b004/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Acceleration – Monday, October 24, 2044 – 12:05 (They hadn't even been out of the engine room for twenty minutes)",
+                        "file_path": "b004/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Scorched Earth – Monday, October 24, 2044 – ~12:15 (The military broadcast states scorched earth was authorized at 1300 hours on Earth)",
+                        "file_path": "b004/c003/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "The First Crack",
+                "chap_title": "The Glass Wall",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Blast Radius",
+                        "part_title": "An Attempt at Normalcy – Monday, October 24, 2044 – Evening (e.g. ~20:00)",
                         "file_path": "b004/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Cold War",
+                        "part_title": "Shedding the Armor – Tuesday, October 25, 2044 – Morning (e.g. ~08:00) (The deep-space morning cycled over the outpost)",
                         "file_path": "b004/c004/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Reconciliation",
+                        "part_title": "The Ghost Ship – Tuesday, October 25, 2044 – ~10:00 (Exactly two hours after breakfast)",
                         "file_path": "b004/c004/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Unbreakable Bond",
+                        "part_title": "The Void – Tuesday, October 25, 2044 – ~10:30 (Dropship is four hours out)",
                         "file_path": "b004/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Ghost Awakens – Tuesday, October 25, 2044 – ~11:15 (Forty-five minutes of absolute agony)",
+                        "file_path": "b004/c004/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "A Different Kind of Connection",
+                "chap_title": "The Nomad",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Lab Partner",
+                        "part_title": "A Vector to Nowhere – Tuesday, October 25, 2044 – ~13:30 (Two hours later after leaving orbit)",
                         "file_path": "b004/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Study Session",
+                        "part_title": "The Hubris of Apex – Tuesday, October 25, 2044 – ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)",
                         "file_path": "b004/c005/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Invitation",
+                        "part_title": "The Billionaire’s Secrets – Tuesday, October 25, 2044 – ~14:30",
                         "file_path": "b004/c005/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Answer",
+                        "part_title": "The 2044 Reveal – Tuesday, October 25, 2044 – ~15:00",
                         "file_path": "b004/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Blank Slate – Tuesday, October 25, 2044 – ~15:15",
+                        "file_path": "b004/c005/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "The Frontier",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Coordinates – Wednesday, October 26, 2044 – 09:00",
+                        "file_path": "b004/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Spacetime Fold – Wednesday, October 26, 2044 – 09:15 HRS",
+                        "file_path": "b004/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Interstellar Road Trip – Wednesday, October 26, 2044 – 09:30",
+                        "file_path": "b004/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Algorithm's Gift – Wednesday, October 26, 2044 – 16:00",
+                        "file_path": "b004/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Blank Slate – Thursday, October 27 to Tuesday, November 1, 2044 (FTL Transit)",
+                        "file_path": "b004/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Backlog – Tuesday, November 1, 2044 – 09:30",
+                        "file_path": "b004/c006/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Backlog – Tuesday, November 1, 2044 – 09:32",
+                        "file_path": "b004/c006/p007.md"
                     }
                 ]
             }
@@ -594,67 +477,402 @@
     },
     {
         "book_num": 5,
-        "book_title": "Juniors, They Are",
+        "book_title": "The Sanctuary",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Virtual Solution",
+                "chap_title": "Planetfall",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Compatibility Crisis",
+                        "part_title": "Atmospheric Entry – Tuesday, November 1, 2044 – 10:00",
                         "file_path": "b005/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Justification",
+                        "part_title": "The First Steps – Tuesday, November 1, 2044 – 10:15",
                         "file_path": "b005/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Unboxing",
+                        "part_title": "The Solar Bloom – Tuesday, November 1, 2044 – 10:30",
                         "file_path": "b005/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "A Lesson in Virtualization",
+                        "part_title": "The Footprint – Sunday, May 7, 2045 – 15:15",
                         "file_path": "b005/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The True Face of Apex – Tuesday, May 7, 2045 – 16:00 (Standard Galactic Time)",
+                        "file_path": "b005/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Ghost Protocol – Tuesday, May 7, 2045 – 18:30",
+                        "file_path": "b005/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Canopy – Tuesday, May 7, 2045 – 19:00",
+                        "file_path": "b005/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Blind Sweep – Wednesday, May 8, 2045 – 14:00 (Standard Galactic Time)",
+                        "file_path": "b005/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Vow – Wednesday, May 8, 2045 – 15:24",
+                        "file_path": "b005/c001/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Living Light – Wednesday, May 8, 2045 – 21:00",
+                        "file_path": "b005/c001/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "Under the Stars – Wednesday, May 8, 2045 – 23:15",
+                        "file_path": "b005/c001/p011.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "Spring Break",
+                "chap_title": "The First Morning",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Parents Make Plans",
+                        "part_title": "The River – Thursday, May 9, 2045 – 06:30",
                         "file_path": "b005/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Handover",
+                        "part_title": "The Nomad – Thursday, May 9, 2045 – 07:45",
                         "file_path": "b005/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "A Quiet Domesticity",
+                        "part_title": "The Blueprint – Thursday, May 9, 2045 – 08:00",
                         "file_path": "b005/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "MEGAN!!!! (The Chaperone Arrives)",
+                        "part_title": "The First Harvest – Thursday, May 9, 2045 – 08:30",
                         "file_path": "b005/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "The Departure and The Reflection",
+                        "part_title": "The Bait – Thursday, May 9, 2045 – 10:00 (Standard Galactic Time)",
                         "file_path": "b005/c002/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Return",
+                        "part_title": "The Broken Snare – Thursday, May 9, 2045 – 11:30",
                         "file_path": "b005/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Eden Rule – Thursday, May 9, 2045 – 12:15",
+                        "file_path": "b005/c002/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The High Ground",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Floodplain – Thursday, May 9, 2045 – 17:00",
+                        "file_path": "b005/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Dead Reckoning – Thursday, May 9, 2045 – 17:15",
+                        "file_path": "b005/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Mountain's Mouth – Thursday, May 9, 2045 – 17:22",
+                        "file_path": "b005/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Winter Window – Thursday, May 9, 2045 – 17:40",
+                        "file_path": "b005/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Genesis Vault – Thursday, May 9, 2045 – 18:00",
+                        "file_path": "b005/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Genesis Vault – Thursday, May 9, 2045 – 18:15",
+                        "file_path": "b005/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Master Kitchen – Thursday, May 9, 2045 – 18:30",
+                        "file_path": "b005/c003/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Curriculum – Thursday, May 9, 2045 – 19:15",
+                        "file_path": "b005/c003/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Saltwater Oasis – Thursday, May 9, 2045 – 19:30",
+                        "file_path": "b005/c003/p009.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "The Architects",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The First Semester – Friday, May 10, 2045 – 08:00",
+                        "file_path": "b005/c004/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Debugger – Friday, May 10, 2045 – 11:30",
+                        "file_path": "b005/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Earth Conservatory – Friday, May 10, 2045 – 12:15",
+                        "file_path": "b005/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Ark – Friday, May 10, 2045 – 12:30",
+                        "file_path": "b005/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Comfort Food – Friday, May 10, 2045 – 13:00",
+                        "file_path": "b005/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Hello World – Friday, May 10, 2045 – 13:45",
+                        "file_path": "b005/c004/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Biology 101 – Friday, May 10, 2045 – 14:15",
+                        "file_path": "b005/c004/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Vitality Roster – Friday, May 10, 2045 – 14:30",
+                        "file_path": "b005/c004/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Facelift – Friday, May 10, 2045 – 15:00",
+                        "file_path": "b005/c004/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The First Generation – Friday, May 10, 2045 – 17:00",
+                        "file_path": "b005/c004/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The First Landing – Friday, May 10, 2045 – 17:30",
+                        "file_path": "b005/c004/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Parent Protocol – Friday, May 10, 2045 – 21:00",
+                        "file_path": "b005/c004/p012.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The Pioneers",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Upgrade – Saturday, May 11, 2045 – 07:00",
+                        "file_path": "b005/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Archives – Saturday, May 11, 2045 – 08:30",
+                        "file_path": "b005/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Husk – Saturday, May 11, 2045 – 09:15",
+                        "file_path": "b005/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Lost Time – Saturday, May 11, 2045 – 09:45",
+                        "file_path": "b005/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Trade-Off – Saturday, May 11, 2045 – 10:15",
+                        "file_path": "b005/c005/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Mapmakers – Saturday, May 11, 2045 – 10:30",
+                        "file_path": "b005/c005/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Six Moons – Saturday, May 11, 2045 – 10:45",
+                        "file_path": "b005/c005/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Petrichor – Saturday, May 11, 2045 – 12:30",
+                        "file_path": "b005/c005/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Runabout – Saturday, May 11, 2045 – 13:15",
+                        "file_path": "b005/c005/p009.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "Planet Eden",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Maiden Voyage – Saturday, May 11, 2045 – 13:45",
+                        "file_path": "b005/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Alpine Meadow – Saturday, May 11, 2045 – 17:00",
+                        "file_path": "b005/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Anchor – Sunday, May 12, 2045 – 07:30",
+                        "file_path": "b005/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Lunar Bound – Sunday, May 12, 2045 – 08:00",
+                        "file_path": "b005/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Reading List – Sunday, May 12, 2045 – 10:30",
+                        "file_path": "b005/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The 2002 Fiction – Sunday, May 12, 2045 – 14:00",
+                        "file_path": "b005/c006/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Terrace Picnic – Sunday, May 12, 2045 – 15:30",
+                        "file_path": "b005/c006/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Gravity Tax – Sunday, May 12, 2045 – 16:15",
+                        "file_path": "b005/c006/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Sowing the Seeds – Sunday, May 12, 2045 – 16:45",
+                        "file_path": "b005/c006/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Architect – Sunday, May 12, 2045 – 17:45",
+                        "file_path": "b005/c006/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Overcompensation – Sunday, May 12, 2045 – 18:00",
+                        "file_path": "b005/c006/p011.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 7,
+                "chap_title": "The Blueprint",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Three Pulses – Sunday, May 12, 2045 – 18:15",
+                        "file_path": "b005/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Multiplier – Sunday, May 12, 2045 – 18:25",
+                        "file_path": "b005/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Tax Evasion and Timber – Sunday, May 12, 2045 – 18:45",
+                        "file_path": "b005/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The 50,000 Crib Deficit – Sunday, May 12, 2045 – 23:45",
+                        "file_path": "b005/c007/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Constitution – Monday, May 13, 2045 – 09:00",
+                        "file_path": "b005/c007/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Agrarian Model – Monday, May 13, 2045 – 09:30",
+                        "file_path": "b005/c007/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Wardrobe – Sunday, June 4, 2045 – 09:00",
+                        "file_path": "b005/c007/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Toll of Three – Sunday, June 18, 2045 – 10:00",
+                        "file_path": "b005/c007/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Remedy – Sunday, June 18, 2045 – 10:15",
+                        "file_path": "b005/c007/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Chariot – Sunday, June 18, 2045 – 12:30",
+                        "file_path": "b005/c007/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Craving – Sunday, June 18, 2045 – 13:00",
+                        "file_path": "b005/c007/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Foundation – Sunday, June 18, 2045 – 14:00",
+                        "file_path": "b005/c007/p012.md"
                     }
                 ]
             }
@@ -662,136 +880,266 @@
     },
     {
         "book_num": 6,
-        "book_title": "Seniors Rule the School",
+        "book_title": "The First Generation",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A Last First Day of School",
+                "chap_title": "The Architect",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Cafeteria Entrance & Cafeteria – First Day, Fall 2002",
+                        "part_title": "The Tolerances of Eden – Monday, September 4, 2045 – 10:00",
                         "file_path": "b006/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The First Separation",
+                        "part_title": "The Silent Scout – Tuesday, September 5, 2045 – 14:00",
                         "file_path": "b006/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Main Lobby & Front Exit – End of First Day, Fall 2002",
+                        "part_title": "The Shield and the Spark – Wednesday, September 20, 2045 – 11:00",
                         "file_path": "b006/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "By the Dumpsters – First Day of School, Fall 2002, 2:13 PM",
+                        "part_title": "The Ghost of Eden – Friday, September 22, 2045 – 13:15",
                         "file_path": "b006/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Line too Far (for Josh Riley)",
+                        "part_title": "The Dead Rock – Thursday, October 12, 2045 – 02:15",
                         "file_path": "b006/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Aegis Hallucination – Thursday, October 12, 2045 – 08:00",
+                        "file_path": "b006/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Administrative Override – Friday, November 10, 2045 – 15:00",
+                        "file_path": "b006/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Weight of the World – Monday, November 27, 2045 – 03:15",
+                        "file_path": "b006/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Cosmic Dust – Monday, November 27, 2045 – 06:00",
+                        "file_path": "b006/c001/p009.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "A Quiet Miracle",
+                "chap_title": "The Arrival",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The TADA Heard 'Round the Lab",
+                        "part_title": "The Gravity of Eden – Tuesday, December 5, 2045 – 02:30",
                         "file_path": "b006/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Missing Semicolon",
+                        "part_title": "The Vanguard's Spear – Tuesday, December 5, 2045 – 02:45",
                         "file_path": "b006/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Hypoxic Clock – Tuesday, December 5, 2045 – 02:52",
+                        "file_path": "b006/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Lion's Fight – Tuesday, December 5, 2045 – 03:00",
+                        "file_path": "b006/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Incubator Watch – Tuesday, December 5, 2045 – 05:00",
+                        "file_path": "b006/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Reaching in the Dark – Tuesday, December 5, 2045 – 05:15",
+                        "file_path": "b006/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Maintenance Schedule – Tuesday, December 12, 2045 – 14:00",
+                        "file_path": "b006/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Annoyance – Thursday, December 21, 2045 – 02:15",
+                        "file_path": "b006/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Engine Block – Tuesday, January 9, 2046 – 10:00",
+                        "file_path": "b006/c002/p009.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "The Fork in the Road",
+                "chap_title": "The Blueprint Fails",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The \"What's Next?\" Meeting",
+                        "part_title": "The Flaw in the Wood – Tuesday, January 30, 2046 – 14:00",
                         "file_path": "b006/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Gravity of the Hive – Wednesday, January 31, 2046 – 03:00",
+                        "file_path": "b006/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Sentinel Directive – Wednesday, January 31, 2046 – 09:00",
+                        "file_path": "b006/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Mega-Crib – Wednesday, January 31, 2046 – 14:00",
+                        "file_path": "b006/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Supply Drop – Thursday, May 14, 2046 – 11:30",
+                        "file_path": "b006/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Soup Kitchen – Thursday, May 14, 2046 – 21:00",
+                        "file_path": "b006/c003/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "A Different Kind of Anchor",
+                "chap_title": "The Vanguard Discovers Gravity",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Quiet Hurt",
+                        "part_title": "The Rule of Three – Tuesday, March 10, 2048 – 07:30",
                         "file_path": "b006/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Simple Offer",
+                        "part_title": "The Tactical Extraction – Thursday, April 2, 2048 – 14:15",
                         "file_path": "b006/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Milestones – Tuesday, August 18, 2048 – 16:00",
+                        "file_path": "b006/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Chariot – Friday, September 4, 2048 – 10:00",
+                        "file_path": "b006/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Hydroponics Breach – Monday, February 15, 2049 – 13:15",
+                        "file_path": "b006/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Establishing Comms – Thursday, May 6, 2049 – 15:00",
+                        "file_path": "b006/c004/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "The Weight of Care",
+                "chap_title": "The Chain of Command",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Accident",
+                        "part_title": "The New Recruit – Wednesday, September 15, 2049 – 10:00",
                         "file_path": "b006/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The New Reality",
+                        "part_title": "The Unified Design – Tuesday, October 5, 2049 – 02:15",
                         "file_path": "b006/c005/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "A New Kind of Teamwork",
+                        "part_title": "The Tactical Latrine – Friday, November 12, 2049 – 09:00",
                         "file_path": "b006/c005/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Private Struggles and Quiet Dignity",
+                        "part_title": "The Defensive Perimeter – Wednesday, December 15, 2049 – 18:30",
                         "file_path": "b006/c005/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Deeper Understanding",
+                        "part_title": "The Bootcamp – Monday, December 20, 2049 – 04:15",
                         "file_path": "b006/c005/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Genesis Check – Wednesday, March 1, 2050 – 21:00",
+                        "file_path": "b006/c005/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 6,
-                "chap_title": "The Last Dance",
+                "chap_title": "The Rapid Deployment",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Decision",
+                        "part_title": "The Accelerated Recruit – Tuesday, October 18, 2050 – 14:00",
                         "file_path": "b006/c006/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Sabotage",
+                        "part_title": "The Terrain Deficit – Wednesday, April 12, 2051 – 10:00",
                         "file_path": "b006/c006/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The People's Vote",
+                        "part_title": "The Multi-Front War – Friday, April 21, 2051 – 15:30",
                         "file_path": "b006/c006/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Real Victory",
+                        "part_title": "The Ghost Planet – Friday, April 21, 2051 – 15:45 (Standard Galactic Time)",
                         "file_path": "b006/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The All-Terrain Vanguard – Friday, April 28, 2051 – 10:00",
+                        "file_path": "b006/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Authorized Harvest – Thursday, May 18, 2051 – 13:00",
+                        "file_path": "b006/c006/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Constitutional Override – Friday, November 3, 2051 – 10:15",
+                        "file_path": "b006/c006/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Legal Precedent – Friday, November 3, 2051 – 11:30",
+                        "file_path": "b006/c006/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Perimeter Test – Friday, November 3, 2051 – 11:45",
+                        "file_path": "b006/c006/p009.md"
                     }
                 ]
             }
@@ -799,67 +1147,103 @@
     },
     {
         "book_num": 7,
-        "book_title": "One Last Summer",
+        "book_title": "The Fall of Apex",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A Pacific Northwest Interlude: Summer After Graduation (2003)",
+                "chap_title": "Checkmate",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Exploring Seattle and Lynnwood",
+                        "part_title": "The Sovereign’s Hubris – Tuesday, May 2, 2051 – 08:00 (Standard Galactic Time)",
                         "file_path": "b007/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Special Evening",
+                        "part_title": "The Geneva Standard – Tuesday, May 2, 2051 – 08:05 (Standard Galactic Time)",
                         "file_path": "b007/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Afterglow",
+                        "part_title": "The Extraction – Tuesday, May 2, 2051 – 08:30 (Standard Galactic Time)",
                         "file_path": "b007/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "A New Threshold of Trust",
+                        "part_title": "The Laws of War – Tuesday, May 2, 2051 – 08:45 (Standard Galactic Time)",
                         "file_path": "b007/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Interrogation – Tuesday, May 2, 2051 – 10:00 (Standard Galactic Time)",
+                        "file_path": "b007/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Handover – Friday, May 5, 2051 – 14:00 (Standard Galactic Time)",
+                        "file_path": "b007/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Classified Intel – Friday, May 5, 2051 – 14:15",
+                        "file_path": "b007/c001/p007.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "A Very Hard Goodbye",
+                "chap_title": "The Trial of the Century",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Two Separate Worlds",
+                        "part_title": "The Government-in-Exile – Monday, September 18, 2051 – 09:00 (Standard Galactic Time)",
                         "file_path": "b007/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Soundtrack to a Heartbreak",
+                        "part_title": "The Star Witnesses – Monday, September 18, 2051 – 09:30",
                         "file_path": "b007/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "A Night in an Empty Room",
+                        "part_title": "The Fab-Foundry Apprentice – Tuesday, September 19, 2051 – 10:00 (Standard Galactic Time)",
                         "file_path": "b007/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The First Lifeline (Las Vegas)",
+                        "part_title": "The Verdict and the Vault – Friday, January 12, 2052 – 09:00 (Standard Galactic Time)",
                         "file_path": "b007/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Voice Across the Continent (Seattle)",
+                        "part_title": "The Sentinel Treaty – Monday, April 8, 2052 – 14:00 (Standard Galactic Time)",
                         "file_path": "b007/c002/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "The Architects of Eden",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Healing Room – Monday, May 20, 2052 – 14:00 (Standard Galactic Time)",
+                        "file_path": "b007/c003/p001.md"
                     },
                     {
-                        "part_num": 6,
-                        "part_title": "Home Safe (Lynnwood)",
-                        "file_path": "b007/c002/p006.md"
+                        "part_num": 2,
+                        "part_title": "The Diplomat's Detail – Thursday, May 23, 2052 – 09:30",
+                        "file_path": "b007/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The First Blueprint – Friday, May 24, 2052 – 20:00",
+                        "file_path": "b007/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The History Lesson – Saturday, July 13, 2052 – 10:00 (Standard Galactic Time)",
+                        "file_path": "b007/c003/p004.md"
                     }
                 ]
             }
@@ -867,510 +1251,118 @@
     },
     {
         "book_num": 8,
-        "book_title": "Separate Coast, Separate Lives",
+        "book_title": "The Growing World",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A Community College Beginning",
+                "chap_title": "The Final Roster",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Student Development 101",
+                        "part_title": "The Pattern Disruption – Wednesday, September 18, 2052 – 15:00 (Standard Galactic Time)",
                         "file_path": "b008/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Familiar Face",
+                        "part_title": "The Rhythm Section – Thursday, July 18, 2052 – 14:00",
                         "file_path": "b008/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Coffee, and an Open Wound",
+                        "part_title": "The Archives of Earth – Thursday, July 18, 2052 – 14:15",
                         "file_path": "b008/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Promise",
+                        "part_title": "The Fleet Upgrade – Friday, October 25, 2052 – 14:00",
                         "file_path": "b008/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Moving Fast",
+                        "part_title": "The Stabilizers – Friday, October 25, 2052 – 14:15",
                         "file_path": "b008/c001/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "How I Met Her Mother",
+                        "part_title": "The Enforcers – Thursday, June 12, 2053 – 04:30 (Local Eden Time)",
                         "file_path": "b008/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Lifeline Offered",
-                        "file_path": "b008/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Presentation and the Aftermath",
-                        "file_path": "b008/c001/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "The First Alarm Bell",
+                "chap_title": "The Foundations of Genesis",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Doubt Starts to Form",
+                        "part_title": "The Expanded Jurisdiction – Thursday, October 10, 2053 – 09:30",
                         "file_path": "b008/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Refusal",
+                        "part_title": "The Cornerstone – Tuesday, April 14, 2054 – 08:00",
                         "file_path": "b008/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Call for Help",
+                        "part_title": "The Biological Override – Friday, April 16, 2055 – 10:00 (Local Eden Time)",
                         "file_path": "b008/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Confrontation",
+                        "part_title": "The Anomalous Data – Tuesday, August 17, 2055 – 13:00",
                         "file_path": "b008/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Debrief in the Dark",
+                        "part_title": "The Endocrine Protocol – Friday, October 20, 2056 – 14:00 (Local Eden Time)",
                         "file_path": "b008/c002/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "A Debrief at Lisa Court",
+                        "part_title": "The First Ten – Monday, September 8, 2057 – 10:00 (Local Eden Time)",
                         "file_path": "b008/c002/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "The Morning Debrief",
+                        "part_title": "The Sydney Protocol – Friday, October 24, 2057 – 15:00 (Local Eden Time)",
                         "file_path": "b008/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Love Bomb",
-                        "file_path": "b008/c002/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "Lingering Connections, Looming Threats (Fall 2003)",
+                "chap_title": "The Awakening",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Video Call Interruption",
+                        "part_title": "The First Breath – Friday, January 29, 2058 – 09:00 (Local Eden Time)",
                         "file_path": "b008/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Dinner of Dissent",
+                        "part_title": "The Command Staff Celebration – Friday, January 29, 2058 – 10:30 (Local Eden Time)",
                         "file_path": "b008/c003/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Slow Encroachment",
+                        "part_title": "The Gestation Protocol – Friday, October 28, 2058 – 18:00 (Local Eden Time)",
                         "file_path": "b008/c003/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "An Unstable Connection",
+                        "part_title": "Arrival Day – Saturday, July 19, 2058 – 06:00 (Local Eden Time)",
                         "file_path": "b008/c003/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Lifeline from Lynnwood",
+                        "part_title": "The Roster Expansion – Saturday, July 19, 2058 – 09:00",
                         "file_path": "b008/c003/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "Vera's \"Rescue\" Mission",
+                        "part_title": "The Nursery Logistics – Friday, August 2, 2058 – 14:00 (Local Eden Time)",
                         "file_path": "b008/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Secret Rebellion",
-                        "file_path": "b008/c003/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "The VDU Open House",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Cavalry Arrives",
-                        "file_path": "b008/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Return to Sanctuary",
-                        "file_path": "b008/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Safe Harbor",
-                        "file_path": "b008/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Taste of Normalcy",
-                        "file_path": "b008/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Night of Healing",
-                        "file_path": "b008/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Lifeline",
-                        "file_path": "b008/c004/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Bedtime Routine",
-                        "file_path": "b008/c004/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Safe Place to Land",
-                        "file_path": "b008/c004/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "An Early Start",
-                        "file_path": "b008/c004/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "Opening Remarks",
-                        "file_path": "b008/c004/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Campus Tour",
-                        "file_path": "b008/c004/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Residential Tour",
-                        "file_path": "b008/c004/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Thirteenth Floor",
-                        "file_path": "b008/c004/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "The Famous Fried Chicken",
-                        "file_path": "b008/c004/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Practicing for the Future",
-                        "file_path": "b008/c004/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "Homework Sanctuary",
-                        "file_path": "b008/c004/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "The Tender Shack",
-                        "file_path": "b008/c004/p017.md"
-                    },
-                    {
-                        "part_num": 18,
-                        "part_title": "The Second Video Call",
-                        "file_path": "b008/c004/p018.md"
-                    },
-                    {
-                        "part_num": 19,
-                        "part_title": "Starship Sentinels",
-                        "file_path": "b008/c004/p019.md"
-                    },
-                    {
-                        "part_num": 20,
-                        "part_title": "The Second Evening of Care",
-                        "file_path": "b008/c004/p020.md"
-                    },
-                    {
-                        "part_num": 21,
-                        "part_title": "A Morning of Trust",
-                        "file_path": "b008/c004/p021.md"
-                    },
-                    {
-                        "part_num": 22,
-                        "part_title": "The Heart-to-Heart",
-                        "file_path": "b008/c004/p022.md"
-                    },
-                    {
-                        "part_num": 23,
-                        "part_title": "The Aftermath",
-                        "file_path": "b008/c004/p023.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "The Longest Road",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Vacuum",
-                        "file_path": "b008/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Thanksgiving Lie",
-                        "file_path": "b008/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Across the Country on a Pathfinder",
-                        "file_path": "b008/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Welcome to Hell, Welcome to Kent",
-                        "file_path": "b008/c005/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 6,
-                "chap_title": "Help is on the Way",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Desperate Call",
-                        "file_path": "b008/c006/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Race to Kent",
-                        "file_path": "b008/c006/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Confrontation and Choice",
-                        "file_path": "b008/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Drive to Lynnwood – Safety and Silence",
-                        "file_path": "b008/c006/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 7,
-                "chap_title": "A New Plan",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "An Urgent Call Home",
-                        "file_path": "b008/c007/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "An Emergency Deep Cleaning – Restoring Dignity",
-                        "file_path": "b008/c007/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "First Meal in Sanctuary – Simple Comforts",
-                        "file_path": "b008/c007/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Healing Nap and a New Plan",
-                        "file_path": "b008/c007/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Quiet Thanksgiving",
-                        "file_path": "b008/c007/p005.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 8,
-                "chap_title": "Reestablishing Alex’s Agency",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Quiet Conversation",
-                        "file_path": "b008/c008/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Clinic Visit and a Clean Slate",
-                        "file_path": "b008/c008/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Resuming Intimacy – The Afterglow Revisited",
-                        "file_path": "b008/c008/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Afterglow – A New Dawn, A Reclaimed Voice",
-                        "file_path": "b008/c008/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Weight of Certainty",
-                        "file_path": "b008/c008/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Homeward Bound for Graduation",
-                        "file_path": "b008/c008/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 9,
-                "chap_title": "The Journey Home",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Cavalry Arrives",
-                        "file_path": "b008/c009/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Gentle Deconstruction",
-                        "file_path": "b008/c009/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Shipping a Life",
-                        "file_path": "b008/c009/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Flight Home",
-                        "file_path": "b008/c009/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Sanctuary",
-                        "file_path": "b008/c009/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Magna Cum Laude",
-                        "file_path": "b008/c009/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Three-Way Escape Hatch",
-                        "file_path": "b008/c009/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 10,
-                "chap_title": "Winter Break Decisions",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Insurance Dilemma and a Loving Proposition",
-                        "file_path": "b008/c010/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Doctor's Verdict",
-                        "file_path": "b008/c010/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A New Foundation",
-                        "file_path": "b008/c010/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A New Normal",
-                        "file_path": "b008/c010/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Canadian Landing",
-                        "file_path": "b008/c010/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Day of Two Cultures",
-                        "file_path": "b008/c010/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Le Réveillon on Lisa Court",
-                        "file_path": "b008/c010/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Aftermath of the Feast",
-                        "file_path": "b008/c010/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Cross-Border Christmas",
-                        "file_path": "b008/c010/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "A Gift of Togetherness",
-                        "file_path": "b008/c010/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The American Christmas and a New Allegiance",
-                        "file_path": "b008/c010/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "A Rivalry is Born",
-                        "file_path": "b008/c010/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "A Quiet \"I Do\" for Practical Love",
-                        "file_path": "b008/c010/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "A Grocery Store Guardian",
-                        "file_path": "b008/c010/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Confrontation in ValueMart",
-                        "file_path": "b008/c010/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "The Aftermath",
-                        "file_path": "b008/c010/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "A Shared Secret",
-                        "file_path": "b008/c010/p017.md"
                     }
                 ]
             }
@@ -1378,1334 +1370,182 @@
     },
     {
         "book_num": 9,
-        "book_title": "A Fresh Start",
+        "book_title": "The Village of Genesis",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A New Beginning",
+                "chap_title": "The Second Wave",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Gearing Up",
+                        "part_title": "The Expanding Perimeter – Sunday, August 12, 2063 – 10:00 (Local Eden Time)",
                         "file_path": "b009/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A New Sanctuary",
+                        "part_title": "The Commander’s Blessing – Sunday, August 12, 2063 – 13:00 (Local Eden Time)",
                         "file_path": "b009/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Lunar Embassy – Tuesday, September 4, 2063 – 14:00 (Standard Galactic Time)",
+                        "file_path": "b009/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Wild Sparrows – Sunday, August 12, 2063 – 14:30 (Local Eden Time)",
+                        "file_path": "b009/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Breaking Ground – Friday, September 7, 2063 – 09:00 (Standard Galactic Time)",
+                        "file_path": "b009/c001/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "The Final Severance",
+                "chap_title": "Jack – The Lunar Embassy",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Empty Seat",
+                        "part_title": "The Fleet Girl – Friday, July 10, 2066 – 16:00 (Standard Galactic Time)",
                         "file_path": "b009/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Confrontation on Lisa Court",
+                        "part_title": "The Gravity of Home – Friday, July 10, 2066 – 17:30 (Local Eden Time)",
                         "file_path": "b009/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Final, Desperate Call",
+                        "part_title": "The Newport Fifty – Saturday, August 15, 2066 – 10:00 (Local Eden Time)",
                         "file_path": "b009/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Letter",
-                        "file_path": "b009/c002/p004.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "The Unraveling Lie",
+                "chap_title": "The Refugee",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Family's Resolve",
+                        "part_title": "The Great Chowder Rebellion – Tuesday, June 16, 2071 – 12:30 (Local Eden Time)",
                         "file_path": "b009/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Demand",
+                        "part_title": "The Exception – Tuesday, June 16, 2071 – 13:15 (Standard Galactic Time)",
                         "file_path": "b009/c003/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Truth in a Letter",
+                        "part_title": "The Golden Cage – Thursday, June 18, 2071 – 10:00 (Local Eden Time)",
                         "file_path": "b009/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Unraveling and The Aftermath",
-                        "file_path": "b009/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A New Beginning",
-                        "file_path": "b009/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Vera’s Reckoning – A Mother's Fury, A Daughter's Ruin",
-                        "file_path": "b009/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Un Avenir Sans Fardeau (A Future Unburdened)",
-                        "file_path": "b009/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "Building the Sanctuary",
-                        "file_path": "b009/c003/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "A New Beginning",
+                "chap_title": "The Asylum",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Morning Commute",
+                        "part_title": "The Scavenger's Tale – Monday, June 22, 2071 – 14:00 (Local Eden Time)",
                         "file_path": "b009/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Different First Day",
+                        "part_title": "The Village Square – Monday, June 22, 2071 – 15:00 (Local Eden Time)",
                         "file_path": "b009/c004/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Conversation",
+                        "part_title": "The Collection Agency – Wednesday, June 17, 2071 – 09:15 (Local Eden Time)",
                         "file_path": "b009/c004/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "An Investment in the Future",
+                        "part_title": "The Extraction of Toxicity – Wednesday, June 17, 2071 – 20:00 (Local Eden Time)",
                         "file_path": "b009/c004/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Building a Foundation",
+                        "part_title": "The Detox – Wednesday, June 17, 2071 – 21:30 (Local Eden Time)",
                         "file_path": "b009/c004/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Breaking Point",
+                        "part_title": "The Filter – Wednesday, June 17, 2071 – 22:30 (Local Eden Time)",
                         "file_path": "b009/c004/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "The Apartment Hunt",
+                "chap_title": "Leo – The Overseer",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Excitement and the Learning Curve",
+                        "part_title": "The Geometry of Peace – Thursday, June 25, 2071 – 10:00 (Local Eden Time)",
                         "file_path": "b009/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Reality Check",
+                        "part_title": "The Kinetic Variables – Thursday, June 25, 2071 – 10:30 (Local Eden Time)",
                         "file_path": "b009/c005/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Brush with Danger",
+                        "part_title": "The Shenandoah Curve – Thursday, June 25, 2071 – 10:45 (Local Eden Time)",
                         "file_path": "b009/c005/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Discovery",
+                        "part_title": "The Stewards – Thursday, June 25, 2071 – 11:00 (Local Eden Time)",
                         "file_path": "b009/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Project Freedom",
-                        "file_path": "b009/c005/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Shopping for a Van",
-                        "file_path": "b009/c005/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 6,
-                "chap_title": "Spring Break",
+                "chap_title": "Wyatt – The Founders",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Quiet Day Trip",
+                        "part_title": "The Watch – Thursday, June 25, 2071 – 11:15 (Local Eden Time)",
                         "file_path": "b009/c006/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Family Investment",
+                        "part_title": "The Age of Majority – Thursday, June 25, 2071 – 13:00 (Local Eden Time)",
                         "file_path": "b009/c006/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Domestic Details",
-                        "file_path": "b009/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Return to the Water",
-                        "file_path": "b009/c006/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Quiet Before the Move",
-                        "file_path": "b009/c006/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Three Musketeers",
-                        "file_path": "b009/c006/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 7,
-                "chap_title": "A New Home",
+                "chap_title": "Leo – The Wilderness",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Keys",
+                        "part_title": "The Logistics of the Wild – Friday, June 26, 2071 – 10:00 (Local Eden Time)",
                         "file_path": "b009/c007/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The First Look",
+                        "part_title": "Raising the Canvas – Friday, June 26, 2071 – 13:00 (Local Eden Time)",
                         "file_path": "b009/c007/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Big Move",
+                        "part_title": "The 16-Bit Horizon – Sunday, June 28, 2071 – 09:00 (Local Eden Time)",
                         "file_path": "b009/c007/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The First Night",
+                        "part_title": "The Sydney Echo – Sunday, June 28, 2071 – 11:30 (Local Eden Time)",
                         "file_path": "b009/c007/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A New (Old) Trusted Friend",
-                        "file_path": "b009/c007/p005.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 8,
-                "chap_title": "The Long Wait",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Marathon, Not a Sprint",
-                        "file_path": "b009/c008/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Technological Bandages",
-                        "file_path": "b009/c008/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Freedom Arrives",
-                        "file_path": "b009/c008/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Expected Rejection",
-                        "file_path": "b009/c008/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Fight Begins",
-                        "file_path": "b009/c008/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Fragile Sanctuary",
-                        "file_path": "b009/c008/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Aftermath",
-                        "file_path": "b009/c008/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Journey Home",
-                        "file_path": "b009/c008/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Approval",
-                        "file_path": "b009/c008/p009.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 10,
-        "book_title": "Young Adults, New Worlds",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "Standing Tall",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Delivery Day",
-                        "file_path": "b010/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The First Morning",
-                        "file_path": "b010/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The First Movie Night",
-                        "file_path": "b010/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A New Day on Campus",
-                        "file_path": "b010/c001/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Final Semester",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Power Couple of Campus",
-                        "file_path": "b010/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "An Unwavering Bond",
-                        "file_path": "b010/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Healthy Friendship",
-                        "file_path": "b010/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Final Push",
-                        "file_path": "b010/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Graduation Day",
-                        "file_path": "b010/c002/p005.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "The Northern Road",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Launch",
-                        "file_path": "b010/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Journey North",
-                        "file_path": "b010/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Bienvenue au Québec (Welcome to Québec)",
-                        "file_path": "b010/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "An Aunt's Welcome and a Modern Warning",
-                        "file_path": "b010/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "An Aunt's Advice and a New Itinerary",
-                        "file_path": "b010/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Sweet Discovery",
-                        "file_path": "b010/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Walk Through a Changed Town",
-                        "file_path": "b010/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "One Last Line to Cross",
-                        "file_path": "b010/c003/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Homecoming of the Heart",
-                        "file_path": "b010/c003/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "Navigating the City",
-                        "file_path": "b010/c003/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "Tensions at the Deli",
-                        "file_path": "b010/c003/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "A Quiet Day of Decompression",
-                        "file_path": "b010/c003/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "A Family Farewell",
-                        "file_path": "b010/c003/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "One Last Night in Canada",
-                        "file_path": "b010/c003/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Echoes on the Line",
-                        "file_path": "b010/c003/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "A Taste of Vermont",
-                        "file_path": "b010/c003/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "A New Dream on the Boardwalk",
-                        "file_path": "b010/c003/p017.md"
-                    },
-                    {
-                        "part_num": 18,
-                        "part_title": "The Long Road Home",
-                        "file_path": "b010/c003/p018.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "The Last Summer in Virginia",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Operation: Pacific Northwest",
-                        "file_path": "b010/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Quantum Opportunity",
-                        "file_path": "b010/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Great Commute Debate",
-                        "file_path": "b010/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Final Summit",
-                        "file_path": "b010/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Confirmation",
-                        "file_path": "b010/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Last Swim",
-                        "file_path": "b010/c004/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Weathering the Storm",
-                        "file_path": "b010/c004/p007.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 11,
-        "book_title": "Forging a Future",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Road West",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Launch",
-                        "file_path": "b011/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Open Road",
-                        "file_path": "b011/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Washington",
-                        "file_path": "b011/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Seattle",
-                        "file_path": "b011/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Home",
-                        "file_path": "b011/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Unpacking",
-                        "file_path": "b011/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The First Adventure",
-                        "file_path": "b011/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Day in the City",
-                        "file_path": "b011/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Welcome Home",
-                        "file_path": "b011/c001/p009.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The First Ecosystem",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Micro-Test",
-                        "file_path": "b011/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Setup (A Week Later)",
-                        "file_path": "b011/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Inhabitants",
-                        "file_path": "b011/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Quiet Success",
-                        "file_path": "b011/c002/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "The Evergreen Project",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Weekend Warriors",
-                        "file_path": "b011/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Beagle and the Blueprint",
-                        "file_path": "b011/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The First Test and a New Role",
-                        "file_path": "b011/c003/p003.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 12,
-        "book_title": "Chapter 4: Building the Foundation",
-        "chapters": [
-            {
-                "chap_num": 0,
-                "chap_title": "The Evergreen Project",
-                "parts": [
-                    {
-                        "part_num": 4,
-                        "part_title": "The Accessibility Specialist",
-                        "file_path": "b011/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Non-Profit Architects",
-                        "file_path": "b011/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Turning Point",
-                        "file_path": "b011/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Long Road to a Dream",
-                        "file_path": "b011/c003/p007.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 13,
-        "book_title": "Canada Winter Games",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "A House Divided",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Matchup is Set",
-                        "file_path": "b013/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "La Taverne des Voyageurs",
-                        "file_path": "b013/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Spoils of Victory",
-                        "file_path": "b013/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Uniform of Defeat",
-                        "file_path": "b013/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Opening a Cross-Border Life",
-                        "file_path": "b013/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Preclearance Predicament",
-                        "file_path": "b013/c001/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Weight of Care, Revisited",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Accident",
-                        "file_path": "b013/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Different Kind of Hospital Visit",
-                        "file_path": "b013/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Long Road Ahead",
-                        "file_path": "b013/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Setback One - The Infection",
-                        "file_path": "b013/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Setback Two - The Catastrophe",
-                        "file_path": "b013/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Depths of Despair",
-                        "file_path": "b013/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Slow Path to Healing",
-                        "file_path": "b013/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Hospital Revelation",
-                        "file_path": "b013/c002/p008.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 14,
-        "book_title": "No Boundaries",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "A Vision Takes Shape",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Blueprint of Home",
-                        "file_path": "b014/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Border of Our Own",
-                        "file_path": "b014/c001/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Northern Annex",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Peace Arch Crossing",
-                        "file_path": "b014/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Peak of the City",
-                        "file_path": "b014/c002/p002.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 15,
-        "book_title": "Our Real Beginning",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Vow, Revisited",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Proposition",
-                        "file_path": "b015/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Family Announcement",
-                        "file_path": "b015/c001/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "Operation: Stanstead Wedding",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Boots on the Ground",
-                        "file_path": "b015/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Attire",
-                        "file_path": "b015/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Writing the Vows",
-                        "file_path": "b015/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Vow Script",
-                        "file_path": "b015/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Birth of an Idea",
-                        "file_path": "b015/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Prototype is Born",
-                        "file_path": "b015/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Brand is Born",
-                        "file_path": "b015/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Art Director",
-                        "file_path": "b015/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "Boots on the Ground Report",
-                        "file_path": "b015/c002/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Point of No Return",
-                        "file_path": "b015/c002/p010.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "The Homecoming",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Journey East",
-                        "file_path": "b015/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Welcome to the Virginia Base Camp",
-                        "file_path": "b015/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Day in the Virginia Base Camp",
-                        "file_path": "b015/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Journey North",
-                        "file_path": "b015/c003/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "Le Grand Jour (The Big Day) (Saturday, October 9<sup>th</sup>, 2010)",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Les Préparatifs (Getting Ready)",
-                        "file_path": "b015/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "La Cérémonie (The Ceremony)",
-                        "file_path": "b015/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "La Réception (The Reception)",
-                        "file_path": "b015/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "La Première Danse (The First Dance)",
-                        "file_path": "b015/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Les Danses d'Honneur (The Dances of Honor)",
-                        "file_path": "b015/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "L'Unité Inséparable (The Unbreakable Unit)",
-                        "file_path": "b015/c004/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Les Discours (The Toasts)",
-                        "file_path": "b015/c004/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "La Coupe du Gâteau (The Cutting of the Cake)",
-                        "file_path": "b015/c004/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "La Poutine Célébratoire (The Celebratory Poutine)",
-                        "file_path": "b015/c004/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "La Dernière Danse (The Last Dance)",
-                        "file_path": "b015/c004/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "La Fin de la Soirée (The End of the Night)",
-                        "file_path": "b015/c004/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "Bonus Scene: A View from Portsmouth",
-                        "file_path": "b015/c004/p012.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "A Day in the Townships",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Morning After",
-                        "file_path": "b015/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Taste of the Townships",
-                        "file_path": "b015/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Promise to Return",
-                        "file_path": "b015/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Honeymoon",
-                        "file_path": "b015/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Departure",
-                        "file_path": "b015/c005/p005.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 16,
-        "book_title": "Needs a Name",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Revenge of the Brawlers",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Boston Showdown",
-                        "file_path": "b016/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Boston Victory Parade",
-                        "file_path": "b016/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Long Drive of Shame (The Next Day)",
-                        "file_path": "b016/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Breakfast with the Enemy",
-                        "file_path": "b016/c001/p004.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 17,
-        "book_title": "COVID",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Great Unraveling",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The World Shuts Down",
-                        "file_path": "b017/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Race to the Border",
-                        "file_path": "b017/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Stranded in Vermont",
-                        "file_path": "b017/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Airport and the Call",
-                        "file_path": "b017/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Rescue Mission",
-                        "file_path": "b017/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Virginia Haven",
-                        "file_path": "b017/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "An Unexpected Family Lockdown",
-                        "file_path": "b017/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Cross-Country Problem",
-                        "file_path": "b017/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Long Road Home",
-                        "file_path": "b017/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "A Birthday in Lockdown",
-                        "file_path": "b017/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "A Full House",
-                        "file_path": "b017/c001/p011.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Longest Two Weeks",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The First Sign",
-                        "file_path": "b017/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Diagnosis",
-                        "file_path": "b017/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Lockdown Within the Lockdown",
-                        "file_path": "b017/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Fever Breaks",
-                        "file_path": "b017/c002/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "A World Reopened",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The New Normal",
-                        "file_path": "b017/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The First Venture Out",
-                        "file_path": "b017/c003/p002.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 18,
-        "book_title": "A Dream Built",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Great Focus",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Leap of Faith",
-                        "file_path": "b018/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Grant",
-                        "file_path": "b018/c001/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "A Winter Homecoming",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Much-Needed Breather",
-                        "file_path": "b018/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Return",
-                        "file_path": "b018/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Boxing Day Mission",
-                        "file_path": "b018/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Architect Returns",
-                        "file_path": "b018/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Mission Solidified",
-                        "file_path": "b018/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Return to Lynnwood",
-                        "file_path": "b018/c002/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "The Great Focus",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Call and the Land",
-                        "file_path": "b018/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "From Blueprint to Reality",
-                        "file_path": "b018/c003/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "Echoes and Reunions",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The 20-Year Reunion",
-                        "file_path": "b018/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A New Home Base",
-                        "file_path": "b018/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Debriefing",
-                        "file_path": "b018/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Next Platform",
-                        "file_path": "b018/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Flight Home",
-                        "file_path": "b018/c004/p005.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "The New Workshop",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Cross-Platform Future",
-                        "file_path": "b018/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The First Prototype",
-                        "file_path": "b018/c005/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 6,
-                "chap_title": "From the Ground Up",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Montage of Progress",
-                        "file_path": "b018/c006/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The First Enterprise",
-                        "file_path": "b018/c006/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Acceleration",
-                        "file_path": "b018/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Living Building",
-                        "file_path": "b018/c006/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Physical Toll",
-                        "file_path": "b018/c006/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A New Horizon",
-                        "file_path": "b018/c006/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Rejection",
-                        "file_path": "b018/c006/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Rejection Letter",
-                        "file_path": "b018/c006/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 7,
-                "chap_title": "Bridges of Understanding",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "An Unexpected Encounter",
-                        "file_path": "b018/c007/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Family Reunited, A Tour Begins",
-                        "file_path": "b018/c007/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Directors’ Work",
-                        "file_path": "b018/c007/p003.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 19,
-        "book_title": "The Long Quiet *(Working Title)*",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "A Future in the Townships",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Quiet Question",
-                        "file_path": "b019/c001/p001.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 20,
-        "book_title": "The Final Chapter",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "Forever Yours",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Conscious Goodbye",
-                        "file_path": "b020/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Last Wishes",
-                        "file_path": "b020/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Last Goodbye",
-                        "file_path": "b020/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Promise Kept",
-                        "file_path": "b020/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Last Guardian",
-                        "file_path": "b020/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Service for Three",
-                        "file_path": "b020/c001/p006.md"
                     }
                 ]
             }

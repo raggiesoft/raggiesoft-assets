@@ -1,468 +1,406 @@
 [
     {
         "book_num": 1,
-        "book_title": "Currents and Crosswinds",
+        "book_title": "The Anchor",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "An Ordinary July",
+                "chap_title": "A Fork in the Road",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Day-to-Day at Quantum",
+                        "part_title": "The Bulletin Board 📌",
                         "file_path": "b001/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The “Review” That Isn’t",
+                        "part_title": "The Perfect Pitch 📞",
                         "file_path": "b001/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Across the Quad",
+                        "part_title": "The First Day 🏢",
                         "file_path": "b001/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Executive Suite",
+                        "part_title": "Lunch with the Devs 💻",
                         "file_path": "b001/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Off to BFI",
+                        "part_title": "Pager Code 005.1 📟",
                         "file_path": "b001/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Flight East",
-                        "file_path": "b001/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Providence to Boston",
-                        "file_path": "b001/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Morning Hand-Off",
-                        "file_path": "b001/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Green Room",
-                        "file_path": "b001/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Cue",
-                        "file_path": "b001/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Reveal",
-                        "file_path": "b001/c001/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Introduction",
-                        "file_path": "b001/c001/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Crown Jewel",
-                        "file_path": "b001/c001/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "The Aftermath",
-                        "file_path": "b001/c001/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "The Fallout",
-                        "file_path": "b001/c001/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "The Debrief",
-                        "file_path": "b001/c001/p016.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "Currents to Still Water",
+                "chap_title": "The Keynote",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Homecoming",
+                        "part_title": "Peace Treaty Before Sunrise☀️",
                         "file_path": "b001/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: Unwelcome Currents",
+                        "part_title": "The Aftermath 🌇",
                         "file_path": "b001/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: Evening Edition",
+                        "part_title": "The Memo Arrives 📄",
                         "file_path": "b001/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Part 4: The \\#60 into Town",
+                        "part_title": "Three Thousand Miles of Fury 😠",
                         "file_path": "b001/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Part 5: The Creamery Along the Wall",
+                        "part_title": "The Anchor ⚓",
                         "file_path": "b001/c002/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "Part 6: Breakfast at the Creamery",
+                        "part_title": "A Powerful Ally 🤝",
                         "file_path": "b001/c002/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "The First Autograph",
+                        "part_title": "One of the Trench People 🍽️",
                         "file_path": "b001/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Envelope ✉️",
+                        "file_path": "b001/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Story Breaks 📰",
+                        "file_path": "b001/c002/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "Out of the Loop 🛬",
+                        "file_path": "b001/c002/p010.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "The Spark of Rebellion",
+                "chap_title": "The Implosion",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Morning Commute",
+                        "part_title": "The Last Stand 🚶‍♂️",
                         "file_path": "b001/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "A Silent Protest",
+                        "part_title": "The Verdict ⚖️",
                         "file_path": "b001/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Confrontation at Aurora",
-                        "file_path": "b001/c003/p003.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "The War Councils Assemble",
+                "chap_title": "Closing the Book",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Quantum's Alliance",
+                        "part_title": "The Press Conference 🎤",
                         "file_path": "b001/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Aurora's Rebellion",
+                        "part_title": "Spilling the Beans 💻",
                         "file_path": "b001/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Good News at Jester's 🍔",
+                        "file_path": "b001/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "An Unbelievable Offer 🥤",
+                        "file_path": "b001/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Walk Home 🏡",
+                        "file_path": "b001/c004/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "A New Family Plan 👨‍👩‍👧‍👦",
+                        "file_path": "b001/c004/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Leaving on Good Terms 📝",
+                        "file_path": "b001/c004/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "Making it Official 🎓",
+                        "file_path": "b001/c004/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Training Day 👨‍🏫",
+                        "file_path": "b001/c004/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "A New Wardrobe 👔",
+                        "file_path": "b001/c004/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "First Steps, First Stumbles 👣",
+                        "file_path": "b001/c004/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Blue Badge 🟦",
+                        "file_path": "b001/c004/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "Breaking the Ice 🧊",
+                        "file_path": "b001/c004/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "The Priceless Photo 🖼️",
+                        "file_path": "b001/c004/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "Clocking Out for the Last Time 🕰️",
+                        "file_path": "b001/c004/p015.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "The Memo",
+                "chap_title": "Welcome to Quantum",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Leak",
+                        "part_title": "Your Voices Matter Here 🤝",
                         "file_path": "b001/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Damage Control",
+                        "part_title": "Starting with 'Why' 💡",
                         "file_path": "b001/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "An Overwhelming Good ∞",
+                        "file_path": "b001/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The First Line of Code ⌨️",
+                        "file_path": "b001/c005/p004.md"
                     }
                 ]
             },
             {
                 "chap_num": 6,
-                "chap_title": "The Exodus",
+                "chap_title": "The Bridge to Cupertino",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Intercepted Letter",
+                        "part_title": "An Unexpected Invitation ✈️",
                         "file_path": "b001/c006/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Last Stand",
+                        "part_title": "Jessica Did Her Homework 📚",
                         "file_path": "b001/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "A Fortuitous Encounter 🤝",
+                        "file_path": "b001/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Southbound on I-5 💼",
+                        "file_path": "b001/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The First-Time Flyers' Arrival at SEA ✈️",
+                        "file_path": "b001/c006/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Bridge Builders 🌉",
+                        "file_path": "b001/c006/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "First Class to Cupertino ✈️",
+                        "file_path": "b001/c006/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "Six Years 🤯",
+                        "file_path": "b001/c006/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "Welcome to Cupertino ☀️",
+                        "file_path": "b001/c006/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "Best Behavior 🤝",
+                        "file_path": "b001/c006/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Binary Canteen 🥪",
+                        "file_path": "b001/c006/p011.md"
                     }
                 ]
             },
             {
                 "chap_num": 7,
-                "chap_title": "Sanctuary Across the Lake",
+                "chap_title": "Inside Infinite Loop",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A New Alliance",
+                        "part_title": "Company Policy 📋",
                         "file_path": "b001/c007/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "To Fork or Not to Fork?",
+                        "part_title": "An Uneven Gait 🚶‍♂️",
                         "file_path": "b001/c007/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Solidarity in Action",
+                        "part_title": "A Necessary Anchor ⚓",
                         "file_path": "b001/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Proof of Work 💻",
+                        "file_path": "b001/c007/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Coding from the Couch 🛋️",
+                        "file_path": "b001/c007/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "Project Chimera 🤫",
+                        "file_path": "b001/c007/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "A Sister's Insistence 杖",
+                        "file_path": "b001/c007/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Right Tool for the Job 🍽️",
+                        "file_path": "b001/c007/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "What's Really Going On? 💬",
+                        "file_path": "b001/c007/p009.md"
                     }
                 ]
             },
             {
                 "chap_num": 8,
-                "chap_title": "The Fall of Aurora",
+                "chap_title": "A New Reality",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Empty Loft",
+                        "part_title": "The Right Tool for the Job ♿",
                         "file_path": "b001/c008/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Board Meeting",
+                        "part_title": "Breakfast at the Hotel 🥞",
                         "file_path": "b001/c008/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Kelly is Not For Sale",
+                        "part_title": "The Bug Bash 🐞",
                         "file_path": "b001/c008/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Press Conference",
+                        "part_title": "Lunch at Caffe Magna 🍕",
                         "file_path": "b001/c008/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Spilling the Beans",
+                        "part_title": "The Analysis 🧠",
                         "file_path": "b001/c008/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Final Paycheck",
+                        "part_title": "The Phone Call 📞",
                         "file_path": "b001/c008/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 9,
-                "chap_title": "The Final Straw",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "An Intern's Story",
-                        "file_path": "b001/c009/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Poisoned Well",
-                        "file_path": "b001/c009/p002.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 10,
-                "chap_title": "A New Beginning",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Writing the Next Chapter",
-                        "file_path": "b001/c010/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Kelly and Ryan’s First Day",
-                        "file_path": "b001/c010/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Break Room",
-                        "file_path": "b001/c010/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Jessica's Office",
-                        "file_path": "b001/c010/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Overwhelming Good",
-                        "file_path": "b001/c010/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The First Line of Code",
-                        "file_path": "b001/c010/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 11,
-                "chap_title": "The Bridge to Cupertino",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Cupertino Trip",
-                        "file_path": "b001/c011/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Gate and the Extended Family",
-                        "file_path": "b001/c011/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "On the Bridge to Cupertino",
-                        "file_path": "b001/c011/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The California Sun",
-                        "file_path": "b001/c011/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Inside Infinite Loop",
-                        "file_path": "b001/c011/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Dev Lab",
-                        "file_path": "b001/c011/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "A Day at Work",
-                        "file_path": "b001/c011/p007.md"
+                        "part_title": "The Bidding War Begins ⚖️",
+                        "file_path": "b001/c008/p007.md"
                     },
                     {
                         "part_num": 8,
-                        "part_title": "Lunch at Caffe Magna",
-                        "file_path": "b001/c011/p008.md"
+                        "part_title": "Professional Courtesy 🤫",
+                        "file_path": "b001/c008/p008.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 2,
+        "book_title": "The Bidding War as seen on DevNet",
+        "chapters": [
+            {
+                "chap_num": 2,
+                "chap_title": "The Players",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Developer Community (The Narrators)",
+                        "file_path": "b002/c002/p001.md"
                     },
                     {
-                        "part_num": 9,
-                        "part_title": "The Bug Bash",
-                        "file_path": "b001/c011/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Kernel Panic Fix",
-                        "file_path": "b001/c011/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "A Room with a View",
-                        "file_path": "b001/c011/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "Finders Keepers",
-                        "file_path": "b001/c011/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "Morning in Cupertino",
-                        "file_path": "b001/c011/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "A Picnic with Cousins",
-                        "file_path": "b001/c011/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "Homeward Bound",
-                        "file_path": "b001/c011/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "The Flight Home",
-                        "file_path": "b001/c011/p016.md"
+                        "part_num": 2,
+                        "part_title": "The CEOs (The Bidders)",
+                        "file_path": "b002/c002/p002.md"
                     }
                 ]
             },
             {
-                "chap_num": 12,
-                "chap_title": "Bidding for the Twins",
+                "chap_num": 3,
+                "chap_title": "Choosing a Future",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Offer",
-                        "file_path": "b001/c012/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Bidding War",
-                        "file_path": "b001/c012/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Escalation",
-                        "file_path": "b001/c012/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Decision",
-                        "file_path": "b001/c012/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Dotted Line",
-                        "file_path": "b001/c012/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The First Paycheck",
-                        "file_path": "b001/c012/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Acknowledging Talent",
-                        "file_path": "b001/c012/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A New Role",
-                        "file_path": "b001/c012/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 13,
-                "chap_title": "A New Family",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Pizza Night",
-                        "file_path": "b001/c013/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Apartment Hunt",
-                        "file_path": "b001/c013/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Capitol Hill Grand",
-                        "file_path": "b001/c013/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Move-In Day",
-                        "file_path": "b001/c013/p004.md"
+                        "part_title": "All the Offers on the Table 📂",
+                        "file_path": "b002/c003/p001.md"
                     }
                 ]
             }

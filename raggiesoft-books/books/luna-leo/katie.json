@@ -1,46 +1,67 @@
 [
     {
         "book_num": 1,
-        "book_title": "Early Years",
+        "book_title": "Elementary School",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "Stella’s Ninth Birthday Farewell",
+                "chap_title": "The Newport Vacation",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Birthday Morning and the Grandparents' Arrival",
+                        "part_title": "The Bachelor Pad (The Lab)",
                         "file_path": "b001/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Journey North and Boston Greetings",
+                        "part_title": "The Night Watch",
                         "file_path": "b001/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Bay State Marine Center Wonders",
+                        "part_title": "The Pitch",
                         "file_path": "b001/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "First Rides on \"The B\" and a Diaper Debacle",
+                        "part_title": "The Circuit Barn",
                         "file_path": "b001/c001/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Discoveries and a Starlight Pavilion",
+                        "part_title": "The Island Tour",
                         "file_path": "b001/c001/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Infamous BSTA Delay and Homeward Bound",
+                        "part_title": "The Park Summit",
                         "file_path": "b001/c001/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "Birthday Cake and Sweet Memories on Ludlow Road",
+                        "part_title": "The Quiet Convoy",
                         "file_path": "b001/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "BayFront Creamery",
+                        "file_path": "b001/c001/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Bennett Beacon",
+                        "file_path": "b001/c001/p009.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "Project Alpha",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Origin Story: Project Alpha",
+                        "file_path": "b001/c002/p001.md"
                     }
                 ]
             }
@@ -48,37 +69,151 @@
     },
     {
         "book_num": 2,
-        "book_title": "Elementary and Middle School",
+        "book_title": "Middle School",
         "chapters": [
             {
-                "chap_num": 2,
-                "chap_title": "The MagnaByte Opus Lifeline",
+                "chap_num": 1,
+                "chap_title": "The Test Run",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Breakthrough for Leo",
-                        "file_path": "b002/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Student Training and Education Program",
-                        "file_path": "b002/c002/p002.md"
+                        "part_title": "The Curb Trap",
+                        "file_path": "b002/c001/p001.md"
                     }
                 ]
             },
             {
-                "chap_num": 4,
-                "chap_title": "The Pressure Sore",
+                "chap_num": 2,
+                "chap_title": "The Yellow Wall",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Stella to the Sore Rescue",
-                        "file_path": "b002/c004/p001.md"
+                        "part_title": "Arrival at Morrison Middle School",
+                        "file_path": "b002/c002/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "Middle School Life (Working Title)",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Fire Alarm",
+                        "file_path": "b002/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Sunday with Stella",
-                        "file_path": "b002/c004/p002.md"
+                        "part_title": "The Call",
+                        "file_path": "b002/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach",
+                        "file_path": "b002/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Third Wheel",
+                        "file_path": "b002/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Architect and the Laborer",
+                        "file_path": "b002/c003/p005.md"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "book_num": 3,
+        "book_title": "Freshman Year",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "Welcome to Northwood High School",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The 5 AM Alarm",
+                        "file_path": "b003/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The War Room (Breakfast)",
+                        "file_path": "b003/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Soft Trap",
+                        "file_path": "b003/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Reckoning",
+                        "file_path": "b003/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Escort",
+                        "file_path": "b003/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Return",
+                        "file_path": "b003/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Longest Hour",
+                        "file_path": "b003/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Hand-Off",
+                        "file_path": "b003/c001/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Smoke Test",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Area of Rescue",
+                        "file_path": "b003/c002/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Descent",
+                        "file_path": "b003/c002/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Bus Loop",
+                        "file_path": "b003/c002/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Stand",
+                        "file_path": "b003/c002/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Long Hour",
+                        "file_path": "b003/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The All Clear",
+                        "file_path": "b003/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Return",
+                        "file_path": "b003/c002/p007.md"
                     }
                 ]
             }
@@ -86,31 +221,47 @@
     },
     {
         "book_num": 4,
-        "book_title": "Twins Summer with Stella",
+        "book_title": "Junior Year",
         "chapters": [
             {
-                "chap_num": 2,
-                "chap_title": "New Tools, New Beginnings",
+                "chap_num": 1,
+                "chap_title": "Planning for the Future",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Introduction and Anticipation",
+                        "part_title": "Transitioning Nichole’s IEP",
+                        "file_path": "b004/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Poverty Trap",
+                        "file_path": "b004/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Offer",
+                        "file_path": "b004/c001/p003.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 2,
+                "chap_title": "The Handover",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The First Shift",
                         "file_path": "b004/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Leo's New Wheelchair - A World of Difference",
+                        "part_title": "The Certification",
                         "file_path": "b004/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Quantum Communicators Arrive - Finding Their Voices",
+                        "part_title": "The Maintenance Crew",
                         "file_path": "b004/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A New Soundtrack and Leo's Poem",
-                        "file_path": "b004/c002/p004.md"
                     }
                 ]
             }
@@ -118,73 +269,52 @@
     },
     {
         "book_num": 5,
-        "book_title": "Twins Freshman Year",
+        "book_title": "Senior Year",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "Hallway Locker Hurdles",
+                "chap_title": "Graduation",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Northwood High Cafeteria – Lunch Period, Fall 1999 (From Luna and Leo Porter’s POV)",
+                        "part_title": "The Breach",
                         "file_path": "b005/c001/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Empty Chair",
+                        "file_path": "b005/c001/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Search",
+                        "file_path": "b005/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Promise",
+                        "file_path": "b005/c001/p004.md"
                     }
                 ]
             },
             {
-                "chap_num": 18,
-                "chap_title": "Competition Road Trip",
+                "chap_num": 2,
+                "chap_title": "The Reset",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Charter Bus to the Mountains",
-                        "file_path": "b005/c018/p001.md"
+                        "part_title": "Damage Control",
+                        "file_path": "b005/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Motel Check-In and Push-Up Penalties",
-                        "file_path": "b005/c018/p002.md"
+                        "part_title": "The Vow",
+                        "file_path": "b005/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Waiting Game",
-                        "file_path": "b005/c018/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Pre-Performance Hustle",
-                        "file_path": "b005/c018/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Showtime Preparation",
-                        "file_path": "b005/c018/p005.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 19,
-                "chap_title": "The Birds, the Bees, and the Opt-Out Form",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Form from School",
-                        "file_path": "b005/c019/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Talk",
-                        "file_path": "b005/c019/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Mary is Snubbed",
-                        "file_path": "b005/c019/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Kevin is Snubbed",
-                        "file_path": "b005/c019/p004.md"
+                        "part_title": "The War Room",
+                        "file_path": "b005/c002/p003.md"
                     }
                 ]
             }
@@ -192,165 +322,404 @@
     },
     {
         "book_num": 6,
-        "book_title": "Sophomore Year",
+        "book_title": "College Tours",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Sophomore Shuffle",
+                "chap_title": "The Misfit Tour",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Porter Morning Machine",
+                        "part_title": "The \"Free\" Laptop Trap",
                         "file_path": "b006/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Stand-Off",
+                        "part_title": "The Commuter Special",
                         "file_path": "b006/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Unwritten Rules",
-                        "file_path": "b006/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Parallel Lines",
-                        "file_path": "b006/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Dead Language, Live Connection",
-                        "file_path": "b006/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Cafeteria Court",
-                        "file_path": "b006/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Sanctuary of the Stacks",
-                        "file_path": "b006/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Getaway Driver",
-                        "file_path": "b006/c001/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "Stella Buys a Car",
+                "chap_title": "The Institution",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Online Reconnaissance",
+                        "part_title": "The Valley of Hope",
                         "file_path": "b006/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Olympus No Go",
+                        "part_title": "The Fortress",
                         "file_path": "b006/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Like a Rock? No, Like a Financing Offer",
+                        "part_title": "The Intake",
                         "file_path": "b006/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Lunch Break",
+                        "part_title": "The Cage",
                         "file_path": "b006/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Built Holt Tough",
+                        "part_title": "The Barracks",
                         "file_path": "b006/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Rec Hall",
+                        "file_path": "b006/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Escape",
+                        "file_path": "b006/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Intersection",
+                        "file_path": "b006/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Safe House",
+                        "file_path": "b006/c002/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Pasture",
+                        "file_path": "b006/c002/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The War Council",
+                        "file_path": "b006/c002/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Nest",
+                        "file_path": "b006/c002/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "The Night Watch",
+                        "file_path": "b006/c002/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "The Morning Report",
+                        "file_path": "b006/c002/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "The Pivot",
+                        "file_path": "b006/c002/p015.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "Dinner with the New Car",
+                "chap_title": "Virginia Dominion University",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Showing Off the New Car",
+                        "part_title": "The Thirteen-Hour Problem",
                         "file_path": "b006/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "First Official Trip (Dinner)",
+                        "part_title": "Home Field Advantage",
                         "file_path": "b006/c003/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Narc Special",
+                        "part_title": "The Roll Call",
                         "file_path": "b006/c003/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "The Clinic Hand-Off",
+                        "part_title": "The Tower of Words",
                         "file_path": "b006/c003/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Range of Motion",
+                        "part_title": "The Sanctuary",
                         "file_path": "b006/c003/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Life Sciences Hub",
+                        "file_path": "b006/c003/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Magic Carpet",
+                        "file_path": "b006/c003/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Hub",
+                        "file_path": "b006/c003/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Dealbreaker",
+                        "file_path": "b006/c003/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Retreat",
+                        "file_path": "b006/c003/p010.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "Football and Marching Bands",
+                "chap_title": "Trek Up the East Coast",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Difficult News",
+                        "part_title": "The Peninsula Run",
                         "file_path": "b006/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Final Phone Call",
+                        "part_title": "The Delaware Trap",
                         "file_path": "b006/c004/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The New Jersey Layover",
+                        "file_path": "b006/c004/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Machine at Rest",
+                        "file_path": "b006/c004/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Hopeful Morning",
+                        "file_path": "b006/c004/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "Spring Break in the Stent",
+                "chap_title": "Vermont",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Turnpike Wonders",
+                        "part_title": "The Green Mountain Haul",
                         "file_path": "b006/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Mystic Stopover",
+                        "part_title": "Putney College Open House",
                         "file_path": "b006/c005/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Newport Expressway",
+                        "part_title": "The Drive Back",
                         "file_path": "b006/c005/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Ghosts of Keystone Motors of Middletown",
+                        "part_title": "The Fuel Stop",
                         "file_path": "b006/c005/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "An Ocean of an Idea",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The New Jersey Pivot",
+                        "file_path": "b006/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Juggernaut",
+                        "file_path": "b006/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Diner Debrief",
+                        "file_path": "b006/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Ocean State Option",
+                        "file_path": "b006/c006/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "A Colossal Good Distraction",
-                        "file_path": "b006/c005/p005.md"
+                        "part_title": "The Ocean State Arrival",
+                        "file_path": "b006/c006/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 7,
+                "chap_title": "The Commuter Loop",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Holy Cow",
+                        "file_path": "b006/c007/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Gateway Connection",
+                        "file_path": "b006/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Sea Gate",
+                        "file_path": "b006/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Bull Run",
+                        "file_path": "b006/c007/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Braxton Link",
+                        "file_path": "b006/c007/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "The Jingle and the Mansions",
-                        "file_path": "b006/c005/p006.md"
+                        "part_title": "The Library Commons",
+                        "file_path": "b006/c007/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Debrief",
+                        "file_path": "b006/c007/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Upgrade",
+                        "file_path": "b006/c007/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 8,
+                "chap_title": "The Gap Year Protocol",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia",
+                        "file_path": "b006/c008/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Portsmouth Project",
+                        "file_path": "b006/c008/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Fortress on West Main",
+                        "file_path": "b006/c008/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Departure",
+                        "file_path": "b006/c008/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Visitor",
+                        "file_path": "b006/c008/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Hydrostatic Lock",
+                        "file_path": "b006/c008/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Milestone Payment",
+                        "file_path": "b006/c008/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Fortress Blueprint",
+                        "file_path": "b006/c008/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Credential Hunt",
+                        "file_path": "b006/c008/p009.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 9,
+                "chap_title": "The Independent Grid",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Commute",
+                        "file_path": "b006/c009/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Concourse Connection",
+                        "file_path": "b006/c009/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Call of the Bull",
+                        "file_path": "b006/c009/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Mole Lifestyle",
+                        "file_path": "b006/c009/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Commuter Waiver",
+                        "file_path": "b006/c009/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Anti-Sales Pitch",
+                        "file_path": "b006/c009/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "Refueling the Machine",
+                        "file_path": "b006/c009/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Bull Run",
+                        "file_path": "b006/c009/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Credential Check",
+                        "file_path": "b006/c009/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Detour and The Grid",
+                        "file_path": "b006/c009/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Debrief",
+                        "file_path": "b006/c009/p011.md"
                     }
                 ]
             }
@@ -358,57 +727,180 @@
     },
     {
         "book_num": 7,
-        "book_title": "Junior Year",
+        "book_title": "The Gap Year",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Shapes",
+                "chap_title": "The Fleet Upgrade",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Rainy Saturday Session",
+                        "part_title": "The Dual-Grid Dilemma",
                         "file_path": "b007/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The True Light",
+                        "part_title": "The Medical Handover",
                         "file_path": "b007/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Signal (1:30)",
+                        "part_title": "The Christmas Compiler",
                         "file_path": "b007/c001/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Winter Test",
+                        "file_path": "b007/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Grid Returns",
+                        "file_path": "b007/c001/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Long Goodbye",
+                        "file_path": "b007/c001/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Silent Investor",
+                        "file_path": "b007/c001/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Final Transfer",
+                        "file_path": "b007/c001/p008.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "The New Voice",
+                "chap_title": "The Commuter Protocol",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Rental Agreement",
+                        "part_title": "The Intake",
                         "file_path": "b007/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Embouchure Struggle",
+                        "part_title": "The Application",
                         "file_path": "b007/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The One-Month Trial",
+                        "part_title": "The Hardship Loophole",
                         "file_path": "b007/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Silver and Ownership",
+                        "part_title": "The Liability Lie",
                         "file_path": "b007/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "The Sterling Standard",
+                        "part_title": "The Bridge Fund",
                         "file_path": "b007/c002/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Foundry",
+                        "file_path": "b007/c002/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Early Deployment",
+                        "file_path": "b007/c002/p007.md"
+                    },
+                    {
+                        "part_num": 8,
+                        "part_title": "The Zero-Barrier Routine",
+                        "file_path": "b007/c002/p008.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 3,
+                "chap_title": "Exploring Braxton",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Zero-Friction Protocol",
+                        "file_path": "b007/c003/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The River and the System",
+                        "file_path": "b007/c003/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Edge of the Grid",
+                        "file_path": "b007/c003/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Safe Harbor",
+                        "file_path": "b007/c003/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Gen-Ed Pact",
+                        "file_path": "b007/c003/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 4,
+                "chap_title": "The Sync",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The War Room",
+                        "file_path": "b007/c004/p001.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "The Fortress Test",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Severed Link",
+                        "file_path": "b007/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Siege",
+                        "file_path": "b007/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Watch",
+                        "file_path": "b007/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The All-Clear",
+                        "file_path": "b007/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Blueprint",
+                        "file_path": "b007/c005/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Biological Override",
+                        "file_path": "b007/c005/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "The Sacred Trust",
+                        "file_path": "b007/c005/p007.md"
                     }
                 ]
             }
@@ -416,149 +908,241 @@
     },
     {
         "book_num": 8,
-        "book_title": "Senior Year Challenges",
+        "book_title": "Braxton Freshman",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Best Friend",
+                "chap_title": "The First Semester",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "An Unseen Ally",
+                        "part_title": "The Sorting Failure",
                         "file_path": "b008/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "College and Elections Assembly",
+                        "part_title": "The System Reboot",
                         "file_path": "b008/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "A Grateful Introduction",
+                        "part_title": "The Assembly",
                         "file_path": "b008/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation",
+                        "part_title": "The Tactical Retreat",
                         "file_path": "b008/c001/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Fortress Weekend",
+                        "file_path": "b008/c001/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "A Stormy Night, A Steadfast Friend",
+                "chap_title": "The Machine in Motion",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "An Afternoon Visit and Gathering Clouds",
+                        "part_title": "The Zero-Friction Morning",
                         "file_path": "b008/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "An Invitation in the Storm – And Stella's Call",
+                        "part_title": "The Commute",
                         "file_path": "b008/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Weathering the Storm – A Best Friend's Comfort",
+                        "part_title": "The Gen-Ed Pact",
                         "file_path": "b008/c002/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Morning Calm and Sisterly Smiles",
+                        "part_title": "The First Lecture",
                         "file_path": "b008/c002/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Saturday Respite and a Planned Weekend Stay",
+                        "part_title": "The Clinical Override",
                         "file_path": "b008/c002/p005.md"
                     },
                     {
                         "part_num": 6,
-                        "part_title": "A Sunday of Simple Comforts and Vintage Tech",
+                        "part_title": "The Green Light",
                         "file_path": "b008/c002/p006.md"
                     },
                     {
                         "part_num": 7,
-                        "part_title": "A Sunday Well Spent – Comforts, Chores, and Continued Connection",
+                        "part_title": "The Transit Chase",
                         "file_path": "b008/c002/p007.md"
                     },
                     {
                         "part_num": 8,
-                        "part_title": "A Guardian’s Trust",
+                        "part_title": "The Checkpoint Failure",
                         "file_path": "b008/c002/p008.md"
+                    },
+                    {
+                        "part_num": 9,
+                        "part_title": "The Realization",
+                        "file_path": "b008/c002/p009.md"
+                    },
+                    {
+                        "part_num": 10,
+                        "part_title": "The Wrap Up",
+                        "file_path": "b008/c002/p010.md"
+                    },
+                    {
+                        "part_num": 11,
+                        "part_title": "The Treatment Protocol",
+                        "file_path": "b008/c002/p011.md"
+                    },
+                    {
+                        "part_num": 12,
+                        "part_title": "The Double Ambush",
+                        "file_path": "b008/c002/p012.md"
+                    },
+                    {
+                        "part_num": 13,
+                        "part_title": "The Sub-Level Sanctuary",
+                        "file_path": "b008/c002/p013.md"
+                    },
+                    {
+                        "part_num": 14,
+                        "part_title": "The Filing",
+                        "file_path": "b008/c002/p014.md"
+                    },
+                    {
+                        "part_num": 15,
+                        "part_title": "The Loudmouth",
+                        "file_path": "b008/c002/p015.md"
                     }
                 ]
             },
             {
                 "chap_num": 3,
-                "chap_title": "New Year's Eve Reckoning",
+                "chap_title": "Nichole Adapts",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Quiet Evening Promised",
+                        "part_title": "Engine Failure",
                         "file_path": "b008/c003/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Shift – After Stella Leaves",
+                        "part_title": "The Malpractice Shield",
                         "file_path": "b008/c003/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Overload and Observation – The Decision Forms",
+                        "part_title": "The Integration",
                         "file_path": "b008/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Call for Rescue",
-                        "file_path": "b008/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Extraction and Stella's Quiet Wrath",
-                        "file_path": "b008/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Drive Away & A Fitting Finale",
-                        "file_path": "b008/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Quiet Countdown, A Noisy Neighborhood",
-                        "file_path": "b008/c003/p007.md"
                     }
                 ]
             },
             {
                 "chap_num": 4,
-                "chap_title": "The Flute’s Refrain",
+                "chap_title": "The Procedure: \"The Tune-Up\"",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Calculus Tutoring",
+                        "part_title": "The Handover (The Night Before) Time: 8:00 PM",
                         "file_path": "b008/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "An Unwanted Attempt",
+                        "part_title": "The Admission",
                         "file_path": "b008/c004/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Band Room Practice",
+                        "part_title": "The Surgical Consult",
                         "file_path": "b008/c004/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Mall Eats and Movie Anticipation",
+                        "part_title": "The Separation",
                         "file_path": "b008/c004/p004.md"
                     },
                     {
                         "part_num": 5,
-                        "part_title": "Saturday Matinee and a Souring Mood",
+                        "part_title": "The War Room",
                         "file_path": "b008/c004/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 5,
+                "chap_title": "Nichole’s Recovery",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Recovery Room (The Advocacy Test)",
+                        "file_path": "b008/c005/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Shift Partner",
+                        "file_path": "b008/c005/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Discharge",
+                        "file_path": "b008/c005/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The \"Stiff Leg\" Transfer (The Physical Test)",
+                        "file_path": "b008/c005/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Clinical Standard",
+                        "file_path": "b008/c005/p005.md"
+                    },
+                    {
+                        "part_num": 6,
+                        "part_title": "The Night Shift (The Spasm Protocol)",
+                        "file_path": "b008/c005/p006.md"
+                    },
+                    {
+                        "part_num": 7,
+                        "part_title": "New Year's Eve (The Shift Change)",
+                        "file_path": "b008/c005/p007.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 6,
+                "chap_title": "The Routine",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "The Winter Siege",
+                        "file_path": "b008/c006/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "The Fuel Station",
+                        "file_path": "b008/c006/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "The Creative Session",
+                        "file_path": "b008/c006/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "The Physical Toll",
+                        "file_path": "b008/c006/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "The Downgrade (Day Release)",
+                        "file_path": "b008/c006/p005.md"
                     }
                 ]
             }
@@ -566,266 +1150,16 @@
     },
     {
         "book_num": 9,
-        "book_title": "The Great North American Excursion",
+        "book_title": "Braxton Junior Year",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A Bittersweet Beginning",
+                "chap_title": "Concept: The Joint Defense",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "All Aboard",
+                        "part_title": "The Outcome",
                         "file_path": "b009/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Journey North",
-                        "file_path": "b009/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Approaching Union Station",
-                        "file_path": "b009/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The District Rail Gauntlet",
-                        "file_path": "b009/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Home Base on the Hill",
-                        "file_path": "b009/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "An Afternoon Among the Animals",
-                        "file_path": "b009/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Necessary Interlude",
-                        "file_path": "b009/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "An Evening on the Town",
-                        "file_path": "b009/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Culinary Discovery",
-                        "file_path": "b009/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "A Sanctuary of Water",
-                        "file_path": "b009/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "A Fortress Assembles for the Night",
-                        "file_path": "b009/c001/p011.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "A Capital Day of Discovery",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Museum Hopping",
-                        "file_path": "b009/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Wonders of Flight and Space",
-                        "file_path": "b009/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Rocket Burger Refuel",
-                        "file_path": "b009/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Fortress Cracks",
-                        "file_path": "b009/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Fragile Promise",
-                        "file_path": "b009/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Walk Through Time",
-                        "file_path": "b009/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Taste of Stanstead",
-                        "file_path": "b009/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Fortress in the Storm",
-                        "file_path": "b009/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Fortress, Reassembled",
-                        "file_path": "b009/c002/p009.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "Conquering the Capital",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Practice Mission",
-                        "file_path": "b009/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Breakfast in Georgetown",
-                        "file_path": "b009/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Walk by the Water",
-                        "file_path": "b009/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Walk Among Giants",
-                        "file_path": "b009/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Lunch on the Mall",
-                        "file_path": "b009/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "An Afternoon on the Potomac",
-                        "file_path": "b009/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "An Evening In",
-                        "file_path": "b009/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Sanctuary of Calm",
-                        "file_path": "b009/c003/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Journey Continues",
-                        "file_path": "b009/c003/p009.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "The Pennsylvanian",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Layover in Philly",
-                        "file_path": "b009/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Cheesesteak Debate",
-                        "file_path": "b009/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Journey Through the Alleghenies",
-                        "file_path": "b009/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Arrival in the Steel City",
-                        "file_path": "b009/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Room with a View (of Three Rivers)",
-                        "file_path": "b009/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Desperate Search",
-                        "file_path": "b009/c004/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Day in the Steel City",
-                        "file_path": "b009/c004/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "The King Street Heartbreak",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Shattering",
-                        "file_path": "b009/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Long Ride Home",
-                        "file_path": "b009/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Infinite Loop",
-                        "file_path": "b009/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Sanctuary in the Storm",
-                        "file_path": "b009/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Long Night Begins",
-                        "file_path": "b009/c005/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Leo’s Nightmare",
-                        "file_path": "b009/c005/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Morning After",
-                        "file_path": "b009/c005/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Sanity of a Sponge Bath",
-                        "file_path": "b009/c005/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 6,
-                "chap_title": "The Long Road Home",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Shadow on the Platform",
-                        "file_path": "b009/c006/p001.md"
                     }
                 ]
             }
@@ -833,310 +1167,21 @@
     },
     {
         "book_num": 10,
-        "book_title": "Delores",
+        "book_title": "Braxton Senior Year",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Emotional Vacuum",
+                "chap_title": "Graduation",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Grieving Start",
+                        "part_title": "The Protocol Negotiation",
                         "file_path": "b010/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "American Literature",
+                        "part_title": "The \"Cool Suit\" Modification",
                         "file_path": "b010/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Separation",
-                        "file_path": "b010/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "An Unexpected Addition",
-                        "file_path": "b010/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The First Red Flag",
-                        "file_path": "b010/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Cautious Assessment",
-                        "file_path": "b010/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Confronting Quantum",
-                        "file_path": "b010/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "A Cautious Assessment",
-                        "file_path": "b010/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Ride Home",
-                        "file_path": "b010/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "A Long-Distance Lifeline",
-                        "file_path": "b010/c001/p010.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Web",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Tutor",
-                        "file_path": "b010/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Unveiling",
-                        "file_path": "b010/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Controlled Visit",
-                        "file_path": "b010/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "An Unsettling Silence",
-                        "file_path": "b010/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Guardian's Shadow",
-                        "file_path": "b010/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Sleepless Resolve",
-                        "file_path": "b010/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Fragile Normalcy",
-                        "file_path": "b010/c002/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "Sibling Weekend",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Hijacked Plan",
-                        "file_path": "b010/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The College Pickup (Friday Afternoon)",
-                        "file_path": "b010/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Drive and Arrival",
-                        "file_path": "b010/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "An Uneasy Evening (Friday)",
-                        "file_path": "b010/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Saturday Under Siege",
-                        "file_path": "b010/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "MagnaByte Conflict (Saturday Afternoon)",
-                        "file_path": "b010/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Printer Rage, Guardianship Questions, and a Forceful Kiss (Saturday Afternoon/Evening)",
-                        "file_path": "b010/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "Leftovers, Bus Schedules, and Locked Doors (Sunday Evening/Night)",
-                        "file_path": "b010/c003/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Day Under Duress (Monday)",
-                        "file_path": "b010/c003/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "Tuesday Morning Departure",
-                        "file_path": "b010/c003/p010.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "Westward Ho!",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Trip Proposal",
-                        "file_path": "b010/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Four Days on the Bus",
-                        "file_path": "b010/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Doubts and Desperation",
-                        "file_path": "b010/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Arrival in the Pacific Northwest",
-                        "file_path": "b010/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "An Unwelcoming House",
-                        "file_path": "b010/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Jet Lag, Pancakes, and a Fragile Plan",
-                        "file_path": "b010/c004/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Delores Forces Herself",
-                        "file_path": "b010/c004/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Breaking Point",
-                        "file_path": "b010/c004/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "Homecoming",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Escape Through the Rain (Curbstone, 4 AM)",
-                        "file_path": "b010/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Carol Looks for Leo",
-                        "file_path": "b010/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The TTY Lifeline",
-                        "file_path": "b010/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Longest Hour",
-                        "file_path": "b010/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Sanctuary in a Sterile Room",
-                        "file_path": "b010/c005/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The First Meal",
-                        "file_path": "b010/c005/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Virtual Sanctuary",
-                        "file_path": "b010/c005/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Boarding Pass",
-                        "file_path": "b010/c005/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "Airside Sanctuary",
-                        "file_path": "b010/c005/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "Airside Mission – Clothing",
-                        "file_path": "b010/c005/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "Restoring Dignity",
-                        "file_path": "b010/c005/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "A Song of Homecoming",
-                        "file_path": "b010/c005/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Storm Before the Calm",
-                        "file_path": "b010/c005/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "The Journey Home Begins",
-                        "file_path": "b010/c005/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "A Longing for Simplicity",
-                        "file_path": "b010/c005/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "A Midway Dash",
-                        "file_path": "b010/c005/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "Arrival at ORF & Reunion",
-                        "file_path": "b010/c005/p017.md"
-                    },
-                    {
-                        "part_num": 18,
-                        "part_title": "Checking In, Cleaning Up (For Now)",
-                        "file_path": "b010/c005/p018.md"
-                    },
-                    {
-                        "part_num": 19,
-                        "part_title": "The Contaminated Sanctuary",
-                        "file_path": "b010/c005/p019.md"
-                    },
-                    {
-                        "part_num": 20,
-                        "part_title": "Later That Night",
-                        "file_path": "b010/c005/p020.md"
                     }
                 ]
             }
@@ -1144,438 +1189,26 @@
     },
     {
         "book_num": 11,
-        "book_title": "Leo is Home",
+        "book_title": "Bennett Dynamics",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "The Best Thanksgiving",
+                "chap_title": "An Idea",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Safe Harbor, Stark Reality",
+                        "part_title": "The Incorporation",
                         "file_path": "b011/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Restoring Care – The Bath",
+                        "part_title": "The Home Office (The Workflow)",
                         "file_path": "b011/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Dignity Restored, Needs Assessed",
+                        "part_title": "The Tablet Revolution",
                         "file_path": "b011/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Cereal, Milk, and Cruelty Revealed",
-                        "file_path": "b011/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "MagnaByte Sanctuary and Digital Dysentery",
-                        "file_path": "b011/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Grandparents Relief",
-                        "file_path": "b011/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Kitchen Filled with Warmth",
-                        "file_path": "b011/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Phone Call",
-                        "file_path": "b011/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "Reckoning and Reunion",
-                        "file_path": "b011/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Feast of Homecoming",
-                        "file_path": "b011/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "Evening Rituals and Secure Sleep",
-                        "file_path": "b011/c001/p011.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The First Day Home",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Change of Plans",
-                        "file_path": "b011/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A Gentle Waking",
-                        "file_path": "b011/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Sanctuary of Breakfast",
-                        "file_path": "b011/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Mission of Restoration",
-                        "file_path": "b011/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Voice of His Own",
-                        "file_path": "b011/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Mission of Agency",
-                        "file_path": "b011/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Reclaiming a Sanctuary",
-                        "file_path": "b011/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "Designing a New Sanctuary",
-                        "file_path": "b011/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Victory Lunch",
-                        "file_path": "b011/c002/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Sanctuary Rebuilt",
-                        "file_path": "b011/c002/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The First Rest",
-                        "file_path": "b011/c002/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "A Boundary Drawn",
-                        "file_path": "b011/c002/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "A New Path Forward",
-                        "file_path": "b011/c002/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "Fortress Goes to College",
-                        "file_path": "b011/c002/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "The First Peaceful Sleep",
-                        "file_path": "b011/c002/p015.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "A New Normal",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The First Morning",
-                        "file_path": "b011/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Designing the Future",
-                        "file_path": "b011/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A Palette of Possibilities 🎨",
-                        "file_path": "b011/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The First Coat of Freedom",
-                        "file_path": "b011/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Chemical Fire",
-                        "file_path": "b011/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Fortress Assembles for the Night",
-                        "file_path": "b011/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "Kent?",
-                        "file_path": "b011/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Quiet Dawn",
-                        "file_path": "b011/c003/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "A Breakfast of Comfort",
-                        "file_path": "b011/c003/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Final Coat",
-                        "file_path": "b011/c003/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "Assembling the Case",
-                        "file_path": "b011/c003/p011.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "The Legal Battle Begins",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Assembling the Fortress",
-                        "file_path": "b011/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "Setting the Wheels in Motion",
-                        "file_path": "b011/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Official Cooperation",
-                        "file_path": "b011/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Ordering a New Voice",
-                        "file_path": "b011/c004/p004.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "A Réveillon for Leo",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A New Language of Home",
-                        "file_path": "b011/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Fortress Goes to the Mall",
-                        "file_path": "b011/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "A New Talker!",
-                        "file_path": "b011/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A New Language of Home",
-                        "file_path": "b011/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Operation: Conquer Quantum",
-                        "file_path": "b011/c005/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "Poutine Logistics and a Fortress in French Class",
-                        "file_path": "b011/c005/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Tale of Two Frances",
-                        "file_path": "b011/c005/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Soft Interview",
-                        "file_path": "b011/c005/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "Sacres and Seafood",
-                        "file_path": "b011/c005/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "Mon Chum, Ma Blonde",
-                        "file_path": "b011/c005/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "A Grandparent's Surprise",
-                        "file_path": "b011/c005/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Final Secret",
-                        "file_path": "b011/c005/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Grand Old Lady on the Hill",
-                        "file_path": "b011/c005/p013.md"
-                    },
-                    {
-                        "part_num": 14,
-                        "part_title": "The Fortress Suite",
-                        "file_path": "b011/c005/p014.md"
-                    },
-                    {
-                        "part_num": 15,
-                        "part_title": "A Sanctuary of Pampering",
-                        "file_path": "b011/c005/p015.md"
-                    },
-                    {
-                        "part_num": 16,
-                        "part_title": "A Baptism of Care",
-                        "file_path": "b011/c005/p016.md"
-                    },
-                    {
-                        "part_num": 17,
-                        "part_title": "The Night Before the Réveillon",
-                        "file_path": "b011/c005/p017.md"
-                    },
-                    {
-                        "part_num": 18,
-                        "part_title": "A Tradition Adapted",
-                        "file_path": "b011/c005/p018.md"
-                    },
-                    {
-                        "part_num": 19,
-                        "part_title": "The Fortress Expanded",
-                        "file_path": "b011/c005/p019.md"
-                    },
-                    {
-                        "part_num": 20,
-                        "part_title": "The Prime-Time Réveillon",
-                        "file_path": "b011/c005/p020.md"
-                    },
-                    {
-                        "part_num": 21,
-                        "part_title": "The Comfort of Home",
-                        "file_path": "b011/c005/p021.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 6,
-                "chap_title": "A Quiet Christmas",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Morning After",
-                        "file_path": "b011/c006/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "An American Christmas",
-                        "file_path": "b011/c006/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "An American Christmas Feast",
-                        "file_path": "b011/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "A Moment to Regulate",
-                        "file_path": "b011/c006/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Fortress of Love",
-                        "file_path": "b011/c006/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "An Impromptu Recital",
-                        "file_path": "b011/c006/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Long Goodbye",
-                        "file_path": "b011/c006/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Holiday Afterglow",
-                        "file_path": "b011/c006/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 7,
-                "chap_title": "The Holiday Afterglow",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "A Day of Quiet",
-                        "file_path": "b011/c007/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "A House Full of Joy",
-                        "file_path": "b011/c007/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Quiet After",
-                        "file_path": "b011/c007/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Water and Trust",
-                        "file_path": "b011/c007/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Cocoon of Safety",
-                        "file_path": "b011/c007/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "A Nightmare in the Safe Harbor",
-                        "file_path": "b011/c007/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 8,
-                "chap_title": "A Day in Court",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Day in Court",
-                        "file_path": "b011/c008/p001.md"
                     }
                 ]
             }
@@ -1583,107 +1216,52 @@
     },
     {
         "book_num": 12,
-        "book_title": "The Commitment of Leo and Olivia",
+        "book_title": "The Twilight Years",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A New Name, A New Beginning",
+                "chap_title": "The Long Retreat",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Judge's Order",
+                        "part_title": "The Last Funeral",
                         "file_path": "b012/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Longest Morning",
+                        "part_title": "The City Problem",
                         "file_path": "b012/c001/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The New Ms. Walker Porter",
+                        "part_title": "The Decision",
                         "file_path": "b012/c001/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "A Toast at The Tidewater Grill",
+                        "part_title": "The Return",
                         "file_path": "b012/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Secret Melody",
-                        "file_path": "b012/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "An Impossible Thought",
-                        "file_path": "b012/c001/p006.md"
                     }
                 ]
             },
             {
                 "chap_num": 2,
-                "chap_title": "The Eighteenth of September",
+                "chap_title": "The Slow Rust",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "A Test and a Toast",
+                        "part_title": "The First Breakdown",
                         "file_path": "b012/c002/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Separation",
+                        "part_title": "The Shared Breath",
                         "file_path": "b012/c002/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "The Two Rooms",
+                        "part_title": "The Final Perimeter",
                         "file_path": "b012/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Procession",
-                        "file_path": "b012/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "A Declaration of Commitment",
-                        "file_path": "b012/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The First Dance",
-                        "file_path": "b012/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "A Montage of Dances",
-                        "file_path": "b012/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Toasts",
-                        "file_path": "b012/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Feast",
-                        "file_path": "b012/c002/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Cake",
-                        "file_path": "b012/c002/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Send-Off",
-                        "file_path": "b012/c002/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "Decompression",
-                        "file_path": "b012/c002/p012.md"
                     }
                 ]
             }
@@ -1691,536 +1269,21 @@
     },
     {
         "book_num": 13,
-        "book_title": "Finding a New House",
+        "book_title": "The End",
         "chapters": [
             {
                 "chap_num": 1,
-                "chap_title": "A Fortress of Our Own",
+                "chap_title": "The Synchronized Shutdown",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "The Weapon",
+                        "part_title": "Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI",
                         "file_path": "b013/c001/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "The Green and Gold",
+                        "part_title": "Epilogue: The Legacy",
                         "file_path": "b013/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Shibboleth",
-                        "file_path": "b013/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Tape",
-                        "file_path": "b013/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Verdict",
-                        "file_path": "b013/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Northward Compass",
-                        "file_path": "b013/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Long Twilight",
-                        "file_path": "b013/c001/p007.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Reconnaissance",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Iron Link",
-                        "file_path": "b013/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Hospitality Standard",
-                        "file_path": "b013/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Concourse Encounter",
-                        "file_path": "b013/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Victory Lap & The Blueprint",
-                        "file_path": "b013/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Subterranean City",
-                        "file_path": "b013/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Silver Standard",
-                        "file_path": "b013/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Adrenaline Crash",
-                        "file_path": "b013/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Foundation",
-                        "file_path": "b013/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Last Train Out",
-                        "file_path": "b013/c002/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Pulse of the City",
-                        "file_path": "b013/c002/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Cash Hammer",
-                        "file_path": "b013/c002/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Paper Fortress",
-                        "file_path": "b013/c002/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Lobster Toast",
-                        "file_path": "b013/c002/p013.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 3,
-                "chap_title": "The Big Dig",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Orange Army",
-                        "file_path": "b013/c003/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Subterranean City",
-                        "file_path": "b013/c003/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Quiet Harbor",
-                        "file_path": "b013/c003/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Blue Line Run",
-                        "file_path": "b013/c003/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Restoration",
-                        "file_path": "b013/c003/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Closing Table",
-                        "file_path": "b013/c003/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Final Look",
-                        "file_path": "b013/c003/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Iron Record",
-                        "file_path": "b013/c003/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Engine Stops",
-                        "file_path": "b013/c003/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Quiet Departure",
-                        "file_path": "b013/c003/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Vessel",
-                        "file_path": "b013/c003/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Final Passenger",
-                        "file_path": "b013/c003/p012.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 4,
-                "chap_title": "The Foundation",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Transfer of Power",
-                        "file_path": "b013/c004/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The War Room",
-                        "file_path": "b013/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Permission Slip",
-                        "file_path": "b013/c004/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Heavy Lift",
-                        "file_path": "b013/c004/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Final Crossing",
-                        "file_path": "b013/c004/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The ARTS-Box",
-                        "file_path": "b013/c004/p006.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 5,
-                "chap_title": "The Exodus",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Landing",
-                        "file_path": "b013/c005/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Home Court",
-                        "file_path": "b013/c005/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Traffic Report",
-                        "file_path": "b013/c005/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Ghost Layout",
-                        "file_path": "b013/c005/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Capital Request",
-                        "file_path": "b013/c005/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Ghost in the Deed",
-                        "file_path": "b013/c005/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Twin Frequency",
-                        "file_path": "b013/c005/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Wall Test",
-                        "file_path": "b013/c005/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Warning Signs",
-                        "file_path": "b013/c005/p009.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 6,
-                "chap_title": "The Power Upgrade",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Ticket Kiosk",
-                        "file_path": "b013/c006/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Commute to Commerce",
-                        "file_path": "b013/c006/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Showroom",
-                        "file_path": "b013/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Blue Planet",
-                        "file_path": "b013/c006/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Crossing and the Calm",
-                        "file_path": "b013/c006/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Shield",
-                        "file_path": "b013/c006/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Supply Run",
-                        "file_path": "b013/c006/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Return of the Fleet",
-                        "file_path": "b013/c006/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 7,
-                "chap_title": "The Paper Trail",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Official Stamp",
-                        "file_path": "b013/c007/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Eastern Townships Connection",
-                        "file_path": "b013/c007/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Principal Chair",
-                        "file_path": "b013/c007/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Lock Test",
-                        "file_path": "b013/c007/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Master Schedule",
-                        "file_path": "b013/c007/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Bill",
-                        "file_path": "b013/c007/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Textbook Run",
-                        "file_path": "b013/c007/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Last Mile Problem",
-                        "file_path": "b013/c007/p008.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 8,
-                "chap_title": "The Island Crossing",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Ferry and the Fortress",
-                        "file_path": "b013/c008/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Gilded Age Tour",
-                        "file_path": "b013/c008/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Express Return",
-                        "file_path": "b013/c008/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Calm Before the Herd",
-                        "file_path": "b013/c008/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Clean Break",
-                        "file_path": "b013/c008/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Night Watch",
-                        "file_path": "b013/c008/p006.md"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "book_num": 14,
-        "book_title": "The First Year",
-        "chapters": [
-            {
-                "chap_num": 1,
-                "chap_title": "The Orientation",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The 05:30 Alarm",
-                        "file_path": "b014/c001/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Rainy Day Express",
-                        "file_path": "b014/c001/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Split Screen",
-                        "file_path": "b014/c001/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Vetting Process",
-                        "file_path": "b014/c001/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Dialect Shock",
-                        "file_path": "b014/c001/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Machine Shop (The M.U.L.E. Begins)",
-                        "file_path": "b014/c001/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Audition",
-                        "file_path": "b014/c001/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Library Rendezvous",
-                        "file_path": "b014/c001/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Safe Harbor",
-                        "file_path": "b014/c001/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Missing Frequency",
-                        "file_path": "b014/c001/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Glass Wall",
-                        "file_path": "b014/c001/p011.md"
-                    }
-                ]
-            },
-            {
-                "chap_num": 2,
-                "chap_title": "The Winter Concert",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "The Green Room",
-                        "file_path": "b014/c002/p001.md"
-                    },
-                    {
-                        "part_num": 2,
-                        "part_title": "The Accessible Box",
-                        "file_path": "b014/c002/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "The Vivaldi",
-                        "file_path": "b014/c002/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "The Snow Convoy",
-                        "file_path": "b014/c002/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "The Sanctuary Protocol",
-                        "file_path": "b014/c002/p005.md"
-                    },
-                    {
-                        "part_num": 6,
-                        "part_title": "The Jurisdiction Trap",
-                        "file_path": "b014/c002/p006.md"
-                    },
-                    {
-                        "part_num": 7,
-                        "part_title": "The Station Assault",
-                        "file_path": "b014/c002/p007.md"
-                    },
-                    {
-                        "part_num": 8,
-                        "part_title": "The Flight Risk",
-                        "file_path": "b014/c002/p008.md"
-                    },
-                    {
-                        "part_num": 9,
-                        "part_title": "The Identity Crisis",
-                        "file_path": "b014/c002/p009.md"
-                    },
-                    {
-                        "part_num": 10,
-                        "part_title": "The Identity Protocol",
-                        "file_path": "b014/c002/p010.md"
-                    },
-                    {
-                        "part_num": 11,
-                        "part_title": "The Plastic Anchor",
-                        "file_path": "b014/c002/p011.md"
-                    },
-                    {
-                        "part_num": 12,
-                        "part_title": "The Ghost Tax",
-                        "file_path": "b014/c002/p012.md"
-                    },
-                    {
-                        "part_num": 13,
-                        "part_title": "The Maiden Voyage",
-                        "file_path": "b014/c002/p013.md"
                     }
                 ]
             }
