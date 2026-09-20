@@ -1,0 +1,143 @@
+{
+    "series_title": "Crimson Node",
+    "series_description": "A gripping tale from the Crimson Node project.",
+    "author": "Engine Room Records",
+    "status": "Ongoing",
+    "books": [
+        {
+            "book_num": 1,
+            "book_title": "Book 1: The Illusion",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: The Approach &ndash; Friday, April 23, 1999",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Anomalies – 10:15 AM",
+                            "file_path": "b001\/c001\/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Commons – 7:15 AM",
+                            "file_path": "b001\/c002\/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: 6th Period Lunch – 12:45 PM",
+                            "file_path": "b001\/c002\/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Omni-Q Incident – 4:30 PM",
+                            "file_path": "b001\/c002\/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Fallout – 5:15 PM",
+                            "file_path": "b001\/c002\/p004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Morning Routine – 8:00 AM",
+                            "file_path": "b001\/c003\/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Breakfast Spread – 9:15 AM",
+                            "file_path": "b001\/c003\/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Stadium Seating – 1:15 PM",
+                            "file_path": "b001\/c003\/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Majesty Express – 1:40 PM",
+                            "file_path": "b001\/c003\/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Simulation – 2:15 PM",
+                            "file_path": "b001\/c003\/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Player Two – 4:30 PM",
+                            "file_path": "b001\/c003\/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Legal Baseline – 7:00 PM",
+                            "file_path": "b001\/c003\/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Triad – 7:45 PM",
+                            "file_path": "b001\/c003\/p008.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Band Room Hallway – 10:15 AM",
+                            "file_path": "b001\/c004\/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Principal's Office – 10:20 AM",
+                            "file_path": "b001\/c004\/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Interlude – The Phone Call",
+                            "file_path": "b001\/c004\/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Rumor Mill – 6th Period Lunch",
+                            "file_path": "b001\/c004\/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The ISS Trailer – 2:15 PM",
+                            "file_path": "b001\/c004\/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Charlottesville Plan – 4:00 PM",
+                            "file_path": "b001\/c004\/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Final Transfer – 9:00 PM",
+                            "file_path": "b001\/c004\/p007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Interlude: The Reckoning",
+                    "parts": []
+                }
+            ]
+        }
+    ]
+}

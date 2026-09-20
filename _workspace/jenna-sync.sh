@@ -369,6 +369,18 @@ function do_push() {
     fi
     echo "          $CONNECTION_MSG"
 
+    # --- PRE-PUSH NARRATIVE BUILD ---
+    echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
+    if [ -f "$NARRATIVES_ROOT/scripts/publish_books.php" ]; then
+        php "$NARRATIVES_ROOT/scripts/publish_books.php"
+        if [ $? -ne 0 ]; then
+            echo "🛑 JENNA: ABORTING! Failed to compile narratives."
+            exit 1
+        fi
+    else
+        echo "⚠️  JENNA: Could not find publish_books.php. Skipping compilation."
+    fi
+
     # 4. HUB PUSH
     echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then
