@@ -80,19 +80,19 @@
         "folder": "jack-sarah"
     },
     {
-        "slug": "jessica",
-        "title": "jessica",
-        "description": "",
+        "slug": "the-quantum-directive-jessica-s-cut",
+        "title": "The Quantum Directive: Jessica's Cut",
+        "description": "A high-stakes corporate drama set against the backdrop of the late-90s tech boom. Follow Jessica Taylor as she navigates the intense pressures of management at Quantum, fighting to protect her team of talented developers while surviving in a massive tech conglomerate.",
         "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
-        "first_route": "/raggiesoft-books/books/jessica/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/the-quantum-directive-jessica-s-cut/b001/c001/p001",
         "folder": "jessica"
     },
     {
-        "slug": "kelly",
-        "title": "kelly",
-        "description": "",
+        "slug": "the-quantum-directive-kelly-s-cut",
+        "title": "The Quantum Directive: Kelly's Cut",
+        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches. Follow Kelly Madsen as she and her twin brother Ryan navigate grueling deadlines, high-stakes bug bashes, and the emotional weight of building the software that runs the world.",
         "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
-        "first_route": "/raggiesoft-books/books/kelly/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/the-quantum-directive-kelly-s-cut/b001/c001/p001",
         "folder": "kelly"
     },
     {
