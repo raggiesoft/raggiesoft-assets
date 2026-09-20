@@ -20,5 +20,6 @@
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Pending Distribution",
-  "creativeWorkStatus": "Upcoming Release"
+  "creativeWorkStatus": "Upcoming Release",
+  "isRockOpera": true
 }

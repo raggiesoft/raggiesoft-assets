@@ -1,32 +1,53 @@
 {
   "debut": {
     "label": "The Escape",
-    "heading": "2001: Breaking the Wall",
+    "heading": "2001-2003: Breaking the Wall",
     "description": "The foundational era of The Paper Wall. A raw, industrial, and autobiographical rock project driven by frontman Julian Croft.",
     "albums": [
       {
-        "title": "Static & Silence",
-        "year": "2001",
-        "url": "/engine-room/artists/the-paper-wall/discography/2001-static-and-silence",
-        "folder": "2001-static-and-silence",
-        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence/album-art.jpg",
-        "spotifyId": "",
-        "appleId": "",
-        "amazonId": "",
-        "youtubeId": "",
-        "description": "A sprawling two-part rock opera detailing an agonizing descent into an industrial nightmare and a raw, unfiltered journey back home to the safety of family."
+        "title": "Guiding Stars",
+        "year": "2000",
+        "url": "/engine-room/artists/the-paper-wall/discography/2000-guiding-stars",
+        "folder": "2000-guiding-stars",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2000-guiding-stars/album-art.jpg",
+        "description": "The uplifting 1980s prequel to Static & Silence. It chronicles the unbreakable bond between Leo and his family before the darkness set in.",
+        "rockOperaSetId": "static-and-silence"
       },
       {
-        "title": "The Eleventh Child: A Gauntlet of Hearts",
+        "title": "Static & Silence, Book 1: The Long Road West",
+        "year": "2001",
+        "url": "/engine-room/artists/the-paper-wall/discography/2001-static-and-silence-book-1",
+        "folder": "2001-static-and-silence-book-1",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/album-art.jpg",
+        "description": "Part 1 of the sprawling rock opera detailing an agonizing descent into an industrial nightmare.",
+        "rockOperaSetId": "static-and-silence"
+      },
+      {
+        "title": "Static & Silence, Book 2: The Journey Home",
+        "year": "2001",
+        "url": "/engine-room/artists/the-paper-wall/discography/2001-static-and-silence-book-2",
+        "folder": "2001-static-and-silence-book-2",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-2/album-art.jpg",
+        "description": "Part 2 of the sprawling rock opera detailing a raw, unfiltered journey back home to the safety of family.",
+        "rockOperaSetId": "static-and-silence"
+      },
+      {
+        "title": "The Eleventh Child, Book 1: System.Crash",
         "year": "2003",
-        "url": "/engine-room/artists/the-paper-wall/discography/2003-gauntlet-of-hearts",
-        "folder": "2003-gauntlet-of-hearts",
-        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-gauntlet-of-hearts/album-art.jpg",
-        "spotifyId": "",
-        "appleId": "",
-        "amazonId": "",
-        "youtubeId": "",
-        "description": "A cinematic, narrative-driven exploration of trauma and survival. This rock opera serves as the grand finale where industrial cages are shattered by an unbreakable gauntlet of hearts, ending in pure stadium-rock euphoria."
+        "url": "/engine-room/artists/the-paper-wall/discography/2003-eleventh-child-book-1",
+        "folder": "2003-eleventh-child-book-1",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/album-art.jpg",
+        "description": "Part 1 of the cinematic, narrative-driven exploration of trauma and survival.",
+        "rockOperaSetId": "eleventh-child"
+      },
+      {
+        "title": "The Eleventh Child, Book 2: System.Restore",
+        "year": "2003",
+        "url": "/engine-room/artists/the-paper-wall/discography/2003-eleventh-child-book-2",
+        "folder": "2003-eleventh-child-book-2",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-2/album-art.jpg",
+        "description": "Part 2 of the cinematic rock opera serving as the grand finale ending in pure stadium-rock euphoria.",
+        "rockOperaSetId": "eleventh-child"
       }
     ]
   }
