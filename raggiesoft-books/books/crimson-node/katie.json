@@ -1,6 +1,7 @@
 {
     "series_title": "Crimson Node",
     "series_description": "A gripping tale from the Crimson Node project.",
+    "series_image": "/engine-room-records/artists/crimson-node/2002-crimson-node/album-art.jpg",
     "author": "Engine Room Records",
     "status": "Ongoing",
     "books": [
@@ -14,8 +15,8 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Anomalies – 10:15 AM",
-                            "file_path": "b001\/c001\/p001.md"
+                            "part_title": "Part 1: Anomalies \u2013 10:15 AM",
+                            "file_path": "b001/c001/p001.md"
                         }
                     ]
                 },
@@ -25,23 +26,23 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Commons – 7:15 AM",
-                            "file_path": "b001\/c002\/p001.md"
+                            "part_title": "Part 1: The Commons \u2013 7:15 AM",
+                            "file_path": "b001/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: 6th Period Lunch – 12:45 PM",
-                            "file_path": "b001\/c002\/p002.md"
+                            "part_title": "Part 2: 6th Period Lunch \u2013 12:45 PM",
+                            "file_path": "b001/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Omni-Q Incident – 4:30 PM",
-                            "file_path": "b001\/c002\/p003.md"
+                            "part_title": "Part 3: The Omni-Q Incident \u2013 4:30 PM",
+                            "file_path": "b001/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Fallout – 5:15 PM",
-                            "file_path": "b001\/c002\/p004.md"
+                            "part_title": "Part 4: The Fallout \u2013 5:15 PM",
+                            "file_path": "b001/c002/p004.md"
                         }
                     ]
                 },
@@ -51,43 +52,43 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Morning Routine – 8:00 AM",
-                            "file_path": "b001\/c003\/p001.md"
+                            "part_title": "Part 1: The Morning Routine \u2013 8:00 AM",
+                            "file_path": "b001/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Breakfast Spread – 9:15 AM",
-                            "file_path": "b001\/c003\/p002.md"
+                            "part_title": "Part 2: The Breakfast Spread \u2013 9:15 AM",
+                            "file_path": "b001/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Stadium Seating – 1:15 PM",
-                            "file_path": "b001\/c003\/p003.md"
+                            "part_title": "Part 3: The Stadium Seating \u2013 1:15 PM",
+                            "file_path": "b001/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Majesty Express – 1:40 PM",
-                            "file_path": "b001\/c003\/p004.md"
+                            "part_title": "Part 4: The Majesty Express \u2013 1:40 PM",
+                            "file_path": "b001/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Simulation – 2:15 PM",
-                            "file_path": "b001\/c003\/p005.md"
+                            "part_title": "Part 5: The Simulation \u2013 2:15 PM",
+                            "file_path": "b001/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: Player Two – 4:30 PM",
-                            "file_path": "b001\/c003\/p006.md"
+                            "part_title": "Part 6: Player Two \u2013 4:30 PM",
+                            "file_path": "b001/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: The Legal Baseline – 7:00 PM",
-                            "file_path": "b001\/c003\/p007.md"
+                            "part_title": "Part 7: The Legal Baseline \u2013 7:00 PM",
+                            "file_path": "b001/c003/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: The Triad – 7:45 PM",
-                            "file_path": "b001\/c003\/p008.md"
+                            "part_title": "Part 8: The Triad \u2013 7:45 PM",
+                            "file_path": "b001/c003/p008.md"
                         }
                     ]
                 },
@@ -97,38 +98,38 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Band Room Hallway – 10:15 AM",
-                            "file_path": "b001\/c004\/p001.md"
+                            "part_title": "Part 1: The Band Room Hallway \u2013 10:15 AM",
+                            "file_path": "b001/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Principal's Office – 10:20 AM",
-                            "file_path": "b001\/c004\/p002.md"
+                            "part_title": "Part 2: The Principal's Office \u2013 10:20 AM",
+                            "file_path": "b001/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Interlude – The Phone Call",
-                            "file_path": "b001\/c004\/p003.md"
+                            "part_title": "Part 3: Interlude \u2013 The Phone Call",
+                            "file_path": "b001/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Rumor Mill – 6th Period Lunch",
-                            "file_path": "b001\/c004\/p004.md"
+                            "part_title": "Part 4: The Rumor Mill \u2013 6th Period Lunch",
+                            "file_path": "b001/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The ISS Trailer – 2:15 PM",
-                            "file_path": "b001\/c004\/p005.md"
+                            "part_title": "Part 5: The ISS Trailer \u2013 2:15 PM",
+                            "file_path": "b001/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Charlottesville Plan – 4:00 PM",
-                            "file_path": "b001\/c004\/p006.md"
+                            "part_title": "Part 6: The Charlottesville Plan \u2013 4:00 PM",
+                            "file_path": "b001/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: The Final Transfer – 9:00 PM",
-                            "file_path": "b001\/c004\/p007.md"
+                            "part_title": "Part 7: The Final Transfer \u2013 9:00 PM",
+                            "file_path": "b001/c004/p007.md"
                         }
                     ]
                 },
