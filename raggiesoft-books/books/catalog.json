@@ -4,6 +4,7 @@
         "title": "aethel",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "aethel"
     },
     {
@@ -11,6 +12,7 @@
         "title": "alex-chloe",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "alex-chloe"
     },
     {
@@ -18,6 +20,7 @@
         "title": "apex-fall-of-earth",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "apex-fall-of-earth"
     },
     {
@@ -25,6 +28,7 @@
         "title": "ashley-tower",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "ashley-tower"
     },
     {
@@ -32,6 +36,7 @@
         "title": "aubrie",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "aubrie"
     },
     {
@@ -39,6 +44,7 @@
         "title": "bob-emily",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "bob-emily"
     },
     {
@@ -46,6 +52,7 @@
         "title": "Crimson Node",
         "description": "A gripping tale from the Crimson Node project.",
         "image": "/engine-room-records/artists/crimson-node/2002-crimson-node/album-art.jpg",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "crimson-node"
     },
     {
@@ -53,6 +60,7 @@
         "title": "dream-kingdom",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "dream-kingdom"
     },
     {
@@ -60,6 +68,7 @@
         "title": "fractured-prisms",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "fractured-prisms"
     },
     {
@@ -67,6 +76,7 @@
         "title": "jack-sarah",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "jack-sarah"
     },
     {
@@ -74,6 +84,7 @@
         "title": "jessica",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "jessica"
     },
     {
@@ -81,6 +92,7 @@
         "title": "kelly",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "kelly"
     },
     {
@@ -88,6 +100,7 @@
         "title": "luna-leo",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "luna-leo"
     },
     {
@@ -95,6 +108,7 @@
         "title": "mary-childhood",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "mary-childhood"
     },
     {
@@ -102,6 +116,7 @@
         "title": "nate",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "nate"
     },
     {
@@ -109,6 +124,7 @@
         "title": "nichole",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "nichole"
     },
     {
@@ -116,6 +132,7 @@
         "title": "paige",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "paige"
     },
     {
@@ -123,6 +140,7 @@
         "title": "pebble-borrow",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "pebble-borrow"
     },
     {
@@ -130,6 +148,7 @@
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "rachel"
     },
     {
@@ -137,6 +156,7 @@
         "title": "samantha",
         "description": "",
         "image": "",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "samantha"
     }
 ]
