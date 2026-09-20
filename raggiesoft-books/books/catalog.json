@@ -1,0 +1,92 @@
+[
+    {
+        "slug": "aethel",
+        "title": "aethel",
+        "description": "",
+        "folder": "aethel"
+    },
+    {
+        "slug": "alex-chloe",
+        "title": "alex-chloe",
+        "description": "",
+        "folder": "alex-chloe"
+    },
+    {
+        "slug": "apex-fall-of-earth",
+        "title": "apex-fall-of-earth",
+        "description": "",
+        "folder": "apex-fall-of-earth"
+    },
+    {
+        "slug": "aubrie",
+        "title": "aubrie",
+        "description": "",
+        "folder": "aubrie"
+    },
+    {
+        "slug": "bob-emily",
+        "title": "bob-emily",
+        "description": "",
+        "folder": "bob-emily"
+    },
+    {
+        "slug": "crimson-node",
+        "title": "Crimson Node",
+        "description": "A gripping tale from the Crimson Node project.",
+        "folder": "crimson-node"
+    },
+    {
+        "slug": "fractured-prisms",
+        "title": "fractured-prisms",
+        "description": "",
+        "folder": "fractured-prisms"
+    },
+    {
+        "slug": "jack-sarah",
+        "title": "jack-sarah",
+        "description": "",
+        "folder": "jack-sarah"
+    },
+    {
+        "slug": "jessica",
+        "title": "jessica",
+        "description": "",
+        "folder": "jessica"
+    },
+    {
+        "slug": "kelly",
+        "title": "kelly",
+        "description": "",
+        "folder": "kelly"
+    },
+    {
+        "slug": "luna-leo",
+        "title": "luna-leo",
+        "description": "",
+        "folder": "luna-leo"
+    },
+    {
+        "slug": "nichole",
+        "title": "nichole",
+        "description": "",
+        "folder": "nichole"
+    },
+    {
+        "slug": "paige",
+        "title": "paige",
+        "description": "",
+        "folder": "paige"
+    },
+    {
+        "slug": "pebble-borrow",
+        "title": "pebble-borrow",
+        "description": "",
+        "folder": "pebble-borrow"
+    },
+    {
+        "slug": "the-rachel-narrative",
+        "title": "The Rachel Narrative",
+        "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+        "folder": "rachel"
+    }
+]
