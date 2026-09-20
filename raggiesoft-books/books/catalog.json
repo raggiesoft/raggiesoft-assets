@@ -51,7 +51,7 @@
         "slug": "crimson-node",
         "title": "Crimson Node",
         "description": "A gripping tale from the Crimson Node project.",
-        "image": "/engine-room-records/artists/crimson-node/2002-crimson-node/album-art.jpg",
+        "image": "/raggiesoft-books/images/covers/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/b001/c001/p001",
         "folder": "crimson-node"
     },
@@ -147,7 +147,7 @@
         "slug": "the-rachel-narrative",
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
-        "image": "",
+        "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
         "first_route": "/raggiesoft-books/books/the-rachel-narrative/b001/c001/p001",
         "folder": "rachel"
     },
