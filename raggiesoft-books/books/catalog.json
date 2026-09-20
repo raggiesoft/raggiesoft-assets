@@ -21,6 +21,13 @@
         "folder": "apex-fall-of-earth"
     },
     {
+        "slug": "ashley-tower",
+        "title": "ashley-tower",
+        "description": "",
+        "image": "",
+        "folder": "ashley-tower"
+    },
+    {
         "slug": "aubrie",
         "title": "aubrie",
         "description": "",
@@ -40,6 +47,13 @@
         "description": "A gripping tale from the Crimson Node project.",
         "image": "/engine-room-records/artists/crimson-node/2002-crimson-node/album-art.jpg",
         "folder": "crimson-node"
+    },
+    {
+        "slug": "dream-kingdom",
+        "title": "dream-kingdom",
+        "description": "",
+        "image": "",
+        "folder": "dream-kingdom"
     },
     {
         "slug": "fractured-prisms",
@@ -77,6 +91,20 @@
         "folder": "luna-leo"
     },
     {
+        "slug": "mary-childhood",
+        "title": "mary-childhood",
+        "description": "",
+        "image": "",
+        "folder": "mary-childhood"
+    },
+    {
+        "slug": "nate",
+        "title": "nate",
+        "description": "",
+        "image": "",
+        "folder": "nate"
+    },
+    {
         "slug": "nichole",
         "title": "nichole",
         "description": "",
@@ -103,5 +131,12 @@
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "",
         "folder": "rachel"
+    },
+    {
+        "slug": "samantha",
+        "title": "samantha",
+        "description": "",
+        "image": "",
+        "folder": "samantha"
     }
 ]
