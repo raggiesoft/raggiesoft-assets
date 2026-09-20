@@ -26,18 +26,30 @@
     const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     if (prefersReducedMotion) return; // Skip if user prefers reduced motion for a11y
 
-    // Initialize random starting image index
-    let currentIndex = Math.floor(Math.random() * images.length);
-    let activeLayer = 1;
-
     // Select layers by specific class hooks
     const bg1 = container.querySelector('.hero-bg-layer-1');
     const bg2 = container.querySelector('.hero-bg-layer-2');
 
     if (!bg1 || !bg2) return;
 
+    // Match the JS currentIndex to the random image PHP injected on page load
+    let currentIndex = 0;
+    const initialBg = bg1.style.backgroundImage;
+    for (let i = 0; i < images.length; i++) {
+        if (initialBg.includes(images[i])) {
+            currentIndex = i;
+            break;
+        }
+    }
+    
+    let activeLayer = 1;
+
     function rotateImage() {
-        currentIndex = (currentIndex + 1) % images.length;
+        let nextIndex = currentIndex;
+        while (nextIndex === currentIndex) {
+            nextIndex = Math.floor(Math.random() * images.length);
+        }
+        currentIndex = nextIndex;
         
         // Handle absolute URLs vs Relative CDN paths
         const imgPath = images[currentIndex];
