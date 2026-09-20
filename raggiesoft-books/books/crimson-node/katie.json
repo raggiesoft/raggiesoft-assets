@@ -136,7 +136,33 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Interlude: The Reckoning",
-                    "parts": []
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The New Hierarchy \u2013 3:00 PM",
+                            "file_path": "b001/c005/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Empathy Drill \u2013 4:00 PM",
+                            "file_path": "b001/c005/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Ghost Letter \u2013 6:30 PM",
+                            "file_path": "b001/c005/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Empty Frame \u2013 8:00 PM",
+                            "file_path": "b001/c005/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Thunderstorm \u2013 11:00 PM",
+                            "file_path": "b001/c005/p005.md"
+                        }
+                    ]
                 }
             ]
         }
