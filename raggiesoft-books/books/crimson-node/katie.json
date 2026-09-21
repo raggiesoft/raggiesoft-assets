@@ -182,6 +182,16 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Coronation \u2013 10:45 PM",
                             "file_path": "b001/c006/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Off the Record \u2013 11:30 PM",
+                            "file_path": "b001/c006/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The End of the Night \u2013 12:30 AM",
+                            "file_path": "b001/c006/p005.md"
                         }
                     ]
                 }

@@ -578,7 +578,9 @@ done
 # Apply connection modifications based on parsing
 if [ "$USE_PUBLIC_WIFI" = true ]; then
     RCLONE_PERF_FLAGS="-P --transfers=1 --tpslimit=1 --timeout=60s --user-agent \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36\""
-    CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent."
+    # Bypass port 22 blocks on public WiFi by routing Git SSH over port 443
+    export GIT_SSH_COMMAND="ssh -o Port=443 -o HostName=ssh.github.com"
+    CONNECTION_MSG="🕵️‍♀️ CAMOUFLAGE MODE: Spoofing Chrome User-Agent and routing Git via Port 443."
 else
     RCLONE_PERF_FLAGS="-P --transfers=8"
     CONNECTION_MSG="🚀 STANDARD MODE: Maximum velocity."
