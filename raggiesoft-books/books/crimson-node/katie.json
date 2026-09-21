@@ -163,6 +163,27 @@
                             "file_path": "b001/c005/p005.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Chapter 6: The Senior Prom &ndash; May 1999",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Request \u2013 3:30 PM",
+                            "file_path": "b001/c006/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Exile \u2013 7:00 PM",
+                            "file_path": "b001/c006/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Coronation \u2013 10:45 PM",
+                            "file_path": "b001/c006/p003.md"
+                        }
+                    ]
                 }
             ]
         }
