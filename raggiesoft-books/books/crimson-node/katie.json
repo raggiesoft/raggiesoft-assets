@@ -196,8 +196,8 @@
                     ]
                 },
                 {
-                    "chapter_num": 7,
-                    "chapter_title": "Chapter 7: The Blueprint \u2013 Sunday, May 16, 1999",
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7: The Blueprint \u2013 Sunday, May 16, 1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -227,8 +227,8 @@
                     ]
                 },
                 {
-                    "chapter_num": 8,
-                    "chapter_title": "Chapter 8: The Administration \u2013 Monday, May 17, 1999",
+                    "chap_num": 8,
+                    "chap_title": "Chapter 8: The Administration \u2013 Monday, May 17, 1999",
                     "parts": [
                         {
                             "part_num": 1,
