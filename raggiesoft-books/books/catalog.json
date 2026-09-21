@@ -1,17 +1,17 @@
 [
     {
-        "slug": "the-silver-gauntlet-of-aethel",
+        "slug": "aethel",
         "title": "The Silver Gauntlet of Aethel",
         "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
         "image": "/raggiesoft-books/images/covers/aethel.jpg",
-        "first_route": "/raggiesoft-books/books/the-silver-gauntlet-of-aethel/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/aethel/b001/c001/p001",
         "folder": "aethel"
     },
     {
         "slug": "alex-chloe",
-        "title": "alex-chloe",
-        "description": "",
-        "image": "",
+        "title": "Alex & Chlo\u00e9",
+        "description": "A beautiful, lifelong journey of connection, resilience, and the deeply profound bond between Alex Miller and Chlo\u00e9 Mason.",
+        "image": "/raggiesoft-books/images/covers/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/b001/c001/p001",
         "folder": "alex-chloe"
     },
@@ -80,19 +80,19 @@
         "folder": "jack-sarah"
     },
     {
-        "slug": "the-quantum-directive-jessica-s-cut",
+        "slug": "jessica",
         "title": "The Quantum Directive: Jessica's Cut",
         "description": "A high-stakes corporate drama set against the backdrop of the late-90s tech boom. Follow Jessica Taylor as she navigates the intense pressures of management at Quantum, fighting to protect her team of talented developers while surviving in a massive tech conglomerate.",
         "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
-        "first_route": "/raggiesoft-books/books/the-quantum-directive-jessica-s-cut/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/jessica/b001/c001/p001",
         "folder": "jessica"
     },
     {
-        "slug": "the-quantum-directive-kelly-s-cut",
+        "slug": "kelly",
         "title": "The Quantum Directive: Kelly's Cut",
         "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches. Follow Kelly Madsen as she and her twin brother Ryan navigate grueling deadlines, high-stakes bug bashes, and the emotional weight of building the software that runs the world.",
         "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
-        "first_route": "/raggiesoft-books/books/the-quantum-directive-kelly-s-cut/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/kelly/b001/c001/p001",
         "folder": "kelly"
     },
     {
@@ -121,9 +121,9 @@
     },
     {
         "slug": "nichole",
-        "title": "nichole",
-        "description": "",
-        "image": "",
+        "title": "Nichole",
+        "description": "The extraordinary life of Nichole Foster, the brilliant architect of the Bennet Machine, and her unbreakable bond with her brother Patrick.",
+        "image": "/raggiesoft-books/images/covers/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/b001/c001/p001",
         "folder": "nichole"
     },
@@ -144,11 +144,11 @@
         "folder": "pebble-borrow"
     },
     {
-        "slug": "the-rachel-narrative",
+        "slug": "rachel",
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
-        "first_route": "/raggiesoft-books/books/the-rachel-narrative/b001/c001/p001",
+        "first_route": "/raggiesoft-books/books/rachel/b001/c001/p001",
         "folder": "rachel"
     },
     {
