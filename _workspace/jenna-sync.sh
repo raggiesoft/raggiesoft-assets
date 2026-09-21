@@ -370,6 +370,14 @@ function do_push() {
     echo "          $CONNECTION_MSG"
 
     # --- PRE-PUSH NARRATIVE BUILD ---
+    echo "👱‍♀️ JENNA: Generating AI Context Lumps..."
+    if [ -f "$NARRATIVES_ROOT/scripts/lump_narratives.php" ]; then
+        php "$NARRATIVES_ROOT/scripts/lump_narratives.php"
+        if [ $? -ne 0 ]; then
+            echo "⚠️  JENNA: Warning - Failed to generate AI lumps, continuing anyway..."
+        fi
+    fi
+
     echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     if [ -f "$NARRATIVES_ROOT/scripts/publish_books.php" ]; then
         php "$NARRATIVES_ROOT/scripts/publish_books.php"
