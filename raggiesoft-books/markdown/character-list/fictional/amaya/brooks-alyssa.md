@@ -2,7 +2,7 @@
 type: character-profile
 category: tier-2-pack
 aliases: [Alyssa, The Social Shield]
-characters: [Alyssa Brooks, Justin Hayes, Courtney Evans]
+characters: [Alyssa Brooks, Justin Hayes, Roxy Slater]
 groups: [Wall of 20, The Flankers]
 tags: [lore, character, accessibility, transit, recreation-management, aquatics, social-shield]
 tier: 2
@@ -33,7 +33,7 @@ Alyssa's behavior in the pack is entirely informed by her professional backgroun
 Alyssa operates on the immediate left or right flank of the transport chair, acting as the primary verbal interceptor. 
 
 *   **The Polite Deflection:** When strangers or classmates approach the flank to ask Justin highly intrusive, ableist questions (e.g., "What's wrong with him?" or "Can he understand me?"), Alyssa steps in seamlessly. She utilizes a highly practiced, perfectly polite "customer service" voice to redirect the conversation: *"Oh, we're actually late for a lecture right now, but have a great day!"* 
-*   **The Escalation Protocol (Blowing the Whistle):** She acts as the foil to [[Courtney Evans]]. Courtney starts at a ten; Alyssa starts at a two. However, if a stranger ignores Alyssa's polite deflection, pushes the issue, or if she notices Justin becoming sensorially overwhelmed by the intrusion, Alyssa's demeanor snaps instantly. She drops the polite facade and becomes ruthlessly, loudly authoritative—deploying the exact same tone she uses to eject a hostile patron from a municipal pool deck.
+*   **The Escalation Protocol (Blowing the Whistle):** She acts as the foil to [[Roxy Slater]]. Roxy starts at a ten; Alyssa starts at a two. However, if a stranger ignores Alyssa's polite deflection, pushes the issue, or if she notices Justin becoming sensorially overwhelmed by the intrusion, Alyssa's demeanor snaps instantly. She drops the polite facade and becomes ruthlessly, loudly authoritative—deploying the exact same tone she uses to eject a hostile patron from a municipal pool deck.
 
 ## IV. Caregiving & Interpersonal Mechanics
 

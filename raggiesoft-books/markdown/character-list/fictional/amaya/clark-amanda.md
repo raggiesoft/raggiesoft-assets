@@ -2,7 +2,7 @@
 type: character-profile
 category: tier-2-pack
 aliases: [Mandy, The Zen Anchor]
-characters: [Amanda Clark, Justin Hayes, Courtney Evans]
+characters: [Amanda Clark, Justin Hayes, Roxy Slater]
 groups: [Wall of 20, The Flankers]
 tags: [lore, character, accessibility, transit, music-therapy, tactile-anchor, grounding]
 tier: 2
@@ -22,7 +22,7 @@ academic_major: Music Therapy
 
 ## II. The "Museum Music" Aesthetic & Persona
 
-Mandy operates as the exact psychological opposite of [[Courtney Evans]]. Where the Vanguard enforcers project loud, aggressive boundaries, Mandy absorbs and dissipates stress.
+Mandy operates as the exact psychological opposite of [[Roxy Slater]]. Where the Vanguard enforcers project loud, aggressive boundaries, Mandy absorbs and dissipates stress.
 
 *   **The Zen Aura:** She is deeply invested in yoga, chi, and holistic grounding techniques. She maintains a completely unbothered, deeply relaxed posture regardless of the chaos unfolding at the transit center.
 *   **The Ambient Curator:** She is obsessed with the specific "soundscape" CDs sold in museum gift shops and nature stores. She actively generates and catalogs her own independent digital ambient tracks, creating calming, synthesized audio environments that she perfectly tailors to Justin's auditory processing needs.
@@ -32,7 +32,7 @@ Mandy operates as the exact psychological opposite of [[Courtney Evans]]. Where 
 Mandy walks on the immediate left or right of the transport chair.
 
 *   **The Physical Buffer:** As a Flanker, her primary physical job is to prevent people from bumping the wheels of the chair or reaching into Justin's tactile space uninvited. She does this not by shoving, but by maintaining a fluid, unyielding physical presence, casually side-stepping to absorb any incoming physical friction.
-*   **The Secondary Tactile Anchor:** If the Vanguard gets engaged in a confrontation (like Courtney deploying her TMI defense) and the environment becomes hostile, Justin's AuDHD brain can easily become flooded by the sudden acoustic spikes. Mandy acts as his immediate circuit breaker. He reaches out to her flank, and she provides a slow, steady, rhythmic tactile pulse (like tapping his hand in a slow heartbeat rhythm) to physically ground him.
+*   **The Secondary Tactile Anchor:** If the Vanguard gets engaged in a confrontation (like Roxy deploying her TMI defense) and the environment becomes hostile, Justin's AuDHD brain can easily become flooded by the sudden acoustic spikes. Mandy acts as his immediate circuit breaker. He reaches out to her flank, and she provides a slow, steady, rhythmic tactile pulse (like tapping his hand in a slow heartbeat rhythm) to physically ground him.
 
 ## IV. Caregiving & Interpersonal Mechanics
 

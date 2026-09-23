@@ -2,7 +2,7 @@
 type: character-profile
 category: tier-2-pack
 aliases: [Amber, The Anchor, The Trainer]
-characters: [Amber Mitchell, Justin Hayes, Stephanie Reed, Courtney Evans]
+characters: [Amber Mitchell, Justin Hayes, Stephanie Reed, Roxy Slater]
 groups: [Wall of 20, The Rear Guard]
 tags: [lore, character, accessibility, transit, kinesiology, nutrition, tbi, dysarthria, mobility, municipal-recreation]
 tier: 2
@@ -42,7 +42,7 @@ Amber rebuilt her own broken body, making her a fiercely empathetic, uncompromis
 
 *   **The Anti-Gym Rat:** Society expects a fitness expert to be an aggressive, able-bodied "gym rat". Amber completely rejects this. She strictly avoids private, corporate gyms like "Galaxy Fitness," finding gimmicks like their "Brute Alarm" performative and toxic. She prefers the accessible, community-focused environment of local municipal recreation centers.
 *   **Pristine Gym Etiquette:** She possesses elite discipline. She meticulously wipes down every piece of equipment, executes flawless, textbook spotting techniques for whichever pack member she is assisting, and exercises complete mechanical control over her lifts. She never drops or slams her weights down, moving with quiet, focused intention.
-*   **Bespoke Nutritional Plans:** She calculates the exact fluid-to-calorie ratios for Courtney’s liquid diet, helps Stephanie navigate a healthy, non-restrictive caloric deficit, and ensures Justin receives proper macronutrients despite his sensory aversions to certain food textures.
+*   **Bespoke Nutritional Plans:** She calculates the exact fluid-to-calorie ratios for Roxy’s liquid diet, helps Stephanie navigate a healthy, non-restrictive caloric deficit, and ensures Justin receives proper macronutrients despite his sensory aversions to certain food textures.
 *   **Adaptive Physical Training:** She designs highly specific, adaptive exercises based on the physical limits of each member. She understands Justin's CP spasticity and Stephanie's forearm crutch fatigue on a molecular level, finding safe ways for them to build muscle without triggering pain.
 
 ## V. Future Trajectory
@@ -54,7 +54,7 @@ Amber rebuilt her own broken body, making her a fiercely empathetic, uncompromis
 
 *   **The Anti-Gym Rat:** Society expects a fitness expert to be an aggressive, able-bodied "gym rat". Amber completely rejects this. She strictly avoids private, corporate gyms like "Galaxy Fitness," finding gimmicks like their "Brute Alarm" performative and toxic. She prefers the accessible, community-focused environment of local municipal recreation centers.
 *   **Pristine Gym Etiquette:** She possesses elite discipline. She meticulously wipes down every piece of equipment, executes flawless, textbook spotting techniques for whichever pack member she is assisting, and exercises complete mechanical control over her lifts. She never drops or slams her weights down, moving with quiet, focused intention.
-*   **Bespoke Nutritional Plans:** She calculates the exact fluid-to-calorie ratios for Courtney’s liquid diet, helps Stephanie navigate a healthy, non-restrictive caloric deficit, and ensures Justin receives proper macronutrients despite his sensory aversions to certain food textures.
+*   **Bespoke Nutritional Plans:** She calculates the exact fluid-to-calorie ratios for Roxy’s liquid diet, helps Stephanie navigate a healthy, non-restrictive caloric deficit, and ensures Justin receives proper macronutrients despite his sensory aversions to certain food textures.
 *   **Adaptive Physical Training:** She designs highly specific, adaptive exercises based on the physical limits of each member. She understands Justin's CP spasticity and Stephanie's forearm crutch fatigue on a molecular level, finding safe ways for them to build muscle without triggering pain.
 
 ## V. Future Trajectory
