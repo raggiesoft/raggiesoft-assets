@@ -484,11 +484,11 @@ Sitting in his bedroom behind the left window, Michael looks out just in time to
 
 Jessica lands completely upright, feet-first on the unyielding concrete.
 
-In trauma medicine, this is known as a severe **axial load injury**. Because her legs are locked straight when she hits the ground, the concrete does not give. All the kinetic energy from a 12-foot drop travels violently upward through her feet. The sheer force of the impact completely pulverizes her calcaneus (heel) bones and her talus bones (the critical lower hinge of the ankle).
+In trauma medicine, this is known as a severe axial load injury. Because her legs are locked straight when she hits the ground, the concrete does not give. All the kinetic energy from a 12-foot drop travels violently upward through her feet. The sheer force of the impact completely pulverizes her calcaneus (heel) bones and her talus bones (the critical lower hinge of the ankle).
 
-- **The Surgery:** Orthopedic surgeons spend hours reconstructing her feet with titanium plates and pins, saving the limbs from amputation. They successfully salvage her nerves and her muscles.
+- The Surgery: Orthopedic surgeons spend hours reconstructing her feet with titanium plates and pins, saving the limbs from amputation. They successfully salvage her nerves and her muscles.
 
-- **The Permanent Constraint:** Jessica retains full feeling and complete range of motion. She can wiggle her toes, bend her knees, and rotate her ankles perfectly. However, the structural architecture of her feet was turned to dust. The bones cannot be rebuilt to withstand gravity. If she attempts to stand, the hollow, pinned-together remnants of her heels and ankles simply cannot support the weight of a human body without catastrophic failure and agonizing pain. She will require a custom manual wheelchair for the rest of her life.
+- The Permanent Constraint: Jessica retains full feeling and complete range of motion. She can wiggle her toes, bend her knees, and rotate her ankles perfectly. However, the structural architecture of her feet was turned to dust. The bones cannot be rebuilt to withstand gravity. If she attempts to stand, the hollow, pinned-together remnants of her heels and ankles simply cannot support the weight of a human body without catastrophic failure and agonizing pain. She will require a custom manual wheelchair for the rest of her life.
 
 ## The Narrative Impact: The Guilt of Tom Ragsdale
 

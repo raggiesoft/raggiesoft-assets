@@ -17,8 +17,8 @@ for DIR in books/*/; do
     MANUSCRIPT_DIR="books/$BASE/manuscript"
     
     # PUBLIC DEPLOYMENT FOLDERS
-    OUT_LORE_DIR="../raggiesoft-books/books/$BASE/$BASE-lore"
-    OUT_NARRATIVE_DIR="../raggiesoft-books/books/$BASE/$BASE-narrative"
+    OUT_LORE_DIR="../../raggiesoft-narratives/lore/$BASE"
+    OUT_NARRATIVE_DIR="../../raggiesoft-narratives/books/$BASE"
     FINAL_WEB_LORE="$OUT_LORE_DIR/${BASE}-lore.md"
 
     # -----------------------------------------
@@ -148,7 +148,7 @@ for DIR in books/*/; do
             print "# " part_title > current_file
             
             web_file_path = current_file
-            sub(/^\.\.\/raggiesoft-books\/books/, "", web_file_path)
+            sub(base_dir "/", "", web_file_path)
             
             json_entry = sprintf("{\"book_num\": %d, \"book_title\": \"%s\", \"chap_num\": %d, \"chap_title\": \"%s\", \"part_num\": %d, \"part_title\": \"%s\", \"file_path\": \"%s\"}", 
                 book_count, escape_json(book_title), 

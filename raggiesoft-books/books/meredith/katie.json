@@ -1,0 +1,110 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 4: The Vanguard",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The First Drop-Off – Monday, August 25, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Garage Barracks – 6:00 AM",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Commute – 8:15 AM",
+            "file_path": "b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Walker Building Lounge – 8:30 AM",
+            "file_path": "b001/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The InfoLink Update – 10:15 AM",
+            "file_path": "b001/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Interlude: The Color Correction – 11:15 AM",
+            "file_path": "b001/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 5: SDV 100 – 11:00 AM",
+            "file_path": "b001/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 6: The Foundation – 11:20 AM",
+            "file_path": "b001/c001/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 7: The Promenade at Granby – 11:55 AM",
+            "file_path": "b001/c001/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 8: The Debrief – 12:45 PM",
+            "file_path": "b001/c001/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 9: The Salon Debrief – 1:15 PM",
+            "file_path": "b001/c001/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 10: The Library Intercept – 6:15 PM",
+            "file_path": "b001/c001/p011.md"
+          },
+          {
+            "part_num": 12,
+            "part_title": "Part 11: The Family Briefing – 6:45 PM",
+            "file_path": "b001/c001/p012.md"
+          },
+          {
+            "part_num": 13,
+            "part_title": "Part 12: The Evening Routine – 8:00 PM",
+            "file_path": "b001/c001/p013.md"
+          },
+          {
+            "part_num": 14,
+            "part_title": "Part 13: The Summons – 8:55 PM",
+            "file_path": "b001/c001/p014.md"
+          },
+          {
+            "part_num": 15,
+            "part_title": "Part 14: The Vanguard Rests – 10:15 PM",
+            "file_path": "b001/c001/p015.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Virginia Beach Perimeter",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Morning in the Barracks – 8:30 AM",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Acoustic Clarification – 12:15 PM",
+            "file_path": "b001/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Princess Anne Perimeter – 12:45 PM",
+            "file_path": "b001/c002/p003.md"
+          }
+        ]
+      }
+    ]
+  }
+]

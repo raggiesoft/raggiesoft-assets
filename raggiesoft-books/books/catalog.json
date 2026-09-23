@@ -48,6 +48,14 @@
         "folder": "bob-emily"
     },
     {
+        "slug": "casey",
+        "title": "casey",
+        "description": "",
+        "image": "",
+        "first_route": "/raggiesoft-books/books/casey/b001/c001/p001",
+        "folder": "casey"
+    },
+    {
         "slug": "crimson-node",
         "title": "Crimson Node",
         "description": "A gripping tale from the Crimson Node project.",
@@ -110,6 +118,14 @@
         "image": "",
         "first_route": "/raggiesoft-books/books/mary-childhood/b001/c001/p001",
         "folder": "mary-childhood"
+    },
+    {
+        "slug": "meredith",
+        "title": "meredith",
+        "description": "",
+        "image": "",
+        "first_route": "/raggiesoft-books/books/meredith/b001/c001/p001",
+        "folder": "meredith"
     },
     {
         "slug": "nate",

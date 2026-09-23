@@ -1,0 +1,511 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book 1: The Sovereign Perimeter",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Mask – Wednesday, November 24, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Terminal – 3:15 PM",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Return to the Coast – 6:15 PM",
+            "file_path": "b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Perimeter Shift – 8:30 PM",
+            "file_path": "b001/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Ambush – Thursday, November 25, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Anchor – 7:00 AM",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Kitchen Ambush – 2:00 PM",
+            "file_path": "b001/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Hard Sever – 2:30 PM",
+            "file_path": "b001/c002/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Crossroads – Thursday, November 25, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Golden Architecture – 3:15 PM",
+            "file_path": "b001/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Executive Reality – 3:30 PM",
+            "file_path": "b001/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Summer Frequency – 4:00 PM",
+            "file_path": "b001/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Twenty-One Day Bridge – 4:30 PM",
+            "file_path": "b001/c003/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Severance – Saturday, November 27, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Checkpoint – 8:30 AM",
+            "file_path": "b001/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Interlude: The Firewall – Wednesday, December 1, 2004 – 2:15 PM",
+            "file_path": "b001/c004/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Executive Ascent – Friday, December 17, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Burton Station Road – 1:30 PM",
+            "file_path": "b001/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Flight Data – 2:00 PM",
+            "file_path": "b001/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Honorary Sister – 7:45 PM",
+            "file_path": "b001/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Moving Logistics – 9:15 PM",
+            "file_path": "b001/c005/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Executive Departure – Saturday, December 18, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Knock – 7:30 AM",
+            "file_path": "b001/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Flight Logistics – 8:00 AM",
+            "file_path": "b001/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sovereign Airspace – 11:30 AM (EST)",
+            "file_path": "b001/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Global Reach – 1:30 PM (EST)",
+            "file_path": "b001/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The I-5 Crawl – 3:45 PM (PST)",
+            "file_path": "b001/c006/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: The Federal Way Perimeter – Saturday, December 18, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Legal Boundary – 5:30 PM",
+            "file_path": "b001/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Comfort Food and The Ledger – 6:15 PM",
+            "file_path": "b001/c007/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Evening Routine – 8:30 PM",
+            "file_path": "b001/c007/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Blackout – 9:30 PM",
+            "file_path": "b001/c007/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: The Blackout – Sunday, December 19, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Pantry Logistics – 8:00 AM",
+            "file_path": "b001/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: Circadian Logistics – 8:30 AM",
+            "file_path": "b001/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Eastside Expansion – 12:15 PM",
+            "file_path": "b001/c008/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Tier-One Acquisition – 1:00 PM",
+            "file_path": "b001/c008/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Sunday Dispatch – 1:15 PM",
+            "file_path": "b001/c008/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Redmond Compound Acquisition – 2:00 PM",
+            "file_path": "b001/c008/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Contract Execution – 3:00 PM",
+            "file_path": "b001/c008/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Accepted Strike – 4:30 PM",
+            "file_path": "b001/c008/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The TAPS Grid – 6:45 PM",
+            "file_path": "b001/c008/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Sunday Night Reset – 8:30 PM",
+            "file_path": "b001/c008/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The A-B Block and Québécois French – 9:00 PM",
+            "file_path": "b001/c008/p011.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book 2: The Sovereign Empire",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Mandate – Tuesday, January 14, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Deviation – 6:00 PM",
+            "file_path": "b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Pack Dinner – 6:30 PM",
+            "file_path": "b002/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Vault – 9:30 PM",
+            "file_path": "b002/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Sovereign News – 10:30 PM",
+            "file_path": "b002/c001/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Ground Truth – Wednesday, January 15, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Morning Baseline – 7:00 AM",
+            "file_path": "b002/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Executive Pre-Flight – 8:30 AM",
+            "file_path": "b002/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Succession Consensus – 10:00 AM",
+            "file_path": "b002/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Global Broadcast – 11:00 AM",
+            "file_path": "b002/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Shadow Wallet – 11:12 AM",
+            "file_path": "b002/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Global Desk – 11:20 AM",
+            "file_path": "b002/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Actuarial Risk – 11:45 AM",
+            "file_path": "b002/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Route 230 Protocol – 12:15 PM",
+            "file_path": "b002/c002/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Bellevue Reunion – 1:30 PM",
+            "file_path": "b002/c002/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The Express Route – 5:15 PM",
+            "file_path": "b002/c002/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Sovereign Perimeter – 6:15 PM",
+            "file_path": "b002/c002/p011.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book 3: The Sovereign Ascension",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Bloodline Convergence – Friday, February 14, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Rotor Wash – 08:15 AM",
+            "file_path": "b003/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Front Row – 08:50 AM",
+            "file_path": "b003/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Floorboards – 09:00 AM",
+            "file_path": "b003/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The After Party – Friday, February 14, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Food Truck Festival – 12:00 PM",
+            "file_path": "b003/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Zero-Proof Pavilion – 1:15 PM",
+            "file_path": "b003/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Cross-Pollination of Packs – 2:00 PM",
+            "file_path": "b003/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Transit Pledge – 4:45 PM",
+            "file_path": "b003/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Logistics of Departure – 5:30 PM",
+            "file_path": "b003/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Executive Shutdown – 6:30 PM",
+            "file_path": "b003/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Interlude: The Lowland Entitlement – 7:00 PM",
+            "file_path": "b003/c002/p007.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 4,
+    "book_title": "Book 4: The Sovereign Autonomy",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Silicon Valley Bypass – Thursday, May 15, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Diridon Transfer – 10:00 AM",
+            "file_path": "b004/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Interlude: The Handler Panic – 10:20 AM",
+            "file_path": "b004/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 2: The Flashbulb Perimeter – 10:45 AM",
+            "file_path": "b004/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 3: The Keynote and the BayPass Question – 11:15 AM",
+            "file_path": "b004/c001/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Fenwick Bridge Protocol – Tuesday, June 10, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Gates of DCA – 8:15 AM",
+            "file_path": "b004/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The L'Enfant Maze – 8:45 AM",
+            "file_path": "b004/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Witness Table – 9:30 AM",
+            "file_path": "b004/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The LPN Protocol & The Galley Question – 9:35 AM",
+            "file_path": "b004/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Weaponized Ledger – 9:50 AM",
+            "file_path": "b004/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The MAR Protocol – 10:05 AM",
+            "file_path": "b004/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Finch Expedition – 11:15 AM",
+            "file_path": "b004/c002/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 7: The Civilian Perimeter – 12:00 PM",
+            "file_path": "b004/c002/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 8: The Telescope Protocol – 1:00 PM",
+            "file_path": "b004/c002/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Interlude: The Escalator Trap – 4:15 PM",
+            "file_path": "b004/c002/p010.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Connecticut Avenue Protocol – Wednesday, June 11, 2014",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The ELstat Briefing – 5:30 PM",
+            "file_path": "b004/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Topography Trap – 5:45 PM",
+            "file_path": "b004/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Surface Fleet – 6:00 PM",
+            "file_path": "b004/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Front Gate Arrival – 6:20 PM",
+            "file_path": "b004/c003/p004.md"
+          }
+        ]
+      }
+    ]
+  }
+]
