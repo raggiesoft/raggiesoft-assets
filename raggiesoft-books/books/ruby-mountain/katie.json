@@ -1,0 +1,722 @@
+[
+  {
+    "book_num": 1,
+    "book_title": "Book: The Great Schism",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Eve of Exile – Tuesday, May 4, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Traitor (18:00)",
+            "file_path": "b001/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Vision (18:15)",
+            "file_path": "b001/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Migration (19:00)",
+            "file_path": "b001/c001/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Gates of Exile – Wednesday, May 5, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Final Ultimatum (09:00)",
+            "file_path": "b001/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Standoff (11:00)",
+            "file_path": "b001/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Eviction (11:22 AM)",
+            "file_path": "b001/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Assessment (11:45)",
+            "file_path": "b001/c002/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Architecture of Survival – Thursday, May 6, 1999",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Diagnostics (08:00)",
+            "file_path": "b001/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Truman Execution (14:30)",
+            "file_path": "b001/c003/p002.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 2,
+    "book_title": "Book: Vanessa",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Coastal Assessment – Sunday, September 7th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Handover (12:00)",
+            "file_path": "b002/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Baseline (12:15)",
+            "file_path": "b002/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The System Error (13:10)",
+            "file_path": "b002/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Island Anomaly (17:50)",
+            "file_path": "b002/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Domestic Delusion (19:30)",
+            "file_path": "b002/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Autonomous Transfer (03:00)",
+            "file_path": "b002/c001/p006.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 3,
+    "book_title": "Book: Johnny's Rescue",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: SOS from the Salish Sea – Monday, September 8<sup>th</sup>, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Dial-Up Escape (08:45)",
+            "file_path": "b003/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Coffee Shop Contingency (09:05)",
+            "file_path": "b003/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Mountain Mobilizes (08:47)",
+            "file_path": "b003/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Wrong Schedule (09:15)",
+            "file_path": "b003/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Free Passage (10:35)",
+            "file_path": "b003/c001/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Widening Gap (10:55)",
+            "file_path": "b003/c001/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Terminal (11:54)",
+            "file_path": "b003/c001/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Mainland – Monday, September 8<sup>th</sup>, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Reunion (12:08)",
+            "file_path": "b003/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Ascent and the Truth (12:15)",
+            "file_path": "b003/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Island Trap (12:15)",
+            "file_path": "b003/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Gateway (13:15)",
+            "file_path": "b003/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: Prospector Road & The Ticking Clock (14:30)",
+            "file_path": "b003/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Rationalization (17:15)",
+            "file_path": "b003/c002/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: Johnny is Home (17:25)",
+            "file_path": "b003/c002/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: The Curriculum – Tuesday, September 9th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Proxy (10:00)",
+            "file_path": "b003/c003/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Annihilation of Vanessa Hayes (September 15, 2003)",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Pro Se (08:50)",
+            "file_path": "b003/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Paper Trail (09:05)",
+            "file_path": "b003/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Federal Trap (09:15)",
+            "file_path": "b003/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Recess (09:20)",
+            "file_path": "b003/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Gavel (09:35)",
+            "file_path": "b003/c004/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Golden Window – Wednesday, October 1st, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Baseline Telemetry (14:00)",
+            "file_path": "b003/c005/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sovereign Blueprint (14:30)",
+            "file_path": "b003/c005/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Winter Manifest (15:00)",
+            "file_path": "b003/c005/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Legal Nuke (15:30)",
+            "file_path": "b003/c005/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Anchor (16:15)",
+            "file_path": "b003/c005/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Perimeter (18:30)",
+            "file_path": "b003/c005/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Final Perimeter (19:15)",
+            "file_path": "b003/c005/p007.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 6,
+        "chap_title": "Chapter 6: The Anomaly – Tuesday, October 7th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Pineapple Express (09:15)",
+            "file_path": "b003/c006/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Checkpoint (11:15)",
+            "file_path": "b003/c006/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Air-Gap (11:30)",
+            "file_path": "b003/c006/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Escort (12:00)",
+            "file_path": "b003/c006/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Tactical Seed (12:45)",
+            "file_path": "b003/c006/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 7,
+        "chap_title": "Chapter 7: The Model Collapse – Thursday, October 9th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Backchannel (10:30)",
+            "file_path": "b003/c007/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The War Council (10:35)",
+            "file_path": "b003/c007/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 8,
+        "chap_title": "Chapter 8: The Sovereign Pivot – Saturday, October 11th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: All Hands (06:30)",
+            "file_path": "b003/c008/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Rebrand (07:00)",
+            "file_path": "b003/c008/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Line of Fire (08:30)",
+            "file_path": "b003/c008/p003.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 9,
+        "chap_title": "Chapter 9: The Redline – Sunday, October 12th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Breaking Point (05:45)",
+            "file_path": "b003/c009/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 4,
+    "book_title": "Book: The Centennial Gala",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Centennial Eve - Wednesday, October 15, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Dining Hall & The Iron Shield (15:20)",
+            "file_path": "b004/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The May Variable (15:30)",
+            "file_path": "b004/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Switchback & The Sanctuary (16:00)",
+            "file_path": "b004/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Revelation (21:45)",
+            "file_path": "b004/c001/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Midnight War Room (23:15)",
+            "file_path": "b004/c001/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 4: The Drawbridge - Thursday, October 16, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Waking Fortress (08:15)",
+            "file_path": "b004/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Underworld (08:45)",
+            "file_path": "b004/c002/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Heat of the Kitchen (09:15)",
+            "file_path": "b004/c002/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Five-Mile Moat (09:45)",
+            "file_path": "b004/c002/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The 1903 Illusion (10:15)",
+            "file_path": "b004/c002/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Golden Hour (17:00)",
+            "file_path": "b004/c002/p006.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 5: The Centennial Gala – Thursday, October 16, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Grand Seating (19:30)",
+            "file_path": "b004/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Architecture of Influence (20:15)",
+            "file_path": "b004/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The 1.3 Billion Dollar Ghost (20:45)",
+            "file_path": "b004/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Palate Cleanser (21:30)",
+            "file_path": "b004/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Sanctuary (00:30)",
+            "file_path": "b004/c003/p005.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 6: The Evacuation – Friday, October 17, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Cascades Concrete (08:45)",
+            "file_path": "b004/c004/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Brutal Awakening (09:00 - 10:00)",
+            "file_path": "b004/c004/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Heavy Escort (10:15 - 11:30)",
+            "file_path": "b004/c004/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Handoff (12:23)",
+            "file_path": "b004/c004/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Steel Drops (12:42)",
+            "file_path": "b004/c004/p005.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 5,
+    "book_title": "Book: Winter on the Mountain",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: Diana’s Lessons – Friday, October 17, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Winter Syllabus (15:00)",
+            "file_path": "b005/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Practical Lab (15:20)",
+            "file_path": "b005/c001/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Presentation (15:45)",
+            "file_path": "b005/c001/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Pack (16:00)",
+            "file_path": "b005/c001/p004.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Fortress Within – Friday, October 17, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Pajama Protocol (18:15)",
+            "file_path": "b005/c002/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 3,
+        "chap_title": "Chapter 3: Cascades Concrete – Saturday, October 18, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Whiteout (07:00)",
+            "file_path": "b005/c003/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Tether (07:30)",
+            "file_path": "b005/c003/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Anchor and the Kitchen (07:30)",
+            "file_path": "b005/c003/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Thaw (08:35)",
+            "file_path": "b005/c003/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Deep Clean (09:30)",
+            "file_path": "b005/c003/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The West Wing (11:45)",
+            "file_path": "b005/c003/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Heist (13:30)",
+            "file_path": "b005/c003/p007.md"
+          },
+          {
+            "part_num": 8,
+            "part_title": "Part 8: The Heart of the Keep (14:15)",
+            "file_path": "b005/c003/p008.md"
+          },
+          {
+            "part_num": 9,
+            "part_title": "Part 9: The Tripwire (14:35)",
+            "file_path": "b005/c003/p009.md"
+          },
+          {
+            "part_num": 10,
+            "part_title": "Part 10: The SS7 Layer (14:45)",
+            "file_path": "b005/c003/p010.md"
+          },
+          {
+            "part_num": 11,
+            "part_title": "Part 11: The Legacy Grid (14:50)",
+            "file_path": "b005/c003/p011.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 4,
+        "chap_title": "Chapter 4: The Air-Gap Transition – Monday, October 20, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Logistical Triage (08:00)",
+            "file_path": "b005/c004/p001.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 5,
+        "chap_title": "Chapter 5: The Brotherhood of the Air-Gap – Thursday, October 23, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The First Summit (09:00)",
+            "file_path": "b005/c005/p001.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 6,
+    "book_title": "Book: Vanessa's Downfall",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Sovereign Tribunal – Monday, November 24th, 2003",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Broadcast (09:00)",
+            "file_path": "b006/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Sentencing (09:15)",
+            "file_path": "b006/c001/p002.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 7,
+    "book_title": "Book: A Rogue Inspector",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 1: The Brotherhood of the Air-Gap – Tuesday, January 13, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: A Pulled Permit (10:15)",
+            "file_path": "b007/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Vanguard Assembly (10:45)",
+            "file_path": "b007/c001/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 2: The Proxy War – Wednesday, January 14, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Judicial Fury (09:00)",
+            "file_path": "b007/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Rendezvous (13:30)",
+            "file_path": "b007/c002/p002.md"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "book_num": 8,
+    "book_title": "Book: The Air-Gap Chronicles",
+    "chapters": [
+      {
+        "chap_num": 1,
+        "chap_title": "Chapter 3: Mountain Rules – Thursday, February 12, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Rookie (14:00)",
+            "file_path": "b008/c001/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Gridmaster (14:15)",
+            "file_path": "b008/c001/p002.md"
+          }
+        ]
+      },
+      {
+        "chap_num": 2,
+        "chap_title": "Chapter 4: The 911 Fallacy – Tuesday, February 24, 2004",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Civilian Instinct (14:15)",
+            "file_path": "b008/c002/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Apex Protocol (14:20)",
+            "file_path": "b008/c002/p002.md"
+          }
+        ]
+      }
+    ]
+  }
+]

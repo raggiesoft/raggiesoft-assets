@@ -1969,220 +1969,354 @@
         },
         {
             "book_num": 15,
-            "book_title": "Book 16: The End of Hell",
+            "book_title": "Book 15: The End of Hell",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Northern Anchor (Wednesday, November 15, 2006)",
+                    "chap_title": "Chapter 1: The Setup (Wednesday, November 8, 2006)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Ride Free Area \u2013 3:30 PM (PST)",
+                            "part_title": "Part 1: The Pitch",
                             "file_path": "b015/c001/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: King Street Station \u2013 4:15 PM (PST)",
-                            "file_path": "b015/c001/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Hostile Perimeter \u2013 6:30 PM (PST)",
-                            "file_path": "b015/c001/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: Pizza Diplomacy \u2013 7:15 PM (PST)",
-                            "file_path": "b015/c001/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Ascent \u2013 8:30 PM (PST)",
-                            "file_path": "b015/c001/p005.md"
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Air Mattress Barricade \u2013 9:30 PM (PST)",
-                            "file_path": "b015/c001/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: Stille Nacht \u2013 10:30 PM (PST)",
-                            "file_path": "b015/c001/p007.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Escape Route (Thursday, November 16, 2006)",
+                    "chap_title": "Chapter 2: The Departure (Saturday, November 11, 2006)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Kent Station Transfer \u2013 8:00 AM (PST)",
+                            "part_title": "Part 1: The Deception at Churchland Square",
                             "file_path": "b015/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Jessica's Train Ride \u2013 8:15 AM (PST)",
+                            "part_title": "Part 2: The Monticello Arena Transfer",
                             "file_path": "b015/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Off to Pierce County \u2013 8:15 AM (PST)",
+                            "part_title": "Part 3: The Terminal Counter",
                             "file_path": "b015/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Quantum Reunion \u2013 11:45 AM (PST)",
+                            "part_title": "Part 4: Gate 4",
                             "file_path": "b015/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Shattered Fog \u2013 11:45 PM (PST)",
+                            "part_title": "Part 5: The Last Hot Meal",
                             "file_path": "b015/c002/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Interstate 81",
+                            "file_path": "b015/c002/p006.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: Morning Hell (Friday, November 17, 2006)",
+                    "chap_title": "Chapter 3: The Appalachian Crossing (Sunday, November 12, 2006)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Forced Exit \u2013 4:00 AM (PST)",
+                            "part_title": "Part 1: The Knoxville Layover",
                             "file_path": "b015/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Renton Transfer \u2013 6:00 AM (PST)",
+                            "part_title": "Part 2: Music City",
                             "file_path": "b015/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Broil's Run \u2013 12:15 PM (PST)",
+                            "part_title": "Part 3: The CRT Bus",
                             "file_path": "b015/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Corporate Perimeter \u2013 1:30 PM (PST)",
+                            "part_title": "Part 4: Lambert Airport",
                             "file_path": "b015/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Clarity Upgrade \u2013 2:30 PM (PST)",
+                            "part_title": "Part 5: Kansas City",
                             "file_path": "b015/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Software Payload \u2013 3:00 PM (PST)",
+                            "part_title": "Part 6: The Heart of the Night",
                             "file_path": "b015/c003/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Southern Cavalry \u2013 2:00 PM (PST)",
-                            "file_path": "b015/c003/p007.md"
-                        },
-                        {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Physical Evidence \u2013 5:30 PM (PST)",
-                            "file_path": "b015/c003/p008.md"
-                        },
-                        {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Pack Secures the Perimeter \u2013 6:30 PM (PST)",
-                            "file_path": "b015/c003/p009.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: Decompression Day (Saturday, November 18, 2006)",
+                    "chap_title": "Chapter 4: The Northern Anchor (Monday, November 13, 2006)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Liquid Rebellion \u2013 9:00 AM (PST)",
+                            "part_title": "Part 1: The State Line",
                             "file_path": "b015/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Route 106 Escort \u2013 11:30 AM (PST)",
+                            "part_title": "Part 2: The Colby Turn",
                             "file_path": "b015/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Victory Meal \u2013 12:00 PM (PST)",
+                            "part_title": "Part 3: Mile High",
                             "file_path": "b015/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Forging the Armor \u2013 1:00 PM (PST)",
+                            "part_title": "Part 4: The Denver Layover",
                             "file_path": "b015/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Mountain Prospect \u2013 2:30 PM (PST)",
+                            "part_title": "Part 5: The Wyoming Detour",
                             "file_path": "b015/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The First Citizen \u2013 4:30 PM (PST)",
+                            "part_title": "Part 6: The Salt Lake Layover",
                             "file_path": "b015/c004/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Lost Sentinel \u2013 6:00 PM (PST)",
-                            "file_path": "b015/c004/p007.md"
-                        },
-                        {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Perimeter Holds \u2013 8:30 PM (PST)",
-                            "file_path": "b015/c004/p008.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Southern Route (Sunday, November 19, 2006)",
+                    "chap_title": "Chapter 5: The Pasco Lock (Tuesday, November 14, 2006)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Tukwila Extraction \u2013 5:30 AM (PST)",
+                            "part_title": "Part 1: The Idaho Crossing",
                             "file_path": "b015/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Moving Fortress \u2013 6:15 AM (PST)",
+                            "part_title": "Part 2: The Pasco Lock",
                             "file_path": "b015/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Crossing the Rubicon \u2013 12:30 PM (PST)",
+                            "part_title": "Part 3: 911 Stewart Street",
                             "file_path": "b015/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Forward Operating Base \u2013 1:15 PM (PST)",
+                            "part_title": "Part 4: The Ride Free Area",
                             "file_path": "b015/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Hydrotherapy Protocol \u2013 2:30 PM (PST)",
+                            "part_title": "Part 5: King Street Station",
                             "file_path": "b015/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The House Guard Protocol \u2013 5:00 PM (PST)",
+                            "part_title": "Part 6: The Hostile Perimeter",
                             "file_path": "b015/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: The Digital Sandbox \u2013 6:30 PM (PST)",
+                            "part_title": "Part 7: Pizza Diplomacy",
                             "file_path": "b015/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: The Final Baseline \u2013 10:00 PM (PST)",
+                            "part_title": "Part 8: The Ascent",
                             "file_path": "b015/c005/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: The Air Mattress Barricade",
+                            "file_path": "b015/c005/p009.md"
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: Stille Nacht",
+                            "file_path": "b015/c005/p010.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Chapter 6: The Escape Route (Wednesday, November 15, 2006)",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Kent Station Transfer",
+                            "file_path": "b015/c006/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Jessica's Train Ride",
+                            "file_path": "b015/c006/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Off to Pierce County",
+                            "file_path": "b015/c006/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Quantum Reunion",
+                            "file_path": "b015/c006/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Shattered Fog",
+                            "file_path": "b015/c006/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7: Morning Hell (Thursday, November 16, 2006)",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Forced Exit",
+                            "file_path": "b015/c007/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Renton Transfer",
+                            "file_path": "b015/c007/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Broil's Run",
+                            "file_path": "b015/c007/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Corporate Perimeter",
+                            "file_path": "b015/c007/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Clarity Upgrade",
+                            "file_path": "b015/c007/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Software Payload",
+                            "file_path": "b015/c007/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Southern Cavalry",
+                            "file_path": "b015/c007/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Physical Evidence",
+                            "file_path": "b015/c007/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: The Pack Secures the Perimeter",
+                            "file_path": "b015/c007/p009.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Chapter 8: Decompression Day (Friday, November 17, 2006)",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Liquid Rebellion",
+                            "file_path": "b015/c008/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Route 106 Escort",
+                            "file_path": "b015/c008/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Victory Meal",
+                            "file_path": "b015/c008/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Forging the Armor",
+                            "file_path": "b015/c008/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Mountain Prospect",
+                            "file_path": "b015/c008/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The First Citizen",
+                            "file_path": "b015/c008/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Lost Sentinel",
+                            "file_path": "b015/c008/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Perimeter Holds",
+                            "file_path": "b015/c008/p008.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Chapter 9: The Southern Route (Saturday, November 18, 2006)",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Tukwila Extraction",
+                            "file_path": "b015/c009/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Moving Fortress",
+                            "file_path": "b015/c009/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Crossing the Rubicon",
+                            "file_path": "b015/c009/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Forward Operating Base",
+                            "file_path": "b015/c009/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Hydrotherapy Protocol",
+                            "file_path": "b015/c009/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The House Guard Protocol",
+                            "file_path": "b015/c009/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Digital Sandbox",
+                            "file_path": "b015/c009/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Final Baseline",
+                            "file_path": "b015/c009/p008.md"
                         }
                     ]
                 }
