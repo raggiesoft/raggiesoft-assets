@@ -13,12 +13,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Architect's Lesson",
+                            "part_title": "Part 1: Chapter 1: The Architect\\'s Lesson",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Age of Twilight",
+                            "part_title": "Part 2: Chapter 2: The Age of Twilight",
                             "file_path": "b001/c001/p002.md"
                         }
                     ]
@@ -35,12 +35,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Scholar of the Twin Suns",
+                            "part_title": "Part 1: Chapter 1: The Sundering of Sunstead",
                             "file_path": "b002/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Heresy of Order",
+                            "part_title": "Part 2: Chapter 2: The Silence of the Hearth",
                             "file_path": "b002/c001/p002.md"
                         },
                         {
@@ -101,22 +101,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Hunter and the Hunted",
+                            "part_title": "Part 1: Chapter 1: The Hunted and the Caged",
                             "file_path": "b002/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: A Cage of Silver Light",
+                            "part_title": "Part 2: Chapter 2: The Tyrant\\'s Throne",
                             "file_path": "b002/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: The Trial of the Crystal Spiders",
+                            "part_title": "Part 3: Chapter 3: The Last Temptation",
                             "file_path": "b002/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: Seeds of Rebellion",
+                            "part_title": "Part 4: Chapter 4: The Bridge of a Thousand Truths",
                             "file_path": "b002/c002/p004.md"
                         },
                         {
@@ -167,27 +167,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: Embers of Hope",
+                            "part_title": "Part 1: Chapter 1: The Siege of the Shadowspire",
                             "file_path": "b002/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Hall of Shattered Heroes",
+                            "part_title": "Part 2: Chapter 2: The Heart of the Gloom",
                             "file_path": "b002/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: A Fortress Divided",
+                            "part_title": "Part 3: Chapter 3: The Long Road Home",
                             "file_path": "b002/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: The Ascent",
+                            "part_title": "Part 4: Chapter 4: The Scouring of Sunstead",
                             "file_path": "b002/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Chapter 5: Reunion",
+                            "part_title": "Part 5: Chapter 5: The Aftermath",
                             "file_path": "b002/c003/p005.md"
                         },
                         {
@@ -249,22 +249,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Tide and the Torch",
+                            "part_title": "Part 1: Chapter 1: The Tide and the Torch",
                             "file_path": "b003/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Heart of the World",
+                            "part_title": "Part 2: Chapter 2: The Heart of the World",
                             "file_path": "b003/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: The Weave of the Water",
+                            "part_title": "Part 3: Chapter 3: The Weave of the Water",
                             "file_path": "b003/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: The Gyre",
+                            "part_title": "Part 4: Chapter 4: The Gyre",
                             "file_path": "b003/c001/p004.md"
                         }
                     ]
@@ -275,27 +275,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Silent Sector",
+                            "part_title": "Part 1: Chapter 1: The Silent Sector",
                             "file_path": "b003/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Ribcage of the Gods",
+                            "part_title": "Part 2: Chapter 2: The Ribcage of the Gods",
                             "file_path": "b003/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: The War for the Mind",
+                            "part_title": "Part 3: Chapter 3: The War for the Mind",
                             "file_path": "b003/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: The Long Way Down",
+                            "part_title": "Part 4: Chapter 4: The Long Way Down",
                             "file_path": "b003/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Chapter 5: The Cottage",
+                            "part_title": "Part 5: Chapter 5: The Cottage",
                             "file_path": "b003/c002/p005.md"
                         }
                     ]
@@ -312,27 +312,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Art of Doing Nothing",
+                            "part_title": "Part 1: Chapter 1: The Art of Doing Nothing",
                             "file_path": "b004/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Alarm Clock",
+                            "part_title": "Part 2: Chapter 2: The Alarm Clock",
                             "file_path": "b004/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: The Magnetic Highway",
+                            "part_title": "Part 3: Chapter 3: The Magnetic Highway",
                             "file_path": "b004/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: The Clockwork Ocean",
+                            "part_title": "Part 4: Chapter 4: The Clockwork Ocean",
                             "file_path": "b004/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Chapter 4: The Return Journey",
+                            "part_title": "Part 5: Chapter 4: The Return Journey",
                             "file_path": "b004/c001/p005.md"
                         }
                     ]
@@ -343,32 +343,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Chapter 1: The Privacy of Stone",
+                            "part_title": "Part 1: Chapter 1: The Privacy of Stone",
                             "file_path": "b004/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 2: The Smoke and the Fire",
+                            "part_title": "Part 2: Chapter 2: The Smoke and the Fire",
                             "file_path": "b004/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 3: The Council of Neighbors",
+                            "part_title": "Part 3: Chapter 3: The Council of Neighbors",
                             "file_path": "b004/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Chapter 4: The King at the Gate",
+                            "part_title": "Part 4: Chapter 4: The King at the Gate",
                             "file_path": "b004/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Chapter 5: The Demon and the Witch",
+                            "part_title": "Part 5: Chapter 5: The Demon and the Witch",
                             "file_path": "b004/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Chapter 6: The Starlight Check-In",
+                            "part_title": "Part 6: Chapter 6: The Starlight Check-In",
                             "file_path": "b004/c002/p006.md"
                         }
                     ]
@@ -379,17 +379,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Prologue: The Silence Between Stars",
+                            "part_title": "Part 1: Prologue: The Silence Between Stars",
                             "file_path": "b004/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Chapter 1: The Shadow at Noon",
+                            "part_title": "Part 2: Chapter 1: The Shadow at Noon",
                             "file_path": "b004/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Chapter 2: The Needle and the Shroud",
+                            "part_title": "Part 3: Chapter 2: The Needle and the Shroud",
                             "file_path": "b004/c003/p003.md"
                         }
                     ]

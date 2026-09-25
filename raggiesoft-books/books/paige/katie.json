@@ -13,52 +13,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Downbeat",
+                            "part_title": "Part 1: The Downbeat",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Breakfast",
+                            "part_title": "Part 2: Breakfast",
                             "file_path": "b001/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Section Leader",
+                            "part_title": "Part 3: The Section Leader",
                             "file_path": "b001/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Texture",
+                            "part_title": "Part 4: Texture",
                             "file_path": "b001/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The File",
+                            "part_title": "Part 5: The File",
                             "file_path": "b001/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Rocket Burger",
+                            "part_title": "Part 6: Rocket Burger",
                             "file_path": "b001/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Connection",
+                            "part_title": "Part 7: The Connection",
                             "file_path": "b001/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Overwatch",
+                            "part_title": "Part 8: The Overwatch",
                             "file_path": "b001/c001/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The All Clear",
+                            "part_title": "Part 9: The All Clear",
                             "file_path": "b001/c001/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Table",
+                            "part_title": "Part 10: The Table",
                             "file_path": "b001/c001/p010.md"
                         }
                     ]
@@ -69,12 +69,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Third Quarter",
+                            "part_title": "Part 1: Third Quarter",
                             "file_path": "b001/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Signal",
+                            "part_title": "Part 2: The Signal",
                             "file_path": "b001/c002/p002.md"
                         }
                     ]
@@ -85,22 +85,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Visitor",
+                            "part_title": "Part 1: The Visitor",
                             "file_path": "b001/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Confrontation",
+                            "part_title": "Part 2: The Confrontation",
                             "file_path": "b001/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Clinic",
+                            "part_title": "Part 3: The Clinic",
                             "file_path": "b001/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Law of the Lunchroom",
+                            "part_title": "Part 4: The Law of the Lunchroom",
                             "file_path": "b001/c003/p004.md"
                         }
                     ]
@@ -111,17 +111,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The First Satellite",
+                            "part_title": "Part 1: The First Satellite",
                             "file_path": "b001/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Inside Man",
+                            "part_title": "Part 2: The Inside Man",
                             "file_path": "b001/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Dinner Table",
+                            "part_title": "Part 3: The Dinner Table",
                             "file_path": "b001/c004/p003.md"
                         }
                     ]
@@ -138,37 +138,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Static",
+                            "part_title": "Part 1: Static",
                             "file_path": "b002/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Escape Vehicle",
+                            "part_title": "Part 2: The Escape Vehicle",
                             "file_path": "b002/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Route",
+                            "part_title": "Part 3: The Route",
                             "file_path": "b002/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Sugar Rush",
+                            "part_title": "Part 4: The Sugar Rush",
                             "file_path": "b002/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Calculation",
+                            "part_title": "Part 5: The Calculation",
                             "file_path": "b002/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Collapse",
+                            "part_title": "Part 6: The Collapse",
                             "file_path": "b002/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Closet",
+                            "part_title": "Part 7: The Closet",
                             "file_path": "b002/c001/p007.md"
                         }
                     ]
@@ -179,7 +179,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Sofa",
+                            "part_title": "Part 1: The Sofa",
                             "file_path": "b002/c002/p001.md"
                         }
                     ]
@@ -190,27 +190,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Transfer Point",
+                            "part_title": "Part 1: The Transfer Point",
                             "file_path": "b002/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Red Booth",
+                            "part_title": "Part 2: The Red Booth",
                             "file_path": "b002/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Detour",
+                            "part_title": "Part 3: The Detour",
                             "file_path": "b002/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Pepper Plaza",
+                            "part_title": "Part 4: Pepper Plaza",
                             "file_path": "b002/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Configuration",
+                            "part_title": "Part 5: The Configuration",
                             "file_path": "b002/c003/p005.md"
                         }
                     ]
@@ -221,77 +221,77 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Route 1",
+                            "part_title": "Part 1: Route 1",
                             "file_path": "b002/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Acoustic Engine",
+                            "part_title": "Part 2: The Acoustic Engine",
                             "file_path": "b002/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Pitch",
+                            "part_title": "Part 3: The Pitch",
                             "file_path": "b002/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Terminal",
+                            "part_title": "Part 4: The Terminal",
                             "file_path": "b002/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Foundry",
+                            "part_title": "Part 5: The Foundry",
                             "file_path": "b002/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Old Lady on the Hill",
+                            "part_title": "Part 6: The Old Lady on the Hill",
                             "file_path": "b002/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Reset",
+                            "part_title": "Part 7: The Reset",
                             "file_path": "b002/c004/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Iron Sea",
+                            "part_title": "Part 8: The Iron Sea",
                             "file_path": "b002/c004/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Forger's Call",
+                            "part_title": "Part 9: The Forger's Call",
                             "file_path": "b002/c004/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The False Start",
+                            "part_title": "Part 10: The False Start",
                             "file_path": "b002/c004/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "System Overload",
+                            "part_title": "Part 11: System Overload",
                             "file_path": "b002/c004/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Human Grid",
+                            "part_title": "Part 12: The Human Grid",
                             "file_path": "b002/c004/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "Zero Tolerance",
+                            "part_title": "Part 13: Zero Tolerance",
                             "file_path": "b002/c004/p013.md"
                         },
                         {
                             "part_num": 14,
-                            "part_title": "The Shutout",
+                            "part_title": "Part 14: The Shutout",
                             "file_path": "b002/c004/p014.md"
                         },
                         {
                             "part_num": 15,
-                            "part_title": "The Shuttle",
+                            "part_title": "Part 15: The Shuttle",
                             "file_path": "b002/c004/p015.md"
                         }
                     ]
@@ -302,17 +302,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Diagnosis",
+                            "part_title": "Part 1: The Diagnosis",
                             "file_path": "b002/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Firewall",
+                            "part_title": "Part 2: The Firewall",
                             "file_path": "b002/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Protocol Upgrade",
+                            "part_title": "Part 3: The Protocol Upgrade",
                             "file_path": "b002/c005/p003.md"
                         }
                     ]
@@ -329,17 +329,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Loop",
+                            "part_title": "Part 1: The Loop",
                             "file_path": "b003/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Frequency",
+                            "part_title": "Part 2: The Frequency",
                             "file_path": "b003/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Base",
+                            "part_title": "Part 3: The Base",
                             "file_path": "b003/c001/p003.md"
                         }
                     ]
@@ -350,37 +350,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Manual",
+                            "part_title": "Part 1: The Manual",
                             "file_path": "b003/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Calibration",
+                            "part_title": "Part 2: The Calibration",
                             "file_path": "b003/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Curriculum",
+                            "part_title": "Part 3: The Curriculum",
                             "file_path": "b003/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Open Door",
+                            "part_title": "Part 4: The Open Door",
                             "file_path": "b003/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Morning After",
+                            "part_title": "Part 5: The Morning After",
                             "file_path": "b003/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Cartridge Exchange",
+                            "part_title": "Part 6: The Cartridge Exchange",
                             "file_path": "b003/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Channel 3",
+                            "part_title": "Part 7: Channel 3",
                             "file_path": "b003/c002/p007.md"
                         }
                     ]
@@ -391,37 +391,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Loophole",
+                            "part_title": "Part 1: The Loophole",
                             "file_path": "b003/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Run",
+                            "part_title": "Part 2: The Run",
                             "file_path": "b003/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Medical Logistics",
+                            "part_title": "Part 3: The Medical Logistics",
                             "file_path": "b003/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Schematic",
+                            "part_title": "Part 4: The Schematic",
                             "file_path": "b003/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Data Verified",
+                            "part_title": "Part 5: Data Verified",
                             "file_path": "b003/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Clear Curtain",
+                            "part_title": "Part 6: The Clear Curtain",
                             "file_path": "b003/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Silo (Standard Ops)",
+                            "part_title": "Part 7: The Silo (Standard Ops)",
                             "file_path": "b003/c003/p007.md"
                         }
                     ]
@@ -432,17 +432,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Primary Node",
+                            "part_title": "Part 1: The Primary Node",
                             "file_path": "b003/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Red Flag",
+                            "part_title": "Part 2: The Red Flag",
                             "file_path": "b003/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Maintenance Run",
+                            "part_title": "Part 3: The Maintenance Run",
                             "file_path": "b003/c004/p003.md"
                         }
                     ]
@@ -453,52 +453,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Ground Rules",
+                            "part_title": "Part 1: Ground Rules",
                             "file_path": "b003/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Zero Tolerance",
+                            "part_title": "Part 2: Zero Tolerance",
                             "file_path": "b003/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Safe Harbor",
+                            "part_title": "Part 3: Safe Harbor",
                             "file_path": "b003/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Predator",
+                            "part_title": "Part 4: The Predator",
                             "file_path": "b003/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Geometry and Physics",
+                            "part_title": "Part 5: Geometry and Physics",
                             "file_path": "b003/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Safe Zone",
+                            "part_title": "Part 6: The Safe Zone",
                             "file_path": "b003/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Incorrect Variable",
+                            "part_title": "Part 7: The Incorrect Variable",
                             "file_path": "b003/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Distortion",
+                            "part_title": "Part 8: The Distortion",
                             "file_path": "b003/c005/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Contaminant",
+                            "part_title": "Part 9: The Contaminant",
                             "file_path": "b003/c005/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Humidity Index",
+                            "part_title": "Part 10: The Humidity Index",
                             "file_path": "b003/c005/p010.md"
                         }
                     ]
@@ -509,27 +509,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Cool Down",
+                            "part_title": "Part 1: The Cool Down",
                             "file_path": "b003/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Signal",
+                            "part_title": "Part 2: The Signal",
                             "file_path": "b003/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Final Frontier",
+                            "part_title": "Part 3: The Final Frontier",
                             "file_path": "b003/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The System Architecture",
+                            "part_title": "Part 4: The System Architecture",
                             "file_path": "b003/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Sandwich Configuration",
+                            "part_title": "Part 5: The Sandwich Configuration",
                             "file_path": "b003/c006/p005.md"
                         }
                     ]
@@ -540,42 +540,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Debugger",
+                            "part_title": "Part 1: The Debugger",
                             "file_path": "b003/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Operating Systems",
+                            "part_title": "Part 2: Operating Systems",
                             "file_path": "b003/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The King Bed Defense",
+                            "part_title": "Part 3: The King Bed Defense",
                             "file_path": "b003/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Source Code",
+                            "part_title": "Part 4: The Source Code",
                             "file_path": "b003/c007/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Uplink",
+                            "part_title": "Part 5: The Uplink",
                             "file_path": "b003/c007/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Thunderhead",
+                            "part_title": "Part 6: The Thunderhead",
                             "file_path": "b003/c007/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Warning",
+                            "part_title": "Part 7: The Warning",
                             "file_path": "b003/c007/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The All Clear",
+                            "part_title": "Part 8: The All Clear",
                             "file_path": "b003/c007/p008.md"
                         }
                     ]
@@ -586,37 +586,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Decompression Protocol",
+                            "part_title": "Part 1: The Decompression Protocol",
                             "file_path": "b003/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Emergency Brake",
+                            "part_title": "Part 2: The Emergency Brake",
                             "file_path": "b003/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Dark Closet",
+                            "part_title": "Part 3: The Dark Closet",
                             "file_path": "b003/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Awakening",
+                            "part_title": "Part 4: The Awakening",
                             "file_path": "b003/c008/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Recovery Cycle",
+                            "part_title": "Part 5: The Recovery Cycle",
                             "file_path": "b003/c008/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The System Halt",
+                            "part_title": "Part 6: The System Halt",
                             "file_path": "b003/c008/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Manual Override",
+                            "part_title": "Part 7: Manual Override",
                             "file_path": "b003/c008/p007.md"
                         }
                     ]
@@ -627,57 +627,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Purge",
+                            "part_title": "Part 1: The Purge",
                             "file_path": "b003/c009/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Buffer",
+                            "part_title": "Part 2: The Buffer",
                             "file_path": "b003/c009/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Quiet Room",
+                            "part_title": "Part 3: The Quiet Room",
                             "file_path": "b003/c009/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Transit & The Trail",
+                            "part_title": "Part 4: The Transit & The Trail",
                             "file_path": "b003/c009/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Recharge",
+                            "part_title": "Part 5: The Recharge",
                             "file_path": "b003/c009/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Drive-Thru",
+                            "part_title": "Part 6: The Drive-Thru",
                             "file_path": "b003/c009/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Dinner",
+                            "part_title": "Part 7: Dinner",
                             "file_path": "b003/c009/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Cost-Benefit Analysis",
+                            "part_title": "Part 8: The Cost-Benefit Analysis",
                             "file_path": "b003/c009/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Analog Archive",
+                            "part_title": "Part 9: The Analog Archive",
                             "file_path": "b003/c009/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Captaincy Protocol",
+                            "part_title": "Part 10: The Captaincy Protocol",
                             "file_path": "b003/c009/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Shutdown Sequence",
+                            "part_title": "Part 11: The Shutdown Sequence",
                             "file_path": "b003/c009/p011.md"
                         }
                     ]
@@ -694,12 +694,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Remainder",
+                            "part_title": "Part 1: The Remainder",
                             "file_path": "b004/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Static Stack",
+                            "part_title": "Part 2: The Static Stack",
                             "file_path": "b004/c001/p002.md"
                         }
                     ]
@@ -710,22 +710,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Observation",
+                            "part_title": "Part 1: The Observation",
                             "file_path": "b004/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Recoil",
+                            "part_title": "Part 2: The Recoil",
                             "file_path": "b004/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Split Screen",
+                            "part_title": "Part 3: The Split Screen",
                             "file_path": "b004/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Syntax Error",
+                            "part_title": "Part 4: The Syntax Error",
                             "file_path": "b004/c002/p004.md"
                         }
                     ]
@@ -736,47 +736,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Logic Bomb",
+                            "part_title": "Part 1: The Logic Bomb",
                             "file_path": "b004/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Presentation",
+                            "part_title": "Part 2: The Presentation",
                             "file_path": "b004/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Disconnect",
+                            "part_title": "Part 3: The Disconnect",
                             "file_path": "b004/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Horizon Line",
+                            "part_title": "Part 4: The Horizon Line",
                             "file_path": "b004/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Point of No Return",
+                            "part_title": "Part 5: The Point of No Return",
                             "file_path": "b004/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Detour",
+                            "part_title": "Part 6: The Detour",
                             "file_path": "b004/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Burning Mile",
+                            "part_title": "Part 7: The Burning Mile",
                             "file_path": "b004/c003/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Pasco Lock",
+                            "part_title": "Part 8: The Pasco Lock",
                             "file_path": "b004/c003/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Silence",
+                            "part_title": "Part 9: The Silence",
                             "file_path": "b004/c003/p009.md"
                         }
                     ]
@@ -787,32 +787,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Advance Team",
+                            "part_title": "Part 1: The Advance Team",
                             "file_path": "b004/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Intercept",
+                            "part_title": "Part 2: The Intercept",
                             "file_path": "b004/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Time Lock",
+                            "part_title": "Part 3: The Time Lock",
                             "file_path": "b004/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Decontamination Protocol",
+                            "part_title": "Part 4: The Decontamination Protocol",
                             "file_path": "b004/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Frequency Tuned",
+                            "part_title": "Part 5: Frequency Tuned",
                             "file_path": "b004/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Signal Cut",
+                            "part_title": "Part 6: The Signal Cut",
                             "file_path": "b004/c004/p006.md"
                         }
                     ]
@@ -823,57 +823,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Fueling the Expedition",
+                            "part_title": "Part 1: Fueling the Expedition",
                             "file_path": "b004/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Mode Switch",
+                            "part_title": "Part 2: The Mode Switch",
                             "file_path": "b004/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Observation Deck",
+                            "part_title": "Part 3: The Observation Deck",
                             "file_path": "b004/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Deep Blue",
+                            "part_title": "Part 4: The Deep Blue",
                             "file_path": "b004/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Wheelchair Epiphany",
+                            "part_title": "Part 5: The Wheelchair Epiphany",
                             "file_path": "b004/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Scar",
+                            "part_title": "Part 6: The Scar",
                             "file_path": "b004/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "High Voltage",
+                            "part_title": "Part 7: High Voltage",
                             "file_path": "b004/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Silent Signal",
+                            "part_title": "Part 8: The Silent Signal",
                             "file_path": "b004/c005/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Restoration",
+                            "part_title": "Part 9: The Restoration",
                             "file_path": "b004/c005/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Flight Plan",
+                            "part_title": "Part 10: The Flight Plan",
                             "file_path": "b004/c005/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Northern Trajectory",
+                            "part_title": "Part 11: The Northern Trajectory",
                             "file_path": "b004/c005/p011.md"
                         }
                     ]
@@ -884,72 +884,72 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Bypass",
+                            "part_title": "Part 1: The Bypass",
                             "file_path": "b004/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Iron Creek Lodge",
+                            "part_title": "Part 2: The Iron Creek Lodge",
                             "file_path": "b004/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Bear's Den",
+                            "part_title": "Part 3: The Bear's Den",
                             "file_path": "b004/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Supply Run",
+                            "part_title": "Part 4: The Supply Run",
                             "file_path": "b004/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Hypothesis & The Lock",
+                            "part_title": "Part 5: The Hypothesis & The Lock",
                             "file_path": "b004/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Iron Giants & The Safe Mode",
+                            "part_title": "Part 6: The Iron Giants & The Safe Mode",
                             "file_path": "b004/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Factory Settings",
+                            "part_title": "Part 7: Factory Settings",
                             "file_path": "b004/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Iron Spirits",
+                            "part_title": "Part 8: The Iron Spirits",
                             "file_path": "b004/c006/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Silent Engines",
+                            "part_title": "Part 9: The Silent Engines",
                             "file_path": "b004/c006/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Refueling",
+                            "part_title": "Part 10: The Refueling",
                             "file_path": "b004/c006/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Glacial Flour",
+                            "part_title": "Part 11: Glacial Flour",
                             "file_path": "b004/c006/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Return Vector",
+                            "part_title": "Part 12: The Return Vector",
                             "file_path": "b004/c006/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "The Holding Pattern",
+                            "part_title": "Part 13: The Holding Pattern",
                             "file_path": "b004/c006/p013.md"
                         },
                         {
                             "part_num": 14,
-                            "part_title": "The Null Hypothesis",
+                            "part_title": "Part 14: The Null Hypothesis",
                             "file_path": "b004/c006/p014.md"
                         }
                     ]
@@ -960,82 +960,82 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Final Bill",
+                            "part_title": "Part 1: The Final Bill",
                             "file_path": "b004/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Departure Protocol",
+                            "part_title": "Part 2: The Departure Protocol",
                             "file_path": "b004/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Gateway Protocol",
+                            "part_title": "Part 3: The Gateway Protocol",
                             "file_path": "b004/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Checkpoint Protocol",
+                            "part_title": "Part 4: The Checkpoint Protocol",
                             "file_path": "b004/c007/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Soundtrack Protocol",
+                            "part_title": "Part 5: The Soundtrack Protocol",
                             "file_path": "b004/c007/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Hub Dilemma",
+                            "part_title": "Part 6: The Hub Dilemma",
                             "file_path": "b004/c007/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Safety Protocol",
+                            "part_title": "Part 7: The Safety Protocol",
                             "file_path": "b004/c007/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Ascent Protocol",
+                            "part_title": "Part 8: The Ascent Protocol",
                             "file_path": "b004/c007/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Mid-Air Transfer",
+                            "part_title": "Part 9: The Mid-Air Transfer",
                             "file_path": "b004/c007/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Descent Protocol",
+                            "part_title": "Part 10: The Descent Protocol",
                             "file_path": "b004/c007/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Neon Horizon",
+                            "part_title": "Part 11: The Neon Horizon",
                             "file_path": "b004/c007/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Refueling Protocol",
+                            "part_title": "Part 12: The Refueling Protocol",
                             "file_path": "b004/c007/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "The Propeller Protocol",
+                            "part_title": "Part 13: The Propeller Protocol",
                             "file_path": "b004/c007/p013.md"
                         },
                         {
                             "part_num": 14,
-                            "part_title": "The Valley Protocol",
+                            "part_title": "Part 14: The Valley Protocol",
                             "file_path": "b004/c007/p014.md"
                         },
                         {
                             "part_num": 15,
-                            "part_title": "The Final Mile",
+                            "part_title": "Part 15: The Final Mile",
                             "file_path": "b004/c007/p015.md"
                         },
                         {
                             "part_num": 16,
-                            "part_title": "The Shutdown Protocol",
+                            "part_title": "Part 16: The Shutdown Protocol",
                             "file_path": "b004/c007/p016.md"
                         }
                     ]
@@ -1046,22 +1046,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Invalid Variable",
+                            "part_title": "Part 1: The Invalid Variable",
                             "file_path": "b004/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Legal Shield",
+                            "part_title": "Part 2: The Legal Shield",
                             "file_path": "b004/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Null Hypothesis",
+                            "part_title": "Part 3: The Null Hypothesis",
                             "file_path": "b004/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Restoration",
+                            "part_title": "Part 4: The Restoration",
                             "file_path": "b004/c008/p004.md"
                         }
                     ]
@@ -1072,17 +1072,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Transaction",
+                            "part_title": "Part 1: The Transaction",
                             "file_path": "b004/c009/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Hardware Upgrade",
+                            "part_title": "Part 2: The Hardware Upgrade",
                             "file_path": "b004/c009/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Deed of Trust",
+                            "part_title": "Part 3: The Deed of Trust",
                             "file_path": "b004/c009/p003.md"
                         }
                     ]
@@ -1093,77 +1093,77 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Invasion Force",
+                            "part_title": "Part 1: The Invasion Force",
                             "file_path": "b004/c010/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Dungeon",
+                            "part_title": "Part 2: The Dungeon",
                             "file_path": "b004/c010/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Privacy Protocol",
+                            "part_title": "Part 3: The Privacy Protocol",
                             "file_path": "b004/c010/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Settlement",
+                            "part_title": "Part 4: Settlement",
                             "file_path": "b004/c010/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Throne of Shame",
+                            "part_title": "Part 5: The Throne of Shame",
                             "file_path": "b004/c010/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Morning Audit",
+                            "part_title": "Part 6: The Morning Audit",
                             "file_path": "b004/c010/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Fueling the Army",
+                            "part_title": "Part 7: Fueling the Army",
                             "file_path": "b004/c010/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Division of Labor",
+                            "part_title": "Part 8: Division of Labor",
                             "file_path": "b004/c010/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Laundry Brigade",
+                            "part_title": "Part 9: The Laundry Brigade",
                             "file_path": "b004/c010/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Anchor Point",
+                            "part_title": "Part 10: The Anchor Point",
                             "file_path": "b004/c010/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Zero-Privacy Protocol",
+                            "part_title": "Part 11: The Zero-Privacy Protocol",
                             "file_path": "b004/c010/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "Structural Integrity Test",
+                            "part_title": "Part 12: Structural Integrity Test",
                             "file_path": "b004/c010/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "The Rotation of the Guard",
+                            "part_title": "Part 13: The Rotation of the Guard",
                             "file_path": "b004/c010/p013.md"
                         },
                         {
                             "part_num": 14,
-                            "part_title": "The Black Box Review",
+                            "part_title": "Part 14: The Black Box Review",
                             "file_path": "b004/c010/p014.md"
                         },
                         {
                             "part_num": 15,
-                            "part_title": "Clearance Denied",
+                            "part_title": "Part 15: Clearance Denied",
                             "file_path": "b004/c010/p015.md"
                         }
                     ]
@@ -1174,52 +1174,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Trajectory Calculations",
+                            "part_title": "Part 1: Trajectory Calculations",
                             "file_path": "b004/c011/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Ramp",
+                            "part_title": "Part 2: The Ramp",
                             "file_path": "b004/c011/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Arcade Intervention",
+                            "part_title": "Part 3: The Arcade Intervention",
                             "file_path": "b004/c011/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Carbohydrate Loading",
+                            "part_title": "Part 4: The Carbohydrate Loading",
                             "file_path": "b004/c011/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Pyrotechnic Redundancy",
+                            "part_title": "Part 5: Pyrotechnic Redundancy",
                             "file_path": "b004/c011/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Voltage Spike",
+                            "part_title": "Part 6: The Voltage Spike",
                             "file_path": "b004/c011/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Shutdown Sequence",
+                            "part_title": "Part 7: The Shutdown Sequence",
                             "file_path": "b004/c011/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Photographic Evidence",
+                            "part_title": "Part 8: The Photographic Evidence",
                             "file_path": "b004/c011/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Platoon Deployment",
+                            "part_title": "Part 9: The Platoon Deployment",
                             "file_path": "b004/c011/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Decompression Chamber",
+                            "part_title": "Part 10: The Decompression Chamber",
                             "file_path": "b004/c011/p010.md"
                         }
                     ]
@@ -1236,27 +1236,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Pathfinder",
+                            "part_title": "Part 1: The Pathfinder",
                             "file_path": "b005/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Bunker",
+                            "part_title": "Part 2: The Bunker",
                             "file_path": "b005/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Heap Protocol",
+                            "part_title": "Part 3: The Heap Protocol",
                             "file_path": "b005/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Pressure Check",
+                            "part_title": "Part 4: The Pressure Check",
                             "file_path": "b005/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Migration",
+                            "part_title": "Part 5: The Migration",
                             "file_path": "b005/c001/p005.md"
                         }
                     ]
@@ -1267,37 +1267,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Descent",
+                            "part_title": "Part 1: The Descent",
                             "file_path": "b005/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Search Query",
+                            "part_title": "Part 2: The Search Query",
                             "file_path": "b005/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Mega-Bed",
+                            "part_title": "Part 3: The Mega-Bed",
                             "file_path": "b005/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Pittsburgh Toilet",
+                            "part_title": "Part 4: The Pittsburgh Toilet",
                             "file_path": "b005/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Permit Phase",
+                            "part_title": "Part 5: The Permit Phase",
                             "file_path": "b005/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Wet Room",
+                            "part_title": "Part 6: The Wet Room",
                             "file_path": "b005/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Mega-Bed Assembly",
+                            "part_title": "Part 7: The Mega-Bed Assembly",
                             "file_path": "b005/c002/p007.md"
                         }
                     ]
@@ -1308,32 +1308,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Radford Protocol",
+                            "part_title": "Part 1: The Radford Protocol",
                             "file_path": "b005/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Holding Pattern",
+                            "part_title": "Part 2: The Holding Pattern",
                             "file_path": "b005/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Cargo Bay",
+                            "part_title": "Part 3: The Cargo Bay",
                             "file_path": "b005/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Mess Hall",
+                            "part_title": "Part 4: The Mess Hall",
                             "file_path": "b005/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Supply Line",
+                            "part_title": "Part 5: The Supply Line",
                             "file_path": "b005/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Transit Bible",
+                            "part_title": "Part 6: The Transit Bible",
                             "file_path": "b005/c003/p006.md"
                         }
                     ]
@@ -1344,17 +1344,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Last Supper",
+                            "part_title": "Part 1: The Last Supper",
                             "file_path": "b005/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Barnett Hall",
+                            "part_title": "Part 2: Barnett Hall",
                             "file_path": "b005/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Suite 200",
+                            "part_title": "Part 3: Suite 200",
                             "file_path": "b005/c004/p003.md"
                         }
                     ]
@@ -1365,32 +1365,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Circuit",
+                            "part_title": "Part 1: The Circuit",
                             "file_path": "b005/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Shift Change",
+                            "part_title": "Part 2: The Shift Change",
                             "file_path": "b005/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Main Event",
+                            "part_title": "Part 3: The Main Event",
                             "file_path": "b005/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Carrier Wave",
+                            "part_title": "Part 4: The Carrier Wave",
                             "file_path": "b005/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Countdown",
+                            "part_title": "Part 5: The Countdown",
                             "file_path": "b005/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Midnight Threshold",
+                            "part_title": "Part 6: The Midnight Threshold",
                             "file_path": "b005/c005/p006.md"
                         }
                     ]
@@ -1401,17 +1401,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Pickup",
+                            "part_title": "Part 1: The Pickup",
                             "file_path": "b005/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Debrief",
+                            "part_title": "Part 2: The Debrief",
                             "file_path": "b005/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Reunion",
+                            "part_title": "Part 3: The Reunion",
                             "file_path": "b005/c006/p003.md"
                         }
                     ]
@@ -1422,17 +1422,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Intruder",
+                            "part_title": "Part 1: The Intruder",
                             "file_path": "b005/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Emergency Brake",
+                            "part_title": "Part 2: The Emergency Brake",
                             "file_path": "b005/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Exception",
+                            "part_title": "Part 3: The Exception",
                             "file_path": "b005/c007/p003.md"
                         }
                     ]

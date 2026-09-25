@@ -13,42 +13,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Deep End \u2013 Mid-October 2044 (Days prior to arrival)\u00a0\u00a0",
+                            "part_title": "Part 1: The Deep End \u2013 Mid-October 2044 (Days prior to arrival)\u00a0\u00a0",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Freight \u2013 Mid-October 2044 (Interstellar transit)\u00a0",
+                            "part_title": "Part 2: Freight \u2013 Mid-October 2044 (Interstellar transit)\u00a0",
                             "file_path": "b001/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Pipeline \u2013 Thursday, October 20, 2044 (Transit to NTTR)",
+                            "part_title": "Part 3: The Pipeline \u2013 Thursday, October 20, 2044 (Transit to NTTR)",
                             "file_path": "b001/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Intake \u2013 Thursday, October 20, 2044 \u2013 04:00",
+                            "part_title": "Part 4: Intake \u2013 Thursday, October 20, 2044 \u2013 04:00",
                             "file_path": "b001/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Filing Cabinet \u2013 Thursday, October 20, 2044 \u2013 ~04:20 (Shift starts in 20 minutes)",
+                            "part_title": "Part 5: The Filing Cabinet \u2013 Thursday, October 20, 2044 \u2013 ~04:20 (Shift starts in 20 minutes)",
                             "file_path": "b001/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Washroom \u2013 Thursday, October 20, 2044 \u2013 ~04:30",
+                            "part_title": "Part 6: The Washroom \u2013 Thursday, October 20, 2044 \u2013 ~04:30",
                             "file_path": "b001/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Trough \u2013 Thursday, October 20, 2044 \u2013 ~04:40",
+                            "part_title": "Part 7: The Trough \u2013 Thursday, October 20, 2044 \u2013 ~04:40",
                             "file_path": "b001/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Checkpoint \u2013 Thursday, October 20, 2044 \u2013 ~04:50",
+                            "part_title": "Part 8: The Checkpoint \u2013 Thursday, October 20, 2044 \u2013 ~04:50",
                             "file_path": "b001/c001/p008.md"
                         }
                     ]
@@ -65,42 +65,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "First Flight \u2013 Mid-October 2044 (Days prior to arrival)",
+                            "part_title": "Part 1: First Flight \u2013 Mid-October 2044 (Days prior to arrival)",
                             "file_path": "b002/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Voyage \u2013 Mid-October 2044 (Interstellar transit)",
+                            "part_title": "Part 2: The Voyage \u2013 Mid-October 2044 (Interstellar transit)",
                             "file_path": "b002/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Transfer \u2013 Thursday, October 20, 2044 \u2013 08:00 (Local Spaceport Time)",
+                            "part_title": "Part 3: The Transfer \u2013 Thursday, October 20, 2044 \u2013 08:00 (Local Spaceport Time)",
                             "file_path": "b002/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Handoff \u2013 Thursday, October 20, 2044 \u2013 04:00 (NTTR Local Time)",
+                            "part_title": "Part 4: The Handoff \u2013 Thursday, October 20, 2044 \u2013 04:00 (NTTR Local Time)",
                             "file_path": "b002/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Glitch \u2013 Thursday, October 20, 2044 \u2013 ~04:15 (Shift starts in exactly forty-five minutes)",
+                            "part_title": "Part 5: The Glitch \u2013 Thursday, October 20, 2044 \u2013 ~04:15 (Shift starts in exactly forty-five minutes)",
                             "file_path": "b002/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Washroom \u2013 Thursday, October 20, 2044 \u2013 ~04:30",
+                            "part_title": "Part 6: The Washroom \u2013 Thursday, October 20, 2044 \u2013 ~04:30",
                             "file_path": "b002/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Divide \u2013 Thursday, October 20, 2044 \u2013 ~04:40",
+                            "part_title": "Part 7: The Divide \u2013 Thursday, October 20, 2044 \u2013 ~04:40",
                             "file_path": "b002/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Checkpoint \u2013 Thursday, October 20, 2044 \u2013 ~04:50",
+                            "part_title": "Part 8: The Checkpoint \u2013 Thursday, October 20, 2044 \u2013 ~04:50",
                             "file_path": "b002/c001/p008.md"
                         }
                     ]
@@ -117,32 +117,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Powder Keg \u2013 Thursday, October 20, 2044 \u2013 ~05:00",
+                            "part_title": "Part 1: The Powder Keg \u2013 Thursday, October 20, 2044 \u2013 ~05:00",
                             "file_path": "b003/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Chain of Command \u2013 Thursday, October 20, 2044 \u2013 ~06:00",
+                            "part_title": "Part 2: The Chain of Command \u2013 Thursday, October 20, 2044 \u2013 ~06:00",
                             "file_path": "b003/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Maintenance Closet \u2013 Thursday, October 20, 2044 \u2013 ~07:00",
+                            "part_title": "Part 3: The Maintenance Closet \u2013 Thursday, October 20, 2044 \u2013 ~07:00",
                             "file_path": "b003/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Grind \u2013 Thursday, October 20, 2044 \u2013 ~08:00",
+                            "part_title": "Part 4: The Grind \u2013 Thursday, October 20, 2044 \u2013 ~08:00",
                             "file_path": "b003/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Break \u2013 Thursday, October 20, 2044 \u2013 ~11:00 (Six hours into the shift)",
+                            "part_title": "Part 5: The Break \u2013 Thursday, October 20, 2044 \u2013 ~11:00 (Six hours into the shift)",
                             "file_path": "b003/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "42-C \u2013 Thursday, October 20, 2044 \u2013 ~17:00 (The twelve-hour mark hit)",
+                            "part_title": "Part 6: 42-C \u2013 Thursday, October 20, 2044 \u2013 ~17:00 (The twelve-hour mark hit)",
                             "file_path": "b003/c001/p006.md"
                         }
                     ]
@@ -153,57 +153,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Wake Up Call \u2013 Friday, October 21, 2044 \u2013 01:00 (After sleeping for eight hours)",
+                            "part_title": "Part 1: Wake Up Call \u2013 Friday, October 21, 2044 \u2013 01:00 (After sleeping for eight hours)",
                             "file_path": "b003/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Morning Ration \u2013 Friday, October 21, 2044 \u2013 ~01:15",
+                            "part_title": "Part 2: The Morning Ration \u2013 Friday, October 21, 2044 \u2013 ~01:15",
                             "file_path": "b003/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Checkpoint \u2013 Friday, October 21, 2044 \u2013 ~01:30",
+                            "part_title": "Part 3: The Checkpoint \u2013 Friday, October 21, 2044 \u2013 ~01:30",
                             "file_path": "b003/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Telemetry Anomaly \u2013 Friday, October 21, 2044 \u2013 ~02:00",
+                            "part_title": "Part 4: The Telemetry Anomaly \u2013 Friday, October 21, 2044 \u2013 ~02:00",
                             "file_path": "b003/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Anchor \u2013 Friday, October 21, 2044 \u2013 ~03:00",
+                            "part_title": "Part 5: The Anchor \u2013 Friday, October 21, 2044 \u2013 ~03:00",
                             "file_path": "b003/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Ghost Shift \u2013 Friday, October 21, 2044 \u2013 07:00 (Six more hours until shift change)",
+                            "part_title": "Part 6: The Ghost Shift \u2013 Friday, October 21, 2044 \u2013 07:00 (Six more hours until shift change)",
                             "file_path": "b003/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Blind Spot \u2013 Friday, October 21, 2044 \u2013 ~08:00 (During the one-hour meal rotation)",
+                            "part_title": "Part 7: The Blind Spot \u2013 Friday, October 21, 2044 \u2013 ~08:00 (During the one-hour meal rotation)",
                             "file_path": "b003/c002/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Ghost Roster \u2013 Friday, October 21, 2044 \u2013 10:00 (Two hours later)",
+                            "part_title": "Part 8: The Ghost Roster \u2013 Friday, October 21, 2044 \u2013 10:00 (Two hours later)",
                             "file_path": "b003/c002/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Sanctuary \u2013 Friday, October 21, 2044 \u2013 11:00 (With two hours left on the twelve-hour clock)",
+                            "part_title": "Part 9: The Sanctuary \u2013 Friday, October 21, 2044 \u2013 11:00 (With two hours left on the twelve-hour clock)",
                             "file_path": "b003/c002/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "Off the Clock \u2013 Friday, October 21, 2044 \u2013 13:00 (The twelve-hour klaxon finally screamed)",
+                            "part_title": "Part 10: Off the Clock \u2013 Friday, October 21, 2044 \u2013 13:00 (The twelve-hour klaxon finally screamed)",
                             "file_path": "b003/c002/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Return to The Sanctuary \u2013 Friday, October 21, 2044 \u2013 ~13:30 (Setting up camp in the abandoned break room)",
+                            "part_title": "Part 11: Return to The Sanctuary \u2013 Friday, October 21, 2044 \u2013 ~13:30 (Setting up camp in the abandoned break room)",
                             "file_path": "b003/c002/p011.md"
                         }
                     ]
@@ -214,52 +214,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Illusion of Control \u2013 Saturday, October 22, 2044 \u2013 05:00 (PDA alarm goes off at 0500 hours)",
+                            "part_title": "Part 1: The Illusion of Control \u2013 Saturday, October 22, 2044 \u2013 05:00 (PDA alarm goes off at 0500 hours)",
                             "file_path": "b003/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Veterans \u2013 Saturday, October 22, 2044 \u2013 ~05:15",
+                            "part_title": "Part 2: The Veterans \u2013 Saturday, October 22, 2044 \u2013 ~05:15",
                             "file_path": "b003/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Echo \u2013 Saturday, October 22, 2044 \u2013 ~05:30",
+                            "part_title": "Part 3: The Echo \u2013 Saturday, October 22, 2044 \u2013 ~05:30",
                             "file_path": "b003/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Bleeding Bedrock \u2013 Saturday, October 22, 2044 \u2013 ~06:00",
+                            "part_title": "Part 4: The Bleeding Bedrock \u2013 Saturday, October 22, 2044 \u2013 ~06:00",
                             "file_path": "b003/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Pact \u2013 Saturday, October 22, 2044 \u2013 ~07:00",
+                            "part_title": "Part 5: The Pact \u2013 Saturday, October 22, 2044 \u2013 ~07:00",
                             "file_path": "b003/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Clear Parameters \u2013 Saturday, October 22, 2044 \u2013 ~08:00 (About twenty minutes into the patrol)",
+                            "part_title": "Part 6: Clear Parameters \u2013 Saturday, October 22, 2044 \u2013 ~08:00 (About twenty minutes into the patrol)",
                             "file_path": "b003/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Masterclass \u2013 Saturday, October 22, 2044 \u2013 11:00 (Mid-shift PA chime)",
+                            "part_title": "Part 7: The Masterclass \u2013 Saturday, October 22, 2044 \u2013 11:00 (Mid-shift PA chime)",
                             "file_path": "b003/c003/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Ping \u2013 Saturday, October 22, 2044 \u2013 12:00 (An hour into the second half of the shift)",
+                            "part_title": "Part 8: The Ping \u2013 Saturday, October 22, 2044 \u2013 12:00 (An hour into the second half of the shift)",
                             "file_path": "b003/c003/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Prison Break \u2013 Saturday, October 22, 2044 \u2013 17:00 (The twelve-hour klaxon)",
+                            "part_title": "Part 9: The Prison Break \u2013 Saturday, October 22, 2044 \u2013 17:00 (The twelve-hour klaxon)",
                             "file_path": "b003/c003/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Fallen Hierarchy \u2013 Saturday, October 22, 2044 \u2013 ~17:30",
+                            "part_title": "Part 10: The Fallen Hierarchy \u2013 Saturday, October 22, 2044 \u2013 ~17:30",
                             "file_path": "b003/c003/p010.md"
                         }
                     ]
@@ -270,27 +270,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Structural Failure \u2013 Sunday, October 23, 2044 \u2013 05:00 (PDA vibrates at 0500 hours)",
+                            "part_title": "Part 1: Structural Failure \u2013 Sunday, October 23, 2044 \u2013 05:00 (PDA vibrates at 0500 hours)",
                             "file_path": "b003/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Deployment \u2013 Sunday, October 23, 2044 \u2013 ~05:15 (Given twenty minutes to collect gear)",
+                            "part_title": "Part 2: The Deployment \u2013 Sunday, October 23, 2044 \u2013 ~05:15 (Given twenty minutes to collect gear)",
                             "file_path": "b003/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Transit \u2013 Sunday, October 23, 2044 \u2013 ~05:30 (Floor detonates; they escape in the shuttle)",
+                            "part_title": "Part 3: The Transit \u2013 Sunday, October 23, 2044 \u2013 ~05:30 (Floor detonates; they escape in the shuttle)",
                             "file_path": "b003/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Relic \u2013 Monday, October 24, 2044 \u2013 07:15 (Arriving at Outpost Delta 9)",
+                            "part_title": "Part 4: The Relic \u2013 Monday, October 24, 2044 \u2013 07:15 (Arriving at Outpost Delta 9)",
                             "file_path": "b003/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Captain's Quarters \u2013 Monday, October 24, 2044 \u2013 ~07:30",
+                            "part_title": "Part 5: The Captain\\'s Quarters \u2013 Monday, October 24, 2044 \u2013 ~07:30",
                             "file_path": "b003/c004/p005.md"
                         }
                     ]
@@ -307,17 +307,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Blinking Clock \u2013 Monday, October 24, 2044 \u2013 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)",
+                            "part_title": "Part 1: The Blinking Clock \u2013 Monday, October 24, 2044 \u2013 07:45 (Wyatt sets the VCR clock to 07:45, mirroring their arrival time)",
                             "file_path": "b004/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Ghost Ship \u2013 Monday, October 24, 2044 \u2013 ~10:00 (A few more hours pass)",
+                            "part_title": "Part 2: The Ghost Ship \u2013 Monday, October 24, 2044 \u2013 ~10:00 (A few more hours pass)",
                             "file_path": "b004/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Broadcast \u2013 Monday, October 24, 2044 \u2013 ~10:15 (Shortly after checking the command center)",
+                            "part_title": "Part 3: The Broadcast \u2013 Monday, October 24, 2044 \u2013 ~10:15 (Shortly after checking the command center)",
                             "file_path": "b004/c001/p003.md"
                         }
                     ]
@@ -328,17 +328,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Hydroponics Bay \u2013 Monday, October 24, 2044 \u2013 ~10:30",
+                            "part_title": "Part 1: The Hydroponics Bay \u2013 Monday, October 24, 2044 \u2013 ~10:30",
                             "file_path": "b004/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Strawberry Festival \u2013 Monday, October 24, 2044 \u2013 ~10:50 (For the first twenty minutes, it was pure trial and error)",
+                            "part_title": "Part 2: The Strawberry Festival \u2013 Monday, October 24, 2044 \u2013 ~10:50 (For the first twenty minutes, it was pure trial and error)",
                             "file_path": "b004/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Expanding Fracture \u2013 Monday, October 24, 2044 \u2013 ~11:00",
+                            "part_title": "Part 3: The Expanding Fracture \u2013 Monday, October 24, 2044 \u2013 ~11:00",
                             "file_path": "b004/c002/p003.md"
                         }
                     ]
@@ -349,27 +349,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Descent \u2013 Monday, October 24, 2044 \u2013 ~11:15",
+                            "part_title": "Part 1: The Descent \u2013 Monday, October 24, 2044 \u2013 ~11:15",
                             "file_path": "b004/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Baffle \u2013 Monday, October 24, 2044 \u2013 ~11:30",
+                            "part_title": "Part 2: The Baffle \u2013 Monday, October 24, 2044 \u2013 ~11:30",
                             "file_path": "b004/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Harvest \u2013 Monday, October 24, 2044 \u2013 ~11:45",
+                            "part_title": "Part 3: The Harvest \u2013 Monday, October 24, 2044 \u2013 ~11:45",
                             "file_path": "b004/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Acceleration \u2013 Monday, October 24, 2044 \u2013 12:05 (They hadn't even been out of the engine room for twenty minutes)",
+                            "part_title": "Part 4: The Acceleration \u2013 Monday, October 24, 2044 \u2013 12:05 (They hadn\\'t even been out of the engine room for twenty minutes)",
                             "file_path": "b004/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Scorched Earth \u2013 Monday, October 24, 2044 \u2013 ~12:15 (The military broadcast states scorched earth was authorized at 1300 hours on Earth)",
+                            "part_title": "Part 5: Scorched Earth \u2013 Monday, October 24, 2044 \u2013 ~12:15 (The military broadcast states scorched earth was authorized at 1300 hours on Earth)",
                             "file_path": "b004/c003/p005.md"
                         }
                     ]
@@ -380,27 +380,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "An Attempt at Normalcy \u2013 Monday, October 24, 2044 \u2013 Evening (e.g. ~20:00)",
+                            "part_title": "Part 1: An Attempt at Normalcy \u2013 Monday, October 24, 2044 \u2013 Evening (e.g. ~20:00)",
                             "file_path": "b004/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Shedding the Armor \u2013 Tuesday, October 25, 2044 \u2013 Morning (e.g. ~08:00) (The deep-space morning cycled over the outpost)",
+                            "part_title": "Part 2: Shedding the Armor \u2013 Tuesday, October 25, 2044 \u2013 Morning (e.g. ~08:00) (The deep-space morning cycled over the outpost)",
                             "file_path": "b004/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Ghost Ship \u2013 Tuesday, October 25, 2044 \u2013 ~10:00 (Exactly two hours after breakfast)",
+                            "part_title": "Part 3: The Ghost Ship \u2013 Tuesday, October 25, 2044 \u2013 ~10:00 (Exactly two hours after breakfast)",
                             "file_path": "b004/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Void \u2013 Tuesday, October 25, 2044 \u2013 ~10:30 (Dropship is four hours out)",
+                            "part_title": "Part 4: The Void \u2013 Tuesday, October 25, 2044 \u2013 ~10:30 (Dropship is four hours out)",
                             "file_path": "b004/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Ghost Awakens \u2013 Tuesday, October 25, 2044 \u2013 ~11:15 (Forty-five minutes of absolute agony)",
+                            "part_title": "Part 5: The Ghost Awakens \u2013 Tuesday, October 25, 2044 \u2013 ~11:15 (Forty-five minutes of absolute agony)",
                             "file_path": "b004/c004/p005.md"
                         }
                     ]
@@ -411,27 +411,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Vector to Nowhere \u2013 Tuesday, October 25, 2044 \u2013 ~13:30 (Two hours later after leaving orbit)",
+                            "part_title": "Part 1: A Vector to Nowhere \u2013 Tuesday, October 25, 2044 \u2013 ~13:30 (Two hours later after leaving orbit)",
                             "file_path": "b004/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Hubris of Apex \u2013 Tuesday, October 25, 2044 \u2013 ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)",
+                            "part_title": "Part 2: The Hubris of Apex \u2013 Tuesday, October 25, 2044 \u2013 ~14:00 (Yellowstone erupts; broadcast states event occurred at 0915 hours Earth-time)",
                             "file_path": "b004/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Billionaire\u2019s Secrets \u2013 Tuesday, October 25, 2044 \u2013 ~14:30",
+                            "part_title": "Part 3: The Billionaire\u2019s Secrets \u2013 Tuesday, October 25, 2044 \u2013 ~14:30",
                             "file_path": "b004/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The 2044 Reveal \u2013 Tuesday, October 25, 2044 \u2013 ~15:00",
+                            "part_title": "Part 4: The 2044 Reveal \u2013 Tuesday, October 25, 2044 \u2013 ~15:00",
                             "file_path": "b004/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Blank Slate \u2013 Tuesday, October 25, 2044 \u2013 ~15:15",
+                            "part_title": "Part 5: The Blank Slate \u2013 Tuesday, October 25, 2044 \u2013 ~15:15",
                             "file_path": "b004/c005/p005.md"
                         }
                     ]
@@ -442,37 +442,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Coordinates \u2013 Wednesday, October 26, 2044 \u2013 09:00",
+                            "part_title": "Part 1: The Coordinates \u2013 Wednesday, October 26, 2044 \u2013 09:00",
                             "file_path": "b004/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Spacetime Fold \u2013 Wednesday, October 26, 2044 \u2013 09:15 HRS",
+                            "part_title": "Part 2: The Spacetime Fold \u2013 Wednesday, October 26, 2044 \u2013 09:15 HRS",
                             "file_path": "b004/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Interstellar Road Trip \u2013 Wednesday, October 26, 2044 \u2013 09:30",
+                            "part_title": "Part 3: The Interstellar Road Trip \u2013 Wednesday, October 26, 2044 \u2013 09:30",
                             "file_path": "b004/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Algorithm's Gift \u2013 Wednesday, October 26, 2044 \u2013 16:00",
+                            "part_title": "Part 4: The Algorithm\\'s Gift \u2013 Wednesday, October 26, 2044 \u2013 16:00",
                             "file_path": "b004/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Blank Slate \u2013 Thursday, October 27 to Tuesday, November 1, 2044 (FTL Transit)",
+                            "part_title": "Part 5: The Blank Slate \u2013 Thursday, October 27 to Tuesday, November 1, 2044 (FTL Transit)",
                             "file_path": "b004/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Backlog \u2013 Tuesday, November 1, 2044 \u2013 09:30",
+                            "part_title": "Part 6: The Backlog \u2013 Tuesday, November 1, 2044 \u2013 09:30",
                             "file_path": "b004/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Backlog \u2013 Tuesday, November 1, 2044 \u2013 09:32",
+                            "part_title": "Part 7: The Backlog \u2013 Tuesday, November 1, 2044 \u2013 09:32",
                             "file_path": "b004/c006/p007.md"
                         }
                     ]
@@ -489,57 +489,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Atmospheric Entry \u2013 Tuesday, November 1, 2044 \u2013 10:00",
+                            "part_title": "Part 1: Atmospheric Entry \u2013 Tuesday, November 1, 2044 \u2013 10:00",
                             "file_path": "b005/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The First Steps \u2013 Tuesday, November 1, 2044 \u2013 10:15",
+                            "part_title": "Part 2: The First Steps \u2013 Tuesday, November 1, 2044 \u2013 10:15",
                             "file_path": "b005/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Solar Bloom \u2013 Tuesday, November 1, 2044 \u2013 10:30",
+                            "part_title": "Part 3: The Solar Bloom \u2013 Tuesday, November 1, 2044 \u2013 10:30",
                             "file_path": "b005/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Footprint \u2013 Sunday, May 7, 2045 \u2013 15:15",
+                            "part_title": "Part 4: The Footprint \u2013 Sunday, May 7, 2045 \u2013 15:15",
                             "file_path": "b005/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The True Face of Apex \u2013 Tuesday, May 7, 2045 \u2013 16:00 (Standard Galactic Time)",
+                            "part_title": "Part 5: The True Face of Apex \u2013 Tuesday, May 7, 2045 \u2013 16:00 (Standard Galactic Time)",
                             "file_path": "b005/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Ghost Protocol \u2013 Tuesday, May 7, 2045 \u2013 18:30",
+                            "part_title": "Part 6: The Ghost Protocol \u2013 Tuesday, May 7, 2045 \u2013 18:30",
                             "file_path": "b005/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Canopy \u2013 Tuesday, May 7, 2045 \u2013 19:00",
+                            "part_title": "Part 7: The Canopy \u2013 Tuesday, May 7, 2045 \u2013 19:00",
                             "file_path": "b005/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Blind Sweep \u2013 Wednesday, May 8, 2045 \u2013 14:00 (Standard Galactic Time)",
+                            "part_title": "Part 8: The Blind Sweep \u2013 Wednesday, May 8, 2045 \u2013 14:00 (Standard Galactic Time)",
                             "file_path": "b005/c001/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Vow \u2013 Wednesday, May 8, 2045 \u2013 15:24",
+                            "part_title": "Part 9: The Vow \u2013 Wednesday, May 8, 2045 \u2013 15:24",
                             "file_path": "b005/c001/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Living Light \u2013 Wednesday, May 8, 2045 \u2013 21:00",
+                            "part_title": "Part 10: The Living Light \u2013 Wednesday, May 8, 2045 \u2013 21:00",
                             "file_path": "b005/c001/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Under the Stars \u2013 Wednesday, May 8, 2045 \u2013 23:15",
+                            "part_title": "Part 11: Under the Stars \u2013 Wednesday, May 8, 2045 \u2013 23:15",
                             "file_path": "b005/c001/p011.md"
                         }
                     ]
@@ -550,37 +550,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The River \u2013 Thursday, May 9, 2045 \u2013 06:30",
+                            "part_title": "Part 1: The River \u2013 Thursday, May 9, 2045 \u2013 06:30",
                             "file_path": "b005/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Nomad \u2013 Thursday, May 9, 2045 \u2013 07:45",
+                            "part_title": "Part 2: The Nomad \u2013 Thursday, May 9, 2045 \u2013 07:45",
                             "file_path": "b005/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Blueprint \u2013 Thursday, May 9, 2045 \u2013 08:00",
+                            "part_title": "Part 3: The Blueprint \u2013 Thursday, May 9, 2045 \u2013 08:00",
                             "file_path": "b005/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The First Harvest \u2013 Thursday, May 9, 2045 \u2013 08:30",
+                            "part_title": "Part 4: The First Harvest \u2013 Thursday, May 9, 2045 \u2013 08:30",
                             "file_path": "b005/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Bait \u2013 Thursday, May 9, 2045 \u2013 10:00 (Standard Galactic Time)",
+                            "part_title": "Part 5: The Bait \u2013 Thursday, May 9, 2045 \u2013 10:00 (Standard Galactic Time)",
                             "file_path": "b005/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Broken Snare \u2013 Thursday, May 9, 2045 \u2013 11:30",
+                            "part_title": "Part 6: The Broken Snare \u2013 Thursday, May 9, 2045 \u2013 11:30",
                             "file_path": "b005/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Eden Rule \u2013 Thursday, May 9, 2045 \u2013 12:15",
+                            "part_title": "Part 7: The Eden Rule \u2013 Thursday, May 9, 2045 \u2013 12:15",
                             "file_path": "b005/c002/p007.md"
                         }
                     ]
@@ -591,47 +591,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Floodplain \u2013 Thursday, May 9, 2045 \u2013 17:00",
+                            "part_title": "Part 1: The Floodplain \u2013 Thursday, May 9, 2045 \u2013 17:00",
                             "file_path": "b005/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Dead Reckoning \u2013 Thursday, May 9, 2045 \u2013 17:15",
+                            "part_title": "Part 2: Dead Reckoning \u2013 Thursday, May 9, 2045 \u2013 17:15",
                             "file_path": "b005/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Mountain's Mouth \u2013 Thursday, May 9, 2045 \u2013 17:22",
+                            "part_title": "Part 3: The Mountain\\'s Mouth \u2013 Thursday, May 9, 2045 \u2013 17:22",
                             "file_path": "b005/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Winter Window \u2013 Thursday, May 9, 2045 \u2013 17:40",
+                            "part_title": "Part 4: The Winter Window \u2013 Thursday, May 9, 2045 \u2013 17:40",
                             "file_path": "b005/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Genesis Vault \u2013 Thursday, May 9, 2045 \u2013 18:00",
+                            "part_title": "Part 5: The Genesis Vault \u2013 Thursday, May 9, 2045 \u2013 18:00",
                             "file_path": "b005/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Genesis Vault \u2013 Thursday, May 9, 2045 \u2013 18:15",
+                            "part_title": "Part 6: The Genesis Vault \u2013 Thursday, May 9, 2045 \u2013 18:15",
                             "file_path": "b005/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Master Kitchen \u2013 Thursday, May 9, 2045 \u2013 18:30",
+                            "part_title": "Part 7: The Master Kitchen \u2013 Thursday, May 9, 2045 \u2013 18:30",
                             "file_path": "b005/c003/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Curriculum \u2013 Thursday, May 9, 2045 \u2013 19:15",
+                            "part_title": "Part 8: The Curriculum \u2013 Thursday, May 9, 2045 \u2013 19:15",
                             "file_path": "b005/c003/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Saltwater Oasis \u2013 Thursday, May 9, 2045 \u2013 19:30",
+                            "part_title": "Part 9: The Saltwater Oasis \u2013 Thursday, May 9, 2045 \u2013 19:30",
                             "file_path": "b005/c003/p009.md"
                         }
                     ]
@@ -642,62 +642,62 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The First Semester \u2013 Friday, May 10, 2045 \u2013 08:00",
+                            "part_title": "Part 1: The First Semester \u2013 Friday, May 10, 2045 \u2013 08:00",
                             "file_path": "b005/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Debugger \u2013 Friday, May 10, 2045 \u2013 11:30",
+                            "part_title": "Part 2: The Debugger \u2013 Friday, May 10, 2045 \u2013 11:30",
                             "file_path": "b005/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Earth Conservatory \u2013 Friday, May 10, 2045 \u2013 12:15",
+                            "part_title": "Part 3: The Earth Conservatory \u2013 Friday, May 10, 2045 \u2013 12:15",
                             "file_path": "b005/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Ark \u2013 Friday, May 10, 2045 \u2013 12:30",
+                            "part_title": "Part 4: The Ark \u2013 Friday, May 10, 2045 \u2013 12:30",
                             "file_path": "b005/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Comfort Food \u2013 Friday, May 10, 2045 \u2013 13:00",
+                            "part_title": "Part 5: Comfort Food \u2013 Friday, May 10, 2045 \u2013 13:00",
                             "file_path": "b005/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Hello World \u2013 Friday, May 10, 2045 \u2013 13:45",
+                            "part_title": "Part 6: Hello World \u2013 Friday, May 10, 2045 \u2013 13:45",
                             "file_path": "b005/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Biology 101 \u2013 Friday, May 10, 2045 \u2013 14:15",
+                            "part_title": "Part 7: Biology 101 \u2013 Friday, May 10, 2045 \u2013 14:15",
                             "file_path": "b005/c004/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Vitality Roster \u2013 Friday, May 10, 2045 \u2013 14:30",
+                            "part_title": "Part 8: The Vitality Roster \u2013 Friday, May 10, 2045 \u2013 14:30",
                             "file_path": "b005/c004/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Facelift \u2013 Friday, May 10, 2045 \u2013 15:00",
+                            "part_title": "Part 9: The Facelift \u2013 Friday, May 10, 2045 \u2013 15:00",
                             "file_path": "b005/c004/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The First Generation \u2013 Friday, May 10, 2045 \u2013 17:00",
+                            "part_title": "Part 10: The First Generation \u2013 Friday, May 10, 2045 \u2013 17:00",
                             "file_path": "b005/c004/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The First Landing \u2013 Friday, May 10, 2045 \u2013 17:30",
+                            "part_title": "Part 11: The First Landing \u2013 Friday, May 10, 2045 \u2013 17:30",
                             "file_path": "b005/c004/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Parent Protocol \u2013 Friday, May 10, 2045 \u2013 21:00",
+                            "part_title": "Part 12: The Parent Protocol \u2013 Friday, May 10, 2045 \u2013 21:00",
                             "file_path": "b005/c004/p012.md"
                         }
                     ]
@@ -708,47 +708,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Upgrade \u2013 Saturday, May 11, 2045 \u2013 07:00",
+                            "part_title": "Part 1: The Upgrade \u2013 Saturday, May 11, 2045 \u2013 07:00",
                             "file_path": "b005/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Archives \u2013 Saturday, May 11, 2045 \u2013 08:30",
+                            "part_title": "Part 2: The Archives \u2013 Saturday, May 11, 2045 \u2013 08:30",
                             "file_path": "b005/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Husk \u2013 Saturday, May 11, 2045 \u2013 09:15",
+                            "part_title": "Part 3: The Husk \u2013 Saturday, May 11, 2045 \u2013 09:15",
                             "file_path": "b005/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Lost Time \u2013 Saturday, May 11, 2045 \u2013 09:45",
+                            "part_title": "Part 4: The Lost Time \u2013 Saturday, May 11, 2045 \u2013 09:45",
                             "file_path": "b005/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Trade-Off \u2013 Saturday, May 11, 2045 \u2013 10:15",
+                            "part_title": "Part 5: The Trade-Off \u2013 Saturday, May 11, 2045 \u2013 10:15",
                             "file_path": "b005/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Mapmakers \u2013 Saturday, May 11, 2045 \u2013 10:30",
+                            "part_title": "Part 6: The Mapmakers \u2013 Saturday, May 11, 2045 \u2013 10:30",
                             "file_path": "b005/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Six Moons \u2013 Saturday, May 11, 2045 \u2013 10:45",
+                            "part_title": "Part 7: The Six Moons \u2013 Saturday, May 11, 2045 \u2013 10:45",
                             "file_path": "b005/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Petrichor \u2013 Saturday, May 11, 2045 \u2013 12:30",
+                            "part_title": "Part 8: The Petrichor \u2013 Saturday, May 11, 2045 \u2013 12:30",
                             "file_path": "b005/c005/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Runabout \u2013 Saturday, May 11, 2045 \u2013 13:15",
+                            "part_title": "Part 9: The Runabout \u2013 Saturday, May 11, 2045 \u2013 13:15",
                             "file_path": "b005/c005/p009.md"
                         }
                     ]
@@ -759,57 +759,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Maiden Voyage \u2013 Saturday, May 11, 2045 \u2013 13:45",
+                            "part_title": "Part 1: The Maiden Voyage \u2013 Saturday, May 11, 2045 \u2013 13:45",
                             "file_path": "b005/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Alpine Meadow \u2013 Saturday, May 11, 2045 \u2013 17:00",
+                            "part_title": "Part 2: The Alpine Meadow \u2013 Saturday, May 11, 2045 \u2013 17:00",
                             "file_path": "b005/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Anchor \u2013 Sunday, May 12, 2045 \u2013 07:30",
+                            "part_title": "Part 3: Anchor \u2013 Sunday, May 12, 2045 \u2013 07:30",
                             "file_path": "b005/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Lunar Bound \u2013 Sunday, May 12, 2045 \u2013 08:00",
+                            "part_title": "Part 4: The Lunar Bound \u2013 Sunday, May 12, 2045 \u2013 08:00",
                             "file_path": "b005/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Reading List \u2013 Sunday, May 12, 2045 \u2013 10:30",
+                            "part_title": "Part 5: The Reading List \u2013 Sunday, May 12, 2045 \u2013 10:30",
                             "file_path": "b005/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The 2002 Fiction \u2013 Sunday, May 12, 2045 \u2013 14:00",
+                            "part_title": "Part 6: The 2002 Fiction \u2013 Sunday, May 12, 2045 \u2013 14:00",
                             "file_path": "b005/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Terrace Picnic \u2013 Sunday, May 12, 2045 \u2013 15:30",
+                            "part_title": "Part 7: The Terrace Picnic \u2013 Sunday, May 12, 2045 \u2013 15:30",
                             "file_path": "b005/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Gravity Tax \u2013 Sunday, May 12, 2045 \u2013 16:15",
+                            "part_title": "Part 8: The Gravity Tax \u2013 Sunday, May 12, 2045 \u2013 16:15",
                             "file_path": "b005/c006/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "Sowing the Seeds \u2013 Sunday, May 12, 2045 \u2013 16:45",
+                            "part_title": "Part 9: Sowing the Seeds \u2013 Sunday, May 12, 2045 \u2013 16:45",
                             "file_path": "b005/c006/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Architect \u2013 Sunday, May 12, 2045 \u2013 17:45",
+                            "part_title": "Part 10: The Architect \u2013 Sunday, May 12, 2045 \u2013 17:45",
                             "file_path": "b005/c006/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Overcompensation \u2013 Sunday, May 12, 2045 \u2013 18:00",
+                            "part_title": "Part 11: The Overcompensation \u2013 Sunday, May 12, 2045 \u2013 18:00",
                             "file_path": "b005/c006/p011.md"
                         }
                     ]
@@ -820,62 +820,62 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Three Pulses \u2013 Sunday, May 12, 2045 \u2013 18:15",
+                            "part_title": "Part 1: Three Pulses \u2013 Sunday, May 12, 2045 \u2013 18:15",
                             "file_path": "b005/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Multiplier \u2013 Sunday, May 12, 2045 \u2013 18:25",
+                            "part_title": "Part 2: The Multiplier \u2013 Sunday, May 12, 2045 \u2013 18:25",
                             "file_path": "b005/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Tax Evasion and Timber \u2013 Sunday, May 12, 2045 \u2013 18:45",
+                            "part_title": "Part 3: Tax Evasion and Timber \u2013 Sunday, May 12, 2045 \u2013 18:45",
                             "file_path": "b005/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The 50,000 Crib Deficit \u2013 Sunday, May 12, 2045 \u2013 23:45",
+                            "part_title": "Part 4: The 50,000 Crib Deficit \u2013 Sunday, May 12, 2045 \u2013 23:45",
                             "file_path": "b005/c007/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Constitution \u2013 Monday, May 13, 2045 \u2013 09:00",
+                            "part_title": "Part 5: The Constitution \u2013 Monday, May 13, 2045 \u2013 09:00",
                             "file_path": "b005/c007/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Agrarian Model \u2013 Monday, May 13, 2045 \u2013 09:30",
+                            "part_title": "Part 6: The Agrarian Model \u2013 Monday, May 13, 2045 \u2013 09:30",
                             "file_path": "b005/c007/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Wardrobe \u2013 Sunday, June 4, 2045 \u2013 09:00",
+                            "part_title": "Part 7: The Wardrobe \u2013 Sunday, June 4, 2045 \u2013 09:00",
                             "file_path": "b005/c007/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Toll of Three \u2013 Sunday, June 18, 2045 \u2013 10:00",
+                            "part_title": "Part 8: The Toll of Three \u2013 Sunday, June 18, 2045 \u2013 10:00",
                             "file_path": "b005/c007/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Remedy \u2013 Sunday, June 18, 2045 \u2013 10:15",
+                            "part_title": "Part 9: The Remedy \u2013 Sunday, June 18, 2045 \u2013 10:15",
                             "file_path": "b005/c007/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "The Chariot \u2013 Sunday, June 18, 2045 \u2013 12:30",
+                            "part_title": "Part 10: The Chariot \u2013 Sunday, June 18, 2045 \u2013 12:30",
                             "file_path": "b005/c007/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "The Craving \u2013 Sunday, June 18, 2045 \u2013 13:00",
+                            "part_title": "Part 11: The Craving \u2013 Sunday, June 18, 2045 \u2013 13:00",
                             "file_path": "b005/c007/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Foundation \u2013 Sunday, June 18, 2045 \u2013 14:00",
+                            "part_title": "Part 12: The Foundation \u2013 Sunday, June 18, 2045 \u2013 14:00",
                             "file_path": "b005/c007/p012.md"
                         }
                     ]
@@ -892,47 +892,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Tolerances of Eden \u2013 Monday, September 4, 2045 \u2013 10:00",
+                            "part_title": "Part 1: The Tolerances of Eden \u2013 Monday, September 4, 2045 \u2013 10:00",
                             "file_path": "b006/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Silent Scout \u2013 Tuesday, September 5, 2045 \u2013 14:00",
+                            "part_title": "Part 2: The Silent Scout \u2013 Tuesday, September 5, 2045 \u2013 14:00",
                             "file_path": "b006/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Shield and the Spark \u2013 Wednesday, September 20, 2045 \u2013 11:00",
+                            "part_title": "Part 3: The Shield and the Spark \u2013 Wednesday, September 20, 2045 \u2013 11:00",
                             "file_path": "b006/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Ghost of Eden \u2013 Friday, September 22, 2045 \u2013 13:15",
+                            "part_title": "Part 4: The Ghost of Eden \u2013 Friday, September 22, 2045 \u2013 13:15",
                             "file_path": "b006/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Dead Rock \u2013 Thursday, October 12, 2045 \u2013 02:15",
+                            "part_title": "Part 5: The Dead Rock \u2013 Thursday, October 12, 2045 \u2013 02:15",
                             "file_path": "b006/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Aegis Hallucination \u2013 Thursday, October 12, 2045 \u2013 08:00",
+                            "part_title": "Part 6: The Aegis Hallucination \u2013 Thursday, October 12, 2045 \u2013 08:00",
                             "file_path": "b006/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Administrative Override \u2013 Friday, November 10, 2045 \u2013 15:00",
+                            "part_title": "Part 7: The Administrative Override \u2013 Friday, November 10, 2045 \u2013 15:00",
                             "file_path": "b006/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Weight of the World \u2013 Monday, November 27, 2045 \u2013 03:15",
+                            "part_title": "Part 8: The Weight of the World \u2013 Monday, November 27, 2045 \u2013 03:15",
                             "file_path": "b006/c001/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "Cosmic Dust \u2013 Monday, November 27, 2045 \u2013 06:00",
+                            "part_title": "Part 9: Cosmic Dust \u2013 Monday, November 27, 2045 \u2013 06:00",
                             "file_path": "b006/c001/p009.md"
                         }
                     ]
@@ -943,47 +943,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Gravity of Eden \u2013 Tuesday, December 5, 2045 \u2013 02:30",
+                            "part_title": "Part 1: The Gravity of Eden \u2013 Tuesday, December 5, 2045 \u2013 02:30",
                             "file_path": "b006/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Vanguard's Spear \u2013 Tuesday, December 5, 2045 \u2013 02:45",
+                            "part_title": "Part 2: The Vanguard\\'s Spear \u2013 Tuesday, December 5, 2045 \u2013 02:45",
                             "file_path": "b006/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Hypoxic Clock \u2013 Tuesday, December 5, 2045 \u2013 02:52",
+                            "part_title": "Part 3: The Hypoxic Clock \u2013 Tuesday, December 5, 2045 \u2013 02:52",
                             "file_path": "b006/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Lion's Fight \u2013 Tuesday, December 5, 2045 \u2013 03:00",
+                            "part_title": "Part 4: The Lion\\'s Fight \u2013 Tuesday, December 5, 2045 \u2013 03:00",
                             "file_path": "b006/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Incubator Watch \u2013 Tuesday, December 5, 2045 \u2013 05:00",
+                            "part_title": "Part 5: The Incubator Watch \u2013 Tuesday, December 5, 2045 \u2013 05:00",
                             "file_path": "b006/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Reaching in the Dark \u2013 Tuesday, December 5, 2045 \u2013 05:15",
+                            "part_title": "Part 6: Reaching in the Dark \u2013 Tuesday, December 5, 2045 \u2013 05:15",
                             "file_path": "b006/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Maintenance Schedule \u2013 Tuesday, December 12, 2045 \u2013 14:00",
+                            "part_title": "Part 7: The Maintenance Schedule \u2013 Tuesday, December 12, 2045 \u2013 14:00",
                             "file_path": "b006/c002/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Annoyance \u2013 Thursday, December 21, 2045 \u2013 02:15",
+                            "part_title": "Part 8: The Annoyance \u2013 Thursday, December 21, 2045 \u2013 02:15",
                             "file_path": "b006/c002/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Engine Block \u2013 Tuesday, January 9, 2046 \u2013 10:00",
+                            "part_title": "Part 9: The Engine Block \u2013 Tuesday, January 9, 2046 \u2013 10:00",
                             "file_path": "b006/c002/p009.md"
                         }
                     ]
@@ -994,32 +994,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Flaw in the Wood \u2013 Tuesday, January 30, 2046 \u2013 14:00",
+                            "part_title": "Part 1: The Flaw in the Wood \u2013 Tuesday, January 30, 2046 \u2013 14:00",
                             "file_path": "b006/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Gravity of the Hive \u2013 Wednesday, January 31, 2046 \u2013 03:00",
+                            "part_title": "Part 2: The Gravity of the Hive \u2013 Wednesday, January 31, 2046 \u2013 03:00",
                             "file_path": "b006/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Sentinel Directive \u2013 Wednesday, January 31, 2046 \u2013 09:00",
+                            "part_title": "Part 3: The Sentinel Directive \u2013 Wednesday, January 31, 2046 \u2013 09:00",
                             "file_path": "b006/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Mega-Crib \u2013 Wednesday, January 31, 2046 \u2013 14:00",
+                            "part_title": "Part 4: The Mega-Crib \u2013 Wednesday, January 31, 2046 \u2013 14:00",
                             "file_path": "b006/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Supply Drop \u2013 Thursday, May 14, 2046 \u2013 11:30",
+                            "part_title": "Part 5: The Supply Drop \u2013 Thursday, May 14, 2046 \u2013 11:30",
                             "file_path": "b006/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Soup Kitchen \u2013 Thursday, May 14, 2046 \u2013 21:00",
+                            "part_title": "Part 6: The Soup Kitchen \u2013 Thursday, May 14, 2046 \u2013 21:00",
                             "file_path": "b006/c003/p006.md"
                         }
                     ]
@@ -1030,32 +1030,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Rule of Three \u2013 Tuesday, March 10, 2048 \u2013 07:30",
+                            "part_title": "Part 1: The Rule of Three \u2013 Tuesday, March 10, 2048 \u2013 07:30",
                             "file_path": "b006/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Tactical Extraction \u2013 Thursday, April 2, 2048 \u2013 14:15",
+                            "part_title": "Part 2: The Tactical Extraction \u2013 Thursday, April 2, 2048 \u2013 14:15",
                             "file_path": "b006/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Milestones \u2013 Tuesday, August 18, 2048 \u2013 16:00",
+                            "part_title": "Part 3: The Milestones \u2013 Tuesday, August 18, 2048 \u2013 16:00",
                             "file_path": "b006/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Chariot \u2013 Friday, September 4, 2048 \u2013 10:00",
+                            "part_title": "Part 4: The Chariot \u2013 Friday, September 4, 2048 \u2013 10:00",
                             "file_path": "b006/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Hydroponics Breach \u2013 Monday, February 15, 2049 \u2013 13:15",
+                            "part_title": "Part 5: The Hydroponics Breach \u2013 Monday, February 15, 2049 \u2013 13:15",
                             "file_path": "b006/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Establishing Comms \u2013 Thursday, May 6, 2049 \u2013 15:00",
+                            "part_title": "Part 6: Establishing Comms \u2013 Thursday, May 6, 2049 \u2013 15:00",
                             "file_path": "b006/c004/p006.md"
                         }
                     ]
@@ -1066,32 +1066,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The New Recruit \u2013 Wednesday, September 15, 2049 \u2013 10:00",
+                            "part_title": "Part 1: The New Recruit \u2013 Wednesday, September 15, 2049 \u2013 10:00",
                             "file_path": "b006/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Unified Design \u2013 Tuesday, October 5, 2049 \u2013 02:15",
+                            "part_title": "Part 2: The Unified Design \u2013 Tuesday, October 5, 2049 \u2013 02:15",
                             "file_path": "b006/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Tactical Latrine \u2013 Friday, November 12, 2049 \u2013 09:00",
+                            "part_title": "Part 3: The Tactical Latrine \u2013 Friday, November 12, 2049 \u2013 09:00",
                             "file_path": "b006/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Defensive Perimeter \u2013 Wednesday, December 15, 2049 \u2013 18:30",
+                            "part_title": "Part 4: The Defensive Perimeter \u2013 Wednesday, December 15, 2049 \u2013 18:30",
                             "file_path": "b006/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Bootcamp \u2013 Monday, December 20, 2049 \u2013 04:15",
+                            "part_title": "Part 5: The Bootcamp \u2013 Monday, December 20, 2049 \u2013 04:15",
                             "file_path": "b006/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Genesis Check \u2013 Wednesday, March 1, 2050 \u2013 21:00",
+                            "part_title": "Part 6: The Genesis Check \u2013 Wednesday, March 1, 2050 \u2013 21:00",
                             "file_path": "b006/c005/p006.md"
                         }
                     ]
@@ -1102,47 +1102,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Accelerated Recruit \u2013 Tuesday, October 18, 2050 \u2013 14:00",
+                            "part_title": "Part 1: The Accelerated Recruit \u2013 Tuesday, October 18, 2050 \u2013 14:00",
                             "file_path": "b006/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Terrain Deficit \u2013 Wednesday, April 12, 2051 \u2013 10:00",
+                            "part_title": "Part 2: The Terrain Deficit \u2013 Wednesday, April 12, 2051 \u2013 10:00",
                             "file_path": "b006/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Multi-Front War \u2013 Friday, April 21, 2051 \u2013 15:30",
+                            "part_title": "Part 3: The Multi-Front War \u2013 Friday, April 21, 2051 \u2013 15:30",
                             "file_path": "b006/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Ghost Planet \u2013 Friday, April 21, 2051 \u2013 15:45 (Standard Galactic Time)",
+                            "part_title": "Part 4: The Ghost Planet \u2013 Friday, April 21, 2051 \u2013 15:45 (Standard Galactic Time)",
                             "file_path": "b006/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The All-Terrain Vanguard \u2013 Friday, April 28, 2051 \u2013 10:00",
+                            "part_title": "Part 5: The All-Terrain Vanguard \u2013 Friday, April 28, 2051 \u2013 10:00",
                             "file_path": "b006/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Authorized Harvest \u2013 Thursday, May 18, 2051 \u2013 13:00",
+                            "part_title": "Part 6: The Authorized Harvest \u2013 Thursday, May 18, 2051 \u2013 13:00",
                             "file_path": "b006/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Constitutional Override \u2013 Friday, November 3, 2051 \u2013 10:15",
+                            "part_title": "Part 7: The Constitutional Override \u2013 Friday, November 3, 2051 \u2013 10:15",
                             "file_path": "b006/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Legal Precedent \u2013 Friday, November 3, 2051 \u2013 11:30",
+                            "part_title": "Part 8: The Legal Precedent \u2013 Friday, November 3, 2051 \u2013 11:30",
                             "file_path": "b006/c006/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Perimeter Test \u2013 Friday, November 3, 2051 \u2013 11:45",
+                            "part_title": "Part 9: The Perimeter Test \u2013 Friday, November 3, 2051 \u2013 11:45",
                             "file_path": "b006/c006/p009.md"
                         }
                     ]
@@ -1159,37 +1159,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Sovereign\u2019s Hubris \u2013 Tuesday, May 2, 2051 \u2013 08:00 (Standard Galactic Time)",
+                            "part_title": "Part 1: The Sovereign\u2019s Hubris \u2013 Tuesday, May 2, 2051 \u2013 08:00 (Standard Galactic Time)",
                             "file_path": "b007/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Geneva Standard \u2013 Tuesday, May 2, 2051 \u2013 08:05 (Standard Galactic Time)",
+                            "part_title": "Part 2: The Geneva Standard \u2013 Tuesday, May 2, 2051 \u2013 08:05 (Standard Galactic Time)",
                             "file_path": "b007/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Extraction \u2013 Tuesday, May 2, 2051 \u2013 08:30 (Standard Galactic Time)",
+                            "part_title": "Part 3: The Extraction \u2013 Tuesday, May 2, 2051 \u2013 08:30 (Standard Galactic Time)",
                             "file_path": "b007/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Laws of War \u2013 Tuesday, May 2, 2051 \u2013 08:45 (Standard Galactic Time)",
+                            "part_title": "Part 4: The Laws of War \u2013 Tuesday, May 2, 2051 \u2013 08:45 (Standard Galactic Time)",
                             "file_path": "b007/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Interrogation \u2013 Tuesday, May 2, 2051 \u2013 10:00 (Standard Galactic Time)",
+                            "part_title": "Part 5: The Interrogation \u2013 Tuesday, May 2, 2051 \u2013 10:00 (Standard Galactic Time)",
                             "file_path": "b007/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Handover \u2013 Friday, May 5, 2051 \u2013 14:00 (Standard Galactic Time)",
+                            "part_title": "Part 6: The Handover \u2013 Friday, May 5, 2051 \u2013 14:00 (Standard Galactic Time)",
                             "file_path": "b007/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Classified Intel \u2013 Friday, May 5, 2051 \u2013 14:15",
+                            "part_title": "Part 7: The Classified Intel \u2013 Friday, May 5, 2051 \u2013 14:15",
                             "file_path": "b007/c001/p007.md"
                         }
                     ]
@@ -1200,27 +1200,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Government-in-Exile \u2013 Monday, September 18, 2051 \u2013 09:00 (Standard Galactic Time)",
+                            "part_title": "Part 1: The Government-in-Exile \u2013 Monday, September 18, 2051 \u2013 09:00 (Standard Galactic Time)",
                             "file_path": "b007/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Star Witnesses \u2013 Monday, September 18, 2051 \u2013 09:30",
+                            "part_title": "Part 2: The Star Witnesses \u2013 Monday, September 18, 2051 \u2013 09:30",
                             "file_path": "b007/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Fab-Foundry Apprentice \u2013 Tuesday, September 19, 2051 \u2013 10:00 (Standard Galactic Time)",
+                            "part_title": "Part 3: The Fab-Foundry Apprentice \u2013 Tuesday, September 19, 2051 \u2013 10:00 (Standard Galactic Time)",
                             "file_path": "b007/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Verdict and the Vault \u2013 Friday, January 12, 2052 \u2013 09:00 (Standard Galactic Time)",
+                            "part_title": "Part 4: The Verdict and the Vault \u2013 Friday, January 12, 2052 \u2013 09:00 (Standard Galactic Time)",
                             "file_path": "b007/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Sentinel Treaty \u2013 Monday, April 8, 2052 \u2013 14:00 (Standard Galactic Time)",
+                            "part_title": "Part 5: The Sentinel Treaty \u2013 Monday, April 8, 2052 \u2013 14:00 (Standard Galactic Time)",
                             "file_path": "b007/c002/p005.md"
                         }
                     ]
@@ -1231,22 +1231,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Healing Room \u2013 Monday, May 20, 2052 \u2013 14:00 (Standard Galactic Time)",
+                            "part_title": "Part 1: The Healing Room \u2013 Monday, May 20, 2052 \u2013 14:00 (Standard Galactic Time)",
                             "file_path": "b007/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Diplomat's Detail \u2013 Thursday, May 23, 2052 \u2013 09:30",
+                            "part_title": "Part 2: The Diplomat\\'s Detail \u2013 Thursday, May 23, 2052 \u2013 09:30",
                             "file_path": "b007/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The First Blueprint \u2013 Friday, May 24, 2052 \u2013 20:00",
+                            "part_title": "Part 3: The First Blueprint \u2013 Friday, May 24, 2052 \u2013 20:00",
                             "file_path": "b007/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The History Lesson \u2013 Saturday, July 13, 2052 \u2013 10:00 (Standard Galactic Time)",
+                            "part_title": "Part 4: The History Lesson \u2013 Saturday, July 13, 2052 \u2013 10:00 (Standard Galactic Time)",
                             "file_path": "b007/c003/p004.md"
                         }
                     ]
@@ -1263,32 +1263,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Pattern Disruption \u2013 Wednesday, September 18, 2052 \u2013 15:00 (Standard Galactic Time)",
+                            "part_title": "Part 1: The Pattern Disruption \u2013 Wednesday, September 18, 2052 \u2013 15:00 (Standard Galactic Time)",
                             "file_path": "b008/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Rhythm Section \u2013 Thursday, July 18, 2052 \u2013 14:00",
+                            "part_title": "Part 2: The Rhythm Section \u2013 Thursday, July 18, 2052 \u2013 14:00",
                             "file_path": "b008/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Archives of Earth \u2013 Thursday, July 18, 2052 \u2013 14:15",
+                            "part_title": "Part 3: The Archives of Earth \u2013 Thursday, July 18, 2052 \u2013 14:15",
                             "file_path": "b008/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Fleet Upgrade \u2013 Friday, October 25, 2052 \u2013 14:00",
+                            "part_title": "Part 4: The Fleet Upgrade \u2013 Friday, October 25, 2052 \u2013 14:00",
                             "file_path": "b008/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Stabilizers \u2013 Friday, October 25, 2052 \u2013 14:15",
+                            "part_title": "Part 5: The Stabilizers \u2013 Friday, October 25, 2052 \u2013 14:15",
                             "file_path": "b008/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Enforcers \u2013 Thursday, June 12, 2053 \u2013 04:30 (Local Eden Time)",
+                            "part_title": "Part 6: The Enforcers \u2013 Thursday, June 12, 2053 \u2013 04:30 (Local Eden Time)",
                             "file_path": "b008/c001/p006.md"
                         }
                     ]
@@ -1299,37 +1299,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Expanded Jurisdiction \u2013 Thursday, October 10, 2053 \u2013 09:30",
+                            "part_title": "Part 1: The Expanded Jurisdiction \u2013 Thursday, October 10, 2053 \u2013 09:30",
                             "file_path": "b008/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Cornerstone \u2013 Tuesday, April 14, 2054 \u2013 08:00",
+                            "part_title": "Part 2: The Cornerstone \u2013 Tuesday, April 14, 2054 \u2013 08:00",
                             "file_path": "b008/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Biological Override \u2013 Friday, April 16, 2055 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 3: The Biological Override \u2013 Friday, April 16, 2055 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b008/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Anomalous Data \u2013 Tuesday, August 17, 2055 \u2013 13:00",
+                            "part_title": "Part 4: The Anomalous Data \u2013 Tuesday, August 17, 2055 \u2013 13:00",
                             "file_path": "b008/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Endocrine Protocol \u2013 Friday, October 20, 2056 \u2013 14:00 (Local Eden Time)",
+                            "part_title": "Part 5: The Endocrine Protocol \u2013 Friday, October 20, 2056 \u2013 14:00 (Local Eden Time)",
                             "file_path": "b008/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The First Ten \u2013 Monday, September 8, 2057 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 6: The First Ten \u2013 Monday, September 8, 2057 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b008/c002/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Sydney Protocol \u2013 Friday, October 24, 2057 \u2013 15:00 (Local Eden Time)",
+                            "part_title": "Part 7: The Sydney Protocol \u2013 Friday, October 24, 2057 \u2013 15:00 (Local Eden Time)",
                             "file_path": "b008/c002/p007.md"
                         }
                     ]
@@ -1340,32 +1340,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The First Breath \u2013 Friday, January 29, 2058 \u2013 09:00 (Local Eden Time)",
+                            "part_title": "Part 1: The First Breath \u2013 Friday, January 29, 2058 \u2013 09:00 (Local Eden Time)",
                             "file_path": "b008/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Command Staff Celebration \u2013 Friday, January 29, 2058 \u2013 10:30 (Local Eden Time)",
+                            "part_title": "Part 2: The Command Staff Celebration \u2013 Friday, January 29, 2058 \u2013 10:30 (Local Eden Time)",
                             "file_path": "b008/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Gestation Protocol \u2013 Friday, October 28, 2058 \u2013 18:00 (Local Eden Time)",
+                            "part_title": "Part 3: The Gestation Protocol \u2013 Friday, October 28, 2058 \u2013 18:00 (Local Eden Time)",
                             "file_path": "b008/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Arrival Day \u2013 Saturday, July 19, 2058 \u2013 06:00 (Local Eden Time)",
+                            "part_title": "Part 4: Arrival Day \u2013 Saturday, July 19, 2058 \u2013 06:00 (Local Eden Time)",
                             "file_path": "b008/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Roster Expansion \u2013 Saturday, July 19, 2058 \u2013 09:00",
+                            "part_title": "Part 5: The Roster Expansion \u2013 Saturday, July 19, 2058 \u2013 09:00",
                             "file_path": "b008/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Nursery Logistics \u2013 Friday, August 2, 2058 \u2013 14:00 (Local Eden Time)",
+                            "part_title": "Part 6: The Nursery Logistics \u2013 Friday, August 2, 2058 \u2013 14:00 (Local Eden Time)",
                             "file_path": "b008/c003/p006.md"
                         }
                     ]
@@ -1382,27 +1382,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Expanding Perimeter \u2013 Sunday, August 12, 2063 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 1: The Expanding Perimeter \u2013 Sunday, August 12, 2063 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b009/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Commander\u2019s Blessing \u2013 Sunday, August 12, 2063 \u2013 13:00 (Local Eden Time)",
+                            "part_title": "Part 2: The Commander\u2019s Blessing \u2013 Sunday, August 12, 2063 \u2013 13:00 (Local Eden Time)",
                             "file_path": "b009/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Lunar Embassy \u2013 Tuesday, September 4, 2063 \u2013 14:00 (Standard Galactic Time)",
+                            "part_title": "Part 3: The Lunar Embassy \u2013 Tuesday, September 4, 2063 \u2013 14:00 (Standard Galactic Time)",
                             "file_path": "b009/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Wild Sparrows \u2013 Sunday, August 12, 2063 \u2013 14:30 (Local Eden Time)",
+                            "part_title": "Part 4: The Wild Sparrows \u2013 Sunday, August 12, 2063 \u2013 14:30 (Local Eden Time)",
                             "file_path": "b009/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Breaking Ground \u2013 Friday, September 7, 2063 \u2013 09:00 (Standard Galactic Time)",
+                            "part_title": "Part 5: Breaking Ground \u2013 Friday, September 7, 2063 \u2013 09:00 (Standard Galactic Time)",
                             "file_path": "b009/c001/p005.md"
                         }
                     ]
@@ -1413,17 +1413,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Fleet Girl \u2013 Friday, July 10, 2066 \u2013 16:00 (Standard Galactic Time)",
+                            "part_title": "Part 1: The Fleet Girl \u2013 Friday, July 10, 2066 \u2013 16:00 (Standard Galactic Time)",
                             "file_path": "b009/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Gravity of Home \u2013 Friday, July 10, 2066 \u2013 17:30 (Local Eden Time)",
+                            "part_title": "Part 2: The Gravity of Home \u2013 Friday, July 10, 2066 \u2013 17:30 (Local Eden Time)",
                             "file_path": "b009/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Newport Fifty \u2013 Saturday, August 15, 2066 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 3: The Newport Fifty \u2013 Saturday, August 15, 2066 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b009/c002/p003.md"
                         }
                     ]
@@ -1434,17 +1434,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Great Chowder Rebellion \u2013 Tuesday, June 16, 2071 \u2013 12:30 (Local Eden Time)",
+                            "part_title": "Part 1: The Great Chowder Rebellion \u2013 Tuesday, June 16, 2071 \u2013 12:30 (Local Eden Time)",
                             "file_path": "b009/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Exception \u2013 Tuesday, June 16, 2071 \u2013 13:15 (Standard Galactic Time)",
+                            "part_title": "Part 2: The Exception \u2013 Tuesday, June 16, 2071 \u2013 13:15 (Standard Galactic Time)",
                             "file_path": "b009/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Golden Cage \u2013 Thursday, June 18, 2071 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 3: The Golden Cage \u2013 Thursday, June 18, 2071 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b009/c003/p003.md"
                         }
                     ]
@@ -1455,32 +1455,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Scavenger's Tale \u2013 Monday, June 22, 2071 \u2013 14:00 (Local Eden Time)",
+                            "part_title": "Part 1: The Scavenger\\'s Tale \u2013 Monday, June 22, 2071 \u2013 14:00 (Local Eden Time)",
                             "file_path": "b009/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Village Square \u2013 Monday, June 22, 2071 \u2013 15:00 (Local Eden Time)",
+                            "part_title": "Part 2: The Village Square \u2013 Monday, June 22, 2071 \u2013 15:00 (Local Eden Time)",
                             "file_path": "b009/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Collection Agency \u2013 Wednesday, June 17, 2071 \u2013 09:15 (Local Eden Time)",
+                            "part_title": "Part 3: The Collection Agency \u2013 Wednesday, June 17, 2071 \u2013 09:15 (Local Eden Time)",
                             "file_path": "b009/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Extraction of Toxicity \u2013 Wednesday, June 17, 2071 \u2013 20:00 (Local Eden Time)",
+                            "part_title": "Part 4: The Extraction of Toxicity \u2013 Wednesday, June 17, 2071 \u2013 20:00 (Local Eden Time)",
                             "file_path": "b009/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Detox \u2013 Wednesday, June 17, 2071 \u2013 21:30 (Local Eden Time)",
+                            "part_title": "Part 5: The Detox \u2013 Wednesday, June 17, 2071 \u2013 21:30 (Local Eden Time)",
                             "file_path": "b009/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Filter \u2013 Wednesday, June 17, 2071 \u2013 22:30 (Local Eden Time)",
+                            "part_title": "Part 6: The Filter \u2013 Wednesday, June 17, 2071 \u2013 22:30 (Local Eden Time)",
                             "file_path": "b009/c004/p006.md"
                         }
                     ]
@@ -1491,22 +1491,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Geometry of Peace \u2013 Thursday, June 25, 2071 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 1: The Geometry of Peace \u2013 Thursday, June 25, 2071 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b009/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Kinetic Variables \u2013 Thursday, June 25, 2071 \u2013 10:30 (Local Eden Time)",
+                            "part_title": "Part 2: The Kinetic Variables \u2013 Thursday, June 25, 2071 \u2013 10:30 (Local Eden Time)",
                             "file_path": "b009/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Shenandoah Curve \u2013 Thursday, June 25, 2071 \u2013 10:45 (Local Eden Time)",
+                            "part_title": "Part 3: The Shenandoah Curve \u2013 Thursday, June 25, 2071 \u2013 10:45 (Local Eden Time)",
                             "file_path": "b009/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Stewards \u2013 Thursday, June 25, 2071 \u2013 11:00 (Local Eden Time)",
+                            "part_title": "Part 4: The Stewards \u2013 Thursday, June 25, 2071 \u2013 11:00 (Local Eden Time)",
                             "file_path": "b009/c005/p004.md"
                         }
                     ]
@@ -1517,12 +1517,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Watch \u2013 Thursday, June 25, 2071 \u2013 11:15 (Local Eden Time)",
+                            "part_title": "Part 1: The Watch \u2013 Thursday, June 25, 2071 \u2013 11:15 (Local Eden Time)",
                             "file_path": "b009/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Age of Majority \u2013 Thursday, June 25, 2071 \u2013 13:00 (Local Eden Time)",
+                            "part_title": "Part 2: The Age of Majority \u2013 Thursday, June 25, 2071 \u2013 13:00 (Local Eden Time)",
                             "file_path": "b009/c006/p002.md"
                         }
                     ]
@@ -1533,22 +1533,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Logistics of the Wild \u2013 Friday, June 26, 2071 \u2013 10:00 (Local Eden Time)",
+                            "part_title": "Part 1: The Logistics of the Wild \u2013 Friday, June 26, 2071 \u2013 10:00 (Local Eden Time)",
                             "file_path": "b009/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Raising the Canvas \u2013 Friday, June 26, 2071 \u2013 13:00 (Local Eden Time)",
+                            "part_title": "Part 2: Raising the Canvas \u2013 Friday, June 26, 2071 \u2013 13:00 (Local Eden Time)",
                             "file_path": "b009/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The 16-Bit Horizon \u2013 Sunday, June 28, 2071 \u2013 09:00 (Local Eden Time)",
+                            "part_title": "Part 3: The 16-Bit Horizon \u2013 Sunday, June 28, 2071 \u2013 09:00 (Local Eden Time)",
                             "file_path": "b009/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Sydney Echo \u2013 Sunday, June 28, 2071 \u2013 11:30 (Local Eden Time)",
+                            "part_title": "Part 4: The Sydney Echo \u2013 Sunday, June 28, 2071 \u2013 11:30 (Local Eden Time)",
                             "file_path": "b009/c007/p004.md"
                         }
                     ]

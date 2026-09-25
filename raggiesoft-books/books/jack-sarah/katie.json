@@ -13,17 +13,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Discovery \ud83d\udc94",
+                            "part_title": "Part 1: The Discovery \ud83d\udc94",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Sanctuary",
+                            "part_title": "Part 2: The Sanctuary",
                             "file_path": "b001/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Alliance",
+                            "part_title": "Part 3: The Alliance",
                             "file_path": "b001/c001/p003.md"
                         }
                     ]
@@ -34,12 +34,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Hired at the Rec Center",
+                            "part_title": "Part 1: Hired at the Rec Center",
                             "file_path": "b001/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "An Official Welcome",
+                            "part_title": "Part 2: An Official Welcome",
                             "file_path": "b001/c002/p002.md"
                         }
                     ]
@@ -50,12 +50,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Tuesday, August 15th, 2006 Meeting \ud83d\uddd3\ufe0f",
+                            "part_title": "Part 1: The Tuesday, August 15th, 2006 Meeting \ud83d\uddd3\ufe0f",
                             "file_path": "b001/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The War is Over",
+                            "part_title": "Part 2: The War is Over",
                             "file_path": "b001/c003/p002.md"
                         }
                     ]
@@ -66,12 +66,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Tuesday in Hell",
+                            "part_title": "Part 1: A Tuesday in Hell",
                             "file_path": "b001/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Off the Clock",
+                            "part_title": "Part 2: Off the Clock",
                             "file_path": "b001/c004/p002.md"
                         }
                     ]
@@ -82,82 +82,82 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Unfamiliar Code",
+                            "part_title": "Part 1: The Unfamiliar Code",
                             "file_path": "b001/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Rescue",
+                            "part_title": "Part 2: The Rescue",
                             "file_path": "b001/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Code Orange \u2623\ufe0f",
+                            "part_title": "Part 3: Code Orange \u2623\ufe0f",
                             "file_path": "b001/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Advocate \ud83d\ude91",
+                            "part_title": "Part 4: The Advocate \ud83d\ude91",
                             "file_path": "b001/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Mission \ud83d\ude97",
+                            "part_title": "Part 5: The Mission \ud83d\ude97",
                             "file_path": "b001/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "A Safe Harbor \u2764\ufe0f\u200d\ud83e\ude79",
+                            "part_title": "Part 6: A Safe Harbor \u2764\ufe0f\u200d\ud83e\ude79",
                             "file_path": "b001/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "A Father's Understanding \ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
+                            "part_title": "Part 7: A Father\\'s Understanding \ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
                             "file_path": "b001/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Diagnosis \ud83e\udec1",
+                            "part_title": "Part 8: The Diagnosis \ud83e\udec1",
                             "file_path": "b001/c005/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Transfer \ud83d\udc6b",
+                            "part_title": "Part 9: The Transfer \ud83d\udc6b",
                             "file_path": "b001/c005/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "Settling In \ud83d\udecf\ufe0f",
+                            "part_title": "Part 10: Settling In \ud83d\udecf\ufe0f",
                             "file_path": "b001/c005/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Settling in for the Night \ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
+                            "part_title": "Part 11: Settling in for the Night \ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
                             "file_path": "b001/c005/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "The Long Night \ud83d\ude20",
+                            "part_title": "Part 12: The Long Night \ud83d\ude20",
                             "file_path": "b001/c005/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "The Turn \u23f0",
+                            "part_title": "Part 13: The Turn \u23f0",
                             "file_path": "b001/c005/p013.md"
                         },
                         {
                             "part_num": 14,
-                            "part_title": "The Confirmation \u30ec\u30f3\u30c8\u30b2\u30f3",
+                            "part_title": "Part 14: The Confirmation \u30ec\u30f3\u30c8\u30b2\u30f3",
                             "file_path": "b001/c005/p014.md"
                         },
                         {
                             "part_num": 15,
-                            "part_title": "The Longest Night \ud83c\udf05",
+                            "part_title": "Part 15: The Longest Night \ud83c\udf05",
                             "file_path": "b001/c005/p015.md"
                         },
                         {
                             "part_num": 16,
-                            "part_title": "The Conti-Vac \ud83d\udca7",
+                            "part_title": "Part 16: The Conti-Vac \ud83d\udca7",
                             "file_path": "b001/c005/p016.md"
                         }
                     ]
@@ -168,42 +168,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Morning Report",
+                            "part_title": "Part 1: The Morning Report",
                             "file_path": "b001/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Longest Morning \ud83e\udd5e",
+                            "part_title": "Part 2: The Longest Morning \ud83e\udd5e",
                             "file_path": "b001/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Breathing Treatment",
+                            "part_title": "Part 3: The Breathing Treatment",
                             "file_path": "b001/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "A Glimmer of Hope \ud83d\ude2e\u200d\ud83d\udca8",
+                            "part_title": "Part 4: A Glimmer of Hope \ud83d\ude2e\u200d\ud83d\udca8",
                             "file_path": "b001/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Fellowship of the Silver Gauntlet \ud83c\udfac",
+                            "part_title": "Part 5: The Fellowship of the Silver Gauntlet \ud83c\udfac",
                             "file_path": "b001/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "A Moment of Levity \ud83e\udd23",
+                            "part_title": "Part 6: A Moment of Levity \ud83e\udd23",
                             "file_path": "b001/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The King of Trash Duty \ud83d\uddf3\ufe0f",
+                            "part_title": "Part 7: The King of Trash Duty \ud83d\uddf3\ufe0f",
                             "file_path": "b001/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "A Taste of Victory \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
+                            "part_title": "Part 8: A Taste of Victory \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
                             "file_path": "b001/c006/p008.md"
                         }
                     ]
@@ -214,27 +214,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "An Unsteady Step \ud83d\ude1f",
+                            "part_title": "Part 1: An Unsteady Step \ud83d\ude1f",
                             "file_path": "b001/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Flare-Up",
+                            "part_title": "Part 2: A Flare-Up",
                             "file_path": "b001/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Turning of the Tide",
+                            "part_title": "Part 3: The Turning of the Tide",
                             "file_path": "b001/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Last Night\u00a0\ud83d\ude34",
+                            "part_title": "Part 4: The Last Night\u00a0\ud83d\ude34",
                             "file_path": "b001/c007/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Going Home",
+                            "part_title": "Part 5: Going Home",
                             "file_path": "b001/c007/p005.md"
                         }
                     ]
@@ -245,22 +245,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Homecoming",
+                            "part_title": "Part 1: Homecoming",
                             "file_path": "b001/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Good News",
+                            "part_title": "Part 2: The Good News",
                             "file_path": "b001/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Quiet Lunch\u00a0\ud83e\udd6a",
+                            "part_title": "Part 3: A Quiet Lunch\u00a0\ud83e\udd6a",
                             "file_path": "b001/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Promise of the Quad",
+                            "part_title": "Part 4: The Promise of the Quad",
                             "file_path": "b001/c008/p004.md"
                         }
                     ]
@@ -277,37 +277,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A New Beginning in Fredericksburg",
+                            "part_title": "Part 1: A New Beginning in Fredericksburg",
                             "file_path": "b002/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The First Night",
+                            "part_title": "Part 2: The First Night",
                             "file_path": "b002/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Journey In",
+                            "part_title": "Part 3: The Journey In",
                             "file_path": "b002/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Sarah\u2019s Incident",
+                            "part_title": "Part 4: Sarah\u2019s Incident",
                             "file_path": "b002/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Tending to Sarah\u2019s Needs & Completing Their Vacation",
+                            "part_title": "Part 5: Tending to Sarah\u2019s Needs & Completing Their Vacation",
                             "file_path": "b002/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "A New Level of Trust",
+                            "part_title": "Part 6: A New Level of Trust",
                             "file_path": "b002/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "A Trip Made Easier",
+                            "part_title": "Part 7: A Trip Made Easier",
                             "file_path": "b002/c001/p007.md"
                         }
                     ]
@@ -318,7 +318,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Welcome Home to a Twisted Ankle",
+                            "part_title": "Part 1: Welcome Home to a Twisted Ankle",
                             "file_path": "b002/c002/p001.md"
                         }
                     ]
@@ -329,7 +329,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Tent in a Backyard",
+                            "part_title": "Part 1: Tent in a Backyard",
                             "file_path": "b002/c003/p001.md"
                         }
                     ]
@@ -340,37 +340,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "University Open House",
+                            "part_title": "Part 1: University Open House",
                             "file_path": "b002/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Tour",
+                            "part_title": "Part 2: The Tour",
                             "file_path": "b002/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "An Unexpected Guide",
+                            "part_title": "Part 3: An Unexpected Guide",
                             "file_path": "b002/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Conversation Shifts",
+                            "part_title": "Part 4: The Conversation Shifts",
                             "file_path": "b002/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Lunch in the Lion's Den",
+                            "part_title": "Part 5: Lunch in the Lion\\'s Den",
                             "file_path": "b002/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "A Private Tour",
+                            "part_title": "Part 6: A Private Tour",
                             "file_path": "b002/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Move",
+                            "part_title": "Part 7: The Move",
                             "file_path": "b002/c004/p007.md"
                         }
                     ]
@@ -381,32 +381,32 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Cousin's Rescue",
+                            "part_title": "Part 1: A Cousin\\'s Rescue",
                             "file_path": "b002/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Rec Center Sanctuary",
+                            "part_title": "Part 2: A Rec Center Sanctuary",
                             "file_path": "b002/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Closing Down a Rec Center",
+                            "part_title": "Part 3: Closing Down a Rec Center",
                             "file_path": "b002/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Conversations on a Ride Home",
+                            "part_title": "Part 4: Conversations on a Ride Home",
                             "file_path": "b002/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "A Safe Harbor",
+                            "part_title": "Part 5: A Safe Harbor",
                             "file_path": "b002/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Coffee Date",
+                            "part_title": "Part 6: Coffee Date",
                             "file_path": "b002/c005/p006.md"
                         }
                     ]
@@ -417,42 +417,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "An Unassuming Dinner",
+                            "part_title": "Part 1: An Unassuming Dinner",
                             "file_path": "b002/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Dinner with Robyn and Delores",
+                            "part_title": "Part 2: Dinner with Robyn and Delores",
                             "file_path": "b002/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Interrogation",
+                            "part_title": "Part 3: The Interrogation",
                             "file_path": "b002/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Manipulation",
+                            "part_title": "Part 4: The Manipulation",
                             "file_path": "b002/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Escape and the Hook",
+                            "part_title": "Part 5: The Escape and the Hook",
                             "file_path": "b002/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Debrief",
+                            "part_title": "Part 6: The Debrief",
                             "file_path": "b002/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "A Theory is Formed",
+                            "part_title": "Part 7: A Theory is Formed",
                             "file_path": "b002/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The New Normal Begins",
+                            "part_title": "Part 8: The New Normal Begins",
                             "file_path": "b002/c006/p008.md"
                         }
                     ]
@@ -463,12 +463,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Mission for the Sister",
+                            "part_title": "Part 1: A Mission for the Sister",
                             "file_path": "b002/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Taste of Twin Magic",
+                            "part_title": "Part 2: A Taste of Twin Magic",
                             "file_path": "b002/c007/p002.md"
                         }
                     ]
@@ -479,52 +479,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Day of Dread and Duty",
+                            "part_title": "Part 1: A Day of Dread and Duty",
                             "file_path": "b002/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Sunday Morning at Fairlawn",
+                            "part_title": "Part 2: A Sunday Morning at Fairlawn",
                             "file_path": "b002/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Tale of Two Siblings",
+                            "part_title": "Part 3: A Tale of Two Siblings",
                             "file_path": "b002/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "A Shared Break",
+                            "part_title": "Part 4: A Shared Break",
                             "file_path": "b002/c008/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Trial by Fecal Contamination",
+                            "part_title": "Part 5: Trial by Fecal Contamination",
                             "file_path": "b002/c008/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Longest Shift",
+                            "part_title": "Part 6: The Longest Shift",
                             "file_path": "b002/c008/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Peking Duck Inn",
+                            "part_title": "Part 7: Peking Duck Inn",
                             "file_path": "b002/c008/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "A Dinner on Thin Ice",
+                            "part_title": "Part 8: A Dinner on Thin Ice",
                             "file_path": "b002/c008/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "The Aftermath",
+                            "part_title": "Part 9: The Aftermath",
                             "file_path": "b002/c008/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "A Safe Harbor at Home",
+                            "part_title": "Part 10: A Safe Harbor at Home",
                             "file_path": "b002/c008/p010.md"
                         }
                     ]
@@ -535,17 +535,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Morning Shrouded in Fog \ud83e\udd63",
+                            "part_title": "Part 1: A Morning Shrouded in Fog \ud83e\udd63",
                             "file_path": "b002/c009/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Day of Confusion",
+                            "part_title": "Part 2: A Day of Confusion",
                             "file_path": "b002/c009/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Misfired Warning",
+                            "part_title": "Part 3: A Misfired Warning",
                             "file_path": "b002/c009/p003.md"
                         }
                     ]
@@ -556,22 +556,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Off to Work",
+                            "part_title": "Part 1: Off to Work",
                             "file_path": "b002/c010/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Morning at Fairlawn",
+                            "part_title": "Part 2: Morning at Fairlawn",
                             "file_path": "b002/c010/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "First Response",
+                            "part_title": "Part 3: First Response",
                             "file_path": "b002/c010/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The Mobile Emergency Room",
+                            "part_title": "Part 4: The Mobile Emergency Room",
                             "file_path": "b002/c010/p004.md"
                         }
                     ]
@@ -588,42 +588,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Arrival at the Emergency Room",
+                            "part_title": "Part 1: Arrival at the Emergency Room",
                             "file_path": "b003/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Transfer to Main Hospital",
+                            "part_title": "Part 2: Transfer to Main Hospital",
                             "file_path": "b003/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Rooming It at the Hospital",
+                            "part_title": "Part 3: Rooming It at the Hospital",
                             "file_path": "b003/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Back in the Room",
+                            "part_title": "Part 4: Back in the Room",
                             "file_path": "b003/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "A Quiet Vigil",
+                            "part_title": "Part 5: A Quiet Vigil",
                             "file_path": "b003/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Family Visit",
+                            "part_title": "Part 6: The Family Visit",
                             "file_path": "b003/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Night Before Surgery",
+                            "part_title": "Part 7: The Night Before Surgery",
                             "file_path": "b003/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The Wait for Dawn",
+                            "part_title": "Part 8: The Wait for Dawn",
                             "file_path": "b003/c001/p008.md"
                         }
                     ]
@@ -634,27 +634,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Last Meal",
+                            "part_title": "Part 1: The Last Meal",
                             "file_path": "b003/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Journey to the OR",
+                            "part_title": "Part 2: The Journey to the OR",
                             "file_path": "b003/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Failed Procedure",
+                            "part_title": "Part 3: A Failed Procedure",
                             "file_path": "b003/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "A Veteran's Reassurance",
+                            "part_title": "Part 4: A Veteran\\'s Reassurance",
                             "file_path": "b003/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "The Transfer",
+                            "part_title": "Part 5: The Transfer",
                             "file_path": "b003/c002/p005.md"
                         }
                     ]
@@ -665,17 +665,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Serious Health Discussion",
+                            "part_title": "Part 1: Serious Health Discussion",
                             "file_path": "b003/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Off to the Operating Room",
+                            "part_title": "Part 2: Off to the Operating Room",
                             "file_path": "b003/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Waking Up in the Intensive Care Unit",
+                            "part_title": "Part 3: Waking Up in the Intensive Care Unit",
                             "file_path": "b003/c003/p003.md"
                         }
                     ]
@@ -686,12 +686,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Rooming with Sarah in the Hospital",
+                            "part_title": "Part 1: Rooming with Sarah in the Hospital",
                             "file_path": "b003/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Bed Time with Sarah",
+                            "part_title": "Part 2: Bed Time with Sarah",
                             "file_path": "b003/c004/p002.md"
                         }
                     ]
@@ -702,52 +702,52 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "A Visitor in the Storm",
+                            "part_title": "Part 1: A Visitor in the Storm",
                             "file_path": "b003/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The First Night",
+                            "part_title": "Part 2: The First Night",
                             "file_path": "b003/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The First Full Day",
+                            "part_title": "Part 3: The First Full Day",
                             "file_path": "b003/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "The First Walk",
+                            "part_title": "Part 4: The First Walk",
                             "file_path": "b003/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "A Call Home",
+                            "part_title": "Part 5: A Call Home",
                             "file_path": "b003/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "The Anthem of Aethel \ud83c\udfb6",
+                            "part_title": "Part 6: The Anthem of Aethel \ud83c\udfb6",
                             "file_path": "b003/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "The Rec Center Rallies",
+                            "part_title": "Part 7: The Rec Center Rallies",
                             "file_path": "b003/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "A Mentor's Visit",
+                            "part_title": "Part 8: A Mentor\\'s Visit",
                             "file_path": "b003/c005/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "An Unexpected Goodbye",
+                            "part_title": "Part 9: An Unexpected Goodbye",
                             "file_path": "b003/c005/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "A New Home",
+                            "part_title": "Part 10: A New Home",
                             "file_path": "b003/c005/p010.md"
                         }
                     ]
@@ -758,67 +758,67 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The New House",
+                            "part_title": "Part 1: The New House",
                             "file_path": "b003/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "First Night at the House",
+                            "part_title": "Part 2: First Night at the House",
                             "file_path": "b003/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Taste of Home",
+                            "part_title": "Part 3: A Taste of Home",
                             "file_path": "b003/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "A Visit to a Second Home",
+                            "part_title": "Part 4: A Visit to a Second Home",
                             "file_path": "b003/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "A Final Encounter",
+                            "part_title": "Part 5: A Final Encounter",
                             "file_path": "b003/c006/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Building a Sanctuary",
+                            "part_title": "Part 6: Building a Sanctuary",
                             "file_path": "b003/c006/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Room Service",
+                            "part_title": "Part 7: Room Service",
                             "file_path": "b003/c006/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "The First Tour",
+                            "part_title": "Part 8: The First Tour",
                             "file_path": "b003/c006/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "A Cheesy Sanctuary",
+                            "part_title": "Part 9: A Cheesy Sanctuary",
                             "file_path": "b003/c006/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "A Collector's Edition",
+                            "part_title": "Part 10: A Collector\\'s Edition",
                             "file_path": "b003/c006/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Dinner and Bonus Features",
+                            "part_title": "Part 11: Dinner and Bonus Features",
                             "file_path": "b003/c006/p011.md"
                         },
                         {
                             "part_num": 12,
-                            "part_title": "A Sanctuary Decorated",
+                            "part_title": "Part 12: A Sanctuary Decorated",
                             "file_path": "b003/c006/p012.md"
                         },
                         {
                             "part_num": 13,
-                            "part_title": "The Biological Deadline",
+                            "part_title": "Part 13: The Biological Deadline",
                             "file_path": "b003/c006/p013.md"
                         }
                     ]
@@ -829,22 +829,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Windsor Woods Realization",
+                            "part_title": "Part 1: The Windsor Woods Realization",
                             "file_path": "b003/c007/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "The Long Walk Home",
+                            "part_title": "Part 2: The Long Walk Home",
                             "file_path": "b003/c007/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "The Sister-Shield",
+                            "part_title": "Part 3: The Sister-Shield",
                             "file_path": "b003/c007/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "A New Kind of Housebound",
+                            "part_title": "Part 4: A New Kind of Housebound",
                             "file_path": "b003/c007/p004.md"
                         }
                     ]
@@ -855,17 +855,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Midnight Showing",
+                            "part_title": "Part 1: The Midnight Showing",
                             "file_path": "b003/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "A Delayed Rejection",
+                            "part_title": "Part 2: A Delayed Rejection",
                             "file_path": "b003/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "A Protector's Concern",
+                            "part_title": "Part 3: A Protector\\'s Concern",
                             "file_path": "b003/c008/p003.md"
                         }
                     ]
