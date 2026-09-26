@@ -1,0 +1,45 @@
+{
+    "series_title": "The Stardust Engine",
+    "series_description": "The official history, archives, and lore of The Stardust Engine.",
+    "author": "Engine Room Records",
+    "status": "Ongoing",
+    "books": [
+        {
+            "book_num": 1,
+            "book_title": "Book 1: CPI & The Forgers",
+            "chapters": []
+        },
+        {
+            "book_num": 2,
+            "book_title": "Book 2: The Crash of '90",
+            "chapters": []
+        },
+        {
+            "book_num": 3,
+            "book_title": "Book 3: The Friction Catastrophe",
+            "chapters": []
+        },
+        {
+            "book_num": 4,
+            "book_title": "Book 4: Ad Astra",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: Escape Velocity &ndash; 1995",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Magnum Opus &ndash; 12:00 PM",
+                            "file_path": "b004/c001/p001.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 5,
+            "book_title": "Book 5: The $150M Refusal",
+            "chapters": []
+        }
+    ]
+}

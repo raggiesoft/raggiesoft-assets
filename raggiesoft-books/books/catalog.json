@@ -182,5 +182,13 @@
         "image": "",
         "first_route": null,
         "folder": "samantha"
+    },
+    {
+        "slug": "stardust-engine",
+        "title": "The Stardust Engine",
+        "description": "The official history, archives, and lore of The Stardust Engine.",
+        "image": "",
+        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/part-1-the-magnum-opus-ndash-12-00-pm",
+        "folder": "stardust-engine"
     }
 ]
