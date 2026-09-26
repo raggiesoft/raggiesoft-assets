@@ -1,0 +1,713 @@
+/* Stardust Engine Theme: raggiesoft-corporate */
+
+/* --- root.css --- */
+/* root-raggiesoft.css */
+/* RaggieSoft Media - Frutiger Aero / Dark Aero Identity */
+
+body.theme-raggiesoft-corporate {
+    /* --- Aero Brand Palette --- */
+    --mpr-blue-500: #0082E6;   /* Classic Glossy Ocean Blue */
+    --mpr-blue-600: #005BB5;   /* Deep Water Hover State */
+    --mpr-cyan-400: #00E5FF;   /* Dark Aero Neon Cyan */
+    --mpr-grass-500: #38E54D;  /* Bliss Wallpaper Green */
+    
+    /* --- Utility Bases (Global Defaults) --- */
+    --rs-white: #ffffff;
+    --rs-white-rgb: 255, 255, 255;
+    --rs-black: #000000;
+    --rs-black-rgb: 0, 0, 0;
+}
+
+/* --- LIGHT MODE (Frutiger Aero) --- */
+:root,
+[data-bs-theme="light"] {
+    --rs-primary: var(--mpr-blue-500);
+    --rs-primary-rgb: 0, 130, 230;
+    --rs-secondary: #5F7A8C; /* Slightly bluer slate for aero feel */
+    --rs-secondary-rgb: 95, 122, 140;
+    --rs-success: var(--mpr-grass-500);
+    --rs-success-rgb: 56, 229, 77;
+    --rs-info: #00C3FF;
+    --rs-info-rgb: 0, 195, 255;
+    --rs-warning: #FFB300;
+    --rs-warning-rgb: 255, 179, 0;
+    --rs-danger: #E63946;
+    --rs-danger-rgb: 230, 57, 70;
+    --rs-light: #F0F6FA; /* Very light icy/watery white */
+    --rs-dark: #101E2B;
+    
+    --rs-body-bg: #F4F9FD; /* Cloud-like off-white */
+    --rs-body-color: #1A2A3A;
+    --rs-body-bg-rgb: 244, 249, 253;
+    --rs-body-color-rgb: 26, 42, 58;
+
+    /* Semantic Fixes */
+    --rs-secondary-bg: #E3EDF6;
+    --rs-tertiary-bg: #F0F6FA;
+    --rs-border-color: #CBE0F0;
+    
+    /* Links */
+    --rs-link-color: var(--mpr-blue-500);
+    --rs-link-hover-color: var(--mpr-blue-600);
+
+    /* --- CUSTOM AERO TOKENS (For Header/Footer/Buttons) --- */
+    --raggie-glass-bg: rgba(255, 255, 255, 0.45);
+    --raggie-glass-border: rgba(255, 255, 255, 0.8);
+    --raggie-glass-shadow: 0 8px 32px rgba(0, 85, 150, 0.1);
+    --raggie-gloss-highlight: rgba(255, 255, 255, 0.6);
+}
+
+/* --- DARK MODE (Dark Aero / Bioluminescence) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-raggiesoft-corporate {
+        --rs-body-bg: #070B14; /* Deep void space */
+        --rs-body-color: #E2F1FF; /* Starlight white */
+        --rs-body-bg-rgb: 7, 11, 20;
+        --rs-body-color-rgb: 226, 241, 255;
+    }
+}
+
+[data-bs-theme="dark"] {
+    /* Core Background & Text */
+    --rs-body-bg: #070B14; 
+    --rs-body-color: #E2F1FF;
+    --rs-body-bg-rgb: 7, 11, 20;
+    --rs-body-color-rgb: 226, 241, 255;
+
+    /* Primary Overrides - Pushing into Neon */
+    --rs-primary: var(--mpr-cyan-400); 
+    --rs-primary-rgb: 0, 229, 255;
+    --rs-secondary: #859DB3; 
+    --rs-secondary-rgb: 133, 157, 179;
+    
+    /* Dark Mode Semantic Fixes */
+    --rs-secondary-bg: #101926;
+    --rs-tertiary-bg: #0A111C;
+    --rs-border-color: #1A2B40;
+
+    /* Links */
+    --rs-link-color: var(--mpr-cyan-400); 
+    --rs-link-hover-color: #ffffff;
+
+    /* --- CUSTOM DARK AERO TOKENS --- */
+    --raggie-glass-bg: rgba(7, 11, 20, 0.65);
+    --raggie-glass-border: rgba(0, 229, 255, 0.25); /* Cyan specular highlight */
+    --raggie-glass-shadow: 0 8px 32px rgba(0, 229, 255, 0.08);
+    --raggie-gloss-highlight: rgba(0, 229, 255, 0.2);
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* bootstrap-header.css (Frutiger Aero / Dark Aero Glass Edition) */
+
+/* 1. Navbar Base - The Frosted Glass Pane */
+header .navbar {
+    /* Drop the solid background and pull the translucent variables from root.css */
+    background-color: var(--raggie-glass-bg) !important;
+    
+    /* The signature Aero blur and saturation effect */
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%); /* Safari support */
+    
+    /* The glossy specular highlight on the bottom edge */
+    border-bottom: 1px solid var(--raggie-glass-border) !important;
+    
+    /* Soft, glowing drop shadow to separate it from the page */
+    box-shadow: var(--raggie-glass-shadow);
+    
+    transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 2. Text Colors */
+header .navbar-brand {
+    color: var(--rs-body-color) !important;
+    /* Slight white text shadow for that glossy depth */
+    text-shadow: 0 1px 2px rgba(255, 255, 255, 0.3); 
+}
+
+[data-bs-theme="dark"] header .navbar-brand {
+    /* Glowing neon cyan text shadow for Dark Aero */
+    text-shadow: 0 1px 5px rgba(0, 229, 255, 0.4);
+}
+
+header .nav-link {
+    color: var(--rs-secondary) !important;
+    font-weight: 500;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--rs-primary) !important;
+}
+
+/* Add a subtle bioluminescent glow on hover in dark mode */
+[data-bs-theme="dark"] header .nav-link:hover,
+[data-bs-theme="dark"] header .nav-link.active {
+    text-shadow: 0 0 8px var(--rs-primary);
+}
+
+/* 3. Hamburger Menu (Adapted for Glass) */
+header wa-icon-button[name=\"bars\"] {
+    /* Give the button its own tiny glass housing */
+    border: 1px solid var(--raggie-glass-border) !important;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px; /* Softer, pill-like edges */
+}
+
+header wa-icon-button[name=\"bars\"] .hamburger-icon span {
+    background: var(--rs-body-color) !important;
+    box-shadow: 0 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+/* 4. Dropdowns - Extending the Glass */
+header wa-dropdown::part(panel) {
+    background-color: var(--raggie-glass-bg) !important;
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%);
+    border: 1px solid var(--raggie-glass-border) !important;
+    border-radius: 8px;
+    box-shadow: var(--raggie-glass-shadow);
+}
+
+header wa-dropdown-item {
+    color: var(--rs-body-color) !important;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+header wa-dropdown-item:hover {
+    /* A glossy highlight instead of a flat background color */
+    background-color: var(--raggie-gloss-highlight) !important; 
+    color: var(--rs-primary) !important;
+}
+
+/* 5. CORPORATE LOGO MAGIC */
+header .navbar-brand-corporate-img {
+    mix-blend-mode: multiply;
+    /* Helps it pop off the blurred background */
+    filter: drop-shadow(0 2px 4px rgba(255, 255, 255, 0.5));
+}
+
+[data-bs-theme="dark"] header .navbar-brand-corporate-img {
+    mix-blend-mode: normal;
+    /* Drops the boxy white border from your original file and replaces it with a neon glow */
+    filter: invert(1) drop-shadow(0 0 8px var(--mpr-cyan-400));
+    border: none; 
+}
+
+/* --- footer.css --- */
+/* bootstrap-footer.css (Frutiger Aero / Dark Aero Glass Edition) */
+
+/* 1. Footer Base - The Bottom Glass Pane */
+footer {
+    /* Replace the solid background with our translucent variables */
+    background-color: var(--raggie-glass-bg) !important;
+    
+    /* The signature Aero blur and saturation effect */
+    backdrop-filter: blur(16px) saturate(120%);
+    -webkit-backdrop-filter: blur(16px) saturate(120%); /* Safari support */
+    
+    /* Glossy specular highlight on the top edge */
+    border-top: 1px solid var(--raggie-glass-border) !important;
+    
+    /* Soft shadow casting UPWARDS into the page content */
+    box-shadow: 0 -8px 32px rgba(0, 85, 150, 0.08); 
+    
+    color: var(--rs-body-color) !important;
+    position: relative; /* Ensures the shadow renders correctly over body content */
+    z-index: 10;
+}
+
+[data-bs-theme="dark"] footer {
+    /* Subtle neon cyan upward shadow for Dark Aero */
+    box-shadow: 0 -8px 32px rgba(0, 229, 255, 0.05);
+}
+
+/* 2. Fix Muted Text */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--rs-secondary) !important; 
+}
+
+/* 3. Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--rs-link-color) !important;
+    transition: color 0.2s ease, text-shadow 0.2s ease;
+    text-decoration: none; /* Cleaner look for the footer */
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--rs-link-hover-color) !important;
+    text-decoration: underline;
+}
+
+/* Add a subtle bioluminescent glow on hover in dark mode */
+[data-bs-theme="dark"] footer a:hover,
+[data-bs-theme="dark"] footer .link-secondary:hover {
+    text-shadow: 0 0 8px var(--mpr-cyan-400);
+}
+
+/* 4. Konami Modal (Aero Glass Easter Egg) */
+#konamiModal wa-dialog::part(panel) {
+    /* Make the modal itself a heavy, frosted glass pane */
+    background-color: var(--raggie-glass-bg) !important;
+    backdrop-filter: blur(24px) saturate(150%);
+    -webkit-backdrop-filter: blur(24px) saturate(150%);
+    
+    /* Outer border and inner glowing highlight */
+    border: 1px solid var(--raggie-glass-border) !important;
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.3), inset 0 1px 0 var(--raggie-gloss-highlight);
+    
+    border-radius: 12px; /* Slightly softer corners */
+    color: var(--rs-body-color) !important;
+}
+
+/* Glow the modal border in Dark Mode */
+[data-bs-theme="dark"] #konamiModal wa-dialog::part(panel) {
+    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5), inset 0 1px 0 var(--raggie-gloss-highlight), 0 0 20px rgba(0, 229, 255, 0.15);
+}
+
+/* --- extras.css --- */
+/* ==========================================================================
+   RAGGIESOFT AERO EXTRAS
+   Purpose: Frutiger Aero / Dark Aero global utilities and components.
+   ========================================================================== */
+
+/* --- 1. Global Layout & Selection Fixes --- */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* The classic bright blue Aero selection color */
+::selection {
+    background: rgba(0, 130, 230, 0.4); /* var(--mpr-blue-500) with transparency */
+    color: inherit;
+}
+[data-bs-theme="dark"] ::selection {
+    background: rgba(0, 229, 255, 0.4); /* var(--mpr-cyan-400) */
+}
+
+/* --- 2. Aero Custom Scrollbar --- */
+/* Replacing the flat modern scrollbar with a glossy, pill-like track */
+::-webkit-scrollbar {
+    width: 14px;
+}
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+    border-left: 1px solid var(--rs-border-color);
+}
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #b0c4de 0%, #8fa8c7 100%);
+    border-radius: 10px;
+    border: 3px solid transparent; /* Creates padding around the thumb */
+    background-clip: padding-box;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(90deg, #8fa8c7 0%, #6d8ba9 100%);
+    background-clip: padding-box;
+}
+
+[data-bs-theme="dark"] ::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.3);
+}
+[data-bs-theme="dark"] ::-webkit-scrollbar-thumb {
+    background: linear-gradient(90deg, #1A2B40 0%, #2A4365 100%);
+    background-clip: padding-box;
+}
+[data-bs-theme="dark"] ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(90deg, #00A3CC 0%, #00E5FF 100%); /* Neon cyan hover */
+    background-clip: padding-box;
+}
+
+/* --- 3. Text Glows & CRT Bloom --- */
+.text-glow-primary {
+    /* Upgraded from a flat gradient clip to a true CRT/Aero bloom */
+    color: var(--rs-primary);
+    text-shadow: 0 0 12px rgba(0, 130, 230, 0.5);
+}
+[data-bs-theme="dark"] .text-glow-primary {
+    text-shadow: 0 0 15px rgba(0, 229, 255, 0.7), 0 0 30px rgba(0, 229, 255, 0.3);
+}
+
+/* --- 4. The Aero HUD System (Volumetric Glass Panels) --- */
+
+/* Base HUD styling for all panels */
+.bg-hud-base {
+    backdrop-filter: blur(8px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05), inset 0 1px 0 rgba(255, 255, 255, 0.5);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Blue (Info/Primary) */
+.bg-hud-blue {
+    background: linear-gradient(135deg, rgba(0, 130, 230, 0.1) 0%, rgba(0, 130, 230, 0.02) 100%);
+    border: 1px solid rgba(0, 130, 230, 0.3);
+    border-left: 4px solid var(--mpr-blue-500);
+    color: var(--rs-body-color);
+}
+[data-bs-theme="dark"] .bg-hud-blue {
+    background: linear-gradient(135deg, rgba(0, 229, 255, 0.1) 0%, rgba(0, 229, 255, 0.02) 100%);
+    border: 1px solid rgba(0, 229, 255, 0.2);
+    border-left: 4px solid var(--mpr-cyan-400);
+    box-shadow: inset 0 1px 0 rgba(0, 229, 255, 0.2), 0 0 20px rgba(0, 229, 255, 0.05);
+}
+
+/* Green (Success/Nature) */
+.bg-hud-green {
+    background: linear-gradient(135deg, rgba(56, 229, 77, 0.1) 0%, rgba(56, 229, 77, 0.02) 100%);
+    border: 1px solid rgba(56, 229, 77, 0.3);
+    border-left: 4px solid var(--mpr-grass-500);
+    color: var(--rs-body-color);
+}
+[data-bs-theme="dark"] .bg-hud-green {
+    background: linear-gradient(135deg, rgba(56, 229, 77, 0.15) 0%, rgba(56, 229, 77, 0.02) 100%);
+    border: 1px solid rgba(56, 229, 77, 0.2);
+    border-left: 4px solid var(--mpr-grass-500);
+}
+
+/* Orange/Warning */
+.bg-hud-orange, .bg-hud-warning {
+    background: linear-gradient(135deg, rgba(255, 179, 0, 0.1) 0%, rgba(255, 179, 0, 0.02) 100%);
+    border: 1px solid rgba(255, 179, 0, 0.3);
+    border-left: 4px solid var(--rs-warning);
+    color: var(--rs-body-color);
+}
+
+/* Red/Danger */
+.bg-hud-red {
+    background: linear-gradient(135deg, rgba(230, 57, 70, 0.1) 0%, rgba(230, 57, 70, 0.02) 100%);
+    border: 1px solid rgba(230, 57, 70, 0.3);
+    border-left: 4px solid var(--rs-danger);
+    color: var(--rs-body-color);
+}
+
+/* Ensure HUD panels apply the base structural styling */
+.bg-hud-blue, .bg-hud-green, .bg-hud-orange, .bg-hud-warning, .bg-hud-red {
+    @extend .bg-hud-base; /* If using SASS, otherwise apply classes together in HTML */
+    backdrop-filter: blur(8px) saturate(120%);
+    -webkit-backdrop-filter: blur(8px) saturate(120%);
+    border-radius: 12px;
+}
+
+/* --- 5. Font Awesome Duotone Aero Fix --- */
+.fa-duotone {
+    --fa-primary-color: var(--rs-primary);
+    --fa-secondary-color: var(--rs-secondary);
+    --fa-secondary-opacity: 0.4;
+}
+
+/* --- 6. Utility Overrides --- */
+.img-white {
+    filter: brightness(0) invert(1);
+}
+.logo-white-glow {
+    filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.7));
+}
+[data-bs-theme="dark"] .logo-white-glow {
+    filter: brightness(0) invert(1) drop-shadow(0 0 12px var(--mpr-cyan-400));
+}
+
+/* --- 7. THE KONAMI EASTER EGG (Aero Pulse) --- */
+/* Apply this class via JavaScript when the code is entered */
+.konami-activated {
+    animation: aero-pulse 3s infinite alternate ease-in-out;
+}
+
+@keyframes aero-pulse {
+    0% {
+        box-shadow: 0 0 10px rgba(0, 130, 230, 0.2), inset 0 0 20px rgba(255, 255, 255, 0.2);
+    }
+    100% {
+        box-shadow: 0 0 40px rgba(0, 130, 230, 0.8), inset 0 0 50px rgba(255, 255, 255, 0.6);
+    }
+}
+
+[data-bs-theme="dark"] .konami-activated {
+    animation: dark-aero-pulse 3s infinite alternate ease-in-out;
+}
+
+@keyframes dark-aero-pulse {
+    0% {
+        box-shadow: 0 0 10px rgba(0, 229, 255, 0.2), inset 0 0 10px rgba(0, 229, 255, 0.1);
+    }
+    100% {
+        box-shadow: 0 0 50px rgba(0, 229, 255, 1), inset 0 0 30px rgba(0, 229, 255, 0.8);
+    }
+}
+
+/* Theme-Aware Image Swapping Utilities */
+.theme-img-dark { 
+    display: none; 
+}
+
+[data-bs-theme="dark"] .theme-img-light { 
+    display: none; 
+}
+
+[data-bs-theme="dark"] .theme-img-dark { 
+    display: block; 
+}
+
+/* --- CONSOLIDATED AERO HERO & COMPONENTS --- */
+.aero-hero {
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px solid var(--raggie-glass-border);
+    box-shadow: 0 8px 32px rgba(0, 130, 230, 0.1);
+    background: linear-gradient(135deg, rgba(0, 130, 230, 0.05) 0%, rgba(0, 130, 230, 0.01) 100%);
+    color: var(--rs-body-color);
+    z-index: 1;
+}
+
+[data-bs-theme="dark"] .aero-hero {
+    background: linear-gradient(135deg, rgba(0, 229, 255, 0.05) 0%, rgba(0, 229, 255, 0.01) 100%);
+    box-shadow: 0 8px 32px rgba(0, 229, 255, 0.05);
+}
+
+.aero-hero::before {
+    content: '';
+    position: absolute;
+    top: -50%; left: -50%; width: 200%; height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.1) 0%, transparent 60%);
+    background-image: url('https://assets.raggiesoft.com/raggiesoft-corporate/images/hero/frutiger-aero.jpg');
+    pointer-events: none;
+    z-index: 0;
+    animation: aero-pan 45s linear infinite alternate;
+}
+
+[data-bs-theme="dark"] .aero-hero::before {
+    background: radial-gradient(circle, rgba(0,229,255,0.05) 0%, transparent 60%);
+    background-image: url('https://assets.raggiesoft.com/raggiesoft-corporate/images/hero/dark-aero.jpg');
+}
+
+/* WCAG Fix: Opaque blur overlay to ensure text/buttons have high contrast against the image */
+.aero-hero::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.85) 0%, rgba(255,255,255,0.95) 100%);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    z-index: -1;
+}
+
+[data-bs-theme="dark"] .aero-hero::after {
+    background: linear-gradient(135deg, rgba(7, 11, 20, 0.85) 0%, rgba(7, 11, 20, 0.95) 100%);
+}
+
+@keyframes aero-pan {
+    0% { transform: scale(1) translate(0, 0); }
+    100% { transform: scale(1.1) translate(-2%, -2%); }
+}
+
+.aero-content { 
+    position: relative; 
+    z-index: 1; 
+}
+
+/* Tactile Hover Lift for Aero Cards */
+.hover-lift {
+    transition: transform 0.2s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.2s ease;
+}
+.hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0, 85, 150, 0.15), inset 0 1px 0 var(--raggie-gloss-highlight) !important;
+}
+[data-bs-theme="dark"] .hover-lift:hover {
+    box-shadow: 0 12px 28px rgba(0, 229, 255, 0.15), inset 0 1px 0 var(--raggie-gloss-highlight) !important;
+}
+
+/* Aero Card Images */
+.aero-card-img-container {
+    height: 160px;
+    position: relative;
+    overflow: hidden;
+    border-bottom: 1px solid var(--raggie-glass-border);
+}
+.aero-card-img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+.hover-lift:hover .aero-card-img-container img {
+    transform: scale(1.05);
+}
+.aero-card-img-overlay {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(to bottom, transparent 50%, rgba(0,0,0,0.6) 100%);
+}
+
+/* WCAG Compliant Glass Buttons */
+.btn-glass {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid var(--raggie-glass-border);
+    color: var(--rs-body-color);
+}
+.btn-glass:hover, .btn-glass:focus {
+    background: rgba(255, 255, 255, 1);
+    color: var(--rs-primary);
+}
+[data-bs-theme="dark"] .btn-glass {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.1);
+}
+[data-bs-theme="dark"] .btn-glass:hover, [data-bs-theme="dark"] .btn-glass:focus {
+    background: rgba(0, 229, 255, 0.2);
+    color: #fff;
+    border-color: var(--mpr-cyan-400);
+    box-shadow: 0 0 15px rgba(0, 229, 255, 0.3);
+}
+
+.btn-glass-github {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    border: 1px solid var(--raggie-glass-border);
+    color: var(--rs-body-color);
+}
+.btn-glass-github:hover {
+    background: rgba(255, 255, 255, 1);
+    color: #24292e; /* GitHub brand color */
+}
+[data-bs-theme="dark"] .btn-glass-github {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    border-color: rgba(255, 255, 255, 0.1);
+}
+[data-bs-theme="dark"] .btn-glass-github:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: #fff;
+    border-color: var(--mpr-cyan-400);
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+/* --- safety-net.css --- */
+/* safety-net-raggiesoft.css */
+/* RaggieSoft Aero / Dark Aero Overrides - THE NUCLEAR OPTION */
+
+/* 1. Enforce Brand Font Stack Globally */
+/* Overrides standard system fonts to ensure the humanist/Aero feel is always present */
+body {
+    font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
+    font-weight: 700 !important;
+    letter-spacing: -0.01em !important; /* Slightly tighter for a modern polish */
+}
+
+/* 2. Global Button Reshaping (The Aero Pill) */
+.btn {
+    /* Frutiger Aero loves pill shapes over sharp rectangles */
+    border-radius: 50rem !important; 
+    transition: all 0.2s ease-in-out !important;
+    font-weight: 600 !important;
+}
+
+/* 3. The Frutiger Aero Gel Button (Light Mode) */
+.btn-primary {
+    color: #ffffff !important;
+    
+    /* The classic 2000s glossy gradient with a "horizon" split in the middle */
+    background: linear-gradient(180deg, #42AADB 0%, #0082E6 48%, #005BB5 52%, #004b96 100%) !important;
+    border: 1px solid #003e7a !important;
+    
+    /* Inset shadow creates the shiny glass lip; outer shadow lifts it */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) !important; /* Engraves the text into the gel */
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    /* Brightens the gradient */
+    background: linear-gradient(180deg, #5ebcf0 0%, #1a96f0 48%, #006dd9 52%, #005bb5 100%) !important;
+    /* Enhances the inner shine and outer shadow */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 4px 8px rgba(0, 0, 0, 0.3) !important;
+    color: #ffffff !important;
+    transform: translateY(-1px) !important; /* Physical push effect */
+}
+
+.btn-primary:active {
+    /* Inverts to look "pressed" */
+    background: linear-gradient(180deg, #004b96 0%, #005BB5 100%) !important;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.5) !important;
+    transform: translateY(1px) !important;
+}
+
+/* 4. The Dark Aero Neon Button (Dark Mode) */
+[data-bs-theme="dark"] .btn-primary {
+    /* shifts to our neon cyan */
+    background: linear-gradient(180deg, #00e5ff 0%, #00c6dd 48%, #00a4b8 52%, #008393 100%) !important;
+    border: 1px solid #005c66 !important;
+    
+    /* High contrast text for neon buttons */
+    color: #000000 !important; 
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5) !important;
+    
+    /* Glowing cyan drop shadow */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 0 12px rgba(0, 229, 255, 0.4) !important;
+}
+
+[data-bs-theme="dark"] .btn-primary:hover,
+[data-bs-theme="dark"] .btn-primary:focus {
+    /* Pushes to an almost pure white-hot cyan at the top */
+    background: linear-gradient(180deg, #80f2ff 0%, #00e5ff 48%, #00c6dd 52%, #00a4b8 100%) !important;
+    /* Intensifies the neon bloom */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 0 25px rgba(0, 229, 255, 0.8) !important;
+    color: #000000 !important;
+}
+
+[data-bs-theme="dark"] .btn-primary:active {
+    background: linear-gradient(180deg, #008393 0%, #00a4b8 100%) !important;
+    box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.6), 0 0 5px rgba(0, 229, 255, 0.3) !important;
+}
+

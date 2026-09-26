@@ -1,0 +1,397 @@
+/* Stardust Engine Theme: shiloh */
+
+/* --- root.css --- */
+/* ==========================================================================
+ * CRIMSON NODE THEME (WCAG AA Compliant)
+ * Concept: The Vanguard LogicPad & The Aesthetic of Wonder
+ * ========================================================================== */
+
+/* --- Light Mode (Default: The Clinical GUI) --- */
+:root,
+[data-bs-theme="light"] {
+  /* Core Brand Colors */
+  --rs-primary: #CC0000;       /* Vanguard Crimson */
+  --rs-secondary: #0044CC;     /* Tactile Blue */
+  
+  /* UI Background & Text */
+  --rs-body-bg: #F8F9FA;       /* Clean Light UI */
+  --rs-body-color: #1A1A1A;    /* High Contrast Dark Text */
+  
+  /* RGB Variables for extras.css (Glows & HUDs) */
+  --rs-primary-rgb: 204, 0, 0;
+  --rs-secondary-rgb: 0, 68, 204;
+  --rs-body-bg-rgb: 248, 249, 250;
+  --rs-body-color-rgb: 26, 26, 26;
+
+  /* Links & Borders */
+  --rs-link-color: #B30000;    /* Darker Red for standard links */
+  --rs-link-hover-color: #800000;
+  --rs-border-color: #D1D1E0;
+  --rs-border-color-translucent: rgba(0, 0, 0, 0.15);
+  
+  /* Semantic Colors (Tweaked for AA Contrast) */
+  --rs-success: #007A3D;       /* Safe Mode Green */
+  --rs-warning: #B37700;       /* System Alert Orange */
+  --rs-info: #0055FF;          /* Blue UI Element */
+  --rs-danger: #CC0000;
+  
+  --rs-success-rgb: 0, 122, 61;
+  --rs-warning-rgb: 179, 119, 0;
+  --rs-info-rgb: 0, 85, 255;
+}
+
+/* --- Dark Mode (The Matte Black Chassis) --- */
+@media (prefers-color-scheme: dark) {
+  body.theme-shiloh {
+    /* Core Brand Colors */
+    --rs-primary: #FF3333;      /* Glowing Crimson Node */
+    --rs-secondary: #66B2FF;    /* Wireframe Blue */
+
+    /* UI Background & Text */
+    --rs-body-bg: #0D0D0D;      /* Pristine Matte Black */
+    --rs-body-color: #E6E6E6;   /* Clean UI White */
+    
+    /* RGB Variables for extras.css (Glows & HUDs) */
+    --rs-primary-rgb: 255, 51, 51;
+    --rs-secondary-rgb: 102, 178, 255;
+    --rs-body-bg-rgb: 13, 13, 13;
+    --rs-body-color-rgb: 230, 230, 230;
+
+    /* Links & Borders */
+    --rs-link-color: #FF6666;
+    --rs-link-hover-color: #FF9999;
+    --rs-border-color: #262626;
+    --rs-border-color-translucent: rgba(255, 255, 255, 0.15);
+    --rs-tertiary-bg: #1A1A1A;
+
+    /* Semantic Colors (Brightened for Dark BG AA Contrast) */
+    --rs-success: #00E673;      /* Safe Mode Green */
+    --rs-warning: #FFBB33;      /* System Alert Orange */
+    --rs-info: #3385FF;         /* Blue UI Element */
+    --rs-danger: #FF3333;
+    
+    --rs-success-rgb: 0, 230, 115;
+    --rs-warning-rgb: 255, 187, 51;
+    --rs-info-rgb: 51, 133, 255;
+  }
+}
+
+/* Force Dark Mode Override (JS Toggle Compatibility) */
+[data-bs-theme="dark"] {
+    --rs-primary: #FF3333;
+    --rs-secondary: #66B2FF;
+    --rs-body-bg: #0D0D0D;
+    --rs-body-color: #E6E6E6;
+    --rs-primary-rgb: 255, 51, 51;
+    --rs-secondary-rgb: 102, 178, 255;
+    --rs-body-bg-rgb: 13, 13, 13;
+    --rs-body-color-rgb: 230, 230, 230;
+    --rs-link-color: #FF6666;
+    --rs-link-hover-color: #FF9999;
+    --rs-border-color: #262626;
+    --rs-border-color-translucent: rgba(255, 255, 255, 0.15);
+    --rs-tertiary-bg: #1A1A1A;
+    --rs-success: #00E673; 
+    --rs-warning: #FFBB33;
+    --rs-info: #3385FF;
+    --rs-danger: #FF3333;
+    --rs-success-rgb: 0, 230, 115;
+    --rs-warning-rgb: 255, 187, 51;
+    --rs-info-rgb: 51, 133, 255;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* header.css (Crimson Node - Vanguard Update) */
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1040; 
+}
+
+wa-dropdown::part(panel) {
+    z-index: 1050 !important;
+}
+
+header .navbar {
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    border-bottom: 1px solid var(--rs-border-color) !important;
+}
+
+header .navbar-brand {
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+header .nav-link {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    position: relative;
+    color: var(--rs-secondary) !important;
+}
+
+header .nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: var(--rs-primary);
+    transition: width 0.3s ease;
+}
+
+header .nav-link:hover::after,
+header .nav-link.active::after {
+    width: 100%;
+}
+
+/* Dark Mode: The Wireframe Glow */
+[data-bs-theme="dark"] header .navbar {
+    background-color: rgba(var(--rs-body-bg-rgb), 0.95) !important;
+    backdrop-filter: blur(10px);
+    border-bottom: 2px solid var(--rs-secondary) !important; /* Wireframe Blue */
+    box-shadow: 0 4px 20px rgba(var(--rs-secondary-rgb), 0.15); 
+}
+
+[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"] {
+    border-color: transparent; 
+}
+
+[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"]:focus {
+    box-shadow: 0 0 0 0.25rem rgba(var(--rs-secondary-rgb), 0.25);
+}
+
+/* --- footer.css --- */
+/* footer.css (Crimson Node - Vanguard Update) */
+
+footer {
+    margin-top: 5rem;
+    padding: 4rem 0 2rem 0;
+    border-top: 4px solid var(--rs-primary); /* Crimson Line */
+    background-color: var(--rs-body-bg);
+}
+
+[data-bs-theme="dark"] footer {
+    background-color: #0A0A0A; /* Slightly darker than chassis black */
+    border-top: 2px solid var(--rs-secondary); /* Wireframe Blue border */
+    box-shadow: 0 -4px 20px rgba(var(--rs-secondary-rgb), 0.05); 
+}
+
+footer h5, footer h6 {
+    color: var(--rs-body-color);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+footer .nav-link, footer ul a {
+    padding-left: 0;
+    color: var(--rs-secondary);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    transition: color 0.2s ease;
+}
+
+footer .nav-link:hover, footer ul a:hover {
+    color: var(--rs-primary); 
+    text-decoration: none; 
+}
+
+/* --- extras.css --- */
+/* extras.css (Crimson Node - Vanguard Update) */
+
+/* 1. Technical Text (Track Lists, Metadata) */
+.tech-font, .metadata, .track-number {
+    font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.85rem;
+    letter-spacing: -0.5px;
+    text-transform: uppercase;
+}
+
+/* Safely style monospace without forcing uppercase inheritance */
+.font-monospace {
+    font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.85rem;
+    letter-spacing: -0.5px;
+}
+
+/* 2. "Glass Node" Card Style (Aesthetic of Wonder) */
+.glass-card {
+    background: rgba(var(--rs-body-bg-rgb), 0.7) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(var(--rs-primary-rgb), 0.2) !important;
+    border-radius: 12px;
+}
+
+[data-bs-theme="dark"] .glass-card {
+    background: rgba(var(--rs-body-bg-rgb), 0.6) !important;
+    border: 1px solid rgba(var(--rs-secondary-rgb), 0.3) !important;
+}
+
+/* 3. HUD System (Semi-transparent colored glass) */
+.bg-hud-blue {
+    background-color: rgba(var(--rs-info-rgb), 0.15) !important; 
+    border: 1px solid rgba(var(--rs-info-rgb), 0.3) !important;
+    backdrop-filter: blur(5px);
+    color: var(--rs-body-color) !important; /* WCAG AA Contrast Fix */
+}
+.bg-hud-green {
+    background-color: rgba(var(--rs-success-rgb), 0.15) !important;
+    border: 1px solid rgba(var(--rs-success-rgb), 0.3) !important;
+    backdrop-filter: blur(5px);
+    color: var(--rs-body-color) !important; /* WCAG AA Contrast Fix */
+}
+.bg-hud-red {
+    background-color: rgba(var(--rs-danger-rgb), 0.15) !important;
+    border: 1px solid rgba(var(--rs-danger-rgb), 0.3) !important;
+    backdrop-filter: blur(5px);
+    color: var(--rs-body-color) !important; /* WCAG AA Contrast Fix */
+}
+.bg-hud-orange {
+    background-color: rgba(var(--rs-warning-rgb), 0.15) !important;
+    border: 1px solid rgba(var(--rs-warning-rgb), 0.3) !important;
+    backdrop-filter: blur(5px);
+    color: var(--rs-body-color) !important; /* WCAG AA Contrast Fix */
+}
+
+/* Dark Mode Override: Switch back to pristine white for neon glass effect */
+[data-bs-theme="dark"] .bg-hud-blue,
+[data-bs-theme="dark"] .bg-hud-green,
+[data-bs-theme="dark"] .bg-hud-red,
+[data-bs-theme="dark"] .bg-hud-orange {
+    color: #ffffff !important;
+}
+
+/* 4. Glow FX */
+.text-glow-primary {
+    text-shadow: 0 0 10px rgba(var(--rs-primary-rgb), 0.5);
+}
+[data-bs-theme="dark"] .text-glow-primary {
+    text-shadow: 0 0 15px rgba(var(--rs-primary-rgb), 0.8);
+}
+
+.border-glow {
+    border: 1px solid rgba(var(--rs-primary-rgb), 0.5) !important;
+    box-shadow: 0 0 15px rgba(var(--rs-primary-rgb), 0.15);
+}
+
+.shadow-glow {
+    box-shadow: 0 5px 15px rgba(var(--rs-primary-rgb), 0.25);
+}
+
+/* 5. LED Indicators */
+.led {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+.led-on {
+    background-color: var(--rs-primary);
+    box-shadow: 0 0 8px var(--rs-primary); /* Glowing Crimson */
+}
+.led-busy {
+    background-color: var(--rs-warning);
+    box-shadow: 0 0 8px var(--rs-warning); 
+}
+.led-off {
+    background-color: var(--rs-tertiary-bg);
+    border: 1px solid var(--rs-border-color);
+    box-shadow: inset 0 1px 3px rgba(0,0,0,0.5); 
+}
+
+/* --- safety-net.css --- */
+/* safety-net.css (Crimson Node - Vanguard Update) */
+
+/* 1. Typography Fallbacks */
+body {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6, .display-1, .display-2, .display-3, .display-4 {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* 2. Dark Mode Legibility Fail-Safe */
+[data-bs-theme="dark"] body {
+    background-color: #0D0D0D !important; /* Chassis Black */
+    color: #E6E6E6 !important; 
+}
+
+/* Prevent this override from hijacking Bootstrap .btn elements */
+[data-bs-theme="dark"] a:not(.btn) {
+    color: #FF3333 !important; /* Glowing Crimson fallback */
+}
+
+/* Force safe contrast on solid buttons in Dark Mode */
+[data-bs-theme="dark"] .btn-primary,
+[data-bs-theme="dark"] .btn-danger,
+[data-bs-theme="dark"] .btn-success,
+[data-bs-theme="dark"] .btn-info,
+[data-bs-theme="dark"] .btn-warning {
+    color: #1A1A1A !important; /* Dark text on bright backgrounds for WCAG AA */
+}
+
+/* Fix button outlines on dark bg */
+[data-bs-theme="dark"] .btn-outline-secondary { 
+    color: #66B2FF; 
+    border-color: #66B2FF; 
+}
+[data-bs-theme="dark"] .btn-outline-secondary:hover { 
+    background-color: #66B2FF; 
+    color: #0D0D0D; 
+}
+

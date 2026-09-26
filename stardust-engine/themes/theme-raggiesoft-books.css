@@ -1,0 +1,297 @@
+/* Stardust Engine Theme: raggiesoft-books */
+
+/* --- root.css --- */
+/* root-encyclopedia.css */
+/* Theme: RaggieSoft Encyclopedia (System Reference) */
+/* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/root.css */
+
+body.theme-raggiesoft-books {
+    /* --- Brand Palette (Encyclopedia Specific) --- */
+    --enc-ink-500: #42AADB;   /* Standard RaggieSoft Blue */
+    --enc-paper-bg: #f8f9fa;  /* Light Gray Paper */
+    --enc-ink-text: #2c3e50;  /* Deep Slate Text */
+    
+    /* --- Utility Bases --- */
+    --rs-white: #ffffff;
+    --rs-white-rgb: 255, 255, 255;
+    --rs-black: #000000;
+    --rs-black-rgb: 0, 0, 0;
+}
+
+/* --- LIGHT MODE --- */
+:root,
+[data-bs-theme="light"] {
+    --rs-primary: #42AADB;
+    --rs-primary-rgb: 66, 170, 219;
+    
+    --rs-body-bg: #ffffff;
+    --rs-body-color: #2c3e50; /* Sharper contrast for reading */
+    
+    --rs-link-color: #2980b9;
+    --rs-link-hover-color: #3498db;
+    
+    --rs-border-color: #dee2e6;
+    --rs-tertiary-bg: #f8f9fa;
+}
+
+/* --- DARK MODE --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-raggiesoft-books {
+        --rs-body-bg: #0f172a; /* Slate-900 (Rich Dark Blue/Black) */
+        --rs-body-color: #cbd5e1; /* Slate-300 */
+        
+        --rs-primary: #38bdf8; /* Sky-400 */
+        
+        --rs-border-color: #1e293b; /* Slate-800 */
+        --rs-tertiary-bg: #1e293b;
+
+        /* RaggieSoft Root Override for Dark Mode White */
+        /* We keep this slightly off-white for general text comfort... */
+        --rs-white: #f1f5f9; 
+        --rs-white-rgb: 241, 245, 249;
+    }
+}
+
+[data-bs-theme="dark"] {
+    --rs-body-bg: #0f172a;
+    --rs-body-color: #cbd5e1;
+    --rs-primary: #38bdf8;
+    --rs-border-color: #1e293b;
+    --rs-tertiary-bg: #1e293b;
+    --rs-white: #f1f5f9; 
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* bootstrap-header.css (Encyclopedia Theme) */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/header.css */
+
+/* 1. Navbar Base */
+header .navbar {
+    background-color: var(--rs-body-bg) !important;
+    /* Encyclopedia Twist: Double border for a "Stationery" feel */
+    border-bottom: 3px double var(--rs-border-color) !important;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* 2. Text Colors */
+header .navbar-brand {
+    color: var(--rs-body-color) !important;
+    font-weight: 700;
+}
+
+header .nav-link {
+    color: var(--rs-secondary) !important;
+    font-weight: 500;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--rs-primary) !important;
+}
+
+/* 3. Hamburger Menu */
+header wa-icon-button[name=\"bars\"] {
+    border-color: var(--rs-border-color) !important;
+}
+header wa-icon-button[name=\"bars\"] .hamburger-bar {
+    background-color: var(--rs-body-color) !important;
+}
+
+/* 4. Dropdowns */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 1px solid var(--rs-border-color) !important;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+header wa-dropdown-item {
+    color: var(--rs-body-color) !important;
+}
+header wa-dropdown-item:hover {
+    background-color: var(--rs-tertiary-bg) !important; 
+    color: var(--rs-primary) !important;
+}
+
+/* 5. Encyclopedia Logo Handling */
+header .navbar-brand-img {
+    /* Ensure logos look integrated on the paper background */
+    mix-blend-mode: multiply; 
+}
+
+/* In Dark Mode, switch to normal blending for visibility */
+[data-bs-theme="dark"] header .navbar-brand-img {
+    mix-blend-mode: normal;
+}
+
+/* --- footer.css --- */
+/* bootstrap-footer.css (Encyclopedia Theme) */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/footer.css */
+
+footer {
+    background-color: var(--rs-body-bg) !important; 
+    color: var(--rs-body-color) !important;            
+    border-top: 1px solid var(--rs-border-color) !important;
+}
+
+/* Text Muting - Uses the Slate Scale from root.css */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--rs-secondary) !important; 
+    opacity: 0.8;
+}
+
+/* Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--rs-link-color) !important;
+    text-decoration-color: var(--rs-border-color); /* Subtle underline */
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--rs-link-hover-color) !important;
+    text-decoration: underline;
+}
+
+/* Admin Modal (The Console) */
+#konamiModal wa-dialog::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+    color: var(--rs-body-color) !important;
+    font-family: monospace; /* Encyclopedia console should feel raw */
+}
+
+/* --- extras.css --- */
+/* extras-encyclopedia.css */
+/* Component Overrides for the Narrative Encyclopedia */
+/* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/extras.css */
+
+/* --- 1. The Level 5 "Blackout" Card --- */
+/* Forces a "True Black" environment regardless of theme settings */
+.card-blackout {
+    background-color: #000000 !important;
+    border-color: var(--rs-danger) !important;
+    color: #ffffff !important;
+}
+
+.card-blackout .card-header {
+    background-color: var(--rs-danger) !important;
+    color: #ffffff !important;
+    border-bottom: 1px solid #000 !important;
+}
+
+.card-blackout .card-body {
+    background-color: #000000 !important;
+}
+
+/* FORCE overrides for text utilities inside the blackout card */
+.card-blackout .text-white,
+.card-blackout .text-white-50,
+.card-blackout .text-muted, 
+.card-blackout .text-body-secondary {
+    color: #ffffff !important; /* Force true white */
+    opacity: 0.8; /* Re-add the "muted" feel via opacity instead of gray color */
+}
+
+.card-blackout h1, .card-blackout h2, .card-blackout h3, 
+.card-blackout h4, .card-blackout h5, .card-blackout h6 {
+    color: #ffffff !important;
+}
+
+/* --- 2. Encyclopedia HUD Elements --- */
+.badge-ref-code {
+    font-family: monospace;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+/* --- safety-net.css --- */
+/* safety-net-encyclopedia.css */
+/* RaggieSoft Encyclopedia Overrides */
+/* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/safety-net.css */
+
+/* 1. Academic Typography */
+/* Import Crimson Text for that "Reference Book" feel */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&display=swap');
+
+body {
+    /* Keep body sans-serif for screen readability, but shift to a cleaner stack */
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6; /* Increased line-height for reading long entries */
+}
+
+/* Headings use the Serif Brand Font */
+h1, h2, h3, h4, h5, h6, .navbar-brand, .brand-font {
+    font-family: "Crimson Text", "Georgia", "Times New Roman", serif;
+    font-weight: 700;
+    letter-spacing: -0.01em; 
+}
+
+.lead {
+    font-family: "Crimson Text", serif; /* Make lead paragraphs feel like book intros */
+    font-size: 1.35rem;
+}
+
+/* 2. Button Overrides */
+/* Ensure buttons are legible against the slate/paper backgrounds */
+.btn-primary {
+    color: #ffffff !important;
+    background-color: var(--rs-primary);
+    border-color: var(--rs-primary);
+    font-weight: 600;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    /* Darken slightly on hover */
+    filter: brightness(0.9); 
+    color: #ffffff !important;
+}
+
+/* 3. Card Tweaks for Encyclopedia */
+/* Makes cards feel more like "Index Cards" */
+.card {
+    border-radius: 4px; /* Sharper corners */
+}
+

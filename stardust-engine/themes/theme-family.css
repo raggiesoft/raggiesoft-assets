@@ -1,0 +1,190 @@
+/* Stardust Engine Theme: family */
+
+/* --- root.css --- */
+/* /raggiesoft/css/bootstrap/family/root.css */
+
+/* --- 1. THE FAMILY PALETTE (Default/Light) --- */
+body.theme-family {
+    /* Michael (Architect) - Blue */
+    --family-michael: #0d6efd;
+    
+    /* Paige (Editor/Safe Person) - Cyan/Teal */
+    --family-paige: #0dcaf0;
+    
+    /* Jessica (Foundation) - Green */
+    --family-jessica: #198754;
+    
+    /* Sarah (Guardian) - Yellow/Warning */
+    --family-sarah: #ffc107;
+    
+    /* Harper (Studio) - Indigo/Purple (Dark for Light Mode) */
+    --family-harper: #6610f2;
+    
+    /* Jenna (Dev Twin) - Orange */
+    --family-jenna: #fd7e14;
+    
+    /* Amanda/Elara (Router) - Teal */
+    --family-amanda: #20c997;
+
+    /* Global Font Stack */
+    --rs-body-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    --rs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* --- 2. DARK MODE OVERRIDES --- */
+[data-bs-theme="dark"] {
+    --rs-body-bg: #121212; 
+    --rs-body-color: #dee2e6;
+    --rs-body-bg-rgb: 18, 18, 18;
+    
+    /* Fix: Override Harper's purple to be lighter in Dark Mode for contrast */
+    --family-harper: #d0bfff; 
+    
+    /* Glassmorphism Variables for Dark Mode */
+    --glass-bg: rgba(0, 0, 0, 0.7);
+    --glass-border: rgba(255, 255, 255, 0.1);
+}
+
+/* --- 3. LIGHT MODE OVERRIDES --- */
+[data-bs-theme="light"] {
+    --rs-primary: #0d6efd;
+    --rs-body-bg: #ffffff;
+    --rs-body-color: #212529;
+    
+    --glass-bg: rgba(255, 255, 255, 0.85);
+    --glass-border: rgba(0, 0, 0, 0.1);
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- footer.css --- */
+/* /portfolio/css/bootstrap/footer.css */
+footer {
+    margin-top: 4rem;
+    padding: 2rem 0;
+    border-top: 1px solid var(--rs-border-color);
+    background-color: var(--rs-tertiary-bg);
+    font-size: 0.9rem;
+}
+
+/* --- extras.css --- */
+/* /raggiesoft/css/bootstrap/family/extras.css */
+
+/* --- 1. DARK MODE LINK FIX --- */
+[data-bs-theme="dark"] .card .text-dark {
+    color: #e9ecef !important;
+}
+
+/* --- 2. FAMILY CARD STYLES --- */
+.card {
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease;
+    border: 1px solid var(--rs-border-color-translucent);
+    overflow: hidden; 
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 1rem 3rem rgba(0,0,0,0.175) !important;
+    z-index: 2;
+}
+
+/* --- 3. SISTER-SPECIFIC BORDERS --- */
+.border-info { border-color: var(--family-paige) !important; }
+.border-success { border-color: var(--family-jessica) !important; }
+.border-warning { border-color: var(--family-sarah) !important; }
+.border-primary { border-color: var(--family-michael) !important; }
+
+[data-bs-theme="dark"] .card[class*="border-"] {
+    border-width: 1px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+}
+
+/* --- 4. GLASS HEADER --- */
+.glass-header {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--glass-border);
+}
+
+/* --- 5. TERMINAL THEME (Forced Dark) --- */
+/* This ignores the global Light/Dark toggle and enforces a terminal look */
+.theme-terminal {
+    background-color: #0d1117 !important; /* GitHub Dark Dimmed */
+    color: #c9d1d9 !important;            /* GitHub Light Text */
+    border-color: var(--family-jessica) !important;
+}
+
+.theme-terminal .card-header {
+    background-color: rgba(25, 135, 84, 0.15) !important; /* Low-opacity green tint */
+    border-bottom: 1px solid var(--family-jessica) !important;
+    color: #2ea043 !important; /* Terminal Green */
+}
+
+/* Force specific colors for "muted" text inside the terminal so it doesn't disappear */
+.theme-terminal .text-muted, 
+.theme-terminal .opacity-75 {
+    color: #8b949e !important; /* GitHub Slate Grey */
+    opacity: 1 !important;     /* Reset opacity since we are setting the color directly */
+}
+
+/* Force the cursor to be green */
+.theme-terminal .blink-cursor {
+    color: #2ea043 !important;
+}
+
+/* --- safety-net.css --- */
+/* /portfolio/css/bootstrap/safety-net.css */
+
+/* Enforce Focus Indicators for Accessibility */
+:focus-visible {
+    outline: 3px solid var(--rs-primary);
+    outline-offset: 2px;
+}
+
+/* Ensure sufficient contrast for text-muted */
+.text-muted {
+    color: #6c757d !important; /* WCAG AA Large compatible on white */
+}
+@media (prefers-color-scheme: dark) {
+    .text-muted {
+        color: #8b949e !important; /* Compatible on dark */
+    }
+}
+

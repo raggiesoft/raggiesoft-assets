@@ -1,0 +1,17 @@
+
+/* Reading Themes */
+html.reader-light {
+    --rs-bg: #ffffff;
+    --rs-bg-alt: #f8f9fa;
+    --rs-text: #212529;
+}
+html.reader-dark {
+    --rs-bg: #121212;
+    --rs-bg-alt: #1e1e1e;
+    --rs-text: #e0e0e0;
+}
+html.reader-sepia {
+    --rs-bg: #f4ecd8;
+    --rs-bg-alt: #e8dcc4;
+    --rs-text: #5b4636;
+}

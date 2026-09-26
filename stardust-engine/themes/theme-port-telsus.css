@@ -1,0 +1,351 @@
+/* Stardust Engine Theme: port-telsus */
+
+/* --- root.css --- */
+/* Theme: Port Telsus (The Wound) */
+/* Concept: Industrial decay, warning lights, and toxic runoff. */
+
+body.theme-port-telsus {
+    /* --- The Blight Palette (Light Mode - Smog) --- */
+    --port-smog: #e8e6d1;       /* Sickly Yellow-Grey Sky */
+    --port-rust: #a63c06;       /* Deep Oxidized Iron */
+    --port-concrete: #8c92ac;   /* Weathered Landing Pad */
+    --port-sludge: #4a5d23;     /* Toxic Runoff Green */
+    
+    /* --- The Cross-Way Palette (Dark Mode - Neon/Oil) --- */
+    --port-oil: #0a0a0c;        /* Slick, iridescent Black */
+    --port-warning: #ffb703;    /* Hazard Tape Yellow */
+    --port-neon-pink: #f72585;  /* "Open" Signs */
+    --port-neon-cyan: #4cc9f0;  /* Monitor Glow */
+    --port-axiom-red: #d00000;  /* Compliance Red */
+
+    /* --- Global Utils --- */
+    --rs-border-radius: 0px;    /* ZERO radius. Manufactured, sharp edges. */
+    --rs-border-width: 2px;     /* Heavy, structural borders. */
+}
+
+/* --- LIGHT MODE: The Blight Zone (Day) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Bootstrap Mapping */
+    --rs-primary: var(--port-rust); /* Rust is the dominant feature */
+    --rs-primary-rgb: 166, 60, 6;
+    
+    --rs-secondary: #5f6c7b;
+    --rs-success: var(--port-sludge); /* "Success" looks like mossy rot */
+    --rs-danger: #9e2a2b;
+    --rs-info: #98c1d9;
+    
+    /* Backgrounds */
+    --rs-body-bg: var(--port-smog);
+    --rs-body-color: #292929; /* Soot-colored text */
+    
+    /* Surfaces */
+    --rs-tertiary-bg: #d6d3c0; /* Stained Concrete */
+    --rs-border-color: #8d99ae; /* Dull Steel */
+    
+    /* Links */
+    --rs-link-color: var(--port-rust);
+    --rs-link-hover-color: #000;
+}
+
+/* --- DARK MODE: The Spire & Market (Night) --- */
+[data-bs-theme="dark"] {
+    /* Core Bootstrap Mapping */
+    --rs-primary: var(--port-warning); /* Safety Yellow guides you in the dark */
+    --rs-primary-rgb: 255, 183, 3;
+    
+    --rs-secondary: #3d405b;
+    --rs-success: var(--port-neon-cyan); /* Synthetic "Go" lights */
+    --rs-danger: var(--port-axiom-red);
+    --rs-info: var(--port-neon-pink);
+    
+    /* Backgrounds */
+    --rs-body-bg: var(--port-oil);
+    --rs-body-color: #adb5bd; /* Dim emergency lighting text */
+    
+    /* Surfaces */
+    --rs-tertiary-bg: #161a1d; /* Dark Metal */
+    --rs-border-color: #343a40; /* Grimy borders */
+    
+    /* Links */
+    --rs-link-color: var(--port-warning);
+    --rs-link-hover-color: #fff;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* header.css */
+
+/* 1. Navbar Container */
+header .navbar {
+    background-color: var(--rs-tertiary-bg) !important;
+    border-bottom: 4px solid var(--rs-primary) !important; /* The Hazard Strip */
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    /* Hard, industrial shadow */
+    box-shadow: 0 4px 0 rgba(0,0,0,0.3);
+}
+
+/* 2. Brand Identity */
+header .navbar-brand {
+    font-family: 'Impact', 'Haettenschweiler', sans-serif; /* Stamped Metal Look */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--rs-body-color) !important;
+    border: 2px solid var(--rs-body-color); /* Framed logo */
+    padding: 2px 8px;
+}
+
+/* 3. Navigation Links */
+header .nav-link {
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    letter-spacing: 1px;
+    color: var(--rs-body-color) !important;
+    opacity: 0.6;
+    border-right: 1px solid var(--rs-border-color); /* Vertical separators */
+    padding-left: 1.25rem !important;
+    padding-right: 1.25rem !important;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    opacity: 1;
+    background-color: var(--rs-primary);
+    color: var(--rs-body-bg) !important; /* Invert text for contrast */
+}
+
+/* 4. Dropdowns (The Cargo Manifest) */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+    border-radius: 0;
+    margin-top: 4px; /* Disconnected floating menu */
+    box-shadow: 8px 8px 0 rgba(0,0,0,0.5); /* Hard block shadow */
+}
+
+header wa-dropdown-item {
+    font-family: var(--rs-font-monospace);
+    font-size: 0.8rem;
+    color: var(--rs-body-color) !important;
+    border-bottom: 1px dotted var(--rs-border-color);
+    padding: 8px 15px;
+}
+
+header wa-dropdown-item:hover {
+    background-color: rgba(var(--rs-primary-rgb), 0.2) !important;
+    color: var(--rs-primary) !important;
+    padding-left: 20px; /* Mechanical shift */
+    transition: padding 0.1s linear;
+}
+
+header .dropdown-header {
+    background-color: var(--rs-tertiary-bg);
+    color: var(--rs-body-color);
+    font-weight: 900;
+    border-bottom: 2px solid var(--rs-border-color);
+    text-transform: uppercase;
+}
+
+/* --- footer.css --- */
+/* footer.css */
+
+footer {
+    background-color: #000 !important; /* Void black */
+    color: #6c757d !important;
+    border-top: 2px solid var(--rs-secondary) !important;
+    font-family: var(--rs-font-monospace);
+    letter-spacing: -0.5px;
+    position: relative;
+}
+
+/* Hazard Stripe Top Border (CSS Gradient) */
+footer::before {
+    content: '';
+    display: block;
+    height: 10px;
+    width: 100%;
+    /* Repeating yellow/black hazard stripes */
+    background: repeating-linear-gradient(
+        45deg,
+        var(--rs-primary),
+        var(--rs-primary) 10px,
+        #000 10px,
+        #000 20px
+    );
+    margin-bottom: 2rem;
+    opacity: 0.8;
+}
+
+/* Footer Links */
+footer a {
+    color: var(--rs-primary) !important;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+footer a:hover {
+    background-color: var(--rs-primary);
+    color: #000 !important;
+    box-shadow: 0 0 10px var(--rs-primary); /* Neon flicker effect */
+}
+
+/* --- extras.css --- */
+/* extras.css - Port Telsus UI Elements */
+
+/* 1. Skill Pills (Hazmat Labels) */
+.skill-pill {
+    font-family: var(--rs-font-monospace);
+    font-weight: 700;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    border: 1px solid var(--rs-body-color);
+    background-color: transparent;
+    color: var(--rs-body-color);
+    padding: 2px 6px;
+    display: inline-block;
+    margin: 2px;
+}
+
+/* "Toxic" Variant */
+.skill-pill.toxic {
+    background-color: var(--rs-success); /* Sludge Green */
+    color: #000;
+    border-color: #000;
+}
+
+/* 2. Cards (Riveted Plates) */
+.card {
+    background-color: var(--rs-tertiary-bg);
+    border: 2px solid var(--rs-border-color);
+    /* Inset shadow creates a "bolted on" look */
+    box-shadow: inset 0 0 20px rgba(0,0,0,0.2); 
+}
+
+.card-header {
+    background-color: rgba(0,0,0,0.1);
+    border-bottom: 2px solid var(--rs-border-color);
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+/* 3. Immersive Glass (Dirty Visor) */
+.bg-glass-dark {
+    background: rgba(10, 10, 12, 0.9);
+    /* Sepia filter adds that "grime" feel */
+    backdrop-filter: blur(5px) sepia(30%);
+    -webkit-backdrop-filter: blur(5px) sepia(30%);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    /* Oil slick gradient overlay */
+    background-image: linear-gradient(135deg, rgba(255,0,255,0.05) 0%, rgba(0,255,255,0.05) 100%);
+}
+
+/* 4. Buttons (Physical Switches) */
+.btn {
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-width: 2px;
+    box-shadow: 4px 4px 0 #000; /* Hard shadow makes it pop */
+    transition: all 0.1s;
+}
+
+.btn:active {
+    transform: translate(2px, 2px);
+    box-shadow: 2px 2px 0 #000; /* Button presses "in" */
+}
+
+/* --- safety-net.css --- */
+/* safety-net.css - Industrial Standards */
+
+/* 1. Font Stack */
+/* Monospace Priority: The "Terminal" / "Manifest" aesthetic */
+body {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    font-size: 1.0rem; 
+    line-height: 1.5;
+}
+
+/* Headings: Stamped/Stencil feel */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, sans-serif;
+    font-weight: 900;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+}
+
+/* 2. Selection (Scanner Data) */
+::selection {
+    background: var(--rs-primary);
+    color: #000;
+}
+
+/* 3. Scrollbar (The Conveyor Belt) */
+/* Chrome/Safari/Edge */
+::-webkit-scrollbar {
+    width: 12px;
+    background: #1a1a1a;
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--rs-secondary);
+    border: 2px solid #1a1a1a; /* Tracks */
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--rs-primary);
+}
+
+/* 4. Form Controls (Data Entry) */
+.form-control {
+    background-color: var(--rs-body-bg);
+    border: 2px solid var(--rs-border-color);
+    color: var(--rs-body-color);
+    font-family: var(--rs-font-monospace);
+    border-radius: 0;
+}
+
+.form-control:focus {
+    background-color: #000;
+    color: var(--rs-primary);
+    border-color: var(--rs-primary);
+    box-shadow: none; /* No soft glow, hard borders only */
+}
+

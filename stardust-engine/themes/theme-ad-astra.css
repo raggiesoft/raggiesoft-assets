@@ -1,0 +1,559 @@
+/* Stardust Engine Theme: ad-astra */
+
+/* --- root.css --- */
+/* root-ad-astra.css */
+/* The Stardust Engine - "Escape Velocity" Theme */
+/* Concept: The Void. Infinite Black. Neon Highlights. */
+
+body.theme-ad-astra {
+  /* --- AD ASTRA PALETTE --- */
+  --astra-void: #050508;       /* Deepest Black */
+  --astra-text: #E0E0FF;       /* Starlight White */
+  --astra-primary: #7000FF;    /* Deep Violet (The Engine) */
+  --astra-secondary: #B0B0C0;  /* Hull Grey */
+  --astra-success: #00FF9D;    /* HUD Green */
+  --astra-info: #00FFFF;       /* HUD Cyan */
+  --astra-warning: #FFD700;    /* Star Gold */
+  --astra-danger: #FF0055;     /* Alert Red */
+}
+
+/* FORCE OVERRIDE: Apply to ALL modes */
+:root,
+[data-bs-theme="light"],
+[data-bs-theme="dark"] {
+    
+    /* --- BOOTSTRAP MAPPING --- */
+    --rs-primary: var(--astra-primary);
+    --rs-primary-rgb: 112, 0, 255;
+    
+    --rs-secondary: var(--astra-secondary);
+    --rs-secondary-rgb: 176, 176, 192;
+
+    --rs-success: var(--astra-success);
+    --rs-info: var(--astra-info);
+    --rs-warning: var(--astra-warning);
+    --rs-danger: var(--astra-danger);
+    
+    --rs-light: var(--astra-text);
+    --rs-dark: var(--astra-void);
+
+    /* --- THE VOID (Forced Dark Mode) --- */
+    --rs-body-bg: var(--astra-void);
+    --rs-body-bg-rgb: 5, 5, 8;
+    
+    --rs-body-color: var(--astra-text);
+    --rs-body-color-rgb: 224, 224, 255;
+    
+    --rs-border-color: #4B4B60;
+    
+    /* Links (High Contrast for Space) */
+    --rs-link-color: var(--astra-info);
+    --rs-link-hover-color: #FFFFFF;
+
+    /* --- NAVBAR OVERRIDES (The Fix) --- */
+    /* Forces the navbar to use light text against the void, 
+       even if the system thinks it is in Light Mode */
+    --rs-navbar-color: var(--astra-text);
+    --rs-navbar-active-color: var(--astra-info);
+    --rs-navbar-brand-color: var(--astra-text);
+    --rs-navbar-disabled-color: var(--astra-secondary);
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"],
+.wa-theme-dark {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-body: var(--rs-body-color);
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-body: var(--rs-body-color);
+  --rs-neutral-text-normal: var(--rs-body-color);
+  
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* bootstrap-header.css (Dynamic Theme Support) */
+
+/* 1. Navbar Base */
+header .navbar {
+    background-color: var(--rs-body-bg, #050508) !important;
+    border-bottom: 1px solid var(--rs-border-color, rgba(255, 255, 255, 0.1)) !important;
+    transition: background-color 0.3s ease;
+}
+
+/* 2. Text Colors (THE HARD FIX) */
+/* We are abandoning the Bootstrap variable for the brand because it keeps resolving to black.
+   We now explicitly force it to White. */
+
+header .navbar-brand {
+    color: #FFFFFF !important; /* Force White */
+    font-family: 'Audiowide', cursive;
+    text-shadow: 0 0 10px rgba(112, 0, 255, 0.5); /* Subtle glow */
+}
+
+header .navbar-brand:hover {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 15px rgba(112, 0, 255, 0.8);
+}
+
+header .nav-link {
+    /* Use Astra Text (Blue-White) instead of generic Bootstrap variable */
+    color: var(--astra-text, #E0E0FF) !important; 
+}
+
+header .nav-link:hover,
+header .nav-link.active,
+header .nav-link:focus {
+    color: var(--astra-info, #00FFFF) !important; /* Astra Cyan */
+    text-shadow: 0 0 8px rgba(0, 255, 255, 0.6);
+}
+
+/* 3. Hamburger Menu */
+header wa-icon-button[name=\"bars\"] {
+    border-color: var(--astra-info, #00FFFF) !important; /* Cyan Border */
+}
+
+/* TARGET THE SPANS CORRECTLY */
+header wa-icon-button[name=\"bars\"] .hamburger-icon span {
+    background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
+    box-shadow: 0 0 5px var(--astra-info);
+}
+
+/* When Active (The X) */
+header wa-icon-button[name=\"bars\"][aria-expanded="true"] .hamburger-icon span {
+    background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
+    box-shadow: 0 0 8px var(--astra-danger);
+}
+
+/* 4. Dropdowns */
+header wa-dropdown::part(panel) {
+    background-color: rgba(5, 5, 8, 0.95) !important; /* Deep Void */
+    border: 1px solid var(--astra-primary, #7000FF) !important;
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.2);
+}
+
+header wa-dropdown-item {
+    color: var(--astra-text, #E0E0FF) !important;
+    font-family: 'Exo 2', monospace; /* Tech font for menus */
+    transition: all 0.2s ease;
+}
+
+header wa-dropdown-item:hover {
+    background-color: rgba(112, 0, 255, 0.2) !important; 
+    color: #FFFFFF !important;
+    padding-left: 1.5rem; /* Slight slide animation */
+}
+
+header .dropdown-header {
+    color: var(--astra-secondary, #B0B0C0) !important;
+    font-family: 'Audiowide', cursive;
+    letter-spacing: 1px;
+}
+
+header .dropdown-divider {
+    border-top: 1px solid var(--astra-secondary, #4B4B60) !important;
+    opacity: 0.3;
+}
+
+/* CORPORATE LOGO MAGIC */
+.navbar-brand-corporate-img {
+    mix-blend-mode: multiply; 
+}
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    filter: invert(1) grayscale(100%); 
+    mix-blend-mode: screen; 
+}
+
+/* --- footer.css --- */
+/* bootstrap-footer.css (Dynamic Theme Support) */
+
+footer {
+    background-color: var(--rs-body-bg) !important; 
+    color: var(--rs-body-color) !important;            
+    border-top: 1px solid var(--rs-border-color) !important;
+}
+
+/* Fix Muted Text */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--rs-secondary) !important; 
+}
+
+/* Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--rs-link-color) !important;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--rs-link-hover-color) !important;
+}
+
+/* Konami Modal (Dynamic Base) */
+#konamiModal wa-dialog::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+    color: var(--rs-body-color) !important;
+}
+
+/* includes/common/css/bootstrap/stardust-engine/header.css */
+
+/* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
+.navbar-brand-corporate-img {
+    /* Default (Light Mode): 
+       'Multiply' makes the white background disappear, 
+       leaving crisp black text. */
+    mix-blend-mode: multiply; 
+}
+
+/* Dark Mode Override */
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
+    filter: invert(1) grayscale(100%); 
+    
+    /* Step 2: 'Screen' makes the new Black background disappear,
+       leaving crisp WHITE text. */
+    mix-blend-mode: screen; 
+}
+
+/* --- extras.css --- */
+/* extras-ad-astra.css */
+/* --- AD ASTRA EXTRAS --- */
+/* Starfield & Glassmorphism Utilities */
+
+.text-glow-primary {
+    background: linear-gradient(135deg, #FFD700 0%, #7000FF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 8px rgba(112, 0, 255, 0.5));
+}
+.text-glow-primary i {
+    -webkit-text-fill-color: initial !important;
+    background: none;
+    color: inherit;
+}
+
+.btn-primary {
+    box-shadow: 0 0 15px rgba(112, 0, 255, 0.4);
+    border: 1px solid rgba(255,255,255,0.2);
+}
+.btn-primary:hover {
+    box-shadow: 0 0 25px rgba(112, 0, 255, 0.8);
+    color: #fff;
+}
+
+/* --- 1. CRITICAL THEME OVERRIDES --- */
+
+/* FORCE Sidebar & Footer to be Dark */
+.bg-body-tertiary {
+    background-color: rgba(5, 5, 10, 0.9) !important; /* Match Starfield */
+    color: #E0E0FF !important; /* Light Text */
+    border-color: #7000FF !important; /* Astra Violet Borders */
+}
+
+/* Fix Sidebar Links */
+.bg-body-tertiary .nav-link {
+    color: #B0B0C0 !important; /* Light Grey */
+}
+.bg-body-tertiary .nav-link:hover, 
+.bg-body-tertiary .nav-link.active {
+    color: #00FFFF !important; /* Astra Cyan */
+    background-color: rgba(112, 0, 255, 0.2); /* Violet Highlight */
+}
+
+/* Fix Footer Text */
+.bg-body-tertiary .text-body-secondary,
+.bg-body-tertiary .text-white {
+    color: #A0A0C0 !important; /* Readable Dim Text */
+}
+.bg-body-tertiary a {
+    color: #FFD700 !important; /* Astra Gold Links */
+}
+
+/* --- 2. STARFIELD BACKGROUND --- */
+@keyframes move-twink-back { from {background-position:0 0;} to {background-position:-10000px 5000px;} }
+
+.starfield-container { 
+    position: fixed; 
+    top: 0; left: 0; 
+    width: 100%; height: 100%; 
+    display: block; 
+    z-index: -1; 
+    background: #050508 url('https://assets.raggiesoft.com/common/patterns/stars-transparent.png') repeat top center; 
+}
+.starfield-twinkling { 
+    background: transparent url('https://assets.raggiesoft.com/common/patterns/twinkling.png') repeat top center; 
+    z-index: -1; 
+    position: absolute; 
+    top: 0; left: 0; 
+    width: 100%; height: 100%; 
+    animation: move-twink-back 200s linear infinite; 
+    opacity: 0.3; 
+}
+
+/* --- 3. UI COMPONENT FIXES --- */
+
+/* Glass Container (Main Content) */
+.glass-container {
+    position: relative;
+    background: rgba(5, 5, 8, 0.85); 
+}
+.glass-container::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    backdrop-filter: blur(10px); 
+}
+
+/* Glass Card (Tracklist) - Allows Fixed Children */
+.glass-card {
+    position: relative;
+    background: rgba(5, 5, 8, 0.85);
+    border: 1px solid #7000FF; /* Violet Border */
+    overflow: visible; 
+}
+.glass-card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    backdrop-filter: blur(10px);
+    border-radius: var(--rs-card-border-radius);
+}
+
+/* Terminal Style */
+.terminal-card {
+    background-color: rgba(10, 20, 10, 0.95); 
+    border: 1px solid #00FF41; 
+    font-family: 'Courier New', Courier, monospace;
+    color: #00FF41;
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.15);
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.terminal-header {
+    border-bottom: 1px solid #00FF41;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.timestamp-link { cursor: pointer; transition: all 0.2s ease; text-decoration: none; }
+.timestamp-link:hover { color: #00FFFF !important; text-shadow: 0 0 8px #00FFFF; }
+
+/* ==========================================================================
+   RAGGIESOFT GLOBAL EXTRAS
+   Path: assets.raggiesoft.com/common/css/bootstrap-common/raggiesoft-extras.css
+   Purpose: Global UI patches and component restoration across the network.
+   ========================================================================== */
+
+/* --- Blockquote Footer Override --- */
+/* Restores the standard citation styling for quotes (Bootstrap 5 fix) */
+
+.blockquote-footer {
+    display: block;
+    font-size: 0.875em; /* Slightly smaller than body text */
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    
+    /* GENERIC FONT: Inherits from the specific website's body font */
+    font-family: inherit; 
+    
+    opacity: 0.8;
+}
+
+/* Adds the "—" dash automatically before the name */
+.blockquote-footer::before {
+    content: "\2014\00A0"; /* \2014 is an Em Dash, \00A0 is a non-breaking space */
+}
+
+/* --- Missing Bootstrap Utilities (Backfill) --- */
+
+/* .btn-outline-light */
+/* Required for "Crash of '90" navigation buttons on dark backgrounds */
+.btn-outline-light {
+  --rs-btn-color: #f8f9fa;
+  --rs-btn-border-color: #f8f9fa;
+  --rs-btn-hover-color: #000;
+  --rs-btn-hover-bg: #f8f9fa;
+  --rs-btn-hover-border-color: #f8f9fa;
+  --rs-btn-focus-shadow-rgb: 248, 249, 250;
+  --rs-btn-active-color: #000;
+  --rs-btn-active-bg: #f8f9fa;
+  --rs-btn-active-border-color: #f8f9fa;
+  --rs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+  --rs-btn-disabled-color: #f8f9fa;
+  --rs-btn-disabled-bg: transparent;
+  --rs-btn-disabled-border-color: #f8f9fa;
+  --rs-gradient: none;
+}
+
+/* --- Global Layout Fixes --- */
+/* Temporary fix: Force disable horizontal scrolling on all devices */
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.font-handwriting {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 1.5rem; /* It needs to be slightly larger to be readable */
+    transform: rotate(-1deg); /* Slight tilt adds realism */
+}
+
+/* Default: No animation */
+.blink-animation { opacity: 1; }
+
+/* Only pulse if the user is okay with motion */
+@media (prefers-reduced-motion: no-preference) {
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
+    .blink-animation { animation: blink 1s infinite; }
+}
+
+/* --- safety-net.css --- */
+/* safety-net-ad-astra.css */
+/* Overrides for The Void */
+
+/* 1. Typography (Sci-Fi) */
+body { 
+    font-family: 'Exo 2', monospace; /* Tech feel */
+}
+h1, h2, h3, h4, h5, h6, .navbar-brand { 
+    font-family: 'Audiowide', cursive; /* Headers */
+    color: #FFFFFF;
+}
+
+/* 2. Component Textures (Glassmorphism compatibility) */
+.card {
+    background-color: rgba(255, 255, 255, 0.05); /* Faint Glass */
+    border-color: var(--rs-secondary);
+    backdrop-filter: blur(5px); /* Frost effect */
+}
+
+/* 3. Navbar Visibility */
+/* Force the brand and hamburger to be visible against space */
+.navbar-brand { color: #FFFFFF !important; }
+wa-icon-button[name=\"bars\"] .hamburger-bar { background-color: #FFFFFF !important; }
+
+/* 4. Light Mode Kill Switch */
+/* If a class explicitly requests .bg-light, we force it dark/glass anyway */
+.bg-light { 
+    background-color: rgba(255, 255, 255, 0.1) !important; 
+    color: var(--rs-body-color) !important; 
+}
+.text-dark { 
+    color: #FFFFFF !important; 
+}
+/* Force Web Awesome buttons to respect the theme text colors */
+wa-button[appearance="plain"]::part(base) {
+    color: var(--rs-body-color) !important;
+}
+
+wa-button[appearance="plain"]:hover::part(base) {
+    color: #FFFFFF !important;
+}
+
+.text-body {
+    color: var(--rs-body-color) !important;
+}
+
+/* Force Web Awesome dialogs to have white text in Ad Astra */
+wa-dialog::part(title) {
+    color: #FFFFFF !important;
+}
+
+wa-dialog {
+    --rs-neutral-text-body: #E0E0FF !important;
+    --rs-neutral-text-normal: #E0E0FF !important;
+    --rs-text-body: #E0E0FF !important;
+    --rs-text-normal: #E0E0FF !important;
+    color: #E0E0FF !important;
+}
+
+/* Force green buttons to have black text */
+wa-button[variant="success"]::part(label) {
+    color: #000000 !important;
+}
+wa-button[variant="success"]::part(prefix) {
+    color: #000000 !important;
+}
+
+/* Sledgehammer for Dialog Background Transparency */
+wa-dialog {
+    --rs-panel-background-color: #050508 !important;
+    --sl-panel-background-color: #050508 !important;
+}
+wa-dialog::part(panel) {
+    background-color: #050508 !important;
+    opacity: 1 !important;
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+}
+wa-dialog::part(base) {
+    background-color: #050508 !important;
+    opacity: 1 !important;
+}
+
+/* Force ALL Web Awesome surfaces to be opaque in Ad Astra */
+:root,
+[data-bs-theme="dark"],
+.wa-theme-dark,
+wa-dialog {
+    --rs-surface-raised: #050508 !important;
+    --rs-surface-lowered: #050508 !important;
+    --rs-surface: #050508 !important;
+    --rs-dialog-background-color: #050508 !important;
+    --sl-dialog-background-color: #050508 !important;
+    --rs-panel-background-color: #050508 !important;
+    --sl-panel-background-color: #050508 !important;
+}
+
+wa-dialog {
+    background: #050508 !important;
+}
+
+wa-dialog::part(base) {
+    background: transparent !important; /* Make sure the base wrapper doesn't multiply opacity */
+}
+
+wa-dialog::part(panel) {
+    background: #050508 !important; /* Use shorthand background to override images/gradients */
+}
+
+

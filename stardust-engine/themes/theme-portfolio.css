@@ -1,0 +1,433 @@
+/* Stardust Engine Theme: portfolio */
+
+/* --- root.css --- */
+/* root-raggiesoft.css */
+/* RaggieSoft Corporate Identity - The "Common" Theme */
+
+    body.theme-portfolio {
+    /* --- Brand Palette --- */
+    --mpr-blue-500: #42AADB;   /* Primary Brand Blue */
+    --mpr-blue-600: #258DBD;   /* Hover State */
+    
+    /* --- Utility Bases (Global Defaults) --- */
+    --rs-white: #ffffff;
+    --rs-white-rgb: 255, 255, 255;
+    --rs-black: #000000;
+    --rs-black-rgb: 0, 0, 0;
+}
+
+/* --- LIGHT MODE (Default) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Bootstrap Mapping */
+    --rs-primary: #42AADB;
+    --rs-secondary: #6c757d;
+    --rs-success: #198754;
+    --rs-info: #0dcaf0;
+    --rs-warning: #ffc107;
+    --rs-danger: #dc3545;
+    --rs-light: #f8f9fa;
+    --rs-dark: #212529;
+    
+    /* RGB Values (Crucial for Glass/HUDs) */
+    --rs-primary-rgb: 66, 170, 219;
+    --rs-secondary-rgb: 108, 117, 125;
+    --rs-success-rgb: 25, 135, 84;
+    --rs-info-rgb: 13, 202, 240;
+    --rs-warning-rgb: 255, 193, 7;
+    --rs-danger-rgb: 220, 53, 69;
+    --rs-light-rgb: 248, 249, 250;
+    --rs-dark-rgb: 33, 37, 41;
+    
+    /* Corporate Light Base */
+    --rs-body-bg: #ffffff;          /* Pure White Paper */
+    --rs-body-color: #212529;       /* Standard Dark Grey */
+    --rs-body-bg-rgb: 255, 255, 255;
+    --rs-body-color-rgb: 33, 37, 41;
+
+    --rs-link-color: #42AADB;
+    --rs-link-hover-color: #258DBD;
+    --rs-border-color: #dee2e6;
+    --rs-border-color-translucent: rgba(0, 0, 0, 0.175);
+}
+
+/* --- DARK MODE --- */
+/* We apply these overrides to both the media query AND the data-attribute */
+@media (prefers-color-scheme: dark) {
+    body.theme-portfolio {
+        --rs-body-bg: #121212;      /* Corporate Dark */
+        --rs-body-color: #e0e0e0;   /* Off-White Text */
+        --rs-body-bg-rgb: 18, 18, 18;
+        --rs-body-color-rgb: 224, 224, 224;
+
+        --rs-border-color: #2c2c2c;
+        --rs-secondary: #adb5bd;
+        --rs-secondary-rgb: 173, 181, 189; /* Fix for text-muted contrast */
+        
+        --rs-link-color: #66c2ff;   /* Lighter blue for contrast */
+        --rs-link-hover-color: #ffffff;
+        --rs-tertiary-bg: #1f1f1f;
+
+        /* ADAPTIVE RE-MAPPING for Dark Mode */
+        /* This fixes "bg-white" and "bg-light" cards appearing white with light text */
+        --rs-white: #1f1f1f; 
+        --rs-white-rgb: 31, 31, 31;
+        
+        --rs-light: #2b3035;
+        --rs-light-rgb: 43, 48, 53;
+
+        /* Ensure utility colors (badges) stay visible */
+        --rs-success: #198754;
+        --rs-success-rgb: 25, 135, 84;
+        
+        --rs-warning: #ffc107;
+        --rs-warning-rgb: 255, 193, 7;
+
+        /* Force "text-dark" to actually be dark (for the yellow banner) */
+        --rs-dark: #000000;
+        --rs-dark-rgb: 0, 0, 0;
+    }
+}
+
+[data-bs-theme="dark"] {
+    --rs-body-bg: #121212;
+    --rs-body-color: #e0e0e0;
+    --rs-body-bg-rgb: 18, 18, 18;
+    --rs-body-color-rgb: 224, 224, 224;
+    
+    --rs-border-color: #2c2c2c;
+    
+    --rs-secondary: #adb5bd;
+    --rs-secondary-rgb: 173, 181, 189;
+
+    --rs-link-color: #66c2ff;
+    --rs-link-hover-color: #ffffff;
+    --rs-tertiary-bg: #1f1f1f;
+
+    /* RE-MAPPING */
+    --rs-white: #1f1f1f; 
+    --rs-white-rgb: 31, 31, 31;
+    
+    --rs-light: #2b3035;
+    --rs-light-rgb: 43, 48, 53;
+
+    /* UTILITIES */
+    --rs-success: #198754;
+    --rs-success-rgb: 25, 135, 84;
+    
+    --rs-warning: #ffc107;
+    --rs-warning-rgb: 255, 193, 7;
+
+    --rs-dark: #000000;
+    --rs-dark-rgb: 0, 0, 0;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* bootstrap-header.css (Dynamic Theme Support - Fixed for Light Mode Default) */
+
+/* 1. Navbar Base */
+header .navbar {
+    /* FIXED: Fallback is now White (#ffffff) to match root.css :root default.
+       var(--rs-body-bg) will automatically switch this to #121212 in Dark Mode. */
+    background-color: var(--rs-body-bg, #ffffff) !important;
+    
+    /* FIXED: Fallback is now Light Grey (#dee2e6) for visibility on white backgrounds. */
+    border-bottom: 1px solid var(--rs-border-color, #dee2e6) !important;
+    
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* 2. Text Colors */
+/* We use body-color variables so text automatically flips Black <-> White */
+header .navbar-brand {
+    color: var(--rs-body-color) !important;
+}
+
+header .nav-link {
+    /* Use secondary color variable (Grey) */
+    color: var(--rs-secondary) !important;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--rs-primary) !important;
+}
+
+/* 3. Hamburger Menu */
+header wa-icon-button[name=\"bars\"] {
+    border-color: var(--rs-border-color) !important;
+}
+header wa-icon-button[name=\"bars\"] .hamburger-bar {
+    /* This ensures the bars are Black in Light Mode, White in Dark Mode */
+    background-color: var(--rs-body-color) !important;
+}
+
+/* 4. Dropdowns */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border-color: var(--rs-border-color) !important;
+}
+header wa-dropdown-item {
+    color: var(--rs-body-color) !important;
+}
+header wa-dropdown-item:hover {
+    /* Uses tertiary-bg (defined in root.css) for the hover state */
+    background-color: var(--rs-tertiary-bg, #f8f9fa) !important; 
+    color: var(--rs-primary) !important;
+}
+
+/* 5. CORPORATE LOGO MAGIC */
+/* This handles the Engine Room / Corporate JPG logos with white backgrounds */
+.navbar-brand-corporate-img {
+    /* Light Mode: Multiply makes the white background transparent */
+    mix-blend-mode: multiply; 
+}
+
+/* Dark Mode Override */
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    /* Dark Mode: Invert colors (White bg -> Black bg) then Screen (Black bg -> Transparent) */
+    filter: invert(1) grayscale(100%); 
+    mix-blend-mode: screen; 
+}
+
+/* --- footer.css --- */
+/* bootstrap-footer.css (Dynamic Theme Support) */
+
+footer {
+    background-color: var(--rs-body-bg) !important; 
+    color: var(--rs-body-color) !important;            
+    border-top: 1px solid var(--rs-border-color) !important;
+}
+
+/* Fix Muted Text */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--rs-secondary) !important; 
+}
+
+/* Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--rs-link-color) !important;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--rs-link-hover-color) !important;
+}
+
+/* Konami Modal (Dynamic Base) */
+#konamiModal wa-dialog::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+    color: var(--rs-body-color) !important;
+}
+
+/* --- extras.css --- */
+/* /portfolio/css/bootstrap/extras.css */
+
+/* 1. Skill Pills (Tech Stack Badges) */
+.skill-pill {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.35em 0.8em;
+    border-radius: 50rem;
+    background-color: var(--rs-tertiary-bg);
+    color: var(--rs-body-color);
+    border: 1px solid var(--rs-border-color);
+    display: inline-block;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+/* 2. Timeline Card (Employment/Education) */
+.timeline-card {
+    border-left: 4px solid var(--rs-primary);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+/* 3. Project Cards */
+.project-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.project-card .card-footer {
+    background: transparent;
+    border-top: 1px solid var(--rs-border-color-translucent);
+}
+
+/* /portfolio/css/bootstrap/extras.css */
+
+/* 1. Skill Pills */
+.skill-pill {
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 0.35em 0.8em;
+    border-radius: 50rem;
+    background-color: var(--rs-tertiary-bg);
+    color: var(--rs-body-color);
+    border: 1px solid var(--rs-border-color);
+    display: inline-block;
+    margin-right: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+/* 2. Timeline Card */
+.timeline-card {
+    border-left: 4px solid var(--rs-primary);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+/* 3. Project Cards */
+.project-card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.project-card .card-footer {
+    background: transparent;
+    border-top: 1px solid var(--rs-border-color-translucent);
+}
+
+/* 4. Immersive Hero System (Glass UI) */
+.immersive-container {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background-color: #000;
+}
+
+.hero-bg-layer {
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: opacity 1.5s ease-in-out;
+    z-index: 0;
+}
+
+.hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: var(--hero-overlay-color);
+    z-index: 1;
+}
+
+.glass-card {
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    color: #fff;
+    transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.glass-card:hover {
+    transform: translateY(-5px);
+    border-color: var(--glass-hover-border);
+    background: var(--glass-hover-bg);
+}
+
+.text-shadow {
+    text-shadow: var(--hero-text-shadow);
+}
+
+.content-wrapper {
+    position: relative;
+    z-index: 10;
+    width: 100%;
+    padding: 4rem 0;
+}
+
+/* Utility: Turn any image pure white */
+.img-white {
+    filter: brightness(0) invert(1);
+}
+
+/* Specific: White Logo with Glow (combines your requested effects) */
+.logo-white-glow {
+    filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
+}
+
+/* --- safety-net.css --- */
+/* safety-net-raggiesoft.css */
+/* RaggieSoft Corporate Overrides */
+
+/* 1. Enforce System Font Stack (Fast, Clean, Native) */
+body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    font-weight: 700;
+    letter-spacing: -0.02em; /* Modern tight tracking */
+}
+
+/* 2. Fix Button Contrast */
+/* RaggieSoft Blue is light, so text must be WHITE */
+.btn-primary {
+    color: #ffffff !important;
+    background-color: var(--rs-primary);
+    border-color: var(--rs-primary);
+}
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: var(--mpr-blue-600) !important;
+    border-color: var(--mpr-blue-600) !important;
+    color: #ffffff !important;
+}
+

@@ -1,0 +1,301 @@
+/* Stardust Engine Theme: fractured-prisms */
+
+/* --- root.css --- */
+/* root.css (Fractured Prisms) */
+/* Theme: 1883 Gothic / 1983 Art Rock / Fog */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body.theme-fractured-prisms {
+    /* Custom Brand Variables */
+    --font-gothic: 'Playfair Display', serif;
+    --font-tech: 'Courier New', monospace;
+    
+    --transition-speed: 0.3s;
+}
+
+/* Base Transitions */
+body, .navbar, .card, .btn, .list-group-item {
+    transition: all var(--transition-speed) ease-in-out;
+}
+
+/* ====================================================================
+   1983 STUDIO (DARK MODE)
+   The cold, mechanical isolation of the Williamsport sanctuary.
+   Deep purple-black, ghostly lavender, glowing synths.
+==================================================================== */
+:root,
+[data-bs-theme="dark"] {
+    color-scheme: dark;
+
+    --rs-bg-prism: #0b0914; /* Deep purple-black base */
+    --rs-border-prism: rgba(177, 156, 217, 0.3);
+
+    --rs-body-bg: var(--rs-bg-prism);
+    --rs-body-color: #e0e0e0;
+
+    /* Primary is Ghostly Lavender */
+    --rs-primary: #b19cd9;
+    --rs-primary-rgb: 177, 156, 217;
+    
+    --rs-secondary: #6c757d;
+    --rs-secondary-rgb: 108, 117, 125;
+    
+    --rs-border-color: #333333;
+    --rs-border-color-translucent: rgba(177, 156, 217, 0.15);
+    
+    --rs-link-color: #b19cd9;
+    --rs-link-hover-color: #e6e6fa;
+
+    --rs-card-bg: rgba(255, 255, 255, 0.03);
+    --rs-card-border-color: var(--rs-border-prism);
+    
+    --rs-navbar-bg: rgba(11, 9, 20, 0.95);
+    --rs-navbar-color: #a0a0a0;
+    --rs-navbar-active-color: #e6e6fa;
+
+    /* Artifact Paper Logic (Looks like paper inside the dark studio) */
+    --prism-artifact-bg: #f4f1ea;
+    --prism-artifact-color: #2c2c2c;
+    --prism-artifact-border: #b19cd9;
+    --prism-artifact-muted: #5c5c5c;
+}
+
+/* ====================================================================
+   1883 ARCHIVE (LIGHT MODE)
+   The Hollow Square psychological sanctuary.
+   Aged parchment, charcoal ink, deep Victorian plum accents.
+==================================================================== */
+[data-bs-theme="light"] {
+    color-scheme: light;
+
+    --rs-bg-prism: #f4f1ea; /* Warm, aged parchment base */
+    --rs-border-prism: rgba(74, 51, 80, 0.3); /* Plum border */
+
+    --rs-body-bg: var(--rs-bg-prism);
+    --rs-body-color: #2b2826; /* Charcoal ink for high legibility */
+
+    /* Primary shifts to a deep, bruised Victorian Plum */
+    --rs-primary: #4a3350;
+    --rs-primary-rgb: 74, 51, 80;
+    
+    --rs-secondary: #5c5957; /* Antique grey */
+    --rs-secondary-rgb: 92, 89, 87;
+    
+    --rs-border-color: rgba(74, 51, 80, 0.2);
+    --rs-border-color-translucent: rgba(74, 51, 80, 0.1);
+    
+    --rs-link-color: #4a3350;
+    --rs-link-hover-color: #2b1d2f;
+
+    --rs-card-bg: #fcfcfb; /* Slightly brighter paper so cards stand out */
+    --rs-card-border-color: rgba(74, 51, 80, 0.15);
+    
+    --rs-navbar-bg: rgba(244, 241, 234, 0.95);
+    --rs-navbar-color: #4a3350;
+    --rs-navbar-active-color: #2b2826;
+
+    /* Artifact Paper Logic (Blends into the light mode naturally) */
+    --prism-artifact-bg: #ffffff; 
+    --prism-artifact-color: #2c2c2c;
+    --prism-artifact-border: #4a3350;
+    --prism-artifact-muted: #666666;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* header.css (Fractured Prisms) */
+
+header .navbar {
+    font-family: var(--font-tech);
+    letter-spacing: 0.5px;
+    background-color: var(--rs-navbar-bg) !important;
+    border-bottom: 1px solid var(--rs-border-prism);
+    box-shadow: 0 4px 20px rgba(177, 156, 217, 0.05); /* Ghostly glow */
+    backdrop-filter: blur(10px);
+}
+
+header .navbar-brand {
+    font-family: var(--font-gothic);
+    font-weight: 700;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+header .nav-link {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+header wa-icon-button[name=\"bars\"] {
+    border-color: var(--rs-secondary);
+}
+
+/* --- footer.css --- */
+/* footer.css (Fractured Prisms) */
+
+footer {
+    margin-top: 5rem;
+    padding: 3rem 0;
+    border-top: 4px solid var(--rs-border-prism);
+    background-color: var(--rs-bg-prism);
+}
+
+footer h5 {
+    font-family: var(--font-gothic);
+    color: var(--rs-primary);
+    margin-bottom: 1.5rem;
+    letter-spacing: 1px;
+}
+
+footer .nav-link {
+    padding-left: 0;
+    color: var(--rs-secondary);
+    font-family: var(--font-tech);
+    font-size: 0.85rem;
+}
+
+footer .nav-link:hover {
+    color: var(--rs-primary);
+    text-decoration: underline;
+}
+
+/* --- extras.css --- */
+/* extras.css (Fractured Prisms) */
+
+/* Typography & Glows */
+.gothic-font {
+    font-family: var(--font-gothic) !important;
+}
+
+.text-glow-prism {
+    /* Uses the dynamic body text color (Light/Dark) */
+    color: var(--rs-body-color) !important; 
+    /* The glow dynamically pulls the RGB values from our Primary color */
+    text-shadow: 0 0 15px rgba(var(--rs-primary-rgb), 0.6), 0 0 30px rgba(var(--rs-primary-rgb), 0.3);
+}
+
+.border-prism {
+    border-color: var(--rs-border-prism) !important;
+}
+
+.bg-prism-dark {
+    background-color: var(--rs-bg-prism) !important;
+}
+
+/* Narrative Lore Cards */
+.lore-card {
+    /* Wired to our dynamic card background variable */
+    background-color: var(--rs-card-bg);
+    border-left: 4px solid var(--rs-primary);
+    /* Wired to dynamic text color */
+    color: var(--rs-body-color);
+}
+
+/* Recovered Artifact Paper (Queen's English Journals) */
+.artifact-paper {
+    background-color: var(--prism-artifact-bg); 
+    color: var(--prism-artifact-color);
+    font-family: 'Georgia', serif;
+    border-left: 5px solid var(--prism-artifact-border);
+    box-shadow: inset 0 0 20px rgba(0,0,0,0.05);
+}
+
+.artifact-text-muted {
+    color: var(--prism-artifact-muted);
+}
+/* The Polaroid Component */
+.polaroid-prism {
+    background: #fff;
+    padding: 10px 10px 25px 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    transform: rotate(-1deg);
+    transition: transform var(--transition-speed) ease;
+}
+.polaroid-prism:hover {
+    transform: rotate(0deg) scale(1.02);
+}
+.polaroid-prism img {
+    width: 100%;
+    border: 1px solid #111;
+    filter: sepia(20%) contrast(1.1);
+}
+.polaroid-caption {
+    font-family: var(--font-tech);
+    color: #111;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: 0.85rem;
+}
+
+/* Animations */
+@keyframes pulse-prism {
+    0% { opacity: 1; }
+    50% { opacity: 0.4; }
+    100% { opacity: 1; }
+}
+.pulse-icon {
+    animation: pulse-prism 2s infinite;
+    color: var(--rs-primary);
+}
+
+
+
+/* --- safety-net.css --- */
+/* safety-net.css (Fractured Prisms) */
+
+body {
+    font-family: 'Times New Roman', serif;
+    line-height: 1.6;
+    /* Wire into dynamic background with a dark mode fallback */
+    background-color: var(--rs-body-bg, #0b0914); 
+    /* Wire into dynamic text color with a dark mode fallback */
+    color: var(--rs-body-color, #e0e0e0);
+}
+
+a {
+    text-decoration: none;
+    /* Wire into dynamic link color */
+    color: var(--rs-link-color, #b19cd9);
+}
+

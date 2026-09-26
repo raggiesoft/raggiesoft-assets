@@ -1,0 +1,146 @@
+/* Stardust Engine Theme: gloom */
+
+/* --- root.css --- */
+/* root.css (Theme: Gloom) */
+/* Context: The Shadowspire / Malakor's Perspective */
+
+:root,
+[data-bs-theme="light"], /* Override light mode settings */
+[data-bs-theme="dark"] {
+    
+    /* Gloom Palette */
+    --rs-primary: #9b59b6;      /* Dark Magic Purple */
+    --rs-secondary: #7f8c8d;    /* Stone Grey */
+    --rs-warning: #C0C0C0;      /* Silver (The only light allowed) */
+    --rs-info: #2E003E;         /* Deep Gloom */
+    
+    /* The Void Background */
+    --rs-body-bg: #15051a;      /* Deepest Purple/Black */
+    --rs-body-color: #E0D0E0;   /* Faded Silver Text */
+    --rs-body-bg-rgb: 21, 5, 26;
+    
+    --rs-link-color: #C0C0C0;
+    --rs-link-hover-color: #FFFFFF;
+    --rs-border-color: #4A235A;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- extras.css --- */
+/* extras.css (Theme: Gloom) */
+/* Visual FX for Malakor's Void */
+
+/* 1. The Dark Tome Container */
+/* Overrides the parchment look with a deep, translucent purple glass */
+.tome-container {
+    background-color: rgba(21, 5, 26, 0.95) !important;
+    border: 1px solid var(--rs-border-color) !important;
+    color: var(--rs-body-color) !important;
+    box-shadow: 
+        0 0 40px rgba(46, 0, 62, 0.6), /* Purple outer glow */
+        inset 0 0 100px rgba(0, 0, 0, 0.8); /* Inner vignette */
+}
+
+/* 2. Silver Drop Caps */
+/* Replaces the Gold drop cap with Silver */
+.drop-cap {
+    color: #C0C0C0 !important; /* Silver */
+    text-shadow: 0 0 10px rgba(192, 192, 192, 0.4);
+    font-family: 'Cinzel', serif;
+}
+
+/* 3. Header Borders */
+h1, h2, h3, .display-1, .display-2, .display-3, .display-4 {
+    border-bottom-color: var(--rs-primary) !important; /* Dark Purple border */
+    color: #E0E0E0 !important; /* Force light text */
+}
+
+/* 4. Alert Box Override */
+/* Ensures alerts match the gloomy aesthetic */
+.alert-dark {
+    background-color: #0a020d;
+    border-color: #4A235A;
+    color: #C0C0C0;
+}
+
+/* --- safety-net.css --- */
+/* safety-net.css (Theme: Gloom) */
+/* Overrides for High Contrast Dark Mode */
+
+/* 1. Navbar Override (Kill the Leather Look) */
+header .navbar {
+    background-color: #05000a !important; /* Deepest Black/Purple */
+    border-bottom: 1px solid #4A235A !important; /* Dim Purple Border */
+}
+
+header .navbar-brand {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 10px rgba(155, 89, 182, 0.5); /* Purple Glow */
+}
+
+header .nav-link {
+    color: #B0B0B0 !important; /* Dim Silver */
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: #FFFFFF !important;
+    background-color: rgba(74, 35, 90, 0.3) !important;
+}
+
+/* 2. Text Visibility Safety */
+/* Ensure no text accidentally stays dark brown from the default theme */
+body, p, li, span {
+    color: #E0E0E0;
+}
+
+.text-muted {
+    color: #888888 !important; /* Make sure muted text is readable on black */
+}
+
+/* 3. Button Overrides */
+.btn-outline-dark {
+    color: #C0C0C0;
+    border-color: #C0C0C0;
+}
+.btn-outline-dark:hover {
+    background-color: #C0C0C0;
+    color: #000;
+}
+

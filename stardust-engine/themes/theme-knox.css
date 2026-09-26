@@ -1,0 +1,295 @@
+/* Stardust Engine Theme: knox */
+
+/* --- root.css --- */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/root.css */
+/* Theme: K.N.O.X. (Aerie-Hold / Port Telsus) */
+
+body.theme-knox {
+    /* --- Concept Art Palette --- */
+    
+    /* The Weave (Organic / Native) */
+    --knox-mist: #e8ece9;       /* Atmospheric White */
+    --knox-canopy: #344e41;     /* Deep Jungle Green */
+    --knox-fern: #a3b18a;       /* Sage Green */
+    --knox-bark: #583101;       /* Deep Brown */
+    
+    /* The Spire (Industrial / Axiom) */
+    --knox-obsidian: #0b0c10;   /* Void Black */
+    --knox-steel: #1f2833;      /* Gunmetal Grey */
+    --knox-rust: #c66b3d;       /* Oxidized Orange */
+    --knox-axiom-red: #8a1c1c;  /* Alert Red */
+    --knox-neon: #66fcf1;       /* Terminal Cyan */
+
+    /* --- Global Utils --- */
+    --rs-border-radius: 2px;    /* Brutalist/Military feel */
+    --rs-font-monospace: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+}
+
+/* --- LIGHT MODE: AERIE-HOLD (The Sanctuary) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Mapping */
+    --rs-primary: var(--knox-canopy);
+    --rs-secondary: #6c757d;
+    --rs-success: #2a9d8f;
+    --rs-info: #219ebc;
+    --rs-warning: #e9c46a;
+    --rs-danger: #d00000;
+    
+    /* Backgrounds: The Mist */
+    --rs-body-bg: var(--knox-mist);
+    --rs-body-color: #1a1a1a;
+    
+    /* UI Surfaces */
+    --rs-tertiary-bg: #dad7cd; /* Organic Card BG */
+    --rs-border-color: #a3b18a;
+    
+    /* Links */
+    --rs-link-color: var(--knox-canopy);
+    --rs-link-hover-color: #263c33;
+}
+
+/* --- DARK MODE: PORT TELSUS (The Occupation) --- */
+[data-bs-theme="dark"] {
+    /* Core Mapping */
+    --rs-primary: var(--knox-rust); /* Rust is the primary accent in the dark */
+    --rs-secondary: #8d99ae;
+    --rs-success: #1b4332;      /* Dark Green (Resistance) */
+    --rs-danger: var(--knox-axiom-red);
+    
+    /* Backgrounds: The Spire */
+    --rs-body-bg: var(--knox-obsidian);
+    --rs-body-color: #e0e0e0;
+    
+    /* UI Surfaces */
+    --rs-tertiary-bg: var(--knox-steel);
+    --rs-border-color: #45a29e; /* Faint Cyan glow on borders */
+    
+    /* Links */
+    --rs-link-color: var(--knox-neon);
+    --rs-link-hover-color: #fff;
+    
+    /* Overrides for specific Axiom Aesthetics */
+    --rs-card-bg: var(--knox-steel);
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
+
+/* 1. Navbar Container */
+header .navbar {
+    background-color: var(--rs-body-bg) !important;
+    border-bottom: 2px solid var(--rs-primary) !important;
+    font-family: var(--rs-font-monospace); /* Terminal Aesthetic */
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    transition: all 0.3s ease;
+}
+
+/* 2. Brand Identity */
+header .navbar-brand {
+    font-weight: 800;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    color: var(--rs-body-color) !important;
+}
+
+/* 3. Navigation Links */
+header .nav-link {
+    font-weight: 600;
+    color: var(--rs-body-color) !important;
+    opacity: 0.7;
+    transition: opacity 0.2s, color 0.2s;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    opacity: 1;
+    color: var(--rs-primary) !important;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+/* 4. Dropdowns (The Data Tapes) */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-tertiary-bg) !important;
+    border: 1px solid var(--rs-border-color) !important;
+    border-radius: 0;
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.2);
+}
+
+header wa-dropdown-item {
+    font-family: var(--rs-font-monospace);
+    font-size: 0.9rem;
+    color: var(--rs-body-color) !important;
+}
+
+header wa-dropdown-item:hover {
+    background-color: var(--rs-primary) !important;
+    color: var(--rs-body-bg) !important; /* Invert text on hover */
+}
+
+header .dropdown-header {
+    font-size: 0.75rem;
+    letter-spacing: 1px;
+    opacity: 0.8;
+}
+
+/* --- footer.css --- */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/footer.css */
+
+footer {
+    background-color: var(--rs-tertiary-bg) !important;
+    color: var(--rs-body-color) !important;
+    border-top: 1px solid var(--rs-border-color) !important;
+    font-family: var(--rs-font-monospace);
+}
+
+/* Links in Footer */
+footer a {
+    color: var(--rs-body-color) !important;
+    text-decoration: none;
+    border-bottom: 1px dotted var(--rs-secondary);
+}
+
+footer a:hover {
+    color: var(--rs-primary) !important;
+    border-bottom-style: solid;
+}
+
+/* Muted Text */
+footer .text-muted,
+footer .text-body-secondary {
+    opacity: 0.6;
+}
+
+/* --- extras.css --- */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/extras.css */
+
+/* 1. Threat Profile Card (The Dossier) */
+.card {
+    border-radius: 0; /* Brutalist corners */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Axiom State (Red/Alert) */
+.card.border-danger {
+    border-width: 2px;
+    box-shadow: 0 0 15px rgba(220, 53, 69, 0.1);
+}
+
+/* Reality State (Green/Nature) */
+.card.border-success {
+    border-width: 2px;
+    box-shadow: 0 0 15px rgba(42, 157, 143, 0.2);
+}
+
+.card-header {
+    border-bottom-width: 2px;
+    font-family: var(--rs-font-monospace);
+    letter-spacing: 1px;
+}
+
+/* 2. Skill Pills / Tech Specs */
+.skill-pill {
+    font-family: var(--rs-font-monospace);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    border: 1px solid var(--rs-border-color);
+    background: transparent;
+    color: var(--rs-body-color);
+    padding: 2px 8px;
+}
+
+/* 3. Hero Typography */
+.display-1, .display-2, .display-3 {
+    font-weight: 900;
+    /* Optional: Gives a slight "worn" look to large text if using an image mask, 
+       but standard solid color is safer for readability. */
+}
+
+/* 4. Immersive Background Helper */
+.bg-glass-dark {
+    background: rgba(11, 12, 16, 0.85); /* Matches --knox-obsidian with opacity */
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+/* --- safety-net.css --- */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/safety-net.css */
+
+/* 1. Font Stack Override */
+/* We want a distinct "Typewriter/Terminal" feel for the prose and UI */
+body {
+    font-family: "Courier New", Courier, monospace; 
+    /* Fallback to system-ui only if monospace fails drastically */
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, sans-serif; /* Headings stay legible/bold */
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+/* 2. Button Sharpness */
+/* Axiom doesn't do soft corners. */
+.btn {
+    border-radius: 0 !important; 
+    font-family: var(--rs-font-monospace);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+
+/* 3. Form Controls (Search/Login if present) */
+.form-control {
+    border-radius: 0;
+    background-color: var(--rs-tertiary-bg);
+    border-color: var(--rs-border-color);
+    color: var(--rs-body-color);
+}
+
+.form-control:focus {
+    background-color: var(--rs-body-bg);
+    border-color: var(--rs-primary);
+    box-shadow: none; /* No soft glow, hard borders only */
+}
+

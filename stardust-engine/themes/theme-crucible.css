@@ -1,0 +1,378 @@
+/* Stardust Engine Theme: crucible */
+
+/* --- root.css --- */
+/* root-crucible.css */
+/* The Stardust Engine - "Live at The Crucible" Theme (CPI) */
+/* WCAG 2.1 AA Compliant */
+
+body.theme-crucible {
+  /* 1. CPI Ironhead Palette (Brand Identity) */
+  --cpi-maroon: #630031;      /* Deep Maroon */
+  --cpi-orange: #E87722;      /* Brand Orange (Buttons/Borders only) */
+  --cpi-orange-text: #C25600; /* Darker Orange for Text on White (WCAG AA) */
+  
+  --cpi-dark: #120308;        /* Deepened Maroon Black for better contrast */
+  --cpi-light: #F8F9FA;       /* Stadium White */
+  
+  /* 2. Utility Bases */
+  --rs-white: #ffffff;
+  --rs-white-rgb: 255, 255, 255;
+  --rs-black: #000000;
+  --rs-black-rgb: 0, 0, 0;
+}
+
+/* Light Mode (Default / Day Game) */
+:root,
+[data-bs-theme="light"] {
+  /* Theme Mapping */
+  --rs-primary: #630031;       /* CPI Maroon */
+  --rs-secondary: #495057;     /* Concrete Grey */
+  --rs-success: #198754;
+  --rs-info: #004085;          /* Navy */
+  
+  /* WARNING: Brand Orange is for UI elements, not text on white */
+  --rs-warning: #E87722;       
+  --rs-danger: #D92537;        /* Accessible Red */
+  
+  /* Backgrounds */
+  --rs-body-bg: #FFFFFF;       
+  --rs-body-color: #212529;    /* High Contrast Grey */
+  
+  /* RGB Values */
+  --rs-primary-rgb: 99, 0, 49;
+  --rs-secondary-rgb: 73, 80, 87;
+  --rs-warning-rgb: 232, 119, 34;
+  --rs-danger-rgb: 217, 37, 55;
+  
+  --rs-body-bg-rgb: 255, 255, 255;
+  --rs-body-color-rgb: 33, 37, 41;
+
+  --rs-link-color: #630031;    /* Maroon Links */
+  --rs-link-hover-color: #C25600; /* Dark Orange Hover */
+  --rs-border-color: #DEE2E6;
+}
+
+/* Dark Mode (Night Game) */
+@media (prefers-color-scheme: dark) {
+  body.theme-crucible {
+    --rs-body-bg: #120308;      /* Deep Void Maroon */
+    --rs-body-color: #F8F9FA;   /* Stadium White */
+    --rs-body-bg-rgb: 18, 3, 8;
+    --rs-body-color-rgb: 248, 249, 250;
+
+    /* High Contrast Switches for Night Mode */
+    /* In dark mode, Orange pops against black. Maroon disappears. */
+    --rs-primary: #E87722;      /* Switch Primary to Orange */
+    --rs-primary-rgb: 232, 119, 34;
+    
+    --rs-secondary: #ADB5BD;    /* Lighter Grey for visibility */
+    --rs-border-color: #630031; /* Maroon Borders */
+    
+    --rs-link-color: #FF9E5E;   /* Light Orange for Links */
+    --rs-link-hover-color: #FFFFFF;
+    
+    --rs-tertiary-bg: #2D0B15; 
+  }
+}
+
+/* Force Dark Mode Override */
+[data-bs-theme="dark"] {
+    --rs-body-bg: #120308;
+    --rs-body-color: #F8F9FA;
+    --rs-body-bg-rgb: 18, 3, 8;
+    --rs-body-color-rgb: 248, 249, 250;
+    
+    --rs-primary: #E87722;
+    --rs-primary-rgb: 232, 119, 34;
+    
+    --rs-secondary: #ADB5BD;
+    --rs-border-color: #630031;
+    
+    --rs-link-color: #FF9E5E;
+    --rs-link-hover-color: #FFFFFF;
+    
+    --rs-tertiary-bg: #2D0B15;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* bootstrap-header.css (Crucible Theme) */
+
+/* 1. Navbar Base */
+header .navbar {
+    background-color: var(--rs-body-bg) !important;
+    border-bottom: 2px solid var(--rs-primary) !important; /* Thicker border for sport feel */
+    transition: background-color 0.3s ease;
+}
+
+/* 2. Text Colors */
+header .navbar-brand {
+    color: var(--rs-heading-color, var(--rs-body-color)) !important;
+}
+
+header .nav-link {
+    color: var(--rs-body-color) !important; /* Use body color for better contrast */
+    opacity: 0.8;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    color: var(--rs-primary) !important;
+    opacity: 1;
+    text-decoration: underline; /* Add underline for accessibility */
+    text-underline-offset: 4px;
+}
+
+/* 3. Hamburger Menu */
+header wa-icon-button[name=\"bars\"] {
+    border-color: var(--rs-primary) !important;
+}
+header wa-icon-button[name=\"bars\"] .hamburger-bar {
+    background-color: var(--rs-primary) !important;
+}
+
+/* 4. Dropdowns */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+}
+header wa-dropdown-item {
+    color: var(--rs-body-color) !important;
+}
+header wa-dropdown-item:hover {
+    background-color: var(--rs-primary) !important; 
+    color: var(--rs-white) !important; /* Invert text on hover */
+}
+
+/* CORPORATE LOGO MAGIC */
+.navbar-brand-corporate-img {
+    mix-blend-mode: multiply; 
+}
+
+[data-bs-theme="dark"] .navbar-brand-corporate-img {
+    filter: invert(1) grayscale(100%) brightness(1.2); 
+    mix-blend-mode: screen; 
+}
+
+/* --- footer.css --- */
+/* bootstrap-footer.css (Crucible Theme) */
+
+footer {
+    background-color: var(--rs-body-bg) !important; 
+    color: var(--rs-body-color) !important;            
+    border-top: 4px solid var(--rs-primary) !important; /* Thick "Crucible" border */
+}
+
+/* Fix Muted Text - Ensure WCAG compliance */
+footer .text-body-secondary,
+footer .text-muted {
+    color: var(--rs-secondary) !important; 
+    opacity: 1 !important; /* Prevent double-fading */
+}
+
+/* Links */
+footer a,
+footer .link-secondary,
+footer .link-body-emphasis {
+    color: var(--rs-link-color) !important;
+    text-decoration: none;
+}
+
+footer a:hover,
+footer .link-secondary:hover {
+    color: var(--rs-link-hover-color) !important;
+    text-decoration: underline;
+}
+
+/* Konami Modal */
+#konamiModal wa-dialog::part(panel) {
+    background-color: var(--rs-body-bg) !important;
+    border: 2px solid var(--rs-primary) !important;
+    color: var(--rs-body-color) !important;
+}
+
+/* --- extras.css --- */
+/* extras-crucible.css */
+/* Visual FX for the Crucible Theme */
+
+/* --- 0. ACCESSIBILITY CORE --- */
+/* Global Focus Ring for Keyboard Navigation */
+:focus-visible {
+    outline: 3px solid var(--rs-warning);
+    outline-offset: 2px;
+}
+
+/* 1. Text Glows (Maroon to Orange Fire) */
+.text-glow-primary {
+    color: var(--rs-primary); /* Fallback */
+    background: linear-gradient(135deg, var(--rs-warning), var(--rs-primary));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(0 0 2px rgba(232, 119, 34, 0.3));
+}
+
+/* 2. HUD System (High Contrast Industrial Glass) */
+/* Note: background opacity increased to 0.9 for readability */
+
+.bg-hud-blue, .bg-hud-info {
+    background-color: rgba(0, 64, 133, 0.9);
+    border: 1px solid var(--rs-info);
+    color: #ffffff !important;
+}
+
+.bg-hud-green, .bg-hud-success {
+    background-color: rgba(25, 135, 84, 0.9);
+    border: 1px solid var(--rs-success);
+    color: #ffffff !important;
+}
+
+.bg-hud-red, .bg-hud-danger {
+    background-color: rgba(220, 53, 69, 0.9);
+    border: 1px solid var(--rs-danger);
+    color: #ffffff !important;
+}
+
+/* 3. Container Glows */
+.border-glow {
+    border: 2px solid var(--rs-warning) !important;
+    box-shadow: 0 0 15px rgba(var(--rs-warning-rgb), 0.3);
+}
+
+.shadow-glow {
+    box-shadow: 0 5px 15px rgba(var(--rs-primary-rgb), 0.4);
+}
+
+/* 4. Font Awesome */
+.fa-duotone {
+    --fa-primary-color: var(--rs-primary);
+    --fa-secondary-color: var(--rs-warning);
+}
+
+/* 5. Responsive Utilities */
+@media (min-width: 768px) {
+    .border-start-md {
+        border-left: 3px solid var(--rs-primary) !important;
+    }
+}
+
+/* 6. Reduced Motion (Accessibility) */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
+        filter: none !important; /* Disable heavy glows */
+    }
+}
+
+/* .btn-outline-light Backfill */
+.btn-outline-light {
+  --rs-btn-color: #f8f9fa;
+  --rs-btn-border-color: #f8f9fa;
+  --rs-btn-hover-color: #000;
+  --rs-btn-hover-bg: #f8f9fa;
+  --rs-btn-hover-border-color: #f8f9fa;
+  --rs-btn-active-color: #000;
+  --rs-btn-active-bg: #f8f9fa;
+  --rs-btn-active-border-color: #f8f9fa;
+}
+
+/* --- safety-net.css --- */
+/* safety-net-crucible.css */
+/* Overrides for "Live at The Crucible" */
+
+/* 1. Typography (Sports / Industrial Feel) */
+body {
+    font-family: "Courier New", Courier, monospace;
+}
+/* Headers get the Impact font for that "Varsity" look */
+h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .display-4 {
+    font-family: "Impact", "Arial Black", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 2. Dark Mode Fixes */
+@media (prefers-color-scheme: dark) {
+    .alert-warning {
+        background-color: #3D1000; /* Dark Orange bg */
+        border-color: #E87722;
+        color: #F8F9FA; /* White text for contrast */
+    }
+    
+    /* Fix Button Contrast: BLACK text on Orange button is mandatory */
+    .btn-primary {
+        color: #000000 !important; 
+        background-color: var(--rs-primary);
+        border-color: var(--rs-primary);
+        font-weight: bold;
+    }
+    
+    /* Fix Card transparency - must be dark enough for white text */
+    .card {
+        background-color: rgba(30, 10, 15, 0.85); /* 85% opacity */
+        border-color: var(--rs-border-color);
+    }
+    
+    /* Ensure Navbar text is white against the dark header */
+    .navbar-brand { color: #FFFFFF !important; }
+}
+
+/* Force Dark Mode Classes */
+[data-bs-theme="dark"] .alert-warning {
+    background-color: #3D1000;
+    border-color: #E87722;
+    color: #F8F9FA;
+}
+[data-bs-theme="dark"] .btn-primary {
+    color: #000000 !important;
+    background-color: var(--rs-primary);
+    border-color: var(--rs-primary);
+    font-weight: bold;
+}
+[data-bs-theme="dark"] .card {
+    background-color: rgba(30, 10, 15, 0.85);
+    border-color: var(--rs-border-color);
+}
+[data-bs-theme="dark"] .navbar-brand { 
+    color: #FFFFFF !important; 
+}
+

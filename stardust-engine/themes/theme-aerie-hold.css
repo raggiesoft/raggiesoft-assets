@@ -1,0 +1,330 @@
+/* Stardust Engine Theme: aerie-hold */
+
+/* --- root.css --- */
+/* Theme: Aerie-Hold (Day/Night Cycle) */
+/* Concept: The living breath of the Weave. */
+
+body.theme-aerie-hold {
+    /* --- The Palette (Day - High Canopy) --- */
+    --aerie-mist: #e6f2f2;      /* Pale Atmospheric Blue/White */
+    --aerie-sunlight: #f0f4c3;  /* Filtered Sunlight */
+    --aerie-leaf: #386641;      /* Healthy Green */
+    --aerie-wood: #5d4037;      /* Warm Bark */
+    
+    /* --- The Palette (Night - Bioluminescence) --- */
+    --aerie-void: #05161a;      /* Deepest Jungle Dark */
+    --aerie-night-sky: #072e33; /* Canopy Shadow */
+    --aerie-glow-cyan: #29bf12; /* Fungal Green (Active) */
+    --aerie-glow-blue: #0cce6b; /* River Glow */
+    --aerie-spore: #abff4f;     /* Toxic/Warning Yellow-Green */
+
+    /* --- Global Utils --- */
+    --rs-border-radius: 4px;    /* Slightly softened edges (organic) */
+    --rs-border-width: 1px;
+}
+
+/* --- LIGHT MODE: The Canopy (Day) --- */
+:root,
+[data-bs-theme="light"] {
+    /* Core Bootstrap Mapping */
+    --rs-primary: var(--aerie-leaf);
+    --rs-primary-rgb: 56, 102, 65;
+    
+    --rs-secondary: #6a994e;
+    --rs-success: #31572c;
+    --rs-info: #90a955;
+    --rs-warning: #bc4749; /* Berry Red */
+    
+    /* Backgrounds */
+    --rs-body-bg: var(--aerie-mist);
+    --rs-body-color: #1a2f23; /* Dark Green-Black text */
+    
+    /* Surfaces */
+    --rs-tertiary-bg: #ffffff;
+    --rs-border-color: #a7c957; /* Pale green borders */
+    
+    /* Links */
+    --rs-link-color: var(--aerie-leaf);
+    --rs-link-hover-color: #132a13;
+}
+
+/* --- DARK MODE: The Bioluminescence (Night) --- */
+[data-bs-theme="dark"] {
+    /* Core Bootstrap Mapping */
+    --rs-primary: var(--aerie-glow-blue); /* The "River" guides you */
+    --rs-primary-rgb: 12, 206, 107;
+    
+    --rs-secondary: #2c6e49;
+    --rs-success: var(--aerie-glow-cyan);
+    --rs-info: #4ecdc4;
+    --rs-warning: var(--aerie-spore);
+    
+    /* Backgrounds */
+    --rs-body-bg: var(--aerie-void);
+    --rs-body-color: #e0fbfc; /* Pale Cyan Text (Moonlight) */
+    
+    /* Surfaces */
+    --rs-tertiary-bg: var(--aerie-night-sky);
+    --rs-border-color: #14591d; /* Deep green structural borders */
+    
+    /* Links */
+    --rs-link-color: var(--aerie-glow-cyan);
+    --rs-link-hover-color: #fff;
+}
+
+/* ==========================================================================
+ * WEB AWESOME PRO MAPPING LAYER
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ========================================================================== */
+:root, 
+[data-bs-theme="light"], 
+[data-bs-theme="dark"] {
+  --rs-brand-fill-loud: var(--rs-primary);
+  --rs-brand-text-loud: var(--rs-primary);
+  --rs-brand-border-loud: var(--rs-primary);
+  
+  --rs-danger-fill-loud: var(--rs-danger);
+  --rs-danger-text-loud: var(--rs-danger);
+  --rs-danger-border-loud: var(--rs-danger);
+  
+  --rs-warning-fill-loud: var(--rs-warning);
+  --rs-warning-text-loud: var(--rs-warning);
+  --rs-warning-border-loud: var(--rs-warning);
+  
+  --rs-success-fill-loud: var(--rs-success);
+  --rs-success-text-loud: var(--rs-success);
+  --rs-success-border-loud: var(--rs-success);
+
+  --rs-info-fill-loud: var(--rs-info);
+  --rs-info-text-loud: var(--rs-info);
+  
+  --rs-surface-default: var(--rs-body-bg);
+  --rs-surface-raised: var(--rs-tertiary-bg, rgba(255, 255, 255, 0.05));
+  --rs-surface-lowered: var(--rs-tertiary-bg, rgba(0, 0, 0, 0.05));
+  
+  --rs-text-normal: var(--rs-body-color);
+  --rs-neutral-text-quiet: var(--rs-secondary);
+  
+  --rs-neutral-border-quiet: var(--rs-border-color);
+  --rs-surface-border: var(--rs-border-color);
+}
+
+
+/* --- header.css --- */
+/* header.css */
+
+/* 1. Navbar Container */
+header .navbar {
+    /* Day: Feels like a sturdy wooden platform. Night: Feels like a safe zone. */
+    background-color: var(--rs-body-bg) !important;
+    border-bottom: 3px solid var(--rs-primary) !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    transition: background-color 0.5s ease, border-color 0.5s ease;
+}
+
+/* 2. Brand Identity */
+header .navbar-brand {
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--rs-body-color) !important;
+}
+
+/* 3. Navigation Links */
+header .nav-link {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    color: var(--rs-body-color) !important;
+    opacity: 0.8;
+    transition: all 0.3s ease;
+}
+
+header .nav-link:hover,
+header .nav-link.active {
+    opacity: 1;
+    color: var(--rs-primary) !important;
+    text-shadow: 0 0 10px rgba(var(--rs-primary-rgb), 0.4); /* Subtle glow */
+}
+
+/* 4. Dropdowns (Woven aesthetic) */
+header wa-dropdown::part(panel) {
+    background-color: var(--rs-tertiary-bg) !important;
+    border: 1px solid var(--rs-border-color) !important;
+    border-top: 3px solid var(--rs-primary) !important;
+    border-radius: 0 0 4px 4px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+header wa-dropdown-item {
+    font-size: 0.9rem;
+    color: var(--rs-body-color) !important;
+    padding: 10px 20px;
+    border-left: 2px solid transparent; /* Marker for hover */
+}
+
+header wa-dropdown-item:hover {
+    background-color: transparent !important; /* Keep bg clear */
+    color: var(--rs-primary) !important;
+    border-left-color: var(--rs-primary); /* "Tab" effect on hover */
+    padding-left: 25px; /* Slight movement */
+    transition: all 0.2s ease;
+}
+
+header .dropdown-divider {
+    border-top: 1px solid var(--rs-border-color);
+    opacity: 0.3;
+}
+
+/* --- footer.css --- */
+/* footer.css */
+
+footer {
+    background-color: var(--rs-tertiary-bg) !important;
+    color: var(--rs-body-color) !important;
+    border-top: 1px solid var(--rs-border-color) !important;
+    position: relative;
+}
+
+/* Add a "Moss" gradient line at the top */
+footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, var(--rs-primary), var(--rs-success));
+    opacity: 0.7;
+}
+
+/* Footer Links */
+footer a {
+    color: var(--rs-body-color) !important;
+    text-decoration: none;
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+}
+
+footer a:hover {
+    color: var(--rs-primary) !important;
+    opacity: 1;
+    text-shadow: 0 0 5px rgba(var(--rs-primary-rgb), 0.5);
+}
+
+/* Muted Text */
+footer .text-muted,
+footer .text-body-secondary {
+    opacity: 0.5;
+    color: var(--rs-body-color) !important;
+}
+
+/* --- extras.css --- */
+/* extras.css - Aerie-Hold Specific Elements */
+
+/* 1. Skill Pills (Organic Tags) */
+.skill-pill {
+    font-family: var(--rs-font-monospace);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    border: 1px solid var(--rs-border-color);
+    border-radius: 50px; /* Fully rounded, organic seeds */
+    color: var(--rs-body-color);
+    background-color: rgba(var(--rs-primary-rgb), 0.1);
+    padding: 4px 12px;
+    display: inline-block;
+    margin: 2px;
+}
+
+/* 2. Cards (The Pods) */
+.card {
+    background-color: var(--rs-tertiary-bg);
+    border: 1px solid var(--rs-border-color);
+    border-radius: 4px;
+    /* Soft shadow for day, Glow for night via variables */
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05); 
+}
+
+/* 3. Hero Typography (Atmospheric) */
+.display-1, .display-2 {
+    font-weight: 900;
+    letter-spacing: -1px;
+    /* In dark mode, this needs to glow */
+}
+
+/* 4. Immersive Glass (The Mist) */
+.bg-glass-dark {
+    background: rgba(5, 22, 26, 0.7); /* Deep Void Tint */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.bg-glass-light {
+    background: rgba(230, 242, 242, 0.7); /* Mist Tint */
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+/* 5. Buttons (Crafted Tools) */
+.btn-primary {
+    background-color: var(--rs-primary);
+    border-color: var(--rs-primary);
+    color: #fff; /* Always white text on primary buttons */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.btn-primary:hover {
+    filter: brightness(1.1);
+    box-shadow: 0 0 15px rgba(var(--rs-primary-rgb), 0.6); /* Biolum glow on hover */
+}
+
+/* --- safety-net.css --- */
+/* safety-net.css - Overrides & Font Stacks */
+
+/* 1. Font Stack */
+/* Keeping the Monospace for the "Log/Report" feel, but softening it */
+body {
+    font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
+    line-height: 1.7; /* Airy line height for the "High Canopy" feel */
+}
+
+/* Headings: Clean, Strong Sans-Serif (The "Truth" vs the "Report") */
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 800;
+    text-transform: none; /* Let the casing breathe */
+}
+
+/* 2. Form Controls (If used for search) */
+.form-control {
+    background-color: var(--rs-body-bg);
+    border: 1px solid var(--rs-border-color);
+    color: var(--rs-body-color);
+}
+
+.form-control:focus {
+    background-color: var(--rs-body-bg);
+    border-color: var(--rs-primary);
+    box-shadow: 0 0 0 0.25rem rgba(var(--rs-primary-rgb), 0.25);
+}
+
+/* 3. Scrollbar (The Vine) */
+/* Chrome/Safari/Edge */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: var(--rs-body-bg);
+}
+::-webkit-scrollbar-thumb {
+    background-color: var(--rs-border-color);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--rs-primary);
+}
+
