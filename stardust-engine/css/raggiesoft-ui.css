@@ -1,0 +1,137 @@
+/* =========================================================
+   STARDUST ENGINE - CORE UI COMPONENTS
+   Replaces Web Awesome Shadow DOM components
+   ========================================================= */
+
+/* --- Typography & Base --- */
+body {
+    background-color: var(--rs-bg, #ffffff);
+    color: var(--rs-text, #000000);
+    font-family: var(--rs-font-sans, system-ui, sans-serif);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* --- Buttons (.rs-btn) --- */
+.rs-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid var(--rs-color-primary-600, #0d6efd);
+    border-radius: var(--rs-border-radius-medium, 0.25rem);
+    background-color: var(--rs-color-primary-600, #0d6efd);
+    color: var(--rs-color-neutral-0, #ffffff);
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+}
+.rs-btn:hover {
+    background-color: var(--rs-color-primary-700, #0b5ed7);
+    border-color: var(--rs-color-primary-700, #0a58ca);
+    color: var(--rs-color-neutral-0, #ffffff);
+    text-decoration: none;
+}
+.rs-btn[disabled] {
+    opacity: 0.65;
+    pointer-events: none;
+}
+
+/* --- Modals / Dialogs (.rs-modal) --- */
+.rs-modal {
+    padding: 1.5rem;
+    border: 1px solid var(--rs-color-neutral-200, #e5e7eb);
+    border-radius: var(--rs-border-radius-large, 0.5rem);
+    background-color: var(--rs-bg, #ffffff);
+    color: var(--rs-text, #000000);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    max-width: 500px;
+    width: 90%;
+    margin: auto;
+}
+.rs-modal::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(2px);
+}
+
+/* --- Sidebar / Drawers (.rs-sidebar) --- */
+.rs-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 300px;
+    max-width: 80%;
+    background-color: var(--rs-bg, #ffffff);
+    border-right: 1px solid var(--rs-color-neutral-200, #e5e7eb);
+    z-index: 1050;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    overflow-y: auto;
+    padding: 1rem;
+    box-shadow: 4px 0 10px rgba(0,0,0,0.1);
+}
+.rs-sidebar.open {
+    transform: translateX(0);
+}
+
+/* --- Badges (.rs-badge) --- */
+.rs-badge {
+    display: inline-block;
+    padding: 0.25em 0.6em;
+    font-size: 0.75em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 999px;
+    background-color: var(--rs-color-primary-600, #0d6efd);
+    color: #fff;
+}
+
+/* --- Trees / Accordions (.rs-tree) --- */
+.rs-tree {
+    margin-bottom: 0.5rem;
+}
+.rs-tree summary {
+    cursor: pointer;
+    padding: 0.5rem;
+    font-weight: 600;
+    list-style: none; /* Hide default arrow in some browsers */
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+}
+.rs-tree summary::-webkit-details-marker {
+    display: none; /* Hide default arrow in webkit */
+}
+.rs-tree summary::before {
+    content: '\25B6'; /* Right arrow */
+    font-size: 0.8em;
+    margin-right: 0.5rem;
+    transition: transform 0.2s;
+    color: var(--rs-color-neutral-500, #6c757d);
+}
+.rs-tree[open] > summary::before {
+    transform: rotate(90deg);
+}
+.rs-tree summary:hover {
+    background-color: var(--rs-color-neutral-100, #f8f9fa);
+}
+.rs-tree > .rs-tree-item {
+    padding-left: 1.5rem;
+    margin-top: 0.25rem;
+}
+
+/* --- Generic Overrides --- */
+a.rs-btn {
+    text-decoration: none;
+}
