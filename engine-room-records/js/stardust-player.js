@@ -373,75 +373,154 @@
         
         if (typeof dom.modalElement.showModal === "function") { dom.modalElement.showModal(); } else { dom.modalElement.show(); }
 
-        // 2. Fetch MD File (with cache busting ?v=timestamp to ensure fresh lore)
-        fetch(url + "?v=" + Date.now())
-            .then(response => {
-                if (!response.ok) throw new Error("Lore file not found.");
-                return response.text();
-            })
-            .then(text => {
-                // 3. Parse Markdown
-                // Sanitize HTML tags to prevent XSS
-                let safeText = text.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+        // Derive VTT URL from MD URL
+        const vttUrl = url.replace(/\.md$/, '.vtt');
+
+        // 2. Fetch MD File and VTT File Concurrently
+        Promise.all([
+            fetch(url + "?v=" + Date.now()).then(res => {
+                if (!res.ok) throw new Error("Lore file not found.");
+                return res.text();
+            }),
+            // Catch VTT fetch errors gracefully so MD still renders if VTT is missing
+            fetch(vttUrl + "?v=" + Date.now()).then(res => res.ok ? res.text() : null).catch(() => null)
+        ])
+        .then(([mdText, vttText]) => {
+            
+            // --- Parse VTT Cues (if available) ---
+            let cues = [];
+            if (vttText) {
+                const vttLines = vttText.trim().split(/[\r\n]+/);
+                let currentCue = null;
+                // Matches standard WebVTT timestamp format: 00:00:00.000 --> 00:00:00.000
+                const timeRegex = /(?:(\d{2}):)?(\d{2}):(\d{2})\.(\d{3})\s*-->\s*(?:(\d{2}):)?(\d{2}):(\d{2})\.(\d{3})/;
                 
-                // Split file by double newlines (paragraphs)
-                let blocks = safeText.split(/\n\s*\n/);
-
-                // Process each block
-                let htmlOutput = blocks.map(block => {
-                    let lines = block.trim().split(/\n/);
-                    if (lines.length === 0) return '';
-
-                    let headerHtml = '';
-                    let contentLines = lines;
-                    let firstLine = lines[0].trim();
-
-                    // Detect "**HEADER:**" pattern (e.g., **LORE NOTE:**)
-                    if (firstLine.match(/^\*\*[A-Z ]+:\*\*$/)) {
-                        let cleanHeader = firstLine.replace(/\*\*/g, ''); // Strip stars
-                        headerHtml = `<h4 class="text-warning fw-bold border-bottom border-secondary pb-2 mb-3 mt-2">${cleanHeader}</h4>`;
-                        contentLines = lines.slice(1); // Remove header from body
-                    }
-                    // Detect "[Section Header]" pattern (e.g., [Chorus])
-                    else if (firstLine.match(/^[\(\[].*?[\)\]]$/)) {
-                        headerHtml = `<h5 class="text-info fw-bold text-uppercase mb-2 mt-2">${firstLine}</h5>`;
-                        contentLines = lines.slice(1);
-                    }
-
-                    // Bold specific text within lines
-                    // Process text formatting within lines
-                    let processedBody = contentLines.map(line => {
-                        let parsedLine = line;
-
-                        // 1. Handle Bold (**text** or __text__)
-                        // Swap 'text-body' for a color that pops against your dark/light themes
-                        parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-warning-emphasis fw-bold">$2</strong>');
+                vttLines.forEach(line => {
+                    const l = line.trim();
+                    if (l === "WEBVTT") return;
+                    
+                    const timeMatch = l.match(timeRegex);
+                    if (timeMatch) {
+                        if (currentCue) cues.push(currentCue);
                         
-                        // 2. Handle Italics (*text* or _text_)
-                        // Note: We do this AFTER bold so the double asterisks are already converted!
-                        parsedLine = parsedLine.replace(/(\*|_)(.*?)\1/g, '<em class="text-body">$2</em>');
+                        const parseTime = (h, m, s, ms) => (h ? parseInt(h)*3600 : 0) + (parseInt(m)*60) + parseInt(s) + (parseInt(ms)/1000);
+                        currentCue = {
+                            start: parseTime(timeMatch[1], timeMatch[2], timeMatch[3], timeMatch[4]),
+                            end: parseTime(timeMatch[5], timeMatch[6], timeMatch[7], timeMatch[8]),
+                            text: ""
+                        };
+                    } else if (currentCue && l) {
+                        currentCue.text += (currentCue.text ? " " : "") + l;
+                    }
+                });
+                if (currentCue) cues.push(currentCue);
+            }
 
-                        // 3. (Optional) Handle Strikethrough (~~text~~)
-                        parsedLine = parsedLine.replace(/~~(.*?)~~/g, '<del>$1</del>');
+            // --- Parse Markdown ---
+            let safeText = mdText.replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            let blocks = safeText.split(/\n\s*\n/);
+            
+            let cueIndex = 0; // Pointer for sequential VTT assignment
 
-                        return parsedLine;
+            let htmlOutput = blocks.map(block => {
+                let lines = block.trim().split(/\n/);
+                if (lines.length === 0) return '';
+
+                let headerHtml = '';
+                let contentLines = lines;
+                let firstLine = lines[0].trim();
+
+                // Detect headers
+                if (firstLine.match(/^\*\*[A-Z ]+:\*\*$/)) {
+                    let cleanHeader = firstLine.replace(/\*\*/g, '');
+                    headerHtml = `<h4 class="text-warning fw-bold border-bottom border-secondary pb-2 mb-3 mt-2">${cleanHeader}</h4>`;
+                    contentLines = lines.slice(1);
+                }
+                else if (firstLine.match(/^[\(\[].*?[\)\]]$/)) {
+                    headerHtml = `<h5 class="text-info fw-bold text-uppercase mb-2 mt-2">${firstLine}</h5>`;
+                    contentLines = lines.slice(1);
+                }
+
+                let processedBody = contentLines.map(line => {
+                    let parsedLine = line;
+                    parsedLine = parsedLine.replace(/(\*\*|__)(.*?)\1/g, '<strong class="text-warning-emphasis fw-bold">$2</strong>');
+                    parsedLine = parsedLine.replace(/(\*|_)(.*?)\1/g, '<em class="text-body">$2</em>');
+                    parsedLine = parsedLine.replace(/~~(.*?)~~/g, '<del>$1</del>');
+
+                    // Strip markdown for text evaluation
+                    let rawTextForMatch = line.replace(/[*_~]/g, '').trim();
+                    let cueData = "";
+                    
+                    // Attach VTT cue timestamps to this line if it has readable text
+                    if (cues.length > 0 && rawTextForMatch.length > 0) {
+                        if (cueIndex < cues.length) {
+                            let c = cues[cueIndex];
+                            cueData = `data-start="${c.start}" data-end="${c.end}"`;
+                            cueIndex++;
+                        }
+                    }
+
+                    // Wrap each line in a block-level span (so it naturally line-breaks instead of using <br>)
+                    // and apply a smooth transition for the glowing effect.
+                    return `<span class="lyric-line d-block transition-all" style="transition: all 0.3s ease; transform-origin: left;" ${cueData}>${parsedLine}</span>`;
+                });
+
+                if (contentLines.length === 0) return `<div class="mb-4">${headerHtml}</div>`;
+
+                return `
+                    <div class="lyrics-block mb-4">
+                        ${headerHtml}
+                        <div style="line-height: 1.8;">${processedBody.join('')}</div>
+                    </div>`;
+            }).join('');
+
+            // 4. Render
+            dom.modalContent.innerHTML = `<div class="p-3 lyrics-container">${htmlOutput}</div>`;
+            
+            // --- Sync Karaoke Highlighting ---
+            if (cues.length > 0) {
+                const linesElements = dom.modalContent.querySelectorAll('.lyric-line[data-start]');
+                
+                // Cleanup any previous event listeners on new loads
+                if (window._lyricsTimeUpdateHandler) {
+                    dom.audio.removeEventListener('timeupdate', window._lyricsTimeUpdateHandler);
+                }
+
+                window._lyricsTimeUpdateHandler = () => {
+                    // Stop executing if modal is closed
+                    if (!dom.modalElement.hasAttribute('open') && dom.modalElement.style.display === 'none') return;
+                    
+                    const currentTime = dom.audio.currentTime;
+                    linesElements.forEach(el => {
+                        const start = parseFloat(el.getAttribute('data-start'));
+                        const end = parseFloat(el.getAttribute('data-end'));
+                        
+                        // Active line
+                        if (currentTime >= start && currentTime <= end) {
+                            el.classList.add('text-primary', 'fw-bold');
+                            el.style.transform = "scale(1.05)";
+                            el.style.opacity = "1";
+                        // Past lines (dimmed)
+                        } else if (currentTime > end) {
+                            el.classList.remove('text-primary', 'fw-bold');
+                            el.style.transform = "scale(1)";
+                            el.style.opacity = "0.4"; // Fade out sung lyrics
+                        // Future lines (normal)
+                        } else {
+                            el.classList.remove('text-primary', 'fw-bold');
+                            el.style.transform = "scale(1)";
+                            el.style.opacity = "1";
+                        }
                     });
-
-                    if (contentLines.length === 0) return `<div class="mb-4">${headerHtml}</div>`;
-
-                    return `
-                        <div class="lyrics-block mb-4">
-                            ${headerHtml}
-                            <div style="line-height: 1.6;">${processedBody.join('<br>')}</div>
-                        </div>`;
-                }).join('');
-
-                // 4. Render
-                dom.modalContent.innerHTML = `<div class="p-3">${htmlOutput}</div>`;
-            })
-            .catch(err => {
-                dom.modalContent.innerHTML = `<div class="alert alert-warning m-3">Data Corrupted. Unable to retrieve lyrics.</div>`;
-            });
+                };
+                
+                dom.audio.addEventListener('timeupdate', window._lyricsTimeUpdateHandler);
+            }
+        })
+        .catch(err => {
+            console.error("Lyrics Load Error:", err);
+            dom.modalContent.innerHTML = `<div class="alert alert-warning m-3">Data Corrupted. Unable to retrieve lyrics.</div>`;
+        });
     };
 
 })();

@@ -18,6 +18,7 @@ REBUILD=false
 FORCE_IGPU=false
 OVERWRITE=false
 METADATA_ONLY=false
+NO_VTT=false
 ffmpeg_flag="-n"
 
 while [[ "$#" -gt 0 ]]; do
@@ -29,6 +30,7 @@ while [[ "$#" -gt 0 ]]; do
             ;;
         --force-igpu) FORCE_IGPU=true ;;
         --metadata) METADATA_ONLY=true ;;
+        --no-vtt) NO_VTT=true ;;
         *) echo "🛑 HARPER: Unknown parameter passed: $1"; exit 1 ;;
     esac
     shift

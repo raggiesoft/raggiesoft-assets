@@ -1,6 +1,4 @@
 
-(Bright, pulsating 1980s synthesizer sequence building into an upbeat rock groove)
-
 The motherboard is humming, the processor is bright
 Running a million calculations in the night
 The standard cables crossed, the audio is cut
@@ -40,8 +38,6 @@ They miss the massive symphony that's playing over there
 But if you read the data and you understand the spark
 We'll light a neon fire in the middle of the dark
 
-(Upbeat, melodic guitar solo weaving with bright synths)
-
 Right in the center of the board
 A single point to strike the chord
 We are the output for the silent code
@@ -50,4 +46,3 @@ Navigating by the Crimson Node
 The center point
 We are the voice
 The Crimson Node
-(Fade out on a triumphant, echoing synth chord)

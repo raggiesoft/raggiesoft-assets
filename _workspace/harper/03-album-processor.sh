@@ -149,7 +149,7 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
 
     while read -r track_json; do
         source "$MODULE_DIR/04-track-processor.sh"
-    done < <(jq -c '.tracks[]' "tracks.json")
+    done < <(jq -c 'if type == "array" then .[] else .tracks[] end' "tracks.json")
 
     # Array length logic rewritten safely
     ARRAY_LENGTH=`echo ${#PIDS[@]}`
@@ -180,7 +180,7 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
             echo "" > "$COMBINED_LYRICS_FILE"
             echo "" >> "$COMBINED_LYRICS_FILE"
 
-            jq -c '.tracks[]' "tracks.json" | while read -r track_json_booklet; do
+            jq -c 'if type == "array" then .[] else .tracks[] end' "tracks.json" | while read -r track_json_booklet; do
                 FILE_BASE_BOOKLET=`echo "$track_json_booklet" | jq -r '.fileName'`
                 LYRIC_MD_BOOKLET="lyrics/$FILE_BASE_BOOKLET.md"
                 

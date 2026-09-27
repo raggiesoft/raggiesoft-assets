@@ -1,6 +1,4 @@
 
-(Bright, triumphant analog synthesizers and a driving 1980s progressive rock drum beat)
-
 The architecture's finally running clean
 Two new variables lighting up the screen
 No firewall needed, no defensive wall
@@ -41,8 +39,6 @@ The permanent anchor on the Crimson Node
 They see the main circuit and they understand
 We are running optimal across the board
 
-(Bright, soaring 1980s electric guitar solo over pulsing synthesizers)
-
 The firewall's resting, the shields are all down
 There isn't a threat in this part of the town
 A perfect alignment, a synchronized beat
@@ -58,4 +54,3 @@ We are running optimal across the board
 A flawless routine
 A beautiful view
 Zero anomalies
-(Music fades out on a triumphant synthesizer chord)

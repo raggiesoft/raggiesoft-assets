@@ -1,5 +1,5 @@
 
-*(A fast, rhythmic sequence of high-pitched analog synth pings mimicking a radar sweep. A crisp, driving 16th-note drum machine snaps in, layered with a tight, pulsating bassline. It is fast, highly quantized, and purely electronic.)*
+(A fast, rhythmic sequence of high-pitched analog synth pings mimicking a radar sweep. A crisp, driving 16th-note drum machine snaps in, layered with a tight, pulsating bassline. It is fast, highly quantized, and purely electronic.)
 
 I'm typing out the coordinates on the terminal screen
 The cleanest set of numbers that I've ever seen
@@ -39,7 +39,7 @@ Looking at the numbers and decoding the signs
 I won't let you pull me, I won't let you drag me down
 But I'll send you the telemetry from my side of town
 
-*(The driving beat stays completely rigid. Cassidy layers a fast, overlapping series of staccato synthesizer lines that sound like two supercomputers rapidly trading encrypted data back and forth.)*
+(The driving beat stays completely rigid. Cassidy layers a fast, overlapping series of staccato synthesizer lines that sound like two supercomputers rapidly trading encrypted data back and forth.)
 
 Signal out
 Signal received
@@ -56,4 +56,4 @@ But I'll send you the telemetry from my side of town
 Signal out
 End transmission
 Telemetry
-*(The drum machine cuts out instantly. The high-pitched radar pings continue for three more sweeps before shutting down, leaving pure silence)*
+(The drum machine cuts out instantly. The high-pitched radar pings continue for three more sweeps before shutting down, leaving pure silence)

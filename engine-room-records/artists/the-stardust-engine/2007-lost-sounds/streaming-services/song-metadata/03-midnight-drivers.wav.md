@@ -4,7 +4,7 @@
 * **Track Title:** Midnight Drivers
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Archival Compilation
-* **Real-World DSP Release Date:** 2026-09-16
+* **Real-World DSP Release Date:** 2026-09-27
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

@@ -3,6 +3,19 @@
 # --- HARPER: THE STUDIO ENGINEER (Modular Edition) ---
 # "I live in the studio. I take raw master tapes and press them for the airwaves."
 
+# --- OS-SPECIFIC OVERRIDES ---
+if [[ "$OSTYPE" == "darwin"* ]] && command -v caffeinate > /dev/null; then
+    # If we are not already wrapped, re-execute the script inside caffeinate
+    if [ "$1" != "--caffeinated" ]; then
+        echo "☕ HARPER: Pouring a cup of hot chocolate to keep the studio awake..."
+        exec caffeinate -im "$0" --caffeinated "$@"
+    fi
+    # If we are wrapped, shift out the internal flag so the rest of the script functions normally
+    if [ "$1" == "--caffeinated" ]; then
+        shift
+    fi
+fi
+
 # --- RECORD START TIME ---
 START_EPOCH=$(date +%s)
 START_TIME_STR=$(date +"%Y-%m-%d %I:%M:%S %p")

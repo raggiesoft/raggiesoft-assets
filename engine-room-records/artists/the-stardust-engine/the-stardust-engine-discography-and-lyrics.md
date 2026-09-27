@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 09-14-2026 03:39:12 PM
+Compiled on: 09-27-2026 07:38:31 AM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -5482,7 +5482,7 @@ According to the lore, Ryan and Cassidy had stepped out of the booth, and the tw
 [Abrupt Stop]
 # Mile Marker 98 (2003)
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Moon 2 (Roche Limit)
 ### Lore
@@ -6171,7 +6171,7 @@ Friction!
 
 # Sanctuary (Zero-G) (2003)
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Moon 1 (Tidal Lock)
 ### Lore
@@ -6927,7 +6927,7 @@ Safe travels on your return to terrestrial gravity.
 *(The electronic drone completely fades out)*
 # Lost Sounds (2007) [CompilationAlbum]
 * **Narrative Era:** 2007
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## The Promise (1989 'Sermon' Demo)
 *(Instrumental / Structure-Only Track)*

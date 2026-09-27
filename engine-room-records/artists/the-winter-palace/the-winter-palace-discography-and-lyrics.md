@@ -1,10 +1,10 @@
 
 # The Winter Palace - Master Discography & Lore
-Compiled on: 09-14-2026 03:56:46 PM
+Compiled on: 09-27-2026 11:46:57 AM
 
 # Tales from the Solstice (2007)
 * **Narrative Era:** 2007
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Overture of the Frost
 [Instrumental Intro]

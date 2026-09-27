@@ -1,7 +1,7 @@
 
-*(A raw, stripped-down acoustic guitar picks a steady, grounded rhythm. A muted, muffled kick drum thumps like a slow heartbeat. The energy is restrained, cautious, and deliberate.)*
+(A raw, stripped-down acoustic guitar picks a steady, grounded rhythm. A muted, muffled kick drum thumps like a slow heartbeat. The energy is restrained, cautious, and deliberate.)
 
-*(Restrained, gritty male rock vocals)*
+(Restrained, gritty male rock vocals)
 The natural physics don't apply to me no more
 I can't feel the boots resting on the cabin floor
 The medical bay is quiet and the damage is done
@@ -24,7 +24,7 @@ If the natural pull is permanently gone
 I'll engineer the weight just to carry on
 Making my own Artificial Gravity
 
-*(A clean, chorus-pedal electric guitar joins the acoustic, thickening the sound. The drum beat becomes a steady, 1980s mid-tempo rock march, but it remains controlled.)*
+(A clean, chorus-pedal electric guitar joins the acoustic, thickening the sound. The drum beat becomes a steady, 1980s mid-tempo rock march, but it remains controlled.)
 It’s a stalemate year in the center of the void
 Picking up the pieces of the ship that got destroyed
 I'm mapping out the protocols, tracking every hour
@@ -45,7 +45,7 @@ If the natural pull is permanently gone
 I'll engineer the weight just to carry on
 Making my own Artificial Gravity
 
-*(Ryan plays a very clean, blues-inspired 1980s rock solo. It does not shred or scream; it is deliberate, melodic, and deeply emotional. It is the sound of a musician re-learning the fretboard from a new perspective.)*
+(Ryan plays a very clean, blues-inspired 1980s rock solo. It does not shred or scream; it is deliberate, melodic, and deeply emotional. It is the sound of a musician re-learning the fretboard from a new perspective.)
 
 The engine is quiet, but it hasn't stopped
 The pressure is holding, the anchor is dropped
@@ -63,4 +63,4 @@ Making my own Artificial Gravity
 I'll engineer the weight
 The stalemate year
 Artificial Gravity
-*(The electric guitar drops out, leaving only the original acoustic guitar pattern. It slowly slows down, coming to a gentle, controlled stop)*
+(The electric guitar drops out, leaving only the original acoustic guitar pattern. It slowly slows down, coming to a gentle, controlled stop)

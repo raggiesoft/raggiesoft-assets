@@ -1,7 +1,5 @@
 
-(Intro)
 
-(Verse 1)
 The 5:45 Maroon Express
 Was a logistical mistake
 A 30-minute highway ride
@@ -11,13 +9,11 @@ But left us in the freeze
 A 45-minute wait outside
 Is an unacceptable disease
 
-(Pre-Chorus)
 The variable has changed
 His health is the priority
 The system must be optimized
 For sustainability
 
-(Chorus)
 The new normal is 6 AM
 A new alarm, a brand new plan
 Route 1 Local, a slower pace
@@ -27,7 +23,6 @@ A logical and warm asset
 This is the system, this is the shield
 The old inefficiency must yield
 
-(Verse 2)
 It stops at every local street
 It stops at the New River Mall
 It's not as fast, it's not "express"
@@ -37,13 +32,11 @@ We're safe inside the library
 Before the 7 AM wave
 A perfect victory
 
-(Pre-Chorus)
 The variable has changed
 His health is the priority
 The system must be optimized
 For sustainability
 
-(Chorus)
 The new normal is 6 AM
 A new alarm, a brand new plan
 Route 1 Local, a slower pace
@@ -53,8 +46,6 @@ A logical and warm asset
 This is the system, this is the shield
 The old inefficiency must yield
 
-(Outro)
-(Spoken)
 "System is stable."
 "Commute protocol is active."
 "Optimal solution found."

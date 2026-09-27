@@ -1,10 +1,40 @@
 
 # Firelight - Master Discography & Lore
-Compiled on: 09-14-2026 03:39:11 PM
+Compiled on: 09-27-2026 07:38:30 AM
 
 # The Silver Gauntlet of Aethel (Theatrical Soundtrack) (1987) [SoundtrackAlbum]
 * **Narrative Era:** 1987
 * **Real-World DSP Release:** 2026-04-02
+
+## A Sister's Love (Main Theme)
+*(Instrumental / Structure-Only Track)*
+
+## The Architect's Lesson (Edit)
+*(Instrumental / Structure-Only Track)*
+
+## Seraphina's Promise
+*(Instrumental / Structure-Only Track)*
+
+## The Fall of Sunstead
+*(Instrumental / Structure-Only Track)*
+
+## A World Without Suns
+*(Instrumental / Structure-Only Track)*
+
+## Blind Navigation
+*(Instrumental / Structure-Only Track)*
+
+## The Tyrant's Throne (Shadow's Heart)
+*(Instrumental / Structure-Only Track)*
+
+## The Iron Heart (Action Cue)
+*(Instrumental / Structure-Only Track)*
+
+## The Rescue (Theatrical Ending)
+*(Instrumental / Structure-Only Track)*
+
+## Starlight Love (End Credits)
+*(Instrumental / Structure-Only Track)*
 
 # The Silver Gauntlet of Aethel, Book I: The Unwinding Path (Original Motion Picture Soundtrack) (2017) [SoundtrackAlbum]
 * **Narrative Era:** 2017
@@ -116,7 +146,7 @@ Compiled on: 09-14-2026 03:39:11 PM
 
 #  ()
 * **Narrative Era:** 
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Hunter and the Hunted
 *(Instrumental / Structure-Only Track)*
@@ -153,7 +183,7 @@ Compiled on: 09-14-2026 03:39:11 PM
 
 #  ()
 * **Narrative Era:** 
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## A Sister's Love (Main Theme)
 *(Instrumental / Structure-Only Track)*
@@ -253,7 +283,7 @@ Compiled on: 09-14-2026 03:39:11 PM
 
 #  ()
 * **Narrative Era:** 
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## A Sister's Love (Main Theme)
 *(Instrumental / Structure-Only Track)*

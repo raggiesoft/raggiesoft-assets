@@ -1,6 +1,4 @@
 
-(A bright, triumphant, heavily nostalgic 16-bit retro synthesizer arpeggio, instantly joined by a massive 1980s gated reverb snare drum and driving bassline)
-
 It started out at the tables in the middle of the day
 Watching how the heavy world just gets in the way
 We didn't bring the pity, we didn't bring the noise
@@ -47,8 +45,6 @@ Just an absolute devotion and a promise to be there
 We are standing on the frontlines, shoulder to shoulder now
 We earned the sacred trust, and we are honoring the vow
 
-(A soaring, virtuosic synthesizer solo using a distinct, retro 16-bit wavetable sound, shredding over the heavy 80s arena rock beat)
-
 We got the clearance! We made it through the gate
 A pair of safe variables altering the fate
 We bypassed the firewall, we passed the final test
@@ -57,4 +53,3 @@ Welcome to the sanctuary, welcome to the nest
 [Female Vocal 1] Safe variables
 [Female Vocal 2] The double-tap is green
 [Both] We got the clearance
-(The massive drums crash one final time, leaving the bright 16-bit synth to cleanly fade out)

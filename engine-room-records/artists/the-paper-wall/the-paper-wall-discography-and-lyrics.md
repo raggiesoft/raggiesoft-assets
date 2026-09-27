@@ -1,6 +1,6 @@
 
 # The Paper Wall - Master Discography & Lore
-Compiled on: 09-14-2026 03:46:00 PM
+Compiled on: 09-27-2026 09:15:59 AM
 
 # Guiding Stars (2000)
 * **Narrative Era:** 2000
@@ -551,7 +551,7 @@ With your loving, steady hand!
 A mid-tempo, heartfelt 80s rock anthem with a strong New Wave influence, around 120 BPM, The music should be melodic and driving, featuring a prominent, catchy synthesizer riff, a clean chorus-effect electric guitar, and a steady, powerful drum machine beat, The mood is one of profound gratitude and a sense of quiet strength, a tribute to an older sister who built a safe home, (Exclude: ‑Pop, ‑Funk, ‑Acoustic, ‑Folk, ‑Orchestral)
 # Static & Silence, Book 1: The Long Road West (2001)
 * **Narrative Era:** 2001
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Nineteen and Invincible
 ### Lore
@@ -1263,7 +1263,7 @@ This is the "Death of the Voice." The crash is followed by a long, dead silence,
 (The track ends with the heavy, final sound of a door slamming and the *click* of a deadbolt sliding home.)
 # Static & Silence, Book 2: The Journey Home (2001)
 * **Narrative Era:** 2001
-* **Real-World DSP Release:** 2026-09-14
+* **Real-World DSP Release:** 2026-09-27
 
 ## Curbstone, 4 AM
 ### Lore

@@ -157,7 +157,7 @@ fi
 
 if [ ! -f "$METADATA_MD" ] || [ "$OVERWRITE" = true ]; then
     echo "         -> 📋 Drafting DistroKid-Optimized Metadata sheet..."
-    cat < "$METADATA_MD"
+    cat << EOF > "$METADATA_MD"
 # $TITLE - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
@@ -206,12 +206,71 @@ if [ -f "$LYRIC_MD" ]; then
         REGEX_STRUCT="([Vv]erse|[Cc]horus|[Bb]ridge|[Ii]ntro|[Oo]utro|[Hh]ook|[Pp]re-?[Cc]horus|[Ii]nterlude|[Ss]olo)([[:space:]]*[0-9]+)?(:)?"
         sed '1,/\*\*LYRICS:\*\*/d' "$LYRIC_MD" | \
         sed -E '/^[[:space:]]*[[](.*)[]][[:space:]]*$/d' | \
+        sed -E '/^[[:space:]]*[(](.*)[)][[:space:]]*$/d' | \
         sed -E "/^[[:space:]]*$REGEX_STRUCT[[:space:]]*$/d" | \
+        sed -E 's/\*\*//g' | sed -E 's/__//g' | sed -E 's/\*//g' | sed -E 's/_//g' | \
         sed -E 's/[.,?!;:]+[[:space:]]*$//' | \
         cat -s | sed '/^[[:space:]]*$/{N;/^\n$/D;}' > "$LYRIC_TXT"
     else
         echo "         ⏭️  DSP Lyrics already clean! Fast-forwarding."
     fi
+    
+    LYRIC_VTT="streaming-services/lyrics/$FILE_BASE.vtt"
+    SOURCE_VTT="lyrics/$FILE_BASE.vtt"
+    
+    if [ -f "$LYRIC_TXT" ] && [ -f "$WAV_FILE" ] && [ "$NO_VTT" = false ]; then
+        
+        # Check if the user placed a manual VTT in the source lyrics/ folder
+        if [ -f "$SOURCE_VTT" ] && grep -q "SYNC_TYPE: HUMAN_VERIFIED" "$SOURCE_VTT"; then
+            echo "         🛡️   Human-Verified source VTT detected! Copying directly and skipping WhisperX."
+            cp "$SOURCE_VTT" "$LYRIC_VTT"
+        else
+            # Check if there's already a verified one in the build folder to protect it
+            IS_HUMAN_VERIFIED=false
+            if [ -f "$LYRIC_VTT" ] && grep -q "SYNC_TYPE: HUMAN_VERIFIED" "$LYRIC_VTT"; then
+                IS_HUMAN_VERIFIED=true
+            fi
+            
+            if [ "$IS_HUMAN_VERIFIED" = true ]; then
+                echo "         🛡️   Human-Verified VTT detected in build folder! Protecting from WhisperX overwrite."
+            elif [ ! -f "$LYRIC_VTT" ] || [ "$OVERWRITE" = true ]; then
+            echo "         -> 🤖 Running Demucs Vocal Isolation & Whisper VTT Forced Alignment..."
+            
+            # Run HuggingFace completely offline to prevent rate-limiting and token warnings for both Demucs and Whisper
+            export HF_HUB_OFFLINE=1
+            
+            # Step A: Vocal Isolation (MPS Accelerated)
+            PYTHONWARNINGS="ignore" demucs --two-stems=vocals -o demucs_out "$WAV_FILE"
+            VOCALS_STEM="demucs_out/htdemucs/$FILE_BASE/vocals.wav"
+            
+            if [ -f "$VOCALS_STEM" ]; then
+                # Step B: Forced Alignment 
+                PYTHONWARNINGS="ignore" whisperx "$VOCALS_STEM" \
+                    --output_dir lyrics \
+                    --output_format vtt \
+                    --model large-v2 \
+                    --compute_type int8 \
+                    --language en \
+                    --max_line_width 40 \
+                    --max_line_count 1
+                
+                # whisperx outputs as vocals.vtt based on the stem filename
+                if [ -f "lyrics/vocals.vtt" ]; then
+                    mv "lyrics/vocals.vtt" "$SOURCE_VTT"
+                    cp "$SOURCE_VTT" "$LYRIC_VTT"
+                fi
+                
+                # Step C: Studio Cleanup
+                rm -rf demucs_out
+            else
+                echo "         ⚠️  Demucs failed to isolate vocals."
+            fi
+        else
+            echo "         ⏭️  DSP VTT already generated! Fast-forwarding."
+        fi
+        fi
+    fi
+
 fi
 
 if [ "$METADATA_ONLY" = false ]; then
