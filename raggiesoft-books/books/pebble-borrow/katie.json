@@ -40,7 +40,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The APEX Late\u2011Night Switch (Amanda Wakes Up at 10:59 PM)",
+                            "part_title": "Part 1: The APEX Late\u2011Night Switch",
                             "file_path": "b002/c003/p001.md"
                         },
                         {
@@ -144,22 +144,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Night Watch (The RNs)",
+                            "part_title": "Part 1: The Night Watch",
                             "file_path": "b023/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Muscle (The CNAs)",
+                            "part_title": "Part 2: The Muscle",
                             "file_path": "b023/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Rebuilders (The PTA and OT)",
+                            "part_title": "Part 3: The Rebuilders",
                             "file_path": "b023/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Shield (The Administration)",
+                            "part_title": "Part 4: The Shield",
                             "file_path": "b023/c008/p004.md"
                         }
                     ]

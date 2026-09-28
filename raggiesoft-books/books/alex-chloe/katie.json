@@ -61,7 +61,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "A Date with Jennifer (c. 1998)",
+                    "chap_title": "A Date with Jennifer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -647,7 +647,7 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: MEGAN!!!! (The Chaperone Arrives)",
+                            "part_title": "Part 4: MEGAN!!!!",
                             "file_path": "b005/c002/p004.md"
                         },
                         {
@@ -694,7 +694,7 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: A Line too Far (for Josh Riley)",
+                            "part_title": "Part 5: A Line too Far",
                             "file_path": "b006/c001/p005.md"
                         }
                     ]
@@ -807,7 +807,7 @@
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "A Pacific Northwest Interlude: Summer After Graduation (2003)",
+                    "chap_title": "A Pacific Northwest Interlude: Summer After Graduation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -852,17 +852,17 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The First Lifeline (Las Vegas)",
+                            "part_title": "Part 4: The First Lifeline",
                             "file_path": "b007/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: A Voice Across the Continent (Seattle)",
+                            "part_title": "Part 5: A Voice Across the Continent",
                             "file_path": "b007/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: Home Safe (Lynnwood)",
+                            "part_title": "Part 6: Home Safe",
                             "file_path": "b007/c002/p006.md"
                         }
                     ]
@@ -967,7 +967,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Lingering Connections, Looming Threats (Fall 2003)",
+                    "chap_title": "Lingering Connections, Looming Threats",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1462,7 +1462,7 @@
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: Un Avenir Sans Fardeau (A Future Unburdened)",
+                            "part_title": "Part 7: Un Avenir Sans Fardeau",
                             "file_path": "b009/c003/p007.md"
                         },
                         {
@@ -1741,7 +1741,7 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Bienvenue au Qu\u00e9bec (Welcome to Qu\u00e9bec)",
+                            "part_title": "Part 3: Bienvenue au Qu\u00e9bec",
                             "file_path": "b010/c003/p003.md"
                         },
                         {
@@ -1930,7 +1930,7 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Setup (A Week Later)",
+                            "part_title": "Part 2: The Setup",
                             "file_path": "b011/c002/p002.md"
                         },
                         {
@@ -2230,61 +2230,61 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Le Grand Jour (The Big Day) (Saturday, October 9<sup>th</sup>, 2010)",
+                    "chap_title": "Le Grand Jour (The Big Day)",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Les Pr\u00e9paratifs (Getting Ready)",
+                            "part_title": "Part 1: Les Pr\u00e9paratifs",
                             "file_path": "b015/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: La C\u00e9r\u00e9monie (The Ceremony)",
+                            "part_title": "Part 2: La C\u00e9r\u00e9monie",
                             "file_path": "b015/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: La R\u00e9ception (The Reception)",
+                            "part_title": "Part 3: La R\u00e9ception",
                             "file_path": "b015/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: La Premi\u00e8re Danse (The First Dance)",
+                            "part_title": "Part 4: La Premi\u00e8re Danse",
                             "file_path": "b015/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Les Danses d\\'Honneur (The Dances of Honor)",
+                            "part_title": "Part 5: Les Danses d\\'Honneur",
                             "file_path": "b015/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: L\\'Unit\u00e9 Ins\u00e9parable (The Unbreakable Unit)",
+                            "part_title": "Part 6: L\\'Unit\u00e9 Ins\u00e9parable",
                             "file_path": "b015/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: Les Discours (The Toasts)",
+                            "part_title": "Part 7: Les Discours",
                             "file_path": "b015/c004/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: La Coupe du G\u00e2teau (The Cutting of the Cake)",
+                            "part_title": "Part 8: La Coupe du G\u00e2teau",
                             "file_path": "b015/c004/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "Part 9: La Poutine C\u00e9l\u00e9bratoire (The Celebratory Poutine)",
+                            "part_title": "Part 9: La Poutine C\u00e9l\u00e9bratoire",
                             "file_path": "b015/c004/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "Part 10: La Derni\u00e8re Danse (The Last Dance)",
+                            "part_title": "Part 10: La Derni\u00e8re Danse",
                             "file_path": "b015/c004/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Part 11: La Fin de la Soir\u00e9e (The End of the Night)",
+                            "part_title": "Part 11: La Fin de la Soir\u00e9e",
                             "file_path": "b015/c004/p011.md"
                         },
                         {
@@ -2347,7 +2347,7 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Long Drive of Shame (The Next Day)",
+                            "part_title": "Part 3: The Long Drive of Shame",
                             "file_path": "b016/c001/p003.md"
                         },
                         {

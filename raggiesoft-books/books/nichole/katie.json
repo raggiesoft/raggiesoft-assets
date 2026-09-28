@@ -13,7 +13,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Bachelor Pad (The Lab)",
+                            "part_title": "Part 1: The Bachelor Pad",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
@@ -99,7 +99,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Middle School Life (Working Title)",
+                    "chap_title": "Middle School Life",
                     "parts": [
                         {
                             "part_num": 1,
@@ -145,7 +145,7 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The War Room (Breakfast)",
+                            "part_title": "Part 2: The War Room",
                             "file_path": "b003/c001/p002.md"
                         },
                         {
@@ -1084,7 +1084,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Recovery Room (The Advocacy Test)",
+                            "part_title": "Part 1: The Recovery Room",
                             "file_path": "b008/c005/p001.md"
                         },
                         {
@@ -1109,12 +1109,12 @@
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Night Shift (The Spasm Protocol)",
+                            "part_title": "Part 6: The Night Shift",
                             "file_path": "b008/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: New Year\\'s Eve (The Shift Change)",
+                            "part_title": "Part 7: New Year\\'s Eve",
                             "file_path": "b008/c005/p007.md"
                         }
                     ]
@@ -1145,7 +1145,7 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Downgrade (Day Release)",
+                            "part_title": "Part 5: The Downgrade",
                             "file_path": "b008/c006/p005.md"
                         }
                     ]
@@ -1206,7 +1206,7 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Home Office (The Workflow)",
+                            "part_title": "Part 2: The Home Office",
                             "file_path": "b011/c001/p002.md"
                         },
                         {

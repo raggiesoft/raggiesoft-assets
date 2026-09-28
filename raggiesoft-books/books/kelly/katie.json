@@ -387,12 +387,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Developer Community (The Narrators)",
+                            "part_title": "Part 1: The Developer Community",
                             "file_path": "b002/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The CEOs (The Bidders)",
+                            "part_title": "Part 2: The CEOs",
                             "file_path": "b002/c002/p002.md"
                         }
                     ]
