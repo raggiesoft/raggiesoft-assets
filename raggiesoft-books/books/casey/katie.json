@@ -112,8 +112,6 @@
                 ]
             },
             {
-                "chapter_num": 4,
-                "chapter_title": "Chapter 4: The Return Vector",
                 "parts": [
                     {
                         "part_num": 1,
@@ -130,11 +128,11 @@
                         "part_title": "Part 3: The Sibling Anchor",
                         "file_path": "b001/c004/p003.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 4: The Return Vector",
+                "chap_num": 4
             },
             {
-                "chapter_num": 5,
-                "chapter_title": "Chapter 5: The Morning After",
                 "parts": [
                     {
                         "part_num": 1,
@@ -146,11 +144,11 @@
                         "part_title": "Part 2: The Ecology Camp Logistics",
                         "file_path": "b001/c005/p002.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 5: The Morning After",
+                "chap_num": 5
             },
             {
-                "chapter_num": 6,
-                "chapter_title": "Chapter 6: The VDU Deployment",
                 "parts": [
                     {
                         "part_num": 1,
@@ -172,11 +170,11 @@
                         "part_title": "Part 4: The Assistant Manager",
                         "file_path": "b001/c006/p004.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 6: The VDU Deployment",
+                "chap_num": 6
             },
             {
-                "chapter_num": 7,
-                "chapter_title": "Chapter 7: Week 1 - Coastal Ecology",
                 "parts": [
                     {
                         "part_num": 1,
@@ -193,11 +191,11 @@
                         "part_title": "Part 3: Sample Recovery",
                         "file_path": "b001/c007/p003.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 7: Week 1 - Coastal Ecology",
+                "chap_num": 7
             },
             {
-                "chapter_num": 8,
-                "chapter_title": "Chapter 8: Week 2 - Atmospheric Dynamics",
                 "parts": [
                     {
                         "part_num": 1,
@@ -209,11 +207,11 @@
                         "part_title": "Part 2: The Full-Scale Tunnel",
                         "file_path": "b001/c008/p002.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 8: Week 2 - Atmospheric Dynamics",
+                "chap_num": 8
             },
             {
-                "chapter_num": 9,
-                "chapter_title": "Chapter 9: Week 3 - Aerospace",
                 "parts": [
                     {
                         "part_num": 1,
@@ -230,11 +228,11 @@
                         "part_title": "Part 3: NovaScreen and the Gift Shop",
                         "file_path": "b001/c009/p003.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 9: Week 3 - Aerospace",
+                "chap_num": 9
             },
             {
-                "chapter_num": 10,
-                "chapter_title": "Chapter 10: Week 4 - Marine Biology",
                 "parts": [
                     {
                         "part_num": 1,
@@ -251,11 +249,11 @@
                         "part_title": "Part 3: The Submission",
                         "file_path": "b001/c010/p003.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 10: Week 4 - Marine Biology",
+                "chap_num": 10
             },
             {
-                "chapter_num": 11,
-                "chapter_title": "Chapter 11: Northwest Pacific",
                 "parts": [
                     {
                         "part_num": 1,
@@ -282,11 +280,11 @@
                         "part_title": "Part 5: The Hotel Logistics",
                         "file_path": "b001/c011/p005.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 11: Northwest Pacific",
+                "chap_num": 11
             },
             {
-                "chapter_num": 12,
-                "chapter_title": "Chapter 12: The Open House",
                 "parts": [
                     {
                         "part_num": 1,
@@ -323,11 +321,11 @@
                         "part_title": "Part 7: The Vacation Protocol",
                         "file_path": "b001/c012/p007.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 12: The Open House",
+                "chap_num": 12
             },
             {
-                "chapter_num": 13,
-                "chapter_title": "The Emerald City",
                 "parts": [
                     {
                         "part_num": 1,
@@ -364,12 +362,17 @@
                         "part_title": "Part 7: The Privacy Protocol",
                         "file_path": "b001/c013/p007.md"
                     }
-                ]
+                ],
+                "chap_title": "The Emerald City",
+                "chap_num": 13
             },
             {
-                "chapter_num": 14,
-                "chapter_title": "Chapter 14: TBA",
                 "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Part 1: Siren Roasters",
+                        "file_path": "b001/c014/p001.md"
+                    },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Underwater Dome",
@@ -400,11 +403,11 @@
                         "part_title": "Part 7: The Extraction",
                         "file_path": "b001/c014/p007.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 14: The Deep End",
+                "chap_num": 14
             },
             {
-                "chapter_num": 15,
-                "chapter_title": "Chapter 15: The Pre-Dawn Run \u2013 Saturday, August 26, 1995",
                 "parts": [
                     {
                         "part_num": 1,
@@ -421,11 +424,11 @@
                         "part_title": "Part 3: The Chicago Layover",
                         "file_path": "b001/c015/p003.md"
                     }
-                ]
+                ],
+                "chap_title": "Chapter 15: The Pre-Dawn Run",
+                "chap_num": 15
             },
             {
-                "chapter_num": 16,
-                "chapter_title": "Chapter 16: The Catalyst \u2013 April 21, 1996",
                 "parts": [
                     {
                         "part_num": 1,
@@ -442,18 +445,9 @@
                         "part_title": "Part 3: The Sleepover",
                         "file_path": "b001/c016/p003.md"
                     }
-                ]
-            },
-            {
-                "chapter_num": 14,
-                "chapter_title": "Chapter 14: The Deep End \u2013 Friday, August 25, 1995",
-                "parts": [
-                    {
-                        "part_num": 1,
-                        "part_title": "Part 1: Siren Roasters",
-                        "file_path": "b001/c014/p001.md"
-                    }
-                ]
+                ],
+                "chap_title": "Chapter 16: The Catalyst",
+                "chap_num": 16
             }
         ]
     },
@@ -531,229 +525,323 @@
             },
             {
                 "chap_num": 4,
-                "chap_title": "Chapter 4: The Mask",
+                "chap_title": "Chapter 4: The Three-Way Call",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Terminal",
+                        "part_title": "Part 1: The Holiday Plans",
                         "file_path": "b002/c004/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Return to the Coast",
+                        "part_title": "Part 2: The Invitation",
                         "file_path": "b002/c004/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Part 3: The Perimeter Shift",
-                        "file_path": "b002/c004/p003.md"
                     }
                 ]
             },
             {
                 "chap_num": 5,
-                "chap_title": "Chapter 5: The Ambush",
+                "chap_title": "Chapter 5: The Mask",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Morning Anchor",
+                        "part_title": "Part 1: The Terminal",
                         "file_path": "b002/c005/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Kitchen Ambush",
+                        "part_title": "Part 2: The Return to the Coast",
                         "file_path": "b002/c005/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: The Hard Sever",
+                        "part_title": "Part 3: The Perimeter Shift",
                         "file_path": "b002/c005/p003.md"
                     }
                 ]
             },
             {
                 "chap_num": 6,
-                "chap_title": "Chapter 6: The Crossroads",
+                "chap_title": "Chapter 6: The Ambush",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Golden Architecture",
+                        "part_title": "Part 1: The Morning Anchor",
                         "file_path": "b002/c006/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Executive Reality",
+                        "part_title": "Part 2: The Kitchen Ambush",
                         "file_path": "b002/c006/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: The Summer Frequency",
+                        "part_title": "Part 3: The Hard Sever",
                         "file_path": "b002/c006/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Part 4: The Twenty-One Day Bridge",
-                        "file_path": "b002/c006/p004.md"
                     }
                 ]
             },
             {
                 "chap_num": 7,
-                "chap_title": "Chapter 7: The Severance",
+                "chap_title": "Chapter 7: The Crossroads",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Checkpoint",
+                        "part_title": "Part 1: The Golden Architecture",
                         "file_path": "b002/c007/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Firewall",
+                        "part_title": "Part 2: The Executive Reality",
                         "file_path": "b002/c007/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Part 3: The Summer Frequency",
+                        "file_path": "b002/c007/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Part 4: The Twenty-One Day Bridge",
+                        "file_path": "b002/c007/p004.md"
                     }
                 ]
             },
             {
                 "chap_num": 8,
-                "chap_title": "Chapter 8: The Executive Ascent",
+                "chap_title": "Chapter 8: The Severance",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: Burton Station Road",
+                        "part_title": "Part 1: The Checkpoint",
                         "file_path": "b002/c008/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Flight Data",
+                        "part_title": "Part 2: The Firewall",
                         "file_path": "b002/c008/p002.md"
-                    },
-                    {
-                        "part_num": 3,
-                        "part_title": "Part 3: The Honorary Sister",
-                        "file_path": "b002/c008/p003.md"
-                    },
-                    {
-                        "part_num": 4,
-                        "part_title": "Part 4: The Moving Logistics",
-                        "file_path": "b002/c008/p004.md"
                     }
                 ]
             },
             {
                 "chap_num": 9,
-                "chap_title": "Chapter 9: The Executive Departure",
+                "chap_title": "Chapter 9: The Executive Ascent",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Morning Knock",
+                        "part_title": "Part 1: Burton Station Road",
                         "file_path": "b002/c009/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: The Flight Logistics",
+                        "part_title": "Part 2: The Flight Data",
                         "file_path": "b002/c009/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: The Sovereign Airspace",
+                        "part_title": "Part 3: The Honorary Sister",
                         "file_path": "b002/c009/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Part 4: The Global Reach",
+                        "part_title": "Part 4: The Moving Logistics",
                         "file_path": "b002/c009/p004.md"
-                    },
-                    {
-                        "part_num": 5,
-                        "part_title": "Part 5: The I-5 Crawl",
-                        "file_path": "b002/c009/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 10,
-                "chap_title": "Chapter 10: The Federal Way Perimeter",
+                "chap_title": "Chapter 10: The Executive Departure",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: The Legal Boundary",
+                        "part_title": "Part 1: The Morning Knock",
                         "file_path": "b002/c010/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: Comfort Food and The Ledger",
+                        "part_title": "Part 2: The Flight Logistics",
                         "file_path": "b002/c010/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: The Evening Routine",
+                        "part_title": "Part 3: The Sovereign Airspace",
                         "file_path": "b002/c010/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Part 4: The Blackout",
+                        "part_title": "Part 4: The Global Reach",
                         "file_path": "b002/c010/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Part 5: The I-5 Crawl",
+                        "file_path": "b002/c010/p005.md"
                     }
                 ]
             },
             {
                 "chap_num": 11,
-                "chap_title": "Chapter 11: The Blackout",
+                "chap_title": "Chapter 11: The Federal Way Perimeter",
                 "parts": [
                     {
                         "part_num": 1,
-                        "part_title": "Part 1: Pantry Logistics",
+                        "part_title": "Part 1: The Social Boundary",
                         "file_path": "b002/c011/p001.md"
                     },
                     {
                         "part_num": 2,
-                        "part_title": "Part 2: Circadian Logistics",
+                        "part_title": "Part 2: Comfort Food and The Ledger",
                         "file_path": "b002/c011/p002.md"
                     },
                     {
                         "part_num": 3,
-                        "part_title": "Part 3: The Eastside Expansion",
+                        "part_title": "Part 3: The Evening Routine",
                         "file_path": "b002/c011/p003.md"
                     },
                     {
                         "part_num": 4,
-                        "part_title": "Part 4: The Tier-One Acquisition",
+                        "part_title": "Part 4: The Blackout",
                         "file_path": "b002/c011/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 12,
+                "chap_title": "Chapter 12: The Blackout",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Part 1: Pantry Logistics",
+                        "file_path": "b002/c012/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Part 2: Circadian Logistics",
+                        "file_path": "b002/c012/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Part 3: The Eastside Expansion",
+                        "file_path": "b002/c012/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Part 4: The Tier-One Acquisition",
+                        "file_path": "b002/c012/p004.md"
                     },
                     {
                         "part_num": 5,
                         "part_title": "Part 5: The Sunday Dispatch",
-                        "file_path": "b002/c011/p005.md"
+                        "file_path": "b002/c012/p005.md"
                     },
                     {
                         "part_num": 6,
                         "part_title": "Part 6: The Redmond Compound Acquisition",
-                        "file_path": "b002/c011/p006.md"
+                        "file_path": "b002/c012/p006.md"
                     },
                     {
                         "part_num": 7,
                         "part_title": "Part 7: The Contract Execution",
-                        "file_path": "b002/c011/p007.md"
+                        "file_path": "b002/c012/p007.md"
                     },
                     {
                         "part_num": 8,
                         "part_title": "Part 8: The Accepted Strike",
-                        "file_path": "b002/c011/p008.md"
+                        "file_path": "b002/c012/p008.md"
                     },
                     {
                         "part_num": 9,
                         "part_title": "Part 9: The TAPS Grid",
-                        "file_path": "b002/c011/p009.md"
+                        "file_path": "b002/c012/p009.md"
                     },
                     {
                         "part_num": 10,
                         "part_title": "Part 10: The Sunday Night Reset",
-                        "file_path": "b002/c011/p010.md"
+                        "file_path": "b002/c012/p010.md"
                     },
                     {
                         "part_num": 11,
                         "part_title": "Part 11: The A-B Block and Qu\u00e9b\u00e9cois French",
-                        "file_path": "b002/c011/p011.md"
+                        "file_path": "b002/c012/p011.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 13,
+                "chap_title": "Chapter 13: The Holiday Deployment",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Part 1: The PVD Rendezvous",
+                        "file_path": "b002/c013/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Part 2: The Ghost Highway",
+                        "file_path": "b002/c013/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Part 3: The Mount Hope Arrival",
+                        "file_path": "b002/c013/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Part 4: The Sea of Humanity",
+                        "file_path": "b002/c013/p004.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 14,
+                "chap_title": "Chapter 14: The Aquidneck Christmas",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Part 1: The Morning Pile",
+                        "file_path": "b002/c014/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Part 2: The Forty Steps",
+                        "file_path": "b002/c014/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Part 3: The Autonomic Check",
+                        "file_path": "b002/c014/p003.md"
+                    },
+                    {
+                        "part_num": 4,
+                        "part_title": "Part 4: R\u00e9veillon Under the Bridge",
+                        "file_path": "b002/c014/p004.md"
+                    },
+                    {
+                        "part_num": 5,
+                        "part_title": "Part 5: The House Guard Marathon",
+                        "file_path": "b002/c014/p005.md"
+                    }
+                ]
+            },
+            {
+                "chap_num": 15,
+                "chap_title": "Chapter 15: Christmas Day",
+                "parts": [
+                    {
+                        "part_num": 1,
+                        "part_title": "Part 1: The Coffee Milk Christmas",
+                        "file_path": "b002/c015/p001.md"
+                    },
+                    {
+                        "part_num": 2,
+                        "part_title": "Part 2: The Gift Exchange",
+                        "file_path": "b002/c015/p002.md"
+                    },
+                    {
+                        "part_num": 3,
+                        "part_title": "Part 3: The Pack Mentality",
+                        "file_path": "b002/c015/p003.md"
                     }
                 ]
             }
@@ -761,7 +849,18 @@
     },
     {
         "book_num": 3,
-        "book_title": "Book 3: The Sovereign Empire",
+        "book_title": "Book 3: The NCLEX",
+        "chapters": [
+            {
+                "chap_num": 1,
+                "chap_title": "Chapter 1: The Licensure Exam",
+                "parts": []
+            }
+        ]
+    },
+    {
+        "book_num": 4,
+        "book_title": "Book 4: The Sovereign Empire",
         "chapters": [
             {
                 "chap_num": 1,
@@ -770,22 +869,22 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Deviation",
-                        "file_path": "b003/c001/p001.md"
+                        "file_path": "b004/c001/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Pack Dinner",
-                        "file_path": "b003/c001/p002.md"
+                        "file_path": "b004/c001/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Vault",
-                        "file_path": "b003/c001/p003.md"
+                        "file_path": "b004/c001/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The Sovereign News",
-                        "file_path": "b003/c001/p004.md"
+                        "file_path": "b004/c001/p004.md"
                     }
                 ]
             },
@@ -796,65 +895,65 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Morning Baseline",
-                        "file_path": "b003/c002/p001.md"
+                        "file_path": "b004/c002/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Executive Pre-Flight",
-                        "file_path": "b003/c002/p002.md"
+                        "file_path": "b004/c002/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Succession Consensus",
-                        "file_path": "b003/c002/p003.md"
+                        "file_path": "b004/c002/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The Global Broadcast",
-                        "file_path": "b003/c002/p004.md"
+                        "file_path": "b004/c002/p004.md"
                     },
                     {
                         "part_num": 5,
                         "part_title": "Part 5: The Shadow Wallet",
-                        "file_path": "b003/c002/p005.md"
+                        "file_path": "b004/c002/p005.md"
                     },
                     {
                         "part_num": 6,
                         "part_title": "Part 6: The Global Desk",
-                        "file_path": "b003/c002/p006.md"
+                        "file_path": "b004/c002/p006.md"
                     },
                     {
                         "part_num": 7,
                         "part_title": "Part 7: The Actuarial Risk",
-                        "file_path": "b003/c002/p007.md"
+                        "file_path": "b004/c002/p007.md"
                     },
                     {
                         "part_num": 8,
                         "part_title": "Part 8: The Route 230 Protocol",
-                        "file_path": "b003/c002/p008.md"
+                        "file_path": "b004/c002/p008.md"
                     },
                     {
                         "part_num": 9,
                         "part_title": "Part 9: The Bellevue Reunion",
-                        "file_path": "b003/c002/p009.md"
+                        "file_path": "b004/c002/p009.md"
                     },
                     {
                         "part_num": 10,
                         "part_title": "Part 10: The Express Route",
-                        "file_path": "b003/c002/p010.md"
+                        "file_path": "b004/c002/p010.md"
                     },
                     {
                         "part_num": 11,
                         "part_title": "Part 11: The Sovereign Perimeter",
-                        "file_path": "b003/c002/p011.md"
+                        "file_path": "b004/c002/p011.md"
                     }
                 ]
             }
         ]
     },
     {
-        "book_num": 4,
-        "book_title": "Book 4: The Sovereign Ascension",
+        "book_num": 5,
+        "book_title": "Book 5: The Sovereign Ascension",
         "chapters": [
             {
                 "chap_num": 1,
@@ -863,17 +962,17 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Rotor Wash",
-                        "file_path": "b004/c001/p001.md"
+                        "file_path": "b005/c001/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Front Row",
-                        "file_path": "b004/c001/p002.md"
+                        "file_path": "b005/c001/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Floorboards",
-                        "file_path": "b004/c001/p003.md"
+                        "file_path": "b005/c001/p003.md"
                     }
                 ]
             },
@@ -884,45 +983,45 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Food Truck Festival",
-                        "file_path": "b004/c002/p001.md"
+                        "file_path": "b005/c002/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Zero-Proof Pavilion",
-                        "file_path": "b004/c002/p002.md"
+                        "file_path": "b005/c002/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Cross-Pollination of Packs",
-                        "file_path": "b004/c002/p003.md"
+                        "file_path": "b005/c002/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The Transit Pledge",
-                        "file_path": "b004/c002/p004.md"
+                        "file_path": "b005/c002/p004.md"
                     },
                     {
                         "part_num": 5,
                         "part_title": "Part 5: The Logistics of Departure",
-                        "file_path": "b004/c002/p005.md"
+                        "file_path": "b005/c002/p005.md"
                     },
                     {
                         "part_num": 6,
                         "part_title": "Part 6: The Executive Shutdown",
-                        "file_path": "b004/c002/p006.md"
+                        "file_path": "b005/c002/p006.md"
                     },
                     {
                         "part_num": 7,
                         "part_title": "Part 7: The Lowland Entitlement",
-                        "file_path": "b004/c002/p007.md"
+                        "file_path": "b005/c002/p007.md"
                     }
                 ]
             }
         ]
     },
     {
-        "book_num": 5,
-        "book_title": "Book 5: The Sovereign Autonomy",
+        "book_num": 6,
+        "book_title": "Book 6: The Sovereign Autonomy",
         "chapters": [
             {
                 "chap_num": 1,
@@ -931,22 +1030,22 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Diridon Transfer",
-                        "file_path": "b005/c001/p001.md"
+                        "file_path": "b006/c001/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Handler Panic",
-                        "file_path": "b005/c001/p002.md"
+                        "file_path": "b006/c001/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Flashbulb Perimeter",
-                        "file_path": "b005/c001/p003.md"
+                        "file_path": "b006/c001/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The Keynote and the BayPass Question",
-                        "file_path": "b005/c001/p004.md"
+                        "file_path": "b006/c001/p004.md"
                     }
                 ]
             },
@@ -957,52 +1056,52 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The Gates of DCA",
-                        "file_path": "b005/c002/p001.md"
+                        "file_path": "b006/c002/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The L'Enfant Maze",
-                        "file_path": "b005/c002/p002.md"
+                        "file_path": "b006/c002/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Witness Table",
-                        "file_path": "b005/c002/p003.md"
+                        "file_path": "b006/c002/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The LPN Protocol & The Galley Question",
-                        "file_path": "b005/c002/p004.md"
+                        "file_path": "b006/c002/p004.md"
                     },
                     {
                         "part_num": 5,
                         "part_title": "Part 5: The Weaponized Ledger",
-                        "file_path": "b005/c002/p005.md"
+                        "file_path": "b006/c002/p005.md"
                     },
                     {
                         "part_num": 6,
                         "part_title": "Part 6: The MAR Protocol",
-                        "file_path": "b005/c002/p006.md"
+                        "file_path": "b006/c002/p006.md"
                     },
                     {
                         "part_num": 7,
                         "part_title": "Part 7: The Finch Expedition",
-                        "file_path": "b005/c002/p007.md"
+                        "file_path": "b006/c002/p007.md"
                     },
                     {
                         "part_num": 8,
                         "part_title": "Part 8: The Civilian Perimeter",
-                        "file_path": "b005/c002/p008.md"
+                        "file_path": "b006/c002/p008.md"
                     },
                     {
                         "part_num": 9,
                         "part_title": "Part 9: The Telescope Protocol",
-                        "file_path": "b005/c002/p009.md"
+                        "file_path": "b006/c002/p009.md"
                     },
                     {
                         "part_num": 10,
                         "part_title": "Part 10: The Escalator Trap",
-                        "file_path": "b005/c002/p010.md"
+                        "file_path": "b006/c002/p010.md"
                     }
                 ]
             },
@@ -1013,22 +1112,22 @@
                     {
                         "part_num": 1,
                         "part_title": "Part 1: The ELstat Briefing",
-                        "file_path": "b005/c003/p001.md"
+                        "file_path": "b006/c003/p001.md"
                     },
                     {
                         "part_num": 2,
                         "part_title": "Part 2: The Topography Trap",
-                        "file_path": "b005/c003/p002.md"
+                        "file_path": "b006/c003/p002.md"
                     },
                     {
                         "part_num": 3,
                         "part_title": "Part 3: The Surface Fleet",
-                        "file_path": "b005/c003/p003.md"
+                        "file_path": "b006/c003/p003.md"
                     },
                     {
                         "part_num": 4,
                         "part_title": "Part 4: The Front Gate Arrival",
-                        "file_path": "b005/c003/p004.md"
+                        "file_path": "b006/c003/p004.md"
                     }
                 ]
             }

@@ -4,6 +4,20 @@
 # Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--force] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
+# --- OS-SPECIFIC OVERRIDES ---
+if [[ "$OSTYPE" == "darwin"* ]] && command -v caffeinate > /dev/null; then
+    # If we are not already wrapped, re-execute the script inside caffeinate
+    if [ "$1" != "--caffeinated" ]; then
+        echo "☕ JENNA: Pouring a cup of joe to keep the Mac awake during sync..."
+        exec caffeinate -im "$0" --caffeinated "$@"
+    fi
+    # If we are wrapped, shift out the internal flag so the rest of the script functions normally
+    if [ "$1" == "--caffeinated" ]; then
+        shift
+    fi
+fi
+
+
 # 1. ESTABLISH PATHS (Dynamically resolved across OS)
 WORKSPACE_DIR=$(cd "$(dirname "$0")" && pwd)
 ASSETS_ROOT=$(cd "$WORKSPACE_DIR/.." && pwd)
