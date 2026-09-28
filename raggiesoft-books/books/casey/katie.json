@@ -271,32 +271,187 @@
             "part_num": 3,
             "part_title": "Part 3: The Ride Free Area \u2013 2:30 PM (Pacific Time)",
             "file_path": "b001/c011/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Topography \u2013 4:00 PM (Pacific Time)",
+            "file_path": "b001/c011/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Hotel Logistics \u2013 8:00 PM (Pacific Time)",
+            "file_path": "b001/c011/p005.md"
           }
         ]
       },
       {
         "chapter_num": 12,
-        "chapter_title": "Chapter 12: TBA",
-        "parts": []
+        "chapter_title": "Chapter 12: The Open House",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Engineering Quad \u2013 9:00 AM (Pacific Time)",
+            "file_path": "b001/c012/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Quantum Pavilion \u2013 9:30 AM (Pacific Time)",
+            "file_path": "b001/c012/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Quantaneers \u2013 10:00 AM (Pacific Time)",
+            "file_path": "b001/c012/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Internal Elevators \u2013 11:00 AM (Pacific Time)",
+            "file_path": "b001/c012/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Two Paths \u2013 1:00 PM (Pacific Time)",
+            "file_path": "b001/c012/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Logistics of Care \u2013 3:00 PM (Pacific Time)",
+            "file_path": "b001/c012/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Vacation Protocol \u2013 7:00 PM (Pacific Time)",
+            "file_path": "b001/c012/p007.md"
+          }
+        ]
       },
       {
         "chapter_num": 13,
-        "chapter_title": "Chapter 13: TBA",
-        "parts": []
+        "chapter_title": "The Emerald City",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The Century Spire \u2013 10:00 AM (Pacific Time)",
+            "file_path": "b001/c013/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Planetarium \u2013 12:00 PM (Pacific Time)",
+            "file_path": "b001/c013/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Emperor of Redmond \u2013 2:00 PM (Pacific Time)",
+            "file_path": "b001/c013/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Zenith Motherboard \u2013 2:15 PM (Pacific Time)",
+            "file_path": "b001/c013/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: The Five-Megabyte Monolith \u2013 2:30 PM (Pacific Time)",
+            "file_path": "b001/c013/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: Lake Washington \u2013 5:00 PM (Pacific Time)",
+            "file_path": "b001/c013/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Privacy Protocol \u2013 8:00 PM (Pacific Time)",
+            "file_path": "b001/c013/p007.md"
+          }
+        ]
       },
       {
         "chapter_num": 14,
         "chapter_title": "Chapter 14: TBA",
-        "parts": []
+        "parts": [
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Underwater Dome \u2013 9:30 AM (Pacific Time)",
+            "file_path": "b001/c014/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Gift Shop \u2013 10:45 AM (Pacific Time)",
+            "file_path": "b001/c014/p003.md"
+          },
+          {
+            "part_num": 4,
+            "part_title": "Part 4: The Prospector's Registry \u2013 11:30 AM (Pacific Time)",
+            "file_path": "b001/c014/p004.md"
+          },
+          {
+            "part_num": 5,
+            "part_title": "Part 5: TAPS Route 174 \u2013 12:15 PM (Pacific Time)",
+            "file_path": "b001/c014/p005.md"
+          },
+          {
+            "part_num": 6,
+            "part_title": "Part 6: The Great Gallery \u2013 1:00 PM (Pacific Time)",
+            "file_path": "b001/c014/p006.md"
+          },
+          {
+            "part_num": 7,
+            "part_title": "Part 7: The Extraction \u2013 4:30 PM (Pacific Time)",
+            "file_path": "b001/c014/p007.md"
+          }
+        ]
       },
       {
         "chapter_num": 15,
-        "chapter_title": "Chapter 11: The Catalyst",
+        "chapter_title": "Chapter 15: The Pre-Dawn Run \u2013 Saturday, August 26, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: The 174 Southbound \u2013 4:30 AM (Pacific Time)",
+            "file_path": "b001/c015/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Gateway Counter \u2013 6:00 AM (Pacific Time)",
+            "file_path": "b001/c015/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Chicago Layover \u2013 2:00 PM (Central Time)",
+            "file_path": "b001/c015/p003.md"
+          }
+        ]
+      },
+      {
+        "chapter_num": 16,
+        "chapter_title": "Chapter 16: The Catalyst \u2013 April 21, 1996",
         "parts": [
           {
             "part_num": 1,
             "part_title": "Part 1: The Call \u2013 April 21st, 1996",
-            "file_path": "b001/c015/p001.md"
+            "file_path": "b001/c016/p001.md"
+          },
+          {
+            "part_num": 2,
+            "part_title": "Part 2: The Celebration \u2013 7:00 PM (Eastern Time)",
+            "file_path": "b001/c016/p002.md"
+          },
+          {
+            "part_num": 3,
+            "part_title": "Part 3: The Sleepover \u2013 11:30 PM (Eastern Time)",
+            "file_path": "b001/c016/p003.md"
+          }
+        ]
+      },
+      {
+        "chapter_num": 14,
+        "chapter_title": "Chapter 14: The Deep End \u2013 Friday, August 25, 1995",
+        "parts": [
+          {
+            "part_num": 1,
+            "part_title": "Part 1: Siren Roasters \u2013 8:00 AM (Pacific Time)",
+            "file_path": "b001/c014/p001.md"
           }
         ]
       }
