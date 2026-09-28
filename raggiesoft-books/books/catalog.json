@@ -52,7 +52,7 @@
         "title": "casey",
         "description": "",
         "image": "",
-        "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional-summer-1995/part-1-departing-npn-8-00-am",
+        "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey"
     },
     {
@@ -164,7 +164,7 @@
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
-        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty-december-1990/part-1-the-sensory-avalanche",
+        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/part-1-the-sensory-avalanche",
         "folder": "rachel"
     },
     {
