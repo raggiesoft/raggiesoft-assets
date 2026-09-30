@@ -49,9 +49,9 @@
     },
     {
         "slug": "casey",
-        "title": "casey",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: The Caretakers",
+        "description": "Follow the lives of the Vance and Delaney siblings as they navigate the complexities of found family, deep trauma, and corporate maneuvering at Quantum. Grounded by the powerful executive authority of Cassandra Vance, David Vance and the East Coast pack build an impenetrable emotional fortress that bridges the miles between Virginia Beach, Rhode Island, and Seattle.",
+        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey"
     },
