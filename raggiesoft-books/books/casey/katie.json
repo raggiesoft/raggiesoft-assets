@@ -1025,6 +1025,16 @@
                             "part_num": 3,
                             "part_title": "Part 3: Checking In",
                             "file_path": "b003/c002/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Twelfth Floor",
+                            "file_path": "b003/c002/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Banquet Room",
+                            "file_path": "b003/c002/p005.md"
                         }
                     ]
                 }
