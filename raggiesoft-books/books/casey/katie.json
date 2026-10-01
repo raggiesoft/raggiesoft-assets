@@ -1035,6 +1035,89 @@
                             "part_num": 5,
                             "part_title": "Part 5: The Banquet Room",
                             "file_path": "b003/c002/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Bellevue Acquisition",
+                            "file_path": "b003/c002/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Interlude: The Bellevue Bidding War",
+                            "file_path": "b003/c002/p007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: The Eastside Tour",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Morning Perimeter",
+                            "file_path": "b003/c003/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Highcliff Announcement",
+                            "file_path": "b003/c003/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Redmond Hard Hat Tour",
+                            "file_path": "b003/c003/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Bellevue Transfer",
+                            "file_path": "b003/c003/p004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Chapter 4: The Puget Sound Aquarium",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The VIP Experience",
+                            "file_path": "b003/c004/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Deep Ocean Encounters",
+                            "file_path": "b003/c004/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Ride Free Area",
+                            "file_path": "b003/c004/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Dinner in the Sky",
+                            "file_path": "b003/c004/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Night Shift",
+                            "file_path": "b003/c004/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Chapter 5: The Evergreen Marine",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Colman Dock",
+                            "file_path": "b003/c005/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Crossing",
+                            "file_path": "b003/c005/p002.md"
                         }
                     ]
                 }
