@@ -1118,6 +1118,98 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Crossing",
                             "file_path": "b003/c005/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Bremerton Boardwalk",
+                            "file_path": "b003/c005/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Pacific Fleet Naval Museum",
+                            "file_path": "b003/c005/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Sunday Return",
+                            "file_path": "b003/c005/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Private Dining Room",
+                            "file_path": "b003/c005/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Lights Out",
+                            "file_path": "b003/c005/p007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "title": "The Departure",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The 194 Express",
+                            "file_path": "b003/c006/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Decompression",
+                            "file_path": "b003/c006/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Bathroom Queue",
+                            "file_path": "b003/c006/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The 565",
+                            "file_path": "b003/c006/p004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7: The May Logistics",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The May Logistics",
+                            "file_path": "b003/c007/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Snohomish Run",
+                            "file_path": "b003/c007/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Tuscany Slice",
+                            "file_path": "b003/c007/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Retreat",
+                            "file_path": "b003/c007/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Triage",
+                            "file_path": "b003/c007/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_title": "Chapter 8: The Prospector's Keep",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Motorpool",
+                            "file_path": "b003/c008/p001.md"
                         }
                     ]
                 }
