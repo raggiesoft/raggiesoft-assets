@@ -1210,6 +1210,51 @@
                             "part_num": 1,
                             "part_title": "Part 1: The Motorpool",
                             "file_path": "b003/c008/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Great Hall Reveal",
+                            "file_path": "b003/c008/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Sovereign Tour",
+                            "file_path": "b003/c008/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Grand Ballroom",
+                            "file_path": "b003/c008/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Chilkoot Wing",
+                            "file_path": "b003/c008/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Summit Suite",
+                            "file_path": "b003/c008/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Residential Wing",
+                            "file_path": "b003/c008/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Birthday Lunch",
+                            "file_path": "b003/c008/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: The Extractions",
+                            "file_path": "b003/c008/p009.md"
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: The Great Hall Cinema",
+                            "file_path": "b003/c008/p010.md"
                         }
                     ]
                 }
