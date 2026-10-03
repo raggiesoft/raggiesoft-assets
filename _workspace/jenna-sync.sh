@@ -530,6 +530,34 @@ function do_push() {
         fi
     fi
 
+    echo "   -> Checking Books Repo..."
+    if [ -d "$BOOKS_ROOT" ]; then
+        cd "$BOOKS_ROOT"
+        git add .
+        
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Books committed and sent to GitHub."
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending Books commits. Pushing now..."
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Pending Books code sent to GitHub."
+        else
+             echo "      (Books is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Books with tag: $TAG_NAME..."
+            git tag "$TAG_NAME"
+            git push origin "$TAG_NAME"
+        fi
+    fi
+
     # 5. ASSETS PUSH
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
