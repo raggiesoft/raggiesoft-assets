@@ -27,6 +27,7 @@ HUB_ROOT="$SERVER_ROOT/raggiesoft-hub"
 CMS_ROOT="$SERVER_ROOT/stardust-engine-cms"
 NARRATIVES_ROOT="$SERVER_ROOT/raggiesoft-narratives"
 NEBULAE_ROOT="$SERVER_ROOT/raggiesoft-nebulae"
+BOOKS_ROOT="$SERVER_ROOT/raggiesoft-book-library"
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -305,6 +306,12 @@ function do_pull() {
         cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-nebulae.git
     else
         cd "$NEBULAE_ROOT" && git pull origin main
+    if [ ! -d "$BOOKS_ROOT" ]; then
+        echo "      > Repository missing. Cloning Books from GitHub..."
+        cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-book-library.git
+    else
+        cd "$BOOKS_ROOT" && git pull origin main
+    fi
     fi
     
     echo "   6. Hauling the heavy boxes (DigitalOcean Spaces)..."
