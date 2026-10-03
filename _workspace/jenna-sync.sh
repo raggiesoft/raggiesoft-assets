@@ -527,6 +527,36 @@ function do_push() {
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
     
+    echo "      > Building Stardust Engine Assets..."
+    # Local minification (so the .min files are pushed to GitHub and the CDN)
+    php -r '
+        $dir = "'"$ASSETS_ROOT"'/stardust-engine-library";
+        if (is_dir($dir)) {
+            $css = "";
+            foreach(glob("$dir/css/src/*.css") as $file) { $css .= file_get_contents($file); }
+            $css = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $css);
+            $css = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $css);
+            file_put_contents("$dir/css/stardust-engine.min.css", $css);
+            
+            foreach(glob("$dir/css/src/theme-*.css") as $file) {
+                $name = basename($file, ".css");
+                $tcss = file_get_contents($file);
+                $tcss = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $tcss);
+                $tcss = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $tcss);
+                file_put_contents("$dir/css/" . $name . ".min.css", $tcss);
+            }
+            
+            foreach(glob("$dir/js/src/*.js") as $file) {
+                $name = basename($file, ".js");
+                $js = file_get_contents($file);
+                $js = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $js);
+                $js = preg_replace("/^[ \t]+/m", "", $js);
+                $js = preg_replace("/\n+/", "\n", $js);
+                file_put_contents("$dir/js/" . $name . ".min.js", $js);
+            }
+        }
+    '
+    
     echo "      > Indexing files (Verbose mode active)..."
     git add -v .
     
