@@ -11,7 +11,11 @@
         "folder": "2000-guiding-stars",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2000-guiding-stars/album-art.jpg",
         "description": "The uplifting 1980s prequel to Static & Silence. It chronicles the unbreakable bond between Leo and his family before the darkness set in.",
-        "rockOperaSetId": "static-and-silence"
+        "rockOperaSetId": "static-and-silence",
+        "spotifyId": "3AXeGI3wpwpBjfpm1Ansnr",
+        "appleId": "6801451859",
+        "amazonId": "B0HF7J1WYY",
+        "youtubeId": ""
       },
       {
         "title": "Static & Silence, Book 1: The Long Road West",
@@ -20,7 +24,11 @@
         "folder": "2001-static-and-silence-book-1",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/album-art.jpg",
         "description": "Part 1 of the sprawling rock opera detailing an agonizing descent into an industrial nightmare.",
-        "rockOperaSetId": "static-and-silence"
+        "rockOperaSetId": "static-and-silence",
+        "spotifyId": "5A9hnaTMfrF7p99uyAR5AG",
+        "appleId": "6801423742",
+        "amazonId": "B0HF79G5P3",
+        "youtubeId": "OLAK5uy_kMz5pJlyVFoPuIMFRWrwxpF262EJNWX3w"
       },
       {
         "title": "Static & Silence, Book 2: The Journey Home",
@@ -29,7 +37,11 @@
         "folder": "2001-static-and-silence-book-2",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-2/album-art.jpg",
         "description": "Part 2 of the sprawling rock opera detailing a raw, unfiltered journey back home to the safety of family.",
-        "rockOperaSetId": "static-and-silence"
+        "rockOperaSetId": "static-and-silence",
+        "spotifyId": "5N0GMm7fd7cPms8jqlYh6M",
+        "appleId": "6801414350",
+        "amazonId": "B0HF7CNCBG",
+        "youtubeId": "OLAK5uy_kZdP4ryR1nJdGGRn4HTTuyyg0BlfUpqUQ"
       },
       {
         "title": "The Eleventh Child, Book 1: System.Crash",
@@ -38,7 +50,11 @@
         "folder": "2003-eleventh-child-book-1",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/album-art.jpg",
         "description": "Part 1 of the cinematic, narrative-driven exploration of trauma and survival.",
-        "rockOperaSetId": "eleventh-child"
+        "rockOperaSetId": "eleventh-child",
+        "spotifyId": "5lxSx8MezosR2RUNyBQAgB",
+        "appleId": "6801516264",
+        "amazonId": "B0HF8B51CW",
+        "youtubeId": ""
       },
       {
         "title": "The Eleventh Child, Book 2: System.Restore",
@@ -47,7 +63,11 @@
         "folder": "2003-eleventh-child-book-2",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-2/album-art.jpg",
         "description": "Part 2 of the cinematic rock opera serving as the grand finale ending in pure stadium-rock euphoria.",
-        "rockOperaSetId": "eleventh-child"
+        "rockOperaSetId": "eleventh-child",
+        "spotifyId": "7GyxW6QnkarySeooPmEkCs",
+        "appleId": "6801431686",
+        "amazonId": "B0HF7BRV1M",
+        "youtubeId": "OLAK5uy_nMEkT7cLLOwwbucUT4CD55g9Vr2r_5XTI"
       }
     ]
   }
