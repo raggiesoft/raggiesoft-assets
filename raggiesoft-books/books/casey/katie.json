@@ -1200,6 +1200,16 @@
                             "part_num": 5,
                             "part_title": "Part 5: Triage",
                             "file_path": "b003/c007/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Recovery Protocol",
+                            "file_path": "b003/c007/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Bedtime Routine",
+                            "file_path": "b003/c007/p007.md"
                         }
                     ]
                 },
@@ -1208,7 +1218,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Motorpool",
+                            "part_title": "Part 1: The BRAT Diet",
                             "file_path": "b003/c008/p001.md"
                         },
                         {
