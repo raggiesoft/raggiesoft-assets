@@ -1,0 +1,30 @@
+/* 
+    RaggieSoft Books - Narrative Theme: Dark Rain
+    A dark, moody, pre-dawn Puget Sound aesthetic.
+*/
+body.theme-custom.narrative-theme-dark-rain {
+    --rs-bg: #111418;          /* Very deep, stormy night sky */
+    --rs-text: #b6c4d4;        /* Muted rain-slick silver text */
+    --rs-text-muted: #6e7f91;  /* Dim slate */
+    --rs-card-bg: #181d24;     /* Slightly raised surfaces */
+    --rs-border: #293440;      /* Steel blue borders */
+    --rs-primary: #5c8bba;     /* Cold desaturated blue accents */
+    --rs-hover: #222a33;       /* Damp hover state */
+    
+    background-color: var(--rs-bg);
+    color: var(--rs-text);
+}
+
+body.theme-custom.narrative-theme-dark-rain .reader-audio-player {
+    background: linear-gradient(145deg, #181d24 0%, #111418 100%);
+    border-color: var(--rs-border);
+}
+
+body.theme-custom.narrative-theme-dark-rain .reader-part-header {
+    color: #e2e8f0;
+    text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
+
+body.theme-custom.narrative-theme-dark-rain .reader-series-header {
+    color: var(--rs-primary);
+}
