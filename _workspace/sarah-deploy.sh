@@ -67,3 +67,5 @@ deploy_site "Hub" "/home/michael/raggiesoft-hub" "/var/www/raggiesoft.com"
 
 # 2. PROCESS NEBULAE INCUBATOR
 deploy_site "Nebulae" "/home/michael/raggiesoft-nebulae" "/var/www/nebulae.raggiesoft.com"
+# 3. PROCESS STARDUST ENGINE LIBRARY
+deploy_site "Books" "/home/michael/raggiesoft-book-library" "/var/www/raggiesoft-book-library"
