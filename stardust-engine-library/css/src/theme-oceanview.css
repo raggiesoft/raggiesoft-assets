@@ -1,0 +1,49 @@
+/* theme-oceanview.css */
+/* Ocean View Archives Default Theme */
+
+/* Light Mode Defaults */
+body.theme-oceanview {
+    --rs-bg: #f8f9fa;
+    --rs-surface: #ffffff;
+    --rs-text: #1e293b;
+    --rs-primary: #0F4C5C; /* Deep Teal */
+    --rs-secondary: #E3B27C; /* Gold/Champagne */
+    --rs-border: #e2e8f0;
+}
+
+/* Dark Mode Overrides */
+@media (prefers-color-scheme: dark) {
+    body.theme-oceanview {
+        --rs-bg: #090e17; /* Very dark blue tint */
+        --rs-surface: #111827;
+        --rs-text: #f1f5f9;
+        --rs-primary: #E3B27C; /* Gold POPS in dark mode */
+        --rs-secondary: #0F4C5C;
+        --rs-border: #1e293b;
+    }
+}
+
+/* Custom Component Styles for Ocean View Archives */
+body.theme-oceanview .ova-hero {
+    border-bottom: 2px solid var(--rs-border);
+    padding-bottom: 3rem;
+    margin-bottom: 3rem;
+}
+
+body.theme-oceanview .ova-title {
+    font-family: 'Playfair Display', serif, system-ui;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 3.5rem !important;
+    color: var(--rs-primary) !important;
+}
+
+body.theme-oceanview .ova-subtitle {
+    font-family: monospace;
+    color: var(--rs-text) !important;
+    opacity: 0.8;
+}
+
+body.theme-oceanview .stardust-card:hover {
+    border-color: var(--rs-primary);
+}
