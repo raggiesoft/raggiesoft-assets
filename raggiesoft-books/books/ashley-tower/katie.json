@@ -13,17 +13,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Best Laid Plans \u2013 7:30 PM",
+                            "part_title": "Part 1: Part 1: Best Laid Plans \u2013 7:30 PM",
                             "file_path": "b001/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Anchor and the Watch \u2013 8:15 PM",
+                            "part_title": "Part 2: Part 2: The Anchor and the Watch \u2013 8:15 PM",
                             "file_path": "b001/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Ten O'Clock News \u2013 10:00 PM",
+                            "part_title": "Part 3: Part 3: The Ten O'Clock News \u2013 10:00 PM",
                             "file_path": "b001/c001/p003.md"
                         }
                     ]
@@ -34,7 +34,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Departure \u2013 7:00 AM",
+                            "part_title": "Part 1: Part 1: The Departure \u2013 7:00 AM",
                             "file_path": "b001/c002/p001.md"
                         },
                         {
@@ -44,12 +44,12 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Right Call \u2013 3:45 PM",
+                            "part_title": "Part 3: Part 2: The Right Call \u2013 3:45 PM",
                             "file_path": "b001/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Inventory \u2013 6:30 PM",
+                            "part_title": "Part 4: Part 3: The Inventory \u2013 6:30 PM",
                             "file_path": "b001/c002/p004.md"
                         }
                     ]
@@ -60,7 +60,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Video Link \u2013 7:00 AM",
+                            "part_title": "Part 1: Part 1: The Video Link \u2013 7:00 AM",
                             "file_path": "b001/c003/p001.md"
                         }
                     ]
@@ -82,7 +82,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Agony of Proximity \u2013 8:30 AM",
+                            "part_title": "Part 1: Part 1: The Agony of Proximity \u2013 8:30 AM",
                             "file_path": "b001/c005/p001.md"
                         }
                     ]
@@ -93,7 +93,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Gentlemen Only \u2013 6:45 PM",
+                            "part_title": "Part 1: Part 1: Gentlemen Only \u2013 6:45 PM",
                             "file_path": "b001/c006/p001.md"
                         }
                     ]
@@ -104,7 +104,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Going Dark \u2013 1:20 AM",
+                            "part_title": "Part 1: Part 1: Going Dark \u2013 1:20 AM",
                             "file_path": "b001/c007/p001.md"
                         },
                         {
@@ -124,12 +124,12 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Deep Freeze \u2013 10:30 AM",
+                            "part_title": "Part 5: Part 2: The Deep Freeze \u2013 10:30 AM",
                             "file_path": "b001/c007/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Long Night \u2013 5:15 PM",
+                            "part_title": "Part 6: Part 3: The Long Night \u2013 5:15 PM",
                             "file_path": "b001/c007/p006.md"
                         }
                     ]
@@ -140,22 +140,22 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Birthday \u2013 3:15 AM",
+                            "part_title": "Part 1: Part 1: The Birthday \u2013 3:15 AM",
                             "file_path": "b001/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Barrier \u2013 4:45 AM",
+                            "part_title": "Part 2: Part 2: The Barrier \u2013 4:45 AM",
                             "file_path": "b001/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Morning Light \u2013 7:15 AM",
+                            "part_title": "Part 3: Part 3: Morning Light \u2013 7:15 AM",
                             "file_path": "b001/c008/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Siege \u2013 Tuesday Afternoon",
+                            "part_title": "Part 4: Part 4: The Siege \u2013 Tuesday Afternoon",
                             "file_path": "b001/c008/p004.md"
                         },
                         {
@@ -165,7 +165,7 @@
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Shattered Script \u2013 9:45 PM",
+                            "part_title": "Part 6: Part 5: The Shattered Script \u2013 9:45 PM",
                             "file_path": "b001/c008/p006.md"
                         },
                         {
@@ -181,17 +181,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Arrival \u2013 8:15 AM",
+                            "part_title": "Part 1: Part 1: The Arrival \u2013 8:15 AM",
                             "file_path": "b001/c009/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Extraction \u2013 8:18 AM",
+                            "part_title": "Part 2: Part 2: The Extraction \u2013 8:18 AM",
                             "file_path": "b001/c009/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Sanctuary \u2013 9:30 AM",
+                            "part_title": "Part 3: Part 3: Sanctuary \u2013 9:30 AM",
                             "file_path": "b001/c009/p003.md"
                         }
                     ]
@@ -208,57 +208,57 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Arrival at EBF \u2013 10:45 AM",
+                            "part_title": "Part 1: Part 1: Arrival at EBF \u2013 10:45 AM",
                             "file_path": "b002/c001/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Red Line \u2013 11:20 AM",
+                            "part_title": "Part 2: Part 2: The Red Line \u2013 11:20 AM",
                             "file_path": "b002/c001/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Monolith \u2013 12:15 PM",
+                            "part_title": "Part 3: Part 3: The Monolith \u2013 12:15 PM",
                             "file_path": "b002/c001/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Ascent \u2013 12:25 PM",
+                            "part_title": "Part 4: Part 4: The Ascent \u2013 12:25 PM",
                             "file_path": "b002/c001/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Hearth \u2013 12:28 PM",
+                            "part_title": "Part 5: Part 5: The Hearth \u2013 12:28 PM",
                             "file_path": "b002/c001/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: The Architect of the Transition \u2013 1:15 PM",
+                            "part_title": "Part 6: Part 6: The Architect of the Transition \u2013 1:15 PM",
                             "file_path": "b002/c001/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: The Legal Strike \u2013 1:30 PM",
+                            "part_title": "Part 7: Part 7: The Legal Strike \u2013 1:30 PM",
                             "file_path": "b002/c001/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: The Inheritance \u2013 6:00 PM",
+                            "part_title": "Part 8: Part 8: The Inheritance \u2013 6:00 PM",
                             "file_path": "b002/c001/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "Part 9: The Legacy Boardroom \u2013 6:30 PM",
+                            "part_title": "Part 9: Part 9: The Legacy Boardroom \u2013 6:30 PM",
                             "file_path": "b002/c001/p009.md"
                         },
                         {
                             "part_num": 10,
-                            "part_title": "Part 10: The Lungs and Guts \u2013 6:55 PM",
+                            "part_title": "Part 10: Part 10: The Lungs and Guts \u2013 6:55 PM",
                             "file_path": "b002/c001/p010.md"
                         },
                         {
                             "part_num": 11,
-                            "part_title": "Part 11: The Town Square \u2013 7:15 PM",
+                            "part_title": "Part 11: Part 11: The Town Square \u2013 7:15 PM",
                             "file_path": "b002/c001/p011.md"
                         },
                         {
@@ -279,7 +279,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Water Walls \u2013 7:00 AM",
+                            "part_title": "Part 1: Part 1: The Water Walls \u2013 7:00 AM",
                             "file_path": "b002/c002/p001.md"
                         },
                         {
