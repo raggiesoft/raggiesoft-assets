@@ -1,0 +1,101 @@
+/* Stardust Engine: Cards (Used for Book Grid) */
+
+.stardust-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.stardust-card {
+    display: flex;
+    flex-direction: column;
+    background: var(--surface-color, #fff);
+    border: 1px solid var(--border-color, #eaeaea);
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stardust-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.stardust-card-cover {
+    height: 200px;
+    background: var(--primary-color, #0f172a);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+.stardust-card-cover.theme-red {
+    background: #7f1d1d;
+}
+
+.stardust-card-cover.theme-green {
+    background: #14532d;
+}
+
+.stardust-card-cover h3 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
+.stardust-card-cover span {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+.stardust-card-info {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.stardust-card-info h4 {
+    margin: 0 0 0.5rem 0;
+    font-size: 1.25rem;
+}
+
+.stardust-card-info p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--text-muted, #555);
+    margin-bottom: 1.5rem;
+    flex: 1;
+}
+
+.stardust-card-action {
+    font-weight: 600;
+    color: var(--primary-color, #2563eb);
+    display: inline-block;
+}
+
+.stardust-card:hover .stardust-card-action {
+    text-decoration: underline;
+}
+
+.home-hero {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.home-hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+    color: var(--text-color, #111);
+}
+
+.home-hero .subtitle {
+    font-size: 1.25rem;
+    color: var(--text-muted, #666);
+}
