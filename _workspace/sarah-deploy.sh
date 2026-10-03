@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# SECURITY CHECK: SARAH REFUSES TO RUN AS ROOT
+if [ "$EUID" -eq 0 ]; then
+    echo "🚨 SARAH FATAL ERROR: I am not allowed to run as root or via sudo!"
+    echo "I was designed to run autonomously as the standard user. Please drop your privileges and try again."
+    exit 1
+fi
+
+
 # --- SARAH: AUTONOMOUS DEPLOYMENT (v5.0 - Multi-Site Edition) ---
 # "I check for updates every 5 minutes. If Jenna pushed code, I deploy it instantly."
 # NO SUDO REQUIRED.
