@@ -1,0 +1,16 @@
+/* 07-badges.css: Replaces <wa-badge> */
+.rs-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 9999px;
+    background: var(--rs-border);
+    color: var(--rs-text);
+}
+.rs-badge-primary {
+    background: var(--rs-primary);
+    color: #ffffff;
+}

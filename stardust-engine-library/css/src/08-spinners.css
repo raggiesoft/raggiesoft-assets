@@ -1,0 +1,13 @@
+/* 08-spinners.css: Replaces <wa-spinner> */
+.rs-spinner {
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 3px solid var(--rs-border);
+    border-top-color: var(--rs-primary);
+    border-radius: 50%;
+    animation: rs-spin 1s linear infinite;
+}
+@keyframes rs-spin {
+    to { transform: rotate(360deg); }
+}

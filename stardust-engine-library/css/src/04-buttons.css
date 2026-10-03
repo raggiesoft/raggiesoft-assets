@@ -1,0 +1,28 @@
+/* 04-buttons.css: Replaces <wa-button> */
+.rs-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 6px;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: var(--rs-surface);
+    color: var(--rs-text);
+    border-color: var(--rs-border);
+}
+.rs-btn:hover {
+    background: var(--rs-border);
+}
+.rs-btn-primary {
+    background: var(--rs-primary);
+    color: #ffffff;
+    border-color: var(--rs-primary);
+}
+.rs-btn-primary:hover {
+    opacity: 0.9;
+}

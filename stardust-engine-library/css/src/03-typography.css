@@ -1,0 +1,18 @@
+/* 03-typography.css: Parsedown Markdown Styling */
+.book-page h1, .book-page h2, .book-page h3 {
+    color: var(--rs-text);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+.book-page p {
+    margin-bottom: 1.5rem;
+}
+.book-page blockquote {
+    border-left: 4px solid var(--rs-primary);
+    margin: 1.5rem 0;
+    padding-left: 1rem;
+    font-style: italic;
+    color: var(--rs-text);
+    opacity: 0.8;
+}
