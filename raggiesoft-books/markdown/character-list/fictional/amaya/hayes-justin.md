@@ -7,23 +7,17 @@ groups: [Core Trio, Tier-1 Access]
 tags: [lore, character, accessibility, blind, audhd, azoospermia]
 ---
 
-# Archive: Character Profile – Justin Hayes
-
-## I. Core Demographics & Overview
-
 *   **Full Name:** Justin Hayes
 *   **Age:** 20 (during the primary 2003 timeline).
 *   **Academic Status:** Enrolled at the Community College of Hampton Roads (CCHR). He started kindergarten a year late due to missing the birthday cutoff, placing him in the exact same graduating class as his sister [[Meredith Hayes]] (18) and best friend [[Amaya Rios]] (19).
 *   **Role in the Dynamic:** The Anchor. He operates purely on logic, routines, and verified facts. He acts as an unbreakable baseline of truth for the pack.
 
-## II. Physical Presentation
 
 *   **Height:** 5'4" (if he could stand).
 *   **Build & Posture:** He has a compact, grounded center of gravity. Because he spends his life seated in a transport chair and relies on tactile mapping, his spatial orientation is strictly immediate and horizontal.
 *   **Ocular Presentation:** His eyes are a clear hazel and appear structurally perfect. They exhibit a natural, aimless nystagmus (a rhythmic flutter). Because the optic nerve is severed, he does not point his eyes at the person speaking to him; instead, he displays the "auditory gaze," tilting his head to point his dominant ear at the sound source.
 *   **Sensory Wardrobe:** To eliminate sensory friction, his clothing is heavily vetted. He strictly wears seamless socks, tagless shirts, and soft, highly predictable fabrics.
 
-## III. Comprehensive Medical Notes
 
 Justin’s reality is defined by four distinct, interacting medical diagnoses. He is entirely at peace with his biological reality.
 
@@ -49,7 +43,6 @@ Justin’s reality is defined by four distinct, interacting medical diagnoses. H
 *   *Mechanism:* A clinical condition resulting in the absolute absence of sperm in the seminal fluid due to a lack of production.
 *   *Social Impact:* Justin is 100% sterile. He wears this diagnosis like bulletproof armor. It serves as an absolute medical firewall against predatory extortion attempts, rendering [[Vera Kowalski]]'s fake pregnancy grift mathematically and biologically impossible.
 
-## IV. Hardware & Technological Framework
 
 Justin’s tech setup is aggressively minimalist, built for speed, stability, and zero friction.
 
@@ -57,7 +50,6 @@ Justin’s tech setup is aggressively minimalist, built for speed, stability, an
 *   **The Processing Engine:** The braille keyboard pairs locally with a Windows laptop running a screen reader. He typically wears a single earbud in one ear to monitor the rapid, mechanical chatter of the synthesized voice without blocking out environmental acoustics.
 *   **Software Philosophy:** He strictly rejects bloated software environments and visually heavy interfaces. He relies entirely on raw, efficient text processing and native file parsing that his system can execute instantly, relying on keyboard shortcuts and muscle memory to navigate at high speeds.
 
-## V. Navigational & Social Mechanics
 
 Because Justin cannot rely on visual safety cues, his world is secured by strict protocols and the [[Wall of Twenty|Wall of 20]] (his Tier-2 pack of female protectors).
 

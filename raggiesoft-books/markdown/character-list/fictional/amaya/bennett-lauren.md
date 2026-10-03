@@ -12,22 +12,16 @@ academic_major: Information Technology (Hardware Engineering)
 certifications: [CompTIA A+, CompTIA Network+, CompTIA Security+, MCDST]
 ---
 
-# Archive: Character Profile – Lauren Bennett
-
-## I. Core Demographics & Overview
-
 *   **Full Name:** Lauren Bennett
 *   **Academic Status (2003):** Enrolled at the Community College of Hampton Roads (CCHR) majoring in Information Technology with a focus on Hardware Engineering. She will transfer to Commonwealth Polytechnic Institute (CPI) with the rest of the 21-person phalanx to complete her bachelor's degree.
 *   **Role in the Dynamic:** The Front Shield (Vanguard). She is tall (5'9") and physically imposing.
 
-## II. Navigational Mechanics (The Vanguard)
 
 Lauren walks directly in front of Justin’s transport chair.
 
 *   **The Human Snowplow:** While the Spotters lock down the destination, Lauren secures the immediate path. She acts as a physical wedge, parting crowds in narrow college hallways.
 *   **The Stiff-Arm:** She possesses an unshakeable center of gravity and zero hesitation. She will routinely and unapologetically stiff-arm a backpack, a swinging door, or a distracted student out of Justin's path before it can bump his chair. 
 
-## III. The Hardware Architect
 
 Justin's tech setup is aggressively minimalist, built for speed and zero friction. Lauren is the mechanic who ensures that physical reality never breaks down. 
 
@@ -35,7 +29,6 @@ Justin's tech setup is aggressively minimalist, built for speed and zero frictio
 *   **Component-Level Repair:** She is strictly A+ certified and holds an MCDST for Windows environments. If Justin's laptop fan fails, a motherboard capacitor blows, or the serial connection to his QBraille XL frays, Lauren can tear down and rebuild the machine in hours. 
 *   **Absolute Trust:** Because Justin’s brain operates on verified facts and he requires absolute consistency in his routines, he completely trusts Lauren with his hardware. He knows she will never install bloated software, visual heavy interfaces, or unnecessary updates that could disrupt his screen reader's efficiency.
 
-## IV. Caregiving & Interpersonal Mechanics
 
 Lauren’s physical protectiveness translates seamlessly into her adherence to the pack's intimate boundaries.
 

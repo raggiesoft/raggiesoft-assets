@@ -1,0 +1,10 @@
+/* 01-base.css */
+:root {
+    --rs-bg: #f4f4f5;
+    --rs-text: #18181b;
+    --rs-primary: #2563eb;
+    --rs-border: #e2e8f0;
+    --rs-surface: #ffffff;
+}
+
+body { margin: 0; font-family: system-ui, sans-serif; background: var(--rs-bg); color: var(--rs-text); overflow: hidden; }

@@ -11,13 +11,8 @@ legal_status: Delegated Proxy Guardian
 tags: [character, delaney-street, maternal-cousin, twin]
 ---
 
-# Morgan Delaney
-
-## 👤 Character Overview
-
 Morgan is Meredith’s identical twin sister. She shares the exact same "eye candy" aesthetic paradox, complete with the large chest and thick glasses, but she dyes her waist-length hair Dark Brunette to establish her own visual identity. Like her sister, she is wildly intelligent, but she channels her intellect into immediate, proactive action rather than quiet observation.
 
-## 🔥 Personality: The Fierce Vanguard (Fire)
 
 - **The Enforcer:** If Meredith is the quiet, analytical strategist, Morgan is the highly expressive, fiercely proactive tactician. She is warm, radiant, and deeply affectionate at home, but possesses a fiery, immediate temper when an outside threat appears.
     
@@ -26,7 +21,6 @@ Morgan is Meredith’s identical twin sister. She shares the exact same "eye can
 - **Physical Intimidation:** While Meredith will hand you a court order, Morgan will step directly into your personal space and make you flinch. She uses her presence to physically dominate a room and shield her cousins.
     
 
-## ⚙️ Physicality & Capability
 
 - **Appearance:** 100% physically identical to Meredith, but permanently dyes her hair Dark Brunette (requiring regular root touch-ups to hide her natural Sun-Kissed Ash roots).
     
@@ -35,6 +29,5 @@ Morgan is Meredith’s identical twin sister. She shares the exact same "eye can
 - **The Right Guardrail:** She sleeps on the extreme right edge of the massive shared bed. Together with Meredith, she forms the impenetrable outer shell of the family's sleeping arrangement.
     
 
-## ⚖️ Legal Authority
 
 - **Proxy Guardian:** Shares the exact same delegated legal authority as Meredith. She can act unilaterally to protect David and Kate, making immediate medical or social decisions with the full backing of the Fourth Circuit Court.****

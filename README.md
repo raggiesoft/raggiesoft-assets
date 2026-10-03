@@ -1,13 +1,4 @@
-# RaggieSoft Assets (The Vault)
-
-**The centralized Content Delivery Network (CDN) source for the RaggieSoft ecosystem.**
-
-> **Live CDN:** `assets.raggiesoft.com` (DigitalOcean Spaces)  
-> **Management:** "Jenna" (Sync Agent) + Rclone  
-> **Content:** High-Fidelity Audio (WAV/FLAC), Album Art, Manuscripts
-
 ---
-
 ## 👥 Meet the Architecture (The Family)
 
 This repository is managed by a "Personified DevOps" ecosystem. Each component is named to reflect its role and personality in the security and creative topology.
@@ -68,10 +59,7 @@ This repository is managed by a "Personified DevOps" ecosystem. Each component i
 - **File:** `_workspace/harper.sh`
 - **Function:** Harper lives in the studio. She recursively scans the workspace for Master WAV files and uses **FFmpeg** to generate web-optimized MP3 (320kbps) and OGG (Vorbis) mirrors.
 - **Personality:** High-energy, loud, and precise. She handles the heavy media processing pipelines so the creative flow isn't interrupted by technical codecs.
-
 ---
-
-## 📂 The Vault Structure
 
 ### 1. `_workspace/` (The Studio)
 * **Status:** `.gitignored` (Local Only)
@@ -91,5 +79,4 @@ This repository is managed by a "Personified DevOps" ecosystem. Each component i
 
 ---
 
-## 👤 Author
 **Michael P. Ragsdale** *Systems Architect | Full-Stack Developer* [michaelpragsdale.com](https://michaelpragsdale.com)

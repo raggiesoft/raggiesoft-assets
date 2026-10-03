@@ -12,14 +12,8 @@ legal_status: Incapacitated Adult (Under Guardianship and Conservatorship)
 tags: [character, protagonist, delaney-street]
 ---
 
-
-# David Patterson
-
-## 👤 Character Overview
-
 David is an 18-year-old freshman navigating his first summer semester at the Community College of Hampton Roads (CCHR) Norfolk Campus. He is highly intelligent and observant, though the neurotypical world frequently underestimates him due to his physical disabilities and communication methods. He thrives on routine, predictability, and the absolute safety provided by his family.
 
-## ⚙️ Physicality & Mobility
 
 - **Cerebral Palsy:** David has CP, which affects his muscle spasticity and fine motor control.
     
@@ -28,7 +22,6 @@ David is an 18-year-old freshman navigating his first summer semester at the Com
 - **The Safe Carry:** When his stamina is entirely depleted, his twin maternal cousins (Meredith and Morgan) have the strength and technique to safely deadlift and carry him up the stairs to his bedroom, which acts as a highly comforting, full-body deep pressure mechanism.
     
 
-## 🗣️ Communication Methods
 
 David is functionally non-verbal for speech, but he is incredibly expressive and communicative.
 
@@ -37,7 +30,6 @@ David is functionally non-verbal for speech, but he is incredibly expressive and
 - **The OmniTalk 3000:** Out in public, he uses a heavy, early-2000s AAC (Augmentative and Alternative Communication) device clamped to his wheelchair. It features a resistive touch screen that requires firm physical pressure. He actively dislikes using it because typing is physically exhausting and the robotic voice lacks emotional inflection, but it is necessary for interacting with a world that refuses to learn his non-verbal language.
     
 
-## 🧠 Sensory & Affection Needs
 
 - **Sensory Profile:** He is prone to sensory overload and high anxiety when faced with unpredictable rule changes, loud/chaotic environments, or the loss of autonomy.
     
@@ -48,7 +40,6 @@ David is functionally non-verbal for speech, but he is incredibly expressive and
 - **Affection:** His need for safe, regulatory physical touch is completely fulfilled at home. He requires zero transactional or romantic affection from outsiders, making him immune to manipulative advances disguised as care.
     
 
-## ⚖️ Legal Status & Independence
 
 - **The Legal Fortress:** Upon turning 18, David was legally classified as an incapacitated adult by the Fourth Circuit Court of Virginia.
     
@@ -59,7 +50,6 @@ David is functionally non-verbal for speech, but he is incredibly expressive and
 - **Social Proxies:** His parents have explicitly delegated the legal authority to dictate his social associations to Meredith and Morgan while they are at work.
     
 
-## 🔗 Key Relationships
 
 - **Meredith & Morgan Delaney:** Maternal cousins (20), identical twins, and his ultimate Safe People. They serve as his translators, physical anchors, and fierce proxy guardians.
     

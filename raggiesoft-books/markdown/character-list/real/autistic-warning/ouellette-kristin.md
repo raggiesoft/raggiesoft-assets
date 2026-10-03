@@ -10,8 +10,6 @@ tags:
   - character_profile
 ---
 
-# Kristin Ouellette (The Present-Day Catalyst)
-
 * **Name:** Kristin Ouellette
 * **Date of Birth:** 09-03-1988
 

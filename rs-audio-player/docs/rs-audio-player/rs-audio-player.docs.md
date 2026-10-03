@@ -1,92 +1,8 @@
-# RaggieSoft Audio Player (`<rs-audio-player>`) Documentation
+---
+|
+---
 
-The `<rs-audio-player>` is a project-agnostic, configurable, and stylable Web Component for adding ambient or album-style audio to any website. It is designed to be self-contained and controlled by a single JSON data file.
-
-## Table of Contents
-
-1. [Quick Start](#1-quick-start "null")
-2. [The JSON Data File](#2-the-json-data-file "null")
-3. [Usage Modes](#3-usage-modes "null")
-    - [Album Mode](#album-mode "null")
-    - [Ambient Mode](#ambient-mode "null")
-4. [Customization](#4-customization "null") 
-    - [Styling with CSS Parts](#styling-with-css-parts "null")
-    - [Replacing Controls with Slots](#replacing-controls-with-slots "null")
-5. [User Preferences & Local Storage](#5-user-preferences--local-storage "null")    
-
-## 1. Quick Start
-
-Setting up the player involves three steps: including the component's script, adding the master opt-in button to your site's chrome, and placing the `<rs-audio-player>` element itself.
-
-### Step 1: Include the Script
-
-Place this `<script>` tag in your site's main HTML file, ideally at the end of the `<body>` tag. This script defines the `<rs-audio-player>` element so the browser knows how to render it.
-
-```
-<!-- In your main layout or footer file -->
-<script type="module" src="/path/to/cdn/js/rs-audio-player.js"></script>
-```
-
-### Step 2: Add the Master Opt-In Button
-
-The player defaults to being off. You must provide a master toggle button somewhere in your UI (like the site footer) to allow users to opt-in to the audio experience.
-
-**HTML:**
-
-```
-<!-- Place this in your site's footer, outside the player component -->
-<button id="master-music-toggle">
-    <!-- The icon inside will be updated by the player script -->
-    <i class="fa-pro-solid fa-volume-slash" data-role="icon"></i>
-</button>
-```
-
-**JavaScript:** This script connects your button to the player component. Place it just after you include the component's main script.
-
-```
-<script>
-    const masterMusicToggle = document.getElementById('master-music-toggle');
-    const audioPlayer = document.querySelector('rs-audio-player');
-    const iconElement = masterMusicToggle.querySelector('[data-role="icon"]');
-
-    // Listen for the player's custom event to update the button's icon
-    audioPlayer.addEventListener('music-toggle', (event) => {
-        const isEnabled = event.detail.enabled;
-        iconElement.classList.toggle('fa-volume', isEnabled);
-        iconElement.classList.toggle('fa-volume-slash', !isEnabled);
-    });
-
-    // Tell the player to toggle its state when the button is clicked
-    masterMusicToggle.addEventListener('click', () => {
-        audioPlayer.toggleMasterMusic();
-    });
-</script>
-```
-
-### Step 3: Place the Player Component
-
-Finally, add the `<rs-audio-player>` element to your page. It will automatically be fixed to the bottom of the viewport. The attributes you set will determine what music it loads.
-
-```
-<!-- This can go anywhere in your <body>, but the footer is a good place. -->
-<rs-audio-player
-    data-storage-key-id="knox"
-    data-json-base-url="https://assets.raggiesoft.com"
-    data-album-name="/data/music/sounds-of-telsus-minor.json"
->
-    <!-- This fallback content is shown if JavaScript is disabled -->
-    <p>Audio player requires JavaScript.</p>
-</rs-audio-player>
-```
-
-## 2. The JSON Data File
-
-The player is driven entirely by a single JSON file. This file defines the album's metadata, tracklist, asset paths, and UI configuration.
-
-### JSON Structure
-
-|Key|Type|Description|
-|---|---|---|
+|---|
 |`albumTitle`|String|The name of the album or soundtrack.|
 |`artist`|String|The name of the artist.|
 |`assetBaseUrl`|String|The **absolute URL** to the root folder where your music and artwork are stored. **No trailing slash.**|
@@ -160,7 +76,6 @@ Each object inside the `tracks` array has the following structure:
 }
 ```
 
-## 3. Usage Modes
 
 The player has two distinct modes, controlled by the attributes on the `<rs-audio-player>` element.
 
@@ -194,7 +109,6 @@ This mode is for playing a single, looping background track for a specific page.
 ></rs-audio-player>
 ```
 
-## 4. Customization
 
 You can customize both the appearance and the HTML of the player's controls.
 
@@ -262,7 +176,6 @@ If you want to use your own HTML for the buttons (e.g., native `<button>`s inste
 </rs-audio-player>
 ```
 
-## 5. User Preferences & Local Storage
 
 The player is designed to respect the user's choice.
 

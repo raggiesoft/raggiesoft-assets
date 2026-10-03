@@ -10,8 +10,6 @@ tags:
   - character_profile
 ---
 
-# Amy's Character Profile (Fall 2007 – Spring 2009)
-
 * **Name:** Amy Marie Ouellette
 * **Date of Birth:** 09-03-1988
 
