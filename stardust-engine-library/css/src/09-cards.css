@@ -24,17 +24,22 @@
 }
 
 .stardust-card-cover {
-    aspect-ratio: 2 / 3;
-    height: auto;
+    position: relative;
     width: 100%;
     background: var(--primary-color, #0f172a);
     color: #fff;
+    display: block; /* Removed flex to allow absolute positioning inside */
+}
+
+/* Fallback content when no image */
+.stardust-card-cover-fallback {
+    position: absolute;
+    top: 0; left: 0; width: 100%; height: 100%;
     display: flex;
-    flex-direction: column;
     align-items: center;
     justify-content: center;
-    text-align: center;
     padding: 1rem;
+    text-align: center;
 }
 
 .stardust-card-cover.theme-red {
