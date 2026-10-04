@@ -12,3 +12,49 @@ a:hover { text-decoration: underline; }
     #stardust-reading-pane { padding: 10px; }
     #stardust-header { padding: 0 10px; }
 }
+
+/* Audio Player Responsive */
+.reader-audio-controls-row {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+}
+.reader-audio-scrubber-container {
+    flex: 1;
+    min-width: 0; /* Prevents input range from forcing width */
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    opacity: 0.8;
+}
+.reader-audio-scrubber-container input[type=range] {
+    flex: 1;
+    min-width: 0;
+}
+.reader-audio-scroll-wrap {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+@keyframes audio-marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+
+@media (max-width: 600px) {
+    .reader-audio-scroll-wrap {
+        text-overflow: clip;
+        mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+        -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
+    }
+    .reader-audio-scroll-text {
+        display: inline-block;
+        animation: audio-marquee 12s linear infinite;
+    }
+    .reader-audio-controls-row {
+        gap: 0.35rem; /* Shrink gap to fit buttons */
+    }
+}
