@@ -1,3 +1,5 @@
+*, *::before, *::after { box-sizing: border-box; }
+
 /* 01-base.css */
 :root {
     --rs-bg: #f4f4f5;
