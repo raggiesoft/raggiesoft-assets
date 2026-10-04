@@ -703,27 +703,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: A Quiet Evening Promised",
+                            "part_title": "Part 1: Calculus Tutoring",
                             "file_path": "b007/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Shift \u2013 After Stella Leaves",
+                            "part_title": "Part 2: An Unwanted Attempt",
                             "file_path": "b007/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Overload and Observation \u2013 The Decision Forms",
+                            "part_title": "Part 3: Band Room Practice",
                             "file_path": "b007/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Call for Rescue",
+                            "part_title": "Part 4: Mall Eats and Movie Anticipation",
                             "file_path": "b007/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Extraction and Stella's Quiet Wrath",
+                            "part_title": "Part 5: Saturday Matinee and a Souring Mood",
                             "file_path": "b007/c005/p005.md"
                         },
                         {
@@ -744,27 +744,27 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Calculus Tutoring",
+                            "part_title": "Part 1: A Quiet Evening Promised",
                             "file_path": "b007/c006/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: An Unwanted Attempt",
+                            "part_title": "Part 2: The Shift \u2013 After Stella Leaves",
                             "file_path": "b007/c006/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Band Room Practice",
+                            "part_title": "Part 3: Overload and Observation \u2013 The Decision Forms",
                             "file_path": "b007/c006/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Mall Eats and Movie Anticipation",
+                            "part_title": "Part 4: The Call for Rescue",
                             "file_path": "b007/c006/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Saturday Matinee and a Souring Mood",
+                            "part_title": "Part 5: Extraction and Stella's Quiet Wrath",
                             "file_path": "b007/c006/p005.md"
                         }
                     ]
@@ -796,7 +796,7 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The District Rail Gauntlet",
+                            "part_title": "Part 4: The Capital Transit Gauntlet",
                             "file_path": "b008/c001/p004.md"
                         },
                         {
@@ -842,17 +842,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Museum Hopping",
+                            "part_title": "Part 1: An Afternoon Among the Animals",
                             "file_path": "b008/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Wonders of Flight and Space",
+                            "part_title": "Part 2: A Necessary Interlude",
                             "file_path": "b008/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Rocket Burger Refuel",
+                            "part_title": "Part 3: An Evening on the Town",
                             "file_path": "b008/c002/p003.md"
                         },
                         {
@@ -862,12 +862,12 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: A Fragile Promise",
+                            "part_title": "Part 5: A Sanctuary of Water",
                             "file_path": "b008/c002/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: A Walk Through Time",
+                            "part_title": "Part 6: A Fortress Assembles for the Night",
                             "file_path": "b008/c002/p006.md"
                         },
                         {
@@ -893,47 +893,47 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Practice Mission",
+                            "part_title": "Part 1: Museum Hopping",
                             "file_path": "b008/c003/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Breakfast in Georgetown",
+                            "part_title": "Part 2: Wonders of Flight and Space",
                             "file_path": "b008/c003/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: A Walk by the Water",
+                            "part_title": "Part 3: Rocket Burger Refuel",
                             "file_path": "b008/c003/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: A Walk Among Giants",
+                            "part_title": "Part 4: The Fortress Cracks",
                             "file_path": "b008/c003/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Lunch on the Mall",
+                            "part_title": "Part 5: A Fragile Promise",
                             "file_path": "b008/c003/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: An Afternoon on the Potomac",
+                            "part_title": "Part 6: A Walk Through Time",
                             "file_path": "b008/c003/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: An Evening In",
+                            "part_title": "Part 7: A Taste of Stanstead",
                             "file_path": "b008/c003/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: A Sanctuary of Calm",
+                            "part_title": "Part 8: A Fortress in the Storm",
                             "file_path": "b008/c003/p008.md"
                         },
                         {
                             "part_num": 9,
-                            "part_title": "Part 9: The Journey Continues",
+                            "part_title": "Part 9: The Fortress, Reassembled",
                             "file_path": "b008/c003/p009.md"
                         }
                     ]
@@ -944,37 +944,37 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: A Layover in Philly",
+                            "part_title": "Part 1: The Practice Mission",
                             "file_path": "b008/c004/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Cheesesteak Debate",
+                            "part_title": "Part 2: Breakfast in Georgetown",
                             "file_path": "b008/c004/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: A Journey Through the Alleghenies",
+                            "part_title": "Part 3: A Walk by the Water",
                             "file_path": "b008/c004/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Arrival in the Steel City",
+                            "part_title": "Part 4: A Walk Among Giants",
                             "file_path": "b008/c004/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: A Room with a View",
+                            "part_title": "Part 5: Lunch on the Mall",
                             "file_path": "b008/c004/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: A Desperate Search",
+                            "part_title": "Part 6: An Afternoon on the Potomac",
                             "file_path": "b008/c004/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: A Day in the Steel City",
+                            "part_title": "Part 7: An Evening In",
                             "file_path": "b008/c004/p007.md"
                         }
                     ]
@@ -985,42 +985,42 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Shattering",
+                            "part_title": "Part 1: The Journey Continues",
                             "file_path": "b008/c005/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Long Ride Home",
+                            "part_title": "Part 2: A Layover in Philly",
                             "file_path": "b008/c005/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Infinite Loop",
+                            "part_title": "Part 3: The Cheesesteak Debate",
                             "file_path": "b008/c005/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: A Sanctuary in the Storm",
+                            "part_title": "Part 4: A Journey Through the Alleghenies",
                             "file_path": "b008/c005/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Long Night Begins",
+                            "part_title": "Part 5: Arrival in the Steel City",
                             "file_path": "b008/c005/p005.md"
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: Leo\u2019s Nightmare",
+                            "part_title": "Part 6: A Room with a View",
                             "file_path": "b008/c005/p006.md"
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: The Morning After",
+                            "part_title": "Part 7: A Desperate Search",
                             "file_path": "b008/c005/p007.md"
                         },
                         {
                             "part_num": 8,
-                            "part_title": "Part 8: A Sanity of a Sponge Bath",
+                            "part_title": "Part 8: A Day in the Steel City",
                             "file_path": "b008/c005/p008.md"
                         }
                     ]
@@ -1031,7 +1031,7 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Shadow on the Platform",
+                            "part_title": "Part 1: A Desperate Search",
                             "file_path": "b008/c006/p001.md"
                         }
                     ]
