@@ -1,0 +1,59 @@
+/* theme-severe-thunderstorm.css */
+body.theme-severe-thunderstorm {
+    --rs-bg: #020617; /* Pitch black */
+    --rs-surface: #0f172a;
+    --rs-text: #64748b; 
+    --rs-primary: #ffffff; /* Blinding lightning */
+    --rs-secondary: #475569; 
+    --rs-border: #0f172a;
+}
+
+body.theme-severe-thunderstorm::before {
+    content: "";
+    position: fixed;
+    top: -200px; left: 0; right: 0; bottom: 0;
+    pointer-events: none;
+    z-index: 9999;
+    background-image: 
+        linear-gradient(160deg, transparent 35%, rgba(255,255,255,0.12) 50%, transparent 65%),
+        linear-gradient(160deg, transparent 40%, rgba(255,255,255,0.1) 50%, transparent 60%),
+        linear-gradient(160deg, transparent 45%, rgba(255,255,255,0.08) 50%, transparent 55%);
+    background-size: 40px 70px, 60px 100px, 90px 140px;
+    animation: rain-fall-severe 0.4s linear infinite;
+    opacity: 0.9;
+}
+
+body.theme-severe-thunderstorm::after {
+    content: "";
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    pointer-events: none;
+    z-index: 9998;
+    background-color: white;
+    opacity: 0;
+    animation: lightning-flash-severe 8s infinite;
+}
+
+@keyframes rain-fall-severe {
+    0% { background-position: 0px 0px, 0px 0px, 0px 0px; }
+    100% { background-position: 25px 70px, 35px 100px, 49px 140px; }
+}
+
+@keyframes lightning-flash-severe {
+    0%, 91%, 93%, 95%, 98%, 100% { opacity: 0; }
+    92% { opacity: 0.4; }
+    94% { opacity: 0.1; }
+    96% { opacity: 0.5; }
+    97% { opacity: 0.2; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    body.theme-severe-thunderstorm::before {
+        animation: none;
+        opacity: 0.5;
+    }
+    body.theme-severe-thunderstorm::after {
+        animation: none;
+        display: none;
+    }
+}
