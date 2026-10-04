@@ -1,7 +1,9 @@
 /* Theme Name: Morning */
-/* theme-morning.css */
-body.theme-morning {
-    --rs-bg: #fff7ed; /* Very faint orange/yellow sunrise */
+
+/* Light Mode (Base) */
+body.theme-morning,
+body.theme-light.theme-morning {
+--rs-bg: #fff7ed; /* Very faint orange/yellow sunrise */
     --rs-surface: #ffffff;
     --rs-text: #431407;
     --rs-primary: #ea580c; /* Sunrise orange */
@@ -9,9 +11,21 @@ body.theme-morning {
     --rs-border: #fed7aa;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-morning {
+--rs-bg: #431407;
+        --rs-surface: #7c2d12;
+        --rs-text: #ffedd5;
+        --rs-primary: #fdba74;
+        --rs-secondary: #f97316;
+        --rs-border: #9a3412;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-morning {
-        --rs-bg: #431407;
+    body.theme-auto.theme-morning,
+    body:not(.theme-light):not(.theme-dark).theme-morning {
+--rs-bg: #431407;
         --rs-surface: #7c2d12;
         --rs-text: #ffedd5;
         --rs-primary: #fdba74;
@@ -19,14 +33,3 @@ body.theme-morning {
         --rs-border: #9a3412;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-morning {
-        --rs-bg: #431407;
-        --rs-surface: #7c2d12;
-        --rs-text: #ffedd5;
-        --rs-primary: #fdba74;
-        --rs-secondary: #f97316;
-        --rs-border: #9a3412;
-    }

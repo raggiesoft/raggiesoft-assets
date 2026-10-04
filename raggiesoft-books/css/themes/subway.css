@@ -1,7 +1,9 @@
 /* Theme Name: Subway */
-/* theme-subway.css */
-body.theme-subway {
-    --rs-bg: #f3f4f6; /* Concrete gray */
+
+/* Light Mode (Base) */
+body.theme-subway,
+body.theme-light.theme-subway {
+--rs-bg: #f3f4f6; /* Concrete gray */
     --rs-surface: #ffffff;
     --rs-text: #1f2937;
     --rs-primary: #047857; /* Emerald Line Green */
@@ -9,9 +11,21 @@ body.theme-subway {
     --rs-border: #d1d5db;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-subway {
+--rs-bg: #111827; /* Dark tunnel */
+        --rs-surface: #1f2937;
+        --rs-text: #f9fafb;
+        --rs-primary: #10b981; /* Glowing Emerald */
+        --rs-secondary: #6366f1; /* Glowing Indigo */
+        --rs-border: #374151;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-subway {
-        --rs-bg: #111827; /* Dark tunnel */
+    body.theme-auto.theme-subway,
+    body:not(.theme-light):not(.theme-dark).theme-subway {
+--rs-bg: #111827; /* Dark tunnel */
         --rs-surface: #1f2937;
         --rs-text: #f9fafb;
         --rs-primary: #10b981; /* Glowing Emerald */
@@ -19,14 +33,3 @@ body.theme-subway {
         --rs-border: #374151;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-subway {
-        --rs-bg: #111827; /* Dark tunnel */
-        --rs-surface: #1f2937;
-        --rs-text: #f9fafb;
-        --rs-primary: #10b981; /* Glowing Emerald */
-        --rs-secondary: #6366f1; /* Glowing Indigo */
-        --rs-border: #374151;
-    }

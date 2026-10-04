@@ -1,7 +1,9 @@
 /* Theme Name: Tech */
-/* theme-tech.css */
-body.theme-tech {
-    --rs-bg: #f0fdf4; /* Digital green tint */
+
+/* Light Mode (Base) */
+body.theme-tech,
+body.theme-light.theme-tech {
+--rs-bg: #f0fdf4; /* Digital green tint */
     --rs-surface: #ffffff;
     --rs-text: #14532d;
     --rs-primary: #16a34a; /* Tech green */
@@ -9,9 +11,21 @@ body.theme-tech {
     --rs-border: #bbf7d0;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-tech {
+--rs-bg: #052e16; /* Dark terminal green */
+        --rs-surface: #14532d;
+        --rs-text: #f0fdf4;
+        --rs-primary: #4ade80;
+        --rs-secondary: #16a34a;
+        --rs-border: #166534;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-tech {
-        --rs-bg: #052e16; /* Dark terminal green */
+    body.theme-auto.theme-tech,
+    body:not(.theme-light):not(.theme-dark).theme-tech {
+--rs-bg: #052e16; /* Dark terminal green */
         --rs-surface: #14532d;
         --rs-text: #f0fdf4;
         --rs-primary: #4ade80;
@@ -19,14 +33,3 @@ body.theme-tech {
         --rs-border: #166534;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-tech {
-        --rs-bg: #052e16; /* Dark terminal green */
-        --rs-surface: #14532d;
-        --rs-text: #f0fdf4;
-        --rs-primary: #4ade80;
-        --rs-secondary: #16a34a;
-        --rs-border: #166534;
-    }

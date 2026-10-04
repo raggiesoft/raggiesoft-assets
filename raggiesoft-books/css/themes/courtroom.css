@@ -1,7 +1,9 @@
 /* Theme Name: Courtroom */
-/* theme-courtroom.css */
-body.theme-courtroom {
-    --rs-bg: #f8fafc; /* Crisp, formal white/gray */
+
+/* Light Mode (Base) */
+body.theme-courtroom,
+body.theme-light.theme-courtroom {
+--rs-bg: #f8fafc; /* Crisp, formal white/gray */
     --rs-surface: #ffffff;
     --rs-text: #0f172a;
     --rs-primary: #334155; /* Formal slate */
@@ -9,9 +11,21 @@ body.theme-courtroom {
     --rs-border: #cbd5e1;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-courtroom {
+--rs-bg: #0f172a; /* Imposing dark slate */
+        --rs-surface: #1e293b;
+        --rs-text: #f8fafc;
+        --rs-primary: #94a3b8;
+        --rs-secondary: #475569;
+        --rs-border: #334155;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-courtroom {
-        --rs-bg: #0f172a; /* Imposing dark slate */
+    body.theme-auto.theme-courtroom,
+    body:not(.theme-light):not(.theme-dark).theme-courtroom {
+--rs-bg: #0f172a; /* Imposing dark slate */
         --rs-surface: #1e293b;
         --rs-text: #f8fafc;
         --rs-primary: #94a3b8;
@@ -19,14 +33,3 @@ body.theme-courtroom {
         --rs-border: #334155;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-courtroom {
-        --rs-bg: #0f172a; /* Imposing dark slate */
-        --rs-surface: #1e293b;
-        --rs-text: #f8fafc;
-        --rs-primary: #94a3b8;
-        --rs-secondary: #475569;
-        --rs-border: #334155;
-    }

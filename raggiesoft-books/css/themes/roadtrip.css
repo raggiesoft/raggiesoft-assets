@@ -1,7 +1,9 @@
 /* Theme Name: Roadtrip */
-/* theme-roadtrip.css */
-body.theme-roadtrip {
-    --rs-bg: #f8fafc; /* Open road daylight */
+
+/* Light Mode (Base) */
+body.theme-roadtrip,
+body.theme-light.theme-roadtrip {
+--rs-bg: #f8fafc; /* Open road daylight */
     --rs-surface: #ffffff;
     --rs-text: #1e293b;
     --rs-primary: #3b82f6; /* Highway sign blue */
@@ -9,9 +11,21 @@ body.theme-roadtrip {
     --rs-border: #cbd5e1;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-roadtrip {
+--rs-bg: #0f172a;
+        --rs-surface: #1e293b;
+        --rs-text: #f8fafc;
+        --rs-primary: #60a5fa;
+        --rs-secondary: #4ade80;
+        --rs-border: #334155;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-roadtrip {
-        --rs-bg: #0f172a;
+    body.theme-auto.theme-roadtrip,
+    body:not(.theme-light):not(.theme-dark).theme-roadtrip {
+--rs-bg: #0f172a;
         --rs-surface: #1e293b;
         --rs-text: #f8fafc;
         --rs-primary: #60a5fa;
@@ -19,14 +33,3 @@ body.theme-roadtrip {
         --rs-border: #334155;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-roadtrip {
-        --rs-bg: #0f172a;
-        --rs-surface: #1e293b;
-        --rs-text: #f8fafc;
-        --rs-primary: #60a5fa;
-        --rs-secondary: #4ade80;
-        --rs-border: #334155;
-    }

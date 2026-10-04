@@ -1,7 +1,9 @@
 /* Theme Name: Warm */
-/* theme-warm.css */
-body.theme-warm {
-    --rs-bg: #fffbeb; /* Warm amber/yellow tint */
+
+/* Light Mode (Base) */
+body.theme-warm,
+body.theme-light.theme-warm {
+--rs-bg: #fffbeb; /* Warm amber/yellow tint */
     --rs-surface: #ffffff;
     --rs-text: #451a03; /* Deep warm brown */
     --rs-primary: #d97706; /* Warm orange */
@@ -9,9 +11,21 @@ body.theme-warm {
     --rs-border: #fcd34d;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-warm {
+--rs-bg: #451a03; /* Deep warm brown background */
+        --rs-surface: #78350f;
+        --rs-text: #fef3c7;
+        --rs-primary: #f59e0b;
+        --rs-secondary: #fbbf24;
+        --rs-border: #92400e;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-warm {
-        --rs-bg: #451a03; /* Deep warm brown background */
+    body.theme-auto.theme-warm,
+    body:not(.theme-light):not(.theme-dark).theme-warm {
+--rs-bg: #451a03; /* Deep warm brown background */
         --rs-surface: #78350f;
         --rs-text: #fef3c7;
         --rs-primary: #f59e0b;
@@ -19,14 +33,3 @@ body.theme-warm {
         --rs-border: #92400e;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-warm {
-        --rs-bg: #451a03; /* Deep warm brown background */
-        --rs-surface: #78350f;
-        --rs-text: #fef3c7;
-        --rs-primary: #f59e0b;
-        --rs-secondary: #fbbf24;
-        --rs-border: #92400e;
-    }

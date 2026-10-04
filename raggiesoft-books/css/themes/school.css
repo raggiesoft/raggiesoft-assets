@@ -1,7 +1,9 @@
 /* Theme Name: School */
-/* theme-school.css */
-body.theme-school {
-    --rs-bg: #fdfbf7; /* Slight yellow-ish paper tone */
+
+/* Light Mode (Base) */
+body.theme-school,
+body.theme-light.theme-school {
+--rs-bg: #fdfbf7; /* Slight yellow-ish paper tone */
     --rs-surface: #ffffff;
     --rs-text: #334155;
     --rs-primary: #1d4ed8; /* School blue */
@@ -9,9 +11,21 @@ body.theme-school {
     --rs-border: #cbd5e1;
 }
 
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-school {
+--rs-bg: #0f172a;
+        --rs-surface: #1e293b;
+        --rs-text: #e2e8f0;
+        --rs-primary: #60a5fa;
+        --rs-secondary: #facc15;
+        --rs-border: #334155;
+}
+
+/* OS Auto Dark Mode */
 @media (prefers-color-scheme: dark) {
-    body.theme-school {
-        --rs-bg: #0f172a;
+    body.theme-auto.theme-school,
+    body:not(.theme-light):not(.theme-dark).theme-school {
+--rs-bg: #0f172a;
         --rs-surface: #1e293b;
         --rs-text: #e2e8f0;
         --rs-primary: #60a5fa;
@@ -19,14 +33,3 @@ body.theme-school {
         --rs-border: #334155;
     }
 }
-
-/* Force Dark Mode Override */
-
-    body.theme-dark.theme-school {
-        --rs-bg: #0f172a;
-        --rs-surface: #1e293b;
-        --rs-text: #e2e8f0;
-        --rs-primary: #60a5fa;
-        --rs-secondary: #facc15;
-        --rs-border: #334155;
-    }
