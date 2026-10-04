@@ -1,3 +1,4 @@
+/* Theme Name: Courtroom */
 /* theme-courtroom.css */
 body.theme-courtroom {
     --rs-bg: #f8fafc; /* Crisp, formal white/gray */
@@ -18,3 +19,14 @@ body.theme-courtroom {
         --rs-border: #334155;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-courtroom {
+        --rs-bg: #0f172a; /* Imposing dark slate */
+        --rs-surface: #1e293b;
+        --rs-text: #f8fafc;
+        --rs-primary: #94a3b8;
+        --rs-secondary: #475569;
+        --rs-border: #334155;
+    }

@@ -1,3 +1,4 @@
+/* Theme Name: School */
 /* theme-school.css */
 body.theme-school {
     --rs-bg: #fdfbf7; /* Slight yellow-ish paper tone */
@@ -18,3 +19,14 @@ body.theme-school {
         --rs-border: #334155;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-school {
+        --rs-bg: #0f172a;
+        --rs-surface: #1e293b;
+        --rs-text: #e2e8f0;
+        --rs-primary: #60a5fa;
+        --rs-secondary: #facc15;
+        --rs-border: #334155;
+    }

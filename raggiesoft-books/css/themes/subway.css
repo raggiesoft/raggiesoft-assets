@@ -1,3 +1,4 @@
+/* Theme Name: Subway */
 /* theme-subway.css */
 body.theme-subway {
     --rs-bg: #f3f4f6; /* Concrete gray */
@@ -18,3 +19,14 @@ body.theme-subway {
         --rs-border: #374151;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-subway {
+        --rs-bg: #111827; /* Dark tunnel */
+        --rs-surface: #1f2937;
+        --rs-text: #f9fafb;
+        --rs-primary: #10b981; /* Glowing Emerald */
+        --rs-secondary: #6366f1; /* Glowing Indigo */
+        --rs-border: #374151;
+    }

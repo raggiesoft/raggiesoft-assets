@@ -1,3 +1,4 @@
+/* Theme Name: Aquarium */
 /* theme-aquarium.css */
 body.theme-aquarium {
     --rs-bg: #e0f2fe; /* Light blue */
@@ -18,3 +19,14 @@ body.theme-aquarium {
         --rs-border: #0369a1;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-aquarium {
+        --rs-bg: #082f49; /* Deep sea blue */
+        --rs-surface: #0c4a6e;
+        --rs-text: #e0f2fe;
+        --rs-primary: #38bdf8;
+        --rs-secondary: #0284c7;
+        --rs-border: #0369a1;
+    }

@@ -1,3 +1,4 @@
+/* Theme Name: Roadtrip */
 /* theme-roadtrip.css */
 body.theme-roadtrip {
     --rs-bg: #f8fafc; /* Open road daylight */
@@ -18,3 +19,14 @@ body.theme-roadtrip {
         --rs-border: #334155;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-roadtrip {
+        --rs-bg: #0f172a;
+        --rs-surface: #1e293b;
+        --rs-text: #f8fafc;
+        --rs-primary: #60a5fa;
+        --rs-secondary: #4ade80;
+        --rs-border: #334155;
+    }

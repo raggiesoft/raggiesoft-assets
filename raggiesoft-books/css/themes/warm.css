@@ -1,3 +1,4 @@
+/* Theme Name: Warm */
 /* theme-warm.css */
 body.theme-warm {
     --rs-bg: #fffbeb; /* Warm amber/yellow tint */
@@ -18,3 +19,14 @@ body.theme-warm {
         --rs-border: #92400e;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-warm {
+        --rs-bg: #451a03; /* Deep warm brown background */
+        --rs-surface: #78350f;
+        --rs-text: #fef3c7;
+        --rs-primary: #f59e0b;
+        --rs-secondary: #fbbf24;
+        --rs-border: #92400e;
+    }

@@ -1,3 +1,4 @@
+/* Theme Name: Morning */
 /* theme-morning.css */
 body.theme-morning {
     --rs-bg: #fff7ed; /* Very faint orange/yellow sunrise */
@@ -18,3 +19,14 @@ body.theme-morning {
         --rs-border: #9a3412;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-morning {
+        --rs-bg: #431407;
+        --rs-surface: #7c2d12;
+        --rs-text: #ffedd5;
+        --rs-primary: #fdba74;
+        --rs-secondary: #f97316;
+        --rs-border: #9a3412;
+    }

@@ -1,3 +1,4 @@
+/* Theme Name: Tech */
 /* theme-tech.css */
 body.theme-tech {
     --rs-bg: #f0fdf4; /* Digital green tint */
@@ -18,3 +19,14 @@ body.theme-tech {
         --rs-border: #166534;
     }
 }
+
+/* Force Dark Mode Override */
+
+    body.theme-dark.theme-tech {
+        --rs-bg: #052e16; /* Dark terminal green */
+        --rs-surface: #14532d;
+        --rs-text: #f0fdf4;
+        --rs-primary: #4ade80;
+        --rs-secondary: #16a34a;
+        --rs-border: #166534;
+    }

@@ -440,8 +440,15 @@ function do_push() {
         if (is_dir($booksThemesDir)) {
             foreach(glob("$booksThemesDir/*.css") as $file) {
                 $name = basename($file, ".css");
-                $themesList[] = $name;
+                $friendlyName = $name;
+                $content = file_get_contents($file);
+                if (preg_match("|/\*\s*Theme Name:\s*(.*?)\s*\*/|i", $content, $matches)) {
+                    $friendlyName = $matches[1];
+                }
+                $themesList[$name] = $friendlyName;
             }
+            // Sort by friendly name
+            asort($themesList);
             $booksDir = "'"$BOOKS_ROOT"'/data";
             if (is_dir($booksDir)) {
                 file_put_contents("$booksDir/themes.json", json_encode($themesList, JSON_PRETTY_PRINT));
