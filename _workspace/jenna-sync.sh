@@ -409,19 +409,15 @@ function do_push() {
             $css = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $css);
             $css = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $css);
             file_put_contents("$dir/css/stardust-engine.min.css", $css);
-            
-            $themesList = [];
             foreach(glob("$dir/css/src/theme-*.css") as $file) {
                 $name = basename($file, ".css");
-                $themesList[] = substr($name, 6);
                 $tcss = file_get_contents($file);
                 $tcss = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $tcss);
-                $tcss = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $tcss);
+                $tcss = str_replace(array("
+", "
+", "
+", "	", "  ", "    ", "    "), "", $tcss);
                 file_put_contents("$dir/css/" . $name . ".min.css", $tcss);
-            }
-            $booksDir = "'"$BOOKS_ROOT"'/data";
-            if (is_dir($booksDir)) {
-                file_put_contents("$booksDir/themes.json", json_encode($themesList, JSON_PRETTY_PRINT));
             }
             
             foreach(glob("$dir/js/src/*.js") as $file) {
@@ -436,7 +432,7 @@ function do_push() {
             }
         }
     '
-    
+
     echo "      > Indexing Narrative Themes..."
     php -r '
         $booksThemesDir = "'"$ASSETS_ROOT"'/raggiesoft-books/css/themes";
@@ -452,8 +448,8 @@ function do_push() {
             }
         }
     '
-    
-    echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
+
+echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     if [ -f "$NARRATIVES_ROOT/scripts/publish_books.php" ]; then
         php "$NARRATIVES_ROOT/scripts/publish_books.php"
         if [ $? -ne 0 ]; then
@@ -626,19 +622,15 @@ function do_push() {
             $css = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $css);
             $css = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $css);
             file_put_contents("$dir/css/stardust-engine.min.css", $css);
-            
-            $themesList = [];
             foreach(glob("$dir/css/src/theme-*.css") as $file) {
                 $name = basename($file, ".css");
-                $themesList[] = substr($name, 6);
                 $tcss = file_get_contents($file);
                 $tcss = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $tcss);
-                $tcss = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $tcss);
+                $tcss = str_replace(array("
+", "
+", "
+", "	", "  ", "    ", "    "), "", $tcss);
                 file_put_contents("$dir/css/" . $name . ".min.css", $tcss);
-            }
-            $booksDir = "'"$BOOKS_ROOT"'/data";
-            if (is_dir($booksDir)) {
-                file_put_contents("$booksDir/themes.json", json_encode($themesList, JSON_PRETTY_PRINT));
             }
             
             foreach(glob("$dir/js/src/*.js") as $file) {
