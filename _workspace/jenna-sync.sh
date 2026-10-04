@@ -399,6 +399,44 @@ function do_push() {
         fi
     fi
 
+    echo "      > Building Stardust Engine Assets..."
+    # Local minification (so the .min files are pushed to GitHub and the CDN)
+    php -r '
+        $dir = "'"$ASSETS_ROOT"'/stardust-engine-library";
+        if (is_dir($dir)) {
+            $css = "";
+            foreach(glob("$dir/css/src/*.css") as $file) { $css .= file_get_contents($file); }
+            $css = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $css);
+            $css = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $css);
+            file_put_contents("$dir/css/stardust-engine.min.css", $css);
+            
+            $themesList = [];
+            foreach(glob("$dir/css/src/theme-*.css") as $file) {
+                $name = basename($file, ".css");
+                $themesList[] = substr($name, 6);
+                $tcss = file_get_contents($file);
+                $tcss = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $tcss);
+                $tcss = str_replace(array("\r\n", "\r", "\n", "\t", "  ", "    ", "    "), "", $tcss);
+                file_put_contents("$dir/css/" . $name . ".min.css", $tcss);
+            }
+            $booksDir = "'"$BOOKS_ROOT"'/data";
+            if (is_dir($booksDir)) {
+                file_put_contents("$booksDir/themes.json", json_encode($themesList, JSON_PRETTY_PRINT));
+            }
+            
+            foreach(glob("$dir/js/src/*.js") as $file) {
+                $name = basename($file, ".js");
+                $js = file_get_contents($file);
+                $js = preg_replace("!/\*[^*]*\*+([^/][^*]*\*+)*/!", "", $js);
+                $js = preg_replace("/^[ 	]+/m", "", $js);
+                $js = preg_replace("/
++/", "
+", $js);
+                file_put_contents("$dir/js/" . $name . ".min.js", $js);
+            }
+        }
+    '
+    
     echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     if [ -f "$NARRATIVES_ROOT/scripts/publish_books.php" ]; then
         php "$NARRATIVES_ROOT/scripts/publish_books.php"
