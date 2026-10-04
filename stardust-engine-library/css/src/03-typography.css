@@ -34,3 +34,9 @@
     color: var(--rs-text);
     opacity: 0.8;
 }
+
+/* AAC Device text formatting */
+em.aac-device, .aac-device {
+    font-style: italic;
+    color: var(--rs-primary, #2563eb);
+}
