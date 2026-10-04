@@ -1026,6 +1026,24 @@
     "status": "Released"
   },
   {
+    "err_id": "ERR-999-1996-101",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Homeward on This Day",
+    "albumTitle": "A Symphony of Snow",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Arctic Symphony Project",
+    "artistSlug": "the-arctic-symphony-project",
+    "albumSlug": "1996-a-symphony-of-snow",
+    "trackSlug": "1-01-homeward-on-this-day",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-04",
+    "status": "Pending DSP"
+  },
+  {
     "err_id": "ERR-001-1996-101",
     "isrc": "QZTB62697616",
     "albumUPC": "825486804399",
@@ -1886,7 +1904,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1904,7 +1922,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1922,7 +1940,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1940,7 +1958,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1958,7 +1976,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1976,7 +1994,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -1994,7 +2012,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2012,7 +2030,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2030,7 +2048,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2048,7 +2066,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2066,7 +2084,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2084,7 +2102,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2102,7 +2120,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2120,7 +2138,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2138,7 +2156,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2156,7 +2174,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2174,7 +2192,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2192,7 +2210,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2210,7 +2228,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2228,7 +2246,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2246,7 +2264,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2264,7 +2282,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2282,7 +2300,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2300,7 +2318,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2318,7 +2336,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2336,7 +2354,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2354,7 +2372,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2372,7 +2390,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2390,7 +2408,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2408,7 +2426,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -2426,7 +2444,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -3542,7 +3560,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3560,7 +3578,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3578,7 +3596,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3596,7 +3614,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3614,7 +3632,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3632,7 +3650,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3650,7 +3668,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3668,7 +3686,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3686,7 +3704,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3704,7 +3722,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3722,7 +3740,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3740,7 +3758,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3758,7 +3776,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3776,7 +3794,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3794,7 +3812,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3812,7 +3830,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3830,7 +3848,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3848,7 +3866,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3866,7 +3884,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3884,7 +3902,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Released"
   },
   {
@@ -3902,7 +3920,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -3920,7 +3938,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -3938,7 +3956,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -3956,7 +3974,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -3974,7 +3992,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -3992,7 +4010,7 @@
     "distributor": "Internal Vault",
     "aiClearance": "Cleared - Internal Vault Only",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Vault Exclusive"
   },
   {
@@ -4010,7 +4028,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4028,7 +4046,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4046,7 +4064,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4064,7 +4082,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4082,7 +4100,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4100,7 +4118,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4118,7 +4136,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4136,7 +4154,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4154,7 +4172,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4172,7 +4190,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4190,7 +4208,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4208,7 +4226,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4226,7 +4244,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4244,7 +4262,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4262,7 +4280,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4280,7 +4298,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4298,7 +4316,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4316,7 +4334,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4334,7 +4352,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4352,7 +4370,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4370,7 +4388,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4388,7 +4406,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4406,7 +4424,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4424,7 +4442,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4442,7 +4460,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4460,7 +4478,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4478,7 +4496,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4496,7 +4514,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4514,7 +4532,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -4532,7 +4550,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5126,7 +5144,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5144,7 +5162,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5162,7 +5180,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5180,7 +5198,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5198,7 +5216,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5216,7 +5234,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5234,7 +5252,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5252,7 +5270,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5270,7 +5288,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5288,7 +5306,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5306,7 +5324,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5324,7 +5342,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5342,7 +5360,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5360,7 +5378,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5378,7 +5396,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5396,7 +5414,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5414,7 +5432,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5432,7 +5450,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5450,7 +5468,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5468,7 +5486,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5486,7 +5504,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5504,7 +5522,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5522,7 +5540,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5540,7 +5558,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5558,7 +5576,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5576,7 +5594,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5594,7 +5612,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5612,7 +5630,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5630,7 +5648,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5648,7 +5666,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5666,7 +5684,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5684,7 +5702,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5702,7 +5720,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5720,7 +5738,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5738,7 +5756,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5756,7 +5774,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5774,7 +5792,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5792,7 +5810,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5810,7 +5828,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5828,7 +5846,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5846,7 +5864,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5864,7 +5882,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5882,7 +5900,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5900,7 +5918,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5918,7 +5936,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5936,7 +5954,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5954,7 +5972,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5972,7 +5990,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -5990,7 +6008,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6008,7 +6026,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6026,7 +6044,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6044,7 +6062,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6062,7 +6080,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6080,7 +6098,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6098,7 +6116,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6116,7 +6134,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6134,7 +6152,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6152,7 +6170,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6170,7 +6188,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6188,7 +6206,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6206,7 +6224,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6224,7 +6242,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6242,7 +6260,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6260,7 +6278,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6278,7 +6296,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6296,7 +6314,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6314,7 +6332,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6332,7 +6350,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6350,7 +6368,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6368,7 +6386,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6386,7 +6404,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6404,7 +6422,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6422,7 +6440,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6440,7 +6458,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   },
   {
@@ -6458,7 +6476,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-27",
+    "realReleaseDate": "2026-10-03",
     "status": "Pending DSP"
   }
 ]
