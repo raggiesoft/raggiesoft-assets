@@ -1,0 +1,18 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-homeward-on-this-day",
+      "title": "Homeward on This Day",
+      "isrc": "",
+      "masterWavPath": "studio/homeward-on-this-day",
+      "disc": 1,
+      "discName": "A Symphony of Snow",
+      "track": 1,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": "A majestic symphonic rock reimagining of The Paper Wall's industrial track, bringing epic strings and choral arrangements to a story of homecoming.",
+      "duration": "5:25"
+    }
+  ]
+}

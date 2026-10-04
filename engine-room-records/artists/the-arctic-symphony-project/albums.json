@@ -1,0 +1,22 @@
+{
+  "debut": {
+    "label": "The Holiday Epics",
+    "heading": "1996: A Symphony of Snow",
+    "description": "The symphonic rock debut of The Arctic Symphony Project, reimagining the industrial angst of The Paper Wall as a grand, orchestral Christmas celebration.",
+    "albums": [
+      {
+        "title": "A Symphony of Snow",
+        "year": "1996",
+        "url": "/engine-room/artists/the-arctic-symphony-project/discography/1996-a-symphony-of-snow",
+        "folder": "1996-a-symphony-of-snow",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-arctic-symphony-project/1996-a-symphony-of-snow/album-art.jpg",
+        "description": "A sweeping symphonic rock Christmas album.",
+        "rockOperaSetId": "",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "A Symphony of Snow",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Arctic Symphony Project"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Symphonic Rock / Christmas",
+  "description": "A sweeping symphonic rock Christmas album.",
+  "datePublished": "2026-10-04",
+  "temporalCoverage": "1996-10-15",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "conditionsOfAccess": "Pending Distribution",
+  "creativeWorkStatus": "Upcoming Release",
+  "isRockOpera": false
+}
