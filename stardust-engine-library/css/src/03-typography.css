@@ -6,7 +6,22 @@
     font-weight: 700;
 }
 .book-page p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: left;
+    text-indent: 1.5rem;
+}
+.book-page p:first-of-type {
+    text-indent: 0;
+}
+.book-page p:first-of-type::first-letter {
+    float: left;
+    font-size: 3.5em;
+    line-height: 0.8;
+    margin-top: 0.1em;
+    margin-right: 0.1em;
+    margin-bottom: -0.1em;
+    font-weight: 700;
+    color: var(--rs-primary);
 }
 .book-page blockquote {
     border-left: 4px solid var(--rs-primary);
