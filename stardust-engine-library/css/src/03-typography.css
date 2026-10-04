@@ -1,19 +1,21 @@
-/* 03-typography.css: Parsedown Markdown Styling */
 .book-page h1, .book-page h2, .book-page h3 {
     color: var(--rs-text);
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: 700;
 }
-.book-page p {
-    margin-bottom: 0.5rem;
+
+.story-content p {
+    margin-bottom: 1.5rem;
     text-align: left;
     text-indent: 1.5rem;
 }
-.book-page p:first-of-type {
+
+.story-content p:first-of-type {
     text-indent: 0;
 }
-.book-page p:first-of-type::first-letter {
+
+.story-content p:first-of-type::first-letter {
     float: left;
     font-size: 3.5em;
     line-height: 0.8;
@@ -23,6 +25,7 @@
     font-weight: 700;
     color: var(--rs-primary);
 }
+
 .book-page blockquote {
     border-left: 4px solid var(--rs-primary);
     margin: 1.5rem 0;
