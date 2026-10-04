@@ -1035,6 +1035,447 @@
                             "file_path": "b008/c006/p001.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Colors of the Steel City",
+                            "file_path": "b008/c007/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Wrong Way",
+                            "file_path": "b008/c007/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: A Sanctuary in the Steel City",
+                            "file_path": "b008/c007/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Chapter 8",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Good Morning, Chicago",
+                            "file_path": "b008/c008/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Holding the Line",
+                            "file_path": "b008/c008/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Zenith Tower",
+                            "file_path": "b008/c008/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Descent",
+                            "file_path": "b008/c008/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Solid Ground",
+                            "file_path": "b008/c008/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Deep Dish",
+                            "file_path": "b008/c008/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Cheese Toll",
+                            "file_path": "b008/c008/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: Recovery",
+                            "file_path": "b008/c008/p008.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Chapter 9",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The BRAT Diet",
+                            "file_path": "b008/c009/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Fountains and Fishes",
+                            "file_path": "b008/c009/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Boarding the Pioneer",
+                            "file_path": "b008/c009/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Cramped Quarters",
+                            "file_path": "b008/c009/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Crossing the Plains",
+                            "file_path": "b008/c009/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "Chapter 10",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Mile High City",
+                            "file_path": "b008/c010/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Denver Regional Transit",
+                            "file_path": "b008/c010/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Horizon Suites",
+                            "file_path": "b008/c010/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The MallRide",
+                            "file_path": "b008/c010/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Bison and Oysters",
+                            "file_path": "b008/c010/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "Chapter 11",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Centennial Botanic Gardens",
+                            "file_path": "b008/c011/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Thin Air",
+                            "file_path": "b008/c011/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: One More Night",
+                            "file_path": "b008/c011/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "Chapter 12",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Night Terrors",
+                            "file_path": "b008/c012/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Western Pioneer",
+                            "file_path": "b008/c012/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Climb to the Divide",
+                            "file_path": "b008/c012/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Canyons of the Colorado",
+                            "file_path": "b008/c012/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Observation Deck",
+                            "file_path": "b008/c012/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Dining Car Service",
+                            "file_path": "b008/c012/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Utah Border",
+                            "file_path": "b008/c012/p007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 13,
+                    "chap_title": "Chapter 13",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Salt Lake Stop",
+                            "file_path": "b008/c013/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Nevada Desert",
+                            "file_path": "b008/c013/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Donner Pass",
+                            "file_path": "b008/c013/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Arrival in the Bay",
+                            "file_path": "b008/c013/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Sovereign Regency San Francisco",
+                            "file_path": "b008/c013/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 14,
+                    "chap_title": "Chapter 14",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Historic F-Line",
+                            "file_path": "b008/c014/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Ferry to The Rock",
+                            "file_path": "b008/c014/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Inmate 85",
+                            "file_path": "b008/c014/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Dummy Heads and Spoons",
+                            "file_path": "b008/c014/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: West Coast Chowda",
+                            "file_path": "b008/c014/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Crown Point Memorial",
+                            "file_path": "b008/c014/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Transbay Tube",
+                            "file_path": "b008/c014/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: East Bay Diner",
+                            "file_path": "b008/c014/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: The Bridge at Night",
+                            "file_path": "b008/c014/p009.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 15,
+                    "chap_title": "Chapter 15",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Atrium",
+                            "file_path": "b008/c015/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: AAC Solidarity",
+                            "file_path": "b008/c015/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Ferry Building",
+                            "file_path": "b008/c015/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Engineering Failures",
+                            "file_path": "b008/c015/p004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 98,
+                    "chap_title": "Chapter 98",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Shattering",
+                            "file_path": "b008/c098/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Long Ride Home",
+                            "file_path": "b008/c098/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Infinite Loop",
+                            "file_path": "b008/c098/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: A Sanctuary in the Storm",
+                            "file_path": "b008/c098/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Long Night Begins",
+                            "file_path": "b008/c098/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Leo\u2019s Nightmare",
+                            "file_path": "b008/c098/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Morning After",
+                            "file_path": "b008/c098/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: A Sanity of a Sponge Bath",
+                            "file_path": "b008/c098/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: Reckoning and Reunion",
+                            "file_path": "b008/c098/p009.md"
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: The Feast of Homecoming",
+                            "file_path": "b008/c098/p010.md"
+                        },
+                        {
+                            "part_num": 11,
+                            "part_title": "Part 11: Evening Rituals and Secure Sleep",
+                            "file_path": "b008/c098/p011.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 99,
+                    "chap_title": "Chapter 99",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Shadow on the Platform",
+                            "file_path": "b008/c099/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: A Gentle Waking",
+                            "file_path": "b008/c099/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Sanctuary of Breakfast",
+                            "file_path": "b008/c099/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: A Mission of Restoration",
+                            "file_path": "b008/c099/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: A Voice of His Own",
+                            "file_path": "b008/c099/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: A Mission of Agency",
+                            "file_path": "b008/c099/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Reclaiming a Sanctuary",
+                            "file_path": "b008/c099/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: Designing a New Sanctuary",
+                            "file_path": "b008/c099/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: The Victory Lunch",
+                            "file_path": "b008/c099/p009.md"
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: The Sanctuary Rebuilt",
+                            "file_path": "b008/c099/p010.md"
+                        },
+                        {
+                            "part_num": 11,
+                            "part_title": "Part 11: The First Rest",
+                            "file_path": "b008/c099/p011.md"
+                        },
+                        {
+                            "part_num": 12,
+                            "part_title": "Part 12: A Boundary Drawn",
+                            "file_path": "b008/c099/p012.md"
+                        },
+                        {
+                            "part_num": 13,
+                            "part_title": "Part 13: A New Path Forward",
+                            "file_path": "b008/c099/p013.md"
+                        },
+                        {
+                            "part_num": 14,
+                            "part_title": "Part 14: Fortress Goes to College",
+                            "file_path": "b008/c099/p014.md"
+                        },
+                        {
+                            "part_num": 15,
+                            "part_title": "Part 15: The First Peaceful Sleep",
+                            "file_path": "b008/c099/p015.md"
+                        }
+                    ]
                 }
             ]
         },
