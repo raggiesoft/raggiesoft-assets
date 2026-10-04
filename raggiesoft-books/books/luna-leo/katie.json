@@ -141,6 +141,182 @@
                     ]
                 },
                 {
+                    "chap_num": 2,
+                    "chap_title": "The Record Player Discovery",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Record Player Discovery",
+                            "file_path": "b005/c002/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Music Store",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Music Store",
+                            "file_path": "b005/c003/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The Doorbell Rings",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Doorbell Rings",
+                            "file_path": "b005/c004/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Legal Issues Settled",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Legal Issues Settled",
+                            "file_path": "b005/c005/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Programming the AAC",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Programming the AAC",
+                            "file_path": "b005/c006/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Weight of Academic Neglect",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Weight of Academic Neglect",
+                            "file_path": "b005/c007/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Opus Computers Setup",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Opus Computers Setup",
+                            "file_path": "b005/c008/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Rainy Tuesday Evening",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Rainy Tuesday Evening",
+                            "file_path": "b005/c009/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "COMPUBLUE KeyMech",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: COMPUBLUE KeyMech",
+                            "file_path": "b005/c010/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "Oregon Trail Preparation",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Oregon Trail Preparation",
+                            "file_path": "b005/c011/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "Saturday Morning Research",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Saturday Morning Research",
+                            "file_path": "b005/c012/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 13,
+                    "chap_title": "Printing the Reports",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Printing the Reports",
+                            "file_path": "b005/c013/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 14,
+                    "chap_title": "Therapy Appointment Drive",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Therapy Appointment Drive",
+                            "file_path": "b005/c014/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 15,
+                    "chap_title": "Classic Rock Discoveries",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Classic Rock Discoveries",
+                            "file_path": "b005/c015/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 16,
+                    "chap_title": "Wherever You Go",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Wherever You Go",
+                            "file_path": "b005/c016/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 17,
+                    "chap_title": "Friday Night Lights",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Friday Night Lights",
+                            "file_path": "b005/c017/p001.md"
+                        }
+                    ]
+                },
+                {
                     "chap_num": 18,
                     "chap_title": "Competition Road Trip",
                     "parts": [
