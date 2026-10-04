@@ -4,7 +4,7 @@ body.theme-severe-thunderstorm {
     --rs-bg: #020617; /* Pitch black */
     --rs-surface: #0f172a;
     --rs-text: #64748b; 
-    --rs-primary: #ffffff; /* Blinding lightning */
+    --rs-primary: #38bdf8; /* Blinding lightning */
     --rs-secondary: #475569; 
     --rs-border: #0f172a;
 }
