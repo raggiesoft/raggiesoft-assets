@@ -445,7 +445,14 @@ function do_push() {
                 if (preg_match("|/\*\s*Theme Name:\s*(.*?)\s*\*/|i", $content, $matches)) {
                     $friendlyName = $matches[1];
                 }
-                $themesList[$name] = $friendlyName;
+                $supportsModes = false;
+                if (strpos($content, "body.theme-light.") !== false || strpos($content, "body.theme-dark.") !== false) {
+                    $supportsModes = true;
+                }
+                $themesList[$name] = [
+                    "name" => $friendlyName,
+                    "supports_modes" => $supportsModes
+                ];
             }
             // Sort by friendly name
             asort($themesList);
