@@ -5,10 +5,15 @@
     font-weight: 700;
 }
 
+.story-content {
+    color: var(--rs-text);
+}
+
 .story-content p {
     margin-bottom: 1.5rem;
     text-align: left;
     text-indent: 1.5rem;
+    color: var(--rs-text);
 }
 
 .story-content p:first-of-type {
@@ -38,20 +43,20 @@
 /* AAC Device text formatting */
 em.aac-device, .aac-device {
     font-style: italic;
-    color: var(--rs-primary, #2563eb);
+    color: var(--rs-primary);
 }
 
 /* ASL formatting */
 em.asl-sign, .asl-sign {
     font-weight: bold;
     font-style: italic;
-    color: #047857;
+    color: var(--rs-asl);
 }
 
 /* Generic Sign / Gesture formatting */
 em.generic-sign, .generic-sign {
     font-style: italic;
-    color: #4b5563;
+    color: var(--rs-gesture);
 }
 
 /* SMS / Text Message formatting */
