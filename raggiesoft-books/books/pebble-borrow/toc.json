@@ -9,15 +9,18 @@
         {
             "book_num": 1,
             "book_title": "Book 1",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-1",
             "chapters": []
         },
         {
             "book_num": 2,
             "book_title": "The Motel on the Highway",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Threshold",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold",
                     "parts": [
                         {
                             "part_num": 1,
@@ -29,6 +32,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Setting the Scene",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/setting-the-scene",
                     "parts": [
                         {
                             "part_num": 1,
@@ -45,6 +49,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Amanda Protects her Siblings",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/amanda-protects-her-siblings",
                     "parts": [
                         {
                             "part_num": 1,
@@ -63,20 +68,24 @@
         {
             "book_num": 3,
             "book_title": "Book 3",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-3",
             "chapters": []
         },
         {
             "book_num": 4,
             "book_title": "Book 4",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-4",
             "chapters": []
         },
         {
             "book_num": 5,
             "book_title": "Book 5",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-5",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-5/chapter-1",
                     "parts": []
                 }
             ]
@@ -84,80 +93,96 @@
         {
             "book_num": 6,
             "book_title": "Book 6",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-6",
             "chapters": []
         },
         {
             "book_num": 7,
             "book_title": "Welcome to Pebble Burrow",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-6",
                     "parts": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-7",
                     "parts": []
                 },
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-8",
                     "parts": []
                 },
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-9",
                     "parts": []
                 },
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-10",
                     "parts": []
                 },
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-11",
                     "parts": []
                 },
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-12",
                     "parts": []
                 },
                 {
                     "chap_num": 13,
                     "chap_title": "Chapter 13",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-13",
                     "parts": []
                 },
                 {
                     "chap_num": 14,
                     "chap_title": "Returning to the Surface",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/returning-to-the-surface",
                     "parts": [
                         {
                             "part_num": 1,
@@ -174,11 +199,13 @@
                 {
                     "chap_num": 15,
                     "chap_title": "Chapter 15",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-15",
                     "parts": []
                 },
                 {
                     "chap_num": 16,
                     "chap_title": "Chapter 16",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-16",
                     "parts": []
                 }
             ]
@@ -186,15 +213,18 @@
         {
             "book_num": 8,
             "book_title": "The General's Arrival",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Holy Grail of Geothermal Energy",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/the-holy-grail-of-geothermal-energy",
                     "parts": [
                         {
                             "part_num": 1,
@@ -206,6 +236,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "0830 Hours: The Four-Star Directive",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/0830-hours-the-four-star-directive",
                     "parts": [
                         {
                             "part_num": 1,
@@ -217,11 +248,13 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "1015 Hours: The Commander-in-Chief",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/1015-hours-the-commander-in-chief",
                     "parts": [
                         {
                             "part_num": 1,
@@ -235,15 +268,18 @@
         {
             "book_num": 9,
             "book_title": "Book 9",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-9",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9/chapter-2",
                     "parts": []
                 }
             ]
@@ -251,65 +287,78 @@
         {
             "book_num": 10,
             "book_title": "Book 10",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-10",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-6",
                     "parts": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-7",
                     "parts": []
                 },
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-8",
                     "parts": []
                 },
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-9",
                     "parts": []
                 },
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-10",
                     "parts": []
                 },
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-11",
                     "parts": []
                 },
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10/chapter-12",
                     "parts": []
                 }
             ]
@@ -317,25 +366,30 @@
         {
             "book_num": 11,
             "book_title": "Book 11",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-11",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11/chapter-4",
                     "parts": []
                 }
             ]
@@ -343,20 +397,24 @@
         {
             "book_num": 12,
             "book_title": "Book 12",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-12",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12/chapter-3",
                     "parts": []
                 }
             ]
@@ -364,35 +422,42 @@
         {
             "book_num": 13,
             "book_title": "Book 13",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-13",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13/chapter-6",
                     "parts": []
                 }
             ]
@@ -400,20 +465,24 @@
         {
             "book_num": 14,
             "book_title": "Book 14",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-14",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14/chapter-3",
                     "parts": []
                 }
             ]
@@ -421,20 +490,24 @@
         {
             "book_num": 15,
             "book_title": "Book 15",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-15",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15/chapter-3",
                     "parts": []
                 }
             ]
@@ -442,25 +515,30 @@
         {
             "book_num": 16,
             "book_title": "Book 16",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-16",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16/chapter-4",
                     "parts": []
                 }
             ]
@@ -468,35 +546,42 @@
         {
             "book_num": 17,
             "book_title": "Book 17",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-17",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17/chapter-6",
                     "parts": []
                 }
             ]
@@ -504,15 +589,18 @@
         {
             "book_num": 18,
             "book_title": "Book 18",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-18",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18/chapter-2",
                     "parts": []
                 }
             ]
@@ -520,20 +608,24 @@
         {
             "book_num": 19,
             "book_title": "Book 19",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-19",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19/chapter-3",
                     "parts": []
                 }
             ]
@@ -541,20 +633,24 @@
         {
             "book_num": 20,
             "book_title": "Book 20",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-20",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20/chapter-3",
                     "parts": []
                 }
             ]
@@ -562,20 +658,24 @@
         {
             "book_num": 21,
             "book_title": "Book 21",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-21",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21/chapter-3",
                     "parts": []
                 }
             ]
@@ -583,45 +683,54 @@
         {
             "book_num": 22,
             "book_title": "Book 22",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-22",
             "chapters": []
         },
         {
             "book_num": 23,
             "book_title": "Amanda Interviews Care Nurses",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-6",
                     "parts": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "The Verification",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-verification",
                     "parts": [
                         {
                             "part_num": 1,
@@ -643,6 +752,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Fortress is Staffed",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed",
                     "parts": [
                         {
                             "part_num": 1,
@@ -671,15 +781,18 @@
         {
             "book_num": 24,
             "book_title": "Book 24",
+            "book_url": "/raggiesoft-books/books/pebble-borrow/book-24",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24/chapter-2",
                     "parts": []
                 }
             ]

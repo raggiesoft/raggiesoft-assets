@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book: The Great Schism",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Eve of Exile",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile",
                     "parts": [
                         {
                             "part_num": 1,
@@ -34,6 +36,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Gates of Exile",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-2-the-gates-of-exile",
                     "parts": [
                         {
                             "part_num": 1,
@@ -60,6 +63,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Architecture of Survival",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-3-the-architecture-of-survival",
                     "parts": [
                         {
                             "part_num": 1,
@@ -78,10 +82,12 @@
         {
             "book_num": 2,
             "book_title": "Book: Vanessa",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Coastal Assessment",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa/chapter-1-the-coastal-assessment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -120,10 +126,12 @@
         {
             "book_num": 3,
             "book_title": "Book: Johnny's Rescue",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: SOS from the Salish Sea",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-1-sos-from-the-salish-sea",
                     "parts": [
                         {
                             "part_num": 1,
@@ -165,6 +173,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Mainland",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-2-the-mainland",
                     "parts": [
                         {
                             "part_num": 1,
@@ -206,6 +215,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Curriculum",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-3-the-curriculum",
                     "parts": [
                         {
                             "part_num": 1,
@@ -217,6 +227,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Annihilation of Vanessa Hayes",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-4-the-annihilation-of-vanessa-hayes",
                     "parts": [
                         {
                             "part_num": 1,
@@ -248,6 +259,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Golden Window",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window",
                     "parts": [
                         {
                             "part_num": 1,
@@ -289,6 +301,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Anomaly",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-6-the-anomaly",
                     "parts": [
                         {
                             "part_num": 1,
@@ -320,6 +333,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Model Collapse",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-7-the-model-collapse",
                     "parts": [
                         {
                             "part_num": 1,
@@ -336,6 +350,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Sovereign Pivot",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-8-the-sovereign-pivot",
                     "parts": [
                         {
                             "part_num": 1,
@@ -357,6 +372,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Redline",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-9-the-redline",
                     "parts": [
                         {
                             "part_num": 1,
@@ -370,10 +386,12 @@
         {
             "book_num": 4,
             "book_title": "Book: The Centennial Gala",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Centennial Eve",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve",
                     "parts": [
                         {
                             "part_num": 1,
@@ -405,6 +423,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The Drawbridge",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-4-the-drawbridge",
                     "parts": [
                         {
                             "part_num": 1,
@@ -441,6 +460,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 5: The Centennial Gala",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-5-the-centennial-gala",
                     "parts": [
                         {
                             "part_num": 1,
@@ -472,6 +492,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 6: The Evacuation",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-6-the-evacuation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -505,10 +526,12 @@
         {
             "book_num": 5,
             "book_title": "Book: Winter on the Mountain",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Diana\u2019s Lessons",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-1-diana-s-lessons",
                     "parts": [
                         {
                             "part_num": 1,
@@ -535,6 +558,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fortress Within",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-2-the-fortress-within",
                     "parts": [
                         {
                             "part_num": 1,
@@ -546,6 +570,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Cascades Concrete",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete",
                     "parts": [
                         {
                             "part_num": 1,
@@ -607,6 +632,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Air-Gap Transition",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-4-the-air-gap-transition",
                     "parts": [
                         {
                             "part_num": 1,
@@ -618,6 +644,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Brotherhood of the Air-Gap",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-5-the-brotherhood-of-the-air-gap",
                     "parts": [
                         {
                             "part_num": 1,
@@ -631,10 +658,12 @@
         {
             "book_num": 6,
             "book_title": "Book: Vanessa's Downfall",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa-s-downfall",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sovereign Tribunal",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa-s-downfall/chapter-1-the-sovereign-tribunal",
                     "parts": [
                         {
                             "part_num": 1,
@@ -653,10 +682,12 @@
         {
             "book_num": 7,
             "book_title": "Book: A Rogue Inspector",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Brotherhood of the Air-Gap",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-1-the-brotherhood-of-the-air-gap",
                     "parts": [
                         {
                             "part_num": 1,
@@ -673,6 +704,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Proxy War",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-2-the-proxy-war",
                     "parts": [
                         {
                             "part_num": 1,
@@ -691,10 +723,12 @@
         {
             "book_num": 8,
             "book_title": "Book: The Air-Gap Chronicles",
+            "book_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 3: Mountain Rules",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-3-mountain-rules",
                     "parts": [
                         {
                             "part_num": 1,
@@ -711,6 +745,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The 911 Fallacy",
+                    "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-4-the-911-fallacy",
                     "parts": [
                         {
                             "part_num": 1,

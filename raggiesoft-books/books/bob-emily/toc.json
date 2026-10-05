@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Life Without a Father",
+            "book_url": "/raggiesoft-books/books/bob-emily/life-without-a-father",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Longest Day",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day",
                     "parts": [
                         {
                             "part_num": 1,
@@ -54,6 +56,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The New Normal",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-new-normal",
                     "parts": [
                         {
                             "part_num": 1,
@@ -137,10 +140,12 @@
         {
             "book_num": 2,
             "book_title": "Assault",
+            "book_url": "/raggiesoft-books/books/bob-emily/assault",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Locker",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-locker",
                     "parts": [
                         {
                             "part_num": 1,
@@ -172,6 +177,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Hospital",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-hospital",
                     "parts": [
                         {
                             "part_num": 1,
@@ -220,10 +226,12 @@
         {
             "book_num": 3,
             "book_title": "Bob Healing",
+            "book_url": "/raggiesoft-books/books/bob-emily/bob-healing",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Bob\u2019s New Reality",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-s-new-reality",
                     "parts": [
                         {
                             "part_num": 1,
@@ -270,6 +278,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Bob and Emily See the Stars",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-and-emily-see-the-stars",
                     "parts": [
                         {
                             "part_num": 1,
@@ -301,6 +310,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Finishing the Semester Strong",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/finishing-the-semester-strong",
                     "parts": [
                         {
                             "part_num": 1,
@@ -339,10 +349,12 @@
         {
             "book_num": 4,
             "book_title": "Summer 2015",
+            "book_url": "/raggiesoft-books/books/bob-emily/summer-2015",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Tale of Two Sanctuaries",
+                    "chap_url": "/raggiesoft-books/books/bob-emily/summer-2015/a-tale-of-two-sanctuaries",
                     "parts": [
                         {
                             "part_num": 1,

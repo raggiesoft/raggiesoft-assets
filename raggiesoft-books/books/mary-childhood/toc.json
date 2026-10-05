@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Mary's Early Years",
+            "book_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1",
                     "parts": [
                         {
                             "part_num": 1,

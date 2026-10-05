@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "The Eleventh Child, Off to College",
+            "book_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Administrative Prelude",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude",
                     "parts": [
                         {
                             "part_num": 1,
@@ -29,6 +31,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Verification",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/verification",
                     "parts": [
                         {
                             "part_num": 1,
@@ -45,6 +48,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Early Move-In",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/early-move-in",
                     "parts": [
                         {
                             "part_num": 1,
@@ -71,6 +75,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Mix-Up",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-mix-up",
                     "parts": [
                         {
                             "part_num": 1,
@@ -132,6 +137,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The First Real Harbor",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor",
                     "parts": [
                         {
                             "part_num": 1,
@@ -178,6 +184,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "First Days",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/first-days",
                     "parts": [
                         {
                             "part_num": 1,
@@ -234,6 +241,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Anatomy of Trust",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust",
                     "parts": [
                         {
                             "part_num": 1,
@@ -265,6 +273,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Sensory Awakening",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-sensory-awakening",
                     "parts": [
                         {
                             "part_num": 1,
@@ -288,10 +297,12 @@
         {
             "book_num": 2,
             "book_title": "Note to the AI",
+            "book_url": "/raggiesoft-books/books/aubrie/note-to-the-ai",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Homecoming Week",
+                    "chap_url": "/raggiesoft-books/books/aubrie/note-to-the-ai/homecoming-week",
                     "parts": [
                         {
                             "part_num": 1,
@@ -305,10 +316,12 @@
         {
             "book_num": 3,
             "book_title": "Jordan's World Trek",
+            "book_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Northern Ascent",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-northern-ascent",
                     "parts": [
                         {
                             "part_num": 1,
@@ -385,6 +398,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Northern Horizon",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-northern-horizon",
                     "parts": [
                         {
                             "part_num": 1,
@@ -403,10 +417,12 @@
         {
             "book_num": 4,
             "book_title": "Jordan's Court Case",
+            "book_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Southern Hemisphere",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case/the-southern-hemisphere",
                     "parts": [
                         {
                             "part_num": 1,

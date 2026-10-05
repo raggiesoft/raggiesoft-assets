@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Currents and Crosswinds",
+            "book_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Ordinary July",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july",
                     "parts": [
                         {
                             "part_num": 1,
@@ -99,6 +101,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Currents to Still Water",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/currents-to-still-water",
                     "parts": [
                         {
                             "part_num": 1,
@@ -140,6 +143,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Spark of Rebellion",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-spark-of-rebellion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -161,6 +165,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The War Councils Assemble",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-war-councils-assemble",
                     "parts": [
                         {
                             "part_num": 1,
@@ -177,6 +182,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Memo",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-memo",
                     "parts": [
                         {
                             "part_num": 1,
@@ -193,6 +199,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Exodus",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-exodus",
                     "parts": [
                         {
                             "part_num": 1,
@@ -209,6 +216,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Sanctuary Across the Lake",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/sanctuary-across-the-lake",
                     "parts": [
                         {
                             "part_num": 1,
@@ -230,6 +238,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Fall of Aurora",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-fall-of-aurora",
                     "parts": [
                         {
                             "part_num": 1,
@@ -266,6 +275,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Final Straw",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-final-straw",
                     "parts": [
                         {
                             "part_num": 1,
@@ -282,6 +292,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "A New Beginning",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/a-new-beginning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -318,6 +329,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "The Bridge to Cupertino",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-bridge-to-cupertino",
                     "parts": [
                         {
                             "part_num": 1,
@@ -404,6 +416,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "Bidding for the Twins",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/bidding-for-the-twins",
                     "parts": [
                         {
                             "part_num": 1,
@@ -450,6 +463,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "A New Family",
+                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/a-new-family",
                     "parts": [
                         {
                             "part_num": 1,
@@ -478,15 +492,18 @@
         {
             "book_num": 2,
             "book_title": "Book 2",
+            "book_url": "/raggiesoft-books/books/jessica/book-2",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/jessica/book-2/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/jessica/book-2/chapter-2",
                     "parts": []
                 }
             ]

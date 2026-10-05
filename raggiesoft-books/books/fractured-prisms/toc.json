@@ -9,30 +9,36 @@
         {
             "book_num": 1,
             "book_title": "Book 1",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-1",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-5",
                     "parts": []
                 }
             ]
@@ -40,25 +46,30 @@
         {
             "book_num": 2,
             "book_title": "Book 2",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-2",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-4",
                     "parts": []
                 }
             ]
@@ -66,25 +77,30 @@
         {
             "book_num": 3,
             "book_title": "Book 3",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-3",
             "chapters": []
         },
         {
             "book_num": 4,
             "book_title": "Book 4",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-4",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-3",
                     "parts": []
                 }
             ]
@@ -92,35 +108,42 @@
         {
             "book_num": 5,
             "book_title": "Book 5",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-5",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-2",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-3",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-4",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-5",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-6",
                     "parts": []
                 }
             ]

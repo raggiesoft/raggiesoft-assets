@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "The Anchor",
+            "book_url": "/raggiesoft-books/books/kelly/the-anchor",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Fork in the Road",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -44,6 +46,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Keynote",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-keynote",
                     "parts": [
                         {
                             "part_num": 1,
@@ -100,6 +103,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Implosion",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-implosion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -116,6 +120,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Closing the Book",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/closing-the-book",
                     "parts": [
                         {
                             "part_num": 1,
@@ -197,6 +202,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Welcome to Quantum",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/welcome-to-quantum",
                     "parts": [
                         {
                             "part_num": 1,
@@ -223,6 +229,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Bridge to Cupertino",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-bridge-to-cupertino",
                     "parts": [
                         {
                             "part_num": 1,
@@ -284,6 +291,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Inside Infinite Loop",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/inside-infinite-loop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -335,6 +343,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "A New Reality",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/a-new-reality",
                     "parts": [
                         {
                             "part_num": 1,
@@ -383,15 +392,18 @@
         {
             "book_num": 2,
             "book_title": "The Bidding War as seen on DevNet",
+            "book_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Players",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/the-players",
                     "parts": [
                         {
                             "part_num": 1,
@@ -408,6 +420,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Choosing a Future",
+                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future",
                     "parts": [
                         {
                             "part_num": 1,
@@ -421,6 +434,7 @@
         {
             "book_num": 3,
             "book_title": "Book 3",
+            "book_url": "/raggiesoft-books/books/kelly/book-3",
             "chapters": []
         }
     ]

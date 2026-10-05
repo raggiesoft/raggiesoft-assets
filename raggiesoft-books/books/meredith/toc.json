@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 4: The Vanguard",
+            "book_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The First Drop-Off",
+                    "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off",
                     "parts": [
                         {
                             "part_num": 1,
@@ -94,6 +96,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Virginia Beach Perimeter",
+                    "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-2-the-virginia-beach-perimeter",
                     "parts": [
                         {
                             "part_num": 1,

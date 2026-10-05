@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: CPI & The Forgers",
+            "book_url": "/raggiesoft-books/books/stardust-engine/book-1-cpi-the-forgers",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-1-cpi-the-forgers/chapter-1",
                     "parts": []
                 }
             ]
@@ -20,10 +22,12 @@
         {
             "book_num": 2,
             "book_title": "Book 2: The Crash of '90",
+            "book_url": "/raggiesoft-books/books/stardust-engine/book-2-the-crash-of-90",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-the-crash-of-90/chapter-1",
                     "parts": []
                 }
             ]
@@ -31,10 +35,12 @@
         {
             "book_num": 3,
             "book_title": "Book 3: The Friction Catastrophe",
+            "book_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-catastrophe",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-catastrophe/chapter-1",
                     "parts": []
                 }
             ]
@@ -42,10 +48,12 @@
         {
             "book_num": 4,
             "book_title": "Book 4: Ad Astra",
+            "book_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Escape Velocity &ndash; 1995",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -59,10 +67,12 @@
         {
             "book_num": 5,
             "book_title": "Book 5: The $150M Refusal",
+            "book_url": "/raggiesoft-books/books/stardust-engine/book-5-the-150m-refusal",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-5-the-150m-refusal/chapter-1",
                     "parts": []
                 }
             ]

@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: The Ascent",
+            "book_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Gathering Storm \u2013 Tuesday, February 9, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -34,6 +36,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Routine \u2013 Wednesday, February 10, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -60,6 +63,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Ice \u2013 Thursday, February 11, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-3-the-ice-thursday-february-11-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -71,6 +75,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Landing at TKI \u2013 Friday, February 12, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-4-landing-at-tki-friday-february-12-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -82,6 +87,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Deep Freeze \u2013 Saturday, February 13, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-5-the-deep-freeze-saturday-february-13-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -93,6 +99,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Gridline \u2013 Sunday, February 14, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-6-the-gridline-sunday-february-14-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -104,6 +111,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Severance \u2013 Monday, February 15, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-7-the-severance-monday-february-15-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -140,6 +148,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Midnight \u2013 Tuesday, February 16, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-8-midnight-tuesday-february-16-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -181,6 +190,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Breach \u2013 Thursday, February 18, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-9-the-breach-thursday-february-18-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -204,10 +214,12 @@
         {
             "book_num": 2,
             "book_title": "Book 2: The Sterling Inheritance",
+            "book_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Longest Mile \u2013 Saturday, February 20, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021",
                     "parts": [
                         {
                             "part_num": 1,
@@ -269,6 +281,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Sunday Morning Choice \u2013 Sunday, February 21, 2021",
+                    "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-2-the-sunday-morning-choice-sunday-february-21-2021",
                     "parts": [
                         {
                             "part_num": 1,

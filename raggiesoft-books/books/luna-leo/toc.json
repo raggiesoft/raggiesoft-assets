@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Early Years",
+            "book_url": "/raggiesoft-books/books/luna-leo/early-years",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Birthday Morning and the Grandparents' Arrival",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival",
                     "parts": [
                         {
                             "part_num": 1,
@@ -56,10 +58,12 @@
         {
             "book_num": 2,
             "book_title": "Elementary and Middle School",
+            "book_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Breakthrough for Leo",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school/breakthrough-for-leo",
                     "parts": [
                         {
                             "part_num": 1,
@@ -76,6 +80,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Stella to the Sore Rescue",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school/stella-to-the-sore-rescue",
                     "parts": [
                         {
                             "part_num": 1,
@@ -94,10 +99,12 @@
         {
             "book_num": 3,
             "book_title": "The Equipment Arrivals",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-equipment-arrivals",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Introduction and Anticipation",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-equipment-arrivals/introduction-and-anticipation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -126,10 +133,12 @@
         {
             "book_num": 4,
             "book_title": "Twins Summer with Stella",
+            "book_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The DeMarco Decree",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-demarco-decree",
                     "parts": [
                         {
                             "part_num": 1,
@@ -146,6 +155,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Record Player Discovery",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-record-player-discovery",
                     "parts": [
                         {
                             "part_num": 1,
@@ -157,6 +167,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Music Store",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-music-store",
                     "parts": [
                         {
                             "part_num": 1,
@@ -168,6 +179,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Doorbell Rings",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-doorbell-rings",
                     "parts": [
                         {
                             "part_num": 1,
@@ -179,6 +191,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Legal Issues Settled",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/legal-issues-settled",
                     "parts": [
                         {
                             "part_num": 1,
@@ -190,6 +203,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Programming the AAC",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/programming-the-aac",
                     "parts": [
                         {
                             "part_num": 1,
@@ -201,6 +215,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Weight of Academic Neglect",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/weight-of-academic-neglect",
                     "parts": [
                         {
                             "part_num": 1,
@@ -212,6 +227,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Opus Computers Setup",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/opus-computers-setup",
                     "parts": [
                         {
                             "part_num": 1,
@@ -223,6 +239,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Rainy Tuesday Evening",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/rainy-tuesday-evening",
                     "parts": [
                         {
                             "part_num": 1,
@@ -234,6 +251,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "COMPUBLUE KeyMech",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/compublue-keymech",
                     "parts": [
                         {
                             "part_num": 1,
@@ -245,6 +263,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "Oregon Trail Preparation",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/oregon-trail-preparation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -256,6 +275,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "Saturday Morning Research",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/saturday-morning-research",
                     "parts": [
                         {
                             "part_num": 1,
@@ -267,6 +287,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "Printing the Reports",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/printing-the-reports",
                     "parts": [
                         {
                             "part_num": 1,
@@ -278,6 +299,7 @@
                 {
                     "chap_num": 14,
                     "chap_title": "Therapy Appointment Drive",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/therapy-appointment-drive",
                     "parts": [
                         {
                             "part_num": 1,
@@ -289,6 +311,7 @@
                 {
                     "chap_num": 15,
                     "chap_title": "Classic Rock Discoveries",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/classic-rock-discoveries",
                     "parts": [
                         {
                             "part_num": 1,
@@ -300,6 +323,7 @@
                 {
                     "chap_num": 16,
                     "chap_title": "Wherever You Go",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/wherever-you-go",
                     "parts": [
                         {
                             "part_num": 1,
@@ -311,6 +335,7 @@
                 {
                     "chap_num": 17,
                     "chap_title": "Friday Night Lights",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/friday-night-lights",
                     "parts": [
                         {
                             "part_num": 1,
@@ -322,6 +347,7 @@
                 {
                     "chap_num": 18,
                     "chap_title": "Charter Bus to the Mountains",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/charter-bus-to-the-mountains",
                     "parts": [
                         {
                             "part_num": 1,
@@ -353,6 +379,7 @@
                 {
                     "chap_num": 19,
                     "chap_title": "A Form from School",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/a-form-from-school",
                     "parts": [
                         {
                             "part_num": 1,
@@ -381,10 +408,12 @@
         {
             "book_num": 5,
             "book_title": "Sophomore Year",
+            "book_url": "/raggiesoft-books/books/luna-leo/sophomore-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Porter Morning Machine",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/the-porter-morning-machine",
                     "parts": [
                         {
                             "part_num": 1,
@@ -431,6 +460,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Online Reconnaissance",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/online-reconnaissance",
                     "parts": [
                         {
                             "part_num": 1,
@@ -462,6 +492,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Showing Off the New Car",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/showing-off-the-new-car",
                     "parts": [
                         {
                             "part_num": 1,
@@ -493,6 +524,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Difficult News",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/difficult-news",
                     "parts": [
                         {
                             "part_num": 1,
@@ -509,6 +541,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Turnpike Wonders",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/turnpike-wonders",
                     "parts": [
                         {
                             "part_num": 1,
@@ -545,6 +578,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Programming the AAC",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/programming-the-aac",
                     "parts": [
                         {
                             "part_num": 1,
@@ -578,10 +612,12 @@
         {
             "book_num": 6,
             "book_title": "Junior Year",
+            "book_url": "/raggiesoft-books/books/luna-leo/junior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Rainy Saturday Session",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/junior-year/a-rainy-saturday-session",
                     "parts": [
                         {
                             "part_num": 1,
@@ -603,6 +639,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Rental Agreement",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/junior-year/the-rental-agreement",
                     "parts": [
                         {
                             "part_num": 1,
@@ -636,10 +673,12 @@
         {
             "book_num": 7,
             "book_title": "Senior Year and The New Beginning",
+            "book_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Unseen Ally",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/an-unseen-ally",
                     "parts": [
                         {
                             "part_num": 1,
@@ -666,6 +705,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "An Afternoon Visit and Gathering Clouds",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds",
                     "parts": [
                         {
                             "part_num": 1,
@@ -712,6 +752,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "A Test of Trust",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/a-test-of-trust",
                     "parts": [
                         {
                             "part_num": 1,
@@ -723,6 +764,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Guardian's Blessing",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/the-guardian-s-blessing",
                     "parts": [
                         {
                             "part_num": 1,
@@ -734,6 +776,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "A Quiet Evening Promised",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/a-quiet-evening-promised",
                     "parts": [
                         {
                             "part_num": 1,
@@ -765,6 +808,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Calculus Tutoring",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/calculus-tutoring",
                     "parts": [
                         {
                             "part_num": 1,
@@ -806,6 +850,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/chapter-7",
                     "parts": [
                         {
                             "part_num": 1,
@@ -819,10 +864,12 @@
         {
             "book_num": 8,
             "book_title": "The Great North American Excursion: Eastbound",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "All Aboard",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/all-aboard",
                     "parts": [
                         {
                             "part_num": 1,
@@ -884,6 +931,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Museum Hopping",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/museum-hopping",
                     "parts": [
                         {
                             "part_num": 1,
@@ -935,6 +983,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Practice Mission",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-practice-mission",
                     "parts": [
                         {
                             "part_num": 1,
@@ -986,6 +1035,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "A Layover in Philly",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/a-layover-in-philly",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1032,6 +1082,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Journey West",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-journey-west",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1078,6 +1129,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Shadow on the Platform",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-shadow-on-the-platform",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1094,6 +1146,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Steel City",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-steel-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1117,10 +1170,12 @@
         {
             "book_num": 9,
             "book_title": "The Great North American Excursion: Heartland to the Peaks",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks",
             "chapters": [
                 {
                     "chap_num": 8,
                     "chap_title": "The Windy City",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-windy-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1167,6 +1222,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Heartland",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-heartland",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1198,6 +1254,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "The Mile High City",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-mile-high-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1229,6 +1286,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "The Botanic Gardens",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-botanic-gardens",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1250,6 +1308,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "The Moffat Tunnel",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-moffat-tunnel",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1291,6 +1350,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "The Salt Lake Stop",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-salt-lake-stop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1324,10 +1384,12 @@
         {
             "book_num": 10,
             "book_title": "The Great North American Excursion: The Golden State",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state",
             "chapters": [
                 {
                     "chap_num": 14,
                     "chap_title": "The City by the Bay",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-city-by-the-bay",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1379,6 +1441,7 @@
                 {
                     "chap_num": 15,
                     "chap_title": "The Sovereign Regency",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-sovereign-regency",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1415,6 +1478,7 @@
                 {
                     "chap_num": 16,
                     "chap_title": "Karl The Fog",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/karl-the-fog",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1446,6 +1510,7 @@
                 {
                     "chap_num": 17,
                     "chap_title": "The Sub-Basement",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-sub-basement",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1487,6 +1552,7 @@
                 {
                     "chap_num": 18,
                     "chap_title": "The Southbound Platform",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-southbound-platform",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1523,6 +1589,7 @@
                 {
                     "chap_num": 19,
                     "chap_title": "Global Studios",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/global-studios",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1564,6 +1631,7 @@
                 {
                     "chap_num": 20,
                     "chap_title": "The Enchanted Resort",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-enchanted-resort",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1610,6 +1678,7 @@
                 {
                     "chap_num": 21,
                     "chap_title": "Hollywood Forever",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/hollywood-forever",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1623,10 +1692,12 @@
         {
             "book_num": 11,
             "book_title": "The Great North American Excursion: Emerald Endings",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings",
             "chapters": [
                 {
                     "chap_num": 98,
                     "chap_title": "Chapter 98",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings/chapter-98",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1688,6 +1759,7 @@
                 {
                     "chap_num": 99,
                     "chap_title": "Chapter 99",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings/chapter-99",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1771,10 +1843,12 @@
         {
             "book_num": 12,
             "book_title": "The Delores Nightmare",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Grieving Start",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/a-grieving-start",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1831,6 +1905,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Tutor",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-tutor",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1872,6 +1947,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Hijacked Plan",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-hijacked-plan",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1928,6 +2004,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Trip Proposal",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-trip-proposal",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1994,6 +2071,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Escape Through the Rain",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/escape-through-the-rain",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2112,10 +2190,12 @@
         {
             "book_num": 13,
             "book_title": "Safe Harbor, Stark Reality",
+            "book_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality",
             "chapters": [
                 {
                     "chap_num": 3,
                     "chap_title": "The First Morning",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-first-morning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2177,6 +2257,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Assembling the Fortress",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/assembling-the-fortress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2203,6 +2284,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "A New Language of Home",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/a-new-language-of-home",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2314,6 +2396,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Morning After",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-morning-after",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2360,6 +2443,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "A Day of Quiet",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/a-day-of-quiet",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2396,6 +2480,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Day in Court",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-day-in-court",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2409,10 +2494,12 @@
         {
             "book_num": 14,
             "book_title": "The Trial and The Toast",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Judge's Order",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast/the-judge-s-order",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2449,6 +2536,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "A Test and a Toast",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast/a-test-and-a-toast",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2517,10 +2605,12 @@
         {
             "book_num": 15,
             "book_title": "The Iron Point Transfer",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Weapon",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-weapon",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2562,6 +2652,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Iron Link",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-iron-link",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2633,6 +2724,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Orange Army",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-orange-army",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2699,6 +2791,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Transfer of Power",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-transfer-of-power",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2735,6 +2828,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Landing",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-landing",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2786,6 +2880,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Ticket Kiosk",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-ticket-kiosk",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2832,6 +2927,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Official Stamp",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-official-stamp",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2878,6 +2974,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Ferry and the Fortress",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-ferry-and-the-fortress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2916,10 +3013,12 @@
         {
             "book_num": 16,
             "book_title": "Finding a New House",
+            "book_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The 05:30 Alarm",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house/the-05-30-alarm",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2981,6 +3080,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Green Room",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house/the-green-room",
                     "parts": [
                         {
                             "part_num": 1,

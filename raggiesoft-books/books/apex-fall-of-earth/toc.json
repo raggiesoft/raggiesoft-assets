@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Wyatt\u2019s Prologue",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Expendable Assets",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets",
                     "parts": [
                         {
                             "part_num": 1,
@@ -61,10 +63,12 @@
         {
             "book_num": 2,
             "book_title": "Sarah\u2019s Prologue",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Sarah \u2013 The Promise",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise",
                     "parts": [
                         {
                             "part_num": 1,
@@ -113,10 +117,12 @@
         {
             "book_num": 3,
             "book_title": "The Acquisition",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Orientation Day",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/wyatt-orientation-day",
                     "parts": [
                         {
                             "part_num": 1,
@@ -153,6 +159,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Second Shift",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/the-second-shift",
                     "parts": [
                         {
                             "part_num": 1,
@@ -214,6 +221,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Day Three",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-three",
                     "parts": [
                         {
                             "part_num": 1,
@@ -270,6 +278,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Day Four",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-four",
                     "parts": [
                         {
                             "part_num": 1,
@@ -303,10 +312,12 @@
         {
             "book_num": 4,
             "book_title": "Analogue Ghosts",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Delta Niner",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/delta-niner",
                     "parts": [
                         {
                             "part_num": 1,
@@ -328,6 +339,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Lungs of the Station",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station",
                     "parts": [
                         {
                             "part_num": 1,
@@ -349,6 +361,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Boiler Room",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-boiler-room",
                     "parts": [
                         {
                             "part_num": 1,
@@ -380,6 +393,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Glass Wall",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-glass-wall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -411,6 +425,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Nomad",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-nomad",
                     "parts": [
                         {
                             "part_num": 1,
@@ -442,6 +457,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Frontier",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-frontier",
                     "parts": [
                         {
                             "part_num": 1,
@@ -485,10 +501,12 @@
         {
             "book_num": 5,
             "book_title": "The Sanctuary",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planetfall",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planetfall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -550,6 +568,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The First Morning",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-first-morning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -591,6 +610,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The High Ground",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-high-ground",
                     "parts": [
                         {
                             "part_num": 1,
@@ -642,6 +662,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Architects",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-architects",
                     "parts": [
                         {
                             "part_num": 1,
@@ -708,6 +729,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Pioneers",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-pioneers",
                     "parts": [
                         {
                             "part_num": 1,
@@ -759,6 +781,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Planet Eden",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planet-eden",
                     "parts": [
                         {
                             "part_num": 1,
@@ -820,6 +843,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Blueprint",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-blueprint",
                     "parts": [
                         {
                             "part_num": 1,
@@ -888,10 +912,12 @@
         {
             "book_num": 6,
             "book_title": "The First Generation",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Architect",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-architect",
                     "parts": [
                         {
                             "part_num": 1,
@@ -943,6 +969,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Arrival",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-arrival",
                     "parts": [
                         {
                             "part_num": 1,
@@ -994,6 +1021,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Blueprint Fails",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-blueprint-fails",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1030,6 +1058,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Vanguard Discovers Gravity",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1066,6 +1095,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Chain of Command",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-chain-of-command",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1102,6 +1132,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Rapid Deployment",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-rapid-deployment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1155,10 +1186,12 @@
         {
             "book_num": 7,
             "book_title": "The Fall of Apex",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Checkmate",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/checkmate",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1200,6 +1233,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Trial of the Century",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1231,6 +1265,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Architects of Eden",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1259,10 +1294,12 @@
         {
             "book_num": 8,
             "book_title": "The Growing World",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Final Roster",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-final-roster",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1299,6 +1336,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Foundations of Genesis",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1340,6 +1378,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Awakening",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-awakening",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1378,10 +1417,12 @@
         {
             "book_num": 9,
             "book_title": "The Village of Genesis",
+            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Second Wave",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-second-wave",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1413,6 +1454,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Jack \u2013 The Lunar Embassy",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1434,6 +1476,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Refugee",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-refugee",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1455,6 +1498,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Asylum",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-asylum",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1491,6 +1535,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Leo \u2013 The Overseer",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1517,6 +1562,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Wyatt \u2013 The Founders",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1533,6 +1579,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Leo \u2013 The Wilderness",
+                    "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness",
                     "parts": [
                         {
                             "part_num": 1,

@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Life at Fairlawn",
+            "book_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The End of a War",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war",
                     "parts": [
                         {
                             "part_num": 1,
@@ -34,6 +36,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Rec Center",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/rec-center",
                     "parts": [
                         {
                             "part_num": 1,
@@ -50,6 +53,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Planning Halloween",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/planning-halloween",
                     "parts": [
                         {
                             "part_num": 1,
@@ -66,6 +70,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "An Infernal Halloween",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/an-infernal-halloween",
                     "parts": [
                         {
                             "part_num": 1,
@@ -82,6 +87,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chemical Emergency at Fairlawn",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/chemical-emergency-at-fairlawn",
                     "parts": [
                         {
                             "part_num": 1,
@@ -168,6 +174,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "A New Day in the Hospital",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/a-new-day-in-the-hospital",
                     "parts": [
                         {
                             "part_num": 1,
@@ -214,6 +221,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Cost of the Crisis",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-cost-of-the-crisis",
                     "parts": [
                         {
                             "part_num": 1,
@@ -245,6 +253,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "A Sanctuary of Sleep",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/a-sanctuary-of-sleep",
                     "parts": [
                         {
                             "part_num": 1,
@@ -273,10 +282,12 @@
         {
             "book_num": 2,
             "book_title": "A Trip to Washington DC",
+            "book_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Healing Journey",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/a-healing-journey",
                     "parts": [
                         {
                             "part_num": 1,
@@ -318,6 +329,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Sarah with an Injury",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/sarah-with-an-injury",
                     "parts": [
                         {
                             "part_num": 1,
@@ -329,6 +341,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Summer Dreams",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/summer-dreams",
                     "parts": [
                         {
                             "part_num": 1,
@@ -340,6 +353,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Delores",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/delores",
                     "parts": [
                         {
                             "part_num": 1,
@@ -381,6 +395,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Red Flags and Safe Harbors",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/red-flags-and-safe-harbors",
                     "parts": [
                         {
                             "part_num": 1,
@@ -417,6 +432,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "A Date with Delores",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/a-date-with-delores",
                     "parts": [
                         {
                             "part_num": 1,
@@ -463,6 +479,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Planning Sarah\u2019s Birthday",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/planning-sarah-s-birthday",
                     "parts": [
                         {
                             "part_num": 1,
@@ -479,6 +496,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Sarah Bennett, Reporting for Duty",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/sarah-bennett-reporting-for-duty",
                     "parts": [
                         {
                             "part_num": 1,
@@ -535,6 +553,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Confusion and Stress",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/confusion-and-stress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -556,6 +575,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "Welcome to Work",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/welcome-to-work",
                     "parts": [
                         {
                             "part_num": 1,
@@ -584,10 +604,12 @@
         {
             "book_num": 3,
             "book_title": "Heart Attack",
+            "book_url": "/raggiesoft-books/books/jack-sarah/heart-attack",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Hospital Arrival",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/hospital-arrival",
                     "parts": [
                         {
                             "part_num": 1,
@@ -634,6 +656,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Day of Surgery",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-day-of-surgery",
                     "parts": [
                         {
                             "part_num": 1,
@@ -665,6 +688,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Heart Hospital",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/heart-hospital",
                     "parts": [
                         {
                             "part_num": 1,
@@ -686,6 +710,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Road to Recovery",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-road-to-recovery",
                     "parts": [
                         {
                             "part_num": 1,
@@ -702,6 +727,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "A Blizzard Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/a-blizzard-sanctuary",
                     "parts": [
                         {
                             "part_num": 1,
@@ -758,6 +784,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Recovering from a Heart Attack",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/recovering-from-a-heart-attack",
                     "parts": [
                         {
                             "part_num": 1,
@@ -829,6 +856,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Long Road Ahead",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-long-road-ahead",
                     "parts": [
                         {
                             "part_num": 1,
@@ -855,6 +883,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "A Quiet Refusal",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/a-quiet-refusal",
                     "parts": [
                         {
                             "part_num": 1,

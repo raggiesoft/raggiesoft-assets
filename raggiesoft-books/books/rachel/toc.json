@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: The Delaney Street Years",
+            "book_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sabertooth Kitty",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty",
                     "parts": [
                         {
                             "part_num": 1,
@@ -24,6 +26,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Lower Bunk",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-2-the-lower-bunk",
                     "parts": [
                         {
                             "part_num": 1,
@@ -40,6 +43,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Morning After",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-3-the-morning-after",
                     "parts": [
                         {
                             "part_num": 1,
@@ -88,10 +92,12 @@
         {
             "book_num": 2,
             "book_title": "Book 2: The Saltwater Summer",
+            "book_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sanctuary \u2013 Friday, August 11th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-1-the-sanctuary-friday-august-11th-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -133,6 +139,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Catalyst \u2013 Saturday, August 12th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-2-the-catalyst-saturday-august-12th-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -164,6 +171,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Enforcer",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -225,6 +233,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Latchkey Solstice",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-4-the-latchkey-solstice",
                     "parts": [
                         {
                             "part_num": 1,
@@ -266,6 +275,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Thursday Deployment \u2013 Thursday, August 17, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -332,6 +342,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Shattered Illusion",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -403,6 +414,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Long Road",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-7-the-long-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -439,6 +451,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Warpath",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-8-the-warpath",
                     "parts": [
                         {
                             "part_num": 1,
@@ -482,10 +495,12 @@
         {
             "book_num": 3,
             "book_title": "Book 3: Base Camp",
+            "book_url": "/raggiesoft-books/books/rachel/book-3-base-camp",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Monday War \u2013 Monday, August 21st, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -537,6 +552,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Marathon \u2013 Tuesday, August 22, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-2-the-marathon-tuesday-august-22-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -573,6 +589,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Birthday \u2013 Sunday, August 27, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-3-the-birthday-sunday-august-27-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -604,6 +621,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Homebound Tutor \u2013 Tuesday, September 5, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-4-the-homebound-tutor-tuesday-september-5-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -650,6 +668,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Chimney Sweep",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-5-the-chimney-sweep",
                     "parts": [
                         {
                             "part_num": 1,
@@ -676,6 +695,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Foreclosure",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-6-the-foreclosure",
                     "parts": [
                         {
                             "part_num": 1,
@@ -702,6 +722,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: Jessica\u2019s 15th Birthday",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-7-jessica-s-15th-birthday",
                     "parts": [
                         {
                             "part_num": 1,
@@ -723,6 +744,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Consecration \u2013 Friday, October 20th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-8-the-consecration-friday-october-20th-1995",
                     "parts": [
                         {
                             "part_num": 1,
@@ -756,10 +778,12 @@
         {
             "book_num": 4,
             "book_title": "Book 4: Middle School",
+            "book_url": "/raggiesoft-books/books/rachel/book-4-middle-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Spring Sound Showcase \u2013 Friday, May 14, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-1-the-spring-sound-showcase-friday-may-14-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -781,6 +805,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Old World \u2013 Saturday, May 15, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -882,6 +907,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Sunday Perimeter \u2013 Sunday, May 16, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-3-the-sunday-perimeter-sunday-may-16-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -895,10 +921,12 @@
         {
             "book_num": 5,
             "book_title": "Book 5: High School",
+            "book_url": "/raggiesoft-books/books/rachel/book-5-high-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Marching Band",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-1-marching-band",
                     "parts": [
                         {
                             "part_num": 1,
@@ -915,6 +943,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Concrete Walkway",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-2-the-concrete-walkway",
                     "parts": [
                         {
                             "part_num": 1,
@@ -941,6 +970,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Holding Pattern",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-3-the-holding-pattern",
                     "parts": [
                         {
                             "part_num": 1,
@@ -957,6 +987,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Christmas Eve",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-4-christmas-eve",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1013,6 +1044,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Christmas Anomaly",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-5-the-christmas-anomaly",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1089,6 +1121,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Catalyst Initiative",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-6-the-catalyst-initiative",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1112,10 +1145,12 @@
         {
             "book_num": 6,
             "book_title": "Book 6: Atlanta Spring Trip",
+            "book_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Catalyst Notification",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-1-the-catalyst-notification",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1147,6 +1182,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Arrival at the Hotel",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-2-arrival-at-the-hotel",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1168,6 +1204,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Roanoke Rapids Collapse",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-3-the-roanoke-rapids-collapse",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1181,10 +1218,12 @@
         {
             "book_num": 7,
             "book_title": "Book 7: Seeds of a Divorce",
+            "book_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Continental Shift",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-1-the-continental-shift",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1221,6 +1260,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The TAPS Grid & The Breda Fleet",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-2-the-taps-grid-the-breda-fleet",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1247,6 +1287,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Provisions Run",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-3-the-provisions-run",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1283,6 +1324,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Tourist Perimeter",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-4-the-tourist-perimeter",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1316,10 +1358,12 @@
         {
             "book_num": 8,
             "book_title": "Book 8: The Delaney Street Fracture",
+            "book_url": "/raggiesoft-books/books/rachel/book-8-the-delaney-street-fracture",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Rachel\u2019s First Band Camp",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-8-the-delaney-street-fracture/chapter-1-rachel-s-first-band-camp",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1378,10 +1422,12 @@
         {
             "book_num": 9,
             "book_title": "Book 9: The Divorce Reprieve",
+            "book_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Mall",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve/chapter-1-the-mall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1403,6 +1449,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Teenage Script",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve/chapter-2-the-teenage-script",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1426,10 +1473,12 @@
         {
             "book_num": 10,
             "book_title": "Book 10: The Divorce",
+            "book_url": "/raggiesoft-books/books/rachel/book-10-the-divorce",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 3: The Broken Door",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-3-the-broken-door",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1451,6 +1500,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The Inevitable Math",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-4-the-inevitable-math",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1462,6 +1512,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 5: The Grounded Skies",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-5-the-grounded-skies",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1488,6 +1539,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 6: The Compromised Perimeter",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-6-the-compromised-perimeter",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1504,6 +1556,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 7: The Loophole",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-7-the-loophole",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1520,6 +1573,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 8: The Departure",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-8-the-departure",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1543,10 +1597,12 @@
         {
             "book_num": 11,
             "book_title": "Book 11: Michael's New Life",
+            "book_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A Left Coast Christmas",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-1-a-left-coast-christmas",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1568,6 +1624,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Clark County Christmas",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-2-a-clark-county-christmas",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1589,6 +1646,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Shopping in Portland",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-3-shopping-in-portland",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1615,6 +1673,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Virginia Hammer",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-4-the-virginia-hammer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1631,6 +1690,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: A New Tradition",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-5-a-new-tradition",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1667,6 +1727,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: A Left Coast Thanksgiving",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-6-a-left-coast-thanksgiving",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1708,6 +1769,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 9: The Southbound ARTS",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-9-the-southbound-arts",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1726,10 +1788,12 @@
         {
             "book_num": 12,
             "book_title": "Book 12: The East Coast",
+            "book_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Outbound to ORF",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-1-outbound-to-orf",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1781,6 +1845,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Arrival at Norfolk",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-2-arrival-at-norfolk",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1802,6 +1867,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The New Baseline",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-3-the-new-baseline",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1815,10 +1881,12 @@
         {
             "book_num": 13,
             "book_title": "Book 13: Michael\u2019s Senior Year",
+            "book_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Empty Shell",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-1-the-empty-shell",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1865,6 +1933,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Digital Mirage",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-2-the-digital-mirage",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1911,6 +1980,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Extraction",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-3-the-extraction",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1924,10 +1994,12 @@
         {
             "book_num": 14,
             "book_title": "Book 14: Delores",
+            "book_url": "/raggiesoft-books/books/rachel/book-14-delores",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Quiet Void",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-14-delores/chapter-1-the-quiet-void",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1959,6 +2031,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Gateway",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-14-delores/chapter-2-the-gateway",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1972,10 +2045,12 @@
         {
             "book_num": 15,
             "book_title": "Book 15: The End of Hell",
+            "book_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Setup",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-1-the-setup",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1987,6 +2062,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Departure",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-2-the-departure",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2023,6 +2099,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Appalachian Crossing",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-3-the-appalachian-crossing",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2054,6 +2131,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Northern Anchor",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-4-the-northern-anchor",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2090,6 +2168,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Pasco Lock",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-5-the-pasco-lock",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2146,6 +2225,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Escape Route",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2177,6 +2257,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: Morning Hell",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-7-morning-hell",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2228,6 +2309,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Decompression Day",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-8-decompression-day",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2274,6 +2356,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Southern Route",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-9-the-southern-route",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2322,10 +2405,12 @@
         {
             "book_num": 16,
             "book_title": "Book 16: AWE Monday Night War",
+            "book_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Portland Offensive",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-1-the-portland-offensive",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2352,6 +2437,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Arrival at Rose City Center",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-2-arrival-at-rose-city-center",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2388,6 +2474,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: AWE Monday Night War",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2466,10 +2553,12 @@
         {
             "book_num": 17,
             "book_title": "Book 17: A Few Small Repairs",
+            "book_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Breakfast in Vancouver",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-1-breakfast-in-vancouver",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2516,6 +2605,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Financial Extraction",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2572,6 +2662,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Sanctuary Holiday",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-3-the-sanctuary-holiday",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2593,6 +2684,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Spectacle of the Season",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2649,6 +2741,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Weekend Shift",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-5-the-weekend-shift",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2687,10 +2780,12 @@
         {
             "book_num": 18,
             "book_title": "Book 18: The Eastern Anchor",
+            "book_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Foundation",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-1-the-foundation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2707,6 +2802,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Blueprint and the Sabomnim",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2758,6 +2854,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Sunday Reset",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-3-the-sunday-reset",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2784,6 +2881,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Digital SOS",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-4-the-digital-sos",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2830,6 +2928,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Fortress",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-5-the-fortress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2861,6 +2960,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Deployment",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-6-the-deployment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2874,10 +2974,12 @@
         {
             "book_num": 19,
             "book_title": "Book 19: The Director's Perimeter",
+            "book_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Capture",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-1-the-capture",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2889,6 +2991,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Moosewood Anomaly",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-2-the-moosewood-anomaly",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2915,6 +3018,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Tactical Acquisition",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-3-the-tactical-acquisition",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2931,6 +3035,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Ground Zero",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-4-ground-zero",
                     "parts": [
                         {
                             "part_num": 1,

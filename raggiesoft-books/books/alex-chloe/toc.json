@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Alex\u2019s Childhood",
+            "book_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Carter House",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house",
                     "parts": [
                         {
                             "part_num": 1,
@@ -24,6 +26,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Elementary School",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/elementary-school",
                     "parts": [
                         {
                             "part_num": 1,
@@ -65,6 +68,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "A Date with Jennifer",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/a-date-with-jennifer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -106,6 +110,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Alex as a Teenager",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/alex-as-a-teenager",
                     "parts": [
                         {
                             "part_num": 1,
@@ -144,10 +149,12 @@
         {
             "book_num": 2,
             "book_title": "Summer of Discovery 1999",
+            "book_url": "/raggiesoft-books/books/alex-chloe/summer-of-discovery-1999",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The House Next Door",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/summer-of-discovery-1999/the-house-next-door",
                     "parts": [
                         {
                             "part_num": 1,
@@ -236,10 +243,12 @@
         {
             "book_num": 3,
             "book_title": "Fresh Meat",
+            "book_url": "/raggiesoft-books/books/alex-chloe/fresh-meat",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Welcome to High School",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/welcome-to-high-school",
                     "parts": [
                         {
                             "part_num": 1,
@@ -336,6 +345,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Spring Semester at Northwood High",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/spring-semester-at-northwood-high",
                     "parts": [
                         {
                             "part_num": 1,
@@ -372,6 +382,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "One Town, Two Countries",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/one-town-two-countries",
                     "parts": [
                         {
                             "part_num": 1,
@@ -438,6 +449,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "La Famille",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/la-famille",
                     "parts": [
                         {
                             "part_num": 1,
@@ -466,10 +478,12 @@
         {
             "book_num": 4,
             "book_title": "Sophomore Year",
+            "book_url": "/raggiesoft-books/books/alex-chloe/sophomore-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A New Rhythm",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-new-rhythm",
                     "parts": [
                         {
                             "part_num": 1,
@@ -486,6 +500,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Longest Two Weeks",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/the-longest-two-weeks",
                     "parts": [
                         {
                             "part_num": 1,
@@ -532,6 +547,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "A New Normal",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-new-normal",
                     "parts": [
                         {
                             "part_num": 1,
@@ -548,6 +564,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The First Crack",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/the-first-crack",
                     "parts": [
                         {
                             "part_num": 1,
@@ -574,6 +591,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "A Different Kind of Connection",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-different-kind-of-connection",
                     "parts": [
                         {
                             "part_num": 1,
@@ -602,10 +620,12 @@
         {
             "book_num": 5,
             "book_title": "Juniors, They Are",
+            "book_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Virtual Solution",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are/the-virtual-solution",
                     "parts": [
                         {
                             "part_num": 1,
@@ -632,6 +652,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Spring Break",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are/spring-break",
                     "parts": [
                         {
                             "part_num": 1,
@@ -670,10 +691,12 @@
         {
             "book_num": 6,
             "book_title": "Seniors Rule the School",
+            "book_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Last First Day of School",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-last-first-day-of-school",
                     "parts": [
                         {
                             "part_num": 1,
@@ -705,6 +728,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "A Quiet Miracle",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-quiet-miracle",
                     "parts": [
                         {
                             "part_num": 1,
@@ -721,6 +745,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Fork in the Road",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-fork-in-the-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -732,6 +757,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "A Different Kind of Anchor",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-different-kind-of-anchor",
                     "parts": [
                         {
                             "part_num": 1,
@@ -748,6 +774,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Weight of Care",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-weight-of-care",
                     "parts": [
                         {
                             "part_num": 1,
@@ -779,6 +806,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Last Dance",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-last-dance",
                     "parts": [
                         {
                             "part_num": 1,
@@ -807,10 +835,12 @@
         {
             "book_num": 7,
             "book_title": "One Last Summer",
+            "book_url": "/raggiesoft-books/books/alex-chloe/one-last-summer",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Pacific Northwest Interlude: Summer After Graduation",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/one-last-summer/a-pacific-northwest-interlude-summer-after-graduation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -837,6 +867,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "A Very Hard Goodbye",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/one-last-summer/a-very-hard-goodbye",
                     "parts": [
                         {
                             "part_num": 1,
@@ -875,10 +906,12 @@
         {
             "book_num": 8,
             "book_title": "Separate Coast, Separate Lives",
+            "book_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Community College Beginning",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/a-community-college-beginning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -925,6 +958,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The First Alarm Bell",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-first-alarm-bell",
                     "parts": [
                         {
                             "part_num": 1,
@@ -971,6 +1005,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Lingering Connections, Looming Threats",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/lingering-connections-looming-threats",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1012,6 +1047,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The VDU Open House",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-vdu-open-house",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1133,6 +1169,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Longest Road",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-longest-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1159,6 +1196,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Help is on the Way",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/help-is-on-the-way",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1185,6 +1223,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "A New Plan",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/a-new-plan",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1216,6 +1255,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Reestablishing Alex\u2019s Agency",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/reestablishing-alex-s-agency",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1252,6 +1292,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Journey Home",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-journey-home",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1293,6 +1334,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "Winter Break Decisions",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/winter-break-decisions",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1386,10 +1428,12 @@
         {
             "book_num": 9,
             "book_title": "A Fresh Start",
+            "book_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A New Beginning",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-beginning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1406,6 +1450,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Final Severance",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-final-severance",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1432,6 +1477,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Unraveling Lie",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-unraveling-lie",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1478,6 +1524,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "A New Beginning",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-beginning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1514,6 +1561,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Apartment Hunt",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-apartment-hunt",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1550,6 +1598,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Spring Break",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/spring-break",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1586,6 +1635,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "A New Home",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-home",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1617,6 +1667,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Long Wait",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-long-wait",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1670,10 +1721,12 @@
         {
             "book_num": 10,
             "book_title": "Young Adults, New Worlds",
+            "book_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Standing Tall",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/standing-tall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1700,6 +1753,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Final Semester",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-final-semester",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1731,6 +1785,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Northern Road",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-northern-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1827,6 +1882,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Last Summer in Virginia",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-last-summer-in-virginia",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1870,10 +1926,12 @@
         {
             "book_num": 11,
             "book_title": "Forging a Future",
+            "book_url": "/raggiesoft-books/books/alex-chloe/forging-a-future",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Road West",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-road-west",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1925,6 +1983,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The First Ecosystem",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-first-ecosystem",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1951,6 +2010,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Evergreen Project",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-evergreen-project",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1994,15 +2054,18 @@
         {
             "book_num": 12,
             "book_title": "Chapter 4: Building the Foundation",
+            "book_url": "/raggiesoft-books/books/alex-chloe/chapter-4-building-the-foundation",
             "chapters": []
         },
         {
             "book_num": 13,
             "book_title": "Canada Winter Games",
+            "book_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A House Divided",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games/a-house-divided",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2039,6 +2102,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Weight of Care, Revisited",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games/the-weight-of-care-revisited",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2087,10 +2151,12 @@
         {
             "book_num": 14,
             "book_title": "No Boundaries",
+            "book_url": "/raggiesoft-books/books/alex-chloe/no-boundaries",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Vision Takes Shape",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/no-boundaries/a-vision-takes-shape",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2107,6 +2173,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Northern Annex",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/no-boundaries/the-northern-annex",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2125,10 +2192,12 @@
         {
             "book_num": 15,
             "book_title": "Our Real Beginning",
+            "book_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Vow, Revisited",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/the-vow-revisited",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2145,6 +2214,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Operation: Stanstead Wedding",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/operation-stanstead-wedding",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2201,6 +2271,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Homecoming",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/the-homecoming",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2227,6 +2298,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Le Grand Jour (The Big Day)",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/le-grand-jour-the-big-day",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2293,6 +2365,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "A Day in the Townships",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/a-day-in-the-townships",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2326,10 +2399,12 @@
         {
             "book_num": 16,
             "book_title": "Needs a Name",
+            "book_url": "/raggiesoft-books/books/alex-chloe/needs-a-name",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Revenge of the Brawlers",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/needs-a-name/the-revenge-of-the-brawlers",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2358,10 +2433,12 @@
         {
             "book_num": 17,
             "book_title": "COVID",
+            "book_url": "/raggiesoft-books/books/alex-chloe/covid",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Great Unraveling",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/covid/the-great-unraveling",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2423,6 +2500,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Longest Two Weeks",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/covid/the-longest-two-weeks",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2449,6 +2527,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "A World Reopened",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/covid/a-world-reopened",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2467,10 +2546,12 @@
         {
             "book_num": 18,
             "book_title": "A Dream Built",
+            "book_url": "/raggiesoft-books/books/alex-chloe/a-dream-built",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Great Focus",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-great-focus",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2487,6 +2568,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "A Winter Homecoming",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/a-winter-homecoming",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2523,6 +2605,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Great Focus",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-great-focus",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2539,6 +2622,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Echoes and Reunions",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/echoes-and-reunions",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2570,6 +2654,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The New Workshop",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-new-workshop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2586,6 +2671,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "From the Ground Up",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/from-the-ground-up",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2632,6 +2718,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Bridges of Understanding",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/bridges-of-understanding",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2655,10 +2742,12 @@
         {
             "book_num": 19,
             "book_title": "The Long Quiet *(Working Title)*",
+            "book_url": "/raggiesoft-books/books/alex-chloe/the-long-quiet-working-title",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Future in the Townships",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/the-long-quiet-working-title/a-future-in-the-townships",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2672,10 +2761,12 @@
         {
             "book_num": 20,
             "book_title": "The Final Chapter",
+            "book_url": "/raggiesoft-books/books/alex-chloe/the-final-chapter",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Forever Yours",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/the-final-chapter/forever-yours",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2714,15 +2805,18 @@
         {
             "book_num": 21,
             "book_title": "Book 21",
+            "book_url": "/raggiesoft-books/books/alex-chloe/book-21",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21/chapter-2",
                     "parts": []
                 }
             ]

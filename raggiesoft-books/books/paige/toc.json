@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Freshman Year",
+            "book_url": "/raggiesoft-books/books/paige/freshman-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Band Camp",
+                    "chap_url": "/raggiesoft-books/books/paige/freshman-year/band-camp",
                     "parts": [
                         {
                             "part_num": 1,
@@ -69,6 +71,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Fall",
+                    "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-fall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -85,6 +88,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Winter 2000",
+                    "chap_url": "/raggiesoft-books/books/paige/freshman-year/winter-2000",
                     "parts": [
                         {
                             "part_num": 1,
@@ -111,6 +115,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Static",
+                    "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-static",
                     "parts": [
                         {
                             "part_num": 1,
@@ -134,10 +139,12 @@
         {
             "book_num": 2,
             "book_title": "The Blueprint",
+            "book_url": "/raggiesoft-books/books/paige/the-blueprint",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Cracks",
+                    "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-cracks",
                     "parts": [
                         {
                             "part_num": 1,
@@ -179,6 +186,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Severance",
+                    "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-severance",
                     "parts": [
                         {
                             "part_num": 1,
@@ -190,6 +198,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Iron City",
+                    "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-iron-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -221,6 +230,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Machine",
+                    "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-machine",
                     "parts": [
                         {
                             "part_num": 1,
@@ -302,6 +312,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Source Code",
+                    "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-source-code",
                     "parts": [
                         {
                             "part_num": 1,
@@ -325,10 +336,12 @@
         {
             "book_num": 3,
             "book_title": "A New Beginning",
+            "book_url": "/raggiesoft-books/books/paige/a-new-beginning",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Launch Code",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-launch-code",
                     "parts": [
                         {
                             "part_num": 1,
@@ -350,6 +363,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Source Code",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-source-code",
                     "parts": [
                         {
                             "part_num": 1,
@@ -391,6 +405,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Syllabus",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-syllabus",
                     "parts": [
                         {
                             "part_num": 1,
@@ -432,6 +447,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Network",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-network",
                     "parts": [
                         {
                             "part_num": 1,
@@ -453,6 +469,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Proper Terminology",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/proper-terminology",
                     "parts": [
                         {
                             "part_num": 1,
@@ -509,6 +526,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Admin Console",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-admin-console",
                     "parts": [
                         {
                             "part_num": 1,
@@ -540,6 +558,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Autism Diagnosis",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/autism-diagnosis",
                     "parts": [
                         {
                             "part_num": 1,
@@ -586,6 +605,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Prime Time Block",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-prime-time-block",
                     "parts": [
                         {
                             "part_num": 1,
@@ -627,6 +647,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Anatomy of Resilience",
+                    "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-anatomy-of-resilience",
                     "parts": [
                         {
                             "part_num": 1,
@@ -690,10 +711,12 @@
         {
             "book_num": 4,
             "book_title": "The False Anchor",
+            "book_url": "/raggiesoft-books/books/paige/the-false-anchor",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The New Variable",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-new-variable",
                     "parts": [
                         {
                             "part_num": 1,
@@ -710,6 +733,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Seed",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-seed",
                     "parts": [
                         {
                             "part_num": 1,
@@ -736,6 +760,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Orbital Decay",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-orbital-decay",
                     "parts": [
                         {
                             "part_num": 1,
@@ -787,6 +812,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Rescue",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-rescue",
                     "parts": [
                         {
                             "part_num": 1,
@@ -823,6 +849,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Tourist Protocol",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-tourist-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -884,6 +911,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Flight to Tahoma",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/flight-to-tahoma",
                     "parts": [
                         {
                             "part_num": 1,
@@ -960,6 +988,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Flight Home",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-flight-home",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1046,6 +1075,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Trojan Horse",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-trojan-horse",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1072,6 +1102,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Optimization Protocol",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-optimization-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1093,6 +1124,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "The Satellite Convergence",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-satellite-convergence",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1174,6 +1206,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "The Big One-Five",
+                    "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-big-one-five",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1232,10 +1265,12 @@
         {
             "book_num": 5,
             "book_title": "System Integration",
+            "book_url": "/raggiesoft-books/books/paige/system-integration",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Transfer Point",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-transfer-point",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1267,6 +1302,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Physical Layer",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-physical-layer",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1308,6 +1344,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Satellite Link",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-satellite-link",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1344,6 +1381,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Fishersville Protocol",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-fishersville-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1365,6 +1403,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Signal-to-Noise Ratio",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-signal-to-noise-ratio",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1401,6 +1440,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Extraction",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-extraction",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1422,6 +1462,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Closed Circuit",
+                    "chap_url": "/raggiesoft-books/books/paige/system-integration/the-closed-circuit",
                     "parts": [
                         {
                             "part_num": 1,

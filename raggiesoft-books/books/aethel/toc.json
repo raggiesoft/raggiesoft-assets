@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Era 1: The Age of Myth",
+            "book_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Sun",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun",
                     "parts": [
                         {
                             "part_num": 1,
@@ -31,10 +33,12 @@
         {
             "book_num": 2,
             "book_title": "Era 2: The Age of Silence",
+            "book_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Gauntlet of Aethel",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel",
                     "parts": [
                         {
                             "part_num": 1,
@@ -51,6 +55,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Book II: The Shadow's Heart",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart",
                     "parts": [
                         {
                             "part_num": 1,
@@ -77,6 +82,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Book III: The Dawn of the Twins",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins",
                     "parts": [
                         {
                             "part_num": 1,
@@ -110,10 +116,12 @@
         {
             "book_num": 3,
             "book_title": "Era 3: The Age of Tides",
+            "book_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Glass Sea",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-i-the-glass-sea",
                     "parts": [
                         {
                             "part_num": 1,
@@ -140,6 +148,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Book II: The Star-Eater",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-ii-the-star-eater",
                     "parts": [
                         {
                             "part_num": 1,
@@ -173,10 +182,12 @@
         {
             "book_num": 4,
             "book_title": "Era 4: The Iron Heart",
+            "book_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Magnetic North",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-i-the-magnetic-north",
                     "parts": [
                         {
                             "part_num": 1,
@@ -208,6 +219,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Book II: The Pilgrimage",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage",
                     "parts": [
                         {
                             "part_num": 1,
@@ -244,6 +256,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Book III: The Zero Point",
+                    "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-iii-the-zero-point",
                     "parts": [
                         {
                             "part_num": 1,

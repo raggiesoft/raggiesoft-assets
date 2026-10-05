@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: Toby\u2019s 6th Grade",
+            "book_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997",
                     "parts": [
                         {
                             "part_num": 1,
@@ -39,6 +41,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997",
                     "parts": [
                         {
                             "part_num": 1,
@@ -125,6 +128,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997",
                     "parts": [
                         {
                             "part_num": 1,
@@ -138,10 +142,12 @@
         {
             "book_num": 2,
             "book_title": "Book 2: Toby\u2019s 8th Grade Year",
+            "book_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -158,6 +164,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -169,6 +176,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -180,6 +188,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -208,10 +217,12 @@
         {
             "book_num": 3,
             "book_title": "Book 3: The Environmental Doctrine",
+            "book_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
+                    "chap_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999",
                     "parts": [
                         {
                             "part_num": 1,
@@ -230,6 +241,7 @@
         {
             "book_num": 4,
             "book_title": "Book 4",
+            "book_url": "/raggiesoft-books/books/samantha/book-4",
             "chapters": []
         }
     ]

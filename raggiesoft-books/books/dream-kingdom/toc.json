@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: The Dream Kingdom",
+            "book_url": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Analog Jammer \u2013 Friday, October 30, 1992",
+                    "chap_url": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992",
                     "parts": [
                         {
                             "part_num": 1,
@@ -34,6 +36,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Ghost in the Dark \u2013 Saturday, October 31, 1992",
+                    "chap_url": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-2-the-ghost-in-the-dark-saturday-october-31-1992",
                     "parts": [
                         {
                             "part_num": 1,

@@ -9,10 +9,12 @@
         {
             "book_num": 1,
             "book_title": "Elementary School",
+            "book_url": "/raggiesoft-books/books/nichole/elementary-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Newport Vacation",
+                    "chap_url": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -64,6 +66,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Project Alpha",
+                    "chap_url": "/raggiesoft-books/books/nichole/elementary-school/project-alpha",
                     "parts": [
                         {
                             "part_num": 1,
@@ -77,10 +80,12 @@
         {
             "book_num": 2,
             "book_title": "Middle School",
+            "book_url": "/raggiesoft-books/books/nichole/middle-school",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Test Run",
+                    "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-test-run",
                     "parts": [
                         {
                             "part_num": 1,
@@ -92,6 +97,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Yellow Wall",
+                    "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-yellow-wall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -103,6 +109,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Middle School Life",
+                    "chap_url": "/raggiesoft-books/books/nichole/middle-school/middle-school-life",
                     "parts": [
                         {
                             "part_num": 1,
@@ -136,10 +143,12 @@
         {
             "book_num": 3,
             "book_title": "Freshman Year",
+            "book_url": "/raggiesoft-books/books/nichole/freshman-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Welcome to Northwood High School",
+                    "chap_url": "/raggiesoft-books/books/nichole/freshman-year/welcome-to-northwood-high-school",
                     "parts": [
                         {
                             "part_num": 1,
@@ -186,6 +195,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Smoke Test",
+                    "chap_url": "/raggiesoft-books/books/nichole/freshman-year/the-smoke-test",
                     "parts": [
                         {
                             "part_num": 1,
@@ -229,10 +239,12 @@
         {
             "book_num": 4,
             "book_title": "Junior Year",
+            "book_url": "/raggiesoft-books/books/nichole/junior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planning for the Future",
+                    "chap_url": "/raggiesoft-books/books/nichole/junior-year/planning-for-the-future",
                     "parts": [
                         {
                             "part_num": 1,
@@ -254,6 +266,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Handover",
+                    "chap_url": "/raggiesoft-books/books/nichole/junior-year/the-handover",
                     "parts": [
                         {
                             "part_num": 1,
@@ -277,10 +290,12 @@
         {
             "book_num": 5,
             "book_title": "Senior Year",
+            "book_url": "/raggiesoft-books/books/nichole/senior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
+                    "chap_url": "/raggiesoft-books/books/nichole/senior-year/graduation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -307,6 +322,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Reset",
+                    "chap_url": "/raggiesoft-books/books/nichole/senior-year/the-reset",
                     "parts": [
                         {
                             "part_num": 1,
@@ -330,10 +346,12 @@
         {
             "book_num": 6,
             "book_title": "College Tours",
+            "book_url": "/raggiesoft-books/books/nichole/college-tours",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Misfit Tour",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-misfit-tour",
                     "parts": [
                         {
                             "part_num": 1,
@@ -350,6 +368,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Institution",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-institution",
                     "parts": [
                         {
                             "part_num": 1,
@@ -431,6 +450,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Virginia Dominion University",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/virginia-dominion-university",
                     "parts": [
                         {
                             "part_num": 1,
@@ -487,6 +507,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Trek Up the East Coast",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/trek-up-the-east-coast",
                     "parts": [
                         {
                             "part_num": 1,
@@ -518,6 +539,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Vermont",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/vermont",
                     "parts": [
                         {
                             "part_num": 1,
@@ -544,6 +566,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "An Ocean of an Idea",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/an-ocean-of-an-idea",
                     "parts": [
                         {
                             "part_num": 1,
@@ -575,6 +598,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Commuter Loop",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-commuter-loop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -621,6 +645,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Gap Year Protocol",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-gap-year-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -672,6 +697,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Independent Grid",
+                    "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-independent-grid",
                     "parts": [
                         {
                             "part_num": 1,
@@ -735,10 +761,12 @@
         {
             "book_num": 7,
             "book_title": "The Gap Year",
+            "book_url": "/raggiesoft-books/books/nichole/the-gap-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Fleet Upgrade",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fleet-upgrade",
                     "parts": [
                         {
                             "part_num": 1,
@@ -785,6 +813,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Commuter Protocol",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-commuter-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -831,6 +860,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Exploring Braxton",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/exploring-braxton",
                     "parts": [
                         {
                             "part_num": 1,
@@ -862,6 +892,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Sync",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-sync",
                     "parts": [
                         {
                             "part_num": 1,
@@ -873,6 +904,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Fortress Test",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fortress-test",
                     "parts": [
                         {
                             "part_num": 1,
@@ -916,10 +948,12 @@
         {
             "book_num": 8,
             "book_title": "Braxton Freshman",
+            "book_url": "/raggiesoft-books/books/nichole/braxton-freshman",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The First Semester",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-first-semester",
                     "parts": [
                         {
                             "part_num": 1,
@@ -951,6 +985,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Machine in Motion",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-machine-in-motion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1032,6 +1067,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Nichole Adapts",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-adapts",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1053,6 +1089,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The Procedure: \"The Tune-Up\"",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-procedure-the-tune-up",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1084,6 +1121,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Nichole\u2019s Recovery",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-s-recovery",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1125,6 +1163,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Routine",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-routine",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1158,10 +1197,12 @@
         {
             "book_num": 9,
             "book_title": "Braxton Junior Year",
+            "book_url": "/raggiesoft-books/books/nichole/braxton-junior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Concept: The Joint Defense",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-junior-year/concept-the-joint-defense",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1175,10 +1216,12 @@
         {
             "book_num": 10,
             "book_title": "Braxton Senior Year",
+            "book_url": "/raggiesoft-books/books/nichole/braxton-senior-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
+                    "chap_url": "/raggiesoft-books/books/nichole/braxton-senior-year/graduation",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1197,10 +1240,12 @@
         {
             "book_num": 11,
             "book_title": "Bennett Dynamics",
+            "book_url": "/raggiesoft-books/books/nichole/bennett-dynamics",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Idea",
+                    "chap_url": "/raggiesoft-books/books/nichole/bennett-dynamics/an-idea",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1224,10 +1269,12 @@
         {
             "book_num": 12,
             "book_title": "The Twilight Years",
+            "book_url": "/raggiesoft-books/books/nichole/the-twilight-years",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Long Retreat",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-long-retreat",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1254,6 +1301,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Slow Rust",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-slow-rust",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1277,10 +1325,12 @@
         {
             "book_num": 13,
             "book_title": "The End",
+            "book_url": "/raggiesoft-books/books/nichole/the-end",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Synchronized Shutdown",
+                    "chap_url": "/raggiesoft-books/books/nichole/the-end/the-synchronized-shutdown",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1299,6 +1349,7 @@
         {
             "book_num": 14,
             "book_title": "Book 14",
+            "book_url": "/raggiesoft-books/books/nichole/book-14",
             "chapters": []
         }
     ]
