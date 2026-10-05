@@ -1,0 +1,1 @@
+*Bob & Emily* is an intimate, heartfelt exploration of a modern relationship. It peels back the layers of a deeply committed partnership, examining the quiet moments of connection, the inevitable conflicts, and the shared history that binds two people together. This narrative is a beautiful, realistic portrait of love built to last.

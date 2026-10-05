@@ -1,0 +1,1 @@
+Set against the high-stakes world of corporate law, *Beth* follows the intricate legal maneuvers and deeply personal battles of the O'Connell family. As they face off against ruthless adversaries in sterile lawyer's offices and tense boardrooms, the series explores the true cost of justice, the weight of legacy, and the unshakable bonds of family.

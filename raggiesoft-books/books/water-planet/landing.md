@@ -1,0 +1,1 @@
+Dive into the unknown with *Water Planet*, a breathtaking science fiction adventure set on a mysterious, entirely aquatic world. This series explores massive, submerged landscapes, the thrill of discovery, and the profound, isolating beauty of a planet entirely consumed by the ocean.

@@ -1,0 +1,1 @@
+Experience the late-90s tech boom from the absolute trenches in *The Quantum Directive: Kelly's Cut*. Follow Kelly Madsen and her twin brother Ryan as they navigate grueling deadlines, high-stakes bug bashes, and the immense emotional weight of building the software that runs the world. This is a deeply personal, ground-level view of the people who quietly built the digital age.

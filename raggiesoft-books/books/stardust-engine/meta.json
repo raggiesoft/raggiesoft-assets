@@ -1,4 +1,6 @@
 {
     "series_title": "The Stardust Engine",
-    "series_description": "The official history, archives, and lore of The Stardust Engine."
+    "series_description": "The official history, archives, and lore of The Stardust Engine.",
+    "series_description_file": "landing.md",
+    "series_image": "/raggiesoft-books/images/covers/stardust-engine.jpg"
 }

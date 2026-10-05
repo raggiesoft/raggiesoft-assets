@@ -17,9 +17,9 @@
     },
     {
         "slug": "apex-fall-of-earth",
-        "title": "Apex Fall Of Earth",
-        "description": "",
-        "image": "",
+        "title": "Apex: Fall of Earth",
+        "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
+        "image": "/raggiesoft-books/images/covers/apex-fall-of-earth.jpg",
         "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044",
         "folder": "apex-fall-of-earth"
     },
@@ -34,31 +34,31 @@
     {
         "slug": "aubrie",
         "title": "Aubrie",
-        "description": "",
-        "image": "",
+        "description": "The emotional journey of a star collegiate gymnast rebuilding her life after a devastating injury.",
+        "image": "/raggiesoft-books/images/covers/aubrie.jpg",
         "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/part-1-the-drive",
         "folder": "aubrie"
     },
     {
         "slug": "beth",
         "title": "Beth",
-        "description": "",
-        "image": "",
+        "description": "A tense legal drama following the O'Connell family as they navigate the treacherous waters of corporate law and family loyalty.",
+        "image": "/raggiesoft-books/images/covers/beth.jpg",
         "first_route": null,
         "folder": "beth"
     },
     {
         "slug": "bob-emily",
-        "title": "Bob Emily",
-        "description": "",
-        "image": "",
+        "title": "Bob & Emily",
+        "description": "A heartwarming, complex exploration of modern romance and enduring partnership.",
+        "image": "/raggiesoft-books/images/covers/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
         "folder": "bob-emily"
     },
     {
         "slug": "casey",
         "title": "The Quantum Directive: The Caretakers",
-        "description": "Follow the lives of the Vance and Delaney siblings as they navigate the complexities of found family, deep trauma, and corporate maneuvering at Quantum. Grounded by the powerful executive authority of Cassandra Vance, David Vance and the East Coast pack build an impenetrable emotional fortress that bridges the miles between Virginia Beach, Rhode Island, and Seattle.",
+        "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
         "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey"
@@ -66,7 +66,7 @@
     {
         "slug": "crimson-node",
         "title": "Crimson Node",
-        "description": "A gripping tale from the Crimson Node project.",
+        "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
         "image": "/raggiesoft-books/images/covers/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/part-1-anomalies",
         "folder": "crimson-node"
@@ -74,31 +74,31 @@
     {
         "slug": "dream-kingdom",
         "title": "Dream Kingdom",
-        "description": "",
-        "image": "",
+        "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
+        "image": "/raggiesoft-books/images/covers/dream-kingdom.jpg",
         "first_route": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
         "folder": "dream-kingdom"
     },
     {
         "slug": "fractured-prisms",
         "title": "Fractured Prisms",
-        "description": "",
-        "image": "",
+        "description": "A mind-bending thriller exploring fragmented realities and the nature of truth.",
+        "image": "/raggiesoft-books/images/covers/fractured-prisms.jpg",
         "first_route": null,
         "folder": "fractured-prisms"
     },
     {
         "slug": "jack-sarah",
-        "title": "Jack Sarah",
-        "description": "",
-        "image": "",
+        "title": "Jack & Sarah",
+        "description": "A poignant story of connection, second chances, and finding solace in the unexpected.",
+        "image": "/raggiesoft-books/images/covers/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
         "folder": "jack-sarah"
     },
     {
         "slug": "jessica",
         "title": "The Quantum Directive: Jessica's Cut",
-        "description": "A high-stakes corporate drama set against the backdrop of the late-90s tech boom. Follow Jessica Taylor as she navigates the intense pressures of management at Quantum, fighting to protect her team of talented developers while surviving in a massive tech conglomerate.",
+        "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
         "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
         "first_route": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
         "folder": "jessica"
@@ -106,7 +106,7 @@
     {
         "slug": "kelly",
         "title": "The Quantum Directive: Kelly's Cut",
-        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches. Follow Kelly Madsen as she and her twin brother Ryan navigate grueling deadlines, high-stakes bug bashes, and the emotional weight of building the software that runs the world.",
+        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
         "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
         "first_route": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
         "folder": "kelly"
@@ -121,32 +121,32 @@
     },
     {
         "slug": "mary-childhood",
-        "title": "Mary Childhood",
-        "description": "",
-        "image": "",
+        "title": "Mary's Childhood",
+        "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
+        "image": "/raggiesoft-books/images/covers/mary-childhood.jpg",
         "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1/part-1-high-command",
         "folder": "mary-childhood"
     },
     {
         "slug": "meredith",
         "title": "Meredith",
-        "description": "",
-        "image": "",
+        "description": "A profound exploration of grief, healing, and the protective embrace of chosen family.",
+        "image": "/raggiesoft-books/images/covers/meredith.jpg",
         "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks",
         "folder": "meredith"
     },
     {
         "slug": "nate",
         "title": "Nate",
-        "description": "",
-        "image": "",
+        "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
+        "image": "/raggiesoft-books/images/covers/nate.jpg",
         "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/part-1-untitled-chapter",
         "folder": "nate"
     },
     {
         "slug": "nichole",
         "title": "Nichole",
-        "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine, and her unbreakable bond with her brother Patrick.",
+        "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
         "image": "/raggiesoft-books/images/covers/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad",
         "folder": "nichole"
@@ -154,16 +154,16 @@
     {
         "slug": "paige",
         "title": "Paige",
-        "description": "",
-        "image": "",
+        "description": "A compelling romance set amidst the grueling deadlines and late-night coding sessions of university life.",
+        "image": "/raggiesoft-books/images/covers/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat",
         "folder": "paige"
     },
     {
         "slug": "pebble-borrow",
         "title": "Pebble Borrow",
-        "description": "",
-        "image": "",
+        "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
+        "image": "/raggiesoft-books/images/covers/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/part-1-out-of-the-storm",
         "folder": "pebble-borrow"
     },
@@ -178,16 +178,16 @@
     {
         "slug": "ruby-mountain",
         "title": "Ruby Mountain",
-        "description": "",
-        "image": "",
+        "description": "A high-stakes corporate family drama revolving around the battle for The Prospector's Keep.",
+        "image": "/raggiesoft-books/images/covers/ruby-mountain.jpg",
         "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/part-1-the-traitor",
         "folder": "ruby-mountain"
     },
     {
         "slug": "samantha",
         "title": "Samantha",
-        "description": "",
-        "image": "",
+        "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
+        "image": "/raggiesoft-books/images/covers/samantha.jpg",
         "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/part-1-untitled-chapter",
         "folder": "samantha"
     },
@@ -195,15 +195,15 @@
         "slug": "stardust-engine",
         "title": "The Stardust Engine",
         "description": "The official history, archives, and lore of The Stardust Engine.",
-        "image": "",
+        "image": "/raggiesoft-books/images/covers/stardust-engine.jpg",
         "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/part-1-the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine"
     },
     {
         "slug": "water-planet",
         "title": "Water Planet",
-        "description": "",
-        "image": "",
+        "description": "A breathtaking sci-fi adventure exploring the depths of a mysterious, aquatic world.",
+        "image": "/raggiesoft-books/images/covers/water-planet.jpg",
         "first_route": null,
         "folder": "water-planet"
     }
