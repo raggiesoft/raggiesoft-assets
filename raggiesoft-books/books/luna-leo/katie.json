@@ -1382,6 +1382,17 @@
                     ]
                 },
                 {
+                    "chap_num": 17,
+                    "chap_title": "Chapter 17",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Lingering Shadows",
+                            "file_path": "b008/c017/p001.md"
+                        }
+                    ]
+                },
+                {
                     "chap_num": 98,
                     "chap_title": "Chapter 98",
                     "parts": [
