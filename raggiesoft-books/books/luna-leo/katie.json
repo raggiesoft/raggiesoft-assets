@@ -1440,9 +1440,96 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Dining Car",
                             "file_path": "b008/c018/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Fresh Air",
+                            "file_path": "b008/c018/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Union Station",
+                            "file_path": "b008/c018/p005.md"
+
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Voyage Inn",
+                            "file_path": "b008/c018/p006.md"
+
+                },
+                {
+                    "chap_num": 19,
+                    "chap_title": "Global Studios",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Global City",
+                            "file_path": "b008/c019/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Starway",
+                            "file_path": "b008/c019/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Cretaceous Island: The Ride",
+                            "file_path": "b008/c019/p003.md"
+
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Studio Tour",
+                            "file_path": "b008/c019/p004.md"
+
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Timeline Paradox",
+                            "file_path": "b008/c019/p005.md"
+
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: AquaWorld",
+                            "file_path": "b008/c019/p006.md"
+
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Shipping Box",
+                            "file_path": "b008/c019/p007.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 20,
+                    "chap_title": "The Enchanted Resort",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Orange County Commute",
+                            "file_path": "b008/c020/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Cosmic Peak",
+                            "file_path": "b008/c020/p002.md"
 
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Storm",
+                            "file_path": "b008/c020/p003.md"
+
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Singing Bird Serenade",
+                            "file_path": "b008/c020/p004.md"
+                        }
+                    ]
                 },
                 {
                     "chap_num": 98,
@@ -3014,4 +3101,6 @@
             ]
         }
     ]
+}
+]
 }

@@ -104,6 +104,14 @@
         "folder": "kelly"
     },
     {
+        "slug": "luna-leo",
+        "title": "Luna and Leo",
+        "description": "The extraordinary journey of Luna and Leo Porter. After enduring a harrowing childhood of neglect, Stella fights for and wins custody of her twin siblings. Follow their deeply emotional journey of healing, the fierce protections of their found family, and the trials of navigating high school with profound disabilities and unshakable bonds.",
+        "image": "/raggiesoft-books/images/covers/luna-leo.jpg",
+        "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/part-1-birthday-morning-and-the-grandparents-arrival",
+        "folder": "luna-leo"
+    },
+    {
         "slug": "mary-childhood",
         "title": "mary-childhood",
         "description": "",
