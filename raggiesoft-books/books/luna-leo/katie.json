@@ -1423,6 +1423,28 @@
                     ]
                 },
                 {
+                    "chap_num": 18,
+                    "chap_title": "The Southbound Platform",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Southbound Platform",
+                            "file_path": "b008/c018/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Lower Level",
+                            "file_path": "b008/c018/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Dining Car",
+                            "file_path": "b008/c018/p003.md"
+                        }
+                    ]
+
+                },
+                {
                     "chap_num": 98,
                     "chap_title": "Chapter 98",
                     "parts": [
