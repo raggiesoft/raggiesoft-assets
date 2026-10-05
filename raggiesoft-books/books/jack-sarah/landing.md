@@ -1,1 +1,3 @@
-*Jack & Sarah* is a deeply poignant narrative about two people finding each other at the exact moment they need it most. It explores the beautiful, messy reality of second chances, the healing power of connection, and the quiet strength required to open your heart to the unexpected.
+# Jack & Sarah
+
+A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones. Jack and Sarah's narrative explores the complexities of their family dynamic, the healing power of shared experiences, and the ways in which they help each other navigate life's most difficult moments. It is a deeply emotional journey of growth and resilience.

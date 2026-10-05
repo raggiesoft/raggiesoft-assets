@@ -1,1 +1,3 @@
-*Bob & Emily* is an intimate, heartfelt exploration of a modern relationship. It peels back the layers of a deeply committed partnership, examining the quiet moments of connection, the inevitable conflicts, and the shared history that binds two people together. This narrative is a beautiful, realistic portrait of love built to last.
+# Bob & Emily
+
+A heartwarming, complex exploration of a deep familial bond and enduring partnership between cousins Bob and Emily. This narrative delves into their shared history, the challenges they face together, and the unwavering support they provide one another through life's unpredictable twists and turns. It is a testament to the strength of family and the importance of having someone who truly understands you.

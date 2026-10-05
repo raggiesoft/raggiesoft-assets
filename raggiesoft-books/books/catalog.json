@@ -50,7 +50,7 @@
     {
         "slug": "bob-emily",
         "title": "Bob & Emily",
-        "description": "A heartwarming, complex exploration of modern romance and enduring partnership.",
+        "description": "A heartwarming, complex exploration of a deep familial bond and enduring partnership between cousins Bob and Emily.",
         "image": "/raggiesoft-books/images/covers/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
         "folder": "bob-emily"
@@ -90,7 +90,7 @@
     {
         "slug": "jack-sarah",
         "title": "Jack & Sarah",
-        "description": "A poignant story of connection, second chances, and finding solace in the unexpected.",
+        "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
         "image": "/raggiesoft-books/images/covers/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
         "folder": "jack-sarah"
@@ -154,7 +154,7 @@
     {
         "slug": "paige",
         "title": "Paige",
-        "description": "A compelling romance set amidst the grueling deadlines and late-night coding sessions of university life.",
+        "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
         "image": "/raggiesoft-books/images/covers/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat",
         "folder": "paige"

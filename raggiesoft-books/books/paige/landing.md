@@ -1,1 +1,3 @@
-*Paige* is a compelling, tech-driven romance set against the backdrop of university life and ambitious coding projects. Follow Freddie and Paige as they navigate the intense, focused "Zone" of creation, where a simple touch provides the constant, grounding tactile data needed to survive grueling deadlines and the complexities of young love.
+# Paige
+
+A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life. Paige and Freddie navigate the high-pressure environment of their computer science program, forging a bond built on shared struggles, late-night debugging, and mutual respect. Their journey highlights the power of friendship and teamwork in overcoming seemingly insurmountable academic challenges.
