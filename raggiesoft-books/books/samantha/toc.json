@@ -8,11 +8,11 @@
     "books": [
         {
             "book_num": 1,
-            "book_title": "Book 1",
+            "book_title": "Book 1: Toby\u2019s 6th Grade",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -38,7 +38,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -124,7 +124,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -137,11 +137,11 @@
         },
         {
             "book_num": 2,
-            "book_title": "Book 2",
+            "book_title": "Book 2: Toby\u2019s 8th Grade Year",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -157,7 +157,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -168,7 +168,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -179,7 +179,7 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
+                    "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
                     "parts": [
                         {
                             "part_num": 1,
@@ -207,11 +207,11 @@
         },
         {
             "book_num": 3,
-            "book_title": "Book 3",
+            "book_title": "Book 3: The Environmental Doctrine",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
                     "parts": [
                         {
                             "part_num": 1,

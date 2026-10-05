@@ -8,11 +8,11 @@
     "books": [
         {
             "book_num": 1,
-            "book_title": "Book 1",
+            "book_title": "Book: The Architecture of Safe Spaces",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Triplet Anomaly \u2014 Saturday, April 16, 1994",
                     "parts": [
                         {
                             "part_num": 1,
@@ -25,11 +25,11 @@
         },
         {
             "book_num": 2,
-            "book_title": "Book 2",
+            "book_title": "Book: The Demolition of the Cage",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Line in the Sand - Friday, November 10, 2006",
                     "parts": [
                         {
                             "part_num": 1,
@@ -90,7 +90,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "Chapter 2: The Reinforcements - Saturday, November 11, 2006",
                     "parts": [
                         {
                             "part_num": 1,
@@ -121,7 +121,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "Chapter 3: Christmas Holiday \u2013 Saturday, December 23<sup>rd</sup>, 2026",
                     "parts": [
                         {
                             "part_num": 1,
@@ -149,11 +149,11 @@
         },
         {
             "book_num": 3,
-            "book_title": "Book 3",
+            "book_title": "Book: The Architecture of a Safe Space",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "Chapter 1: The Fortress \u2013 Thursday, August 23, 2007",
                     "parts": [
                         {
                             "part_num": 1,
@@ -174,7 +174,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "Chapter 2: The Logistics of Trust \u2013 Friday, August 24, 2007",
                     "parts": [
                         {
                             "part_num": 1,
@@ -210,7 +210,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "Chapter 3: Expanding the Perimeter \u2013 Monday, August 27, 2007",
                     "parts": [
                         {
                             "part_num": 1,
