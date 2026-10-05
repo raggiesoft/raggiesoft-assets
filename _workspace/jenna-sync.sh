@@ -375,6 +375,23 @@ function do_push() {
     # 1. QA Check
     run_integrity_check
 
+    # 0. SYNC COMPONENTS LIBRARY
+    echo "   -> Syncing /components-library to applications..."
+    if [ -d "$SERVER_ROOT/components-library" ]; then
+        if [ -d "$HUB_ROOT" ]; then
+            cp -r "$SERVER_ROOT/components-library/"* "$HUB_ROOT/includes/"
+            echo "      ✓ Synced components to raggiesoft-hub"
+        fi
+        if [ -d "$BOOKS_ROOT" ]; then
+            cp -r "$SERVER_ROOT/components-library/"* "$BOOKS_ROOT/includes/"
+            echo "      ✓ Synced components to raggiesoft-book-library"
+        fi
+        if [ -d "$NEBULAE_ROOT" ]; then
+            cp -r "$SERVER_ROOT/components-library/"* "$NEBULAE_ROOT/includes/"
+            echo "      ✓ Synced components to raggiesoft-nebulae"
+        fi
+    fi
+
     # 2. Orphan Audit
     run_orphan_audit
 
