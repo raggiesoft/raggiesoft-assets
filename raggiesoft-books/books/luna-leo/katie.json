@@ -1358,6 +1358,16 @@
                             "part_num": 1,
                             "part_title": "Part 1: The Golden Gate",
                             "file_path": "b008/c016/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Transbay Tube",
+                            "file_path": "b008/c016/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: East Bay Dinner",
+                            "file_path": "b008/c016/p003.md"
                         }
                     ]
                 },
