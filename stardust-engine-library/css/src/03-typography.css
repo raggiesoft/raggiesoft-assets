@@ -40,3 +40,26 @@ em.aac-device, .aac-device {
     font-style: italic;
     color: var(--rs-primary, #2563eb);
 }
+
+/* ASL formatting */
+em.asl-sign, .asl-sign {
+    font-weight: bold;
+    font-style: italic;
+    color: #059669;
+}
+
+/* Generic Sign / Gesture formatting */
+em.generic-sign, .generic-sign {
+    font-style: italic;
+    color: #4b5563;
+}
+
+/* SMS / Text Message formatting */
+em.sms-message, .sms-message {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-size: 0.9em;
+    background: rgba(128, 128, 128, 0.1);
+    padding: 0.2em 0.4em;
+    border-radius: 6px;
+    font-style: normal;
+}
