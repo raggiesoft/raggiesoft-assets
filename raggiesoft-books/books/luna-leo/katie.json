@@ -1368,6 +1368,11 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Transbay Bus",
                             "file_path": "b008/c016/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Transbay Emergency",
+                            "file_path": "b008/c016/p004.md"
                         }
                     ]
                 },
