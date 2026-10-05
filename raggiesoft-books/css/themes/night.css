@@ -10,10 +10,17 @@ body.theme-auto.theme-night {
     --rs-primary: #58a6ff;
     --rs-secondary: #79c0ff;
     --rs-border: #30363d;
-    --rs-asl: #3fb950; /* Emerald-400 */
-    --rs-gesture: #8b949e; /* Gray-400 */
+    --rs-asl: #3fb950; /* Emerald-400 equivalent for dark mode */
+    --rs-gesture: #8b949e; /* Gray-400 for dark mode */
 
-    /* Bootstrap/WebAwesome Overrides to fix inheritance */
+    /* RaggieSoft Grid / WebAwesome Overrides to fix inheritance */
+    --wa-color-surface-default: #0d1117;
+    --wa-color-text-normal: #c9d1d9;
+    --wa-color-brand-fill: #58a6ff;
+    --wa-color-brand-text: #79c0ff;
+    --wa-color-neutral-border-quiet: #30363d;
+
+    /* Legacy Bootstrap Overrides (if any components still use them) */
     --bs-body-bg: #0d1117;
     --bs-body-color: #c9d1d9;
     --bs-primary: #58a6ff;
