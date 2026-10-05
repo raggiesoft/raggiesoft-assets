@@ -1,0 +1,52 @@
+/* Ocean View Book Reader Styles */
+
+/* Reader Page (oliver.php) */
+.reader-page { max-width: 800px; margin: 0 auto; padding: 1rem; }
+.story-content { font-size: 1.15rem; line-height: 1.8; color: var(--rs-text); }
+.reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #007bff); margin-bottom: 1rem; opacity: 0.9; }
+.reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-text); margin: 0 0 1rem 0; line-height: 1.2; }
+
+/* Sidebar (sidebar.php) */
+.reader-sidebar { padding: 1.5rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
+@media (max-width: 991px) {
+    .reader-sidebar { position: fixed !important; top: 0; left: 0; width: 300px; height: 100vh; z-index: 1000; transform: translateX(-100%); box-shadow: 5px 0 15px rgba(0,0,0,0.1); }
+    .reader-sidebar.open { transform: translateX(0); }
+}
+@media (min-width: 992px) {
+    #stardust-sidebar.reader-sidebar { position: static !important; transform: none !important; width: 350px !important; height: 100vh !important; z-index: 1 !important; box-shadow: none !important; flex-shrink: 0; border-right: 1px solid var(--rs-border); }
+    #stardust-sidebar-toggle { display: none !important; }
+    #reader-sidebar-backdrop { display: none !important; }
+}
+.toc-nav a:hover { opacity: 1 !important; color: var(--rs-primary); }
+
+/* Settings & Themes (settings-dialog.php) */
+body.theme-dark { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
+body.theme-sepia { --rs-bg: #f4ecd8; --rs-bg-alt: #eaddc4; --rs-card-bg: #fdf6e3; --rs-text: #5c4b37; --rs-border: #e0d5c1; --rs-surface: #fdf6e3; }
+body.theme-dark-sepia { --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-border: #4a4135; --rs-surface: #1f1b16; }
+
+@media (prefers-color-scheme: dark) {
+    body.theme-auto { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
+}
+
+dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
+
+/* Wizard Styles */
+.wizard-dialog { padding: 0; border-radius: 12px; border: 1px solid var(--rs-border); background: var(--rs-card-bg, var(--rs-surface, #fff)); color: var(--rs-text); max-width: 700px; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.2); overflow: hidden; }
+.wizard-container { display: flex; min-height: 450px; }
+.wizard-sidebar { width: 35%; background-color: #000; background-size: cover; background-position: center; border-right: 1px solid var(--rs-border); }
+.wizard-content { width: 65%; padding: 2.5rem; display: flex; flex-direction: column; }
+.wizard-step p { margin-bottom: 1rem; line-height: 1.6; font-size: 0.95rem; }
+.wizard-footer { margin-top: auto; display: flex; justify-content: space-between; border-top: 1px solid var(--rs-border); padding-top: 1.5rem; }
+@media (max-width: 768px) {
+    .wizard-container { flex-direction: column; min-height: auto; }
+    .wizard-sidebar { width: 100%; display: none; background-position: top center; border-right: none; border-bottom: 1px solid var(--rs-border); }
+    .wizard-content { width: 100%; padding: 1.5rem; }
+}
+
+.settings-tab { background: transparent; border: none; padding: 0.5rem 1rem; font-size: 0.95rem; color: var(--rs-text); opacity: 0.7; cursor: pointer; border-bottom: 2px solid transparent; }
+.settings-tab:hover { opacity: 1; }
+.settings-tab.active { opacity: 1; font-weight: 600; color: var(--rs-primary); border-bottom: 2px solid var(--rs-primary); }
+
+.rs-input { background: var(--rs-surface); color: var(--rs-text); border: 1px solid var(--rs-border); border-radius: 6px; font-family: inherit; }
+.rs-input:focus { outline: 2px solid var(--rs-primary); outline-offset: 1px; }
+
