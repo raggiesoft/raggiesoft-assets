@@ -1,7 +1,10 @@
 {
-    "series_title": "",
+    "series_title": "Paige",
+    "series_slug": "paige",
     "series_description": "",
     "series_image": "",
+    "next_series_url": "",
+    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -1375,7 +1378,7 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Main Event",
+                            "part_title": "Part 3: Part 3",
                             "file_path": "b005/c005/p003.md"
                         },
                         {

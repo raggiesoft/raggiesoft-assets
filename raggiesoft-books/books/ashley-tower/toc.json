@@ -1,7 +1,10 @@
 {
     "series_title": "Ashley Tower",
-    "series_description": "Donald's harrowing escape from Texas to the safety of Ashley Tower.",
-    "series_image": "/raggiesoft-books/images/covers/ashley-tower.jpg",
+    "series_slug": "ashley-tower",
+    "series_description": "",
+    "series_image": "",
+    "next_series_url": "",
+    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -260,16 +263,6 @@
                             "part_num": 11,
                             "part_title": "Part 11: The Town Square \u2013 7:15 PM",
                             "file_path": "b002/c001/p011.md"
-                        },
-                        {
-                            "part_num": 12,
-                            "part_title": "Part 12: The First Choice \u2013 7:20 PM",
-                            "file_path": "b002/c001/p012.md"
-                        },
-                        {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Crash Pad \u2013 8:00 PM",
-                            "file_path": "b002/c001/p013.md"
                         }
                     ]
                 },
@@ -281,72 +274,6 @@
                             "part_num": 1,
                             "part_title": "Part 1: The Water Walls \u2013 7:00 AM",
                             "file_path": "b002/c002/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Sunday Briefing \u2013 8:00 AM",
-                            "file_path": "b002/c002/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Sanctuary Tour \u2013 9:00 AM",
-                            "file_path": "b002/c002/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Family Tree \u2013 10:15 AM",
-                            "file_path": "b002/c002/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Basalt Promenade \u2013 11:00 AM",
-                            "file_path": "b002/c002/p005.md"
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: The First Embrace \u2013 12:30 PM",
-                            "file_path": "b002/c002/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: Testing the Waters \u2013 1:15 PM",
-                            "file_path": "b002/c002/p007.md"
-                        },
-                        {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Sanctuary & Spa \u2013 2:30 PM",
-                            "file_path": "b002/c002/p008.md"
-                        },
-                        {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Birthday Resolution \u2013 3:15 PM",
-                            "file_path": "b002/c002/p009.md"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 3,
-                    "chap_title": "Chapter 3: The Firewall \u2013 Monday, February 22, 2021",
-                    "parts": [
-                        {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Curbside Commute \u2013 7:30 AM",
-                            "file_path": "b002/c003/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Administrative Fortress \u2013 8:00 AM",
-                            "file_path": "b002/c003/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Interlude: The Texas Head Start \u2013 8:15 AM CT",
-                            "file_path": "b002/c003/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 3: The Handoff \u2013 8:20 AM",
-                            "file_path": "b002/c003/p004.md"
                         }
                     ]
                 }

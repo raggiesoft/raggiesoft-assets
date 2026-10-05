@@ -1,7 +1,10 @@
 {
-    "series_title": "",
+    "series_title": "Aubrie",
+    "series_slug": "aubrie",
     "series_description": "",
     "series_image": "",
+    "next_series_url": "",
+    "next_series_text": "",
     "books": [
         {
             "book_num": 1,

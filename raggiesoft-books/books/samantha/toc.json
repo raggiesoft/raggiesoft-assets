@@ -1,0 +1,236 @@
+{
+    "series_title": "Samantha",
+    "series_slug": "samantha",
+    "series_description": "",
+    "series_image": "",
+    "next_series_url": "",
+    "next_series_text": "",
+    "books": [
+        {
+            "book_num": 1,
+            "book_title": "Book 1",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b001/c001/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Untitled Chapter",
+                            "file_path": "b001/c001/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Untitled Chapter",
+                            "file_path": "b001/c001/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Untitled Chapter",
+                            "file_path": "b001/c001/p004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b001/c002/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Untitled Chapter",
+                            "file_path": "b001/c002/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Untitled Chapter",
+                            "file_path": "b001/c002/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Untitled Chapter",
+                            "file_path": "b001/c002/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Untitled Chapter",
+                            "file_path": "b001/c002/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Untitled Chapter",
+                            "file_path": "b001/c002/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Untitled Chapter",
+                            "file_path": "b001/c002/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: Untitled Chapter",
+                            "file_path": "b001/c002/p008.md"
+                        },
+                        {
+                            "part_num": 9,
+                            "part_title": "Part 9: Untitled Chapter",
+                            "file_path": "b001/c002/p009.md"
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: Untitled Chapter",
+                            "file_path": "b001/c002/p010.md"
+                        },
+                        {
+                            "part_num": 11,
+                            "part_title": "Part 11: Untitled Chapter",
+                            "file_path": "b001/c002/p011.md"
+                        },
+                        {
+                            "part_num": 12,
+                            "part_title": "Part 12: Untitled Chapter",
+                            "file_path": "b001/c002/p012.md"
+                        },
+                        {
+                            "part_num": 13,
+                            "part_title": "Part 13: Untitled Chapter",
+                            "file_path": "b001/c002/p013.md"
+                        },
+                        {
+                            "part_num": 14,
+                            "part_title": "Part 14: Untitled Chapter",
+                            "file_path": "b001/c002/p014.md"
+                        },
+                        {
+                            "part_num": 15,
+                            "part_title": "Part 15: Untitled Chapter",
+                            "file_path": "b001/c002/p015.md"
+                        },
+                        {
+                            "part_num": 16,
+                            "part_title": "Part 16: Untitled Chapter",
+                            "file_path": "b001/c002/p016.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b001/c003/p001.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 2,
+            "book_title": "Book 2",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b002/c001/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Untitled Chapter",
+                            "file_path": "b002/c001/p002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b002/c002/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b002/c003/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Chapter 4",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b002/c004/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Untitled Chapter",
+                            "file_path": "b002/c004/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Untitled Chapter",
+                            "file_path": "b002/c004/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Untitled Chapter",
+                            "file_path": "b002/c004/p004.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 3,
+            "book_title": "Book 3",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Untitled Chapter",
+                            "file_path": "b003/c001/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Untitled Chapter",
+                            "file_path": "b003/c001/p002.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 4,
+            "book_title": "Book 4",
+            "chapters": []
+        }
+    ]
+}
