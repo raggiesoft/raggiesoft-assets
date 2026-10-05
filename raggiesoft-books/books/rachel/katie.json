@@ -1,10 +1,8 @@
 {
     "series_title": "The Rachel Narrative",
-    "series_slug": "rachel",
     "series_description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
-    "series_image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
+    "author": "Engine Room Records",
+    "status": "Ongoing",
     "books": [
         {
             "book_num": 1,
@@ -2048,6 +2046,11 @@
                             "part_num": 5,
                             "part_title": "Part 5: Kansas City",
                             "file_path": "b015/c003/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Heart of the Night",
+                            "file_path": "b015/c003/p006.md"
                         }
                     ]
                 },
@@ -2956,5 +2959,6 @@
                 }
             ]
         }
-    ]
+    ],
+    "series_image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg"
 }

@@ -1,8 +1,8 @@
 {
-    "series_title": "Luna Leo",
+    "series_title": "Luna and Leo",
     "series_slug": "luna-leo",
-    "series_description": "",
-    "series_image": "",
+    "series_description": "The extraordinary journey of Luna and Leo Porter. After enduring a harrowing childhood of neglect, Stella fights for and wins custody of her twin siblings. Follow their deeply emotional journey of healing, the fierce protections of their found family, and the trials of navigating high school with profound disabilities and unshakable bonds.",
+    "series_image": "/raggiesoft-books/images/covers/luna-leo.jpg",
     "next_series_url": "",
     "next_series_text": "",
     "books": [
@@ -818,7 +818,7 @@
         },
         {
             "book_num": 8,
-            "book_title": "California",
+            "book_title": "The Great North American Excursion",
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1510,7 +1510,7 @@
                 },
                 {
                     "chap_num": 19,
-                    "chap_title": "Chapter 19",
+                    "chap_title": "Global Studios",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1551,7 +1551,7 @@
                 },
                 {
                     "chap_num": 20,
-                    "chap_title": "The Enchanted Kingdom",
+                    "chap_title": "The Enchanted Resort",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1752,11 +1752,11 @@
         },
         {
             "book_num": 9,
-            "book_title": "Book 9",
+            "book_title": "The Delores Nightmare",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "A Grieving Start",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1812,7 +1812,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "The Tutor",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1853,7 +1853,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "The Hijacked Plan",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1909,7 +1909,7 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
+                    "chap_title": "The Trip Proposal",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1975,7 +1975,7 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5",
+                    "chap_title": "Escape Through the Rain",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2093,11 +2093,11 @@
         },
         {
             "book_num": 10,
-            "book_title": "Book 10",
+            "book_title": "Safe Harbor, Stark Reality",
             "chapters": [
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "The First Morning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2158,7 +2158,7 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
+                    "chap_title": "Assembling the Fortress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2184,7 +2184,7 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5",
+                    "chap_title": "A New Language of Home",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2295,7 +2295,7 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6",
+                    "chap_title": "The Morning After",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2341,7 +2341,7 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7",
+                    "chap_title": "A Day of Quiet",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2377,7 +2377,7 @@
                 },
                 {
                     "chap_num": 8,
-                    "chap_title": "Chapter 8",
+                    "chap_title": "The Day in Court",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2390,11 +2390,11 @@
         },
         {
             "book_num": 11,
-            "book_title": "Book 11",
+            "book_title": "The Trial and The Toast",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "The Judge's Order",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2430,7 +2430,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "A Test and a Toast",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2498,11 +2498,11 @@
         },
         {
             "book_num": 12,
-            "book_title": "Book 12",
+            "book_title": "The Iron Point Transfer",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "The Weapon",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2543,7 +2543,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "The Iron Link",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2614,7 +2614,7 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
+                    "chap_title": "The Orange Army",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2680,7 +2680,7 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
+                    "chap_title": "The Transfer of Power",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2716,7 +2716,7 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5",
+                    "chap_title": "The Landing",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2767,7 +2767,7 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6",
+                    "chap_title": "The Ticket Kiosk",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2813,7 +2813,7 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7",
+                    "chap_title": "The Official Stamp",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2859,7 +2859,7 @@
                 },
                 {
                     "chap_num": 8,
-                    "chap_title": "Chapter 8",
+                    "chap_title": "The Ferry and the Fortress",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2897,11 +2897,11 @@
         },
         {
             "book_num": 13,
-            "book_title": "Book 13",
+            "book_title": "Finding a New House",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
+                    "chap_title": "The 05:30 Alarm",
                     "parts": [
                         {
                             "part_num": 1,
@@ -2962,7 +2962,7 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
+                    "chap_title": "The Green Room",
                     "parts": [
                         {
                             "part_num": 1,

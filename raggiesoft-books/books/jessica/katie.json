@@ -1,10 +1,7 @@
 {
     "series_title": "The Quantum Directive: Jessica's Cut",
-    "series_slug": "jessica",
     "series_description": "A high-stakes corporate drama set against the backdrop of the late-90s tech boom. Follow Jessica Taylor as she navigates the intense pressures of management at Quantum, fighting to protect her team of talented developers while surviving in a massive tech conglomerate.",
     "series_image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -472,22 +469,6 @@
                             "file_path": "b001/c013/p004.md"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "book_num": 2,
-            "book_title": "Book 2",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                },
-                {
-                    "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "parts": []
                 }
             ]
         }

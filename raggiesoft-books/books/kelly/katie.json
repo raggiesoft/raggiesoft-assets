@@ -1,10 +1,7 @@
 {
     "series_title": "The Quantum Directive: Kelly's Cut",
-    "series_slug": "kelly",
     "series_description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches. Follow Kelly Madsen as she and her twin brother Ryan navigate grueling deadlines, high-stakes bug bashes, and the emotional weight of building the software that runs the world.",
     "series_image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -385,11 +382,6 @@
             "book_title": "The Bidding War as seen on DevNet",
             "chapters": [
                 {
-                    "chap_num": 1,
-                    "chap_title": "The Players",
-                    "parts": []
-                },
-                {
                     "chap_num": 2,
                     "chap_title": "The Players",
                     "parts": [
@@ -417,11 +409,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "book_num": 3,
-            "book_title": "Book 3",
-            "chapters": []
         }
     ]
 }

@@ -1,10 +1,7 @@
 {
     "series_title": "Nichole",
-    "series_slug": "nichole",
     "series_description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine, and her unbreakable bond with her brother Patrick.",
     "series_image": "/raggiesoft-books/images/covers/nichole.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -818,7 +815,7 @@
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: Part 7",
+                            "part_title": "Part 7: The Early Deployment",
                             "file_path": "b007/c002/p007.md"
                         },
                         {
@@ -1295,11 +1292,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "book_num": 14,
-            "book_title": "Book 14",
-            "chapters": []
         }
     ]
 }

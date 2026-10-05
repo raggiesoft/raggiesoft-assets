@@ -1,10 +1,9 @@
 {
     "series_title": "Crimson Node",
-    "series_slug": "crimson-node",
     "series_description": "A gripping tale from the Crimson Node project.",
     "series_image": "/raggiesoft-books/images/covers/crimson-node.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
+    "author": "Engine Room Records",
+    "status": "Ongoing",
     "books": [
         {
             "book_num": 1,
@@ -209,6 +208,21 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Plan",
                             "file_path": "b001/c007/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Release",
+                            "file_path": "b001/c007/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Charlottesville",
+                            "file_path": "b001/c007/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: United",
+                            "file_path": "b001/c007/p005.md"
                         }
                     ]
                 },

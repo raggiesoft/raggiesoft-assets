@@ -1,17 +1,17 @@
 [
     {
         "slug": "aethel",
-        "title": "Aethel",
-        "description": "",
-        "image": "",
+        "title": "The Silver Gauntlet of Aethel",
+        "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
+        "image": "/raggiesoft-books/images/covers/aethel.jpg",
         "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel"
     },
     {
         "slug": "alex-chloe",
-        "title": "Alex Chloe",
-        "description": "",
-        "image": "",
+        "title": "Alex & Chlo\u00e9",
+        "description": "A beautiful, lifelong journey of connection, resilience, and the deeply profound bond between Alex Miller and Chlo\u00e9 Mason.",
+        "image": "/raggiesoft-books/images/covers/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/part-1-the-first-meeting",
         "folder": "alex-chloe"
     },
@@ -26,8 +26,8 @@
     {
         "slug": "ashley-tower",
         "title": "Ashley Tower",
-        "description": "",
-        "image": "",
+        "description": "Donald's harrowing escape from Texas to the safety of Ashley Tower.",
+        "image": "/raggiesoft-books/images/covers/ashley-tower.jpg",
         "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/part-1-best-laid-plans-7-30-pm",
         "folder": "ashley-tower"
     },
@@ -57,17 +57,17 @@
     },
     {
         "slug": "casey",
-        "title": "Casey",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: The Caretakers",
+        "description": "Follow the lives of the Vance and Delaney siblings as they navigate the complexities of found family, deep trauma, and corporate maneuvering at Quantum. Grounded by the powerful executive authority of Cassandra Vance, David Vance and the East Coast pack build an impenetrable emotional fortress that bridges the miles between Virginia Beach, Rhode Island, and Seattle.",
+        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey"
     },
     {
         "slug": "crimson-node",
         "title": "Crimson Node",
-        "description": "",
-        "image": "",
+        "description": "A gripping tale from the Crimson Node project.",
+        "image": "/raggiesoft-books/images/covers/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/part-1-anomalies",
         "folder": "crimson-node"
     },
@@ -97,25 +97,25 @@
     },
     {
         "slug": "jessica",
-        "title": "Jessica",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: Jessica's Cut",
+        "description": "A high-stakes corporate drama set against the backdrop of the late-90s tech boom. Follow Jessica Taylor as she navigates the intense pressures of management at Quantum, fighting to protect her team of talented developers while surviving in a massive tech conglomerate.",
+        "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
         "first_route": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
         "folder": "jessica"
     },
     {
         "slug": "kelly",
-        "title": "Kelly",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: Kelly's Cut",
+        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches. Follow Kelly Madsen as she and her twin brother Ryan navigate grueling deadlines, high-stakes bug bashes, and the emotional weight of building the software that runs the world.",
+        "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
         "first_route": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
         "folder": "kelly"
     },
     {
         "slug": "luna-leo",
-        "title": "Luna Leo",
-        "description": "",
-        "image": "",
+        "title": "Luna and Leo",
+        "description": "The extraordinary journey of Luna and Leo Porter. After enduring a harrowing childhood of neglect, Stella fights for and wins custody of her twin siblings. Follow their deeply emotional journey of healing, the fierce protections of their found family, and the trials of navigating high school with profound disabilities and unshakable bonds.",
+        "image": "/raggiesoft-books/images/covers/luna-leo.jpg",
         "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/part-1-birthday-morning-and-the-grandparents-arrival",
         "folder": "luna-leo"
     },
@@ -146,8 +146,8 @@
     {
         "slug": "nichole",
         "title": "Nichole",
-        "description": "",
-        "image": "",
+        "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine, and her unbreakable bond with her brother Patrick.",
+        "image": "/raggiesoft-books/images/covers/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad",
         "folder": "nichole"
     },
@@ -169,9 +169,9 @@
     },
     {
         "slug": "rachel",
-        "title": "Rachel",
-        "description": "",
-        "image": "",
+        "title": "The Rachel Narrative",
+        "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+        "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
         "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/part-1-the-sensory-avalanche",
         "folder": "rachel"
     },
@@ -193,8 +193,8 @@
     },
     {
         "slug": "stardust-engine",
-        "title": "Stardust Engine",
-        "description": "",
+        "title": "The Stardust Engine",
+        "description": "The official history, archives, and lore of The Stardust Engine.",
         "image": "",
         "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/part-1-the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine"

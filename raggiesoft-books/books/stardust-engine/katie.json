@@ -1,43 +1,23 @@
 {
     "series_title": "The Stardust Engine",
-    "series_slug": "stardust-engine",
     "series_description": "The official history, archives, and lore of The Stardust Engine.",
-    "series_image": "",
-    "next_series_url": "",
-    "next_series_text": "",
+    "author": "Engine Room Records",
+    "status": "Ongoing",
     "books": [
         {
             "book_num": 1,
             "book_title": "Book 1: CPI & The Forgers",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                }
-            ]
+            "chapters": []
         },
         {
             "book_num": 2,
             "book_title": "Book 2: The Crash of '90",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                }
-            ]
+            "chapters": []
         },
         {
             "book_num": 3,
             "book_title": "Book 3: The Friction Catastrophe",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                }
-            ]
+            "chapters": []
         },
         {
             "book_num": 4,
@@ -59,13 +39,7 @@
         {
             "book_num": 5,
             "book_title": "Book 5: The $150M Refusal",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                }
-            ]
+            "chapters": []
         }
     ]
 }

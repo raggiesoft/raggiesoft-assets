@@ -1,10 +1,7 @@
 {
     "series_title": "Alex & Chlo\u00e9",
-    "series_slug": "alex-chloe",
     "series_description": "A beautiful, lifelong journey of connection, resilience, and the deeply profound bond between Alex Miller and Chlo\u00e9 Mason.",
     "series_image": "/raggiesoft-books/images/covers/alex-chloe.jpg",
-    "next_series_url": "",
-    "next_series_text": "",
     "books": [
         {
             "book_num": 1,
@@ -1966,7 +1963,19 @@
                             "part_num": 3,
                             "part_title": "Part 3: The First Test and a New Role",
                             "file_path": "b011/c003/p003.md"
-                        },
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 12,
+            "book_title": "Chapter 4: Building the Foundation",
+            "chapters": [
+                {
+                    "chap_num": 0,
+                    "chap_title": "The Evergreen Project",
+                    "parts": [
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Accessibility Specialist",
@@ -1990,11 +1999,6 @@
                     ]
                 }
             ]
-        },
-        {
-            "book_num": 12,
-            "book_title": "Chapter 4: Building the Foundation",
-            "chapters": []
         },
         {
             "book_num": 13,
@@ -2250,7 +2254,7 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Part 5",
+                            "part_title": "Part 5: Les Danses d\\'Honneur",
                             "file_path": "b015/c004/p005.md"
                         },
                         {
@@ -2708,22 +2712,6 @@
                             "file_path": "b020/c001/p006.md"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "book_num": 21,
-            "book_title": "Book 21",
-            "chapters": [
-                {
-                    "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "parts": []
-                },
-                {
-                    "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "parts": []
                 }
             ]
         }
