@@ -8,7 +8,7 @@
     "books": [
         {
             "book_num": 1,
-            "book_title": "The Motel on the Highway",
+            "book_title": "Book 1",
             "chapters": []
         },
         {
@@ -62,12 +62,12 @@
         },
         {
             "book_num": 3,
-            "book_title": "The General's Arrival",
+            "book_title": "Book 3",
             "chapters": []
         },
         {
             "book_num": 4,
-            "book_title": "Amanda Interviews Care Nurses",
+            "book_title": "Book 4",
             "chapters": []
         },
         {
