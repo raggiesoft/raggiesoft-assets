@@ -863,13 +863,13 @@
         },
         {
             "book_num": 8,
-            "book_title": "The Great North American Excursion: Eastbound",
-            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound",
+            "book_title": "Eastbound",
+            "book_url": "/raggiesoft-books/books/luna-leo/eastbound",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "All Aboard",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/all-aboard",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/all-aboard",
                     "parts": [
                         {
                             "part_num": 1,
@@ -931,7 +931,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Museum Hopping",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/museum-hopping",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/museum-hopping",
                     "parts": [
                         {
                             "part_num": 1,
@@ -983,7 +983,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Practice Mission",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-practice-mission",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-practice-mission",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1035,7 +1035,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "A Layover in Philly",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/a-layover-in-philly",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/a-layover-in-philly",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1082,7 +1082,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Journey West",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-journey-west",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-journey-west",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1129,7 +1129,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Shadow on the Platform",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-shadow-on-the-platform",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-shadow-on-the-platform",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1146,7 +1146,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "The Steel City",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-eastbound/the-steel-city",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-steel-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1169,13 +1169,13 @@
         },
         {
             "book_num": 9,
-            "book_title": "The Great North American Excursion: Heartland to the Peaks",
-            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks",
+            "book_title": "Heartland to the Peaks",
+            "book_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks",
             "chapters": [
                 {
                     "chap_num": 8,
                     "chap_title": "The Windy City",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-windy-city",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-windy-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1222,7 +1222,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Heartland",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-heartland",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-heartland",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1254,7 +1254,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "The Mile High City",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-mile-high-city",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-mile-high-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1286,7 +1286,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "The Botanic Gardens",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-botanic-gardens",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-botanic-gardens",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1308,7 +1308,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "The Moffat Tunnel",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-moffat-tunnel",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-moffat-tunnel",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1350,7 +1350,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "The Salt Lake Stop",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-heartland-to-the-peaks/the-salt-lake-stop",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-salt-lake-stop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1383,13 +1383,13 @@
         },
         {
             "book_num": 10,
-            "book_title": "The Great North American Excursion: The Golden State",
-            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state",
+            "book_title": "The Golden State",
+            "book_url": "/raggiesoft-books/books/luna-leo/the-golden-state",
             "chapters": [
                 {
                     "chap_num": 14,
                     "chap_title": "The City by the Bay",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-city-by-the-bay",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-city-by-the-bay",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1441,7 +1441,7 @@
                 {
                     "chap_num": 15,
                     "chap_title": "The Sovereign Regency",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-sovereign-regency",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-sovereign-regency",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1478,7 +1478,7 @@
                 {
                     "chap_num": 16,
                     "chap_title": "Karl The Fog",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/karl-the-fog",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/karl-the-fog",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1510,7 +1510,7 @@
                 {
                     "chap_num": 17,
                     "chap_title": "The Sub-Basement",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-sub-basement",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-sub-basement",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1552,7 +1552,7 @@
                 {
                     "chap_num": 18,
                     "chap_title": "The Southbound Platform",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-southbound-platform",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-southbound-platform",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1589,7 +1589,7 @@
                 {
                     "chap_num": 19,
                     "chap_title": "Global Studios",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/global-studios",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/global-studios",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1631,7 +1631,7 @@
                 {
                     "chap_num": 20,
                     "chap_title": "The Enchanted Resort",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/the-enchanted-resort",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-enchanted-resort",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1678,7 +1678,7 @@
                 {
                     "chap_num": 21,
                     "chap_title": "Hollywood Forever",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-the-golden-state/hollywood-forever",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/hollywood-forever",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1691,13 +1691,13 @@
         },
         {
             "book_num": 11,
-            "book_title": "The Great North American Excursion: Emerald Endings",
-            "book_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings",
+            "book_title": "Emerald Endings",
+            "book_url": "/raggiesoft-books/books/luna-leo/emerald-endings",
             "chapters": [
                 {
                     "chap_num": 98,
                     "chap_title": "Chapter 98",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings/chapter-98",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/emerald-endings/chapter-98",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1759,7 +1759,7 @@
                 {
                     "chap_num": 99,
                     "chap_title": "Chapter 99",
-                    "chap_url": "/raggiesoft-books/books/luna-leo/the-great-north-american-excursion-emerald-endings/chapter-99",
+                    "chap_url": "/raggiesoft-books/books/luna-leo/emerald-endings/chapter-99",
                     "parts": [
                         {
                             "part_num": 1,
