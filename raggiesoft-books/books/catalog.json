@@ -68,7 +68,7 @@
         "title": "dream-kingdom",
         "description": "",
         "image": "",
-        "first_route": null,
+        "first_route": "/raggiesoft-books/books/dream-kingdom/book-1/chapter-1/part-1-untitled-chapter",
         "folder": "dream-kingdom"
     },
     {
@@ -132,7 +132,7 @@
         "title": "nate",
         "description": "",
         "image": "",
-        "first_route": null,
+        "first_route": "/raggiesoft-books/books/nate/book-1/chapter-1/part-1-untitled-chapter",
         "folder": "nate"
     },
     {
@@ -180,7 +180,7 @@
         "title": "samantha",
         "description": "",
         "image": "",
-        "first_route": null,
+        "first_route": "/raggiesoft-books/books/samantha/book-1/chapter-1/part-1-untitled-chapter",
         "folder": "samantha"
     },
     {
