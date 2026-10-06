@@ -55,12 +55,12 @@
     },
     {
         "slug": "bob-emily",
-        "title": "Bob Emily",
-        "description": "",
-        "image": "",
+        "title": "The Heart-Hum",
+        "description": "A heartfelt story of fifteen-year-old Emily and her wheelchair-using cousin Bob, who build an unbreakable bond and a private language called 'The Heart-Hum' to protect each other from a chaotic world.",
+        "image": "/raggiesoft-books/images/covers/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
         "folder": "bob-emily",
-        "hide": false
+        "hide": true
     },
     {
         "slug": "casey",
