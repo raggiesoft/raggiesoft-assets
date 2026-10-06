@@ -51,7 +51,7 @@
         "image": "/raggiesoft-books/images/covers/beth.jpg",
         "first_route": null,
         "folder": "beth",
-        "hide": false
+        "hide": true
     },
     {
         "slug": "bob-emily",
@@ -69,7 +69,7 @@
         "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey",
-        "hide": true
+        "hide": false
     },
     {
         "slug": "crimson-node",
