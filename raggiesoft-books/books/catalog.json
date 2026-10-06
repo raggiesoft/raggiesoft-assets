@@ -51,7 +51,7 @@
         "image": "/raggiesoft-books/images/covers/beth.jpg",
         "first_route": null,
         "folder": "beth",
-        "hide": true
+        "hide": false
     },
     {
         "slug": "bob-emily",
@@ -60,7 +60,7 @@
         "image": "/raggiesoft-books/images/covers/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
         "folder": "bob-emily",
-        "hide": true
+        "hide": false
     },
     {
         "slug": "casey",
