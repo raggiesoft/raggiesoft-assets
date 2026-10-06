@@ -1,1 +1,9 @@
-At twenty-one, Aubrie had her entire future mapped out as a star collegiate gymnast—until a micro-second miscalculation on the uneven bars changed everything. *Aubrie* is an emotional, deeply resonant story about identity, loss, and the grueling physical and mental journey of recovery. It’s a testament to the human spirit's ability to redefine itself when the original plan is shattered.
+Eighteen-year-old Aubrey Jordan Fuller has spent his entire life trapped in a suffocating bubble of isolation, controlled by his emotionally abusive mother. Non-verbal, autistic, and navigating the world in a manual wheelchair, his enrollment at Commonwealth Polytechnic Institute was supposed to be another stage for his mother's overbearing control. But a clerical error by the university housing office changes everything: Jordan is accidentally assigned to a dorm suite with five young women.
+
+Instead of rejecting him, they embrace him. Aubrie, Madison, Zoë, Lauren, and Hannah become the fierce, fiercely protective found family he never knew he needed. For the first time, Jordan experiences genuine kindness, unconditional support, and the freedom to define himself—starting with going by his middle name, Jordan.
+
+As their bond deepens, this newly formed family embarks on a groundbreaking global journey—from the therapeutic hot springs of Iceland and the universally accessible transit of Singapore, to a deeply emotional crossing of the Seto Inland Sea on the Ferry Hoshizora. In these accommodating environments, Jordan discovers a profound truth: the problem was never his disability, but the hostile world his mother forced him to inhabit.
+
+However, his mother refuses to let go. Their world tour culminates in a grueling transit from the Australian outback directly to a Virginia courtroom, where Jordan must face his greatest fear and fight for his legal guardianship, his independence, and his right to stay with the family who truly loves him.
+
+This is a powerful, heartwarming story of defiance, the profound impact of found family, and the journey to finally finding a safe harbor.
