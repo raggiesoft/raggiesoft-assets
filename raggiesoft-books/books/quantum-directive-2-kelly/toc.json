@@ -1,6 +1,6 @@
 {
     "series_title": "The Quantum Directive: Kelly's Cut",
-    "series_slug": "kelly",
+    "series_slug": "quantum-directive-2-kelly",
     "series_description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
     "series_description_long": "Experience the late-90s tech boom from the absolute trenches in *The Quantum Directive: Kelly's Cut*. Follow Kelly Madsen and her twin brother Ryan as they navigate grueling deadlines, high-stakes bug bashes, and the immense emotional weight of building the software that runs the world. This is a deeply personal, ground-level view of the people who quietly built the digital age.",
     "series_image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
@@ -10,12 +10,12 @@
         {
             "book_num": 1,
             "book_title": "The Anchor",
-            "book_url": "/raggiesoft-books/books/kelly/the-anchor",
+            "book_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Fork in the Road",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road",
                     "parts": [
                         {
                             "part_num": 1,
@@ -47,7 +47,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Keynote",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-keynote",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-keynote",
                     "parts": [
                         {
                             "part_num": 1,
@@ -104,7 +104,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Implosion",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-implosion",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-implosion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -121,7 +121,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Closing the Book",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/closing-the-book",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/closing-the-book",
                     "parts": [
                         {
                             "part_num": 1,
@@ -203,7 +203,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Welcome to Quantum",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/welcome-to-quantum",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/welcome-to-quantum",
                     "parts": [
                         {
                             "part_num": 1,
@@ -230,7 +230,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Bridge to Cupertino",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/the-bridge-to-cupertino",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-bridge-to-cupertino",
                     "parts": [
                         {
                             "part_num": 1,
@@ -292,7 +292,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Inside Infinite Loop",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/inside-infinite-loop",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/inside-infinite-loop",
                     "parts": [
                         {
                             "part_num": 1,
@@ -344,7 +344,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "A New Reality",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-anchor/a-new-reality",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-new-reality",
                     "parts": [
                         {
                             "part_num": 1,
@@ -393,18 +393,18 @@
         {
             "book_num": 2,
             "book_title": "The Bidding War as seen on DevNet",
-            "book_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet",
+            "book_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/chapter-1",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Players",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/the-players",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players",
                     "parts": [
                         {
                             "part_num": 1,
@@ -421,7 +421,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Choosing a Future",
-                    "chap_url": "/raggiesoft-books/books/kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future",
                     "parts": [
                         {
                             "part_num": 1,
@@ -435,7 +435,7 @@
         {
             "book_num": 3,
             "book_title": "Book 3",
-            "book_url": "/raggiesoft-books/books/kelly/book-3",
+            "book_url": "/raggiesoft-books/books/quantum-directive-2-kelly/book-3",
             "chapters": []
         }
     ]

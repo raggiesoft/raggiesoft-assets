@@ -1,6 +1,6 @@
 {
     "series_title": "The Quantum Directive: Jessica's Cut",
-    "series_slug": "jessica",
+    "series_slug": "quantum-directive-1-jessica",
     "series_description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
     "series_description_long": "Set against the frenetic backdrop of the late-90s tech boom, *The Quantum Directive: Jessica's Cut* follows Jessica Taylor as she navigates the intense, cutthroat pressures of management at Quantum. Balancing the demands of a massive tech conglomerate while fiercely protecting her team of talented developers, Jessica's story is a masterclass in leadership, resilience, and survival in Silicon Valley.",
     "series_image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
@@ -10,12 +10,12 @@
         {
             "book_num": 1,
             "book_title": "Currents and Crosswinds",
-            "book_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds",
+            "book_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Ordinary July",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july",
                     "parts": [
                         {
                             "part_num": 1,
@@ -102,7 +102,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Currents to Still Water",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/currents-to-still-water",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water",
                     "parts": [
                         {
                             "part_num": 1,
@@ -144,7 +144,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Spark of Rebellion",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-spark-of-rebellion",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -166,7 +166,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "The War Councils Assemble",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-war-councils-assemble",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble",
                     "parts": [
                         {
                             "part_num": 1,
@@ -183,7 +183,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "The Memo",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-memo",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-memo",
                     "parts": [
                         {
                             "part_num": 1,
@@ -200,7 +200,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "The Exodus",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-exodus",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus",
                     "parts": [
                         {
                             "part_num": 1,
@@ -217,7 +217,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Sanctuary Across the Lake",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/sanctuary-across-the-lake",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake",
                     "parts": [
                         {
                             "part_num": 1,
@@ -239,7 +239,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "The Fall of Aurora",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-fall-of-aurora",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora",
                     "parts": [
                         {
                             "part_num": 1,
@@ -276,7 +276,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "The Final Straw",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-final-straw",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw",
                     "parts": [
                         {
                             "part_num": 1,
@@ -293,7 +293,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "A New Beginning",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/a-new-beginning",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning",
                     "parts": [
                         {
                             "part_num": 1,
@@ -330,7 +330,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "The Bridge to Cupertino",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/the-bridge-to-cupertino",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino",
                     "parts": [
                         {
                             "part_num": 1,
@@ -417,7 +417,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "Bidding for the Twins",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/bidding-for-the-twins",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins",
                     "parts": [
                         {
                             "part_num": 1,
@@ -464,7 +464,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "A New Family",
-                    "chap_url": "/raggiesoft-books/books/jessica/currents-and-crosswinds/a-new-family",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family",
                     "parts": [
                         {
                             "part_num": 1,
@@ -493,18 +493,18 @@
         {
             "book_num": 2,
             "book_title": "Book 2",
-            "book_url": "/raggiesoft-books/books/jessica/book-2",
+            "book_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/jessica/book-2/chapter-1",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2/chapter-1",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/jessica/book-2/chapter-2",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2/chapter-2",
                     "parts": []
                 }
             ]

@@ -63,15 +63,6 @@
         "hide": false
     },
     {
-        "slug": "casey",
-        "title": "The Quantum Directive: The Caretakers",
-        "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
-        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
-        "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
-        "folder": "casey",
-        "hide": false
-    },
-    {
         "slug": "crimson-node",
         "title": "Crimson Node",
         "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
@@ -105,24 +96,6 @@
         "image": "/raggiesoft-books/images/covers/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
         "folder": "jack-sarah",
-        "hide": false
-    },
-    {
-        "slug": "jessica",
-        "title": "The Quantum Directive: Jessica's Cut",
-        "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
-        "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
-        "first_route": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
-        "folder": "jessica",
-        "hide": false
-    },
-    {
-        "slug": "kelly",
-        "title": "The Quantum Directive: Kelly's Cut",
-        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
-        "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
-        "first_route": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
-        "folder": "kelly",
         "hide": false
     },
     {
@@ -186,6 +159,33 @@
         "image": "/raggiesoft-books/images/covers/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/part-1-out-of-the-storm",
         "folder": "pebble-borrow",
+        "hide": false
+    },
+    {
+        "slug": "quantum-directive-1-jessica",
+        "title": "The Quantum Directive: Jessica's Cut",
+        "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
+        "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
+        "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
+        "folder": "quantum-directive-1-jessica",
+        "hide": false
+    },
+    {
+        "slug": "quantum-directive-2-kelly",
+        "title": "The Quantum Directive: Kelly's Cut",
+        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
+        "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
+        "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
+        "folder": "quantum-directive-2-kelly",
+        "hide": false
+    },
+    {
+        "slug": "quantum-directive-3-casey",
+        "title": "The Quantum Directive: The Caretakers",
+        "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
+        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
+        "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
+        "folder": "quantum-directive-3-casey",
         "hide": false
     },
     {

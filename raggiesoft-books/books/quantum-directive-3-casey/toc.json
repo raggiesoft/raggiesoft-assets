@@ -1,6 +1,6 @@
 {
     "series_title": "The Quantum Directive: The Caretakers",
-    "series_slug": "casey",
+    "series_slug": "quantum-directive-3-casey",
     "series_description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
     "series_description_long": "Grounded by the powerful executive authority of Cassandra Vance, *The Quantum Directive: The Caretakers* follows the Vance and Delaney siblings as they build an impenetrable emotional fortress that bridges the miles between Virginia Beach, Rhode Island, and Seattle. This corporate drama intricately weaves themes of found family, healing from deep trauma, and the complex maneuvers required to survive at the top of the tech world.",
     "series_image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
@@ -10,12 +10,12 @@
         {
             "book_num": 1,
             "book_title": "Book 1: The George Wythe Expedition",
-            "book_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Northern Regional",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional",
                     "parts": [
                         {
                             "part_num": 1,
@@ -42,7 +42,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Open House",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-2-the-open-house",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-2-the-open-house",
                     "parts": [
                         {
                             "part_num": 1,
@@ -79,7 +79,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The National Zoo",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-3-the-national-zoo",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-3-the-national-zoo",
                     "parts": [
                         {
                             "part_num": 1,
@@ -126,7 +126,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Return Vector",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-4-the-return-vector",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-4-the-return-vector",
                     "parts": [
                         {
                             "part_num": 1,
@@ -148,7 +148,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Morning After",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-5-the-morning-after",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-5-the-morning-after",
                     "parts": [
                         {
                             "part_num": 1,
@@ -165,7 +165,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The VDU Deployment",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-6-the-vdu-deployment",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-6-the-vdu-deployment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -192,7 +192,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: Week 1 - Coastal Ecology",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-7-week-1-coastal-ecology",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-7-week-1-coastal-ecology",
                     "parts": [
                         {
                             "part_num": 1,
@@ -214,7 +214,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Week 2 - Atmospheric Dynamics",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-8-week-2-atmospheric-dynamics",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-8-week-2-atmospheric-dynamics",
                     "parts": [
                         {
                             "part_num": 1,
@@ -231,7 +231,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: Week 3 - Aerospace",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-9-week-3-aerospace",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-9-week-3-aerospace",
                     "parts": [
                         {
                             "part_num": 1,
@@ -253,7 +253,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10: Week 4 - Marine Biology",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-10-week-4-marine-biology",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-10-week-4-marine-biology",
                     "parts": [
                         {
                             "part_num": 1,
@@ -275,7 +275,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11: Northwest Pacific",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-11-northwest-pacific",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-11-northwest-pacific",
                     "parts": [
                         {
                             "part_num": 1,
@@ -307,7 +307,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Open House",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-12-the-open-house",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-12-the-open-house",
                     "parts": [
                         {
                             "part_num": 1,
@@ -349,7 +349,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "The Emerald City",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/the-emerald-city",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/the-emerald-city",
                     "parts": [
                         {
                             "part_num": 1,
@@ -391,7 +391,7 @@
                 {
                     "chap_num": 14,
                     "chap_title": "Chapter 14: The Deep End",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-14-the-deep-end",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-14-the-deep-end",
                     "parts": [
                         {
                             "part_num": 1,
@@ -433,7 +433,7 @@
                 {
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Pre-Dawn Run",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-15-the-pre-dawn-run",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-15-the-pre-dawn-run",
                     "parts": [
                         {
                             "part_num": 1,
@@ -455,7 +455,7 @@
                 {
                     "chap_num": 16,
                     "chap_title": "Chapter 16: The Catalyst",
-                    "chap_url": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-16-the-catalyst",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-16-the-catalyst",
                     "parts": [
                         {
                             "part_num": 1,
@@ -479,12 +479,12 @@
         {
             "book_num": 2,
             "book_title": "Book 2: The Sovereign Perimeter",
-            "book_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Semester Baseline",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-1-the-semester-baseline",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-1-the-semester-baseline",
                     "parts": [
                         {
                             "part_num": 1,
@@ -511,7 +511,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Reboot",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-2-the-reboot",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-2-the-reboot",
                     "parts": [
                         {
                             "part_num": 1,
@@ -538,7 +538,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Chesapeake Deployment",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-3-the-chesapeake-deployment",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-3-the-chesapeake-deployment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -565,7 +565,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Patch",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-4-the-patch",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-4-the-patch",
                     "parts": [
                         {
                             "part_num": 1,
@@ -577,7 +577,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Delete Key",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-5-the-delete-key",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-5-the-delete-key",
                     "parts": [
                         {
                             "part_num": 1,
@@ -594,7 +594,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Three-Way Call",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-6-the-three-way-call",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-6-the-three-way-call",
                     "parts": [
                         {
                             "part_num": 1,
@@ -611,7 +611,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Mask",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-7-the-mask",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-7-the-mask",
                     "parts": [
                         {
                             "part_num": 1,
@@ -633,7 +633,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Ambush",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-8-the-ambush",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-8-the-ambush",
                     "parts": [
                         {
                             "part_num": 1,
@@ -655,7 +655,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Crossroads",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-9-the-crossroads",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-9-the-crossroads",
                     "parts": [
                         {
                             "part_num": 1,
@@ -687,7 +687,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10: The Severance",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-10-the-severance",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-10-the-severance",
                     "parts": [
                         {
                             "part_num": 1,
@@ -704,7 +704,7 @@
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11: The Executive Ascent",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-11-the-executive-ascent",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-11-the-executive-ascent",
                     "parts": [
                         {
                             "part_num": 1,
@@ -731,7 +731,7 @@
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Executive Departure",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-12-the-executive-departure",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-12-the-executive-departure",
                     "parts": [
                         {
                             "part_num": 1,
@@ -763,7 +763,7 @@
                 {
                     "chap_num": 13,
                     "chap_title": "Chapter 13: The Federal Way Perimeter",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-13-the-federal-way-perimeter",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-13-the-federal-way-perimeter",
                     "parts": [
                         {
                             "part_num": 1,
@@ -790,7 +790,7 @@
                 {
                     "chap_num": 14,
                     "chap_title": "Chapter 14: The Blackout",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-14-the-blackout",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-14-the-blackout",
                     "parts": [
                         {
                             "part_num": 1,
@@ -852,7 +852,7 @@
                 {
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Holiday Deployment",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-15-the-holiday-deployment",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-15-the-holiday-deployment",
                     "parts": [
                         {
                             "part_num": 1,
@@ -879,7 +879,7 @@
                 {
                     "chap_num": 16,
                     "chap_title": "Chapter 16: The Aquidneck Christmas",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-16-the-aquidneck-christmas",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-16-the-aquidneck-christmas",
                     "parts": [
                         {
                             "part_num": 1,
@@ -911,7 +911,7 @@
                 {
                     "chap_num": 17,
                     "chap_title": "Chapter 17: Christmas Day",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-17-christmas-day",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-17-christmas-day",
                     "parts": [
                         {
                             "part_num": 1,
@@ -938,7 +938,7 @@
                 {
                     "chap_num": 18,
                     "chap_title": "Chapter 18: Boxing Day in Braxton",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-18-boxing-day-in-braxton",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-18-boxing-day-in-braxton",
                     "parts": [
                         {
                             "part_num": 1,
@@ -970,7 +970,7 @@
                 {
                     "chap_num": 19,
                     "chap_title": "The Logistics of Luxury",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/the-logistics-of-luxury",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/the-logistics-of-luxury",
                     "parts": [
                         {
                             "part_num": 1,
@@ -997,7 +997,7 @@
                 {
                     "chap_num": 20,
                     "chap_title": "Chapter 20: The Chesapeake Bay Mall",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-20-the-chesapeake-bay-mall",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-20-the-chesapeake-bay-mall",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1019,7 +1019,7 @@
                 {
                     "chap_num": 21,
                     "chap_title": "Chapter 21: The Final Countdown",
-                    "chap_url": "/raggiesoft-books/books/casey/book-2-the-sovereign-perimeter/chapter-21-the-final-countdown",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-21-the-final-countdown",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1038,12 +1038,12 @@
         {
             "book_num": 3,
             "book_title": "Book 3: The NCLEX",
-            "book_url": "/raggiesoft-books/books/casey/book-3-the-nclex",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Licensure Exam",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-1-the-licensure-exam",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-1-the-licensure-exam",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1070,7 +1070,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Invasion",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-2-the-invasion",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-2-the-invasion",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1112,7 +1112,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Eastside Tour",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-3-the-eastside-tour",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-3-the-eastside-tour",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1139,7 +1139,7 @@
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Puget Sound Aquarium",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-4-the-puget-sound-aquarium",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-4-the-puget-sound-aquarium",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1171,7 +1171,7 @@
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Evergreen Marine",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-5-the-evergreen-marine",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-5-the-evergreen-marine",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1213,7 +1213,7 @@
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-6",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-6",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1240,7 +1240,7 @@
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The May Logistics",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-7-the-may-logistics",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-7-the-may-logistics",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1282,7 +1282,7 @@
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Prospector's Keep",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-8-the-prospector-s-keep",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-8-the-prospector-s-keep",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1304,7 +1304,7 @@
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-9",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-9",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1361,7 +1361,7 @@
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10",
-                    "chap_url": "/raggiesoft-books/books/casey/book-3-the-nclex/chapter-10",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-10",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1375,12 +1375,12 @@
         {
             "book_num": 4,
             "book_title": "Book 4: The Sovereign Empire",
-            "book_url": "/raggiesoft-books/books/casey/book-4-the-sovereign-empire",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Mandate",
-                    "chap_url": "/raggiesoft-books/books/casey/book-4-the-sovereign-empire/chapter-1-the-mandate",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-1-the-mandate",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1407,7 +1407,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Ground Truth",
-                    "chap_url": "/raggiesoft-books/books/casey/book-4-the-sovereign-empire/chapter-2-the-ground-truth",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-2-the-ground-truth",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1471,12 +1471,12 @@
         {
             "book_num": 5,
             "book_title": "Book 5: The Sovereign Ascension",
-            "book_url": "/raggiesoft-books/books/casey/book-5-the-sovereign-ascension",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Bloodline Convergence",
-                    "chap_url": "/raggiesoft-books/books/casey/book-5-the-sovereign-ascension/chapter-1-the-bloodline-convergence",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-1-the-bloodline-convergence",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1498,7 +1498,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The After Party",
-                    "chap_url": "/raggiesoft-books/books/casey/book-5-the-sovereign-ascension/chapter-2-the-after-party",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-2-the-after-party",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1542,12 +1542,12 @@
         {
             "book_num": 6,
             "book_title": "Book 6: The Sovereign Autonomy",
-            "book_url": "/raggiesoft-books/books/casey/book-6-the-sovereign-autonomy",
+            "book_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Silicon Valley Bypass",
-                    "chap_url": "/raggiesoft-books/books/casey/book-6-the-sovereign-autonomy/chapter-1-the-silicon-valley-bypass",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-1-the-silicon-valley-bypass",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1574,7 +1574,7 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fenwick Bridge Protocol",
-                    "chap_url": "/raggiesoft-books/books/casey/book-6-the-sovereign-autonomy/chapter-2-the-fenwick-bridge-protocol",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-2-the-fenwick-bridge-protocol",
                     "parts": [
                         {
                             "part_num": 1,
@@ -1631,7 +1631,7 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Connecticut Avenue Protocol",
-                    "chap_url": "/raggiesoft-books/books/casey/book-6-the-sovereign-autonomy/chapter-3-the-connecticut-avenue-protocol",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-3-the-connecticut-avenue-protocol",
                     "parts": [
                         {
                             "part_num": 1,
