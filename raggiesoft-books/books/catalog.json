@@ -1,45 +1,45 @@
 [
     {
         "slug": "aethel",
-        "title": "Aethel",
-        "description": "",
-        "image": "",
+        "title": "The Silver Gauntlet of Aethel",
+        "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
+        "image": "/raggiesoft-books/images/covers/aethel.jpg",
         "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
         "hide": false
     },
     {
         "slug": "alex-chloe",
-        "title": "Alex Chloe",
-        "description": "",
-        "image": "",
+        "title": "Beyond Words",
+        "description": "A beautiful, lifelong coming-of-age journey of connection, resilience, and the deeply profound platonic bond between Alex Miller, his cousin Megan, and his best friend Chlo\u00e9 Mason.",
+        "image": "/raggiesoft-books/images/covers/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/part-1-the-first-meeting",
         "folder": "alex-chloe",
         "hide": false
     },
     {
         "slug": "apex-fall-of-earth",
-        "title": "Apex Fall Of Earth",
-        "description": "",
-        "image": "",
+        "title": "Apex: Fall of Earth",
+        "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
+        "image": "/raggiesoft-books/images/covers/apex-fall-of-earth.jpg",
         "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044",
         "folder": "apex-fall-of-earth",
         "hide": false
     },
     {
         "slug": "ashley-tower",
-        "title": "Ashley Tower",
-        "description": "",
-        "image": "",
+        "title": "Fortress in the Clouds",
+        "description": "Donald's harrowing escape from Texas to the safety of the Fortress in the Clouds.",
+        "image": "/raggiesoft-books/images/covers/ashley-tower.jpg",
         "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/part-1-best-laid-plans-7-30-pm",
         "folder": "ashley-tower",
         "hide": false
     },
     {
         "slug": "aubrie",
-        "title": "Aubrie",
-        "description": "",
-        "image": "",
+        "title": "The Eleventh Child",
+        "description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
+        "image": "/raggiesoft-books/images/covers/aubrie.jpg",
         "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/part-1-the-drive",
         "folder": "aubrie",
         "hide": false
@@ -64,18 +64,18 @@
     },
     {
         "slug": "casey",
-        "title": "Casey",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: The Caretakers",
+        "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
+        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "casey",
-        "hide": false
+        "hide": true
     },
     {
         "slug": "crimson-node",
         "title": "Crimson Node",
-        "description": "",
-        "image": "",
+        "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
+        "image": "/raggiesoft-books/images/covers/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/part-1-anomalies",
         "folder": "crimson-node",
         "hide": false
@@ -83,8 +83,8 @@
     {
         "slug": "dream-kingdom",
         "title": "Dream Kingdom",
-        "description": "",
-        "image": "",
+        "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
+        "image": "/raggiesoft-books/images/covers/dream-kingdom.jpg",
         "first_route": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
         "folder": "dream-kingdom",
         "hide": false
@@ -92,35 +92,35 @@
     {
         "slug": "fractured-prisms",
         "title": "Fractured Prisms",
-        "description": "",
-        "image": "",
+        "description": "A mind-bending thriller exploring fragmented realities and the nature of truth.",
+        "image": "/raggiesoft-books/images/covers/fractured-prisms.jpg",
         "first_route": null,
         "folder": "fractured-prisms",
         "hide": false
     },
     {
         "slug": "jack-sarah",
-        "title": "Jack Sarah",
-        "description": "",
-        "image": "",
+        "title": "Jack & Sarah",
+        "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
+        "image": "/raggiesoft-books/images/covers/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
         "folder": "jack-sarah",
         "hide": false
     },
     {
         "slug": "jessica",
-        "title": "Jessica",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: Jessica's Cut",
+        "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
+        "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
         "first_route": "/raggiesoft-books/books/jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
         "folder": "jessica",
         "hide": false
     },
     {
         "slug": "kelly",
-        "title": "Kelly",
-        "description": "",
-        "image": "",
+        "title": "The Quantum Directive: Kelly's Cut",
+        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
+        "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
         "first_route": "/raggiesoft-books/books/kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
         "folder": "kelly",
         "hide": false
@@ -136,9 +136,9 @@
     },
     {
         "slug": "mary-childhood",
-        "title": "Mary Childhood",
-        "description": "",
-        "image": "",
+        "title": "Mary's Childhood",
+        "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
+        "image": "/raggiesoft-books/images/covers/mary-childhood.jpg",
         "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1/part-1-high-command",
         "folder": "mary-childhood",
         "hide": false
@@ -155,8 +155,8 @@
     {
         "slug": "nate",
         "title": "Nate",
-        "description": "",
-        "image": "",
+        "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
+        "image": "/raggiesoft-books/images/covers/nate.jpg",
         "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/part-1-untitled-chapter",
         "folder": "nate",
         "hide": false
@@ -164,8 +164,8 @@
     {
         "slug": "nichole",
         "title": "Nichole",
-        "description": "",
-        "image": "",
+        "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
+        "image": "/raggiesoft-books/images/covers/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad",
         "folder": "nichole",
         "hide": false
@@ -173,8 +173,8 @@
     {
         "slug": "paige",
         "title": "Paige",
-        "description": "",
-        "image": "",
+        "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
+        "image": "/raggiesoft-books/images/covers/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat",
         "folder": "paige",
         "hide": false
@@ -182,17 +182,17 @@
     {
         "slug": "pebble-borrow",
         "title": "Pebble Borrow",
-        "description": "",
-        "image": "",
+        "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
+        "image": "/raggiesoft-books/images/covers/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/part-1-out-of-the-storm",
         "folder": "pebble-borrow",
         "hide": false
     },
     {
         "slug": "rachel",
-        "title": "Rachel",
-        "description": "",
-        "image": "",
+        "title": "The Rachel Narrative",
+        "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+        "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
         "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/part-1-the-sensory-avalanche",
         "folder": "rachel",
         "hide": false
@@ -209,8 +209,8 @@
     {
         "slug": "samantha",
         "title": "Samantha",
-        "description": "",
-        "image": "",
+        "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
+        "image": "/raggiesoft-books/images/covers/samantha.jpg",
         "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/part-1-untitled-chapter",
         "folder": "samantha",
         "hide": false
