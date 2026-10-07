@@ -2,7 +2,7 @@
     "series_title": "Jack & Sarah",
     "series_slug": "jack-sarah",
     "series_description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
-    "series_description_long": "# Jack & Sarah\n\nA poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones. Jack and Sarah's narrative explores the complexities of their family dynamic, the healing power of shared experiences, and the ways in which they help each other navigate life's most difficult moments. It is a deeply emotional journey of growth and resilience.",
+    "series_description_long": "---\npov: \n  - Jack Bennett (primary)\n  - Sarah Bennett\n  - Molly Bennett\n  - Clare Bennett\nlocation: Virginia Beach, VA\ncharacters:\n  - Jermaine: Jack and Sarah's father\n  - Devin: Jermaine's brother, father to identical twins Molly and Clare\ntimeline_notes: >\n  When Delores comes into the picture: she is the SAME Delores from /luna-leo. \n  The events of Jack & Sarah (at least the scenes involving Delores) take place \n  AFTER Delores gets back to Virginia, after abusing Leo.\n---\n\n# Jack & Sarah\n\nA poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones. Jack and Sarah's narrative explores the complexities of their family dynamic, the healing power of shared experiences, and the ways in which they help each other navigate life's most difficult moments. It is a deeply emotional journey of growth and resilience.",
     "series_image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
     "next_series_url": "",
     "next_series_text": "",
@@ -144,137 +144,151 @@
                             "part_num": 11,
                             "part_title": "Part 11: Settling in for the Night \ud83d\udc68\u200d\ud83d\udc67\u200d\ud83d\udc66",
                             "file_path": "b001/c005/p011.md"
-                        },
-                        {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Long Night \ud83d\ude20",
-                            "file_path": "b001/c005/p012.md"
-                        },
-                        {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Turn \u23f0",
-                            "file_path": "b001/c005/p013.md"
-                        },
-                        {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Confirmation \u30ec\u30f3\u30c8\u30b2\u30f3",
-                            "file_path": "b001/c005/p014.md"
-                        },
-                        {
-                            "part_num": 15,
-                            "part_title": "Part 15: The Longest Night \ud83c\udf05",
-                            "file_path": "b001/c005/p015.md"
-                        },
-                        {
-                            "part_num": 16,
-                            "part_title": "Part 16: The Conti-Vac \ud83d\udca7",
-                            "file_path": "b001/c005/p016.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 6,
+                    "chap_title": "The Long Night",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-long-night",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Long Night \ud83d\ude20",
+                            "file_path": "b001/c006/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Turn \u23f0",
+                            "file_path": "b001/c006/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Confirmation \u30ec\u30f3\u30c8\u30b2\u30f3",
+                            "file_path": "b001/c006/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Longest Night \ud83c\udf05",
+                            "file_path": "b001/c006/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Conti-Vac \ud83d\udca7",
+                            "file_path": "b001/c006/p005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
                     "chap_title": "A New Day in the Hospital",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/a-new-day-in-the-hospital",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Morning Report",
-                            "file_path": "b001/c006/p001.md"
+                            "file_path": "b001/c007/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Longest Morning \ud83e\udd5e",
-                            "file_path": "b001/c006/p002.md"
+                            "file_path": "b001/c007/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Breathing Treatment",
-                            "file_path": "b001/c006/p003.md"
+                            "file_path": "b001/c007/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: A Glimmer of Hope \ud83d\ude2e\u200d\ud83d\udca8",
-                            "file_path": "b001/c006/p004.md"
+                            "file_path": "b001/c007/p004.md"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Fellowship of the Silver Gauntlet \ud83c\udfac",
-                            "file_path": "b001/c006/p005.md"
+                            "file_path": "b001/c007/p005.md"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: A Moment of Levity \ud83e\udd23",
-                            "file_path": "b001/c006/p006.md"
+                            "file_path": "b001/c007/p006.md"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The King of Trash Duty \ud83d\uddf3\ufe0f",
-                            "file_path": "b001/c006/p007.md"
+                            "file_path": "b001/c007/p007.md"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: A Taste of Victory \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
-                            "file_path": "b001/c006/p008.md"
+                            "file_path": "b001/c007/p008.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 7,
+                    "chap_num": 8,
                     "chap_title": "The Cost of the Crisis",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-cost-of-the-crisis",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Unsteady Step \ud83d\ude1f",
-                            "file_path": "b001/c007/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: A Flare-Up",
-                            "file_path": "b001/c007/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Turning of the Tide",
-                            "file_path": "b001/c007/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Last Night\u00a0\ud83d\ude34",
-                            "file_path": "b001/c007/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: Going Home",
-                            "file_path": "b001/c007/p005.md"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 8,
-                    "chap_title": "A Sanctuary of Sleep",
-                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/a-sanctuary-of-sleep",
-                    "parts": [
-                        {
-                            "part_num": 1,
-                            "part_title": "Part 1: Homecoming",
                             "file_path": "b001/c008/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Good News",
+                            "part_title": "Part 2: A Flare-Up",
                             "file_path": "b001/c008/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: A Quiet Lunch\u00a0\ud83e\udd6a",
+                            "part_title": "Part 3: The Turning of the Tide",
                             "file_path": "b001/c008/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Going Home",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/going-home",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Last Night\u00a0\ud83d\ude34",
+                            "file_path": "b001/c009/p001.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Promise of the Quad",
-                            "file_path": "b001/c008/p004.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Going Home",
+                            "file_path": "b001/c009/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Homecoming",
+                            "file_path": "b001/c009/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "A Day of Rest",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/a-day-of-rest",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Good News",
+                            "file_path": "b001/c010/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: A Quiet Lunch\u00a0\ud83e\udd6a",
+                            "file_path": "b001/c010/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Promise of the Quad",
+                            "file_path": "b001/c010/p003.md"
                         }
                     ]
                 }
@@ -299,304 +313,318 @@
                             "part_num": 2,
                             "part_title": "Part 2: The First Night",
                             "file_path": "b002/c001/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Journey In",
-                            "file_path": "b002/c001/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: Sarah\u2019s Incident",
-                            "file_path": "b002/c001/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: Tending to Sarah\u2019s Needs & Completing Their Vacation",
-                            "file_path": "b002/c001/p005.md"
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: A New Level of Trust",
-                            "file_path": "b002/c001/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: A Trip Made Easier",
-                            "file_path": "b002/c001/p007.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Sarah with an Injury",
-                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/sarah-with-an-injury",
+                    "chap_title": "The Journey In",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/the-journey-in",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Welcome Home to a Twisted Ankle",
+                            "part_title": "Part 1: The Journey In",
                             "file_path": "b002/c002/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Sarah\u2019s Incident",
+                            "file_path": "b002/c002/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Tending to Sarah\u2019s Needs & Completing Their Vacation",
+                            "file_path": "b002/c002/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: A New Level of Trust",
+                            "file_path": "b002/c002/p004.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Summer Dreams",
-                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/summer-dreams",
+                    "chap_title": "A Trip Made Easier",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/a-trip-made-easier",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Tent in a Backyard",
+                            "part_title": "Part 1: A Trip Made Easier",
                             "file_path": "b002/c003/p001.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 4,
+                    "chap_title": "Sarah with an Injury",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/sarah-with-an-injury",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Welcome Home to a Twisted Ankle",
+                            "file_path": "b002/c004/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Summer Dreams",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/summer-dreams",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Tent in a Backyard",
+                            "file_path": "b002/c005/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
                     "chap_title": "Delores",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/delores",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: University Open House",
-                            "file_path": "b002/c004/p001.md"
+                            "file_path": "b002/c006/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Tour",
-                            "file_path": "b002/c004/p002.md"
+                            "file_path": "b002/c006/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: An Unexpected Guide",
-                            "file_path": "b002/c004/p003.md"
+                            "file_path": "b002/c006/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Conversation Shifts",
-                            "file_path": "b002/c004/p004.md"
+                            "file_path": "b002/c006/p004.md"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Lunch in the Lion's Den",
-                            "file_path": "b002/c004/p005.md"
+                            "file_path": "b002/c006/p005.md"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: A Private Tour",
-                            "file_path": "b002/c004/p006.md"
+                            "file_path": "b002/c006/p006.md"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The Move",
-                            "file_path": "b002/c004/p007.md"
+                            "file_path": "b002/c006/p007.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 5,
+                    "chap_num": 7,
                     "chap_title": "Red Flags and Safe Harbors",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/red-flags-and-safe-harbors",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Cousin's Rescue",
-                            "file_path": "b002/c005/p001.md"
+                            "file_path": "b002/c007/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Rec Center Sanctuary",
-                            "file_path": "b002/c005/p002.md"
+                            "file_path": "b002/c007/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Closing Down a Rec Center",
-                            "file_path": "b002/c005/p003.md"
+                            "file_path": "b002/c007/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Conversations on a Ride Home",
-                            "file_path": "b002/c005/p004.md"
+                            "file_path": "b002/c007/p004.md"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: A Safe Harbor",
-                            "file_path": "b002/c005/p005.md"
+                            "file_path": "b002/c007/p005.md"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Coffee Date",
-                            "file_path": "b002/c005/p006.md"
+                            "file_path": "b002/c007/p006.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 6,
+                    "chap_num": 8,
                     "chap_title": "A Date with Delores",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/a-date-with-delores",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Unassuming Dinner",
-                            "file_path": "b002/c006/p001.md"
+                            "file_path": "b002/c008/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Dinner with Robyn and Delores",
-                            "file_path": "b002/c006/p002.md"
+                            "file_path": "b002/c008/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Interrogation",
-                            "file_path": "b002/c006/p003.md"
+                            "file_path": "b002/c008/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Manipulation",
-                            "file_path": "b002/c006/p004.md"
+                            "file_path": "b002/c008/p004.md"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Escape and the Hook",
-                            "file_path": "b002/c006/p005.md"
+                            "file_path": "b002/c008/p005.md"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: The Debrief",
-                            "file_path": "b002/c006/p006.md"
+                            "file_path": "b002/c008/p006.md"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: A Theory is Formed",
-                            "file_path": "b002/c006/p007.md"
+                            "file_path": "b002/c008/p007.md"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: The New Normal Begins",
-                            "file_path": "b002/c006/p008.md"
+                            "file_path": "b002/c008/p008.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 7,
+                    "chap_num": 9,
                     "chap_title": "Planning Sarah\u2019s Birthday",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/planning-sarah-s-birthday",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Mission for the Sister",
-                            "file_path": "b002/c007/p001.md"
+                            "file_path": "b002/c009/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Taste of Twin Magic",
-                            "file_path": "b002/c007/p002.md"
+                            "file_path": "b002/c009/p002.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 8,
+                    "chap_num": 10,
                     "chap_title": "Sarah Bennett, Reporting for Duty",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/sarah-bennett-reporting-for-duty",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Day of Dread and Duty",
-                            "file_path": "b002/c008/p001.md"
+                            "file_path": "b002/c010/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Sunday Morning at Fairlawn",
-                            "file_path": "b002/c008/p002.md"
+                            "file_path": "b002/c010/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Tale of Two Siblings",
-                            "file_path": "b002/c008/p003.md"
+                            "file_path": "b002/c010/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: A Shared Break",
-                            "file_path": "b002/c008/p004.md"
+                            "file_path": "b002/c010/p004.md"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Trial by Fecal Contamination",
-                            "file_path": "b002/c008/p005.md"
+                            "file_path": "b002/c010/p005.md"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: The Longest Shift",
-                            "file_path": "b002/c008/p006.md"
+                            "file_path": "b002/c010/p006.md"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Peking Duck Inn",
-                            "file_path": "b002/c008/p007.md"
+                            "file_path": "b002/c010/p007.md"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: A Dinner on Thin Ice",
-                            "file_path": "b002/c008/p008.md"
+                            "file_path": "b002/c010/p008.md"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: The Aftermath",
-                            "file_path": "b002/c008/p009.md"
+                            "file_path": "b002/c010/p009.md"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: A Safe Harbor at Home",
-                            "file_path": "b002/c008/p010.md"
+                            "file_path": "b002/c010/p010.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 9,
+                    "chap_num": 11,
                     "chap_title": "Confusion and Stress",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/confusion-and-stress",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Morning Shrouded in Fog \ud83e\udd63",
-                            "file_path": "b002/c009/p001.md"
+                            "file_path": "b002/c011/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Day of Confusion",
-                            "file_path": "b002/c009/p002.md"
+                            "file_path": "b002/c011/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Misfired Warning",
-                            "file_path": "b002/c009/p003.md"
+                            "file_path": "b002/c011/p003.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 10,
+                    "chap_num": 12,
                     "chap_title": "Welcome to Work",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/a-trip-to-washington-dc/welcome-to-work",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Off to Work",
-                            "file_path": "b002/c010/p001.md"
+                            "file_path": "b002/c012/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Morning at Fairlawn",
-                            "file_path": "b002/c010/p002.md"
+                            "file_path": "b002/c012/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: First Response",
-                            "file_path": "b002/c010/p003.md"
+                            "file_path": "b002/c012/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Mobile Emergency Room",
-                            "file_path": "b002/c010/p004.md"
+                            "file_path": "b002/c012/p004.md"
                         }
                     ]
                 }
@@ -656,55 +684,55 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "The Day of Surgery",
-                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-day-of-surgery",
-                    "parts": [
-                        {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Last Meal",
-                            "file_path": "b003/c002/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Journey to the OR",
-                            "file_path": "b003/c002/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: A Failed Procedure",
-                            "file_path": "b003/c002/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: A Veteran's Reassurance",
-                            "file_path": "b003/c002/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Transfer",
-                            "file_path": "b003/c002/p005.md"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 3,
                     "chap_title": "Heart Hospital",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/heart-hospital",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Serious Health Discussion",
-                            "file_path": "b003/c003/p001.md"
+                            "file_path": "b003/c002/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Off to the Operating Room",
-                            "file_path": "b003/c003/p002.md"
+                            "file_path": "b003/c002/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Waking Up in the Intensive Care Unit",
+                            "file_path": "b003/c002/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Day of Surgery",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-day-of-surgery",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Last Meal",
+                            "file_path": "b003/c003/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Journey to the OR",
+                            "file_path": "b003/c003/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: A Failed Procedure",
                             "file_path": "b003/c003/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: A Veteran's Reassurance",
+                            "file_path": "b003/c003/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Transfer",
+                            "file_path": "b003/c003/p005.md"
                         }
                     ]
                 },
@@ -796,110 +824,131 @@
                             "part_num": 2,
                             "part_title": "Part 2: First Night at the House",
                             "file_path": "b003/c006/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: A Taste of Home",
-                            "file_path": "b003/c006/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: A Visit to a Second Home",
-                            "file_path": "b003/c006/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: A Final Encounter",
-                            "file_path": "b003/c006/p005.md"
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: Building a Sanctuary",
-                            "file_path": "b003/c006/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: Room Service",
-                            "file_path": "b003/c006/p007.md"
-                        },
-                        {
-                            "part_num": 8,
-                            "part_title": "Part 8: The First Tour",
-                            "file_path": "b003/c006/p008.md"
-                        },
-                        {
-                            "part_num": 9,
-                            "part_title": "Part 9: A Cheesy Sanctuary",
-                            "file_path": "b003/c006/p009.md"
-                        },
-                        {
-                            "part_num": 10,
-                            "part_title": "Part 10: A Collector's Edition",
-                            "file_path": "b003/c006/p010.md"
-                        },
-                        {
-                            "part_num": 11,
-                            "part_title": "Part 11: Dinner and Bonus Features",
-                            "file_path": "b003/c006/p011.md"
-                        },
-                        {
-                            "part_num": 12,
-                            "part_title": "Part 12: A Sanctuary Decorated",
-                            "file_path": "b003/c006/p012.md"
-                        },
-                        {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Biological Deadline",
-                            "file_path": "b003/c006/p013.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 7,
+                    "chap_title": "A Taste of Home",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/a-taste-of-home",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: A Taste of Home",
+                            "file_path": "b003/c007/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: A Visit to a Second Home",
+                            "file_path": "b003/c007/p002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "A Final Encounter",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/a-final-encounter",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: A Final Encounter",
+                            "file_path": "b003/c008/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Building a Sanctuary",
+                            "file_path": "b003/c008/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Room Service",
+                            "file_path": "b003/c008/p003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "The First Tour",
+                    "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-first-tour",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The First Tour",
+                            "file_path": "b003/c009/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: A Cheesy Sanctuary",
+                            "file_path": "b003/c009/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: A Collector's Edition",
+                            "file_path": "b003/c009/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Dinner and Bonus Features",
+                            "file_path": "b003/c009/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: A Sanctuary Decorated",
+                            "file_path": "b003/c009/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Biological Deadline",
+                            "file_path": "b003/c009/p006.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
                     "chap_title": "The Long Road Ahead",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/the-long-road-ahead",
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Windsor Woods Realization",
-                            "file_path": "b003/c007/p001.md"
+                            "file_path": "b003/c010/p001.md"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Long Walk Home",
-                            "file_path": "b003/c007/p002.md"
+                            "file_path": "b003/c010/p002.md"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Sister-Shield",
-                            "file_path": "b003/c007/p003.md"
+                            "file_path": "b003/c010/p003.md"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: A New Kind of Housebound",
-                            "file_path": "b003/c007/p004.md"
+                            "file_path": "b003/c010/p004.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 8,
+                    "chap_num": 11,
                     "chap_title": "A Quiet Refusal",
                     "chap_url": "/raggiesoft-books/books/jack-sarah/heart-attack/a-quiet-refusal",
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Midnight Showing",
-                            "file_path": "b003/c008/p001.md"
+                            "part_title": "Part 1: A Delayed Rejection",
+                            "file_path": "b003/c011/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: A Delayed Rejection",
-                            "file_path": "b003/c008/p002.md"
+                            "part_title": "Part 2: A Protector's Concern",
+                            "file_path": "b003/c011/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: A Protector's Concern",
-                            "file_path": "b003/c008/p003.md"
+                            "part_title": "Part 3: The Midnight Showing",
+                            "file_path": "b003/c011/p003.md"
                         }
                     ]
                 }
