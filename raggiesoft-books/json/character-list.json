@@ -1,986 +1,1014 @@
 [
-    {
-        "firstName": "Alyssa",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/brooks-alyssa.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/brooks-alyssa",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Amanda",
-        "lastName": "Clark",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/clark-amanda.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/clark-amanda",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Amaya",
-        "lastName": "Rios",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/rios-amaya.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/rios-amaya",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Amber",
-        "lastName": "Mitchell",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/mitchell-amber.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/mitchell-amber",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Amy",
-        "lastName": "Ouellette",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/real/autistic-warning/ouellette-amy.md",
-        "duplicateApprovalReason": "",
-        "slug": "autistic-warning/ouellette-amy",
-        "category": "real",
-        "story": "autistic-warning"
-    },
-    {
-        "firstName": "April",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/rachel/april.md",
-        "duplicateApprovalReason": "",
-        "slug": "rachel/april",
-        "category": "fictional",
-        "story": "rachel"
-    },
-    {
-        "firstName": "Arthur",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/vance-arthur.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/vance-arthur",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Arthur",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/vance-arthur.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/arthur-vance",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Ashley",
-        "lastName": "Williams",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/williams-ashley.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/williams-ashley",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Bernard",
-        "lastName": "Morgan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/morgan-bernard.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/morgan-bernard",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Bernard",
-        "lastName": "Morgan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/morgan-bernard.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/bernard-morgan",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Brittany",
-        "lastName": "Torres",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/torres-brittany.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/torres-brittany",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Casey",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/casey-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/casey-vance",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Casper",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-casper.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/brooks-casper",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Cassandra",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/cassandra-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/cassandra-vance",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Cassidy",
-        "lastName": "O'Connell",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-cassidy.md",
-        "duplicateApprovalReason": "",
-        "slug": "stardust-engine/cassidy-oconnell",
-        "category": "fictional",
-        "story": "stardust-engine"
-    },
-    {
-        "firstName": "Chelsea",
-        "lastName": "Sullivan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/sullivan-chelsea.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/sullivan-chelsea",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Chloe",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-chloe.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/brooks-chloe",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Chloe",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-chloe.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/chloe-brooks",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Chloe",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/chloe-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/chloe-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Claire",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/claire-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/claire-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Claire",
-        "lastName": "Manning",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-claire.md",
-        "duplicateApprovalReason": "",
-        "slug": "fractured-prisms/claire-manning",
-        "category": "fictional",
-        "story": "fractured-prisms"
-    },
-    {
-        "firstName": "Colin",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/colin.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/colin",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Courtney",
-        "lastName": "Evans",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/evans-courtney.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/evans-courtney",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Courtney",
-        "lastName": "Evans",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/evans-courtney.md",
-        "duplicateApprovalReason": "Duplicate of existing character in amaya",
-        "slug": "shiloh/evans-courtney",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Courtney",
-        "lastName": "Evans",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/evans-courtney.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/courtney-evans",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Danielle",
-        "lastName": "Morgan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/morgan-danielle.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/morgan-danielle",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "David",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/david-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/david-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "David",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-david.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-david",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "David",
-        "lastName": "Patterson",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/patterson-david.md",
-        "duplicateApprovalReason": "",
-        "slug": "david-meredith/patterson-david",
-        "category": "fictional",
-        "story": "david-meredith"
-    },
-    {
-        "firstName": "David",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/david-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/david-vance",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Dennis",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/dennis.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/dennis",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Eleanor",
-        "lastName": "Bouchard",
-        "fullName": "Eleanor",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/eleanor.md",
-        "slug": "ova/eleanor"
-    },
-    {
-        "firstName": "Eleanor",
-        "lastName": "Donovan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/eleanor-donovan.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/eleanor-donovan",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Elise",
-        "lastName": "Pelletier",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/other/pelletier-elise.md",
-        "duplicateApprovalReason": "",
-        "slug": "other/pelletier-elise",
-        "category": "fictional",
-        "story": "other"
-    },
-    {
-        "firstName": "Elise",
-        "lastName": "Pelletier",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elise.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/elise-pelletier",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Elizabeth",
-        "lastName": "Parker",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/parker-elizabeth.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/parker-elizabeth",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Elodie",
-        "lastName": "Pelletier",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elodie.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/elodie-pelletier",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Emily",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-emily.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-emily",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Emily",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-emily.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/emily-miller",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Erin",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/erin-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/erin-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Evan",
-        "lastName": "Wright",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-evan.md",
-        "duplicateApprovalReason": "",
-        "slug": "stardust-engine/evan-wright",
-        "category": "fictional",
-        "story": "stardust-engine"
-    },
-    {
-        "firstName": "Hailey",
-        "lastName": "Bouchard",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/bouchard-hailey.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/bouchard-hailey",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Hailey",
-        "lastName": "Bouchard",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-hailey.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/hailey-bouchard",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Heather",
-        "lastName": "Bouchard",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/bouchard-heather.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/bouchard-heather",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Heather",
-        "lastName": "Bouchard",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-heather.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/heather-bouchard",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Holly",
-        "lastName": "O'Connell",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-holly.md",
-        "duplicateApprovalReason": "",
-        "slug": "stardust-engine/holly-oconnell",
-        "category": "fictional",
-        "story": "stardust-engine"
-    },
-    {
-        "firstName": "Isabel",
-        "lastName": "Bouchard",
-        "fullName": "Isabel",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/isabel.md",
-        "slug": "ova/isabel"
-    },
-    {
-        "firstName": "Isabel",
-        "lastName": "Donovan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/isabel-donovan.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/isabel-donovan",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Jasmine",
-        "lastName": "Washington",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/washington-jasmine.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/washington-jasmine",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Jessica",
-        "lastName": "Barnes",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/barnes-jessica.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/barnes-jessica",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Jessica",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-jessica.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/brooks-jessica",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Jessica",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-jessica.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/jessica-brooks",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Joanne",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/joanne.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/joanne",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Justin",
-        "lastName": "Hayes",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hayes-justin.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/hayes-justin",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Kate",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/kate.md",
-        "duplicateApprovalReason": "",
-        "slug": "david-meredith/kate",
-        "category": "fictional",
-        "story": "david-meredith"
-    },
-    {
-        "firstName": "Kate",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/kate-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/kate-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Katrina",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-katrina.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/brooks-katrina",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Kelsey",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/kelsey.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/kelsey",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Kristin",
-        "lastName": "Ouellette",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/real/autistic-warning/ouellette-kristin.md",
-        "duplicateApprovalReason": "",
-        "slug": "autistic-warning/ouellette-kristin",
-        "category": "real",
-        "story": "autistic-warning"
-    },
-    {
-        "firstName": "Lauren",
-        "lastName": "Bennett",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/bennett-lauren.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/bennett-lauren",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Leo",
-        "lastName": "Porter",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/leo-porter.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/leo-porter",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Linda",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-linda.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-linda",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Liz",
-        "lastName": "Carter",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/liz-carter.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/liz-carter",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Logan",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/logan.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/logan",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Luna",
-        "lastName": "Porter",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/luna-porter.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/luna-porter",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Marcus",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/marcus.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/marcus",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Matt",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-matt.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-matt",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Matt",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-matt.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/matt-miller",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Megan",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/megan-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/megan-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Meredith",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/delaney-meredith.md",
-        "duplicateApprovalReason": "",
-        "slug": "david-meredith/delaney-meredith",
-        "category": "fictional",
-        "story": "david-meredith"
-    },
-    {
-        "firstName": "Meredith",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/meredith-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/meredith-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Meredith",
-        "lastName": "Hayes",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hayes-meredith.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/hayes-meredith",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Morgan",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/delaney-morgan.md",
-        "duplicateApprovalReason": "",
-        "slug": "david-meredith/delaney-morgan",
-        "category": "fictional",
-        "story": "david-meredith"
-    },
-    {
-        "firstName": "Morgan",
-        "lastName": "Delaney",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/morgan-delaney.md",
-        "duplicateApprovalReason": "",
-        "slug": "meredith/morgan-delaney",
-        "category": "fictional",
-        "story": "meredith"
-    },
-    {
-        "firstName": "Mrs",
-        "lastName": "Demarco",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/demarco-mrs.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/demarco-mrs",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Mrs",
-        "lastName": "Demarco",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/demarco-mrs.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/mrs-demarco",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Mrs",
-        "lastName": "Periwinkle",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/periwinkle-mrs.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/periwinkle-mrs",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Mrs",
-        "lastName": "Periwinkle",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/periwinkle-mrs.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/mrs-periwinkle",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Nadine",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/nadine.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/nadine",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Nichole",
-        "lastName": "Foster",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/foster-nichole.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/foster-nichole",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Oliver",
-        "lastName": "Bouchard",
-        "fullName": "Oliver",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/oliver.md",
-        "slug": "ova/oliver"
-    },
-    {
-        "firstName": "Oliver",
-        "lastName": "Callahan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/oliver-callahan.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/oliver-callahan",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Olivia",
-        "lastName": "Bouchard",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/olivia-bouchard.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/olivia-bouchard",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Peter",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-peter.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-peter",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Rachel",
-        "lastName": "Davis",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/davis-rachel.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/davis-rachel",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Rachel",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-rachel.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-rachel",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Rachel",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-rachel.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/rachel-miller",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Rhys",
-        "lastName": "Manning",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-rhys.md",
-        "duplicateApprovalReason": "",
-        "slug": "fractured-prisms/rhys-manning",
-        "category": "fictional",
-        "story": "fractured-prisms"
-    },
-    {
-        "firstName": "Ryan",
-        "lastName": "O'Connell",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-ryan.md",
-        "duplicateApprovalReason": "",
-        "slug": "stardust-engine/ryan-oconnell",
-        "category": "fictional",
-        "story": "stardust-engine"
-    },
-    {
-        "firstName": "Samantha",
-        "lastName": "Hughes",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hughes-samantha.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/hughes-samantha",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Sarah",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-sarah.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-sarah",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Sarah",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-sarah.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/sarah-miller",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Shiloh",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-shiloh.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/brooks-shiloh",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Shiloh",
-        "lastName": "Brooks",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-shiloh.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/shiloh-brooks",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Sophia",
-        "lastName": "Callahan",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/sophia-callahan.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/sophia-callahan",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Stella",
-        "lastName": "Porter",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/stella-porter.md",
-        "duplicateApprovalReason": "",
-        "slug": "luna-leo/stella-porter",
-        "category": "fictional",
-        "story": "luna-leo"
-    },
-    {
-        "firstName": "Stephanie",
-        "lastName": "Reed",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/reed-stephanie.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/reed-stephanie",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Susan",
-        "lastName": "Miller",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-susan.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/miller-susan",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Taylor",
-        "lastName": "Jenkins",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/jenkins-taylor.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/jenkins-taylor",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "The",
-        "lastName": "Pelletier Twins",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/twins-the-pelletier.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/the-pelletier-twins",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Tom",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/tom-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/tom-vance",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Trent",
-        "lastName": "Montgomery",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/montgomery-trent.md",
-        "duplicateApprovalReason": "",
-        "slug": "shiloh/montgomery-trent",
-        "category": "fictional",
-        "story": "shiloh"
-    },
-    {
-        "firstName": "Trent",
-        "lastName": "Montgomery",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/montgomery-trent.md",
-        "duplicateApprovalReason": "",
-        "slug": "crimson-node/trent-montgomery",
-        "category": "fictional",
-        "story": "crimson-node"
-    },
-    {
-        "firstName": "Tyler",
-        "lastName": "Wright",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-tyler.md",
-        "duplicateApprovalReason": "",
-        "slug": "stardust-engine/tyler-wright",
-        "category": "fictional",
-        "story": "stardust-engine"
-    },
-    {
-        "firstName": "Valerie",
-        "lastName": "",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/valerie.md",
-        "duplicateApprovalReason": "",
-        "slug": "jack-sarah/valerie",
-        "category": "fictional",
-        "story": "jack-sarah"
-    },
-    {
-        "firstName": "Vera",
-        "lastName": "Kowalski",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/kowalski-vera.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/kowalski-vera",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Victoria",
-        "lastName": "Lawson",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/lawson-victoria.md",
-        "duplicateApprovalReason": "",
-        "slug": "amaya/lawson-victoria",
-        "category": "fictional",
-        "story": "amaya"
-    },
-    {
-        "firstName": "Victoria",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/victoria-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/victoria-vance",
-        "category": "fictional",
-        "story": "casey"
-    },
-    {
-        "firstName": "Wendy",
-        "lastName": "Vance",
-        "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/wendy-vance.md",
-        "duplicateApprovalReason": "",
-        "slug": "casey/wendy-vance",
-        "category": "fictional",
-        "story": "casey"
-    }
+  {
+    "firstName": "Alyssa",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/brooks-alyssa.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/brooks-alyssa",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Amanda",
+    "lastName": "Clark",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/clark-amanda.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/clark-amanda",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Amaya",
+    "lastName": "Rios",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/rios-amaya.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/rios-amaya",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Amber",
+    "lastName": "Mitchell",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/mitchell-amber.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/mitchell-amber",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Amy",
+    "lastName": "Ouellette",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/real/autistic-warning/ouellette-amy.md",
+    "duplicateApprovalReason": "",
+    "slug": "autistic-warning/ouellette-amy",
+    "category": "real",
+    "story": "autistic-warning"
+  },
+  {
+    "firstName": "April",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/rachel/april.md",
+    "duplicateApprovalReason": "",
+    "slug": "rachel/april",
+    "category": "fictional",
+    "story": "rachel"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/vance-arthur.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/vance-arthur",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Arthur",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/vance-arthur.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/arthur-vance",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Ashley",
+    "lastName": "Williams",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/williams-ashley.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/williams-ashley",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Morgan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/morgan-bernard.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/morgan-bernard",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Bernard",
+    "lastName": "Morgan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/morgan-bernard.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/bernard-morgan",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Brittany",
+    "lastName": "Torres",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/torres-brittany.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/torres-brittany",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Casey",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/casey-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/casey-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Casper",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-casper.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/brooks-casper",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Cassandra",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/cassandra-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/cassandra-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Cassidy",
+    "lastName": "O'Connell",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-cassidy.md",
+    "duplicateApprovalReason": "",
+    "slug": "stardust-engine/cassidy-oconnell",
+    "category": "fictional",
+    "story": "stardust-engine"
+  },
+  {
+    "firstName": "Chelsea",
+    "lastName": "Sullivan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/sullivan-chelsea.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/sullivan-chelsea",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-chloe.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/brooks-chloe",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-chloe.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/chloe-brooks",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Chloe",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/chloe-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/chloe-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/claire-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/claire-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Claire",
+    "lastName": "Manning",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-claire.md",
+    "duplicateApprovalReason": "",
+    "slug": "fractured-prisms/claire-manning",
+    "category": "fictional",
+    "story": "fractured-prisms"
+  },
+  {
+    "firstName": "Colin",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/colin.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/colin",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Courtney",
+    "lastName": "Evans",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/evans-courtney.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/evans-courtney",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Courtney",
+    "lastName": "Evans",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/evans-courtney.md",
+    "duplicateApprovalReason": "Duplicate of existing character in amaya",
+    "slug": "shiloh/evans-courtney",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Courtney",
+    "lastName": "Evans",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/evans-courtney.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/courtney-evans",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Danielle",
+    "lastName": "Morgan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/morgan-danielle.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/morgan-danielle",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/david-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/david-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-david.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-david",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Patterson",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/patterson-david.md",
+    "duplicateApprovalReason": "",
+    "slug": "david-meredith/patterson-david",
+    "category": "fictional",
+    "story": "david-meredith"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/david-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/david-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/dennis.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/dennis",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Eleanor",
+    "lastName": "Bouchard",
+    "fullName": "Eleanor",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/eleanor.md",
+    "slug": "ova/eleanor"
+  },
+  {
+    "firstName": "Eleanor",
+    "lastName": "Donovan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/eleanor-donovan.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/eleanor-donovan",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Pelletier",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/other/pelletier-elise.md",
+    "duplicateApprovalReason": "",
+    "slug": "other/pelletier-elise",
+    "category": "fictional",
+    "story": "other"
+  },
+  {
+    "firstName": "Elise",
+    "lastName": "Pelletier",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elise.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/elise-pelletier",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Elizabeth",
+    "lastName": "Parker",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/parker-elizabeth.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/parker-elizabeth",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Elodie",
+    "lastName": "Pelletier",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/pelletier-elodie.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/elodie-pelletier",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-emily.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-emily",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-emily.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/emily-miller",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Erin",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/erin-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/erin-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Evan",
+    "lastName": "Wright",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-evan.md",
+    "duplicateApprovalReason": "",
+    "slug": "stardust-engine/evan-wright",
+    "category": "fictional",
+    "story": "stardust-engine"
+  },
+  {
+    "firstName": "Hailey",
+    "lastName": "Bouchard",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/bouchard-hailey.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/bouchard-hailey",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Hailey",
+    "lastName": "Bouchard",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-hailey.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/hailey-bouchard",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Bouchard",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/bouchard-heather.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/bouchard-heather",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Heather",
+    "lastName": "Bouchard",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/bouchard-heather.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/heather-bouchard",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Holly",
+    "lastName": "O'Connell",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-holly.md",
+    "duplicateApprovalReason": "",
+    "slug": "stardust-engine/holly-oconnell",
+    "category": "fictional",
+    "story": "stardust-engine"
+  },
+  {
+    "firstName": "Isabel",
+    "lastName": "Bouchard",
+    "fullName": "Isabel",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/isabel.md",
+    "slug": "ova/isabel"
+  },
+  {
+    "firstName": "Isabel",
+    "lastName": "Donovan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/isabel-donovan.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/isabel-donovan",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Jasmine",
+    "lastName": "Washington",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/washington-jasmine.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/washington-jasmine",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Barnes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/barnes-jessica.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/barnes-jessica",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-jessica.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/brooks-jessica",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Jessica",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-jessica.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/jessica-brooks",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Joanne",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/joanne.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/joanne",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Justin",
+    "lastName": "Hayes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hayes-justin.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/hayes-justin",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/kate.md",
+    "duplicateApprovalReason": "",
+    "slug": "david-meredith/kate",
+    "category": "fictional",
+    "story": "david-meredith"
+  },
+  {
+    "firstName": "Kate",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/kate-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/kate-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Katrina",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-katrina.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/brooks-katrina",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Kelsey",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/kelsey.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/kelsey",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Kristin",
+    "lastName": "Ouellette",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/real/autistic-warning/ouellette-kristin.md",
+    "duplicateApprovalReason": "",
+    "slug": "autistic-warning/ouellette-kristin",
+    "category": "real",
+    "story": "autistic-warning"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Bennett",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/bennett-lauren.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/bennett-lauren",
+    "category": "fictional",
+    "story": "amaya",
+    "description": "Grand-niece of Arthur Bennett. She is unaware that she is related to Eleanor Bennett, the namesake of her dorm building."
+  },
+  {
+    "firstName": "Leo",
+    "lastName": "Porter",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/leo-porter.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/leo-porter",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Linda",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-linda.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-linda",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Liz",
+    "lastName": "Carter",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/liz-carter.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/liz-carter",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Logan",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/logan.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/logan",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Luna",
+    "lastName": "Porter",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/luna-porter.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/luna-porter",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/marcus.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/marcus",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-matt.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-matt",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Matt",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-matt.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/matt-miller",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Megan",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/megan-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/megan-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Meredith",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/delaney-meredith.md",
+    "duplicateApprovalReason": "",
+    "slug": "david-meredith/delaney-meredith",
+    "category": "fictional",
+    "story": "david-meredith"
+  },
+  {
+    "firstName": "Meredith",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/meredith-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/meredith-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Meredith",
+    "lastName": "Hayes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hayes-meredith.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/hayes-meredith",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/david-meredith/delaney-morgan.md",
+    "duplicateApprovalReason": "",
+    "slug": "david-meredith/delaney-morgan",
+    "category": "fictional",
+    "story": "david-meredith"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Delaney",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/meredith/morgan-delaney.md",
+    "duplicateApprovalReason": "",
+    "slug": "meredith/morgan-delaney",
+    "category": "fictional",
+    "story": "meredith"
+  },
+  {
+    "firstName": "Mrs",
+    "lastName": "Demarco",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/demarco-mrs.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/demarco-mrs",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Mrs",
+    "lastName": "Demarco",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/demarco-mrs.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/mrs-demarco",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Mrs",
+    "lastName": "Periwinkle",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/periwinkle-mrs.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/periwinkle-mrs",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Mrs",
+    "lastName": "Periwinkle",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/periwinkle-mrs.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/mrs-periwinkle",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Nadine",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/nadine.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/nadine",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Nichole",
+    "lastName": "Foster",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/foster-nichole.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/foster-nichole",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Bouchard",
+    "fullName": "Oliver",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/ova/oliver.md",
+    "slug": "ova/oliver"
+  },
+  {
+    "firstName": "Oliver",
+    "lastName": "Callahan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/oliver-callahan.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/oliver-callahan",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Olivia",
+    "lastName": "Bouchard",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/olivia-bouchard.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/olivia-bouchard",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Peter",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-peter.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-peter",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Davis",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/davis-rachel.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/davis-rachel",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-rachel.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-rachel",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Rachel",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-rachel.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/rachel-miller",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Rhys",
+    "lastName": "Manning",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-rhys.md",
+    "duplicateApprovalReason": "",
+    "slug": "fractured-prisms/rhys-manning",
+    "category": "fictional",
+    "story": "fractured-prisms"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "O'Connell",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/oconnell-ryan.md",
+    "duplicateApprovalReason": "",
+    "slug": "stardust-engine/ryan-oconnell",
+    "category": "fictional",
+    "story": "stardust-engine"
+  },
+  {
+    "firstName": "Samantha",
+    "lastName": "Hughes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/hughes-samantha.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/hughes-samantha",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-sarah.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-sarah",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/miller-sarah.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/sarah-miller",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Shiloh",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/brooks-shiloh.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/brooks-shiloh",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Shiloh",
+    "lastName": "Brooks",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/brooks-shiloh.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/shiloh-brooks",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Callahan",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/sophia-callahan.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/sophia-callahan",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Stella",
+    "lastName": "Porter",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/luna-leo/stella-porter.md",
+    "duplicateApprovalReason": "",
+    "slug": "luna-leo/stella-porter",
+    "category": "fictional",
+    "story": "luna-leo"
+  },
+  {
+    "firstName": "Stephanie",
+    "lastName": "Reed",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/reed-stephanie.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/reed-stephanie",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Susan",
+    "lastName": "Miller",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-susan.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/miller-susan",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Taylor",
+    "lastName": "Jenkins",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/jenkins-taylor.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/jenkins-taylor",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "The",
+    "lastName": "Pelletier Twins",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/twins-the-pelletier.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/the-pelletier-twins",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Tom",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/tom-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/tom-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Trent",
+    "lastName": "Montgomery",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/montgomery-trent.md",
+    "duplicateApprovalReason": "",
+    "slug": "shiloh/montgomery-trent",
+    "category": "fictional",
+    "story": "shiloh"
+  },
+  {
+    "firstName": "Trent",
+    "lastName": "Montgomery",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/crimson-node/montgomery-trent.md",
+    "duplicateApprovalReason": "",
+    "slug": "crimson-node/trent-montgomery",
+    "category": "fictional",
+    "story": "crimson-node"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Wright",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/stardust-engine/wright-tyler.md",
+    "duplicateApprovalReason": "",
+    "slug": "stardust-engine/tyler-wright",
+    "category": "fictional",
+    "story": "stardust-engine"
+  },
+  {
+    "firstName": "Valerie",
+    "lastName": "",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/valerie.md",
+    "duplicateApprovalReason": "",
+    "slug": "jack-sarah/valerie",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Vera",
+    "lastName": "Kowalski",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/kowalski-vera.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/kowalski-vera",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Lawson",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/lawson-victoria.md",
+    "duplicateApprovalReason": "",
+    "slug": "amaya/lawson-victoria",
+    "category": "fictional",
+    "story": "amaya"
+  },
+  {
+    "firstName": "Victoria",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/victoria-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/victoria-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Wendy",
+    "lastName": "Vance",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/casey/wendy-vance.md",
+    "duplicateApprovalReason": "",
+    "slug": "casey/wendy-vance",
+    "category": "fictional",
+    "story": "casey"
+  },
+  {
+    "firstName": "Lauren",
+    "lastName": "Barnes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/aubrie/barnes-lauren.md",
+    "duplicateApprovalReason": "",
+    "slug": "aubrie/barnes-lauren",
+    "category": "fictional",
+    "story": "aubrie"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Bennett",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-jack.md",
+    "duplicateApprovalReason": "Different Jack",
+    "slug": "jack-sarah/bennett-jack",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Sarah",
+    "lastName": "Bennett",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-sarah.md",
+    "duplicateApprovalReason": "Different Sarah",
+    "slug": "jack-sarah/bennett-sarah",
+    "category": "fictional",
+    "story": "jack-sarah"
+  }
 ]
