@@ -3,7 +3,7 @@
         "slug": "aethel",
         "title": "The Silver Gauntlet of Aethel",
         "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
-        "image": "/raggiesoft-books/images/covers/aethel.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
         "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
         "hide": false
@@ -12,7 +12,7 @@
         "slug": "alex-chloe",
         "title": "Beyond Words",
         "description": "A beautiful, lifelong coming-of-age journey of connection, resilience, and the deeply profound platonic bond between Alex Miller, his cousin Megan, and his best friend Chlo\u00e9 Mason.",
-        "image": "/raggiesoft-books/images/covers/alex-chloe.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/part-1-the-first-meeting",
         "folder": "alex-chloe",
         "hide": false
@@ -21,7 +21,7 @@
         "slug": "apex-fall-of-earth",
         "title": "Apex: Fall of Earth",
         "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
-        "image": "/raggiesoft-books/images/covers/apex-fall-of-earth.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
         "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044",
         "folder": "apex-fall-of-earth",
         "hide": false
@@ -30,7 +30,7 @@
         "slug": "ashley-tower",
         "title": "Fortress in the Clouds",
         "description": "Donald's harrowing escape from Texas to the safety of the Fortress in the Clouds.",
-        "image": "/raggiesoft-books/images/covers/ashley-tower.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
         "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/part-1-best-laid-plans-7-30-pm",
         "folder": "ashley-tower",
         "hide": false
@@ -39,7 +39,7 @@
         "slug": "aubrie",
         "title": "The Eleventh Child",
         "description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
-        "image": "/raggiesoft-books/images/covers/aubrie.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
         "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/part-1-the-drive",
         "folder": "aubrie",
         "hide": false
@@ -48,7 +48,7 @@
         "slug": "beth",
         "title": "Synchronized",
         "description": "An intimate survival dynamic between eighteen-year-old twins Beth and Jake Kemp as they bypass the system to preserve their autonomy and embark on a life-changing college transition aboard the ARTS Atlas-Liner.",
-        "image": "/raggiesoft-books/images/covers/beth.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/beth.jpg",
         "first_route": null,
         "folder": "beth",
         "hide": true
@@ -57,7 +57,7 @@
         "slug": "bob-emily",
         "title": "The Heart-Hum",
         "description": "A heartfelt story of fifteen-year-old Emily and her wheelchair-using cousin Bob, who build an unbreakable bond and a private language called 'The Heart-Hum' to protect each other from a chaotic world.",
-        "image": "/raggiesoft-books/images/covers/bob-emily.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
         "folder": "bob-emily",
         "hide": false
@@ -66,7 +66,7 @@
         "slug": "crimson-node",
         "title": "Crimson Node",
         "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
-        "image": "/raggiesoft-books/images/covers/crimson-node.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/part-1-anomalies",
         "folder": "crimson-node",
         "hide": false
@@ -75,7 +75,7 @@
         "slug": "dream-kingdom",
         "title": "Dream Kingdom",
         "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
-        "image": "/raggiesoft-books/images/covers/dream-kingdom.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
         "first_route": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
         "folder": "dream-kingdom",
         "hide": false
@@ -84,7 +84,7 @@
         "slug": "fractured-prisms",
         "title": "Fractured Prisms",
         "description": "A mind-bending thriller exploring fragmented realities and the nature of truth.",
-        "image": "/raggiesoft-books/images/covers/fractured-prisms.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/fractured-prisms.jpg",
         "first_route": null,
         "folder": "fractured-prisms",
         "hide": false
@@ -93,7 +93,7 @@
         "slug": "jack-sarah",
         "title": "Jack & Sarah",
         "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
-        "image": "/raggiesoft-books/images/covers/jack-sarah.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
         "folder": "jack-sarah",
         "hide": false
@@ -102,7 +102,7 @@
         "slug": "luna-leo",
         "title": "Luna & Leo",
         "description": "Welcome to Luna & Leo, an expansive narrative detailing their Great North American Excursion and beyond.",
-        "image": "/raggiesoft-books/images/covers/luna-leo.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
         "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/part-1-birthday-morning-and-the-grandparents-arrival",
         "folder": "luna-leo",
         "hide": false
@@ -111,7 +111,7 @@
         "slug": "mary-childhood",
         "title": "Mary's Childhood",
         "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
-        "image": "/raggiesoft-books/images/covers/mary-childhood.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
         "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1/part-1-high-command",
         "folder": "mary-childhood",
         "hide": false
@@ -120,7 +120,7 @@
         "slug": "meredith",
         "title": "Meredith",
         "description": "A profound exploration of grief, healing, and the protective embrace of chosen family.",
-        "image": "/raggiesoft-books/images/covers/meredith.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
         "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks",
         "folder": "meredith",
         "hide": false
@@ -129,7 +129,7 @@
         "slug": "nate",
         "title": "Nate",
         "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
-        "image": "/raggiesoft-books/images/covers/nate.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
         "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/part-1-untitled-chapter",
         "folder": "nate",
         "hide": false
@@ -138,7 +138,7 @@
         "slug": "nichole",
         "title": "Nichole",
         "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
-        "image": "/raggiesoft-books/images/covers/nichole.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad",
         "folder": "nichole",
         "hide": false
@@ -147,7 +147,7 @@
         "slug": "paige",
         "title": "Paige",
         "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
-        "image": "/raggiesoft-books/images/covers/paige.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat",
         "folder": "paige",
         "hide": false
@@ -156,7 +156,7 @@
         "slug": "pebble-borrow",
         "title": "Pebble Borrow",
         "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
-        "image": "/raggiesoft-books/images/covers/pebble-borrow.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/part-1-out-of-the-storm",
         "folder": "pebble-borrow",
         "hide": false
@@ -165,7 +165,7 @@
         "slug": "quantum-directive-1-jessica",
         "title": "The Quantum Directive: Jessica's Cut",
         "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
-        "image": "/raggiesoft-books/images/covers/quantum-jessica.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/quantum-jessica.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
         "folder": "quantum-directive-1-jessica",
         "hide": false
@@ -174,7 +174,7 @@
         "slug": "quantum-directive-2-kelly",
         "title": "The Quantum Directive: Kelly's Cut",
         "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
-        "image": "/raggiesoft-books/images/covers/quantum-kelly.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/quantum-kelly.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
         "folder": "quantum-directive-2-kelly",
         "hide": false
@@ -183,7 +183,7 @@
         "slug": "quantum-directive-3-casey",
         "title": "The Quantum Directive: The Caretakers",
         "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
-        "image": "/raggiesoft-books/images/covers/quantum-casey.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/quantum-casey.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
         "folder": "quantum-directive-3-casey",
         "hide": false
@@ -192,7 +192,7 @@
         "slug": "rachel",
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
-        "image": "/raggiesoft-books/images/covers/the-rachel-narrative.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/the-rachel-narrative.jpg",
         "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/part-1-the-sensory-avalanche",
         "folder": "rachel",
         "hide": false
@@ -201,7 +201,7 @@
         "slug": "ruby-mountain",
         "title": "Ruby Mountain",
         "description": "A high-stakes corporate family drama revolving around the battle for The Prospector's Keep.",
-        "image": "/raggiesoft-books/images/covers/ruby-mountain.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
         "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/part-1-the-traitor",
         "folder": "ruby-mountain",
         "hide": false
@@ -210,7 +210,7 @@
         "slug": "samantha",
         "title": "Samantha",
         "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
-        "image": "/raggiesoft-books/images/covers/samantha.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
         "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/part-1-untitled-chapter",
         "folder": "samantha",
         "hide": false
@@ -219,7 +219,7 @@
         "slug": "stardust-engine",
         "title": "The Stardust Engine",
         "description": "The official history, archives, and lore of The Stardust Engine.",
-        "image": "/raggiesoft-books/images/covers/stardust-engine.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
         "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/part-1-the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine",
         "hide": false
@@ -228,7 +228,7 @@
         "slug": "water-planet",
         "title": "Water Planet",
         "description": "A breathtaking sci-fi adventure exploring the depths of a mysterious, aquatic world.",
-        "image": "/raggiesoft-books/images/covers/water-planet.jpg",
+        "image": "/raggiesoft-books/images/covers/2x3/water-planet.jpg",
         "first_route": null,
         "folder": "water-planet",
         "hide": false

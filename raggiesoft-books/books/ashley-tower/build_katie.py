@@ -28,7 +28,7 @@ def get_headings():
 katie = {
     "series_title": "Ashley Tower",
     "series_description": "Donald's harrowing escape from Texas to the safety of Ashley Tower.",
-    "series_image": "/raggiesoft-books/images/covers/ashley-tower.jpg",
+    "series_image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
     "books": []
 }
 
