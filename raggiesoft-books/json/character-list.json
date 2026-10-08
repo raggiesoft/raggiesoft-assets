@@ -190,6 +190,15 @@
   },
   {
     "firstName": "Claire",
+    "lastName": "Hayes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/drew/hayes-claire.md",
+    "duplicateApprovalReason": "",
+    "slug": "drew/hayes-claire",
+    "category": "fictional",
+    "story": "drew"
+  },
+  {
+    "firstName": "Claire",
     "lastName": "Manning",
     "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/fractured-prisms/manning-claire.md",
     "duplicateApprovalReason": "",
@@ -286,6 +295,15 @@
     "slug": "jack-sarah/dennis",
     "category": "fictional",
     "story": "jack-sarah"
+  },
+  {
+    "firstName": "Drew",
+    "lastName": "Hayes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/drew/hayes-drew.md",
+    "duplicateApprovalReason": "",
+    "slug": "drew/hayes-drew",
+    "category": "fictional",
+    "story": "drew"
   },
   {
     "firstName": "Eleanor",
@@ -437,6 +455,15 @@
     "story": "luna-leo"
   },
   {
+    "firstName": "Jack",
+    "lastName": "Bennett",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-jack.md",
+    "duplicateApprovalReason": "Different Jack",
+    "slug": "jack-sarah/bennett-jack",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
     "firstName": "Jasmine",
     "lastName": "Washington",
     "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/washington-jasmine.md",
@@ -537,6 +564,15 @@
   },
   {
     "firstName": "Lauren",
+    "lastName": "Barnes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/aubrie/barnes-lauren.md",
+    "duplicateApprovalReason": "",
+    "slug": "aubrie/barnes-lauren",
+    "category": "fictional",
+    "story": "aubrie"
+  },
+  {
+    "firstName": "Lauren",
     "lastName": "Bennett",
     "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/amaya/bennett-lauren.md",
     "duplicateApprovalReason": "",
@@ -589,6 +625,15 @@
     "slug": "luna-leo/luna-porter",
     "category": "fictional",
     "story": "luna-leo"
+  },
+  {
+    "firstName": "Maggie",
+    "lastName": "Hayes",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/drew/hayes-maggie.md",
+    "duplicateApprovalReason": "",
+    "slug": "drew/hayes-maggie",
+    "category": "fictional",
+    "story": "drew"
   },
   {
     "firstName": "Marcus",
@@ -815,6 +860,15 @@
   },
   {
     "firstName": "Sarah",
+    "lastName": "Bennett",
+    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-sarah.md",
+    "duplicateApprovalReason": "Different Sarah",
+    "slug": "jack-sarah/bennett-sarah",
+    "category": "fictional",
+    "story": "jack-sarah"
+  },
+  {
+    "firstName": "Sarah",
     "lastName": "Miller",
     "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/shiloh/miller-sarah.md",
     "duplicateApprovalReason": "",
@@ -983,32 +1037,5 @@
     "slug": "casey/wendy-vance",
     "category": "fictional",
     "story": "casey"
-  },
-  {
-    "firstName": "Lauren",
-    "lastName": "Barnes",
-    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/aubrie/barnes-lauren.md",
-    "duplicateApprovalReason": "",
-    "slug": "aubrie/barnes-lauren",
-    "category": "fictional",
-    "story": "aubrie"
-  },
-  {
-    "firstName": "Jack",
-    "lastName": "Bennett",
-    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-jack.md",
-    "duplicateApprovalReason": "Different Jack",
-    "slug": "jack-sarah/bennett-jack",
-    "category": "fictional",
-    "story": "jack-sarah"
-  },
-  {
-    "firstName": "Sarah",
-    "lastName": "Bennett",
-    "markdownLink": "/raggiesoft-books/markdown/character-list/fictional/jack-sarah/bennett-sarah.md",
-    "duplicateApprovalReason": "Different Sarah",
-    "slug": "jack-sarah/bennett-sarah",
-    "category": "fictional",
-    "story": "jack-sarah"
   }
 ]
