@@ -201,6 +201,11 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Linoleum Room",
                             "file_path": "b002/c001/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Mandatory Reporters",
+                            "file_path": "b002/c001/p003.md"
                         }
                     ]
                 }
