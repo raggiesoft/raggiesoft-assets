@@ -53,6 +53,11 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Consultation Room",
                             "file_path": "b001/c002/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Other Victims",
+                            "file_path": "b001/c002/p004.md"
                         }
                     ]
                 }
