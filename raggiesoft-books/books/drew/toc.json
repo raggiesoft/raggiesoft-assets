@@ -75,6 +75,11 @@
                             "part_num": 1,
                             "part_title": "Part 1: Post-Op",
                             "file_path": "b001/c003/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Waking Up",
+                            "file_path": "b001/c003/p002.md"
                         }
                     ]
                 }
