@@ -31,6 +31,31 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Front Office",
                             "file_path": "b001/c001/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Unannounced Arrival",
+                            "file_path": "b001/c001/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Payphone",
+                            "file_path": "b001/c001/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Consultation Room",
+                            "file_path": "b001/c001/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Other Victims",
+                            "file_path": "b001/c001/p007.md"
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Paperwork",
+                            "file_path": "b001/c001/p008.md"
                         }
                     ]
                 },
@@ -41,28 +66,38 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Unannounced Arrival",
+                            "part_title": "Part 1: Post-Op",
                             "file_path": "b001/c002/p001.md"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Payphone",
+                            "part_title": "Part 2: The PICU",
                             "file_path": "b001/c002/p002.md"
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Consultation Room",
+                            "part_title": "Part 3: Waking Up",
                             "file_path": "b001/c002/p003.md"
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The Other Victims",
+                            "part_title": "Part 4: Suite F",
                             "file_path": "b001/c002/p004.md"
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Paperwork",
+                            "part_title": "Part 5: The Manifesto",
                             "file_path": "b001/c002/p005.md"
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: The Sofa",
+                            "file_path": "b001/c002/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Coalition",
+                            "file_path": "b001/c002/p007.md"
                         }
                     ]
                 },
@@ -73,38 +108,8 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Post-Op",
+                            "part_title": "Part 1: The Vow",
                             "file_path": "b001/c003/p001.md"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: The PICU",
-                            "file_path": "b001/c003/p002.md"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: Waking Up",
-                            "file_path": "b001/c003/p003.md"
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: Suite F",
-                            "file_path": "b001/c003/p004.md"
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Manifesto",
-                            "file_path": "b001/c003/p005.md"
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Sofa",
-                            "file_path": "b001/c003/p006.md"
-                        },
-                        {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Coalition",
-                            "file_path": "b001/c003/p007.md"
                         }
                     ]
                 },
@@ -115,68 +120,140 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Vow",
+                            "part_title": "Part 1: The Racecar",
                             "file_path": "b001/c004/p001.md"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Chapter 5",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-5",
+                    "parts": [
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Racecar",
-                            "file_path": "b001/c004/p002.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: The Hospital Haunt",
+                            "file_path": "b001/c005/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-6",
+                    "parts": [
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Hospital Haunt",
-                            "file_path": "b001/c004/p003.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: The Hospital Classroom",
+                            "file_path": "b001/c006/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-7",
+                    "parts": [
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Hospital Classroom",
-                            "file_path": "b001/c004/p004.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: The Empty Beds",
+                            "file_path": "b001/c007/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Chapter 8",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-8",
+                    "parts": [
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Empty Beds",
-                            "file_path": "b001/c004/p005.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: A Hospital Thanksgiving",
+                            "file_path": "b001/c008/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Chapter 9",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-9",
+                    "parts": [
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: A Hospital Thanksgiving",
-                            "file_path": "b001/c004/p006.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: The Exhaustion",
+                            "file_path": "b001/c009/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "Chapter 10",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-10",
+                    "parts": [
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Exhaustion",
-                            "file_path": "b001/c004/p007.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: A Hospital Christmas",
+                            "file_path": "b001/c010/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "Chapter 11",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-11",
+                    "parts": [
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: Pennies on the Dollar",
-                            "file_path": "b001/c004/p008.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: Pennies on the Dollar",
+                            "file_path": "b001/c011/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "Chapter 12",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-12",
+                    "parts": [
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: A Hospital Christmas",
-                            "file_path": "b001/c004/p009.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: Midnight on the Ward",
+                            "file_path": "b001/c012/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 13,
+                    "chap_title": "Chapter 13",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-13",
+                    "parts": [
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: Midnight on the Ward",
-                            "file_path": "b001/c004/p010.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: Going Home",
+                            "file_path": "b001/c013/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 14,
+                    "chap_title": "Chapter 14",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-14",
+                    "parts": [
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: Going Home",
-                            "file_path": "b001/c004/p011.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: Seven",
+                            "file_path": "b001/c014/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 15,
+                    "chap_title": "Chapter 15",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-15",
+                    "parts": [
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: Seven",
-                            "file_path": "b001/c004/p012.md"
-                        },
-                        {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Short Bus",
-                            "file_path": "b001/c004/p013.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Short Bus",
+                            "file_path": "b001/c015/p001.md"
                         }
                     ]
                 }
@@ -201,16 +278,49 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Linoleum Room",
                             "file_path": "b002/c001/p002.md"
-                        },
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2",
+                    "chap_url": "/raggiesoft-books/books/drew/book-2/chapter-2",
+                    "parts": [
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Mandatory Reporters",
-                            "file_path": "b002/c001/p003.md"
-                        },
+                            "part_num": 1,
+                            "part_title": "Part 1: The Mandatory Reporters",
+                            "file_path": "b002/c002/p001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/drew/book-2/chapter-3",
+                    "parts": [
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Trap",
-                            "file_path": "b002/c001/p004.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Trap",
+                            "file_path": "b002/c003/p001.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "book_num": 3,
+            "book_title": "Book 3",
+            "book_url": "/raggiesoft-books/books/drew/book-3",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/drew/book-3/chapter-1",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Curtain Compromise",
+                            "file_path": "b003/c001/p001.md"
                         }
                     ]
                 }
