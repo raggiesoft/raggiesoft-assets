@@ -25,6 +25,7 @@ function deploy_site() {
     local SITE_NAME=$1
     local REPO_DIR=$2
     local WEB_ROOT=$3
+    local SYNC_DIR=${4:-$REPO_DIR}
 
     # Ensure repository exists locally before attempting sync
     if [ ! -d "$REPO_DIR" ]; then
@@ -62,7 +63,7 @@ function deploy_site() {
         --exclude '.git' \
         --exclude '.gitignore' \
         --exclude 'README.md' \
-        "$REPO_DIR/" "$WEB_ROOT/"
+        "$SYNC_DIR/" "$WEB_ROOT/"
 
     # PERMISSIONS
     find "$WEB_ROOT" -type d -exec chmod 755 {} +
@@ -78,4 +79,7 @@ deploy_site "Nebulae" "/home/michael/raggiesoft-nebulae" "/var/www/nebulae.raggi
 
 # 3. PROCESS STARDUST ENGINE LIBRARY
 deploy_site "Books" "/home/michael/raggiesoft-book-library" "/var/www/raggiesoft-book-library"
+
+# 4. PROCESS LORE GRAPH
+deploy_site "Lore" "/home/michael/raggiesoft-lore" "/var/www/lore.raggiesoft.com" "/home/michael/raggiesoft-lore/out"
 

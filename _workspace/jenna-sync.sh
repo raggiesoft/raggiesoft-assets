@@ -652,6 +652,11 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     echo "   -> Packaging the Lore Graph..."
     if [ -d "$LORE_ROOT" ]; then
         cd "$LORE_ROOT"
+        
+        echo "      > Compiling Static HTML Graph..."
+        export PATH="/opt/homebrew/bin:$PATH"
+        npm run build
+        
         git add .
         
         if ! git diff-index --quiet HEAD --; then
