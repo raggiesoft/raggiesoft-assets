@@ -65,6 +65,18 @@
                             "file_path": "b001/c002/p005.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3",
+                    "chap_url": "/raggiesoft-books/books/drew/book-1/chapter-3",
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Post-Op",
+                            "file_path": "b001/c003/p001.md"
+                        }
+                    ]
                 }
             ]
         }
