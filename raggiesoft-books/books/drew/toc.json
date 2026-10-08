@@ -80,6 +80,16 @@
                             "part_num": 2,
                             "part_title": "Part 2: Waking Up",
                             "file_path": "b001/c003/p002.md"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Suite F",
+                            "file_path": "b001/c003/p003.md"
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: The Manifesto",
+                            "file_path": "b001/c003/p004.md"
                         }
                     ]
                 }
