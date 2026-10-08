@@ -27,10 +27,19 @@ function deploy_site() {
     local WEB_ROOT=$3
     local SYNC_DIR=${4:-$REPO_DIR}
 
+    local JUST_CLONED=false
     # Ensure repository exists locally before attempting sync
     if [ ! -d "$REPO_DIR" ]; then
-        echo "⚠️ SARAH: Cannot deploy $SITE_NAME. Repository missing at $REPO_DIR."
-        return
+        echo "⚠️ SARAH: Repository missing at $REPO_DIR. Cloning from GitHub..."
+        # Extract repo name from REPO_DIR (e.g. raggiesoft-lore)
+        local REPO_BASENAME=$(basename "$REPO_DIR")
+        cd "$(dirname "$REPO_DIR")" || return
+        git clone "https://github.com/raggiesoft/$REPO_BASENAME.git"
+        if [ ! -d "$REPO_DIR" ]; then
+            echo "🚨 SARAH: Clone failed for $SITE_NAME."
+            return
+        fi
+        JUST_CLONED=true
     fi
 
     cd "$REPO_DIR" || return
@@ -42,7 +51,7 @@ function deploy_site() {
     REMOTE=$(git rev-parse origin/main)
 
     # Standard intelligence check
-    if [ "$FORCE_RESET" = false ]; then
+    if [ "$FORCE_RESET" = false ] && [ "$JUST_CLONED" = false ]; then
         if [ "$LOCAL" == "$REMOTE" ]; then
             return # No changes, stay silent
         fi
