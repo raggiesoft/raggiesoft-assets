@@ -100,6 +100,11 @@
                             "part_num": 6,
                             "part_title": "Part 6: The Sofa",
                             "file_path": "b001/c003/p006.md"
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: The Coalition",
+                            "file_path": "b001/c003/p007.md"
                         }
                     ]
                 }
