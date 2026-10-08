@@ -90,6 +90,11 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Manifesto",
                             "file_path": "b001/c003/p004.md"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: The Sofa",
+                            "file_path": "b001/c003/p005.md"
                         }
                     ]
                 }
