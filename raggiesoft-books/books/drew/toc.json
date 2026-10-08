@@ -43,6 +43,11 @@
                             "part_num": 1,
                             "part_title": "Part 1: Unannounced Arrival",
                             "file_path": "b001/c002/p001.md"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Payphone",
+                            "file_path": "b001/c002/p002.md"
                         }
                     ]
                 }
