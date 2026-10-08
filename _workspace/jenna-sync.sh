@@ -28,6 +28,7 @@ CMS_ROOT="$SERVER_ROOT/stardust-engine-cms"
 NARRATIVES_ROOT="$SERVER_ROOT/raggiesoft-narratives"
 NEBULAE_ROOT="$SERVER_ROOT/raggiesoft-nebulae"
 BOOKS_ROOT="$SERVER_ROOT/raggiesoft-book-library"
+LORE_ROOT="$SERVER_ROOT/raggiesoft-lore"
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -312,6 +313,14 @@ function do_pull() {
     else
         cd "$BOOKS_ROOT" && git pull origin main
     fi
+    fi
+    
+    echo "   5.5 Checking the Lore Graph..."
+    if [ ! -d "$LORE_ROOT" ]; then
+        echo "      > Repository missing. Cloning Lore from GitHub..."
+        cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-lore.git
+    else
+        cd "$LORE_ROOT" && git pull origin main
     fi
     
     echo "   6. Hauling the heavy boxes (DigitalOcean Spaces)..."
@@ -634,6 +643,35 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
 
         if [ -n "$TAG_NAME" ]; then
             echo "      > Stamping Books with tag: $TAG_NAME..."
+            git tag "$TAG_NAME"
+            git push origin "$TAG_NAME"
+        fi
+    fi
+
+    # 4.8 LORE PUSH
+    echo "   -> Packaging the Lore Graph..."
+    if [ -d "$LORE_ROOT" ]; then
+        cd "$LORE_ROOT"
+        git add .
+        
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Lore committed and sent to GitHub."
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending Lore commits. Pushing now..."
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Pending Lore code sent to GitHub."
+        else
+             echo "      (Lore is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Lore with tag: $TAG_NAME..."
             git tag "$TAG_NAME"
             git push origin "$TAG_NAME"
         fi
