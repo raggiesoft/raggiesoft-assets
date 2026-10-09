@@ -85,7 +85,7 @@
         "title": "The Drew Narrative",
         "description": "The story of Drew and his twin sister Maggie.",
         "image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
-        "first_route": "/raggiesoft-books/books/drew/book-1/chapter-1/part-1-the-core-check",
+        "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-1-the-core-check",
         "folder": "drew",
         "hide": false
     },
