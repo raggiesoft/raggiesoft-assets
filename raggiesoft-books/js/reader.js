@@ -767,3 +767,8 @@ if (!window.oceanViewReaderInitialized) {
     window.oceanViewReaderInitialized = true;
 }
 
+
+// Update last read location (except on catalog root)
+if (window.location.pathname !== '/' && window.location.pathname !== '/catalog') {
+    localStorage.setItem('rs-last-read', window.location.pathname);
+}
