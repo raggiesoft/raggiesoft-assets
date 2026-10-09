@@ -603,6 +603,76 @@ function initOceanViewReader() {
         });
     }
 
+    // --- Library Management Logic ---
+    const libraryList = document.getElementById('library-management-list');
+    
+    // Always apply hidden books to the catalog if cards exist
+    const applyHiddenBooks = () => {
+        let hiddenBooks = [];
+        try {
+            hiddenBooks = JSON.parse(localStorage.getItem('rs-hidden-books') || '[]');
+        } catch(e) {}
+        
+        const cards = document.querySelectorAll('.rs-book-card');
+        cards.forEach(card => {
+            if (hiddenBooks.includes(card.dataset.slug)) {
+                card.style.display = 'none';
+            } else {
+                card.style.display = 'flex';
+            }
+        });
+    };
+    
+    // Call it immediately so books hide on catalog load
+    applyHiddenBooks();
+
+    if (libraryList) {
+        // Populate the list (only once)
+        if (libraryList.children.length === 0) {
+            const cdnBase = document.body.dataset.cdnUrl || 'https://assets.raggiesoft.com';
+            fetch(`${cdnBase}/raggiesoft-books/books/catalog.json`)
+                .then(res => res.json())
+                .then(books => {
+                    let hiddenBooks = [];
+                    try { hiddenBooks = JSON.parse(localStorage.getItem('rs-hidden-books') || '[]'); } catch(e) {}
+                    
+                    books.forEach(book => {
+                        const isHidden = hiddenBooks.includes(book.slug);
+                        const label = document.createElement('label');
+                        label.style.display = 'flex';
+                        label.style.alignItems = 'center';
+                        label.style.gap = '0.5rem';
+                        label.style.cursor = 'pointer';
+                        
+                        const checkbox = document.createElement('input');
+                        checkbox.type = 'checkbox';
+                        checkbox.checked = !isHidden;
+                        checkbox.style.accentColor = 'var(--rs-primary)';
+                        checkbox.style.width = '1.1rem';
+                        checkbox.style.height = '1.1rem';
+                        
+                        checkbox.addEventListener('change', (e) => {
+                            let currentHidden = [];
+                            try { currentHidden = JSON.parse(localStorage.getItem('rs-hidden-books') || '[]'); } catch(e) {}
+                            
+                            if (!e.target.checked) {
+                                if (!currentHidden.includes(book.slug)) currentHidden.push(book.slug);
+                            } else {
+                                currentHidden = currentHidden.filter(s => s !== book.slug);
+                            }
+                            localStorage.setItem('rs-hidden-books', JSON.stringify(currentHidden));
+                            applyHiddenBooks();
+                        });
+                        
+                        label.appendChild(checkbox);
+                        label.appendChild(document.createTextNode(book.title));
+                        libraryList.appendChild(label);
+                    });
+                })
+                .catch(err => console.error("Could not load catalog for management", err));
+        }
+    }
+
 } // end initOceanViewReader()
 
 // Prevent duplicate event listeners
@@ -611,3 +681,4 @@ if (!window.oceanViewReaderInitialized) {
     document.addEventListener('stardust:loaded', initOceanViewReader);
     window.oceanViewReaderInitialized = true;
 }
+
