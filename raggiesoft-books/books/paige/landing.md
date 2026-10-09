@@ -1,3 +1,6 @@
+---
+title: "Paige"
+---
 # Paige
 
 A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life. Paige and Freddie navigate the high-pressure environment of their computer science program, forging a bond built on shared struggles, late-night debugging, and mutual respect. Their journey highlights the power of friendship and teamwork in overcoming seemingly insurmountable academic challenges.

@@ -1,1 +1,4 @@
+---
+title: "Nate"
+---
 *Nate* is a raw, beautiful exploration of chronic illness, intense sibling devotion, and the critical importance of autonomy. As Sarah navigates the physical and emotional demands of caring for her brother Nate, they build a world defined not by limitations, but by fierce love, profound understanding, and the quiet, delicious acts of rebellion that make life worth living.

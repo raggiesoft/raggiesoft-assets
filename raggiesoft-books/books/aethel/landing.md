@@ -1,1 +1,4 @@
+---
+title: "Aethel"
+---
 Welcome to the world of Aethel, an epic fantasy saga where twin suns illuminate a continent fractured by ancient magic and modern political intrigue. As the fragile balance between Order and Chaos is threatened, unlikely heroes must rise to secure the legendary Silver Gauntlet. This series explores vast kingdoms, intricate magic systems, and the deeply human cost of war and destiny.

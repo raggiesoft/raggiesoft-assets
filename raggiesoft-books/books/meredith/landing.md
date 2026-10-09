@@ -1,1 +1,4 @@
+---
+title: "Meredith"
+---
 *Meredith* is a profoundly moving story about the heavy, grounding anchor of chosen family in the aftermath of devastating loss. Following David and the girls he protects, this narrative explores the complex architecture of grief, the deep comfort of routine, and the fierce, quiet love required to heal a fractured heart.

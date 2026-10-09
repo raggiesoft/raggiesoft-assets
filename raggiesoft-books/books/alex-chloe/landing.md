@@ -1,3 +1,6 @@
+---
+title: "Alex Chloe"
+---
 # Beyond Words
 
 *Beyond Words* is a beautiful, lifelong journey chronicling the profound connection between Alex Miller, his protective cousin Megan Carter, and his fiercely loyal best friend Chloé Mason. From their pivotal 'Summer of Discovery' to the complex realities of adulthood, this series explores the enduring power of unconditional love, mutual support, and the unique ways we communicate and understand each other, proving that the strongest bonds often transcend spoken language.

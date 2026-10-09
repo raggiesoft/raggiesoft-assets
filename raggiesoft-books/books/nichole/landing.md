@@ -1,1 +1,4 @@
+---
+title: "Nichole"
+---
 Discover the extraordinary life and mind of Nichole Bennett in this sweeping narrative. From the salty air of Newport to the high-stakes world of technological innovation, *Nichole* chronicles the creation of the revolutionary Bennet Machine and the unbreakable, defining bond she shares with her brother Patrick. It is a story of genius, family, and leaving a lasting legacy.

@@ -1,1 +1,4 @@
+---
+title: "Ruby Mountain"
+---
 Welcome to The Prospector's Keep, a luxury alpine lodge that has become a besieged bunker. *Ruby Mountain* is a fierce, high-stakes corporate and family drama where Victoria Vance must wield her sovereign authority to protect her family's legacy from the toxic, desperate greed of the older generation. It's a masterclass in power, betrayal, and the heavy crown of leadership.

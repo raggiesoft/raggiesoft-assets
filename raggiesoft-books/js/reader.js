@@ -761,6 +761,132 @@ function initOceanViewReader() {
                 .catch(err => console.error("Could not load catalog for management", err));
         }
     }
+    // --- KEYBOARD SHORTCUTS ---
+    function showShortcutToast(msg) {
+        let toast = document.getElementById('shortcut-toast');
+        if (!toast) {
+            toast = document.createElement('div');
+            toast.id = 'shortcut-toast';
+            toast.style.position = 'fixed';
+            toast.style.bottom = '2rem';
+            toast.style.left = '50%';
+            toast.style.transform = 'translateX(-50%)';
+            toast.style.backgroundColor = 'var(--rs-primary)';
+            toast.style.color = '#fff';
+            toast.style.padding = '0.5rem 1rem';
+            toast.style.borderRadius = '30px';
+            toast.style.fontWeight = '600';
+            toast.style.fontSize = '0.9rem';
+            toast.style.zIndex = '9999';
+            toast.style.opacity = '0';
+            toast.style.transition = 'opacity 0.2s';
+            toast.style.pointerEvents = 'none';
+            toast.style.boxShadow = '0 4px 12px rgba(0,0,0,0.15)';
+            document.body.appendChild(toast);
+        }
+        toast.textContent = msg;
+        toast.style.opacity = '1';
+        
+        if (toast.hideTimeout) clearTimeout(toast.hideTimeout);
+        toast.hideTimeout = setTimeout(() => {
+            toast.style.opacity = '0';
+        }, 1500);
+    }
+
+    document.addEventListener('keydown', (e) => {
+        // Ignore if typing in an input
+        const active = document.activeElement;
+        if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || active.isContentEditable)) {
+            return;
+        }
+
+        // Ignore if modifier keys are pressed
+        if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) {
+            return;
+        }
+
+        // T: Toggle Theme
+        if (e.key.toLowerCase() === 't') {
+            e.preventDefault();
+            const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
+            const hasCustom = customThemeMeta !== null;
+            
+            let currentTheme = themeSelect ? themeSelect.value : 'auto';
+            let customOn = currentCustomThemeEnabled;
+            
+            // Define the sequence of states: {theme: '...', custom: boolean, label: '...'}
+            let sequence = [];
+            if (hasCustom) {
+                sequence.push({theme: 'auto', custom: true, label: 'Immersive Story Theme'});
+            }
+            sequence.push({theme: 'auto', custom: false, label: 'System Default Theme'});
+            sequence.push({theme: 'light', custom: false, label: 'Light Mode'});
+            sequence.push({theme: 'dark', custom: false, label: 'Dark Mode'});
+            sequence.push({theme: 'sepia', custom: false, label: 'Sepia Mode'});
+            sequence.push({theme: 'dark-sepia', custom: false, label: 'Dark Sepia Mode'});
+            
+            // Find current index
+            let currentIndex = sequence.findIndex(s => s.theme === currentTheme && s.custom === customOn);
+            if (currentIndex === -1) currentIndex = 0; // Fallback
+            
+            let nextIndex = (currentIndex + 1) % sequence.length;
+            let nextState = sequence[nextIndex];
+            
+            applyTheme(nextState.theme, nextState.custom);
+            showShortcutToast(nextState.label);
+        }
+
+        // N or Right Arrow: Next Chapter
+        if (e.key.toLowerCase() === 'n' || e.key === 'ArrowRight') {
+            const nextBtn = document.getElementById('reader-btn-next');
+            if (nextBtn && nextBtn.tagName === 'A' && nextBtn.href) {
+                showShortcutToast("Next Chapter \u2192");
+                window.location.href = nextBtn.href;
+            }
+        }
+
+        // P or Left Arrow: Previous Chapter
+        if (e.key.toLowerCase() === 'p' || e.key === 'ArrowLeft') {
+            const prevBtn = document.getElementById('reader-btn-prev');
+            if (prevBtn && prevBtn.tagName === 'A' && prevBtn.href) {
+                showShortcutToast("\u2190 Previous Chapter");
+                window.location.href = prevBtn.href;
+            }
+        }
+
+        // F: Toggle Fullscreen
+        if (e.key.toLowerCase() === 'f') {
+            e.preventDefault();
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen().catch(err => {
+                    console.warn(`Error attempting to enable full-screen mode: ${err.message}`);
+                });
+                showShortcutToast("Fullscreen Mode");
+            } else {
+                if (document.exitFullscreen) {
+                    document.exitFullscreen();
+                    showShortcutToast("Exited Fullscreen");
+                }
+            }
+        }
+
+        // Esc: Return to library (only if not in a dialog or fullscreen)
+        if (e.key === 'Escape') {
+            // Check if any dialog is open
+            const dialogs = document.querySelectorAll('dialog[open]');
+            if (dialogs.length > 0) return; // Let default Escape behavior close the dialog
+            
+            if (document.fullscreenElement) return; // Let default Escape behavior exit fullscreen
+
+            const sidebar = document.getElementById('stardust-sidebar');
+            if (sidebar && sidebar.classList.contains('open')) {
+                sidebar.classList.remove('open');
+                const backdrop = document.getElementById('reader-sidebar-backdrop');
+                if (backdrop) backdrop.style.display = 'none';
+                return;
+            }
+        }
+    });
 } // end initOceanViewReader()
 
 // Prevent duplicate event listeners

@@ -2,7 +2,7 @@
     "series_title": "Crimson Node",
     "series_slug": "crimson-node",
     "series_description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
-    "series_description_long": "Dive into the dark, pulsating heart of the digital underground with *Crimson Node*. This gripping narrative explores the dangerous world of corporate espionage, high-stakes hacking, and the terrifying implications of a mysterious project known only as the Crimson Node. It's a thrilling ride through a world where data is the ultimate weapon.",
+    "series_description_long": "---\ntitle: \"Crimson Node\"\n---\nDive into the dark, pulsating heart of the digital underground with *Crimson Node*. This gripping narrative explores the dangerous world of corporate espionage, high-stakes hacking, and the terrifying implications of a mysterious project known only as the Crimson Node. It's a thrilling ride through a world where data is the ultimate weapon.",
     "series_image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
     "next_series_url": "",
     "next_series_text": "",

@@ -1,1 +1,4 @@
+---
+title: "Beth"
+---
 Set against the backdrop of an unforgiving bureaucratic system, *Synchronized* explores the profoundly codependent survival dynamic of eighteen-year-old twins Beth and Jake Kemp. Bound by their shared diagnoses of autism and cerebral palsy, they act as each other's physical and abstract anchors. When the special education system attempts to strip their generational wealth and autonomy, the twins bypass it entirely, transitioning into adulthood on their own terms. Armed with their fierce devotion, their custom tech, and their shared sanctuary, they embark on a monumental journey across the country aboard the ARTS Atlas-Liner to begin their college lives.

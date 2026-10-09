@@ -1,1 +1,4 @@
+---
+title: "Stardust Engine"
+---
 Step into the expansive, epic lore of *The Stardust Engine*. This narrative is the ultimate archive of the legendary progressive rock band, chronicling everything from the grueling creation of their 15-minute Magnum Opus to the sprawling, dystopian cinematic universe of *K.N.O.X.*. It is a rich, detailed exploration of art, trauma, and the transcendent power of music.

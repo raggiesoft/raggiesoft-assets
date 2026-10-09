@@ -1,3 +1,6 @@
+---
+title: "Future Scene: Kristine Timebomb"
+---
 # Future Plot Point: The Kristine Timebomb
 
 **Timeline Context:** Sometime after David and Liz break up, when David is dating Kristine. 
