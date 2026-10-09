@@ -51,11 +51,18 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 .rs-input:focus { outline: 2px solid var(--rs-primary); outline-offset: 1px; }
 
 
+/* Mobile Scroll Container Base (for Desktop / Tablets) */
+.stardust-mobile-scroll {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 /* Mobile Native Scroll Fix (Allows iOS Tap-to-Top and fixes 100vh bugs) */
 @media (max-width: 991px) {
     html, body {
         overflow: visible !important;
         height: auto !important;
+        -webkit-overflow-scrolling: auto !important;
     }
     #stardust-app {
         height: auto !important;
@@ -74,5 +81,6 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
         height: auto !important;
         min-height: 100dvh;
         overflow: visible !important;
+        -webkit-overflow-scrolling: auto !important;
     }
 }
