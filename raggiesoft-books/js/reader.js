@@ -421,7 +421,7 @@ function initOceanViewReader() {
     if (btnClose && dialog) btnClose.addEventListener('click', () => dialog.close());
 
     let currentStep = 1;
-    const totalSteps = 5;
+    const totalSteps = 6;
     const wizardSidebar = document.getElementById('wizard-sidebar-graphic');
     const btnNext = document.getElementById('wizard-btn-next');
     const btnPrev = document.getElementById('wizard-btn-prev');
@@ -470,7 +470,8 @@ function initOceanViewReader() {
             2: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_oliver_hug.jpg',
             3: cdnUrl + '/stardust-engine-library/images/wizard/sophia_oliver_hug.jpg',
             4: cdnUrl + '/stardust-engine-library/images/wizard/sophia_isabel_audio.jpg',
-            5: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_isabel_twins.jpg'
+            5: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_isabel_twins.jpg',
+            6: cdnUrl + '/stardust-engine-library/images/wizard/isabel_oliver_hug.jpg'
         };
 
         if (wizardSidebar && stepImages[currentStep]) {
