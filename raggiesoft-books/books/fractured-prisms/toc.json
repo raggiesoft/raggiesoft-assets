@@ -9,142 +9,142 @@
     "books": [
         {
             "book_num": 1,
-            "book_title": "Book 1",
-            "book_url": "/raggiesoft-books/books/fractured-prisms/book-1",
+            "book_title": "Book 1: Shadows Fall",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-1",
+                    "chap_title": "Chapter 1: Revelations",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-1-revelations",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-2",
+                    "chap_title": "Chapter 2: The Turning of the Tide",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-2-the-turning-of-the-tide",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-3",
+                    "chap_title": "Chapter 3: The Confrontation",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-3-the-confrontation",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-4",
+                    "chap_title": "Chapter 4: Unexpected Encounters",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-4-unexpected-encounters",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1/chapter-5",
+                    "chap_title": "Chapter 5: The Betrayal",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-5-the-betrayal",
                     "parts": []
                 }
             ]
         },
         {
             "book_num": 2,
-            "book_title": "Book 2",
-            "book_url": "/raggiesoft-books/books/fractured-prisms/book-2",
+            "book_title": "Book 2: Shadows Fall",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-1",
+                    "chap_title": "Chapter 1: The Confrontation",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-1-the-confrontation",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-2",
+                    "chap_title": "Chapter 2: The Storm Breaks",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-2-the-storm-breaks",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-3",
+                    "chap_title": "Chapter 3: A Change of Plans",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-3-a-change-of-plans",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2/chapter-4",
+                    "chap_title": "Chapter 4: Into the Unknown",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-4-into-the-unknown",
                     "parts": []
                 }
             ]
         },
         {
             "book_num": 3,
-            "book_title": "Book 3",
-            "book_url": "/raggiesoft-books/books/fractured-prisms/book-3",
+            "book_title": "Book 3: A New Dawn",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-3-a-new-dawn",
             "chapters": []
         },
         {
             "book_num": 4,
-            "book_title": "Book 4",
-            "book_url": "/raggiesoft-books/books/fractured-prisms/book-4",
+            "book_title": "Book 4: The Endless Journey",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-1",
+                    "chap_title": "Chapter 1: The Confrontation",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-1-the-confrontation",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-2",
+                    "chap_title": "Chapter 2: The Aftermath",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-2-the-aftermath",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4/chapter-3",
+                    "chap_title": "Chapter 3: The Storm Breaks",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-3-the-storm-breaks",
                     "parts": []
                 }
             ]
         },
         {
             "book_num": 5,
-            "book_title": "Book 5",
-            "book_url": "/raggiesoft-books/books/fractured-prisms/book-5",
+            "book_title": "Book 5: A New Dawn",
+            "book_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-1",
+                    "chap_title": "Chapter 1: The Arrival",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-1-the-arrival",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-2",
+                    "chap_title": "Chapter 2: A Change of Plans",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-2-a-change-of-plans",
                     "parts": []
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-3",
+                    "chap_title": "Chapter 3: A Desperate Escape",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-3-a-desperate-escape",
                     "parts": []
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-4",
+                    "chap_title": "Chapter 4: The Sacrifice",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-4-the-sacrifice",
                     "parts": []
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-5",
+                    "chap_title": "Chapter 5: The Sacrifice",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-5-the-sacrifice",
                     "parts": []
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6",
-                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5/chapter-6",
+                    "chap_title": "Chapter 6: The Turning of the Tide",
+                    "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-6-the-turning-of-the-tide",
                     "parts": []
                 }
             ]

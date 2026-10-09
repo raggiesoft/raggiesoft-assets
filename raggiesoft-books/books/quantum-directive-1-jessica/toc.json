@@ -492,19 +492,19 @@
         },
         {
             "book_num": 2,
-            "book_title": "Book 2",
-            "book_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2",
+            "book_title": "Book 2: Silent Whispers",
+            "book_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2/chapter-1",
+                    "chap_title": "Chapter 1: Revelations",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-1-revelations",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2/chapter-2",
+                    "chap_title": "Chapter 2: A Moment of Peace",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-2-a-moment-of-peace",
                     "parts": []
                 }
             ]

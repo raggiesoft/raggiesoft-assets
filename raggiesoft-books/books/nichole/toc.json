@@ -848,7 +848,7 @@
                         },
                         {
                             "part_num": 7,
-                            "part_title": "Part 7: Part 7",
+                            "part_title": "Part 7: Early Launch",
                             "file_path": "b007/c002/p007.md"
                         },
                         {
@@ -1349,8 +1349,8 @@
         },
         {
             "book_num": 14,
-            "book_title": "Book 14",
-            "book_url": "/raggiesoft-books/books/nichole/book-14",
+            "book_title": "Book 14: Silent Whispers",
+            "book_url": "/raggiesoft-books/books/nichole/book-14-silent-whispers",
             "chapters": []
         }
     ]

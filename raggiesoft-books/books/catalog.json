@@ -121,7 +121,7 @@
         "title": "Mary's Childhood",
         "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
         "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
-        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1/part-1-high-command",
+        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/part-1-high-command",
         "folder": "mary-childhood",
         "hide": false
     },

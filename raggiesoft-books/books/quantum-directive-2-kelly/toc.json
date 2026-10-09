@@ -397,8 +397,8 @@
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/chapter-1",
+                    "chap_title": "Chapter 1: The Turning of the Tide",
+                    "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/chapter-1-the-turning-of-the-tide",
                     "parts": []
                 },
                 {
@@ -434,8 +434,8 @@
         },
         {
             "book_num": 3,
-            "book_title": "Book 3",
-            "book_url": "/raggiesoft-books/books/quantum-directive-2-kelly/book-3",
+            "book_title": "Book 3: The Turning Point",
+            "book_url": "/raggiesoft-books/books/quantum-directive-2-kelly/book-3-the-turning-point",
             "chapters": []
         }
     ]

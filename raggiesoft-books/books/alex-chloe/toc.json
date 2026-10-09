@@ -2323,7 +2323,7 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Part 5",
+                            "part_title": "Part 5: Special Dances",
                             "file_path": "b015/c004/p005.md"
                         },
                         {
@@ -2805,19 +2805,19 @@
         },
         {
             "book_num": 21,
-            "book_title": "Book 21",
-            "book_url": "/raggiesoft-books/books/alex-chloe/book-21",
+            "book_title": "Book 21: The Turning Point",
+            "book_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1",
-                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21/chapter-1",
+                    "chap_title": "Chapter 1: The Confrontation",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point/chapter-1-the-confrontation",
                     "parts": []
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2",
-                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21/chapter-2",
+                    "chap_title": "Chapter 2: The Turning of the Tide",
+                    "chap_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point/chapter-2-the-turning-of-the-tide",
                     "parts": []
                 }
             ]
