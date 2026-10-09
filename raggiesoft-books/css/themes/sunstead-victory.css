@@ -1,0 +1,35 @@
+/* Theme Name: Sunstead Victory */
+
+/* Light Mode (Base) */
+body.theme-sunstead-victory,
+body.theme-light.theme-sunstead-victory {
+    --rs-bg: #fffbeb;
+    --rs-surface: #fef3c7;
+    --rs-text: #78350f;
+    --rs-primary: #d97706;
+    --rs-secondary: #f59e0b;
+    --rs-border: #fde68a;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-sunstead-victory {
+    --rs-bg: #451a03;
+    --rs-surface: #78350f;
+    --rs-text: #fffbeb;
+    --rs-primary: #fbbf24;
+    --rs-secondary: #f59e0b;
+    --rs-border: #92400e;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-sunstead-victory,
+    body:not(.theme-light):not(.theme-dark).theme-sunstead-victory {
+        --rs-bg: #451a03;
+        --rs-surface: #78350f;
+        --rs-text: #fffbeb;
+        --rs-primary: #fbbf24;
+        --rs-secondary: #f59e0b;
+        --rs-border: #92400e;
+    }
+}

@@ -1,0 +1,35 @@
+/* Theme Name: Sunstead Peace */
+
+/* Light Mode (Base) */
+body.theme-sunstead-peace,
+body.theme-light.theme-sunstead-peace {
+    --rs-bg: #f0fdf4;
+    --rs-surface: #dcfce7;
+    --rs-text: #14532d;
+    --rs-primary: #15803d;
+    --rs-secondary: #16a34a;
+    --rs-border: #bbf7d0;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-sunstead-peace {
+    --rs-bg: #052e16;
+    --rs-surface: #14532d;
+    --rs-text: #f0fdf4;
+    --rs-primary: #22c55e;
+    --rs-secondary: #16a34a;
+    --rs-border: #166534;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-sunstead-peace,
+    body:not(.theme-light):not(.theme-dark).theme-sunstead-peace {
+        --rs-bg: #052e16;
+        --rs-surface: #14532d;
+        --rs-text: #f0fdf4;
+        --rs-primary: #22c55e;
+        --rs-secondary: #16a34a;
+        --rs-border: #166534;
+    }
+}

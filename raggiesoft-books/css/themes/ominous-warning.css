@@ -1,0 +1,35 @@
+/* Theme Name: Ominous Warning */
+
+/* Light Mode (Base) */
+body.theme-ominous-warning,
+body.theme-light.theme-ominous-warning {
+    --rs-bg: #fffbeb;
+    --rs-surface: #fef3c7;
+    --rs-text: #450a0a;
+    --rs-primary: #b91c1c;
+    --rs-secondary: #dc2626;
+    --rs-border: #fde68a;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-ominous-warning {
+    --rs-bg: #1c0101;
+    --rs-surface: #450a0a;
+    --rs-text: #fffbeb;
+    --rs-primary: #ef4444;
+    --rs-secondary: #f87171;
+    --rs-border: #7f1d1d;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-ominous-warning,
+    body:not(.theme-light):not(.theme-dark).theme-ominous-warning {
+        --rs-bg: #1c0101;
+        --rs-surface: #450a0a;
+        --rs-text: #fffbeb;
+        --rs-primary: #ef4444;
+        --rs-secondary: #f87171;
+        --rs-border: #7f1d1d;
+    }
+}

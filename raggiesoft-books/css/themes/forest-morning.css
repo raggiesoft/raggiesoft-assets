@@ -1,0 +1,35 @@
+/* Theme Name: Forest Morning */
+
+/* Light Mode (Base) */
+body.theme-forest-morning,
+body.theme-light.theme-forest-morning {
+    --rs-bg: #f0fdfa;
+    --rs-surface: #ccfbf1;
+    --rs-text: #042f2e;
+    --rs-primary: #0f766e;
+    --rs-secondary: #14b8a6;
+    --rs-border: #99f6e4;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-forest-morning {
+    --rs-bg: #042f2e;
+    --rs-surface: #115e59;
+    --rs-text: #f0fdfa;
+    --rs-primary: #5eead4;
+    --rs-secondary: #2dd4bf;
+    --rs-border: #134e4a;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-forest-morning,
+    body:not(.theme-light):not(.theme-dark).theme-forest-morning {
+        --rs-bg: #042f2e;
+        --rs-surface: #115e59;
+        --rs-text: #f0fdfa;
+        --rs-primary: #5eead4;
+        --rs-secondary: #2dd4bf;
+        --rs-border: #134e4a;
+    }
+}

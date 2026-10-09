@@ -1,0 +1,35 @@
+/* Theme Name: Cosmic Horror */
+
+/* Light Mode (Base) */
+body.theme-cosmic-horror,
+body.theme-light.theme-cosmic-horror {
+    --rs-bg: #f3f4f6;
+    --rs-surface: #e5e7eb;
+    --rs-text: #111827;
+    --rs-primary: #7f1d1d;
+    --rs-secondary: #991b1b;
+    --rs-border: #d1d5db;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-cosmic-horror {
+    --rs-bg: #050005;
+    --rs-surface: #111827;
+    --rs-text: #f3f4f6;
+    --rs-primary: #dc2626;
+    --rs-secondary: #b91c1c;
+    --rs-border: #1f2937;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-cosmic-horror,
+    body:not(.theme-light):not(.theme-dark).theme-cosmic-horror {
+        --rs-bg: #050005;
+        --rs-surface: #111827;
+        --rs-text: #f3f4f6;
+        --rs-primary: #dc2626;
+        --rs-secondary: #b91c1c;
+        --rs-border: #1f2937;
+    }
+}

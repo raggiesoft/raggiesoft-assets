@@ -1,0 +1,35 @@
+/* Theme Name: Ocean Volcanic */
+
+/* Light Mode (Base) */
+body.theme-ocean-volcanic,
+body.theme-light.theme-ocean-volcanic {
+    --rs-bg: #fef2f2;
+    --rs-surface: #fee2e2;
+    --rs-text: #450a0a;
+    --rs-primary: #dc2626;
+    --rs-secondary: #ef4444;
+    --rs-border: #fecaca;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-ocean-volcanic {
+    --rs-bg: #180305;
+    --rs-surface: #450a0a;
+    --rs-text: #fef2f2;
+    --rs-primary: #f87171;
+    --rs-secondary: #ef4444;
+    --rs-border: #7f1d1d;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-ocean-volcanic,
+    body:not(.theme-light):not(.theme-dark).theme-ocean-volcanic {
+        --rs-bg: #180305;
+        --rs-surface: #450a0a;
+        --rs-text: #fef2f2;
+        --rs-primary: #f87171;
+        --rs-secondary: #ef4444;
+        --rs-border: #7f1d1d;
+    }
+}

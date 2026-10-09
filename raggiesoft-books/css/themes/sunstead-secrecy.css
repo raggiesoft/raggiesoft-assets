@@ -1,0 +1,35 @@
+/* Theme Name: Sunstead Secrecy */
+
+/* Light Mode (Base) */
+body.theme-sunstead-secrecy,
+body.theme-light.theme-sunstead-secrecy {
+    --rs-bg: #f8fafc;
+    --rs-surface: #f1f5f9;
+    --rs-text: #0f172a;
+    --rs-primary: #334155;
+    --rs-secondary: #475569;
+    --rs-border: #e2e8f0;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-sunstead-secrecy {
+    --rs-bg: #020617;
+    --rs-surface: #0f172a;
+    --rs-text: #f8fafc;
+    --rs-primary: #94a3b8;
+    --rs-secondary: #64748b;
+    --rs-border: #1e293b;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-sunstead-secrecy,
+    body:not(.theme-light):not(.theme-dark).theme-sunstead-secrecy {
+        --rs-bg: #020617;
+        --rs-surface: #0f172a;
+        --rs-text: #f8fafc;
+        --rs-primary: #94a3b8;
+        --rs-secondary: #64748b;
+        --rs-border: #1e293b;
+    }
+}

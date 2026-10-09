@@ -1,0 +1,35 @@
+/* Theme Name: Sunstead Winter */
+
+/* Light Mode (Base) */
+body.theme-sunstead-winter,
+body.theme-light.theme-sunstead-winter {
+    --rs-bg: #f0f9ff;
+    --rs-surface: #e0f2fe;
+    --rs-text: #082f49;
+    --rs-primary: #0369a1;
+    --rs-secondary: #0284c7;
+    --rs-border: #bae6fd;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-sunstead-winter {
+    --rs-bg: #082f49;
+    --rs-surface: #0c4a6e;
+    --rs-text: #f0f9ff;
+    --rs-primary: #38bdf8;
+    --rs-secondary: #0ea5e9;
+    --rs-border: #075985;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-sunstead-winter,
+    body:not(.theme-light):not(.theme-dark).theme-sunstead-winter {
+        --rs-bg: #082f49;
+        --rs-surface: #0c4a6e;
+        --rs-text: #f0f9ff;
+        --rs-primary: #38bdf8;
+        --rs-secondary: #0ea5e9;
+        --rs-border: #075985;
+    }
+}

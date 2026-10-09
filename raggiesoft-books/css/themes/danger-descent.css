@@ -1,0 +1,35 @@
+/* Theme Name: Danger Descent */
+
+/* Light Mode (Base) */
+body.theme-danger-descent,
+body.theme-light.theme-danger-descent {
+    --rs-bg: #fff7ed;
+    --rs-surface: #ffedd5;
+    --rs-text: #1c1917;
+    --rs-primary: #ea580c;
+    --rs-secondary: #f97316;
+    --rs-border: #fed7aa;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-danger-descent {
+    --rs-bg: #0a0705;
+    --rs-surface: #1c1917;
+    --rs-text: #fff7ed;
+    --rs-primary: #fdba74;
+    --rs-secondary: #fb923c;
+    --rs-border: #292524;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-danger-descent,
+    body:not(.theme-light):not(.theme-dark).theme-danger-descent {
+        --rs-bg: #0a0705;
+        --rs-surface: #1c1917;
+        --rs-text: #fff7ed;
+        --rs-primary: #fdba74;
+        --rs-secondary: #fb923c;
+        --rs-border: #292524;
+    }
+}

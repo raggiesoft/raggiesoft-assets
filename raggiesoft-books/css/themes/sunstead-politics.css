@@ -1,0 +1,35 @@
+/* Theme Name: Sunstead Politics */
+
+/* Light Mode (Base) */
+body.theme-sunstead-politics,
+body.theme-light.theme-sunstead-politics {
+    --rs-bg: #faf5ff;
+    --rs-surface: #f3e8ff;
+    --rs-text: #3b0764;
+    --rs-primary: #7e22ce;
+    --rs-secondary: #9333ea;
+    --rs-border: #e9d5ff;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-sunstead-politics {
+    --rs-bg: #2e1065;
+    --rs-surface: #3b0764;
+    --rs-text: #faf5ff;
+    --rs-primary: #c084fc;
+    --rs-secondary: #a855f7;
+    --rs-border: #581c87;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-sunstead-politics,
+    body:not(.theme-light):not(.theme-dark).theme-sunstead-politics {
+        --rs-bg: #2e1065;
+        --rs-surface: #3b0764;
+        --rs-text: #faf5ff;
+        --rs-primary: #c084fc;
+        --rs-secondary: #a855f7;
+        --rs-border: #581c87;
+    }
+}

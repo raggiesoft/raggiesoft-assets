@@ -1,0 +1,35 @@
+/* Theme Name: Divine Temple */
+
+/* Light Mode (Base) */
+body.theme-divine-temple,
+body.theme-light.theme-divine-temple {
+    --rs-bg: #ffffff;
+    --rs-surface: #f8fafc;
+    --rs-text: #0f172a;
+    --rs-primary: #eab308;
+    --rs-secondary: #facc15;
+    --rs-border: #e2e8f0;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-divine-temple {
+    --rs-bg: #020617;
+    --rs-surface: #0f172a;
+    --rs-text: #ffffff;
+    --rs-primary: #fef08a;
+    --rs-secondary: #fde047;
+    --rs-border: #1e293b;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-divine-temple,
+    body:not(.theme-light):not(.theme-dark).theme-divine-temple {
+        --rs-bg: #020617;
+        --rs-surface: #0f172a;
+        --rs-text: #ffffff;
+        --rs-primary: #fef08a;
+        --rs-secondary: #fde047;
+        --rs-border: #1e293b;
+    }
+}

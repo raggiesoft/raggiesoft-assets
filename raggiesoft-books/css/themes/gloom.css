@@ -1,0 +1,35 @@
+/* Theme Name: Gloom */
+
+/* Light Mode (Base) */
+body.theme-gloom,
+body.theme-light.theme-gloom {
+    --rs-bg: #f4f4f5;
+    --rs-surface: #e4e4e7;
+    --rs-text: #27272a;
+    --rs-primary: #52525b;
+    --rs-secondary: #71717a;
+    --rs-border: #d4d4d8;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-gloom {
+    --rs-bg: #09090b;
+    --rs-surface: #18181b;
+    --rs-text: #f4f4f5;
+    --rs-primary: #a1a1aa;
+    --rs-secondary: #71717a;
+    --rs-border: #27272a;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-gloom,
+    body:not(.theme-light):not(.theme-dark).theme-gloom {
+        --rs-bg: #09090b;
+        --rs-surface: #18181b;
+        --rs-text: #f4f4f5;
+        --rs-primary: #a1a1aa;
+        --rs-secondary: #71717a;
+        --rs-border: #27272a;
+    }
+}

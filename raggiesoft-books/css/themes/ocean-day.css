@@ -1,0 +1,35 @@
+/* Theme Name: Ocean Day */
+
+/* Light Mode (Base) */
+body.theme-ocean-day,
+body.theme-light.theme-ocean-day {
+    --rs-bg: #eff6ff;
+    --rs-surface: #dbeafe;
+    --rs-text: #1e3a8a;
+    --rs-primary: #1d4ed8;
+    --rs-secondary: #2563eb;
+    --rs-border: #bfdbfe;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-ocean-day {
+    --rs-bg: #172554;
+    --rs-surface: #1e3a8a;
+    --rs-text: #eff6ff;
+    --rs-primary: #60a5fa;
+    --rs-secondary: #3b82f6;
+    --rs-border: #1e40af;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-ocean-day,
+    body:not(.theme-light):not(.theme-dark).theme-ocean-day {
+        --rs-bg: #172554;
+        --rs-surface: #1e3a8a;
+        --rs-text: #eff6ff;
+        --rs-primary: #60a5fa;
+        --rs-secondary: #3b82f6;
+        --rs-border: #1e40af;
+    }
+}

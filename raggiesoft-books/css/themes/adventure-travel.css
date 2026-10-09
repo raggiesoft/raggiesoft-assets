@@ -1,0 +1,35 @@
+/* Theme Name: Adventure Travel */
+
+/* Light Mode (Base) */
+body.theme-adventure-travel,
+body.theme-light.theme-adventure-travel {
+    --rs-bg: #fdf8f6;
+    --rs-surface: #f2ebe9;
+    --rs-text: #4a3b32;
+    --rs-primary: #8b6a50;
+    --rs-secondary: #b48c69;
+    --rs-border: #dfcec3;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-adventure-travel {
+    --rs-bg: #2e2118;
+    --rs-surface: #4a3b32;
+    --rs-text: #fdf8f6;
+    --rs-primary: #c4a080;
+    --rs-secondary: #ab815d;
+    --rs-border: #634c3a;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-adventure-travel,
+    body:not(.theme-light):not(.theme-dark).theme-adventure-travel {
+        --rs-bg: #2e2118;
+        --rs-surface: #4a3b32;
+        --rs-text: #fdf8f6;
+        --rs-primary: #c4a080;
+        --rs-secondary: #ab815d;
+        --rs-border: #634c3a;
+    }
+}

@@ -1,0 +1,35 @@
+/* Theme Name: Ocean Storm */
+
+/* Light Mode (Base) */
+body.theme-ocean-storm,
+body.theme-light.theme-ocean-storm {
+    --rs-bg: #e2e8f0;
+    --rs-surface: #cbd5e1;
+    --rs-text: #0f172a;
+    --rs-primary: #0284c7;
+    --rs-secondary: #0369a1;
+    --rs-border: #94a3b8;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-ocean-storm {
+    --rs-bg: #020617;
+    --rs-surface: #0f172a;
+    --rs-text: #e2e8f0;
+    --rs-primary: #38bdf8;
+    --rs-secondary: #0ea5e9;
+    --rs-border: #1e293b;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-ocean-storm,
+    body:not(.theme-light):not(.theme-dark).theme-ocean-storm {
+        --rs-bg: #020617;
+        --rs-surface: #0f172a;
+        --rs-text: #e2e8f0;
+        --rs-primary: #38bdf8;
+        --rs-secondary: #0ea5e9;
+        --rs-border: #1e293b;
+    }
+}

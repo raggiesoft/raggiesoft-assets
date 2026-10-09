@@ -1,0 +1,35 @@
+/* Theme Name: Trauma Healing */
+
+/* Light Mode (Base) */
+body.theme-trauma-healing,
+body.theme-light.theme-trauma-healing {
+    --rs-bg: #fef2f8;
+    --rs-surface: #fce7f3;
+    --rs-text: #831843;
+    --rs-primary: #db2777;
+    --rs-secondary: #ec4899;
+    --rs-border: #fbcfe8;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-trauma-healing {
+    --rs-bg: #2e061a;
+    --rs-surface: #500724;
+    --rs-text: #fef2f8;
+    --rs-primary: #f472b6;
+    --rs-secondary: #ec4899;
+    --rs-border: #831843;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-trauma-healing,
+    body:not(.theme-light):not(.theme-dark).theme-trauma-healing {
+        --rs-bg: #2e061a;
+        --rs-surface: #500724;
+        --rs-text: #fef2f8;
+        --rs-primary: #f472b6;
+        --rs-secondary: #ec4899;
+        --rs-border: #831843;
+    }
+}

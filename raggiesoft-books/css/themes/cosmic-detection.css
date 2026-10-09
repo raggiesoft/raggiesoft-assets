@@ -1,0 +1,35 @@
+/* Theme Name: Cosmic Detection */
+
+/* Light Mode (Base) */
+body.theme-cosmic-detection,
+body.theme-light.theme-cosmic-detection {
+    --rs-bg: #ecfeff;
+    --rs-surface: #cffafe;
+    --rs-text: #164e63;
+    --rs-primary: #0891b2;
+    --rs-secondary: #06b6d4;
+    --rs-border: #a5f3fc;
+}
+
+/* Dark Mode (Explicitly Forced) */
+body.theme-dark.theme-cosmic-detection {
+    --rs-bg: #081b21;
+    --rs-surface: #164e63;
+    --rs-text: #ecfeff;
+    --rs-primary: #22d3ee;
+    --rs-secondary: #06b6d4;
+    --rs-border: #155e75;
+}
+
+/* OS Auto Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-cosmic-detection,
+    body:not(.theme-light):not(.theme-dark).theme-cosmic-detection {
+        --rs-bg: #081b21;
+        --rs-surface: #164e63;
+        --rs-text: #ecfeff;
+        --rs-primary: #22d3ee;
+        --rs-secondary: #06b6d4;
+        --rs-border: #155e75;
+    }
+}
