@@ -328,13 +328,15 @@ function initOceanViewReader() {
         }
         document.body.className = document.body.className.replace(/narrative-theme-[a-zA-Z0-9_-]+/g, '').trim();
 
+        // ALWAYS apply the base theme class (e.g. theme-auto, theme-dark) as a fallback
+        document.body.classList.add(`theme-${theme}`);
+
         if (currentCustomThemeEnabled && narrativeTheme && narrativeTheme.trim() !== '') {
             document.body.classList.add('theme-custom');
             document.body.classList.add(`theme-${narrativeTheme}`);
             if (customThemeLink) customThemeLink.disabled = false;
         } else {
             if (customThemeLink) customThemeLink.disabled = true;
-            document.body.classList.add(`theme-${theme}`);
         }
         
         if (themeSelect) themeSelect.value = theme;
