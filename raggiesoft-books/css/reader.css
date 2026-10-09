@@ -142,3 +142,14 @@ body.theme-dark-sepia .ios-tab-item.inactive {
         color: #757575;
     }
 }
+
+/* PWA Native Title Bar Integration */
+@media (display-mode: window-controls-overlay) {
+    .app-header, #stardust-header, .wizard-dialog header, .reader-sidebar {
+        padding-top: env(titlebar-area-height, 10px);
+        -webkit-app-region: drag;
+    }
+    a, button, input, .wizard-content, .reader-page, .settings-tab {
+        -webkit-app-region: no-drag;
+    }
+}
