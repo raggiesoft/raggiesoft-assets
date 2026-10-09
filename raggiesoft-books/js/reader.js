@@ -626,6 +626,64 @@ function initOceanViewReader() {
     // Call it immediately so books hide on catalog load
     applyHiddenBooks();
 
+    // Offline caching functions
+    async function downloadBookForOffline(slug) {
+        const cdnBase = document.body.dataset.cdnUrl || 'https://assets.raggiesoft.com';
+        try {
+            console.log('Downloading book for offline: ' + slug);
+            const res = await fetch(`${cdnBase}/raggiesoft-books/books/${slug}/toc.json`);
+            if (!res.ok) return;
+            const toc = await res.json();
+            
+            let files = [
+                `${cdnBase}/raggiesoft-books/images/covers/2x3/${slug}.jpg`,
+                `${cdnBase}/raggiesoft-books/books/${slug}/__SERIES_LANDING__`,
+                `${cdnBase}/raggiesoft-books/books/${slug}/__TOC__`
+            ];
+            
+            if (toc.books) {
+                toc.books.forEach(b => {
+                    files.push(`${cdnBase}/raggiesoft-books/books/${slug}/${b.id}/__BOOK_TOC__|${b.id}`);
+                    if (b.chapters) {
+                        b.chapters.forEach(c => {
+                            files.push(`${cdnBase}/raggiesoft-books/books/${slug}/${b.id}/${c.id}/__CHAP_TOC__|${b.id}|${c.id}`);
+                            if (c.parts) {
+                                c.parts.forEach(p => {
+                                    files.push(`${cdnBase}/raggiesoft-books/books/${slug}/${b.id}/${c.id}/${p.file}`);
+                                });
+                            }
+                        });
+                    }
+                });
+            }
+            
+            // Prefetch each file, allowing SW to cache it
+            for (let url of files) {
+                fetch(url, { mode: 'cors' }).catch(e => console.log('Offline fetch error:', e));
+            }
+        } catch(e) {
+            console.error('Failed to download book for offline:', e);
+        }
+    }
+
+    async function removeBookFromOffline(slug) {
+        try {
+            console.log('Removing book from offline cache: ' + slug);
+            const cacheKeys = ['ova-dynamic-v4', 'ova-images-v4'];
+            for (let cName of cacheKeys) {
+                const cache = await caches.open(cName);
+                const reqs = await cache.keys();
+                for (let req of reqs) {
+                    if (req.url.includes(`/books/${slug}/`) || req.url.includes(`covers/2x3/${slug}.jpg`)) {
+                        await cache.delete(req);
+                    }
+                }
+            }
+        } catch(e) {
+            console.error('Failed to remove book from cache:', e);
+        }
+    }
+
     if (libraryList) {
         // Populate the list (only once)
         if (libraryList.children.length === 0) {
@@ -638,41 +696,68 @@ function initOceanViewReader() {
                     
                     books.forEach(book => {
                         const isHidden = hiddenBooks.includes(book.slug);
+                        
+                        const item = document.createElement('div');
+                        item.style = 'display: flex; justify-content: space-between; align-items: center; padding: 0.75rem; background: var(--rs-surface); border: 1px solid var(--rs-border); border-radius: 8px;';
+                        
+                        const titleDiv = document.createElement('div');
+                        titleDiv.style = 'font-weight: 600; color: var(--rs-heading); font-size: 0.95rem;';
+                        titleDiv.textContent = book.title;
+                        
+                        // Create a toggle switch
                         const label = document.createElement('label');
-                        label.style.display = 'flex';
-                        label.style.alignItems = 'center';
-                        label.style.gap = '0.5rem';
-                        label.style.cursor = 'pointer';
+                        label.style = 'position: relative; display: inline-block; width: 44px; height: 24px; cursor: pointer;';
                         
                         const checkbox = document.createElement('input');
                         checkbox.type = 'checkbox';
                         checkbox.checked = !isHidden;
-                        checkbox.style.accentColor = 'var(--rs-primary)';
-                        checkbox.style.width = '1.1rem';
-                        checkbox.style.height = '1.1rem';
+                        checkbox.style = 'opacity: 0; width: 0; height: 0;';
                         
-                        checkbox.addEventListener('change', (e) => {
+                        const slider = document.createElement('span');
+                        slider.style = 'position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background-color: var(--rs-border); transition: .4s; border-radius: 24px;';
+                        
+                        const knob = document.createElement('span');
+                        knob.style = 'position: absolute; content: ""; height: 18px; width: 18px; left: 3px; bottom: 3px; background-color: white; transition: .4s; border-radius: 50%;';
+                        
+                        const updateSwitchUI = () => {
+                            if (checkbox.checked) {
+                                slider.style.backgroundColor = 'var(--rs-primary)';
+                                knob.style.transform = 'translateX(20px)';
+                            } else {
+                                slider.style.backgroundColor = 'var(--rs-border)';
+                                knob.style.transform = 'translateX(0)';
+                            }
+                        };
+                        updateSwitchUI();
+                        
+                        checkbox.addEventListener('change', async (e) => {
+                            updateSwitchUI();
                             let currentHidden = [];
                             try { currentHidden = JSON.parse(localStorage.getItem('rs-hidden-books') || '[]'); } catch(e) {}
                             
                             if (!e.target.checked) {
                                 if (!currentHidden.includes(book.slug)) currentHidden.push(book.slug);
+                                await removeBookFromOffline(book.slug);
                             } else {
                                 currentHidden = currentHidden.filter(s => s !== book.slug);
+                                await downloadBookForOffline(book.slug);
                             }
                             localStorage.setItem('rs-hidden-books', JSON.stringify(currentHidden));
                             applyHiddenBooks();
                         });
                         
+                        slider.appendChild(knob);
                         label.appendChild(checkbox);
-                        label.appendChild(document.createTextNode(book.title));
-                        libraryList.appendChild(label);
+                        label.appendChild(slider);
+                        
+                        item.appendChild(titleDiv);
+                        item.appendChild(label);
+                        libraryList.appendChild(item);
                     });
                 })
                 .catch(err => console.error("Could not load catalog for management", err));
         }
     }
-
 } // end initOceanViewReader()
 
 // Prevent duplicate event listeners
