@@ -50,3 +50,19 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 .rs-input { background: var(--rs-surface); color: var(--rs-text); border: 1px solid var(--rs-border); border-radius: 6px; font-family: inherit; }
 .rs-input:focus { outline: 2px solid var(--rs-primary); outline-offset: 1px; }
 
+
+/* Mobile Native Scroll Fix (Allows iOS Tap-to-Top and fixes 100vh bugs) */
+@media (max-width: 991px) {
+    #stardust-main-wrapper {
+        height: auto !important;
+        min-height: 100dvh;
+        overflow: visible !important;
+        display: block !important;
+    }
+    #stardust-reading-pane,
+    .stardust-mobile-scroll {
+        height: auto !important;
+        min-height: 100dvh;
+        overflow: visible !important;
+    }
+}
