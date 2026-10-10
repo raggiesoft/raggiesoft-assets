@@ -1,31 +1,61 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: COURTROOM
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a highly formal, stark, and structured theme. Utilizing crisp 
+ * whites, imposing dark slates, and strict greyscale variants, this theme 
+ * conveys seriousness and institutional weight.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture bridging manual toggles and OS-level preferences.
+ * - Stark contrast ratios ensuring maximum accessibility and a clinical aesthetic.
+ * 
+ * Maintenance Notes:
+ * - Avoid introducing highly saturated colors into this palette. If primary
+ *   button states require higher visibility, adjust luminance, not hue.
+ * ============================================================================
+ */
+
 /* Theme Name: Courtroom */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Default styling applied when no theme is forced or Light Mode is explicitly chosen */
 body.theme-courtroom,
 body.theme-light.theme-courtroom {
---rs-bg: #f8fafc; /* Crisp, formal white/gray */
-    --rs-surface: #ffffff;
-    --rs-text: #0f172a;
-    --rs-primary: #334155; /* Formal slate */
-    --rs-secondary: #94a3b8;
-    --rs-border: #cbd5e1;
+    --rs-bg: #f8fafc; /* Crisp, formal white/gray background */
+    --rs-surface: #ffffff; /* Absolute white for pristine document surfaces */
+    --rs-text: #0f172a; /* Deep, near-black slate for maximum readability */
+    --rs-primary: #334155; /* Formal, authoritative slate for primary actions */
+    --rs-secondary: #94a3b8; /* Mid-tone slate for secondary, de-emphasized elements */
+    --rs-border: #cbd5e1; /* Clear, structured border lines */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Styling applied ONLY when the user explicitly forces the UI to Dark Mode */
 body.theme-dark.theme-courtroom {
---rs-bg: #0f172a; /* Imposing dark slate */
-        --rs-surface: #1e293b;
-        --rs-text: #f8fafc;
-        --rs-primary: #94a3b8;
-        --rs-secondary: #475569;
-        --rs-border: #334155;
+    --rs-bg: #0f172a; /* Imposing, heavy dark slate background */
+    --rs-surface: #1e293b; /* Slightly raised slate surface */
+    --rs-text: #f8fafc; /* Crisp white text to cut through the dark background */
+    --rs-primary: #94a3b8; /* Muted slate primary color to avoid neon glare */
+    --rs-secondary: #475569; /* Darker slate for secondary interactions */
+    --rs-border: #334155; /* Institutional dark division lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Applies the dark palette automatically based on the user's OS preference */
 @media (prefers-color-scheme: dark) {
+    /* Targets users who have set the app to 'auto' or have no preference saved */
     body.theme-auto.theme-courtroom,
     body:not(.theme-light):not(.theme-dark).theme-courtroom {
---rs-bg: #0f172a; /* Imposing dark slate */
+        /* Mirrored from Explicit Dark Mode palette */
+        --rs-bg: #0f172a; /* Imposing dark slate */
         --rs-surface: #1e293b;
         --rs-text: #f8fafc;
         --rs-primary: #94a3b8;

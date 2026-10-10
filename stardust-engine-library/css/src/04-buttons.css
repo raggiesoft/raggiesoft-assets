@@ -1,28 +1,60 @@
-/* 04-buttons.css: Replaces <wa-button> */
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - COMPONENT: BUTTONS
+ * 04-buttons.css
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the structural and visual baseline for interactive
+ * button components within the custom Stardust CSS framework. It replaces the 
+ * heavy dependency on external web components (like `<wa-button>`) with a 
+ * lightweight, native CSS solution.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Standardization: Provides a uniform, cross-browser appearance for buttons
+ *    using Flexbox for alignment.
+ * 2. Theme Agnostic: Relies entirely on global `--rs-*` CSS variables, meaning
+ *    these buttons automatically adapt to light/dark mode and specific theme palettes.
+ * 3. Interaction Design: Includes standard `hover` states with transition timing.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - Apply `.rs-btn` for a standard button.
+ * - Combine with modifiers like `.rs-btn-primary` for semantic meaning.
+ * ========================================================================== */
+
+/* Base Button Structure */
 .rs-btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
+    gap: 0.5rem;              /* Consistent spacing between text and icons */
+    padding: 0.5rem 1rem;     /* Comfortable touch target size */
     font-size: 1rem;
     font-weight: 500;
     border-radius: 6px;
-    border: 1px solid transparent;
+    border: 1px solid transparent; /* Prevents layout shift when borders are added */
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.2s ease;     /* Smooth interactive feedback */
+    
+    /* Dynamically inherited colors from root variables */
     background: var(--rs-surface);
     color: var(--rs-text);
     border-color: var(--rs-border);
 }
+
+/* Base Hover State */
 .rs-btn:hover {
     background: var(--rs-border);
 }
+
+/* Primary Semantic Modifier */
+/* Used for main calls-to-action */
 .rs-btn-primary {
     background: var(--rs-primary);
-    color: #ffffff;
+    color: #ffffff;                /* Hardcoded white ensures contrast against primary fills */
     border-color: var(--rs-primary);
 }
+
+/* Primary Hover State */
 .rs-btn-primary:hover {
-    opacity: 0.9;
+    opacity: 0.9;                  /* Subtle fade instead of full color shift */
 }

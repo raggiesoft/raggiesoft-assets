@@ -1,3 +1,20 @@
+/* ==============================================================================
+ * CRIMSON NODE THEME (WCAG AA Compliant)
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Core design token definitions for the Shiloh interface ("Vanguard LogicPad"). 
+ * Translates the high-contrast aesthetic of clinical medical/military GUIs into 
+ * both Light and Dark mode variables overriding Bootstrap defaults.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - Any changes to semantic hex colors (`--bs-primary`, `--bs-success`, etc.) 
+ *   MUST be accompanied by a corresponding update to the `-rgb` comma-separated 
+ *   variables, which are heavily relied upon by rgba() alpha channels throughout 
+ *   the system for glow effects and HUD translucent layers.
+ * - `data-bs-theme="dark"` is manually mapped to allow Javascript-driven toggles
+ *   to force dark mode even if the user OS preference is light.
+ * ============================================================================== */
+
 /* ==========================================================================
  * CRIMSON NODE THEME (WCAG AA Compliant)
  * Concept: The Vanguard LogicPad & The Aesthetic of Wonder
@@ -74,6 +91,7 @@
 }
 
 /* Force Dark Mode Override (JS Toggle Compatibility) */
+/* This block intentionally duplicates the media query block to override system preferences */
 [data-bs-theme="dark"] {
     --bs-primary: #FF3333;
     --bs-secondary: #66B2FF;
@@ -101,6 +119,7 @@
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
  * ========================================================================== */
+/* Maps Bootstrap contextual colors to Web Components API */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {

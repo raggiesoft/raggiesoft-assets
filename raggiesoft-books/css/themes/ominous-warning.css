@@ -1,30 +1,61 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: OMINOUS WARNING
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a high-tension, warning-oriented theme utilizing intense ambers and 
+ * stark crimson reds. Designed for critical alerts or dramatic narrative moments.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture bridging manual toggles and OS-level preferences.
+ * - Drastic shift between the pale-amber Light Mode and the pitch-red Dark Mode
+ *   to ensure the 'warning' nature translates effectively in both settings.
+ * 
+ * Maintenance Notes:
+ * - Dark mode contrast heavily relies on the off-white text (`#fffbeb`). Do not
+ *   darken this text color, as it will fail WCAG contrast guidelines against the
+ *   dark crimson surface (`#450a0a`).
+ * ============================================================================
+ */
+
 /* Theme Name: Ominous Warning */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Applied by default, or explicitly forced by user toggle */
 body.theme-ominous-warning,
 body.theme-light.theme-ominous-warning {
-    --rs-bg: #fffbeb;
-    --rs-surface: #fef3c7;
-    --rs-text: #450a0a;
-    --rs-primary: #b91c1c;
-    --rs-secondary: #dc2626;
-    --rs-border: #fde68a;
+    --rs-bg: #fffbeb; /* Pale, sickly amber background evoking caution */
+    --rs-surface: #fef3c7; /* Slightly deeper amber for raised surfaces */
+    --rs-text: #450a0a; /* Deep, dried-blood red for maximum text readability */
+    --rs-primary: #b91c1c; /* Sharp crimson for primary warning actions */
+    --rs-secondary: #dc2626; /* Brighter red for hover states and secondary emphasis */
+    --rs-border: #fde68a; /* Amber-gold boundary lines */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Active only when the `theme-dark` class is explicitly appended to the body */
 body.theme-dark.theme-ominous-warning {
-    --rs-bg: #1c0101;
-    --rs-surface: #450a0a;
-    --rs-text: #fffbeb;
-    --rs-primary: #ef4444;
-    --rs-secondary: #f87171;
-    --rs-border: #7f1d1d;
+    --rs-bg: #1c0101; /* Pitch black-red for an oppressive, dangerous feel */
+    --rs-surface: #450a0a; /* Dark crimson surface color to lift UI elements */
+    --rs-text: #fffbeb; /* Stark pale amber text to cut through the dark UI */
+    --rs-primary: #ef4444; /* Vivid, bright red to command immediate attention */
+    --rs-secondary: #f87171; /* Softer coral-red for secondary text and borders */
+    --rs-border: #7f1d1d; /* Deep blood-red structural division lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Intercepts system-level dark mode requests if no explicit override is set */
 @media (prefers-color-scheme: dark) {
+    /* Triggers only on `theme-auto` or when no specific light/dark class is present */
     body.theme-auto.theme-ominous-warning,
     body:not(.theme-light):not(.theme-dark).theme-ominous-warning {
+        /* Mirrored from Explicit Dark Mode palette */
         --rs-bg: #1c0101;
         --rs-surface: #450a0a;
         --rs-text: #fffbeb;

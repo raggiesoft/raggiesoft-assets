@@ -1,5 +1,26 @@
 #!/usr/bin/env php
 <?php
+/**
+ * ============================================================================
+ * FILE: decompile-family.php
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This script is responsible for reversing the compilation process of world data
+ * and lore. It reads compiled JSON and Markdown lumps and decomposes them back
+ * into discrete file structures.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Uses structured markers (e.g., `## [FILE:`) within Markdown to demarcate
+ *   file boundaries.
+ * - Handles both loose grouped records and individual objects with injected
+ *   `_source_file` properties in JSON.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Ensure directory traversal and creation (`ensureDir`) remains secure.
+ * - If the compilation structure of Markdown (`---` tokens or `## [FILE:`)
+ *   changes, the explosion and truncation logic here must be updated accordingly.
+ * ============================================================================
+ */
 
 // Define the source directory for the lumps and the output directories for the decompiled files
 $compiledDir = __DIR__ . '/compiled';
@@ -29,7 +50,7 @@ if (file_exists($jsonInputFile)) {
         $pendingGroupedData = [];
 
         foreach ($masterData as $key => $value) {
-            // SCENARIO A: Handle grouped data (like 'places/hospitals.json') where the _source_file is a loose root key
+            // SCENARIO A: Handle grouped data (like 'places/hospitals.json') where the _source_file is a loose root key. This usually occurs when arrays of items are compiled together.
             if ($key === '_source_file') {
                 $fullPath = $outputJsonDir . '/' . $value;
                 ensureDir($fullPath);

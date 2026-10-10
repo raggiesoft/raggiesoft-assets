@@ -1,7 +1,24 @@
+/**
+ * Architectural Block: safety-net.css
+ *
+ * This stylesheet acts as an absolute baseline fallback to ensure the site 
+ * remains readable if the primary CSS bundle (Bootstrap + WebAwesome) fails 
+ * to load, gets corrupted, or is blocked by network issues.
+ *
+ * Key Responsibilities:
+ * 1. Establish basic typography and layout resets.
+ * 2. Provide hardcoded, high-contrast fallback colors for Dark Mode.
+ *
+ * Maintenance Notes:
+ * - Keep this file extremely small and free of external dependencies (e.g., no `@import` or fonts).
+ * - Only use highly generic font stacks (`sans-serif`) and hex color values (no CSS variables).
+ */
+
 /* safety-net.css (Engine Room Records - Industrial Update) */
 
 /* Ensure text is always readable even if Bootstrap fails slightly */
 body {
+    /* Basic system font fallback to prevent unstyled Times New Roman */
     font-family: sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -9,15 +26,20 @@ body {
 }
 
 a {
+    /* Remove default browser underline for a cleaner fallback look */
     text-decoration: none;
 }
 
 /* Force dark mode legibility if JS or custom CSS variables fail */
 [data-bs-theme="dark"] body {
+    /* Hardcoded deep gunmetal background in case variable resolution fails */
     background-color: #0d0f12; /* Deep gunmetal fallback */
+    
+    /* Hardcoded light text to ensure contrast against the dark background */
     color: #e9ecef; /* Light ash fallback */
 }
 
 [data-bs-theme="dark"] a {
+    /* High visibility hazard red for links in dark mode */
     color: #ff6b6b; /* Hazard red fallback */
 }

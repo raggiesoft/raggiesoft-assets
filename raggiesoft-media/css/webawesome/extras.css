@@ -1,7 +1,33 @@
-/* ==========================================================================
-   RAGGIESOFT AERO EXTRAS
-   Purpose: Frutiger Aero / Dark Aero global utilities and components.
-   ========================================================================== */
+/**
+ * ============================================================================
+ * COMPONENT: extras.css (WebAwesome Aero Theme)
+ * CONTEXT: Global Visual Utilities & Easter Eggs
+ *
+ * PURPOSE:
+ * Provides supplemental CSS utility classes designed to mimic the "Frutiger Aero"
+ * and "Dark Aero" design languages of the late 2000s. Enhances Bootstrap 5 with
+ * volumetric glass panels, glowing text, and custom scrollbars.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included as a secondary stylesheet after the main `theme.css`. It overrides
+ * default browser UI elements (selection, scrollbars) and provides the `.bg-hud-*`
+ * classes used for narrative panels across the CMS.
+ *
+ * KEY COMPONENTS:
+ * - Scrollbar Overrides: Replaces flat WebKit scrollbars with pill-like, gradient
+ *   tracks that adapt to dark mode.
+ * - CRT Bloom: The `.text-glow-primary` class utilizes aggressive `text-shadow`
+ *   layering to simulate phosphorescent screen glow.
+ * - The Aero HUD System: `.bg-hud-*` applies `backdrop-filter: blur() saturate()`
+ *   with translucent gradients and thick left-borders, creating a volumetric glass effect.
+ * - The Konami Easter Egg: `.konami-activated` triggers a CSS animation pulse when
+ *   injected into the DOM via JavaScript.
+ *
+ * MAINTENANCE NOTES:
+ * - `backdrop-filter` is hardware-accelerated but can cause render jank on older
+ *   mobile devices if applied to elements with constant layout thrashing.
+ * ============================================================================
+ */
 
 /* --- 1. Global Layout & Selection Fixes --- */
 html, body {

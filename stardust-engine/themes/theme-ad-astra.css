@@ -1,6 +1,30 @@
+/**
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW: theme-ad-astra.css
+ * ============================================================================
+ * This is a bundled CSS theme file for the "Ad Astra" ("Escape Velocity") theme
+ * within the Stardust Engine framework. It aggregates multiple logical modules:
+ * 1. root.css: Defines base CSS custom properties (variables) for the unique
+ *    deep-void color palette, explicitly handling forced dark mode mapping.
+ * 2. header.css: Styles the navigation bar, ensuring proper contrast in the
+ *    void aesthetic, including specific overrides for hamburger menus and brand logos.
+ * 3. footer.css: Styles the site footer and ensures proper text muting for dark mode.
+ * 4. extras.css: Contains advanced visual effects such as starfield backgrounds,
+ *    glassmorphism utilities, and terminal-style cards.
+ * 5. safety-net.css: Provides aggressive fallback styles to ensure components
+ *    (like Web Awesome dialogs) respect the dark space aesthetic when defaults fail.
+ *
+ * This theme uses a "Void" aesthetic, featuring infinite black, neon highlights,
+ * and high-contrast glowing elements.
+ * ============================================================================
+ */
+
 /* Stardust Engine Theme: ad-astra */
 
-/* --- root.css --- */
+/* ============================================================================
+ * MODULE: root.css
+ * Core color palette and theme variables.
+ * ============================================================================ */
 /* root-ad-astra.css */
 /* The Stardust Engine - "Escape Velocity" Theme */
 /* Concept: The Void. Infinite Black. Neon Highlights. */
@@ -18,6 +42,7 @@ body.theme-ad-astra {
 }
 
 /* FORCE OVERRIDE: Apply to ALL modes */
+/* Ensures the space aesthetic persists across light/dark system settings */
 :root,
 [data-bs-theme="light"],
 [data-bs-theme="dark"] {
@@ -63,6 +88,7 @@ body.theme-ad-astra {
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
  * ========================================================================== */
+/* Consistent token mapping to ensure Web Awesome components align with the Void */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"],
@@ -102,7 +128,10 @@ body.theme-ad-astra {
 }
 
 
-/* --- header.css --- */
+/* ============================================================================
+ * MODULE: header.css
+ * Styling for the global navigation header and dropdowns.
+ * ============================================================================ */
 /* bootstrap-header.css (Dynamic Theme Support) */
 
 /* 1. Navbar Base */
@@ -140,18 +169,18 @@ header .nav-link:focus {
 }
 
 /* 3. Hamburger Menu */
-header wa-icon-button[name=\"bars\"] {
+header wa-icon-button[name="bars"] {
     border-color: var(--astra-info, #00FFFF) !important; /* Cyan Border */
 }
 
 /* TARGET THE SPANS CORRECTLY */
-header wa-icon-button[name=\"bars\"] .hamburger-icon span {
+header wa-icon-button[name="bars"] .hamburger-icon span {
     background-color: var(--astra-info, #00FFFF) !important; /* Cyan Bars */
     box-shadow: 0 0 5px var(--astra-info);
 }
 
 /* When Active (The X) */
-header wa-icon-button[name=\"bars\"][aria-expanded="true"] .hamburger-icon span {
+header wa-icon-button[name="bars"][aria-expanded="true"] .hamburger-icon span {
     background-color: var(--astra-danger, #FF0055) !important; /* Red when open */
     box-shadow: 0 0 8px var(--astra-danger);
 }
@@ -195,7 +224,10 @@ header .dropdown-divider {
     mix-blend-mode: screen; 
 }
 
-/* --- footer.css --- */
+/* ============================================================================
+ * MODULE: footer.css
+ * Styling for the global site footer.
+ * ============================================================================ */
 /* bootstrap-footer.css (Dynamic Theme Support) */
 
 footer {
@@ -249,7 +281,10 @@ footer .link-secondary:hover {
     mix-blend-mode: screen; 
 }
 
-/* --- extras.css --- */
+/* ============================================================================
+ * MODULE: extras.css
+ * Specialized thematic elements like starfields and glass cards.
+ * ============================================================================ */
 /* extras-ad-astra.css */
 /* --- AD ASTRA EXTRAS --- */
 /* Starfield & Glassmorphism Utilities */
@@ -446,7 +481,10 @@ html, body {
     .blink-animation { animation: blink 1s infinite; }
 }
 
-/* --- safety-net.css --- */
+/* ============================================================================
+ * MODULE: safety-net.css
+ * Fallback styles to maintain structural integrity.
+ * ============================================================================ */
 /* safety-net-ad-astra.css */
 /* Overrides for The Void */
 
@@ -469,7 +507,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
 /* 3. Navbar Visibility */
 /* Force the brand and hamburger to be visible against space */
 .navbar-brand { color: #FFFFFF !important; }
-wa-icon-button[name=\"bars\"] .hamburger-bar { background-color: #FFFFFF !important; }
+wa-icon-button[name="bars"] .hamburger-bar { background-color: #FFFFFF !important; }
 
 /* 4. Light Mode Kill Switch */
 /* If a class explicitly requests .bg-light, we force it dark/glass anyway */
@@ -515,6 +553,7 @@ wa-button[variant="success"]::part(prefix) {
 }
 
 /* Sledgehammer for Dialog Background Transparency */
+/* Overriding standard dialog panels to remove native backdrops and enforce absolute void */
 wa-dialog {
     --rs-panel-background-color: #050508 !important;
     --sl-panel-background-color: #050508 !important;
@@ -555,5 +594,3 @@ wa-dialog::part(base) {
 wa-dialog::part(panel) {
     background: #050508 !important; /* Use shorthand background to override images/gradients */
 }
-
-

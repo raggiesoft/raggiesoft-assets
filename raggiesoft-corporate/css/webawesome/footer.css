@@ -1,6 +1,34 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT CORPORATE FOOTER STYLES
+ * ============================================================================
+ * File: footer.css
+ * Architecture: Component Specific (Footer)
+ * Purpose: Provides the core styling for the global site footer. Like the 
+ *          header, it implements the "Frosted Glass" (Frutiger Aero / Dark Aero) 
+ *          aesthetic, ensuring the footer is translucent, blurred, and 
+ *          seamlessly integrated with the page background.
+ * 
+ * Future Maintenance Notes:
+ * - This file relies on CSS variables (e.g., --raggie-glass-bg) defined 
+ *   in the root theme files.
+ * - The footer casts an upwards shadow to separate it from the content 
+ *   rolling underneath it. Adjust the y-offset of the box-shadow if the 
+ *   footer feels disconnected.
+ * - The #konamiModal styles are included here because the Easter Egg trigger 
+ *   is typically located in the footer. If the trigger moves, these styles 
+ *   might need to be relocated to a dedicated modal.css file.
+ * ============================================================================
+ */
+
 /* bootstrap-footer.css (Frutiger Aero / Dark Aero Glass Edition) */
 
-/* 1. Footer Base - The Bottom Glass Pane */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. FOOTER BASE - THE BOTTOM GLASS PANE
+ * ----------------------------------------------------------------------------
+ * Transforms the standard solid footer into a translucent, blurred pane.
+ */
 footer {
     /* Replace the solid background with our translucent variables */
     background-color: var(--raggie-glass-bg) !important;
@@ -9,10 +37,10 @@ footer {
     backdrop-filter: blur(16px) saturate(120%);
     -webkit-backdrop-filter: blur(16px) saturate(120%); /* Safari support */
     
-    /* Glossy specular highlight on the top edge */
+    /* Glossy specular highlight on the top edge to give it physical thickness */
     border-top: 1px solid var(--raggie-glass-border) !important;
     
-    /* Soft shadow casting UPWARDS into the page content */
+    /* Soft shadow casting UPWARDS into the page content to show overlap */
     box-shadow: 0 -8px 32px rgba(0, 85, 150, 0.08); 
     
     color: var(--bs-body-color) !important;
@@ -25,17 +53,31 @@ footer {
     box-shadow: 0 -8px 32px rgba(0, 229, 255, 0.05);
 }
 
-/* 2. Fix Muted Text */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. FIX MUTED TEXT
+ * ----------------------------------------------------------------------------
+ * Overrides Bootstrap's overly aggressive text-muted class to ensure 
+ * sufficient contrast against the glass background.
+ */
 footer .text-body-secondary,
 footer .text-muted {
+    /* Use secondary text color instead of muted for better legibility */
     color: var(--bs-secondary) !important; 
 }
 
-/* 3. Links */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. LINKS
+ * ----------------------------------------------------------------------------
+ * Styles footer links to fit the overall aesthetic, adding glow effects 
+ * in dark mode.
+ */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
     color: var(--bs-link-color) !important;
+    /* Smooth transition for color and glow effects */
     transition: color 0.2s ease, text-shadow 0.2s ease;
     text-decoration: none; /* Cleaner look for the footer */
 }
@@ -52,22 +94,28 @@ footer .link-secondary:hover {
     text-shadow: 0 0 8px var(--mpr-cyan-400);
 }
 
-/* 4. Konami Modal (Aero Glass Easter Egg) */
+/**
+ * ----------------------------------------------------------------------------
+ * 4. KONAMI MODAL (AERO GLASS EASTER EGG)
+ * ----------------------------------------------------------------------------
+ * Special glass styling for the modal triggered by the Konami Code.
+ */
 #konamiModal wa-dialog::part(panel) {
-    /* Make the modal itself a heavy, frosted glass pane */
+    /* Make the modal itself a heavy, frosted glass pane with higher blur */
     background-color: var(--raggie-glass-bg) !important;
     backdrop-filter: blur(24px) saturate(150%);
     -webkit-backdrop-filter: blur(24px) saturate(150%);
     
-    /* Outer border and inner glowing highlight */
+    /* Outer border and inner glowing highlight to simulate thick glass */
     border: 1px solid var(--raggie-glass-border) !important;
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.3), inset 0 1px 0 var(--raggie-gloss-highlight);
     
-    border-radius: 12px; /* Slightly softer corners */
+    border-radius: 12px; /* Slightly softer corners for the modal */
     color: var(--bs-body-color) !important;
 }
 
 /* Glow the modal border in Dark Mode */
 [data-bs-theme="dark"] #konamiModal wa-dialog::part(panel) {
+    /* Adds a distinct cyan glow to the outer shadow in dark mode */
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5), inset 0 1px 0 var(--raggie-gloss-highlight), 0 0 20px rgba(0, 229, 255, 0.15);
 }

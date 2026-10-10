@@ -1,21 +1,40 @@
+/* ==============================================================================
+ * AETHEL - GLOOM THEME SAFETY NET
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This layer enforces critical readability and structural overrides for the Gloom
+ * theme. Because Gloom is a Dark Theme that overrides a Light Theme (Base Aethel),
+ * this file acts as a failsafe to ensure no dark text or leather textures bleed 
+ * through into the dark background, maintaining WCAG contrast ratios.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - If you add new generic text wrappers in HTML, ensure they are covered by 
+ *   the "Text Visibility Safety" block.
+ * - Navbar overrides completely replace the leather textures with a void aesthetic.
+ * ============================================================================== */
+
 /* safety-net.css (Theme: Gloom) */
 /* Overrides for High Contrast Dark Mode */
 
 /* 1. Navbar Override (Kill the Leather Look) */
+/* Strips out the warm leather header and replaces it with a cold, deep purple void */
 header .navbar {
     background-color: #05000a !important; /* Deepest Black/Purple */
     border-bottom: 1px solid #4A235A !important; /* Dim Purple Border */
 }
 
+/* Applies a magical, ethereal glow to the brand logo */
 header .navbar-brand {
     color: #FFFFFF !important;
     text-shadow: 0 0 10px rgba(155, 89, 182, 0.5); /* Purple Glow */
 }
 
+/* Standard navigation links fallback to silver */
 header .nav-link {
     color: #B0B0B0 !important; /* Dim Silver */
 }
 
+/* Interactive navigation state */
 header .nav-link:hover,
 header .nav-link.active {
     color: #FFFFFF !important;
@@ -24,6 +43,7 @@ header .nav-link.active {
 
 /* 2. Text Visibility Safety */
 /* Ensure no text accidentally stays dark brown from the default theme */
+/* This is a brutal catch-all to prevent invisible text on the dark background */
 body, p, li, span {
     color: #E0E0E0;
 }
@@ -33,6 +53,7 @@ body, p, li, span {
 }
 
 /* 3. Button Overrides */
+/* Ensures outline buttons remain visible and interactive in the void */
 .btn-outline-dark {
     color: #C0C0C0;
     border-color: #C0C0C0;

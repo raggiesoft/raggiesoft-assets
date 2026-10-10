@@ -1,3 +1,28 @@
+/**
+ * ============================================================================
+ * FILE: theme-gloom.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This compiled stylesheet defines the "Gloom" narrative theme (Malakor's 
+ * Perspective). It is a highly restrictive, high-contrast dark theme designed 
+ * to override default bright styling with deep purples, void blacks, and silver text.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Uniquely forces both `[data-bs-theme="light"]` and `[data-bs-theme="dark"]` 
+ *   to share the same gloomy palette, effectively disabling the user's ability 
+ *   to switch to a bright mode within this specific narrative context.
+ * - Heavily overrides structural components (e.g., `.tome-container`) with 
+ *   complex, multi-layered `box-shadow` vignettes to simulate a suffocating 
+ *   environment.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files are recompiled.
+ * - The safety net strictly enforces `#E0E0E0` color on basic HTML tags 
+ *   (`body, p, li, span`). Be careful when introducing new inline elements, 
+ *   as they might inherit unexpected colors if not explicitly targeted here.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: gloom */
 
 /* --- root.css --- */

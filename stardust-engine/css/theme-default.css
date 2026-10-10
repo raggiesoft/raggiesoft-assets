@@ -1,5 +1,25 @@
+/**
+ * ============================================================================
+ * FILE: theme-default.css (Stardust Engine)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines the core reading themes for the Stardust Engine's document reader. 
+ * It establishes minimal, independent CSS Custom Properties (`--rs-*`) specifically 
+ * for article readability, isolated from the broader framework or site UI.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - These variables are scoped to the `html` element when specific `reader-*` 
+ *   classes are toggled by the Stardust Reader JS component.
+ * - Provides Light, Dark, and Sepia modes focused strictly on typographic contrast.
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `--rs-*` prefix stands for "Reader Surface" (or "Raggiesoft Surface"). 
+ *   Do not mix these with `--bs-*` framework variables to ensure the reader 
+ *   remains portable and independent of the parent site's Bootstrap theme.
+ * ============================================================================
+ */
 
-/* Reading Themes */
+/* Reading Themes - Managed by the Stardust Reader JS via HTML classes */
 html.reader-light {
     --rs-bg: #ffffff;
     --rs-bg-alt: #f8f9fa;

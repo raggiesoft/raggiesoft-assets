@@ -1,15 +1,44 @@
-/* 05-dialogs.css: Replaces <wa-dialog> */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: 05-dialogs.css
+ * ==========================================================================
+ * Stardust Engine Library - Modal Components
+ * This file replaces the heavy `<wa-dialog>` web components with native 
+ * HTML `<dialog>` styling through the `.rs-modal` class.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Layout & Shadowing: Ensures the modal floats cleanly above the DOM 
+ *    with appropriate spacing and elevation shadows.
+ * 2. Backdrop Handling: Leverages the native `::backdrop` pseudo-element 
+ *    to darken and blur the underlying page content when the dialog is open.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - This class is intended to be applied directly to a native `<dialog>` tag.
+ * - The `::backdrop` blur effect may not be supported on very old browsers; 
+ *   the fallback is the `rgba()` background color which guarantees contrast.
+ * ========================================================================== */
+
+/* Primary Modal Container */
 .rs-modal {
     padding: 24px;
     border: none;
     border-radius: 12px;
+    
+    /* Pull container colors from global variables */
     background: var(--rs-surface);
     color: var(--rs-text);
+    
+    /* Elevation shadow for depth */
     box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+    
+    /* Responsive sizing constraints */
     max-width: 500px;
     width: 100%;
 }
+
+/* Native HTML Dialog Backdrop Layer */
 .rs-modal::backdrop {
+    /* Dim the background */
     background: rgba(0, 0, 0, 0.5);
+    /* Apply modern frosted glass effect to underlying content */
     backdrop-filter: blur(4px);
 }

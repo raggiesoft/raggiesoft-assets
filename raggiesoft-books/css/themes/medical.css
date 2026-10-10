@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: MEDICAL - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Medical" reading theme for the Stardust 
+ * Engine. It uses sterile teals, cyans, and clinical whites to evoke a 
+ * hospital, laboratory, or sci-fi medical bay environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - clean white and pale teal)
+ *    - Forced Dark Mode (Deep teal/cyan background with bright medical accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Medical */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-medical,
 body.theme-light.theme-medical {
---rs-bg: #f0fdfa; /* Clean sterile light teal/cyan */
-    --rs-surface: #ffffff;
-    --rs-text: #134e4a;
-    --rs-primary: #0d9488;
-    --rs-secondary: #2dd4bf;
-    --rs-border: #ccfbf1;
+    --rs-bg: #f0fdfa; /* Clean, sterile light teal/cyan */
+    --rs-surface: #ffffff; /* Pure white hospital surfaces */
+    --rs-text: #134e4a; /* Very dark teal text */
+    --rs-primary: #0d9488; /* Clinical teal primary */
+    --rs-secondary: #2dd4bf; /* Bright cyan secondary */
+    --rs-border: #ccfbf1; /* Pale teal border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-medical {
---rs-bg: #042f2e;
-        --rs-surface: #115e59;
-        --rs-text: #ccfbf1;
-        --rs-primary: #2dd4bf;
-        --rs-secondary: #0d9488;
-        --rs-border: #0f766e;
+    --rs-bg: #042f2e; /* Extremely dark, moody teal */
+    --rs-surface: #115e59; /* Elevated dark cyan surface */
+    --rs-text: #ccfbf1; /* Pale teal text */
+    --rs-primary: #2dd4bf; /* Bright, glowing cyan primary */
+    --rs-secondary: #0d9488; /* Medical teal secondary */
+    --rs-border: #0f766e; /* Mid-dark teal border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-medical,
     body:not(.theme-light):not(.theme-dark).theme-medical {
---rs-bg: #042f2e;
+        --rs-bg: #042f2e; /* Matches Forced Dark Mode */
         --rs-surface: #115e59;
         --rs-text: #ccfbf1;
         --rs-primary: #2dd4bf;

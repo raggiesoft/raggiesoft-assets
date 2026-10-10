@@ -1,3 +1,25 @@
+/**
+ * ============================================================================
+ * FILE: theme-family.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the compiled stylesheet for the "Family" theme context. It maps 
+ * specific individuals/roles to distinct semantic colors, establishing a shared 
+ * visual language for narrative relationships.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Introduces `--family-*` CSS custom properties alongside the standard `--rs-*` 
+ *   utility base.
+ * - Implements a highly specific `.theme-terminal` scoped environment that ignores 
+ *   global Light/Dark toggles in favor of a rigid "GitHub Dark Dimmed" aesthetic.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files are recompiled.
+ * - Monitor the `backdrop-filter` in `.glass-header` on lower-end devices; 
+ *   blur operations can be computationally expensive.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: family */
 
 /* --- root.css --- */

@@ -1,3 +1,27 @@
+/**
+ * ============================================================================
+ * FILE: safety-net.css (Stardust Engine Standard)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Establishes the global typographic baseline and critical dark-mode fallbacks 
+ * for the core Stardust Engine environment. It ensures a consistent, modern 
+ * aesthetic ('Exo 2' & 'Audiowide') while preventing rendering failures when 
+ * system-level dark mode is toggled.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Completely overwrites browser default serifs (Times New Roman).
+ * - Implements a `@media (prefers-color-scheme: dark)` fallback block to 
+ *   force specific text/background utility classes (like `.bg-light`) to 
+ *   respect the custom Dark Mode variables.
+ * 
+ * FUTURE MAINTENANCE:
+ * - If new Web Fonts are introduced to the Engine, update the font stacks here 
+ *   first to maintain the global cascade.
+ * - The `.btn-outline-secondary` dark mode fix is hardcoded with hex values 
+ *   (`#E0E0FF`); if the overarching theme variables change, these hex values 
+ *   may need realignment to match the new palette.
+ * ============================================================================
+ */
 /* safety-net-standard.css */
 
 /* 1. Typography (Kills Times New Roman) */

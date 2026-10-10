@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SUNSTEAD WINTER - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Sunstead Winter" reading theme for the Stardust 
+ * Engine. It utilizes icy blues, cyan, and deep navy tones to create a cold, 
+ * crisp, and isolating reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - pale icy blue backgrounds)
+ *    - Forced Dark Mode (Deep ocean/navy backgrounds with cyan accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Winter */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-sunstead-winter,
 body.theme-light.theme-sunstead-winter {
-    --rs-bg: #f0f9ff;
-    --rs-surface: #e0f2fe;
-    --rs-text: #082f49;
-    --rs-primary: #0369a1;
-    --rs-secondary: #0284c7;
-    --rs-border: #bae6fd;
+    --rs-bg: #f0f9ff; /* Extremely pale icy blue */
+    --rs-surface: #e0f2fe; /* Light frost surface */
+    --rs-text: #082f49; /* Deep navy text for stark contrast */
+    --rs-primary: #0369a1; /* Mid-tone blue primary accent */
+    --rs-secondary: #0284c7; /* Brighter blue secondary */
+    --rs-border: #bae6fd; /* Frosty blue border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-sunstead-winter {
-    --rs-bg: #082f49;
-    --rs-surface: #0c4a6e;
-    --rs-text: #f0f9ff;
-    --rs-primary: #38bdf8;
-    --rs-secondary: #0ea5e9;
-    --rs-border: #075985;
+    --rs-bg: #082f49; /* Deep ocean navy background */
+    --rs-surface: #0c4a6e; /* Elevated dark blue surface */
+    --rs-text: #f0f9ff; /* Pale ice text */
+    --rs-primary: #38bdf8; /* Bright cyan/ice primary accent */
+    --rs-secondary: #0ea5e9; /* Mid-blue secondary */
+    --rs-border: #075985; /* Dark blue border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead-winter,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-winter {
-        --rs-bg: #082f49;
+        --rs-bg: #082f49; /* Matches Forced Dark Mode */
         --rs-surface: #0c4a6e;
         --rs-text: #f0f9ff;
         --rs-primary: #38bdf8;

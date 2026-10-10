@@ -1,3 +1,28 @@
+/**
+ * ============================================================================
+ * FILE: theme-fractured-prisms.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This compiled stylesheet defines the dual-narrative "Fractured Prisms" theme. 
+ * It oscillates between a warm, 1883 Gothic archive (Light Mode) and a cold, 
+ * 1983 mechanical studio (Dark Mode), relying on distinct serif/monospace font 
+ * pairings and purple/plum color shifts.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Uses specific custom variables (`--prism-artifact-*`) to manage the appearance 
+ *   of "recovered documents" within the environment, ensuring they look like 
+ *   physical paper regardless of the active light/dark mode.
+ * - Implements custom CSS animations (`@keyframes pulse-prism`) and transforms 
+ *   (the Polaroid component) to enhance narrative immersion.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files are recompiled.
+ * - The `@import` for Google Fonts (`Playfair Display`) is at the top of this 
+ *   bundle. Ensure it remains at the absolute top of the CSS file or it will 
+ *   fail to load.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: fractured-prisms */
 
 /* --- root.css --- */

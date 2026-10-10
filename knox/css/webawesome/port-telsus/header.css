@@ -1,16 +1,33 @@
+/* ==============================================================================
+ * PORT TELSUS (KNOX) - HEADER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Styles the global navigation header with a brutalist, shipping-yard aesthetic.
+ * It features hard block shadows, solid separators, and mechanical hover effects 
+ * (like shifting paddings to simulate physical interaction).
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - Dropdowns are styled to look like floating "Cargo Manifest" cards, 
+ *   intentionally disconnected from the top nav via margin.
+ * - Padding shifts on dropdown hover (`padding-left: 20px`) provide a satisfying
+ *   "clack" interaction, but must be paired with the `transition` rule to be smooth.
+ * ============================================================================== */
+
 /* header.css */
 
 /* 1. Navbar Container */
+/* Solid, heavy block that sits prominently at the top of the viewport */
 header .navbar {
     background-color: var(--bs-tertiary-bg) !important;
     border-bottom: 4px solid var(--bs-primary) !important; /* The Hazard Strip */
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    /* Hard, industrial shadow */
+    /* Hard, industrial shadow instead of a soft blur */
     box-shadow: 0 4px 0 rgba(0,0,0,0.3);
 }
 
 /* 2. Brand Identity */
+/* Forces a stamped metal look utilizing standard impact fonts */
 header .navbar-brand {
     font-family: 'Impact', 'Haettenschweiler', sans-serif; /* Stamped Metal Look */
     text-transform: uppercase;
@@ -21,6 +38,7 @@ header .navbar-brand {
 }
 
 /* 3. Navigation Links */
+/* Links are framed with vertical borders, mimicking a physical instrument panel */
 header .nav-link {
     font-weight: 700;
     text-transform: uppercase;
@@ -33,6 +51,7 @@ header .nav-link {
     padding-right: 1.25rem !important;
 }
 
+/* Hovering effectively "lights up" the button pane */
 header .nav-link:hover,
 header .nav-link.active {
     opacity: 1;
@@ -41,6 +60,7 @@ header .nav-link.active {
 }
 
 /* 4. Dropdowns (The Cargo Manifest) */
+/* Re-styles WebAwesome dropdown panels into disconnected, brutalist blocks */
 header wa-dropdown::part(panel) {
     background-color: var(--bs-body-bg) !important;
     border: 2px solid var(--bs-primary) !important;
@@ -49,6 +69,7 @@ header wa-dropdown::part(panel) {
     box-shadow: 8px 8px 0 rgba(0,0,0,0.5); /* Hard block shadow */
 }
 
+/* Standardized monospace list items */
 header wa-dropdown-item {
     font-family: var(--bs-font-monospace);
     font-size: 0.8rem;
@@ -57,6 +78,7 @@ header wa-dropdown-item {
     padding: 8px 15px;
 }
 
+/* Mechanical Shift: Hovering pushes the text slightly to the right */
 header wa-dropdown-item:hover {
     background-color: rgba(var(--bs-primary-rgb), 0.2) !important;
     color: var(--bs-primary) !important;
@@ -64,6 +86,7 @@ header wa-dropdown-item:hover {
     transition: padding 0.1s linear;
 }
 
+/* Dropdown sub-headers styled as rigid separators */
 header .dropdown-header {
     background-color: var(--bs-tertiary-bg);
     color: var(--bs-body-color);

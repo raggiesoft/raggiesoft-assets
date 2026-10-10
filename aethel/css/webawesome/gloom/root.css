@@ -1,26 +1,47 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AETHEL GLOOM ROOT THEME (root.css)
+ * ==========================================================================
+ * This file establishes the core design tokens for the "Gloom" theme, representing
+ * the antagonist's domain (Shadowspire / Malakor's Perspective). It creates a 
+ * dark, magical, and oppressive aesthetic utilizing deep purples and faded silver.
+ * 
+ * Key Responsibilities:
+ * 1. Define foundational Bootstrap (`--bs-*`) palette variables for the Gloom theme.
+ * 2. Hardcode both Light and Dark modes to identical dark values (Gloom has no "light").
+ * 3. Map these foundational variables to Web Awesome (`--wa-*`) design tokens to 
+ *    ensure custom web components match the surrounding theme logic.
+ * ========================================================================== */
+
 /* root.css (Theme: Gloom) */
 /* Context: The Shadowspire / Malakor's Perspective */
 
+/* --------------------------------------------------------------------------
+ * 1. THEMATIC PALETTE (Core Variables)
+ * -------------------------------------------------------------------------- */
 :root,
-[data-bs-theme="light"], /* Override light mode settings */
+[data-bs-theme="light"], /* Override light mode settings to enforce darkness */
 [data-bs-theme="dark"] {
     
     /* Gloom Palette */
-    --bs-primary: #9b59b6;      /* Dark Magic Purple */
-    --bs-secondary: #7f8c8d;    /* Stone Grey */
-    --bs-warning: #C0C0C0;      /* Silver (The only light allowed) */
-    --bs-info: #2E003E;         /* Deep Gloom */
+    --bs-primary: #9b59b6;      /* Dark Magic Purple - Primary accent */
+    --bs-secondary: #7f8c8d;    /* Stone Grey - Subdued structural color */
+    --bs-warning: #C0C0C0;      /* Silver (The only light allowed) - Highlights */
+    --bs-info: #2E003E;         /* Deep Gloom - Depth and shadows */
     
     /* The Void Background */
-    --bs-body-bg: #15051a;      /* Deepest Purple/Black */
-    --bs-body-color: #E0D0E0;   /* Faded Silver Text */
-    --bs-body-bg-rgb: 21, 5, 26;
+    --bs-body-bg: #15051a;      /* Deepest Purple/Black - Base canvas */
+    --bs-body-color: #E0D0E0;   /* Faded Silver Text - High contrast reading */
+    --bs-body-bg-rgb: 21, 5, 26; /* Used for translucency math */
     
+    /* Interactive Elements */
     --bs-link-color: #C0C0C0;
-    --bs-link-hover-color: #FFFFFF;
+    --bs-link-hover-color: #FFFFFF; /* Brighten on interaction */
     --bs-border-color: #4A235A;
 }
 
+/* --------------------------------------------------------------------------
+ * 2. WEB AWESOME INTEGRATION
+ * -------------------------------------------------------------------------- */
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
@@ -28,32 +49,40 @@
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
+  /* Brand mappings */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
   
+  /* Danger/Error mappings */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
   
+  /* Warning mappings */
   --wa-color-warning-fill-loud: var(--bs-warning);
   --wa-color-warning-text-loud: var(--bs-warning);
   --wa-color-warning-border-loud: var(--bs-warning);
   
+  /* Success mappings */
   --wa-color-success-fill-loud: var(--bs-success);
   --wa-color-success-text-loud: var(--bs-success);
   --wa-color-success-border-loud: var(--bs-success);
 
+  /* Info mappings */
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
   
+  /* Surface and Background mappings */
   --wa-color-surface-default: var(--bs-body-bg);
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  /* Text and Typography mappings */
   --wa-color-text-normal: var(--bs-body-color);
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
+  /* Border mappings */
   --wa-color-neutral-border-quiet: var(--bs-border-color);
   --wa-color-surface-border: var(--bs-border-color);
 }

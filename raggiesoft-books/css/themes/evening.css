@@ -1,10 +1,36 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: EVENING - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines a standalone "Evening" reading theme for the Stardust 
+ * Engine. It utilizes deep twilight indigos and soft blue accents to evoke 
+ * dusk or nighttime.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Single-State Definition: This theme acts as an explicit override. Unlike 
+ *    cascading themes (which support light/dark variants), this file directly 
+ *    targets the `body.theme-evening` class. 
+ * 
+ * Maintainability Notes:
+ * - This theme enforces a specific atmospheric tone (twilight) and intentionally 
+ *   lacks a "light mode" variant. Do not add one, as it would break the 
+ *   intended aesthetic.
+ * ============================================================================
+ */
+
 /* Theme Name: Evening */
 /* theme-evening.css */
+
+/* --- Forced Evening State --- */
 body.theme-evening {
-    --rs-bg: #1e1b4b; /* Deep twilight indigo */
-    --rs-surface: #312e81;
-    --rs-text: #e0e7ff;
-    --rs-primary: #818cf8;
-    --rs-secondary: #a5b4fc;
-    --rs-border: #3730a3;
+    --rs-bg: #1e1b4b; /* Deep twilight indigo background */
+    --rs-surface: #312e81; /* Elevated indigo surface */
+    --rs-text: #e0e7ff; /* Very pale blue text for contrast */
+    --rs-primary: #818cf8; /* Soft glowing blue primary accent */
+    --rs-secondary: #a5b4fc; /* Lighter blue secondary */
+    --rs-border: #3730a3; /* Mid-indigo border */
 }

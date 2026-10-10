@@ -1,4 +1,32 @@
-/* /raggiesoft/css/bootstrap/family/extras.css */
+/**
+ * ============================================================================
+ * COMPONENT: extras.css (WebAwesome Family Theme)
+ * CONTEXT: UI Components & Personal Identity Borders
+ *
+ * PURPOSE:
+ * Extends the global WebAwesome / Bootstrap base with UI enhancements specific
+ * to the Raggiesoft "Family" subdomain. This includes customized hover physics,
+ * glassmorphism, and color-coded borders for individual family members.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally on the Family site. It overrides Bootstrap's semantic borders
+ * (`border-info`, `border-success`) and maps them to custom CSS variables representing
+ * family members (`--family-paige`, `--family-jessica`).
+ *
+ * KEY COMPONENTS:
+ * - Sister-Specific Borders: Recalibrates semantic utility classes to output
+ *   personalized brand colors.
+ * - The `theme-terminal` System: A specialized, forced-dark context used for
+ *   technical or code-heavy cards (e.g., Jessica's terminal widget). It breaks
+ *   out of the light/dark user toggle to maintain a persistent hacker aesthetic.
+ * - Glass Header: Applies `backdrop-filter: blur()` to `.glass-header` elements
+ *   using variable-driven colors to support both light and dark modes.
+ *
+ * MAINTENANCE NOTES:
+ * - Ensure that `--family-*` variables are defined in the root stylesheet, or
+ *   the border utilities will fail silently.
+ * ============================================================================
+ */
 
 /* --- 1. DARK MODE LINK FIX --- */
 [data-bs-theme="dark"] .card .text-dark {

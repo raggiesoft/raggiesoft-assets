@@ -1,10 +1,26 @@
 /* ==========================================================================
+ * STARDUST ENGINE CMS - THEME ROOT
  * ROOT VARIABLES (Theme: Aerie-Hold / Bioluminescent)
- * Concept: Misty Canopy by Day, Pandora Bioluminescence by Night.
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This is the foundational stylesheet for the Aerie-Hold theme. It defines the
+ * entire color palette and bridges custom design tokens with Bootstrap 5 and
+ * Web Awesome Pro CSS variables.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Palette Definition: Defines the base organic and bioluminescent colors.
+ * 2. Bootstrap Overrides: Re-maps standard Bootstrap variables (`--bs-primary`) 
+ *    to theme-specific colors based on the current mode (light/dark).
+ * 3. Web Awesome Integration: Acts as a middleware layer, passing the resolved 
+ *    Bootstrap colors down into Web Awesome Web Components (`--wa-color-*`).
+ * 
+ * CONCEPT: 
+ * "Misty Canopy by Day, Pandora Bioluminescence by Night."
  * ========================================================================== */
 
 :root {
-    /* --- The Organic Palette (Shared) --- */
+    /* --- The Organic Palette (Shared across light and dark mode) --- */
     --aerie-mist: #e6f2f2;         /* High altitude fog */
     --aerie-canopy: #1a2f23;       /* Deep leaf shadow */
     --aerie-bark: #2d3e33;         /* Mossy wood */
@@ -16,10 +32,12 @@
     --aerie-glow-green: #39FF14;   /* Success / Healing */
     --aerie-glow-orange: #FF7300;  /* Warning / Fire */
 
+    /* Global Border Radius applied across all Bootstrap and WA components */
     --bs-border-radius: 6px;       /* Softer, more organic corners */
 }
 
 /* --- LIGHT MODE: The Misty Canopy (Day) --- */
+/* Target the root and explicit light theme attribute */
 :root,
 [data-bs-theme="light"] {
     --bs-primary: #2b7a54;         /* Vibrant leaf green */
@@ -42,6 +60,7 @@
 }
 
 /* --- DARK MODE: Pandora Awakens (Night) --- */
+/* Target OS-level dark mode preference natively */
 @media (prefers-color-scheme: dark) {
   :root {
     --bs-body-bg: #030b0e;         /* Deep jungle night */
@@ -65,6 +84,7 @@
 }
 
 /* Force Dark Mode Trigger */
+/* Ensures manual toggling via JS (setting data-bs-theme) overrides OS preference */
 [data-bs-theme="dark"] {
     --bs-body-bg: #030b0e;         
     --bs-body-color: #d1e8e2;      
@@ -83,6 +103,11 @@
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * 
+ * ARCHITECTURE NOTE:
+ * By mapping `--wa-color-*` to `--bs-*`, Web Awesome web components will 
+ * automatically inherit Bootstrap's theme context. This prevents having to 
+ * maintain two separate sets of color variables.
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 

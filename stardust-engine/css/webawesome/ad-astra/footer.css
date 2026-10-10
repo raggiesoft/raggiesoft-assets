@@ -1,3 +1,23 @@
+/**
+ * ============================================================================
+ * FILE: footer.css (Ad Astra Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Manages the styling for the site footer and specific global modals (like the 
+ * Konami code modal) within the 'Ad Astra' theme context. 
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Re-binds standard Bootstrap utility classes (`.text-muted`, `.link-secondary`) 
+ *   to the custom `--bs-*` variables defined in the Ad Astra root theme, ensuring 
+ *   they don't accidentally fall back to unreadable default greys.
+ * - Re-implements the Corporate Logo blend mode trick (useful if the footer 
+ *   also contains brand imagery).
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `#konamiModal` targeting couples this CSS tightly to a specific HTML 
+ *   element ID. If the modal ID changes in the DOM, update this selector.
+ * ============================================================================
+ */
 /* bootstrap-footer.css (Dynamic Theme Support) */
 
 footer {

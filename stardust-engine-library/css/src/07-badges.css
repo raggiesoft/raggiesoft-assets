@@ -1,4 +1,24 @@
-/* 07-badges.css: Replaces <wa-badge> */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: 07-badges.css
+ * ==========================================================================
+ * Stardust Engine Library - Badge Components
+ * This file replaces the heavy `<wa-badge>` web components from Web Awesome 
+ * with lightweight, pure CSS utility classes.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Base Class: `.rs-badge` provides the foundational layout, pill-shape 
+ *    border radius, and typography scaling.
+ * 2. Modifiers: `.rs-badge-primary` overrides base colors to align with 
+ *    the active theme's primary action color.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - Badges use `inline-flex` to guarantee that any internal icons align 
+ *   perfectly with the text.
+ * - To add a new variant (e.g., `.rs-badge-danger`), copy the modifier 
+ *   pattern here and wire it to a `--rs-danger` variable defined in `01-base.css`.
+ * ========================================================================== */
+
+/* Base Badge Setup (Neutral/Muted state) */
 .rs-badge {
     display: inline-flex;
     align-items: center;
@@ -6,11 +26,20 @@
     font-size: 0.75rem;
     font-weight: 700;
     text-transform: uppercase;
+    
+    /* Pill shape */
     border-radius: 9999px;
+    
+    /* Pull neutral colors from global base variables */
     background: var(--rs-border);
     color: var(--rs-text);
 }
+
+/* Primary Brand Modifier */
 .rs-badge-primary {
+    /* Override background with the theme's accent color */
     background: var(--rs-primary);
+    
+    /* Hardcoded white text ensures high contrast against most primary colors */
     color: #ffffff;
 }

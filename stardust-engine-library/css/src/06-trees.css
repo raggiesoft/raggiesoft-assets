@@ -1,4 +1,31 @@
-/* 06-trees.css: Replaces <wa-tree> */
+/**
+ * ============================================================================
+ * COMPONENT: 06-trees.css (Stardust Engine Library - Core SRC)
+ * CONTEXT: UI Components / Expandable Tree Views
+ *
+ * PURPOSE:
+ * Provides a lightweight, CSS-only replacement for WebAwesome's `<wa-tree>`
+ * web component. Utilizes native HTML `<details>` and `<summary>` elements
+ * to create hierarchical, collapsible tree menus without requiring JavaScript.
+ *
+ * ARCHITECTURAL ROLE:
+ * Part of the Stardust Engine's core modular CSS pipeline. It strips default
+ * browser UI (like the WebKit details marker arrow) and replaces it with
+ * custom flexbox layouts and hardware-accelerated icon rotations.
+ *
+ * KEY COMPONENTS:
+ * - Native Semantic Overrides: Hides `::-webkit-details-marker` and sets
+ *   `list-style: none` to create a blank canvas for custom UI.
+ * - Icon Rotation State: Targets Phosphor icons (`i`) inside the summary when
+ *   the parent `.rs-tree` has the `[open]` attribute, rotating them 90 degrees.
+ * - Hierarchy Spacing: Indents `.rs-tree-content` to visually denote child nodes.
+ *
+ * MAINTENANCE NOTES:
+ * - This component relies on the native `[open]` attribute toggled by the
+ *   browser when a user clicks a `<details>` element. Do not write JavaScript
+ *   event listeners to toggle this class.
+ * ============================================================================
+ */
 .rs-tree {
     margin-bottom: 0.5rem;
 }

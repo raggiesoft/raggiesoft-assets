@@ -1,12 +1,42 @@
+/* ==========================================================================
+ * RAGGIESOFT CORPORATE - STARDUST LABS THEME
+ * THEME ROOT & VARIABLE MAPPING
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This is the foundational CSS configuration file for the Stardust Labs 
+ * "Ad Astra / Interstellar Cruise Ship" theme. It establishes the global color 
+ * palette, handles structural logic for light/dark mode toggling, and creates 
+ * the custom `--raggie-glass-*` tokens used throughout the application UI.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Base Variables: Defines the signature Stardust Engine neon cyan colors.
+ * 2. Theme Switching: Uses native Bootstrap attributes (`data-bs-theme`) and 
+ *    media queries (if needed) to map `--bs-*` standard variables to theme-
+ *    specific hex codes and RGBA values.
+ * 3. Glassmorphism Engine: Generates specialized variables for backgrounds, 
+ *    borders, and shadows used in `header.css`, `footer.css`, and modals.
+ * 4. Web Awesome Synchronization: Explicitly passes the resolved Bootstrap 
+ *    variables down into Web Awesome Web Components (`--wa-color-*`), ensuring
+ *    third-party components render perfectly within the custom theme.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - Must be loaded first in the `<head>` before any component CSS.
+ * - To implement a new theme, duplicate this file and alter the palette values
+ *   while maintaining the variable nomenclature.
+ * ========================================================================== */
+
 /* /css/bootstrap/stardust-labs/root.css */
 /* THEME: Ad Astra / Interstellar Cruise Ship */
 
 :root {
+    /* The core brand identity colors */
     --mpr-cyan-400: #00E5FF;   /* The signature Stardust Engine neon */
     --mpr-silver-300: #B0C4DE; /* Starship bulkheads */
 }
 
 /* --- LIGHT MODE: THE OBSERVATION DECK --- */
+/* Target root and explicit light theme attribute */
 :root, [data-bs-theme="light"] {
     --bs-primary: var(--mpr-cyan-400);
     --bs-primary-rgb: 0, 229, 255;
@@ -14,7 +44,8 @@
     --bs-body-bg: #F8FBFF; /* Icy starlight white */
     --bs-body-color: #0A1128; /* Deep space navy for readability */
     
-    /* Polished Silver/Cyan Glass */
+    /* Polished Silver/Cyan Glass Tokens */
+    /* High opacity white with a faint cyan tint for the borders and shadow */
     --raggie-glass-bg: rgba(255, 255, 255, 0.75);
     --raggie-glass-border: rgba(0, 229, 255, 0.3); 
     --raggie-glass-shadow: 0 8px 32px rgba(0, 229, 255, 0.1);
@@ -22,12 +53,14 @@
 }
 
 /* --- DARK MODE: THE DEEP VOID --- */
+/* Target explicit dark theme attribute */
 [data-bs-theme="dark"] {
     --bs-primary: var(--mpr-cyan-400);
-    --bs-body-bg: #070B14; /* The Telsan Gap */
-    --bs-body-color: #E2F1FF; /* Starlight white */
+    --bs-body-bg: #070B14; /* The Telsan Gap (Deep space black) */
+    --bs-body-color: #E2F1FF; /* Starlight white for high contrast text */
     
-    /* Dark, Glowing Navigational Glass */
+    /* Dark, Glowing Navigational Glass Tokens */
+    /* Low opacity dark background to allow backdrop-filter blur to dominate */
     --raggie-glass-bg: rgba(7, 11, 20, 0.6);
     --raggie-glass-border: rgba(0, 229, 255, 0.4);
     --raggie-glass-shadow: 0 0 20px rgba(0, 229, 255, 0.15); 
@@ -37,6 +70,11 @@
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * 
+ * ARCHITECTURE NOTE:
+ * By mapping `--wa-color-*` to `--bs-*`, Web Awesome web components will 
+ * automatically inherit Bootstrap's theme context. This prevents having to 
+ * maintain two separate sets of color variables.
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 

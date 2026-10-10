@@ -1,7 +1,42 @@
-/* ==========================================================================
- * EXTRAS: AERIE-HOLD FLORA & FAUNA UI
- * Interactive elements, glows, and organic HUDs
- * ========================================================================== */
+/**
+ * @file extras.css
+ * @brief Flora/Fauna UI Components & Interactive Elements (WebAwesome Aerie-Hold Theme).
+ * 
+ * ARCHITECTURE & MAINTENANCE NOTES:
+ * - Domain: Raggiesoft Assets -> Aerie-Hold -> WebAwesome Extensibility
+ * - Context: Extends the baseline Bootstrap 5 utility system with organic, nature-inspired styling specific to the "Aerie-Hold" narrative setting (soft glows, pill shapes).
+ * - Integration: Included globally via the layout template. Replaces hard-edged digital HUDs with "Environmental Zones" (callout boxes).
+ * - Note: This file relies heavily on contextual overrides like `.text-glow-primary` (active only in dark mode) and `.skill-pill` using root RGB alpha channels.
+ * - DO NOT modify the alpha-channel logic within skill pills, as it breaks accessibility contrast ratios between light/dark themes.
+ * ============================================================================
+ * COMPONENT: extras.css (WebAwesome Aerie-Hold Theme)
+ * CONTEXT: Flora/Fauna UI Components & Interactive Elements
+ *
+ * PURPOSE:
+ * Extends the baseline Bootstrap 5 utility system with organic, nature-inspired
+ * styling specific to the "Aerie-Hold" narrative setting. Focuses on soft glows,
+ * pill shapes, and subtle environmental lighting.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally via the layout template. Replaces hard-edged digital HUDs
+ * with "Environmental Zones" (callout boxes) and introduces `.skill-pill` and
+ * `.hover-lift` classes for data visualization.
+ *
+ * KEY COMPONENTS:
+ * - Text Glows: The `.text-glow-primary` class activates only in dark mode,
+ *   using bioluminescent-style text shadows.
+ * - Organic Cards (Pods): Adds subtle box-shadow transitions to `.card` elements
+ *   to mimic breathing or floating when hovered (`.hover-lift`).
+ * - Skill Pills: Pill-shaped badges using root RGB variables with alpha channels
+ *   to maintain perfect contrast across light/dark color schemes.
+ * - Environmental Zones: Converts standard `.bg-hud-*` classes from heavy
+ *   frosted glass (seen in standard themes) into subtle left-bordered callout blocks.
+ *
+ * MAINTENANCE NOTES:
+ * - Avoid rigid drop shadows or sharp borders in this file; maintain the soft,
+ *   organic design language of the theme.
+ * ============================================================================
+ */
 
 /* --- 1. Text & UI Glows --- */
 .text-glow-primary {

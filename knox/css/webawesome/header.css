@@ -1,6 +1,22 @@
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: CORE KNOX HEADER STYLING (header.css)
+ * ==========================================================================
+ * This file dictates the baseline visual behavior of the main navigation 
+ * header within the 'Knox' platform context (Terminal/Data-driven aesthetic).
+ * 
+ * Key Responsibilities:
+ * 1. Style the main Navbar container utilizing monospace fonts.
+ * 2. Define the typography and interactive states for Brand and Navigation links.
+ * 3. Override Web Awesome (`<wa-dropdown>`) components to mimic rigid, 
+ *    sharp-edged "Data Tape" interactions.
+ * ========================================================================== */
 
-/* 1. Navbar Container */
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
+/* Note: Inherits the core Knox terminal aesthetic despite old file comments */
+
+/* --------------------------------------------------------------------------
+ * 1. NAVBAR CONTAINER
+ * -------------------------------------------------------------------------- */
 header .navbar {
     background-color: var(--bs-body-bg) !important;
     border-bottom: 2px solid var(--bs-primary) !important;
@@ -10,7 +26,9 @@ header .navbar {
     transition: all 0.3s ease;
 }
 
-/* 2. Brand Identity */
+/* --------------------------------------------------------------------------
+ * 2. BRAND IDENTITY
+ * -------------------------------------------------------------------------- */
 header .navbar-brand {
     font-weight: 800;
     letter-spacing: -1px;
@@ -18,28 +36,34 @@ header .navbar-brand {
     color: var(--bs-body-color) !important;
 }
 
-/* 3. Navigation Links */
+/* --------------------------------------------------------------------------
+ * 3. NAVIGATION LINKS
+ * -------------------------------------------------------------------------- */
 header .nav-link {
     font-weight: 600;
     color: var(--bs-body-color) !important;
-    opacity: 0.7;
+    opacity: 0.7; /* Subdued until hovered */
     transition: opacity 0.2s, color 0.2s;
 }
 
+/* Interactive States */
 header .nav-link:hover,
 header .nav-link.active {
     opacity: 1;
     color: var(--bs-primary) !important;
     text-decoration: underline;
-    text-underline-offset: 4px;
+    text-underline-offset: 4px; /* Distinct terminal underline */
 }
 
-/* 4. Dropdowns (The Data Tapes) */
+/* --------------------------------------------------------------------------
+ * 4. DROPDOWNS (The Data Tapes)
+ * -------------------------------------------------------------------------- */
+/* Target Web Awesome Dropdown Shadow DOM */
 header wa-dropdown::part(panel) {
     background-color: var(--bs-tertiary-bg) !important;
     border: 1px solid var(--bs-border-color) !important;
-    border-radius: 0;
-    box-shadow: 4px 4px 0 rgba(0,0,0,0.2);
+    border-radius: 0; /* Sharp edges for data aesthetic */
+    box-shadow: 4px 4px 0 rgba(0,0,0,0.2); /* Hard drop shadow */
 }
 
 header wa-dropdown-item {
@@ -48,6 +72,7 @@ header wa-dropdown-item {
     color: var(--bs-body-color) !important;
 }
 
+/* Invert colors on hover for a blocky terminal cursor effect */
 header wa-dropdown-item:hover {
     background-color: var(--bs-primary) !important;
     color: var(--bs-body-bg) !important; /* Invert text on hover */

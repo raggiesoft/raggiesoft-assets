@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SPACE GLOOM - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Space Gloom" reading theme for the Stardust 
+ * Engine. It utilizes cold grays, slate, and true blacks to create a sterile, 
+ * isolating, or sci-fi ambient reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - pale slate/gray backgrounds)
+ *    - Forced Dark Mode (True black backgrounds with muted gray accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Space Gloom */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-space-gloom,
 body.theme-light.theme-space-gloom {
-    --rs-bg: #f1f5f9;
-    --rs-surface: #e2e8f0;
-    --rs-text: #0f172a;
-    --rs-primary: #475569;
-    --rs-secondary: #64748b;
-    --rs-border: #cbd5e1;
+    --rs-bg: #f1f5f9; /* Light, sterile slate */
+    --rs-surface: #e2e8f0; /* Slightly darker slate surface */
+    --rs-text: #0f172a; /* Near black slate text */
+    --rs-primary: #475569; /* Muted gray primary */
+    --rs-secondary: #64748b; /* Lighter gray secondary */
+    --rs-border: #cbd5e1; /* Mid-slate border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-space-gloom {
-    --rs-bg: #000000;
-    --rs-surface: #020617;
-    --rs-text: #f1f5f9;
-    --rs-primary: #64748b;
-    --rs-secondary: #475569;
-    --rs-border: #0f172a;
+    --rs-bg: #000000; /* True space black background */
+    --rs-surface: #020617; /* Barely visible navy/black surface */
+    --rs-text: #f1f5f9; /* High contrast light slate text */
+    --rs-primary: #64748b; /* Muted gray primary */
+    --rs-secondary: #475569; /* Darker gray secondary */
+    --rs-border: #0f172a; /* Very dark border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-space-gloom,
     body:not(.theme-light):not(.theme-dark).theme-space-gloom {
-        --rs-bg: #000000;
+        --rs-bg: #000000; /* Matches Forced Dark Mode */
         --rs-surface: #020617;
         --rs-text: #f1f5f9;
         --rs-primary: #64748b;

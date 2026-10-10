@@ -1,7 +1,38 @@
-/* ==========================================================================
- * SAFETY NET & TYPOGRAPHY
- * Fallbacks and universal element styling
- * ========================================================================== */
+/**
+ * @file safety-net.css
+ * @brief Baseline Typography & Scrollbar Overrides (WebAwesome Aerie-Hold Theme).
+ * 
+ * ARCHITECTURE & MAINTENANCE NOTES:
+ * - Domain: Raggiesoft Assets -> Aerie-Hold -> Structural Fallbacks
+ * - Context: Establishes the core structural styling required for the narrative theme to render correctly before any complex CSS execution.
+ * - Integration: Included in the `<head>` of every page. Overrides default browser behaviors (focus states, WebKit scrollbars) to match the organic aesthetics.
+ * - Performance: Must remain structurally simple to avoid FOUC (Flash of Unstyled Content).
+ * - DO NOT add complex layout or animation logic here; keep it strictly for typography, form fallbacks, and scrollbar modifications.
+ * ============================================================================
+ * COMPONENT: safety-net.css (WebAwesome Aerie-Hold Theme)
+ * CONTEXT: Baseline Typography & Scrollbar Overrides
+ *
+ * PURPOSE:
+ * Establishes the core structural styling and fallbacks required for the
+ * "Aerie-Hold" narrative theme to render correctly before any complex CSS
+ * rules execute.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included in the `<head>` of every page. It overrides default browser behaviors
+ * (like focus states and scrollbars) to match the organic, rounded aesthetics
+ * of the application.
+ *
+ * KEY COMPONENTS:
+ * - Form Controls: Hardcodes form backgrounds to the tertiary background variable,
+ *   preventing bright white inputs from blinding users in dark mode.
+ * - Bioluminescent Scrollbars: Replaces standard WebKit scrollbars with thin,
+ *   rounded tracks that emit a soft glow when hovered in dark mode.
+ *
+ * MAINTENANCE NOTES:
+ * - Keep this file structurally simple. Do not place extensive layout logic
+ *   here to avoid FOUC (Flash of Unstyled Content) delays.
+ * ============================================================================
+ */
 
 html, body {
     max-width: 100%;

@@ -1,5 +1,19 @@
+/* ==============================================================================
+ * CRIMSON NODE - FOOTER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines the footer styling for the Shiloh Vanguard interface. Uses high-contrast 
+ * borders and deep background colors to anchor the bottom of the viewport.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - In light mode, the top border acts as a harsh crimson line (`--bs-primary`).
+ * - In dark mode, the border flips to wireframe blue (`--bs-secondary`), emitting
+ *   a faint box-shadow upward to simulate a glowing holographic display panel.
+ * ============================================================================== */
+
 /* footer.css (Crimson Node - Vanguard Update) */
 
+/* Structural base for the footer component */
 footer {
     margin-top: 5rem;
     padding: 4rem 0 2rem 0;
@@ -7,12 +21,15 @@ footer {
     background-color: var(--bs-body-bg);
 }
 
+/* Dark mode overrides (Matte Black Chassis integration) */
 [data-bs-theme="dark"] footer {
     background-color: #0A0A0A; /* Slightly darker than chassis black */
     border-top: 2px solid var(--bs-secondary); /* Wireframe Blue border */
+    /* Upward glow effect using the RGB representation of the secondary color */
     box-shadow: 0 -4px 20px rgba(var(--bs-secondary-rgb), 0.05); 
 }
 
+/* Heading typography rules for footer columns */
 footer h5, footer h6 {
     color: var(--bs-body-color);
     letter-spacing: 1px;
@@ -20,6 +37,7 @@ footer h5, footer h6 {
     font-weight: 700;
 }
 
+/* Navigation links within the footer */
 footer .nav-link, footer ul a {
     padding-left: 0;
     color: var(--bs-secondary);
@@ -28,6 +46,7 @@ footer .nav-link, footer ul a {
     transition: color 0.2s ease;
 }
 
+/* Hover state interaction for links */
 footer .nav-link:hover, footer ul a:hover {
     color: var(--bs-primary); 
     text-decoration: none; 

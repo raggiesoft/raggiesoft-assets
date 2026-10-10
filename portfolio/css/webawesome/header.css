@@ -1,6 +1,23 @@
+/* ==============================================================================
+ * RAGGIESOFT PORTFOLIO - DYNAMIC HEADER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Controls the global navigation header for the portfolio, utilizing Bootstrap's
+ * CSS variables to seamlessly adapt between Light and Dark mode states without 
+ * duplicating structural rules.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - Uses fallback values (e.g., `var(--bs-body-bg, #ffffff)`) as a safety net in 
+ *   case the root Bootstrap theme variables fail to load.
+ * - The Corporate Logo Magic section uses `mix-blend-mode` to render solid-background 
+ *   JPG logos transparently against the header. This will not work correctly 
+ *   if the header background itself isn't a solid, distinct color.
+ * ============================================================================== */
+
 /* bootstrap-header.css (Dynamic Theme Support - Fixed for Light Mode Default) */
 
 /* 1. Navbar Base */
+/* Maps background and border colors directly to standard body theme variables */
 header .navbar {
     /* FIXED: Fallback is now White (#ffffff) to match root.css :root default.
        var(--bs-body-bg) will automatically switch this to #121212 in Dark Mode. */
@@ -19,25 +36,28 @@ header .navbar-brand {
 }
 
 header .nav-link {
-    /* Use secondary color variable (Grey) */
+    /* Use secondary color variable (Grey) for inactive states */
     color: var(--bs-secondary) !important;
 }
 
+/* Active and Hover states pull the primary theme accent color */
 header .nav-link:hover,
 header .nav-link.active {
     color: var(--bs-primary) !important;
 }
 
 /* 3. Hamburger Menu */
-header wa-icon-button[name=\"bars\"] {
+/* Maps the mobile menu button lines to follow body color logic */
+header wa-icon-button[name="bars"] {
     border-color: var(--bs-border-color) !important;
 }
-header wa-icon-button[name=\"bars\"] .hamburger-bar {
+header wa-icon-button[name="bars"] .hamburger-bar {
     /* This ensures the bars are Black in Light Mode, White in Dark Mode */
     background-color: var(--bs-body-color) !important;
 }
 
 /* 4. Dropdowns */
+/* Overrides WebAwesome Shadow DOM parts to match the Bootstrap theme */
 header wa-dropdown::part(panel) {
     background-color: var(--bs-body-bg) !important;
     border-color: var(--bs-border-color) !important;
@@ -54,13 +74,14 @@ header wa-dropdown-item:hover {
 /* 5. CORPORATE LOGO MAGIC */
 /* This handles the Engine Room / Corporate JPG logos with white backgrounds */
 .navbar-brand-corporate-img {
-    /* Light Mode: Multiply makes the white background transparent */
+    /* Light Mode: Multiply makes the white background transparent against light headers */
     mix-blend-mode: multiply; 
 }
 
 /* Dark Mode Override */
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
     /* Dark Mode: Invert colors (White bg -> Black bg) then Screen (Black bg -> Transparent) */
+    /* This effectively turns a black-on-white JPG logo into a white-on-transparent logo */
     filter: invert(1) grayscale(100%); 
     mix-blend-mode: screen; 
 }

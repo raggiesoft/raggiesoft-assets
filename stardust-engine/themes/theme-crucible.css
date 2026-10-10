@@ -1,3 +1,27 @@
+/**
+ * ============================================================================
+ * FILE: theme-crucible.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the compiled stylesheet for the "Live at The Crucible" (CPI) theme. 
+ * It aggregates the root variables, component-specific overrides (header/footer), 
+ * and accessibility safety nets into a single portable CSS bundle.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Uses the `--rs-*` prefix (RaggieSoft Surface) to prevent collisions with 
+ *   host environment `--bs-*` variables, ensuring Stardust components render 
+ *   correctly even when embedded in other sites.
+ * - Enforces WCAG 2.1 AA compliance via strict color mappings and high-contrast 
+ *   switches (Maroon to Orange) during Light-to-Dark mode transitions.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files (`root-crucible.css`, `safety-net-crucible.css`, 
+ *   etc.) are recompiled.
+ * - Any changes to Web Awesome mapping tokens (e.g., `--rs-brand-fill-loud`) 
+ *   must be tested against the latest version of the Web Awesome library.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: crucible */
 
 /* --- root.css --- */

@@ -1,6 +1,22 @@
-/* bootstrap-footer.css (Frutiger Aero / Dark Aero Glass Edition) */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: footer.css (Frutiger Aero / Dark Aero Glass Edition)
+ * ==========================================================================
+ * This stylesheet manages the visual presentation of the global footer element.
+ * It perfectly mirrors the "Aero Glass" design language established in `header.css`,
+ * anchoring the bottom of the viewport with a matching blurred, translucent pane.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - The box-shadow here is specifically configured to cast *upwards* into the 
+ *   page content, providing depth and separating the footer from the body.
+ * - The `position: relative; z-index: 10;` rule on the footer is mandatory to 
+ *   ensure this upward shadow renders correctly over standard document flow.
+ * - The `#konamiModal` targets a specific Easter Egg UI. Do not remove it 
+ *   unless the Konami code module itself is fully deprecated.
+ * ========================================================================== */
 
-/* 1. Footer Base - The Bottom Glass Pane */
+/* --------------------------------------------------------------------------
+ * 1. Footer Base - The Bottom Glass Pane
+ * -------------------------------------------------------------------------- */
 footer {
     /* Replace the solid background with our translucent variables */
     background-color: var(--raggie-glass-bg) !important;
@@ -25,13 +41,17 @@ footer {
     box-shadow: 0 -8px 32px rgba(0, 229, 255, 0.05);
 }
 
-/* 2. Fix Muted Text */
+/* --------------------------------------------------------------------------
+ * 2. Typography Color Overrides
+ * -------------------------------------------------------------------------- */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
 }
 
-/* 3. Links */
+/* --------------------------------------------------------------------------
+ * 3. Link Styling & Interactions
+ * -------------------------------------------------------------------------- */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
@@ -52,7 +72,9 @@ footer .link-secondary:hover {
     text-shadow: 0 0 8px var(--mpr-cyan-400);
 }
 
-/* 4. Konami Modal (Aero Glass Easter Egg) */
+/* --------------------------------------------------------------------------
+ * 4. Konami Modal (Aero Glass Easter Egg)
+ * -------------------------------------------------------------------------- */
 #konamiModal wa-dialog::part(panel) {
     /* Make the modal itself a heavy, frosted glass pane */
     background-color: var(--raggie-glass-bg) !important;

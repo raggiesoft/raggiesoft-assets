@@ -1,14 +1,32 @@
+/* ==============================================================================
+ * STARDUST ENGINE - EXTRAS (CRUCIBLE THEME)
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Overrides the standard Stardust extras layer with Crucible-specific styling.
+ * Crucible is a high-contrast, aggressive industrial theme (maroon/orange).
+ * This file tweaks glows, HUD layers, and crucially, introduces an accessibility
+ * core for reduced motion and keyboard focus rings.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - HUD backgrounds here use higher opacity (`0.9`) compared to the standard theme
+ *   (`0.15`), abandoning the heavy glass effect for brutalist readability.
+ * - The `@media (prefers-reduced-motion: reduce)` block is an essential a11y 
+ *   feature. Do not remove it.
+ * ============================================================================== */
+
 /* extras-crucible.css */
 /* Visual FX for the Crucible Theme */
 
 /* --- 0. ACCESSIBILITY CORE --- */
 /* Global Focus Ring for Keyboard Navigation */
+/* Ensures focus states are highly visible without relying on soft, low-contrast shadows */
 :focus-visible {
     outline: 3px solid var(--bs-warning);
     outline-offset: 2px;
 }
 
 /* 1. Text Glows (Maroon to Orange Fire) */
+/* Defines a custom fiery text gradient overriding the standard blue/primary */
 .text-glow-primary {
     color: var(--bs-primary); /* Fallback */
     background: linear-gradient(135deg, var(--bs-warning), var(--bs-primary));
@@ -20,6 +38,7 @@
 /* 2. HUD System (High Contrast Industrial Glass) */
 /* Note: background opacity increased to 0.9 for readability */
 
+/* Increases opacity for a denser, more mechanical feel over standard glass */
 .bg-hud-blue, .bg-hud-info {
     background-color: rgba(0, 64, 133, 0.9);
     border: 1px solid var(--bs-info);
@@ -39,6 +58,7 @@
 }
 
 /* 3. Container Glows */
+/* Overrides standard primary container glows with harsh warning (orange) borders */
 .border-glow {
     border: 2px solid var(--bs-warning) !important;
     box-shadow: 0 0 15px rgba(var(--bs-warning-rgb), 0.3);
@@ -49,12 +69,14 @@
 }
 
 /* 4. Font Awesome */
+/* Alters duotone icon rendering to match the maroon/orange crucible palette */
 .fa-duotone {
     --fa-primary-color: var(--bs-primary);
     --fa-secondary-color: var(--bs-warning);
 }
 
 /* 5. Responsive Utilities */
+/* Strengthens responsive left borders */
 @media (min-width: 768px) {
     .border-start-md {
         border-left: 3px solid var(--bs-primary) !important;
@@ -62,6 +84,7 @@
 }
 
 /* 6. Reduced Motion (Accessibility) */
+/* Overrides all animations and transitions when OS user requests reduced motion */
 @media (prefers-reduced-motion: reduce) {
     * {
         animation-duration: 0.01ms !important;
@@ -73,6 +96,7 @@
 }
 
 /* .btn-outline-light Backfill */
+/* Crucial Bootstrap 5 override that was missing from older crucible builds */
 .btn-outline-light {
   --bs-btn-color: #f8f9fa;
   --bs-btn-border-color: #f8f9fa;

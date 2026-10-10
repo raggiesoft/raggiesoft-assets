@@ -1,26 +1,50 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: CRUCIBLE SAFETY NET (safety-net.css)
+ * ==========================================================================
+ * This file acts as the primary structural and typographic override layer for 
+ * the "Live at The Crucible" theme. It enforces a gritty, sports/industrial 
+ * aesthetic using rigid monospace and impact typography.
+ * 
+ * Key Responsibilities:
+ * 1. Force overarching typography (Courier New for body, Impact for headings)
+ *    to mimic scoreboards and athletic apparel.
+ * 2. Patch Dark Mode contrast issues, specifically targeting warning alerts,
+ *    primary buttons (mandating black text on orange), and card translucency.
+ * 3. Ensure dual-support for both `prefers-color-scheme` media queries and 
+ *    explicit `data-bs-theme` data attributes.
+ * ========================================================================== */
+
 /* safety-net-crucible.css */
 /* Overrides for "Live at The Crucible" */
 
-/* 1. Typography (Sports / Industrial Feel) */
+/* --------------------------------------------------------------------------
+ * 1. TYPOGRAPHY (Sports / Industrial Feel)
+ * -------------------------------------------------------------------------- */
 body {
+    /* Base text assumes an industrial, terminal-like monospace aesthetic */
     font-family: "Courier New", Courier, monospace;
 }
+
 /* Headers get the Impact font for that "Varsity" look */
 h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .display-4 {
+    /* Bold, heavy display fonts suitable for stadiums and arenas */
     font-family: "Impact", "Arial Black", sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
-/* 2. Dark Mode Fixes */
+/* --------------------------------------------------------------------------
+ * 2. DARK MODE STRUCTURAL FIXES (System Preference)
+ * -------------------------------------------------------------------------- */
 @media (prefers-color-scheme: dark) {
+    /* Fix warning alerts: default yellow is too bright, shift to dark orange */
     .alert-warning {
         background-color: #3D1000; /* Dark Orange bg */
         border-color: #E87722;
-        color: #F8F9FA; /* White text for contrast */
+        color: #F8F9FA; /* White text for contrast against dark background */
     }
     
-    /* Fix Button Contrast: BLACK text on Orange button is mandatory */
+    /* Fix Button Contrast: BLACK text on Orange button is mandatory for WCAG */
     .btn-primary {
         color: #000000 !important; 
         background-color: var(--bs-primary);
@@ -28,9 +52,9 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .disp
         font-weight: bold;
     }
     
-    /* Fix Card transparency - must be dark enough for white text */
+    /* Fix Card transparency - must be dark enough for white text to remain legible */
     .card {
-        background-color: rgba(30, 10, 15, 0.85); /* 85% opacity */
+        background-color: rgba(30, 10, 15, 0.85); /* 85% opacity over body bg */
         border-color: var(--bs-border-color);
     }
     
@@ -38,22 +62,28 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .display-1, .display-2, .display-3, .disp
     .navbar-brand { color: #FFFFFF !important; }
 }
 
-/* Force Dark Mode Classes */
+/* --------------------------------------------------------------------------
+ * 3. DARK MODE STRUCTURAL FIXES (Manual Override)
+ * -------------------------------------------------------------------------- */
+/* Force Dark Mode Classes: Duplicates logic above for explicit JS toggles */
 [data-bs-theme="dark"] .alert-warning {
     background-color: #3D1000;
     border-color: #E87722;
     color: #F8F9FA;
 }
+
 [data-bs-theme="dark"] .btn-primary {
     color: #000000 !important;
     background-color: var(--bs-primary);
     border-color: var(--bs-primary);
     font-weight: bold;
 }
+
 [data-bs-theme="dark"] .card {
     background-color: rgba(30, 10, 15, 0.85);
     border-color: var(--bs-border-color);
 }
+
 [data-bs-theme="dark"] .navbar-brand { 
     color: #FFFFFF !important; 
 }

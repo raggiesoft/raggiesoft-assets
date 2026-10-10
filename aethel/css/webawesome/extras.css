@@ -1,6 +1,22 @@
+/* ==============================================================================
+ * AETHEL - EXTRAS (BASE PARCHMENT THEME)
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Contains the custom structural and typographical elements that give Aethel its 
+ * high-fantasy, physical-book aesthetic. It relies on drop shadows, vignette 
+ * effects, and specialized serif fonts to emulate ink on parchment.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - The `.tome-container` uses a semi-transparent `rgba` background. If the global
+ *   body background pattern changes, this will let the texture bleed through.
+ * - Headers are hard-coded to have a bottom border. If using WebAwesome card headers,
+ *   you may need to strip this border to prevent double-underlining.
+ * ============================================================================== */
+
 /* extras.css (Aethel) */
 
 /* 1. The "Tome" Container (The Page itself) */
+/* Simulates a physical sheet of paper/parchment resting on a surface */
 .tome-container {
     background-color: rgba(255, 253, 245, 0.6);
     box-shadow: 
@@ -12,10 +28,11 @@
 }
 
 /* 2. Drop Caps for Narrative */
+/* Classic fantasy styling for the first letter of a chapter */
 .drop-cap {
     float: left;
     font-size: 4.5rem;
-    line-height: 0.8;
+    line-height: 0.8; /* Tight line height keeps the letter vertically aligned with the text */
     margin-right: 0.1em;
     margin-top: 0.1em;
     font-family: var(--font-fantasy-header);
@@ -24,6 +41,7 @@
 }
 
 /* 3. Headers */
+/* Forces a uniform fantasy serif typeface across all major headings */
 h1, h2, h3, .display-1, .display-4 {
     font-family: var(--font-fantasy-header);
     text-transform: uppercase;

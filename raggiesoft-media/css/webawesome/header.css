@@ -1,6 +1,24 @@
-/* bootstrap-header.css (Frutiger Aero / Dark Aero Glass Edition) */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: header.css (Frutiger Aero / Dark Aero Glass Edition)
+ * ==========================================================================
+ * This stylesheet defines the visual identity for the Stardust Engine's primary 
+ * navigation header (`header .navbar`). It overrides standard Bootstrap classes 
+ * to implement a heavily stylized "Aero Glass" aesthetic, characterized by 
+ * deep blurs, specular highlights, and translucent pane backgrounds.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - The `--raggie-glass-*` variables utilized here are defined in `root.css`.
+ *   If the global theme ever shifts away from the Aero/Glass aesthetic, you 
+ *   must update the variables there rather than hardcoding solid colors here.
+ * - The `backdrop-filter` property requires the `-webkit-` vendor prefix to 
+ *   function correctly on Safari/iOS devices. Do not remove it.
+ * - Text shadows are extensively used to guarantee legibility against the 
+ *   translucent, variable background behind the header.
+ * ========================================================================== */
 
-/* 1. Navbar Base - The Frosted Glass Pane */
+/* --------------------------------------------------------------------------
+ * 1. Navbar Base - The Frosted Glass Pane
+ * -------------------------------------------------------------------------- */
 header .navbar {
     /* Drop the solid background and pull the translucent variables from root.css */
     background-color: var(--raggie-glass-bg) !important;
@@ -18,13 +36,16 @@ header .navbar {
     transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
-/* 2. Text Colors */
+/* --------------------------------------------------------------------------
+ * 2. Text Colors & Typography Shadows
+ * -------------------------------------------------------------------------- */
 header .navbar-brand {
     color: var(--bs-body-color) !important;
-    /* Slight white text shadow for that glossy depth */
+    /* Slight white text shadow for that glossy depth against the glass */
     text-shadow: 0 1px 2px rgba(255, 255, 255, 0.3); 
 }
 
+/* Dark Mode Overrides for Typography */
 [data-bs-theme="dark"] header .navbar-brand {
     /* Glowing neon cyan text shadow for Dark Aero */
     text-shadow: 0 1px 5px rgba(0, 229, 255, 0.4);
@@ -47,20 +68,24 @@ header .nav-link.active {
     text-shadow: 0 0 8px var(--bs-primary);
 }
 
-/* 3. Hamburger Menu (Adapted for Glass) */
-header wa-icon-button[name=\"bars\"] {
+/* --------------------------------------------------------------------------
+ * 3. Hamburger Menu (Adapted for Glass UI)
+ * -------------------------------------------------------------------------- */
+header wa-icon-button[name="bars"] {
     /* Give the button its own tiny glass housing */
     border: 1px solid var(--raggie-glass-border) !important;
     background: rgba(255, 255, 255, 0.1);
     border-radius: 8px; /* Softer, pill-like edges */
 }
 
-header wa-icon-button[name=\"bars\"] .hamburger-icon span {
+header wa-icon-button[name="bars"] .hamburger-icon span {
     background: var(--bs-body-color) !important;
     box-shadow: 0 1px 1px rgba(255, 255, 255, 0.2);
 }
 
-/* 4. Dropdowns - Extending the Glass */
+/* --------------------------------------------------------------------------
+ * 4. Dropdowns - Extending the Glass Aesthetic
+ * -------------------------------------------------------------------------- */
 header wa-dropdown::part(panel) {
     background-color: var(--raggie-glass-bg) !important;
     backdrop-filter: blur(16px) saturate(120%);
@@ -76,12 +101,14 @@ header wa-dropdown-item {
 }
 
 header wa-dropdown-item:hover {
-    /* A glossy highlight instead of a flat background color */
+    /* Apply a glossy highlight instead of a flat background color */
     background-color: var(--raggie-gloss-highlight) !important; 
     color: var(--bs-primary) !important;
 }
 
-/* 5. CORPORATE LOGO MAGIC */
+/* --------------------------------------------------------------------------
+ * 5. CORPORATE LOGO MAGIC
+ * -------------------------------------------------------------------------- */
 header .navbar-brand-corporate-img {
     mix-blend-mode: multiply;
     /* Helps it pop off the blurred background */

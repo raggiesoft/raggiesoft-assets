@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SUNSTEAD VICTORY - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Sunstead Victory" reading theme for the Stardust 
+ * Engine. It utilizes warm golds, amber, and deep brown tones to evoke a 
+ * feeling of triumph, dawn, or majestic warmth.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - soft golden/cream backgrounds)
+ *    - Forced Dark Mode (Deep amber/brown backgrounds with bright gold accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Victory */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-sunstead-victory,
 body.theme-light.theme-sunstead-victory {
-    --rs-bg: #fffbeb;
-    --rs-surface: #fef3c7;
-    --rs-text: #78350f;
-    --rs-primary: #d97706;
-    --rs-secondary: #f59e0b;
-    --rs-border: #fde68a;
+    --rs-bg: #fffbeb; /* Very pale gold/cream */
+    --rs-surface: #fef3c7; /* Soft amber surface */
+    --rs-text: #78350f; /* Dark brown/amber text */
+    --rs-primary: #d97706; /* Strong gold/orange primary */
+    --rs-secondary: #f59e0b; /* Bright amber secondary */
+    --rs-border: #fde68a; /* Golden border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-sunstead-victory {
-    --rs-bg: #451a03;
-    --rs-surface: #78350f;
-    --rs-text: #fffbeb;
-    --rs-primary: #fbbf24;
-    --rs-secondary: #f59e0b;
-    --rs-border: #92400e;
+    --rs-bg: #451a03; /* Deep, dark warm brown */
+    --rs-surface: #78350f; /* Elevated amber surface */
+    --rs-text: #fffbeb; /* Pale gold text for readability */
+    --rs-primary: #fbbf24; /* Bright gold primary accent */
+    --rs-secondary: #f59e0b; /* Amber secondary */
+    --rs-border: #92400e; /* Mid-brown border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead-victory,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-victory {
-        --rs-bg: #451a03;
+        --rs-bg: #451a03; /* Matches Forced Dark Mode */
         --rs-surface: #78350f;
         --rs-text: #fffbeb;
         --rs-primary: #fbbf24;

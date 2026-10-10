@@ -1,17 +1,49 @@
-/* theme-night.css */
-/* Night Theme for Stardust Engine */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: theme-night.css
+ * ==========================================================================
+ * Night Theme for Stardust Engine (Source File)
+ * This stylesheet defines a global dark mode ("Night" theme) tailored for 
+ * reading applications. It overrides the base `--rs-*` CSS variables defined 
+ * in the core Stardust Engine CSS when `body` is given the `.theme-night` class.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Palette Injection: Sets low-contrast, deep dark backgrounds and bright 
+ *    interactive accents to reduce eye strain in low-light environments.
+ * 2. Component Overrides: Selectively overrides specific UI elements (like 
+ *    `.ova-title`) to ensure they remain legible and aesthetically cohesive 
+ *    within the dark environment.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - This file should be modified directly and then minified into 
+ *   `theme-night.min.css` as part of a build step.
+ * - Always use hex or rgb values that maintain WCAG AAA contrast ratios 
+ *   against `--rs-bg` for optimal accessibility.
+ * ========================================================================== */
 
+/* --------------------------------------------------------------------------
+ * 1. Global Variable Overrides
+ * -------------------------------------------------------------------------- */
 body.theme-night {
-    --rs-bg: #0d1117;
-    --rs-surface: #161b22;
-    --rs-text: #c9d1d9;
-    --rs-primary: #58a6ff;
-    --rs-secondary: #79c0ff;
-    --rs-border: #30363d;
-    --rs-asl: #3fb950;
-    --rs-gesture: #8b949e;
+    /* Core structural surfaces */
+    --rs-bg: #0d1117;       /* Very deep gray, almost black */
+    --rs-surface: #161b22;  /* Slightly elevated surface for cards/sidebars */
+    --rs-text: #c9d1d9;     /* Soft off-white text to prevent blooming */
+    
+    /* Interactive & Accent Colors */
+    --rs-primary: #58a6ff;  /* Bright legible blue */
+    --rs-secondary: #79c0ff;/* Lighter hover-state blue */
+    --rs-border: #30363d;   /* Subtle delineating lines */
+    
+    /* Semantic Narrative Markers */
+    --rs-asl: #3fb950;      /* Legible green for sign language dialogue */
+    --rs-gesture: #8b949e;  /* Dimmer gray for non-verbal gestures */
 }
 
+/* --------------------------------------------------------------------------
+ * 2. Specific Component Tweaks
+ * -------------------------------------------------------------------------- */
+
+/* Adjusting the main narrative title for the dark theme */
 body.theme-night .ova-title {
     font-family: 'Playfair Display', serif, system-ui;
     text-transform: uppercase;
@@ -20,12 +52,16 @@ body.theme-night .ova-title {
     color: var(--rs-primary) !important;
 }
 
+/* Adjusting the narrative subtitle for the dark theme */
 body.theme-night .ova-subtitle {
     font-family: monospace;
     color: var(--rs-text) !important;
     opacity: 0.8;
 }
 
+/* --------------------------------------------------------------------------
+ * 3. Link Interactions
+ * -------------------------------------------------------------------------- */
 body.theme-night a {
     color: var(--rs-primary);
 }

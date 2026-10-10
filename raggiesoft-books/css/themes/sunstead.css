@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SUNSTEAD - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the standard "Sunstead" reading theme for the Stardust 
+ * Engine. It utilizes warm yellows, golds, and deep browns to create a bright, 
+ * sunlit, or optimistic reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - bright yellow/cream backgrounds)
+ *    - Forced Dark Mode (Deep espresso/brown backgrounds with yellow accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-sunstead,
 body.theme-light.theme-sunstead {
-    --rs-bg: #fefce8;
-    --rs-surface: #fef08a;
-    --rs-text: #422006;
-    --rs-primary: #a16207;
-    --rs-secondary: #ca8a04;
-    --rs-border: #fde047;
+    --rs-bg: #fefce8; /* Pale yellow/cream background */
+    --rs-surface: #fef08a; /* Yellow surface */
+    --rs-text: #422006; /* Dark brown text */
+    --rs-primary: #a16207; /* Dark gold primary accent */
+    --rs-secondary: #ca8a04; /* Lighter gold secondary */
+    --rs-border: #fde047; /* Yellow border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-sunstead {
-    --rs-bg: #291500;
-    --rs-surface: #422006;
-    --rs-text: #fefce8;
-    --rs-primary: #facc15;
-    --rs-secondary: #eab308;
-    --rs-border: #713f12;
+    --rs-bg: #291500; /* Extremely dark brown background */
+    --rs-surface: #422006; /* Elevated dark brown surface */
+    --rs-text: #fefce8; /* Pale cream text */
+    --rs-primary: #facc15; /* Bright yellow primary accent */
+    --rs-secondary: #eab308; /* Darker yellow secondary */
+    --rs-border: #713f12; /* Mid-brown border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead,
     body:not(.theme-light):not(.theme-dark).theme-sunstead {
-        --rs-bg: #291500;
+        --rs-bg: #291500; /* Matches Forced Dark Mode */
         --rs-surface: #422006;
         --rs-text: #fefce8;
         --rs-primary: #facc15;

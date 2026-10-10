@@ -1,7 +1,30 @@
 /**
  * ============================================================================
- * THE STARDUST PLAYER ENGINE (v4.4 - SPA Race Condition Fix)
+ * Architectural Block: stardust-player.js
  * ============================================================================
+ * This is the core JavaScript engine for the "Stardust Player", a persistent,
+ * accessible, cross-page audio player designed for the Elara SPA framework.
+ *
+ * Key Responsibilities:
+ * 1. Audio Playback: Manages track loading, buffering, skipping, and looping via the HTML5 Audio API.
+ * 2. SPA Persistence: Uses global event delegation (`document.body.addEventListener('click')`) 
+ *    to ensure play/lyrics buttons continue to work after Elara replaces the DOM, avoiding "Ghost DOM" bugs.
+ * 3. Accessibility (WCAG): 
+ *    - Uses `aria-live` regions to announce track changes ("Buffering...", "Now Playing").
+ *    - Dynamically applies `aria-current="true"` to the active playlist row.
+ *    - Ensures all interactive badges and tooltips are focusable (`tabindex="0"`).
+ * 4. Lore Integration: Dynamically generates color-coded legacy tiers ("Chart Smash", "Vault Track") 
+ *    and parses Markdown lore notes directly into the UI.
+ * 5. Lyrics & VTT Parsing: Fetches `.md` and `.vtt` files concurrently, rendering synchronized 
+ *    karaoke-style highlighting during playback.
+ *
+ * Maintenance Notes:
+ * - Playback state (Shuffle, Repeat) is saved to LocalStorage.
+ * - `window.STARDUST_PLAYLIST` is the global source of truth for the current album's tracklist.
+ * - Do NOT bind click events directly to `.btn-play-index` elements on load, as Elara will destroy them.
+ * ============================================================================
+ *
+ * THE STARDUST PLAYER ENGINE (v4.4 - SPA Race Condition Fix)
  * UPDATED FOR ACCESSIBILITY & LORE:
  * 1. Live Regions: Track title now announces "Buffering" and Song Names.
  * 2. Aria-Current: Playlist rows now strictly identify the active track.

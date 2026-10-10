@@ -1,18 +1,41 @@
 /* ==========================================================================
+ * STARDUST ENGINE CMS - AERIE-HOLD THEME
  * LAYOUT: FOOTER
- * The Forest Floor
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the visual presentation of the global footer component
+ * specifically for the "Aerie-Hold" bioluminescent theme. It tightly integrates
+ * with Bootstrap 5 CSS variables (`var(--bs-*)`) to ensure theme-switching
+ * compatibility (light/dark mode) without needing to duplicate selectors.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Semantic Spacing: Uses rem units to decouple spacing from absolute pixels.
+ * 2. Visual Identity ("The Forest Floor"): Implements a glowing vine top border
+ *    effect using a pseudo-element (`::before`) and linear gradients.
+ * 3. Accessibility: Enforces high-contrast text rendering using `!important` 
+ *    flags specifically targeting Bootstrap utility overrides.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - This file should be enqueued globally in the `<head>` after Bootstrap.
+ * - Relies on `root.css` variables being loaded first.
  * ========================================================================== */
 
 footer {
+    /* Enforce tertiary background color to separate footer from main content */
     background-color: var(--bs-tertiary-bg) !important; 
+    /* Ensure body text color maintains contrast */
     color: var(--bs-body-color) !important;            
+    /* Remove default Bootstrap borders in favor of the glowing vine effect */
     border-top: none !important;
+    /* Relative positioning is required to anchor the absolute ::before element */
     position: relative;
     padding-top: 3rem;
     margin-top: 4rem;
 }
 
-/* Glowing Vine border at the top */
+/* Glowing Vine border at the top (The Forest Floor effect) */
+/* Using a pseudo-element avoids adding non-semantic div tags to the HTML */
 footer::before {
     content: '';
     position: absolute;
@@ -20,25 +43,33 @@ footer::before {
     left: 0;
     width: 100%;
     height: 2px;
+    /* Base linear gradient for light mode */
     background: linear-gradient(90deg, var(--bs-primary), var(--bs-info));
     opacity: 0.6;
 }
 
+/* Dark Mode Override for the Glowing Vine */
+/* Enhances the bioluminescence effect when the data-bs-theme attribute changes */
 [data-bs-theme="dark"] footer::before {
     height: 1px;
+    /* Add a multi-layered box-shadow to simulate a neon glow */
     box-shadow: 0 0 10px var(--bs-primary), 0 0 20px var(--bs-info);
     opacity: 0.8;
 }
 
+/* Secondary Text Elements */
+/* Target muted text to ensure it remains legible against the tertiary background */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
     opacity: 0.7;
 }
 
+/* Anchor Link State Management */
 footer a {
     color: var(--bs-body-color) !important;
     text-decoration: none;
+    /* Smooth transition for hover effects to prevent harsh color popping */
     transition: all 0.2s ease;
 }
 
@@ -46,6 +77,8 @@ footer a:hover {
     color: var(--bs-primary) !important;
 }
 
+/* Dark Mode Hover Override */
+/* Adds a text-shadow to make links pop out in the dark environment */
 [data-bs-theme="dark"] footer a:hover {
     color: #ffffff !important;
     text-shadow: 0 0 8px rgba(var(--bs-primary-rgb), 0.8);

@@ -1,6 +1,27 @@
-/* safety-net.css - Overrides & Font Stacks */
+/**
+ * ============================================================================
+ * FILE: safety-net.css (Aerie-Hold Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Establishes the foundational typographical and interactive baseline for the 
+ * 'Aerie-Hold' environment. It overrides default browser behaviors and standard 
+ * framework styles to create the specific "Log/Report vs Truth" aesthetic.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Overrides `body` to a softened monospace stack, contrasting with strong 
+ *   sans-serif headings.
+ * - Customizes form controls and scrollbars to fit the organic/vine motif.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Any changes to the `body` font stack must ensure `line-height` remains 
+ *   sufficiently "airy" for readability.
+ * - Webkit scrollbar pseudo-classes (`::-webkit-scrollbar`) are non-standard; 
+ *   monitor standard scrollbar specs (`scrollbar-color`, `scrollbar-width`) 
+ *   for broader adoption.
+ * ============================================================================
+ */
 
-/* 1. Font Stack */
+/* 1. Font Stack - Base typography resets */
 /* Keeping the Monospace for the "Log/Report" feel, but softening it */
 body {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;

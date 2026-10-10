@@ -1,3 +1,27 @@
+/* ==========================================================================
+ * RAGGIESOFT CORPORATE - STARDUST LABS THEME
+ * LAYOUT: FOOTER
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the visual presentation of the global footer component
+ * for the Stardust Labs branding ("Engineering Deck Base"). Similar to the header, 
+ * it utilizes structural glassmorphism, but anchors the UI to the bottom of the 
+ * viewport with upward-casting shadows.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Visual Grounding: Uses `box-shadow` with negative Y-offsets to cast light 
+ *    upwards, simulating a control deck environment.
+ * 2. Typography & Hierarchy: Mutes secondary text and standardizes navigational
+ *    links with interactive holographic hover states.
+ * 3. Modal Overrides: specifically targets a known easter-egg modal (`#konamiModal`) 
+ *    to ensure its shadow DOM parts match the global glass aesthetic.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - This file complements `header.css` and `root.css`. 
+ * - Ensures a consistent sci-fi UI framework across the corporate layout.
+ * ========================================================================== */
+
 /* /css/bootstrap/stardust-labs/footer.css */
 /* STARDUST LABS: Engineering Deck Base */
 
@@ -8,25 +32,30 @@ footer {
     -webkit-backdrop-filter: blur(20px) saturate(150%);
     border-top: 1px solid var(--raggie-glass-border) !important;
     
-    /* Upward shadow to ground the starliner UI */
+    /* Upward shadow to ground the starliner UI and separate it from main content */
     box-shadow: 0 -8px 32px rgba(0, 85, 150, 0.05); 
+    
     color: var(--bs-body-color) !important;
     position: relative;
+    /* Ensure the footer sits above scrolling content if sticky/fixed */
     z-index: 10;
 }
 
+/* Dark Mode Override */
 [data-bs-theme="dark"] footer {
-    /* Neon cyan upward shadow for the Deep Void */
+    /* Neon cyan upward shadow for the Deep Void theme */
     box-shadow: 0 -8px 32px rgba(0, 229, 255, 0.08);
 }
 
 /* 2. Subdued Engineering Text */
+/* Forces muted elements to respect the secondary theme color for legibility */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
 }
 
 /* 3. Navigational Links */
+/* Standardize all anchor tags within the footer */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
@@ -35,6 +64,7 @@ footer .link-body-emphasis {
     text-decoration: none;
 }
 
+/* Global Hover State for Links */
 footer a:hover,
 footer .link-secondary:hover {
     color: var(--bs-primary) !important;
@@ -42,12 +72,14 @@ footer .link-secondary:hover {
 }
 
 /* Light Mode Link Hover: Polished Silver / Cyan */
+/* Adds a soft cyan glow to links on hover in light environments */
 [data-bs-theme="light"] footer a:hover,
 [data-bs-theme="light"] footer .link-secondary:hover {
     text-shadow: 0 0 8px rgba(0, 229, 255, 0.4);
 }
 
 /* Dark Mode Link Hover: Holographic Neon */
+/* Intensifies the glow and adds letter-spacing to simulate a terminal activating */
 [data-bs-theme="dark"] footer a:hover,
 [data-bs-theme="dark"] footer .link-secondary:hover {
     text-shadow: 0 0 10px var(--mpr-cyan-400), 0 0 20px rgba(0, 229, 255, 0.6);
@@ -55,10 +87,14 @@ footer .link-secondary:hover {
 }
 
 /* 4. Konami Modal (Aero Glass Easter Egg) */
+/* Targets the Web Awesome Dialog component via CSS Shadow Parts */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--raggie-glass-bg) !important;
+    
+    /* Slightly higher blur radius for the modal to heavily obscure background */
     backdrop-filter: blur(24px) saturate(150%);
     -webkit-backdrop-filter: blur(24px) saturate(150%);
+    
     border: 1px solid var(--raggie-glass-border) !important;
     box-shadow: var(--raggie-glass-shadow);
 }

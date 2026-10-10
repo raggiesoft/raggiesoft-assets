@@ -1,16 +1,37 @@
 <!DOCTYPE html>
+<!-- ==========================================================================
+ * RAGGIESOFT ASSETS SERVER - ROOT REDIRECT
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This static HTML file serves as the default landing page for the CDN/Asset 
+ * subdomain (e.g., assets.raggiesoft.com). Since the asset server should not 
+ * be browsed like a standard website, this file forces an immediate meta 
+ * refresh to redirect users back to the primary domain.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Immediate Redirect: Uses the `<meta http-equiv="refresh">` tag for a 0-second redirect.
+ * 2. SEO Protection: Includes a canonical link to prevent search engines from 
+ *    indexing this utility page.
+ * 3. Graceful Fallback: Provides a minimal, inline-styled UI for users with 
+ *    disabled meta refreshes or strict browser policies.
+ * ========================================================================== -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     
+    <!-- Meta Refresh: Forces the browser to redirect immediately (0 seconds) -->
     <meta http-equiv="refresh" content="0; url=https://raggiesoft.com/">
     
+    <!-- Canonical Link: Instructs search engine crawlers that the actual content lives on the main domain -->
     <link rel="canonical" href="https://raggiesoft.com/">
     
+    <!-- Inline Styles: Avoids external CSS dependencies to ensure the fallback UI always loads instantly -->
     <style>
         body {
+            /* System font stack for optimal performance and native feel */
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             background-color: #f4f7f6;
             color: #333;
@@ -50,6 +71,7 @@
 </head>
 <body>
 
+    <!-- Fallback UI Container: Only seen if the meta refresh fails or is delayed -->
     <div class="container">
         <h1>RaggieSoft Assets</h1>
         <p>This is the asset storage for RaggieSoft.</p>

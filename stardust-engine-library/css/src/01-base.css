@@ -1,19 +1,64 @@
-*, *::before, *::after { box-sizing: border-box; }
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: 01-base.css
+ * ==========================================================================
+ * Stardust Engine Library - Core Base Initialization
+ * This is the foundational stylesheet of the Stardust Engine framework. 
+ * It establishes the CSS reset, the global variable taxonomy (`--rs-*`), 
+ * and mandatory accessibility utilities.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Global Reset: Enforces standard box-sizing logic across all elements.
+ * 2. Theme Tokens: Defines the root color variables that all subsequent 
+ *    framework components (buttons, dialogs, badges) rely on.
+ * 3. Accessibility: Provides screen-reader only classes (`.visually-hidden`) 
+ *    that ensure complex UIs remain accessible without disrupting the layout.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - If you add a new semantic color (e.g., `--rs-warning`), it MUST be 
+ *   defined here in `:root` first, as this file sits at the bottom of the 
+ *   dependency tree.
+ * - The `overflow: hidden` on the `body` is crucial because Stardust Engine 
+ *   manages its own internal scrolling within layout wrappers (like the 
+ *   reading pane) rather than relying on native window scrolling.
+ * ========================================================================== */
 
-/* 01-base.css */
-:root {
-    --rs-bg: #f4f4f5;
-    --rs-text: #18181b;
-    --rs-primary: #2563eb;
-    --rs-border: #e2e8f0;
-    --rs-surface: #ffffff;
-    --rs-asl: #047857; /* Emerald-700 */
-    --rs-gesture: #4b5563; /* Gray-600 */
+/* 1. Global Box-Sizing Reset */
+*, *::before, *::after { 
+    box-sizing: border-box; 
 }
 
-body { margin: 0; font-family: system-ui, sans-serif; background: var(--rs-bg); color: var(--rs-text); overflow: hidden; }
+/* 2. Global Stardust Theme Variables */
+:root {
+    --rs-bg: #f4f4f5;         /* Primary application background */
+    --rs-text: #18181b;       /* Primary application typography */
+    --rs-primary: #2563eb;    /* Brand accent / Call to Action */
+    --rs-border: #e2e8f0;     /* Structural dividing lines */
+    --rs-surface: #ffffff;    /* Elevated containers (cards, modals) */
+    
+    /* Narrative-specific tokens */
+    --rs-asl: #047857;        /* Emerald-700 (Used for Sign Language) */
+    --rs-gesture: #4b5563;    /* Gray-600 (Used for Non-verbal cues) */
+}
 
-/* Accessibility Utilities */
+/* 3. Base Document Styling */
+body { 
+    margin: 0; 
+    font-family: system-ui, sans-serif; 
+    background: var(--rs-bg); 
+    color: var(--rs-text); 
+    
+    /* Prevent native browser scrolling; let Stardust layout components handle it */
+    overflow: hidden; 
+}
+
+/* ==========================================================================
+ * 4. Accessibility Utilities
+ * ========================================================================== 
+ * These classes visually hide elements from sighted users while keeping them 
+ * queryable by assistive technologies like screen readers. 
+ */
+
+/* Hides element permanently */
 .visually-hidden {
     position: absolute !important;
     width: 1px !important;
@@ -26,6 +71,7 @@ body { margin: 0; font-family: system-ui, sans-serif; background: var(--rs-bg); 
     border: 0 !important;
 }
 
+/* Hides element UNLESS it receives focus via keyboard navigation */
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
     position: absolute !important;
     width: 1px !important;

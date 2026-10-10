@@ -1,5 +1,19 @@
-/* footer.css (Engine Room Records - Industrial Update) */
+/* ==============================================================================
+ * ENGINE ROOM RECORDS - INDUSTRIAL FOOTER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Styles the global site footer, providing a heavy, anchored look. The design
+ * uses strong top borders to visually separate the content body from the footer 
+ * links, maintaining the "industrial/factory" motif.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - Margin and padding are explicitly set high to ensure scroll clearance, 
+ *   preventing content from being hidden behind sticky bottom bars (if any).
+ * - Theme toggles alter the top border from steel gray to hazard red.
+ * ============================================================================== */
 
+/* Base Footer Shell */
+/* Provides ample breathing room and a heavy structural border */
 footer {
     margin-top: 5rem;
     padding: 4rem 0 2rem 0;
@@ -7,18 +21,23 @@ footer {
     background-color: var(--bs-body-bg);
 }
 
+/* Dark Mode Footer Shell */
+/* Shifts to an abyssal black with a distinct red separator line */
 [data-bs-theme="dark"] footer {
     background-color: #050607; /* Super deep abyss, darker than body background */
     border-top: 2px solid var(--bs-primary); /* Holly's Red Pen border */
     box-shadow: 0 -4px 20px rgba(255, 107, 107, 0.05); /* Faint red upward glow */
 }
 
+/* Footer Section Headers */
 footer h5, footer h6 {
     font-family: var(--font-industrial);
     color: var(--bs-body-color);
     letter-spacing: 1px;
 }
 
+/* Footer Navigation Links */
+/* Uses a secondary tech font to contrast with the main industrial headers */
 footer .nav-link, footer ul a {
     padding-left: 0;
     color: var(--bs-secondary);
@@ -28,6 +47,7 @@ footer .nav-link, footer ul a {
     transition: color 0.2s ease;
 }
 
+/* Hover States for Footer Links */
 footer .nav-link:hover, footer ul a:hover {
     color: var(--bs-primary); /* Highlight in hazard red */
     text-decoration: none; /* Keep it clean, brutal, and un-underlined */

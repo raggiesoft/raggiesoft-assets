@@ -1,4 +1,29 @@
-/* /raggiesoft/css/bootstrap/family/root.css */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: root.css
+ * ==========================================================================
+ * "Family/Portfolio" Theme - Global Design System
+ * This file serves as the definitive source of truth for the RaggieSoft 
+ * "Family" ecosystem palette and component mappings. 
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. System Identity: Defines the unique color variables for the core 
+ *    "System/Family" personas (Michael, Paige, Jessica, Sarah, Harper, 
+ *    Jenna, Amanda).
+ * 2. Theme State Management: Handles Dark (`[data-bs-theme="dark"]`) and 
+ *    Light mode overrides, including specific color adjustments (like 
+ *    Harper's purple) to maintain WCAG contrast.
+ * 3. Web Awesome Integration: A foundational bridging layer that dynamically 
+ *    pipes Bootstrap variables (`--bs-*`) into Web Awesome (`--wa-*`) 
+ *    components, ensuring third-party web components inherit the brand identity.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - When adjusting persona colors (e.g., `--family-harper`), you must test 
+ *   both the Light mode default and the specific Dark mode override block 
+ *   to prevent illegible text on dark backgrounds.
+ * - The Web Awesome mapping block at the bottom MUST NOT be removed, or 
+ *   all `<wa-button>` and `<wa-card>` elements will drop back to their 
+ *   default Shoelace/Web Awesome blue.
+ * ========================================================================== */
 
 /* --- 1. THE FAMILY PALETTE (Default/Light) --- */
 :root {
@@ -14,7 +39,7 @@
     /* Sarah (Guardian) - Yellow/Warning */
     --family-sarah: #ffc107;
     
-    /* Harper (Studio) - Indigo/Purple (Dark for Light Mode) */
+    /* Harper (Studio) - Indigo/Purple (Dark for Light Mode visibility) */
     --family-harper: #6610f2;
     
     /* Jenna (Dev Twin) - Orange */
@@ -23,31 +48,34 @@
     /* Amanda/Elara (Router) - Teal */
     --family-amanda: #20c997;
 
-    /* Global Font Stack */
+    /* Global Font Stack (Native OS Typography) */
     --bs-body-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /* --- 2. DARK MODE OVERRIDES --- */
 [data-bs-theme="dark"] {
+    /* Core structural surface colors */
     --bs-body-bg: #121212; 
     --bs-body-color: #dee2e6;
     --bs-body-bg-rgb: 18, 18, 18;
     
-    /* Fix: Override Harper's purple to be lighter in Dark Mode for contrast */
+    /* Fix: Override Harper's purple to be significantly lighter in Dark Mode to pass contrast checks */
     --family-harper: #d0bfff; 
     
-    /* Glassmorphism Variables for Dark Mode */
+    /* Glassmorphism Variables for Dark Mode overlapping elements */
     --glass-bg: rgba(0, 0, 0, 0.7);
     --glass-border: rgba(255, 255, 255, 0.1);
 }
 
 /* --- 3. LIGHT MODE OVERRIDES --- */
 [data-bs-theme="light"] {
+    /* Core structural surface colors */
     --bs-primary: #0d6efd;
     --bs-body-bg: #ffffff;
     --bs-body-color: #212529;
     
+    /* Glassmorphism Variables for Light Mode overlapping elements */
     --glass-bg: rgba(255, 255, 255, 0.85);
     --glass-border: rgba(0, 0, 0, 0.1);
 }
@@ -59,10 +87,12 @@
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
+  /* Inherit primary brand values */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
   
+  /* Map semantic alert states */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
@@ -78,13 +108,16 @@
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
   
+  /* Map base structural layers and surfaces */
   --wa-color-surface-default: var(--bs-body-bg);
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  /* Map primary text and subdued text */
   --wa-color-text-normal: var(--bs-body-color);
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
+  /* Map structural borders */
   --wa-color-neutral-border-quiet: var(--bs-border-color);
   --wa-color-surface-border: var(--bs-border-color);
 }

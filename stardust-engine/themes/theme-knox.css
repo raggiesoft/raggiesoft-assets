@@ -1,3 +1,17 @@
+/**
+ * ARCHITECTURE: Stardust Engine Theme - Knox
+ * 
+ * This is a concatenated/compiled CSS bundle that serves as the visual theme "K.N.O.X."
+ * for the Stardust Engine. It focuses on an Aerie-Hold / Port Telsus motif (The Weave vs 
+ * The Spire), contrasting organic sanctuary elements in light mode with brutalist/industrial
+ * occupation elements in dark mode.
+ * 
+ * FUTURE MAINTENANCE:
+ * - This file appears to be automatically generated or bundled from smaller CSS files
+ *   (e.g., root.css, header.css, footer.css, extras.css, safety-net.css).
+ * - Avoid editing this file directly if a build step or preprocessor is used in the pipeline.
+ * - Modifications should preserve the brutalist/terminal aesthetic and custom font stacks.
+ */
 /* Stardust Engine Theme: knox */
 
 /* --- root.css --- */

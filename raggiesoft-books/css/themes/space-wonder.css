@@ -1,30 +1,63 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: SPACE WONDER
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a vibrant, cosmic-inspired theme driven purely by CSS custom properties.
+ * It utilizes deep purples and bright magenta/fuchsia tones to evoke a sense
+ * of sci-fi wonder and celestial aesthetics.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture: Light mode base, explicit Dark mode, and automatic OS Dark mode.
+ * - Colors carefully chosen from standard fuchsia/purple color ramps.
+ * 
+ * Maintenance Notes:
+ * - Ensure proper chaining of classes (`body.theme-dark.theme-space-wonder`) to
+ *   prevent theme bleeds when users switch themes dynamically without full page reloads.
+ * ============================================================================
+ */
+
 /* Theme Name: Space Wonder */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Activated by default or when the user manually toggles 'Light Mode' */
 body.theme-space-wonder,
 body.theme-light.theme-space-wonder {
-    --rs-bg: #fdf4ff;
-    --rs-surface: #fae8ff;
-    --rs-text: #4a044e;
-    --rs-primary: #c026d3;
-    --rs-secondary: #d946ef;
-    --rs-border: #f5d0fe;
+    --rs-bg: #fdf4ff; /* Extremely pale fuchsia background, almost white */
+    --rs-surface: #fae8ff; /* Soft, raised fuchsia panel color */
+    --rs-text: #4a044e; /* Deep, dark purple for maximum text readability */
+    --rs-primary: #c026d3; /* Saturated magenta/fuchsia for buttons and primary actions */
+    --rs-secondary: #d946ef; /* Lighter magenta for hover states */
+    --rs-border: #f5d0fe; /* Very soft purple border for dividing structural elements */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Overrides standard styling when `theme-dark` is applied to the body */
 body.theme-dark.theme-space-wonder {
-    --rs-bg: #120024;
-    --rs-surface: #2e1065;
-    --rs-text: #fdf4ff;
-    --rs-primary: #e879f9;
-    --rs-secondary: #d946ef;
-    --rs-border: #4a044e;
+    --rs-bg: #120024; /* Absolute deep space purple/black base */
+    --rs-surface: #2e1065; /* Mid-tone purple surface to lift elements off the dark void */
+    --rs-text: #fdf4ff; /* Pale fuchsia text for stark contrast against dark backgrounds */
+    --rs-primary: #e879f9; /* Bright neon pink/fuchsia accent color */
+    --rs-secondary: #d946ef; /* Slightly darker pink for secondary interactions */
+    --rs-border: #4a044e; /* Deep purple boundary lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Hooks into the user's operating system preferences for automatic switching */
 @media (prefers-color-scheme: dark) {
+    /* 
+     * Applies the dark palette ONLY if the user hasn't explicitly chosen 'light' or 'dark',
+     * or if they are actively using the 'auto' setting.
+     */
     body.theme-auto.theme-space-wonder,
     body:not(.theme-light):not(.theme-dark).theme-space-wonder {
+        /* Duplicate of Explicit Dark Mode values to maintain visual consistency */
         --rs-bg: #120024;
         --rs-surface: #2e1065;
         --rs-text: #fdf4ff;

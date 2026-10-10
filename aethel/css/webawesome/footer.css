@@ -1,4 +1,23 @@
-/* /portfolio/css/bootstrap/footer.css */
+/**
+ * ============================================================================
+ * FILE: footer.css (Aethel Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines the basic structural styling for the footer element within the 
+ * 'Aethel' narrative sub-theme. It provides baseline spacing, borders, and 
+ * background variables that respond to the global theme context.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Relies on Bootstrap/WebAwesome variable `--bs-tertiary-bg` to ensure 
+ *   proper contrast between the main body content and the footer block across 
+ *   both Light (Sunstead Day) and Dark (Shadowspire Night) modes.
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `margin-top: 4rem` creates breathing room. If the layout shifts to a 
+ *   sticky footer model in the future, this margin should be adjusted.
+ * ============================================================================
+ */
+/* /portfolio/css/bootstrap/footer.css - Handles basic spacing and background mapping */
 footer {
     margin-top: 4rem;
     padding: 2rem 0;

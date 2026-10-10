@@ -1,62 +1,108 @@
-/* extras.css (Fractured Prisms) */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: extras.css (Fractured Prisms Theme)
+ * ==========================================================================
+ * This stylesheet houses custom utility classes, thematic components, and 
+ * animations specific to the "Fractured Prisms" narrative identity.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Typography & Glow Effects: Classes to enforce narrative font families 
+ *    and dynamic text-shadow glowing behaviors.
+ * 2. Narrative Components: Specialized UI elements (Lore Cards, Artifact 
+ *    Papers, Polaroids) that break the standard Bootstrap mold to deliver 
+ *    storytelling immersion.
+ * 3. Animations: Reusable CSS keyframes for atmospheric effects.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - The `.artifact-paper` component breaks from the global dynamic theme 
+ *   (light/dark modes) intentionally. It is meant to represent physical paper 
+ *   regardless of the user's OS preference.
+ * - Polaroid transform values (`rotate(-1deg)`) are hardcoded for stylistic 
+ *   charm. If using these in flex or grid layouts, be aware that the bounding 
+ *   box does not rotate.
+ * ========================================================================== */
 
-/* Typography & Glows */
+/* --------------------------------------------------------------------------
+ * 1. Typography & Glows
+ * -------------------------------------------------------------------------- */
 .gothic-font {
+    /* Enforce the core thematic display font */
     font-family: var(--font-gothic) !important;
 }
 
 .text-glow-prism {
-    /* Uses the dynamic body text color (Light/Dark) */
+    /* Base color utilizes the dynamic body text color (Light/Dark) */
     color: var(--bs-body-color) !important; 
-    /* The glow dynamically pulls the RGB values from our Primary color */
+    /* The glow effect dynamically pulls RGB values from the primary theme color */
     text-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.6), 0 0 30px rgba(var(--bs-primary-rgb), 0.3);
 }
 
 .border-prism {
+    /* Structural border enforcement */
     border-color: var(--bs-border-prism) !important;
 }
 
 .bg-prism-dark {
+    /* Forced dark thematic background, overriding containers */
     background-color: var(--bs-bg-prism) !important;
 }
 
-/* Narrative Lore Cards */
+/* --------------------------------------------------------------------------
+ * 2. Narrative Lore Cards
+ * -------------------------------------------------------------------------- */
 .lore-card {
-    /* Wired to our dynamic card background variable */
+    /* Wired to our dynamic card background variable for theme-safe rendering */
     background-color: var(--bs-card-bg);
+    /* Left accent stripe anchoring the content */
     border-left: 4px solid var(--bs-primary);
-    /* Wired to dynamic text color */
+    /* Wired to dynamic text color for legibility */
     color: var(--bs-body-color);
 }
 
-/* Recovered Artifact Paper (Queen's English Journals) */
+/* --------------------------------------------------------------------------
+ * 3. Recovered Artifact Paper (Queen's English Journals)
+ * -------------------------------------------------------------------------- 
+ * This component specifically does NOT use dynamic dark-mode variables, 
+ * as it simulates physical, aged paper within the game lore.
+ */
 .artifact-paper {
     background-color: var(--prism-artifact-bg); 
     color: var(--prism-artifact-color);
-    font-family: 'Georgia', serif;
+    font-family: 'Georgia', serif; /* Hardcoded serif for historical feel */
     border-left: 5px solid var(--prism-artifact-border);
+    /* Inset shadow creates a subtle vignette effect */
     box-shadow: inset 0 0 20px rgba(0,0,0,0.05);
 }
 
 .artifact-text-muted {
+    /* Specific muted color safe for the physical paper background */
     color: var(--prism-artifact-muted);
 }
-/* The Polaroid Component */
+
+/* --------------------------------------------------------------------------
+ * 4. The Polaroid Component
+ * -------------------------------------------------------------------------- */
 .polaroid-prism {
     background: #fff;
+    /* Asymmetrical padding simulates the bottom-heavy Polaroid frame */
     padding: 10px 10px 25px 10px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    /* Slight rotation off-axis for organic scattering */
     transform: rotate(-1deg);
     transition: transform var(--transition-speed) ease;
 }
+
 .polaroid-prism:hover {
+    /* Interactive pop effect, aligning the image vertically */
     transform: rotate(0deg) scale(1.02);
 }
+
 .polaroid-prism img {
     width: 100%;
     border: 1px solid #111;
+    /* Artificial aging filter */
     filter: sepia(20%) contrast(1.1);
 }
+
 .polaroid-caption {
     font-family: var(--font-tech);
     color: #111;
@@ -66,14 +112,18 @@
     font-size: 0.85rem;
 }
 
-/* Animations */
+/* --------------------------------------------------------------------------
+ * 5. Animations
+ * -------------------------------------------------------------------------- */
 @keyframes pulse-prism {
+    /* Simple opacity fade mimicking a heartbeat or warning light */
     0% { opacity: 1; }
     50% { opacity: 0.4; }
     100% { opacity: 1; }
 }
+
 .pulse-icon {
     animation: pulse-prism 2s infinite;
+    /* Locks the pulsing element to the primary thematic color */
     color: var(--bs-primary);
 }
-

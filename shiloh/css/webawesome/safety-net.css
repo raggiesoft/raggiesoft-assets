@@ -1,6 +1,26 @@
-/* safety-net.css (Crimson Node - Vanguard Update) */
+/**
+ * ============================================================================
+ * FILE: safety-net.css (Crimson Node - Vanguard Update)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet serves as a foundational fallback mechanism, ensuring robust 
+ * cross-browser and cross-device rendering. It establishes baseline typography, 
+ * reset rules, and critical dark-mode legibility overrides.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Prioritizes system UI fonts for maximum performance and native feel.
+ * - Enforces minimum contrast ratios in dark mode, particularly on buttons 
+ *   and links, overriding default WebAwesome or Bootstrap behaviors where necessary.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Any new button variants added to the application must be verified for dark mode 
+ *   contrast here.
+ * - Ensure `!important` tags are used judiciously, strictly for overriding 
+ *   external library defaults.
+ * ============================================================================
+ */
 
-/* 1. Typography Fallbacks */
+/* 1. Typography Fallbacks - System font stack for optimal rendering */
 body {
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     line-height: 1.6;

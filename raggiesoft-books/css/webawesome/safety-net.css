@@ -1,3 +1,31 @@
+/**
+ * ============================================================================
+ * ENCYCLOPEDIA SAFETY NET - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet (`safety-net.css`) serves as the base typographic and 
+ * component normalization layer for the RaggieSoft Encyclopedia. It ensures 
+ * the interface feels like an academic "Reference Book" by carefully overriding 
+ * default framework (Bootstrap) styles.
+ * 
+ * Core Components:
+ * 1. Academic Typography: Imports and applies the 'Crimson Text' serif font 
+ *    to all headings and lead paragraphs to give a classic, literary feel, 
+ *    while preserving sans-serif for dense body text readability.
+ * 2. Button Overrides: Hardcodes button text color to white to ensure contrast 
+ *    against thematic backgrounds, overriding Bootstrap's dynamic color system.
+ * 3. Card Tweaks: Adjusts border radii to make cards look more like physical 
+ *    index cards.
+ * 
+ * Maintainability Notes:
+ * - The 'Crimson Text' font is loaded from Google Fonts. If offline support 
+ *   is ever required, this `@import` must be replaced with local `@font-face`.
+ * - Button overrides apply globally within this scope, so be careful if adding 
+ *   buttons that require dark text.
+ * ============================================================================
+ */
+
 /* safety-net-encyclopedia.css */
 /* RaggieSoft Encyclopedia Overrides */
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/safety-net.css */
@@ -38,7 +66,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .brand-font {
 
 .btn-primary:hover,
 .btn-primary:focus {
-    /* Darken slightly on hover */
+    /* Darken slightly on hover instead of relying on BS hover variables */
     filter: brightness(0.9); 
     color: #ffffff !important;
 }

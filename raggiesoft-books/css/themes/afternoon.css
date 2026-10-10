@@ -1,12 +1,39 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: AFTERNOON - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Afternoon" reading theme for the Stardust Engine. 
+ * This is a specialized, rigid theme that explicitly overrides all layout 
+ * frameworks to guarantee a unified warm, sunlit experience, regardless of 
+ * user OS settings or local app toggles (i.e., it forces light mode).
+ * 
+ * Core Components:
+ * 1. Omni-State Selector: The CSS targets `.theme-afternoon` along with 
+ *    `.theme-light`, `.theme-dark`, and `.theme-auto` simultaneously. This 
+ *    ensures the theme is strictly forced and cannot be accidentally overridden 
+ *    by cascade rules into a dark mode.
+ * 2. CSS Variable Mapping: Uses warm sand, gold, and soft brown tokens.
+ * 
+ * Maintainability Notes:
+ * - Do NOT introduce dark mode variants to this file. It is intentionally 
+ *   hardcoded to a single light state to evoke daytime.
+ * ============================================================================
+ */
+
 /* Theme Name: Afternoon */
+
+/* --- Forced Omni-State (Light) --- */
+/* Applies the afternoon palette regardless of the user's light/dark/auto selection */
 body.theme-afternoon,
 body.theme-light.theme-afternoon,
 body.theme-dark.theme-afternoon,
 body.theme-auto.theme-afternoon {
-    --rs-bg: #fcf8eb;
-    --rs-surface: #f7ecd0;
-    --rs-text: #2b2b2b;
-    --rs-primary: #d68f3a;
-    --rs-secondary: #b5762d;
-    --rs-border: #e8dbb7;
+    --rs-bg: #fcf8eb; /* Warm, pale sand background */
+    --rs-surface: #f7ecd0; /* Slightly darker sandy surface */
+    --rs-text: #2b2b2b; /* Dark charcoal text for readability */
+    --rs-primary: #d68f3a; /* Muted orange/gold accent */
+    --rs-secondary: #b5762d; /* Darker golden-brown secondary */
+    --rs-border: #e8dbb7; /* Soft tan border */
 }

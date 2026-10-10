@@ -1,3 +1,27 @@
+/**
+ * ============================================================================
+ * ENCYCLOPEDIA EXTRAS - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet (`extras.css`) defines specific, high-priority component 
+ * overrides for the Narrative Encyclopedia. It acts as an extension to the 
+ * base framework (Bootstrap/Web Awesome).
+ * 
+ * Core Components:
+ * 1. Level 5 "Blackout" Card: A specialized styling class (`.card-blackout`) 
+ *    that forces a component into a "True Black" environment. This is used 
+ *    for redacted or highly classified encyclopedia entries.
+ * 2. HUD Elements: Typography tweaks for heads-up-display style elements 
+ *    like reference codes.
+ * 
+ * Maintainability Notes:
+ * - `.card-blackout` relies heavily on `!important` to aggressively override 
+ *   theme variables and contextual utility classes, ensuring the blackout 
+ *   state is not compromised by a user's local dark/light theme preference.
+ * ============================================================================
+ */
+
 /* extras-encyclopedia.css */
 /* Component Overrides for the Narrative Encyclopedia */
 /* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/extras.css */
@@ -21,6 +45,7 @@
 }
 
 /* FORCE overrides for text utilities inside the blackout card */
+/* These prevent standard Bootstrap text-utilities from breaking the blackout contrast */
 .card-blackout .text-white,
 .card-blackout .text-white-50,
 .card-blackout .text-muted, 
@@ -29,12 +54,14 @@
     opacity: 0.8; /* Re-add the "muted" feel via opacity instead of gray color */
 }
 
+/* Force headings to white regardless of global heading styles */
 .card-blackout h1, .card-blackout h2, .card-blackout h3, 
 .card-blackout h4, .card-blackout h5, .card-blackout h6 {
     color: #ffffff !important;
 }
 
 /* --- 2. Encyclopedia HUD Elements --- */
+/* Monospace typography for database identifiers and reference codes */
 .badge-ref-code {
     font-family: monospace;
     letter-spacing: 0.05em;

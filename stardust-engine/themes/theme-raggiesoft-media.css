@@ -1,3 +1,15 @@
+/**
+ * ARCHITECTURE: Stardust Engine Theme - Raggiesoft Media
+ * 
+ * This is a concatenated/compiled CSS bundle that serves as the visual theme "Raggiesoft Media"
+ * for the Stardust Engine. It provides a Frutiger Aero (light) and Dark Aero (dark) identity.
+ * 
+ * FUTURE MAINTENANCE:
+ * - This file appears to be automatically generated or bundled from smaller CSS files
+ *   (e.g., root.css, header.css, footer.css, extras.css, safety-net.css).
+ * - Avoid editing this file directly if a build step or preprocessor is used in the pipeline.
+ * - Modifications should preserve the gloss, glass, and neon visual motifs.
+ */
 /* Stardust Engine Theme: raggiesoft-media */
 
 /* --- root.css --- */

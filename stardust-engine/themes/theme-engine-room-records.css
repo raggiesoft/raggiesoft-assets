@@ -1,9 +1,34 @@
+/**
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW: theme-engine-room-records.css
+ * ============================================================================
+ * This is a bundled CSS theme file for the "Engine Room Records" theme within
+ * the Stardust Engine framework. It aggregates multiple logical modules:
+ * 1. root.css: Defines base CSS custom properties (variables) for color palettes,
+ *    backgrounds, and text colors in both light and dark modes, mapping them
+ *    to Bootstrap and Web Awesome variables.
+ * 2. header.css: Styles the navigation bar, brand logos, and dropdown menus.
+ * 3. footer.css: Styles the site footer and its elements.
+ * 4. extras.css: Contains theme-specific components (e.g., studio rack cards,
+ *    LED indicators, hero sections).
+ * 5. safety-net.css: Provides fallback styles to guarantee legibility and basic
+ *    functionality if standard framework styles fail to load or apply.
+ *
+ * This theme uses an "Industrial Update" aesthetic, featuring concrete grays,
+ * hazard reds, and cold steel colors.
+ * ============================================================================
+ */
+
 /* Stardust Engine Theme: engine-room-records */
 
-/* --- root.css --- */
+/* ============================================================================
+ * MODULE: root.css
+ * Defines the core color palette and theme variables.
+ * ============================================================================ */
 /* root.css (Engine Room Records - Industrial Update) */
 
 /* --- LIGHT MODE (THE DAY SHIFT) --- */
+/* Applies light color scheme properties by default or when data-bs-theme is "light" */
 :root,
 [data-bs-theme="light"] {
     color-scheme: light;
@@ -35,6 +60,7 @@
 }
 
 /* --- DARK MODE (THE NIGHT SHIFT / THE VAULT) --- */
+/* System preference dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-engine-room-records {
         /* Backgrounds: Deep Gunmetal / Oily Black */
@@ -69,6 +95,7 @@
 }
 
 /* FORCED DARK MODE */
+/* Explicit toggle for dark mode via data attribute */
 [data-bs-theme="dark"] {
     /* Copy the exact properties from the @media block above */
     body.theme-engine-room-records {
@@ -107,6 +134,8 @@
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
  * ========================================================================== */
+/* Maps Bootstrap-style custom properties to Web Awesome equivalent tokens
+   to ensure UI component consistency across both frameworks. */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
@@ -141,7 +170,10 @@
 }
 
 
-/* --- header.css --- */
+/* ============================================================================
+ * MODULE: header.css
+ * Styling for the global navigation header and dropdowns.
+ * ============================================================================ */
 /* header.css (Engine Room Records - Industrial Update) */
 
 /* 1. Force the entire header wrapper above the main content */
@@ -156,6 +188,7 @@ wa-dropdown::part(panel) {
     z-index: 1050 !important;
 }
 
+/* Main navbar styling with industrial font and shadows */
 header .navbar {
     font-family: var(--font-industrial);
     letter-spacing: 1px; /* Slightly wider for the stamped look */
@@ -195,21 +228,25 @@ header .nav-link.active::after {
 }
 
 /* Dark Mode: The "Restricted Access" Glow */
+/* Styles for dark mode navbar, emphasizing hazard reds over default colors */
 [data-bs-theme="dark"] header .navbar {
     background-color: rgba(10, 10, 12, 0.98) !important; /* Extremely dark gunmetal */
     border-bottom: 2px solid var(--rs-primary); /* Holly's Red Pen */
     box-shadow: 0 4px 20px rgba(255, 107, 107, 0.15); /* Aggressive Red Glow instead of cyan */
 }
 
-[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"] {
+[data-bs-theme="dark"] header wa-icon-button[name="bars"] {
     border-color: transparent; /* Rely on the hamburger animation spans */
 }
 
-[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"]:focus {
+[data-bs-theme="dark"] header wa-icon-button[name="bars"]:focus {
     box-shadow: 0 0 0 0.25rem rgba(255, 107, 107, 0.25);
 }
 
-/* --- footer.css --- */
+/* ============================================================================
+ * MODULE: footer.css
+ * Styling for the global site footer.
+ * ============================================================================ */
 /* footer.css (Engine Room Records - Industrial Update) */
 
 footer {
@@ -219,6 +256,7 @@ footer {
     background-color: var(--rs-body-bg);
 }
 
+/* Dark mode specific footer coloring */
 [data-bs-theme="dark"] footer {
     background-color: #050607; /* Super deep abyss, darker than body background */
     border-top: 2px solid var(--rs-primary); /* Holly's Red Pen border */
@@ -245,7 +283,10 @@ footer .nav-link:hover, footer ul a:hover {
     text-decoration: none; /* Keep it clean, brutal, and un-underlined */
 }
 
-/* --- extras.css --- */
+/* ============================================================================
+ * MODULE: extras.css
+ * Specialized thematic elements like studio cards and LEDs.
+ * ============================================================================ */
 /* extras.css (Engine Room Records - Industrial Update) */
 
 /* 1. Technical Text (Track Lists, Metadata) */
@@ -278,6 +319,7 @@ footer .nav-link:hover, footer ul a:hover {
     border-radius: 50%;
     margin-right: 6px;
 }
+/* Indicator states for LEDs */
 .led-on {
     background-color: var(--rs-primary);
     box-shadow: 0 0 8px var(--rs-primary); /* Intense Red Glow */
@@ -302,7 +344,10 @@ footer .nav-link:hover, footer ul a:hover {
     background: radial-gradient(circle at top center, #1c1f24 0%, #000000 100%);
 }
 
-/* --- safety-net.css --- */
+/* ============================================================================
+ * MODULE: safety-net.css
+ * Fallback styles to maintain structural integrity.
+ * ============================================================================ */
 /* safety-net.css (Engine Room Records - Industrial Update) */
 
 /* Ensure text is always readable even if Bootstrap fails slightly */
@@ -326,4 +371,3 @@ a {
 [data-bs-theme="dark"] a {
     color: #ff6b6b; /* Hazard red fallback */
 }
-

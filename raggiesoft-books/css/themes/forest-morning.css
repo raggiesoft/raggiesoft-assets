@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: FOREST MORNING - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Forest Morning" reading theme for the Stardust 
+ * Engine. It utilizes mint, teal, and soft green tones to create a fresh, 
+ * natural, and calming reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - extremely pale mint backgrounds)
+ *    - Forced Dark Mode (Deep pine/teal backgrounds with bright mint accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Forest Morning */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-forest-morning,
 body.theme-light.theme-forest-morning {
-    --rs-bg: #f0fdfa;
-    --rs-surface: #ccfbf1;
-    --rs-text: #042f2e;
-    --rs-primary: #0f766e;
-    --rs-secondary: #14b8a6;
-    --rs-border: #99f6e4;
+    --rs-bg: #f0fdfa; /* Extremely pale mint/teal */
+    --rs-surface: #ccfbf1; /* Soft mint surface */
+    --rs-text: #042f2e; /* Very dark teal text */
+    --rs-primary: #0f766e; /* Forest green/teal primary */
+    --rs-secondary: #14b8a6; /* Brighter teal secondary */
+    --rs-border: #99f6e4; /* Light mint border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-forest-morning {
-    --rs-bg: #042f2e;
-    --rs-surface: #115e59;
-    --rs-text: #f0fdfa;
-    --rs-primary: #5eead4;
-    --rs-secondary: #2dd4bf;
-    --rs-border: #134e4a;
+    --rs-bg: #042f2e; /* Deep pine/teal background */
+    --rs-surface: #115e59; /* Elevated dark teal surface */
+    --rs-text: #f0fdfa; /* Pale mint text */
+    --rs-primary: #5eead4; /* Bright mint/cyan primary */
+    --rs-secondary: #2dd4bf; /* Teal secondary */
+    --rs-border: #134e4a; /* Dark green/teal border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-forest-morning,
     body:not(.theme-light):not(.theme-dark).theme-forest-morning {
-        --rs-bg: #042f2e;
+        --rs-bg: #042f2e; /* Matches Forced Dark Mode */
         --rs-surface: #115e59;
         --rs-text: #f0fdfa;
         --rs-primary: #5eead4;

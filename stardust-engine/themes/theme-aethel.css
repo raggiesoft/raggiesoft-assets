@@ -1,3 +1,17 @@
+/**
+ * ARCHITECTURE: Stardust Engine Theme - Aethel
+ * 
+ * This is a concatenated/compiled CSS bundle that serves as the visual theme "Aethel"
+ * (The Silver Gauntlet) for the Stardust Engine. It provides a fantasy/medieval motif
+ * with light mode (Sunstead Day, parchment and leather) and dark mode (Shadowspire Night,
+ * void black and toxic purple).
+ * 
+ * FUTURE MAINTENANCE:
+ * - This file appears to be automatically generated or bundled from smaller CSS files
+ *   (e.g., root.css, header.css, footer.css, extras.css, safety-net.css).
+ * - Avoid editing this file directly if a build step or preprocessor is used in the pipeline.
+ * - Modifications should preserve the serif fonts (Cinzel, EB Garamond) and the tome aesthetic.
+ */
 /* Stardust Engine Theme: aethel */
 
 /* --- root.css --- */

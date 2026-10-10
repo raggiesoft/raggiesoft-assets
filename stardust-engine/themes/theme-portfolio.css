@@ -1,3 +1,28 @@
+/**
+ * ============================================================================
+ * FILE: theme-portfolio.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the compiled stylesheet for the "Portfolio / Common" corporate identity. 
+ * It serves as the baseline, professional theme for RaggieSoft, avoiding heavy 
+ * narrative stylization in favor of clean, accessible corporate branding.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Enforces the primary RaggieSoft blue (`--mpr-blue-500`) and maps it to the 
+ *   core `--rs-primary` token.
+ * - Includes specific Adaptive Re-mapping for Dark Mode to ensure that structural 
+ *   "white" utility components (like cards) correctly invert to dark greys without 
+ *   breaking contrast.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files are recompiled.
+ * - The duplicated blocks (`/* 1. Skill Pills */`, `/* 2. Timeline Card */`) 
+ *   suggest an upstream compilation issue where `extras.css` was included twice. 
+ *   Future manual maintenance should safely merge or prune these duplicates if 
+ *   direct editing is required.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: portfolio */
 
 /* --- root.css --- */

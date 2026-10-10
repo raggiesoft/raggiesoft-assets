@@ -1,3 +1,16 @@
+/**
+ * ARCHITECTURE: Stardust Engine Theme - Aerie-Hold
+ * 
+ * This is a concatenated/compiled CSS bundle that serves as the visual theme "Aerie-Hold"
+ * for the Stardust Engine. It focuses on a Day/Night Cycle motif centered around a 
+ * canopy/jungle aesthetic (Day: High Canopy, Night: Bioluminescence).
+ * 
+ * FUTURE MAINTENANCE:
+ * - This file appears to be automatically generated or bundled from smaller CSS files
+ *   (e.g., root.css, header.css, footer.css, extras.css, safety-net.css).
+ * - Avoid editing this file directly if a build step or preprocessor is used in the pipeline.
+ * - Modifications should preserve the day/night color mappings and the custom font stacks.
+ */
 /* Stardust Engine Theme: aerie-hold */
 
 /* --- root.css --- */

@@ -1,7 +1,30 @@
-// Stardust Cipher - Uplink Script v2.1
+/**
+ * ============================================================================
+ * FILE: cipher.js (Stardust Cipher - Uplink Script)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Client-side application logic for the 'Stardust Cipher' minigame. 
+ * Handles UI state, difficulty configuration parsing, stealth mode toggles, 
+ * and asynchronous form submission to the backend logic engine.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Interacts heavily with the DOM to toggle Bootstrap utility classes (e.g., `d-none`).
+ * - Triggers Bootstrap Toasts programmatically for non-blocking notifications.
+ * - Uses Fetch API for headless communication with `logic.php`.
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `rules` object maps difficulty levels to regex patterns. If new 
+ *   difficulties are added (e.g., hexadecimal), add them to this dictionary.
+ * - The Fetch promise chain relies on the server returning a strict JSON payload. 
+ *   If backend error handling changes, ensure the `!response.ok` catch block 
+ *   remains compatible.
+ * ============================================================================
+ */
+
 // Includes Stealth Notification Logic
 
 // --- 1. CONFIGURATION HANDLERS ---
+// Manages the difficulty settings and updates the input validation patterns accordingly.
 const diffRadios = document.querySelectorAll('input[name="difficulty"]');
 const rulesBadge = document.getElementById('rulesBadge');
 const secretInput = document.getElementById('secretCode');

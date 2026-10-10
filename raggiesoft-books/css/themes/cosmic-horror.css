@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: COSMIC HORROR - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Cosmic Horror" reading theme for the Stardust 
+ * Engine. It utilizes deep blacks, stark contrasts, and blood-red accents to 
+ * create an unsettling and intense reading environment suitable for horror.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - washed out grays and deep reds)
+ *    - Forced Dark Mode (True black background with aggressive reds)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Cosmic Horror */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-cosmic-horror,
 body.theme-light.theme-cosmic-horror {
-    --rs-bg: #f3f4f6;
-    --rs-surface: #e5e7eb;
-    --rs-text: #111827;
-    --rs-primary: #7f1d1d;
-    --rs-secondary: #991b1b;
-    --rs-border: #d1d5db;
+    --rs-bg: #f3f4f6; /* Cold, sterile light gray */
+    --rs-surface: #e5e7eb; /* Slightly darker surface */
+    --rs-text: #111827; /* Near black text for stark contrast */
+    --rs-primary: #7f1d1d; /* Deep, dried blood red */
+    --rs-secondary: #991b1b; /* Brighter blood red */
+    --rs-border: #d1d5db; /* Cold gray border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-cosmic-horror {
-    --rs-bg: #050005;
-    --rs-surface: #111827;
-    --rs-text: #f3f4f6;
-    --rs-primary: #dc2626;
-    --rs-secondary: #b91c1c;
-    --rs-border: #1f2937;
+    --rs-bg: #050005; /* True abyss black with a microscopic hint of purple/red */
+    --rs-surface: #111827; /* Very dark gray-blue surface */
+    --rs-text: #f3f4f6; /* Pale text for reading against the void */
+    --rs-primary: #dc2626; /* Vibrant, alarming red */
+    --rs-secondary: #b91c1c; /* Slightly darker red */
+    --rs-border: #1f2937; /* Very dark border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-cosmic-horror,
     body:not(.theme-light):not(.theme-dark).theme-cosmic-horror {
-        --rs-bg: #050005;
+        --rs-bg: #050005; /* Matches Forced Dark Mode */
         --rs-surface: #111827;
         --rs-text: #f3f4f6;
         --rs-primary: #dc2626;

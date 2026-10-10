@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: OCEAN VOLCANIC - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Ocean Volcanic" reading theme for the Stardust 
+ * Engine. It utilizes stark reds, warm tints, and near-black dark tones to 
+ * create a heated, high-contrast reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - washed red backgrounds)
+ *    - Forced Dark Mode (Near-black with intense crimson/red accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Ocean Volcanic */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-ocean-volcanic,
 body.theme-light.theme-ocean-volcanic {
-    --rs-bg: #fef2f2;
-    --rs-surface: #fee2e2;
-    --rs-text: #450a0a;
-    --rs-primary: #dc2626;
-    --rs-secondary: #ef4444;
-    --rs-border: #fecaca;
+    --rs-bg: #fef2f2; /* Pale red/pink background */
+    --rs-surface: #fee2e2; /* Slightly darker pink surface */
+    --rs-text: #450a0a; /* Extremely dark red text */
+    --rs-primary: #dc2626; /* Strong red primary */
+    --rs-secondary: #ef4444; /* Brighter red secondary */
+    --rs-border: #fecaca; /* Red-tinted border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-ocean-volcanic {
-    --rs-bg: #180305;
-    --rs-surface: #450a0a;
-    --rs-text: #fef2f2;
-    --rs-primary: #f87171;
-    --rs-secondary: #ef4444;
-    --rs-border: #7f1d1d;
+    --rs-bg: #180305; /* Almost black with red tint */
+    --rs-surface: #450a0a; /* Dark crimson surface */
+    --rs-text: #fef2f2; /* Pale pinkish-white text */
+    --rs-primary: #f87171; /* Soft glowing red primary */
+    --rs-secondary: #ef4444; /* Bright red secondary */
+    --rs-border: #7f1d1d; /* Deep crimson border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-ocean-volcanic,
     body:not(.theme-light):not(.theme-dark).theme-ocean-volcanic {
-        --rs-bg: #180305;
+        --rs-bg: #180305; /* Matches Forced Dark Mode */
         --rs-surface: #450a0a;
         --rs-text: #fef2f2;
         --rs-primary: #f87171;

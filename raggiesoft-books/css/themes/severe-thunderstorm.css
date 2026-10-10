@@ -1,60 +1,127 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: SEVERE THUNDERSTORM
+ * ============================================================================
+ * Architecture: CSS Theme & Animation Definitions
+ * Purpose: Defines a highly atmospheric "Severe Thunderstorm" reading theme.
+ *          Unlike standard themes, this includes active CSS animations 
+ *          (falling rain and simulated lightning flashes) to create an 
+ *          immersive, dark aesthetic.
+ * 
+ * Future Maintenance Notes:
+ * - This theme intentionally does NOT support light/dark cascades. It is 
+ *   always a dark theme by design.
+ * - The `::before` pseudo-element renders the rain. Modifying the 
+ *   linear-gradient angles or background-sizes will change the rain's 
+ *   speed/trajectory appearance.
+ * - The `::after` pseudo-element renders the lightning. The timing of the 
+ *   flashes is controlled by the `lightning-flash-severe` keyframes.
+ * - ALWAYS maintain the `prefers-reduced-motion` media query. These animations 
+ *   (especially the flashing) can trigger photosensitivity or motion sickness.
+ * ============================================================================
+ */
+
 /* Theme Name: Severe Thunderstorm */
 /* theme-severe-thunderstorm.css */
+
+/**
+ * ----------------------------------------------------------------------------
+ * 1. BASE COLOR PALETTE
+ * ----------------------------------------------------------------------------
+ * A pitch-black and deep slate palette with blinding cyan/blue accents.
+ */
 body.theme-severe-thunderstorm {
-    --rs-bg: #020617; /* Pitch black */
-    --rs-surface: #0f172a;
-    --rs-text: #64748b; 
-    --rs-primary: #38bdf8; /* Blinding lightning */
-    --rs-secondary: #475569; 
-    --rs-border: #0f172a;
+    --rs-bg: #020617;       /* Pitch black night sky */
+    --rs-surface: #0f172a;  /* Very dark slate for elevated surfaces */
+    --rs-text: #64748b;     /* Muted blue-gray text (low contrast for stormy feel) */
+    --rs-primary: #38bdf8;  /* Blinding lightning cyan for primary actions */
+    --rs-secondary: #475569;/* Mid-tone slate for secondary elements */
+    --rs-border: #0f172a;   /* Nearly invisible borders blending with surface */
 }
 
+/**
+ * ----------------------------------------------------------------------------
+ * 2. RAIN ANIMATION OVERLAY
+ * ----------------------------------------------------------------------------
+ * Uses multiple linear gradients layered over the screen to simulate 
+ * heavy, driving rain.
+ */
 body.theme-severe-thunderstorm::before {
     content: "";
     position: fixed;
+    /* Negative top offset prevents the rain from clipping at the top during animation loop */
     top: -200px; left: 0; right: 0; bottom: 0;
-    pointer-events: none;
-    z-index: 9999;
+    pointer-events: none; /* Crucial: Allows clicking through the rain to the book text */
+    z-index: 9999;        /* Places rain above all page content */
+    
+    /* 3 layered gradients for depth (foreground, midground, background) */
     background-image: 
         linear-gradient(160deg, transparent 35%, rgba(255,255,255,0.12) 50%, transparent 65%),
         linear-gradient(160deg, transparent 40%, rgba(255,255,255,0.1) 50%, transparent 60%),
         linear-gradient(160deg, transparent 45%, rgba(255,255,255,0.08) 50%, transparent 55%);
     background-size: 40px 70px, 60px 100px, 90px 140px;
+    
+    /* The continuous falling animation */
     animation: rain-fall-severe 0.4s linear infinite;
     opacity: 0.9;
 }
 
+/**
+ * ----------------------------------------------------------------------------
+ * 3. LIGHTNING FLASH OVERLAY
+ * ----------------------------------------------------------------------------
+ * A pure white overlay that briefly flashes into visibility.
+ */
 body.theme-severe-thunderstorm::after {
     content: "";
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
     pointer-events: none;
-    z-index: 9998;
+    z-index: 9998; /* Just below the rain, but above content */
     background-color: white;
-    opacity: 0;
+    opacity: 0; /* Hidden by default */
+    
+    /* Long 8-second loop with sudden bursts of opacity */
     animation: lightning-flash-severe 8s infinite;
 }
 
+/**
+ * ----------------------------------------------------------------------------
+ * 4. KEYFRAMES
+ * ----------------------------------------------------------------------------
+ */
+
+/* Translates the background gradients diagonally to simulate falling rain */
 @keyframes rain-fall-severe {
     0% { background-position: 0px 0px, 0px 0px, 0px 0px; }
     100% { background-position: 25px 70px, 35px 100px, 49px 140px; }
 }
 
+/* Simulates a realistic lightning strobe: off, quick flash, off, larger flash, fade */
 @keyframes lightning-flash-severe {
+    /* Baseline: invisible */
     0%, 91%, 93%, 95%, 98%, 100% { opacity: 0; }
+    /* The strikes */
     92% { opacity: 0.4; }
     94% { opacity: 0.1; }
     96% { opacity: 0.5; }
     97% { opacity: 0.2; }
 }
 
+/**
+ * ----------------------------------------------------------------------------
+ * 5. ACCESSIBILITY (WCAG COMPLIANCE)
+ * ----------------------------------------------------------------------------
+ * Instantly disables the strobe effects and freezes the rain for users 
+ * who have requested reduced motion at the OS level.
+ */
 @media (prefers-reduced-motion: reduce) {
     body.theme-severe-thunderstorm::before {
         animation: none;
-        opacity: 0.5;
+        opacity: 0.5; /* Dim the static rain so it doesn't distract */
     }
     body.theme-severe-thunderstorm::after {
         animation: none;
-        display: none;
+        display: none; /* Completely disable lightning flashes */
     }
 }

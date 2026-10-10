@@ -1,10 +1,35 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: DARK - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines a standalone "Dark" reading theme for the Stardust 
+ * Engine. It utilizes very dark, warm/dirty gray tones with stark red accents.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Single-State Definition: This theme acts as an explicit override. Unlike 
+ *    cascading themes (which support light/dark variants), this file directly 
+ *    targets the `body.theme-dark` class. 
+ * 
+ * Maintainability Notes:
+ * - This file might be used as a legacy or direct override for environments 
+ *   that strictly require a raw dark mode without a specific named aesthetic 
+ *   beyond "Dark".
+ * ============================================================================
+ */
+
 /* Theme Name: Dark */
 /* theme-dark.css */
+
+/* --- Forced Dark State --- */
 body.theme-dark {
     --rs-bg: #1c1917; /* Very dark warm gray (dirty) */
-    --rs-surface: #292524;
-    --rs-text: #e7e5e4;
-    --rs-primary: #dc2626; /* Angry/danger red */
-    --rs-secondary: #78716c;
-    --rs-border: #44403c;
+    --rs-surface: #292524; /* Elevated dark stone surface */
+    --rs-text: #e7e5e4; /* Light off-white text for contrast */
+    --rs-primary: #dc2626; /* Angry/danger red primary accent */
+    --rs-secondary: #78716c; /* Muted stone secondary accent */
+    --rs-border: #44403c; /* Mid-tone dark gray border */
 }

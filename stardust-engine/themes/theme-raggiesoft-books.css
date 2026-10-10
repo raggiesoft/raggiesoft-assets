@@ -1,6 +1,30 @@
+/**
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW: theme-raggiesoft-books.css
+ * ============================================================================
+ * This is a bundled CSS theme file for the "RaggieSoft Books / Encyclopedia" 
+ * theme within the Stardust Engine framework. It aggregates multiple logical modules:
+ * 1. root.css: Defines base CSS custom properties (variables) representing
+ *    traditional stationery elements (ink, paper, slate).
+ * 2. header.css: Styles the navigation bar to resemble bound book edges 
+ *    with subtle double borders.
+ * 3. footer.css: Styles the site footer and administrative tools.
+ * 4. extras.css: Contains advanced visual effects such as "Blackout" cards
+ *    for redacted narrative lore and HUD badging.
+ * 5. safety-net.css: Implements aggressive typography overrides (e.g., Crimson Text)
+ *    to guarantee a serif "Reference Book" reading experience.
+ *
+ * This theme uses an "Encyclopedia" aesthetic, featuring clean layouts,
+ * readable serif fonts, and high-contrast ink-on-paper styling.
+ * ============================================================================
+ */
+
 /* Stardust Engine Theme: raggiesoft-books */
 
-/* --- root.css --- */
+/* ============================================================================
+ * MODULE: root.css
+ * Core color palette and theme variables.
+ * ============================================================================ */
 /* root-encyclopedia.css */
 /* Theme: RaggieSoft Encyclopedia (System Reference) */
 /* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/root.css */
@@ -19,6 +43,7 @@ body.theme-raggiesoft-books {
 }
 
 /* --- LIGHT MODE --- */
+/* Emulates crisp ink on white/light-gray paper for daytime reading */
 :root,
 [data-bs-theme="light"] {
     --rs-primary: #42AADB;
@@ -35,6 +60,7 @@ body.theme-raggiesoft-books {
 }
 
 /* --- DARK MODE --- */
+/* Emulates glowing ink on slate reading surfaces */
 @media (prefers-color-scheme: dark) {
     body.theme-raggiesoft-books {
         --rs-body-bg: #0f172a; /* Slate-900 (Rich Dark Blue/Black) */
@@ -52,6 +78,7 @@ body.theme-raggiesoft-books {
     }
 }
 
+/* Explicit toggle for dark mode via data attribute */
 [data-bs-theme="dark"] {
     --rs-body-bg: #0f172a;
     --rs-body-color: #cbd5e1;
@@ -65,6 +92,7 @@ body.theme-raggiesoft-books {
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
  * ========================================================================== */
+/* Aligns generic component backgrounds and text colors to the paper/slate palette */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
@@ -99,7 +127,10 @@ body.theme-raggiesoft-books {
 }
 
 
-/* --- header.css --- */
+/* ============================================================================
+ * MODULE: header.css
+ * Styling for the global navigation header and dropdowns.
+ * ============================================================================ */
 /* bootstrap-header.css (Encyclopedia Theme) */
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/header.css */
 
@@ -128,10 +159,10 @@ header .nav-link.active {
 }
 
 /* 3. Hamburger Menu */
-header wa-icon-button[name=\"bars\"] {
+header wa-icon-button[name="bars"] {
     border-color: var(--rs-border-color) !important;
 }
-header wa-icon-button[name=\"bars\"] .hamburger-bar {
+header wa-icon-button[name="bars"] .hamburger-bar {
     background-color: var(--rs-body-color) !important;
 }
 
@@ -160,7 +191,10 @@ header .navbar-brand-img {
     mix-blend-mode: normal;
 }
 
-/* --- footer.css --- */
+/* ============================================================================
+ * MODULE: footer.css
+ * Styling for the global site footer.
+ * ============================================================================ */
 /* bootstrap-footer.css (Encyclopedia Theme) */
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/footer.css */
 
@@ -192,6 +226,7 @@ footer .link-secondary:hover {
 }
 
 /* Admin Modal (The Console) */
+/* Designed to feel more rigid and utilitarian in the encyclopedia context */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--rs-body-bg) !important;
     border: 2px solid var(--rs-primary) !important;
@@ -199,13 +234,17 @@ footer .link-secondary:hover {
     font-family: monospace; /* Encyclopedia console should feel raw */
 }
 
-/* --- extras.css --- */
+/* ============================================================================
+ * MODULE: extras.css
+ * Specialized thematic elements like blackout cards for redacted text.
+ * ============================================================================ */
 /* extras-encyclopedia.css */
 /* Component Overrides for the Narrative Encyclopedia */
 /* Path: assets.raggiesoft.com/raggiesoft-books/css/bootstrap/encyclopedia/extras.css */
 
 /* --- 1. The Level 5 "Blackout" Card --- */
 /* Forces a "True Black" environment regardless of theme settings */
+/* Typically used for heavily redacted or secure narrative content */
 .card-blackout {
     background-color: #000000 !important;
     border-color: var(--rs-danger) !important;
@@ -243,7 +282,10 @@ footer .link-secondary:hover {
     text-transform: uppercase;
 }
 
-/* --- safety-net.css --- */
+/* ============================================================================
+ * MODULE: safety-net.css
+ * Fallback styles to maintain structural integrity.
+ * ============================================================================ */
 /* safety-net-encyclopedia.css */
 /* RaggieSoft Encyclopedia Overrides */
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/safety-net.css */
@@ -294,4 +336,3 @@ h1, h2, h3, h4, h5, h6, .navbar-brand, .brand-font {
 .card {
     border-radius: 4px; /* Sharper corners */
 }
-

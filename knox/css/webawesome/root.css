@@ -1,3 +1,25 @@
+/**
+ * ============================================================================
+ * FILE: root.css (K.N.O.X. Theme System)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the foundational CSS Custom Properties (variables) file for the 
+ * entire K.N.O.X. narrative theme. It defines the core palette based on 
+ * concept art and maps them to standard Bootstrap 5 and Web Awesome tokens.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Leverages the `data-bs-theme` attribute to switch between the Light 
+ *   ("Aerie-Hold") and Dark ("Port Telsus") narrative modes.
+ * - Bridges `--bs-*` variables into `--wa-*` (Web Awesome Pro) variables 
+ *   to ensure external web components inherit the theme correctly.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Any new colors introduced to the narrative must be defined here in the 
+ *   `Concept Art Palette` section before mapping.
+ * - When upgrading Web Awesome or Bootstrap, verify that the token mapping 
+ *   (e.g., `--wa-color-brand-fill-loud`) still matches the library's specs.
+ * ============================================================================
+ */
 /* /raggiesoft-books/knox/css/bootstrap/aerie-hold/root.css */
 /* Theme: K.N.O.X. (Aerie-Hold / Port Telsus) */
 
@@ -18,6 +40,7 @@
     --knox-neon: #66fcf1;       /* Terminal Cyan */
 
     /* --- Global Utils --- */
+    /* Brutalist/Military feel enforced globally by removing standard pill shapes */
     --bs-border-radius: 2px;    /* Brutalist/Military feel */
     --bs-font-monospace: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
 }

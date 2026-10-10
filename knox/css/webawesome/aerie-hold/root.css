@@ -1,31 +1,52 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AERIE-HOLD ROOT THEME (root.css)
+ * ==========================================================================
+ * This file serves as the core design system for the "Aerie-Hold" theme.
+ * The concept revolves around "The living breath of the Weave" — a high 
+ * fantasy, nature-driven aesthetic that shifts from sunlit canopy (Day) to 
+ * bioluminescent jungle (Night).
+ * 
+ * Key Responsibilities:
+ * 1. Define custom internal palette variables (`--aerie-*`) for semantic use.
+ * 2. Map Bootstrap (`--bs-*`) variables to the Day palette (Light Mode).
+ * 3. Map Bootstrap (`--bs-*`) variables to the Night palette (Dark Mode).
+ * 4. Integrate with Web Awesome (`--wa-*`) design tokens.
+ * ========================================================================== */
+
 /* Theme: Aerie-Hold (Day/Night Cycle) */
 /* Concept: The living breath of the Weave. */
 
+/* --------------------------------------------------------------------------
+ * 1. THEMATIC PALETTES (Core Variables)
+ * -------------------------------------------------------------------------- */
 :root {
     /* --- The Palette (Day - High Canopy) --- */
-    --aerie-mist: #e6f2f2;      /* Pale Atmospheric Blue/White */
-    --aerie-sunlight: #f0f4c3;  /* Filtered Sunlight */
-    --aerie-leaf: #386641;      /* Healthy Green */
-    --aerie-wood: #5d4037;      /* Warm Bark */
+    --aerie-mist: #e6f2f2;      /* Pale Atmospheric Blue/White for daytime sky/fog */
+    --aerie-sunlight: #f0f4c3;  /* Filtered Sunlight (Yellow-Green tint) */
+    --aerie-leaf: #386641;      /* Healthy Green (Primary Day Color) */
+    --aerie-wood: #5d4037;      /* Warm Bark (Structural contrast) */
     
     /* --- The Palette (Night - Bioluminescence) --- */
-    --aerie-void: #05161a;      /* Deepest Jungle Dark */
-    --aerie-night-sky: #072e33; /* Canopy Shadow */
-    --aerie-glow-cyan: #29bf12; /* Fungal Green (Active) */
-    --aerie-glow-blue: #0cce6b; /* River Glow */
+    --aerie-void: #05161a;      /* Deepest Jungle Dark (Night background) */
+    --aerie-night-sky: #072e33; /* Canopy Shadow (Night tertiary background) */
+    --aerie-glow-cyan: #29bf12; /* Fungal Green (Active/Success states) */
+    --aerie-glow-blue: #0cce6b; /* River Glow (Primary Night Color) */
     --aerie-spore: #abff4f;     /* Toxic/Warning Yellow-Green */
 
     /* --- Global Utils --- */
-    --bs-border-radius: 4px;    /* Slightly softened edges (organic) */
+    --bs-border-radius: 4px;    /* Slightly softened edges to mimic organic forms */
     --bs-border-width: 1px;
 }
 
+/* --------------------------------------------------------------------------
+ * 2. LIGHT MODE CONFIGURATION (The Canopy)
+ * -------------------------------------------------------------------------- */
 /* --- LIGHT MODE: The Canopy (Day) --- */
 :root,
 [data-bs-theme="light"] {
-    /* Core Bootstrap Mapping */
+    /* Core Bootstrap Mapping - Binding semantic colors to the Day Palette */
     --bs-primary: var(--aerie-leaf);
-    --bs-primary-rgb: 56, 102, 65;
+    --bs-primary-rgb: 56, 102, 65; /* Required for opacity/shadow calculations */
     
     --bs-secondary: #6a994e;
     --bs-success: #31572c;
@@ -34,7 +55,7 @@
     
     /* Backgrounds */
     --bs-body-bg: var(--aerie-mist);
-    --bs-body-color: #1a2f23; /* Dark Green-Black text */
+    --bs-body-color: #1a2f23; /* Dark Green-Black text for readability */
     
     /* Surfaces */
     --bs-tertiary-bg: #ffffff;
@@ -45,11 +66,14 @@
     --bs-link-hover-color: #132a13;
 }
 
+/* --------------------------------------------------------------------------
+ * 3. DARK MODE CONFIGURATION (The Bioluminescence)
+ * -------------------------------------------------------------------------- */
 /* --- DARK MODE: The Bioluminescence (Night) --- */
 [data-bs-theme="dark"] {
-    /* Core Bootstrap Mapping */
+    /* Core Bootstrap Mapping - Binding semantic colors to the Night Palette */
     --bs-primary: var(--aerie-glow-blue); /* The "River" guides you */
-    --bs-primary-rgb: 12, 206, 107;
+    --bs-primary-rgb: 12, 206, 107; /* Required for opacity/shadow calculations */
     
     --bs-secondary: #2c6e49;
     --bs-success: var(--aerie-glow-cyan);
@@ -58,7 +82,7 @@
     
     /* Backgrounds */
     --bs-body-bg: var(--aerie-void);
-    --bs-body-color: #e0fbfc; /* Pale Cyan Text (Moonlight) */
+    --bs-body-color: #e0fbfc; /* Pale Cyan Text (Moonlight) for high contrast */
     
     /* Surfaces */
     --bs-tertiary-bg: var(--aerie-night-sky);
@@ -66,42 +90,55 @@
     
     /* Links */
     --bs-link-color: var(--aerie-glow-cyan);
-    --bs-link-hover-color: #fff;
+    --bs-link-hover-color: #fff; /* Pure white on hover to simulate bright glow */
 }
 
+/* --------------------------------------------------------------------------
+ * 4. WEB AWESOME INTEGRATION
+ * -------------------------------------------------------------------------- */
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * Ensures custom Web Awesome components (buttons, dialogs) perfectly match
+ * the surrounding Aerie-Hold theme logic automatically.
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
+  /* Brand mappings */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
   
+  /* Danger/Error mappings */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
   
+  /* Warning mappings */
   --wa-color-warning-fill-loud: var(--bs-warning);
   --wa-color-warning-text-loud: var(--bs-warning);
   --wa-color-warning-border-loud: var(--bs-warning);
   
+  /* Success mappings */
   --wa-color-success-fill-loud: var(--bs-success);
   --wa-color-success-text-loud: var(--bs-success);
   --wa-color-success-border-loud: var(--bs-success);
 
+  /* Info mappings */
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
   
+  /* Surface and Background mappings */
   --wa-color-surface-default: var(--bs-body-bg);
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  /* Text and Typography mappings */
   --wa-color-text-normal: var(--bs-body-color);
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
+  /* Border mappings */
   --wa-color-neutral-border-quiet: var(--bs-border-color);
   --wa-color-surface-border: var(--bs-border-color);
 }

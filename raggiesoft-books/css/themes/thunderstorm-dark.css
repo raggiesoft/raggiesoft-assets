@@ -1,57 +1,116 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: THUNDERSTORM DARK
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a highly immersive, intense weather-based theme. It extends the concept 
+ * of the "Dark Rain" theme by implementing absolute black contrast, a faster 
+ * procedural rain overlay, and a dynamic lightning flash effect.
+ * 
+ * Key Design Elements:
+ * - Stark "Absolute Midnight" color scheme.
+ * - Dual pseudo-element overlays: `::before` for rain, `::after` for lightning.
+ * - Procedural CSS keyframe animations requiring no external image assets.
+ * - Rigorous accessibility rules to suppress flashing for motion-sensitive users.
+ * 
+ * Maintenance Notes:
+ * - Flashing effects (`lightning-flash-dark`) MUST be disabled under 
+ *   `prefers-reduced-motion` to prevent triggering photosensitive epilepsy.
+ * - Overlays must use `pointer-events: none` to prevent blocking the UI.
+ * ============================================================================
+ */
+
 /* Theme Name: Thunderstorm Dark */
 /* theme-thunderstorm-dark.css */
+
+/* -------------------------------------------------------------------------
+ * 1. Base Variables & High-Contrast Palette
+ * ------------------------------------------------------------------------- */
 body.theme-thunderstorm-dark {
-    --rs-bg: #000000; /* Absolute midnight */
-    --rs-surface: #0a0a0a;
-    --rs-text: #9ca3af; 
-    --rs-primary: #38bdf8; /* Lightning white */
-    --rs-secondary: #4b5563; 
-    --rs-border: #1f2937;
+    --rs-bg: #000000; /* Absolute midnight / pitch black */
+    --rs-surface: #0a0a0a; /* Barely lifted surface color */
+    --rs-text: #9ca3af; /* Cool grey text to simulate low light visibility */
+    --rs-primary: #38bdf8; /* Lightning white/blue accent */
+    --rs-secondary: #4b5563; /* Deep slate for borders/muting */
+    --rs-border: #1f2937; /* Structural divider line color */
 }
 
+/* -------------------------------------------------------------------------
+ * 2. Fast Rain Overlay (::before)
+ * ------------------------------------------------------------------------- */
 body.theme-thunderstorm-dark::before {
     content: "";
+    /* Spans entire viewport independent of scroll position */
     position: fixed;
+    /* Offset top prevents visible resetting of the rain loop */
     top: -200px; left: 0; right: 0; bottom: 0;
+    /* CRITICAL: Allows interaction with actual page content */
     pointer-events: none;
     z-index: 9999;
+    
+    /* Procedural generation of slanted rain streaks */
     background-image: 
         linear-gradient(160deg, transparent 40%, rgba(255,255,255,0.06) 50%, transparent 60%),
         linear-gradient(160deg, transparent 45%, rgba(255,255,255,0.04) 50%, transparent 55%);
     background-size: 50px 80px, 80px 120px;
+    
+    /* Faster animation than "Dark Rain" to simulate heavy downpour */
     animation: rain-fall-fast-dark 0.6s linear infinite;
     opacity: 0.6;
 }
 
+/* -------------------------------------------------------------------------
+ * 3. Lightning Flash Overlay (::after)
+ * ------------------------------------------------------------------------- */
 body.theme-thunderstorm-dark::after {
     content: "";
     position: fixed;
     top: 0; left: 0; right: 0; bottom: 0;
     pointer-events: none;
+    /* Just behind the rain layer */
     z-index: 9998;
+    
+    /* Solid flat color used to wash out the screen during the flash */
     background-color: #cbd5e1;
+    /* Invisible by default, driven entirely by keyframes */
     opacity: 0;
+    /* Infrequent, unpredictable long-cycle animation */
     animation: lightning-flash-dark 15s infinite;
 }
 
+/* -------------------------------------------------------------------------
+ * 4. Animation Keyframes
+ * ------------------------------------------------------------------------- */
 @keyframes rain-fall-fast-dark {
     0% { background-position: 0px 0px, 0px 0px; }
+    /* Trajectory math calculated to match the 160deg gradient angle */
     100% { background-position: 28px 80px, 42px 120px; }
 }
 
 @keyframes lightning-flash-dark {
+    /* Long period of nothing */
     0%, 94%, 96%, 100% { opacity: 0; }
+    /* Sudden initial flash */
     95% { opacity: 0.12; }
+    /* Bright secondary flash */
     97% { opacity: 0.25; }
+    /* Immediate darkness */
     98% { opacity: 0; }
 }
 
+/* -------------------------------------------------------------------------
+ * 5. Accessibility Controls (CRITICAL)
+ * ------------------------------------------------------------------------- */
+/* Respect user operating system preferences to prevent illness/seizures */
 @media (prefers-reduced-motion: reduce) {
     body.theme-thunderstorm-dark::before {
+        /* Halt the heavy rain animation */
         animation: none;
+        /* Diminish static texture to prevent visual clutter */
         opacity: 0.3;
     }
     body.theme-thunderstorm-dark::after {
+        /* Completely remove lightning flashes for photosensitive users */
         animation: none;
         display: none;
     }

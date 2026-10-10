@@ -1,4 +1,30 @@
-/* footer.css (Fractured Prisms) */
+/**
+ * ============================================================================
+ * COMPONENT: footer.css (WebAwesome Fractured Prisms Theme)
+ * CONTEXT: Global Footer Layout
+ *
+ * PURPOSE:
+ * Defines the structural spacing and typography overrides for the global footer
+ * within the "Fractured Prisms" narrative theme.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally via the layout template. It connects generic Bootstrap footer
+ * elements to the bespoke CSS variables (`--bs-bg-prism`, `--font-gothic`) defined
+ * in `root.css`.
+ *
+ * KEY COMPONENTS:
+ * - Structural Spacing: Enforces a heavy 5rem top margin to separate the content
+ *   from the footer naturally without requiring spacer divs in the HTML.
+ * - Typography Integration: Maps footer headings to `--font-gothic` and navigational
+ *   links to `--font-tech`, creating the signature "Magical Realism vs Tech" contrast
+ *   central to the story's UI.
+ *
+ * MAINTENANCE NOTES:
+ * - Do not hardcode colors or fonts here. The footer must remain perfectly
+ *   synchronized with the dynamic variables defined in `root.css` so that
+ *   light/dark modes toggle seamlessly.
+ * ============================================================================
+ */
 
 footer {
     margin-top: 5rem;

@@ -1,9 +1,44 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT GRID CSS - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This file serves as a custom vanilla CSS grid and utility class system, 
+ * heavily inspired by and polyfilling Bootstrap 5 classes. It is specifically 
+ * designed to map legacy or familiar Bootstrap utility classes to Web Awesome's 
+ * (--wa-*) semantic design tokens. 
+ * 
+ * Core Purposes:
+ * 1. Grid System: Implements a 12-column responsive flexbox grid (.container, 
+ *    .row, .col-*), using custom RaggieSoft CSS variables (--rg-gutter-*).
+ * 2. Utilities: Provides spacing (margin/padding), display, flex, text, and 
+ *    position utilities mimicking Bootstrap's API.
+ * 3. Component Polyfills: Styles for basic components (.btn, .alert, .badge, 
+ *    .navbar, .list-group) using Web Awesome design tokens for colors, borders, 
+ *    and spacing, ensuring visual consistency without relying on the full 
+ *    Bootstrap CSS framework.
+ * 4. Token Mapping: Maps Bootstrap contextual colors (primary, secondary, 
+ *    success, danger, warning, info) to Web Awesome equivalents.
+ * 
+ * Maintainability Notes:
+ * - Do NOT introduce hardcoded colors unless strictly necessary; always default 
+ *   to --wa-* variables first.
+ * - This file replaces the need for the official Bootstrap CSS library on the 
+ *   frontend, ensuring a lighter footprint while maintaining layout integrity.
+ * - Modifying grid breakpoints (576px, 768px, 992px, 1200px, 1400px) must be 
+ *   done with caution to avoid breaking responsive layouts.
+ * ============================================================================
+ */
+
 /* RaggieSoft Custom Vanilla Grid (Bootstrap Class Mappings) */
+/* Base grid gutters */
 :root {
   --rg-gutter-x: 1.5rem;
   --rg-gutter-y: 0;
 }
 
+/* Global body resets using Web Awesome tokens */
 body {
   margin: 0;
   font-family: var(--wa-font-sans);
@@ -12,6 +47,7 @@ body {
 }
 
 /* Container */
+/* Fluid and constrained containers */
 .container,
 .container-fluid {
   width: 100%;
@@ -21,6 +57,7 @@ body {
   margin-left: auto;
 }
 
+/* Container breakpoints */
 @media (min-width: 576px) { .container { max-width: 540px; } }
 @media (min-width: 768px) { .container { max-width: 720px; } }
 @media (min-width: 992px) { .container { max-width: 960px; } }
@@ -28,6 +65,7 @@ body {
 @media (min-width: 1400px) { .container { max-width: 1320px; } }
 
 /* Row */
+/* Flex container for columns */
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -35,6 +73,7 @@ body {
   margin-right: calc(-.5 * var(--rg-gutter-x));
   margin-left: calc(-.5 * var(--rg-gutter-x));
 }
+/* Row direct children (columns) */
 .row > * {
   box-sizing: border-box;
   flex-shrink: 0;
@@ -46,6 +85,7 @@ body {
 }
 
 /* Base Columns */
+/* Non-responsive 12-column grid setup */
 .col { flex: 1 0 0%; }
 .col-auto { flex: 0 0 auto; width: auto; }
 .col-1 { flex: 0 0 auto; width: 8.33333333%; }
@@ -62,6 +102,7 @@ body {
 .col-12 { flex: 0 0 auto; width: 100%; }
 
 /* Responsive Columns (MD) */
+/* Grid for medium devices (768px and up) */
 @media (min-width: 768px) {
   .col-md { flex: 1 0 0%; }
   .col-md-auto { flex: 0 0 auto; width: auto; }
@@ -80,6 +121,7 @@ body {
 }
 
 /* Responsive Columns (LG) */
+/* Grid for large devices (992px and up) */
 @media (min-width: 992px) {
   .col-lg { flex: 1 0 0%; }
   .col-lg-auto { flex: 0 0 auto; width: auto; }
@@ -98,27 +140,32 @@ body {
 }
 
 /* Flex Utilities */
+/* Basic display utilities */
 .d-flex { display: flex !important; }
 .d-none { display: none !important; }
 .d-block { display: block !important; }
 .d-inline-block { display: inline-block !important; }
 
+/* Flexbox specific modifiers */
 .flex-column { flex-direction: column !important; }
 .flex-row { flex-direction: row !important; }
 .flex-wrap { flex-wrap: wrap !important; }
 .flex-grow-1 { flex-grow: 1 !important; }
 .flex-shrink-0 { flex-shrink: 0 !important; }
 
+/* Flex alignment on main axis */
 .justify-content-center { justify-content: center !important; }
 .justify-content-between { justify-content: space-between !important; }
 .justify-content-start { justify-content: flex-start !important; }
 .justify-content-end { justify-content: flex-end !important; }
 
+/* Flex alignment on cross axis */
 .align-items-center { align-items: center !important; }
 .align-items-start { align-items: flex-start !important; }
 .align-items-end { align-items: flex-end !important; }
 
 /* Margins */
+/* Margin scale 0-5 and auto */
 .m-0 { margin: 0 !important; }
 .m-1 { margin: 0.25rem !important; }
 .m-2 { margin: 0.5rem !important; }
@@ -168,6 +215,7 @@ body {
 .my-5 { margin-top: 3rem !important; margin-bottom: 3rem !important; }
 
 /* Paddings */
+/* Padding scale 0-5 */
 .p-0 { padding: 0 !important; }
 .p-1 { padding: 0.25rem !important; }
 .p-2 { padding: 0.5rem !important; }
@@ -218,6 +266,7 @@ body {
 .py-5 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
 
 /* Text Utilities */
+/* Text alignment and font styles */
 .text-center { text-align: center !important; }
 .text-start { text-align: left !important; }
 .text-end { text-align: right !important; }
@@ -229,6 +278,7 @@ body {
 .text-uppercase { text-transform: uppercase !important; }
 .text-lowercase { text-transform: lowercase !important; }
 
+/* Semantic text colors mapped to WA */
 .text-muted { color: var(--wa-color-neutral-text-quiet) !important; }
 .text-body { color: var(--wa-color-text-normal) !important; }
 .text-primary { color: var(--wa-color-brand-text-loud) !important; }
@@ -248,6 +298,7 @@ body {
 .h-100 { height: 100% !important; }
 
 /* Displays */
+/* Borders, shadows, decorations */
 .rounded { border-radius: var(--wa-border-radius-m) !important; }
 .border { border: 1px solid var(--wa-color-neutral-border-quiet) !important; }
 .border-bottom { border-bottom: 1px solid var(--wa-color-neutral-border-quiet) !important; }
@@ -258,6 +309,7 @@ body {
 
 
 /* Component Polyfills */
+/* Button polyfills mimicking Bootstrap button variants */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -279,18 +331,22 @@ body {
 .btn-info { background: var(--wa-color-brand-fill-loud); color: #fff !important; } /* mapped to brand */
 .btn-secondary { background: var(--wa-color-neutral-fill-quiet); color: var(--wa-color-text-normal) !important; }
 
+/* Outline buttons */
 .btn-outline-light { border-color: #fff; color: #fff !important; background: transparent; }
 .btn-outline-light:hover { background: #fff; color: #000 !important; }
 .btn-outline-primary { border-color: var(--wa-color-brand-fill-loud); color: var(--wa-color-brand-text-loud) !important; background: transparent; }
 .btn-outline-primary:hover { background: var(--wa-color-brand-fill-loud); color: #fff !important; }
 
+/* Button sizing */
 .btn-lg { padding: 0.5rem 1rem; font-size: 1.25rem; }
 .btn-sm { padding: 0.25rem 0.5rem; font-size: 0.875rem; }
 
+/* Pill and circle forms */
 .rounded-pill { border-radius: 50rem !important; }
 .rounded-circle { border-radius: 50% !important; }
 
 /* Alerts */
+/* Alert component using WA surface/border colors */
 .alert {
   padding: 1rem;
   margin-bottom: 1rem;
@@ -314,6 +370,7 @@ body {
 }
 
 /* Badges */
+/* Badge components for small contextual indicators */
 .badge {
   display: inline-block;
   padding: 0.35em 0.65em;
@@ -331,6 +388,7 @@ body {
 .bg-primary { background-color: var(--wa-color-brand-fill-loud) !important; color: #fff; }
 
 /* General overrides */
+/* Responsive imagery and visibility */
 .img-fluid { max-width: 100%; height: auto; }
 .d-none { display: none !important; }
 @media (min-width: 768px) {
@@ -340,11 +398,13 @@ body {
 
 
 /* Layout Colors & Borders Polyfill */
+/* Core surface colors mapped to theme variables */
 .bg-body-tertiary { background-color: var(--wa-color-surface-raised, rgba(0, 0, 0, 0.05)) !important; }
 .bg-body { background-color: var(--wa-color-surface-default) !important; }
 .text-body { color: var(--wa-color-text-normal) !important; }
 .text-muted, .text-body-secondary { color: var(--wa-color-neutral-text-quiet) !important; }
 
+/* More border directional utilities */
 .border { border: 1px solid var(--wa-color-neutral-border-quiet) !important; }
 .border-top { border-top: 1px solid var(--wa-color-neutral-border-quiet) !important; }
 .border-bottom { border-bottom: 1px solid var(--wa-color-neutral-border-quiet) !important; }
@@ -355,6 +415,7 @@ body {
 .border-0 { border: 0 !important; }
 
 /* Links */
+/* Quiet links that highlight on hover */
 .link-secondary { color: var(--wa-color-neutral-text-quiet); text-decoration: none; }
 .link-secondary:hover { color: var(--wa-color-text-normal); text-decoration: underline; }
 
@@ -369,6 +430,7 @@ body {
 .opacity-50 { opacity: 0.50 !important; }
 
 /* Flex utilities */
+/* Gap utilities for modern spacing */
 .flex-column { flex-direction: column !important; }
 .justify-content-start { justify-content: flex-start !important; }
 .gap-1 { gap: 0.25rem !important; }
@@ -376,6 +438,7 @@ body {
 .gap-3 { gap: 1rem !important; }
 
 /* Fix for Web Awesome Buttons in Sidebars and Flex Columns */
+/* Correctly aligns WA buttons within flex layouts */
 wa-button[appearance="plain"]::part(base),
 wa-button.justify-content-start::part(base) {
     justify-content: flex-start !important;
@@ -390,6 +453,7 @@ wa-button[appearance="plain"] {
 }
 
 /* Navbar & Nav Polyfills */
+/* Basic navbar structural layout reproducing BS5 behavior */
 .navbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 0.5rem 1rem; }
 @media (min-width: 768px) {
     .navbar-expand-md { flex-wrap: nowrap; justify-content: flex-start; }
@@ -415,6 +479,7 @@ wa-button[appearance="plain"] {
 .align-items-center { align-items: center !important; }
 .justify-content-between { justify-content: space-between !important; }
 
+/* Sticky positioning */
 .sticky-top { position: sticky; top: 0; z-index: 1020; }
 
 /* Generic Nav Polyfill for Footers */
@@ -424,6 +489,7 @@ wa-button[appearance="plain"] {
 .gy-4 { --bs-gutter-y: 1.5rem; row-gap: var(--bs-gutter-y); }
 
 /* List Group Polyfill */
+/* Reproduces BS5 list groups for vertical menus/lists */
 .list-group { display: flex; flex-direction: column; padding-left: 0; margin-bottom: 0; }
 .list-group-item { position: relative; display: block; padding: 0.5rem 1rem; color: var(--wa-color-text-normal); text-decoration: none; background-color: transparent; border: 1px solid var(--wa-color-neutral-border-quiet); }
 .list-group-flush > .list-group-item { border-width: 0 0 1px; }
@@ -432,6 +498,7 @@ wa-button[appearance="plain"] {
 .list-group-item.active { z-index: 2; color: #fff; background-color: var(--wa-color-brand-fill); border-color: var(--wa-color-brand-fill); font-weight: bold; }
 
 /* Accessibility Polyfills */
+/* Screen-reader only class for hidden semantic elements */
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
   position: absolute !important;
@@ -458,6 +525,7 @@ wa-button[appearance="plain"] {
 .m-2 { margin: 0.5rem !important; }
 
 /* Navbar Container Flex Fix */
+/* Ensure container expands properly in nav context */
 .navbar > .container,
 .navbar > .container-fluid {
   display: flex;
@@ -482,6 +550,7 @@ wa-button[appearance="plain"] {
 .px-3 { padding-left: 1rem !important; padding-right: 1rem !important; }
 
 /* Fixed Positioning Polyfills */
+/* Affixes element to viewport boundaries */
 .fixed-top {
   position: fixed;
   top: 0;
@@ -499,6 +568,7 @@ wa-button[appearance="plain"] {
 }
 
 /* Fix transparent Web Awesome dialog panels */
+/* Enforces WA theme surface color on dialogs */
 wa-dialog::part(panel) {
   background-color: var(--wa-color-surface-default, #ffffff);
   color: var(--wa-color-text-normal, #000000);
@@ -511,6 +581,7 @@ wa-dialog::part(panel) {
 }
 
 /* Color Utilities (Bootstrap Legacy) */
+/* Direct basic color mappings independent of themes */
 .bg-black { background-color: #000 !important; }
 .bg-dark { background-color: var(--wa-color-surface-lowered, #121212) !important; }
 .bg-light { background-color: #f8f9fa !important; }
@@ -531,6 +602,7 @@ wa-dialog::part(panel) {
    ========================================================================= */
 
 /* Backgrounds */
+/* Map Bootstrap semantic colors to WA semantic variables */
 .bg-primary   { background-color: var(--wa-color-primary) !important; }
 .bg-secondary { background-color: var(--wa-color-neutral) !important; }
 .bg-success   { background-color: var(--wa-color-success) !important; }
@@ -564,6 +636,7 @@ wa-dialog::part(panel) {
 
 
 /* --- RESPONSIVE DISPLAY UTILITIES POLYFILL --- */
+/* Display utility breakpoints based on BS5 standard */
 @media (min-width: 576px) {
   .d-sm-none { display: none !important; }
   .d-sm-block { display: block !important; }
@@ -601,11 +674,13 @@ wa-dialog::part(panel) {
 }
 
 /* --- POSITION UTILITIES POLYFILL --- */
+/* Layout positioning and anchor utilities */
 .position-static { position: static !important; }
 .position-relative { position: relative !important; }
 .position-fixed { position: fixed !important; }
 .position-sticky { position: sticky !important; }
 
+/* Inset offsets */
 .top-0 { top: 0 !important; }
 .top-50 { top: 50% !important; }
 .top-100 { top: 100% !important; }
@@ -622,6 +697,7 @@ wa-dialog::part(panel) {
 .end-50 { right: 50% !important; }
 .end-100 { right: 100% !important; }
 
+/* Centering transforms */
 .translate-middle { transform: translate(-50%, -50%) !important; }
 .translate-middle-x { transform: translateX(-50%) !important; }
 .translate-middle-y { transform: translateY(-50%) !important; }

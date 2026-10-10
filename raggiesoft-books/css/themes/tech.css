@@ -1,31 +1,63 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: TECH
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a "Tech" or "Terminal" inspired theme, driven by high-contrast 
+ * monochromatic greens. Designed to evoke a digital, programming, or matrix-like 
+ * atmosphere within the application.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture handling Light, Dark, and Auto mode inheritance.
+ * - Deep terminal greens transitioning to stark neon greens for interactive elements.
+ * 
+ * Maintenance Notes:
+ * - Maintain the formatting consistency (indentations) to match the original 
+ *   authoring style.
+ * - Primary and Secondary colors in Dark Mode swap luminance compared to Light Mode
+ *   to ensure buttons "glow" against the dark background.
+ * ============================================================================
+ */
+
 /* Theme Name: Tech */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Active by default or when explicitly forced by the user */
 body.theme-tech,
 body.theme-light.theme-tech {
---rs-bg: #f0fdf4; /* Digital green tint */
-    --rs-surface: #ffffff;
-    --rs-text: #14532d;
-    --rs-primary: #16a34a; /* Tech green */
-    --rs-secondary: #86efac;
-    --rs-border: #bbf7d0;
+    --rs-bg: #f0fdf4; /* Very faint digital green tint for the base canvas */
+    --rs-surface: #ffffff; /* Stark white to isolate UI components */
+    --rs-text: #14532d; /* Extremely dark green for high-contrast legibility */
+    --rs-primary: #16a34a; /* Solid 'Tech' green for primary interactions */
+    --rs-secondary: #86efac; /* Pale green for secondary/muted elements */
+    --rs-border: #bbf7d0; /* Soft green structural division lines */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Overrides base styling when `theme-dark` is applied to the body */
 body.theme-dark.theme-tech {
---rs-bg: #052e16; /* Dark terminal green */
-        --rs-surface: #14532d;
-        --rs-text: #f0fdf4;
-        --rs-primary: #4ade80;
-        --rs-secondary: #16a34a;
-        --rs-border: #166534;
+    --rs-bg: #052e16; /* Deep, almost black 'terminal' green background */
+    --rs-surface: #14532d; /* Lifted dark green for floating panels/cards */
+    --rs-text: #f0fdf4; /* Crisp, pale green text mimicking terminal output */
+    --rs-primary: #4ade80; /* Bright, glowing neon green for primary actions */
+    --rs-secondary: #16a34a; /* Mid-tone green for secondary interactions */
+    --rs-border: #166534; /* Dark structural border lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Automatically applies the dark terminal aesthetic based on OS preferences */
 @media (prefers-color-scheme: dark) {
+    /* Triggers only if the user hasn't explicitly locked the theme to Light or Dark */
     body.theme-auto.theme-tech,
     body:not(.theme-light):not(.theme-dark).theme-tech {
---rs-bg: #052e16; /* Dark terminal green */
+        /* Mirrored from Explicit Dark Mode palette */
+        --rs-bg: #052e16; /* Dark terminal green */
         --rs-surface: #14532d;
         --rs-text: #f0fdf4;
         --rs-primary: #4ade80;

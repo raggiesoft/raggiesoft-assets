@@ -1,30 +1,59 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: SUNSTEAD POLITICS
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a formal, structured theme utilizing regal purple hues. Designed to 
+ * represent diplomatic or political narrative contexts within the application.
+ * 
+ * Key Design Elements:
+ * - Tri-state theme handling (Light, Dark, Auto).
+ * - High-contrast royal purple tones providing a sense of authority and formality.
+ * 
+ * Maintenance Notes:
+ * - Strict adherence to selector specificity ensures theme override buttons
+ *   function correctly across the app.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Politics */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Active by default or when explicitly toggled by the user */
 body.theme-sunstead-politics,
 body.theme-light.theme-sunstead-politics {
-    --rs-bg: #faf5ff;
-    --rs-surface: #f3e8ff;
-    --rs-text: #3b0764;
-    --rs-primary: #7e22ce;
-    --rs-secondary: #9333ea;
-    --rs-border: #e9d5ff;
+    --rs-bg: #faf5ff; /* Extremely pale lavender background */
+    --rs-surface: #f3e8ff; /* Slightly deeper lavender for raised UI surfaces */
+    --rs-text: #3b0764; /* Very dark, almost black purple for readable text */
+    --rs-primary: #7e22ce; /* Regal, saturated purple for primary actions */
+    --rs-secondary: #9333ea; /* Lighter purple for secondary buttons and accents */
+    --rs-border: #e9d5ff; /* Soft lavender borders for structural division */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Active only when the `theme-dark` class is explicitly applied to the body */
 body.theme-dark.theme-sunstead-politics {
-    --rs-bg: #2e1065;
-    --rs-surface: #3b0764;
-    --rs-text: #faf5ff;
-    --rs-primary: #c084fc;
-    --rs-secondary: #a855f7;
-    --rs-border: #581c87;
+    --rs-bg: #2e1065; /* Deep, authoritative midnight purple */
+    --rs-surface: #3b0764; /* Lifted purple surface for depth */
+    --rs-text: #faf5ff; /* Pale lavender text for stark contrast */
+    --rs-primary: #c084fc; /* Bright lilac accent color for primary elements */
+    --rs-secondary: #a855f7; /* Muted lilac for secondary interactions */
+    --rs-border: #581c87; /* Dark purple border division lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Reads system-level color scheme preferences if no manual theme is selected */
 @media (prefers-color-scheme: dark) {
+    /* Safely falls back to Dark Mode if the user hasn't explicitly chosen Light */
     body.theme-auto.theme-sunstead-politics,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-politics {
+        /* Mirrored from Explicit Dark Mode palette */
         --rs-bg: #2e1065;
         --rs-surface: #3b0764;
         --rs-text: #faf5ff;

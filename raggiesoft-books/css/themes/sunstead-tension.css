@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SUNSTEAD TENSION - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Sunstead Tension" reading theme for the Stardust 
+ * Engine. It utilizes high-contrast greens, ranging from pale lime to deep 
+ * forest, to create an eerie, naturalistic, or suspenseful reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - extremely pale lime background)
+ *    - Forced Dark Mode (Deep forest/swamp green background with bright lime text)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Tension */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-sunstead-tension,
 body.theme-light.theme-sunstead-tension {
-    --rs-bg: #f7fee7;
-    --rs-surface: #ecfccb;
-    --rs-text: #3f6212;
-    --rs-primary: #4d7c0f;
-    --rs-secondary: #65a30d;
-    --rs-border: #d9f99d;
+    --rs-bg: #f7fee7; /* Very pale, almost yellow-green */
+    --rs-surface: #ecfccb; /* Soft lime surface */
+    --rs-text: #3f6212; /* Dark olive text */
+    --rs-primary: #4d7c0f; /* Strong leaf green primary */
+    --rs-secondary: #65a30d; /* Brighter green secondary */
+    --rs-border: #d9f99d; /* Lime border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-sunstead-tension {
-    --rs-bg: #1a2e05;
-    --rs-surface: #3f6212;
-    --rs-text: #f7fee7;
-    --rs-primary: #a3e635;
-    --rs-secondary: #84cc16;
-    --rs-border: #4d7c0f;
+    --rs-bg: #1a2e05; /* Near-black forest green */
+    --rs-surface: #3f6212; /* Elevated dark olive surface */
+    --rs-text: #f7fee7; /* Pale yellow-green text */
+    --rs-primary: #a3e635; /* Electric lime primary accent */
+    --rs-secondary: #84cc16; /* Muted lime secondary */
+    --rs-border: #4d7c0f; /* Leaf green border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead-tension,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-tension {
-        --rs-bg: #1a2e05;
+        --rs-bg: #1a2e05; /* Matches Forced Dark Mode */
         --rs-surface: #3f6212;
         --rs-text: #f7fee7;
         --rs-primary: #a3e635;

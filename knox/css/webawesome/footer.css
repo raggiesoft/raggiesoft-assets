@@ -1,26 +1,51 @@
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/footer.css */
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: CORE KNOX FOOTER STYLING (footer.css)
+ * ==========================================================================
+ * This file defines the baseline visual presentation of the global footer 
+ * within the 'Knox' platform context (Terminal/Data-driven aesthetic).
+ * 
+ * Key Responsibilities:
+ * 1. Establish the foundational structural colors using dynamic theme variables.
+ * 2. Enforce the monospace typography.
+ * 3. Implement structural dotted underlines for links that become solid on hover.
+ * ========================================================================== */
 
+/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/footer.css */
+/* Note: Inherits the core Knox terminal aesthetic despite old file comments */
+
+/* --------------------------------------------------------------------------
+ * 1. BASE FOOTER STRUCTURE
+ * -------------------------------------------------------------------------- */
 footer {
     background-color: var(--bs-tertiary-bg) !important;
     color: var(--bs-body-color) !important;
     border-top: 1px solid var(--bs-border-color) !important;
-    font-family: var(--bs-font-monospace);
+    font-family: var(--bs-font-monospace); /* Terminal Aesthetic */
 }
 
+/* --------------------------------------------------------------------------
+ * 2. HYPERLINKS & INTERACTIVITY
+ * -------------------------------------------------------------------------- */
 /* Links in Footer */
 footer a {
     color: var(--bs-body-color) !important;
     text-decoration: none;
+    /* Use a dotted underline to signify data links */
     border-bottom: 1px dotted var(--bs-secondary);
 }
 
+/* Hover State */
 footer a:hover {
     color: var(--bs-primary) !important;
+    /* Solidify the underline on hover */
     border-bottom-style: solid;
 }
 
+/* --------------------------------------------------------------------------
+ * 3. TYPOGRAPHY EXCEPTIONS
+ * -------------------------------------------------------------------------- */
 /* Muted Text */
 footer .text-muted,
 footer .text-body-secondary {
-    opacity: 0.6;
+    opacity: 0.6; /* Manage muting via opacity for dynamic theme contrast */
 }

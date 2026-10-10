@@ -1,28 +1,66 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: SUNSTEAD ACTION
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Sunstead Action" reading theme.
+ *          This theme utilizes high-energy rose and crimson tones to 
+ *          complement fast-paced, action-oriented reading material.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Action */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features pale rose backgrounds with deep crimson text.
+ */
 body.theme-sunstead-action,
 body.theme-light.theme-sunstead-action {
-    --rs-bg: #fff1f2;
-    --rs-surface: #ffe4e6;
-    --rs-text: #881337;
-    --rs-primary: #be123c;
-    --rs-secondary: #e11d48;
-    --rs-border: #fecdd3;
+    --rs-bg: #fff1f2;       /* Very light rose/pink background */
+    --rs-surface: #ffe4e6;  /* Slightly deeper rose for elevated cards/modals */
+    --rs-text: #881337;     /* Deep crimson for high contrast text */
+    --rs-primary: #be123c;  /* Strong red/crimson for primary actions */
+    --rs-secondary: #e11d48;/* Brighter red for secondary UI elements */
+    --rs-border: #fecdd3;   /* Soft pink/rose for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to very dark blood red with pale pink text.
+ */
 body.theme-dark.theme-sunstead-action {
-    --rs-bg: #4c0519;
-    --rs-surface: #881337;
-    --rs-text: #fff1f2;
-    --rs-primary: #fb7185;
-    --rs-secondary: #f43f5e;
-    --rs-border: #9f1239;
+    --rs-bg: #4c0519;       /* Extremely dark blood red background */
+    --rs-surface: #881337;  /* Lighter deep crimson for elevated surfaces */
+    --rs-text: #fff1f2;     /* Pale pink/white text for readability */
+    --rs-primary: #fb7185;  /* Soft bright rose for primary actions */
+    --rs-secondary: #f43f5e;/* Stronger pink/red for secondary actions */
+    --rs-border: #9f1239;   /* Dark crimson for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-sunstead-action,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-action {
         --rs-bg: #4c0519;

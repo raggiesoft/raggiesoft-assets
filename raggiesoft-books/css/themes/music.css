@@ -1,31 +1,63 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: MUSIC
+ * ============================================================================
+ * Architecture & Purpose:
+ * This stylesheet defines the "Music" visual theme. It operates as a purely
+ * color-driven theme, substituting the standard CSS custom properties (`--rs-*`)
+ * with a creative, vibrant purple-based palette.
+ * 
+ * Key Design Elements:
+ * - Dynamic theme switching: Handles explicit Light/Dark modes, as well as
+ *   OS-level auto dark mode via media queries.
+ * - Warm, creative purple tones mimicking stage lighting or creative software.
+ * 
+ * Maintenance Notes:
+ * - Ensure specificity rules are maintained (`body.theme-light.theme-music`)
+ *   so that explicit user overrides take precedence over OS auto-preferences.
+ * - Both light and dark palettes must ensure sufficient contrast ratios for text.
+ * ============================================================================
+ */
+
 /* Theme Name: Music */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Applies when no theme is specified, or when light mode is explicitly forced */
 body.theme-music,
 body.theme-light.theme-music {
---rs-bg: #faf5ff; /* Faint purple, creative vibe */
-    --rs-surface: #ffffff;
-    --rs-text: #2e1065;
-    --rs-primary: #7e22ce; /* Vibrant purple */
-    --rs-secondary: #d8b4fe;
-    --rs-border: #e9d5ff;
+    --rs-bg: #faf5ff; /* Faint purple background representing a clean studio vibe */
+    --rs-surface: #ffffff; /* Stark white panels for readability */
+    --rs-text: #2e1065; /* Deep purple text for high contrast */
+    --rs-primary: #7e22ce; /* Vibrant purple for primary actions/buttons */
+    --rs-secondary: #d8b4fe; /* Softer purple for muted text/elements */
+    --rs-border: #e9d5ff; /* Gentle division line color */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Applies only when the user manually toggles the interface to Dark Mode */
 body.theme-dark.theme-music {
---rs-bg: #2e1065;
-        --rs-surface: #4c1d95;
-        --rs-text: #faf5ff;
-        --rs-primary: #d8b4fe;
-        --rs-secondary: #9333ea;
-        --rs-border: #5b21b6;
+    --rs-bg: #2e1065; /* Dark purple base resembling back-stage darkness */
+    --rs-surface: #4c1d95; /* Raised purple surface for active cards */
+    --rs-text: #faf5ff; /* Brilliant white-purple text */
+    --rs-primary: #d8b4fe; /* Bright neon-purple for interaction cues */
+    --rs-secondary: #9333ea; /* Saturated purple for secondary UI elements */
+    --rs-border: #5b21b6; /* Deep structural border color */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Evaluates system-level user preferences if no manual override is active */
 @media (prefers-color-scheme: dark) {
+    /* Applies when the user is explicitly set to "auto" OR hasn't made a choice */
     body.theme-auto.theme-music,
     body:not(.theme-light):not(.theme-dark).theme-music {
---rs-bg: #2e1065;
+        /* Mirrors the Explicit Dark Mode palette to prevent drift */
+        --rs-bg: #2e1065;
         --rs-surface: #4c1d95;
         --rs-text: #faf5ff;
         --rs-primary: #d8b4fe;

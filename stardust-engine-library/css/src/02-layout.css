@@ -1,52 +1,104 @@
-/* 02-layout.css */
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - COMPONENT: LAYOUT
+ * 02-layout.css
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the structural skeleton for the Stardust Book Library.
+ * It strictly utilizes Flexbox to create a fixed viewport layout (`100vh`) that
+ * prevents body-level scrolling, ensuring the audio player and sidebar remain
+ * static while only the reading pane scrolls.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Viewport Management: Pins the app to the screen edges, handling overflow
+ *    internally within specific zones (`#stardust-reading-pane`).
+ * 2. Component Scaffolding: Defines the exact dimensions and flex behaviors of
+ *    the header, sidebar, and main wrapper.
+ * 3. Responsive Audio UI: Implements a CSS-only scrolling marquee for the audio
+ *    player on narrow screens to ensure track titles remain readable without
+ *    breaking the header layout.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - This file is critical for the SPA architecture. Do not alter `flex: 1` or 
+ *   `overflow: hidden` properties on the main wrappers unless redesigning the 
+ *   entire viewport structure.
+ * ========================================================================== */
+
+/* Core Viewport Container */
+/* Forces the app to occupy exactly the viewport height, disabling global scroll */
 #stardust-app { display: flex; flex-direction: column; height: 100vh; width: 100%; }
+
+/* Global Persistent Header (Contains Audio Player) */
 #stardust-header { display: flex; align-items: center; justify-content: space-between; padding: 0 20px; height: 60px; background: var(--rs-surface); border-bottom: 1px solid var(--rs-border); flex-shrink: 0; }
+
+/* Mid-level layout wrapper separating header from content */
 #stardust-main-wrapper { display: flex; flex: 1; overflow: hidden; width: 100%; min-height: 0; }
+
+/* Persistent Navigation Sidebar */
 #stardust-sidebar { width: 300px; background: var(--rs-surface); border-right: 1px solid var(--rs-border); padding: 20px; overflow-y: auto; }
+
+/* Primary Content Zone (The only area that scrolls vertically) */
 #stardust-reading-pane { flex: 1; padding: 40px; overflow-y: auto; display: flex; flex-direction: column; align-items: center; }
+
+/* Article Body Constraint (Optimized for reading length) */
 .book-page { max-width: 680px; width: 100%; font-size: 1.125rem; line-height: 1.7; }
+
+/* Global Anchor Overrides within the app */
 a { color: var(--rs-primary); text-decoration: none; font-weight: 500; }
 a:hover { text-decoration: underline; }
 
+/* Mobile Layout Overrides */
 @media (max-width: 768px) {
     #stardust-reading-pane { padding: 10px; }
     #stardust-header { padding: 0 10px; }
 }
 
-/* Audio Player Responsive */
+/* ==========================================================================
+ * AUDIO PLAYER RESPONSIVE UI
+ * Manages the scrubber and scrolling marquee for tight spaces.
+ * ========================================================================== */
+
 .reader-audio-controls-row {
     display: flex;
     align-items: center;
     gap: 0.75rem;
     width: 100%;
 }
+
 .reader-audio-scrubber-container {
     flex: 1;
-    min-width: 0; /* Prevents input range from forcing width */
+    min-width: 0; /* Critical: Prevents the input range from blowing out the flex container width */
     display: flex;
     align-items: center;
     gap: 0.5rem;
     font-size: 0.75rem;
     opacity: 0.8;
 }
+
+/* Force range input to respect flex constraints */
 .reader-audio-scrubber-container input[type=range] {
     flex: 1;
     min-width: 0;
 }
+
+/* Container for the track title, truncates by default on desktop */
 .reader-audio-scroll-wrap {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
+/* Hardware-accelerated marquee animation for mobile */
 @keyframes audio-marquee {
     0% { transform: translateX(100%); }
     100% { transform: translateX(-100%); }
 }
 
+/* Mobile overrides: Convert truncated text into a scrolling marquee */
 @media (max-width: 600px) {
     .reader-audio-scroll-wrap {
-        text-overflow: clip;
+        text-overflow: clip; /* Remove ellipsis */
+        /* Apply a fade-out gradient to the edges to soften the text entering/exiting */
         mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
         -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
     }
@@ -55,6 +107,6 @@ a:hover { text-decoration: underline; }
         animation: audio-marquee 12s linear infinite;
     }
     .reader-audio-controls-row {
-        gap: 0.35rem; /* Shrink gap to fit buttons */
+        gap: 0.35rem; /* Shrink gap to fit interactive buttons comfortably */
     }
 }

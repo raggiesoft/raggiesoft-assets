@@ -1,22 +1,47 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AETHEL TYPOGRAPHY & SAFETY NET (safety-net.css)
+ * ==========================================================================
+ * This file serves as the baseline typographic and structural safety net for 
+ * the Aethel domain. It imports foundational fonts and enforces basic styling
+ * independently of dynamic theme switching.
+ * 
+ * Key Responsibilities:
+ * 1. Import external Google Fonts (Cinzel, Crimson Text).
+ * 2. Assign standard body and heading typography for a high-fantasy aesthetic.
+ * 3. Provide a hardcoded fallback style (leather & gold) for the main navbar 
+ *    in case dynamic theming fails or is not yet loaded.
+ * ========================================================================== */
+
 /* safety-net.css (Aethel) */
+
+/* --------------------------------------------------------------------------
+ * 1. TYPOGRAPHY IMPORTS & ASSIGNMENTS
+ * -------------------------------------------------------------------------- */
+/* Import Cinzel (Display/Headings) and Crimson Text (Body copy) */
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap');
 
 body {
+    /* Use Crimson Text for readable fantasy body copy */
     font-family: 'Crimson Text', Georgia, serif;
-    font-size: 1.15rem;
-    line-height: 1.8;
-
+    font-size: 1.15rem; /* Slightly larger for readability */
+    line-height: 1.8;   /* Generous line height for a bookish feel */
 }
 
 h1, h2, h3, h4, h5, h6, .navbar-brand {
+    /* Use Cinzel for majestic, sharp headings */
     font-family: 'Cinzel', serif;
 }
 
-/* Force Navbar to look like Leather binding */
+/* --------------------------------------------------------------------------
+ * 2. STRUCTURAL FALLBACKS (The Safety Net)
+ * -------------------------------------------------------------------------- */
+/* Force Navbar to look like Leather binding as a fallback aesthetic */
 header .navbar {
-    background-color: #3B2F2F !important;
-    border-bottom: 2px solid #D4AF37 !important;
+    background-color: #3B2F2F !important; /* Deep leather brown */
+    border-bottom: 2px solid #D4AF37 !important; /* Gold trim */
 }
+
+/* Force primary text colors in the header to ensure contrast against the leather */
 header .navbar-brand, header .nav-link {
-    color: #F5E6C4 !important;
+    color: #F5E6C4 !important; /* Parchment/Gold text */
 }

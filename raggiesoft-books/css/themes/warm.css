@@ -1,31 +1,69 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: WARM
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Warm" reading theme.
+ *          This theme uses amber and yellow tints to simulate incandescent 
+ *          lighting or old paper, which is extremely gentle on the eyes.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Warm */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features soft amber/yellow backgrounds with deep brown text.
+ */
 body.theme-warm,
 body.theme-light.theme-warm {
---rs-bg: #fffbeb; /* Warm amber/yellow tint */
-    --rs-surface: #ffffff;
-    --rs-text: #451a03; /* Deep warm brown */
-    --rs-primary: #d97706; /* Warm orange */
-    --rs-secondary: #fbbf24;
-    --rs-border: #fcd34d;
+    --rs-bg: #fffbeb;       /* Warm amber/yellow tint for the page */
+    --rs-surface: #ffffff;  /* Pure white for elevated cards/modals */
+    --rs-text: #451a03;     /* Deep warm brown for high contrast text */
+    --rs-primary: #d97706;  /* Warm orange for primary actions */
+    --rs-secondary: #fbbf24;/* Brighter yellow/amber for secondary UI elements */
+    --rs-border: #fcd34d;   /* Soft yellow for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to deep amber-browns with soft yellow text.
+ */
 body.theme-dark.theme-warm {
---rs-bg: #451a03; /* Deep warm brown background */
-        --rs-surface: #78350f;
-        --rs-text: #fef3c7;
-        --rs-primary: #f59e0b;
-        --rs-secondary: #fbbf24;
-        --rs-border: #92400e;
+    --rs-bg: #451a03;       /* Deep warm brown background */
+    --rs-surface: #78350f;  /* Lighter warm brown for elevated surfaces */
+    --rs-text: #fef3c7;     /* Pale amber/yellow text for readability */
+    --rs-primary: #f59e0b;  /* Amber/orange for primary actions */
+    --rs-secondary: #fbbf24;/* Bright yellow for secondary actions */
+    --rs-border: #92400e;   /* Dark burnt orange/brown for subtle borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-warm,
     body:not(.theme-light):not(.theme-dark).theme-warm {
---rs-bg: #451a03; /* Deep warm brown background */
+        --rs-bg: #451a03;       /* Deep warm brown background */
         --rs-surface: #78350f;
         --rs-text: #fef3c7;
         --rs-primary: #f59e0b;

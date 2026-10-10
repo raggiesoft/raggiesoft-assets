@@ -1,7 +1,23 @@
+/* ==============================================================================
+ * STARDUST ENGINE - EXTRAS (STANDARD)
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Global visual effects layer for the default Stardust theme. Implements 
+ * high-level polish features like text gradients, glassmorphism HUD systems, 
+ * and backfilled Bootstrap 5 utility classes that were missing from the core.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - HUD elements explicitly enforce white text (`!important`) to maintain legibility
+ *   against tinted semi-transparent backgrounds across both light and dark modes.
+ * - If you add new semantic colors (e.g., `--bs-purple`), ensure you create a 
+ *   corresponding `.bg-hud-purple` block here.
+ * ============================================================================== */
+
 /* extras-standard.css */
 /* Visual FX for the Default Stardust Theme */
 
 /* --- 1. Text Glows --- */
+/* Replaces standard text color with a WebKit gradient clip and drop shadow */
 .text-glow-primary {
     background: linear-gradient(45deg, var(--bs-primary), var(--bs-info));
     -webkit-background-clip: text;
@@ -14,6 +30,7 @@
    ALWAYS light text, regardless of Light/Dark mode. */
 
 /* Blue HUD (Info) */
+/* Employs backdrop-filter to blur underlying content for a glass aesthetic */
 .bg-hud-blue {
     background-color: rgba(var(--bs-info-rgb), 0.15); /* Slight tint */
     border: 1px solid rgba(var(--bs-info-rgb), 0.3);
@@ -49,6 +66,7 @@
 }
 
 /* --- 3. Card & Container Glows --- */
+/* Adds primary-colored outer glows to structural boxes */
 .border-glow {
     border: 1px solid rgba(var(--bs-primary-rgb), 0.5) !important;
     box-shadow: 0 0 15px rgba(var(--bs-primary-rgb), 0.15);
@@ -59,12 +77,14 @@
 }
 
 /* --- 4. Font Awesome Overrides --- */
+/* Maps standard FA duotone elements to the dynamic site theme variables */
 .fa-duotone {
     --fa-primary-color: var(--bs-primary);
     --fa-secondary-color: var(--bs-secondary);
 }
 
 /* --- 5. Responsive Utilities --- */
+/* Enforces a left border only on tablet sizing and above */
 @media (min-width: 768px) {
     .border-start-md {
         border-left: var(--bs-border-width) solid var(--bs-border-color) !important;
@@ -101,6 +121,7 @@
 
 /* .btn-outline-light */
 /* Required for "Crash of '90" navigation buttons on dark backgrounds */
+/* Manually injects CSS variables that are sometimes missing from custom BS builds */
 .btn-outline-light {
   --bs-btn-color: #f8f9fa;
   --bs-btn-border-color: #f8f9fa;
@@ -120,11 +141,13 @@
 
 /* --- Global Layout Fixes --- */
 /* Temporary fix: Force disable horizontal scrolling on all devices */
+/* Prevents mobile layout breaking caused by oversized padding/margins */
 html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
 
+/* Stylistic handwritten font mapping */
 .font-handwriting {
     font-family: 'Reenie Beanie', cursive;
     font-size: 1.5rem; /* It needs to be slightly larger to be readable */
@@ -157,6 +180,7 @@ html, body {
 }
 
 /* Hover Effect for Interactivity */
+/* Shifts pill styling dynamically on mouse-over */
 .skill-pill:hover {
     background-color: rgba(255, 255, 255, 0.15);
     border-color: var(--bs-primary);

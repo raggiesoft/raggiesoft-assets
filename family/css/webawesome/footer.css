@@ -1,8 +1,32 @@
-/* /portfolio/css/bootstrap/footer.css */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: footer.css
+ * ==========================================================================
+ * "Family/Portfolio" Theme - Footer Layout
+ * This stylesheet defines the basic structural properties for the global 
+ * footer element within the Family portfolio ecosystem.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Spacing & Structure: Sets top margins and padding to ensure visual 
+ *    breathing room from the main content block.
+ * 2. Theme Integration: Leverages Bootstrap CSS variables (`--bs-tertiary-bg`, 
+ *    `--bs-border-color`) to guarantee automatic styling shifts when the user 
+ *    toggles between light and dark modes.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - To change the footer's background color, do NOT hardcode a hex value 
+ *   here. Instead, update the `--bs-tertiary-bg` variable in `root.css` 
+ *   to ensure consistency across the application.
+ * ========================================================================== */
+
 footer {
+    /* Push the footer down from the primary content */
     margin-top: 4rem;
     padding: 2rem 0;
+    
+    /* Structural separator mapped to global theme variables */
     border-top: 1px solid var(--bs-border-color);
     background-color: var(--bs-tertiary-bg);
+    
+    /* Demote footer text priority slightly */
     font-size: 0.9rem;
 }

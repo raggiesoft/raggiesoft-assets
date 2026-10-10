@@ -1,35 +1,91 @@
+/**
+ * Architectural Block: Aquarium Theme Configuration
+ *
+ * This file defines the "Aquarium" theme for the application, providing a specific
+ * set of CSS variables (`--rs-*`) that govern the color palette across different
+ * color modes (Light, Dark, and OS Auto).
+ *
+ * Key Responsibilities:
+ * 1. Define the base/light mode color palette using ocean-inspired light blues.
+ * 2. Define the explicit dark mode color palette using deep sea blues.
+ * 3. Provide a media query fallback to automatically apply the dark mode
+ *    palette when the user's operating system is set to prefer a dark color scheme,
+ *    provided no explicit user override (light/dark) is active.
+ *
+ * Maintenance Notes:
+ * - When modifying colors, ensure there is sufficient contrast between `--rs-text`
+ *   and `--rs-surface`/`--rs-bg` for accessibility compliance.
+ * - The `--rs-primary` and `--rs-secondary` colors should ideally complement the
+ *   base background tones while drawing attention to interactive elements.
+ */
+
 /* Theme Name: Aquarium */
 
 /* Light Mode (Base) */
 body.theme-aquarium,
 body.theme-light.theme-aquarium {
---rs-bg: #e0f2fe; /* Light blue */
+    /* Main application background color (Light blue) */
+    --rs-bg: #e0f2fe;
+    
+    /* Background color for cards, panels, and distinct content areas */
     --rs-surface: #f0f9ff;
+    
+    /* Primary text color for readability against light backgrounds */
     --rs-text: #0f172a;
+    
+    /* Primary brand/accent color for primary actions, links, and buttons */
     --rs-primary: #0284c7;
+    
+    /* Secondary accent color for hover states or less prominent interactive elements */
     --rs-secondary: #38bdf8;
+    
+    /* Standard border color for structural separation */
     --rs-border: #bae6fd;
 }
 
 /* Dark Mode (Explicitly Forced) */
 body.theme-dark.theme-aquarium {
---rs-bg: #082f49; /* Deep sea blue */
-        --rs-surface: #0c4a6e;
-        --rs-text: #e0f2fe;
-        --rs-primary: #38bdf8;
-        --rs-secondary: #0284c7;
-        --rs-border: #0369a1;
+    /* Main application background color (Deep sea blue) */
+    --rs-bg: #082f49;
+    
+    /* Background color for content panels in dark mode */
+    --rs-surface: #0c4a6e;
+    
+    /* Light text color to ensure readability against dark backgrounds */
+    --rs-text: #e0f2fe;
+    
+    /* Vibrant primary accent color for high visibility in dark mode */
+    --rs-primary: #38bdf8;
+    
+    /* Secondary accent color for subdued interactive states */
+    --rs-secondary: #0284c7;
+    
+    /* Darker border color to maintain subtle separation in dark mode */
+    --rs-border: #0369a1;
 }
 
 /* OS Auto Dark Mode */
+/* Applies the dark mode palette automatically if the system preference is dark,
+   unless the user has explicitly selected the 'light' theme. */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-aquarium,
     body:not(.theme-light):not(.theme-dark).theme-aquarium {
---rs-bg: #082f49; /* Deep sea blue */
+        /* Main application background color (Deep sea blue) */
+        --rs-bg: #082f49;
+        
+        /* Background color for content panels */
         --rs-surface: #0c4a6e;
+        
+        /* Light text color for readability */
         --rs-text: #e0f2fe;
+        
+        /* Vibrant primary accent color */
         --rs-primary: #38bdf8;
+        
+        /* Secondary accent color */
         --rs-secondary: #0284c7;
+        
+        /* Subdued border color for dark mode */
         --rs-border: #0369a1;
     }
 }

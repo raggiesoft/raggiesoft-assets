@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SUNSTEAD SCOUR - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Sunstead Scour" reading theme for the Stardust 
+ * Engine. It utilizes intense purples, magentas, and fuchsias to create a 
+ * vibrant, otherworldly, or magical reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - soft pinkish-purple backgrounds)
+ *    - Forced Dark Mode (Deep violet backgrounds with bright fuchsia accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Scour */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-sunstead-scour,
 body.theme-light.theme-sunstead-scour {
-    --rs-bg: #fdf4ff;
-    --rs-surface: #fae8ff;
-    --rs-text: #4a044e;
-    --rs-primary: #86198f;
-    --rs-secondary: #a21caf;
-    --rs-border: #f5d0fe;
+    --rs-bg: #fdf4ff; /* Extremely pale fuchsia */
+    --rs-surface: #fae8ff; /* Soft, warm purple surface */
+    --rs-text: #4a044e; /* Dark plum text */
+    --rs-primary: #86198f; /* Vibrant magenta primary */
+    --rs-secondary: #a21caf; /* Brighter fuchsia secondary */
+    --rs-border: #f5d0fe; /* Light fuchsia border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-sunstead-scour {
-    --rs-bg: #3b0764;
-    --rs-surface: #2e1065;
-    --rs-text: #fdf4ff;
-    --rs-primary: #e879f9;
-    --rs-secondary: #d946ef;
-    --rs-border: #581c87;
+    --rs-bg: #3b0764; /* Deep, intense violet */
+    --rs-surface: #2e1065; /* Darker violet surface */
+    --rs-text: #fdf4ff; /* Pale fuchsia text */
+    --rs-primary: #e879f9; /* Bright, glowing magenta */
+    --rs-secondary: #d946ef; /* Intense pink secondary */
+    --rs-border: #581c87; /* Violet border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead-scour,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-scour {
-        --rs-bg: #3b0764;
+        --rs-bg: #3b0764; /* Matches Forced Dark Mode */
         --rs-surface: #2e1065;
         --rs-text: #fdf4ff;
         --rs-primary: #e879f9;

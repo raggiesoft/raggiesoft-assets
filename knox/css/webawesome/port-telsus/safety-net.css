@@ -1,7 +1,24 @@
+/* ==============================================================================
+ * PORT TELSUS (KNOX) - SAFETY NET
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Enforces base typography and generic interface components for the Port Telsus
+ * industrial aesthetic. It overrides Bootstrap's default clean look with a brutal,
+ * utilitarian "Terminal/Manifest" vibe heavily relying on monospace fonts and 
+ * hard-edged elements without soft shadows.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - Form controls explicitly disable box-shadows on focus to remove the modern
+ *   "glow" effect, replacing it with a hard primary border shift.
+ * - Scrollbar customization only works reliably on WebKit browsers. If cross-browser
+ *   styling becomes critical, consider using a JS-based scrollbar or `scrollbar-color`.
+ * ============================================================================== */
+
 /* safety-net.css - Industrial Standards */
 
 /* 1. Font Stack */
 /* Monospace Priority: The "Terminal" / "Manifest" aesthetic */
+/* Drives the foundational text across the site to simulate raw data readouts */
 body {
     font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
     font-size: 1.0rem; 
@@ -9,6 +26,7 @@ body {
 }
 
 /* Headings: Stamped/Stencil feel */
+/* Excludes headings from monospace, utilizing a tight-tracked system sans-serif */
 h1, h2, h3, h4, h5, h6, .navbar-brand {
     font-family: system-ui, -apple-system, sans-serif;
     font-weight: 900;
@@ -17,12 +35,14 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
 }
 
 /* 2. Selection (Scanner Data) */
+/* Reverses standard selection color to mirror an old CRT terminal selection */
 ::selection {
     background: var(--bs-primary);
     color: #000;
 }
 
 /* 3. Scrollbar (The Conveyor Belt) */
+/* Custom WebKit scrollbar matching the mechanical, heavy-industry theme */
 /* Chrome/Safari/Edge */
 ::-webkit-scrollbar {
     width: 12px;
@@ -37,6 +57,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
 }
 
 /* 4. Form Controls (Data Entry) */
+/* Overrides standard rounded forms into hard, square data entry points */
 .form-control {
     background-color: var(--bs-body-bg);
     border: 2px solid var(--bs-border-color);
@@ -45,6 +66,7 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
     border-radius: 0;
 }
 
+/* Strict focus state mirroring terminal inputs */
 .form-control:focus {
     background-color: #000;
     color: var(--bs-primary);

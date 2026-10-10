@@ -1,6 +1,21 @@
-/* header.css (Engine Room Records - Industrial Update) */
+/* ==============================================================================
+ * ENGINE ROOM RECORDS - INDUSTRIAL HEADER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet controls the primary site header and navigation bar. It is 
+ * built to be sticky, ensuring it remains visible across long track lists.
+ * It strictly enforces z-index stacking to prevent collisions with the 
+ * global audio player which sits immediately above it.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - The sticky header relies on `z-index: 1040`. The audio player MUST remain
+ *   at `1050` or higher to hover above it.
+ * - WebAwesome dropdowns (`wa-dropdown`) are manually forced to `1050` so their
+ *   panels overlay the sticky navbar cleanly.
+ * ============================================================================== */
 
 /* 1. Force the entire header wrapper above the main content */
+/* The header is stuck to the viewport top and layered just beneath the player */
 header {
     position: sticky;
     top: 0;
@@ -8,10 +23,12 @@ header {
 }
 
 /* 2. Enforce dropdown supremacy */
+/* Ensures WebAwesome dropdown panels break out and sit above navbar elements */
 wa-dropdown::part(panel) {
     z-index: 1050 !important;
 }
 
+/* Base Navbar Styling */
 header .navbar {
     font-family: var(--font-industrial);
     letter-spacing: 1px; /* Slightly wider for the stamped look */
@@ -19,6 +36,7 @@ header .navbar {
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Brand Logo Typography */
 header .navbar-brand {
     font-weight: 700;
     font-size: 1.5rem;
@@ -26,6 +44,7 @@ header .navbar-brand {
     letter-spacing: 1.5px;
 }
 
+/* Base Link Styling */
 header .nav-link {
     font-weight: 500;
     text-transform: uppercase;
@@ -34,6 +53,7 @@ header .nav-link {
 }
 
 /* Underline effect on hover mimicking a physical switch */
+/* An animated pseudo-element creates a sliding underline effect */
 header .nav-link::after {
     content: '';
     position: absolute;
@@ -45,22 +65,28 @@ header .nav-link::after {
     transition: width 0.3s ease;
 }
 
+/* Expand the underline on hover or when the link is active */
 header .nav-link:hover::after,
 header .nav-link.active::after {
     width: 100%;
 }
 
-/* Dark Mode: The "Restricted Access" Glow */
+/* ==========================================================================
+ * DARK MODE OVERRIDES (THE "RESTRICTED ACCESS" GLOW)
+ * ========================================================================== */
+/* Inverts the header into a harsh, high-contrast industrial interface */
 [data-bs-theme="dark"] header .navbar {
     background-color: rgba(10, 10, 12, 0.98) !important; /* Extremely dark gunmetal */
     border-bottom: 2px solid var(--bs-primary); /* Holly's Red Pen */
     box-shadow: 0 4px 20px rgba(255, 107, 107, 0.15); /* Aggressive Red Glow instead of cyan */
 }
 
-[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"] {
+/* Resets default hamburger icon borders for a cleaner look */
+[data-bs-theme="dark"] header wa-icon-button[name="bars"] {
     border-color: transparent; /* Rely on the hamburger animation spans */
 }
 
-[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"]:focus {
+/* Applies a red focus ring to the hamburger menu to match the theme */
+[data-bs-theme="dark"] header wa-icon-button[name="bars"]:focus {
     box-shadow: 0 0 0 0.25rem rgba(255, 107, 107, 0.25);
 }

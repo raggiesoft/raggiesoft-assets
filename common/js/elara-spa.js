@@ -1,6 +1,41 @@
 /**
- * RaggieSoft Elara SPA Router (Vanilla JS)
- * Replaces Turbo for lightweight, native page transitions.
+ * ============================================================================
+ * RAGGIESOFT ELARA SPA ROUTER - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * Elara is a lightweight, custom Vanilla JS Single Page Application (SPA) 
+ * router designed to replace heavy frameworks like Turbo or HTMX. It intercepts 
+ * native anchor link clicks, fetches the next page via AJAX, and seamlessly 
+ * swaps critical DOM zones to simulate instant page loads without a hard browser 
+ * refresh.
+ * 
+ * Core Mechanisms:
+ * 1. Link Interception: Listens to all `<a>` clicks, avoiding Bootstrap native 
+ *    toggles, external links, anchor hashes, and modifier-key clicks (Ctrl+Click).
+ * 2. Soft Navigation (navigateTo): 
+ *    - Fetches the HTML of the target URL.
+ *    - Parses it into a virtual DOM.
+ *    - Synchronizes `<head>` attributes, meta tags, and `<link>` stylesheets 
+ *      (purging obsolete ones and injecting new ones).
+ *    - Handles dark mode theme retention.
+ *    - Swaps out targeted DOM zones (header, #elara-layout-wrapper, footer).
+ *    - Re-evaluates injected `<script>` tags so dynamic content (like audio 
+ *      players) initializes correctly.
+ * 3. History Management: Uses the HTML5 History API (`pushState`/`popstate`) to 
+ *    ensure the browser's Back/Forward buttons continue to work natively.
+ * 4. Scroll & Focus Management: Explicitly manages scroll snapping and main-content 
+ *    focusing during transitions to ensure screen-reader accessibility and 
+ *    prevent visual "jumping".
+ * 5. Secure Mail Obfuscator: A bundled utility (`initializeSecureEmails`) that 
+ *    assembles `mailto:` links dynamically to thwart basic web scrapers.
+ * 
+ * Maintainability Notes:
+ * - When adding new persistent layout wrappers, ensure their IDs are added to 
+ *   the `swapZones` array.
+ * - The 15ms `setTimeout` in the post-scroll enforcement is critical for giving 
+ *   the browser's main thread time to calculate the height of the newly swapped DOM.
+ * ============================================================================
  */
 
 // Tell the browser to let Elara handle scroll positions natively
@@ -9,33 +44,33 @@ if ('scrollRestoration' in history) {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    // 1. Intercept all link clicks
+    // 1. Intercept all link clicks across the entire body
     document.body.addEventListener('click', async (e) => {
         const link = e.target.closest('a');
         if (!link) return;
 
         const href = link.getAttribute('href');
 
-        // 1. Let Bootstrap Native JS handle its own components
+        // 1. Let Bootstrap Native JS handle its own components (dropdowns, modals, tabs)
         if (link.hasAttribute('data-bs-toggle') || link.hasAttribute('data-bs-dismiss')) {
-            // Prevent the browser from jumping to the anchor hash
+            // Prevent the browser from jumping to the anchor hash if it's a dummy link
             if (href && href.startsWith('#')) e.preventDefault();
             return; 
         }
         
-        // 2. Ignore dead links and utility protocols
+        // 2. Ignore dead links and utility protocols (javascript, mailto, tel)
         if (!href || href === '#' || href.startsWith('javascript:') || href.startsWith('mailto:') || href.startsWith('tel:')) {
             if (href === '#') e.preventDefault();
             return;
         }
 
-        // 3. Ignore new tabs or modifier-key clicks
+        // 3. Ignore new tabs or modifier-key clicks (allow native OS behavior)
         if (link.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey) return;
 
         const targetUrl = new URL(link.href, window.location.href);
         const currentUrl = new URL(window.location.href);
 
-        // 4. Ignore external links
+        // 4. Ignore external links (cross-origin navigation requires a hard reload)
         if (targetUrl.origin !== currentUrl.origin) return;
         
         // 5. Robustly handle same-page anchor hash links natively without triggering reloads
@@ -44,29 +79,29 @@ document.addEventListener('DOMContentLoaded', () => {
             const targetId = targetUrl.hash.substring(1);
             const targetElement = document.getElementById(targetId);
             if (targetElement) {
-                // Smooth scroll to the part
+                // Smooth scroll to the part natively
                 targetElement.scrollIntoView({ behavior: 'smooth' });
-                // Update URL without reloading
+                // Update URL history state without reloading the page
                 window.history.pushState(null, null, targetUrl.hash);
             }
             return;
         }
         
-        // Handle empty hash edge case
+        // Handle empty hash edge case (e.g. href="page#")
         if (targetUrl.pathname === currentUrl.pathname && link.href.endsWith('#')) {
             e.preventDefault();
             return;
         }
 
-        // Prevent the hard reload
+        // Prevent the hard browser reload
         e.preventDefault();
         
-        // Execute the soft navigation
+        // Execute the soft SPA navigation
         await navigateTo(targetUrl.href);
     });
 
 
-    // 2. Handle Browser Back/Forward Buttons
+    // 2. Handle Browser Back/Forward Buttons natively via history stack
     window.addEventListener('popstate', async (e) => {
         // Pass false to prevent pushing a duplicate state to the history stack
         await navigateTo(window.location.href, false);
@@ -75,8 +110,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 
+/**
+ * Core Navigation Engine
+ * Fetches the requested URL, parses it, and swaps DOM elements.
+ * 
+ * @param {string} url - The target URL to load.
+ * @param {boolean} pushState - Whether to update the history API (false during popstate).
+ */
 async function navigateTo(url, pushState = true) {
-    // Fire event to trigger your UI loader animation
+    // Fire event to trigger UI loader animations globally
     document.dispatchEvent(new CustomEvent('elara:navigating'));
 
     try {
@@ -84,16 +126,18 @@ async function navigateTo(url, pushState = true) {
         if (!response.ok) throw new Error(`HTTP error! status: ${response.status}`);
         const htmlString = await response.text();
 
+        // Parse the incoming HTML string into a queryable virtual DOM
         const parser = new DOMParser();
         const doc = parser.parseFromString(htmlString, 'text/html');
 
         const newTitle = doc.querySelector('title')?.innerText;
+        // Verify the incoming page has the expected SPA layout wrapper
         let hasCoreLayout = doc.querySelector('#elara-layout-wrapper');
 
         if (hasCoreLayout) {
             // --- 1. HEAD & META SYNC ENGINE ---
 
-            // Sync HTML tag attributes (Critical for forced dark-mode themes)
+            // Sync HTML tag attributes (Critical for forced dark-mode themes or language changes)
             const newHtmlAttrs = Array.from(doc.documentElement.attributes);
             const currentHtmlAttrs = Array.from(document.documentElement.attributes);
 
@@ -109,26 +153,26 @@ async function navigateTo(url, pushState = true) {
                 document.documentElement.setAttribute(attr.name, attr.value);
             });
 
-            // 3. THE SYSTEM RESTORE: Re-apply OS preference if Elara purged the theme
+            // 3. THE SYSTEM RESTORE: Re-apply OS preference if Elara purged the theme attribute
             if (!doc.documentElement.hasAttribute('data-bs-theme')) {
                 const storedTheme = localStorage.getItem('theme');
                 const preferredTheme = storedTheme ? storedTheme : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
                 document.documentElement.setAttribute('data-bs-theme', preferredTheme);
             }
 
-            // Diff and Update Stylesheets
+            // Diff and Update Stylesheets to prevent CSS leakage or memory leaks
             const getBaseHref = (link) => link.href.split('?')[0]; // Ignore ?v= timestamps for diffing
             const newLinks = Array.from(doc.querySelectorAll('link[rel="stylesheet"]'));
             const oldLinks = Array.from(document.querySelectorAll('link[rel="stylesheet"]'));
 
-            // Add new stylesheets
+            // Add new stylesheets that are missing in the current DOM
             newLinks.forEach(newLink => {
                 if (!oldLinks.some(old => getBaseHref(old) === getBaseHref(newLink))) {
                     document.head.appendChild(newLink.cloneNode(true));
                 }
             });
 
-            // Remove obsolete stylesheets
+            // Remove obsolete stylesheets that are no longer needed
             oldLinks.forEach(oldLink => {
                 if (!newLinks.some(newEl => getBaseHref(newEl) === getBaseHref(oldLink))) {
                     oldLink.remove();
@@ -139,6 +183,7 @@ async function navigateTo(url, pushState = true) {
             const newHeadStyles = Array.from(doc.head.querySelectorAll('style'));
             const oldHeadStyles = Array.from(document.head.querySelectorAll('style'));
 
+            // Naively remove all old inline styles and inject all new ones
             oldHeadStyles.forEach(style => style.remove());
             newHeadStyles.forEach(style => document.head.appendChild(style.cloneNode(true)));
 
@@ -153,7 +198,7 @@ async function navigateTo(url, pushState = true) {
 
 
             // --- 2A. PRE-SCROLL LOCK ---
-            // Assassinate smooth scrolling BEFORE the DOM height changes
+            // Assassinate smooth scrolling BEFORE the DOM height changes to prevent jumping
             document.documentElement.style.scrollBehavior = 'auto';
 
             // Snap to top while the old (potentially taller) DOM is still intact
@@ -163,6 +208,7 @@ async function navigateTo(url, pushState = true) {
 
 
             // --- 3. DOM ZONE SWAPPING ---
+            // Define the specific layout regions that need to be updated
             const swapZones = [
                 'header',                    
                 '#elara-layout-wrapper',     
@@ -174,22 +220,27 @@ async function navigateTo(url, pushState = true) {
                 const currentEl = document.querySelector(selector);
                 
                 if (newEl && currentEl) {
+                    // Perform the actual DOM node replacement
                     currentEl.replaceWith(newEl);
 
-                    // Re-evaluate injected scripts so the audio player fires
+                    // Re-evaluate injected scripts so dynamic logic (like audio player) fires
+                    // Browser won't execute scripts inserted via innerHTML or replaceWith natively
                     const newlyInjectedEl = document.querySelector(selector);
                     const scripts = newlyInjectedEl.querySelectorAll('script');
                     
                     scripts.forEach(oldScript => {
                         const newScript = document.createElement('script');
+                        // Copy all attributes (src, type, defer, etc)
                         Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
+                        // Copy inline code
                         newScript.appendChild(document.createTextNode(oldScript.innerHTML));
+                        // Replace in DOM to trigger browser execution
                         oldScript.parentNode.replaceChild(newScript, oldScript);
                     });
                 }
             });
 
-            // Update title and URL
+            // Update document title and URL bar
             if (newTitle) document.title = newTitle;
             if (pushState) window.history.pushState({ url: url }, newTitle, url);
 
@@ -200,39 +251,47 @@ async function navigateTo(url, pushState = true) {
 
             // A 15ms timeout ensures the main thread's render queue has fully cleared
             setTimeout(() => {
-                // Enforce the 0,0 scroll axes
+                // Enforce the 0,0 scroll axes one final time
                 window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
                 document.documentElement.scrollTop = 0;
                 document.body.scrollTop = 0;
 
                 // THE ANCHOR: Physically move the browser's active focus to the main content area
+                // This is crucial for screen readers to start reading the new page content
                 const mainContent = document.getElementById('main-content') || document.body;
                 mainContent.setAttribute('tabindex', '-1');
                 mainContent.focus({ preventScroll: true }); 
                 if (mainContent === document.body) mainContent.removeAttribute('tabindex');
 
-                // Resurrect smooth scrolling for the user
+                // Resurrect smooth scrolling for the user for normal in-page anchor links
                 document.documentElement.style.scrollBehavior = '';
 
-                // Dispatch the event
+                // Dispatch event to announce the page load is complete (hides loaders)
                 document.dispatchEvent(new CustomEvent('elara:loaded'));
             }, 15);
 
         } else {
+            // Fallback: If the incoming HTML doesn't have the wrapper, do a hard reload
             window.location.href = url;
         }
     } catch (error) {
+        // Fallback: If the fetch fails or errors out, do a hard reload
         console.error('Elara SPA Error:', error);
         window.location.href = url;
     }
 }
 
 // --- ELARA SECURE MAIL OBFUSCATOR ---
+/**
+ * Scans for elements with the .elara-secure-mail class and constructs
+ * clickable mailto links dynamically to prevent basic bot scraping.
+ */
 function initializeSecureEmails() {
     document.querySelectorAll('.elara-secure-mail').forEach(link => {
-        // Prevent double-binding on SPA transitions
+        // Prevent double-binding on SPA transitions to save cycles
         if (link.dataset.secured === "true") return;
         
+        // Extract obfuscated data attributes
         const user = link.getAttribute('data-u');
         const domain = link.getAttribute('data-d');
         const tld = link.getAttribute('data-t');
@@ -241,7 +300,7 @@ function initializeSecureEmails() {
             // Assemble the email in memory
             const email = `${user}@${domain}.${tld}`;
             
-            // Set the href for the user
+            // Set the href for the user so it acts as a normal mail link
             link.setAttribute('href', `mailto:${email}`);
             
             // Mark as processed so it doesn't run again on this specific link

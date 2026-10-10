@@ -1,30 +1,66 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: SUNSTEAD PEACE DISRUPTED
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines the "Sunstead Peace Disrupted" theme, characterized by stark,
+ * urgent red accents contrasting against neutral greys and blacks. It represents
+ * a high-tension or alert state in the UI.
+ * 
+ * Key Design Elements:
+ * - Employs a strict hierarchy of light/dark modes using specificity-driven selectors.
+ * - Variables map directly into the core application's `--rs-*` color structure.
+ * 
+ * Maintenance Notes:
+ * - Selector specificity must be strictly maintained (`body.theme-light.theme-sunstead-peace-disrupted`)
+ *   so explicit user toggles always override OS-level (`prefers-color-scheme`) preferences.
+ * - The `theme-auto` class handles the bridging logic between manual toggle states
+ *   and system preferences.
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Peace Disrupted */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Applies as the default when no specific mode is forced, or when Light Mode is explicitly chosen */
 body.theme-sunstead-peace-disrupted,
 body.theme-light.theme-sunstead-peace-disrupted {
-    --rs-bg: #fafafa;
-    --rs-surface: #f4f4f5;
-    --rs-text: #27272a;
-    --rs-primary: #b91c1c;
-    --rs-secondary: #dc2626;
-    --rs-border: #e4e4e7;
+    --rs-bg: #fafafa; /* Off-white background for reduced glare */
+    --rs-surface: #f4f4f5; /* Slightly raised grey surface for cards */
+    --rs-text: #27272a; /* Deep zinc-grey for highly legible text */
+    --rs-primary: #b91c1c; /* Urgent, deep red accent indicating 'disruption' */
+    --rs-secondary: #dc2626; /* Brighter red for hover states and secondary emphasis */
+    --rs-border: #e4e4e7; /* Subtle zinc border for structural division */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Takes precedence only when the user explicitly forces the UI into Dark Mode */
 body.theme-dark.theme-sunstead-peace-disrupted {
-    --rs-bg: #18181b;
-    --rs-surface: #27272a;
-    --rs-text: #fafafa;
-    --rs-primary: #ef4444;
-    --rs-secondary: #f87171;
-    --rs-border: #3f3f46;
+    --rs-bg: #18181b; /* Extremely dark zinc background */
+    --rs-surface: #27272a; /* Lighter zinc surface color to lift elements */
+    --rs-text: #fafafa; /* Bright off-white text for dark contrast */
+    --rs-primary: #ef4444; /* Vivid red accent, brightened for dark backgrounds */
+    --rs-secondary: #f87171; /* Softened red for secondary text/elements */
+    --rs-border: #3f3f46; /* Mid-tone zinc border to separate dark elements */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Evaluates system preferences via media query when the user hasn't made an explicit choice */
 @media (prefers-color-scheme: dark) {
+    /* 
+     * Targets `theme-auto` or the absence of both `theme-light` and `theme-dark`.
+     * This ensures manual overrides (like clicking a light-mode button) will break out
+     * of this media query's influence.
+     */
     body.theme-auto.theme-sunstead-peace-disrupted,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-peace-disrupted {
+        /* Mirrored from the Explicit Dark Mode palette */
         --rs-bg: #18181b;
         --rs-surface: #27272a;
         --rs-text: #fafafa;

@@ -1,5 +1,26 @@
-/* header.css (Crimson Node - Vanguard Update) */
+/**
+ * ============================================================================
+ * FILE: header.css (Crimson Node - Vanguard Update)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Contains layout and styling logic specifically for the primary site header 
+ * and navigation. It implements a sticky header behavior, dropdown z-index 
+ * layering, and custom hover animations for navigation links.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Integrates with WebAwesome components (e.g., wa-dropdown, wa-icon-button).
+ * - Utilizes Bootstrap's grid/flex utilities implicitly alongside these custom styles.
+ * - Provides distinct thematic adjustments for `data-bs-theme="dark"`.
+ * 
+ * FUTURE MAINTENANCE:
+ * - If the z-index stack of the application changes, update `.navbar` and 
+ *   `wa-dropdown` z-indices here.
+ * - Ensure the `width 0.3s ease` transition on `.nav-link::after` remains 
+ *   performant.
+ * ============================================================================
+ */
 
+/* Header Base - Defines sticky positioning and core stacking context */
 header {
     position: sticky;
     top: 0;

@@ -1,17 +1,42 @@
-/* /portfolio/css/bootstrap/safety-net.css */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: safety-net.css
+ * ==========================================================================
+ * "Family/Portfolio" Theme - Accessibility & Safety Overrides
+ * This file serves as a global patch layer, enforcing accessibility 
+ * requirements (WCAG contrast ratios, focus outlines) that might otherwise 
+ * be stripped or obfuscated by aggressive theme resets.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Focus Management: Ensures keyboard navigation remains highly visible.
+ * 2. Contrast Guarantee: Hardcodes specific hex values for muted text to 
+ *    ensure legibility across both Light and Dark mode backgrounds.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - If the core `--bs-body-bg` or `--bs-body-color` variables change 
+ *   drastically in `root.css`, verify that the hardcoded `#6c757d` and 
+ *   `#8b949e` hex values here still pass WCAG AA contrast checks.
+ * ========================================================================== */
 
-/* Enforce Focus Indicators for Accessibility */
+/* --------------------------------------------------------------------------
+ * 1. Enforce Focus Indicators for Accessibility
+ * -------------------------------------------------------------------------- */
+/* Ensures keyboard users always see a clear focus ring, independent of mouse clicks */
 :focus-visible {
     outline: 3px solid var(--bs-primary);
     outline-offset: 2px;
 }
 
-/* Ensure sufficient contrast for text-muted */
+/* --------------------------------------------------------------------------
+ * 2. Ensure sufficient contrast for `.text-muted` utilities
+ * -------------------------------------------------------------------------- */
+/* Standard light mode muted text */
 .text-muted {
-    color: #6c757d !important; /* WCAG AA Large compatible on white */
+    color: #6c757d !important; /* WCAG AA Large compatible against white backgrounds */
 }
+
+/* System-level Dark Mode Override */
 @media (prefers-color-scheme: dark) {
     .text-muted {
-        color: #8b949e !important; /* Compatible on dark */
+        color: #8b949e !important; /* Compatible against deep dark backgrounds (#121212) */
     }
 }

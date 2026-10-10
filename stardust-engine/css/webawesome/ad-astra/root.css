@@ -1,27 +1,52 @@
-/* root-ad-astra.css */
-/* The Stardust Engine - "Escape Velocity" Theme */
-/* Concept: The Void. Infinite Black. Neon Highlights. */
+/* ==========================================================================
+ * root-ad-astra.css
+ * ==========================================================================
+ * 
+ * ARCHITECTURAL OVERVIEW:
+ * The Stardust Engine - "Escape Velocity" Theme
+ * Concept: The Void. Infinite Black. Neon Highlights.
+ * 
+ * This file defines the core CSS variables for the "Ad Astra" (Void/Escape Velocity) 
+ * theme. It operates by mapping custom semantic variables to Bootstrap's native 
+ * variable structures and further extending into Web Awesome's design tokens.
+ * 
+ * DESIGN PHILOSOPHY:
+ * - A forced "dark mode" aesthetic regardless of system or user preference.
+ * - Deep space blacks combined with high-contrast, neon-esque accents.
+ * 
+ * USAGE NOTES:
+ * Modify the core --astra-* variables here to globally affect the theme's color 
+ * palette across Bootstrap and Web Awesome components.
+ * ========================================================================== */
 
 :root {
   /* --- AD ASTRA PALETTE --- */
-  --astra-void: #050508;       /* Deepest Black */
-  --astra-text: #E0E0FF;       /* Starlight White */
-  --astra-primary: #7000FF;    /* Deep Violet (The Engine) */
-  --astra-secondary: #B0B0C0;  /* Hull Grey */
-  --astra-success: #00FF9D;    /* HUD Green */
-  --astra-info: #00FFFF;       /* HUD Cyan */
-  --astra-warning: #FFD700;    /* Star Gold */
-  --astra-danger: #FF0055;     /* Alert Red */
+  /* Foundational color palette used throughout the theme mapping */
+  --astra-void: #050508;       /* Deepest Black - Serves as the primary background */
+  --astra-text: #E0E0FF;       /* Starlight White - Primary text color for contrast against the void */
+  --astra-primary: #7000FF;    /* Deep Violet (The Engine) - Main brand and interactive color */
+  --astra-secondary: #B0B0C0;  /* Hull Grey - Used for muted text, borders, and secondary elements */
+  --astra-success: #00FF9D;    /* HUD Green - Positive semantic indicators */
+  --astra-info: #00FFFF;       /* HUD Cyan - Informational semantic indicators and links */
+  --astra-warning: #FFD700;    /* Star Gold - Warning semantic indicators */
+  --astra-danger: #FF0055;     /* Alert Red - Destructive or critical semantic indicators */
 }
 
-/* FORCE OVERRIDE: Apply to ALL modes */
+/* ==========================================================================
+ * FORCE OVERRIDE: Apply to ALL modes
+ * ==========================================================================
+ * By targeting :root as well as both explicit [data-bs-theme] attributes,
+ * we ensure that this theme ignores normal light/dark mode toggles and 
+ * remains locked into its dark "Void" aesthetic.
+ * ========================================================================== */
 :root,
 [data-bs-theme="light"],
 [data-bs-theme="dark"] {
     
     /* --- BOOTSTRAP MAPPING --- */
+    /* Map our custom palette to Bootstrap's expected semantic variables */
     --bs-primary: var(--astra-primary);
-    --bs-primary-rgb: 112, 0, 255;
+    --bs-primary-rgb: 112, 0, 255; /* RGB version required for Bootstrap utility classes that use opacity */
     
     --bs-secondary: var(--astra-secondary);
     --bs-secondary-rgb: 176, 176, 192;
@@ -31,21 +56,26 @@
     --bs-warning: var(--astra-warning);
     --bs-danger: var(--astra-danger);
     
+    /* Invert expected light/dark meanings to enforce the dark theme */
     --bs-light: var(--astra-text);
     --bs-dark: var(--astra-void);
 
     /* --- THE VOID (Forced Dark Mode) --- */
+    /* Override Bootstrap's core body backgrounds */
     --bs-body-bg: var(--astra-void);
     --bs-body-bg-rgb: 5, 5, 8;
     
+    /* Override Bootstrap's core body text colors */
     --bs-body-color: var(--astra-text);
     --bs-body-color-rgb: 224, 224, 255;
     
+    /* Set a subtle grey for universal borders */
     --bs-border-color: #4B4B60;
     
     /* Links (High Contrast for Space) */
+    /* Use the cyan info color for links to pop against the dark background */
     --bs-link-color: var(--astra-info);
-    --bs-link-hover-color: #FFFFFF;
+    --bs-link-hover-color: #FFFFFF; /* Brighten to pure white on hover */
 
     /* --- NAVBAR OVERRIDES (The Fix) --- */
     /* Forces the navbar to use light text against the void, 
@@ -58,42 +88,55 @@
 
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
- * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ==========================================================================
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens.
+ * This ensures that any Web Awesome web components drop seamlessly into the
+ * layout and inherit the Ad Astra color scheme without manual styling.
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"],
 .wa-theme-dark {
+  /* Brand mappings */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
   
+  /* Semantic danger mappings */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
   
+  /* Semantic warning mappings */
   --wa-color-warning-fill-loud: var(--bs-warning);
   --wa-color-warning-text-loud: var(--bs-warning);
   --wa-color-warning-border-loud: var(--bs-warning);
   
+  /* Semantic success mappings */
   --wa-color-success-fill-loud: var(--bs-success);
   --wa-color-success-text-loud: var(--bs-success);
   --wa-color-success-border-loud: var(--bs-success);
 
+  /* Semantic info mappings */
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
   
+  /* Surface colors (backgrounds for cards, modals, etc.) */
   --wa-color-surface-default: var(--bs-body-bg);
+  /* Raised and lowered surfaces use subtle transparent overlays */
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  /* Text color mappings */
   --wa-color-text-body: var(--bs-body-color);
   --wa-color-text-normal: var(--bs-body-color);
   --wa-color-neutral-text-body: var(--bs-body-color);
   --wa-color-neutral-text-normal: var(--bs-body-color);
   
+  /* Muted text mappings */
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
+  /* Border mappings */
   --wa-color-neutral-border-quiet: var(--bs-border-color);
   --wa-color-surface-border: var(--bs-border-color);
 }

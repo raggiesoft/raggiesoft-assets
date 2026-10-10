@@ -1,11 +1,29 @@
 /* ==========================================================================
-   RAGGIESOFT AERO EXTRAS
-   Purpose: Frutiger Aero / Dark Aero global utilities and components.
-   ========================================================================== */
+ * ARCHITECTURAL OVERVIEW: extras.css (RaggieSoft Corporate Theme)
+ * ==========================================================================
+ * RAGGIESOFT AERO EXTRAS
+ * Purpose: Frutiger Aero / Dark Aero global utilities and components.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Global UI Fixes: Scrollbar overrides and text selection coloring.
+ * 2. Visual Effects: Glows, volumetric HUDs (Glass panels), and CRT bloom.
+ * 3. Components: Aero hero banners, glass buttons, and card lifts.
+ * 4. Interactivity: Konami code easter eggs and animations.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - This file is heavy on `backdrop-filter` and `-webkit-backdrop-filter`. 
+ *   Do not remove the vendor prefixes; they are required for iOS Safari.
+ * - The `.theme-img-dark` and `.theme-img-light` utility classes must remain
+ *   in sync with the DOM's `[data-bs-theme]` attribute to seamlessly swap 
+ *   images without JS intervention.
+ * ========================================================================== */
 
-/* --- 1. Global Layout & Selection Fixes --- */
+/* --------------------------------------------------------------------------
+ * 1. Global Layout & Selection Fixes
+ * -------------------------------------------------------------------------- */
 html, body {
     max-width: 100%;
+    /* Prevent horizontal scrolling caused by blooming shadows or off-axis transforms */
     overflow-x: hidden;
 }
 
@@ -14,11 +32,14 @@ html, body {
     background: rgba(0, 130, 230, 0.4); /* var(--mpr-blue-500) with transparency */
     color: inherit;
 }
+/* Swap to Neon Cyan in Dark Mode */
 [data-bs-theme="dark"] ::selection {
     background: rgba(0, 229, 255, 0.4); /* var(--mpr-cyan-400) */
 }
 
-/* --- 2. Aero Custom Scrollbar --- */
+/* --------------------------------------------------------------------------
+ * 2. Aero Custom Scrollbar
+ * -------------------------------------------------------------------------- */
 /* Replacing the flat modern scrollbar with a glossy, pill-like track */
 ::-webkit-scrollbar {
     width: 14px;
@@ -28,6 +49,7 @@ html, body {
     border-left: 1px solid var(--bs-border-color);
 }
 ::-webkit-scrollbar-thumb {
+    /* Glossy metallic gradient */
     background: linear-gradient(90deg, #b0c4de 0%, #8fa8c7 100%);
     border-radius: 10px;
     border: 3px solid transparent; /* Creates padding around the thumb */
@@ -38,6 +60,7 @@ html, body {
     background-clip: padding-box;
 }
 
+/* Dark Mode Scrollbar Overrides */
 [data-bs-theme="dark"] ::-webkit-scrollbar-track {
     background: rgba(0, 0, 0, 0.3);
 }
@@ -50,7 +73,9 @@ html, body {
     background-clip: padding-box;
 }
 
-/* --- 3. Text Glows & CRT Bloom --- */
+/* --------------------------------------------------------------------------
+ * 3. Text Glows & CRT Bloom
+ * -------------------------------------------------------------------------- */
 .text-glow-primary {
     /* Upgraded from a flat gradient clip to a true CRT/Aero bloom */
     color: var(--bs-primary);
@@ -60,7 +85,9 @@ html, body {
     text-shadow: 0 0 15px rgba(0, 229, 255, 0.7), 0 0 30px rgba(0, 229, 255, 0.3);
 }
 
-/* --- 4. The Aero HUD System (Volumetric Glass Panels) --- */
+/* --------------------------------------------------------------------------
+ * 4. The Aero HUD System (Volumetric Glass Panels)
+ * -------------------------------------------------------------------------- */
 
 /* Base HUD styling for all panels */
 .bg-hud-base {
@@ -123,14 +150,18 @@ html, body {
     border-radius: 12px;
 }
 
-/* --- 5. Font Awesome Duotone Aero Fix --- */
+/* --------------------------------------------------------------------------
+ * 5. Font Awesome Duotone Aero Fix
+ * -------------------------------------------------------------------------- */
 .fa-duotone {
     --fa-primary-color: var(--bs-primary);
     --fa-secondary-color: var(--bs-secondary);
     --fa-secondary-opacity: 0.4;
 }
 
-/* --- 6. Utility Overrides --- */
+/* --------------------------------------------------------------------------
+ * 6. Utility Overrides
+ * -------------------------------------------------------------------------- */
 .img-white {
     filter: brightness(0) invert(1);
 }
@@ -141,7 +172,9 @@ html, body {
     filter: brightness(0) invert(1) drop-shadow(0 0 12px var(--mpr-cyan-400));
 }
 
-/* --- 7. THE KONAMI EASTER EGG (Aero Pulse) --- */
+/* --------------------------------------------------------------------------
+ * 7. THE KONAMI EASTER EGG (Aero Pulse)
+ * -------------------------------------------------------------------------- */
 /* Apply this class via JavaScript when the code is entered */
 .konami-activated {
     animation: aero-pulse 3s infinite alternate ease-in-out;
@@ -169,7 +202,9 @@ html, body {
     }
 }
 
-/* Theme-Aware Image Swapping Utilities */
+/* --------------------------------------------------------------------------
+ * 8. Theme-Aware Image Swapping Utilities
+ * -------------------------------------------------------------------------- */
 .theme-img-dark { 
     display: none; 
 }
@@ -182,7 +217,9 @@ html, body {
     display: block; 
 }
 
-/* --- CONSOLIDATED AERO HERO & COMPONENTS --- */
+/* --------------------------------------------------------------------------
+ * 9. CONSOLIDATED AERO HERO & COMPONENTS
+ * -------------------------------------------------------------------------- */
 .aero-hero {
     position: relative;
     overflow: hidden;

@@ -1,9 +1,25 @@
+/* ==============================================================================
+ * STARDUST ENGINE - CORE UI COMPONENTS (RaggieSoft UI)
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet serves as a lightweight, framework-agnostic UI kit designed to 
+ * replace Web Awesome Shadow DOM components. It leverages standard CSS variables 
+ * (`--rs-*`) to ensure seamless theming across different properties (Light/Dark).
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - The `.rs-*` namespace is strictly enforced to prevent collisions with 
+ *   Bootstrap (`.bs-*`) or WebAwesome (`.wa-*`).
+ * - Variables fall back to hardcoded defaults (e.g., `#0d6efd`) ensuring the UI 
+ *   renders safely even if the root theme CSS fails to load.
+ * ============================================================================== */
+
 /* =========================================================
    STARDUST ENGINE - CORE UI COMPONENTS
    Replaces Web Awesome Shadow DOM components
    ========================================================= */
 
 /* --- Typography & Base --- */
+/* Establishes the foundational theme mapping for the entire document body */
 body {
     background-color: var(--rs-bg, #ffffff);
     color: var(--rs-text, #000000);
@@ -12,6 +28,7 @@ body {
 }
 
 /* --- Buttons (.rs-btn) --- */
+/* Core button component mapping flexbox for icon+text alignment */
 .rs-btn {
     display: inline-flex;
     align-items: center;
@@ -26,25 +43,33 @@ body {
     vertical-align: middle;
     cursor: pointer;
     user-select: none;
+    
+    /* Theme color mapping */
     border: 1px solid var(--rs-color-primary-600, #0d6efd);
     border-radius: var(--rs-border-radius-medium, 0.25rem);
     background-color: var(--rs-color-primary-600, #0d6efd);
     color: var(--rs-color-neutral-0, #ffffff);
+    
     transition: all 0.2s ease-in-out;
     text-decoration: none;
 }
+
+/* Button interactive hover states */
 .rs-btn:hover {
     background-color: var(--rs-color-primary-700, #0b5ed7);
     border-color: var(--rs-color-primary-700, #0a58ca);
     color: var(--rs-color-neutral-0, #ffffff);
     text-decoration: none;
 }
+
+/* Button disabled state utilizing opacity instead of altering colors directly */
 .rs-btn[disabled] {
     opacity: 0.65;
     pointer-events: none;
 }
 
 /* --- Modals / Dialogs (.rs-modal) --- */
+/* Native HTML dialog styling or custom wrapper for centered popups */
 .rs-modal {
     padding: 1.5rem;
     border: 1px solid var(--rs-color-neutral-200, #e5e7eb);
@@ -56,12 +81,15 @@ body {
     width: 90%;
     margin: auto;
 }
+
+/* Utilizes the native ::backdrop pseudo-element for dimming the background */
 .rs-modal::backdrop {
     background: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(2px);
 }
 
 /* --- Sidebar / Drawers (.rs-sidebar) --- */
+/* Off-canvas sidebar component initialized off-screen (-100%) */
 .rs-sidebar {
     position: fixed;
     top: 0;
@@ -78,11 +106,14 @@ body {
     padding: 1rem;
     box-shadow: 4px 0 10px rgba(0,0,0,0.1);
 }
+
+/* Trigger class to slide the sidebar into the viewport */
 .rs-sidebar.open {
     transform: translateX(0);
 }
 
 /* --- Badges (.rs-badge) --- */
+/* Inline status indicators, fully rounded */
 .rs-badge {
     display: inline-block;
     padding: 0.25em 0.6em;
@@ -98,9 +129,12 @@ body {
 }
 
 /* --- Trees / Accordions (.rs-tree) --- */
+/* Tree-view component utilizing native <details> and <summary> tags */
 .rs-tree {
     margin-bottom: 0.5rem;
 }
+
+/* Summary element acts as the clickable tree node */
 .rs-tree summary {
     cursor: pointer;
     padding: 0.5rem;
@@ -110,9 +144,13 @@ body {
     align-items: center;
     border-radius: 4px;
 }
+
+/* Cross-browser normalization for hiding default summary markers */
 .rs-tree summary::-webkit-details-marker {
     display: none; /* Hide default arrow in webkit */
 }
+
+/* Custom CSS-drawn arrow for consistent tree styling */
 .rs-tree summary::before {
     content: '\25B6'; /* Right arrow */
     font-size: 0.8em;
@@ -120,18 +158,25 @@ body {
     transition: transform 0.2s;
     color: var(--rs-color-neutral-500, #6c757d);
 }
+
+/* Rotates the custom arrow when the parent <details> is open */
 .rs-tree[open] > summary::before {
     transform: rotate(90deg);
 }
+
+/* Hover indication for tree nodes */
 .rs-tree summary:hover {
     background-color: var(--rs-color-neutral-100, #f8f9fa);
 }
+
+/* Indents child items within the tree */
 .rs-tree > .rs-tree-item {
     padding-left: 1.5rem;
     margin-top: 0.25rem;
 }
 
 /* --- Generic Overrides --- */
+/* Ensures anchor tags styled as buttons do not display underlines */
 a.rs-btn {
     text-decoration: none;
 }

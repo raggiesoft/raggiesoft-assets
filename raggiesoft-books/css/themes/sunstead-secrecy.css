@@ -1,35 +1,90 @@
+/**
+ * Architectural Block: Sunstead Secrecy Theme Configuration
+ *
+ * This file defines the "Sunstead Secrecy" theme for the application, providing a specific
+ * set of CSS variables (`--rs-*`) that govern the color palette across different
+ * color modes (Light, Dark, and OS Auto).
+ *
+ * Key Responsibilities:
+ * 1. Define the base/light mode color palette using a very stark, high-contrast greyscale/slate scheme.
+ * 2. Define the explicit dark mode color palette using deep slate/black colors.
+ * 3. Provide a media query fallback to automatically apply the dark mode
+ *    palette when the user's operating system is set to prefer a dark color scheme,
+ *    provided no explicit user override (light/dark) is active.
+ *
+ * Maintenance Notes:
+ * - When modifying colors, ensure there is sufficient contrast between `--rs-text`
+ *   and `--rs-surface`/`--rs-bg` for accessibility compliance.
+ * - This theme uses slate greys (#f8fafc, #020617) to provide a stark, serious tone.
+ */
+
 /* Theme Name: Sunstead Secrecy */
 
 /* Light Mode (Base) */
 body.theme-sunstead-secrecy,
 body.theme-light.theme-sunstead-secrecy {
+    /* Main application background color (Very light slate) */
     --rs-bg: #f8fafc;
+    
+    /* Background color for cards, panels, and distinct content areas */
     --rs-surface: #f1f5f9;
+    
+    /* Primary text color for readability against light backgrounds */
     --rs-text: #0f172a;
+    
+    /* Primary brand/accent color for primary actions, links, and buttons */
     --rs-primary: #334155;
+    
+    /* Secondary accent color for hover states or less prominent interactive elements */
     --rs-secondary: #475569;
+    
+    /* Standard border color for structural separation */
     --rs-border: #e2e8f0;
 }
 
 /* Dark Mode (Explicitly Forced) */
 body.theme-dark.theme-sunstead-secrecy {
+    /* Main application background color (Nearly black slate) */
     --rs-bg: #020617;
+    
+    /* Background color for content panels in dark mode */
     --rs-surface: #0f172a;
+    
+    /* Light text color to ensure readability against dark backgrounds */
     --rs-text: #f8fafc;
+    
+    /* Primary accent color for high visibility in dark mode */
     --rs-primary: #94a3b8;
+    
+    /* Secondary accent color for subdued interactive states */
     --rs-secondary: #64748b;
+    
+    /* Darker border color to maintain subtle separation in dark mode */
     --rs-border: #1e293b;
 }
 
 /* OS Auto Dark Mode */
+/* Applies the dark mode palette automatically if the system preference is dark,
+   unless the user has explicitly selected the 'light' theme. */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-sunstead-secrecy,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-secrecy {
+        /* Main application background color (Nearly black slate) */
         --rs-bg: #020617;
+        
+        /* Background color for content panels */
         --rs-surface: #0f172a;
+        
+        /* Light text color for readability */
         --rs-text: #f8fafc;
+        
+        /* Primary accent color */
         --rs-primary: #94a3b8;
+        
+        /* Secondary accent color */
         --rs-secondary: #64748b;
+        
+        /* Subdued border color for dark mode */
         --rs-border: #1e293b;
     }
 }

@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: TRAUMA HEALING - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Trauma Healing" reading theme for the Stardust 
+ * Engine. It utilizes soft pinks, deep burgundies, and warm tones to create a 
+ * gentle, emotional, and introspective reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - soft pink background, dark magenta text)
+ *    - Forced Dark Mode (Deep burgundy background, soft pink text)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Trauma Healing */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-trauma-healing,
 body.theme-light.theme-trauma-healing {
-    --rs-bg: #fef2f8;
-    --rs-surface: #fce7f3;
-    --rs-text: #831843;
-    --rs-primary: #db2777;
-    --rs-secondary: #ec4899;
-    --rs-border: #fbcfe8;
+    --rs-bg: #fef2f8; /* Very soft, warm pink background */
+    --rs-surface: #fce7f3; /* Slightly deeper pink surface */
+    --rs-text: #831843; /* Deep burgundy/magenta text for high readability */
+    --rs-primary: #db2777; /* Vibrant pink accent */
+    --rs-secondary: #ec4899; /* Lighter pink secondary */
+    --rs-border: #fbcfe8; /* Soft pink border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-trauma-healing {
-    --rs-bg: #2e061a;
-    --rs-surface: #500724;
-    --rs-text: #fef2f8;
-    --rs-primary: #f472b6;
-    --rs-secondary: #ec4899;
-    --rs-border: #831843;
+    --rs-bg: #2e061a; /* Very deep burgundy/wine background */
+    --rs-surface: #500724; /* Elevated dark magenta surface */
+    --rs-text: #fef2f8; /* Soft pink text */
+    --rs-primary: #f472b6; /* Bright, soothing pink accent */
+    --rs-secondary: #ec4899; /* Muted pink secondary */
+    --rs-border: #831843; /* Dark magenta border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-trauma-healing,
     body:not(.theme-light):not(.theme-dark).theme-trauma-healing {
-        --rs-bg: #2e061a;
+        --rs-bg: #2e061a; /* Matches Forced Dark Mode */
         --rs-surface: #500724;
         --rs-text: #fef2f8;
         --rs-primary: #f472b6;

@@ -1,6 +1,26 @@
-/* extras.css - Port Telsus UI Elements */
+/**
+ * ============================================================================
+ * FILE: extras.css (Port Telsus Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines the specific UI elements for the 'Port Telsus' environment. 
+ * Implements an industrial, grimy aesthetic characterized by "bolted-on" 
+ * components, physical-feeling switches, and dirty glass overlays.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Extends Bootstrap components with heavy borders, inset shadows, and 
+ *   complex backdrop filters (blur + sepia).
+ * - Implements a pseudo-3D "physical switch" interaction model for buttons.
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `.bg-glass-dark` class uses a heavy `backdrop-filter: sepia()`; 
+ *   monitor rendering performance on mobile/low-power devices.
+ * - Ensure the active state `transform: translate()` on buttons does not 
+ *   cause layout shifting in dense UI grids.
+ * ============================================================================
+ */
 
-/* 1. Skill Pills (Hazmat Labels) */
+/* 1. Skill Pills (Hazmat Labels) - High contrast, heavy border badges */
 .skill-pill {
     font-family: var(--bs-font-monospace);
     font-weight: 700;

@@ -1,4 +1,30 @@
-/* 08-spinners.css: Replaces <wa-spinner> */
+/**
+ * ============================================================================
+ * COMPONENT: 08-spinners.css (Stardust Engine Library - Core SRC)
+ * CONTEXT: UI Components / Loading States
+ *
+ * PURPOSE:
+ * Provides a lightweight, pure CSS loading spinner designed to replace the
+ * heavier `<wa-spinner>` Web Component.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally in the compiled library. It relies entirely on standard CSS
+ * borders and keyframe animations to create a hardware-accelerated infinite
+ * rotation effect.
+ *
+ * KEY COMPONENTS:
+ * - `.rs-spinner`: The base class. It creates a circle via `border-radius: 50%`
+ *   and applies a solid border using the `--rs-border` color.
+ * - Leading Edge: Re-colors `border-top-color` to `--rs-primary` to create the
+ *   visual "head" of the spinner.
+ * - Hardware Acceleration: The `@keyframes rs-spin` strictly animates the
+ *   `transform` property, preventing layout repaints on every frame.
+ *
+ * MAINTENANCE NOTES:
+ * - Ensure that variables like `--rs-border` and `--rs-primary` are defined in
+ *   the active theme context, otherwise the spinner will render invisible.
+ * ============================================================================
+ */
 .rs-spinner {
     display: inline-block;
     width: 1.5rem;

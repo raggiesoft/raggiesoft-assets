@@ -1,6 +1,27 @@
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/safety-net.css */
+/**
+ * ============================================================================
+ * FILE: safety-net.css (Knox - Default/Obsidian Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Establishes the core typographic and interactive baseline for the 'Knox' 
+ * environment. It enforces a strict "Terminal/Typewriter" aesthetic for body 
+ * copy while maintaining legible sans-serif headings.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Overrides default framework font stacks (Bootstrap/WebAwesome) to prioritize 
+ *   monospace fonts globally.
+ * - Enforces sharp corners (`border-radius: 0 !important`) on buttons and form 
+ *   controls to reinforce the brutalist design language.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Monitor the use of `!important` on `.btn` border-radius; if external 
+ *   libraries inject high-specificity rounded buttons, they must be caught here.
+ * - Ensure the fallback font in the `body` selector (`system-ui`) is only 
+ *   triggered when monospace fonts fail entirely.
+ * ============================================================================
+ */
 
-/* 1. Font Stack Override */
+/* 1. Font Stack Override - Prioritizes monospace for the prose/UI terminal feel */
 /* We want a distinct "Typewriter/Terminal" feel for the prose and UI */
 body {
     font-family: "Courier New", Courier, monospace; 

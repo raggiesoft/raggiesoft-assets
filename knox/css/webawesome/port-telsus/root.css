@@ -1,6 +1,24 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: PORT TELSUS ROOT THEME (root.css)
+ * ==========================================================================
+ * This file serves as the core design system for the "Port Telsus" theme.
+ * The concept revolves around "The Wound" — industrial decay, warning lights,
+ * and toxic runoff. It presents a harsh, manufactured aesthetic.
+ * 
+ * Key Responsibilities:
+ * 1. Define custom internal palette variables (`--port-*`) for semantic use.
+ * 2. Map Bootstrap (`--bs-*`) variables to the Light Mode palette (Smog).
+ * 3. Map Bootstrap (`--bs-*`) variables to the Dark Mode palette (Neon/Oil).
+ * 4. Integrate with Web Awesome (`--wa-*`) design tokens.
+ * 5. Establish global utilities (e.g., zero border radius for harsh edges).
+ * ========================================================================== */
+
 /* Theme: Port Telsus (The Wound) */
 /* Concept: Industrial decay, warning lights, and toxic runoff. */
 
+/* --------------------------------------------------------------------------
+ * 1. THEMATIC PALETTES (Core Variables)
+ * -------------------------------------------------------------------------- */
 :root {
     /* --- The Blight Palette (Light Mode - Smog) --- */
     --port-smog: #e8e6d1;       /* Sickly Yellow-Grey Sky */
@@ -20,6 +38,9 @@
     --bs-border-width: 2px;     /* Heavy, structural borders. */
 }
 
+/* --------------------------------------------------------------------------
+ * 2. LIGHT MODE CONFIGURATION (The Blight Zone)
+ * -------------------------------------------------------------------------- */
 /* --- LIGHT MODE: The Blight Zone (Day) --- */
 :root,
 [data-bs-theme="light"] {
@@ -42,9 +63,12 @@
     
     /* Links */
     --bs-link-color: var(--port-rust);
-    --bs-link-hover-color: #000;
+    --bs-link-hover-color: #000; /* Burn mark hover */
 }
 
+/* --------------------------------------------------------------------------
+ * 3. DARK MODE CONFIGURATION (The Spire & Market)
+ * -------------------------------------------------------------------------- */
 /* --- DARK MODE: The Spire & Market (Night) --- */
 [data-bs-theme="dark"] {
     /* Core Bootstrap Mapping */
@@ -69,6 +93,9 @@
     --bs-link-hover-color: #fff;
 }
 
+/* --------------------------------------------------------------------------
+ * 4. WEB AWESOME INTEGRATION
+ * -------------------------------------------------------------------------- */
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens

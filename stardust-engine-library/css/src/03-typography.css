@@ -1,3 +1,32 @@
+/**
+ * ============================================================================
+ * COMPONENT: 03-typography.css (Stardust Engine Library - Core SRC)
+ * CONTEXT: Global Typography & Narrative Styling
+ *
+ * PURPOSE:
+ * Defines the core typographic rules for narrative reading experiences. Controls
+ * paragraph flow, drop caps, and semantic coloring for specialized dialogue types
+ * (e.g., Augmentative and Alternative Communication devices, Sign Language).
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally as the foundation for the `.book-page` and `.story-content`
+ * layout wrappers. It forces text to map to the overarching `--rs-*` color tokens
+ * established by the active theme.
+ *
+ * KEY COMPONENTS:
+ * - Drop Caps: Uses `::first-letter` pseudo-elements on the first paragraph to
+ *   create a traditional print-book aesthetic.
+ * - Dialogue Semantics: Defines specific classes (`.aac-device`, `.asl-sign`,
+ *   `.sms-message`) that authors use in their Markdown/HTML to visually
+ *   distinguish non-verbal or electronic communication from standard speech.
+ *
+ * MAINTENANCE NOTES:
+ * - The `text-indent` logic relies on `:first-of-type` to avoid indenting the
+ *   opening paragraph. Ensure HTML structure doesn't place hidden elements before
+ *   the first visible `<p>`.
+ * ============================================================================
+ */
+
 .book-page h1, .book-page h2, .book-page h3 {
     color: var(--rs-text);
     margin-top: 2rem;

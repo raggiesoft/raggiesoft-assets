@@ -1,6 +1,24 @@
-/* root.css (Engine Room Records - Industrial Update) */
+/* ==============================================================================
+ * ENGINE ROOM RECORDS - GLOBAL ROOT THEME VARIABLES
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the foundational CSS variable mapping file. It defines the core color
+ * palettes for both Light (The Day Shift) and Dark (The Night Shift) modes,
+ * overriding Bootstrap's default variables. 
+ *
+ * Furthermore, it acts as the bridge connecting standard Bootstrap logic 
+ * (`--bs-*`) to Web Awesome Pro custom elements (`--wa-*`), ensuring that Web 
+ * Components seamlessly inherit the site's industrial theme.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - If you change a `--bs-primary` hex code, ALWAYS change the corresponding
+ *   `-rgb` variable (used by Bootstrap for alpha-channel mixins).
+ * - The Forced Dark Mode block `[data-bs-theme="dark"]` deliberately duplicates 
+ *   the `@media (prefers-color-scheme: dark)` variables so manual toggles work.
+ * ============================================================================== */
 
 /* --- LIGHT MODE (THE DAY SHIFT) --- */
+/* Default variables mapped to the root element */
 :root,
 [data-bs-theme="light"] {
     color-scheme: light;
@@ -32,6 +50,7 @@
 }
 
 /* --- DARK MODE (THE NIGHT SHIFT / THE VAULT) --- */
+/* Media query triggering automatic system dark mode */
 @media (prefers-color-scheme: dark) {
     :root {
         /* Backgrounds: Deep Gunmetal / Oily Black */
@@ -66,6 +85,7 @@
 }
 
 /* FORCED DARK MODE */
+/* Manual toggle overrides that duplicate the media query variables */
 [data-bs-theme="dark"] {
     /* Copy the exact properties from the @media block above */
     :root {
@@ -104,35 +124,44 @@
  * WEB AWESOME PRO MAPPING LAYER
  * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
  * ========================================================================== */
+/* Ensures Web Components natively respect the active Bootstrap theme */
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"] {
+  /* Brand mappings */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--bs-primary);
   --wa-color-brand-border-loud: var(--bs-primary);
   
+  /* Danger/Alert mappings */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
   
+  /* Warning mappings */
   --wa-color-warning-fill-loud: var(--bs-warning);
   --wa-color-warning-text-loud: var(--bs-warning);
   --wa-color-warning-border-loud: var(--bs-warning);
   
+  /* Success mappings */
   --wa-color-success-fill-loud: var(--bs-success);
   --wa-color-success-text-loud: var(--bs-success);
   --wa-color-success-border-loud: var(--bs-success);
 
+  /* Info mappings */
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
   
+  /* Surface and Background mappings */
   --wa-color-surface-default: var(--bs-body-bg);
   --wa-color-surface-raised: var(--bs-tertiary-bg, rgba(255, 255, 255, 0.05));
   --wa-color-surface-lowered: var(--bs-tertiary-bg, rgba(0, 0, 0, 0.05));
   
+  /* Typography mappings */
   --wa-color-text-normal: var(--bs-body-color);
   --wa-color-neutral-text-quiet: var(--bs-secondary);
   
+  /* Border mappings */
   --wa-color-neutral-border-quiet: var(--bs-border-color);
   --wa-color-surface-border: var(--bs-border-color);
 }

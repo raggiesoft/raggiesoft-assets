@@ -1,30 +1,65 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: OCEAN DAY
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a clean, aquatic-inspired theme centered around a monochromatic blue 
+ * palette. It evokes a refreshing, maritime aesthetic while maintaining strict 
+ * readability standards.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture for seamless Light, Dark, and OS Auto transitions.
+ * - Cool blue palette replacing the standard slate/zinc greys of the base app.
+ * 
+ * Maintenance Notes:
+ * - Ensure proper chaining of selectors (`body.theme-light.theme-ocean-day`)
+ *   to avoid specificity collisions with other themes.
+ * - Keep background (`--rs-bg`) and surface (`--rs-surface`) colors distinct 
+ *   to preserve UI depth.
+ * ============================================================================
+ */
+
 /* Theme Name: Ocean Day */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Active by default or when the 'Light Mode' is explicitly requested */
 body.theme-ocean-day,
 body.theme-light.theme-ocean-day {
-    --rs-bg: #eff6ff;
-    --rs-surface: #dbeafe;
-    --rs-text: #1e3a8a;
-    --rs-primary: #1d4ed8;
-    --rs-secondary: #2563eb;
-    --rs-border: #bfdbfe;
+    --rs-bg: #eff6ff; /* Pale, crisp blue mimicking shallow water */
+    --rs-surface: #dbeafe; /* Slightly deeper blue for raised UI cards */
+    --rs-text: #1e3a8a; /* Deep navy blue for excellent text contrast */
+    --rs-primary: #1d4ed8; /* Vibrant, saturated blue for primary buttons */
+    --rs-secondary: #2563eb; /* Lighter blue for hover states and secondary elements */
+    --rs-border: #bfdbfe; /* Soft blue border separating structural areas */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Takes precedence when the user explicitly forces the UI into Dark Mode */
 body.theme-dark.theme-ocean-day {
-    --rs-bg: #172554;
-    --rs-surface: #1e3a8a;
-    --rs-text: #eff6ff;
-    --rs-primary: #60a5fa;
-    --rs-secondary: #3b82f6;
-    --rs-border: #1e40af;
+    --rs-bg: #172554; /* Very dark midnight/abyssal blue base */
+    --rs-surface: #1e3a8a; /* Lifted navy surface to provide depth */
+    --rs-text: #eff6ff; /* Crisp pale blue text cutting through the darkness */
+    --rs-primary: #60a5fa; /* Bright, sky-blue accent for interaction elements */
+    --rs-secondary: #3b82f6; /* Saturated mid-blue for secondary actions */
+    --rs-border: #1e40af; /* Deep blue boundary division lines */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Subscribes to system-level color preferences when no manual override is present */
 @media (prefers-color-scheme: dark) {
+    /* 
+     * Applies the dark palette ONLY if the user hasn't explicitly chosen 'light' or 'dark',
+     * or if they are actively using the 'auto' setting.
+     */
     body.theme-auto.theme-ocean-day,
     body:not(.theme-light):not(.theme-dark).theme-ocean-day {
+        /* Duplicate of Explicit Dark Mode values to maintain visual consistency */
         --rs-bg: #172554;
         --rs-surface: #1e3a8a;
         --rs-text: #eff6ff;

@@ -1,3 +1,28 @@
+/**
+ * ============================================================================
+ * FILE: root.css ("Live at The Crucible" Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Foundational CSS Custom Properties defining the 'CPI Ironhead' brand identity. 
+ * This palette is designed specifically for WCAG 2.1 AA compliance across 
+ * Light (Day Game) and Dark (Night Game) modes, mapping narrative colors to 
+ * Bootstrap 5 and Web Awesome tokens.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Employs a High Contrast Switch strategy for Dark Mode: Maroon disappears 
+ *   on dark backgrounds, so the Primary brand color dynamically swaps from 
+ *   CPI Maroon (Light) to Brand Orange (Dark).
+ * - Forces specific `--bs-*` overrides to ensure UI elements (like Web Awesome 
+ *   components) adapt perfectly to the "Stadium" aesthetic.
+ * 
+ * FUTURE MAINTENANCE:
+ * - WARNING: The `--cpi-orange` variable must never be used for standard text 
+ *   against `--cpi-light` (white) backgrounds, as it fails contrast checks. 
+ *   Use `--cpi-orange-text` instead.
+ * - When upgrading Bootstrap versions, ensure the RGB variable mappings 
+ *   (e.g., `--bs-primary-rgb`) are still utilized by the framework's utility classes.
+ * ============================================================================
+ */
 /* root-crucible.css */
 /* The Stardust Engine - "Live at The Crucible" Theme (CPI) */
 /* WCAG 2.1 AA Compliant */

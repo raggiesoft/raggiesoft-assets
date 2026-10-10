@@ -1,3 +1,26 @@
+/**
+ * ============================================================================
+ * FILE: safety-net.css (Ad Astra Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Enforces critical thematic fallbacks and structural overrides for the 
+ * 'Ad Astra' (Sci-Fi/Void) narrative setting. This stylesheet acts as a blunt 
+ * instrument to ensure that light-mode framework defaults (Bootstrap/WebAwesome) 
+ * do not break the deep-space aesthetic.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Implements a "Light Mode Kill Switch", forcing `.bg-light` and related 
+ *   classes into a translucent dark-glass appearance.
+ * - Heavily overrides Web Awesome Shadow DOM parts (`::part(base)`, 
+ *   `::part(panel)`) via `!important` to eliminate default opacities, ensuring 
+ *   dialogs and surfaces remain pitch black (`#050508`).
+ * 
+ * FUTURE MAINTENANCE:
+ * - The extensive use of `!important` on Web Awesome components is fragile. 
+ *   If Web Awesome updates their internal token architecture (e.g., changing 
+ *   `--wa-panel-background-color`), these overrides must be updated to match.
+ * ============================================================================
+ */
 /* safety-net-ad-astra.css */
 /* Overrides for The Void */
 

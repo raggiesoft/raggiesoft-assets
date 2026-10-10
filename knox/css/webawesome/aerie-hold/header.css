@@ -1,46 +1,77 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AERIE-HOLD HEADER STYLING (header.css)
+ * ==========================================================================
+ * This file dictates the visual behavior of the main navigation header within 
+ * the 'Aerie-Hold' theme context (a nature/fantasy inspired aesthetic).
+ * 
+ * Key Responsibilities:
+ * 1. Style the main Navbar container with smooth day/night transitions.
+ * 2. Define the typography and interactive states (hover/active) of Brand 
+ *    and Navigation links, adding subtle glowing effects for the "magic" feel.
+ * 3. Override Web Awesome (`<wa-dropdown>`) components to match the organic, 
+ *    woven aesthetic of the theme.
+ * ========================================================================== */
+
 /* header.css */
 
-/* 1. Navbar Container */
+/* --------------------------------------------------------------------------
+ * 1. NAVBAR CONTAINER
+ * -------------------------------------------------------------------------- */
 header .navbar {
     /* Day: Feels like a sturdy wooden platform. Night: Feels like a safe zone. */
+    /* Background respects the active theme (light/dark) */
     background-color: var(--bs-body-bg) !important;
+    /* Primary brand color border to anchor the header */
     border-bottom: 3px solid var(--bs-primary) !important;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    /* Smooth transitions for theme switching (Day <-> Night) */
     transition: background-color 0.5s ease, border-color 0.5s ease;
 }
 
-/* 2. Brand Identity */
+/* --------------------------------------------------------------------------
+ * 2. BRAND IDENTITY
+ * -------------------------------------------------------------------------- */
 header .navbar-brand {
-    font-weight: 800;
+    font-weight: 800; /* Bold, structural text */
     text-transform: uppercase;
     letter-spacing: 1px;
+    /* Ensure text color adapts to light/dark backgrounds */
     color: var(--bs-body-color) !important;
 }
 
-/* 3. Navigation Links */
+/* --------------------------------------------------------------------------
+ * 3. NAVIGATION LINKS
+ * -------------------------------------------------------------------------- */
 header .nav-link {
     font-weight: 600;
     text-transform: uppercase;
     font-size: 0.85rem;
     color: var(--bs-body-color) !important;
+    /* Slight transparency by default to reduce cognitive load */
     opacity: 0.8;
     transition: all 0.3s ease;
 }
 
+/* Interactive States */
 header .nav-link:hover,
 header .nav-link.active {
-    opacity: 1;
-    color: var(--bs-primary) !important;
-    text-shadow: 0 0 10px rgba(var(--bs-primary-rgb), 0.4); /* Subtle glow */
+    opacity: 1; /* Full opacity on focus */
+    color: var(--bs-primary) !important; /* Switch to theme primary color */
+    /* Subtle magical glow effect using RGB variable for translucency */
+    text-shadow: 0 0 10px rgba(var(--bs-primary-rgb), 0.4); 
 }
 
-/* 4. Dropdowns (Woven aesthetic) */
+/* --------------------------------------------------------------------------
+ * 4. DROPDOWNS (Woven Aesthetic)
+ * -------------------------------------------------------------------------- */
+/* Target the shadow DOM part of Web Awesome dropdowns */
 header wa-dropdown::part(panel) {
+    /* Use tertiary background to create depth against the main body */
     background-color: var(--bs-tertiary-bg) !important;
     border: 1px solid var(--bs-border-color) !important;
-    border-top: 3px solid var(--bs-primary) !important;
-    border-radius: 0 0 4px 4px;
+    border-top: 3px solid var(--bs-primary) !important; /* Matches navbar bottom border */
+    border-radius: 0 0 4px 4px; /* Organic, slightly softened edges */
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
 
@@ -48,18 +79,20 @@ header wa-dropdown-item {
     font-size: 0.9rem;
     color: var(--bs-body-color) !important;
     padding: 10px 20px;
-    border-left: 2px solid transparent; /* Marker for hover */
+    border-left: 2px solid transparent; /* Hidden marker reserved for hover animation */
 }
 
+/* Dropdown Item Hover States */
 header wa-dropdown-item:hover {
-    background-color: transparent !important; /* Keep bg clear */
+    background-color: transparent !important; /* Keep bg clear to maintain organic feel */
     color: var(--bs-primary) !important;
-    border-left-color: var(--bs-primary); /* "Tab" effect on hover */
-    padding-left: 25px; /* Slight movement */
+    border-left-color: var(--bs-primary); /* Reveal "Tab" effect on hover */
+    padding-left: 25px; /* Slight physical movement to mimic interaction */
     transition: all 0.2s ease;
 }
 
+/* Structural Dividers */
 header .dropdown-divider {
     border-top: 1px solid var(--bs-border-color);
-    opacity: 0.3;
+    opacity: 0.3; /* Keep lines subtle */
 }

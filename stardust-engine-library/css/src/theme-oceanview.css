@@ -1,35 +1,59 @@
-/* theme-oceanview.css */
-/* Ocean View Archives Default Theme */
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - OCEAN VIEW ARCHIVES THEME
+ * theme-oceanview.css
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the custom theme overrides for the "Ocean View Archives"
+ * project. It acts as a top-level theme definition within the Stardust CSS 
+ * architecture, overriding base variables and defining project-specific UI components.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Global Variables: Sets root-level design tokens (`--rs-*`) targeting 
+ *    the specific `body.theme-oceanview` scope.
+ * 2. Dark Mode Support: Leverages `@media (prefers-color-scheme: dark)` to swap
+ *    colors while maintaining the Ocean View brand identity.
+ * 3. Specific Component Styling: Defines custom classes (e.g. `.ova-hero`, `.ova-title`)
+ *    that only apply when the body has the `theme-oceanview` class.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - Ensure the `<body>` tag includes `class="theme-oceanview"` to activate these styles.
+ * - Do NOT use these variables outside of the specified theme namespace.
+ * ========================================================================== */
 
-/* Light Mode Defaults */
+/* Light Mode Defaults: Base palette for day-time viewing */
 body.theme-oceanview {
-    --rs-bg: #f8f9fa;
-    --rs-surface: #ffffff;
-    --rs-text: #1e293b;
-    --rs-primary: #0F4C5C; /* Deep Teal */
-    --rs-secondary: #E3B27C; /* Gold/Champagne */
-    --rs-border: #e2e8f0;
+    --rs-bg: #f8f9fa;             /* Off-white background */
+    --rs-surface: #ffffff;        /* Pure white for cards/modals */
+    --rs-text: #1e293b;           /* Deep slate text for high contrast */
+    --rs-primary: #0F4C5C;        /* Deep Teal (Primary brand color) */
+    --rs-secondary: #E3B27C;      /* Gold/Champagne (Accent color) */
+    --rs-border: #e2e8f0;         /* Soft gray for structural borders */
 }
 
-/* Dark Mode Overrides */
+/* Dark Mode Overrides: Triggered by OS preference natively */
 @media (prefers-color-scheme: dark) {
     body.theme-oceanview {
-        --rs-bg: #090e17; /* Very dark blue tint */
-        --rs-surface: #111827;
-        --rs-text: #f1f5f9;
-        --rs-primary: #E3B27C; /* Gold POPS in dark mode */
-        --rs-secondary: #0F4C5C;
-        --rs-border: #1e293b;
+        --rs-bg: #090e17;         /* Very dark blue tint to maintain aquatic feel */
+        --rs-surface: #111827;    /* Elevated surface color */
+        --rs-text: #f1f5f9;       /* Light text for readability */
+        --rs-primary: #E3B27C;    /* Gold POPS in dark mode (Inverts primary/secondary roles visually) */
+        --rs-secondary: #0F4C5C;  /* Teal becomes secondary accent */
+        --rs-border: #1e293b;     /* Darker structural border */
     }
 }
 
 /* Custom Component Styles for Ocean View Archives */
+
+/* Hero Banner Layout */
 body.theme-oceanview .ova-hero {
     border-bottom: 2px solid var(--rs-border);
     padding-bottom: 3rem;
     margin-bottom: 3rem;
 }
 
+/* Primary Title Typography */
+/* Uses a serif font stack for an archival, distinguished look */
 body.theme-oceanview .ova-title {
     font-family: 'Playfair Display', serif, system-ui;
     text-transform: uppercase;
@@ -38,12 +62,16 @@ body.theme-oceanview .ova-title {
     color: var(--rs-primary) !important;
 }
 
+/* Subtitle Typography */
+/* Uses monospace to hint at technical/archival data */
 body.theme-oceanview .ova-subtitle {
     font-family: monospace;
     color: var(--rs-text) !important;
     opacity: 0.8;
 }
 
+/* Interactive Card Override */
+/* Adds brand-specific focus/hover states to generic Stardust cards */
 body.theme-oceanview .stardust-card:hover {
     border-color: var(--rs-primary);
 }

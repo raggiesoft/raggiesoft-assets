@@ -1,5 +1,33 @@
-/* safety-net-raggiesoft.css */
-/* RaggieSoft Aero / Dark Aero Overrides - THE NUCLEAR OPTION */
+/**
+ * ============================================================================
+ * COMPONENT: safety-net-raggiesoft.css (WebAwesome Aero Theme)
+ * CONTEXT: Global UI Forcing / "The Nuclear Option"
+ *
+ * PURPOSE:
+ * Enforces the core typography and primary UI interactions of the "Aero" brand
+ * identity with absolute specificity (`!important`). Ensures that the glossy,
+ * early-2000s gel aesthetics cannot be overwritten by downstream components or
+ * stray Bootstrap utility classes.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included near the bottom of the `<head>` tag. This file acts as an aggressive
+ * visual contract. It intercepts `.btn-primary` and standard `<h>` tags, injecting
+ * complex multi-stop gradients and inset shadows that define the theme.
+ *
+ * KEY COMPONENTS:
+ * - Font Stack Override: Forces the 'Ubuntu' typeface globally to maintain the
+ *   humanist, rounded feel typical of the Frutiger Aero era.
+ * - The Gel Button (Light Mode): Uses a 4-stop linear gradient with a sharp
+ *   color break at 48%/52% to simulate a 3D "horizon" reflection on a glass pill.
+ * - The Neon Button (Dark Mode): Swaps the palette to `mpr-cyan` and replaces
+ *   the standard drop-shadow with a neon bloom effect (box-shadow glow).
+ *
+ * MAINTENANCE NOTES:
+ * - Use `!important` strictly and only in this file. It is intentional here
+ *   to act as a global safety net for the brand identity.
+ * - Adjusting the 48%/52% gradient stops will break the "glossy horizon" illusion.
+ * ============================================================================
+ */
 
 /* 1. Enforce Brand Font Stack Globally */
 /* Overrides standard system fonts to ensure the humanist/Aero feel is always present */

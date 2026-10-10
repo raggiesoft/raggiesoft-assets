@@ -1,3 +1,16 @@
+/**
+ * ARCHITECTURE: Stardust Engine Theme - Stardust Labs
+ * 
+ * This is a concatenated/compiled CSS bundle that serves as the visual theme "Stardust Labs"
+ * for the Stardust Engine. It provides an Ad Astra / Interstellar Cruise Ship visual
+ * motif including light and dark modes with neon and holographic styling.
+ * 
+ * FUTURE MAINTENANCE:
+ * - This file appears to be automatically generated or bundled from smaller CSS files
+ *   (e.g., root.css, header.css, footer.css, extras.css, safety-net.css).
+ * - Avoid editing this file directly if a build step or preprocessor is used in the pipeline.
+ * - Variables are mapped to Web Awesome Design Tokens to bridge Bootstrap and Web Awesome.
+ */
 /* Stardust Engine Theme: stardust-labs */
 
 /* --- root.css --- */

@@ -1,34 +1,72 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: KARL THE FOG
+ * ============================================================================
+ * Architecture & Purpose:
+ * An atmospheric theme utilizing linear CSS gradients and background animations
+ * to simulate drifting fog. It manipulates the core `--rs-*` color structure
+ * and attaches a custom moving background directly to the body element.
+ * 
+ * Key Design Elements:
+ * - Oversized linear gradients (`background-size: 200% 100%`) enable horizontal panning.
+ * - Hardware-accelerated background-position animations create a slow, drifting effect.
+ * - Built-in OS-level dark mode support, altering both the base palette and the fog gradient's hue.
+ * - Strict accessibility compliance to prevent animation-induced motion sickness.
+ * 
+ * Maintenance Notes:
+ * - Gradient opacity values are carefully tuned. Increasing them will negatively
+ *   impact text contrast and readability.
+ * - The animation duration (`15s`) must remain slow. Faster values destroy the
+ *   illusion of heavy, lethargic fog.
+ * ============================================================================
+ */
+
 /* Theme Name: Karl The Fog */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Default styling for the misty daytime aesthetic */
 body.theme-fog,
 body.theme-light.theme-fog {
-    --rs-bg: #cbd5e1; /* Foggy slate */
-    --rs-surface: #f1f5f9; /* Foggy white */
-    --rs-text: #1e293b; /* Dark slate text */
-    --rs-primary: #475569; /* Slate */
-    --rs-secondary: #94a3b8;
-    --rs-border: #94a3b8;
+    --rs-bg: #cbd5e1; /* Foggy slate grey base background */
+    --rs-surface: #f1f5f9; /* Soft, foggy white for raised UI cards */
+    --rs-text: #1e293b; /* Deep slate text ensuring WCAG contrast compliance */
+    --rs-primary: #475569; /* Slate-grey primary accent */
+    --rs-secondary: #94a3b8; /* Muted slate for secondary text and borders */
+    --rs-border: #94a3b8; /* Structural boundary lines */
+    
+    /* Light Mode Fog Gradient: Alternating bands of semi-transparent white and slate */
     background-image: linear-gradient(110deg, rgba(255,255,255,0.4) 0%, rgba(203,213,225,0.7) 50%, rgba(255,255,255,0.4) 100%);
+    /* Double the width of the background so it can be panned horizontally */
     background-size: 200% 100%;
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Styling for a heavy, dense midnight fog */
 body.theme-dark.theme-fog {
-    --rs-bg: #0f172a; /* Deep foggy night */
-    --rs-surface: #1e293b; 
-    --rs-text: #f1f5f9;
-    --rs-primary: #94a3b8;
-    --rs-secondary: #475569;
-    --rs-border: #334155;
+    --rs-bg: #0f172a; /* Deep, impenetrable foggy night base */
+    --rs-surface: #1e293b; /* Slightly lighter slate for UI separation */
+    --rs-text: #f1f5f9; /* Highly visible pale white text */
+    --rs-primary: #94a3b8; /* Muted slate primary accent to prevent neon-glare */
+    --rs-secondary: #475569; /* Darker slate for secondary interactions */
+    --rs-border: #334155; /* Very subtle, dark division lines */
+    
+    /* Dark Mode Fog Gradient: Employs deep blue/black transparencies */
     background-image: linear-gradient(110deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.8) 50%, rgba(30,41,59,0.4) 100%);
     background-size: 200% 100%;
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Injects the Dark Mode styling automatically when system preferences request it */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-fog,
     body:not(.theme-light):not(.theme-dark).theme-fog {
+        /* Mirrored Dark Mode variables and gradient */
         --rs-bg: #0f172a; 
         --rs-surface: #1e293b; 
         --rs-text: #f1f5f9;
@@ -40,15 +78,25 @@ body.theme-dark.theme-fog {
     }
 }
 
+/* -------------------------------------------------------------------------
+ * 4. Procedural Animation Execution
+ * ------------------------------------------------------------------------- */
+/* Applies the animation globally whenever the fog theme is active */
 body.theme-fog {
+    /* 15s duration creates a slow, languid panning effect */
     animation: fog-drift 15s infinite linear;
 }
 
+/* Keyframes to pan the oversized background image horizontally */
 @keyframes fog-drift {
     0% { background-position: 0% 0%; }
     100% { background-position: 200% 0%; }
 }
 
+/* -------------------------------------------------------------------------
+ * 5. Accessibility Controls
+ * ------------------------------------------------------------------------- */
+/* Automatically halts background panning if the user has requested reduced motion */
 @media (prefers-reduced-motion: reduce) {
     body.theme-fog {
         animation: none;

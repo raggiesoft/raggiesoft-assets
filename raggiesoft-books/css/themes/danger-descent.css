@@ -1,28 +1,67 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: DANGER DESCENT
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Danger Descent" reading theme.
+ *          This theme uses stark, high-contrast oranges against deep blacks 
+ *          to simulate warning lights, alarms, or fire, ideal for thriller 
+ *          or intense sci-fi reading.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Danger Descent */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features pale orange backgrounds with very dark, near-black text.
+ */
 body.theme-danger-descent,
 body.theme-light.theme-danger-descent {
-    --rs-bg: #fff7ed;
-    --rs-surface: #ffedd5;
-    --rs-text: #1c1917;
-    --rs-primary: #ea580c;
-    --rs-secondary: #f97316;
-    --rs-border: #fed7aa;
+    --rs-bg: #fff7ed;       /* Very light, warm orange-tinted background */
+    --rs-surface: #ffedd5;  /* Deeper pale orange for elevated cards/modals */
+    --rs-text: #1c1917;     /* Extremely dark charcoal for high contrast text */
+    --rs-primary: #ea580c;  /* Bright, alarming orange for primary actions */
+    --rs-secondary: #f97316;/* Lighter orange for secondary UI elements */
+    --rs-border: #fed7aa;   /* Soft orange for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to pitch black/charcoal with vibrant neon orange text.
+ */
 body.theme-dark.theme-danger-descent {
-    --rs-bg: #0a0705;
-    --rs-surface: #1c1917;
-    --rs-text: #fff7ed;
-    --rs-primary: #fdba74;
-    --rs-secondary: #fb923c;
-    --rs-border: #292524;
+    --rs-bg: #0a0705;       /* Pitch black with a very faint warm undertone */
+    --rs-surface: #1c1917;  /* Very dark charcoal for elevated surfaces */
+    --rs-text: #fff7ed;     /* Pale warm white/orange text for readability */
+    --rs-primary: #fdba74;  /* Glowing neon orange for primary actions */
+    --rs-secondary: #fb923c;/* Bright safety orange for secondary actions */
+    --rs-border: #292524;   /* Dark gray/brown for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-danger-descent,
     body:not(.theme-light):not(.theme-dark).theme-danger-descent {
         --rs-bg: #0a0705;

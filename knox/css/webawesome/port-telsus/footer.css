@@ -1,5 +1,20 @@
+/* ==============================================================================
+ * PORT TELSUS (KNOX) - FOOTER
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * A terminal-inspired footer that employs a pure CSS `repeating-linear-gradient`
+ * to generate a hazard stripe border across the top.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - The hazard stripe is rendered via a `::before` pseudo-element. Adjust the 
+ *   pixel values in the linear-gradient to change the angle or width of the stripes.
+ * - Link hover states trigger a text/background inversion coupled with a box-shadow 
+ *   to mimic a neon tube flickering on.
+ * ============================================================================== */
+
 /* footer.css */
 
+/* Core footer container */
 footer {
     background-color: #000 !important; /* Void black */
     color: #6c757d !important;
@@ -10,6 +25,7 @@ footer {
 }
 
 /* Hazard Stripe Top Border (CSS Gradient) */
+/* Generates an industrial caution tape effect purely through CSS math */
 footer::before {
     content: '';
     display: block;
@@ -35,6 +51,7 @@ footer a {
     font-weight: 700;
 }
 
+/* Interactive link hover states */
 footer a:hover {
     background-color: var(--bs-primary);
     color: #000 !important;

@@ -1,8 +1,26 @@
+// ==============================================================================
+// ARCHITECTURAL BLOCK: RECRUITER GATE (recruiter-gate.js)
+// ==============================================================================
+// This script powers an interactive qualification funnel ("Gate") for recruiters 
+// trying to contact Michael. It ensures alignment on basic requirements (Resume, 
+// Location, Salary) before revealing direct contact information or calendar booking.
+//
+// Key Responsibilities:
+// 1. Fetch remote JSON configuration for acceptable locations and salary bands.
+// 2. Prevent redundant initialization within Elara SPA environments.
+// 3. Render a multi-step interactive UI inside the `#gate-container`.
+// 4. Validate user input against predefined thresholds and provide targeted feedback.
+// 5. Reveal actionable contact methods (Email/Booking link) upon successful completion.
+// ==============================================================================
+
 // assets/portfolio/js/recruiter-gate.js
 // The RaggieSoft "Recruiter Gate"
 // Filters inquiries based on Resume, Location, and Salary.
 
-// 1. GLOBAL VARIABLES (Must be initialized before functions are called)
+// ------------------------------------------------------------------------------
+// 1. GLOBAL VARIABLES
+// ------------------------------------------------------------------------------
+// Initial configuration base. Values like bookingUrl will be hydrated via JSON fetch.
 let CONFIG = {
     minSalary: 75000,
     targetSalary: 85000,
@@ -12,56 +30,69 @@ let CONFIG = {
     bookingUrl: null // Will be populated from salary.json if present
 };
 
+// Holds the array of acceptable location objects fetched from the server
 let locationsData = [];
 
-// 2. CORE FUNCTIONS
+// ------------------------------------------------------------------------------
+// 2. CORE INITIALIZATION FUNCTIONS
+// ------------------------------------------------------------------------------
+// Determines if the gate should render on the current page and handles idempotency.
 function bootstrapGate() {
     const container = document.getElementById('gate-container');
-    if (!container) return; // Not on the contact page
+    if (!container) return; // Silent exit if not on the contact page
     
-    // Prevent double-initialization if Elara triggers multiple times
+    // Prevent double-initialization if Elara Router triggers multiple load events
     if (container.getAttribute('data-initialized') === 'true') return;
     container.setAttribute('data-initialized', 'true');
     
     initGate();
 }
 
+// Asynchronously fetches external JSON configuration before rendering the first step.
 async function initGate() {
     const container = document.getElementById('gate-container');
 
     try {
-        // Parallel Fetch: Get Locations AND Salary at the same time
+        // Parallel Fetch: Optimize load time by requesting Locations and Salary concurrently
         const [locResponse, salaryResponse] = await Promise.all([
             fetch(CONFIG.locationsJson),
             fetch(CONFIG.salaryJson)
         ]);
 
+        // Parse JSON responses
         locationsData = await locResponse.json();
         const salaryData = await salaryResponse.json();
         
-        // Merge fetched salary data into CONFIG
+        // Merge fetched salary configuration into the global CONFIG object
         CONFIG = { ...CONFIG, ...salaryData };
 
     } catch (e) {
+        // Graceful degradation on network or parsing failure
         console.error("Failed to load gate configuration", e);
         container.innerHTML = `<div class="alert alert-danger">Error loading configuration. Please try refreshing the page.</div>`;
         return;
     }
 
+    // Begin the interactive funnel
     renderStep1();
 }
 
-// 3. EVENT LISTENERS & EXECUTION
-// Self-Execute (Catches late injections by Elara SPA)
+// ------------------------------------------------------------------------------
+// 3. EVENT LISTENERS & EXECUTION TRIGGERS
+// ------------------------------------------------------------------------------
+// Self-Execute (Catches late script injections by Elara SPA)
 bootstrapGate();
 
-// Initial Load (Hard Refresh)
+// Initial Load (Catches standard browser hard refreshes)
 document.addEventListener('DOMContentLoaded', bootstrapGate);
 
-// Elara SPA Navigation (Soft Navigations)
+// Elara SPA Navigation (Catches soft navigation events from the custom router)
 document.addEventListener('elara:loaded', bootstrapGate);
 
-// --- STEP 1: RESUME CHECK ---
+// ------------------------------------------------------------------------------
+// 4. FUNNEL STEP 1: RESUME CHECK
+// ------------------------------------------------------------------------------
+// Asks the recruiter to confirm they have reviewed the candidate's resume.
 function renderStep1() {
     const container = document.getElementById('gate-container');
     container.innerHTML = `
@@ -81,6 +112,7 @@ function renderStep1() {
     `;
 }
 
+// Processes the response to the resume question. Disallows progression if 'no'.
 function handleResume(answer) {
     if (answer === 'no') {
         document.getElementById('step1-feedback').innerHTML = `
@@ -91,11 +123,14 @@ function handleResume(answer) {
     }
 }
 
-// --- STEP 2: LOCATION CHECK ---
+// ------------------------------------------------------------------------------
+// 5. FUNNEL STEP 2: LOCATION CHECK
+// ------------------------------------------------------------------------------
+// Validates the geographic requirements of the role.
 function renderStep2() {
     const container = document.getElementById('gate-container');
     
-    // Build Options dynamically
+    // Build Options dynamically from the fetched locations array
     let optionsHtml = '<option value="" selected disabled>Select a Location...</option>';
     locationsData.forEach(loc => {
         optionsHtml += `<option value="${loc.value}">${loc.label}</option>`;
@@ -123,15 +158,18 @@ function renderStep2() {
     `;
 }
 
+// Validates the selected location against candidate boundaries.
 function handleLocation() {
     const val = document.getElementById('locationSelect').value;
     const feedback = document.getElementById('step2-feedback');
 
+    // Require an actual selection
     if (!val) {
         feedback.innerHTML = '<span class="text-danger">Please select a location.</span>';
         return;
     }
 
+    // Hard block for out-of-state roles
     if (val === 'other') {
         feedback.innerHTML = `
             <div class="alert alert-danger mt-3">
@@ -141,6 +179,7 @@ function handleLocation() {
         return;
     }
 
+    // Soft block/Warning for in-state relocation requirements
     if (val === 'relocate-va') {
         feedback.innerHTML = `
             <div class="alert alert-info mt-3">
@@ -151,13 +190,17 @@ function handleLocation() {
         return;
     }
 
+    // Proceed cleanly if acceptable
     renderStep3();
 }
 
-// --- STEP 3: SALARY CHECK ---
+// ------------------------------------------------------------------------------
+// 6. FUNNEL STEP 3: SALARY CHECK
+// ------------------------------------------------------------------------------
+// Checks if the compensation package meets the minimum threshold.
 function renderStep3() {
     const container = document.getElementById('gate-container');
-    // Using neutral placeholder to avoid anchoring
+    // Using neutral placeholder to avoid anchoring expectations
     container.innerHTML = `
         <div class="card shadow-sm border-0 fade-in-up">
             <div class="card-body p-5 text-center">
@@ -179,21 +222,26 @@ function renderStep3() {
         </div>
     `;
     
+    // Bind enter key for UX convenience
     document.getElementById('salaryInput').addEventListener('keypress', (e) => {
         if (e.key === 'Enter') handleSalary();
     });
 }
 
+// Validates the entered salary amount against CONFIG thresholds.
 function handleSalary() {
     const input = document.getElementById('salaryInput').value;
+    // Strip commas if user typed them out of habit
     const amount = parseFloat(input.replace(/,/g, ''));
     const feedback = document.getElementById('step3-feedback');
 
+    // Input validation
     if (!amount || amount <= 0) {
         feedback.innerHTML = '<span class="text-danger">Please enter a valid number.</span>';
         return;
     }
 
+    // Hard block for salaries below minimum
     if (amount < CONFIG.minSalary) {
         feedback.innerHTML = `
             <div class="alert alert-danger mt-3 text-start">
@@ -206,12 +254,17 @@ function handleSalary() {
                 </div>
             </div>`;
     } else {
+        // Success criteria met, reveal the gate
         revealContactInfo(amount);
     }
 }
 
-// --- STEP 4: SUCCESS / REVEAL ---
+// ------------------------------------------------------------------------------
+// 7. FUNNEL STEP 4: SUCCESS / CONTACT REVEAL
+// ------------------------------------------------------------------------------
+// Unlocks the contact information. Presentation varies based on whether a booking link exists.
 function revealContactInfo(salary) {
+    // Dynamic styling based on whether the offer hits the ideal target threshold
     const isTarget = salary >= CONFIG.targetSalary;
     const color = isTarget ? 'success' : 'primary';
     const container = document.getElementById('gate-container');
@@ -232,7 +285,7 @@ function revealContactInfo(salary) {
             </div>
         `;
     } else {
-        // OPTION B: Email Only (Fallback if Booking URL missing)
+        // OPTION B: Email Only (Fallback if Booking URL is missing from remote config)
         actionArea = `
             <div class="bg-body-tertiary p-4 rounded border mb-4">
                 <h5 class="text-secondary text-uppercase small fw-bold ls-1">Direct Contact</h5>
@@ -272,6 +325,10 @@ function revealContactInfo(salary) {
     `;
 }
 
+// ------------------------------------------------------------------------------
+// 8. UTILITIES
+// ------------------------------------------------------------------------------
+// Standardizes currency formatting for output display.
 function formatMoney(num) {
     return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(num);
 }

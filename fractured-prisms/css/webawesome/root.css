@@ -1,5 +1,35 @@
-/* root.css (Fractured Prisms) */
-/* Theme: 1883 Gothic / 1983 Art Rock / Fog */
+/**
+ * ============================================================================
+ * COMPONENT: root.css (WebAwesome Fractured Prisms Theme)
+ * CONTEXT: Global Variables & Narrative Theming
+ *
+ * PURPOSE:
+ * Establishes the foundational design tokens for the "Fractured Prisms" narrative.
+ * It manages the dual-timeline aesthetic by manipulating CSS variables based on
+ * the active color scheme.
+ *
+ * ARCHITECTURAL ROLE:
+ * The core stylesheet of the theme. It intercepts standard Bootstrap (`--bs-*`)
+ * and WebAwesome (`--wa-*`) CSS variables and forces them to align with the
+ * story's artistic direction (1883 Gothic vs 1983 Art Rock).
+ *
+ * KEY COMPONENTS:
+ * - 1983 Studio (Dark Mode): Sets a cold, mechanical atmosphere utilizing
+ *   deep purple-black bases (`#0b0914`) and ghostly lavender primary accents.
+ * - 1883 Archive (Light Mode): Simulates a psychological sanctuary using warm
+ *   parchment backgrounds (`#f4f1ea`) and deep Victorian plum accents.
+ * - Artifact Paper Logic: Special independent variables (`--prism-artifact-*`)
+ *   that maintain a "paper" look inside the dark studio, but blend naturally
+ *   into the light mode.
+ * - WebAwesome Bridge: Manually maps `--bs-*` colors into `--wa-color-*` tokens
+ *   to ensure Web Components inherit the story's color palette natively.
+ *
+ * MAINTENANCE NOTES:
+ * - Do not use static HEX colors in structural CSS files. Always reference the
+ *   variables defined here to ensure the 1883/1983 toggle functions flawlessly.
+ * ============================================================================
+ */
+
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 

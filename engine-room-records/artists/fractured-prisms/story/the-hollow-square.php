@@ -1,4 +1,27 @@
 <?php
+/**
+ * Architectural Block: the-hollow-square.php
+ * ===================================
+ * This view serves as a deep-lore storytelling page for the artist "Fractured Prisms."
+ * It details the conceptual and physical origins of "The Hollow Square," blending
+ * real-world history with the fictional narrative of the band.
+ *
+ * Key Responsibilities:
+ * 1. Thematic Presentation: Injects custom CSS overrides (e.g., `.gothic-font`, 
+ *    `.polaroid-prism`) to establish a specific visual aesthetic distinct from 
+ *    the rest of the site.
+ * 2. Narrative Structure: Uses Bootstrap grid components to organize lore cards, 
+ *    simulated artifacts (journal entries), and historical notes.
+ * 3. Archival Standard: Enforces the dual-language standard (US English for label 
+ *    copy, Queen's English for artist artifacts like journal excerpts).
+ *
+ * Maintenance Notes:
+ * - The custom `<style>` block at the top is intentional, allowing this specific 
+ *   page to override global variables without bleeding into the broader Elara SPA.
+ * - When adding new artifacts, use the `.artifact-paper` class to maintain the 
+ *   simulated physical document appearance.
+ */
+
 // pages/engine-room/artists/fractured-prisms/story/the-hollow-square.php
 // The Lore Foundation: The 100-Year Echo and the Physical Reality.
 // Archival Standard: US English (Label) / Queen's English (Artist Artifacts)

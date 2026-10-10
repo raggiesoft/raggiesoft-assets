@@ -1,28 +1,66 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: SUNSTEAD PEACE
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Sunstead Peace" reading theme.
+ *          This theme utilizes a calming, natural green palette to reduce eye 
+ *          strain during long reading sessions.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Sunstead Peace */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features soft mint greens and deep forest green text.
+ */
 body.theme-sunstead-peace,
 body.theme-light.theme-sunstead-peace {
-    --rs-bg: #f0fdf4;
-    --rs-surface: #dcfce7;
-    --rs-text: #14532d;
-    --rs-primary: #15803d;
-    --rs-secondary: #16a34a;
-    --rs-border: #bbf7d0;
+    --rs-bg: #f0fdf4;       /* Very light green background (page color) */
+    --rs-surface: #dcfce7;  /* Slightly darker green for cards/modals */
+    --rs-text: #14532d;     /* Deep forest green for high contrast text */
+    --rs-primary: #15803d;  /* Strong green for primary buttons and active links */
+    --rs-secondary: #16a34a;/* Brighter green for secondary UI elements */
+    --rs-border: #bbf7d0;   /* Soft green for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to deep forest greens with light mint text.
+ */
 body.theme-dark.theme-sunstead-peace {
-    --rs-bg: #052e16;
-    --rs-surface: #14532d;
-    --rs-text: #f0fdf4;
-    --rs-primary: #22c55e;
-    --rs-secondary: #16a34a;
-    --rs-border: #166534;
+    --rs-bg: #052e16;       /* Near-black forest green for deep background */
+    --rs-surface: #14532d;  /* Lighter forest green for elevated surfaces */
+    --rs-text: #f0fdf4;     /* Mint white text for readability against dark bg */
+    --rs-primary: #22c55e;  /* Vibrant neon green for primary actions */
+    --rs-secondary: #16a34a;/* Subdued green for secondary actions */
+    --rs-border: #166534;   /* Dark green for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-sunstead-peace,
     body:not(.theme-light):not(.theme-dark).theme-sunstead-peace {
         --rs-bg: #052e16;

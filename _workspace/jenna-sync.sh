@@ -1,10 +1,33 @@
 #!/bin/bash
 
+# ============================================================================
+# Architectural Block: jenna-sync.sh
+# ============================================================================
+# This script ("Jenna") is the central Deployment & Synchronization Liaison for the 
+# entire Raggiesoft platform. It handles pulling, auditing, building, and pushing 
+# code across multiple Git repositories and syncing heavy assets to DigitalOcean Spaces.
+#
+# Key Responsibilities:
+# 1. Multi-Repo Orchestration: Clones, pulls, and pushes updates to 'raggiesoft-hub', 
+#    'stardust-engine-cms', 'raggiesoft-narratives', 'raggiesoft-nebulae', etc.
+# 2. Asset Synchronization: Uses `rclone` to push/pull binaries to a remote CDN (do-spaces).
+# 3. Build & Minification: Executes local PHP scripts to minify CSS/JS and compile static assets.
+# 4. QA & Auditing: Runs PHP-based tests (Integrity Check, Orphan Audit) before allowing a push.
+# 5. Evasion Tactics: Includes a `--public-wifi` stealth mode to bypass restrictive firewalls (port 443).
+#
+# Maintenance Notes:
+# - Do NOT execute this script locally unless you are preparing a full production sync.
+# - Rclone dependencies: Requires a valid `rclone.conf` inside `build-tools/rclone/`.
+# - PHP dependencies: Heavily relies on local CLI PHP to run the embedded QA scripts and build tools.
+# - DO NOT force push (`--force`) unless recovering from a catastrophic git desync.
+# ============================================================================
+
 # --- JENNA: THE DEVELOPMENT LIAISON (v7.3 - Force Push Edition) ---
 # Usage: ./jenna-sync.sh --push -m "Message" [-t "v1.0.0"] [--force] [--public-wifi]
 #        ./jenna-sync.sh --pull [--public-wifi]
 
 # --- OS-SPECIFIC OVERRIDES ---
+# If running on macOS (darwin) and `caffeinate` is available, ensure the system doesn't sleep during long syncs.
 if [[ "$OSTYPE" == "darwin"* ]] && command -v caffeinate > /dev/null; then
     # If we are not already wrapped, re-execute the script inside caffeinate
     if [ "$1" != "--caffeinated" ]; then

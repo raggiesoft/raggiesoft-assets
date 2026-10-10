@@ -1,6 +1,26 @@
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/extras.css */
+/**
+ * ============================================================================
+ * FILE: extras.css (Knox - Default/Obsidian Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines custom aesthetic enhancements for the default 'Knox' theme.
+ * Implements a brutalist, dossier-style visual motif using strict geometry,
+ * hard borders, and state-based visual indicators (Axiom/Reality).
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Augments standard Bootstrap/WebAwesome components (cards, pills) with 
+ *   sharper corners and specific border widths.
+ * - Utilizes CSS variables (`--bs-*`) for seamless dark/light mode transition.
+ * 
+ * FUTURE MAINTENANCE:
+ * - If border radii are reintroduced globally, they must be explicitly overridden 
+ *   here (`border-radius: 0`) to maintain the brutalist aesthetic.
+ * - Ensure the glowing box-shadows on `.border-danger` and `.border-success`
+ *   remain subtle enough not to clash with nested elements.
+ * ============================================================================
+ */
 
-/* 1. Threat Profile Card (The Dossier) */
+/* 1. Threat Profile Card (The Dossier) - Strict geometry, no rounded corners */
 .card {
     border-radius: 0; /* Brutalist corners */
     transition: transform 0.2s ease, box-shadow 0.2s ease;

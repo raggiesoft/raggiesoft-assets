@@ -1,59 +1,107 @@
-/* bootstrap-header.css (Encyclopedia Theme) */
+/**
+ * ============================================================================
+ * RAGGIESOFT ENCYCLOPEDIA THEME - HEADER STYLES
+ * ============================================================================
+ * Architecture & Purpose:
+ * This stylesheet defines the visual presentation for the global header and 
+ * navigation bar specifically within the "Encyclopedia" theme context. It 
+ * strictly relies on CSS custom properties (variables) defined in root.css 
+ * to ensure seamless theme switching (Light/Dark mode) without hardcoding colors.
+ * 
+ * Key Design Elements:
+ * - Emulates a "Stationery/Archive" aesthetic (double borders, high contrast).
+ * - Implements Web Awesome (`wa-`) components and pseudo-parts customization.
+ * - Handles adaptive logo blending based on current active theme.
+ * 
+ * Maintenance Notes:
+ * - Always use `!important` cautiously; here it's utilized to override default
+ *   Bootstrap or Web Awesome shadow DOM styles reliably.
+ * - Theme variables (`--bs-*`) must be preserved for dark mode compatibility.
+ * ============================================================================
+ */
+
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/header.css */
 
-/* 1. Navbar Base */
+/* -------------------------------------------------------------------------
+ * 1. Navbar Base Structural Styling
+ * ------------------------------------------------------------------------- */
 header .navbar {
+    /* Bind background to the active theme's body background color */
     background-color: var(--bs-body-bg) !important;
-    /* Encyclopedia Twist: Double border for a "Stationery" feel */
+    
+    /* Encyclopedia Twist: Double border provides a subtle "Stationery/Document" feel */
     border-bottom: 3px double var(--bs-border-color) !important;
+    
+    /* Ensure smooth transitions during dynamic theme switching (light <-> dark) */
     transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
-/* 2. Text Colors */
+/* -------------------------------------------------------------------------
+ * 2. Typography and Text Colors
+ * ------------------------------------------------------------------------- */
 header .navbar-brand {
+    /* Branding text explicitly matches body text for high readability */
     color: var(--bs-body-color) !important;
-    font-weight: 700;
+    font-weight: 700; /* Bold emphasis for brand identity */
 }
 
 header .nav-link {
+    /* Secondary color provides visual hierarchy, de-emphasizing non-active links */
     color: var(--bs-secondary) !important;
     font-weight: 500;
 }
 
+/* Hover and active states elevate the link using the primary brand color */
 header .nav-link:hover,
 header .nav-link.active {
     color: var(--bs-primary) !important;
 }
 
-/* 3. Hamburger Menu */
-header wa-icon-button[name=\"bars\"] {
+/* -------------------------------------------------------------------------
+ * 3. Mobile Navigation (Hamburger Menu) overrides for Web Awesome
+ * ------------------------------------------------------------------------- */
+/* Target the Web Awesome icon button used for mobile collapsing */
+header wa-icon-button[name="bars"] {
     border-color: var(--bs-border-color) !important;
 }
-header wa-icon-button[name=\"bars\"] .hamburger-bar {
+
+/* Target internal structural parts of the hamburger menu (if exposed/customized) */
+header wa-icon-button[name="bars"] .hamburger-bar {
     background-color: var(--bs-body-color) !important;
 }
 
-/* 4. Dropdowns */
+/* -------------------------------------------------------------------------
+ * 4. Dropdown Components (Web Awesome shadow DOM integration)
+ * ------------------------------------------------------------------------- */
+/* Use the `::part()` pseudo-element to penetrate Web Awesome's shadow DOM */
 header wa-dropdown::part(panel) {
     background-color: var(--bs-body-bg) !important;
     border: 1px solid var(--bs-border-color) !important;
+    /* Soft shadow to lift the dropdown above the z-index context */
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
+
 header wa-dropdown-item {
     color: var(--bs-body-color) !important;
 }
+
+/* Interactive hover state for dropdown entries */
 header wa-dropdown-item:hover {
     background-color: var(--bs-tertiary-bg) !important; 
     color: var(--bs-primary) !important;
 }
 
-/* 5. Encyclopedia Logo Handling */
+/* -------------------------------------------------------------------------
+ * 5. Adaptive Encyclopedia Logo Handling
+ * ------------------------------------------------------------------------- */
 header .navbar-brand-img {
-    /* Ensure logos look integrated on the paper background */
+    /* In light mode, multiply blend mode drops the white background of the 
+       logo image, seamlessly integrating it onto the 'paper' background */
     mix-blend-mode: multiply; 
 }
 
-/* In Dark Mode, switch to normal blending for visibility */
+/* In Dark Mode, multiply blending would render the dark logo invisible against 
+   a dark background. Revert to normal rendering. */
 [data-bs-theme="dark"] header .navbar-brand-img {
     mix-blend-mode: normal;
 }

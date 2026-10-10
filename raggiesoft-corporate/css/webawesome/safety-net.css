@@ -1,80 +1,135 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT CORPORATE SAFETY NET STYLES
+ * ============================================================================
+ * File: safety-net.css
+ * Architecture: Global Overrides
+ * Purpose: This file acts as the ultimate fallback and enforcer for the 
+ *          RaggieSoft brand identity. It applies "nuclear option" overrides 
+ *          using !important to ensure critical visual elements—like typography 
+ *          and core button styles—are preserved regardless of what underlying 
+ *          frameworks or component libraries are loaded.
+ * 
+ * Future Maintenance Notes:
+ * - Use !important sparingly outside of this file. This is explicitly meant 
+ *   to override Bootstrap/WebAwesome defaults globally.
+ * - The visual language shifts between "Frutiger Aero" (light mode) and 
+ *   "Dark Aero Neon" (dark mode). Keep these distinct.
+ * - Button styling relies on complex box-shadows and linear-gradients to 
+ *   achieve a 2000s glossy, tactile gel look. Be careful when modifying 
+ *   color stops.
+ * ============================================================================
+ */
+
 /* safety-net-raggiesoft.css */
 /* RaggieSoft Aero / Dark Aero Overrides - THE NUCLEAR OPTION */
 
-/* 1. Enforce Brand Font Stack Globally */
-/* Overrides standard system fonts to ensure the humanist/Aero feel is always present */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. ENFORCE BRAND FONT STACK GLOBALLY
+ * ----------------------------------------------------------------------------
+ * Overrides standard system fonts to ensure the humanist/Aero feel is 
+ * always present across all text elements. The 'Ubuntu' font is prioritized.
+ */
 body {
+    /* Apply primary brand font to body text unconditionally */
     font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
 }
 
 h1, h2, h3, h4, h5, h6, .navbar-brand {
+    /* Headings and brand elements require identical font stack with bolder weight */
     font-family: 'Ubuntu', system-ui, -apple-system, "Segoe UI", Roboto, sans-serif !important;
     font-weight: 700 !important;
-    letter-spacing: -0.01em !important; /* Slightly tighter for a modern polish */
+    letter-spacing: -0.01em !important; /* Slightly tighter tracking for a modern, polished aesthetic */
 }
 
-/* 2. Global Button Reshaping (The Aero Pill) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. GLOBAL BUTTON RESHAPING
+ * ----------------------------------------------------------------------------
+ * Converts standard rectangular or slightly rounded buttons into full 
+ * "pill" shapes, a hallmark of the Frutiger Aero aesthetic.
+ */
 .btn {
-    /* Frutiger Aero loves pill shapes over sharp rectangles */
+    /* Frutiger Aero loves pill shapes over sharp rectangles. 50rem ensures full rounding. */
     border-radius: 50rem !important; 
+    /* Smooth transitions for hover/active states across all properties */
     transition: all 0.2s ease-in-out !important;
     font-weight: 600 !important;
 }
 
-/* 3. The Frutiger Aero Gel Button (Light Mode) */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. THE FRUTIGER AERO GEL BUTTON (LIGHT MODE)
+ * ----------------------------------------------------------------------------
+ * Implements the glossy, glass-like appearance typical of 2000s UI design.
+ */
 .btn-primary {
     color: #ffffff !important;
     
-    /* The classic 2000s glossy gradient with a "horizon" split in the middle */
+    /* The classic 2000s glossy gradient with a sharp "horizon" split in the middle */
     background: linear-gradient(180deg, #42AADB 0%, #0082E6 48%, #005BB5 52%, #004b96 100%) !important;
     border: 1px solid #003e7a !important;
     
-    /* Inset shadow creates the shiny glass lip; outer shadow lifts it */
+    /* Inset shadow creates the shiny glass lip; outer shadow lifts it off the page */
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6), 0 2px 4px rgba(0, 0, 0, 0.2) !important;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) !important; /* Engraves the text into the gel */
+    /* Engraves the text into the gel material */
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) !important; 
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    /* Brightens the gradient */
+    /* Brightens the gradient stops to simulate illumination on hover */
     background: linear-gradient(180deg, #5ebcf0 0%, #1a96f0 48%, #006dd9 52%, #005bb5 100%) !important;
-    /* Enhances the inner shine and outer shadow */
+    /* Enhances the inner shine (gloss) and increases outer shadow for depth */
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 4px 8px rgba(0, 0, 0, 0.3) !important;
     color: #ffffff !important;
-    transform: translateY(-1px) !important; /* Physical push effect */
+    /* Physical push effect: lifts the button slightly towards the user */
+    transform: translateY(-1px) !important; 
 }
 
 .btn-primary:active {
-    /* Inverts to look "pressed" */
+    /* Inverts the gradient to look physically "pressed" into the surface */
     background: linear-gradient(180deg, #004b96 0%, #005BB5 100%) !important;
+    /* Deep inset shadow to simulate depth of the pressed state */
     box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.5) !important;
+    /* Physical push effect: pushes the button down into the page */
     transform: translateY(1px) !important;
 }
 
-/* 4. The Dark Aero Neon Button (Dark Mode) */
+/**
+ * ----------------------------------------------------------------------------
+ * 4. THE DARK AERO NEON BUTTON (DARK MODE)
+ * ----------------------------------------------------------------------------
+ * Adapts the glossy button for dark environments, relying on high-contrast 
+ * neon cyan colors and glowing drop shadows instead of standard depth.
+ */
 [data-bs-theme="dark"] .btn-primary {
-    /* shifts to our neon cyan */
+    /* Shifts the base gradient to our high-energy neon cyan color palette */
     background: linear-gradient(180deg, #00e5ff 0%, #00c6dd 48%, #00a4b8 52%, #008393 100%) !important;
     border: 1px solid #005c66 !important;
     
-    /* High contrast text for neon buttons */
+    /* High contrast text (black on cyan) is required for neon legibility */
     color: #000000 !important; 
+    /* Subtle white text shadow creates an inner glowing rim around the text */
     text-shadow: 0 1px 1px rgba(255, 255, 255, 0.5) !important;
     
-    /* Glowing cyan drop shadow */
+    /* Retains inner glass lip, but outer shadow becomes a glowing cyan bloom */
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), 0 0 12px rgba(0, 229, 255, 0.4) !important;
 }
 
 [data-bs-theme="dark"] .btn-primary:hover,
 [data-bs-theme="dark"] .btn-primary:focus {
-    /* Pushes to an almost pure white-hot cyan at the top */
+    /* Pushes to an almost pure white-hot cyan at the top edge of the button */
     background: linear-gradient(180deg, #80f2ff 0%, #00e5ff 48%, #00c6dd 52%, #00a4b8 100%) !important;
-    /* Intensifies the neon bloom */
+    /* Intensifies the neon bloom (outer shadow) and inner rim light */
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.9), 0 0 25px rgba(0, 229, 255, 0.8) !important;
     color: #000000 !important;
 }
 
 [data-bs-theme="dark"] .btn-primary:active {
+    /* Inverts to darker cyan shades when pressed */
     background: linear-gradient(180deg, #008393 0%, #00a4b8 100%) !important;
+    /* Reduces the glow and adds a dark inset shadow to sink the button */
     box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.6), 0 0 5px rgba(0, 229, 255, 0.3) !important;
 }

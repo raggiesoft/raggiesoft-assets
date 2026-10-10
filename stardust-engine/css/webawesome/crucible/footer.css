@@ -1,16 +1,39 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: CRUCIBLE FOOTER STYLING (footer.css)
+ * ==========================================================================
+ * This file governs the appearance of the global footer within the 
+ * "Live at The Crucible" theme. It continues the heavy, high-contrast 
+ * sports aesthetic down to the bottom of the viewport.
+ * 
+ * Key Responsibilities:
+ * 1. Define foundational footer structural variables (backgrounds/colors).
+ * 2. Enforce a massive top border to anchor the bottom of the page.
+ * 3. Fix WCAG contrast issues for muted text specific to this dark theme.
+ * 4. Provide dynamic theme support for the hidden Konami Code Easter egg modal.
+ * ========================================================================== */
+
 /* bootstrap-footer.css (Crucible Theme) */
 
+/* --------------------------------------------------------------------------
+ * 1. BASE FOOTER STRUCTURE
+ * -------------------------------------------------------------------------- */
 footer {
     background-color: var(--bs-body-bg) !important; 
     color: var(--bs-body-color) !important;            
-    border-top: 4px solid var(--bs-primary) !important; /* Thick "Crucible" border */
+    /* Thick "Crucible" border to mimic heavy structural beams/arena lines */
+    border-top: 4px solid var(--bs-primary) !important; 
 }
 
+/* --------------------------------------------------------------------------
+ * 2. TYPOGRAPHY & LINK EXCEPTIONS
+ * -------------------------------------------------------------------------- */
 /* Fix Muted Text - Ensure WCAG compliance */
 footer .text-body-secondary,
 footer .text-muted {
+    /* Force use of the secondary color variable rather than default grays */
     color: var(--bs-secondary) !important; 
-    opacity: 1 !important; /* Prevent double-fading */
+    /* Prevent double-fading which causes contrast violations in dark mode */
+    opacity: 1 !important; 
 }
 
 /* Links */
@@ -21,15 +44,21 @@ footer .link-body-emphasis {
     text-decoration: none;
 }
 
+/* Hover States */
 footer a:hover,
 footer .link-secondary:hover {
     color: var(--bs-link-hover-color) !important;
-    text-decoration: underline;
+    text-decoration: underline; /* Standard, accessible active state */
 }
 
+/* --------------------------------------------------------------------------
+ * 3. EASTER EGG COMPONENTS
+ * -------------------------------------------------------------------------- */
 /* Konami Modal */
+/* Style the Web Awesome (<wa-dialog>) panel that triggers upon Konami code entry */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--bs-body-bg) !important;
+    /* Utilize thick Crucible borders for the modal frame */
     border: 2px solid var(--bs-primary) !important;
     color: var(--bs-body-color) !important;
 }

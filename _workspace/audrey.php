@@ -1,4 +1,24 @@
 <?php
+/**
+ * Architectural Block: audrey.php
+ * ===================================
+ * Audrey ("The Production Coordinator") is a standalone, single-file PHP application
+ * serving as a metadata intake workbench for music releases. It generates structured
+ * `album.json` and `tracks.json` assets used by the Stardust Engine.
+ *
+ * Key Responsibilities:
+ * 1. Form Intake: Provides a Frutiger Aero themed web GUI for data entry.
+ * 2. Schema Mapping: Maps user inputs directly into Schema.org `MusicAlbum` and `MusicGroup` JSON-LD standards.
+ * 3. Track Reconstruction: Parses dynamic POST arrays to assemble multi-disc track listings.
+ * 4. Output Generation: Produces formatted JSON payloads ready for copy-pasting into project directories.
+ *
+ * Maintenance Notes:
+ * - This file mixes PHP logic, inline CSS, and vanilla JS for portability (zero dependencies).
+ * - If Schema.org standards for `MusicAlbum` evolve, update the `$albumData` array structure.
+ * - The dynamic track form rows rely on a JS counter (`sequentialCounter`). If the DOM structure
+ *   of the track block changes, ensure the `name="tracks[...][...]"` attribute matrix remains intact.
+ */
+
 // audrey.php - Audrey: The Production Coordinator (v1.1.0)
 // Self-contained Frutiger Aero Media Workbench for multi-disc studio releases.
 
@@ -6,8 +26,10 @@ $message = "";
 $albumJsonOut = "";
 $tracksJsonOut = "";
 
+// Process the form submission
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    // 1. Map to Schema.org standards
+    // 1. Map core album details to Schema.org standards.
+    // Falls back to safe defaults (e.g., 'DistroKid', 'Pending Distribution') if empty.
     $albumData = [
         "@context" => "https://schema.org",
         "@type" => ["MusicAlbum", "Product"],
@@ -32,13 +54,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         "creativeWorkStatus" => $_POST['work_status'] ?? 'Upcoming Release'
     ];
 
-    // 2. Map Multi-Disc Track Listing Arrays
+    // 2. Map Multi-Disc Track Listing Arrays from dynamic inputs.
     $tracksData = ["tracks" => []];
     
+    // Ensure the track array exists and iterate over submitted rows.
     if (isset($_POST['tracks']) && is_array($_POST['tracks'])) {
         foreach ($_POST['tracks'] as $track) {
+            // Skip empty/malformed rows
             if (empty($track['title'])) continue;
             
+            // Build the track object, casting disc and track numbers to integers.
             $tracksData['tracks'][] = [
                 "fileName" => $track['file_name'] ?? '',
                 "title" => $track['title'] ?? '',
@@ -56,6 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
     }
 
+    // Output formatted JSON string payloads.
     $albumJsonOut = json_encode($albumData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
     $tracksJsonOut = json_encode($tracksData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
     

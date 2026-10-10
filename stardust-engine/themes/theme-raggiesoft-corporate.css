@@ -1,17 +1,38 @@
-/* Stardust Engine Theme: raggiesoft-corporate */
+/* ==========================================================================
+ * Stardust Engine Theme: raggiesoft-corporate
+ * ==========================================================================
+ * 
+ * ARCHITECTURAL OVERVIEW:
+ * This consolidated file defines the "Frutiger Aero / Dark Aero" theme for 
+ * RaggieSoft Media. It is broken into multiple structural sections:
+ * 1. Root: Global variables, colors, and light/dark mode definitions.
+ * 2. Header: Frosted glass effects for navigation.
+ * 3. Footer: Refined bottom overlays.
+ * 4. Extras: Global utility classes, scrollbars, Aero HUDs, and Easter eggs.
+ * 5. Safety Net: Enforced fallbacks and universal button reshaping (Nuclear Option).
+ * 
+ * DESIGN PHILOSOPHY:
+ * Heavily relies on translucent overlays, glossy specular highlights, and 
+ * vibrant, neon-like glow effects to emulate a modern take on early-2000s 
+ * "Frutiger Aero" aesthetics, shifting into a "Bioluminescent Dark Aero" 
+ * for dark mode.
+ * ========================================================================== */
 
-/* --- root.css --- */
-/* root-raggiesoft.css */
+/* ==========================================================================
+ * PART 1: root-raggiesoft.css
+ * ========================================================================== */
 /* RaggieSoft Media - Frutiger Aero / Dark Aero Identity */
 
 body.theme-raggiesoft-corporate {
     /* --- Aero Brand Palette --- */
-    --mpr-blue-500: #0082E6;   /* Classic Glossy Ocean Blue */
-    --mpr-blue-600: #005BB5;   /* Deep Water Hover State */
-    --mpr-cyan-400: #00E5FF;   /* Dark Aero Neon Cyan */
-    --mpr-grass-500: #38E54D;  /* Bliss Wallpaper Green */
+    /* Core aesthetic colors used for primary gradients and interactions */
+    --mpr-blue-500: #0082E6;   /* Classic Glossy Ocean Blue - Primary Aero Color */
+    --mpr-blue-600: #005BB5;   /* Deep Water Hover State - Used for pressed/hover effects */
+    --mpr-cyan-400: #00E5FF;   /* Dark Aero Neon Cyan - Primary Dark Mode Accent */
+    --mpr-grass-500: #38E54D;  /* Bliss Wallpaper Green - Positive semantic indicator */
     
     /* --- Utility Bases (Global Defaults) --- */
+    /* Standardized pure colors with RGB variants for alpha transparency usage */
     --rs-white: #ffffff;
     --rs-white-rgb: 255, 255, 255;
     --rs-black: #000000;
@@ -19,29 +40,37 @@ body.theme-raggiesoft-corporate {
 }
 
 /* --- LIGHT MODE (Frutiger Aero) --- */
+/* The default light mode provides the classic bright, icy, and blue-tinted Aero feel. */
 :root,
 [data-bs-theme="light"] {
     --rs-primary: var(--mpr-blue-500);
     --rs-primary-rgb: 0, 130, 230;
+    
     --rs-secondary: #5F7A8C; /* Slightly bluer slate for aero feel */
     --rs-secondary-rgb: 95, 122, 140;
+    
     --rs-success: var(--mpr-grass-500);
     --rs-success-rgb: 56, 229, 77;
+    
     --rs-info: #00C3FF;
     --rs-info-rgb: 0, 195, 255;
+    
     --rs-warning: #FFB300;
     --rs-warning-rgb: 255, 179, 0;
+    
     --rs-danger: #E63946;
     --rs-danger-rgb: 230, 57, 70;
+    
     --rs-light: #F0F6FA; /* Very light icy/watery white */
     --rs-dark: #101E2B;
     
+    /* Global Body Settings */
     --rs-body-bg: #F4F9FD; /* Cloud-like off-white */
     --rs-body-color: #1A2A3A;
     --rs-body-bg-rgb: 244, 249, 253;
     --rs-body-color-rgb: 26, 42, 58;
 
-    /* Semantic Fixes */
+    /* Semantic Fixes for nested components */
     --rs-secondary-bg: #E3EDF6;
     --rs-tertiary-bg: #F0F6FA;
     --rs-border-color: #CBE0F0;
@@ -51,6 +80,7 @@ body.theme-raggiesoft-corporate {
     --rs-link-hover-color: var(--mpr-blue-600);
 
     /* --- CUSTOM AERO TOKENS (For Header/Footer/Buttons) --- */
+    /* Translucent effects critical for the frosted glass aesthetic */
     --raggie-glass-bg: rgba(255, 255, 255, 0.45);
     --raggie-glass-border: rgba(255, 255, 255, 0.8);
     --raggie-glass-shadow: 0 8px 32px rgba(0, 85, 150, 0.1);
@@ -58,6 +88,7 @@ body.theme-raggiesoft-corporate {
 }
 
 /* --- DARK MODE (Dark Aero / Bioluminescence) --- */
+/* Transitions the theme into deep void space with high-contrast neon accents. */
 @media (prefers-color-scheme: dark) {
     body.theme-raggiesoft-corporate {
         --rs-body-bg: #070B14; /* Deep void space */
@@ -77,6 +108,7 @@ body.theme-raggiesoft-corporate {
     /* Primary Overrides - Pushing into Neon */
     --rs-primary: var(--mpr-cyan-400); 
     --rs-primary-rgb: 0, 229, 255;
+    
     --rs-secondary: #859DB3; 
     --rs-secondary-rgb: 133, 157, 179;
     
@@ -87,9 +119,10 @@ body.theme-raggiesoft-corporate {
 
     /* Links */
     --rs-link-color: var(--mpr-cyan-400); 
-    --rs-link-hover-color: #ffffff;
+    --rs-link-hover-color: #ffffff; /* Brighter highlight for dark mode */
 
     /* --- CUSTOM DARK AERO TOKENS --- */
+    /* Adjusted glass tokens to support glowing cyan accents */
     --raggie-glass-bg: rgba(7, 11, 20, 0.65);
     --raggie-glass-border: rgba(0, 229, 255, 0.25); /* Cyan specular highlight */
     --raggie-glass-shadow: 0 8px 32px rgba(0, 229, 255, 0.08);
@@ -98,7 +131,9 @@ body.theme-raggiesoft-corporate {
 
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
- * Bridges Bootstrap CSS variables to Web Awesome Design Tokens
+ * ==========================================================================
+ * Bridges Bootstrap CSS variables to Web Awesome Design Tokens,
+ * ensuring web components seamlessly adopt the Aero aesthetic.
  * ========================================================================== */
 :root, 
 [data-bs-theme="light"], 
@@ -134,7 +169,9 @@ body.theme-raggiesoft-corporate {
 }
 
 
-/* --- header.css --- */
+/* ==========================================================================
+ * PART 2: header.css
+ * ========================================================================== */
 /* bootstrap-header.css (Frutiger Aero / Dark Aero Glass Edition) */
 
 /* 1. Navbar Base - The Frosted Glass Pane */
@@ -232,7 +269,9 @@ header .navbar-brand-corporate-img {
     border: none; 
 }
 
-/* --- footer.css --- */
+/* ==========================================================================
+ * PART 3: footer.css
+ * ========================================================================== */
 /* bootstrap-footer.css (Frutiger Aero / Dark Aero Glass Edition) */
 
 /* 1. Footer Base - The Bottom Glass Pane */
@@ -307,11 +346,11 @@ footer .link-secondary:hover {
     box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5), inset 0 1px 0 var(--raggie-gloss-highlight), 0 0 20px rgba(0, 229, 255, 0.15);
 }
 
-/* --- extras.css --- */
 /* ==========================================================================
-   RAGGIESOFT AERO EXTRAS
-   Purpose: Frutiger Aero / Dark Aero global utilities and components.
-   ========================================================================== */
+ * PART 4: extras.css
+ * ========================================================================== */
+/* RAGGIESOFT AERO EXTRAS
+   Purpose: Frutiger Aero / Dark Aero global utilities and components. */
 
 /* --- 1. Global Layout & Selection Fixes --- */
 html, body {
@@ -372,7 +411,7 @@ html, body {
 
 /* --- 4. The Aero HUD System (Volumetric Glass Panels) --- */
 
-/* Base HUD styling for all panels */
+/* Base HUD styling for all panels - creates a frosted inset box */
 .bg-hud-base {
     backdrop-filter: blur(8px) saturate(120%);
     -webkit-backdrop-filter: blur(8px) saturate(120%);
@@ -434,6 +473,7 @@ html, body {
 }
 
 /* --- 5. Font Awesome Duotone Aero Fix --- */
+/* Integrates font-awesome duotone icons into the Aero aesthetic smoothly */
 .fa-duotone {
     --fa-primary-color: var(--rs-primary);
     --fa-secondary-color: var(--rs-secondary);
@@ -493,6 +533,7 @@ html, body {
 }
 
 /* --- CONSOLIDATED AERO HERO & COMPONENTS --- */
+/* Provides a classic Frutiger Aero hero banner with gentle infinite panning background */
 .aero-hero {
     position: relative;
     overflow: hidden;
@@ -629,9 +670,11 @@ html, body {
     box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
 }
 
-/* --- safety-net.css --- */
-/* safety-net-raggiesoft.css */
+/* ==========================================================================
+ * PART 5: safety-net.css
+ * ========================================================================== */
 /* RaggieSoft Aero / Dark Aero Overrides - THE NUCLEAR OPTION */
+/* This section forcefully injects primary Aero aesthetics over any rogue Bootstrap components. */
 
 /* 1. Enforce Brand Font Stack Globally */
 /* Overrides standard system fonts to ensure the humanist/Aero feel is always present */
@@ -710,4 +753,3 @@ h1, h2, h3, h4, h5, h6, .navbar-brand {
     background: linear-gradient(180deg, #008393 0%, #00a4b8 100%) !important;
     box-shadow: inset 0 3px 6px rgba(0, 0, 0, 0.6), 0 0 5px rgba(0, 229, 255, 0.3) !important;
 }
-

@@ -1,7 +1,42 @@
-/* ==========================================================================
- * LAYOUT: HEADER
- * The Canopy Walkway
- * ========================================================================== */
+/**
+ * @file header.css
+ * @brief Global Navigation / "The Canopy Walkway" (WebAwesome Aerie-Hold Theme).
+ * 
+ * ARCHITECTURE & MAINTENANCE NOTES:
+ * - Domain: Raggiesoft Assets -> Aerie-Hold -> Navigation
+ * - Context: Styles the global navigation bar (`header .navbar`). Replaces strict rectangular styling with organic spacing and bioluminescent hover effects.
+ * - Integration: Overrides Bootstrap 5 defaults. Enforces color inheritance from the active theme's CSS variables, ensuring smooth dark/light toggles without JS reflows.
+ * - Web Components: Utilizes Shadow DOM penetrators (`::part`) on `wa-icon-button` and `wa-dropdown::part(panel)`.
+ * - DO NOT remove the `[data-bs-theme="dark"]` override scopes or the WebAwesome `::part` selectors, as they are critical for cross-theme layout stability.
+ * ============================================================================
+ * COMPONENT: header.css (WebAwesome Aerie-Hold Theme)
+ * CONTEXT: Global Navigation / "The Canopy Walkway"
+ *
+ * PURPOSE:
+ * Styles the global navigation bar (`header .navbar`) with "Aerie-Hold" specific
+ * aesthetics. Replaces strict rectangular styling with organic spacing, bioluminescent
+ * hover effects in dark mode, and specialized WebAwesome element targetting.
+ *
+ * ARCHITECTURAL ROLE:
+ * Loaded globally to override Bootstrap 5's default navigation behavior. Forces
+ * color inheritance from the active theme's CSS variables, ensuring the header
+ * reacts smoothly to dark/light toggle switches without JavaScript reflows.
+ *
+ * KEY COMPONENTS:
+ * - Text Styling: Enforces uppercase, widely spaced typography for nav links
+ *   to emulate sci-fi / military readout panels.
+ * - Dark Mode Overrides: Injects `text-shadow` glows and alters bottom border
+ *   opacities when `[data-bs-theme="dark"]` is active.
+ * - WebAwesome Integration: Targets `wa-icon-button` and `wa-dropdown::part(panel)`
+ *   using Web Components Shadow DOM penetrators (`::part`) to ensure custom UI
+ *   elements match the site's organic theme.
+ *
+ * MAINTENANCE NOTES:
+ * - `!important` tags are required to break through Bootstrap's high-specificity
+ *   classes (`.navbar-light`, etc.).
+ * - Do not alter the `::part(panel)` selectors unless upgrading WebAwesome versions.
+ * ============================================================================
+ */
 
 header .navbar {
     background-color: var(--bs-body-bg) !important;

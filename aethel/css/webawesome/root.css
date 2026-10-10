@@ -1,7 +1,32 @@
+/**
+ * ============================================================================
+ * FILE: root.css (The Silver Gauntlet of Aethel)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the foundational styling file for the 'Aethel' narrative environment. 
+ * It establishes a high-fantasy aesthetic by defining typography (serifs), 
+ * slow narrative transitions, and complete color mappings for both day and night 
+ * states.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Re-maps standard `--bs-*` variables entirely to support 'Sunstead Day' 
+ *   (Warm Parchment/Brown) and 'Shadowspire Night' (Void Black/Toxic Purple).
+ * - Bridges these specific mappings directly into Web Awesome Pro tokens.
+ * - Enforces specific hover states and box-shadows on narrative `.era-card` elements.
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `navbar-toggler` icon overrides rely on inline SVG data URIs to ensure 
+ *   they remain visible against custom navbar backgrounds. Any changes to navbar 
+ *   colors must re-verify the stroke color of these SVGs.
+ * - Global transition delays are controlled via `--transition-speed`. Ensure 
+ *   performance remains smooth if increasing this duration.
+ * ============================================================================
+ */
 /* root.css (The Silver Gauntlet of Aethel) */
 /* v5.2 - Fixed: Hamburger Menu visibility in Light Mode */
 
 /* --- 1. GLOBAL FONTS & CONSTANTS --- */
+/* Enforces the 'Fantasy' serif look globally */
 :root {
     --bs-font-sans-serif: 'EB Garamond', Georgia, serif;
     --bs-body-font-family: 'EB Garamond', Georgia, serif;

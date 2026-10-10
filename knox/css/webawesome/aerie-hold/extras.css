@@ -1,6 +1,26 @@
-/* extras.css - Aerie-Hold Specific Elements */
+/**
+ * ============================================================================
+ * FILE: extras.css (Aerie-Hold Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines custom aesthetic enhancements specifically for the 'Aerie-Hold' theme.
+ * Implements organic, nature-inspired visual motifs (Skill Pills/Seeds, Pods, 
+ * Mist) utilizing WebAwesome and Bootstrap 5 variables.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Relies heavily on `--bs-*` custom properties to ensure compatibility 
+ *   with Bootstrap's theme toggling (day/night modes).
+ * - Focuses on rounded, organic shapes and atmospheric blurring.
+ * 
+ * FUTURE MAINTENANCE:
+ * - When adjusting `.bg-glass-*` blur effects, ensure performance is monitored 
+ *   on lower-end devices.
+ * - The bio-luminescent hover effect on `.btn-primary` must maintain WCAG 
+ *   contrast standards when changing primary colors.
+ * ============================================================================
+ */
 
-/* 1. Skill Pills (Organic Tags) */
+/* 1. Skill Pills (Organic Tags) - Used for labeling stats or traits */
 .skill-pill {
     font-family: var(--bs-font-monospace);
     font-size: 0.7rem;

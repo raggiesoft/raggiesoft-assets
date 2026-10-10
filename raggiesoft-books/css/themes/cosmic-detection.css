@@ -1,28 +1,66 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: COSMIC DETECTION
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Cosmic Detection" reading theme.
+ *          This theme utilizes deep space teals and cyan accents, providing 
+ *          a sci-fi/technical aesthetic while maintaining readability.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Cosmic Detection */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features icy blue-whites with deep teal text.
+ */
 body.theme-cosmic-detection,
 body.theme-light.theme-cosmic-detection {
-    --rs-bg: #ecfeff;
-    --rs-surface: #cffafe;
-    --rs-text: #164e63;
-    --rs-primary: #0891b2;
-    --rs-secondary: #06b6d4;
-    --rs-border: #a5f3fc;
+    --rs-bg: #ecfeff;       /* Icy cyan-white background */
+    --rs-surface: #cffafe;  /* Very light cyan for elevated cards/modals */
+    --rs-text: #164e63;     /* Deep space teal for high contrast text */
+    --rs-primary: #0891b2;  /* Strong cyan/teal for primary actions */
+    --rs-secondary: #06b6d4;/* Brighter cyan for secondary UI elements */
+    --rs-border: #a5f3fc;   /* Soft cyan for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to extremely dark teals with neon cyan text.
+ */
 body.theme-dark.theme-cosmic-detection {
-    --rs-bg: #081b21;
-    --rs-surface: #164e63;
-    --rs-text: #ecfeff;
-    --rs-primary: #22d3ee;
-    --rs-secondary: #06b6d4;
-    --rs-border: #155e75;
+    --rs-bg: #081b21;       /* Near-black deep space teal background */
+    --rs-surface: #164e63;  /* Lighter space teal for elevated surfaces */
+    --rs-text: #ecfeff;     /* Icy white/cyan text for readability */
+    --rs-primary: #22d3ee;  /* Neon cosmic cyan for primary actions */
+    --rs-secondary: #06b6d4;/* Slightly darker cyan for secondary actions */
+    --rs-border: #155e75;   /* Mid-tone teal for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-cosmic-detection,
     body:not(.theme-light):not(.theme-dark).theme-cosmic-detection {
         --rs-bg: #081b21;

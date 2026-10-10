@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: DIVINE TEMPLE - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Divine Temple" reading theme for the Stardust 
+ * Engine. It utilizes pure whites, shining golds, and stark navy blue contrasts 
+ * to create a pristine, holy, or elevated reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - pristine white and gold)
+ *    - Forced Dark Mode (Deep space navy with glowing gold text/accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Divine Temple */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-divine-temple,
 body.theme-light.theme-divine-temple {
-    --rs-bg: #ffffff;
-    --rs-surface: #f8fafc;
-    --rs-text: #0f172a;
-    --rs-primary: #eab308;
-    --rs-secondary: #facc15;
-    --rs-border: #e2e8f0;
+    --rs-bg: #ffffff; /* Pure, blinding white */
+    --rs-surface: #f8fafc; /* Very light slate for subtle contrast */
+    --rs-text: #0f172a; /* Dark navy text */
+    --rs-primary: #eab308; /* Strong gold primary */
+    --rs-secondary: #facc15; /* Bright yellow/gold secondary */
+    --rs-border: #e2e8f0; /* Light border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-divine-temple {
-    --rs-bg: #020617;
-    --rs-surface: #0f172a;
-    --rs-text: #ffffff;
-    --rs-primary: #fef08a;
-    --rs-secondary: #fde047;
-    --rs-border: #1e293b;
+    --rs-bg: #020617; /* Deepest navy/black background */
+    --rs-surface: #0f172a; /* Elevated navy surface */
+    --rs-text: #ffffff; /* Pure white text */
+    --rs-primary: #fef08a; /* Pale, glowing gold primary */
+    --rs-secondary: #fde047; /* Brighter gold secondary */
+    --rs-border: #1e293b; /* Dark navy border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-divine-temple,
     body:not(.theme-light):not(.theme-dark).theme-divine-temple {
-        --rs-bg: #020617;
+        --rs-bg: #020617; /* Matches Forced Dark Mode */
         --rs-surface: #0f172a;
         --rs-text: #ffffff;
         --rs-primary: #fef08a;

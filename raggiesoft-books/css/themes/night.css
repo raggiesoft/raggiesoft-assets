@@ -1,33 +1,70 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: NIGHT - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Night" reading theme for the Stardust Engine. 
+ * This is a specialized, rigid theme (heavily inspired by GitHub Dark) that 
+ * explicitly overrides all layout frameworks to guarantee a unified dark mode 
+ * experience, regardless of user OS settings or local app toggles.
+ * 
+ * Core Components:
+ * 1. Omni-State Selector: The CSS targets `.theme-night` along with `.theme-light`, 
+ *    `.theme-dark`, and `.theme-auto` simultaneously. This ensures the theme 
+ *    is strictly forced and cannot be accidentally overridden by cascade rules.
+ * 2. Cross-Framework Overrides:
+ *    - `Stardust Engine Variables` (`--rs-*`): Standard reader UI styling.
+ *    - `WebAwesome / RaggieSoft Grid Variables` (`--wa-*`): Overrides the underlying 
+ *      component polyfills to match the dark aesthetic.
+ *    - `Bootstrap Legacy Variables` (`--bs-*`): Catches any lingering legacy 
+ *      components that haven't been migrated to the Stardust/WA tokens.
+ * 
+ * Maintainability Notes:
+ * - Do NOT introduce light mode variants to this file. It is intentionally 
+ *   hardcoded to a single dark state.
+ * - When adding new overarching design tokens to the engine, they must be 
+ *   explicitly mapped here to prevent them from falling back to default white.
+ * ============================================================================
+ */
+
 /* Theme Name: Night */
+/* theme-night.css */
+
+/* --- Forced Omni-State --- */
+/* Applies the dark palette regardless of the user's light/dark/auto selection */
 body.theme-night,
 body.theme-light.theme-night,
 body.theme-dark.theme-night,
 body.theme-auto.theme-night {
-    /* Stardust Engine Variables */
-    --rs-bg: #0d1117;
-    --rs-surface: #161b22;
-    --rs-text: #c9d1d9;
-    --rs-primary: #58a6ff;
-    --rs-secondary: #79c0ff;
-    --rs-border: #30363d;
-    --rs-asl: #3fb950; /* Emerald-400 equivalent for dark mode */
-    --rs-gesture: #8b949e; /* Gray-400 for dark mode */
+    
+    /* 1. Stardust Engine Variables */
+    --rs-bg: #0d1117; /* Very dark blue/gray */
+    --rs-surface: #161b22; /* Elevated dark panel */
+    --rs-text: #c9d1d9; /* High contrast off-white */
+    --rs-primary: #58a6ff; /* Bright blue accent */
+    --rs-secondary: #79c0ff; /* Lighter blue secondary */
+    --rs-border: #30363d; /* Dark gray border */
+    
+    /* Specific formatting highlights for story content */
+    --rs-asl: #3fb950; /* Emerald-400 equivalent for dark mode (sign language) */
+    --rs-gesture: #8b949e; /* Gray-400 for dark mode (physical actions) */
 
-    /* RaggieSoft Grid / WebAwesome Overrides to fix inheritance */
+    /* 2. RaggieSoft Grid / WebAwesome Overrides to fix inheritance */
     --wa-color-surface-default: #0d1117;
     --wa-color-text-normal: #c9d1d9;
     --wa-color-brand-fill: #58a6ff;
     --wa-color-brand-text: #79c0ff;
     --wa-color-neutral-border-quiet: #30363d;
 
-    /* Legacy Bootstrap Overrides (if any components still use them) */
+    /* 3. Legacy Bootstrap Overrides (if any components still use them) */
     --bs-body-bg: #0d1117;
     --bs-body-color: #c9d1d9;
     --bs-primary: #58a6ff;
     --bs-secondary: #79c0ff;
     --bs-border-color: #30363d;
     
-    /* Links */
+    /* Base link overrides */
     --bs-link-color: #58a6ff;
     --bs-link-hover-color: #79c0ff;
 }

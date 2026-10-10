@@ -1,15 +1,42 @@
-/* header.css (Fractured Prisms) */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: header.css (Fractured Prisms Theme)
+ * ==========================================================================
+ * Defines the atmospheric styling for the global navigation bar (`header .navbar`).
+ * It modifies Bootstrap's default presentation to align with the "Ghostly/Tech" 
+ * identity of the Fractured Prisms theme.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - The blur effect (`backdrop-filter`) creates a frosted glass look but 
+ *   may impact scroll performance on lower-end mobile devices.
+ * - The `!important` flag on `background-color` is necessary to overwrite 
+ *   Bootstrap's heavily specified background utility classes if they are 
+ *   present on the navbar container.
+ * ========================================================================== */
 
+/* --------------------------------------------------------------------------
+ * 1. Primary Navbar Container
+ * -------------------------------------------------------------------------- */
 header .navbar {
+    /* Enforce the technical UI font for navigation links */
     font-family: var(--font-tech);
     letter-spacing: 0.5px;
+    
+    /* Dynamic background mapped to the core theme variables */
     background-color: var(--bs-navbar-bg) !important;
     border-bottom: 1px solid var(--bs-border-prism);
-    box-shadow: 0 4px 20px rgba(177, 156, 217, 0.05); /* Ghostly glow */
+    
+    /* Ghostly purple/cyan thematic glow */
+    box-shadow: 0 4px 20px rgba(177, 156, 217, 0.05); 
+    
+    /* Translucent frosted glass effect */
     backdrop-filter: blur(10px);
 }
 
+/* --------------------------------------------------------------------------
+ * 2. Brand Identity (Logo/Title Text)
+ * -------------------------------------------------------------------------- */
 header .navbar-brand {
+    /* Contrast the tech nav links with the core Gothic display font */
     font-family: var(--font-gothic);
     font-weight: 700;
     font-size: 1.5rem;
@@ -17,12 +44,16 @@ header .navbar-brand {
     letter-spacing: 2px;
 }
 
+/* --------------------------------------------------------------------------
+ * 3. Navigation Links & Toggles
+ * -------------------------------------------------------------------------- */
 header .nav-link {
     font-weight: bold;
     text-transform: uppercase;
     font-size: 0.85rem;
 }
 
-header wa-icon-button[name=\"bars\"] {
+header wa-icon-button[name="bars"] {
+    /* Subdue the hamburger menu border to blend with the ghostly aesthetic */
     border-color: var(--bs-secondary);
 }

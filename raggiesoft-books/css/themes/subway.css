@@ -1,35 +1,74 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: SUBWAY
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Subway" reading theme.
+ *          This theme utilizes industrial concrete grays paired with 
+ *          vibrant transit-line accents (Emerald and Indigo) for a modern, 
+ *          urban aesthetic.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Subway */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features clean concrete grays with deep transit-line accents.
+ */
 body.theme-subway,
 body.theme-light.theme-subway {
---rs-bg: #f3f4f6; /* Concrete gray */
-    --rs-surface: #ffffff;
-    --rs-text: #1f2937;
-    --rs-primary: #047857; /* Emerald Line Green */
-    --rs-secondary: #4338ca; /* Indigo Line Blue */
-    --rs-border: #d1d5db;
+    --rs-bg: #f3f4f6;       /* Concrete gray for the main background */
+    --rs-surface: #ffffff;  /* Clean white for elevated cards/modals */
+    --rs-text: #1f2937;     /* Dark slate for high contrast text */
+    --rs-primary: #047857;  /* Emerald Line Green for primary actions */
+    --rs-secondary: #4338ca;/* Indigo Line Blue for secondary UI elements */
+    --rs-border: #d1d5db;   /* Standard gray for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to deep tunnel grays with glowing neon accents.
+ */
 body.theme-dark.theme-subway {
---rs-bg: #111827; /* Dark tunnel */
-        --rs-surface: #1f2937;
-        --rs-text: #f9fafb;
-        --rs-primary: #10b981; /* Glowing Emerald */
-        --rs-secondary: #6366f1; /* Glowing Indigo */
-        --rs-border: #374151;
+    --rs-bg: #111827;       /* Dark tunnel background */
+    --rs-surface: #1f2937;  /* Lighter asphalt for elevated surfaces */
+    --rs-text: #f9fafb;     /* Very pale gray text for readability */
+    --rs-primary: #10b981;  /* Glowing Emerald neon for primary actions */
+    --rs-secondary: #6366f1;/* Glowing Indigo neon for secondary actions */
+    --rs-border: #374151;   /* Medium dark gray for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-subway,
     body:not(.theme-light):not(.theme-dark).theme-subway {
---rs-bg: #111827; /* Dark tunnel */
+        --rs-bg: #111827;       /* Dark tunnel background */
         --rs-surface: #1f2937;
         --rs-text: #f9fafb;
-        --rs-primary: #10b981; /* Glowing Emerald */
-        --rs-secondary: #6366f1; /* Glowing Indigo */
+        --rs-primary: #10b981;  /* Glowing Emerald */
+        --rs-secondary: #6366f1;/* Glowing Indigo */
         --rs-border: #374151;
     }
 }

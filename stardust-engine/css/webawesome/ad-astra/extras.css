@@ -1,59 +1,89 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AD ASTRA EXTRAS & GLOBAL PATCHES (extras.css)
+ * ==========================================================================
+ * This file serves a dual purpose:
+ * 1. It implements the highly specific "Ad Astra" theme overrides, including 
+ *    the animated starfield background, glassmorphism UI components, and 
+ *    neon terminal elements.
+ * 2. It bundles legacy RaggieSoft global structural fixes (e.g., missing 
+ *    Bootstrap classes, blockquote fixes, scrolling locks) required across 
+ *    the entire network architecture.
+ * ========================================================================== */
+
 /* extras-ad-astra.css */
 /* --- AD ASTRA EXTRAS --- */
 /* Starfield & Glassmorphism Utilities */
 
+/* --------------------------------------------------------------------------
+ * 1. AD ASTRA: TEXT & BUTTON EFFECTS
+ * -------------------------------------------------------------------------- */
+/* Dynamic glowing gradient text */
 .text-glow-primary {
     background: linear-gradient(135deg, #FFD700 0%, #7000FF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     filter: drop-shadow(0 0 8px rgba(112, 0, 255, 0.5));
 }
+
+/* Exempt icons inside glowing text from being clipped improperly */
 .text-glow-primary i {
     -webkit-text-fill-color: initial !important;
     background: none;
     color: inherit;
 }
 
+/* Astra neon button styling */
 .btn-primary {
     box-shadow: 0 0 15px rgba(112, 0, 255, 0.4);
     border: 1px solid rgba(255,255,255,0.2);
 }
+
 .btn-primary:hover {
-    box-shadow: 0 0 25px rgba(112, 0, 255, 0.8);
+    box-shadow: 0 0 25px rgba(112, 0, 255, 0.8); /* Intensify glow */
     color: #fff;
 }
 
+/* --------------------------------------------------------------------------
+ * 2. AD ASTRA: CRITICAL THEME OVERRIDES
+ * -------------------------------------------------------------------------- */
 /* --- 1. CRITICAL THEME OVERRIDES --- */
 
-/* FORCE Sidebar & Footer to be Dark */
+/* FORCE Sidebar & Footer to be Dark to match the space aesthetic */
 .bg-body-tertiary {
     background-color: rgba(5, 5, 10, 0.9) !important; /* Match Starfield */
     color: #E0E0FF !important; /* Light Text */
     border-color: #7000FF !important; /* Astra Violet Borders */
 }
 
-/* Fix Sidebar Links */
+/* Fix Sidebar Links for visibility against the forced dark background */
 .bg-body-tertiary .nav-link {
     color: #B0B0C0 !important; /* Light Grey */
 }
+
 .bg-body-tertiary .nav-link:hover, 
 .bg-body-tertiary .nav-link.active {
     color: #00FFFF !important; /* Astra Cyan */
     background-color: rgba(112, 0, 255, 0.2); /* Violet Highlight */
 }
 
-/* Fix Footer Text */
+/* Fix Footer Text visibility */
 .bg-body-tertiary .text-body-secondary,
 .bg-body-tertiary .text-white {
     color: #A0A0C0 !important; /* Readable Dim Text */
 }
+
 .bg-body-tertiary a {
     color: #FFD700 !important; /* Astra Gold Links */
 }
 
+/* --------------------------------------------------------------------------
+ * 3. AD ASTRA: STARFIELD BACKGROUND (Animation)
+ * -------------------------------------------------------------------------- */
 /* --- 2. STARFIELD BACKGROUND --- */
+/* Infinitely scroll the twinkling stars layer */
 @keyframes move-twink-back { from {background-position:0 0;} to {background-position:-10000px 5000px;} }
 
+/* Base static star layer */
 .starfield-container { 
     position: fixed; 
     top: 0; left: 0; 
@@ -62,6 +92,8 @@
     z-index: -1; 
     background: #050508 url('https://assets.raggiesoft.com/common/patterns/stars-transparent.png') repeat top center; 
 }
+
+/* Overlay animated twinkling layer */
 .starfield-twinkling { 
     background: transparent url('https://assets.raggiesoft.com/common/patterns/twinkling.png') repeat top center; 
     z-index: -1; 
@@ -72,13 +104,18 @@
     opacity: 0.3; 
 }
 
+/* --------------------------------------------------------------------------
+ * 4. AD ASTRA: UI COMPONENT FIXES (Glass & Terminal)
+ * -------------------------------------------------------------------------- */
 /* --- 3. UI COMPONENT FIXES --- */
 
-/* Glass Container (Main Content) */
+/* Glass Container (Main Content) - Uses backdrop-filter for frosted effect */
 .glass-container {
     position: relative;
     background: rgba(5, 5, 8, 0.85); 
 }
+
+/* Apply blur to a pseudo-element to avoid blurring child contents */
 .glass-container::before {
     content: "";
     position: absolute;
@@ -94,6 +131,7 @@
     border: 1px solid #7000FF; /* Violet Border */
     overflow: visible; 
 }
+
 .glass-card::before {
     content: "";
     position: absolute;
@@ -103,16 +141,17 @@
     border-radius: var(--bs-card-border-radius);
 }
 
-/* Terminal Style */
+/* Terminal Style - Sci-Fi computer readout aesthetic */
 .terminal-card {
     background-color: rgba(10, 20, 10, 0.95); 
     border: 1px solid #00FF41; 
     font-family: 'Courier New', Courier, monospace;
     color: #00FF41;
-    box-shadow: 0 0 15px rgba(0, 255, 65, 0.15);
+    box-shadow: 0 0 15px rgba(0, 255, 65, 0.15); /* Soft green glow */
     font-size: 0.9rem;
     line-height: 1.4;
 }
+
 .terminal-header {
     border-bottom: 1px solid #00FF41;
     padding-bottom: 10px;
@@ -122,9 +161,13 @@
     letter-spacing: 1px;
 }
 
+/* Interactive elements inside the terminal */
 .timestamp-link { cursor: pointer; transition: all 0.2s ease; text-decoration: none; }
 .timestamp-link:hover { color: #00FFFF !important; text-shadow: 0 0 8px #00FFFF; }
 
+/* --------------------------------------------------------------------------
+ * 5. RAGGIESOFT GLOBAL EXTRAS (Structural Network Patches)
+ * -------------------------------------------------------------------------- */
 /* ==========================================================================
    RAGGIESOFT GLOBAL EXTRAS
    Path: assets.raggiesoft.com/common/css/bootstrap-common/raggiesoft-extras.css
@@ -133,7 +176,6 @@
 
 /* --- Blockquote Footer Override --- */
 /* Restores the standard citation styling for quotes (Bootstrap 5 fix) */
-
 .blockquote-footer {
     display: block;
     font-size: 0.875em; /* Slightly smaller than body text */
@@ -154,7 +196,8 @@
 /* --- Missing Bootstrap Utilities (Backfill) --- */
 
 /* .btn-outline-light */
-/* Required for "Crash of '90" navigation buttons on dark backgrounds */
+/* Required for "Crash of '90" navigation buttons on dark backgrounds.
+   Manually polyfilling variables that Bootstrap occasionally drops. */
 .btn-outline-light {
   --bs-btn-color: #f8f9fa;
   --bs-btn-border-color: #f8f9fa;
@@ -173,22 +216,25 @@
 }
 
 /* --- Global Layout Fixes --- */
-/* Temporary fix: Force disable horizontal scrolling on all devices */
+/* Temporary fix: Force disable horizontal scrolling on all devices to prevent
+   layout breaks from poorly constrained elements. */
 html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
 
+/* Handwriting utility class */
 .font-handwriting {
     font-family: 'Reenie Beanie', cursive;
     font-size: 1.5rem; /* It needs to be slightly larger to be readable */
     transform: rotate(-1deg); /* Slight tilt adds realism */
 }
 
-/* Default: No animation */
+/* --- Accessibility Respectful Animations --- */
+/* Default: No animation (Safe state) */
 .blink-animation { opacity: 1; }
 
-/* Only pulse if the user is okay with motion */
+/* Only pulse if the user is okay with motion (Respects OS-level accessibility settings) */
 @media (prefers-reduced-motion: no-preference) {
     @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
     .blink-animation { animation: blink 1s infinite; }

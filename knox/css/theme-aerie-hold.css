@@ -1,7 +1,28 @@
-/* /assets/css/theme-aerie-hold.css */
-/* Defines color variables for the Aerie-Hold / Weave theme */
+/**
+ * ============================================================================
+ * FILE: theme-aerie-hold.css
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet provides specific color overrides and component-level 
+ * variable mapping for the 'Aerie-Hold' (Weave/Greenhouse) sub-theme. 
+ * It handles the nuanced `color-mix` functions and translucent borders 
+ * that give the theme its atmospheric, misty quality.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Uses native CSS `@media (prefers-color-scheme: dark)` alongside 
+ *   Bootstrap variables to handle system-level dark mode gracefully.
+ * - Defines narrative-specific functional colors (Primary = Weave, Warning = Rust).
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `color-mix()` function for link hover states may not be supported in 
+ *   very old browsers. Monitor analytics; if legacy support is required, 
+ *   replace with hardcoded hex values.
+ * - Ensure high contrast ratios are maintained between `--bs-body-bg` and 
+ *   `--bs-body-color` if the "Greenhouse Mist" palette is adjusted.
+ * ============================================================================
+ */
 
-/* Light Mode (Default) - Greenhouse Mist */
+/* Defines color variables for the Aerie-Hold / Weave theme *//* Light Mode (Default) - Greenhouse Mist */
 :root {
   /* --- Base Theme Colors --- */
   --bs-body-bg: #F4F7F6;           /* Light Misty Green */
@@ -15,7 +36,7 @@
   --bs-tertiary-color: #111827;    /* dark-text (gray-900) */
 
   /* --- Map Narrative Colors --- */
-  /* Primary (Pact / Weave) */
+  /* Primary (Pact / Weave) - Defines the core identity color for buttons and links */
   --bs-primary: #005A5A;           /* accent-weave-dark */
   --bs-primary-rgb: 0, 90, 90;
   --bs-primary-text-emphasis: #FFFFFF;

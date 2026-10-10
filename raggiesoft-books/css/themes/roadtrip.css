@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: ROADTRIP - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Roadtrip" reading theme for the Stardust 
+ * Engine. It utilizes cool slate grays, highway sign blues, and greens to 
+ * create a crisp, modern, and navigational reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - bright daylight with high contrast)
+ *    - Forced Dark Mode (Night driving aesthetic with slate and neon accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Roadtrip */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-roadtrip,
 body.theme-light.theme-roadtrip {
---rs-bg: #f8fafc; /* Open road daylight */
-    --rs-surface: #ffffff;
-    --rs-text: #1e293b;
+    --rs-bg: #f8fafc; /* Open road daylight (very light slate) */
+    --rs-surface: #ffffff; /* Pure white panels */
+    --rs-text: #1e293b; /* Dark slate text */
     --rs-primary: #3b82f6; /* Highway sign blue */
     --rs-secondary: #22c55e; /* Highway sign green */
-    --rs-border: #cbd5e1;
+    --rs-border: #cbd5e1; /* Light slate border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-roadtrip {
---rs-bg: #0f172a;
-        --rs-surface: #1e293b;
-        --rs-text: #f8fafc;
-        --rs-primary: #60a5fa;
-        --rs-secondary: #4ade80;
-        --rs-border: #334155;
+    --rs-bg: #0f172a; /* Night sky / dark slate */
+    --rs-surface: #1e293b; /* Elevated dark slate surface */
+    --rs-text: #f8fafc; /* Light slate text for readability */
+    --rs-primary: #60a5fa; /* Soft neon blue primary */
+    --rs-secondary: #4ade80; /* Soft neon green secondary */
+    --rs-border: #334155; /* Mid-slate border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-roadtrip,
     body:not(.theme-light):not(.theme-dark).theme-roadtrip {
---rs-bg: #0f172a;
+        --rs-bg: #0f172a; /* Matches Forced Dark Mode */
         --rs-surface: #1e293b;
         --rs-text: #f8fafc;
         --rs-primary: #60a5fa;

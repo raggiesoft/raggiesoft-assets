@@ -1,31 +1,69 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: MORNING
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Morning" reading theme.
+ *          This theme uses warm, sunrise-inspired oranges and yellows to 
+ *          simulate the feeling of reading early in the day.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
+ *   contain any structural CSS rules (like paddings or margins).
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
+ *   Dark Mode (forced), and Auto Mode (media query driven).
+ * ============================================================================
+ */
+
 /* Theme Name: Morning */
 
-/* Light Mode (Base) */
+/**
+ * ----------------------------------------------------------------------------
+ * 1. LIGHT MODE (BASE)
+ * ----------------------------------------------------------------------------
+ * Applied when the theme is explicitly set to light mode, or as the default 
+ * fallback. Features soft warm backgrounds and dark brown text.
+ */
 body.theme-morning,
 body.theme-light.theme-morning {
---rs-bg: #fff7ed; /* Very faint orange/yellow sunrise */
-    --rs-surface: #ffffff;
-    --rs-text: #431407;
-    --rs-primary: #ea580c; /* Sunrise orange */
-    --rs-secondary: #fcd34d;
-    --rs-border: #fed7aa;
+    --rs-bg: #fff7ed;       /* Very faint orange/yellow sunrise background */
+    --rs-surface: #ffffff;  /* Pure white for elevated cards/modals */
+    --rs-text: #431407;     /* Deep rich brown for high contrast text */
+    --rs-primary: #ea580c;  /* Vibrant sunrise orange for primary actions */
+    --rs-secondary: #fcd34d;/* Soft yellow for secondary UI elements */
+    --rs-border: #fed7aa;   /* Light orange for dividers and borders */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/**
+ * ----------------------------------------------------------------------------
+ * 2. DARK MODE (EXPLICIT)
+ * ----------------------------------------------------------------------------
+ * Applied when the user explicitly forces the app into dark mode. 
+ * Inverts the palette to deep browns with pale orange text.
+ */
 body.theme-dark.theme-morning {
---rs-bg: #431407;
-        --rs-surface: #7c2d12;
-        --rs-text: #ffedd5;
-        --rs-primary: #fdba74;
-        --rs-secondary: #f97316;
-        --rs-border: #9a3412;
+    --rs-bg: #431407;       /* Very deep brown background */
+    --rs-surface: #7c2d12;  /* Lighter brown/rust for elevated surfaces */
+    --rs-text: #ffedd5;     /* Pale orange/off-white for readability */
+    --rs-primary: #fdba74;  /* Soft peach/orange for primary actions */
+    --rs-secondary: #f97316;/* Stronger orange for secondary actions */
+    --rs-border: #9a3412;   /* Rust/dark orange for subtle component borders */
 }
 
-/* OS Auto Dark Mode */
+/**
+ * ----------------------------------------------------------------------------
+ * 3. OS AUTO DARK MODE
+ * ----------------------------------------------------------------------------
+ * Applied when the app is in "Auto" mode and the operating system is set 
+ * to dark mode. Duplicates the dark mode variables.
+ */
 @media (prefers-color-scheme: dark) {
+    /* Target explicit .theme-auto OR bodies with no light/dark class */
     body.theme-auto.theme-morning,
     body:not(.theme-light):not(.theme-dark).theme-morning {
---rs-bg: #431407;
+        --rs-bg: #431407;
         --rs-surface: #7c2d12;
         --rs-text: #ffedd5;
         --rs-primary: #fdba74;

@@ -1,16 +1,33 @@
-/* safety-net.css (Fractured Prisms) */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: safety-net.css (Fractured Prisms Theme)
+ * ==========================================================================
+ * This stylesheet serves as the absolute baseline foundation for the document.
+ * It enforces core typography and ensures that the `<body>` element inherently
+ * responds to the dynamic CSS variables defined in the central theme file.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - This file intentionally uses fallback values (e.g., `, #0b0914`) within 
+ *   the `var()` functions. This guarantees that if the theme CSS fails to load,
+ *   the page defaults safely to the "Dark Mode" aesthetic required by the 
+ *   Fractured Prisms identity, avoiding a blinding white unstyled flash.
+ * ========================================================================== */
 
 body {
+    /* Force a traditional serif font as the global baseline for the narrative */
     font-family: 'Times New Roman', serif;
     line-height: 1.6;
-    /* Wire into dynamic background with a dark mode fallback */
+    
+    /* Wire into dynamic background with a safe deep-void dark mode fallback */
     background-color: var(--bs-body-bg, #0b0914); 
-    /* Wire into dynamic text color with a dark mode fallback */
+    
+    /* Wire into dynamic text color with a safe starlight dark mode fallback */
     color: var(--bs-body-color, #e0e0e0);
 }
 
 a {
+    /* Strip default browser underlines for a cleaner UI */
     text-decoration: none;
-    /* Wire into dynamic link color */
+    
+    /* Wire into dynamic link color, defaulting to the thematic purple */
     color: var(--bs-link-color, #b19cd9);
 }

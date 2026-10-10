@@ -1,21 +1,48 @@
 /**
- * STARDUST ENGINE: READER APP LOGIC
- * =========================================================
- * This script initializes and controls the book reader interface (Oliver).
- * It handles the sidebar toggling, keyboard shortcuts, font size, theme switching,
- * text-to-speech audio syncing, and offline progress tracking.
+ * ============================================================================
+ * STARDUST ENGINE: READER LOGIC (reader.js)
+ * ARCHITECTURAL OVERVIEW
+ * ============================================================================
  * 
- * NOTE FOR FUTURE MAINTAINERS:
- * Most state is saved to the browser's localStorage so that reading progress 
- * and settings persist between sessions without requiring user accounts or server calls.
+ * Description:
+ * This script is the primary controller for the Stardust Engine's reading 
+ * interface (Oliver). It manages user preferences, media playback, layout 
+ * adjustments, and offline capabilities entirely client-side.
+ * 
+ * Core Subsystems:
+ * 1. UI Toggles: Handles the off-canvas sidebar, settings dialogs, and 
+ *    wizard dialogs.
+ * 2. Audio Engine: Controls the `<audio>` element for in-story soundtracks 
+ *    or narration, including a custom scrubber, lyrics fetcher, loop toggling, 
+ *    and MediaSession API integration for OS-level control.
+ * 3. LocalStorage State: Persists user preferences (theme, font size, column 
+ *    width, font family, auto-play) and reading data (bookmarks, hidden books, 
+ *    last-read location) locally to avoid requiring server-side accounts.
+ * 4. Keyboard Shortcuts: Implements hotkeys for quick navigation (Next/Prev), 
+ *    theme toggling, and fullscreen mode.
+ * 5. Offline Cache Manager: Uses `fetch` to proactively download book assets 
+ *    (JSON TOC, images, HTML parts) so the Service Worker can intercept and 
+ *    cache them for offline reading.
+ * 
+ * Maintainability Notes:
+ * - This script is designed to run in a Single Page Application (SPA) context. 
+ *   The `initOceanViewReader` wrapper ensures that event listeners can be 
+ *   safely re-bound or prevented from double-binding on soft DOM swaps 
+ *   (e.g., listening for `stardust:loaded`).
+ * - All DOM queries must gracefully fail if the element doesn't exist, as 
+ *   certain UI components (like audio players) are contextual.
+ * ============================================================================
  */
 function initOceanViewReader() {
 
-    // --- SIDEBAR ---
+    // ==========================================
+    // 1. SIDEBAR MANAGEMENT
+    // ==========================================
     const sidebar = document.getElementById('stardust-sidebar');
     const toggleBtn = document.getElementById('stardust-sidebar-toggle');
     const backdrop = document.getElementById('reader-sidebar-backdrop');
 
+    // Toggles the mobile off-canvas sidebar menu
     function toggleSidebar() {
         if (sidebar && sidebar.classList.contains('open')) {
             sidebar.classList.remove('open');
@@ -34,7 +61,11 @@ function initOceanViewReader() {
     }
 
 
-    // --- OLIVER DATETIME ---
+    // ==========================================
+    // 2. IN-UNIVERSE DATETIME FORMATTING
+    // ==========================================
+    // Formats narrative timestamps according to the user's locale while 
+    // respecting the story's defined timezone (IANA).
     const dtEl = document.getElementById('story-datetime-display');
     if (dtEl) {
         const iso = dtEl.getAttribute('data-iso');
@@ -57,7 +88,9 @@ function initOceanViewReader() {
     }
 
 
-    // --- OLIVER AUDIO ---
+    // ==========================================
+    // 3. AUDIO ENGINE & MEDIA CONTROLS
+    // ==========================================
     const audioEl = document.getElementById('narrative-audio-element');
     const loopBtn = document.getElementById('narrative-audio-loop-toggle');
     const lyricsBtn = document.getElementById('narrative-audio-lyrics-toggle');
@@ -73,6 +106,7 @@ function initOceanViewReader() {
     if (audioEl && playToggleBtn) {
         const startTime = parseFloat(audioEl.getAttribute('data-start-time') || 0);
 
+        // Formats seconds into MM:SS
         function formatTime(secs) {
             if (isNaN(secs)) return '0:00';
             const m = Math.floor(secs / 60);
@@ -105,10 +139,11 @@ function initOceanViewReader() {
             if(scrubber) scrubber.max = audioEl.duration;
             if(durationDisplay) durationDisplay.textContent = formatTime(audioEl.duration);
             if (startTime > 0 && audioEl.currentTime < startTime) {
-                audioEl.currentTime = startTime;
+                audioEl.currentTime = startTime; // Jump to specific start time if provided
             }
         });
         
+        // Sync scrubber UI with audio playback
         audioEl.addEventListener('timeupdate', () => {
             if (scrubber && !scrubber.matches(':active')) {
                 scrubber.value = audioEl.currentTime;
@@ -116,6 +151,7 @@ function initOceanViewReader() {
             }
         });
         
+        // Allow user to scrub through the audio
         if (scrubber) {
             scrubber.addEventListener('input', () => {
                 if(currentTimeDisplay) currentTimeDisplay.textContent = formatTime(scrubber.value);
@@ -125,6 +161,8 @@ function initOceanViewReader() {
             });
         }
     }
+    
+    // -- Lyrics/Lore Data Fetcher --
     const lyricsClose = document.getElementById('narrative-lyrics-close');
     
     if (lyricsClose && lyricsDialog) {
@@ -142,12 +180,14 @@ function initOceanViewReader() {
             if(lyricsContent) lyricsContent.innerHTML = '<div style="text-align: center; padding: 1rem; opacity: 0.7;">Retrieving data from the Vault...</div>';
             lyricsDialog.showModal();
             
+            // Fetch raw markdown/text file
             fetch(url + "?v=" + Date.now())
                 .then(res => {
                     if (!res.ok) throw new Error("Lore file not found.");
                     return res.text();
                 })
                 .then(text => {
+                    // Simple Markdown parser for headers and bold/italic text
                     let rawBlocks = text.split(/\n\s*\n/);
                     let htmlOutput = rawBlocks.map(block => {
                         if (block.trim() === '') return '';
@@ -162,7 +202,7 @@ function initOceanViewReader() {
                             if (line.match(/^#+\s+/)) {
                                 let headerLevel = line.match(/^#+/)[0].length;
                                 let headerText = line.replace(/^#+\s+/, '').replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-                                if (headerLevel === 1) return;
+                                if (headerLevel === 1) return; // Skip H1 as it's usually the title
                                 let hClass = (headerLevel === 3 && line.includes('LORE NOTE:')) 
                                     ? 'style="font-size: 0.85rem; font-weight: 700; text-transform: uppercase; color: var(--rs-primary); letter-spacing: 1px; margin-bottom: 0.5rem;"' 
                                     : 'style="font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem;"';
@@ -196,6 +236,7 @@ function initOceanViewReader() {
         });
     }
     
+    // -- OS MediaSession Integration & Autoplay --
     if (audioEl) {
         if ('mediaSession' in navigator) {
             navigator.mediaSession.metadata = new MediaMetadata({
@@ -214,6 +255,7 @@ function initOceanViewReader() {
         if (lsSettings) {
             try {
                 const parsed = JSON.parse(lsSettings);
+                // Attempt autoplay if user has it enabled in settings
                 if (parsed.autoPlayAudio === 'true') {
                     audioEl.play().catch(err => {
                         console.warn("Autoplay blocked by browser. User must interact first.", err);
@@ -252,15 +294,16 @@ function initOceanViewReader() {
     }
 
 
-    
-
-    // --- BOOKMARKS LOGIC ---
+    // ==========================================
+    // 4. BOOKMARK SYSTEM
+    // ==========================================
+    // Saves the current URL to an array in localStorage.
     const bookmarkBtn = document.getElementById('reader-bookmark-btn');
     if (bookmarkBtn) {
         bookmarkBtn.addEventListener('click', () => {
             const currentUrl = window.location.pathname;
             let title = document.title;
-            // Clean up title
+            // Clean up title (remove site name)
             if (title.includes('|')) title = title.split('|')[0].trim();
             
             // Extract series slug from URL (e.g. /alex-chloe/book-1/chapter-1)
@@ -290,7 +333,7 @@ function initOceanViewReader() {
             localStorage.setItem('rs-bookmarks', JSON.stringify(bookmarks));
         });
 
-        // Initialize state
+        // Initialize state of the button on page load
         let bookmarks = [];
         try { bookmarks = JSON.parse(localStorage.getItem('rs-bookmarks')) || []; } catch (e) {}
         if (bookmarks.some(b => b.url === window.location.pathname)) {
@@ -299,7 +342,9 @@ function initOceanViewReader() {
         }
     }
 
-    // --- SETTINGS DIALOG ---
+    // ==========================================
+    // 5. READER SETTINGS & THEME ENGINE
+    // ==========================================
     const dialog = document.getElementById('reader-settings-dialog');
     const btnOpen = document.getElementById('reader-settings-toggle');
     const btnClose = document.getElementById('close-settings-btn');
@@ -316,6 +361,7 @@ function initOceanViewReader() {
     const tabBtns = document.querySelectorAll('.settings-tab');
     const tabContents = document.querySelectorAll('.settings-tab-content');
     
+    // Handles tab switching inside the settings modal
     if (tabBtns) {
         tabBtns.forEach(btn => {
             btn.addEventListener('click', (e) => { e.preventDefault();
@@ -337,6 +383,7 @@ function initOceanViewReader() {
     let currentAutoPlayAudio = 'false';
     let currentCustomThemeEnabled = true;
 
+    // Load Settings from LocalStorage
     try {
         const stored = localStorage.getItem('reader-settings');
         if (stored) {
@@ -347,6 +394,7 @@ function initOceanViewReader() {
             if (settings.fontFamily) { applyFontFamily(settings.fontFamily); } else { applyFontFamily('system-ui, -apple-system, sans-serif'); }
             if (settings.autoPlayAudio) { applyAudioSetting(settings.autoPlayAudio); } else { applyAudioSetting('false'); }
         } else {
+            // Defaults
             applyTheme('auto', true);
             applyWidth('default');
             applyFontFamily('system-ui, -apple-system, sans-serif');
@@ -369,18 +417,22 @@ function initOceanViewReader() {
     if (btnDecrease) btnDecrease.addEventListener('click', () => applyFontSize(Math.max(currentFontSize - 0.1, 0.8)));
     if (btnReset) btnReset.addEventListener('click', () => applyFontSize(1.15));
 
+    // Core Theme Application Logic
+    // Strips old themes and applies the new base theme, then layers the custom narrative theme if enabled.
     function applyTheme(theme, customEnabled = true) {
         currentCustomThemeEnabled = customEnabled;
         if (customThemeToggle) customThemeToggle.checked = customEnabled;
         const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
         if (wizCustomTheme) wizCustomTheme.checked = customEnabled;
         
+        // Strip base themes
         document.body.classList.remove('theme-light', 'theme-dark', 'theme-sepia', 'theme-dark-sepia', 'theme-sepia-system', 'theme-auto', 'theme-custom');
         
         const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
         const narrativeTheme = customThemeMeta ? customThemeMeta.getAttribute('content') : null;
         const customThemeLink = document.getElementById('narrative-theme-css');
         
+        // Strip custom themes via regex and exact match
         if (narrativeTheme) {
             document.body.classList.remove(`theme-${narrativeTheme}`);
         }
@@ -389,6 +441,7 @@ function initOceanViewReader() {
         // ALWAYS apply the base theme class (e.g. theme-auto, theme-dark) as a fallback
         document.body.classList.add(`theme-${theme}`);
 
+        // Re-apply custom narrative theme if author defined it AND user wants it
         if (currentCustomThemeEnabled && narrativeTheme && narrativeTheme.trim() !== '') {
             document.body.classList.add('theme-custom');
             document.body.classList.add(`theme-${narrativeTheme}`);
@@ -452,6 +505,7 @@ function initOceanViewReader() {
         });
     }
 
+    // Persist to local storage
     function saveSettings() {
         localStorage.setItem('reader-settings', JSON.stringify({
             theme: themeSelect ? themeSelect.value : 'auto',
@@ -463,9 +517,13 @@ function initOceanViewReader() {
         }));
     }
 
+    // ==========================================
+    // 6. ONBOARDING WIZARD
+    // ==========================================
     const wizardDialog = document.getElementById('reader-wizard-dialog');
     const hasCompletedWizard = localStorage.getItem('rs-wizard-completed');
 
+    // Show wizard on first settings click, else show normal settings dialog
     if (btnOpen) {
         btnOpen.addEventListener('click', () => {
             if (localStorage.getItem('rs-wizard-completed')) {
@@ -487,6 +545,7 @@ function initOceanViewReader() {
     const btnPrev = document.getElementById('wizard-btn-prev');
     const btnFinish = document.getElementById('wizard-btn-finish');
     
+    // Global hook for the "Run Wizard Again" button inside normal settings
     window.runWelcomeWizard = function() {
         localStorage.removeItem('rs-wizard-completed');
         if (dialog && dialog.open) dialog.close();
@@ -497,6 +556,7 @@ function initOceanViewReader() {
         }
     };
     
+    // Sync wizard inputs with settings inputs
     const wizTheme = document.getElementById('wizard-theme-select');
     const wizWidth = document.getElementById('wizard-width-select');
     const wizFont = document.getElementById('wizard-font-select');
@@ -525,6 +585,7 @@ function initOceanViewReader() {
         
         let cdnUrl = '';
         if (wizardDialog) cdnUrl = wizardDialog.getAttribute('data-cdn-url');
+        // Update the decorative sidebar image based on step
         const stepImages = {
             1: cdnUrl + '/stardust-engine-library/images/wizard/isabel_oliver_hug.jpg',
             2: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_oliver_hug.jpg',
@@ -574,6 +635,10 @@ function initOceanViewReader() {
         });
     }
 
+    // ==========================================
+    // 7. DEVELOPER THEME TESTER (Easter Egg)
+    // ==========================================
+    // 5 clicks on the Settings Title opens a secret theme injection tool.
     const readerTitle = document.getElementById('reader-settings-title');
     const devTesterDialog = document.getElementById('dev-theme-tester-dialog');
     const btnCloseDevTester = document.getElementById('close-dev-tester-btn');
@@ -613,6 +678,7 @@ function initOceanViewReader() {
     if (devThemeApply && devThemeInput && devThemeForceMode) {
         devThemeInput.addEventListener('change', () => {
             const selectedOption = devThemeInput.options[devThemeInput.selectedIndex];
+            // Disable mode switching for themes that enforce a single state (like 'Night' or 'Stadium')
             if (selectedOption && selectedOption.dataset.supportsModes === 'false') {
                 devThemeForceMode.disabled = true;
                 devThemeForceMode.value = 'auto';
@@ -636,6 +702,7 @@ function initOceanViewReader() {
                 }
                 meta.setAttribute('content', themeName);
                 
+                // Inject the stylesheet dynamically
                 let link = document.getElementById('narrative-theme-css');
                 if (!link) {
                     link = document.createElement('link');
@@ -664,7 +731,9 @@ function initOceanViewReader() {
         });
     }
 
-    // --- Library Management Logic ---
+    // ==========================================
+    // 8. LIBRARY MANAGEMENT (Offline & Hiding)
+    // ==========================================
     const libraryList = document.getElementById('library-management-list');
     
     // Always apply hidden books to the catalog if cards exist
@@ -687,7 +756,8 @@ function initOceanViewReader() {
     // Call it immediately so books hide on catalog load
     applyHiddenBooks();
 
-    // Offline caching functions
+    // Fetches the TOC and aggressively prefetches every part of the book
+    // so the Service Worker can cache it.
     async function downloadBookForOffline(slug) {
         const cdnBase = document.body.dataset.cdnUrl || 'https://assets.raggiesoft.com';
         try {
@@ -727,6 +797,7 @@ function initOceanViewReader() {
         }
     }
 
+    // Connects to the Cache API directly to purge stored books
     async function removeBookFromOffline(slug) {
         try {
             console.log('Removing book from offline cache: ' + slug);
@@ -746,7 +817,7 @@ function initOceanViewReader() {
     }
 
     if (libraryList) {
-        // Populate the list (only once)
+        // Populate the Library Management list (only once)
         if (libraryList.children.length === 0) {
             const cdnBase = document.body.dataset.cdnUrl || 'https://assets.raggiesoft.com';
             fetch(`${cdnBase}/raggiesoft-books/books/catalog.json`)
@@ -758,6 +829,7 @@ function initOceanViewReader() {
                     books.forEach(book => {
                         const isHidden = hiddenBooks.includes(book.slug);
                         
+                        // Construct the list item UI
                         const item = document.createElement('div');
                         item.style = 'display: flex; justify-content: space-between; align-items: center; padding: 0.75rem; background: var(--rs-surface); border: 1px solid var(--rs-border); border-radius: 8px;';
                         
@@ -765,7 +837,7 @@ function initOceanViewReader() {
                         titleDiv.style = 'font-weight: 600; color: var(--rs-heading); font-size: 0.95rem;';
                         titleDiv.textContent = book.title;
                         
-                        // Create a toggle switch
+                        // Create a custom toggle switch
                         const label = document.createElement('label');
                         label.style = 'position: relative; display: inline-block; width: 44px; height: 24px; cursor: pointer;';
                         
@@ -791,15 +863,18 @@ function initOceanViewReader() {
                         };
                         updateSwitchUI();
                         
+                        // Handle toggling visibility and offline cache
                         checkbox.addEventListener('change', async (e) => {
                             updateSwitchUI();
                             let currentHidden = [];
                             try { currentHidden = JSON.parse(localStorage.getItem('rs-hidden-books') || '[]'); } catch(e) {}
                             
                             if (!e.target.checked) {
+                                // Book is being hidden
                                 if (!currentHidden.includes(book.slug)) currentHidden.push(book.slug);
                                 await removeBookFromOffline(book.slug);
                             } else {
+                                // Book is being shown
                                 currentHidden = currentHidden.filter(s => s !== book.slug);
                                 await downloadBookForOffline(book.slug);
                             }
@@ -819,7 +894,11 @@ function initOceanViewReader() {
                 .catch(err => console.error("Could not load catalog for management", err));
         }
     }
-    // --- KEYBOARD SHORTCUTS ---
+
+    // ==========================================
+    // 9. KEYBOARD SHORTCUTS
+    // ==========================================
+    // Renders a temporary toast notification at the bottom of the screen
     function showShortcutToast(msg) {
         let toast = document.getElementById('shortcut-toast');
         if (!toast) {
@@ -852,18 +931,19 @@ function initOceanViewReader() {
     }
 
     document.addEventListener('keydown', (e) => {
-        // Ignore if typing in an input
+        // Ignore if typing in an input field
         const active = document.activeElement;
         if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || active.isContentEditable)) {
             return;
         }
 
-        // Ignore if modifier keys are pressed
+        // Ignore if modifier keys are pressed (let OS handle them)
         if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) {
             return;
         }
 
         // T: Toggle Theme
+        // Cycles through available core themes, respecting if a custom narrative theme exists
         if (e.key.toLowerCase() === 't') {
             e.preventDefault();
             const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
@@ -937,6 +1017,7 @@ function initOceanViewReader() {
             
             if (document.fullscreenElement) return; // Let default Escape behavior exit fullscreen
 
+            // Close sidebar if open
             const sidebar = document.getElementById('stardust-sidebar');
             if (sidebar && sidebar.classList.contains('open')) {
                 sidebar.classList.remove('open');
@@ -948,7 +1029,7 @@ function initOceanViewReader() {
     });
 } // end initOceanViewReader()
 
-// Prevent duplicate event listeners
+// Prevent duplicate event listeners during SPA soft-navigations
 if (!window.oceanViewReaderInitialized) {
     document.addEventListener('DOMContentLoaded', initOceanViewReader);
     document.addEventListener('stardust:loaded', initOceanViewReader);
@@ -956,7 +1037,7 @@ if (!window.oceanViewReaderInitialized) {
 }
 
 
-// Update last read location (except on catalog root)
+// Update last read location (except on catalog root) so returning users jump back in
 if (window.location.pathname !== '/' && window.location.pathname !== '/catalog') {
     localStorage.setItem('rs-last-read', window.location.pathname);
 }

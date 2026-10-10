@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: GLOOM - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Gloom" reading theme for the Stardust Engine. 
+ * It relies on a desaturated, zinc/gray color palette to evoke a bleak, 
+ * atmospheric, and muted reading environment.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback)
+ *    - Forced Dark Mode (User explicitly selected dark mode)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Gloom */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-gloom,
 body.theme-light.theme-gloom {
-    --rs-bg: #f4f4f5;
-    --rs-surface: #e4e4e7;
-    --rs-text: #27272a;
-    --rs-primary: #52525b;
-    --rs-secondary: #71717a;
-    --rs-border: #d4d4d8;
+    --rs-bg: #f4f4f5; /* Light zinc background */
+    --rs-surface: #e4e4e7; /* Slightly darker surface for cards/panels */
+    --rs-text: #27272a; /* High contrast dark zinc text */
+    --rs-primary: #52525b; /* Muted primary accent */
+    --rs-secondary: #71717a; /* Muted secondary accent */
+    --rs-border: #d4d4d8; /* Subtle border color */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-gloom {
-    --rs-bg: #09090b;
-    --rs-surface: #18181b;
-    --rs-text: #f4f4f5;
-    --rs-primary: #a1a1aa;
-    --rs-secondary: #71717a;
-    --rs-border: #27272a;
+    --rs-bg: #09090b; /* Near-black zinc background */
+    --rs-surface: #18181b; /* Elevated dark surface */
+    --rs-text: #f4f4f5; /* Light zinc text for contrast */
+    --rs-primary: #a1a1aa; /* Lighter primary accent for visibility */
+    --rs-secondary: #71717a; /* Secondary accent */
+    --rs-border: #27272a; /* Dark border color */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-gloom,
     body:not(.theme-light):not(.theme-dark).theme-gloom {
-        --rs-bg: #09090b;
+        --rs-bg: #09090b; /* Matches Forced Dark Mode */
         --rs-surface: #18181b;
         --rs-text: #f4f4f5;
         --rs-primary: #a1a1aa;

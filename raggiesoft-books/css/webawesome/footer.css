@@ -1,37 +1,76 @@
-/* bootstrap-footer.css (Encyclopedia Theme) */
+/**
+ * ============================================================================
+ * RAGGIESOFT ENCYCLOPEDIA THEME - FOOTER STYLES
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines the presentation logic for the global footer across the Encyclopedia 
+ * interface. Like the header, it ensures strict compliance with dynamic 
+ * Bootstrap/Web Awesome CSS variables for seamless theme integration.
+ * 
+ * Key Design Elements:
+ * - Muted typography for secondary architectural links.
+ * - Subtle interactive states (underlines, color shifts).
+ * - Specialized styling for hidden admin/developer console modals.
+ * 
+ * Maintenance Notes:
+ * - All colors must reference `--bs-*` custom properties to support the dynamic
+ *   light/dark modes driven by `root.css`.
+ * ============================================================================
+ */
+
 /* Path: assets/raggiesoft-books/css/bootstrap/encyclopedia/footer.css */
 
+/* -------------------------------------------------------------------------
+ * 1. Base Footer Structural Styling
+ * ------------------------------------------------------------------------- */
 footer {
+    /* Anchor to standard structural background and text variables */
     background-color: var(--bs-body-bg) !important; 
     color: var(--bs-body-color) !important;            
+    /* Thin top border physically separates footer content from main body */
     border-top: 1px solid var(--bs-border-color) !important;
 }
 
-/* Text Muting - Uses the Slate Scale from root.css */
+/* -------------------------------------------------------------------------
+ * 2. Typography Muting & Hierarchy
+ * ------------------------------------------------------------------------- */
+/* Muted text relies on secondary variables and opacity for the 'Slate Scale' */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
-    opacity: 0.8;
+    opacity: 0.8; /* Further dims text without changing the base hue */
 }
 
-/* Links */
+/* -------------------------------------------------------------------------
+ * 3. Interactive Elements (Links)
+ * ------------------------------------------------------------------------- */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
+    /* Set baseline link color and prepare an invisible/subtle underline */
     color: var(--bs-link-color) !important;
-    text-decoration-color: var(--bs-border-color); /* Subtle underline */
+    text-decoration-color: var(--bs-border-color); /* Subtle underline matching borders */
 }
 
+/* Hover state brings text forward visually */
 footer a:hover,
 footer .link-secondary:hover {
     color: var(--bs-link-hover-color) !important;
     text-decoration: underline;
 }
 
-/* Admin Modal (The Console) */
+/* -------------------------------------------------------------------------
+ * 4. Specialized Components: Admin Modal / The Console
+ * ------------------------------------------------------------------------- */
+/* 
+ * The Konami Modal is a hidden developer console. 
+ * We penetrate the Web Awesome dialog shadow DOM using `::part(panel)`.
+ */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--bs-body-bg) !important;
+    /* Thick primary-colored border denotes a structural/system UI element */
     border: 2px solid var(--bs-primary) !important;
     color: var(--bs-body-color) !important;
-    font-family: monospace; /* Encyclopedia console should feel raw */
+    /* Use monospace font to emulate a raw terminal or raw data interface */
+    font-family: monospace; 
 }

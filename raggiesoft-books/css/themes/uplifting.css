@@ -1,31 +1,63 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT THEME: UPLIFTING
+ * ============================================================================
+ * Architecture & Purpose:
+ * Defines a bright, positive, and airy visual theme. This theme relies entirely 
+ * on manipulating the `--rs-*` CSS custom properties, utilizing light pinks 
+ * and purples to evoke a cheerful or encouraging atmosphere.
+ * 
+ * Key Design Elements:
+ * - Tri-state architecture: Light mode base, explicit Dark mode, and OS Auto.
+ * - Saturated, warm accent colors ensuring a friendly user interface.
+ * 
+ * Maintenance Notes:
+ * - Maintain formatting consistency: the indentation within the selectors has been 
+ *   preserved as originally authored.
+ * - Always update both the `theme-dark` and `prefers-color-scheme` blocks
+ *   simultaneously if palette adjustments are made.
+ * ============================================================================
+ */
+
 /* Theme Name: Uplifting */
 
-/* Light Mode (Base) */
+/* -------------------------------------------------------------------------
+ * 1. Light Mode (Base Palette)
+ * ------------------------------------------------------------------------- */
+/* Default styling applied when no theme is forced or Light Mode is explicitly chosen */
 body.theme-uplifting,
 body.theme-light.theme-uplifting {
---rs-bg: #fdf4ff; /* Light, airy pink/purple */
-    --rs-surface: #ffffff;
-    --rs-text: #4a044e;
-    --rs-primary: #c026d3;
-    --rs-secondary: #e879f9;
-    --rs-border: #fae8ff;
+    --rs-bg: #fdf4ff; /* Light, airy pink/purple background for a positive feel */
+    --rs-surface: #ffffff; /* Crisp white surface to lift content blocks */
+    --rs-text: #4a044e; /* Deep purple text for high contrast readability */
+    --rs-primary: #c026d3; /* Vibrant magenta primary action color */
+    --rs-secondary: #e879f9; /* Soft, playful pink for secondary elements/hover states */
+    --rs-border: #fae8ff; /* Extremely pale pink border for subtle separation */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* -------------------------------------------------------------------------
+ * 2. Dark Mode (Explicitly Forced)
+ * ------------------------------------------------------------------------- */
+/* Styling applied ONLY when the user explicitly forces the UI to Dark Mode */
 body.theme-dark.theme-uplifting {
---rs-bg: #4a044e;
-        --rs-surface: #701a75;
-        --rs-text: #fae8ff;
-        --rs-primary: #e879f9;
-        --rs-secondary: #c026d3;
-        --rs-border: #86198f;
+    --rs-bg: #4a044e; /* Deep, rich plum background */
+    --rs-surface: #701a75; /* Slightly lighter plum surface color */
+    --rs-text: #fae8ff; /* Pale pink text to contrast against the dark background */
+    --rs-primary: #e879f9; /* Bright neon pink primary action color */
+    --rs-secondary: #c026d3; /* Darker magenta for secondary interactions */
+    --rs-border: #86198f; /* Medium plum boundary line color */
 }
 
-/* OS Auto Dark Mode */
+/* -------------------------------------------------------------------------
+ * 3. OS Auto Dark Mode Support
+ * ------------------------------------------------------------------------- */
+/* Applies the dark palette automatically based on the user's OS preference */
 @media (prefers-color-scheme: dark) {
+    /* Targets users who have set the app to 'auto' or have no preference saved */
     body.theme-auto.theme-uplifting,
     body:not(.theme-light):not(.theme-dark).theme-uplifting {
---rs-bg: #4a044e;
+        /* Mirrored from Explicit Dark Mode palette */
+        --rs-bg: #4a044e;
         --rs-surface: #701a75;
         --rs-text: #fae8ff;
         --rs-primary: #e879f9;

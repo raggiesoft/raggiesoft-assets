@@ -1,6 +1,25 @@
+/* ==============================================================================
+ * RAGGIESOFT PORTFOLIO - EXTRAS
+ * ==============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet defines custom UI components used throughout the portfolio
+ * and resume sections. It includes styling for "Skill Pills" (tag badges),
+ * interactive timeline cards, unified project card layouts, and an immersive
+ * "Glass UI" hero system.
+ *
+ * FUTURE MAINTENANCE NOTES:
+ * - Notice that sections 1-3 (Skill Pills, Timeline Cards, Project Cards) are
+ *   currently duplicated in this file. This does not break functionality but 
+ *   could be cleaned up in a future refactor.
+ * - The Immersive Hero System relies heavily on custom CSS variables 
+ *   (e.g., `--hero-overlay-color`, `--glass-bg`). These variables are expected 
+ *   to be provided by inline styles or theme CSS files.
+ * ============================================================================== */
+
 /* /portfolio/css/bootstrap/extras.css */
 
 /* 1. Skill Pills (Tech Stack Badges) */
+/* Renders compact, rounded badges for listing technologies or skills */
 .skill-pill {
     font-size: 0.85rem;
     font-weight: 600;
@@ -15,6 +34,7 @@
 }
 
 /* 2. Timeline Card (Employment/Education) */
+/* Adds a primary-colored left border to denote a timeline node, with hover lift */
 .timeline-card {
     border-left: 4px solid var(--bs-primary);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
@@ -25,6 +45,7 @@
 }
 
 /* 3. Project Cards */
+/* Flex column layout ensures card footers stick to the bottom in grid layouts */
 .project-card {
     height: 100%;
     display: flex;
@@ -36,6 +57,7 @@
 }
 
 /* /portfolio/css/bootstrap/extras.css */
+/* (Duplicate block maintained to preserve existing CSS logic payload) */
 
 /* 1. Skill Pills */
 .skill-pill {
@@ -73,6 +95,7 @@
 }
 
 /* 4. Immersive Hero System (Glass UI) */
+/* Creates a full-viewport hero section with relative positioning for absolute layers */
 .immersive-container {
     position: relative;
     min-height: 100vh;
@@ -84,6 +107,7 @@
     background-color: #000;
 }
 
+/* Background image layer. Positioned at z-index 0. Opacity transition allows for crossfading. */
 .hero-bg-layer {
     position: absolute;
     inset: 0;
@@ -94,6 +118,7 @@
     z-index: 0;
 }
 
+/* Overlay layer (e.g. gradients or color washes) layered immediately above the background */
 .hero-overlay {
     position: absolute;
     inset: 0;
@@ -101,6 +126,7 @@
     z-index: 1;
 }
 
+/* Glassmorphism card implementation. Relies on backdrop-filter to blur underlying layers */
 .glass-card {
     background: var(--glass-bg);
     backdrop-filter: blur(12px);
@@ -111,16 +137,19 @@
     transition: transform 0.3s ease, border-color 0.3s ease;
 }
 
+/* Interactive lift effect for the glass card */
 .glass-card:hover {
     transform: translateY(-5px);
     border-color: var(--glass-hover-border);
     background: var(--glass-hover-bg);
 }
 
+/* Utility shadow mapping */
 .text-shadow {
     text-shadow: var(--hero-text-shadow);
 }
 
+/* Positions actual content securely above all background and overlay layers */
 .content-wrapper {
     position: relative;
     z-index: 10;
@@ -129,11 +158,13 @@
 }
 
 /* Utility: Turn any image pure white */
+/* Extremely useful for forcing dark SVGs/PNGs into a white silhouette for dark modes */
 .img-white {
     filter: brightness(0) invert(1);
 }
 
 /* Specific: White Logo with Glow (combines your requested effects) */
+/* Extends the white inversion with a soft drop shadow for glowing brand assets */
 .logo-white-glow {
     filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.5));
 }

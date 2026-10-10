@@ -1,11 +1,38 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: STADIUM - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Stadium" reading theme for the Stardust Engine. 
+ * Unlike standard themes, "Stadium" is an atmospheric, context-specific theme 
+ * designed to evoke a "Friday Night Lights" aesthetic. 
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Forced Dark State: This theme intentionally lacks Light or OS-Auto variants. 
+ *    It forces a dark mode experience (night sky) regardless of user preference 
+ *    to preserve the specific atmospheric intent of the scene it accompanies.
+ * 
+ * Maintainability Notes:
+ * - Do NOT add light mode overrides here. The artistic intent is to force 
+ *   a dark, illuminated stadium feel.
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined.
+ * ============================================================================
+ */
+
 /* Theme Name: Stadium */
 /* theme-stadium.css */
-body.theme-stadium {
-    --rs-bg: #1e293b; /* Dark night sky */
-    --rs-surface: #0f172a;
-    --rs-text: #f8fafc;
-    --rs-primary: #facc15; /* Bright stadium lights */
-    --rs-secondary: #ef4444; /* Team colors? Maybe red/gold */
-    --rs-border: #334155;
-}
+
+/* --- Forced Atmospheric State --- */
 /* Stadium under Friday Night Lights is forced dark */
+body.theme-stadium {
+    --rs-bg: #1e293b; /* Dark night sky (slate) */
+    --rs-surface: #0f172a; /* Deepest slate for surface panels */
+    --rs-text: #f8fafc; /* High contrast white/pale slate text */
+    --rs-primary: #facc15; /* Bright stadium lights (yellow/gold) */
+    --rs-secondary: #ef4444; /* Team colors (red) */
+    --rs-border: #334155; /* Muted slate border */
+}

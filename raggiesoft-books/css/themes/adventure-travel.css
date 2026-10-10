@@ -1,31 +1,62 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: ADVENTURE TRAVEL - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Adventure Travel" reading theme for the Stardust 
+ * Engine. It utilizes sepia, leather, and dirt-brown tones to evoke a feeling 
+ * of exploration, vintage maps, and worn travel journals.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Default/Base fallback - warm parchment/sand backgrounds)
+ *    - Forced Dark Mode (Deep espresso/leather backgrounds with tan accents)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
 /* Theme Name: Adventure Travel */
 
-/* Light Mode (Base) */
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
 body.theme-adventure-travel,
 body.theme-light.theme-adventure-travel {
-    --rs-bg: #fdf8f6;
-    --rs-surface: #f2ebe9;
-    --rs-text: #4a3b32;
-    --rs-primary: #8b6a50;
-    --rs-secondary: #b48c69;
-    --rs-border: #dfcec3;
+    --rs-bg: #fdf8f6; /* Pale parchment/sand */
+    --rs-surface: #f2ebe9; /* Slightly darker sand surface */
+    --rs-text: #4a3b32; /* Dark brown/leather text */
+    --rs-primary: #8b6a50; /* Muted saddle brown primary */
+    --rs-secondary: #b48c69; /* Lighter tan secondary */
+    --rs-border: #dfcec3; /* Warm gray/brown border */
 }
 
-/* Dark Mode (Explicitly Forced) */
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
 body.theme-dark.theme-adventure-travel {
-    --rs-bg: #2e2118;
-    --rs-surface: #4a3b32;
-    --rs-text: #fdf8f6;
-    --rs-primary: #c4a080;
-    --rs-secondary: #ab815d;
-    --rs-border: #634c3a;
+    --rs-bg: #2e2118; /* Deep espresso/dark leather */
+    --rs-surface: #4a3b32; /* Elevated brown surface */
+    --rs-text: #fdf8f6; /* Pale sand text */
+    --rs-primary: #c4a080; /* Bright tan primary accent */
+    --rs-secondary: #ab815d; /* Darker tan secondary */
+    --rs-border: #634c3a; /* Mid-brown border */
 }
 
-/* OS Auto Dark Mode */
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-adventure-travel,
     body:not(.theme-light):not(.theme-dark).theme-adventure-travel {
-        --rs-bg: #2e2118;
+        --rs-bg: #2e2118; /* Matches Forced Dark Mode */
         --rs-surface: #4a3b32;
         --rs-text: #fdf8f6;
         --rs-primary: #c4a080;

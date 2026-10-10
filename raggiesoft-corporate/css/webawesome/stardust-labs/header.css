@@ -1,13 +1,44 @@
+/* ==========================================================================
+ * RAGGIESOFT CORPORATE - STARDUST LABS THEME
+ * LAYOUT: HEADER
+ * ==========================================================================
+ * 
+ * ARCHITECTURE OVERVIEW:
+ * This stylesheet defines the global navigation header for the Stardust Labs 
+ * branding ("Starliner Bridge Navigation"). It utilizes advanced CSS backdrop 
+ * filtering to create a frosted glass effect that adapts between light and dark 
+ * modes, establishing a high-tech, aerospace-inspired UI.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Glassmorphism: Implements `backdrop-filter: blur` combined with semi-transparent
+ *    custom CSS variables (`--raggie-glass-*`) bound in `root.css`.
+ * 2. Holographic Typography: Applies dynamic `text-shadow` layers to branding
+ *    elements, simulating a neon/hologram glow that intensifies in dark mode.
+ * 3. Web Awesome Integration: Specifically targets and overrides custom 
+ *    Web Awesome Web Components (`<wa-icon-button>`, `<wa-dropdown>`) shadow DOM 
+ *    parts using the `::part()` pseudo-element to match the glassmorphism theme.
+ * 
+ * USAGE INSTRUCTIONS:
+ * - Ensure `root.css` is loaded before this file so the CSS variables resolve.
+ * - This file relies on standard Bootstrap navbar classes (`.navbar`, `.navbar-brand`).
+ * ========================================================================== */
+
 /* /css/bootstrap/stardust-labs/header.css */
 /* STARDUST LABS: Starliner Bridge Navigation */
 
 /* 1. Navbar Base - The Frosted Glass Pane */
 header .navbar {
+    /* Uses the dynamic glass variable; !important forces override over Bootstrap utilities */
     background-color: var(--raggie-glass-bg) !important;
+    
+    /* Creates the frosted glass effect. Saturate boosts underlying colors */
     backdrop-filter: blur(20px) saturate(150%);
-    -webkit-backdrop-filter: blur(20px) saturate(150%);
+    -webkit-backdrop-filter: blur(20px) saturate(150%); /* Safari support */
+    
     border-bottom: 1px solid var(--raggie-glass-border) !important;
     box-shadow: var(--raggie-glass-shadow);
+    
+    /* Smooth transitions for theme toggling */
     transition: all 0.3s ease;
 }
 
@@ -18,32 +49,38 @@ header .navbar-brand {
 }
 
 /* Light Mode: Polished Silver Text */
+/* Uses a subtle white shadow to create a bevel/emboss effect against the light background */
 [data-bs-theme="light"] header .navbar-brand {
     text-shadow: 0 1px 3px rgba(255, 255, 255, 0.8);
 }
 
 /* Dark Mode: Neon Cyan Holographic Text */
+/* Uses a multi-layered cyan shadow to simulate a glowing holographic projection */
 [data-bs-theme="dark"] header .navbar-brand {
     text-shadow: 0 0 10px var(--mpr-cyan-400), 0 0 20px rgba(0, 229, 255, 0.4);
 }
 
 /* 3. Hamburger Menu - Tech Styling */
-header wa-icon-button[name=\"bars\"] {
+/* Targets the Web Awesome icon button specifically */
+header wa-icon-button[name="bars"] {
     border: 1px solid var(--raggie-glass-border) !important;
     background: rgba(255, 255, 255, 0.05);
     border-radius: 4px; /* Sharper, more industrial edges for Stardust Labs */
 }
 
-[data-bs-theme="dark"] header wa-icon-button[name=\"bars\"] {
+/* Dark Mode Hover/Focus Glow for the Hamburger */
+[data-bs-theme="dark"] header wa-icon-button[name="bars"] {
     box-shadow: 0 0 8px rgba(0, 229, 255, 0.2);
 }
 
-header wa-icon-button[name=\"bars\"] .hamburger-icon span {
+/* Targets the internal span of the hamburger icon to ensure contrast */
+header wa-icon-button[name="bars"] .hamburger-icon span {
     background: var(--bs-body-color) !important;
     box-shadow: 0 0 4px var(--raggie-gloss-highlight);
 }
 
 /* 4. Dropdowns - Navigational Menus */
+/* Uses the CSS Shadow Parts API (::part) to style the internal DOM of the Web Awesome dropdown */
 header wa-dropdown::part(panel) {
     background-color: var(--raggie-glass-bg) !important;
     backdrop-filter: blur(20px) saturate(150%);
@@ -53,14 +90,16 @@ header wa-dropdown::part(panel) {
     box-shadow: var(--raggie-glass-shadow);
 }
 
+/* Dropdown Item Base Styling */
 header wa-dropdown-item {
     color: var(--bs-body-color) !important;
     transition: all 0.2s ease;
 }
 
+/* Dropdown Item Hover/Focus State */
 header wa-dropdown-item:hover {
     background-color: var(--raggie-gloss-highlight) !important;
     color: var(--bs-primary) !important;
-    /* Navigational indicator: A subtle inset glow on hover */
+    /* Navigational indicator: A subtle inset glow on the left edge on hover */
     box-shadow: inset 4px 0 0 var(--bs-primary);
 }

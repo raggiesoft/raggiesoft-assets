@@ -1,57 +1,96 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: CRUCIBLE HEADER STYLING (header.css)
+ * ==========================================================================
+ * Defines the presentation logic for the main navigation header in the 
+ * "Live at The Crucible" theme. It leans heavily into a robust, high-contrast
+ * sporting aesthetic.
+ * 
+ * Key Responsibilities:
+ * 1. Style the navbar with thick borders characteristic of athletic apparel.
+ * 2. Define navigation link hover states with clear underline indicators.
+ * 3. Restyle Web Awesome dropdown menus and mobile hamburger icons.
+ * 4. Implement advanced CSS blend modes to handle solid JPEG corporate logos 
+ *    across both light and dark themes seamlessly.
+ * ========================================================================== */
+
 /* bootstrap-header.css (Crucible Theme) */
 
-/* 1. Navbar Base */
+/* --------------------------------------------------------------------------
+ * 1. NAVBAR BASE STRUCTURE
+ * -------------------------------------------------------------------------- */
 header .navbar {
     background-color: var(--bs-body-bg) !important;
-    border-bottom: 2px solid var(--bs-primary) !important; /* Thicker border for sport feel */
+    /* Thicker 2px border enforces the heavy sport/industrial feel */
+    border-bottom: 2px solid var(--bs-primary) !important; 
     transition: background-color 0.3s ease;
 }
 
-/* 2. Text Colors */
+/* --------------------------------------------------------------------------
+ * 2. TYPOGRAPHY & LINK COLORS
+ * -------------------------------------------------------------------------- */
 header .navbar-brand {
     color: var(--bs-heading-color, var(--bs-body-color)) !important;
 }
 
 header .nav-link {
-    color: var(--bs-body-color) !important; /* Use body color for better contrast */
+    /* Use standard body color for better contrast rather than muted grays */
+    color: var(--bs-body-color) !important; 
     opacity: 0.8;
 }
 
+/* High-visibility interactive states */
 header .nav-link:hover,
 header .nav-link.active {
     color: var(--bs-primary) !important;
     opacity: 1;
-    text-decoration: underline; /* Add underline for accessibility */
+    /* Add underline for accessibility and clear active state indication */
+    text-decoration: underline; 
     text-underline-offset: 4px;
 }
 
-/* 3. Hamburger Menu */
-header wa-icon-button[name=\"bars\"] {
+/* --------------------------------------------------------------------------
+ * 3. MOBILE CONTROLS (Hamburger Menu)
+ * -------------------------------------------------------------------------- */
+/* Target Web Awesome specific hamburger icon elements */
+header wa-icon-button[name="bars"] {
     border-color: var(--bs-primary) !important;
 }
-header wa-icon-button[name=\"bars\"] .hamburger-bar {
+
+header wa-icon-button[name="bars"] .hamburger-bar {
     background-color: var(--bs-primary) !important;
 }
 
-/* 4. Dropdowns */
+/* --------------------------------------------------------------------------
+ * 4. WEB AWESOME DROPDOWNS
+ * -------------------------------------------------------------------------- */
 header wa-dropdown::part(panel) {
     background-color: var(--bs-body-bg) !important;
+    /* Thick borders to match the navbar bottom border */
     border: 2px solid var(--bs-primary) !important;
 }
+
 header wa-dropdown-item {
     color: var(--bs-body-color) !important;
 }
+
+/* Invert text and background on hover to mimic terminal/scoreboard cursors */
 header wa-dropdown-item:hover {
     background-color: var(--bs-primary) !important; 
     color: var(--bs-white) !important; /* Invert text on hover */
 }
 
+/* --------------------------------------------------------------------------
+ * 5. CORPORATE LOGO BLEND TRICKS
+ * -------------------------------------------------------------------------- */
 /* CORPORATE LOGO MAGIC */
 .navbar-brand-corporate-img {
+    /* Light Mode: Multiply strips away pure white backgrounds from JPEGs */
     mix-blend-mode: multiply; 
 }
 
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
+    /* Dark Mode: Invert colors, strip color via grayscale, boost brightness,
+       then Screen strips away the newly inverted black background */
     filter: invert(1) grayscale(100%) brightness(1.2); 
     mix-blend-mode: screen; 
 }

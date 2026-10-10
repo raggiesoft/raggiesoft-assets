@@ -1,3 +1,29 @@
+/**
+ * ============================================================================
+ * FILE: header.css (Ad Astra Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * Defines the navigation bar styling specific to the 'Ad Astra' setting. 
+ * Abandons standard Bootstrap inheritance in favor of hardcoded, high-contrast 
+ * sci-fi neon colors (White, Cyan, Red) to guarantee legibility against 
+ * starfield backgrounds.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Introduces specific `--astra-*` variable fallbacks for link states and 
+ *   dropdown borders.
+ * - Features complex hover states for dropdown items, including a slide 
+ *   animation (`padding-left`) to mimic a terminal interface.
+ * - Manages the dynamic "hamburger" toggle states, shifting from Cyan (closed) 
+ *   to Red (open).
+ * 
+ * FUTURE MAINTENANCE:
+ * - The `.hamburger-icon span` targeting is highly specific to the current 
+ *   Web Awesome DOM. If the component internals change, the active/inactive 
+ *   states will break.
+ * - Corporate logo blend modes (`multiply`/`screen`) assume a monochrome 
+ *   source image.
+ * ============================================================================
+ */
 /* bootstrap-header.css (Dynamic Theme Support) */
 
 /* 1. Navbar Base */

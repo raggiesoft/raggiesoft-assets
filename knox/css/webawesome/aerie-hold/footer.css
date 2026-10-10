@@ -1,12 +1,33 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: AERIE-HOLD FOOTER STYLING (footer.css)
+ * ==========================================================================
+ * This file defines the visual presentation of the global footer within the 
+ * 'Aerie-Hold' theme. It extends the natural/magical aesthetic to the bottom 
+ * of the viewport.
+ * 
+ * Key Responsibilities:
+ * 1. Establish the foundational structural colors (background, text, borders) 
+ *    using dynamic theme variables.
+ * 2. Inject a custom "Moss" gradient top border via a pseudo-element.
+ * 3. Handle hyperlink interaction states (glow effects) and text muting.
+ * ========================================================================== */
+
 /* footer.css */
 
+/* --------------------------------------------------------------------------
+ * 1. BASE FOOTER STRUCTURE
+ * -------------------------------------------------------------------------- */
 footer {
+    /* Use a tertiary background to distinguish the footer from main content */
     background-color: var(--bs-tertiary-bg) !important;
     color: var(--bs-body-color) !important;
     border-top: 1px solid var(--bs-border-color) !important;
-    position: relative;
+    position: relative; /* Required for absolute positioning of pseudo-element */
 }
 
+/* --------------------------------------------------------------------------
+ * 2. THEMATIC ORNAMENTS
+ * -------------------------------------------------------------------------- */
 /* Add a "Moss" gradient line at the top */
 footer::before {
     content: '';
@@ -15,27 +36,37 @@ footer::before {
     left: 0;
     width: 100%;
     height: 3px;
+    /* Blend primary and success theme colors for an organic transition */
     background: linear-gradient(90deg, var(--bs-primary), var(--bs-success));
     opacity: 0.7;
 }
 
+/* --------------------------------------------------------------------------
+ * 3. HYPERLINKS & INTERACTIVITY
+ * -------------------------------------------------------------------------- */
 /* Footer Links */
 footer a {
     color: var(--bs-body-color) !important;
     text-decoration: none;
-    opacity: 0.7;
+    opacity: 0.7; /* Keep inactive links subdued */
     transition: opacity 0.2s ease;
 }
 
+/* Hover State - Introduce "Magical Glow" */
 footer a:hover {
     color: var(--bs-primary) !important;
     opacity: 1;
+    /* Create a soft halo effect using the primary color's RGB values */
     text-shadow: 0 0 5px rgba(var(--bs-primary-rgb), 0.5);
 }
 
+/* --------------------------------------------------------------------------
+ * 4. TYPOGRAPHY EXCEPTIONS
+ * -------------------------------------------------------------------------- */
 /* Muted Text */
+/* Override default Bootstrap muting to ensure it responds to the dynamic body color */
 footer .text-muted,
 footer .text-body-secondary {
-    opacity: 0.5;
+    opacity: 0.5; /* Control muting via opacity rather than hardcoded hex */
     color: var(--bs-body-color) !important;
 }

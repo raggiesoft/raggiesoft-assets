@@ -1,25 +1,49 @@
-/* raggiesoft-logo.css */
+/* ==========================================================================
+ * ARCHITECTURAL OVERVIEW: raggiesoft-logo.css
+ * ==========================================================================
+ * Global Brand Identity Utilities
+ * This stylesheet provides CSS filter-based manipulation for RaggieSoft 
+ * SVG and PNG logos. Instead of requiring two separate image files for 
+ * light and dark themes, this class-based system dynamically alters the 
+ * pixels of a single image on the fly.
+ * 
+ * CORE RESPONSIBILITIES:
+ * 1. Adaptive Coloring: Transforms standard logos into pure white or 
+ *    inverted versions based on the active DOM `[data-bs-theme]`.
+ * 2. Layout Stability: Ensures raw logo files do not blow out navbar sizing.
+ * 
+ * FUTURE MAINTENANCE NOTES:
+ * - CSS `filter` operations are computationally cheap but can cause subtle 
+ *   anti-aliasing artifacts on very small PNGs. Use SVG logos whenever possible.
+ * - The `.brand-img-invert` class should NOT be used on multi-color logos 
+ *   (like the Miller Center green logo) unless a specific neon/inverted effect 
+ *   is desired, as it will shift hues unpredictably.
+ * ========================================================================== */
 
-/* 1. THE "GHOST" CLASS (For RaggieSoft & Engine Room)
-   Light Mode: Shows original colors (Blue or Black).
-   Dark Mode: Forces the image to pure WHITE. 
-*/
+/* --------------------------------------------------------------------------
+ * 1. THE "GHOST" CLASS (For RaggieSoft & Engine Room)
+ * --------------------------------------------------------------------------
+ * Light Mode: Shows original colors (Blue or Black).
+ * Dark Mode: Forces the entire image to pure WHITE. 
+ */
 .brand-img-adaptive-white {
     transition: filter 0.3s ease;
 }
 
 [data-bs-theme="dark"] .brand-img-adaptive-white {
-    /* Step 1: brightness(0) turns every pixel BLACK.
-       Step 2: invert(1) turns every black pixel WHITE.
+    /* Step 1: brightness(0) turns every pixel pure BLACK.
+       Step 2: invert(1) turns every black pixel pure WHITE.
     */
     filter: brightness(0) invert(1);
 }
 
-/* 2. THE "X-RAY" CLASS (Optional for Miller Center) 
-   Light Mode: Normal (Green/Black/White).
-   Dark Mode: Inverts colors (Black lines become White).
-   *Note: This might make Green look Pink/Purple. Use with caution.*
-*/
+/* --------------------------------------------------------------------------
+ * 2. THE "X-RAY" CLASS (Optional)
+ * --------------------------------------------------------------------------
+ * Light Mode: Normal colors.
+ * Dark Mode: Inverts lightness without forcing white.
+ * Note: This shifts the hue wheel. Use with extreme caution on colored logos.
+ */
 .brand-img-invert {
     transition: filter 0.3s ease;
 }
@@ -28,22 +52,25 @@
     filter: invert(1);
 }
 
-/* 3. STANDARD SIZE UTILITY 
-   Ensures the 512px image doesn't blow up the navbar.
-*/
+/* --------------------------------------------------------------------------
+ * 3. STANDARD SIZE UTILITY
+ * --------------------------------------------------------------------------
+ * Ensures a high-res (e.g., 512px) image doesn't blow out the navbar.
+ */
 .navbar-brand img {
-    height: 40px; /* Adjust based on your navbar height */
+    height: 40px; /* Adjust based on your specific navbar height requirements */
     width: auto;
     object-fit: contain;
 }
-/* 4. THE "LOGO-INVERT" CLASS
-   Used in footers (like Stardust Engine) to invert black logos to white.
-   On Web Awesome, only do this in dark mode.
-*/
+
+/* --------------------------------------------------------------------------
+ * 4. THE "LOGO-INVERT" CLASS
+ * --------------------------------------------------------------------------
+ * Used heavily in footers (like the Stardust Engine attribution link) to 
+ * permanently invert black text logos to white regardless of theme context.
+ */
 .logo-invert {
     transition: filter 0.3s ease;
-}
-
-.logo-invert {
+    /* Forces the image to grayscale before inverting to ensure pure white/black */
     filter: invert(1) grayscale(100%) brightness(100%);
 }

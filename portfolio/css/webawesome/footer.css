@@ -1,30 +1,63 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: FOOTER STYLING (bootstrap-footer.css)
+ * ==========================================================================
+ * This file handles the specific overrides and dynamic theme support for the
+ * site's global footer and Konami Code Easter egg modal.
+ *
+ * Key Responsibilities:
+ * 1. Force footer background, text, and border colors to respect the global
+ *    Bootstrap CSS variables (--bs-*).
+ * 2. Ensure "muted" text and links maintain proper contrast in both Light
+ *    and Dark modes via !important overrides.
+ * 3. Style the hidden Konami Easter egg dialog to match the active theme.
+ * ========================================================================== */
+
 /* bootstrap-footer.css (Dynamic Theme Support) */
 
+/* --------------------------------------------------------------------------
+ * 1. BASE FOOTER STRUCTURE
+ * -------------------------------------------------------------------------- */
 footer {
+    /* Bind background to the dynamic body background variable */
     background-color: var(--bs-body-bg) !important; 
+    /* Bind primary text color */
     color: var(--bs-body-color) !important;            
+    /* Apply a standard dynamic border to separate from main content */
     border-top: 1px solid var(--bs-border-color) !important;
 }
 
+/* --------------------------------------------------------------------------
+ * 2. TYPOGRAPHY EXCEPTIONS
+ * -------------------------------------------------------------------------- */
 /* Fix Muted Text */
+/* Override default Bootstrap muted text to use the secondary theme color for contrast */
 footer .text-body-secondary,
 footer .text-muted {
     color: var(--bs-secondary) !important; 
 }
 
+/* --------------------------------------------------------------------------
+ * 3. HYPERLINKS
+ * -------------------------------------------------------------------------- */
 /* Links */
+/* Standardize all footer links to use the primary link color */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
     color: var(--bs-link-color) !important;
 }
 
+/* Provide clear visual feedback on hover */
 footer a:hover,
 footer .link-secondary:hover {
     color: var(--bs-link-hover-color) !important;
 }
 
+/* --------------------------------------------------------------------------
+ * 4. EASTER EGG COMPONENTS
+ * -------------------------------------------------------------------------- */
 /* Konami Modal (Dynamic Base) */
+/* Style the Web Awesome (<wa-dialog>) panel that triggers upon Konami code entry */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--bs-body-bg) !important;
     border: 2px solid var(--bs-primary) !important;

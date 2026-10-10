@@ -1,52 +1,89 @@
+/* ==========================================================================
+ * ARCHITECTURAL BLOCK: STARDUST ENGINE FOOTER (footer.css)
+ * ==========================================================================
+ * This file handles the baseline structural rules for the global footer across 
+ * Stardust Engine related properties. It forces strict adherence to the dynamic 
+ * Bootstrap `--bs-*` variables to ensure smooth Light/Dark mode switching.
+ * 
+ * Key Responsibilities:
+ * 1. Ensure the footer background, text, and border properly track the root theme.
+ * 2. Manage hyperlink hover states globally within the footer context.
+ * 3. Style the hidden Konami Code Easter egg modal.
+ * 4. Implement advanced CSS blend modes for solid JPEG corporate logos, dynamically 
+ *    inverting and screening them in dark mode.
+ * ========================================================================== */
+
 /* bootstrap-footer.css (Dynamic Theme Support) */
 
+/* --------------------------------------------------------------------------
+ * 1. BASE FOOTER STRUCTURE
+ * -------------------------------------------------------------------------- */
 footer {
+    /* Bind background and text to dynamic variables to support theme switching */
     background-color: var(--bs-body-bg) !important; 
     color: var(--bs-body-color) !important;            
     border-top: 1px solid var(--bs-border-color) !important;
 }
 
+/* --------------------------------------------------------------------------
+ * 2. TYPOGRAPHY EXCEPTIONS
+ * -------------------------------------------------------------------------- */
 /* Fix Muted Text */
 footer .text-body-secondary,
 footer .text-muted {
+    /* Force muted text to use the defined secondary variable to maintain WCAG contrast */
     color: var(--bs-secondary) !important; 
 }
 
+/* --------------------------------------------------------------------------
+ * 3. HYPERLINKS & INTERACTIVITY
+ * -------------------------------------------------------------------------- */
 /* Links */
 footer a,
 footer .link-secondary,
 footer .link-body-emphasis {
+    /* Unify link colors under the theme's designated link variable */
     color: var(--bs-link-color) !important;
 }
 
+/* Hover States */
 footer a:hover,
 footer .link-secondary:hover {
     color: var(--bs-link-hover-color) !important;
 }
 
+/* --------------------------------------------------------------------------
+ * 4. EASTER EGG COMPONENTS
+ * -------------------------------------------------------------------------- */
 /* Konami Modal (Dynamic Base) */
+/* Style the shadow-DOM panel of the Web Awesome dialog */
 #konamiModal wa-dialog::part(panel) {
     background-color: var(--bs-body-bg) !important;
     border: 2px solid var(--bs-primary) !important;
     color: var(--bs-body-color) !important;
 }
 
+/* --------------------------------------------------------------------------
+ * 5. CORPORATE LOGO BLEND TRICKS
+ * -------------------------------------------------------------------------- */
 /* includes/common/css/bootstrap/stardust-engine/header.css */
+/* Note: Original source indicates header, but the logic is shared/bundled here. */
 
 /* CORPORATE LOGO MAGIC (For Engine Room Records JPEG) */
 .navbar-brand-corporate-img {
     /* Default (Light Mode): 
        'Multiply' makes the white background disappear, 
-       leaving crisp black text. */
+       leaving crisp black text on light backgrounds. */
     mix-blend-mode: multiply; 
 }
 
 /* Dark Mode Override */
 [data-bs-theme="dark"] .navbar-brand-corporate-img {
-    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg) */
+    /* Step 1: Invert colors (Black Text -> White Text, White Bg -> Black Bg).
+       Grayscale ensures we do not invert any colorful elements awkwardly. */
     filter: invert(1) grayscale(100%); 
     
     /* Step 2: 'Screen' makes the new Black background disappear,
-       leaving crisp WHITE text. */
+       leaving crisp WHITE text against the dark mode canvas. */
     mix-blend-mode: screen; 
 }

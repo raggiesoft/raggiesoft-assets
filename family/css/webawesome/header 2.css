@@ -1,4 +1,32 @@
-/* /portfolio/css/bootstrap/header.css */
+/**
+ * ============================================================================
+ * COMPONENT: header 2.css (WebAwesome Family Theme)
+ * CONTEXT: Global Navigation / Legacy Fallback
+ *
+ * PURPOSE:
+ * Styles the site header with a frosted glass effect and provides the critical
+ * blend-mode hacks required to render legacy JPEG logos transparently across
+ * both light and dark modes.
+ *
+ * ARCHITECTURAL ROLE:
+ * Included globally to override default Bootstrap navbar behaviors. Note: The
+ * filename "header 2.css" suggests this is a duplicated or legacy iteration of
+ * the core header styles, likely kept for backwards compatibility or an incomplete
+ * migration from the `/portfolio` branch.
+ *
+ * KEY COMPONENTS:
+ * - Frosted Navigation: Uses `backdrop-filter: blur(10px)` combined with an RGB
+ *   alpha background to create a translucent, floating navbar effect.
+ * - Corporate Logo Magic: An optical illusion used to handle old logo assets
+ *   with white backgrounds. `multiply` strips the white in light mode, while
+ *   `invert(1)` + `screen` strips the black in dark mode.
+ *
+ * MAINTENANCE NOTES:
+ * - CAUTION: Filename contains a space (`header 2.css`). Ensure build scripts
+ *   quote the path appropriately.
+ * - Consider merging this file into `header.css` to reduce HTTP requests.
+ * ============================================================================
+ */
 header .navbar {
     backdrop-filter: blur(10px);
     background-color: rgba(var(--bs-body-bg-rgb), 0.9) !important;

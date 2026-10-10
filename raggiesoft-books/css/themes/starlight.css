@@ -1,11 +1,38 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOKS THEME: STARLIGHT
+ * ============================================================================
+ * Architecture: CSS Theme Variable Definitions
+ * Purpose: Defines the color palette for the "Starlight" reading theme.
+ *          This is a forced-dark theme that simulates a night sky, using 
+ *          deep indigo backgrounds with bright yellow and purple accents.
+ * 
+ * Future Maintenance Notes:
+ * - This file strictly defines CSS variables (\`--rs-*\`).
+ * - Starlight Pavilion is intrinsically a dark theme; it does not implement 
+ *   a light mode or OS-level auto-switching cascade. It forces dark mode 
+ *   regardless of user preference.
+ * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
+ *   meet WCAG AA standards for readability.
+ * ============================================================================
+ */
+
 /* Theme Name: Starlight */
 /* theme-starlight.css */
+
+/**
+ * ----------------------------------------------------------------------------
+ * 1. FORCED DARK PALETTE
+ * ----------------------------------------------------------------------------
+ * Applies a deep indigo/night sky palette with star-like yellow accents.
+ */
 body.theme-starlight {
-    --rs-bg: #020617; /* Very dark night sky */
-    --rs-surface: #0f172a;
-    --rs-text: #e2e8f0;
-    --rs-primary: #fcd34d; /* Star yellow */
-    --rs-secondary: #818cf8; /* Nebula purple */
-    --rs-border: #1e293b;
+    --rs-bg: #020617;       /* Very dark night sky/indigo background */
+    --rs-surface: #0f172a;  /* Slightly lighter indigo for elevated surfaces */
+    --rs-text: #e2e8f0;     /* Soft slate white for high contrast readability */
+    --rs-primary: #fcd34d;  /* Bright star yellow for primary actions */
+    --rs-secondary: #818cf8;/* Nebula purple for secondary UI elements */
+    --rs-border: #1e293b;   /* Dark slate border for subtle component separation */
 }
+
 /* Starlight Pavilion is dark, so it forces dark mode regardless of user preference */

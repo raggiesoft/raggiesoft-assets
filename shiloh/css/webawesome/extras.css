@@ -1,6 +1,25 @@
-/* extras.css (Crimson Node - Vanguard Update) */
+/**
+ * ============================================================================
+ * FILE: extras.css (Crimson Node - Vanguard Update)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This stylesheet defines utility classes and visual embellishments (extras) 
+ * for the 'Crimson Node' theme, built on top of WebAwesome/Bootstrap.
+ * It establishes the core aesthetic elements such as technical typography, 
+ * glassmorphism effects, HUD color systems, glowing fx, and LED indicators.
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Built to augment Bootstrap 5 variables (--bs-*).
+ * - Fully supports Bootstrap's data-bs-theme="dark" mode toggle.
+ * 
+ * FUTURE MAINTENANCE:
+ * - When adjusting the blur amounts for `.glass-card`, ensure compatibility
+ *   across webkit prefixes.
+ * - Always maintain WCAG AA contrast ratios in `.bg-hud-*` classes.
+ * ============================================================================
+ */
 
-/* 1. Technical Text (Track Lists, Metadata) */
+/* 1. Technical Text (Track Lists, Metadata) - Establishes monospace system */
 .tech-font, .metadata, .track-number {
     font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.85rem;
@@ -8,7 +27,7 @@
     text-transform: uppercase;
 }
 
-/* Safely style monospace without forcing uppercase inheritance */
+/* Safely style monospace without forcing uppercase inheritance. Useful for embedded code snippets. */
 .font-monospace {
     font-family: 'SFMono-Regular', Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.85rem;

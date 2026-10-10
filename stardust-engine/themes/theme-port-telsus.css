@@ -1,3 +1,28 @@
+/**
+ * ============================================================================
+ * FILE: theme-port-telsus.css (Stardust Engine Compiled Theme)
+ * ============================================================================
+ * ARCHITECTURAL OVERVIEW:
+ * This is the compiled stylesheet for the "Port Telsus" narrative theme, 
+ * representing an industrial, decaying, and hazardous environment. It aggregates 
+ * root variables, high-contrast structural overrides, and grimy visual FX 
+ * (like the hazard stripe footer).
+ * 
+ * DESIGN SYSTEM INTEGRATION:
+ * - Aggressively re-maps `--rs-*` variables to a "Blight" palette (smog, rust, 
+ *   sludge) in Light mode, and a "Cross-Way" palette (oil, neon, warning yellow) 
+ *   in Dark mode.
+ * - Forces sharp edges globally by setting `--rs-border-radius: 0px`.
+ * - Implements heavy CSS gradients (`repeating-linear-gradient`) and backdrop 
+ *   filters (`sepia`, `blur`) to achieve the "Dirty Visor" look.
+ * 
+ * FUTURE MAINTENANCE:
+ * - Because this is a compiled file, manual edits here may be overwritten if 
+ *   the upstream source files are recompiled.
+ * - Monitor the performance of `.bg-glass-dark`; combining `blur` and `sepia` 
+ *   filters can cause lag on mobile devices when scrolling over complex backgrounds.
+ * ============================================================================
+ */
 /* Stardust Engine Theme: port-telsus */
 
 /* --- root.css --- */

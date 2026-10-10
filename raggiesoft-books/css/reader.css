@@ -1,24 +1,56 @@
 /**
- * STARDUST ENGINE: READER STYLES (reader.css)
- * =========================================================
- * This stylesheet defines the structural and thematic styling for the 
- * reading environment. It contains CSS variables for light, dark, and sepia themes,
- * as well as the layout rules for the sliding sidebar and the reading pane.
+ * ============================================================================
+ * STARDUST ENGINE: READER STYLES - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet (`reader.css`) defines the core structural layout and 
+ * thematic styling for the Stardust Engine's reading environment. It manages 
+ * the presentation of the story content, the sliding navigation sidebar, 
+ * modal wizard dialogs, and platform-specific integrations (iOS tab bar, PWA).
+ * 
+ * Core Components:
+ * 1. Theming Engine: Utilizes CSS custom variables (`--rs-*`) applied to the 
+ *    `body` element to swap between Light, Dark, Sepia, and Dark-Sepia themes. 
+ *    It supports auto-detection via `prefers-color-scheme`.
+ * 2. Responsive Sidebar: Implements a sliding off-canvas menu on mobile 
+ *    (`.reader-sidebar.open`) and a static, fixed-width sidebar on desktop.
+ * 3. Mobile Scroll Fixes: Overrides body scrolling rules specifically for iOS 
+ *    and mobile webkit to ensure smooth touch scrolling and fix 100vh bugs.
+ * 4. iOS Tab Bar: A custom sticky bottom navigation bar styled to mimic native 
+ *    iOS app navigation with backdrop filters.
+ * 5. PWA Window Controls: Integrates with Desktop PWA Titlebar APIs to allow 
+ *    app dragging capabilities while masking the native title bar.
+ * 
+ * Maintainability Notes:
+ * - When adjusting themes, ensure all 6 core variables (`--rs-bg`, 
+ *   `--rs-bg-alt`, `--rs-card-bg`, `--rs-text`, `--rs-border`, `--rs-surface`) 
+ *   are defined for each state.
+ * - The `.ios-tab-bar` heavily relies on `env(safe-area-inset-bottom)` to 
+ *   avoid overlapping with the iPhone Home Indicator.
+ * ============================================================================
  */
 
 
 /* Reader Page (oliver.php) */
+/* Constrain story content width for optimal reading line length */
 .reader-page { max-width: 800px; margin: 0 auto; padding: 1rem; }
 .story-content { font-size: 1.15rem; line-height: 1.8; color: var(--rs-text); }
+/* Metadata headers for parts and series */
 .reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #007bff); margin-bottom: 1rem; opacity: 0.9; }
 .reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-text); margin: 0 0 1rem 0; line-height: 1.2; }
 
 /* Sidebar (sidebar.php) */
+/* Transition handles the slide animation on mobile */
 .reader-sidebar { padding: 1.5rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
+
+/* Mobile: Off-canvas sidebar hidden by default */
 @media (max-width: 991px) {
     .reader-sidebar { position: fixed !important; top: 0; left: 0; width: 300px; height: 100vh; z-index: 1000; transform: translateX(-100%); box-shadow: 5px 0 15px rgba(0,0,0,0.1); }
     .reader-sidebar.open { transform: translateX(0); }
 }
+
+/* Desktop: Static, permanent sidebar pushing content */
 @media (min-width: 992px) {
     #stardust-sidebar.reader-sidebar { position: static !important; transform: none !important; width: 350px !important; height: 100vh !important; z-index: 1 !important; box-shadow: none !important; flex-shrink: 0; border-right: 1px solid var(--rs-border); }
     #stardust-sidebar-toggle { display: none !important; }
@@ -27,34 +59,42 @@
 .toc-nav a:hover { opacity: 1 !important; color: var(--rs-primary); }
 
 /* Settings & Themes (settings-dialog.php) */
+/* Theme variable definitions injected onto the body tag */
 body.theme-dark { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
 body.theme-sepia, body.theme-sepia-system { --rs-bg: #f4ecd8; --rs-bg-alt: #eaddc4; --rs-card-bg: #fdf6e3; --rs-text: #5c4b37; --rs-border: #e0d5c1; --rs-surface: #fdf6e3; }
 body.theme-dark-sepia { --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-border: #4a4135; --rs-surface: #1f1b16; }
 
+/* System auto-detection */
 @media (prefers-color-scheme: dark) {
     body.theme-auto { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
     body.theme-sepia-system { --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-border: #4a4135; --rs-surface: #1f1b16; }
 }
 
+/* Native dialog backdrop styling */
 dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 
 /* Wizard Styles */
+/* Complex modal layout for the settings/onboarding wizard */
 .wizard-dialog { padding: 0; border-radius: 12px; border: 1px solid var(--rs-border); background: var(--rs-card-bg, var(--rs-surface, #fff)); color: var(--rs-text); max-width: 700px; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.2); overflow: hidden; }
 .wizard-container { display: flex; min-height: 450px; }
 .wizard-sidebar { width: 35%; background-color: #000; background-size: cover; background-position: center; border-right: 1px solid var(--rs-border); }
 .wizard-content { width: 65%; padding: 2.5rem; display: flex; flex-direction: column; }
 .wizard-step p { margin-bottom: 1rem; line-height: 1.6; font-size: 0.95rem; }
 .wizard-footer { margin-top: auto; display: flex; justify-content: space-between; border-top: 1px solid var(--rs-border); padding-top: 1.5rem; }
+
+/* Stack wizard on mobile */
 @media (max-width: 768px) {
     .wizard-container { flex-direction: column; min-height: auto; }
     .wizard-sidebar { width: 100%; display: none; background-position: top center; border-right: none; border-bottom: 1px solid var(--rs-border); }
     .wizard-content { width: 100%; padding: 1.5rem; }
 }
 
+/* Tab navigation inside wizards */
 .settings-tab { background: transparent; border: none; padding: 0.5rem 1rem; font-size: 0.95rem; color: var(--rs-text); opacity: 0.7; cursor: pointer; border-bottom: 2px solid transparent; }
 .settings-tab:hover { opacity: 1; }
 .settings-tab.active { opacity: 1; font-weight: 600; color: var(--rs-primary); border-bottom: 2px solid var(--rs-primary); }
 
+/* Theme-aware input fields */
 .rs-input { background: var(--rs-surface); color: var(--rs-text); border: 1px solid var(--rs-border); border-radius: 6px; font-family: inherit; }
 .rs-input:focus { outline: 2px solid var(--rs-primary); outline-offset: 1px; }
 
@@ -66,6 +106,7 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* Mobile Native Scroll Fix (Allows iOS Tap-to-Top and fixes 100vh bugs) */
+/* Forces the body to be the scrolling element on mobile so browser chrome hides */
 @media (max-width: 991px) {
     html, body {
         overflow-x: hidden !important;
@@ -90,6 +131,7 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* iOS Native Tab Bar styling */
+/* Fixed bottom navigation simulating native iOS Safari/PWA styling */
 .ios-tab-bar {
     position: fixed;
     bottom: 0;
@@ -132,6 +174,7 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 .ios-tab-item.inactive {
     color: #999999;
 }
+/* iOS Tab Bar Dark Mode variants */
 body.theme-dark .ios-tab-bar, 
 body.theme-dark-sepia .ios-tab-bar {
     background: rgba(28, 28, 30, 0.85);
@@ -154,11 +197,13 @@ body.theme-dark-sepia .ios-tab-item.inactive {
 }
 
 /* PWA Native Title Bar Integration */
+/* Allows dragging the window by grabbing the header when installed as a desktop PWA */
 @media (display-mode: window-controls-overlay) {
     .app-header, #stardust-header, .wizard-dialog header, .reader-sidebar {
         padding-top: env(titlebar-area-height, 10px);
         -webkit-app-region: drag;
     }
+    /* Exclude interactive elements from drag region */
     a, button, input, .wizard-content, .reader-page, .settings-tab {
         -webkit-app-region: no-drag;
     }
