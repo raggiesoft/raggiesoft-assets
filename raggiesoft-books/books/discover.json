@@ -1,0 +1,34 @@
+[
+    {
+        "title": "Trending Now",
+        "icon": "ph-trend-up",
+        "books": [
+            "alex-chloe",
+            "apex-fall-of-earth",
+            "quantum-directive-1-jessica",
+            "jack-sarah",
+            "stardust-engine"
+        ]
+    },
+    {
+        "title": "New Arrivals",
+        "icon": "ph-sparkle",
+        "books": [
+            "fractured-prisms",
+            "dream-kingdom",
+            "ruby-mountain",
+            "water-planet"
+        ]
+    },
+    {
+        "title": "Editor's Picks",
+        "icon": "ph-star",
+        "books": [
+            "rachel",
+            "nichole",
+            "meredith",
+            "aubrie",
+            "drew"
+        ]
+    }
+]
