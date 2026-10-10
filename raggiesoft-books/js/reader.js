@@ -317,7 +317,7 @@ function initOceanViewReader() {
         const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
         if (wizCustomTheme) wizCustomTheme.checked = customEnabled;
         
-        document.body.classList.remove('theme-light', 'theme-dark', 'theme-sepia', 'theme-dark-sepia', 'theme-auto', 'theme-custom');
+        document.body.classList.remove('theme-light', 'theme-dark', 'theme-sepia', 'theme-dark-sepia', 'theme-sepia-system', 'theme-auto', 'theme-custom');
         
         const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
         const narrativeTheme = customThemeMeta ? customThemeMeta.getAttribute('content') : null;
@@ -820,6 +820,7 @@ function initOceanViewReader() {
                 sequence.push({theme: 'auto', custom: true, label: 'Immersive Story Theme'});
             }
             sequence.push({theme: 'auto', custom: false, label: 'System Default Theme'});
+            sequence.push({theme: 'sepia-system', custom: false, label: 'System Sepia Theme'});
             sequence.push({theme: 'light', custom: false, label: 'Light Mode'});
             sequence.push({theme: 'dark', custom: false, label: 'Dark Mode'});
             sequence.push({theme: 'sepia', custom: false, label: 'Sepia Mode'});

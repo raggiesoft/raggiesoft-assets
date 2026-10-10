@@ -21,11 +21,12 @@
 
 /* Settings & Themes (settings-dialog.php) */
 body.theme-dark { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
-body.theme-sepia { --rs-bg: #f4ecd8; --rs-bg-alt: #eaddc4; --rs-card-bg: #fdf6e3; --rs-text: #5c4b37; --rs-border: #e0d5c1; --rs-surface: #fdf6e3; }
+body.theme-sepia, body.theme-sepia-system { --rs-bg: #f4ecd8; --rs-bg-alt: #eaddc4; --rs-card-bg: #fdf6e3; --rs-text: #5c4b37; --rs-border: #e0d5c1; --rs-surface: #fdf6e3; }
 body.theme-dark-sepia { --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-border: #4a4135; --rs-surface: #1f1b16; }
 
 @media (prefers-color-scheme: dark) {
     body.theme-auto { --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-border: #333; --rs-surface: #1e1e1e; }
+    body.theme-sepia-system { --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-border: #4a4135; --rs-surface: #1f1b16; }
 }
 
 dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
@@ -134,11 +135,13 @@ body.theme-dark-sepia .ios-tab-item.inactive {
     color: #757575;
 }
 @media (prefers-color-scheme: dark) {
-    body.theme-auto .ios-tab-bar {
+    body.theme-auto .ios-tab-bar,
+    body.theme-sepia-system .ios-tab-bar {
         background: rgba(28, 28, 30, 0.85);
         border-top: 0.5px solid rgba(255, 255, 255, 0.15);
     }
-    body.theme-auto .ios-tab-item.inactive {
+    body.theme-auto .ios-tab-item.inactive,
+    body.theme-sepia-system .ios-tab-item.inactive {
         color: #757575;
     }
 }
