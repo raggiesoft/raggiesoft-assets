@@ -208,3 +208,7 @@ body.theme-dark-sepia .ios-tab-item.inactive {
         -webkit-app-region: no-drag;
     }
 }
+
+#stardust-reading-pane {
+    background: var(--rs-bg) !important;
+}

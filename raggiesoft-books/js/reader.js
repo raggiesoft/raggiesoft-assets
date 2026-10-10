@@ -631,7 +631,7 @@ function initOceanViewReader() {
     if (btnFinish) {
         btnFinish.addEventListener('click', () => {
             localStorage.setItem('rs-wizard-completed', 'true');
-            if (wizardDialog) wizardDialog.close();
+            window.location.href = "/";
         });
     }
 
