@@ -377,6 +377,7 @@ function initOceanViewReader() {
     const btnDecrease = document.getElementById('btn-text-decrease');
     const btnReset = document.getElementById('btn-text-reset');
 
+    let currentTheme = 'auto';
     let currentFontSize = 1.15; 
     let currentWidth = 'default';
     let currentFontFamily = 'system-ui, -apple-system, sans-serif';
@@ -420,6 +421,7 @@ function initOceanViewReader() {
     // Core Theme Application Logic
     // Strips old themes and applies the new base theme, then layers the custom narrative theme if enabled.
     function applyTheme(theme, customEnabled = true) {
+        currentTheme = theme;
         currentCustomThemeEnabled = customEnabled;
         if (customThemeToggle) customThemeToggle.checked = customEnabled;
         const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
@@ -508,7 +510,7 @@ function initOceanViewReader() {
     // Persist to local storage
     function saveSettings() {
         localStorage.setItem('reader-settings', JSON.stringify({
-            theme: themeSelect ? themeSelect.value : 'auto',
+            theme: currentTheme,
             customThemeEnabled: currentCustomThemeEnabled,
             fontSize: currentFontSize,
             width: currentWidth,
