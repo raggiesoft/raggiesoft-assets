@@ -241,6 +241,53 @@ function initOceanViewReader() {
     }
 
 
+    
+
+    // --- BOOKMARKS LOGIC ---
+    const bookmarkBtn = document.getElementById('reader-bookmark-btn');
+    if (bookmarkBtn) {
+        bookmarkBtn.addEventListener('click', () => {
+            const currentUrl = window.location.pathname;
+            let title = document.title;
+            // Clean up title
+            if (title.includes('|')) title = title.split('|')[0].trim();
+            
+            // Extract series slug from URL (e.g. /alex-chloe/book-1/chapter-1)
+            const parts = currentUrl.split('/').filter(p => p.length > 0);
+            const series = parts.length > 0 ? parts[0] : 'unknown';
+
+            let bookmarks = [];
+            try {
+                bookmarks = JSON.parse(localStorage.getItem('rs-bookmarks')) || [];
+            } catch (e) {
+                bookmarks = [];
+            }
+            
+            // Check if already bookmarked
+            const existingIndex = bookmarks.findIndex(b => b.url === currentUrl);
+            if (existingIndex > -1) {
+                // Remove bookmark
+                bookmarks.splice(existingIndex, 1);
+                bookmarkBtn.innerHTML = '<i class="ph ph-bookmark"></i> Bookmark';
+                bookmarkBtn.style.opacity = '1';
+            } else {
+                // Add bookmark
+                bookmarks.push({ url: currentUrl, title: title, series: series, date: Date.now() });
+                bookmarkBtn.innerHTML = '<i class="ph-fill ph-bookmark"></i> Bookmarked';
+                bookmarkBtn.style.opacity = '0.8';
+            }
+            localStorage.setItem('rs-bookmarks', JSON.stringify(bookmarks));
+        });
+
+        // Initialize state
+        let bookmarks = [];
+        try { bookmarks = JSON.parse(localStorage.getItem('rs-bookmarks')) || []; } catch (e) {}
+        if (bookmarks.some(b => b.url === window.location.pathname)) {
+            bookmarkBtn.innerHTML = '<i class="ph-fill ph-bookmark"></i> Bookmarked';
+            bookmarkBtn.style.opacity = '0.8';
+        }
+    }
+
     // --- SETTINGS DIALOG ---
     const dialog = document.getElementById('reader-settings-dialog');
     const btnOpen = document.getElementById('reader-settings-toggle');
