@@ -1029,7 +1029,61 @@ function initOceanViewReader() {
             }
         }
     });
+    
+    initTranslationSwaps();
 } // end initOceanViewReader()
+
+window.applyTranslationMode = function(mode) {
+    const langSpans = document.querySelectorAll('.foreign-language');
+    langSpans.forEach(span => {
+        const orig = span.getAttribute('data-original');
+        const trans = span.getAttribute('data-translation');
+        if (!orig || !trans) return;
+        
+        span.dataset.currentMode = mode;
+        span.textContent = (mode === 'translated') ? trans : orig;
+    });
+};
+
+function initTranslationSwaps() {
+    const langSpans = document.querySelectorAll('.foreign-language');
+    langSpans.forEach(span => {
+        if (span.dataset.swapBound) return;
+        span.dataset.swapBound = 'true';
+        
+        span.style.cursor = 'pointer';
+        span.style.textDecoration = 'underline dotted';
+        span.style.textUnderlineOffset = '3px';
+        
+        span.addEventListener('click', (e) => {
+            const orig = span.getAttribute('data-original');
+            const trans = span.getAttribute('data-translation');
+            if (!orig || !trans) return;
+            
+            if (span.dataset.currentMode === 'original') {
+                span.dataset.currentMode = 'translated';
+                span.textContent = trans;
+            } else {
+                span.dataset.currentMode = 'original';
+                span.textContent = orig;
+            }
+        });
+    });
+    
+    try {
+        const stored = localStorage.getItem('reader-settings');
+        if (stored) {
+            const settings = JSON.parse(stored);
+            if (settings.translationMode) {
+                window.applyTranslationMode(settings.translationMode);
+            } else {
+                window.applyTranslationMode('original');
+            }
+        } else {
+            window.applyTranslationMode('original');
+        }
+    } catch(e) {}
+}
 
 // Prevent duplicate event listeners during SPA soft-navigations
 if (!window.oceanViewReaderInitialized) {
