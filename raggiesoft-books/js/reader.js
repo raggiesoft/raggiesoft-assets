@@ -1,3 +1,14 @@
+/**
+ * STARDUST ENGINE: READER APP LOGIC
+ * =========================================================
+ * This script initializes and controls the book reader interface (Oliver).
+ * It handles the sidebar toggling, keyboard shortcuts, font size, theme switching,
+ * text-to-speech audio syncing, and offline progress tracking.
+ * 
+ * NOTE FOR FUTURE MAINTAINERS:
+ * Most state is saved to the browser's localStorage so that reading progress 
+ * and settings persist between sessions without requiring user accounts or server calls.
+ */
 function initOceanViewReader() {
 
     // --- SIDEBAR ---

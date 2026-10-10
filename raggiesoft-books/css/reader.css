@@ -1,4 +1,11 @@
-/* Ocean View Book Reader Styles */
+/**
+ * STARDUST ENGINE: READER STYLES (reader.css)
+ * =========================================================
+ * This stylesheet defines the structural and thematic styling for the 
+ * reading environment. It contains CSS variables for light, dark, and sepia themes,
+ * as well as the layout rules for the sliding sidebar and the reading pane.
+ */
+
 
 /* Reader Page (oliver.php) */
 .reader-page { max-width: 800px; margin: 0 auto; padding: 1rem; }
