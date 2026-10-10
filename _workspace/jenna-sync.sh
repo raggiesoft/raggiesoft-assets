@@ -52,6 +52,7 @@ NARRATIVES_ROOT="$SERVER_ROOT/raggiesoft-narratives"
 NEBULAE_ROOT="$SERVER_ROOT/raggiesoft-nebulae"
 BOOKS_ROOT="$SERVER_ROOT/raggiesoft-book-library"
 LORE_ROOT="$SERVER_ROOT/raggiesoft-lore"
+MUSIC_ROOT="$SERVER_ROOT/raggiesoft-music"
 LOGS_DIR="$WORKSPACE_DIR/logs"
 
 # 2. DETECT RCLONE
@@ -344,6 +345,14 @@ function do_pull() {
         cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-lore.git
     else
         cd "$LORE_ROOT" && git pull origin main
+    fi
+
+    echo "   5.6 Checking Engine Room Records (Music Site)..."
+    if [ ! -d "$MUSIC_ROOT" ]; then
+        echo "      > Repository missing. Cloning Music Site from GitHub..."
+        cd "$SERVER_ROOT" && git clone https://github.com/raggiesoft/raggiesoft-music.git
+    else
+        cd "$MUSIC_ROOT" && git pull origin main
     fi
     
     echo "   6. Hauling the heavy boxes (DigitalOcean Spaces)..."

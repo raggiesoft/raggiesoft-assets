@@ -117,3 +117,7 @@ deploy_site "Books" "/home/michael/raggiesoft-book-library" "/var/www/raggiesoft
 # 4. PROCESS LORE GRAPH
 # Uses a specific sub-directory (out) as the deployment payload instead of the repo root
 deploy_site "Lore" "/home/michael/raggiesoft-lore" "/var/www/lore.raggiesoft.com" "/home/michael/raggiesoft-lore/out"
+
+# 5. PROCESS ENGINE ROOM RECORDS (MUSIC)
+# Assuming SvelteKit static adapter outputs to /build or /out, change the sync dir when scaffolded. Defaulting to repo root for now.
+deploy_site "Music" "/home/michael/raggiesoft-music" "/var/www/music.raggiesoft.com" "/home/michael/raggiesoft-music/build"
