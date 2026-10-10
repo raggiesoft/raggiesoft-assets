@@ -132,7 +132,7 @@ async function navigateTo(url, pushState = true) {
                 currentApp.replaceWith(layoutTarget);
             }
 
-            // 3. EXECUTE INJECTED SCRIPTS
+            // 3. EXECUTE INJECTED SCRIPTS & SYNC STYLESHEETS
             // Browsers will not execute <script> tags inserted via innerHTML/replaceWith.
             // We must manually clone and append them to force execution.
             const newlyInjectedApp = document.querySelector('#stardust-app');
@@ -142,6 +142,16 @@ async function navigateTo(url, pushState = true) {
                 Array.from(oldScript.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value));
                 newScript.appendChild(document.createTextNode(oldScript.innerHTML));
                 oldScript.parentNode.replaceChild(newScript, oldScript);
+            });
+
+            // Sync stylesheets from the new document's <head> to the current document's <head>
+            const newLinks = doc.head.querySelectorAll('link[rel="stylesheet"]');
+            const currentLinks = Array.from(document.head.querySelectorAll('link[rel="stylesheet"]')).map(l => l.href);
+            newLinks.forEach(newLink => {
+                if (!currentLinks.includes(newLink.href)) {
+                    const clonedLink = newLink.cloneNode();
+                    document.head.appendChild(clonedLink);
+                }
             });
 
             // 4. UPDATE BROWSER STATE

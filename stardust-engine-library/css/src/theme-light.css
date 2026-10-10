@@ -1,0 +1,6 @@
+body.theme-light {
+    --rs-bg: #ffffff;
+    --rs-text: #111111;
+    --rs-border: #e2e8f0;
+    --rs-surface: #f8fafc;
+}

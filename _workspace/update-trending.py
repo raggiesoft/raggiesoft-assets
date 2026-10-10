@@ -33,16 +33,29 @@ def get_trending_books():
         return None
 
     book_views = {}
+    
+    # Load valid book slugs from catalog.json
+    catalog_path = os.path.join(os.path.dirname(__file__), "../raggiesoft-books/books/catalog.json")
+    valid_slugs = set()
+    try:
+        with open(catalog_path, 'r') as f:
+            catalog_data = json.load(f)
+            for book in catalog_data:
+                valid_slugs.add(book.get("slug"))
+    except Exception as e:
+        print(f"Error loading catalog.json: {e}")
+        return None
+
     for row in response.rows:
         path = row.dimension_values[0].value
         views = int(row.metric_values[0].value)
         
-        # Extract book slug from path, assuming format /slug/chapter-1
+        # Extract book slug from path, assuming format /slug/chapter-1 or /slug
         parts = [p for p in path.split('/') if p]
         if parts:
             slug = parts[0]
-            # Ignore non-book paths if necessary (e.g., catalog, bookmarks, discover)
-            if slug not in ["catalog", "bookmarks", "discover", "settings", "about", "accessibility"]:
+            # Strictly filter against valid catalog.json slugs
+            if slug in valid_slugs:
                 book_views[slug] = book_views.get(slug, 0) + views
 
     # Sort books by views in descending order

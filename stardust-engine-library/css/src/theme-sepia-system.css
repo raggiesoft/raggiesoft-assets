@@ -1,0 +1,16 @@
+@media (prefers-color-scheme: dark) {
+    body.theme-sepia-system {
+        --rs-bg: #1a1714;
+        --rs-text: #cbb49e;
+        --rs-border: #3a3229;
+        --rs-surface: #26221d;
+    }
+}
+@media (prefers-color-scheme: light) {
+    body.theme-sepia-system {
+        --rs-bg: #f4ecd8;
+        --rs-text: #5b4636;
+        --rs-border: #d3c4a9;
+        --rs-surface: #e9dec5;
+    }
+}

@@ -1,0 +1,6 @@
+body.theme-dark {
+    --rs-bg: #121212;
+    --rs-text: #e0e0e0;
+    --rs-border: #333333;
+    --rs-surface: #1e1e1e;
+}
