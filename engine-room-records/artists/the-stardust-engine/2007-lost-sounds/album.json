@@ -1,21 +1,15 @@
 {
   "@context": "https://schema.org",
-  "@type": [
-    "MusicAlbum",
-    "Product"
-  ],
+  "@type": "MusicAlbum",
   "name": "Lost Sounds",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "CompilationAlbum",
-  "genre": "Archival Compilation",
-  "temporalCoverage": "2007",
-  "publisher": {
-    "@type": "Organization",
-    "name": "Internal Vault"
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2007-11-20"
   },
-  "conditionsOfAccess": "Cleared - Internal Vault Only",
-  "creativeWorkStatus": "Abandoned Project"
+  "temporalCoverage": "2007-11-20",
+  "genre": "80s Rock, B-Sides, Rarities"
 }
