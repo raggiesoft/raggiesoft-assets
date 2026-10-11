@@ -1,9 +1,9 @@
-LORE NOTE:
+**LORE NOTE:**
 The opening statement of the "Freedom Era." While The Warehouse Tapes (1995) was a raw "bat signal" to the fans, Hard Reset (1997) was a professional declaration. This track serves as the direct narrative sequel to the 1995 epic Escape Velocity (Ad Astra).
 
 Where Ad Astra ended with the ship clearing the atmosphere, Hard Reset begins with the terrifying silence of space. The main engines have cut out, and the crew realizes they must manually reboot the ship's core to stabilize their orbit. It is a metaphor for the band's own journey: they escaped the gravity of Apex Records, but now they must survive the vacuum of independence.
 
-LYRICS:
+**LYRICS:**
 [Intro]
 (A deep, resonant bass thrum starts the track—like a massive engine idling. A high-pitched telemetry bleep repeats in time. Then, a heavy, driving drum fill kicks in.)
 

@@ -24,7 +24,7 @@
 * **Engine Room ID:** ERR-001-2007-104
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 4:57
 * **Fictional Narrative Release Date:** 2007-11-20
 * **Master File Located At:** ../../vault/wav/1-04-empty-arenas.wav
 

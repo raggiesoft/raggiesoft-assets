@@ -1,7 +1,7 @@
-# Zero-G Sanctuary - DistroKid Quick-Copy Sheet
+# Sanctuary: Zero G (Rough Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
-* **Track Title:** Zero-G Sanctuary
+* **Track Title:** Sanctuary: Zero G (Rough Mix)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11
@@ -24,7 +24,7 @@
 * **Engine Room ID:** ERR-001-2007-107
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 5:18
 * **Fictional Narrative Release Date:** 2007-11-20
 * **Master File Located At:** ../../vault/wav/1-07-zero-g-sanctuary.wav
 

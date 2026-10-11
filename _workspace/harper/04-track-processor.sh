@@ -166,11 +166,11 @@ else
 
 fi
 
-# Store the updated runtime in the temp JSONL payload for later saving
+# Store the updated runtime in the live tracks.json directly to prevent race conditions
 if [ -n "$RUNTIME" ]; then
-    echo "$track_json" | jq -c --arg rt "$RUNTIME" '. + {duration: $rt}' >> "$TEMP_TRACKS_JSONL"
-else
-    echo "$track_json" >> "$TEMP_TRACKS_JSONL"
+    jq --arg rt "$RUNTIME" --arg file "$FILE_BASE" \
+      '.tracks |= map(if .fileName == $file then .duration = $rt else . end)' \
+      tracks.json > tracks.json.tmp && mv tracks.json.tmp tracks.json
 fi
 
 WAV_FILE="$LOCAL_WAV"

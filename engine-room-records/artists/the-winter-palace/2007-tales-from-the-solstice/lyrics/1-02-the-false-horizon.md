@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Verse 1]
 Rolling south down Hampton line
 Tracing the grid inside the mind

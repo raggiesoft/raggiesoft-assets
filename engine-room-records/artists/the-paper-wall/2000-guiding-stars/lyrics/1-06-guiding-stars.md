@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Intro]
 (A powerful, driving 80s rock drum beat kicks in immediately with a bright, instantly memorable synthesizer riff. A soaring electric guitar joins in, and the energy is high from the very first second.)
 

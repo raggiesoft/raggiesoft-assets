@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Verse 1]
 Another Monday, bells are ringing loud
 Lost inside a noisy, shuffling crowd

@@ -24,7 +24,7 @@
 * **Engine Room ID:** ERR-001-2007-108
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 4:36
 * **Fictional Narrative Release Date:** 2007-11-20
 * **Master File Located At:** ../../vault/wav/1-08-steel-and-synthetics.wav
 

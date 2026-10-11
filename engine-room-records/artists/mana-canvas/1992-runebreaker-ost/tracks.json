@@ -7,7 +7,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 1,
-      "duration": "3:19"
+      "duration": "3:19",
+      "isrc": "QTA7V2622545"
     },
     {
       "fileName": "1-02-insert-coin",
@@ -16,7 +17,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 2,
-      "duration": "3:58"
+      "duration": "3:58",
+      "isrc": "QTA7V2622546"
     },
     {
       "fileName": "1-03-static-and-pixels",
@@ -25,7 +27,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 3,
-      "duration": "3:41"
+      "duration": "3:41",
+      "isrc": "QTA7V2622547"
     },
     {
       "fileName": "1-04-oceas-theme",
@@ -34,7 +37,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 4,
-      "duration": "2:37"
+      "duration": "2:37",
+      "isrc": "QTA7V2622548"
     },
     {
       "fileName": "1-05-the-crystal-plains",
@@ -43,7 +47,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 5,
-      "duration": "2:38"
+      "duration": "2:38",
+      "isrc": "QTA7V2622549"
     },
     {
       "fileName": "1-06-sanctuary-village",
@@ -52,7 +57,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 6,
-      "duration": "2:54"
+      "duration": "2:54",
+      "isrc": "QTA7V2622550"
     },
     {
       "fileName": "1-07-sanctuary-inn",
@@ -61,7 +67,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 7,
-      "duration": "2:17"
+      "duration": "2:17",
+      "isrc": "QTA7V2622551"
     },
     {
       "fileName": "1-08-the-crystal-sage",
@@ -70,7 +77,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 8,
-      "duration": "3:03"
+      "duration": "3:03",
+      "isrc": "QTA7V2622552"
     },
     {
       "fileName": "1-09-half-a-medallion",
@@ -79,7 +87,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 9,
-      "duration": "3:44"
+      "duration": "3:44",
+      "isrc": "QTA7V2622553"
     },
     {
       "fileName": "1-10-glitch-phantoms",
@@ -88,7 +97,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 10,
-      "duration": "2:32"
+      "duration": "2:32",
+      "isrc": "QTA7V2622554"
     },
     {
       "fileName": "1-11-the-iron-sentinels",
@@ -97,7 +107,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 11,
-      "duration": "2:45"
+      "duration": "2:45",
+      "isrc": "QTA7V2622555"
     },
     {
       "fileName": "1-12-tays-theme",
@@ -106,7 +117,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 12,
-      "duration": "2:52"
+      "duration": "2:52",
+      "isrc": "QTA7V2622556"
     },
     {
       "fileName": "1-13-the-grand-decree",
@@ -115,7 +127,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 13,
-      "duration": "5:04"
+      "duration": "5:04",
+      "isrc": "QTA7V2622557"
     },
     {
       "fileName": "1-14-golden-data",
@@ -124,7 +137,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 14,
-      "duration": "2:09"
+      "duration": "2:09",
+      "isrc": "QTA7V2622558"
     },
     {
       "fileName": "1-15-dungeon-escape",
@@ -133,7 +147,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 15,
-      "duration": "2:42"
+      "duration": "2:42",
+      "isrc": "QTA7V2622559"
     },
     {
       "fileName": "1-16-guardian-of-the-gate",
@@ -142,7 +157,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 16,
-      "duration": "3:07"
+      "duration": "3:07",
+      "isrc": "QTA7V2622560"
     },
     {
       "fileName": "1-17-the-corrupted-ceremony",
@@ -151,7 +167,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 17,
-      "duration": "2:57"
+      "duration": "2:57",
+      "isrc": "QTA7V2622561"
     },
     {
       "fileName": "1-18-the-wizards-ruin",
@@ -160,7 +177,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 18,
-      "duration": "3:28"
+      "duration": "3:28",
+      "isrc": "QTA7V2622562"
     },
     {
       "fileName": "1-19-the-wizards-lair-phase-one",
@@ -169,7 +187,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 19,
-      "duration": "2:52"
+      "duration": "2:52",
+      "isrc": "QTA7V2622564"
     },
     {
       "fileName": "1-20-the-true-form",
@@ -178,7 +197,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 20,
-      "duration": "2:58"
+      "duration": "2:58",
+      "isrc": "QTA7V2622565"
     },
     {
       "fileName": "1-21-the-grand-decree-reprise",
@@ -187,7 +207,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 21,
-      "duration": "3:08"
+      "duration": "3:08",
+      "isrc": "QTA7V2622566"
     },
     {
       "fileName": "1-22-game-over",
@@ -196,7 +217,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 22,
-      "duration": "3:18"
+      "duration": "3:18",
+      "isrc": "QTA7V2622567"
     },
     {
       "fileName": "1-23-save-state-staff-roll",
@@ -205,7 +227,8 @@
       "disc": 1,
       "discName": "Runebreaker",
       "track": 23,
-      "duration": "3:23"
+      "duration": "3:23",
+      "isrc": "QTA7V2622568"
     }
   ]
 }

@@ -242,9 +242,6 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
     # --------------------------------------------------------------------------
     # 6. Track Processing Loop (Sub-Module)
     # --------------------------------------------------------------------------
-    # Prepare a temp file to rewrite the tracks.json with updated exact runtimes
-    TEMP_TRACKS_JSONL="temp_tracks_update.jsonl"
-    > "$TEMP_TRACKS_JSONL"
     declare -a PIDS=()
 
     # Loop through the tracks array in tracks.json and spawn the track processor
@@ -270,13 +267,6 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
         done
         echo "      ✅ HARPER: All multi-tier audio verified."
     fi
-
-    # Rewrite tracks.json with duration data obtained during the run
-    if [ -s "$TEMP_TRACKS_JSONL" ]; then
-         jq -s '{tracks: .}' "$TEMP_TRACKS_JSONL" > "tracks.json"
-         echo "      💾 HARPER: tracks.json successfully updated with exact audio runtimes."
-    fi
-    rm -f "$TEMP_TRACKS_JSONL"
 
     # --------------------------------------------------------------------------
     # 8. Master Lyric Booklet Generation

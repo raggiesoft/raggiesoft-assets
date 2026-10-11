@@ -1,3 +1,4 @@
+
 **LORE NOTE:**
 The legendary 1992 punk-rock vent track. Recorded entirely in secret during their bitter legal dispute with Apex Records, the band absolutely shreds their former label for their suffocating creative control. The sheer anger in Ryan's guitar work makes this a standout deep cut. It was never intended for public release, serving strictly as a therapeutic middle finger to the studio executives.
 
@@ -61,3 +62,6 @@ Tear it up!
 Burn it down!
 We are out of here!
 (Song ends abruptly on a final, crashing chord and the sound of paper ripping)
+
+
+***

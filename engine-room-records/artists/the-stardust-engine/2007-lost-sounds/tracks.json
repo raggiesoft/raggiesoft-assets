@@ -7,23 +7,28 @@
       "disc": 1,
       "discName": "Lost Sounds",
       "track": 1,
-      "duration": "4:14"
+      "duration": "4:14",
+      "isrc": ""
     },
     {
       "fileName": "1-02-midnight-drivers-demo",
       "title": "Midnight Drivers (Basement Demo)",
-      "masterWavPath": "demos/midnight-drivers-demo",
+      "masterWavPath": "demos/midnight-drivers-basement-demo",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 2
+      "track": 2,
+      "duration": "3:10",
+      "isrc": "QZWFW2601366"
     },
     {
       "fileName": "1-03-radio-silence",
       "title": "Radio Silence",
-      "masterWavPath": "outtakes/radio-silence",
+      "masterWavPath": "studio/radio-silence",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 3
+      "track": 3,
+      "duration": "4:29",
+      "isrc": ""
     },
     {
       "fileName": "1-04-empty-arenas",
@@ -31,7 +36,9 @@
       "masterWavPath": "outtakes/empty-arenas",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 4
+      "track": 4,
+      "duration": "4:57",
+      "isrc": ""
     },
     {
       "fileName": "1-05-the-contract",
@@ -39,7 +46,9 @@
       "masterWavPath": "outtakes/the-contract",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 5
+      "track": 5,
+      "duration": "3:18",
+      "isrc": ""
     },
     {
       "fileName": "1-06-neon-hearts-acoustic",
@@ -47,15 +56,19 @@
       "masterWavPath": "demos/neon-hearts-acoustic",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 6
+      "track": 6,
+      "duration": "3:22",
+      "isrc": ""
     },
     {
       "fileName": "1-07-zero-g-sanctuary",
-      "title": "Zero-G Sanctuary",
+      "title": "Sanctuary: Zero G (Rough Mix)",
       "masterWavPath": "outtakes/zero-g-sanctuary",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 7
+      "track": 7,
+      "duration": "5:18",
+      "isrc": ""
     },
     {
       "fileName": "1-08-steel-and-synthetics",
@@ -63,7 +76,69 @@
       "masterWavPath": "outtakes/steel-and-synthetics",
       "disc": 1,
       "discName": "Lost Sounds",
-      "track": 8
+      "track": 8,
+      "duration": "4:36",
+      "isrc": ""
+    },
+    {
+      "fileName": "1-09-our-own-frequency",
+      "title": "Our Own Frequency",
+      "masterWavPath": "studio/our-own-frequency",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 9,
+      "duration": "3:24",
+      "isrc": ""
+    },
+    {
+      "fileName": "1-10-the-promise-corporate-demo",
+      "title": "The Promise (Corporate Demo)",
+      "masterWavPath": "demos/the-promise-corporate-demo",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 10,
+      "duration": "3:48",
+      "isrc": "QZTBA2678359"
+    },
+    {
+      "fileName": "1-11-the-promise-sabotage-demo",
+      "title": "The Promise (Sabotage Demo)",
+      "masterWavPath": "demos/the-promise-sabotage-demo",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 11,
+      "duration": "3:38",
+      "isrc": "QZTBA2678360"
+    },
+    {
+      "fileName": "1-12-atmosphere-warehouse-demo",
+      "title": "Atmosphere (Warehouse Demo)",
+      "masterWavPath": "demos/atmosphere-warehouse-demo",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 12,
+      "duration": "5:01",
+      "isrc": "QZTB62697618"
+    },
+    {
+      "fileName": "1-13-sanctuary-in-the-storm",
+      "title": "Sanctuary in the Storm",
+      "masterWavPath": "outtakes/sanctuary-in-the-storm",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 13,
+      "duration": "5:19",
+      "isrc": ""
+    },
+    {
+      "fileName": "1-14-not-her",
+      "title": "Not Her",
+      "masterWavPath": "outtakes/not-her",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 14,
+      "duration": "4:24",
+      "isrc": ""
     }
   ]
 }

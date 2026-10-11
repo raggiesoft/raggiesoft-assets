@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 \[Intro]
 (Sudden, heavy driving cello riff enters)
 (Concussive rock drum kit and distorted rhythm guitar crash in)

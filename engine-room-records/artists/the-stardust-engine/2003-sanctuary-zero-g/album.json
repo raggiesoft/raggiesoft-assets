@@ -12,14 +12,18 @@
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "Atmospheric Synth-Pop / Ambient / Space Rock",
-  "datePublished": "",
   "temporalCoverage": "2003-10-10",
-  "description": "The first half of the 2003 'Twin Moons' project. Acting as the 'Anchor', this album features exclusively female vocals from Cassidy O'Connell. It is the ultimate showcase of The Cosmic Tidal Lock Sound™—a mathematically precise, zero-gravity atmospheric masterpiece recorded while the band constructed their permanent Blacksburg studio. It represents finding a peaceful, silent sanctuary in the endless black.",
-  "gtin12": "",
+  "description": "The first half of the 2003 'Twin Moons' project. Acting as the 'Anchor', this album features exclusively female vocals from Cassidy O'Connell. It is the ultimate showcase of The Cosmic Tidal Lock Sound\u2122\u2014a mathematically precise, zero-gravity atmospheric masterpiece recorded while the band constructed their permanent Blacksburg studio. It represents finding a peaceful, silent sanctuary in the endless black.",
+  "gtin12": "882061217500",
   "publisher": {
     "@type": "Organization",
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Pending Distribution",
-  "creativeWorkStatus": "Upcoming Release"
+  "creativeWorkStatus": "Upcoming Release",
+  "distroKidUploadDate": "2026-08-17",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-08-17"
+  }
 }

@@ -1,3 +1,8 @@
+**LORE NOTE:**
+This track captures the live arena performance of the villain's signature anthem, recorded at Sanctuary Stadium.
+
+**LYRICS:**
+
 [Style: 16-bit retro video game soundchip, 1980s arena rock progressive metal, sweeping chiptune power chords over distorted analog synth drone, heavy stadium drum beat, massive arena delay and crowd ambiance, long instrumental intro unfolding into a massive stadium anthem, villainous male vocal leading a stadium audience chant]
 
 [Extended Live Arena Intro]

@@ -13,14 +13,19 @@
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "80s Pop / Synthwave / Rock Opera",
-  "datePublished": "2026-08-28",
   "temporalCoverage": "2003-12-10",
   "description": "The triumphant conclusion to Jordan's journey. Following a catastrophic, trauma-induced heart attack, this act documents his grueling CVICU recovery, his vibrant 1980s musical awakening, and the unbreakable 'Pact of Six' that helps him forge a permanent sanctuary.",
-  "gtin12": "",
+  "gtin12": "882011718965",
   "publisher": {
     "@type": "Organization",
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Pending Distribution",
-  "creativeWorkStatus": "Upcoming Release"
+  "creativeWorkStatus": "Upcoming Release",
+  "distroKidUploadDate": "2026-08-14",
+  "distroKidPreorderDate": "2026-09-18",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-09-25"
+  }
 }

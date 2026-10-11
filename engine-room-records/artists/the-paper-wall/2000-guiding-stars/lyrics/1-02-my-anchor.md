@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Verse 1]
 The senior year is drawing down
 In this quiet, sleepy little town

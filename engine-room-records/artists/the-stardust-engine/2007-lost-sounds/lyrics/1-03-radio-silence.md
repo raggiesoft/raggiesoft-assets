@@ -1,3 +1,4 @@
+
 **LORE NOTE:**
 A 1986 deep cut demo that Apex Records threw out during the *Electric Color* selection process because it was deemed "too heavy on the synths and too light on the pop". It remained a fan-favorite myth among diehards who traded bootleg cassette tapes, finally getting an official release on this vault compilation.
 
@@ -55,3 +56,6 @@ In the radio silence
 Just static...
 Just silence...
 (Fades out with the sound of a radio dial turning through dead stations)
+
+
+***

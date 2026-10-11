@@ -24,7 +24,7 @@
 * **Engine Room ID:** ERR-001-2007-106
 * **ISRC:** 
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 3:22
 * **Fictional Narrative Release Date:** 2007-11-20
 * **Master File Located At:** ../../vault/wav/1-06-neon-hearts-acoustic.wav
 

@@ -13,14 +13,19 @@
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "Rock Opera / Industrial / 80s Pop",
-  "datePublished": "",
   "temporalCoverage": "2001-11-20",
   "description": "The defining masterpiece of the post-grunge era. A harrowing, autobiographical concept album detailing frontman Julian Croft's survival of abuse, his cross-country escape, and his return to the 'Safe Harbor'.",
-  "gtin12": "",
+  "gtin12": "882011766379",
   "publisher": {
     "@type": "Organization",
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Pending Distribution",
-  "creativeWorkStatus": "Upcoming Release"
+  "creativeWorkStatus": "Upcoming Release",
+  "distroKidUploadDate": "2026-08-13",
+  "distroKidPreorderDate": "2026-08-27",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-09-04"
+  }
 }

@@ -1,3 +1,4 @@
+
 **LORE NOTE:**
 This alternate version of "The Stardust Engine" was one of the original demos shopped around to record companies when the band formed in 1986. Apex Records signed them but rejected this version, burying the final studio version as track 13 on 1987's *Electric Color*. The band famously despises Apex for what happened to them during the 1992 label dispute. For this vault release, they officially retitled this early cut "(The Rejected Mix)" instead of naming Apex Records directly, serving as a quiet nod to their lingering resentment.
 
@@ -59,3 +60,6 @@ Turning our future on, shining so bright!
 Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
+
+
+***

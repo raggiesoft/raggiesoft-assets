@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Intro]
 (A memorable, melodic synthesizer riff kicks in immediately with a driving, steady 80s drum machine beat and a clean, chorus-effect electric guitar.)
 

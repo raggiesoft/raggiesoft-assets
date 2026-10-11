@@ -1,3 +1,4 @@
+
 **LORE NOTE:**
 This is an early, raw basement recording of what would eventually become the title track of their 2001 retro-engineered album. Recorded in 1987 before the track was polished in the studio (which Apex Records ultimately deemed too dark and shelved), this gritty demo captures the isolating, moody energy the band originally envisioned before the label interference.
 
@@ -51,3 +52,6 @@ Midnight drivers, in the fading light
 
 [Outro]
 *(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
+
+
+***

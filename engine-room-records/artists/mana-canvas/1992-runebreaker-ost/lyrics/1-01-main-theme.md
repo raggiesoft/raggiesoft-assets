@@ -1,3 +1,6 @@
-# Main Theme
+**LORE NOTE:**
+This is an instrumental track from the official soundtrack.
 
-(Instrumental)
+**LYRICS:**
+
+[Instrumental]

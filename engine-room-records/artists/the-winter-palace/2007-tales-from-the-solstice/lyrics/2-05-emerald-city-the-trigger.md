@@ -1,3 +1,8 @@
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Verse 1]
 Looking through the rain-streaked glass
 Waiting for the gray to pass

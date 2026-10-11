@@ -3,18 +3,18 @@ This is the raw, acoustic sketch of what would become their heavily manufactured
 
 **LYRICS:**
 
-(Verse 1)
+[Verse 1]
 The city's humming, the lights are low
 I'm waiting for you, I'm ready to go
 The rain is tapping on the glass
 I knew this feeling was built to last
 
-(Pre-Chorus)
+[Pre-Chorus]
 I hear your footsteps in the hall
 I'm not afraid to fall
 This is the only thing I know is true
 
-(Chorus)
+[Chorus]
 You've got my neon heart
 Shining for you in the dark
 A love so bright, it's off the charts
@@ -22,18 +22,18 @@ You've got my neon heart
 It's an electric-colored feeling
 And it all starts with you
 
-(Verse 2)
+[Verse 2]
 We're walking fast on the wet concrete
 The rhythm matches when our eyes meet
 Don't need a promise, don't need a vow
 My only moment is right here, right now
 
-(Pre-Chorus)
+[Pre-Chorus]
 I hear your footsteps in the hall
 I'm not afraid to fall
 This is the only thing I know is true
 
-(Chorus)
+[Chorus]
 You've got my neon heart
 Shining for you in the dark
 A love so bright, it's off the charts
@@ -41,12 +41,12 @@ You've got my neon heart
 It's an electric-colored feeling
 And it all starts with you
 
-(Bridge)
+[Bridge]
 (A soft, melodic acoustic guitar solo)
 Let the city sleep, we're wide awake
 A chance that we're both gonna take!
 
-(Chorus)
+[Chorus]
 You've got my neon heart
 Shining for you in the dark
 A love so bright, it's off the charts
@@ -54,7 +54,7 @@ You've got my neon heart
 It's an electric-colored feeling
 And it all starts with you
 
-(Outro)
+[Outro]
 My neon heart... (Shining for you)
 My neon heart...
 (fades out on a gentle acoustic strum)

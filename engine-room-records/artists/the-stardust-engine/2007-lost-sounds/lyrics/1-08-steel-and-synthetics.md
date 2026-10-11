@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The final track of the compilation, originally written during the 1997 *Hard Reset* sessions. It serves as a love letter to the band's dual identities—the "Steel" of rock and the "Synthetics" of electronic music. It was cut simply due to runtime constraints on the double album, but serves as the perfect closer for *Lost Sounds*.
+Originally written during the 1997 *Hard Reset* sessions. It serves as a love letter to the band's dual identities—the "Steel" of rock and the "Synthetics" of electronic music. It was cut simply due to runtime constraints on the double album, but remains a fan favorite.
 
 **LYRICS:**
 

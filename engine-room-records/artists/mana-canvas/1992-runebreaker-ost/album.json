@@ -8,6 +8,16 @@
   },
   "genre": "16-bit Ambient / SPC-700",
   "temporalCoverage": "1992-10-30",
-  "description": "An SPC-700 ambient 16-bit soundtrack chronicling Ocea's journey into the digital realm."
+  "description": "An SPC-700 ambient 16-bit soundtrack chronicling Ocea's journey into the digital realm.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "gtin12": "700521520499",
+  "distroKidUploadDate": "2026-10-11",
+  "distroKidPreorderDate": "2026-10-22",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-10-23"
+  }
 }
-

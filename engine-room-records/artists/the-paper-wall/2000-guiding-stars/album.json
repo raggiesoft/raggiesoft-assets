@@ -13,7 +13,6 @@
   "albumReleaseType": "AlbumRelease",
   "genre": "80s Rock / New Wave / Heartland Rock",
   "description": "The uplifting 1980s prequel to Static & Silence. It chronicles the unbreakable bond between Leo, his twin sister Luna, their older sister Stella, and his best friend Olivia, establishing the deep roots of their 'found family' dynamic before the darkness set in.",
-  "datePublished": "2026-08-28",
   "temporalCoverage": "2000-08-20",
   "publisher": {
     "@type": "Organization",
@@ -21,5 +20,12 @@
   },
   "conditionsOfAccess": "Pending Distribution",
   "creativeWorkStatus": "Upcoming Release",
-  "isRockOpera": true
+  "isRockOpera": true,
+  "gtin12": "882011684321",
+  "distroKidUploadDate": "2026-08-14",
+  "distroKidPreorderDate": "2026-08-21",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-08-28"
+  }
 }

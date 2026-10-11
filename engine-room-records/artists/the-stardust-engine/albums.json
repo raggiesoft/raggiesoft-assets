@@ -188,5 +188,27 @@
         "description": "Blistering, distorted electric guitars and aggressive rock energy. A visceral, high-friction confrontation with the trauma of The Crash of '90."
       }
     ]
+  },
+  "burnout-hiatus": {
+    "label": "The Burnout Hiatus",
+    "heading": "2007: The Archival Releases",
+    "description": "During the band's \"Burnout Hiatus\" (2008-2014), this collection was a gift to the fans who had kept the flame alive.",
+    "albums": [
+      {
+        "title": "Lost Sounds",
+        "year": "2007",
+        "url": "/engine-room/artists/stardust-engine/discography/2007-lost-sounds",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-06-03",
+        "genre": "Archival Compilation",
+        "description": "It collects the \"Lost Gems\" of the Apex era—polished demos, B-sides, and controversial tracks that the studio buried."
+      }
+    ]
   }
 }

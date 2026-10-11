@@ -12,13 +12,17 @@
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "1980s Pop & Rock / Synth-Prog",
-  "datePublished": "2026-09-07",
   "temporalCoverage": "2002-09-18",
-  "gtin12": "",
+  "gtin12": "700978540606",
   "publisher": {
     "@type": "Organization",
     "name": "Engine Room Records"
   },
   "conditionsOfAccess": "Cleared - Suno Commercial Premium License",
-  "creativeWorkStatus": "Active Release"
+  "creativeWorkStatus": "Active Release",
+  "distroKidUploadDate": "2026-09-07",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-09-18"
+  }
 }
