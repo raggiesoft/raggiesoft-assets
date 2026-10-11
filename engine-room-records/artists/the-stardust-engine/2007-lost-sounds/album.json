@@ -1,15 +1,27 @@
 {
   "@context": "https://schema.org",
-  "@type": "MusicAlbum",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
   "name": "Lost Sounds",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
+  "albumProductionType": "CompilationAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "80s Rock, B-Sides, Rarities",
+  "temporalCoverage": "2007-11-20",
+  "description": "It collects the \"Lost Gems\" of the Apex era—polished demos, B-sides, and controversial tracks that the studio buried.",
+  "gtin12": "700521345184",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DistroKid"
+  },
+  "distroKidUploadDate": "2026-10-11",
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2007-11-20"
-  },
-  "temporalCoverage": "2007-11-20",
-  "genre": "80s Rock, B-Sides, Rarities"
+    "datePublished": "2026-10-11"
+  }
 }
