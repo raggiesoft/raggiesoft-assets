@@ -72,15 +72,6 @@
         "hide": false
     },
     {
-        "slug": "dream-kingdom",
-        "title": "Dream Kingdom",
-        "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
-        "image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
-        "first_route": "/raggiesoft-books/books/dream-kingdom/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
-        "folder": "dream-kingdom",
-        "hide": false
-    },
-    {
         "slug": "drew",
         "title": "The Drew Narrative",
         "description": "The story of Drew and his twin sister Maggie.",
@@ -213,6 +204,15 @@
         "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
         "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/part-1-the-traitor",
         "folder": "ruby-mountain",
+        "hide": false
+    },
+    {
+        "slug": "runebreaker",
+        "title": "Dream Kingdom",
+        "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
+        "image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
+        "first_route": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
+        "folder": "runebreaker",
         "hide": false
     },
     {
